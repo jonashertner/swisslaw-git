@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. Februar 2024)
+vom 15. August 2018 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -760,6 +760,8 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 **Abschluss völkerrechtlicher Verträge im Zusammenhang mit dem Visakodex**[^34b-1]
 
+<sup>1</sup>
+
 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zum Visakodex[^34b-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34b-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
 
 - a. die Festlegung einer einheitlichen Liste von Belegen, die in den einzelnen Konsularbezirken zu verwenden ist (Art. 14 Abs. 5*a*);
@@ -769,10 +771,19 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 - e. Weisungen zur Erteilung von Visa an den Schengener Aussengrenzen an Seeleute (Art. 36 Abs. 2*a*);
 - f. Weisungen zur praktischen Anwendung des Visakodex (Art. 51).
 
+<sup>2</sup>
+
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten des Rates der EU zum Visakodex, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
+
+- a. die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25*a* Abs. 5 Bst. a);
+- b. die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25*a* Abs. 5 Bst. b);
+- c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25*a* Abs. 8).[^34b-5]
+
 [^34b-1]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 [^34b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^34b-5]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> février 2024)
+du 15 août 2018 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -758,6 +758,8 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 **Conclusion de traités internationaux liés au code des visas**[^34b-1]
 
+<sup>1</sup>
+
 Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au code des visas[^34b-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34b-3] et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du code des visas et qu’ils concernent les domaines suivants:
 
 - a. l’adoption d’une liste harmonisée des documents justificatifs à utiliser dans chaque arrondissement consulaire (art. 14, par. 5<sup>bis</sup>);
@@ -767,10 +769,19 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 - e. les instructions opérationnelles relatives à la délivrance aux marins de visas aux frontières extérieures de Schengen (art. 36, par. 2<sup>bis</sup>);
 - f. les instructions relatives à l’application pratique du code des visas (art. 51).
 
+<sup>2</sup>
+
+Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution du Conseil du l’UE relatifs au code des visas, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du code des visas et qu’ils concernent les domaines suivants:
+
+- a. la suspension de l’application de la gratuité des visas ou des facilités concernant la production de documents justificatifs, les délais de traitement ou la délivrance de visas à entrées multiples à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui ne coopère pas suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 5, let. a);
+- b. l’augmentation progressive de l’émolument de visa si l’État tiers concerné continue de ne pas coopérer suffisamment (art. 25<sup>bis</sup>, par. 5, let. b);
+- c. l’octroi de facilités particulières à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui coopère suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 8).[^34b-5]
+
 [^34b-1]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^34b-5]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 (RO **20****24** 75).
 
 #### Art. 34c
 

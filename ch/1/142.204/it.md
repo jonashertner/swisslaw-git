@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-02-01
+version: 2024-03-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240201/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° febbraio 2024)
+del 15 agosto 2018 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -759,6 +759,8 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 **Conclusione di trattati internazionali legati codice dei visti**[^34b-1]
 
+<sup>1</sup>
+
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al codice dei visti[^34b-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34b-3] e gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del codice dei visti e riguardino gli ambiti seguenti:
 
 - a. l’adozione di un elenco armonizzato di documenti giustificativi da usare in ciascuna giurisdizione (art. 14 par. 5<sup>bis</sup>);
@@ -768,10 +770,19 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - e. le istruzioni operative per il rilascio di visti ai marittimi alla frontiera esterna Schengen (art. 36 par. 2<sup>bis</sup>);
 - f. le istruzioni operative relative all’applicazione pratica del codice dei visti (art. 51).
 
+<sup>2</sup>
+
+Essa ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione del Consiglio dell’UE relativi al codice dei visti, sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del codice dei visti e riguardino gli ambiti seguenti:
+
+- a. la sospensione dell’applicazione dell’esenzione da emolumenti o delle facilitazioni per quanto riguarda la produzione di giustificativi, i termini di trattamento o il rilascio di visti per entrate multiple nei confronti di tutti i cittadini o di determinate categorie di cittadini di un dato Paese terzo che non coopera a sufficienza nell’ambito della riammissione di propri cittadini in situazione irregolare (art. 25<sup>bis</sup> par. 5 lett. a);
+- b. l’aumento graduale dell’emolumento di visto se il Paese terzo interessato continua a non cooperare a sufficienza (art. 25<sup>bis</sup> par. 5 lett. b);
+- c. la concessione di facilitazioni specifiche a tutti i cittadini o a determinate categorie di cittadini di un dato Stato terzo che coopera a sufficienza nell’ambito della riammissione di persone in situazione irregolare (art. 25<sup>bis</sup> par. 8).[^34b-5]
+
 [^34b-1]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^34b-5]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 (RU **20****24** 75).
 
 #### Art. 34c
 
