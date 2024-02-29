@@ -4,11 +4,11 @@ title: "Legge federale del 26 settembre 2014 concernente la vigilanza sull'assic
 short: LVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: it
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/it"
 
 (Legge sulla vigilanza sull’assicurazione malattie, LVAMal)
 
-del 26 settembre 2014 (Stato 1° gennaio 2023)
+del 26 settembre 2014 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -92,12 +92,13 @@ Gli assicuratori devono:
 - d. disporre di un capitale di partenza sufficiente, essere sempre in grado di soddisfare gli obblighi finanziari e, in particolare, disporre delle riserve necessarie;
 - e. disporre di un ufficio di revisione esterno abilitato;
 - f. esercitare l’assicurazione sociale malattie secondo il principio della mutualità e garantire la parità di trattamento degli assicurati; destinano a soli scopi d’assicurazione sociale malattie i fondi provenienti da quest’ultima;
-- g. offrire l’assicurazione sociale malattie anche alle persone tenute ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia; in casi particolari, l’autorità di vigilanza può esentare, su richiesta, taluni assicuratori da questo obbligo;
-- h. esercitare l’assicurazione facoltativa d’indennità giornaliera conformemente alla LAMal[^5-1];
+- g.[^5-1] offrire l’assicurazione sociale malattie anche alle persone tenute ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito; in casi particolari, l’autorità di vigilanza può esentare, su richiesta, taluni assicuratori da questo obbligo;
+- h. esercitare l’assicurazione facoltativa d’indennità giornaliera conformemente alla LAMal[^5-2];
 - i. accettare, nei limiti del corrispettivo raggio d’attività territoriale, ogni persona tenuta ad assicurarsi o avente diritto a stipulare un’assicurazione facoltativa d’indennità giornaliera;
 - j. essere in grado di adempiere tutti gli altri requisiti della presente legge e della LAMal.
 
-[^5-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito, in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 6
 

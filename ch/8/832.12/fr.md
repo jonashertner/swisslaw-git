@@ -4,11 +4,11 @@ title: "Loi fédérale du 26 septembre 2014 sur la surveillance de l'assurance-m
 short: LSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: fr
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/fr"
 
 (Loi sur la surveillance de l’assurance-maladie, LSAMal)[^t-1]
 
-du 26 septembre 2014 (État le 1<sup>er</sup> janvier 2023)
+du 26 septembre 2014 (État le 1<sup>er</sup> mars 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -94,12 +94,13 @@ Les assureurs doivent remplir les conditions suivantes:
 - d. disposer d’un capital initial suffisant et être en mesure de remplir leurs obligations financières en tout temps, en disposant en particulier des réserves nécessaires;
 - e. disposer d’un organe de révision externe agréé;
 - f. pratiquer l’assurance-maladie sociale selon le principe de la mutualité, garantir l’égalité de traitement des assurés et n’affecter qu’à des buts d’assurance-maladie sociale les ressources provenant de celle-ci;
-- g. offrir aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège la possibilité de s’affilier à l’assurance-maladie sociale; dans des cas particuliers, l’autorité de surveillance peut exempter de cette obligation les assureurs qui en font la demande;
-- h. pratiquer l’assurance facultative d’indemnités journalières conformément à la LAMal[^5-1];
+- g.[^5-1] proposer l’assurance-maladie sociale également aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni; sur demande et dans des cas particuliers, l’autorité de surveillance peut dispenser les assureurs de cette obligation;
+- h. pratiquer l’assurance facultative d’indemnités journalières conformément à la LAMal[^5-2];
 - i. admettre, dans les limites de leur champ territorial d’activité, toute personne tenue de s’assurer et toute personne qui est en droit de conclure un contrat d’assurance d’indemnités journalières;
 - j. être en mesure de satisfaire aux autres exigences fixées par la présente loi et la LAMal.
 
-[^5-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 6
 

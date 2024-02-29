@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 26. September 2014 betreffend die Aufsicht über die so
 short: KVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: de
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/de"
 
 (Krankenversicherungsaufsichtsgesetz, KVAG)
 
-vom 26. September 2014 (Stand am 1. Januar 2023)
+vom 26. September 2014 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -92,12 +92,13 @@ Die Versicherer müssen:
 - d. über ein ausreichendes Startkapital verfügen und jederzeit in der Lage sein, ihren finanziellen Verpflichtungen nachzukommen und insbesondere über die erforderlichen Reserven zu verfügen;
 - e. über eine zugelassene externe Revisionsstelle verfügen;
 - f. die soziale Krankenversicherung nach dem Grundsatz der Gegenseitigkeit durchführen und die Gleichbehandlung der Versicherten gewährleisten; sie dürfen die Mittel der sozialen Krankenversicherung nur zu deren Zwecken verwenden;
-- g. die soziale Krankenversicherung auch versicherungspflichtigen Personen anbieten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen; auf Gesuch hin und in besonderen Fällen kann die Aufsichtsbehörde Versicherer von dieser Verpflichtung befreien;
-- h. die freiwillige Taggeldversicherung nach dem KVG[^5-1] durchführen;
+- g.[^5-1] die soziale Krankenversicherung auch versicherungspflichtigen Personen anbieten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen; auf Gesuch hin und in besonderen Fällen kann die Aufsichtsbehörde Versicherer von dieser Ver-pflichtung befreien;
+- h. die freiwillige Taggeldversicherung nach dem KVG[^5-2] durchführen;
 - i. in ihrem örtlichen Tätigkeitsbereich jede versicherungspflichtige Person und jede Person, die berechtigt ist, einen Taggeldversicherungsvertrag abzuschliessen, aufnehmen;
 - j. in der Lage sein, alle anderen Anforderungen dieses Gesetzes und des KVG zu erfüllen.
 
-[^5-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^5-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 6
 
