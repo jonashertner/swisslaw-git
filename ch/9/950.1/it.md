@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sui servizi finanziari (Legge sui serv
 short: LSerFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: it
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/it"
 
 (Legge sui servizi finanziari, LSerFi)
 
-del 15 giugno 2018 (Stato 1° agosto 2021)
+del 15 giugno 2018 (Stato 1° marzo 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -137,10 +137,10 @@ I fornitori di servizi finanziari classificano le persone alle quali forniscono 
 Sono considerati clienti professionali:
 
 - a. gli intermediari finanziari secondo la legge dell’8 novembre 1934[^4-1] sulle banche (LBCR), la legge del 15 giugno 2018[^4-2] sugli istituti finanziari (LIsFi) e la LICol[^4-3];
-- b. le imprese di assicurazione secondo la LSA[^4-4];
+- b.[^4-4] gli istituti di assicurazione sottoposti a vigilanza;
 - c. i clienti esteri sottoposti a una vigilanza prudenziale come le persone di cui alle lettere a e b;
 - d. le banche centrali;
-- e. gli enti di diritto pubblico con tesoreria professionale;
+- e.[^4-5] gli enti, istituti e fondazioni di diritto pubblico con tesoreria professionale;
 - f. gli istituti di previdenza e gli istituti dediti alla previdenza professionale con tesoreria professionale;
 - g. le imprese con tesoreria professionale;
 - h. le grandi imprese;
@@ -163,7 +163,8 @@ Sono considerate grandi imprese le imprese che oltrepassano due dei valori segue
 [^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^4-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^4-4]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^4-4]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-5]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 5
 
@@ -799,11 +800,14 @@ Il Consiglio federale definisce le agevolazioni in maniera uniforme, tenendo con
 
 #### Art. 50
 
-**Eccezioni**
+**Eccezioni**[^50-1]
 
-La FINMA può esentare integralmente o parzialmente dalle disposizioni del presente capitolo gli investimenti collettivi di capitale ai sensi della LICol[^50-1], sempreché essi siano accessibili esclusivamente a investitori qualificati secondo l’articolo 10 capoversi 3 e 3<sup>ter</sup> LICol e l’obiettivo di protezione della legge non ne risulti pregiudicato.
+<sup>1</sup> Per un fondo riservato a investitori qualificati (L-QIF) non è necessario redigere un prospetto.
 
-[^50-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+<sup>2</sup> La FINMA può esentare integralmente o parzialmente dalle disposizioni del presente capitolo gli investimenti collettivi di capitale ai sensi della LICol[^50-2], sempreché questi siano accessibili esclusivamente a investitori qualificati secondo l’articolo 10 capoversi 3 e 3<sup>ter</sup> LICol e l’obiettivo di protezione della legge non ne risulti pregiudicato.
+
+[^50-1]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^50-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 ### Sezione 5: Verifica del prospetto
 

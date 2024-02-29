@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Services (Financial Services Ac
 short: FinSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: en
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Services Act, FinSA)
 
-of 15 June 2018 (Status as of 1 August 2021)
+of 15 June 2018 (Status as of 1 March 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -139,16 +139,16 @@ Financial service providers shall assign the persons for whom they provide finan
 Professional clients[^4-1] are:
 
 - a. financial intermediaries as defined in the Banking Act of 8 November 1934[^4-2] (BankA), the Financial Institutions Act of 15 June 2018[^4-3] (FinIA) and the CISA[^4-4];
-- b. insurance companies as defined in the ISA[^4-5];
+- b.[^4-5] supervised insurance institutions;
 - c. foreign clients subject to prudential supervision as the persons listed under a and b above;
 - d. central banks;
-- e. public entities with professional treasury operations;
+- e.[^4-6] public entities, institutions and foundations with professional treasury operations;
 - f. occupational pension schemes with professional treasury operations and other occupational pension institutions providing professional treasury operations;
 - g. companies with professional treasury operations;
 - h. large companies;
 - i. private investment structures with professional treasury operations created for high-net-worth retail clients.
 
-<sup>4</sup> Institutional clients[^4-6] are professional clients as defined in paragraph 3 letters a to d as well as national and supranational public entities with professional treasury operations.
+<sup>4</sup> Institutional clients[^4-7] are professional clients as defined in paragraph 3 letters a to d as well as national and supranational public entities with professional treasury operations.
 
 <sup>5</sup> A large company is a company which exceeds two of the following parameters:
 
@@ -162,12 +162,13 @@ equity of CHF 2 million.
 
 <sup>7</sup> Financial service providers may refrain from client segmentation if they treat all clients as retail clients.
 
-[^4-1]: As professional clients are primarily legal entities, they are referred to herein as «it».
+[^4-1]: As professional clients are primarily legal entities, they are referred to herein as ‘it’.
 [^4-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^4-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^4-5]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^4-6]: As institutional clients are primarily legal entities, they are referred to as «it».
+[^4-5]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-6]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-7]: As institutional clients are primarily legal entities, they are referred to as «it».
 
 #### Art. 5
 
@@ -803,11 +804,14 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 #### Art. 50
 
-**Exemptions**
+**Exemptions**[^50-1]
 
-FINMA may exempt collective investment schemes under the CISA[^50-1] from all or some of the provisions of this chapter provided that they are open only to qualified investors in accordance with Article 10 paragraphs 3 and 3<sup>ter</sup> CISA and the protective purpose of the law is not thereby affected.
+<sup>1</sup> No prospectus need be produced for a Limited Qualified Investor Fund (L-QIF).
 
-[^50-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+<sup>2</sup> FINMA may exempt collective investment schemes under the CISA[^50-2] from all or some of the provisions of this chapter provided that they are open only to qualified investors in accordance with Article 10 paragraphs 3 and 3ter CISA and the protective purpose of the law is not thereby affected.
+
+[^50-1]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 ### Section 5 Review of the Prospectus
 

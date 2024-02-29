@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzdienstleistungen (Finanzd
 short: FIDLEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: de
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/de"
 
 (Finanzdienstleistungsgesetz, FIDLEG)
 
-vom 15. Juni 2018 (Stand am 1. August 2021)
+vom 15. Juni 2018 (Stand am 1. März 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -137,16 +137,16 @@ Die Finanzdienstleister ordnen die Personen, für die sie Finanzdienstleistungen
 Als professionelle Kunden[^4-1] gelten:
 
 - a. Finanzintermediäre nach dem Bankengesetz vom 8. November 1934[^4-2] (BankG), dem Finanzinstitutsgesetz vom 15. Juni 2018[^4-3] (FINIG) und dem KAG[^4-4];
-- b. Versicherungsunternehmen nach dem VAG[^4-5];
+- b.[^4-5] beaufsichtigte Versicherungseinrichtungen;
 - c. ausländische Kundinnen und Kunden, die einer prudenziellen Aufsicht unterstehen wie die Personen nach den Buchstaben a und b;
 - d. Zentralbanken;
-- e. öffentlich-rechtliche Körperschaften mit professioneller Tresorerie;
+- e.[^4-6] öffentlich-rechtliche Körperschaften, Anstalten und Stiftungen mit professioneller Tresorerie;
 - f. Vorsorgeeinrichtungen und Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, mit professioneller Tresorerie;
 - g. Unternehmen mit professioneller Tresorerie;
 - h. grosse Unternehmen;
 - i. für vermögende Privatkundinnen und -kunden errichtete private Anlagestrukturen mit professioneller Tresorerie.
 
-<sup>4</sup> Als institutionelle Kunden[^4-6] gelten professionelle Kunden nach Absatz 3 Buchstaben a–d sowie nationale und supranationale öffentlich-rechtliche Körperschaften mit professioneller Tresorerie.
+<sup>4</sup> Als institutionelle Kunden[^4-7] gelten professionelle Kunden nach Absatz 3 Buchstaben a–d sowie nationale und supranationale öffentlich-rechtliche Körperschaften mit professioneller Tresorerie.
 
 <sup>5</sup>
 
@@ -164,8 +164,9 @@ Als grosses Unternehmen gilt ein Unternehmen, das zwei der folgenden Grössen ü
 [^4-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^4-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^4-5]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^4-6]: Weil es sich bei den institutionellen Kunden um juristische Personen handelt, wird statt der Paarform nur die männliche Form verwendet.
+[^4-5]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-6]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-7]: Weil es sich bei den institutionellen Kunden um juristische Personen handelt, wird statt der Paarform nur die männliche Form verwendet.
 
 #### Art. 5
 
@@ -801,11 +802,14 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 
 #### Art. 50
 
-**Ausnahmen**
+**Ausnahmen**[^50-1]
 
-Die FINMA kann kollektive Kapitalanlagen nach dem KAG[^50-1] ganz oder teilweise von den Bestimmungen dieses Kapitels befreien, sofern sie ausschliesslich qualifizierten Anlegerinnen und Anlegern nach Artikel 10 Absätze 3 und 3<sup>ter</sup> KAG offenstehen und der Schutzzweck dieses Gesetzes dadurch nicht beeinträchtigt wird.
+<sup>1</sup> Für einen Limited Qualified Investor Fund (L-QIF) ist kein Prospekt zu erstellen.
 
-[^50-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+<sup>2</sup> Die FINMA kann kollektive Kapitalanlagen nach dem KAG[^50-2] ganz oder teilweise von den Bestimmungen dieses Kapitels befreien, sofern sie ausschliesslich qualifizierten Anlegerinnen und Anlegern nach Artikel 10 Absätze 3 und 3<sup>ter</sup> KAG offenstehen und der Schutzzweck dieses Gesetzes dadurch nicht beeinträchtigt wird.
+
+[^50-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 ### 5. Abschnitt: Prüfung des Prospekts
 

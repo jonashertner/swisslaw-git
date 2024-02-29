@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les services financiers (LSFin)
 short: LSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: fr
-version: 2021-08-01
+version: 2024-03-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/fr"
 
 (LSFin)
 
-du 15 juin 2018 (État le 1<sup>er</sup> août 2021)
+du 15 juin 2018 (État le 1<sup>er</sup> mars 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -137,10 +137,10 @@ Les prestataires de services financiers classent les personnes auxquelles ils fo
 Sont considérés comme des clients professionnels:
 
 - a. les intermédiaires financiers au sens de la loi du 8 novembre 1934 sur les banques (LB)[^4-1], de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^4-2] et de la LPCC[^4-3];
-- b. les entreprises d’assurance visées par la LSA[^4-4];
+- b.[^4-4] les institutions d’assurance assujetties à la surveillance;
 - c. les clients étrangers soumis à une surveillance prudentielle à l’instar des personnes énoncées aux let. a et b;
 - d. les banques centrales;
-- e. les établissements de droit public disposant d’une trésorerie professionnelle;
+- e.[^4-5] les établissements, institutions et fondations de droit public disposant d’une trésorerie professionnelle;
 - f. les institutions de prévoyance ou les institutions servant à la prévoyance professionnelle disposant d’une trésorerie professionnelle;
 - g. les entreprises disposant d’une trésorerie professionnelle;
 - h. les grandes entreprises;
@@ -163,7 +163,8 @@ Est considérée comme grande entreprise toute entreprise qui dépasse deux des 
 [^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^4-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^4-4]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^4-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^4-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 5
 
@@ -799,11 +800,14 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 
 #### Art. 50
 
-**Exceptions**
+**Exceptions**[^50-1]
 
-La FINMA peut soustraire totalement ou partiellement aux dispositions du présent chapitre les placements collectifs au sens de la LPCC[^50-1] pour autant qu’ils soient exclusivement ouverts à des investisseurs qualifiés au sens de l’art. 10, al. 3 et 3<sup>ter</sup>, LPCC et que la protection assurée par la présente loi n’en soit pas compromise.
+<sup>1</sup> Un *Limited Qualified Investor Fund* (L-QIF) n’est pas soumis à l’obligation de publier un prospectus.
 
-[^50-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+<sup>2</sup> La FINMA peut soustraire totalement ou partiellement aux dispositions du présent chapitre les placements collectifs au sens de la LPCC[^50-2] pour autant qu’ils soient exclusivement ouverts à des investisseurs qualifiés au sens de l’art. 10, al. 3 et 3<sup>ter</sup>, LPCC et que la protection assurée par la présente loi n’en soit pas compromise.
+
+[^50-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^50-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 ### Section 5 Contrôle du prospectus
 
@@ -1389,6 +1393,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758).
