@@ -3,20 +3,19 @@ canton: FR
 number: "262.1"
 title: Loi sur la légalisation des signatures
 language: fr
-version: 2006-01-01
-valid_until: 2024-02-29
-version_adopted: 2005-11-17
+version: 2024-03-01
+version_adopted: 2023-11-24
 adopted: 2005-11-17
 in_force: 2006-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/262.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5149/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8480/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Loi sur la légalisation des signatures
 
-du 17.11.2005 (version entrée en vigueur le 01.01.2006)
+du 17.11.2005 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -28,9 +27,12 @@ Décrète:
 
 #### Art. 1
 
-<sup>1</sup> Les légalisations des signatures apposées sur les actes sous seing privé sont délivrées par les notaires, conformément à la loi sur le notariat.
+<sup>1</sup> Les légalisations des signatures apposées sur les actes sous seing privé sont délivrées par les notaires, conformément à la loi sur le notariat[^1-1]. Demeure réservée la compétence des ingénieur-e-s géomètres officiels de légaliser certaines signatures aux conditions et dans les cas prévus par la loi sur la géoinformation[^1-2].
 
 <sup>2</sup> Le Conseil d'Etat peut également habiliter les préfectures ainsi que les communes qui remplissent les conditions à légaliser ces signatures.
+
+[^1-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^1-2]: RSF [214.7.1](https://bdlf.fr.ch/data/214.7.1/fr)
 
 #### Art. 2
 
@@ -40,9 +42,13 @@ Décrète:
 
 <sup>1</sup> Sont réservées les dispositions particulières:
 
-- a) de la convention de La Haye du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers;
-- b) de l'ordonnance fédérale sur l'état civil;
-- c) de l'ordonnance fédérale sur le registre du commerce et de la législation cantonale applicable en la matière.
+- a) de la convention de La Haye du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers[^3-1];
+- b) de l'ordonnance fédérale sur l'état civil[^3-2];
+- c) de l'ordonnance fédérale sur le registre du commerce[^3-3] et de la législation cantonale applicable en la matière.
+
+[^3-1]: RS [0.172.030.4](https://db.clex.ch/link/Bund/0.172.030.4/fr)
+[^3-2]: RS [211.112.2](https://db.clex.ch/link/Bund/211.112.2/fr)
+[^3-3]: RS [221.411](https://db.clex.ch/link/Bund/221.411/fr)
 
 #### Art. 4
 
