@@ -1,80 +1,125 @@
 ---
 canton: SO
 number: "436.914.31"
-title: Gebührenordnung Schloss Waldegg
+title: Gebührenordnung für Schloss Waldegg
 language: de
-version: 2007-01-01
-valid_until: 2024-02-29
-version_adopted: 2006-05-05
+version: 2024-03-01
+version_adopted: 2024-01-16
 adopted: 2024-01-16
 in_force: 2024-03-01
 url: "https://bgs.so.ch/app/de/texts_of_law/436.914.31"
-pdf: "https://bgs.so.ch/api/de/versions/1621/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5430/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gebührenordnung Schloss Waldegg
+# Gebührenordnung für Schloss Waldegg
 
-(Anhang zur Betriebsordnung Schloss Waldegg)
+vom 16. Januar 2024
 
-Schloss Waldegg in Feldbrunnen-St. Niklaus ist im Besitze des Kantons Solothurn und wird als Museum, Kultur- und Begegnungszentrum geführt. Der Betrieb von Schloss Waldegg ist Teil des Globalbudgets des kantonalen Amtes für Kultur und Sport. Zu den Leistungen auf Schloss Waldegg gehören auch kommerzielle Angebote wie Apéroanlässe und Seminarien. Für die damit verbundene Nutzung der Waldeggscheune und der diversen Räume im Schlossgebäude werden Gebühren erhoben. Seit Juni 2005 können auch die Orangerie und der Orangeriegarten für öffentliche und private Anlässe genutzt werden.
+Die Waldeggkommission, gestützt auf Artikel 14 Ziffer 1 der Statuten der Stiftung Schloss Waldegg vom 11. Dezember 1963[^t-1]
 
-- In den Gebühren sind elektrische Energie, Wasser und Heizung inbegriffen. Der über den Normalgebrauch hinausgehende Bedarf wird separat verrechnet.
+beschliesst:
 
-- Bei personellen Leistungen wird im Minimum eine Stunde verrechnet. Angebrochene Stunden werden voll verrechnet.
+[^t-1]: BGS 436.914.1.
 
-- Sind für eine Leistung keine Gebührensätze definiert, werden sie ähnlichen Positionen zugeordnet.
+## Eintrittsgebühren Museum
 
-### Eintrittsgebühren Museum:
+In Franken
 
-**Franken 6.00**
+**10.-**
 
-- a) während den regulären Öffnungszeiten:
+Erwachsene IV oder in Ausbildung, Gruppen ab 10 Personen je Person 7.- Kinder bis 7 Jahre Familien (1-2 Erwachsene max. 5 Kindern bis 16 Jahren) Ausserhalb der regulären Öffnungszeiten (sofern bewil- 15.- ligt)
 
-Erwachsene Inhaber/innen Carte jeunes, Schüler/innen und Studenten/innen, AHV, Militär Gruppen ab 10 Mitgliedern je Mitglied Familien (ein oder zwei Elternteile mit ihren Kindern) b) ausserhalb der regulären Öffnungszeiten:
+**Gratis 18.-**
 
-**4.00 10.00**
+Für den ausschliesslichen Besuch der Cafeteria und des Gartens werden keine Eintrittsgebühren erhoben.
 
-**10.00**
+## Vermittlungsangebote
 
-pro Person (sofern bewilligt) c) Schulklassen in Begleitung der Lehrkräfte sind von der Eintrittsgebühr befreit.
+In Franken Kindergeburtstag Interaktiver Rundgang für Schulklassen (während und 80.- (pauschal) ausserhalb der Öffnungszeiten) Schlossführung, 60 Min., max. 20 Personen Während der Öffnungszeiten tritte (7.- pro Person) Ausserhalb der Öffnungszeiten tritte (15.- pro Person) Schlossführung mit Garten, 75 Min., max. 20 Personen Während der Öffnungszeiten tritte (7.- Person) Ausserhalb der Öffnungszeiten tritte (15.- pro Person)
 
-- d) Für den ausschliesslichen Besuch der Cafeteria und des Gartens werden keine Eintrittsgebühren erhoben.
+**175.- zzgl. Ein-**
 
-- e) Der Konservator kann in besonderen Fällen eine von der obigen Gebührenfestlegung abweichende Regelung treffen.
+**pro**
 
-### Raum-/Saalmiete (ohne Personalkosten):
+**175.- zzgl. Ein-**
 
-Franken - Gartensaal für Apéroanlässe, pro Tag - Theatersaal für Seminarien und Bankette, pro Tag - Scheune für Seminarien, Apéroanlässe und Bankette, pro Tag 500.00 - Schlosshof für diverse Outdooranlässe, pro Tag - Barockgarten für Apéroanlässe, pro Tag - Orangerie für Seminarien, Apéroanlässe und Bankette, pro Tag
+## Vermietungen
 
-**400.00 700.00**
+In Franken
 
-**500.00 700.00**
+### Pauschalen
 
-**500.00**
+Ziviltrauungen, Gartensaal, max. 60 Personen, 45 Min. 350.- Trauung auf dem Aussichtspunkt (nur in Kombination 400.- mit Apéro oder Festessen) Fotoshooting, für jede angebrochene Stunde Benutzung der Orangerie für Apéro in Kombination 600.- mit Buchung eines Festessens in der Scheune Theatersaal für Anlass (ohne Konsumation, z.B. Semi- 800.- nar, Vortrag, Konzert) zzgl. Personalkosten Gartensaal / Scheune / Barockgarten für Apéro im An- 500.- schluss an Seminar, zzgl. Personalkosten
 
-### Personalkosten:
+**150.-**
 
-Franken - Hausdienste: Museumsaufsichten, Auf- und Abbauten, Reinigung, Gästebetreuung, pro Stunde (Abrechnung nach Aufwand) - Technische Dienste für Beratungen mit Konzeptarbeiten und Bedienung der technischen Anlagen, pro Stunde (Abrechnung nach Aufwand) - Führerinnen und Führer ohne Garten, pro Führung mit Garten, pro Führung - Hochzeitsfotos im Barockgarten, Theatersaal und Galerie ausserhalb der Museumsöffnungszeiten, pro Stunde
+### Private Anlässe, Ansätze pro Person Festessen in der Scheune
 
-**50.00**
+**250.- (pauschal)**
 
-**80.00 100.00 120.00**
+**32.- pro Person 26.- pro Person 23.- pro Person 21.- pro Person**
 
-**100.00**
+30 bis 45 Personen 46 bis 65 Personen 66 bis 90 Personen 91 bis 110 Personen
 
-### Schlussbestimmungen:
+### Festessen in der Orangerie
 
-- Mit dem schriftlichen Abschluss einer Miete gilt diese Benutzungs- und Gebührenordnung als genehmigt.
+**150.- zzgl. Ein-**
 
-- Mit dem Vollzug dieser Ordnung wird die Betriebsleitung Schloss Waldegg beauftragt.
+**150.- zzgl. Ein-**
 
-- Bei allfälligen Streitigkeiten aus den Mietverträgen gilt der Gerichtsstand Solothurn.
+**32.- pro Person 26.- pro Person 23.- pro Person**
 
-- Der Leiter Schloss Waldegg ist befugt, in besonderen Fällen Gebühren teilweise oder ganz zu erlassen.
+20 bis 30 Personen 31 bis 50 Personen 51 bis 65 Personen
 
-Vom Regierungsrat am 21. November 2006 genehmigt (RRB Nr. 2006/2094).
+### Apéro im Orangeriegarten
 
-Inkrafttreten am 1. Januar 2007.
+**24.- pro Person 21.- pro Person**
+
+51 bis 65 Personen 66 bis 100 Personen
+
+### Apéro im Barockgarten
+
+**32.- pro Person 24.- pro Person 21.- pro Person 19.- pro Person 17.- pro Person**
+
+30 bis 45 Personen 46 bis 65 Personen 66 bis 90 Personen 91 bis 120 Personen 121 bis 180 Personen
+
+### Firmenessen im barocken Theatersaal
+
+**39.- pro Person 35.- pro Person**
+
+30 bis 45 Personen 46 bis 65 Personen
+
+### Ganztägige Seminare mit Benutzung Theaters-
+
+aal, Gartensaal und Scheune 20 bis 40 Personen 41 bis 60 Personen 61 bis 90 Personen
+
+**70.- pro Person 65.- pro Person 60.- pro Person**
+
+In den Gebühren sind elektrische Energie, Wasser und Heizung inbegriffen. Der über den Normalgebrauch hinausgehende Bedarf wird separat verrechnet.
+
+## Personalkosten
+
+In Franken
+
+Hausdienste: Museumsaufsichten, Auf- und Abbauten, 50.- Reinigung, Gästebetreuung, pro Stunde (Abrechnung nach Aufwand)
+
+Bei personellen Leistungen wird im Minimum eine Stunde verrechnet. Angebrochene Stunden werden voll verrechnet.
+
+## Annullierung
+
+In Franken
+
+**500.-**
+
+Annullierung nach definitiv bestätigter Reservation
+
+Sind für eine Leistung keine Gebührensätze definiert, werden sie ähnlichen Positionen zugeordnet. Die Leitung von Schloss Waldegg ist befugt, in besonderen Fällen Gebühren teilweise oder ganz zu erlassen.
+
+Vom Regierungsrat am 5. März 2024 genehmigt (RRB Nr. 2024/355).
+
+Inkrafftreten am 1. März 2024.
+
+Publiziert im Amtsblatt vom 8. März 2024.
