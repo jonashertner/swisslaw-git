@@ -3,20 +3,20 @@ canton: AR
 number: "621.11"
 title: Steuergesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
+version: 2024-03-01
+valid_until: 2024-12-31
 version_adopted: 2023-09-25
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/621.11"
-pdf: "https://ar.clex.ch/api/de/versions/1630/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz
 
-vom 21.05.2000 (Stand 01.01.2024)
+vom 21.05.2000 (Stand 01.03.2024)
 
 Die Stimmberechtigten von Appenzell Ausserrhoden,
 
@@ -661,13 +661,15 @@ beschliessen:
 
 **1a. Ausgleich der Folgen der kalten Progression**
 
-<sup>1</sup> Bei der Steuer vom Einkommen der natürlichen Personen werden die Folgen der kalten Progression durch eine gleichmässige Anpassung der Tarifstufen sowie der in Art. 35 lit. g–l und der in Art. 38 Abs. 1 genannten Abzüge vom Einkommen ausgeglichen. Die Beträge sind auf Fr. 100.– auf- oder abzurunden.
+<sup>1</sup> Bei der Steuer vom Einkommen der natürlichen Personen werden die Folgen der kalten Progression durch eine gleichmässige Anpassung der Tarifstufen sowie der in Art. 35 lit. g–l und der in Art. 38 Abs. 1 genannten Abzüge vom Einkommen ausgeglichen [^39a-1]. Die Beträge sind auf Fr. 100.– auf- oder abzurunden.
 
 <sup>2</sup> Der Regierungsrat passt die Tarifstufen und Abzüge an, wenn der Landesindex der Konsumentenpreise um mindestens 3,0 Prozent seit der letzten Anpassung gestiegen ist.
 
 <sup>3</sup> Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode, ausgehend vom Indexstand am 31. Dezember 2010.
 
 <sup>4–6</sup> …
+
+[^39a-1]: Ausgleich der kalten Progression siehe Anhang 1
 
 #### Art. 39b
 
@@ -887,7 +889,7 @@ beschliessen:
 - a) die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung, Investmentgesellschaften mit festem Kapital nach Art. 110 des Kollektivanlagengesetzes[^58-1] und die Genossenschaften;
 - b) die Vereine, die Stiftungen und die übrigen juristischen Personen.
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 des Kollektivanlagengesetzes[^58-2].
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 oder Art. 118a des Kollektivanlagengesetzes[^58-2].
 
 <sup>3</sup> Ausländische juristische Personen sowie aufgrund wirtschaftlicher Zugehörigkeit steuerpflichtige ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
