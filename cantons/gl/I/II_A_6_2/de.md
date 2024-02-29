@@ -4,13 +4,13 @@ number: II A/6/2
 title: Personalverordnung
 short: PV
 language: de
-version: 2021-01-01
-valid_until: 2024-02-29
-version_adopted: 2020-06-09
+version: 2024-03-01
+valid_until: 2024-05-31
+version_adopted: 2024-02-20
 adopted: 2017-07-06
 in_force: 2017-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2168/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2478/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2168/pdf_file"
 
 (PV)
 
-Vom 06.07.2017 (Stand 01.01.2021)
+Vom 06.07.2017 (Stand 01.03.2024)
 
 Der Regierungsrat,
 
@@ -75,7 +75,7 @@ erlässt:
 - d. Stelle, die auf dem Berufungsweg besetzt wird;
 - e. Stelle, die mit einem eigenen Lernenden besetzt wird, der nach Lehrabschluss eine Stelle sucht.
 
-<sup>4</sup> Für die Ausschreibung zu besetzender Stellen der kantonalen Verwaltung ist der Personaldienst zuständig.
+<sup>4</sup> Für die Ausschreibung zu besetzender Stellen der kantonalen Verwaltung ist die Hauptabteilung Personal und Organisation zuständig.
 
 #### Art. 4
 
@@ -136,7 +136,7 @@ erlässt:
 
 <sup>2</sup> Bei krankheits- oder unfallbedingter Arbeitsverhinderung hat er alle sinnvollen und angemessenen Möglichkeiten auszuschöpfen, um die erkrankte oder verunfallte angestellte Person rasch wieder in den Arbeitsprozess einzugliedern.
 
-<sup>3</sup> Der Personaldienst besorgt die Koordination und Kommunikation mit weiteren Beteiligten, insbesondere mit Ärztinnen und Ärzten, therapeutisch tätigen Fachpersonen, Beratungsstellen und Versicherungen. Er kann die dazu erforderlichen Personendaten beschaffen, bearbeiten und weitergeben.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation besorgt die Koordination und Kommunikation mit weiteren Beteiligten, insbesondere mit Ärztinnen und Ärzten, therapeutisch tätigen Fachpersonen, Beratungsstellen und Versicherungen. Sie kann die dazu erforderlichen Personendaten beschaffen, bearbeiten und weitergeben.
 
 #### Art. 9
 
@@ -183,7 +183,7 @@ erlässt:
 
 <sup>1</sup> Eine finanzielle Abgeltung der Ferien ist nur möglich, wenn die Ferien aus dienstlichen Gründen oder wegen Krankheit oder Unfalls bis zum Zeitpunkt des Austritts nicht mehr bezogen werden können.
 
-<sup>2</sup> Hat eine angestellte Person mehr Ferien bezogen, als ihr zusteht, erfolgt eine entsprechende Lohnkürzung durch den Personaldienst oder, sofern möglich, eine entsprechende Kürzung des Ferienanspruchs im folgenden Kalenderjahr.
+<sup>2</sup> Hat eine angestellte Person mehr Ferien bezogen, als ihr zusteht, erfolgt eine entsprechende Lohnkürzung durch die Hauptabteilung Personal und Organisation oder, sofern möglich, eine entsprechende Kürzung des Ferienanspruchs im folgenden Kalenderjahr.
 
 <sup>3</sup> Hinterbliebene einer angestellten Person, die verstorbenen ist, haben Anspruch auf finanzielle Abgeltung des Ferienguthabens im Umfang von maximal 25 Tagen, nach fünfjähriger Dienstdauer im Umfang von maximal 50 Tagen.
 
@@ -211,7 +211,7 @@ erlässt:
 
 <sup>1</sup> Die angestellte Person mit unregelmässigem Arbeitspensum, die im Stundenlohn angestellt ist, erhält ihren Ferien- und Feiertagslohn mit dem Lohn ausbezahlt.
 
-<sup>2</sup> Der Personaldienst legt die Höhe des Lohnzuschlags, abhängig von der Anzahl Ferien- und Feiertagen, in Prozenten des Lohns fest.
+<sup>2</sup> Die Hauptabteilung Personal und Organisation legt die Höhe des Lohnzuschlags, abhängig von der Anzahl Ferien- und Feiertagen, in Prozenten des Lohns fest.
 
 <sup>3</sup> Die Höhe des Ferien- und Feiertagslohns wird im Arbeitsvertrag und in den Lohnabrechnungen in Prozenten ausgewiesen.
 
@@ -316,7 +316,7 @@ erlässt:
 
 <sup>3</sup> Der Besuch von externen Aus- oder Weiterbildungsveranstaltungen während der Arbeitszeit ist von der vorgesetzten Stelle zu bewilligen. Sie kann den Besuch von Aus- und Weiterbildungsveranstaltungen anordnen.
 
-<sup>4</sup> Der Personaldienst bietet für die Angestellten Aus- oder Weiterbildungsveranstaltungen an. Der Besuch einzelner Veranstaltungen kann für obligatorisch erklärt werden.
+<sup>4</sup> Die Hauptabteilung Personal und Organisation bietet für die Angestellten Aus- oder Weiterbildungsveranstaltungen an. Der Besuch einzelner Veranstaltungen kann für obligatorisch erklärt werden.
 
 #### Art. 22
 
@@ -362,9 +362,9 @@ erlässt:
 
 **Weiterbildungsvereinbarung**
 
-<sup>1</sup> Eine individuelle Aus- oder Weiterbildung, die eine Bindungszeit mit Rückerstattungspflicht auslöst, ist zwischen der für die Kostenübernahme zuständigen Instanz (Art. 23) und der angestellten Person im Einvernehmen mit dem Personaldienst schriftlich zu vereinbaren.
+<sup>1</sup> Eine individuelle Aus- oder Weiterbildung, die eine Bindungszeit mit Rückerstattungspflicht auslöst, ist zwischen der für die Kostenübernahme zuständigen Instanz (Art. 23) und der angestellten Person im Einvernehmen mit der Hauptabteilung Personal und Organisation schriftlich zu vereinbaren.
 
-<sup>2</sup> Die Weiterbildungsvereinbarung regelt die Einzelheiten der Aus- oder Weiterbildung. Sie wird vom Personaldienst erstellt.
+<sup>2</sup> Die Weiterbildungsvereinbarung regelt die Einzelheiten der Aus- oder Weiterbildung. Sie wird von der Hauptabteilung Personal und Organisation erstellt.
 
 #### Art. 26
 
@@ -407,7 +407,7 @@ erlässt:
 <sup>1</sup> An die Arbeitszeit können vollumfänglich angerechnet werden:
 
 - a. angeordnete Aus- und Weiterbildungen;
-- b. vom Personaldienst angebotene Aus- und Weiterbildungen;
+- b. von der Hauptabteilung Personal und Organisation angebotene Aus- und Weiterbildungen;
 - c. externe Aus- und Weiterbildungen, die im überwiegenden Interesse des Kantons sind.
 
 <sup>2</sup> Die Anrechnung von individuellen Aus- und Weiterbildungen, die eine Bindungszeit mit Rückerstattungspflicht auslösen, richtet sich nach der Weiterbildungsvereinbarung.
@@ -416,15 +416,15 @@ erlässt:
 
 #### Art. 30
 
-**Personalbeurteilung**
+**Leistungs- und Entwicklungsdialog**
 
-<sup>1</sup> Die vorgesetzten Stellen führen vor Ablauf der Probezeit und danach mindestens einmal jährlich ein Gespräch mit ihren Angestellten. Gegenstand des Gesprächs bildet die Beurteilung von Leistung und Verhalten.
+<sup>1</sup> Die vorgesetzten Stellen führen vor Ablauf der Probezeit und danach mindestens einmal jährlich ein Gespräch mit ihren Angestellten. Gegenstand des Gesprächs bildet in erster Linie die fachliche und persönliche Entwicklung der angestellten Person sowie die Beurteilung von Leistung und Verhalten.
 
-<sup>2</sup> Das Gespräch dient der Standortbestimmung und ist ein Instrument der Leistungssteuerung. Es bildet Grundlage für personalrechtliche Massnahmen und Entscheide.
+<sup>2</sup> Es bildet Grundlage für personalrechtliche Massnahmen und Entscheide.
 
-<sup>3</sup> Ist die angestellte Person mit der Beurteilung nicht einverstanden, so kann sie eine Besprechung mit der nächsthöheren vorgesetzten Stelle verlangen.
+<sup>3</sup> Ist die angestellte Person mit dem Gesprächsergebnis nicht einverstanden, so kann sie eine Besprechung mit der nächsthöheren vorgesetzten Stelle verlangen.
 
-<sup>4</sup> Der Personaldienst stellt die Beurteilungsinstrumente zur Verfügung und erlässt die entsprechenden Wegleitungen. Er kann für ein Vermittlungsgespräch beigezogen werden.
+<sup>4</sup> Die Hauptabteilung Personal und Organisation stellt geeignete Instrumente zur Verfügung und erlässt die entsprechenden Wegleitungen. Sie kann für ein Vermittlungsgespräch beigezogen werden.
 
 ### 2.2.5. Melderechte
 
@@ -478,22 +478,23 @@ erlässt:
 
 **Betriebliche Vorschläge**
 
-<sup>1</sup> Die Angestellten können Vorschläge zur Verbesserung des Betriebs einreichen.
+<sup>1</sup> Die Angestellten können Vorschläge zur Verbesserung des Betriebs oder zur Stellenbesetzung einreichen.
 
-<sup>2</sup> Für umgesetzte Verbesserungsvorschläge kann eine Prämie ausgerichtet werden.
+<sup>2</sup> Für umgesetzte Vorschläge kann eine Prämie ausgerichtet werden.
 
 #### Art. 36
 
-**Teleheimarbeit**
+**Ort- und zeitunabhängiges Arbeiten**
 
-<sup>1</sup> Es besteht kein Anspruch auf Teleheimarbeit.
+<sup>1</sup> Die angestellte Person kann unter den Bedingungen von Absatz 2 ihre Arbeit orts- und zeitunabhängig erbringen, wobei dies grundsätzlich auf 50 Prozent des vertraglichen Pensums beschränkt ist.
 
-<sup>2</sup> Die angestellte Person kann mit der für personalrechtliche Entscheide zuständigen Behörde regelmässige Teleheimarbeit vereinbaren, wenn sie:
+<sup>2</sup> Die angestellte Person kann mit der Zustimmung des Departementsvorstehers oder der Departementsvorsteherin beziehungsweise des Ratsschreibers oder der Ratsschreiberin oder des jeweiligen Präsidiums der Gerichte orts- und zeitunabhängige Arbeit vereinbaren, wenn sie:
 
-- a. über einen privaten Arbeitsplatz verfügt, welcher die Aufgabenerfüllung in vergleichbarer Weise wie am Dienstort zulässt; und
-- b. keine betrieblichen Gründe entgegenstehen.
+- a. über einen Arbeitsplatz verfügt, welcher die Aufgabenerfüllung in vergleichbarer Weise wie am Dienstort zulässt;
+- b. keine betrieblichen Gründe entgegenstehen; und
+- c. die Arbeitsleistung innerhalb des Arbeitszeitrahmens (Art. 59) erfolgt.
 
-<sup>3</sup> Die Kosten des privaten Arbeitsplatzes gehen zulasten der angestellten Person. Der Kanton kann sich im Rahmen einer Vereinbarung an den Kosten beteiligen.
+<sup>3</sup> Die Kosten des externen Arbeitsplatzes gehen zulasten der angestellten Person. Der Kanton kann sich im Rahmen einer Vereinbarung an den Kosten beteiligen.
 
 <sup>4</sup> Die angestellte Person hat in der Regel keinen Anspruch auf Nacht- oder Sonntagsdienstzulagen.
 
@@ -610,7 +611,7 @@ erlässt:
 
 <sup>3</sup> Die Lohnfortzahlung bei Arbeitsverhinderung infolge Krankheit oder Unfalls kann von einer vertrauensärztlichen Untersuchung abhängig gemacht werden.
 
-<sup>4</sup> Der Personaldienst kann jederzeit nach Rücksprache mit der vorgesetzten Stelle oder auf Veranlassung der vorgesetzten Stelle eine vertrauensärztliche Untersuchung anordnen.
+<sup>4</sup> Die Hauptabteilung Personal und Organisation kann jederzeit nach Rücksprache mit der vorgesetzten Stelle oder auf Veranlassung der vorgesetzten Stelle eine vertrauensärztliche Untersuchung anordnen.
 
 #### Art. 46
 
@@ -666,7 +667,7 @@ erlässt:
 
 <sup>4</sup> Die Übergangsrente wird gekürzt, soweit das Gesamteinkommen aufgrund von Ansprüchen gegenüber Dritten oder aus einem Ersatzerwerb zusammen mit Leistungen aus Renten und Vorsorge mehr als 90 Prozent des früheren Einkommens ausmacht.
 
-<sup>5</sup> Bezügerinnen und Bezüger von Übergangsrenten sind verpflichtet, die Aufnahme einer neuen oder einer über den bisherigen Umfang hinausgehenden Erwerbstätigkeit und das dabei erzielte Erwerbseinkommen dem Personaldienst zu melden.
+<sup>5</sup> Bezügerinnen und Bezüger von Übergangsrenten sind verpflichtet, die Aufnahme einer neuen oder einer über den bisherigen Umfang hinausgehenden Erwerbstätigkeit und das dabei erzielte Erwerbseinkommen der Hauptabteilung Personal und Organisation zu melden.
 
 <sup>6</sup> Über die Ausrichtung und eine allfällige Kürzung der Übergangsrente entscheidet die für personalrechtliche Entscheide zuständige Behörde.
 
@@ -743,28 +744,25 @@ erlässt:
 
 <sup>1</sup> Die Sollarbeitszeit bei einer Vollzeitbeschäftigung beträgt unter Vorbehalt spezialgesetzlicher Regelungen 8 Stunden und 24 Minuten (8,4 Stunden) pro Tag.
 
-<sup>2</sup> Der Personaldienst berechnet unter Berücksichtigung der Feiertage und arbeitsfreien Tage die jährliche und monatliche Sollarbeitszeit und gibt diese jeweils im Voraus bekannt.
+<sup>2</sup> Die Hauptabteilung Personal und Organisation berechnet unter Berücksichtigung der Feiertage und arbeitsfreien Tage die jährliche und monatliche Sollarbeitszeit und gibt diese jeweils im Voraus bekannt.
 
 #### Art. 58
 
 **Arbeitszeitvarianten**
 
-<sup>1</sup> Sofern es die betrieblichen Bedürfnisse erlauben, können vollzeitliche Angestellte mit vorgängiger Zustimmung der vorgesetzten Stelle eine der folgenden Arbeitszeitvarianten wählen:
+<sup>1</sup> Sofern es die betrieblichen Bedürfnisse erlauben, können Angestellte mit einem Pensum vom mindestens 80 Prozent und mit vorgängiger Zustimmung der vorgesetzten Stelle eine der folgenden Arbeitszeitvarianten wählen:
 
 <table>
-<tr><th>Variante</th><th>Wochenstunden</th><th>Tagesstunden</th><th>Lohn in Prozenten</th><th>Ausgleichstage</th></tr>
-<tr><td>1</td><td>42</td><td>8:24</td><td>98.0</td><td>5</td></tr>
-<tr><td>2</td><td>42</td><td>8:24</td><td>96.0</td><td>10</td></tr>
-<tr><td>3</td><td>42</td><td>8:24</td><td>94.0</td><td>15</td></tr>
-<tr><td>4</td><td>42</td><td>8:24</td><td>92.0</td><td>20</td></tr>
-<tr><td>5</td><td>40</td><td>8:00</td><td>95.2</td><td>0</td></tr>
-<tr><td>6</td><td>40</td><td>8:00</td><td>93.2</td><td>5</td></tr>
-<tr><td>7</td><td>40</td><td>8:00</td><td>91.2</td><td>10</td></tr>
+<tr><th>Variante</th><th>Lohn in Prozenten des Pensums</th><th>Ausgleichstage</th></tr>
+<tr><td>1</td><td>98.0</td><td>5</td></tr>
+<tr><td>2</td><td>96.0</td><td>10</td></tr>
+<tr><td>3</td><td>94.0</td><td>15</td></tr>
+<tr><td>4</td><td>92.0</td><td>20</td></tr>
 </table>
 
 <sup>2</sup> Die gewählte Variante gilt für ein Kalenderjahr. Ohne anders lautenden Entscheid gilt sie unverändert auch im folgenden Jahr, maximal jedoch für drei Jahre.
 
-<sup>3</sup> Bei Festlegung einer Variante mit einem Jahreslohn von weniger als 100 Prozent übernimmt der Kanton während längstens drei Jahren die Arbeitgeberbeiträge an die berufliche Vorsorge für den Unterschied zwischen dem tatsächlichen Jahreslohn und dem Jahreslohn zu 100 Prozent.
+<sup>3</sup> Bei Festlegung einer Variante mit einem Jahreslohn von weniger als 100 Prozent des Pensums übernimmt der Kanton während längstens drei Jahren die Arbeitgeberbeiträge an die berufliche Vorsorge für den Unterschied zwischen dem tatsächlichen Jahreslohn und dem vertraglichen Jahreslohn.
 
 #### Art. 59
 
@@ -782,9 +780,11 @@ erlässt:
 
 **Erreichbarkeit**
 
-<sup>1</sup> Die für personalrechtliche Entscheide zuständigen Behörden und vorgesetzten Stellen gewährleisten die Erreichbarkeit ihrer Organisationseinheiten für die Öffentlichkeit von Montag bis Freitag zwischen 08.00 Uhr und 12.00 Uhr sowie zwischen 13.30 Uhr und 17.00 Uhr und am Donnerstag bis 17.30 Uhr.
+<sup>1</sup> Die Departemente, die Staatskanzlei und die Gerichte gewährleisten die generelle Erreichbarkeit ihrer Organisationseinheiten für die Öffentlichkeit von Montag bis Freitag zwischen 08.00 Uhr und 12.00 Uhr sowie zwischen 13.30 Uhr und 17.00 Uhr und am Donnerstag bis 17.30 Uhr.
 
 <sup>2</sup> Vor Feiertagen und öffentlichen Ruhetagen ist die Erreichbarkeit bis 16.30 Uhr sicher zu stellen.
+
+<sup>3</sup> Die Schalteröffnungszeiten können mit Zustimmung des Departements, der Staatskanzlei oder der Gerichte abweichend von der generellen Erreichbarkeit gemäss Absatz 1 und 2 ausgestaltet werden.
 
 #### Art. 61
 
@@ -804,9 +804,9 @@ erlässt:
 
 <sup>2</sup> Über Ausnahmen entscheidet die für personalrechtliche Entscheide zuständige Behörde.
 
-<sup>3</sup> Die vorgesetzte und für die Zeiterfassung verantwortliche Stelle sowie der Personaldienst dürfen jederzeit Einsicht in die Zeiterfassungsdaten nehmen.
+<sup>3</sup> Die vorgesetzte und für die Zeiterfassung verantwortliche Stelle sowie die Hauptabteilung Personal und Organisation dürfen jederzeit Einsicht in die Zeiterfassungsdaten nehmen.
 
-<sup>4</sup> Die Kontrolle, Unterzeichnung und Aufbewahrung der Zeiterfassungsdaten richtet sich nach den Wegleitungen des Personaldienstes.
+<sup>4</sup> Die Kontrolle, Visierung und Aufbewahrung der Zeiterfassungsdaten richtet sich nach den Wegleitungen der Hauptabteilung Personal und Organisation.
 
 ### 3.2. Abwesenheiten
 
@@ -828,9 +828,9 @@ erlässt:
 
 **Unbezahlte Abwesenheiten**
 
-<sup>1</sup> Abwesenheiten aus privaten Gründen wie insbesondere ordentliche Arzt- und Zahnarztbesuche oder Apéros gelten nicht als Arbeitszeit.
+<sup>1</sup> Abwesenheiten aus privaten Gründen oder die Teilnahme an Anlässen mit überwiegend nicht dienstlichem Charakter gelten nicht als Arbeitszeit.
 
-<sup>2</sup> Sie sind wenn möglich so zu legen, dass sie ausserhalb der ordentlichen Arbeitszeiten erfolgen.
+<sup>2</sup> …
 
 #### Art. 65
 
@@ -883,7 +883,7 @@ erlässt:
 
 <sup>3</sup> Der Zeitausgleich kann zusammenhängend erfolgen.
 
-<sup>4</sup> Zur Bewirtschaftung der Arbeitszeit während des Jahres stellt der Personaldienst den vorgesetzten Stellen ein Steuerungssystem (Ampelsteuerung) zur Verfügung, das abhängig vom aktuellen Zeitsaldo verschiedene Phasen mit unterschiedlichen Massnahmen vorsieht.
+<sup>4</sup> Zur Bewirtschaftung der Arbeitszeit während des Jahres stellt die Hauptabteilung Personal und Organisation den vorgesetzten Stellen ein Steuerungssystem (Ampelsteuerung) zur Verfügung, das abhängig vom aktuellen Zeitsaldo verschiedene Phasen mit unterschiedlichen Massnahmen vorsieht.
 
 #### Art. 70
 
@@ -1008,19 +1008,20 @@ erlässt:
 <sup>1</sup> Die Bewertung der Funktionen gemäss Artikel 7 der Lohnverordnung erfolgt nach folgenden Kriterien:
 
 - a. fachliche Anforderungen;
-- b. Kommunikationsanforderungen;
-- c. Führungsanforderungen;
-- d. Schwierigkeitsgrad der Aufgabe;
-- e. Verantwortungsrahmen;
-- f. Handlungsspielraum;
-- g. physische Belastungen;
+- b. Kommunikation und Sozialkompetenz;
+- c. operative Personalführung;
+- c1. übergeordnete Personalführung;
+- d. Komplexität der Aufgaben;
+- e. …
+- f. Handlungsspielraum und Fachverantwortung;
+- g. physische und emotionale Belastung;
 - h. Umgebungseinflüsse.
 
 <sup>2</sup> Die Beurteilung der Kriterien richtet sich insbesondere nach der Stellenbeschreibung und der organisatorischen Einordnung.
 
 <sup>3</sup> Die Bewertung der Stelle erfolgt durch das Bewertungsteam (Art. 120), die darauf gestützte Einreihung der Stelle in die Lohnbänder bedarf der Genehmigung durch den Regierungsrat beziehungsweise der Verwaltungskommission der Gerichte.
 
-<sup>4</sup> Der Personaldienst ist zuständig für das Verfahren.
+<sup>4</sup> Die Hauptabteilung Personal und Organisation ist zuständig für das Verfahren.
 
 #### Art. 81
 
@@ -1028,7 +1029,7 @@ erlässt:
 
 <sup>1</sup> Die angestellte Person kann einmal jährlich und mit Wirkung auf das nächste Kalenderjahr mit begründetem Gesuch an die für personalrechtliche Entscheide zuständige Behörde eine Überprüfung der Einreihung der Stelle beantragen.
 
-<sup>2</sup> Die für personalrechtliche Entscheide zuständige Behörde tritt auf das Gesuch ein, wenn sich die Verhältnisse seit der letzten Einreihung der Stelle wesentlich verändert haben. Ist dies der Fall, leitet sie das Gesuch zusammen mit der neuen Stellenbeschreibung an den Personaldienst zur Überprüfung nach Artikel 80 weiter.
+<sup>2</sup> Die für personalrechtliche Entscheide zuständige Behörde tritt auf das Gesuch ein, wenn sich die Verhältnisse seit der letzten Einreihung der Stelle wesentlich verändert haben. Ist dies der Fall, leitet sie das Gesuch zusammen mit der neuen Stellenbeschreibung an die Hauptabteilung Personal und Organisation zur Überprüfung nach Artikel 80 weiter.
 
 <sup>3</sup> Eine Überprüfung der Stelleneinreihung ist von Amtes wegen vorzunehmen, wenn:
 
@@ -1069,7 +1070,7 @@ erlässt:
 
 <sup>2</sup> Angestellten, deren Arbeitsverhältnis zum Kanton erst nach dem 1. August beginnt, die sich in einem gekündigten Arbeitsverhältnis befinden oder die mehr als 180 Tage Abwesenheit vom Arbeitsplatz aufweisen, wird in der Regel keine Lohnerhöhung gewährt.
 
-<sup>3</sup> Der Personaldienst setzt die Löhne der Lernenden inklusive besonderer Zulagen, Materialgelder und Prämien sowie die Löhne der Praktikantinnen und Praktikanten fest.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation setzt die Löhne der Lernenden inklusive besonderer Zulagen, Materialgelder und Prämien sowie die Löhne der Praktikantinnen und Praktikanten fest.
 
 ### 4.3. Lohnbestandteile
 
@@ -1083,7 +1084,7 @@ erlässt:
 
 <sup>2</sup> Der 13. Monatslohn wird je zur Hälfte im Juni und Dezember ausgerichtet.
 
-<sup>3</sup> Der Versand der Lohnabrechnung erfolgt jeweils im Januar, am Ende jedes Quartals und in jenen Monaten, in denen sich der Auszahlungsbetrag ändert.
+<sup>3</sup> …
 
 #### Art. 86
 
@@ -1137,7 +1138,7 @@ erlässt:
 
 <sup>1</sup> Die Auszahlung der Inkonvenienzentschädigung erfolgt in der Regel monatlich.
 
-<sup>2</sup> Sie sind gemäss den Weisungen des Personaldienstes zu erfassen und ihm rechtzeitig für die Auszahlung zu melden.
+<sup>2</sup> Sie sind gemäss den Weisungen der Hauptabteilung Personal und Organisation zu erfassen und ihr rechtzeitig für die Auszahlung zu melden.
 
 #### Art. 91
 
@@ -1153,17 +1154,17 @@ erlässt:
 
 **Kinder- und Ausbildungszulagen**
 
-<sup>1</sup> Der Anspruch auf Kinder- und Ausbildungszulagen ist beim Personaldienst schriftlich geltend zu machen.
+<sup>1</sup> Der Anspruch auf Kinder- und Ausbildungszulagen ist bei der Hauptabteilung Personal und Organisation schriftlich geltend zu machen.
 
-<sup>2</sup> Entfällt der Anspruch auf Kinder- und Ausbildungszulagen, ist dies dem Personaldienst unverzüglich zu melden.
+<sup>2</sup> Entfällt der Anspruch auf Kinder- und Ausbildungszulagen, ist dies der Hauptabteilung Personal und Organisation unverzüglich zu melden.
 
 #### Art. 93
 
 **Besondere Familienzulage**
 
-<sup>1</sup> Angestellten, die bereits eine Kinder- oder Ausbildungszulage bei der kantonalen Verwaltung beziehen, wird die besondere Familienzulage durch den Personaldienst automatisch ausgerichtet. Die übrigen Angestellten müssen sie speziell beantragen.
+<sup>1</sup> Angestellten, die bereits eine Kinder- oder Ausbildungszulage bei der kantonalen Verwaltung beziehen, wird die besondere Familienzulage durch die Hauptabteilung Personal und Organisation automatisch ausgerichtet. Die übrigen Angestellten müssen sie speziell beantragen.
 
-<sup>2</sup> Änderungen in der Anspruchsberechtigung sind dem Personaldienst unverzüglich zu melden. Verspätet gemeldeten Ansprüchen wird rückwirkend für höchstens fünf Jahre entsprochen.
+<sup>2</sup> Änderungen in der Anspruchsberechtigung sind der Hauptabteilung Personal und Organisation unverzüglich zu melden. Verspätet gemeldeten Ansprüchen wird rückwirkend für höchstens fünf Jahre entsprochen.
 
 <sup>3</sup> An die von der kantonalen Verwaltung ausgerichtete besondere Familienzulage können angerechnet werden:
 
@@ -1196,7 +1197,7 @@ erlässt:
 
 **Erfassung und Ausrichtung**
 
-<sup>1</sup> Die Angestellten der kantonalen Verwaltung haben die Auslagen nach den Vorgaben des Personaldienstes zu erfassen und ihm zusammen mit den Belegen einzureichen.
+<sup>1</sup> Die Angestellten der kantonalen Verwaltung haben die Auslagen nach den Vorgaben der Hauptabteilung Personal und Organisation zu erfassen und ihr zusammen mit den Belegen einzureichen.
 
 <sup>2</sup> Die Auszahlung erfolgt in der Regel monatlich.
 
@@ -1204,9 +1205,9 @@ erlässt:
 
 **Kontrolle**
 
-<sup>1</sup> Die Kontrolle der Abrechnungen richtet sich nach den Vorgaben des Personaldienstes.
+<sup>1</sup> Die Kontrolle der Abrechnungen richtet sich nach den Vorgaben der Hauptabteilung Personal und Organisation.
 
-<sup>2</sup> Er legt die Spesenabrechnungen mit den Belegen zentral ab und ist berechtigt, die eingereichten Abrechnungen auf ihre Plausibilität und Rechtmässigkeit zu überprüfen.
+<sup>2</sup> Sie legt die Spesenabrechnungen mit den Belegen zentral ab und ist berechtigt, die eingereichten Abrechnungen auf ihre Plausibilität und Rechtmässigkeit zu überprüfen.
 
 ### 4.4.2. Verpflegung und Unterkunft
 
@@ -1252,7 +1253,7 @@ erlässt:
 
 <sup>2</sup> Für Dienstfahrten mit privaten Motorfahrzeugen werden Kilometervergütungen gemäss Anhang ausgerichtet.
 
-<sup>3</sup> Für ausserordentliche Beanspruchungen des Motorfahrzeugs können Zulagen oder Pauschalen gemäss Anhang ausgerichtet werden.
+<sup>3</sup> …
 
 <sup>4</sup> Mit der Kilometervergütung sind sämtliche Ansprüche für die Benützung des privaten Motorfahrzeugs abgegolten.
 
@@ -1358,11 +1359,11 @@ erlässt:
 
 **Leistungen Dritter**
 
-<sup>1</sup> Die angestellte Person hat dem Personaldienst die Ausrichtung allfälliger Versicherungsleistungen und von haftpflichtigen Dritten bei Krankheit oder Unfall zu melden.
+<sup>1</sup> Die angestellte Person hat der Hauptabteilung Personal und Organisation die Ausrichtung allfälliger Versicherungsleistungen und von haftpflichtigen Dritten bei Krankheit oder Unfall zu melden.
 
 <sup>2</sup> Aus solchen Leistungen dürfen der angestellten Person keine finanziellen Vorteile erwachsen. Sie sind an die Lohnfortzahlung des Kantons anzurechnen.
 
-<sup>3</sup> Der Personaldienst kann im Rahmen der Lohnfortzahlung in Ansprüche gegenüber Dritten eintreten und diese selbstständig und direkt geltend machen.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation kann im Rahmen der Lohnfortzahlung in Ansprüche gegenüber Dritten eintreten und diese selbstständig und direkt geltend machen.
 
 #### Art. 113
 
@@ -1383,7 +1384,19 @@ erlässt:
 - a. während einzelner Dienstleistungen an Samstagen, Sonntagen und Feiertagen oder in der Freizeit;
 - b. für Dienstleistungen während der Ferien.
 
-<sup>2</sup> Die Erstattung der Erwerbsausfallentschädigung ist beim Personaldienst geltend zu machen.
+<sup>2</sup> Die Erstattung der Erwerbsausfallentschädigung ist bei der Hauptabteilung Personal und Organisation geltend zu machen.
+
+## 4a. Personelle Ereignisse mit dienstlichem Charakter
+
+#### Art. 114a
+
+**Beträge**
+
+<sup>1</sup> Für personelle Ereignisse mit dienstlichem Charakter stehen den Departementen, der Staatskanzlei und den Gerichten maximal die im Anhang aufgeführten Beträge zur Verfügung.
+
+<sup>2</sup> Für nicht im Anhang aufgeführte personelle Ereignisse mit dienstlichem Charakter können in der Regel keine Beträge geltend gemacht werden. Über Ausnahmen entscheidet der Departementsvorsteher oder die Departementsvorsteherin beziehungsweise der Ratsschreiber oder die Ratsschreiberin oder das jeweilige Präsidium der Gerichte.
+
+<sup>3</sup> Für personelle Ereignisse mit überwiegend nicht dienstlichem Charakter können keine Beträge geltend gemacht werden.
 
 ## 5. Personalvorsorge
 
@@ -1398,7 +1411,7 @@ erlässt:
 - a. der Kanton für die Berufsunfallversicherung;
 - b. der Kanton und die Angestellten je hälftig für die Nichtberufsunfallversicherung.
 
-<sup>3</sup> Die Angestellten haben die Möglichkeit, sich freiwillig über den Kanton kollektiv gegen Tod und Invalidität im Rahmen einer Kapitalzahlung zu versichern. Die Prämien gehen zu ihren Lasten und werden direkt mit den Lohnzahlungen des Kantons verrechnet.
+<sup>3</sup> …
 
 [^115-1]: SR 832.20
 
@@ -1434,7 +1447,7 @@ erlässt:
 
 <sup>2</sup> Das für das Personalwesen zuständige Mitglied des Regierungsrates führt den Vorsitz.
 
-<sup>3</sup> Die Leiterin oder der Leiter des Personaldienstes nimmt mit beratender Stimme an den Sitzungen teil und führt das Protokoll. Die Leiterin oder der Leiter Rechtsdienst kann beigezogen werden.
+<sup>3</sup> Die Leiterin oder der Leiter der Hauptabteilung Personal und Organisation nimmt mit beratender Stimme an den Sitzungen teil und führt das Protokoll. Die Leiterin oder der Leiter Rechtsdienst kann beigezogen werden.
 
 #### Art. 119
 
@@ -1452,19 +1465,19 @@ erlässt:
 
 **Bewertungsteam**
 
-<sup>1</sup> Das Bewertungsteam nach Artikel 80 setzt sich aus Vertretern des Personaldienstes, der Departemente und Staatskanzlei sowie der Gerichte zusammen.
+<sup>1</sup> Das Bewertungsteam nach Artikel 80 setzt sich aus Vertretern der Hauptabteilung Personal und Organisation, der Departemente und Staatskanzlei sowie der Gerichte zusammen.
 
 <sup>2</sup> Es kann für die Bewertung weitere Personen beiziehen.
 
 #### Art. 121
 
-**Personaldienst, a. Stellung und Aufgaben**
+**Hauptabteilung Personal und Organisation, a. Stellung und Aufgaben**
 
-<sup>1</sup> Der Personaldienst ist Fachstelle für sämtliche Personalfragen. Er sorgt für eine einheitliche Anwendung des Personalrechts.
+<sup>1</sup> Die Hauptabteilung Personal und Organisation ist Fachstelle für sämtliche Personalfragen. Sie sorgt für eine einheitliche Anwendung des Personalrechts.
 
-<sup>2</sup> Er arbeitet mit den Verwaltungseinheiten der kantonalen Verwaltung und den Gerichten zusammen, unterstützt diese durch Beratung und weitere Dienstleistungen und bereitet für sie Verträge und personalrechtliche Entscheide vor. Im Einzelnen:
+<sup>2</sup> Sie arbeitet mit den Verwaltungseinheiten der kantonalen Verwaltung und den Gerichten zusammen, unterstützt diese durch Beratung und weitere Dienstleistungen und bereitet für sie Verträge und personalrechtliche Entscheide vor. Im Einzelnen:
 
-- a. sorgt er für die Weiterentwicklung des kantonalen Personalrechts;
+- a. sorgt für die Weiterentwicklung des kantonalen Personalrechts;
 - b. gewährleistet effiziente Personalprozesse;
 - c. sorgt für eine termingerechte und korrekte Abwicklung der Personal- und Lohngeschäfte;
 - d. schafft und bietet bedarfsorientierte Instrumente für die Zeiterfassung und für die Personalentwicklung und -führung an;
@@ -1475,17 +1488,17 @@ erlässt:
 - i verfasst Berichte und Stellungnahmen in seinem Sach- und Aufgabengebiet;
 - j. führt ein Controlling.
 
-<sup>3</sup> Der Personaldienst arbeitet nach Massgabe von Leistungsvereinbarungen mit den selbstständigen öffentlich-rechtlichen Anstalten und Körperschaften des Kantons zusammen, deren Arbeitsverhältnisse dem Personalgesetz unterliegen.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation arbeitet nach Massgabe von Leistungsvereinbarungen mit den selbstständigen öffentlich-rechtlichen Anstalten und Körperschaften des Kantons zusammen, deren Arbeitsverhältnisse dem Personalgesetz unterliegen.
 
 #### Art. 122
 
-**Personaldienst, b. Befugnisse**
+**Hauptabteilung Personal und Organisation, b. Befugnisse**
 
-<sup>1</sup> Der Personaldienst hat vollumfängliches Einsichts- und Auskunftsrecht in sämtliche personalrechtlichen Angelegenheiten der Verwaltungseinheiten der kantonalen Verwaltung.
+<sup>1</sup> Die Hauptabteilung Personal und Organisation hat vollumfängliches Einsichts- und Auskunftsrecht in sämtliche personalrechtlichen Angelegenheiten der Verwaltungseinheiten der kantonalen Verwaltung.
 
-<sup>2</sup> Der Personaldienst kann bei der nächsthöheren Aufsichtsinstanz Meldung erstatten, wenn er zur Auffassung gelangt, dass Vollzugshandlungen oder Entscheide nicht im Einklang mit personalrechtlichen Vorschriften stehen. Der Regierungsrat bzw. die Verwaltungskommission der Gerichte entscheidet abschliessend.
+<sup>2</sup> Die Hauptabteilung Personal und Organisation kann bei der nächsthöheren Aufsichtsinstanz Meldung erstatten, wenn sie zur Auffassung gelangt, dass Vollzugshandlungen oder Entscheide nicht im Einklang mit personalrechtlichen Vorschriften stehen. Der Regierungsrat bzw. die Verwaltungskommission der Gerichte entscheidet abschliessend.
 
-<sup>3</sup> Er trifft selbstständige Entscheide, wo er durch Gesetz oder Verordnung für zuständig erklärt wird, und erlässt Weisungen und Richtlinien in seinem Sachgebiet.
+<sup>3</sup> Sie trifft selbstständige Entscheide, wo sie durch Gesetz oder Verordnung für zuständig erklärt wird, und erlässt Weisungen und Richtlinien in ihrem Sachgebiet.
 
 #### Art. 123
 
@@ -1495,7 +1508,7 @@ erlässt:
 
 <sup>2</sup> Personendaten von Bewerbenden sind bei einer Nichtanstellung innert sechs Monaten zurückzugeben oder zu vernichten.
 
-<sup>3</sup> Der Personaldienst führt für jedes Arbeitsverhältnis zentral ein Personaldossier.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation führt für jedes Arbeitsverhältnis zentral ein Personaldossier.
 
 <sup>4</sup> In die Personaldossiers werden insbesondere Unterlagen abgelegt, die erstellt wurden im Zusammenhang mit:
 
@@ -1512,11 +1525,11 @@ erlässt:
 
 **Datenbearbeitung und -zugriff**
 
-<sup>1</sup> Der Personaldienst und die direkt vorgesetzten Stellen bearbeiten diejenigen Daten in den Personalsystemen, die sie zur Erfüllung ihrer Aufgaben benötigen.
+<sup>1</sup> Die Hauptabteilung Personal und Organisation und die direkt vorgesetzten Stellen bearbeiten diejenigen Daten in den Personalsystemen, die sie zur Erfüllung ihrer Aufgaben benötigen.
 
 <sup>2</sup> Die Angestellten können ihre eigenen Daten und die Vorgesetzten die Daten ihrer Angestellten in den zentralen Personalsystemen bearbeiten und einsehen, soweit ihnen ein Zugriffsrecht zusteht.
 
-<sup>3</sup> Der Personaldienst legt die Zugriffsrechte sowie Art und Umfang der Berechtigungen fest.
+<sup>3</sup> Die Hauptabteilung Personal und Organisation legt die Zugriffsrechte sowie Art und Umfang der Berechtigungen fest.
 
 <sup>4</sup> Wechseln Angestellte innerhalb der kantonalen Verwaltung zu einer anderen Verwaltungseinheit, so wird der bisherigen Verwaltungseinheit die Zugriffsberechtigung auf die Personalsysteme für alle Daten, welche diese Person betreffen, entzogen und der neuen Verwaltungseinheit übertragen.
 
@@ -1526,9 +1539,9 @@ erlässt:
 
 **Umsetzung**
 
-<sup>1</sup> Der Personaldienst trifft die für die Umsetzung erforderlichen Massnahmen.
+<sup>1</sup> Die Hauptabteilung Personal und Organisation trifft die für die Umsetzung erforderlichen Massnahmen.
 
-<sup>2</sup> Die Angestellten haben ihre Nebentätigkeiten gemäss Artikel 42 bis spätestens am 31. Dezember 2017 mit dem entsprechenden Formular dem Personaldienst zu melden.
+<sup>2</sup> Die Angestellten haben ihre Nebentätigkeiten gemäss Artikel 42 bis spätestens am 31. Dezember 2017 mit dem entsprechenden Formular der Hauptabteilung Personal und Organisation zu melden.
 
 #### Art. 126
 
@@ -1543,6 +1556,12 @@ erlässt:
 [^126-3]: SBE XI/4 259
 [^126-4]: SBE 2013 10
 
+#### Art. 127
+
+**Übergangsbestimmungen zur Änderung vom 20. Februar 2024**
+
+<sup>1</sup> Angestellte Personen mit einem Pensum unter 100 Prozent können eine Arbeitszeitvariante gemäss Artikel 58 Absatz 1 erstmals per 1. Juli 2024 wählen.
+
 ## A1. Anhang: Zusammenstellung der Entschädigung
 
 #### Art. A1-1
@@ -1556,7 +1575,7 @@ erlässt:
   - 2\. mit dem Motorrad: 35 Rp./km;
   - 3\. mit dem Elektro-Bike: 20 Rp./km;
 - b. pauschale Entschädigung für Wildhüter: Festlegung Departement Bau und Umwelt;
-- c. Kilometerentschädigung für Kreisforstingenieure: 80 Rp./km.
+- c. …
 
 <sup>2</sup> Weitere Pauschalspesen gemäss den Artikeln 97 und 105:
 
@@ -1576,7 +1595,7 @@ erlässt:
 - a. Sozialdienst: 160 Fr./Woche;
 - b. Staatsanwaltschaft: 250 Fr./Monat;
 - c. Umwelt und Energie: 200 Fr./Monat;
-- d. Wildhüter: 200 Fr./Monat;
+- d. Wildhüter: 200 Fr./Monat für Pikettentschädigung, 200 Fr./Monat für Nacht- und Sonntagsarbeit;
 - e. Winterpikett Strassenunterhalt: 21 Fr./Tag;
 - f. Bereitschaftsdienst Lawinenzentrale (für die Monate November bis April): 200 Fr./Monat;
 - g. Gefängnisaufsicht: 21 Fr./Tag;
@@ -1586,5 +1605,21 @@ erlässt:
 
 - a. angeordnete Abend- und Nachtarbeit (zwischen 20 und 6 Uhr): 7 Fr./Stunde;
 - b. angeordnete Arbeit an Samstagen, Sonn- und Feiertagen: 7 Fr./Stunde.
+
+## A2. Anhang: Personelle Ereignisse mit dienstlichem Charakter
+
+#### Art. A2-1
+
+**Personelle Ereignisse mit dienstlichem Charakter**
+
+<sup>1</sup> Maximalbeträge für personelle Ereignisse mit dienstlichem Charakter gemäss Artikel 114a:
+
+- a. Personalanlässe (Ausflüge, Weihnachtsessen und Ähnliches): 150 Fr. pro angestellte Person und Jahr;
+- b. Eintrittsgeschenk: 50 Fr.;
+- c. Dienstjubiläum ab dem vollendeten 10. Dienstjahr alle 5 Jahre: Mittagessen, Apéro oder dergleichen mit der vorgesetzten Stelle: 150 Fr. insgesamt;
+- d. Dienstjubiläumgsgeschenk ab dem vollendeten 20. Dienstjahr alle 5 Jahre: Kosten für Apéro und Geschenk, organisiert durch die Hauptabteilung Personal und Organisation;
+- e. Pensionierungsgeschenk: 300 Fr.;
+- f. längere Krankheit oder Unfall: 50 Fr. für Karte und Geschenk;
+- g. Todesfall einer angestellten Person: Kosten für Kondolenzschreiben, Todesanzeige, Spende und Kranz (in Rücksprache mit der Staatskanzlei).
 
 SBE 2017 12
