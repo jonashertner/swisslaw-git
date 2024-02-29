@@ -4,13 +4,12 @@ number: V D/1/1
 title: Gesetz über die Kantonale Sachversicherung Glarus
 short: "Sachversicherungsgesetz, SachVG"
 language: de
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-09-05
+version: 2024-03-01
+version_adopted: 2023-05-07
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-D.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2358/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2358/pdf_file"
 
 (Sachversicherungsgesetz, SachVG)
 
-Vom 02.05.2010 (Stand 01.01.2023)
+Vom 02.05.2010 (Stand 01.03.2024)
 
 Die Landsgemeinde,
 
@@ -58,6 +57,12 @@ beschliesst:
 **Beteiligungen und Zusammenarbeit**
 
 <sup>1</sup> Die Glarnersach kann im Rahmen ihrer Aufgaben alle Geschäfte tätigen, die ihrer Entwicklung dienen. Insbesondere kann sie Verbindungen mit anderen Institutionen eingehen, Rückversicherungsverträge abschliessen und sich an Schadenpools beteiligen.
+
+#### Art. 3a
+
+**Öffentliches Beschaffungswesen**
+
+<sup>1</sup> Die Glarnersach ist für Anlageinvestitionen dem öffentlichen Beschaffungswesen nicht unterstellt.
 
 ## 2. Organisation
 
