@@ -4,13 +4,12 @@ number: "331.11"
 title: Justizvollzugsverordnung
 short: JVV
 language: de
-version: 2020-12-05
-valid_until: 2024-02-29
-version_adopted: 2020-11-24
+version: 2024-03-01
+version_adopted: 2024-02-27
 adopted: 2018-03-20
 in_force: 2018-03-24
 url: "https://bgs.zg.ch/app/de/texts_of_law/331.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2169/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2169/pdf_file"
 
 (JVV)
 
-Vom 20. März 2018 (Stand 5. Dezember 2020)
+Vom 20. März 2018 (Stand 1. März 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -42,7 +41,7 @@ beschliesst:
 
 **Zuständigkeiten und Geltungsbereich**
 
-<sup>1</sup> Das Amt für Justizvollzug mit den beiden Abteilungen Vollzugs- und Bewährungsdienst sowie Strafanstalt Zug betreibt die Strafanstalt Zug und vollzieht bei Erwachsenen:
+<sup>1</sup> Das Amt für Justizvollzug verfügt über zwei Abteilungen. Eine Abteilung betreibt die Strafanstalt Zug. Die andere Abteilung vollzieht als Vollzugs- und Bewährungsdienst bei Erwachsenen:
 
 - a) Strafen und Massnahmen, soweit diese nicht einer anderen Behörde übertragen worden sind;
 - b) die vollzugsrechtliche Sicherheitshaft;
@@ -50,17 +49,19 @@ beschliesst:
 - d) die Bewährungshilfe;
 - e) die Weisungen;
 - f) die soziale Betreuung;
-- g) die Lernprogramme.
+- g) die Lernprogramme;
+- h) die Tätigkeits-, Kontakt- und Rayonverbote nach Art. 67 ff. StGB[^1-1].
 
 <sup>2</sup> Das Amt für Justizvollzug führt den Fonds für Schutzaufsicht und Entlassenenfürsorge.
 
 <sup>3</sup> Das Amt für Migration vollzieht die strafrechtlichen Landesverweisungen.
 
-<sup>4</sup> Der Vollzugs- und Bewährungsdienst ist kantonale Koordinationsstelle gemäss Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen vom 18. Dezember 2015[^1-1].
+<sup>4</sup> Der Vollzugs- und Bewährungsdienst ist kantonale Koordinationsstelle gemäss Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen vom 18. Dezember 2015[^1-2].
 
 <sup>5</sup> Im Übrigen ist die Sicherheitsdirektion für den Straf- und Massnahmenvollzug gegenüber Erwachsenen zuständig.
 
-[^1-1]: SR [0.103.3](https://db.clex.ch/link/Bund/0.103.3/de)
+[^1-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^1-2]: SR [0.103.3](https://db.clex.ch/link/Bund/0.103.3/de)
 
 #### § 2
 
@@ -76,7 +77,7 @@ beschliesst:
 
 <sup>1</sup> Die Inhaftierten der Strafanstalt werden soweit möglich und zumutbar an den ungedeckten Krankheitskosten beteiligt. Falls keine Beteiligung der Inhaftierten möglich ist und kein anderer gesetzlicher Kostenträger die Kosten übernimmt, stellt die Strafanstalt den verfahrensleitenden bzw. einweisenden Behörden ungedeckte Krankheitskosten von Inhaftierten in Rechnung.
 
-<sup>2</sup> Der Vollzugs- und Bewährungsdienst stellt den mit Ersatzmassnahmen belegten oder sich im vorzeitigen Vollzug befindenden Personen sowie den Verurteilten soweit möglich und zumutbar ungedeckte Krankheitskosten sowie Behandlungs- und Weisungskosten in Rechnung.
+<sup>2</sup> Der Vollzugs- und Bewährungsdienst stellt den Verurteilten soweit möglich und zumutbar Behandlungs- und Weisungskosten in Rechnung.
 
 #### § 4
 
@@ -104,7 +105,7 @@ beschliesst:
 
 <sup>3</sup> Fachpersonen oder Fachstellen, die mit der Begutachtung oder Behandlung einer verurteilten Person beauftragt sind,
 
-- a) erstatten den zuständigen Stellen im Amt für Justizvollzug auf begründete Anfrage hin Bericht, insbesondere über die angewendete Therapie, das Erreichen oder Nichterreichen von Therapiezielen, festgestellte Veränderungen oder die Notwendigkeit der Fortsetzung der Therapie;
+- a) erstatten den zuständigen Stellen im Amt für Justizvollzug auf Anfrage hin Bericht, insbesondere über die angewendete Therapie, das Erreichen oder Nichterreichen von Therapiezielen, festgestellte Veränderungen oder die Notwendigkeit der Fortsetzung der Therapie;
 - b) informieren die zuständigen Stellen im Amt für Justizvollzug unaufgefordert über aussergewöhnliche Vorkommnisse, welche die Fortführung der Therapie in Frage stellen;
 - c) dürfen in die Vollzugsakten Einsicht nehmen, soweit dies für ihre Aufgabenerfüllung erforderlich ist;
 - d) dürfen von den zuständigen Stellen im Amt für Justizvollzug Auskünfte verlangen, soweit dies für ihre Aufgabenerfüllung erforderlich ist.
@@ -145,6 +146,14 @@ beschliesst:
 
 <sup>4</sup> Beruft sich die verurteilte Person auf gesundheitliche Gründe, hat sie ein aktuelles und begründetes Zeugnis einer zur Berufsausübung zugelassenen Ärztin oder eines zur Berufsausübung zugelassenen Arztes einzureichen.
 
+#### § 8a
+
+**Vollzug von Tätigkeits-, Kontakt- und Rayonverboten**
+
+<sup>1</sup> Personen, denen ein Tätigkeits-, Kontakt- oder Rayonverbot nach Art. 67 ff. StGB[^8a-1] auferlegt wurde, stellen dem Vollzugs- und Bewährungsdienst zur Überprüfung der Einhaltung des Verbots aufforderungsgemäss die erforderlichen Unterlagen und Informationen zur Verfügung.
+
+[^8a-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
 #### § 9
 
 **Bewährungshilfe**
@@ -181,10 +190,10 @@ beschliesst:
 
 <sup>1</sup> Die Strafanstalt führt folgende Abteilungen:
 
-- a) Eintritt und vorläufige Festnahmen
-- b) Untersuchungs- und Sicherheitshaft
-- c) Vollzug
-- d) Administrativhaft
+- a) Eintritt und vorläufige Festnahmen;
+- b) Untersuchungs- und Sicherheitshaft;
+- c) Vollzug;
+- d) Kleingruppe.
 
 #### § 13
 
@@ -273,7 +282,7 @@ beschliesst:
 
 **Kiosk, Hygieneartikel**
 
-<sup>1</sup> Die Strafanstalt bietet Kioskwaren und Hygieneartikel des täglichen Gebrauchs zum Verkauf an.
+<sup>1</sup> Die Strafanstalt bietet Kioskwaren und Hygieneartikel des täglichen Gebrauchs zum Verkauf an. Die Bezüge können von der Anstaltsleitung limitiert werden.
 
 <sup>2</sup> Die Hygieneartikel des täglichen Gebrauchs werden mittellosen Inhaftierten kostenlos abgegeben.
 
@@ -337,23 +346,25 @@ beschliesst:
 
 <sup>1</sup> Der Sozialdienst steht den Inhaftierten zur Unterstützung und Hilfeleistung in persönlichen Angelegenheiten zur Verfügung.
 
-<sup>2</sup> Der Sozialdienst ist zuständig für das Urlaubswesen sowie die Erstellung der Vollzugspläne und der Führungsberichte.
+<sup>2</sup> Der Sozialdienst ist zuständig für das Urlaubswesen sowie die Erstellung der Vollzugspläne und der Vollzugsberichte.
 
 #### § 28
 
 **Unterricht**
 
-<sup>1</sup> Für die Inhaftierten der Abteilung Vollzug besteht ein internes Bildungsangebot.
+<sup>1</sup> Für die Inhaftierten der Abteilungen Vollzug sowie Untersuchungs- und Sicherheitshaft besteht ein internes Bildungsangebot.
 
 <sup>2</sup> Das Bildungsangebot wird über externe Leistungserbringer abgedeckt.
 
 #### § 29
 
-**Arbeitsentgelt**
+**Kontoführung**
 
 <sup>1</sup> Das Arbeitsentgelt der Inhaftierten der Abteilung Vollzug wird anteilsmässig dem Frei- und den Sperrkonten gutgeschrieben.
 
 <sup>2</sup> Bei den Inhaftierten der anderen Abteilungen besteht einzig ein Freikonto.
+
+<sup>3</sup> Bei den Inhaftierten der Abteilung Kleingruppe, die bereits über Frei- und Sperrkonten verfügen, wird die bestehende Kontoaufteilung übernommen.
 
 #### § 30
 
@@ -371,7 +382,7 @@ beschliesst:
 
 **Gebühren, Rückforderungen**
 
-<sup>1</sup> Für die Nutzung eines Fernsehgeräts wird eine Gebühr verrechnet.
+<sup>1</sup> Für die Nutzung eines Fernsehgeräts wird eine Gebühr verrechnet. Bei Inhaftierten, die kein Arbeitsentgelt erzielen, kann auf die Erhebung der Gebühr verzichtet werden.
 
 <sup>2</sup> Den Inhaftierten werden die Kosten der von ihnen verursachten Sachbeschädigungen sowie der positiven Drogen- und Alkoholtests auferlegt.
 
@@ -419,9 +430,9 @@ beschliesst:
 
 **Trennscheibe**
 
-<sup>1</sup> Private Besuche von Inhaftierten in Untersuchungshaft werden hinter der Trennscheibe durchgeführt. Über Ausnahmen entscheidet die Anstaltsleitung in Absprache mit der einweisenden Behörde.
+<sup>1</sup> Die Verfahrensleitung kann anordnen, dass private Besuche von Inhaftierten in Untersuchungs- und Sicherheitshaft hinter einer Trennscheibe durchgeführt werden.
 
-<sup>2</sup> Die Anstaltsleitung kann im Einzelfall bei allen anderen Inhaftierten zur Gewährleistung von Ruhe, Ordnung und Sicherheit sowie im Rahmen der erhöhten Fürsorgepflicht Besuche hinter der Trennscheibe anordnen.
+<sup>2</sup> …
 
 #### § 37
 
@@ -440,6 +451,26 @@ beschliesst:
 <sup>1</sup> Bei akuter Gefährdung der körperlichen Unversehrtheit von Inhaftierten, Anstaltspersonal oder Besucherinnen und Besuchern sowie zur Verhinderung einer Flucht kann zur Abwendung dieser Gefahren verhältnismässiger körperlicher oder anderer unmittelbar wirksamer Zwang durch das Anstaltspersonal angewandt werden.
 
 <sup>2</sup> Die Anstaltsleitung ist umgehend über die erfolgte Anwendung von körperlichem oder anderem unmittelbar wirksamem Zwang zu informieren.
+
+#### § 38a
+
+**Sicherheits- und Schutzmassnahmen**
+
+<sup>1</sup> Zur Gewährleistung von Ruhe, Ordnung und Sicherheit kann die Anstaltsleitung insbesondere folgende Massnahmen verfügen:
+
+- a) Trennscheibe bei Besuchen;
+- b) Kontakt- und Rayonverbote innerhalb der Anstalt;
+- c) Versetzung auf die Abteilung Kleingruppe;
+- d) Versetzung in eine Zelle mit Videoüberwachung;
+- e) Zelleneinschluss bis maximal zehn Tage;
+- f) Arrest in der Sicherheitszelle bis maximal zehn Tage;
+- g) Versetzung in Einzelhaft.
+
+<sup>2</sup> Die Anordnung anderer geeigneter Sicherheits- und Schutzmassnahmen ist zulässig, soweit diese sich als verhältnismässig erweisen.
+
+<sup>3</sup> Es können mehrere Sicherheits- und Schutzmassnahmen gleichzeitig verfügt werden. Das Verfahren richtet sich nach § 42.
+
+<sup>4</sup> Die Erforderlichkeit der Aufrechterhaltung von Einzelhaft wird spätestens nach einem Monat überprüft.
 
 #### § 39
 
@@ -490,7 +521,7 @@ beschliesst:
 
 <sup>1</sup> Disziplinarsanktionen gemäss § 40 sind von der Anstaltsleitung nach Gewährung des rechtlichen Gehörs schriftlich und begründet zu verfügen.
 
-<sup>2</sup> Sicherungsmassnahmen können vom Personal ohne vorgängige Verfügung umgehend angeordnet und vollzogen werden, wenn sofortiges Handeln im Interesse eines ordnungsgemässen Betriebs notwendig ist. Die Anstaltsleitung verfügt nachträglich formell innerhalb von drei Arbeitstagen.
+<sup>2</sup> Sicherheits- und Schutzmassnahmen können vom Personal ohne vorgängige Verfügung umgehend angeordnet und vollzogen werden, wenn sofortiges Handeln im Interesse eines ordnungsgemässen Betriebs notwendig ist. Die Anstaltsleitung verfügt nachträglich formell innerhalb von drei Arbeitstagen.
 
 <sup>3</sup> Einer allfälligen Beschwerde wird die aufschiebende Wirkung entzogen.
 
