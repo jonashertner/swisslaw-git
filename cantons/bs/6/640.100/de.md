@@ -4,13 +4,13 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-09-12
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-03-22
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6147/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. Januar 2024)
+Vom 12. April 2000 (Stand 1. März 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -898,7 +898,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 - a) die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung) und die Genossenschaften;
 - b) die Vereine, die Stiftungen und die übrigen juristischen Personen.
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 des Bundesgesetzes über die kollektiven Kapitalanlagen vom 23. Juni 2006. Die Investmentgesellschaften mit festem Kapital nach Art. 110 dieses Bundesgesetzes werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 oder 118a des Bundesgesetzes über die kollektiven Kapitalanlagen vom 23. Juni 2006 (Kollektivanlagengesetz, KAG). Die Investmentgesellschaften mit festem Kapital nach Art. 110 KAG werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie nach § 12 Abs. 3 steuerpflichtige Handelsgesellschaften und andere Personengesamtheiten ohne juristische Persönlichkeit werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
