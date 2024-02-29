@@ -4,13 +4,13 @@ number: "661.11"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-09-13
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-16
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2866/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3007/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2866/pdf_file"
 
 (StG)
 
-vom 21.05.2000 (Stand 01.01.2024)
+vom 21.05.2000 (Stand 01.03.2024)
 
 Der Grosse Rat des Kantons Bern,
 

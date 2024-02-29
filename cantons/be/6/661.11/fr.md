@@ -4,13 +4,13 @@ number: "661.11"
 title: Loi sur les impôts
 short: LI
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-09-13
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-16
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2866/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3007/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2866/pdf_file"
 
 (LI)
 
-du 21.05.2000 (état au 01.01.2024)
+du 21.05.2000 (état au 01.03.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1836,7 +1836,7 @@ arrête:
 
 <sup>1</sup> L'impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
 
-<sup>1a</sup> Si les comptes annuels sont établis en monnaie étrangère, il faut convertir le bénéfice net imposable en francs. Le taux de change est le cours moyen de la devise (vente) sur la période fiscale.
+<sup>1a</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs. Le taux de change moyen (vente) de la période fiscale est déterminant.
 
 <sup>2</sup> Lors de la liquidation d'une personne morale ou du transfert à l'étranger de son siège, de son administration, d'une entreprise ou d'un établissement stable, les réserves latentes constituées au moyen de bénéfices non soumis à l'impôt sont imposées avec le bénéfice net du dernier exercice.
 
@@ -1848,7 +1848,7 @@ arrête:
 
 <sup>1</sup> L'impôt sur le capital propre est calculé sur la base du capital propre existant à la fin de la période fiscale et après utilisation du bénéfice.
 
-<sup>1a</sup> Si les comptes annuels sont établis en monnaie étrangère, il faut convertir le capital propre imposable en francs. Le taux de change est le cours moyen de la devise (vente) sur la période fiscale.
+<sup>1a</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le capital propre imposable doit être converti en francs. Le taux de change (vente) à la fin de la période fiscale est déterminant.
 
 <sup>2</sup> Lorsque l'exercice commercial est supérieur ou inférieur à douze mois, l'impôt sur le capital est calculé sur la base de la durée de cet exercice.
 
