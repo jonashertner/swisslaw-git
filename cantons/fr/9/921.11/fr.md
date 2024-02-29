@@ -4,13 +4,13 @@ number: "921.11"
 title: Règlement sur les forêts et la protection contre les catastrophes naturelles
 short: RFCN
 language: fr
-version: 2022-12-01
-valid_until: 2024-02-29
-version_adopted: 2022-11-08
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-20
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7636/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7979/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Forêts et protection contre les catastrophes naturelles – R
 
 (RFCN)
 
-du 11.12.2001 (version entrée en vigueur le 01.12.2022)
+du 11.12.2001 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -332,7 +332,7 @@ Arrête:
 
 <sup>1</sup> Dans le cadre de la constatation de la nature forestière, le Service fixe les limites de la forêt et les fait reporter sur un plan. S'il s'agit d'une délimitation par rapport à la zone à bâtir, les limites de la forêt sont jalonnées sur le terrain, durant la mise à l'enquête.
 
-<sup>2</sup> Le plan est mis à l'enquête pendant trente jours. Pendant la durée de l'enquête, les limites de la forêt sont consultables sous forme numérique.
+<sup>2</sup> Le plan est mis à l'enquête pendant trente jours. Pendant la durée de l'enquête, les limites de la forêt peuvent être consultées dans le cadastre des restrictions de droit public à la propriété foncière.
 
 <sup>3</sup> Après que la décision sur les limites de la forêt soit entrée en force, les géodonnées qui ont servi à l'élaboration du plan sont publiées sur le cadastre des restrictions de droit public à la propriété foncière.
 
@@ -557,7 +557,7 @@ Arrête:
 - d) la responsabilité de l'entretien;
 - e) le financement de la réserve.
 
-<sup>3</sup> En cas de nécessité, les réserves font l'objet d'une mention au registre foncier.
+<sup>3</sup> Les réserves forestières sont inscrites au cadastre des restrictions de droit public à la propriété foncière.
 
 #### Art. 41
 

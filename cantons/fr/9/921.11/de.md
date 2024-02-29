@@ -4,13 +4,13 @@ number: "921.11"
 title: Reglement über den Wald und den Schutz vor Naturereignissen
 short: WSR
 language: de
-version: 2022-12-01
-valid_until: 2024-02-29
-version_adopted: 2022-11-08
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-20
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7636/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wald und Schutz vor Naturereignissen – R
 
 (WSR)
 
-vom 11.12.2001 (Fassung in Kraft getreten am 01.12.2022)
+vom 11.12.2001 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -332,7 +332,7 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen der Waldfeststellung zieht das Amt die Grenzen des Waldes und lässt sie auf einem Lageplan nachführen. Bei Abgrenzungen von Wald und Bauzone werden die Grenzen des Waldes während der öffentlichen Auflage vor Ort markiert.
 
-<sup>2</sup> Der Plan wird während dreissig Tagen öffentlich aufgelegt. Während der öffentlichen Auflage können die Waldgrenzen digital eingesehen werden.
+<sup>2</sup> Der Plan wird während dreissig Tagen öffentlich aufgelegt. Während der öffentlichen Auflage können die Waldgrenzen im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen eingesehen werden.
 
 <sup>3</sup> Nachdem der Entscheid über die Waldgrenzen in Kraft getreten ist, werden die Geodaten, die zur Erstellung des Plans dienten, im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen veröffentlicht.
 
@@ -557,7 +557,7 @@ beschliesst:
 - d) Verantwortung für die Pflege;
 - e) Finanzierung des Reservats.
 
-<sup>3</sup> Falls nötig werden Reservate als Anmerkung in das Grundbuch eingetragen.
+<sup>3</sup> Die Waldreservate werden im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen eingetragen.
 
 #### Art. 41
 
