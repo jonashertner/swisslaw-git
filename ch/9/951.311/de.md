@@ -4,11 +4,11 @@ title: "Verordnung vom 22. November 2006 über die kollektiven Kapitalanlagen (K
 short: KKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: de
-version: 2022-01-01
+version: 2024-03-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/de"
 
 (Kollektivanlagenverordnung, KKV)
 
-vom 22. November 2006 (Stand am 1. Januar 2022)
+vom 22. November 2006 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Bundesgesetz vom 23. Juni 2006[^ingress-1] über die kollektiven Kapitalanlagen (KAG; im Folgenden Gesetz genannt),
+gestützt auf das Kollektivanlagengesetz vom 23. Juni 2006[^ingress-1] (KAG),[^ingress-2]
 
 beschliesst:
 
 [^ingress-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -60,7 +61,7 @@ Unabhängig von seiner Rechtsform muss ein Investmentclub die folgenden Vorausse
 
 <sup>1</sup>
 
-Als operative Gesellschaften, die eine unternehmerische Tätigkeit ausüben, gelten für die Zwecke der Anwendung des Gesetzes und unabhängig von ihrer Rechtsform Unternehmen:
+Als operative Gesellschaften, die eine unternehmerische Tätigkeit ausüben, gelten für die Zwecke der Anwendung des KAG und unabhängig von ihrer Rechtsform Unternehmen:[^1b-2]
 
 - a. die ihren satzungsmässigen oder tatsächlichen Sitz in der Schweiz haben oder in der Schweiz niedergelassen sind, soweit sich ihr satzungsmässiger Sitz in einem anderen Staat befindet;
 - b. die eine Tätigkeit gewerbsmässig oder in einem Umfang betreiben, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert; und
@@ -76,11 +77,13 @@ Insbesondere als operative Gesellschaften gelten Unternehmen, die:
 
 <sup>3</sup> Als operative Gesellschaften gelten auch Unternehmen, die sich im Rahmen ihrer operativen Tätigkeit fremder Dienstleister oder gruppeninterner Gesellschaften bedienen, soweit die unternehmerischen Entscheidungen dauerhaft im laufenden Geschäftsbetrieb durch die ausdrückliche Vereinbarung von Gestaltungs-, Lenkungs- und Weisungsrechten bei dem Unternehmen selbst verbleiben.
 
-<sup>4</sup> Nicht als operative Gesellschaften gelten Gesellschaften nach Artikel 13 Absatz 2 Buchstaben c und d des Gesetzes, welche die Kontrolle der Stimmrechte an Unternehmen übernehmen oder Einsitz im Organ für die Oberleitung, Aufsicht und Kontrolle ihrer Beteiligungen nehmen.
+<sup>4</sup> Nicht als operative Gesellschaften gelten Gesellschaften nach Artikel 13 Absatz 2 Buchstaben c und d KAG[^1b-3], welche die Kontrolle der Stimmrechte an Unternehmen übernehmen oder Einsitz im Organ für die Oberleitung, Aufsicht und Kontrolle ihrer Beteiligungen nehmen.
 
 <sup>5</sup> Operative Gesellschaften können zusätzlich zu ihren unternehmerischen Tätigkeiten auch Investitionen zu Anlagezwecken tätigen. Diese dürfen jedoch zum Hauptzweck lediglich eine untergeordnete Neben- oder Hilfstätigkeit darstellen.
 
 [^1b-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1b-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^1b-3]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 1c
 
@@ -108,23 +111,29 @@ Neu gegründete Investmentgesellschaften, deren Emissionsprospekt die Kotierung 
 
 **Begriff der kollektiven Kapitalanlage**[^5-1]
 
-### (Art. 7 Abs. 3 und 4 KAG)
+### (Art. 7 Abs. 1, 3 und 4 KAG)
+
+[^5-2]
 
 <sup>1</sup> Als kollektive Kapitalanlagen gelten, unabhängig von ihrer Rechtsform, Vermögen, die von mindestens zwei voneinander unabhängigen Anlegerinnen oder Anlegern zur gemeinschaftlichen Kapitalanlage aufgebracht und fremdverwaltet werden.
 
 <sup>2</sup> Anlegerinnen und Anleger sind voneinander unabhängig, wenn sie rechtlich und tatsächlich voneinander unabhängig verwaltete Vermögen aufbringen.
 
-<sup>3</sup> Für Konzerngesellschaften derselben Unternehmensgruppe im Sinne von Artikel 3 der Finanzinstitutsverordnung vom 6. November 2019[^5-2] (FINIV) gilt das Erfordernis der Unabhängigkeit der Vermögen im Sinne von Absatz 2 nicht. [^5-3]
+<sup>3</sup> Für Konzerngesellschaften derselben Unternehmensgruppe im Sinne von Artikel 3 der Finanzinstitutsverordnung vom 6. November 2019[^5-3] (FINIV) gilt das Erfordernis der Unabhängigkeit der Vermögen im Sinne von Absatz 2 nicht. [^5-4]
 
-<sup>4</sup> Das Vermögen einer kollektiven Kapitalanlage kann von einem einzigen Anleger aufgebracht werden (Einanlegerfonds), wenn es sich um einen Anleger im Sinne von Artikel 4 Absatz 3 Buchstabe b, e oder f des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-4] (FIDLEG) handelt. [^5-5]
+<sup>4</sup> Das Vermögen einer kollektiven Kapitalanlage kann von einem einzigen Anleger aufgebracht werden (Einanlegerfonds), wenn es sich um einen Anleger im Sinne von Artikel 4 Absatz 3 Buchstabe b, e oder f des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-5] (FIDLEG) handelt. [^5-6]
 
-<sup>5</sup> Die Beschränkung des Anlegerkreises auf die Anlegerin oder den Anleger nach Absatz 4 ist in den massgebenden Dokumenten nach Artikel 15 Absatz 1 des Gesetzes offenzulegen.
+<sup>5</sup> Die Beschränkung des Anlegerkreises auf die Anlegerin oder den Anleger nach Absatz 4 ist in den massgebenden Dokumenten nach Artikel 15 Absatz 1 KAG offenzulegen.
+
+<sup>6</sup> Fondsleitungen, Investmentgesellschaften mit variablem Kapital (SICAV), Kommanditgesellschaften für kollektive Kapitalanlagen (KmGK) und Investmentgesellschaften mit festem Kapital (SICAF) sind bei den von ihnen verwalteten kollektiven Kapitalanlagen dafür verantwortlich, dass die Begriffsmerkmale einer kollektiven Kapitalanlage nach Artikel 7 KAG und diesem Artikel dauernd eingehalten werden.[^5-7]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^5-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^5-3]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-4]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-5]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^5-3]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-4]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-5]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-6]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-7]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 6
 
@@ -140,7 +149,7 @@ Neu gegründete Investmentgesellschaften, deren Emissionsprospekt die Kotierung 
 
 Der Finanzintermediär:
 
-- a. informiert die Anlegerinnen und Anleger im Sinne von Artikel 10 Absatz 3<sup>ter</sup> des Gesetzes, dass sie als qualifizierte Anlegerin oder Anleger gelten;
+- a. informiert die Anlegerinnen und Anleger im Sinne von Artikel 10 Absatz 3<sup>ter</sup> KAG, dass sie als qualifizierte Anlegerin oder Anleger gelten;
 - b. klärt sie über die damit einhergehenden Risiken auf; und
 - c. weist sie auf die Möglichkeit hin, schriftlich oder in anderer Form, die den Nachweis durch Text ermöglicht, erklären zu können, nicht als qualifizierte Anlegerin oder Anleger gelten zu wollen.
 
@@ -156,14 +165,16 @@ Der Finanzintermediär:
 
 ### (Art. 13 und 14 KAG)
 
-Wer eine Bewilligung nach Artikel 13 des Gesetzes beantragt, muss der FINMA folgende Dokumente unterbreiten:
+Wer eine Bewilligung nach Artikel 13 KAG beantragt, muss der Eidgenössischen Finanzmarktaufsicht (FINMA) folgende Dokumente unterbreiten:[^7-1]
 
-- a.[^7-1] die Statuten und das Organisationsreglement im Fall der SICAV und der SICAF;
-- b. den Gesellschaftsvertrag im Fall der Kommanditgesellschaft für kollektive Kapitalanlagen;
-- c.[^7-2] die einschlägigen Organisationsdokumente im Fall des Vertreters ausländischer kollektiver Kapitalanlagen.
+- a.[^7-2] die Statuten und das Organisationsreglement im Fall der SICAV und der SICAF;
+- b. den Gesellschaftsvertrag im Fall der KmGK[^7-3];
+- c.[^7-4] die einschlägigen Organisationsdokumente im Fall des Vertreters ausländischer kollektiver Kapitalanlagen.
 
-[^7-1]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^7-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-3]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^7-4]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 8
 
@@ -233,7 +244,10 @@ Von der Bewilligungspflicht für Vertreter ausländischer kollektiver Kapitalanl
 
 <sup>4</sup> Die FINMA kann in begründeten Fällen von diesen Anforderungen Abweichungen gewähren.
 
+<sup>5</sup> Sie kann die Einzelheiten des Risikomanagements, der internen Kontrolle und der Compliance regeln.[^12a-2]
+
 [^12a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^12a-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12b
 
@@ -247,10 +261,11 @@ Von der Bewilligungspflicht für Vertreter ausländischer kollektiver Kapitalanl
 
 Als wesentliche Aufgaben gelten:
 
-- a. bei einer SICAV: die Aufgaben nach Artikel 26 KAG;
+- a.[^12b-2] bei einer SICAV: die Aufgaben nach Artikel 36 KAG;
 - b. bei einem Vertreter von ausländischen kollektiven Kapitalanlagen: die Aufgaben nach Artikel 124 KAG.
 
 [^12b-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12b-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12c
 
@@ -314,7 +329,7 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 - b.[^13a-2] das Basisinformationsblatt nach den Artikeln 58–63 und 66 FIDLEG[^13a-3];
 - c. der Kollektivanlagevertrag der vertraglichen kollektiven Kapitalanlagen;
 - d. die Statuten und das Anlagereglement oder der Gesellschaftsvertrag von gesellschaftsrechtlich organisierten kollektiven Kapitalanlagen;
-- e. andere Dokumente, die für eine Genehmigung nach dem anwendbaren ausländischen Recht notwendig wären und denjenigen für schweizerische kollektive Kapitalanlagen gemäss Artikel 15 Absatz 1 des Gesetzes entsprechen.
+- e. andere Dokumente, die für eine Genehmigung nach dem anwendbaren ausländischen Recht notwendig wären und denjenigen für schweizerische kollektive Kapitalanlagen gemäss Artikel 15 Absatz 1 KAG entsprechen.
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
@@ -330,13 +345,15 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 
 <sup>2</sup>
 
-Änderungen der Dokumente gemäss Artikel 15 des Gesetzes sind der FINMA zur Genehmigung zu unterbreiten, ausgenommen:
+Änderungen der Dokumente nach Artikel 15 KAG sind der FINMA zur Genehmigung zu unterbreiten, ausgenommen:[^14-1]
 
 - a. die entsprechenden Dokumente ausländischer kollektiver Kapitalanlagen;
-- b. die Änderung der Höhe der Kommanditsumme des Gesellschaftsvertrags der Kommanditgesellschaft für kollektive Kapitalanlagen;
-- c.[^14-1] die Änderungen der genehmigungspflichtigen Dokumente einer inländischen kollektiven Kapitalanlage, die ausschliesslich Bestimmungen über Verkaufs- und Vertriebsrestriktionen betreffen und die im Rahmen von ausländischen Gesetzen, Staatsverträgen, zwischenstaatlichen oder aufsichtsrechtlichen Vereinbarungen und dergleichen erforderlich sind.
+- b.[^14-2] die Änderung der Höhe oder der Bandbreite der Kommanditsumme des Gesellschaftsvertrags der KmGK;
+- c.[^14-3] die Änderungen der genehmigungspflichtigen Dokumente einer inländischen kollektiven Kapitalanlage, die ausschliesslich Bestimmungen über Verkaufs- und Vertriebsrestriktionen betreffen und die im Rahmen von ausländischen Gesetzen, Staatsverträgen, zwischenstaatlichen oder aufsichtsrechtlichen Vereinbarungen und dergleichen erforderlich sind.
 
-[^14-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-3]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 15
 
@@ -349,32 +366,33 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 Die Bewilligungsträger mit Ausnahme der Depotbank melden:
 
 - a. die Änderung der für die Verwaltung und Geschäftsführung verantwortlichen Personen;
-- b. Tatsachen, die geeignet sind, den guten Ruf oder die Gewähr für eine einwandfreie Geschäftsführung der für die Verwaltung und Geschäftsführung verantwortlichen Personen in Frage zu stellen, namentlich die Einleitung von Strafverfahren gegen sie;
-- c. die Änderung der qualifiziert Beteiligten, ausgenommen die Anlegeraktionärinnen und -aktionäre der SICAV und die Kommanditärinnen und Kommanditäre der Kommanditgesellschaft für kollektive Kapitalanlagen;
+- b.[^15-1] Tatsachen, die geeignet sind, den guten Ruf oder die Gewähr für eine einwandfreie Geschäftstätigkeit der für die Verwaltung und Geschäftsführung verantwortlichen Personen in Frage zu stellen, namentlich die Einleitung von Strafverfahren gegen sie;
+- c. die Änderung der qualifiziert Beteiligten, ausgenommen die Anlegeraktionärinnen und -aktionäre der SICAV und die Kommanditärinnen und Kommanditäre der KmGK;
 - d. Tatsachen, die geeignet sind, den guten Ruf der qualifiziert Beteiligten in Frage zu stellen, namentlich die Einleitung von Strafverfahren gegen sie;
 - e. Tatsachen, die eine umsichtige und seriöse Geschäftstätigkeit der Bewilligungsträger aufgrund des Einflusses der qualifiziert Beteiligten in Frage stellen;
 - f. Änderungen hinsichtlich der finanziellen Garantien (Art. 13), insbesondere das Unterschreiten der Mindestanforderungen.
 
 <sup>2</sup> Die Depotbank meldet den Wechsel der mit den Aufgaben der Depotbank betrauten leitenden Personen (Art. 72 Abs. 2 KAG).
 
-<sup>3</sup> Zu melden sind ferner Änderungen des Prospekts sowie des Basisinformationsblatts nach den Artikeln 58–63 und 66 FIDLEG[^15-1].[^15-2]
+<sup>3</sup> Zu melden sind ferner Änderungen des Prospekts sowie des Basisinformationsblatts nach den Artikeln 58–63 und 66 FIDLEG[^15-2].[^15-3]
 
 <sup>4</sup>
 
-Die Vertreter ausländischer kollektiver Kapitalanlagen, die nicht ausschliesslich qualifizierten Anlegerinnen und Anlegern angeboten werden, müssen melden:[^15-3]
+Die Vertreter ausländischer kollektiver Kapitalanlagen, die nicht ausschliesslich qualifizierten Anlegerinnen und Anlegern angeboten werden, müssen melden:[^15-4]
 
-- a.[^15-4] Massnahmen einer ausländischen Aufsichtsbehörde gegen die kollektive Kapitalanlage, namentlich den Entzug der Genehmigung;
-- b.[^15-5] Änderungen der Dokumente ausländischer kollektiver Kapitalanlagen gemäss Artikel 13*a*.
-- c.[^15-6] ...
+- a.[^15-5] Massnahmen einer ausländischen Aufsichtsbehörde gegen die kollektive Kapitalanlage, namentlich den Entzug der Genehmigung;
+- b.[^15-6] Änderungen der Dokumente ausländischer kollektiver Kapitalanlagen gemäss Artikel 13*a*.
+- c.[^15-7] …
 
 <sup>5</sup> Die Meldung ist der FINMA unverzüglich zu erstatten. Diese stellt die Gesetzeskonformität fest.
 
-[^15-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^15-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^15-3]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^15-4]: Fassung gemäss Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^15-5]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^15-6]: Aufgehoben durch Ziff. I der V vom 13. Febr. 2013, mit Wirkung seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^15-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-3]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^15-4]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^15-5]: Fassung gemäss Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^15-6]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-7]: Aufgehoben durch Ziff. I der V vom 13. Febr. 2013, mit Wirkung seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 16
 
@@ -433,7 +451,7 @@ Die Anlegerinnen und Anleger sind:
 - a. auf die Möglichkeit einer Änderung vorgängig aufmerksam zu machen;
 - b. über nachträgliche Änderungen in den Publikationsorganen zu informieren.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 [^tit1-chap3-sec2-1]
 
@@ -511,10 +529,10 @@ Personengesellschaften können an die eigenen Mittel anrechnen:[^22-2]
 
 - a. die Kapitalkonten;
 - b. die Kommandite;
-- c.[^22-3] ...
+- c.[^22-3] …
 - d. die Guthaben der unbeschränkt haftenden Gesellschafter, wenn die Voraussetzungen nach Artikel 20 Absatz 3 erfüllt sind.
 
-<sup>3</sup> ...[^22-4]
+<sup>3</sup> …[^22-4]
 
 <sup>4</sup> Die eigenen Mittel nach den Absätzen 1 und 2 müssen mindestens 50 Prozent der insgesamt erforderlichen eigenen Mittel ausmachen.
 
@@ -533,7 +551,7 @@ Bei der Berechnung der eigenen Mittel sind abzuziehen:
 
 - a. der Verlustvortrag und der Verlust des laufenden Geschäftsjahres;
 - b. ein ungedeckter Wertberichtigungs- und Rückstellungsbedarf des laufenden Geschäftsjahres;
-- c.[^23-1] ...
+- c.[^23-1] …
 - d. immaterielle Werte (inklusive Gründungs- und Organisationskosten sowie Goodwill) mit Ausnahme von Software;
 - e. bei der Aktiengesellschaft und bei der Kommanditaktiengesellschaft die von ihnen auf eigenes Risiko gehaltenen Aktien der Gesellschaft;
 - f. bei der Gesellschaft mit beschränkter Haftung die von ihr auf eigenes Risiko gehaltenen Stammanteile der Gesellschaft;
@@ -596,7 +614,7 @@ Bei der Berechnung der eigenen Mittel sind abzuziehen:
 
 ### (Art. 20 Abs. 1 Bst. a KAG)
 
-<sup>1</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten dürfen von kollektiven Kapitalanlagen Anlagen auf eigene Rechnung nur zum Marktpreis erwerben und ihnen Anlagen aus eigenen Beständen nur zum Marktpreis veräussern.[^31-1]
+<sup>1</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten dürfen Anlagen von kollektiven Kapitalanlagen nur zum Marktpreis auf eigene Rechnung erwerben und ihnen Anlagen aus eigenen Beständen nur zum Marktpreis veräussern.[^31-1]
 
 <sup>2</sup> Sie haben für an Dritte delegierte Leistungen auf die ihnen gemäss Fondsreglement, Gesellschaftsvertrag, Anlagereglement oder Vermögensverwaltungsvertrag zustehende Entschädigung zu verzichten, sofern diese nicht zur Bezahlung der Leistung des Dritten verwendet wird*.*
 
@@ -604,7 +622,7 @@ Bei der Berechnung der eigenen Mittel sind abzuziehen:
 
 <sup>4</sup>
 
-Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten dürfen keine Ausgabe- oder Rücknahmekommission erheben, wenn sie Zielfonds erwerben, die:[^31-2]
+Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten dürfen keine Ausgabe- oder Rücknahmekommission erheben, wenn sie Zielfonds erwerben, die:[^31-2]
 
 - a. sie unmittelbar oder mittelbar selbst verwalten; oder
 - b.
@@ -619,11 +637,23 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 <sup>6</sup> Die Aufsichtsbehörde regelt die Einzelheiten. Sie kann die Absätze 4 und 5 auch für weitere Produkte anwendbar erklären.[^31-5]
 
-[^31-1]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^31-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^31-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^31-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^31-3]: Fassung gemäss Ziff. I der V vom 28. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
 [^31-4]: Fassung gemäss Ziff. I der V vom 28. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
 [^31-5]: Eingefügt durch Ziff. I der V vom 28. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
+
+#### Art. 31a
+
+**Bestmögliche Ausführung vonEffektenhandelsgeschäften und sonstigen Transaktionen**[^31a-1]
+
+### (Art. 20 Abs. 1 Bst. a KAG)
+
+<sup>1</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten müssen Gegenparteien für Effektenhandelsgeschäfte und sonstige Transaktionen sorgfältig auswählen. Sie müssen sicherstellen, dass bei der Ausführung der Effektenhandelsgeschäfte und sonstiger Transaktionen das bestmögliche Ergebnis in finanzieller, zeitlicher und qualitativer Hinsicht erreicht wird.
+
+<sup>2</sup> In finanzieller Hinsicht müssen sie neben dem Preis für das Finanzinstrument auch die mit der Ausführung des Auftrags verbundenen Kosten sowie Entschädigungen Dritter berücksichtigen.
+
+[^31a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 32
 
@@ -631,7 +661,7 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 ### (Art. 20 Abs. 1 Bst. a, 21 Abs. 3 und 63 KAG)
 
-<sup>1</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten berechnen die Honorare an natürliche oder juristische Personen, die ihnen nahestehen und die für Rechnung der kollektiven Kapitalanlage bei der Planung, der Erstellung, dem Kauf oder dem Verkauf eines Bauobjektes mitwirken, ausschliesslich zu branchenüblichen Preisen.[^32-1]
+<sup>1</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten dürfen die Honorare an natürliche oder juristische Personen, die ihnen nahestehen und die für Rechnung der kollektiven Kapitalanlage bei der Planung, der Erstellung, dem Kauf oder dem Verkauf eines Bauobjektes mitwirken, ausschliesslich zu branchenüblichen Preisen berechnen.[^32-1]
 
 <sup>2</sup> Der Schätzungsexperte überprüft die Honorarrechnung vor deren Begleichung und erstattet nötigenfalls Bericht an den Bewilligungsträger und die Prüfgesellschaft.
 
@@ -639,7 +669,7 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 <sup>4</sup> Die Leistungen der Immobiliengesellschaften an die Mitglieder ihrer Verwaltung, die Geschäftsführung und das Personal sind auf die Vergütungen anzurechnen, auf welche die Fondsleitung und die SICAV nach dem Fondsreglement Anspruch haben.
 
-[^32-1]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 32a
 
@@ -649,11 +679,11 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 <sup>1</sup>
 
-Die FINMA kann nach Artikel 63 Absatz 4 des Gesetzes in begründeten Einzelfällen Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen nach Artikel 63 Absätze 2 und 3 des Gesetzes bewilligen, wenn:
+Die FINMA kann nach Artikel 63 Absatz 4 KAG in begründeten Einzelfällen Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen nach Artikel 63 Absätze 2 und 3 KAG bewilligen, wenn:
 
 - a. diese Möglichkeit in den massgebenden Dokumenten der kollektiven Kapitalanlage vorgesehen ist;
 - b. die Ausnahme im Interesse der Anlegerinnen und Anleger ist;
-- c. zusätzlich zu der Schätzung der ständigen Schätzungsexperten des Immobilienfonds ein von diesen beziehungsweise deren Arbeitgeber und von der Fondsleitung oder SICAV sowie der Depotbank des Immobilienfonds unabhängiger Schätzungsexperte gemäss Artikel 64 Absatz 1 des Gesetzes die Marktkonformität des Kaufs- und Verkaufspreises des Immobilienwertes sowie der Transaktionskosten bestätigt.
+- c. zusätzlich zu der Schätzung der ständigen Schätzungsexperten des Immobilienfonds ein von diesen beziehungsweise deren Arbeitgeber und von der Fondsleitung oder SICAV sowie der Depotbank des Immobilienfonds unabhängiger Schätzungsexperte gemäss Artikel 64 Absatz 1 KAG die Marktkonformität des Kaufs- und Verkaufspreises des Immobilienwertes sowie der Transaktionskosten bestätigt.
 
 <sup>2</sup>
 
@@ -678,21 +708,21 @@ Nach Abschluss der Transaktion erstellt die Fondsleitung oder die SICAV einen Be
 
 ### (Art. 20 Abs. 1 Bst. a KAG)
 
-Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten müssen wirksame organisatorische und administrative Massnahmen zur Feststellung, Verhinderung, Beilegung und Überwachung von Interessenkonflikten treffen, um zu verhindern, dass diese den Interessen der Anlegerinnen und Anleger schaden. Lassen sich Interessenkonflikte nicht vermeiden, so sind diese den Anlegerinnen und Anlegern gegenüber offenzulegen.
+Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten müssen wirksame organisatorische und administrative Massnahmen zur Feststellung, Verhinderung, Beilegung und Überwachung von Interessenkonflikten treffen, um zu verhindern, dass diese den Interessen der Anlegerinnen und Anleger schaden. Lassen sich Interessenkonflikte nicht vermeiden, so sind diese den Anlegerinnen und Anlegern gegenüber offenzulegen.
 
-[^32b-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^32b-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 33
 
-**Sorgfaltspflicht**
+**Sorgfaltspflicht**[^33-1]
 
 ### (Art. 20 Abs. 1 Bst. b KAG)
 
-<sup>1</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten sorgen für eine wirksame Trennung der Tätigkeiten des Entscheidens (Vermögensverwaltung), der Durchführung (Handel und Abwicklung) und der Administration.[^33-1]
+<sup>1</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten müssen für eine wirksame Trennung der Tätigkeiten des Entscheidens (Vermögensverwaltung), der Durchführung (Handel und Abwicklung) und der Administration sorgen.
 
-<sup>2</sup> Die FINMA kann in begründeten Einzelfällen Ausnahmen gestatten oder die Trennung weiterer Funktionen anordnen.
+<sup>2</sup> Die FINMA kann die Einzelheiten regeln und in begründeten Einzelfällen Ausnahmen gestatten oder die Trennung weiterer Funktionen anordnen.
 
-[^33-1]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34
 
@@ -700,15 +730,17 @@ Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, s
 
 ### (Art. 20 Abs. 1 Bst. c und 23 KAG)
 
-<sup>1</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten weisen die Anlegerinnen und Anleger insbesondere auf die mit einer bestimmten Anlageart verbundenen Risiken hin.
+<sup>1</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten müssen die Anlegerinnen und Anleger insbesondere auf die mit einer bestimmten Anlageart verbundenen Risiken hinweisen.[^34-3]
 
 <sup>2</sup> Sie legen sämtliche Kosten offen, die bei der Ausgabe und Rücknahme von Anteilen und bei der Verwaltung der kollektiven Kapitalanlage anfallen. Zudem legen sie die Verwendung der Verwaltungskommission sowie die Erhebung einer allfälligen erfolgsabhängigen Kommission (*Performance Fee*) offen.
 
 <sup>3</sup> Die Informationspflicht hinsichtlich Entschädigungen beim Vertrieb von kollektiven Kapitalanlagen umfasst Art und Höhe aller Kommissionen und anderen geldwerten Vorteilen, mit denen diese Tätigkeit entschädigt werden soll.
 
-<sup>4</sup> Personen, die kollektive Kapitalanlagen verwalten, aufbewahren oder vertreten, sowie ihre Beauftragten gewährleisten bei der Ausübung von Mitgliedschafts- und Gläubigerrechten die Transparenz, welche den Anlegerinnen und Anlegern den Nachvollzug von deren Ausübung ermöglicht.
+<sup>4</sup> Personen, die schweizerische kollektive Kapitalanlagen verwalten oder aufbewahren oder ausländische kollektive Kapitalanlagen verwalten oder vertreten, sowie ihre Beauftragten müssen bei der Ausübung von Mitgliedschafts- und Gläubigerrechten die Transparenz gewährleisten, welche den Anlegerinnen und Anlegern den Nachvollzug von deren Ausübung ermöglicht.[^34-4]
 
 [^34-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^34-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^34-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34a
 
@@ -787,9 +819,11 @@ Der Fondsvertrag umschreibt die zulässigen Anlagen:
 - a. nach ihrer Art (Beteiligungsrechte, Forderungsrechte, derivative Finanzinstrumente; Wohnbauten, kommerziell genutzte Liegenschaften; Edelmetalle; Massenwaren usw.);
 - b. nach Ländern, Ländergruppen, Branchen oder Währungen.
 
-<sup>2</sup> Für übrige Fonds nach den Artikeln 68 ff. des Gesetzes enthält er zudem die den Besonderheiten und Risiken der jeweiligen Anlagen entsprechenden Angaben in Bezug auf deren Charakteristik und Bewertung.
+<sup>2</sup> Für übrige Fonds nach den Artikeln 68–71 KAG und Limited Qualified Investor Funds (L‑QIF) nach Artikel 118*a* KAG enthält er zudem die den Besonderheiten und Risiken der jeweiligen Anlagen entsprechenden Angaben in Bezug auf deren Charakteristik und Bewertung.[^36-1]
 
 <sup>3</sup> Der Fondsvertrag umschreibt die zulässigen Anlagetechniken und -instrumente.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 37
 
@@ -812,39 +846,44 @@ Dem Fondsvermögen oder allfälligen Teilvermögen können belastet werden:
 
 Sofern der Fondsvertrag dies ausdrücklich vorsieht, können folgende Nebenkosten dem Fondsvermögen oder den Teilvermögen belastet werden:
 
-- a. Kosten für den An- und Verkauf von Anlagen, namentlich marktübliche Courtagen, Kommissionen, Steuern und Abgaben, sowie Kosten für die Überprüfung und Aufrechterhaltung von Qualitätsstandards bei physischen Anlagen;
-- b.[^37-5] ...
+- a.[^37-5] Kosten im Zusammenhang mit dem An- und Verkauf von Anlagen einschliesslich Absicherungsgeschäften, namentlich marktübliche Courtagen, Kommissionen, Abrechnungs- und Abwicklungskosten, Bankspesen, Steuern und Abgaben, sowie Kosten für die Überprüfung und Aufrechterhaltung von Qualitätsstandards bei physischen Anlagen;
+- b.[^37-6] …
 - c. Abgaben der Aufsichtsbehörde für die Gründung, Änderung, Liquidation, Fusion oder Vereinigung des Fonds oder allfälliger Teilvermögen;
 - d. Jahresgebühr der Aufsichtsbehörde;
-- e. Honorare der Prüfgesellschaft für die jährliche Revision sowie für Bescheinigungen im Rahmen von Gründungen, Änderungen, Liquidation, Fusion oder Vereinigung von Fonds oder allfälliger Teilvermögen;
+- e.[^37-7] Honorare der Prüfgesellschaft für die Prüfung sowie für Bescheinigungen im Rahmen von Gründungen, Änderungen, Liquidation, Fusion oder Vereinigung von Fonds oder allfälliger Teilvermögen;
 - f. Honorare für Rechts- und Steuerberater im Zusammenhang mit Gründungen, Änderungen, Liquidation, Fusion oder Vereinigung von Fonds oder allfälliger Teilvermögen sowie der allgemeinen Wahrnehmung der Interessen des Fonds und seiner Anlegerinnen und Anleger;
-- g. Notariats- und Handelsregisterkosten für die Eintragung von Bewilligungsträgern der Kollektivanlagegesetzgebung ins Handelsregister;
-- h. Kosten für die Publikation des Nettoinventarwerts des Fonds oder seiner Teilvermögen sowie sämtliche Kosten für Mitteilungen an die Anlegerinnen und Anleger einschliesslich der Übersetzungskosten, welche nicht einem Fehlverhalten der Fondsleitung zuzuschreiben sind;
-- i. Kosten für den Druck juristischer Dokumente sowie Jahres- und Halbjahresberichte des Fonds;
+- g.[^37-8] Notariats- und Handelsregisterkosten für die Eintragung von kollektiven Kapitalanlagen ins Handelsregister sowie für Änderungen der eingetragenen Tatsachen;
+- h.[^37-9] Kosten für die Publikation des Nettoinventarwerts des Fonds oder seiner Teilvermögen sowie sämtliche Kosten für Mitteilungen an die Anlegerinnen und Anleger, die nicht einem Fehlverhalten der Fondsleitung zuzuschreiben sind, einschliesslich der Übersetzungskosten;
+- i.[^37-10] Kosten für den Druck und die Übersetzung juristischer Dokumente sowie der Jahres- und Halbjahresberichte des Fonds;
 - j. Kosten für eine allfällige Eintragung des Fonds bei einer ausländischen Aufsichtsbehörde, namentlich von der ausländischen Aufsichtsbehörde erhobene Kommissionen, Übersetzungskosten sowie die Entschädigung des Vertreters oder der Zahlstelle im Ausland;
 - k. Kosten im Zusammenhang mit der Ausübung von Stimmrechten oder Gläubigerrechten durch den Fonds, einschliesslich der Honorarkosten für externe Beraterinnen und Berater;
 - l. Kosten und Honorare im Zusammenhang mit im Namen des Fonds eingetragenem geistigen Eigentum oder mit Nutzungsrechten des Fonds;
 - m. Vergütung der Mitglieder des Verwaltungsrates der SICAV und Kosten für die Haftpflichtversicherung;
-- n. alle Kosten, die durch die Ergreifung ausserordentlicher Schritte zur Wahrung der Anlegerinteressen durch die Fondsleitung, den Verwalter von Kollektivvermögen oder die Depotbank verursacht werden.
+- n. alle Kosten, die durch die Ergreifung ausserordentlicher Schritte zur Wahrung der Anlegerinteressen durch die Fondsleitung, den Verwalter von Kollektivvermögen oder die Depotbank verursacht werden;
+- o.[^37-11] Kosten für die Registrierung oder Verlängerung des Identifikators eines Rechtsträgers (*Legal Entity Identifier*) bei in- und ausländischen Registrierungsstellen;
+- p.[^37-12] Kosten und Gebühren im Zusammenhang mit der Kotierung des Fonds;
+- q.[^37-13] Kosten und Gebühren für den Einkauf und die Nutzung von Daten und Datenlizenzen, soweit sie dem Fonds zugerechnet werden können und keine Recherchekosten darstellen;
+- r.[^37-14] Kosten und Gebühren für die Nutzung und Überprüfung unabhängiger Label.
 
 <sup>2bis</sup>
 
-Bei Immobilienfonds können zusätzlich folgende Nebenkosten dem Fondsvermögen oder den Teilvermögen belastet werden, sofern der Fondsvertrag dies ausdrücklich vorsieht:
+Bei Immobilienfonds und L-QIF mit Immobilienanlagen können zusätzlich folgende Nebenkosten dem Fondsvermögen oder den Teilvermögen belastet werden, sofern der Fondsvertrag dies ausdrücklich vorsieht:[^37-15]
 
 - a. Kosten für den An- und Verkauf von Immobilienanlagen, namentlich marktübliche Vermittlungskommissionen, Berater- und Anwaltshonorare, Notar- und andere Gebühren sowie Steuern;
-- b. marktübliche an Dritte bezahlte Courtagen im Zusammenhang mit Erstvermietungen von Immobilien;
+- b.[^37-16] marktübliche an Dritte bezahlte Courtagen im Zusammenhang mit Erst- und Wiedervermietungen von Immobilien;
 - c. marktübliche Kosten für die Verwaltung der Liegenschaften durch Dritte;
-- d. Liegenschaftsaufwand, insbesondere Unterhalts- und Betriebskosten einschliesslich Versicherungskosten, öffentlich-rechtliche Abgaben sowie Kosten für Service- und Infrastrukturdienstleistungen, sofern dieser marktüblich ist und nicht von Dritten getragen wird;
+- d.[^37-17] Liegenschaftsaufwand, sofern dieser marktüblich ist und nicht von Dritten getragen wird, insbesondere Unterhalts- und Betriebskosten einschliesslich Versicherungskosten, öffentlich-rechtliche Abgaben sowie Kosten für Service- und Infrastrukturdienstleistungen;
 - e. Honorare der unabhängigen Schätzungsexperten sowie allfälliger weiterer Experten für den Interessen der Anlegerinnen und Anleger dienende Abklärungen;
-- f. Beratungs- und Verfahrenskosten im Zusammenhang mit der allgemeinen Wahrnehmung der Interessen des Immobilienfonds und seiner Anlegerinnen und Anleger.[^37-6]
+- f. Beratungs- und Verfahrenskosten im Zusammenhang mit der allgemeinen Wahrnehmung der Interessen des Immobilienfonds und seiner Anlegerinnen und Anleger;
+- g.[^37-18] Kosten und Gebühren im Zusammenhang mit der Sicherstellung eines regelmässigen börslichen oder ausserbörslichen Handels der Anteile des Fonds.[^37-19]
 
 <sup>2ter</sup>
 
-Die Fondsleitung eines Immobilienfonds kann für ihre eigenen Bemühungen im Zusammenhang mit den folgenden Tätigkeiten eine Kommission erheben, sofern der Fondsvertrag dies ausdrücklich vorsieht und die Tätigkeit nicht von Dritten ausgeübt wird:
+Die Fondsleitung eines Immobilienfonds oder eines L-QIF mit Immobilienanlagen kann für ihre eigenen Bemühungen im Zusammenhang mit den folgenden Tätigkeiten eine Kommission erheben, sofern der Fondsvertrag dies ausdrücklich vorsieht und die Tätigkeit nicht von Dritten ausgeübt wird:[^37-20]
 
 - a. Kauf und Verkauf von Grundstücken auf der Basis des Kaufs- oder des Verkaufspreises;
 - b. Erstellung von Bauten, bei Renovationen und Umbauten auf der Basis der Baukosten;
-- c. Verwaltung der Liegenschaften auf der Basis der jährlichen Bruttomietzinseinnahmen.[^37-7]
+- c. Verwaltung der Liegenschaften auf der Basis der jährlichen Bruttomietzinseinnahmen.[^37-21]
 
 <sup>3</sup> Der Fondsvertrag gibt die Vergütungen und Nebenkosten in einer einheitlichen und umfassenden Übersicht an und gliedert sie nach Art, maximaler Höhe und Berechnung.
 
@@ -856,9 +895,23 @@ Die Fondsleitung eines Immobilienfonds kann für ihre eigenen Bemühungen im Zus
 [^37-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-3]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-4]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-5]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-6]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-7]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-6]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-7]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-9]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-10]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-11]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-12]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-13]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-14]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-15]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-16]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-17]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-18]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-19]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-20]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-21]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 38
 
@@ -885,12 +938,13 @@ Den Anlegerinnen und Anlegern können belastet werden:
 
 [^39-1]
 
-<sup>1</sup> Im Prospekt des Anlagefonds sind ein oder mehrere Publikationsorgane zu bezeichnen, in denen die vom Gesetz und von der Verordnung geforderten Informationen den Anlegerinnen und Anlegern zur Verfügung gestellt werden. Als Publikationsorgane können Printmedien oder öffentlich zugängliche und von der FINMA anerkannte elektronische Plattformen bezeichnet werden.[^39-2]
+<sup>1</sup> Im Prospekt des Anlagefonds sind ein oder mehrere Publikationsorgane zu bezeichnen, in denen die vom KAG und von dieser Verordnung geforderten Informationen den Anlegerinnen und Anlegern zur Verfügung gestellt werden.[^39-2] Als Publikationsorgane können Printmedien oder öffentlich zugängliche und von der FINMA anerkannte elektronische Plattformen bezeichnet werden.[^39-3]
 
 <sup>2</sup> Sämtliche publikationspflichtigen Tatbestände, bei welchen Anlegerinnen und Anlegern ein Einwendungsrecht bei der FINMA zusteht, sowie die Auflösung eines Anlagefonds sind in den dafür vorgesehenen Publikationsorganen zu veröffentlichen.
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^39-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^39-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 40
 
@@ -902,13 +956,13 @@ Den Anlegerinnen und Anlegern können belastet werden:
 
 <sup>2</sup> Die Einzelheiten werden im Prospekt geregelt. Darin ist namentlich das Risiko, dass eine Klasse unter Umständen für eine andere haften muss, offen zu legen.
 
-<sup>3</sup> Die Fondsleitung publiziert die Schaffung, Aufhebung oder Vereinigung von Anteilsklassen in den Publikationsorganen. Nur die Vereinigung gilt als Änderung des Fondsvertrags und unterliegt Artikel 27 des Gesetzes.
+<sup>3</sup> Die Fondsleitung publiziert die Schaffung, Aufhebung oder Vereinigung von Anteilsklassen in den Publikationsorganen. Nur die Vereinigung gilt als Änderung des Fondsvertrags und unterliegt Artikel 27 KAG.
 
 <sup>4</sup> Artikel 112 Absatz 3 Buchstaben a–c ist sinngemäss anwendbar.
 
-<sup>5</sup> Die Anteile oder Anteilsklassen eines inländischen «Exchange Traded Fund» (ETF) müssen dauernd an einer bewilligten schweizerischen Börse kotiert sein. Handelt es sich bei einer ausländischen kollektiven Kapitalanlage, die zum Angebot an nicht qualifizierte Anlegerinnen und Anleger in der Schweiz genehmigt ist, um einen ETF, so müssen mindestens die in der Schweiz für nicht qualifizierte Anlegerinnen und Anleger angebotenen Anteile oder Anteilsklassen dauernd an einer bewilligten schweizerischen Börse kotiert sein.[^40-1]
+<sup>5</sup> …[^40-1]
 
-[^40-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^40-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 41
 
@@ -916,22 +970,23 @@ Den Anlegerinnen und Anlegern können belastet werden:
 
 ### (Art. 27 Abs. 2 und 3 KAG)
 
-<sup>1</sup> Die Fondsleitung hat jede Änderung des Fondsvertrags in den Publikationsorganen des jeweiligen Anlagefonds in der vom Gesetz vorgesehenen Form zu publizieren. In der Publikation informiert die Fondsleitung die Anlegerinnen und Anleger in klarer und verständlicher Weise darüber, auf welche Fondsvertragsänderungen sich die Prüfung und die Feststellung der Gesetzeskonformität durch die FINMA erstrecken.[^41-1]
+<sup>1</sup> Die Fondsleitung hat jede Änderung des Fondsvertrags in den Publikationsorganen des jeweiligen Anlagefonds in der vom KAG vorgesehenen Form zu veröffentlichen.[^41-1] In der Publikation informiert die Fondsleitung die Anlegerinnen und Anleger in klarer und verständlicher Weise darüber, auf welche Fondsvertragsänderungen sich die Prüfung und die Feststellung der Gesetzeskonformität durch die FINMA erstrecken.[^41-2]
 
-<sup>1bis</sup> Die FINMA kann von Gesetzes wegen erforderliche Änderungen, welche die Rechte der Anlegerinnen und Anleger nicht berühren oder ausschliesslich formeller Natur sind, von der Publikationspflicht ausnehmen.[^41-2]
+<sup>1bis</sup> Die FINMA kann von Gesetzes wegen erforderliche Änderungen, welche die Rechte der Anlegerinnen und Anleger nicht berühren oder ausschliesslich formeller Natur sind, von der Publikationspflicht ausnehmen.[^41-3]
 
 <sup>2</sup> Die Frist zur Erhebung von Einwendungen gegen die Änderung des Fondsvertrages beginnt am Tag nach der Veröffentlichung in den Publikationsorganen zu laufen.
 
-<sup>2bis</sup> Bei der Genehmigung der Fondsvertragsänderung prüft die FINMA ausschliesslich die Änderungen der Bestimmungen nach Artikel 35*a* Absatz 1 Buchstaben a–g und stellt deren Gesetzeskonformität fest.[^41-3]
+<sup>2bis</sup> Bei der Genehmigung der Fondsvertragsänderung prüft die FINMA ausschliesslich die Änderungen der Bestimmungen nach Artikel 35*a* Absatz 1 Buchstaben a–g und stellt deren Gesetzeskonformität fest.[^41-4]
 
-<sup>2ter</sup> Hat die FINMA bei der Genehmigung eines Fondsvertrags nach Artikel 35*a* Absatz 3 sämtliche Bestimmungen geprüft und deren Gesetzeskonformität festgestellt, so prüft sie auch bei der Änderung dieses Fondsvertrags alle Bestimmungen und stellt deren Gesetzeskonformität fest, sofern der Anlagefonds im Ausland angeboten werden soll und das ausländische Recht es verlangt.[^41-4]
+<sup>2ter</sup> Hat die FINMA bei der Genehmigung eines Fondsvertrags nach Artikel 35*a* Absatz 3 sämtliche Bestimmungen geprüft und deren Gesetzeskonformität festgestellt, so prüft sie auch bei der Änderung dieses Fondsvertrags alle Bestimmungen und stellt deren Gesetzeskonformität fest, sofern der Anlagefonds im Ausland angeboten werden soll und das ausländische Recht es verlangt.[^41-5]
 
 <sup>3</sup> Die FINMA legt in ihrem Entscheid das Datum des Inkrafttretens der Fondsvertragsänderung fest.
 
-[^41-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-2]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^41-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^41-3]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-4]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^41-4]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-5]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 42–50
 
@@ -949,7 +1004,7 @@ Den Anlegerinnen und Anlegern können belastet werden:
 
 ### (Art. 36 Abs. 3 KAG)
 
-<sup>1</sup> Die selbstverwaltete SICAV führt die Administration selber aus. Sie darf die Portfolioverwaltung nach Artikel 36 Absatz 3 des Gesetzes an einen Verwalter von Kollektivvermögendelegieren, der einer anerkannten Aufsicht untersteht.
+<sup>1</sup> Die selbstverwaltete SICAV führt die Administration selber aus. Sie darf die Portfolioverwaltung nach Artikel 36 Absatz 3 KAG an einen Verwalter von Kollektivvermögendelegieren, der einer anerkannten Aufsicht untersteht.
 
 <sup>2</sup> Die fremdverwaltete SICAV delegiert die Administration an eine bewilligte Fondsleitung. Die Administration beinhaltet auch den Vertrieb der SICAV. Zusätzlich delegiert die fremdverwaltete SICAV die Portfolioverwaltung an dieselbe Fondsleitung oder an einen Verwalter von Kollektivvermögen, der einer anerkannten Aufsicht untersteht.
 
@@ -1004,30 +1059,32 @@ Von den eigenen Mitteln abzuziehen sind:
 
 - a. der den Unternehmeraktionärinnen und -aktionären zurechenbare Bilanzverlust;
 - b. der den Unternehmeraktionärinnen und -aktionären zurechenbare Wertberechtigungs- und Rückstellungsbedarf;
-- c. immaterielle Werte (inklusive Gründungs- und Organisationskosten sowie Goodwill) mit Ausnahme von Software.
+- c. immaterielle Werte (inklusive Gründungs- und Organisationskosten sowie Goodwill) mit Ausnahme von Software;
+- d.[^55-1] …
 
-<sup>3</sup> Die selbstverwaltete SICAV berechnet die Höhe der notwendigen eigenen Mittel sinngemäss nach Artikel 59 der Finanzinstitutsverordnung vom 6. November 2019[^55-1] (FINIV).[^55-2]
+<sup>3</sup> Die selbstverwaltete SICAV berechnet die Höhe der notwendigen eigenen Mittel sinngemäss nach Artikel 59 der Finanzinstitutsverordnung vom 6. November 2019[^55-2] (FINIV).[^55-3]
 
-<sup>3bis</sup> Die fremdverwaltete SICAV, welche die Administration einer bewilligten Fondsleitung und die Portfolioverwaltung einem Verwalter von Kollektivvermögen überträgt, berechnet die Höhe der notwendigen eigenen Mittel sinngemäss nach Artikel 59 FINIV. Von diesem Betrag kann sie 20 Prozent abziehen.[^55-3]
+<sup>3bis</sup> Die fremdverwaltete SICAV, welche die Administration einer bewilligten Fondsleitung und die Portfolioverwaltung einem Verwalter von Kollektivvermögen überträgt, berechnet die Höhe der notwendigen eigenen Mittel sinngemäss nach Artikel 59 FINIV. Von diesem Betrag kann sie 20 Prozent abziehen.[^55-4]
 
-<sup>3ter</sup> Die FINMA kann die fremdverwaltete SICAV, welche die Portfolioverwaltung an eine Bank im Sinne des Bankengesetzes vom 8. November 1934[^55-4] oder an ein Wertpapierhaus im Sinne des FINIG[^55-5] mit Sitz in der Schweiz überträgt, von der Pflicht befreien, das Vermögen mit eigenen Mitteln zu unterlegen.[^55-6]
+<sup>3ter</sup> Die FINMA kann die fremdverwaltete SICAV, welche die Portfolioverwaltung an eine Bank im Sinne des Bankengesetzes vom 8. November 1934[^55-5] oder an ein Wertpapierhaus im Sinne des FINIG[^55-6] mit Sitz in der Schweiz überträgt, von der Pflicht befreien, das Vermögen mit eigenen Mitteln zu unterlegen.[^55-7]
 
-<sup>4</sup> Überträgt die fremdverwaltete SICAV die Administration und die Portfolioverwaltung derselben bewilligten Fondsleitung, so muss sie das Vermögen nicht mit eigenen Mitteln unterlegen (Art. 59 Abs. 4 FINIV).[^55-7]
+<sup>4</sup> Überträgt die fremdverwaltete SICAV die Administration und die Portfolioverwaltung derselben bewilligten Fondsleitung, so muss sie das Vermögen nicht mit eigenen Mitteln unterlegen (Art. 59 Abs. 4 FINIV).[^55-8]
 
-<sup>5</sup> Das vorgeschriebene Verhältnis zwischen eigenen Mitteln und Gesamtvermögen der selbstverwalteten SICAV sowie der fremdverwalteten SICAV, welche die Administration an eine bewilligte Fondsleitung und die Portfolioverwaltung an einen Verwalter von Kollektivvermögen delegiert, ist dauernd einzuhalten.[^55-8]
+<sup>5</sup> Das vorgeschriebene Verhältnis zwischen eigenen Mitteln und Gesamtvermögen der selbstverwalteten SICAV sowie der fremdverwalteten SICAV, welche die Administration an eine bewilligte Fondsleitung und die Portfolioverwaltung an einen Verwalter von Kollektivvermögen delegiert, ist dauernd einzuhalten.[^55-9]
 
 <sup>6</sup> Die SICAV meldet der FINMA unverzüglich die fehlenden eigenen Mittel.
 
 <sup>7</sup> Die FINMA regelt die Einzelheiten.
 
-[^55-1]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^55-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-3]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^55-6]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-7]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-8]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^55-1]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^55-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^55-3]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-4]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^55-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-7]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-8]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-9]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 56
 
@@ -1120,11 +1177,11 @@ Für die Depotbank gelten Artikel 15 Absatz 2 dieser Verordnung und Artikel 53 F
 
 ### (Art. 43 und 44 KAG)
 
-<sup>1</sup> Der Inhalt und die Genehmigung des Anlagereglements richten sich nach den Bestimmungen über den Fondsvertrag, soweit das Gesetz oder die Statuten nichts anderes vorsehen.
+<sup>1</sup> Der Inhalt und die Genehmigung des Anlagereglements richten sich nach den Bestimmungen über den Fondsvertrag, soweit das KAG oder die Statuten nichts anderes vorsehen.[^62b-2]
 
 <sup>2</sup>
 
-Die SICAV informiert die Aktionärinnen und Aktionäre mit der Einberufung der Generalversammlung in der in den Statuten vorgeschriebenen Form darüber:[^62b-2]
+Die SICAV informiert die Aktionärinnen und Aktionäre mit der Einberufung der Generalversammlung in der in den Statuten vorgeschriebenen Form darüber:[^62b-3]
 
 - a. welche Änderungen des Anlagereglements die FINMA geprüft hat; und
 - b. für welche dieser Änderungen die FINMA festgestellt hat, dass sie gesetzeskonform sind.
@@ -1132,7 +1189,8 @@ Die SICAV informiert die Aktionärinnen und Aktionäre mit der Einberufung der G
 <sup>3</sup> Die Absätze 1 und 2 gelten sinngemäss für die Statuten, sofern diese Inhalte des Anlagereglements regeln.
 
 [^62b-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^62b-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^62b-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^62b-3]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### 2. Abschnitt: Organisation
 
@@ -1156,11 +1214,11 @@ Die Generalversammlung der SICAV beziehungsweise der Teilvermögen ist zuständi
 
 <sup>4</sup> Die SICAV veröffentlicht in den Publikationsorganen die von der Generalversammlung beschlossenen und von der FINMA genehmigten wesentlichen Änderungen des Fondsreglements mit dem Hinweis auf die Stellen, wo die Änderungen im Wortlaut kostenlos bezogen werden können.
 
-<sup>5</sup> Die Bestimmung über die wichtigen Beschlüsse der Generalversammlung einer Aktiengesellschaft (Art. 704 OR[^63-2]) findet keine Anwendung.[^63-3]
+<sup>5</sup> Die Bestimmung über die wichtigen Beschlüsse der Generalversammlung einer Aktiengesellschaft (Art. 704 des Obligationenrechts[^63-2], OR) findet keine Anwendung.[^63-3]
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
 [^63-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-3]: Eingefügt durch Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^63-3]: Eingefügt durch Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
 
@@ -1172,24 +1230,25 @@ Die Generalversammlung der SICAV beziehungsweise der Teilvermögen ist zuständi
 
 Der Verwaltungsrat hat folgende Aufgaben:
 
-- a. die Wahrnehmung der Aufgaben nach Artikel 716*a* des Obligationenrechts[^64-1];
+- a.[^64-1] die Wahrnehmung der Aufgaben nach Artikel 716*a* OR[^64-2];
 - b. die Festlegung der Grundsätze der Anlagepolitik;
-- c.[^64-2] die Bezeichnung der Depotbank oder eines Instituts gemäss Artikel 44*a* Absatz 2 des Gesetzes;
+- c.[^64-3] die Bezeichnung der Depotbank oder eines Instituts gemäss Artikel 44*a* Absatz 2 KAG;
 - d. die Schaffung neuer Teilvermögen, sofern die Statuten dies vorsehen;
-- e.[^64-3] die Ausarbeitung des Prospekts und des Basisinformationsblatts;
+- e.[^64-4] die Ausarbeitung des Prospekts und des Basisinformationsblatts;
 - f. die Administration.
 
 <sup>2</sup> Die Aufgaben nach Absatz 1 Buchstaben a–c können nicht delegiert werden.
 
 <sup>3</sup> In einer selbstverwalteten SICAV können die Aufgaben nach Absatz 1 Buchstaben d und e sowie Teile der Administration nach Absatz 1 Buchstabe f, namentlich das Risk-Management, die Ausgestaltung des internen Kontrollsystems (IKS) und die Compliance, nur an die Geschäftsleitung delegiert werden.
 
-<sup>4</sup> Für die Organisation der selbstverwalteten SICAV gelten die Artikel 51 Absatz 1, 52 Absatz 1 und 53 FINIV[^64-4] sinngemäss.[^64-5]
+<sup>4</sup> Für die Organisation der selbstverwalteten SICAV gelten die Artikel 51 Absatz 1, 52 Absatz 1 und 53 FINIV[^64-5] sinngemäss.[^64-6]
 
-[^64-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^64-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^64-3]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-4]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^64-5]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^64-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^64-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^64-4]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^64-5]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^64-6]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
 
@@ -1222,11 +1281,15 @@ Die Artikel 32 und 35 FINIG[^65-2] sind sinngemäss auf die Übertragung von Auf
 
 <sup>2</sup> Werden die Beschränkungen durch Marktveränderungen überschritten, so müssen die Anlagen unter Wahrung der Interessen der Anlegerinnen und Anleger innerhalb einer angemessenen Frist auf das zulässige Mass zurückgeführt werden.
 
+<sup>2bis</sup> Werden die Anlagevorschriften aktiv verletzt, namentlich durch Käufe oder Verkäufe, so müssen die Anlagen unverzüglich auf das zulässige Mass zurückgeführt werden. Wird den Anlegerinnen und Anlegern ein aufgrund eines solchen aktiven Anlageverstosses entstandener Schaden nicht ersetzt, so ist der Anlageverstoss der Prüfgesellschaft unverzüglich mitzuteilen und so rasch wie möglich in den Publikationsorganen zu veröffentlichen. Die Mitteilung und die Veröffentlichung müssen eine konkrete Umschreibung des Anlageverstosses und des für die Anlegerinnen und Anleger entstandenen Schadens umfassen. Im Jahresbericht ist über sämtliche aktiven Anlageverstösse Bericht zu erstatten.[^67-1]
+
 <sup>3</sup> Effektenfonds und übrige Fonds müssen die Anlagebeschränkungen sechs Monate nach der Lancierung erfüllen.
 
 <sup>4</sup> Immobilienfonds müssen die Anlagebeschränkungen zwei Jahre nach der Lancierung erfüllen.
 
 <sup>5</sup> Die FINMA kann die Fristen der Absätze 3 und 4 auf Gesuch der Fondsleitung und der SICAV erstrecken.
+
+[^67-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 68
 
@@ -1284,7 +1347,7 @@ Nicht zulässig sind:
 
 <sup>3</sup> In anderen als in Absatz 1 genannten Anlagen dürfen höchstens 10 Prozent des Fondsvermögens angelegt werden.
 
-<sup>4</sup> ...[^70-1]
+<sup>4</sup> …[^70-1]
 
 [^70-1]: Aufgehoben durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -1294,7 +1357,7 @@ Nicht zulässig sind:
 
 ### (Art. 54 KAG)
 
-<sup>1</sup> Als Effekten gelten Wertpapiere und Wertrechte im Sinne von Artikel 54 Absatz 1 des Gesetzes, die ein Beteiligungs- oder Forderungsrecht oder das Recht verkörpern, solche Wertpapiere und Wertrechte durch Zeichnung oder Austausch zu erwerben, namentlich Warrants.
+<sup>1</sup> Als Effekten gelten Wertpapiere und Wertrechte im Sinne von Artikel 54 Absatz 1 KAG, die ein Beteiligungs- oder Forderungsrecht oder das Recht verkörpern, solche Wertpapiere und Wertrechte durch Zeichnung oder Austausch zu erwerben, namentlich Warrants.
 
 <sup>2</sup> Anlagen in Effekten aus Neuemissionen sind nur zulässig, wenn deren Zulassung an einer Börse oder einem anderen geregelten, dem Publikum offen stehenden Markt in den Emissionsbedingungen vorgesehen ist. Sind sie ein Jahr nach dem Erwerb noch nicht an der Börse oder an einem anderen dem Publikum offen stehenden Markt zugelassen, so sind die Titel innerhalb eines Monats zu verkaufen.
 
@@ -1346,7 +1409,7 @@ Die Fondsleitung und die SICAV dürfen nur in Zielfonds anlegen, wenn:
 Sie dürfen höchstens:
 
 - a. 20 Prozent des Fondsvermögens in Anteilen desselben Zielfonds anlegen; und
-- b.[^73-1] 30 Prozent des Fondsvermögens in Anteilen von Zielfonds anlegen, die nicht den massgebenden Richtlinien der Europäischen Union entsprechen (Organismus für gemeinsame Anlagen in Wertpapieren, OGAW), aber diesen oder schweizerischen Effektenfonds nach Artikel 53 des Gesetzes gleichwertig sind.
+- b.[^73-1] 30 Prozent des Fondsvermögens in Anteilen von Zielfonds anlegen, die nicht den massgebenden Richtlinien der Europäischen Union entsprechen (Organismus für gemeinsame Anlagen in Wertpapieren, OGAW), aber diesen oder schweizerischen Effektenfonds nach Artikel 53 KAG gleichwertig sind.
 
 <sup>3</sup> Für die Anlagen in Zielfonds gelten die Artikel 78–84 nicht.
 
@@ -1412,15 +1475,42 @@ Als flüssige Mittel gelten Bankguthaben sowie Forderungen aus Pensionsgeschäft
 
 #### Art. 76
 
-**Effektenleihe *(Securities Lending)* und Pensionsgeschäft *(Repo, Reverse Repo)***
+**Effektenleihe (*Securities Lending*) und Pensionsgeschäft (*Repo, Reverse Repo**)***
 
-### (Art. 55 Abs. 1 Bst. a und b KAG)
+### (Art. 26 Abs. 3 und 55 Abs. 1 Bst. a und b KAG)
+
+[^76-1]
 
 <sup>1</sup> Effektenleihe und Pensionsgeschäft sind nur im Hinblick auf eine effiziente Verwaltung des Fondsvermögens zulässig. Die Depotbank haftet für die marktkonforme, einwandfreie Abwicklung der Effektenleihe und des Pensionsgeschäftes.
 
 <sup>2</sup> Banken, Broker, Versicherungseinrichtungen und Effektenclearing-Organisationen dürfen bei der Effektenleihe als Borger herangezogen werden, sofern sie auf die Effektenleihe spezialisiert sind und Sicherheiten leisten, die dem Umfang und dem Risiko der beabsichtigten Geschäfte entsprechen. Unter den gleichen Bedingungen darf das Pensionsgeschäft mit den genannten Instituten abgewickelt werden.
 
 <sup>3</sup> Die Effektenleihe und das Pensionsgeschäft sind in einem standardisierten Rahmenvertrag zu regeln.
+
+<sup>4</sup>
+
+Der Fondsvertrag oder das Anlagereglement und der Prospekt müssen folgende Angaben über Effektenleihen und Pensionsgeschäfte enthalten:
+
+- a. Angabe, ob die kollektive Kapitalanlage Effektenleihen tätigen kann;
+- b. Angabe, ob die kollektive Kapitalanlage Pensionsgeschäfte tätigen kann;
+- c. die absoluten oder relativen maximalen Grenzwerte für Effektenleihen und Pensionsgeschäfte; und
+- d. die Risiken, die mit solchen Geschäften verbunden sind.[^76-2]
+
+<sup>5</sup>
+
+Der Jahresbericht und der Halbjahresbericht der kollektiven Kapitalanlage müssen folgende Angaben über die von der Fondsleitung oder der SICAV für Rechnung der kollektiven Kapitalanlage getätigten Effektenleihen und Pensionsgeschäfte enthalten:
+
+- a. den Wert der ausgeliehenen Effekten und der Pensionsgeschäfte per Abschluss des Rechnungsjahres beziehungsweise per Ende der ersten Hälfte des Rechnungsjahres;
+- b. die Höhe der Forderungen und Verbindlichkeiten aus Pensionsgeschäften;
+- c. den jährlichen beziehungsweise halbjährlichen Durchschnitt des Anteils ausgeliehener Effekten;
+- d. den maximalen Anteil ausgeliehener Effekten als maximaler Tageswert;
+- e. die Verteilung der Bruttoerträge aus Effektenleihen und Pensionsgeschäften zwischen der Fondsleitung und den Anlegerinnen und Anlegern (*Revenue Split*);
+- f. die Erträge aus der Wiederanlage der erhaltenen Barsicherheiten (*Cash Collateral*);
+- g. die Form der Verwahrung der von der kollektiven Kapitalanlage gestellten Sicherheiten: getrennte Konten oder Omnibus-Konten.[^76-3]
+
+[^76-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-3]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 77
 
@@ -1580,7 +1670,7 @@ Die Fondsleitung und die SICAV dürfen für das Fondsvermögen höchstens erwerb
 
 <sup>2</sup>
 
-Als Grundstücke nach Artikel 59 Absatz 1 Buchstabe a des Gesetzes gelten folgende Grundstücke, die gestützt auf die Anmeldung der Fondsleitung, der SICAV oder der von der SICAV beauftragten Fondsleitung gemäss Absatz 2<sup>bis</sup> eingetragen sind:[^86-2]
+Als Grundstücke nach Artikel 59 Absatz 1 Buchstabe a KAG gelten folgende Grundstücke, die gestützt auf die Anmeldung der Fondsleitung, der SICAV oder der von der SICAV beauftragten Fondsleitung gemäss Absatz 2<sup>bis</sup> eingetragen sind:[^86-2]
 
 - a. Wohnbauten;
 - b. Liegenschaften, die ausschliesslich oder zu einem überwiegenden Teil kommerziellen Zwecken dienen; überwiegend ist der kommerzielle Anteil, wenn der Ertrag daraus mindestens 60 Prozent des Liegenschaftsertrages ausmacht (kommerziell genutzte Liegenschaften);
@@ -1596,16 +1686,19 @@ Als Grundstücke nach Artikel 59 Absatz 1 Buchstabe a des Gesetzes gelten folgen
 Als weitere Anlagen sind zulässig:
 
 - a. Schuldbriefe oder andere vertragliche Grundpfandrechte;
-- b. Beteiligungen an und Forderungen gegen Immobiliengesellschaften nach Artikel 59 Absatz 1 Buchstabe b des Gesetzes;
-- c. Anteile an anderen Immobilienfonds (einschliesslich *Real Estate Investment Trusts*) sowie Immobilieninvestmentgesellschaften und -zertifikate, die an einer Börse oder an einem anderen geregelten, dem Publikum offen stehenden Markt gehandelt werden, gemäss Artikel 59 Absatz 1 Buchstabe c des Gesetzes;
-- d. ausländische Immobilienwerte gemäss Artikel 59 Absatz 1 Buchstabe d des Gesetzes.
+- b. Beteiligungen an und Forderungen gegen Immobiliengesellschaften nach Artikel 59 Absatz 1 Buchstabe b KAG;
+- c. Anteile an anderen Immobilienfonds (einschliesslich *Real Estate Investment Trusts*) sowie Immobilieninvestmentgesellschaften und -zertifikate, die an einer Börse oder an einem anderen geregelten, dem Publikum offen stehenden Markt gehandelt werden, gemäss Artikel 59 Absatz 1 Buchstabe c KAG;
+- d. ausländische Immobilienwerte gemäss Artikel 59 Absatz 1 Buchstabe d KAG.
 
-<sup>4</sup> Unbebaute Grundstücke eines Immobilienfonds müssen erschlossen und für eine umgehende Überbauung geeignet sein sowie über eine rechtskräftige Baubewilligung für deren Überbauung verfügen. Mit der Ausführung der Bauarbeiten muss vor Ablauf der Gültigkeitsdauer der jeweiligen Baubewilligung begonnen werden können.[^86-4]
+<sup>3bis</sup> Absatz 2<sup>bis</sup> gilt für Schuldbriefe und andere vertragliche Grundpfandrechte sinngemäss.[^86-4]
+
+<sup>4</sup> Unbebaute Grundstücke eines Immobilienfonds müssen erschlossen und für eine umgehende Überbauung geeignet sein sowie über eine rechtskräftige Baubewilligung für deren Überbauung verfügen. Mit der Ausführung der Bauarbeiten muss vor Ablauf der Gültigkeitsdauer der jeweiligen Baubewilligung begonnen werden können.[^86-5]
 
 [^86-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^86-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^86-3]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^86-4]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-4]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^86-5]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 87
 
@@ -1698,7 +1791,7 @@ Als nahestehende Personen gelten insbesondere:
 - e. die Schätzungsexperten;
 - f. die nicht zu 100 Prozent zum Immobilienfonds gehörenden Immobiliengesellschaften sowie die Mitglieder des Verwaltungsrates und die Mitarbeiterinnen und Mitarbeiter dieser Immobiliengesellschaften;
 - g. die mit der Verwaltung der Immobilienwerte beauftragten Liegenschaftsverwaltungen sowie die Mitglieder des Verwaltungsrates und die Mitarbeiterinnen und Mitarbeiter dieser Liegenschaftsverwaltungen;
-- h. die qualifiziert Beteiligten im Sinne von Artikel 14 Absatz 3 des Gesetzes der oben in Buchstaben a–g erwähnten Gesellschaften.
+- h. die qualifiziert Beteiligten im Sinne von Artikel 14 Absatz 3 KAG der oben in Buchstaben a–g erwähnten Gesellschaften.
 
 <sup>2</sup> Beauftragte nach Absatz 1 Buchstabe a gelten nicht als nahestehende Personen, wenn nachgewiesen werden kann, dass sie weder direkten noch indirekten Einfluss auf die Fondsleitung oder die SICAV nehmen oder genommen haben und die Fondsleitung oder die SICAV in der Sache nicht auf andere Weise befangen ist.
 
@@ -1779,7 +1872,7 @@ Bei einer Veräusserung kann auf eine neue Schätzung verzichtet werden, wenn:
 
 ### (Art. 65 KAG)
 
-<sup>1</sup> Bei der Verpfändung der Grundstücke und der Sicherungsübereignung der Pfandrechte nach Artikel 65 Absatz 2 des Gesetzes darf die Belastung aller Grundstücke im Durchschnitt nicht mehr als ein Drittel des Verkehrswertes betragen.[^96-1]
+<sup>1</sup> Bei der Verpfändung der Grundstücke und der Sicherungsübereignung der Pfandrechte nach Artikel 65 Absatz 2 KAG darf die Belastung aller Grundstücke im Durchschnitt nicht mehr als ein Drittel des Verkehrswertes betragen.[^96-1]
 
 <sup>1bis</sup>
 
@@ -1849,7 +1942,7 @@ Als Anlagen von übrigen Fonds sind namentlich zugelassen:
 
 <sup>2</sup> Für übrige Fonds für alternative Anlagen kann die FINMA weitere Anlagen wie Commodities, Rohstoffe und die entsprechenden Rohstofftitel zulassen.[^99-1]
 
-<sup>3</sup> Anlagen gemäss Artikel 69 Absatz 2 des Gesetzes sind im Fondsreglement ausdrücklich zu nennen.
+<sup>3</sup> Anlagen gemäss Artikel 69 Absatz 2 KAG sind im Fondsreglement ausdrücklich zu nennen.
 
 <sup>4</sup> Für Anlagen in Anteile an kollektiven Kapitalanlagen gilt Artikel 73 Absatz 4 sinngemäss.
 
@@ -1950,11 +2043,12 @@ Die Depotbank hat folgende Aufgaben:
 - d. Sie führt die erforderlichen Aufzeichnungen und Konten so, dass sie jederzeit die verwahrten Vermögensgegenstände der einzelnen kollektiven Kapitalanlagen voneinander unterscheiden kann.
 - e. Sie prüft bei Vermögensgegenständen, die nicht in Verwahrung genommen werden können, das Eigentum der Fondsleitung oder der kollektiven Kapitalanlage und führt darüber Aufzeichnungen.[^104-1]
 
-<sup>2</sup> Bei Immobilienfonds bewahrt sie die unbelehnten Schuldbriefe sowie die Aktien von Immobiliengesellschaften auf. Für die laufende Verwaltung von Immobilienwerten kann sie Konten von Dritten führen lassen.
+<sup>2</sup> Bei Immobilienfonds und L-QIF mit Immobilienanlagen bewahrt sie die unbelehnten Schuldbriefe sowie die Aktien von Immobiliengesellschaften auf. Für die laufende Verwaltung von Immobilienwerten kann sie Konten von Dritten führen lassen.[^104-2]
 
 <sup>3</sup> Bei kollektiven Kapitalanlagen mit Teilvermögen ist für sämtliche Aufgaben dieselbe Depotbank verantwortlich.
 
 [^104-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^104-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 105
 
@@ -1982,13 +2076,53 @@ Die Depotbank hat folgende Aufgaben:
 [^105a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^105a-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### 2. Abschnitt: ...
+#### Art. 106
 
-#### Art. 106 und 107
+**Exchange Traded Funds (ETF)**[^106-1]
 
-[^106107-1]
+### (Art. 15 und 78 Abs. 3 KAG)
 
-[^106107-1]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+<sup>1</sup> Als Exchange Traded Funds (ETF) gelten Anteile oder Anteilsklassen einer offenen kollektiven Kapitalanlage, die dauernd an einer schweizerischen Börse kotiert sind und für die mindestens ein Market Maker nach Artikel 41 Buchstabe c FINIG[^106-2] sicherstellt, dass der Wert der gehandelten Anteile oder Anteilsklassen nicht wesentlich vom indikativen Nettoinventarwert abweicht.
+
+<sup>2</sup> Eine kollektive Kapitalanlage darf nur als «Exchange Traded Fund» oder «ETF» bezeichnet werden, wenn alle Anteile oder Anteilsklassen als ETF ausgestaltet sind.
+
+<sup>3</sup>
+
+Der Prospekt hat insbesondere folgende Angaben zu ETF zu enthalten:
+
+- a. Angaben zur Kotierung und zum indikativen Nettoinventarwert des ETF sowie zum Market Maker;
+- b. Angaben darüber, wo und wie oft die Zusammensetzung des Portfolios des ETF oder seines Wertpapierkorbes offengelegt wird;
+- c. Beschreibung des Handels des ETF auf dem Primär- und Sekundärmarkt und der damit verbundenen Risiken;
+- d. Hinweis auf das Recht der Sekundärmarktanlegerinnen und -anleger auf direkte Rückgabe bei der Fondsleitung oder der SICAV, mit Angabe der damit verbundenen Bedingungen und Kosten.
+
+<sup>4</sup>
+
+Für ETF, die einen Index nachbilden, muss der Prospekt zudem Angaben enthalten:
+
+- a. zum Indexanbieter sowie zum nachgebildeten Index;
+- b. zur Nachbildungsmethode und zu den damit verbundenen Risiken;
+- c. zum prognostizierten Nachbildungsfehler unter normalen Marktbedingungen.
+
+<sup>5</sup> Wird der ETF aktiv verwaltet, so ist dies im Fondsvertrag oder im Anlagereglement, im Prospekt, im Basisinformationsblatt und in der Werbung anzugeben. Die Einzelheiten der Umsetzung der Anlagepolitik sind zudem in den Prospekt aufzunehmen.
+
+<sup>6</sup>
+
+Enthält eine kollektive Kapitalanlage sowohl als ETF wie auch nicht als ETF ausgestaltete Anteilsklassen, so:
+
+- a. ist für die als ETF ausgestalteten Anteilsklassen in ihrer Bezeichnung der Zusatz «ETF» zu verwenden;
+- b. sind im Prospekt die Einzelheiten der Ausgestaltung von Anteilsklassen als ETF offenzulegen, insbesondere bezüglich Funktionsweise, Handel und weiterer Unterschiede zu den übrigen Anteilsklassen, sowie die damit verbundenen Auswirkungen und Risiken für die Anlegerinnen und Anleger;
+- c. ist auf der ersten Seite des Fondsvertrags oder Anlagereglements, des Prospekts und des Basisinformationsblatts sowie in der Werbung der Hinweis anzubringen, dass die kollektive Kapitalanlage sowohl als ETF wie auch nicht als ETF ausgestaltete Anteilsklassen enthält.
+
+[^106-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^106-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### 2. Abschnitt: …
+
+#### Art. 107
+
+[^107-1]
+
+[^107-1]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 107a
 
@@ -2026,6 +2160,32 @@ Die Depotbank hat folgende Aufgaben:
 [^108-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^108-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^108-4]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+
+#### Art. 108a
+
+**Verwaltung derLiquidität**[^108a-1]
+
+### (Art. 78*a* KAG)
+
+<sup>1</sup> Die Fondsleitung oder die SICAV muss mittels eines Prozesses die angemessene Verwaltung der Liquidität für jede von ihr verwaltete kollektive Kapitalanlage sicherstellen.
+
+<sup>2</sup>
+
+Der Prozess muss insbesondere vorsehen, dass:
+
+- a. das Liquiditätsprofil der Anlagen der kollektiven Kapitalanlage gesamthaft mit der Anlagepolitik und den Rücknahmebedingungen in Einklang steht und sich mit den bestehenden Verbindlichkeiten der kollektiven Kapitalanlage deckt;
+- b. die Liquidität jedes Portfolios laufend überwacht und unter Einbezug weiterer wesentlicher Risiken regelmässig beurteilt wird, um Liquiditätsrisiken frühzeitig zu erkennen und auf diese rechtzeitig und angemessen reagieren zu können;
+- c. bei den Anlageentscheiden die Liquidität der Anlagen und die Auswirkungen der Investition auf die Liquidität des Portfolios berücksichtigt werden;
+- d. angemessene Instrumente zur Verwaltung der Liquidität für die jeweilige kollektive Kapitalanlage vorgesehen sind;
+- e. der Fondsleitung oder der SICAV die für die Beurteilung der Angemessenheit der Liquidität erforderlichen Informationen, namentlich zu den Anlagen, den Verbindlichkeiten und dem Anlegerkreis der kollektiven Kapitalanlage, vorliegen.
+
+<sup>3</sup> Die Fondsleitung oder die SICAV muss für jede von ihr verwaltete kollektive Kapitalanlage in regelmässigen Abständen angemessene Stresstests durchführen. Diese beruhen auf normalen und auf aussergewöhnlichen Marktbedingungen und stellen auf historische und auf hypothetische Szenarien ab. Auf die Durchführung von Stresstests kann verzichtet werden, wenn das Nettofondsvermögen der verwalteten kollektiven Kapitalanlage nicht mehr als 25 Millionen Franken beträgt.
+
+<sup>4</sup> Die Fondsleitung oder die SICAV muss einen Krisenplan erstellen und in diesem die Massnahmen für den Einsatz der vorgesehenen Instrumente zur Verwaltung der Liquidität sowie die Abläufe und internen Zuständigkeiten festlegen. Sie muss den Krisenplan regelmässig überprüfen, um sicherzustellen, dass die Instrumente zur Verwaltung der Liquidität bei Bedarf unverzüglich und ordnungsgemäss zum Einsatz kommen können.
+
+<sup>5</sup> Die FINMA kann die Einzelheiten regeln.
+
+[^108a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 109
 
@@ -2072,13 +2232,25 @@ Das Fondsreglement kann vorsehen, dass die Rückzahlung vorübergehend und ausna
 
 <sup>2</sup> Der Entscheid über den Aufschub ist der Prüfgesellschaft und der FINMA unverzüglich mitzuteilen. Er ist auch den Anlegerinnen und Anlegern in angemessener Weise mitzuteilen.
 
+#### Art. 110a
+
+**Segregierung einzelner Anlagen**[^110a-1]
+
+### (Art. 15 und 78 Abs. 3 KAG)
+
+<sup>1</sup> Die FINMA kann auf begründeten Antrag der Fondsleitung oder der SICAV in aussergewöhnlichen Fällen, wenn dies im Interesse der Gesamtheit der Anlegerinnen und Anleger liegt und sofern der Fondsvertrag oder das Anlagereglement dies vorsieht, die Segregierung einzelner illiquider Anlagen einer kollektiven Kapitalanlage (*Side Pockets*) genehmigen.
+
+<sup>2</sup> Die Fondsleitung oder die SICAV muss ihren Entscheid zur Segregierung nach der Genehmigung durch die FINMA in den Publikationsorganen veröffentlichen.
+
+[^110a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 111
 
 **Zwangsrückkauf**
 
 ### (Art. 82 KAG)
 
-<sup>1</sup> Der Zwangsrückkauf im Sinne von Artikel 82 des Gesetzes ist nur im Ausnahmefall zulässig.
+<sup>1</sup> Der Zwangsrückkauf im Sinne von Artikel 82 KAG ist nur im Ausnahmefall zulässig.
 
 <sup>2</sup> Die Gründe für einen Zwangsrückkauf sind im Fondsreglement zu nennen.
 
@@ -2139,7 +2311,7 @@ Anlagefonds oder Teilvermögen können von der Fondsleitung vereinigt werden, so
 - d. am gleichen Tag die Vermögen der beteiligten Anlagefonds bewertet, das Umtauschverhältnis berechnet und die Vermögenswerte und Verbindlichkeiten übernommen werden;
 - e. weder den Anlagefonds beziehungsweise Teilvermögen noch den Anlegerinnen und Anlegern daraus Kosten erwachsen.
 
-<sup>2</sup> ...[^114-2]
+<sup>2</sup> …[^114-2]
 
 <sup>3</sup> Die FINMA kann die Vereinigung von Anlagefonds und die Vermögensübertragung einer SICAV, insbesondere im Fall von Immobilienfonds, von zusätzlichen Voraussetzungen abhängig machen.
 
@@ -2165,7 +2337,7 @@ Der Fondsvertrag regelt das Verfahren der Vereinigung. Er enthält insbesondere 
 
 <sup>4</sup> Die Fondsleitung meldet der FINMA den Abschluss der Vereinigung.
 
-<sup>5</sup> ...[^115-1]
+<sup>5</sup> …[^115-1]
 
 [^115-1]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
@@ -2208,7 +2380,7 @@ Die kollektive Kapitalanlage wird aufgelöst und darf unverzüglich liquidiert w
 
 ### (Art. 98 Abs. 1 KAG)
 
-<sup>1</sup> Die Kommanditgesellschaft für kollektive Kapitalanlagen darf ausschliesslich ihr Vermögen verwalten. Namentlich ist es ihr verboten, Dienstleistungen im Sinne der Artikel 26 und 34 FINIG[^117-2] für Dritte zu erbringen oder unternehmerische Aktivitäten zur Verfolgung kommerzieller Zwecke aufzunehmen.[^117-3]
+<sup>1</sup> Die KmGK darf ausschliesslich ihr Vermögen verwalten. Namentlich ist es ihr verboten, Dienstleistungen im Sinne der Artikel 26 und 34 FINIG[^117-2] für Dritte zu erbringen oder unternehmerische Aktivitäten zur Verfolgung kommerzieller Zwecke aufzunehmen.[^117-3]
 
 <sup>2</sup> Sie investiert in Risikokapital von Unternehmen und Projekten und kann deren strategische Ausrichtung bestimmen. Sie kann auch in Anlagen gemäss Artikel 121 investieren.
 
@@ -2229,7 +2401,7 @@ Sie kann zu diesem Zweck:
 
 ### (Art. 98 Abs. 2 KAG)
 
-<sup>1</sup> ...[^118-1]
+<sup>1</sup> …[^118-1]
 
 <sup>2</sup> Hat die Gesellschaft einen Komplementär, so muss er über ein einbezahltes Aktienkapital von mindestens 100 000 Franken verfügen. Hat sie mehrere Komplementäre, so müssen sie zusammen über ein einbezahltes Aktienkapital von mindestens 100 000 Franken verfügen.
 
@@ -2257,7 +2429,7 @@ Die geschäftsführenden Personen der Komplementäre können sich als Kommandit�
 - b. die Beteiligung aus ihrem Privatvermögen stammt; und
 - c. die Beteiligung bei der Lancierung gezeichnet wird.
 
-<sup>3bis</sup> ...[^119-2]
+<sup>3bis</sup> …[^119-2]
 
 <sup>4</sup> Der Gesellschaftsvertrag regelt die Einzelheiten und ist in einer Amtssprache zu erstellen. Die FINMA kann im Einzelfall eine andere Sprache zulassen.[^119-3]
 
@@ -2308,7 +2480,7 @@ Zulässig sind nur Bau-, Immobilien- und Infrastrukturprojekte von Personen, die
 
 <sup>4</sup>
 
-Der Komplementär, die für die Verwaltung und Geschäftsführung verantwortlichen Personen und die ihnen nahestehenden natürlichen und juristischen Personen sowie die Anlegerinnen und Anleger einer Kommanditgesellschaft für kollektive Kapitalanlagen dürfen von dieser Immobilienwerte und Infrastrukturwerte übernehmen oder abtreten, sofern:
+Der Komplementär, die für die Verwaltung und Geschäftsführung verantwortlichen Personen und die ihnen nahestehenden natürlichen und juristischen Personen sowie die Anlegerinnen und Anleger einer KmGK dürfen von dieser Immobilienwerte und Infrastrukturwerte übernehmen oder abtreten, sofern:
 
 - a. die Marktkonformität des Kaufs- und Verkaufspreises der Immobilienwerte und Infrastrukturwerte sowie der Transaktionskosten durch einen unabhängigen Schätzungsexperten bestätigt wird; und
 - b. die Gesellschafterversammlung der Transaktion zugestimmt hat.[^121-5]
@@ -2398,6 +2570,657 @@ Artikel 111 gilt sinngemäss.
 
 Die SICAF veröffentlicht in den Publikationsorganen die von der Generalversammlung beschlossenen und von der FINMA genehmigten wesentlichen Änderungen der Statuten und des Anlagereglements mit dem Hinweis auf die Stellen, wo die Änderungen im Wortlaut kostenlos bezogen werden können.
 
+## 3*a*. Titel: Limited Qualified Investor Fund
+
+[^tit3a-1]
+
+[^tit3a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 126a
+
+**Begriff**
+
+### (Art. 13 Abs. 2<sup>bis</sup>, 15 Abs. 3, 118*a* Abs. 1 und 118*f* Abs. 1 KAG)
+
+<sup>1</sup> Eine kollektive Kapitalanlage gilt nur dann als Limited Qualified Investor Fund (L‑QIF), wenn ausdrücklich auf die Einholung einer Bewilligung und einer Genehmigung der FINMA verzichtet wird.
+
+<sup>2</sup> Ein ausdrücklicher Verzicht liegt vor, wenn das für die Verwaltung des L-QIF zuständige Institut die erstmalige Meldung der Übernahme der Verwaltung an das Eidgenössische Finanzdepartement (EFD) nach Artikel 126*g* Absatz 1 Buchstabe a dieser Verordnung erstattet.
+
+#### Art. 126b
+
+**Anwendbarkeit dieser Verordnung, der KKV‑FINMA und der anerkannten Selbstregulierungen der Branchenorganisation**
+
+### (Art. 118*a* Abs. 2 KAG)
+
+<sup>1</sup> Der L-QIF untersteht dieser Verordnung, soweit diese nichts anderes bestimmt.
+
+<sup>2</sup> Er untersteht den Vorschriften der Kollektivanlagenverordnung-FINMA vom 27. August 2014[^126b-1] (KKV-FINMA), soweit die vorliegende Verordnung dies bestimmt.
+
+<sup>3</sup>
+
+Er untersteht sinngemäss folgenden von der Branchenorganisation erlassenen und von der FINMA als Mindeststandard anerkannten Selbstregulierungen[^126b-2]:
+
+- a. Verhaltensregeln in der Fassung vom 5. August und 23. September 2021;
+- b. Richtlinie für Immobilienfonds in der Fassung vom 5. August 2021;
+- c. Richtlinie für Geldmarktfonds in der Fassung vom 5. August 2021;
+- d. Richtlinie für die Bewertung des Vermögens von kollektiven Kapitalanlagen und die Behandlung von Bewertungsfehlern bei offenen kollektiven Kapitalanlagen in der Fassung vom 5. August 2021;
+- e. Richtlinie zur Berechnung und Publikation der Performance von kollektiven Kapitalanlagen in der Fassung vom 5. August 2021;
+- f. Richtlinie zur Berechnung und Offenlegung der Total Expense Ratio (TER) von kollektiven Kapitalanlagen in der Fassung vom 5. August 2021.
+
+[^126b-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-2]: Die Verhaltensregeln und Richtlinien können bei der «Asset Management Association Switzerland» kostenlos abgerufen werden unter [www.am-switzerland.ch](https://www.am-switzerland.ch/de) &gt; Regulierung &gt; Selbstregulierung.
+
+#### Art. 126c
+
+**Voraussetzungen für einen Statuswechsel von einer beaufsichtigten kollektiven Kapitalanlage zu einem L‑QIF**
+
+### (Art. 118*b* KAG)
+
+<sup>1</sup> Der Statuswechsel von einer beaufsichtigten kollektiven Kapitalanlage zu einem L‑QIF bedarf vorgängig der Genehmigung und gegebenenfalls der Bewilligung durch die FINMA.
+
+<sup>2</sup>
+
+Die FINMA genehmigt den Statuswechsel und bewilligt ihn gegebenenfalls, wenn:
+
+- a. die Voraussetzungen nach Artikel 118*a* Absatz 1 Buchstaben a–c KAG erfüllt sind;
+- b. der Fondsvertrag, das Anlagereglement oder der Gesellschaftsvertrag die Möglichkeit eines Statuswechsels vorsehen;
+- c. weder der kollektiven Kapitalanlage noch den Anlegerinnen und Anlegern aus dem Statuswechsel Kosten erwachsen; und
+- d.
+
+  bei einer kollektiven Kapitalanlage in der Rechtsform:
+
+  - 1\.
+
+    des vertraglichen Anlagefonds:
+
+    - – die Depotbank dem Statuswechsel zugestimmt hat und
+    - – nur noch Anlegerinnen und Anleger in der kollektiven Kapitalanlage verbleiben, die dem Statuswechsel ausdrücklich zugestimmt haben,
+
+  - 2\.
+
+    der SICAV:
+
+    - – die Depotbank dem Statuswechsel zugestimmt hat
+    - – diejenigen Unternehmensaktionärinnen und Unternehmensaktionäre dem Statuswechsel zugestimmt haben, die mindestens zwei Drittel der ausgegebenen Unternehmensaktien auf sich vereinigen, und
+    - – nur noch Anlegerinnen und Anleger in der kollektiven Kapitalanlage verbleiben, die dem Statuswechsel ausdrücklich zugestimmt haben,
+
+  - 3\. der Rechtsform der KmGK: sämtliche Anlegerinnen und Anleger dem Statuswechsel zugestimmt haben.
+
+<sup>3</sup> Die FINMA kann die Voraussetzungen für einen Statuswechsel zu einem L-QIF näher umschreiben.
+
+<sup>4</sup> Sie legt in ihrem Entscheid über ihre Genehmigung und gegebenenfalls Bewilligung des Statuswechsels das Datum der Entlassung der kollektiven Kapitalanlage aus der Aufsicht fest.
+
+#### Art. 126d
+
+**Informationspflichten beiStatuswechsel**
+
+### (Art. 118b KAG)
+
+<sup>1</sup> Die Fondsleitung, der Verwaltungsrat einer SICAV und die Komplementäre einer KmGK müssen den Beschluss zu einem Statuswechsel zu einem L‑QIF der FINMA unverzüglich mitteilen.
+
+<sup>2</sup>
+
+Bei einer kollektiven Kapitalanlage in der Rechtsform des vertraglichen Anlagefonds oder der SICAV ist der Beschluss zum Statuswechsel in den Publikationsorganen zu veröffentlichen. Die Publikation muss insbesondere folgende Informationen enthalten:
+
+- a. einen Hinweis auf die Auswirkungen des Statuswechsels auf den Genehmigungs- oder Bewilligungsstatus der kollektiven Kapitalanlage, insbesondere auf die Entlassung der kollektiven Kapitalanlage aus der Aufsicht der FINMA;
+- b.
+
+  den Hinweis, dass die Anlegerinnen und Anleger innert 30 Tagen nach der Publikation wählen können, ob sie:
+
+  - 1\. in der kollektiven Kapitalanlage verbleiben, falls sie dem Statuswechsel ausdrücklich zustimmen, oder
+  - 2\. ihre Anteile unter Beachtung der vertraglichen oder reglementarischen Rückgabefristen und -termine zurückgeben, falls sie ihre Anteile kündigen;
+
+- c. den Hinweis, dass diejenigen Anlegerinnen und Anleger, die ihr Wahlrecht nach Buchstabe b nicht wahrnehmen, den Anlegerinnen und Anlegern gleichgestellt werden, die ihre Anteile am 30. Tag nach der Publikation kündigen.
+
+<sup>3</sup> Bei einer kollektiven Kapitalanlage in der Rechtsform der KmGK müssen die Komplementäre die Kommanditäre vor der Beschlussfassung zum Statuswechsel auf die damit verbundenen Auswirkungen auf den Genehmigungs- und Bewilligungsstatus der KmGK hinweisen, insbesondere auf die Entlassung der KmGK aus der Aufsicht der FINMA.
+
+#### Art. 126e
+
+**Umstrukturierungen**
+
+### (Art. 118*b* KAG)
+
+Umstrukturierungen eines L-QIF mit beaufsichtigten kollektiven Kapitalanlagen oder zu solchen sind nicht zulässig.
+
+#### Art. 126f
+
+**Auf L-QIF nicht anwendbare Bestimmungen**
+
+### (Art. 118*d* KAG)
+
+Folgende Bestimmungen sind nicht auf L-QIF anwendbar:
+
+- a. die Bestimmungen über die Bewilligung und Genehmigung sowie über die Aufsichtstätigkeit der FINMA (Art. 7–23, 31 Abs. 6, 33 Abs. 2, 35, 35*a* Abs. 2–4, 40, 53, 54 Abs. 4, 55 Abs. 1–3<sup>ter</sup> und 5–7, 61, 62 Abs. 2 zweiter Satz und 3, 62*b*, 63 Abs. 3 und 4, 109, 110 Abs. 2, 110*a*, 114 Abs. 3, 115 Abs. 3 und 4, 116 Abs. 3 und 5, 118 Abs. 3, 119 Abs. 4 zweiter Satz, 137, 141 und 142);
+- b. die Anlagevorschriften nach den Artikeln 32*a*, 67–102, 117 Absätze 2 und 3, 120 und 121;
+- c. die Bestimmungen über die Änderung des Fondsvertrags nach Artikel 41 und über den Wechsel der Depotbank nach Artikel 105.
+
+#### Art. 126g
+
+**Meldepflicht und Datenbearbeitung**
+
+### (Art. 118*f* KAG)
+
+<sup>1</sup>
+
+Das für die Verwaltung eines L-QIF zuständige Institut muss dem EFD unter Angabe der eigenen Firma und der Bezeichnung oder Firma des L‑QIF Folgendes melden:
+
+- a. die Übernahme der Verwaltung innert 14 Tagen nach der Unterzeichnung des Fondsvertrags oder des Gesellschaftsvertrags oder der Verabschiedung der Statuten;
+- b. die Aufgabe der Verwaltung innert 14 Tagen nach der Unterzeichnung des geänderten Fondsvertrags oder des geänderten Gesellschaftsvertrags, der Verabschiedung der geänderten Statuten oder dem Abschluss der Liquidation des L‑QIF.
+
+<sup>2</sup>
+
+Bei der Übernahme der Verwaltung muss es dem EFD innert der Frist nach Absatz 1 Buchstabe a zu statistischen Zwecken zudem insbesondere Folgendes melden:
+
+- a. die Kontaktdaten des L-QIF und des für die Verwaltung zuständigen Instituts;
+- b. die Rechtsform, die offene oder geschlossene Natur und die Anlagekategorien des L‑QIF;
+- c. das Datum der Übernahme der Verwaltung des L-QIF;
+- d. das voraussichtliche Datum der Lancierung des L-QIF;
+- e. den Namen und die Kontaktdaten der Depotbank;
+- f. den Namen und die Kontaktdaten der Prüfgesellschaft;
+- g. den Namen und die Kontaktdaten des für die Anlageentscheide zuständigen Instituts, sofern die Anlageentscheide übertragen worden sind;
+- h. den Anlagestil und die Anlagestrategie.
+
+<sup>3</sup> Bei der Aufgabe der Verwaltung muss es dem EFD innert der Frist nach Absatz 1 Buchstabe b zu statistischen Zwecken zudem das Datum der Aufgabe der Verwaltung des L‑QIF melden.
+
+<sup>4</sup>
+
+Es muss dem EFD zudem innert jeweils 14 Tagen zu statistischen Zwecken Folgendes melden:
+
+- a. das Datum der Lancierung des L-QIF;
+- b. jede Änderung der nach den Absätzen 2 und 3 gemeldeten Tatsachen;
+- c. die Eröffnung der Liquidation über den L-QIF.
+
+<sup>5</sup> Das EFD kann die Daten nach Absatz 1, Absatz 2 Buchstaben b und e und Absatz 4 Buchstaben a und c in einem Verzeichnis öffentlich zugänglich machen.
+
+<sup>6</sup>
+
+Das für die Verwaltung des L-QIF zuständige Institut muss dem EFD oder einem durch das EFD beauftragten Dritten periodisch insbesondere folgende Daten des L‑QIF zu statistischen Zwecken übermitteln:
+
+- a. den Vermögensbestand und die Vermögensveränderung;
+- b. den Wert der herausgegebenen und der zurückgenommenen Anteile;
+- c.
+
+  die Vermögenswerte, gegliedert nach:
+
+  - 1\. Inland und Ausland,
+  - 2\. Währungen,
+  - 3\. den folgenden Anlagekategorien: Geldmarktinstrumente, Forderungen aus Pensionsgeschäften, Obligationen, Aktien und andere Beteiligungspapiere, Anteile an anderen Kollektivanlagen, strukturierte Produkte, Immobilien, übrige Wertpapiere;
+
+- d. die Verbindlichkeiten, gegliedert nach Inland und Ausland;
+- e. die Erfolgsrechnung;
+- f. die Risikodaten, einschliesslich der Gliederung der Aktiven und Passiven nach Laufzeitenstruktur sowie des Bestands des Ausserbilanzgeschäfts.
+
+<sup>7</sup> Das EFD erlässt technische Weisungen über die Form der Meldungen nach diesem Artikel. Es legt darin insbesondere fest, welche Daten ganz oder teilweise in elektronischer Form zu liefern sind.
+
+<sup>8</sup> Das EFD oder der beauftragte Dritte kann die nach diesem Artikel erhobenen Daten im Rahmen der jeweiligen gesetzlichen Aufgaben mit schweizerischen Finanzmarktaufsichtsbehörden austauschen.
+
+<sup>9</sup> Das EFD oder der beauftragte Dritte kann die nach diesem Artikel erhobenen Daten in aggregierter Form veröffentlichen und an weitere zuständige Stellen des Bundes, insbesondere an das Bundesamt für Statistik, sowie an zuständige Behörden anderer Länder und internationale Organisationen weiterleiten.
+
+#### Art. 126h
+
+**Pflichten des für die Verwaltung des L-QIF zuständigen Instituts**
+
+### (Art. 118*g* und 118*h* KAG)
+
+<sup>1</sup> Das für die Verwaltung eines L-QIF zuständige Institut (Art. 118*g* oder 118*h* KAG) ist dafür verantwortlich, dass die für den L‑QIF geltenden gesetzlichen, vertraglichen, statutarischen oder reglementarischen Vorschriften eingehalten werden.
+
+<sup>2</sup> Hält eine kollektive Kapitalanlage die Begriffsmerkmale eines L-QIF nach Artikel 118*a* Absatz 1 Buchstaben a–c KAG nicht oder nicht mehr ein, so muss das Institut unverzüglich die FINMA, die Depotbank und die Prüfgesellschaft informieren.
+
+<sup>3</sup> Werden die für den L-QIF geltenden gesetzlichen, vertraglichen, statutarischen oder reglementarischen Vorschriften anderweitig nicht oder nicht mehr eingehalten, so muss das Institut unverzüglich die Anlegerinnen und Anleger, die Depotbank sowie die Prüfgesellschaft darüber informieren und dafür sorgen, dass der ordnungsgemässe Zustand innert angemessener Frist wiederhergestellt wird. Ist dies nicht möglich, so muss es den L‑QIF auflösen.
+
+### 2. Kapitel: Besondere Bestimmungen für L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV
+
+#### Art. 126i
+
+**Änderung des Fondsvertrags eines L-QIF in der Rechtsform des vertraglichen Anlagefonds**
+
+### (Art. 118*j* Abs. 2 KAG)
+
+Änderungen des Fondsvertrags eines L-QIF in der Rechtsform des vertraglichen Anlagefonds, die von Gesetzes wegen erforderlich sind, die Rechte der Anlegerinnen und Anleger nicht berühren oder ausschliesslich formeller Natur sind, sind von der Publikationspflicht nach Artikel 118*j* Absatz 2 KAG ausgenommen.
+
+#### Art. 126j
+
+**Erstellung und Änderung des Anlagereglements sowie Änderung der Statuten eines L‑QIF in der Rechtsform der SICAV**
+
+### (Art. 50, 94 und 118*a* Abs. 2 KAG)
+
+<sup>1</sup> Der Inhalt des Anlagereglements eines L-QIF in der Rechtsform der SICAV richtet sich nach den Bestimmungen über den Fondsvertrag, soweit das KAG oder die Statuten nichts anderes vorsehen. Das Anlagereglement bedarf der Genehmigung durch die Generalversammlung.
+
+<sup>2</sup>
+
+Die Generalversammlung der SICAV beziehungsweise der Teilvermögen ist zuständig für die Änderung des Anlagereglements, sofern die Änderung:
+
+- a. nicht von Gesetzes wegen erforderlich ist;
+- b. die Rechte der Aktionärinnen und Aktionäre berührt; oder
+- c. nicht ausschliesslich formeller Natur ist.
+
+<sup>3</sup>
+
+Beschliesst die Generalversammlung eine Änderung des Anlagereglements, so muss sie folgende Informationen entweder in den Publikationsorganen veröffentlichen oder den Anlegerinnen und Anlegern schriftlich mitteilen:
+
+- a. eine Zusammenfassung der wesentlichen Änderungen;
+- b. einen Hinweis auf die Stellen, wo die Änderungen im Wortlaut kostenlos bezogen werden können; und
+- c. einen Hinweis darauf, wann die Änderungen in Kraft treten.
+
+<sup>4</sup> Die Absätze 1–3 gelten sinngemäss für die Statuten, sofern diese Inhalte des Anlagereglements regeln.
+
+#### Art. 126k
+
+**Schaffung, Aufhebung oder Vereinigung von Anteilsklassen**
+
+### (Art. 26 Abs. 3, 78 Abs. 3 und 118*a* Abs. 2 KAG)
+
+<sup>1</sup> Bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV kann die Fondsleitung oder die SICAV mit Zustimmung der Depotbank Anteilsklassen schaffen, aufheben oder vereinigen, sofern dies im Fondsvertrag oder in den Statuten vorgesehen ist.
+
+<sup>2</sup> Sie orientiert sich dabei namentlich an folgenden Kriterien: Kostenstruktur, Referenzwährung, Währungsabsicherung, Ausschüttung oder Thesaurierung der Erträge, Mindestanlage und Anlegerkreis.
+
+<sup>3</sup> Die Einzelheiten sind im Fondsvertrag oder im Anlagereglement zu regeln. Darin ist namentlich das Risiko offenzulegen, dass eine Klasse unter Umständen für eine andere haften muss.
+
+<sup>4</sup> Die Fondsleitung oder die SICAV muss die Schaffung, Aufhebung oder Vereinigung von Anteilsklassen in den Publikationsorganen veröffentlichen. Nur die Vereinigung gilt als Änderung des Fondsvertrags oder des Anlagereglements.
+
+<sup>5</sup> Artikel 112 Absatz 3 Buchstaben a–c ist sinngemäss anwendbar.
+
+#### Art. 126l
+
+**Mindestvermögen**
+
+### (Art. 25 Abs. 3, 36 Abs. 2 und 118*a* Abs. 2 KAG)
+
+<sup>1</sup> Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV muss spätestens ein Jahr nach Lancierung über ein Nettovermögen von mindestens 5 Millionen Franken verfügen.
+
+<sup>2</sup> Die Fondsleitung kann die Frist zwei Mal um sechs Monate verlängern, sofern dies im Fondsvertrag oder im Anlagereglement vorgesehen ist.
+
+<sup>3</sup> Macht die Fondsleitung von ihrem Recht auf eine Fristverlängerung Gebrauch, so muss sie die Depotbank und die Prüfgesellschaft unverzüglich darüber informieren und entweder den Entscheid in den Publikationsorganen veröffentlichen oder ihn den Anlegerinnen und Anlegern schriftlich mitteilen.
+
+#### Art. 126m
+
+**Ausnahmen vom Recht auf jederzeitige Rückgabe**
+
+### (Art. 79 und 118*a* Abs. 2 KAG)
+
+<sup>1</sup> Der Fondsvertrag oder das Anlagereglement eines L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV mit erschwerter Bewertung oder beschränkter Marktgängigkeit kann vorsehen, dass die Kündigung nur auf bestimmte Termine, jedoch mindestens alle fünf Jahre, erklärt werden kann.
+
+<sup>2</sup> Weiter kann der Fondsvertrag oder das Anlagereglement eine anteilige Kürzung der Rücknahmeanträge bei Erreichen eines bestimmten Prozentsatzes oder Schwellenwerts für einen bestimmten Zeitpunkt (*Gating*) vorsehen, wenn aussergewöhnliche Umstände vorliegen und wenn dies im Interesse der verbleibenden Anlegerinnen und Anleger ist. Der verbleibende Teil der Rücknahmeanträge ist als für den nächsten Bewertungstag eingegangen zu betrachten. Die Einzelheiten sind im Fondsvertrag oder im Anlagereglement offenzulegen.
+
+<sup>3</sup> Macht die Fondsleitung von einem Gating Gebrauch, so muss sie die Prüfgesellschaft unverzüglich darüber informieren und entweder den Entscheid in den Publikationsorganen veröffentlichen oder ihn den Anlegerinnen und Anlegern schriftlich mitteilen.
+
+#### Art. 126n
+
+**Mitteilungspflicht beim Aufschub der Rückzahlung**
+
+### (Art. 81 Abs. 1, 118*a* Abs. 2 und 118*m* KAG)
+
+Die Fondsleitung muss die Prüfgesellschaft unverzüglich über den befristeten Aufschub der Rückzahlung nach Artikel 81 Absatz 1 oder 118*m* KAG informieren und entweder den Entscheid in den Publikationsorganen veröffentlichen oder ihn den Anlegerinnen und Anlegern schriftlich mitteilen.
+
+### 3. Kapitel: Anlagevorschriften
+
+### (Art. 118*n–*118*p* KAG)
+
+### 1. Abschnitt: Anlagebeschränkungen und Anlagetechniken für L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV
+
+#### Art. 126o
+
+**Risikohinweis**
+
+<sup>1</sup> Bei L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV hat der Risikohinweis nach Artikel 118*n* Absatz 2 KAG in Form einer Warnklausel zu erfolgen, die kurz und prägnant die Hauptrisiken im Zusammenhang mit den möglichen Anlagen umschreibt. Die Warnklausel ist auf der ersten Seite des Fondsvertrags oder des Anlagereglements sowie der Werbeunterlagen anzubringen.
+
+<sup>2</sup> Der Fondsvertrag oder das Anlagereglement muss zudem Erläuterungen zu den besonderen Risiken und gegebenenfalls der erhöhten Volatilität des L‑QIF enthalten.
+
+#### Art. 126p
+
+**Anlagebeschränkungen und Anlagetechniken**
+
+<sup>1</sup>
+
+Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV darf:
+
+- a. Kredite in der Höhe von höchstens 50 Prozent des Nettofondsvermögens aufnehmen;
+- b. höchstens 100 Prozent des Nettofondsvermögens verpfänden oder zur Sicherung übereignen;
+- c. ein Gesamtengagement von höchstens 600 Prozent des Nettofondsvermögens eingehen.
+
+<sup>2</sup> Der Fondsvertrag oder das Anlagereglement muss die Anlagebeschränkungen ausdrücklich nennen.
+
+<sup>3</sup> Der Fondsvertrag oder das Anlagereglement muss zudem die zulässigen Anlagetechniken wie Effektenleihe, Pensionsgeschäft, Einsatz von Derivaten, Kreditaufnahme oder Sicherungsübereignung, Leerverkäufe und Kreditgewährung umschreiben. Er oder es muss namentlich die Art und die Höhe der zulässigen Leerverkäufe regeln. Sind die Effektenleihe oder das Pensionsgeschäft zulässig, so haben der Fondsvertrag oder das Anlagereglement und der Jahresbericht die Angaben nach Artikel 76 Absätze 4 und 5 zu enthalten.
+
+<sup>4</sup> Die Artikel 1–55 KKV-FINMA[^126p-1] in der Fassung vom 1. Januar 2015[^126p-2] über Effektenleihe, Pensionsgeschäft, derivative Finanzinstrumente und Verwaltung der Sicherheiten gelten mit Ausnahme der Pflichten zur Information der FINMA und zur Genehmigung durch die FINMA sinngemäss.
+
+[^126p-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+
+#### Art. 126q
+
+**Einhaltung der Anlagevorschriften**
+
+<sup>1</sup> Die prozentualen Beschränkungen nach Artikel 126*p* beziehen sich auf das Fondsvermögen zu Verkehrswerten; sie müssen ständig eingehalten werden.
+
+<sup>2</sup> Bei L-QIF mit Teilvermögen gelten die Anlagebeschränkungen und -techniken für jedes Teilvermögen einzeln.
+
+<sup>3</sup> Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV muss die Anlagebeschränkungen innert zwei Jahren nach der Lancierung erfüllen. Kann diese Frist nicht eingehalten werden, so darf die Fondsleitung sie einmalig um sechs Monate verlängern, sofern dies im Fondsvertrag oder im Anlagereglement vorgesehen ist. Macht die Fondsleitung von diesem Recht Gebrauch, so muss sie die Depotbank und die Prüfgesellschaft unverzüglich darüber informieren und entweder den Entscheid in den Publikationsorganen veröffentlichen oder ihn den Anlegerinnen und Anlegern schriftlich mitteilen.
+
+<sup>4</sup> Werden die Beschränkungen durch Marktveränderungen überschritten, so müssen die Anlagen unter Wahrung der Interessen der Anlegerinnen und Anleger innerhalb einer angemessenen Frist auf das zulässige Mass zurückgeführt werden.
+
+<sup>5</sup> Werden die Anlagevorschriften aktiv verletzt, namentlich durch Käufe oder Verkäufe, so müssen die Anlagen unverzüglich auf das zulässige Mass zurückgeführt werden. Wird den Anlegerinnen und Anlegern ein aufgrund eines solchen aktiven Anlageverstosses entstandener Schaden nicht ersetzt, so ist der Anlageverstoss der Prüfgesellschaft unverzüglich mitzuteilen und entweder so rasch wie möglich in den Publikationsorganen zu veröffentlichen oder den Anlegerinnen und Anlegern schriftlich mitzuteilen. Die Mitteilung und die Veröffentlichung müssen eine konkrete Umschreibung des Anlageverstosses und des für die Anlegerinnen und Anleger entstandenen Schadens umfassen. Im Jahresbericht ist über sämtliche aktiven Anlageverstösse Bericht zu erstatten.
+
+#### Art. 126r
+
+**Anlagen in anderen kollektiven Kapitalanlagen**
+
+Der Fondsvertrag eines L-QIF in der Rechtsform des vertraglichen Anlagefonds oder das Anlagereglement der SICAV muss regeln, in welchem Umfang der L‑QIF Anlagen in anderen kollektiven Kapitalanlagen (Zielfonds) tätigen darf. Handelt es sich dabei um einen wesentlichen Teil des Fondsvermögens, so:
+
+- a. ist im Fondsvertrag oder im Anlagereglement anzugeben, wie hoch die Verwaltungskommissionen maximal sind, die vom L‑QIF selbst und von den Zielfonds zu tragen sind;
+- b. ist im Jahresbericht anzugeben, wie hoch der Anteil der Verwaltungskommissionen maximal ist, den der L‑QIF einerseits und die Zielfonds andererseits tragen.
+
+#### Art. 126s
+
+**Master-Feeder-Strukturen**
+
+<sup>1</sup> Ein L-QIF-Feeder-Fonds ist ein L-QIF, der mindestens 85 Prozent des Fondsvermögens in Anteilen desselben L‑QIF-Zielfonds (L‑QIF-Master-Fonds) anlegt.
+
+<sup>2</sup> Bei L-QIF sind Master-Feeder-Strukturen zulässig, sofern dies im Fondsvertrag oder im Anlagereglement vorgesehen ist und es sich sowohl beim Master-Fonds als auch beim Feeder-Fonds um einen L‑QIF handelt.
+
+<sup>3</sup>
+
+Die Anlegerinnen und Anleger eines L-QIF-Master-Fonds sind seine L-QIF-Feeder-Fonds. Übrige Anlegerinnen und Anleger können aufgenommen werden, sofern:
+
+- a. sie vorgängig darüber informiert werden, dass sie in einen Master-Fonds investieren; und
+- b. sichergestellt ist, dass sie gleich behandelt werden wie die L-QIF-Feeder-Fonds.
+
+<sup>4</sup> Die Artikel 56–64 KKV-FINMA[^126s-1] in der Fassung vom 1. Januar 2015[^126s-2] über Master-Feeder-Strukturen gelten mit Ausnahme der Pflichten zur Information der FINMA und zur Genehmigung durch die FINMA sinngemäss.
+
+[^126s-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+
+### 2. Abschnitt: Zusätzliche Vorschriften für L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV mit Immobilienanlagen
+
+#### Art. 126t
+
+**Immobilienanlagen**
+
+<sup>1</sup> Die zulässigen Immobilienanlagen eines L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV sind im Fondsvertrag oder im Anlagereglement ausdrücklich zu umschreiben.
+
+<sup>2</sup> Die Grundstücke sowie Schuldbriefe oder andere vertragliche Grundpfandrechte sind auf den Namen der Fondsleitung oder der SICAV unter Anmerkung der Zugehörigkeit zum L‑QIF im Grundbuch einzutragen. Hat der L‑QIF Teilvermögen, so muss angemerkt sein, zu welchem Teilvermögen das Grundstück, der Schuldbrief oder das andere vertragliche Grundpfandrecht gehört.
+
+<sup>3</sup> Der Fondsvertrag oder das Anlagereglement muss Angaben darüber enthalten, ob der L‑QIF unbebaute Grundstücke erwerben darf, die nicht erschlossen und nicht für eine umgehende Überbauung geeignet sind und nicht über eine rechtskräftige Baubewilligung für die Überbauung verfügen. Der Fondsvertrag oder das Anlagereglement muss die mit solchen Anlagen verbundenen besonderen Risiken umschreiben.
+
+<sup>4</sup> Lässt die Fondsleitung Bauten erstellen oder führt sie Gebäudesanierungen durch, so darf sie für die Zeit der Vorbereitung, des Baus oder der Gebäudesanierung der Ertragsrechnung des L‑QIF für Bauland und angefangene Bauten einen Bauzins zum marktüblichen Satz gutschreiben, sofern dadurch die Kosten den geschätzten Verkehrswert nicht übersteigen.
+
+#### Art. 126u
+
+**Immobilienanlagen in Miteigentum**
+
+<sup>1</sup>
+
+Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV darf Grundstücke im Miteigentum halten. Handelt es sich dabei um gewöhnliches Miteigentum, so ist im Fondsvertrag oder im Anlagereglement anzugeben, ob:
+
+- a. der L-QIF Minderheitsbeteiligungen halten kann;
+- b. sich die Fondsleitung oder die SICAV in einer Nutzungs- und Verwaltungsordnung nach Artikel 647 Absatz 1 ZGB[^126u-1] die in den Artikeln 647*a*–651 ZGB vorgesehenen Rechte, Massnahmen und Handlungen vorbehalten hat; oder
+- c. das Vorkaufsrecht nach Artikel 682 ZGB vertraglich aufgehoben wird.
+
+<sup>2</sup>
+
+Handelt es sich um Miteigentumsanteile, die einer Minderheitsbeteiligung entsprechen, so muss der Fondsvertrag oder das Anlagereglement folgende Angaben enthalten:
+
+- a. die prozentuale Mindestbeteiligung, die der L-QIF bei Minderheitsbeteiligungen halten muss;
+- b. die Angabe, ob die restlichen Miteigentümerinnen und Miteigentümer der Fondsleitung oder der SICAV bekannt sein müssen;
+- c. die Angabe, ob allfällige Einschränkungen des Rechts, Miteigentumsanteile jederzeit zu veräussern, möglich sind; und
+- d. die maximale Limite für Anlagen in Minderheitsbeteiligungen im Verhältnis zum Fondsvermögen.
+
+<sup>3</sup> Der Fondsvertrag oder das Anlagereglement muss gegebenenfalls auf die besonderen Risiken hinweisen, die mit einer der in Absatz 1 erwähnten Massnahmen verbundenen sind.
+
+[^126u-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 126v
+
+**Verpfändung und Sicherungsübereignung der Pfandrechte**
+
+Bei der Verpfändung der Grundstücke und der Sicherungsübereignung der Pfandrechte darf die Belastung aller Grundstücke eines L‑QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV im Durchschnitt nicht mehr als die Hälfte des Verkehrswertes betragen.
+
+#### Art. 126w
+
+**Risikoverteilung**
+
+Der Fondsvertrag oder das Anlagereglement eines L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV mit Immobilienanlagen muss insbesondere folgende Angaben zur Risikoverteilung enthalten:
+
+- a. die Mindestanzahl an Grundstücken, die vom L-QIF erworben werden müssen;
+- b.
+
+  die folgenden Anlagebeschränkungen in Prozent des Vermögens des L-QIF:
+
+  - 1\. den maximalen Prozentsatz, den der Verkehrswert eines Grundstücks ausmachen darf,
+  - 2\. den maximalen Prozentsatz, der in Bauland investiert werden kann,
+  - 3\. den maximalen Prozentsatz, der in Baurechtsgrundstücke investiert werden kann,
+  - 4\. den maximalen Prozentsatz, der in Schuldbriefe und andere vertragliche Grundpfandrechte investiert werden kann,
+  - 5\. den maximalen Prozentsatz, der in Anteile an anderen Immobilienfonds und Immobilieninvestmentgesellschaften investiert werden kann.
+
+#### Art. 126x
+
+**Geschäfte mit nahestehenden Personen**
+
+<sup>1</sup>
+
+Bei einem L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV mit Immobilienanlagen sind Geschäfte mit nahestehenden Personen nach Artikel 63 Absätze 2 und 3 KAG zulässig, wenn:
+
+- a. diese Möglichkeit im Fondsvertrag oder im Anlagereglement vorgesehen ist;
+- b. die im Fondsvertrag oder im Anlagereglement vorgesehene Anzahl Anlegerinnen und Anleger, mindestens jedoch die Hälfte der Anlegerinnen und Anleger oder der an der Generalversammlung vertretenen Stimmen, dem Geschäft zustimmt;
+- c. zusätzlich zu der Schätzung der ständigen Schätzungsexperten des L-QIF ein von diesen beziehungsweise deren Arbeitgeber und von der Fondsleitung oder SICAV sowie der Depotbank des L‑QIF unabhängiger Schätzungsexperte nach Artikel 64 Absatz 1 KAG die Marktkonformität des Kaufs- und Verkaufspreises des Immobilienwertes sowie der Transaktionskosten bestätigt.
+
+<sup>2</sup>
+
+Nach Abschluss der Transaktion muss die Fondsleitung einen Bericht erstellen, der Folgendes enthält:
+
+- a. Angaben zu den einzelnen übernommenen oder übertragenen Immobilienwerten und deren Wert am Stichtag der Übernahme oder Abtretung;
+- b. die Schätzberichte der ständigen Schätzungsexperten;
+- c. den Bericht über die Marktkonformität des Kaufs- oder Verkaufspreises der Schätzungsexperten nach Absatz 1 Buchstabe c.
+
+<sup>3</sup> Die Prüfgesellschaft muss im Rahmen ihrer Prüfung der Fondsleitung die Einhaltung der besonderen Treuepflicht bei Immobilienanlagen bestätigen.
+
+<sup>4</sup> Im Jahresbericht des L-QIF sind die Geschäfte mit nahestehenden Personen zu erwähnen.
+
+<sup>5</sup> Für Immobilienwerte, an denen die Fondsleitung, die SICAV oder diesen nahestehende Personen Bauprojekte durchführen lassen, sind keine Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen möglich.
+
+<sup>6</sup> Der Begriff der nahestehenden Person richtet sich nach Artikel 91*a*.
+
+#### Art. 126y
+
+**Anforderungen an die Schätzungsexperten und Bewertung von Immobilienanlagen**
+
+<sup>1</sup>
+
+Die Schätzungsexperten nach Artikel 118*p* Absatz 2 KAG müssen:
+
+- a. die erforderlichen Qualifikationen aufweisen;
+- b. unabhängig sein; und
+- c. über hinreichende finanzielle Garantien verfügen oder eine Berufshaftpflichtversicherung abgeschlossen haben.
+
+<sup>2</sup> Sie haben die Schätzung mit der Sorgfalt eines ordentlichen und sachkundigen Schätzungsexperten durchzuführen.
+
+<sup>3</sup> Die Bewertung von Grundstücken bei Erwerb oder Veräusserung, die Bewertung der zum L‑QIF gehörenden Grundstücke und die Prüfung und Bewertung von Bauvorhaben richten sich nach den Artikeln 92–94.
+
+### 3. Abschnitt: Anlagevorschriften für L-QIF in der Rechtsform der KmGK
+
+#### Art. 126z
+
+**Anlagebeschränkungen und Anlagetechniken**
+
+Der Gesellschaftsvertrag eines L-QIF in der Rechtsform der KmGK muss die geltenden Anlagebeschränkungen ausdrücklich nennen und die zulässigen Anlagetechniken umschreiben.
+
+#### Art. 126z<sup>bis</sup>
+
+**Geschäfte mit nahestehenden Personen**
+
+<sup>1</sup>
+
+Zulässig sind nur Bau-, Immobilien- und Infrastrukturprojekte von Personen, die weder direkt noch indirekt verbunden sind mit:
+
+- a. dem Komplementär;
+- b. den für die Verwaltung und Geschäftsführung verantwortlichen Personen; oder
+- c. den Anlegerinnen und Anlegern.
+
+<sup>2</sup>
+
+Der Komplementär, die für die Verwaltung und Geschäftsführung verantwortlichen Personen und die ihnen nahestehenden natürlichen und juristischen Personen sowie die Anlegerinnen und Anleger einer KmGK dürfen von dieser Immobilienwerte und Infrastrukturwerte übernehmen oder an sie abtreten, sofern:
+
+- a. die Marktkonformität des Kaufs- und Verkaufspreises der Immobilienwerte und Infrastrukturwerte sowie der Transaktionskosten durch einen unabhängigen Schätzungsexperten bestätigt wird; und
+- b. die Gesellschafterversammlung der Transaktion zugestimmt hat.
+
+<sup>3</sup> Die Prüfgesellschaft muss im Rahmen ihrer Prüfung des für die Verwaltung zuständigen Instituts die Einhaltung der besonderen Treuepflicht bei Immobilienanlagen prüfen.
+
+#### Art. 126z<sup>ter</sup>
+
+**Anforderungen an die Schätzungsexperten und Bewertung von Immobilienanlagen**
+
+Die Anforderungen an die Schätzungsexperten, die Bewertung von Grundstücken bei Erwerb oder Veräusserung, die Bewertung der zum L‑QIF gehörenden Grundstücke und die Prüfung und Bewertung von Bauvorhaben richten sich nach Artikel 126*y*.
+
+### 4. Kapitel: Buchführung, Bewertung, Rechenschaftsablage und Publikationspflicht
+
+### (Art. 118*i* KAG)
+
+#### Art. 126z<sup>quater</sup>
+
+**Buchführung, Bewertung und Rechenschaftsablage**
+
+<sup>1</sup> Für die Buchführung, Bewertung und Rechenschaftsablage eines L-QIF gelten die Artikel 79–105 und 108 KKV-FINMA[^126zquater-1] in der Fassung vom 1. Januar 2021[^126zquater-2] sinngemäss, mit Ausnahme von Artikel 83 Absatz 1 zweiter Satz.
+
+<sup>2</sup> Soweit die Bewertung nicht durch die KKV-FINMA oder die anerkannten Selbstregulierungen der Branchenorganisation geregelt wird, ist sie nach anerkannten internationalen Standards vorzunehmen. Die angewendeten Standards sind im Fondsvertrag, im Anlagereglement oder im Gesellschaftsvertrag ausführlich zu umschreiben.
+
+[^126zquater-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
+
+#### Art. 126z<sup>quinquies</sup>
+
+**Publikationspflicht**
+
+<sup>1</sup> Im Fondsvertrag oder im Anlagereglement eines L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV ist festzulegen, wann und in welcher Form den Anlegerinnen und Anlegern der Ausgabe- und der Rücknahmepreis und der Nettoinventarwert bekannt gegeben werden. Die Bekanntgabe hat mindestens einmal im Jahr zu erfolgen.
+
+<sup>2</sup> Wird der Nettoinventarwert veröffentlicht, so ist der Hinweis «exklusive Kommissionen» anzufügen.
+
+### 5. Kapitel: Prüfung und Prüfberichte
+
+### (Art. 118*i* Abs. 6 KAG)
+
+### 1. Abschnitt: Prüfung
+
+#### Art. 126z<sup>sexies</sup>
+
+**Aufteilung**
+
+Die Prüfungen des L-QIF sind aufzuteilen in eine Rechnungsprüfung und eine ergänzende Prüfung.
+
+#### Art. 126z<sup>septies</sup>
+
+**Rechnungsprüfung**
+
+<sup>1</sup> Die Rechnungsprüfung des L-QIF umfasst die Prüfung der Angaben nach den Artikeln 89 Absatz 1 Buchstaben a–h und 90 KAG.
+
+<sup>2</sup> Die Rechnungsprüfung des Komplementärs eines L-QIF in der Rechtsform der KmGK richtet sich nach den Artikeln 728–731*a* OR[^126zsepties-1].
+
+<sup>3</sup> Die Rechnungsprüfung muss jährlich durchgeführt werden.
+
+[^126zsepties-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>octies</sup>
+
+**Ergänzende Prüfung**
+
+<sup>1</sup>
+
+Die ergänzende Prüfung des L-QIF umfasst die Prüfung der Einhaltung folgender Vorschriften:
+
+- a. Vorschrift zu den Begriffsmerkmalen eines L-QIF nach Artikel 118*a* Absatz 1 KAG;
+- b. Vorschrift zur Meldung und zur Erhebung von Daten nach Artikel 118*f* KAG.
+
+<sup>2</sup> Die ergänzende Prüfung muss alle zwei Jahre durchgeführt werden.
+
+<sup>3</sup>
+
+Im ersten Prüfungsjahr nach Lancierung des L-QIF oder nach Änderung der Fondsdokumente umfasst die ergänzende Prüfung zudem die Prüfung der Einhaltung folgender Vorschriften:
+
+- a.
+
+  Vorschriften zum Erlass und zum Inhalt folgender Dokumente:
+
+  - 1\. des Fondsvertrags eines L-QIF in der Rechtsform des vertraglichen Anlagefonds,
+  - 2\. der Statuten und des Anlagereglements eines L-QIF in der Rechtsform der SICAV,
+  - 3\. des Gesellschaftsvertrags eines L-QIF in der Rechtsform der KmGK;
+
+- b. Vorschriften zur Änderung der Dokumente nach Buchstabe a;
+- c. bei Verwendung des Modellansatzes zur Risikomessung: Vorschriften zu dessen Berechnung und Anwendung (Art. 33–42 KKV-FINMA[^126zocties-1] in der Fassung vom 1. Januar 2015[^126zocties-2] sinngemäss).
+
+<sup>4</sup> Im Prüfungsjahr, in dem die Frist zur Einhaltung der Anlagebeschränkungen nach Artikel 126*q* Absatz 3 zu erfüllen ist, umfasst die ergänzende Prüfung zudem die Prüfung, ob die Frist eingehalten wurde.
+
+<sup>5</sup> Für die Durchführung der ergänzenden Prüfung gelten die Artikel 5–8 der Finanzmarktprüfverordnung vom 5. November 2014[^126zocties-3] sinngemäss.
+
+<sup>6</sup> Vorbehalten bleibt die Prüfung anderer finanzmarktrechtlicher Bestimmungen im Rahmen der Aufsichtsprüfung des für die Verwaltung zuständigen Instituts nach Artikel 112 Absatz 1 KKV-FINMA[^126zocties-4] in der Fassung vom 1. Januar 2021[^126zocties-5].
+
+[^126zocties-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+[^126zocties-3]: [SR 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^126zocties-4]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-5]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
+
+### 2. Abschnitt: Prüfberichte
+
+#### Art. 126z<sup>novies</sup>
+
+**Prüfberichte**
+
+<sup>1</sup>
+
+Die Prüfgesellschaft erstattet:
+
+- a.
+
+  die folgenden Berichte zur Rechnungsprüfung:
+
+  - 1\. Prüfberichte über die Prüfung der Jahresrechnung nach Artikel 118*i* Absatz 2 KAG,
+  - 2\. Kurzberichte über die Prüfung des L-QIF;
+
+- b. Prüfberichte über die ergänzende Prüfung.
+
+<sup>2</sup> Bei einem L-QIF mit Teilvermögen ist für jedes Teilvermögen einzeln zu berichten.
+
+<sup>3</sup> Die Berichte sind in einer Amtssprache oder in Englisch zu verfassen.
+
+#### Art. 126z<sup>decies</sup>
+
+**Berichte zur Rechnungsprüfung**
+
+Für die Berichte zur Rechnungsprüfung gelten die Bestimmungen des OR[^126zdecies-1] über die ordentliche Revision sinngemäss.
+
+[^126zdecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>undecies</sup>
+
+**Kurzbericht**
+
+<sup>1</sup> Die Prüfgesellschaft muss den Kurzbericht rechtzeitig vor Publikation des Jahresberichts erstatten. Er ist von der zuständigen leitenden Prüferin oder dem zuständigen leitenden Prüfer und einer oder einem weiteren zeichnungsberechtigten Mitarbeitenden der Prüfgesellschaft zu unterzeichnen.
+
+<sup>2</sup> Der Kurzbericht muss sich zur Einhaltung der gesetzlichen, vertraglichen, statutarischen und reglementarischen Vorschriften über die Jahresrechnung und zur Prüfung der Angaben nach Artikel 89 Absatz 1 Buchstaben a–h KAG äussern, bei den L‑QIF mit Immobilienanlagen zusätzlich zu denjenigen nach Artikel 90 KAG.
+
+<sup>3</sup> Bei einem L-QIF in der Rechtsform der SICAV kann der Kurzbericht auch die Berichterstattung der Revisionsstelle nach Artikel 728*b* OR[^126zundecies-1] umfassen.
+
+<sup>4</sup> Die von der FINMA für allgemeinverbindlich erklärte Standard-Bestätigung der Branchenorganisation für Wirtschaftsprüfung gilt auch für den L‑QIF.
+
+[^126zundecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>duodecies</sup>
+
+**Prüfbericht über die ergänzende Prüfung**
+
+<sup>1</sup> Der Prüfbericht über die ergänzende Prüfung muss die Resultate der Prüfung umfassend, eindeutig und objektiv darstellen. Die leitende Prüferin oder der leitende Prüfer sowie eine weitere Prüferin oder ein weiterer Prüfer mit Zeichnungsberechtigung bestätigen dies mit ihren Unterschriften.
+
+<sup>2</sup> Der Prüfbericht ist dem Organ für die Oberleitung, Aufsicht und Kontrolle des für die Verwaltung des L‑QIF zuständigen Instituts sowie dem Organ für die Oberleitung, Aufsicht und Kontrolle des L‑QIF zur Kenntnis zu bringen. Er ist in einer Sitzung dieser Organe zu behandeln und die Behandlung ist zu protokollieren.
+
+#### Art. 126z
+
+**<sup>tredecies</sup>Wesentliche Mängel**
+
+<sup>1</sup> Stellt die Prüfgesellschaft im Rahmen ihrer Prüfungstätigkeit wesentliche Mängel fest, so muss sie diese als Beanstandungen in den Prüfbericht über die Aufsichtsprüfung des für die Verwaltung des L‑QIF zuständigen Instituts aufnehmen.
+
+<sup>2</sup> Die Verletzung einer Vorschrift nach Artikel 118*a* Absatz 1 KAG gilt immer als wesentlicher Mangel.
+
 ## 4. Titel: Ausländische kollektive Kapitalanlagen
 
 ### 1. Kapitel: Genehmigung
@@ -2420,9 +3243,19 @@ Trägt eine ausländische kollektive Kapitalanlage eine Bezeichnung, die zu Täu
 
 ### (Art. 120 Abs. 1 und 4 KAG)
 
-Das Werben für ausländische kollektive Kapitalanlagen löst die Pflichten nach Artikel 120 Absätze 1 und 4 des Gesetzes aus.
+Das Werben für ausländische kollektive Kapitalanlagen löst die Pflichten nach Artikel 120 Absätze 1 und 4 KAG aus.
 
 [^127a-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 127b
+
+**Ausländische ETF**[^127b-1]
+
+### (Art. 78 Abs. 3, 119 und 120 KAG)
+
+Die nach ausländischem Recht als ETF ausgestalteten Anteile oder Anteilsklassen einer ausländischen offenen kollektiven Kapitalanlage, die in der Schweiz nicht qualifizierten Anlegerinnen und Anlegern angeboten werden, müssen dauernd an einer schweizerischen Börse kotiert sein.
+
+[^127b-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 128
 
@@ -2457,7 +3290,7 @@ Für das Angebot ausländischer kollektiver Kapitalanlagen in der Schweiz regelt
 
 ### (Art. 124 Abs. 2 KAG)
 
-<sup>1</sup> Der Vertreter einer ausländischen kollektiven Kapitalanlage verfügt für die Erfüllung der Pflichten gemäss Artikel 124 des Gesetzes über eine angemessene Organisation.
+<sup>1</sup> Der Vertreter einer ausländischen kollektiven Kapitalanlage verfügt für die Erfüllung der Pflichten gemäss Artikel 124 KAG über eine angemessene Organisation.
 
 <sup>2</sup> Die FINMA regelt die Einzelheiten betreffend die Organisation und die Pflichten des Vertreters ausländischer kollektiver Kapitalanlagen.[^128a-2]
 
@@ -2480,7 +3313,7 @@ Die FINMA kann im Einzelfall für ausländische kollektive Anlagen ein vereinfac
 
 ### (Art. 120 Abs. 4 KAG)
 
-Ausländische kollektive Kapitalanlagen, die qualifizierten Anlegerinnen und Anlegern nach Artikel 5 Absatz 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^129a-2] (FIDLEG) im Rahmen eines auf Dauer angelegten Anlageberatungsverhältnisses im Sinne von Artikel 3 Buchstabe c Ziffer 4 FIDLEG angeboten werden, müssen die Voraussetzungen von Artikel 120 Absatz 2 Buchstabe d des Gesetzes nicht erfüllen.
+Ausländische kollektive Kapitalanlagen, die qualifizierten Anlegerinnen und Anlegern nach Artikel 5 Absatz 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^129a-2] (FIDLEG) im Rahmen eines auf Dauer angelegten Anlageberatungsverhältnisses im Sinne von Artikel 3 Buchstabe c Ziffer 4 FIDLEG angeboten werden, müssen die Voraussetzungen von Artikel 120 Absatz 2 Buchstabe d KAG nicht erfüllen.
 
 [^129a-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^129a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
@@ -2502,7 +3335,7 @@ Als Mitarbeiterbeteiligungspläne gelten Arbeitnehmerbeteiligungspläne gemäss 
 
 ### (Art. 15 und 120 KAG)
 
-Die Genehmigung für ausländische kollektive Kapitalanlagen nach den Artikeln 15 und 120 des Gesetzes fällt dahin, wenn die Aufsichtsbehörde des Herkunftslandes der kollektiven Kapitalanlage die Genehmigung entzieht.
+Die Genehmigung für ausländische kollektive Kapitalanlagen nach den Artikeln 15 und 120 KAG fällt dahin, wenn die Aufsichtsbehörde des Herkunftslandes der kollektiven Kapitalanlage die Genehmigung entzieht.
 
 ### 2. Kapitel: Vertreter ausländischer kollektiver Kapitalanlagen
 
@@ -2636,9 +3469,9 @@ Sie stellt den Prüfbericht nach Absatz 1 folgenden Adressatinnen zu:
 
 ### (Art. 126 Abs. 5 und 6 KAG)
 
-<sup>1</sup> Bei der Rechnungsprüfung kollektiver Kapitalanlagen werden die Angaben nach den Artikeln 89 Absatz 1 Buchstaben a–h und 90 des Gesetzes geprüft.
+<sup>1</sup> Bei der Rechnungsprüfung kollektiver Kapitalanlagen werden die Angaben nach den Artikeln 89 Absatz 1 Buchstaben a–h und 90 KAG geprüft.
 
-<sup>2</sup> Die FINMA kann bei der Rechnungsprüfung der in Artikel 126 Absatz 1 des Gesetzes genannten Personen, der verwalteten Anlagefonds sowie jeder zu den Immobilienfonds oder zu den Immobilieninvestmentgesellschaften gehörenden Immobiliengesellschaft die Einzelheiten betreffend Form, Inhalt, Periodizität, Fristen und Adressaten der Berichterstattung sowie betreffend Durchführung der Prüfung regeln.
+<sup>2</sup> Die FINMA kann bei der Rechnungsprüfung der in Artikel 126 Absatz 1 KAG genannten Personen, der verwalteten Anlagefonds sowie jeder zu den Immobilienfonds oder zu den Immobilieninvestmentgesellschaften gehörenden Immobiliengesellschaft die Einzelheiten betreffend Form, Inhalt, Periodizität, Fristen und Adressaten der Berichterstattung sowie betreffend Durchführung der Prüfung regeln.
 
 [^137-1]: Fassung gemäss Anhang Ziff. 3 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
@@ -2676,9 +3509,9 @@ Sie stellt den Prüfbericht nach Absatz 1 folgenden Adressatinnen zu:
 
 Die FINMA kann insbesondere für die folgenden Dokumente regeln, in welcher Form sie ihr zuzustellen sind:
 
-- a. Bewilligungs- und Genehmigungsgesuche nach den Artikeln 13 und 15 des Gesetzes sowie dazugehörige Dokumente;
+- a. Bewilligungs- und Genehmigungsgesuche nach den Artikeln 13 und 15 KAG sowie dazugehörige Dokumente;
 - b. Prospekte und Basisinformationsblätter;
-- c. Meldungen von Änderungen nach Artikel 16 des Gesetzes sowie dazugehörige Dokumente;
+- c. Meldungen von Änderungen nach Artikel 16 KAG sowie dazugehörige Dokumente;
 - d. Jahres- und Halbjahresberichte.[^142-1]
 
 <sup>2</sup> Sie kann einen Dritten als Zustellungsempfänger bezeichnen.
@@ -2731,6 +3564,18 @@ Die FINMA kann insbesondere für die folgenden Dokumente regeln, in welcher Form
 
 [^144c-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Aufgehoben durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
+#### Art. 144d
+
+**Übergangsbestimmung zur Änderung vom 31. Januar 2024**[^144d-1]
+
+<sup>1</sup> Die Fondsdokumente bestehender kollektiver Kapitalanlagen sind innert zwei Jahren ab Inkrafttreten der Änderung vom 31. Januar 2024 an die Anforderungen der Artikel 76 Absatz 4 und 106 Absätze 4 und 5 anzupassen. Die Frist gilt mit Einreichung der angepassten Dokumente an die zuständige Behörde als erfüllt.
+
+<sup>2</sup> Artikel 76 Absatz 5 findet für bestehende kollektive Kapitalanlagen erstmals Anwendung auf das Geschäftsjahr, das zwei Jahre nach Inkrafttreten des neuen Rechts beginnt.
+
+<sup>3</sup> Die Anforderungen von Artikel 108*a* sind in Bezug auf bestehende kollektive Kapitalanlagen innert zwei Jahren ab Inkrafttreten der Änderung vom 31. Januar 2024 zu erfüllen.
+
+[^144d-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 145
 
 **Inkrafttreten**
@@ -2739,15 +3584,9 @@ Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 106)
-
-- [tab]
-
 [^t-1]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 Anhang 2[^t-2]
-
-- [tab]
 
 [^t-2]: Aufgehoben durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 

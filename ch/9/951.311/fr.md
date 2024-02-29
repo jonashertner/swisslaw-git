@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2006 sur les placements collectifs de capitaux
 short: OPCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: fr
-version: 2022-01-01
+version: 2024-03-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20220101/fr"
 
 (Ordonnance sur les placements collectifs, OPCC)
 
-du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2022)
+du 22 novembre 2006 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
-vu la loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux (LPCC, dénommée ci-après «loi»)[^ingress-1],
+vu la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Titre 1 Dispositions générales
 
@@ -61,7 +62,7 @@ Quelle que soit sa forme juridique, un club d’investissement doit remplir les 
 
 <sup>1</sup>
 
-Par sociétés exerçant une activité commerciale ou industrielle, on entend, aux fins de l’application de la loi et indépendamment de leur forme juridique, les entreprises:
+Par sociétés exerçant une activité commerciale ou industrielle, on entend, aux fins de l’application de la LPCC et indépendamment de leur forme juridique, les entreprises:[^1b-2]
 
 - a. qui ont leur siège statutaire ou effectif en Suisse, ou sont établies en Suisse si elles ont leur siège statutaire dans un autre État;
 - b. qui exercent leur activité à titre professionnel ou pour un volume qui nécessite l’existence d’une entreprise organisée de façon commerciale, et
@@ -77,11 +78,13 @@ Sont considérées comme exerçant une activité commerciale ou industrielle en 
 
 <sup>3</sup> Par sociétés exerçant une activité commerciale ou industrielle, on entend également les entreprises qui font appel, dans le cadre de leur activité opérationnelle, à des prestataires tiers ou à des sociétés du même groupe, pour autant que les décisions entrepreneuriales relatives aux affaires courantes restent durablement de la compétence de l’entreprise elle-même en vertu d’un accord réglant explicitement les droits formateurs ainsi que les droits de piloter l’entreprise et de donner des instructions.
 
-<sup>4</sup> Par sociétés n’exerçant pas une activité commerciale ou industrielle, on entend les sociétés selon l’art. 13, al. 2, let. c et d de la loi, qui prennent le contrôle des droits de vote dans des entreprises ou siègent au sein de l’organe de direction suprême, de surveillance et de contrôle de leurs participations.
+<sup>4</sup> Par sociétés n’exerçant pas une activité commerciale ou industrielle, on entend les sociétés selon l’art. 13, al. 2, let. c et d, LPCC[^1b-3], qui prennent le contrôle des droits de vote dans des entreprises ou siègent au sein de l’organe de direction suprême, de surveillance et de contrôle de leurs participations.
 
 <sup>5</sup> Les sociétés exerçant une activité commerciale ou industrielle peuvent aussi opérer des investissements à des fins de placement. Ceux-ci ne doivent toutefois représenter qu’une activité accessoire ou auxiliaire secondaire par rapport au but principal de l’entreprise.
 
 [^1b-1]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1b-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^1b-3]: Nouvelle expression selon le ch. I al. 1 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 1c
 
@@ -109,23 +112,29 @@ Les sociétés d’investissement nouvellement créées, dont le prospectus d’
 
 **Définition des placements collectifs**[^5-1]
 
-### (art. 7, al. 3 et 4, LPCC)
+### (art. 7, al. 1, 3 et 4, LPCC)
+
+[^5-2]
 
 <sup>1</sup> Sont considérés comme placements collectifs, quelle que soit leur forme juridique, des apports constitués par au moins deux investisseurs indépendants pour être investis en commun et être administrés par des tiers.
 
 <sup>2</sup> Des investisseurs sont indépendants lorsqu’ils apportent des avoirs gérés distinctement d’un point de vue juridique et de faits.
 
-<sup>3</sup> L’exigence relative à l’indépendance des avoirs visée à l’al. 2 ne s’applique pas aux sociétés du même groupe d’entreprises visées à l’art. 3 de l’ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)[^5-2].[^5-3]
+<sup>3</sup> L’exigence relative à l’indépendance des avoirs visée à l’al. 2 ne s’applique pas aux sociétés du même groupe d’entreprises visées à l’art. 3 de l’ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)[^5-3].[^5-4]
 
-<sup>4</sup> La fortune d’un placement collectif peut être constituée par un seul investisseur (fonds à investisseur unique) s’il s’agit d’un investisseur mentionné à l’art. 4, al. 3, let. b, e ou f, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^5-4].[^5-5]
+<sup>4</sup> La fortune d’un placement collectif peut être constituée par un seul investisseur (fonds à investisseur unique) s’il s’agit d’un investisseur mentionné à l’art. 4, al. 3, let. b, e ou f, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^5-5].[^5-6]
 
-<sup>5</sup> La restriction du cercle des investisseurs à l’investisseur visé à l’al. 4 doit être mentionnée dans les documents déterminants d’après l’art. 15, al. 1 de la loi.
+<sup>5</sup> La restriction du cercle des investisseurs à l’investisseur visé à l’al. 4 doit être mentionnée dans les documents déterminants d’après l’art. 15, al. 1, LPCC.
+
+<sup>6</sup> Les directions de fonds, les sociétés d’investissement à capital variable (SICAV), les sociétés en commandite de placements collectifs (SCmPC) et les sociétés d’investissement à capital fixe (SICAF) répondent de ce que les placements collectifs qu’elles administrent conservent durablement les caractéristiques d’un placement collectif définies à l’art. 7 LPCC et dans le présent article.[^5-7]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^5-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^5-3]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-4]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-5]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-4]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-6]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-7]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 6
 
@@ -141,7 +150,7 @@ Les sociétés d’investissement nouvellement créées, dont le prospectus d’
 
 L’intermédiaire financier:
 
-- a. informe les investisseurs au sens de l’art. 10, al. 3<sup>ter</sup>, de la loi qu’ils sont considérés comme des investisseurs qualifiés;
+- a. informe les investisseurs au sens de l’art. 10, al. 3<sup>ter</sup>, LPCC qu’ils sont considérés comme des investisseurs qualifiés;
 - b. les éclaire sur les risques qui en découlent, et
 - c. leur signale qu’ils peuvent déclarer en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte ne pas vouloir être considérés comme des investisseurs qualifiés.
 
@@ -157,14 +166,16 @@ L’intermédiaire financier:
 
 ### (art. 13 et 14, LPCC)
 
-Quiconque requiert une autorisation en vertu de l’art. 13 de la loi doit soumettre les documents suivants à la FINMA:
+Quiconque requiert une autorisation en vertu de l’art. 13 LPCC doit soumettre les documents suivants à l’Autorité fédérale de surveillance des marchés financiers (FINMA):[^7-1]
 
-- a.[^7-1] les statuts et le règlement d’organisation s’il s’agit d’une SICAV ou d’une SICAF;
-- b. le contrat de société s’il s’agit d’une société en commandite de placements collectifs;
-- c.[^7-2] les documents d’organisation pertinents s’il s’agit d’un représentant de placements collectifs étrangers.
+- a.[^7-2] les statuts et le règlement d’organisation s’il s’agit d’une SICAV ou d’une SICAF;
+- b. le contrat de société s’il s’agit d’une société en commandite de placements collectifs (SCmPC[^7-3]);
+- c.[^7-4] les documents d’organisation pertinents s’il s’agit d’un représentant de placements collectifs étrangers.
 
-[^7-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^7-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-3]: Nouvelle expression selon le ch. I al. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^7-4]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 8
 
@@ -188,11 +199,12 @@ Le titulaire d’une autorisation en tant que direction de fonds est dispensé d
 
 ### (art. 14, al. 1, let. a, a<sup>bis</sup> et b, LPCC)
 
-<sup>1</sup> Les personnes responsables de l’administration et de la direction des affaires doivent, de par leur formation, leur expérience et leur carrière, être suffisamment qualifiées pour exercer l’activité prévue.
+<sup>1</sup> Les personnes responsables de l’administration et de la gestion[^10-2] doivent, de par leur formation, leur expérience et leur carrière, être suffisamment qualifiées pour exercer l’activité prévue.
 
 <sup>2</sup> Lors de la fixation des exigences à remplir, il y a lieu de tenir compte, entre autres, de l’activité prévue auprès du titulaire et du type de placements envisagés.
 
 [^10-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10-2]: Nouvelle expression selon le ch. I al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 11
 
@@ -234,7 +246,10 @@ Le titulaire d’une autorisation en tant que direction de fonds est dispensé d
 
 <sup>4</sup> La FINMA peut accorder des dérogations à ces exigences si les circonstances le justifient.
 
+<sup>5</sup> Elle peut régler les modalités de la gestion des risques, du contrôle interne et de la mise en conformité.[^12a-2]
+
 [^12a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^12a-2]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12b
 
@@ -248,10 +263,11 @@ Le titulaire d’une autorisation en tant que direction de fonds est dispensé d
 
 Sont considérées comme des tâches essentielles:
 
-- a. pour les SICAV: les tâches visées à l’art. 26 LPCC;
+- a.[^12b-2] pour les SICAV: les tâches visées à l’art. 36 LPCC;
 - b. pour les représentants de placements collectifs étrangers: les tâches visées à l’art. 124 LPCC.
 
 [^12b-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12b-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12c
 
@@ -315,7 +331,7 @@ Pour les placements collectifs étrangers, les documents suivants doivent être 
 - b.[^13a-2] la feuille d’information de base visée aux art. 58 à 63 et 66 LSFin[^13a-3];
 - c. le contrat de placement collectif des placements collectifs contractuels;
 - d. les statuts et le règlement de placement ou le contrat de société des placements collectifs organisés selon le droit des sociétés;
-- e. les autres documents qui seraient nécessaires pour une approbation selon le droit étranger applicable et qui correspondent à ceux à fournir pour les placements collectifs suisses conformément à l’art. 15 al. 1 de la loi.
+- e. les autres documents qui seraient nécessaires pour une approbation selon le droit étranger applicable et qui correspondent à ceux à fournir pour les placements collectifs suisses conformément à l’art. 15 al. 1, LPCC.
 
 [^13a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
@@ -331,13 +347,15 @@ Pour les placements collectifs étrangers, les documents suivants doivent être 
 
 <sup>2</sup>
 
-Les modifications des documents visés à l’art. 15 de la loi doivent être soumises pour approbation à la FINMA, à l’exception:
+Les modifications des documents visés à l’art. 15 LPCC doivent être soumises pour approbation à la FINMA, à l’exception:[^14-1]
 
 - a. des documents correspondants de placements collectifs étrangers;
-- b. de la modification du montant de la commandite dans le contrat de société de la société en commandite de placements collectifs;
-- c.[^14-1] des modifications des documents d’un placement collectif suisse soumis à approbation et qui concernent exclusivement des dispositions relatives à des restrictions de vente ou de distribution et qui sont exigés en vertu de législations étrangères, de traités internationaux, de conventions internationales ou prudentielles et d’actes comparables.
+- b.[^14-2] de la modification du montant ou de la fourchette du total des commandites dans le contrat de société de la SCmPC;
+- c.[^14-3] des modifications des documents d’un placement collectif suisse soumis à approbation et qui concernent exclusivement des dispositions relatives à des restrictions de vente ou de distribution et qui sont exigés en vertu de législations étrangères, de traités internationaux, de conventions internationales ou prudentielles et d’actes comparables.
 
-[^14-1]: Introduite par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-3]: Introduite par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 15
 
@@ -349,33 +367,34 @@ Les modifications des documents visés à l’art. 15 de la loi doivent être so
 
 Les titulaires, à l’exception de la banque dépositaire, annoncent:
 
-- a. le changement des personnes responsables de l’administration et de la direction des affaires;
-- b. les faits de nature à remettre en question la bonne réputation des personnes responsables de l’administration et de la direction des affaires ou la garantie d’une activité irréprochable qu’elles doivent offrir, notamment l’ouverture d’une procédure pénale à leur encontre;
-- c. le changement des personnes détenant une participation qualifiée, à l’exception des actionnaires investisseurs d’une SICAV et des commanditaires d’une société en commandite de placements collectifs;
+- a. le changement des personnes responsables de l’administration et de la gestion;
+- b.[^15-1] les faits de nature à remettre en question la bonne réputation des personnes responsables de l’administration et de la gestion ou la garantie d’une activité irréprochable qu’elles doivent offrir, notamment l’ouverture d’une procédure pénale à leur encontre;
+- c. le changement des personnes détenant une participation qualifiée, à l’exception des actionnaires investisseurs d’une SICAV et des commanditaires d’une SCmPC;
 - d. les faits de nature à compromettre la bonne réputation des personnes détenant une participation qualifiée, notamment l’ouverture d’une procédure pénale à leur encontre;
 - e. les faits qui remettent en question une gestion saine et prudente du titulaire en raison de l’influence exercée par les personnes détenant une participation qualifiée;
 - f. les changements ayant trait aux garanties financières (art. 13), en particulier la non-observation des exigences minimales.
 
 <sup>2</sup> La banque dépositaire annonce le changement des personnes responsables des tâches relevant de cette dernière (art. 72, al. 2, LPCC);
 
-<sup>3</sup> Les modifications du prospectus et de la feuille d’information de base visée aux art. 58 à 63 et 66 LSFin[^15-1] doivent également être annoncées.[^15-2]
+<sup>3</sup> Les modifications du prospectus et de la feuille d’information de base visée aux art. 58 à 63 et 66 LSFin[^15-2] doivent également être annoncées.[^15-3]
 
 <sup>4</sup>
 
-Les représentants de placements collectifs étrangers qui ne sont pas offerts exclusivement à des investisseurs qualifiés doivent en outre annoncer:[^15-3]
+Les représentants de placements collectifs étrangers qui ne sont pas offerts exclusivement à des investisseurs qualifiés doivent en outre annoncer:[^15-4]
 
-- a.[^15-4] les mesures prononcées par une autorité de surveillance étrangère contre le placement collectif, notamment le retrait de l’autorisation;
-- b.[^15-5] les modifications des documents de placements collectifs étrangers visés à l’art. 13*a*;
-- c.[^15-6] …
+- a.[^15-5] les mesures prononcées par une autorité de surveillance étrangère contre le placement collectif, notamment le retrait de l’autorisation;
+- b.[^15-6] les modifications des documents de placements collectifs étrangers visés à l’art. 13*a*;
+- c.[^15-7] …
 
 <sup>5</sup> L’annonce doit être effectuée sans délai à la FINMA. Celle-ci constate la conformité à la loi.
 
-[^15-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^15-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^15-3]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^15-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^15-5]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^15-6]: Abrogée par le ch. I de l’O du 13 fév. 2013, avec effet au 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^15-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-3]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^15-4]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^15-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^15-6]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-7]: Abrogée par le ch. I de l’O du 13 fév. 2013, avec effet au 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 16
 
@@ -434,7 +453,7 @@ Les investisseurs doivent:
 - a. être préalablement avertis de la possibilité d’une modification;
 - b. être informés dans les organes de publication de toute modification apportée ultérieurement.
 
-### Section 2 ...
+### Section 2 …
 
 [^tit1-chap3-sec2-1]
 
@@ -513,10 +532,10 @@ Les sociétés de personnes peuvent imputer sur leurs fonds propres:[^22-2]
 
 - a. les comptes de capital;
 - b. la commandite;
-- c.[^22-3] ...
+- c.[^22-3] …
 - d. les avoirs des associés indéfiniment responsables, pour autant que les conditions prévues à l’art. 20, al. 3, soient remplies.
 
-<sup>3</sup> ...[^22-4]
+<sup>3</sup> …[^22-4]
 
 <sup>4</sup> Les fonds propres cumulés visés aux al. 1 et 2 doivent constituer au moins 50 % de la totalité des fonds propres exigibles.
 
@@ -535,7 +554,7 @@ Doivent être déduits lors du calcul des fonds propres:
 
 - a. la perte reportée et la perte de l’exercice en cours;
 - b. les correctifs de valeur et provisions nécessaires non couverts de l’exercice en cours;
-- c.[^23-1] ...
+- c.[^23-1] …
 - d. les valeurs immatérielles (y compris les frais de fondation et d’organisation, ainsi que le Goodwill), à l’exception des logiciels;
 - e. pour les sociétés anonymes et les sociétés en commandite de placements collectifs, les actions détenues par la société à ses risques et périls;
 - f. pour les sociétés à responsabilité limitée, les parts sociales détenues par la société à ses risques et périls;
@@ -598,7 +617,7 @@ Doivent être déduits lors du calcul des fonds propres:
 
 ### (art. 20, al. 1, let. a, LPCC)
 
-<sup>1</sup> Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires ne peuvent acquérir pour leur compte des parts de placements collectifs ou en céder à ces derniers qu’au prix du marché.[^31-1]
+<sup>1</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires ne peuvent acquérir, pour leur propre compte, des investissements de placements collectifs ou en céder à ces derniers qu’au prix du marché.[^31-1]
 
 <sup>2</sup> Ils doivent renoncer, pour les prestations déléguées à des tiers, à la rémunération qui leur revient en vertu du règlement, du contrat de société, du règlement de placement ou du contrat de gestion de fortune, à moins qu’elle ne serve à payer les tiers pour les prestations fournies.
 
@@ -606,7 +625,7 @@ Doivent être déduits lors du calcul des fonds propres:
 
 <sup>4</sup>
 
-Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires ne peuvent percevoir aucune commission d’émission ou de rachat, s’ils acquièrent des fonds cibles:[^31-2]
+Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires ne peuvent percevoir aucune commission d’émission ou de rachat, s’ils acquièrent des fonds cibles:[^31-2]
 
 - a. gérés directement ou indirectement par eux-mêmes, ou
 - b.
@@ -621,11 +640,23 @@ Les personnes qui administrent, gardent ou représentent des placements collecti
 
 <sup>6</sup> L’autorité de surveillance règle les modalités. Elle peut déclarer les al. 4 et 5 applicables à d’autres produits.[^31-5]
 
-[^31-1]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^31-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^31-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^31-3]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
 [^31-4]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
 [^31-5]: Introduit par le ch. I de l’O du 28 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
+
+#### Art. 31a
+
+**Exécution optimale des opérations sur valeurs mobilières et des autres transactions**[^31a-1]
+
+### (art. 20, al. 1, let. a, LPCC)
+
+<sup>1</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires doivent sélectionner, avec toute la diligence requise, les contreparties pour les opérations sur valeurs mobilières et les autres transactions. Ils doivent s’assurer que l’exécution de ces opérations et autres transactions offre le meilleur résultat possible d’un point de vue financier, temporel et qualitatif.
+
+<sup>2</sup> Sur le plan financier, ils doivent tenir compte non seulement du prix de l’instrument financier, mais également des coûts liés à l’exécution de l’ordre et des rémunérations reçues de tiers.
+
+[^31a-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 32
 
@@ -633,15 +664,15 @@ Les personnes qui administrent, gardent ou représentent des placements collecti
 
 ### (art. 20, al. 1, let. a, 21, al. 3, et 63, LPCC)
 
-<sup>1</sup> Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires fixent les honoraires versés aux personnes physiques ou morales qui leur sont proches et qui collaborent, pour le compte du placement collectif, à la conception, à la construction, à l’acquisition ou à la vente d’un objet immobilier uniquement d’après les tarifs usuels de la branche.[^32-1]
+<sup>1</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires peuvent fixer les honoraires versés aux personnes physiques ou morales qui leur sont proches et qui collaborent, pour le compte du placement collectif, à la conception, à la construction, à l’acquisition ou à la vente d’un objet immobilier uniquement d’après les tarifs usuels de la branche.[^32-1]
 
 <sup>2</sup> L’expert chargé des estimations vérifie les factures des honoraires avant leur règlement et adresse le cas échéant un rapport au titulaire et à la société d’audit.
 
 <sup>3</sup> Si des placements immobiliers d’un placement collectif sont transférés à un autre placement collectif géré par le même titulaire ou par un titulaire proche de ce dernier, aucune commission d’achat ou de vente n’est perçue.
 
-<sup>4</sup> Les prestations fournies par les sociétés immobilières aux membres de leur administration, à la direction des affaires et au personnel sont imputées sur la rémunération à laquelle la direction et la SICAV ont droit en vertu du règlement.
+<sup>4</sup> Les prestations fournies par les sociétés immobilières aux membres de leur administration, à la personnes responsables de la gestion et au personnel sont imputées sur la rémunération à laquelle la direction et la SICAV ont droit en vertu du règlement.
 
-[^32-1]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 32a
 
@@ -651,11 +682,11 @@ Les personnes qui administrent, gardent ou représentent des placements collecti
 
 <sup>1</sup>
 
-En vertu de l’art. 63, al. 4, de la loi, la FINMA peut, pour de justes motifs, autoriser des dérogations à l’interdiction d’effectuer des transactions avec les personnes proches visées à l’art. 63, al. 2 et 3, de la loi, lorsque:
+En vertu de l’art. 63, al. 4, LPCC, la FINMA peut, pour de justes motifs, autoriser des dérogations à l’interdiction d’effectuer des transactions avec les personnes proches visées à l’art. 63, al. 2 et 3, LPCC, lorsque:
 
 - a. les documents afférents au placement collectif prévoient cette possibilité;
 - b. la dérogation est dans l’intérêt des investisseurs;
-- c. en sus de l’estimation des experts permanents du fonds immobilier, un expert selon l’art. 64, al. 1, de la loi, indépendant des experts du fonds et de leur employeur, de la direction ou de la SICAV ainsi que de la banque dépositaire, confirme que le prix d’achat et le prix de vente de la valeur immobilière, de même que les frais de transaction, sont conformes au marché.
+- c. en sus de l’estimation des experts permanents du fonds immobilier, un expert selon l’art. 64, al. 1, LPCC, indépendant des experts du fonds et de leur employeur, de la direction ou de la SICAV ainsi que de la banque dépositaire, confirme que le prix d’achat et le prix de vente de la valeur immobilière, de même que les frais de transaction, sont conformes au marché.
 
 <sup>2</sup>
 
@@ -678,23 +709,23 @@ Au terme de la transaction, la direction ou la SICAV établit un rapport contena
 
 **Conflits d’intérêts**[^32b-1]
 
-### (art. 20, al. 1, let. a, LPCC)
+### (art. 20, al. 21, let. a, LPCC)
 
-Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires sont tenus de prendre des mesures organisationnelles et administratives efficaces servant à identifier, prévenir, régler et surveiller les conflits d’intérêts, afin d’empêcher ceux-ci de porter atteinte aux intérêts des investisseurs. Si un conflit d’intérêts ne peut pas être évité, il doit être porté à la connaissance des investisseurs.
+Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires sont tenus de prendre des mesures organisationnelles et administratives efficaces servant à identifier, prévenir, régler et surveiller les conflits d’intérêts, afin d’empêcher ceux-ci de porter atteinte aux intérêts des investisseurs. Si un conflit d’intérêts ne peut pas être évité, il doit être porté à la connaissance des investisseurs.
 
-[^32b-1]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^32b-1]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 33
 
-**Devoir de diligence**
+**Devoir de diligence**[^33-1]
 
 ### (art. 20, al. 1, let. b, LPCC)
 
-<sup>1</sup> Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires veillent à ce que les activités de décision (gestion), d’exécution (négoce et règlement) et d’administration soient séparées de manière effective.[^33-1]
+<sup>1</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires doivent veiller à ce que les activités de décision (gestion de fortune), d’exécution (négoce et règlement) et d’administration soient séparées de manière effective.
 
-<sup>2</sup> La FINMA peut, pour de justes motifs, prévoir des dérogations ou ordonner la séparation d’autres fonctions.
+<sup>2</sup> La FINMA peut régler les modalités et peut, pour de justes motifs, prévoir des dérogations ou ordonner la séparation d’autres fonctions.
 
-[^33-1]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34
 
@@ -702,15 +733,17 @@ Les personnes qui administrent, gardent ou représentent des placements collecti
 
 ### (art. 20, al. 1, let. c, et 23 LPCC)
 
-<sup>1</sup> Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires signalent aux investisseurs en particulier les risques liés à un type de placement donné.
+<sup>1</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires doivent signaler en particulier aux investisseurs les risques liés à un type de placement donné.[^34-3]
 
 <sup>2</sup> Ils indiquent tous les coûts liés à l’émission et au rachat de parts ainsi qu’à l’administration du placement collectif. Ils indiquent également l’utilisation de la commission de gestion ainsi que la perception d’une éventuelle commission de performance (*performance fee*).
 
 <sup>3</sup> Le devoir d’information relatif aux indemnités de distribution de placements collectifs s’applique à la nature et au montant de toutes les commissions et de tous les autres avantages pécuniaires destinés à rémunérer cette activité.
 
-<sup>4</sup> Les personnes qui administrent, gardent ou représentent des placements collectifs ainsi que leurs mandataires garantissent, en matière d’exercice des droits attachés à la qualité de sociétaire ou de créancier, la transparence qui permet aux investisseurs de reconstituer les modalités de cet exercice.
+<sup>4</sup> Les personnes qui administrent ou gardent des placements collectifs suisses ou qui administrent ou représentent des placements collectifs étrangers ainsi que leurs mandataires doivent garantir, en matière d’exercice des droits attachés à la qualité de sociétaire ou de créancier, la transparence qui permet aux investisseurs de reconstituer les modalités de cet exercice.[^34-4]
 
 [^34-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^34-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^34-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34a
 
@@ -789,9 +822,11 @@ Le contrat de fonds de placement décrit les placements autorisés:
 - a. par type (droits de participation, créances, instruments financiers dérivés, immeubles d’habitation, immeubles à usage commercial, métaux précieux, produits de base, etc.);
 - b. par pays, groupes de pays, secteurs économiques ou devises.
 
-<sup>2</sup> S’agissant des autres fonds visés aux art. 68 ss de la loi, il renseigne, en outre, sur les particularités et les risques inhérents à chaque placement, leurs caractéristiques et leurs évaluations.
+<sup>2</sup> S’agissant des autres fonds visés aux art. 68 à 71 LPCC et des *Limited Qualified Investor Funds* (L‑QIF) visés à l’art. 118*a* LPCC, il renseigne, en outre, sur les particularités et les risques inhérents à chaque placement, leurs caractéristiques et leur évaluation.[^36-1]
 
 <sup>3</sup> Le contrat de fonds de placement décrit les techniques et les instruments de placement autorisés.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 37
 
@@ -814,39 +849,44 @@ Peuvent être imputés à la fortune du fonds ou des compartiments:
 
 Si le contrat de fonds de placement le prévoit expressément, les frais accessoires suivants peuvent être imputés à la fortune du fonds ou des compartiments:
 
-- a. les frais d’achat et de vente de placements, notamment courtages usuels du marché, commissions, impôts et taxes, ainsi que les frais d’examen et de maintien des normes de qualité de placements physiques;
-- b.[^37-5] ...
+- a.[^37-5] les frais liés à l’achat et à la vente de placements, opérations de couverture incluses, notamment courtages usuels du marché, commissions, frais de décompte et de traitement, frais bancaires, impôts et taxes, ainsi que les frais d’examen et de maintien des normes de qualité de placements physiques;
+- b.[^37-6] …
 - c. les taxes perçues par l’autorité de surveillance pour la constitution, la modification, la liquidation, la fusion ou le regroupement de fonds ou d’éventuels compartiments;
 - d. les émoluments annuels de l’autorité de surveillance;
-- e. les honoraires de la société d’audit pour la révision annuelle et pour les attestations délivrées en relation avec la constitution, la modification, la liquidation, la fusion ou le regroupement de fonds ou d’éventuels compartiments;
+- e.[^37-7] les honoraires de la société d’audit pour l’audit et pour les attestations délivrées en relation avec la constitution, la modification, la liquidation, la fusion ou le regroupement de fonds ou d’éventuels compartiments;
 - f. les honoraires de conseillers juridiques et fiscaux en relation avec la constitution, la modification, la liquidation, la fusion ou le regroupement de fonds ou de leurs éventuels compartiments, ainsi qu’avec la défense générale des intérêts du fonds et de ses investisseurs;
-- g. les frais de notaire et frais d’inscription au registre du commerce de titulaires d’une autorisation au sens de la législation sur les placements collectifs;
-- h. les frais de publication de la valeur nette d’inventaire du fonds ou de ses compartiments ainsi que tous les frais occasionnés par les communications aux investisseurs y compris les frais de traduction), pour autant qu’elles ne soient pas imputables à un comportement fautif de la direction;
-- i. les frais d’impression de documents juridiques ainsi que des rapports annuels et semestriels du fonds;
+- g.[^37-8] les frais de notaire et les frais d’inscription au registre du commerce de placements collectifs, ainsi que les frais de modification des faits inscrits dans le registre;
+- h.[^37-9] les frais de publication de la valeur nette d’inventaire du fonds ou de ses compartiments ainsi que tous les frais occasionnés par les communications aux investisseurs, y compris ceux de traduction, pour autant qu’ils ne soient pas imputables à un comportement fautif de la direction;
+- i.[^37-10] les frais d’impression et de traduction de documents juridiques ainsi que des rapports annuels et semestriels du fonds;
 - j. les frais occasionnés par l’éventuel enregistrement du fonds auprès d’une autorité de surveillance étrangère, notamment les émoluments perçus par l’autorité de surveillance étrangère, frais de traduction et indemnités versées au représentant ou au service de paiement à l’étranger;
 - k. les frais en relation avec l’exercice de droits de vote ou de droits de créancier par le fonds, y compris les honoraires de conseillers externes;
 - l. les frais et honoraires liés à des droits de propriété intellectuelle déposés au nom du fonds ou pris en licence par ce dernier;
 - m. la rémunération des membres du Conseil d’administration de la SICAV et les frais pour l’assurance responsabilité civile;
-- n. tous les frais occasionnés par des mesures extraordinaires prises par la direction, le gestionnaire de fortune collective ou la banque dépositaire pour défendre les intérêts des investisseurs.
+- n. tous les frais occasionnés par des mesures extraordinaires prises par la direction, le gestionnaire de fortune collective ou la banque dépositaire pour défendre les intérêts des investisseurs;
+- o.[^37-11] les frais d’enregistrement ou de renouvellement d’un identificateur d’entité juridique (*Legal Entity Identifier*) auprès d’un bureau d’enregistrement en Suisse ou à l’étranger;
+- p.[^37-12] les frais et émoluments liés à la cotation du fonds;
+- q.[^37-13] les frais et émoluments liés à l’achat et à l’utilisation de données et de licences de données, pour autant qu’ils puissent être imputés au fonds et qu’ils ne constituent pas des frais de recherche;
+- r.[^37-14] les frais et émoluments liés à l’utilisation de labels indépendants et à l’examen effectué par ceux-ci.
 
 <sup>2bis</sup>
 
-Pour les fonds immobiliers, les frais accessoires suivants peuvent aussi être imputés à la fortune du fonds ou des compartiments, si le contrat de fonds de placement le prévoit expressément:
+Pour les fonds immobiliers et les L-QIF détenant des placements immobiliers, les frais accessoires suivants peuvent aussi être imputés à la fortune du fonds ou des compartiments, si le contrat de fonds de placement le prévoit expressément:[^37-15]
 
 - a. les frais d’achat et de vente de placements immobiliers, notamment les commissions d’intermédiaire usuelles du marché, les honoraires de conseiller, d’avocat et de notaire, ainsi que les autres émoluments et les impôts;
-- b. les courtages usuels du marché payés à des tiers en relation avec la location initiale de biens immobiliers;
+- b.[^37-16] les courtages usuels du marché payés à des tiers en relation avec la location initiale et la relocation de biens immobiliers;
 - c. les coûts usuels du marché payés pour l’administration d’immeubles par des tiers;
-- d. les frais liés aux immeubles, en particulier les frais d’entretien et d’exploitation, y compris les frais d’assurance, les contributions de droit public et les frais de prestations de services et de services d’infrastructure, dans la mesure où ils correspondent aux frais usuels du marché et ne sont pas imputés à des tiers;
+- d.[^37-17] les frais liés aux immeubles, dans la mesure où ils correspondent aux frais usuels du marché et ne sont pas imputés à des tiers, en particulier les frais d’entretien et d’exploitation, y compris les frais d’assurance, les contributions de droit public et les frais de prestations de services et de services d’infrastructure;
 - e. les honoraires des experts indépendants chargés des estimations et des éventuels autres experts mandatés pour procéder à des clarifications servant les intérêts des investisseurs;
-- f. les frais de conseil et de procédure en relation avec la protection générale des intérêts du fonds immobilier et de ses investisseurs.[^37-6]
+- f. les frais de conseil et de procédure en relation avec la protection générale des intérêts du fonds immobilier et de ses investisseurs:
+- g.[^37-18] les frais et émoluments servant à assurer un négoce régulier en bourse ou hors bourse des parts du fonds.[^37-19]
 
 <sup>2ter</sup>
 
-La direction d’un fonds immobilier peut percevoir une commission pour le travail fourni en relation avec les activités suivantes, pour autant que le contrat de fonds de placement le prévoie expressément et que l’activité ne soit pas exécutée par des tiers:
+La direction d’un fonds immobilier ou d’un L-QIF détenant des placements immobiliers peut percevoir une commission pour le travail fourni en relation avec les activités suivantes, pour autant que le contrat de fonds de placement le prévoie expressément et que l’activité ne soit pas exécutée par des tiers:[^37-20]
 
 - a. achat et vente de biens-fonds, en fonction du prix d’achat ou de vente;
 - b. construction d’immeubles, rénovations et transformations, en fonction des coûts de construction;
-- c. administration d’immeubles, en fonction des recettes locatives brutes annuelles.[^37-7]
+- c. administration d’immeubles, en fonction des recettes locatives brutes annuelles.[^37-21]
 
 <sup>3</sup> Le contrat de fonds de placement présente une vue d’ensemble uniforme des rémunérations et des frais accessoires, ventilés selon le type, le montant maximal et le mode de calcul.
 
@@ -858,9 +898,23 @@ La direction d’un fonds immobilier peut percevoir une commission pour le trava
 [^37-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-3]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-4]: Introduite par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-5]: Abrogée par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-6]: Introduit par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-7]: Introduit par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-6]: Abrogée par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-7]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-9]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-10]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-11]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-12]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-13]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-14]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-15]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-16]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-17]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-18]: Introduite par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-19]: Introduit par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^37-20]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-21]: Introduit par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 38
 
@@ -887,12 +941,13 @@ Peuvent être mis à la charge des investisseurs:
 
 [^39-1]
 
-<sup>1</sup> Le prospectus du fonds de placement doit désigner un ou plusieurs organes de publication dans lesquels les informations exigées par la loi et l’ordonnance sont mises à la disposition des investisseurs. Peuvent être désignés comme organes de publication des médias imprimés ou des plateformes électroniques accessibles au public et reconnues par la FINMA.[^39-2]
+<sup>1</sup> Le prospectus du fonds de placement doit désigner un ou plusieurs organes de publication dans lesquels les informations exigées par la LPCC et dans la présente ordonnance sont mises à la disposition des investisseurs.[^39-2] Peuvent être désignés comme organes de publication des médias imprimés ou des plateformes électroniques accessibles au public et reconnues par la FINMA.[^39-3]
 
 <sup>2</sup> L’intégralité des éléments soumis à publication pour lesquels les investisseurs peuvent faire valoir un droit d’opposition auprès de la FINMA, de même que la dissolution du fonds de placement, doivent être publiés dans les organes de publication prévus à cet effet.
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^39-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^39-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^39-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 40
 
@@ -904,13 +959,13 @@ Peuvent être mis à la charge des investisseurs:
 
 <sup>2</sup> Les modalités sont réglées dans le prospectus. Celui-ci doit expressément mentionner le risque découlant du fait qu’une classe de parts peut répondre des engagements d’une autre classe de parts.
 
-<sup>3</sup> La direction publie la création, la suppression ou le regroupement de classes de parts dans les organes de publication. Seul le regroupement est considéré comme une modification du contrat de fonds de placement et, par conséquent, soumis à l’art. 27 de la loi.
+<sup>3</sup> La direction publie la création, la suppression ou le regroupement de classes de parts dans les organes de publication. Seul le regroupement est considéré comme une modification du contrat de fonds de placement et, par conséquent, soumis à l’art. 27 LPCC.
 
 <sup>4</sup> L’art. 112, al. 3, let. a à c, est applicable par analogie.
 
-<sup>5</sup> Les parts ou classes de parts d’un *Exchange Traded Fund* (ETF) suisse doivent être cotées en permanence à une bourse suisse autorisée. Si un placement collectif étranger dont l’offre à des investisseurs non qualifiés en Suisse a été approuvée est un ETF, il faut qu’au moins les parts ou classes de parts offertes à des investisseurs non qualifiés en Suisse soient cotées en permanence à une bourse suisse autorisée.[^40-1]
+<sup>5</sup> …[^40-1]
 
-[^40-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^40-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 41
 
@@ -918,22 +973,23 @@ Peuvent être mis à la charge des investisseurs:
 
 ### (art. 27, al. 2 et 3, LPCC)
 
-<sup>1</sup> La direction est tenue de publier toute modification du contrat de fonds de placement dans les organes de publication du fonds concerné sous la forme prévue par la loi. Par le biais de la publication, la direction indique aux investisseurs de manière claire et compréhensible les modifications du contrat de fonds de placement qui sont examinées et contrôlées sous l’angle de la conformité à la loi par la FINMA.[^41-1]
+<sup>1</sup> La direction est tenue de publier toute modification du contrat de fonds de placement dans les organes de publication du fonds concerné sous la forme prévue par la LPCC.[^41-1] Par le biais de la publication, la direction indique aux investisseurs de manière claire et compréhensible les modifications du contrat de fonds de placement qui sont examinées et contrôlées sous l’angle de la conformité à la loi par la FINMA.[^41-2]
 
-<sup>1bis</sup> La FINMA peut soustraire à l’obligation de publication les modifications exigées par la loi qui ne touchent pas aux droits des investisseurs ou sont de nature exclusivement formelle.[^41-2]
+<sup>1bis</sup> La FINMA peut soustraire à l’obligation de publication les modifications exigées par la loi qui ne touchent pas aux droits des investisseurs ou sont de nature exclusivement formelle.[^41-3]
 
 <sup>2</sup> Le délai pour faire valoir des objections contre une modification du contrat de fonds de placement court à compter du jour suivant la parution dans les organes de publication.
 
-<sup>2bis</sup> Lors de l’approbation de la modification du contrat de fonds de placement, la FINMA examine uniquement les modifications des dispositions au sens de l’art. 35*a*, al. 1, let a à g et contrôle leur conformité à la loi.[^41-3]
+<sup>2bis</sup> Lors de l’approbation de la modification du contrat de fonds de placement, la FINMA examine uniquement les modifications des dispositions au sens de l’art. 35*a*, al. 1, let a à g et contrôle leur conformité à la loi.[^41-4]
 
-<sup>2ter</sup> Si le fonds de placement est proposé à l’étranger et si le droit étranger l’exige, la FINMA, qui a examiné toutes les dispositions du contrat du fonds de placement et contrôlé leur conformité à la loi lors de l’approbation d’un fonds de placement contractuel conformément à l’art. 35*a*, al. 3, examine également toutes les dispositions dudit contrat et contrôle leur conformité à la loi lors de l’approbation de la modification d’un contrat de fonds de placement.[^41-4]
+<sup>2ter</sup> Si le fonds de placement est proposé à l’étranger et si le droit étranger l’exige, la FINMA, qui a examiné toutes les dispositions du contrat du fonds de placement et contrôlé leur conformité à la loi lors de l’approbation d’un fonds de placement contractuel conformément à l’art. 35*a*, al. 3, examine également toutes les dispositions dudit contrat et contrôle leur conformité à la loi lors de l’approbation de la modification d’un contrat de fonds de placement.[^41-5]
 
 <sup>3</sup> La FINMA fixe la date d’entrée en vigueur de la modification du contrat de fonds de placement dans sa décision.
 
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-2]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^41-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^41-3]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-4]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^41-4]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-5]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 42 à 50
 
@@ -951,7 +1007,7 @@ Peuvent être mis à la charge des investisseurs:
 
 ### (art. 36, al. 3, LPCC)
 
-<sup>1</sup> La SICAV autogérée assure l’administration elle-même. Selon l’art. 36, al. 3, de la loi, elle peut déléguer la gestion de son portefeuille à un gestionnaire de fortune collective soumis à une surveillance reconnue.
+<sup>1</sup> La SICAV autogérée assure l’administration elle-même. Selon l’art. 36, al. 3, LPCC, elle peut déléguer la gestion de son portefeuille à un gestionnaire de fortune collective soumis à une surveillance reconnue.
 
 <sup>2</sup> La SICAV à gestion externe délègue l’administration à une direction autorisée. L’administration comprend la distribution de la SICAV. La SICAV à gestion externe délègue en outre la gestion du portefeuille à la même direction ou à un gestionnaire de fortune collective soumis à une surveillance reconnue.
 
@@ -1006,31 +1062,33 @@ Doivent être déduits des fonds propres:
 
 - a. le déficit résultant du bilan imputable aux actionnaires entrepreneurs;
 - b. les correctifs de valeur et les provisions imputables aux actionnaires entrepreneurs;
-- c. les actifs nécessaires à l’exploitation, mais non indispensables à l’exercice direct des activités de la SICAV;
-- d. les valeurs immatérielles (y compris les frais de fondation et d’organisation, ainsi que le goodwill), à l’exception des logiciels.
+- c.[^55-1] les valeurs immatérielles (y compris les frais de fondation et d’organisation, ainsi que le goodwill), à l’exception des logiciels;
+- d.[^55-2] …
 
-<sup>3</sup> La SICAV autogérée calcule ses fonds propres moyennant l’application par analogie de l’art. 59 de l’ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)[^55-1].[^55-2]
+<sup>3</sup> La SICAV autogérée calcule ses fonds propres moyennant l’application par analogie de l’art. 59 de l’ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)[^55-3].[^55-4]
 
-<sup>3bis</sup> La SICAV à gestion externe qui délègue l’administration à une direction de fonds autorisée et la gestion du portefeuille à un gestionnaire de fortune collective calcule le montant des fonds propres nécessaires par analogie avec l’art. 59 OEFin. Elle peut déduire 20 % de ce montant.[^55-3]
+<sup>3bis</sup> La SICAV à gestion externe qui délègue l’administration à une direction de fonds autorisée et la gestion du portefeuille à un gestionnaire de fortune collective calcule le montant des fonds propres nécessaires par analogie avec l’art. 59 OEFin. Elle peut déduire 20 % de ce montant.[^55-5]
 
-<sup>3ter</sup> La FINMA peut libérer de l’obligation d’assortir sa fortune de fonds propres la SICAV à gestion externe qui délègue l’administration du portefeuille à une banque au sens de la loi du 8 novembre 1934 sur les banques[^55-4] ou à une maison de titres au sens de la LEFin[^55-5] ayant leur siège en Suisse.[^55-6]
+<sup>3ter</sup> La FINMA peut libérer de l’obligation d’assortir sa fortune de fonds propres la SICAV à gestion externe qui délègue l’administration du portefeuille à une banque au sens de la loi du 8 novembre 1934 sur les banques[^55-6] ou à une maison de titres au sens de la LEFin[^55-7] ayant leur siège en Suisse.[^55-8]
 
-<sup>4</sup> Si la SICAV à gestion externe délègue l’administration et la gestion du portefeuille à la même direction de fonds autorisée, elle n’est pas tenue d’assortir sa fortune de fonds propres (art. 59, al. 4, OEFin).[^55-7]
+<sup>4</sup> Si la SICAV à gestion externe délègue l’administration et la gestion du portefeuille à la même direction de fonds autorisée, elle n’est pas tenue d’assortir sa fortune de fonds propres (art. 59, al. 4, OEFin).[^55-9]
 
-<sup>5</sup> La proportion prescrite entre les fonds propres et la fortune totale de la SICAV autogérée ou de la SICAV à gestion externe qui délègue l’administration à une direction autorisée et la gestion du portefeuille à un gestionnaire de fortune collective doit être maintenue en permanence.[^55-8]
+<sup>5</sup> La proportion prescrite entre les fonds propres et la fortune totale de la SICAV autogérée ou de la SICAV à gestion externe qui délègue l’administration à une direction autorisée et la gestion du portefeuille à un gestionnaire de fortune collective doit être maintenue en permanence.[^55-10]
 
 <sup>6</sup> Si les fonds propres sont insuffisants, la SICAV l’annonce immédiatement à la FINMA.
 
 <sup>7</sup> La FINMA règle les modalités.
 
-[^55-1]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^55-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-3]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^55-6]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-7]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-8]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^55-2]: Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^55-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^55-4]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-5]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-6]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^55-7]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-8]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-9]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-10]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 56
 
@@ -1123,11 +1181,11 @@ Les art. 15, al. 2, de la présente ordonnance et 53 OEFin[^62a-2] s’appliquen
 
 ### (art. 43 et 44 LPCC)
 
-<sup>1</sup> Pour autant que la loi ou les statuts n’en disposent pas autrement, le contenu et l’approbation du règlement de placement se fondent sur les dispositions du contrat régissant les fonds de placement.
+<sup>1</sup> Le contenu et l’approbation du règlement de placement se fondent sur les dispositions du contrat de fonds de placement, à moins que la LPCC ou les statuts n’en disposent autrement.[^62b-2]
 
 <sup>2</sup>
 
-Par le biais de la convocation de l’assemblée générale, la SICAV indique par écrit aux actionnaires, sous la forme prescrite par les statuts:[^62b-2]
+Par le biais de la convocation de l’assemblée générale, la SICAV indique par écrit aux actionnaires, sous la forme prescrite par les statuts:[^62b-3]
 
 - a. les modifications du règlement de placement qui ont été examinées par la FINMA, et
 - b. celles que la FINMA a jugé conformes la loi.
@@ -1135,7 +1193,8 @@ Par le biais de la convocation de l’assemblée générale, la SICAV indique pa
 <sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux statuts, pour autant que ceux-ci contiennent des dispositions relatives au contenu du règlement de placement.
 
 [^62b-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^62b-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^62b-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^62b-3]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Section 2 Organisation
 
@@ -1159,10 +1218,11 @@ L’assemblée générale de la SICAV ou du compartiment est compétente pour mo
 
 <sup>4</sup> La SICAV publie les modifications principales du règlement arrêtées par l’assemblée générale et approuvées par la FINMA dans les organes de publication, en indiquant les adresses auprès desquelles la teneur des modifications peut être obtenue gratuitement.
 
-<sup>5</sup> Les dispositions concernant les décisions importantes de l’assemblée générale d’une société anonyme (art. 704 CO) ne s’appliquent pas.[^63-2]
+<sup>5</sup> La disposition concernant les décisions importantes de l’assemblée générale d’une société anonyme (art. 704 du code des obligations [CO][^63-2]) ne s’applique pas.[^63-3]
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^63-2]: Introduit par l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^63-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-3]: Introduit par l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
 
@@ -1174,24 +1234,25 @@ L’assemblée générale de la SICAV ou du compartiment est compétente pour mo
 
 Le conseil d’administration a les attributions suivantes:
 
-- a. exercer les attributions visées à l’art. 716*a* du code des obligations[^64-1];
+- a.[^64-1] exercer les attributions visées à l*’*art. 716*a* CO[^64-2];
 - b. fixer les principes de la politique de placement;
-- c.[^64-2] désigner la banque dépositaire ou un établissement selon l’art. 44*a*, al. 2, de la loi;
+- c.[^64-3] désigner la banque dépositaire ou un établissement selon l’art. 44*a*, al. 2, LPCC;
 - d. créer de nouveaux compartiments, pour autant que les statuts le prévoient;
-- e.[^64-3] établir le prospectus et la feuille d’information de base;
+- e.[^64-4] établir le prospectus et la feuille d’information de base;
 - f. assurer l’administration.
 
 <sup>2</sup> Les attributions visées à l’al. 1, let. a à c, ne peuvent pas être déléguées.
 
 <sup>3</sup> Dans une SICAV autogérée, les tâches au sens de l’al. 1, let. d et e, ainsi que les aspects de l’administration visés à l’al. 1, let. f, comme notamment la gestion des risques, le système de contrôle interne (SCI) et la compliance, ne peuvent être délégués qu’à la direction.
 
-<sup>4</sup> Les art. 51, al. 1, 52, al. 1, et 53 OEFin[^64-4] s’appliquent par analogie à l’organisation des SICAV autogérées.[^64-5]
+<sup>4</sup> Les art. 51, al. 1, 52, al. 1, et 53 OEFin[^64-5] s’appliquent par analogie à l’organisation des SICAV autogérées.[^64-6]
 
-[^64-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^64-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^64-3]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-4]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^64-5]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^64-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^64-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^64-4]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^64-5]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^64-6]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
 
@@ -1224,11 +1285,15 @@ Les art. 32 et 35 LEFin[^65-2] s’appliquent par analogie à la délégation de
 
 <sup>2</sup> Lorsque les limites sont dépassées par suite de variations du marché, le volume des placements doit être réduit au taux admissible dans un délai raisonnable en tenant compte des intérêts des investisseurs.
 
+<sup>2bis</sup> En cas de violation active des prescriptions de placement, notamment par des achats ou des ventes, le volume des placements doit être immédiatement réduit au taux admissible. Si les investisseurs ne sont pas indemnisés du dommage résultant d’une violation active des prescriptions de placement, celle‑ci doit être immédiatement communiquée à la société d’audit et publiée dès que possible dans les organes de publication. La communication et la publication doivent comprendre une description concrète de la violation active des prescriptions de placement et du dommage qui en a résulté pour les investisseurs. Le rapport annuel doit rendre compte de toutes les violations actives des prescriptions de placement.[^67-1]
+
 <sup>3</sup> Les fonds en valeurs mobilières et les autres fonds doivent respecter les limites de placement six mois après leur lancement.
 
 <sup>4</sup> Les fonds immobiliers doivent respecter les limites de placement deux ans après leur lancement.
 
 <sup>5</sup> Sur requête de la direction et de la SICAV, la FINMA peut prolonger les délais prévus aux al. 3 et 4.
+
+[^67-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 68
 
@@ -1286,7 +1351,7 @@ Ne sont pas autorisés:
 
 <sup>3</sup> Au maximum 10 % de la fortune du fonds peuvent être investis en placements autres que ceux mentionnés à l’al. 1.
 
-<sup>4</sup> ...[^70-1]
+<sup>4</sup> …[^70-1]
 
 [^70-1]: Abrogé par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -1296,13 +1361,13 @@ Ne sont pas autorisés:
 
 ### (art. 54 LPCC)
 
-<sup>1</sup> On entend par valeurs mobilières, les papiers-valeurs et les droits-valeurs au sens de l’art. 54, al. 1, de la loi qui incorporent un droit de participation ou de créance ou le droit d’acquérir de tels papiers-valeurs ou droits-valeurs par souscription ou échange, comme notamment les warrants.
+<sup>1</sup> On entend par valeurs mobilières, les papiers-valeurs et les droits-valeurs au sens de l’art. 54, al. 1, LPCC qui incorporent un droit de participation ou de créance ou le droit d’acquérir de tels papiers-valeurs ou droits-valeurs par souscription ou échange, comme notamment les warrants.
 
 <sup>2</sup> Les placements en valeurs mobilières nouvellement émises ne sont autorisés que si leur admission à une bourse ou à un autre marché réglementé ouvert au public est prévue dans les conditions d’émission. Si cette admission n’a pas été obtenue un an après l’acquisition des titres, ceux-ci doivent être vendus dans le délai d’un mois.
 
 <sup>3</sup> La FINMA peut préciser les placements autorisés pour un fonds en valeurs mobilières selon le droit applicable des Communautés européennes.[^71-1]
 
-[^71-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^71-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 72
 
@@ -1348,7 +1413,7 @@ La direction et la SICAV ne peuvent effectuer des placements dans des fonds cibl
 Elles peuvent placer, au maximum:
 
 - a. 20 % de la fortune du fonds dans des parts d’un même fonds cible, et
-- b.[^73-1] 30 % de la fortune du fonds dans des parts de fonds cibles qui ne satisfont pas, mais qui sont équivalents aux directives pertinentes de l’Union européenne (organismes de placement collectif en valeurs mobilières, OPCVM) ou à des fonds suisses en valeurs mobilières au sens de l’art. 53 de la loi.
+- b.[^73-1] 30 % de la fortune du fonds dans des parts de fonds cibles qui ne satisfont pas, mais qui sont équivalents aux directives pertinentes de l’Union européenne (organismes de placement collectif en valeurs mobilières, OPCVM) ou à des fonds suisses en valeurs mobilières au sens de l’art. 53 LPCC.
 
 <sup>3</sup> Les art. 78 à 84 ne s’appliquent pas aux placements dans des fonds cibles.
 
@@ -1416,13 +1481,40 @@ On entend par liquidités, les avoirs en banque et les créances découlant d’
 
 **Prêts de valeurs mobilières (*securities lending*) et opérations de mise ou de prise en pension (*Repo*, *Reverse Repo*)**
 
-### (art. 55, al. 1, let. a et b, LPCC)
+### (art. 26, al. 3, et 55, al. 1, let. a et b, LPCC)
+
+[^76-1]
 
 <sup>1</sup> Le prêt de valeurs mobilières et les opérations de mise ou de prise en pension ne sont admis qu’aux fins d’une gestion efficace de la fortune du fonds. La banque dépositaire répond de la conformité aux conditions du marché et aux exigences professionnelles de l’exécution du prêt de valeurs mobilières et des opérations de mise ou de prise en pension.
 
 <sup>2</sup> Des banques, des courtiers, des entreprises d’assurance et des organismes de clearing peuvent être appelés au titre d’emprunteurs du prêt de valeurs mobilières s’ils sont experts en la matière et s’ils fournissent des sûretés correspondant au volume et au risque des affaires envisagées. Les opérations de mise ou de prise en pension peuvent être effectuées avec les emprunteurs précités aux mêmes conditions.
 
 <sup>3</sup> Le prêt de valeurs mobilières et les opérations de mise ou de prise en pension sont réglés par un contrat-type.
+
+<sup>4</sup>
+
+Le contrat de fonds de placement ou le règlement de placement et le prospectus doivent contenir les indications suivantes concernant les prêts de valeurs mobilières et les opérations de mise ou de prise en pension:
+
+- a. le placement collectif peut effectuer des prêts de valeurs mobilières;
+- b. le placement collectif peut effectuer des opérations de mise ou de prise en pension;
+- c. le volume maximal absolu ou relatif des prêts de valeurs mobilières et des opérations de mise ou de prise en pension, et
+- d. les risques qui sont liés à ces prêts ou opérations.[^76-2]
+
+<sup>5</sup>
+
+Le rapport annuel et le rapport semestriel du placement collectif doivent contenir les indications suivantes concernant les prêts de valeurs mobilières et les opérations de mise ou de prise en pension effectuées par la direction de fonds ou par la SICAV pour le compte du placement collectif:
+
+- a. la valeur des valeurs mobilières prêtées et des opérations de mise et prise en pension, à la clôture de l’exercice ou à la fin du premier semestre de l’exercice;
+- b. le montant des créances et des engagements découlant d’opérations de mise ou de prise en pension;
+- c. la moyenne annuelle ou semestrielle de la part des valeurs mobilières prêtées;
+- d. la part maximale des valeurs mobilières prêtées en tant que valeur quotidienne maximale;
+- e. la répartition des revenus bruts provenant des prêts de valeurs mobilières et des opérations de mise ou de prise en pension entre la direction de fonds et l’investisseur (*revenue split*);
+- f. les revenus du réinvestissement des sûretés reçues en espèces (*cash collateral*);
+- g. la forme du dépôt des sûretés fournies par le placement collectif: comptes ségrégués ou comptes omnibus.[^76-3]
+
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-2]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-3]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 77
 
@@ -1582,7 +1674,7 @@ La direction et la SICAV peuvent acquérir pour la fortune du fonds:
 
 <sup>2</sup>
 
-Par immeubles au sens de l’art. 59, al. 1, let. a, de la loi, on entend les immeubles ci‑après enregistrés conformément à l’al. 2<sup>bis</sup> au registre foncier selon l’annonce de la direction de fonds, de la SICAV ou de la direction de fonds mandatée par la SICAV:[^86-2]
+Par immeubles au sens de l’art. 59, al. 1, let. a, LPCC, on entend les immeubles ci‑après enregistrés conformément à l’al. 2<sup>bis</sup> au registre foncier selon l’annonce de la direction de fonds, de la SICAV ou de la direction de fonds mandatée par la SICAV:[^86-2]
 
 - a. les maisons d’habitation;
 - b. les immeubles à usage commercial exclusif ou prépondérant; la partie de l’immeuble servant à des fins commerciales est réputée prépondérante lorsque son rendement correspond au moins à 60 % de celui de l’immeuble (immeubles à caractère commercial);
@@ -1598,16 +1690,19 @@ Par immeubles au sens de l’art. 59, al. 1, let. a, de la loi, on entend les im
 Sont autorisés comme autres placements:
 
 - a. les cédules hypothécaires et autres droits de gage immobiliers contractuels;
-- b. les participations dans des sociétés immobilières et les créances contre de telles sociétés, conformément à l’art. 59, al. 1, let. b, de la loi;
-- c. les parts d’autres fonds immobiliers (y compris les *Real Estate Investment Trusts*) ainsi que de sociétés ou de certificats d’investissement immobilier négociables en bourse ou sur un autre marché réglementé ouvert au public, conformément à l’art. 59, al. 1, let. c, de la loi;
-- d. les valeurs immobilières étrangères, conformément à l’art. 59, al. 1, let. d, de la loi.
+- b. les participations dans des sociétés immobilières et les créances contre de telles sociétés, conformément à l’art. 59, al. 1, let. b, LPCC;
+- c. les parts d’autres fonds immobiliers (y compris les *Real Estate Investment Trusts*) ainsi que de sociétés ou de certificats d’investissement immobilier négociables en bourse ou sur un autre marché réglementé ouvert au public, conformément à l’art. 59, al. 1, let. c, LPCC;
+- d. les valeurs immobilières étrangères, conformément à l’art. 59, al. 1, let. d, LPCC.
 
-<sup>4</sup> Les terrains non bâtis appartenant à un fonds immobilier doivent être équipés et immédiatement constructibles, et faire l’objet d’un permis de construire exécutoire. Les travaux de construction doivent pouvoir débuter avant l’expiration de la durée de validité du permis de construire.[^86-4]
+<sup>3bis</sup> L’al. 2<sup>bis</sup> s’applique par analogie aux cédules hypothécaires et autres droits de gage immobiliers contractuels.[^86-4]
+
+<sup>4</sup> Les terrains non bâtis appartenant à un fonds immobilier doivent être équipés et immédiatement constructibles, et faire l’objet d’un permis de construire exécutoire. Les travaux de construction doivent pouvoir débuter avant l’expiration de la durée de validité du permis de construire.[^86-5]
 
 [^86-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^86-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^86-3]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^86-4]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-4]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^86-5]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 87
 
@@ -1700,7 +1795,7 @@ Sont considérés comme des personnes proches, en particulier:
 - e. les experts chargés des estimations;
 - f. les sociétés immobilières n’appartenant pas intégralement au fonds immobilier ainsi que les membres du conseil d’administration et les collaborateurs de ces sociétés immobilières;
 - g. les gérances chargées d’administrer les valeurs immobilières ainsi que les membres du conseil d’administration et les collaborateurs de ces gérances;
-- h. les personnes détenant une participation qualifiée au sens de l’art. 14, al. 3, de la loi, dans des sociétés mentionnées ci-dessus sous let. a à g.
+- h. les personnes détenant une participation qualifiée au sens de l’art. 14, al. 3, LPCC, dans des sociétés mentionnées ci-dessus sous let. a à g.
 
 <sup>2</sup> Les mandataires au sens de l’al. 1, let. a ne sont pas considérés comme des personnes proches s’il peut être prouvé qu’ils n’exercent pas ou n’ont pas exercé d’influence directe ou indirecte sur la direction ou sur la SICAV ou que la direction ou la SICAV ne sont pas, pour une autre raison, partiales dans l’affaire.
 
@@ -1781,7 +1876,7 @@ Lors d’une vente, on peut renoncer à une nouvelle estimation si:
 
 ### (art. 65 LPCC)
 
-<sup>1</sup> En cas de constitution de gages sur des immeubles et de mise en garantie des droits de gage conformément à l’art. 65, al. 2, de la loi, l’ensemble des immeubles ne peuvent être grevés en moyenne que jusqu’à concurrence du tiers de leur valeur vénale.[^96-1]
+<sup>1</sup> En cas de constitution de gages sur des immeubles et de mise en garantie des droits de gage conformément à l’art. 65, al. 2, LPCC, l’ensemble des immeubles ne peuvent être grevés en moyenne que jusqu’à concurrence du tiers de leur valeur vénale.[^96-1]
 
 <sup>1bis</sup>
 
@@ -1852,7 +1947,7 @@ Sont notamment autorisés en tant que placements des autres fonds:
 
 <sup>2</sup> Pour les autres fonds en placements alternatifs, la FINMA peut autoriser d’autres placements, tels que les commodities, les matières premières et les titres sur matières premières.
 
-<sup>3</sup> Les placements visés à l’art. 69, al. 2, de la loi doivent être expressément mentionnés dans le règlement.
+<sup>3</sup> Les placements visés à l’art. 69, al. 2, LPCC doivent être expressément mentionnés dans le règlement.
 
 <sup>4</sup> L’art. 73, al. 4, s’applique par analogie aux placements en parts de placements collectifs.
 
@@ -1951,11 +2046,12 @@ La banque dépositaire assume les tâches suivantes:
 - d. elle gère les registres et les comptes requis afin de pouvoir distinguer à tout moment les biens en garde des différents placements collectifs;
 - e. elle vérifie la propriété de la direction de fonds ou du placement collectif et gère les registres correspondants lorsque les biens ne peuvent être gardés.[^104-1]
 
-<sup>2</sup> Dans le cadre des fonds immobiliers, elle conserve les cédules hypothécaires non gagées et les actions de sociétés immobilières. Elle peut ouvrir des comptes auprès de tiers pour la gestion courante de valeurs immobilières.
+<sup>2</sup> Dans le cadre des fonds immobiliers et des L-QIF détenant des placements immobiliers, elle conserve les cédules hypothécaires non gagées et les actions de sociétés immobilières. Elle peut ouvrir des comptes auprès de tiers pour la gestion courante de valeurs immobilières.[^104-2]
 
 <sup>3</sup> La même banque dépositaire est responsable de toutes les tâches relevant d’un placement collectif à compartiments.
 
 [^104-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
+[^104-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 105
 
@@ -1983,13 +2079,53 @@ Si elle confie la garde de la fortune du fonds à un tiers ou à un dépositaire
 [^105a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^105a-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Section 2 ...
+#### Art. 106
 
-#### Art. 106 et 107
+***Exchange Traded Funds* (ETF)**[^106-1]
 
-[^106107-1]
+### (art. 15 et 78, al. 3, LPCC)
 
-[^106107-1]: Abrogés par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+<sup>1</sup> Les *Exchange Traded Funds* (ETF) sont des parts ou des classes de parts d’un placement collectif ouvert qui sont cotées en permanence à une bourse suisse et pour lesquels au moins un teneur de marché au sens de l’art. 41, let. c, LEFin[^106-2] garantit que leur valeur, lorsqu’elles sont négociées, ne s’écarte pas considérablement de la valeur nette d’inventaire indicative.
+
+<sup>2</sup> Un placement collectif ne peut être qualifié d’«*Exchange Traded Fund*» ou d’«ETF» qu’à condition que toutes ses parts ou classes de parts soient conçues comme des ETF.
+
+<sup>3</sup>
+
+Le prospectus doit notamment contenir les précisions suivantes relatives à l’ETF:
+
+- a. des indications sur la cotation et sur la valeur nette d’inventaire indicative de l’ETF ainsi que sur le teneur de marché;
+- b. des indications sur l’emplacement et la fréquence de la publication de la composition du portefeuille de l’ETF ou de son panier de titres;
+- c. une description du négoce de l’ETF sur le marché primaire et secondaire, et des risques qui y sont liés;
+- d. la mention du droit des investisseurs du marché secondaire de demander le rachat direct de leurs parts par la direction de fonds ou par la SICAV, avec l’indication des conditions et des frais qui y sont liés.
+
+<sup>4</sup>
+
+Pour les ETF qui reproduisent un indice, le prospectus doit en outre contenir des indications sur:
+
+- a. le fournisseur de l’indice ainsi que l’indice reproduit;
+- b. la méthode de reproduction de l’indice et les risques qui y sont liés;
+- c. les pronostics d’erreurs de reproduction dans des conditions de marché normales.
+
+<sup>5</sup> S’il s’agit d’un ETF à gestion active, cela doit être précisé dans le contrat du fonds de placement ou le règlement de placement, ainsi que dans le prospectus, la feuille d’information de base et la publicité. Les modalités de mise en œuvre de la politique de placement doivent en outre figurer dans le prospectus.
+
+<sup>6</sup>
+
+Lorsqu’un placement collectif contient à la fois des classes de parts de type ETF et des classes de parts n’étant pas de type ETF:
+
+- a. les classes de parts de type ETF doivent comporter dans leur désignation la mention «ETF»;
+- b. le prospectus doit renseigner sur les particularités des classes de parts de type ETF, notamment leur mode de fonctionnement, de négoce et d’autres différences avec les autres classes de parts, ainsi que les conséquences et les risques qu’elles présentent pour les investisseurs;
+- c. il doit être précisé à la première page du contrat du fonds de placement ou du règlement de placement, du prospectus et de la feuille d’information de base, ainsi que dans la publicité, que le placement collectif contient à la fois des classes de parts de type ETF et des classes de parts n’étant pas de type ETF.
+
+[^106-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^106-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### Section 2 …
+
+#### Art. 107
+
+[^107-1]
+
+[^107-1]: Abrogés par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 107a
 
@@ -2027,6 +2163,32 @@ Si elle confie la garde de la fortune du fonds à un tiers ou à un dépositaire
 [^108-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^108-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^108-4]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+
+#### Art. 108a
+
+**Gestion de la liquidité**[^108a-1]
+
+### (art. 78*a* LPCC)
+
+<sup>1</sup> La direction de fonds ou la SICAV doit garantir, au moyen d’un processus, la gestion appropriée de la liquidité de chaque placement collectif qu’elle gère.
+
+<sup>2</sup>
+
+Le processus doit notamment prévoir que:
+
+- a. le profil de liquidité des placements collectifs est entièrement conforme à la politique de placement et aux conditions de rachat et correspond aux engagements existants du placement collectif;
+- b. la liquidité de chaque portefeuille est surveillée en permanence et évaluée régulièrement à l’aune d’autres risques importants, afin qu’il soit possible d’identifier précocement les risques de liquidité et de réagir à temps et de manière appropriée;
+- c. la liquidité des placements et les conséquences de l’investissement sur la liquidité du portefeuille sont prises en considération dans les décisions de placement;
+- d. des instruments appropriés sont prévus pour chaque placement collectif en vue de la gestion de la liquidité;
+- e. la direction de fonds ou la SICAV dispose des informations nécessaires à l’évaluation de l’adéquation de la liquidité, en particulier les informations concernant les placements, les engagements et le cercle d’investisseurs du placement collectif.
+
+<sup>3</sup> La direction de fonds ou la SICAV doit effectuer régulièrement des tests de résistance adaptés à chaque placement collectif qu’elle gère. Ceux‑ci se fondent sur des conditions de marché normales et extraordinaires, ainsi que sur le contexte historique et des hypothèses. Ces tests sont facultatifs si la fortune nette du placement collectif qui est géré ne dépasse pas 25 millions de francs.
+
+<sup>4</sup> La direction de fonds ou la SICAV doit établir un plan de crise et y définir les mesures permettant de recourir aux instruments prévus pour la gestion de la liquidité ainsi que les procédures et les compétences internes. Elle doit vérifier régulièrement le plan de crise pour s’assurer qu’il soit possible, au besoin, de recourir à ces instruments immédiatement et en bonne et due forme.
+
+<sup>5</sup> La FINMA peut régler les modalités.
+
+[^108a-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 109
 
@@ -2073,13 +2235,25 @@ Le règlement peut prévoir que le rachat des parts est provisoirement et except
 
 <sup>2</sup> La décision de suspension doit être immédiatement communiquée à la société d’audit et à la FINMA. Elle doit également être annoncée aux investisseurs de manière appropriée.
 
+#### Art. 110a
+
+**Ségrégation de certains placements**[^110a-1]
+
+### (art. 15 et 78, al. 3, LPCC)
+
+<sup>1</sup> Sur demande motivée de la direction ou de la SICAV, dans des cas exceptionnels, la FINMA peut autoriser la ségrégation de certains placements non liquides d’un placement collectif (*side pockets*) pour autant que cela soit dans l’intérêt de tous les investisseurs et que le contrat de fonds de placement ou le règlement de placement le prévoie.
+
+<sup>2</sup> Après l’approbation par la FINMA, la direction de fonds ou la SICAV doit communiquer sa décision de ségrégation en la publiant dans les organes de publication.
+
+[^110a-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
 #### Art. 111
 
 **Rachat forcé**
 
 ### (art. 82 LPCC)
 
-<sup>1</sup> Le rachat forcé au sens de l’art. 82 de la loi n’est autorisé que dans des cas exceptionnels.
+<sup>1</sup> Le rachat forcé au sens de l’art. 82 LPCC n’est autorisé que dans des cas exceptionnels.
 
 <sup>2</sup> Le règlement doit énoncer les raisons permettant un rachat forcé.
 
@@ -2140,7 +2314,7 @@ La direction peut regrouper des fonds de placement ou des compartiments:
 - d. si l’évaluation des fortunes des fonds de placement, le calcul du rapport d’échange et la reprise des valeurs patrimoniales et des engagements sont effectués le même jour;
 - e. si aucuns frais n’en résultent, ni pour les fonds de placement ou les compartiments, ni pour les investisseurs.
 
-<sup>2</sup> ...[^114-2]
+<sup>2</sup> …[^114-2]
 
 <sup>3</sup> La FINMA peut subordonner le regroupement de fonds de placement et le transfert de patrimoine d’une SICAV, en particulier lorsqu’il s’agit de fonds immobiliers, au respect de conditions supplémentaires.
 
@@ -2166,7 +2340,7 @@ La procédure de regroupement est réglée par le contrat de fonds de placement.
 
 <sup>4</sup> La direction informe la FINMA de l’achèvement du regroupement.
 
-<sup>5</sup> ...[^115-1]
+<sup>5</sup> …[^115-1]
 
 [^115-1]: Abrogé par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
@@ -2209,7 +2383,7 @@ Le placement collectif est dissous et peut être liquidé sans délai lorsque:
 
 ### (art. 98, al. 1, LPCC)
 
-<sup>1</sup> La société en commandite de placements collectifs gère uniquement sa propre fortune. Il lui est en particulier interdit de fournir à des tiers des prestations au sens des art. 26 et 34 LEFin[^117-2] ou d’exercer des activités entrepreneuriales dans un but commercial.[^117-3]
+<sup>1</sup> La SCmPC gère uniquement sa propre fortune. Il lui est en particulier interdit de fournir à des tiers des prestations au sens des art. 26 et 34 LEFin[^117-2] ou d’exercer des activités entrepreneuriales dans un but commercial.[^117-3]
 
 <sup>2</sup> Elle investit dans le capital-risque d’entreprises et de projets et peut définir leur orientation stratégique. Elle peut également investir dans des placements selon l’art. 121.
 
@@ -2258,7 +2432,7 @@ Les personnes à la tête des associés indéfiniment responsables peuvent parti
 - b. si la participation repose sur leur fortune privée, et
 - c. si la participation est souscrite au moment du lancement.
 
-<sup>3bis</sup> ...[^119-2]
+<sup>3bis</sup> …[^119-2]
 
 <sup>4</sup> Les modalités sont réglées dans le contrat de société, qui doit être rédigé dans une langue officielle. La FINMA peut autoriser une autre langue dans certains cas.[^119-3]
 
@@ -2304,12 +2478,12 @@ Sont en particulier autorisés:
 Sont uniquement autorisés les projets immobiliers, de construction et d’infrastructure de personnes qui ne sont pas directement ou indirectement liées:
 
 - a. aux associés indéfiniment responsables;
-- b. aux personnes responsables de l’administration et de la direction des affaires, ou
+- b. aux personnes responsables de l’administration et de la gestion, ou
 - c. aux investisseurs.[^121-4]
 
 <sup>4</sup>
 
-Les associés indéfiniment responsables, les personnes responsables de l’administration et de la direction des affaires et les personnes physiques ou morales qui leur sont proches, ainsi que les investisseurs d’une société en commandite de placements collectifs peuvent acquérir de celle-ci des valeurs immobilières et des valeurs d’infrastructure ou lui céder de telles valeurs:
+Les associés indéfiniment responsables, les personnes responsables de l’administration et de la gestion et les personnes physiques ou morales qui leur sont proches, ainsi que les investisseurs d’une SCmPC peuvent acquérir de celle-ci des valeurs immobilières et des valeurs d’infrastructure ou lui céder de telles valeurs:
 
 - a. si un expert indépendant chargé de l’estimation confirme que le prix d’achat ou de vente des valeurs immobilières et des valeurs d’infrastructure ainsi que les coûts de transaction sont conformes à ceux du marché, et
 - b. si l’assemblée des associés a approuvé la transaction.[^121-5]
@@ -2399,6 +2573,657 @@ L’art. 111 est applicable par analogie.
 
 La SICAF publie les modifications principales des statuts et du règlement de placement arrêtées par l’assemblée générale et approuvées par la FINMA dans les organes de publication, en indiquant les adresses auprès desquelles la teneur des modifications peut être obtenue gratuitement.
 
+## Titre 3*a* Limited Qualified Investor Fund
+
+[^tit3a-1]
+
+[^tit3a-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+
+### Chapitre 1 Dispositions générales
+
+#### Art. 126a
+
+**Définition**
+
+### (art. 13, al. 2<sup>bis</sup>, 15, al. 3, 118*a*, al. 1, et 118*f*, al. 1, LPCC)
+
+<sup>1</sup> Un placement collectif de capitaux n’est considéré comme «*Limited Qualified* *Investor* *Fund»* (L‑QIF) que s’il renonce explicitement à l’obtention d’une autorisation ou d’une approbation de la FINMA.
+
+<sup>2</sup> La renonciation est explicite lorsque l’établissement chargé d’administrer le L-QIF annonce pour la première fois au Département fédéral des finances (DFF) la prise en charge de l’administration visée à l’art. 126*g*, al. 1, let. a.
+
+#### Art. 126b
+
+**Applicabilité de la présente ordonnance, de l’OPC‑FINMA et des normes d’autorégulation reconnues de l’organisation professionnelle de la branche**
+
+### (art. 118*a, al*. 2, LPCC)
+
+<sup>1</sup> Le L-QIF est régi par la présente ordonnance, pour autant que cette dernière n’en dispose pas autrement.
+
+<sup>2</sup> Pour autant que la présente ordonnance le précise, il est régi par les prescriptions de l’ordonnance de la FINMA du 27 août 2014 sur les placements collectifs (OPC-FINMA)[^126b-1].
+
+<sup>3</sup>
+
+Il est régi par analogie par les normes d’autorégulation suivantes, édictées par l’organisation professionnelle de la branche et reconnues comme standard minimal d’autorégulation par la FINMA[^126b-2]:
+
+- a. Règles de conduite, dans la version des 5 août et 23 septembre 2021;
+- b. Directive pour les fonds immobiliers, dans la version du 5 août 2021;
+- c. Directive pour les fonds du marché monétaire, dans la version du 5 août 2021;
+- d. Directive pour l’évaluation de la fortune de placements collectifs de capitaux et pour le traitement d’erreurs d’évaluation pour les placements collectifs de capitaux ouverts, dans la version du 5 août 2021;
+- e. Directive pour le calcul et la publication de performance de placements collectifs de capitaux, dans la version du 5 août 2021;
+- f. Directive pour le calcul et la publication du *Total Expense Ratio* (TER) des placements collectifs de capitaux, dans la version du 5 août 2021.
+
+[^126b-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-2]: Les règles de conduite et les directives peuvent être téléchargées gratuitement sur le site Internet de l’Asset Management Association Switzerland: [www.am-switzerland.ch](https://www.am-switzerland.ch/fr) &gt; Régulation &gt; Autorégulation.
+
+#### Art. 126c
+
+**Conditions du changement de statut d’un placement collectif soumis à surveillance en un L‑QIF**
+
+### (art. 118*b* LPCC)
+
+<sup>1</sup> Un changement de statut d’un placement collectif soumis à surveillance en un L‑QIF nécessite l’approbation et, le cas échéant, l’autorisation de la FINMA.
+
+<sup>2</sup>
+
+La FINMA approuve et, le cas échéant, autorise le changement de statut lorsque:
+
+- a. les conditions prévues à l’art. 118*a*, al. 1, let. a à c, LPCC sont remplies;
+- b. le contrat de fonds de placement, le règlement de placement ou le contrat de société prévoient la possibilité d’un changement de statut;
+- c. le changement de statut n’entraîne de frais ni pour le placement collectif, ni pour les investisseurs;
+- d.
+
+  dans le cas d’un placement collectif revêtant la forme:
+
+  - 1\.
+
+    d’un fonds de placement contractuel:
+
+    - – la banque dépositaire a approuvé le changement de statut, et
+    - – seuls restent dans le placement collectif les investisseurs qui ont expressément approuvé le changement de statut,
+
+  - 2\.
+
+    d’une SICAV:
+
+    - – la banque dépositaire a approuvé le changement de statut,
+    - – les actionnaires entrepreneurs représentant au moins deux tiers des actions des entrepreneurs émises ont approuvé le changement de statut, et
+    - – seuls restent dans le placement collectif les investisseurs qui ont expressément approuvé le changement de statut,
+
+  - 3\. d’une SCmPC, tous les investisseurs ont approuvé le changement de statut en L‑QIF.
+
+<sup>3</sup> La FINMA peut préciser les conditions d’un changement de statut en L-QIF.
+
+<sup>4</sup> Dans sa décision d’approuver et, le cas échéant, d’autoriser le changement de statut, elle fixe la date à laquelle le placement collectif est libéré de la surveillance.
+
+#### Art. 126d
+
+**Obligations d’informer lors d’un changement de statut**
+
+### (art. 118*b* LPCC)
+
+<sup>1</sup> La direction de fonds, le conseil d’administration d’une SICAV et les associés indéfiniment responsables d’une SCmPC doivent communiquer immédiatement à la FINMA la décision de passer à un statut de L‑QIF.
+
+<sup>2</sup>
+
+Dans le cas d’un placement collectif revêtant la forme d’un fonds de placement contractuel ou d’une SICAV, la décision de changer de statut doit être publiée dans les organes de publication. Cette publication doit notamment:
+
+- a. indiquer les conséquences du changement sur le statut d’approbation ou d’autorisation du placement collectif et, en particulier, la libération du placement collectif de la surveillance de la FINMA;
+- b.
+
+  aviser les investisseurs que, dans les 30 jours suivant la publication, ils peuvent décider:
+
+  - 1\. de rester dans le placement collectif s’ils approuvent expressément le changement de statut, ou
+  - 2\. du rachat de leurs parts dans le respect des délais ou des échéances contractuels ou réglementaires s’ils dénoncent leurs parts;
+
+- c. préciser que les investisseurs qui n’exercent pas leur droit d’option selon la let. b sont assimilés aux investisseurs qui dénoncent leurs parts le 30<sup>e</sup> jour après la publication.
+
+<sup>3</sup> Dans le cas d’un placement collectif revêtant la forme d’une SCmPC, les associés indéfiniment responsables doivent signaler aux commanditaires, avant la décision de changer de statut, les conséquences que cela entraîne sur le statut d’approbation et d’autorisation de la SCmPC, en particulier sa libération de la surveillance de la FINMA.
+
+#### Art. 126e
+
+**Restructurations**
+
+### (art. 118*b* LPCC)
+
+Il est interdit de restructurer un L-QIF en le regroupant avec des placements collectifs soumis à surveillance ou en le transformant en de tels placements.
+
+#### Art. 126f
+
+**Dispositions ne s’appliquant pas aux L-QIF**
+
+### (art. 118*d* LPCC)
+
+Ne s’appliquent pas aux L-QIF:
+
+- a. les dispositions relatives à l’autorisation et à l’approbation ainsi qu’à l’activité de surveillance de la FINMA (art. 7 à 23, 31, al. 6, 33, al. 2, 35, 35*a*, al. 2 à 4, 40, 53, 54, al. 4, 55, al. 1 à 3<sup>ter</sup> et 5 à 7, 61, 62, al. 2, 2<sup>e</sup> phrase, et 3, 62*b*, 63, al. 3 et 4, 109, 110, al. 2, 110*a*, 114, al. 3, 115, al. 3 et 4, 116, al. 3 et 5, 118, al. 3, 119, al. 4, 2<sup>e</sup> phrase, 137, 141 et 142);
+- b. les prescriptions en matière de placement énoncées aux art. 32*a*, 67 à 102, 117, al. 2 et 3, 120 et 121;
+- c. les dispositions de l’art. 41 sur la modification du contrat de fonds de placement et celles de l’art. 105 sur le changement de banque dépositaire.
+
+#### Art. 126g
+
+**Obligation d’annoncer et traitement de données**
+
+### (art. 118*f* LPCC)
+
+<sup>1</sup>
+
+L’établissement chargé d’administrer un L-QIF doit, outre sa propre raison de commerce et la dénomination ou la raison de commerce du L‑QIF, annoncer au DFF les cas de figure suivants:
+
+- a. la prise en charge de l’administration, dans les 14 jours suivant la signature du contrat de fonds de placement ou du contrat de société ou l’adoption des statuts;
+- b. l’abandon de l’administration, dans les 14 jours suivant la signature du contrat de fonds de placement modifié ou du contrat de société modifié ou l’adoption des statuts modifiés ou la clôture de la liquidation du L‑QIF.
+
+<sup>2</sup>
+
+Lors de la prise en charge de l’administration, il doit en outre annoncer au DFF, dans le délai visé à l’al. 1, let. a, à des fins statistiques, en particulier les données suivantes:
+
+- a. les coordonnées du L-QIF et de l’établissement chargé de l’administration;
+- b. la forme juridique du L-QIF, sa nature ouverte ou fermée et ses catégories de placement;
+- c. la date de la prise en charge de l’administration du L-QIF;
+- d. la date prévue pour le lancement du L-QIF;
+- e. le nom et les coordonnées de la banque dépositaire;
+- f. le nom et les coordonnées de la société d’audit;
+- g. le nom et les coordonnées de l’établissement chargé des décisions de placement, si celles-ci ont été déléguées;
+- h. le style et la politique de placement.
+
+<sup>3</sup> Lors de l’abandon de l’administration, il doit en outre annoncer au DFF, dans le délai visé à l’al. 1, let. b, à des fins statistiques, la date de l’abandon de l’administration du L‑QIF.
+
+<sup>4</sup>
+
+Il doit en outre annoncer au DFF, dans un délai de 14 jours, à des fins statistiques, les cas de figure suivants:
+
+- a. la date de lancement du L-QIF;
+- b. tout changement dans les données qui ont été annoncées conformément aux al. 2 et 3;
+- c. l’ouverture de la liquidation du L-QIF.
+
+<sup>5</sup> Le DFF peut publier dans un répertoire les données visées aux al. 1, 2, let. b et e, et 4, let. a et c.
+
+<sup>6</sup>
+
+L’établissement chargé d’administrer un L-QIF doit communiquer périodiquement au DFF ou à un tiers mandaté par le DFF, à des fins statistiques, en particulier les données suivantes concernant le L‑QIF:
+
+- a. la fortune et la variation de la fortune;
+- b. la valeur des parts émises et des parts rachetées;
+- c.
+
+  la fortune, ventilée comme suit:
+
+  - 1\. placements en Suisse et placements à l’étranger,
+  - 2\. monnaies,
+  - 3\. catégories de placement: instruments du marché monétaire, créances résultant de pensions de titres, obligations, actions et autres titres de participation, parts d’autres placements collectifs de capitaux, produits structurés, immeubles, autres papiers-valeurs;
+
+- d. les engagements, ventilés entre engagements en Suisse et engagements envers l’étranger;
+- e. le compte de résultats;
+- f. les données sur les risques, y compris la ventilation des actifs et des passifs selon la durée ainsi que l’état des opérations hors bilan.
+
+<sup>7</sup> Le DFF édicte des directives techniques sur le mode de communication des données visées au présent article. Il détermine notamment quelles données doivent être transmises intégralement ou partiellement sous forme électronique.
+
+<sup>8</sup> Le DFF ou le tiers mandaté peut échanger les données collectées en vertu du présent article avec les autorités suisses de surveillance des marchés financiers dans le cadre des mandats légaux correspondants.
+
+<sup>9</sup> Le DFF ou le tiers mandaté peut publier, sous forme agrégée, les données collectées en vertu du présent article et les transmettre à d’autres organes compétents de la Confédération, en particulier à l’Office fédéral de la statistique, ainsi qu’à des autorités compétentes d’autres pays et à des organisations internationales.
+
+#### Art. 126h
+
+**Obligations de l’établissement chargé d’administrer le L-QIF**
+
+### (art. 118*g* et 118*h* LPCC)
+
+<sup>1</sup> Il incombe à l’établissement chargé d’administrer un L-QIF (art. 118*g* ou 118*h* LPCC) de veiller au respect des prescriptions légales, contractuelles, statutaires ou réglementaires en vigueur concernant les L‑QIF.
+
+<sup>2</sup> Si un placement collectif ne présente pas ou plus les caractéristiques d’un L-QIF définies à l’art. 118*a*, al. 1, let. a à c, LPCC, l’établissement doit en informer immédiatement la FINMA, la banque dépositaire et la société d’audit.
+
+<sup>3</sup> Si les prescriptions légales, contractuelles, statutaires ou réglementaires en vigueur concernant le L‑QIF ne sont pas ou plus respectées à d’autres égards, l’établissement doit en informer immédiatement les investisseurs, la banque dépositaire ainsi que la société d’audit et veiller à ce que la situation soit régularisée dans un délai raisonnable. Si ce n’est pas possible, il doit dissoudre le L‑QIF.
+
+### Chapitre 2 Dispositions particulières applicables aux L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV
+
+#### Art. 126i
+
+**Modification du contrat de fonds de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel**
+
+### (art. 118*j*, al. 2, LPCC)
+
+Les modifications du contrat de fonds de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel qui sont exigées par la loi et qui ne touchent pas aux droits des investisseurs ou sont de nature exclusivement formelle ne sont pas concernées par l’obligation de publication visée à l’art. 118*j*, al. 2, LPCC.
+
+#### Art. 126j
+
+**Établissement et modification du règlement de placement et modification des statuts d’un L‑QIF revêtant la forme d’une SICAV**
+
+### (art. 50, 94 et 118*a*, al. 2, LPCC)
+
+<sup>1</sup> Le contenu du règlement de placement d’un L-QIF revêtant la forme d’une SICAV se fonde sur les dispositions du contrat de fonds de placement pour autant que la LPCC ou les statuts n’en disposent pas autrement. Le règlement de placement est soumis à l’approbation de l’assemblée générale.
+
+<sup>2</sup>
+
+L’assemblée générale de la SICAV ou du compartiment est compétente pour modifier le règlement de placement, dans la mesure où la modification:
+
+- a. n’est pas exigée par la loi;
+- b. concerne les droits des actionnaires, ou
+- c. n’est pas de nature purement formelle.
+
+<sup>3</sup>
+
+Si l’assemblée générale décide de modifier le règlement de placement, elle doit publier les informations suivantes dans les organes de publication ou les communiquer par écrit aux investisseurs:
+
+- a. un résumé des modifications principales;
+- b. l’indication des adresses auprès desquelles la teneur des modifications peut être obtenue gratuitement, et
+- c. l’indication de la date d’entrée en vigueur des modifications.
+
+<sup>4</sup> Les al. 1 à 3 s’appliquent par analogie aux statuts, pour autant que ceux-ci contiennent des dispositions relatives au contenu du règlement de placement.
+
+#### Art. 126k
+
+**Création, suppression ou regroupement de classes de parts**
+
+### (art. 26, al. 3, 78, al. 3, et 118*a*, al. 2, LPCC)
+
+<sup>1</sup> La direction ou la SICAV peut, avec l’autorisation de la banque dépositaire, créer, supprimer ou regrouper des classes de parts d’un L‑QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV pour autant que le contrat de fonds de placement ou les statuts le prévoient.
+
+<sup>2</sup> Elle tient compte à cet effet des critères suivants: structure des coûts, monnaie de référence, couverture de change, distribution ou thésaurisation des revenus, montant minimal de placement et cercle des investisseurs.
+
+<sup>3</sup> Les modalités doivent être réglées dans le contrat de fonds de placement ou dans le règlement de placement. Le contrat de fonds de placement ou le règlement de placement doit mentionner expressément le risque découlant du fait qu’une classe de parts peut répondre des engagements d’une autre classe de parts.
+
+<sup>4</sup> La direction ou la SICAV doit publier la création, la suppression ou le regroupement de classes de parts dans les organes de publication. Seul le regroupement est considéré comme une modification du contrat de fonds de placement ou du règlement de placement.
+
+<sup>5</sup> L’art. 112, al. 3, let. a à c, est applicable par analogie.
+
+#### Art. 126l
+
+**Fortune minimale**
+
+### (art. 25, al. 3, 36, al. 2, et 118*a*, al. 2, LPCC)
+
+<sup>1</sup> Au plus tard un an après son lancement, un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV doit disposer d’une fortune minimale nette de 5 millions de francs.
+
+<sup>2</sup> Pour autant que le contrat de fonds de placement ou le règlement de placement le prévoie, la direction peut prolonger ce délai deux fois de six mois.
+
+<sup>3</sup> Si la direction fait usage du droit de prolonger le délai, elle doit en informer immédiatement la société d’audit et publier sa décision dans les organes de publication ou en informer les investisseurs par écrit.
+
+#### Art. 126m
+
+**Restrictions du droit de demander le rachat en tout temps**
+
+### (art. 79 et 118*a*, al. 2, LPCC)
+
+<sup>1</sup> Le contrat de fonds de placement ou le règlement de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV et contenant des placements difficilement évaluables ou négociables peut prévoir que la dénonciation ne soit possible qu’à des échéances déterminées, mais au moins tous les cinq ans.
+
+<sup>2</sup> En outre, le contrat de fonds de placement ou le règlement de placement peut prévoir que les demandes de rachat soient réduites proportionnellement dès qu’un pourcentage ou seuil donné est atteint à un moment donné (*gating*), pour autant que des circonstances extraordinaires le justifient et que cela soit dans l’intérêt des investisseurs restants. La part restante des demandes de rachat doit alors être considérée comme reçue le jour d’évaluation suivant. Les modalités doivent être communiquées dans le contrat de fonds de placement ou le règlement de placement.
+
+<sup>3</sup> Si la direction met en œuvre un *gating*, elle doit en informer immédiatement la société d’audit et publier sa décision dans les organes de publication ou en informer par écrit les investisseurs.
+
+#### Art. 126n
+
+**Obligation d’informer en cas de suspension du rachat des parts**
+
+### (art. 81, al. 1, 118*a*, al. 2, et 118*m* LPCC)
+
+La direction doit informer immédiatement la société d’audit de la suspension du rachat des parts pour une période déterminée en vertu de l’art. 81, al. 1, ou 118*m* LPCC, et publier cette décision dans les organes de publication ou en informer par écrit les investisseurs.
+
+### Chapitre 3 Prescriptions en matière de placement
+
+### (art. 118*n* à 118*p* LPCC)
+
+### Section 1 Restrictions de placement et techniques de placement pour les L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV
+
+#### Art. 126o
+
+**Mention des risques**
+
+<sup>1</sup> Pour les L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV, la mention des risques visée à l’art. 118*n*, al. 2, LPCC prend la forme d’une clause de mise en garde qui décrit de manière succincte et précise les principaux risques liés aux divers placements possibles. La mise en garde figure sur la première page du contrat de fonds de placement ou du règlement de placement ainsi que sur les documents publicitaires.
+
+<sup>2</sup> Le contrat de fonds de placement ou le règlement de placement doit en outre contenir un commentaire des risques particuliers ou, le cas échéant, de la volatilité accrue du L‑QIF.
+
+#### Art. 126p
+
+**Restrictions de placement et techniques de placement**
+
+<sup>1</sup>
+
+Un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV peut:
+
+- a. recourir à des crédits jusqu’à concurrence de 50 % de la fortune nette du fonds;
+- b. mettre en gage ou en garantie jusqu’à 100 % de la fortune nette du fonds;
+- c. contracter des engagements dont l’ensemble représente 600 % au plus de la fortune nette du fonds.
+
+<sup>2</sup> Le contrat de fonds de placement ou le règlement de placement doit mentionner expressément les restrictions de placement.
+
+<sup>3</sup> Le contrat de fonds de placement ou le règlement de placement doit en outre décrire les techniques de placement autorisées, telles que prêts de valeurs mobilières, opérations de prise ou de mise en pension, utilisation d’instruments dérivés, emprunts, cession à titre de garantie, ventes à découvert et octroi de crédits. Il doit préciser expressément le genre et le montant des ventes à découvert autorisées. Si les prêts de valeurs mobilières ou les opérations de prise ou de mise en pension sont autorisés, le contrat de fonds de placement ou le règlement de placement et le rapport annuel doivent contenir les indications énumérées à l’art. 76, al. 4 et 5.
+
+<sup>4</sup> Les art. 1 à 55 OPC-FINMA[^126p-1], dans la version du 1<sup>er</sup> janvier 2015[^126p-2], concernant le prêt de valeurs mobilières, les opérations de prise ou de mise en pension, les instruments financiers dérivés et la gestion des sûretés sont applicables par analogie, à l’exception des obligations d’informer la FINMA et d’obtenir l’approbation de cette dernière.
+
+[^126p-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+
+#### Art. 126q
+
+**Respect des prescriptions de placement**
+
+<sup>1</sup> Les taux limites selon l’art. 126*p* s’appliquent à la fortune du fonds estimée à la valeur vénale; ils doivent être respectés en permanence.
+
+<sup>2</sup> Pour les L-QIF à compartiments, les restrictions et les techniques de placement valent pour chaque compartiment en particulier.
+
+<sup>3</sup> Un L-QIF revêtant la forme d’un placement contractuel ou d’une SICAV doit respecter les limites de placement au plus tard deux ans après son lancement. Si ce délai ne peut pas être respecté, la direction peut le prolonger une fois de six mois pour autant que cette prolongation soit prévue dans le contrat de fonds de placement ou le règlement de placement. Si la direction fait usage de ce droit, elle doit en informer immédiatement la banque dépositaire et la société d’audit et publier sa décision dans les organes de publication ou en informer par écrit les investisseurs.
+
+<sup>4</sup> Lorsque les limites sont dépassées par suite de variations du marché, le volume des placements doit être réduit au taux ou à une valeur admissible dans un délai raisonnable en tenant compte des intérêts des investisseurs.
+
+<sup>5</sup> En cas de violation active des prescriptions de placement, notamment par des achats ou des ventes, le volume des placements doit être immédiatement réduit au taux admissible. Si les investisseurs ne sont pas indemnisés du dommage résultant d’une violation active des prescriptions de placement, celle-ci doit être immédiatement communiquée à la société d’audit et publiée dès que possible dans les organes de publication ou communiquée par écrit aux investisseurs. La communication et la publication doivent comprendre une description concrète de la violation et du dommage qui en a résulté pour les investisseurs. Le rapport annuel doit rendre compte de toutes les violations actives des prescriptions de placement.
+
+#### Art. 126r
+
+**Investissements dans d’autres placements collectifs**
+
+Le contrat de fonds de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel ou le règlement de placement d’une SICAV doit préciser dans quelle mesure le L‑QIF a le droit d’investir dans d’autres placements collectifs (fonds cibles). S’il s’agit d’une part importante de la fortune du fonds:
+
+- a. le contrat de fonds de placement ou le règlement de placement doit indiquer quel est le montant maximal des commissions de gestion à la charge du L‑QIF lui-même ainsi que des fonds cibles;
+- b. le rapport annuel doit indiquer quelle est la part maximale des commissions de gestion à la charge, d’une part, du L‑QIF, et, d’autre part, des fonds cibles.
+
+#### Art. 126s
+
+**Structures de fonds maîtres-nourriciers**
+
+<sup>1</sup> Un fonds L-QIF nourricier est un L-QIF dont la fortune est placée à hauteur d’au moins 85 % dans des parts du même fonds L‑QIF cible (fonds L‑QIF maître).
+
+<sup>2</sup> Les structures de fonds maîtres-nourriciers sont autorisées pour les L‑QIF, à condition d’être prévues dans le contrat de fonds de placement ou dans le règlement de placement, et pour autant que le fonds maître et le fonds nourricier soient tous les deux des L‑QIF.
+
+<sup>3</sup>
+
+Les investisseurs d’un fonds L-QIF maître sont ses fonds L-QIF nourriciers. D’autres investisseurs peuvent être acceptés s’ils sont:
+
+- a. préalablement informés du fait qu’ils investissent dans un fonds maître, et
+- b. traités sur un pied d’égalité avec les L-QIF nourriciers.
+
+<sup>4</sup> Les art. 56 à 64 OPC-FINMA[^126s-1], dans la version du 1<sup>er</sup> janvier 2015[^126s-2], sur les structures maître-nourricier sont applicables par analogie, à l’exception des obligations d’informer la FINMA et d’obtenir l’approbation de cette dernière.
+
+[^126s-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+
+### Section 2 Prescriptions supplémentaires pour les L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV avec placements immobiliers
+
+#### Art. 126t
+
+**Placements immobiliers**
+
+<sup>1</sup> Les placements immobiliers autorisés d’un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV doivent être expressément décrits dans le contrat de fonds de placement ou le règlement de placement.
+
+<sup>2</sup> Les immeubles et les cédules hypothécaires ou les autres droits de gage immobiliers contractuels doivent être enregistrés au registre foncier au nom de la direction de fonds ou de la SICAV, avec une mention indiquant qu’ils font partie du L‑QIF. Si le L‑QIF comporte des compartiments, une mention doit indiquer le compartiment auquel appartient l’immeuble, la cédule hypothécaire ou l’autre droit de gage immobilier contractuel.
+
+<sup>3</sup> Le contrat de fonds de placement ou le règlement de placement doit indiquer si le L‑QIF peut acquérir des terrains non bâtis qui ne sont pas équipés et immédiatement constructibles, et qui ne font pas l’objet d’un permis de construire exécutoire. Le contrat de fonds de placement ou le règlement de placement doit décrire les risques particuliers liés à ce genre d’investissements.
+
+<sup>4</sup> Si la direction fait construire ou rénove des bâtiments, elle peut, pendant la période de préparation, de construction ou de rénovation, créditer le compte de résultats du L‑QIF d’un intérêt intercalaire au taux du marché pour les terrains constructibles et les bâtiments en construction; le coût ne doit cependant pas dépasser la valeur vénale estimée.
+
+#### Art. 126u
+
+**Placements immobiliers en copropriété**
+
+<sup>1</sup>
+
+Un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV peut détenir des immeubles en copropriété. S’il s’agit d’un immeuble en copropriété ordinaire, le contrat de fonds de placement ou le règlement de placement précise si:
+
+- a. le L-QIF peut détenir des participations minoritaires;
+- b. la direction ou la SICAV s’est réservé, dans un règlement d’utilisation et d’administration au sens de l’art. 647, al. 1, CC[^126u-1], l’application des droits, mesures et actes prévus aux art. 647*a* à 651 CC, ou
+- c. le droit de préemption prévu à l’art. 682 CC est supprimé par contrat.
+
+<sup>2</sup>
+
+S’il s’agit de parts de copropriété représentant une participation minoritaire, le contrat de fonds de placement ou le règlement de placement doit préciser:
+
+- a. le pourcentage minimal de participation que le L-QIF doit détenir lorsqu’il détient des participations minoritaires;
+- b. si tous les copropriétaires doivent être connus de la direction ou de la SICAV;
+- c. si d’éventuelles restrictions au droit de céder les parts de copropriété en tout temps peuvent exister, et
+- d. la limite maximale d’investissement en participations minoritaires par rapport à la fortune du fonds.
+
+<sup>3</sup> Le contrat de fonds de placement ou le règlement de placement doit mentionner, le cas échéant, les risques particuliers inhérents aux mesures énoncées à l’al. 1.
+
+[^126u-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 126v
+
+**Constitution de gages et mise en garantie des droits de gage**
+
+En cas de constitution de gages sur des immeubles et de mise en garantie des droits de gage, l’ensemble des immeubles d’un L‑QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV ne peuvent être grevés en moyenne que jusqu’à concurrence de la moitié de leur valeur vénale.
+
+#### Art. 126w
+
+**Répartition des risques**
+
+Le contrat de fonds de placement ou le règlement de placement d’un L-QIF revêtant la forme d’un placement contractuel ou d’une SICAV détenant des placements immobiliers doit contenir notamment les indications suivantes concernant la répartition des risques:
+
+- a. le nombre minimum d’immeubles devant être acquis par le L-QIF;
+- b.
+
+  les restrictions de placements suivantes, exprimées en pour cent de la fortune du L‑QIF:
+
+  - 1\. le pourcentage maximal que la valeur vénale d’un immeuble peut représenter,
+  - 2\. le pourcentage maximal pouvant être investi en terrains à bâtir,
+  - 3\. le pourcentage maximal pouvant être investi en immeubles en droit de superficie,
+  - 4\. le pourcentage maximal pouvant être investi dans des cédules hypothécaires et autres droits de gage immobilier contractuels,
+  - 5\. le pourcentage maximal pouvant être investi dans des parts d’autres fonds immobiliers et de sociétés d’investissement immobilier.
+
+#### Art. 126x
+
+**Transactions avec des personnes proches**
+
+<sup>1</sup>
+
+Dans un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV détenant des placements immobiliers, les transactions avec des personnes proches au sens de l’art. 63, al. 2 et 3, LPCC sont possibles lorsque:
+
+- a. le contrat de fonds de placement ou le règlement de placement prévoit cette possibilité;
+- b. le nombre d’investisseurs prévu dans le contrat de fonds de placement ou le règlement de placement, mais au moins la moitié des investisseurs ou des voix représentées à l’assemblée générale, acceptent la transaction;
+- c. en sus de l’estimation des experts permanents du L-QIF, un expert selon l’art. 64, al. 1, LPCC, indépendant des experts du fonds et de leur employeur, de la direction ou de la SICAV ainsi que de la banque dépositaire du L‑QIF, confirme que le prix d’achat et le prix de vente de la valeur immobilière, de même que les frais de transaction, sont conformes au marché.
+
+<sup>2</sup>
+
+Au terme de la transaction, la direction doit établir un rapport contenant:
+
+- a. des indications concernant les différentes valeurs immobilières reprises ou cédées et leur valeur à la date de référence de la reprise ou de la cession;
+- b. les rapports d’estimation des experts permanents;
+- c. le rapport sur la conformité au marché du prix d’achat ou du prix de vente établi par les experts selon l’al. 1, let. c.
+
+<sup>3</sup> La société d’audit doit confirmer à la direction, dans le cadre de sa révision, que le devoir de fidélité spécial dans le cas de placements immobiliers est respecté.
+
+<sup>4</sup> Le rapport annuel du L-QIF doit mentionner les transactions avec des personnes proches.
+
+<sup>5</sup> Aucune dérogation à l’interdiction d’effectuer des transactions avec des personnes proches n’est possible pour les valeurs immobilières qui font l’objet de projets de construction à la demande de la direction, de la SICAV ou de personnes qui leur sont proches.
+
+<sup>6</sup> Le terme «personne proche» est défini à l’art. 91*a*.
+
+#### Art. 126y
+
+**Exigences relatives aux experts chargés de l’estimation et estimation des placements immobiliers**
+
+<sup>1</sup>
+
+Les experts chargés de l’estimation en vertu de l’art. 118*p*, al. 2, LPCC doivent:
+
+- a. avoir les qualifications requises;
+- b. être indépendants, et
+- c. disposer de garanties financières suffisantes ou avoir conclu une assurance responsabilité professionnelle.
+
+<sup>2</sup> Ils doivent procéder à l’estimation avec le soin d’un expert sérieux et qualifié.
+
+<sup>3</sup> L’estimation des immeubles lors de leur acquisition ou de leur vente, l’estimation des immeubles appartenant au L‑QIF ainsi que le contrôle et l’évaluation des projets de construction sont régis par les art. 92 à 94.
+
+### Section 3 Prescriptions de placement pour les L-QIF revêtant la forme d’une SCmPC
+
+#### Art. 126z
+
+**Restrictions de placement et techniques de placement**
+
+Le contrat de société d’un L-QIF revêtant la forme d’une SCmPC doit mentionner expressément les restrictions de placement et les techniques de placement autorisées.
+
+#### Art. 126z<sup>bis</sup>
+
+**Transactions avec des personnes proches**
+
+<sup>1</sup>
+
+Seuls sont autorisés les projets immobiliers, de construction et d’infrastructure de personnes qui ne sont pas directement ou indirectement liées:
+
+- a. aux associés indéfiniment responsables;
+- b. aux personnes responsables de l’administration et de la gestion, ou
+- c. aux investisseurs.
+
+<sup>2</sup>
+
+Les associés indéfiniment responsables, les personnes responsables de l’administration et de la gestion et les personnes physiques ou morales qui leur sont proches, ainsi que les investisseurs d’une SCmPC, peuvent acquérir de celle‑ci des valeurs immobilières et des valeurs d’infrastructure ou lui céder de telles valeurs:
+
+- a. si un expert indépendant chargé de l’estimation confirme que le prix d’achat ou de vente des valeurs immobilières et des valeurs d’infrastructure ainsi que les coûts de transaction sont conformes à ceux du marché, et
+- b. si l’assemblée des associés a approuvé la transaction.
+
+<sup>3</sup> La société d’audit doit confirmer, dans le cadre de sa révision de l’établissement chargé de l’administration, que le devoir de fidélité spécial dans le cas de placements immobiliers est respecté.
+
+#### Art. 126z<sup>ter</sup>
+
+**Exigences relatives aux experts chargés de l’estimation et estimation de placements immobiliers**
+
+Les exigences auxquelles sont soumis les experts chargés de l’estimation, l’estimation des immeubles lors de leur acquisition ou de leur vente, l’estimation des immeubles appartenant au L‑QIF ainsi que le contrôle et l’évaluation des projets de construction sont régis par l’art. 126*y*.
+
+### Chapitre 4 Établissement des comptes, évaluation, reddition des comptes et obligation de publier
+
+### (art. 118*i* LPCC)
+
+#### Art. 126z<sup>quater</sup>
+
+**Établissement des comptes, évaluation et reddition des comptes**
+
+<sup>1</sup> L’établissement des comptes, l’évaluation et la reddition des comptes d’un L-QIF sont régis par analogie par les art. 79 à 105 et 108 OPC‑FINMA[^126zquater-1], dans la version du 1<sup>er</sup> janvier 2021[^126zquater-2], à l’exception de l’art. 83, al. 1, 2<sup>e</sup> phrase.
+
+<sup>2</sup> Dans la mesure où l’évaluation n’est pas réglementée par l’OPC-FINMA ni par les normes reconnues d’autorégulation de l’organisation professionnelle de la branche, elle doit être effectuée conformément à des normes internationales reconnues. Les normes appliquées doivent être décrites de manière détaillée dans le contrat de fonds de placement, le règlement de placement ou le contrat de société.
+
+[^126zquater-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
+
+#### Art. 126z<sup>quinquies</sup>
+
+**Obligation de publier**
+
+<sup>1</sup> Le contrat de fonds de placement ou le règlement de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV doit indiquer quand et sous quelle forme le prix d’émission et le prix de rachat ainsi que la valeur nette d’inventaire sont communiqués aux investisseurs. Ces indications doivent être fournies au moins une fois par an.
+
+<sup>2</sup> Lorsque la valeur nette d’inventaire est publiée, la mention «commissions non comprises» doit y être ajoutée.
+
+### Chapitre 5 Audit et rapports d’audit
+
+### (art. 118*i*, al. 6, LPCC)
+
+### Section 1 Audit
+
+#### Art. 126z<sup>sexies</sup>
+
+**Subdivision**
+
+Les audits d’un L-QIF doivent être subdivisés en une révision des comptes et un audit complémentaire.
+
+#### Art. 126z<sup>septies</sup>
+
+**Révision des comptes**
+
+<sup>1</sup> La révision des comptes d’un L-QIF porte sur les informations exigées en vertu des art. 89, al. 1, let. a à h, et 90 LPCC.
+
+<sup>2</sup> La révision des comptes des associés indéfiniment responsables d’un L-QIF revêtant la forme d’une SCmPC est régie par les art. 728 à 731*a* CO[^126zsepties-1].
+
+<sup>3</sup> Les comptes sont révisés chaque année.
+
+[^126zsepties-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>octies</sup>
+
+**Audit complémentaire**
+
+<sup>1</sup>
+
+L’audit complémentaire d’un L-QIF comprend l’audit portant sur le respect des prescriptions suivantes:
+
+- a. prescriptions visées à l’art. 118*a*, al. 1, LPCC concernant les caractéristiques d’un L‑QIF;
+- b. prescriptions visées à l’art. 118*f* LPCC concernant l’obligation d’annoncer et la collecte de données.
+
+<sup>2</sup> L’audit complémentaire est réalisé tous les deux ans.
+
+<sup>3</sup>
+
+Lors de la première année d’audit suivant le lancement du L-QIF ou la modification des documents concernant le fonds, l’audit complémentaire comprend en outre le contrôle du respect des prescriptions suivantes:
+
+- a.
+
+  prescriptions concernant l’adoption et le contenu des documents suivants:
+
+  - 1\. le contrat de fonds de placement d’un L-QIF revêtant la forme d’un fonds de placement contractuel,
+  - 2\. les statuts et le règlement de placement d’un L-QIF revêtant la forme d’une SICAV,
+  - 3\. le contrat de société d’un L-QIF revêtant la forme d’une SCmPC;
+
+- b. prescriptions concernant la modification des documents visés à l’al. a;
+- c. si l’approche par un modèle est appliquée au calcul des risques, les prescriptions concernant le calcul de ceux‑ci (art. 33 à 42 OPC‑FINMA[^126zocties-1], dans la version du 1<sup>er</sup> janvier 2015[^126zocties-2], applicables par analogie).
+
+<sup>4</sup> Lors de l’année d’audit où expire le délai prévu à l’art. 126*q*, al. 3, pour respecter les limites de placement, l’audit complémentaire comprend en outre la vérification de la tenue de ce délai.
+
+<sup>5</sup> Les art. 5 à 8 de l’ordonnance du 5 novembre 2014 sur les marchés financiers[^126zocties-3] s’appliquent par analogie à l’exécution de l’audit complémentaire.
+
+<sup>6</sup> Le contrôle du respect d’autres dispositions du droit des marchés financiers dans le cadre de l’audit prudentiel de l’établissement chargé de l’administration visé à l’art. 112, al. 1, OPC‑FINMA[^126zocties-4], dans la version du 1<sup>er</sup> janvier 2021[^126zocties-5], est réservé.
+
+[^126zocties-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
+[^126zocties-3]: [RS 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
+[^126zocties-4]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-5]: RS **2014** 4237; **2020** 5327
+
+### Section 2 Rapports d’audit
+
+#### Art. 126z<sup>novies</sup>
+
+**Rapports d’audit**
+
+<sup>1</sup>
+
+La société d’audit établit:
+
+- a.
+
+  les rapports suivants sur la révision des comptes:
+
+  - 1\. des rapports d’audit sur la révision des comptes annuels selon l’art. 118*i*, al. 2, LPCC,
+  - 2\. des rapports succincts sur l’audit du L-QIF;
+
+- b. des rapports d’audit sur l’audit complémentaire.
+
+<sup>2</sup> Pour les L-QIF à compartiments, un rapport doit être établi pour chaque compartiment en particulier.
+
+<sup>3</sup> Les rapports doivent être rédigés dans une langue officielle ou en anglais.
+
+#### Art. 126z<sup>decies</sup>
+
+**Rapports d’audit sur la révision des comptes**
+
+Les dispositions du CO[^126zdecies-1] sur le contrôle ordinaire s’appliquent par analogie aux rapports sur la révision des comptes.
+
+[^126zdecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>undecies</sup>
+
+**Rapport succinct**
+
+<sup>1</sup> La société d’audit doit établir le rapport succinct à temps avant la publication du rapport annuel. Le rapport succinct doit être signé par l’auditeur responsable compétent et par un collaborateur de la société d’audit autorisé à signer.
+
+<sup>2</sup> Il doit se prononcer sur le respect des dispositions légales, contractuelles, statutaires et réglementaires en matière de comptes annuels et sur la vérification des informations selon l’art. 89, al. 1, let. a à h, LPCC et, dans le cas de L‑QIF détenant des placements immobiliers, selon l’art. 90 LPCC.
+
+<sup>3</sup> Dans le cas de L-QIF revêtant la forme d’une SICAV, le rapport succinct peut couvrir aussi l’établissement du rapport de l’organe de révision visé à l’art. 728*b* CO[^126zundecies-1].
+
+<sup>4</sup> Si la FINMA en reconnaît la validité, l’attestation standard de l’association professionnelle des organes de révision est également valable pour le L‑QIF.
+
+[^126zundecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 126z<sup>duodecies</sup>
+
+**Rapport d’audit sur l’audit complémentaire**
+
+<sup>1</sup> Le rapport d’audit sur l’audit complémentaire doit présenter les résultats de l’audit de façon exhaustive, explicite et objective. L’auditeur responsable ainsi qu’un autre auditeur autorisé à signer le confirment par leur signature.
+
+<sup>2</sup> Le rapport d’audit doit être porté à la connaissance de l’organe responsable de la haute direction, de la surveillance et du contrôle de l’établissement chargé d’administrer le L‑QIF et à celle de l’organe responsable de la haute direction, de la surveillance et du contrôle du L‑QIF. Il doit être traité lors d’une séance de ces organes et son traitement doit être consigné dans un procès-verbal.
+
+#### Art. 126z
+
+**<sup>tredecies</sup>Manquements essentiels**
+
+<sup>1</sup> Si la société d’audit constate des manquements essentiels dans le cadre de son activité de contrôle, elle les signale sous forme d’irrégularités dans son rapport concernant l’audit prudentiel de l’établissement chargé d’administrer le L‑QIF.
+
+<sup>2</sup> Toute violation d’une prescription définie à l’art. 118*a*, al. 1, LPCC est considérée comme un manquement essentiel.
+
 ## Titre 4 Placements collectifs étrangers
 
 ### Chapitre 1 Approbation
@@ -2421,9 +3246,19 @@ Si la dénomination du placement collectif étranger est susceptible de prêter 
 
 ### (art. 120, al. 1 et 4, LPCC)
 
-Toute publicité pour des placements collectifs étrangers entraîne le respect des obligations visées à l’art. 120, al. 1 et 4, de la loi.
+Toute publicité pour des placements collectifs étrangers entraîne le respect des obligations visées à l’art. 120, al. 1 et 4, LPCC.
 
 [^127a-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 127b
+
+**ETF étrangers**[^127b-1]
+
+### (art. 78, al. 3, 119 et 120 LPCC)
+
+Les parts ou classes de parts d’un placement collectif ouvert étranger constituées en tant qu’ETF selon un droit étranger et qui sont proposées en Suisse à des investisseurs non qualifiés doivent être cotées en permanence à une bourse suisse.
+
+[^127b-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 128
 
@@ -2438,17 +3273,17 @@ La direction de fonds d’un placement collectif étranger ou la société de fo
 - a. qu’elle a conclu une convention de représentation en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte;
 - b. qu’elle a conclu une convention de service de paiement en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte.
 
-<sup>2</sup> La banque dépositaire doit apporter la preuvequ’elle a conclu une convention de service de paiement en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte.
+<sup>2</sup> La banque dépositaire doit apporter la preuve qu’elle a conclu une convention de service de paiement en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte.
 
 <sup>3</sup>
 
 Concernant l’offre de placements collectifs étrangers en Suisse, la convention de représentation définit notamment:
 
-- a. les droits et obligations de la direction de fonds ou de la société de fonds visée à l’al. 1 et du représentant au sens de l’art. 124, al. 2, de la loi, en particulier ses obligations d’annoncer, de publier et d’informer, ainsi que les règles de conduite;
+- a. les droits et obligations de la direction de fonds ou de la société de fonds visée à l’al. 1 et du représentant au sens de l’art. 124, al. 2, LPCC, en particulier ses obligations d’annoncer, de publier et d’informer, ainsi que les règles de conduite;
 - b. le type d’offre du placement collectif en Suisse;
 - c. l’obligation de la direction de fonds ou de la société de fonds visée à l’al. 1 de rendre compte au représentant, en particulier en cas de modification du prospectus et de l’organisation du placement collectif étranger.
 
-<sup>4</sup> La FINMA publie une liste des pays avec lesquels elle a conclu une convention de coopération et d’échange de renseignements en vertu de l’art. 120, al. 2, let. e, de la loi.
+<sup>4</sup> La FINMA publie une liste des pays avec lesquels elle a conclu une convention de coopération et d’échange de renseignements en vertu de l’art. 120, al. 2, let. e, LPCC.
 
 [^128-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2458,7 +3293,7 @@ Concernant l’offre de placements collectifs étrangers en Suisse, la conventio
 
 ### (art. 124, al. 2, LPCC)
 
-<sup>1</sup> Le représentant d’un placement collectif étranger dispose d’une organisation appropriée pour remplir ses obligations selon l’art. 124 de la loi.
+<sup>1</sup> Le représentant d’un placement collectif étranger dispose d’une organisation appropriée pour remplir ses obligations selon l’art. 124 LPCC.
 
 <sup>2</sup> La FINMA règle les modalités concernant l’organisation et les obligations du représentant du placement collectif étranger.[^128a-2]
 
@@ -2481,7 +3316,7 @@ La FINMA peut prévoir, dans certains cas, une procédure d’approbation simpli
 
 ### (art. 120, al. 4, LPCC)
 
-Les placements collectifs étrangers offerts à des investisseurs qualifiés au sens de l’art. 5, al. 1, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^129a-2] dans le cadre d’une relation de conseil en placement axée sur le long terme au sens de l’art. 3, let. c, ch. 4, LSFin ne doivent pas remplir les conditions fixées à l’art. 120, al. 2, let. d, de la loi.
+Les placements collectifs étrangers offerts à des investisseurs qualifiés au sens de l’art. 5, al. 1, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^129a-2] dans le cadre d’une relation de conseil en placement axée sur le long terme au sens de l’art. 3, let. c, ch. 4, LSFin ne doivent pas remplir les conditions fixées à l’art. 120, al. 2, let. d, LPCC.
 
 [^129a-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^129a-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
@@ -2503,7 +3338,7 @@ Par plans de participation des collaborateurs, on entend les plans de participat
 
 ### (art. 15 et 120, LPCC)
 
-L’approbation accordée à un placement collectif étranger en vertu des art. 15 et 120 de la loi devient caduque lorsque l’autorité de surveillance du pays d’origine retire sa propre approbation au placement collectif.
+L’approbation accordée à un placement collectif étranger en vertu des art. 15 et 120 LPCC devient caduque lorsque l’autorité de surveillance du pays d’origine retire sa propre approbation au placement collectif.
 
 ### Chapitre 2 Représentant de placements collectifs étrangers
 
@@ -2637,9 +3472,9 @@ Elle soumet le rapport d’audit établi en vertu de l’al. 1 aux destinataires
 
 ### (art. 126, al. 5 et 6, LPCC)
 
-<sup>1</sup> L’audit des comptes annuels de placements collectifs porte sur les informations exigées par les art. 89, al. 1, let. a à h, et 90 de la loi.
+<sup>1</sup> L’audit des comptes annuels de placements collectifs porte sur les informations exigées par les art. 89, al. 1, let. a à h, et 90 LPCC.
 
-<sup>2</sup> S’agissant de l’audit des comptes annuels des personnes, des fonds de placement ainsi que de toute société immobilière appartenant aux fonds immobiliers ou aux sociétés d’investissement immobilier, mentionnés à l’art. 126, al. 1, de la loi, la FINMA peut régler les modalités concernant la forme, le contenu, la périodicité, les délais et les destinataires du rapport ainsi que l’exécution de l’audit.
+<sup>2</sup> S’agissant de l’audit des comptes annuels des personnes, des fonds de placement ainsi que de toute société immobilière appartenant aux fonds immobiliers ou aux sociétés d’investissement immobilier, mentionnés à l’art. 126, al. 1, LPCC, la FINMA peut régler les modalités concernant la forme, le contenu, la périodicité, les délais et les destinataires du rapport ainsi que l’exécution de l’audit.
 
 [^137-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
@@ -2677,9 +3512,9 @@ Elle soumet le rapport d’audit établi en vertu de l’al. 1 aux destinataires
 
 La FINMA peut, notamment pour les documents suivants, déterminer sous quelle forme ils doivent lui être remis:
 
-- a. les demandes d’autorisation et d’approbation au sens des art. 13 et 15 de la loi et les documents correspondants;
+- a. les demandes d’autorisation et d’approbation au sens des art. 13 et 15 LPCC et les documents correspondants;
 - b. les prospectus et les feuilles d’information de base;
-- c. les annonces de modifications visées à l’art. 16 de la loi et les documents correspondants;
+- c. les annonces de modifications visées à l’art. 16 LPCC et les documents correspondants;
 - d. les rapports annuels et semestriels.[^142-1]
 
 <sup>2</sup> Elle peut désigner un tiers comme destinataire.
@@ -2731,6 +3566,18 @@ La FINMA peut, notamment pour les documents suivants, déterminer sous quelle fo
 [^144c-1]
 
 [^144c-1]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogé par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 144d
+
+**Disposition transitoire relative à la modification du 31 janvier 2024**[^144d-1]
+
+<sup>1</sup> Les documents concernant des placements collectifs existants doivent être adaptés aux exigences fixées aux art. 76, al. 4, et 106, al. 4 et 5, dans les deux ans à compter de l’entrée en vigueur de la modification du 31 janvier 2024. Le délai est réputé respecté dès la remise des documents adaptés à l’autorité compétente.
+
+<sup>2</sup> Dans le cas de placements collectifs existants, l’art. 76, al. 5, s’applique pour la première fois à l’exercice qui commence deux ans à compter de l’entrée en vigueur du nouveau droit.
+
+<sup>3</sup> Dans le cas de placements collectifs existants, les exigences fixées à l’art. 108*a* doivent être remplies dans les deux ans à compter de l’entrée en vigueur de la modification du 31 janvier 2024.
+
+[^144d-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 145
 
