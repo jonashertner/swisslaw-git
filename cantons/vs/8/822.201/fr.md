@@ -4,20 +4,21 @@ number: "822.201"
 title: "Règlement concernant l'ouverture des magasins"
 short: RLOM
 language: fr
-version: 2022-06-03
-valid_until: 2024-02-29
-version_adopted: 2022-05-25
+version: 2024-03-01
+version_adopted: 2024-02-21
 adopted: 2002-10-23
 in_force: 2002-11-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/822.201"
-pdf: "https://lex.vs.ch/api/fr/versions/3037/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3294/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant l'ouverture des magasins
 
-du 23.10.2002 (état 03.06.2022)
+(RLOM)
+
+du 23.10.2002 (état 01.03.2024)
 
 Le Conseil d'Etat du Canton du Valais
 
@@ -138,7 +139,10 @@ ordonne:
 
 - a) Ayent: Anzère;
 - b) Evolène;
-- c) Hérémence: Les Masses;
+- c) Hérémence:
+  - 1\. Les Masses,
+  - 2\. Euseigne,
+  - 3\. Grande-Dixence;
 - d) Mont-Noble;
 - e) Vex;
 - f) …

@@ -4,20 +4,21 @@ number: "822.201"
 title: "Reglement über die Ladenöffnung *"
 short: RLÖ
 language: de
-version: 2022-06-03
-valid_until: 2024-02-29
-version_adopted: 2022-05-25
+version: 2024-03-01
+version_adopted: 2024-02-21
 adopted: 2002-10-23
 in_force: 2002-11-01
 url: "https://lex.vs.ch/app/de/texts_of_law/822.201"
-pdf: "https://lex.vs.ch/api/de/versions/3037/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Ladenöffnung
 
-vom 23.10.2002 (Stand 03.06.2022)
+(RLÖ)
+
+vom 23.10.2002 (Stand 01.03.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -138,7 +139,10 @@ verordnet:
 
 - a) Ayent: Anzère;
 - b) Evolène;
-- c) Hérémence: Les Masses;
+- c) Hérémence:
+  - 1\. Les Masses,
+  - 2\. Euseigne,
+  - 3\. Grande-Dixence;
 - d) Mont-Noble;
 - e) Vex;
 - f) …
