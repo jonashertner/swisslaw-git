@@ -4,13 +4,13 @@ number: "811.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-01-01
-corrected: 2024-02-29
-version_adopted: 2023-10-31
+version: 2024-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-08-08
 adopted: 1998-04-09
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3593/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3593/pdf_file"
 
 (StG)
 
-vom 09.04.1998 (Stand 01.01.2024)
+vom 09.04.1998 (Stand 01.03.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -544,12 +544,12 @@ als Gesetz:[^ingress-4]
 - h) die Zahlung von Genugtuungssummen;
 - i) die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - k) …
-- l) der Sold der Milizfeuerwehrleute bis zum Betrag von Fr. 5000.– für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- l) der Sold der Milizfeuerwehrleute bis zum Betrag von Fr. 5300.– für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - m) …
 - n) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
-- o) die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-2] zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-3] zugelassen sind;
+- o) die einzelnen Gewinne bis zum Betrag von Fr. 1 054 600.– aus der Teilnahme an Grossspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-2] zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-3] zugelassen sind;
 - p) die Gewinne aus Kleinspielen, die nach dem eidgenössischen Geldspielgesetz vom 29. September 2017[^37-4] zugelassen sind;
-- q) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e des eidgenössischen Geldspielgesetzes vom 29. September 2017[^37-5] diesem nicht unterstehen, sofern die Grenze von Fr. 1000.– nicht überschritten wird;
+- q) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e des eidgenössischen Geldspielgesetzes vom 29. September 2017[^37-5] diesem nicht unterstehen, sofern die Grenze von Fr. 1100.– nicht überschritten wird;
 - r) Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^37-6].
 
 [^37-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de).
@@ -673,19 +673,19 @@ als Gesetz:[^ingress-4]
 - d) die nach Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen auf Leistungen aus anerkannten Formen der gebundenen Selbstvorsorge nach Art. 82 BVG;
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f dieser Bestimmung fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 6400.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 3200.– für die übrigen Steuerpflichtigen. Diese Abzüge erhöhen sich um Fr. 1000.– für gemeinsam steuerpflichtige Ehegatten und um Fr. 500.– für die übrigen Steuerpflichtigen, wenn keine Beiträge nach Bst. d und e dieser Bestimmung abgezogen werden. Sie erhöhen sich um Fr. 1000.– für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
-- h) die Kosten der Betreuung von Kindern unter 14 Jahren durch Drittpersonen, höchstens Fr. 25 000.– für jedes Kind, das mit dem Steuerpflichtigen, der für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit des Steuerpflichtigen stehen;
-- i) Mitgliederbeiträge und Zuwendungen an politische Parteien bis zum Gesamtbetrag von Fr. 20 000.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 10 000.– für die übrigen Steuerpflichtigen, wenn die politischen Parteien:
+- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f dieser Bestimmung fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von Fr. 6700.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 3400.– für die übrigen Steuerpflichtigen. Diese Abzüge erhöhen sich um Fr. 1000.– für gemeinsam steuerpflichtige Ehegatten und um Fr. 500.– für die übrigen Steuerpflichtigen, wenn keine Beiträge nach Bst. d und e dieser Bestimmung abgezogen werden. Sie erhöhen sich um Fr. 1100.– für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
+- h) die Kosten der Betreuung von Kindern unter 14 Jahren durch Drittpersonen, höchstens Fr. 26 400.– für jedes Kind, das mit dem Steuerpflichtigen, der für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit des Steuerpflichtigen stehen;
+- i) Mitgliederbeiträge und Zuwendungen an politische Parteien bis zum Gesamtbetrag von Fr. 21 100.– für gemeinsam steuerpflichtige Ehegatten und von Fr. 10 500.– für die übrigen Steuerpflichtigen, wenn die politischen Parteien:
   - 1\. im Parteienregister nach Art. 76 a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^45-1] eingetragen sind oder
   - 2\. in einem kantonalen Parlament vertreten sind oder
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlamentes wenigstens 3 Prozent der Stimmen erreicht haben;
-- j) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 12 000.– je Steuerpflichtigen, wenn:
+- j) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 12 900.– je Steuerpflichtigen, wenn:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
 <sup>2</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 500.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Art. 37 Bst. n bis q dieses Erlasses steuerfrei sind, werden 5 Prozent, jedoch höchstens Fr. 5000.–, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Art. 37 Bst. o dieses Erlasses werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25 000.–, abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Art. 37 Bst. n bis q dieses Erlasses steuerfrei sind, werden 5 Prozent, jedoch höchstens Fr. 5400.–, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Art. 37 Bst. o dieses Erlasses werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 26 400.–, abgezogen.
 
 [^45-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de).
 
@@ -720,9 +720,9 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:
 
 - a) als Kinderabzug, wenn der Steuerpflichtige für den Unterhalt zur Hauptsache aufkommt und keinen Abzug nach Art. 45 Abs. 1 Bst. c dieses Erlasses beansprucht:
-- 1\. Fr. 7200.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind, das noch nicht schulpflichtig ist;
-- 2\. Fr. 10 200.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht;
-- 3\. höchstens weitere Fr. 13 000.– für Ausbildungskosten für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht, soweit sie der Steuerpflichtige selbst trägt und sie Fr. 3000.– übersteigen.
+- 1\. Fr. 7500.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind, das noch nicht schulpflichtig ist;
+- 2\. Fr. 10 600.– für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht;
+- 3\. höchstens weitere Fr. 13 600.– für Ausbildungskosten für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht, soweit sie der Steuerpflichtige selbst trägt und sie Fr. 3100.– übersteigen.
 
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
@@ -738,14 +738,14 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Die einfache Steuer vom Einkommen beträgt:
 
-- a) 0 Prozent für die ersten — Fr. 11 000.–
-- b) 4 Prozent für die weiteren — Fr. 4 000.–
-- c) 6 Prozent für die weiteren — Fr. 17 000.–
-- d) 8 Prozent für die weiteren — Fr. 25 000.–
-- e) 9,2 Prozent für die weiteren — Fr. 36 000.–
-- f) 9,4 Prozent für die weiteren — Fr. 157 000.–
+- a) 0 Prozent für die ersten — Fr. 11 500.–
+- b) 4 Prozent für die weiteren — Fr. 4 200.–
+- c) 6 Prozent für die weiteren — Fr. 17 700.–
+- d) 8 Prozent für die weiteren — Fr. 26 100.–
+- e) 9,2 Prozent für die weiteren — Fr. 37 500.–
+- f) 9,4 Prozent für die weiteren — Fr. 163 800.–
 
-<sup>2</sup> Für steuerbare Einkommen über Fr. 250 000.– beträgt die einfache Steuer für das ganze Einkommen 8,5 Prozent.
+<sup>2</sup> Für steuerbare Einkommen über Fr. 260 800.– beträgt die einfache Steuer für das ganze Einkommen 8,5 Prozent.
 
 <sup>3</sup> Für gemeinsam steuerpflichtige Ehegatten wird der Steuersatz des halben steuerbaren Einkommens angewendet.
 
@@ -940,7 +940,7 @@ als Gesetz:[^ingress-4]
 - a) die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung) und die Genossenschaften;
 - b) die Vereine, die Stiftungen, die Korporationen des Privatrechts sowie die Körperschaften und die Anstalten des öffentlichen Rechts.
 
-<sup>2</sup> Die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 des eidgenössischen Kollektivanlagengesetzes vom 23. Juni 2006[^70-1] sind den juristischen Personen gleichgestellt. Die Investmentgesellschaften mit festem Kapital nach Art. 110 des eidgenössischen Kollektivanlagengesetzes vom 23. Juni 2006[^70-2] werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 oder Art. 118a des eidgenössischen Kollektivanlagengesetzes vom 23. Juni 2006[^70-1] sind den juristischen Personen gleichgestellt. Die Investmentgesellschaften mit festem Kapital nach Art. 110 des eidgenössischen Kollektivanlagengesetzes vom 23. Juni 2006[^70-2] werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie aufgrund wirtschaftlicher Zugehörigkeit steuerpflichtige ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit sind den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
