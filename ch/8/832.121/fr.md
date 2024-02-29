@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
+du 18 novembre 2015 (État le 1<sup>er</sup> mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -242,13 +242,13 @@ Les placements suivants sont réputés conformes:
 - b. les créances, libellées en montant fixe, autres que celles visées à la let. a, notamment les emprunts obligataires, les obligations à option, les obligations convertibles et les lettres de gage;
 - c. les actions, les bons de participation, les bons de jouissance, les parts de coopératives et les autres participations au capital, pour autant qu’ils soient cotés en bourse ou traités sur un autre marché réglementé ouvert au public et qu’ils puissent être vendus à court terme;
 - d. les placements dans des immeubles d’habitation ou à usage commercial, en propriété ou en copropriété, y compris dans des locaux administratifs pour son propre usage;
-- e.
+- e.[^19-1]
 
-  les placements collectifs de capitaux au sens des art. 8, 9 et 119, al. 1, de la loi du 23 juin 2006 sur les placements collectifs[^19-1], qui remplissent les conditions suivantes:
+  les parts de placements collectifs dont les placements peuvent être détachés ou disjoints en cas de faillite, si:
 
-  - 1\.[^19-2] être approuvés et autorisés à faire l’objet d’une offre en Suisse par l’Autorité fédérale de surveillance des marchés financiers (FINMA),
-  - 2\. ne contenir que des placements visés aux let. a à d,
-  - 3\. être organisés en matière de directives de placement, de répartition des compétences, de détermination des parts ainsi que de vente et d’achat de ces parts de manière à sauvegarder clairement les intérêts des assureurs participants;
+  - 1\. elles peuvent être aliénées à tout moment,
+  - 2\. le placement collectif est investi, directement ou indirectement, uniquement dans des placements conformes aux let. a à d, et que
+  - 3\. la direction ou la société chargée de l’administration est soumise à une réglementation et à une surveillance appropriées en Suisse;
 
 - f.
 
@@ -263,8 +263,7 @@ Les placements suivants sont réputés conformes:
 
 <sup>3</sup> Si l’assureur ne peut pas démontrer que les placements de la fortune liée couvrent toutes les créances relevant des rapports d’assurance et des contrats de réassurance qu’il a conclus, notamment parce que certains placements ne sont pas conformes, l’autorité de surveillance peut lui fixer un délai pour compléter ou modifier les placements.
 
-[^19-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^19-2]: Nouvelle teneur selon l’annexe 1 ch. II 8 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 20
 

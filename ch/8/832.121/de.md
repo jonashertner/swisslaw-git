@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. Januar 2023)
+vom 18. November 2015 (Stand am 1. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -242,13 +242,13 @@ Folgende Anlagen gelten als geeignet:
 - b. andere Forderungen, die auf einen festen Geldbetrag lauten, als diejenigen nach Buchstabe a, namentlich Anleihensobligationen, Optionsanleihen, Wandelanleihen und Pfandbriefe;
 - c. sofern an einer Börse oder an einem anderen geregelten, dem Publikum offenstehenden Markt gehandelt und kurzfristig veräusserbar, Aktien, Partizipations- und Genussscheine, Anteilscheine von Genossenschaften und andere Kapitalbeteiligungen;
 - d. Wohn- und Geschäftsliegenschaften im Allein- oder Miteigentum, einschliesslich des selbstgenutzten Verwaltungsraums;
-- e.
+- e.[^19-1]
 
-  kollektive Kapitalanlagen im Sinne der Artikel 8, 9 und 119 Absatz 1 des Bundesgesetzes vom 23. Juni 2006[^19-1] über die kollektiven Kapitalanlagen, die:
+  Anteile an kollektiven Kapitalanlagen, deren Anlagen im Konkurs als Sondervermögen ab- oder aussonderbar sind, sofern:
 
-  - 1\.[^19-2] von der Eidgenössischen Finanzmarktaufsicht (FINMA) genehmigt und zum Angebot in der Schweiz zugelassen sind,
-  - 2\. nur Anlagen nach den Buchstaben a–d enthalten, und
-  - 3\. ihre Organisationsform bezüglich Anlagerichtlinien, Kompetenzregelung, Anteilsermittlung sowie Kauf und Rücknahme der Anteile so regeln, dass die Interessen der daran beteiligten Versicherer in nachvollziehbarer Weise gewahrt sind;
+  - 1\. sie jederzeit veräussert werden können,
+  - 2\. die kollektive Kapitalanlage direkt oder indirekt nur in Anlagen nach den Buchstaben a–d investiert, und
+  - 3\. die Fondsleitung oder ihre Verwaltungsgesellschaft einer angemessenen inländischen Regulierung und Aufsicht untersteht;
 
 - f.
 
@@ -263,8 +263,7 @@ Folgende Anlagen gelten als geeignet:
 
 <sup>3</sup> Kann der Versicherer nicht nachweisen, dass die Anlagen des gebundenen Vermögens alle Forderungen aus den Versicherungsverhältnissen und den Rückversicherungsverträgen, die er abgeschlossen hat, decken, namentlich weil gewisse Anlagen ungeeignet sind, so kann die Aufsichtsbehörde ihm eine Frist setzen, um die Anlagen zu ergänzen oder zu ersetzen.
 
-[^19-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^19-2]: Fassung gemäss Anhang 1 Ziff. II 8 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19-1]: Fassung gemäss Anhang Ziff. 7 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 20
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2023-01-01
+version: 2024-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 1° gennaio 2023)
+del 18 novembre 2015 (Stato 1° marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -242,13 +242,13 @@ Sono considerati adeguati i seguenti investimenti:
 - b. altri crediti espressi in importi fissi diversi da quelli di cui alla lettera a, segnatamente prestiti obbligazionari, obbligazioni a opzione, obbligazioni convertibili e obbligazioni fondiarie;
 - c. azioni, buoni di partecipazione e di godimento, quote di società cooperative e altre partecipazioni al capitale, purché siano negoziati in una borsa o su un altro mercato regolamentato aperto al pubblico e possano essere venduti a breve termine;
 - d. immobili residenziali o commerciali, in proprietà o comproprietà, inclusi i locali amministrativi per uso proprio;
-- e.
+- e.[^19-1]
 
-  investimenti collettivi di capitale ai sensi degli articoli 8, 9 e 119 capoverso 1 della legge del 23 giugno 2006[^19-1] sugli investimenti collettivi che:
+  quote di investimenti collettivi di capitale i cui investimenti sono separabili o rivendicabili in caso di fallimento come portafogli collettivi interni, se:
 
-  - 1\.[^19-2] sono approvati e autorizzati all’offerta in Svizzera dall’Autorità federale di vigilanza sui mercati finanziari (FINMA),
-  - 2\. contengono soltanto investimenti di cui alle lettere a–d, e
-  - 3\. sono organizzati in materia di direttive di investimento, ripartizione delle competenze, determinazione delle quote nonché vendita e riscatto delle quote in modo che gli interessi degli assicuratori partecipanti siano chiaramente salvaguardati;
+  - 1\. possono essere alienati in qualunque momento,
+  - 2\. l’investimento collettivo di capitale è collocato direttamente o indirettamente solo in investimenti di cui alle lettere a–d, e
+  - 3\. la direzione del fondo o la sua società di amministrazione soggiace a una regolamentazione e vigilanza svizzere opportune;
 
 - f.
 
@@ -263,8 +263,7 @@ Sono considerati adeguati i seguenti investimenti:
 
 <sup>3</sup> Se l’assicuratore non è in grado di dimostrare che gli investimenti del patrimonio vincolato coprono tutte le pretese derivanti dai rapporti d’assicurazione e dai contratti di riassicurazione da lui conclusi, segnatamente perché determinati investimenti sono inadeguati, l’autorità di vigilanza può assegnargli un termine per integrare o sostituire gli investimenti.
 
-[^19-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^19-2]: Nuovo testo giusta l’all. n. II 8 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19-1]: Nuovo testo giusta l’all. n. 7 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 20
 
