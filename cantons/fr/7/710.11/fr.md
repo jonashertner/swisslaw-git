@@ -4,13 +4,13 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-12-12
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2024-02-20
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7904/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8170/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.01.2024)
+du 01.12.2009 (version entrée en vigueur le 01.03.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -260,7 +260,7 @@ Arrête:
 
 **Plan de base cadastrale**
 
-<sup>1</sup> Les plans de base cadastrale nécessaires à l'établissement des plans d'aménagement local et des plans d'aménagement de détail sont établis et mis à jour par des géomètres brevetés.
+<sup>1</sup> Les plans de base cadastrale nécessaires à l'établissement des plans d'aménagement local et des plans d'aménagement de détail sont établis et tenus à jour sur la base des géodonnées de la mensuration officielle.
 
 #### Art. 21
 
@@ -449,7 +449,7 @@ Arrête:
 
 <sup>3</sup> La publication indique que la décision d'approbation de la Direction peut faire l'objet d'un recours au Tribunal cantonal pour les points qui peuvent être directement contestés devant cette autorité.
 
-### 2.4 Remaniement de terrains à bâtir et régularisation de limites (art. 105ss LATeC)
+### 2.4 Remaniement de terrains à bâtir et modification de limites (art. 105ss LATeC)
 
 #### Art. 37
 
@@ -519,7 +519,7 @@ Arrête:
 
 **Organisation du syndicat – Spécialistes**
 
-<sup>1</sup> Les spécialistes désignés par l'assemblée générale sont un ou une géomètre breveté-e et, au besoin, un ou une ingénieur-e et un ou une architecte urbaniste.
+<sup>1</sup> Les spécialistes désignés par l'assemblée générale sont un ou une ingénieur‑e géomètre breveté‑e et, au besoin, un ou une ingénieur‑e et un ou une architecte urbaniste.
 
 <sup>2</sup> Les spécialistes ne peuvent faire partie de la commission de classification qu'avec voix consultative.
 
@@ -807,9 +807,9 @@ Arrête:
 
 **Modification de limites et division de parcelle**
 
-<sup>1</sup> Lors de l'établissement du verbal de modification ou de division d'une parcelle en zone à bâtir, le ou la géomètre breveté-e s'assure du respect des prescriptions de zones et des règles de construction. A cet effet, il ou elle consulte au préalable la commune.
+<sup>1</sup> Lors de l'établissement du verbal de modification ou de division d'une parcelle en zone à bâtir, l'ingénieur‑e géomètre breveté‑e s'assure du respect des prescriptions de zones et des règles de construction. A cet effet, il ou elle consulte au préalable la commune.
 
-<sup>2</sup> Lorsqu'un report d'utilisation du sol est prévu en même temps qu'une modification ou une division parcellaire, les propriétaires concernés établissent une convention à cet effet. Le ou la géomètre breveté-e soumet cette convention à la commune pour préavis, avec le plan du verbal. Lorsque le préavis de la commune est favorable, le ou la géomètre établit le verbal en incluant la réquisition d'inscription de la convention au registre foncier. Il ou elle joint au verbal la convention, le plan du verbal et le préavis communal en trois exemplaires. Une fois que le registre foncier a procédé à l'inscription, le ou la géomètre transmet un exemplaire de la convention, muni du plan du verbal et du préavis communal, à la préfecture et un autre exemplaire au SeCA.
+<sup>2</sup> Lorsqu'un report d'utilisation du sol est prévu en même temps qu'une modification ou une division parcellaire, les propriétaires concernés établissent une convention à cet effet. L'ingénieur‑e géomètre breveté‑e soumet cette convention à la commune pour préavis, avec le plan du verbal. Lorsque le préavis de la commune est favorable, l'ingénieur‑e géomètre breveté‑e établit le verbal en incluant la réquisition d'inscription de la convention au registre foncier. Il ou elle joint au verbal la convention, le plan du verbal et le préavis communal en trois exemplaires. Une fois que le registre foncier a procédé à l'inscription, l'ingénieur‑e géomètre breveté‑e transmet un exemplaire de la convention, muni du plan du verbal et du préavis communal, à la préfecture et un autre exemplaire au SeCA.
 
 ### 3.1.2 Ordre des constructions et types d'habitation (art. 124 LATeC)
 
@@ -1497,7 +1497,7 @@ Arrête:
 
 <sup>4</sup> L'autorité communale et les organes visés à l'article 165 LATeC peuvent s'assurer le concours d'un tiers qualifié.
 
-<sup>5</sup> Pour les constructions implantées à la limite de propriété ou à une distance égale ou inférieure à la distance légale ou réglementaire, le contrôle du banquetage doit être effectué par un ou une géomètre breveté-e.
+<sup>5</sup> Pour les constructions implantées à la limite de propriété ou à une distance égale ou inférieure à la distance légale ou réglementaire, le contrôle du banquetage doit être effectué par un ou une ingénieur‑e géomètre breveté‑e.
 
 <sup>6</sup> Les représentants et représentantes de l'autorité communale ou cantonale ont en tout temps accès au chantier; le maître de l'ouvrage est tenu, s'il en est requis, d'assister aux inspections ou de s'y faire représenter.
 
@@ -1507,9 +1507,9 @@ Arrête:
 
 **Rétablissement des bornes et des points fixes**
 
-<sup>1</sup> Si le rétablissement des bornes et des points fixes risque de retarder la remise du certificat de conformité, la commune doit exiger du ou de la propriétaire une déclaration attestant que le ou la géomètre chargé-e du contrôle du banquetage effectuera ces travaux.
+<sup>1</sup> Si le rétablissement des bornes et des points fixes risque de retarder la remise du certificat de conformité, la commune doit exiger du ou de la propriétaire une déclaration attestant que l'ingénieur‑e géomètre breveté‑e chargé‑e du contrôle du banquetage effectuera ces travaux.
 
-<sup>2</sup> A l'achèvement des travaux, le ou la géomètre en informe la commune.
+<sup>2</sup> A l'achèvement des travaux, l'ingénieur‑e géomètre breveté‑e en informe la commune.
 
 #### Art. 112
 

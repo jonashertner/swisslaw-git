@@ -4,13 +4,13 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-12-12
+version: 2024-03-01
+valid_until: 2026-09-30
+version_adopted: 2024-02-20
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7904/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.01.2024)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -260,7 +260,7 @@ beschliesst:
 
 **Katastergrundlagenplan**
 
-<sup>1</sup> Die notwendigen Katastergrundlagenpläne zur Ausarbeitung von Orts- und Detailbebauungsplänen werden von patentierten Geometerinnen und Geometern erstellt und nachgeführt.
+<sup>1</sup> Die notwendigen Katastergrundlagenpläne zur Ausarbeitung von Orts- und Detailbebauungsplänen werden ausgehend von den Geodaten der amtlichen Vermessung erstellt und nachgeführt.
 
 #### Art. 21
 
@@ -320,7 +320,7 @@ beschliesst:
 
 - a) für jede Zone den Charakter sowie den Zonenzweck;
 - b) die Ziele, die mit den im Rahmen des Zonennutzungsplans obligatorisch erklärten Detailbebauungsplänen erreicht werden sollen;
-- c) die Möglichkeiten, die Einschränkungen und Bauerverbote wie auch die anderen Einschränkungen des Eigentumsrechts;
+- c) die Möglichkeiten, die Einschränkungen und Bauverbote wie auch die anderen Einschränkungen des Eigentumsrechts;
 - d) die Bodennutzungsdichte;
 - e) die Bauweise und die Ausmasse der Bauten;
 - f) die Abstände;
@@ -449,7 +449,7 @@ beschliesst:
 
 <sup>3</sup> In der Veröffentlichung wird darauf hingewiesen, dass gegen die Punkte des Genehmigungsentscheids der Direktion, die unmittelbar beim Kantonsgericht anfechtbar sind, bei dieser Behörde Beschwerde geführt werden kann.
 
-### 2.4 Baulandumlegung und Grenzbereinigung (Art. 105 ff. RPBG)
+### 2.4 Baulandumlegung und Grenzänderung (Art. 105 ff. RPBG)
 
 #### Art. 37
 
@@ -519,7 +519,7 @@ beschliesst:
 
 **Organisation der Genossenschaft – Fachpersonen**
 
-<sup>1</sup> Die Generalversammlung bezeichnet eine patentierte Geometerin oder einen patentierten Geometer und so weit nötig eine Ingenieurin oder einen Ingenieur und eine Planerin oder einen Planer als Fachpersonen.
+<sup>1</sup> Die Generalversammlung bezeichnet eine patentierte Ingenieur-Geometerin oder einen patentierten Ingenieur-Geometer und soweit nötig eine Ingenieurin oder einen Ingenieur und eine Planerin oder einen Planer als Fachpersonen.
 
 <sup>2</sup> Den Fachpersonen kommt in der Schätzungskommission nur eine beratende Stimme zu.
 
@@ -807,9 +807,9 @@ beschliesst:
 
 **Änderung der Grenzen und Teilung einer Parzelle**
 
-<sup>1</sup> Bei der Erstellung eines Änderungs- oder Teilungsverbals für eine Parzelle in der Bauzone vergewissert sich der patentierte Geometer oder die patentierte Geometerin, dass die Zonen- und Bauvorschriften eingehalten werden. Dazu hört sie oder er vorgängig die Gemeinde an.
+<sup>1</sup> Bei der Erstellung eines Änderungs- oder Teilungsverbals für eine Parzelle in der Bauzone vergewissert sich die patentierte Ingenieur-Geometerin oder der patentierte Ingenieur-Geometer, dass die Zonen- und Bauvorschriften eingehalten werden. Dazu hört sie oder er vorgängig die Gemeinde an.
 
-<sup>2</sup> Wenn eine Übertragung der Ausnützung gleichzeitig mit einer Änderung oder Teilung der Parzelle geplant wird, erstellen die betroffenen Eigentümer dazu eine Vereinbarung. Die patentierte Geometerin oder der patentierte Geometer unterbreitet diese Vereinbarung mit dem Verbalplan der Gemeinde zur Begutachtung. Bei einem günstigen Gutachten der Gemeinde erstellt die Geometerin oder der Geometer das Verbal und stellt den Antrag für eine Eintragung der Vereinbarung in das Grundbuch. Sie oder er legt dem Verbal die Vereinbarung, den Verbalplan und das Gemeindegutachten in drei Exemplaren bei. Sobald das Grundbuchamt die Eintragung vorgenommen hat, übermittelt die Geometerin oder der Geometer ein Exemplar der Vereinbarung mit dem Verbalplan und dem Gemeindegutachten an das Oberamt und ein weiteres Exemplar an das BRPA.
+<sup>2</sup> Wenn eine Übertragung der Ausnützung gleichzeitig mit einer Änderung oder Teilung der Parzelle geplant wird, erstellen die betroffenen Eigentümerinnen oder Eigentümer dazu eine Vereinbarung. Die patentierte Ingenieur-Geometerin oder der patentierte Ingenieur-Geometer unterbreitet diese Vereinbarung mit dem Verbalplan der Gemeinde zur Begutachtung. Bei einem günstigen Gutachten der Gemeinde erstellt die patentierte Ingenieur-Geometerin oder der patentierte Ingenieur-Geometer das Verbal und meldet die Vereinbarung zur Eintragung im Grundbuch an. Sie oder er legt dem Verbal die Vereinbarung, den Verbalplan und das Gemeindegutachten in drei Exemplaren bei. Sobald das Grundbuchamt die Eintragung vorgenommen hat, übermittelt die patentierte Ingenieur-Geometerin oder der patentierte Ingenieur-Geometer ein Exemplar der Vereinbarung mit dem Verbalplan und dem Gemeindegutachten an das Oberamt und ein weiteres Exemplar an das BRPA.
 
 ### 3.1.2 Bauweise und Wohnhausarten (Art.124 RPBG)
 
@@ -1497,7 +1497,7 @@ beschliesst:
 
 <sup>4</sup> Die Gemeindebehörde und die Organe nach Artikel 165 RPBG können die Mitarbeit eines qualifizierten Dritten in Anspruch nehmen.
 
-<sup>5</sup> Für Bauten an der Grundstücksgrenze oder Bauten, bei denen der gesetzliche oder reglementarische Abstand genau eingehalten oder unterschritten wird, muss das Schnürgerüst von einer offiziellen Geometerin oder einem offiziellen Geometer kontrolliert werden.
+<sup>5</sup> Für Bauten an der Grundstücksgrenze oder Bauten, bei denen der gesetzliche oder reglementarische Abstand genau eingehalten oder unterschritten wird, muss das Schnürgerüst von einer patentierten Ingenieur-Geometerin oder einem patentierten Ingenieur-Geometer kontrolliert werden
 
 <sup>6</sup> Die Vertreterinnen und Vertreter der Gemeinde- oder Kantonsbehörde sind jederzeit zum Betreten der Baustelle berechtigt; auf Verlangen muss die Bauherrschaft den Kontrollen beiwohnen oder sich vertreten lassen.
 
@@ -1507,9 +1507,9 @@ beschliesst:
 
 **Wiederherstellung der Marksteine und Fixpunkte**
 
-<sup>1</sup> Besteht aufgrund der Wiederherstellung der Marksteine und Fixpunkte die Gefahr, dass die Aushändigung des Übereinstimmungsnachweises verzögert wird, so muss die Gemeinde von der Eigentümerin oder vom Eigentümer eine Erklärung verlangen, wonach die oder der mit der Kontrolle des Schnürgerüstes beauftragte Geometerin oder Geometer diese Arbeiten ausführen wird.
+<sup>1</sup> Besteht aufgrund der Wiederherstellung der Marksteine und Fixpunkte die Gefahr, dass die Aushändigung des Übereinstimmungsnachweises verzögert wird, so muss die Gemeinde von der Eigentümerin oder vom Eigentümer eine Erklärung verlangen, wonach die oder der mit der Kontrolle des Schnürgerüstes beauftragte patentierte Ingenieur-Geometerin oder Ingenieur-Geometer diese Arbeiten ausführen wird.
 
-<sup>2</sup> Die Gemeinde wird von der Geometerin oder vom Geometer über die Beendigung der Arbeiten benachrichtigt.
+<sup>2</sup> Die Gemeinde wird von der patentierten Ingenieur-Geometerin oder vom patentierten Ingenieur-Geometer über die Beendigung der Arbeiten benachrichtigt.
 
 #### Art. 112
 
