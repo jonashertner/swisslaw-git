@@ -4,13 +4,13 @@ number: "110.1"
 title: Gesetz über die kantonale Statistik
 short: StatG
 language: de
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-10-12
+version: 2024-03-01
+valid_until: 2025-06-30
+version_adopted: 2023-12-21
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7928/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8130/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kantonale Statistik – G
 
 (StatG)
 
-vom 07.02.2006 (Fassung in Kraft getreten am 01.01.2024)
+vom 07.02.2006 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -182,7 +182,7 @@ beschliesst:
 
 <sup>5</sup> Es berücksichtigt nach Möglichkeit die Informationsbedürfnisse seiner Partner.
 
-[^10-1]: Heute: Amt für Statistik.
+[^10-1]: Heute: Amt für Statistik und Daten.
 [^10-2]: Heute: Volkswirtschafts- und Berufsbildungsdirektion.
 
 #### Art. 11
@@ -261,6 +261,22 @@ beschliesst:
 <sup>3</sup> Anonymisierte Personendaten dürfen öffentlichen Statistikstellen und Forschungsstellen zu ausschliesslich statistischen Zwecken weiter gegeben werden.
 
 <sup>4</sup> Diese Stellen haben schriftlich zu bestätigen, dass sie die kantonalen Bestimmungen des Datenschutzes und des Statistikgeheimnisses respektieren.
+
+#### Art. 17a
+
+**Verknüpfung von Daten – Grundsätze**
+
+<sup>1</sup> Zur Erfüllung seiner statistischen Aufgaben kann das Amt Daten miteinander verknüpfen, wenn diese unverzüglich nach ihrer Verknüpfung anonymisiert oder, falls es für Längsschnittvergleiche erforderlich ist, pseudonymisiert werden.
+
+<sup>2</sup> Werden besonders schützenswerte Daten verknüpft oder lässt die Verknüpfung Rückschlüsse auf wesentliche Aspekte der Persönlichkeit zu, so ist der gesamte Datensatz nach Abschluss der statistischen Auswertungsarbeiten zu löschen. Die Löschung wird der Eigentümerschaft der Daten mitgeteilt.
+
+<sup>3</sup> Der Staatsrat regelt die Einzelheiten auf dem Verordnungsweg.
+
+#### Art. 17b
+
+**Verknüpfung von Daten – Verwendung der entsprechenden Identifikatoren**
+
+<sup>1</sup> Um die Datenverknüpfung zu ermöglichen, müssen die Dienststellen des Staats und der Gemeinden dem Amt die entsprechenden Identifikatoren des Bundes übermitteln, soweit sie diese Identifikatoren gemäss geltendem Gesetz selber verwenden.
 
 #### Art. 18
 

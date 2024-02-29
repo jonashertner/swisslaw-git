@@ -4,13 +4,13 @@ number: "110.1"
 title: Loi sur la statistique cantonale
 short: LStat
 language: fr
-version: 2024-01-01
-valid_until: 2024-02-29
-version_adopted: 2023-10-12
+version: 2024-03-01
+valid_until: 2025-06-30
+version_adopted: 2023-12-21
 adopted: 2006-02-07
 in_force: 2006-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/110.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7928/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8130/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Statistique cantonale – L
 
 (LStat)
 
-du 07.02.2006 (version entrée en vigueur le 01.01.2024)
+du 07.02.2006 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -182,7 +182,7 @@ Décrète:
 
 <sup>5</sup> Dans la mesure de ses possibilités, il tient compte des besoins d'information de ses partenaires.
 
-[^10-1]: Actuellement: Service de la statistique.
+[^10-1]: Actuellement: Service de la statistique et de la donnée.
 [^10-2]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 #### Art. 11
@@ -261,6 +261,22 @@ Décrète:
 <sup>3</sup> Des données individuelles anonymes se rapportant à des personnes peuvent être communiquées à des services officiels de statistique ou des organismes de recherche à des fins exclusivement statistiques.
 
 <sup>4</sup> Ces derniers doivent s'engager par écrit à respecter les dispositions cantonales en matière de secret statistique et de protection des données.
+
+#### Art. 17a
+
+**Appariement de données – Principes**
+
+<sup>1</sup> Pour exécuter ses tâches en matière de statistiques, le Service peut apparier des données à condition de les anonymiser immédiatement après leur appariement ou de les pseudonymiser si des comparaisons longitudinales l'imposent.
+
+<sup>2</sup> Si des données sensibles sont appariées ou si l'appariement de données permet d'estimer les caractéristiques essentielles de la personnalité, tout le jeu de données doit être effacé une fois les travaux statistiques d'exploitation terminés. La suppression sera communiquée aux propriétaires des données.
+
+<sup>3</sup> Le Conseil d'Etat règle les modalités par voie d'ordonnance.
+
+#### Art. 17b
+
+**Appariement de données – Utilisation des identificateurs de référence**
+
+<sup>1</sup> Afin de permettre l'appariement des données, les services étatiques ou communaux transmettent les identificateurs fédéraux de référence au Service dans la mesure où ils en font eux-mêmes usage conformément aux bases légales en vigueur.
 
 #### Art. 18
 
