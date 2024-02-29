@@ -4,13 +4,13 @@ number: "917.1"
 title: Gesetz über die Bodenverbesserungen
 short: BVG
 language: de
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-11-05
+version: 2024-03-01
+valid_until: 2025-11-30
+version_adopted: 2023-11-24
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7596/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7957/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bodenverbesserungen – G
 
 (BVG)
 
-vom 30.05.1990 (Fassung in Kraft getreten am 01.01.2023)
+vom 30.05.1990 (Fassung in Kraft getreten am 01.03.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -550,7 +550,7 @@ beschliesst:
 
 **Katasteranpassung**
 
-<sup>1</sup> Befindet sich nur ein Teil eines Grundstückes innerhalb des endgültigen Perimeters, so ist der patentierte Geometer befugt, von Amtes wegen und ohne Unterschrift des Eigentümers ein Teilungsverbal zu erstellen. Er verlangt dessen Eintragung im Grundbuch.
+<sup>1</sup> Befindet sich nur ein Teil eines Grundstückes innerhalb des endgültigen Perimeters, so ist der patentierte Ingenieur-Geometer befugt, von Amtes wegen und ohne Unterschrift des Eigentümers ein Teilungsverbal zu erstellen. Er meldet dessen Eintragung im Grundbuch an.
 
 #### Art. 52
 
@@ -823,9 +823,9 @@ beschliesst:
 
 **Technische Leitung**
 
-<sup>1</sup> Die technische Leitung wird durch einen patentierten Geometer wahrgenommen. Seine Wahl bedarf der Bestätigung durch die Direktion.
+<sup>1</sup> Die technische Leitung wird durch einen patentierten Ingenieur-Geometer wahrgenommen. Seine Wahl bedarf der Bestätigung durch die Direktion.
 
-<sup>2</sup> Der Geometer versieht das Sekretariat der Schätzungskommission.
+<sup>2</sup> Der patentierte Ingenieur-Geometer versieht das Sekretariat der Schätzungskommission.
 
 <sup>3</sup> Missbraucht er direkt oder indirekt seine Funktion zugunsten seiner persönlichen Interessen oder jener ihm nahestehender Personen, so kann ihm die technische Leitung entzogen werden.
 
@@ -887,19 +887,19 @@ beschliesst:
 
 **Alter Zustand**
 
-<sup>1</sup> Der Geometer erstellt auf der Grundlage der in Kraft stehenden Pläne und Kataster das den alten Zustand des Eigentums betreffende Dokument. Dieses Dokument führt die Grundpfandrechte nicht auf.
+<sup>1</sup> Der patentierte Ingenieur-Geometer erstellt auf der Grundlage der in Kraft stehenden Pläne und Kataster das den alten Zustand des Eigentums betreffende Dokument. Dieses Dokument führt die Grundpfandrechte nicht auf.
 
-<sup>2</sup> Der Geometer prüft die für die Güterzusammenlegung notwendigen Katasterelemente, namentlich die Grundstückflächen. Nötigenfalls berichtigt er sie.
+<sup>2</sup> Der patentierte Ingenieur-Geometer prüft die für die Güterzusammenlegung notwendigen Katasterelemente, namentlich die Grundstückflächen. Nötigenfalls berichtigt er sie.
 
 <sup>3</sup> Der Grundbuchverwalter prüft und ergänzt nötigenfalls dieses Dokument. Er führt dort die nicht eingetragenen Rechte provisorisch auf, die Gegenstand einer Geltendmachung waren.
 
-<sup>4</sup> Mit Ausnahme der Grundpfandrechte teilt der Grundbuchverwalter sämtliche Operationen mit, die zwischen dem Eintrag der Anmerkung «Bodenverbesserung» und der Inkraftsetzung des Übergangsregisters im Grundbuch vorgenommen wurden. Der Geometer hält die Dokumente der Güterzusammenlegung auf dem neuesten Stand.
+<sup>4</sup> Mit Ausnahme der Grundpfandrechte teilt der Grundbuchverwalter sämtliche Operationen mit, die zwischen dem Eintrag der Anmerkung «Bodenverbesserung» und der Inkraftsetzung des Übergangsregisters im Grundbuch vorgenommen wurden. Der patentierte Ingenieur-Geometer hält die Dokumente der Güterzusammenlegung auf dem neuesten Stand.
 
 #### Art. 92
 
 **Behandlung nicht eingetragener Rechte**
 
-<sup>1</sup> Ist die Geltendmachung eines nicht eingetragenen Rechtes nicht offensichtlich unbegründet, so lädt der Grundbuchverwalter, im Einvernehmen mit dem Geometer, den Eigentümer des angeblich belasteten Grundstückes und, wenn notwendig, die übrigen Betroffenen vor und ersucht um ihre Zustimmung zur Eintragung dieses Rechts.
+<sup>1</sup> Ist die Geltendmachung eines nicht eingetragenen Rechtes nicht offensichtlich unbegründet, so lädt der Grundbuchverwalter, im Einvernehmen mit dem patentierten Ingenieur-Geometer, den Eigentümer des angeblich belasteten Grundstückes und, wenn notwendig, die übrigen Betroffenen vor und ersucht um ihre Zustimmung zur Eintragung dieses Rechts
 
 <sup>2</sup> Haben sich diese Personen ausgesprochen, so teilt der Grundbuchverwalter schriftlich demjenigen mit, der das nicht eingetragene Recht geltend gemacht hat, ob dieses eingetragen wurde oder nicht; im letzteren Fall hält die Mitteilung fest, dass das Recht aufgehoben wird, wenn nicht binnen zwei Monaten seit dem Abschluss der Auflage des alten Zustandes eine Eintragung oder eine vorübergehende Eintragung des Rechtes vom Richter erwirkt wird.
 
@@ -1101,7 +1101,7 @@ beschliesst:
 
 <sup>1</sup> Der Übergangskataster ist die Gesamtheit der Dokumente, die die Grundstücke und ihre rechtliche Stellung in der Folge der Güterzusammenlegung beschreiben.
 
-<sup>2</sup> Der Übergangskataster wird vom Geometer erstellt und umfasst:
+<sup>2</sup> Der Übergangskataster wird vom amtlichen Ingenieur-Geometer erstellt und umfasst:
 
 - a) die Pläne und die Grundstückbeschreibung;
 - b) das Verzeichnis der Eigentumsrechte, der Vormerkungen, der Anmerkungen und der beschränkten dinglichen Rechte, unter Ausschluss der Grundpfandrechte;
@@ -1272,9 +1272,9 @@ beschliesst:
 
 **Technische Arbeiten und Leitung**
 
-<sup>1</sup> Die technischen Arbeiten sind einem patentierten Geometer und einem Forstingenieur anzuvertrauen. Sie werden, unter Vorbehalt der Bestätigung durch die Direktion, von der Generalversammlung ernannt.
+<sup>1</sup> Die technischen Arbeiten sind einem patentierten Ingenieur-Geometer und einem Forstingenieur anzuvertrauen. Sie werden, unter Vorbehalt der Bestätigung durch die Direktion, von der Generalversammlung ernannt.
 
-<sup>2</sup> In der Regel übernimmt der Geometer die technische Leitung.
+<sup>2</sup> In der Regel übernimmt der patentierte Ingenieur-Geometer die technische Leitung.
 
 #### Art. 136
 
@@ -1362,7 +1362,7 @@ beschliesst:
 
 **Eintragung im Grundbuch**
 
-<sup>1</sup> Die Eintragung im Grundbuch erfolgt auf der Grundlage des Begründungsvertrages und des Mutationsverbals oder des Übergangskatasters, nach der Genehmigung des neuen Zustandes durch den Staatsrat.
+<sup>1</sup> Die Eintragung im Grundbuch erfolgt auf der Grundlage des Begründungsvertrages und des Grenzmutationsverbals oder des Übergangskatasters, nach der Genehmigung des neuen Zustandes durch den Staatsrat.
 
 <sup>2</sup> Ist die Arrondierung angeordnet worden, so gilt der Entscheid des Staatsrates als Begründungsvertrag.
 
@@ -1384,13 +1384,13 @@ beschliesst:
 
 **Vereinbarung**
 
-<sup>1</sup> Im Falle einer freiwilligen Flurbereinigung bestimmt die Vereinbarung genau die in das Projekt einbezogenen Grundstücke, den mit den Operationen beauftragten amtlichen Geometer und die Kostenverteilung.
+<sup>1</sup> Im Falle einer freiwilligen Flurbereinigung bestimmt die Vereinbarung genau die in das Projekt einbezogenen Grundstücke, den mit den Operationen beauftragten amtlichen Ingenieur-Geometer und die Kostenverteilung.
 
 #### Art. 149
 
-**Öffentliche Urkunden – Geometer**
+**Öffentliche Urkunden – amtlicher Ingenieur-Geometer**
 
-<sup>1</sup> Der amtliche Geometer fertigt die öffentliche Urkunde für die im Artikel 147 Bst. a und b vorgesehenen Operationen aus, unter Vorbehalt der Genehmigung des zuständigen Amtes und in den gemäss der Gesetzgebung über die amtliche Vermessung vorgeschriebenen Formen.
+<sup>1</sup> Der amtliche Ingenieur-Geometer fertigt die öffentliche Urkunde für die im Artikel 147 Bst. a und b vorgesehenen Operationen aus, unter Vorbehalt der Genehmigung des zuständigen Amtes und in den gemäss der Gesetzgebung über die amtliche Vermessung vorgeschriebenen Formen.
 
 #### Art. 150
 

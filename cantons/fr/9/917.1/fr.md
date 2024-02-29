@@ -4,13 +4,13 @@ number: "917.1"
 title: Loi sur les améliorations foncières
 short: LAF
 language: fr
-version: 2023-01-01
-valid_until: 2024-02-29
-version_adopted: 2021-11-05
+version: 2024-03-01
+valid_until: 2025-11-30
+version_adopted: 2023-11-24
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7596/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7957/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Améliorations foncières – L
 
 (LAF)
 
-du 30.05.1990 (version entrée en vigueur le 01.01.2023)
+du 30.05.1990 (version entrée en vigueur le 01.03.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -550,7 +550,7 @@ Décrète:
 
 **Adaptation cadastrale**
 
-<sup>1</sup> Lorsqu'une partie seulement d'un immeuble est incluse dans le périmètre définitif, un géomètre breveté est habilité à établir d'office et sans la signature du propriétaire un verbal de division. Il en requiert l'inscription au registre foncier.
+<sup>1</sup> Lorsqu'une partie seulement d'un immeuble est incluse dans le périmètre définitif, un ingénieur géomètre breveté est habilité à établir d'office et sans la signature du propriétaire un verbal de division. Il en requiert l'inscription au registre foncier.
 
 #### Art. 52
 
@@ -823,9 +823,9 @@ Décrète:
 
 **Direction technique**
 
-<sup>1</sup> La direction technique est assumée par un géomètre breveté. Sa nomination est soumise à la ratification de la Direction.
+<sup>1</sup> La direction technique est assumée par un ingénieur géomètre breveté. Sa nomination est soumise à la ratification de la Direction.
 
-<sup>2</sup> Le géomètre assume le secrétariat de la commission de classification.
+<sup>2</sup> L'ingénieur géomètre breveté assume le secrétariat de la commission de classification.
 
 <sup>3</sup> La direction technique peut lui être retirée s'il abuse directement ou indirectement de sa fonction au profit de ses intérêts personnels ou de ceux de ses proches.
 
@@ -887,19 +887,19 @@ Décrète:
 
 **Ancien état**
 
-<sup>1</sup> Le géomètre établit le document relatif à l'ancien état des propriétés, sur la base des plans et cadastres en vigueur. Ce document n'indique pas les droits de gages.
+<sup>1</sup> L'ingénieur géomètre breveté établit le document relatif à l'ancien état des propriétés, sur la base des plans et cadastres en vigueur. Ce document n'indique pas les droits de gages.
 
-<sup>2</sup> Le géomètre contrôle les éléments cadastraux nécessaires au remaniement parcellaire, notamment les surfaces des biens-fonds. Il les rectifie au besoin.
+<sup>2</sup> L'ingénieur géomètre breveté contrôle les éléments cadastraux nécessaires au remaniement parcellaire, notamment les surfaces des biens-fonds. Il les rectifie au besoin.
 
 <sup>3</sup> Le conservateur du registre foncier contrôle et, au besoin, complète ce document. Il y porte provisoirement les droits non inscrits ayant fait l'objet d'une production.
 
-<sup>4</sup> Le conservateur communique au géomètre, à l'exception des droits de gages, l'ensemble des opérations effectuées au registre foncier postérieurement à l'inscription de la mention «amélioration foncière» et jusqu'à l'entrée en vigueur du registre transitoire. Le géomètre tient à jour les documents du remaniement parcellaire.
+<sup>4</sup> Le conservateur communique à l'ingénieur géomètre breveté, à l'exception des droits de gages, l'ensemble des opérations effectuées au registre foncier postérieurement à l'inscription de la mention «amélioration foncière» et jusqu'à l'entrée en vigueur du registre transitoire. L'ingénieur géomètre breveté tient à jour les documents du remaniement parcellaire.
 
 #### Art. 92
 
 **Traitement des droits non inscrits**
 
-<sup>1</sup> Lorsque la production d'un droit non inscrit n'est pas manifestement infondée, le conservateur, d'entente avec le géomètre, convoque le propriétaire du fonds prétendument grevé et, au besoin, les autres intéressés, et sollicite leur consentement à l'inscription de ce droit.
+<sup>1</sup> Lorsque la production d'un droit non inscrit n'est pas manifestement infondée, le conservateur, d'entente avec l'ingénieur géomètre breveté, convoque le propriétaire du fonds prétendument grevé et, au besoin, les autres intéressés, et sollicite leur consentement à l'inscription de ce droit.
 
 <sup>2</sup> Lorsque ces personnes se sont prononcées, le conservateur indique par écrit à celui qui a produit un droit non inscrit si celui-ci a fait l'objet d'une inscription ou non; dans ce dernier cas, l'avis précise que, si une inscription ou une inscription provisoire du droit n'est pas obtenue du juge dans les deux mois à compter de la clôture de l'enquête de l'ancien état, ce droit sera aboli.
 
@@ -1101,7 +1101,7 @@ Décrète:
 
 <sup>1</sup> Le cadastre transitoire est l'ensemble des documents qui décrivent les immeubles et leur statut juridique à la suite du remaniement parcellaire.
 
-<sup>2</sup> Le géomètre établit le cadastre transitoire qui comprend:
+<sup>2</sup> L'ingénieur géomètre officiel établit le cadastre transitoire qui comprend:
 
 - a) les plans et l'état descriptif des biens-fonds;
 - b) l'état des droits de propriété, des annotations, des mentions et des droits réels limités, à l'exclusion des droits de gages;
@@ -1272,9 +1272,9 @@ Décrète:
 
 **Travaux et direction techniques**
 
-<sup>1</sup> Les travaux techniques sont confiés à un géomètre breveté et à un ingénieur forestier. Ils sont nommés par l'assemblée générale, sous réserve de ratification par la Direction.
+<sup>1</sup> Les travaux techniques sont confiés à un ingénieur géomètre breveté et à un ingénieur forestier. Ils sont nommés par l'assemblée générale, sous réserve de ratification par la Direction.
 
-<sup>2</sup> En règle générale, le géomètre assume la direction technique.
+<sup>2</sup> En règle générale, l'ingénieur géomètre breveté assume la direction technique.
 
 #### Art. 136
 
@@ -1362,7 +1362,7 @@ Décrète:
 
 **Inscription au registre foncier**
 
-<sup>1</sup> L'inscription au registre foncier est opérée sur la base du contrat constitutif et du verbal de mutation ou du cadastre transitoire, après approbation du nouvel état par le Conseil d'Etat.
+<sup>1</sup> L'inscription au registre foncier est opérée sur la base du contrat constitutif et du verbal de mutation foncière ou du cadastre transitoire, après approbation du nouvel état par le Conseil d'Etat.
 
 <sup>2</sup> Lorsque la réunion est imposée, la décision du Conseil d'Etat tient lieu de contrat constitutif.
 
@@ -1384,13 +1384,13 @@ Décrète:
 
 **Convention**
 
-<sup>1</sup> Pour le groupement volontaire de parcelles, la convention indique de manière précise les immeubles visés par le projet, le géomètre officiel chargé des opérations et la répartition des frais.
+<sup>1</sup> Pour le groupement volontaire de parcelles, la convention indique de manière précise les immeubles visés par le projet, l'ingénieur géomètre officiel chargé des opérations et la répartition des frais.
 
 #### Art. 149
 
-**Actes authentiques – Géomètre**
+**Actes authentiques – Ingénieur géomètre officiel**
 
-<sup>1</sup> Les actes authentiques relatifs aux opérations visées à l'article 147 lettres a et b sont reçus par le géomètre officiel, sous réserve de l'approbation du service compétent, dans les formes prévues par la législation sur la mensuration officielle.
+<sup>1</sup> Les actes authentiques relatifs aux opérations visées à l'article 147 let. a et b sont reçus par l'ingénieur géomètre officiel, sous réserve de l'approbation du service compétent, dans les formes prévues par la législation sur la mensuration officielle.
 
 #### Art. 150
 
