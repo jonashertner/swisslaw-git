@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Postgesetzes (PG)
 document: Vernehmlassungsvorlage
 language: de
