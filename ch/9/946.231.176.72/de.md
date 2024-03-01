@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-03-01
+version: 2024-03-02
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 1. März 2024)
+vom 4. März 2022 (Stand am 2. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1106,7 +1106,9 @@ Personen und Einrichtungen, die gewerbsmässig Dienstleistungen im Zusammenhang 
 - b. in der Russischen Föderation ansässige natürliche Personen;
 - c. in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen.[^20-4]
 
-<sup>3</sup> Die Verbote nach den Absätzen 1–2<sup>bis</sup> gelten nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen.[^20-5]
+<sup>2bis</sup> Russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen ist es verboten, direktes oder indirektes Eigentum an einer nach dem Recht der Schweiz oder eines Mitgliedstaats des EWR gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, die die in Absatz 2 genannten Dienstleistungen erbringt, zu erwerben, die juristische Person, Organisation oder Einrichtung direkt oder indirekt neu zu kontrollieren oder eine neue Funktion in ihren Leitungsgremien auszuüben.[^20-5]
+
+<sup>3</sup> Die Verbote nach den Absätzen 1–2<sup>bis</sup> gelten nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen.[^20-6]
 
 <sup>4</sup>
 
@@ -1115,18 +1117,19 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 - a. zur Vermeidung von Härtefällen;
 - b. zu humanitären Zwecken oder zu Evakuierungszwecken;
 - c. für zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte oder die Rechtsstaatlichkeit in der Russischen Föderation unmittelbar fördern;
-- c<sup>bis</sup>.[^20-6] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen;
+- c<sup>bis</sup>.[^20-7] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen;
 - d. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen;
 - e. zur Wahrung schweizerischer Interessen;
-- f.[^20-7] für den nicht verbotenen grenzüberschreitenden Handel mit Gütern und Dienstleistungen zwischen der Schweiz und der Russischen Föderation, der Schweiz und dem EWR oder dem EWR und der Russischen Föderation.
+- f.[^20-8] für den nicht verbotenen grenzüberschreitenden Handel mit Gütern und Dienstleistungen zwischen der Schweiz und der Russischen Föderation, der Schweiz und dem EWR oder dem EWR und der Russischen Föderation.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^20-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^20-4]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^20-6]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^20-7]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-5]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 2. März 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-7]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-8]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 21
 

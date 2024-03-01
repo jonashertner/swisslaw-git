@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-03-01
+version: 2024-03-02
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 1<sup>er</sup> mars 2024)
+du 4 mars 2022 (État le 2 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1104,7 +1104,9 @@ Il est interdit, pour les personnes et établissements qui fournissent à titre 
 - b. à des personnes physiques résidant en Fédération de Russie, ou
 - c. à des personnes morales, entreprises ou entités établies en Fédération de Russie.[^20-4]
 
-<sup>3</sup> Les interdictions prévues aux al. 1 à 2<sup>bis</sup> ne s’appliquent ni aux ressortissants suisses, ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni, ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^20-5]
+<sup>2bis</sup> Il est interdit aux ressortissants russes et aux personnes physiques résidant en Fédération de Russie d’acquérir directement ou indirectement une personne morale, une entité ou un établissement établi ou constitué selon le droit suisse ou le droit d’un État membre de l’EEE et fournissant les services visés à l’al. 2, d’en prendre le contrôle direct ou indirect, ou d’exercer une nouvelle fonction au sein de ses organes directeurs.[^20-5]
+
+<sup>3</sup> Les interdictions prévues aux al. 1 à 2<sup>bis</sup> ne s’appliquent ni aux ressortissants suisses, ni aux ressortissants d’un État membre de l’EEE ou du Royaume-Uni, ni aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^20-6]
 
 <sup>4</sup>
 
@@ -1113,18 +1115,19 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 - a. à la prévention des cas de rigueur;
 - b. à des fins humanitaires ou à des fins d’évacuation;
 - c. à des activités de la société civile qui promeuvent directement la démocratie, les droits de l’homme ou l’État de droit en Fédération de Russie;
-- c<sup>bis</sup>.[^20-6] au paiement de commissions ou de frais correspondant à la garde ou à la gestion courante d’avoirs ou de ressources économiques gelés;
+- c<sup>bis</sup>.[^20-7] au paiement de commissions ou de frais correspondant à la garde ou à la gestion courante d’avoirs ou de ressources économiques gelés;
 - d. à l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales;
 - e. à la sauvegarde des intérêts suisses;
-- f.[^20-7] aux échanges transfrontières non soumis à interdiction de biens et de services entre la Suisse et la Fédération de Russie, entre la Suisse et l’EEE ou entre l’EEE et la Fédération de Russie.
+- f.[^20-8] aux échanges transfrontières non soumis à interdiction de biens et de services entre la Suisse et la Fédération de Russie, entre la Suisse et l’EEE ou entre l’EEE et la Fédération de Russie.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^20-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^20-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^20-6]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^20-7]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-5]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 2 mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-7]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-8]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 21
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-03-01
+version: 2024-03-02
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 1° marzo 2024)
+del 4 marzo 2022 (Stato 2 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1106,7 +1106,9 @@ A persone e organismi che prestano a titolo professionale servizi di portafoglio
 - b. a persone fisiche residenti nella Federazione Russa; o
 - c. a persone giuridiche, imprese od organizzazioni stabilite nella Federazione Russa.[^20-5]
 
-<sup>3</sup> I divieti di cui ai 1–2<sup>bis</sup> non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^20-6]
+<sup>2bis</sup> A cittadini russi o persone fisiche residenti nella Federazione Russa è vietato avere, direttamente o indirettamente, la proprietà o il controllo di una persona giuridica, un’organizzazione o un organismo costituito o registrato secondo il diritto svizzero o secondo il diritto di uno Stato membro del SEE che fornisce servizi di cui al capoverso 2 o ricoprirvi cariche negli organi direttivi.[^20-6]
+
+<sup>3</sup> I divieti di cui ai 1–2<sup>bis</sup> non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^20-7]
 
 <sup>4</sup>
 
@@ -1115,19 +1117,20 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - a. prevenire casi di rigore;
 - b. scopi umanitari o scopi di evacuazione;
 - c. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto nella Federazione Russa;
-- c<sup>bis</sup>.[^20-7] il pagamento di diritti o di spese connessi alla normale gestione o alla custodia dei fondi o delle risorse economiche congelati;
+- c<sup>bis</sup>.[^20-8] il pagamento di diritti o di spese connessi alla normale gestione o alla custodia dei fondi o delle risorse economiche congelati;
 - d. svolgere attività ufficiali di rappresentanze diplomatiche o consolari o di un’organizzazione internazionale;
 - e. tutelare gli interessi svizzeri;
-- f.[^20-8] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Federazione Russa, tra la Svizzera e lo SEE o tra lo SEE e la Federazione Russa.
+- f.[^20-9] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Federazione Russa, tra la Svizzera e lo SEE o tra lo SEE e la Federazione Russa.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^20-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^20-3]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^20-4]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^20-5]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^20-7]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^20-8]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-6]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 2 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-7]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-8]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-9]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 21
 
