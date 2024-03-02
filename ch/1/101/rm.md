@@ -4,11 +4,11 @@ title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: rm
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-rm-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 d’avrigl 1999 (versiun dal 1. da schaner 2024)
+dals 18 d’avrigl 1999 (versiun dals 3 da mars 2024)
 
 **Preambel**
 
@@ -1505,7 +1505,7 @@ La Confederaziun po decretar prescripziuns davart:
 
 #### Art. 112
 
-**Assicuranza da vegls, survivents ed invalids**
+**Assicuranza da vegls, survivents ed invalids[^112-1]\***
 
 <sup>1</sup> La Confederaziun decretescha prescripziuns davart l’assicuranza da vegls, survivents ed invalids.
 
@@ -1514,7 +1514,7 @@ La Confederaziun po decretar prescripziuns davart:
 Ella observa ils suandants princips:
 
 - a. L’assicuranza è obligatorica.
-- a<sup>bis</sup>.[^112-1] Ella conceda prestaziuns finanzialas e materialas.
+- a<sup>bis</sup>.[^112-2] Ella conceda prestaziuns finanzialas e materialas.
 - b. Las rentas han da cuvrir commensuradamain il basegn d’existenza.
 - c. La renta maximala correspunda sin il pli al dubel da la renta minimala.
 - d. Las rentas vegnan adattadas almain da tut al svilup dals pretschs.
@@ -1524,18 +1524,19 @@ Ella observa ils suandants princips:
 L’assicuranza vegn finanziada:
 
 - a. tras contribuziuns dals assicurads; latiers pajan las patrunas ed ils patruns la mesadad da las contribuziuns per lur lavurantas e lavurants;
-- b.[^112-2] tras prestaziuns da la Confederaziun.
+- b.[^112-3] tras prestaziuns da la Confederaziun.
 
-<sup>4</sup> Las prestaziuns da la Confederaziun muntan sin il pli la mesadad da las expensas.[^112-3]
+<sup>4</sup> Las prestaziuns da la Confederaziun muntan sin il pli la mesadad da las expensas.[^112-4]
 
 <sup>5</sup> Las prestaziuns da la Confederaziun vegnan cuvridas en emprima lingia ord il retgav net da la taglia sin tubac, da la taglia sin vinars e da la taxa sin bancas da gieus.
 
-<sup>6</sup> …[^112-4]
+<sup>6</sup> …[^112-5]
 
-[^112-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: <sup>\*</sup> Cun disposiziun transitorica.
 [^112-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-5]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -3113,9 +3114,21 @@ Il Cussegl federal po decretar prescripziuns cumplementaras per realisar l’imp
 
 <sup>9</sup> Suenter la deducziun dals custs supplementars per la gulivaziun da finanzas e da grevezzas dovra la Confederaziun sia cumpart dal retgav brut da la taglia cumplementara per rinforzar la promoziun da l’attractivitad economica da la Svizra.
 
-Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu15-2]
+### 16. Disposiziun transitorica tar l’art. 112 (Assicuranza da vegls, survivents ed invalids)
 
-[^197-subdivu15-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu16-1]
+
+[^197-subdivu16-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2024, en vigur dapi ils 3 da mars 2024 (COF dals 17 da mars 2023, COCF dals 7 da matg 2024 – [AS 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [BBl 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+
+<sup>1</sup> Persunas che retiran ina renta da vegliadetgna han il dretg d’in supplement annual en l’autezza d’in dudeschavel da lur renta annuala.
+
+<sup>2</sup> Il dretg dal supplement annual nascha il pli tard a partir dal cumenzament dal segund onn chalendar che suonda l’acceptaziun da questa disposiziun tras il pievel e tras ils chantuns.
+
+<sup>3</sup> La lescha procura ch’il supplement annual na chaschunia ni ina reducziun da las prestaziuns supplementaras ni ina perdita dal dretg da questas prestaziuns.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu16-2]
+
+[^197-subdivu16-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
 

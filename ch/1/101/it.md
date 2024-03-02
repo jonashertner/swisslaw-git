@@ -4,18 +4,18 @@ title: Costituzione federale della Confederazione Svizzera del 18 aprile 1999
 short: Cost.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: it
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-it-xml-19.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione federale della Confederazione Svizzera
 
-del 18 aprile 1999 (Stato 1° gennaio 2024)
+del 18 aprile 1999 (Stato 3 marzo 2024)
 
 **Preambolo**
 
@@ -3118,9 +3118,21 @@ Il Consiglio federale può emanare disposizioni complementari per l’attuazione
 
 <sup>9</sup> La Confederazione utilizza la propria quota del gettito lordo dell’imposta integrativa, al netto delle maggiori uscite per la perequazione finanziaria e la compensazione degli oneri generate da tale imposta, per promuovere ulteriormente l’attrattiva della piazza economica svizzera.
 
-Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu15-2]
+### 16. Disposizione transitoria dell’art. 112 (Assicurazione vecchiaia, superstiti e invalidità)
 
-[^197-subdivu15-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu16-1]
+
+[^197-subdivu16-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024 (DF del 17 mar. 2023, DCF del 7 mag. 2024 – [RU 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [FF 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+
+<sup>1</sup> I beneficiari di una rendita di vecchiaia hanno diritto a un supplemento annuo pari a un dodicesimo della loro rendita annua.
+
+<sup>2</sup> Il diritto al supplemento annuo nasce al più tardi all’inizio del secondo anno civile che segue l’accettazione della presente disposizione da parte del Popolo e dei Cantoni.
+
+<sup>3</sup> La legge assicura che il supplemento annuo non comporti né la riduzione delle prestazioni complementari né la perdita del diritto a tali prestazioni.
+
+Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu16-2]
+
+[^197-subdivu16-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposizioni finali del Decreto federale del 18 dicembre 1998
 
@@ -3341,7 +3353,7 @@ Assicurazione
 - – contro la disoccupazione 114
 - – contro le malattie 117, 130
 - – per la maternità 116
-- – vecchiaia, superstiti e invalidità 106, 112 - 112c, 130, 196 n. 14
+- – vecchiaia, superstiti e invalidità 106, 112 - 112c, 130, 196 n. 14 e 16
 
 **Assicurazioni** 98
 

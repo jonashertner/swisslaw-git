@@ -4,11 +4,11 @@ title: Federal Constitution of 18 April 1999 of the Swiss Confederation
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: en
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 April 1999 (Status as of 1 January 2024)
+of 18 April 1999 (Status as of 3 March 2024)
 
 **Preamble**
 
@@ -1505,16 +1505,16 @@ The Confederation may legislate on:
 
 #### Art. 112
 
-**Old-age, Survivors’ and Invalidity Insurance**
+**Old-Age, Survivors’ and Invalidity Insurance[^112-1]\***
 
-<sup>1</sup> The Confederation shall legislate on the Old-age, Survivors and Invalidity Insurance.
+<sup>1</sup> The Confederation shall legislate on the Old-Age, Survivors’ and Invalidity Insurance.
 
 <sup>2</sup>
 
 In doing so, it shall adhere to the following principles:
 
 - a. the insurance is compulsory;
-- a<sup>bis</sup>.[^112-1] it provides cash and non-cash benefits;
+- a<sup>bis</sup>.[^112-2] it provides cash and non-cash benefits;
 - b. pensions must be sufficient to cover basic living expenses adequately;
 - c. the maximum pension must not be more than twice the minimum pension;
 - d. pensions must as a minimum be adjusted in line with price trends.
@@ -1524,18 +1524,19 @@ In doing so, it shall adhere to the following principles:
 The insurance is funded:
 
 - a. through contributions from those insured, whereby employers must pay one half of the contributions payable by their employees;
-- b.[^112-2] through subsidies from the Confederation.
+- b.[^112-3] through subsidies from the Confederation.
 
-<sup>4</sup> The subsidies from the Confederation may not exceed one half of the disbursements made under the scheme.[^112-3].
+<sup>4</sup> The subsidies from the Confederation may not exceed one half of the disbursements made under the scheme.[^112-4].
 
 <sup>5</sup> The subsidies from the Confederation shall in the first place be funded from the net proceeds of the tax on tobacco, the tax on distilled spirits and the tax on the revenues from gaming houses.
 
-<sup>6</sup> ...[^112-4]
+<sup>6</sup> ...[^112-5]
 
-[^112-1]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct. 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: <sup>\*</sup> With transitional provision.
 [^112-2]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct. 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112-3]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct. 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Repealed by the popular vote on 28 Nov. 2004, with effect from 1 Jan. 2008 (FCD of 3 Oct 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct. 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-5]: Repealed by the popular vote on 28 Nov. 2004, with effect from 1 Jan. 2008 (FCD of 3 Oct 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -1787,7 +1788,7 @@ Irrespective of their status under the law on foreign nationals, foreign nationa
 
 <sup>2</sup> The number of residence permits for foreign nationals in Switzerland shall be restricted by annual quantitative limits and quotas. The quantitative limits apply to all permits issued under legislation on foreign nationals, including those related to asylum matters. The right to permanent residence, family reunification and social benefits may be restricted.
 
-<sup>3</sup> The annual quantitative limits and quotas for foreign nationals in gainful employment must be determined according to Switzerland's general economic interests, while giving priority to Swiss citizens; the limits and quotas must include cross-border commuters. The decisive criteria for granting residence permits are primarily a application from an employer, ability to integrate, and adequate, independent means of subsistence.
+<sup>3</sup> The annual quantitative limits and quotas for foreign nationals in gainful employment must be determined according to Switzerland's general economic interests, while giving priority to Swiss citizens; the limits and quotas must include cross-border commuters. The decisive criteria for granting residence permits are primarily an application from an employer, ability to integrate, and adequate, independent means of subsistence.
 
 <sup>4</sup> No international agreements may be concluded that breach this Article.
 
@@ -3111,9 +3112,21 @@ The Federal Council may issue supplementary regulations on implementing the mini
 
 <sup>9</sup> The Confederation shall use its share of the gross revenue from the supplementary tax, after deducting its additional expenditure for the equalisation of financial resources and burdens caused by the supplementary tax, to further promote Switzerland's attractiveness as a business location.
 
-Commencement Date: 1 January 2000[^197-subdivu16-2]
+### 16. Transitional provision to Art. 112 (Old-Age, Survivors’ and Invalidity Insurance)
 
-[^197-subdivu16-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu17-1]
+
+[^197-subdivu17-1]: Adopted by the popular vote on 3 March 2024, in force since 3 March 2024 (FedD of 17 March 2023, FCD of 7 May 2024 – [AS 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [BBl 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+
+<sup>1</sup> Persons in receipt of a retirement pension are entitled to an annual additional payment amounting to one twelfth of their annual pension.
+
+<sup>2</sup> Entitlement to the annual additional payment arises at the latest at the start of the second calendar year following the adoption of this provision by the People and the Cantons.
+
+<sup>3</sup> The law shall ensure that the annual additional payment does not lead to a reduction in supplementary benefits nor to the loss of entitlement to such benefits.
+
+Commencement Date: 1 January 2000[^197-subdivu17-2]
+
+[^197-subdivu17-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Final Provisions of the Federal Decree of 18 December 1998
 

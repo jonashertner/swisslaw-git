@@ -4,18 +4,18 @@ title: Constitution fédérale de la Confédération suisse du 18 avril 1999
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: fr
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-fr-xml-19.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution fédérale de la Confédération suisse
 
-du 18 avril 1999 (État le 1<sup>er</sup> janvier 2024)
+du 18 avril 1999 (État le 3 mars 2024)
 
 **Préambule**
 
@@ -3113,9 +3113,21 @@ Le Conseil fédéral peut arrêter des dispositions complémentaires relatives �
 
 <sup>9</sup> Après déduction des dépenses supplémentaires induites au titre de la péréquation financière et de la compensation des charges, la Confédération affecte sa part du produit brut de l’impôt complémentaire au renforcement de la promotion de l’attrait économique de la Suisse.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu15-2]
+### 16. Disposition transitoire ad art. 112 (Assurance-vieillesse, survivants et invalidité)
 
-[^197-subdivu15-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu16-1]
+
+[^197-subdivu16-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 3 mars 2024 (AF du 17 mars 2023, ACF du 7 mai 2024; [RO 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [FF 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+
+<sup>1</sup> Les bénéficiaires d’une rente de vieillesse ont droit à un supplément annuel s’élevant à un douzième de leur rente annuelle.
+
+<sup>2</sup> Le droit au supplément annuel prend naissance au plus tard au début de la deuxième année civile suivant l’acceptation de la présente disposition par le peuple et les cantons.
+
+<sup>3</sup> La loi garantit que le supplément annuel n’entraîne ni la réduction des prestations complémentaires ni la perte du droit à ces prestations.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu16-2]
+
+[^197-subdivu16-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Dispositions finales de l’arrêté fédéral du 18 décembre 1998
 
@@ -3347,7 +3359,7 @@ Assurance
 - – maternité 116
 - – obligatoire 112, 113, 116, 117
 - – privée 98
-- – vieillesse, survivants et invalidité 106, 112, 130
+- – vieillesse, survivants et invalidité 106, 112, 130, 197 ch. 16
   - – financement de l’AI 196 ch. 14
   - – prestations complémentaires 112*a*
 
@@ -4351,7 +4363,7 @@ Homme
 
 ### I
 
-**Immogration** 121*a*, 197 ch. 11
+**Immi****gration** 121*a*, 197 ch. 11
 
 **Immunité** 162
 
@@ -4728,7 +4740,7 @@ Mesures
 
 **Mise** sur pied de l’armée 173, 185
 
-**Mode de vie** 8
+**Mode de** **vie** 8
 
 **Modification** du nombre ou du statut des cantons 53
 
@@ -5246,7 +5258,7 @@ Rente
 
 - – maximale et minimale 112
 
-**Rentes** 112
+**Rentes** 112, 197 ch. 16
 
 **Renvoi** 121 al. 3 à 6
 

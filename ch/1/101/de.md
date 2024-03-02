@@ -4,18 +4,18 @@ title: Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
 short: BV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: de
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-de-xml-19.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesverfassung der Schweizerischen Eidgenossenschaft
 
-vom 18. April 1999 (Stand am 1. Januar 2024)
+vom 18. April 1999 (Stand am 3. März 2024)
 
 **Präambel**
 
@@ -1503,7 +1503,7 @@ Der Bund kann Vorschriften erlassen über:
 
 #### Art. 112
 
-**Alters‑, Hinterlassenen‑ und Invalidenversicherung**
+**Alters‑, Hinterlassenen‑ und Invalidenversicherung[^112-1]\***
 
 <sup>1</sup> Der Bund erlässt Vorschriften über die Alters‑, Hinterlassenen- und Invalidenversicherung.
 
@@ -1512,7 +1512,7 @@ Der Bund kann Vorschriften erlassen über:
 Er beachtet dabei folgende Grundsätze:
 
 - a. Die Versicherung ist obligatorisch.
-- a<sup>bis</sup>.[^112-1] Sie gewährt Geld- und Sachleistungen.
+- a<sup>bis</sup>.[^112-2] Sie gewährt Geld- und Sachleistungen.
 - b. Die Renten haben den Existenzbedarf angemessen zu decken.
 - c. Die Höchstrente beträgt maximal das Doppelte der Mindestrente.
 - d. Die Renten werden mindestens der Preisentwicklung angepasst.
@@ -1522,18 +1522,19 @@ Er beachtet dabei folgende Grundsätze:
 Die Versicherung wird finanziert:
 
 - a. durch Beiträge der Versicherten, wobei die Arbeitgeberinnen und Arbeitgeber für ihre Arbeitnehmerinnen und Arbeitnehmer die Hälfte der Beiträge bezahlen;
-- b.[^112-2] durch Leistungen des Bundes.
+- b.[^112-3] durch Leistungen des Bundes.
 
-<sup>4</sup> Die Leistungen des Bundes betragen höchstens die Hälfte der Ausgaben.[^112-3]
+<sup>4</sup> Die Leistungen des Bundes betragen höchstens die Hälfte der Ausgaben.[^112-4]
 
 <sup>5</sup> Die Leistungen des Bundes werden in erster Linie aus dem Reinertrag der Tabaksteuer, der Steuer auf gebrannten Wassern und der Abgabe aus dem Betrieb von Spielbanken gedeckt.
 
-<sup>6</sup> …[^112-4]
+<sup>6</sup> …[^112-5]
 
-[^112-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: <sup>\*</sup> Mit Übergangsbestimmung.
 [^112-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-5]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -3114,9 +3115,21 @@ Der Bundesrat kann ergänzende Vorschriften zur Umsetzung der Mindestbesteuerung
 
 <sup>9</sup> Der Bund verwendet seinen Anteil am Rohertrag der Ergänzungssteuer, nach Abzug seiner durch die Ergänzungssteuer verursachten Mehrausgaben für den Finanz- und Lastenausgleich, zur zusätzlichen Förderung der Standortattraktivität der Schweiz.
 
-Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu15-2]
+### 16. Übergangsbestimmung zu Art. 112 (Alters-, Hinterlassenen- und Invalidenversicherung)
 
-[^197-subdivu15-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu16-1]
+
+[^197-subdivu16-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 3. März 2024 (BB vom 17. März 2023, BRB vom 7. Mai 2024 – [AS 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [BBl 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+
+<sup>1</sup> Bezügerinnen und Bezüger einer Altersrente haben Anspruch auf einen jährlichen Zuschlag in der Höhe eines Zwölftels ihrer jährlichen Rente.
+
+<sup>2</sup> Der Anspruch auf den jährlichen Zuschlag entsteht spätestens mit Beginn des zweiten Kalenderjahres, das der Annahme dieser Bestimmung durch Volk und Stände folgt.
+
+<sup>3</sup> Das Gesetz stellt sicher, dass der jährliche Zuschlag weder zu einer Reduktion der Ergänzungsleistungen noch zum Verlust des Anspruchs auf diese Leistungen führt.
+
+Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu16-2]
+
+[^197-subdivu16-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Schlussbestimmungen des Bundesbeschlusses vom 18. Dezember 1998
 
@@ -3221,7 +3234,7 @@ Alpen Schutz vor Transitverkehr 84, 196
 
 **Alter** 8, 41
 
-**Alters-, Hinterlassenen- und Invaliden****vorsorge** 111
+**Alters-, Hinterlassenen- und Invaliden****vorsorge** 111, 197 Ziff. 16
 
 **Alters-, Hinterlassenen- und Invaliden****versicherung** 112–112*c*, 130
 
@@ -4939,7 +4952,7 @@ Referendum
 
 **Religionsgemeinschaften** 15, 72
 
-**Renten** 112, 196 Ziff. 10
+**Renten** 112, 196 Ziff. 10, 197 Ziff. 16
 
 **Reserven** in Gold 99
 
