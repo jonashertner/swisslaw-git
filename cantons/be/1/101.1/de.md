@@ -4,13 +4,13 @@ number: "101.1"
 title: Verfassung des Kantons Bern
 short: KV
 language: de
-version: 2024-01-01
-valid_until: 2024-03-02
-version_adopted: 2023-03-12
+version: 2024-03-03
+valid_until: 2025-12-31
+version_adopted: 2024-03-03
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2876/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2876/pdf_file"
 
 (KV)
 
-vom 06.06.1993 (Stand 01.01.2024)
+vom 06.06.1993 (Stand 03.03.2024)
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
@@ -661,6 +661,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 <sup>1</sup> Obligatorisch unterliegen der Volksabstimmung
 
 - a Verfassungsrevisionen,
+- a1 dringliche Gesetze,
 - b Initiativen, denen der Grosse Rat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt,
 - c interkantonale und internationale Verträge, die mit der Verfassung nicht vereinbar sind,
 - d Änderungen des Kantonsgebietes, ausgenommen Grenzkorrekturen.
@@ -820,6 +821,16 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 - a die internationalen Verträge sowie
 - b die interkantonalen Verträge, soweit diese nicht in die alleinige Zuständigkeit des Regierungsrates fallen.
+
+#### Art. 74a
+
+**Rechtsetzung bei Dringlichkeit**
+
+<sup>1</sup> Ein Gesetz, dessen Inkrafttreten keinen Aufschub duldet, kann sofort in Kraft gesetzt werden, wenn es der Grosse Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder beschliesst.
+
+<sup>2</sup> Zu einem Gesetz gemäss Absatz 1 sind Eventualanträge gemäss Artikel 63 Absatz 2 ausgeschlossen.
+
+<sup>3</sup> Die Volksabstimmung gemäss Artikel 61 Absatz 1 Buchstabe a1 findet spätestens sechs Monate nach Inkrafttreten des dringlichen Gesetzes statt. Bei Ablehnung tritt das dringliche Gesetz unmittelbar nach der Volksabstimmung ausser Kraft.
 
 #### Art. 75
 

@@ -4,13 +4,13 @@ number: "101.1"
 title: "Constitution du canton de Berne *"
 short: ConstC
 language: fr
-version: 2024-01-01
-valid_until: 2024-03-02
-version_adopted: 2023-03-12
+version: 2024-03-03
+valid_until: 2025-12-31
+version_adopted: 2024-03-03
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2876/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3020/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2876/pdf_file"
 
 (ConstC)
 
-du 06.06.1993 (état au 01.01.2024)
+du 06.06.1993 (état au 03.03.2024)
 
 Dans l'intention de protéger la liberté et le droit et d'aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
@@ -661,6 +661,7 @@ le peuple bernois se donne la Constitution suivante:
 <sup>1</sup> Sont obligatoirement soumis au vote populaire
 
 - a les révisions constitutionnelles;
+- a1 les lois urgentes;
 - b les initiatives que le Grand Conseil n'approuve pas ou auxquelles il oppose un contre-projet;
 - c les traités intercantonaux et les traités internationaux qui dérogent à la Constitution;
 - d les modifications du territoire cantonal, à l'exception des rectifications de frontière.
@@ -820,6 +821,16 @@ le peuple bernois se donne la Constitution suivante:
 
 - a les traités internationaux et
 - b les traités intercantonaux qui ne ressortissent pas exclusivement au Conseil-exécutif.
+
+#### Art. 74a
+
+**Compétences législatives en cas d'urgence**
+
+<sup>1</sup> Une loi dont l'entrée en vigueur est urgente peut entrer en vigueur immédiatement si le Grand Conseil le décide avec une majorité de deux tiers de ses membres.
+
+<sup>2</sup> Les projets alternatifs conformément à l'article 63, alinéa 2 sont exclus pour les lois au sens de l'alinéa 1.
+
+<sup>3</sup> La votation prévue à l’article 61, alinéa 1, lettre a1 a lieu au plus tard six mois après l’entrée en vigueur de la loi urgente. Si la loi urgente est rejetée, elle est abrogée immédiatement après la votation populaire.
 
 #### Art. 75
 
