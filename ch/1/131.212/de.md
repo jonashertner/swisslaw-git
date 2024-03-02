@@ -4,18 +4,18 @@ title: "Verfassung des Kantons Bern, vom 6. Juni 1993 (KV)"
 short: KV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: de
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240303-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Bern (KV)
 
-vom 6. Juni 1993 (Stand am 1. Januar 2024)[^t-2][^t-1]
+vom 6. Juni 1993 (Stand am 3. März 2024)[^t-2][^t-1]
 
 [^t-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -701,13 +701,15 @@ Initiativen sind ganz oder teilweise ungültig zu erklären, wenn sie:
 Obligatorisch unterliegen der Volksabstimmung:
 
 - a. Verfassungsrevisionen;
+- a1.[^61-1] dringliche Gesetze;
 - b. Initiativen, denen der Grosse Rat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt;
 - c. interkantonale und internationale Verträge, die mit der Verfassung nicht vereinbar sind;
 - d. Änderungen des Kantonsgebietes, ausgenommen Grenzkorrekturen.
 
-<sup>2</sup> Vorlagen, die der fakultativen Volksabstimmung unterliegen, werden der obligatorischen Volksabstimmung unterstellt, wenn 100 Mitglieder des Grossen Rates es verlangen.[^61-1]
+<sup>2</sup> Vorlagen, die der fakultativen Volksabstimmung unterliegen, werden der obligatorischen Volksabstimmung unterstellt, wenn 100 Mitglieder des Grossen Rates es verlangen.[^61-2]
 
-[^61-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Juni 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^61-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^61-2]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Juni 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Fakultative Volksabstimmung
 
@@ -888,6 +890,20 @@ Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer
 
 - a. die internationalen Verträge sowie
 - b. die interkantonalen Verträge, soweit diese nicht in die alleinige Zuständigkeit des Regierungsrates fallen.
+
+### Rechtsetzung bei Dringlichkeit
+
+#### Art. 74a
+
+[^74a-1]
+
+<sup>1</sup> Ein Gesetz, dessen Inkrafttreten keinen Aufschub duldet, kann sofort in Kraft gesetzt werden, wenn es der Grosse Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder beschliesst.
+
+<sup>2</sup> Zu einem Gesetz gemäss Absatz 1 sind Eventualanträge gemäss Artikel 63 Absatz 2 ausgeschlossen.
+
+<sup>3</sup> Die Volksabstimmung gemäss Artikel 61 Absatz 1 Buchstabe a1 findet spätestens sechs Monate nach Inkrafttreten des dringlichen Gesetzes statt. Bei Ablehnung tritt das dringliche Gesetz unmittelbar nach der Volksabstimmung ausser Kraft.
+
+[^74a-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Planung
 
@@ -1978,7 +1994,7 @@ Chancengleichheit
 
 **Diskriminierungsverbot** 10
 
-**Dringliche Rechtssetzung** 88
+**Dringliche Rechtssetzung** 61<sup>1a1</sup>, 74*a*, 88
 
 **Drittwirkung** 27
 
@@ -2171,6 +2187,7 @@ Gerichtsbehörden
 
 Gesetze
 
+- – dringliche Gesetze 61<sup>1a1</sup>, 74*a*
 - – Erlass 74
 - – fakultative Volksabstimmung 62
 - – notwendiger Inhalt 69

@@ -4,18 +4,18 @@ title: "Constitution du canton de Berne, du 6 juin 1993 (ConstC)"
 short: ConstC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: fr
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240303-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du canton de Berne (ConstC)
 
-du 6 juin 1993 (État le 1<sup>er</sup> janvier 2024)[^t-2][^t-1]
+du 6 juin 1993 (État le 3 mars 2024)[^t-2][^t-1]
 
 [^t-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
@@ -701,13 +701,15 @@ Une initiative sera entièrement ou partiellement invalidée si elle:
 Sont obligatoirement soumis au vote populaire:
 
 - a. les révisions constitutionnelles;
+- a1.[^61-1] les lois urgentes;
 - b. les initiatives que le Grand Conseil n’approuve pas ou auxquelles il oppose un contre-projet;
 - c. les traités intercantonaux et les traités internationaux qui dérogent à la Constitution;
 - d. les modifications du territoire cantonal, à l’exception des rectifications de frontière.
 
-<sup>2</sup> 100 membres du Grand Conseil peuvent décider que le corps électoral se prononcera obligatoirement sur un projet soumis à la votation facultative.[^61-1]
+<sup>2</sup> 100 membres du Grand Conseil peuvent décider que le corps électoral se prononcera obligatoirement sur un projet soumis à la votation facultative.[^61-2]
 
-[^61-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^61-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 3 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^61-2]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Votation facultative
 
@@ -890,6 +892,20 @@ Le Grand Conseil approuve:
 
 - a. les traités internationaux, et
 - b. les traités intercantonaux qui ne ressortissent pas exclusivement au Conseil-exécutif.
+
+### Compétences législatives en cas d’urgence
+
+#### Art. 74a
+
+[^74a-1]
+
+<sup>1</sup> Une loi dont l’entrée en vigueur est urgente peut entrer en vigueur immédiatement si le Grand Conseil le décide avec une majorité de deux tiers de ses membres.
+
+<sup>2</sup> Les projets alternatifs conformément à l’art. 63, al. 2, sont exclus pour les lois au sens de l’al. 1.
+
+<sup>3</sup> La votation prévue à l’art. 61, al. 1, let. a1, a lieu au plus tard six mois après l’entrée en vigueur de la loi urgente. Si la loi urgente est rejetée, elle est abrogée immédiatement après la votation populaire.
+
+[^74a-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 3 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Planification
 
@@ -2585,6 +2601,7 @@ Lois
 - – édiction 74
 - – initiative 58
 - – votation facultative 62
+- – votation obligatoire 61, 74*a*
 
 **Loisirs** 49
 

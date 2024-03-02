@@ -4,11 +4,11 @@ title: "Costituzione del Cantone di Berna, del 6 giugno 1993 (CostC)"
 short: CostC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: it
-version: 2024-01-01
+version: 2024-03-03
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240303-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/it"
 
 Traduzione[^t-2][^t-1]
 
-del 6 giugno 1993 (Stato 1° gennaio 2024)[^t-3]
-
-[^t-1]: Accettato nella [votazione popolare del 12 mar. 2023](http://www.admin.ch/ch/i/pore/va/20230312/index.html), in vigore dal 1° gen. 2024. Garanzia dell’AF del 14 mar. 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^t-2]: Accettata nella votazione popolare del 6 giu. 1993. Garanzia dell'AF del 22 set. 1994 (FF **1994** I 361, III 1688). Il testo nella lingua originale è pubblicato sotto lo stesso numero nelle ediz. franc. e ted. della presente Raccolta.
-[^t-3]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
+del 6 giugno 1993 (Stato 3 marzo 2024)[^t-3]
 
 Nell’intento di tutelare la libertà e il diritto, nonché di forgiare una collettività solidale in cui tutti vivano consapevoli della loro responsabilità verso il creato,
 
 il Popolo del Cantone di Berna si è dato la presente Costituzione:
+
+[^t-1]: Accettato nella [votazione popolare del 12 mar. 2023](http://www.admin.ch/ch/i/pore/va/20230312/index.html), in vigore dal 1° gen. 2024. Garanzia dell’AF del 14 mar. 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^t-2]: Accettata nella votazione popolare del 6 giu. 1993. Garanzia dell'AF del 22 set. 1994 (FF **1994** I 361, III 1688). Il testo nella lingua originale è pubblicato sotto lo stesso numero nelle ediz. franc. e ted. della presente Raccolta.
+[^t-3]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 ## 1 Principi generali
 
@@ -704,13 +704,15 @@ Le iniziative devono essere dichiarate interamente o parzialmente nulle se:
 Sottostanno obbligatoriamente al voto del Popolo:
 
 - a. le revisioni costituzionali;
+- a1.[^61-1] le leggi urgenti;
 - b. le iniziative che il Gran Consiglio non condivide o alle quali contrappone un controprogetto;
 - c. i trattati intercantonali e i trattati internazionali incompatibili con la Costituzione;
 - d. le modifiche del territorio cantonale, eccettuate le rettifiche di confine.
 
-<sup>2</sup> I progetti sottostanti a votazione popolare facoltativa sono sottoposti a votazione popolare obbligatoria se 100 membri del Gran Consiglio lo richiedono.[^61-1]
+<sup>2</sup> I progetti sottostanti a votazione popolare facoltativa sono sottoposti a votazione popolare obbligatoria se 100 membri del Gran Consiglio lo richiedono.[^61-2]
 
-[^61-1]: Accettato nella [votazione popolare del 22 set. 2002](http://www.admin.ch/ch/i/pore/va/20020922/index.html), in vigore dal 1° giu. 2006. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 1 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^61-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^61-2]: Accettato nella [votazione popolare del 22 set. 2002](http://www.admin.ch/ch/i/pore/va/20020922/index.html), in vigore dal 1° giu. 2006. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 1 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Votazione facoltativa
 
@@ -893,6 +895,20 @@ Il Gran Consiglio approva:
 
 - a. i trattati internazionali e
 - b. i trattati intercantonali che non rientrano nella competenza esclusiva del Consiglio di Stato.
+
+### Attività legislativa in caso di urgenza
+
+#### Art. 74a
+
+[^74a-1]
+
+<sup>1</sup> Una legge la cui entrata in vigore non possa essere ritardata può essere messa immediatamente in vigore se il Gran Consiglio lo decide a maggioranza dei due terzi dei suoi membri.
+
+<sup>2</sup> Le proposte subordinate di cui all’articolo 63 capoverso 2 sono escluse per le leggi di cui al capoverso 1.
+
+<sup>3</sup> La votazione popolare prevista secondo l’articolo 61 capoverso 1 lettera a1 ha luogo entro sei mesi dopo l’entrata in vigore della legge urgente. Se la legge urgente è respinta, essa è abrogata immediatamente dopo la votazione popolare.
+
+[^74a-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Pianificazione
 
@@ -2114,6 +2130,7 @@ Consiglio di Stato 84 ss
 - [tab] – altre attribuzioni del 90
 - [tab] – attività
   - [tab] – legislativa del Gran Consiglio 74
+  - [tab] – legislativa in caso di urgenza del Gran Consiglio 74*a*
   - [tab] – normativa del 88
 
 - [tab] – attribuzioni finanziarie
@@ -2381,6 +2398,7 @@ Garanzia
 - [tab] – amministrazione centrale 92
 - [tab] – astensione 68
 - [tab] – attività legislativa del 74
+- [tab] – attività legislativa in caso di urgenza del 74*a*
 - [tab] – attribuzioni finanziarie del
   - [tab] – aliquota d’imposta 76
   - [tab] – rapporto di gestione 76
@@ -2527,6 +2545,7 @@ Istruzione (i)
 - [tab] – altri enti incaricati di compiti pubblici 95
 - [tab] – amministrazione distrettuale 93
 - [tab] – attività legislativa del Gran Consiglio 74
+- [tab] – attività legislativa in caso di urgenza del Gran Consiglio 74*a*
 - [tab] – autorità
   - [tab] – amministrative 99
   - [tab] – giudiziarie speciali 98
