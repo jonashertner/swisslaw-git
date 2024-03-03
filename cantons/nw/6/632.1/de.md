@@ -4,42 +4,49 @@ number: "632.1"
 title: Staatsvertrag zwischen den Kantonen Obwalden und Nidwalden betreffend die Nutzung der Engelbergeraa
 language: de
 version: 1959-04-27
+corrected: 2024-03-04
 version_adopted: 1959-04-27
 adopted: 1959-04-27
 in_force: 1959-04-27
 url: "https://gesetze.nw.ch/app/de/texts_of_law/632.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1260/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/477/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Staatsvertrag zwischen den Kantonen Obwalden und Nidwalden betreffend die Nutzung der Engelbergeraa
 
-vom 27.04.1959 (Stand 27.04.1959)
+vom 22./27. April 1959[^t-1]
 
-Zwischen dem Kanton Obwalden, vertreten durch den Regierungsrat, und dem Kanton Nidwalden, vertreten durch den Regierungsrat, wird in Ausübung der den beiden Kantonen über die Gewässer der Engelberger-Aa und ihrer Seitenbäche sowie des Trübsees zustehenden Gewässerhoheit, in der Absicht, eine möglichst umfassende und zweckmässige Nutzbarmachung der Wasserkräfte dieser interkantonalen Gewässer zu sichern, in Anwendung von Art. 7 Abs. 2 und 24bis der Bundesverfassung[^ingress-1], sowie des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte vom 22. Dezember 1916 / 20. Juni 1952[^ingress-2], gestützt auf Art. 12, 32 lit. h, 34 lit. d und q der Verfassung des Kantons Unterwalden ob dem Wald und Art. 16, 57 Ziff. 4, 60 Ziff. 3 und 20 der Verfassung des Kantons Unterwalden nid dem Wald[^ingress-3],
+Zwischen dem Kanton Obwalden, vertreten durch den Regierungsrat, und dem Kanton Nidwalden, vertreten durch den Regierungsrat, wird in Ausübung der den beiden Kantonen über die Gewässer der Engelberger-Aa und ihrer Seitenbäche sowie des Trübsees zustehenden Gewässerhoheit, in der Absicht, eine möglichst umfassende und zweckmässige Nutzbarmachung der Wasserkräfte dieser interkantonalen Gewässer zu sichern, in Anwendung von Art. 7 Abs. 2 und 24bis der Bundesverfassung[^t-2], sowie des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte vom 22. Dezember 1916 / 20. Juni 1952[^t-3], gestützt auf Art. 12, 32 lit. h, 34 lit. d und q der Verfassung des Kantons Unterwalden ob dem Wald und Art. 16, 57 Ziff. 4, 60 Ziff. 3 und 20 der Verfassung des Kantons Unterwalden nid dem Wald[^t-4],
 
 vereinbart:
 
-[^ingress-1]: SR 101
-[^ingress-2]: SR 721.80
-[^ingress-3]: Heute: NG 111
+I. EINRÄUMUNG VON WASSERNUTZUNGSRECHTEN VON OBWALDEN AN NIDWALDEN
 
-## 1 Einräumung von Wassernutzungsrechten von Obwalden an Nidwalden
+[^t-1]: Vom Landrat genehmigt am 30. Mai 1959, A 1959, 470; vom Regierungsrat unterzeichnet am 27. April 1959
+[^t-2]: SR 101
+[^t-3]: SR 721.80
+[^t-4]: Heute: NG 111
 
 #### Art. 1
 
-**Wassernutzungsrechte an der Engelberger-Aa und ihren Seitenbächen von Obermatt bis Dallenwil**
+**Wassernutzungsrechte an der Engelberger-Aa und**
+
+ihren Seitenbächen von Obermatt bis Dallenwil
 
 <sup>1</sup> Der Kanton Obwalden räumt dem Kanton Nidwalden das zeitlich unbegrenzte und ausschliessliche Recht ein, die Wasserkräfte der in Absatz 2 genannten Gewässer, soweit sie unter seiner Hoheit stehen, auf der Gefällstufe Obermatt-Dallenwil zum Zwecke der Gewinnung elektrischer Energie in einem Kraftwerk Dallenwil auszunutzen.
 
 <sup>2</sup> Gegenstand des Wassernutzungsrechts sind die Gewässer der Engelberger-Aa für die Gefällstufe projektiertes Ausgleichsbecken für das Kraftwerk Dallenwil bei Obermatt bis zum Ende des Hoheitsgebietes des Kantons Obwalden, sowie des Chaltibaches, des Eugenibaches und des Luterseebaches von der Wasserfassung bis zur Vereinigung mit dem Wasser der Engelberger-Aa, des Gerbi- und Trüeblenbaches von der Wasserfassung bis zu ihrer Vereinigung und von da bis zur Vereinigung mit dem Wasser der Engelberger-Aa. Im einzelnen ergeben sich die Gewässerstrecken, Gefällstufen, Wassermengen, Ausbaugrössen und Bruttoleistungen aus der Tabelle, die als Anhang 1 diesem Vertrag als integrierender Bestandteil beigefügt ist.
 
-<sup>3</sup> Mit dem Recht zur Wasserkraftnutzung der angeführten Gewässer ist der Kanton Nidwalden befugt zur Erstellung und zum Unterhalt aller dafür erforderlichen technischen Anlagen, insbesondere zu Wasserfassungen an der Engelberger-Aa ca. 250 m unterhalb der Arnibrücke und an den Seitenbächen, zur Erstellung eines Ausgleichsbeckens von 100'000 m³ Inhalt unterhalb der Zentrale Obermatt mit Stauziel auf Kote ca. 659 m ü M., sowie des Druckstollens und der Druckleitung auf der westlichen Talseite nach Dallenwil. Der Kanton Nidwalden kann die Erhöhung der Ausbauwassermengen und der Wasserfassungskoten der Seitenbäche nach vorheriger Verständigung zwischen den Regierungen der beiden Kantone vornehmen.
+<sup>3</sup> Mit dem Recht zur Wasserkraftnutzung der angeführten Gewässer ist der Kanton Nidwalden befugt zur Erstellung und zum Unterhalt aller dafür erforderlichen technischen Anlagen, insbesondere zu Wasserfassungen an der Engelberger-Aa ca. 250 m unterhalb der Arnibrücke und an den Seitenbächen, zur Erstellung eines Ausgleichsbeckens von 100 000 m<sup>3</sup> Inhalt unterhalb der Zentrale Obermatt mit Stauziel auf Kote ca. 659 m ü. M., sowie des Druckstollens und der Druckleitung auf der westlichen Talseite nach Dallenwil. Der Kanton Nidwalden kann die Erhöhung der Ausbauwassermengen und der Wasserfassungskoten der Seitenbäche nach vorheriger Verständigung zwischen den Regierungen der beiden Kantone vornehmen.
 
 #### Art. 2
 
-**Wasserrechtsverleihung an die Kraftwerke Engelberger-Aa AG**
+**Wasserrechtsverleihung an die Kraftwerke Engelber-**
+
+ger-Aa AG
 
 <sup>1</sup> Der Kanton Nidwalden ist ermächtigt, die ihm gemäss Art. 1 eingeräumten Rechte (Wassernutzungsrechte und damit verbundene Rechte zur Erstellung und zum Unterhalt der erforderlichen technischen Anlagen) der Kraftwerke Engelberger-Aa AG zur Ausübung bis zum 31. Dezember 2041 zu überlassen.
 
@@ -47,11 +54,13 @@ vereinbart:
 
 <sup>3</sup> Die vom Kanton Nidwalden der Kraftwerke Engelberger-Aa AG zu erteilende Wasserrechtsverleihung hat sich an die Bestimmungen dieses Vertrages zu halten. Die beiden Kantone verständigen sich über deren Inhalt, und sie darf vom Kanton Nidwalden erst erteilt werden, nachdem der Regierungsrat von Obwalden dazu seine Zustimmung schriftlich erklärt hat.
 
-<sup>4</sup> Der Kanton Nidwalden erhebt für diese Wasserrechtsverleihung von der Kraftwerke Engelberger-Aa AG eine Verleihgebühr von Fr. 300'000.–von der Fr. 200'000.– dem Kanton Nidwalden und Fr. 100'000.– dem Kanton Obwalden zufallen. Der Kanton Nidwalden erhebt ferner von der Kraftwerke Engelberger-Aa AG Verleihungskosten im Betrage von Fr. 20'000.–, die ihm zufallen.
+<sup>4</sup> Der Kanton Nidwalden erhebt für diese Wasserrechtsverleihung von der Kraftwerke Engelberger-Aa AG eine Verleihgebühr von Fr. 300 000.-von der Fr. 200 000.- dem Kanton Nidwalden und Fr. 100 000.- dem Kanton Obwalden zufallen. Der Kanton Nidwalden erhebt ferner von der Kraftwerke Engelberger-Aa AG Verleihungskosten im Betrage von Fr. 20 000.-, die ihm zufallen.
 
 #### Art. 3
 
-**Bau- und Betriebsvorschriften für das Kraftwerk Dallenwil**
+**Bau- und Betriebsvorschriften für das Kraftwerk Dal-**
+
+lenwil
 
 <sup>1</sup> In der Wasserrechtsverleihung für das Kraftwerk Dallenwil sind die erforderlichen Bau- und Betriebsvorschriften aufzunehmen, namentlich über das Bauprojekt, die Fristen für den Baubeginn und die Betriebseröffnung, den Ersatz für die Inanspruchnahme von Strassen und Brücken, die Ablagerung von Aushubmaterial, die Wasserpolizei, den Naturschutz und den Schutz der Fischerei, die Bauaufsicht, die Änderung und den Unterhalt der Werkanlagen, die Haftung für deren Bau und Betrieb sowie die Wassermessungen und das Zutrittsrecht der staatlichen Organe.
 
@@ -74,6 +83,7 @@ vereinbart:
 <sup>2</sup> Die beliehene Gesellschaft ist in der Wasserrechtsverleihung ferner zu verpflichten, den Wasserzins zu verändertem Ansatz zu bezahlen,
 
 - 1\. wenn sich aus den Wassermessungen der ersten 10 Betriebsjahre ein anderer Wasserzinssatz ergibt, vom 11. Betriebsjahr an, oder, wenn später eine Neufestsetzung der nutzbaren Wassermengen erfolgt, vom nächstfolgenden Betriebsjahr an;
+
 - 2\. wenn der nach Bundesrecht zulässige maximale Wasserzins erhöht und entsprechend der Wasserzinsansatz vom Regierungsrat Nidwalden, nach vorheriger Verständigung mit dem Regierungsrat von Obwalden, heraufgesetzt wird, vom Inkrafttreten dieser Verfügung an.
 
 <sup>3</sup> Der Kanton Nidwalden erhebt den gesamten Wasserzins von der beliehenen Gesellschaft und überweist dem Kanton Obwalden den auf ihn entfallenen Anteil, der sich nach den Brutto-PS bestimmt, die aus den unter seiner Hoheit stehenden Gewässerstrecken gewonnen werden.
@@ -100,17 +110,19 @@ vereinbart:
 
 <sup>2</sup> Der Kanton Nidwalden ist ermächtigt, die ihm gemäss Absatz 1 eingeräumten Rechte (Wassernutzungsrecht und damit verbundene Rechte zur Erstellung und zum Unterhalt der technischen Anlagen) der Kraftwerke Engelberger-Aa AG zur Ausübung bis zum 31. Dezember 2041 zu überlassen. Aufgrund dieser Ermächtigung erteilt der Kanton Nidwalden der genannten Gesellschaft eine auf höchstens 80 Jahre, das heisst bis 31. Dezember 2041 begrenzte Wasserrechtsverleihung zur Ausnutzung der in Absatz 1 aufgeführten, unter der Hoheit beider Kantone stehenden, sowie der nur unter seiner Hoheit stehenden Gewässerstrecken und zur Erstellung der erforderlichen Anlagen.
 
-<sup>3</sup> Der Kanton Nidwalden erhebt von der Kraftwerke Engelberger-Aa AG eine Verleihgebühr von Fr. 66'000.–, von der Fr. 60'000.– dem Kanton Nidwalden und Fr. 6'000.– dem Kanton Obwalden zufallen. Er erhebt ferner Verleihungskosten im Betrag von Fr. 10'000.–, die ihm zufallen.
+<sup>3</sup> Der Kanton Nidwalden erhebt von der Kraftwerke Engelberger-Aa AG eine Verleihgebühr von Fr. 66 000.-, von der Fr. 60 000.- dem Kanton Nidwalden und Fr. 6000.- dem Kanton Obwalden zufallen. Er erhebt ferner Verleihungskosten im Betrag von Fr. 10 000.-, die ihm zufallen.
 
 <sup>4</sup> Die Kraftwerke Engelberger-Aa AG ist in der Wasserrechtsverleihung zu verpflichten, von der Betriebseröffnung des Kraftwerkes Trübsee an für die gesamten ausgenutzten Wasserkräfte einen jährlichen Wasserzins von Fr. 8.80 für die Bruttopferdekraft an den Kanton Nidwalden zu entrichten.
 
-<sup>5</sup> Im übrigen sind die Art. 2 Absatz 3 sowie Art. 3–5 auf die Ausnutzung des Trübsees und des Trübenbaches sinngemäss anwendbar.
+<sup>5</sup> Im übrigen sind die Art. 2 Absatz 3 sowie Art. 3-5 auf die Ausnutzung des Trübsees und des Trübenbaches sinngemäss anwendbar.
 
-## 2 Einräumung von Wassernutzungsrechten von Nidwalden an Obwalden
+### II. EINRÄUMUNG VON WASSERNUTZUNGSRECHTEN VON NIDWALDEN AN OBWALDEN
 
 #### Art. 7
 
-**Wassernutzungsrecht an der Engelberger-Aa von Engelberg bis Obermatt sowie dem Arni- und Trübenbach**
+**Wassernutzungsrecht an der Engelberger-Aa von En-**
+
+gelberg bis Obermatt sowie dem Arni- und Trübenbach
 
 <sup>1</sup> Der Kanton Nidwalden räumt dem Kanton Obwalden das zeitlich unbegrenzte und ausschliessliche Recht ein, die Wasserkräfte der in Absatz 2 genannten Gewässer, soweit sie unter seiner Hoheit stehen, auf der Gefällstufe Engelberg-Obermatt zum Zwecke der Gewinnung elektrischer Energie in einem ausgebauten Kraftwerk Obermatt auszunutzen.
 
@@ -120,23 +132,27 @@ vereinbart:
 
 #### Art. 8
 
-**Wasserrechtsverleihung an die Elektrizitätswerk Luzern-Engelberg AG**
+**Wasserrechtsverleihung an die Elektrizitätswerk Lu-**
+
+zern-Engelberg AG
 
 <sup>1</sup> Der Kanton Obwalden ist ermächtigt, die ihm gemäss Art. 7 eingeräumten Rechte (Wassernutzungsrechte und damit verbundene Rechte zur Erstellung und zum Unterhalt der erforderlichen technischen Anlagen) der Elektrizitätswerk Luzern-Engelberg AG zur Ausübung bis zum 31. Dezember 2041 zu überlassen.
 
-<sup>2</sup> Aufgrund der ihm gemäss Absatz 1 zustehenden Ermächtigung und seiner eigenen Gewässerhoheit erteilt der Kanton Obwalden der Elektrizitätswerk Luzern-Engelberg AG, unter Aufhebung der bisherigen Konzessionen vom 19. Juni 1901 mit ihren Abänderungen vom 31. Mai / 2. Juni 1905, 8. Juni 1914, abgeändert durch Vereinbarung vom 17. / 24. Oktober 1944, betreffend die Engelberger-Aa, sowie der vorläufigen Konzession vom 3. November 1949 / 12. Januar 1950 betreffend den Arni- und Trübenbach, eine neue, auf 80 Jahre, d.h. bis zum 31. Dezember 2041 begrenzte Wasserrechtsverleihung zur Ausnutzung der in Art. 7 Absatz 1 und 2 genannten, unter der Hoheit der beiden Kantone stehenden und der nur unter seiner Hoheit stehenden Gewässerstrecken sowie der zum Vollausbau des bisherigen Kraftwerkes Obermatt erforderlichen Anlagen.
+<sup>2</sup> Aufgrund der ihm gemäss Absatz 1 zustehenden Ermächtigung und seiner eigenen Gewässerhoheit erteilt der Kanton Obwalden der Elektrizitätswerk Luzern-Engelberg AG, unter Aufhebung der bisherigen Konzessionen vom 19. Juni 1901 mit ihren Abänderungen vom 31. Mai / 2. Juni 1905, 8. Juni 1914, abgeändert durch Vereinbarung vom 17./24. Oktober 1944, betreffend die Engelberger-Aa, sowie der vorläufigen Konzession vom 3. November 1949 / 12. Januar 1950 betreffend den Arni- und Trübenbach, eine neue, auf 80 Jahre, d.h. bis zum 31. Dezember 2041 begrenzte Wasserrechtsverleihung zur Ausnutzung der in Art. 7 Absatz 1 und 2 genannten, unter der Hoheit der beiden Kantone stehenden und der nur unter seiner Hoheit stehenden Gewässerstrecken sowie der zum Vollausbau des bisherigen Kraftwerkes Obermatt erforderlichen Anlagen.
 
 <sup>3</sup> Die vom Kanton Obwalden der Elektrizitätswerk Luzern-Engelberg AG zu erteilende Wasserrechtsverleihung hat sich an die Bestimmungen dieses Vertrages zu halten. Die beiden Kantone verständigen sich über deren Inhalt, und sie darf vom Kanton Obwalden erst erteilt werden, nachdem der Regierungsrat von Nidwalden dazu seine Zustimmung schriftlich erklärt hat.
 
 <sup>4</sup> Der Kanton Obwalden kann in der Wasserrechtsverleihung Bestimmungen über die Beteiligung des Kantons an der beliehenen Gesellschaft sowie über die Deckung des gesamten Energie- und Leistungsbedarfes der Gemeinde Engelberg und darüber hinaus des bisher vom Elektrizitätswerk Engelberg belieferten Gebietes aufstellen. Diese Bestimmungen über die Deckung des Engergie- und Leistungsbedarfs bedürfen insoweit der Zustimmung des Regierungsrates von Nidwalden, als die Belieferung von Abnehmern auf dem Hoheitsgebiet von Nidwalden in Frage kommt.
 
-<sup>5</sup> Der Kanton Obwalden erhebt für diese neue Wasserrechtsverleihung von der Elektrizitätswerk Luzern-Engelberg AG eine Verleihgebühr von Fr. 275'000.–, von der Fr. 200'000.– dem Kanton Obwalden und Fr. 75'000.– dem Kanton Nidwalden zufallen. Der Kanton Obwalden erhebt ferner von der Elektrizitätswerk Luzern-Engelberg AG Verleihungskosten im Betrag von Fr. 30'000.–, die ihm zufallen.
+<sup>5</sup> Der Kanton Obwalden erhebt für diese neue Wasserrechtsverleihung von der Elektrizitätswerk Luzern-Engelberg AG eine Verleihgebühr von Fr. 275 000.-, von der Fr. 200 000.- dem Kanton Obwalden und Fr. 75 000.- dem Kanton Nidwalden zufallen. Der Kanton Obwalden erhebt ferner von der Elektrizitätswerk Luzern-Engelberg AG Verleihungskosten im Betrag von Fr. 30 000.-, die ihm zufallen.
 
 <sup>6</sup> Auf den Zeitpunkt des Inkrafttretens der neuen Wasserrechtsverleihung des Kantons Obwalden hebt der Regierungsrat des Kantons Nidwalden die Aa-Konzession vom 1. September 1945, abgeändert durch Entscheid des Bundesrates vom 29. Oktober 1946, und die vorläufige Konzession für den Arni- und Trübenbach vom 3. November 1949 / 12. Januar 1950 auf.
 
 #### Art. 9
 
-**Bau- und Betriebsvorschriften für das ausgebaute Kraftwerk Obermatt**
+**Bau- und Betriebsvorschriften für das ausgebaute**
+
+### Kraftwerk Obermatt
 
 <sup>1</sup> In die neue Wasserrechtsverleihung für das ausgebaute Kraftwerk Obermatt sind die erforderlichen Bau- und Betriebsvorschriften aufzunehmen, namentlich über das Bauprojekt, die Fristen für den Baubeginn und die Betriebseröffnung, den Ersatz für die Inanspruchnahme der Strassen und Brücken, die Ablagerung von Aushubmaterial, die Wasserpolizei, den Naturschutz und den Schutz der Fischerei, die Bauaufsicht, die Änderung und den Unterhalt der Werkanlagen, die Haftung für deren Bau und Betrieb sowie die Wassermessungen und das Zutrittsrecht der staatlichen Organe.
 
@@ -161,6 +177,7 @@ vereinbart:
 <sup>3</sup> Die beliehene Gesellschaft ist in der Wasserrechtsverleihung ferner zu verpflichten, den Wasserzins zu verändertem Ansatz zu bezahlen,
 
 - 1\. wenn sich aus den Wassermessungen der ersten 10 Jahre ein anderer Wasserzinssatz ergibt, vom 11. Betriebsjahr an, oder, wenn später eine Neufestsetzung der nutzbaren Wassermengen erfolgt, vom nächstfolgenden Betriebsjahr an;
+
 - 2\. wenn der nach Bundesrecht zulässige Maximalwasserzins erhöht und entsprechend der Wasserzinsansatz vom Regierungsrat Obwalden, nach vorheriger Verständigung mit dem Regierungsrat von Nidwalden, heraufgesetzt wird, vom Inkrafttreten dieser Verfügung an.
 
 <sup>4</sup> Der Kanton Obwalden erhebt den gesamten Wasserzins von der beliehenen Gesellschaft und überweist dem Kanton Nidwalden den auf ihn entfallenden Anteil, der sich nach den Brutto-PS bestimmt, die aus den unter seiner Hoheit stehenden Gewässerstrecken gewonnen werden.
@@ -179,7 +196,7 @@ vereinbart:
 
 <sup>5</sup> Nach dem Rückkauf oder Heimfall des Kraftwerkes Obermatt an den Kanton Obwalden ist dieser gegenüber dem Kanton Nidwalden zur Einhaltung der Bau- und Betriebsvorschriften, wie sie in der Wasserrechtsverleihung an die Elektrizitätswerk Luzern-Engelberg AG enthalten waren, sowie zur Leistung des Wasserzinses für die Brutto-PS verpflichtet, die aus den unter der Hoheit des Kantons Nidwalden stehenden Gewässerstrecken gewonnen werden. Die Bestimmungen der Art. 9 und 10 sind sinngemäss anwendbar.
 
-## 3 Gemeinsame Bestimmungen
+### III. GEMEINSAME BESTIMMUNGEN
 
 #### Art. 12
 
@@ -187,7 +204,7 @@ vereinbart:
 
 <sup>1</sup> Auf die Einräumung der Wassernutzungsrechte, welche die beiden Kantone gemäss Art. 1, 6 und 7 gegenseitig vornehmen, sind, soweit dieser Vertrag nichts anderes bestimmt, die Bestimmungen des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte vom 22. Dezember 1916[^12-1], abgeändert durch Bundesgesetz vom 20. Juni 1952[^12-2], anwendbar. Zwingende Bestimmungen der künftigen eidgenössischen Gesetzgebung über die Nutzbarmachung der Wasserkräfte bleiben vorbehalten.
 
-<sup>2</sup> Auf das zwischen dem Kanton Nidwalden und der Kraftwerke Engelberger-Aa AG durch die in Art. 2–6 vorgesehene Wasserrechtsverleihung entstehende Rechtsverhältnis ist die Gesetzgebung des Kantons Nidwalden über die Nutzbarbachung der Wasserkräfte anwendbar. Auf das zwischen dem Kanton Obwalden und der Elektrizitätswerk Luzern-Engelberg AG durch die in Art. 8–11 vorgesehene Wasserrechtsverleihung begründete Rechtsverhältnis findet die Gesetzgebung des Kantons Obwalden über die Nutzbarmachung der Wasserkräfte Anwendung.
+<sup>2</sup> Auf das zwischen dem Kanton Nidwalden und der Kraftwerke Engelberger-Aa AG durch die in Art. 2-6 vorgesehene Wasserrechtsverleihung entstehende Rechtsverhältnis ist die Gesetzgebung des Kantons Nidwalden über die Nutzbarbachung der Wasserkräfte anwendbar. Auf das zwischen dem Kanton Obwalden und der Elektrizitätswerk Luzern-Engelberg AG durch die in Art. 8-11 vorgesehene Wasserrechtsverleihung begründete Rechtsverhältnis findet die Gesetzgebung des Kantons Obwalden über die Nutzbarmachung der Wasserkräfte Anwendung.
 
 <sup>3</sup> Die Gesetzgebung der Kantone Obwalden und Nidwalden über die Nutzbarmachung der Wasserkräfte ist auf das durch diesen Vertrag zwischen den beiden Kantonen begründete Rechtsverhältnis nicht anwendbar.
 
@@ -208,7 +225,9 @@ vereinbart:
 
 **Anpassung oder Auflösung des Vertrages**
 
-<sup>1</sup> Verändern sich während der Dauer des Vertrages die Umstände so wesentlich, dass dessen vollständige Durchführung nicht mehr möglich ist oder ausserordentlich erschwert wird, so hat jeder Kanton das Recht, die Anpassung des Vertrages an die veränderten Verhältnisse zu verlangen. Können sich die beiden Kantone über eine solche Anpassung nicht verständigen, so entscheidet darüber die Schiedskommission; Art. 13 Absätze 2 und 3 sind anwendbar.
+<sup>1</sup> Verändern sich während der Dauer des Vertrages die Umstände so wesentlich, dass dessen vollständige Durchführung nicht mehr möglich ist oder ausserordentlich erschwert wird, so hat jeder Kanton das Recht, die Anpassung des Vertrages an die veränderten Verhältnisse zu verlangen. Können sich die beiden Kantone über eine solche Anpassung nicht verständigen, so entscheidet darüber die Schiedskommission; Art.
+
+13 Absätze 2 und 3 sind anwendbar.
 
 <sup>2</sup> Verändern sich während der Dauer des Vertrages die Umstände in einem solchen Masse, dass einem Kanton die Fortsetzung des Vertragsverhältnisses nach Treu und Glauben nicht mehr zugemutet werden kann, so hat er das Recht, die Auflösung des Vertrages zu verlangen. Stimmt der andere Kanton der Auflösung nicht zu, so entscheidet darüber gemäss Art. 15 das Bundesgericht. Die Auflösung wird erst wirksam mit dem rechtskräftigen Urteil.
 
@@ -216,23 +235,50 @@ vereinbart:
 
 **Rechtsstreitigkeiten**
 
-<sup>1</sup> Sollten aus diesem Vertrag Rechtsstreitigkeiten zwischen den beiden Kantonen entstehen, so sind diese vom Bundesgericht als einzige Instanz nach Massgabe der bundesrechtlichen Vorschriften über die Beurteilung staatsrechtlicher Streitigkeiten zwischen Kantonen (Art. 83 lit. b des Bundesgesetzes über die Organisation der Bundesrechtspflege vom 6. Dezember 1943[^15-1]) zu entscheiden.
+Sollten aus diesem Vertrag Rechtsstreitigkeiten zwischen den beiden Kantonen entstehen, so sind diese vom Bundesgericht als einzige Instanz nach Massgabe der bundesrechtlichen Vorschriften über die Beurteilung staatsrechtlicher Streitigkeiten zwischen Kantonen (Art. 83 lit. b des Bundesgesetzes über die Organisation der Bundesrechtspflege vom 6. Dezember 1943[^15-1] zu entscheiden.
 
 [^15-1]: SR 173.110
 
 #### Art. 16
 
-**Ausfertigung, Inkrafttreten und Genehmigung des Vertrages**
+**Ausfertigung, Inkrafttreten und Genehmigung des Ver-**
+
+trages
 
 <sup>1</sup> Dieser Vertrag wird doppelt ausgefertigt und in je einem Exemplar den Regierungen von Obwalden und Nidwalden ausgehändigt.
 
-<sup>2</sup> Der Vertrag wird innert zwei Monaten vom Regierungsrat Obwalden dem Kantonsrat und vom Regierungsrat Nidwalden dem Landrat zur Beschlussfassung vorgelegt[^16-1] und tritt mit dem Austausch der Mitteilungen über die von ihnen gefassten zustimmenden Beschlüsse in Kraft.[^16-2]
+<sup>2</sup> Der Vertrag wird innert zwei Monaten vom Regierungsrat Obwalden dem Kantonsrat und vom Regierungsrat Nidwalden dem Landrat zur Beschlussfassung vorgelegt und tritt mit dem Austausch der Mitteilungen über die von ihnen gefassten zustimmenden Beschlüsse in Kraft.[^16-1]
 
 <sup>3</sup> Stimmt der Kantonsrat von Obwalden oder der Landrat von Nidwalden innert sechs Monaten nach Abschluss dieses Vertrages demselben nicht zu, so verliert er seine Gültigkeit.
 
 <sup>4</sup> Aufgrund der zustimmenden Beschlüsse des Kantonsrates von Obwalden und des Landrates von Nidwalden unterbreiten die Regierungen der beiden Kantone den Vertrag gemeinsam dem Bundesrat zur Einsicht und Genehmigung.
 
-[^16-1]: Vom Landrat genehmigt am 30. Mai 1959, vom Regierungsrat unterzeichnet am 27. April 1959
-[^16-2]: In Kraft seit 27. April 1959
+[^16-1]: In Kraft seit 27. April 1959
 
-A 1959, 470
+## 632.11/.13
+
+### 632.11 \* Tabelle der Gewässerstrecken, Gefällstufen, Wassermengen, Ausbaugrössen und Brutto-
+
+leistungen für das Kraftwerk Dallenwil vor dem
+
+### Bau des Kraftwerkes Trübsee (Anhang 1)
+
+vom 22./27. April 1959
+
+### 632.12 \* Tabelle der Gewässerstrecken, Gefällstufen, Wassermengen, Ausbaugrössen und Brutto-
+
+leistungen für das Kraftwerk Trübsee (Anhang 2)
+
+vom 22./27. April 1959
+
+### 632.13 \* Tabelle der Gewässerstrecken, Gefällstufen, Wassermengen, Ausbaugrössen und Brutto-
+
+leistungen für das Kraftwerk Obermatt vor dem
+
+### Bau des Kraftwerkes Trübsee (Anhang 3)
+
+vom 22./27. April 1959
+
+**1**
+
+Stand: 1. Januar 2018
