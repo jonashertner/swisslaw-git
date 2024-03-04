@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.13"
-title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2023/24
+title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2024/25
 language: de
-version: 2023-03-07
-valid_until: 2024-03-04
-version_adopted: 2023-03-07
+version: 2024-03-05
+valid_until: 2025-03-31
+version_adopted: 2024-03-05
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7750/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2023/24
+# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2024/25
 
 Universität, Bachelor of Medicine (BMed) – V
 
-vom 07.03.2023 (Fassung in Kraft getreten am 07.03.2023)
+vom 05.03.2024 (Fassung in Kraft getreten am 05.03.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -26,13 +26,11 @@ gestützt auf das Gesetz vom 19. November 1997 über die Universität (UniG);
 
 in Erwägung:
 
-Am 23. Februar 2023 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Human- und Zahnmedizin durchzuführen.
+Am 22. Februar 2024 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Humanmedizin, Zahnmedizin, Veterinärmedizin und Chiropraktik durchzuführen.
 
-Die Ablegung des Eignungstests in Freiburg erlaubt den Freiburger Studienanwärterinnen und -anwärtern, ihr Studium gegebenenfalls an der Universität eines anderen Kantons aufnehmen zu können. Tatsächlich absolviert ein Grossteil der Freiburger Medizinstudierenden das Studium an einer Deutschschweizer Universität, die den Eignungstest ebenfalls durchführt.
+Die Durchführung des Eignungstests in Freiburg gewährleistet den Studierenden, dass sie ihr Studium an einer anderen Universität fortsetzen können, weil bekannterweise ein Grossteil der Studierenden das Studium an einer der deutschsprachigen Universitäten fortsetzt, die den Eignungstest eingeführt haben.
 
-Aufgrund des Entscheids vom 25. November 2021 des Hochschulrats, ab 2023 die Kostenbeteiligung der Studienanwärterinnen und -anwärter für den Eignungstest von 200 auf 300 Franken zu erhöhen, wurde Artikel 6 Abs. 1 dieser Verordnung für das akademische Jahr 2023/24 entsprechend angepasst.
-
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 30. Januar 2023 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 5. Februar 2024 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
 
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
@@ -42,13 +40,13 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> In dieser Verordnung werden die Zulassungsbeschränkungen zum Bachelor of Medicine (BMed) mit dem Verfahren eines Eignungstests geregelt.
+<sup>1</sup> In dieser Verordnung werden die Zulassungsbeschränkungen zum *Bachelor of Medicine* (BMed) mit dem Verfahren eines Eignungstests geregelt.
 
 #### Art. 2
 
 **Aufnahmekapazität**
 
-<sup>1</sup> Für das akademische Jahr 2023/24 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
+<sup>1</sup> Für das akademische Jahr 2024/25 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
 
 #### Art. 3
 
@@ -74,13 +72,13 @@ beschliesst:
 
 <sup>1</sup> Studienanwärterinnen und ‑anwärter müssen sich mit 300 Franken an den Kosten der Durchführung des Eignungstests beteiligen.
 
-<sup>2</sup> Wer diesen Betrag nicht bis spätestens 23. Mai 2023 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt dann als zurückgezogen.
+<sup>2</sup> Wer diesen Betrag nicht bis spätestens 21. Mai 2024 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt als zurückgezogen.
 
 #### Art. 7
 
 **Datum des Eignungstests**
 
-<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2023/24 am 7. Juli 2023 durchgeführt.
+<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2024/25 am 5. Juli 2024 durchgeführt.
 
 #### Art. 8
 
@@ -88,7 +86,7 @@ beschliesst:
 
 <sup>1</sup> Wer den ordnungsgemässen Testverlauf stört, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Als Testergebnis zählt das bis zum Ausschluss erzielte Resultat.
 
-<sup>2</sup> Wer das Testergebnis durch Unredlichkeit zu beeinflussen versucht, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind insbesondere das Verwenden unerlaubter Hilfsmittel und das Bearbeiten eines Testabschnittes ausserhalb der dafür zugestandenen Zeit.
+<sup>2</sup> Wer das Testergebnis durch Unredlichkeit zu beeinflussen versucht, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind insbesondere das Verwenden unerlaubter Hilfsmittel und das Bearbeiten eines Testabschnitts ausserhalb der dafür zugestandenen Zeit.
 
 <sup>3</sup> Wird eine Studienanwärterin oder ein Studienanwärter wegen Unredlichkeit von der weiteren Teilnahme am Test ausgeschlossen oder werden Unredlichkeiten nach Abschluss des Tests festgestellt, so gilt ein Testergebnis von null Punkten.
 
@@ -102,7 +100,7 @@ beschliesst:
 
 <sup>2</sup> swissuniversities verteilt die Studienanwärterinnen und ‑anwärter mit einem ausreichenden Testergebnis auf die Universitäten, die am Verfahren des Eignungstests beteiligt sind. Die Aufnahmekapazitäten werden bei der Verteilung berücksichtigt.
 
-<sup>3</sup> Bei der Zuteilung der Studienorte entspricht swissuniversities nach Möglichkeit den Wünschen der Studienanwärterinnen und ‑anwärter. swissuniversities berücksichtigt dabei den Wohnsitz, das Testergebnis und in Ausnahmefällen die persönlichen Verhältnisse der Studienanwärterinnen und ‑anwärter.
+<sup>3</sup> Bei der Zuteilung der Studienorte entspricht swissuniversities nach Möglichkeit den Wünschen der Studienanwärterinnen und ‑anwärter. swissuniversities berücksichtigt dabei den Wohnsitz, das Testergebnis sowie in Ausnahmefällen die persönlichen Verhältnisse der Studienanwärterinnen und ‑anwärter.
 
 <sup>4</sup> Die Zulassungsbedingungen der Universität Freiburg bleiben vorbehalten.
 
@@ -140,7 +138,7 @@ beschliesst:
 
 <sup>2</sup> Studierende, die von Zahnmedizin zu Humanmedizin wechseln möchten, können ab dem zweiten Studienjahr zugelassen werden, wenn ihr Testergebnis zum Zeitpunkt des Ablegens des Tests zur Zulassung in Humanmedizin berechtigt hätte. Zusätzlich müssen sie die übrigen Zulassungsvoraussetzungen erfüllen, und es müssen freie Studienplätze vorhanden sein.
 
-<sup>3</sup> Studierende, die nach einem erfolgreich abgeschlossenen Masterstudium in Human-, Zahn-, Veterinärmedizin oder Chiropraktik (MMed) ein Studium in Humanmedizin absolvieren möchten, können zugelassen werden, sofern sie die übrigen Zulassungsbedingungen erfüllen und freie Studienplätze vorhanden sind.
+<sup>3</sup> Studierende, die nach einem erfolgreich abgeschlossenen Masterstudium in Zahn-, Veterinärmedizin oder Chiropraktik (MMed) ein Studium in Humanmedizin absolvieren möchten, können zugelassen werden, sofern sie die übrigen Zulassungsbedingungen erfüllen und freie Studienplätze vorhanden sind.
 
 <sup>4</sup> Studierende der Humanmedizin von anderen Universitäten, die ohne Absolvierung des Eignungstests zum Studium zugelassen wurden, und Studierende anderer Studienrichtungen können zum Studium der Humanmedizin zugelassen werden, sofern sie das Verfahren gemäss den Artikeln 4 und 5 dieser Verordnung durchlaufen haben, die übrigen Zulassungsbedingungen erfüllen und freie Studienplätze vorhanden sind.
 
@@ -158,4 +156,4 @@ beschliesst:
 
 <sup>2</sup> Gegen Entscheide des Rektorats kann bei der Rekurskommission der Universität Freiburg Beschwerde erhoben werden.
 
-2023\_031
+2024\_022
