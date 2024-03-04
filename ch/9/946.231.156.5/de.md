@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Verordnung vom 28. Juni 2023 über Massnahmen betreffend Moldau
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: de
-version: 2023-06-28
+version: 2024-03-05
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20230628/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20230628-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20230628/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20240305/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20240305-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20240305/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Moldau
 
-vom 28. Juni 2023 (Stand am 28. Juni 2023)
+vom 28. Juni 2023 (Stand am 5. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -136,7 +136,7 @@ Die Einträge nach dem Anhang werden weder in der Amtlichen Sammlung des Bundesr
 
 Diese Verordnung tritt am 28. Juni 2023 um 18.00 Uhr in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2 Abs. 1 Bst. a, 3 Abs. 1, 4 Bst. a und 8)
 
@@ -144,4 +144,5 @@ Anhang
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/335](https://fedlex.data.admin.ch/eli/oc/2023/335) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. März 2024, in Kraft seit 5. März 2024 um 18.00 Uhr ([AS 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/97](https://fedlex.data.admin.ch/eli/oc/2024/97) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
