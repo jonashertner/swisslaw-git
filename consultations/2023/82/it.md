@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale concernente l’imposta immobiliare cantonale sulle abitazioni secondarie
 document: Progetto posto in consultazione
 language: it

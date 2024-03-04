@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral relatif à l’impôt immobilier cantonal sur les résidences secondaires
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über die kantonalen Liegenschaftssteuern auf Zweitliegenschaften
 document: Vernehmlassungsvorlage
 language: de
