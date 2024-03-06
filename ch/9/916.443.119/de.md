@@ -3,18 +3,20 @@ sr: "916.443.119"
 title: Verordnung des BLV vom 4. Oktober 2023 über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegen-pocken aus bestimmten Mitgliedstaaten der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/564"
 language: de
-version: 2023-10-06
+version: 2024-03-07
 adopted: 2023-10-04
 in_force: 2023-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/564/20231006/de/xml/fedlex-data-admin-ch-eli-cc-2023-564-20231006-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/564/20231006/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/564/20240307/de/xml/fedlex-data-admin-ch-eli-cc-2023-564-20240307-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/564/20240307/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus Bulgarien und aus Spanien
+# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus bestimmten Mitgliedstaaten der Europäischen Union
 
-vom 4. Oktober 2023 (Stand am 6. Oktober 2023)
+vom 4. Oktober 2023 (Stand am 7. März 2024)[^t-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -33,7 +35,7 @@ verordnet:
 
 <sup>2</sup>
 
-Sie regelt die Einfuhr der folgenden Tiere und Tierprodukte aus Bulgarien und aus Spanien:
+Sie regelt die Einfuhr der folgenden Tiere und Tierprodukte aus den betroffenen Mitgliedstaaten der Europäischen Union (EU):[^1-1]
 
 - a. von Schafen und Ziegen;
 - b.
@@ -45,9 +47,10 @@ Sie regelt die Einfuhr der folgenden Tiere und Tierprodukte aus Bulgarien und au
   - 3\. Fleischerzeugnisse und behandelte Mägen, Blasen und Därme für den menschlichen Verzehr,
   - 4\. Kolostrum, Milch und Milcherzeugnisse,
   - 5\. Erzeugnisse, die Produkte nach den Ziffern 2–4 enthalten,
-  - 6\. tierische Nebenprodukte nach Artikel 3 Buchstabe b der Verordnung vom 25. Mai 2011[^1-1] über tierische Nebenprodukte, einschliesslich Häute, Felle und Wolle.
+  - 6\. tierische Nebenprodukte nach Artikel 3 Buchstabe b der Verordnung vom 25. Mai 2011[^1-2] über tierische Nebenprodukte, einschliesslich Häute, Felle und Wolle.
 
-[^1-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^1-1]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
+[^1-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 2
 
@@ -72,9 +75,10 @@ Die Einfuhr von Sperma, Eizellen und Embryonen von Schafen und Ziegen aus den Sp
 Abweichend von Absatz 1 ist die Einfuhr von solchen Erzeugnissen erlaubt, wenn:
 
 - a. sie aus Schlachttierkörpern gewonnen wurden, von denen die Nebenprodukte der Schlachtung im Sinn von Artikel 2 Ziffer 8 der Delegierten Verordnung (EU) 2020/687[^4-1] entfernt worden sind; und
-- b. die zuständige Behörde in Bulgarien oder in Spanien das Verbringen aus den Sperrzonen genehmigt hat.
+- b.[^4-2] die zuständige Behörde des betroffenen Mitgliedstaates der EU das Verbringen aus den Sperrzonen genehmigt hat.
 
 [^4-1]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; zuletzt geändert durch Delegierte Verordnung (EU) 2023/751, ABl. L 100 vom 13.4.2023, S. 7.
+[^4-2]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 5
 
@@ -88,9 +92,10 @@ Abweichend von Absatz 1 ist die Einfuhr von Kolostrum, Milch und Milcherzeug-nis
 
 - a. sie nicht zur Verwendung als Tierfutter eingesetzt werden;
 - b. sie nach Anhang VII der Delegierten Verordnung (EU) 2020/687[^5-1] pasteurisiert worden sind; und
-- c. die zuständige Behörde in Bulgarien oder in Spanien das Verbringen aus den Sperrzonen genehmigt hat.
+- c.[^5-2] die zuständige Behörde des betroffenen Mitgliedstaates der EU das Verbringen aus den Sperrzonen genehmigt hat.
 
 [^5-1]: Siehe Fussnote zu Art. 4 Abs. 2 Bst. a.
+[^5-2]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 6
 
@@ -122,16 +127,19 @@ Die Einfuhr von verarbeiteten tierischen Nebenprodukten von Schafen und Ziegen a
   - 1\. Verordnung (EG) Nr. 1069/2009[^7-1],
   - 2\. Verordnung (EU) Nr. 142/2011[^7-2]; und
 
-- b. die zuständige Behörde in Bulgarien oder Spanien das Verbringen aus den Sperrzonen genehmigt hat.
+- b.[^7-3] die zuständige Behörde des betroffenen Mitgliedstaates der EU das Verbringen aus den Sperrzonen genehmigt hat.
 
 [^7-1]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte), ABl. L 300 vom 14.11.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1009, ABl. L 170 vom 25.6.2019, S. 1.
 [^7-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2022/488, ABl. L 100 vom 28.3.2022, S. 6.
+[^7-3]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 8
 
-**Gesundheitsbescheinigung**
+**Gesundheitsbescheinigung**[^8-1]
 
-Die Genehmigung zum Verbringen aus den Sperrzonen der zuständigen Behörde in Bulgarien oder in Spanien nach den Artikeln 4 Absatz 2 Buchstabe b, 5 Absatz 2 Buchstabe c und 7 Absatz 2 Buchstabe b gilt als erteilt, wenn eine Gesundheitsbescheinigung für die Sendung vorliegt.
+Die Genehmigung zum Verbringen aus den Sperrzonen der zuständigen Behörde des betroffenen Mitgliedstaates der EU nach den Artikeln 4 Absatz 2 Buchstabe b, 5 Absatz 2 Buchstabe c und 7 Absatz 2 Buchstabe b gilt als erteilt, wenn eine Gesundheitsbescheinigung für die Sendung vorliegt.
+
+[^8-1]: Fassung gemäss Ziff. I der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 9
 
@@ -139,26 +147,25 @@ Die Genehmigung zum Verbringen aus den Sperrzonen der zuständigen Behörde in B
 
 Diese Verordnung tritt am 6. Oktober 2023 in Kraft.
 
-Anhang
+Anhang[^t-2]
 
 (Art. 2, 3, 4 Abs. 1, 5 Abs. 1, 6 Abs. 1 und 7 Abs. 1 und 2)
 
-## Sperrzonen
+## Betroffene Gebiete und Sperrzonen
 
-### 1 Sperrzonen in Bulgarien
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 5. März 2024, in Kraft 7. März 2024 ([AS 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
-Die Sperrzonen in Bulgarien sind in folgendem Durchführungsbeschluss festgelegt:
+### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
 
-<table>
-<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2023/2067</td><td>Durchführungsbeschluss (EU) 2023/2067 der Kommission vom 26. September 2023 betreffend bestimmte vorläufige Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in Bulgarien, Fassung gemäss ABl. L 238 vom 27.9.2023, S. 143.</td></tr>
-</table>
-
-### 2 Sperrzonen in Spanien
-
-Die Sperrzonen in Spanien sind in folgendem Durchführungsbeschluss festgelegt:
+Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen sind in folgendem Durchführungsbeschluss festgelegt:
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2022/2333</td><td>Durchführungsbeschluss (EU) 2022/2333 der Kommission vom 23. November 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in Spanien und zur Aufhebung des Durchführungsbeschlusses (EU) 2022/1913, ABl. L 308 vom 29.11.2022, S. 22; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/1624, ABl. L 200 vom 10.8.2023, S. 36.</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2023/2725</td><td>Durchführungsbeschluss (EU) 2023/2725 der Kommission vom 29. November 2023 betreffend bestimmte Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in bestimmten Mitgliedstaaten und zur Aufhebung der Durchführungsbeschlüsse (EU) 2023/2067 und (EU) 2023/2470, ABl. L, 2023/2725, 4.12.2023; zuletzt geändert durch Durchführungsbeschluss (EU) 2024/400, ABl. L, 2024/400, 24.1.2024.</td></tr>
 </table>
+
+### 2 Betroffene Mitgliedstaaten der EU
+
+In folgendem Mitgliedstaat der EU bestehen Sperrzonen:
+
+Griechenland

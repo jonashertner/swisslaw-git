@@ -3,18 +3,20 @@ sr: "916.443.119"
 title: Ordinanza dell’USAV del 4 ottobre 2023 che istituisce provvedimenti per evitare l’introduzione del vaiolo degli ovini e dei caprini da taluni Stati membri dell’Unione europea
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/564"
 language: it
-version: 2023-10-06
+version: 2024-03-07
 adopted: 2023-10-04
 in_force: 2023-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/564/20231006/it/xml/fedlex-data-admin-ch-eli-cc-2023-564-20231006-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/564/20231006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/564/20240307/it/xml/fedlex-data-admin-ch-eli-cc-2023-564-20240307-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/564/20240307/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione del vaiolo degli ovini e dei caprini dalla Bulgaria e dalla Spagna
+# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione del vaiolo degli ovini e dei caprini da taluni Stati membri dell’Unione europea
 
-del 4 ottobre 2023 (Stato 6 ottobre 2023)
+del 4 ottobre 2023 (Stato 7 marzo 2024)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -33,7 +35,7 @@ ordina:
 
 <sup>2</sup>
 
-Disciplina le importazioni dalla Bulgaria e dalla Spagna dei seguenti animali e prodotti animali:
+Disciplina le importazioni dagli Stati membri dell’Unione europea (UE) interessati dei seguenti animali e prodotti animali:[^1-1]
 
 - a. di ovini e caprini;
 - b.
@@ -45,9 +47,10 @@ Disciplina le importazioni dalla Bulgaria e dalla Spagna dei seguenti animali e 
   - 3\. prodotti a base di carne, nonché stomaci, vesciche e intestini trattati destinati al consumo umano,
   - 4\. colostro, latte e prodotti a base di latte,
   - 5\. prodotti contenenti prodotti di cui ai numeri 2–4,
-  - 6\. sottoprodotti di origine animale secondo l’articolo 3 lettera b dell’ordinanza del 25 maggio 2011[^1-1] concernente i sottoprodotti di origine animale, compresi pelli, pelame e lana.
+  - 6\. sottoprodotti di origine animale secondo l’articolo 3 lettera b dell’ordinanza del 25 maggio 2011[^1-2] concernente i sottoprodotti di origine animale, compresi pelli, pelame e lana.
 
-[^1-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^1-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
+[^1-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 2
 
@@ -72,9 +75,10 @@ L’importazione di sperma, ovuli ed embrioni di ovini e caprini dalle zone sogg
 In deroga al capoverso 1, l’importazione di tali prodotti è consentita se:
 
 - a. sono stati ottenuti da carcasse da cui sono state rimosse le frattaglie ai sensi dell’articolo 2 numero 8 del regolamento delegato (UE) 2020/687[^4-1]; e
-- b. l’autorità competente in Bulgaria o in Spagna ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
+- b.[^4-2] l’autorità competente dello Stato membro dell’UE interessato ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
 
 [^4-1]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate, GU L 174 del 3.6.2020, pag. 64; modificato da ultimo dal regolamento delegato (UE) 2023/751, GU L 100 del 13.4.2023, pag. 7.
+[^4-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 5
 
@@ -88,9 +92,10 @@ In deroga al capoverso 1, l’importazione di colostro, latte e prodotti a base 
 
 - a. non sono utilizzati per l’alimentazione animale;
 - b. sono stati pastorizzati conformemente all’allegato VII del regolamento delegato (UE) 2020/687[^5-1]; e
-- c. l’autorità competente in Bulgaria o in Spagna ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
+- c.[^5-2] l’autorità competente dello Stato membro dell’UE interessato ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
 
 [^5-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 2 lett. a.
+[^5-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 6
 
@@ -122,16 +127,19 @@ L’importazione di sottoprodotti di origine animale non trasformati di ovini e 
   - 1\. regolamento (CE) n. 1069/2009[^7-1],
   - 2\. regolamento (UE) n. 142/2011[^7-2]; e
 
-- b. l’autorità competente in Bulgaria o in Spagna ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
+- b.[^7-3] l’autorità competente dello Stato membro dell’UE interessato ha autorizzato il movimento fuori dalle zone soggette a restrizioni.
 
 [^7-1]: Regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano e che abroga il regolamento (CE) n. 1774/2002 (regolamento sui sottoprodotti di origine animale), GU L 300 del 14.11.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1009, GU L 170 del 25.6.2019, pag. 1.
 [^7-2]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2022/488, GU L 100 del 28.3.2022, pag. 6.
+[^7-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 8
 
-**Certificato sanitario**
+**Certificato sanitario**[^8-1]
 
-L’autorizzazione al movimento fuori dalle zone soggette a restrizioni concessa dall’autorità competente in Bulgaria o in Spagna secondo gli articoli 4 capoverso 2 lettera b, 5 capoverso 2 lettera c e 7 capoverso 2 lettera b si considera valida se la partita è accompagnata da un certificato sanitario.
+L’autorizzazione al movimento fuori dalle zone soggette a restrizioni concessa dall’autorità competente dello Stato membro dell’UE interessato secondo gli articoli 4 capoverso 2 lettera b, 5 capoverso 2 lettera c e 7 capoverso 2 lettera b si considera valida se la partita è accompagnata da un certificato sanitario.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
 #### Art. 9
 
@@ -139,26 +147,25 @@ L’autorizzazione al movimento fuori dalle zone soggette a restrizioni concessa
 
 La presente ordinanza entra in vigore il 6 ottobre 2023.
 
-Allegato
+Allegato[^t-2]
 
 (art. 2, 3, 4 cpv. 1, 5 cpv. 1, 6 cpv. 1 e 7 cpv. 1 e 2)
 
-## Zone soggette a restrizioni
+## Territori interessati e zone soggette a restrizioni
 
-### 1 Zone soggette a restrizioni in Bulgaria
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 5 mar. 2024, in vigore dal 7 mar. 2024 ([RU 2024 98](https://fedlex.data.admin.ch/eli/oc/2024/98)).
 
-Le zone soggette a restrizioni in Bulgaria sono definite nella seguente decisione di esecuzione:
+### 1 Zone soggette a restrizioni negli Stati membri dell’UE interessati
 
-<table>
-<tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2023/2067</td><td>Decisione di esecuzione (UE) 2023/2067 della Commissione, del 26 settembre 2023, relativa ad alcune misure di emergenza provvisorie contro il vaiolo degli ovini e dei caprini in Bulgaria, versione della GU L 238 del 27.9.2023, pag. 143.</td></tr>
-</table>
-
-### 2 Zone soggette a restrizioni in Spagna
-
-Le zone soggette a restrizioni in Spagna sono definite nella seguente decisione di esecuzione:
+Gli Stati membri dell’UE interessati nonché le zone ivi soggette a restrizioni sono stabiliti nella decisione di esecuzione seguente:
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2022/2333</td><td>Decisione di esecuzione (UE) 2022/2333 della Commissione, del 23 novembre 2022, relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Spagna e che abroga la decisione di esecuzione (UE) 2022/1913, GU L 308 del 29.11.2022, pag. 22; modificata da ultimo della decisione di esecuzione (UE) 2023/1624, GU L 200 del 10.8.2023, pag. 36.</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2023/2725</td><td>Decisione di esecuzione (UE) 2023/2725 della Commissione, del 29 novembre 2023, relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in alcuni Stati membri e che abroga le decisioni di esecuzione (UE) 2023/2067 e (UE) 2023/2470, GU L, 2023/2725, 4.12.2023; modificata da ultimo dalla decisione di esecuzione (UE) 2024/400, GU L, 2024/400, 24.1.2024.</td></tr>
 </table>
+
+### 2 Stati membri dell’UE interessati
+
+Nel seguente Stato membro dell’UE vi sono zone soggette a restrizioni:
+
+Grecia
