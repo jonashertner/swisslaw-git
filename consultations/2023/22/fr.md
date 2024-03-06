@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les déductions admises fiscalement pour les cotisations versées à des formes reconnues de prévoyance (OPP 3) pour la mise en œuvre de la motion Ettlin 19.3702 «Autoriser les rachats dans le pilier 3a»
 document: Projet mis en consultation
 language: fr

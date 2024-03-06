@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Abzugsberechtigung für Beiträge an anerkannte Vorsorgeformen (BVV 3) zur Umsetzung der Motion 19.3702 von SR Ettlin «Einkauf in die Säule 3a ermöglichen»
 document: Vernehmlassungsvorlage
 language: de

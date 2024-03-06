@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla legittimazione alle deduzioni fiscali per i contributi a forme di previdenza riconosciute (OPP 3) per l’attuazione della mozione Ettlin 19.3702 «Consentire il riscatto di prestazioni del pilastro 3a»
 document: Progetto posto in consultazione
 language: it
