@@ -3,11 +3,11 @@ sr: "0.425.44"
 title: "Accord du 9 avril 2010 portant création du groupement d'intérêt économique EUMETNET (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/421"
 language: fr
-version: 2024-01-01
+version: 2024-03-08
 adopted: 2009-09-17
 in_force: 2010-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240308/fr/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240308-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240308/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,11 @@ RO **2013** 2009
 
 Texte original
 
-Conclu à Bruxelles le 17 septembre 2009
-
-Adhésion de la Suisse le 9 avril 2010
-
-Amendé par l’accord du 6 décembre 2023[^t-1]
+Conclu à Bruxelles le 17 septembre 2009 Adhésion de la Suisse le 9 avril 2010 Amendé par l’accord du 6 décembre 2023[^t-1]
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2024
 
-(État le 1<sup>er</sup> janvier 2024)
+(État le 8 mars 2024)
 
 [^t-1]: [RO 2024 108](https://fedlex.data.admin.ch/eli/oc/2024/108)
 
@@ -66,7 +62,7 @@ entre les Services Météorologiques ou Hydrométéorologiques Nationaux («SMN�
 - 30\. SMN de Suède, l’Institut Météorologique et Hydrologique (SMHI), une agence gouvernementale, créée par l’Ordonnance SFS 1918:903 du 29 octobre 1918, immatriculée à la TVA sous le numéro SE202100069601, ayant son siège social à SE-601 76 Norrköping, Suède;
 - 31\. SMN de Suisse, Office Fédéral de la Météorologie et de la Climatologie (MétéoSuisse) du Département Fédéral de l’Intérieur, immatriculé à la TVA sous le numéro CHE-116.066.488, ayant son siège social à Operation Center 1, P.O. Box 257, CH-8058 Zurich-Airport, Suisse;
 - 32\. SMN de la République de Macédoine du Nord, Service Hydrométéorologique (HMS), établi par 5732131/Gazette 58/2000 du 27 juillet 2000 et l’art. 21 du 7 janvier 1947, ayant son siège social à Skupi 28, Skopje – 1000, République de Macédoine du nord, et
-- 33**.** SMN du Royaume-Uni, Met Office, pour et au nom du Secrétaire d’Etat aux Sciences, à l’Innovation et à la Technologie du Royaume Uni de Grande-Bretagne et d’Irlande du Nord, un Fonds de Commerce Gouvernemental, créé en 1996 par le Statutory Instrument Ref N<sup>o</sup> SI1996/774, immatriculé à la TVA sous le numéro UK888 8053 62, ayant son siège social à FitzRoy Road, Exeter, EX1 3PB, Royaume-Uni.
+- 33\. SMN du Royaume-Uni, Met Office, pour et au nom du Secrétaire d’Etat aux Sciences, à l’Innovation et à la Technologie du Royaume Uni de Grande-Bretagne et d’Irlande du Nord, un Fonds de Commerce Gouvernemental, créé en 1996 par le Statutory Instrument Ref N<sup>o</sup> SI1996/774, immatriculé à la TVA sous le numéro UK888 8053 62, ayant son siège social à FitzRoy Road, Exeter, EX1 3PB, Royaume-Uni.
 
 Ci-après désignés individuellement par «Membre» et collectivement par «Membres».
 
@@ -537,7 +533,7 @@ Annexe 1
 
 *UE*– Union européenne
 
-Champ d’application le 6 juin 2013
+Champ d’application le 8 mars 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -557,6 +553,7 @@ Champ d’application le 6 juin 2013
 <tr><td>Islande</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Italie</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Lettonie</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
+<tr><td>Lituanie</td><td>1<sup>er</sup> janvier</td><td>2023</td><td>1<sup>er</sup> janvier</td><td>2023</td></tr>
 <tr><td>Luxembourg</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Macédoine du Nord</td><td>1<sup>er</sup> janvier</td><td>2011 Si</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Malte</td><td>1<sup>er</sup> juin</td><td>2013 Si</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
@@ -566,9 +563,13 @@ Champ d’application le 6 juin 2013
 <tr><td>Pologne</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Portugal</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>2011 Si</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
+<tr><td>Roumanie</td><td>1<sup>er</sup> janvier</td><td>2024</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
 <tr><td>Royaume-Uni</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Serbie</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
+<tr><td>Slovaquie</td><td>1<sup>er</sup> janvier</td><td>2023</td><td>1<sup>er</sup> janvier</td><td>2023</td></tr>
 <tr><td>Slovénie</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Suède</td><td>17 septembre</td><td>2009 Si</td><td>17 septembre</td><td>2009</td></tr>
 <tr><td>Suisse</td><td>9 avril</td><td>2010 Si</td><td>9 avril</td><td>2010</td></tr>
 </table>
+
+[^t-2]: [RO 2013 2009](https://fedlex.data.admin.ch/eli/oc/2013/421); [2024 104](https://fedlex.data.admin.ch/eli/oc/2024/104). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

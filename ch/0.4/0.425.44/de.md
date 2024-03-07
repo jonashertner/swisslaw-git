@@ -3,11 +3,11 @@ sr: "0.425.44"
 title: Abkommen vom 9. April 2010 über die Errichtung der wirtschaftlichen Interessenvereinigung EUMETNET (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/421"
 language: de
-version: 2024-01-01
+version: 2024-03-08
 adopted: 2009-09-17
 in_force: 2010-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240308/de/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240308-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240308/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Geändert durch Abkommen vom 6. Dezember 2023[^t-1]
 
 In Kraft getreten für die Schweiz am 1. Januar 2024
 
-(Stand am 1. Januar 2024)
+(Stand am 8. März 2024)
 
 [^t-1]: [AS 2024 108](https://fedlex.data.admin.ch/eli/oc/2024/108)
 
@@ -537,7 +537,7 @@ Anhang 1
 
 *EU* – Europäische Union
 
-Geltungsbereich am 6. Juni 2013[^t-2]
+Geltungsbereich am 8. März 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -553,6 +553,7 @@ Geltungsbereich am 6. Juni 2013[^t-2]
 <tr><td>Italien</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Kroatien</td><td>3. November</td><td>2009 U</td><td>3. November</td><td>2009</td></tr>
 <tr><td>Lettland</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
+<tr><td>Litauen</td><td>1. Januar</td><td>2023</td><td>1. Januar</td><td>2023</td></tr>
 <tr><td>Luxemburg</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Malta</td><td>1. Juni</td><td>2013 U</td><td>1. Juni</td><td>2013</td></tr>
 <tr><td>Montenegro</td><td>1. Januar</td><td>2011 U</td><td>1. Januar</td><td>2011</td></tr>
@@ -562,9 +563,11 @@ Geltungsbereich am 6. Juni 2013[^t-2]
 <tr><td>Österreich</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Polen</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Portugal</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
+<tr><td>Rumänien</td><td>1. Januar</td><td>2024</td><td>1. Januar</td><td>2024</td></tr>
 <tr><td>Schweden</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Schweiz</td><td>9. April</td><td>2010 U</td><td>9. April</td><td>2010</td></tr>
 <tr><td>Serbien</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
+<tr><td>Slowakei</td><td>1. Januar</td><td>2023</td><td>1. Januar</td><td>2023</td></tr>
 <tr><td>Slowenien</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Spanien</td><td>17. September</td><td>2009 U</td><td>17. September</td><td>2009</td></tr>
 <tr><td>Tschechische Republik</td><td>1. Januar</td><td>2011 U</td><td>1. Januar</td><td>2011</td></tr>
@@ -573,4 +576,4 @@ Geltungsbereich am 6. Juni 2013[^t-2]
 <tr><td>Zypern</td><td>3. November</td><td>2009 U</td><td>3. November</td><td>2009</td></tr>
 </table>
 
-[^t-2]: [AS 2013 2009](https://fedlex.data.admin.ch/eli/oc/2013/421). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2013 2009](https://fedlex.data.admin.ch/eli/oc/2013/421); [2024 104](https://fedlex.data.admin.ch/eli/oc/2024/104). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

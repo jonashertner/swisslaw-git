@@ -3,11 +3,11 @@ sr: "0.425.44"
 title: "Accordo del 9 aprile 2010 che istituisce il Gruppo d'interesse economico EUMETNET (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/421"
 language: it
-version: 2024-01-01
+version: 2024-03-08
 adopted: 2009-09-17
 in_force: 2010-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240308/it/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240308-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240308/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2013** 2009
 
 Concluso a Bruxelles il 17 settembre 2009 Adesione della Svizzera il 9 aprile 2010 Modificato dall’Accordo del 6 dicembre 2023[^t-1] Entrata il vigore per la Svizzera il 1° gennaio 2024
 
-(Stato 1° gennaio 2024)
+(Stato 8 marzo 2024)
 
 [^t-1]: [RU 2024 108](https://fedlex.data.admin.ch/eli/oc/2024/108)
 
@@ -533,7 +533,7 @@ Allegato 1
 
 *UE* – Unione europea
 
-Campo d’applicazione il 6 giugno 2013
+Campo d’applicazione l’8 marzo 2024[^t-2]
 
 <table>
 <tr><th>Stati Parte</th><th>Ratifica Firma senza riserva di ratifica (Fi)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -551,6 +551,7 @@ Campo d’applicazione il 6 giugno 2013
 <tr><td>Islanda</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Italia</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Lettonia</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
+<tr><td>Lituania</td><td>1° gennaio</td><td>2023</td><td>1° gennaio</td><td>2023</td></tr>
 <tr><td>Lussemburgo</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Macedonia del Nord</td><td>1° gennaio</td><td>2011 Fi</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Malta</td><td>1° giugno</td><td>2013 Fi</td><td>1° giugno</td><td>2013</td></tr>
@@ -561,10 +562,14 @@ Campo d’applicazione il 6 giugno 2013
 <tr><td>Portogallo</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Repubblica Ceca</td><td>1° gennaio</td><td>2011 Fi</td><td>1° gennaio</td><td>2011</td></tr>
+<tr><td>Romania</td><td>1° gennaio</td><td>2024</td><td>1° gennaio</td><td>2024</td></tr>
 <tr><td>Serbia</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
+<tr><td>Slovacchia</td><td>1° gennaio</td><td>2023</td><td>1° gennaio</td><td>2023</td></tr>
 <tr><td>Slovenia</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Spagna</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Svezia</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 <tr><td>Svizzera</td><td>9 aprile</td><td>2010 Fi</td><td>9 aprile</td><td>2010</td></tr>
 <tr><td>Ungheria</td><td>17 settembre</td><td>2009 Fi</td><td>17 settembre</td><td>2009</td></tr>
 </table>
+
+[^t-2]: [RU 2013 2009](https://fedlex.data.admin.ch/eli/oc/2013/421); [2024 104](https://fedlex.data.admin.ch/eli/oc/2024/104). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
