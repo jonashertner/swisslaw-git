@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sull’assicurazione malattie (LAMal; RS 832.10) (assicurazione delle persone detenute)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Krankenversicherung (KVG; SR 832.10) (Versicherung von inhaftierten Personen)
 document: Vernehmlassungsvorlage
 language: de
