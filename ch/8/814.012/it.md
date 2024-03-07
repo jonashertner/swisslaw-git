@@ -4,11 +4,11 @@ title: Ordinanza del 27 febbraio 1991 sulla protezione contro gli incidenti rile
 short: OPIR
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: it
-version: 2023-09-01
+version: 2024-03-08
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240308/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240308-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240308/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/it"
 
 (OPIR)
 
-del 27 febbraio 1991 (Stato 1° settembre 2023)
+del 27 febbraio 1991 (Stato 8 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -496,7 +496,7 @@ Allegato 1.1[^t-1]
 
 ## Quantitativi soglia per sostanze, preparati o rifiuti speciali
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).Aggiornato dal n. II cpv. 1 dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).Aggiornato dal n. II cpv. 1 dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)). La correzione dell’8 mar. 2024 concerne soltanto il testo francese ([RU 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)).
 
 ### 1 …
 

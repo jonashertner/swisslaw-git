@@ -4,11 +4,11 @@ title: "Ordinance of 27 February 1991 on Protection against Major Accidents (Maj
 short: MAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: en
-version: 2023-09-01
+version: 2024-03-08
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240308/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240308-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240308/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Major Accidents Ordinance, MAO)
 
-of 27 February 1991 (Status as of 1 September 2023)
+of 27 February 1991 (Status as of 8 March 2024)
 
 The Swiss Federal Council,
 
@@ -496,7 +496,7 @@ Annex 1.1[^t-1]
 
 ## Threshold quantities for substances, preparations or special wastes
 
-[^t-1]: Amended by No II para. 2 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Revised by No II para. 1 of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^t-1]: Amended by No II para. 2 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Revised by No II para. 1 of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)). The correction of 8 March 2024 concerns the French text only ([AS 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)).
 
 ### 1 …
 

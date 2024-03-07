@@ -4,11 +4,11 @@ title: "Ordonnance du 27 février 1991 sur la protection contre les accidents ma
 short: OPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: fr
-version: 2023-09-01
+version: 2024-03-08
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240308/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240308-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240308/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/fr"
 
 (Ordonnance sur les accidents majeurs, OPAM)
 
-du 27 février 1991 (État le 1<sup>er</sup> septembre 2023)
+du 27 février 1991 (État le 8 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -490,7 +490,7 @@ Annexe 1.1[^t-1]
 
 ## Seuils quantitatifs des substances, des préparations et des déchets spéciaux
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Mise à jour selon le ch. II al. 1 de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Mise à jour selon le ch. II al. 1 de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)). Erratum du 8 mars 2024 ([RO 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)).
 
 ### 1 …
 
@@ -500,7 +500,7 @@ Annexe 1.1[^t-1]
 
 <sup>1</sup> Sont applicables, pour les substances et les préparations du tableau figurant au ch. 3, les seuils quantitatifs figurant dans ledit tableau.
 
-<sup>2</sup> Le détenteur détermine le seuil quantitatif des autres substances et des autres préparations en appliquant les critères énoncés au ch. 4 d’après l’annexe I de la classification/de l’étiquetage selon le règlement CLP (CE) n<sup>o</sup> 1272/2008[^annex11-lvlu1-lvl2-lvl21-1] et les critères arrêtés au ch. 5 pour les substances et les préparations de haute activité. Le seuil le plus bas ainsi établi est le seuil déterminant.
+<sup>2</sup> Le détenteur détermine le seuil quantitatif des autres substances et des autres préparations en appliquant les critères énoncés au ch. 4 d’après l’annexe I du règlement CLP (CE) n<sup>o</sup> 1272/2008[^annex11-lvlu1-lvl2-lvl21-1] et les critères arrêtés au ch. 5 pour les substances et les préparations de haute activité. Le seuil le plus bas ainsi établi est le seuil déterminant.
 
 <sup>3</sup> Le détenteur peut renoncer à déterminer le seuil quantitatif pour un critère ou un domaine lorsqu’il établit de manière crédible que l’acquisition des données requerrait un investissement démesuré.
 

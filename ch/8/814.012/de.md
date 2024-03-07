@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Februar 1991 über den Schutz vor Störfällen (Stör
 short: StFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: de
-version: 2023-09-01
+version: 2024-03-08
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240308/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240308-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240308/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20230901/de"
 
 (Störfallverordnung, StFV)
 
-vom 27. Februar 1991 (Stand am 1. September 2023)
+vom 27. Februar 1991 (Stand am 8. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -494,7 +494,7 @@ Anhang 1.1[^t-1]
 
 ## Mengenschwellen für Stoffe, Zubereitungen oder Sonderabfälle
 
-[^t-1]: Fassung gemäass Ziff. II Abs. 2 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^t-1]: Fassung gemäass Ziff. II Abs. 2 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)). Die Berichtigung vom 8. März 2024 betrifft nur den französischen Text ([AS 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)).
 
 ### 1 …
 
