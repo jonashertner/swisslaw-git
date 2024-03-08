@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge militare, dell’ordinanza dell’Assemblea federale sull’amministrazione dell’esercito e dell’organizzazione dell’esercito"
 document: Progetto posto in consultazione-3
 language: it
