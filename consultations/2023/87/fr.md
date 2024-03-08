@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’assurance-accidents (LAA) en vue du financement de la Fondation Fonds d’indemnisation des victimes de l’amiante (Fondation EPT)
 document: Projet mis en consultation
 language: fr

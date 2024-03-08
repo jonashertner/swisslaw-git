@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della Legge federale sull’assicurazione contro gli infortuni (LAINF) per quanto riguarda il finanziamento della Fondazione fondo per le vittime dell’amianto (Fondazione EFA)
 document: Progetto posto in consultazione
 language: it

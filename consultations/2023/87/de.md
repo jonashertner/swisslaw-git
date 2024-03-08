@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Unfallversicherung (UVG) i.S. Finanzierung der Stiftung Entschädigungsfonds für Asbestopfer (Stiftung EFA)
 document: Vernehmlassungsvorlage
 language: de
