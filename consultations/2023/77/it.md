@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione dell’ordinanza 2 concernente la legge sul lavoro: Lavoro domenicale nei distretti turistici urbani"
 document: Progetto posto in consultazione
 language: it

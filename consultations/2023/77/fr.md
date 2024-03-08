@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de l’ordonnance 2 relative à la loi sur le travail (OLT 2): travail du dimanche dans les quartiers touristiques urbains"
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revision der Verordnung 2 zum Arbeitsgesetz (ArGV 2): Sonntagsarbeit in städtischen Tourismusquartieren"
 document: Vernehmlassungsvorlage
 language: de
