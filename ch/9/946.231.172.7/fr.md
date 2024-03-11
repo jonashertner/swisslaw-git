@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2024-02-02
+version: 2024-03-12
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240202/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240202-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240312/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240312-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240312/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 2 février 2024)
+du 8 juin 2012 (État le 12 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -309,7 +309,7 @@ Le SECO peut, exceptionnellement, autoriser la libération d’avoirs et de ress
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023, prolongé jusqu’au 11 mars 2024 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476)).
+[^10-4]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023, prolongé jusqu’au 11 mars 2024 puis jusqu’au 12 sept. 2024 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)).
 [^10-5]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
