@@ -5,12 +5,12 @@ title: Kantonale Berufsmaturitätsverordnung
 short: kBMV
 language: de
 version: 2015-03-01
-valid_until: 2024-07-31
+corrected: 2024-03-13
 version_adopted: 2015-02-17
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3368/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -223,13 +223,13 @@ von der Regierung erlassen am 17. Februar 2015
 
 **Ersatzprüfung**
 
-<sup>1</sup> Bei Nichtbestehen der erweiterten Allgemeinbildung in einem lehrbegleitenden Lehrgang, in dem diese mit Berufskunde integrativ vermittelt wird, nimmt die Berufsmaturitätsschule eine Ersatzprüfung vor. Damit wird festgestellt, ob die Ergebnisse der Berufsmaturitätsprüfung den Anforderungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses genügen.
+<sup>1</sup> Bei Nichtbestehen der erweiterten Allgemeinbildung in einem lehrbegleitenden Lehrgang, in dem diese mit Berufskunde integrativ vermittelt wird, nimmt die Berufsmaturitätsschule eine Ersatzprüfung vor. Damit wird festgestellt, ob die Ergebnisse der Berufsmaturitätsprüfung den Anforderungen für den Erwerb des Eidgenössischen Fähigkeitzeugnisses genügen.
 
 #### Art. 25
 
 **Wiederholungsprüfung**
 
-<sup>1</sup> Wer weder die Bedingungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses noch die Bedingungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren wiederholen.
+<sup>1</sup> Wer weder die Bedingungen für den Erwerb des Eidgenössischen Fähigkeitszeugnisses noch die Bedingungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren wiederholen.
 
 <sup>2</sup> Eine Prüfungswiederholung findet frühestens am nächsten ordentlichen Prüfungstermin statt.
 
