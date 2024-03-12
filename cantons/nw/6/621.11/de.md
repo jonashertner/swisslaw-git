@@ -5,12 +5,12 @@ title: Einführungsverordnung zum Bundesgesetz über die Nationalstrassen
 short: "Kantonale Nationalstrassenverordnung, kNSV"
 language: de
 version: 2021-11-01
-valid_until: 2026-06-30
+corrected: 2024-03-13
 version_adopted: 2021-10-19
 adopted: 2021-10-19
 in_force: 2021-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/621.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1261/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/742/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -34,6 +34,8 @@ beschliesst:
 **Gegenstand**
 
 <sup>1</sup> Diese Verordnung regelt die Zuständigkeiten der kantonalen Behörden und die Verfahren gestützt auf die Bundesgesetzgebung über die Nationalstrassen[^1-1].
+
+beschliesst:
 
 [^1-1]: SR 725.11
 
