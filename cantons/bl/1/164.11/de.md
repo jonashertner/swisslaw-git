@@ -4,13 +4,13 @@ number: "164.11"
 title: Verordnung zum Gesetz über die elektronische Geschäftsabwicklung und Kommunikation
 short: "E-Government-Verordnung, Vo E-GovG"
 language: de
-version: 2023-09-10
-valid_until: 2024-03-13
-version_adopted: 2023-08-29
+version: 2024-03-14
+valid_until: 2025-03-31
+version_adopted: 2024-03-12
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/164.11"
-pdf: "https://bl.clex.ch/api/de/versions/3706/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3903/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3706/pdf_file"
 
 (E-Government-Verordnung, Vo E-GovG)
 
-Vom 14.12.2021 (Stand 10.09.2023)
+Vom 14.12.2021 (Stand 14.03.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -38,25 +38,40 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt fest:
 
-- a. welche Zustellplattformen zum elektronischen Austausch von Daten und Dokumenten im Rahmen von Behördengängen ausserhalb der Online-Service-Plattform vom Kanton anerkannt werden; diese werden im Anhang zu dieser Verordnung aufgeführt;
-- b. unter welchen Nutzungsbedingungen Benutzerinnen und Benutzer die Online-Service-Plattform nutzen können;
-- c. unter welchen Bedingungen der Kanton Vereinbarungen mit Einwohnergemeinden oder anderen Trägern öffentlicher Aufgaben zur Nutzung der Online-Service-Plattform abschliessen kann.
+- a. welche Zustellplattformen zum elektronischen Austausch von Daten und Dokumenten im Rahmen von Behördengängen ausserhalb der Online-Service-Plattform vom Kanton anerkannt werden; diese werden in einem Anhang zu dieser Verordnung aufgeführt;
+- b. …
+- c. …
+- d. welche elektronischen Identitäten vom Kanton anerkannt werden; diese werden in einem Anhang zu dieser Verordnung aufgeführt.
+
+<sup>2</sup> Der Regierungsrat genehmigt den Abschluss von Vereinbarungen mit Einwohnergemeinden oder anderen Trägern öffentlicher Aufgaben zur Nutzung der Online-Service-Plattform.
 
 #### § 2
 
 **Landeskanzlei**
 
-<sup>1</sup> Die Landeskanzlei regelt in einer Weisung zur Online-Service-Plattform die Vorgaben:
+<sup>1</sup> Die Landeskanzlei ist verantwortlich für:
+
+- a. den applikatorischen Betrieb der Online-Service-Plattform;
+- b. die Organisation und die Prozesse zur Aufrechterhaltung des Betriebs der Online-Service-Plattform;
+- c. die inhaltliche Weiterentwicklung der Online-Service-Plattform;
+- d. die Festlegung des umzusetzenden Schutzniveaus auf der Online-Service-Plattform;
+- e. die Massnahmen zur Verhinderung von Missbrauch im Sinne von § 13 E-GovG[^2-1].
+
+<sup>2</sup> Die Landeskanzlei regelt in einer Weisung zur Online-Service-Plattform die Vorgaben:
 
 - a. zur einheitlichen Erfassung und Publikation von Leistungen und Behördengängen;
 - b. zur Einhaltung des Corporate Designs;
 - c. zur Sicherung der Qualität der publizierten Inhalte zu Leistungen und Behördengängen auf übergeordneter Ebene.
 
+<sup>3</sup> Die Landeskanzlei legt die Bedingungen zur Nutzung der Online-Service-Plattform durch die Benutzerinnen und Benutzer fest.
+
+[^2-1]: [SGS 164](https://bl.clex.ch/data/164/de)
+
 #### § 3
 
 **Zentrale Informatik**
 
-<sup>1</sup> Die Zentrale Informatik ist verantwortlich für den Aufbau, den Betrieb und die Weiterentwicklung der technischen Online-Service-Plattform-Infrastruktur.
+<sup>1</sup> Die Zentrale Informatik ist verantwortlich für den Aufbau, den Betrieb und die Weiterentwicklung der technischen ICT-Services, welche die Grundlage für den Betrieb der Online-Service-Plattform bilden.
 
 <sup>2</sup> Im Übrigen gilt die Verordnung vom 24. Januar 2017 über die Informatik [^3-1].
 
@@ -79,43 +94,21 @@ beschliesst:
 
 **Behörden**
 
-<sup>1</sup> Die Behörden im Sinne des E-GovG sind zuständig und verantwortlich für ihre Leistungen und Behördengänge, die über die Online-Service-Plattform, eine andere anerkannte Zustellplattform oder eine spezifische Informatiklösung abgewickelt werden.
+<sup>1</sup> Die Behörden im Sinne des E-GovG sind zuständig und verantwortlich für die Leistungen und Behördengänge in ihrem Zuständigkeitsbereich, die über die Online-Service-Plattform, eine anerkannte Zustellplattform oder eine spezifische Informatiklösung abgewickelt werden.
 
-## 2. Aufbau und Betrieb der Online-Service-Plattform
+## 2.
 
 #### § 6
 
-**Aufbau**
-
-<sup>1</sup> Die Online-Service-Plattform hat insbesondere die folgenden Komponenten:
-
-- a. technische Infrastruktur wie Netzwerk, Server, Middleware, Datenbanken;
-- b. Leistungsverzeichnis mit Online-Schalter;
-- c. Formulardienst;
-- d. ePayment-Dienst.
-
-<sup>2</sup> Die Zentrale Informatik dokumentiert den technischen Aufbau und den Betrieb der Online-Service-Plattform nach fachlich anerkannten Grundsätzen.
+**…**
 
 #### § 7
 
-**Leistungsverzeichnis mit Online-Schalter**
-
-<sup>1</sup> Die Behörden der kantonalen Verwaltung erfassen ihre Leistungen, Behördengänge und Kontaktangaben im Leistungsverzeichnis der Online-Service-Plattform gemäss Vorgabe der Landeskanzlei und publizieren diese im Online-Schalter.
+**…**
 
 #### § 8
 
-**Betriebliche Vorgaben**
-
-<sup>1</sup> Die Online-Service-Plattform wird als kantonaler Service nach den Vorgaben des Gemeinsamen Service Management-Systems (GSMS) gemäss § 18 der Verordnung vom 24. Januar 2017 über die Informatik[^8-1] betrieben.
-
-<sup>2</sup> Für die Online-Service-Plattform und die damit bearbeiteten Daten sind angemessene organisatorische und technische Massnahmen zu treffen zur Gewährleistung der:
-
-- a. Vertraulichkeit;
-- b. Verfügbarkeit;
-- c. Integrität;
-- d. Nachvollziehbarkeit.
-
-[^8-1]: [SGS 140.51](https://bl.clex.ch/data/140.51/de/art18)
+**…**
 
 ## 3 Elektronische Geschäftsabwicklung und Kommunikation
 
@@ -125,7 +118,7 @@ beschliesst:
 
 <sup>1</sup> Die leistungserbringende Behörde kann für den Austausch von Daten und Dokumenten im Rahmen von Behördengängen festschreiben, welche der anerkannten Plattformen genutzt werden muss.
 
-<sup>2</sup> Jede Behörde verfügt über eine E-Mail-Adresse und ein elektronisches Konto bei den vom Kanton anerkannten Zustellplattformen, über die Benutzerinnen und Benutzer mit der Behörde elektronisch kommunizieren können.
+<sup>2</sup> Jede Behörde verfügt über einen Zugang zu den vom Kanton anerkannten Zustellplattformen, über die Benutzerinnen und Benutzer mit der Behörde elektronisch kommunizieren können.
 
 #### § 9a
 
@@ -142,13 +135,13 @@ beschliesst:
 
 #### § 10
 
-**Elektronische Formulare der Behörden**
+**Elektronische Formulare**
 
 <sup>1</sup> Sieht eine Behörde der kantonalen Verwaltung für die Inanspruchnahme einer Leistung die Verwendung von Formularen vor, so hat sie diese elektronisch über die Online-Service-Plattform zur Verfügung zu stellen.
 
-<sup>2</sup> Elektronische Formulare können auch über spezifische Informatiklösungen zur Verfügung gestellt werden, für die eine Genehmigung des ITO-Rats vorliegt.
+<sup>2</sup> Elektronische Formulare können auch über spezifische Informatiklösungen zur Verfügung gestellt werden.
 
-## 4 Datenschutz
+## 4 Online-Service-Plattform
 
 #### § 11
 
@@ -156,8 +149,9 @@ beschliesst:
 
 <sup>1</sup> Die Dauer der Datenspeicherung auf der Online-Service-Plattform beträgt:
 
-- a. für die im Zusammenhang mit den Transaktionen übermittelten Inhaltsdaten: längstens 2 Monate;
-- b. für Protokolldaten: 6 Monate, vorbehältlich spezialgesetzlicher Regelungen.
+- a. für Geschäftsdaten, die ausserhalb des BL-Kontos im Zusammenhang mit Transaktionen anfallen: längstens 60 Tage;
+- b. für Protokolldaten: 12 Monate, vorbehältlich spezialgesetzlicher Regelungen;
+- c. für weitere im BL-Konto gespeicherte Daten: während der Dauer des Nutzungsvertrags bis längstens 60 Tage nach dessen Beendigung.
 
 <sup>2</sup> Nach der in Abs. 1 erwähnten Aufbewahrungsdauer werden die Daten aus der Online-Service-Plattform gelöscht, vorbehältlich des Gesetzes vom 11. Mai 2006 über die Archivierung [^11-1].
 
@@ -168,5 +162,59 @@ beschliesst:
 **Protokollierung**
 
 <sup>1</sup> Die Service-Verantwortlichen der einzelnen Komponenten der Online-Service-Plattform legen die Details zur Protokollierung im entsprechenden Informationssicherheits- und Datenschutzkonzept fest.
+
+## 5 Elektronisches Benutzerkonto und Benutzeridentifikation
+
+#### § 13
+
+**Eröffnung eines BL-Kontos**
+
+<sup>1</sup> Natürliche Personen können auf der Online-Service-Plattform ein BL-Konto eröffnen, wenn sie über eine vom Regierungsrat anerkannte elektronische Identität verfügen.
+
+<sup>2</sup> Mit Eröffnung des BL-Kontos wird automatisch eine BL-ID vergeben, die der internen Identifikation dient.
+
+<sup>3</sup> Benutzerinnen und Benutzer eines BL-Kontos können für die Nutzung ihres BL-Kontos generell oder für einen einzelnen Behördengang eine Stellvertretung einrichten, mit Zustimmung der vollmachtgebenden und der bevollmächtigten Person.
+
+<sup>4</sup> Die bevollmächtigte Person muss über ein BL-Konto verfügen.
+
+<sup>5</sup> Die Vollmacht kann jederzeit widerrufen werden.
+
+#### § 14
+
+**Authentisierung**
+
+<sup>1</sup> Die Benutzerinnen und Benutzer haben sich für die Nutzung des BL-Kontos über eine vom Regierungsrat anerkannte elektronische Identität zu authentisieren.
+
+<sup>2</sup> Die elektronische Identität beinhaltet je nach Identitätsprüfung unterschiedliche Vertrauensstufen.
+
+#### § 15
+
+**Daten im BL-Konto**
+
+<sup>1</sup> Im BL-Konto werden Benutzerstammdaten, Protokoll- und Geschäftsdaten gemäss Anhang gespeichert.
+
+<sup>2</sup> Für die eindeutige Zuweisung einer Benutzerin bzw. eines Benutzers zu einer Leistung oder einem Behördengang können im BL-Konto ausserdem Zugangsdaten gemäss Anhang gespeichert werden, sofern Benutzerinnen und Benutzer dem zustimmen.
+
+#### § 16
+
+**Nutzung der Daten im BL-Konto**
+
+<sup>1</sup> Die im BL-Konto gespeicherten Daten werden verwendet für:
+
+- a. die Bereitstellung des BL-Kontos;
+- b. den Zugang für die Benutzerinnen und Benutzer zu den über die Online-Service-Plattform angebotenen Leistungen;
+- c. die Abwicklung der über die Online-Service-Plattform angebotenen Leistungen;
+- d. die Leistung von Unterstützung (Support) im Bedarfsfall;
+- e. die Weiterentwicklung der Online-Service-Plattform und der darüber angebotenen Leistungen.
+
+#### § 17
+
+**Auflösung des Nutzungsvertrags**
+
+<sup>1</sup> Mit Auflösung des Nutzungsvertrags werden das BL-Konto und die gespeicherten Daten nach Massgabe von § 11 vernichtet.
+
+<sup>2</sup> Die Benutzerinnen und Benutzer werden vorab über die Vernichtung informiert.
+
+<sup>3</sup> Bei hängigen Behördengängen sind die zuständigen Behörden über die Vernichtung zu informieren.
 
 GS 2021.116
