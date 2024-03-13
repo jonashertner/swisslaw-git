@@ -4,13 +4,12 @@ number: "140.50"
 title: Verordnung Digitale Transformation
 short: VoDiT
 language: de
-version: 2024-02-01
-valid_until: 2024-03-13
-version_adopted: 2024-01-23
+version: 2024-03-14
+version_adopted: 2024-03-12
 adopted: 2024-01-23
 in_force: 2024-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.50"
-pdf: "https://bl.clex.ch/api/de/versions/3877/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3902/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3877/pdf_file"
 
 (VoDiT)
 
-Vom 23.01.2024 (Stand 01.02.2024)
+Vom 23.01.2024 (Stand 14.03.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
