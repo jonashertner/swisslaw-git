@@ -4,13 +4,12 @@ number: "164"
 title: Gesetz über die elektronische Geschäftsabwicklung und Kommunikation
 short: "E-Government-Gesetz, E-GovG"
 language: de
-version: 2024-01-01
-valid_until: 2024-03-13
-version_adopted: 2023-01-26
+version: 2024-03-14
+version_adopted: 2020-09-10
 adopted: 2020-09-10
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/164"
-pdf: "https://bl.clex.ch/api/de/versions/3908/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3908/pdf_file"
 
 (E-Government-Gesetz, E-GovG)
 
-Vom 10.09.2020 (Stand 01.01.2024)
+Vom 10.09.2020 (Stand 14.03.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -109,7 +108,10 @@ beschliesst:[^ingress-2]
 
 - a. sich über elektronisch verfügbare Leistungen zu informieren;
 - b. Behördengänge zu tätigen;
+- c. ein elektronisches Benutzerkonto zu nutzen;
+- d. eine elektronische Identität einzusetzen;
 - e. eine elektronische Signatur zu verwenden;
+- f. sich für die Nutzung von weiteren elektronischen Leistungen von Behörden zu authentisieren.
 
 #### § 8
 
@@ -141,6 +143,47 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Verlangen Benutzerinnen oder Benutzer über die ordentliche Nutzung der Online-Service-Plattform hinausgehende Leistungen, können ihnen diese in Rechnung gestellt werden.
 
 <sup>4</sup> Der Regierungsrat kann Vorteile finanzieller Natur vorsehen, um die Benutzung der Online-Service-Plattform zu fördern.
+
+### 2.3 Elektronisches Benutzerkonto und Benutzeridentifikation
+
+#### § 10
+
+**Elektronisches Benutzerkonto (BL-Konto)**
+
+<sup>1</sup> Benutzerinnen und Benutzer können ein persönliches elektronisches Benutzerkonto (BL-Konto) beantragen, mit dem sie über die Online-Service-Plattform Transaktionen mit Behörden durchführen können.
+
+<sup>2</sup> Zur Nutzung des BL-Kontos wird zwischen der Benutzerin oder dem Benutzer und dem Kanton ein öffentlich-rechtlicher Nutzungsvertrag abgeschlossen.
+
+<sup>3</sup> Der Regierungsrat regelt die Anforderungen und Modalitäten der Eröffnung, Nutzung und Auflösung des BL-Kontos.
+
+#### § 11
+
+**Elektronische Benutzeridentifikation (BL-ID)**
+
+<sup>1</sup> Mit der Eröffnung des BL-Kontos erhält die Benutzerin oder der Benutzer eine eindeutige, nicht sprechende und unveränderliche elektronische Benutzeridentifikation (BL-ID)
+
+<sup>2</sup> Verfügt eine Benutzerin oder ein Benutzer über eine andere vom Kanton anerkannte elektronische Benutzeridentifikation, kann diese an Stelle der BL-ID verwendet werden.
+
+<sup>3</sup> Die BL-ID darf von den Behörden ausschliesslich zur Ermöglichung der Nutzung der Online-Service-Plattform gemäss § 7 bearbeitet werden.
+
+#### § 12
+
+**Beendigung des Nutzungsvertrags**
+
+<sup>1</sup> Die Benutzerinnen und Benutzer können den Nutzungsvertrag über das BL-Konto unter Wahrung einer Kündigungsfrist von 10 Tagen ohne Angabe von Gründen jederzeit kündigen.
+
+<sup>2</sup> Der Kanton kann den Nutzungsvertrag nach vorgängiger Mitteilung an die Benutzerin oder den Benutzer auflösen:
+
+- a. wenn sich die Benutzerin oder der Benutzer während 2 Jahren nicht mehr im BL-Konto angemeldet hat;
+- b. bei erheblichen oder mehrfachen Verstössen gegen den Nutzungsvertrag.
+
+<sup>3</sup> Mit der Beendigung des Nutzungsvertrags werden das BL-Konto und die damit im Zusammenhang stehenden Daten nach Massgabe der Verordnung gelöscht.
+
+#### § 13
+
+**Verhinderung von Missbrauch**
+
+<sup>1</sup> Bei konkreten Hinweisen auf einen Missbrauch ergreift der Kanton die erforderlichen Massnahmen, um den Missbrauch zu verhindern.
 
 ### 2.4 Datenschutz
 
