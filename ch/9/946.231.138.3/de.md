@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 1. Juni 2023)
+vom 1. Juni 2012 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -100,9 +100,11 @@ Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^5-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^5-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 6
 

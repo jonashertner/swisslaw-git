@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 1° giugno 2023)
+del 1° giugno 2012 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -100,9 +100,11 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1, lo dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone[^5-1] e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1, lo dichiarano senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^5-1]: N. 7 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 6
 
