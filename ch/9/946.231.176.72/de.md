@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-03-02
+version: 2024-03-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 2. März 2024)
+vom 4. März 2022 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -957,13 +957,14 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 
 **Meldepflichten betreffend die Sperrung von Geldern und wirtschaftlichen Ressourcen**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 15 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 15 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^16-1]
 
-<sup>1bis</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, die im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen oder Organisationen sind, die in Anhang 8 aufgenommen wurden, müssen dem SECO sämtliche Transaktionen der zwei Wochen vor der Aufnahme dieser Personen, Unternehmen oder Organisationen in Anhang 8 unverzüglich melden.[^16-1]
+<sup>1bis</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, die im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen oder Organisationen sind, die in Anhang 8 aufgenommen wurden, müssen dem SECO sämtliche Transaktionen der zwei Wochen vor der Aufnahme dieser Personen, Unternehmen oder Organisationen in Anhang 8 unverzüglich melden.[^16-2]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Gelder und wirtschaftlichen Ressourcen enthalten.
 
-[^16-1]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 17
 

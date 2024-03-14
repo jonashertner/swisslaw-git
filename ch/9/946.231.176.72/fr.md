@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-03-02
+version: 2024-03-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 2 mars 2024)
+du 4 mars 2022 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -954,13 +954,14 @@ Il peut autoriser le déblocage de certains avoirs ou ressources économiques ge
 
 **Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.[^16-1]
 
-<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-1]
+<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-2]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
 
-[^16-1]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+[^16-2]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 17
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-03-02
+version: 2024-03-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240302/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240302-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 2 marzo 2024)
+del 4 marzo 2022 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -957,13 +957,14 @@ La SECO può autorizzare la liberazione di determinati averi o risorse economich
 
 **Obbligo di notifica relativo al blocco degli averi e delle risorse economiche**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 15 capoverso 1 devono notificarlo senza indugio alla SECO.
+<sup>1</sup> Le persone[^16-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 15 capoverso 1 devono notificarlo senza indugio alla SECO.
 
-<sup>1bis</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche di proprietà o sotto il controllo di persone fisiche, imprese od organizzazioni elencate nell’allegato 8 devono notificare senza indugio alla SECO tutte le transazioni effettuate nelle due settimane precedenti l’inserimento nell’allegato 8 di tali persone, imprese od organizzazioni.[^16-1]
+<sup>1bis</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche di proprietà o sotto il controllo di persone, imprese od organizzazioni elencate nell’allegato 8 devono notificare senza indugio alla SECO tutte le transazioni effettuate nelle due settimane precedenti l’inserimento nell’allegato 8 di tali persone, imprese od organizzazioni.[^16-2]
 
 <sup>2</sup> Le notifiche devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
 
-[^16-1]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-1]: N. 13 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^16-2]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 17
 
