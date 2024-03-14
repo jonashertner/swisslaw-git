@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Verordnung vom 4. Dezember 2015 über Massnahmen gegenüber Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: de
-version: 2022-11-04
+version: 2024-03-15
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20221104/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20221104-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20221104/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20240315-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Burundi
 
-vom 4. Dezember 2015 (Stand am 4. November 2022)
+vom 4. Dezember 2015 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -82,9 +82,11 @@ In dieser Verordnung bedeuten:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^4-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^4-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 5
 
@@ -118,5 +120,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), vom 7. Nov. 2019 (**2019** 3445), vom 11. Nov. 2020 (**2020** 4667) und vom 3. Nov. 2022, in Kraft seit 4. Nov. 2022 um 18.00 Uhr ([AS 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), vom 7. Nov. 2019 ([AS 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), vom 11. Nov. 2020 ([AS 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) und vom 3. Nov. 2022, in Kraft seit 4. Nov. 2022 um 18.00 Uhr ([AS 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
 [^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

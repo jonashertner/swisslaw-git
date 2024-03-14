@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Ordinanza del 4 dicembre 2015 che istituisce provvedimenti nei confronti del Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: it
-version: 2022-11-04
+version: 2024-03-15
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20221104/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20221104-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20221104/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20240315-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Burundi
 
-del 4 dicembre 2015 (Stato 4 novembre 2022)
+del 4 dicembre 2015 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -82,9 +82,11 @@ Ai sensi della presente ordinanza si intende per:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1 sono tenute a dichiararli senza indugio alla SECO.
+<sup>1</sup> Le persone[^4-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1 sono tenute a dichiararli senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^4-1]: N. 4 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 5
 
@@ -118,5 +120,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), del 7 nov. 2019 ([RU 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)), del 11 nov. 2020 ([RU 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) e del 3 nov. 2022, in vigore dal 4 nov. 2022 alle ore 18.00 ([RU 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), del 7 nov. 2019 ([RU 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), del 11 nov. 2020 ([RU 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) e del 3 nov. 2022, in vigore dal 4 nov. 2022 alle ore 18.00 ([RU 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
 [^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

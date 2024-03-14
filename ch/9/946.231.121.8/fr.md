@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: "Ordonnance du 4 décembre 2015 instituant des mesures à l'encontre du Burundi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: fr
-version: 2022-11-04
+version: 2024-03-15
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20221104/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20221104-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20221104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20240315-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Burundi
 
-du 4 décembre 2015 (État le 4 novembre 2022)
+du 4 décembre 2015 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -82,9 +82,11 @@ Au sens de la présente ordonnance, on entend par:
 
 **Déclaration obligatoire**
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 1, al. 1, doivent les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 1, al. 1, doivent les déclarer sans délai au SECO.[^4-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+
+[^4-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 5
 
@@ -118,5 +120,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), du 7 nov. 2019 ([RO 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)), du 11 nov. 2020 ([RO 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) et du 3 nov. 2022, en vigueur depuis le 4 nov. 2022 à 18 heures ([RO 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), du 7 nov. 2019 ([RO 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), du 11 nov. 2020 ([RO 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) et du 3 nov. 2022, en vigueur depuis le 4 nov. 2022 à 18 heures ([RO 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
 [^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
