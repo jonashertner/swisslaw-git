@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: Ordinanza del 24 febbraio 2010 che istituisce provvedimenti nei confronti della Guinea
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: it
-version: 2022-01-01
+version: 2024-03-15
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-117-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2010-117-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea
 
-del 24 febbraio 2010 (Stato 1° gennaio 2022)
+del 24 febbraio 2010 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -86,9 +86,11 @@ Nella presente ordinanza s’intende per:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, lo dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone[^6-1] e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, lo dichiarano senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^6-1]: N. 6 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 

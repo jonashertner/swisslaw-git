@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: Verordnung vom 24. Februar 2010 über Massnahmen gegenüber Guinea
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: de
-version: 2022-01-01
+version: 2024-03-15
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea
 
-vom 24. Februar 2010 (Stand am 1. Januar 2022)
+vom 24. Februar 2010 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -86,9 +86,11 @@ In dieser Verordnung bedeuten:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^6-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^6-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 
