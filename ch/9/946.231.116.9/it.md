@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2023-08-30
+version: 2024-03-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 30 agosto 2023)
+del 16 marzo 2022 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -290,9 +290,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 **Obbligo di notifica relativo al blocco degli averi e delle risorse economiche**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 12 capoverso 1 devono notificarlo senza indugio alla SECO.
+<sup>1</sup> Le persone[^13-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 12 capoverso 1 devono notificarlo senza indugio alla SECO.
 
 <sup>2</sup> Le comunicazioni devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
+
+[^13-1]: N. 2 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 14
 

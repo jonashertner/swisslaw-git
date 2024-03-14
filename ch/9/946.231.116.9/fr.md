@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2023-08-30
+version: 2024-03-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 30 août 2023)
+du 16 mars 2022 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -289,9 +289,11 @@ Il peut, après avoir consulté les services compétents du DFAE et du DFF, auto
 
 **Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il y a lieu de penser qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 12, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il y a lieu de penser qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 12, al. 1, doivent le déclarer sans délai au SECO.[^13-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, le type et la valeur des avoirs et des ressources économiques gelés.
+
+[^13-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 14
 

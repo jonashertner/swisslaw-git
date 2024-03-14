@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2023-08-30
+version: 2024-03-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20230830/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20230830-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20230830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 30. August 2023)
+vom 16. März 2022 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -290,9 +290,11 @@ Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausna
 
 **Meldepflichten betreffend die Sperrung von Geldern und wirtschaftlichen Ressourcen**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 12 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 12 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^13-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten, die Art und den Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^13-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 14
 
