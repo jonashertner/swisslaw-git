@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2023-12-21
+version: 2024-03-15
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231221/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231221-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 21. Dezember 2023)
+vom 11. November 2015 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -246,9 +246,11 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 **Meldepflicht für gesperrte Vermögenswerte**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 7 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 7 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^8-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^8-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 ## 5. Abschnitt: Weitere Beschränkungen
 

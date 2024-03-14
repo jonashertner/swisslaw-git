@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2023-12-21
+version: 2024-03-15
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231221/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231221-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 21 dicembre 2023)
+dell’11 novembre 2015 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -248,9 +248,11 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 **Obbligo di dichiarazione per i valori patrimoniali bloccati**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 7 capoverso 1 li dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone[^8-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 7 capoverso 1 li dichiarano senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche.
+
+[^8-1]: N. 8 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 ## Sezione 5: Ulteriori restrizioni
 
