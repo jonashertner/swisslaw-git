@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Verordnung vom 12. August 2015 über Massnahmen gegenüber der Republik Südsudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: de
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Südsudan
 
-vom 12. August 2015 (Stand am 1. Juni 2023)
+vom 12. August 2015 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -165,9 +165,11 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^6-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^6-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 

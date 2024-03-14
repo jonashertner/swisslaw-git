@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Ordinanza del 12 agosto 2015 che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: it
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 
-del 12 agosto 2015 (Stato 1° giugno 2023)
+del 12 agosto 2015 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -165,9 +165,11 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararli senza indugio alla SECO.
+<sup>1</sup> Le persone[^6-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararli senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^6-1]: N. 11 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 

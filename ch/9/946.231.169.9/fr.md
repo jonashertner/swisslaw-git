@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 1<sup>er</sup> juin 2023)
+du 12 août 2015 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -165,9 +165,11 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 **Déclaration obligatoire**
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.[^6-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+
+[^6-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 
