@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2024-01-30
+version: 2024-03-15
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20240130/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20240130-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20240130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 30 gennaio 2024)
+del 22 giugno 2005 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -143,9 +143,11 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, lo dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone[^6-1] e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, lo dichiarano senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^6-1]: N. 3 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 
@@ -203,5 +205,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dal n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), del 19 dic. 2022 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)) e del 10 lug. 2023 ([RU 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), del 14 ago. 2023 ([RU 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), del 20 dic. 2023 ([RU 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)) e del 29 gen. 2024, in vigore dal 30 gen. 2024 alle ore 18.00 (RU **202****4** 43).
+[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dal n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), del 19 dic. 2022 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)) e del 10 lug. 2023 ([RU 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), del 14 ago. 2023 ([RU 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), del 20 dic. 2023 ([RU 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)) e del 29 gen. 2024, in vigore dal 30 gen. 2024 alle ore 18.00 ([RU 2024 43](https://fedlex.data.admin.ch/eli/oc/2024/43)).
 [^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/43](https://fedlex.data.admin.ch/eli/oc/2024/43) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

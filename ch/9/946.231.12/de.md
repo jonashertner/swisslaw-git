@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Verordnung vom 22. Juni 2005 über Massnahmen gegenüber der Demokratischen Republik Kongo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: de
-version: 2024-01-30
+version: 2024-03-15
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20240130/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20240130-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20240130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Republik Kongo
 
-vom 22. Juni 2005 (Stand am 30. Januar 2024)
+vom 22. Juni 2005 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -139,9 +139,11 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^6-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^6-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 
