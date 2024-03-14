@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2023-11-28
+version: 2024-03-15
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20231128/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20231128-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20231128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (État le 28 novembre 2023)
+du 30 mars 2011 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -165,9 +165,11 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 **Déclaration obligatoire**
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.[^8-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+
+[^8-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 9
 

@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Ordinanza del 30 marzo 2011 che istituisce provvedimenti nei confronti della Libia
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: it
-version: 2023-11-28
+version: 2024-03-15
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20231128/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20231128-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20231128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Libia
 
-del 30 marzo 2011 (Stato 28 novembre 2023)
+del 30 marzo 2011 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -165,9 +165,11 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone[^8-1] e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^8-1]: N. 9 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 9
 
