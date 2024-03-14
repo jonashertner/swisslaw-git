@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2024-03-12
+version: 2024-03-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240312/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240312-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240312/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 12 mars 2024)
+du 8 juin 2012 (État le 15 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -464,9 +464,11 @@ Le Secrétariat d’État aux migrations (SEM)[^17-1] peut accorder des dérogat
 
 **Déclaration obligatoire**
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 10, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 10, al. 1, doivent le déclarer sans délai au SECO.[^19-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
+
+[^19-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 20
 

@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2024-03-12
+version: 2024-03-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240312/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240312-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240312/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 12 marzo 2024)
+dell’8 giugno 2012 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -466,9 +466,11 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 10 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone[^19-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 10 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^19-1]: N. 12 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 20
 

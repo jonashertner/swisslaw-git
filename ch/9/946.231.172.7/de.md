@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2024-03-12
+version: 2024-03-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240312/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240312-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240312/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20240315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20240315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 12. März 2024)
+vom 8. Juni 2012 (Stand am 15. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -464,9 +464,11 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 **Meldepflichten**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 10 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 10 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^19-1]
 
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^19-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 20
 
