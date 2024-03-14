@@ -3,18 +3,18 @@ sr: "946.231.123.6"
 title: Ordinanza del 14 marzo 2014 che istituisce provvedimenti nei confronti della Repubblica Centrafricana
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/150"
 language: it
-version: 2023-06-01
+version: 2024-03-15
 adopted: 2014-03-14
 in_force: 2014-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2014-150-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2014-150-20240315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20240315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Centrafricana
 
-del 14 marzo 2014 (Stato 1° giugno 2023)
+del 14 marzo 2014 (Stato 15 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -159,9 +159,11 @@ Ai sensi della presente ordinanza si intende per:
 
 **Dichiarazioni obbligatorie**
 
-<sup>1</sup> Le persone fisiche e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone[^6-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
 
 <sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+[^6-1]: N. 5 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
 
 #### Art. 7
 
