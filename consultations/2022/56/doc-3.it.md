@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica di ordinanze nell’ambito della protezione degli animali
 document: Progetto posto in consultazione-2
 language: it

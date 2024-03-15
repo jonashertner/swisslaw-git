@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision von Verordnungen im Tierschutzbereich
 document: Vernehmlassungsvorlage-3
 language: de

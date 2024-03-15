@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification des ordonnances dans le domaine de la protection des animaux
 document: Projet mis en consultation-2
 language: fr
