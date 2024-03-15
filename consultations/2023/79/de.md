@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung des EFD über die steuerbefreite Einfuhr von Gegenständen in kleinen Mengen, von unbedeutendem Wert oder mit geringfügigem Steuerbetrag"
 document: Vernehmlassungsvorlage
 language: de

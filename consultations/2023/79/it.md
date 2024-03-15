@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza del DFF concernente l’importazione esente dall’imposta di beni in piccole quantità, di valore minimo o il cui ammontare d’imposta è irrilevante"
 document: Progetto posto in consultazione
 language: it

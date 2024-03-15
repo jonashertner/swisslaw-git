@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance du DFF régissant la franchise d’impôt à l’importation de biens en petites quantités, d’une valeur minime ou pour lesquels le montant de l’impôt est insignifiant"
 document: Projet mis en consultation
 language: fr
