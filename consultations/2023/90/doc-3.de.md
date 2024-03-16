@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Netzzugangsverordnungen und der Fahrplanverordnung
 document: Vernehmlassungsvorlage-2
 language: de

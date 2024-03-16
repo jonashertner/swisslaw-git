@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Rapporto esplicativo sulla revisione delle ordinanze concernenti l’accesso alla rete ferroviaria e dell’ordinanza sugli orari
 document: Progetto posto in consultazione-3
 language: it

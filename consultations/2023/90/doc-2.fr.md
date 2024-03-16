@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision des ordonnances sur l’accès au réseau et sur l’horaire de transport
 document: Projet mis en consultation-3
 language: fr
