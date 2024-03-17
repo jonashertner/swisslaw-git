@@ -3,31 +3,25 @@ sr: "0.632.231.422"
 title: Accordo riveduto del 15 aprile 1994 sugli appalti pubblici
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/609_609_609"
 language: it
-version: 2021-01-01
+version: 2024-03-18
 adopted: 1994-04-15
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20240318/it/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20240318-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20240318/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo riveduto sugli appalti pubblici****
+# Accordo riveduto sugli appalti pubblici
 
 Traduzione[^t-1]
 
-Concluso a Marrakech il 15 aprile 1994
+Concluso a Marrakech il 15 aprile 1994 Approvato dall’Assemblea federale l’8 dicembre 1994[^t-2] Ratificato con strumento depositato dalla Svizzera il 19 dicembre 1995 Entrato in vigore per la Svizzera il 1° gennaio 1996
 
-Approvato dall’Assemblea federale l’8 dicembre 1994[^t-2]
-
-Ratificato con strumento depositato dalla Svizzera il 19 dicembre 1995
-
-Entrato in vigore per la Svizzera il 1° gennaio 1996
-
-(Stato 1° gennaio 2021)
+(Stato 18 marzo 2024)
 
 [^t-1]: RU **1996** 609; FF **1994** IV 1 Nuovo testo dell’Acc. riveduto giusta il n. 1 del Prot. del 30 mar. 2012, approvato dall’AF il 21 giu. 2019, in vigore per la Svizzera dal 1° gen. 2021 (RU **2020** 6493 6491; FF **2017** 1787).
-[^t-2]: Art. 1 cpv. 1 n. del DF dell’8 dic. 1994 ([RU 1995 2116](https://fedlex.data.admin.ch/eli/oc/1995/2116_2116_2116)).
+[^t-2]: Art. 1 cpv. 1 n. 1 del DF dell’8 dic. 1994 ([RU 1995 2116](https://fedlex.data.admin.ch/eli/oc/1995/2116_2116_2116)).
 
 Le Parti contraenti al presente Accordo
 
@@ -138,7 +132,7 @@ Le Parti specificano negli Allegati dell’Appendice le informazioni seguenti:
 
 <sup>5.</sup> Se, nell’ambito di un appalto disciplinato, il committente esige da persone non elencate negli Allegati dell’Appendice I delle Parti, la conclusione di contratti secondo particolari prescrizioni, l’articolo IV si applica mutatis mutandis a tali prescrizioni.
 
-[^II-subdivu1-1]: Le appendici e gli all. non sono pubblicati nella RU. Possono essere consultati su Internet all’indirizzo www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm
+[^II-subdivu1-1]: Le appendici e gli all. non sono pubblicati nella RU. Possono essere consultati su Internet all’indirizzo: [www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm](https://www.wto.org/french/tratop_f/gproc_f/appendices_f.htm)
 
 ### Valutazione
 
@@ -469,7 +463,7 @@ I committenti di cui all’Allegato 2 o 3 possono utilizzare come bando di gara 
 
 ### Informazioni sulle decisioni dei committenti
 
-<sup>14.</sup> I committenti comunicano senza indugio agli offerenti che chiedono di partecipare a un appalto o di essere iscritti in un elenco la sua decisione in merito alla richiesta.
+<sup>14.</sup> I committenti comunicano senza indugio agli offerenti che chiedono di partecipare a un appalto o di essere iscritti in un elenco la loro decisione in merito alla richiesta.
 
 <sup>15.</sup> Se il committente respinge la domanda di un offerente di partecipare a una gara d’appalto o di essere iscritto in un elenco, non riconosce più un offerente come qualificato o lo esclude da un elenco, ne informa senza indugio l’offerente e, su sua richiesta, gli fornisce tempestivamente una spiegazione scritta che motivi la sua decisione.
 
@@ -961,7 +955,7 @@ Ogni anno il Comitato:
 
 <sup>10.</sup> Non più tardi di cinque anni dalla data di entrata in vigore del Protocollo che modifica l’Accordo sugli appalti pubblici, il Comitato esamina l’applicabilità dell’articolo XX paragrafo 2 lettera b.
 
-[^XXII-subdivu5-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^XXII-subdivu5-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ### Emendamenti
 
@@ -998,11 +992,11 @@ Le Parti possono modificare il presente Accordo. La decisione di adottare un eme
 
 <sup>18.</sup> Il presente Accordo viene registrato conformemente alle disposizioni dell’articolo 102 dello Statuto delle Nazioni Unite[^XXII-subdivu12-1].
 
-[^XXII-subdivu12-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XXII-subdivu12-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Fatto a Marrakech il 15 aprile millenovecentonovantaquattro, in un solo esemplare, nelle lingue francese, inglese e spagnola, i tre testi facenti fede, salvo indicazione contraria riguardante le Appendici in allegato. (Seguono le firme)
 
-Campo d’applicazione il 2 luglio 2019**[^t-3]**
+Campo d’applicazione il 18 marzo 2024[^t-3]
 
 <table>
 <tr><td>Stati partecipanti</td><td>Ratificazione Adesione (A)</td><td></td><td>Entrata in vigore</td><td></td></tr>
@@ -1017,50 +1011,20 @@ Campo d’applicazione il 2 luglio 2019**[^t-3]**
 <tr><td>Islanda</td><td>28 aprile</td><td>2001 A</td><td>28 aprile</td><td>2001</td></tr>
 <tr><td>Israele</td><td>31 dicembre</td><td>1995</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Liechtenstein</td><td>18 settembre</td><td>1997 A</td><td>18 settembre</td><td>1997</td></tr>
+<tr><td>Macedonia del Nord</td><td>30 settembre</td><td>2023 A</td><td>30 ottobre</td><td>2023</td></tr>
 <tr><td>Moldova</td><td>14 luglio</td><td>2016 A</td><td>14 luglio</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>15 luglio</td><td>2015</td><td>15 luglio</td><td>2015</td></tr>
 <tr><td>Norvegia</td><td>7 dicembre</td><td>1994</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Nuova Zelanda</td><td>12 agosto</td><td>2015</td><td>12 agosto</td><td>2015</td></tr>
 <tr><td>Paesi-Bassi</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Aruba</td><td>25 ottobre</td><td>1996</td><td>25 ottobre</td><td>1996</td></tr>
+<tr><td>Regno Unito</td><td>1° gennaio</td><td>2021 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Singapore</td><td>20 ottobre</td><td>1997 A</td><td>20 ottobre</td><td>1997</td></tr>
 <tr><td>Stati Uniti</td><td>1° dicembre</td><td>1995</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Svizzera</td><td>19 dicembre</td><td>1995</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Ucraina</td><td>18 maggio</td><td>2016</td><td>18 maggio</td><td>2016</td></tr>
 <tr><td>Unione europea <sup>a</sup></td><td>30 dicembre</td><td>1994</td><td>1° gennaio</td><td>1996</td></tr>
-<tr><td colspan="5"><sup>a</sup> Unione europea concernente i suoi ventotto stati membri (con la data d’entrata in vigore): Austria, Belgio, Danimarca, Germania, Grecia, Finlandia, Francia, Irlanda, Italia, Lussemburgo, Paesi Bassi, Portogallo, Spagna, Svezia, Regno Unito, 1° gen. 1996; Cipro, Repubblica ceca, Estonia, Ungheria, Lettonia, Lituania, Malta, Polonia, Slovacchia, Slovenia, 1° mag. 2004; Bulgaria e Romania, 1° gen. 2007; Croazia, 1° lug. 2013.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Unione europea concernente i suoi ventisette stati membri (con la data d’entrata in vigore): Austria, Belgio, Danimarca, Germania, Grecia, Finlandia, Francia, Irlanda, Italia, Lussemburgo, Paesi Bassi, Portogallo, Spagna, Svezia, 1° gen. 1996; Cipro, Repubblica ceca, Estonia, Ungheria, Lettonia, Lituania, Malta, Polonia, Slovacchia, Slovenia, 1° mag. 2004; Bulgaria e Romania, 1° gen. 2007; Croazia, 1° lug. 2013.</td></tr>
 </table>
 
-## Campo d’applicazione dell’Accordo riveduto del 1° gennaio 2021****
-
-[^scopeu1-lvlu1-1]
-
-[^t-3]: [RU 1996 609](https://fedlex.data.admin.ch/eli/oc/1996/609_609_609), [2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10), [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385)e [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-[^scopeu1-lvlu1-1]: [RU 2020 6493](https://fedlex.data.admin.ch/eli/oc/2020/1061)
-
-<table>
-<tr><th>Stati parte</th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Armenia</td><td>6 giugno</td><td>2015</td></tr>
-<tr><td>Australia</td><td>5 maggio</td><td>2019</td></tr>
-<tr><td>Canada</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Cina</td><td></td><td></td></tr>
-<tr><td>Hong Kong</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Taïwan (Taipei cinese)</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Corea (Sud)</td><td>14 giugno</td><td>2016</td></tr>
-<tr><td>Giappone</td><td>16 aprile</td><td>2014</td></tr>
-<tr><td>Islanda</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Israele</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Liechtenstein</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Moldova</td><td>14 luglio</td><td>2016</td></tr>
-<tr><td>Montenegro</td><td>15 luglio</td><td>2015</td></tr>
-<tr><td>Norvegia</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Nuova Zelanda</td><td>12 agosto</td><td>2015</td></tr>
-<tr><td>Paesi Bassi</td><td></td><td></td></tr>
-<tr><td>Aruba</td><td>21 agosto</td><td>2014</td></tr>
-<tr><td>Regno Unito</td><td>1° gennaio</td><td>2021</td></tr>
-<tr><td>Singapore</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Stati Uniti</td><td>6 aprile</td><td>2014</td></tr>
-<tr><td>Svizzera</td><td>1° gennaio</td><td>2021</td></tr>
-<tr><td>Ucraina</td><td>18 maggio</td><td>2016</td></tr>
-<tr><td>Unione europea</td><td>6 aprile</td><td>2014</td></tr>
-</table>
+[^t-3]: [RU 2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10); [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385); [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422); [2024 119](https://fedlex.data.admin.ch/eli/oc/2024/119). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

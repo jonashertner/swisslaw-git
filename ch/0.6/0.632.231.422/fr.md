@@ -3,30 +3,24 @@ sr: "0.632.231.422"
 title: Accord révisé du 15 avril 1994 sur les marchés publics
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/609_609_609"
 language: fr
-version: 2021-01-01
+version: 2024-03-18
 adopted: 1994-04-15
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20240318/fr/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20240318-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20240318/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord révisé sur les marchés publics****
+# Accord révisé sur les marchés publics
 
 RO **1996** 609; FF **1994** IV 1[^t-1]
 
 Texte original
 
-Conclu à Marrakech le 15 avril 1994
+Conclu à Marrakech le 15 avril 1994 Approuvé par l’Assemblée fédérale le 8 décembre 1994[^t-2] Instrument de ratification déposé par la Suisse le 19 décembre 1995 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1996
 
-Approuvé par l’Assemblée fédérale le 8 décembre 1994[^t-2]
-
-Instrument de ratification déposé par la Suisse le 19 décembre 1995
-
-Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1996
-
-(Etat le 1<sup>er</sup> janvier 2021)
+(État le 18 mars 2024)
 
 [^t-1]: Nouvelle teneur de l’Ac. selon le ch. 1 du Prot. du 30 mars 2012 portant amendement de l’Accord sur les marchés publics, approuvé par l’Ass. féd. le 21 juin 2019 et en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6493](https://fedlex.data.admin.ch/eli/oc/2020/1061)[6491](https://fedlex.data.admin.ch/eli/oc/2020/1060); [FF 2017 1899](https://fedlex.data.admin.ch/eli/fga/2017/419)).
 [^t-2]: Art. 1 al. 1 ch. 1 de l’AF du 8 déc. 1994 ([RO 1995 2116](https://fedlex.data.admin.ch/eli/oc/1995/2116_2116_2116)).
@@ -142,7 +136,7 @@ Chaque Partie donnera les renseignements suivants dans les annexes de l’Append
 
 <sup>5.</sup> Dans les cas où une entité contractante, dans le contexte de marchés couverts, exigera de personnes non couvertes par les annexes de l’Appendice I concernant une Partie qu’elles passent des marchés conformément à des prescriptions particulières, l’art. IV s’appliquera, mutatis mutandis, à ces prescriptions.
 
-[^II-subdivu1-1]: Les appendices et annexes ne sont pas publiés au RO. Ils peuvent être consultés sur internet à l’adresse www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm
+[^II-subdivu1-1]: Les appendices et annexes ne sont pas publiés au RO. Ils peuvent être consultés sur internet à l’adresse [www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm](https://www.wto.org/french/tratop_f/gproc_f/appendices_f.htm)
 
 ### Évaluation
 
@@ -963,7 +957,7 @@ Chaque année, le Comité:
 
 <sup>10.</sup> Au plus tard à la fin de la cinquième année à compter de la date d’entrée en vigueur du Protocole portant amendement de l’Accord sur les marchés publics, le Comité examinera l’applicabilité de l’art. XX:2 b).
 
-[^XXII-subdivu5-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^XXII-subdivu5-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ### Amendements
 
@@ -1000,9 +994,9 @@ Les Parties pourront amender le présent Accord. Une décision visant à adopter
 
 <sup>18.</sup> Le présent Accord sera enregistré conformément aux dispositions de l’art. 102 de la Charte des Nations Unies[^XXII-subdivu12-1].
 
-[^XXII-subdivu12-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XXII-subdivu12-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-Champ d’application de l’accord le 2 juillet 2019**[^t-3]**
+Champ d’application de l’accord le 18 mars 2024[^t-3]
 
 <table>
 <tr><td>États parties</td><td colspan="2">Ratification Adhésion (A)</td><td colspan="2"></td><td colspan="2">Entrée en vigueur</td><td colspan="2"></td></tr>
@@ -1013,54 +1007,24 @@ Champ d’application de l’accord le 2 juillet 2019**[^t-3]**
 <tr><td>Hong Kong</td><td colspan="2">19 juin</td><td colspan="2">1997 A</td><td colspan="2">19 juin</td><td colspan="2">1997</td></tr>
 <tr><td>Taïwan (Taipei chinois)</td><td colspan="2">15 juillet</td><td colspan="2">2009</td><td colspan="2">15 juillet</td><td colspan="2">2009</td></tr>
 <tr><td>Corée (Sud)</td><td colspan="2">22 décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
-<tr><td>états-Unis</td><td colspan="2">1<sup>er</sup> décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
+<tr><td>États-Unis</td><td colspan="2">1<sup>er</sup> décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Islande</td><td colspan="2">28 avril</td><td colspan="2">2001 A</td><td colspan="2">28 avril</td><td colspan="2">2001</td></tr>
 <tr><td>Israël</td><td colspan="2">31 décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Japon</td><td colspan="2">5 décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Liechtenstein</td><td colspan="2">18 septembre</td><td colspan="2">1997 A</td><td colspan="2">18 septembre</td><td colspan="2">1997</td></tr>
+<tr><td>Macédoine du Nord</td><td colspan="2">30 septembre</td><td colspan="2">2023 A</td><td colspan="2">30 octobre</td><td colspan="2">2023</td></tr>
 <tr><td>Moldova</td><td colspan="2">14 juillet</td><td colspan="2">2016 A</td><td colspan="2">14 juillet</td><td colspan="2">2016</td></tr>
 <tr><td>Monténégro</td><td colspan="2">15 juillet</td><td colspan="2">2015</td><td colspan="2">15 juillet</td><td colspan="2">2015</td></tr>
 <tr><td>Norvège</td><td colspan="2">7 décembre</td><td colspan="2">1994</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Nouvelle-Zélande</td><td colspan="2">12 août</td><td colspan="2">2015</td><td colspan="2">12 août</td><td colspan="2">2015</td></tr>
 <tr><td>Pays-Bas</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td>Aruba</td><td colspan="2">25 octobre</td><td colspan="2">1996</td><td colspan="2">25 octobre</td><td colspan="2">1996</td></tr>
+<tr><td>Royaume-Uni</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">2021 A</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">2021</td></tr>
 <tr><td>Singapour</td><td colspan="2">20 octobre</td><td colspan="2">1997 A</td><td colspan="2">20 octobre</td><td colspan="2">1997</td></tr>
 <tr><td>Suisse</td><td colspan="2">19 décembre</td><td colspan="2">1995</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
-<tr><td>Union européenne <sup>a</sup></td><td colspan="2">30 décembre</td><td colspan="2">1994</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Ukraine</td><td colspan="2">18 mai</td><td colspan="2">2016</td><td colspan="2">18 mai</td><td colspan="2">2016</td></tr>
-<tr><td colspan="9"><sup>a</sup> Union européenne en ce qui concerne ses 28 États parties (avec date d’entrée en vigueur): Allemagne, Autriche, Belgique, Danemark, Espagne, Finlande, France, Grèce, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Suède, Royaume-Uni, 1<sup>er</sup> janvier 1996; Chypre, Estonie, Hongrie, Lettonie, Lituanie, Malte, Pologne, République tchèque, Slovaquie, Slovénie, 1<sup>er</sup> mai 2004; Bulgarie et Roumanie, 1<sup>er</sup> janvier 2007; Croatie, 1<sup>er</sup> juillet 2013.</td></tr>
+<tr><td>Union européenne <sup>a</sup></td><td colspan="2">30 décembre</td><td colspan="2">1994</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1996</td></tr>
+<tr><td colspan="9"><sup>a</sup> Union européenne en ce qui concerne ses 27 États parties (avec date d’entrée en vigueur): Allemagne, Autriche, Belgique, Danemark, Espagne, Finlande, France, Grèce, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Suède, 1<sup>er</sup> janvier 1996; Chypre, Estonie, Hongrie, Lettonie, Lituanie, Malte, Pologne, République tchèque, Slovaquie, Slovénie, 1<sup>er</sup> mai 2004; Bulgarie et Roumanie, 1<sup>er</sup> janvier 2007; Croatie, 1<sup>er</sup> juillet 2013.</td></tr>
 </table>
 
-## Champ d’application de l’accord révisé du 1<sup>er</sup> janvier 2021****
-
-[^scopeu1-lvlu1-1]
-
-[^t-3]: [RO 1996 609](https://fedlex.data.admin.ch/eli/oc/1996/609_609_609), [2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10), [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385), [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-[^scopeu1-lvlu1-1]: [RO 2020 6493](https://fedlex.data.admin.ch/eli/oc/2020/1061)
-
-<table>
-<tr><th>États parties</th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Arménie</td><td>6 juin</td><td>2015</td></tr>
-<tr><td>Australie</td><td>5 mai</td><td>2019</td></tr>
-<tr><td>Canada</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Chine</td><td></td><td></td></tr>
-<tr><td>Hong Kong</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Taïwan (Taipei chinois)</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Corée (Sud)</td><td>14 juin</td><td>2016</td></tr>
-<tr><td>États-Unis</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Islande</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Israël</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Japon</td><td>16 avril</td><td>2014</td></tr>
-<tr><td>Liechtenstein</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Moldova</td><td>14 juillet</td><td>2016</td></tr>
-<tr><td>Monténégro</td><td>15 juillet</td><td>2015</td></tr>
-<tr><td>Norvège</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Nouvelle-Zélande</td><td>12 août</td><td>2015</td></tr>
-<tr><td>Pays-Bas</td><td></td><td></td></tr>
-<tr><td>Aruba</td><td>21 août</td><td>2014</td></tr>
-<tr><td>Royaume-Uni</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
-<tr><td>Singapour</td><td>6 avril</td><td>2014</td></tr>
-<tr><td>Suisse</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
-<tr><td>Ukraine</td><td>18 mai</td><td>2016</td></tr>
-<tr><td>Union européenne</td><td>6 avril</td><td>2014</td></tr>
-</table>
+[^t-3]: [RO 2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10); [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385); [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422); [2024 119](https://fedlex.data.admin.ch/eli/oc/2024/119). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

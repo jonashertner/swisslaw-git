@@ -3,16 +3,16 @@ sr: "0.632.231.422"
 title: Revidiertes Übereinkommen vom 15. April 1994 über das öffentliche Beschaffungswesen
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/609_609_609"
 language: de
-version: 2021-01-01
+version: 2024-03-18
 adopted: 1994-04-15
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/609_609_609/20240318/de/xml/fedlex-data-admin-ch-eli-cc-1996-609_609_609-20240318-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/609_609_609/20240318/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Revidiertes Übereinkommen über das öffentliche Beschaffungswesen****
+# Revidiertes Übereinkommen über das öffentliche Beschaffungswesen
 
 AS **1996** 609; BBl **1994** IV 1[^t-1]
 
@@ -20,7 +20,7 @@ AS **1996** 609; BBl **1994** IV 1[^t-1]
 
 Abgeschlossen in Marrakesch am 15. April 1994 Von der Bundesversammlung genehmigt am 8. Dezember 1994[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 19. Dezember 1995 In Kraft getreten für die Schweiz am 1. Januar 1996
 
-(Stand am 1. Januar 2021)
+(Stand am 18. März 2024)
 
 [^t-1]: Fassung des revidierten Übereinkommens gemäss Ziff. 1 des Prot. vom 30. März 2012, von der BVers genehmigt am 21. Juni 2019 und in Kraft für die Schweiz seit 1. Jan. 2021 ([AS 2020 6493](https://fedlex.data.admin.ch/eli/oc/2020/1061)[6491](https://fedlex.data.admin.ch/eli/oc/2020/1060); [BBl 2017 2053](https://fedlex.data.admin.ch/eli/fga/2017/419)).
 [^t-2]: Art. 1 Abs. 1 Ziff. 1 des BB vom 8. Dez. 1994 ([AS 1995 2116](https://fedlex.data.admin.ch/eli/oc/1995/2116_2116_2116)).
@@ -136,7 +136,7 @@ Die Vertragsparteien machen in den Annexen zu Anhang I folgende Angaben:
 
 <sup>5.</sup> Fordert ein Auftraggeber im Rahmen einer unterstellten Beschaffung von Personen, die nicht unter die Annexe einer Partei zu Anhang I fallen, dass sie Beschaffungen nach besonderen Vorschriften durchführen, so gilt Artikel IV sinngemäss.
 
-[^II-subdivu1-1]: Die Anhänge und Annexe werden in der AS nicht publiziert. Sie können im Internet unter www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm konsultiert werden.
+[^II-subdivu1-1]: Die Anhänge und Annexe werden in der AS nicht publiziert. Sie können im Internet unter: [www.wto.org/french/tratop\_f/gproc\_f/appendices\_f.htm](http://www.wto.org/french/tratop_f/gproc_f/appendices_f.htm) konsultiert werden.
 
 ### Bewertung
 
@@ -959,7 +959,7 @@ Der Ausschuss hat jährlich:
 
 <sup>10.</sup> Der Ausschuss prüft spätestens fünf Jahre nach Inkrafttreten dieses Protokolls zur Änderung des Übereinkommens über das öffentliche Beschaffungswesen die Anwendbarkeit von Artikel XX Absatz 2 Buchstabe b).
 
-[^XXII-subdivu5-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^XXII-subdivu5-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ### Änderungen
 
@@ -998,11 +998,11 @@ Die Vertragsparteien können dieses Übereinkommen ändern. Der Beschluss, eine 
 
 Geschehen zu Marrakesch am fünfzehnten April neunzehnhundertvierundneunzig in einem einzigen Exemplar in englischer, französischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, sofern nicht in Listen der Beschaffungsstellen im Anhang zu diesem Übereinkommen etwas anderes gesagt ist.
 
-[^XXII-subdivu12-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XXII-subdivu12-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. Juli 2019**[^t-3]**
+Geltungsbereich am 18. März 2024[^t-3]
 
 <table>
 <tr><td colspan="2">Vertragsstaaten</td><td colspan="4">Ratifikation Beitritt (B)</td><td colspan="4">Inkrafttreten</td></tr>
@@ -1023,44 +1023,14 @@ Geltungsbereich am 2. Juli 2019**[^t-3]**
 <tr><td colspan="2">Neuseeland</td><td colspan="2">12. August</td><td colspan="2">2015</td><td colspan="2">12. August</td><td colspan="2">2015</td></tr>
 <tr><td colspan="2">Niederlande</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2">Aruba</td><td colspan="2">25. Oktober</td><td colspan="2">1996</td><td colspan="2">25. Oktober</td><td colspan="2">1996</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td colspan="2">30. September</td><td colspan="2">2023 B</td><td colspan="2">30. Oktober</td><td colspan="2">2023</td></tr>
 <tr><td colspan="2">Norwegen</td><td colspan="2">7. Dezember</td><td colspan="2">1994</td><td colspan="2">1. Januar</td><td colspan="2">1996</td></tr>
 <tr><td colspan="2">Schweiz</td><td colspan="2">19. Dezember</td><td colspan="2">1995</td><td colspan="2">1. Januar</td><td colspan="2">1996</td></tr>
 <tr><td>Singapur</td><td colspan="3">20. Oktober</td><td colspan="2">1997 B</td><td colspan="2">20. Oktober</td><td colspan="2">1997</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">18. Mai</td><td colspan="2">2016</td><td colspan="2">18. Mai</td><td colspan="2">2016</td></tr>
+<tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">1. Januar</td><td colspan="2">2021 B</td><td colspan="2">1. Januar</td><td colspan="2">2021</td></tr>
 <tr><td colspan="2">Vereinigte Staaten von Amerika</td><td colspan="2">1. Dezember</td><td colspan="2">1995</td><td colspan="2">1. Januar</td><td colspan="2">1996</td></tr>
-<tr><td colspan="10"><sup>a</sup> Europäische Union in Bezug auf ihre 28 Mitgliedstaaten (mit Datum des Inkrafttretens): Belgien, Dänemark, Deutschland, Finnland, Frankreich, Griechenland, Irland, Italien, Luxemburg, Niederlande, Österreich, Portugal, Spanien, Schweden, Vereinigtes Königreich, 1. Januar 1996; Estland, Lettland, Litauen, Malta, Polen, Slowakei und Slowenien, Tschechische Republik, Ungarn, Zypern, 1. Mai 2004; Bulgarien und Rumänien, 1. Januar 2007; Kroatien, 1. Juli 2013</td></tr>
+<tr><td colspan="10"><sup>a</sup> Europäische Union in Bezug auf ihre 27 Mitgliedstaaten (mit Datum des Inkrafttretens): Belgien, Dänemark, Deutschland, Finnland, Frankreich, Griechenland, Irland, Italien, Luxemburg, Niederlande, Österreich, Portugal, Spanien, Schweden, 1. Januar 1996; Estland, Lettland, Litauen, Malta, Polen, Slowakei und Slowenien, Tschechische Republik, Ungarn, Zypern, 1. Mai 2004; Bulgarien und Rumänien, 1. Januar 2007; Kroatien, 1. Juli 2013.</td></tr>
 </table>
 
-## Geltungsbereich des Revidierten Übereinkommens, am 1. Januar 2021****
-
-[^scopeu1-lvlu1-1]
-
-[^t-3]: [AS 1996 609](https://fedlex.data.admin.ch/eli/oc/1996/609_609_609), [2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10), [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385), [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-[^scopeu1-lvlu1-1]: [AS 2020 6493](https://fedlex.data.admin.ch/eli/oc/2020/1061)
-
-<table>
-<tr><td>Vertragsstaaten</td><td>Inkrafttreten</td><td></td></tr>
-<tr><td>Armenien</td><td>6. Juni</td><td>2015</td></tr>
-<tr><td>Australien</td><td>5. Mai</td><td>2019</td></tr>
-<tr><td>China</td><td></td><td></td></tr>
-<tr><td>Hongkong</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Taiwan (Chinesisches Taipei)</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Europäische Union</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Island</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Israel</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Japan</td><td>16. April</td><td>2014</td></tr>
-<tr><td>Kanada</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Korea (Süd)</td><td>14. Juni</td><td>2016</td></tr>
-<tr><td>Liechtenstein</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Moldau</td><td>14. Juli</td><td>2016</td></tr>
-<tr><td>Montenegro</td><td>15. Juli</td><td>2015</td></tr>
-<tr><td>Neuseeland</td><td>12. August</td><td>2015</td></tr>
-<tr><td>Niederlande</td><td></td><td></td></tr>
-<tr><td>Aruba</td><td>21. August</td><td>2014</td></tr>
-<tr><td>Norwegen</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Schweiz</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Singapur</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Ukraine</td><td>18. Mai</td><td>2016</td></tr>
-<tr><td>Vereinigte Staaten</td><td>6. April</td><td>2014</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>1. Januar</td><td>2021</td></tr>
-</table>
+[^t-3]: [AS 2014 97](https://fedlex.data.admin.ch/eli/oc/2014/10); [2016 2371](https://fedlex.data.admin.ch/eli/oc/2016/385); [2019 2249](https://fedlex.data.admin.ch/eli/oc/2019/422); [2024 119](https://fedlex.data.admin.ch/eli/oc/2024/119). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
