@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-03-15
+version: 2024-03-20
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240320/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240320-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 15 marzo 2024)
+del 4 marzo 2022 (Stato 20 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -778,6 +778,18 @@ Il divieto di cui al capoverso 1 non si applica:
 <sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo e dei diamanti contenuti nei prodotti con diamanti. La prova deve essere indicata sulla dichiarazione doganale.
 
 [^14e-1]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024, cpv. 3 dal 1° set. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
+#### Art. 14f
+
+**Obbligo contrattuale di impedire la riesportazione**[^14f-1]
+
+<sup>1</sup> All’atto della vendita, fornitura, esportazione, trasporto e transito di beni elencati negli allegati 3 e 19 e di beni ad alta priorità di cui all’allegato 31 a un Paese terzo al di fuori dello SEE o di un suo partner, l’esportatore vieta per contratto la riesportazione di tali beni nella Federazione Russa e per un uso nella Federazione Russa.
+
+<sup>2</sup> I contratti con la controparte di cui al capoverso 1 prevedono adeguate misure correttive per i casi di violazione.
+
+<sup>3</sup> Gli esportatori notificano senza indugio alla SECO le violazioni di cui al capoverso 2.
+
+[^14f-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 20 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 ## Sezione 3: Restrizioni finanziarie
 
@@ -1905,7 +1917,7 @@ L’articolo 24*a* capoverso 1 non si applica:
 
 <sup>28</sup> L’articolo 28*e* capoverso 1<sup>quater</sup> non si applica agli affari necessari per porre fine entro il 3 maggio 2024 ai contratti stipulati prima del 1° febbraio 2024 incompatibili con l’articolo 28*e*.[^35-28]
 
-<sup>29</sup> ...[^35-29]
+<sup>29</sup> L’articolo 14*f* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 1° febbraio 2024 ed eseguiti entro il 20 dicembre 2024 o i cui contratti sono scaduti, a seconda dell’evento che si verifica per primo.[^35-29]
 
 <sup>30</sup>
 
@@ -1942,7 +1954,7 @@ L’articolo 14*c* non si applica agli affari riguardanti:
 [^35-26]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-27]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-28]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-29]: In vigore dal 20 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-29]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 20 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-30]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 36

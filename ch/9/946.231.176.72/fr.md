@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-03-15
+version: 2024-03-20
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240320/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240320-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 15 mars 2024)
+du 4 mars 2022 (État le 20 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -776,6 +776,18 @@ L’interdiction prévue à l’al. 1 ne s’applique pas:
 
 [^14e-1]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024, sous réserve de l’al. 4 en vigueur depuis le 1<sup>er</sup> mars 2024 et de l’al. 3 en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
+#### Art. 14f
+
+**Obligation contractuelle en vue d’empêcher une réexportation**[^14f-1]
+
+<sup>1</sup> Lors de la vente, de la livraison, de l’exportation, du transport et du transit de biens visés aux annexes 3 et 19 et de biens hautement prioritaires visés à l’annexe 31 à destination d’un État tiers en dehors de l’EEE ou d’un partenaire, les exportateurs interdisent contractuellement à leur contrepartie la réexportation de ces biens vers la Fédération de Russie ou aux fins d’une utilisation en Fédération de Russie.
+
+<sup>2</sup> Le contrat avec la contrepartie visé à l’al. 1 prévoit des voies de recours adéquates en cas d’infraction.
+
+<sup>3</sup> Les exportateurs déclarent sans délai au SECO les infractions visées à l’al. 2.
+
+[^14f-1]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 20 mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+
 ## Section 3 Restrictions financières
 
 #### Art. 15
@@ -954,14 +966,13 @@ Il peut autoriser le déblocage de certains avoirs ou ressources économiques ge
 
 **Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.[^16-1]
+<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-2]
+<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-1]
 
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
 
-[^16-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
-[^16-2]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-1]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 17
 
@@ -1901,7 +1912,7 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 
 <sup>28</sup> L’art. 28*e*, al. 1<sup>quater</sup>, ne s’applique pas aux opérations nécessaires pour mettre fin, au plus tard le 3 mai 2024, aux contrats conclus avant le 1<sup>er</sup> février 2024 qui ne sont pas conformes aux dispositions dudit article.[^35-28]
 
-<sup>29</sup> …[^35-29]
+<sup>29</sup> L’art. 14*f*, al. 1, ne s’applique pas aux opérations régies par un contrat antérieur au 1<sup>er</sup> février 2024 et exécutées jusqu’au 20 décembre 2024 ou jusqu’à l’échéance du contrat, la date antérieure étant retenue.[^35-29]
 
 <sup>30</sup>
 
@@ -1938,7 +1949,7 @@ L’art. 14*c* ne s’applique pas aux opérations portant sur:
 [^35-26]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-27]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-28]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-29]: Entre en vigueur le 20 mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-29]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 20 mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-30]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 36
