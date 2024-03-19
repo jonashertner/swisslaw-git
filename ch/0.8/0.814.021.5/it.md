@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 15 ottobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: it
-version: 2024-02-23
+version: 2024-03-20
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20240223/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20240223-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20240223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20240320/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20240320-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20240320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2018** 5421
 
 Adottato dalla 28<sup>a</sup> riunione delle Parti a Kigali il 15 ottobre 2016 Ratificato con strumento depositato dalla Svizzera il 7 novembre 2018 Entrato in vigore per la Svizzera il 1° gennaio 2019
 
-(Stato 23 febbraio 2024)
+(Stato 20 marzo 2024)
 
 Traduzione
 
@@ -341,7 +341,7 @@ Ogni Parte può, in qualsiasi momento prima che il presente emendamento entri in
 
 (Seguono le firme)
 
-Campo d’applicazione il 23 febbraio 2024[^t-1]
+Campo d’applicazione il 20 marzo 2024[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -404,10 +404,12 @@ Campo d’applicazione il 23 febbraio 2024[^t-1]
 <tr><td>Germania\*\*</td><td>14 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Ghana</td><td>2 agosto</td><td>2019</td><td>31 ottobre</td><td>2019</td></tr>
 <tr><td>Giappone</td><td>18 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Gibuti</td><td>8 marzo</td><td>2024</td><td>6 giugno</td><td>2024</td></tr>
 <tr><td>Giordania</td><td>16 ottobre</td><td>2019</td><td>14 gennaio</td><td>2020</td></tr>
 <tr><td>Grecia\*</td><td>5 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Grenada</td><td>29 maggio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Guatemala</td><td>11 gennaio</td><td>2024</td><td>10 aprile</td><td>2024</td></tr>
+<tr><td>Guinea</td><td>5 dicembre</td><td>2019</td><td>4 marzo</td><td>2020</td></tr>
 <tr><td>Guinea-Bissau</td><td>22 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>28 gennaio</td><td>2019</td><td>28 aprile</td><td>2019</td></tr>
 <tr><td>India</td><td>27 settembre</td><td>2021</td><td>26 dicembre</td><td>2021</td></tr>
@@ -478,6 +480,7 @@ Campo d’applicazione il 23 febbraio 2024[^t-1]
 <tr><td>Siria</td><td>5 aprile</td><td>2021</td><td>4 luglio</td><td>2021</td></tr>
 <tr><td>Slovacchia</td><td>16 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Slovenia</td><td>7 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Somalia</td><td>27 novembre</td><td>2019</td><td>25 febbraio</td><td>2020</td></tr>
 <tr><td>Spagna</td><td>9 giugno</td><td>2023</td><td>7 settembre</td><td>2023</td></tr>
 <tr><td>Sri Lanka</td><td>28 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Stati Uniti</td><td>31 ottobre</td><td>2022</td><td>29 gennaio</td><td>2023</td></tr>
@@ -502,7 +505,7 @@ Campo d’applicazione il 23 febbraio 2024[^t-1]
 <tr><td>Vietnam</td><td>27 settembre</td><td>2019</td><td>26 dicembre</td><td>2019</td></tr>
 <tr><td>Zambia</td><td>15 marzo</td><td>2021</td><td>13 giugno</td><td>2021</td></tr>
 <tr><td>Zimbabwe</td><td>18 ottobre</td><td>2022</td><td>16 gennaio</td><td>2023</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le Riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> L’Emendamento al Prot. di Montreal non si applica alla Groenlandia. <sup>b</sup> L’Emendamento al Prot. di Montreal non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> L’Emendamento al Prot. di Montreal non si applica alla Groenlandia. <sup>b</sup> L’Emendamento al Prot. di Montreal non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90), [126](https://fedlex.data.admin.ch/eli/oc/2024/126). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
