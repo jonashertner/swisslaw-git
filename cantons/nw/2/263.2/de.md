@@ -4,12 +4,12 @@ number: "263.2"
 title: Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten
 language: de
 version: 2020-01-01
-valid_until: 2024-10-22
+corrected: 2024-03-20
 version_adopted: 2020-04-20
 adopted: 2010-10-12
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/263.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/1264/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -141,7 +141,7 @@ vereinbaren:
 
 **Inkrafttreten und Kündigung**
 
-<sup>1</sup> Die Vereinbarung tritt nach Unterzeichnung durch die Vertragsparteien und unter dem Vorbehalt, dass der Landrat Nidwalden dieser Vereinbarung zustimmt sowie die erforderliche Stellenaufstockung bewilligt, am 1. Januar 2011 in Kraft.
+<sup>1</sup> Die Vereinbarung tritt nach Unterzeichnung durch die Vertragsparteien und unter den Vorbehalt, dass der Landrat Nidwalden dieser Vereinbarung zustimmt sowie die erforderliche Stellenaufstockung bewilligt, am 1. Januar 2011 in Kraft.
 
 <sup>2</sup> Sie kann unter Beobachtung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden.
 
