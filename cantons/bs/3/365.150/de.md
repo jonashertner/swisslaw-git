@@ -3,22 +3,22 @@ canton: BS
 number: "365.150"
 title: Reglement betreffend das Halten von Hunden
 language: de
-version: 2019-09-12
-valid_until: 2024-03-20
-version_adopted: 2019-07-15
+version: 2024-03-21
+valid_until: 2024-09-11
+version_adopted: 2024-03-14
 adopted: 2011-04-21
 in_force: 2011-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/365.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4704/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend das Halten von Hunden
 
-Hundehaltung: Reglement | Tierhaltung und Tierschutz
+Tierhaltung und Tierschutz
 
-Vom 21. April 2011 (Stand 12. September 2019)
+Vom 21. April 2011 (Stand 21. März 2024)
 
 Das Veterinäramt Basel-Stadt,
 
@@ -138,8 +138,7 @@ beschliesst:
   - 10\. Sarasinpark
   - 11\. Wenkenhofpark (Ausgenommen an der Leine auf der Wegachse Wenkenmattweg-Hellring, auf dem Zugangsweg zu Reithalle/Café und auf Fusswegen der Terrassenanlage im Teil westlich der Bettingerstrasse)
   - 12\. Wettsteinanlage: Parkanlagen (Ausgenommen Promenade zwischen Kilchgässli und Sieglinweg: Leinenpflicht)
-- c) Bettingen
-  - 1\. Mattenwegli
+- c) …
 
 [^4-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
 
@@ -202,7 +201,7 @@ beschliesst:
   - 6\. Wenkenhofpark: Auf der Wegachse Wenkenmattweg-Hellring, auf dem Zugangsweg zu Reithalle/Café und auf Fusswegen der Terrassenanlage im Teil westlich der Bettingerstrasse
   - 7\. Wettsteinanlage: Promenade zwischen Kilchgässli und Sieglinweg
 - c) Bettingen
-  - 1\. Parkplatz, Wiese (Wiese zwischen Parkplatz Gottesacker)
+  - 1\. Mattenwegli inkl. Vorplatz Schwimmbadeingang
 
 ## 3. Strafbestimmungen
 
