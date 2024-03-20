@@ -3,11 +3,11 @@ sr: "0.814.06"
 title: "Convenzione del 25 febbraio 1991 sulla valutazione dell'impatto ambientale in un contesto transfrontaliero (Conv. di Espoo) (con appendici)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/610"
 language: it
-version: 2017-10-23
+version: 2024-03-21
 adopted: 1991-02-25
 in_force: 1997-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20171023/it/xml/fedlex-data-admin-ch-eli-cc-2003-610-20171023-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20171023/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20240321/it/xml/fedlex-data-admin-ch-eli-cc-2003-610-20240321-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20240321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione di Espoo)
 
-Conclusa a Espoo il 25 febbraio 1991
+Conclusa a Espoo il 25 febbraio 1991 Approvata dall’Assemblea federale il 13 giugno 1996[^t-1] Ratificata con strumenti depositati dalla Svizzera il 16 settembre 1996 Entrata in vigore per la Svizzera il 10 settembre 1997
 
-Approvata dall’Assemblea federale il 13 giugno 1996[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 16 settembre 1996
-
-Entrata in vigore per la Svizzera il 10 settembre 1997
-
-(Stato 23 ottobre 2017)
+(Stato 21 marzo 2024)
 
 [^t-1]: [RU 2003 4091](https://fedlex.data.admin.ch/eli/oc/2003/609)
 
@@ -344,7 +338,7 @@ L’originale della presente Convenzione, i cui testi in lingua francese, ingles
 
 *In fede di che*, i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Espoo (Finlandia), il venticinque febbraio millenovecentonovantuno. (Seguono le firme)
 
-Appendice I*[^t-2]*
+Appendice I[^t-2]
 
 ## Lista delle attività
 
@@ -431,7 +425,7 @@ L’informazione che deve essere contenuta nella documentazione concernente la v
 - h) se del caso, uno schema di programmi di monitoraggio e di gestione, nonché eventuali piani per un’analisi successiva del progetto;
 - i) un sommario non tecnico accompagnato, se del caso, da una presentazione visiva (carte, grafici, ecc.).
 
-Appendice III*[^t-3]*
+Appendice III[^t-3]
 
 ## Criteri generali volti ad agevolare la determinazione dell’impatto ambientale causato da attività che non compaiono nella lista dell’Appendice I
 
@@ -445,7 +439,7 @@ Appendice III*[^t-3]*
 
 \2. Le Parti interessate esamineranno sotto questo punto di vista le attività previste localizzate in prossimità di una frontiera internazionale nonché le attività previste il cui sito è più distante e che potrebbero avere effetti transfrontalieri importanti a grande distanza.
 
-Appendice IV*[^t-4]*
+Appendice IV[^t-4]
 
 ## Procedura d’inchiesta
 
@@ -482,7 +476,7 @@ Appendice IV*[^t-4]*
 
 \14. Il parere definitivo della Commissione d’inchiesta è basato su principi scientifici riconosciuti. La Commissione d’inchiesta comunica il suo parere definitivo alle parti alla procedura d’inchiesta ed al Segretariato.
 
-Appendice V*[^t-5]*
+Appendice V[^t-5]
 
 ## Analisi successiva al progetto
 
@@ -494,7 +488,7 @@ Tale analisi ha come scopo:
 - b) di esaminare ogni impatto ai fini di una gestione corretta e per far fronte alle incertezze;
 - c) di verificare l’esattezza delle previsioni precedenti al fine di utilizzare l’esperienza acquisita per future attività dello stesso tipo.
 
-Appendice VI*[^t-6]*
+Appendice VI[^t-6]
 
 ## Elementi della cooperazione bilaterale e multilaterale
 
@@ -557,7 +551,7 @@ Appendice VII
 
 \18. Ogni controversia tra le Parti riguardo all’interpretazione o all’esecuzione della sentenza può essere sottoposta da una delle parti al Tribunale arbitrale che ha pronunciato tale sentenza oppure, se quest’ultimo non può esserne investito, ad un altro Tribunale a tal fine istituito nella stessa maniera del primo.
 
-Campo d’applicazione il 14 gennaio 2016**[^t-7]**
+Campo d’applicazione il 14 gennaio 2016[^t-7]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -612,67 +606,82 @@ Campo d’applicazione il 14 gennaio 2016**[^t-7]**
 <tr><td>Ucraina</td><td>20 luglio</td><td>1999</td><td>18 ottobre</td><td>1999</td></tr>
 <tr><td>Ungheria</td><td>11 luglio</td><td>1997</td><td>9 ottobre</td><td>1997</td></tr>
 <tr><td>Unione europea\*</td><td>24 giugno</td><td>1997</td><td>10 settembre</td><td>1997</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi originali si possono consultare sotto: http://treaties.un.org/ od ottenere presso il DDIP/DFAE, Sezione trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> 30.09.1993: successione alla firma della Cecoslovacchia che aveva firmato la Conv. il 30.08.1991.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
-<tr><td colspan="5"><sup>c</sup> 28.05.1993: successione alla firma della Cecoslovacchia che aveva firmato la Conv. il 30.08.1991.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi originali si possono consultare sotto: http://treaties.un.org/ od ottenere presso il DDIP/DFAE, Sezione trattati internazionali, 3003 Berna. <sup>a</sup> 30.09.1993: successione alla firma della Cecoslovacchia che aveva firmato la Conv. il 30.08.1991. <sup>b</sup> Per il Regno in Europa. <sup>c</sup> 28.05.1993: successione alla firma della Cecoslovacchia che aveva firmato la Conv. il 30.08.1991.</td></tr>
 </table>
 
-[^t-7]: [RU 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610), [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544), [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328)e [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-7]: [RU 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610), [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544), [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328)e [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
 
-Campo d’applicazione dell’emendamento giusta da Dec. II/14 del 27 feb. 2001 il 17 settembre 2014**[^t-8]**
+Campo d’applicazione dell’emendamento giusta da Dec. II/14 del 27 feb. 2001 il 21 marzo 2024[^t-8]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>12 maggio</td><td>2006</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Austria</td><td>14 settembre</td><td>2006</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Azerbaigian</td><td>10 settembre</td><td>2019</td><td>9 dicembre</td><td>2019</td></tr>
 <tr><td>Belarus</td><td>23 marzo</td><td>2011</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Bulgaria</td><td>25 gennaio</td><td>2007</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Canada</td><td>26 aprile</td><td>2018</td><td>25 luglio</td><td>2018</td></tr>
 <tr><td>Ceca, Repubblica</td><td>18 aprile</td><td>2007</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Cipro</td><td>15 febbraio</td><td>2017</td><td>16 maggio</td><td>2017</td></tr>
 <tr><td>Croazia</td><td>11 febbraio</td><td>2009</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>25 luglio</td><td>2017</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Estonia</td><td>12 aprile</td><td>2010</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Finlandia</td><td>19 febbraio</td><td>2014</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Francia</td><td>16 gennaio</td><td>2024</td><td>15 aprile</td><td>2024</td></tr>
 <tr><td>Germania</td><td>8 agosto</td><td>2002</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Grecia</td><td>2 novembre</td><td>2018</td><td>31 gennaio</td><td>2019</td></tr>
+<tr><td>Irlanda</td><td>20 gennaio</td><td>2023</td><td>20 aprile</td><td>2023</td></tr>
+<tr><td>Italia</td><td>18 luglio</td><td>2016</td><td>16 ottobre</td><td>2016</td></tr>
+<tr><td>Lettonia</td><td>23 marzo</td><td>2016</td><td>21 giugno</td><td>2016</td></tr>
+<tr><td>Liechtenstein</td><td>12 maggio</td><td>2015</td><td>10 agosto</td><td>2015</td></tr>
 <tr><td>Lituania</td><td>22 marzo</td><td>2011</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Lussemburgo</td><td>5 maggio</td><td>2003</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Malta</td><td>28 maggio</td><td>2014</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Moldova</td><td>15 marzo</td><td>2016</td><td>13 giugno</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>9 luglio</td><td>2009</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Norvegia</td><td>24 febbraio</td><td>2010</td><td>26 agosto</td><td>2014</td></tr>
-<tr><td>Paesi Bassi<sup>a</sup></td><td>14 aprile</td><td>2009</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Paesi Bassi <sup>b</sup></td><td>14 aprile</td><td>2009</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Polonia</td><td>20 luglio</td><td>2004</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Portogallo</td><td>22 maggio</td><td>2015</td><td>20 agosto</td><td>2015</td></tr>
 <tr><td>Romania</td><td>16 novembre</td><td>2006</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Serbia</td><td>21 marzo</td><td>2016</td><td>19 giugno</td><td>2016</td></tr>
 <tr><td>Slovacchia</td><td>29 maggio</td><td>2008</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Slovenia</td><td>25 marzo</td><td>2014</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Spagna</td><td>16 luglio</td><td>2008</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Svezia</td><td>30 marzo</td><td>2006</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Svizzera</td><td>16 giugno</td><td>2010</td><td>26 agosto</td><td>2014</td></tr>
+<tr><td>Ucraina</td><td>15 dicembre</td><td>2022</td><td>15 marzo</td><td>2023</td></tr>
 <tr><td>Ungheria</td><td>29 maggio</td><td>2009</td><td>26 agosto</td><td>2014</td></tr>
 <tr><td>Unione europea</td><td>18 gennaio</td><td>2008</td><td>26 agosto</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>a</sup> L’emendamento non si applica alle Isole Färöer e alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-8]: [RU 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533)
+[^t-8]: [RU 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
 
-Campo d’applicazione dell’emendamento giusta da Dec. III/7 del 4 giu. 2017 il 17 ottobre 2017**[^t-9]**
+Campo d’applicazione dell’emendamento giusta da Dec. III/7 del 4 giugno 2017 il 21 marzo 2024[^t-9]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>12 maggio</td><td>2006</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Austria</td><td>14 settembre</td><td>2006</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Azerbaigian</td><td>10 settembre</td><td>2019</td><td>9 dicembre</td><td>2019</td></tr>
 <tr><td>Bulgaria</td><td>25 gennaio</td><td>2007</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Canada</td><td>26 aprile</td><td>2018</td><td>25 luglio</td><td>2018</td></tr>
 <tr><td>Cipro</td><td>15 febbraio</td><td>2017</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Croazia</td><td>11 febbraio</td><td>2009</td><td>23 ottobre</td><td>2017</td></tr>
-<tr><td>Danimarca<sup>a</sup></td><td>25 luglio</td><td>2017</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>25 luglio</td><td>2017</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Estonia</td><td>12 aprile</td><td>2010</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Finlandia</td><td>19 febbraio</td><td>2014</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Francia</td><td>22 novembre</td><td>2011</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Germania</td><td>22 febbraio</td><td>2017</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Grecia</td><td>2 novembre</td><td>2018</td><td>31 gennaio</td><td>2019</td></tr>
 <tr><td>Italia</td><td>18 giugno</td><td>2016</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Lettonia</td><td>23 marzo</td><td>2016</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Liechtenstein</td><td>12 maggio</td><td>2015</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Lituania</td><td>22 marzo</td><td>2011</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Lussemburgo</td><td>4 maggio</td><td>2007</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Malta</td><td>28 maggio</td><td>2014</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Moldova</td><td>10 dicembre</td><td>2018</td><td>10 marzo</td><td>2019</td></tr>
 <tr><td>Montenegro</td><td>9 luglio</td><td>2009</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Norvegia</td><td>24 febbraio</td><td>2010</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Paesi Bassi</td><td>14 aprile</td><td>2009</td><td>23 ottobre</td><td>2017</td></tr>
@@ -686,9 +695,10 @@ Campo d’applicazione dell’emendamento giusta da Dec. III/7 del 4 giu. 2017 i
 <tr><td>Spagna</td><td>6 aprile</td><td>2009</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Svezia</td><td>30 marzo</td><td>2006</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Svizzera</td><td>15 marzo</td><td>2013</td><td>23 ottobre</td><td>2017</td></tr>
+<tr><td>Ucraina</td><td>15 dicembre</td><td>2022</td><td>15 marzo</td><td>2023</td></tr>
 <tr><td>Ungheria</td><td>29 maggio</td><td>2009</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Unione europea</td><td>18 gennaio</td><td>2008</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il secondo emendamento non si applica alle Isole Färöer né alla Groenlandia.</td></tr>
 </table>
 
-[^t-9]: [RU 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661)
+[^t-9]: [RU 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).

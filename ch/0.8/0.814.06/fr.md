@@ -3,11 +3,11 @@ sr: "0.814.06"
 title: "Convention du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière (Convention d'Espoo) (avec appendices)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/610"
 language: fr
-version: 2017-10-23
+version: 2024-03-21
 adopted: 1991-02-25
 in_force: 1997-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20171023/fr/xml/fedlex-data-admin-ch-eli-cc-2003-610-20171023-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20171023/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20240321/fr/xml/fedlex-data-admin-ch-eli-cc-2003-610-20240321-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20240321/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 16 septembre 1996
 
 Entrée en vigueur pour la Suisse le 10 septembre 1997
 
-(Etat le 23 octobre 2017)
+(État le 21 mars 2024)
 
 [^t-1]: [RO 2003 4091](https://fedlex.data.admin.ch/eli/oc/2003/609)
 
@@ -348,7 +348,7 @@ L’original de la présente Convention, dont les textes anglais, français et r
 
 *En foi de quoi* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Espoo (Finlande), le vingt-cinq février mille neuf cent quatre-vingt-onze. (Suivent les signatures)
 
-Appendice I*[^t-2]*
+Appendice I[^t-2]
 
 ## Listes d’activités
 
@@ -419,7 +419,7 @@ Appendice I*[^t-2]*
 [^annexI-lvlu1-2]: Aux fins de la présente Convention: Le terme *«autoroute»* désigne une route qui est spécialement conçue et construite pour la circulation automobile, qui ne dessert pas les propriétés riveraines et qui: a) sauf en des points singuliers ou à titre temporaire, comporte, pour les deux sens de la circulation, des chaussées distinctes séparées l’une de l’autre par une bande de terrain non destinée à la circulation ou, exceptionnellement, par d’autres moyens; b) ne croise à niveau ni route, ni voie de chemin de fer ou de tramway, ni chemin pour la circulation de piétons; c) est spécialement signalée comme étant une autoroute. L’expression *«route express»* désigne une route réservée à la circulation automobile, accessible seulement par des échangeurs ou des carrefours réglementés, et sur laquelle, en particulier, il est interdit de s’arrêter et de stationner sur la chaussée.
 [^annexI-lvlu1-3]: Aux fins de la présente Convention, la notion d’*«aéroport»* correspond à la définition donnée dans la Convention de Chicago de 1944 portant création de l’Organisation de l’aviation civile internationale (annexe 14).
 
-Appendice II*[^t-3]*
+Appendice II[^t-3]
 
 ## Contenu du dossier d’évaluation de l’impact sur l’environnement
 
@@ -437,7 +437,7 @@ Renseignements minimums devant figurer dans le dossier d’évaluation de l’im
 - h) s’il y a lieu, aperçu des programmes de surveillance et de gestion et des plans éventuels pour l’analyse à posteriori;
 - i) résumé non technique avec, au besoin, une présentation visuelle (cartes, graphiques, etc.).
 
-Appendice III*[^t-4]*
+Appendice III[^t-4]
 
 ## Critères généraux visant à aider à déterminer l’importance de l’impact sur l’environnement d’activités qui ne sont pas inscrites sur la liste figurant à l’appendice I
 
@@ -451,7 +451,7 @@ Appendice III*[^t-4]*
 
 \2. Les Parties concernées procèdent ainsi pour les activités proposées dont le site se trouve à proximité d’une frontière internationale et pour les activités proposées dont le site est plus éloigné et qui pourraient avoir des effets transfrontières importants à grande distance.
 
-Appendice IV*[^t-5]*
+Appendice IV[^t-5]
 
 ## Procédure d’enquête
 
@@ -488,7 +488,7 @@ Appendice IV*[^t-5]*
 
 \14. L’avis définitif de la commission d’enquête est fondé sur des principes scientifiques acceptés. La commission d’enquête communique son avis définitif aux parties à la procédure d’enquête et au secrétariat.
 
-Appendice V*[^t-6]*
+Appendice V[^t-6]
 
 ## Analyse à posteriori
 
@@ -500,7 +500,7 @@ Cette analyse a pour objet:
 - b) d’examiner tout impact dans un souci de bonne gestion et afin de dissiper les incertitudes;
 - c) de vérifier l’exactitude des prévisions antérieures afin d’en tirer des leçons pour les activités du même type qui seront entreprises à l’avenir.
 
-Appendice VI*[^t-7]*
+Appendice VI[^t-7]
 
 ## Éléments de la coopération bilatérale et multilatérale
 
@@ -562,7 +562,7 @@ Appendice VII
 
 \18. Tout différend entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 14 janvier 2016**[^t-8]**
+Champ d’application le 14 janvier 2016[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -620,56 +620,73 @@ Champ d’application le 14 janvier 2016**[^t-8]**
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de la Commission économique des Nations Unies pour l’Europe (UNECE): www.unece.org/env/eia/welcome.html ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe. b 30 septembre 1993: succession à la signature de la Tchécoslovaquie qui avait signé la Convention le 30 août 1991. <sup>c</sup> 28 mai 1993: succession à la signature de la Tchécoslovaquie qui avait signé la Convention le 30 août 1991.</td></tr>
 </table>
 
-[^t-8]: [RO 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610), [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544), [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328), [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites
+[^t-8]: [RO 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610); [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544); [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328); [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
-Champ d’application de l’amendement selon la décision II/14 du 27 fév. 2001 le 17 septembre 2014**[^t-9]**
+Champ d’application de l’amendement selon la décision II/14 du 27 fév. 2001 le 21 mars 2024[^t-9]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>12 mai</td><td>2006</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Allemagne</td><td>8 août</td><td>2002</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Autriche</td><td>14 septembre</td><td>2006</td><td>26 août</td><td>2014</td></tr>
-<tr><td>Bulgarie</td><td>25 janvier</td><td>2007</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Azerbaïdjan</td><td>10 septembre</td><td>2019</td><td>9 décembre</td><td>2019</td></tr>
 <tr><td>Bélarus</td><td>23 mars</td><td>2011</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Bulgarie</td><td>25 janvier</td><td>2007</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Canada</td><td>26 avril</td><td>2018</td><td>25 juillet</td><td>2018</td></tr>
+<tr><td>Chypre</td><td>15 février</td><td>2017</td><td>16 mai</td><td>2017</td></tr>
 <tr><td>Croatie</td><td>11 février</td><td>2009</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>25 juillet</td><td>2017</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Espagne</td><td>16 juillet</td><td>2008</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Estonie</td><td>12 avril</td><td>2010</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Finlande</td><td>19 février</td><td>2014</td><td>26 août</td><td>2014</td></tr>
+<tr><td>France</td><td>16 janvier</td><td>2024</td><td>15 avril</td><td>2024</td></tr>
+<tr><td>Grèce</td><td>2 novembre</td><td>2018</td><td>31 janvier</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>29 mai</td><td>2009</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Irlande</td><td>20 janvier</td><td>2023</td><td>20 avril</td><td>2023</td></tr>
+<tr><td>Italie</td><td>18 juillet</td><td>2016</td><td>16 octobre</td><td>2016</td></tr>
+<tr><td>Lettonie</td><td>23 mars</td><td>2016</td><td>21 juin</td><td>2016</td></tr>
+<tr><td>Liechtenstein</td><td>12 mai</td><td>2015</td><td>10 août</td><td>2015</td></tr>
 <tr><td>Lituanie</td><td>22 mars</td><td>2011</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Luxembourg</td><td>5 mai</td><td>2003</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Malte</td><td>28 mai</td><td>2014</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Moldova</td><td>15 mars</td><td>2016</td><td>13 juin</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>9 juillet</td><td>2009</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Norvège</td><td>24 février</td><td>2010</td><td>26 août</td><td>2014</td></tr>
-<tr><td>Pays-Bas<sup>a</sup></td><td>14 avril</td><td>2009</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Pays-Bas <sup>b</sup></td><td>14 avril</td><td>2009</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Pologne</td><td>20 juillet</td><td>2004</td><td>26 août</td><td>2014</td></tr>
-<tr><td>Roumanie</td><td>16 novembre</td><td>2006</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Portugal</td><td>22 mai</td><td>2015</td><td>20 août</td><td>2015</td></tr>
 <tr><td>République tchèque</td><td>18 avril</td><td>2007</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Roumanie</td><td>16 novembre</td><td>2006</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Serbie</td><td>21 mars</td><td>2016</td><td>19 juin</td><td>2016</td></tr>
 <tr><td>Slovaquie</td><td>29 mai</td><td>2008</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Slovénie</td><td>25 mars</td><td>2014</td><td>26 août</td><td>2014</td></tr>
-<tr><td>Suisse</td><td>16 juin</td><td>2010</td><td>26 août</td><td>2014</td></tr>
 <tr><td>Suède</td><td>30 mars</td><td>2006</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Suisse</td><td>16 juin</td><td>2010</td><td>26 août</td><td>2014</td></tr>
+<tr><td>Ukraine</td><td>15 décembre</td><td>2022</td><td>15 mars</td><td>2023</td></tr>
 <tr><td>Union européenne</td><td>18 janvier</td><td>2008</td><td>26 août</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>a</sup> L’Amendement ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-9]: [RO 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533)
+[^t-9]: [RO 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
-Champ d’application de l’amendement selon la décision III/7 du 4 juin 2004 le 17 octobre 2017**[^t-10]**
+Champ d’application de l’amendement selon la décision III/7 du 4 juin 2004 le 21 mars 2024[^t-10]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>12 mai</td><td>2006</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Allemagne</td><td>22 février</td><td>2017</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Autriche</td><td>14 septembre</td><td>2006</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Azerbaïdjan</td><td>10 septembre</td><td>2019</td><td>9 décembre</td><td>2019</td></tr>
 <tr><td>Bulgarie</td><td>25 janvier</td><td>2007</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Canada</td><td>26 avril</td><td>2018</td><td>25 juillet</td><td>2018</td></tr>
 <tr><td>Chypre</td><td>15 février</td><td>2017</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Croatie</td><td>11 février</td><td>2009</td><td>23 octobre</td><td>2017</td></tr>
-<tr><td>Danemark<sup>a</sup></td><td>25 juillet</td><td>2017</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>25 juillet</td><td>2017</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Espagne</td><td>6 avril</td><td>2009</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Estonie</td><td>12 avril</td><td>2010</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Finlande</td><td>19 février</td><td>2014</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>France</td><td>22 novembre</td><td>2011</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Grèce</td><td>2 novembre</td><td>2018</td><td>31 janvier</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>29 mai</td><td>2009</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Italie</td><td>18 juillet</td><td>2016</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Lettonie</td><td>23 mars</td><td>2016</td><td>23 octobre</td><td>2017</td></tr>
@@ -677,20 +694,22 @@ Champ d’application de l’amendement selon la décision III/7 du 4 juin 2004 
 <tr><td>Lituanie</td><td>22 mars</td><td>2011</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Luxembourg</td><td>4 mai</td><td>2007</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Malte</td><td>28 mai</td><td>2014</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Moldova</td><td>10 décembre</td><td>2018</td><td>10 mars</td><td>2019</td></tr>
 <tr><td>Monténégro</td><td>9 juillet</td><td>2009</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Norvège</td><td>24 février</td><td>2010</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Pays-Bas</td><td>14 avril</td><td>2009</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Pologne</td><td>11 janvier</td><td>2012</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Portugal</td><td>9 mars</td><td>2012</td><td>23 octobre</td><td>2017</td></tr>
-<tr><td>Roumanie</td><td>3 mai</td><td>2016</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>République tchèque</td><td>18 avril</td><td>2007</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Roumanie</td><td>3 mai</td><td>2016</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Serbie</td><td>21 mars</td><td>2016</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Slovaquie</td><td>29 mai</td><td>2008</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Slovénie</td><td>25 mars</td><td>2014</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Suisse</td><td>15 mars</td><td>2013</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td>Suède</td><td>30 mars</td><td>2006</td><td>23 octobre</td><td>2017</td></tr>
+<tr><td>Ukraine</td><td>15 décembre</td><td>2022</td><td>15 mars</td><td>2023</td></tr>
 <tr><td>Union européenne</td><td>18 janvier</td><td>2008</td><td>23 octobre</td><td>2017</td></tr>
 <tr><td colspan="5"><sup>a</sup> Le deuxième amendement ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
 </table>
 
-[^t-10]: [RO 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661)
+[^t-10]: [RO 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)

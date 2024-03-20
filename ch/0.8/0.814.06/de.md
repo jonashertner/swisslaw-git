@@ -3,18 +3,18 @@ sr: "0.814.06"
 title: Übereinkommen vom 25. Februar 1991 über die Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen (Übereinkommen von Espoo) (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/610"
 language: de
-version: 2017-10-23
+version: 2024-03-21
 adopted: 1991-02-25
 in_force: 1997-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20171023/de/xml/fedlex-data-admin-ch-eli-cc-2003-610-20171023-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20171023/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/610/20240321/de/xml/fedlex-data-admin-ch-eli-cc-2003-610-20240321-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/610/20240321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen
 
-AS **2003** 4093; BBl **1995** IV 397
+AS **2003** 4093
 
 Übersetzung
 
@@ -24,7 +24,7 @@ Abgeschlossen in Espoo am 25. Februar 1991 Von der Bundesversammlung genehmigt a
 
 In Kraft getreten für die Schweiz am 10. September 1997
 
-(Stand am 23. Oktober 2017)
+(Stand am 21. März 2024)
 
 [^t-1]: [AS 2003 4091](https://fedlex.data.admin.ch/eli/oc/2003/609)
 
@@ -415,7 +415,7 @@ Anhang I[^t-2]
 [^annexI-lvlu1-2]: Im Sinne dieses Übereinkommens bedeutet *«Autobahn»* eine Strasse, die ausschliesslich für die Benützung mit Motorfahrzeugen bestimmt ist, zu der von den angrenzenden Grundstücken aus keine unmittelbare Zufahrt besteht und die a) ausser an einzelnen Stellen oder vorübergehend – für beide Richtungen besondere Fahrbahnen hat, die durch einen nicht für den Verkehr bestimmten Mittelstreifen oder in Ausnahmefällen durch andere Mittel voneinander getrennt sind; b) keine höhengleiche Kreuzung mit Strassen, Eisenbahn- oder Strassenbahnschienen oder Gehwegen hat; c) als Autobahn besonders gekennzeichnet ist. bedeutet *«Autostrasse»* eine Strasse, die ausschliesslich für die Benützung mit Motorfahrzeugen bestimmt und nur über Anschlussstellen oder niveaufreie Kreuzungen erreichbar ist und auf der insbesondere das Anhalten und das Parken auf der Fahrbahn verboten sind.
 [^annexI-lvlu1-3]: Im Sinne dieses Übereinkommens bedeutet *«Flugplatz»* einen Flugplatz nach der Begriffsbestimmung des Abkommens von Chicago von 1944 zur Errichtung der Internationalen Zivilluftfahrt-Organisation – Abkommen über die Internationale Zivilluftfahrt – (Anhang 14).
 
-Anhang II*[^t-3]*
+Anhang II[^t-3]
 
 ## Inhalt der Dokumentation zur UVP
 
@@ -433,7 +433,7 @@ Entsprechend Artikel 4 hat die Dokumentation zur UVP mindestens folgende Angaben
 - h) gegebenenfalls eine Übersicht über die Überwachungs- und Managementprogramme sowie etwaige Pläne für eine Beurteilung nach der Projektdurchführung und
 - i) eine nichttechnische Zusammenfassung, gegebenenfalls mit Anschauungsmaterial (Karten, Diagramme usw.).
 
-Anhang III*[^t-4]*
+Anhang III[^t-4]
 
 ## Allgemeine Kriterien als Anhaltspunkte bei der Ermittlung der Umweltrelevanz nicht in Anhang I aufgeführter Projekte
 
@@ -447,7 +447,7 @@ Anhang III*[^t-4]*
 
 \2. Die beteiligten Parteien prüfen zu diesem Zweck die Projekte, die in der Nähe einer Landesgrenze durchgeführt werden sollen, sowie weiter entfernte Vorhaben, die erhebliche, grenzüberschreitende Wirkungen in grosser Entfernung vom Durchführungsort auslösen könnten.
 
-Anhang IV*[^t-5]*
+Anhang IV[^t-5]
 
 ## Untersuchungsverfahren
 
@@ -484,7 +484,7 @@ Anhang IV*[^t-5]*
 
 \14. Das abschliessende Gutachten der Untersuchungskommission hat sich auf anerkannte wissenschaftliche Grundsätze zu stützen. Die Untersuchungskommission übermittelt das abschliessende Gutachten den am Untersuchungsverfahren beteiligten Parteien und dem Sekretariat.
 
-Anhang V*[^t-6]*
+Anhang V[^t-6]
 
 ## Beurteilung nach Projektdurchführung
 
@@ -496,7 +496,7 @@ Die Beurteilung hat folgenden Zweck:
 - b) Beurteilung der Auswirkungen im Hinblick auf ein ordnungsgemässes Management und um Unsicherheiten zu begegnen,
 - c) Überprüfung früherer Prognosen, um die Erfahrungen für künftige gleichartige Projekte weiterzugeben.
 
-Anhang VI*[^t-7]*
+Anhang VI[^t-7]
 
 ## Regelungen für die bi- und multilaterale Zusammenarbeit
 
@@ -559,7 +559,7 @@ Anhang VII
 
 \18. Jeder Streit zwischen den Parteien über die Auslegung oder Vollstreckung des Schiedsspruchs kann von jeder Partei dem Schiedsgericht, das den Schiedsspruch gefällt hat, oder wenn letzteres nicht damit befasst werden kann, einem anderen Gericht vorgelegt werden, das zu diesem Zweck in derselben Weise wie das erste gebildet wird.
 
-Geltungsbereich am 14. Januar 2016**[^t-8]**
+Geltungsbereich am 14. Januar 2016[^t-8]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -590,10 +590,10 @@ Geltungsbereich am 14. Januar 2016**[^t-8]**
 <tr><td>Litauen</td><td>11. Januar</td><td>2001 B</td><td>11. April</td><td>2001</td></tr>
 <tr><td>Luxemburg\*\*</td><td>29. August</td><td>1995</td><td>10. September</td><td>1997</td></tr>
 <tr><td>Malta</td><td>20. Oktober</td><td>2010 B</td><td>18. Januar</td><td>2011</td></tr>
-<tr><td>Mazedonien</td><td>31. August</td><td>1999</td><td>29. November</td><td>1999</td></tr>
 <tr><td>Moldau</td><td>4. Januar</td><td>1994 B</td><td>10. September</td><td>1997</td></tr>
 <tr><td>Montenegro</td><td>9. Juli</td><td>2009 B</td><td>7. Oktober</td><td>2009</td></tr>
 <tr><td>Niederlande\* <sup>a</sup></td><td>28. Februar</td><td>1995</td><td>10. September</td><td>1997</td></tr>
+<tr><td>Nordmazedonien</td><td>31. August</td><td>1999</td><td>29. November</td><td>1999</td></tr>
 <tr><td>Norwegen\*\*</td><td>23. Juni</td><td>1993</td><td>10. September</td><td>1997</td></tr>
 <tr><td>Österreich\*</td><td>27. Juli</td><td>1994</td><td>10. September</td><td>1997</td></tr>
 <tr><td>Polen</td><td>12. Juni</td><td>1997</td><td>10. September</td><td>1997</td></tr>
@@ -614,49 +614,64 @@ Geltungsbereich am 14. Januar 2016**[^t-8]**
 <tr><td>Insel Man</td><td>10. Oktober</td><td>1997</td><td>8. Januar</td><td>1998</td></tr>
 <tr><td>Jersey</td><td>10. Oktober</td><td>1997</td><td>8. Januar</td><td>1998</td></tr>
 <tr><td>Zypern</td><td>20. Juli</td><td>2000 B</td><td>20. Juli</td><td>2000</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die Originaltexte können unter: http://treaties.un.org/ eingesehen oder bei der DV/EDA, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa. <sup>b</sup> 28. Mai 1993: Nachfolge zur Unterzeichnung der Tschechoslowakei vom 30. Aug. 1991. <sup>c</sup> 30. Sept. 1993: Nachfolge zur Unterzeichnung der Tschechoslowakei vom 30. Aug. 1991.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die Originaltexte können unter: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der DV/EDA, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa. <sup>b</sup> 28. Mai 1993: Nachfolge zur Unterzeichnung der Tschechoslowakei vom 30. Aug. 1991. <sup>c</sup> 30. Sept. 1993: Nachfolge zur Unterzeichnung der Tschechoslowakei vom 30. Aug. 1991.</td></tr>
 </table>
 
-[^t-8]: [AS 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610), [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544), [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328)und [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53)[2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-8]: [AS 2003 4093](https://fedlex.data.admin.ch/eli/oc/2003/610), [2006 3443](https://fedlex.data.admin.ch/eli/oc/2006/544), [2010 2301](https://fedlex.data.admin.ch/eli/oc/2010/328)und [2016 375](https://fedlex.data.admin.ch/eli/oc/2016/53)[2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Geltungsbereich der Änderungen durch Beschluss II/14 vom 27. Febr. 2001 am 17. September 2014**[^t-9]**
+Geltungsbereich der Änderungen durch Beschluss II/14 vom 27. Febr. 2001 am 21. März 2024[^t-9]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>12. Mai</td><td>2006</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Aserbaidschan</td><td>10. September</td><td>2019</td><td>9. Dezember</td><td>2019</td></tr>
 <tr><td>Belarus</td><td>23. März</td><td>2011</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Bulgarien</td><td>25. Januar</td><td>2007</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>25. Juli</td><td>2017</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Deutschland</td><td>8. August</td><td>2002</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Estland</td><td>12. April</td><td>2010</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Europäische Union</td><td>18. Januar</td><td>2008</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Finnland</td><td>19. Februar</td><td>2014</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Frankreich</td><td>16. Januar</td><td>2024</td><td>15. April</td><td>2024</td></tr>
+<tr><td>Griechenland</td><td>2. November</td><td>2018</td><td>31. Januar</td><td>2019</td></tr>
+<tr><td>Irland</td><td>20. Januar</td><td>2023</td><td>20. April</td><td>2023</td></tr>
+<tr><td>Italien</td><td>18. Juli</td><td>2016</td><td>16. Oktober</td><td>2016</td></tr>
+<tr><td>Kanada</td><td>26. April</td><td>2018</td><td>25. Juli</td><td>2018</td></tr>
 <tr><td>Kroatien</td><td>11. Februar</td><td>2009</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Lettland</td><td>23. März</td><td>2016</td><td>21. Juni</td><td>2016</td></tr>
+<tr><td>Liechtenstein</td><td>12. Mai</td><td>2015</td><td>10. August</td><td>2015</td></tr>
 <tr><td>Litauen</td><td>22. März</td><td>2011</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Luxemburg</td><td>5. Mai</td><td>2003</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Malta</td><td>28. Mai</td><td>2014</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Moldau</td><td>15. März</td><td>2016</td><td>13. Juni</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>9. Juli</td><td>2009</td><td>26. August</td><td>2014</td></tr>
-<tr><td>Niederlande <sup>a</sup></td><td>14. April</td><td>2009</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Niederlande <sup>b</sup></td><td>14. April</td><td>2009</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>24. Februar</td><td>2010</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Österreich</td><td>14. September</td><td>2006</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Polen</td><td>20. Juli</td><td>2004</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Portugal</td><td>22. Mai</td><td>2015</td><td>20. August</td><td>2015</td></tr>
 <tr><td>Rumänien</td><td>16. November</td><td>2006</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Schweden</td><td>30. März</td><td>2006</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Schweiz</td><td>16. Juni</td><td>2010</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Serbien</td><td>21. März</td><td>2016</td><td>19. Juni</td><td>2016</td></tr>
 <tr><td>Slowakei</td><td>29. Mai</td><td>2008</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Slowenien</td><td>25. März</td><td>2014</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Spanien</td><td>16. Juli</td><td>2008</td><td>26. August</td><td>2014</td></tr>
 <tr><td>Tschechische Republik</td><td>18. April</td><td>2007</td><td>26. August</td><td>2014</td></tr>
+<tr><td>Ukraine</td><td>15. Dezember</td><td>2022</td><td>15. März</td><td>2023</td></tr>
 <tr><td>Ungarn</td><td>29. Mai</td><td>2009</td><td>26. August</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td>Zypern</td><td>15. Februar</td><td>2017</td><td>16. Mai</td><td>2017</td></tr>
+<tr><td colspan="5"><sup>a</sup> Die Änderung gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-9]: [AS 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533)
+[^t-9]: [AS 2014 3167](https://fedlex.data.admin.ch/eli/oc/2014/533); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Geltungsbereich der Änderungen durch Beschluss III/7 vom 4. Juni 2004 am 17. Oktober 2017**[^t-10]**
+Geltungsbereich der Änderungen durch Beschluss III/7 vom 4. Juni 2004 am 21. März 2024[^t-10]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>12. Mai</td><td>2006</td><td>23. Oktober</td><td>2017</td></tr>
+<tr><td>Aserbaidschan</td><td>10. September</td><td>2019</td><td>9. Dezember</td><td>2019</td></tr>
 <tr><td>Bulgarien</td><td>25. Januar</td><td>2007</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Deutschland</td><td>22. Februar</td><td>2007</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>25. Juli</td><td>2017</td><td>23. Oktober</td><td>2017</td></tr>
@@ -664,13 +679,16 @@ Geltungsbereich der Änderungen durch Beschluss III/7 vom 4. Juni 2004 am 17. Ok
 <tr><td>Europäische Union</td><td>18. Januar</td><td>2008</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>19. Februar</td><td>2014</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Frankreich</td><td>22. November</td><td>2011</td><td>23. Oktober</td><td>2017</td></tr>
+<tr><td>Griechenland</td><td>2. November</td><td>2018</td><td>31. Januar</td><td>2019</td></tr>
 <tr><td>Italien</td><td>18. Juli</td><td>2016</td><td>23. Oktober</td><td>2017</td></tr>
+<tr><td>Kanada</td><td>26. April</td><td>2018</td><td>25. Juli</td><td>2018</td></tr>
 <tr><td>Kroatien</td><td>11. Februar</td><td>2009</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Lettland</td><td>23. März</td><td>2016</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Liechtenstein</td><td>12. Mai</td><td>2015</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Litauen</td><td>22. März</td><td>2011</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Luxemburg</td><td>4. Mai</td><td>2007</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Malta</td><td>28. Mai</td><td>2014</td><td>23. Oktober</td><td>2017</td></tr>
+<tr><td>Moldau</td><td>10. Dezember</td><td>2018</td><td>10. März</td><td>2019</td></tr>
 <tr><td>Montenegro</td><td>9. Juli</td><td>2009</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Niederlande</td><td>14. April</td><td>2009</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Norwegen</td><td>24. Februar</td><td>2010</td><td>23. Oktober</td><td>2017</td></tr>
@@ -685,9 +703,10 @@ Geltungsbereich der Änderungen durch Beschluss III/7 vom 4. Juni 2004 am 17. Ok
 <tr><td>Slowenien</td><td>25. März</td><td>2014</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Spanien</td><td>6. April</td><td>2009</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Tschechische Republik</td><td>18. April</td><td>2007</td><td>23. Oktober</td><td>2017</td></tr>
+<tr><td>Ukraine</td><td>15. Dezember</td><td>2022</td><td>15. März</td><td>2023</td></tr>
 <tr><td>Ungarn</td><td>29. Mai</td><td>2009</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td>Zypern</td><td>15. Februar</td><td>2017</td><td>23. Oktober</td><td>2017</td></tr>
 <tr><td colspan="5"><sup>a</sup> Die Zweite Änderung gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-10]: [AS 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661)
+[^t-10]: [AS 2017 6013](https://fedlex.data.admin.ch/eli/oc/2017/661); [2024 127](https://fedlex.data.admin.ch/eli/oc/2024/127). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
