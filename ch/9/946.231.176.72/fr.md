@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-03-20
+version: 2024-03-22
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240320/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240320-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240322/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240322-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 20 mars 2024)
+du 4 mars 2022 (État le 22 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1474,7 +1474,7 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 <sup>5</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues à l’al. 1<sup>quater</sup>, pour autant que les logiciels soient nécessaires à la contribution de ressortissants russes à des projets *open source* internationaux.[^28e-22]
 
-<sup>6</sup> Les personnes morales, entreprises et entités doivent déclarer au SECO d’ici au 31 juillet 2024, puis sur une base semestrielle, les services et logiciels qu’elles fournissent ou mettent à disposition conformément à l’art. 2, al. a.[^28e-23]
+<sup>6</sup> Les personnes morales, entreprises et entités doivent déclarer au SECO d’ici au 31 juillet 2024, puis sur une base semestrielle, les services et logiciels qu’elles fournissent ou mettent à disposition conformément à l’art. 2, let. a.[^28e-23]
 
 <sup>7</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des services ou logiciels concernés.[^28e-24]
 
@@ -2315,8 +2315,8 @@ Annexe 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) et le ch. I de l’O du DEFR du 29 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 à 18 heures ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: : [https://fedlex.data.admin.ch/eli/oc/2024/94](https://fedlex.data.admin.ch/eli/oc/2024/94) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) et le ch. I al. 1 de l’O du DEFR du 21 mars 2024, en vigueur depuis le 22 mars 2024 à 18 heures ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/123](https://fedlex.data.admin.ch/eli/oc/2024/123) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -2486,7 +2486,7 @@ Annexe 18[^t-15]
 
 ## Biens de luxe
 
-[^t-15]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-15]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 2 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Mise à jour par le ch. I al. 2 de l’O du DEFR du 21 mars 2024, en vigueur depuis le 22 mars 2024 à 18 heures ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 Sauf indication contraire dans la présente annexe, l’interdiction prévue à l’art. 14*b* s’applique aux biens de luxe dont le coût unitaire est supérieur à 300 francs.
 
@@ -2759,13 +2759,9 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td></td><td>8517 11 00</td><td>Postes téléphoniques d’usagers par fil à combinés sans fil</td></tr>
 <tr><td></td><td>8517 13 00</td><td>Téléphones intelligents</td></tr>
 <tr><td></td><td>8517 18 00</td><td>Autres</td></tr>
-<tr><td>ex</td><td>8529 10 00</td><td>Antennes d’intérieur pour récepteurs de radiodiffusion et de télévision, y compris celles à incorporer</td></tr>
 <tr><td></td><td>8529 10 00</td><td>Antennes et réflecteurs d’antennes de tous types; parties reconnaissables comme étant utilisées conjointement avec ces articles</td></tr>
 <tr><td></td><td>8531 10 00</td><td>Avertisseurs électriques pour la protection contre le vol ou l’incendie et appareils similaires</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Machines électriques avec fonctions de traduction ou de dictionnaire</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Amplificateurs d’antennes</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Bancs et ciels solaires et appareils similaires pour le bronzage</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Autres</td></tr>
+<tr><td></td><td>8543 70</td><td>Machines électriques avec fonctions de traduction ou de dictionnaire, amplificateurs d’antennes, bancs et ciels solaires et appareils similaires pour le bronzage, autres</td></tr>
 <tr><td></td><td>9504 50 00</td><td>Consoles et machines de jeux vidéo, autres que celles du n<sup>o</sup> 9504.30</td></tr>
 <tr><td></td><td>9504 90 00</td><td>Autres</td></tr>
 </table>
@@ -2794,8 +2790,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td></td><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
 <tr><td></td><td>8409</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs des n<sup>os</sup> 8407 ou 8408</td></tr>
 <tr><td></td><td>8428 60 00</td><td>Téléphériques (y compris les télésièges et remonte-pentes); mécanismes de traction pour funiculaires</td></tr>
-<tr><td>ex</td><td>8512 30</td><td>Avertisseurs électriques pour la protection contre le vol des types utilisés pour véhicules automobiles</td></tr>
-<tr><td>ex</td><td>8512 30</td><td>Autres</td></tr>
+<tr><td></td><td>8512 30</td><td>Avertisseurs électriques pour la protection contre le vol des types utilisés pour véhicules automobiles, autres</td></tr>
 <tr><td></td><td>8512 40</td><td>Essuie-glaces, dégivreurs et dispositifs antibuée</td></tr>
 <tr><td></td><td>8603</td><td>Automotrices et autorails, autres que ceux du n<sup>o</sup> 8604</td></tr>
 <tr><td></td><td>8605 00 00</td><td>Voitures à voyageurs, fourgons à bagages, voitures postales et autres voitures spéciales, pour voies ferrées ou similaires (à l’exclusion des voitures du n<sup>o</sup> 8604)</td></tr>
@@ -2847,7 +2842,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
-<tr><td>ex</td><td>97</td><td>Objets d’art, de collection ou d’antiquité</td></tr>
+<tr><td></td><td>97</td><td>Objets d’art, de collection ou d’antiquité</td></tr>
 </table>
 
 ### 21. Articles et équipements destinés à la pratique du sport, notamment du ski, du golf, de la plongée sous‑marine et des sports nautiques
@@ -3281,12 +3276,12 @@ Annexe 27[^t-26]
 
 ## Produits contenant de l’or
 
-[^t-26]: Introduite par le ch. II al. 2 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Mise à jour par le ch. II al. 3 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-26]: Introduite par le ch. II al. 2 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I al. 3 de l’O du DEFR du 21 mars 2024, en vigueur depuis le 22 mars 2024 à 18 heures ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 <table>
-<tr><td>Position tarifaire</td><td>Désignation</td></tr>
-<tr><td>ex 7113</td><td>Articles de bijouterie ou de joaillerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
-<tr><td>ex 7114</td><td>Articles d’orfèvrerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
+<tr><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>ex 7113</td><td>Articles de bijouterie ou de joaillerie et leurs parties, en or, contenant de l’or ou en plaqués ou doublés d’or</td></tr>
+<tr><td>ex 7114</td><td>Articles d’orfèvrerie et leurs parties, en or, contenant de l’or ou en plaqués ou doublés d’or</td></tr>
 </table>
 
 Annexe 27a[^t-27]

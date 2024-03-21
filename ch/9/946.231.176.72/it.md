@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-03-20
+version: 2024-03-22
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240320/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240320-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240322/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240322-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240322/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 20 marzo 2024)
+del 4 marzo 2022 (Stato 22 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -2319,8 +2319,8 @@ Allegato 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Aggiornato dal n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dal n. I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dal n. II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dal n. I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dal n. II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dal n. I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dal n. II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) e dal n. I dell’O del DEFR del 29 feb. 2024, in vigore dal 1° mar. 2024 alle 18.00 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/94](https://fedlex.data.admin.ch/eli/oc/2024/94) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-9]: Aggiornato dal n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dal n. I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dal n. II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dal n. I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dal n. II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dal n. I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dal n. II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024[RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) e dal n. I cpv. 1 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
+[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/123](https://fedlex.data.admin.ch/eli/oc/2024/123) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -2490,7 +2490,7 @@ Allegato 18[^t-15]
 
 ## Beni di lusso
 
-[^t-15]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-15]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Aggiornato dal n. I cpv. 2 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore superiore a 300 franchi per articolo, salvo diversamente specificato in questo allegato.
 
@@ -2730,8 +2730,8 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td></td><td>8418 10 00</td><td>Frigoriferi, congelatori-conservatori e altro materiale, altre macchine e apparecchi per la produzione del freddo, con attrezzatura elettrica o di altra specie; pompe di calore diverse dalle macchine e apparecchi per il condizionamento dell’aria della voce 8415, combinazioni di frigoriferi e congelatori-conservatori, con sportelli o cassetti esterni separati, o una combinazione di tali elementi</td></tr>
 <tr><td></td><td>8418 21 00</td><td>Frigoriferi a compressione</td></tr>
 <tr><td></td><td>8418 29 00</td><td>Altri</td></tr>
-<tr><td></td><td>8418 30 00</td><td>mobili congelatori-conservatori, tipo baule, di capacità non eccedente 800 l</td></tr>
-<tr><td></td><td>8418 40 00</td><td>mobili congelatori-conservatori, tipo armadio, di capacità non eccedente 900 l</td></tr>
+<tr><td></td><td>8418 30 00</td><td>Mobili congelatori-conservatori, tipo baule, di capacità non eccedente 800 l</td></tr>
+<tr><td></td><td>8418 40 00</td><td>Mobili congelatori-conservatori, tipo armadio, di capacità non eccedente 900 l</td></tr>
 <tr><td></td><td>8419 81 00</td><td>Altri apparecchi e dispositivi, per la preparazione di bevande calde o per la cottura o per il riscaldamento delle vivande</td></tr>
 <tr><td></td><td>8422 11 00</td><td>Lavastoviglie di tipo familiare</td></tr>
 <tr><td></td><td>8423 10 00</td><td>Pesapersone, compresi pesabambini; bilance per uso casalingo</td></tr>
@@ -2763,13 +2763,9 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td></td><td>8517 11 00</td><td>Apparecchi telefonici per abbonati su filo con apparecchio «cordless»</td></tr>
 <tr><td></td><td>8517 13 00</td><td>Smartphone</td></tr>
 <tr><td></td><td>8517 18 00</td><td>Altri</td></tr>
-<tr><td>ex</td><td>8529 10 00</td><td>Antenne per interni, di apparecchi riceventi di radiodiffusione e di televisione, comprese quelle incorporate</td></tr>
 <tr><td></td><td>8529 10 00</td><td>Antenne e riflettori di antenne di ogni tipo; parti riconoscibili come destinate a essere utilizzate insieme a tali oggetti</td></tr>
 <tr><td></td><td>8531 10 00</td><td>Apparecchi elettrici di avvertimento contro il furto e l’incendio e apparecchi simili</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Macchine elettriche con funzioni di traduzione o dizionario</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Amplificatori d’antenne</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Lettini e lampade solari e simili apparecchi per abbronzatura</td></tr>
-<tr><td>ex</td><td>8543 70</td><td>Altri</td></tr>
+<tr><td></td><td>8543 70</td><td>Macchine elettriche con funzioni di traduzione o dizionario, amplificatori d’antenne, lettini e lampade solari e simili apparecchi per abbronzatura, altri</td></tr>
 <tr><td></td><td>9504 50 00</td><td>Mensole e macchine a videogiochi, diverse da quelle della voce 9504.30</td></tr>
 <tr><td></td><td>9504 90 00</td><td>Altri</td></tr>
 </table>
@@ -2798,8 +2794,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td></td><td>8407</td><td>Motori a pistone, con accensione per compressione (motori diesel o semi-diesel)</td></tr>
 <tr><td></td><td>8409</td><td>Parti riconoscibili come destinate, esclusivamente o principalmente, ai motori delle voci 8407 o 8408</td></tr>
 <tr><td></td><td>8428 60 00</td><td>Teleferiche (comprese le seggiovie e sciovie); meccanismi di trazione per funicolari</td></tr>
-<tr><td>ex</td><td>8512 30</td><td>Apparecchi elettrici di avvertimento per la protezione contro il furto del tipo utilizzato per autoveicoli</td></tr>
-<tr><td>ex</td><td>8512 30</td><td>Altri</td></tr>
+<tr><td></td><td>8512 30</td><td>Apparecchi elettrici di avvertimento per la protezione contro il furto del tipo utilizzato per autoveicoli, altri</td></tr>
 <tr><td></td><td>8512 40</td><td>Tergicristalli, sbrinatori e dispositivi antiappannanti</td></tr>
 <tr><td></td><td>8603</td><td>Automotrici e elettromotrici, diverse da quelle della voce 8604</td></tr>
 <tr><td></td><td>8605 00 00</td><td>Vetture per viaggiatori, bagagliai, carri postali e altre vetture speciali, per strade ferrate o simili (escluse le vetture della voce 8604)</td></tr>
@@ -2851,7 +2846,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
-<tr><td>ex</td><td>97</td><td>Oggetti d’arte, da collezione o di antichità</td></tr>
+<tr><td></td><td>97</td><td>Oggetti d’arte, da collezione o di antichità</td></tr>
 </table>
 
 ### 21. Articoli e attrezzature per sport ricreativi, tra cui sci, golf, immersione e sport acquatici
@@ -3278,12 +3273,12 @@ Allegato 27[^t-26]
 
 ## Prodotti contenenti oro
 
-[^t-26]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Aggiornato dal n. II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-26]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I cpv. 3 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 <table>
-<tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
-<tr><td>ex 7113</td><td>Minuterie e oggetti di gioielleria e loro parti, di metalli preziosi o di placcati o doppiati di metalli preziosi</td></tr>
-<tr><td>ex 7114</td><td>Oggetti di oreficeria e loro parti, di metalli preziosi o di placcati o doppiati di metalli preziosi</td></tr>
+<tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
+<tr><td>ex 7113</td><td>Minuterie e oggetti di gioielleria e loro parti, di oro o contenenti oro o di placcati o doppiati di oro</td></tr>
+<tr><td>ex 7114</td><td>Oggetti di oreficeria e loro parti, di oro o contenenti oro o di placcati o doppiati di oro</td></tr>
 </table>
 
 Allegato 27a[^t-27]
