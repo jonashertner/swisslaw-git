@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2024-03-15
+version: 2024-03-22
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240315-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240322/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240322-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240322/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 15. März 2024)
+vom 16. März 2022 (Stand am 22. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -882,8 +882,8 @@ Anhang 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) und vom 14. Aug. 2023, in Kraft seit 15. Aug. 2023 um 18.00 Uhr ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)) und vom 21. März 2024, in Kraft seit 22. März 2024 um 18.00 Uhr ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/122](https://fedlex.data.admin.ch/eli/oc/2024/122) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 

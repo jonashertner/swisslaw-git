@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2024-03-15
+version: 2024-03-22
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240322/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240322-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 15 mars 2024)
+du 16 mars 2022 (État le 22 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -883,8 +883,8 @@ Annexe 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)) et du 14 août 2023, en vigueur depuis le 15 août 2023 à 18 heures ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/449](https://fedlex.data.admin.ch/eli/oc/2023/449) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)) et du 21 mars 2024, en vigueur depuis le 22 mars 2024 à 18 heures ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/122](https://fedlex.data.admin.ch/eli/oc/2024/122) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 
