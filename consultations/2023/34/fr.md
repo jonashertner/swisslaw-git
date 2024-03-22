@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Financement des dommages aux bâtiments lors de tremblements de terre
 document: Projet mis en consultation
 language: fr

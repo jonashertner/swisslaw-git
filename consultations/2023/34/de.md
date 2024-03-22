@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Finanzierung von Gebäudeschäden bei Erdbeben
 document: Vernehmlassungsvorlage
 language: de

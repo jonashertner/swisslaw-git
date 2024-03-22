@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Finanziamento dei danni agli edifici in caso di terremoti
 document: Progetto posto in consultazione
 language: it
