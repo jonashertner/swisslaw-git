@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Recepimento et attuazione della Direttiva (UE) 2023/977 del Parlamento europeo et del Consiglio relativa allo scambio di informazioni tra le autorità di contrasto degli Stati membri e che abroga la decisione quadro 2006/960/GAI del Consiglio
 document: Progetto posto in consultazione-2
 language: it

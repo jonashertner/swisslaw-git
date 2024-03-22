@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Reprise et mise en œuvre de la directive (UE) 2023/977 relative à l’échange d’informations entre les services répressifs des États membres et abrogeant la décision-cadre 2006/960/JAI du Conseil
 document: Projet mis en consultation
 language: fr
