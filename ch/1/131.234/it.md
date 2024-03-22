@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2023-07-08
+version: 2024-03-23
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230708-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240323-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 8 luglio 2023)[^t-2]
+del 14 ottobre 2012 (Stato 23 marzo 2024)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,8 +97,16 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/it/xml/image/image1.png)</td></tr>
 </table>
+
+#### Art. 7A
+
+**Inno**[^7A-1]
+
+L’inno ufficiale della Repubblica e del Cantone di Ginevra è «Cé qu’è lainô» in arpitano ginevrino.
+
+[^7A-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 8
 
@@ -573,23 +581,23 @@ Il corpo elettorale comunale elegge:
 
 **Iniziativa costituzionale**
 
-<sup>1</sup> Il tre per cento dei titolari dei diritti politici può presentare al Gran Consiglio una proposta di revisione totale o parziale della Costituzione.[^56-1]
+<sup>1</sup> Il due per cento dei titolari dei diritti politici può presentare al Gran Consiglio una proposta di revisione totale o parziale della Costituzione.[^56-1]
 
 <sup>2</sup> La proposta può rivestire la forma di progetto elaborato (iniziativa elaborata) oppure una forma generica, da elaborare mediante una revisione della Costituzione (iniziativa non elaborata). Un’iniziativa parzialmente elaborata è considerata come non elaborata.
 
 <sup>3</sup> Dopo la sua pubblicazione, un’iniziativa costituzionale non può essere trasformata in iniziativa legislativa.
 
-[^56-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 21 ott. 2017. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^56-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 57
 
 **Iniziativa legislativa**
 
-<sup>1</sup> Il due per cento dei titolari dei diritti politici può presentare al Gran Consiglio una proposta legislativa riguardante qualsiasi materia di competenza dei suoi membri.[^57-1]
+<sup>1</sup> L’1,5 per cento dei titolari dei diritti politici può presentare al Gran Consiglio una proposta legislativa riguardante qualsiasi materia di competenza dei suoi membri.[^57-1]
 
 <sup>2</sup> L’iniziativa può essere elaborata o non elaborata. Un’iniziativa parzialmente elaborata è considerata come non elaborata.
 
-[^57-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 21 ott. 2017. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^57-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 58
 
@@ -683,7 +691,7 @@ Se il corpo elettorale accetta un’iniziativa non elaborata, il Gran Consiglio 
 
 **Referendum facoltativo**
 
-<sup>1</sup> Le leggi e gli altri atti del Gran Consiglio che prevedono spese sono sottoposti al corpo elettorale se il referendum è chiesto dal due per cento dei titolari dei diritti politici.[^67-1]
+<sup>1</sup> Le leggi e gli altri atti del Gran Consiglio che prevedono spese sono sottoposti al corpo elettorale se il referendum è chiesto dall’1,5 per cento dei titolari dei diritti politici.[^67-1]
 
 <sup>2</sup>
 
@@ -694,7 +702,7 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 
 <sup>3</sup> Gli atti di cui al presente articolo sono sottoposti al corpo elettorale anche quando il Gran Consiglio lo decide a maggioranza dei due terzi dei voti espressi, senza tener conto delle astensioni, ma almeno a maggioranza dei membri.
 
-[^67-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 21 ott. 2017. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^67-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 68
 
@@ -702,7 +710,9 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 
 <sup>1</sup> Le firme a sostegno di una domanda di referendum devono essere depositate entro 40 giorni dalla pubblicazione dell’atto.
 
-<sup>2</sup> Il termine di scadenza è sospeso dal 15 luglio al 15 agosto compreso e dal 23 dicembre al 3 gennaio compreso.
+<sup>2</sup> Il termine di scadenza è sospeso fino al 15° giorno dopo Pasqua compreso, dal 15 luglio al 15 agosto compreso e dal 23 dicembre al 3 gennaio compreso.[^68-1]
+
+[^68-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 69
 
@@ -728,15 +738,15 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 
 Può chiedere al Consiglio comunale di deliberare su un oggetto determinato:
 
-- a) il 16 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
-- b) l’8 per cento dei titolari dei diritti politici, ma almeno 800 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
-- c) il 4 per cento dei titolari dei diritti politici, ma almeno 2400 e al massimo 3200 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^71-1]
+- a) il 10 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
+- b) il 5 per cento dei titolari dei diritti politici, ma almeno 300 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
+- c) il 3 per cento dei titolari dei diritti politici, ma almeno 1800 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^71-1]
 
 <sup>2</sup> La legge definisce gli ambiti in cui può essere esercitato il diritto di iniziativa.
 
 <sup>3</sup> Sono applicabili gli articoli 58 e 59.
 
-[^71-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 21 ott. 2017. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^71-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [202](https://fedlex.data.admin.ch/eli/fga/2025/202)**4** 2852).
 
 #### Art. 72
 
@@ -798,13 +808,13 @@ Se il corpo elettorale accetta un’iniziativa o un controprogetto non elaborati
 
 Le delibere dei Consigli comunali sono sottoposte al voto del corpo elettorale comunale quando il referendum è chiesto dal:
 
-- a) 16 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
-- b) 8 per cento dei titolari dei diritti politici, ma almeno 800 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
-- c) 4 per cento dei titolari dei diritti politici, ma almeno 2400 e al massimo 3200 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^77-1]
+- a) 10 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
+- b) 5 per cento dei titolari dei diritti politici, ma almeno 300 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
+- c) 3 per cento dei titolari dei diritti politici, ma almeno 1800 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^77-1]
 
 <sup>2</sup> È applicabile l’articolo 68.
 
-[^77-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 21 ott. 2017. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 6 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^77-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [202](https://fedlex.data.admin.ch/eli/fga/2025/202)**4** 2852).
 
 #### Art. 78
 
@@ -2532,6 +2542,7 @@ Cantone
 - – energia nucleare 169
 - – Giudici probiviri 123
 - – infrastrutture necessarie allo sviluppo dell’agglomerato 192
+- – inno del 7A
 - – monopolio della forza pubblica da parte del 184
 - – motto del 7
 - – organizzazione della custodia prescolastica 201
@@ -3031,6 +3042,8 @@ Iniziativa
 
 - – principi dell’attività pubblica 9
 - – titolari dei diritti politici 48
+
+Inno del Cantone 7A
 
 Insegnamento 193ss
 

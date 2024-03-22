@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2023-07-08
+version: 2024-03-23
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230708-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240323-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230708/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 8. Juli 2023)[^t-2]
+vom 14. Oktober 2012 (Stand am 23. März 2024)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,8 +97,16 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230708/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/de/xml/image/image1.png)</td></tr>
 </table>
+
+#### Art. 7A
+
+**Hymne**[^7A-1]
+
+Die offizielle Hymne der Republik und des Kantons Genf ist «Cé qu’è lainô» in genferischem Frankoprovenzalisch.
+
+[^7A-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 8
 
@@ -573,23 +581,23 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 **Verfassungsinitiative**
 
-<sup>1</sup> Drei Prozent der Stimmberechtigten können dem Grossen Rat einen Vorschlag auf Totalrevision oder Teilrevision der Verfassung unterbreiten.[^56-1]
+<sup>1</sup> 2 Prozent der Stimmberechtigten können dem Grossen Rat einen Vorschlag auf Totalrevision oder Teilrevision der Verfassung unterbreiten.[^56-1]
 
 <sup>2</sup> Der Vorschlag kann die Form eines ausgearbeiteten Entwurfs (ausformulierte Initiative) oder einer allgemeinen Anregung haben, die nach der Formulierung für eine Verfassungsrevision geeignet sein kann (nicht ausformulierte Initiative). Eine teilweise formulierte Initiative gilt als nicht ausformulierte Initiative.
 
 <sup>3</sup> Eine Verfassungsinitiative kann nach der Veröffentlichung der Lancierung nicht in eine Gesetzesinitiative umgewandelt werden.
 
-[^56-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 21. Okt. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 6 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^56-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 57
 
 **Gesetzesinitiative**
 
-<sup>1</sup> Zwei Prozent der Stimmberechtigten können dem Grossen Rat einen Gesetzesvorschlag in all jenen Bereichen unterbreiten, die in die Kompetenz seiner Mitglieder fallen.[^57-1]
+<sup>1</sup> 1,5 Prozent der Stimmberechtigten können dem Grossen Rat einen Gesetzesvorschlag in all jenen Bereichen unterbreiten, die in die Kompetenz seiner Mitglieder fallen.[^57-1]
 
 <sup>2</sup> Die Gesetzesinitiative kann als ausformulierte oder nicht ausformulierte Initiative eingereicht werden. Eine teilweise formulierte Initiative gilt als nicht ausformulierte Initiative.
 
-[^57-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 21. Okt. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 6 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^57-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 58
 
@@ -683,7 +691,7 @@ Wenn die Stimmberechtigten eine nicht formulierte Initiative annehmen, so hat de
 
 **Fakultatives Referendum**
 
-<sup>1</sup> Gesetze sowie andere Erlasse des Grossen Rates, die Ausgaben vorsehen, werden den Stimmberechtigten zur Abstimmung unterbreitet, wenn zwei Prozent der Stimmberechtigten das Referendum ergreifen.[^67-1]
+<sup>1</sup> Gesetze sowie andere Erlasse des Grossen Rates, die Ausgaben vorsehen, werden den Stimmberechtigten zur Abstimmung unterbreitet, wenn 1,5 Prozent der Stimmberechtigten das Referendum ergreifen.[^67-1]
 
 <sup>2</sup>
 
@@ -694,7 +702,7 @@ Wenn 500 Stimmberechtigte das Referendum ergreifen, werden ebenfalls zur Abstimm
 
 <sup>3</sup> Die Gegenstände nach diesem Artikel werden den Stimmberechtigten ebenfalls zur Abstimmung unterbreitet, wenn der Grosse Rat mit Zweidrittelmehrheit der abgegebenen Stimmen ohne die Stimmenhaltungen, aber mindestens die Mehrheit der Mitglieder dies beschliesst.
 
-[^67-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 21. Okt. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 6 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^67-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 68
 
@@ -702,7 +710,9 @@ Wenn 500 Stimmberechtigte das Referendum ergreifen, werden ebenfalls zur Abstimm
 
 <sup>1</sup> Die Unterschriften für das Referendumsbegehren sind innert vierzig Tagen ab Veröffentlichung des Erlasses einzureichen.
 
-<sup>2</sup> Diese Frist wird vom 15. Juli bis und mit 15. August und vom 23. Dezember bis und mit 3. Januar unterbrochen.
+<sup>2</sup> Diese Frist wird bis und mit dem 15. Tag nach Ostern, vom 15. Juli bis und mit 15. August und vom 23. Dezember bis und mit 3. Januar unterbrochen.[^68-1]
+
+[^68-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 69
 
@@ -728,15 +738,15 @@ Gegen das jährliche Gesetz über die Ausgaben und Einnahmen als Ganzes kann kei
 
 Vom Gemeinderat die Beratung eines bestimmten Gegenstands verlangen können:
 
-- a. 16 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
-- b. 8 Prozent, aber mindestens 800 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
-- c. 4 Prozent, aber mindestens 2400 und höchstens 3200 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^71-1]
+- a. 10 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
+- b. 5 Prozent, aber mindestens 300 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
+- c. 3 Prozent, aber mindestens 1800 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^71-1]
 
 <sup>2</sup> Das Gesetz bestimmt die Bereiche, in denen das Initiativrecht ausgeübt werden kann.
 
 <sup>3</sup> Die Artikel 58 und 59 sind anwendbar.
 
-[^71-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 21. Okt. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 6 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^71-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -798,13 +808,13 @@ Wenn die Stimmberechtigten eine Initiative oder einen nicht ausformulierten Gege
 
 Beschlüsse der Gemeinderäte sind den Stimmberechtigten der Gemeinde zur Abstimmung zu unterbreiten, wenn das Referendum ergriffen wird von:
 
-- a. 16 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
-- b. 8 Prozent, aber mindestens 800 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
-- c. 4 Prozent, aber mindestens 2400 und höchstens 3200 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^77-1]
+- a. 10 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
+- b. 5 Prozent, aber mindestens 300 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
+- c. 3 Prozent, aber mindestens 1800 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^77-1]
 
 <sup>2</sup> Artikel 68 ist anwendbar.
 
-[^77-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 21. Okt. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 6 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^77-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
@@ -2701,6 +2711,8 @@ Haushaltsführung 152
 Heirat (Recht auf) 22
 
 Hunde, gefährliche 177
+
+Hymne 7A
 
 Immunität 85, 95
 
