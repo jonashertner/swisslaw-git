@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Heilmittelgesetzes (HMG)
 document: Vernehmlassungsvorlage
 language: de
