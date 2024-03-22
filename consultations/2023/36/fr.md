@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Reprise et mise en œuvre du règlement (UE) 2023/2667 modifiant plusieurs actes européens en raison de la numérisation de la procédure de visa (développement de l’acquis de Schengen)
 document: Projet mis en consultation
 language: fr

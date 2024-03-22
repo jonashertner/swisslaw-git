@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übernahme und Umsetzung der Verordnung (EU) 2023/2667 zur Änderung mehrerer Rechtsakte der EU aufgrund der Digitalisierung des Visumverfahrens (Weiterentwicklung des Schengen-Besitzstands)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Recepimento e attuazione del regolamento (UE) 2023/2667 che modifica diversi atti normativi europei per quanto riguarda la digitalizzazione della procedura di visto (sviluppo dell’acquis de Schengen)
 document: Progetto posto in consultazione
 language: it
