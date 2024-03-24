@@ -3,11 +3,11 @@ sr: "0.790.1"
 title: "Accord du 22 avril 1968 sur le sauvetage des astronautes, le retour des astronautes et la restitution des objets lancés dans l'espace extra-atmosphérique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/95_99_99"
 language: fr
-version: 2020-06-03
+version: 2024-03-25
 adopted: 1968-04-22
 in_force: 1969-12-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/95_99_99/20200603/fr/xml/fedlex-data-admin-ch-eli-cc-1970-95_99_99-20200603-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/95_99_99/20200603/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/95_99_99/20240325/fr/xml/fedlex-data-admin-ch-eli-cc-1970-95_99_99-20240325-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/95_99_99/20240325/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Washington, Moscou et Londres le 22 avril 1968 Signé par la Suisse le 22 avril 1968 Approuvé par l’Assemblée fédérale le 2 octobre 1969[^t-1] Instrument de ratification déposé par la Suisse le 18 décembre 1969 Entrée en vigueur pour la Suisse le 18 décembre 1969
 
-(Etat le 3 juin 2020)
+(État le 25 mars 2024)
 
 [^t-1]: [RO 1970 89](https://fedlex.data.admin.ch/eli/oc/1970/85_89_89)
 
@@ -103,7 +103,7 @@ Le présent Accord, dont les textes anglais, russe, espagnol, français et chino
 
 *En foi de quoi,* les soussignés, à ce dûment habilités, ont signé le présent Accord. Fait en trois exemplaires, à Washington, Londres et Moscou, le vingt‑deux avril mil neuf cent soixante‑huit.
 
-Champ d’application le 3 juin 2020**[^t-2]**
+Champ d’application le 25 mars 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification[^t-3] Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -111,6 +111,7 @@ Champ d’application le 3 juin 2020**[^t-2]**
 <tr><td>[tab] Agence spatiale européenne (ASE)</td><td>25 juin</td><td>1975</td><td>31 décembre</td><td>1975</td></tr>
 <tr><td>Allemagne</td><td>17 février</td><td>1972</td><td>17 février</td><td>1972</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>26 décembre</td><td>1988 S</td><td>1<sup>er</sup> novembre</td><td>1981</td></tr>
+<tr><td>Arabie Saoudite</td><td>11 novembre</td><td>2021 A</td><td>11 novembre</td><td>2021</td></tr>
 <tr><td>Argentine</td><td>26 mars</td><td>1969</td><td>26 mars</td><td>1969</td></tr>
 <tr><td>Arménie</td><td>28 mars</td><td>2018 A</td><td>28 mars</td><td>2018</td></tr>
 <tr><td>Australie</td><td>18 mars</td><td>1986</td><td>18 mars</td><td>1986</td></tr>
@@ -179,8 +180,10 @@ Champ d’application le 3 juin 2020**[^t-2]**
 <tr><td>Nigéria</td><td>26 février</td><td>1973</td><td>26 février</td><td>1973</td></tr>
 <tr><td>Norvège</td><td>20 avril</td><td>1970</td><td>20 avril</td><td>1970</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>8 juillet</td><td>1969</td><td>8 juillet</td><td>1969</td></tr>
+<tr><td>Oman</td><td>4 février</td><td>2022 A</td><td>4 février</td><td>2022</td></tr>
 <tr><td>Pakistan</td><td>17 octobre</td><td>1973 A</td><td>17 octobre</td><td>1973</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>27 octobre</td><td>1980 A</td><td>27 octobre</td><td>1980</td></tr>
+<tr><td>Paraguay</td><td>26 janvier</td><td>2024 A</td><td>26 janvier</td><td>2024</td></tr>
 <tr><td>Pays-Bas</td><td>17 février</td><td>1981</td><td>17 février</td><td>1981</td></tr>
 <tr><td>Aruba</td><td>17 février</td><td>1981</td><td>17 février</td><td>1981</td></tr>
 <tr><td>Curaçao</td><td>17 février</td><td>1981</td><td>17 février</td><td>1981</td></tr>
@@ -212,8 +215,8 @@ Champ d’application le 3 juin 2020**[^t-2]**
 <tr><td>Ukraine</td><td>16 janvier</td><td>1969</td><td>16 janvier</td><td>1969</td></tr>
 <tr><td>Uruguay</td><td>25 février</td><td>1969</td><td>25 février</td><td>1969</td></tr>
 <tr><td>Zambie</td><td>20 août</td><td>1973 A</td><td>20 août</td><td>1973</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 déc. 1968 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 25 mars 1970 au 19 déc. 1999, la Conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 déc. 1968 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 25 mars 1970 au 19 déc. 1999, la Conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 1970 99](https://fedlex.data.admin.ch/eli/oc/1970/95_99_99), [1973 595](https://fedlex.data.admin.ch/eli/oc/1973/596_595_597), [1979 1564](https://fedlex.data.admin.ch/eli/oc/1979/1564_1564_1564), [1982 1737](https://fedlex.data.admin.ch/eli/oc/1982/1737_1737_1737), [1985 1692](https://fedlex.data.admin.ch/eli/oc/1985/1692_1692_1692), [1987 1218](https://fedlex.data.admin.ch/eli/oc/1987/1218_1218_1218), [1990 1995](https://fedlex.data.admin.ch/eli/oc/1990/1995_1995_1995), [2005 1631](https://fedlex.data.admin.ch/eli/oc/2005/258), [2010 603](https://fedlex.data.admin.ch/eli/oc/2010/94), [2016 1239](https://fedlex.data.admin.ch/eli/oc/2016/244), [2020 2817](https://fedlex.data.admin.ch/eli/oc/2020/508). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1970 99](https://fedlex.data.admin.ch/eli/oc/1970/95_99_99); [1973 595](https://fedlex.data.admin.ch/eli/oc/1973/596_595_597); [1979 1564](https://fedlex.data.admin.ch/eli/oc/1979/1564_1564_1564); [1982 1737](https://fedlex.data.admin.ch/eli/oc/1982/1737_1737_1737); [1985 1692](https://fedlex.data.admin.ch/eli/oc/1985/1692_1692_1692); [1987 1218](https://fedlex.data.admin.ch/eli/oc/1987/1218_1218_1218); [1990 1995](https://fedlex.data.admin.ch/eli/oc/1990/1995_1995_1995); [2005 1631](https://fedlex.data.admin.ch/eli/oc/2005/258); [2010 603](https://fedlex.data.admin.ch/eli/oc/2010/94); [2016 1239](https://fedlex.data.admin.ch/eli/oc/2016/244); [2020 2817](https://fedlex.data.admin.ch/eli/oc/2020/508); [2024 136](https://fedlex.data.admin.ch/eli/oc/2024/136). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 [^t-3]: Les instruments de ratification ou d’adhésion ou les déclarations de succession sont déposés auprès des Gouvernements des Etats-Unis, du Royaume-Uni et de la Fédération de Russie, soit simultanément, soit à des dates différentes, ou seulement auprès de l’un ou de plusieurs des Gouvernements précités. Les dates figurant dans la présente liste sont celles qui sont relatives à la première ratification, adhésion ou déclaration de succession intervenue.

@@ -3,11 +3,11 @@ sr: "0.790.1"
 title: Übereinkommen vom 22. April 1968 über die Rettung und die Rückführung von Raumfahrern sowie die Rückgabe von in den Weltraum gestarteten Gegenständen
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/95_99_99"
 language: de
-version: 2020-06-03
+version: 2024-03-25
 adopted: 1968-04-22
 in_force: 1969-12-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/95_99_99/20200603/de/xml/fedlex-data-admin-ch-eli-cc-1970-95_99_99-20200603-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/95_99_99/20200603/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/95_99_99/20240325/de/xml/fedlex-data-admin-ch-eli-cc-1970-95_99_99-20240325-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/95_99_99/20240325/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1970** 95; BBl **1969** I 857
 
 Abgeschlossen in Washington, Moskau und London am 22. April 1968 Unterzeichnet von der Schweiz am 22. April 1968 Von der Bundesversammlung genehmigt am 2. Oktober 1969[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Dezember 1969 In Kraft getreten für die Schweiz am 18. Dezember 1969
 
-(Stand am 3. Juni 2020)
+(Stand am 25. März 2024)
 
 [^t-1]: [AS 1970 85](https://fedlex.data.admin.ch/eli/oc/1970/85_89_89)
 
@@ -103,7 +103,7 @@ Dieses Übereinkommen, dessen chinesischer, englischer, französischer, russisch
 
 *Zu Urkund dessen* haben die Unterzeichneten, hierzu gehörig befugt, dieses Übereinkommen unterschrieben. Geschehen zu London, Moskau und Washington am 22. April 1968 in drei Urschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 3. Juni 2020**[^t-2]**
+Geltungsbereich am 25. März 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation[^t-3] Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -130,7 +130,7 @@ Geltungsbereich am 3. Juni 2020**[^t-2]**
 <tr><td>El Salvador</td><td colspan="2">19. Februar</td><td colspan="2">1970</td><td>19. Februar</td><td>1970</td></tr>
 <tr><td>Eswatini</td><td colspan="2">9. Juni</td><td colspan="2">1969 B</td><td>9. Juni</td><td>1969</td></tr>
 <tr><td>EUMETSAT</td><td colspan="2">19. Dezember</td><td colspan="2">2005</td><td>19. Dezember</td><td colspan="3">2005</td></tr>
-<tr><td>[tab] Europäische Weltraum-Organisation (ESA)</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>31. Dezember</td><td>1975</td></tr>
+<tr><td>Europäische Weltraum-Organisation (ESA)</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>31. Dezember</td><td>1975</td></tr>
 <tr><td>Fidschi</td><td colspan="2">14. Juli</td><td colspan="2">1972 N</td><td>10. Oktober</td><td>1970</td></tr>
 <tr><td>Finnland</td><td colspan="2">10. September</td><td colspan="2">1970</td><td>10. September</td><td>1970</td></tr>
 <tr><td>Frankreich</td><td colspan="2">31. Dezember</td><td colspan="2">1975 B</td><td>31. Dezember</td><td>1975</td></tr>
@@ -178,9 +178,11 @@ Geltungsbereich am 3. Juni 2020**[^t-2]**
 <tr><td>Niger</td><td colspan="2">15. Januar</td><td colspan="2">1969</td><td>15. Januar</td><td>1969</td></tr>
 <tr><td>Nigeria</td><td colspan="2">26. Februar</td><td colspan="2">1973</td><td>26. Februar</td><td>1973</td></tr>
 <tr><td>Norwegen</td><td colspan="2">20. April</td><td colspan="2">1970</td><td>20. April</td><td>1970</td></tr>
+<tr><td>Oman</td><td colspan="2">4. Februar</td><td colspan="2">2022 B</td><td>4. Februar</td><td>2022</td></tr>
 <tr><td>Österreich</td><td colspan="2">19. Februar</td><td colspan="2">1970</td><td>19. Februar</td><td>1970</td></tr>
 <tr><td>Pakistan</td><td colspan="2">17. Oktober</td><td colspan="2">1973 B</td><td>17. Oktober</td><td>1973</td></tr>
 <tr><td>Papua-Neuguinea</td><td colspan="2">27. Oktober</td><td colspan="2">1980 B</td><td>27. Oktober</td><td>1980</td></tr>
+<tr><td>Paraguay</td><td colspan="2">26. Januar</td><td colspan="2">2024 B</td><td>26. Januar</td><td>2024</td></tr>
 <tr><td>Peru</td><td colspan="2">21. März</td><td colspan="2">1979 B</td><td>21. März</td><td>1979</td></tr>
 <tr><td>Polen</td><td colspan="2">14. Februar</td><td colspan="2">1969</td><td>14. Februar</td><td>1969</td></tr>
 <tr><td>Portugal</td><td colspan="2">25. März</td><td colspan="2">1970</td><td>25. März</td><td colspan="3">1970</td></tr>
@@ -188,6 +190,7 @@ Geltungsbereich am 3. Juni 2020**[^t-2]**
 <tr><td>Russland</td><td colspan="2">3. Dezember</td><td colspan="2">1968</td><td>3. Dezember</td><td>1968</td></tr>
 <tr><td>Sambia</td><td colspan="2">20. August</td><td colspan="2">1973 B</td><td>20. August</td><td>1973</td></tr>
 <tr><td>San Marino</td><td colspan="2">10. August</td><td colspan="2">1970</td><td>10. August</td><td>1970</td></tr>
+<tr><td>Saudi-Arabien</td><td colspan="2">11. November</td><td colspan="2">2021 B</td><td>11. November</td><td>2021</td></tr>
 <tr><td>Schweden</td><td colspan="2">21. Juli</td><td colspan="2">1969 B</td><td>21. Juli</td><td>1969</td></tr>
 <tr><td>Schweiz</td><td colspan="2">18. Dezember</td><td colspan="2">1969</td><td>18. Dezember</td><td>1969</td></tr>
 <tr><td>Serbien</td><td colspan="2">27. April</td><td colspan="2">1992 N</td><td>1. März</td><td>1971</td></tr>
@@ -212,10 +215,10 @@ Geltungsbereich am 3. Juni 2020**[^t-2]**
 <tr><td>Anguilla</td><td colspan="2">3. Dezember</td><td colspan="2">1968</td><td>3. Dezember</td><td>1968</td></tr>
 <tr><td>Gebiete unter territorialer Souveränität des Vereinigten Königreichs</td><td colspan="2">3. Dezember</td><td colspan="2">1968</td><td>3. Dezember</td><td>1968</td></tr>
 <tr><td>Zypern</td><td colspan="2">17. Dezember</td><td colspan="2">1970</td><td>17. Dezember</td><td>1970</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Vereinigten Königreichs Regierung: www.gov.uk/ &gt; Topic &gt; Government &gt; Legislative process &gt; Treaties for which the UK is depositary eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="8">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Vom 3. Dez. 1968 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="8"><sup>b</sup> Vom 25. März 1970 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1970 95](https://fedlex.data.admin.ch/eli/oc/1970/95_99_99), [1973 596](https://fedlex.data.admin.ch/eli/oc/1973/596_595_597), [1979 1564](https://fedlex.data.admin.ch/eli/oc/1979/1564_1564_1564), [1982 1737](https://fedlex.data.admin.ch/eli/oc/1982/1737_1737_1737), [1985 1692](https://fedlex.data.admin.ch/eli/oc/1985/1692_1692_1692), [1987 1218](https://fedlex.data.admin.ch/eli/oc/1987/1218_1218_1218), [1990 1995](https://fedlex.data.admin.ch/eli/oc/1990/1995_1995_1995), [2005 1631](https://fedlex.data.admin.ch/eli/oc/2005/258), [2010 603](https://fedlex.data.admin.ch/eli/oc/2010/94), [2016 1239](https://fedlex.data.admin.ch/eli/oc/2016/244), [2020 2817](https://fedlex.data.admin.ch/eli/oc/2020/508). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1970 95](https://fedlex.data.admin.ch/eli/oc/1970/95_99_99); [1973 596](https://fedlex.data.admin.ch/eli/oc/1973/596_595_597); [1979 1564](https://fedlex.data.admin.ch/eli/oc/1979/1564_1564_1564); [1982 1737](https://fedlex.data.admin.ch/eli/oc/1982/1737_1737_1737); [1985 1692](https://fedlex.data.admin.ch/eli/oc/1985/1692_1692_1692); [1987 1218](https://fedlex.data.admin.ch/eli/oc/1987/1218_1218_1218); [1990 1995](https://fedlex.data.admin.ch/eli/oc/1990/1995_1995_1995); [2005 1631](https://fedlex.data.admin.ch/eli/oc/2005/258); [2010 603](https://fedlex.data.admin.ch/eli/oc/2010/94); [2016 1239](https://fedlex.data.admin.ch/eli/oc/2016/244); [2020 2817](https://fedlex.data.admin.ch/eli/oc/2020/508); [2024 136](https://fedlex.data.admin.ch/eli/oc/2024/136). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 [^t-3]: Die Ratifikations- oder Beitrittsurkunden oder Nachfolgeerklärungen werden bei den Regierungen der Vereinigten Staaten von Amerika, des Vereinigten Königreichs und der Russischen Föderation hinterlegt, sei es gleichzeitig oder zu verschiedenen Zeitpunkten oder bei einer oder mehrerer der vorgenannten Regierungen. Die Daten, welche im oben aufgeführten Geltungsbereich erwähnt sind, beziehen sich auf die zuerst erfolgte Ratifikation bzw. Nachfolgeerklärung sowie auf den zuerst erfolgten Beitritt.
