@@ -3,11 +3,11 @@ sr: "0.732.011"
 title: "Statut de l'Agence internationale de l'énergie atomique du 26 octobre 1956 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/505_527_527"
 language: fr
-version: 2020-05-12
+version: 2024-03-26
 adopted: 1956-10-26
 in_force: 1957-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20200512/fr/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20200512-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20200512/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20240326/fr/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20240326-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20240326/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 5 avril 1957
 
 Entré en vigueur pour la Suisse le 29 juillet 1957
 
-(Etat le 12 mai 2020)
+(État le 26 mars 2024)
 
 [^t-1]: [RO 1958 525](https://fedlex.data.admin.ch/eli/oc/1958/503_525_525)
 
@@ -447,7 +447,7 @@ C. La Commission préparatoire:
 - 7. a. entamera des négociations avec les Nations Unies pour préparer, conformément à l’art. XVI du présent statut, un projet d’accord à soumettre à la Conférence générale à sa première session et au Conseil des gouverneurs à sa première réunion;
   - b. fera des recommandations à la Conférence générale, à sa première session, et au Conseil des gouverneurs, à sa première réunion, au sujet des relations, dont il est question à l’art. XVI du présent statut, entre l’Agence et d’autres organisations internationales.
 
-Champ d’application le 12 mai 2020**[^t-2]**
+Champ d’application le 26 mars 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -458,7 +458,7 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Allemagne</td><td>1<sup>er</sup> octobre</td><td>1957</td><td>1<sup>er</sup> octobre</td><td>1957</td></tr>
 <tr><td>Angola <sup>a</sup></td><td>9 novembre</td><td>1999</td><td>9 novembre</td><td>1999</td></tr>
 <tr><td>Antigua-et-Barbuda <sup>a</sup></td><td>14 octobre</td><td>2015</td><td>14 octobre</td><td>2015</td></tr>
-<tr><td>Arabie Saoudite</td><td>13 décembre</td><td>1962</td><td>13 décembre</td><td>1962</td></tr>
+<tr><td>Arabie Saoudite <sup>a</sup></td><td>13 décembre</td><td>1962</td><td>13 décembre</td><td>1962</td></tr>
 <tr><td>Argentine\*</td><td>3 octobre</td><td>1957</td><td>3 octobre</td><td>1957</td></tr>
 <tr><td>Arménie <sup>a</sup></td><td>27 septembre</td><td>1993</td><td>27 septembre</td><td>1993</td></tr>
 <tr><td>Australie</td><td>29 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
@@ -480,13 +480,15 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Bulgarie</td><td>17 août</td><td>1957</td><td>17 août</td><td>1957</td></tr>
 <tr><td>Burkina Faso <sup>a</sup></td><td>14 septembre</td><td>1998</td><td>14 septembre</td><td>1998</td></tr>
 <tr><td>Burundi <sup>a</sup></td><td>24 juin</td><td>2009</td><td>24 juin</td><td>2009</td></tr>
-<tr><td>Cambodge</td><td>23 novembre</td><td>2009</td><td>23 novembre</td><td>2009</td></tr>
-<tr><td>Cameroun</td><td>13 juillet</td><td>1964</td><td>13 juillet</td><td>1964</td></tr>
+<tr><td>Cambodge <sup>a</sup></td><td>23 novembre</td><td>2009</td><td>23 novembre</td><td>2009</td></tr>
+<tr><td>Cameroun <sup>a</sup></td><td>13 juillet</td><td>1964</td><td>13 juillet</td><td>1964</td></tr>
 <tr><td>Canada</td><td>29 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
+<tr><td>Cap-Vert <sup>a</sup></td><td>4 avril</td><td>2023</td><td>4 avril</td><td>2023</td></tr>
 <tr><td>Chili</td><td>19 septembre</td><td>1960</td><td>19 septembre</td><td>1960</td></tr>
 <tr><td>Chine <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>1984</td><td>1<sup>er</sup> janvier</td><td>1984</td></tr>
 <tr><td>Chypre <sup>a</sup></td><td>7 juin</td><td>1965</td><td>7 juin</td><td>1965</td></tr>
 <tr><td>Colombie</td><td>30 septembre</td><td>1960</td><td>30 septembre</td><td>1960</td></tr>
+<tr><td>Comores <sup>a</sup></td><td>17 septembre</td><td>2020</td><td>17 septembre</td><td>2020</td></tr>
 <tr><td>Congo (Brazzaville)<sup>a</sup></td><td>15 juillet</td><td>2009</td><td>15 juillet</td><td>2009</td></tr>
 <tr><td>Congo (Kinshasa)<sup>a</sup></td><td>10 octobre</td><td>1961</td><td>10 octobre</td><td>1961</td></tr>
 <tr><td>Corée (Sud)</td><td>8 août</td><td>1957</td><td>8 août</td><td>1957</td></tr>
@@ -511,14 +513,16 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Finlande <sup>a</sup></td><td>7 janvier</td><td>1958</td><td>7 janvier</td><td>1958</td></tr>
 <tr><td>France</td><td>29 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Gabon <sup>a</sup></td><td>21 janvier</td><td>1964</td><td>21 janvier</td><td>1964</td></tr>
+<tr><td>Gambie <sup>a</sup></td><td>3 janvier</td><td>2023</td><td>3 janvier</td><td>2023</td></tr>
 <tr><td>Géorgie <sup>a</sup></td><td>23 février</td><td>1996</td><td>23 février</td><td>1996</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td>28 septembre</td><td>1960</td><td>28 septembre</td><td>1960</td></tr>
 <tr><td>Grèce</td><td>30 septembre</td><td>1957</td><td>30 septembre</td><td>1957</td></tr>
 <tr><td>Grenade <sup>a</sup></td><td>30 avril</td><td>2018</td><td>30 avril</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>29 mars</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
+<tr><td>Guinée <sup>a</sup></td><td>19 septembre</td><td>2023</td><td>19 septembre</td><td>2023</td></tr>
 <tr><td>Guyana <sup>a</sup></td><td>27 janvier</td><td>2015</td><td>27 janvier</td><td>2015</td></tr>
 <tr><td>Haïti</td><td>7 octobre</td><td>1957</td><td>7 octobre</td><td>1957</td></tr>
-<tr><td>Honduras</td><td>24 février</td><td>2003</td><td>24 février</td><td>2003</td></tr>
+<tr><td>Honduras <sup>a</sup></td><td>24 février</td><td>2003</td><td>24 février</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>8 août</td><td>1957</td><td>8 août</td><td>1957</td></tr>
 <tr><td>Îles Marshall <sup>a</sup></td><td>26 janvier</td><td>1994</td><td>26 janvier</td><td>1994</td></tr>
 <tr><td>Inde\*</td><td>16 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
@@ -569,7 +573,7 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Norvège</td><td>10 juin</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>13 septembre</td><td>1957</td><td>13 septembre</td><td>1957</td></tr>
 <tr><td>Oman <sup>a</sup></td><td>5 février</td><td>2009</td><td>5 février</td><td>2009</td></tr>
-<tr><td>Ouganda</td><td>30 août</td><td>1967</td><td>30 août</td><td>1967</td></tr>
+<tr><td>Ouganda <sup>a</sup></td><td>30 août</td><td>1967</td><td>30 août</td><td>1967</td></tr>
 <tr><td>Ouzbékistan <sup>a</sup></td><td>26 janvier</td><td>1994</td><td>26 janvier</td><td>1994</td></tr>
 <tr><td>Pakistan</td><td>2 mai</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Palaos <sup>a</sup></td><td>2 mars</td><td>2007</td><td>2 mars</td><td>2007</td></tr>
@@ -587,22 +591,24 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Portugal</td><td>12 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Qatar <sup>a</sup></td><td>27 février</td><td>1976</td><td>27 février</td><td>1976</td></tr>
 <tr><td>République centrafricaine <sup>a</sup></td><td>5 janvier</td><td>2001</td><td>5 janvier</td><td>2001</td></tr>
-<tr><td>République dominicaine <sup>a</sup></td><td>11 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
+<tr><td>République dominicaine</td><td>11 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>République tchèque <sup>a</sup></td><td>27 septembre</td><td>1993</td><td>27 septembre</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>12 avril</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Russie</td><td>8 avril</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Rwanda <sup>a</sup></td><td>4 septembre</td><td>2012</td><td>4 septembre</td><td>2012</td></tr>
+<tr><td>Saint-Kitts-et-Nevis <sup>a</sup></td><td>9 février</td><td>2022</td><td>9 février</td><td>2022</td></tr>
 <tr><td>Saint-Marin <sup>a</sup></td><td>25 novembre</td><td>2013</td><td>25 novembre</td><td>2013</td></tr>
 <tr><td>Saint-Siège</td><td>20 août</td><td>1957</td><td>20 août</td><td>1957</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines <sup>a</sup></td><td>4 décembre</td><td>2017</td><td>4 décembre</td><td>2017</td></tr>
-<tr><td>Sainte-Lucie <sup>a</sup></td><td>5 février</td><td>2019</td><td>5 février</td><td>2019</td></tr>
+<tr><td>Sainte-Lucie</td><td>5 février</td><td>2019</td><td>5 février</td><td>2019</td></tr>
+<tr><td>Samoa <sup>a</sup></td><td>7 avril</td><td>2021</td><td>7 avril</td><td>2021</td></tr>
 <tr><td>Sénégal <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1960</td><td>1<sup>er</sup> novembre</td><td>1960</td></tr>
 <tr><td>Serbie <sup>a</sup></td><td>31 octobre</td><td>2001</td><td>31 octobre</td><td>2001</td></tr>
 <tr><td>Seychelles <sup>a</sup></td><td>22 avril</td><td>2003</td><td>22 avril</td><td>2003</td></tr>
 <tr><td>Sierra Leone <sup>a</sup></td><td>4 juin</td><td>1967</td><td>4 juin</td><td>1967</td></tr>
-<tr><td>Singapour <sup>a</sup></td><td>5 janvier</td><td>1967</td><td>5 janvier</td><td>1967</td></tr>
-<tr><td>Slovaquie <sup>a</sup></td><td>27 septembre</td><td>1993</td><td>27 septembre</td><td>1993</td></tr>
+<tr><td>Singapour</td><td>5 janvier</td><td>1967</td><td>5 janvier</td><td>1967</td></tr>
+<tr><td>Slovaquie</td><td>27 septembre</td><td>1993</td><td>27 septembre</td><td>1993</td></tr>
 <tr><td>Slovénie <sup>a</sup></td><td>21 septembre</td><td>1992</td><td>21 septembre</td><td>1992</td></tr>
 <tr><td>Soudan</td><td>17 juillet</td><td>1958</td><td>17 juillet</td><td>1958</td></tr>
 <tr><td>Sri Lanka</td><td>22 août</td><td>1957</td><td>22 août</td><td>1957</td></tr>
@@ -614,10 +620,11 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Tchad <sup>a</sup></td><td>2 novembre</td><td>2005</td><td>2 novembre</td><td>2005</td></tr>
 <tr><td>Thaïlande</td><td>15 octobre</td><td>1957</td><td>15 octobre</td><td>1957</td></tr>
 <tr><td>Togo <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>2012</td><td>1<sup>er</sup> novembre</td><td>2012</td></tr>
+<tr><td>Tonga <sup>a</sup></td><td>2 mars</td><td>2022</td><td>2 mars</td><td>2022</td></tr>
 <tr><td>Trinité-et-Tobago <sup>a</sup></td><td>9 novembre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
 <tr><td>Tunisie</td><td>14 octobre</td><td>1957</td><td>14 octobre</td><td>1957</td></tr>
 <tr><td>Turkménistan <sup>a</sup></td><td>16 février</td><td>2016</td><td>16 février</td><td>2016</td></tr>
-<tr><td>Turquie</td><td>19 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
+<tr><td>Turquie <sup>a</sup></td><td>19 juillet</td><td>1957</td><td>29 juillet</td><td>1957</td></tr>
 <tr><td>Ukraine\*</td><td>31 juillet</td><td>1957</td><td>31 juillet</td><td>1957</td></tr>
 <tr><td>Uruguay</td><td>22 janvier</td><td>1963</td><td>22 janvier</td><td>1963</td></tr>
 <tr><td>Vanuatu <sup>a</sup></td><td>9 septembre</td><td>2015</td><td>9 septembre</td><td>2015</td></tr>
@@ -626,14 +633,14 @@ Champ d’application le 12 mai 2020**[^t-2]**
 <tr><td>Yémen <sup>a</sup></td><td>14 octobre</td><td>1994</td><td>14 octobre</td><td>1994</td></tr>
 <tr><td>Zambie <sup>a</sup></td><td>8 janvier</td><td>1969</td><td>8 janvier</td><td>1969</td></tr>
 <tr><td>Zimbabwe <sup>a</sup></td><td>1<sup>er</sup> août</td><td>1986</td><td>1<sup>er</sup> août</td><td>1986</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État participant a déposé un instrument d’acceptation selon art. IV lettre B du Statut.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: [www.state.gov](https://www.state.gov/nuclear-energy-status-lists/) &gt; Home &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Depositary Information &gt; Status List &gt; Nuclear Energy, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État participant a déposé un instrument d’acceptation selon art. IV lettre B du Statut.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380); [2024 135](https://fedlex.data.admin.ch/eli/oc/2024/135). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
 
 Réserves et déclarations
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 À l’occasion du dépôt de son instrument de ratification concernant le statut de l’Agence internationale de l’énergie atomique, la Suisse fait la réserve de portée générale que sa collaboration à l’Agence internationale de l’énergie atomique, notamment en ce qui concerne les relations de cette organisation avec l’Organisation des Nations Unies, ne peut dépasser le cadre que lui assigne sa position d’État perpétuellement neutre. C’est dans le sens de cette réserve générale qu’elle formule une réserve particulière tant à l’égard du texte de l’art. 111, let. B, ch. 4, du statut, qu’à l’égard de toute clause analogue qui pourrait remplacer ou compléter ces dispositions dans ce statut ou dans un autre arrangement.
 

@@ -3,11 +3,11 @@ sr: "0.732.011"
 title: Statut der Internationalen Atomenergie-Agentur vom 26. Oktober 1956 (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/505_527_527"
 language: de
-version: 2020-05-12
+version: 2024-03-26
 adopted: 1956-10-26
 in_force: 1957-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20200512/de/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20200512-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20200512/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20240326/de/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20240326-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20240326/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1958** 505; BBl **1957** I 829
 
 Abgeschlossen in New York am 26. Oktober 1956 Von der Bundesversammlung genehmigt am 18. März 1957[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. April 1957 In Kraft getreten für die Schweiz am 29. Juli 1957
 
-(Stand am 12. Mai 2020)
+(Stand am 26. März 2024)
 
 [^t-1]: [AS 1958 503](https://fedlex.data.admin.ch/eli/oc/1958/503_525_525)
 
@@ -504,7 +504,7 @@ C. Die Vorbereitende Kommission
 - 7. a) nimmt Verhandlungen mit den Vereinten Nationen zwecks Ausarbeitung des Entwurfs einer Vereinbarung gemäss Artikel XVI dieses Statuts auf; dieser Entwurf ist der Generalkonferenz bei ihrer ersten Tagung und dem Direktionskomitee bei einer ersten Sitzung vorzulegen; und
   - b) unterbreitet der ersten Tagung der Generalkonferenz und der ersten Sitzung des Direktionskomitees Empfehlungen über die in Artikel XVI dieses Statuts vorgesehenen Beziehungen der Agentur zu anderen internationalen Organisationen.
 
-Geltungsbereich am 12. Mai 2020**[^t-2]**
+Geltungsbereich am 26. März 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -553,15 +553,17 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Finnland <sup>a</sup></td><td>7. Januar</td><td>1958</td><td>7. Januar</td><td>1958</td></tr>
 <tr><td>Frankreich</td><td>29. Juli</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
 <tr><td>Gabun <sup>a</sup></td><td>21. Januar</td><td>1964</td><td>21. Januar</td><td>1964</td></tr>
+<tr><td>Gambia <sup>a</sup></td><td>3. Januar</td><td>2023</td><td>3. Januar</td><td>2023</td></tr>
 <tr><td>Georgien <sup>a</sup></td><td>23. Februar</td><td>1996</td><td>23. Februar</td><td>1996</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td>28. September</td><td>1960</td><td>28. September</td><td>1960</td></tr>
 <tr><td>Grenada <sup>a</sup></td><td>30. April</td><td>2018</td><td>30. April</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>30. September</td><td>1957</td><td>30. September</td><td>1957</td></tr>
 <tr><td>Guatemala</td><td>29. März</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
+<tr><td>Guinea <sup>a</sup></td><td>19. September</td><td>2023</td><td>19. September</td><td>2023</td></tr>
 <tr><td>Guyana <sup>a</sup></td><td>27. Januar</td><td>2015</td><td>27. Januar</td><td>2015</td></tr>
 <tr><td>Haiti</td><td>7. Oktober</td><td>1957</td><td>7. Oktober</td><td>1957</td></tr>
 <tr><td>Heiliger Stuhl</td><td>20. August</td><td>1957</td><td>20. August</td><td>1957</td></tr>
-<tr><td>Honduras</td><td>24. Februar</td><td>2003</td><td>24. Februar</td><td>2003</td></tr>
+<tr><td>Honduras <sup>a</sup></td><td>24. Februar</td><td>2003</td><td>24. Februar</td><td>2003</td></tr>
 <tr><td>Indien\*</td><td>16. Juli</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
 <tr><td>Indonesien</td><td>7. August</td><td>1957</td><td>7. August</td><td>1957</td></tr>
 <tr><td>Irak</td><td>4. März</td><td>1959</td><td>4. März</td><td>1959</td></tr>
@@ -577,11 +579,13 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Kambodscha <sup>a</sup></td><td>23. November</td><td>2009</td><td>23. November</td><td>2009</td></tr>
 <tr><td>Kamerun <sup>a</sup></td><td>13. Juli</td><td>1964</td><td>13. Juli</td><td>1964</td></tr>
 <tr><td>Kanada</td><td>29. Juli</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
+<tr><td>Kap Verde <sup>a</sup></td><td>4. April</td><td>2023</td><td>4. April</td><td>2023</td></tr>
 <tr><td>Kasachstan <sup>a</sup></td><td>14. Februar</td><td>1994</td><td>14. Februar</td><td>1994</td></tr>
 <tr><td>Katar <sup>a</sup></td><td>27. Februar</td><td>1976</td><td>27. Februar</td><td>1976</td></tr>
 <tr><td>Kenia <sup>a</sup></td><td>12. Juli</td><td>1965</td><td>12. Juli</td><td>1965</td></tr>
 <tr><td>Kirgisistan <sup>a</sup></td><td>10. September</td><td>2003</td><td>10. September</td><td>2003</td></tr>
 <tr><td>Kolumbien</td><td>30. September</td><td>1960</td><td>30. September</td><td>1960</td></tr>
+<tr><td>Komoren <sup>a</sup></td><td>17. September</td><td>2020</td><td>17. September</td><td>2020</td></tr>
 <tr><td>Kongo (Brazzaville)<sup>a</sup></td><td>15. Juli</td><td>2009</td><td>15. Juli</td><td>2009</td></tr>
 <tr><td>Kongo (Kinshasa)<sup>a</sup></td><td>10. Oktober</td><td>1961</td><td>10. Oktober</td><td>1961</td></tr>
 <tr><td>Korea (Süd-)</td><td>8. August</td><td>1957</td><td>8. August</td><td>1957</td></tr>
@@ -641,6 +645,7 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Rumänien</td><td>12. April</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
 <tr><td>Russland</td><td>8. April</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
 <tr><td>Sambia <sup>a</sup></td><td>8. Januar</td><td>1969</td><td>8. Januar</td><td>1969</td></tr>
+<tr><td>Samoa <sup>a</sup></td><td>7. April</td><td>2021</td><td>7. April</td><td>2021</td></tr>
 <tr><td>San Marino <sup>a</sup></td><td>25. November</td><td>2013</td><td>25. November</td><td>2013</td></tr>
 <tr><td>Saudi-Arabien <sup>a</sup></td><td>13. Dezember</td><td>1962</td><td>13. Dezember</td><td>1962</td></tr>
 <tr><td>Schweden</td><td>19. Juni</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
@@ -650,12 +655,13 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Seychellen <sup>a</sup></td><td>22. April</td><td>2003</td><td>22. April</td><td>2003</td></tr>
 <tr><td>Sierra Leone <sup>a</sup></td><td>4. Juni</td><td>1967</td><td>4. Juni</td><td>1967</td></tr>
 <tr><td>Simbabwe <sup>a</sup></td><td>1. August</td><td>1986</td><td>1. August</td><td>1986</td></tr>
-<tr><td>Singapur <sup>a</sup></td><td>5. Januar</td><td>1967</td><td>5. Januar</td><td>1967</td></tr>
-<tr><td>Slowakei <sup>a</sup></td><td>27. September</td><td>1993</td><td>27. September</td><td>1993</td></tr>
+<tr><td>Singapur</td><td>5. Januar</td><td>1967</td><td>5. Januar</td><td>1967</td></tr>
+<tr><td>Slowakei</td><td>27. September</td><td>1993</td><td>27. September</td><td>1993</td></tr>
 <tr><td>Slowenien <sup>a</sup></td><td>21. September</td><td>1992</td><td>21. September</td><td>1992</td></tr>
 <tr><td>Spanien</td><td>26. August</td><td>1957</td><td>26. August</td><td>1957</td></tr>
 <tr><td>Sri Lanka</td><td>22. August</td><td>1957</td><td>22. August</td><td>1957</td></tr>
-<tr><td>St. Lucia <sup>a</sup></td><td>5. Februar</td><td>2019</td><td>5. Februar</td><td>2019</td></tr>
+<tr><td>St. Kitts und Nevis <sup>a</sup></td><td>9. Februar</td><td>2022</td><td>9. Februar</td><td>2022</td></tr>
+<tr><td>St. Lucia</td><td>5. Februar</td><td>2019</td><td>5. Februar</td><td>2019</td></tr>
 <tr><td>St. Vincent und die Grenadinen <sup>a</sup></td><td>4. Dezember</td><td>2017</td><td>4. Dezember</td><td>2017</td></tr>
 <tr><td>Sudan</td><td>17. Juli</td><td>1958</td><td>17. Juli</td><td>1958</td></tr>
 <tr><td>Syrien</td><td>6. Juni</td><td>1963</td><td>6. Juni</td><td>1963</td></tr>
@@ -664,12 +670,13 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Tansania <sup>a</sup></td><td>6. Januar</td><td>1976</td><td>6. Januar</td><td>1976</td></tr>
 <tr><td>Thailand</td><td>15. Oktober</td><td>1957</td><td>15. Oktober</td><td>1957</td></tr>
 <tr><td>Togo <sup>a</sup></td><td>1. November</td><td>2012</td><td>1. November</td><td>2012</td></tr>
+<tr><td>Tonga <sup>a</sup></td><td>2. März</td><td>2022</td><td>2. März</td><td>2022</td></tr>
 <tr><td>Trinidad und Tobago <sup>a</sup></td><td>9. November</td><td>2012</td><td>9. November</td><td>2012</td></tr>
 <tr><td>Tschad <sup>a</sup></td><td>2. November</td><td>2005</td><td>2. November</td><td>2005</td></tr>
 <tr><td>Tschechische Republik <sup>a</sup></td><td>27. September</td><td>1993</td><td>27. September</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>14. Oktober</td><td>1957</td><td>14. Oktober</td><td>1957</td></tr>
 <tr><td>Turkmenistan <sup>a</sup></td><td>16. Februar</td><td>2016</td><td>16. Februar</td><td>2016</td></tr>
-<tr><td>Türkei</td><td>19. Juli</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
+<tr><td>Türkei <sup>a</sup></td><td>19. Juli</td><td>1957</td><td>29. Juli</td><td>1957</td></tr>
 <tr><td>Uganda <sup>a</sup></td><td>30. August</td><td>1967</td><td>30. August</td><td>1967</td></tr>
 <tr><td>Ukraine\*</td><td>31. Juli</td><td>1957</td><td>31. Juli</td><td>1957</td></tr>
 <tr><td>Ungarn</td><td>8. August</td><td>1957</td><td>8. August</td><td>1957</td></tr>
@@ -683,10 +690,10 @@ Geltungsbereich am 12. Mai 2020**[^t-2]**
 <tr><td>Vietnam</td><td>20. Juli</td><td>1976 N</td><td>2. Juli</td><td>1976</td></tr>
 <tr><td>Zentralafrikanische Republik <sup>a</sup></td><td>5. Januar</td><td>2001</td><td>5. Januar</td><td>2001</td></tr>
 <tr><td>Zypern <sup>a</sup></td><td>7. Juni</td><td>1965</td><td>7. Juni</td><td>1965</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat eine Annahmeurkunde gemäss Art. IV Buchstabe B der Satzung hinterlegt.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: [https://www.state.gov/nuclear-energy-status-lists/](https://www.state.gov/nuclear-energy-status-lists/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat eine Annahmeurkunde gemäss Art. IV Buchstabe B der Satzung hinterlegt.</td></tr>
 </table>
 
-[^t-2]: [AS 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380); [2024 135](https://fedlex.data.admin.ch/eli/oc/2024/135). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

@@ -3,11 +3,11 @@ sr: "0.732.011"
 title: "Statuto dell'Agenzia internazionale dell'energia nucleare, del 26 ottobre 1956 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/505_527_527"
 language: it
-version: 2020-05-12
+version: 2024-03-26
 adopted: 1956-10-26
 in_force: 1957-07-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20200512/it/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20200512-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20200512/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/505_527_527/20240326/it/xml/fedlex-data-admin-ch-eli-cc-1958-505_527_527-20240326-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/505_527_527/20240326/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1958** 527; FF **1957** 1829 ediz. ted. 853 ediz. franc.
 
 Traduzione
 
-Conchiuso a Nuova York il 26 ottobre 1956
+Conchiuso a Nuova York il 26 ottobre 1956 Approvato dall’Assemblea federale il 18 marzo 1957[^t-1] Istrumento di ratificazione depositato per la Svizzera il 5 aprile 1957 Entrato in vigore per la Svizzera il 29 luglio 1957
 
-Approvato dall’Assemblea federale il 18 marzo 1957[^t-1]
-
-Istrumento di ratificazione depositato per la Svizzera il 5 aprile 1957
-
-Entrato in vigore per la Svizzera il 29 luglio 1957
-
-(Stato 12 maggio 2020)
+(Stato 26 marzo 2024)
 
 [^t-1]: [RU 1958 525](https://fedlex.data.admin.ch/eli/oc/1958/503_525_525)
 
@@ -508,7 +502,7 @@ C. La Commissione preparatoria:
 [^annexu1-lvlu1-5]: Ora: Consiglio dei governatori.
 [^annexu1-lvlu1-6]: Ora: Consiglio dei governatori.
 
-Campo d’applicazione il 12 maggio 2020**[^t-2]**
+Campo d’applicazione il 26 marzo 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -540,21 +534,23 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Burkina Faso <sup>a</sup></td><td>14 settembre</td><td>1998</td><td>14 settembre</td><td>1998</td></tr>
 <tr><td>Burundi <sup>a</sup></td><td>24 giugno</td><td>2009</td><td>24 giugno</td><td>2009</td></tr>
 <tr><td>Cambogia <sup>a</sup></td><td>23 novembre</td><td>2009</td><td>23 novembre</td><td>2009</td></tr>
-<tr><td>Camerun</td><td>13 luglio</td><td>1964</td><td>13 luglio</td><td>1964</td></tr>
+<tr><td>Camerun <sup>a</sup></td><td>13 luglio</td><td>1964</td><td>13 luglio</td><td>1964</td></tr>
 <tr><td>Canada</td><td>29 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
+<tr><td>Capo Verde <sup>a</sup></td><td>4 aprile</td><td>2023</td><td>4 aprile</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica <sup>a</sup></td><td>27 settembre</td><td>1993</td><td>27 settembre</td><td>1993</td></tr>
 <tr><td>Ciad <sup>a</sup></td><td>2 novembre</td><td>2005</td><td>2 novembre</td><td>2005</td></tr>
 <tr><td>Cile</td><td>19 settembre</td><td>1960</td><td>19 settembre</td><td>1960</td></tr>
 <tr><td>Cina</td><td>1° gennaio</td><td>1984</td><td>1° gennaio</td><td>1984</td></tr>
 <tr><td>Cipro <sup>a</sup></td><td>7 giugno</td><td>1965</td><td>7 giugno</td><td>1965</td></tr>
 <tr><td>Colombia</td><td>30 settembre</td><td>1960</td><td>30 settembre</td><td>1960</td></tr>
+<tr><td>Comore <sup>a</sup></td><td>17 settembre</td><td>2020</td><td>17 settembre</td><td>2020</td></tr>
 <tr><td>Congo (Brazzaville) <sup>a</sup></td><td>15 luglio</td><td>2009</td><td>15 luglio</td><td>2009</td></tr>
 <tr><td>Congo (Kinshasa) <sup>a</sup></td><td>10 ottobre</td><td>1961</td><td>10 ottobre</td><td>1961</td></tr>
 <tr><td>Corea (Sud)</td><td>8 agosto</td><td>1957</td><td>8 agosto</td><td>1957</td></tr>
 <tr><td>Costa Rica</td><td>25 marzo</td><td>1965</td><td>25 marzo</td><td>1965</td></tr>
+<tr><td>Côte d’Ivoire <sup>a</sup></td><td>19 novembre</td><td>1963</td><td>19 novembre</td><td>1963</td></tr>
 <tr><td>Croazia <sup>a</sup></td><td>12 febbraio</td><td>1993</td><td>12 febbraio</td><td>1993</td></tr>
 <tr><td>Cuba</td><td>1° ottobre</td><td>1957</td><td>1° ottobre</td><td>1957</td></tr>
-<tr><td>Côte d’Ivoire <sup>a</sup></td><td>19 novembre</td><td>1963</td><td>19 novembre</td><td>1963</td></tr>
 <tr><td>Danimarca</td><td>16 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
 <tr><td>Dominica <sup>a</sup></td><td>17 febbraio</td><td>2012</td><td>17 febbraio</td><td>2012</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>11 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
@@ -571,6 +567,7 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Finlandia</td><td>7 gennaio</td><td>1958</td><td>7 gennaio</td><td>1958</td></tr>
 <tr><td>Francia</td><td>29 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
 <tr><td>Gabon <sup>a</sup></td><td>21 gennaio</td><td>1964</td><td>21 gennaio</td><td>1964</td></tr>
+<tr><td>Gambia <sup>a</sup></td><td>3 gennaio</td><td>2023</td><td>3 gennaio</td><td>2023</td></tr>
 <tr><td>Georgia <sup>a</sup></td><td>23 febbraio</td><td>1996</td><td>23 febbraio</td><td>1996</td></tr>
 <tr><td>Germania</td><td>1° ottobre</td><td>1957</td><td>1° ottobre</td><td>1957</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td>28 settembre</td><td>1960</td><td>28 settembre</td><td>1960</td></tr>
@@ -581,9 +578,10 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Grecia</td><td>30 settembre</td><td>1957</td><td>30 settembre</td><td>1957</td></tr>
 <tr><td>Grenada <sup>a</sup></td><td>30 aprile</td><td>2018</td><td>30 aprile</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>29 marzo</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
+<tr><td>Guinea <sup>a</sup></td><td>19 settembre</td><td>2023</td><td>19 settembre</td><td>2023</td></tr>
 <tr><td>Guyana <sup>a</sup></td><td>27 gennaio</td><td>2015</td><td>27 gennaio</td><td>2015</td></tr>
 <tr><td>Haiti</td><td>7 ottobre</td><td>1957</td><td>7 ottobre</td><td>1957</td></tr>
-<tr><td>Honduras</td><td>24 febbraio</td><td>2003</td><td>24 febbraio</td><td>2003</td></tr>
+<tr><td>Honduras <sup>a</sup></td><td>24 febbraio</td><td>2003</td><td>24 febbraio</td><td>2003</td></tr>
 <tr><td>India\*</td><td>16 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
 <tr><td>Indonesia</td><td>7 agosto</td><td>1957</td><td>7 agosto</td><td>1957</td></tr>
 <tr><td>Iran</td><td>16 settembre</td><td>1958</td><td>16 settembre</td><td>1958</td></tr>
@@ -649,17 +647,19 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Romania</td><td>12 aprile</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
 <tr><td>Ruanda <sup>a</sup></td><td>4 settembre</td><td>2012</td><td>4 settembre</td><td>2012</td></tr>
 <tr><td>Russia</td><td>8 aprile</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
-<tr><td>Saint Lucia <sup>a</sup></td><td>5 febbraio</td><td>2019</td><td>5 febbraio</td><td>2019</td></tr>
+<tr><td>Saint Kitts e Nevis <sup>a</sup></td><td>9 febbraio</td><td>2022</td><td>9 febbraio</td><td>2022</td></tr>
+<tr><td>Saint Lucia</td><td>5 febbraio</td><td>2019</td><td>5 febbraio</td><td>2019</td></tr>
 <tr><td>Saint Vincent e Grenadine <sup>a</sup></td><td>4 dicembre</td><td>2017</td><td>4 dicembre</td><td>2017</td></tr>
+<tr><td>Samoa <sup>a</sup></td><td>7 aprile</td><td>2021</td><td>7 aprile</td><td>2021</td></tr>
 <tr><td>San Marino <sup>a</sup></td><td>25 novembre</td><td>2013</td><td>25 novembre</td><td>2013</td></tr>
 <tr><td>Santa Sede</td><td>20 agosto</td><td>1957</td><td>20 agosto</td><td>1957</td></tr>
 <tr><td>Seicelle <sup>a</sup></td><td>22 aprile</td><td>2003</td><td>22 aprile</td><td>2003</td></tr>
 <tr><td>Senegal <sup>a</sup></td><td>1° novembre</td><td>1960</td><td>1° novembre</td><td>1960</td></tr>
 <tr><td>Serbia <sup>a</sup></td><td>31 ottobre</td><td>2001</td><td>31 ottobre</td><td>2001</td></tr>
 <tr><td>Sierra Leone <sup>a</sup></td><td>4 giugno</td><td>1967</td><td>4 giugno</td><td>1967</td></tr>
-<tr><td>Singapore <sup>a</sup></td><td>5 gennaio</td><td>1967</td><td>5 gennaio</td><td>1967</td></tr>
+<tr><td>Singapore</td><td>5 gennaio</td><td>1967</td><td>5 gennaio</td><td>1967</td></tr>
 <tr><td>Siria</td><td>6 giugno</td><td>1963</td><td>6 giugno</td><td>1963</td></tr>
-<tr><td>Slovacchia <sup>a</sup></td><td>27 settembre</td><td>1993</td><td>27 settembre</td><td>1993</td></tr>
+<tr><td>Slovacchia</td><td>27 settembre</td><td>1993</td><td>27 settembre</td><td>1993</td></tr>
 <tr><td>Slovenia <sup>a</sup></td><td>21 settembre</td><td>1992</td><td>21 settembre</td><td>1992</td></tr>
 <tr><td>Spagna</td><td>26 agosto</td><td>1957</td><td>26 agosto</td><td>1957</td></tr>
 <tr><td>Sri Lanka</td><td>22 agosto</td><td>1957</td><td>22 agosto</td><td>1957</td></tr>
@@ -672,9 +672,10 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Tanzania <sup>a</sup></td><td>6 gennaio</td><td>1976</td><td>6 gennaio</td><td>1976</td></tr>
 <tr><td>Thailandia</td><td>15 ottobre</td><td>1957</td><td>15 ottobre</td><td>1957</td></tr>
 <tr><td>Togo <sup>a</sup></td><td>1° novembre</td><td>2012</td><td>1° novembre</td><td>2012</td></tr>
+<tr><td>Tonga <sup>a</sup></td><td>2 marzo</td><td>2022</td><td>2 marzo</td><td>2022</td></tr>
 <tr><td>Trinidad e Tobago <sup>a</sup></td><td>9 novembre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
 <tr><td>Tunisia</td><td>14 ottobre</td><td>1957</td><td>14 ottobre</td><td>1957</td></tr>
-<tr><td>Turchia</td><td>19 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
+<tr><td>Turchia <sup>a</sup></td><td>19 luglio</td><td>1957</td><td>29 luglio</td><td>1957</td></tr>
 <tr><td>Turkmenistan <sup>a</sup></td><td>16 febbraio</td><td>2016</td><td>16 febbraio</td><td>2016</td></tr>
 <tr><td>Ucraina\*</td><td>31 luglio</td><td>1957</td><td>31 luglio</td><td>1957</td></tr>
 <tr><td>Uganda <sup>a</sup></td><td>30 agosto</td><td>1967</td><td>30 agosto</td><td>1967</td></tr>
@@ -687,10 +688,10 @@ Campo d’applicazione il 12 maggio 2020**[^t-2]**
 <tr><td>Yemen <sup>a</sup></td><td>14 ottobre</td><td>1994</td><td>14 ottobre</td><td>1994</td></tr>
 <tr><td>Zambia <sup>a</sup></td><td>8 gennaio</td><td>1969</td><td>8 gennaio</td><td>1969</td></tr>
 <tr><td>Zimbabwe <sup>a</sup></td><td>1° agosto</td><td>1986</td><td>1° agosto</td><td>1986</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni, non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato partecipante ha depositato uno strumento di accettazione ai sensi dell’art. IV, lett. B dello Statuto.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni, non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet del Stati Uniti, all’indirizzo: [https://www.state.gov/nuclear-energy-status-lists/](https://www.state.gov/nuclear-energy-status-lists/%20) o ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato partecipante ha depositato uno strumento di accettazione ai sensi dell’art. IV, lett. B dello Statuto.</td></tr>
 </table>
 
-[^t-2]: [RU 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380). Una versione aggiornata del campo d’applicazione è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2020 1859](https://fedlex.data.admin.ch/eli/oc/2020/380); [2024 135](https://fedlex.data.admin.ch/eli/oc/2024/135). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
