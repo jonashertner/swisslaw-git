@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sulla sorveglianza della corrispondenza po
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: it
-version: 2024-01-01
+version: 2024-03-26
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240326/it/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240326-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240326/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/it"
 
 (OSCPT)
 
-del 15 novembre 2017 (Stato 1° gennaio 2024)
+del 15 novembre 2017 (Stato 26 marzo 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ vista la legge federale del 18 marzo 2016[^ingress-1] sulla sorveglianza della c
 
 ordina:
 
-[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^ingress-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^ingress-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -110,8 +110,8 @@ Se constata che la sorveglianza riguarda una persona tenuta al segreto d’uffic
 - b. se la sorveglianza è stata ordinata da un’autorità di perseguimento penale militare: nel caso di persone appartenenti a una delle categorie professionali di cui all’articolo 75 lettera b PPM, qualora non siano stati presi i provvedimenti di cui all’articolo 70*b* PPM;
 - c. se la sorveglianza è stata ordinata dal SIC: nel caso di persone appartenenti a una delle categorie professionali di cui agli articoli 171–173 CPP, qualora non siano stati presi i provvedimenti di cui all’articolo 58 capoverso 3 della legge federale del 25 settembre 2015[^5-1] sulle attività informative in combinato disposto con l’articolo 23 dell’ordinanza del 16 agosto 2017[^5-2] sui servizi d’informazione.
 
-[^5-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^5-2]: [RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^5-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^5-2]: [RS 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Il fascicolo comprende tutti i documenti relativi al caso, in particolare:
 
 <sup>3</sup> I dati della sorveglianza sono conservati conformemente all’articolo 11 LSCPT e distrutti conformemente all’articolo 14 dell’ordinanza del 15 novembre 2017[^9-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OST-SCPT).
 
-[^9-1]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^9-1]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
 
 ### Sezione 3: Orari d’ufficio e disciplinamento del servizio di picchetto
 
@@ -305,7 +305,7 @@ Possono essere ordinati i tipi di sorveglianza seguenti:
 <sup>4</sup> Nella domanda di informazioni devono essere indicati, oltre ai dati previsti per i singoli tipi di informazione, il numero massimo di pacchetti di dati da trasmettere e, se disponibili, i numeri di riferimento e la denominazione del caso cui si riferisce la sorveglianza.
 
 [^17-1]: Nuova espr. giusta il n. I cpv. 2 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^17-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^17-2]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
 
 #### Art. 18
 
@@ -369,7 +369,7 @@ Se il numero di pacchetti di dati trovati supera il valore massimo indicato nell
 
 <sup>2</sup> I FST devono garantire con mezzi adeguati l’identificazione di tutti gli utilizzatori finali dell’accesso WLAN[^19-1] pubblici gestiti professionalmente.
 
-[^19-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^19-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). La correzione del 26 mar. 2024 concerne soltanto il testo francese ([RU 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 20
 
@@ -422,7 +422,7 @@ Se il cliente non ha un abbonamento, devono essere inoltre rilevati i seguenti d
 <sup>4</sup> Il FST o, se del caso, il rivenditore deve allestire o far allestire una copia elettronica ben leggibile del documento originale presentato. Il rivenditore trasmette al FST entro tre giorni dal rilevamento i dati di cui ai capoversi 2 e 3 nonché la copia del documento.
 
 [^20a-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20a-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^20a-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 20b
 
@@ -441,7 +441,7 @@ Per le persone giuridiche utenti di servizi di telefonia mobile devono essere ri
 <sup>3</sup> L’articolo 20*a* capoverso 3 si applica per analogia.
 
 [^20b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20b-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^20b-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 20c
 
@@ -505,7 +505,7 @@ Il servizio SCPT dichiara che un FSCD ha obblighi di informazione supplementari 
 
 <sup>5</sup> Un fornitore oggetto di una dichiarazione secondo cui ha obblighi di informazione supplementari deve garantire la memorizzazione dei dati necessari per fornire le informazioni entro due mesi e la disponibilità a fornire informazioni entro dodici mesi dalla decisione.
 
-[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -602,7 +602,8 @@ Sono previsti i seguenti tipi di sorveglianza:
   - 4\. la sorveglianza in tempo reale dei metadati per i servizi di accesso alla rete o per le applicazioni (art. 68 cpv. 1 lett. e),
   - 5\. la sorveglianza retroattiva dei servizi di accesso alla rete o delle applicazioni (art. 68 cpv. 1 lett. f),
   - 6\. una ricerca per zona di copertura dell’antenna e i pertinenti preparativi (art. 68 cpv. 1 lett. g);
-  - e. localizzazione in tempo reale di potenziali terroristi tramite telefonia mobile (art. 68*a*).
+
+- e. localizzazione in tempo reale di potenziali terroristi tramite telefonia mobile (art. 68*a*).
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
@@ -1532,7 +1533,7 @@ Il tipo di sorveglianza HD\_29\_TEL comprende la sorveglianza retroattiva dei me
 - e. se pertinente, il tipo di servizio portante;
 - f. per gli SMS e gli MMS: le informazioni sull’evento, il tipo (soltanto per gli SMS) e lo stato;
 - g.[^61-4] per i servizi di telefonia mobile: i dati di localizzazione, determinati per quanto possibile dalla rete e contrassegnati come tali, delle celle utilizzate dal target o dell’accesso non 3GPP all’inizio e alla fine della comunicazione o del tentativo di comunicazione nonché, se disponibili, quelli durante la comunicazione conformemente alle prescrizioni applicabili del DFGP;
-- g.<sup>bis</sup> [^61-5] se disponibili, in aggiunta ai dati di cui alla lettera g, le informazioni relative alla localizzazione provenienti dalla navigazione marittima e aerea;
+- g<sup>bis</sup>.[^61-5] se disponibili, in aggiunta ai dati di cui alla lettera g, le informazioni relative alla localizzazione provenienti dalla navigazione marittima e aerea;
 - h.
 
   per i servizi multimedia:
@@ -1619,7 +1620,7 @@ L’autorità che dispone la sorveglianza fa eseguire di sua iniziativa comunica
 - c. l’elemento d’indirizzo del servizio di telefonia e multimediale utilizzato oppure del servizio di accesso alla rete;
 - d. se del caso, il nome della rete mobile utilizzata.
 
-<sup>3</sup> Il Servizio SCPT incarica i FST di identificare, sulla scorta dei metadati del traffico delle telecomunicazioni, le celle radio o gli accessi WLAN pubblici usati all’inizio e alla fine delle comunicazioni di riferimento e degli accessi di riferimento alla rete di cui al capoverso 2 e di trasmettergli l’elenco di cui al capoverso 2 completo dei relativi identificativi della cella o della zona delle celle radio, dei relativi identificativi (p. es. BSSID) o di altre designazioni idonee (p. es. nome dell’hotspot) degli accessi WLAN.[^65-2]
+<sup>3</sup> Il Servizio SCPT incarica i FST di identificare, sulla scorta dei metadati del traffico delle telecomunicazioni, le celle radio o gli accessi WLAN pubblici usati all’inizio e alla fine delle comunicazioni di riferimento e degli accessi di riferimento alla rete di cui al capoverso 2 e di trasmettergli l’elenco di cui al capoverso 2 completo dei relativi identificativi della cella o della zona delle celle radio e dei relativi identificativi (p. es. BSSID) o di altre designazioni idonee (p. es. nome dell’hotspot) degli accessi WLAN.[^65-2]
 
 [^65-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 [^65-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
@@ -1688,7 +1689,7 @@ Per la ricerca di condannati secondo l’articolo 36 LSCPT possono essere ordina
 <sup>4</sup> Per i servizi di telefonia e multimediale nonché per i servizi convergenti devono essere trasmessi i metadati del traffico delle telecomunicazioni secondo l’articolo 56 capoverso 1 lettere a, b, d ed e numeri 1 e 9, nonché capoverso 2.
 
 [^68a-1]: Introdotto dal n. I 12 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^68a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^68a-2]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 ### Sezione 12: Identificativi esterni alla rete
 
@@ -1744,7 +1745,7 @@ L’ordinanza del 31 ottobre 2001[^72-1] sulla sorveglianza della corrispondenza
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^73-1]
+…[^73-1]
 
 [^73-1]: Le mod. possono essere consultate alla [RU 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32).
 

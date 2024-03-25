@@ -4,32 +4,32 @@ title: Ordinance of 15 November 2017 on the Surveillance of Post and Telecommuni
 short: SPTO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: en
-version: 2024-01-01
+version: 2024-03-26
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240326/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240326-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240326/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on the Surveillance of Post and Telecommunications
+# Ordinance on Post and Telecommunications Surveillance
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(SPTO)
+(OPTS)
 
-of 15 November 2017 (Status as of 1 January 2024)
+of 15 November 2017 (Status as of 26 March 2024)
 
 The Swiss Federal Council,
 
-based on the Federal Act of 18 March 2016[^ingress-1] on the Surveillance of Post and Telecommunications (SPTA), on Articles 269<sup>bis</sup> paragraph 2, 269<sup>ter</sup> paragraph 4 and 445 of the Criminal Procedure Code (CrimPC)[^ingress-2] and on Articles 70<sup>bis</sup> paragraph 2, 70<sup>ter</sup> paragraph 4 and 218 of the Military Criminal Procedure Code of 23 March 1979[^ingress-3] (MCPC),
+based on the Federal Act of 18 March 2016[^ingress-1] on Post and Telecommunications Surveillance (FAPTS), on Articles 269<sup>bis</sup> paragraph 2, 269<sup>ter</sup> paragraph 4 and 445 of the Criminal Procedure Code (CrimPC)[^ingress-2] and on Articles 70<sup>bis</sup> paragraph 2, 70<sup>ter</sup> paragraph 4 and 218 of the Military Criminal Procedure Code of 23 March 1979[^ingress-3] (MCPC),
 
 ordains:
 
-[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^ingress-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^ingress-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## Chapter 1 General Provisions
 
@@ -39,7 +39,7 @@ ordains:
 
 **Subject matter and scope of application**
 
-<sup>1</sup> This Ordinance regulates the organisational aspects of and procedure for the surveillance of post and telecommunications and for the provision of information on postal and telecommunications services.[^1-1]
+<sup>1</sup> This Ordinance regulates the organisational aspects of and procedure for post and telecommunications surveillance and for the provision of information on postal and telecommunications services.[^1-1]
 
 <sup>2</sup>
 
@@ -88,7 +88,7 @@ The ordering authority and the approval authority shall transmit surveillance or
 
 <sup>1</sup> The PTSS shall determine in specific cases the technical and organisational measures for conducting surveillance, unless these are directly specified in the applicable regulations, in particular for standardised types of information and surveillance.
 
-<sup>2</sup> If, as a result of operational problems, a person or entity required to cooperate is unable to meet its obligations for the surveillance of post or telecommunications, it shall report this to the PTSS without delay and thereafter submit a written statement of the reasons. The PTSS shall inform the person or entity required to cooperate without delay if surveillance cannot be carried out because of operational problems on its side.
+<sup>2</sup> If, as a result of operational problems, a person or entity required to cooperate is unable to meet its obligations for post or telecommunications surveillance, it shall report this to the PTSS without delay and thereafter submit a written statement of the reasons. The PTSS shall inform the person or entity required to cooperate without delay if surveillance cannot be carried out because of operational problems on its side.
 
 <sup>3</sup> Irrespective of where the cause of the error lies, the person or entity required to cooperate must temporarily store at least the undelivered secondary telecommunications data from real-time surveillance and deliver it without delay. If the secondary telecommunications data from real-time surveillance is no longer available or incomplete, the person or entity required to cooperate must deliver without delay the secondary telecommunications data from retroactive surveillance in accordance with the instructions of the PTSS.
 
@@ -112,8 +112,8 @@ If the PTSS establishes that the surveillance relates to a holder of official or
 - b. if surveillance has been ordered by a military prosecution authority: in the case of persons from the professional groups specified in Article 75 letter b MCPC unless measures in accordance with Article 70*b* MCPC have been taken;
 - c. if surveillance has been ordered by the FIS: in the case of persons from the professional groups specified in Articles 171–173 CrimPC unless measures have been taken in accordance with Article 58 paragraph 3 of the Intelligence Service Act of 25 September 2015[^5-1] in conjunction with Article 23 of the Intelligence Service Ordinance of 16 August 2017[^5-2].
 
-[^5-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^5-2]: [SR 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^5-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^5-2]: [SR 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 
 #### Art. 6
 
@@ -160,9 +160,9 @@ The file contains all the documents on the case concerned, namely:
 - i. the protection measures specially ordered;
 - j. the accounting records.
 
-<sup>3</sup> The surveillance data shall be stored in accordance with Article 11 SPTA and destroyed in accordance with Article 14 of the Ordinance of 15 November 2017[^9-1] on the Processing System for the Surveillance of Post and Telecommunications (PSO-PTSS).
+<sup>3</sup> The surveillance data shall be stored in accordance with Article 11 SPTA and destroyed in accordance with Article 14 of the Ordinance of 15 November 2017[^9-1] on the Processing System for Post and Telecommunications Surveillance (PSO-PTS).
 
-[^9-1]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^9-1]: [SR 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 ### Section 3 Working Hours and On-Call Arrangements
 
@@ -298,7 +298,7 @@ The following types of surveillance may be ordered:
 
 **Requests for information**
 
-<sup>1</sup> Requests for information from the authorities specified in Article 15 SPTA to TSPs, providers of derived communication, PDCSs[^17-1] and operators of internal telecommunications networks as well as the information returned to the authorities are transmitted in the online request procedure or via the interfaces using the processing system specified in the PSO-PTSS[^17-2].
+<sup>1</sup> Requests for information from the authorities specified in Article 15 SPTA to TSPs, providers of derived communication, PDCSs[^17-1] and operators of internal telecommunications networks as well as the information returned to the authorities are transmitted in the online request procedure or via the interfaces using the processing system specified in the PSO-PTS[^17-2].
 
 <sup>2</sup> If the online request procedure using the processing system is unavailable for technical reasons, requests for information and the information returned to the authorities may be submitted to the PTSS by post or fax.
 
@@ -307,7 +307,7 @@ The following types of surveillance may be ordered:
 <sup>4</sup> The request for information must indicate, in addition to the details required for the type of information concerned, the maximum number of data records to be supplied and, if available, the reference numbers and case names.
 
 [^17-1]: Term in accordance with No 1 para. 2 of the FA of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). This amendment is made in the provisions specified in the AS.
-[^17-2]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^17-2]: [SR 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 #### Art. 18
 
@@ -369,9 +369,9 @@ If the number the data records found exceeds the maximum number specified in the
 
 <sup>1</sup> TSPs, PDCSs with more extensive duties to provide information in accordance with Article 22, PDCSs with more extensive surveillance duties in accordance with Article 52 and retailers in accordance with Article 2 letter f SPTA must ensure that subscribers are identified by suitable means.
 
-<sup>2</sup> In the case of professionally operated public WLAN access points[^19-1], TSPs must ensure that all end users are identified by suitable means.
+<sup>2</sup> In the case of professionally operated public WLAN hotspots[^19-1], TSPs must ensure that all end users are identified by suitable means.
 
-[^19-1]: Term in accordance with No 1 para. 1 of the FA of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). This amendment is made in the provisions specified in the AS.
+[^19-1]: Term in accordance with No 1 para. 1 of the FA of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). The correction of 26 March 2024 concerns the French text only ([AS 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)). This amendment is made in the provisions specified in the AS.
 
 #### Art. 20
 
@@ -424,7 +424,7 @@ In the case of customer relationships that are not based on a subscription contr
 <sup>4</sup> The TSP or if applicable the retailer must make or have made an easily legible electronic copy of the original document. The retailer shall supply the data in accordance with paragraphs 2 and 3 and the copy to the TSP within 3 days of recording the data.
 
 [^20a-1]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20a-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^20a-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 20b
 
@@ -443,7 +443,7 @@ In the case of legal entities, the following data must be recorded and verified 
 <sup>3</sup> Article 20*a* paragraph 3 applies *mutatis mutandis*.
 
 [^20b-1]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20b-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^20b-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 20c
 
@@ -468,7 +468,7 @@ The following providers must retain and be able to provide the following data fo
 - a. TSPs and PDCSs with more extensive duties in accordance with Article 22 or 52: the data on the services and the data for the purpose of identification in accordance with Article 19 paragraph 1;
 - b. TSPs: in addition, data on identifiers assigned on a long-term basis in accordance with Article 48*a*.
 
-<sup>2</sup> TSPs must retain and be able to provide identification data in accordance with Article 19 paragraph 2 for the duration of and for 6 months following the end of authorisation to access the professionally operated public WLAN access.
+<sup>2</sup> TSPs must retain and be able to provide identification data in accordance with Article 19 paragraph 2 for the duration of and for 6 months following the end of authorisation to access the professionally operated public WLAN hotspot.
 
 <sup>3</sup> They must for the purpose of identification retain the data on the unique assignment of IP addresses for the network access point for 6 months and be able to provide the information in accordance with Article 37.
 
@@ -503,11 +503,11 @@ The PTSS shall declare a PDCSs to be a provider with more extensive duties to pr
 
 <sup>3</sup> Providers that exceed or fail to meet the criteria in paragraph 1 letter b must notify the PTSS of this in writing within three months of the end of their financial year and submit related supporting documents.
 
-<sup>4</sup> Providers must on request provide the PTSS with the information and supporting documents for assessing the criteria under paragraph 1 letter b. The PTSS may rely on data obtained in implementing the legislation relating to the surveillance of post and telecommunications or by other authorities in implementing federal law.
+<sup>4</sup> Providers must on request provide the PTSS with the information and supporting documents for assessing the criteria under paragraph 1 letter b. The PTSS may rely on data obtained in implementing the legislation relating to post and telecommunications surveillance or by other authorities in implementing federal law.
 
 <sup>5</sup> A provider that is declared to have more extensive duties to provide information must ensure that it can store the data required for providing information within 2 months and provide the information within 12 months of the declaration.
 
-[^22-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -713,7 +713,6 @@ The PTSS shall immediately declare a confirmation of ability to provide informat
 Information Request Type IR\_4\_NA comprises the following data about subscribers to network access services:
 
 - a. if available, the unique subscriber identifier (e.g. customer number);
-
 - b.[^35-1]
 
   in the case of mobile services:
@@ -745,11 +744,12 @@ Information Request Type IR\_4\_NA comprises the following data about subscriber
   - 9\.[^35-5] if applicable, the associated ICCID at the time of its supply,
   - 10\.[^35-6] if applicable, the associated IMSI or SUPI,
   - 11\.[^35-7] the type of customer relationship (e.g. prepaid, subscription),
+  - 12\.[^35-8] if applicable, the list or area for the additional addressing resources and identifiers (e.g. ICCID) registered in connection with or associated with the service (e.g. MSISDN) and their term of validity,
+  - 13\.[^35-9] the name of the service (e.g. name of the subscriptions or of the tariff).
 
-- 12\.[^35-8] if applicable, the list or area for the additional addressing resources and identifiers (e.g. ICCID) registered in connection with or associated with the service (e.g. MSISDN) and their term of validity,
-- 13\.[^35-9] the name of the service (e.g. name of the subscriptions or of the tariff).
+<sup>2</sup>
 
-<sup>2</sup> The request for information shall specify the period to which the request relates. It shall contain at least one of the following query criteria.[^35-10]
+The request for information shall specify the period to which the request relates. It shall contain at least one of the following query criteria:[^35-10]
 
 - a. surname(s), first name(s);
 - b. date of birth;
@@ -796,7 +796,7 @@ Information Request Type IR\_6\_NA comprises the following data about network ac
 
   - 1\. the unique service identifier (e.g. user name),
   - 2\. if applicable, all identifiers associated with the service concerned (e.g. user name, MSISDN, GPSI) and their term of validity,
-  - 3\. if available, the alternative subscriber identifier, and in particular in the case of professionally operated public WLAN access, an identifier that enables a request for the identification data in accordance with Article 19 paragraph 2 to be made,
+  - 3\. if available, the alternative subscriber identifier, and in particular in the case of a professionally operated public WLAN hotspot, an identifier that enables a request for the identification data in accordance with Article 19 paragraph 2 to be made,
   - 4\. the unique device identifiers in accordance with international standards (e.g. IMEI, PEI, MAC address) of the devices used in connection with the service for the devices used at the provider in connection with the service concerned in the last 6 months and, if available, the individual names of the devices,
   - 5\. if applicable, the ICCID of all SIMs associated with the service concerned and their term of validity, the PUK and PUK2 codes, the IMSI or the SUPI, the MSISDN or the GPSI and the eUICC-ID,
   - 6\. in the case of a multi-device offer: information on whether the device is the main device or a secondary device.
@@ -1162,7 +1162,7 @@ The request for information shall specify the period to which the request relate
 
 **Information Request Type IR\_21\_TECH: Technical data**[^48-1]
 
-<sup>1</sup> Information Request Type IR\_21\_TECH comprises the provision of technical data relating to telecommunications systems and network elements at the requested location, in particular the location data for mobile radio cells and professionally operated public WLAN access points.
+<sup>1</sup> Information Request Type IR\_21\_TECH comprises the provision of technical data relating to telecommunications systems and network elements at the requested location, in particular the location data for mobile radio cells and professionally operated public WLAN hotspots.
 
 <sup>2</sup>
 
@@ -1219,11 +1219,11 @@ The request for information shall specify the communication or attempt at commun
 
 [^48c-1]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
-### Section 7 General Provisions on the Surveillance of Telecommunications
+### Section 7 General Provisions on Telecommunications Surveillance
 
 #### Art. 49
 
-**Order to conduct surveillance of telecommunications**
+**Order to conduct telecommunications surveillance**
 
 <sup>1</sup>
 
@@ -1250,7 +1250,7 @@ The surveillance order submitted to the PTSS shall contain the following data:
 
 <sup>1</sup> Each TSP, with the exception of those with reduced surveillance duties (Art. 51), and each PDCS with more extensive surveillance duties (Art. 52) must be able to conduct the surveillance activities in Sections 8–12 of this Chapter (Art. 54–69) that relate to services that they provide, or they must be able to arrange for third parties to conduct the surveillance. PDCSs with more extensive surveillance duties are not required to conduct the types of surveillance in Articles 56*a*, 56*b*, 67 letters b and c and 68 paragraph 1 letters b and c.[^50-1]
 
-<sup>2</sup> The provider shall ensure its ability to conduct surveillance of telecommunications from the commercial launch of a service provided to customers.
+<sup>2</sup> The provider shall ensure its ability to conduct telecommunications surveillance from the commercial launch of a service provided to customers.
 
 <sup>3</sup> It shall ensure that it can accept surveillance assignments outside normal working hours in accordance with Article 10 and can conduct them or arrange for third party to do so in accordance with the FDJP requirements.
 
@@ -1299,7 +1299,7 @@ TSPs with reduced surveillance duties are required to give written notice to the
 - a. no longer offer their services exclusively in the field of education and research; or
 - b. achieve the value specified in paragraph 1 letter b number 2 for a second successive financial year; notice must be given within three months of the end of the financial year.
 
-<sup>4</sup> The PTSS may rely on data obtained in implementing the legislation relating to the surveillance of post and telecommunications or by other authorities in implementing federal law.
+<sup>4</sup> The PTSS may rely on data obtained in implementing the legislation relating to post and telecommunications surveillance or by other authorities in implementing federal law.
 
 <sup>5</sup> A provider that is declared to have more extensive duties to provide information must ensure that it can store the data required for providing information and provide the information within 2 months and 12 months of the declaration respectively.
 
@@ -1354,7 +1354,7 @@ The following secondary telecommunications data of telecommunications traffic se
 
 The location data comprise the associated timestamps and, if available, the type of network access point technology used and:
 
-- a. the identifiers (e.g. cell or geographical area identifier) and the geographical coordinates of the cells and if applicable the directions of emission of the cells and in the case of a combined cell, additional location data in accordance with the applicable FDJP regulations;
+- the identifiers (e.g. cell or geographical area identifier) and the geographical coordinates of the cells and if applicable the directions of emission of the cells and in the case of a combined cell, additional location data in accordance with the applicable FDJP regulations;
 - b. the position of the target determined by the network, for example in the form of geographical coordinates and the related uncertainty value, or in the form of polygons with details of the geographical coordinates of each polygon point;
 - c. other data on the location of the target or of the cells in accordance with international standards;
 - d.
@@ -1520,7 +1520,7 @@ Surveillance Type HD\_28\_NA comprises the retroactive surveillance of secondary
 - e. the unique device identifier of the terminal device used by the target in accordance with international standards (e.g. MAC address, IMEI or PEI in the case of mobile services);
 - f. the volumes of data that were uploaded and downloaded during the session;
 - g. in the case of mobile services: the GPRS, EPS or 5GS information (in particular IMSI, SUPI, MSISDN. GPSI) and the location data at the beginning, end of and during the session in accordance with the applicable FDJP regulations;
-- h. in the case of access to the network via a professionally operated public WLAN: the identifiers (e.g. BSSID) or other suitable designations (e.g. hotspot name), the location data (geographical coordinates or postal address) and, if available, the type of authentication, an identifier that enables a request for the identification data in accordance with Article 19 paragraph 2 to be made and the IP-address of the access used by the target;
+- h. in the case of access to the network via a professionally operated public WLAN hotspot: the identifiers (e.g. BSSID) or other suitable designations (e.g. hotspot name), the location data (geographical coordinates or postal address) and, if available, the type of authentication, an identifier that enables a request for the identification data in accordance with Article 19 paragraph 2 to be made and the IP-address of the access used by the target;
 - i. if available, in addition to the data in letters g and h, the location information from maritime navigation or aviation;
 - j. in the case of fixed network access: the addressing resources of the access and. if available, the postal address.
 
@@ -1539,11 +1539,7 @@ Surveillance Type HD\_29\_TEL comprises the retroactive surveillance of secondar
 - e. if applicable, the type of carrier service;
 - f. in the case of SMS and MMS: the information on the event, the type (only in the case of SMS) and the status;
 - g.[^61-4] in the case of mobile services: the location data determined by the network if possible and indicated accordingly for the cell or the non-3GPP access used by the target at the beginning and at the end of the communication or the communication attempt and, if available, during the communication, in accordance with the applicable FDJP regulations;
-  - 1\. the cell and geographical area identifiers, the geographical coordinates and if applicable the main directions of emission and the postal address, or
-  - 2\. the positions of the target determined by the network (e.g. in the form of geographical coordinates and the related uncertainty value or in the form of polygons with details of the geographical coordinates of each polygon point) as well as the related postal addresses, or
-  - 3\. other details in accordance with international standards of the target’s locations or the cells that he or she used, as well as the related postal addresses;
-
-- [tab] g<sup>bis</sup>.[^61-5] if available, in addition to the data in letter g, the location information from maritime navigation or aviation;
+- g<sup>bis</sup>.[^61-5] if available, in addition to the data in letter g, the location information from maritime navigation or aviation;
 - h.
 
   in the case of multimedia services:
@@ -1609,9 +1605,9 @@ The following data shall be transmitted:
 
 **Surveillance Type AS\_32\_PREP\_COV: Network coverage analysis in preparation for an antenna search**
 
-<sup>1</sup> Surveillance Type AS\_32\_PREP\_COV comprises the network analysis in preparation for an antenna search in accordance with Article 66. It is carried out by the TSPs and serves to identify the mobile radio cells or public WLAN access points that most probably cover the location described by the ordering authority in the form of geographical coordinates or by means of postal address, if applicable taking account of additional information (e.g. time of day, weather, day of the week, location within or outside of a building).
+<sup>1</sup> Surveillance Type AS\_32\_PREP\_COV comprises the network analysis in preparation for an antenna search in accordance with Article 66. It is carried out by the TSPs and serves to identify the mobile radio cells or public WLAN hotspots that most probably cover the location described by the ordering authority in the form of geographical coordinates or by means of postal address, if applicable taking account of additional information (e.g. time of day, weather, day of the week, location within or outside of a building).
 
-<sup>2</sup> TSPs shall supply the PTSS with a list of cell or geographical area identifiers for the mobile radio cells and identifiers identified (e.g. BSSID) or other suitable designations (e.g. hotspot name) for the professionally operated public WLAN access points identified.[^64-1]
+<sup>2</sup> TSPs shall supply the PTSS with a list of cell or geographical area identifiers of the mobile radio cells identified and the identifiers (e.g. BSSID) or other suitable designations (e.g. hotspot name) of the professionally operated public WLAN hotspots identified.[^64-1]
 
 [^64-1]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 
@@ -1619,7 +1615,7 @@ The following data shall be transmitted:
 
 **Surveillance Type AS\_33\_PREP\_REF: Reference communications or instances of reference network access in preparation for an antenna search**
 
-<sup>1</sup> Surveillance Type AS\_33\_PREP\_REF comprises the identification of mobile radio cells or public WLAN access points on the basis of reference communications and instances of reference network access in preparation for an antenna search in accordance with Article 66.
+<sup>1</sup> Surveillance Type AS\_33\_PREP\_REF comprises the identification of mobile radio cells or public WLAN hotspots on the basis of reference communications and instances of reference network access in preparation for an antenna search in accordance with Article 66.
 
 <sup>2</sup>
 
@@ -1630,7 +1626,7 @@ The ordering authority shall itself arrange for reference communications to be m
 - c. the addressing resource of the telephony and multimedia service used or of the network access service;
 - d. if applicable, the name of the mobile network used.
 
-<sup>3</sup> The PTSS shall instruct the TSPs, on the basis of the secondary telecommunications data relating to previous telecommunications traffic, to identify the mobile radio cells or public WLAN access points used in each case at the beginning and at the end of the reference communications and instances of reference network access in accordance with paragraph 2 and to provide it with a list of the corresponding cell or geographical area identifiers der mobile cells, the associated identifiers (e.g. BSSID) or suitable designations (e.g. hotspot name) for the WLAN accesses completed in accordance with paragraph 2.[^65-2]
+<sup>3</sup> The PTSS shall instruct the TSPs, on the basis of the secondary telecommunications data relating to previous telecommunications traffic, to identify the mobile radio cells or public WLAN hotspots used in each case at the beginning and at the end of the reference communications and instances of reference network access in accordance with paragraph 2 and to provide it with the list in accordance with paragraph 2, completed with the corresponding cell or geographical area identifiers of the mobile cells and the associated identifiers (e.g. BSSID) or other suitable designations (e.g. hotspot name) of the WLAN hotspots.[^65-2]
 
 [^65-1]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 [^65-2]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
@@ -1639,7 +1635,7 @@ The ordering authority shall itself arrange for reference communications to be m
 
 **Surveillance Type AS\_34: Antenna search**
 
-<sup>1</sup> Surveillance Type AS\_34 comprises the retroactive surveillance of all communications, communication attempts and instances of network access that have taken place via a specific mobile radio cell or a specific public WLAN access point over a period of up to two hours.[^66-1]
+<sup>1</sup> Surveillance Type AS\_34 comprises the retroactive surveillance of all communications, communication attempts and instances of network access that have taken place via a specific mobile radio cell or a specific public WLAN hotspot over a period of up to two hours.[^66-1]
 
 <sup>2</sup> The TSP shall supply the secondary telecommunications data resulting from paragraph 1 relating to previous telecommunications traffic in accordance with Article 60 and 61.
 
@@ -1699,7 +1695,7 @@ The following types of surveillance may be ordered for a search for convicted pe
 <sup>4</sup> In the case of mobile telephony and multimedia services and convergent mobile services, the secondary telecommunications data from telecommunications traffic in accordance with Article 56 paragraph 1 letters a, b, d and e numbers 1 and 9 and paragraph 2 must be transmitted.
 
 [^68a-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^68a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^68a-2]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 ### Section 12 Off-Network Identifiers
 
@@ -1713,7 +1709,7 @@ Surveillance in accordance with Articles 56–59, 61 and 62 also includes teleco
 
 **Organisational, administrative and technical regulations**
 
-The FDJP shall issue the organisational, administrative and technical regulations on conducting surveillance of post and telecommunications. In particular, it shall determine the deadlines within which the relevant data must be supplied.
+The FDJP shall issue the organisational, administrative and technical regulations on conducting post and telecommunications surveillance. In particular, it shall determine the deadlines within which the relevant data must be supplied.
 
 #### Art. 71
 
@@ -1745,7 +1741,7 @@ The PTSS shall provide electronic forms and interfaces to be used by those conce
 
 **Repeal of another enactment**
 
-The Ordinance of 31 October 2001[^72-1] on the Surveillance of Post and Telecommunications is repealed.
+The Ordinance of 31 October 2001[^72-1] on Post and Telecommunications Surveillance is repealed.
 
 [^72-1]: [[AS 2001 3111](https://fedlex.data.admin.ch/eli/oc/2001/468); [2004 1431](https://fedlex.data.admin.ch/eli/oc/2004/181), [2021](https://fedlex.data.admin.ch/eli/oc/2004/229)Art. 7, [3383](https://fedlex.data.admin.ch/eli/oc/2004/435); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 77; [2007 4029](https://fedlex.data.admin.ch/eli/oc/2007/536); [2011 5955](https://fedlex.data.admin.ch/eli/oc/2011/824); [2016 4337](https://fedlex.data.admin.ch/eli/oc/2016/719)No II; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Annex 4 No II 11]
 
@@ -1843,7 +1839,7 @@ Annex[^t-1]
 
 ## Terms and abbreviations
 
-[^t-1]: Amended by No II of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^t-1]: Amended by No II of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685))..
 
 - 1\. *Communication service*: service that enables communication using telecommunications technology; it includes telecommunications services and derived communication services;
 - 2\. *Subscribers:* persons who have entered into a contract with a TSP or a PDCS in order to use their services or who have registered for their services or have been granted access by a TSP or a PDCS to their services;
@@ -1899,7 +1895,7 @@ Annex[^t-1]
 - 52\. *5GS (5G-System)*: system architecture of the 5G mobile communication standard of the 3GPP;
 - 53\. *SMS (Short Message Service):* messaging service for transmitting short text messages;
 - 54\. *Voice mail:* storage devices used in telecommunication networks that offer answering services (e.g. receiving, forwarding and storing voice messages). There are extensions for various types of media and services, such as SMS, email, fax or video messages as well as function extensions such as converting from one type of media to another (e.g. text to voice) and the sending of messages;
-- 45\. *RCS (Rich Communications Services,* originally: Rich Communication Suite) specification of the international industry organisation for mobile telephony providers GSM Association, GSMA for the IMS based provision of interoperable (i.e. cross-provider and cross-terminal) multimedia services with extended functional scope. Various types of media (e.g. language, music, photographs, videos) and services (e.g. chat, chat groups, calls, multimedia messages, short messages, instant messages, presence information, transmission of files, address books) can be combined; what is meant here is only the RCS services that are provided to subscribers by their mobile telephony provider;
+- 55\. *RCS (Rich Communications Services,* originally: Rich Communication Suite) specification of the international industry organisation for mobile telephony providers GSM Association, GSMA for the IMS based provision of interoperable (i.e. cross-provider and cross-terminal) multimedia services with extended functional scope. Various types of media (e.g. language, music, photographs, videos) and services (e.g. chat, chat groups, calls, multimedia messages, short messages, instant messages, presence information, transmission of files, address books) can be combined; what is meant here is only the RCS services that are provided to subscribers by their mobile telephony provider;
 - 56\. *E.164 number:* telephone number in accordance with international numbering plan E.164 of the ITU-T;
 - 57\. *DTMF (Dual-Tone Multi-Frequency):* a signalling procedure, i.e. during a telephone conversation, sound signals can be sent by pressing the telephone keypad, for example to interact with answering machines or automatic voice response systems;
 - 58\. *BSSID (Basic Service Set Identifier):* unique identifier (MAC address) of the WLAN access point;

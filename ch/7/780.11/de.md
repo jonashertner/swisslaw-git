@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Überwachung des Post- und Fer
 short: VÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: de
-version: 2024-01-01
+version: 2024-03-26
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240326/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240326-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240326/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/de"
 
 (VÜPF)
 
-vom 15. November 2017 (Stand am 1. Januar 2024)
+vom 15. November 2017 (Stand am 26. März 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf das Bundesgesetz vom 18. März 2016[^ingress-1] betreffend die Üb
 
 verordnet:
 
-[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^ingress-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^ingress-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -110,8 +110,8 @@ Stellt der Dienst ÜPF fest, dass die Überwachung einen Amts- oder Berufsgeheim
 - b. falls die Überwachung von einer militärischen Strafverfolgungsbehörde angeordnet wurde: bei Personen aus den Berufsgruppen gemäss Artikel 75 Buchstabe b MStP, wenn keine Vorkehren gemäss Artikel 70*b* MStP getroffen worden sind;
 - c. falls die Überwachung vom NDB angeordnet wurde: bei Personen aus den Berufsgruppen gemäss den Artikeln 171–173 StPO, wenn keine Vorkehren gemäss Artikel 58 Absatz 3 des Nachrichtendienstgesetzes vom 25. September 2015[^5-1] in Verbindung mit Artikel 23 der Nachrichtendienstverordnung vom 16. August 2017[^5-2] getroffen worden sind.
 
-[^5-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^5-2]: [SR 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^5-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^5-2]: [SR 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Die Akte besteht aus allen Unterlagen zum betreffenden Fall, insbesondere:
 
 <sup>3</sup> Die Überwachungsdaten werden gemäss Artikel 11 BÜPF aufbewahrt und gemäss Artikel 14 der Verordnung vom 15. November 2017[^9-1] über das Verarbeitungssystem für die Überwachung des Post- und Fernmeldeverkehrs (VVS-ÜPF) vernichtet.
 
-[^9-1]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^9-1]: [SR 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 ### 3. Abschnitt: Arbeitszeiten und Pikett-Regelung
 
@@ -305,7 +305,7 @@ Folgende Überwachungstypen können angeordnet werden:
 <sup>4</sup> Im Auskunftsgesuch sind, neben den für den jeweiligen Auskunftstyp vorgesehenen Angaben, die maximale Anzahl der zu liefernden Datensätze und, falls vorhanden, auch die Referenznummern und Fallnamen anzugeben.
 
 [^17-1]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
-[^17-2]: [SR 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^17-2]: [SR 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 #### Art. 18
 
@@ -369,7 +369,7 @@ Falls die Anzahl der gefundenen Datensätze den in der Anfrage angegebenen Höch
 
 <sup>2</sup> Die FDA haben bei professionell betriebenen öffentlichen WLAN-Zugängen[^19-1] sicherzustellen, dass alle Endbenutzerinnen und -benutzer mit geeigneten Mitteln identifiziert werden.
 
-[^19-1]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
+[^19-1]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Die Berichtigung vom 26. März 2024 betrifft nur den französischen Text ([AS 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)). Diese Änd. ist in der in den AS genannten Bestimmungen berücksichtigt.
 
 #### Art. 20
 
@@ -422,7 +422,7 @@ Bei Kundenbeziehungen ohne Abonnementsverhältnis müssen zudem folgende Angaben
 <sup>4</sup> Die FDA oder gegebenenfalls die Wiederverkäuferin muss vom Originaldokument eine gut lesbare elektronische Kopie erstellen oder erstellen lassen. Die Wiederverkäuferin übermittelt die Angaben nach den Absätzen 2 und 3 sowie die Kopie innerhalb von 3 Tagen nach der Erfassung an die FDA.
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20a-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^20a-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 20b
 
@@ -441,7 +441,7 @@ Bei juristischen Personen müssen folgende Angaben erfasst und anhand geeigneter
 <sup>3</sup> Artikel 20*a* Absatz 3 gilt sinngemäss.
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20b-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^20b-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 20c
 
@@ -466,7 +466,7 @@ Die folgenden Anbieterinnen müssen während der Dauer und während 6 Monaten na
 - a. die FDA und die AAKD mit weitergehenden Pflichten gemäss Artikel 22 oder 52: die Angaben über die Dienste und die Angaben zum Zweck der Identifikation gemäss Artikel 19 Absatz 1;
 - b. die FDA: zusätzlich die Angaben über längerfristig zugeordnete Identifikatoren gemäss Artikel 48*a*.
 
-<sup>2</sup> Die FDA müssen Identifikationsangaben gemäss Artikel 19 Absatz 2 während der Dauer und während 6 Monaten nach der Beendigung der Zugangsberechtigung zum professionell betriebenen öffentlichen WLAN-Zugang aufbewahren und in der Lage sein, sie zu liefern.
+<sup>2</sup> Die FDA müssen Identifikationsangaben gemäss Artikel 19 Absatz 2 während der Dauer und während 6 Monaten nach der Beendigung der Zugangsberechtigung zum professionell betriebenen öffentlichen WLAN-Zugang aufbewahren und in der Lage sein, sie zu liefern.[^21-2]
 
 <sup>3</sup> Sie müssen zum Zweck der Identifikation die Daten über die eindeutige Zuteilung von IP-Adressen für den Netzzugang während 6 Monaten aufbewahren und in der Lage sein, die Auskünfte gemäss Artikel 37 zu erteilen.
 
@@ -485,6 +485,7 @@ Die FDA, mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51
 <sup>7</sup> Die Randdaten nach Absatz 5 sind zu vernichten, sobald die Aufbewahrungsfrist abgelaufen ist und kein anderer Erlass vorsieht, dass sie länger aufbewahrt werden müssen oder dürfen.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^21-2]: Die Berichtigung vom 26. März 2024 betrifft nur den französischen Text ([AS 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)).
 
 #### Art. 22
 
@@ -505,7 +506,7 @@ Der Dienst ÜPF erklärt eine AAKD als eine mit weitergehenden Auskunftspflichte
 
 <sup>5</sup> Eine Anbieterin, die als eine mit weitergehenden Auskunftspflichten erklärt wurde, hat die Speicherung der für die Auskunftserteilung erforderlichen Daten innert 2 Monaten und die Auskunftsbereitschaft innert 12 Monaten ab Verfügung sicherzustellen.
 
-[^22-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -1537,10 +1538,6 @@ Der Überwachungstyp HD\_29\_TEL umfasst die rückwirkende Überwachung von Rand
 - e. falls zutreffend, der Typ des Trägerdienstes;
 - f. bei SMS und MMS: die Informationen über das Ereignis, den Typ (nur bei SMS) und den Status;
 - g.[^61-4] bei Mobilfunkdiensten: die soweit möglich vom Netzwerk bestimmten und dementsprechend gekennzeichneten Standortangaben der vom Target benutzten Zellen oder des Nicht-3GPP-Zugangs zu Beginn der Kommunikation oder des Kommunikationsversuchs und am Ende sowie, soweit verfügbar, während der Kommunikation, gemäss den anwendbaren Vorschriften des EJPD;
-  - 1\. die Zell- und Gebietsidentifikatoren, die geografischen Koordinaten und gegebenenfalls die Hauptstrahlungsrichtungen und die Postadresse, oder
-  - 2\. die vom Netzwerk bestimmten Positionen des Targets (z.B. in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes) sowie die zugehörigen Postadressen, oder
-  - 3\. andere Angaben zu den Standorten des Targets oder der von diesem benutzten Zellen, gemäss internationalen Standards sowie die zugehörigen Postadressen;
-
 - g<sup>bis</sup>.[^61-5] soweit vorhanden, zusätzlich zu den Angaben nach Buchstabe g die Standortinformationen aus der Seeschifffahrt und der Luftfahrt;
 - h.
 
@@ -1628,7 +1625,7 @@ Die anordnende Behörde lässt in eigener Regie am massgeblichen Standort Refere
 - c. das Adressierungselement des benutzten Telefonie- und Multimediadienstes beziehungsweise des Netzzugangsdienstes;
 - d. falls zutreffend, der Name des benutzten Mobilfunknetzes.
 
-<sup>3</sup> Der Dienst ÜPF beauftragt die FDA, anhand der Randdaten des vergangenen Fernmeldeverkehrs die zu Beginn und am Ende der Referenzkommunikationen und der Referenznetzzugänge gemäss Absatz 2 jeweils benutzten Mobilfunkzellen oder öffentlichen WLAN-Zugänge zu bestimmen und ihm die mit den entsprechenden Zell- oder Gebietsidentifikatoren der Mobilfunkzellen, den entsprechenden Identifikatoren (z. B. BSSID) oder anderen geeigneten Bezeichnungen (z. B. Hotspotname) der WLAN-Zugänge vervollständigte Liste gemäss Absatz 2 zu liefern.[^65-2]
+<sup>3</sup> Der Dienst ÜPF beauftragt die FDA, anhand der Randdaten des vergangenen Fernmeldeverkehrs die zu Beginn und am Ende der Referenzkommunikationen und der Referenznetzzugänge gemäss Absatz 2 jeweils benutzten Mobilfunkzellen oder öffentlichen WLAN-Zugänge zu bestimmen und ihm die mit den entsprechenden Zell- oder Gebietsidentifikatoren der Mobilfunkzellen und den entsprechenden Identifikatoren (z. B. BSSID) oder anderen geeigneten Bezeichnungen (z. B. Hotspotname) der WLAN-Zugänge vervollständigte Liste gemäss Absatz 2 zu liefern.[^65-2]
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
@@ -1697,7 +1694,7 @@ Für die Fahndung nach verurteilten Personen gemäss Artikel 36 BÜPF können di
 <sup>4</sup> Bei mobilen Telefonie- und Multimediadiensten sowie mit diesen konvergierenden mobilen Diensten sind die Randdaten des Fernmeldeverkehrs nach Artikel 56 Absatz 1 Buchstaben a, b, d und e Ziffern 1 und 9 sowie Absatz 2 zu übermitteln.
 
 [^68a-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^68a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^68a-2]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 ### 12. Abschnitt: Netzexterne Identifikatoren
 

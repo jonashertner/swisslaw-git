@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur la surveillance de la correspondance p
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: fr
-version: 2024-01-01
+version: 2024-03-26
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20240326/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20240326-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240326/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20240101/fr"
 
 (OSCPT)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 15 novembre 2017 (État le 26 mars 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance pa
 
 arrête:
 
-[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^ingress-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^ingress-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## Chapitre 1 Dispositions générales
 
@@ -110,8 +110,8 @@ S’il constate que la surveillance concerne une personne tenue au secret profes
 - b. si la surveillance a été ordonnée par une autorité militaire de poursuite pénale, qu’elle concerne une personne appartenant à l’une des catégories professionnelles énumérées à l’art. 75, let. b, PPM et qu’aucune mesure spéciale de protection au sens de l’art. 70*b* PPM n’a été prise;
 - c. si la surveillance a été ordonnée par le SRC, qu’elle concerne une personne appartenant à l’une des catégories professionnelles énumérées aux art. 171 à 173 CPP et qu’aucune mesure au sens de l’art. 58, al. 3, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^5-1], en relation avec l’art. 23 de l’ordonnance du 16 août 2017 sur le renseignement[^5-2], n’a été prise.
 
-[^5-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^5-2]: [RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^5-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^5-2]: [RS 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Ce dossier contient tous les documents concernant le cas, en particulier:
 
 <sup>3</sup> Les données issues de la surveillance sont conservées conformément à l’art. 11 LSCPT et détruites conformément à l’art. 14 l’ordonnance du 15 novembre 2017 sur le système de traitement pour la surveillance de la correspondance par poste et télécommunication (OST-SCPT)[^9-1].
 
-[^9-1]: [RS 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^9-1]: [RS 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 ### Section 3 Heures de travail et service de piquet
 
@@ -305,7 +305,7 @@ Les types de surveillance qui peuvent être ordonnés sont les suivants:
 <sup>4</sup> La demande indique, outre les informations prévues pour chaque type de renseignements, le nombre maximal d’enregistrements à livrer et, si ces données sont disponibles, le numéro de référence et le nom de l’affaire.
 
 [^17-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^17-2]: [RS 780.12](https://fedlex.data.admin.ch/eli/cc/2018/36)
+[^17-2]: [RS 780.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9122)
 
 #### Art. 18
 
@@ -367,9 +367,9 @@ Si le nombre d’enregistrements trouvés dépasse le nombre maximal indiqué da
 
 <sup>1</sup> Les FST, les FSCD ayant des obligations étendues en matière de fourniture de renseignements visés à l’art. 22, les FSCD ayant des obligations étendues en matière de surveillance visés à l’art. 52 et les revendeurs visés à l’art. 2, let. f, LSCPT veillent à identifier les usagers par des moyens appropriés.
 
-<sup>2</sup> Les FST veillent à identifier par des moyens appropriés tous les utilisateurs finaux d’accès au réseau WLAN[^19-1] exploités à titre professionnel.
+<sup>2</sup> Les FST veillent à identifier par des moyens appropriés tous les utilisateurs finaux d’accès publics au réseau WLAN[^19-1] exploités à titre professionnel.
 
-[^19-1]: Nouvelle expression selon le ch. I al. 1 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^19-1]: Nouvelle expression selon le ch. I al. 1 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)). Erratum du 26 mars 2024 ([RO 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 20
 
@@ -422,7 +422,7 @@ Pour les relations commerciales sans abonnement, les indications ci-après doive
 <sup>4</sup> Le FST ou le revendeur doit faire ou faire faire une copie électronique clairement lisible du document original présenté. Le revendeur transmet au FST dans les trois jours les données selon les al. 2 et 3, ainsi que la copie du document.
 
 [^20a-1]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20a-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^20a-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 20b
 
@@ -441,7 +441,7 @@ Pour les personnes morales, les indications ci-après doivent être saisies et v
 <sup>3</sup> L’art. 20*a*, al. 3, s’applique par analogie.
 
 [^20b-1]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
-[^20b-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^20b-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 20c
 
@@ -466,7 +466,7 @@ Les fournisseurs ci-après doivent conserver et être en mesure de fournir penda
 - a. les FST et les FSCD ayant des obligations étendues selon les art. 22 ou 52: les indications relatives aux services et les indications saisies aux fins de l’identification des usagers selon l’art. 19, al. 1;
 - b. les FST: également les indications sur les identifiants attribués pour une longue durée selon l’art. 48*a*.
 
-<sup>2</sup> Les FST doivent, pendant toute la durée de l’autorisation d’accès au réseau WLAN exploité à titre professionnel ainsi que six mois après la fin de celle-ci, conserver les données d’identification selon l’art. 19, al. 2, et être en mesure de les fournir.
+<sup>2</sup> Les FST doivent, pendant toute la durée de l’autorisation d’accès à l’accès public au réseau WLAN exploité à titre professionnel ainsi que six mois après la fin de celle-ci, conserver les données d’identification selon l’art. 19, al. 2, et être en mesure de les fournir.[^21-2]
 
 <sup>3</sup> Aux fins de l’identification, les FST doivent conserver pendant six mois les données sur l’attribution univoque d’adresses IP pour l’accès au réseau et être en mesure de fournir les renseignements visés à l’art. 37.
 
@@ -485,6 +485,7 @@ Les FST, à l’exception de ceux ayant des obligations restreintes en matière 
 <sup>7</sup> Les données secondaires selon l’al. 5 doivent être détruites à l’issue du délai de conservation, pour autant qu’aucun autre acte ne prévoie qu’elles doivent ou peuvent être conservées plus longtemps.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
+[^21-2]: Erratum du 26 mars 2024 ([RO 2024 125](https://fedlex.data.admin.ch/eli/oc/2024/125)).
 
 #### Art. 22
 
@@ -505,7 +506,7 @@ Le Service SCPT déclare un FSCD comme ayant des obligations étendues en matiè
 
 <sup>5</sup> Un fournisseur déclaré comme ayant des obligations étendues en matière de fourniture de renseignements a, à compter de la décision, deux mois pour garantir l’enregistrement des données nécessaires à la livraison des renseignements et douze mois pour assurer la disponibilité à renseigner.
 
-[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 23
 
@@ -1296,7 +1297,7 @@ Les FST ayant des obligations restreintes en matière de surveillance sont tenus
 
 #### Art. 52
 
-**FSCD rivés ayant des obligations étendues en matière de surveillance**
+**FSCD ayant des obligations étendues en matière de surveillance**
 
 <sup>1</sup>
 
@@ -1596,7 +1597,7 @@ Doivent être transmis:
 
 **Type de surveillance AS\_32\_PREP\_COV: analyse de la couverture réseau préalablement à une recherche par champ d’antennes**
 
-<sup>1</sup> Le type de surveillance AS\_32\_PREP\_COV a pour objet l’analyse de la couverture réseau préalablement à une recherche par champ d’antennes selon l’art. 66. Il est effectué par les FST afin d’identifier les cellules de téléphonie mobile ou les accès au réseau WLAN le plus susceptibles de couvrir la localisation indiquée par l’autorité qui a ordonné la surveillance sous la forme de coordonnées géographiques ou d’une adresse postale, en tenant compte le cas échéant d’indications supplémentaires (par ex. heure du jour, conditions météorologiques, jour de la semaine, localisation à l’intérieur ou à l’extérieur d’un bâtiment).
+<sup>1</sup> Le type de surveillance AS\_32\_PREP\_COV a pour objet l’analyse de la couverture réseau préalablement à une recherche par champ d’antennes selon l’art. 66. Il est effectué par les FST afin d’identifier les cellules de téléphonie mobile ou les accès publics au réseau WLAN le plus susceptibles de couvrir la localisation indiquée par l’autorité qui a ordonné la surveillance sous la forme de coordonnées géographiques ou d’une adresse postale, en tenant compte le cas échéant d’indications supplémentaires (par ex. heure du jour, conditions météorologiques, jour de la semaine, localisation à l’intérieur ou à l’extérieur d’un bâtiment).
 
 <sup>2</sup> Le FST fournit au Service SCPT une liste des identifiants de cellule ou de zone géographique correspondant aux cellules de téléphonie mobile identifiées et des identifiants (par ex. BSSID) ou d’autres désignations appropriées (par ex. nom de la zone d’accès sans fil) des accès publics au réseau WLAN exploités à titre professionnel identifiés.[^64-1]
 
@@ -1606,7 +1607,7 @@ Doivent être transmis:
 
 **Type de surveillance AS\_33\_PREP\_REF: communications de référence ou accès au réseau de référence préalablement à une recherche par champ d’antennes**
 
-<sup>1</sup> Le type de surveillance AS\_33\_PREP\_REF a pour objet l’identification, préalablement à une recherche par champ d’antennes selon l’art. 66, de cellules de téléphonie mobile ou d’accès au réseau WLAN au moyen de communications de référence ou d’accès au réseau de référence.
+<sup>1</sup> Le type de surveillance AS\_33\_PREP\_REF a pour objet l’identification, préalablement à une recherche par champ d’antennes selon l’art. 66, de cellules de téléphonie mobile ou d’accès publics au réseau WLAN au moyen de communications de référence ou d’accès au réseau de référence.
 
 <sup>2</sup>
 
@@ -1617,7 +1618,7 @@ L’autorité qui ordonne la surveillance fait effectuer, de manière autonome, 
 - c. les ressources d’adressage du service de téléphonie ou multimédia ou du service d’accès au réseau utilisé;
 - d. le cas échéant, le nom du réseau de communication mobile utilisé.
 
-<sup>3</sup> Le Service SCPT charge les FST d’identifier, sur la base des données secondaires, les cellules de téléphonie mobile ou les accès publics au réseau WLAN utilisés au début et à la fin des communications de référence ou des accès au réseau de référence selon l’al. 2, avec mandat de lui fournir la liste visée à l’al. 2 complétée avec les identifiants correspondants de cellule ou de zone géographique des cellules de téléphonie mobile, les identifiants correspondants (par ex. BSSID), ou d’autres désignations appropriées (par ex. nom de la zone d’accès sans fil) des accès au réseau WLAN.[^65-2]
+<sup>3</sup> Le Service SCPT charge les FST d’identifier, sur la base des données secondaires, les cellules de téléphonie mobile ou les accès publics au réseau WLAN utilisés au début et à la fin des communications de référence ou des accès au réseau de référence selon l’al. 2, avec mandat de lui fournir la liste visée à l’al. 2 complétée avec les identifiants correspondants de cellule ou de zone géographique des cellules de téléphonie mobile et les identifiants correspondants (par ex. BSSID), ou d’autres désignations appropriées (par ex. nom de la zone d’accès sans fil) des accès au réseau WLAN.[^65-2]
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 685](https://fedlex.data.admin.ch/eli/oc/2023/685)).
@@ -1626,7 +1627,7 @@ L’autorité qui ordonne la surveillance fait effectuer, de manière autonome, 
 
 **Type de surveillance AS\_34: recherche par champ d’antennes**
 
-<sup>1</sup> Le type de surveillance AS\_34 a pour objet la surveillance rétroactive de toutes les communications, tentatives d’établissement de communications et de tous les accès au réseau effectués via une cellule de téléphonie mobile ou un point d’accès public déterminé au réseau WLAN pendant une période pouvant aller jusqu’à deux heures.[^66-1]
+<sup>1</sup> Le type de surveillance AS\_34 a pour objet la surveillance rétroactive de toutes les communications, tentatives d’établissement de communications et de tous les accès au réseau effectués via une cellule de téléphonie mobile ou un accès au réseau WLAN public déterminé pendant une période pouvant aller jusqu’à deux heures.[^66-1]
 
 <sup>2</sup> Le FST livre les données secondaires selon les art. 60 et 61 des communications au sens de l’al. 1.
 
@@ -1686,7 +1687,7 @@ Les types de surveillance pouvant être ordonnés pour la recherche de personnes
 <sup>4</sup> S’agissant des services mobiles de téléphonie et multimédia et des services mobiles convergents, les données secondaires des communications doivent être transmises conformément à l’art. 56, al. 1, let. a, b, d et e, ch. 1 et 9, et al. 2.
 
 [^68a-1]: Introduit par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^68a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^68a-2]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 ### Section 12 Identifiants externes au réseau
 
@@ -1872,7 +1873,7 @@ Annexe[^t-1]
 - 38\. *Services de messagerie (messaging):* services proposés indépendamment des services téléphoniques ou multimédia pour la transmission de messages, par exemple la messagerie instantanée, la messagerie IMS, les applications de messagerie et les SMS de fournisseurs tiers (c.-à-d. des services de SMS proposés par un FST autre que celui de l’usager). Ces services peuvent intégrer des fonctions étendues comme la communication multimédia, la transmission de données et les informations de présence (l’usager peut par exemple consulter le statut actuel et, selon le cas, la localisation des autres utilisateurs).
 - 39\. *Identifiant de cellule:* élément statique qui identifie une cellule radio dans un réseau de communication mobile, par exemple CGI (*Cell Global Identity*), ECGI (*E-UTRAN Cell Global Identity*) et NCGI (*New Radio Cell Global Identity*).
 - 40\. *Identifiant de zone géographique*: élément statique qui identifie une zone géographique dans un réseau de communication mobile, par exemple SAI (*Service Area Identity*), RAI (*Routing Area Identity*) et TAI (*Tracking Area Identity*).
-- 41\. *Nom de la zone d’accès sans fil (SSID)*: appellation librement choisie par le fournisseur pour désigner une zone d’accès sans fil et permettre aux usager de la repérer aisément; au sens de la présente ordonnance, une zone d’accès sans fil est un point d’accès public à l’internet via le WLAN (wifi), par opposition à un point d’accès privé fixe ou mobile (*tethering*).
+- 41\. *Nom de la zone d’accès sans fil (SSID)*: appellation librement choisie par le fournisseur pour désigner une zone d’accès sans fil et permettre aux usager de la repérer aisément; au sens de la présente ordonnance, une zone d’accès sans fil est une zone d’accès public à l’internet via le WLAN (wifi), par opposition à une zone d’accès privé fixe ou mobile (*tethering*).
 - 42\. *Identifiant cible (target ID):* élément qui identifie la cible de la surveillance.
 - 43\. *IRI (Intercept Related Information):* données secondaires des télécommunications d’une cible récupérées dans le cadre d’une surveillance en temps réel et généralement transmises, elles aussi, en temps réel. À ne pas confondre avec les données secondaires conservées (données historiques), qui sont, elles, saisies de manière sélective et généralement avec un décalage dans le temps à des fins de surveillance rétroactive.
 - 44\. *HLR (Home Location Register)*: dans les réseaux de téléphonie mobile de deuxième et de troisième génération, banque de données d’un fournisseur dans laquelle sont enregistrées les données caractérisant ses utilisateurs (par ex. IMSI, MSISDN, configuration, profil de service) et le réseau utilisé dans chaque cas pour fournir le service.
