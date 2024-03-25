@@ -4,7 +4,7 @@ number: "446.12.1"
 title: RÈGLEMENT du 01.04.2015 d’application de la loi du 8 avril 2014 sur le patrimoine mobilier et immatériel (RLPMI)
 short: RLPMI
 language: fr
-version: 2015-05-01
+version: 2024-03-26
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12.1?id=45a65234-7602-4cc2-b6b5-d854c2379393"
 ---
 
@@ -42,15 +42,13 @@ arrête
 
 **Composition [^1-2]**
 
-<sup>1</sup> La commission est composée de sept membres, à savoir le chef du service en charge des affaires culturelles (ci-après : le chef de service), le responsable en charge du patrimoine au sein du service en charge des affaires culturelles (ci-après : le service), un représentant du département en charge de l'archéologie et des monuments historiques[^2-1] , et de quatre autres membres choisis en raison de leurs compétences avérées en matière de patrimoine mobilier ou immatériel.
+<sup>1</sup> La commission est composée de sept membres, à savoir du chef du service en charge des affaires culturelles (ci-après : le chef de service), du responsable en charge du patrimoine au sein du service en charge des affaires culturelles (ci-après : le service), d'un représentant du département en charge de l'archéologie et des monuments historiques, de la direction du Musée cantonal d'archéologie et d'histoire et de trois autres membres choisis en raison de leurs compétences avérées en matière de patrimoine mobilier ou immatériel.
 
-<sup>2</sup> Le conservateur du patrimoine immatériel et le coordinateur du patrimoine mobilier au sens de l'article 12 du présent règlement, assistent aux séances avec voix consultative.
+<sup>2</sup> Le conservateur du patrimoine immatériel et le coordinateur du patrimoine mobilier, au sens de l'article 12 du présent règlement, assistent aux séances avec voix consultative.
 
-<sup>3</sup> La commission peut faire appel à des experts externes conformément à l'article 8, alinéa 3 LPMI[^2-2] .
+<sup>3</sup> La commission peut faire appel à des experts externes conformément à l'article 8, alinéa 3 LPMI.
 
-[^1-2]: Modif. 1 du 20.03.2024: Modification Al. 1-3; entrée en vigueur au 26.03.2024; Introduction Art. 14, Al. 1, e, 1-2; entrée en vigueur au 26.03.2024; Introduction Art. 14, Al. 1, m; entrée en vigueur au 26.03.2024; Introduction Art. 14, Al. 2, a-c; entrée en vigueur au 26.03.2024
-[^2-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^2-2]: Loi du 08.04.2014 sur le patrimoine mobilier et immatériel ([BLV 446.12](https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12?id=f9bd60c5-294f-400c-819e-9ea617afdad4))
+[^1-2]: Modif. 1 du 20.03.2024: Modification Al. 1-3; entrée en vigueur au 26.03.2024
 
 #### Art. 3
 
@@ -177,27 +175,33 @@ arrête
 
 **Désignation et champ d'application [^chapterChapitreV-1]**
 
-<sup>1</sup> Sont des institutions patrimoniales cantonales (ci-après : institution) au sens de la LPMI[^14-1] :
+<sup>1</sup> Sont des institutions patrimoniales cantonales (ci-après : institutions) au sens de la LPMI :
 
 - a. les Archives cantonales vaudoises ;
 - b. la Bibliothèque cantonale et universitaire Lausanne ;
-- c. le Musée cantonal des Beaux-Arts ;
-- d. le Musée de l'Elysée (Musée cantonal de la photographie) ;
-- e. le Musée cantonal de zoologie ;
-- f. le Musée cantonal de géologie ;
-- g. les Musée et jardins botaniques cantonaux ;
-- h. le Musée cantonal d'archéologie et d'histoire ;
-- i. les Site et musée romains d'Avenches ;
-- j. le Musée monétaire cantonal ;
-- k. le Musée militaire vaudois ;
+- c. le Musée cantonal des Beaux-Arts (MCBA) ;
+- d. le Musée cantonal pour la photographie (Musée de l'Elysée ; Photo Elysée) ;
+- e. le Muséum cantonal des sciences naturelles (Naturéum), lequel comprend :
+- 1\. le Jardin botanique cantonal de Lausanne ;
+- 2\. le Jardin alpin cantonal de Pont de Nant (La Thomasia) ;
+- f. ...
+- g. ...
+- h. le Musée cantonal d'archéologie et d'histoire (MCAH) ;
+- i. les Site et Musée romains d'Avenches ;
+- j. ...
+- k. le Château de Morges et ses musées ;
 - l. la Fondation Toms Pauli.
+- m. le Musée cantonal de design et d'arts appliqués contemporains (mudac).
 
-<sup>2</sup> Les dispositions du présent chapitre ne s'appliquent pas aux Archives cantonales vaudoises et à la Bibliothèque cantonale et universitaire Lausanne qui disposent chacune d'un règlement spécifique.
+<sup>2</sup> Les dispositions du présent chapitre ne s'appliquent pas :
+
+- a. aux Archives cantonales vaudoises ;
+- b. à la Bibliothèque cantonale et universitaire de Lausanne et
+- c. au Cabinet cantonal des estampes qui conserve notamment la collection des estampes du Canton de Vaud.
 
 <sup>3</sup> Les législations spéciales sont réservées.
 
 [^chapterChapitreV-1]: Modif. 1 du 20.03.2024: Modification Al. 1; entrée en vigueur au 26.03.2024; Modification Al. 1, c-e; entrée en vigueur au 26.03.2024; Introduction Al. 1, e, 1-2; entrée en vigueur au 26.03.2024; Abrogation Al. 1, f-g; entrée en vigueur au 26.03.2024; Modification Al. 1, h-i; entrée en vigueur au 26.03.2024; Abrogation Al. 1, j; entrée en vigueur au 26.03.2024; Modification Al. 1, k; entrée en vigueur au 26.03.2024; Introduction Al. 1, m; entrée en vigueur au 26.03.2024; Modification Al. 2; entrée en vigueur au 26.03.2024; Introduction Al. 2, a-c; entrée en vigueur au 26.03.2024
-[^14-1]: Loi du 08.04.2014 sur le patrimoine mobilier et immatériel ([BLV 446.12](https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12?id=f9bd60c5-294f-400c-819e-9ea617afdad4))
 
 #### Art. 15
 
@@ -269,12 +273,11 @@ arrête
 
 **Institutions patrimoniales reconnues [^22-1]**
 
-<sup>1</sup> Conformément à l'article 36 LPMI[^23-1] , l'Etat peut reconnaître des institutions patrimoniales communales ou privées auxquelles il confie des collections propriété du canton, notamment celles qui assurent la mise en valeur des trouvailles archéologiques.
+<sup>1</sup> Conformément à l'article 36 LPMI, l'Etat peut reconnaître des institutions patrimoniales communales ou privées auxquelles il confie des collections propriété du canton, notamment celles qui assurent la conservation et la mise en valeur des trouvailles archéologiques.
 
 <sup>2</sup> Les conditions et critères de reconnaissance sont fixés par voie de convention.
 
-[^22-1]: Modif. 1 du 20.03.2024: Introduction Art. 14, Al. 1, e, 1-2; entrée en vigueur au 26.03.2024; Introduction Art. 14, Al. 1, m; entrée en vigueur au 26.03.2024; Introduction Art. 14, Al. 2, a-c; entrée en vigueur au 26.03.2024; Modification Al. 1; entrée en vigueur au 26.03.2024
-[^23-1]: Loi du 08.04.2014 sur le patrimoine mobilier et immatériel ([BLV 446.12](https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12?id=f9bd60c5-294f-400c-819e-9ea617afdad4))
+[^22-1]: Modif. 1 du 20.03.2024: Modification Al. 1; entrée en vigueur au 26.03.2024
 
 ## Chapitre VI Fonds cantonal du patrimoine mobilier et immatériel
 
