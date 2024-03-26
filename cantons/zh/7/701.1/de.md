@@ -3,10 +3,10 @@ canton: ZH
 number: "701.1"
 title: Beschluss des Kantonsrates über die Festsetzung des revidierten kantonalen Richtplans
 language: de
-nachtrag: "110"
-valid_until: 2024-03-26
+nachtrag: "124"
+valid_until: 2024-05-24
 adopted: 2014-03-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_1-2014_03_18-2014_03_18-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_1-2014_03_18-2014_03_18-124.html"
 text: pdf
 ---
 
@@ -34,7 +34,9 @@ Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kap
 
 **1**
 
-1.10. 20 - 110 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Lückenschliessung Oberlandautobahn) vom 29. Mai 2017 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Zentrumserschliessung Neuhegi-Grüze) vom 7. Juli 2017 Beschluss des Kantonsrates über die Teilrevision 2015 des kantonalen Richtplans vom 22. Oktober 2018 Beschluss des Kantonsrates über die Teilrevision 2016 des kantonalen Richtplans, Kapitel 2 «Siedlung»,
+**OS 79, 76**
+
+- 1\. 4. 24 - 124 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Lückenschliessung Oberlandautobahn) vom 29. Mai 2017 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Zentrumserschliessung Neuhegi-Grüze) vom 7. Juli 2017 Beschluss des Kantonsrates über die Teilrevision 2015 des kantonalen Richtplans vom 22. Oktober 2018 Beschluss des Kantonsrates über die Teilrevision 2016 des kantonalen Richtplans, Kapitel 2 «Siedlung»,
 
 **OS 74, 166**
 
@@ -58,10 +60,12 @@ und Rosengartentunnel» vom 25. März 2019 Beschluss des Kantonsrates über die 
 
 **OS 72, 181**
 
+**OS 75, 450**
+
+### Kapitel 4 «Verkehr» vom 22. Juni 2020
+
 **OS 72, 182**
 
 **OS 74, 163**
 
-**OS 75, 450**
-
-### Kapitel 4 «Verkehr» vom 22. Juni 2020
+Beschluss des Kantonsrates über die Teilrevision 2017 des kantonalen Richtplans, Kapitel 5 «Versorgung, Entsorgung»
