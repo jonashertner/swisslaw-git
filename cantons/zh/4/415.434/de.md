@@ -4,10 +4,10 @@ number: "415.434"
 title: Verordnung über die Titularprofessur an der Medizinischen Fakultät der Universität Zürich (TPV MeF)
 short: TPV MeF
 language: de
-nachtrag: "113"
-valid_until: 2024-03-26
+version: "2024-01-01"
+nachtrag: "124"
 adopted: 2021-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_434-2021_03_10-2021_07_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_434-2021_03_10-2021_07_01-124.html"
 text: pdf
 ---
 
@@ -39,11 +39,11 @@ beschliesst:
 
 <sup>3</sup> Soweit diese Verordnung keine Regelung enthält, gilt unmittelbar die RVO TP.
 
-#### § 2
-
 **Zweck**
 
-Die Verleihung des Titels Titularprofessorin oder Titularprofessor soll dazu dienen, besondere Leistungen in der medizinischen Forschung und Lehre anzuerkennen und die Bindung der Titularprofessorin oder des Titularprofessors an die Medizinische Fakultät der Universität Zürich zu stärken.
+§ 2.[^1-1] Die Verleihung des Titels Titularprofessorin oder Titularprofessor und deren Verlängerung sollen dazu dienen, besondere Leistungen in der medizinischen Forschung und Lehre anzuerkennen und die Bindung der Titularprofessorin oder des Titularprofessors an die Medizinische Fakultät der Universität Zürich (UZH) sowie das Netzwerk Universitäre Medizin Zürich (UMZH) zu stärken.
+
+[^1-1]: Fassung gemäss B vom 13. Dezember 2023 (OS 79, 62; ABl 2024-02-09). In Kraft seit 1. Januar 2024.
 
 #### § 3
 
@@ -57,7 +57,7 @@ Die Verleihung des Titels Titularprofessorin oder Titularprofessor soll dazu die
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 24 - 124
 
 <sup>4</sup> Die Rechtsstellung der Titularprofessorinnen und Titularprofessoren richtet sich nach § 3 RVO TP und §§ 14–16 dieser Verordnung.
 
@@ -131,7 +131,7 @@ Die Verleihung des Titels Titularprofessorin oder Titularprofessor soll dazu die
 
 **3**
 
-- 1\. 7. 21 - 113 § 9. <sup>1</sup> Die Kandidierenden haben folgende Unterlagen einzureichen:
+- 1\. 4. 24 - 124 § 9. <sup>1</sup> Die Kandidierenden haben folgende Unterlagen einzureichen:
 
 **Unterlagen**
 
@@ -199,7 +199,7 @@ Die Verleihung des Titels Titularprofessorin oder Titularprofessor soll dazu die
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 24 - 124
 
 <sup>4</sup> Die Beförderungskommission stellt gestützt auf das Ergebnis der Begutachtung gemäss § 11 Antrag an die Fakultätsversammlung.
 
@@ -209,19 +209,28 @@ Die Verleihung des Titels Titularprofessorin oder Titularprofessor soll dazu die
 
 <sup>7</sup> Über die Nichternennung entscheidet die Fakultätsversammlung abschliessend.
 
-#### § 13
-
 **Verlängerung der Titularprofessur**
 
-<sup>1</sup> Spätestens zu Beginn des fünften Jahres der Titularprofessur kann die Titularprofessorin oder der Titularprofessor einen Antrag auf Verlängerung um höchstens sechs Jahre bei der stellvertretenden Dekanin oder dem stellvertretenden Dekan einreichen.
+§ 13.[^12-1] <sup>1</sup> Frühestens ein Jahr und spätestens ein halbes Jahr vor Ablauf der Titularprofessur kann die Titularprofessorin oder der Titularprofessor einen Antrag auf Verlängerung um höchstens sechs Jahre bei der stellvertretenden Dekanin oder dem stellvertretenden Dekan einreichen.
 
-<sup>2</sup> Das Prüfungsverfahren richtet sich nach § 5 Abs. 2 und 3 sowie §§ 6–10. Auf die Einholung von externen Gutachten kann verzichtet werden. In begründeten Fällen kann auch auf die Erfüllung einzelner Voraussetzungen gemäss §§ 6–8 verzichtet werden. Die Verlängerung muss im Interesse der Universität Zürich liegen (§ 14 RVO TP).
+<sup>2</sup> Voraussetzungen für die Verlängerung der Titularprofessur sind besondere Leistungen in der medizinischen Forschung oder Lehre zum Nutzen der Medizinischen Fakultät der UZH und des Netzwerks UMZH.
 
-<sup>3</sup> Ab dem Jahr der Vollendung des 60. Altersjahres müssen Titularprofessorinnen und Titularprofessoren mindestens die Hälfte der in § 7 und sämtliche in § 8 genannten Leistungen erbringen.
+<sup>3</sup> Das Prüfungsverfahren richtet sich sinngemäss nach § 5 Abs. 2 und 3. Die Beförderungskommission prüft, ob die Titularprofessorin oder der Titularprofessor weiterhin besondere Leistungen in der medizinischen Forschung oder Lehre zum Nutzen der Medizinischen Fakultät der UZH und des Netzwerks UMZH erbringt. In der Regel werden keine externen Gutachten eingeholt.
 
-<sup>4</sup> Wenn die ausgewiesenen Leistungen in Lehre und Forschung nicht genügen, informiert die Beförderungskommission, nach Rücksprache mit der Titularprofessorin oder dem Titularprofessor, die stellvertretende Dekanin oder den stellvertretenden Dekan. Sie oder er räumt der Titularprofessorin oder dem Titularprofessor zur Verbesserung der Leistungen eine Frist von einem Jahr ab Mitteilung des Entscheids ein.
+**Nichtverlängerung der Titularprofessur**
 
-<sup>5</sup> Bei erneut negativ ausfallender Überprüfung wird die oder der Betroffene schriftlich von der stellvertretenden Dekanin oder dem stellvertretenden Dekan über diesen Entscheid informiert und die Titularprofessur wird nicht weitergeführt.
+§ 13 a.[^12-2] <sup>1</sup> Wenn die Voraussetzungen gemäss § 13 Abs. 2 nicht erfüllt sind, informiert die Beförderungskommission, nach Rücksprache mit der Titularprofessorin oder dem Titularprofessor, die stellvertretende Dekanin oder den stellvertretenden Dekan.
+
+<sup>2</sup> Diese oder dieser räumt der Titularprofessorin oder dem Titularprofessor zur Verbesserung der Leistungen eine Frist von einem Jahr ab Mitteilung des Entscheids ein.
+
+<sup>3</sup> Bei erneut negativ ausfallender Überprüfung wird die Gesuchstellerin oder der Gesuchsteller auf die Möglichkeit des Rückzugs des Gesuchs hingewiesen.
+
+<sup>4</sup> Zieht sie oder er das Gesuch nicht zurück, beschliesst die Fakultätsversammlung die Nichtverlängerung der Titularprofessur. Der Entscheid wird der oder dem Betroffenen mit Rechtsmittelbelehrung durch die stellvertretende Dekanin oder den stellvertretenden Dekan eröffnet.
+
+<sup>5</sup> Mit dem Eintritt der Rechtskraft des Entscheids erlischt das Recht zur Führung des Professorentitels.
+
+[^12-1]: Fassung gemäss B vom 13. Dezember 2023 (OS 79, 62; ABl 2024-02-09). In Kraft seit 1. Januar 2024.
+[^12-2]: Eingefügt durch B vom 13. Dezember 2023 (OS 79, 62; ABl 2024-02-09). In Kraft seit 1. Januar 2024.
 
 ### C. Rechtsstellung der Titularprofessorinnen und Titularprofessoren
 
@@ -273,24 +282,31 @@ Das Verfahren richtet sich nach §§ 17 und 18 RVO TP.
 
 Für das Verfahren und den Rechtsschutz gelten §§ 19–21 RVO TP.
 
-[^19-1]: Von der Erweiterten Universitätsleitung genehmigt am 11. Mai 2021.
+**7**
 
-#### § 20
+- 1\. 4. 24 - 124 § 20. <sup>1</sup> Diese Verordnung tritt nach der Genehmigung[^19-1] durch die Erweiterte Universitätsleitung am 1. Juli 2021 in Kraft.
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt nach der Genehmigung[^19-1] durch die Erweiterte Universitätsleitung am 1. Juli 2021 in Kraft.
-
 <sup>2</sup> Das Reglement über die Ernennung zur Titularprofessorin oder zum Titularprofessor und die Führung dieses Titels an der Medizinischen Fakultät der Universität Zürich vom 3. Oktober 2006 wird auf das Datum des Inkrafttretens dieser Verordnung aufgehoben.
 
-**7**
+[^19-1]: Von der Erweiterten Universitätsleitung genehmigt am 11. Mai 2021.
 
-- 1\. 7. 21 - 113 § 21. <sup>1</sup> Die bis zwölf Monate nach Inkrafttreten dieser Verordnung eröffneten Ernennungsverfahren richten sich nach dem bisherigen Reglement. Vorbehalten bleibt die RVO TP.
+#### § 21
 
 **Übergangsbestimmungen**
 
+<sup>1</sup> Die bis zwölf Monate nach Inkrafttreten dieser Verordnung eröffneten Ernennungsverfahren richten sich nach dem bisherigen Reglement. Vorbehalten bleibt die RVO TP.
+
 <sup>2</sup> Ernennungen zur Titularprofessorin oder zum Titularprofessor unterliegen seit dem 1. August 2017 einer Befristung auf höchstens sechs Jahre.
 
-<sup>3</sup> Titularprofessuren, die vor dem 1. August 2017 verliehen wurden, sind bis 31. Juli 2023 befristet (§ 84 a Abs. 3 UniO[^20-1].
+<sup>3</sup> Titularprofessuren, die vor dem 1. August 2017 verliehen wurden, sind bis 31. Juli 2023 befristet (§ 84 a Abs. 3 UniO[^21-1].
 
-[^20-1]: LS 415.111.
+**Änderungen vom 13. Dezember 2023**
+
+§ 22.[^21-2] <sup>1</sup> Die Änderungen vom 13. Dezember 2023 treten nach der Genehmigung durch die Erweiterte Universitätsleitung rückwirkend am 1. Januar 2024 in Kraft.
+
+<sup>2</sup> Über Gesuche um Verlängerung der Titularprofessur, die im Zeitpunkt des Inkrafttretens dieser Änderungen noch nicht erledigt sind, wird nach den revidierten Bestimmungen entschieden.
+
+[^21-1]: LS 415.111.
+[^21-2]: Eingefügt durch B vom 13. Dezember 2023 (OS 79, 62; ABl 2024-02-09). In Kraft seit 1. Januar 2024.
