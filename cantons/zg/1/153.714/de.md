@@ -3,20 +3,20 @@ canton: ZG
 number: "153.714"
 title: Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Wald und Wild
 language: de
-version: 2020-07-04
-valid_until: 2024-03-28
-version_adopted: 2020-06-29
+version: 2024-03-29
+valid_until: 2024-12-31
+version_adopted: 2024-03-26
 adopted: 2011-12-21
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.714"
-pdf: "https://bgs.zg.ch/api/de/versions/2109/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Wald und Wild
 
-Vom 21. Dezember 2011 (Stand 4. Juli 2020)
+Vom 21. Dezember 2011 (Stand 29. März 2024)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -107,6 +107,20 @@ verfügt:
 [^Ziff1b-3]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
 [^Ziff1b-4]: BGS [432.1](https://bgs.zg.ch/data/432.1/de)
 [^Ziff1b-5]: BGS [153.3](https://bgs.zg.ch/data/153.3/de)
+
+#### Ziff. 1c
+
+**Schutz vor Schadorganismen**
+
+<sup>1</sup> Folgende der Direktion des Innern im Rahmen der Bootsstationierungsverordnung zustehende Befugnisse werden an das Amt für Wald und Wild (§ 3 Abs. 1 Ziff. 3 Verordnung betreffend die Organisation und die Zuständigkeiten der Staatsverwaltung des Kantons Zug vom 2. Oktober 2018) delegiert:
+
+- a) § 9b Abs. 1 der Verordnung über die Inbetriebnahme und das Stationieren von Booten (Bootsstationierungsverordnung, BSVO) vom 17. Dezember 1974[^Ziff1c-1] betreffend Entgegennahmen der Meldungen und Nachweisen, dass keine Gefahr der Einschleppung von Schadorganismen besteht;
+- b) § 9b Abs. 2 der Verordnung über die Inbetriebnahme und das Stationieren von Booten (Bootsstationierungsverordnung, BSVO) vom 17. Dezember 1974[^Ziff1c-2] betreffend Bewilligungserteilung zur Einwasserung von immatrikulierungspflichten Booten, die zuvor auf einem anderen kantonalen, ausserkantonalen oder ausländischen Gewässer eingesetzt worden sind, einschliesslich Zuständigkeit zur Bewilligungserteilung;
+- c) § 9c Abs. 1 der Verordnung über die Inbetriebnahme und das Stationieren von Booten (Bootsstationierungsverordnung, BSVO) vom 17. Dezember 1974[^Ziff1c-3] betreffend Abschluss von Vereinbarungen mit Inhaberinnen und Inhabern von Bootsreinigungsanlagen sowie von konzessionierten Einwasserungsstellen über die Reinigung von einzuwassernden Booten.
+
+[^Ziff1c-1]: BGS [753.3](https://bgs.zg.ch/data/753.3/de)
+[^Ziff1c-2]: BGS [753.3](https://bgs.zg.ch/data/753.3/de)
+[^Ziff1c-3]: BGS [753.3](https://bgs.zg.ch/data/753.3/de)
 
 #### Ziff. 2
 
