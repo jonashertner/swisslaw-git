@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über Informationssysteme in den Sozialversicherungen (BISS)
 document: Vernehmlassungsvorlage
 language: de

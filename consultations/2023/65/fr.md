@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les systèmes d’information des assurances sociales (LSIA)
 document: Projet mis en consultation
 language: fr

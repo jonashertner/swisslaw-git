@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sui sistemi d’informazione delle assicurazioni sociali (LSIAS)
 document: Progetto posto in consultazione
 language: it
