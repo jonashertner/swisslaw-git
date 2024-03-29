@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Teilrevision des AHVG: Anpassung der Hinterlassenenrenten"
 document: Vernehmlassungsvorlage
 language: de

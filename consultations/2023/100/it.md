@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della LAVS: adeguamento delle rendite per superstiti"
 document: Progetto posto in consultazione
 language: it

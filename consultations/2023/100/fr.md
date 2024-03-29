@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision partielle de la LAVS: adaptation des rentes de survivants"
 document: Projet mis en consultation
 language: fr
