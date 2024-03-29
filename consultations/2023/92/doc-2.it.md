@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’ordinanza sui prodotti fitosanitari e revisione dell’ordinanza sulle tasse dell’USAV
 document: Progetto posto in consultazione-2
 language: it

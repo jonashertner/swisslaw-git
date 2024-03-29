@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de l’ordonnance sur les produits phytosanitaires et révision de l’ordonnance sur les émoluments de l’OSAV
 document: Projet mis en consultation-2
 language: fr

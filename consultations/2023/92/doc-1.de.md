@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Pflanzenschutzmittelverordnung und Revision der Gebührenverordnung BLV
 document: Vernehmlassungsvorlage
 language: de
