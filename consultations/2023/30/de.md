@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Ausländer- und Integrationsgesetzes (Erleichterung der selbstständigen Erwerbstätigkeit, Berücksichtigung des Lebensmittelpunkts und Zugriffe auf Informationssysteme)"
 document: Vernehmlassungsvorlage
 language: de

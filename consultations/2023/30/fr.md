@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur les étrangers et l’intégration (facilitation de l’exercice d’une activité lucrative indépendante, prise en compte du centre des intérêts et accès aux systèmes d’information)"
 document: Projet mis en consultation
 language: fr
