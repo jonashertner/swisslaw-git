@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Verordnung über die Förderung der ausserschulischen Arbeit mit Kindern und Jugendlichen (KJFV)
 document: Vernehmlassungsvorlage
 language: de

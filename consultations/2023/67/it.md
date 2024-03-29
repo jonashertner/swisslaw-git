@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’ordinanza sulla promozione delle attività extrascolastiche di fanciulli e giovani (OPAG)
 document: Progetto posto in consultazione
 language: it

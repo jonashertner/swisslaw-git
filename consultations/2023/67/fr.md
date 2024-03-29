@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur l’encouragement de l’enfance et de la jeunesse (OEEJ)
 document: Projet mis en consultation
 language: fr
