@@ -3,18 +3,18 @@ sr: "412.101.222.06"
 title: "Ordinanza della SEFRI dell' 8 luglio 2014 sulla formazione professionale di base Addetta tessile/Addetto tessile con certificato federale di formazione pratica (CFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/430"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2014-07-08
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/430/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2014-430-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/430/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/430/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2014-430-20240401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/430/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta tessile/Addetto tessile con certificato federale di formazione pratica (CFP)
 
-dell’8 luglio 2014 (Stato 1° gennaio 2018)
+dell’8 luglio 2014 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>26309</td><td>Addetta tessile CFP/Addetto tessile CFP Textilpraktikerin EBA/Textilpraktiker EBA Agente en produits textiles AFP/ Agent en produits textiles AFP</td></tr>
@@ -22,20 +22,23 @@ dell’8 luglio 2014 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 153 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 153 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto, orientamenti e durata
 
 #### Art. 1
 
 **Profilo professionale e orientamenti**
+
+<sup>1</sup>
 
 Gli addetti tessili di livello CFP svolgono, in particolare, le seguenti attività e si contraddistinguono per le seguenti conoscenze, capacità e comportamenti:
 
@@ -77,6 +80,8 @@ La formazione di addetto tessile di livello CFP prevede i seguenti orientamenti 
 
 **Competenze operative**
 
+<sup>1</sup>
+
 La formazione prevede, nei seguenti campi di competenze operative, le competenze operative qui elencate:
 
 - a.
@@ -115,11 +120,12 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 153 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -414,9 +420,11 @@ Essa svolge in particolare i seguenti compiti:
 
 <sup>1</sup> È responsabile dei corsi interaziendali la *Textilverband Schweiz*.
 
-- [tab] <sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
-- [tab] <sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
-- [tab] <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+<sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
+
+<sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
+
+<sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
 
 ## Sezione 11: Entrata in vigore
 
