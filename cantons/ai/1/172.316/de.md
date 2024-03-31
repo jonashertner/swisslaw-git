@@ -4,20 +4,22 @@ number: "172.316"
 title: Reglement über Spesen und weitere Vergütungen
 short: Spesenreglement
 language: de
-version: 2023-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-12-06
+version: 2024-04-01
+valid_until: 2025-07-31
+version_adopted: 2024-03-19
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.316"
-pdf: "https://ai.clex.ch/api/de/versions/2199/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Spesen und weitere Vergütungen
 
-vom 21.11.2017 (Stand 01.01.2023)
+(Spesenreglement)
+
+vom 21.11.2017 (Stand 01.04.2024)
 
 Das Finanzdepartement des Kantons Appenzell I. Rh.,
 
@@ -123,9 +125,15 @@ beschliesst:
 
 **Jahresveranstaltung und weitere Anlässe**
 
-<sup>1</sup> Jedes Departement führt jährlich einen Anlass mit allen Mitarbeitenden durch. Dafür steht je Teilnehmer oder Teilnehmerin ein Betrag von Fr. 100.-- zur Verfügung. Die nicht teilnehmenden Mitarbeitenden haben keinen Anspruch auf Vergütung dieses Betrags.
+<sup>1</sup> Jedes Departement führt jährlich einen Anlass mit allen Mitarbeitenden durch. Dafür steht je Teilnehmer oder Teilnehmerin ein Betrag von Fr. 120.-- zur Verfügung.
 
-<sup>2</sup> Der Departementsvorsteher oder die Departementsvorsteherin kann zusätzlich für Teamanlässe, insbesondere für Teamentwicklung und Teambildung, pro Jahr Kosten bis Fr. 40.-- je Teilnehmer oder Teilnehmerin bewilligen.
+<sup>2</sup> Der Departementsvorsteher oder die Departementsvorsteherin kann zusätzlich für Teamanlässe, insbesondere für Teamentwicklung und Teambildung, pro Jahr Kosten bis Fr. 50.-- je Teilnehmer oder Teilnehmerin bewilligen.
+
+<sup>3</sup> Für die Anlässe gilt:
+
+- a) Der Jahresanlass und der Teamanlass sind zeitlich getrennt durchzuführen.
+- b) Eine teilweise oder vollständige Übertragung der Kantonsbeiträge vom Jahresanlass auf den Teamanlass oder umgekehrt ist ausgeschlossen.
+- c) Nicht teilnehmende Mitarbeitende haben keinen Anspruch auf Vergütung des Kantonsbeitrags.
 
 #### Art. 13
 
