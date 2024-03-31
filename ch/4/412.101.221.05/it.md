@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Ordinanza della SEFRI del 21 aprile 2009 sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: it
-version: 2018-02-01
+version: 2024-04-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20180201/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20180201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20180201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 
-del 21 aprile 2009 (Stato 1° febbraio 2018)
+del 21 aprile 2009 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>31604</td><td>Doratrice corniciaia AFC/Doratore corniciaio AFC Vergolderin-Einrahmerin EFZ/Vergolder-Einrahmer EFZ Doreuse-Encadreuse CFC/Doreur-Encadreur CFC</td></tr>
@@ -22,14 +22,15 @@ del 21 aprile 2009 (Stato 1° febbraio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:[^ingress-4]
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -114,11 +115,12 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^7-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -162,7 +164,7 @@ Il piano di formazione:
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^10-2]: Il piano è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A–Z.
+[^10-2]: Il piano è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 #### Art. 11
 
@@ -389,7 +391,7 @@ Essa svolge in particolare i compiti seguenti:
 
 [^23-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^23-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^23-3]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^23-3]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]
 [^23-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 11: Disposizioni finali
