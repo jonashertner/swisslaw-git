@@ -3,18 +3,18 @@ sr: "412.101.221.02"
 title: Ordinanza della SEFRI del 15 settembre 2020 sulla formazione professionale di base Danzatrice / Danzatore con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/725"
 language: it
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2020-09-15
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/725/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-725-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/725/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/725/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-725-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/725/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Danzatrice / Danzatore con attestato federale di capacità (AFC)
 
-del 15 settembre 2020 (Stato 1° gennaio 2021)
+del 15 settembre 2020 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>90904</td><td colspan="2">Danzatrice AFC / Danzatore AFC Bühnentänzerin EFZ / Bühnentänzer EFZ</td></tr>
@@ -26,13 +26,14 @@ del 15 settembre 2020 (Stato 1° gennaio 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -153,13 +154,13 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
   - 3\. realizzare una rappresentazione per un musical,
   - 4\. sviluppare un nuovo linguaggio espressivo nell’ambito della danza, del canto e della recitazione.
 
-<sup>2</sup> Lo sviluppo delle competenze operative nei campi di competenze operative a, b, c, d è obbligatorio per tutte le persone in formazione. Lo sviluppo delle competenze operative nei campi di competenze operative e–g è vincolante come segue a seconda dell’indirizzo professionale:
+<sup>2</sup>
 
-a. campo di competenze operative e: per l’indirizzo professionale «Danza classica»;
+Lo sviluppo delle competenze operative nei campi di competenze operative a, b, c, d è obbligatorio per tutte le persone in formazione. Lo sviluppo delle competenze operative nei campi di competenze operative e–g è vincolante come segue a seconda dell’indirizzo professionale:
 
-b. campo di competenze operative f: per l’indirizzo professionale «Danza contemporanea»;
-
-c. campo di competenze operative g: per l’indirizzo professionale «Musical».
+- a. campo di competenze operative e: per l’indirizzo professionale «Danza classica»;
+- b. campo di competenze operative f: per l’indirizzo professionale «Danza contemporanea»;
+- c. campo di competenze operative g: per l’indirizzo professionale «Musical».
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -171,9 +172,11 @@ c. campo di competenze operative g: per l’indirizzo professionale «Musical».
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -242,9 +245,10 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 15 set. 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+[^9-1]: Il piano del 15 set. 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -470,12 +474,12 @@ La Commissione svizzera per lo sviluppo professionale e la qualità della formaz
 - b. quattro rappresentanti dei docenti di materie professionali;
 - c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Per la composizione della Commissione vale inoltre quanto segue:
+<sup>2</sup>
 
-a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+Per la composizione della Commissione vale inoltre quanto segue:
 
-b. le regioni linguistiche sono adeguatamente rappresentate;
-
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche sono adeguatamente rappresentate;
 - c. gli indirizzi professionali sono rappresentati.
 
 <sup>3</sup> La Commissione si autocostituisce.
@@ -497,7 +501,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 1° dicembre 2008[^24-1] sulla formazione professionale di base Danzatrice/Danzatore con attestato federale di capacità (AFC) è abrogata.
 
-[^24-1]: [[RU 2009 373](https://fedlex.data.admin.ch/eli/oc/2009/67), [2012 443](https://fedlex.data.admin.ch/eli/oc/2012/54)[1701](https://fedlex.data.admin.ch/eli/oc/2012/244), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 72 II n. 72]
+[^24-1]: [[RU 2009 373](https://fedlex.data.admin.ch/eli/oc/2009/67); [2012 443](https://fedlex.data.admin.ch/eli/oc/2012/54), [1701](https://fedlex.data.admin.ch/eli/oc/2012/244); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 72, II n. 72]
 
 #### Art. 25
 
@@ -513,4 +517,4 @@ L’ordinanza della SEFRI del 1° dicembre 2008[^24-1] sulla formazione professi
 
 **Entrata in vigore**
 
-### La presente ordinanza entra in vigore il 1° gennaio 2021.
+La presente ordinanza entra in vigore il 1° gennaio 2021.
