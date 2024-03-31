@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: Ordinanza della SEFRI del 21 agosto 2020 sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: it
-version: 2021-03-22
+version: 2024-04-01
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210322-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-678-20240401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
 
-del 21 agosto 2020 (Stato 22 marzo 2021) (Stato 22 marzo 2021)
+del 21 agosto 2020 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>94308</td><td>Operatrice socioassistenziale AFC/ Operatore socioassistenziale AFC</td></tr>
@@ -28,13 +28,14 @@ del 21 agosto 2020 (Stato 22 marzo 2021) (Stato 22 marzo 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -199,9 +200,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -299,7 +302,8 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
 [^9-1]: Il piano del 21 agosto 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
 
@@ -503,13 +507,13 @@ La Commissione svizzera per lo sviluppo professionale e la qualità della formaz
 - b. almeno una rappresentante dei docenti di materie professionali;
 - c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Per la composizione della Commissione vale inoltre quanto segue:
+<sup>2</sup>
 
-a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+Per la composizione della Commissione vale inoltre quanto segue:
 
-b. le regioni linguistiche devono essere adeguatamente rappresentate;
-
-c. gli indirizzi professionali devono essere rappresentati.
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche devono essere adeguatamente rappresentate;
+- c. gli indirizzi professionali devono essere rappresentati.
 
 <sup>3</sup> La Commissione si autocostituisce.
 
@@ -558,8 +562,6 @@ L’ordinanza della SEFRI del 16 giugno 2005[^24-1] sulla formazione professiona
 
 **Titoli equivalenti**
 
-c. Le formazioni cantonali riconosciute dalla CDPE, dalla CDOS e dalla SKV iniziate nel 2005.
-
 Sono equivalenti all’attestato federale di capacità di cui all’articolo 21:
 
 - a. i titoli di operatore socioassistenziale e assistente geriatrico conseguiti tra il 1° gennaio 1991 e il 31 dicembre 2010;
@@ -577,6 +579,8 @@ Sono equivalenti all’attestato federale di capacità di cui all’articolo 21:
 
   - 2\. i certificati cantonali di capacità e i certificati riconosciuti dall’associazione *Schweizerischer Krippenverband* *(SKV)* per educatori della prima infanzia (formazione triennale),
   - 3\. i certificati riconosciuti dall’associazione *Verband für anthroposophische Heilpädagogik und Sozialtherapie in der Schweiz (VaHS*) per l’assistenza agli handicappati (formazione triennale);
+
+- c. le formazioni cantonali riconosciute dalla CDPE, dalla CDOS e dalla SKV iniziate nel 2005.
 
 #### Art. 27
 

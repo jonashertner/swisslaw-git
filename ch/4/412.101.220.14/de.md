@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: Verordnung des SBFI vom 21. August 2020 über die berufliche Grundbildung Fachfrau Betreuung / Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: de
-version: 2021-03-22
+version: 2024-04-01
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210322-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2020-678-20240401-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Fachfrau Betreuung / Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 21. August 2020 (Stand am 22. März 2021)
+vom 21. August 2020 (Stand am 1. April 2024)
 
 <table>
 <tr><td>94308</td><td>Fachfrau Betreuung EFZ / Fachmann Betreuung EFZ</td></tr>
@@ -28,13 +28,14 @@ vom 21. August 2020 (Stand am 22. März 2021)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1. Abschnitt: Gegenstand, Fachrichtungen und Dauer
 
@@ -62,7 +63,7 @@ Innerhalb des Berufs der Fachfrau und des Fachmanns Betreuung auf Stufe EFZ gibt
 - c. Menschen im Alter;
 - d. generalistische Ausbildung.
 
-<sup>4</sup> Die Fachrichtung wird vor Beginn der beruflichen Grundbildung im Lehrvertrag festgehalten.
+<sup>3</sup> Die Fachrichtung wird vor Beginn der beruflichen Grundbildung im Lehrvertrag festgehalten.
 
 #### Art. 2
 
@@ -197,9 +198,11 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungs-stand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungs-stand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -295,9 +298,10 @@ Der Bildungsplan hat folgenden Inhalt:
 
 - b. Er führt die Inhalte der Grundbildung sowie die Bestimmungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz aus.
 - c. Er bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden.
-- [tab] <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 21. August 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe von A–Z.
+<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
+
+[^9-1]: Der Bildungsplan vom 21. August 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe von A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
