@@ -4,13 +4,12 @@ number: 539n
 title: Reglement zum Schutz vor sexueller Belästigung an der Universität Luzern
 short: RSB UniLU
 language: de
-version: 2023-02-01
-valid_until: 2024-03-31
-version_adopted: 2022-12-21
+version: 2024-04-01
+version_adopted: 2024-03-27
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539n"
-pdf: "https://srl.lu.ch/api/de/versions/4043/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,11 +20,11 @@ Reglement
 
 (RSB UniLU)
 
-vom 21.12.2022 (Stand 01.02.2023)
+vom 21.12.2022 (Stand 01.04.2024)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000[^ingress-1] sowie auf § 39 Absatz 1 des Statuts der Universität Luzern vom 12. Dezember 2001[^ingress-2],
+gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000[^ingress-1] sowie auf § 52 Absatz 1 des Statuts der Universität Luzern vom 13. Dezember 2023[^ingress-2],
 
 in Erwägung, dass
 
@@ -52,7 +51,7 @@ beschliesst:
 
 <sup>2</sup> Es legt Strukturen und Verfahrensabläufe im Umgang mit sexueller Belästigung fest und enthält Bestimmungen zur Untersuchung und zu den daran anschliessenden Massnahmen.
 
-<sup>3</sup> Dieses Reglement gilt für alle Angehörigen der Universität. Es ist für Angehörige von An-Instituten gemäss § 21a des Statuts der Universität Luzern[^1-1] analog anwendbar, sofern die Kooperationsvereinbarung dies vorsieht und die Betroffenen nicht gleichzeitig Angehörige der Universität und dem Reglement damit direkt unterstellt sind.
+<sup>3</sup> Dieses Reglement gilt für alle Angehörigen der Universität. Es ist für Angehörige von extern getragenen Instituten gemäss § 28 des Statuts der Universität Luzern[^1-1] analog anwendbar, sofern die Kooperationsvereinbarung dies vorsieht und die Betroffenen nicht gleichzeitig Angehörige der Universität und dem Reglement damit direkt unterstellt sind.
 
 <sup>4</sup> Belästigendes Verhalten von Universitätsangehörigen unterliegt auch dann diesem Reglement, wenn es sich ausserhalb der universitären Einrichtungen ereignet, aber das Studium oder die Arbeit der betroffenen Person an der Universität Luzern erheblich beeinträchtigt.
 
@@ -186,7 +185,7 @@ beschliesst:
 
 **Weitere Anlaufstellen**
 
-<sup>1</sup> Ratsuchende Personen können, anstatt sich an eine der Vertrauenspersonen zu wenden, an die vorgesetzte Person, an den Personaldienst oder an die Ombudsstelle gemäss § 25a des Statuts der Universität Luzern[^10-1] gelangen oder eine Meldung bei der Hinweis-Meldestelle gemäss § 25b des Statuts der Universität Luzern[^10-2] erstatten.
+<sup>1</sup> Ratsuchende Personen können, anstatt sich an eine der Vertrauenspersonen zu wenden, an die vorgesetzte Person, an den Personaldienst oder an die Ombudsstelle gemäss § 36 des Statuts der Universität Luzern[^10-1] gelangen oder eine Meldung bei der Hinweis-Meldestelle gemäss § 37 des Statuts der Universität Luzern[^10-2] erstatten.
 
 <sup>2</sup> Diese Stellen beraten die ratsuchende Person im Rahmen ihrer Möglichkeiten und empfehlen oder veranlassen zweckdienliche Massnahmen. Dabei sind die Persönlichkeitsrechte aller beteiligter Personen zu wahren und die Meldung wird, soweit möglich, vertraulich behandelt.
 
