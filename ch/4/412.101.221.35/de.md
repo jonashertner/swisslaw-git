@@ -3,18 +3,18 @@ sr: "412.101.221.35"
 title: Verordnung des SBFI vom 16. März 2022 über die berufliche Grundbildung Kaminfegerin/Kaminfeger mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/277"
 language: de
-version: 2023-01-01
+version: 2024-04-01
 adopted: 2022-03-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/277/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-277-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/277/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/277/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2022-277-20240401-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/277/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kaminfegerin/Kaminfeger mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. März 2022 (Stand am 1. Januar 2023)
+vom 16. März 2022 (Stand am 1. April 2024)
 
 <table>
 <tr><td>80004</td><td>Kaminfegerin EFZ / Kaminfeger EFZ Ramoneuse CFC / Ramoneur CFC Spazzacamino AFC</td></tr>
@@ -22,13 +22,14 @@ vom 16. März 2022 (Stand am 1. Januar 2023)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkte und Dauer
 
@@ -115,7 +116,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
   Erledigen von betriebsinternen Arbeiten:
 
-  - 1. Werkzeuge, Maschinen und Fahrzeuge warten,
+  - 1\. Werkzeuge, Maschinen und Fahrzeuge warten,
   - 2\. über die an den Anlagen der Kundschaft ausgeführten Arbeiten und über die dabei entdeckten Mängel einen Rapport ausfüllen;
 
 - e.
@@ -134,11 +135,12 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 2\. lufthygienische und energetische Messungen an den WTA durchführen,
   - 3\. lufthygienische und energetische Messresultate beurteilen und die Kundinnen und Kunden über die Resultate informieren.
 
-<sup>2</sup> In den Handlungskompetenzbereichen nach den Buchstaben a–d ist der Aufbau der Handlungskompetenzen für alle Lernenden verbindlich. In den Handlungskompetenzbereichen e und f ist der Aufbau der Handlungskompetenzen je nach Schwerpunkt wie folgt verbindlich:
+<sup>2</sup>
 
-a. Schwerpunkt Warten und Reinigen von Lüftungsanlagen: Handlungskompetenzbereich e;
+In den Handlungskompetenzbereichen nach den Buchstaben a–d ist der Aufbau der Handlungskompetenzen für alle Lernenden verbindlich. In den Handlungskompetenzbereichen e und f ist der Aufbau der Handlungskompetenzen je nach Schwerpunkt wie folgt verbindlich:
 
-b. Schwerpunkt Durchführen von lufthygienischen und energetischen Messungen und Kontrollen an WTA: Handlungskompetenzbereich f.
+- a. Schwerpunkt Warten und Reinigen von Lüftungsanlagen: Handlungskompetenzbereich e;
+- b. Schwerpunkt Durchführen von lufthygienischen und energetischen Messungen und Kontrollen an WTA: Handlungskompetenzbereich f.
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -150,9 +152,11 @@ b. Schwerpunkt Durchführen von lufthygienischen und energetischen Messungen und
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
