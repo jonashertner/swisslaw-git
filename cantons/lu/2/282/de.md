@@ -4,13 +4,12 @@ number: "282"
 title: Verordnung über das Anwaltspraktikum und die für die Ausübung des Anwaltsberufes erforderlichen Prüfungen
 short: APV
 language: de
-version: 2018-04-01
-valid_until: 2024-03-31
-version_adopted: 2018-03-12
+version: 2024-04-01
+version_adopted: 2024-01-30
 adopted: 2002-05-16
 in_force: 2002-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/282"
-pdf: "https://srl.lu.ch/api/de/versions/3250/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4189/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3250/pdf_file"
 
 (APV)
 
-vom 16.05.2002 (Stand 01.04.2018)
+vom 16.05.2002 (Stand 01.04.2024)
 
 Das Obergericht des Kantons Luzern,
 
@@ -85,7 +84,7 @@ beschliesst:
 
 <sup>2</sup> Die Praktikantin oder der Praktikant ist während mindestens neun Monaten bei einer registrierten Anwältin oder einem registrierten Anwalt auszubilden.
 
-<sup>3</sup> Während der restlichen Zeit können die Praktikantinnen und Praktikanten bei einem Gericht, der Staatsanwaltschaft, einer Strafuntersuchungsbehörde, einem Grundbuch- oder Konkursamt oder bei einem Rechtsdienst der kantonalen Verwaltung ausgebildet werden.
+<sup>3</sup> Während der restlichen Zeit können die Praktikantinnen und Praktikanten bei einem Gericht, der Staatsanwaltschaft, einem Grundbuch- oder Konkursamt, einem Rechtsdienst der kantonalen Verwaltung oder einer Kindes- und Erwachsenenschutzbehörde ausgebildet werden.
 
 <sup>4</sup> Die Präsidentin oder der Präsident der Prüfungskommission kann aus wichtigen Gründen eine andere Gestaltung des Anwaltspraktikums bewilligen. Einzelheiten der Praktikumsgestaltung regelt die Prüfungskommission in Richtlinien.
 
@@ -93,7 +92,7 @@ beschliesst:
 
 **Verlängerung**
 
-<sup>1</sup> Übersteigen beim einjährigen Praktikum die Absenzen wegen Ferien, Militär- oder Zivilschutzdienst, Krankheit oder anderen Gründen die Dauer von sechs Wochen, so verlängert sich das Praktikum entsprechend.
+<sup>1</sup> Übersteigen beim einjährigen Praktikum die Absenzen wegen Ferien, Militär- oder Zivilschutzdienst, Krankheit oder anderen Gründen die Dauer von sieben Wochen, so verlängert sich das Praktikum entsprechend.
 
 <sup>2</sup> Nicht als Absenz gilt die Absolvierung eines Wiederholungs- oder Ergänzungskurses im Militärdienst und von analogen Diensten im Zivilschutz.
 
@@ -130,17 +129,17 @@ beschliesst:
 
 **Wahl der Prüfungskommission**
 
-<sup>1</sup> Das Kantonsgericht wählt die Prüfungskommission und bezeichnet das Präsidium, das Vizepräsidium und einen Ausschuss.
+<sup>1</sup> Das Kantonsgericht wählt die Prüfungskommission und bezeichnet das Präsidium sowie das Vizepräsidium.
 
 <sup>2</sup> Das Kantonsgericht kann für eine Prüfungssession ausserordentliche Mitglieder bestellen.
 
 #### § 11
 
-**Abnahme der Prüfung**
+**Prüfungskommission**
 
-<sup>1</sup> Die Kandidatin oder der Kandidat wird von fünf Mitgliedern der Prüfungskommission geprüft. Beim mündlichen Prüfungsteil müssen mindestens drei Mitglieder mitwirken, die bereits den schriftlichen Prüfungsteil abgenommen haben.
+<sup>1</sup> Die Präsidentin oder der Präsident bezeichnet die für die einzelnen Sessionen vorgesehenen Mitglieder der Prüfungskommission. Diese nehmen die Anwaltsprüfung ab. Ausnahmsweise können weitere Mitglieder beigezogen werden.
 
-<sup>2</sup> Dieser Anspruch besteht nur innerhalb derselben Prüfungssession.
+<sup>2</sup> …
 
 #### § 12
 
@@ -159,26 +158,30 @@ beschliesst:
 - a. die Organisation der schriftlichen Prüfung und die Wahrnehmung der Aufsicht,
 - b. die Organisation der mündlichen Prüfung,
 - c. die Gewährung der Akteneinsicht,
-- d. die Auszahlung der Entschädigungen durch die kantonale Gerichtskasse.
+- d. die Auszahlung der Entschädigungen durch das Finanz- und Rechnungswesen Gerichte (FRG).
 
 #### § 14
 
 **Prüfungstermine, Zulassung**
 
-<sup>1</sup> Die Anwaltsprüfung wird in der Regel dreimal pro Jahr durchgeführt. Die Termine werden im Luzerner Kantonsblatt publiziert.
+<sup>1</sup> Die Anwaltsprüfung wird in der Regel dreimal pro Jahr durchgeführt. Die Termine werden im Internet publiziert.
 
-<sup>2</sup> Gesuche um Zulassung zur Anwaltsprüfung sind dem Kantonsgericht in der Regel bis Ende November, Ende März oder Ende Juli einzureichen. Vorbehalten bleiben andere, im Kantonsblatt bekannt gegebene Termine.
+<sup>2</sup> Gesuche um Zulassung zur Anwaltsprüfung sind dem Kantonsgericht in der Regel bis Ende November, Ende März oder Ende Juli einzureichen. Vorbehalten bleiben andere bekannt gegebene Termine.
 
 <sup>3</sup> Dem Gesuch sind beizulegen:
 
 - a. die Ausweise über das Anwaltspraktikum,
-- b. der Ausweis der kantonalen Gerichtskasse über die Bezahlung der Prüfungsgebühr.
+- b. …
+- c. ein Auszug aus dem Strafregister,
+- d. Nach Eingang des Gesuchs wird die Prüfungsgebühr in Rechnung gestellt. Leistet die Kandidatin oder der Kandidat innert eingeräumter Frist die Prüfungsgebühr nicht, ist auf das Gesuch nicht einzutreten.
 
 #### § 15
 
 **Prüfungsteile**
 
 <sup>1</sup> Die Prüfung umfasst einen schriftlichen und einen mündlichen Teil.
+
+<sup>1<sup>bis</sup></sup> Beim mündlichen Teil müssen mindestens zwei Mitglieder der Prüfungskommission mitwirken, die bereits den schriftlichen Teil abgenommen haben. Dieser Anspruch besteht nur innerhalb derselben Prüfungssession.
 
 <sup>2</sup> Die Kandidatin oder der Kandidat ist erfolgreich, wenn sie oder er sowohl den schriftlichen wie auch den mündlichen Teil bestanden hat.
 
@@ -224,7 +227,7 @@ beschliesst:
 
 **Hilfsmittel**
 
-<sup>1</sup> Bei den schriftlichen Prüfungsaufgaben werden die für die Bearbeitung erforderlichen Erlasse aufgelegt. In der Regel stehen die amtlichen Ausgaben der Erlasse zur Verfügung. Kommentierte Ausgaben oder Sammelgesetze können auf Anordnung der Hauptexpertin oder des Hauptexperten benützt werden.
+<sup>1</sup> Bei den schriftlichen Prüfungsaufgaben werden die für die Bearbeitung erforderlichen Erlasse aufgelegt. In der Regel stehen die amtlichen Ausgaben der Erlasse zur Verfügung.
 
 <sup>2</sup> Für die mündliche Prüfung stehen Erlasse nur so weit zur Verfügung, als diese nach Auffassung der Prüfungskommission für die Beantwortung der Fragen erforderlich sind.
 
@@ -252,15 +255,15 @@ beschliesst:
 
 **Bewertungsmodus**
 
-<sup>1</sup> Die Präsidentin oder der Präsident bezeichnet für jede Klausurarbeit eine Hauptexpertin oder einen Hauptexperten und eine Nebenexpertin oder einen Nebenexperten.
+<sup>1</sup> Die Präsidentin oder der Präsident bezeichnet für jede Klausurarbeit mindestens eine Hauptexpertin oder einen Hauptexperten und eine Nebenexpertin oder einen Nebenexperten.
 
-<sup>2</sup> Erklären diese die Klausurarbeit übereinstimmend als bestanden, hat es dabei sein Bewenden. In allen anderen Fällen ist die Klausurarbeit der gesamten Prüfungskommission zu unterbreiten.
+<sup>2</sup> Erklären diese die Klausurarbeit übereinstimmend als bestanden, hat es dabei sein Bewenden. In allen anderen Fällen ist die Klausurarbeit drei weiteren in dieser Session eingesetzten Mitgliedern der Prüfungskommission zur Beurteilung zu unterbreiten.
 
 #### § 23
 
 **Mündlicher Teil**
 
-<sup>1</sup> Der mündliche Teil umfasst die Prüfungsfächer gemäss § 17 und dauert in der Regel zwei Stunden.
+<sup>1</sup> Der mündliche Teil umfasst die Prüfungsfächer gemäss § 17 und dauert in der Regel zwei Stunden. Er wird von fünf der in dieser Session eingesetzten Mitglieder der Prüfungskommission geprüft.
 
 <sup>2</sup> Der mündliche Teil ist bestanden, wenn die Prüfung in jedem Fach als bestanden erklärt wird.
 
@@ -302,7 +305,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungskommission erteilt das Anwaltspatent den Kandidatinnen und Kandidaten, welche die Anwaltsprüfung bestanden haben.
 
-<sup>2</sup> Sie erhalten nach ihrer Wahl eine Patenturkunde oder eine Bescheinigung über die Erteilung des Anwaltspatentes.
+<sup>2</sup> Sie erhalten eine Bescheinigung über die Erteilung des Anwaltspatentes und auf Verlangen eine Patenturkunde.
 
 ## 4 Eignungsprüfung
 
@@ -388,21 +391,21 @@ beschliesst:
 
 **Gebühr für die Anwaltsprüfung und die Eignungsprüfung**
 
-<sup>1</sup> Die Prüfungsgebühr beträgt 2000 Franken.
+<sup>1</sup> Die Prüfungsgebühr beträgt 2200 Franken.
 
 <sup>2</sup> Wird die schriftliche Prüfung trotz Zulassung nicht angetreten, geht ein Betrag von 200 Franken an die Unkosten. Wird die mündliche Prüfung nicht angetreten, verfällt die ganze Gebühr.
 
 <sup>3</sup> Wird die schriftliche Prüfung nicht bestanden und auf eine Wiederholung verzichtet, erhält die Kandidatin oder der Kandidat 500 Franken zurückerstattet.
 
-<sup>4</sup> Für die Wiederholung der ganzen schriftlichen Prüfung hat die Kandidatin oder der Kandidat 1000 Franken zu bezahlen. Ist die schriftliche Prüfung nur teilweise zu wiederholen, beträgt die Prüfungsgebühr 500 Franken.
+<sup>4</sup> Für die Wiederholung der ganzen schriftlichen Prüfung hat die Kandidatin oder der Kandidat 1100 Franken zu bezahlen. Ist die schriftliche Prüfung nur teilweise zu wiederholen, beträgt die Prüfungsgebühr 550 Franken.
 
-<sup>5</sup> Für die Wiederholung der mündlichen Prüfung beträgt die Gebühr 500 Franken.
+<sup>5</sup> Für die Wiederholung der mündlichen Prüfung beträgt die Gebühr 550 Franken.
 
 #### § 37
 
 **Gebühr für das Prüfungsgespräch**
 
-<sup>1</sup> Die Gebühr für das Prüfungsgespräch beträgt 1000 Franken.
+<sup>1</sup> Die Gebühr für das Prüfungsgespräch beträgt 1100 Franken.
 
 <sup>2</sup> Verzichtet die Bewerberin oder der Bewerber auf die Durchführung des Prüfungsgesprächs, geht ein Betrag von 200 Franken an die Unkosten.
 
@@ -418,17 +421,7 @@ beschliesst:
 
 #### § 39
 
-**Übergangsordnung für die Anwaltsprüfungen**
-
-<sup>1</sup> Für die Anwaltsprüfungen der Herbstsession 2002 gilt das bisherige Recht. Ab 1. Januar 2003 werden die Anwaltsprüfungen nach dem neuen Recht abgenommen.
-
-<sup>2</sup> Hat eine Kandidatin oder ein Kandidat den schriftlichen Teil der Anwaltsprüfung nach bisherigem Recht nicht bestanden, so gilt für die Wiederholung des schriftlichen Teils unter Vorbehalt von Absatz 3 das neue Recht.
-
-<sup>3</sup> Im Einzelnen gilt für den Umfang der zu wiederholenden Prüfung Folgendes:
-
-- a. Hätte die Kandidatin oder der Kandidat nach altem Recht die ganze schriftliche Prüfung wiederholen müssen, so muss in jedem Fall die ganze schriftliche Prüfung nach neuem Recht absolviert werden.
-- b. Hat die Kandidatin oder der Kandidat nach bisheriger Prüfungsordnung eines der Fächer «eidgenössisches und kantonales Privatrecht» oder «eidgenössisches und kantonales Zivilprozessrecht sowie Schuldbetreibungs- und Konkursrecht» mit der Qualifikation «gut» oder besser bestanden, so muss die Klausurarbeit gemäss § 17 Absatz 1a und b nicht wiederholt werden, sofern die Arbeit der Kandidatin oder des Kandidaten im anderen Fach nach alter Prüfungsordnung mit «genügend» oder besser qualifiziert wurde.
-- c. Hat die Kandidatin oder der Kandidat nach bisheriger Prüfungsordnung das Fach «eidgenössisches und kantonales Strafrecht und Strafprozessrecht» oder das Fach «eidgenössisches und kantonales Staats- und Verwaltungsrecht» mit der Qualifikation «gut» oder besser bestanden, so muss die entsprechende Klausurarbeit nicht wiederholt werden.
+**…**
 
 #### § 40
 
@@ -436,7 +429,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung tritt am 1. Juni 2002 in Kraft. Sie ist zu veröffentlichen.
 
-<sup>2</sup> Die Verordnung über die Prüfung der Rechtsanwälte vom 17. Juni 1982[^40-1] und das Reglement für die Anwaltsprüfungen im Kanton Luzern vom 5. August 1983[^40-2] werden aufgehoben. Vorbehalten bleibt § 39.
+<sup>2</sup> Die Verordnung über die Prüfung der Rechtsanwälte vom 17. Juni 1982[^40-1] und das Reglement für die Anwaltsprüfungen im Kanton Luzern vom 5. August 1983[^40-2] werden aufgehoben.
 
 [^40-1]: G 1982 189 (SRL Nr. 282)
 [^40-2]: Dieses Reglement wurde weder im Kantonsblatt noch in der Gesetzessammlung publiziert.
