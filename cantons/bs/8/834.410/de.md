@@ -4,24 +4,24 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-10-24
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-12
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6062/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 
-Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
+Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2024)
+Vom 25. November 2008 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -526,6 +526,8 @@ KB 29.11.2008
 - [6] Fassung vom 15. August 2017, in Kraft seit 1. Januar 2018 (KB 19.08.2017)
 - [7] aufgehoben am 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021)
 - [8] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
-- [9] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
-- [10] § 8d Abs. 2 Ziff. 3 in der Fassung des RRB vom 24. 1. 2012 (wirksam seit 1. 1. 2012, publiziert am 28. 1. 2012).
-- [11] Fassung vom 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021
+- [9] Eingefügt am 12. März 2024, in Kraft seit 1. April 2024 (KB 16.03.2024)
+- [10] Eingefügt am 12. März 2024, in Kraft seit 1. April 2024 (KB 16.03.2024)
+- [11] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
+- [12] § 8d Abs. 2 Ziff. 3 in der Fassung des RRB vom 24. 1. 2012 (wirksam seit 1. 1. 2012, publiziert am 28. 1. 2012).
+- [13] Fassung vom 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021
