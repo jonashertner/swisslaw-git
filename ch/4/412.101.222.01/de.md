@@ -3,18 +3,18 @@ sr: "412.101.222.01"
 title: Verordnung des SBFI vom 1. November 2013 über die berufliche Grundbildung Bekleidungsgestalterin/Bekleidungsgestalter mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/784"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/784/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2013-784-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/784/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/784/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2013-784-20240401-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/784/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Bekleidungsgestalterin/Bekleidungsgestalter mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. November 2013 (Stand am 1. Januar 2018)
+vom 1. November 2013 (Stand am 1. April 2024)
 
 <table>
 <tr><td>27121</td><td>Bekleidungsgestalterin EFZ/Bekleidungsgestalter EFZ Créatrice de vêtements CFC/Créateur de vêtements CFC Creatrice d’abbigliamento AFC/Creatore d’abbigliamento AFC</td></tr>
@@ -22,14 +22,15 @@ vom 1. November 2013 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 148 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 148 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkte und Dauer
 
@@ -128,11 +129,12 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^5-1]: Fassung gemäss Ziff. II 148 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -426,9 +428,11 @@ Sie hat insbesondere folgende Aufgaben:
 
 <sup>1</sup> Trägerin für die überbetrieblichen Kurse ist die Interessengemeinschaft Berufsbildung Bekleidungsgestalter/in IBBG.
 
-- [tab] <sup>2</sup> Die Kantone können die Durchführung der überbetrieblichen Kurse unter Mitwirkung der zuständigen Organisationen der Arbeitswelt einer anderen Trägerschaft übertragen, namentlich wenn die Qualität oder die Durchführung der überbetrieblichen Kurse nicht mehr gewährleistet ist.
-- [tab] <sup>3</sup> Die Kantone regeln mit der Trägerschaft die Organisation und Durchführung der überbetrieblichen Kurse.
-- [tab] <sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
+<sup>2</sup> Die Kantone können die Durchführung der überbetrieblichen Kurse unter Mitwirkung der zuständigen Organisationen der Arbeitswelt einer anderen Trägerschaft übertragen, namentlich wenn die Qualität oder die Durchführung der überbetrieblichen Kurse nicht mehr gewährleistet ist.
+
+<sup>3</sup> Die Kantone regeln mit der Trägerschaft die Organisation und Durchführung der überbetrieblichen Kurse.
+
+<sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
 
 ## 11. Abschnitt: Schlussbestimmungen
 
@@ -436,11 +440,12 @@ Sie hat insbesondere folgende Aufgaben:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Es werden aufgehoben:
+<sup>1</sup>
 
-a. das Reglement vom 18. Januar 2002[^24-1] über die Ausbildung und die Lehrabschlussprüfung der Bekleidungsgestalterin oder des Bekleidungsgestalters;
+Es werden aufgehoben:
 
-b. der Lehrplan vom 18. Januar 2002[^24-2] für den beruflichen Unterricht der Bekleidungsgestalterin oder des Bekleidungsgestalters.
+- a. das Reglement vom 18. Januar 2002[^24-1] über die Ausbildung und die Lehrabschlussprüfung der Bekleidungsgestalterin oder des Bekleidungsgestalters;
+- b. der Lehrplan vom 18. Januar 2002[^24-2] für den beruflichen Unterricht der Bekleidungsgestalterin oder des Bekleidungsgestalters.
 
 <sup>2</sup> Die Genehmigung des Reglements vom 18. Januar 2002 über die Einführungskurse für Bekleidungsgestalterin oder Bekleidungsgestalter wird widerrufen.
 
