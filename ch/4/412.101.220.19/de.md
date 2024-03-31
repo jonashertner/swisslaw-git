@@ -3,20 +3,20 @@ sr: "412.101.220.19"
 title: Verordnung des SBFI vom 1. Dezember 2005 über die berufliche Grundbildung Schreinerpraktikerin/Schreinerpraktiker mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/36"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2005-12-01
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/36/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2006-36-20180101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/36/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/36/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2006-36-20240401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/36/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Schreinerpraktikerin/Schreinerpraktiker mit eidgenössischem Berufsattest (EBA)
 
-vom 1. Dezember 2005 (Stand am 1. Januar 2018)[^t-1]
+vom 1. Dezember 2005 (Stand am 1. April 2024)[^t-1]
 
-[^t-1]: Fassung vom 15. November 2012, in Kraft ab 1. Januar 2013
+[^t-1]: Fassung vom 15. November 2012, in Kraft ab 1. Januar 2013.
 
 <table>
 <tr><td>30506</td><td>Schreinerpraktikerin EBA/Schreinerpraktiker EBA</td></tr>
@@ -26,14 +26,15 @@ vom 1. Dezember 2005 (Stand am 1. Januar 2018)[^t-1]
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:[^ingress-4]
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 12 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 12 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkte und Dauer
 
@@ -60,9 +61,9 @@ Innerhalb des Berufs der Schreinerpraktikerin oder des Schreinerpraktikers auf S
 - a. Schreinerei;
 - b. Fensterbau[^1-1].
 
-<sup>4</sup> Der Schwerpunkt wird vor Beginn der beruflichen Grundbildung im Lehrvertrag festgehalten<sup>6</sup>.
+<sup>4</sup> Der Schwerpunkt wird vor Beginn der beruflichen Grundbildung im Lehrvertrag festgehalten.
 
-[^1-1]: Eingefügt durch die Änderung vom 15. November 2012, in Kraft ab 1. Januar 2013
+[^1-1]: Eingefügt durch die Änderung vom 15. November 2012, in Kraft ab 1. Januar 2013.
 
 #### Art. 2
 
@@ -136,11 +137,12 @@ Die Sozial- und Selbstkompetenz umfasst:
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^7-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 12 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -306,7 +308,7 @@ Für die Berechnung der Gesamtnote zählen die Qualifikationsbereiche mit folgen
 
 <sup>4</sup> Werden die überbetrieblichen Kurse während 2 Semestern wiederholt, so zählt die neue Erfahrungsnote der Kurse 5 und 7 oder die Note einer Ersatzprüfung[^19-1].
 
-[^19-1]: Fassung vom 15. November 2012, in Kraft ab 1. Januar 2013
+[^19-1]: Fassung vom 15. November 2012, in Kraft ab 1. Januar 2013.
 
 #### Art. 20
 
@@ -362,7 +364,7 @@ Die Kommission hat folgende Aufgaben:
 
 <sup>2</sup> Die Änderung vom 15. November 2012 gilt für Lernende, die ihre Bildung nach dem 1. Januar 2013 begonnen haben[^23-1].
 
-[^23-1]: Eingefügt durch die Änderung vom 15. November 2012, in Kraft ab 1. Januar 2013
+[^23-1]: Eingefügt durch die Änderung vom 15. November 2012, in Kraft ab 1. Januar 2013.
 
 #### Art. 24
 
@@ -372,4 +374,6 @@ Die Kommission hat folgende Aufgaben:
 
 <sup>2</sup> Die Bestimmungen über das Qualifikationsverfahren, die Ausweise und die Titel (Art. 16–21) treten am 1. Januar 2008 in Kraft.
 
-<sup>3</sup> Diese Änderung vom 15. November 2012 tritt am 1. Januar 2013 in Kraft<sup>10</sup>.
+<sup>3</sup> Diese Änderung vom 15. November 2012 tritt am 1. Januar 2013 in Kraft[^24-1].
+
+[^24-1]: Eingefügt durch die Änderung vom 15. November 2012, in Kraft ab 1. Januar 2013.
