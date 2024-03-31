@@ -3,30 +3,28 @@ sr: "0.748.131.934.91"
 title: Abkommen vom 25. April 1956 zwischen der Schweiz und Frankreich betreffend den Ausbau des Flughafens Genf-Cointrin und die Errichtung von nebeneinander liegenden Kontrollbüros der beiden Staaten in Ferney-Voltaire und in Genf-Cointrin
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/129_135_141"
 language: de
-version: 1962-09-04
+version: 2024-04-01
 adopted: 1956-04-25
 in_force: 1958-03-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/19620904/de/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-19620904-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/19620904/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-20240401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zwischen der Schweiz und Frankreich betreffend den Ausbau des Flughafens Genf‑Cointrin und die Errichtung von nebeneinander liegenden Kontrollbüros der beiden Staaten in Ferney-Voltaire und in Genf-Cointrin
 
-[^t-1]as Übersetzung*[^t-2]*
+Übersetzung
 
 Abgeschlossen am 25. April 1956
 
-Von der Bundesversammlung genehmigt am 5. Oktober 1956[^t-3]
+Von der Bundesversammlung genehmigt am 5. Oktober 1956[^t-1]
 
 In Kraft getreten am 6. März 1958
 
-(Stand am 4. September 1962)
+(Stand am 1. April 2024)
 
-[^t-1]: [AS 1958 129](https://fedlex.data.admin.ch/eli/oc/1958/129_135_141); [BBl 1956 II 49](https://fedlex.data.admin.ch/eli/fga/1956/2_49_53_)
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: [AS 1958 127](https://fedlex.data.admin.ch/eli/oc/1958/127_133_139)
+[^t-1]: AS **1958** 129; BBl **1956** II 49 AS **1958** 127
 
 Der Schweizerische Bundesrat und Der Präsident der Französischen Republik
 
@@ -34,19 +32,20 @@ haben zu ihren Bevollmächtigten ernannt:
 
 (Es folgen die Namen der Bevollmächtigten)
 
-die, nachdem sie ihre Vollmachten ausgetauscht und diese in guter und gehöriger Form befunden, folgende Bestimmungen vereinbart haben:
+die, nachdem sie ihre Vollmachten ausgetauscht und diese in guter und gehöriger Form befunden,
+
+folgende Bestimmungen vereinbart haben:
 
 ## I. Kapitel Fragen betreffend Gebietsabtausch
 
 #### Art. 1
 
-Die schweizerisch‑französische Grenze zwischen dem Kanton Genf und dem Departement Ain wird im Abschnitt zwischen den Grenzsteinen 41 bis 90[^1-1] gemäss dem Situationsplan im Maßstab 1:5000 festgelegt, der diesem Abkommen beigefügt ist und dessen integrierenden Bestandteil bildet[^1-2] (Anlage I[^1-3]).
+Die schweizerisch‑französische Grenze zwischen dem Kanton Genf und dem Departement Ain wird im Abschnitt zwischen den Grenzsteinen 41 bis 90[^1-1] gemäss dem Situationsplan im Maßstab 1:5000 festgelegt, der diesem Abkommen beigefügt ist und dessen integrierenden Bestandteil bildet (Anlage I[^1-2]).
 
 Geringfügige Änderungen, die sich aus der Vermarkung der abgeänderten Grenze ergeben, bleiben vorbehalten.
 
 [^1-1]: Siehe jedoch Art. 1 des Zusatzprotokolls am Schluss dieses Abkommens.
 [^1-2]: Diese Anlage wird in der SR nicht wiedergegeben.
-[^1-3]: Diese Anlage wird in der SR nicht wiedergegeben.
 
 #### Art. 2
 
@@ -73,13 +72,16 @@ Die zuständigen Behörden des abtretenden Staates beurteilen auf Grund ihrer ei
 
 #### Art. 5
 
-Frankreich verpflichtet sich, auf den in Betracht kommenden französischen Gebiets-teilen entsprechend dem diesem Abkommen beigefügten Ausbauprogramm (Anlage III) die die Luftfahrt betreffenden sowie die radioelektrischen Dienstbarkeiten zu errichten, die zum Betrieb des Flughafens Genf‑Cointrin und seiner für den Anflug, die Landung und den Abflug notwendigen Flugsicherungsanlagen erforderlich sind.
+[^5-1]
 
-Diese Dienstbarkeitspläne werden durch die zuständigen französischen Behörden auf Verlangen der schweizerischen Regierung und entsprechend den einschlägigen Bestimmungen der französischen Gesetzgebung erstellt, veröffentlicht und angewendet. Sie sollen mit den von der ICAO in Anwendung des Abkommens von Chicago[^5-1] aufgestellten Normen und Empfehlungen übereinstimmen, ohne jedoch weiter zu gehen als die einschlägigen französischen Vorschriften sowie die auf schweizerischem Gebiet durch die zuständigen schweizerischen Behörden ihrerseits angewandten Bestimmungen.
+Frankreich verpflichtet sich, auf den in Betracht kommenden französischen Gebietsteilen entsprechend dem diesem Abkommen beigefügten Ausbauprogramm (Anlage III) die die Luftfahrt betreffenden sowie die radioelektrischen Dienstbarkeiten zu errichten, die zum Betrieb des Flughafens Genf‑Cointrin und seiner für den Anflug, die Landung und den Abflug notwendigen Flugsicherungsanlagen erforderlich sind.
+
+Diese Dienstbarkeitspläne werden durch die zuständigen französischen Behörden auf Verlangen des Schweizerischen Bundesrates und entsprechend den einschlägigen Bestimmungen der französischen Gesetzgebung erstellt, veröffentlicht und angewendet. Sie sollen mit den von der ICAO in Anwendung des Abkommens von Chicago[^5-2] sowie den von der Europäischen Agentur für Flugsicherheit (EASA) aufgestellten Normen übereinstimmen, ohne jedoch weiter zu gehen als die einschlägigen französischen Vorschriften sowie die auf schweizerischem Gebiet durch die zuständigen schweizerischen Behörden ihrerseits angewandten Bestimmungen.
 
 Die Dienstbarkeitspläne werden Angaben über die Lage und die bezeichnenden Merkmale der vorgenannten Flugsicherungsanlagen enthalten.
 
-[^5-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^5-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
+[^5-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 6
 
@@ -109,9 +111,13 @@ Die genannten Materialien und Geräte können vorbehältlich der Erfüllung der 
 
 #### Art. 9
 
+[^9-1]
+
 Das Personal der Flughafendirektion und der zuständigen schweizerischen Dienststellen hat jederzeit Zugang zu den Flugsicherungsanlagen, die sich auf französischem Gebiet befinden.
 
-Der Übertritt nach Frankreich an anderen Stellen als denjenigen, die normalerweise benützt werden dürfen, ist den in Betracht kommenden Mitgliedern des schweizerischen Personals vorbehalten, die eine von den französischen Behörden visierte Dauerkarte besitzen.
+Der Übertritt nach Frankreich an anderen Stellen als denjenigen, die normalerweise benützt werden dürfen, ist den in Betracht kommenden Angehörigen des schweizerischen Personals vorbehalten, die über einen von den zuständigen Behörden ausgestellten Ausweis verfügen.
+
+[^9-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 10
 
@@ -137,13 +143,17 @@ Um die Erfüllung der Formalitäten und die Ausübung der Kontrollen zu erleicht
 
 #### Art. 12
 
-Dieses Abkommen findet ebenfalls Anwendung auf die Helikopterdienste mit Herkunft oder Bestimmung Frankreich. Die schweizerische Regierung verpflichtet sich, solchen Apparaten die Benützung des Flughafens Genf‑Cointrin, zu den gleichen Bedingungen wie den Flugzeugen des herkömmlichen Typs zu gestatten.
+[^12-1]
+
+Dieses Abkommen findet ebenfalls Anwendung auf die Helikopterdienste mit Herkunft oder Bestimmung Frankreich. Der Schweizerische Bundesrat verpflichtet sich, solchen Apparaten die Benützung des Flughafens Genf-Cointrin zu den gleichen Bedingungen wie den Flugzeugen des herkömmlichen Typs zu gestatten.
+
+[^12-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 13
 
 Der Flughafen wird durch eine ausschliesslich für seinen Verkehr bestimmte Strasse unmittelbar mit dem französischen Gebiet verbunden. Diese Strasse bildet einen Teil des Sektors, der gemäss den Bestimmungen der Artikel 11 und 16 des vorliegenden Abkommens den französischen Dienststellen zugewiesen ist. Die Strassenführung wird dem Plan entsprechen, der diesem Abkommen beigefügt ist (Anlage II[^13-1]). Die Strasse wird durch eine Abschrankung vom übrigen schweizerischen und französischen Gebiet getrennt, doch bleibt das auf schweizerischem Gebiet gelegene Strassenstück integrierender Bestandteil dieses Gebiets.
 
-[^13-1]: Siehe Fussnote zu Art. 3.
+[^13-1]: Diese Anlage wird in der SR nicht wiedergegeben.
 
 #### Art. 14
 
@@ -242,13 +252,17 @@ Die Texte, die die schweizerischen Gesetze und Verordnungen abändern, werden do
 
 Zur Durchführung von Verfolgungen und Bestrafungen sind diejenigen schweizerischen Gerichtsbehörden zuständig, die über die betreffenden Zuwiderhandlungen zu erkennen hätten, wenn sie in der Gemeinde Grand‑Saconnex begangen worden wären.
 
-<sup>2.</sup> Für Tatbestände, die sowohl nach schweizerischem als auch nach französischem Strafrecht als Zuwiderhandlungen gelten, ist die Zuständigkeit der französischen Gerichtsbehörden ausdrücklich vorbehalten, und zwar auch gegenüber allen schweizerischen Staatsangehörigen oder Beamten, sofern diese Zuwiderhandlungen im Bürovon Ferney‑Voltaire begangen wurden.
+<sup>2.</sup> Für Tatbestände, die sowohl nach schweizerischem als auch nach französischem Strafrecht als Zuwiderhandlungen gelten, ist die Zuständigkeit der französischen Gerichtsbehörden ausdrücklich vorbehalten, und zwar auch gegenüber allen schweizerischen Staatsangehörigen, Beamten oder Staatsangestellten, sofern diese Zuwiderhandlungen im Büro von Ferney-Voltaire begangen wurden.[^24-1]
+
+[^24-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 25
 
-<sup>1.</sup> Für das Büro von Ferney‑Voltaire und das bis zur Grenze reichende Strassenstück sichert die französische Regierung der schweizerischen das Gegenrecht in Bezug auf die in den Artikeln 15, 16, 18 und 19 dieses Abkommens enthaltenen Bestimmungen zu.
+<sup>1.</sup> Für das Büro von Ferney‑Voltaire und das bis zur Grenze reichende Strassenstück sichert die französische Regierung dem Schweizerischen Bundesrat das Gegenrecht in Bezug auf die in den Artikeln 15, 16, 18 und 19 dieses Abkommens enthaltenen Bestimmungen zu.[^25-1]
 
 <sup>2.</sup> Den französischen Behörden obliegt die Aufrechterhaltung der öffentlichen Ordnung in dem den schweizerischen Dienststellen zugewiesenen Sektor.
+
+[^25-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## V. Kapitel Gemeinsame Bestimmungen für die Büros von Genf‑Cointrin und von Ferney‑Voltaire
 
@@ -262,9 +276,11 @@ Zur Durchführung von Verfolgungen und Bestrafungen sind diejenigen schweizerisc
 
 <sup>4.</sup> Die Unterhaltskosten für die im vorstehenden Paragraphen 1 genannten Bauten, mit Ausnahme der Dienstwohnungen, sowie die Kosten der Heizung, der Beleuchtung und der Reinigung der in Paragraph 3 erwähnten Räumlichkeiten und Einrichtungen werden in gegenseitigem Einvernehmen unter die beteiligten schweizerischen und französischen Verwaltungen aufgeteilt.
 
-<sup>5.</sup> Die schweizerischen Behörden werden sich ausserdem im Rahmen der französischen Gesetzgebung an der Errichtung von Mietwohnungen auf französischem Gebiet beteiligen, die dem französischen Zoll‑, Polizei‑ und PTT-Personal vorbehalten sind.
+<sup>5.</sup> Die schweizerischen Behörden werden sich ausserdem im Rahmen der französischen Gesetzgebung an der Errichtung von Mietwohnungen auf französischem Gebiet beteiligen, die dem Personal der französischen Zoll-, Polizeibehörden und Postdiensten vorbehalten sind.
 
-Zu diesem Zwecke worden die schweizerischen Behörden einen zinslosen, in dreissig gleichen Jahresraten rückzahlbaren Vorschuss gewähren, der dem Gegenwert von 25 Prozent der Baukosten für 35 Wohnungen gemäss den HLM‑Normen entspricht. Die Auszahlung dieses Vorschusses wird an eine durch die französische Verwaltung zu bezeichnende HLM‑Organisation erfolgen. Die erwähnten Auszahlungen werden in Schweizerfranken vorgenommen.
+Zu diesem Zweck werden die schweizerischen Behörden einen zinslosen, in dreissig gleichen Jahresraten rückzahlbaren Vorschuss gewähren, der dem Gegenwert von 25 Prozent der Baukosten für 35 Wohnungen gemäss den HLM‑Normen entspricht. Die Auszahlung dieses Vorschusses wird an eine durch die französische Verwaltung zu bezeichnende HLM‑Organisation erfolgen. Die erwähnten Auszahlungen werden in Schweizerfranken vorgenommen.[^26-1]
+
+[^26-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 27
 
@@ -278,39 +294,63 @@ Die Zoll‑ und Polizeibeamten dürfen in Ausübung ihrer Tätigkeit ihre Waffen
 
 #### Art. 29
 
-Die Beamten des einen Staates, die in Anwendung dieses Abkommens ihre Tätigkeit auf dem Gebiet des anderen Staates auszuüben haben, sind vom Pass- und Visumzwang befreit. Sie sind ermächtigt, die Grenze zu überschreiten und sich an ihren Dienstort zu begeben, indem sie sich lediglich über ihre Person und ihre Stellung ausweisen.
+[^29-1]
 
-Die Fahrzeuge für dienstlichen oder persönlichen Gebrauch, die durch die Beamten des einen Staates für ihren Dienst oder für Inspektionen vorübergehend eingeführt werden, sind im andern Staat von Zöllen und allen anderen Abgaben befreit und von Sicherheitsleistungen entbunden. Diese Fahrzeuge sind Beschränkungen oder Verboten der Einfuhr oder Ausfuhr nicht unterworfen. Die Kontrollmassnahmen werden in gegenseitigem Einvernehmen durch die zuständigen Verwaltungen festgelegt.
+Die Beamten und Angestellten des einen Staates, die in Anwendung dieses Abkommens ihre Tätigkeit auf dem Gebiet des anderen Staates auszuüben haben, sind vom Pass- und Visumzwang befreit. Sie sind ermächtigt, die Grenze zu überschreiten und sich an ihren Dienstort zu begeben, indem sie sich lediglich über ihre Person und ihre Stellung ausweisen.
+
+Die Fahrzeuge für den dienstlichen oder persönlichen Gebrauch, die durch die Beamten und Angestellten des einen Staates für ihren Dienst oder für Inspektionen vorübergehend eingeführt werden, sind im anderen Staat von Zöllen und allen anderen Abgaben befreit und von Sicherheitsleistungen entbunden. Diese Fahrzeuge sind Beschränkungen oder Verboten der Einfuhr oder Ausfuhr nicht unterworfen. Die Kontrollmassnahmen werden in gegenseitigem Einvernehmen durch die zuständigen Verwaltungen festgelegt.
+
+[^29-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 30
 
-Die Behörden des Staates, auf dessen Gebiet das Büro gelegen ist, gewähren den Beamten des anderen Staates bei der Ausübung ihrer Tätigkeit den gleichen Schutz wie ihren eigenen Beamten.
+[^30-1]
+
+Die Behörden des Staates, auf dessen Gebiet das Büro gelegen ist, gewähren den Beamten und Angestellten des anderen Staates bei der Ausübung ihrer Tätigkeit den gleichen Schutz wie ihren eigenen Beamten und Angestellten.
+
+[^30-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 31
 
-Die Behörden des Staates, auf dessen Gebiet das Bürogelegen ist, behalten sich das Recht vor, die Behörden des anderen Staates einzuladen, bestimmte Beamte abzuberufen. Die Behörden dieses Staates werden die Abberufung der betreffenden Beamten vornehmen.
+[^31-1]
+
+Die Behörden des Staates, auf dessen Gebiet das Büro gelegen ist, behalten sich das Recht vor, die Behörden des anderen Staates einzuladen, bestimmte Beamte oder Angestellte abzuberufen. Die Behörden dieses Staates werden die Abberufung der betreffenden Beamten oder Angestellten vornehmen.
+
+[^31-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 32
 
-<sup>1.</sup> Die Beamten eines der bei ein Staaten, die ihre Tätigkeit auf dem Gebiet des andern Staates ausüben, hängen ausschliesslich von denjenigen Behörden ab, denen sie für alles, was ihre amtliche Tätigkeit, das Dienstverhältnis und die Disziplin anbelangt, unterstellt sind. Gelangen auf diese Beamten die Bestimmungen von Artikel 19, Paragraph 2 und Artikel 24 Paragraph 2 zur Anwendung, so sind die Behörden, denen sie unterstellt sind, unverzüglich zu verständigen.
+[^32-1]
 
-<sup>2.</sup> Die Beamten des einen Staates sowie ihre Familienangehörigen werden zu keinerlei Militärdienst noch irgendeiner anderen persönlichen Dienstleistung auf dem Gebiet des anderen Staates herangezogen.
+<sup>1.</sup> Die Beamten und Angestellten eines der beiden Staaten, die ihre Tätigkeit im Gebiet des anderen Staates ausüben, hängen ausschliesslich von denjenigen Behörden ab, denen sie für alles, was ihre amtliche Tätigkeit, das Dienstverhältnis und die Disziplin anbelangt, unterstellt sind. Gelangen auf diese Beamten und Angestellten die Bestimmungen von Artikel 19 Paragraph 2 und Artikel 24 Paragraph 2 zur Anwendung, so sind die Behörden, denen sie unterstellt sind, unverzüglich zu verständigen.
+
+<sup>2.</sup> Die Beamten und Angestellten des einen Staates sowie ihre Familienangehörigen werden zu keinerlei Militärdienst noch irgendeiner anderen persönlichen Dienstleistung auf dem Gebiet des anderen Staates herangezogen.
+
+[^32-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 33
 
-<sup>1.</sup> Die Beamten eines der beiden Staaten, die ihre Tätigkeit auf dem Gebiet des anderen Staates ausüben und auf dem Gebiet dieses Staates Wohnsitz nehmen, sind keinerlei Steuern oder Abgaben unterworfen, von denen die Bewohner der Ortschaften, in denen das Büro gelegen ist, befreit sind. Sie und ihre Familien geniessen bei ihrer ersten Niederlassung vorübergehende Befreiung von Zöllen oder andern Abgaben für die Möbel, persönlichen Effekten und andern Haushaltungsgegenstände, vorbehältlich der Erfüllung der Zollformalitäten.
+[^33-1]
 
-<sup>2.</sup> Wenn sie ihren Wohnsitz nicht auf dem Gebiet des Staates nehmen, in dem das Büro gelegen ist, sind sie in diesem Staat von allen persönlichen Abgaben und direkten Steuern befreit.
+<sup>1.</sup> Die Beamten und Angestellten eines der beiden Staaten, die ihre Tätigkeit auf dem Gebiet des anderen Staates ausüben und im Gebiet dieses Staates Wohnsitz nehmen, sind keinerlei Steuern oder Abgaben unterworfen, von denen die Einwohnerinnen und Einwohner der Ortschaften, in denen das Büro gelegen ist, befreit sind. Sie und ihre Familien geniessen bei ihrer ersten Niederlassung vorübergehende Befreiung von Zöllen oder anderen Abgaben für die Möbel, persönlichen Effekten und anderen Haushaltungsgegenstände, vorbehaltlich der Erfüllung der Zollformalitäten.
 
-<sup>3.</sup> Die Gehälter der in diesem Artikel erwähnten Beamten sind keinerlei Devisenbeschränkungen unterworfen.
+<sup>2.</sup> Wenn sie ihren Wohnsitz nicht im Gebiet des Staates nehmen, in dem das Büro gelegen ist, sind sie in diesem Staat von allen persönlichen Abgaben und direkten Steuern befreit.
+
+<sup>3.</sup> Die Gehälter der in diesem Artikel erwähnten Beamten und Angestellten sind keinerlei Devisenbeschränkungen unterworfen.
+
+[^33-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 34
 
-<sup>1.</sup> Das dem einen der beiden Staaten unterstellte Personal, das auf dem Gebiet des anderen Staates dienstlich tätig ist und dort wohnt, hat gegenüber den zuständigen Behörden alle seinen Wohnsitz betreffenden Bedingungen entsprechend den Bestimmungen über den Aufenthalt von Ausländern zu erfüllen. Es erhält, soweit erforderlich, unentgeltlich die Aufenthaltsbewilligung und andere Schriften von den Behörden des Staates, in dem es seine Tätigkeit ausübt. Die Aufenthaltsbewilligung kann der Ehefrau und den Kindern, die im Haushalt des betreffenden Beamten wohnen und keine Erwerbstätigkeit ausüben, nur dann verweigert werden, wenn ein persönlich gegen sie gerichtetes Einreiseverbot besteht.
+[^34-1]
 
-Die Frauen und Kinder, die im Haushalt dieser Beamten wohnen und keine Erwerbstätigkeit ausüben, sind von den mit der Aufenthaltsbewilligung verbundenen Abgaben befreit. Die Erteilung einer Bewilligung zum Ausüben einer Erwerbstätigkeit an die Familienmitglieder der genannten Beamten bleibt dem Ermessen der zuständigen Behörden überlassen. Wenn eine solche Bewilligung verlangt wird, werden bei ihrer Erteilung die vorgeschriebenen Abgaben erhoben.
+<sup>1.</sup> Das dem einen der beiden Staaten unterstellte Personal, das auf dem Gebiet des anderen Staates dienstlich tätig ist und dort wohnt, hat gegenüber den zuständigen Behörden alle seinen Wohnsitz betreffenden Bedingungen entsprechend den Bestimmungen über den Aufenthalt von ausländischen Staatsangehörigen zu erfüllen. Es erhält, soweit erforderlich, unentgeltlich die Aufenthaltsbewilligung und andere Schriften von den Behörden des Staates, in dem es seine Tätigkeit ausübt. Die Aufenthaltsbewilligung kann der Ehefrau bzw. dem Ehemann und den Kindern, die im Haushalt der betreffenden Beamtin bzw. des betreffenden Beamten oder Staatsangestellten wohnen und keine Erwerbstätigkeit ausüben, nur dann verweigert werden, wenn ein persönlich gegen sie gerichtetes Einreiseverbot besteht.
 
-<sup>2.</sup> Die Zeit, während der die Beamten eines der beiden Staaten auf dem Gebiet des andern Staates ihre Tätigkeit ausüben, wird nicht auf die Fristen angerechnet, die auf Grund bestehender Abkommen zwischen den beiden Staaten ein Anrecht auf bevorzugte Behandlung geben. Das gleiche gilt für die Familienmitglieder, die infolge der Anwesenheit des Familienhauptes auf dem Gebiet des anderen Staates im Genuss einer Aufenthaltsbewilligung stehen.
+Die Ehefrau bzw. der Ehemann und die Kinder, die im Haushalt dieser Beamten und Staatsangestellten wohnen und keine Erwerbstätigkeit ausüben, sind von den mit der Aufenthaltsbewilligung verbundenen Abgaben befreit. Die Erteilung einer Bewilligung zum Ausüben einer Erwerbstätigkeit an die Familienmitglieder der genannten Beamten und Staatsangestellten bleibt dem Ermessen der zuständigen Behörden überlassen. Wenn eine solche Bewilligung verlangt wird, werden bei ihrer Erteilung die vorgeschriebenen Abgaben erhoben.
+
+<sup>2.</sup> Die Zeit, während der die Beamten und Angestellten eines der beiden Staaten ihre Tätigkeit auf dem Gebiet des anderen Staates ausüben, wird nicht auf die Fristen angerechnet, die aufgrund bestehender Abkommen zwischen den beiden Staaten ein Anrecht auf bevorzugte Behandlung geben. Das Gleiche gilt für die Familienmitglieder, die infolge der Anwesenheit des Beamten bzw. der Beamtin oder der bzw. des Staatsangestellten auf dem Gebiet des anderen Staates eine Aufenthaltsbewilligung haben.
+
+[^34-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 35
 
@@ -318,7 +358,11 @@ Die Geräte, das Mobiliar und die Gegenstände, die für den Betrieb der Diensts
 
 #### Art. 36
 
-Jeder Staat wird die Verlängerung der Telefonlinien des anderen Staates auf seinem Gebiet gestatten, um die unmittelbare Verbindung der Zoll‑, Polizei- und PTT‑ Dienststellen, die in den in den Artikeln 11, 23 und 39 erwähnten Büros eingerichtet sind, mit ihren eigenen Verwaltungen zu ermöglichen.
+[^36-1]
+
+Jeder Staat wird die Verlängerung der Telefonlinien des anderen Staates auf seinem Gebiet gestatten, um die unmittelbare Verbindung der Dienststellen des Zolls, der Polizei und der Post, die in den in den Artikeln 11, 23 und 39 erwähnten Büros eingerichtet sind, mit ihren eigenen Verwaltungen zu ermöglichen.
+
+[^36-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 37
 
@@ -342,11 +386,17 @@ Der Staat, auf dessen Gebiet sich das Büro befindet, wird die Behörden des and
 
 #### Art. 39
 
+[^39-1]
+
 Jeder Staat kann in den Büros mit nebeneinander liegenden Kontrollstellen der beiden Staaten ein Postamt einrichten.
 
-Die Einzelheiten des Betriebs dieser Ämter werden in gegenseitigem Einvernehmen zwischen den beteiligten Verwaltungen festgelegt.
+Die Einzelheiten des Betriebs dieser Ämter werden im gegenseitigen Einvernehmen zwischen den beteiligten Verwaltungen festgelegt.
 
-Sollten die französischen Dienststellen der PTT beschliessen, ein Postamt in dem den französischen Dienststellen des Flughafens zugewiesenen Sektor zu errichten, so würden die schweizerischen Behörden ihnen die notwendigen Räumlichkeiten zur Verfügung stellen. Die Kosten der Einrichtung der genannten Räumlichkeiten sowie der übliche Mietzins würden zu Lasten des französischen Staates gehen.
+Sollte die französische Post beschliessen, ein Postamt in dem den französischen Dienststellen des Flughafens zugewiesenen Sektor zu errichten, so würden die schweizerischen Behörden ihnen die notwendigen Räumlichkeiten zur Verfügung stellen.
+
+Die Kosten der Einrichtung der genannten Räumlichkeiten sowie der übliche Mietzins würden zu Lasten des französischen Staates gehen.
+
+[^39-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 40
 
@@ -356,7 +406,7 @@ Die beteiligten Verwaltungen der beiden Staaten werden in gegenseitigem in Einve
 
 #### Art. 41
 
-Die schweizerische Regierung übernimmt zu ihren Lasten alle Kosten, die sich aus der Vergrösserung des Flughafens Genf‑Cointrin ergeben. Insbesondere verpflichtet sich die schweizerische Regierung, zu ihren Lasten die Ausgaben zu übernehmen, die sich beziehen auf:
+Der Schweizerische Bundesrat übernimmt zu seinen Lasten alle Kosten, die sich aus der Vergrösserung des Flughafens Genf-Cointrin ergeben. Insbesondere verpflichtet sich der Schweizerische Bundesrat, zu seinen Lasten die Ausgaben zu übernehmen, die sich beziehen auf:[^41-1]
 
 - a. die in den Artikeln 1 und 2 erwähnte Grenzbereinigung;
 - b. die in den Artikeln 3 und 4 erwähnten Massnahmen, ausser wenn diese Massnahmen auf Verlangen der französischen Behörden vorgenommen werden;
@@ -368,6 +418,8 @@ Die schweizerische Regierung übernimmt zu ihren Lasten alle Kosten, die sich au
 - h. die Zahlung einer Entschädigung von 20 Millionen französischen Franken an die Gemeinde Ferney‑Voltaire als Ersatz des von dieser Gemeinde allgemein erlittenen Schadens;
 - i. die jährliche Entschädigung, die der Gemeinde Ferney‑Voltaire als Ersatz für ihren Ausfall an Fiskaleinnahmen zu leisten ist und durch dieses Abkommen auf 8000 Schweizerfranken festgesetzt wird;
 - j. die Grundbuchbereinigung, die infolge des aus der Grenzbereinigung sich ergebenden Gebietsabtausches notwendig wird.
+
+[^41-1]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## VII. Kapitel Schlussbestimmungen
 
@@ -398,35 +450,29 @@ Dieses Abkommen soll ratifiziert und die Ratifikationsurkunden sollen in Paris a
 
 Es tritt mit dem Datum des Austausches der Ratifikationsurkunden in Kraft.
 
-*Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen unterzeichnet und mit ihrem Siegel versehen. So geschehen in französischer Sprache in Bern, am 25. April 1956. Für die Schweizerische Eidgenossenschaft: Für die Französische Republik: Bindschedler E. Dennery
+*Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen unterzeichnet und mit ihrem Siegel versehen. So geschehen in französischer Sprache in Bern, am 25. April 1956. Für die Schweizerische Eidgenossenschaft: Bindschedler Für die Französische Republik: E. Dennery
 
-Anlage III*[^t-4]*
+Anlagen I und II[^t-2]
+
+[^t-2]: Diese Anlagen werden in der SR nicht wiedergegeben. Sie können unter [AS 1958 129](https://fedlex.data.admin.ch/eli/oc/1958/129_135_141)(Anlage II) und [AS 1962 1039](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077)(Anlage I) konsultiert werden.
+
+Anlage III[^t-3]
 
 ## Ausbauprogramm des Flughafens Genf‑Cointrin
 
-[^t-4]: Bei den Anlagen I und II handelt es sich um Karten, die sich für die Veröffentlichung in der SR nicht eigenen.
+[^t-3]: Fassung gemäss Notenaustausch vom 1. Dez. 2023 / 26. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
-\1. Verlängerung der Piste.
+\1. Verlängerung der Piste
 
-In nächster Zukunft wird die Piste des Flughafens Genf‑Cointrin auf 3000 Meter verlängert.
+Die Piste wurde auf 3900 m verlängert.
 
-Die Schweiz wird später eine weitere Verlängerung vornehmen, um die von der ICAO für einen Flughafen der Klasse A vorgesehene maximale Pistenlänge zu schaffen.
+\2. Rollwege
 
-\2. Rollstrassen.
+An das östliche Pistenende wird ein auf der Südseite der Piste und zu dieser parallel laufender Rollweg angeschlossen.
 
-An das östliche Pistenende wird eine auf der Südseite der Piste und zu dieser in einem Achsabstand von 210 m parallel laufende Rollstrasse angeschlossen.
+Nördlich der Piste ist kein Rollweg vorgesehen.
 
-Nördlich der Piste ist keine Rollstrasse vorgesehen.
-
-\3. Einrichtung für Schlechtwetterlandungen.
-
-Am östlichen Ende der Piste wird die Einrichtung für die Landungen unter verminderten Sichtverhältnissen aufgestellt.
-
-Dieses Ende wird mit den entsprechenden, von der ICAO vorgesehenen radioelektrischen und optischen Hilfen versehen.
-
-Die radioelektrischen Landehilfen, insbesondere der Gleitwegsender, werden nördlich der Piste aufgestellt.
-
-\4. Plan der Hindernisfreiheit.
+\4. Plan der Hindernisfreiheit
 
 a. Die Bezugshöhe des Flugplatzes ist Kote 419 m der schweizerischen Landesvermessung.
 
@@ -438,37 +484,31 @@ d. Die Neigung der Anflugebene beträgt 2 Prozent. Der Öffnungswinkel der seitl
 
 e. Die Neigung der seitlichen Übergangsflächen beträgt 1 : 7.
 
-f. Die Horizontalebene befindet sich 45 m über der Flugplatz‑Bezugshöhe (419 m).
+f. Die innere Horizontalfläche befindet sich 45 m über der Flugplatz‑Bezugshöhe (419 m).
 
 g. Die obere Begrenzung der Konusfläche befindet sich 145 m über derselben Bezugshöhe.
 
-h. Die Horizontalebene wird durch einen Kreis von 4000 m Radius begrenzt.
+h. Die innere Horizontalfläche wird durch einen Kreis von 4000 m Radius begrenzt.
 
-i. Die Erzeugenden der Konusfläche bilden zum Horizont eine Neigung von 5 Prozent.
-
-\5. Dienstbarkeitsplan der Hindernisfreiheit.
+\5. Dienstbarkeitsplan der Hindernisfreiheit
 
 Durch den nördlichen Teil der Begrenzungsebenen der Hindernisfreiheit wird französisches Gebiet berührt.
 
 Durch den Dienstbarkeitsplan der Hindernisfreiheit werden Grundstücke auf französischem Gebiet, die sich unter den unter § 4 hiervor erwähnten Begrenzungsebenen der Hindernisfreiheit befinden, mit Dienstbarkeiten «non edificandi» und «non altius tollendi» belegt.
 
-- a. Kein massives Hindernis (Bauwerke, Pflanzen usw.) darf über die von der Begrenzungsfläche der Hindernisfreiheit bestimmten Koten hinausragen.
-- b. Kein auch weniger bedeutendes Hindernis (Maste, Kamine, elektrische Leitungen usw.) darf über die um 15 m verminderten, von den Begrenzungsflächen der Hindernisfreiheit bestimmten Koten hinausragen.
-- c. Im Einvernehmen zwischen den beiden zuständigen Behörden der Schweiz und Frankreichs können jedoch gewisse bestehende Hindernisse (insbesondere die Ziegelei in Ferney‑Voltaire) bestehen bleiben, sofern sie mit einer Tagesmarkierung und einer Nachtbefeuerung versehen werden.
+a. Kein dauerhaftes massives Hindernis (Bauwerke, Pflanzen usw.) darf über die von der Begrenzungsfläche der Hindernisfreiheit bestimmten Koten hinausragen.
 
-\6. Aufstellung der radioelektrischen Hilfen.
+b. Kein auch weniger bedeutendes Hindernis (Maste, Kamine, elektrische Leitungen usw.) darf über die von den Begrenzungsflächen der Hindernisfreiheit bestimmten Koten hinausragen.
 
-a. Der ILS‑Gleitwegsender wird auf Schweizergebiet, aber in der Nähe der Landesgrenze errichtet. Er bildet Gegenstand eines Dienstbarkeitsplanes für radioelektrische Anlagen auf französischem Gebiet.
-
-b. Schon jetzt wird die Möglichkeit vorgesehen, auf französischem Gebiet in der Gegend zwischen Jura, Salève und Voirons eine oder mehrere radioelektrische Hilfen für den Anflug zum und den Abflug vom Flughafen Genf‑Cointrin aufzustellen.
-
-c. Ebenso wird bereits jetzt die Möglichkeit vorgesehen, auf französischem Gebiet und nördlich des Flugplatzes ein *Überwachungsradar* aufzustellen.
-
-d. Die Aufstellung und die Eigenschaften der unter b und c dieses Paragraphen erwähnten Einrichtungen werden später in gemeinsamem Einvernehmen zwischen den zuständigen französischen und schweizerischen Behörden festgelegt und unterliegen der Prüfung der in Artikel 45 des Abkommens vorgesehenen gemischten Kommission.
+c. Im Einvernehmen zwischen den beiden zuständigen Behörden der Schweiz und Frankreichs können jedoch gewisse bestehende Hindernisse (insbesondere die Ziegelei in Ferney-Voltaire) bestehen bleiben, sofern sie mit einer Tagesmarkierung und einer Nachtbefeuerung versehen werden.
 
 ## Zusatzprotokoll
 
-[^annexu1-lvlu2-1]as Abgeschlossen am 25. Oktober 1961
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [AS 1962 1039](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077); [BBl 1961 II 1289](https://fedlex.data.admin.ch/eli/fga/1961/2_1289_1301_1779)
+
+Abgeschlossen am 25. Oktober 1961
 
 Von der Bundesversammlung genehmigt am 23. März 1962[^annexu1-lvlu2-2]
 
@@ -478,9 +518,8 @@ Der Schweizerische Bundesrat und die Regierung der Französischen Republik, vom 
 
 #### Art. 1
 
-Die schweizerisch‑französische Grenze zwischen dem Kanton Genf und dem Departement Ain wird im Abschnitt zwischen den Grenzsteinen 39 bis 90 gemäss dem Plan im Maßstab 1 : 5000 festgelegt, der diesem Protokoll beigefügt ist[^annexu1-lvlu2-1-1]. Von dessen Inkrafttreten an wird dieser Plan an die Stelle desjenigen treten, der die Anlage 1 des obenerwähnten Abkommens bildet.
+Die schweizerisch‑französische Grenze zwischen dem Kanton Genf und dem Departement Ain wird im Abschnitt zwischen den Grenzsteinen 39 bis 90 gemäss dem Plan im Maßstab 1 : 5000 festgelegt, der diesem Protokoll beigefügt ist[^annexu1-lvlu2-1-1]. Von dessen Inkrafttreten an wird dieser Plan an die Stelle desjenigen treten, der die Anlage I des obenerwähnten Abkommens bildet.
 
-[^annexu1-lvlu2-1]: [AS 1962 1039](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077); [BBl 1961 II 1289](https://fedlex.data.admin.ch/eli/fga/1961/2_1289_1301_1779)
 [^annexu1-lvlu2-2]: [AS 1962 1037](https://fedlex.data.admin.ch/eli/oc/1962/1037_1072_1075)
 [^annexu1-lvlu2-1-1]: Dieser Plan wird in der SR nicht wiedergegeben.
 
@@ -491,6 +530,5 @@ Jede der beiden Regierungen wird der anderen die auf ihrer Seite erfolgte Durchf
 Paris, den 25. Oktober 1961.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Französische Republik:</td></tr>
-<tr><td>Agostino Soldati</td><td>Eric de Carbonnel</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Agostino Soldati</td><td>Für die Regierung der Französischen Republik: Eric de Carbonnel</td></tr>
 </table>

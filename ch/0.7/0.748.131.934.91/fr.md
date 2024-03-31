@@ -3,41 +3,42 @@ sr: "0.748.131.934.91"
 title: "Convention du 25 avril 1956 entre la Suisse et la France concernant l'aménagement de l'aéroport de Genève-Cointrin et la création de bureaux à contrôles nationaux juxtaposés à Ferney-Voltaire et à Genève-Cointrin"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/129_135_141"
 language: fr
-version: 1962-09-04
+version: 2024-04-01
 adopted: 1956-04-25
 in_force: 1958-03-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/19620904/fr/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-19620904-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/19620904/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-20240401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention entre la Suisse et la France concernant l’aménagement de l’aéroport de Genève‑Cointrin et la création de bureaux à contrôles nationaux juxtaposés à Ferney‑Voltaire et à Genève‑Cointrin
 
-[^t-1]ro Texte original
+RO **1958** 135; FF **1956** II 53
 
-Conclue le 25 avril 1956
+Texte original
 
-Approuvée par l’Assemblée fédérale le 5 oct. 1956[^t-2]
+Conclue le 25 avril 1956 Approuvée par l’Assemblée fédérale le 5 oct. 1956[^t-1] Entré en vigueur le 6 mars 1958
 
-Entré en vigueur le 6 mars 1958
+(État le 1<sup>er</sup> avril 2024)
 
-[^t-1]: [RO 1958 135](https://fedlex.data.admin.ch/eli/oc/1958/129_135_141); [FF 1956 II 53](https://fedlex.data.admin.ch/eli/fga/1956/2_49_53_)
-[^t-2]: Art. 1<sup>er</sup> de l’AF du 5 oct. 1956 ([RO 1958 133](https://fedlex.data.admin.ch/eli/oc/1958/127_133_139)).
+[^t-1]: Art. 1<sup>er</sup> de l’AF du 5 oct. 1956 ([RO 1958 133](https://fedlex.data.admin.ch/eli/oc/1958/127_133_139)).
 
 Le Conseil fédéral suisse et Le Président de la République française
 
 ont nommé pour leurs plénipotentiaires:
 
-Suivent les noms des plénipotentiaires:
+*(Suivent les noms des plénipotentiaires)*
 
-lesquels, après avoir échangé leurs pleins pouvoirs, trouvés en bonne et due forme, sont convenus des dispositions suivantes:
+lesquels, après avoir échangé leurs pleins pouvoirs, trouvés en bonne et due forme,
+
+sont convenus des dispositions suivantes:
 
 ## Chapitre I Questions relatives aux échanges de territoire
 
 #### Art. 1
 
-La frontière franco‑suisse entre le canton de Genève et le Département de l’Ain, dans le secteur compris entre les bornes 39 à 90,[^1-1] est fixée d’après le plan au 1/5000<sup>e</sup> annexé à la présente convention et qui en fera partie intégrante (annexe I).[^1-2]
+La frontière franco‑suisse entre le canton de Genève et le Département de l’Ain, dans le secteur compris entre les bornes 39 à 90,[^1-1] est fixée d’après le plan au 1/5000<sup>e</sup> annexé à la présente convention et qui en fera partie intégrante (annexe I[^1-2]).
 
 Sont réservées les modifications de peu d’importance qui peuvent résulter de l’abornement de la frontière modifiée.
 
@@ -55,27 +56,30 @@ Les délégués permanents à l’abornement de la frontière franco‑suisse so
 
 #### Art. 3
 
-Les Etats contractants feront en sorte que les terrains échangés soient remis libérés de tous droits réels. Chaque fois que l’un des Etats en fera la demande, et à défaut d’entente directe avec les propriétaires, l’autre Etat s’engage à remettre les terrains libérés de tous droits réels.
+Les États contractants feront en sorte que les terrains échangés soient remis libérés de tous droits réels. Chaque fois que l’un des États en fera la demande, et à défaut d’entente directe avec les propriétaires, l’autre État s’engage à remettre les terrains libérés de tous droits réels.
 
-Toute modification du plan de masse de l’aéroport annexé à la présente convention (annexe II)[^3-1], qui aurait pour effet de comporter l’acquisition de nouveaux droits réels dans la commune de Ferney‑Voltaire, devra faire l’objet d’une autorisation de la Commission prévue à l’art. 45.
+Toute modification du plan de masse de l’aéroport annexé à la présente convention (annexe II[^3-1]), qui aurait pour effet de comporter l’acquisition de nouveaux droits réels dans la commune de Ferney‑Voltaire, devra faire l’objet d’une autorisation de la Commission prévue à l’art. 45.
 
 [^3-1]: Cette annexe n’est pas publiée au RS.
 
 #### Art. 4
 
-Les instances compétentes de l’Etat cédant jugeront, selon leur propre législation, des questions relatives à l’expropriation éventuelle des fonds cédés par ledit Etat ainsi que de toute contestation concernant les prétentions et les dédommagements des propriétaires et de tous les titulaires de droits réels ou contractuels.
+Les instances compétentes de l’État cédant jugeront, selon leur propre législation, des questions relatives à l’expropriation éventuelle des fonds cédés par ledit État ainsi que de toute contestation concernant les prétentions et les dédommagements des propriétaires et de tous les titulaires de droits réels ou contractuels.
 
 ## Chapitre II Questions relatives aux zones et installations de sécurité de l’aéroport en territoire français
 
 #### Art. 5
 
-La France s’engage à instituer sur les parties du territoire français intéressé les servitudes aéronautiques et radio‑électriques nécessaires au fonctionnement de l’aéroport de Genève‑Cointrin et des installations de sécurité destinées aux opérations d’approche, d’atterrissage et de décollage relatives à cet aérodrome, telles que ces servitudes découlent du programme de plan de masse annexé à la présente convention (annexe III).
+[^5-1]
 
-Ces plans de servitudes seront établis, publiés et appliqués par les autorités françaises compétentes, à la demande du Gouvernement suisse, et conformément aux dispositions de la législation française en la matière. Ils seront conformes aux standards et pratiques recommandées, établis par l’O. A. C. I. en application de la Convention de Chicago[^5-1], sans pouvoir toutefois aller au delà des prescriptions françaises en la matière, ainsi que des dispositions appliquées elles‑mêmes en territoire suisse par les autorités suisses compétentes.
+La France s’engage à instituer sur les parties du territoire français intéressé les servitudes aéronautiques et radioélectriques nécessaires au fonctionnement de l’aéroport de Genève-Cointrin et des installations de sécurité destinées aux opérations d’approche, d’atterrissage et de décollage relatives à cet aérodrome, telles que ces servitudes découlent du programme de plan de masse annexé à la présente convention (annexe III).
+
+Ces plans de servitudes seront établis, publiés et appliqués par les autorités françaises compétentes, à la demande du Conseil fédéralsuisse, et conformément aux dispositions de la législation française en la matière. Ils seront conformes aux standards et pratiques recommandées, établis par l’O.A.C.I. en application de la Convention de Chicago[^5-2], ainsi qu’aux normes de l’Agence européenne de la sécurité aérienne (AESA),sans pouvoir toutefois aller au-delà des prescriptions françaises en la matière, ainsi que des dispositions appliquées elles-mêmes en territoire suisse par les autorités suisses compétentes.
 
 Les plans de servitudes comporteront l’indication de la position et des caractéristiques des installations de sécurité susvisées.
 
-[^5-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^5-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
+[^5-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 6
 
@@ -105,9 +109,13 @@ Les matériaux et matériels visés ci‑dessus pourront être réexportés en f
 
 #### Art. 9
 
+[^9-1]
+
 Le personnel de la Direction de l’aéroport et le personnel des services suisses compétents pourront avoir accès en tout temps aux installations relatives à la sécurité aérienne qui se trouveraient situées en territoire français.
 
-Le passage en France par des points autres que ceux qui sont normalement autorisés est réservé aux personnels suisses intéressés munis d’une carte permanente visée par les autorités françaises.
+Le passage en France par des points autres que ceux qui sont normalement autorisés est réservé aux personnels suisses intéressés munis d’un justificatif délivré par les autorités compétentes.
+
+[^9-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 10
 
@@ -133,13 +141,17 @@ Pour faciliter l’accomplissement des formalités et l’exercice des contrôle
 
 #### Art. 12
 
-La présente convention s’applique également aux services d’hélicoptères en provenance ou à destination de la France. Le Gouvernement suisse s’engage à laisser ces appareils utiliser l’aéroport de Genève‑Cointrin dans les mêmes conditions que les avions de type classique.
+[^12-1]
+
+La présente convention s’applique également aux services d’hélicoptères en provenance ou à destination de la France. Le Conseil fédéralsuisse s’engage à laisser ces appareils utiliser l’aéroport de Genève-Cointrin dans les mêmes conditions que les avions de type classique.
+
+[^12-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 13
 
-L’aéroport sera relié directement au territoire français par une route exclusivement affectée à son trafic. Cette route fera partie du secteur affecté, conformément aux dispositions des art. 11 et 16 de la présente convention, aux services français. Le tracé de la route sera conforme au plan annexé à la présente convention (annexe II)[^13-1]. La route sera séparée par une clôture du reste des territoires suisse et français, mais la portion de route située en territoire suisse restera partie intégrante de ce territoire.
+L’aéroport sera relié directement au territoire français par une route exclusivement affectée à son trafic. Cette route fera partie du secteur affecté, conformément aux dispositions des art. 11 et 16 de la présente convention, aux services français. Le tracé de la route sera conforme au plan annexé à la présente convention (annexe II[^13-1]). La route sera séparée par une clôture du reste des territoires suisse et français, mais la portion de route située en territoire suisse restera partie intégrante de ce territoire.
 
-[^13-1]: Voir note au bas de l’art. 3.
+[^13-1]: Cette annexe n’est pas publiée au RS.
 
 #### Art. 14
 
@@ -149,7 +161,7 @@ L’aéroport sera relié directement au territoire français par une route excl
 
 #### Art. 15
 
-<sup>1.</sup> A l’intérieur du secteur affecté aux services français en application des art. 11 et 13 ci‑dessus, les lois et règlements français régissant en France l’entrée, la sortie et le transit des personnes, des bagages, des marchandises et des capitaux sont applicables aux personnes, bagages, marchandises et capitaux en provenance ou à destination de la France.
+<sup>1.</sup> À l’intérieur du secteur affecté aux services français en application des art. 11 et 13 ci‑dessus, les lois et règlements français régissant en France l’entrée, la sortie et le transit des personnes, des bagages, des marchandises et des capitaux sont applicables aux personnes, bagages, marchandises et capitaux en provenance ou à destination de la France.
 
 <sup>2.</sup> Sous réserve des dispositions figurant aux art. 20 et 22, le contrôle des autorités françaises s’effectuera avant ou après le contrôle des autorités suisses, suivant qu’il s’agit de voyageurs, marchandises, capitaux ou bagages en provenance ou à destination de la France.
 
@@ -193,7 +205,7 @@ Pour l’exercice des poursuites et de la répression, les juridictions françai
 
 <sup>1.</sup> Les voyageurs débarquant d’aéronefs en provenance de France et se rendant sur le territoire français en utilisant la route douanière visée à l’art. 13 ci‑dessus ne seront soumis à aucun contrôle de la part des autorités suisses de police, de douane ou autres. Ces voyageurs ne pourront sortir du secteur affecté aux services français que pour accéder directement à la route douanière.
 
-<sup>2.</sup> Les voyageurs en provenance du territoire français et se rendant à l’aéroport par la route douanière pour y embarquer sur des aéronefs à destination de la France ne seront soumis à aucun contrôle de la part des autorités suisses de police, de douane ou autres. A leur arrivée à l’aéroport, ils seront dirigés directement sur le secteur affecté aux services français d’où ils gagneront l’aire de départ.
+<sup>2.</sup> Les voyageurs en provenance du territoire français et se rendant à l’aéroport par la route douanière pour y embarquer sur des aéronefs à destination de la France ne seront soumis à aucun contrôle de la part des autorités suisses de police, de douane ou autres. À leur arrivée à l’aéroport, ils seront dirigés directement sur le secteur affecté aux services français d’où ils gagneront l’aire de départ.
 
 <sup>3.</sup> Toutefois, les autorités suisses de police pourront exceptionnellement exercer leur contrôle à l’égard de ces voyageurs.
 
@@ -239,13 +251,17 @@ Les textes qui modifieront les lois et règlements suisses y deviendront exécut
 
 Pour l’exercice des poursuites et de la répression, les juridictions suisses compétentes seront celles qui auraient eu à connaître de ces infractions si elles avaient été commises dans la commune de Grand‑Saconnex.
 
-<sup>2.</sup> Toutefois, en ce qui concerne les faits considérés comme infractions tant par le droit pénal suisse que par le droit pénal français, la compétence des juridictions françaises est expressément réservée, même à l’égard de tout ressortissant ou fonctionnaire et agent suisse lorsque ces infractions auront été commises dans le bureau de Ferney‑Voltaire.
+<sup>2.</sup> Toutefois, en ce qui concerne les faits considérés comme infractions tant par le droit pénal suisse que par le droit pénal français, la compétence des juridictions françaises est expressément réservée, même à l’égard de tout ressortissant ou fonctionnaire, employé de l’État et agent suisse lorsque ces infractions auront été commises dans le bureau de Ferney-Voltaire.[^24-1]
+
+[^24-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 25
 
-<sup>1.</sup> En ce qui concerne le bureau de Ferney‑Voltaire et la portion de route s’étendant jusqu’à la frontière, le Gouvernement français garantit au Gouvernement suisse la réciprocité des stipulations contenues dans les art. 15, 16, 18 et 19 de la présente convention.
+<sup>1.</sup> En ce qui concerne le bureau de Ferney-Voltaire et la portion de route s’étendant jusqu’à la frontière, le Gouvernement français garantit au Conseil fédéral suisse la réciprocité des stipulations contenues dans les art. 15, 16, 18 et 19 de la présente convention.[^25-1]
 
 <sup>2.</sup> Les autorités françaises sont chargées du maintien de l’ordre publie dans le secteur affecté aux services suisses.
+
+[^25-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## Chapitre V Dispositions communes aux bureaux de Genève‑Cointrin et de Ferney‑Voltaire
 
@@ -253,69 +269,99 @@ Pour l’exercice des poursuites et de la répression, les juridictions suisses 
 
 <sup>1.</sup> Conformément au principe posé par l’art. 41, les autorités suisses se chargeront de la construction des bureaux visés aux art. 11, 13 et 23 ainsi que des bâtiments nécessaires au logement des deux receveurs des douanes et du Chef des services de la police. La nature des installations, bureaux et logements sera fixée d’un commun accord entre les autorités françaises et suisses compétentes.
 
-<sup>2.</sup> La propriété des constructions visées au paragraphe précédent ainsi que celle des terrains sur lesquels elles sont situées seront acquises en territoire français à l’Etat français, en compensation des installations, bâtiments et terrains cédés par ledit Etat aux autorités suisses conformément aux dispositions des art. 1 et 3 de la présente convention.
+<sup>2.</sup> La propriété des constructions visées au paragraphe précédent ainsi que celle des terrains sur lesquels elles sont situées seront acquises en territoire français à l’État français, en compensation des installations, bâtiments et terrains cédés par ledit État aux autorités suisses conformément aux dispositions des art. 1 et 3 de la présente convention.
 
 <sup>3.</sup> Les services français de douane et de police à l’aéroport de Genève‑Cointrin et les services suisses de douane et de police au bureau de Ferney-Voltaire disposeront gratuitement des locaux et installations qui leur seront affectés.
 
 <sup>4.</sup> Les frais d’entretien des constructions visées au par. 1 ci-dessus, à l’exclusion des logements de service, ainsi que les frais de chauffage, d’éclairage et de nettoyage des locaux et installations visés au par. 3 seront répartis, d’un commun accord, entre les administrations suisses et françaises intéressées.
 
-<sup>5.</sup> En outre, les autorités suisses participeront à la construction en territoire français et dans le cadre de la législation française, de logements à usage locatif réservés aux agents français des douanes, de police et des P.T.T.
+<sup>5.</sup> En outre, les autorités suisses participeront à la construction en territoire français et dans le cadre de la législation française, de logements à usage locatif réservés aux agents français des douanes, de police et des services postaux.
 
-A cet effet, les autorités suisses consentiront une avance sans intérêt, remboursable en trente annuités égales équivalant à 25 % du montant des frais occasionnés par la construction, selon les normes HLM, de 35 logements. Le versement de cette avance sera effectué à un organisme HLM désigné par l’Administration française. Les versements susindiqués seront opérés en francs suisses.
+À cet effet, les autorités suisses consentiront une avance sans intérêt, remboursable en trente annuités égales équivalant à 25 % du montant des frais occasionnés par la construction, selon les normes HLM, de 35 logements. Le versement de cette avance sera effectué à un organisme HLM désigné par l’Administration française. Les versements susindiqués seront opérés en francs suisses.[^26-1]
+
+[^26-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 27
 
-Les services de l’un des Etats établis sur le territoire de l’autre Etat percevront les droits, taxes et sommes de toute nature dans la monnaie de leur propre pays. Ils pourront transférer librement sur leur territoire les sommes ainsi encaissées.
+Les services de l’un des États établis sur le territoire de l’autre État percevront les droits, taxes et sommes de toute nature dans la monnaie de leur propre pays. Ils pourront transférer librement sur leur territoire les sommes ainsi encaissées.
 
 #### Art. 28
 
-Les services de l’Etat établis sur le territoire de l’autre Etat seront désignés à l’extérieur par une inscription et un écusson aux couleurs nationales. Le personnel pourra, lorsqu’il est en service, porter l’uniforme national et les signes distinctifs prescrits par les règlements.
+Les services de l’État établis sur le territoire de l’autre État seront désignés à l’extérieur par une inscription et un écusson aux couleurs nationales. Le personnel pourra, lorsqu’il est en service, porter l’uniforme national et les signes distinctifs prescrits par les règlements.
 
-Les agents des douanes ainsi que ceux de la police peuvent être porteurs de leurs armes dans l’exercice de leurs fonctions. L’usage des armes est soumis aux dispositions en vigueur dans l’Etat sur le territoire duquel est installé le bureau.
+Les agents des douanes ainsi que ceux de la police peuvent être porteurs de leurs armes dans l’exercice de leurs fonctions. L’usage des armes est soumis aux dispositions en vigueur dans l’État sur le territoire duquel est installé le bureau.
 
 #### Art. 29
 
-Les agents et fonctionnaires d’un Etat appelés, en application de la présente convention, à exercer leurs fonctions sur le territoire de l’autre Etat, sont dispensés de l’obligation de passeport et de visa. Ils sont autorisés à franchir la frontière et à se rendre au lieu de leur service sur simple justification de leur identité et de leur qualité.
+[^29-1]
 
-Les véhicules de service ou personnels importés temporairement par les agents et fonctionnaires d’un Etat pour leur service ou pour des inspections sont exemptés dans l’autre Etat des droits de douane et de toutes autres taxes et dispensés de caution. Ces véhicules ne sont pas soumis aux restrictions ou interdictions d’importation ou d’exportation. Les mesures de contrôle seront arrêtées d’un commun accord par les administrations compétentes.
+Les agents, employéset fonctionnaires d’un État appelés, en application de la présente convention, à exercer leurs fonctions sur le territoire de l’autre État, sont dispensés de l’obligation de passeport et de visa. Ils sont autorisés à franchir la frontière et à se rendre au lieu de leur service sur simple justification de leur identité et de leur qualité.
+
+Les véhicules de service ou personnels importés temporairement par les agents, employés de l’Étatet fonctionnaires d’un État pour leur service ou pour des inspections sont exemptés dans l’autre État des droits de douane et de toutes autres taxes et dispensés de caution. Ces véhicules ne sont pas soumis aux restrictions ou interdictions d’importation ou d’exportation. Les mesures de contrôle seront arrêtées d’un commun accord par les administrations compétentes.
+
+[^29-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 30
 
-Les autorités de l’Etat sur le territoire duquel est situé le bureau accorderont aux fonctionnaires et agents de l’autre Etat, pour l’exercice de leurs fonctions, la même protection qu’à leurs propres fonctionnaires et agents.
+[^30-1]
+
+Les autorités de l’État sur le territoire duquel est situé le bureau accorderont aux fonctionnaires, employés et agents de l’autre État, pour l’exercice de leurs fonctions, la même protection qu’à leurs propres fonctionnaires**,** employés et agents.
+
+[^30-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 31
 
-Les autorités de l’Etat sur le territoire duquel est situé le bureau se réservent le droit d’inviter les autorités de l’autre Etat à rappeler certains de ces fonctionnaires ou agents. Les autorités de cet Etat procéderont au rappel de ces fonctionnaires ou agents.
+[^31-1]
+
+Les autorités de l’État sur le territoire duquel est situé le bureau se réservent le droit d’inviter les autorités de l’autre État à rappeler certains de ces fonctionnaires, employésou agents. Les autorités de cet État procéderont au rappel de ces fonctionnaires, employésou agents.
+
+[^31-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 32
 
-<sup>1.</sup> Les fonctionnaires et agents de l’un des deux Etats exerçant leurs fonctions sur le territoire de l’autre Etat dépendront exclusivement des autorités dont ils relèvent pour tout ce qui concerne leur activité officielle, les rapports de service et la discipline. En cas d’application à ces fonctionnaires et agents des dispositions de l’art. 19, par. 2, et 24, par. 2, les autorités dont ils relèvent en seront immédiatement averties.
+[^32-1]
 
-<sup>2.</sup> Les fonctionnaires et agents, ainsi que les membres de leurs familles, de l’un des Etats ne seront astreints à aucun service militaire ni à aucune prestation de service personnel sur le territoire de l’autre Etat.
+<sup>1.</sup> Les fonctionnaires, employéset agents de l’un des deux États exerçant leurs fonctions sur le territoire de l’autre État dépendront exclusivement des autorités dont ils relèvent pour tout ce qui concerne leur activité officielle, les rapports de service et la discipline. En cas d’application à ces fonctionnaires, employéset agents des dispositions de l’art. 19, par. 2, et 24, par. 2, les autorités dont ils relèvent en seront immédiatement averties.
+
+<sup>2.</sup> Les fonctionnaires, employéset agents, ainsi que les membres de leurs familles, de l’un des États ne seront astreints à aucun service militaire ni à aucune prestation de service personnel sur le territoire de l’autre État.
+
+[^32-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 33
 
-<sup>1.</sup> Les fonctionnaires et agents de l’un des deux Etats exerçant leurs fonctions sur le territoire de l’autre Etat et établissant leur résidence sur le territoire de cet Etat ne seront soumis à aucun impôt ou redevance dont seraient dispensés les habitants des localités où est situé le bureau. Ils jouiront, eux et leurs familles, à l’occasion de leur premier établissement, de la franchise temporaire des droits de douane ou autres pour les meubles, effets personnels et autres objets de ménage, sous réserve de l’accomplissement des formalités douanières.
+[^33-1]
 
-<sup>2.</sup> S’ils n’établissent pas leur résidence sur le territoire de l’Etat où est situé le bureau, ils seront, dans cet Etat, exemptés de toutes charges personnelles et impôts directs.
+<sup>1.</sup> Les fonctionnaires, employés et agents de l’un des deux États exerçant leurs fonctions sur le territoire de l’autre État et établissant leur résidence sur le territoire de cet État ne seront soumis à aucun impôt ou redevance dont seraient dispensés les habitants des localités où est situé le bureau. Ils jouiront, eux et leurs familles, à l’occasion de leur premier établissement, de la franchise temporaire des droits de douane ou autres pour les meubles, effets personnels et autres objets de ménage, sous réserve de l’accomplissement des formalités douanières.
 
-<sup>3.</sup> Le salaire des fonctionnaires et agents visés au présent article ne sera soumis à aucune restriction en matière de devises.
+<sup>2.</sup> S’ils n’établissent pas leur résidence sur le territoire de l’État où est situé le bureau, ils seront, dans cet État, exemptés de toutes charges personnelles et impôts directs.
+
+<sup>3.</sup> Le salaire des fonctionnaires, employéset agents visés au présent article ne sera soumis à aucune restriction en matière de devises.
+
+[^33-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 34
 
-<sup>1.</sup> Le personnel relevant de l’un des deux Etats en service sur le territoire de l’autre et y résidant devra, en ce qui concerne les conditions relatives à sa résidence, se mettre en règle auprès des autorités compétentes conformément aux dispositions relatives au séjour des étrangers. Il sera, s’il y a lieu, muni gratuitement de permis de séjour et autres pièces par les autorités du pays où il exerce ses fonctions. Une autorisation de séjour ne pourra être refusée à la femme et aux enfants qui vivent sous le toit des fonctionnaires et agents intéressés et qui n’exercent aucune activité lucrative que s’ils sont sous le coup d’une décision d’interdiction d’entrée qui les frappe personnellement.
+[^34-1]
 
-Les femmes et enfants vivant sous le toit de ces fonctionnaires et n’exerçant aucune activité lucrative seront exonérés des taxes afférentes aux autorisations de séjour. La délivrance d’une autorisation en vue de l’exercice d’une activité lucrative aux membres de la famille desdits fonctionnaires et agents sera laissée à l’appréciation des autorités compétentes. Dans le cas où cette autorisation serait exigée, sa délivrance donnera lieu à la perception des taxes réglementaires.
+<sup>1.</sup> Le personnel relevant de l’un des deux États en service sur le territoire de l’autre et y résidant devra, en ce qui concerne les conditions relatives à sa résidence, se mettre en règle auprès des autorités compétentes conformément aux dispositions relatives au séjour des étrangers. Il sera, s’il y a lieu, muni gratuitement de permis de séjour et autres pièces par les autorités du pays où il exerce ses fonctions. Une autorisation de séjour ne pourra être refusée au conjoint et aux enfants qui vivent sous le toit des fonctionnaires, employés de l’État et agents intéressés et qui n’exercent aucune activité lucrative que s’ils sont sous le coup d’une décision d’interdiction d’entrée qui les frappe personnellement.
 
-<sup>2.</sup> La durée pendant laquelle les fonctionnaires et agents de l’un des deux Etats exercent leurs fonctions sur le territoire de l’autre Etat ne sera pas comprise dans les délais donnant droit à un traitement privilégié en vertu de conventions existant entre les deux Etats. Il en sera de même pour les membres de la famille qui bénéficient d’une autorisation de séjour en raison de la présence du chef de famille sur le territoire de l’autre Etat.
+Les conjoints et enfants vivant sous le toit de ces fonctionnaires et employés de l’État et n’exerçant aucune activité lucrative seront exonérés des taxes afférentes aux autorisations de séjour. La délivrance d’une autorisation en vue de l’exercice d’une activité lucrative aux membres de la famille desdits fonctionnaires, employés de l’État et agents sera laissée à l’appréciation des autorités compétentes. Dans le cas où cette autorisation serait exigée, sa délivrance donnera lieu à la perception des taxes réglementaires.
+
+<sup>2.</sup> La durée pendant laquelle les fonctionnaires, employés de l’État et agents de l’un des deux États exercent leurs fonctions sur le territoire de l’autre État ne sera pas comprise dans les délais donnant droit à un traitement privilégié en vertu de conventions existant entre les deux États. Il en sera de même pour les membres de la famille qui bénéficient d’une autorisation de séjour en raison de la présence du fonctionnaire, employé de l’État ou agent sur le territoire de l’autre État.
+
+[^34-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 35
 
-Le matériel, le mobilier et les objets nécessaires au fonctionnement des services de l’un des deux Etats sur le territoire de l’autre seront importés et réexportés en franchise de tous droits et taxes, sous réserve de leur déclaration au service des douanes. Les prohibitions ou restrictions d’importation et d’exportation ne leur seront pas applicables.
+Le matériel, le mobilier et les objets nécessaires au fonctionnement des services de l’un des deux États sur le territoire de l’autre seront importés et réexportés en franchise de tous droits et taxes, sous réserve de leur déclaration au service des douanes. Les prohibitions ou restrictions d’importation et d’exportation ne leur seront pas applicables.
 
 #### Art. 36
 
-Chaque Etat autorisera la prolongation sur son territoire des lignes téléphoniques de l’autre Etat afin de permettre les communications directes entre les services de douane et de police et des P.T.T. installés dans les bureaux visés aux art. 11, 23 et 39 et leurs administrations d’origine.
+[^36-1]
+
+Chaque État autorisera la prolongation sur son territoire des lignes téléphoniques de l’autre État afin de permettre les communications directes entre les services de douane et de police et des Postes installés dans les bureaux visés aux art. 11, 23 et 39 et leurs administrations d’origine.
+
+[^36-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 37
 
@@ -325,7 +371,7 @@ Chaque Etat autorisera la prolongation sur son territoire des lignes téléphoni
 
 Les prestations ainsi effectuées par ces personnes et leurs employés sont considérées comme exécutées en Suisse avec toutes les conséquences fiscales qui en découlent.
 
-<sup>3.</sup> Les personnes visées au par. 2 ci‑dessus peuvent, pour l’exercice de leur activité dans ladite zone, employer indifféremment du personnel spécialisé (commis, emballeurs... ) suisse ou français, sans que les dispositions spéciales prises ou susceptibles d’être prises pour la protection de la main‑d’œuvre nationale leur soient applicables.
+<sup>3.</sup> Les personnes visées au par. 2 ci‑dessus peuvent, pour l’exercice de leur activité dans ladite zone, employer indifféremment du personnel spécialisé (commis, emballeurs… ) suisse ou français, sans que les dispositions spéciales prises ou susceptibles d’être prises pour la protection de la main‑d’œuvre nationale leur soient applicables.
 
 <sup>4.</sup> Des facilités compatibles avec les prescriptions générales françaises relatives au franchissement de la frontière et au séjour en France sont accordées aux personnes visées ci‑dessus pour leur permettre d’exercer normalement leur activité.
 
@@ -333,38 +379,46 @@ Les prestations ainsi effectuées par ces personnes et leurs employés sont cons
 
 #### Art. 38
 
-Les autorités de l’Etat sur le territoire duquel est situé le bureau autoriseront les services compétents de l’autre Etat à y prendre les mesures nécessaires au contrôle sanitaire, concernant notamment certaines catégories de voyageurs, telles que les travailleurs étrangers, les enfants en convoi, les rapatriés, etc., et à adopter les dispositions qui s’imposent en cas d’épidémie.
+Les autorités de l’État sur le territoire duquel est situé le bureau autoriseront les services compétents de l’autre État à y prendre les mesures nécessaires au contrôle sanitaire, concernant notamment certaines catégories de voyageurs, telles que les travailleurs étrangers, les enfants en convoi, les rapatriés, etc., et à adopter les dispositions qui s’imposent en cas d’épidémie.
 
-L’Etat sur le territoire duquel se trouve le bureau autorisera les autorités de l’autre Etat à y installer les services chargés de procéder aux opérations de police vétérinaire. Des mesures spéciales pourront notamment être prises en cas d’épizooties.
+L’État sur le territoire duquel se trouve le bureau autorisera les autorités de l’autre État à y installer les services chargés de procéder aux opérations de police vétérinaire. Des mesures spéciales pourront notamment être prises en cas d’épizooties.
 
 #### Art. 39
 
-Chaque Etat pourra installer un établissement postal dans les bureaux à contrôles nationaux juxtaposés.
+[^39-1]
+
+Chaque État pourra installer un établissement postal dans les bureaux à contrôles nationaux juxtaposés.
 
 Les modalités de fonctionnement de ces établissements seront déterminées d’un commun accord entre les administrations intéressées.
 
-Au cas où les services français des P.T.T. décideraient la création d’un établissement postal dans le secteur affecté aux services français de l’aéroport, les autorités suisses mettraient à leur disposition les locaux nécessaires. Les frais d’installation desdits locaux ainsi que le loyer usuel seraient à la charge de l’Etat français.
+Au cas où les services postaux français décideraient la création d’un établissement postal dans le secteur affecté aux services français de l’aéroport, les autorités suisses mettraient à leur disposition les locaux nécessaires.
+
+Les frais d’installation desdits locaux ainsi que le loyer usuel seraient à la charge de l’État français.
+
+[^39-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 40
 
-Les administrations intéressées des deux Etats établiront d’un commun accord, en tant que de besoin, les modalités d’application de la présente convention.
+Les administrations intéressées des deux États établiront d’un commun accord, en tant que de besoin, les modalités d’application de la présente convention.
 
 ## Chapitre VI Dispositions financières
 
 #### Art. 41
 
-Le Gouvernement suisse prendra à sa charge tous les frais résultant de l’agran-dissement de l’aéroport de Genève‑Cointrin. En particulier, le Gouvernement suisse s’engage à prendre à sa charge les dépenses relatives:
+Le Conseil fédéralsuisse prendra à sa charge tous les frais résultants de l’agrandissement de l’aéroport de Genève-Cointrin. En particulier, le Conseil fédéralsuisse s’engage à prendre à sa charge les dépenses relatives:[^41-1]
 
-- a. A la rectification de frontière visée aux art. 1 et 2;
+- a. À la rectification de frontière visée aux art. 1 et 2;
 - b. Aux opérations visées aux art. 3 et 4 sauf dans le cas où ces opérations seront réalisées à la demande des autorités françaises,
 - c. Au relogement dans la commune de Ferney‑Voltaire des locataires et de leurs familles occupant des immeubles appelés à être démolis;
-- d. A la construction et à l’aménagement des installations et bâtiments visés au par. 1 de l’art. 26;
-- e. A la construction et à l’entretien de la route douanière reliant directement l’aéroport au territoire français;
-- f. A l’exécution des plans de servitudes visés à l’art. 5;
-- g. A l’indemnisation des propriétaires touchés par les servitudes résultant notamment de l’application des art. 5 et 6 de la présente convention;
+- d. À la construction et à l’aménagement des installations et bâtiments visés au par. 1 de l’art. 26;
+- e. À la construction et à l’entretien de la route douanière reliant directement l’aéroport au territoire français;
+- f. À l’exécution des plans de servitudes visés à l’art. 5;
+- g. À l’indemnisation des propriétaires touchés par les servitudes résultant notamment de l’application des art. 5 et 6 de la présente convention;
 - h. Au versement à la commune de Ferney‑Voltaire d’une indemnité de 20 millions de francs français en compensation du préjudice généralement subi par cette commune;
-- i. A l’indemnité annuelle allouée à la commune de Ferney‑Voltaire en compensation de ses pertes de recettes fiscales qui est fixée par la présente convention à 8000 francs suisses;
-- j. A la révision cadastrale nécessitée par les échanges de territoires entraînés par la rectification de frontière.
+- i. À l’indemnité annuelle allouée à la commune de Ferney‑Voltaire en compensation de ses pertes de recettes fiscales qui est fixée par la présente convention à 8000 francs suisses;
+- j. À la révision cadastrale nécessitée par les échanges de territoires entraînés par la rectification de frontière.
+
+[^41-1]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## Chapitre VII Dispositions finales
 
@@ -378,7 +432,7 @@ Sont expressément réservées les mesures que l’une des deux parties pourrait
 
 #### Art. 44
 
-Les deux Gouvernements pourront, après avis de la Commission mixte prévue à l’article 45, apporter par un simple échange de notes toutes modifications à la présente convention qui leur paraîtraient nécessaires, notamment en ce qui concerne les installations et le fonctionnement des bureaux à contrôles nationaux juxtaposés. Toutefois, le présent article n’est pas applicable aux dispositions de la présente convention qui, en vertu des dispositions constitutionnelles des deux Etats, exigent pour leur mise en vigueur l’approbation du pouvoir législatif.
+Les deux Gouvernements pourront, après avis de la Commission mixte prévue à l’article 45, apporter par un simple échange de notes toutes modifications à la présente convention qui leur paraîtraient nécessaires, notamment en ce qui concerne les installations et le fonctionnement des bureaux à contrôles nationaux juxtaposés. Toutefois, le présent article n’est pas applicable aux dispositions de la présente convention qui, en vertu des dispositions constitutionnelles des deux États, exigent pour leur mise en vigueur l’approbation du pouvoir législatif.
 
 #### Art. 45
 
@@ -395,90 +449,78 @@ La présente convention sera ratifiée et les instruments de ratification seront
 
 Elle entrera en vigueur à la date de l’échange des instruments de ratification.
 
-*En foi de quoi* les plénipotentiaires ont signé la présente convention et y ont apposé leur sceau. Fait en langue française à Berne le 25 avril 1956. Pour la Confédération suisse: Pour la République française: Bindschedler E. Dennery
+*En foi de quoi* les plénipotentiaires ont signé la présente convention et y ont apposé leur sceau. Fait en langue française à Berne le 25 avril 1956. Pour la Confédération suisse: Bindschedler Pour la République française: E. Dennery
 
-Annexe n <sup>o</sup> III*[^t-3]*
+Annexes n<sup>o</sup> I et II[^t-2]
 
-## Programme de plan de masse de l’aéroport de Genève‑Cointrin
+[^t-2]: Ces annexes ne sont pas publiées au RS, car il s’agit de cartes, qui ne se prêtent pas pour la production dans le RS (cf. [RO 1958 135](https://fedlex.data.admin.ch/eli/oc/1958/129_135_141)[annexe II] et [RO 1962 1074](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077)[annexe I]).
 
-[^t-3]: Dans les annexes I et II, il s’agit de cartes, qui ne se prêtent pas pour la production dans le RS.
+Annexe n <sup>o</sup> III[^t-3]
+
+## Programme de plan de masse de l’aéroport de Genève-Cointrin
+
+[^t-3]: Nouvelle teneur selon l’échange de notes des 1<sup>er</sup> déc. 2023 et 26 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 \1. Allongement de la piste
 
-Dans l’avenir immédiat la piste existante de l’Aéroport de Genève‑Cointrin sera allongée à 3000 m.
-
-Dans le futur, la Suisse réalisera un second allongement pour atteindre la longueur maximum de piste prévue par l’O. A. C. I. pour un aéroport de classe A.
+La longueur de la piste a été portée à 3900 m.
 
 \2. Voies de circulation
 
-La piste sera desservie du côté sud, et jusqu’à son extrémité‑est, par une voie de circulation parallèle, dont l’axe sera situé à 210 mètres de l’axe de la piste.
+La piste sera desservie du côté sud, et jusqu’à son extrémité-est, par une voie de circulation parallèle.
 
 Il n’est pas prévu de voie de circulation au nord de la piste.
-
-\3. Equipement pour l’atterrissage par mauvaise visibilité
-
-L’extrémité‑est de la piste sera équipée pour l’atterrissage par mauvaise visibilité.
-
-Cette extrémité sera pourvue des aides radio‑électriques et visuelles correspondantes, suivant les standards de l’O. A. C. I.
-
-Les installations radioélectriques d’entrée de piste seront implantées du côté nord de cette piste, et notamment le *glide path* de l’ILS.
 
 \4. Plan de dégagement
 
 a. La cote de référence de l’aérodrome est la cote (+419) du nivellement général de la Suisse.
 
-b. La demi‑largeur de bande sera 150 mètres.
+b. La demi-largeur de bande sera 150 mètres.
 
 c. Le fond de trouée débutera à 60 mètres de l’extrémité de la piste.
 
 d. La pente du fond de trouée sera de 2 %. La pente d’évasement des droites de fond de trouée sera de 15 %.
 
-e. La pente des faces latérales de la trouée sera de <sup>1</sup>/<sub>7</sub>.
+e. La pente des faces latérales de la trouée sera de 1/7.
 
-f. La hauteur du plan horizontal intermédiaire sera 45 mètres au-dessus de la cote de référence (+419).
+f. La hauteur de la surface horizontale intérieuresera 45 mètres au-dessus de la cote de référence (+419).
 
-g. La hauteur du plan terminal de la surface conique sera 145 mètres au‑dessus de la même cote de référence.
+g. La hauteur du plan terminal de la surface conique sera 145 mètres au-dessus de la même cote de référence.
 
-h. La section par le plan horizontal intermédiaire sera un cercle d’un rayon de 4000 mètres.
-
-i. Les génératrices de la surface conique de dégagement auront une pente de 5 % sur l’horizontale.
+h. La section par la surface horizontale intérieure seraun cercle d’un rayon de 4000 mètres.
 
 \5. Plan des servitudes de dégagement
 
 Le territoire français est intéressé par la partie latérale nord de la surface de dégagement.
 
-Le plan de servitudes frappera de servitudes *non oedificandi* et *non altius tollendi* tous les fonds du territoire français situés sous la surface de dégagement définie au § 4 ci‑dessus.
+Le plan de servitudes frappera de servitudes *non aedificandi* et *non altius tollendi* tous les fonds du territoire français situés sous la surface de dégagement définie au § 4 ci‑dessus.
 
-- a. En ce qui concerne les obstacles massifs (constructions, plantations, etc., …), aucun d’entre eux ne devra dépasser la cote de la surface de dégagement.
-- b. En ce qui concerne les obstacles minces (pylônes, cheminées, lignes électriques, etc., ... ) aucun d’entre eux ne devra dépasser la cote de la surface de dégagement diminuée de 15 mètres.
-- c. Toutefois, par entente entre les deux autorités compétentes suisse et française, certains obstacles existants (notamment la Tuilerie de Ferney‑Voltaire) pourront être tolérés, sous réserve qu’ils soient balisés de jour et de nuit.
+a. En ce qui concerne les obstacles massifs permanents(constructions, plantations, etc., …), aucun d’entre, eux ne devra dépasser la cote de la surface de dégagement.
 
-\6. Implantation des aides radio‑électriques
+b. En ce qui concerne les obstacles minces (pylônes, cheminées, lignes électriques, etc., …) aucun d’entre eux ne devra dépasser la cote de surface de dégagement.
 
-a. Le *Glide path* de l’ILS sera implanté en territoire suisse, mais à proximité de la frontière. Il fera l’objet d’un plan de servitudes radioélectriques sur le territoire français.
-
-b. Est d’ores et déjà prévue la possibilité d’implanter en territoire français, et dans la région située entre d’une part le Jura et d’autre part le Salève et les Voirons une ou plusieurs balises radio‑électriques facilitant l’approche et le décollage de l’aérodrome de Genève‑Cointrin.
-
-c. Egalement est d’ores et déjà prévue la possibilité d’implanter en territoire français et au nord de l’aérodrome *un radar de surveillance.*
-
-d. L’implantation et les caractéristiques des installations visées aux alinéas b et c du présent paragraphe seront fixées ultérieurement d’un commun accord entre les Autorités françaises et suisses compétentes et soumises à l’examen de la Commission Mixte prévue à l’art. 45 de la Convention.
+c. Toutefois, par entente entre les deux autorités compétentes suisse et française, certains obstacles existants (notamment la Tuilerie de Ferney-Voltaire) pourront être tolérés, sous réserve qu’ils soient balisés de jour et de nuit.
 
 ## Protocole Additionnel
 
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [RO 1962 1074](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077); [FF 1961 II 1301](https://fedlex.data.admin.ch/eli/fga/1961/2_1289_1301_1779)
+
 Conclu le 25 octobre 1961
 
-Approuvé par l’Assemblée fédérale le 23 mars 1962[^annexu1-lvlu2-1]
+Approuvé par l’Assemblée fédérale le 23 mars 1962[^annexu1-lvlu2-2]
 
 Entré en vigueur le 4 septembre 1962
 
-Le Conseil fédéral suisse et le Gouvernement de la République française, désireux d’apporter certaines modifications au plan visé à l’art. 1 de la convention du 25 avril 1956[^annexu1-lvlu2-2] concernant l’aménagement de l’aéroport de Genève‑Cointrin et annexé à cette convention, sont convenus des dispositions suivantes:
+Le Conseil fédéral suisse et le Gouvernement de la République française, désireux d’apporter certaines modifications au plan visé à l’art. 1 de la convention du 25 avril 1956 concernant l’aménagement de l’aéroport de Genève‑Cointrin et annexé à cette convention, sont convenus des dispositions suivantes:
 
 #### Art. 1
 
-La frontière franco‑suisse entre le canton de Genève et le département de l’Ain dans le secteur compris entre les bornes 39 à 90 est fixée d’après le plan au 1/5000 annexé au présent protocole. A partir de l’entrée en vigueur de celui‑ci, ce plan se substituera à celui qui constitue l’annexe 1 de la convention précitée.
+La frontière franco‑suisse entre le canton de Genève et le département de l’Ain dans le secteur compris entre les bornes 39 à 90 est fixée d’après le plan au 1/5000 annexé au présent protocole. À partir de l’entrée en vigueur de celui‑ci, ce plan se substituera à celui qui constitue l’annexe I[^annexu1-lvlu2-1-1] de la convention précitée.
 
-[^annexu1-lvlu2-1]: [RO 1962 1074](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077); FF **1961** II 1289 edit. all.
-[^annexu1-lvlu2-2]: Cette annexe n’est pas publiée au RS.
+[^annexu1-lvlu2-2]: [RO 1962 1072](https://fedlex.data.admin.ch/eli/oc/1962/1037_1072_1075)
+[^annexu1-lvlu2-1-1]: Cette annexe n’est pas publiée au RS.
 
 #### Art. 2
 
@@ -487,6 +529,5 @@ Chacun des deux Gouvernements notifiera à l’autre l’accomplissement, pour c
 Paris, le 25 octobre 1961.
 
 <table>
-<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement de la République française:</td></tr>
-<tr><td>(signé) Agostino Soldati</td><td>(signé) Eric de Carbonnel</td></tr>
+<tr><td>Pour le Conseil fédéral suisse: (signé) Agostino Soldati</td><td>Pour le Gouvernement de la République française: (signé) Eric de Carbonnel</td></tr>
 </table>

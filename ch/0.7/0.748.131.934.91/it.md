@@ -3,29 +3,32 @@ sr: "0.748.131.934.91"
 title: "Convenzione del 25 aprile 1956 tra la Svizzera e la Francia concernente la sistemazione dell'aeroporto di Ginevra-Cointrin e l'istituzione di uffici per i servizi nazionali coordinati di controllo a Ferney-Voltaire e a Ginevra-Cointrin"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/129_135_141"
 language: it
-version: 1962-09-04
+version: 2024-04-01
 adopted: 1956-04-25
 in_force: 1958-03-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/19620904/it/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-19620904-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/19620904/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/129_135_141/20240401/it/xml/fedlex-data-admin-ch-eli-cc-1958-129_135_141-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/129_135_141/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra la Svizzera e la Francia concernente la sistemazione dell’aeroporto di Ginevra-Cointrin e l’istituzione di uffici per i servizi nazionali coordinati di controllo a Ferney-Voltaire e a Ginevra-Cointrin
 
-Traduzione*[^t-1]*
+RU **1958** 141; FF **1956** II 53 ediz. franc. **1956** II 49 ediz. ted
 
-Conchiusa a Berna il 25 aprile 1956 Approvato dall’Assemblea federale il 5 ottobre 1956[^t-2] Entrata in vigore il 6 marzo 1958
+Traduzione
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1958 139](https://fedlex.data.admin.ch/eli/oc/1958/127_133_139)
+Conchiusa a Berna il 25 aprile 1956 Approvato dall’Assemblea federale il 5 ottobre 1956[^t-1] Entrata in vigore il 6 marzo 1958
+
+(Stato 1° aprile 2024)
+
+[^t-1]: [RU 1958 139](https://fedlex.data.admin.ch/eli/oc/1958/127_133_139)
 
 Il Consiglio Federale Svizzero e Il Presidente della Repubblica Francese
 
 hanno nominato loro plenipotenziari:
 
-(seguono i nomi dei plenipotenziari)
+*(seguono i nomi dei plenipotenziari)*
 
 i quali, dopo essersi comunicati i loro pieni poteri, trovati in buona e debita forma, hanno convenuto quanto segue:
 
@@ -33,12 +36,12 @@ i quali, dopo essersi comunicati i loro pieni poteri, trovati in buona e debita 
 
 #### Art. 1
 
-Il confine franco-svizzero tra il Cantone di Ginevra e il Dipartimento dell’Ain, nel tratto compreso fra i termini 41 a 90[^1-1], è stabilito in conformità del rilievo alla scala 1:5000, allegato alla presente convenzione (allegato I)[^1-2] della quale è parte integrante.
+Il confine franco-svizzero tra il Cantone di Ginevra e il Dipartimento dell’Ain, nel tratto compreso fra i termini 41 a 90[^1-1], è stabilito in conformità del rilievo alla scala 1:5000, allegato alla presente convenzione (allegato I[^1-2]) della quale è parte integrante.
 
 Sono riservate le modificazioni di poca importanza che risultassero dalla terminazione del confine modificato.
 
-[^1-1]: Vedere anche il protocollo aggiuntivo alla fine della convenzione.
-[^1-2]: Questo allegato non è pubblicato nella RU.
+[^1-1]: Vedere anche il Prot. aggiuntivo alla fine della Conv.
+[^1-2]: Questo all. non è pubblicato nella RS.
 
 #### Art. 2
 
@@ -53,9 +56,9 @@ I delegati permanenti alla terminazione del confine franco-svizzero sono incaric
 
 Gli stati contraenti provvederanno affinchè i terreni permutati siano consegnati liberi da qualsiasi diritto reale. Ogni volta che uno dei due Stati ne farà domanda e in mancanza di un’intesa diretta fra i proprietari, l’altro Stato s’impegna a consegnare i terreni liberi da qualsiasi diritto reale.
 
-Ogni mutamento del piano di sistemazione dell’aeroporto, allegato alla presente convenzione (allegato II)[^3-1] che importasse l’acquisto di nuovi diritti reali nel comune di Ferney-Voltaire, dev’essere approvato dalla Commissione prevista nell’articolo 45.
+Ogni mutamento del piano di sistemazione dell’aeroporto, allegato alla presente convenzione (allegato II[^3-1]) che importasse l’acquisto di nuovi diritti reali nel comune di Ferney-Voltaire, dev’essere approvato dalla Commissione prevista nell’articolo 45.
 
-[^3-1]: Questo allegato non è pubblicato nella RU
+[^3-1]: Questo all. non è pubblicato nella RS
 
 #### Art. 4
 
@@ -65,13 +68,16 @@ Le autorità competenti dello Stato cedente giudicano, secondo il proprio diritt
 
 #### Art. 5
 
+[^5-1]
+
 La Francia s’impegna a costituire, sulle parti del territorio francese interessato, le servitù aeronautiche e radioelettriche necessarie all’esercizio dell’aeroporto di Ginevra-Cointrin e degli impianti di sicurezza destinati alle operazioni d’avvicinamento, d’atterramento e d’involo concernenti detto aeroporto, conformemente al programma di piano di sistemazione allegato alla presente convenzione (allegato III).
 
-Tali piani di servitù saranno allestiti, pubblicati e applicati dalle autorità francesi competenti, a domanda del Governo svizzero e conformemente alle disposizioni del diritto francese in materia. Essi saranno conformi alle regole e alle raccomandazioni previste dall’O.A.C.I. in applicazione delle convenzione di Chicago[^5-1] ma non potranno andar oltre le prescrizioni francesi in materia e le disposizioni applicate in territorio svizzero dalle autorità svizzere competenti.
+Tali piani di servitù saranno allestiti, pubblicati e applicati dalle autorità francesi competenti, a domanda del Consiglio federale svizzero e conformemente alle disposizioni del diritto francese in materia. Essi saranno conformi alle regole e alle raccomandazioni previste dall’O.A.C.I. in applicazione della convenzione di Chicago[^5-2] e alle norme dell’Agenzia europea per la sicurezza aerea (AESA) ma non potranno andar oltre le prescrizioni francesi in materia e le disposizioni applicate in territorio svizzero dalle autorità svizzere competenti.
 
 Nei piani di servitù saranno indicate la posizione e le qualità particolari degli impianti di sicurezza qui sopra menzionati.
 
-[^5-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^5-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
+[^5-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 6
 
@@ -101,9 +107,13 @@ I materiali e gli attrezzi, qui sopra menzionati, potranno essere riesportati in
 
 #### Art. 9
 
+[^9-1]
+
 Il personale della direzione dell’aeroporto e quello dei servizi svizzeri competenti avranno accesso in ogni tempo agli impianti di sicurezza aerea che si trovano in territorio francese.
 
-Il passaggio in Francia attraverso punti diversi da quelli normalmente prescritti è riservato al personale svizzero interessato provvisto d’un lasciapassare permanente vistato dalle autorità francesi.
+Il passaggio in Francia attraverso punti diversi da quelli normalmente prescritti è riservato al personale svizzero interessato provvisto di un permesso rilasciato dalle autorità competenti.
+
+[^9-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 10
 
@@ -129,13 +139,17 @@ Allo scopo di agevolare l’adempimento delle formalità e l’esercizio dei con
 
 #### Art. 12
 
-La presente convenzione è parimente applicabile ai servizi d’elicotteri da e per la Francia. Il Governo svizzero s’impegna di consentire per tali apparecchi l’uso dell’aeroporto di Ginevra-Cointrin alle condizioni previste per i velivoli usuali.
+[^12-1]
+
+La presente convenzione è parimente applicabile ai servizi d’elicotteri da e per la Francia. Il Consiglio federale svizzero s’impegna di consentire per tali apparecchi l’uso dell’aeroporto di Ginevra-Cointrin alle condizioni previste per i velivoli usuali.
+
+[^12-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 13
 
-L’aeroporto sarà collegato direttamente con il territorio francese mediante una strada esclusivamente riservata al uso traffico. Questa strada sarà compresa nel settore destinato ai servizi francesi conformemente alle disposizioni degli articoli 11 e 16 della presente convenzione. Il tracciato di tale strada sarà conforme al piano allegato alla presente convenzione (allegato II)[^13-1]. La strada sarà separata mediante una barriera dai territori svizzero e francese, ma la porzione di essa situata in territorio svizzero rimarrà parte integrante di questo territorio.
+L’aeroporto sarà collegato direttamente con il territorio francese mediante una strada esclusivamente riservata al uso traffico. Questa strada sarà compresa nel settore destinato ai servizi francesi conformemente alle disposizioni degli articoli 11 e 16 della presente convenzione. Il tracciato di tale strada sarà conforme al piano allegato alla presente convenzione (allegato II[^13-1]). La strada sarà separata mediante una barriera dai territori svizzero e francese, ma la porzione di essa situata in territorio svizzero rimarrà parte integrante di questo territorio.
 
-[^13-1]: Questo allegato non è pubblicato nella RU
+[^13-1]: Questo all. non è pubblicato nella RS
 
 #### Art. 14
 
@@ -236,13 +250,17 @@ I testi che modificassero le leggi e i regolamenti svizzeri diverranno esecutivi
 
 Per l’esercizio dei perseguimenti e delle repressioni, saranno competenti le autorità giudiziarie svizzere cui un tale esercizio spetterebbe se le infrazioni fossero state commesse nel territorio del comune di Grand-Saconnex.
 
-<sup>2.</sup> Tuttavia, per i fatti considerati infrazioni tanto in diritto penale svizzero come in quello francese, è espressamente riservata la competenza delle autorità giudiziarie francesi, anche rispetto a cittadini, funzionari e agenti svizzeri, se le infrazioni sono state commesse nell’ufficio di Ferney-Voltaire.
+<sup>2.</sup> Tuttavia, per i fatti considerati infrazioni tanto in diritto penale svizzero come in quello francese, è espressamente riservata la competenza delle autorità giudiziarie francesi, anche rispetto a cittadini o funzionari, impiegati statali e agenti svizzeri, se le infrazioni sono state commesse nell’ufficio di Ferney-Voltaire.[^24-1]
+
+[^24-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 25
 
-<sup>1.</sup> Per quanto concerne l’ufficio di Ferney-Voltaire e la porzione di strada che s’estende sino al confine, il Governo francese garantisce al Governo svizzero la reciprocità nell’applicazione delle disposizioni previste negli articoli 15, 16, 18 e 19 della presente convenzione.
+<sup>1.</sup> Per quanto concerne l’ufficio di Ferney-Voltaire e la porzione di strada che s’estende sino al confine, il Governo francese garantisce al Consiglio federale svizzero la reciprocità nell’applicazione delle disposizioni previste negli articoli 15, 16, 18 e 19 della presente convenzione.[^25-1]
 
 <sup>2.</sup> Le autorità francesi sono incaricate di tutelare l’ordine pubblico nel settore assegnato ai servizi svizzeri.
+
+[^25-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## Capo V Disposizioni comuni agli Uffici di Ginevra-Cointrin e di Ferney-Voltaire
 
@@ -256,9 +274,11 @@ Per l’esercizio dei perseguimenti e delle repressioni, saranno competenti le a
 
 <sup>4.</sup> Le spese di manutenzione delle costruzioni previste nel paragrafo 1, eccettuate le abitazioni di servizio, come pure le spese di riscaldamento, illuminazione e pulizia dei locali e degli impianti previsti nel paragrafo 3, sono ripartite di comune accordo tra le amministrazioni svizzere e quelle francesi interessate.
 
-<sup>5.</sup> Le autorità svizzere, inoltre, contribuiranno, in territorio francese e nell’ambito del diritto francese, alla costruzione di abitazioni d’affitto riservate agli agenti delle dogane, della polizia e dell’amministrazione delle poste, dei telegrafi e dei telefoni.
+<sup>5.</sup> Le autorità svizzere, inoltre, contribuiranno, in territorio francese e nell’ambito del diritto francese, alla costruzione di abitazioni d’affitto riservate agli agenti francesi delle dogane, della polizia e dei servizi postali.
 
-A tale scopo, le autorità svizzere accorderanno un’anticipazione senza interesse, rimborsabile in trenta rate annuali, pari al 25 per cento dell’importo delle spese di costruzione, secondo le norme HLM, di 35 abitazioni. Il pagamento di questo anticipo sarà fatto a un organismo HLM designato dall’Amministrazione francese. Questi pagamenti saranno eseguiti in franchi svizzeri.
+A tale scopo, le autorità svizzere accorderanno un anticipo senza interesse, rimborsabile in trenta rate annuali, pari al 25 per cento dell’importo delle spese di costruzione, secondo le norme HLM, di 35 abitazioni. Il pagamento di questo anticipo sarà fatto a un organismo HLM designato dall’Amministrazione francese. Questi pagamenti saranno eseguiti in franchi svizzeri.[^26-1]
+
+[^26-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 27
 
@@ -272,39 +292,63 @@ Gli agenti delle dogane e quelli della polizia, nell’esercizio delle loro funz
 
 #### Art. 29
 
-Gli agenti e i funzionari di uno Stato che in applicazione della presente convenzione sono chiamati a esercitare le loro funzioni sul territorio dell’altro Stato sono dispensati dall’obbligo di un passaporto e di un visito. Essi possono passare la frontiera e recarsi sul luogo di servizio, giustificando semplicemente la loro identità e la loro condizione.
+[^29-1]
 
-I veicoli di servizio e quelli personali importati temporaneamente dagli agenti e dai funzionari d’uno Stato per il loro servizio o per un servizio d’ispezione sono esenti nell’altro Stato da dazi o da qualsiasi altra tassa e dispensati da cauzione. Tali veicoli non sono sottoposti a limitazioni o a divieti d’importazione o d’esportazione. I provvedimenti di controllo saranno stabiliti di comune accordo dalle amministrazioni competenti.
+Gli agenti, gli impiegati e i funzionari di uno Stato che in applicazione della presente convenzione sono chiamati a esercitare le loro funzioni sul territorio dell’altro Stato sono dispensati dall’obbligo di un passaporto e di un visto. Essi possono passare la frontiera e recarsi sul luogo di servizio, giustificando semplicemente la loro identità e la loro condizione.
+
+I veicoli di servizio e quelli personali importati temporaneamente dagli agenti, dagli impiegati e dai funzionari d’uno Stato per il loro servizio o per un servizio d’ispezione sono esenti nell’altro Stato da dazi o da qualsiasi altra tassa e dispensati da cauzione. Tali veicoli non sono sottoposti a limitazioni o a divieti d’importazione o d’esportazione. I provvedimenti di controllo saranno stabiliti di comune accordo dalle amministrazioni competenti.
+
+[^29-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 30
 
-Le autorità dello Stato sul cui territorio trovasi l’ufficio concederanno ai funzionari e agli agenti dell’altro Stato, per l’esercizio delle loro funzioni, la stessa protezione accordata ai loro funzionari e agenti.
+[^30-1]
+
+Le autorità dello Stato sul cui territorio trovasi l’ufficio concederanno ai funzionari, agli impiegati e agli agenti dell’altro Stato, per l’esercizio delle loro funzioni, la stessa protezione accordata ai loro funzionari, impiegati e agenti.
+
+[^30-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 31
 
-Le autorità dello Stato sul territorio del quale trovasi l’ufficio si riservano il diritto d’invitare le autorità dell’altro Stato a richiamare determinati funzionari o agenti. Le autorità di questo Stato procederanno al richiamo di tali funzionari o agenti.
+[^31-1]
+
+Le autorità dello Stato sul cui territorio trovasi l’ufficio si riservano il diritto d’invitare le autorità dell’altro Stato a richiamare determinati funzionari, impiegati o agenti. Le autorità di questo Stato procederanno al richiamo di tali funzionari, impiegati o agenti.
+
+[^31-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 32
 
-<sup>1.</sup> I funzionari e gli agenti di uno Stato che esercitano le loro funzioni sul territorio dell’altro Stato dipenderanno esclusivamente dalle autorità, cui sono sottoposti, per tutto quello che concerne la loro attività ufficiale, i rapporti di servizio e la disciplina. Se rispetto a tali funzionari e agenti fossero applicate le disposizioni degli articoli 19, secondo paragrafo, e 24, secondo paragrafo, le autorità dalle quali dipendono ne saranno immediatamente avvertite.
+[^32-1]
 
-<sup>2.</sup> I funzionari e gli agenti di uno Stato, come anche i membri delle loro famiglie, non saranno astretti ad alcun obbligo di servizio militare o di prestazione di servizio personale sul territorio dell’altro Stato.
+<sup>1.</sup> I funzionari, gli impiegati e gli agenti di uno Stato che esercitano le loro funzioni sul territorio dell’altro Stato dipenderanno esclusivamente dalle autorità cui sono sottoposti per tutto quello che concerne la loro attività ufficiale, i rapporti di servizio e la disciplina. Se rispetto a tali funzionari, impiegati e agenti fossero applicate le disposizioni degli articoli 19 paragrafo 2 e 24 paragrafo 2, le autorità dalle quali dipendono ne saranno immediatamente avvertite.
+
+<sup>2.</sup> I funzionari, gli impiegati e gli agenti di uno Stato, come anche i membri delle loro famiglie, non saranno astretti ad alcun obbligo di servizio militare o di prestazione di servizio personale sul territorio dell’altro Stato.
+
+[^32-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 33
 
-<sup>1.</sup> I funzionari e gli agenti di uno Stato che esercitano le loro funzioni sul territorio dell’altro Stato e stabiliscono in quest’ultimo la loro residenza non saranno assoggettati ad alcun imposta o contributo da cui siano esentati gli abitanti del luogo in cui trovasi l’ufficio. Essi e le loro famiglie, allorchè vi stabiliscono la prima volta la loro residenza, fruiranno della franchigia temporanea dei dazi o di altre tasse per i mobili, gli indumenti personali e altri oggetti d’uso casalingo, a condizione che siano adempiute le formalità doganali.
+[^33-1]
+
+<sup>1.</sup> I funzionari, gli impiegati e gli agenti di uno Stato che esercitano le loro funzioni sul territorio dell’altro Stato e stabiliscono in quest’ultimo la loro residenza non saranno assoggettati ad alcuna imposta o contributo da cui siano esentati gli abitanti del luogo in cui trovasi l’ufficio. Essi e le loro famiglie, allorché vi stabiliscono la prima volta la loro residenza, fruiranno della franchigia temporanea dei dazi o di altre tasse per i mobili, gli indumenti personali e altri oggetti d’uso casalingo, a condizione che siano adempiute le formalità doganali.
 
 <sup>2.</sup> Ove non stabilissero la loro residenza sul territorio dello Stato in cui trovasi l’ufficio, essi saranno esenti, in questo Stato, da qualsiasi onere personale e imposta diretta.
 
-<sup>3.</sup> Il salario dei funzionari e degli agenti indicati nel presente articolo non saranno assoggettati ad alcun limitazione monetaria.
+<sup>3.</sup> Il salario dei funzionari, degli impiegati e degli agenti indicati nel presente articolo non saranno assoggettati ad alcuna limitazione monetaria.
+
+[^33-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 34
 
-<sup>1.</sup> Il personale dipendente da uno Stato, in servizio e residente sul territorio dell’altro Stato, deve, per quanto concerne le condizioni di residenza, mettersi in regola con le autorità competenti conformemente alle disposizioni sulla dimora degli stranieri. Ove sia il caso, esso sarà gratuitamente provvisto d’un permesso di soggiorno e d’altri documenti dalle autorità del paese nel quale esercita le sue funzioni. Il permesso di soggiorno non potrà essere rifiutato alla moglie e ai figli dei funzionari e degli agenti che vivono con questi in economia domestica e non esercitano un’attività lucrativa, eccetto che contro tali persone non sia stato pronunciato un divieto personale d’entrata.
+[^34-1]
 
-La moglie e i figli di tali funzionari che vivono con questi in economia domestica e non esercitano alcuna attività lucrativa sono esenti dalle tasse concernenti i permessi di soggiorno. La concessione di permessi per l’esercizio di un’attività lucrativa ai membri della famiglia di detti funzionari e agenti è lasciata all’apprezzamento delle autorità competenti. Ove, esse esigessero un tale permesso, il rilascio di questo avrà luogo mediante il pagamento delle tasse regolamentari.
+<sup>1.</sup> Il personale dipendente da uno Stato, in servizio e residente sul territorio dell’altro Stato, deve, per quanto concerne le condizioni di residenza, mettersi in regola con le autorità competenti conformemente alle disposizioni sul soggiorno degli stranieri. Ove sia il caso, esso sarà gratuitamente provvisto d’un permesso di soggiorno e d’altri documenti dalle autorità del paese nel quale esercita le sue funzioni. Il permesso di soggiorno non potrà essere rifiutato al coniuge e ai figli dei funzionari, degli impiegati statali e degli agenti che vivono con questi in economia domestica e non esercitano un’attività lucrativa, eccetto che contro tali persone non sia stato pronunciato un divieto personale d’entrata.
 
-<sup>2.</sup> Il tempo durante il quale i funzionari e agenti di uno Stato esercitano le loro funzioni sul territorio dell’altro Stato non sarà compreso nei termini che danno diritto a un trattamento privilegiato in virtù di convenzioni esistenti tra i due Stati. Questa disposizione vale parimente per i membri della famiglia che fruiscono d’un permesso di soggiorno in virtù della presenza del capofamiglia sul territorio dell’altro Stato.
+I coniugi e i figli di tali funzionari e impiegati statali che vivono con questi in economia domestica e non esercitano alcuna attività lucrativa sono esenti dalle tasse concernenti i permessi di soggiorno. La concessione di permessi per l’esercizio di un’attività lucrativa ai membri della famiglia di detti funzionari, impiegati statali e agenti è lasciata all’apprezzamento delle autorità competenti. Ove esse esigessero un tale permesso, il rilascio di questo avrà luogo mediante il pagamento delle tasse regolamentari.
+
+<sup>2.</sup> Il tempo durante il quale i funzionari, gli impiegati e gli agenti di uno Stato esercitano le loro funzioni sul territorio dell’altro Stato non sarà compreso nei termini che danno diritto a un trattamento privilegiato in virtù di convenzioni esistenti tra i due Stati. Questa disposizione vale parimente per i membri della famiglia che fruiscono d’un permesso di soggiorno in virtù della presenza del funzionario, dell’impiegato statale o dell’agente sul territorio dell’altro Stato.
+
+[^34-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 35
 
@@ -312,7 +356,11 @@ Il materiale, i mobili e gli oggetti necessari all’esercizio dei servizi di un
 
 #### Art. 36
 
-Ciascuno dei due Stati permetterà il prolungamento sul suo territorio delle linee telefoniche dell’altro Stato affinchè possono essere stabilite comunicazioni dirette tra i servizi di dogana, di polizia e delle poste, dei telegrafi e dei telefoni che si trovano negli uffici indicati negli articoli 11, 23 e 39 e le loro amministrazioni.
+[^36-1]
+
+Ciascuno dei due Stati permetterà il prolungamento sul suo territorio delle linee telefoniche dell’altro Stato affinché possano essere stabilite comunicazioni dirette tra i servizi di dogana, di polizia e delle Poste che si trovano negli uffici indicati negli articoli 11, 23 e 39 e le loro amministrazioni.
+
+[^36-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 37
 
@@ -336,11 +384,17 @@ Lo Stato sul cui territorio si trova l’ufficio permetterà alle autorità dell
 
 #### Art. 39
 
+[^39-1]
+
 Ciascuno dei due Stati potrà stabilire un ufficio postale negli uffici per i servizi nazionali coordinati di controllo.
 
 Le disposizioni particolari concernenti l’esercizio di tale ufficio saranno determinate di comune accordo dalle amministrazioni interessate.
 
-Qualora i servizi francesi delle poste, dei telegrafi e dei telefoni decidessero di istituire un ufficio postale nel settore destinato ai servizi francesi dell’aeroporto, le autorità svizzere metteranno a disposizione di essi i locali necessari. Le spese d’impianto di tali locali, come pure la pigione usuale, sarebbero a carico dello Stato francese.
+Qualora i servizi postali francesi decidessero di istituire un ufficio postale nel settore destinato ai servizi francesi dell’aeroporto, le autorità svizzere metteranno a disposizione di essi i locali necessari.
+
+Le spese d’impianto di tali locali, come pure la pigione usuale, sarebbero a carico dello Stato francese.
+
+[^39-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 #### Art. 40
 
@@ -350,7 +404,7 @@ Le amministrazioni interessate dei due Stati stabiliranno di comune accordo le d
 
 #### Art. 41
 
-Il Governo svizzero assumerà tutte le spese derivanti dall’ampliamento dell’aeroporto di Ginevra-Cointrin. In particolare, esso si impegna ad assumere le spese concernenti:
+Il Consiglio federale svizzero assumerà tutte le spese derivanti dall’ampliamento dell’aeroporto di Ginevra-Cointrin. In particolare, il Consiglio federale si impegna ad assumere le spese concernenti:[^41-1]
 
 - a. la rettificazione del confine prevista negli articoli 1 e 2;
 - b. le operazioni previste negli articoli 3 e 4, eccetto che fossero eseguite a domanda delle autorità francesi;
@@ -362,6 +416,8 @@ Il Governo svizzero assumerà tutte le spese derivanti dall’ampliamento dell�
 - h. il pagamento al comune di Ferney-Voltaire di un’indennità di 20 milioni di franchi francesi a compenso del pregiudizio subito in generale da quel comune;
 - i. l’indennità annuale assegnata al comune di Ferney-Voltaire a compenso delle perdite di proventi fiscali, la quale è stabilita nella presente convenzione a 8000 franchi svizzeri;
 - j. la revisione catastale resa necessaria dalle permute di territori cagionate dalla rettificazione del confine.
+
+[^41-1]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 ## Capo VII Disposizioni finali
 
@@ -392,33 +448,27 @@ La presente convenzione sarà ratificata e gli istrumenti di ratificazione saran
 
 Essa entrerà in vigore il giorno dello scambio degli istrumenti di ratificazione.
 
-*In fede di che,* i plenipotenziari hanno firmato la presente convenzione e vi hanno apposto i loro sigilli. Fatto a Berna, in lingua francese, il 25 aprile 1956. Per la Confederazione Svizzera: Per la Repubblica Francese: Bindschedler E. Dennery
+*In fede di che,* i plenipotenziari hanno firmato la presente convenzione e vi hanno apposto i loro sigilli. Fatto a Berna, in lingua francese, il 25 aprile 1956. Per la Confederazione Svizzera: Bindschedler Per la Repubblica Francese: E. Dennery
 
-Allegato III*[^t-3]*
+Allegato I e II[^t-2]
+
+[^t-2]: Questi allegati non sono pubblicati nella RS, si tratta di carte che non si adattano per la pubblicazione (vedi [RU 1958 141](https://fedlex.data.admin.ch/eli/oc/1958/129_135_141)[allegato II] e [RU 1962 1077](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077)[allegato I]).
+
+Allegato III[^t-3]
 
 ## Piano di sistemazione dell’aeroporto di Ginevra-Cointrin
 
-[^t-3]: Concernente gli allegati I e II si tratta di carte che non si adattano per la pubblicazione nella RU.
+[^t-3]: Nuovo testo giusta lo scambio di note dei 1° dic. 2023 e 26 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 162](https://fedlex.data.admin.ch/eli/oc/2024/162)).
 
 \1. Allungamento della pista
 
-La pista esistente dell’Aeroporto di Ginevra-Cointrin sarà, in un avvenire immediato, allungata a 3000 m.
-
-Più tardi, la Svizzera eseguirà un secondo allungamento fino a raggiungere la lunghezza massima prevista dell’O.A.C.I. per la pista di un aeroporto della classe A.
+La lunghezza della pista è stata portata a 3900 m.
 
 \2. Vie di circolazione
 
-Dal lato sud fino all’estremità est, la pista sarà provvista di una via di circolazione parallela, il cui asse sarà situata a 200 m da quello della pista.
+Dal lato sud fino all’estremità est, la pista sarà provvista di una via di circolazione parallela.
 
 A nord della pista, non è prevista alcuna via di circolazione.
-
-\3. Attrezzatura per l’atterramento in caso di foschia
-
-L’estremità est della pista sarà attrezzata per l’atterramento in caso di foschia.
-
-Questa estremità sarà provvista degli aiuti radioelettrici e visivi corrispondenti, previsti dall’O.A.C.I.
-
-Gli impianti radioelettrici d’entrata, in particolare il trasmettitore dell’asse di discesa (ILS), saranno collocati a nord della pista.
 
 \4. Piano di franchigia d’ostacoli
 
@@ -430,53 +480,42 @@ c. Il piano di avvicinamento inizierà a 60 m dall’estremità della pista.
 
 d. La pendenza del piano di avvicinamento sarà del 2 per cento. L’angolo di apertura del limite laterale dell’asse di discesa sarà del 15 per cento.
 
-e. La pendenza dei lati del piano di avvicinamento sarà di <sup>1</sup>/<sub>7</sub> per cento.
+e. La pendenza dei lati del piano di avvicinamento sarà di 1/7 per cento.
 
-f. L’altezza del piano orizzontale intermedio sarà di 45 m sopra la quota di riferimento (+ 419).
+f. L’altezza della superficie orizzontale interna sarà di 45 m sopra la quota di riferimento (+ 419).
 
 g. L’altezza del piano terminale della superficie conica sarà di 145 m sopra la medesima quota di riferimento.
 
-h. La sezione del piano orizzontale intermedio sarà un circolo d’un raggio di 4000 metri.
-
-i. Le generatrici della superficie conica di franchigia avranno una pendenza del 5 per cento rispetto all’orizzonte.
+h. La sezione della superficie orizzontale interna sarà un circolo d’un raggio di 4000 metri.
 
 \5. Piano delle servitù di franchigia d’ostacoli
 
 Il territorio francese è interessato per la parte laterale nord della superficie di franchigia.
 
-Il piano graverà di servitù non aedificandi e non altius tollendi tutti i fondi in territorio francese situati nell’area di franchigia determinata nel § 4 che procede.
+Il piano graverà di servitù *non aedificandi* e *non altius tollendi* tutti i fondi in territorio francese situati nell’area di franchigia determinata nel § 4 che procede.
 
-- a. Nessun ostacolo massiccio (costruzione, piantagione, ecc.) potrà oltrepassare la quota della superficie di franchigia.
-- b. Nessun ostacolo leggero (piloni, comignoli, linee elettriche) dovrà oltrepassare la quota della superficie di franchigia, detratti 15 m.
-- c. D’intesa con le autorità competenti svizzere e francesi, potranno tuttavia essere tollerati alcuni ostacoli esistenti (segnatamente la Fornace di Ferney-Voltaire), a condizione che siano segnalati di giorno e di notte.
+a. Nessun ostacolo massiccio permanente (costruzione, piantagione, ecc.) potrà oltrepassare la quota della superficie di franchigia.
 
-\6. Collocamento degli aiuti radioelettrici
+b. Nessun ostacolo leggero (piloni, comignoli, linee elettriche, ecc.) dovrà oltrepassare la quota della superficie di franchigia.
 
-a. Il trasmettitore dell’asse di discesa (ILS) sarà collocato in territorio svizzero, ma in vicinanza del confine. Esso sarà oggetto di un piano di servitù radioelettriche gravanti sul territorio francese.
-
-b. È prevista, sin d’ora, la possibilità d’impiantare in territorio francese e nella regione situata tra il Giura, da una parte, e il Salève e i Voinons, dall’altra, uno o più segnali radioelettrici che agevolino l’avvicinamento all’aerodromo di Ginevra-Cointrin e l’involo dello stesso.
-
-c. Parimente, è prevista, sin d’ora, la possibilità d’impiantare in territorio francese e a nord dell’aerodromo un radar di sorveglienza.
-
-d. Il collocamento e le qualità particolari degli impianti previsti nelle lettere b e c del presente paragrafo saranno stabiliti successivamente di comune accordo tra le autorità francesi e svizzere competenti e saranno sottoposti all’esame della commissione mista preveduta nell’articolo 45 della convenzione.
-
-?[^annexu1-lvlu1-1]?
-
-[^annexu1-lvlu1-1]: [RU 1962 1077](https://fedlex.data.admin.ch/eli/oc/1962/1039_1074_1077); FF **1961** 1779
+c. D’intesa con le autorità competenti svizzere e francesi, potranno tuttavia essere tollerati alcuni ostacoli esistenti (segnatamente la Fornace di Ferney-Voltaire), a condizione che siano segnalati di giorno e di notte.
 
 ## Protocollo aggiuntivo
 
-Conchiuso il 25 ottobre 1961 Approvato dall’Assemblea federale il 23 marzo 1962[^annexu1-lvlu2-1] Entrato in vigore il 4 settembre 1962
+[^annexu1-lvlu2-1]
 
-Il Consiglio federale svizzero e il Governo della Repubblica Francese, desiderosi di apportare alcune modificazioni al rilievo menzionato nell’articolo 1 della convenzione del 25 aprile 1956[^annexu1-lvlu2-2] concernente la sistemazione dell’aeroporto di Ginevra-Cointrin, allegato a quella convenzione, hanno convenuto:
+[^annexu1-lvlu2-1]: RU **19****62** 1077; FF **19****61** 1779
+
+Conchiuso il 25 ottobre 1961 Approvato dall’Assemblea federale il 23 marzo 1962[^annexu1-lvlu2-2] Entrato in vigore il 4 settembre 1962
+
+Il Consiglio federale svizzero e il Governo della Repubblica Francese, desiderosi di apportare alcune modificazioni al rilievo menzionato nell’articolo 1 della convenzione del 25 aprile 1956 concernente la sistemazione dell’aeroporto di Ginevra-Cointrin, allegato a quella convenzione, hanno convenuto:
 
 #### Art. 1
 
 Il confine franco-svizzero tra il Cantone di Ginevra e il Dipartimento dell’Ain, nel tratto compreso fra i termini 39 a 90, è stabilito in conformità del rilievo alla scala 1:5000, allegato al presente protocollo[^annexu1-lvlu2-1-1]. A contare dall’entrata in vigore di quest’ultimo, il rilievo sarà sostituito a quello dell’allegato 1 della convenzione summenzionata.
 
-[^annexu1-lvlu2-1]: [RU 1962 1075](https://fedlex.data.admin.ch/eli/oc/1962/1037_1072_1075)
-[^annexu1-lvlu2-2]: Questo allegato non è pubblicato nella RU.
-[^annexu1-lvlu2-1-1]: Questo allegato non è pubblicato nella RU.
+[^annexu1-lvlu2-2]: [RU 1962 1075](https://fedlex.data.admin.ch/eli/oc/1962/1037_1072_1075)
+[^annexu1-lvlu2-1-1]: Questo all. non è pubblicato nella RU.
 
 #### Art. 2
 
@@ -484,4 +523,6 @@ Ciascuno dei due Governi notificherà all’altro il compimento della propria pr
 
 Parigi, 25 ottobre 1961.
 
-(Seguono le firme)
+<table>
+<tr><td>Per il Consiglio federale svizzero: (firmato) Agostino Soldati</td><td>Per il Governo della Repubblica francese: (firmato) Eric de Carbonnel</td></tr>
+</table>
