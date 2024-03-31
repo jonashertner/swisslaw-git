@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinanza sull'organizzazione del Governo e dell'Amministrazione"
 short: OOGA
 language: it
-version: 2023-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-11-22
+version: 2024-04-01
+valid_until: 2024-11-30
+version_adopted: 2024-03-05
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3279/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3427/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3279/pdf_file"
 
 (OOGA)
 
-del 24.10.2006 (stato 01.01.2023)
+del 24.10.2006 (stato 01.04.2024)
 
 emanata dal Governo il 24 ottobre 2006
 
@@ -97,9 +97,11 @@ visti l'art. 49 della Costituzione cantonale [^ingress-1] e l'art. 24 della legg
 
 <sup>1</sup> I decreti vengono compilati dalla Cancelleria dello Stato.
 
-<sup>2</sup> La compilazione dei decreti destinata al protocollo, una volta munita di timbro, viene firmata di proprio pugno dal presidente del Governo e dal cancelliere.
+<sup>2</sup> La compilazione dei decreti destinata al protocollo, una volta munita di timbro, viene firmata di proprio pugno o con una firma elettronica qualificata conformemente alla legge sulla firma elettronica (FiEle)[^8-1] dal presidente del Governo e dal cancelliere.
 
-<sup>3</sup> Per la riproduzione elettronica o meccanica della compilazione, la firma può essere apposta con un modello elettronico o un timbro fac-simile, se non è imperativamente prescritta la firma autografa.
+<sup>3</sup> Per la riproduzione elettronica o meccanica della compilazione dei decreti, la firma può essere apposta con un timbro facsimile, se non è imperativamente prescritta la firma autografa.
+
+[^8-1]: RS [943.03](https://db.clex.ch/link/Bund/943.03/it)
 
 ## 2. Amministrazione cantonale
 
@@ -158,15 +160,28 @@ visti l'art. 49 della Costituzione cantonale [^ingress-1] e l'art. 24 della legg
 
 **Forme di firma 1. Decisioni singole e decisioni su ricorso**
 
-<sup>1</sup> Decisioni singole e decisioni su ricorso devono di regola recare una firma autografa.
+<sup>1</sup> Decisioni singole e decisioni su ricorso devono di regola essere firmate di proprio pugno o con una firma elettronica qualificata conformemente alla FiEle[^15-1].
 
-<sup>2</sup> In casi particolari, segnatamente in caso di urgenza o se decisioni singole vengono emanate in gran numero, la firma può essere apposta con timbro fac-simile o con modello elettronico.
+<sup>2</sup> La firma può venire apposta con un timbro facsimile:
+
+- a) in casi particolari, segnatamente in caso di urgenza o se decisioni singole vengono emanate in gran numero;
+- b) in caso di decisioni di prima istanza che accolgono integralmente la richiesta delle parti e non ledono diritti di terzi.
+
+[^15-1]: RS [943.03](https://db.clex.ch/link/Bund/943.03/it)
 
 #### Art. 16
 
 **2. Decisioni collettive**
 
-<sup>1</sup> Decisioni che vengono emanate in gran numero in via elettronica o meccanica, possono essere firmate con un timbro fac-simile o con un modello elettronico oppure non recare alcuna firma.
+<sup>1</sup> Decisioni che vengono emanate in gran numero in via elettronica o meccanica possono essere firmate con un timbro facsimile o non recare alcuna firma.
+
+#### Art. 16a
+
+**Scambi interni all'Amministrazione**
+
+<sup>1</sup> Nei casi in cui è richiesta una firma autografa negli scambi interni all'Amministrazione può essere utilizzata anche una firma elettronica qualificata conformemente alla FiEle[^16a-1].
+
+[^16a-1]: RS [943.03](https://db.clex.ch/link/Bund/943.03/it)
 
 ## 3. Disposizioni finali
 

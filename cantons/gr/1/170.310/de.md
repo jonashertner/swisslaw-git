@@ -4,13 +4,13 @@ number: "170.310"
 title: Regierungs- und Verwaltungsorganisationsverordnung
 short: RVOV
 language: de
-version: 2023-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-11-22
+version: 2024-04-01
+valid_until: 2024-11-30
+version_adopted: 2024-03-05
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3279/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3279/pdf_file"
 
 (RVOV)
 
-Vom 24.10.2006 (Stand 01.01.2023)
+Vom 24.10.2006 (Stand 01.04.2024)
 
 Gestützt auf Art. 49 der Kantonsverfassung[^ingress-1] und Art. 24 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-2]
 
@@ -97,9 +97,11 @@ von der Regierung erlassen am 24. Oktober 2006
 
 <sup>1</sup> Die Beschlüsse werden von der Standeskanzlei ausgefertigt.
 
-<sup>2</sup> Die für das Protokoll bestimmte Beschlussausfertigung wird gestempelt und von der Regierungspräsidentin oder vom Regierungspräsidenten und von der Kanzleidirektorin oder dem Kanzleidirektor handschriftlich unterzeichnet.
+<sup>2</sup> Die für das Protokoll bestimmte Beschlussausfertigung wird gestempelt und von der Regierungspräsidentin oder vom Regierungspräsidenten und von der Kanzleidirektorin oder dem Kanzleidirektor handschriftlich oder mit einer qualifizierten elektronischen Signatur gemäss dem Bundesgesetz über die elektronische Signatur (ZertES)[^8-1] unterzeichnet.
 
-<sup>3</sup> Für die elektronische oder mechanische Wiedergabe der Beschlussausfertigung kann die Unterzeichnung mit elektronischer Vorlage oder mittels Faksimile-Stempel erfolgen, sofern die handschriftliche Unterzeichnung nicht zwingend vorgeschrieben ist.
+<sup>3</sup> Für die elektronische oder mechanische Wiedergabe der Beschlussausfertigung kann die Unterzeichnung mittels Faksimile-Stempel erfolgen, sofern die handschriftliche Unterzeichnung nicht zwingend vorgeschrieben ist.
+
+[^8-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
 
 ## 2. Kantonale Verwaltung
 
@@ -158,15 +160,28 @@ von der Regierung erlassen am 24. Oktober 2006
 
 **Unterzeichnungsformen 1. Einzelverfügungen und Beschwerdeentscheide**
 
-<sup>1</sup> Einzelverfügungen und Beschwerdeentscheide sind in der Regel eigenhändig zu unterzeichnen.
+<sup>1</sup> Einzelverfügungen und Beschwerdeentscheide sind in der Regel handschriftlich oder mit einer qualifizierten elektronischen Signatur gemäss ZertES[^15-1] zu unterzeichnen.
 
-<sup>2</sup> In besonderen Fällen, namentlich bei zeitlicher Dringlichkeit oder wenn Einzelverfügungen in grösserer Zahl erlassen werden, kann die Unterzeichnung mit Faksimile-Stempel oder elektronischer Vorlage erfolgen.
+<sup>2</sup> Die Unterzeichnung kann mit Faksimile-Stempel erfolgen:
+
+- a) in besonderen Fällen, namentlich bei zeitlicher Dringlichkeit oder wenn Einzelverfügungen in grösserer Zahl erlassen werden;
+- b) bei erstinstanzlichen Entscheiden, die dem Antrag der Parteien vollumfänglich entsprechen und nicht in die Rechte Dritter eingreifen.
+
+[^15-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
 
 #### Art. 16
 
 **2. Massenverfügungen**
 
-<sup>1</sup> Verfügungen, die in grosser Zahl auf elektronischem oder mechanischem Weg erlassen werden, können mit Faksimile-Stempel oder mit elektronischer Vorlage unterzeichnet werden oder keine Unterschrift tragen.
+<sup>1</sup> Verfügungen, die in grosser Zahl auf elektronischem oder mechanischem Weg erlassen werden, können mit Faksimile-Stempel unterzeichnet werden oder keine Unterschrift tragen.
+
+#### Art. 16a
+
+**Verwaltungsinterner Verkehr**
+
+<sup>1</sup> Wo im verwaltungsinternen Verkehr eine handschriftliche Unterzeichnung gefordert wird, kann auch eine qualifizierte, elektronische Signatur gemäss ZertES[^16a-1] verwendet werden.
+
+[^16a-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
 
 ## 3. Schlussbestimmungen
 

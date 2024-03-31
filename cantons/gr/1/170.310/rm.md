@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinaziun davart l'organisaziun da la regenza e da l'administraziun"
 short: OORA
 language: rm
-version: 2023-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-11-22
+version: 2024-04-01
+valid_until: 2024-11-30
+version_adopted: 2024-03-05
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3279/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3279/pdf_file"
 
 (OORA)
 
-dals 24-10-2006 (versiun dals 01-01-2023)
+dals 24-10-2006 (versiun dals 01-04-2024)
 
 sa basond sin l'art. 49 da la constituziun chantunala[^ingress-1] e sin l'art. 24 da la lescha davart l'organisaziun da la regenza e da l'administraziun[^ingress-2]
 
@@ -97,9 +97,11 @@ relaschada da la regenza ils 24 d'october 2006
 
 <sup>1</sup> Ils conclus vegnan redigids da la chanzlia chantunala.
 
-<sup>2</sup> L'exemplar dal conclus ch'è destinà per il protocol vegn bullà e suttascrit a maun da la presidenta u dal president da la regenza e da la chanceliera u dal chancelier.
+<sup>2</sup> L'exemplar dal conclus ch'è destinà per il protocol vegn bullà e suttascrit a maun da la presidenta u dal president da la Regenza e da la chanceliera u dal chancelier ubain cun ina signatura electronica qualifitgada tenor la Lescha federala davart la signatura electronica (CertSE)[^8-1].
 
-<sup>3</sup> Per la reproducziun electronica u mecanica dal conclus po la suttascripziun succeder cun in model electronic u cun in bul da facsimile, sche la suttascripziun a maun n'è betg prescritta stringentamain.
+<sup>3</sup> Per la reproducziun electronica u mecanica dal conclus po la suttascripziun succeder cun in bul da facsimile, sche la suttascripziun a maun n'è betg prescritta stringentamain.
+
+[^8-1]: CS [943.03](https://db.clex.ch/link/Bund/943.03/rm)
 
 ## 2. Administraziun chantunala
 
@@ -158,15 +160,28 @@ relaschada da la regenza ils 24 d'october 2006
 
 **Furmas da suttascripziun 1. disposiziuns singulas e decisiuns da recurs**
 
-<sup>1</sup> Disposiziuns singulas e decisiuns da recurs ston per regla vegnir suttascrittas a maun.
+<sup>1</sup> Disposiziuns singulas e decisiuns da recurs ston per regla vegnir suttascrittas a maun ubain cun ina signatura electronica qualifitgada tenor la CertSE[^15-1].
 
-<sup>2</sup> En cas spezials, cunzunt sch'igl è urgent areguard il temp u sch'i vegnan relaschadas disposiziuns singulas en in dumber pli grond, po la suttascripziun succeder cun in bul da facsimile u cun in model electronic.
+<sup>2</sup> La suttascripziun po succeder cun in bul da facsimile:
+
+- a) en cas spezials, cunzunt sch'i fa prescha u sche disposiziuns singulas vegnan decretadas en in dumber pli grond;
+- b) tar decisiuns d'emprima instanza che acceptan cumplainamain la pretensiun da las partidas e che n'intervegnan betg en ils dretgs da terzas persunas.
+
+[^15-1]: CS [943.03](https://db.clex.ch/link/Bund/943.03/rm)
 
 #### Art. 16
 
 **2. disposiziuns en massa**
 
-<sup>1</sup> Disposiziuns che vegnan relaschadas en in grond dumber sin via electronica u mecanica pon vegnir suttascrittas cun in bul da facsimile u cun in model electronic ubain na ston avair nagina suttascripziun.
+<sup>1</sup> Disposiziuns che vegnan decretadas en in grond dumber sin via electronica u mecanica, pon vegnir suttascrittas cun in bul da facsimile u na ston avair nagina suttascripziun.
+
+#### Art. 16a
+
+**Correspundenza entaifer l'administraziun**
+
+<sup>1</sup> Nua ch'ina suttascripziun a maun vegn pretendida per la correspundenza entaifer l'administraziun, po vegnir applitgada er ina signatura electronica qualifitgada tenor la CertSE[^16a-1].
+
+[^16a-1]: CS [943.03](https://db.clex.ch/link/Bund/943.03/rm)
 
 ## 3. Disposiziuns finalas
 
