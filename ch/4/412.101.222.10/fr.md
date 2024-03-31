@@ -3,18 +3,18 @@ sr: "412.101.222.10"
 title: "Ordonnance du SEFRI du 22 juillet 2014 sur la formation professionnelle initiale d'aide-plâtrière/aide-plâtrier avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/465"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2014-07-22
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/465/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-465-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/465/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/465/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-465-20240401-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/465/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale d’aide‑plâtrière/aide‑plâtrier avec attestation fédérale de formation professionnelle (AFP)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale d’aide‑plâtrière/aide‑plâtrier avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 22 juillet 2014 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 22 juillet 2014 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 22 juillet 2014 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 157 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 157 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet, domaines spécifiques et durée
 
@@ -108,13 +109,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 157 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
-## Section 4 Etendue de la formation dans les différents lieux de formation et langue d’enseignement
+## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 6
 
@@ -124,12 +126,12 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 #### Art. 7
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 720 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><th>Enseignement</th><th>1<sup><sup>re</sup></sup> année</th><th>2<sup><sup>e</sup></sup> année</th><th>Total</th></tr>
+<tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>Total</th></tr>
 <tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td></tr>
 <tr><td>– Planification, préparation des travaux et comptes rendus</td><td>80</td><td>40</td><td>120</td></tr>
 <tr><td>– Crépissage et montage des panneaux de plâtre</td><td>80</td><td>160</td><td>240</td></tr>
@@ -158,22 +160,17 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>1</sup> Les cours interentreprises comprennent 20 jours de cours, à raison de 8 heures de cours par jour.
 
-<sup>2</sup>
+<sup>2</sup> Les domaines de compétences opérationnelles 1 (Préparation, exécution des travaux et comptes rendus) et 3 (Sécurité au travail, protection de la santé et protection de l’environnement) sont enseignés dans tous les cours.
 
 Les jours et les contenus sont répartis sur 2 cours comme suit:
 
-- a. le cours 1 a lieu durant la 1<sup><sup>re</sup></sup> année d’apprentissage, comprend 10 jours et porte sur les compétences opérationnelles ci-après:
-- Exécuter des crépis de fond et des couches intermédiaires (1<sup><sup>re</sup></sup> partie),
-- Exécuter des crépis à l’intérieur et à l’extérieur (1<sup><sup>re</sup></sup> partie);
-- b.
-
-  le cours 2 a lieu durant le 3<sup><sup>e</sup></sup> semestre, comprend 10 jours et porte sur les compétences opérationnelles ci-après:
-
-  - [tab] exécuter des crépis de fond et des couches intermédiaires (2<sup><sup>e</sup></sup> partie),
-  - [tab] exécuter des crépis à l’intérieur et à l’extérieur (2<sup><sup>e</sup></sup> partie),
-  - [tab] monter des plaques de plâtre.
-
-- Les domaines de compétences opérationnelles 1 (Préparation, exécution des travaux et comptes rendus) et 3 (Sécurité au travail, protection de la santé et protection de l’environnement) sont enseignés dans tous les cours.
+- a. le cours 1 a lieu durant la 1re année d’apprentissage, comprend 10 jours et porte sur les compétences opérationnelles ci-après:
+- Exécuter des crépis de fond et des couches intermédiaires (1re partie),
+- Exécuter des crépis à l’intérieur et à l’extérieur (1re partie);
+- b. le cours 2 a lieu durant le 3e semestre, comprend 10 jours et porte sur les compétences opérationnelles ci-après:
+- exécuter des crépis de fond et des couches intermédiaires (2e partie),
+- exécuter des crépis à l’intérieur et à l’extérieur (2e partie),
+- monter des plaques de plâtre.
 
 <sup>3</sup> Aucun cours interentreprises n’a lieu durant le dernier semestre de la formation professionnelle initiale.
 
@@ -239,7 +236,7 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 **Rapport de formation**
 
-<sup>1</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il en discute avec la personne en formation au moins une fois par semestre.
+<sup>1</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il en discute avec la personne en formation au moins une fois par semestre.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
@@ -287,7 +284,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -443,6 +440,6 @@ Les organes responsables des cours interentreprises sont:
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup><sup>er</sup></sup> janvier 2015, les dispositions de l’al. 2 étant réservées.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1er janvier 2015, les dispositions de l’al. 2 étant réservées.
 
-<sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 16 à 22) entrent en vigueur le 1<sup><sup>er</sup></sup> janvier 2017.
+<sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 16 à 22) entrent en vigueur le 1er janvier 2017.
