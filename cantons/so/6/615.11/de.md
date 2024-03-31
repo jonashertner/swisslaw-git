@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-09-07
+version: 2024-04-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-07
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5315/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5315/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.01.2024)
+Vom 08.03.2016 (Stand 01.04.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -704,6 +704,7 @@ beschliesst:
 - b) den Einsatz technischer Hilfsmittel der Schifffahrtspolizei — 100-1'000
 - c) Verbrauchsmaterial — Selbstkosten
 - d) Videoauswertungen, Untersuchungen von Ausweisen, Mikrospuren und Glühlampen, kriminaltechnische Gutachten, Sargversiegelungen — 50-1'000
+- e) die Vernichtung von Daten — 200-1'000
 
 #### § 62
 
@@ -741,9 +742,13 @@ beschliesst:
 
 #### § 65
 
-**Motorfahrrad**
+**Motorfahrräder und Kleinmotorräder**
 
 <sup>1</sup> Die Gebühren für die technische Kontrolle eines Motorfahrrades betragen 120 Franken.
+
+<sup>2</sup> Die Gebühren für Geschwindigkeitskontrollen von Kleinmotorrädern nach Artikel 14 Buchstabe b Ziffer 1 der Verordnung über die technischen Anforderungen an Strassenfahrzeuge (VTS) vom 19. Juni 1995[^65-1], beispielsweise mittels Prüfrolle, betragen 50 Franken.
+
+[^65-1]: SR [741.41](https://db.clex.ch/link/Bund/741.41/de).
 
 #### § 66
 
@@ -813,11 +818,14 @@ beschliesst:
 
 #### § 72
 
-**Rayonverbot, Meldeauflagen und Polizeigewahrsam**
+**Rayonverbot, Meldeauflage, Polizeigewahrsam und Mobilfunklokalisierung**
 
 <sup>1</sup> Die Gebühren für Verfügungen über Rayonverbote, Meldeauflagen und Polizeigewahrsam (Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^72-1]) betragen 100-500 Franken.
 
+<sup>2</sup> Wird zum Vollzug einer Massnahme nach den Artikeln 23l-23o des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^72-2] eine Mobilfunklokalisierung angeordnet, kann der terroristische Gefährder zu teilweisem oder vollem Kostenersatz verpflichtet werden.
+
 [^72-1]: BGS [511.14](https://bgs.so.ch/data/511.14/de).
+[^72-2]: SR [120](https://db.clex.ch/link/Bund/120/de).
 
 #### § 73
 
@@ -2039,12 +2047,8 @@ beschliesst:
 
 <sup>1</sup> Die Spruchgebühr bei böswilliger oder mutwilliger Beschwerdeführung beträgt 100–3'000 Franken.
 
-KRB Nr. RG 0025b/2016 vom 8. März 2016.
-
 Dieser Beschluss unterliegt dem fakultativen Referendum.
 
-Die Referendumsfrist ist am 8. Juli 2016 unbenutzt abgelaufen.
-
-Inkrafttreten mit der Publikation im Amtsblatt am 15. Juli 2016.
+Die Referendumsfrist ist am .... unbenutzt abgelaufen. Publiziert im Amtsblatt vom ....
 
 GS 2016, 8
