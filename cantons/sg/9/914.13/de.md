@@ -4,13 +4,12 @@ number: "914.13"
 title: Verordnung über das Grundbuch
 short: VGB
 language: de
-version: 2020-06-01
-valid_until: 2024-03-31
-version_adopted: 2020-03-24
+version: 2024-04-01
+version_adopted: 2024-02-06
 adopted: 2014-01-07
 in_force: 2014-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/914.13"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2943/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2943/pdf_file"
 
 (VGB)
 
-vom 07.01.2014 (Stand 01.06.2020)
+vom 07.01.2014 (Stand 01.04.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -56,13 +55,7 @@ als Verordnung:[^ingress-3]
 
 #### Art. 3
 
-**Grundbuchführung**
-
-<sup>1</sup> Das Grundbuch wird informatisiert mit dem System TERRIS geführt. Die Abteilung Grundbuchaufsicht legt den Funktionsumfang fest.
-
-<sup>2</sup> Zusatzanwendungen, Schnittstellen und Programmänderungen bedürfen der Bewilligung der Abteilung Grundbuchaufsicht.
-
-<sup>3</sup> Das Departement des Innern schliesst mit den Anbietern Rahmenverträge über Bereitstellung, Betrieb und Unterhalt des Systems ab.
+**…**
 
 #### Art. 4
 
@@ -100,7 +93,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Daten des informatisierten Grundbuches, einschliesslich der elektronisch eingelesenen Belege, dürfen nur innerhalb der schweizerischen Landesgrenzen bearbeitet werden.
 
-<sup>2</sup> Das Grundbuchamt sichert die Daten jährlich auf Datenträgern und liefert diese der Abteilung Grundbuchaufsicht ab.
+<sup>2</sup> Das Grundbuchamt sichert die Daten jährlich auf Datenträgern und liefert diese der E-Government St.Gallen ab.
 
 #### Art. 8
 
@@ -132,15 +125,15 @@ als Verordnung:[^ingress-3]
 
 **Elektronischer Geschäftsverkehr a) Meldung (Art. 39 GBV; Art. 175bis EG-ZGB)**
 
-<sup>1</sup> Die politische Gemeinde, die den elektronischen Geschäftsverkehr für einen Grundbuchkreis zulässt, meldet dies der Abteilung Grundbuchaufsicht.
+<sup>1</sup> Die politische Gemeinde, die den elektronischen Geschäftsverkehr für einen Grundbuchkreis zulässt, meldet dies der E-Government St.Gallen.
 
-<sup>2</sup> Die Abteilung Grundbuchaufsicht führt das Verzeichnis der Grundbuchkreise, für die der elektronische Geschäftsverkehr zugelassen ist, und veröffentlicht dieses im Internet.
+<sup>2</sup> Die E-Government St.Gallen führt das Verzeichnis der Grundbuchkreise, für die der elektronische Geschäftsverkehr zugelassen ist, und veröffentlicht dieses im Internet.
 
 #### Art. 12
 
 **b) qualifizierte Zertifikate (Art. 44 Abs. 3 GBV)**
 
-<sup>1</sup> Die Abteilung Grundbuchaufsicht bestätigt:
+<sup>1</sup> Die E-Government St.Gallen bestätigt:
 
 - a) die Funktionsbezeichnung der Zertifikatinhaberin oder des Zertifikatinhabers;
 - b) die Bezeichnung der Organisation.
