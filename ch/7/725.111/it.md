@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 sulle strade nazionali (OSN)
 short: OSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: it
-version: 2024-01-01
+version: 2024-04-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240401-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240101/it"
 
 (OSN)
 
-del 7 novembre 2007 (Stato 1° gennaio 2024)
+del 7 novembre 2007 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -250,7 +250,7 @@ Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredat
 - e. i profili trasversali in scala 1:100;
 - f. le dimensioni principali delle opere di costruzione;
 - g. il rapporto tecnico comprese le misure complementari;
-- [tab] g<sup>bis</sup>.[^12-1] breve rapporto sul traffico lento, se del caso;
+- g<sup>bis</sup>.[^12-1] breve rapporto sul traffico lento, se del caso;
 - h. il piano di drenaggio;
 - i. il rapporto sull’impatto ambientale, 3<sup>a</sup> tappa;
 - j. la stima dei costi;
@@ -670,7 +670,7 @@ Le unità territoriali per l’esecuzione della manutenzione corrente e degli in
 
 #### Art. 50
 
-<sup>1</sup> Il DATEC emana istruzioni sulla sicurezza nelle gallerie. A tal fine si attiene alla direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004[^50-1], relativa ai requisiti minimi di sicurezza per le gallerie della Rete stradale transeuropea, o a una regolamentazione successiva.
+Il DATEC emana istruzioni sulla sicurezza nelle gallerie. A tal fine si attiene alla direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004[^50-1], relativa ai requisiti minimi di sicurezza per le gallerie della Rete stradale transeuropea, o a una regolamentazione successiva.
 
 [^50-1]: GU L 167 del 30.04.2004, pag. 39.
 
@@ -771,9 +771,9 @@ Allegato 1[^t-1]
 
 (art. 32)
 
-## Tratti realizzati dai Cantoni nel quadro del completamento della rete delle strade nazionali approvata (stato: 31 dicembre 2017)
+## Tratti realizzati dai Cantoni nel quadro del completamento della rete delle strade nazionali approvata (stato: 31 dicembre 2023)
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 100](https://fedlex.data.admin.ch/eli/oc/2024/100)).
 
 Legenda:
 
@@ -786,73 +786,64 @@ Legenda:
 ### 1. Elenco dei tratti in cantiere
 
 <table>
-<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th>Numero di corsie</th><th>Lunghezza (km) in cantiere</th></tr>
-<tr><td></td><td></td><td></td><td>Valais</td><td></td><td></td></tr>
-<tr><td>N09</td><td>2</td><td>55</td><td>Sierre–Gampel</td><td>2 + 2</td><td>8,0</td></tr>
-<tr><td>N09</td><td>2</td><td>56</td><td>Gampel–Brig-Glis</td><td>2 + 2</td><td>17,0</td></tr>
+<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th>Numero di corsie</th><th>Lun-ghezza (km) in cantiere</th></tr>
+<tr><td></td><td></td><td></td><td>Uri</td><td></td><td></td></tr>
+<tr><td>N04</td><td>2</td><td>09</td><td>Neue Axenstrasse Kantonsgrenze SZ–Flüelen (Sisikoner-Tunnel)</td><td>2</td><td>3,5</td></tr>
+<tr><td></td><td></td><td></td><td>Svitto</td><td></td><td></td></tr>
+<tr><td>N04</td><td>2</td><td>09</td><td>Neue Axenstrasse Anschluss Brunnen–Kantonsgrenze UR (Morschacher- und Sisikoner-Tunnel)</td><td>2</td><td>7,3</td></tr>
+<tr><td></td><td></td><td></td><td>Obvaldo</td><td></td><td></td></tr>
+<tr><td>N08</td><td>2</td><td>53</td><td>Lungern Nord–Giswil Süd</td><td>2</td><td>4,0</td></tr>
+<tr><td></td><td></td><td></td><td>Vallese</td><td></td><td></td></tr>
+<tr><td>N09</td><td>2</td><td>55</td><td>Sierre–Gampel</td><td>2+2</td><td>7,5</td></tr>
+<tr><td>N09</td><td>2</td><td>56</td><td>Gampel–Brig-Glis</td><td>2+2</td><td>5,5</td></tr>
 </table>
 
 ### 2. Elenco dei tratti in esercizio oggetto di lavori o pagamenti residui
 
 <table>
-<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th></th><th>Numero di corsie</th><th>Lunghezza (km)</th></tr>
-<tr><td></td><td></td><td></td><td>Zürich</td><td></td><td></td><td></td></tr>
-<tr><td>N04</td><td>1</td><td>06</td><td>Fildern–Knonau</td><td></td><td>2 + 2</td><td>13,4</td></tr>
-<tr><td>N1c</td><td>1</td><td>04</td><td>Bergermoos–Fildern</td><td></td><td>2 + 2</td><td>5,2</td></tr>
-<tr><td></td><td></td><td></td><td>Bern</td><td></td><td></td><td></td></tr>
-<tr><td>N16</td><td>2</td><td>02</td><td>Moutier Est–Court</td><td></td><td>2 / 2 + 2</td><td>7,8</td></tr>
-<tr><td>N05</td><td>2</td><td>09</td><td>Biel Ost (Längfeld)–Biel Süd (Brüggmoos)</td><td></td><td>2 + 2</td><td>7,1</td></tr>
-<tr><td>N16</td><td>2</td><td>03</td><td>Court–Loveresse</td><td></td><td>2 / 2 + 2</td><td>8,8</td></tr>
-<tr><td></td><td></td><td></td><td>Nidwalden</td><td></td><td></td><td></td></tr>
-<tr><td>N02</td><td>2</td><td>02</td><td>Obkirchen-Acheregg</td><td></td><td>2 / 2 + 2</td><td>1,8</td></tr>
-<tr><td>N08</td><td>2</td><td>01</td><td>Loppertunnel/Kirchenwaldtunnel Verbindungstunnel N8 an N2</td><td></td><td>2 + 2 2</td><td>2,0</td></tr>
-<tr><td></td><td></td><td></td><td>Fribourg</td><td></td><td></td><td></td></tr>
-<tr><td>N01</td><td>2</td><td>01</td><td>Cheyres–Cugy, y compris Domdidier, (mesure de compensation)</td><td></td><td>2 + 2</td><td>11,8</td></tr>
-<tr><td></td><td></td><td></td><td>Basel-Stadt</td><td></td><td></td><td></td></tr>
-<tr><td>N02</td><td>2</td><td>08</td><td>Wiese–Landesgrenze F</td><td>SN</td><td>2 + 2</td><td>2,8</td></tr>
-<tr><td></td><td></td><td></td><td>Aargau</td><td></td><td></td><td></td></tr>
-<tr><td>N1c</td><td>–</td><td>00</td><td>Flankierende Massnahmen</td><td></td><td>2</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Graubünden</td><td></td><td></td><td></td></tr>
-<tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Mezzaselva)</td><td></td><td>2</td><td>1,1</td></tr>
-<tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart-Klosters Selfranga (Umfahrung Küblis und Anschluss Küblis)</td><td></td><td>2</td><td>3,3</td></tr>
-<tr><td></td><td></td><td></td><td>Valais</td><td></td><td></td><td></td></tr>
-<tr><td>N09</td><td>2</td><td>54</td><td>Sion–Sierre (mesure de compensation)</td><td></td><td>2 + 2</td><td>12,1</td></tr>
-<tr><td>N09</td><td>2</td><td>55</td><td>Sierre-Gampel</td><td></td><td>2 + 2</td><td>7,5</td></tr>
-<tr><td></td><td></td><td></td><td>Vaud</td><td></td><td></td><td></td></tr>
-<tr><td>N01</td><td>2</td><td>07</td><td>Yverdon–Arrissoules (Frontière FR)</td><td></td><td>2 + 2</td><td>12,2</td></tr>
-<tr><td>N05</td><td>2</td><td>02</td><td>Frontière NE–Arnon</td><td></td><td>2 + 2</td><td>8,6</td></tr>
-<tr><td></td><td></td><td></td><td>Neuchâtel</td><td></td><td></td><td></td></tr>
-<tr><td>N05</td><td>2</td><td>04</td><td>Serrières–Areuse (Contournement de Serrières)</td><td></td><td>2 + 2</td><td>1,7</td></tr>
-<tr><td></td><td></td><td></td><td>Jura</td><td></td><td></td><td></td></tr>
-<tr><td>N16</td><td>2</td><td>02</td><td>Frontière F–Porrentruy Ouest</td><td></td><td>2/2 + 2</td><td>13,7</td></tr>
-<tr><td>N16</td><td>2</td><td>08</td><td>Delémont Est–Frontière BE</td><td></td><td>2/2 + 2</td><td>4,9</td></tr>
+<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th></th><th>Numero di corsie</th><th>Lun-ghezza (km)</th></tr>
+<tr><td></td><td></td><td></td><td>Zurigo</td><td></td><td></td><td></td></tr>
+<tr><td>N04</td><td>1</td><td>06</td><td>Fildern–Knonau</td><td></td><td>2 + 2</td><td colspan="2">13,4</td></tr>
+<tr><td>N1c</td><td>1</td><td>04</td><td>Bergermoos–Fildern</td><td></td><td>2 + 2</td><td colspan="2">5,2</td></tr>
+<tr><td></td><td></td><td></td><td>Berna</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N05</td><td>2</td><td>09</td><td>Biel Ost (Längfeld)–Biel Süd (Brüggmoos)</td><td></td><td>2 + 2</td><td colspan="2">7,1</td></tr>
+<tr><td>N16</td><td>2</td><td>03</td><td>Court–Loveresse</td><td></td><td>2 / 2 + 2</td><td colspan="2">8,8</td></tr>
+<tr><td></td><td></td><td></td><td>Friburgo</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N01</td><td>2</td><td>01</td><td>Cheyres–Cugy, Domdidier, (mesure de compensation)</td><td></td><td>2 + 2</td><td colspan="2">11,8</td></tr>
+<tr><td></td><td></td><td></td><td>Basilea Città</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N02</td><td>2</td><td>08</td><td>Wiese–Landesgrenze F</td><td>SN</td><td>2 + 2</td><td colspan="2">2,8</td></tr>
+<tr><td></td><td></td><td></td><td>Grigioni</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Umfahrung Küblis)</td><td></td><td>2</td><td colspan="2">3,3</td></tr>
+<tr><td></td><td></td><td></td><td>Vallese</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N09</td><td>2</td><td>54</td><td>Sion–Sierre (mesure de compensation)</td><td></td><td>2 + 2</td><td colspan="2">12,1</td></tr>
+<tr><td>N09</td><td>2</td><td>55</td><td>Sierre–Gampel</td><td></td><td>2 + 2</td><td colspan="2">8,0</td></tr>
+<tr><td>N09</td><td>2</td><td>56</td><td>Gampel–Brig-Glis</td><td></td><td>2 + 2</td><td colspan="2">11,5</td></tr>
+<tr><td></td><td></td><td></td><td>Vaud</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N01</td><td>2</td><td>07</td><td>Yverdon–Arrissoules (Frontière FR)</td><td></td><td>2 + 2</td><td colspan="2">12,2</td></tr>
+<tr><td>N05</td><td>2</td><td>02</td><td>Frontière NE–Arnon</td><td></td><td>2 + 2</td><td colspan="2">8,6</td></tr>
+<tr><td></td><td></td><td></td><td>Neuchâtel</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N05</td><td>2</td><td>04</td><td>Serrières–Areuse (Contournement de Serrières)</td><td></td><td>2 + 2</td><td colspan="2">1,7</td></tr>
+<tr><td></td><td></td><td></td><td>Giura</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N16</td><td>2</td><td>02</td><td>Frontière F–Porrentruy Ouest</td><td></td><td>2/2 + 2</td><td colspan="2">13,7</td></tr>
+<tr><td>N16</td><td>2</td><td>08</td><td>Delémont Est–Frontière BE</td><td></td><td>2/2 + 2</td><td colspan="2">4,9</td></tr>
 </table>
 
 ### 3. Elenco dei tratti non ancora iniziati
 
 <table>
-<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th></th><th>Numero di corsie</th><th>Lunghezza (km)</th></tr>
-<tr><td></td><td></td><td></td><td>Zürich</td><td></td><td></td><td></td></tr>
-<tr><td>N01</td><td>2</td><td>01</td><td>Hardturm–Verkehrsdreieck Letten</td><td>SN</td><td>3 + 3</td><td>2,8</td></tr>
-<tr><td>N01</td><td>2</td><td>02</td><td>Stadttunnel Letten–Irchel</td><td>SN</td><td>3 + 3</td><td>0,7</td></tr>
-<tr><td>N03</td><td>2</td><td>01</td><td>Letten–Sihlhölzli</td><td>SN</td><td>3 + 3</td><td>2,6</td></tr>
-<tr><td></td><td></td><td></td><td>Bern</td><td></td><td></td><td></td></tr>
-<tr><td>N05</td><td>2</td><td>08</td><td>Biel Süd (Brüggmoos)–Biel West (See-Vorstadt)</td><td></td><td>2 + 2</td><td>5,2</td></tr>
-<tr><td>N05</td><td>2</td><td>01</td><td>Zubringer rechtes Bielerseeufer (Porttunnel)</td><td>SN</td><td>2</td><td>2,2</td></tr>
-<tr><td>N05</td><td>2</td><td>08</td><td>Biel West–Rusel (Umfahrung Vingelz)</td><td></td><td>2</td><td>2,7</td></tr>
-<tr><td>N05</td><td>3</td><td>09</td><td>Anschluss Biel Nord</td><td></td><td>2 + 2</td><td>0,3</td></tr>
-<tr><td>N08</td><td>2/3</td><td>09</td><td>Brienzwiler Ost–Kantonsgrenze OW (Brünigtunnel/Passstrasse)</td><td>G</td><td>2</td><td>5,9</td></tr>
-<tr><td></td><td></td><td></td><td>Uri</td><td></td><td></td><td></td></tr>
-<tr><td>N04</td><td>2</td><td>09</td><td>Neue Axenstrasse Kantonsgrenze SZ–Flüelen (Sisikoner-Tunnel)</td><td></td><td>2</td><td>3,5</td></tr>
-<tr><td></td><td></td><td></td><td>Schwyz</td><td></td><td></td><td></td></tr>
-<tr><td>N04</td><td>2</td><td>09</td><td>Neue Axenstrasse Anschluss Brunnen–Kantonsgrenze UR (Morschacher- und Sisikoner-Tunnel)</td><td></td><td>2</td><td>7,3</td></tr>
-<tr><td></td><td></td><td></td><td>Obwalden</td><td></td><td></td><td></td></tr>
-<tr><td>N08</td><td>3</td><td>51</td><td>Brünig Kantonsgrenze BE–Lungern Süd (Brünigtunnel/Passstrasse)</td><td>G</td><td>2</td><td>4,8</td></tr>
-<tr><td>N08</td><td>2</td><td>53</td><td>Lungern Nord–Giswil Süd</td><td></td><td>2</td><td>4,0</td></tr>
-<tr><td></td><td></td><td></td><td>Basel-Stadt</td><td></td><td></td><td></td></tr>
-<tr><td>N02</td><td>2</td><td>07</td><td>Zubringer Bahnhof SBB–Gellertdreieck</td><td>SN</td><td>2 + 2</td><td>2,0</td></tr>
-<tr><td></td><td></td><td></td><td>Graubünden</td><td></td><td></td><td></td></tr>
-<tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Jenaz–Dalvazza)</td><td></td><td>2</td><td>2,9</td></tr>
+<tr><th>N</th><th>Cl.</th><th>Sez.</th><th>Denominazione</th><th></th><th>Numero di corsie</th><th>Lun-ghezza (km)</th></tr>
+<tr><td></td><td></td><td></td><td>Berna</td><td></td><td></td><td></td></tr>
+<tr><td>N05</td><td>2</td><td>08</td><td>Biel Süd (Brüggmoos)–Biel West (See-Vorstadt)</td><td></td><td>2 + 2</td><td colspan="2">5,2</td></tr>
+<tr><td>N05</td><td>2</td><td>01</td><td>Zubringer rechtes Bielerseeufer (Porttunnel)</td><td>SN</td><td>2</td><td colspan="2">2,2</td></tr>
+<tr><td>N05</td><td>2</td><td>08</td><td>Biel West–Rusel (Umfahrung Vingelz)</td><td></td><td>2</td><td colspan="2">2,7</td></tr>
+<tr><td>N05</td><td>3</td><td>09</td><td>Anschluss Biel Nord</td><td></td><td>2 + 2</td><td colspan="2">0,3</td></tr>
+<tr><td>N08</td><td>2/3</td><td>09</td><td>Brienzwiler Ost–Kantonsgrenze OW (Brünigtunnel/Passstrasse)</td><td>G</td><td>2</td><td colspan="2">5,9</td></tr>
+<tr><td></td><td></td><td></td><td>Obvaldo</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N08</td><td>3</td><td>51</td><td>Brünig Kantonsgrenze BE–Lungern Süd (Brünigtunnel/Passstrasse)</td><td>G</td><td>2</td><td colspan="2">4,8</td></tr>
+<tr><td></td><td></td><td></td><td>Basilea Città</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N02</td><td>2</td><td>07</td><td>Zubringer Bahnhof SBB–Gellertdreieck</td><td>SN</td><td>2 + 2</td><td colspan="2">2,0</td></tr>
+<tr><td></td><td></td><td></td><td>Grigioni</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Jenaz–Dalvazza)</td><td></td><td>2</td><td colspan="2">2,9</td></tr>
 </table>
 
 Allegato 2[^t-2]
