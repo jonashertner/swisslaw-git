@@ -4,13 +4,12 @@ number: "331.11"
 title: Gesetz über den Justizvollzug
 short: JUVG
 language: de
-version: 2021-11-01
-valid_until: 2024-03-31
-version_adopted: 2020-11-04
+version: 2024-04-01
+version_adopted: 2023-11-07
 adopted: 2013-11-13
 in_force: 2014-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/331.11"
-pdf: "https://bgs.so.ch/api/de/versions/5141/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5141/pdf_file"
 
 (JUVG)
 
-Vom 13.11.2013 (Stand 01.11.2021)
+Vom 13.11.2013 (Stand 01.04.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -416,17 +415,21 @@ beschliesst:
 - b) Vollzug von Kontakt- und Rayonverboten gemäss Strafgesetzbuch, Bundesgesetz über das Jugendstrafrecht (Jugendstrafgesetz, JStG) vom 20. Juni 2003[^16ter-2] und MStG[^16ter-3];
 - c) Überwachung von Ersatzmassnahmen gemäss Strafprozessordnung[^16ter-4];
 - d) elektronische Überwachung gemäss ZGB[^16ter-5];
-- e) Überwachung von Weisungen und Auflagen gemäss § 7 Absatz 2 Buchstabe a<sup>quinquies</sup>.
+- e) Überwachung von Weisungen und Auflagen gemäss § 7 Absatz 2 Buchstabe a<sup>quinquies</sup>;
+- f) elektronische Überwachung gemäss Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^16ter-6].
 
 <sup>2</sup> Die Aufzeichnungen gemäss Absatz 1 Buchstaben a, b, c und e müssen, sofern sie nicht im Rahmen eines Straf-, Zivil- oder Verwaltungsverfahrens beigezogen worden sind, spätestens ein Jahr nach der Aufzeichnung vernichtet oder überschrieben werden. Aufzeichnungen gemäss Absatz 1 Buchstabe d sind spätestens 12 Monate nach dem Ende der Massnahme zu vernichten oder zu überschreiben.
 
-<sup>3</sup> Der Regierungsrat legt den Kostenrahmen für den Vollzug der elektronischen Überwachung gemäss ZGB unter Berücksichtigung der für die elektronische Überwachung im Bereich des Strafvollzugs geltenden Ansätze in einer Verordnung fest.
+<sup>3</sup> Der Regierungsrat legt den Kostenrahmen für den Vollzug der elektronischen Überwachung gemäss ZGB[^16ter-7] und BWIS[^16ter-8] unter Berücksichtigung der für die elektronische Überwachung im Bereich des Strafvollzugs geltenden Ansätze in einer Verordnung fest.
 
 [^16ter-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 [^16ter-2]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de).
 [^16ter-3]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de).
 [^16ter-4]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 [^16ter-5]: SR [210](https://db.clex.ch/link/Bund/210/de).
+[^16ter-6]: SR [120](https://db.clex.ch/link/Bund/120/de).
+[^16ter-7]: SR [210](https://db.clex.ch/link/Bund/210/de).
+[^16ter-8]: SR [120](https://db.clex.ch/link/Bund/120/de).
 
 #### § 17
 
@@ -938,14 +941,8 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann in einer Verordnung international, national oder interkantonal anerkannte Richtlinien, wie insbesondere die Richtlinien des Konkordats, als verbindlich erklären.
 
-KRB Nr. RG 113/2013 vom 13. November 2013.
-
 Dieser Beschluss unterliegt dem fakultativen Referendum.
 
-Die Referendumsfrist ist am 28. Februar 2014 unbenutzt abgelaufen.
-
-Inkrafttreten am 1. Juli 2014.
-
-Publiziert im Amtsblatt vom 21. März 2014.
+Die Referendumsfrist ist am ....... unbenutzt abgelaufen. Publiziert im Amtsblatt vom.......
 
 GS 2013, 49
