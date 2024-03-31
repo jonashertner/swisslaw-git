@@ -3,18 +3,18 @@ sr: "412.101.221.72"
 title: Ordinanza della SEFRI del 20 settembre 2011 sulla formazione professionale di base Pittrice di scenari/Pittore di scenari con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/810"
 language: it
-version: 2023-08-01
+version: 2024-04-01
 adopted: 2011-09-20
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2011-810-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-810-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Pittrice di scenari/Pittore di scenari con attestato federale di capacità (AFC)
 
-del 20 settembre 2011 (Stato 1° agosto 2023)[^t-1]
+del 20 settembre 2011 (Stato 1° aprile 2024)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
 
@@ -24,14 +24,15 @@ del 20 settembre 2011 (Stato 1° agosto 2023)[^t-1]
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-4]
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -113,9 +114,11 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Gli aspetti specifici della professione inerenti allo sviluppo sostenibile sono trasmessi in tutti i luoghi di formazione.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -168,7 +171,7 @@ Il piano di formazione stabilisce inoltre:
 
 <sup>4</sup> Al piano di formazione è allegato l’elenco della documentazione concernente l’attuazione della formazione professionale di base con indicazione di titolo, data e centro di distribuzione.
 
-[^8-1]: Il piano del 7 giu. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z.
+[^8-1]: Il piano del 7 giu. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 [^8-2]: Nuovo testo giuta il n. I dell’O della SEFRI del 7 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 #### Art. 9
