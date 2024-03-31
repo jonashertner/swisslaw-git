@@ -3,18 +3,18 @@ sr: "412.101.222.23"
 title: Ordonnance du SEFRI du 11 octobre 2016 sur la formation professionnelle initiale de spécialiste en communication hôtelière avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/615"
 language: fr
-version: 2020-01-01
+version: 2024-04-01
 adopted: 2016-10-11
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-615-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-615-20240401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de spécialiste en communication hôtelière avec certificat fédéral de capacité (CFC)\*
 
-du 11 octobre 2016 (Etat le 1<sup>er</sup> janvier 2020)[^t-1]
+du 11 octobre 2016 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 11 octobre 2016 (Etat le 1<sup>er</sup> janvier 2020)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 166 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 166 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -41,7 +42,7 @@ arrête:*[^ingress-4]*
 
 Les spécialistes en communication hôtelière de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les connaissances, les aptitudes et les comportements ci-après:
 
-- a. ils sont amenés à travailler dans les différents secteurs d’une entreprise hôtelière (cuisine, étage, restaurant, réception/back-office); ils connaissent les bases de ces services et leurs interactions ; ils sont cependant affectés principalement au front-office et sont directement en contact avec la clientèle; dans ce contexte, ils s’identifient à la philosophie de leur entreprise et savent se mettre à l’écoute des clients;
+- a. ils sont amenés à travailler dans les différents secteurs d’une entreprise hôtelière (cuisine, étage, restaurant, réception/back-office); ils connaissent les bases de ces services et leurs interactions; ils sont cependant affectés principalement au front-office et sont directement en contact avec la clientèle; dans ce contexte, ils s’identifient à la philosophie de leur entreprise et savent se mettre à l’écoute des clients;
 - b. ils encadrent et conseillent les clients de façon pertinente et les informent de manière appropriée dans trois langues; ce faisant, ils respectent les différences culturelles et veillent à leur présentation;
 - c. ils communiquent de manière convaincante tout en se montrant aimables, ouverts et attentionnés et sont à même d’adapter leur langage à la situation; à cette fin, ils mettent en pratique leurs connaissances dans le domaine des nouveaux médias;
 - d. ils conçoivent et organisent des mesures en relation avec l’encadrement des clients; pour pouvoir mener à bien les tâches de coordination et assurer les contacts avec les clients et les partenaires, ils appliquent leurs connaissances de base dans les domaines du marketing et de la gestion (comptabilité et gestion des ressources humaines);
@@ -126,11 +127,12 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 166 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -423,7 +425,7 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 
 La Commission suisse pour le développement de la profession et la qualité de la formation desspécialistes en communication hôtelière CFC (commission) comprend:
 
-- a. six représentants de Hotel & Gastro *format**i**on*;
+- a. six représentants de Hotel & Gastro *formation*;
 - b. un représentant des enseignants des connaissances professionnelles;
 - c. au moins un représentant de la Confédération et au moins un représentant des cantons.
 
@@ -445,7 +447,7 @@ Elle est notamment chargée des tâches suivantes:
 
 **Organe responsable et organisation des cours interentreprises**
 
-<sup>1</sup> L’organe responsable des cours interentreprises est Hotel & Gastro *format**i**on*.
+<sup>1</sup> L’organe responsable des cours interentreprises est Hotel & Gastro *formation*.
 
 <sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
 
