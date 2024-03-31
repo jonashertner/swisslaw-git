@@ -4,13 +4,13 @@ number: "153.741"
 title: "Verfügung über die Delegation von Zuständigkeiten der Baudirektion in den nachfolgend definierten Bereichen: Natur- und Heimatschutz an das Amt für Raum und Verkehr; Baurecht an das Amt für Raum und Verkehr bzw. an alle Ämter der Baudirektion; Wasserrecht, Gewässerschutz, Kehrichtbeseitigung, Schutz des ökologischen Gleichgewichts, Energiebeiträge an das Amt für Umwelt; Bewilligungen zur Personenbeförderung und zur Abgabe von Stellungnahmen zu Konzessionsgesuchen des Bundesamts für Verkehr an das Amt für Raum und Verkehr"
 short: Delegationsverfügung der Baudirektion
 language: de
-version: 2022-04-02
-valid_until: 2024-03-31
-version_adopted: 2022-03-29
+version: 2024-04-01
+valid_until: 2026-07-31
+version_adopted: 2024-03-26
 adopted: 2003-05-12
 in_force: 2003-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.741"
-pdf: "https://bgs.zg.ch/api/de/versions/2326/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2326/pdf_file"
 
 (Delegationsverfügung der Baudirektion)
 
-Vom 12. Mai 2003 (Stand 2. April 2022)
+Vom 12. Mai 2003 (Stand 1. April 2024)
 
 Die Baudirektion des Kantons Zug,
 
@@ -57,7 +57,7 @@ verfügt:
 
 <sup>1</sup> Die Befugnisse der Baudirektion im Submissionsrecht werden wie folgt delegiert:
 
-- a) Das Amt, das die Vergabe vorbereitet, bestimmt die Verfahrensart (§ 41 Abs. 1 Bst. c der Submissionsverordnung vom 20. September 2005, SubV[^Ziff3-1]). Im Rahmen der Anweisungsberechtigung können die Abteilungen und Mitarbeitenden die Verfahrensart selber bestimmen.
+- a) Das Amt, das die Vergabe vorbereitet, bestimmt die Verfahrensart (§ 6 Abs. 1 Bst. c der Submissionsverordnung vom 20. Februar 2024, SubV[^Ziff3-1]). Im Rahmen der Anweisungsberechtigung können die Abteilungen und Mitarbeitenden die Verfahrensart selber bestimmen.
 - b) Die Zuschlagskompetenzen der Ämter, Abteilungen und Mitarbeitenden ergeben sich aus der Anweisungsberechtigung.
 
 <sup>2</sup> Die Befugnis der Baudirektion zur Kreditfreigabe, zur Einholung von verwaltungsexternen Gutachten und zur Verabschiedung der Schlussabrechnung wird im Rahmen der Anweisungsberechtigung an die Amtsleitung bzw. die stellvertretende Amtsleitung delegiert, welche das Projekt führt.
@@ -92,7 +92,8 @@ verfügt:
 - b) Verfügung betreffend Rückerstattung von Kosten für die notwendigen Untersuchungsmassnahmen gemäss Art. 32d Abs. 5 USG;
 - c) Verfügung betreffend Sicherstellung der Kostendeckung nach Art. 32d<sup>bis</sup> Abs. 1 und 2 USG;
 - d) Bewilligung zur Veräusserung oder Teilung eines im Kataster der belasteten Standorte (KbS) eingetragenen Grundstücks gemäss Art. 32d<sup>bis</sup> Abs. 3 USG;
-- e) Verfügung betreffend Auszahlung von Förderbeiträgen im Rahmen des Gebäudeprogramms bis zu 1500 Franken.
+- e) Verfügung betreffend Auszahlung von Förderbeiträgen im Rahmen des Gebäudeprogramms bis zu 1500 Franken;
+- f) Verfügungen betreffend Ausfallkosten nach Art. 32d Abs. 3 USG.
 
 [^Ziff6a-1]: BGS [811.1](https://bgs.zg.ch/data/811.1/de)
 [^Ziff6a-2]: BGS [153.3](https://bgs.zg.ch/data/153.3/de)
