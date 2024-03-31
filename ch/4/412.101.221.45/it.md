@@ -3,18 +3,18 @@ sr: "412.101.221.45"
 title: Ordinanza della SEFRI del 1° ottobre 2010 sulla formazione professionale di base Calzolaia/Calzolaio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/782"
 language: it
-version: 2018-10-15
+version: 2024-04-01
 adopted: 2010-10-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/782/20181015/it/xml/fedlex-data-admin-ch-eli-cc-2010-782-20181015-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/782/20181015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/782/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2010-782-20240401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/782/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza della SEFRI**** sulla formazione professionale di base Calzolaia/Calzolaio con attestato federale di capacità (AFC)
+# Ordinanza della SEFRI sulla formazione professionale di base Calzolaia/Calzolaio con attestato federale di capacità (AFC)
 
-del 1° ottobre 2010 (Stato 15 ottobre 2018)[^t-1]
+del 1° ottobre 2010 (Stato 1° aprile 2024)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
@@ -24,14 +24,15 @@ del 1° ottobre 2010 (Stato 15 ottobre 2018)[^t-1]
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-4]
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 set. 2018, in vigore dal 15 ott. 2018 ([RU 2018 3323](https://fedlex.data.admin.ch/eli/oc/2018/538)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 set. 2018, in vigore dal 15 ott. 2018 ([RU 2018 3323](https://fedlex.data.admin.ch/eli/oc/2018/538)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -117,11 +118,12 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^7-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 set. 2018, in vigore dal 15 ott. 2018 ([RU 2018 3323](https://fedlex.data.admin.ch/eli/oc/2018/538)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -166,7 +168,7 @@ Il piano di formazione:
 
 <sup>4</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.[^10-5]
 
-[^10-1]: Il piano del 1° ottobre 2010 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.amin.ch &gt; Professioni A–Z.
+[^10-1]: Il piano del 1° ottobre 2010 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 [^10-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 set. 2018, in vigore dal 15 ott. 2018 ([RU 2018 3323](https://fedlex.data.admin.ch/eli/oc/2018/538)).
 [^10-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4837](https://fedlex.data.admin.ch/eli/oc/2017/519)).
 [^10-4]: Abrogato dal n. I dell’O della SEFRI del 14 ago. 2017, con effetto dal 1° gen. 2018 ([RU 2017 4837](https://fedlex.data.admin.ch/eli/oc/2017/519)).
@@ -180,7 +182,7 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 
 [^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda****
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
 [^sec6-1]
 
@@ -218,7 +220,7 @@ I requisiti professionali sono soddisfatti se il formatore possiede una delle se
 
 [^13-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 14 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4837](https://fedlex.data.admin.ch/eli/oc/2017/519)).
 
-## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni****
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
@@ -280,7 +282,7 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 - a. secondo le disposizioni della presente ordinanza;
 - b. in un istituto di formazione autorizzato dal Cantone; o
-- a. al di fuori di un ciclo di formazione regolamentato, se
+- c. al di fuori di un ciclo di formazione regolamentato, se
   - 1\. ha maturato l’esperienza professionale di cui all’articolo 32 OFPr,
   - 2\. di tale esperienza professionale ha svolto almeno tre anni nel campo del calzolaio AFC,
   - 3\. rende verosimile il possesso dei requisiti per l’esame finale (art. 19).
@@ -346,7 +348,7 @@ Per nota dei luoghi di formazione si intende la media arrotondata a un decimale 
 
 <sup>2</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente la scuola professionale, resta valida la nota dei luoghi di formazione conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento professionale, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
 
-- [tab] <sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
+<sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
 
 #### Art. 22
 
@@ -377,7 +379,7 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 - a. la nota complessiva;
 - b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 22 capoverso 1, la nota dei luoghi di formazione.
 
-## Sezione 10: Sviluppo della qualità e organizzazione****
+## Sezione 10: Sviluppo della qualità e organizzazione
 
 [^sec10-1]
 
