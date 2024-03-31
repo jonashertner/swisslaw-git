@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2022-04-01
+version: 2024-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20240401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/fr"
 
 (ORT)
 
-du 19 juin 1995 (État le 1<sup>er</sup> avril 2022)
+du 19 juin 1995 (État le 1<sup>er</sup> avril 2024)
 
 Le Conseil fédéral suisse,
 
@@ -103,9 +103,9 @@ Une fiche de données est délivrée en lieu et place d’une réception par typ
 
 <sup>1</sup> Les véhicules et châssis importés pour un usage personnel sont dispensés de la réception par type et peuvent être annoncés directement à l’autorité cantonale d’immatriculation.[^4-1]
 
-<sup>1bis</sup> ...[^4-2]
+<sup>1bis</sup> …[^4-2]
 
-<sup>2</sup> ...[^4-3]
+<sup>2</sup> …[^4-3]
 
 <sup>3</sup> En ce qui concerne les constructeurs suisses, sont dispensés de la réception par type, par année, cinq véhicules ou châssis du même type, au maximum, de la même variante ou de la même version émanant de leur propre production.[^4-4]
 
@@ -551,9 +551,9 @@ Lorsque des circonstances particulières le justifient, l’office fédéral peu
 L’office fédéral peut majorer l’émolument, selon le tarif de l’annexe 3, de 50 % au plus, notamment lorsque:
 
 - a.[^37-1] à la demande dûment motivée du requérant, les actes sont traités exceptionnellement à titre prioritaire;
-- b.[^37-2] ...
+- b.[^37-2] …
 - c. le temps consacré au traitement administratif des documents est particulièrement élevé;
-- d.[^37-3] ...
+- d.[^37-3] …
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)).
 [^37-2]: Abrogée par le ch. I de l’O du 6 sept. 2000, avec effet au 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
@@ -674,7 +674,7 @@ Annexe 1[^t-1]
 
 ## Véhicules et objets soumis à la réception par type
 
-[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) et le ch. II al. 1 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Erratum du 5 fév. 2019 ([RO 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)) et du 17 déc. 2021, ne concerne que le texte italien ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), le ch. II al. 1 de l’O du 21 nov. 2018 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)) et le ch. III de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 Sont soumis à la réception par type les véhicules et objets suivants, fabriqués en série:
 
@@ -729,9 +729,10 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
 
   - – le signal de panne (triangle de présignalisation);
   - – les clignoteurs de direction;
-  - – les avertisseurs acoustiques, tant les obligatoires que les facultatifs;
+  - – les avertisseurs acoustiques, tant obligatoires que facultatifs.
   - [tab] Font exception:
-  - – les clignoteurs de direction des cycles.
+  - – les clignoteurs de direction des cycles;
+  - – les systèmes d’avertissement acoustique visant à garantir l’audibilité des véhicules (art. 82, al. 1<sup>bis</sup>, OETV).
 
 - 2\.3
 

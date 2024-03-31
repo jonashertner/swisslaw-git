@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2022-04-01
+version: 2024-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20240401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 1. April 2022)
+vom 19. Juni 1995 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -438,7 +438,7 @@ Wird bei der ersten Stichprobe festgestellt, dass der Prüfgegenstand nicht dem 
 
 [^chap3a-1]
 
-[^chap3a-1]: Titel eingefügt durch Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
+[^chap3a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
 #### Art. 31
 
@@ -674,7 +674,7 @@ Anhang 1[^t-1]
 
 ## Der Typengenehmigung unterstehende Gegenstände
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) und Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Die Berichtigung vom 5. Febr. 2019 betrifft nur den italienischen Text ([AS 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)). Die Änd. vom 17. Dez. 2021, in Kraft seit 1. April 2022 betrifft nur den italienischen Text ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)) und Ziff. III der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmigung:
 
@@ -731,7 +731,8 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Richtungsblinker;
   - – obligatorische und fakultative akustische Warnvorrichtungen.
   - [tab] Ausgenommen sind:
-  - – Richtungsblinker von Fahrrädern.
+  - – Richtungsblinker von Fahrrädern;
+  - – akustische Fahrzeug-Warnsysteme zur Sicherstellung der Hörbarkeit (Art. 82 Abs. 1bis VTS).
 
 - 2\.3
 

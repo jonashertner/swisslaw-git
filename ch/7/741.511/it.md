@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 concernente l'approvazione del tipo di veic
 short: OATV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: it
-version: 2022-04-01
+version: 2024-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20240401/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/it"
 
 (OATV)
 
-del 19 giugno 1995 (Stato 1° aprile 2022)
+del 19 giugno 1995 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -62,8 +62,8 @@ Ai sensi della presente ordinanza s’intendono per:
 - n.[^2-9] certificazione della conformità: attestazione scritta, sulla base di un rapporto d’esame di un organo estero, che l’oggetto in questione corrisponde alle prescrizioni svizzere.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
-[^2-2]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-3]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: Nuova espresione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^2-4]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-5]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-6]: Introdotta dal n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
@@ -83,7 +83,7 @@ Ai sensi della presente ordinanza s’intendono per:
 
 <sup>2</sup> A richiesta possono essere rilasciate approvazioni del tipo anche per altri oggetti.[^3-2]
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^3-2]: Introdotto dal n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 3a
@@ -676,7 +676,7 @@ Allegato 1[^t-1]
 
 ## Veicoli e oggetti che sottostanno all’approvazione del tipo
 
-[^t-1]: Aggiornata dal n. II cpv. 1 dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. I dell’O del 3 lug. 2002 ([RU 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dall’art. 29 cpv. 2 n. 5 dell’O del 29 nov. 2002 concernente il trasporto di merci pericolose su strada ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), dal n. I dell’O del 29 mar. 2006 ([RU 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. I dell’O del 29 nov. 2013 ([RU 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), dai n. I e II dell’O del 15 apr. 2015 ([RU 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), dal n. I dell’O del 16 nov. 2016 ([RU 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), dal n. II cpv. 1 dell’O del 21 nov. 2018 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)), dalla correzione del 5 feb. 2019 ([RU 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)) e dal n. III dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. I dell’O del 3 lug. 2002 ([RU 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dall’art. 29 cpv. 2 n. 5 dell’O del 29 nov. 2002 concernente il trasporto di merci pericolose su strada ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), dal n. I dell’O del 29 mar. 2006 ([RU 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. I dell’O del 29 nov. 2013 ([RU 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), dai n. I e II dell’O del 15 apr. 2015 ([RU 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), dal n. I dell’O del 16 nov. 2016 ([RU 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), dal n. II cpv. 1 dell’O del 21 nov. 2018 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)), dalla correzione del 5 feb. 2019 ([RU 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)), dal n. III delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)) e del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati in serie:
 
@@ -725,12 +725,16 @@ Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati
   - – luci gialle di cui agli articoli 120*a* lettera a e 193 capoverso 1 lettera s OETV;
   - – luci e catarifrangenti di monopattini elettrici e ciclomotori leggeri; agli indicatori di direzione lampeggianti si applica il numero 2.2.
 
-- 2\.2 Dispositivi di segnalazione
+- 2\.2
+
+  Dispositivi di segnalazione:
+
   - – segnale di veicolo fermo (triangolo);
   - – indicatori di direzione lampeggianti;
   - – avvisatori acustici obbligatori e facoltativi.
   - [tab] Fanno eccezione:
-  - – indicatori di direzione lampeggianti di velocipedi.
+  - – indicatori di direzione lampeggianti di velocipedi;
+  - – sistemi di avviso acustico volti ad assicurare l’udibilità dei veicoli (art. 82 cpv. 1<sup>bis</sup> OETV).
 
 - 2\.3
 
@@ -788,7 +792,7 @@ Allegato 3[^t-3]
 
 ## Emolumenti
 
-[^t-3]: Aggiornata dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dall’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
+[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dall’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
 <table>
 <tr><td>1</td><td>Emolumenti per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
@@ -823,8 +827,8 @@ Allegato 3[^t-3]
 
 Allegato 4[^t-4]
 
-[^t-4]: Abrogata dal n. II cpv. 3 dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^t-4]: Abrogato dal n. II cpv. 3 dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
 Allegato 5[^t-5]
 
-[^t-5]: Abrogata dal n. II cpv. 3 dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+[^t-5]: Abrogato dal n. II cpv. 3 dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
