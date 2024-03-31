@@ -4,13 +4,12 @@ number: "490.000"
 title: Gesetz über die Aktenführung und Archivierung
 short: GAA
 language: de
-version: 2016-11-01
-valid_until: 2024-03-31
-version_adopted: 2016-04-19
+version: 2024-04-01
+version_adopted: 2023-10-16
 adopted: 2015-08-28
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2729/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2729/pdf_file"
 
 (GAA)
 
-Vom 28.08.2015 (Stand 01.11.2016)
+Vom 28.08.2015 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -88,6 +87,14 @@ beschliesst:
 <sup>1</sup> Unterlagen müssen vollständig, verlässlich und verständlich sein und sind systematisch zu verwalten.
 
 <sup>2</sup> Die Hilfsmittel für die Unterlagenverwaltung berücksichtigen die Anforderungen der Archivierung.
+
+#### Art. 5a
+
+**Trägerwandel**
+
+<sup>1</sup> Die Behörden können in Papierform eingereichte Akten in digitale Akten umwandeln und umgekehrt.
+
+<sup>2</sup> Die Regierung regelt, unter welchen Anforderungen digital eingelesene Versionen von physisch eingereichten Unterlagen als Originale gelten.
 
 #### Art. 6
 

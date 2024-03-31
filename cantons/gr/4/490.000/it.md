@@ -4,13 +4,12 @@ number: "490.000"
 title: "Legge sulla gestione degli atti e sull'archiviazione"
 short: LGAA
 language: it
-version: 2016-11-01
-valid_until: 2024-03-31
-version_adopted: 2016-04-19
+version: 2024-04-01
+version_adopted: 2023-10-16
 adopted: 2015-08-28
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/490.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2729/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3361/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2729/pdf_file"
 
 (LGAA)
 
-del 28.08.2015 (stato 01.11.2016)
+del 28.08.2015 (stato 01.04.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -88,6 +87,14 @@ decide:
 <sup>1</sup> I documenti devono essere completi, affidabili e comprensibili e vanno gestiti in modo sistematico.
 
 <sup>2</sup> I mezzi ausiliari per la gestione dei documenti tengono conto dei requisiti posti all'archiviazione.
+
+#### Art. 5a
+
+**Cambio del supporto**
+
+<sup>1</sup> Le autorità possono trasformare atti inoltrati in formato cartaceo in atti digitali e viceversa.
+
+<sup>2</sup> Il Governo disciplina le condizioni alle quali le versioni digitalizzate di documenti inoltrati in formato cartaceo sono considerate originali.
 
 #### Art. 6
 

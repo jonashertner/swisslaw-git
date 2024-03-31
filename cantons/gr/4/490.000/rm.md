@@ -4,13 +4,12 @@ number: "490.000"
 title: "Lescha davart la gestiun da documents e l'archivaziun"
 short: LGDA
 language: rm
-version: 2016-11-01
-valid_until: 2024-03-31
-version_adopted: 2016-04-19
+version: 2024-04-01
+version_adopted: 2023-10-16
 adopted: 2015-08-28
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/490.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2729/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2729/pdf_file"
 
 (LGDA)
 
-dals 28-08-2015 (versiun dals 01-11-2016)
+dals 28-08-2015 (versiun dals 01-04-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -88,6 +87,14 @@ concluda:
 <sup>1</sup> Ils documents ston esser cumplets, fidads e chapaivels e ston vegnir administrads en moda sistematica.
 
 <sup>2</sup> Ils meds d'agid per administrar ils documents observan las pretensiuns da l'archivaziun.
+
+#### Art. 5a
+
+**Transfurmaziun dal purtader**
+
+<sup>1</sup> Las autoritads pon transfurmar actas inoltradas sin palpiri en actas digitalas e viceversa.
+
+<sup>2</sup> La Regenza regla, sut tge premissas che versiuns digitalisadas da documents inoltrads en furma fisica valan sco originals.
 
 #### Art. 6
 
