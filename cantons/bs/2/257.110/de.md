@@ -3,13 +3,13 @@ canton: BS
 number: "257.110"
 title: Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-12-12
+version: 2024-04-01
+valid_until: 2025-05-14
+version_adopted: 2024-03-12
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6095/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6095/pdf_file"
 
 Strafprozess / Rechtshilfe / Opferhilfe
 
-Vom 21. Dezember 2010 (Stand 1. Januar 2024)
+Vom 21. Dezember 2010 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -47,7 +47,7 @@ beschliesst:
 
 <sup>3</sup> Die Vorsteherinnen und die Vorsteher der Departemente legen in einem Reglement[^2-1] fest, welche Verwaltungsbehörden mit Ermittlungsbefugnis ihres Departements welche Übertretungen verfolgen.
 
-[^2-1]: Justiz- und Sicherheitsdepartement: Weisung über die Zuständigkeit betreffend die Ermittlungsverfahren bei Übertretungen (Reglement) vom 1. 10. 2021. Diese Weisung kann eingesehen werden unter: [https://www.jsd.bs.ch/dam/jcr:f9c86fe6-25e7-4369-9e43-3f5da8951949/211001\_Verfahrensweisung.pdf](https://www.jsd.bs.ch/dam/jcr:f9c86fe6-25e7-4369-9e43-3f5da8951949/211001_Verfahrensweisung.pdf)
+[^2-1]: Justiz- und Sicherheitsdepartement: Weisung über die Zuständigkeit betreffend die Ermittlungsverfahren bei Übertretungen (Reglement) vom 1. 10. 2021. Diese Weisung kann eingesehen werden unter: [https://media.bs.ch/original\_file/27d2ff2b96ef5d25a5d7764ef827602388e210e2/20211001-weisungen-jsd-zustaendigkeit-ermittlungsverfahren.pdf](https://media.bs.ch/original_file/27d2ff2b96ef5d25a5d7764ef827602388e210e2/20211001-weisungen-jsd-zustaendigkeit-ermittlungsverfahren.pdf)
 
 #### § 2a
 
