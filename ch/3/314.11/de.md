@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2024-01-01
+version: 2024-04-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Januar 2024)
+vom 16. Januar 2019 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Anhang 1[^t-1]
 
 ## Bussenliste 1
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) und vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) und vom 17. Dez. 2021, in Kraft seit 1. April 2024 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 
@@ -548,8 +548,8 @@ Anhang 1[^t-1]
 <tr><td>1. die erforderliche Glocke bei Motorfahrrädern (Art. 178*b* Abs. 1, 179*b* Abs. 2, 181*a* Abs. 4 VTS)</td><td colspan="3">20</td></tr>
 <tr><td>2. fest angebrachte Rückstrahler (Art. 178*a* Abs. 2 und 217 Abs. 1 VTS)</td><td colspan="3">40</td></tr>
 <tr><td>3. den erforderlichen Rückspiegel bei Motorfahrrädern (Art. 179*b* Abs. 1 VTS)</td><td colspan="3">20</td></tr>
+<tr><td>4. den erforderlichen Geschwindigkeitsmesser (Art. 178*b* Abs. 3 und 222*q* VTS)</td><td colspan="3">20</td></tr>
 <tr><td>704. Mangelhafter Zustand des Reifens (Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS) pro Rad</td><td colspan="3">20</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>8. Mitfahrerinnen und Mitfahrer</td><td colspan="3"></td></tr>

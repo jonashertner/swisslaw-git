@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2024-01-01
+version: 2024-04-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240101/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 1° gennaio 2024)
+del 16 gennaio 2019 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -58,7 +58,7 @@ Se l’imputato commette un’infrazione alle prescrizioni della circolazione st
 
 L’ordinanza del 4 marzo 1996[^3-1] concernente le multe disciplinari è abrogata.
 
-[^3-1]: [[RU 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078), [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)n. II 1, [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)n. III [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 2, [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498), [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192), [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287)[3210](https://fedlex.data.admin.ch/eli/oc/2002/480)[4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 1, [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470), [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580), [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260), [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694), [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712), [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258), [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824), [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273)[2449](https://fedlex.data.admin.ch/eli/oc/2015/459), [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
+[^3-1]: [[RU 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078); [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)n. II 1; [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)n. III, [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 2; [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498); [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192); [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287), [3210](https://fedlex.data.admin.ch/eli/oc/2002/480), [4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 1; [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470); [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580); [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260); [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694); [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712); [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258); [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824); [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273), [2449](https://fedlex.data.admin.ch/eli/oc/2015/459); [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
 
 #### Art. 4
 
@@ -84,7 +84,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle multe 1
 
-[^t-1]: Aggiornato dal n. I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Aggiornato dal n. I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2024 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Contravvenzioni secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 
@@ -548,6 +548,7 @@ Allegato 1[^t-1]
 <tr><td>1. campanello necessario per ciclomotori (art. 178*b* cpv. 1, 179*b* cpv. 2 e 181a cpv. 4 OETV)</td><td colspan="2">20</td></tr>
 <tr><td>2. catarifrangente fissato stabilmente (art. 178*a* cpv. 2 e 217 cpv. 1 OETV)</td><td colspan="2">40</td></tr>
 <tr><td>3. specchio retrovisore necessario per ciclomotori (art. 179*b* cpv. 1 OETV)</td><td colspan="2">20</td></tr>
+<tr><td>4. il tachimetro richiesto (art. 178*b* cpv. 3 e 222*q* OETV)</td><td colspan="2">20</td></tr>
 <tr><td>704. Pneumatico difettoso (art. 175 cpv. 1, 178 cpv. 2 e 214 cpv. 1 OETV), per ruota</td><td colspan="2">20</td></tr>
 <tr><td>8. Passeggeri</td><td colspan="2"></td></tr>
 <tr><td>800. Omissione di</td><td colspan="2"></td></tr>
@@ -600,137 +601,137 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dal n. II 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)),) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dal n. II 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
 <table>
-<tr><th colspan="2"></th><th colspan="2">Fr.</th></tr>
-<tr><td colspan="2">I. Legge federale del 16 dicembre 2005[^annex2-lvlu1-lvlu1-1] sugli stranieri e la loro integrazione (LStrI)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1001. Violazione dell’obbligo di cooperare all’acquisizione di documenti d’identità (art. 120 cpv. 1 lett. e LStrI)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td colspan="2">II. Legge del 26 giugno 1998[^annex2-lvlu1-lvlu1-2] sull’asilo (LAsi)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td colspan="2">III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td colspan="2">IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td colspan="2">V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td colspan="2">[tab] 20</td></tr>
-<tr><td colspan="2">5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td colspan="2">[tab] 300</td></tr>
-<tr><td colspan="2">VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td colspan="2"></td></tr>
-<tr><td>6001. Utilizzo di una strada nazionale di prima o di seconda classe senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 6*a*–7*a* e 8 LUSN).</td><td colspan="2">200</td></tr>
-<tr><td>6002. Utilizzo di una strada nazionale di prima o di seconda classe con il contrassegno adesivo necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 6*a*, 7 e 8 LUSN).</td><td colspan="2">200</td></tr>
-<tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-8] sulla navigazione interna (LNI)</td><td colspan="2"></td></tr>
-<tr><td>**1.** **Disposizioni amministrative**</td><td colspan="2">[tab]</td></tr>
-<tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td colspan="2"></td></tr>
-<tr><td>1. Omissione di tenere a bordo la licenza di condurre necessaria (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
-<tr><td>2. Omissione di tenere a bordo la licenza di navigazione o il documento d’ammissione (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
-<tr><td>3. Omissione di tenere a bordo il documento sulla manutenzione relativa ai gas di scarico (art. 48 LNI, art. 14 cpv. 3 DE‑OMBat[^annex2-lvlu1-lvlu1-11])</td><td colspan="2">20</td></tr>
-<tr><td>7101. 1. Omissione dell’annuncio tempestivo di tutto ciò che richiede modifiche o aggiunte oppure la sostituzione o il nuovo rilascio della licenza di condurre o del documento d’ammissione (art. 48 LNI, art. 85 cpv. 2 e 98 cpv. 2 ONI, art. 14.07 RNC)</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>2. Omissione di annunciare entro il termine il trasferimento di domicilio al nuovo Cantone di domicilio (art. 48 LNI, art. 84 cpv. 3 ONI, art. 12.07 RNC)</td><td colspan="2">20</td></tr>
-<tr><td>7102. Condotta o prestito senza licenza di navigazione o documento di ammissione, senza contrassegni o con contrassegni falsi di un battello soggetto all’obbligo di essere provvisto di un contrassegno e non soggetto all’obbligo d’assicurazione (art. 46 e 48 LNI, art. 16 cpv. 1, 92 e 157 ONI, art. 2.01 e 14.01 cpv. 1 e 4 RNC)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>7103. Omissione dell’applicazione oppure applicazione non conforme alle prescrizioni dei contrassegni (art. 48 LNI, art. 16 cpv. 1 e 17 ONI, art. 2.01 e 2.02 RNC)</td><td colspan="2">[tab] 40</td></tr>
-<tr><td>7104. Omissione dell’apposizione o apposizione non conforme del nome ai natanti la cui lunghezza è inferiore a 2,50 m, alle imbarcazioni da spiaggia e ad altri natanti simili, alle canoe, ai natanti da competizione per regate, alle tavole a vela e ai kite surf e altri natanti non soggetti all’obbligo di essere provvisti di un contrassegno (art. 48 LNI, art. 16 cpv. 3 e 163 cpv. 3 ONI; art. 2.01 cpv. 1 RNC)</td><td colspan="2">[tab] 40</td></tr>
-<tr><td>7105. Messa in servizio o stazionamento senza autorizzazione di natanti con luogo di stazionamento all’estero (art. 46 LNI, art. 105 ONI)</td><td colspan="2">[tab] 50</td></tr>
-<tr><td>7106. Superamento del termine per il controllo periodico dei gas di scarico o dei sistemi di filtri antiparticolato di più di tre mesi ma non più di sei mesi (art. 48 LNI, art. 17 lett. a n. 4 OMBat[^annex2-lvlu1-lvlu1-12], art. 8 cpv. 2 DE‑OMBat)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>2. Disposizioni sullo stazionamento</td><td colspan="2"></td></tr>
-<tr><td>7200. Stazionamento</td><td colspan="2"></td></tr>
-<tr><td>1. nelle zone di vegetazione acquatica (canneti, giunchi e ninfee) (art. 48 LNI, art. 59 cpv. 1 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>2. nelle strettoie, nei passi navigabili come pure in prossimità e sotto i ponti (art. 48 LNI, art. 70 ONI, art. 10.12 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7201. Ormeggio ai segnali della via navigabile (art. 40 cpv. 1 LNI in combinato disposto con art. 9 cpv. 1 ONI o art. 1.08 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7202. Inosservanza dei segnali di divieto A7–A9 di cui all’allegato 4 ONI o A.4–A.6 di cui all’allegato B RNC (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI o art. 5.01 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7203. Superamento del tempo di stazionamento segnalato (art. 40 cpv. 1 LNI in combinato disposto con l’art. 36 cpv. 1 ONI o art. 5.01 cpv. 1 RNC)</td><td colspan="2"></td></tr>
-<tr><td>1. fino a 2 ore</td><td colspan="2">40</td></tr>
-<tr><td>2. più di 2 ore, ma non più di 4 ore</td><td colspan="2">60</td></tr>
-<tr><td>3. più di 4 ore, ma non più di 10 ore</td><td colspan="2">100</td></tr>
-<tr><td>7204. Stazionamento di un natante all’esterno di un luogo di stazionamento autorizzato durante un periodo da 24 a 48 ore, senza nessuno a bordo (art. 40 cpv. 1 LNI, art. 59 cpv. 4 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>7205. Stazionamento non autorizzato di una nave fuori dei porti, degli imbarcaderi e di qualsiasi altra istallazione per la navigazione durante un periodo da 24 a 48 ore (art. 40 cpv. 1 LNI, art. 7.01 cpv. 1 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>3. Segnali a vista</td><td colspan="2"></td></tr>
-<tr><td>7300. Omissione di portare i segnali a vista prescritti o porto di segnali a vista non ammessi nello stazionamento (art. 40 cpv. 1 LNI, art. 18, 21 cpv. 1 e 26, 28, 29 e 71 ONI o art. 3.03 e 3.08 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7301. Pesca professionale</td><td colspan="2"></td></tr>
-<tr><td>1. Omissione di portare il pallone o il fanale gialli durante la posa o il ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>2. Omissione di portare il pallone bianco durante la pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>3. Porto del pallone o del fanale gialli al di fuori della posa o del ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>4. Porto del pallone bianco al di fuori della pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI, art. 3.10 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7302. Pesca con la sciabica</td><td colspan="2"></td></tr>
-<tr><td>1. Omissione di portare il pallone bianco durante la pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>2. Omissione di portare la bandiera bianca durante la pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>3. Porto del pallone bianco al di fuori della pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>4. Porto della bandiera bianca al di fuori della pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7303. Omissione di mostrare la segnalazione prescritta (lettera «A» del codice internazionale dei segnali) durante le immersioni oppure illuminazione inefficace della segnalazione di notte (art. 40 cpv. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>4. Disposizioni sulla navigazione</td><td colspan="2"></td></tr>
-<tr><td>7401. Inosservanza della distanza di sicurezza nei confronti di battelli con precedenza e di imbarcazioni di pescatori professionisti che portano i segnali prescritti (art. 40 cpv. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7402. Navigazione in prossimità delle rive</td><td colspan="2"></td></tr>
-<tr><td>1. Navigazione longitudinale vietata con battello a motore nella zona rivierasca o a meno di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. a ONI, art. 6.11 cpv. 1 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>2. Navigazione longitudinale vietata con battello a motore o nella zona rivierasca, ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.11 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>3. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive interne o a meno di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. b ONI, art. 6.11 cpv. 1 RNC)</td><td colspan="2">150</td></tr>
-<tr><td>4. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive esterne (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. b ONI)</td><td colspan="2">100</td></tr>
-<tr><td>5. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive, , ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.11 cpv. 1 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>6. Navigazione o sosta non autorizzata in prossimità dell’imboccatura di un porto (art. 40 cpv. 1 LNI, art. 52 cpv. 2 ONI, art. 6.10 cpv. 3 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7. Inosservanza della distanza minima nelle zone di vegetazione acquatica quali canneti, giunchi e ninfee (art. 40 cpv. 1 LNI, art. 53 cpv. 3 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>7403. Navigazione in uno specchio d’acqua in cui è vietata qualsiasi navigazione</td><td colspan="2"></td></tr>
-<tr><td>1. con battelli a vela o a motore, tavole a vela o kite surf (art. 40 cpv. 1 LNI, art. 37 cpv. 1 ONI, art. 5.01 cpv. 1 e allegato B RNC)</td><td colspan="2">100</td></tr>
-<tr><td>2. con battelli a remi, canotti pneumatici, imbarcazioni a pagaia o imbarcazioni da spiaggia (art. 40 cpv. 1 LNI, art. 37 cpv. 1 ONI, art. 5.01 cpv. 1 e allegato B RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7404. Navigazione non ammessa in uno specchio d’acqua in cui la navigazione è vietata per certe categorie di natanti</td><td colspan="2"></td></tr>
-<tr><td>1. con battelli a vela o a motore, tavole a vela o kite surf (art. 40 cpv. 1 LNI, art. 37 cpv. 2 ONI, art. 5.01 cpv. 1, allegato B e art. 16.02 cpv. 5 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>2. con battelli a remi, canotti pneumatici, imbarcazioni a pagaia o imbarcazioni da spiaggia (art. 40 cpv. 1 LNI, art. 37 cpv. 2 ONI, art. 5.01 cpv. 1, allegato B e art. 16.02 cpv. 5 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7405. Navigazione con natanti di lunghezza inferiore a 2,50 m, imbarcazioni da spiaggia e altri natanti simili o altri natanti non soggetti all’obbligo di essere provvisti di un contrassegno fuori dalla zona rivierasca interna o a una distanza di più di 150 m dai natanti che li accompagnano (art. 40 cpv. 1 LNI in combinato disposto con art. 42 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>7406. Pratica dello sci nautico o impiego di attrezzature similari</td><td colspan="2"></td></tr>
-<tr><td>1. in orari vietati (art. 40 cpv. 1 LNI, art. 54 cpv. 1 ONI, art. 6.15 cpv. 1 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>2. nella zona rivierasca esterna (art. 40 cpv. 1 LNI, art. 54 cpv. 2 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>3. nella zona rivierasca, ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.15 cpv. 2 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>4. traino simultaneo di più di due sciatori nautici o di attrezzature (art. 40 cpv. 1 LNI, art. 54 cpv. 5 ONI, art. 6.15 cpv. 5 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>5. traino a vuoto del cavo di traino o utilizzo di un cavo elastico (art. 40 cpv. 1 LNI, art. 54 cpv. 4 ONI, art. 6.15 cpv. 4 RNC)</td><td colspan="2">60</td></tr>
-<tr><td>6. uso non ammesso di aquascooter, jet bike e simili costruzioni galleggianti (art. 40 cpv. 1 LNI, disposizioni cantonali oppure art. 6.15 cpv. 7 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7407. Omissione di portare gli oggetti dell’attrezzatura e i mezzi di salvataggio prescritti oppure porto di tali oggetti e mezzi non pronti all’uso (art. 48 LNI, art. 131 cpv. 2, 134 cpv. 4 e 134*a* ONI, art. 13.19 e 13.20 RNC)</td><td colspan="2"></td></tr>
-<tr><td>1. per oggetto dell’attrezzatura</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>2. per mezzo di salvataggio</td><td colspan="2">[tab] 50</td></tr>
-<tr><td>7408. Trasporto di un numero di persone superiore a quello indicato nella licenza di navigazione (art. 46 LNI, art. 7 cpv. 1 e 3 ONI, art. 1.05 cpv. 3 RNC)</td><td colspan="2">60</td></tr>
-<tr><td>7409. Inosservanza dei segnali di divieto A1–A6 e A10–A13 secondo l’allegato 4 ONI o A.1–A.3 e A.7–A.12 secondo l’allegato B RNC (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI, art. 5.01 cpv. 1 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7410. Superamento di non più di 15 km/h della velocità massima segnalata o della velocità massima generale valida sul lago di Costanza (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI, art. 5.01 e 6.02 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7411. Superamento di non più di 15 km/h della velocità massima cantonale generale (art. 3 cpv. 2 e 40 LNI)</td><td colspan="2">100</td></tr>
-<tr><td>5. Balneazione e immersione</td><td colspan="2"></td></tr>
-<tr><td>7501. Balneazione</td><td colspan="2"></td></tr>
-<tr><td>1. nella fascia situata entro i 100 m dalle entrate dei porti e dei luoghi di stazionamento dei battelli per passeggeri, al di fuori degli specchi d’acqua autorizzati ufficialmente e segnalati come tali (art. 40 cpv. 1 LNI, art. 77 cpv. 1 ONI, art. 11.04 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>2. nella fascia situata entro i 100 m dalle entrate dei porti, al di fuori degli specchi d’acqua autorizzati ufficialmente e segnalati come tali, se la navigazione ne risulta ostacolata oppure compromessa (art. 40 cpv. 1 LNI, art. 77 cpv. 1 ONI, art. 11.04 cpv. 1 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7502. Avvicinamento a nuoto non autorizzato ai natanti in movimento (art. 40 cpv. 1 LNI, art. 77 cpv. 2 ONI, art. 11.04 cpv. 3 RNC)</td><td colspan="2">50</td></tr>
-<tr><td>7503. Immersioni subacquee sulla rotta dei battelli in servizio regolare, nelle strettoie, alle entrate dei porti e nelle loro vicinanze, nelle vicinanze dei luoghi di stazionamento autorizzati ufficialmente oppure entro un raggio di 100 m dai luoghi di stazionamento autorizzati ufficialmente dei battelli in servizio regolare (art. 40 cpv. 1 LNI in combinato disposto con art. 77 cpv. 3 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>7504. Immersione in un canale di navigazione segnalato (art. 40 cpv. 1 LNI, art. 11.04 cpv. 2 RNC)</td><td colspan="2">100</td></tr>
-<tr><td>7505. Inosservanza del segnale di divieto A14 di cui all’allegato 4 ONI (art. 40 cpv. 1 LNI in combinato disposto con art. 36 cpv. 1 ONI)</td><td colspan="2">50</td></tr>
-<tr><td>7506. Impiego non autorizzato di scooter da immersione (art. 40 cpv. 1 LNI, art. 54*a* cpv. 1 e 2 ONI)</td><td colspan="2">100</td></tr>
-<tr><td>VIII. Legge del 3 ottobre 1971[^annex2-lvlu1-lvlu1-13] sugli stupefacenti (LStup)</td><td colspan="2"></td></tr>
-<tr><td>8001. Consumo non autorizzato e intenzionale di stupefacenti del tipo della canapa (art. 19*a* n. 1 LStup)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-14] sulla protezione dell’ambiente (LPAmb)</td><td colspan="2"></td></tr>
-<tr><td>9001. Utilizzo di un punto di raccolta dei materiali riciclabili al di fuori degli orari d’esercizio prescritti (art. 61 cpv. 1 lett. a, art. 12 cpv. 1 lett. C LPAmb)</td><td colspan="2">[tab] 50</td></tr>
-<tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-15])</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-16] concernente la protezione contro il fumo passivo</td><td colspan="2"></td></tr>
-<tr><td>10001. Fumare in locali chiusi accessibili al pubblico (art. 2 cpv. 1 e 5 cpv. 1 lett. a della LF concernente la protezione contro il fumo passivo)</td><td colspan="2">[tab] 80</td></tr>
-<tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-17] (LFo)</td><td colspan="2"></td></tr>
-<tr><td>11001. Inosservanza delle limitazioni d’accesso a determinate zone forestali (art. 14 cpv. 2 lett. a e 43 cpv. 1 lett. c LFo)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>11002. Circolazione non autorizzata con veicoli a motore in foresta o su strade forestali (art. 15 e 43 cpv. 1 lett. d LFo)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>XII. Legge del 20 giugno 1986[^annex2-lvlu1-lvlu1-18] sulla caccia (LCP)</td><td colspan="2"></td></tr>
-<tr><td>12001. Entrare, senza un motivo sufficiente, in una zona di caccia muniti di un’arma da tiro (art. 18 cpv. 1 lett. b e cpv. 3 LCP)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>12002. Lasciare cacciare cani (art. 18 cpv. 1 lett. d e cpv. 3 LCP)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12003. Accedere a o circolare in zone di tranquillità per la selvaggina al di fuori dei percorsi e sentieri utilizzabili (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 4<sup>ter</sup> OCP[^annex2-lvlu1-lvlu1-19])</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12004. Inosservanza dell’obbligo di tenere i cani al guinzaglio in zone di tranquillità per la selvaggina, in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c OBAF[^annex2-lvlu1-lvlu1-20]) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c ORUAM[^annex2-lvlu1-lvlu1-21])</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12005. Piantare tende o campeggiare in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. e OBAF)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12006. Circolazione di aeromobili civili senza occupanti in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12007. Attività sciatoria fuori delle strade, delle piste e degli itinerari segnalati in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g OBAF)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12008. Circolazione non autorizzata su strade alpestri e forestali nonché impiego di veicoli di qualsiasi tipo fuori delle strade e dei percorsi agricoli e forestali nelle bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. h OBAF)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12009. Pratica del kitesurf o impiego di attrezzature analoghe come pure pratica del modellismo navale in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g ORUAM)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12010. Foraggiamento di animali selvatici e posa di lecche saline in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>12011. Omissione di recare seco i documenti prescritti durante la caccia (art. 18 cpv. 4 LCP) per documento mancante</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>XIII. Legge federale del 21 giugno 1991[^annex2-lvlu1-lvlu1-22] sulla pesca (LFSP)</td><td colspan="2"></td></tr>
-<tr><td>13001. Pesca di pesci o gamberi durante il periodo protetto (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 1 cpv. 1–3 OLFP[^annex2-lvlu1-lvlu1-23], per pesce o gambero</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>13002. Inosservanza della lunghezza minima del pescato (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2 cpv. 1 e 4 OLFP), per pesce o gambero</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>13003. Inosservanza dei divieti di pesca (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2*a* OLFP), per pesce o gambero</td><td colspan="2">[tab] 150</td></tr>
-<tr><td>XIV. Legge federale del 23 marzo 2001[^annex2-lvlu1-lvlu1-24] sul commercio ambulante</td><td colspan="2"></td></tr>
-<tr><td>14001. Esercizio del commercio ambulante senza autorizzazione (art. 14 cpv. 1 lett. b e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 20</td></tr>
-<tr><td>XV. ...</td><td colspan="2"></td></tr>
-<tr><td>XVI. ...</td><td colspan="2">[tab]</td></tr>
-<tr><td>**XVII.** **...**</td><td colspan="2">[tab]</td></tr>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>I. Legge federale del 16 dicembre 2005[^annex2-lvlu1-lvlu1-1] sugli stranieri e la loro integrazione (LStrI)</td><td></td></tr>
+<tr><td>1001. Violazione dell’obbligo di cooperare all’acquisizione di documenti d’identità (art. 120 cpv. 1 lett. e LStrI)</td><td>[tab] 100</td></tr>
+<tr><td>II. Legge del 26 giugno 1998[^annex2-lvlu1-lvlu1-2] sull’asilo (LAsi)</td><td></td></tr>
+<tr><td>2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td>[tab] 200</td></tr>
+<tr><td>III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td></td></tr>
+<tr><td>3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td>[tab] 200</td></tr>
+<tr><td>IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td></td></tr>
+<tr><td>4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td>[tab] 100</td></tr>
+<tr><td>V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td></td></tr>
+<tr><td>5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td>[tab] 20</td></tr>
+<tr><td>5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td>[tab] 300</td></tr>
+<tr><td>VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td></td></tr>
+<tr><td>6001. Utilizzo di una strada nazionale di prima o di seconda classe senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 6*a*–7*a* e 8 LUSN).</td><td>200</td></tr>
+<tr><td>6002. Utilizzo di una strada nazionale di prima o di seconda classe con il contrassegno adesivo necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 6*a*, 7 e 8 LUSN).</td><td>200</td></tr>
+<tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-8] sulla navigazione interna (LNI)</td><td></td></tr>
+<tr><td>**1.** **Disposizioni amministrative**</td><td>[tab]</td></tr>
+<tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
+<tr><td>1. Omissione di tenere a bordo la licenza di condurre necessaria (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
+<tr><td>2. Omissione di tenere a bordo la licenza di navigazione o il documento d’ammissione (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
+<tr><td>3. Omissione di tenere a bordo il documento sulla manutenzione relativa ai gas di scarico (art. 48 LNI, art. 14 cpv. 3 DE‑OMBat[^annex2-lvlu1-lvlu1-11])</td><td>20</td></tr>
+<tr><td>7101. 1. Omissione dell’annuncio tempestivo di tutto ciò che richiede modifiche o aggiunte oppure la sostituzione o il nuovo rilascio della licenza di condurre o del documento d’ammissione (art. 48 LNI, art. 85 cpv. 2 e 98 cpv. 2 ONI, art. 14.07 RNC)</td><td>[tab] 20</td></tr>
+<tr><td>2. Omissione di annunciare entro il termine il trasferimento di domicilio al nuovo Cantone di domicilio (art. 48 LNI, art. 84 cpv. 3 ONI, art. 12.07 RNC)</td><td>20</td></tr>
+<tr><td>7102. Condotta o prestito senza licenza di navigazione o documento di ammissione, senza contrassegni o con contrassegni falsi di un battello soggetto all’obbligo di essere provvisto di un contrassegno e non soggetto all’obbligo d’assicurazione (art. 46 e 48 LNI, art. 16 cpv. 1, 92 e 157 ONI, art. 2.01 e 14.01 cpv. 1 e 4 RNC)</td><td>[tab] 100</td></tr>
+<tr><td>7103. Omissione dell’applicazione oppure applicazione non conforme alle prescrizioni dei contrassegni (art. 48 LNI, art. 16 cpv. 1 e 17 ONI, art. 2.01 e 2.02 RNC)</td><td>[tab] 40</td></tr>
+<tr><td>7104. Omissione dell’apposizione o apposizione non conforme del nome ai natanti la cui lunghezza è inferiore a 2,50 m, alle imbarcazioni da spiaggia e ad altri natanti simili, alle canoe, ai natanti da competizione per regate, alle tavole a vela e ai kite surf e altri natanti non soggetti all’obbligo di essere provvisti di un contrassegno (art. 48 LNI, art. 16 cpv. 3 e 163 cpv. 3 ONI; art. 2.01 cpv. 1 RNC)</td><td>[tab] 40</td></tr>
+<tr><td>7105. Messa in servizio o stazionamento senza autorizzazione di natanti con luogo di stazionamento all’estero (art. 46 LNI, art. 105 ONI)</td><td>[tab] 50</td></tr>
+<tr><td>7106. Superamento del termine per il controllo periodico dei gas di scarico o dei sistemi di filtri antiparticolato di più di tre mesi ma non più di sei mesi (art. 48 LNI, art. 17 lett. a n. 4 OMBat[^annex2-lvlu1-lvlu1-12], art. 8 cpv. 2 DE‑OMBat)</td><td>[tab] 100</td></tr>
+<tr><td>2. Disposizioni sullo stazionamento</td><td></td></tr>
+<tr><td>7200. Stazionamento</td><td></td></tr>
+<tr><td>1. nelle zone di vegetazione acquatica (canneti, giunchi e ninfee) (art. 48 LNI, art. 59 cpv. 1 ONI)</td><td>100</td></tr>
+<tr><td>2. nelle strettoie, nei passi navigabili come pure in prossimità e sotto i ponti (art. 48 LNI, art. 70 ONI, art. 10.12 RNC)</td><td>100</td></tr>
+<tr><td>7201. Ormeggio ai segnali della via navigabile (art. 40 cpv. 1 LNI in combinato disposto con art. 9 cpv. 1 ONI o art. 1.08 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>7202. Inosservanza dei segnali di divieto A7–A9 di cui all’allegato 4 ONI o A.4–A.6 di cui all’allegato B RNC (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI o art. 5.01 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>7203. Superamento del tempo di stazionamento segnalato (art. 40 cpv. 1 LNI in combinato disposto con l’art. 36 cpv. 1 ONI o art. 5.01 cpv. 1 RNC)</td><td></td></tr>
+<tr><td>1. fino a 2 ore</td><td>40</td></tr>
+<tr><td>2. più di 2 ore, ma non più di 4 ore</td><td>60</td></tr>
+<tr><td>3. più di 4 ore, ma non più di 10 ore</td><td>100</td></tr>
+<tr><td>7204. Stazionamento di un natante all’esterno di un luogo di stazionamento autorizzato durante un periodo da 24 a 48 ore, senza nessuno a bordo (art. 40 cpv. 1 LNI, art. 59 cpv. 4 ONI)</td><td>100</td></tr>
+<tr><td>7205. Stazionamento non autorizzato di una nave fuori dei porti, degli imbarcaderi e di qualsiasi altra istallazione per la navigazione durante un periodo da 24 a 48 ore (art. 40 cpv. 1 LNI, art. 7.01 cpv. 1 RNC)</td><td>100</td></tr>
+<tr><td>3. Segnali a vista</td><td></td></tr>
+<tr><td>7300. Omissione di portare i segnali a vista prescritti o porto di segnali a vista non ammessi nello stazionamento (art. 40 cpv. 1 LNI, art. 18, 21 cpv. 1 e 26, 28, 29 e 71 ONI o art. 3.03 e 3.08 RNC)</td><td>100</td></tr>
+<tr><td>7301. Pesca professionale</td><td></td></tr>
+<tr><td>1. Omissione di portare il pallone o il fanale gialli durante la posa o il ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td>50</td></tr>
+<tr><td>2. Omissione di portare il pallone bianco durante la pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td>50</td></tr>
+<tr><td>3. Porto del pallone o del fanale gialli al di fuori della posa o del ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>4. Porto del pallone bianco al di fuori della pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI, art. 3.10 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>7302. Pesca con la sciabica</td><td></td></tr>
+<tr><td>1. Omissione di portare il pallone bianco durante la pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td>50</td></tr>
+<tr><td>2. Omissione di portare la bandiera bianca durante la pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td>50</td></tr>
+<tr><td>3. Porto del pallone bianco al di fuori della pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td>50</td></tr>
+<tr><td>4. Porto della bandiera bianca al di fuori della pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td>50</td></tr>
+<tr><td>7303. Omissione di mostrare la segnalazione prescritta (lettera «A» del codice internazionale dei segnali) durante le immersioni oppure illuminazione inefficace della segnalazione di notte (art. 40 cpv. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
+<tr><td>4. Disposizioni sulla navigazione</td><td></td></tr>
+<tr><td>7401. Inosservanza della distanza di sicurezza nei confronti di battelli con precedenza e di imbarcazioni di pescatori professionisti che portano i segnali prescritti (art. 40 cpv. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>
+<tr><td>7402. Navigazione in prossimità delle rive</td><td></td></tr>
+<tr><td>1. Navigazione longitudinale vietata con battello a motore nella zona rivierasca o a meno di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. a ONI, art. 6.11 cpv. 1 RNC)</td><td>100</td></tr>
+<tr><td>2. Navigazione longitudinale vietata con battello a motore o nella zona rivierasca, ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.11 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>3. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive interne o a meno di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. b ONI, art. 6.11 cpv. 1 RNC)</td><td>150</td></tr>
+<tr><td>4. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive esterne (art. 40 cpv. 1 LNI, art. 53 cpv. 1 lett. b ONI)</td><td>100</td></tr>
+<tr><td>5. Superamento di non più di 15 km/h della velocità ammessa in prossimità delle rive, , ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.11 cpv. 1 RNC)</td><td>100</td></tr>
+<tr><td>6. Navigazione o sosta non autorizzata in prossimità dell’imboccatura di un porto (art. 40 cpv. 1 LNI, art. 52 cpv. 2 ONI, art. 6.10 cpv. 3 RNC)</td><td>100</td></tr>
+<tr><td>7. Inosservanza della distanza minima nelle zone di vegetazione acquatica quali canneti, giunchi e ninfee (art. 40 cpv. 1 LNI, art. 53 cpv. 3 ONI)</td><td>100</td></tr>
+<tr><td>7403. Navigazione in uno specchio d’acqua in cui è vietata qualsiasi navigazione</td><td></td></tr>
+<tr><td>1. con battelli a vela o a motore, tavole a vela o kite surf (art. 40 cpv. 1 LNI, art. 37 cpv. 1 ONI, art. 5.01 cpv. 1 e allegato B RNC)</td><td>100</td></tr>
+<tr><td>2. con battelli a remi, canotti pneumatici, imbarcazioni a pagaia o imbarcazioni da spiaggia (art. 40 cpv. 1 LNI, art. 37 cpv. 1 ONI, art. 5.01 cpv. 1 e allegato B RNC)</td><td>50</td></tr>
+<tr><td>7404. Navigazione non ammessa in uno specchio d’acqua in cui la navigazione è vietata per certe categorie di natanti</td><td></td></tr>
+<tr><td>1. con battelli a vela o a motore, tavole a vela o kite surf (art. 40 cpv. 1 LNI, art. 37 cpv. 2 ONI, art. 5.01 cpv. 1, allegato B e art. 16.02 cpv. 5 RNC)</td><td>100</td></tr>
+<tr><td>2. con battelli a remi, canotti pneumatici, imbarcazioni a pagaia o imbarcazioni da spiaggia (art. 40 cpv. 1 LNI, art. 37 cpv. 2 ONI, art. 5.01 cpv. 1, allegato B e art. 16.02 cpv. 5 RNC)</td><td>50</td></tr>
+<tr><td>7405. Navigazione con natanti di lunghezza inferiore a 2,50 m, imbarcazioni da spiaggia e altri natanti simili o altri natanti non soggetti all’obbligo di essere provvisti di un contrassegno fuori dalla zona rivierasca interna o a una distanza di più di 150 m dai natanti che li accompagnano (art. 40 cpv. 1 LNI in combinato disposto con art. 42 ONI)</td><td>50</td></tr>
+<tr><td>7406. Pratica dello sci nautico o impiego di attrezzature similari</td><td></td></tr>
+<tr><td>1. in orari vietati (art. 40 cpv. 1 LNI, art. 54 cpv. 1 ONI, art. 6.15 cpv. 1 RNC)</td><td>100</td></tr>
+<tr><td>2. nella zona rivierasca esterna (art. 40 cpv. 1 LNI, art. 54 cpv. 2 ONI)</td><td>100</td></tr>
+<tr><td>3. nella zona rivierasca, ma a più di 150 metri dalla riva (art. 40 cpv. 1 LNI, art. 6.15 cpv. 2 RNC)</td><td>100</td></tr>
+<tr><td>4. traino simultaneo di più di due sciatori nautici o di attrezzature (art. 40 cpv. 1 LNI, art. 54 cpv. 5 ONI, art. 6.15 cpv. 5 RNC)</td><td>100</td></tr>
+<tr><td>5. traino a vuoto del cavo di traino o utilizzo di un cavo elastico (art. 40 cpv. 1 LNI, art. 54 cpv. 4 ONI, art. 6.15 cpv. 4 RNC)</td><td>60</td></tr>
+<tr><td>6. uso non ammesso di aquascooter, jet bike e simili costruzioni galleggianti (art. 40 cpv. 1 LNI, disposizioni cantonali oppure art. 6.15 cpv. 7 RNC)</td><td>100</td></tr>
+<tr><td>7407. Omissione di portare gli oggetti dell’attrezzatura e i mezzi di salvataggio prescritti oppure porto di tali oggetti e mezzi non pronti all’uso (art. 48 LNI, art. 131 cpv. 2, 134 cpv. 4 e 134*a* ONI, art. 13.19 e 13.20 RNC)</td><td></td></tr>
+<tr><td>1. per oggetto dell’attrezzatura</td><td>[tab] 20</td></tr>
+<tr><td>2. per mezzo di salvataggio</td><td>[tab] 50</td></tr>
+<tr><td>7408. Trasporto di un numero di persone superiore a quello indicato nella licenza di navigazione (art. 46 LNI, art. 7 cpv. 1 e 3 ONI, art. 1.05 cpv. 3 RNC)</td><td>60</td></tr>
+<tr><td>7409. Inosservanza dei segnali di divieto A1–A6 e A10–A13 secondo l’allegato 4 ONI o A.1–A.3 e A.7–A.12 secondo l’allegato B RNC (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI, art. 5.01 cpv. 1 RNC)</td><td>100</td></tr>
+<tr><td>7410. Superamento di non più di 15 km/h della velocità massima segnalata o della velocità massima generale valida sul lago di Costanza (art. 40 cpv. 1 LNI, art. 36 cpv. 1 ONI, art. 5.01 e 6.02 RNC)</td><td>100</td></tr>
+<tr><td>7411. Superamento di non più di 15 km/h della velocità massima cantonale generale (art. 3 cpv. 2 e 40 LNI)</td><td>100</td></tr>
+<tr><td>5. Balneazione e immersione</td><td></td></tr>
+<tr><td>7501. Balneazione</td><td></td></tr>
+<tr><td>1. nella fascia situata entro i 100 m dalle entrate dei porti e dei luoghi di stazionamento dei battelli per passeggeri, al di fuori degli specchi d’acqua autorizzati ufficialmente e segnalati come tali (art. 40 cpv. 1 LNI, art. 77 cpv. 1 ONI, art. 11.04 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>2. nella fascia situata entro i 100 m dalle entrate dei porti, al di fuori degli specchi d’acqua autorizzati ufficialmente e segnalati come tali, se la navigazione ne risulta ostacolata oppure compromessa (art. 40 cpv. 1 LNI, art. 77 cpv. 1 ONI, art. 11.04 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>7502. Avvicinamento a nuoto non autorizzato ai natanti in movimento (art. 40 cpv. 1 LNI, art. 77 cpv. 2 ONI, art. 11.04 cpv. 3 RNC)</td><td>50</td></tr>
+<tr><td>7503. Immersioni subacquee sulla rotta dei battelli in servizio regolare, nelle strettoie, alle entrate dei porti e nelle loro vicinanze, nelle vicinanze dei luoghi di stazionamento autorizzati ufficialmente oppure entro un raggio di 100 m dai luoghi di stazionamento autorizzati ufficialmente dei battelli in servizio regolare (art. 40 cpv. 1 LNI in combinato disposto con art. 77 cpv. 3 ONI)</td><td>100</td></tr>
+<tr><td>7504. Immersione in un canale di navigazione segnalato (art. 40 cpv. 1 LNI, art. 11.04 cpv. 2 RNC)</td><td>100</td></tr>
+<tr><td>7505. Inosservanza del segnale di divieto A14 di cui all’allegato 4 ONI (art. 40 cpv. 1 LNI in combinato disposto con art. 36 cpv. 1 ONI)</td><td>50</td></tr>
+<tr><td>7506. Impiego non autorizzato di scooter da immersione (art. 40 cpv. 1 LNI, art. 54*a* cpv. 1 e 2 ONI)</td><td>100</td></tr>
+<tr><td>VIII. Legge del 3 ottobre 1971[^annex2-lvlu1-lvlu1-13] sugli stupefacenti (LStup)</td><td></td></tr>
+<tr><td>8001. Consumo non autorizzato e intenzionale di stupefacenti del tipo della canapa (art. 19*a* n. 1 LStup)</td><td>[tab] 100</td></tr>
+<tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-14] sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
+<tr><td>9001. Utilizzo di un punto di raccolta dei materiali riciclabili al di fuori degli orari d’esercizio prescritti (art. 61 cpv. 1 lett. a, art. 12 cpv. 1 lett. C LPAmb)</td><td>[tab] 50</td></tr>
+<tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
+<tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-16] concernente la protezione contro il fumo passivo</td><td></td></tr>
+<tr><td>10001. Fumare in locali chiusi accessibili al pubblico (art. 2 cpv. 1 e 5 cpv. 1 lett. a della LF concernente la protezione contro il fumo passivo)</td><td>[tab] 80</td></tr>
+<tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-17] (LFo)</td><td></td></tr>
+<tr><td>11001. Inosservanza delle limitazioni d’accesso a determinate zone forestali (art. 14 cpv. 2 lett. a e 43 cpv. 1 lett. c LFo)</td><td>[tab] 100</td></tr>
+<tr><td>11002. Circolazione non autorizzata con veicoli a motore in foresta o su strade forestali (art. 15 e 43 cpv. 1 lett. d LFo)</td><td>[tab] 100</td></tr>
+<tr><td>XII. Legge del 20 giugno 1986[^annex2-lvlu1-lvlu1-18] sulla caccia (LCP)</td><td></td></tr>
+<tr><td>12001. Entrare, senza un motivo sufficiente, in una zona di caccia muniti di un’arma da tiro (art. 18 cpv. 1 lett. b e cpv. 3 LCP)</td><td>[tab] 200</td></tr>
+<tr><td>12002. Lasciare cacciare cani (art. 18 cpv. 1 lett. d e cpv. 3 LCP)</td><td>[tab] 150</td></tr>
+<tr><td>12003. Accedere a o circolare in zone di tranquillità per la selvaggina al di fuori dei percorsi e sentieri utilizzabili (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 4<sup>ter</sup> OCP[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
+<tr><td>12004. Inosservanza dell’obbligo di tenere i cani al guinzaglio in zone di tranquillità per la selvaggina, in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c OBAF[^annex2-lvlu1-lvlu1-20]) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c ORUAM[^annex2-lvlu1-lvlu1-21])</td><td>[tab] 150</td></tr>
+<tr><td>12005. Piantare tende o campeggiare in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. e OBAF)</td><td>[tab] 150</td></tr>
+<tr><td>12006. Circolazione di aeromobili civili senza occupanti in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
+<tr><td>12007. Attività sciatoria fuori delle strade, delle piste e degli itinerari segnalati in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g OBAF)</td><td>[tab] 150</td></tr>
+<tr><td>12008. Circolazione non autorizzata su strade alpestri e forestali nonché impiego di veicoli di qualsiasi tipo fuori delle strade e dei percorsi agricoli e forestali nelle bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. h OBAF)</td><td>[tab] 150</td></tr>
+<tr><td>12009. Pratica del kitesurf o impiego di attrezzature analoghe come pure pratica del modellismo navale in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g ORUAM)</td><td>[tab] 150</td></tr>
+<tr><td>12010. Foraggiamento di animali selvatici e posa di lecche saline in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
+<tr><td>12011. Omissione di recare seco i documenti prescritti durante la caccia (art. 18 cpv. 4 LCP) per documento mancante</td><td>[tab] 20</td></tr>
+<tr><td>XIII. Legge federale del 21 giugno 1991[^annex2-lvlu1-lvlu1-22] sulla pesca (LFSP)</td><td></td></tr>
+<tr><td>13001. Pesca di pesci o gamberi durante il periodo protetto (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 1 cpv. 1–3 OLFP[^annex2-lvlu1-lvlu1-23], per pesce o gambero</td><td>[tab] 100</td></tr>
+<tr><td>13002. Inosservanza della lunghezza minima del pescato (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2 cpv. 1 e 4 OLFP), per pesce o gambero</td><td>[tab] 100</td></tr>
+<tr><td>13003. Inosservanza dei divieti di pesca (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2*a* OLFP), per pesce o gambero</td><td>[tab] 150</td></tr>
+<tr><td>XIV. Legge federale del 23 marzo 2001[^annex2-lvlu1-lvlu1-24] sul commercio ambulante</td><td></td></tr>
+<tr><td>14001. Esercizio del commercio ambulante senza autorizzazione (art. 14 cpv. 1 lett. b e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
+<tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
+<tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 20</td></tr>
+<tr><td>XV. ...</td><td></td></tr>
+<tr><td>XVI. ...</td><td>[tab]</td></tr>
+<tr><td>**XVII.** **...**</td><td>[tab]</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
