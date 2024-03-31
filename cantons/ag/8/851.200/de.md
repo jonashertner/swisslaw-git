@@ -4,13 +4,12 @@ number: "851.200"
 title: Gesetz über die öffentliche Sozialhilfe und die soziale Prävention
 short: "Sozialhilfe- und Präventionsgesetz, SPG"
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-06-27
+version: 2024-04-01
+version_adopted: 2023-11-07
 adopted: 2001-03-06
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3358/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3358/pdf_file"
 
 (Sozialhilfe- und Präventionsgesetz, SPG)
 
-Vom 06.03.2001 (Stand 01.01.2024)
+Vom 06.03.2001 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -293,7 +292,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Er ist auch zuständig für Unterbringung, Unterstützung und Betreuung von Flüchtlingen während des Aufenthalts in einer kantonalen Unterkunft.
 
-<sup>2</sup> Die Gemeinden sind in der Regel zuständig für Unterbringung, Unterstützung und Betreuung von vorläufig Aufgenommenen ohne Flüchtlingseigenschaft.
+<sup>2</sup> Die Gemeinden sind in der Regel zuständig für Unterbringung, Unterstützung und Betreuung von vorläufig Aufgenommenen ohne Flüchtlingseigenschaft und Schutzbedürftigen ohne Aufenthaltsbewilligung.
 
 <sup>3</sup> Vorbehalten bleibt das Recht auf freie Wohnsitzwahl gemäss den bundesrechtlichen Bestimmungen.
 
