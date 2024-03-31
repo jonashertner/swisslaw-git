@@ -3,18 +3,18 @@ sr: "412.101.220.31"
 title: Ordonnance du SEFRI du 15 septembre 2023 sur la formation professionnelle initiale des professions avec CFC dans le champ professionnel «logistique»
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/565"
 language: fr
-version: 2024-01-01
+version: 2024-04-01
 adopted: 2023-09-15
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/565/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-565-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/565/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/565/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-565-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/565/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale des professions avec CFC dans le champ professionnel «logistique»
 
-du 15 septembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 15 septembre 2023 (État le 1<sup>er</sup> avril 2024)
 
 <table>
 <tr><td>95512</td><td>Logisticienne CFC / Logisticien CFC Logistikerin EFZ / Logistiker EFZ Impiegata in logistica AFC / Impiegato in logistica AFC</td></tr>
@@ -24,13 +24,14 @@ du 15 septembre 2023 (État le 1<sup>er</sup> janvier 2024)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Objet, professions, orientations et durée
 
@@ -235,9 +236,11 @@ La formation d’agent de transport ferroviaire CFC comprend les compétences op
 
 <sup>3</sup> Les aspects liés au développement durable spécifiques à la profession sont transmis dans tous les lieux de formation.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe 2 du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^6-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe 2 du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+
+[^6-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -286,7 +289,7 @@ L’enseignement obligatoire dispensé à l’école professionnelle comprend 10
 <tr><td>**Total Connaissances professionnelles**</td><td>**200**</td><td>**180**</td><td>**160**</td><td>**540**</td></tr>
 <tr><td>b. Culture générale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
 <tr><td>c. Éducation physique</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
-<tr><td>**Total des périodes d****’****enseignement**</td><td>**360**</td><td>**340**</td><td>**320**</td><td>**1020**</td></tr>
+<tr><td>**Total des périodes d’enseignement**</td><td>**360**</td><td>**340**</td><td>**320**</td><td>**1020**</td></tr>
 </table>
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
