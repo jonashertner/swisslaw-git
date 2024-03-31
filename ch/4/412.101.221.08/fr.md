@@ -3,18 +3,18 @@ sr: "412.101.221.08"
 title: Ordonnance du SEFRI du 9 juillet 2021 sur la formation professionnelle initiale dans le champ professionnel «création de bijoux et d’objets» avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/455"
 language: fr
-version: 2022-01-01
+version: 2024-04-01
 adopted: 2021-07-09
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/455/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-455-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/455/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/455/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-455-20240401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/455/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale dans le champ professionnel «création de bijoux et d’objets» avec certificat fédéral de capacité (CFC)
 
-du 9 juillet 2021 (État le 1<sup>er</sup> janvier 2022)
+du 9 juillet 2021 (État le 1<sup>er</sup> avril 2024)
 
 <table>
 <tr><td>50007</td><td>Bijoutière-joaillière CFC / Bijoutier-joaillier CFC Goldschmiedin EFZ / Goldschmied EFZ Orafa AFC / Orafo AFC</td></tr>
@@ -24,13 +24,14 @@ du 9 juillet 2021 (État le 1<sup>er</sup> janvier 2022)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Professions, objet et durée
 
@@ -168,9 +169,11 @@ Les personnes en formation doivent obligatoirement acquérir les compétences op
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, dans tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -309,15 +312,15 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 **Nombre maximal de personnes en formation**
 
-1 Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
 
-2 Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
 
-3 Sont réputés professionnels les titulaires d’un certificat fédéral de capacité ou d’une qualification équivalente dans le domaine de la personne en formation.
+<sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité ou d’une qualification équivalente dans le domaine de la personne en formation.
 
-4 Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
+<sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
-5 Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+<sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
 
 ## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
@@ -426,15 +429,15 @@ La procédure de qualification avec examen final est réussie si les conditions 
 La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée; la pondération suivante s’applique:
 
 - a. travail pratique: 50 %;
-- c. culture générale: 20 %;
-- d. note d’expérience: 30 %.
+- b. culture générale: 20 %;
+- c. note d’expérience: 30 %.
 
 <sup>3</sup>
 
 La note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes ci-après pondérées de la manière suivante:
 
-- b. enseignement des connaissances professionnelles: 50 %;
-- c. cours interentreprises: 50 %.
+- a. enseignement des connaissances professionnelles: 50 %;
+- b. cours interentreprises: 50 %.
 
 <sup>4</sup> La note de l’enseignement des connaissances professionnelles correspond à la moyenne, arrondie à une note entière ou à une demi-note, des 8 notes semestrielles.
 
