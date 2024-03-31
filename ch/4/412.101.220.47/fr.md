@@ -3,43 +3,42 @@ sr: "412.101.220.47"
 title: "Ordonnance du SEFRI du 27 avril 2015 sur la formation professionnelle initiale d'électricienne de montage/électricien de montage avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/292"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2015-04-27
 in_force: 2015-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/292/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-292-20180101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/292/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/292/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-292-20240401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/292/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’électricienne de montage/électricien de montage avec certificat fédéral de capacité (CFC)\*
 
-du 27 avril 2015 (État le 1<sup>er</sup> janvier 2018)[^t-1]
+du 27 avril 2015 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 <table>
-<tr><td>47419</td><td>Electricienne de montage CFC/Electricien de montage CFC Montage-Elektrikerin EFZ/Montage-Elektriker EFZ Elettricista di montaggio AFC</td></tr>
+<tr><td>47419</td><td>Électricienne de montage CFC/Électricien de montage CFC Montage-Elektrikerin EFZ/Montage-Elektriker EFZ Elettricista di montaggio AFC</td></tr>
 </table>
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:[^ingress-4]
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 34 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 34 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
 #### Art. 1
 
 **Profil de la profession**
-
-<sup>1</sup>
 
 Les électriciens de montage de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les connaissances, les aptitudes et les comportements ci-après:
 
@@ -120,11 +119,12 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^7-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^7-1]: Nouvelle teneur selon le ch. II 34 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -226,11 +226,11 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 **Rapport de formation**
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs liés aux mesures fixées ne sont pas atteints ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -288,7 +288,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 21
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -386,7 +386,7 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 
 La Commission suisse pour le développement de la profession et la qualité de la formation desélectriciens de montage CFC (commission) comprend:
 
-- a. cinq représentants de l’Union Suisse des Installateurs-Electriciens (USIE);
+- a. cinq représentants de l’Union Suisse des Installateurs-Électriciens (USIE);
 - b. un représentant de l’Association suisse des instructeurs-électriciens (ASIE);
 - c. un représentant de l’association «Schweizerischer Maschinenbau-Elektro- und Informatikfachlehrer Verband» (SMEIV);
 - d. au moins un représentant de la Confédération et au moins un représentant des cantons.
