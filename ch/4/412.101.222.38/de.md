@@ -3,18 +3,18 @@ sr: "412.101.222.38"
 title: Verordnung des SBFI vom 15. Juli 2022 über die berufliche Grundbildung Kapitänin der Binnenschifffahrt / Kapitän der Binnenschifffahrt mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/426"
 language: de
-version: 2022-08-01
+version: 2024-04-01
 adopted: 2022-07-15
 in_force: 2022-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/426/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2022-426-20220801-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/426/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/426/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2022-426-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/426/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kapitänin der Binnenschifffahrt / Kapitän der Binnenschifffahrt mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 15. Juli 2022 (Stand am 1. August 2022)
+vom 15. Juli 2022 (Stand am 1. April 2024)
 
 <table>
 <tr><td>75105</td><td>Kapitänin der Binnenschifffahrt EFZ / Kapitän der Binnenschifffahrt EFZ Capitaine de la navigation intérieure CFC Capitano della navigazione interna AFC / Capitana della navigazione interna AFC</td></tr>
@@ -22,13 +22,14 @@ vom 15. Juli 2022 (Stand am 1. August 2022)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -60,8 +61,8 @@ Die Dauer der beruflichen Grundbildung richtet sich nach:
 
 <sup>3</sup> Der Beginn der beruflichen Grundbildung richtet sich nach dem Schuljahr der zuständigen Berufsfachschule.
 
-[^2-1]: Bundesgesetzblatt Jahrgang 2022 Teil I Nr. 7; die Verordnung kann kostenlos abgerufen werden unter [www.bibb.de](http://www.bibb.de) &gt; Die Themen &gt; Berufe &gt; Information zu Aus- und Fortbildungsberufen &gt; Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin (IH).
-[^2-2]: Der Rahmenlehrplan kann kostenlos abgerufen werden unter [www.bibb.de](http://www.bibb.de) &gt; Die Themen &gt; Berufe &gt; Information zu Aus- und Fortbildungsberufen &gt; Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin (IH).
+[^2-1]: Bundesgesetzblatt Jahrgang 2022 Teil I Nr. 7; die Verordnung kann kostenlos abgerufen werden unter: [www.bibb.de](http://www.bibb.de) &gt; Die Themen &gt; Berufe &gt; Information zu Aus- und Fortbildungsberufen &gt; Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin (IH).
+[^2-2]: Der Rahmenlehrplan kann kostenlos abgerufen werden unter: [www.bibb.de](http://www.bibb.de) &gt; Die Themen &gt; Berufe &gt; Information zu Aus- und Fortbildungsberufen &gt; Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin (IH).
 
 #### Art. 3
 
@@ -95,9 +96,11 @@ Die Dauer der beruflichen Grundbildung richtet sich nach:
 
 <sup>3</sup> Die berufsspezifischen Aspekte für eine nachhaltige Entwicklung werden an allen Lernorten vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Bildungsplan
 
@@ -112,7 +115,7 @@ Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan[^6-1] der zustän
 
 <sup>2</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^6-1]: Der Bildungsplan vom 15. Juli 2022 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^6-1]: Der Bildungsplan vom 15. Juli 2022 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
 
 ## 5. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
