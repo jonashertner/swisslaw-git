@@ -4,13 +4,12 @@ number: "526.21"
 title: "Verordnung zum Gesetz über Jagd, Wild- und Vogelschutz"
 short: Jagdverordnung
 language: de
-version: 2022-02-01
-valid_until: 2024-03-31
-version_adopted: 2022-01-25
+version: 2024-04-01
+version_adopted: 2024-03-19
 adopted: 2003-04-23
 in_force: 2003-05-01
 url: "https://ar.clex.ch/app/de/texts_of_law/526.21"
-pdf: "https://ar.clex.ch/api/de/versions/1409/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1409/pdf_file"
 
 (Jagdverordnung)
 
-vom 23.04.2003 (Stand 01.02.2022)
+vom 23.04.2003 (Stand 01.04.2024)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -688,9 +687,9 @@ verordnet:
 
 #### Art. 57a
 
-**Übergangsbestimmung vom 25. Januar 2022**
+**Übergangsbestimmung zur Teilrevision vom 25. Januar 2022**
 
-<sup>1</sup> Bis zum 31. März 2024 (Ende Jagdjahr 2023/2024) bleibt bleihaltige Jagdkugelmunition zulässig.
+<sup>1</sup> Bis zum 31. März 2025 (Ende Jagdjahr 2024/2025) bleibt bleihaltige Jagdkugelmunition zulässig.
 
 #### Art. 58
 
