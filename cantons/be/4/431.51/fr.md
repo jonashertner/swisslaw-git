@@ -1,23 +1,24 @@
 ---
 canton: BE
 number: "431.51"
-title: "Ordonnance sur la formation et l'obtention du diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire"
+title: "Ordonnance sur la formation et l'obtention du diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire *"
 short: OFCP
 language: fr
-version: 2020-03-01
-valid_until: 2024-03-31
-version_adopted: 2020-01-29
+version: 2024-04-01
+version_adopted: 2024-03-20
 adopted: 2003-06-25
 in_force: 2003-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/431.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1814/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3016/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la formation et l'obtention du diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire
 
-du 25.06.2003 (état au 01.03.2020)
+(OFCP)
+
+du 25.06.2003 (état au 01.04.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -29,13 +30,11 @@ arrête:
 
 [^ingress-1]: RSB 432.210
 
-## 1 Dispositions générales
+## 1 Champ d'application
 
 #### Art. 1
 
-**Champ d'application**
-
-<sup>1</sup> La présente ordonnance régit la formation et l'obtention du diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire, ainsi que la reconnaissance d'autres formations.
+<sup>1</sup> La présente ordonnance régit la formation et l'obtention du diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire.
 
 ## 2 Formation
 
@@ -45,30 +44,32 @@ arrête:
 
 **Contenu de la formation**
 
-<sup>1</sup> La formation comprend
+<sup>1</sup> La formation comprend un assistanat dans le cadre de l'engagement, une formation en cours d'assistanat et un colloque final.
 
-- a un assistanat, un colloque en cours d'assistanat et un colloque final dans la partie germanophone du canton,
-- b un assistanat, une formation conforme à l'article 11, alinéa 2 et un colloque final dans la partie francophone du canton.
-
-<sup>2</sup> Les modalités de détail sont fixées dans un programme de formation.
+<sup>2</sup> Les modalités de détail sont fixées dans le programme de formation.
 
 #### Art. 3
 
 **Début**
 
-<sup>1</sup> La formation commence le 1<sup>er</sup> février et le 1<sup>er</sup> août.
+<sup>1</sup> La formation commence en règle générale le 1<sup>er</sup> février et le 1<sup>er</sup> août.
 
 #### Art. 4
 
 **Admission**
 
-<sup>1</sup> Est admis à la formation dans la partie germanophone du canton quiconque
+<sup>1</sup> Peut être admis à la formation, dans la limite des places disponibles, quiconque
 
-- a dispose d'une licence de psychologie ou d'un titre jugé équivalent,
-- b dispose d'une formation universitaire en pédagogie ou en pédagogie spécialisée et en psychopathologie et
-- c justifie d'une activité professionnelle dans le domaine de la pédagogie d'une durée d'au moins six mois.
+- a peut faire usage de la dénomination de psychologue au sens de l'article 4 de la loi fédérale du 18 mars 2011 sur les professions relevant du domaine de la psychologie (loi sur les professions de la psychologie, LPsy)[^4-1] et
+- b a accompli dans une haute école des prestations d'études dans le domaine de la psychopathologie.
+- c …
 
-<sup>2</sup> Est admis à la formation dans la partie francophone du canton quiconque dispose d'une licence en psychologie ou d'un titre jugé équivalent.
+<sup>2</sup> Dans la partie germanophone du canton, il faut en outre justifier d'une activité pédagogique pratique d'une durée de six mois pour un temps de présence de 42 heures par semaine ou, en cas d'engagement à temps partiel, d'une activité pédagogique pratique d'une durée proportionnellement plus longue.
+
+<sup>3</sup> L'admission se fait par le biais d'un engagement, conformément à l'ordonnance du 3 septembre 2008 sur les rapports de travail des stagiaires (ordonnance sur le travail des stagiaires, OTS)[^4-2], auprès d'une antenne régionale du Service psychologique pour enfants et adolescents.
+
+[^4-1]: RS [935.81](https://db.clex.ch/link/Bund/935.81/fr)
+[^4-2]: RSB [153.012.1](https://www.belex.sites.be.ch/data/153.012.1/fr)
 
 ### 2.2 Assistanat
 
@@ -76,7 +77,14 @@ arrête:
 
 **Notion**
 
-<sup>1</sup> L'assistanat est la partie pratique de la formation de conseiller ou de conseillère d'éducation - psychologue scolaire.
+<sup>1</sup> L'assistanat constitue la partie pratique de la formation.
+
+<sup>2</sup> L'assistant ou l'assistante participe en particulier aux tâches suivantes:
+
+- a évaluations psychologiques et conseils destinés aux enfants, aux adolescents et adolescentes, aux parents et aux familles en cas de problèmes liés à l'apprentissage, aux performances et au comportement, ainsi que de troubles du développement,
+- b conseils aux enseignants et enseignantes ainsi qu'aux institutions en matière d'approche psychologique, pédagogique ou de pédagogie spécialisée,
+- c mise en place de mesures de pédagogie spécialisée ou de mesures pédago-thérapeutiques,
+- d expertises à la demande de l'autorité de protection de l'enfant et de l'adulte ou du tribunal civil.
 
 #### Art. 6
 
@@ -86,45 +94,49 @@ arrête:
 
 <sup>2</sup> Dans le cas d'un engagement à plein temps, l'assistanat dure un an et demi dans la partie germanophone du canton et deux ans dans la partie francophone du canton.
 
-<sup>3</sup> Dans le cas d'un engagement à temps partiel, l'assistanat dure proportionnellement plus longtemps.
+<sup>3</sup> Dans des cas particuliers, un engagement à temps partiel avec un degré d'occupation d'au moins 50 pour cent peut être autorisé. La durée de l'assistanat se prolonge alors proportionnellement.
+
+<sup>4</sup> Les interruptions de l'assistanat pour cause de vacances, de grossesse, de service militaire, de maladie ou pour d'autres raisons ne sont pas prises en compte dans la durée de l'assistanat lorsqu'elles dépassent au total 12 semaines dans la partie germanophone et 16 semaines dans la partie francophone du canton.
 
 #### Art. 7
 
 **Lieu de formation**
 
-<sup>1</sup> L'assistanat est effectué dans un service psychologique pour enfants cantonal ou dans une institution similaire reconnue.
+<sup>1</sup> L'assistanat est effectué sans interruption et, en règle générale, dans le même lieu de formation.
 
-<sup>2</sup> Six mois au moins doivent être effectués dans un service psychologique pour enfants cantonal.
+<sup>2</sup> …
 
 #### Art. 8
 
-**Rapport sur l'aptitude professionnelle**
+**Rapports sur l'aptitude professionnelle et les progrès d'apprentissage**
 
-<sup>1</sup> La personne en formation reçoit après trois et douze mois d'assistanat un rapport sur son aptitude professionnelle et sur ses progrès.
+<sup>1</sup> L'assistant ou l'assistante reçoit un rapport sur son aptitude professionnelle et ses progrès d'apprentissage après trois mois et au plus tard après neuf mois d'assistanat.
+
+<sup>2</sup> En cas d'engagement à temps partiel, le rapport est rendu après une durée proportionnellement plus longue.
+
+<sup>3</sup> À la fin de l'assistanat, l'assistant ou l'assistante reçoit un rapport faisant état de sa réussite de l'assistanat et de son aptitude professionnelle.
 
 #### Art. 9
 
-**Changement de lieu de formation**
-
-<sup>1</sup> L'assistanat est effectué sans interruption et en règle générale dans le même service.
-
-<sup>2</sup> Exceptionnellement, les personnes en formation peuvent changer de service au terme d'une année.
-
-<sup>3</sup> Si l'aptitude professionnelle ou les progrès de la personne en formation sont remis en question dans l'un des rapports visés à l'article 8, celle-ci doit changer de lieu de formation.
+**…**
 
 #### Art. 10
 
 **Exclusion**
 
-<sup>1</sup> Si l'aptitude professionnelle de la personne en formation est remise en cause deux fois dans les rapports visés à l'article 8, celle-ci est exclue de la formation.
+<sup>1</sup> Si l'aptitude professionnelle de l'assistant ou de l'assistante est remise en cause deux fois dans les rapports visés à l'article 8, alinéa 1, celui-ci ou celle-ci est exclue de la formation.
 
 ### 2.3 Formation en cours d'assistanat
 
 #### Art. 11
 
-<sup>1</sup> La formation en allemand comprend un colloque en cours d'assistanat de 180 heures.
+<sup>1</sup> La formation en cours d'assistanat constitue la partie théorique de la formation.
 
-<sup>2</sup> La formation en français comprend l'acquisition d'un diplôme en psychologie délivré par une université suisse de langue française, assorti de formations en pédagogie et psychopathologie ou d'une formation jugée équivalente.
+<sup>2</sup> Elle se compose de cours complémentaires répartis en 190 unités de 45 minutes chacune.
+
+<sup>3</sup> L'assistant ou l'assistante doit suivre au moins 80 pour cent de la formation en cours d'assistanat.
+
+<sup>4</sup> Les modalités de détail sont fixées dans le règlement de formation.
 
 ### 2.4 Colloque final
 
@@ -138,25 +150,25 @@ arrête:
 
 **Admission**
 
-<sup>1</sup> Est admis au colloque final de la formation en allemand quiconque atteste avoir
+<sup>1</sup> Est admis au colloque final quiconque a
 
-- a effectué un assistanat reconnu et fait reconnaître son aptitude professionnelle,
-- b participé au colloque en cours d'assistanat,
-- c effectué une étude de cas écrite (case report) et une expertise psychologique ou, dans des cas motivés, deux études de cas écrites,
-- d payé la taxe d'examen.
+- a accompli dans une haute école les prestations d'études requises en pédagogie ou en pédagogie spécialisée;
+- a1 accompli avec succès l’assistanat et est apte à exercer la profession;
+- b suivi au moins 80 pour cent de la formation en cours d'assistanat;
+- c rédigé une étude de cas écrite (case report) et une expertise psychologique ou, dans des cas motivés, deux études de cas écrites;
+- d payé la taxe du colloque final.
 
-<sup>2</sup> Est admis au colloque final de la formation en français quiconque atteste avoir
+<sup>2</sup> …
 
-- a effectué un assistanat reconnu et fait reconnaître son aptitude professionnelle,
-- b obtenu le diplôme visé à l'article 11, alinéa 2,
-- c effectué une étude de cas écrite (case report) et une expertise psychologique ou, dans des cas motivés, deux études de cas écrites,
-- d payé la taxe d'examen.
+<sup>3</sup> Les conditions prévues à l'alinéa 1, lettres a et b peuvent prendre en compte, en tout ou en partie, d'autres expériences professionnelles ou prestations d'études acquises dans le domaine de spécialisation.
 
 #### Art. 14
 
 **Durée et contenu**
 
-<sup>1</sup> Le colloque final comprend un examen oral d'une heure dans le domaine du conseil en éducation et de la psychologie scolaire.
+<sup>1</sup> Le colloque final dure une heure et comprend une discussion portant sur une étude de cas écrite et sur une expertise psychologique ou une discussion portant sur deux études de cas écrites.
+
+<sup>2</sup> Les modalités de détail sont fixées dans le règlement du colloque final.
 
 #### Art. 15
 
@@ -172,28 +184,23 @@ arrête:
 
 <sup>2</sup> Un colloque final non réussi peut être répété une fois.
 
-### 2.5 Evaluation
+### 2.5
 
 #### Art. 17
 
-<sup>1</sup> Le ou la responsable de la formation donne à la personne en formation et au référent ou à la référente son évaluation de l'étude de cas, de l'expertise et du colloque final.
+**…**
 
 ## 3 Obtention du diplôme
 
 #### Art. 18
 
-<sup>1</sup> Le diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire est décerné au candidat ou à la candidate qui a suivi la formation et réussi le colloque final.
+<sup>1</sup> Le diplôme de conseiller ou de conseillère d'éducation - psychologue scolaire est décerné au candidat ou à la candidate qui a réussi le colloque final.
 
-## 4 Reconnaissance d'autres formations
+## 4
 
 #### Art. 19
 
-<sup>1</sup> D'autres formations sont reconnues équivalentes à la formation de conseiller ou de conseillère d'éducation - psychologue scolaire, si la personne concernée
-
-- a remplit les conditions fixées à l'article 4, alinéa 1, lettres a et b ou à l'article 4, alinéa 2 et l'article 11, alinéa 2 et
-- b a acquis une expérience professionnelle et suivi une formation continue spécialisée suffisantes.
-
-<sup>2</sup> En l'absence d'équivalence, des examens de reconnaissance peuvent être exigés.
+**…**
 
 ## 5 Organisation et tâches
 
@@ -203,20 +210,16 @@ arrête:
 
 <sup>1</sup> La Direction de l'instruction publique et de la culture
 
-- a approuve le programme de formation,
-- b approuve le règlement d'examen visé à l'article 25, alinéa 1, lettre c,
-- c désigne le président ou la présidente et les autres membres de la commission de formation,
-- d signe le diplôme de conseiller ou conseillère d'éducation - psychologue scolaire.
+- a approuve le programme de formation (art. 2, al. 2);
+- b approuve le règlement du colloque final (art. 14, al. 2);
+- c désigne les membres de la Commission de formation (art. 22);
+- d signe le diplôme de conseiller ou conseillère d'éducation - psychologue scolaire (art. 18).
 
 ### 5.2 Office de l'école obligatoire et du conseil
 
 #### Art. 21
 
-<sup>1</sup> L'Office de l'école obligatoire et du conseil
-
-- a engage un ou une responsable de la formation dans chacune des deux régions linguistiques du canton et édicte leur cahier des charges;
-- b engage des chargés d'enseignement pour le colloque en cours d'assistanat;
-- c assure le secrétariat de la commission de formation.
+<sup>1</sup> L'Office de l'école obligatoire et du conseil (OECO) désigne un ou une responsable de la formation pour la partie germanophone et un ou une responsable de la formation pour la partie francophone du canton.
 
 ### 5.3 Commission de formation pour les conseillers et les conseillères d'éducation - psychologues scolaires
 
@@ -224,10 +227,10 @@ arrête:
 
 **Composition**
 
-<sup>1</sup> La Commission de formation pour les conseillers et les conseillères d'éducation - psychologues scolaires se compose
+<sup>1</sup> La Commission de formation pour les conseillers et les conseillères d'éducation - psychologues scolaires (Commission de formation) se compose
 
-- a du président ou de la présidente,
-- b d'un représentant ou d'une représentante des conseillers et conseillères d'éducation en exercice dans chacune des deux régions linguistiques du canton,
+- a du chef ou de la cheffe du Service psychologique pour enfants et adolescents de l'OECO dans le rôle de président ou de présidente,
+- b d'un représentant ou d'une représentante des conseillers et conseillères d'éducation en exercice,
 - c des responsables de la formation,
 - d d'un représentant ou d'une représentante de l'Université de Berne pour la branche Psychologie,
 - e d'un représentant ou d'une représentante de l'Université de Berne pour la branche Pédagogie,
@@ -243,15 +246,19 @@ arrête:
 
 **Elections et durée du mandat**
 
-<sup>1</sup> Les membres sont élus pour un mandat uniforme de quatre ans.
+<sup>1</sup> Les membres de la Commission de formation sont élus pour un mandat de quatre ans.
 
 <sup>2</sup> Les remplaçants et les remplaçantes sont nommés pour la durée restante du mandat.
+
+#### Art. 23a
+
+<sup>1</sup> Le secrétariat de la Commission de formation est assuré par l'OECO.
 
 #### Art. 24
 
 **Règlement interne**
 
-<sup>1</sup> La commission de formation se dote d'un règlement interne précisant les conditions dans lesquelles elle se réunit.
+<sup>1</sup> La Commission de formation se dote d'un règlement interne.
 
 <sup>2</sup> Elle peut faire appel à des spécialistes.
 
@@ -259,26 +266,21 @@ arrête:
 
 **Tâches**
 
-<sup>1</sup> La commission de formation
+<sup>1</sup> La Commission de formation
 
-- a statue sur l'admission à la formation;
-- b organise des examens de reconnaissance conformément à l'article 19, alinéa 2;
-- c édicte un règlement d'examen pour le colloque final et pour les examens visés à l'article 19, alinéa 2;
-- d statue sur la reconnaissance d'institutions pour l'assistanat conformément à l'article 7;
+- a–b …
+- c édicte un règlement pour le colloque final;
+- d …
 - e édicte le programme de formation;
-- f approuve le contenu du colloque en cours d'assistanat;
-- g statue sur l'exclusion de la formation, en s'appuyant sur un rapport et sur la proposition du ou de la responsable de la formation;
+- f …
+- g statue sur l'exclusion de la formation;
 - h statue sur l'admission au colloque final;
-- i statue sur la réussite du colloque final, sur proposition du ou de la responsable de la formation;
-- k statue sur l'équivalence d'autres formations conformément à l'article 19;
+- i statue sur la réussite du colloque final;
+- k …
 - l exerce une surveillance sur l'ensemble de la formation;
-- m exécute des mandats attribués par l'Office de l'école obligatoire et du conseil.
+- m exécute des mandats attribués par l'OECO.
 
-<sup>2</sup> La commission de formation propose
-
-- a l'engagement des responsables de la formation,
-- b l'engagement des chargés d'enseignement pour le colloque en cours d'assistanat,
-- c le cahier des charges des responsables de la formation.
+<sup>2</sup> Elle propose l'engagement des responsables de la formation.
 
 ### 5.4 Responsables de la formation
 
@@ -286,17 +288,21 @@ arrête:
 
 <sup>1</sup> Les responsables de la formation sont des conseillers et des conseillères d'éducation - psychologues scolaires en exercice.
 
+<sup>1a</sup> Il y a un ou une responsable de la formation pour la partie germanophone du canton et un ou une responsable de la formation pour la partie francophone du canton.
+
 <sup>2</sup> Les responsables de la formation
 
-- a surveillent l'assistanat;
-- b nomment les référents et les référentes et coordonne leur travail;
+- a vérifient si le candidat ou la candidate peut être admise à la formation et demandent l'engagement de celui-ci ou celle-ci auprès du service compétent;
+- a1 surveillent la formation;
+- b choisissent les référents et les référentes en accord avec les responsables des antennes régionales du Service psychologique pour enfants et adolescents et coordonnent leur travail;
 - c statuent sur les demandes d'accomplissement de la formation à temps partiel;
 - d statuent sur les demandes de changement de lieu de formation;
-- e font passer le colloque final en qualité d'examinateurs et d'examinatrices;
+- e organisent et dirigent le colloque final et tiennent le procès-verbal pendant l'examen;
 - f désignent les coexaminateurs et les coexaminatrices;
 - g font une proposition quant à la réussite du colloque final, après avoir entendu les coexaminateurs ou les coexaminatrices;
-- h informent la Conférence des chefs des services psychologiques pour enfants sur la formation;
-- i veillent à informer les étudiants et les étudiantes sur la formation de conseiller ou de conseillère d'éducation - psychologue scolaire.
+- h–i …
+- k font les demandes d'exclusion de la formation auprès de la Commission de formation,
+- l statuent sur l'aptitude professionnelle et la réussite de l'assistanat.
 
 ### 5.5 Référents et référentes
 
@@ -304,8 +310,8 @@ arrête:
 
 <sup>1</sup> Les référents et les référentes
 
-- a forment les personnes en formation effectuant leur assistanat,
-- b rédigent, après trois et douze mois d'assistanat, un rapport sur l'aptitude professionnelle et les progrès de la personne en formation à l'intention du ou de la responsable de la formation.
+- a forment les assistants et assistantes;
+- b rédigent les rapports sur l'aptitude professionnelle et les progrès d'apprentissage de l'assistant ou de l'assistante à l'intention du ou de la responsable de la formation.
 
 ### 5.6 Coexaminateurs et coexaminatrices
 
@@ -313,25 +319,13 @@ arrête:
 
 <sup>1</sup> Les coexaminateurs et les coexaminatrices sont des spécialistes du domaine.
 
-<sup>2</sup> Ils dressent le procès-verbal du colloque final.
+<sup>2</sup> Ils mènent les discussions orales du colloque final.
 
-### 5.7 Indemnités
+### 5.7
 
 #### Art. 29
 
-**Indemnité**
-
-<sup>1</sup> L'indemnité des membres de la commission de formation et des personnes y siégeant en vertu de l'article 24, alinéa 2 est conforme à l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^29-1].
-
-<sup>2</sup> Le président ou la présidente de la commission de formation perçoit en outre une indemnité de 1800 francs par an.
-
-<sup>3</sup> L'indemnité des coexaminateurs et coexaminatrices se monte à 100 francs par colloque final.
-
-<sup>4</sup> L'indemnité des examinateurs et des examinatrices ainsi que des coexaminateurs et coexaminatrices se monte à 100 francs par examen de reconnaissance.
-
-<sup>5</sup> Quiconque est rémunéré par le canton ne peut se prévaloir d'un droit à une indemnité.
-
-[^29-1]: RSB 152.256
+**…**
 
 ## 6 Dispositions transitoires et dispositions finales
 
@@ -368,6 +362,12 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif le 1<sup>er</sup> août 2003.
+
+## T1 Disposition transitoire relative à la modification du 20.03.2024
+
+#### Art. T1-1
+
+<sup>1</sup> Les personnes qui ont commencé leur formation avant l'entrée en vigueur de la présente modification la terminent selon l'ancien droit.
 
 Berne, le 25 juin 2003
 
