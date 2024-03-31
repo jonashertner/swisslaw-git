@@ -1,380 +1,558 @@
 ---
 canton: BS
 number: "912.210"
-title: Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel
-short: Jagdverordnung
+title: Wildtier- und Jagdverordnung
+short: WJV
 language: de
-version: 2009-01-01
-valid_until: 2024-03-31
-version_adopted: 2008-12-09
+version: 2024-04-01
+version_adopted: 2024-03-12
 adopted: 2024-03-12
 in_force: 2024-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/912.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4186/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel
+# Wildtier- und Jagdverordnung
 
-Jagdverordnung | Jagd und Fischerei[^t-1]
+Jagd und Fischerei
 
-(Jagdverordnung)
+(WJV)
 
-Vom 24. August 1993 (Stand 1. Januar 2009)
+Vom 12. März 2024 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf Art. 25 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel[^ingress-1] (Jagdgesetz, JSG) und Art. 15 der dazugehörigen Verordnung[^ingress-2] vom 29. Februar 1988 (Jagdverordnung, JSV) sowie § 2 des kantonalen Gesetzes betreffend Aufhebung des bestehenden Jagdgesetzes vom 4. Dezember 1876[^ingress-3],
+gestützt auf das Gesetz über Wildtiere und Jagd (WJG)[^ingress-1] vom 27. Oktober 2021 unter Verweis auf seine Erläuterungen Nr. [P231057](https://www.regierungsrat.bs.ch/geschaefte/regierungsratsbeschluesse.html?previousAction1=sitzung&previousAction2=search&previousAction3=&previousAction4=&action=geschaeft&geschaeftId=a6a971587870426197ed66693dfe0afe&sitzungId=bd7009497e7544cc9223e2fe9295052b=),
 
 beschliesst:
 
-[^t-1]: Vom Eidgenössischen Departement des Innern genehmigt am 23. 11. 1993.
-[^ingress-1]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de).
-[^ingress-2]: SR [922.01](https://db.clex.ch/link/Bund/922.01/de).
-[^ingress-3]: SG [912.200](https://www.gesetzessammlung.bs.ch/data/912.200/de).
+[^ingress-1]: SG [912.200](https://www.gesetzessammlung.bs.ch/data/912.200/de)
 
-## I. Allgemeines
+## 1. Organisation
 
 #### § 1
 
-**1. Zielsetzung**
+**Zuständiges Departement**
 
-<sup>1</sup> Diese Verordnung enthält die Ausführungsbestimmungen zur eidgenössischen Jagdgesetzgebung.
-
-<sup>2</sup> Sie regelt die Jagd sowie den Schutz und die Erhaltung der Artenvielfalt und der Lebensräume der einheimischen und ziehenden wildlebenden Säugetiere und Vögel.
-
-<sup>3</sup> Sie bezweckt darüber hinaus, den Wildschaden auf ein tragbares Mass zu begrenzen unter besonderer Berücksichtigung der Wald- und der Landwirtschaft sowie des Naturschutzes.
-
-<sup>4</sup> Die Bevölkerung ist in geeigneter Weise über diese Zielsetzung zu informieren.
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt ist das zuständige Departement für den Vollzug der vom Bund an den Kanton übertragenen Aufgaben im Bereich Wildtiermanagement und Jagd.
 
 #### § 2
 
-**2. Grundsätze**
+**Fachstelle**
 
-<sup>1</sup> Das Jagdregal steht den Einwohnergemeinden (Gemeinden) zu.
+<sup>1</sup> Die Fachstelle ist eine Abteilung des Amts für Wald und Wild beider Basel. Sie nimmt die Aufgaben im Zusammenhang mit der Wildtier- und Jagdgesetzgebung wahr, soweit Gesetz und Verordnung keine abweichende Regelung vorsehen.
 
-<sup>2</sup> Es gilt die Pachtjagd (Revierjagd).
+<sup>2</sup> Sie ist insbesondere zuständig für:
+
+- a) die Planung, Umsetzung und Koordination des Wildtiermanagements;
+- b) die Planung, Koordination und Durchführung des Wildtiermonitorings;
+- c) die kantonale und konzeptionelle Jagdplanung;
+- d) den Umgang mit Tieren geschützter Arten;
+- e) die Ausbildung im Bereich Wildtiermanagement, Jagd und Jagdaufsicht;
+- f) die Öffentlichkeitsarbeit sowie die Beratung von Behörden und Privaten in Fragen ihres Zuständigkeitsbereiches.
+
+<sup>3</sup> Die Fachstelle kann bei Bedarf geeignete Personen zur Erfüllung ihrer Aufgaben beauftragen.
 
 #### § 3
 
-**3. Einteilung**
+**Aufgaben der oder des Wildtierbeauftragten**
 
-<sup>1</sup> In der Regel bildet das Gebiet einer Gemeinde ein Jagdrevier.
+<sup>1</sup> Zu den Aufgaben der Wildtierbeauftragten oder des Wildtierbeauftragten gehören insbesondere:
 
-<sup>2</sup> Die Gemeinden können:
-
-- a) ihr Gebiet in einzelne, höchstens jedoch in drei Reviere aufteilen;
-- b) einzelne Reviere mit jenen der Nachbargemeinde zusammenlegen;
-- c) ihr Gebiet mit jenen der Nachbargemeinde zu einem Revier vereinigen.
+- a) der Vollzug von Artenförderungsprojekten;
+- b) der Umgang mit invasiven Neozoen;
+- c) der Umgang mit geschützten Arten;
+- d) die Unterstützung beim Umgang mit Wildtieren im Siedlungsraum;
+- e) die Kontrolle der Einhaltung der Leinenpflicht;
+- f) die Unterstützung der Einwohnergemeinden und der Jägerinnen und Jäger bei der Erfüllung deren Aufgaben.
 
 #### § 4
 
-**4. Bewilligungen**
+**Aufgaben der Jagdaufsicht**
 
-<sup>1</sup> Kantonale Bewilligungen im Sinn von Art. 25 Abs. 1 JSG sowie allfällige Ausnahmebewilligungen werden durch das Justiz- und Sicherheitsdepartement (Departement) erteilt.
+<sup>1</sup> Die Jagdaufseherinnen und Jagdaufseher überwachen ihr Jagdrevier. Ihnen obliegen insbesondere:
 
-## II. Verpachtung
+- a) die Kontrolle der Jagdberechtigung;
+- b) die Aufsicht über den Jagdbetrieb und die waidgerechte Jagdausübung;
+- c) die Überwachung der Einhaltung der Schonzeiten der jagdbaren Arten;
+- d) die Kontrolle der verwendeten Waffen und der zur Jagd zugelassenen Hunde;
+- e) die Überwachung des Reviers vor Störungen durch übermässige Freizeitnutzung, wildernde Hunde und Katzen;
+- f) die Kontrolle der Einhaltung der Leinenpflicht;
+- g) das Erlösen von krankem oder verletztem Wild mittels Fangschuss;
+- h) das Behändigen von Fallwild;
+- i) die Überprüfung von Wildschadensverhütungsmassnahmen und Weidezäunen.
+
+<sup>2</sup> Die Jagdaufsicht hat die Verwendung von Hunden, welche die geforderten Bedingungen nicht erfüllen, auf der Jagd zu verbieten.
+
+<sup>3</sup> Die Jagdaufsicht ist verpflichtet, der Fachstelle alle ihr zur Kenntnis gelangenden Verstösse gegen das Wildtier- und Jagdrecht unverzüglich zu melden.
+
+<sup>4</sup> Die Jagdaufsicht berät die Landwirtschaft sowie Waldbesitzerinnen und Waldbesitzer in Fragen der Wildschadensverhütung und unterstützt Naturschutzgruppierungen.
+
+<sup>5</sup> Die Fachstelle kann die Jagdaufsicht bei Bedarf mit besonderen Aufgaben beauftragen. Sie entscheidet, welche besonderen Aufgaben der Jagdaufsicht vergütet werden.
 
 #### § 5
 
-**1. Pachtgesellschaft**
+**Persönliche Voraussetzungen für die Jagdaufsicht**
 
-<sup>1</sup> Die Reviere werden nur an Pachtgesellschaften verpachtet.
+<sup>1</sup> Die Jagdaufsicht kann ausüben, wer:
 
-<sup>2</sup> Eine Pachtgesellschaft besteht aus höchstens drei jagdberechtigten Mitgliedern (Pächterinnen oder Pächtern) mit Wohnsitz im Kanton, die eine einfache Gesellschaft im Sinn von Art. 530ff. OR bilden.
+- a) im Kanton jagdberechtigt ist;
+- b) das Jagdrevier innert nützlicher Frist erreichen kann;
+- c) seit mindestens drei Jahren jagdberechtigt ist;
+- d) dazu körperlich und geistig in der Lage ist;
+- e) die Ausbildung zur Ausübung der Jagdaufsicht absolviert hat.
 
-<sup>3</sup> Unter besonderen Voraussetzungen kann das Departement Ausnahmen vom Wohnsitzprinzip gestatten.
+<sup>2</sup> In begründeten Fällen können auch Jägerinnen und Jäger, die noch nicht seit drei Jahren jagdberechtigt sind, als Jagdaufseherin oder Jagdaufseher gewählt werden.
 
-<sup>4</sup> Der Wechsel in der Zusammensetzung einer Pachtgesellschaft bedarf der Zustimmung des Gemeinderates.
+<sup>3</sup> Jagdaufsicht und Wildtierbeauftragte oder Wildtierbeauftragter können zweckmässigerweise in Personalunion ausgeübt werden.
 
-<sup>5</sup> Unterpacht ist nicht gestattet.
+<sup>4</sup> Die Jagdaufseherinnen und Jagdaufseher müssen die von der Fachstelle jährlich durchgeführten Weiterbildungsveranstaltungen mindestens alle zwei Jahre besuchen.
+
+## 2. Artenschutz und Lebensräume
 
 #### § 6
 
-**2. Verpachtung**
+**Geschützte Tiere**
 
-<sup>1</sup> Die Verpachtung erfolgt auf dem Weg der öffentlichen Versteigerung oder aufgrund einer Schätzung durch die Gemeinde. Der Gemeinderat legt die Pachtbedingungen fest.
+<sup>1</sup> Zusätzlich zu den bundesrechtlich geschützten Tieren sind im Kanton folgende Tiere geschützt:
 
-<sup>2</sup> Der Gemeinderat kann mit Zustimmung des Departementes die Reviere an die bisherigen Pächterinnen oder Pächter freihändig vergeben, sofern die Zielsetzung dieser Bestimmungen dies rechtfertigt.
+- a) Baummarder;
+- b) Feldhase;
+- c) Birkhuhn;
+- d) Rebhuhn;
+- e) Haselhuhn;
+- f) Waldschnepfe;
+- g) Haubentaucher;
+- h) Blässhuhn;
+- i) alle Wildenten, ausser der Stockente.
 
 #### § 7
 
-**3. Pachtdauer**
+**Schutz vor übermässiger Störung**
 
-<sup>1</sup> Der Pachtvertrag wird auf eine Dauer von sechs Jagdjahren abgeschlossen. Das Jagdjahr beginnt am 1. April.
+<sup>1</sup> Wildtiere sind vor anderen Tieren zu schützen, insbesondere indem:
+
+- a) im Wald wildernde bzw. streunende Hunde, die eine unmittelbare Gefahr für Wildtiere darstellen und nicht eingefangen werden können, durch die Jagdaufsicht abgeschossen werden können, wenn die Mahnung der Hundehalterin oder des Hundehalters erfolglos war oder wenn die Besitzverhältnisse nicht geklärt werden können. Kann die Gefahr durch mildere Massnahmen abgewendet werden, so haben diese Vorrang vor einem Abschuss. Beim Reissen von Wild angetroffene Hunde dürfen auf der Stelle abgeschossen werden. Die Fachstelle sowie die Jagdgesellschaft werden über den Sachverhalt schriftlich orientiert;
+- b) durch Hunde verursachte Schäden am Wildbestand durch die Hundehalterin oder den Hundehalter der zuständigen Jagdgesellschaft zu vergüten sind;
+- c) Hunde bis zur Klärung der Besitzverhältnisse oder des Tatbestandes vorübergehend auf Kosten der Hundehalterin oder des Hundehalters verwahrt werden können;
+- d) verwilderte Hauskatzen im Wald von der Jagdaufsicht abgeschossen werden können.
+
+<sup>2</sup> Der Einsatz von Wildtierkameras im Wald und am Waldrand erfordert eine Bewilligung der Fachstelle.
+
+<sup>3</sup> Zäune sind wildtierfreundlich zu gestalten und regelmässig zu unterhalten.
 
 #### § 8
 
-**4. Pachtzins**
+**Fütterung von wildlebenden Tieren**
 
-<sup>1</sup> Der jährliche Pachtzins für das jeweilige Pachtjahr ist der Gemeinde im Voraus zu entrichten.
+<sup>1</sup> Die Fachstelle kann das Füttern von Wildtieren bewilligen, anordnen oder verbieten.
 
-<sup>2</sup> Die Pächterinnen und Pächter haften solidarisch.
-
-<sup>3</sup> Ausserkantonale Pächterinnen und Pächter haben zum Pachtzins einen Zuschlag zu bezahlen, dessen Höhe der Gemeinderat festlegt.
+<sup>2</sup> Bei Verwendung geeigneter Futtermittel und im massvollen Rahmen ist das Ausbringen von Lockfutter an Kirrungen und Luderplätzen erlaubt.
 
 #### § 9
 
-**5. Vorzeitige Auflösung**
+**Leinenpflicht**
 
-<sup>1</sup> Der Pachtvertrag kann durch den Gemeinderat vorzeitig aufgelöst werden:
+<sup>1</sup> Während der Hauptsetz- und Brutzeit (1. April bis 31. Juli) sind die Hundehalterinnen und Hundehalter durch eine zweckmässige Beschilderung auf die Leinenpflicht aufmerksam zu machen. Die Fachstelle regelt die Einzelheiten.
 
-- a) bei Tod einer Pächterin oder eines Pächters oder bei nachträglichem Wegfall der Voraussetzungen zur Jagdberechtigung, sofern dadurch das Bestehen der Pachtgesellschaft berührt wird;
-- b) bei grober Verletzung gesetzlicher und vertraglicher Pflichten;
-- c) bei mangelnder Gewähr für einen fachgerechten Jagdbetrieb und die erforderlichen Hegemassnahmen;
-- d) bei Nichtzahlung des Pachtzinses oder Nichterfüllung anderer finanzieller Verpflichtungen im Rahmen des Pachtverhältnisses.
+<sup>2</sup> Für die Kontrolle der Einhaltung der Leinenpflicht sind je nach Zuständigkeitsgebiet die Jagdaufsicht, der Rangerdienst des Landschaftsparks Wiese, die Mitarbeiterinnen und Mitarbeiter der Polizei sowie die Mitarbeiterinnen und Mitarbeiter der Fachstelle zuständig.
 
-<sup>2</sup> Der Gemeinderat regelt die Einzelheiten. Er kann im Pachtvertrag weitere Auflösungsgründe festlegen.
+<sup>3</sup> Von der Leinenpflicht nach § 8 Abs. 1 und 2 WJG tagsüber, von 06.00 Uhr bis 22.00 Uhr ausgenommen sind folgende Gebiete (vgl. Anhang):
 
-## III. Jagdberechtigung
+- a) auf Kantonsgebiet die gesamte rechte Wiesenseite (flussabwärts);
+- b) auf Kantonsgebiet die Wiese, deren Vorländer sowie der Wiesedammweg im Perimeter des Landschaftsparks Wiese bleiben durchgehend von der Leinenpflicht ausgenommen.
 
 #### § 10
 
-**1. Voraussetzungen**
+**Fallwild**
 
-<sup>1</sup> Jagdberechtigt ist, wer:
-
-- a) nach eidgenössischem Recht volljährig ist;
-- b) sich aufgrund einer abgelegten Jägerprüfung über die erforderlichen Kenntnisse ausgewiesen hat;
-- c) gemäss Art. 15 und 16 JSG und Art. 14 JSV haftpflichtversichert ist;
-- d) keinen Ausschlussgrund erfüllt.
-
-<sup>2</sup> Für die Jägerprüfung gilt die Verordnung über die Jägerprüfung des Kantons Basel-Landschaft vom 24. Oktober 1989.
+<sup>1</sup> Die zuständigen Behörden veranlassen insbesondere Installationen von Wildwarnanlagen, organisieren Aufklärungskampagnen und ordnen Massnahmen zur Prävention von Tierseuchen und Zoonosen an. Sie beteiligen sich unter der Leitung der Kantonstierärztin oder des Kantonstierarztes an seuchenpolizeilichen Massnahmen.
 
 #### § 11
 
-**2. Ausschlussgründe**
+**Wildruhegebiete**
 
-<sup>1</sup> Von der Jagdberechtigung sind oder werden ausgeschlossen:
+<sup>1</sup> Verboten sind:
 
-- a) Bevormundete;
-- b) Konkursiten und fruchtlos Gepfändete;
-- c) Personen, die keinen guten Leumund haben;
-- d) Personen, die gemäss Art. 17 und 18 JSG wiederholt bestraft worden sind.
+- a) nächtliche Störung durch Lärm oder Licht; ausgenommen ist der unmittelbare jagdliche Einsatz gemäss Weisung der Fachstelle;
+- b) das Verlassen der Waldstrassen und ausgeschilderten Wanderwege; davon ausgenommen sind forstliche, landwirtschaftliche, hegerische und jagdliche Tätigkeiten durch Berechtigte;
+- c) das Führen von Hunden ohne Leine innerhalb des Wildruhegebiets sowie auf den begrenzenden Strassen und Wegen;
+- d) das Überfliegen mit Drohnen oder sonstigen ferngesteuerten Fluggeräten;
+- e) das Erstellen jagdlicher Einrichtungen; davon ausgenommen sind kurzzeitige Einrichtungen gemäss Weisung der Fachstelle.
 
-<sup>2</sup> Art. 20 JSG bleibt vorbehalten.
+<sup>2</sup> Ausnahmen können durch die Fachstelle bewilligt werden.
+
+<sup>3</sup> Die Fachstelle kann insbesondere zur Prävention von Tierseuchen und Zoonosen oder bei zu grossen Wildtierbeständen eine intensivere Bejagung oder das Anlegen von jagdlichen Einrichtungen anordnen.
+
+<sup>4</sup> Die Einwohnergemeinden Bettingen und Riehen sind zuständig für die angemessene Kennzeichnung der Wildruhegebiete. Die Fachstelle gibt den Einwohnergemeinden die Schilder für die Kennzeichnung zum Selbstkostenpreis ab.
 
 #### § 12
 
-**3. Jagdpass**
+**Wildtierkorridore**
 
-<sup>1</sup> Als Ausweis für die Jagdberechtigung im Kanton stellt die Gemeinde einen persönlichen Jagdpass aus. Er ist nicht übertragbar.
+<sup>1</sup> Die Wildtiere dürfen bei der freien Durchwanderung nicht gestört werden, insbesondere durch freilaufende Hunde, die Jagd oder Veranstaltungen.
 
-<sup>2</sup> Die Gemeinde prüft die Jagdberechtigung und verweigert den Jagdpass, sofern die Voraussetzungen gemäss § 9 nicht erfüllt sind.
+<sup>2</sup> Das Betreten von Anlagen zur Wildtierquerung ist verboten.
 
-<sup>3</sup> Pächterinnen oder Pächter und Jagdaufseherinnen oder Jagdaufseher erhalten einen Jahresjagdpass gegen eine jährliche vom Gemeinderat festzusetzende Gebühr. Er berechtigt die Pächterinnen oder Pächter und Jagdaufseherinnen oder Jagdaufseher zur Jagdausübung im eigenen Revier und in den anderen zur Teilnahme an der Jagd als Gast.
+<sup>3</sup> Beeinträchtigen neue zulässige technische und bauliche Eingriffe die Funktionalität eines Wildtierkorridors, so haben die Verursacherin oder der Verursacher lokal mit geeigneten Massnahmen zur Sicherstellung der Funktionalität des Wildtierkorridors Ausgleich zu schaffen.
 
-<sup>4</sup> Für Jagdgäste können Tagesjagdpässe zu einer reduzierten Gebühr abgegeben werden, die zur Teilnahme an der Jagd berechtigen.
+<sup>4</sup> Bei Vorhaben und Planungen von bewilligungspflichtigen technischen und baulichen Beeinträchtigungen in die Wildtierkorridore ist die Fachstelle bezüglich der Beurteilung der Auswirkungen vorgängig anzuhören.
 
-<sup>5</sup> Die Jagdberechtigten sind verpflichtet, den Jagdpass bei der Jagdausübung auf sich zu tragen und auf Verlangen den Kontrollorganen vorzuweisen.
+<sup>5</sup> Bewilligungsfreie technische und bauliche Beeinträchtigungen in die Wildtierkorridore sind mit der Fachstelle zu koordinieren.
 
-<sup>6</sup> Bei Eintritt von Ausschlussgründen im Sinn von § 10 verfügt die Gemeinde den Ausschluss von der Jagdberechtigung und entzieht den Jagdpass.
-
-## IV. Ausübung der Jagd
+## 3. Jagd
 
 #### § 13
 
-**1. Hege**
+**Pachtvertrag**
 
-<sup>1</sup> Die Pächterinnen oder Pächter und die Jagdaufseherinnen oder Jagdaufseher sind im Rahmen der Erhaltung eines angemessenen Wildbestandes zur Hege verpflichtet.
+<sup>1</sup> Die Verpachtung erfolgt auf dem Weg der öffentlichen Ausschreibung durch die Einwohnergemeinden Bettingen und Riehen.
 
-<sup>2</sup> Bei der Hege sind die örtlichen Verhältnisse sowie die Anliegen der Wald- und Landwirtschaft und des Naturschutzes zu berücksichtigen.
-
-<sup>3</sup> Die Gemeinden können weitere Hegevorschriften erlassen.
+<sup>2</sup> Das Pachtjahr (Jagdjahr) beginnt am 1. April und endet am 31. März des Folgejahres.
 
 #### § 14
 
-**2. Jagdausübung und Jagdbetrieb**
+**Jagdpass**
 
-<sup>1</sup> Die Jagdberechtigten sind zur fachgerechten Ausübung der Jagd und zu einem ordentlichen Jagdbetrieb gehalten.
-
-<sup>2</sup> Die Verwendung von Motorfahrzeugen zur Ausübung der Jagd ist grundsätzlich untersagt. Der Gemeinderat kann Ausnahmen bewilligen.
-
-<sup>3</sup> Die Jagd aus dem stehenden oder fahrenden Motorfahrzeug ist verboten
+<sup>1</sup> Die Ausstellung eines Jahresjagdpasses für ausserkantonale Gastjägerinnen und Gastjäger setzt eine Gegenrechtsvereinbarung voraus. Alles Weitere regelt die Fachstelle.
 
 #### § 15
 
-**3. Abschussplanung**
+**Treffsicherheitsnachweis (TSN)**
 
-<sup>1</sup> Gestützt auf die periodische Erfassung der Wildbestände legen die Pachtgesellschaften nach Absprache mit den Forstorganen dem Departement jährlich einen Abschussplan vor.
+<sup>1</sup> Die Treffsicherheit muss jährlich gemäss dem Standard der Jagd- und Fischereiverwalter-Konferenz (JFK) nachgewiesen werden.
 
-<sup>2</sup> Beim Festlegen der Abschusszahlen sind die natürliche Verjüngung der standortgemässen Baumarten sowie der Schutz bedrohter Tierarten und die Wildschadensverhütung angemessen gegeneinander abzuwägen.
+<sup>2</sup> Die Fachstelle kann ergänzende Anforderungen definieren und Ausnahmen gewähren.
+
+<sup>3</sup> Inhaberinnen und Inhaber von Jahresjagdpässen müssen den Treffsicherheitsnachweis auf einer nach JFK-Standard anerkannten Jagdschiessanlage erbringen.
+
+<sup>4</sup> Für die Teilnahme an der lauten Jagd werden gleichwertige ausländische Treffsicherheitsnachweise anerkannt.
+
+<sup>5</sup> Der Treffsicherheitsnachweis ist bei der Ausübung der Jagd auf sich zu tragen und auf Verlangen der Jagdaufsicht sowie berechtigten Mitarbeitenden der Fachstelle vorzuweisen.
 
 #### § 16
 
-**4. Jagdstatistik**
+**Haftpflichtversicherung**
 
-<sup>1</sup> Die Pachtgesellschaften haben dem Departement jährlich bis zum 15. Mai die für die Jagdstatistik erforderlichen Angaben einzureichen.
+<sup>1</sup> Die Haftpflichtversicherung deckt Schadensersatzansprüche durch Dritte ab, die durch die Jagdberechtigte oder den Jagdberechtigten sowie deren oder dessen Jagdhund in Ausübung der Jagd verursacht wurden.
 
-<sup>2</sup> Die ausserhalb der Jagdzeit erlegten verletzten oder kranken Tiere sind dem Departement unverzüglich zu melden.
+<sup>2</sup> Die Deckungssumme muss mindestens Fr. 5'000'000 betragen.
+
+<sup>3</sup> Der Nachweis über die Haftpflichtversicherung ist bei der Ausübung der Jagd auf sich zu tragen und auf Verlangen der Jagdaufsicht sowie berechtigten Mitarbeitenden der Fachstelle vorzuweisen.
 
 #### § 17
 
-**5. Jagdaufsicht**
+**Ausländische Jagdprüfungen**
 
-<sup>1</sup> Die Gemeinden sind dafür besorgt, Jagdaufseherinnen oder Jagdaufseher zu bestellen. Die dafür entstehenden Kosten können ganz oder teilweise den Pachtgesellschaften belastet werden.
+<sup>1</sup> Anerkannt werden ausländische Jagdprüfungen, wenn die Prüfungsanforderungen mit jenen der Verordnung über die Jagdprüfung des Kantons Basel-Landschaft vom 29. April 2008 vergleichbar sind und wenn:
 
-<sup>2</sup> Die Gemeinden können die Bestellung der Jagdaufseherinnen oder Jagdaufseher den Pachtgesellschaften auf deren Kosten überlassen.
+- a) ein geeigneter Nachweis eines mindestens zweijährigen Wohnsitzes im entsprechenden Prüfungsland vor und während der Zeit des Absolvierens der ausländischen Jagdprüfung erbracht wird oder
+- b) ein geeigneter Nachweis des Hegejahres oder ein vergleichbarer Praxisnachweis erbracht wird.
 
-<sup>3</sup> Die Jagdaufseherinnen oder Jagdaufseher müssen im Kanton jagdberechtigt sein und werden von der Vorsteherin oder dem Vorsteher des Departementes zur Ausübung ihrer Aufgaben ermächtigt.
+<sup>2</sup> Die Fachstelle führt eine Liste mit anerkannten ausländischen Jagdprüfungen.
 
-<sup>4</sup> Die Jagdaufseherinnen oder Jagdaufseher und die dem Departement angehörenden Organe der Jagdpolizei überwachen die Befolgung der bundes- und kantonalrechtlichen Jagdvorschriften. Sie werden in diesen Aufgaben durch die übrigen Polizei- und Forstorgane des Kantons und der Gemeinden sowie durch die Angehörigen des eidgenössischen Grenzwachtkorps unterstützt.
+<sup>3</sup> Wer eine anerkannte ausländische Jagdprüfung bestanden hat, ist im Kanton Basel-Stadt pachtberechtigt sowie berechtigt, einen Jahresjagdpass zu lösen.
+
+<sup>4</sup> Wer eine nicht anerkannte ausländische Jagdprüfung bestanden hat, ist berechtigt, im Kanton Basel-Stadt Tagesjagdpässe zu lösen.
 
 #### § 18
 
-**6. Jagdwaffen**
+**Hegeabschüsse**
 
-<sup>1</sup> Für die zur Jagdausübung erlaubten Methoden, Waffen, Hilfsmittel oder Fanggeräte gelten die bundesrechtlichen Vorschriften.
-
-<sup>2</sup> Für Ausnahmebewilligungen gemäss Art. 3 JSV ist das Departement zuständig.
+<sup>1</sup> Hegeabschüsse geschützter Tiere sind durch jagdberechtigte Mitarbeitende der Fachstelle durchzuführen oder müssen in deren Auftrag erfolgen.
 
 #### § 19
 
-**7. Hundehaltung**
+**Verletzte und kranke Tiere**
 
-<sup>1</sup> Die Pachtgesellschaften sind verpflichtet, einen zur Nachsuche geeigneten Jagdhund zu halten.
+<sup>1</sup> Die Jagdberechtigten sind ausnahmsweise berechtigt, verletzte oder erkrankte jagdbare Wildtiere ausserhalb ihres Jagdreviers zu erlegen, sofern sich diese innerhalb der Kantonsgrenzen befinden.
 
-## V. Schutz des Wildes
+<sup>2</sup> Wird ein Wildtier ausserhalb des eigenen Jagdreviers erlegt, ist die Jagdaufsicht und in Wildschutzgebieten die Fachstelle, unverzüglich zu informieren.
+
+<sup>3</sup> Seuchenverdächtige oder ausserhalb der Jagdzeit erlegte Wildtiere sind der Fachstelle unverzüglich zu melden. Bei Seuchenverdacht informiert die Fachstelle umgehend die Kantonstierärztin oder den Kantonstierarzt.
+
+<sup>4</sup> Die Jagdgesellschaft erstellt unter Anhörung der Fachstelle ein Konzept für den Umgang mit Wildunfällen.
 
 #### § 20
 
-**1. Geschützte Tiere**
+**Nachsuche**
 
-<sup>1</sup> Neben den bundesrechtlich geschützten Tieren stehen im Kanton unter Schutz:
+<sup>1</sup> Auf jedes beschossene oder verunfallte Wildtier, welches nicht auf Sichtdistanz verendet ist, muss eine zeit- und fachgerechte Nachsuche mit einem geprüften Schweiss- oder Apportierhund durchgeführt werden.
 
-- a) der Feldhase;
-- b) das Rebhuhn;
-- c) der Kolkrabe;
-- d) der Fasan;
-- e) der Haubentaucher, das Blässhuhn und alle Enten mit Ausnahme der Stockente;
-- f) die Waldschnepfe.
+<sup>2</sup> Für Hunde, die für die Nachsuche eingesetzt werden, kann die Fachstelle einen Nachweis der Praxistauglichkeit verlangen.
 
-<sup>2</sup> Das Departement kann im Interesse des Artenschutzes weitere Tiere unter Schutz stellen oder deren Schutz vorübergehend aufheben.
+<sup>3</sup> Muss die Nachsuche über die Reviergrenze hinaus durchgeführt werden, ist die Jagdaufsicht des Nachbarreviers unverzüglich zu informieren.
 
 #### § 21
 
-**2. Jagdbare Arten und Schonzeiten**
+**Fehlabschüsse**
 
-<sup>1</sup> Für die jagdbaren Arten und Schonzeiten gelten grundsätzlich die bundesrechtlichen Vorschriften.
+<sup>1</sup> Ein Fehlabschuss ist der versehentliche Abschuss:
 
-<sup>2</sup> Es gelten folgende Ausnahmen:
+- a) von führenden Muttertieren, deren Jungtiere noch auf die Fürsorge des Muttertieres angewiesen sind;
+- b) in der Schonzeit, unter Einhaltung der üblichen jagdlichen Vorsichtsmassnahmen.
 
-- a) Rehbock vom 1. Januar bis 30. April;
-- b) Rehgeiss und Rehkitz vom 1. Januar bis 31. Oktober.
+<sup>2</sup> Fehlabschüsse sowie der Abschuss von geschützten Tieren sind der Fachstelle innerhalb von 24 Stunden zur Kenntnis zu bringen.
 
-<sup>3</sup> Das Departement kann die Schonzeiten gemäss Art. 5 Abs. 4 JSG verlängern und gemäss Art. 5 Abs. 5 JSG vorübergehend verkürzen.
+<sup>3</sup> Zwei oder mehr Fehlabschüsse innerhalb von zwölf Monaten werden zur Anzeige gebracht.
 
-<sup>4</sup> Im Sinn von Art. 12 Abs. 2 Satz 1 JSG kann Schwarzwild (Frischlinge und Überläufer) auch vom 1. Februar bis 30. Juni gejagt werden, wenn es erheblichen Schaden anzurichten droht.
+<sup>4</sup> Beim Schwarzwild werden drei oder mehr Fehlabschüsse innerhalb von zwölf Monaten zur Anzeige gebracht.
 
 #### § 22
 
-**3. Schutzgebiete**
+**Jagdwaffen**
 
-<sup>1</sup> In Schutzgebieten ist die Jagd untersagt. Das Departement kann Ausnahmen nach Art. 11 Abs. 5 JSG bewilligen.
+<sup>1</sup> Zulässig sind ausschliesslich Jagdwaffen, die ein waidgerechtes und tierschutzkonformes Töten von wildlebenden Tieren ermöglichen.
 
-<sup>2</sup> Im Sinn dieser Vorschrift gilt das Naturschutzreservat «In den Breitmatten» als Schutzgebiet.
+<sup>2</sup> Alle Jagdwaffen müssen mit einer Sicherungsmöglichkeit oder einem Handspannsystem ausgerüstet sein.
 
-<sup>3</sup> Die Gemeinden können weitere Schutzgebiete ausscheiden.
+<sup>3</sup> Einzelheiten regelt die Fachstelle.
 
 #### § 23
 
-**4. Jagdverbot**
+**Munition**
 
-<sup>1</sup> An öffentlichen Ruhetagen und zur Nachtzeit ist das Jagen verboten.
+<sup>1</sup> Die Verwendung von bleihaltiger Kugelmunition und Vollmantelgeschossen ist verboten.
+
+<sup>2</sup> Zugelassen ist Kugelmunition, die aufgrund des Kalibers und der erzielbaren Auftreffenergie eine waid- und tierschutzgerechte Bejagung ermöglicht.
+
+<sup>3</sup> Zugelassen sind Schrotpatronen, die aufgrund ihrer Grösse eine waid- und tierschutzgerechte Bejagung ermöglichen.
+
+<sup>4</sup> Die Fachstelle regelt die Einzelheiten.
 
 #### § 24
 
-**5. Schutz vor Störung**
+**Schussdistanzen, Motorfahrzeuge und Hilfsmittel**
 
-<sup>1</sup> Veranstaltungen im Wald oder am Waldrand dürfen wildlebende Säugetiere und Vögel nicht übermässig stören.
+<sup>1</sup> Die maximalen Schussdistanzen betragen:
 
-<sup>2</sup> Bei bewilligungspflichtigen Anlässen haben die Gemeinden diesem Grundsatz im Rahmen der Bewilligungserteilung besondere Beachtung zu schenken.
+- a) 35 m für den Schrotschuss und für Flintenlaufgeschosse;
+- b) 200 m für den Kugelschuss.
 
-<sup>3</sup> Wildernde Hunde und verwilderte Hauskatzen können insbesondere während der Hauptsetz- und Brutzeit – April bis Juli – durch Pächterinnen oder Pächter, die Jagdaufseherinnen oder Jagdaufseher und die Organe der Jagdpolizei abgeschossen werden.
+<sup>2</sup> Das Schiessen aus dem Motorfahrzeug ist verboten.
+
+<sup>3</sup> In Beachtung der in Art. 3 der Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdverordnung, JSV) vom 29. Februar 1988 festgelegten Voraussetzungen, kann die Fachstelle die Verwendung verbotener Hilfsmittel bewilligen.
 
 #### § 25
 
-**6. Einfangen, Halten und Aussetzen jagdbarer Tiere**
+**Einsatz von Jagdhunden**
 
-<sup>1</sup> Das Einfangen, die Haltung und das Aussetzen jagdbarer Tiere bedürfen der Bewilligung des Departementes.
+<sup>1</sup> Hunde, welche auf der Jagd eingesetzt werden, müssen ausgebildet und geprüft sein.
 
-<sup>2</sup> Das Einfangen darf nicht gewerbsmässig erfolgen.
+<sup>2</sup> Der Einsatz von Hunden für Drück- und kurze Bewegungsjagden ausserhalb der lauten Jagd muss von der Fachstelle bewilligt werden.
 
-<sup>3</sup> Für das Aussetzen jagdbarer Tiere sind die Grundsätze von Art. 6 JSG zu beachten.
-
-## VI. Wildschaden
+<sup>3</sup> Alle weiteren Einzelheiten regelt die Fachstelle, welche auch die Vorschriften über die Ausbildung von Jagdhunden in Absprache mit dem Kantonalen Veterinäramt vollzieht.
 
 #### § 26
 
-**1. Verhütung von Wildschaden**
+**Baujagd**
 
-<sup>1</sup> Die Verhütung von Wildschaden dient der Waldbewirtschaftung, insbesondere dem Schutz der Naturverjüngungen und dem Schutz von Liegenschaften, landwirtschaftlichen Kulturen sowie Haus- und Nutztieren.
+<sup>1</sup> Für die Baujagd kann die Fachstelle den Einsatz von Hunden bewilligen:
 
-<sup>2</sup> Als wirksame Verhütungsmassnahme im Sinn dieser Bestimmung gilt vor allem die Abschussplanung gemäss § 14 und deren Einhaltung.
-
-<sup>3</sup> Gemäss Art. 12 Abs. 2 JSG kann das Departement von Amtes wegen sowie auf Antrag der Gemeinde oder der Pachtgesellschaften den Abschuss einzelner geschützter oder jagdbarer Tiere anordnen, welche erheblichen Schaden anrichten.
-
-<sup>4</sup> Die Grundeigentümerinnen oder Grundeigentümer sind verpflichtet, zum Schutz ihrer Kulturen und Tiere gegen Wildschaden die zumutbaren Verhütungsmassnahmen zu treffen. Hierzu gehört unter anderem die fachgerechte und wirksame Einzäunung von Obst- und Gemüsekulturen, Baumschulen, Gärtnereien, Zierpflanzenanlagen usw.
-
-<sup>5</sup> Schutzmassnahmen zur Verhütung von Wildschaden im Wald treffen die zuständigen Forstorgane in Zusammenarbeit mit den Pachtgesellschaften.
+- a) zur Prävention und Bekämpfung von Tierkrankheiten und -seuchen;
+- b) zum Schutz gefährdeter Wildtierarten wie Hasen oder Bodenbrütern;
+- c) zur Schadenabwehr in Siedlungsgebieten und an Infrastrukturen.
 
 #### § 27
 
-**2. Selbsthilfemassnahmen**
+**Kirrungen**
 
-<sup>1</sup> Die Grundeigentümerinnen oder Grundeigentümer sind berechtigt, jagdbare Tiere in Gebäulichkeiten ohne und in ihren landwirtschaftlichen Kulturen mit Bewilligung des Departementes abzuschiessen, sofern dies zum entsprechenden Schutz erforderlich ist.
+<sup>1</sup> An Kirrungen darf frühestens ein Monat vor Beginn und bis zum Ablauf der Jagdzeit für Schwarzwild im Wald Lockfutter ausgebracht werden. Die Fachstelle kann Ausnahmen bewilligen.
 
-<sup>2</sup> Selbsthilfemassnahmen gegen Tiere geschützter Art gemäss Art. 9 Abs. 1 JSV sind nur durch Abschuss zulässig. Andere Hilfsmittel sind nicht zulässig.
+<sup>2</sup> Ohne Bewilligung darf nicht mehr als eine Kirrung pro 100 ha Waldfläche angelegt werden.
 
-<sup>3</sup> Der Abschuss ist nur mit Bewilligung des Departementes in begründeten Fällen für landwirtschaftliche Kulturen und Pflanzgärten sowie für Produktionsstätten von Lebensmitteln und nur ausserhalb der Brutzeit gestattet.
+<sup>3</sup> An den Kirrungen dürfen ausschliesslich einheimische Futtermittel gemäss Liste der Fachstelle als Lockfutter ausgebracht werden. Die insgesamt vorhandene Lockfuttermenge darf pro Kirrung maximal 1 kg betragen.
 
-<sup>4</sup> Bewilligungen werden nur Grundeigentümerinnen und Grundeigentümern, gegebenenfalls deren Pächterinnen und Pächtern sowie den Organen der Jagdpolizei erteilt.
+<sup>4</sup> Die Fachstelle kann die Anzahl und den Betrieb von Kirrungen beschränken sowie deren Lage bezeichnen.
 
 #### § 28
 
-**3. Entschädigungspflicht**
+**Ausnahmen von der Beschränkung der Jagd**
 
-<sup>1</sup> Der nachweisbare Schaden, den jagdbare Tiere anrichten, ist angemessen zu entschädigen.
+<sup>1</sup> Das Verfolgen und Erlegen kranker oder verletzter jagdbarer Tiere ist unter Beachtung der Kriterien für eine zeitgerechte Nachsuche jederzeit erlaubt.
 
-<sup>2</sup> Die Pachtgesellschaften übernehmen die Kosten für die Schadensdeckung.
+<sup>2</sup> Die Bejagung von Schwarzwild, Fuchs, Dachs, Steinmarder, Waschbär und Marderhund ist auch von Einbruch der Dunkelheit bis zum Tagesanbruch erlaubt.
 
-<sup>3</sup> Entschädigungsansprüche sind nach Feststellung eines Schadenfalls unverzüglich der Gemeinde anzumelden, die den Schaden schätzen lässt.
+<sup>3</sup> Die Bejagung von Schwarzwild ist darüber hinaus in der Nacht von Samstag auf Sonntag bis zum Tagesanbruch und in der Nacht von Sonntag auf Montag ab Anbruch der Abenddämmerung erlaubt.
 
-<sup>4</sup> Sofern zwischen den Geschädigten und den Pachtgesellschaften keine Einigung über die Höhe der Entschädigung zustande kommt, entscheidet die Gemeinde durch rekursfähige Verfügung.
+<sup>4</sup> Die Ausnahmen von Abs. 2 und 3 gelten nicht an den hohen Feiertagen und an den Feiertagen gemäss § 2 des Gesetzes über öffentliche Ruhetage und Ladenöffnung (RLG) vom 29. Juni 2005.
+
+## 4. Massnahmen zur Verhütung von Wildschaden, Selbsthilfemassnahmen und Entschädigung von Wildschaden
 
 #### § 29
 
-**4. Wegfall der Entschädigungspflicht**
+**Zumutbare Verhütungsmassnahmen in Landwirtschaft und Wald**
 
-<sup>1</sup> Eine Entschädigung ist nicht geschuldet:
+<sup>1</sup> Anlagen zur Verhinderung von Wildschäden sind stets wirksam zu gestalten, fachgemäss zu unterhalten und zu pflegen.
 
-- a) bei Unterlassung der zumutbaren Verhütungsmassnahmen durch die Geschädigten;
-- b) bei Schäden durch Tiere, gegen die Selbstschutzmassnahmen zulässig sind;
-- c) bei Schäden in öffentlichen und privaten Parkanlagen und anderen Gebieten, wo die Jagd nicht ausgeübt werden kann;
-- d) bei Schäden, die durch eine Versicherung gedeckt sind;
-- e) in Bagatellfällen.
+<sup>2</sup> Zumutbare Wildschadenverhütungsmassnahmen sind:
 
-## VII. Strafbestimmungen
+- a) die Verwendung von begrannten Getreidesorten, sofern erhältlich;
+- b) das Verziehen von Kuhfladen nach dem letzten Weidegang, wo dies maschinell möglich ist;
+- c) das rechtzeitige Abräumen der bei der Ernte liegengebliebenen Maiskolben soweit möglich;
+- d) Einzäunungen bei Maiskulturen nach einem festgestellten Schaden mit einem ersten Draht zwischen 20 – 25 cm und einem zweiten Draht zwischen 45 – 50 cm über dem Boden mit mindestens 4'000 V Spannung;
+- e) bei Spezialkulturen Einzäunungen, die das Eindringen von Wildtieren wirksam verhindern;
+- f) das Schaffen jagdlicher Möglichkeiten durch das Anlegen von Schussschneisen und bejagdbaren Waldrandabständen oder das Erlauben der Errichtung von Hochsitzen;
+- g) im Wald das Anlegen von Freihalteflächen.
 
 #### § 30
 
-**Widerhandlungen**
+**Beiträge für neue Massnahmen an landwirtschaftlichen Kulturen**
 
-<sup>1</sup> Widerhandlungen gegen die Jagdgesetzgebung werden nach den Strafbestimmungen von Art. 17–19 JSG verfolgt und bestraft.
+<sup>1</sup> Auf dem Gebiet der Stadt Basel beteiligt sich der Kanton zur Hälfte an den Kosten angemessener Wildschadensverhütungsmassnahmen in neu erstellten Intensivobstanlagen, Rebanlagen und Spezialkulturen, wenn:
 
-<sup>2</sup> Die Organe der Jagdpolizei und die anderen mit der Jagdaufsicht betrauten Personen haben ihnen zur Kenntnis gelangte Widerhandlungen zur Anzeige zu bringen.
+- a) beim Flächenschutz Obstanlagen mindestens 40 a, Rebanlagen und Spezialkulturen mindestens 20 a Fläche aufweisen;
+- b) beim Einzelschutz die Anpflanzungen bei Intensivobstanlagen mindestens 100 Bäume und bei Hochstammanlagen mindestens 50 Bäume umfassen;
+- c) die Zaunanlage der Baugesetzgebung entspricht;
+- d) die Anlage vom Ebenrain-Zentrum für Landwirtschaft, Natur und Ernährung beurteilt worden ist.
 
-## VIII. Schlussbestimmung
+<sup>2</sup> Der Beitrag erfolgt einmalig. Der Richtwert beträgt Fr. 6 pro Laufmeter für den Flächenschutz und Fr. 2 pro Baum für den Einzelschutz.
+
+<sup>3</sup> Auf dem Gebiet der Einwohnergemeinden Bettingen und Riehen sind diese zuständig für Gewährung von Beiträgen.
 
 #### § 31
 
-**Aufhebung des bisherigen Rechts und Inkrafttreten**
+**Pflichten der Beitragsempfängerinnen und Beitragsempfänger**
 
-<sup>1</sup> Durch diese Verordnung wird die Jagdverordnung des Kantons Basel-Stadt vom 21. Dezember 1962 aufgehoben.
+<sup>1</sup> Die Beitragsempfängerinnen und Beitragsempfänger verpflichten sich:
 
-<sup>2</sup> Diese Verordnung ist zu publizieren. Sie wird unter Vorbehalt der Genehmigung durch das Eidgenössische Departement des Innern sofort wirksam.[^31-1]
+- a) den Zaun mit Diagonaldrahtgeflecht aus verzinktem Draht mit maximal 50 mm Maschenweite, 2 mm Drahtstärke und 120 cm Breite oder aus stabilem Knotengitter, das bis 120 cm Höhe eine maximale Maschenweite von 50 mm aufweist, zu erstellen;
+- b) bei einem Hasenschutz ein eng am Boden anliegendes Drahtgeflecht zu verwenden und darüber 2 Fangdrähte bis zur Gesamthöhe von 150 cm zu installieren;
+- c) stabiles und dauerhaftes Pfahlmaterial im Abstand von ca. 4 m zu verwenden;
+- d) keine Änderungen an der Zaunanlage ohne Zustimmung der Fachstelle vorzunehmen, ansonsten sind die Beiträge ganz oder teilweise zurückzuerstatten.
 
-[^31-1]: Wirksam seit 29. 8. 1993.
+<sup>2</sup> Die landwirtschaftliche Einzäunung bzw. Anlage darf in den ersten 15 Jahren nur mit Genehmigung der Fachstelle entfernt werden. Die Genehmigung der Fachstelle für die Entfernung von Anlagen in der Landwirtschaft erfolgt im Einverständnis mit dem Ebenrain-Zentrum für Landwirtschaft, Natur und Ernährung.
 
-KB 28.08.1993
+#### § 32
+
+**Pflichten der Waldbesitzerinnen und Waldbesitzer**
+
+<sup>1</sup> Die Waldbesitzerinnen und Waldbesitzer orientieren vor der Ausführung von Wildschadenverhütungsmassnahmen das Amt für Wald und Wild beider Basel und die zuständige Jagdgesellschaft über Art, Umfang, Ort und Dringlichkeit der vorgesehenen Massnahmen.
+
+<sup>2</sup> Die Waldbesitzerinnen und Waldbesitzer sind verpflichtet, die getätigten Wildschadenverhütungsmassnahmen sachgemäss und wirksam zu unterhalten und zu pflegen sowie nach der Erfüllung des Schutzzwecks vollständig zu entfernen.
+
+<sup>3</sup> Die für das Gebiet zuständige Jagdgesellschaft kann im Wald zur Mitarbeit bei Errichtung von Schutzmassnahmen beigezogen werden.
+
+<sup>4</sup> Die Genehmigung der Fachstelle für die Entfernung von Anlagen im Wald erfolgt im Einverständnis mit dem Amt für Wald und Wild beider Basel.
+
+#### § 33
+
+**Verfahren**
+
+<sup>1</sup> Beitragsgesuche für das Gebiet der Stadt Basel sind der Fachstelle einzureichen.
+
+<sup>2</sup> Die Fachstelle prüft die Gesuche und erlässt eine Verfügung über die Gewährung der Beiträge.
+
+#### § 34
+
+**Selbsthilfemassnahmen zur Verhütung von Wildschaden**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer, bei landwirtschaftlichen Betrieben Bewirtschafterinnen und Bewirtschafter, sind berechtigt, Selbsthilfemassnahmen zu treffen, wenn diese zum Schutz der Nutztiere, landwirtschaftlichen Gebäuden oder landwirtschaftlichen Kulturen erforderlich und zumutbar sind.
+
+<sup>2</sup> Wildtiere, die im Rahmen der Selbsthilfe erlegt, eingefangen oder abgewehrt werden können, sind:
+
+- a) Saat- und Rabenkrähen;
+- b) Elstern;
+- c) Eichelhäher;
+- d) Fuchs;
+- e) Dachs;
+- f) Marderhund;
+- g) Waschbär;
+- h) Steinmarder.
+
+<sup>3</sup> Im Siedlungsgebiet sind Liegenschaftseigentümerinnen und -eigentümer sowie Liegenschaftsbesitzerinnen und -besitzer nur berechtigt, die Selbsthilfemassnahmen des Einfangens oder des Abwehrens zu ergreifen.
+
+<sup>4</sup> Eine gebührenfreie Bewilligung ist vorgängig bei der Fachstelle einzuholen.
+
+<sup>5</sup> Im Rahmen der Selbsthilfe erlegte Wildtiere sind der Fachstelle innerhalb von 24 Stunden zu melden.
+
+<sup>6</sup> Jagdliche Einschränkungen wie Muttertierschutz und die Schonzeiten für Wildtiere gelten auch für Selbsthilfemassnahmen.
+
+#### § 35
+
+**Hilfsmittel für die Selbsthilfe zur Verhütung von Wildschaden**
+
+<sup>1</sup> Die Fachstelle regelt die Verwendung von Hilfsmitteln für die Selbsthilfe.
+
+<sup>2</sup> Die Fachstelle und die Jagdaufsicht sind berechtigt, die verwendeten Hilfsmittel zu überprüfen.
+
+<sup>3</sup> Sind Selbsthilfemassnahmen in begründeten Einzelfällen nicht möglich, ist eine Entschädigung eingetretener Wildschäden ausnahmsweise zu prüfen.
+
+#### § 36
+
+**Grundsätze der Entschädigung von Wildschäden**
+
+<sup>1</sup> Die Abschätzung von Schäden, welche durch jagdbare Tiere an Wald, landwirtschaftlichen Kulturen und Nutztieren angerichtet werden, erfolgt nach anerkannten Richtlinien der Verbände der Land- und Forstwirtschaft. In besonderen Fällen können die Einwohnergemeinden Bettingen und Riehen und die Fachstelle Sachverständige beiziehen.
+
+<sup>2</sup> Für die Instandstellung von Kulturen setzt sich die Vergütung aus Fr. 35 pro Person und Stunde und den Maschinenkosten gemäss Agroscope zusammen.
+
+<sup>3</sup> Die Schadenmeldung hat innerhalb von drei Arbeitstagen nach Feststellung an die Einwohnergemeinden Bettingen und Riehen, die Fachstelle und die Jagdgesellschaft zu erfolgen. Bei verspäteter Meldung kann die Vergütung gekürzt oder gestrichen werden.
+
+<sup>4</sup> Als Bagatellschadengrenze gelten Fr. 150 bei Wieslandschäden und Fr. 200 bei sonstigen Schäden. Bei Nichterreichen der Bagatellschadengrenze wird kein Schätzungsverfahren eingeleitet und keine Entschädigung ausgerichtet.
+
+<sup>5</sup> Die Kulturschäden werden nach der Wegleitung für die Schätzung von Kulturen zum mittleren Ertragswert vergütet. Bei ertragsschwachen Kulturen bleibt ein entsprechender Abzug vorbehalten.
+
+## 5. Gebühren
+
+#### § 37
+
+**Gebühren für Bestätigungen und Bewilligungen**
+
+<sup>1</sup> Für von den Jagdberechtigten angeforderte Jagdfähigkeitsausweise und deren Duplikate sowie Duplikate von Diplomen und Bestätigungen beträgt die Gebühr Fr. 25.
+
+<sup>2</sup> Die von der Fachstelle zu erhebende Bearbeitungsgebühr beträgt für:
+
+- a) Haltebewilligungen für geschützte oder wildlebende Tiere bis Fr. 500;
+- b) sonstige Bewilligungen bis Fr. 200.
+
+#### § 38
+
+**Gebühren bei Fehlabschüssen**
+
+<sup>1</sup> Die Fachstelle erhebt bei einem Fehlabschuss eine Gebühr von:
+
+- a) 100 % des Verwertungserlöses, wenn innerhalb der letzten zwölf Monate maximal ein Fehlabschuss der oder des Jagdberechtigten verzeichnet ist;
+- b) 50 % des Verwertungserlöses, wenn innerhalb der letzten 18 Monate keine weiteren Fehlabschüsse der oder des Jagdberechtigten verzeichnet sind;
+- c) 20 % des Verwertungserlöses, wenn innerhalb der letzten 24 Monate keine weiteren Fehlabschüsse der oder des Jagdberechtigten verzeichnet sind.
+
+<sup>2</sup> Die Fachstelle kann auf die Erhebung einer Gebühr verzichten, wenn glaubhaft dargelegt werden kann, dass die allgemein üblichen jagdlichen Vorsichtsmassnahmen getroffen worden sind.
+
+<sup>3</sup> Die jagdlichen Trophäen sind bei Fehlabschüssen an die Fachstelle abzugeben.
+
+## 6. Widerhandlungen
+
+#### § 39
+
+**Amts- und Vollzugshilfe**
+
+<sup>1</sup> Die Kantonspolizei leistet den Mitarbeiterinnen und Mitarbeitern der Fachstelle und der Jagdaufseherin oder dem Jagdaufseher die nötige Amts- und Vollzugshilfe.
+
+<sup>2</sup> Die Einzelheiten der Zusammenarbeit zwischen der Kantonspolizei und den Vollzugsorganen der Wildtier- und Jagdgesetzgebung werden in einer Vereinbarung geregelt.
+
+## 7. Übergangs- und Schlussbestimmungen
+
+#### § 40
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Ab dem 1. April 2024 ist ausschliesslich die Verwendung sogenannter bleifreier Kugelgeschosse erlaubt.
+
+<sup>2</sup> Gewählte Jagdaufseherinnen und Jagdaufseher können ihr Amt bis 31. März 2024 ohne Nachweise gemäss § 5 Abs. 1 lit. e und Abs. 4 ausüben.
+
+<sup>3</sup> Bestehende Zaunanlagen ausserhalb der Bauzone sind spätestens bis Ende 2032 durch wildtierschutzgerechte Zäune zu ersetzen.
+
+Im Namen des Regierungsrates
+
+Der Vizepräsident: Lukas Engelberger
+
+Die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
+
+*Schlussbestimmung*
+
+Diese Verordnung ist zu publizieren; sie bedarf der Genehmigung durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)[^footer-1] und tritt am 1. April 2024 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdverordnung) vom 24. August 1993 aufgehoben.
+
+KB 16.03.2024
+
+[^footer-1]: Die Genehmigung bzgl. §§ 6-10, § 11, § 12, §§ 34 und 35 dieser Verordnung ist am 8. Mai 2024 erfolgt (KB vom 15.5.2024).
