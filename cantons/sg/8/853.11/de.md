@@ -4,13 +4,12 @@ number: "853.11"
 title: Jagdverordnung
 short: JV
 language: de
-version: 2023-08-01
-valid_until: 2024-03-31
+version: 2024-04-01
 version_adopted: 2023-01-24
 adopted: 2015-05-19
 in_force: 2016-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3477/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3477/pdf_file"
 
 (JV)
 
-vom 19.05.2015 (Stand 01.08.2023)
+vom 19.05.2015 (Stand 01.04.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -119,19 +118,7 @@ als Verordnung:[^ingress-3]
 
 #### Art. 10
 
-**Anpassung der Pachtverfügung**
-
-<sup>1</sup> Das Amt für Natur, Jagd und Fischerei bewilligt durch Anpassung der Pachtverfügung:
-
-- a) die Aufnahme einer neuen Pächterin oder eines neuen Pächters in die Jagdgesellschaft;
-- b) den Austritt einer Pächterin oder eines Pächters aus der Jagdgesellschaft;
-- c) der Pächterin oder dem Pächter, die Anrechenbarkeit an die notwendige Anzahl Pächterinnen und Pächter zu ändern.
-
-<sup>2</sup> Die Bewilligung wird erteilt, wenn die Voraussetzungen der Pachtvergabe[^10-1] erfüllt bleiben.
-
-<sup>3</sup> Die Anpassung der Pachtverfügung setzt die Zustimmung der unmittelbar betroffenen Jagdgesellschaften voraus.
-
-[^10-1]: Art. 10 des Jagdgesetzes, sGS [853.1](https://www.gesetzessammlung.sg.ch/data/%20853.1/de).
+**…**
 
 ## 4. Pachtzins
 
@@ -162,21 +149,21 @@ als Verordnung:[^ingress-3]
 - d) sie hilft beratend und mit jagdlichen Massnahmen bei der Wildschadenabwehr mit;
 - e) sie führt auf Anordnung des Amtes für Natur, Jagd und Fischerei Massnahmen gegen einzelne geschützte oder jagdbare Tiere, die erheblichen Wildschaden anrichten, durch;
 - f) sie unterstützt Private bei Selbsthilfemassnahmen gegen Wildschäden;
-- g) sie sorgt dafür, dass die Polizei oder die Beteiligten bei einem Verkehrsunfall mit Wild eine Pächterin oder einen Pächter beiziehen können;
+- g) sie sorgt dafür, dass die Polizei oder die Beteiligten bei einem Verkehrsunfall mit Wild ein Mitglied der Jagdgesellschaft beiziehen können;
 - h) sie ist zuständig für die Bergung und Entsorgung von Fallwild, soweit nicht andere staatliche oder private Organe zuständig sind;
 - i) sie unterstützt die Wildhut bei der Bestandesregulierung von nicht-einheimischen oder geschützten Wildtieren;
 - j) sie fängt oder beseitigt im Auftrag der Wildhut ausgerissene Tiere;
 - k) sie führt die Bestandeserhebung durch;
 - l) sie führt die Jagdstatistik;
-- m) sie kontrolliert wenigstens einmal je Pachtjahr, ob alle Pächterinnen und Pächter sowie die Jagdgäste mit Fähigkeitsausweis, bei denen die Jagdgesellschaft dauerhaft auf die Aufsicht verzichtet, jagdberechtigt sind.
+- m) sie kontrolliert wenigstens einmal je Pachtjahr, ob alle Mitglieder sowie die Jagdgäste mit Fähigkeitsausweis, bei denen die Jagdgesellschaft dauerhaft auf die Aufsicht verzichtet, jagdberechtigt sind.
 
 #### Art. 13
 
 **Organisation a) Vertretung**
 
-<sup>1</sup> Die Jagdgesellschaft ernennt eine Pächterin oder einen Pächter zur Obfrau oder zum Obmann.
+<sup>1</sup> Die Jagdgesellschaft ernennt ein Mitglied der Jagdgesellschaft zur Obfrau oder zum Obmann.
 
-<sup>2</sup> Die Obfrau oder der Obmann vertritt die Jagdgesellschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Jagdgesellschaft nichts anderes bestimmt.
+<sup>2</sup> Die Obfrau oder der Obmann vertritt die Jagdgesellschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit ihre Statuten nichts anderes bestimmen.
 
 <sup>3</sup> Die Jagdgesellschaft teilt die Ernennung dem Amt für Natur, Jagd und Fischerei mit. Solange dies nicht erfolgt ist, gilt die Vertreterin oder der Vertreter aus der Bewerbung als Obfrau oder Obmann.
 
@@ -184,9 +171,33 @@ als Verordnung:[^ingress-3]
 
 **b) Beschlussfassung**
 
-<sup>1</sup> Die Jagdgesellschaft trifft Beschlüsse über öffentlich-rechtliche Jagdangelegenheiten mit einfachem Mehr ihrer Mitglieder.
+<sup>1</sup> Die Jagdgesellschaft trifft Beschlüsse über öffentlich-rechtliche Jagdangelegenheiten durch Vereinsbeschluss[^14-1].
 
-<sup>2</sup> Sie kann die Beschlussfassung anders regeln.
+<sup>2</sup> …
+
+[^14-1]: [Art. 66](https://db.clex.ch/link/Bund/210/de) ff. des Schweizerischen Zivilgesetzbuches, SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Art. 14a
+
+**Änderung der Zusammensetzung a) mitteilungspflichtige Angaben**
+
+<sup>1</sup> Die Jagdgesellschaft meldet dem Amt für Natur, Jagd und Fischerei innerhalb von 14 Tagen:
+
+- a) den Ein- und Austritt von Mitgliedern;
+- b) den Tod oder den Verlust der Jagdberechtigung von Mitgliedern;
+- c) die Auflösung des Vereins unter Angabe der Gründe[^14a-1].
+
+<sup>2</sup> Die Meldung des Eintritts von neuen Mitgliedern enthält die Angaben nach Art. 8 Abs. 1 Bst. a dieses Erlasses.
+
+[^14a-1]: [Art. 76](https://db.clex.ch/link/Bund/210/de) ff. des Schweizerischen Zivilgesetzbuches, SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Art. 14b
+
+**b) notwendige Mitgliederzahl**
+
+<sup>1</sup> Bei Unterschreiten der notwendigen Mitgliederzahl der Jagdgesellschaft, insbesondere durch Austritt, Tod oder Verlust der Jagdberechtigung von Mitgliedern, wird die notwendige Mitgliederzahl innerhalb von sechs Monaten wiederhergestellt[^14b-1].
+
+[^14b-1]: [Art. 14](https://www.gesetzessammlung.sg.ch/data/853.1/de/art14) des Jagdgesetzes, sGS [853.1](https://www.gesetzessammlung.sg.ch/data/853.1/de).
 
 ## 2. Hegegemeinschaft
 
@@ -219,7 +230,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Hegegemeinschaft tritt im öffentlich-rechtlichen Verhältnis in Form einer Personenverbindung ohne Rechtspersönlichkeit auf.
 
-<sup>2</sup> Sie umfasst die Pächterinnen und Pächter der Jagdgesellschaften, deren Revier ganz oder teilweise im Hegegebiet liegt.
+<sup>2</sup> Sie umfasst die Jagdgesellschaften, deren Revier ganz oder teilweise im Hegegebiet liegt.
 
 #### Art. 19
 
@@ -235,7 +246,7 @@ als Verordnung:[^ingress-3]
 
 **c) Vertretung**
 
-<sup>1</sup> Die Hegegemeinschaft ernennt eine Pächterin oder einen Pächter zur Obfrau oder zum Obmann.
+<sup>1</sup> Die Hegegemeinschaft ernennt ein Mitglied einer Jagdgesellschaft zur Obfrau oder zum Obmann.
 
 <sup>2</sup> Die Obfrau oder der Obmann vertritt die Hegegemeinschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Hegegemeinschaft nichts anderes bestimmt.
 
@@ -298,9 +309,9 @@ als Verordnung:[^ingress-3]
 
 #### Art. 28
 
-**b) für Pächterinnen und Pächter**
+**b) für Mitglieder der Jagdgesellschaft**
 
-<sup>1</sup> Der Jagdausweis für Pächterinnen und Pächter gilt für die Pachtdauer.
+<sup>1</sup> Der Jagdausweis für Mitglieder der Jagdgesellschaft gilt für die Pachtdauer.
 
 <sup>2</sup> Er bescheinigt die Berechtigung zur Jagdausübung im gepachteten Revier. In den übrigen Revieren gilt er als Jagdausweis für Jagdgäste mit Fähigkeitsausweis.
 
@@ -320,13 +331,13 @@ als Verordnung:[^ingress-3]
 
 <sup>2</sup> Er wird nach den bestandenen Prüfungen im Schiessen ausgestellt und gilt zwei Jahre, höchstens aber bis zum Bestehen der Jagdprüfung.
 
-<sup>3</sup> Der Jagdausweis bescheinigt die Berechtigung, unter der Aufsicht einer Pächterin oder eines Pächters die Jagd auszuüben.
+<sup>3</sup> Der Jagdausweis bescheinigt die Berechtigung, unter der Aufsicht eines Mitglieds der Jagdgesellschaft die Jagd auszuüben.
 
 #### Art. 31
 
 **Jagdpass a) Wirkung**
 
-<sup>1</sup> Der Jagdpass begründet die Berechtigung, unter Aufsicht einer Pächterin oder eines Pächters die Jagd im Revier der einladenden Jagdgesellschaft auszuüben.
+<sup>1</sup> Der Jagdpass begründet die Berechtigung, unter Aufsicht eines Mitglieds der Jagdgesellschaft die Jagd im Revier der einladenden Jagdgesellschaft auszuüben.
 
 <sup>2</sup> Er schliesst die obligatorische Haftpflichtversicherung ein.
 
@@ -432,16 +443,16 @@ als Verordnung:[^ingress-3]
 
 **b) wildernde Hunde und verwilderte Katzen**
 
-<sup>1</sup> Wildhut, Pächterinnen und Pächter dürfen abschiessen:
+<sup>1</sup> Wildhut und Mitglieder der Jagdgesellschaften dürfen abschiessen:
 
 - a) einen wildernden Hund, wenn dieser:
   - 1\. das Wild unmittelbar gefährdet oder
   - 2\. erneut wildert, nachdem die Halterin oder der Halter von der Wildhut oder der Jagdgesellschaft schriftlich ermahnt wurde.
 - b) eine verwilderte Hauskatze.
 
-<sup>2</sup> Die Pächterin oder der Pächter ist nur im eigenen Revier zum Abschuss berechtigt. Ausgenommen ist der Abschuss auf Anordnung des Amtes für Natur, Jagd und Fischerei.
+<sup>2</sup> Ein Mitglied der Jagdgesellschaft ist nur im eigenen Revier zum Abschuss berechtigt. Ausgenommen ist der Abschuss auf Anordnung des Amtes für Natur, Jagd und Fischerei.
 
-<sup>3</sup> Die Pächterin oder der Pächter meldet den Abschuss eines Hundes sofort der Wildhut.
+<sup>3</sup> Das Mitglied der Jagdgesellschaft meldet den Abschuss eines Hundes sofort der Wildhut.
 
 ## VI. Jagdplanung und Jagdbetrieb
 
@@ -717,7 +728,7 @@ als Verordnung:[^ingress-3]
 
 **b) Gebühren der Jagdgesellschaft**
 
-<sup>1</sup> Für Tätigkeiten der Pächterinnen und Pächter zugunsten von Privaten stellt die Jagdgesellschaft den Privaten schriftlich Rechnung.
+<sup>1</sup> Für Tätigkeiten ihrer Mitglieder zugunsten von Privaten stellt die Jagdgesellschaft den Privaten schriftlich Rechnung.
 
 <sup>2</sup> Wird die Gebührenrechnung nicht bezahlt:
 
