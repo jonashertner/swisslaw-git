@@ -3,18 +3,18 @@ sr: "412.101.220.86"
 title: Verordnung des SBFI vom 3. November 2008 über die berufliche Grundbildung Konstrukteurin/Konstrukteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/762"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2008-11-03
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/762/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2008-762-20180101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/762/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/762/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2008-762-20240401-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/762/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Konstrukteurin/Konstrukteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 3. November 2008 (Stand am 1. Januar 2018)
+vom 3. November 2008 (Stand am 1. April 2024)
 
 <table>
 <tr><td>64208</td><td>Konstrukteurin EFZ/Konstrukteur EFZ Dessinatrice-constructrice industrielle CFC/ Dessinateur-constructeur industriel CFC Progettista meccanica AFC/ Progettista meccanico AFC</td></tr>
@@ -22,14 +22,15 @@ vom 3. November 2008 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:[^ingress-4]
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 58 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 58 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -39,11 +40,11 @@ verordnet:[^ingress-4]
 
 <sup>1</sup> Die Berufsbezeichnung ist Konstrukteurin EFZ oder Konstrukteur EFZ.
 
-<sup>2</sup> Konstrukteurinnen EFZ und Konstrukteure EFZ entwickeln und konstruieren in Zusammenarbeit mit anderen Fachleuten Einzelteile und Baugruppen für Geräte, Maschinen oder Anlagen sowie Werkzeuge und Vorrichtungen für die Produktion. Sie bearbeiten Aufträge, Pflichtenhefte oder Teile von Projekten. Sie erstellen Fertigungs-, Montage- und Prüfunterlagen und erarbeiten die erforderlichen Produktionsdaten. Für den Betrieb und die Instandhaltung der Produkte erstellen sie entsprechende Anleitungen und Dokumentationen. Sie führen die Arbeiten unter Berücksichtigung der Energie- und Ressourceneffizient aus.[^1-1]
+<sup>2</sup> Konstrukteurinnen EFZ und Konstrukteure EFZ entwickeln und konstruieren in Zusammenarbeit mit anderen Fachleuten Einzelteile und Baugruppen für Geräte, Maschinen oder Anlagen sowie Werkzeuge und Vorrichtungen für die Produktion. Sie bearbeiten Aufträge, Pflichtenhefte oder Teile von Projekten. Sie erstellen Fertigungs‑, Montage- und Prüfunterlagen und erarbeiten die erforderlichen Produktionsdaten. Für den Betrieb und die Instandhaltung der Produkte erstellen sie entsprechende Anleitungen und Dokumentationen. Sie führen die Arbeiten unter Berücksichtigung der Energie- und Ressourceneffizient aus.[^1-1]
 
-Konstrukteurinnen EFZ und Konstrukteure EFZ zeichnen sich aus durch wirtschaftliches und ökologisches Denken und Handeln. Ihre Aufträge und Projekte realisieren sie systematisch und selbstständig. Sie sind es auch gewohnt im Team zu arbeiten, sind flexibel und aufgeschlossen gegenüber Neuerungen. Sie beachten die Grundsätze der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes.
+<sup>3</sup> Konstrukteurinnen EFZ und Konstrukteure EFZ zeichnen sich aus durch wirtschaftliches und ökologisches Denken und Handeln. Ihre Aufträge und Projekte realisieren sie systematisch und selbstständig. Sie sind es auch gewohnt im Team zu arbeiten, sind flexibel und aufgeschlossen gegenüber Neuerungen. Sie beachten die Grundsätze der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes.
 
-[^1-1]: Fassung vom 9. November 2015, in Kraft seit 1. Januar 2016
+[^1-1]: Fassung vom 9. November 2015, in Kraft seit 1. Januar 2016.
 
 #### Art. 2
 
@@ -116,11 +117,12 @@ Die Schwerpunktausbildung umfasst folgende Handlungskompetenzen:
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^6-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^6-1]: Fassung gemäss Ziff. II 58 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^6-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -391,7 +393,11 @@ Es werden aufgehoben:
 
 - a. das Reglement vom 21. August 1997[^23-1] über die Ausbildung und die Lehrabschlussprüfung für Konstrukteur/Konstrukteurin;
 - b. der Lehrplan vom 21. August 1997[^23-2] für den beruflichen Unterricht für Konstrukteur/Konstrukteurin.
-- [tab] <sup>2</sup> Die Genehmigungen werden widerrufen für:
+
+<sup>2</sup>
+
+Die Genehmigungen werden widerrufen für:
+
 - a. den Bildungsplan vom 8. November 2008 für Konstrukteurin EFZ oder Konstrukteur EFZ;
 - b. das Qualifikationsprofil vom 4. August 2011 für Konstrukteurin EFZ oder Konstrukteur EFZ;
 - c. die Bestehensregeln vom 4. August 2011 für Konstrukteurin EFZ oder Konstrukteur EFZ.[^23-3]
