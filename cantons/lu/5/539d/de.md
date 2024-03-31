@@ -3,20 +3,20 @@ canton: LU
 number: 539d
 title: Berufungsreglement der Universität Luzern
 language: de
-version: 2023-08-01
-valid_until: 2024-03-31
-version_adopted: 2023-04-05
+version: 2024-04-01
+valid_until: 2027-01-31
+version_adopted: 2024-03-27
 adopted: 2002-04-10
 in_force: 2002-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539d"
-pdf: "https://srl.lu.ch/api/de/versions/4115/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4191/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufungsreglement der Universität Luzern
 
-vom 10.04.2002 (Stand 01.08.2023)
+vom 10.04.2002 (Stand 01.04.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,9 +34,11 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Bei der Besetzung von Professuren ist auf eine ausgewogene nationale und vielfältige internationale Herkunft zu achten.
 
-<sup>2</sup> Ordentliche und ausserordentliche Professorinnen der Universität Luzern werden in der Regel auf Grund eines Verfahrens unter Mitwirkung einer Berufungskommission angestellt.
+<sup>2</sup> Ordentliche und ausserordentliche Professorinnen und Professoren sowie Assistenzprofessorinnen und Assistenzprofessoren der Universität Luzern werden in der Regel auf Grund eines Verfahrens unter Mitwirkung einer Berufungskommission angestellt.
 
 <sup>3</sup> Von einem Verfahren nach Absatz 2 kann ausnahmsweise abgesehen werden, wenn die Berufung einer Persönlichkeit mit herausragendem Ausweis in Forschung und Lehre nur auf dem Wege der Direktberufung möglich ist.
+
+<sup>3<sup>bis</sup></sup> Von einem Verfahren nach Absatz 2 wird zudem abgesehen, wenn und solange eine Assistenzprofessur oder eine befristete ausserordentliche Professur duch eine nationale oder internationale Forschungsförderungsinstitution im Anschluss an ein kompetitives Verfahren vollumfänglich finanziert wird. Die Fakultätsversammlung der betroffenen Fakultät muss der Berufung und Anstellung vor einer entsprechenden Gesuchseinreichung zustimmen. Nach der Mittelzusprache sind Senat und Universitätsrat über die Berufung und Anstellung zu informieren.
 
 <sup>4</sup> Die Berufungskommission soll in der Regel mindestens 1,5 Jahre vor einer fälligen Emeritierung eingesetzt werden und das Berufungsverfahren einleiten. Wird eine Professur aus anderen Gründen frei, so ist ebenfalls für die rechtzeitige Einsetzung der Berufungskommission zu sorgen.
 
