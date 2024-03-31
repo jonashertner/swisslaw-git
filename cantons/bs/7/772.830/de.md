@@ -3,22 +3,21 @@ canton: BS
 number: "772.830"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser
 language: de
-version: 2020-01-01
-valid_until: 2024-03-31
-version_adopted: 2019-10-25
+version: 2024-04-01
+version_adopted: 2023-06-29
 adopted: 2018-02-09
 in_force: 2018-03-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.830"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4747/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser
 
-Wasser: Gebührentarif | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 
-Vom 9. Februar 2018 (Stand 1. Januar 2020)
+Vom 9. Februar 2018 (Stand 1. April 2024)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -42,7 +41,7 @@ Der Wasserpreis besteht aus einem Einheitspreis pro bezogenen Kubikmeter Wasser 
 
 <sup>3</sup> *Einheitspreis*
 
-Der Einheitspreis beträgt Fr. 1.43/m³.
+Der Einheitspreis beträgt Fr. 1.58/m³.
 
 <sup>4</sup> *Grundpreis*
 
@@ -75,13 +74,13 @@ Diese Tarife gelten für die Benützerinnen und Benützer der Wasserversorgung, 
 
 <sup>2</sup> *Temporäre Wasserabgabe*
 
-- a) Einheitspreis — Fr. 1.43/m³
+- a) Einheitspreis — Fr. 1.58/m³
 - b) Grundpreis: Zählerpreis — Fr 1.25/Zähler/Tag
 - c) Fixkostenanteil (pro Ausleihung oder Jahr) — Fr. 150.-
 
 <sup>3</sup> *Wasserabgabe für Kleingärten*
 
-- a) Einheitspreis — Fr. 1.43/m³
+- a) Einheitspreis — Fr. 1.58/m³
 - b) Grundpreis — Fr. 150.-/Jahr
 
 <sup>4</sup> *Sprinkleranlagen*
@@ -91,12 +90,12 @@ Diese Tarife gelten für die Benützerinnen und Benützer der Wasserversorgung, 
 
 <sup>5</sup> *Klima- und Kühlanlagen*
 
-- a) Einheitspreis — Fr. 1.43/m³
+- a) Einheitspreis — Fr. 1.58/m³
 - b) Grundpreis — Fr. 60.-/(m³/h)/Jahr
 
 <sup>6</sup> *Rohwasserabgabe*
 
-- a) Einheitspreis — Fr. 0.59/m³
+- a) Einheitspreis — Fr. 0.65/m³
 - b) Grundpreis — gemäss § 1 Abs. 4
 
 #### § 3
@@ -107,7 +106,7 @@ Diese Tarife gelten für die Benützerinnen und Benützer der Wasserversorgung, 
 
 <table>
 <tr><th>Sockeltarif für den Mindestbezug von 50'000 m³</th><th>Einheitspreis: ab 50'000 bis 100'000 m³</th><th>Grundpreis</th></tr>
-<tr><td>Fr. 50'000 / Jahr</td><td>Fr. 1.03/m³</td><td>gemäss § 1 Abs. 4</td></tr>
+<tr><td>Fr. 57'000 / Jahr</td><td>Fr. 1.14/m³</td><td>gemäss § 1 Abs. 4</td></tr>
 </table>
 
 <sup>2</sup> *Bedingungen für die Brauchwasser-Lieferung:*
