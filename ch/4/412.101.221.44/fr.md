@@ -3,18 +3,18 @@ sr: "412.101.221.44"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> octobre 2010 sur la formation professionnelle initiale de bottière-orthopédiste/bottier-orthopédiste avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/781"
 language: fr
-version: 2018-10-15
+version: 2024-04-01
 adopted: 2010-10-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/781/20181015/fr/xml/fedlex-data-admin-ch-eli-cc-2010-781-20181015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/781/20181015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/781/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-781-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/781/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI**** sur la formation professionnelle initiale de bottière-orthopédiste/bottier-orthopédiste avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de bottière-orthopédiste/bottier-orthopédiste avec certificat fédéral de capacité (CFC)\*
 
-du 1<sup>er</sup> octobre 2010 (Etat le 15 octobre 2018)[^t-1][^t-2]
+du 1<sup>er</sup> octobre 2010 (État le 1<sup>er</sup> avril 2024)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -23,16 +23,17 @@ du 1<sup>er</sup> octobre 2010 (Etat le 15 octobre 2018)[^t-1][^t-2]
 <tr><td>36105</td><td>Bottière-orthopédiste CFC/Bottier-orthopédiste CFC Orthopädieschuhmacherin EFZ/Orthopädieschuhmacher EFZ Calzolaia ortopedica AFC/Calzolaio ortopedico AFC</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI), en accord avec le Secrétariat d’Etat à l’économie,
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI), en accord avec le Secrétariat d’État à l’économie,
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],[^ingress-4]
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],[^ingress-5]
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 sept. 2018, en vigueur depuis le 15 oct. 2018 ([RO 2018 3319](https://fedlex.data.admin.ch/eli/oc/2018/537)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 sept. 2018, en vigueur depuis le 15 oct. 2018 ([RO 2018 3319](https://fedlex.data.admin.ch/eli/oc/2018/537)).
 
 ## Section 1 Objet et durée
 
@@ -120,11 +121,12 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, dans tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^7-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 sept. 2018, en vigueur depuis le 15 oct. 2018 ([RO 2018 3319](https://fedlex.data.admin.ch/eli/oc/2018/537)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -169,7 +171,7 @@ Le plan de formation:
 
 <sup>4</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.[^10-5]
 
-[^10-1]: Le plan de formation du 1<sup>er</sup> octobre 2010 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^10-1]: Le plan de formation du 1<sup>er</sup> octobre 2010 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 sept. 2018, en vigueur depuis le 15 oct. 2018 ([RO 2018 3319](https://fedlex.data.admin.ch/eli/oc/2018/537)).
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4833](https://fedlex.data.admin.ch/eli/oc/2017/518)).
 [^10-4]: Abrogé par le ch. I de l’O du SEFRI du 14 août 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 4833](https://fedlex.data.admin.ch/eli/oc/2017/518)).
@@ -183,7 +185,7 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 
 [^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise****
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
 [^sec6-1]
 
@@ -219,7 +221,7 @@ Les exigences posées aux formateurs sont remplies par:[^12-2]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 14 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4833](https://fedlex.data.admin.ch/eli/oc/2017/518)).
 
-## Section 7 Dossier de formation, rapport de formation et dossiers des prestations****
+## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
 [^sec7-1]
 
@@ -242,11 +244,11 @@ Les exigences posées aux formateurs sont remplies par:[^12-2]
 
 **Rapport de formation**[^14a-1]
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs ne sont pas atteints malgré les mesures prises ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -296,7 +298,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 19
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -380,7 +382,7 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 - a. la note globale;
 - b. les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 22, al. 1, la note d’expérience.
 
-## Section 10 Développement de la qualité et organisation****
+## Section 10 Développement de la qualité et organisation
 
 [^sec10-1]
 
