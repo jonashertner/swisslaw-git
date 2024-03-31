@@ -4,11 +4,11 @@ title: Verordnung vom 28. November 2007 über Regionalpolitik (VRP)
 short: VRP
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/885"
 language: de
-version: 2008-01-01
+version: 2024-04-01
 adopted: 2007-11-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/885/20080101/de/xml/fedlex-data-admin-ch-eli-cc-2007-885-20080101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/885/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/885/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-885-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/885/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/885/20080101/de"
 
 (VRP)
 
-vom 28. November 2007 (Stand am 1. Januar 2008)
+vom 28. November 2007 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10 und 20 des Bundesgesetzes vom 6. Oktober 2006[^ingress-1] über Regionalpolitik
+gestützt auf die Artikel 7 Absatz 3, 10 und 20 des Bundesgesetzes vom 6. Oktober 2006[^ingress-1] über Regionalpolitik,[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 102](https://fedlex.data.admin.ch/eli/oc/2024/102)).
 
 #### Art. 1
 
@@ -35,8 +36,8 @@ verordnet:
 
 Das Gebiet, welches mehrheitlich spezifische Entwicklungsprobleme und Entwicklungsmöglichkeiten des Berggebietes und des weiteren ländlichen Raumes aufweist (örtlicher Wirkungsbereich) umfasst das Gebiet der Schweiz mit Ausnahme:
 
-- a. der Gemeinden der Agglomerationen Zürich, Basel, Bern, Lausanne und Genf gemäss den Ergebnissen der Volkszählung 2000;
-- b. der Kantone Zürich, Zug, Solothurn, Basel-Stadt, Basel-Land, Aargau und Genf.
+- a.[^1-1] der Gemeinden der Agglomerationen Zürich, Basel, Bern, Lausanne und Genf basierend auf der Definition der Agglomerationen[^1-2] des Bundesamtes für Statistik;
+- b.[^1-3] der Kantone Zürich, Zug, Basel-Stadt, Basel-Land, Aargau und Genf.
 
 <sup>2</sup>
 
@@ -47,13 +48,35 @@ Im Rahmen der Programmvereinbarungen kann das Staatssekretariat für Wirtschaft 
 
 <sup>3</sup> Im Rahmen der Programmvereinbarungen kann das SECO auch einzelne Gemeinden in den örtlichen Wirkungsbereich aufnehmen, wenn dies im Zusammenhang mit einem konkreten Projekt zweckmässig erscheint. Die Aufnahme gilt nur bis zum Abschluss des betreffenden Projektes.
 
-<sup>4</sup> Die Anträge auf Erweiterung des örtlichen Wirkungsbereichs sind jeweils zusammen mit dem kantonalen Umsetzungsprogramm einzureichen.
+<sup>4</sup> Die Anträge auf Erweiterung des örtlichen Wirkungsbereichs sind jeweils zusammen mit dem Umsetzungsprogramm einzureichen.[^1-4]
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 102](https://fedlex.data.admin.ch/eli/oc/2024/102)).
+[^1-2]: [www.bfs.admin.ch](https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/analyseregionen.html) &gt; Statistiken finden &gt; Querschnittsthemen &gt; Räumliche Analysen &gt; Räumliche Gliederungen &gt; Analyseregionen.
+[^1-3]: Fassung gemäss Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 102](https://fedlex.data.admin.ch/eli/oc/2024/102)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 102](https://fedlex.data.admin.ch/eli/oc/2024/102)).
 
 #### Art. 2
 
 **Ad-hoc-Konferenzen**
 
 Auf Antrag der Kantone und Regionen werden vom SECO Ad-hoc-Konferenzen einberufen. Diese stellen die Zusammenarbeit mit den Kantonen, den Gemeinden, dem Berggebiet und dem weiteren ländlichen Raum sicher.
+
+#### Art. 2a
+
+**A-Fonds-perdu-Beiträge für Infrastrukturvorhaben**[^2a-1]
+
+<sup>1</sup>
+
+Gestützt auf Artikel 7 Absatz 3 des Bundesgesetzes über Regionalpolitik gelangen folgende Kriterien zur Anwendung:
+
+- a. Das Vorhaben muss regionalwirtschaftliche Impulse setzen und in seiner Wirkung überbetrieblich sein.
+- b. Das Vorhaben muss dritten Akteuren kommerziellen Nutzen stiften, indem diese Akteure mit ihren Geschäftsmodellen darauf zugreifen und Einnahmen generieren können.
+- c. Das Vorhaben kann nicht mit einem Darlehen finanziert werden. Es generiert dem investierenden Projektträger keine oder nur marginale direkte Einnahmen; dieser kann aber Betrieb und Unterhalt der Infrastruktur sicherstellen.
+- d. Das Vorhaben kommt ohne A-Fonds-perdu-Beiträge voraussichtlich nicht zustande.
+
+<sup>2</sup> Der Höchstbetrag für die Förderung von Infrastrukturvorhaben mit A-Fonds-perdu-Beiträgen beträgt unter Berücksichtigung der Teuerung 50 000 Franken. Dazu kommen äquivalente Mittel der Kantone sowie angemessene Eigenmittel des Projektträgers. Das Gesamtbudget eines solchen Vorhabens beträgt höchstens 700 000 Franken.
+
+[^2a-1]: Eingefügt durch Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 102](https://fedlex.data.admin.ch/eli/oc/2024/102)).
 
 #### Art. 3
 
@@ -77,7 +100,7 @@ Auf Antrag der Kantone und Regionen werden vom SECO Ad-hoc-Konferenzen einberufe
 
 Die Verordnung vom 26. November 1997[^5-1] über Investitionshilfe für Berggebiete wird aufgehoben.
 
-[^5-1]: [[AS 1998 79](https://fedlex.data.admin.ch/eli/oc/1998/79_79_79), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 21]
+[^5-1]: [[AS 1998 79](https://fedlex.data.admin.ch/eli/oc/1998/79_79_79); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 21]
 
 #### Art. 6
 
