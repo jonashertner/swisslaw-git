@@ -3,20 +3,19 @@ canton: SO
 number: "511.11"
 title: Gesetz über die Kantonspolizei
 language: de
-version: 2021-11-01
-valid_until: 2024-03-31
-version_adopted: 2020-11-04
+version: 2024-04-01
+version_adopted: 2023-11-07
 adopted: 1990-09-23
 in_force: 1991-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/511.11"
-pdf: "https://bgs.so.ch/api/de/versions/5242/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Kantonspolizei
 
-Vom 23.09.1990 (Stand 01.11.2021)
+Vom 23.09.1990 (Stand 01.04.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -135,7 +134,7 @@ beschliesst:
 
 - a) der Polizeianwärter die Polizeiausbildung abbricht oder entlassen wird;
 - b) der Polizist den Dienst bei der Kantonspolizei innerhalb von vier Jahren nach Bestehen der eidgenössischen Berufsprüfung beendet;
-- c) der Polizeiliche Sicherheitsassistent den Dienst bei der Kantonspolizei innerhalb von fünf Jahren nach Erhalt des Zertifikats beendet.
+- c) der Polizeiliche Sicherheitsassistent den Dienst bei der Kantonspolizei innerhalb von vier Jahren nach Erhalt des Zertifikats beendet.
 
 <sup>2</sup> Einzelheiten bestimmt das Dienstreglement.
 
@@ -145,7 +144,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellung von Korpsangehörigen richtet sich nach der Gesetzgebung über das Staatspersonal. Korpsangehörige müssen Schweizer Bürger sein. Voraussetzung für die Tätigkeiten sind:
 
-<sup>2</sup> Für die Anstellung von Offizieren ist der Regierungsrat zuständig. Er kann vom Anstellungserfordernis einer abgeschlossenen Polizeirekrutenschule absehen.
+<sup>2</sup> Für die Anstellung von Offizieren des oberen Kaders ist der Regierungsrat zuständig. Er kann vom Anstellungserfordernis einer abgeschlossenen Polizeirekrutenschule absehen.
 
 #### § 14
 
@@ -351,7 +350,10 @@ beschliesst:
 
 <sup>2</sup> Der Haftrichter ist die zur Prüfung des angeordneten Polizeigewahrsams zuständige Instanz.
 
-<sup>3</sup> Die Kantonspolizei ist zur Sicherstellung von Propagandamaterial gemäss Artikel 13e des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^31bis-2] befugt und zur Meldung an die zuständige Bundesbehörde gemäss Artikel 6 der Verordnung über verwaltungspolizeiliche Massnahmen und über Informationssysteme des Bundesamtes für Polizei vom 4. Dezember 2009[^31bis-3] verpflichtet.
+<sup>3</sup> Die Kantonspolizei ist die nach Artikel 6 Absatz 1 des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^31bis-2] zuständige Behörde. In dieser Funktion
+
+- a) ist sie zur Sicherstellung von Propagandamaterial gemäss Artikel 13e BWIS befugt und zur Meldung an die zuständige Bundesbehörde gemäss Artikel 6 der Verordnung über verwaltungspolizeiliche Massnahmen des Bundesamtes für Polizei und über das Informationssystem HOOGAN (VVMH) vom 4. Dezember 2009[^31bis-3] verpflichtet;
+- b) nimmt sie alle dem Kanton zugewiesenen Aufgaben im Zusammenhang mit der Verhinderung terroristischer Aktivitäten gemäss den Artikeln 23e ff. BWIS wahr, soweit diese nicht ausdrücklich anderen Behörden übertragen sind.
 
 [^31bis-1]: BGS [511.514](https://bgs.so.ch/data/511.514/de).
 [^31bis-2]: SR [120](https://db.clex.ch/link/Bund/120/de).
@@ -582,7 +584,7 @@ beschliesst:
 
 <sup>3</sup> Hat eine Observation einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch den Haftrichter.
 
-<sup>4</sup> Die Kantonspolizei teilt der direkt betroffenen Person spätestens nach Beendigung der Massnahme Grund, Art und Dauer der Observation mit. Artikel 283 Absatz 2 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^36ter-1] gilt sinngemäss.
+<sup>4</sup> Die Kantonspolizei teilt der direkt betroffenen Person spätestens nach Beendigung der Massnahme Grund, Art und Dauer der Observation mit. Die Artikel 283 Absatz 2 und 393-397 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^36ter-1] gelten sinngemäss.
 
 <sup>5</sup> Die Aufzeichnungen sind sofort auszuwerten und spätestens nach 30 Tagen zu löschen. Vorbehalten bleibt die Verwendung der Daten zu Beweiszwecken in einem Strafverfahren und die Weitergabe der Daten gemäss § 16<sup>ter</sup> InfoDG[^36ter-2].
 
@@ -660,7 +662,7 @@ beschliesst:
 
 <sup>3</sup> Fliessen die im Rahmen einer verdeckten Fahndung gewonnen Erkenntnisse nicht in ein Strafverfahren ein, sind sie innert 100 Tagen zu löschen beziehungsweise zu vernichten.
 
-<sup>4</sup> Die Kantonspolizei teilt der direkt betroffenen Person spätestens nach Beendigung der Massnahme mit, dass gegen sie verdeckt gefahndet worden ist. Die Mitteilung kann aufgeschoben oder unterlassen werden, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+<sup>4</sup> Die Kantonspolizei teilt der direkt betroffenen Person spätestens nach Beendigung der Massnahme mit, dass gegen sie verdeckt gefahndet worden ist.
 
 <sup>5</sup> Die Artikel 298c und 298d Absätze 1, 3 und 4 StPO[^36septies-2] gelten sinngemäss.
 
@@ -675,7 +677,7 @@ beschliesst:
 
 <sup>2</sup> Der automatisierte Abgleich ist zulässig:
 
-- a) mit polizeilichen Personen- und Sachfahndungsregistern;
+- a) mit den automatisierten Personen- und Sachfahndungssystemen nach den Artikeln 15 und 16 des Bundesgesetzes über die polizeilichen Informationssysteme des Bundes (BPI) vom 13. Juni 2008[^36octies-1];
 - b) mit Listen von Kontrollschildern von Fahrzeugen, deren Halter der Führerausweis entzogen oder verweigert worden ist;
 - c) mit konkreten Fahndungsaufträgen der Kantonspolizei.
 
@@ -685,6 +687,8 @@ beschliesst:
 - b) bei einer Übereinstimmung mit der Datenbank: nach den Bestimmungen des entsprechenden Verwaltungs- oder Strafverfahrens.
 
 <sup>4</sup> Einzelheiten bestimmt das Dienstreglement.
+
+[^36octies-1]: SR [361](https://db.clex.ch/link/Bund/361/de).
 
 #### § 36novies
 
