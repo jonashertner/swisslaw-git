@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Ordinanza della SEFRI del 18 maggio 2021 sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: it
-version: 2022-08-01
+version: 2024-04-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20220801-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20240401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 
-del 18 maggio 2021 (Stato 1° agosto 2022)
+del 18 maggio 2021 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>71800</td><td>Assistente del commercio al dettaglio CFP Detailhandelsassistentin EBA/ Detailhandelsassistent EBA Assistante du commerce de détail AFP/ Assistant du commerce de détail AFP</td></tr>
@@ -22,13 +22,14 @@ del 18 maggio 2021 (Stato 1° agosto 2022)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, rami di formazione e d’esame, durata
 
@@ -125,9 +126,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^6-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^6-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -209,7 +212,8 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
 [^10-1]: Il piano del 18 mag. 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z
 
@@ -324,7 +328,7 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
   - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
   - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
   - 3\. il lavoro pratico si svolge nel ramo di formazione e d’esame indicato nel contratto di tirocinio e riportato nell’allegato,
-  - 4\.[^20-1] per i rami di formazione e d’esame (RFE) riportati nell’allegato il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
+  - 4\.[^20-1] per i rami di formazione e d’esame (RFE) riportati nell’allegato il campo di qualificazione comprende i campi di competenze operative sottoelen
 
 <table>
 <tr><td>Voce</td><td>Campi di competenze operative</td><td colspan="2">Ponderazione</td></tr>
