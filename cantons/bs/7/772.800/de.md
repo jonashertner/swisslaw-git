@@ -3,485 +3,508 @@ canton: BS
 number: "772.800"
 title: Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser
 language: de
-version: 2021-01-01
-valid_until: 2024-03-31
-version_adopted: 2020-10-23
+version: 2024-04-01
+version_adopted: 2023-04-17
 adopted: 2023-04-17
 in_force: 2024-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.800"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5145/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser
 
-Abgabe von Trinkwasser: Ausführungsbestimmungen | Energie- und Wasserversorgung[^t-1]
+Energie- und Wasserversorgung
 
-Vom 28. November 2011 (Stand 1. Januar 2021)
+Vom 17. April 2023 (Stand 1. April 2024)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
-gestützt auf § 10 Abs. 2 lit. h und § 23 Abs. 1 lit. a des Gesetzes über die Industriellen Werke Basel (IWB-Gesetz) vom 11. Februar 2009[^ingress-1],
+gestützt auf § 10 Abs. 2 lit. h und § 23 Abs. 1 lit. a des Gesetzes über die Industriellen Werke Basel (IWB-Gesetz) vom 11. Februar 2009,
 
 beschliesst:
 
-[^t-1]: Gebührentarif (Anhang) vom Regierungsrat genehmigt am 31. 1. 2012.
-[^ingress-1]: SG [772.300](https://www.gesetzessammlung.bs.ch/data/772.300/de).
-
-## I. Gegenstand
+## 1. Gegenstand
 
 #### § 1
 
 <sup>1</sup> Diese Ausführungsbestimmungen gelten für die Versorgung mit Trinkwasser durch IWB Industrielle Werke Basel (IWB).
 
-## II. Allgemeine Bestimmungen
-
-### II. 1. Benützerin und Benützer
-
-[^1-1]
-
-[^1-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben und -ziffern.
+## 2. Allgemeine Bestimmungen
 
 #### § 2
 
-<sup>1</sup> Benützerin oder Benützer im Sinne dieser Ausführungsbestimmungen ist jede natürliche oder juristische Person, die von IWB Trinkwasser bezieht.
+**Begriffe**
 
-<sup>2</sup> Gemeinden, welche das von IWB gelieferte Trinkwasser selbst verteilen, gelten IWB gegenüber als Benützer. Vorbehalten bleiben allfällige spezielle vertragliche Abmachungen.
+<sup>1</sup> Kundin und Kunde: jede natürliche oder juristische Person, deren Grundstück mit Trinkwasser von IWB erschlossen ist bzw. erschlossen werden soll oder durch IWB mittels eigener Abrechnung mit Trinkwasser versorgt wird bzw. versorgt werden soll. Gemeinden, welche das von IWB gelieferte Trinkwasser selbst verteilen, gelten gegenüber IWB als Kunden.
 
-### II. 2. Löschwasser
+<sup>2</sup> Grundstück: Jede Parzelle oder Baurechtsparzelle.
 
 #### § 3
 
-<sup>1</sup> In Brandfällen steht die Trinkwasserversorgung der Feuerwehr zum Löschen zur Verfügung.
+**Löschwasser**
 
-### II. 3. Schutz der Anlagen
+<sup>1</sup> In Brandfällen stehen die Anlagen der Trinkwasserversorgung sowie das Medium Trinkwasser der Feuerwehr zum Löschen zur Verfügung.
 
 #### § 4
 
-<sup>1</sup> Die Grund- bzw. Hauseigentümerschaft hat die nötigen Massnahmen zu treffen, damit die auf ihrem Grundstück liegenden Teile der Anschlussleitung sowie die Messeinrichtungen vor Beschädigung geschützt werden. Insbesondere dürfen über den erdverlegten Leitungen weder Bauten errichtet, Bäume gepflanzt noch Grabungen vorgenommen werden. Für Bauten ist ein Abstand von mindestens 1 m einzuhalten; für Bäume ein Abstand von mindestens 2.50 m.
+**Schutz der Anlagen**
 
-<sup>2</sup> Die Grund- bzw. Hauseigentümerschaft ist für eine sichere Erdung verantwortlich und hat die dafür notwendigen Massnahmen unter Beizug von Fachpersonal zu treffen. Wasserleitungen dürfen nicht für die Erdung von elektrischen Anlagen benutzt werden. Anschlussleitungen aus elektrisch leitfähigem Material sind von der öffentlichen Leitung elektrisch zu trennen.
+<sup>1</sup> Die Kundin oder der Kunde hat die nötigen Massnahmen zu treffen, damit die auf ihrem oder seinem Grundstück liegenden Teile der Anschlussleitung sowie die Messeinrichtungen vor Beschädigungen geschützt werden. Insbesondere dürfen über den erdverlegten Leitungen weder Bauten errichtet, Bäume gepflanzt noch Grabungen vorgenommen werden. Für Bauten ist jederzeit ein Abstand von mindestens 1 m und für Bäume jederzeit ein Abstand von mindestens 2.50 m zum Graben- und Baugrubenrand, der für die Erstellung, Erneuerung oder Instandsetzung der Leitungen benötigt wird, einzuhalten.
 
-### II. 4. Verhalten bei Störungen
+<sup>2</sup> Die Kundin oder der Kunde hat vor jeder Bautätigkeit, die Auswirkungen auf die Leitungen der Trinkwasserversorgung haben könnte, eine Planerhebung der IWB Werkleitungen einzuholen.
+
+<sup>3</sup> Die Kundin oder der Kunde ist für eine sichere Erdung verantwortlich und hat die dafür notwendigen Massnahmen unter Beizug von Fachpersonal zu treffen. Trinkwasserleitungen dürfen nicht für die Erdung von elektrischen Anlagen benutzt werden. Anschlussleitungen aus elektrisch leitfähigem Material sind von der öffentlichen Leitung elektrisch zu trennen.
 
 #### § 5
 
-<sup>1</sup> Störungen und ausserordentliche Vorkommnisse an Anlagen und Installationen sind von den Betroffenen unverzüglich der Netzleitstelle von IWB zu melden.
+**Verhalten bei Störungen**
 
-### II. 5. Ersatzvornahme
+<sup>1</sup> Störungen und ausserordentliche Vorkommnisse an Anlagen und Installationen der Trinkwasserversorgung sind von der Kundin oder dem Kunden unverzüglich der Netzleitstelle von IWB zu melden.
 
 #### § 6
 
-<sup>1</sup> IWB ordnet die Beseitigung rechtswidriger Zustände an. Leistet der oder die Pflichtige dieser Anordnung nicht Folge, so lässt IWB die Arbeiten ausführen. Bei Gefahr handelt sie ohne Verzug. Die Kosten trägt der oder die Pflichtige.
+**Ersatzvornahme**
 
-<sup>2</sup> Mangelhafte Einrichtungen, die Personen oder Sachen gefährden, können durch Beauftragte von IWB ohne vorherige Mahnung vom Versorgungsnetz abgetrennt oder plombiert werden.
+<sup>1</sup> IWB ordnet die Beseitigung rechtswidriger Zustände an. Leistet die oder der Pflichtige dieser Anordnung nicht Folge, so lässt IWB die Arbeiten ausführen. Bei Gefahr handelt IWB ohne Verzug. Die Kosten trägt die oder der Pflichtige.
 
-### II. 6. Inanspruchnahme von Privatareal
+<sup>2</sup> Mangelhafte Einrichtungen, die Personen oder Sachen gefährden, können durch IWB oder deren Beauftragte ohne vorherige Mahnung vom Versorgungsnetz abgetrennt oder plombiert werden.
 
 #### § 7
 
-<sup>1</sup> Muss für Anlagen der Trinkwasserversorgung (Leitungen, Hydranten, Schieber und dergleichen) Privatareal in Anspruch genommen werden, so können die dazu erforderlichen Rechte durch Vertrag oder Enteignung (§ 32 IWB-Gesetz) erworben werden. Soweit die Anlagen dem belasteten Grundstück dienen, sind sie entschädigungslos zu dulden.
+**Inanspruchnahme von Privatareal**
 
-<sup>2</sup> Allfällige Durchleitungsrechte für Anschlussleitungen sind von der Grund- bzw. Hauseigentümerschaft zu beschaffen.
+<sup>1</sup> Muss für Anlagen der Trinkwasserversorgung (Leitungen, Hydranten, Schieber und dergleichen) Privatareal in Anspruch genommen werden, so können die dazu erforderlichen Rechte durch Vertrag oder Enteignung (§ 32 IWB-Gesetz) erworben werden. Soweit die Anlagen dem belasteten Grundstück dienen, sind diese entschädigungslos zu dulden.
 
-### II. 7. Allgemeines Zutrittsrecht
+<sup>2</sup> Allfällige Durchleitungsrechte für Anschlussleitungen sind von der Kundin oder dem Kunden zu beschaffen (vgl. auch § 21 Abs. 1).
 
 #### § 8
 
-<sup>1</sup> IWB oder deren Beauftragten ist der Zutritt zu den Anschlussleitungen, den Hausinstallationen und den Messeinrichtungen während den ordentlichen Arbeitszeiten, bei besonderen Ereignissen wie z.B. Störungen jederzeit, zu ermöglichen.
+**Allgemeines Zutritts- und Zugangsrecht**
 
-<sup>2</sup> Der Zugang zu dem Übergabepunkt und der Hauptabsperrarmatur ist stets frei und zugänglich zu halten. Kosten für Freilegungen oder das Zugänglichmachen sind von der Grund- bzw. Hauseigentümerschaft der versorgten Liegenschaft zu tragen.
+<sup>1</sup> IWB oder deren Beauftragte ist der Zutritt zu den Anlagen der Trinkwasserversorgung während den ordentlichen Arbeitszeiten, bei besonderen Ereignissen wie z.B. Störungen jederzeit, zu ermöglichen.
 
-### II. 8. Auskünfte
+<sup>2</sup> Der Zugang zu dem Übergabepunkt, der Hauptabsperrarmatur und den Mess- und Kontrolleinrichtungen ist stets frei und zugänglich zu halten. Kosten für Freilegungen oder das Zugänglichmachen sind von der Kundin oder dem Kunden des betroffenen Gebäudes zu tragen.
 
 #### § 9
 
-<sup>1</sup> Die von IWB bezeichneten Stellen erteilen auf Wunsch unentgeltlich Auskunft über Fragen im Zusammenhang mit der Trinkwasserversorgung und den Wassertarifen.
+**Auskünfte**
 
-### II. 9. Reklamationen
+<sup>1</sup> IWB erteilt auf Wunsch unentgeltlich Auskunft über Fragen im Zusammenhang mit der Trinkwasserversorgung und den Wassertarifen.
 
 #### § 10
 
-<sup>1</sup> Reklamationen sind schriftlich an die Geschäftsleitung von IWB zu richten.
+**Reklamationen**
 
-## III. Versorgungsnetz
+<sup>1</sup> Reklamationen sind schriftlich an IWB zu richten.
 
-### III. 1. Umschreibung
+## 3. Versorgungsnetz
 
 #### § 11
 
-<sup>1</sup> Das Versorgungsnetz umfasst die Versorgungsleitungen, einschliesslich Armaturen und Hydranten.
+**Umschreibung**
 
-<sup>2</sup> Als Versorgungsleitungen gelten in der Regel die Wasserleitungen, die nach ihrer Dimension und Anlage für die Speisung von Anschlussleitungen und Hydranten bestimmt sind.
+<sup>1</sup> Das Versorgungsnetz steht im Eigentum von IWB und umfasst die Versorgungsleitungen, einschliesslich Armaturen und Hydranten.
+
+<sup>2</sup> Als Versorgungsleitungen gelten in der Regel die Leitungen, die nach ihrer Dimension und Bauart für die Speisung von Anschlussleitungen und Hydranten bestimmt sind.
 
 <sup>3</sup> Die Versorgungsleitungen werden in der Regel auf Allmend verlegt.
 
 <sup>4</sup> Im Zweifel sowie in besonderen Einzelfällen wird die Grenze zwischen Versorgungsnetz und Anschlussleitung durch IWB bestimmt.
 
-### III. 2. Arbeiten am Versorgungsnetz
-
 #### § 12
+
+**Arbeiten am Versorgungsnetz**
 
 <sup>1</sup> Arbeiten am Versorgungsnetz werden ausschliesslich durch IWB oder deren Beauftragte ausgeführt.
 
-### III. 3. Änderung des Versorgungsnetzes
-
 #### § 13
 
-<sup>1</sup> IWB erweitert oder ändert ihre Anlagen nur unter der Voraussetzung, dass
+**Änderung des Versorgungsnetzes**
 
-- a) keine überwiegenden öffentlichen Interessen entgegenstehen,
+<sup>1</sup> IWB kann unter Berücksichtigung der übergeordneten gesetzlichen Grundlagen das Versorgungsnetz unter den Voraussetzungen erweitern oder ändern, dass:
+
+- a) keine überwiegenden öffentlichen Interessen entgegenstehen;
 - b) genügend Trinkwasser vorhanden ist und
-- c) es sich wirtschaftlich rechtfertigen lässt oder wenn eine Interessentin oder ein Interessent für die Kosten aufkommt, die voraussichtlich durch Gebühren nicht gedeckt werden können.
-
-### III. 4. Beachtung von Sperrfristen
+- c) es sich wirtschaftlich rechtfertigen lässt oder wenn eine Interessentin oder ein Interessent für die Kosten aufkommt, die voraussichtlich durch Gebühren und Tarife nicht gedeckt werden können.
 
 #### § 14
 
-<sup>1</sup> Bei Neuanschlüssen oder Arbeiten an Anschlussleitungen, die Änderungen des Versorgungsnetzes in Strassen und Trottoirs mit neuen Belägen bedingen, hat IWB die Sperrfristen der Verordnung über die Inanspruchnahme der Allmend vom 4. August 2009 zu beachten.
+**Beachtung von Sperrfristen**
 
-### III. 5. Kosten
+<sup>1</sup> Bei Neuanschlüssen oder Arbeiten an Anschlussleitungen, die Änderungen des Versorgungsnetzes in Strassen und Trottoirs bedingen, hat IWB allfällige gesetzlich vorgeschriebene Aufgrabungssperren zu beachten.
 
 #### § 15
 
-<sup>1</sup> Die Kosten für die Erstellung, Erweiterung, Erneuerung oder Änderung des Versorgungsnetzes gehen zu Lasten von IWB.
+**Kosten**
 
-<sup>2</sup> Erfolgt der Ausbau des Versorgungsnetzes im Interesse einer einzelnen Benützerin oder eines einzelnen Benützers, so hat sie bzw. er für die Kosten aufzukommen, ohne dass diese Anlageteile in ihr bzw. sein Eigentum übergehen.
+<sup>1</sup> Die Kosten für die Erstellung, Unterhalt, Erweiterung, Erneuerung oder Änderung des Versorgungsnetzes gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
-<sup>3</sup> Die Kosten werden nach Abschluss der Arbeiten nach Aufwand in Rechnung gestellt. IWB kann vorgängig Akontozahlungen verlangen.
+<sup>2</sup> Erfolgt der Ausbau des Versorgungsnetzes im Interesse einer einzelnen Kundin oder eines einzelnen Kunden, so hat sie oder er für die Kosten aufzukommen.
 
-### III. 6. Unterhalt
+<sup>3</sup> Die Kosten für die Anpassung oder Verlegung von Versorgungsleitungen oder Anlagen des Versorgungsnetzes hat die Verursacherin oder der Verursacher sowohl im öffentlichen als auch im privaten Grund zu tragen.
+
+<sup>4</sup> Handelt es sich bei der Verursacherin oder dem Verursacher um eine öffentlich-rechtliche Körperschaft oder eine öffentlich-rechtliche Anstalt, so sind allfällige abweichende gesetzliche Vorschriften zu beachten.
+
+<sup>5</sup> Die Kosten werden nach Abschluss der Arbeiten in Rechnung gestellt. IWB kann vorgängig Akontozahlungen verlangen.
 
 #### § 16
 
-<sup>1</sup> Das Versorgungsnetz wird, vorbehältlich abweichender vertraglicher Regelungen, durch IWB auf deren Kosten unterhalten.
+**Unterhalt**
 
-## IV. Anschlussleitungen
+<sup>1</sup> Das Versorgungsnetz wird, vorbehältlich abweichender vertraglicher Regelungen, durch IWB unterhalten.
 
-### IV. 1. Umschreibung
+## 4. Anschlussleitungen
 
 #### § 17
 
-<sup>1</sup> Als Anschlussleitung wird das für die Versorgung von einzelnen Liegenschaften bestimmte Leitungsstück von der Versorgungsleitung bis und mit Hauseinführung bezeichnet. Die Hauseinführung ist der Ort des Gebäudeeintritts an der Gebäudeinnenseite und wird als Übergabepunkt bezeichnet.
+**Umschreibung**
 
-<sup>2</sup> IWB ist berechtigt, aufgrund netztopologischen, technischen oder hygienischen Gründen den Standort eines Übergabepunktes neu festzulegen, den Wasserdruck zu ändern und/oder überdimensionierte Anschlussleitungen dem tatsächlichen Leistungsbedarf anzupassen. Kommt es zu einer solchen Änderung, informiert IWB die betroffene Grund- bzw. Hauseigentümerschaft. Diese hat die Hausinstallationen (§§ 28 ff.) an die neuen Verhältnisse anzupassen und die damit verbundenen Kosten zu tragen. Ist die Grund- bzw. Hauseigentümerschaft Verursacherin oder Verursacher von Leitungsanpassungen oder Verlegungen von Anschlussleitungen, gilt § 25.
+<sup>1</sup> Als Anschlussleitung wird die für die Versorgung eines einzelnen Grundstücks bestimmte Leitung vom Versorgungsnetz bis und mit Hauseinführung bezeichnet. Die Hauseinführung ist der Ort des Gebäudeeintritts an der Gebäudeinnenseite und wird als Übergabepunkt bezeichnet. Die Anschlussleitung steht bis zum Übergabepunkt im Eigentum von IWB.
 
-### IV. 2. Arbeiten an Anschlussleitungen
+<sup>2</sup> In der Regel wird unmittelbar nach dem Übergabepunkt die Hauptabsperrarmatur montiert. Die Hauptabsperrarmatur steht im Eigentum von IWB. Eine Hauptabsperrarmatur kann von IWB zu ihren Lasten jederzeit nachträglich eingebaut werden. Der Übergabepunkt gemäss Abs. 1 ändert sich damit nicht.
+
+<sup>3</sup> IWB ist berechtigt, aufgrund von netztopologischen, technischen oder hygienischen Gründen den Standort des Übergabepunktes neu festzulegen, den Wasserdruck zu ändern und/oder überdimensionierte Anschlussleitungen dem tatsächlichen Leistungsbedarf anzupassen. Kommt es zu einer solchen Änderung, informiert IWB die betroffene Kundin oder den betroffenen Kunden. Die Kundin oder der Kunde hat die Hausinstallationen (§§ 28 ff.) an die neuen Verhältnisse anzupassen und die damit verbundenen Kosten zu tragen.
+
+<sup>4</sup> IWB ist berechtigt, sofern technisch oder wirtschaftlich erforderlich, bestehende Anschlussleitungen zu erneuern, entweder selbst oder durch beauftragte Dritte. Massgeblich sind die Vorgaben von IWB.
 
 #### § 18
 
-<sup>1</sup> Arbeiten an den Anschlussleitungen und der Hauptabsperrarmatur dürfen nur von IWB oder deren Beauftragten vorgenommen werden. Dies gilt auch für die Erstellung von Anschlussleitungen.
+**Arbeiten an Anschlussleitungen**
 
-<sup>2</sup> Erstellung und Änderung der Anschlussleitungen sind IWB schriftlich unter Benützung der von IWB bereitgestellten Formulare in Auftrag zu geben.
+<sup>1</sup> Sämtliche Arbeiten an Anschlussleitungen, inklusive der Hauptabsperrarmatur, dürfen nur von IWB oder deren Beauftragte durchgeführt werden. Dies gilt auch für die Erstellung und Änderung von Anschlussleitungen.
 
-<sup>3</sup> Von IWB angeordnete Massnahmen einschliesslich der damit verbundenen Arbeiten, wie z.B. die Demontage und Montage von Verkleidungen im Bereich der Hauseinführung, hat die Grund- bzw. Hauseigentümerschaft unverzüglich ausführen zu lassen und die damit verbundenen Kosten zu tragen.
+<sup>2</sup> Die Erstellung oder Änderung von Anschlussleitungen ist IWB schriftlich unter Verwendung des entsprechenden Formulars in Auftrag zu geben.
 
-<sup>4</sup> Nicht benutzte Anschlussleitungen werden von IWB an der Versorgungsleitung abgetrennt, sofern nicht eine Wiederverwendung in den nächsten drei Monaten schriftlich zugesichert wird.
+<sup>3</sup> Von IWB angeordnete Massnahmen einschliesslich der damit verbundenen Arbeiten, wie z.B. die Demontage und Montage von Verkleidungen jeglicher Art oder das Versetzen von Pflanzen und Sträuchern, hat die Kundin oder der Kunde unverzüglich in Auftrag zu geben und ausführen zu lassen sowie die damit verbundenen Kosten zu tragen.
 
-### IV. 3. Neuanschlüsse
+<sup>4</sup> Nicht benutzte Anschlussleitungen werden von IWB an der Versorgungsleitung abgetrennt und verschlossen, sofern nicht eine Wiederverwendung in den nächsten drei Monaten schriftlich zugesichert wird.
 
 #### § 19
 
-<sup>1</sup> IWB ist berechtigt, voraussichtlich unwirtschaftliche Neuanschlüsse ausserhalb des Baugebietes abzulehnen, sofern die Interessentin oder der Interessent nicht bereit ist, die Kosten selbst zu übernehmen.
+**Neuanschlüsse**
 
-<sup>2</sup> IWB bestimmt im Einvernehmen mit der Grund- bzw. Hauseigentümerschaft den Rohrdurchmesser der Anschlussleitung, die Leitungsführung sowie den Ort der Hauseinführung.
+<sup>1</sup> Neuanschlüsse sind mittels eines Formulars bei IWB zu beantragen (Anschlussgesuch). Gewisse Anschlussvarianten, z.B. für die Versorgung von Sprinkleranlagen, bedürfen vorab einer netztechnischen Vorabklärung. Das Anschlussgesuch, die netztechnische Vorabklärung und eine allfällige Koordinationssitzung sind für die Kundinnen und Kunden kostenlos.
 
-<sup>3</sup> IWB erstellt für ein und dieselbe Parzelle in der Regel nur eine Anschlussleitung. Baurechtsparzellen werden in dieser Hinsicht wie Parzellen behandelt. Abweichend hiervon kann IWB aus wirtschaftlichen Gründen bei angrenzenden Baurechtsparzellen innerhalb derselben Parzelle eine gemeinsame Anschlussleitung erstellen.
+Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen (wie beispielsweise die Überprüfung eines Erschliessungskonzepts oder zusätzliche Koordinationssitzungen) werden der Kundin bzw. dem Kunden von IWB in Rechnung gestellt.
 
-<sup>4</sup> IWB kann mehrere Liegenschaften an eine gemeinsame Anschlussleitung anschliessen und ist berechtigt, an einer in einem privaten Grundstück liegenden Anschlussleitung auch Gebäude auf Fremdparzellen anzuschliessen.
+<sup>2</sup> Die Modalitäten und Kosten des Netzanschlusses werden in einem Netzanschlussvertrag festgelegt, welcher mit gegenseitiger Unterzeichnung zustande kommt. Begehrt die Kundin oder der Kunde nach gegenseitiger Unterzeichnung des Netzanschlussvertrages Änderungen des Netzanschlusses, wird der Kundin bzw. dem Kunden der durch die erneute Prüfung und Planung entstehende Aufwand in Rechnung gestellt. Gleiches gilt für bereits entstandene Kosten (Materialkosten o.ä.).
 
-<sup>5</sup> Auf Wunsch der Kundin oder des Kunden können zusätzliche Anschlüsse erstellt werden. Die Kundin oder der Kunde hat hierfür die Kosten zu tragen.
+<sup>3</sup> IWB ist berechtigt, voraussichtlich unwirtschaftliche Neuanschlüsse ausserhalb des Baugebietes abzulehnen, sofern die Kundin oder der Kunde nicht bereit ist, die sich daraus ergebenden Kosten selbst zu übernehmen.
 
-### IV. 4. Abbruch von Gebäuden
+<sup>4</sup> IWB bestimmt die Leitungsführung und den Ort der Hauseinführung (Übergabepunkt) und berücksichtigt die Wünsche der Kundin oder des Kunden, soweit dies möglich und zweckmässig ist.
+
+<sup>5</sup> IWB erstellt für ein Grundstück in der Regel nur eine Anschlussleitung. IWB kann aus wirtschaftlichen Gründen, z.B. bei angrenzenden Baurechtsparzellen innerhalb derselben Liegenschaftsparzelle, eine gemeinsame Anschlussleitung erstellen.
+
+<sup>6</sup> IWB kann mehrere Grundstücke an eine gemeinsame Anschlussleitung anschliessen und ist berechtigt, von einer in einem privaten Grundstück liegenden Anschlussleitung auch Gebäude auf Fremdgrundstücken anzuschliessen.
+
+<sup>7</sup> Auf Wunsch der Kundin oder des Kunden können zusätzliche Anschlüsse erstellt werden. Die Kundin oder der Kunde hat hierfür die Kosten zu tragen.
 
 #### § 20
 
-<sup>1</sup> Der Abbruch eines Gebäudes ist IWB von der bisherigen Grund- bzw. Hauseigentümerschaft spätestens 60 Tage im Voraus schriftlich zu melden, damit eigene und gegebenenfalls benachbarte Anschlussleitungen umgelegt oder vom Netz abgetrennt werden können.
+**Abbruch von Gebäuden**
 
-<sup>2</sup> Mit den Abbrucharbeiten darf nicht vor dem Abschluss der Arbeiten von IWB begonnen werden. In komplexen Fällen können die Arbeiten von IWB länger als 60 Tage andauern.
+<sup>1</sup> Der Abbruch eines Gebäudes ist IWB von der Kundin oder dem Kunden spätestens 60 Tage im Voraus schriftlich zu melden, damit die betreffende Anschlussleitung und gegebenenfalls benachbarte Anschlussleitungen vor dem Abbruch umgelegt oder vom Netz abgetrennt werden können. In komplexen Fällen können die notwendigen Arbeiten von IWB länger als 60 Tage dauern.
 
-### IV. 5. Beanspruchung von Grund und Boden
+<sup>2</sup> Mit den Abbrucharbeiten darf nicht vor dem Abschluss der Arbeiten und der schriftlichen Freigabe durch IWB begonnen werden.
 
 #### § 21
 
-<sup>1</sup> Anschlussbegehrende Interessentinnen oder Interessenten haben allenfalls erforderliche Durchleitungsrechte bei Beanspruchung von Grundstücken Dritter auf eigene Kosten zu erwerben und gegebenenfalls im Grundbuch eintragen zu lassen.
+**Beanspruchung von Grund und Boden**
 
-<sup>2</sup> Die Grund- bzw. Hauseigentümerschaft hat IWB den für die Leitungstrasse und die Anschlussstelle benötigten Raum kostenlos zur Verfügung zu stellen.
+<sup>1</sup> Die Kundin oder der Kunde hat allenfalls erforderliche Durchleitungsrechte bei Beanspruchung von Grundstücken Dritter auf eigene Kosten zu erwerben und gegebenenfalls im Grundbuch eintragen zu lassen.
 
-<sup>3</sup> Die Grund- bzw. Hauseigentümerschaft hat gemeinsame Anschlussleitungen sowie die Arbeiten zur Erstellung und zum Unterhalt derselben zu dulden.
+<sup>2</sup> Die Kundin oder der Kunde hat IWB den benötigten Raum für die Leitungsführung und die Hauptabsperrarmatur kostenlos zur Verfügung zu stellen.
 
-### IV. 6. Kosten (vgl. Anhang)
+<sup>3</sup> Die Kundin oder der Kunde hat Arbeiten zur Erstellung und zum Unterhalt von Anschlussleitungen zu dulden.
 
 #### § 22
 
-**a) Anschlussgebühr**
+**Anschlussgebühr**
 
-<sup>1</sup> Die Grund- bzw. Hauseigentümerschaft hat die Kosten für die innerhalb der Parzelle liegenden Teile der Anschlussleitung und des Hauptabsperrorgans anlässlich der Erstellung zu tragen, ohne dass diese Teile in ihr Eigentum übergehen. Die Anschlussgebühren werden aufgrund der Leitungslänge ab Parzellengrenze und des Rohrdurchmessers pauschal festgesetzt. Mit der Anschlussgebühr sind sämtliche Kosten für Erstellung, Erweiterung, Unterhalt, Abbruch und Erneuerung abgegolten.
+<sup>1</sup> Die Kundin oder der Kunde hat einen Kostenanteil (Anschlussgebühr) für die Erstellung der Anschlussleitung und der Hauptabsperrarmatur zu tragen, ohne dass diese Teile in ihr oder sein Eigentum übergehen. Die Anschlussgebühr wird aufgrund des Rohrinnendurchmessers und der Leitungslänge ab Versorgungsleitung bis zum Übergabepunkt festgesetzt. Die Kosten für den Unterhalt, die Stilllegung, den Abbruch und die Erneuerung der Anschlussleitung und der Hauptabsperrarmatur gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
-<sup>2</sup> Für die Berechnung des Kostenanteils gelten die Ansätze des Anhanges.
+<sup>2</sup> Ein Abbruch der Anschlussleitung im Zusammenhang mit einer Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden wird hinsichtlich der Kosten wie eine Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden behandelt und wird gemäss § 25 abgerechnet.
+
+<sup>3</sup> Für die Berechnung der Anschlussgebühr gelten die Ansätze des Anhangs.
 
 #### § 23
 
-**b) Gemeinsame Anschlussleitungen**
+**Gemeinsame Anschlussleitungen**
 
-<sup>1</sup> Bei gemeinsamen Anschlussleitungen werden die Kosten für die Erstellung gleichmässig auf die betreffenden Grund- bzw. Hauseigentümerschaften aufgeteilt.
+<sup>1</sup> Bei gemeinsamen Anschlussleitungen werden die Kosten für die Erstellung gleichmässig auf die betreffenden Kundinnen oder Kunden überbunden.
 
-<sup>2</sup> Bei einem späteren Anschluss von weiteren Liegenschaften an eine gemeinsame Anschlussleitung sind Rückerstattungen der von IWB erhobenen Kostenanteile ausgeschlossen.
-
-<sup>3</sup> Für Gesamtüberbauungen mit zeitlich festgelegtem Bau der Anschlüsse können die Anschlussgebühren pauschal erhoben werden, indem die gesamten Anschlusskosten gleichmässig auf die betreffenden Grund- bzw. Hauseigentümerschaften aufgeteilt werden.
+<sup>2</sup> Bei einem späteren Anschluss von weiteren Gebäuden oder Grundstücken an eine gemeinsame Anschlussleitung sind Rückerstattungen der von IWB erhobenen Kostenanteile ausgeschlossen.
 
 #### § 24
 
-**c) Fälligkeit und Rechnungsstellung**
+**Rechnungsstellung**
 
-<sup>1</sup> Die Kosten werden mit Abschluss der Arbeiten fällig und werden der Grund- bzw. Hauseigentümerschaft von IWB in Rechnung gestellt. IWB kann vorgängig Akontozahlungen verlangen.
+<sup>1</sup> Die Kosten werden mit Abschluss der Arbeiten der Kundin oder dem Kunden in Rechnung gestellt. IWB kann vorgängig Akontozahlungen verlangen.
 
 #### § 25
 
-**d) Leitungsanpassungen und Verlegungen**
+**Änderungen der Anschlussleitung auf Wunsch der Kundin oder des Kunden**
 
-<sup>1</sup> Die Kosten für Leitungsanpassungen oder die Verlegung von Anschlussleitungen hat die Verursacherin oder der Verursacher sowohl im öffentlichen als auch im privaten Grund zu tragen.
+<sup>1</sup> Soll eine bestehende Anschlussleitung geändert werden, wie z.B. eine Anpassung des nominalen Rohrinnendurchmessers, eine Umlegung oder einen vorzeitigen Ersatz, so hat die Kundin oder der Kunde dies mittels eines Formulars bei IWB zu beantragen. Die Kosten für die Änderung der Anschlussleitung hat die Verursacherin oder der Verursacher sowohl im öffentlichen als auch im privaten Grund zu tragen.
 
-<sup>2</sup> …
-
-<sup>3</sup> …
+<sup>2</sup> Wird eine Anschlussleitung nach mindestens 10 Betriebsjahren geändert, so beteiligt sich IWB an den Kosten. Die Beteiligung beträgt 2.5 % pro Jahr ab dem 11. Betriebsjahr der bestehenden Anschlussleitung. Eine Kostenbeteiligung von IWB an allfälligen Tiefbauarbeiten ist ausgeschlossen. Die Kundin oder der Kunden bzw. die Verursacherin oder der Verursacher hat allfällige Tiefbauarbeiten in Auftrag zu geben sowie entsprechend den Vorgaben von IWB ausführen zu lassen und die damit verbundenen Kosten zu tragen.
 
 #### § 26
 
-**e) Besondere Verhältnisse**
+**Besondere Verhältnisse**
 
-<sup>1</sup> Für Anschlussleitungen mit spezieller Verlegungsart oder Leitungsführung hat die Grund- bzw. Hauseigentümerschaft die von IWB als notwendig erachteten baulichen Massnahmen und Tiefbauarbeiten zu ihren Lasten auszuführen, beziehungsweise die daraus entstehenden Kosten zu tragen.
-
-### IV. 7. Reparaturen
+<sup>1</sup> Für Anschlussleitungen, die aufgrund besonderer Verhältnisse einer speziellen Verlegungsart oder Leitungsführung bedürfen (insbesondere wenn im Bereich der Anschlussleitung kein normaler Baugrund mit Erd- oder Asphaltoberfläche vorhanden ist), hat die Kundin oder der Kunde die von IWB als notwendig erachteten baulichen Massnahmen (z.B. Tiefbauarbeiten) zu ihren oder seinen Lasten auszuführen, bzw. die daraus entstehenden Kosten zu tragen.
 
 #### § 27
 
-<sup>1</sup> Reparaturen gehen vorbehältlich schuldhaften Verhaltens zu Lasten von IWB.
+**Reparaturen**
 
-## V. Hausinstallationen
+<sup>1</sup> Reparaturen gehen vorbehältlich schuldhaften Verhaltens der Kundin, des Kunden oder Drittpersonen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
-### V. 1. Umschreibung
+## 5. Hausinstallationen
 
 #### § 28
 
-<sup>1</sup> Als Hausinstallationen gelten alle dem Wasserbezug dienenden Anlageteile unmittelbar nach dem Übergabepunkt, mit Ausnahme der Messeinrichtungen.
+**Umschreibung**
 
-<sup>2</sup> Die Grund- bzw. Hauseigentümerschaft hat auf eigene Kosten nach der Messeinrichtung einen kontrollierbaren Rückflussverhinderer gemäss Vorgabe von IWB zu installieren.
+<sup>1</sup> Als Hausinstallationen gelten alle der Trinkwasserversorgung dienenden Anlagenteile unmittelbar nach dem Übergabepunkt, mit Ausnahme der Messeinrichtungen.
 
-<sup>3</sup> Bei höherer Flüssigkeitskategorie[^28-1] legt IWB die notwendige Sicherungseinrichtung fest.
+<sup>2</sup> Die Hausinstallationen stehen, mit Ausnahme der Hauptabsperrarmatur und der Messeinrichtungen, im Eigentum der Kundin oder des Kunden.
 
-[^28-1]: Gemäss EN1717 bzw. Richtlinien vom Schweizerischen Verein des Gas- und Wasserfaches (SVGW) W3/E1.
+<sup>3</sup> Die Verantwortung für die gesamten Hausinstallationen trägt die Kundin oder der Kunde.
 
-### V. 2. Arbeiten an Hausinstallationen
+<sup>4</sup> Die Kundin oder der Kunde hat nach der Messeinrichtung einen kontrollierbaren Rückflussverhinderer gemäss den Vorgaben von IWB auf eigene Kosten zu installieren.
+
+<sup>5</sup> Bei höherer Flüssigkeitskategorie, z.B. bei Verwendung des Trinkwassers in chemischen Anlagen, legt IWB die notwendige Sicherungseinrichtung fest.
 
 #### § 29
 
-<sup>1</sup> Erstellung und Änderung von und an Hausinstallationen dürfen nur durch Personen oder Firmen ausgeführt werden, die eine Installationsbewilligung von IWB besitzen.
+**Arbeiten an Hausinstallationen**
 
-<sup>2</sup> …
+<sup>1</sup> Arbeiten an Hausinstallationen dürfen nur von Unternehmen durchgeführt werden, die eine Installationsbewilligung von IWB besitzen.
 
-<sup>3</sup> Ohne vorgängige schriftliche Bewilligung von IWB dürfen keine Hausinstallationen erstellt, erweitert oder geändert werden.
+<sup>2</sup> Die Kundin oder der Kunde hat ihre oder seine Hausinstallationen stets in technisch einwandfreiem Zustand zu halten und für eine unverzügliche Beseitigung festgestellter Mängel zu sorgen.
 
-<sup>4</sup> Die Hausinstallationen sind nach den von den eidgenössischen und kantonalen Behörden sowie vom Schweizerischen Verein des Gas- und Wasserfaches (SVGW) aufgestellten Richtlinien und gemäss den technischen Vorschriften von IWB auszuführen, zu betreiben und zu unterhalten.
-
-<sup>5</sup> Bedarf die Ausführung einer Installation zusätzlicher Bewilligungen, so ist die Einholung dieser Bewilligungen vor Ausführung Sache der Grund- bzw. Hauseigentümerschaft oder der von ihr mit der Ausführung Beauftragten.
-
-<sup>6</sup> …
-
-<sup>7</sup> Die Hauseigentümerschaft hat ihre Hausinstallationen dauernd in technisch einwandfreiem Zustand zu halten und für eine unverzügliche Beseitigung festgestellter Mängel zu sorgen.
-
-### V. 3. Kosten
+<sup>3</sup> Die Hausinstallationen sind gemäss den Vorschriften und Richtlinien der Fachstellen und den eidgenössischen und kantonalen Behörden auszuführen, zu betreiben, zu unterhalten und zu prüfen, so insbesondere gemäss den Richtlinien des Schweizerischen Verein des Gas- und Wasserfaches (SVGW) und den technischen Vorschriften von IWB. Insbesondere hat die Kundin oder der Kunde für eine bestimmungsgemässe Nutzung zu sorgen.
 
 #### § 30
 
-<sup>1</sup> Die Kosten für Arbeiten an Hausinstallationen inklusive Dämmung gehen zu Lasten der Eigentümerschaft der versorgten Liegenschaft.
+**Erteilung einer Installationsbewilligung**
 
-<sup>2</sup> …
+<sup>1</sup> Die Bewilligung zur Durchführung von Arbeiten an Hausinstallationen (Installationsbewilligung) wird von IWB an Unternehmen erteilt, die in der Lage sind, diese fachgerecht auszuführen.
 
-<sup>3</sup> IWB behält sich vor, bei Ersatz von Anschlussleitungen den Übergabepunkt (Ort der Hauseinführung) neu festzulegen (§ 17 Abs. 2).
-
-### V. 4. Kontrolle
+<sup>2</sup> Die Installationsbewilligung wird gemäss § 5 Abs. 3 IWB-Gesetz sowie gemäss den einschlägigen Normen des Schweizerischen Vereins des Gas- und Wasserfaches (SVGW) durch IWB erteilt.
 
 #### § 31
 
-<sup>1</sup> Alle Hausinstallationen unterstehen nach ihrer Erstellung, Erweiterung oder Änderung im Hinblick auf ihre Übereinstimmung mit den einschlägigen Vorschriften der Kontrolle durch IWB.
+**Erlöschen der Installationsbewilligung**
 
-<sup>2</sup> Den zuständigen Organen von IWB ist zur Kontrolle der Hausinstallationen der Zutritt zu allen mit Wassereinrichtungen versehenen Räumen während der ordentlichen Arbeitszeit, in Sonderfällen wie z. B. Störungen jederzeit, zu ermöglichen.
+<sup>1</sup> Eine von IWB erteilte Installationsbewilligung erlischt, wenn:
 
-<sup>3</sup> Der Zugang zum Übergabepunkt bzw. zur Hauptabsperrarmatur ist stets frei und zugänglich zu halten. Kosten für Freilegungen oder das Zugänglichmachen sind von der Eigentümerschaft der versorgten Liegenschaft zu tragen.
-
-### V. 5. Verweigerung oder Sperrung des Anschlusses
+- a) das Unternehmen seine Geschäftstätigkeit einstellt;
+- b) eine der Voraussetzungen, die für die Erteilung massgebend waren, dahingefallen ist, insbesondere wenn die Person, welche über die erforderlichen Fachkenntnisse verfügt hat, aus dem Unternehmen ausscheidet.
 
 #### § 32
 
-<sup>1</sup> IWB verweigert die Inbetriebnahme der Hausinstallationen oder einzelner Anlageteile, wenn sie den anwendbaren Vorschriften nicht entsprechen.
+**Entzug der Installationsbewilligung**
 
-## VI. Messeinrichtungen
-
-### VI. 1. Umschreibung
+<sup>1</sup> IWB kann die Installationsbewilligung jederzeit aus wichtigen Gründen entziehen, insbesondere wenn das Unternehmen oder sein Personal gegen allgemeine Vorschriften oder gegen spezielle Weisungen von IWB zuwiderhandelt (beispielsweise, wenn das Unternehmen wiederholt und trotz vorausgegangener Ermahnung von IWB Arbeiten an nichtberechtigte Dritte übergibt oder von unberechtigten Dritten ausgeführte Arbeiten unter ihrem Namen meldet).
 
 #### § 33
 
-<sup>1</sup> Die Messeinrichtungen dienen der Feststellung des Wasserbezuges in Volumeneinheiten.
+**Ausführungsbewilligung**
 
-### VI. 2. Art der Messeinrichtung
+<sup>1</sup> Alle Arbeiten an Hausinstallationen müssen vor der Ausführung durch IWB bewilligt werden. Ohne eine vorgängig schriftlich erteilte Ausführungsbewilligung von IWB dürfen keine Hausinstallationen erstellt, erweitert oder geändert werden.
+
+<sup>2</sup> Bedarf die Ausführung einer Installation zusätzlicher Bewilligungen, so ist Bewilligung vor Ausführung durch die Kundin oder den Kunden einzuholen.
 
 #### § 34
 
-<sup>1</sup> IWB bestimmt die Art und den Ort der Messeinrichtung und allfälliger Zusatzeinrichtungen.
+**Spezialbewilligungen**
 
-### VI. 3. Arbeiten an Messeinrichtungen
+<sup>1</sup> In Bezug auf spezielle Hausinstallationen kann IWB Spezialbewilligungen an Unternehmen erteilen, die nur zur Ausführung der darin bezeichneten Arbeiten berechtigen.
+
+<sup>2</sup> Die für Installationsbewilligungen geltenden Vorschriften hinsichtlich Erteilung, Erlöschen und Entzug gelten auch für Spezialbewilligungen. IWB bestimmt nach ihrem Ermessen die erforderlichen Fachkenntnisse und deren Nachweis. Sie kann auch eine Prüfung anordnen.
 
 #### § 35
 
-<sup>1</sup> Arbeiten an den für die Messung des Trinkwassers notwendigen Messeinrichtungen werden von IWB oder deren Beauftragten vorgenommen.
+**Kosten**
 
-### VI. 4. Standort und Raumbeanspruchung
+<sup>1</sup> Sämtliche Kosten im Zusammenhang mit den Hausinstallationen (inkl. Dämmung für Rohrleitungen und Armaturen) gehen zu Lasten der Kundin oder des Kunden.
 
 #### § 36
 
-<sup>1</sup> Der Standort der Messeinrichtungen wird von IWB im Einvernehmen mit der Grund- bzw. Hauseigentümerschaft bestimmt.
+**Kontrolle**
 
-<sup>2</sup> Den für den Einbau der Messeinrichtungen erforderlichen Platz hat die Grund- bzw. Hauseigentümerschaft IWB kostenlos zur Verfügung zu stellen.
+<sup>1</sup> Alle Hausinstallationen unterstehen nach ihrer Erstellung, Erweiterung oder Änderung im Hinblick auf ihre Übereinstimmung mit den technischen Vorschriften der Kontrolle durch IWB.
 
-<sup>3</sup> Von der Eigentümerschaft der versorgten Liegenschaft ist unmittelbar vor und hinter der Messeinrichtung je eine Absperrarmatur zu deren Lasten einzubauen.
-
-### VI. 5. Kosten
+<sup>2</sup> Eine erfolgreiche Kontrolle führt nicht zu einer Übernahme einer Gewährleistung oder Haftung durch IWB für Arbeiten, welche durch Unternehmen im Rahmen von § 29 ff. ausgeführt wurden.
 
 #### § 37
 
-<sup>1</sup> Die Montagekosten der Messeinrichtungen gehen zu Lasten von IWB. Sämtliche Aufwendungen im Zusammenhang mit der periodischen Kontrolle der Zähler gehen ebenfalls zu Lasten von IWB.
+**Verweigerung oder Sperrung des Anschlusses**
 
-<sup>2</sup> Die Kosten für Messeinrichtungen temporärer und provisorischer Anlagen hat die Benützerin oder der Benützer zu bezahlen.
+<sup>1</sup> IWB verweigert die Inbetriebnahme der Hausinstallationen oder einzelner Anlageteile, wenn sie nicht den einschlägigen technischen Vorschriften entsprechen.
 
-### VI. 6. Private Messeinrichtungen
+<sup>2</sup> IWB kann aus Sicherheitsgründen den Ersatz oder die Stilllegung mangelhafter Hausinstallationen anordnen.
+
+## 6. Messeinrichtung
 
 #### § 38
 
-<sup>1</sup> Messeinrichtungen für die Weiterverrechnung des Trinkwassers an Dritte oder für eigene Bedürfnisse müssen von der Grund- bzw. Hauseigentümerschaft auf eigene Kosten angeschafft und unterhalten werden.
+**Umschreibung**
 
-Ebenfalls zu deren Lasten gehen die durch die Einhaltung der technischen Vorschriften, insbesondere durch Revision und Kontrolle der Messgenauigkeit, entstehenden Kosten.
-
-<sup>2</sup> Die privaten Messeinrichtungen fallen nicht ins Eigentum von IWB im Sinne von § 18 Abs. 3 des IWB-Gesetzes.
-
-### VI. 7. Unterhalt
+<sup>1</sup> IWB stellt jeder Kundin und jedem Kunden eine Messeinrichtung zur Verfügung. Die Messeinrichtung besteht aus einem Durchflusszähler und allfälligen Zusatzeinrichtungen (wie beispielsweise einem Fernauslesemodul). Die Messeinrichtungen sowie allfällige Zusatzeinrichtungen stehen im Eigentum von IWB.
 
 #### § 39
 
-<sup>1</sup> Der Unterhalt der Messeinrichtungen, mit Ausnahme der privaten, erfolgt ausschliesslich durch IWB oder deren Beauftragte zu Lasten von IWB.
+**Art der Messeinrichtung, intelligente Messsysteme**
 
-<sup>2</sup> Die Messeinrichtungen, mit Ausnahme der privaten, werden durch IWB oder deren Beauftragte nach den Vorschriften von IWB periodisch geprüft, revidiert und plombiert.
+<sup>1</sup> IWB bestimmt die Art der Messeinrichtung.
 
-### VI. 8. Zugänglichkeit
+<sup>2</sup> Beim Einsatz intelligenter Messsysteme gelten ergänzend die Vorgaben von § 35a IWB-Gesetz sowie §§ 2 ff. Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme (AB IWB Datenbearbeitung) vom 1. Dezember 2020.
 
 #### § 40
 
-<sup>1</sup> Der Zugang zu den Messeinrichtungen ist stets freizuhalten. Mit Freilegungen verbundene Kosten sind von der Hauseigentümerschaft zu tragen.
+**Arbeiten an Messeinrichtungen**
 
-<sup>2</sup> Befindet sich die Messeinrichtung in einem Schacht, muss dieser stets den aktuell gültigen technischen sowie sicherheitsrelevanten Vorschriften entsprechen.
-
-### VI. 9. Schutz der Messeinrichtungen
+<sup>1</sup> Arbeiten an den Messeinrichtungen werden ausschliesslich durch IWB oder deren Beauftragte vorgenommen.
 
 #### § 41
 
-<sup>1</sup> Die Grund- bzw. Hauseigentümerschaft der mit Trinkwasser versorgten Liegenschaft hat dafür zu sorgen, dass die Messeinrichtungen nicht beschädigt werden.
+**Standort und Raumbeanspruchung**
 
-<sup>2</sup> An Messeinrichtungen dürfen ausser durch IWB oder deren Beauftragte keine Eingriffe vorgenommen werden.
+<sup>1</sup> IWB bestimmt den Standort der Messeinrichtungen und allfälliger Zusatzeinrichtungen und berücksichtigt die Wünsche der Kundin oder des Kunden, soweit dies möglich und zweckmässig ist.
 
-<sup>3</sup> Wer unberechtigterweise Plomben an Messeinrichtungen entfernt oder Manipulationen vornimmt, haftet für den entstandenen Schaden und trägt die Kosten der notwendigen Massnahmen, um den ursprünglichen Zustand wiederherzustellen.
+<sup>2</sup> Den erforderlichen Platz und Raum für den Einbau der Messeinrichtungen hat die Kundin oder der Kunde IWB kostenlos zur Verfügung zu stellen.
 
-## VII. Zähler
-
-### VII. 1. Allgemeines
+<sup>3</sup> Die Kundin oder der Kunde der versorgten Liegenschaft hat unmittelbar vor und hinter der Messeinrichtung je eine Absperrarmatur zu ihren oder seinen Lasten einzubauen.
 
 #### § 42
 
-<sup>1</sup> Der Trinkwasserbezug wird durch Zähler ermittelt.
+**Kosten**
 
-### VII. 2. Messgenauigkeit
+<sup>1</sup> Die Kosten für die Messeinrichtung und deren Montage, Unterhalt, Kontrolle und Demontage gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
 #### § 43
 
-<sup>1</sup> Die Anzeige der Zähler gilt als richtig, wenn der Messfehler die gesetzlichen Fehlergrenzen nicht überschreitet.
+**Unterhalt**
 
-### VII. 3. Nachprüfung auf Verlangen der Benützerin oder des Benützers
+<sup>1</sup> Der Unterhalt der Messeinrichtungen erfolgt ausschliesslich durch IWB oder deren Beauftragte zu Lasten von IWB und wird über die Gebühren und Tarife finanziert.
+
+<sup>2</sup> Die Messeinrichtungen werden durch IWB oder deren Beauftragte gemäss den gesetzlichen Vorschriften und in den vorgeschriebenen Zeiträumen geprüft, revidiert und plombiert.
 
 #### § 44
 
-<sup>1</sup> Wird die Richtigkeit der Anzeige der Zähler durch die Benützerin oder den Benützer bezweifelt, so kann sie oder er jederzeit eine Prüfung der Zähler durch IWB oder eine andere Prüfstelle verlangen. In Streitfällen ist der Befund des Eidgenössischen Instituts für Metrologie (METAS) massgebend. Die Kosten der Prüfung einschliesslich Auswechslung der Zähler trägt diejenige Partei, welche durch das Prüfergebnis ins Unrecht versetzt wird.
+**Zugänglichkeit**
 
-### VII. 4. Ablesung
+<sup>1</sup> Der Zugang zu den Messeinrichtungen und allfälligen Zusatzeinrichtungen ist stets freizuhalten.
+
+<sup>2</sup> Befindet sich die Messeinrichtung in einem Schacht der Kundin oder des Kunden, muss die Kundin oder der Kunde dafür sorgen, dass dieser stets den aktuell gültigen technischen sowie sicherheitsrelevanten Vorschriften entspricht.
 
 #### § 45
 
-<sup>1</sup> IWB bestimmt wie, durch wen und zu welchem Zeitpunkt die Zähler abgelesen werden.
+**Schutz der Messeinrichtungen**
 
-### VII. 5. Zutritt
+<sup>1</sup> Die Kundin oder der Kunde hat dafür zu sorgen, dass die Messeinrichtungen nicht beschädigt werden.
+
+<sup>2</sup> Eingriffe an Messeinrichtungen dürfen ausschliesslich durch IWB oder deren Beauftragte vorgenommen werden.
+
+<sup>3</sup> Wer unberechtigterweise Eingriffe an Messeinrichtungen vornimmt, insbesondere Plomben an oder Teile von Messeinrichtungen entfernt oder sonstige Manipulationen vornimmt, haftet gegenüber IWB für den entstandenen Schaden und trägt die Kosten der notwendigen Massnahmen, um den ursprünglichen Zustand wiederherzustellen.
 
 #### § 46
 
-<sup>1</sup> Die Benützerin oder der Benützer hat der von IWB mit der Ablesung betrauten Person während der ordentlichen Arbeitszeit den Zutritt zu den Messeinrichtungen zu ermöglichen.
+**Private Messeinrichtungen**
 
-### VII. 6. Fehlmessungen
+<sup>1</sup> Messeinrichtungen für die Weiterverrechnung des Trinkwassers an Dritte oder für eigene Bedürfnisse müssen von der Kundin oder dem Kunden auf eigene Kosten beschafft und unterhalten werden. Ebenfalls zu deren Lasten gehen die durch die Einhaltung der anwendbaren Vorschriften, insbesondere durch Revision und Kontrolle der Messgenauigkeit, entstehenden Kosten.
+
+<sup>2</sup> Die privaten Messeinrichtungen fallen nicht in das Eigentum von IWB.
+
+<sup>3</sup> Die §§ 38 bis 45 sowie Kapitel 7 gelten nicht für private Messeinrichtungen
+
+## 7. Messwertermittlung
 
 #### § 47
 
-<sup>1</sup> Bei festgestelltem Stillstand oder bei Fehlanzeige eines Zählers über die gesetzlich zulässige Toleranz hinaus wird der Wasserbezug soweit möglich aufgrund einer technischen Prüfung ermittelt.
+**Allgemeines**
 
-<sup>2</sup> Kann die Fehlanzeige eines Zählers nach Grösse und Dauer einwandfrei ermittelt werden, so sind die Abrechnungen für diese Zeit, jedoch höchstens für die Dauer der gesetzlichen Verjährungsfrist, zu berichtigen.
-
-<sup>3</sup> Lässt sich das Mass der Korrektur durch eine technische Prüfung nicht bestimmen, wird der Bezug auf der Basis der vor der letzten Feststellung des Fehlers abgelesenen Zähleranzeige unter angemessener Berücksichtigung der Angaben der Benützerin oder des Benützers von IWB festgelegt. Lässt sich der Zeitpunkt für das Eintreten der Störung nicht feststellen, so können die Angaben der Benützerin oder des Benützers nur für die beanstandete Ableseperiode berücksichtigt werden.
-
-<sup>4</sup> Treten in einer Hausinstallation Wasserverluste auf, so hat die Benützerin oder der Benützer keinen Anspruch auf Reduktion der Gebühr des durch die Zähler registrierten Wasserverbrauches.
-
-## VIII. Lieferbedingungen und Benützungsverhältnisse
-
-### VIII. 1. Allgemeines
+<sup>1</sup> Die bezogene Trinkwassermenge wird durch die Messeinrichtung ermittelt.
 
 #### § 48
+
+**Messgenauigkeit**
+
+<sup>1</sup> Die Anzeige der Messeinrichtung gilt als richtig, solange sich das Messergebnis innerhalb der gesetzlichen Fehlergrenzen befindet.
+
+#### § 49
+
+**Nachprüfung auf Verlangen der Kundin oder des Kunden**
+
+<sup>1</sup> Wird die Richtigkeit der Anzeige der Messeinrichtung durch die Kundin oder den Kunden bezweifelt, so kann sie oder er eine Prüfung der Messeinrichtung durch IWB oder eine andere gesetzlich beauftragte Stelle verlangen. In Streitfällen ist der Befund des Eidgenössischen Instituts für Metrologie METAS massgebend. Die Kosten der Prüfung einschliesslich Auswechslung der Messeinrichtung trägt diejenige Partei, welche durch das Prüfergebnis ins Unrecht versetzt wird.
+
+#### § 50
+
+**Ablesung**
+
+<sup>1</sup> IWB bestimmt wie, durch wen und zu welchem Zeitpunkt die Daten der Messeinrichtungen abgelesen werden.
+
+#### § 51
+
+**Fehlmessungen**
+
+<sup>1</sup> Bei einer festgestellten Fehlfunktion der Messeinrichtung wird die bezogene Trinkwassermenge anhand einer technischen Prüfung durch IWB ermittelt.
+
+<sup>2</sup> Kann die tatsächlich bezogene Trinkwassermenge nach einer Fehlfunktion der Messeinrichtung einwandfrei ermittelt werden, so sind die Abrechnungen für diese Zeit, jedoch höchstens für die Dauer der anwendbaren gesetzlichen Verjährungsfrist, zu berichtigen.
+
+<sup>3</sup> Lässt sich die bezogene Trinkwassermenge nicht durch eine technische Prüfung bestimmen, wird diese auf Basis der letzten Ablesung vor Feststellung der Fehlfunktion der Messeinrichtung unter angemessener Berücksichtigung der Angaben der Kundin oder des Kunden von IWB festgelegt. Lässt sich der Zeitpunkt für das Eintreten der Fehlfunktion der Messeinrichtung nicht feststellen, so können die Angaben der Kundin oder des Kunden nur für die beanstandete Ableseperiode berücksichtigt werden.
+
+<sup>4</sup> Treten in einer Hausinstallation Wasserverluste auf, so hat die Kundin oder der Kunde keinen Anspruch auf Reduktion der Gebühr des durch die Messeinrichtung registrierten Trinkwasserverbrauchs.
+
+## 8. Lieferbedingungen und Benützungsverhältnisse
+
+#### § 52
+
+**Allgemeines**
 
 <sup>1</sup> IWB liefert Trinkwasser nach Massgabe der gesetzlichen Bestimmungen.
 
 <sup>2</sup> Das Trinkwasser hat hygienisch einwandfrei zu sein und den Anforderungen der Verordnung des EDI über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen vom 16. Dezember 2016 zu entsprechen.
 
-<sup>3</sup> Der Regierungsrat entscheidet nach Anhörung präventivmedizinischer Fachleute über die Beimischung von Substanzen zum Trinkwasser aus volkshygienischen oder prophylaktischen Gründen und teilt seinen Entscheid dem zuständigen Bundesamt mit. Er kann vor dem Entscheid den Verwaltungsrat von IWB anhören. IWB vollzieht den Beschluss des Regierungsrates.
+<sup>3</sup> Der Regierungsrat entscheidet nach Anhörung präventivmedizinischer Fachleute über die Beimischung von Substanzen zum Trinkwasser aus volkshygienischen oder prophylaktischen Gründen und teilt seinen Entscheid dem zuständigen Bundesamt mit. Der Regierungsrat kann vor dem Entscheid den Verwaltungsrat von IWB anhören. IWB vollzieht den Beschluss des Regierungsrates.
 
-<sup>4</sup> Die Lieferung des Trinkwassers erfolgt in der Regel ununterbrochen.
+<sup>4</sup> Die Lieferung von Trinkwasser erfolgt in der Regel ununterbrochen.
 
-<sup>5</sup> IWB übernimmt für die Einhaltung einer bestimmten Wasserzusammensetzung (Härte usw.), Temperatur sowie für einen konstanten Druck keine Gewähr.
+<sup>5</sup> IWB übernimmt für die Einhaltung einer bestimmten Wasserzusammensetzung (Härte, etc.), Temperatur sowie einen konstanten Druck keine Gewähr.
 
-### VIII. 2. Beginn und Ende des Benützungsverhältnisses, Haftung
+<sup>6</sup> Gesuche um Anpassung der Anschlussleistung sind IWB von der Kundin oder dem Kunden schriftlich zu melden. Dabei besteht kein Anspruch auf eine Erhöhung der Leistung. Die Kosten, die in Verbindung mit der Anpassung der Anschlussleistung entstehen, können der Kundin oder dem Kunden in Rechnung gestellt werden. Wird im Zuge der Anpassung der Anschlussleistung eine Leitungsanpassung erforderlich, so gilt § 25.
 
-#### § 49
+#### § 53
 
-<sup>1</sup> Das Benützungsverhältnis beginnt mit der Erteilung der Anschlussbewilligung oder spätestens dem Bezug von Trinkwasser bzw. mit dem Datum der Montage der Messeinrichtung oder zu einem vertraglich abgemachten Zeitpunkt. Es endet an dem in der schriftlichen Abmeldung angegebenen Datum. Die Gebühren und entsprechenden Tarife sind bis zur Entfernung des Anschlusses resp. der Messeinrichtung geschuldet.
+**Beginn und Ende des Benützungsverhältnisses, Haftung**
 
-<sup>2</sup> Die Benützerinnen oder Benützer haben IWB jeden Wechsel spätestens 10 Arbeitstage im Voraus, unter Angabe der alten und neuen Adresse sowie des Zeitpunkts des Wechsels, mitzuteilen.
+<sup>1</sup> Das Benützungsverhältnis beginnt mit dem Datum der Montage und Inbetriebnahme der Messeinrichtung. Das Benützungsverhältnis endet zum Zeitpunkt der Entfernung des Anschlusses bzw. der Messeinrichtung. Bis zu diesem Zeitpunkt sind auch die Gebühren und die entsprechenden Tarife geschuldet.
 
-<sup>3</sup> Geht bei einem Benützerinnen- oder Benützerwechsel keine Meldung ein oder erfolgt sie verspätet, so haftet die fehlbare Benützerin oder der fehlbare Benützer für den Verbrauch des Trinkwassers bis zur nächsten Ablesung.
+<sup>2</sup> Die Kundin oder der Kunde hat IWB jeden Kundenwechsel (z.B. Eigentümerwechsel, Mieterwechsel oder Adressänderung eines bestehenden Eigentümers) mindestens 10 Arbeitstage im Voraus, unter Angabe der alten und neuen Adresse sowie den Zeitpunkt des Wechsels, schriftlich mitzuteilen.
 
-<sup>4</sup> Für den Wasserbezug in leerstehenden Räumen und unbenützten Anlagen ist die Grund- bzw. Hauseigentümerschaft IWB gegenüber haftbar.
+<sup>3</sup> Geht bei einem Kundenwechsel keine Meldung ein oder erfolgt sie verspätet, so haftet die fehlbare Kundin oder der fehlbare Kunde für den Bezug von Trinkwasser bis zur nächsten Ablesung.
 
-<sup>5</sup> Will eine Benützerin oder ein Benützer kein Trinkwasser mehr beziehen, so hat sie oder er dies IWB mindestens 30 Tage vor dem gewünschten Abstelltermin mitzuteilen.
+<sup>4</sup> Für den Bezug von Trinkwasser in leerstehenden Räumen oder Gebäuden und nicht benutzten Anlagen ist die Kundin oder der Kunde gegenüber IWB haftbar.
 
-<sup>6</sup> Der Bezug von Trinkwasser für vorübergehende Zwecke (Baustellen und dgl.) bedarf einer Bewilligung von IWB.
+<sup>5</sup> Möchte eine Kundin oder ein Kunde kein Trinkwasser mehr beziehen, so hat sie oder er dies mindestens 30 Tage vor dem gewünschten Abstelltermin IWB schriftlich mitzuteilen.
 
-<sup>7</sup> Der Bezug ab Hydrant, mit Ausnahme zur Brandbekämpfung, ist nur mit einem Standrohr mit Messeinrichtung von IWB zulässig. Mit Abgabe des Standrohrs durch IWB ist die Bewilligung hierfür erteilt.
+#### § 54
 
-<sup>8</sup> IWB kann für Trinkwasser, welches für eine kurze und befristete Dauer geliefert wird, wie beispielsweise für im Hafen liegende Rheinschiffe, Messen, Märkte, Zirkusse, Konzert- oder Festveranstaltungen, vor Beginn der Lieferung eine Sicherheitsleistung verlangen. Die Sicherheitsleistung darf den Betrag von 50% des zu erwartenden Verbrauchs pro Anschluss nicht übersteigen.
+**Abgabe von Trinkwasser an Dritte**
 
-### VIII. 3. Wasserabgabe an Dritte
+<sup>1</sup> Das bezogene Trinkwasser darf ohne schriftliche Zustimmung von IWB nicht an Dritte weitergegeben oder auf ein anderes Grundstück geleitet werden.
 
-#### § 50
+#### § 55
 
-<sup>1</sup> Das bezogene Trinkwasser darf ohne schriftliche Zustimmung von IWB nicht an Dritte weitergegeben oder auf ein anderes Grundstück abgeleitet werden.
+**Einschränkung der Lieferung von Trinkwasser**
 
-### VIII. 4. Einschränkung der Lieferung von Trinkwasser
-
-#### § 51
-
-<sup>1</sup> IWB kann die Wasserlieferung in folgenden Fällen einschränken oder vorübergehend einstellen:
+<sup>1</sup> IWB kann die Lieferung von Trinkwasser in folgenden Fällen einschränken oder vorübergehend einstellen:
 
 - a) Ausführung von Unterhalts- und Erweiterungsarbeiten;
 - b) Betriebsstörungen;
@@ -489,159 +512,147 @@ Ebenfalls zu deren Lasten gehen die durch die Einhaltung der technischen Vorschr
 - d) höhere Gewalt;
 - e) andere aussergewöhnliche Ereignisse.
 
-<sup>2</sup> Im Brandfall hat die Feuerwehr zur Deckung ihres Löschwasserbedarfs Vorrang.
-
-### VIII. 5. Verweigerung der Lieferung von Trinkwasser
-
-#### § 52
-
-<sup>1</sup> IWB kann die Lieferung von Trinkwasser in folgenden Fällen verweigern:
-
-- a) wenn die Benützerinnen oder der Benützer trotz Ermahnung Einrichtungen verwendet, die den geltenden Vorschriften nicht entsprechen;
-- b) wenn die Benützerin oder der Benützer rechtswidrig Trinkwasser bezieht;
-- c) wenn IWB oder ihren Beauftragten trotz Ermahnung der durch diese Ausführungsbestimmungen geregelte Zutritt, insbesondere zu den Messeinrichtungen und Hausinstallationen, verweigert oder verunmöglicht wird;
-- d) wenn nach der zweiten Mahnung eine rechtskräftig festgesetzte Gebühr nicht bezahlt wird, sofern die Einstellung der Lieferung für Dritte, die in keinem Benützungsverhältnis zu den IWB stehen, keine unzumutbare Härte bedeutet;
-- e) wenn die Sicherheitsleistung gemäss § 49 Abs. 8 nicht geleistet wird.
-
-<sup>2</sup> Die Einstellung der Trinkwasserlieferung befreit die Benützerin oder den Benützer nicht von der Erfüllung aller Verbindlichkeiten gegenüber IWB.
-
-### VIII. 6. Haftungsausschluss
-
-#### § 53
-
-<sup>1</sup> Die Benützerinnen oder Benützer haben unter Vorbehalt abweichender Bestimmungen keinen Anspruch auf Entschädigung für mittelbaren oder unmittelbaren Schaden, der ihnen aus Einschränkung oder Verweigerung der Lieferung von Trinkwasser erwächst.
-
-## IX. Rechnungsstellung
-
-### IX. 1. Tarife
-
-#### § 54
-
-<sup>1</sup> Die Rechnungsstellung für das gelieferte Trinkwasser erfolgt nach den in dem jeweils gültigen Gebührentarif festgelegten Ansätzen.
-
-<sup>2</sup> Die Begleichung der Rechnung hat mittels Banküberweisung auf das von IWB bezeichnete Konto zu erfolgen. Bei Verwendung eines anderen Zahlungsweges kann IWB den Rechnungsempfängern die zusätzlich verursachten Kosten in Rechnung stellen.
-
-### IX. 2. Ausstellen der Rechnung
-
-#### § 55
-
-<sup>1</sup> Die Rechnungsstellung an die Benützerin oder den Benützer erfolgt in regelmässigen, von IWB festgelegten Zeitabständen. Ablesungen ausserhalb derselben erfolgen in der Regel nur bei Benützerinnen- oder Benützerwechsel.
-
-<sup>2</sup> Die von privaten Zählern ermittelten Daten werden in keinem Fall von IWB abgelesen und in Rechnung gestellt.
-
-### IX. 3. Rechnungsstellung an Dritte
+<sup>2</sup> Im Brandfall hat die Feuerwehr Vorrang.
 
 #### § 56
 
-<sup>1</sup> Benützerinnen oder Benützer, die von IWB bezogenes Trinkwasser an Dritte abgeben, dürfen nicht mehr dafür verlangen, als sie selber dafür bezahlt haben.
+**Verweigerung der Lieferung von Trinkwasser**
 
-### IX. 4. Einsprache und Rekurs
+<sup>1</sup> IWB kann die Lieferung von Trinkwasser verweigern, wenn die Kundin oder der Kunde:
+
+- a) trotz Ermahnung Einrichtungen verwendet, die nicht den geltenden Vorschriften entsprechen;
+- b) die anwendbaren gesetzlichen Bestimmungen nicht einhält;
+- c) rechts- oder tarifwidrig Trinkwasser bezieht;
+- d) IWB oder deren Beauftragte trotz Ermahnung den Zutritt zu den Anlagen der Trinkwasserversorgung, insbesondere zu den Messeinrichtungen und Hausinstallationen, verweigert oder verunmöglicht;
+- e) nach der zweiten Mahnung eine rechtskräftig festgesetzte oder fällige Gebühr nicht bezahlt wird, sofern die Einstellung der Lieferung für Dritte, die in keinem Benützungsverhältnis zu IWB stehen, keine unzumutbare Härte bedeutet;
+- f) wenn die Sicherheitsleistung gemäss § 64 Abs. 4 nicht geleistet wird.
+
+<sup>2</sup> Die Einstellung der Lieferung von Trinkwasser befreit die Kundin oder den Kunden nicht von der Erfüllung ihrer oder seiner Verbindlichkeiten gegenüber IWB.
 
 #### § 57
 
-<sup>1</sup> Gegen die Rechnung kann die Benützerin oder der Benützer innert 30 Tagen nach ihrer Eröffnung mit schriftlicher Begründung Einsprache erheben.
+**Haftungsausschluss**
 
-<sup>2</sup> Offenkundig fehlerhafte Rechnungen können formlos beanstandet werden. Die Beanstandung hat vor Ablauf der Zahlungsfrist zu erfolgen.
+<sup>1</sup> Die Kundin oder der Kunde hat unter Vorbehalt zwingender Bestimmungen keinen Anspruch auf Entschädigung für unmittelbaren oder mittelbaren Schaden, der ihr oder ihm aus der Einschränkung oder Verweigerung der Lieferung von Trinkwasser erwächst.
 
-<sup>3</sup> IWB entscheidet über Einsprachen und Beanstandungen, welche ganz oder teilweise abgewiesen werden, in Form einer rekursfähigen und mit Rechtsmittelbelehrung versehenen Verfügung.
-
-<sup>4</sup> Gegen Verfügungen von IWB kann beim Regierungsrat Rekurs erhoben werden.
-
-### IX. 5. Zahlungsverzug
+## 9. Rechnungsstellung
 
 #### § 58
 
-<sup>1</sup> IWB ist berechtigt, für Mahnungen und die durch einen Zahlungsverzug verursachten Kosten und Umtriebe eine Gebühr zu erheben.
+**Tarife**
 
-<sup>2</sup> Die zweite Mahnung hat einen Hinweis auf die Möglichkeit der Verweigerung der Lieferung von Trinkwasser gemäss § 52 lit. d zu enthalten.
+<sup>1</sup> Die Rechnungsstellung für die bezogene Trinkwassermenge erfolgt nach den in dem jeweils gültigen Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser vom 9. Februar 2018 festgelegten Ansätzen.
 
-### IX. 6. Rechnungsstellung für Anschlussgebühren
+<sup>2</sup> Die Begleichung der Rechnung hat mittels Banküberweisung auf das von IWB bezeichnete Konto zu erfolgen. Bei Verwendung eines anderen Zahlungsweges kann IWB der Rechnungsempfängerin oder dem Rechnungsempfänger die zusätzlich verursachten Kosten in Rechnung stellen.
 
 #### § 59
 
-<sup>1</sup> Die §§ 57 und 58 sind auch in Bezug auf die Anschlussgebühren anwendbar.
+**Ausstellen der Rechnung**
 
-## X. Öffentliche Brunnen
+<sup>1</sup> Die Rechnungsstellung an die Kundin oder den Kunden erfolgt in regelmässigen, von IWB festgelegten Zeitabständen. Ablesungen ausserhalb derselben erfolgen in der Regel nur bei einem Kundenwechsel.
 
-### X. 1. In der Stadt Basel
+<sup>2</sup> Die von privaten Messeinrichtungen ermittelten Daten werden in keinem Fall von IWB abgelesen und dienen nicht als Grundlage für die Rechnungsstellung.
 
 #### § 60
 
-<sup>1</sup> IWB ist für die öffentlichen Brunnen in der Stadt Basel, mit Einschluss von Betrieb und Unterhalt, zuständig.
+**Rechnungsstellung an Dritte**
+
+<sup>1</sup> Kundinnen oder Kunden, die von IWB bezogenes Trinkwasser an Dritte abgeben, dürfen dafür nicht mehr in Rechnung stellen, als sie selber bezahlt haben.
+
+#### § 61
+
+**Einsprache und Rekurs**
+
+<sup>1</sup> Gegen die Rechnung von IWB kann innert 30 Tagen nach Eröffnung mit schriftlicher Begründung Einsprache erhoben werden.
+
+<sup>2</sup> Offenkundig fehlerhafte Rechnungen können formlos beanstandet werden. Die Beanstandung hat vor Ablauf der Zahlungsfrist zu erfolgen.
+
+<sup>3</sup> IWB entscheidet über Einsprachen in Form einer rekursfähigen und mit Rechtsmittelbelehrung versehenen Verfügung.
+
+<sup>4</sup> Gegen Verfügungen von IWB können die Betroffenen gemäss dem Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 beim Regierungsrat Rekurs erheben.
+
+<sup>5</sup> Sofern das Rechtsverhältnis zwischen Kundin oder Kunde und IWB privatrechtlicher Natur ist, steht der Zivilrechtsweg offen.
+
+#### § 62
+
+**Zahlungsverzug**
+
+<sup>1</sup> Die Zahlungsfrist für Rechnungen von IWB beträgt 30 Tage.
+
+<sup>2</sup> Nach Ablauf der Zahlungsfrist kann ein Verzugszins von 5 % p.a. erhoben werden.
+
+<sup>3</sup> Für nicht rechtzeitig bezahlte Rechnungen können Mahngebühren und Umtriebsgebühren für Inkassomassnahmen erhoben werden. Diese betragen:
+
+- a) Erste Mahnung gebührenfrei;
+- b) Mahngebühren ab zweiter Mahnung je Fr. 40;
+- c) Umtriebsgebühren für Inkassomassnahmen Fr. 50.
+
+<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
+
+<sup>5</sup> Die zweite Mahnung hat einen Hinweis auf die Möglichkeit der Verweigerung der Lieferung von Trinkwasser gemäss § 56 lit. e zu enthalten.
+
+#### § 63
+
+**Rechnungsstellung für Anschlussgebühren**
+
+<sup>1</sup> Die §§ 61 und 62 sind auch in Bezug auf die Anschlussgebühren anwendbar.
+
+## 10. Temporäre Anschlüsse der Trinkwasserversorgung
+
+#### § 64
+
+**Bewilligung**
+
+<sup>1</sup> Temporäre Anschlüsse der Trinkwasserversorgung für vorübergehende Zwecke, wie z.B. Baustellen, etc., bedürfen einer Bewilligung von IWB. Mit Ausgabe des Standrohrs bzw. des Wasserzählers durch IWB ist die Bewilligung hierfür erteilt.
+
+<sup>2</sup> Der Bezug von Trinkwasser ab bestehender Anschlussleitung oder Hydrant (Unter- und Überflurhydranten), mit Ausnahme zum Zwecke der Brandbekämpfung, ist ausschliesslich mittels eines Standrohrs mit Messeinrichtung bzw. eines Wasserzählers zulässig.
+
+<sup>3</sup> Die Kundin oder der Kunde hat entsprechende Massnahmen nach Vorgabe IWB zu ergreifen, um einen Rückfluss in das Versorgungsnetz von IWB zu verhindern. Bei Zuwiderhandlungen werden die Kosten für allfällige Massnahmen zur Herstellung des ursprünglichen Zustandes der fehlbaren Kundin oder dem fehlbaren Kunden in Rechnung gestellt.
+
+<sup>4</sup> IWB kann für Trinkwasser, welches für eine kurze und befristete Dauer geliefert wird, vor Beginn der Lieferung eine Sicherheitsleistung verlangen.
+
+## 11. Öffentliche Brunnen
+
+#### § 65
+
+**In der Stadt Basel**
+
+<sup>1</sup> IWB ist für die öffentlichen Brunnen in der Stadt Basel, insbesondere für Betrieb und Unterhalt, zuständig.
 
 <sup>2</sup> Die öffentlichen Brunnen werden in der Regel auf Allmend aufgestellt.
 
 <sup>3</sup> Die öffentlichen Brunnen mit den dazugehörenden Einrichtungen sind Eigentum des Kantons.
 
-<sup>4</sup> IWB erhebt auf ihre Gebühren für den Bezug von Trinkwasser einen kostendeckenden verbrauchsabhängigen Zuschlag, der die Aufwendungen der öffentlichen Brunnen deckt. Die Höhe des Zuschlages ergibt sich aus dem Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser vom 9. Februar 2018. Allfällige Über- oder Unterdeckungen der Einnahmen aus dem Zuschlag werden den Kundinnen und Kunden über eine Rechnungsperiode von drei Jahren gutgeschrieben oder belastet.
-
-### X. 2. In den Gemeinden Bettingen und Riehen
-
-#### § 61
-
-<sup>1</sup> Die beiden Gemeinden Bettingen und Riehen sind für ihre öffentlichen Brunnen selbst verantwortlich.
-
-<sup>2</sup> Die in den Gemeinden Bettingen und Riehen für die öffentlichen Brunnen erhobenen Zuschläge werden von IWB an die Gemeinden Bettingen und Riehen zurückerstattet. Die Einzelheiten dazu werden zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen oder Riehen bilateral geregelt.
-
-## XI. Installationsbewilligungen
-
-### XI. 1. Erteilung einer Installationsbewilligung
-
-#### § 62
-
-<sup>1</sup> Die Bewilligung zur Ausführung von Arbeiten an Hausinstallationen und Wasserapparaten (Installationsbewilligung) wird von IWB an Unternehmen erteilt, die in der Lage sind, Hausinstallationsarbeiten fachgerecht auszuführen. Voraussetzung für die Erteilung der Bewilligung ist, dass die Inhaberin oder der Inhaber der Firma oder deren technische Leiterin oder technischer Leiter über die erforderlichen Fachkenntnisse verfügt und den Betrieb persönlich leitet.
-
-<sup>2</sup> Als Ausweis für die entsprechenden Fachkenntnisse gilt das eidgenössische Diplom als
-
-– Sanitärtechnikerin / Sanitärtechniker,
-
-– Sanitärinstallateurin / Sanitärinstallateur,
-
-– Sanitärzeichnerin / Sanitärzeichner
-
-oder eine gleichwertige Ausbildung nach den Richtlinien des Bundesamtes für Wirtschaft und Arbeit (BWA), des Staatssekretariates für Bildung, Forschung und Innovation (SBFI) und des SVGW.
-
-### XI. 2. Erlöschen der Installationsbewilligung
-
-#### § 63
-
-<sup>1</sup> Eine von IWB erteilte Installationsbewilligung erlischt:
-
-- a) wenn das Unternehmen seine Geschäftstätigkeit einstellt;
-- b) wenn eine der Voraussetzungen, die für die Erteilung massgebend waren, dahingefallen ist, insbesondere wenn die Person, welche über die erforderlichen Fachkenntnisse verfügt hat, aus dem Unternehmen ausscheidet.
-
-### XI. 3. Entzug der Installationsbewilligung
-
-#### § 64
-
-<sup>1</sup> Der Entzug der Installationsbewilligung kann von IWB jederzeit aus wichtigen Gründen verfügt werden, insbesondere wenn das Unternehmen oder sein Personal gegen allgemeine Vorschriften oder gegen spezielle Weisungen von IWB zuwiderhandelt; ferner wenn das Unternehmen wiederholt und trotz vorangegangener Mahnung Arbeiten an nichtberechtigte Dritte übergibt oder von unberechtigten Dritten ausgeführte Arbeiten unter ihrem Namen meldet.
-
-### XI. 4. Spezialbewilligung
-
-#### § 65
-
-<sup>1</sup> In Bezug auf spezielle Hausinstallationen oder spezielle Wasserapparate kann IWB an Unternehmen innerhalb und ausserhalb ihres Wasserversorgungsgebietes auf bestimmte oder unbestimmte Zeit Spezialbewilligungen erteilen, die nur zur Ausführung der darin bezeichneten Arbeiten berechtigen.
-
-<sup>2</sup> Die für Installationsbewilligungen geltenden Vorschriften sind sinngemäss anzuwenden. IWB bestimmt nach ihrem Ermessen die erforderlichen Fachkenntnisse und deren Nachweis. Sie kann auch eine Prüfung anordnen.
-
-## XII. Besondere Vereinbarungen und ergänzende Vorschriften
-
-### XII. 1. Besondere Bedingungen und Vereinbarungen
+<sup>4</sup> IWB erhebt auf ihre Gebühren für den Bezug von Trinkwasser einen Zuschlag, der die Aufwendungen im Zusammenhang mit Betrieb und Unterhalt der öffentlichen Brunnen deckt.
 
 #### § 66
 
-<sup>1</sup> In Ausnahmefällen, z.B. für Benützerinnen oder Benützer mit speziellen Bezugsbedürfnissen, kann IWB besondere Anschluss- und Wasserlieferungsbedingungen festsetzen und spezielle Verträge abschliessen.
+**In den Gemeinden Bettingen und Riehen**
 
-### XII. 2. Ergänzende Vorschriften
+<sup>1</sup> Die Gemeinden Bettingen und Riehen sind für ihre öffentlichen Brunnen selbst verantwortlich.
+
+<sup>2</sup> Die Gemeinden Bettingen und Riehen erhalten entsprechend dem Trinkwasserverbrauch in ihrem Gebiet den von IWB gemäss § 65 Abs. 4 erhobenen Gebührenzuschlag zurück. Die Einzelheiten werden zwischen IWB und den Gemeinden Bettingen und Riehen vertraglich geregelt.
+
+## 12. Besondere Vereinbarungen und ergänzende Vorschriften
 
 #### § 67
 
-<sup>1</sup> IWB kann für bestimmte Wasseranwendungen zusätzliche Vorschriften erlassen.
+**Besondere Bedingungen und Vereinbarungen**
 
-## XIII. Schlussbestimmungen
+<sup>1</sup> In Ausnahmefällen, z.B. für Kundinnen oder Kunden mit speziellen Bezugsbedürfnissen, kann IWB besondere Anschluss- und Lieferbedingungen für Trinkwasser festsetzen und spezielle Verträge abschliessen.
 
-Diese Ausführungsbestimmungen sind zu publizieren; sie werden am 1. Januar 2012 wirksam.[^footer-1] Die Gebührentarife im Anhang sind gemäss § 28 Abs. 5 IWB-Gesetz vom Regierungsrat zu genehmigen.
+#### § 68
 
-KB 04.02.2012
+**Ergänzende Vorschriften**
 
-[^footer-1]: Publiziert am 4. 2. 2012.
+<sup>1</sup> IWB kann für bestimmte Anwendungen des Trinkwassers zusätzliche Vorschriften erlassen.
+
+*Schlussbestimmung*
+
+Diese Ausführungsbestimmungen sind zu publizieren; sie treten am 1. April 2024 in Kraft. Die Gebührentarife im Anhang bedürften der Genehmigung durch den Regierungsrat.
+
+Namens des Verwaltungsrats der IWB Industrielle Werke Basel Urs Steiner, Präsident des Verwaltungsrats
+
+*Gebührentarife (Anhang) vom Regierungsrat genehmigt am 19. März 2024.*
+
+KB 27.04.2024
