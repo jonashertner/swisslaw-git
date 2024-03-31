@@ -4,13 +4,13 @@ number: "214.305"
 title: Geoinformationsverordnung
 short: KGeoIV
 language: de
-version: 2023-04-01
-valid_until: 2024-03-31
-version_adopted: 2023-03-02
+version: 2024-04-01
+valid_until: 2026-02-11
+version_adopted: 2024-03-05
 adopted: 2012-08-07
 in_force: 2012-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.305"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5890/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geoinformationsverordnung | Sachenrecht: Spezielle Erlasse
 
 (KGeoIV)
 
-Vom 7. August 2012 (Stand 1. April 2023)
+Vom 7. August 2012 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
