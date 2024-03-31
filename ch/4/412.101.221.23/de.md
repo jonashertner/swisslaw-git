@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Verordnung des SBFI vom 30. Oktober 2009 über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: de
-version: 2021-07-01
+version: 2024-04-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20240401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 30. Oktober 2009 (Stand am 1. Juli 2021)
+vom 30. Oktober 2009 (Stand am 1. April 2024)
 
 <table>
 <tr><td>30905</td><td>Formenbauerin EFZ/Formenbauer EFZ Mouleuse CFC/Mouleur CFC Costruttrice di modelli e stampi AFC/ Costruttore di modelli e stampi AFC</td></tr>
@@ -22,14 +22,15 @@ vom 30. Oktober 2009 (Stand am 1. Juli 2021)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:[^ingress-4]
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 91 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 91 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -109,11 +110,12 @@ Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst die fol
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^4-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^4-1]: Fassung gemäss Ziff. II 91 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^4-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -159,7 +161,7 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z
 [^7-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^7-4]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
@@ -225,7 +227,7 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 <sup>2</sup> Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person.[^11-2]
 
-<sup>3</sup> ...[^11-3]
+<sup>3</sup> …[^11-3]
 
 [^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^11-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
@@ -283,7 +285,7 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Kompetenzen nach Artik
 
 **Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung**
 
-<sup>1</sup> ...[^15-1]
+<sup>1</sup> …[^15-1]
 
 <sup>2</sup>
 
@@ -300,7 +302,8 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
 
 - b. Berufskenntnisse im Umfang von 4–5 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich geprüft.
 - c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^15-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
-- [tab] <sup>3</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+<sup>3</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^15-1]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^15-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
@@ -315,7 +318,7 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
 Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 
 - a.[^16-1] der Qualifikationsbereich «praktische Arbeit» mit der Note 4 oder höher bewertet wird; und
-- b.[^16-2] ...
+- b.[^16-2] …
 - c. die Gesamtnote 4 oder höher erreicht wird.
 
 <sup>2</sup>
@@ -357,7 +360,7 @@ Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der
 
 Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
 
-- a.[^18-1] ...
+- a.[^18-1] …
 - b.[^18-2] praktische Arbeit: 50 Prozent;
 - c. Berufskenntnisse: 30 Prozent;
 - d. Allgemeinbildung: 20 Prozent.
@@ -430,7 +433,8 @@ Es werden aufgehoben:
 
 - a. das Reglement vom 20. Februar 1998[^21-1] über die Ausbildung und die Lehrabschlussprüfung der gelernten technischen Modellbauerin/des gelernten technischen Modellbauers;
 - b. der Lehrplan vom 20. Februar 1998[^21-2] für den beruflichen Unterricht der gelernten technischen Modellbauerin/des gelernten technischen Modellbauers.
-- [tab] <sup>2</sup> Die Genehmigung des Reglements vom 16. April 1997 über die Einführungskurse für gelernte technische Modellbauerinnen/gelernte technische Modellbauer wird widerrufen.
+
+<sup>2</sup> Die Genehmigung des Reglements vom 16. April 1997 über die Einführungskurse für gelernte technische Modellbauerinnen/gelernte technische Modellbauer wird widerrufen.
 
 [^21-1]: BBl **1998** 2883
 [^21-2]: BBl **1998** 2883

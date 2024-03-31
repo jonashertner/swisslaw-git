@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Ordonnance du SEFRI du 30 octobre 2009 sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: fr
-version: 2021-07-01
+version: 2024-04-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20240401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)\*
 
-du 30 octobre 2009 (État le 1<sup>er</sup> juillet 2021)[^t-1]
+du 30 octobre 2009 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 30 octobre 2009 (État le 1<sup>er</sup> juillet 2021)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:[^ingress-4]
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 91 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 91 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -93,7 +94,8 @@ Lors de la troisième et de la quatrième année, la formation approfondie compr
 - S9 fabrication de matrices;
 - S10 développements, essais et échantillonnage;
 - S11 modèles en matière composite et réalisation de pièces.[^3-1]
-- [tab] <sup>5</sup> Durant la formation approfondie, chaque personne en formation acquiert au moins une compétence choisie parmi les compétences S3 à S11. Elle intègre à cette fin les compétences S1 et S2.[^3-2]
+
+<sup>5</sup> Durant la formation approfondie, chaque personne en formation acquiert au moins une compétence choisie parmi les compétences S3 à S11. Elle intègre à cette fin les compétences S1 et S2.[^3-2]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
@@ -110,11 +112,12 @@ Lors de la troisième et de la quatrième année, la formation approfondie compr
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^4-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^4-1]: Nouvelle teneur selon le ch. II 91 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^4-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -160,7 +163,7 @@ Le plan de formation:
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^7-2]: Le plan de formation du 1<sup>er</sup> juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^7-2]: Le plan de formation du 1<sup>er</sup> juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
@@ -301,7 +304,8 @@ L’examen final porte sur les domaines de qualification ci-après selon les mod
 
 - b. connaissances professionnelles d’une durée de 4 à 5 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit;
 - c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^15-3].
-- [tab] <sup>3</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
+
+<sup>3</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
 [^15-1]: Abrogé par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
