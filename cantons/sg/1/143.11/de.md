@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-05-02
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-13
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3536/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3536/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2024)
+vom 13.12.2011 (Stand 01.04.2024)
 
 Die Regierung des Kantons St.Gallen
 
