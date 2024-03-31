@@ -3,24 +3,24 @@ sr: "412.101.221.95"
 title: "Ordonnance du SEFRI du 14 août 2013 sur la formation professionnelle initiale d'ébéniste/menuisière/menuisier avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/615"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2013-08-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/615/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-615-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/615/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/615/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-615-20240401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/615/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale d’ébéniste/menuisière/menuisier avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale d’ébéniste/menuisière/menuisier avec certificat fédéral de capacité (CFC)\*
 
-du 14 août 2013 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 14 août 2013 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 <table>
-<tr><td>30513</td><td>Ebéniste CFC/Menuisière/Menuisier CFC Schreinerin EFZ/Schreiner EFZ Falegname AFC</td></tr>
-<tr><td>30514</td><td colspan="2">Ebénisterie</td></tr>
+<tr><td>30513</td><td>Ébéniste CFC/Menuisière/Menuisier CFC Schreinerin EFZ/Schreiner EFZ Falegname AFC</td></tr>
+<tr><td>30514</td><td colspan="2">Ébénisterie</td></tr>
 <tr><td>30515</td><td colspan="2">Menuiserie</td></tr>
 <tr><td>30516</td><td colspan="2">Charronnage</td></tr>
 <tr><td>30517</td><td colspan="2">Fabrication de ski</td></tr>
@@ -28,14 +28,15 @@ du 14 août 2013 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 143 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 143 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet, orientations et durée
 
@@ -56,12 +57,9 @@ Les ébénistes de niveau CFC et les menuisiers de niveau CFC maîtrisent notamm
 
 <sup>2</sup>
 
-Les ébénistes de niveau CFC choisissent l’orientation:
-
-- a. Ebénisterie.
-
 Les menuisiers de niveau CFC peuvent choisir entre les orientations suivantes:
 
+- a. Ébénisterie;
 - b. Menuiserie;
 - c. Charronnage;
 - d. Fabrication de ski.
@@ -159,11 +157,12 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 143 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -179,7 +178,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 Les cours interentreprises comprennent les jours de cours ci-après, à raison de 8 heures de cours par jour:
 
-- a. pour les orientations Ebénisterie et Menuiserie: 44 à 48 jours;
+- a. pour les orientations Ébénisterie et Menuiserie: 44 à 48 jours;
 - b. pour l’orientation Charronnage: 48 à 52 jours;
 - c. pour l’orientation Fabrication de ski: 44 à 48 jours.
 
@@ -325,7 +324,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -435,7 +434,7 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 
 La Commission suisse pour le développement professionnel et la qualité (commission) comprend:
 
-- a. de trois à cinq représentants de l’association *«Verband Schweizerischer Schreinermeister und Möbelfabr**i**kanten» (VSSM)*;
+- a. de trois à cinq représentants de l’association *«Verband Schweizerischer Schreinermeister und Möbelfabrikanten» (VSSM)*;
 - b. deux à quatre représentants de la Fédération suisse romande des entreprises de menuiserie, ébénisterie et charpenterie (FRM);
 - c. un à deux représentants du corps des enseignants spécialisés;
 - d. un à deux représentants des cours interentreprises;
@@ -451,7 +450,7 @@ La Commission suisse pour le développement professionnel et la qualité (commis
 La commission est chargée des tâches suivantes:
 
 - a. adapter régulièrement, au moins tous les 5 ans, le plan de formation décrit à l’art. 8 aux développements économiques, technologiques, écologiques et didactiques. Intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale. Toute modification requiert, d’une part, l’approbation des représentants de la Confédération et des cantons et, d’autre part, l’approbation du SEFRI;
-- a. proposer au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance, notamment à celles concernant les compétences opérationnelles décrites à l’art. 4.
+- b. proposer au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance, notamment à celles concernant les compétences opérationnelles décrites à l’art. 4.
 
 ## Section 11 Dispositions finales
 
