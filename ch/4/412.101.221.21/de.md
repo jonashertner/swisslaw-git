@@ -3,18 +3,18 @@ sr: "412.101.221.21"
 title: Verordnung des SBFI vom 6. Oktober 2009 über die berufliche Grundbildung Berufsfeld «Gebäudetechnikplanung» mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/817"
 language: de
-version: 2019-01-01
+version: 2024-04-01
 adopted: 2009-10-06
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/817/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2009-817-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/817/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/817/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2009-817-20240401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/817/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Berufsfeld «Gebäudetechnikplanung» mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 6. Oktober 2009 (Stand am 1. Januar 2019)
+vom 6. Oktober 2009 (Stand am 1. April 2024)
 
 <table>
 <tr><td>64616</td><td>Gebäudetechnikplanerin Heizung EFZ/ Gebäudetechnikplaner Heizung EFZ Projeteuse en technique du bâtiment chauffage CFC/ Projeteur en technique du bâtiment chauffage CFC Progettista nella tecnica della costruzione riscaldamento AFC</td></tr>
@@ -24,14 +24,15 @@ vom 6. Oktober 2009 (Stand am 1. Januar 2019)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 89 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 89 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -136,11 +137,12 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^7-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 89 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -190,7 +192,7 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität der beruflichen Grundbildung mit Angabe der Bezugsquelle.
 
 [^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 28. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2899](https://fedlex.data.admin.ch/eli/oc/2018/442)).
-[^10-2]: Der Bildungsplan vom 28. Mai 2018 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe von A–Z.
+[^10-2]: Der Bildungsplan vom 28. Mai 2018 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe von A–Z
 
 #### Art. 11
 
@@ -205,8 +207,6 @@ Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. Apri
 #### Art. 12
 
 **Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
-
-<sup>1</sup>
 
 Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
@@ -251,7 +251,7 @@ Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben 
 
 [^13-1]: Fassung gemäss Ziff. I der V des SBFI vom 28. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2899](https://fedlex.data.admin.ch/eli/oc/2018/442)).
 
-## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen****
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
 [^sec7-1]
 
