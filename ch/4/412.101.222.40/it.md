@@ -3,18 +3,18 @@ sr: "412.101.222.40"
 title: Ordinanza della SEFRI del 10 luglio 2023 sulla formazione professionale di base Addetta del settore alberghiero-economia domestica / Addetto del settore alberghiero-economia domestica con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/432"
 language: it
-version: 2023-10-01
+version: 2024-04-01
 adopted: 2023-07-10
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/432/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2023-432-20231001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/432/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/432/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-432-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/432/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta del settore alberghiero-economia domestica / Addetto del settore alberghiero-economia domestica con certificato federale di formazione pratica (CFP)
 
-del 10 luglio 2023 (Stato 1° ottobre 2023)
+del 10 luglio 2023 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>78405</td><td>Addetta del settore alberghiero-economia domestica CFP / Addetto del settore alberghiero-economia domestica CFP Praktikerin Hotellerie-Hauswirtschaft EBA / Praktiker Hotellerie-Hauswirtschaft EBA Employée en hôtellerie-intendance AFP / Employé en hôtellerie-intendance AFP</td></tr>
@@ -22,13 +22,14 @@ del 10 luglio 2023 (Stato 1° ottobre 2023)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto e durata
 
@@ -41,7 +42,6 @@ Gli addetti del settore alberghiero-economia domestica con certificato federale 
 - a. assistono gli ospiti e i clienti nelle strutture ricettive, nelle organizzazioni sanitarie o in altre imprese;
 - b. lavorano nel settore della ristorazione e si occupano dell’accoglienza di ospiti e clienti;
 - c. svolgono lavori e compiti di pulizia e manutenzione della struttura, di lavanderia e di organizzazione;
-
 - d. lavorano spesso in team e in modo orientato alle esigenze di ospiti e clienti;
 - e. applicano i principi di igiene, di sicurezza sul lavoro e di protezione della salute.
 
@@ -119,9 +119,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Gli aspetti specifici della professione inerenti allo sviluppo sostenibile sono trasmessi in tutti i luoghi di formazione.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -203,7 +205,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 10 lug. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](https://www.becc.admin.ch/becc/public/bvz/) &gt; Professioni A–Z.
+[^9-1]: Il piano del 10 lug. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
