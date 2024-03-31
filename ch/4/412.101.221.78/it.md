@@ -3,18 +3,18 @@ sr: "412.101.221.78"
 title: Ordinanza della SEFRI del 15 aprile 2020 sulla formazione professionale di base Installatrice di sistemi di refrigerazione / Installatore di sistemi di refrigerazione con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/332"
 language: it
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2020-04-15
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-332-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/332/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-332-20240401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/332/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Installatrice di sistemi di refrigerazione / Installatore di sistemi di refrigerazione con attestato federale di capacità (AFC)
 
-del 15 aprile 2020 (Stato 1° gennaio 2021)
+del 15 aprile 2020 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>47806</td><td>Installatrice di sistemi di refrigerazione AFC / Installatore di sistemi di refrigerazione AFC</td></tr>
@@ -24,13 +24,14 @@ del 15 aprile 2020 (Stato 1° gennaio 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, orientamenti e durata
 
@@ -147,9 +148,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -231,9 +234,10 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente; precisa anche le capacità e le conoscenze richieste per l’impiego di sostanze e preparati secondo l’ordinanza del DATEC del 28 giugno 2005[^9-2] concernente l’autorizzazione speciale per l’utilizzazione di prodotti refrigeranti;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 15 apr. 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+[^9-1]: Il piano del 15 apr. 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 [^9-2]: [RS 814.812.38](https://fedlex.data.admin.ch/eli/cc/2005/505)
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
@@ -372,14 +376,14 @@ La procedura di qualificazione con esame finale è superata se:
 - a. per il campo di qualificazione «lavoro pratico» è attribuito almeno il 4; e
 - b. la nota complessiva raggiunge almeno il 4.
 
-<sup>2</sup> La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata relativa all’insegnamento delle conoscenze professionali; vale la seguente ponderazione:
+<sup>2</sup>
 
-<table>
-<tr><td>a.</td><td>[tab] lavoro pratico:</td><td>[tab] 50 per cento;</td></tr>
-<tr><td>b.</td><td>[tab] conoscenze professionali:</td><td>[tab] 20 per cento;</td></tr>
-<tr><td>c.</td><td>[tab] cultura generale:</td><td>[tab] 20 per cento;</td></tr>
-<tr><td>d.</td><td>[tab] nota relativa all’insegnamento delle conoscenze professionali:</td><td>[tab] 10 per cento.</td></tr>
-</table>
+La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata relativa all’insegnamento delle conoscenze professionali; vale la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. conoscenze professionali: 20 per cento;
+- c. cultura generale: 20 per cento;
+- d. nota relativa all’insegnamento delle conoscenze professionali: 10 per cento.
 
 <sup>3</sup> Per nota relativa all’insegnamento delle conoscenze professionali si intende la media arrotondata al punto o al mezzo punto della somma delle otto note delle pagelle semestrali.
 
@@ -399,13 +403,13 @@ La procedura di qualificazione con esame finale è superata se:
 
 <sup>1</sup> Per i candidati che hanno acquisito le competenze operative necessarie al di fuori di un ciclo di formazione regolamentato e che hanno sostenuto l’esame finale secondo la presente ordinanza viene meno la nota relativa all’insegnamento delle conoscenze professionali.
 
-<sup>2</sup> In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+<sup>2</sup>
 
-<table>
-<tr><td>a.</td><td>[tab] lavoro pratico:</td><td>[tab] 50 per cento;</td></tr>
-<tr><td>b.</td><td>[tab] conoscenze professionali:</td><td>[tab] 30 per cento;</td></tr>
-<tr><td>c.</td><td>[tab] cultura generale:</td><td>[tab] 20 per cento;</td></tr>
-</table>
+In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. conoscenze professionali: 30 per cento;
+- c. cultura generale: 20 per cento.
 
 ## Sezione 9: Attestazioni e titolo
 
@@ -455,9 +459,11 @@ Essa svolge in particolare i compiti seguenti:
 
 <sup>1</sup> È responsabile dei corsi interaziendali l’ASF.
 
-- [tab] <sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
-- [tab] <sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
-- [tab] <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+<sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
+
+<sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
+
+<sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
 
 ## Sezione 11: Disposizioni finali
 
