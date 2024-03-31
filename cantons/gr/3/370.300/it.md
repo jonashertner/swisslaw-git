@@ -4,35 +4,36 @@ number: "370.300"
 title: "Legge d'applicazione relativa alla procedura di conciliazione e di arbitrato secondo il diritto federale in materia di assicurazioni sociali"
 short: LAPCA
 language: it
-version: 2011-01-01
-corrected: 2014-10-09
+version: 2024-04-01
+valid_until: 2024-12-31
 version_adopted: 2010-06-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1188/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3362/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'applicazione relativa alla procedura di conciliazione e di arbitrato secondo il diritto federale in materia di assicurazioni sociali (LAPCA)
+# Legge d'applicazione relativa alla procedura di conciliazione e di arbitrato secondo il diritto federale in materia di assicurazioni sociali
 
-del 31 agosto 2006
+(LAPCA)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 31.08.2006 (stato 01.04.2024)
 
-visti gli art. 31 e 56 della Costituzione cantonale[^t-2];
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visto il messaggio del Governo del 30 maggio 2006[^t-3],
+visti gli art. 31 e 56 della Costituzione cantonale[^ingress-2];
+
+visto il messaggio del Governo del 30 maggio 2006[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2006/2007, 205
-[^t-2]: CSC 110.100
-[^t-3]: Pagina 457 1.1.2011 1
+[^ingress-1]: PGC 2006/2007, 205
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 457
 
-### I. Competenza e organizzazione
+## 1. Competenza e organizzazione
 
 #### Art. 1
 
@@ -46,7 +47,7 @@ decide:
 
 **Organizzazione**
 
-Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale sono subordinati al Tribunale amministrativo.
+<sup>1</sup> Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale sono subordinati al Tribunale amministrativo.
 
 #### Art. 3
 
@@ -78,12 +79,11 @@ Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale so
 
 **Ricusazione**
 
-<sup>1</sup>[^6-1]La ricusazione si conforma alle disposizioni della legge sulla giustizia amministrativa.
+<sup>1</sup> La ricusazione si conforma alle disposizioni della legge sulla giustizia amministrativa.
 
-<sup>2</sup> Il presidente del Tribunale amministrativo giudica quale unica autorità cantonale le eccezioni di ricusa contestate[^6-2].
+<sup>2</sup> Il presidente del Tribunale amministrativo giudica quale unica autorità cantonale le eccezioni di ricusa contestate[^6-1] .
 
-[^6-1]: Testo giusta numero 6 dell'appendice alla LOG, FUC 2010, 2601; entrato in vigore il 1° gennaio 2011
-[^6-2]: CSC 370.100
+[^6-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 #### Art. 7
 
@@ -95,7 +95,7 @@ Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale so
 
 <sup>3</sup> Il Tribunale amministrativo disciplina i dettagli in un'ordinanza[^7-1] e adegua periodicamente la diaria al rincaro.
 
-[^7-1]: CSC 370.310 2 1.1.2011
+[^7-1]: CSC [370.310](https://www.gr-lex.gr.ch/data/370.310/it)
 
 #### Art. 8
 
@@ -109,9 +109,9 @@ Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale so
 
 <sup>4</sup> Le spese del patrocinio legale vengono provvisoriamente assunte dal Cantone tramite il Tribunale amministrativo.
 
-[^8-1]: CSC 370.100 1.1.2011 3
+[^8-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
-### II. Procedura
+## 2. Procedura
 
 #### Art. 9
 
@@ -123,11 +123,15 @@ Dal profilo organizzativo, l'organo di conciliazione e il tribunale arbitrale so
 
 <sup>3</sup> La presentazione della richiesta di conciliazione determina la litispendenza della vertenza.
 
+<sup>4</sup> La comunicazione per via elettronica si conforma alle disposizioni della legge sulla giustizia amministrativa[^9-1].
+
+[^9-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
 #### Art. 10
 
 **2. Azione riconvenzionale**
 
-Un'azione riconvenzionale deve essere intentata al più tardi durante l'udienza di conciliazione.
+<sup>1</sup> Un'azione riconvenzionale deve essere intentata al più tardi durante l'udienza di conciliazione.
 
 #### Art. 11
 
@@ -149,21 +153,21 @@ Un'azione riconvenzionale deve essere intentata al più tardi durante l'udienza 
 
 **2. Procedura**
 
-Per quanto la presente legge non contenga alcuna prescrizione, si applicano le disposizioni sulla procedura d'azione dinanzi al Tribunale amministrativo.
+<sup>1</sup> Per quanto la presente legge non contenga alcuna prescrizione, si applicano le disposizioni sulla procedura d'azione dinanzi al Tribunale amministrativo.
 
 #### Art. 14
 
 **3. Rimedi giuridici**
 
-Contro la decisione del tribunale arbitrale non è ammesso alcun rimedio giuridico cantonale ordinario.
+<sup>1</sup> Contro la decisione del tribunale arbitrale non è ammesso alcun rimedio giuridico cantonale ordinario.
 
-### III. Disposizioni finali
+## 3. Disposizioni finali
 
 #### Art. 15
 
 **Disposizioni transitorie**
 
-Alle liti pendenti al momento dell'entrata in vigore della presente legge si applicano le disposizioni procedurali della presente legge.
+<sup>1</sup> Alle liti pendenti al momento dell'entrata in vigore della presente legge si applicano le disposizioni procedurali della presente legge.
 
 #### Art. 16
 
@@ -174,4 +178,6 @@ Alle liti pendenti al momento dell'entrata in vigore della presente legge si app
 <sup>2</sup> Il Governo stabilisce l'entrata in vigore[^16-2].
 
 [^16-1]: Il termine di referendum è scaduto inutilizzato il 13 dic. 2006
-[^16-2]: Posta in vigore il 1° gen. 2007 con DG del 12 dic. 2006 4 1.1.2011
+[^16-2]: Posta in vigore il 1° gen. 2007 con DG del 12 dic. 2006
+
+-

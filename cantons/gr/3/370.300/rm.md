@@ -4,33 +4,36 @@ number: "370.300"
 title: "Lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala"
 short: LItPMC
 language: rm
-version: 2011-01-01
-corrected: 2014-10-09
+version: 2024-04-01
+valid_until: 2024-12-31
 version_adopted: 2010-06-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1188/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3362/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala (LItPMC)
+# Lescha introductiva tar la procedura da mediaziun e tar la procedura davant la dretgira da cumpromiss tenor il dretg federal d'assicuranza sociala
 
-dals 31 d'avust 2006
+(LItPMC)
 
-Il cussegl grond dal chantun Grischun[^t-1],
+dals 31-08-2006 (versiun dals 01-04-2024)
 
-sa basond sin ils art. 31 e 56 da la constituziun chantunala[^t-2], suenter avair gì invista da la missiva da la regenza dals 30 da matg 2006[^t-3],
+Il cussegl grond dal chantun Grischun[^ingress-1],
+
+sa basond sin ils art. 31 e 56 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 30 da matg 2006[^ingress-3],
 
 concluda:
 
-I. Cumpetenza ed organisaziun
+[^ingress-1]: PCG 2006/2007, 205
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 457
 
-[^t-1]: PCG 2006/2007, 205
-[^t-2]: DG 110.100
-[^t-3]: pagina 457 1-1-2011 1
+## 1. Cumpetenza ed organisaziun
 
 #### Art. 1
 
@@ -44,7 +47,7 @@ I. Cumpetenza ed organisaziun
 
 **Organisaziun**
 
-Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamain a la dretgira administrativa.
+<sup>1</sup> Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamain a la dretgira administrativa.
 
 #### Art. 3
 
@@ -76,12 +79,11 @@ Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamai
 
 **Recusaziun**
 
-<sup>1</sup>[^6-1]La recusaziun sa drizza tenor las disposiziuns da la lescha davart la giurisdicziun administrativa[^6-2].
+<sup>1</sup> La recusaziun sa drizza tenor las disposiziuns da la lescha davart la giurisdicziun administrativa[^6-1].
 
 <sup>2</sup> La parsura u il parsura da la dretgira administrativa giuditgescha sco suletta instanza chantunala objecziuns da recusaziun dispitaivlas.
 
-[^6-1]: versiun tenor la cifra 6 da l'agiunta tar la LOG, FUC 2010, 2578; entrà en vigur il 1. da schaner 2011
-[^6-2]: DG 370.100
+[^6-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 #### Art. 7
 
@@ -93,7 +95,7 @@ Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamai
 
 <sup>3</sup> La dretgira administrativa regla ils detagls en in'ordinaziun[^7-1] ed adatta periodicamain la diaria a la chareschia.
 
-[^7-1]: DG 370.310 2 1-1-2011
+[^7-1]: DG [370.310](https://www.gr-lex.gr.ch/data/370.310/rm)
 
 #### Art. 8
 
@@ -107,9 +109,9 @@ Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamai
 
 <sup>4</sup> Ils custs da l'assistenza giuridica vegnan surpigliads per entant dal chantun sur la dretgira administrativa.
 
-[^8-1]: DG 370.100 1-1-2011 3
+[^8-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
-### II. Procedura
+## 2. Procedura
 
 #### Art. 9
 
@@ -121,11 +123,15 @@ Il post da mediaziun e la dretgira da cumpromiss èn suttamess organisatoricamai
 
 <sup>3</sup> Tras l'inoltraziun da la dumonda da mediaziun daventa la chaussa en dispita pendenta.
 
+<sup>4</sup> Il traffic electronic sa drizza tenor las disposiziuns da la lescha davart la giurisdicziun administrativa[^9-1].
+
+[^9-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
 #### Art. 10
 
 **2. cuntraplant**
 
-Sch'in cuntraplant na vegn betg inoltrà il pli tard durant la tractativa da mediaziun, scada el.
+<sup>1</sup> Sch'in cuntraplant na vegn betg inoltrà il pli tard durant la tractativa da mediaziun, scada el.
 
 #### Art. 11
 
@@ -147,21 +153,21 @@ Sch'in cuntraplant na vegn betg inoltrà il pli tard durant la tractativa da med
 
 **2. procedura**
 
-Uschenavant che questa lescha na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da plant davant la dretgira administrativa.
+<sup>1</sup> Uschenavant che questa lescha na cuntegna naginas prescripziuns, vegnan applitgadas las disposiziuns davart la procedura da plant davant la dretgira administrativa.
 
 #### Art. 14
 
 **3. meds legals**
 
-Cunter la decisiun da la dretgira da cumpromiss n'èn admissibels nagins meds legals chantunals ordinaris.
+<sup>1</sup> Cunter la decisiun da la dretgira da cumpromiss n'èn admissibels nagins meds legals chantunals ordinaris.
 
-### III. Disposiziuns finalas
+## 3. Disposiziuns finalas
 
 #### Art. 15
 
 **Disposiziuns transitoricas**
 
-Per las dispitas ch'èn pendentas il mument che questa lescha entra en vigur vegnan applitgadas las disposiziuns da procedura da questa lescha.
+<sup>1</sup> Per las dispitas ch'èn pendentas il mument che questa lescha entra en vigur vegnan applitgadas las disposiziuns da procedura da questa lescha.
 
 #### Art. 16
 
@@ -171,5 +177,7 @@ Per las dispitas ch'èn pendentas il mument che questa lescha entra en vigur veg
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^16-2].
 
-[^16-1]: il termin da referendum è scadì ils 13 da december 2006; i n'èn vegnids inoltrads nagins referendums
-[^16-2]: messa en vigur cun CR dals 12 da december 2006 per il 1. da schaner 2007 4 1-1-2011
+[^16-1]: Il termin da referendum è scadì ils 13 da december 2006. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
+[^16-2]: messa en vigur cun CR dals 12 da december 2006 per il 1. da schaner 2007
+
+-

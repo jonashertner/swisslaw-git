@@ -4,33 +4,36 @@ number: "370.300"
 title: Einführungsgesetz zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht
 short: EGzSSV
 language: de
-version: 2011-01-01
-corrected: 2014-10-09
+version: 2024-04-01
+valid_until: 2024-12-31
 version_adopted: 2010-06-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1188/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3362/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht (EGzSSV)
+# Einführungsgesetz zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht
 
-vom 31. August 2006
+(EGzSSV)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 31.08.2006 (Stand 01.04.2024)
 
-gestützt auf Art. 31 und 56 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 30. Mai 2006[^t-3],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 und 56 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 30. Mai 2006[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2006/2007, 205
-[^t-2]: BR 110.100
-[^t-3]: Seite 457 1.01.2011 1
+[^ingress-1]: GRP 2006/2007, 205
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 457
 
-### I. Zuständigkeit und Organisation
+## 1. Zuständigkeit und Organisation
 
 #### Art. 1
 
@@ -44,7 +47,7 @@ beschliesst:
 
 **Organisation**
 
-Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltungsgericht unterstellt.
+<sup>1</sup> Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltungsgericht unterstellt.
 
 #### Art. 3
 
@@ -76,12 +79,11 @@ Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltun
 
 **Ausstand**
 
-<sup>1</sup>[^6-1]Der Ausstand richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^6-2].
+<sup>1</sup> Der Ausstand richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^6-1].
 
 <sup>2</sup> Die oder der Vorsitzende des Verwaltungsgerichts beurteilt als einzige kantonale Instanz bestrittene Ausstandseinreden.
 
-[^6-1]: Fassung gemäss Anhang Ziffer 6 GOG, KA 2010, 2553; am 1. Januar 2011 in Kraft getreten
-[^6-2]: BR 370.100
+[^6-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 #### Art. 7
 
@@ -93,7 +95,7 @@ Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltun
 
 <sup>3</sup> Das Verwaltungsgericht regelt die Einzelheiten in einer Verordnung[^7-1] und passt das Taggeld periodisch der Teuerung an.
 
-[^7-1]: BR 370.310 2 1.01.2011
+[^7-1]: BR [370.310](https://www.gr-lex.gr.ch/data/370.310/de)
 
 #### Art. 8
 
@@ -107,9 +109,9 @@ Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltun
 
 <sup>4</sup> Die Kosten der Rechtsverbeiständung trägt vorläufig der Kanton über das Verwaltungsgericht.
 
-[^8-1]: BR 370.100 1.01.2011 3
+[^8-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
-### II. Verfahren
+## 2. Verfahren
 
 #### Art. 9
 
@@ -121,11 +123,15 @@ Die Schlichtungsstelle und das Schiedsgericht sind organisatorisch dem Verwaltun
 
 <sup>3</sup> Das Einreichen des Schlichtungsbegehrens bewirkt die Rechtshängigkeit der Streitsache.
 
+<sup>4</sup> Der elektronische Verkehr richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^9-1].
+
+[^9-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
 #### Art. 10
 
 **2. Widerklage**
 
-Eine Widerklage ist bei Verwirkungsfolge spätestens an der Schlichtungsverhandlung zu erheben.
+<sup>1</sup> Eine Widerklage ist bei Verwirkungsfolge spätestens an der Schlichtungsverhandlung zu erheben.
 
 #### Art. 11
 
@@ -147,21 +153,21 @@ Eine Widerklage ist bei Verwirkungsfolge spätestens an der Schlichtungsverhandl
 
 **2. Verfahren**
 
-Soweit dieses Gesetz keine Vorschriften enthält, sind die Bestimmungen über das Klageverfahren vor dem Verwaltungsgericht anwendbar.
+<sup>1</sup> Soweit dieses Gesetz keine Vorschriften enthält, sind die Bestimmungen über das Klageverfahren vor dem Verwaltungsgericht anwendbar.
 
 #### Art. 14
 
 **3. Rechtsmittel**
 
-Gegen den Entscheid des Schiedsgerichts ist kein ordentliches kantonales Rechtsmittel zulässig.
+<sup>1</sup> Gegen den Entscheid des Schiedsgerichts ist kein ordentliches kantonales Rechtsmittel zulässig.
 
-### III. Schlussbestimmungen
+## 3. Schlussbestimmungen
 
 #### Art. 15
 
 **Übergangsbestimmungen**
 
-Bei den im Zeitpunkt des In-Kraft-Tretens dieses Gesetzes anhängigen Streitigkeiten finden die Verfahrensbestimmungen dieses Gesetzes Anwendung.
+<sup>1</sup> Bei den im Zeitpunkt des In-Kraft-Tretens dieses Gesetzes anhängigen Streitigkeiten finden die Verfahrensbestimmungen dieses Gesetzes Anwendung.
 
 #### Art. 16
 
@@ -172,4 +178,6 @@ Bei den im Zeitpunkt des In-Kraft-Tretens dieses Gesetzes anhängigen Streitigke
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des In-Kraft-Tretens[^16-2].
 
 [^16-1]: Die Referendumsfrist ist am 13. Dezember 2006 unbenutzt abgelaufen.
-[^16-2]: Mit RB vom 12. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt. 4 1.01.2011
+[^16-2]: Mit RB vom 12. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt.
+
+-
