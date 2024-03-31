@@ -4,13 +4,12 @@ number: "635.4.2"
 title: "Loi sur l'imposition des bateaux"
 short: LIBat
 language: fr
-version: 2011-01-01
-valid_until: 2024-03-31
-version_adopted: 2010-05-31
+version: 2024-04-01
+version_adopted: 2023-03-21
 adopted: 2023-03-21
 in_force: 2024-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.4.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6359/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8688/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,11 +18,17 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6359/pdf_file"
 
 Imposition des bateaux – L
 
-du 25.09.1974 (version entrée en vigueur le 01.01.2011)
+(LIBat)
+
+du 21.03.2023 (version entrée en vigueur le 01.04.2024)
 
 Le Grand Conseil du canton de Fribourg
 
-Vu le message du Conseil d'Etat du 16 avril 1974;
+Vu l'article 102 al. 2 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
+
+Vu l'article 61 de la loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI);
+
+Vu le message 2021-DSJ-173 du Conseil d'Etat du 10 janvier 2023;
 
 Sur la proposition de cette autorité,
 
@@ -31,133 +36,150 @@ Décrète:
 
 #### Art. 1
 
-**Droit d'imposition**
+**Objet et champ d'application**
 
-<sup>1</sup> L'Etat impose selon les modalités de la présente loi et du tarif de l'annexe 1 les détenteurs de bateaux qui ont leur port d'attache dans le canton.
-
-<sup>2</sup> Tout bateau qui, au cours de sa période d'utilisation, stationne pendant plus de 30 jours consécutifs sur territoire fribourgeois est considéré comme y ayant son port d'attache.
-
-<sup>3</sup> La loi sur les impôts cantonaux directs est applicable par analogie.
-
-#### Art. 1bis
-
-**Adaptation du tarif**
-
-<sup>1</sup> Le Conseil d'Etat est compétent pour adapter le tarif à l'indice moyen annuel des prix à la consommation, à raison d'un dixième pour une variation de 10 % de l'indice.
-
-<sup>2</sup> L'adaptation du montant de l'impôt n'intervient que par tranche d'un ou plusieurs dixièmes. Elle entre en vigueur au plus tôt le 1<sup>er</sup> janvier qui suit l'année au cours de laquelle l'indice a atteint un niveau suffisant pour justifier une adaptation d'un dixième au moins.
-
-<sup>3</sup> Les montants fixés dans le tarif correspondent au niveau atteint par l'indice de référence du mois de janvier 1991, soit 125,7 points (décembre 1982 = 100 points).
+<sup>1</sup> La présente loi règle l'imposition des bateaux qui doivent être munis de signes distinctifs fribourgeois ou des bateaux qui ont leur lieu de stationnement dans un autre canton et qui sont utilisés pendant plus d'un mois sur le territoire fribourgeois au sens de la législation fédérale sur la navigation.
 
 #### Art. 2
 
-**Sujet de l'impôt**
+**Droit d'imposition**
 
-<sup>1</sup> L'impôt est dû par tout détenteur de bateau.
-
-<sup>2</sup> Le propriétaire répond du paiement de l'impôt solidairement avec le détenteur.
-
-<sup>3</sup> ...
+<sup>1</sup> L'Etat perçoit un impôt sur les bateaux conformément à la présente loi.
 
 #### Art. 3
 
-**Période d'imposition**
+**Autorité compétente**
 
-<sup>1</sup> L'impôt est prélevé chaque année pour la période du 1<sup>er</sup> avril au 31 mars de l'année suivante.
+<sup>1</sup> L'Office de la circulation et de la navigation (ci-après: l'Office) est compétent pour déterminer la catégorie dans laquelle chaque bateau doit être classé pour son imposition.
+
+<sup>2</sup> Il est chargé de percevoir l'impôt.
 
 #### Art. 4
 
-**Taxation**
+**Assujettissement**
 
-<sup>1</sup> L'Office de la circulation et de la navigation est compétent pour fixer l'impôt dû pour chaque bateau.
-
-<sup>2</sup> Il est également chargé de la perception des impôts.
+<sup>1</sup> L'impôt est dû par la personne détentrice du bateau concerné.
 
 #### Art. 5
 
-**Mode de paiement**
+**Bateaux non-imposables**
 
-<sup>1</sup> L'impôt dû pour les bateaux est payé en une fois le 1<sup>er</sup> avril ou lors de la délivrance du permis de navigation et du numéro de matricule.
+<sup>1</sup> Ne sont pas imposables:
 
-<sup>2</sup> Il n'est pas remboursable.
+- a) les bateaux de la Confédération et les bateaux au bénéfice d'une concession;
+- b) les bateaux utilisés exclusivement pour le service de sauvetage;
+- c) les bateaux appartenant à l'Etat, à l'exception de ceux appartenant aux établissements dotés de la personnalité juridique.
 
 #### Art. 6
 
-**Non-paiement de l'impôt**
+**Base d'imposition**
 
-<sup>1</sup> Le numéro de matricule est annulé en cas de non-paiement de l'impôt.
+<sup>1</sup> L'impôt est défini par la longueur du bateau et la puissance du ou des moteurs ou selon un forfait. Les valeurs issues du permis de navigation sont déterminantes.
 
-<sup>2</sup> Le permis de navigation est retiré.
+<sup>2</sup> Lorsque plusieurs moteurs sont inscrits dans le permis de navigation, chaque moteur est imposé selon sa puissance. Une fraction de kW supérieure à 0,5 est arrondie au kW supérieur.
+
+<sup>3</sup> La base d'imposition est définie dans l'Annexe 1.
 
 #### Art. 7
 
-**Péremption et prescription**
+**Réductions et exonérations**
 
-<sup>1</sup> Le droit d'imposer un bateau stationné dans le canton s'éteint cinq ans après la fin de la période d'imposition.
+<sup>1</sup> Les moteurs électriques ou à hydrogène d'une puissance supérieure à 2,5 kW bénéficient d'une réduction de 30 %.
 
-<sup>2</sup> La créance d'impôt de l'Etat contre le détenteur et le propriétaire, de même que la créance du détenteur au remboursement des impôts payés en trop, se prescrit par cinq ans dès la fin de l'année au cours de laquelle est née la créance fiscale ou la créance en remboursement.
+<sup>2</sup> Les moteurs électriques ou à hydrogène d'une puissance maximale de 2,5 kW sont exonérés.
 
 #### Art. 8
 
-**Changement de domicile**
+**Taxation**
 
-<sup>1</sup> Les détenteurs de bateau ont l'obligation d'annoncer à l'Office de la circulation et de la navigation, dans un délai de quinze jours, tout changement de domicile ou de lieu de stationnement du bateau.
+<sup>1</sup> Le montant de l'impôt est fixé pour chaque genre de bateaux selon les catégories déterminées et le barème fixé à l'Annexe 1 de la présente loi.
+
+<sup>2</sup> La classification des genres de bateaux est déterminée conformément à la législation fédérale.
+
+<sup>3</sup> La personne détentrice du bateau a l'obligation d'annoncer à l'Office, dans un délai de 14 jours, toute circonstance pouvant influer l'imposition en vertu de la présente loi.
 
 #### Art. 9
 
-**Modification du bateau**
+**Période d'imposition et mode de paiement**
 
-<sup>1</sup> Tout changement apporté à un bateau de nature à entraîner une modification de l'impôt doit être signalé à l'Office de la circulation et de la navigation.
+<sup>1</sup> L'impôt est dû pour la période du 1<sup>er</sup> avril au 31 mars de l'année suivante.
 
-#### Art. 9a
+<sup>2</sup> La moitié de l'impôt est due si la mise en circulation a lieu après le 31 juillet ou si le retrait de la circulation intervient avant le 1<sup>er</sup> juillet.
 
-**Voies de droit**
-
-<sup>1</sup> Les décisions fixant l'impôt peuvent, dans les trente jours, faire l'objet d'une réclamation auprès de l'autorité qui a pris la décision attaquée.
-
-<sup>2</sup> Les décisions sur réclamation sont sujettes à recours au Tribunal cantonal.
+<sup>3</sup> L'impôt est payable en une fois le 1<sup>er</sup> avril ou lors de la délivrance du permis de navigation.
 
 #### Art. 10
 
-**Dispositions pénales**
+**Non-paiement de l'impôt**
 
-<sup>1</sup> Celui qui contrevient aux dispositions de la présente loi est passible d'une amende de 50 à 200 francs.
+<sup>1</sup> Lorsque l'impôt n'a pas été payé dans le délai fixé par l'Office, ce dernier prononce, après un rappel, le retrait du permis de navigation.
 
-<sup>2</sup> L'amende est prononcée par le préfet conformément à la loi sur la justice.
+<sup>2</sup> Si la situation n'est pas régularisée dans le délai imparti par la décision de retrait, la police procède à la saisie du permis de navigation.
 
 #### Art. 11
 
-**Disposition finale**
+**Prescription**
 
-<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi et en fixe la date d'entrée en vigueur.[^11-1]
+<sup>1</sup> Le droit d'imposer un bateau stationné dans le canton se prescrit par cinq ans après la fin de la période d'imposition.
 
-[^11-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 1975 (ACE 29.10.1974).
+<sup>2</sup> La créance d'impôt de l'Etat contre la personne détentrice, de même que la créance de la personne détentrice liée au remboursement des impôts payés en trop, se prescrit par cinq ans dès la fin de l'année au cours de laquelle est née la créance fiscale ou la créance de remboursement.
 
-## A1 ANNEXE 1 – Tarif des impôts sur les bateaux (art. 1 et 1<sup>bis</sup>)
+#### Art. 12
+
+**Changement de domicile ou de lieu de stationnement**
+
+<sup>1</sup> La personne détentrice du bateau doit annoncer à l'Office, dans un délai de 14 jours, tout changement de domicile ou de lieu de stationnement.
+
+#### Art. 13
+
+**Adaptation du tarif**
+
+<sup>1</sup> Le Grand Conseil peut adapter le tarif à l'indice moyen annuel des prix à la consommation, pour autant que cet indice varie d'au moins 5 %.
+
+<sup>2</sup> L'adaptation entre en vigueur au plus tôt le 1<sup>er</sup> avril qui suit l'année au cours de laquelle l'indice a atteint un niveau suffisant pour justifier une adaptation.
+
+#### Art. 14
+
+**Voies de droit**
+
+<sup>1</sup> Les décisions fixant l'impôt sont sujettes à réclamation dans les trente jours auprès de l'Office.
+
+<sup>2</sup> La décision sur réclamation peut faire l'objet d'un recours au Tribunal cantonal.
+
+#### Art. 15
+
+**Dispositions pénales**
+
+<sup>1</sup> Les personnes contrevenant aux dispositions de la présente loi sont passibles d'une amende de 50 à 1000 francs prononcée par le préfet ou la préfète conformément à la loi sur la justice[^15-1].
+
+<sup>2</sup> Les procédures de recours sont régies par le Code de procédure pénale suisse[^15-2].
+
+[^15-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^15-2]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+
+## A1 ANNEXE 1 – Tarif des impôts sur les bateaux (art. 6)
 
 #### Art. A1-1
 
-<sup>1</sup> L'impôt annuel sur les bateaux est fixé comme suit:
+<sup>1</sup> L'impôt annuel est le suivant:
 
-- 1\. Embarcations à rames pourvues d'un signe distinctif officiel: Fr. 31.00
-- 2\. Bateaux à voiles:
-  - a) dont la surface vélique est de 15 m² au maximum, sans moteur: Fr. 31.00
-  - b) dont la surface vélique est supérieure à 15 m², sans moteur: Fr. 48.50
-  - c) dont la surface vélique est de 15 m² au maximum, dotés d'un moteur: Fr. 60.50
-  - d) dont la surface vélique est supérieure à 15 m², dotés d'un moteur:
-  - d1) jusqu'à un poids total de 1000 kg: Fr. 109.00
-  - d2) en sus, si le poids total est supérieur à 1000 kg, par kW ou fraction de kW supplémentaire: Fr. 12.50
-- 3\. Bateaux à moteur:
-  - a) jusqu'à 8 kW de puissance effective: Fr. 60.50
-  - b) par kW ou fraction de kW supplémentaire: Fr. 12.50
-- 4\. Chalands, avec ou sans moteur:
-  - a) jusqu'à 10 tonnes de charge utile: Fr. 230.00
-  - b) par tonne ou fraction de tonne supplémentaire: Fr. 6.00
-- 5\. Remorqueurs, pousseurs, engins flottants (dragues, bigues, grues, etc.): Fr. 230.00
-- 6\. Plaques professionnelles: Fr. 121.00
-- 7\. Bateaux de pêcheurs professionnels: Fr. 48.50
-- 8\. Bateaux de sauvetage appartenant à des sociétés de sauvetage reconnues: –
+- 1\. Bateaux à moteur, à voile, à rames, à passagers, engins flottants
+  - a) jusqu'à 4 mètres de long: — Fr. 20
+  - b) jusqu'à 5 mètres de long: — Fr. 30
+  - c) jusqu'à 7 mètres de long: — Fr. 50
+  - d) jusqu'à 9 mètres de long: — Fr. 80
+  - e) au-delà de 9 mètres de long: — Fr. 110
+  - f) supplément de 1 à 50 kW de puissance du moteur, par kW: — Fr. 8
+  - g) par kW supplémentaire: — Fr. 11
+- 2\. Bateaux à marchandises, bateaux pousseurs
+  - a) forfait de base: — Fr. 200
+  - b) supplément de 1 à 100 kW de puissance du moteur, par kW: — Fr. 8
+  - c) par kW supplémentaire: — Fr. 11
+- 3\. Plaques professionnelles: — Fr. 400
+- 4\. Bateaux de pêcheurs professionnels: — seul le ch. 1 let. a à e est appliqué
 
-<sup>2</sup> Ces montants correspondent à un indice de référence de 152,2 points (décembre 1982 = 100 pts).
+#### Art. A1-2
 
-BL/AGS 1974 f 176 / d 179
+**Les montants ci-dessus correspondent à un indice des prix à la consommation de 104.6 points (base décembre 2020 = 100 pts).**
+
+2023\_033

@@ -1,29 +1,34 @@
 ---
 canton: FR
 number: "635.4.2"
-title: Gesetz betreffend die Besteuerung der Schiffe
+title: Gesetz über die Besteuerung der Schiffe
 short: SStG
 language: de
-version: 2011-01-01
-valid_until: 2024-03-31
-version_adopted: 2010-05-31
+version: 2024-04-01
+version_adopted: 2023-03-21
 adopted: 2023-03-21
 in_force: 2024-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.4.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/6359/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend die Besteuerung der Schiffe
+# Gesetz über die Besteuerung der Schiffe
 
 Besteuerung der Schiffe – G
 
-vom 25.09.1974 (Fassung in Kraft getreten am 01.01.2011)
+(SStG)
+
+vom 21.03.2023 (Fassung in Kraft getreten am 01.04.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
-gestützt auf die Botschaft des Staatsrates vom 16. April 1974;
+gestützt auf Artikel 102 Abs. 2 der Verfassung des Kantons Freiburg vom 16. Mai 2004 (KV);
+
+gestützt auf Artikel 61 des Bundesgesetzes vom 3. Oktober 1975 über die Binnenschifffahrt (BSG);
+
+nach Einsicht in die Botschaft 2021-DSJ-173 des Staatsrats vom 10. Januar 2023;
 
 auf Antrag dieser Behörde,
 
@@ -31,133 +36,150 @@ beschliesst:
 
 #### Art. 1
 
-**Steuerbefugnis**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Der Staat besteuert die Schiffshalter, die ihren Heimathafen im Kanton haben, gemäss den Richtlinien des vorliegenden Gesetzes und des Tarifs in Anhang 1.
-
-<sup>2</sup> Der Hafen, in dem ein Schiff im Verlaufe der Benützungszeit während 30 aufeinanderfolgenden Tagen auf freiburgischem Gebiet angelegt ist, wird als Heimathafen betrachtet.
-
-<sup>3</sup> Das Gesetz über die direkten Kantonssteuern gilt sinngemäss.
-
-#### Art. 1bis
-
-**Anpassung des Tarifs**
-
-<sup>1</sup> Der Staatsrat ist befugt, den Tarif dem durchschnittlichen Jahresindex der Konsumentenpreise anzupassen, und zwar um einen Zehntel für eine Änderung des Indexes um 10 %.
-
-<sup>2</sup> Die Anpassung des Steuerbetrages erfolgt jeweils nur für einen oder mehrere Zehntel. Sie tritt frühestens am 1. Januar jenes Jahres in Kraft, das demjenigen folgt, in dem der Index einen Stand erreicht hat, der eine Anpassung um wenigstens einen Zehntel rechtfertigt.
-
-<sup>3</sup> Die im Tarif festgelegten Beträge entsprechen dem Stand des Referenzindexes vom Monat Januar 1991, nämlich 125,7 Punkte (Dezember 1982 = 100 Punkte).
+<sup>1</sup> In diesem Gesetz wird die Besteuerung der Schiffe, die über Freiburger Kennzeichen verfügen müssen, und der Schiffe, deren Standort in einem anderen Kanton liegt und die mehr als einen Monat auf dem Gebiet des Kantons Freiburg benützt werden, im Sinne der Bundesgesetzgebung über die Binnenschifffahrt geregelt.
 
 #### Art. 2
 
-**Steuersubjekt**
+**Steuerbefugnis**
 
-<sup>1</sup> Die Steuer ist von jedem Schiffshalter zu entrichten.
-
-<sup>2</sup> Der Eigentümer haftet solidarisch mit dem Halter für die Bezahlung der Steuer.
-
-<sup>3</sup> ...
+<sup>1</sup> Der Staat erhebt gemäss diesem Gesetz eine Steuer auf Schiffen.
 
 #### Art. 3
 
-**Steuerperiode**
+**Zuständige Behörde**
 
-<sup>1</sup> Die Steuer wird jedes Jahr für die Zeit vom 1. April bis 31. März des folgenden Jahres erhoben.
+<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt (das Amt) ist dafür zuständig, die Steuerkategorie der einzelnen Schiffe festzulegen.
+
+<sup>2</sup> Es hat den Auftrag, die Steuer zu erheben.
 
 #### Art. 4
 
-**Taxierung**
+**Steuerpflicht**
 
-<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt ist für die Festsetzung der für jedes Schiff zu entrichtenden Steuer zuständig.
-
-<sup>2</sup> Es ist auch mit dem Steuerbezug beauftragt.
+<sup>1</sup> Die Steuer wird von der Person geschuldet, die das betreffende Schiff hält.
 
 #### Art. 5
 
-**Zahlungsart**
+**Nicht steuerbare Schiffe**
 
-<sup>1</sup> Die gesamte Steuer für die Schiffe ist am 1. April oder bei der Aushändigung der Betriebsbewilligung und der Kontrollnummer zu bezahlen.
+<sup>1</sup> Nicht steuerbar sind:
 
-<sup>2</sup> Sie wird nicht zurückerstattet.
+- a) Schiffe des Bundes und Schiffe mit einer Konzession;
+- b) Schiffe, die ausschliesslich für den Rettungsdienst eingesetzt werden;
+- c) Schiffe im Besitz des Staates mit Ausnahme von Schiffen, die Anstalten mit eigener Rechtspersönlichkeit gehören.
 
 #### Art. 6
 
-**Nichtbezahlung der Steuer**
+**Besteuerungsgrundlage**
 
-<sup>1</sup> Bei Nichtbezahlung der Steuer wird die Kontrollnummer annulliert.
+<sup>1</sup> Die Steuer wird von der Länge des Schiffes und von der Leistung des oder der Motoren oder pauschal bestimmt. Ausschlaggebend sind die im Schiffsausweis eingetragenen Werte.
 
-<sup>2</sup> Die Betriebsbewilligung wird entzogen.
+<sup>2</sup> Sind im Schiffsausweis mehrere Motoren eingetragen, so wird jeder Motor nach seiner Leistung besteuert. Ein kW-Bruchteil über 0,5 wird auf das nächste kW aufgerundet.
+
+<sup>3</sup> Die Besteuerungsgrundlage wird in Anhang 1 festgelegt.
 
 #### Art. 7
 
-**Verjährung der Besteuerung und der Steuerforderung**
+**Steuerreduktion und Steuerbefreiung**
 
-<sup>1</sup> Das Recht zur Besteuerung eines im Kanton angelegten Schiffes erlischt fünf Jahre nach Ablauf der Steuerperiode.
+<sup>1</sup> Für Elektro- und Wasserstoffmotoren mit einer Leistung über 2,5 kW wird eine Steuerreduktion von 30 % gewährt.
 
-<sup>2</sup> Die Steuerforderung des Kantons gegenüber dem Schiffshalter und dem Eigentümer, ebenso wie die Rückerstattungsforderung des Halters für zuviel bezahlte Steuern, verjährt fünf Jahre nach Ablauf des Jahres, in welchem die Steuer- oder Rückerstattungsforderung entstanden ist.
+<sup>2</sup> Elektro- und Wasserstoffmotoren mit einer Leistung von höchstens 2,5 kW sind von der Steuer befreit.
 
 #### Art. 8
 
-**Wohnsitzwechsel**
+**Veranlagung**
 
-<sup>1</sup> Die Schiffshalter sind verpflichtet, dem Amt für Strassenverkehr und Schifffahrt innert 15 Tagen Wohnsitz- oder Anlegeortswechsel ihres Schiffes zu melden.
+<sup>1</sup> Der Steuerbetrag wird für jede Schiffkategorie entsprechend den Kategorien und der Skala in Anhang 1 dieses Gesetzes festgelegt.
+
+<sup>2</sup> Die Klassierung der Schiffkategorien erfolgt gemäss Bundesgesetzgebung.
+
+<sup>3</sup> Die Schiffhalterinnen und Schiffhalter sind verpflichtet, dem Amt jeden Umstand, der ihre Besteuerung nach diesem Gesetz beeinflussen könnte, innert 14 Tagen zu melden.
 
 #### Art. 9
 
-**Schiffsabänderung**
+**Steuerperiode und Zahlungsart**
 
-<sup>1</sup> Jede Bootsänderung, die einen Steuertarifwechsel mit sich bringt, muss dem Amt für Strassenverkehr und Schifffahrt mitgeteilt werden.
+<sup>1</sup> Die Steuer wird für die Zeit von 1. April bis 31. März des Folgejahres geschuldet.
 
-#### Art. 9a
+<sup>2</sup> Wird ein Schiff nach dem 31. Juli in Verkehr gesetzt oder vor dem 1. Juli aus dem Verkehr genommen, so wird die halbe Steuer geschuldet.
 
-**Rechtsmittel**
-
-<sup>1</sup> Gegen Verfügungen, welche die Steuer festsetzen, kann innert dreissig Tagen bei der Behörde, welche die angefochtene Verfügung getroffen hat, Einsprache erhoben werden.
-
-<sup>2</sup> Die Einspracheentscheide sind mit Beschwerde an das Kantonsgericht anfechtbar.
+<sup>3</sup> Die gesamte Steuer ist am 1. April oder bei der Aushändigung des Schiffsausweises zu bezahlen.
 
 #### Art. 10
 
-**Strafbestimmungen**
+**Nichtbezahlung der Steuer**
 
-<sup>1</sup> Wer den Bestimmungen dieses Gesetzes zuwiderhandelt, wird mit einer Busse von 50 bis 200 Franken bestraft.
+<sup>1</sup> Wurde die Steuer nicht innert der vom Amt angesetzten Frist bezahlt, so verfügt dieses nach einer Mahnung den Entzug des Schiffsausweises.
 
-<sup>2</sup> Die Busse wird vom Oberamtmann nach dem Justizgesetz ausgesprochen.
+<sup>2</sup> Wird die Angelegenheit nicht innert der im Entzugsentscheid gewährten Frist geregelt, so nimmt die Polizei den Schiffsausweis ab.
 
 #### Art. 11
 
-**Schlussbestimmung**
+**Verjährung**
 
-<sup>1</sup> Der Staatsrat ist mit dem Vollzug dieses Gesetzes beauftragt. Er bestimmt das Datum des Inkrafttretens.[^11-1]
+<sup>1</sup> Das Recht, ein Schiff zu besteuern, das seinen Standort im Kanton hat, verjährt fünf Jahre nach Ablauf der Steuerperiode.
 
-[^11-1]: Datum des Inkrafttretens: 1. Januar 1975 (StRB 29.10.1974).
+<sup>2</sup> Die Steuerforderung des Staates gegenüber einer Schiffhalterin oder einem Schiffhalter und das Recht einer Schiffhalterin oder eines Schiffhalters auf Rückerstattung zu viel bezahlter Steuern verjährt fünf Jahre nach Ende des Jahres, in dem die Steuerforderung oder das Recht auf Steuerrückerstattung entstanden sind.
 
-## A1 ANHANG 1 – Schiffssteuertarif (Art. 1 und 1<sup>bis</sup>)
+#### Art. 12
+
+**Wohnsitz- oder Anlegeortswechsel**
+
+<sup>1</sup> Die Schiffhalterinnen und Schiffhalter müssen dem Amt Wohnsitzwechsel oder Wechsel des Standorts des Schiffs innert 14 Tagen melden.
+
+#### Art. 13
+
+**Anpassung des Tarifs**
+
+<sup>1</sup> Der Grosse Rat kann den Tarif dem durchschnittlichen Jahresindex der Konsumentenpreise anpassen, sofern sich der Index um mindestens 5 % verändert.
+
+<sup>2</sup> Die Anpassung tritt frühestens am 1. April nach dem Jahr in Kraft, in dem der Index einen genügenden Stand für eine Anpassung erreicht.
+
+#### Art. 14
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Verfügungen, in denen die Steuer festgesetzt wird, kann innert dreissig Tagen beim Amt Einsprache erhoben werden.
+
+<sup>2</sup> Einspracheentscheide sind mit Beschwerde an das Kantonsgericht anfechtbar.
+
+#### Art. 15
+
+**Strafbestimmungen**
+
+<sup>1</sup> Wer den Bestimmungen dieses Gesetzes zuwiderhandelt, wird mit einer Busse von 50–1000 Franken bestraft; die Busse wird von der Oberamtsperson nach dem Justizgesetz[^15-1] ausgesprochen.
+
+<sup>2</sup> Die Beschwerdeverfahren richten sich nach der Schweizerischen Strafprozessordnung[^15-2].
+
+[^15-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^15-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+## A1 ANHANG 1 – Schiffssteuertarif (Art. 6)
 
 #### Art. A1-1
 
-<sup>1</sup> Die jährliche Schiffssteuer wird wie folgt Festgelegt:
+<sup>1</sup> Die Jahressteuer beträgt:
 
-- 1\. Ruderboote mit einer offiziellen Kennzeichnung: Fr. 31.00
-- 2\. Segelschiffe:
-  - a) mit einer maximalen Segelfläche von 15 m², ohne Motor: Fr. 31.00
-  - b) mit mehr als 15 m² Segelfläche, ohne Motor: Fr. 48.50
-  - c) mit einer maximalen Segelfläche von 15 m², mit Motor: Fr. 60.50
-  - d) mit mehr als 15 m² Segelfläche, mit Motor:
-  - d1) bis 1000 kg Gesamtgewicht: Fr. 109.00
-  - d2) Zuschlag bei einem Gesamtgewicht von mehr als 1000 kg, pro Voll- oder Teil-kW: Fr. 12.50
-- 3\. Motorschiffe:
-  - a) bis 8 kW effektive Motorleistung: Fr. 60.50
-  - b) Zuschlag pro Voll- oder Teil-kW: Fr. 12.50
-- 4\. Schleppkähne, mit oder ohne Motor:
-  - a) bis 10 Tonnen Nutzlast: Fr. 230.00
-  - b) Zuschlag pro Voll- oder Teil-Tonne: Fr. 6.00
-- 5\. Schlepper, Schubschiffe, schwimmende Geräte (Bagger, Hebeböcke, Kräne usw.): Fr. 230.00
-- 6\. Händlerschilder: Fr. 121.00
-- 7\. Boote von Berufsfischern: Fr. 48.50
-- 8\. Rettungsboote anerkannter Rettungsgesellschaften: –
+- 1\. Motorboote, Segelschiffe, Ruderboote, Fahrgastschiffe und schwimmende Geräte
+  - a) bis 4 m Länge: — Fr. 20
+  - b) bis 5 m Länge: — Fr. 30
+  - c) bis 7 m Länge: — Fr. 50
+  - d) bis 9 m Länge: — Fr. 80
+  - e) über 9 m Länge: — Fr. 110
+  - f) Zuschlag pro kW von 1–50 kW Motorleistung: — Fr. 8
+  - g) pro zusätzliches kW: — Fr. 11
+- 2\. Güterschiffe und Schubschiffe
+  - a) Pauschalbetrag: — Fr. 200
+  - b) Zuschlag pro kW von 1–100 kW Motorleistung: — Fr. 8
+  - c) pro zusätzliche kW: — Fr. 11
+- 3\. Händlerschilder: — Fr. 400
+- 4\. Schiffe von Berufsfischerinnen/Berufsfischern: — Zur Anwendung kommt ausschliesslich Ziff. 1 Bst. a–e
 
-<sup>2</sup> Diese Beträge entsprechen einem Referenzindex von 152,2 Punkten (Dezember 1982 = 100 Punkte).
+#### Art. A1-2
 
-BL/AGS 1974 f 176 / d 179
+**Die obenstehenden Beträge entsprechen dem Index der Konsumentenpreise beim Stand von 104,6 Punkten (Grundlage Dezember 2020 = 100 Punkte).**
+
+2023\_033
