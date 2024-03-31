@@ -3,18 +3,18 @@ sr: "412.101.220.51"
 title: "Ordinanza della SEFRI del 12 ottobre 2017 sulla formazione professionale di base. Meccatronica d'automobili/Meccatronico d'automobili con attestato federale di capacità (AFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/627"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/627/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-627-20180101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/627/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/627/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2017-627-20240401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/627/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Meccatronica d’automobili/Meccatronico d’automobili con attestato federale di capacità (AFC)
 
-del 12 ottobre 2017 (Stato 1° gennaio 2018)
+del 12 ottobre 2017 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>46321</td><td>Meccatronica d’automobili AFC/Meccatronico d’automobili AFC Automobil-Mechatronikerin EFZ/ Automobil-Mechatroniker EFZ Mécatronicienne d’automobiles CFC/ Mécatronicien d’automobiles CFC</td></tr>
@@ -24,13 +24,14 @@ del 12 ottobre 2017 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale, visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -81,8 +82,6 @@ La formazione di meccatronico d’automobili di livello AFC prevede i seguenti i
 #### Art. 4
 
 **Competenze operative**
-
-<sup>1</sup>
 
 La formazione prevede, nei campi di competenze operative sotto indicati, le competenze operative seguenti:
 
@@ -154,13 +153,14 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-<sup>6</sup> Per l’impiego di sostanze e preparati ai sensi dell’ordinanza del 18 maggio 2005[^5-1] sulla riduzione dei rischi inerenti ai prodotti chimici sono adottate misure particolari.
+<sup>6</sup> Per l’impiego di sostanze e preparati ai sensi dell’ordinanza del 18 maggio 2005[^5-2] sulla riduzione dei rischi inerenti ai prodotti chimici sono adottate misure particolari.
 
-[^5-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -253,7 +253,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
-[^9-1]: Il piano di formazione del 12 ott. 2017 relativo all’O della SEFRI sulla formazione professionale di base Meccatronica d’automobili/Meccatronico d’automobili con attestato federale di capacità (AFC) disponibile sul sito SEFRI nell’elenco delle professioni: [http://www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z.
+[^9-1]: Il piano di formazione del 12 ott. 2017 relativo all’O della SEFRI sulla formazione professionale di base Meccatronica d’automobili/Meccatronico d’automobili con attestato federale di capacità (AFC) disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z
 [^9-2]: [RS 814.812.38](https://fedlex.data.admin.ch/eli/cc/2005/505)
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
