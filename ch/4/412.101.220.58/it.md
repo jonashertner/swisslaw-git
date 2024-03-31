@@ -3,18 +3,18 @@ sr: "412.101.220.58"
 title: Ordinanza della SEFRI del 30 giugno 2022 sulla formazione professionale di base Laboratorista con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/399"
 language: it
-version: 2023-01-01
+version: 2024-04-01
 adopted: 2022-06-30
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/399/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-399-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/399/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/399/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2022-399-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/399/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Laboratorista con attestato federale di capacità (AFC)
 
-del 30 giugno 2022 (Stato 1° gennaio 2023)
+del 30 giugno 2022 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>65400</td><td>Laboratorista AFC Laborantin EFZ / Laborant EFZ Laborantine CFC / Laborantin CFC</td></tr>
@@ -26,13 +26,14 @@ del 30 giugno 2022 (Stato 1° gennaio 2023)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -172,9 +173,11 @@ Lo sviluppo delle competenze operative nei campi di competenze operative a, e, f
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -549,7 +552,7 @@ Sono responsabili dei corsi interaziendali:
 
 L’ordinanza della SEFRI del 25 luglio 2007[^26-1] sulla formazione professionale di base laboratorista con attestato federale di capacità (AFC) è abrogata.
 
-[^26-1]: [[RU 2007 4681](https://fedlex.data.admin.ch/eli/oc/2007/665); [2011 283](https://fedlex.data.admin.ch/eli/oc/2011/39); [2013 2799](https://fedlex.data.admin.ch/eli/oc/2013/578); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 38 e II 38]
+[^26-1]: [[RU 2007 4681](https://fedlex.data.admin.ch/eli/oc/2007/665); [2011 283](https://fedlex.data.admin.ch/eli/oc/2011/39); [2013 2799](https://fedlex.data.admin.ch/eli/oc/2013/578); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 38, II 38]
 
 #### Art. 27
 
