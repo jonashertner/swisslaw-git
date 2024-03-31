@@ -4,13 +4,12 @@ number: "871.3"
 title: "Verordnung über Gebühren, Tarife und Entschädigungen zum Feuerschutz"
 short: VGTE
 language: de
-version: 2021-01-01
-valid_until: 2024-03-31
-version_adopted: 2020-10-13
+version: 2024-04-01
+version_adopted: 2024-02-27
 adopted: 2020-10-13
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/871.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3031/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3601/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3031/pdf_file"
 
 (VGTE)
 
-vom 13.10.2020 (Stand 01.01.2021)
+vom 13.10.2020 (Stand 01.04.2024)
 
 Die Regierung des Kantons St.Gallen
 
