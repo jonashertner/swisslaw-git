@@ -3,18 +3,18 @@ sr: "412.101.220.48"
 title: Ordinanza della SEFRI del 26 novembre 2020 sulla formazione professionale di base Informatica degli edifici / Informatico degli edifici con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/994"
 language: it
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2020-11-26
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/994/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-994-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/994/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/994/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-994-20240401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/994/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Informatica degli edifici / Informatico degli edifici con attestato federale di capacità (AFC)
 
-del 26 novembre 2020 (Stato 1° gennaio 2021)
+del 26 novembre 2020 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>88607</td><td>Informatica degli edifici AFC / Informatico degli edifici AFC Gebäudeinformatikerin EFZ / Gebäudeinformatiker EFZ</td></tr>
@@ -26,13 +26,14 @@ del 26 novembre 2020 (Stato 1° gennaio 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -95,7 +96,7 @@ Le competenze operative comprendono competenze professionali, metodologiche, soc
 
 <sup>4</sup> Tutti i luoghi di formazione collaborano allo sviluppo delle competenze operative. Essi coordinano i contenuti della formazione e delle procedure di qualificazione.
 
-[^3-1]: www.ict-berufsbildung.ch &gt; Berufsbildung &gt; ICT Competence Framework
+[^3-1]: [www.ict-formationprofessionnelle.ch](http://www.ict-formationprofessionnelle.ch) &gt; Berufsbildung &gt; ICT Competence Framework
 
 #### Art. 4
 
@@ -190,9 +191,11 @@ Lo sviluppo delle competenze operative nei campi di competenze operative a, e, f
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -277,7 +280,8 @@ Il piano di formazione:
 
 - b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
 - c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
-- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
 [^9-1]: Il piano del 26 novembre 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z.
 
@@ -292,8 +296,8 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 - a. attestato federale di capacità di informatico degli edifici AFC e almeno due anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di telematico AFC, informatico AFC, elettronico multimediale AFC, operatore in automazione AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’informatico degli edifici AFC e almeno quattro anni di esperienza professionale nel campo d’insegnamento;
-- e. titolo della formazione professionale superiore in ambito pertinente;
-- f. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+- d. titolo della formazione professionale superiore in ambito pertinente;
+- e. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
 
 #### Art. 11
 
@@ -523,7 +527,7 @@ Essa svolge in particolare i compiti seguenti:
 
 <sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
 
-- [tab] <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+<sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
 
 ## Sezione 11: Disposizioni finali
 
@@ -533,7 +537,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 27 aprile 2015[^25-1] sulla formazione professionale di base Telematica/Telematico con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2015 1413](https://fedlex.data.admin.ch/eli/oc/2015/293), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 35, II [35](https://fedlex.data.admin.ch/eli/oc/2017/12)e III 13]
+[^25-1]: [[RU 2015 1413](https://fedlex.data.admin.ch/eli/oc/2015/293); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 35, II [35](https://fedlex.data.admin.ch/eli/oc/2017/12), III [13](https://fedlex.data.admin.ch/eli/oc/2017/4)]
 
 #### Art. 26
 

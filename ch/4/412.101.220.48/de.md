@@ -3,18 +3,18 @@ sr: "412.101.220.48"
 title: Verordnung des SBFI vom 26. November 2020 über die berufliche Grundbildung Gebäudeinformatikerin/Gebäudeinformatiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/994"
 language: de
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2020-11-26
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/994/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-994-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/994/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/994/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2020-994-20240401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/994/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Gebäudeinformatikerin/Gebäudeinformatiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 26. November 2020 (Stand am 1. Januar 2021)
+vom 26. November 2020 (Stand am 1. April 2024)
 
 <table>
 <tr><td>88607</td><td>Gebäudeinformatikerin EFZ / Gebäudeinformatiker EFZ</td></tr>
@@ -27,13 +27,14 @@ vom 26. November 2020 (Stand am 1. Januar 2021)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1] (BBG), auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1] (BBG), auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1. Abschnitt: Gegenstand, Fachrichtungen und Dauer
 
@@ -96,7 +97,7 @@ Die Handlungskompetenzen umfassen Fach-, Methoden-, Sozial- und Selbstkompetenze
 
 <sup>4</sup> Beim Aufbau der Handlungskompetenzen arbeiten alle Lernorte zusammen. Sie koordinieren die Inhalte der Ausbildung und der Qualifikationsverfahren.
 
-[^3-1]: www.ict-berufsbildung.ch &gt; Berufsbildung &gt; ICT Competence Framework
+[^3-1]: [www.ict-berufsbildung.ch](http://www.ict-berufsbildung.ch) &gt; Berufsbildung &gt; ICT Competence Framework
 
 #### Art. 4
 
@@ -191,9 +192,11 @@ In den Handlungskompetenzbereichen a, e und f ist der Aufbau der Handlungskompet
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -278,7 +281,8 @@ Der Bildungsplan hat folgenden Inhalt:
 
 - b. Er führt die Inhalte der Grundbildung sowie die Bestimmungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz aus.
 - c. Er bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden.
-- [tab] <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
+
+<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
 [^9-1]: Der Bildungsplan vom 26. November 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
 
@@ -525,7 +529,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 <sup>3</sup> Sie regeln mit der Trägerschaft die Organisation und die Durchführung der überbetrieblichen Kurse.
 
-- [tab] <sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
+<sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
 
 ## 11. Abschnitt: Schlussbestimmungen
 
