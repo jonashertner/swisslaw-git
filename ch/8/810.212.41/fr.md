@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: "Ordonnance du DFI du 2 mai 2007 sur l'attribution d'organes destinés à une transplantation (Ordonnance du DFI sur l'attribution d'organes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: fr
-version: 2021-12-01
+version: 2024-04-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-282-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/fr"
 
 (Ordonnance du DFI sur l’attribution d’organes)
 
-du 2 mai 2007 (Etat le 1<sup>er</sup> décembre 2021)
+du 2 mai 2007 (État le 1<sup>er</sup> avril 2024)
 
 Le Département fédéral de l’intérieur,
 
@@ -94,11 +94,12 @@ Si le recours d’un patient contre une décision de non-inscription sur la list
 
 <sup>4</sup> Si une transplantation de rein est indiquée, le temps d’attente sans dialyse à prendre en compte est limité à 18 mois au maximum.
 
-<sup>5</sup> Si une transplantation de cœur est indiquée, le temps d’attente à prendre en compte est limité à deux ans au maximum.
+<sup>5</sup> …[^3a-2]
 
 <sup>6</sup> Le temps d’attente depuis l’inscription sur une liste à l’étranger est compté si le patient produit une attestation écrite de l’instance compétente de ce pays certifiant la durée de l’attente; les al. 4 et 5 sont réservés.
 
 [^3a-1]: Introduit par le ch. I de l’O du du DFI du 19 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^3a-2]: Abrogé par le ch. I de l’O du DFI du 5 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### Section 2 Attribution d’un cœur
 
@@ -294,11 +295,11 @@ Est notamment considéré comme exposé à un risque de mort immédiate le patie
 
 #### Art. 13a
 
-**Compatibilité du groupe sanguin et adéquation de l’âge**[^13a-1]
+**Adéquation de l*’*âge et compatibilité du groupe sanguin[^13a-2]**[^13a-1]
 
 <sup>1</sup>
 
-S’il n'y a pas d’urgence médicale au sens de l’art. 13 et que le donneur est âgé de 60 ans ou moins, le rein est attribué en deuxième priorité:
+S’il n’y a pas d’urgence médicale au sens de l’art. 13 et que le donneur est âgé de 60 ans ou moins, le rein est attribué en deuxième priorité:
 
 - a. en premier lieu au patient de moins de 20 ans, si son groupe sanguin est identique à celui du donneur;
 - b. en deuxième lieu au patient de moins de 20 ans, si son groupe sanguin est compatible avec celui du donneur;
@@ -314,7 +315,16 @@ Si le donneur est âgé de plus de 60 ans, le rein est attribué:
 - c. en troisième lieu au patient de moins de 20 ans, si son groupe sanguin est identique à celui du donneur;
 - d. en quatrième lieu au patient de moins de 20 ans, si son groupe sanguin est compatible avec celui du donneur.
 
+<sup>3</sup>
+
+Au sein d’une même tranche d’âge, les combinaisons suivantes ont le même degré de priorité que celles de groupe sanguin identique (al. 1, let. a et c, et 2, let. a et c):
+
+- a. le donneur est de groupe sanguin 0; le patient est de groupe sanguin B et présente une valeur calculée d’anticorps réactifs sur le panel (annexe 2, ch. 3.1) supérieure à 98 %;
+- b. le donneur est de groupe sanguin A; le patient est de groupe sanguin AB et présente une valeur calculée d’anticorps réactifs sur le panel (annexe 2, ch. 3.1) supérieure à 98 %.[^13a-3]
+
 [^13a-1]: Introduit par le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^13a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+[^13a-3]: Introduit par le ch. I de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 14
 
@@ -340,21 +350,41 @@ Le service national des attributions autorise uniquement les anticorps anti-HLA 
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
+#### Art. 14a
+
+**Prise en compte de l’âge et de la valeur calculée d’anticorps réactifs sur le panel**[^14a-1]
+
+<sup>1</sup>
+
+Si le donneur a moins de 30 ans, le rein est attribué en quatrième priorité:
+
+- a. au patient entre 20 et 59 ans, ou
+- b. au patient de 60 ans ou plus qui présente une valeur calculée d’anticorps réactifs sur le panel (annexe 2, ch. 3.1) supérieure à 98 %.
+
+<sup>2</sup>
+
+Si le donneur a 80 ans ou plus, le rein est attribué:
+
+- a. au patient de 60 ans ou plus, ou
+- b. au patient de moins de 60 ans qui présente une valeur calculée d’anticorps réactifs sur le panel (annexe 2, ch. 3.1) supérieure à 98 %.
+
+[^14a-1]: Introduit par le ch. I de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
 #### Art. 15
 
 **Statut infectieux**[^15-1]
 
-Si le donneur a obtenu un résultat négatif au test de détection du virus d’Epstein-Barr, le rein est attribué en quatrième priorité au patient qui a également obtenu un résultat négatif au test de détection du virus d’Epstein-Barr.
+Si le donneur a obtenu un résultat négatif au test de détection du virus d’Epstein-Barr, le rein est attribué en cinquième priorité au patient qui a également obtenu un résultat négatif au test de détection du virus d’Epstein-Barr.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 15a
 
 **Attribution selon un système de points**[^15a-1]
 
-Le rein est attribué en cinquième priorité au patient qui obtient le plus de points selon le système défini à l’annexe 2.
+Le rein est attribué en sixième priorité au patient qui obtient le plus de points selon le système défini à l’annexe 2.
 
-[^15a-1]: Introduit par le ch. I de l’O du DFI du 17 sept. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Nouvelle teneur selon le ch. I de l’O du DFI du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15a-1]: Introduit par le ch. I de l’O du DFI du 17 sept. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 16
 
@@ -443,7 +473,7 @@ Lorsque plusieurs patients ne présentent pas d’urgence médicale, l’intesti
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2007.
 
-## Dispositions transitoires de la modification du 3 novembre 2010****
+## Dispositions transitoires de la modification du 3 novembre 2010
 
 [^u1-1]
 
@@ -453,7 +483,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2007.
 
 <sup>2</sup> Dans le système de points selon l’annexe 2, jusqu’à l’entrée en vigueur de la présente modification, un point est attribué par mois d’attente précédant le début de la dialyse aux patients figurant sur la liste d’attente ou dont l’inscription n’a pas été effectuée en temps voulu au sens de l’art. 3, al. 2.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 11 à 11*b*)
 
@@ -493,36 +523,55 @@ Annexe 1*[^t-1]*
 - 8\. Pour les patients mentionnés au ch. 7, le nombre de points est calculé en plus selon les ch. 3 ou 5. Pour l’attribution d’un foie, c’est le nombre de points le plus élevé selon les ch. 3 et 5 à 7 qui est déterminant.
 - 9\. Si le nombre de points calculé selon les ch. 3 à 8 ne reflète pas correctement l’urgence de la transplantation, le service national des attributions le calcule au cas par cas, après consultation d’experts.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 15*a*)
 
 ## Système de points pour l’attribution d’un rein
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 23 mai 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Mise à jour selon le ch. II al. 2 de l’O du DFI du 12 mai 2015 ([RO 2015 1429](https://fedlex.data.admin.ch/eli/oc/2015/296)) et le ch. II al. 1 de l’O du du DFI du 19 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
+### 1 Critères d’attribution et calcul du nombre de points
+
+-
+
+  Pour chaque patient, le nombre de points décisif pour l’attribution d’un rein selon l’art. 15*a* est calculé sur la base des critères suivants, qui s’additionnent:
+
+  - a. la compatibilité au niveau du locus HLA;
+  - b. la valeur calculée d’anticorps réactifs sur le panel;
+  - c. le temps d’attente.
+
+### 2 Compatibilité au niveau du locus HLA
 
 <table>
 <tr><th>Critères</th><th>Points</th></tr>
-<tr><td>Pour chaque compatibilité au niveau du locus HLA-DR</td><td>12</td></tr>
+<tr><td>Pour chaque compatibilité au niveau du locus HLA-DR</td><td>8</td></tr>
+<tr><td>Pour chaque compatibilité au niveau du locus HLA-DQ</td><td>8</td></tr>
 <tr><td>Pour chaque compatibilité au niveau du locus HLA-B</td><td>4</td></tr>
 <tr><td>Pour chaque compatibilité au niveau du locus HLA-A</td><td>4</td></tr>
+</table>
+
+### 3 Valeur calculée d’anticorps réactifs sur le panel
+
+- 3\.1 La valeur calculée d’anticorps réactifs sur le panel correspond au pourcentage de tous les donneurs enregistrés dans le *Swiss Organ Allocation System* (SOAS) contre lesquels un patient possède des anticorps anti-HLA préformés. Cette valeur doit être calculée individuellement pour chaque patient. Pour ce faire, il est tenu compte des loci listés ci-dessus et des loci HLA-C et HLA-DP.
+- 3\.2 Pour la valeur calculée d’anticorps réactifs sur le panel, un nombre de points doit être attribué à chaque patient. Il est calculé selon la formule suivante:
+- Nombre de points = 160 × (valeur calculée d’anticorps réactifs sur le panel)<sup>3</sup>
+
+### 4 Temps d’attente
+
+<table>
+<tr><th>Critères</th><th>Points</th></tr>
 <tr><td>Temps d’attente (par mois) dès l’inscription sur la liste d’attente, sans dialyse</td><td>0,75</td></tr>
 <tr><td>Temps d’attente (par mois) depuis le début de la dialyse</td><td>1,5</td></tr>
 </table>
 
-<sup>1</sup> Pour chaque patient, il faut calculer le pourcentage de tous les donneurs enregistrés dans la banque de données du service national des attributions contre lesquels il possède des anticorps anti-HLA préformés (calcul du pourcentage des anticorps réactifs sur le panel).
-
-<sup>2</sup> Pour chaque patient, un nombre de points doit être calculé selon la formule suivante, basée sur le pourcentage d’anticorps réactifs sur le panel:
-
-Nombre de points = 84 × x<sup>2</sup> (x = pourcentage d’anticorps réactifs sur le panel).
-
-Annexe 2a*[^t-3]*
+Annexe 2a[^t-3]
 
 (art. 18)
 
 ## Système de points pour l’attribution d’un pancréas ou d’îlots pancréatiques
 
-[^t-3]: Introduit par le ch. II al. 2 de l’O du DFI du 23 mai 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Nouvelle teneur selon le ch. II al. 2 de l’O du du DFI du 19 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^t-3]: Introduit par le ch. II al. 2 de l’O du DFI du 23 mai 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Nouvelle teneur selon le ch. II al. 2 de l’O du du DFI du 19 oct. 2017 ([RO 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)). Mise à jour par le ch. II al. 2 de l’O du DFI du 5 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### 1 Critères d’attribution et calcul du nombre de points
 
@@ -531,7 +580,7 @@ Annexe 2a*[^t-3]*
   Pour chaque patient, le nombre de points décisif pour l’attribution d’un pancréas ou d’îlots pancréatiques selon l’art. 18 est calculé sur la base des critères suivants, qui s’additionnent:
 
   - a. la compatibilité au niveau du locus HLA;
-  - b. le pourcentage d’anticorps réactifs sur le panel;
+  - b. la valeur calculée d’anticorps réactifs sur le panel;
   - c. le temps d’attente et d’éventuelles transplantations antérieures;
   - d. le tour de ventre et l’âge du donneur.
 
@@ -544,11 +593,11 @@ Annexe 2a*[^t-3]*
 <tr><td>Pour chaque compatibilité au niveau du locus HLA-A</td><td>100</td></tr>
 </table>
 
-### 3 Pourcentage d’anticorps réactifs sur le panel
+### 3 Valeur calculée d’anticorps réactifs sur le panel
 
-- 3\.1 Pour chaque patient, il faut calculer le pourcentage de tous les donneurs enregistrés dans la banque de données du service national des attributions contre lesquels il possède des anticorps anti-HLA préformés (calcul du pourcentage des anticorps réactifs sur le panel).
-- 3\.2 Pour chaque patient, un nombre de points doit être calculé selon la formule suivante, basée sur le pourcentage d’anticorps réactifs sur le panel:
-- Nombre de points = (pourcentage d’anticorps réactifs sur le panel)<sup>3</sup> ÷ 1000.
+- 3\.1 La valeur calculée d’anticorps réactifs sur le panel correspond au pourcentage de tous les donneurs enregistrés dans le *Swiss Organ Allocation System* (SOAS) contre lesquels un patient possède des anticorps anti-HLA préformés. Cette valeur doit être calculée individuellement pour chaque patient. Pour ce faire, il est tenu compte des loci listés ci-dessus et des loci HLA-C, HLA-DQ et HLA-DP.
+- 3\.2 Pour la valeur calculée d’anticorps réactifs sur le panel, un nombre de points doit être attribué à chaque patient. Il est calculé selon la formule suivante:
+- Nombre de points = (valeur calculée d’anticorps réactifs sur le panel)<sup>3</sup> ÷ 1000
 
 ### 4 Temps d’attente et éventuelles transplantations antérieures
 
@@ -564,7 +613,9 @@ Annexe 2a*[^t-3]*
 - 4\.2 Pour la première transplantation d’un pancréas ou d’îlots pancréatiques sans dialyse préalable, le nombre de points est calculé selon la formule suivante:
 - Nombre de points = (temps d’attente en jours)<sup>2</sup> ÷ 365
 - 4\.3 Après le début de la dialyse, le nombre de points est calculé selon la formule suivante:
-- Nombre de points = 2 x (temps d’attente en jours)<sup>2</sup> ÷ 365
+- Nombre de points = ((TASD + TAAD)<sup>2</sup> + TAAD<sup>2</sup>) ÷ 365
+- TASD = temps d’attente en jours sans dialyse
+- TAAD = temps d’attente en jours avec dialyse
 
 ### 5 Tour de ventre du donneur ou de la donneuse
 

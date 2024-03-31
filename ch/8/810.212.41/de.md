@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: Verordnung des EDI vom 2. Mai 2007 über die Zuteilung von Organen zur Transplantation (Organzuteilungsverordnung EDI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: de
-version: 2021-12-01
+version: 2024-04-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-282-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/de"
 
 (Organzuteilungsverordnung EDI)
 
-vom 2. Mai 2007 (Stand am 1. Dezember 2021)
+vom 2. Mai 2007 (Stand am 1. April 2024)
 
 Das Eidgenössische Departement des Innern,
 
@@ -32,7 +32,7 @@ verordnet:
 
 Im Sinne dieser Verordnung gelten als:
 
-- a.[^1-1] ...
+- a.[^1-1] …
 - b.[^1-2] *präformierte Anti-HLA-Antikörper:* im Blut zirkulierende körpereigene Abwehrstoffe, die gegen körperfremde menschliche Zellen gerichtet sind und im Falle einer Transplantation zur Zerstörung des transplantierten Organs führen können;
 - c. *HLA-Locus:* der Genort der Gewebemerkmale.
 
@@ -94,11 +94,12 @@ Wird die Beschwerde einer Patientin oder eines Patienten gegen einen Entscheid d
 
 <sup>4</sup> Ist die Transplantation einer Niere indiziert, so beträgt die anrechenbare Wartezeit ohne Dialyse höchstens 18 Monate.
 
-<sup>5</sup> Ist die Transplantation eines Herzens indiziert, so beträgt die anrechenbare Wartezeit höchstens zwei Jahre.
+<sup>5</sup> …[^3a-2]
 
 <sup>6</sup> Die Wartezeit auf einer Warteliste im Ausland wird angerechnet, wenn die Patientin oder der Patient eine schriftliche Bestätigung der zuständigen ausländischen Stelle über die betreffende Zeit vorlegt; die Absätze 4 und 5 bleiben vorbehalten.
 
 [^3a-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Okt. 2017, in Kraft seit 15. Nov 2017 ([AS 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^3a-2]: Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### 2. Abschnitt: Zuteilung von Herzen
 
@@ -168,7 +169,7 @@ Liegt keine medizinische Dringlichkeit vor, so sind Lungen wie folgt zuzuteilen:
 - c.[^8-2] an dritter Stelle Patientinnen und Patienten unter 40 Jahren, wenn die Spenderin oder der Spender weniger als 40 Jahre alt ist;
 - d.[^8-3] an vierter Stelle Patientinnen und Patienten mit pulmonaler Fibrose.
 
-<sup>2</sup> ...[^8-4]
+<sup>2</sup> …[^8-4]
 
 [^8-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 [^8-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
@@ -293,7 +294,7 @@ Eine unmittelbare Bedrohung des Lebens liegt namentlich vor bei Patientinnen und
 
 #### Art. 13a
 
-**Übereinstimmung der Blutgruppe und des Alters**[^13a-1]
+**Übereinstimmung des Alters und der Blutgruppe[^13a-2]**[^13a-1]
 
 <sup>1</sup>
 
@@ -313,7 +314,16 @@ Ist die Spenderin oder der Spender mehr als 60 Jahre alt, so sind Nieren wie fol
 - c. an dritter Stelle Patientinnen und Patienten unter 20 Jahren, wenn ihre Blutgruppe mit derjenigen der Spenderin oder des Spenders identisch ist;
 - d. an vierter Stelle Patientinnen und Patienten unter 20 Jahren, wenn ihre Blutgruppe mit derjenigen der Spenderin oder des Spenders kompatibel ist.
 
+<sup>3</sup>
+
+Die folgenden Konstellationen sind innerhalb derselben Altersgruppe gleich zu berücksichtigen wie jene mit identischer Blutgruppe (Abs. 1 Bst. a und c sowie 2 Bst. a und c):
+
+- a. Die Blutgruppe der Spenderin oder des Spenders ist 0, die Blutgruppe der Patientin oder des Patienten B und der Wert ihrer oder seiner kalkulierten Panel-reaktiven Antikörper (Anh. 2 Ziff. 3.1) beträgt mehr als 98 Prozent.
+- b. Die Blutgruppe der Spenderin oder des Spenders ist A, die Blutgruppe der Patientin oder des Patienten AB und der Wert ihrer oder seiner kalkulierten Panel-reaktiven Antikörper (Anh. 2 Ziff. 3.1) beträgt mehr als 98 Prozent.[^13a-3]
+
 [^13a-1]: Eingefügt durch Ziff. I der V des EDI vom 17. Sept. 2008, in Kraft seit 15. Okt. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^13a-2]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+[^13a-3]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 14
 
@@ -339,21 +349,41 @@ Die Nationale Zuteilungsstelle genehmigt nur spenderspezifische Anti-HLA-Antikö
 
 [^14-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
+#### Art. 14a
+
+**Berücksichtigung des Alters und des Werts der kalkulierten Panel‑reaktiven Antikörper**[^14a-1]
+
+<sup>1</sup>
+
+Ist die Spenderin oder der Spender unter 30 Jahre alt, so sind Nieren in vierter Priorität wie folgt zuzuteilen:
+
+- a. Patientinnen und Patienten zwischen 20 und 59 Jahren; oder
+- b. Patientinnen und Patienten ab 60 Jahren, deren Wert der kalkulierten Panel-reaktiven Antikörper (Anh. 2 Ziff. 3.1) mehr als 98 Prozent beträgt.
+
+<sup>2</sup>
+
+Ist die Spenderin oder der Spender 80 Jahre alt oder älter, so sind Nieren wie folgt zuzuteilen:
+
+- a. Patientinnen und Patienten ab 60 Jahren; oder
+- b. Patientinnen und Patienten unter 60 Jahren, deren Wert der kalkulierten Panel-reaktiven Antikörper (Anh. 2 Ziff. 3.1) mehr als 98 Prozent beträgt.
+
+[^14a-1]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
 #### Art. 15
 
 **Infektionsstatus**[^15-1]
 
-Werden Spenderinnen und Spender auf das Epstein-Barr-Virus negativ getestet, so werden Nieren in vierter Priorität Patientinnen und Patienten zugeteilt, die auf das Epstein-Barr-Virus ebenfalls negativ getestet wurden.
+Werden Spenderinnen und Spender auf das Epstein-Barr-Virus negativ getestet, so werden Nieren in fünfter Priorität Patientinnen und Patienten zugeteilt, die auf das Epstein-Barr-Virus ebenfalls negativ getestet wurden.
 
-[^15-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15-1]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 15a
 
 **Zuteilung nach Punktesystem**[^15a-1]
 
-Nieren sind in fünfter Priorität Patientinnen und Patienten zuzuteilen, denen nach Anhang 2 die meisten Punkte zugeordnet wurden.
+Nieren sind in sechster Priorität Patientinnen und Patienten zuzuteilen, denen nach Anhang 2 die meisten Punkte zugeordnet wurden.
 
-[^15a-1]: Eingefügt durch Ziff. I der V des EDI vom 17. Sept. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Fassung gemäss Ziff. I der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15a-1]: Eingefügt durch Ziff. I der V des EDI vom 17. Sept. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 16
 
@@ -442,7 +472,7 @@ Liegt bei mehreren Patientinnen und Patienten keine medizinische Dringlichkeit v
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 3. November 2010****
+## Übergangsbestimmung zur Änderung vom 3. November 2010
 
 [^u1-1]
 
@@ -452,7 +482,7 @@ Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
 <sup>2</sup> Patientinnen und Patienten, die bereits in die Warteliste aufgenommen worden sind oder bei denen die rechtzeitige Aufnahme nach Artikel 3 Absatz 2 unterblieben ist, wird bis zum Inkrafttreten dieser Änderung im Punktesystem nach Anhang 2 pro Monat Wartezeit vor Beginn der Dialyse 1 Punkt zugeordnet.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 11–11*b*)
 
@@ -492,45 +522,64 @@ Anhang 1*[^t-1]*
 - 8\. Für Patientinnen und Patienten nach Ziffer 7 ist die Punktezahl zusätzlich nach Ziffer 3 oder 5 zu ermitteln. Für die Zuteilung der Leber ist der höchste nach den Ziffern 3 und 5–7 ermittelte Punktewert massgebend.
 - 9\. Geben die nach den Ziffern 3–8 ermittelten Punkte die Dringlichkeit der Transplantation nicht korrekt wieder, so legt die Nationale Zuteilungsstelle nach Konsultation von Expertinnen und Experten die Punktezahl im Einzelfall fest.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 15*a*)
 
 ## Punktesystem für die Zuteilung von Nieren
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 23. Mai 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 12. Mai 2015 ([AS 2015 1429](https://fedlex.data.admin.ch/eli/oc/2015/296)) und Ziff. II Abs. 1 der V des EDI vom 19. Okt. 2017, in Kraft seit 15. Nov 2017 ([AS 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
-
-<table>
-<tr><th>Kriterien</th><th>Punkte</th></tr>
-<tr><td>für jede Übereinstimmung auf dem HLA-DR-Locus</td><td>12</td></tr>
-<tr><td>für jede Übereinstimmung auf dem HLA-B-Locus</td><td>4</td></tr>
-<tr><td>für jede Übereinstimmung auf dem HLA-A-Locus</td><td>4</td></tr>
-<tr><td>Wartezeit pro Monat seit der Aufnahme in die Warteliste ohne Dialyse</td><td>0,75</td></tr>
-<tr><td>Wartezeit pro Monat seit Beginn der Dialyse</td><td>1,5</td></tr>
-</table>
-
-<sup>1</sup> Für jede Patientin und jeden Patienten ist der prozentuale Anteil aller in der Datenbank der Nationalen Zuteilungsstelle erfassten Spenderinnen und Spender zu ermitteln, gegen die sie oder er präformierte Anti-HLA-Antikörper hat (kalkulierte Panel-reaktive Antikörper).
-
-<sup>2</sup> Für die kalkulierten Panel-reaktiven Antikörper ist für jede Patientin und jeden Patienten eine Punktezahl nach folgender Formel zu berechnen:
-
-Punktezahl = 84 × x<sup>2</sup> (x = kalkulierte Panel-reaktive Antikörper)
-
-Anhang 2a*[^t-3]*
-
-(Art. 18)
-
-## Punktesystem für die Zuteilung von Bauchspeicheldrüsen und Inseln
-
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 19. Okt. 2017, in Kraft seit 15. Nov 2017 ([AS 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### 1 Kriterien und Berechnung der Punkte
 
 -
 
-  Die für die Zuteilung von Bauchspeicheldrüsen und Inseln nach Artikel 18 relevanten Punkte sind für jede Patientin und jeden Patienten aus den folgenden Kriterien zu berechnen und anschliessend zu addieren:
+  Die für die Zuteilung von Nieren nach Artikel 15*a* relevanten Punkte sind für jede Patientin und jeden Patienten gestützt auf die folgenden Kriterien zu berechnen und anschliessend zu addieren:
 
   - a. Übereinstimmung auf dem HLA-Locus;
-  - b. prozentualer Anteil der kalkulierten Panel-reaktiven Antikörper;
+  - b. Wert der kalkulierten Panel-reaktiven Antikörper;
+  - c. Wartezeit.
+
+### 2 Übereinstimmung auf dem HLA-Locus
+
+<table>
+<tr><th>Kriterien</th><th>Punkte</th></tr>
+<tr><td>für jede Übereinstimmung auf dem HLA-DR-Locus</td><td>8</td></tr>
+<tr><td>für jede Übereinstimmung auf dem HLA-DQ-Locus</td><td>8</td></tr>
+<tr><td>für jede Übereinstimmung auf dem HLA-B-Locus</td><td>4</td></tr>
+<tr><td>für jede Übereinstimmung auf dem HLA-A-Locus</td><td>4</td></tr>
+</table>
+
+### 3 Wert der kalkulierten Panel-reaktiven Antikörper
+
+- 3\.1 Der Wert der kalkulierten Panel-reaktiven Antikörper entspricht dem prozentualen Anteil aller im Swiss Organ Allocation System (SOAS) erfassten Spenderinnen und Spender, gegen die eine Patientin oder ein Patient präformierte Anti-HLA-Antikörper aufweist. Dieser Wert ist für jede Patientin und jeden Patienten individuell zu berechnen. Dabei werden die oben aufgeführten Loci sowie zusätzlich der HLA-C- und der HLA-DP-Locus berücksichtigt.
+- 3\.2 Für den Wert der kalkulierten Panel-reaktiven Antikörper ist für jede Patientin und jeden Patienten eine Punktezahl zu vergeben. Diese ist nach folgender Formel zu berechnen:
+- Punktezahl = 160 × (Wert der kalkulierten Panel-reaktiven Antikörper)<sup>3</sup>
+
+### 4 Wartezeit
+
+<table>
+<tr><th>Kriterien</th><th>Punkte</th></tr>
+<tr><td>Wartezeit pro Monat seit der Aufnahme in die Warteliste ohne Dialyse</td><td>0,75</td></tr>
+<tr><td>Wartezeit pro Monat seit Beginn der Dialyse</td><td>1,5</td></tr>
+</table>
+
+Anhang 2a[^t-3]
+
+(Art. 18)
+
+## Punktesystem für die Zuteilung von Bauchspeicheldrüsen und Inseln
+
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 23. Mai 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 19. Okt. 2017 ([AS 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
+### 1 Kriterien und Berechnung der Punkte
+
+-
+
+  Die für die Zuteilung von Bauchspeicheldrüsen und Inseln nach Artikel 18 relevanten Punkte sind für jede Patientin und jeden Patienten gestützt auf die folgenden Kriterien zu berechnen und anschliessend zu addieren:
+
+  - a. Übereinstimmung auf dem HLA-Locus;
+  - b. Wert der kalkulierten Panel-reaktiven Antikörper;
   - c. Wartezeit und allfällige frühere Transplantationen;
   - d. Bauchumfang und Alter der Spenderin oder des Spenders.
 
@@ -543,11 +592,11 @@ Anhang 2a*[^t-3]*
 <tr><td>Für jede Übereinstimmung auf dem HLA-A-Locus</td><td>100</td></tr>
 </table>
 
-### 3 Prozentualer Anteil der kalkulierten Panel-reaktiven Antikörper
+### 3 Wert der kalkulierten Panel-reaktiven Antikörper
 
-- 3\.1 Für jede Patientin und jeden Patienten ist der prozentuale Anteil aller in der Datenbank der Nationalen Zuteilungsstelle erfassten Spenderinnen und Spender zu ermitteln, gegen die sie oder er präformierte Anti-HLA-Antikörper hat (kalkulierte Panel-reaktive Antikörper).
-- 3\.2 Für die kalkulierten Panel-reaktiven Antikörper ist für jede Patientin und jeden Patienten eine Punktezahl nach folgender Formel zu berechnen:
-- Punktezahl = (kalkulierte Panel-reaktive Antikörper)<sup>3</sup> ÷ 1000
+- 3\.1 Der Wert der kalkulierten Panel-reaktiven Antikörper entspricht dem prozentualen Anteil aller im Swiss Organ Allocation System (SOAS) erfassten Spenderinnen und Spender, gegen die eine Patientin oder ein Patient präformierte Anti-HLA-Antikörper aufweist. Dieser Wert ist für jede Patientin und jeden Patienten individuell zu berechnen. Dabei werden die oben aufgeführten Loci sowie zusätzlich der HLA-C-, der HLA-DQ- und der HLA-DP-Locus berücksichtigt.
+- 3\.2 Für den Wert der kalkulierten Panel-reaktiven Antikörper ist für jede Patientin und jeden Patienten eine Punktezahl zu vergeben. Diese ist nach folgender Formel zu berechnen:
+- Punktezahl = (Wert der kalkulierten Panel-reaktiven Antikörper)<sup>3</sup> ÷ 1000
 
 ### 4 Wartezeit und allfällige frühere Transplantationen
 
@@ -563,7 +612,9 @@ Anhang 2a*[^t-3]*
 - 4\.2 Für die erstmalige Transplantation einer Bauchspeicheldrüse oder der Inseln ohne vorherige Dialyse ist die Punktezahl nach folgender Formel zu berechnen:
 - Punktezahl = (Wartezeit in Tagen)<sup>2</sup> ÷ 365
 - 4\.3 Nach Beginn der Dialyse ist die Punktezahl nach folgender Formel zu berechnen:
-- Punktezahl = 2 × (Wartezeit in Tagen)<sup>2</sup> ÷ 365
+- Punktezahl = ((WzoD + WzmD)<sup>2</sup> + WzmD<sup>2</sup>) ÷ 365
+- WzoD = Wartezeit in Tagen ohne Dialyse
+- WzmD = Wartezeit in Tagen mit Dialyse
 
 ### 5 Bauchumfang der Spenderin oder des Spenders
 

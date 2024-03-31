@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: "Ordinanza del DFI del 2 maggio 2007 concernente l'attribuzione di organi per il trapianto (Ordinanza del DFI sull'attribuzione di organi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: it
-version: 2021-12-01
+version: 2024-04-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-282-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/it"
 
 (Ordinanza del DFI sull’attribuzione di organi)
 
-del 2 maggio 2007 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 2 maggio 2007 (Stato 1° aprile 2024)
 
 Il Dipartimento federale dell’interno,
 
@@ -94,11 +94,12 @@ Se il ricorso di un paziente contro una decisione di non iscrizione nella lista 
 
 <sup>4</sup> Se è indicato un trapianto di rene, il tempo d’attesa massimo computabile senza dialisi è di 18 mesi.
 
-<sup>5</sup> Se è indicato un trapianto di cuore, il tempo d’attesa massimo computabile è di due anni.
+<sup>5</sup> ...[^3a-2]
 
 <sup>6</sup> Il tempo d’attesa in una lista d’attesa all’estero è computato a condizione che il paziente presenti una conferma scritta del centro estero competente relativa al periodo in questione; sono fatti salvi i capoversi 4 e 5.
 
 [^3a-1]: Introdotto dal n. I dell’O del DFI del 19 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^3a-2]: Abrogato dal n. I dell’O del DFI del 5 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### Sezione 2: Attribuzione di un cuore
 
@@ -294,7 +295,7 @@ Un rischio di mortalità elevato ai sensi dell’articolo 11 capoverso 1<sup>bis
 
 #### Art. 13a
 
-**Compatibilità del gruppo sanguigno e corrispondenza dell’età**[^13a-1]
+**Corrispondenza dell*’*età e compatibilità del gruppo sanguigno[^13a-2]**[^13a-1]
 
 <sup>1</sup>
 
@@ -314,7 +315,16 @@ Se il donatore ha più di 60 anni, il rene è attribuito:
 - c. in terzo luogo a un paziente di età inferiore a 20 anni il cui gruppo sanguigno è identico a quello del donatore;
 - d. in quarto luogo a un paziente di età inferiore a 20 anni il cui gruppo sanguigno è compatibile con quello del donatore.
 
+<sup>3</sup>
+
+All’interno dello stesso gruppo di età, si tiene conto delle seguenti situazioni in modo uguale a quelle con gruppo sanguigno identico (cpv. 1 lett. a e c nonché 2 lett. a e c):
+
+- a. il gruppo sanguigno del donatore è 0, il gruppo sanguigno del paziente è B e il valore calcolato di anticorpi reattivi al pannello (all. 2 n. 3.1) del paziente è superiore al 98 per cento;
+- b. il gruppo sanguigno del donatore è A, il gruppo sanguigno del paziente è AB e il valore calcolato di anticorpi reattivi al pannello (all. 2 n. 3.1) del paziente è superiore al 98 per cento.[^13a-3]
+
 [^13a-1]: Introdotto dal n. I dell’O del DFI del 17 set. 2008, in vigore dal 15 ott. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^13a-2]: Introdotto dal n. I dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+[^13a-3]: Introdotto dal n. I dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 14
 
@@ -340,21 +350,41 @@ Il servizio nazionale di attribuzione autorizza solo anticorpi anti-HLA donatore
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 mag. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
+#### Art. 14a
+
+**Considerazione dell*’*età e del valore calcolato di anticorpi reattivi al pannello**[^14a-1]
+
+<sup>1</sup>
+
+Se il donatore ha un’età inferiore a 30 anni, il rene è attribuito in quarta priorità:
+
+- a. a pazienti di età compresa fra 20 e 59 anni; o
+- b. a pazienti di 60 anni o più il cui valore calcolato di anticorpi reattivi al pannello (all. 2 n. 3.1) è superiore al 98 per cento.
+
+<sup>2</sup>
+
+Se il donatore ha un’età non inferiore a 80 anni, il rene è attribuito:
+
+- a. a pazienti di 60 anni o più; o
+- b. a pazienti con meno di 60 anni il cui valore calcolato di anticorpi reattivi al pannello (all. 2 n. 3.1) è superiore al 98 per cento.
+
+[^14a-1]: Introdotto dal n. I dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
 #### Art. 15
 
 **Stato infettivo**[^15-1]
 
-Se i donatori sono risultati negativi al test del virus Epstein-Barr, il rene è attribuito in quarta priorità ai pazienti risultati parimenti negativi al test del virus Epstein-Barr.
+Se i donatori sono risultati negativi al test del virus Epstein-Barr, il rene è attribuito in quinta priorità ai pazienti risultati parimenti negativi al test del virus Epstein-Barr.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 mag. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 15a
 
 **Attribuzione secondo un sistema a punti**[^15a-1]
 
-Il rene va attribuito in quinta priorità ai pazienti che hanno ottenuto il maggior numero di punti secondo l’allegato 2.
+Il rene è attribuito in sesta priorità ai pazienti che hanno ottenuto il maggior numero di punti secondo l’allegato 2.
 
-[^15a-1]: Introdotto dal n. I dell’O del DFI del 17 set. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Nuovo testo giusta il n. I dell’O del DFI del 23 mag. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^15a-1]: Introdotto dal n. I dell’O del DFI del 17 set. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)). Nuovo testo giusta il n. I dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 #### Art. 16
 
@@ -443,7 +473,7 @@ Se più pazienti non presentano un’urgenza medica, l’intestino tenue è attr
 
 La presente ordinanza entra in vigore il 1° luglio 2007.
 
-## Disposizione transitoria della modifica del 3 novembre 2010****
+## Disposizione transitoria della modifica del 3 novembre 2010
 
 [^u1-1]
 
@@ -453,7 +483,7 @@ La presente ordinanza entra in vigore il 1° luglio 2007.
 
 <sup>2</sup> I pazienti già iscritti nella lista d’attesa o la cui iscrizione non è avvenuta tempestivamente secondo l’articolo 3 capoverso 2 ottengono nel sistema a punti secondo l’allegato 2 un punto per mese di tempo d’attesa prima dell’inizio della dialisi, fino all’entrata in vigore della presente modifica.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 11–11*b*)
 
@@ -493,45 +523,64 @@ Allegato 1*[^t-1]*
 - 8\. Per i pazienti di cui al numero 7, il numero di punti deve essere inoltre determinato secondo il numero 3 o 5. Per l’attribuzione del fegato, fa stato il punteggio massimo determinato secondo i numeri 3 e 5–7.
 - 9\. Se i punti determinati secondo i numeri 3–8 non rispecchiano correttamente l’urgenza del trapianto, il Centro nazionale di attribuzione stabilisce nel singolo caso il numero di punti, previa consultazione di esperti.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 15*a*)
 
 ## Sistema a punti per l’attribuzione di un rene
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 23 mag. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 12 mag. 2015 ([RU 2015 1429](https://fedlex.data.admin.ch/eli/oc/2015/296)) e dal n. II cpv. 1 dell’O del DFI del 19 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
-
-<table>
-<tr><td>Criteri</td><td>Punti</td></tr>
-<tr><td>Per ogni compatibilità con il locus HLA-DR</td><td>12</td></tr>
-<tr><td>Per ogni compatibilità con il locus HLA-B</td><td>4</td></tr>
-<tr><td>Per ogni compatibilità con il locus HLA-A</td><td>4</td></tr>
-<tr><td>Tempo d’attesa al mese a partire dall’iscrizione nella lista d’attesa senza dialisi</td><td>0,75</td></tr>
-<tr><td>Tempo d’attesa al mese dall’inizio della dialisi</td><td>1,5</td></tr>
-</table>
-
-<sup>1</sup> Per ogni paziente deve essere accertata la parte percentuale di tutti i donatori registrati nella banca dati del servizio nazionale di attribuzione, contro cui egli ha anticorpi anti-HLA preformati (pannello calcolato di anticorpi reattivi).
-
-<sup>2</sup> Per ogni pannello di anticorpi reattivi deve essere calcolato un numero di punti secondo la formula seguente:
-
-- [tab] Numero di punti = 84 × x<sup>2</sup> (x = pannello calcolato di anticorpi reattivi).
-
-Allegato 2a*[^t-3]*
-
-(art. 18)
-
-## Sistema a punti per l’attribuzione di pancreas e isole di Langerhans
-
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O del DFI del 23 mag. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 19 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
 
 ### 1 Criteri e calcolo dei punti
 
 -
 
-  I punti rilevanti per l’attribuzione di pancreas e isole di Langerhans ai sensi dell’articolo 18 devono essere calcolati per ogni paziente in base ai seguenti criteri e poi sommati:
+  I punti rilevanti per l’attribuzione di un rene ai sensi dell’articolo 15*a* devono essere calcolati per ogni paziente in base ai seguenti criteri e poi sommati:
 
   - a. compatibilità con il locus HLA;
-  - b. quota percentuale del pannello calcolato di anticorpi reattivi;
+  - b. valore calcolato di anticorpi reattivi al pannello;
+  - c. tempo d’attesa.
+
+### 2 Compatibilità con il locus HLA
+
+<table>
+<tr><th>Criteri</th><th>Punti</th></tr>
+<tr><td>Per ogni compatibilità con il locus HLA-DR</td><td>8</td></tr>
+<tr><td>Per ogni compatibilità con il locus HLA-DQ</td><td>8</td></tr>
+<tr><td>Per ogni compatibilità con il locus HLA-B</td><td>4</td></tr>
+<tr><td>Per ogni compatibilità con il locus HLA-A</td><td>4</td></tr>
+</table>
+
+### 3 Valore calcolato di anticorpi reattivi al pannello
+
+- 3\.1 Il valore calcolato di anticorpi reattivi al pannello corrisponde alla quota percentuale di tutti i donatori registrati nello Swiss Organ Allocation System (SOAS) contro cui un paziente ha anticorpi anti-HLA preformati. Questo valore deve essere calcolato individualmente per ogni paziente. Nel calcolo si tiene conto dei loci sopra indicati e, in aggiunta, del locus HLA‑C e del locus HLA‑DP.
+- 3\.2 Per il valore calcolato di anticorpi reattivi al pannello deve essere assegnato a ogni paziente un numero di punti. Esso deve essere calcolato secondo la formula seguente:
+- numero di punti = 160 × (valore calcolato di anticorpi reattivi al pannello)<sup>3</sup>
+
+### 4 Tempo d’attesa
+
+<table>
+<tr><th>Criteri</th><th>Punti</th></tr>
+<tr><td>Tempo d’attesa al mese a partire dall’iscrizione nella lista d’attesa senza dialisi</td><td>0,75</td></tr>
+<tr><td>Tempo d’attesa al mese dall’inizio della dialisi</td><td>1,5</td></tr>
+</table>
+
+Allegato 2a[^t-3]
+
+(art. 18)
+
+## Sistema a punti per l’attribuzione di pancreas e isole di Langerhans
+
+[^t-3]: Introdotto dal n. II cpv. 2 dell’O del DFI del 23 mag. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)). Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 19 ott. 2017 ([RU 2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 5 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2023 813](https://fedlex.data.admin.ch/eli/oc/2023/813)).
+
+### 1 Criteri e calcolo dei punti
+
+-
+
+  I punti rilevanti per l’attribuzione di un pancreas e di isole di Langerhans ai sensi dell’articolo 18 devono essere calcolati per ogni paziente in base ai seguenti criteri e poi sommati:
+
+  - a. compatibilità con il locus HLA;
+  - b. valore calcolato di anticorpi reattivi al pannello;
   - c. tempo d’attesa ed eventuali trapianti precedenti;
   - d. circonferenza dell’addome ed età del donatore.
 
@@ -544,11 +593,11 @@ Allegato 2a*[^t-3]*
 <tr><td>Per ogni compatibilità con il locus HLA-A</td><td>100</td></tr>
 </table>
 
-### 3 Quota percentuale del pannello calcolato di anticorpi reattivi
+### 3 Valore calcolato di anticorpi reattivi al pannello
 
-- 3\.1 Per ogni paziente deve essere accertata la quota percentuale di tutti i donatori registrati nella banca dati del servizio nazionale di attribuzione contro cui presenta anticorpi anti-HLA preformati (pannello calcolato di anticorpi reattivi).
-- 3\.2 Per ogni pannello calcolato di anticorpi reattivi deve essere calcolato per ogni paziente un numero di punti secondo la formula seguente:
-- numero di punti = (pannello calcolato di anticorpi reattivi)<sup>3</sup> ÷ 1000
+- 3\.1 Il valore calcolato di anticorpi reattivi al pannello corrisponde alla quota percentuale di tutti i donatori registrati nello Swiss Organ Allocation System (SOAS) contro cui un paziente ha anticorpi anti-HLA preformati. Questo valore deve essere calcolato individualmente per ogni paziente. Nel calcolo si tiene conto dei loci sopra indicati e, in aggiunta, del locus HLA‑C, del locus HLA‑DQ e del locus HLA‑DP.
+- 3\.2 Per il valore calcolato di anticorpi reattivi al pannello deve essere assegnato a ogni paziente un numero di punti. Esso deve essere calcolato secondo la formula seguente:
+- numero di punti = (valore calcolato di anticorpi reattivi al pannello)<sup>3</sup> ÷ 1000
 
 ### 4 Tempo d’attesa ed eventuali trapianti precedenti
 
@@ -564,7 +613,9 @@ Allegato 2a*[^t-3]*
 - 4\.2 Per il primo trapianto di pancreas o di isole di Langerhans senza precedente dialisi il numero di punti deve essere calcolato secondo la formula seguente:
 - numero di punti = (tempo d’attesa in giorni)<sup>2</sup> ÷ 365
 - 4\.3 Dopo l’inizio della dialisi il numero di punti deve essere calcolato secondo la formula seguente:
-- numero di punti = 2 × (tempo d’attesa in giorni)<sup>2</sup> ÷ 365
+- Numero di punti = ((TAsD + TAcD)<sup>2</sup> + TAcD<sup>2</sup>) ÷ 365
+- TAsD = Tempo d’attesa in giorni senza dialisi
+- TAcD = Tempo d’attesa in giorni con dialisi
 
 ### 5 Circonferenza dell’addome del donatore
 
