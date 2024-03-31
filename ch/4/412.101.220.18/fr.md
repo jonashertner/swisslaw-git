@@ -3,32 +3,34 @@ sr: "412.101.220.18"
 title: Ordonnance du SEFRI du 10 septembre 2015 sur la formation professionnelle initiale de vernisseuse industrielle/vernisseur industriel avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/778"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2015-09-10
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/778/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-778-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/778/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/778/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-778-20240401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/778/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale Vernisseuse industrielle/Vernisseur industriel avec certificat fédéral de capacité (CFC)
 
-du 10 septembre 2015 (État le 1<sup>er</sup> janvier 2018)
+du 10 septembre 2015 (État le 1<sup>er</sup> avril 2024)
 
 <table>
 <tr><td>53304</td><td>Vernisseuse industrielle CFC/Vernisseur industriel CFC Industrielackiererin EFZ/Industrielackierer EFZ Verniciatrice industriale AFC/Verniciatore industriale AFC</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI), en accord avec le Secrétariat d’Etat à l’économie (SECO),
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 11 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -112,27 +114,22 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 #### Art. 5
 
+[^5-1]
+
 <sup>1</sup> Dès le début de la formation, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement, en particulier celles relatives à la communication des dangers (symboles de danger, pictogrammes, signes d’interdiction) dans ces trois domaines.
 
-<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et sont prises en considération dans les procédures de qualification.
+<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et elles sont prises en considération dans les procédures de qualification.
 
-<sup>3</sup> Les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
+<sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux suivants:
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
-b. les travaux qui s’effectuent avec des machines, des équipements et des outils présentant des risques d’accidents dont on peut supposer que les jeunes, du fait de leur conscience insuffisante des risques ou de leur manque d’expérience ou de formation, ne peuvent ni les identifier ni les prévenir;
+<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-c. les travaux comportant des risques importants d’incendie, d’explosion, d’accident, de maladie ou d’empoisonnement;
+[^5-1]: Nouvelle teneur selon le ch. II 11 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
-a. les travaux exposant les jeunes à des agents chimiques dangereux pour la santé signalés par une phrase R conformément à l’ordonnance du 18 mai 2005 sur les produits chimiques:
-
-- 1\. substances pouvant entraîner une sensibilisation par inhalation (désignées par «S» dans la liste «Valeurs limites d’exposition aux postes de travail»; R42),
-- 2\. substances pouvant entraîner une sensibilisation par inhalation (désignées par «S» dans la liste «Valeurs limites d’exposition aux postes de travail»; R43),
-- 3\. substances risquant d’avoir des effets graves pour la santé en cas d’exposition prolongée; (R48);
-
-<sup>5</sup> Cette dérogation, qui s’applique à une occupation selon l’al. 4, présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques élevés; ces dispositions particulières sont définies dans le plan de formation en tant que mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
-
-## Section 4 Etendue de la formation dans les différents lieux de formation et langue d’enseignement
+## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 6
 
@@ -142,7 +139,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 #### Art. 7
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1080 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
@@ -226,12 +223,9 @@ Le plan de formation:
 
 - b. détaille les contenus de la formation initiale et les dispositions en matière de sécurité au travail, de protection de la santé et de protection de l’environnement, et définit quelles compétences opérationnelles sont transmises et acquises dans chaque lieu de formation;
 
-<sup>3</sup>
+<sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à promouvoir la qualité de la formation professionnelle initiale avec indication des sources.[^9-1]
 
-Sont annexées au plan de formation:
-
-- a. la liste des instruments servant à promouvoir la qualité de la formation professionnelle initiale avec indication des organes de diffusion;
-- b. les mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+[^9-1]: Nouvelle teneur selon le ch. III 2 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 6 Exigences minimales posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -274,11 +268,11 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 **Rapport de formation**
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs liés aux mesures fixées ne sont pas atteints ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -314,7 +308,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 17
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -352,7 +346,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
 
 La procédure de qualification avec examen final est réussie si:
 
-- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4; et
+- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4, et
 - b. la note globale est supérieure ou égale à 4.
 
 <sup>2</sup> La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée.
