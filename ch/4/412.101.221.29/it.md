@@ -3,18 +3,18 @@ sr: "412.101.221.29"
 title: Ordinanza della SEFRI del 1° giugno 2010 sulla formazione professionale di base Ceramista con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/391"
 language: it
-version: 2020-03-03
+version: 2024-04-01
 adopted: 2010-06-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/391/20200303/it/xml/fedlex-data-admin-ch-eli-cc-2010-391-20200303-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/391/20200303/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/391/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2010-391-20240401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/391/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza della SEFRI**** sulla formazione professionale di base Ceramista con attestato federale di capacità (AFC)
+# Ordinanza della SEFRI sulla formazione professionale di base Ceramista con attestato federale di capacità (AFC)
 
-del 1° giugno 2010 (Stato 3 marzo 2020) (Stato 3 marzo 2020)[^t-1]
+del 1° giugno 2010 (Stato 1° aprile 2024)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
@@ -24,14 +24,15 @@ del 1° giugno 2010 (Stato 3 marzo 2020) (Stato 3 marzo 2020)[^t-1]
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-4]
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -115,11 +116,12 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^7-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -162,7 +164,7 @@ Il piano di formazione:
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
-[^10-2]: Il piano del 1° giugno 2010 (stato al 20 novembre 2019) è disponibile sul sito SEFRI nell’elenco delle professioni: http://www.bvz.admin.ch &gt; Professioni A–Z.
+[^10-2]: Il piano del 1° giugno 2010 (stato al 20 novembre 2019) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 #### Art. 11
 
@@ -172,7 +174,7 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 
 [^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda****
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
 [^sec6-1]
 
@@ -210,7 +212,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 [^13-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
 
-## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni****
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
@@ -406,8 +408,6 @@ Essa svolge in particolare i compiti seguenti:
 #### Art. 24
 
 **Diritto previgente: abrogazione**
-
-<sup>1</sup>
 
 Sono abrogati:
 
