@@ -1,154 +1,142 @@
 ---
 canton: GR
 number: "177.110"
-title: "Ordinanza sull'eConto"
-short: OeC
+title: "Ordinanza relativa alla legge sull'amministrazione digitale"
+short: OLADig
 language: it
-version: 2023-06-01
-valid_until: 2024-03-31
-version_adopted: 2023-05-09
+version: 2024-04-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-05
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/177.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3319/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3363/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sull'eConto
+# Ordinanza relativa alla legge sull'amministrazione digitale
 
-(OeC)
+(OLADig)
 
-del 09.05.2023 (stato 01.06.2023)
+del 05.03.2024 (stato 01.04.2024)
 
-emanata dal Governo il 9 maggio 2023
+emanata dal Governo il 5 marzo 2024
 
 visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 [^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
-## 1. Disposizioni generali
+## 1. Esternalizzazione
 
 #### Art. 1
 
-**Oggetto**
+**Esternalizzazione 1. Responsabilità**
 
-<sup>1</sup> La presente ordinanza disciplina l'organizzazione, l'esercizio e l'utilizzo nonché la procedura per la creazione di un eConto centrale.
+<sup>1</sup> L'autorità amministrativa che esternalizza l'elaborazione di dati o la gestione di soluzioni informatiche rimane responsabile per il rispetto dei requisiti posti alla protezione e alla sicurezza dei dati.
 
-<sup>2</sup> Essa garantisce il rispetto dei principi in materia di protezione dei dati.
+<sup>2</sup> Se l'esternalizzazione coinvolge più autorità, deve essere designata un'autorità che funga da responsabile principale.
 
 #### Art. 2
 
-**Definizioni**
+**2. Requisiti**
 
-<sup>1</sup> Nella presente ordinanza, le seguenti espressioni significano:
+<sup>1</sup> Tramite un accordo, una condizione o in un altro modo idoneo devono essere disciplinati almeno i seguenti punti:
 
-- a) eConto: account digitale per il ricorso a diversi servizi con i medesimi dati di accesso;
-- b) utente: persona fisica che dispone di un eConto;
-- c) servizio: attività fornita o risultato fornito da un'autorità specializzata in seguito a una procedura avviata dall'autorità specializzata o dall'utente;
-- d) autorità specializzata: unità dell'Amministrazione cantonale;
-- e) applicazione specifica: applicazione informatica dell'autorità specializzata;
-- f) dati dell'account: dati salvati nell'eConto;
-- g) rappresentante dell'impresa: utente che rappresenta un'impresa nei confronti del sistema e può delegare altri utenti.
+- a) contenuto del servizio;
+- b) salvaguardia del segreto d'ufficio nonché di obblighi particolari di serbare il segreto;
+- c) responsabilità;
+- d) provvedimenti tecnici e organizzativi per salvaguardare la protezione dei dati e la sicurezza dei dati;
+- e) luogo dell'elaborazione di dati;
+- f) possibilità di comprova e audit;
+- g) coinvolgimento di terzi;
+- h) rimpatrio e cancellazione dei dati.
+
+## 2. Servizi di base
 
 #### Art. 3
 
-**eConto**
+**Servizi di base**
 
-<sup>1</sup> L'eConto consente di usufruire di servizi delle autorità specializzate con gli stessi dati dell'account. Esso garantisce una sufficiente autenticazione degli utenti.
+<sup>1</sup> Sono considerati servizi di base:
 
-<sup>2</sup> I servizi di cui è possibile usufruire tramite l'eConto rimangono disponibili in forma non elettronica.
+- a) un portale per servizi delle autorità e per l'interazione con le autorità (portale di e-government);
+- b) un eConto e la gestione centralizzata delle identità degli utenti (Identity and Access Management);
+- c) un servizio per la firma elettronica di documenti che necessitano di una firma (servizio di firma);
+- d) servizi per lo scambio di comunicazioni e di documenti con le autorità tramite il portale di e-government (piattaforma di trasmissione);
+- e) un servizio per l'allestimento e la gestione centralizzati e uniformi di moduli web per la fornitura di servizi tramite il portale di e-government o tramite un sito web (servizio moduli).
 
 #### Art. 4
 
-**Costi**
+**Integrazione di servizi esistenti**
 
-<sup>1</sup> Il Cantone si assume i costi per lo sviluppo e l'esercizio dell'eConto.
+<sup>1</sup> Servizi esistenti tramite internet possono continuare a essere forniti nella loro forma attuale. Essi devono essere offerti anche tramite il portale di e-government, nella misura in cui ciò sia sensato e fattibile dal punto di vista tecnico.
 
-<sup>2</sup> La creazione e l'utilizzo dell'eConto da parte degli utenti sono gratuiti.
+## 3. Portale di e-government
 
-<sup>3</sup> I costi per i mezzi di identificazione elettronica riconosciuti di altri offerenti sono a carico degli utenti.
-
-<sup>4</sup> Se tramite l'eConto vengono forniti servizi a pagamento nelle applicazioni specifiche, l'assunzione dei costi si orienta alle corrispondenti disposizioni sulle tasse.
-
-## 2. Competenze
+### 3.1. Competenze
 
 #### Art. 5
 
-**Cancelleria dello Stato**
+**Unità amministrativa competente**
 
-<sup>1</sup> La Cancelleria dello Stato garantisce l'esercizio amministrativo dell'eConto e gestisce i rapporti con gli utenti.
+<sup>1</sup> L'unità di gestione per l'amministrazione digitale è l'unità amministrativa competente per l'esercizio amministrativo del portale di e-government e per i relativi servizi di base.
 
 #### Art. 6
 
-**Ufficio d'informatica**
+**Unità amministrativa competente per l'informatica**
 
-<sup>1</sup> L'Ufficio d'informatica è responsabile per l'esercizio tecnico, la manutenzione e l'ulteriore sviluppo tecnico dell'eConto.
+<sup>1</sup> L'Ufficio d'informatica è l'unità amministrativa competente per l'informatica.
 
-<sup>2</sup> Esso adotta i provvedimenti tecnici e organizzativi necessari per la protezione dei dati e per la protezione da accessi da parte di terzi non autorizzati.
+### 3.2. eConto
 
 #### Art. 7
 
-**Autorità specializzate**
+**Apertura**
 
-<sup>1</sup> Le autorità specializzate sono responsabili per l'elaborazione dei propri dati conformemente alla legislazione speciale applicabile nel caso concreto.
+<sup>1</sup> L'apertura di un eConto avviene tramite un modulo elettronico.
 
-<sup>2</sup> Esse definiscono il bisogno di protezione dei dati elaborati in relazione ai servizi sulla base delle direttive in materia di protezione dei dati e di sicurezza delle informazioni.
+<sup>2</sup> Per l'apertura di un eConto devono essere indicati almeno i dati dell'account conformemente all'articolo 17 capoverso 1 lettera a - lettera e della legge sull'amministrazione digitale[^7-1].
 
-<sup>3</sup> Se nella fornitura di un servizio sono coinvolte diverse autorità specializzate, esse disciplinano le responsabilità.
+<sup>3</sup> Ogni utente può disporre di un solo eConto.
 
-## 3. eConto
+[^7-1]: CSC [177.100](https://www.gr-lex.gr.ch/data/177.100/it)
 
 #### Art. 8
 
-**Apertura**
+**Controllo di eventuali doppioni**
 
-<sup>1</sup> La domanda di apertura di un eConto avviene tramite un modulo elettronico indicando i dati seguenti:
+<sup>1</sup> Al momento dell'apertura dell'account, ai fini di un controllo relativo all'esistenza di eventuali doppioni i dati inseriti vengono confrontati con i dati di account esistenti.
 
-- a) nome ufficiale;
-- b) indirizzo e-mail;
-- c) data di nascita;
-- d) nome utente e password;
-- e) numero di cellulare.
+<sup>2</sup> Se dal confronto risulta un eConto esistente, quest'ultimo può continuare a essere utilizzato o essere riattivato. Ciò non vale se l'account è stato bloccato dall'autorità competente conformemente all'articolo 16 capoverso 2 lettera a della legge sull'amministrazione digitale[^8-1].
 
-<sup>2</sup> Nell'eConto è possibile salvare altri dati, segnatamente:
-
-- a) indirizzo;
-- b) numero AVS secondo l'articolo 50c della legge federale sull'assicurazione per la vecchiaia e per i superstiti[^8-1].
-
-[^8-1]: RS [831.10](https://db.clex.ch/link/Bund/831.10/it)
+[^8-1]: CSC [177.100](https://www.gr-lex.gr.ch/data/177.100/it)
 
 #### Art. 9
 
-**Diritti e doveri degli utenti**
+**Consenso ai diritti e ai doveri**
 
-<sup>1</sup> Gli utenti sono responsabili per il proprio sistema informatico. Sono in particolare tenuti a:
+<sup>1</sup> Gli utenti devono essere informati tempestivamente e in modo adeguato in merito ai loro diritti e doveri sia al momento dell'apertura dell'eConto sia dopo ogni modifica dei diritti e dei doveri.
 
-- a) registrare e ad aggiornare i loro dati in modo veritiero;
-- b) conservare con cura i propri dati di accesso all'eConto e ad adottare misure precauzionali per impedire l'accesso a terzi non autorizzati;
-- c) adottare le misure tecniche necessarie per la protezione dei propri sistemi informatici.
+<sup>2</sup> Gli utenti devono dare il loro consenso ai diritti e ai doveri sia al momento dell'apertura dell'eConto sia dopo ogni modifica dei diritti e dei doveri. L'utilizzo dell'eConto può essere limitato finché non viene dato il consenso alle disposizioni modificate.
 
-<sup>2</sup> L'autorità competente può stabilire ulteriori diritti e doveri degli utenti in relazione all'eConto.
-
-<sup>3</sup> Gli utenti devono essere informati tempestivamente e in modo adeguato in merito ai loro diritti e doveri sia al momento dell'apertura dell'eConto sia dopo ogni modifica dei diritti e dei doveri. L'utilizzo può essere limitato finché verrà dato il consenso alle disposizioni modificate.
+<sup>3</sup> Il consenso deve essere registrato in modo adeguato dall'unità amministrativa competente per l'informatica.
 
 #### Art. 10
 
 **Rappresentanza di persone fisiche**
 
-<sup>1</sup> L'utente può delegare elettronicamente altre persone che dispongono di un proprio eConto a usufruire, in veste di rappresentanti, di servizi a suo nome o per suo conto.
+<sup>1</sup> L'entità del potere di rappresentanza deve essere definita chiaramente, in particolare in relazione ai servizi interessati.
 
-<sup>2</sup> Le persone coinvolte devono definire chiaramente l'entità del potere di rappresentanza, in particolare per quanto riguarda i servizi interessati.
-
-<sup>3</sup> Il rapporto di rappresentanza può essere revocato in ogni momento da ciascuna delle parti.
+<sup>2</sup> Il rapporto di rappresentanza può essere revocato in ogni momento da ciascuna delle parti.
 
 #### Art. 11
 
 **Atti di persone giuridiche 1. Direttive generali**
 
-<sup>1</sup> Per poter usufruire di servizi, le persone giuridiche devono delegare degli utenti.
+<sup>1</sup> Per poter usufruire di servizi, le persone giuridiche devono essere registrate una volta nel sistema e gli utenti delegati devono essere designati.
 
-<sup>2</sup> A tale scopo la persona giuridica deve essere registrata una volta. Nel quadro della registrazione almeno un utente viene indicato come rappresentante dell'impresa.
+<sup>2</sup> Nel quadro della registrazione almeno un utente viene indicato come rappresentante dell'impresa.
 
 <sup>3</sup> L'autorità specializzata può richiedere ulteriori prove del potere di rappresentanza. Le autorità specializzate devono rendere note agli utenti queste prescrizioni in modo adeguato.
 
@@ -160,9 +148,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Una volta presentata la richiesta, un codice di attivazione viene inviato a destinazione della direzione all'indirizzo della sede dell'unità IDI figurante nel registro IDI della Confederazione.
 
-<sup>3</sup> Inserendo il codice numerico tramite l'eConto dell'utente indicato a tale scopo l'unità IDI viene attivata e la persona corrispondente viene delegata a rappresentare l'impresa.
+<sup>3</sup> Inserendo il codice di attivazione tramite l'eConto dell'utente indicato a tale scopo l'unità IDI viene attivata e la persona corrispondente viene delegata a rappresentare l'impresa.
 
-<sup>4</sup> In caso di persone giuridiche senza numero IDI il codice di attivazione viene inviato all'indirizzo indicato dall'utente. I servizi di determinati livelli di fiducia possono essere escluse dall'utilizzo da parte di persone giuridiche senza numero IDI.
+<sup>4</sup> In caso di persone giuridiche senza numero IDI il codice di attivazione viene inviato all'indirizzo indicato dall'utente. I servizi di determinati livelli di fiducia possono essere esclusi dall'utilizzo da parte di persone giuridiche senza numero IDI.
 
 [^12-1]: RS [431.03](https://db.clex.ch/link/Bund/431.03/it)
 
@@ -178,23 +166,39 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 14
 
-**Disattivazione e limitazione**
+**Disattivazione e limitazione 1. Da parte dell'utente**
 
-<sup>1</sup> L'utente può disporre in qualsiasi momento la disattivazione del proprio eConto.
-
-<sup>2</sup> In caso di violazione dei diritti e dei doveri, previa comunicazione è possibile limitare l'accesso all'eConto o a singoli servizi oppure disattivare l'eConto.
-
-## 4. Protezione e sicurezza dei dati
+<sup>1</sup> Nel suo eConto, l'utente può disporre in qualsiasi momento la disattivazione del proprio eConto senza indicare le ragioni.
 
 #### Art. 15
 
-**Elaborazione dei dati**
+**2. Da parte di un'autorità**
 
-<sup>1</sup> Le autorità competenti possono elaborare i dati degli account degli utenti nonché i dati secondo l'articolo 21.
+<sup>1</sup> Un'autorità può disporre una disattivazione o una limitazione se sono soddisfatti i presupposti di cui all'articolo 16 capoverso 2 della legge sull'amministrazione digitale[^15-1].
 
-<sup>2</sup> Esse limitano l'elaborazione dei dati menzionati al capoverso 1 a quanto necessario per l'adempimento dei compiti loro assegnati dalla legge.
+<sup>2</sup> Si è in presenza di un abuso dell'eConto tramite l'account di un utente in particolare se l'utente ha violato i diritti e i doveri o in caso di indizi di compromissione dell'eConto da parte di terzi.
+
+<sup>3</sup> La disattivazione o la limitazione deve essere comunicata all'utente all'indirizzo e-mail registrato nel sistema.
+
+<sup>4</sup> L'utente può chiedere all'autorità la riattivazione dell'account o la soppressione della limitazione. L'autorità può respingere la domanda se una persona ha violato in modo ripetuto o grave i diritti e i doveri o se il pericolo di una compromissione non è ancora stato eliminato.
+
+<sup>5</sup> La persona interessata può richiedere all'unità amministrativa competente conformemente all'articolo 5 l'emanazione di una decisione scritta relativa al rifiuto.
+
+[^15-1]: CSC [177.100](https://www.gr-lex.gr.ch/data/177.100/it)
 
 #### Art. 16
+
+**3. Conseguenze**
+
+<sup>1</sup> La disattivazione o la limitazione comporta l'impossibilità di accedere ai dati salvati nel portale e associati all'eConto. L'utente è responsabile in prima persona del previo salvataggio dei propri dati.
+
+<sup>2</sup> Se al momento della disattivazione o della limitazione l'utente è parte di un procedimento in corso il quale, conformemente alle disposizioni della legge sulla giustizia amministrativa[^16-1], viene condotto tramite il portale di e-government quale sistema di trasmissione, gli ulteriori atti procedurali devono essere eseguiti in forma cartacea.
+
+[^16-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+### 3.3. Protezione dei dati e sicurezza dei dati
+
+#### Art. 17
 
 **Legittimazione**
 
@@ -210,72 +214,77 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - c) livello di fiducia 2: bisogno di protezione elevato;
 - d) livello di fiducia 3: bisogno di protezione molto elevato.
 
-#### Art. 17
+#### Art. 18
 
 **Ottenimento di un livello di fiducia più elevato**
 
 <sup>1</sup> Un livello di fiducia più elevato può essere ottenuto se l'utente:
 
 - a) segue un processo di identificazione ufficiale; o se
-- b) utilizza un mezzo di identificazione elettronica che soddisfi le direttive valide per il rispettivo livello di fiducia.
+- b) presenta un mezzo di identificazione elettronica che soddisfi le direttive valide per il rispettivo livello di fiducia.
 
 <sup>2</sup> I requisiti per l'ottenimento di un livello di fiducia si conformano al modello di qualità per l'autenticazione di soggetti (standard eCH-0170).
 
-#### Art. 18
+#### Art. 19
 
 **Identificazione ufficiale**
 
 <sup>1</sup> La procedura di identificazione ufficiale viene svolta tramite:
 
 - a) una presentazione personale presso un ufficio di identificazione; oppure
-- b) un processo per l'identificazione della persona mediante comunicazione audiovisiva in tempo reale che soddisfi i requisiti posti dalla legge federale relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo[^18-1].
+- b) una procedura di identificazione online sicura secondo lo stato attuale della tecnica.
 
 <sup>2</sup> L'unità amministrativa competente definisce i processi di identificazione e gli uffici di identificazione e deve pubblicare le prescrizioni per ogni livello di fiducia.
 
-<sup>3</sup> Per l'identificazione ufficiale l'unità amministrativa competente può confrontare il numero AVS secondo l'articolo 50c della legge federale sull'assicurazione per la vecchiaia e per i superstiti[^18-2] con i corrispondenti registri della Confederazione.
-
-<sup>4</sup> La comprova dell'avvenuto processo di identificazione viene salvata nell'eConto.
-
-[^18-1]: RS [955.0](https://db.clex.ch/link/Bund/955.0/it)
-[^18-2]: RS [831.10](https://db.clex.ch/link/Bund/831.10/it)
-
-#### Art. 19
-
-**Associazione ad applicazioni specifiche**
-
-<sup>1</sup> L'associazione di un eConto a un'applicazione specifica viene creata se i dati dell'account corrispondono ai relativi dati nell'applicazione specifica. A seconda del livello di fiducia può essere richiesto l'inserimento di ulteriori dati noti all'utente.
-
-<sup>2</sup> Durante l'associazione, i dati personali registrati nelle applicazioni specifiche vengono salvati provvisoriamente nell'eConto.
-
-<sup>3</sup> Se l'associazione ha successo, il numero di identificazione dell'utente registrato nell'applicazione specifica viene salvato permanentemente nell'eConto.
+<sup>3</sup> La comprova dell'avvenuto processo di identificazione può essere salvata nell'eConto.
 
 #### Art. 20
 
+**Associazione all'applicazione specifica**
+
+<sup>1</sup> L'associazione di un eConto a un'applicazione specifica viene creata se i dati dell'account corrispondono ai relativi dati nell'applicazione specifica. A seconda del livello di fiducia può essere richiesto l'inserimento di ulteriori dati noti all'utente.
+
+<sup>2</sup> Se dei dati dell'account non sono stati salvati in un'applicazione specifica, essi possono essere messi a disposizione dell'applicazione specifica con il consenso dell'utente.
+
+<sup>3</sup> Durante l'associazione, i dati personali registrati nelle applicazioni specifiche vengono salvati provvisoriamente nell'eConto.
+
+<sup>4</sup> Se l'associazione ha successo, il numero di identificazione dell'utente registrato nell'applicazione specifica viene salvato permanentemente nell'eConto.
+
+#### Art. 21
+
 **Utilizzo di mezzi di identificazione elettronica**
 
-<sup>1</sup> Gli utenti che dispongono di un mezzo di identificazione elettronica riconosciuto possono associare quest'ultimo all'eConto.
-
-<sup>2</sup> Sono considerati mezzi di identificazione elettronica riconosciuti:
+<sup>1</sup> Sono considerati mezzi di identificazione elettronica riconosciuti:
 
 - a) SwissID;
 - b) mezzi di identificazione elettronica riconosciuti secondo le direttive del diritto federale.
 
-<sup>3</sup> Con il consenso dell'utente i dati registrati nel mezzo di identificazione elettronica riconosciuto vengono salvati nell'eConto.
+<sup>2</sup> Con il consenso dell'utente i dati registrati nel mezzo di identificazione elettronica riconosciuto vengono salvati nell'eConto.
 
-#### Art. 21
-
-**Registrazione a protocollo**
-
-<sup>1</sup> Gli accessi degli utenti e delle autorità all'eConto vengono protocollati ai fini della tracciabilità. I protocolli possono essere presi in visione e controllati da una cerchia di persone limitata.
-
-<sup>2</sup> I dati salvati comprendono le informazioni relative all'utente che effettua l'accesso, al momento dell'accesso e al tipo di operazioni effettuate.
-
-<sup>3</sup> Questi dati vengono cancellati dopo dodici mesi. Sono fatti salvi termini di conservazione diversi previsti dalla legislazione speciale applicabile.
+<sup>3</sup> L'unità amministrativa competente per l'informatica definisce, nel rispetto delle direttive del diritto federale, i livelli di fiducia che i mezzi di identificazione elettronica soddisfano.
 
 #### Art. 22
 
-**Esternalizzazione dell'elaborazione di dati**
+**Registrazione a protocollo**
 
-<sup>1</sup> L'unità amministrativa competente può incaricare terzi di svolgere il processo di identificazione e di garantire il supporto agli utenti.
+<sup>1</sup> I dati salvati comprendono le informazioni relative all'utente che effettua l'accesso, al momento dell'accesso e al tipo di operazioni effettuate.
 
-2023-013
+<sup>2</sup> I protocolli possono essere presi in visione e controllati da una cerchia di persone limitata.
+
+<sup>3</sup> I dati salvati vengono cancellati dopo dodici mesi. Sono fatti salvi termini di conservazione diversi previsti dalla legislazione speciale applicabile.
+
+#### Art. 23
+
+**Esternalizzazione di elaborazioni di dati**
+
+<sup>1</sup> L'unità amministrativa competente può incaricare terzi di elaborare dati in relazione all'eConto, segnatamente di svolgere il processo di identificazione e di garantire il supporto agli utenti.
+
+## 4. Disposizioni finali
+
+#### Art. 24
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Accordi esistenti, condizioni o patti stabiliti in un altro modo adeguato in relazione all'esternalizzazione rimangono validi fino alla loro scadenza. In caso di eventuale rinnovo devono essere adeguati alle disposizioni della presente ordinanza.
+
+2024-007
