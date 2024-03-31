@@ -4,13 +4,12 @@ number: "122.0.17"
 title: "Ordonnance sur la gestion des séances du Conseil d'Etat"
 short: OGSCE
 language: fr
-version: 2023-05-01
-valid_until: 2024-03-31
-version_adopted: 2023-04-04
+version: 2024-04-01
+version_adopted: 2024-02-27
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7756/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7980/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Conseil d'Etat, gestion des séances – O
 
 (OGSCE)
 
-du 08.04.2014 (version entrée en vigueur le 01.05.2023)
+du 08.04.2014 (version entrée en vigueur le 01.04.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -177,6 +176,18 @@ Arrête:
 <sup>1</sup> Aucune affaire n'est soumise au Conseil d'Etat sans que le membre du Conseil d'Etat responsable ait validé la proposition et la documentation y relative.
 
 <sup>2</sup> Lorsque plusieurs Directions sont concernées par une affaire, la Direction responsable doit prendre l'avis des autres Directions concernées avant de soumettre l'affaire au Conseil d'Etat.
+
+<sup>3</sup> Au besoin, les Directions précisent dans leurs propositions les modes de traitement de l'affaire désirée.
+
+#### Art. 12a
+
+**Modes de traitement des affaires**
+
+<sup>1</sup> Les affaires sont soumises au Conseil d'Etat pour que celui-ci puisse notamment:
+
+- a) les adopter, avec ou sans modifications, lorsqu'elles sont de sa compétence;
+- b) les approuver ou valider lorsque la compétence de gestion se situe essentiellement dans la Direction qui les propose;
+- c) en prendre acte avec ou sans remarques, reconnaissant ainsi officiellement leur existence, leur contenu demeurant sous la seule responsabilité de la Direction qui les présente.
 
 #### Art. 13
 
@@ -399,7 +410,7 @@ Arrête:
 
 **Chapitre «Affaires pour adoption globale»**
 
-<sup>1</sup> Les Directions inscrivent dans le chapitre «Affaires pour adoption globale» les dossiers de peu d'importance placés dans la compétence du Conseil d'Etat.
+<sup>1</sup> Les Directions inscrivent dans le chapitre «Affaires pour adoption globale» les dossiers de peu d'importance placés dans la compétence du Conseil d'Etat, ainsi que les demandes de crédits supplémentaires.
 
 <sup>2</sup> En principe, les affaires de ce chapitre sont adoptées en bloc.
 

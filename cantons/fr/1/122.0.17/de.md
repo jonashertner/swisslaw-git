@@ -4,13 +4,12 @@ number: "122.0.17"
 title: Verordnung über die Staatsratssitzungen
 short: SRSVV
 language: de
-version: 2023-05-01
-valid_until: 2024-03-31
-version_adopted: 2023-04-04
+version: 2024-04-01
+version_adopted: 2024-02-27
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/7756/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7980/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Staatsratssitzungen – V
 
 (SRSVV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.05.2023)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.04.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -177,6 +176,18 @@ beschliesst:
 <sup>1</sup> Dem Staatsrat wird kein Geschäft unterbreitet, bei dem das zuständige Staatsratsmitglied den Antrag und die dazugehörige Dokumentation vorher nicht genehmigt hat.
 
 <sup>2</sup> Sind bei einem Geschäft mehrere Direktionen betroffen, so muss die zuständige Direktion die Stellungnahme der anderen betroffenen Direktionen einholen, bevor sie das Geschäft dem Staatsrat vorlegt.
+
+<sup>3</sup> Bei Bedarf präzisieren die Direktionen in ihren Anträgen die Art der Behandlung des gewünschten Geschäfts.
+
+#### Art. 12a
+
+**Art der Behandlung der Geschäfte**
+
+<sup>1</sup> Die Geschäfte werden dem Staatsrat vorgelegt, damit dieser sie insbesondere:
+
+- a) mit oder ohne Änderungen annehmen kann, wenn sie in seine Zuständigkeit fallen;
+- b) genehmigen oder validieren kann, wenn die Verwaltungszuständigkeit im Wesentlichen bei der Direktion liegt, die sie beantragt;
+- c) mit oder ohne Anmerkungen zur Kenntnis nehmen und damit ihre Existenz offiziell anerkennen kann, wobei die Verantwortung für ihren Inhalt allein bei der Direktion verbleibt, die sie vorlegt.
 
 #### Art. 13
 
@@ -399,7 +410,7 @@ beschliesst:
 
 **Kapitel «Geschäfte zur stillschweigenden Genehmigung»**
 
-<sup>1</sup> Die Direktionen tragen im Kapitel «Geschäfte zur stillschweigenden Genehmigung» weniger wichtige Geschäfte ein, für die der Staatsrat zuständig ist.
+<sup>1</sup> Die Direktionen tragen im Kapitel «Geschäfte zur stillschweigenden Genehmigung» weniger wichtige Geschäfte, für die der Staatsrat zuständig ist, und Nachtragskreditbegehren ein.
 
 <sup>2</sup> Grundsätzlich werden die Geschäfte in diesem Kapitel stillschweigend genehmigt.
 
