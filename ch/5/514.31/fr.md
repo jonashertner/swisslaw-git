@@ -4,11 +4,11 @@ title: Ordonnance du 23 février 2005 concernant les véhicules automobiles de l
 short: OVCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/163"
 language: fr
-version: 2022-06-01
+version: 2024-04-01
 adopted: 2005-02-23
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-163-20220601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-163-20240401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/fr"
 
 (OVCC)
 
-du 23 février 2005 (Etat le 1<sup>er</sup> juin 2022)
+du 23 février 2005 (État le 1<sup>er</sup> avril 2024)
 
 Le Conseil fédéral suisse,
 
@@ -222,7 +222,7 @@ Le conducteur est tenu de contrôler ou de faire contrôler l’état de marche 
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
-## Section 3 Engagement de véhicules officiels et de véhicules de protection particulière****
+## Section 3 Engagement de véhicules officiels et de véhicules de protection particulière
 
 [^sec3-1]
 
@@ -238,7 +238,7 @@ Les véhicules officiels peuvent être demandés dans le cadre de l’accompliss
 
 - a. assistance d’hôtes étrangers qui séjournent en Suisse pour une visite officielle;
 - b. représentation d’un département ou de la Confédération envers des représentants étrangers;
-- c. représentation dans les cas pour lesquels l’engagement d’un véhicule officiel est indispensable et proportionnel; la commission de surveillance édicte les directives correspondantes.
+- c.[^14-2] représentation dans les cas pour lesquels l’engagement d’un véhicule officiel est indispensable et proportionnel.
 
 <sup>2</sup>
 
@@ -250,14 +250,15 @@ Lorsque des missions officielles l’exigent, des véhicules officiels avec chau
 - d. les anciens membres du Conseil fédéral ou les membres des directions d’offices, pour autant qu’ils soient engagés sur ordre du Conseil fédéral;
 - e. les femmes ou hommes d’État étrangers, les organes de direction d’organisations internationales ainsi que les officiers étrangers ayant le rang de général en visite officielle en Suisse.
 
-<sup>3</sup> Des véhicules de protection particulière sont mis à disposition pour le transport des personnes visées à l’art. 6 de l’ordonnance du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale[^14-2], dans la mesure où la protection de ces personnes l’exige.[^14-3]
+<sup>3</sup> Des véhicules de protection particulière sont mis à disposition pour le transport des personnes visées à l’art. 6 de l’ordonnance du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale[^14-3], dans la mesure où la protection de ces personnes l’exige.[^14-4]
 
-<sup>4</sup> ...[^14-4]
+<sup>4</sup> ...[^14-5]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
-[^14-2]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
-[^14-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
-[^14-4]: Abrogé par le ch. I de l’O du 13 janv. 2016, avec effet au 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+[^14-3]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^14-5]: Abrogé par le ch. I de l’O du 13 janv. 2016, avec effet au 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 
 #### Art. 14a
 
@@ -303,9 +304,9 @@ Lorsque des missions officielles l’exigent, des véhicules officiels avec chau
 
 #### Art. 16
 
-**Surveillance**
+[^16-1]
 
-La Chancellerie fédérale assure la surveillance en collaboration avec la Conférence des secrétaires généraux et les tribunaux de la Confédération.
+[^16-1]: Abrogé par le ch. I de l’O du 14 fév. 2024, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
 
 ## Section 4 Instruction des conducteurs
 
@@ -472,6 +473,44 @@ Les cyclomoteurs sont immatriculés par l’OCRNA avec des plaques de contrôle 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 ## Section 7 Dispositions finales
+
+#### Art. 28a
+
+**Exécution**[^28a-1]
+
+<sup>1</sup> Les services visés à l’art. 2, al. 1, sont responsables de l’exécution pour autant qu’aucun autre service ne soit désigné à cette fin dans la présente ordonnance.
+
+<sup>2</sup> Pour les services visés à l’art. 2, al. 1, let. a, le DDPS édicte des directives concernant les principes écologiques régissant l’acquisition et l’utilisation des véhicules de l’administration.
+
+[^28a-1]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+
+#### Art. 28b
+
+**Groupe de travail consacré aux véhicules officiels**[^28b-1]
+
+<sup>1</sup> La Chancellerie fédérale dirige un groupe de travail consacré aux véhicules officiels.
+
+<sup>2</sup>
+
+Le groupe de travail est responsable de la coordination et des échanges entre les services visés à l’art. 2, al. 1, dans le cadre des tâches suivantes:
+
+- a. il veille à ce que les bases concernant les demandes de transport soient uniformes;
+- b. il veille à ce que les unités administratives adoptent une pratique uniforme;
+- c. il collecte chaque année des indicateurs statistiques concernant les transports officiels;
+- d. il élabore au besoin des recommandations visant à optimiser les transports officiels à l’intention de la Conférence des secrétaires généraux.
+
+<sup>3</sup>
+
+Le groupe de travail est composé d’un représentant de chacune des unités administratives suivantes:
+
+- a. Chancellerie fédérale;
+- b. Secrétariat d’État du Département fédéral des affaires étrangères;
+- c. Office fédéral de la police;
+- d. Secrétariat général du DDPS;
+- e. commandement des Opérations;
+- f. BLA.
+
+[^28b-1]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
 
 #### Art. 29
 

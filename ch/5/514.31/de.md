@@ -4,11 +4,11 @@ title: Verordnung vom 23. Februar 2005 über die Fahrzeuge des Bundes und ihre F
 short: VFBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/163"
 language: de
-version: 2022-06-01
+version: 2024-04-01
 adopted: 2005-02-23
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2005-163-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2005-163-20240401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/de"
 
 (VFBF)
 
-vom 23. Februar 2005 (Stand am 1. Juni 2022)
+vom 23. Februar 2005 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -50,7 +50,7 @@ Diese Verordnung regelt:
 
 <sup>3</sup> Die militärische Verwendung und die Instandhaltung von Militärfahrzeugen richten sich nach der Verordnung vom 11. Februar 2004[^1-5] über den militärischen Strassenverkehr (VMSV).[^1-6]
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. März 2016 (AS **2016**399).
+[^1-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 [^1-2]: Eingefügt durch Ziff. III 1 der V vom 2. Dez. 2016 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 [^1-3]: [SR 514.20](https://fedlex.data.admin.ch/eli/cc/2018/225)
 [^1-4]: Fassung gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
@@ -112,7 +112,11 @@ Es werden folgende Abkürzungen für Behörden verwendet:
 - b. LBA für die Logistikbasis der Armee;
 - c.[^4-1] …
 - d. SVSAA für das Strassenverkehrs- und Schifffahrtsamt der Armee im VBS.
-- [tab] <sup>2</sup> Es werden folgende Abkürzungen für Erlasse verwendet:
+
+<sup>2</sup>
+
+Es werden folgende Abkürzungen für Erlasse verwendet:
+
 - a. ADR für das Übereinkommen vom 30. September 1957[^4-2] über die internationale Beförderung gefährlicher Güter auf der Strasse;
 - b. VEMZ für die Verordnung vom 8. Dezember 1997[^4-3] über den Einsatz militärischer Mittel für zivile und ausserdienstliche Tätigkeiten;
 - c. SVG für das Strassenverkehrsgesetz vom 19. Dezember 1958.
@@ -219,7 +223,7 @@ Der Fahrzeugführer oder die Fahrzeugführerin hat die Betriebssicherheit des Fa
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
-## 3. Abschnitt: Einsatz von Repräsentations- und Sonderschutzfahrzeugen****
+## 3. Abschnitt: Einsatz von Repräsentations- und Sonderschutzfahrzeugen
 
 [^sec3-1]
 
@@ -235,7 +239,7 @@ Repräsentationsfahrzeuge werden zur Ausübung der folgenden dienstlichen Verric
 
 - a. Betreuung von ausländischen Gästen, die zu einem offiziellen Besuch in der Schweiz weilen;
 - b.[^14-2] Vertretung eines Departements oder der Eidgenossenschaft gegenüber ausländischen Vertretern und Vertreterinnen;
-- c. Repräsentationen in Fällen, in denen der Einsatz eines Repräsentationsfahrzeuges von der Sache her erforderlich und verhältnismässig ist; der Aufsichtsausschuss erlässt die entsprechenden Weisungen.
+- c.[^14-3] Repräsentationen in Fällen, in denen der Einsatz eines Repräsentationsfahrzeuges von der Sache her erforderlich und verhältnismässig ist.
 
 <sup>2</sup>
 
@@ -247,15 +251,16 @@ Wenn Repräsentationsaufgaben es erfordern, können folgenden, ausserhalb der Bu
 - d. den ehemaligen Mitgliedern des Bundesrates oder Mitgliedern von Amtsdirektionen, sofern sie im Auftrag des Bundesrates im Einsatz sind;
 - e. Staatspersonen des Auslandes, Leitungsorganen internationaler Organisationen sowie ausländischen Offizieren im Generalsrang, die der Schweiz einen offiziellen Besuch abstatten.
 
-<sup>3</sup> Sonderschutzfahrzeuge werden für Transporte von Personen nach Artikel 6 der Verordnung vom 24. Juni 2020[^14-3] über den Schutz von Personen und Gebäuden in Bundesverantwortung zur Verfügung gestellt, wenn dies zum Schutz dieser Personen erforderlich ist.[^14-4]
+<sup>3</sup> Sonderschutzfahrzeuge werden für Transporte von Personen nach Artikel 6 der Verordnung vom 24. Juni 2020[^14-4] über den Schutz von Personen und Gebäuden in Bundesverantwortung zur Verfügung gestellt, wenn dies zum Schutz dieser Personen erforderlich ist.[^14-5]
 
-<sup>4</sup> …[^14-5]
+<sup>4</sup> …[^14-6]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 [^14-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
-[^14-3]: [SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
-[^14-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
-[^14-5]: Aufgehoben durch Ziff. I der V vom 13. Jan. 2016, mit Wirkung seit 1. März 2016 ([AS 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
+[^14-3]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+[^14-4]: [SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^14-5]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^14-6]: Aufgehoben durch Ziff. I der V vom 13. Jan. 2016, mit Wirkung seit 1. März 2016 ([AS 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 
 #### Art. 14a
 
@@ -301,9 +306,9 @@ Wenn Repräsentationsaufgaben es erfordern, können folgenden, ausserhalb der Bu
 
 #### Art. 16
 
-**Aufsicht**
+[^16-1]
 
-Die Bundeskanzlei nimmt in Zusammenarbeit mit der Generalsekretärenkonferenz und mit den Gerichten des Bundes die Aufsicht wahr.
+[^16-1]: Aufgehoben durch Ziff. I der V vom 14. Febr. 2024, mit Wirkung seit 1. April 2024 ([AS 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
 
 ## 4. Abschnitt: Ausbildung der Fahrzeugführer und Fahrzeugführerinnen
 
@@ -470,6 +475,44 @@ Motorfahrräder werden durch das SVSAA mit Post- und Regie-Kontrollschildern (PR
 [^28-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 ## 7. Abschnitt: Schlussbestimmungen
+
+#### Art. 28a
+
+**Vollzug**[^28a-1]
+
+<sup>1</sup> Die Stellen nach Artikel 2 Absatz 1 sind für den Vollzug verantwortlich, soweit in dieser Verordnung keine anderen Stellen dafür bezeichnet werden.
+
+<sup>2</sup> Das VBS erlässt für die Stellen nach Artikel 2 Absatz 1 Buchstabe a Weisungen über die ökologischen Grundsätze der Beschaffung und der Nutzung von Verwaltungsfahrzeugen.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+
+#### Art. 28b
+
+**Arbeitsgruppe Repräsentationsfahrzeuge**[^28b-1]
+
+<sup>1</sup> Die Bundeskanzlei führt eine Arbeitsgruppe Repräsentationsfahrzeuge.
+
+<sup>2</sup>
+
+Die Arbeitsgruppe ist im Rahmen der folgenden Aufgaben für die Koordination zwischen und den Austausch unter den Stellen nach Artikel 2 Absatz 1 verantwortlich:
+
+- a. Sie sorgt für einheitliche Grundlagen für Transportbegehren.
+- b. Sie sorgt für eine einheitliche Vollzugspraxis bei den Verwaltungseinheiten.
+- c. Sie erhebt jährlich statistische Kennzahlen über die Repräsentationstransporte.
+- d. Sie erarbeitet bei Bedarf Empfehlungen zur Optimierung der Repräsentationstransporte zuhanden der Generalsekretärenkonferenz.
+
+<sup>3</sup>
+
+Die Arbeitsgruppe besteht aus je einer Vertretung der folgenden Verwaltungseinheiten:
+
+- a. Bundeskanzlei;
+- b. Staatssekretariat des Eidgenössischen Departements für auswärtige Angelegenheiten;
+- c. Bundesamt für Polizei;
+- d. Generalsekretariat des VBS;
+- e. Kommando Operationen;
+- f. LBA.
+
+[^28b-1]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
 
 #### Art. 29
 

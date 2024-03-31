@@ -4,11 +4,11 @@ title: Ordinanza del 23 febbraio 2005 concernente i veicoli della Confederazione
 short: OVCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/163"
 language: it
-version: 2022-06-01
+version: 2024-04-01
 adopted: 2005-02-23
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2005-163-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2005-163-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/it"
 
 (OVCC)
 
-del 23 febbraio 2005 (Stato 1° giugno 2022)
+del 23 febbraio 2005 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -222,7 +222,7 @@ Il conducente deve controllare o far controllare lo stato del veicolo ad ogni me
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
-## Sezione 3: Impiego di veicoli di rappresentanza e di veicoli con protezione speciale****
+## Sezione 3: Impiego di veicoli di rappresentanza e di veicoli con protezione speciale
 
 [^sec3-1]
 
@@ -238,7 +238,7 @@ I veicoli di rappresentanza vengono messi a disposizione:
 
 - a. per il trasporto di ospiti stranieri in visita ufficiale in Svizzera;
 - b. per la rappresentanza di un dipartimento o della Confederazione presso rappresentanti di Stati esteri;
-- c. per altri compiti di rappresentanza, nei casi in cui l’impiego di un veicolo di rappresentanza è necessario e proporzionato; il comitato di vigilanza emana le relative istruzioni.
+- c.[^14-2] per altri compiti di rappresentanza, nei casi in cui l’impiego di un veicolo di rappresentanza è necessario e proporzionato.
 
 <sup>2</sup>
 
@@ -250,14 +250,15 @@ Se l’adempimento di compiti di rappresentanza lo richiede, si possono mettere 
 - d. ex membri del Consiglio federale o membri delle direzioni degli uffici che agiscono su mandato del Consiglio federale;
 - e. rappresentanti di Stati stranieri, organi direttivi di organizzazioni internazionali e ufficiali stranieri con rango di generale in visita ufficiale in Svizzera.
 
-<sup>3</sup> I veicoli con protezione speciale vengono messi a disposizione per il trasporto di persone di cui all’articolo 6 dell’ordinanza del 24 giugno 2020[^14-2] sulla protezione di persone ed edifici di competenza federale, se ciò è necessario alla protezione di tali persone.[^14-3]
+<sup>3</sup> I veicoli con protezione speciale vengono messi a disposizione per il trasporto di persone di cui all’articolo 6 dell’ordinanza del 24 giugno 2020[^14-3] sulla protezione di persone ed edifici di competenza federale, se ciò è necessario alla protezione di tali persone.[^14-4]
 
-<sup>4</sup> *...*[^14-4]
+<sup>4</sup> *...*[^14-5]
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
-[^14-2]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
-[^14-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
-[^14-4]: Abrogato dal n. I dell’O del 13 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+[^14-3]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^14-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^14-5]: Abrogato dal n. I dell’O del 13 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 
 #### Art. 14a
 
@@ -303,9 +304,9 @@ Se l’adempimento di compiti di rappresentanza lo richiede, si possono mettere 
 
 #### Art. 16
 
-**Vigilanza**
+[^16-1]
 
-La Cancelleria federale garantisce la vigilanza, in collaborazione con la Conferenza dei segretari generali e i tribunali della Confederazione.
+[^16-1]: Abrogato dal n. I dell’O del 14 feb. 2024, con effetto dal 1° apr. 2024 ([RU 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
 
 ## Sezione 4: Formazione dei conducenti
 
@@ -472,6 +473,44 @@ L’UCNEs mette in circolazione motocicli provvisti di targhe di controllo della
 
 ## Sezione 7: Disposizioni finali
 
+#### Art. 28a
+
+**Esecuzione**[^28a-1]
+
+<sup>1</sup> I servizi di cui all’articolo 2 capoverso 1 sono responsabili dell’esecuzione, nella misura in cui la presente ordinanza non designi altri servizi responsabili.
+
+<sup>2</sup> Per i servizi di cui all’articolo 2 capoverso 1 lettera a, il DDPS emana istruzioni riguardanti i principi ecologici dell’acquisto e dell’utilizzo di veicoli dell’amministrazione.
+
+[^28a-1]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+
+#### Art. 28b
+
+**Gruppo di lavoro veicoli di rappresentanza**[^28b-1]
+
+<sup>1</sup> La Cancelleria federale gestisce un gruppo di lavoro veicoli di rappresentanza.
+
+<sup>2</sup>
+
+Nell’ambito dei compiti seguenti il gruppo di lavoro è responsabile del coordinamento e dello scambio tra i servizi di cui all’articolo 2 capoverso 1:
+
+- a. provvede a basi unitarie per le richieste di trasporto;
+- b. provvede a una prassi d’esecuzione unitaria presso le unità amministrative;
+- c. rileva annualmente indicatori statistici sui trasporti di rappresentanza;
+- d. in caso di necessità elabora raccomandazioni per l’ottimizzazione dei trasporti di rappresentanza all’attenzione della Conferenza dei segretari generali.
+
+<sup>3</sup>
+
+Il gruppo di lavoro si compone di un rappresentante ciascuno delle seguenti unità amministrative:
+
+- a. Cancelleria federale;
+- b. Segreteria di Stato del Dipartimento federale degli affari esteri;
+- c. Ufficio federale di polizia;
+- d. Segreteria generale del DDPS;
+- e. Comando Operazioni;
+- f. BLEs.
+
+[^28b-1]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 87](https://fedlex.data.admin.ch/eli/oc/2024/87)).
+
 #### Art. 29
 
 **Disposizione transitoria**[^29-1]
@@ -494,7 +533,7 @@ La presente ordinanza entra in vigore il 15 marzo 2005[^31-1].
 
 [^31-1]: [RU 2005 1635](https://fedlex.data.admin.ch/eli/oc/2005/260)
 
-Appendice*[^t-1]*
+Appendice[^t-1]
 
 (art. 30)
 
