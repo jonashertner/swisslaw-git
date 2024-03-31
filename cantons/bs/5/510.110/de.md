@@ -4,13 +4,13 @@ number: "510.110"
 title: Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2022-12-29
-valid_until: 2024-03-31
-version_adopted: 2022-12-20
+version: 2024-04-01
+valid_until: 2025-06-18
+version_adopted: 2024-03-12
 adopted: 1997-06-03
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5765/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6191/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Polizeiverordnung | Polizei[^t-1]
 
 (Polizeiverordnung, PolV)
 
-Vom 3. Juni 1997 (Stand 29. Dezember 2022)
+Vom 3. Juni 1997 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -40,7 +40,7 @@ beschliesst:
 
 <sup>1</sup> Zivile Mitarbeitende der Kantonspolizei sind in strafprozessrechtlichen Ermittlungsverfahren befugt, beschuldigte Personen und Auskunftspersonen einzuvernehmen. Art. 206 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007 ist anwendbar.
 
-<sup>2</sup> Die mit der Rheinpolizei sowie der Jagd- und Tierpolizei betrauten Personen sind befugt, die nötigen Anordnungen zu treffen und entsprechende Kontrollen durchzuführen.
+<sup>2</sup> Die mit der Rheinpolizei sowie der Tierpolizei betrauten Personen sind befugt, die nötigen Anordnungen zu treffen und entsprechende Kontrollen durchzuführen.
 
 #### § 1a
 
