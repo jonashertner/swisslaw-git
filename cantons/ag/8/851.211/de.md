@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2024-03-01
-valid_until: 2024-03-31
+version: 2024-04-01
+valid_until: 2024-04-30
 version_adopted: 2024-01-24
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3401/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3401/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.03.2024)
+Vom 28.08.2002 (Stand 01.04.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -340,7 +340,7 @@ beschliesst:
   - 2\. Der Einkommensfreibetrag von Lehrlingen sowie von Mittelschülerinnen und Mittelschülern beträgt Fr. 150.– pro Monat, sofern ein Unterstützungsbudget erstellt wird.
   - 3\. Die Motivationsentschädigung für die Teilnahme an einem Beschäftigungsprogramm wird nach Massgabe des Arbeitspensums gewährt. Sie beträgt bei einer Vollzeitbeschäftigung Fr. 150.– pro Monat.
   - 4\. Die Obergrenze der kumulierten Motivationsentschädigungen und Einkommensfreibeträge beträgt Fr. 400.– pro Unterstützungseinheit und Monat. Sind Personen gemäss Ziffer 2 Teil der Unterstützungseinheit, beträgt die Obergrenze Fr. 500.– pro Unterstützungseinheit und Monat.
-- d) einen Einkommensfreibetrag und eine Integrationszulage für vorläufig aufgenommene Ausländerinnen und Ausländer gemäss den Ansätzen der §§ 20a–20c.
+- d) einen Einkommensfreibetrag und eine Integrationszulage für vorläufig aufgenommene Ausländerinnen und Ausländer und Schutzbedürftige ohne Aufenthaltsbewilligung gemäss den Ansätzen der §§ 20a–20c.
 
 <sup>3</sup> Für weitere situationsbedingte Leistungen ist beim Kantonalen Sozialdienst vorgängig ein schriftliches Gesuch um Kostengutsprache einzureichen.
 
@@ -369,6 +369,8 @@ beschliesst:
 - d) für die Betreuungskosten Fr. 5.–.
 
 <sup>2</sup> Der Betrag gemäss Absatz 1 lit. d wird nicht ausgerichtet für Personen mit rechtskräftig abgewiesenem Asylgesuch, die sich seit über sieben Jahren in der Schweiz aufhalten und vorläufig aufgenommen sind.
+
+<sup>3</sup> Bei Privatplatzierungen entschädigt die Gemeinde für die von ihr betreuten Personen die Gastgeber auf schriftliches Gesuch hin für die Unterbringung.
 
 #### § 17h
 
