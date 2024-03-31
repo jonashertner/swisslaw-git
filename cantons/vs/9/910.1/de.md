@@ -1,38 +1,41 @@
 ---
 canton: VS
 number: "910.1"
-title: Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes (Landwirtschaftsgesetz; GLER)
+title: Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes
 short: "Landwirtschaftsgesetz, kLwG"
 language: de
-version: 2016-06-01
-corrected: 2017-10-13
-version_adopted: 2016-05-12
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-16
 adopted: 2007-02-08
 in_force: 2007-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/910.1"
-pdf: "https://lex.vs.ch/api/de/versions/137/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3307/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes (Landwirtschaftsgesetz; GLER)
+# Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes
 
-vom 8. Februar 2007
+(Landwirtschaftsgesetz, kLwG)
+
+vom 08.02.2007 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen den Artikel 104 der Schweizerischen Bundesverfassung; eingesehen den Artikel 178 des Bundesgesetzes über die Landwirtschaft vom 29. April 1998;
+eingesehen den Artikel 104 der Schweizerischen Bundesverfassung;
+
+eingesehen den Artikel 178 des Bundesgesetzes über die Landwirtschaft vom 29. April 1998;
 
 gestützt auf die Artikel 702 und 703 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907;
 
-eingesehen die Artikel 31 Absatz 1 Ziffer 1 und 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Titel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -41,46 +44,26 @@ verordnet:
 <sup>1</sup> Das vorliegende Gesetz bezweckt die Verbesserung der ganzheitlichen Leistungsfähigkeit der Walliser Land- und Agrarwirtschaft bezüglich folgender Aspekte:
 
 - a) Wirtschaftlich durch:
-
-- 1\. die Schaffung und Verteilung von Wertschöpfung um:
-
-1.1. die finanzielle Situation der Produzenten und Wirtschaftsakteure im ländlichen Raum zu verbessern;
-
-1.2. die Mittel zur Verarbeitung und Verwertung in der ländlichen Wirtschaftskette zu erhalten und zu entwickeln;
-
-- 2\. die Herstellung, Verarbeitung und Vermarktung von Qualitätslebensmitteln und -leistungen;
-
-- 3\. die Förderung der landwirtschaftlichen Vielseitigkeit und deren Integration in die regionale Wirtschaft.
-
+  - 1\. die Schaffung und Verteilung von Wertschöpfung um:
+  - 1\.1. die finanzielle Situation der Produzenten und Wirtschaftsakteure im ländlichen Raum zu verbessern,
+  - 1\.2. die Mittel zur Verarbeitung und Verwertung in der ländlichen Wirtschaftskette zu erhalten und zu entwickeln,
+  - 2\. die Herstellung, Verarbeitung und Vermarktung von Qualitätslebensmitteln und -leistungen,
+  - 3\. die Förderung der landwirtschaftlichen Vielseitigkeit und deren Integration in die regionale Wirtschaft;
 - b) Raumplanerisch durch:
-
-- 1\. die Erhaltung und Entwicklung von Aktivitäten mit hoher Wertschöpfung im Wallis;
-
-- 2\. die ausgewogene Bewirtschaftung, Bewahrung und den Schutz des bewirtschafteten Bodens und den Kampf gegen Brachlegung und Waldeinwuchs;
-
-- 3\. die Förderung einer dezentralen Besiedlung im Wallis;
-
-- 4\. Projekte, die zur Entwicklung des ländlichen Raumes auf kommunaler oder regionaler Stufe beitragen.
-
+  - 1\. die Erhaltung und Entwicklung von Aktivitäten mit hoher Wertschöpfung im Wallis,
+  - 2\. die ausgewogene Bewirtschaftung, Bewahrung und den Schutz des bewirtschafteten Bodens und den Kampf gegen Brachlegung und Waldeinwuchs,
+  - 3\. die Förderung einer dezentralen Besiedlung im Wallis,
+  - 4\. Projekte, die zur Entwicklung des ländlichen Raumes auf kommunaler oder regionaler Stufe beitragen;
 - c) Organisatorisch durch:
-
-- 1\. eine gezielte und effiziente Organisation des Nahrungsmittel- und Landwirtschaftsbereichs;
-
-- 2\. eine institutionelle, an die regionale Entwicklung angepasste Organisation.
-
+  - 1\. eine gezielte und effiziente Organisation des Nahrungsmittel- und Landwirtschaftsbereichs,
+  - 2\. eine institutionelle, an die regionale Entwicklung angepasste Organisation;
 - d) Umweltspezifisch durch:
-
-- 1\. die Erhaltung und Verbesserung der biologischen Vielfalt des Wallis;
-
-- 2\. die Inwertsetzung der Umweltleistungen der Tätigkeiten im ländlichen Bereich.
-
+  - 1\. die Erhaltung und Verbesserung der biologischen Vielfalt des Wallis,
+  - 2\. die Inwertsetzung der Umweltleistungen der Tätigkeiten im ländlichen Bereich;
 - e) Soziokulturell durch:
-
-- 1\. die Erfüllung der Erwartungen der Gesellschaft an den ländlichen Raum;
-
-- 2\. das Respektieren und Fördern der ländlich-kulturellen Identität;
-
-- 3\. die Herstellung und Förderung von Nahrungsmitteln, von Lebensraum und Leistungen, die sich zugunsten der Volksgesundheit auswirken.
+  - 1\. die Erfüllung der Erwartungen der Gesellschaft an den ländlichen Raum,
+  - 2\. das Respektieren und Fördern der ländlich-kulturellen Identität,
+  - 3\. die Herstellung und Förderung von Nahrungsmitteln, von Lebensraum und Leistungen, die sich zugunsten der Volksgesundheit auswirken.
 
 <sup>2</sup> Es wendet die Bundesgesetzgebung über die Landwirtschaft an und ergänzt diese.
 
@@ -93,7 +76,6 @@ verordnet:
 <sup>2</sup> Landwirtschaft umfasst:
 
 - a) die Produktion von Pflanzen und anderen Produkten, die sich zum Konsum oder zur Verarbeitung eignen und aus dem Pflanzenbau oder der Nutztierhaltung stammen;
-
 - b) die Verwertung, die Lagerung und den Verkauf landwirtschaftlicher Erzeugnisse.
 
 <sup>3</sup> Das vorliegende Gesetz ist anwendbar für Strukturverbesserungen, die unter Mitwirkung der öffentlichen Hand vorgenommen werden und Anspruch auf Investitionshilfen haben.
@@ -107,19 +89,12 @@ verordnet:
 <sup>1</sup> Der Kanton unterstützt und fördert insbesondere:
 
 - a) folgende Agrarzweige und deren Erzeugnisse:
-
-- 1\. den Reb- und Weinbau;
-
-- 2\. den Obst-, den Gemüse- und Gartenbau;
-
-- 3\. die Viehzucht, Tierproduktion und Bienenzucht;
-
-- 4\. den Acker- und Futterbau;
-
-- 5\. den Anbau von Heilpflanzen und Kräutern;
-
-- 6\. die Alpwirtschaft;
-
+  - 1\. den Reb- und Weinbau,
+  - 2\. den Obst-, den Gemüse- und Gartenbau,
+  - 3\. die Viehzucht, Tierproduktion und Bienenzucht,
+  - 4\. den Acker- und Futterbau,
+  - 5\. den Anbau von Heilpflanzen und Kräutern,
+  - 6\. die Alpwirtschaft;
 - b) die Diversifikation der landwirtschaftlichen Tätigkeiten, namentlich die Förderung und Entwicklung des Agrotourismus, und deren Koordination mit den anderen wirtschaftlichen Tätigkeiten.
 
 <sup>2</sup> Bei der Anwendung des vorliegenden Gesetzes wird dem Schwierigkeitsgrad der Produktionsbedingungen Rechnung getragen.
@@ -149,22 +124,18 @@ verordnet:
 <sup>4</sup> Das für Landwirtschaft zuständige Departement erlässt die erforderlichen Vorschriften zur Konkretisierung der agrarpolitischen Massnahmen. Insbesondere definiert es:
 
 - a) die Anspruchsberechtigten;
-
 - b) die Bedingungen;
-
 - c) die Unterstützungsbeiträge;
-
 - d) die Berechnungsverfahren;
-
 - e) die Auflagen und Pflichten.
 
-### 2. Titel: Organisation
+## 2 Organisation
 
 #### Art. 6
 
 **Staatsrat**
 
-Der Staatsrat übt die Oberaufsicht über den Vollzug der eidgenössischen und kantonalen Landwirtschaftsgesetzgebung sowie über die gestützt auf Artikel 5 Absatz 2 beschlossenen agrarpolitischen Massnahmen aus.
+<sup>1</sup> Der Staatsrat übt die Oberaufsicht über den Vollzug der eidgenössischen und kantonalen Landwirtschaftsgesetzgebung sowie über die gestützt auf Artikel 5 Absatz 2 beschlossenen agrarpolitischen Massnahmen aus.
 
 #### Art. 7
 
@@ -176,7 +147,9 @@ Der Staatsrat übt die Oberaufsicht über den Vollzug der eidgenössischen und k
 
 #### Art. 8
 
-Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das für die Lebensmittelkontrolle und Veterinärwesen zuständige Departement ist verantwortlich für die Kontrolle landwirtschaftlicher Nahrungsmittel sowie für den Handel mit Pflanzenschutz- und Düngemitteln, sowie das Veterinärwesen.
+**Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement**
+
+<sup>1</sup> Das für die Lebensmittelkontrolle und Veterinärwesen zuständige Departement ist verantwortlich für die Kontrolle landwirtschaftlicher Nahrungsmittel sowie für den Handel mit Pflanzenschutz- und Düngemitteln, sowie das Veterinärwesen.
 
 #### Art. 9
 
@@ -228,7 +201,9 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 
 <sup>4</sup> Die mit öffentlichrechtlichen Aufgaben betrauten Organisationen reichen jährlich beim zuständigen Departement einen Tätigkeitsbericht ein.
 
-### 3. Titel: Qualitäts- und Absatzförderung
+## 3 Qualitäts- und Absatzförderung
+
+### 3.1 Im Allgemeinen
 
 #### Art. 14
 
@@ -238,6 +213,8 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 
 <sup>2</sup> Diese Tätigkeiten werden namentlich durch staatlich erhobene Abgaben finanziert.
 
+### 3.2 Landwirtschaftliche Abgaben
+
 #### Art. 15
 
 **Abgabepflicht**
@@ -245,13 +222,9 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 <sup>1</sup> Abgabepflichtig sind:
 
 - a) die Eigentümer von Reben;
-
 - b) die Einkellerer die zur ganzen oder teilweisen Vermarktung die Traubenernte verarbeiten oder vinifizieren;
-
 - c) die Eigentümer von Obst- und Gemüsekulturen;
-
 - d) die Spediteure und Unternehmer, die Obst und Gemüse vermarkten oder verarbeiten;
-
 - e) die Produzenten und Händler von Walliser Käse.
 
 <sup>2</sup> Abgaben unter zehn Franken werden nicht erhoben. Der Staatsrat sieht in gewissen Agrarzweigen eine Abgabebefreiung für den Eigenverbrauch vor.
@@ -260,7 +233,7 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 
 <sup>4</sup> Wer seine eigene Ernte vermarktet oder verarbeitet, muss Abgaben für die Produktion und für die Vermarktung entrichten. Gleiches gilt für denjenigen, der seine Ernte einem ausserhalb des Kantons ansässigen Käufer liefert.
 
-<sup>5</sup> Für die Abgaben ist der Stand des Eigentums am 31. Dezember massgebend.
+<sup>5</sup> Der Stand des Eigentums am 31. Dezember des Produktionsjahres ist massgebend.
 
 #### Art. 16
 
@@ -271,22 +244,15 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 <sup>2</sup> Die Abgaben können variieren:
 
 - 1\. für die Produktion:
-
-1.1. von 1,5 bis 5 Rappen pro Quadratmeter Reben;
-
-1.2. von 2 bis 3 Rappen pro Quadratmeter Obst- und Gemüsekultur;
-
-1.2. von 15 bis 30 Rappen pro Kilo produzierten Käse;
-
+  - 1\.1. von 1.5 bis 5 Rappen pro Quadratmeter Reben,
+  - 1\.2. von 2 bis 3 Rappen pro Quadratmeter Obst- und Gemüsekultur,
+  - 1\.3. von 15 bis 30 Rappen pro Kilo produzierten Käse,
 - 2\. für den Handel:
+  - 2\.1. von 1.5 bis 5 Rappen pro Kilo eingekellerte Weinernte,
+  - 2\.2. von 0.8 bis 1 Rappen pro Kilo vermarktetes oder verarbeitetes Obst und Gemüse,
+  - 2\.3. von 15 bis 30 Rappen Kilo vermarkteter Käse.
 
-2.1. von 1,5 bis 5 Rappen pro Kilo eingekellerte Weinernte;
-
-2.2. von 0,8 bis 1 Rappen pro Kilo vermarktetes oder verarbeitetes Obst und Gemüse;
-
-2.3. von 15 bis 30 Rappen Kilo vermarkteter Käse.
-
-<sup>3</sup> Für die gemäss Artikel 15 Absatz 2 neu der Abgabepflicht unterstellten Produzenten werden die Abgaben für Produktion und Vermarktung nach demselben Prinzip erhoben. Sie betragen insgesamt höchstens vier Prozent des Marktpreises
+<sup>3</sup> Für die gemäss Artikel 15 Absatz 3 neu der Abgabepflicht unterstellten Produzenten werden die Abgaben für Produktion und Vermarktung nach demselben Prinzip erhoben. Sie betragen insgesamt höchstens vier Prozent des Marktpreises.
 
 #### Art. 17
 
@@ -307,7 +273,6 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 <sup>1</sup> Eigentümer, Bewirtschafter, Spediteure, Händler sowie die betroffenen Dienststellen der Gemeinden und des Staates sind gehalten, die notwendigen Angaben zu liefern für:
 
 - a) die Berechnung und Erhebung der Abgaben;
-
 - b) den Vollzug der Aufgaben im Bereich Information, Absatzförderung und Verwertung, insbesondere zur Erstellung von Ernteschätzungen und periodischen Bestandesaufnahmen.
 
 <sup>2</sup> Der Abgabepflichtige, der die erforderlichen Taxierungsunterlagen nicht einreicht oder falsche Angaben macht, wird von Amtes wegen veranlagt.
@@ -326,11 +291,115 @@ Das für Lebensmittelkontrolle und Veterinärwesen zuständige Departement Das f
 
 **Eidgenössische Abgaben**
 
-Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielsetzung erhoben, kann der Staatsrat die kantonalen Abgaben anpassen oder aufheben.
+<sup>1</sup> Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielsetzung erhoben, kann der Staatsrat die kantonalen Abgaben anpassen oder aufheben.
 
-### 4. Titel: Reb- und Weinbau
+### 3.3 Spezialfinanzierung für meteorologische oder phytosanitäre Risiken
 
-### 1. Kapitel: Allgemeine Bestimmungen
+#### Art. 20a
+
+**System und Zweck**
+
+<sup>1</sup> Der Staatsrat kann nach Anhörung des Branchenverbands der beitragspflichtigen Branche die Zahlung von Beiträgen obligatorisch machen.
+
+<sup>2</sup> Diese Beiträge sollen in einen Fonds fliessen, der zu diesem Zweck im Sinne von Artikel 9 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle (FHG) eingerichtet wurde und den Namen “Spezialfinanzierung für meteorologische oder phytosanitäre Risiken“ trägt. Dieser Fonds ist rechtlich an den Kanton gebunden und besitzt keine eigene Rechtspersönlichkeit. Er wird von der für die Landwirtschaft zuständigen Dienststelle (nachfolgend: die Dienststelle) autonom verwaltet und verfügt über eine eigene Buchhaltung.
+
+<sup>3</sup> Die Kosten für die Verwaltung des Fonds und die Verteilung der Beiträge werden über das ordentliche Budget des Staates finanziert.
+
+<sup>4</sup> Der Fonds dient ausschliesslich dem Zweck, den Fortbestand der Walliser Landwirtschaftskulturen bzw. der beitragspflichtigen Branchen bei Eintritt schwerwiegender meteorologischer oder phytosanitärer Ereignisse oder bei der Bewältigung bedeutender phytosanitärer Risiken wie folgt sicherzustellen:
+
+- a) schwerwiegende meteorologische oder phytosanitäre Ereignisse: durch gezielte finanzielle Unterstützung für Massnahmen zur Beteiligung an der Versicherungsdeckung oder für Hilfsmassnahmen im Schadensfall;
+- b) bedeutende phytosanitäre Risiken: durch gezielte finanzielle Unterstützung für Präventiv- oder Bekämpfungsmassnahmen.
+
+<sup>5</sup> Als schwerwiegende meteorologische Ereignisse gelten alle bedeutenden meteorologischen Ereignisse, die sehr grossen Schaden verursachen und dabei eine Produktionsbranche oder eine Kulturart in ihrer Gesamtheit auf kantonaler Ebene oder in einem klar definierten Perimeter gefährden.
+
+<sup>6</sup> Als schwerwiegende phytosanitäre Ereignisse gelten die Vermehrung von Schadorganismen, die sehr grossen Schaden verursachen und dabei eine Produktionsbranche oder eine Kulturart in ihrer Gesamtheit auf kantonaler Ebene oder in einem klar definierten Perimeter gefährden.
+
+<sup>7</sup> Als bedeutende phytosanitäre Risiken gelten Schadorganismen, insbesondere neu auftretende, die sehr grossen wirtschaftlichen Schaden verursachen können, wenn sie sich rasch über das gesamte beitragspflichtige Produktionsgebiet verbreiten oder wenn ihre Auswirkungen signifikant zunehmen.
+
+<sup>8</sup> Der Staatsrat erlässt ein Reglement zur Ausführung der vorliegenden Gesetzesbestimmungen. Dieses legt namentlich die Einzelheiten der Modalitäten fest:
+
+- a) für die Struktur und die Verwaltung des Fonds;
+- b) für die Erhebung der Beiträge;
+- c) für die Verteilung der Beiträge an die Begünstigten.
+
+#### Art. 20b
+
+**Beitragspflicht**
+
+<sup>1</sup> Beitragspflichtig können durch ausdrückliche Bezeichnung im Reglement des Staatsrates folgende Personen sein:
+
+- a) die gemeldeten Bewirtschafter;
+- b) die Verarbeiter oder Vermarkter von landwirtschaftlichen Erzeugnissen.
+
+<sup>2</sup> Als gemeldete Bewirtschafter gelten Personen, die eines der nachfolgenden Kriterien erfüllen:
+
+- a) Empfänger von Direktzahlungen in der beitragspflichtigen Branche;
+- b) Bewirtschafter, deren Anbaufläche in der beitragspflichtigen Branche mindestens eine Standardarbeitskraft (SAK) erfordert und die sich vor dem 1. Januar des Produktionsjahres mittels des von der Dienststelle zur Verfügung gestellten offiziellen Formulars für Beiträge angemeldet haben.
+
+<sup>3</sup> Das Reglement des Staatsrates kann nach Anhörung des beitragspflichtigen Branchenverbands unterschiedliche Beiträge vorsehen, die von den inhärenten Risiken der jeweiligen Kulturart abhängen. Gegebenenfalls werden die für eine bestimmte Kulturart gesammelten Beträge in erster Linie für den Ausgleich von schwerwiegenden Ereignissen oder bedeutenden Risiken, die diese betreffen, verwendet.
+
+<sup>4</sup> Wer seine eigene Produktion vermarktet oder verarbeitet, muss die Beiträge für Produktion und für Vermarktung entrichten. Gleiches gilt für denjenigen, der seine Ernte einem ausserhalb des Kantons ansässigen Käufer liefert.
+
+<sup>5</sup> Massgebend ist der Bewirtschaftungszustand der Parzellen am 1. Januar des Produktionsjahres.
+
+#### Art. 20c
+
+**Höhe der Beiträge**
+
+<sup>1</sup> Der Staatsrat setzt nach Anhörung des beitragspflichtigen Branchenverbands die Höhe der Beiträge fest.
+
+<sup>2</sup> Die Höhe der Beiträge wird im Reglement des Staatsrates festgelegt und beträgt höchstens:
+
+- a) 5 Rappen pro Quadratmeter Anbaufläche;
+- b) 5 Rappen pro Kilo eingekellerter Weinernte, 1 Rappen pro Kilo vermarkteten oder verarbeiteten Obsts und Gemüses, bzw. 5 Rappen pro Kilo anderer vermarkteter oder verarbeiteter landwirtschaftlicher Erzeugnisse.
+
+<sup>3</sup> Die öffentliche Hand und private Dritte können freiwillig zur Äufnung des Fonds beitragen.
+
+<sup>4</sup> Der Staat Wallis stattet den Fonds mit einer Anfangskapitaleinlage von 1 Million Franken aus, die der Spezialfinanzierung im Sinne von Artikel 9 FHG bezüglich des Kantonsanteils an der leistungsabhängigen Schwerverkehrsabgabe LSVA der Dienststelle entnommen wird.
+
+#### Art. 20d
+
+**Erhebung**
+
+<sup>1</sup> Die Beiträge werden nach dem gleichen Verfahren erhoben wie die landwirtschaftlichen Abgaben, unter Vorbehalt der besonderen Bestimmungen des vorliegenden Gesetzestitels und seines Ausführungsreglements.
+
+<sup>2</sup> Die Auskunftspflicht ist identisch mit jener für landwirtschaftliche Abgaben.
+
+#### Art. 20e
+
+**Zuweisung und Verwendung**
+
+<sup>1</sup> Die Beiträge werden vollumfänglich in den Fonds eingezahlt. Sie werden nicht verzinst.
+
+<sup>2</sup> Sie werden ausschliesslich dem in Artikel 20a definierten Zweck zugewiesen und pro beitragspflichtige Branche oder Kulturart gemäss den Vorschriften des Reglements des Staatsrates verwendet.
+
+<sup>3</sup> Die Beträge der ausbezahlten Beiträge werden systematisch der Steuerverwaltung gemeldet.
+
+<sup>4</sup> Das Departement übt die Oberaufsicht über den Fonds in Bezug auf alle Elemente aus, die in diesen Gesetzesbestimmungen festgelegt sind, sowie in Bezug auf die Vorschriften, die im Reglement des Staatsrates genannt werden.
+
+#### Art. 20f
+
+**Nachfinanzierung des Fonds**
+
+<sup>1</sup> Sollte der Fonds bei einem in Artikel 20a aufgeführten Ereignis oder Risiko nicht ausreichen, kann der Kanton auf die künftig zu erwartenden Beiträge der beitragspflichtigen Branche oder Kulturart einen angemessenen Vorschuss gewähren.
+
+<sup>2</sup> Die Summe der noch nicht zurückgezahlten Vorschüsse darf in keinem Fall die Beiträge übersteigen, die für die beitragspflichtige Branche oder Kulturart in den 5 Jahren nach dem Antrag mit hoher Wahrscheinlichkeit erhoben werden.
+
+<sup>3</sup> Die Vorschüsse werden vorrangig in dem Masse zurückgezahlt, wie Mittel in den Fonds für die beitragspflichtige Branche oder Kulturart fliessen.
+
+<sup>4</sup> Die vom Kanton gewährten Vorschüsse sind zinsfrei.
+
+#### Art. 20g
+
+**Koordination**
+
+<sup>1</sup> Sollten auf nationaler Ebene Beiträge mit ähnlichen Zwecken auf dieselben Produkte erhoben werden, kann der Staatsrat die von ihm genehmigten Beiträge kürzen oder aufheben und sein Reglement entsprechend anpassen.
+
+<sup>2</sup> Der Staatsrat kann die Beiträge, die nach Eintritt eines schwerwiegenden meteorologischen oder phytosanitären Ereignisses oder nach Bewältigung eines bedeutenden phytosanitären Risikos ausbezahlt werden, insofern kürzen oder aufheben, als diese sonst zu einer Überentschädigung führen würden.
+
+## 4 Reb- und Weinbau
+
+### 4.1 Allgemeine Bestimmungen
 
 #### Art. 21
 
@@ -402,7 +471,7 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 <sup>2</sup> Sie sind verpflichtet, die Einhaltung der Bestimmungen dieses Kapitels zu überwachen und dem Departement allfällige Verstösse zu melden.
 
-### 2. Kapitel: Rebbausektoren
+### 4.2 Rebbausektoren
 
 #### Art. 29
 
@@ -422,9 +491,9 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 <sup>1</sup> Weinernten, die aus Rebsorten stammen, welche nach Inkrafttreten des vorliegenden Gesetzes in Sektoren angepflanzt wurden, in welchen sie als verboten angesehen sind, haben keinen Anspruch auf die Ursprungsbezeichnung ''AOC Wallis''.
 
-<sup>2</sup> Der Staatsrat kann die Verwendung der Ursprungsbezeichnung «AOC Wallis» für Weinernten aus Rebsorten verbieten, sofern diese nach Inkrafttreten des vorliegenden Gesetzes in Sektoren angepflanzt werden, in denen sie als ungeeignet erachtet werden.
+<sup>2</sup> Der Staatsrat kann die Verwendung der Ursprungsbezeichnung "AOC Wallis" für Weinernten aus Rebsorten verbieten, sofern diese nach Inkrafttreten des vorliegenden Gesetzes in Sektoren angepflanzt werden, in denen sie als ungeeignet erachtet werden.
 
-### 3. Kapitel: Anforderungen an die Reben, die Weinernte und die Weine
+### 4.3 Anforderungen an die Reben, die Weinernte und die Weine
 
 #### Art. 31
 
@@ -436,15 +505,15 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 <sup>3</sup> In Jahren mit aussergewöhnlichen klimatischen Bedingungen kann das Departement zu Beginn der Ernte eine Herabsetzung der natürlichen Mindestzuckergehalte verfügen oder andere zweckdienliche Massnahmen zur Gewährleistung der Weinqualität ergreifen.
 
-<sup>4</sup> Der Staatsrat kann die Zuständigkeit, die Ertragsgrenzen der Weine mit kontrollierter Ursprungsbezeichnung ?'AOC Wallis'' um maximal 0,2 kg/m2 Trauben oder 0,16 l/m2 Most zu senken oder zu erhöhen und bei der Kategorie II um maximal 0,3 kg/m2 Trauben oder um 0,24 l/m2 Most zu senken oder zu erhöhen, der Branchenorganisation übertragen.<sup>1</sup>
+<sup>4</sup> Der Staatsrat kann die Zuständigkeit, die Ertragsgrenzen der Weine mit kontrollierter Ursprungsbezeichnung "AOC Wallis'' um maximal 0.2kg/m² Trauben oder 0.16l/m² Most zu senken oder zu erhöhen und bei der Kategorie II um maximal 0.3kg/m² Trauben oder um 0.24l/m² Most zu senken oder zu erhöhen, der Branchenorganisation übertragen.
 
 #### Art. 32
 
 **Ursprungsregeln**
 
-<sup>1</sup> Der Staatsrat legt nach Anhörung der zuständigen Branchenorganisation die Ursprungsregeln der Weinernte und der Weine fest, die insbesondere vorsehen, dass Weine mit kontrollierter Ursprungsbezeichnung «AOC Wallis» oder Walliser Herkunftsbezeichnung von Trauben stammen, die im Wallis geerntet, gewogen, geprüft und zu Wein verarbeitet wurden.
+<sup>1</sup> Der Staatsrat legt nach Anhörung der zuständigen Branchenorganisation die Ursprungsregeln der Weinernte und der Weine fest, die insbesondere vorsehen, dass Weine mit kontrollierter Ursprungsbezeichnung "AOC Wallis" oder Walliser Herkunftsbezeichnung von Trauben stammen, die im Wallis geerntet, gewogen, geprüft und zu Wein verarbeitet wurden.
 
-<sup>2</sup> Er kann zu gegebener Zeit für Weine mit kontrollierter Ursprungsbezeichnung «AOC Wallis» oder Walliser Herkunftsbezeichnung die Verpflichtung zur Abfüllung im Wallis vorschreiben.
+<sup>2</sup> Er kann zu gegebener Zeit für Weine mit kontrollierter Ursprungsbezeichnung "AOC Wallis" oder Walliser Herkunftsbezeichnung die Verpflichtung zur Abfüllung im Wallis vorschreiben.
 
 <sup>3</sup> Er kann von diesen Grundsätzen abweichen und entsprechende Bedingungen festlegen.
 
@@ -454,7 +523,7 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 <sup>1</sup> Der Staatsrat erstellt eine Liste der traditionellen Walliser Benennungen und legt die Verwendungs- und Schutzvorschriften fest.
 
-<sup>2</sup> Diese Benennungen sind gegen jeglichen widerrechtlichen Gebrauch, Nachahmung, Evokation oder Übersetzung geschützt, selbst in Verbindung mit Ausdrücken wie « Art », « Typ », « Nachahmung », « Methode » oder analogen Ausdrücken.
+<sup>2</sup> Diese Benennungen sind gegen jeglichen widerrechtlichen Gebrauch, Nachahmung, Evokation oder Übersetzung geschützt, selbst in Verbindung mit Ausdrücken wie "Art", "Typ", "Nachahmung", "Methode" oder analogen Ausdrücken.
 
 <sup>3</sup> Der Staatsrat kann die Verwendung spezifischer Bezeichnungen reglementieren.
 
@@ -466,7 +535,7 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 <sup>2</sup> Er ergreift alle Massnahmen, die der Verbesserung der Weinqualität und der Glaubwürdigkeit der kontrollierten Ursprungsbezeichnung ''AOC Wallis'' dienen.
 
-### 4. Kapitel: Kontrollen
+### 4.4 Kontrollen
 
 #### Art. 35
 
@@ -482,7 +551,7 @@ Werden auf Bundesebene auf den gleichen Produkten Abgaben mit ähnlicher Zielset
 
 **Kontrollen**
 
-Der Staatsrat kann die Kontrolle der Reifeentwicklung der Trauben, der Ernteschätzungen, die Rebbergkontrolle, die qualitative und quantitative Kontrolle der Weinernte, die organoleptische Kontrolle, die Keller- und Vermarktungskontrolle einführen.
+<sup>1</sup> Der Staatsrat kann die Kontrolle der Reifeentwicklung der Trauben, der Ernteschätzungen, die Rebbergkontrolle, die qualitative und quantitative Kontrolle der Weinernte, die organoleptische Kontrolle, die Keller- und Vermarktungskontrolle einführen.
 
 #### Art. 37
 
@@ -526,7 +595,7 @@ Der Staatsrat kann die Kontrolle der Reifeentwicklung der Trauben, der Erntesch�
 
 <sup>4</sup> Die übertragenen Kontrollen bilden Gegenstand von Reglementen, die homologiert werden müssen.
 
-### 5. Kapitel: Bezeichnung Grand Cru
+### 4.5 Bezeichnung Grand Cru
 
 #### Art. 41
 
@@ -570,35 +639,41 @@ Der Staatsrat kann die Kontrolle der Reifeentwicklung der Trauben, der Erntesch�
 
 <sup>3</sup> Nur die Gemeinden, deren bestehende Rebbausektoren nachgeprüft, verfeinert und homologiert wurden, dürfen aus der Bezeichnung Grand Cru Nutzen ziehen.
 
-### 5. Titel: Aufsicht, Kulturpflege und Schutzperimeter
+## 5 Aufsicht, Kulturpflege und Schutzperimeter
 
 #### Art. 45
 
-**Kantonale Bekämpfungsmassnahmen**
+**Schadorganismen**
 
-Das Departement kann durch einen im Amtsblatt veröffentlichten Entscheid die obligatorische Bekämpfung auf Organismen ausweiten, die nicht auf der eidgenössischen Liste aufgeführt sind.
+<sup>1</sup> Unter Schadorganismen versteht man Krankheiten, Schädlinge, invasive Pflanzen oder alle anderen Organismen, die eine potenzielle Gesundheitsgefahr für Pflanzenkulturen darstellen.
+
+<sup>2</sup> Jeder Bewirtschafter, oder andernfalls der Eigentümer, muss rechtzeitig Präventiv- oder Bekämpfungsmassnahmen gegen Pflanzenschadorganismen einsetzen, um die Gesundheit der Nachbarparzellen zu wahren.
+
+<sup>3</sup> Das Departement kann durch einen im Amtsblatt veröffentlichten Beschluss die obligatorische Bekämpfung auf Schadorganismen ausweiten, die nicht auf den eidgenössischen Listen aufgeführt sind.
+
+<sup>4</sup> Mit Einverständnis des Departements und wenn das allgemeine Interesse dies erfordert, kann die Gemeinde durch Reglement Präventiv- oder Bekämpfungsmethoden gegen Schadorganismen vorschreiben.
+
+<sup>5</sup> Jede Ersatzvornahme von nützlichen Massnahmen, die für den Vollzug eines in Kraft getretenen Beschlusses des Departements nötig ist, wird von der Gemeinde des Standorts der Parzelle umgesetzt und den Zuwiderhandelnden in Rechnung gestellt.
+
+<sup>6</sup> Werden Massnahmen vom Kanton finanziell unterstützt, haben sich die betroffenen Gemeinden maximal in Höhe des kantonalen Beitrags zu beteiligen.
 
 #### Art. 46
 
-**Immissionen, Parasiten und Krankheiten**
-
-<sup>1</sup> Jeder Bewirtschafter, und bei Fehlen desselben der Eigentümer, ist gehalten, innert nützlicher Zeit die geeigneten Behandlungen gegen Parasiten vorzunehmen und die notwendigen Massnahmen zur Zerstörung von schädlichen Gewächsen, die eine gesundheitliche Gefahr für die Nachbarparzellen darstellen, zu ergreifen.
-
-<sup>2</sup> Mit Einverständnis des Departements und wenn das allgemeine Interesse dies erfordert, kann die Gemeinde durch Reglement eine Bekämpfungsmethode vorschreiben.
-
-<sup>3</sup> Werden Massnahmen vom Kanton finanziell unterstützt, haben sich die betroffenen Gemeinden maximal bis zur Höhe des kantonalen Beitrages zu beteiligen.
+**…**
 
 #### Art. 47
 
 **Rückverfolgbarkeit von Pflanzen und Gewächsen**
 
-Jegliches Anpflanzen von importierten Reb- und Baumgewächsen muss spätestens bis am 30. Juni nach Anpflanzung dem Departement gemeldet werden.
+<sup>1</sup> Jegliches Anpflanzen von importierten Reb- und Baumgewächsen muss spätestens bis am 30. Juni nach Anpflanzung dem Departement gemeldet werden.
 
 #### Art. 48
 
 **Brachland und vernachlässigter Boden**
 
 <sup>1</sup> Das Departement ergreift geeignete Massnahmen, wenn eine brachliegende oder vernachlässigte Parzelle eine Gefahr darstellen oder der Nachbarschaft Schaden zufügen kann.
+
+<sup>1<sup>bis</sup></sup> Jede Ersatzvornahme von nützlichen Massnahmen, die für den Vollzug eines in Kraft getretenen Beschlusses des Departements nötig ist, wird von der Gemeinde des Standorts der Parzelle umgesetzt und den Zuwiderhandelnden in Rechnung gestellt.
 
 <sup>2</sup> Falls es im öffentlichen Interesse liegt, kann jeder Bewirtschafter das Departement um eine Bewilligung ersuchen, dieses Land kostenlos zu bewirtschaften.
 
@@ -618,28 +693,23 @@ Jegliches Anpflanzen von importierten Reb- und Baumgewächsen muss spätestens b
 
 **Anbringen eines Banns**
 
-Die Gemeinden können durch einen im Amtsblatt veröffentlichten Entscheid gewisse Teile ihres Gebietes für eine bestimmte Dauer unter Bann stellen.
+<sup>1</sup> Die Gemeinden können durch einen im Amtsblatt veröffentlichten Entscheid gewisse Teile ihres Gebietes für eine bestimmte Dauer unter Bann stellen.
 
-### 6. Titel: Strukturverbesserungen
+## 6 Strukturverbesserungen
 
-### 1. Kapitel: Allgemeine Bestimmungen
+### 6.1 Allgemeine Bestimmungen
 
 #### Art. 51
 
 **Definitionen**
 
-Unter Strukturverbesserungen versteht man namentlich:
+<sup>1</sup> Unter Strukturverbesserungen versteht man namentlich:
 
 - a) Bodenverbesserungen, nämlich Werke und Anlagen im Bereich des ländlichen Tiefbaus, die Neuordnung des Grundeigentums und der Pachtverhältnisse und die Verbesserung der Produktionsbedingungen;
-
 - b) den Bau und die Sanierung von landwirtschaftlichen Gebäuden, Alpsanierungen und Verbesserungen der Lebensbedingungen der ländlichen Bevölkerung;
-
 - c) die periodische Instandsetzung und technische Anpassung der Strukturverbesserungswerke, der landwirtschaftlichen Bauten und der Alpinfrastrukturen;
-
 - d) regionale Entwicklungsprojekte, die Förderung von einheimischen und regionalen Produkten und sämtliche Strukturverbesserungen im ländlichen Raum;
-
 - e) Gebäude und Einrichtungen für die Lagerung, Verwertung, Verarbeitung und Verpackung landwirtschaftlicher Erzeugnisse;
-
 - f) der Erhalt und die Verbesserung traditioneller Strukturen wie Suonen, Trockenmauern und alpwirtschaftliche Gebäude.
 
 #### Art. 52
@@ -649,9 +719,7 @@ Unter Strukturverbesserungen versteht man namentlich:
 <sup>1</sup> Die Strukturverbesserungen können ausgeführt werden von:
 
 - a) Strukturverbesserungsgenossenschaften;
-
 - b) Körperschaften des öffentlichen Rechts;
-
 - c) Privaten.
 
 <sup>2</sup> Das Departement kann die Verfahren im Fall von Bodenverbesserungen leiten, die nicht ausschliesslich die Landwirtschaft betreffen, wie Landumlegungen in Verbindung mit Grossprojekten.
@@ -682,13 +750,13 @@ Unter Strukturverbesserungen versteht man namentlich:
 
 **Gebührenbefreiung**
 
-Alle Geschäfte, die zur Ausführung der mit Investitionshilfen unterstützten Strukturverbesserungen erforderlich sind, werden von Handänderungssteuern und sonstigen Gebühren befreit.
+<sup>1</sup> Alle Geschäfte, die zur Ausführung der mit Investitionshilfen unterstützten Strukturverbesserungen erforderlich sind, werden von Handänderungssteuern und sonstigen Gebühren des Grundbuchamtes befreit.
 
 #### Art. 56
 
 **Departement**
 
-Das Departement berät den Bauherrn, leitet die Verfahren zur Projektgenehmigung und Gewährung von Investitionshilfen und übt die Oberaufsicht über die Ausführung und den Unterhalt der unterstützten Werke aus.
+<sup>1</sup> Das Departement berät den Bauherrn, leitet die Verfahren zur Projektgenehmigung und Gewährung von Investitionshilfen und übt die Oberaufsicht über die Ausführung und den Unterhalt der unterstützten Werke aus.
 
 #### Art. 57
 
@@ -719,22 +787,18 @@ Das Departement berät den Bauherrn, leitet die Verfahren zur Projektgenehmigung
 <sup>3</sup> Ein Entwicklungsplan für den ländlichen Raum rechtfertigt sich namentlich:
 
 - a) wenn eine ungeeignete Bodenbewirtschaftung festgestellt wird;
-
 - b) wenn ein offenkundiger Koordinierungsbedarf festgestellt wird;
-
 - c) wenn der landwirtschaftlichen Nutzung durch aufwändige Infrastrukturprojekte beträchtliche Teile des fruchtbaren Bodens entzogen werden.
 
 <sup>4</sup> Ein Alpbewirtschaftungsplan rechtfertigt sich namentlich:
 
 - a) wenn dies für eine gute Alpbewirtschaftung erforderlich ist;
-
 - b) wenn der Alpbetrieb oder Infrastrukturprojekte die Wasserqualität der Trinkwasserversorgung beeinträchtigen;
-
 - c) wenn ein offenkundiger Koordinierungsbedarf, insbesondere bei der Bestimmung von Natur- und Landschaftsschutzzonen, festgestellt wird.
 
 <sup>5</sup> Die Gewährung von Kantonsbeiträgen kann von der Ausarbeitung eines solchen Planes abhängig gemacht werden.
 
-### 2. Kapitel: Bodenverbesserungen
+### 6.2 Bodenverbesserungen
 
 #### Art. 60
 
@@ -745,7 +809,6 @@ Das Departement berät den Bauherrn, leitet die Verfahren zur Projektgenehmigung
 <sup>2</sup> Der Initiant reicht einen formellen Antrag beim Departement ein, welches ihm die Ausarbeitung einer Vorstudie in Bezug auf:
 
 - a) die technische und wirtschaftliche Machbarkeit;
-
 - b) die Festlegung des Perimeters des Werkes bewilligt oder verweigert.
 
 #### Art. 61
@@ -796,28 +859,22 @@ Das Departement berät den Bauherrn, leitet die Verfahren zur Projektgenehmigung
 
 **Eigentumsbeschränkung bei Landumlegung**
 
-Eigentumsbeschränkungen werden, im Rahmen der Landumlegungen, nach folgenden Grundsätzen behandelt:
+<sup>1</sup> Eigentumsbeschränkungen werden, im Rahmen der Landumlegungen, nach folgenden Grundsätzen behandelt:
 
 - a) die für die Durchführung einer Gesamtmelioration erforderlichen Flächen werden in Form des entschädigungslosen prozentualen Abzuges auf den Wert der in das Unternehmen einbezogenen Grundstücke erworben. Für bedeutende Arbeiten, die im öffentlichen Interesse liegen, entspricht die Entschädigung dem Verkehrswert;
-
-- b) die Ansprüche, welche nicht 20 Prozent des Durchschnittsanspruches erreichen, können von der Verkehrswertentschädigung ausgeschlossen werden;
-
+- b) die Ansprüche, welche nicht 20 Prozent des Durchschnittsanspruches erreichen, können gegen Verkehrswertentschädigung ausgeschlossen werden;
 - c) können einem Eigentümer bei der Neuzuteilung seine abgetretenen Flächen und Werte nicht ersetzt werden, so werden Mehr- oder Minderzuteilungen zum Verkehrswert abgerechnet;
-
 - d) die Dienstbarkeiten sind aufzuheben, den neuen Gegebenheiten entsprechend anzupassen oder neu zu begründen. Bei Landumlegungen, mit Inbesitznahme der neuen Parzellen, werden alle Dienstbarkeiten des alten Zustandes aufgehoben, mit Ausnahme von übertragenen oder neuen Lasten und Dienstbarkeiten;
-
 - e) während der Ausarbeitung des neuen Zustandes darf ohne Zustimmung des Departements keine Eigentumsübertragung vorgenommen und ins Grundbuch eingetragen werden.
 
 #### Art. 67
 
 **Enteignungen**
 
-Die für die Ausführung von Bodenverbesserungsprojekten erforderlichen Enteignungen werden nach den Bestimmungen der Enteignungsgesetzgebung geregelt unter Vorbehalt folgender Abweichungen:
+<sup>1</sup> Die für die Ausführung von Bodenverbesserungsprojekten erforderlichen Enteignungen werden nach den Bestimmungen der Enteignungsgesetzgebung geregelt unter Vorbehalt folgender Abweichungen:
 
 - a) wird eine Ausführungskommission ernannt, ist sie für die Grundstückschätzung zuständig;
-
 - b) die Teile der Parzellen, die für eine rationelle Nutzung oder für eine Erschliessung der Nachbargrundstücke zu gering sind, werden nach Möglichkeit und im Rahmen des endgültigen Vorhabens durch Verbindung mit den angrenzenden Grundstücken ausgeschieden;
-
 - c) die Rekursbehörde ist die kantonale Rekurskommission für den Bereich Landwirtschaft und Landumlegungen.
 
 #### Art. 68
@@ -834,7 +891,7 @@ Die für die Ausführung von Bodenverbesserungsprojekten erforderlichen Enteignu
 
 **Änderungen**
 
-Von der Eintragung der Anmerkung Bodenverbesserung bis zum Inkrafttreten des neuen Zustandes dürfen an Gebäuden, die Bestandteil des Perimeters sind, ohne Bewilligung des Departements keine Änderungen von Tatsachen und Rechten vorgenommen werden.
+<sup>1</sup> Von der Eintragung der Anmerkung Bodenverbesserung bis zum Inkrafttreten des neuen Zustandes dürfen an Gebäuden, die Bestandteil des Perimeters sind, ohne Bewilligung des Departements keine Änderungen von Tatsachen und Rechten vorgenommen werden.
 
 #### Art. 70
 
@@ -852,15 +909,15 @@ Von der Eintragung der Anmerkung Bodenverbesserung bis zum Inkrafttreten des neu
 
 <sup>2</sup> Die Rechtsänderungen, die sich aus der neuen Verteilung ergeben, wirken von Gesetzes wegen ab Genehmigung des neuen Zustandes.
 
-### 3. Kapitel: Bodenverbesserungsgenossenschaft
+### 6.3 Bodenverbesserungsgenossenschaft
 
 #### Art. 72
 
-**Definition und Gründung**
+**Definition**
 
 <sup>1</sup> Eine Bodenverbesserungsgenossenschaft ist eine öffentlich-rechtliche Körperschaft, welche gegenüber ihren Mitgliedern im erforderlichen Masse hoheitliche Befugnisse ausüben kann, um geplante Verbesserungswerke zu verwirklichen.
 
-<sup>2</sup> Die Gründung einer Genossenschaft und die Ausführung des Werkes werden mit Flächenmehr des betroffenen Gebietes beschlossen.
+<sup>2</sup> Die Ausführung des Werkes wird mit dem Flächenmehr des betroffenen Gebietes beschlossen.
 
 <sup>3</sup> Die an der Beschlussfassung nicht mitwirkenden Grundeigentümer gelten als zustimmend.
 
@@ -868,7 +925,7 @@ Von der Eintragung der Anmerkung Bodenverbesserung bis zum Inkrafttreten des neu
 
 #### Art. 73
 
-**Statuten der Genossenschaft**
+**Gründung und Statuten der Genossenschaft**
 
 <sup>1</sup> Die Gründungsversammlung genehmigt die Statuten der Genossenschaft, deren Mindestinhalt vom Departement festgelegt wird.
 
@@ -890,7 +947,7 @@ Von der Eintragung der Anmerkung Bodenverbesserung bis zum Inkrafttreten des neu
 
 **Kompetenzaufteilung**
 
-Der Staatsrat regelt die Kompetenzaufteilung zwischen den verschiedenen Genossenschaftsorganen und der Ausführungskommission.
+<sup>1</sup> Der Staatsrat regelt die Kompetenzaufteilung zwischen den verschiedenen Genossenschaftsorganen und der Ausführungskommission.
 
 #### Art. 76
 
@@ -904,7 +961,7 @@ Der Staatsrat regelt die Kompetenzaufteilung zwischen den verschiedenen Genossen
 
 **Entscheide**
 
-Die Entscheide der Genossenschaftsorgane gelten gegenüber ihren Mitgliedern als vollstreckbare Urteile im Sinne von Artikel 80 Absatz 2 des Bundesgesetzes über Schuldbetreibung und Konkurs.
+<sup>1</sup> Die Entscheide der Genossenschaftsorgane gelten gegenüber ihren Mitgliedern als vollstreckbare Urteile im Sinne von Artikel 80 Absatz 2 des Bundesgesetzes über Schuldbetreibung und Konkurs.
 
 #### Art. 78
 
@@ -940,9 +997,9 @@ Die Entscheide der Genossenschaftsorgane gelten gegenüber ihren Mitgliedern als
 
 **Subsidiäre Bestimmungen**
 
-Bei Fehlen gesetzlicher oder statutarischer Vorschriften gelten sinngemäss die Bestimmungen des Schweizerischen Zivilgesetzbuches über die Vereine.
+<sup>1</sup> Bei Fehlen gesetzlicher oder statutarischer Vorschriften gelten sinngemäss die Bestimmungen des Schweizerischen Zivilgesetzbuches über die Vereine.
 
-### 4. Kapitel: Finanzierung
+### 6.4 Finanzierung
 
 #### Art. 82
 
@@ -972,7 +1029,7 @@ Bei Fehlen gesetzlicher oder statutarischer Vorschriften gelten sinngemäss die 
 
 **Kosten im Falle der Nichtausführung**
 
-Der Kanton übernimmt die Kosten der Vorstudien, falls eine Genossenschaftsgründung nicht zustande kommt.
+<sup>1</sup> Der Kanton übernimmt die Kosten der Vorstudien, falls die Genossenschaftsgründung nicht zustande kommt oder die Projektumsetzung nicht möglich ist.
 
 #### Art. 86
 
@@ -984,7 +1041,7 @@ Der Kanton übernimmt die Kosten der Vorstudien, falls eine Genossenschaftsgrün
 
 <sup>3</sup> Die gleiche Regelung gilt in Bezug auf die Erhebung von Zwischenleistungen.
 
-### 5. Kapitel: Sicherung der Strukturverbesserungen
+### 6.5 Sicherung der Strukturverbesserungen
 
 #### Art. 87
 
@@ -1005,7 +1062,6 @@ Der Kanton übernimmt die Kosten der Vorstudien, falls eine Genossenschaftsgrün
 <sup>1</sup> Das Departement wacht darüber, dass nach einer mit Beiträgen unterstützten Strukturverbesserung:
 
 - a) landwirtschaftlich genutzte Flächen nachhaltig bewirtschaftet werden;
-
 - b) Werke, Anlagen und landwirtschaftliche Gebäude gut unterhalten werden.
 
 <sup>2</sup> Bei Vernachlässigung der Bewirtschaftung oder des Unterhaltes setzt das Departement den Verantwortlichen eine angemessene Frist, um Abhilfe zu schaffen.
@@ -1027,11 +1083,8 @@ Der Kanton übernimmt die Kosten der Vorstudien, falls eine Genossenschaftsgrün
 <sup>1</sup> Das Departement fordert die ganze oder teilweise Rückerstattung der kantonalen Beiträge, namentlich wenn:
 
 - a) die Bedingungen und Auflagen nicht erfüllt sind;
-
 - b) das Werk nur zum Teil fertig gestellt, in seinem Charakter verändert oder die Frist zur Ausführung ohne triftigen Grund nicht eingehalten worden ist;
-
 - c) das Werk nicht oder nur teilweise die Funktion erfüllt, die zur Beitragsgewährung geführt hat;
-
 - d) ein zerstörtes Gebäude nicht wieder aufgebaut wird.
 
 <sup>2</sup> Fordert das Departement die Rückerstattung von kantonalen Beiträgen, informiert es die Standortgemeinde des Werks über ihr Recht, die Rückerstattung zu verlangen.
@@ -1040,7 +1093,7 @@ Der Kanton übernimmt die Kosten der Vorstudien, falls eine Genossenschaftsgrün
 
 **Rückerstattung bei gewinnbringender Veräusserung**
 
-Wird ein mit Beiträgen unterstütztes Werk gewinnbringend veräussert, müssen diese zurückerstattet werden, ausser wenn die letzte Zahlung vor mehr als 20 Jahren erfolgte.
+<sup>1</sup> Wird ein mit Beiträgen unterstütztes Werk gewinnbringend veräussert, müssen diese zurückerstattet werden, ausser wenn die letzte Zahlung vor mehr als 20 Jahren erfolgte.
 
 #### Art. 92
 
@@ -1049,7 +1102,6 @@ Wird ein mit Beiträgen unterstütztes Werk gewinnbringend veräussert, müssen 
 <sup>1</sup> Die mit Beiträgen unterstützten Liegenschaften sind ohne Eintragung im Grundbuch mit einem gesetzlichen Grundpfand im Sinne von Art. 836 Zivilgesetzbuch belastet, um:
 
 - a) die Rückzahlung der Beiträge zu garantieren;
-
 - b) die Ausführungs-, Unterhalts- und Nutzungskosten eines Bodenverbesserungswerkes zu decken.
 
 <sup>2</sup> Dieses Pfandrecht geht allen bereits auf dem Grundstück lastenden Pfandrechten vor, mit Ausnahme der gesetzlichen Pfandrechte der kantonalen Steuergesetzgebung.
@@ -1058,7 +1110,7 @@ Wird ein mit Beiträgen unterstütztes Werk gewinnbringend veräussert, müssen 
 
 <sup>4</sup> Das gesetzliche Pfandrecht erlischt, wenn es nicht innerhalb von sechs Monaten nach Eintritt der Rechtskraft der Zahlungsverfügung eingetragen wird.
 
-### 6. Kapitel: Investitionskredite
+### 6.6 Investitionskredite
 
 #### Art. 93
 
@@ -1070,11 +1122,9 @@ Wird ein mit Beiträgen unterstütztes Werk gewinnbringend veräussert, müssen 
 
 #### Art. 94
 
-**Verwaltungsentscheide**
+**…**
 
-Wenn die Eintragung des Pfandrechts, die der Sicherstellung des Darlehens dient, aufgrund eines Verwaltungsentscheides gefordert wird, kann die zuständige Behörde eine Gebühr erheben.
-
-### 7. Titel: Bildung, Beratung, Forschung und Entwicklung
+## 7 Bildung, Beratung, Forschung und Entwicklung
 
 #### Art. 95
 
@@ -1104,7 +1154,7 @@ Wenn die Eintragung des Pfandrechts, die der Sicherstellung des Darlehens dient,
 
 <sup>2</sup> Das Departement erlässt die Ausführungsbestimmungen.
 
-### 8. Titel: Verschiedene Bestimmungen
+## 8 Verschiedene Bestimmungen
 
 #### Art. 98
 
@@ -1132,13 +1182,13 @@ Wenn die Eintragung des Pfandrechts, die der Sicherstellung des Darlehens dient,
 
 **Geografische und traditionelle Bezeichnungen**
 
-Der Staatsrat kann die Verwendung von geografischen und traditionellen Walliser Bezeichnungen regeln.
+<sup>1</sup> Der Staatsrat kann die Verwendung von geografischen und traditionellen Walliser Bezeichnungen regeln.
 
 #### Art. 101
 
 **Ringkuhkämpfe**
 
-Der Staatsrat kann die Bewilligungsvoraussetzungen von Ringkuhkämpfen festlegen und deren Organisation regeln.
+<sup>1</sup> Der Staatsrat kann die Bewilligungsvoraussetzungen von Ringkuhkämpfen festlegen und deren Organisation regeln.
 
 #### Art. 102
 
@@ -1150,15 +1200,15 @@ Der Staatsrat kann die Bewilligungsvoraussetzungen von Ringkuhkämpfen festlegen
 
 <sup>3</sup> Der Staatsrat kann regionale Verantwortliche ernennen.
 
-### 9. Titel: Rechtsmittel, Verwaltungsmassnahmen und Strafbestimmungen
+## 9 Rechtsmittel, Verwaltungsmassnahmen und Strafbestimmungen
 
-### 1. Kapitel: Rechtsmittel
+### 9.1 Rechtsmittel
 
 #### Art. 103
 
 **Einsprache**
 
-Ausser in ausdrücklich erwähnten Fällen kann gegen jeden Entscheid, der gestützt auf die landwirtschaftliche Bundesgesetzgebung, dieses Gesetz oder dessen Ausführungsbestimmungen erlassen wurde, Einsprache erhoben werden.
+<sup>1</sup> Ausser in ausdrücklich erwähnten Fällen kann gegen jeden Entscheid, der gestützt auf die landwirtschaftliche Bundesgesetzgebung, dieses Gesetz oder dessen Ausführungsbestimmungen erlassen wurde, Einsprache erhoben werden.
 
 #### Art. 104
 
@@ -1176,6 +1226,14 @@ Ausser in ausdrücklich erwähnten Fällen kann gegen jeden Entscheid, der gest�
 
 <sup>2</sup> Eine Beschwerde ans Kantonsgericht ist zulässig.
 
+#### Art. 105a
+
+**Entscheide im Bereich der Ringkuhkämpfe**
+
+<sup>1</sup> Gegen Entscheide im Bereich der Ringkuhkämpfe kann bei der kantonalen Rekurskommission für den Bereich Landwirtschaft und Landumlegungen weder Einsprache noch Beschwerde erhoben werden.
+
+<sup>2</sup> Sie werden gemäss den Statuten des Schweizerischen Eringerviehzuchtverbands schiedsrichterlich geregelt.
+
 #### Art. 106
 
 **Aufschiebende Wirkung**
@@ -1188,38 +1246,27 @@ Ausser in ausdrücklich erwähnten Fällen kann gegen jeden Entscheid, der gest�
 
 **Verfahren**
 
-Im Übrigen wird das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege sinngemäss angewendet.
+<sup>1</sup> Im Übrigen wird das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege sinngemäss angewendet.
 
-### 2. Kapitel: Verwaltungsmassnahmen und Strafbestimmungen
+### 9.2 Verwaltungsmassnahmen und Strafbestimmungen
 
 #### Art. 108
 
 **Verwaltungsmassnahmen**
 
-Bei Widerhandlungen gegen das vorliegende Gesetz, dessen Ausführungsbestimmungen oder die gestützt darauf erlassenen Verfügungen können folgende Verwaltungsmassnahmen ergriffen werden:
+<sup>1</sup> Bei Widerhandlungen gegen das vorliegende Gesetz, dessen Ausführungsbestimmungen oder die gestützt darauf erlassenen Verfügungen können folgende Verwaltungsmassnahmen ergriffen werden:
 
 - a) Verwarnung;
-
 - b) Entzug von Anerkennung oder Bewilligung;
-
 - c) Deklassierung der Ware;
-
 - d) Rechtsentzug;
-
 - e) Verbot der Verwendung einer Bezeichnung oder Benennung;
-
 - f) Verbot der Direktvermarktung;
-
 - g) Verbot der Vermarktung;
-
 - h) Rücktritt vom Verkauf;
-
 - i) Information der potentiellen Marktteilnehmer;
-
 - j) Ersatzvornahme auf Kosten des Zuwiderhandelnden;
-
 - k) Beschlagnahme;
-
 - l) Ordnungsbusse in Höhe des Betrags der unrechtmässig vermarkteten Produkte oder der zu Unrecht bezogenen Beiträge oder des aufgrund falscher Angaben erzielten Gewinns.
 
 #### Art. 109
@@ -1252,33 +1299,31 @@ Bei Widerhandlungen gegen das vorliegende Gesetz, dessen Ausführungsbestimmunge
 
 <sup>3</sup> Die Berufung ans Kantonsgericht ist durch die Strafprozessordnung geregelt.
 
-### 10. Titel: Schlussbestimmungen
+## 10 Schlussbestimmungen
 
-### 1. Kapitel: Vollzug
+### 10.1 Vollzug
 
 #### Art. 112
 
 **Ausführungsbestimmungen**
 
-Der Staatsrat erlässt die Ausführungsbestimmungen zum vorliegenden Gesetz.
+<sup>1</sup> Der Staatsrat erlässt die Ausführungsbestimmungen zum vorliegenden Gesetz.
 
 #### Art. 113
 
 **Auskunftspflicht**
 
-Soweit es die Anwendung des vorliegenden Gesetzes, der Ausführungsbestimmungen oder der gestützt darauf erlassenen Verfügungen erfordert, sind die betroffenen Personen, Unternehmen und Organisationen verpflichtet, den zuständigen Organen insbesondere die verlangten Auskünfte zu erteilen sowie Belege vorübergehend zur Prüfung auszuhändigen, den Zutritt zum Betrieb und zu Geschäfts- und Lagerräumen sowie Einsicht in Bücher und Korrespondenzen zu gewähren und Probeentnahmen zu dulden.
+<sup>1</sup> Soweit es die Anwendung des vorliegenden Gesetzes, der Ausführungsbestimmungen oder der gestützt darauf erlassenen Verfügungen erfordert, sind die betroffenen Personen, Unternehmen und Organisationen verpflichtet, den zuständigen Organen insbesondere die verlangten Auskünfte zu erteilen sowie Belege vorübergehend zur Prüfung auszuhändigen, den Zutritt zum Betrieb und zu Geschäfts- und Lagerräumen sowie Einsicht in Bücher und Korrespondenzen zu gewähren und Probeentnahmen zu dulden.
 
 #### Art. 114
 
 **Amtshilfe unter Behörden**
 
-<sup>1</sup> Der Kanton, die Gemeinden, die zuständigen Organe und die kantonale Steuerverwaltung erteilen den mit dem Vollzug des vorliegenden Gesetzes und der Ausführungsbestimmungen betrauten Behörden auf Ersuche hin kostenlos die erforderlichen Auskünfte.[^114-1]
+<sup>1</sup> Der Kanton, die Gemeinden, die zuständigen Organe und die kantonale Steuerverwaltung erteilen den mit dem Vollzug des vorliegenden Gesetzes und der Ausführungsbestimmungen betrauten Behörden auf Ersuche hin kostenlos die erforderlichen Auskünfte.
 
-<sup>2</sup> Vermuten sie einen Straftatbestand, melden sie dies von sich aus die Vollzugsbehörden.[^114-1]
+<sup>2</sup> Vermuten sie einen Straftatbestand, melden sie dies von sich aus die Vollzugsbehörden.
 
-<sup>3</sup> Die Gerichte, die Staatsanwaltschaft und die Strafverfolgungsbehörden erteilen der Dienststelle für Landwirtschaft die zur Erfüllung ihrer Aufgaben erforderlichen Angaben und Auskünfte, insbesondere den Inhalt der im Bereich Landwirtschaft erlassenen Strafbefehlsverfahren.[^114-1]
-
-[^114-1]: Änderung vom 12. Mai 2016 Abl. Nr. 24/2016 01.06.2016
+<sup>3</sup> Die Gerichte, die Staatsanwaltschaft und die Strafverfolgungsbehörden erteilen der Dienststelle für Landwirtschaft die zur Erfüllung ihrer Aufgaben erforderlichen Angaben und Auskünfte, insbesondere den Inhalt der im Bereich Landwirtschaft erlassenen Strafbefehlsverfahren.
 
 #### Art. 115
 
@@ -1288,7 +1333,7 @@ Soweit es die Anwendung des vorliegenden Gesetzes, der Ausführungsbestimmungen 
 
 <sup>2</sup> Es kann die Kosten diesen Behörden oder Organen überbinden.
 
-### 2. Kapitel: Übergangs- und Aufhebungsbestimmungen
+### 10.2 Übergangs- und Aufhebungsbestimmungen
 
 #### Art. 116
 
@@ -1302,61 +1347,17 @@ Soweit es die Anwendung des vorliegenden Gesetzes, der Ausführungsbestimmungen 
 
 **Aufhebung**
 
-Das Gesetz über die Landwirtschaft vom 28. September 1993 wird aufgehoben.
+<sup>1</sup> Das Gesetz über die Landwirtschaft vom 28. September 1993 wird aufgehoben.
 
-### 3. Kapitel: Änderungen des bisherigen Rechts
-
-Das Gesetz über die Landumlegung und die Grenzregulierung vom 16. November 1989 wird wie folgt geändert:
-
-#### Art. 1
-
-**Abs. 1**
-
-<sup>1</sup> Das vorliegende Gesetz regelt das Verfahren über die Landumlegung sowie die Grenzregulierung; es findet keine Anwendung auf Grundstücke in Landwirtschaftszonen, in Waldzonen oder im übrigen Gemeindegebiet, die unter Vorbehalt von Artikel 7 Absatz 3 den Bestimmungen des Gesetzes über die Landwirtschaft und die Entwicklung des ländlichen Raumes (GLER) unterliegen.
-
-#### Art. 2
-
-<sup>1</sup> Der Staatsrat übt durch das mit den Strukturverbesserungen betraute Departement die Oberaufsicht über die Landumlegungen und die Grenzregulierungen aus.
-
-<sup>2</sup> Der Kanton berechnet seine Dienstleistungen anhand eines Stundenlohnes zwischen 50 und 150 Franken.
-
-<sup>3</sup> Der Staatsrat legt den genauen Tarif fest.
-
-#### Art. 4bis
-
-Der Kanton kann für die von seinen Dienststellen ausgeführten Leistungen Gebühren erheben, deren Höhe vom Staatsrat bestimmt wird.
-
-#### Art. 15
-
-**Abs. 6**
-
-<sup>6</sup> Bei Gesamteigentum (Erbgemeinschaften usw.) entscheidet die Mehrheit der Berechtigten, sofern keine Vertretung bestellt wurde.
-
-#### Art. 23
-
-Wird die Landumlegung durch eine Genossenschaft durchgeführt, sind unter Vorbehalt der nachstehenden Bestimmungen die Bestimmungen des Gesetzes über die Landwirtschaft und die Entwicklung des ländlichen Raumes betreffend die Genossenschaften anwendbar.
-
-#### Art. 50
-
-<sup>1</sup> Die Beschlüsse der Ausführungskommission können mit Beschwerde an die kantonale Rekurskommission für den Bereich Landwirtschaft und Landumlegungen weitergezogen werden (Art. 9 des Gesetzes über die Landwirtschaft und die Entwicklung des ländlichen Raumes).
-
-<sup>2</sup> Aufgehoben.
-
-<sup>3</sup> Aufgehoben.
-
-<sup>4</sup> Aufgehoben.
-
-#### Art. 51
-
-Aufgehoben.
-
-#### Art. 52
-
-Aufgehoben.
-
-### 4. Kapitel: Referendum und Inkrafttreten
+### 10.3 Änderungen des bisherigen Rechts
 
 #### Art. 118
+
+<sup>1</sup> Das Gesetz über die Landumlegung und die Grenzregulierung vom 16. November 1989 wird geändert.
+
+### 10.4 Referendum und Inkrafttreten
+
+#### Art. 119
 
 **Referendum**
 
@@ -1364,10 +1365,4 @@ Aufgehoben.
 
 <sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 8. Februar 2007.
-
-Der Präsident des Grossen Rates: Albert Bétrisey Der Chef des Parlamentsdienstes: Claude Bumann
-
-**01.07.2007**
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes (Landwirtschaftsgesetz; GLER) vom 8. Februar 2007
+CSW BO/Abl. 10/2007, 26/2007
