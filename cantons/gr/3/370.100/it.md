@@ -4,13 +4,13 @@ number: "370.100"
 title: Legge sulla giustizia amministrativa
 short: LGA
 language: it
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-06-13
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3346/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3360/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3346/pdf_file"
 
 (LGA)
 
-del 31.08.2006 (stato 01.01.2024)
+del 31.08.2006 (stato 01.04.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -53,7 +53,7 @@ decide:
 
 ## 2. Principi generali della procedura
 
-### 2.1. Direzione della procedura, ricusazione e termini
+### 2.1. Direzione della procedura, ricusazione, termini e scambio di atti giuridici per via elettronica
 
 ### 2.1.1. Direzione della procedura
 
@@ -136,6 +136,30 @@ decide:
 
 <sup>2</sup> La stessa autorità decide quali atti della procedura o del processo vanno ripetuti, qualora un motivo di ricusazione già esistente venga alla luce soltanto a posteriori.
 
+### 2.1.2.a Scambio di atti giuridici per via elettronica
+
+#### Art. 6d
+
+**Ammissibilità**
+
+<sup>1</sup> Atti procedurali scritti possono essere compiuti in forma cartacea oppure in forma elettronica secondo le direttive della presente legge.
+
+<sup>2</sup> Sono fatte salve disposizioni speciali relative allo scambio di atti giuridici per via elettronica contenute in altri atti normativi.
+
+#### Art. 6e
+
+**Inoltro di istanze per via elettronica**
+
+<sup>1</sup> Le istanze possono essere inoltrate per via elettronica se l'autorità è collegata a un sistema di trasmissione. Le istanze inoltrate per via elettronica devono poter essere attribuite in modo sicuro alla parte e devono essere immodificabili.
+
+<sup>2</sup> Nelle procedure di prima istanza il Governo può ammettere l'inoltro di istanze al di fuori di un sistema di trasmissione.
+
+<sup>3</sup> Il Governo disciplina:
+
+- a) i sistemi di trasmissione riconosciuti;
+- b) i requisiti posti all'attribuzione sicura e all'immodificabilità dell'istanza;
+- c) i formati ammessi nonché le modalità tecniche della trasmissione.
+
 ### 2.1.3. Termini
 
 #### Art. 7
@@ -143,6 +167,8 @@ decide:
 **Computo**
 
 <sup>1</sup> I termini che iniziano a decorrere con una comunicazione, una pubblicazione ufficiale o con il verificarsi di un evento, iniziano a decorrere dal giorno seguente.
+
+<sup>1<sup>bis</sup></sup> In caso di notificazione per via elettronica, la comunicazione è considerata avvenuta al momento della prima consultazione da parte del destinatario o del rappresentante tramite il sistema di trasmissione, tuttavia al più tardi il settimo giorno dopo la trasmissione al rispettivo recapito elettronico.
 
 <sup>2</sup> Se l'ultimo giorno del termine è un sabato, una domenica o un giorno festivo riconosciuto dallo Stato, il termine è prorogato fino al giorno feriale successivo.
 
@@ -160,6 +186,24 @@ decide:
 
 - a) l'importo è stato consegnato ad un ufficio postale svizzero oppure se
 - b) l'ordine di pagamento è stato consegnato alla banca o ad un ufficio postale svizzero per l'immediato addebito ad un conto in Svizzera e se l'importo è stato accreditato all'autorità entro i termini bancari usuali.
+
+#### Art. 8a
+
+**In caso di inoltro per via elettronica**
+
+<sup>1</sup> Il momento determinante per il rispetto di un termine è quello in cui il sistema di trasmissione dell'autorità rilascia la ricevuta che attesta la ricezione dell'istanza.
+
+<sup>2</sup> Se il sistema di trasmissione non è raggiungibile, un termine in corso è prorogato fino al giorno successivo al giorno in cui il sistema è di nuovo raggiungibile. Se il giorno successivo cade di sabato, di domenica o in un giorno festivo riconosciuto dallo Stato il termine scade il giorno feriale successivo.
+
+<sup>3</sup> La non raggiungibilità del sistema di trasmissione deve essere resa plausibile dalla parte interessata.
+
+#### Art. 8b
+
+**Inoltro successivo in formato cartaceo**
+
+<sup>1</sup> L'autorità può richiedere l'inoltro successivo in formato cartaceo se dal profilo tecnico non è possibile elaborare l'istanza o se sono necessari dei documenti per verificare l'autenticità.
+
+<sup>2</sup> L'autorità fissa alla parte un termine adeguato per l'inoltro successivo, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
 
 #### Art. 9
 
@@ -252,11 +296,15 @@ decide:
 
 **Visione degli atti**
 
-<sup>1</sup> Gli interessati alla procedura hanno diritto di prendere visione degli atti.
+<sup>1</sup> Gli interessati alla procedura hanno diritto di prendere visione degli atti. La presa in visione degli atti può essere concessa in forma elettronica.
+
+<sup>1<sup>bis</sup></sup> Alle persone registrate nel sistema di trasmissione può essere concessa la presa in visione degli atti tramite lo stesso sistema.
 
 <sup>2</sup> La presa in visione degli atti può essere negata per salvaguardare importanti interessi pubblici o interessi privati tutelabili. Un tale rifiuto deve essere motivato.
 
 <sup>3</sup> Se a svantaggio di una parte ci si basa su atti dei quali essa non può prendere visione, il contenuto a carico deve esserle comunicato e le deve essere dato modo di prendere posizione e di presentare domanda di assunzione di ulteriori prove.
+
+<sup>4</sup> Il Governo disciplina le modalità e i requisiti di sicurezza posti alla presa in visione degli atti in forma elettronica.
 
 #### Art. 18
 
@@ -300,13 +348,13 @@ decide:
 
 #### Art. 23
 
-**Comunicazione della decisione**
+**Comunicazione in forma scritta**
 
 <sup>1</sup> Le decisioni devono essere comunicate per iscritto alle parti e, per quanto prescritto dalla legge, a terzi.
 
-<sup>2</sup> L'autorità può obbligare le parti che si presentano assieme ad indicare un recapito comune.
+<sup>2</sup> L'autorità può obbligare le parti che si presentano assieme a indicare un recapito postale comune o un recapito elettronico in un sistema di trasmissione.
 
-<sup>3</sup> Qualora una parte non sia domiciliata in Svizzera, l'autorità può obbligarla ad indicare un domiciliatario in Svizzera.
+<sup>3</sup> Qualora una parte non sia domiciliata in Svizzera, l'autorità può obbligarla ad indicare un domiciliatario in Svizzera o un recapito elettronico nel sistema di trasmissione.
 
 <sup>4</sup> Una decisione può essere notificata tramite pubblicazione ufficiale se:
 
@@ -314,6 +362,16 @@ decide:
 - b) essa è indirizzata ad una cerchia di persone indeterminata;
 - c) una parte non ottempera all'intimazione di cui al capoverso 2 o 3;
 - d) ciò è previsto dalla legge.
+
+#### Art. 23a
+
+**Comunicazione per via elettronica**
+
+<sup>1</sup> Le decisioni possono essere comunicate per via elettronica tramite un sistema di trasmissione se la parte o il suo rappresentante è registrato nel sistema di trasmissione e ha acconsentito alla comunicazione elettronica.
+
+<sup>2</sup> Le decisioni comunicate per via elettronica devono poter essere attribuite in modo sicuro all'autorità e devono essere immodificabili. Esse contengono i nomi delle persone che agiscono per l'autorità.
+
+<sup>3</sup> Il Governo disciplina le modalità della comunicazione per via elettronica e del consenso.
 
 #### Art. 24
 
@@ -419,9 +477,9 @@ decide:
 
 **Memorie**
 
-<sup>1</sup> Le memorie devono essere redatte in una lingua ufficiale e devono contenere una richiesta e una motivazione.
+<sup>1</sup> Le memorie devono essere redatte in una lingua ufficiale e devono contenere una richiesta e una motivazione. Esse devono essere inoltrate, allegando i mezzi di prova disponibili e la decisione impugnata. Mezzi di prova supplementari devono essere indicati esattamente.
 
-<sup>2</sup> Esse devono essere firmate e inoltrate in duplice copia, allegando i mezzi di prova disponibili e la decisione impugnata.
+<sup>2</sup> Le memorie in formato cartaceo devono essere firmate e inoltrate in duplice copia.
 
 <sup>3</sup> Se un'istanza non soddisfa i requisiti legali o se essa è redatta in forma indecorosa, illeggibile o inutilmente estesa, viene stabilito un termine adeguato per l'eliminazione del vizio, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
 
@@ -471,9 +529,9 @@ decide:
 
 **Memorie**
 
-<sup>1</sup> Le memorie devono essere redatte in una lingua ufficiale e devono contenere il petito, la fattispecie e una motivazione.
+<sup>1</sup> Le memorie devono essere redatte in una lingua ufficiale e devono contenere il petito, la fattispecie e una motivazione. Esse devono essere inoltrate, allegando i mezzi di prova disponibili e la decisione impugnata. Mezzi di prova supplementari devono essere indicati esattamente.
 
-<sup>2</sup> Esse devono essere firmate e inoltrate in duplice copia, allegando i mezzi di prova disponibili e la decisione impugnata. Mezzi di prova supplementari devono essere indicati esattamente.
+<sup>2</sup> Le memorie in formato cartaceo devono essere firmate e inoltrate in duplice copia.
 
 <sup>3</sup> Se un'istanza non soddisfa i requisiti legali o se essa è redatta in forma indecorosa, illeggibile o inutilmente estesa, viene stabilito un termine adeguato per l'eliminazione del vizio, con l'avvertimento che in caso contrario non si entrerà nel merito dell'istanza.
 

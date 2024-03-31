@@ -4,13 +4,13 @@ number: "370.100"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-06-13
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3346/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3346/pdf_file"
 
 (VRG)
 
-Vom 31.08.2006 (Stand 01.01.2024)
+Vom 31.08.2006 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -53,7 +53,7 @@ beschliesst:
 
 ## 2. Allgemeine Grundsätze des Verfahrens
 
-### 2.1. Verfahrensleitung, Ausstand und Fristen
+### 2.1. Verfahrensleitung, Ausstand, Fristen und elektronischer Rechtsverkehr
 
 ### 2.1.1. Verfahrensleitung
 
@@ -136,6 +136,30 @@ beschliesst:
 
 <sup>2</sup> Die gleiche Behörde entscheidet, welche Verfahrens- oder Prozesshandlungen zu wiederholen sind, wenn ein bereits bestehender Ausstandsgrund erst nachträglich bekannt wird.
 
+### 2.1.2.a Elektronischer Rechtsverkehr
+
+#### Art. 6d
+
+**Zulässigkeit**
+
+<sup>1</sup> Schriftliche Verfahrenshandlungen können in Papierform oder nach den Vorgaben dieses Gesetzes elektronisch erfolgen.
+
+<sup>2</sup> Sonderbestimmungen zum elektronischen Rechtsverkehr in anderen Erlassen bleiben vorbehalten.
+
+#### Art. 6e
+
+**Elektronische Eingabe**
+
+<sup>1</sup> Eingaben können elektronisch erfolgen, wenn die Behörde an einem Übermittlungssystem angeschlossen ist. Eingaben in elektronischer Form müssen der Partei sicher zugeordnet werden können und unveränderbar sein.
+
+<sup>2</sup> Die Regierung kann in erstinstanzlichen Verfahren Eingaben ausserhalb eines Übermittlungssystems zulassen.
+
+<sup>3</sup> Die Regierung regelt:
+
+- a) die anerkannten Übermittlungssysteme;
+- b) die Anforderungen an die sichere Zuordnung und Unveränderbarkeit der Eingabe;
+- c) die zulässigen Formate sowie die technische Ausgestaltung der Übermittlung.
+
 ### 2.1.3. Fristen
 
 #### Art. 7
@@ -143,6 +167,8 @@ beschliesst:
 **Berechnung**
 
 <sup>1</sup> Fristen, die durch eine Mitteilung, eine amtliche Publikation oder den Eintritt eines Ereignisses ausgelöst werden, beginnen am folgenden Tag zu laufen.
+
+<sup>1<sup>bis</sup></sup> Bei elektronischer Eröffnung gilt die Mitteilung im Zeitpunkt des erstmaligen Abrufs beim Übermittlungssystem der Adressatin oder des Adressaten oder der Vertretung als erfolgt, spätestens jedoch am siebten Tag nach der Übermittlung an deren elektronische Zustelladresse.
 
 <sup>2</sup> Ist der letzte Tag der Frist ein Samstag, ein Sonntag oder ein staatlich anerkannter Feiertag, endet sie am nächstfolgenden Werktag.
 
@@ -160,6 +186,24 @@ beschliesst:
 
 - a) der Betrag einer schweizerischen Poststelle übergeben worden ist oder
 - b) der Zahlungsauftrag zur sofortigen Belastung eines Kontos in der Schweiz der Bank oder einer schweizerischen Poststelle übergeben und der Betrag innert banküblicher Frist der Behörde gutgeschrieben worden ist.
+
+#### Art. 8a
+
+**Bei elektronischer Einreichung**
+
+<sup>1</sup> Für die Wahrung einer Frist ist der Zeitpunkt massgebend, in welchem das Übermittlungssystem der Behörde die Eingabe quittiert.
+
+<sup>2</sup> Ist das Übermittlungssystem nicht erreichbar, verlängert sich eine laufende Frist auf den Folgetag, nachdem es wieder erreichbar ist. Fällt der Folgetag auf einen Samstag, einen Sonntag oder einen staatlich anerkannten Feiertag, so endet die Frist am nächstfolgenden Werktag.
+
+<sup>3</sup> Die Nichterreichbarkeit des Übermittlungssystems ist von der betroffenen Partei glaubhaft zu machen.
+
+#### Art. 8b
+
+**Nachreichung in physischer Form**
+
+<sup>1</sup> Die Behörde kann eine Nachreichung in physischer Form verlangen, wenn die Bearbeitung einer Eingabe technisch nicht möglich ist oder Dokumente zur Überprüfung der Echtheit benötigt werden.
+
+<sup>2</sup> Die Behörde setzt der Partei eine angemessene Frist zur Nachreichung, mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
 
 #### Art. 9
 
@@ -254,11 +298,15 @@ beschliesst:
 
 **Akteneinsicht**
 
-<sup>1</sup> Die am Verfahren Beteiligten haben das Recht, in die Akten Einsicht zu nehmen.
+<sup>1</sup> Die am Verfahren Beteiligten haben das Recht, in die Akten Einsicht zu nehmen. Die Akteneinsicht kann in elektronischer Form gewährt werden.
+
+<sup>1<sup>bis</sup></sup> Personen, die im Übermittlungssystem registriert sind, kann die Akteneinsicht über dieses gewährt werden.
 
 <sup>2</sup> Die Einsichtnahme kann zur Wahrung wichtiger öffentlicher oder schutzwürdiger privater Interessen verweigert werden. Eine solche Verweigerung ist zu begründen.
 
 <sup>3</sup> Wird zum Nachteil einer Partei auf Akten abgestellt, in die sie keine Einsicht nehmen kann, ist ihr der belastende Inhalt mitzuteilen und Gelegenheit zur Stellungnahme und zu Beweisanträgen zu geben.
+
+<sup>4</sup> Die Regierung regelt die Modalitäten und die Sicherheitsanforderungen der elektronischen Akteneinsicht.
 
 #### Art. 18
 
@@ -302,13 +350,13 @@ beschliesst:
 
 #### Art. 23
 
-**Mitteilung des Entscheids**
+**Schriftliche Mitteilung**
 
 <sup>1</sup> Entscheide sind den Parteien und, soweit dies gesetzlich vorgeschrieben ist, Dritten schriftlich mitzuteilen.
 
-<sup>2</sup> Die Behörde kann gemeinsam auftretende Parteien verpflichten, eine gemeinsame Zustelladresse zu bezeichnen.
+<sup>2</sup> Die Behörde kann gemeinsam auftretende Parteien verpflichten, eine gemeinsame postalische Zustelladresse oder eine elektronische Zustelladresse auf einem Übermittlungssystem zu bezeichnen.
 
-<sup>3</sup> Ist eine Partei nicht in der Schweiz wohnhaft, kann die Behörde sie verpflichten, eine zustellungsbevollmächtigte Person im Inland zu bezeichnen.
+<sup>3</sup> Ist eine Partei nicht in der Schweiz wohnhaft, kann die Behörde sie verpflichten, eine zustellungsbevollmächtigte Person im Inland zu bezeichnen oder eine elektronische Zustelladresse im Übermittlungssystem zu bezeichnen.
 
 <sup>4</sup> Ein Entscheid kann durch amtliche Publikation eröffnet werden, wenn:
 
@@ -316,6 +364,16 @@ beschliesst:
 - b) er sich an einen unbestimmten Personenkreis richtet;
 - c) eine Partei der Aufforderung gemäss Absatz 2 oder 3 nicht nachkommt;
 - d) dies gesetzlich vorgesehen ist.
+
+#### Art. 23a
+
+**Elektronische Mitteilung**
+
+<sup>1</sup> Entscheide können in elektronischer Form über ein Übermittlungssystem mitgeteilt werden, wenn die Partei oder ihre Vertretung im Übermittlungssystem registriert ist und der elektronischen Mitteilung zugestimmt hat.
+
+<sup>2</sup> Entscheide in elektronischer Form müssen der Behörde sicher zugeordnet werden können und unveränderbar sein. Sie enthalten die Namen der für die Behörde handelnden Personen.
+
+<sup>3</sup> Die Regierung regelt die Modalitäten der elektronischen Mitteilung und der Zustimmung.
 
 #### Art. 24
 
@@ -421,9 +479,9 @@ beschliesst:
 
 **Rechtsschriften**
 
-<sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben einen Antrag und eine Begründung zu enthalten.
+<sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben einen Antrag und eine Begründung zu enthalten. Sie sind unter Beilage der verfügbaren Beweismittel und des angefochtenen Entscheids einzureichen. Weitere Beweismittel sind genau zu bezeichnen.
 
-<sup>2</sup> Sie sind zu unterzeichnen und im Doppel unter Beilage der verfügbaren Beweismittel und des angefochtenen Entscheids einzureichen.
+<sup>2</sup> Rechtsschriften in Papierform sind zu unterzeichnen und im Doppel einzureichen.
 
 <sup>3</sup> Genügt eine Eingabe den gesetzlichen Erfordernissen nicht oder ist sie in unziemlicher Form abgefasst, unleserlich oder unnötig umfangreich, wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
 
@@ -473,9 +531,9 @@ beschliesst:
 
 **Rechtsschriften**
 
-<sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben das Rechtsbegehren, den Sachverhalt und eine Begründung zu enthalten.
+<sup>1</sup> Rechtsschriften sind in einer Amtssprache abzufassen und haben das Rechtsbegehren, den Sachverhalt und eine Begründung zu enthalten. Sie sind unter Beilage der verfügbaren Beweismittel und des angefochtenen Entscheids einzureichen. Weitere Beweismittel sind genau zu bezeichnen.
 
-<sup>2</sup> Sie sind zu unterzeichnen und im Doppel unter Beilage der verfügbaren Beweismittel und des angefochtenen Entscheids einzureichen. Weitere Beweismittel sind genau zu bezeichnen.
+<sup>2</sup> Rechtsschriften in Papierform sind zu unterzeichnen und im Doppel einzureichen.
 
 <sup>3</sup> Genügt eine Eingabe den gesetzlichen Erfordernissen nicht oder ist sie in unziemlicher Form abgefasst, unleserlich oder unnötig umfangreich, wird eine angemessene Frist zur Behebung des Mangels angesetzt mit der Androhung, dass auf die Eingabe sonst nicht eingetreten werde.
 

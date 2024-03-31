@@ -4,13 +4,13 @@ number: "370.100"
 title: Lescha davart la giurisdicziun administrativa
 short: LGA
 language: rm
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-06-13
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-16
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3346/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3346/pdf_file"
 
 (LGA)
 
-dals 31-08-2006 (versiun dals 01-01-2024)
+dals 31-08-2006 (versiun dals 01-04-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -53,7 +53,7 @@ concluda:
 
 ## 2. Princips generals da procedura
 
-### 2.1. Direcziun da la procedura, recusaziun e termins
+### 2.1. Direcziun da la procedura, recusaziun, termins e correspundenza giuridica electronica
 
 ### 2.1.1. Direcziun da la procedura
 
@@ -136,6 +136,30 @@ concluda:
 
 <sup>2</sup> La medema autoritad decida tge acts processuals che ston vegnir repetids, sch'in motiv da recusaziun ch'exista gia vegn enconuschent pir posteriuramain.
 
+### 2.1.2.a Correspundenza giuridica electronica
+
+#### Art. 6d
+
+**Admissibladad**
+
+<sup>1</sup> Acts processuals en scrit pon vegnir fatgs sin palpiri u – tenor las prescripziuns da questa lescha – sin via electronica.
+
+<sup>2</sup> Disposiziuns spezialas davart la correspundenza giuridica electronica en auters relaschs restan resalvadas.
+
+#### Art. 6e
+
+**Inoltraziun electronica**
+
+<sup>1</sup> Inoltraziuns pon vegnir fatgas sin via electronica, sche l'autoritad è colliada cun in sistem da transmissiun. Las inoltraziuns electronicas ston pudair vegnir attribuidas senza dubi a la partida ed esser nunmidablas.
+
+<sup>2</sup> En proceduras d'emprima instanza po la Regenza permetter inoltraziuns ordaifer in sistem da transmissiun.
+
+<sup>3</sup> La Regenza regla:
+
+- a) ils sistems da transmissiun renconuschids;
+- b) las pretensiuns envers in'attribuziun segira da l'inoltraziun ed envers la nunmidabladad da tala;
+- c) ils formats admissibels sco er la concepziun tecnica da la transmissiun.
+
 ### 2.1.3. Termins
 
 #### Art. 7
@@ -143,6 +167,8 @@ concluda:
 **Calculaziun**
 
 <sup>1</sup> Termins che vegnan iniziads tras ina communicaziun, tras ina publicaziun uffiziala u tras l'entrada d'in eveniment, cumenzan il di suenter.
+
+<sup>1<sup>bis</sup></sup> Per la consegna electronica vala la communicaziun sco succedida il mument che l'adressata u l'adressat ubain la represchentanza consultescha per l'emprima giada la communicaziun en il sistem da transmissiun, il pli tard dentant il 7avel di suenter la transmissiun a lur adressa da consegna electronica.
 
 <sup>2</sup> Sche l'ultim di dal termin è ina sonda, ina dumengia u in firà uffizial, scada il termin l'emprim lavurdi suandant.
 
@@ -160,6 +186,24 @@ concluda:
 
 - a) l'import è vegnì surdà ad in uffizi da posta svizzer entaifer il termin; u
 - b) l'incumbensa da pajament è vegnida surdada entaifer il termin a la banca u ad in uffizi da posta svizzer per metter a quint immediatamain ad in conto en Svizra e l'import è vegnì bunifitgà a l'autoritad entaifer il termin da banca usità.
+
+#### Art. 8a
+
+**En cas d'ina inoltraziun electronica**
+
+<sup>1</sup> Per observar in termin è decisiv il mument che l'inoltraziun vegn quittada dal sistem da transmissiun da l'autoritad.
+
+<sup>2</sup> Sch'il sistem da transmissiun n'è betg cuntanschibel, sa prolunghescha in termin current fin al di suenter il di ch'il sistem è puspè cuntanschibel. Sch'il di suandant è ina sonda, ina dumengia u in firà statal renconuschì, finescha il termin il proxim lavurdi.
+
+<sup>3</sup> La nuncuntanschibladad dal sistem da transmissiun sto vegnir rendida vardaivla da la partida pertutgada.
+
+#### Art. 8b
+
+**Inoltraziun posteriura en furma fisica**
+
+<sup>1</sup> L'autoritad po pretender ina inoltraziun posteriura en furma fisica, sch'i n'è tecnicamain betg pussaivel d'elavurar ina inoltraziun u sch'ils documents vegnan duvrads per verifitgar l'autenticitad.
+
+<sup>2</sup> L'autoritad fixescha per la partida in termin adequat per l'inoltraziun posteriura, e quai cun smanatschar ch'i na vegnia uschiglio betg entrà en l'inoltraziun.
 
 #### Art. 9
 
@@ -254,11 +298,15 @@ concluda:
 
 **Invista da las actas**
 
-<sup>1</sup> Las persunas ch'èn participadas a la procedura han il dretg da prender invista da las actas.
+<sup>1</sup> Las persunas ch'èn participadas a la procedura han il dretg da prender invista da las actas. L'invista da las actas po vegnir concedida sin via electronica.
+
+<sup>1<sup>bis</sup></sup> A las persunas ch'èn registradas en il sistem da transmissiun po l'invista da las actas vegnir concedida sur quest sistem.
 
 <sup>2</sup> L'invista po vegnir refusada per proteger interess publics impurtants u interess privats degns da vegnir protegids. Ina tala refusa sto vegnir motivada.
 
 <sup>3</sup> Sch'i vegn – per il dischavantatg d'ina partida – sa basà sin actas, da las qualas ella na po betg prender invista, la sto il cuntegn engrevgiant vegnir communitgà e la sto vegnir dada la pussaivladad da prender posiziun e da far propostas da cumprova.
+
+<sup>4</sup> La Regenza regla las modalitads e las pretensiuns da segirezza per l'invista electronica da las actas.
 
 #### Art. 18
 
@@ -302,13 +350,13 @@ concluda:
 
 #### Art. 23
 
-**Communicaziun da la decisiun**
+**Communicaziun en scrit**
 
 <sup>1</sup> Decisiuns ston vegnir communitgadas en scrit a las partidas ed – uschenavant che quai è prescrit tras la lescha – a terzas persunas.
 
-<sup>2</sup> Partidas che sa preschentan communablamain pon vegnir obligadas da l'autoritad da designar in'adressa da consegna communabla.
+<sup>2</sup> Partidas che sa preschentan communablamain pon vegnir obligadas da l'autoritad da designar in'adressa da consegna postala communabla u in'adressa da consegna electronica sin in sistem da transmissiun.
 
-<sup>3</sup> Sch'ina partida n'abita betg en Svizra, po l'autoritad l'obligar da designar ina persuna che ha il dretg da retschaiver la consegna en Svizra.
+<sup>3</sup> Sch'ina partida n'abita betg en Svizra, po l'autoritad l'obligar da designar ina persuna che ha il dretg da retschaiver la consegna en Svizra u da designar in'adressa da consegna electronica sin il sistem da transmissiun.
 
 <sup>4</sup> Ina decisiun po vegnir communitgada tras ina publicaziun uffiziala, sche:
 
@@ -316,6 +364,16 @@ concluda:
 - b) ella sa drizza ad in circul da persunas indefinì;
 - c) ina partida na suonda betg l'intimaziun tenor ils alineas 2 u 3;
 - d) quai è previs tras la lescha.
+
+#### Art. 23a
+
+**Communicaziun electronica**
+
+<sup>1</sup> Las decisiuns pon vegnir communitgadas en furma electronica sur in sistem da transmissiun, sche la partida u sia represchentanza è registrada en il sistem da transmissiun ed ha dà ses consentiment a la communicaziun electronica.
+
+<sup>2</sup> Las decisiuns electronicas ston pudair vegnir attribuidas senza dubi a l'autoritad ed esser nunmidablas. Ellas cuntegnan ils nums da las persunas che ageschan per l'autoritad.
+
+<sup>3</sup> La Regenza regla las modalitads da la communicaziun electronica e dal consentiment.
 
 #### Art. 24
 
@@ -421,9 +479,9 @@ concluda:
 
 **Scrittiras giuridicas**
 
-<sup>1</sup> Scrittiras giuridicas ston vegnir redigidas en ina lingua uffiziala e ston cuntegnair ina proposta ed ina motivaziun.
+<sup>1</sup> Scrittiras giuridicas ston vegnir redigidas en ina lingua uffiziala e ston cuntegnair ina proposta ed ina motivaziun. Ellas ston vegnir inoltradas cun agiuntar ils meds da cumprova disponibels e la decisiun contestada. Ulteriurs meds da cumprova ston vegnir designads exactamain.
 
-<sup>2</sup> Ellas ston vegnir suttascrittas ed inoltradas en dus exemplars cun agiuntar ils meds da cumprova disponibels e la decisiun contestada.
+<sup>2</sup> Scrittiras giuridicas sin palpiri ston vegnir suttascrittas ed inoltradas en dus exemplars.
 
 <sup>3</sup> Sch'ina inoltraziun na satisfa betg a las pretensiuns legalas u sch'ella è redigida en ina furma incunvegnenta, sch'ella n'è betg legibla u sch'ella è senza basegn memia voluminusa, vegn fixà in termin adequat per rectifitgar la mancanza, e quai cun smanatschar ch'i na vegnia uschiglio betg entrà en l'inoltraziun.
 
@@ -473,9 +531,9 @@ concluda:
 
 **Scrittiras giuridicas**
 
-<sup>1</sup> Scrittiras giuridicas ston vegnir redigidas en ina lingua uffiziala e ston cuntegnair la pretensiun da dretg, ils fatgs ed ina motivaziun.
+<sup>1</sup> Scrittiras giuridicas ston vegnir redigidas en ina lingua uffiziala e ston cuntegnair la pretensiun da dretg, ils fatgs ed ina motivaziun. Ellas ston vegnir inoltradas cun agiuntar ils meds da cumprova disponibels e la decisiun contestada. Ulteriurs meds da cumprova ston vegnir designads exactamain.
 
-<sup>2</sup> Ellas ston vegnir suttascrittas ed inoltradas en dus exemplars cun agiuntar ils meds da cumprova disponibels e la decisiun contestada. Ulteriurs meds da cumprova ston vegnir designads exactamain.
+<sup>2</sup> Scrittiras giuridicas sin palpiri ston vegnir suttascrittas ed inoltradas en dus exemplars.
 
 <sup>3</sup> Sch'ina inoltraziun na satisfa betg a las pretensiuns legalas u sch'ella è redigida en ina furma incunvegnenta, sch'ella n'è betg legibla u sch'ella è senza basegn memia voluminusa, vegn fixà in termin adequat per rectifitgar la mancanza, e quai cun smanatschar ch'i na vegnia uschiglio betg entrà en l'inoltraziun.
 
