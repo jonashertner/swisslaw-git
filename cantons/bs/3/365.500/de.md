@@ -4,13 +4,12 @@ number: "365.500"
 title: Verordnung über den Tierschutz
 short: Tierschutzverordnung
 language: de
-version: 2020-07-01
-valid_until: 2024-03-31
-version_adopted: 2020-05-05
+version: 2024-04-01
+version_adopted: 2024-03-12
 adopted: 2012-02-07
 in_force: 2012-02-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/365.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4947/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6190/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Tierschutzverordnung | Tierhaltung / Tierschutz[^t-1]
 
 (Tierschutzverordnung)
 
-Vom 7. Februar 2012 (Stand 1. Juli 2020)
+Vom 7. Februar 2012 (Stand 1. April 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -65,7 +64,7 @@ beschliesst:
 
 <sup>2</sup> Sie ist neben dem Kantonalen Veterinäramt zuständig für die Verfolgung von Widerhandlungen gegen die Tierschutzgesetzgebung.
 
-<sup>3</sup> Sie vollzieht die Vorschriften über die Ausbildung von Jagdhunden in Absprache mit dem Kantonalen Veterinäramt.
+<sup>3</sup> …
 
 <sup>4</sup> Die Einzelheiten der Zusammenarbeit zwischen der Kantonspolizei und dem Kantonalen Veterinäramt werden in einer Vereinbarung geregelt.
 
