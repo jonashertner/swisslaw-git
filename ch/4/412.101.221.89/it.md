@@ -3,18 +3,18 @@ sr: "412.101.221.89"
 title: "Ordinanza della SEFRI del 5 novembre 2012 sulla formazione professionale di base Costruttrice d'impianti e apparecchi/Costruttore d'impianti e apparecchi con attestato federale di capacità (AFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/851"
 language: it
-version: 2023-02-17
+version: 2024-04-01
 adopted: 2012-11-05
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20230217/it/xml/fedlex-data-admin-ch-eli-cc-2012-851-20230217-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20230217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2012-851-20240401-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Costruttrice d’impianti e apparecchi/ Costruttore d’impianti e apparecchi con attestato federale di capacità (AFC)
 
-del 5 novembre 2012 (Stato 17 febbraio 2023)
+del 5 novembre 2012 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>44727</td><td>Anlagen- und Apparatebauerin EFZ/ Anlagen- und Apparatebauer EFZ Constructrice d’appareils industriels CFC/ Constructeur d’appareils industriels CFC Costruttrice d’impianti e apparecchi AFC/ Costruttore d’impianti e apparecchi AFC</td></tr>
@@ -22,22 +22,21 @@ del 5 novembre 2012 (Stato 17 febbraio 2023)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:[^ingress-4]
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 138 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 138 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
 #### Art. 1
 
 **Profilo professionale**
-
-<sup>1</sup>
 
 I costruttori d’impianti e apparecchi di livello AFC svolgono, in particolare, le seguenti attività e si contraddistinguono per i seguenti comportamenti:
 
@@ -59,7 +58,6 @@ La formazione professionale è strutturata in:
 
 - a. formazione di base;
 - b. formazione complementare; e
-- c. formazione approfondita.
 
 ## Sezione 2: Obiettivi ed esigenze
 
@@ -108,7 +106,7 @@ La formazione approfondita comprende le seguenti competenze operative:
 - s.14 fabbricare pezzi forgiati;
 - s.15 verificare i prodotti ed eseguire la manutenzione degli strumenti di misura;
 - s.16 fabbricare componenti e apparecchiature;
-- [tab] s.17 pianificare e montare impianti di produzione e metterli in servizio;
+- s.17 pianificare e montare impianti di produzione e metterli in servizio;
 - s.18 pianificare, impartire e analizzare sequenze di formazione;
 
 <sup>5</sup> Durante la formazione approfondita, ogni persona in formazione acquisisce almeno due competenze operative. La formazione approfondita viene impartita negli ultimi due anni di tirocinio.
@@ -131,11 +129,12 @@ La formazione approfondita comprende le seguenti competenze operative:
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^6-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^6-1]: Nuovo testo giusta il n. II 138 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^6-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -258,7 +257,7 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 **Formazione nei corsi interaziendali**
 
-<sup>1</sup> Gli operatori dei corsi interaziendali documentano le prestazioni delle persone in formazione nei corsi frequentati mediante controlli delle competenze.
+Gli operatori dei corsi interaziendali documentano le prestazioni delle persone in formazione nei corsi frequentati mediante controlli delle competenze.
 
 ## Sezione 8: Procedure di qualificazione
 
@@ -291,12 +290,12 @@ Nelle procedure di qualificazione si deve dimostrare di aver acquisito le compet
 
 **Durata e svolgimento della procedura di qualificazione con esame finale**
 
-<sup>1</sup> Nella procedura di qualificazione con esame finale vengono esaminati i campi di qualificazione sotto elencati nel modo seguente:
+<sup>1</sup>
 
-a. «esame parziale», della durata di undici ore. L’esame ha luogo verso la fine del secondo anno di formazione professionale di base. Sono oggetto d’esame lavori professionali di base. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+Nella procedura di qualificazione con esame finale vengono esaminati i campi di qualificazione sotto elencati nel modo seguente:
 
-b.[^18-1] «lavoro pratico», sotto forma di lavoro pratico individuale (LPI) della durata da 24 a 80 ore o sotto forma di lavoro pratico prestabilito (LPP) della durata da 12 a 16 ore. L’autorità cantonale competente decide la forma d’esame. Il campo di qualificazione verte su una competenza operativa relativa alla formazione approfondita e ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
-
+- a. «esame parziale», della durata di undici ore. L’esame ha luogo verso la fine del secondo anno di formazione professionale di base. Sono oggetto d’esame lavori professionali di base. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+- b.[^18-1] «lavoro pratico», sotto forma di lavoro pratico individuale (LPI) della durata da 24 a 80 ore o sotto forma di lavoro pratico prestabilito (LPP) della durata da 12 a 16 ore. L’autorità cantonale competente decide la forma d’esame. Il campo di qualificazione verte su una competenza operativa relativa alla formazione approfondita e ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - c. «conoscenze professionali», della durata di quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge unicamente in forma scritta;
 - d. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
@@ -309,10 +308,11 @@ b.[^18-1] «lavoro pratico», sotto forma di lavoro pratico individuale (LPI) de
 
 **Superamento dell’esame finale, calcolo e ponderazione delle note**
 
-<sup>1</sup> La procedura di qualificazione con esame finale è superata se:
+<sup>1</sup>
 
-a. per il campo di qualificazione «esame parziale» viene attribuito il 4 o una nota superiore; e
+La procedura di qualificazione con esame finale è superata se:
 
+- a. per il campo di qualificazione «esame parziale» viene attribuito il 4 o una nota superiore; e
 - b. per il campo di qualificazione «lavoro pratico» viene attribuito il 4 o una nota superiore; e
 - c. la media della nota del campo di qualificazione «conoscenze professionali» e della nota relativa all’insegnamento professionale raggiunge o supera il 4; e
 - d. la nota complessiva raggiunge o supera il 4.
@@ -408,7 +408,9 @@ La Commissione ha i seguenti compiti:
 Sono abrogati:
 
 - a. il regolamento del 28 marzo 2002[^24-1] concernente il tirocinio e l’esame finale di tirocinio – costruttore d’impianti e apparecchi;
-- b. il programma del 28 marzo 2002[^24-2] per l’insegnamento professionale – costruttore d’impianti e apparecchi;<sup>2</sup> È revocata l’approvazione del regolamento del 18 marzo 2002 concernente i corsi d’introduzione per costruttori d’impianti e apparecchi.
+- b. il programma del 28 marzo 2002[^24-2] per l’insegnamento professionale – costruttore d’impianti e apparecchi;
+
+<sup>2</sup> È revocata l’approvazione del regolamento del 18 marzo 2002 concernente i corsi d’introduzione per costruttori d’impianti e apparecchi.
 
 [^24-1]: [FF 2002 6555](https://fedlex.data.admin.ch/eli/fga/2002/1183)
 [^24-2]: [FF 2002 6555](https://fedlex.data.admin.ch/eli/fga/2002/1183)

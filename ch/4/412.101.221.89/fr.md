@@ -3,18 +3,18 @@ sr: "412.101.221.89"
 title: "Ordonnance du SEFRI du 5 novembre 2012 sur la formation professionnelle initiale de constructrice/constructeur d'appareils industriels avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/851"
 language: fr
-version: 2023-02-17
+version: 2024-04-01
 adopted: 2012-11-05
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20230217/fr/xml/fedlex-data-admin-ch-eli-cc-2012-851-20230217-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20230217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-851-20240401-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de constructrice d’appareils industriels/ constructeur d’appareils industriels avec certificat fédéral de capacité (CFC)\*
 
-du 5 novembre 2012 (État le 17 février 2023)[^t-1]
+du 5 novembre 2012 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,22 +24,21 @@ du 5 novembre 2012 (État le 17 février 2023)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:[^ingress-4]
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 138 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 138 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
 #### Art. 1
 
 **Profil de la profession**
-
-<sup>1</sup>
 
 Les constructeurs d’appareils industriels de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les comportements ci-après:
 
@@ -135,11 +134,12 @@ La formation approfondie comprend les compétences opérationnelles suivantes:
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^6-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^6-1]: Nouvelle teneur selon le ch. II 138 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^6-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -302,7 +302,8 @@ La procédure de qualification avec examen final porte sur les domaines de quali
 - b.[^18-1] travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 24 à 80 heures ou sous la forme d’un travail pratique prescrit (TPP) d’une durée de 12 à 16 heures. L’autorité cantonale compétente décide de la forme de l’examen. Ce domaine de qualification porte sur une compétence opérationnelle de la formation approfondie et est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 - c. connaissances professionnelles d’une durée de 4 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit uniquement un examen écrit;
 - d. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
-- [tab] <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
+
+<sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
 [^18-1]: Erratum du 17 fév. 2023, ne concerne que le texte italien ([RO 2023 76](https://fedlex.data.admin.ch/eli/oc/2023/76)).
 [^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
@@ -311,10 +312,11 @@ La procédure de qualification avec examen final porte sur les domaines de quali
 
 **Conditions de réussite, calcul et pondération des notes**
 
-<sup>1</sup> La procédure de qualification avec examen final est réussie si:
+<sup>1</sup>
 
-a. la note du domaine de qualification «examen partiel» est supérieure ou égale à 4;
+La procédure de qualification avec examen final est réussie si:
 
+- a. la note du domaine de qualification «examen partiel» est supérieure ou égale à 4;
 - b. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4;
 - c. la moyenne des notes du domaine de qualification «connaissances professionnelles» et de la note d’expérience est supérieure ou égale à 4, et
 - d. la note globale est supérieure ou égale à 4.
