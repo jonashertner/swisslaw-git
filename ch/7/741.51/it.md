@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2024-03-01
+version: 2024-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240401/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240401-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240301/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 1° marzo 2024)
+del 27 ottobre 1976 (Stato 1° aprile 2024)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -27,7 +27,7 @@ visti gli articoli 12 capoversi 1, 3 e 4, 13 capoversi 2 e 4, 15 capoversi 4–6
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
 ## Introduzione
@@ -78,12 +78,12 @@ Per i sottosistemi del sistema d’informazione sull’ammissione alla circolazi
 [^2-3]: Introdotta dal n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-4]: Introdotta dal n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-5]: Introdotta dal n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
-[^2-6]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-7]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-9]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^2-10]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^2-11]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^2-6]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-7]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^2-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-9]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^2-10]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^2-11]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^2-12]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## 1 Ammissione di persone
@@ -110,9 +110,9 @@ La licenza di condurre è rilasciata per le categorie seguenti:
 - B:[^3-1] autoveicoli e tricicli a motore con peso totale non superiore a 3500 kg e non più di otto posti[^3-2], escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale non superiore a 750 kg;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 3500 kg;
-- C:[^3-3] autoveicoli con peso totale superiore a 3500 kg e non più di otto posti, escluso quello del conducente;
+- C:[^3-3] autoveicoli con peso totale superiore a 3500 kg e non più di otto posti[^3-4], escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con peso totale non superiore a 750 kg;
-- D:[^3-4] autoveicoli adibiti al trasporto di persone con più di otto posti, escluso quello del conducente;
+- D:[^3-5] autoveicoli adibiti al trasporto di persone con più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria D e un rimorchio con peso totale non superiore a 750 kg;
 - BE: le combinazioni di veicoli costituite da un veicolo trattore della categoria B e un rimorchio che come combinazione non rientrano nella categoria B;
 - CE: le combinazioni di veicoli costituite da un veicolo trattore della categoria C e un rimorchio con un peso totale superiore a 750 kg;
@@ -123,33 +123,36 @@ La licenza di condurre è rilasciata per le categorie seguenti:
 La licenza di condurre è rilasciata per le sottocategorie seguenti:
 
 - A1: motoveicoli di cilindrata non superiore a 125 cm<sup>3</sup> e una potenza del motore massima di 11 kW;
-- B1: quadricicli e tricicli a motore con peso a vuoto non superiore a 550 kg;
-- C1:[^3-5] autoveicoli con peso totale superiore a 3500 kg ma non oltre 7500 kg e non più di otto posti, escluso quello del conducente;
+- B1:[^3-6] tricicli a motore con peso a vuoto non superiore a 670 kg e quadricicli a motore;
+- C1:[^3-7] autoveicoli con peso totale superiore a 3500 kg ma non oltre 7500 kg e non più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della categoria C1 e un rimorchio con peso totale non superiore a 750 kg;
-- D1:[^3-6] autoveicoli adibiti al trasporto di persone con più di otto posti, ma non più di sedici, escluso quello del conducente;
+- D1:[^3-8] autoveicoli adibiti al trasporto di persone con più di otto posti, ma non più di sedici, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale non superiore a 750 kg;
-- C1E:[^3-7] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg;
-- D1E:[^3-8] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
+- C1E:[^3-9] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg;
+- D1E:[^3-10] combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
 
 <sup>3</sup>
 
 La licenza di condurre è rilasciata per le categorie speciali seguenti:
 
-- F:[^3-9] veicoli a motore, esclusi motoveicoli, la cui velocità massima non supera 45 km/h;
-- G: [^3-10] veicoli a motore agricoli e forestali[^3-11], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, la cui velocità massima non supera 30 km/h, esclusi i veicoli speciali;
+- F:[^3-11] veicoli a motore, esclusi motoveicoli, la cui velocità massima non supera 45 km/h;
+- G: [^3-12] veicoli a motore agricoli e forestali[^3-13], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, la cui velocità massima non supera 30 km/h, esclusi i veicoli eccezionali[^3-14];
 - M: ciclomotori.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^3-2]: Nuova espressione giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^3-3]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^3-6]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-7]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-4]: Nuova espr. giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-5]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-6]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^3-7]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^3-8]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^3-9]: Correzione del 19 ago. 2014 ([RU 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
-[^3-10]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
-[^3-11]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-9]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-10]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^3-11]: Correzione del 19 ago. 2014 ([RU 2014 2601](https://fedlex.data.admin.ch/eli/oc/2014/454)).
+[^3-12]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4191](https://fedlex.data.admin.ch/eli/oc/2005/548)).
+[^3-13]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-14]: Nuova espressione giusta il n. I cpv. 1 dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -195,28 +198,29 @@ Inoltre, nel traffico interno:
 - b.[^4-4] la licenza di condurre della categoria C autorizza a condurre veicoli adibiti al trasporto di agenti di polizia e autoveicoli del servizio antincendio con più di otto posti, veicoli vuoti della categoria D, della sottocategoria D1 e filobus vuoti;
 - c. la licenza di condurre della sottocategoria C1 autorizza a condurre veicoli vuoti della sottocategoria D1;
 - d. la licenza di condurre delle categorie B e C e della sottocategoria C1 autorizza a trainare rimorchi agricoli e forestali o rimorchi del servizio antincendio, della polizia e della protezione civile;
-- e. la licenza di condurre delle categorie speciali F, G e M autorizza a trainare rimorchi con veicoli di queste categorie speciali;
-- f.[^4-5]
+- e.[^4-5] la licenza di condurre della sottocategoria B1 nonché delle categorie speciali F, G e M autorizza a trainare rimorchi con veicoli di queste categorie di licenze;
+- f.[^4-6]
 
   la licenza di condurre della categoria B autorizza a:
 
   - 1\. condurre autoveicoli leggeri della sottocategoria D1 per la riparazione di guasti, per il rimorchio, per corse di trasferimento e di prova connesse al commercio di veicoli, a riparazioni o a modifiche dei veicoli, per corse di prova di veicoli nuovi da parte di fabbricanti e importatori, per collaudi di veicoli da parte di esperti nonché per controlli ufficiali di veicoli e per recarsi al luogo di questi controlli,
-  - 2\. condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, se a emissioni zero (art. 9*a* cpv. 2 OETV[^4-6]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero; è consentito il traino di un rimorchio con peso totale non superiore a 750 kg;
+  - 2\. condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, se a emissioni zero (art. 9*a* cpv. 2 OETV[^4-7]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero; è consentito il traino di un rimorchio con peso totale non superiore a 750 kg;
 
-- g.[^4-7] la licenza di condurre delle categorie B e F autorizza a condurre risciò elettrici;
-- h.[^4-8] la licenza di condurre della categoria BE autorizza a condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, trainanti un rimorchio con peso totale di oltre 750 kg, se il veicolo trattore è a emissioni zero (art. 9*a* cpv. 2 OETV) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
+- g.[^4-8] la licenza di condurre delle categorie B e F autorizza a condurre risciò elettrici;
+- h.[^4-9] la licenza di condurre della categoria BE autorizza a condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti, escluso quello del conducente, trainanti un rimorchio con peso totale di oltre 750 kg, se il veicolo trattore è a emissioni zero (art. 9*a* cpv. 2 OETV) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
 
-<sup>6</sup> Qualora il capoverso 5 autorizzi a condurre veicoli vuoti di altre categorie o sottocategorie e filobus, è consentito trasportare le persone incaricate di constatare i difetti, di controllare le riparazioni nonché di eseguire i collaudi ufficiali dei veicoli.[^4-9]
+<sup>6</sup> Qualora il capoverso 5 autorizzi a condurre veicoli vuoti di altre categorie o sottocategorie e filobus, è consentito trasportare le persone incaricate di constatare i difetti, di controllare le riparazioni nonché di eseguire i collaudi ufficiali dei veicoli.[^4-10]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^4-3]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^4-5]: Introdotta dal n. I dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^4-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-7]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^4-8]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^4-9]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^4-6]: Introdotta dal n. I dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-8]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
+[^4-9]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-10]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 5
 
@@ -245,7 +249,7 @@ Non necessitano di una licenza di condurre le persone che:
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^5-2]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ### 11*a* Esami medici e psicologici di idoneità alla guida
 
@@ -404,7 +408,7 @@ Per la notifica dei risultati alle autorità cantonali, i medici utilizzano i mo
 <sup>5</sup> Le autorità cantonali possono mettere a disposizione i moduli di cui al capoverso 4 in forma elettronica. Se un’autorità cantonale ricorre a tale possibilità, può chiedere di ricevere i moduli solo elettronicamente.[^5i-3]
 
 [^5i-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^5i-2]: Il riferimento è stato cancellato il 1° feb. 2019 ai sensi dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^5i-2]: Il riferimento è stato cancellato il 1° feb. 2019 ai sensi dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^5i-3]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
@@ -561,7 +565,7 @@ Il candidato alla licenza di condurre della sottocategoria D1 deve aver condotto
 [^8-3]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^8-4]: Introdotto dal n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^8-5]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^8-6]: Nuova espressione giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-6]: Nuova espr. giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^8-7]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 9
@@ -677,12 +681,12 @@ Se la domanda è presentata per la prima volta, il richiedente deve presentarsi 
 <sup>5</sup> Se presentata dopo l’annullamento della licenza di condurre in prova, la domanda deve essere corredata di una perizia rilasciata da uno psicologo del traffico di cui all’articolo 5*c* attestante l’idoneità psicologica alla guida. La perizia non può essere presentata prima di un mese dalla scadenza del periodo di sospensione e non deve risalire a più di tre mesi prima.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^11-2]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
-[^11-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^11-5]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
-[^11-6]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^11-7]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^11-2]: [RS 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
+[^11-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^11-5]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
+[^11-6]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^11-7]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 
 #### Art. 11a
 
@@ -890,7 +894,7 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 <sup>2</sup> Durante le corse d’esercitazione con veicoli della categoria D o della sottocategoria D1 per cui non è necessaria la licenza per allievo conducente, possono essere trasportati l’accompagnatore giusta l’articolo 15 capoverso 1 LCStr, il maestro conducente, l’esperto della circolazione e altri allievi conducenti; il conducente deve recare seco una conferma dell’ammissione all’esame di conducente della categoria D o della sottocategoria D1.
 
-<sup>3</sup> La conferma dell’iscrizione a un corso di guida di trattori riconosciuto ai sensi dell’articolo 4 capoverso 3 autorizza i titolari della licenza di condurre della categoria speciale G a effettuare corse di esercitazione con trattori la cui velocità massima non superi 40 km/h. Non è ammesso condurre veicoli speciali. Il traino di rimorchi è ammesso soltanto durante il tragitto verso il luogo dove si svolge il corso e durante il corso. Gli organizzatori di corsi di guida di trattori possono confermare l’iscrizione al più presto un mese prima della data del corso.
+<sup>3</sup> La conferma dell’iscrizione a un corso di guida di trattori riconosciuto ai sensi dell’articolo 4 capoverso 3 autorizza i titolari della licenza di condurre della categoria speciale G a effettuare corse di esercitazione con trattori la cui velocità massima non superi 40 km/h. Non è ammesso condurre veicoli eccezionali. Il traino di rimorchi è ammesso soltanto durante il tragitto verso il luogo dove si svolge il corso e durante il corso. Gli organizzatori di corsi di guida di trattori possono confermare l’iscrizione al più presto un mese prima della data del corso.
 
 [^17a-1]: Introdotto dal n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
@@ -1026,7 +1030,7 @@ Non devono superare l’esame pratico di conducente:
 
 <sup>3</sup> La licenza di condurre della categoria A con limitazione della potenza è rilasciata a chi possiede una licenza per allievo conducente con limitazione della potenza e ha superato l’esame pratico di conducente. La licenza di condurre della categoria A senza limitazione della potenza è rilasciata a chi possiede una licenza per allievo conducente senza limitazione della potenza e ha superato l’esame pratico di conducente.[^24-3]
 
-<sup>4</sup> e <sup>5</sup> ...[^24-4]
+<sup>4 e <sup>5</sup></sup> ...[^24-4]
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
@@ -1071,10 +1075,10 @@ Nella licenza di condurre devono essere iscritte le seguenti autorizzazioni:
 - e.[^24c-4] il certificato di capacità per il trasporto di persone o di merci giusta l’ordinanza del 15 giugno 2007[^24c-5] sull’ammissione degli autisti, con indicazione della categoria o sottocategoria con la quale possono essere effettuati i trasporti e della durata di validità.
 
 [^24c-1]: Originario art. 24*a.*
-[^24c-2]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
+[^24c-2]: [RS 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
 [^24c-3]: Introdotta dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^24c-4]: Introdotta dal n. I dell’O del 22 ott. 2008 ([RU 2008 5569](https://fedlex.data.admin.ch/eli/oc/2008/769)). Nuovo testo giusta il n. I dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
-[^24c-5]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^24c-5]: [RS 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
 
 #### Art. 24d
 
@@ -1170,18 +1174,18 @@ Il permesso per il trasporto professionale di persone è rilasciato al titolare 
 
 <sup>5</sup> Il permesso è valido soltanto insieme alla licenza di condurre.
 
-[^25-1]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^25-1]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^25-2]: Nuovo testo giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^25-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^25-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^25-5]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^25-5]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^25-6]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 ### 12*a* Obblighi di annunciare e visite di controllo di idoneità alla guida
 
 [^lvl1-lvl12a-1]
 
-[^lvl1-lvl12a-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^lvl1-lvl12a-1]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 26
 
@@ -1701,20 +1705,20 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 
 <sup>4</sup> La licenza di condurre straniera che il conducente ha ottenuto eludendo le disposizioni della presente ordinanza sull’ottenimento della licenza svizzera, o quelle di competenza dello Stato dove è domiciliato, non può essere utilizzata in Svizzera.
 
-[^42-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
+[^42-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
 [^42-2]: Non ratificata dalla Svizzera
-[^42-3]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402). Cfr. anche l’Acc. europeo del 1° mag. 1971 completante la Conv. sulla circolazione stradale ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^42-3]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822). Cfr. anche l’Acc. europeo del 1° mag. 1971 completante la Conv. sulla circolazione stradale ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
 [^42-4]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-5]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^42-6]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^42-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^42-8]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-10]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-11]: Introdotta dal n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-12]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^42-12]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^42-13]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-14]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^42-14]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-15]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
@@ -1727,9 +1731,9 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 
 <sup>3</sup> In casi fondati, l’USTRA[^43-3] può ammettere eccezioni concernenti l’età minima di conducenti provenienti dall’estero.
 
-[^43-1]: Introdotta dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^43-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^43-2]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^43-3]: Nuova espressione giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^43-3]: Nuova espr. giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 44
 
@@ -1750,7 +1754,7 @@ Non hanno bisogno di una licenza di condurre svizzera le persone beneficiarie di
 <sup>4</sup> Le autorità che rilasciano una licenza di condurre svizzera devono restituire le licenze rilasciate dagli Stati membri dell’UE o dell’AELS all’autorità di emissione. Le altre licenze devono essere restituite all’autorità di emissione o consegnate al titolare. Il contenuto delle licenze straniere viene registrato.[^44-7]
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° mar. 2014.
+[^44-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° mar. 2014.
 [^44-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^44-4]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^44-5]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
@@ -2009,8 +2013,8 @@ L’esperto della circolazione incaricato degli esami di conducente e dei contro
 
 Qualora abbiano superato un esame parziale di cui all’articolo 67 capoverso 1<sup>bis</sup>, possono effettuare autonomamente esami di conducente o controlli dei veicoli già durante la formazione, a condizione che:
 
-- [tab] a. attraverso tale esame abbiano acquisito le competenze necessarie; e
-- [tab] b. siano opportunamente assistiti da un formatore.
+- a. attraverso tale esame abbiano acquisito le competenze necessarie; e
+- b. siano opportunamente assistiti da un formatore.
 
 [^68a-1]: Introdotto dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 
@@ -2064,14 +2068,14 @@ La licenza di circolazione e le targhe sono rilasciate se:
 
 [^71-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^71-3]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^71-4]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^71-5]: Introdotta dal n. II dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
-[^71-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^71-6]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^71-7]: Nuovo testo giusta l’appendice n. 5 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^71-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^71-9]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-10]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^71-10]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^71-11]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 72
@@ -2086,40 +2090,44 @@ Né la licenza di circolazione né le targhe sono necessarie per:
 - b. i carri a mano provvisti di motore;
 - c.[^72-1]
 
-  i rimorchi seguenti, esclusi i rimorchi speciali:
+  i rimorchi seguenti, esclusi i rimorchi eccezionali:[^72-2]
 
   - 1\. rimorchi agricoli e forestali la cui velocità massima non supera i 30 km/h trainati da trattori come anche da veicoli a motore la cui velocità massima non supera i 30 km/h,
-  - 2\. rimorchi agricoli e forestali la cui velocità massima non supera i 30 km/h e con un peso garantito di 1500 kg al massimo trainati da veicoli a motore con una velocità massima, per la loro costruzione, di oltre 30 km/h e con tutte le ruote motrici,
+  - 2\.[^72-3] rimorchi agricoli e forestali la cui velocità massima non supera i 30 km/h e con un peso garantito di 1500 kg al massimo trainati da veicoli a motore con una velocità massima per costruzione di oltre 30 km/h e con tutte le ruote motrici,
   - 3\. rimorchi trainati da carri con motore e carri di lavoro,
   - 4\. rimorchi e assi rimorchiati che costituiscono un veicolo indipendente trainati da monoassi,
-  - [tab] 5.[^72-2]rimorchi a slitta;
+  - 5\.[^72-4] rimorchi a slitta;
 
 - d. i veicoli di lavoro utilizzati in cantieri stradali delimitati ma non completamente chiusi al traffico;
 - e. i veicoli a motore e i rispettivi rimorchi adibiti al traffico interno di un’impresa ma autorizzati a circolare su strada pubblica;
 - f. i carrelli di sostegno;
-- g.[^72-3] casse mobili montate su ruote; il permesso per rimorchiarle dalla o verso la stazione di carico è rilasciato per il veicolo trattore ed è limitato a determinati tipi di contenitori;
-- h.[^72-4] i veicoli a motore trainati;
-- i.[^72-5] i veicoli che vengono trasportati su un autoveicolo di trasporto o un rimorchio, e guidati durante il loro carico o scarico, purché sia stata stipulata un’assicurazione giusta l’articolo 27 capoverso 1 OAV[^72-6];
-- j.[^72-7] i veicoli che vengono spostati da imprese del settore automobilistico su un’area interna all’azienda, purché sia stata stipulata un’assicurazione giusta l’articolo 27 capoverso 1 OAV;
-- k.[^72-8] ciclomotori leggeri;
-- l.[^72-9] sedie a rotelle[^72-10] con dispositivo di propulsione elettrica e una velocità massima di 10 km/h.
+- g.[^72-5] casse mobili montate su ruote; il permesso per rimorchiarle dalla o verso la stazione di carico è rilasciato per il veicolo trattore ed è limitato a determinati tipi di contenitori;
+- h.[^72-6] i veicoli a motore trainati;
+- i.[^72-7] i veicoli che vengono trasportati su un autoveicolo di trasporto o un rimorchio, e guidati durante il loro carico o scarico, purché sia stata stipulata un’assicurazione giusta l’articolo 27 capoverso 1 OAV[^72-8];
+- j.[^72-9] i veicoli che vengono spostati da imprese del settore automobilistico su un’area interna all’azienda, purché sia stata stipulata un’assicurazione giusta l’articolo 27 capoverso 1 OAV;
+- k.[^72-10] ciclomotori leggeri;
+- l.[^72-11] sedie a rotelle[^72-12] con dispositivo di propulsione elettrica e una velocità massima di 10 km/h;
+- m.[^72-13] carri di lavoro con una velocità massima per costruzione non superiore a 10 km/h.
 
-<sup>2</sup> ...[^72-11]
+<sup>2</sup> ...[^72-14]
 
-<sup>3</sup> Se dispongono di un attestato d’assicurazione valido, i Cantoni, ricorrendo a una convocazione, possono permettere che un veicolo sia trasferito per la via più breve al luogo d’esame.[^72-12]
+<sup>3</sup> Se dispongono di un attestato d’assicurazione valido, i Cantoni, ricorrendo a una convocazione, possono permettere che un veicolo sia trasferito per la via più breve al luogo d’esame.[^72-15]
 
 [^72-1]: Nuovo testo giusta l’all. 1 n. 3 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^72-2]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^72-3]: Nuovo testo giusta il n. II 4 dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^72-4]: Introdotta dal n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^72-5]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^72-6]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^72-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^72-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^72-4]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^72-5]: Nuovo testo giusta il n. II 4 dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^72-6]: Introdotta dal n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^72-7]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^72-8]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^72-9]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^72-10]: Nuova espressione giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^72-11]: Abrogato dal n. I dell’O del 12 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^72-12]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
+[^72-8]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^72-9]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
+[^72-10]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^72-11]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^72-12]: Nuova espr. giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
+[^72-13]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^72-14]: Abrogato dal n. I dell’O del 12 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
+[^72-15]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
 
 ### 212 Licenza di circolazione
 
@@ -2185,12 +2193,12 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 
 <sup>5</sup> L’USTRA, d’intesa con i Cantoni, l’autorità competente in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^75-6], stabilisce la forma da dare al rapporto di perizia ed emana le istruzioni sul modo di compilarlo.[^75-7]
 
-[^75-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^75-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^75-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^75-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^75-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^75-5]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^75-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^75-7]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3373](https://fedlex.data.admin.ch/eli/oc/2003/470)).
 
 #### Art. 76
@@ -2204,7 +2212,7 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 <sup>3</sup> L’UDSC comunica alle autorità d’immatricolazione i generi di veicoli per i quali non sono necessari la prova dell’imposizione doganale e dell’avvenuta tassazione secondo il capoverso 1 o un’autorizzazione secondo il capoverso 2.
 
 [^76-1]: Nuovo testo giusta dell’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 #### Art. 77
 
@@ -2242,8 +2250,8 @@ Il domicilio del detentore vale come luogo di stanza:
 
 <sup>3</sup> Entro i limiti dell’articolo 17 OAV, la durata di validità della licenza di circolazione per l’immatricolazione provvisoria dei veicoli non sdoganati può essere fissata o prolungata oltre a quella dell’autorizzazione doganale solo se detta autorizzazione lo prevede esplicitamente.
 
-[^79-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^79-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^79-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^79-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 80
 
@@ -2259,7 +2267,7 @@ Valgono come condizioni speciali ai sensi degli articoli 10 capoverso 3[^80-1] e
 
 <sup>2</sup> Nella licenza di circolazione è iscritto l’utilizzo di un veicolo per il trasporto professionale di persone di cui all’articolo 3 OLR 2, eccettuati i veicoli giusta l’articolo 4 capoverso 1 lettera d OLR 2.[^80-4]
 
-<sup>3</sup> La licenza di circolazione dei veicoli speciali menziona l’obbligo di possedere un permesso speciale. Se si tratta di veicoli destinati a trainare rimorchi particolarmente pesanti, i pesi del convoglio che derogano alle prescrizioni della LCStr sono indicati nella licenza di circolazione alla rubrica «Decisioni dell’autorità».
+<sup>3</sup> La licenza di circolazione dei veicoli eccezionali menziona l’obbligo di possedere un permesso speciale. Se si tratta di veicoli destinati a trainare rimorchi particolarmente pesanti, i pesi del convoglio che derogano alle prescrizioni della LCStr sono indicati nella licenza di circolazione alla rubrica «Decisioni dell’autorità».
 
 <sup>4</sup> Un detentore che prende in leasing o lascia, spesso o durevolmente, usare a terzi il suo veicolo, può chiedere all’autorità d’immatricolazione, mediante formulario elettronico ufficiale, che un cambiamento di detentore necessiti della sua approvazione o di quella di un’altra persona fisica o giuridica menzionata nel formulario. Se non può ricorrere al formulario elettronico, può presentare la richiesta per iscritto. L’autorità d’immatricolazione riporta questa limitazione nella licenza di circolazione e trasmette i dati al sistema d’informazione all’ammissione alla circolazione se è in possesso della richiesta al momento dell’immatricolazione.[^80-5]
 
@@ -2287,9 +2295,12 @@ Se le è presentata una licenza di circolazione che contiene un’iscrizione giu
 
 <sup>3</sup> Il rifiuto è nullo se è data l’approvazione scritta o elettronica della persona fisica o giuridica menzionata nel formulario oppure se vi è una decisione giudiziaria cresciuta in giudicato sui rapporti di proprietà.[^81-3]
 
+<sup>4</sup> …[^81-4]
+
 [^81-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^81-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
 [^81-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
+[^81-4]: Abrogato dal n. I dell’O del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
 
 ### 213 Targhe
 
@@ -2303,9 +2314,9 @@ L’autorità rilascia:
 
 - a.[^82-1] targhe con lettere e cifre nere su fondo bianco per gli autoveicoli, motoveicoli, quadricicli e tricicli a motore, monoassi e i rimorchi;
 - b. targhe con lettere e cifre nere su fondo celeste per i veicoli da lavoro;
-- c. targhe con lettere e cifre nere su fondo marrone chiaro per i veicoli speciali;
-- [tab] d.[^82-2] targhe con lettere e cifre nere su fondo verde chiaro per i veicoli agricoli e forestali;
-- [tab] e.[^82-3] targhe con lettere e cifre nere su fondo giallo per le motoleggere e i quadricicli a motore;
+- c. targhe con lettere e cifre nere su fondo marrone chiaro per i veicoli eccezionali;
+- d.[^82-2] targhe con lettere e cifre nere su fondo verde chiaro per i veicoli agricoli e forestali;
+- e.[^82-3] targhe con lettere e cifre nere su fondo giallo per le motoleggere e i quadricicli a motore;
 - f. targhe con lettere e cifre bianche su fondo grigio scuro per i veicoli dell’esercito; se queste targhe non possono essere applicate in modo adatto, lo stemma, le lettere e le cifre devono essere dipinte sulla carrozzeria su fondo grigio scuro;
 - g.[^82-4] ...
 
@@ -2329,7 +2340,7 @@ Occorre procedere al cambio delle targhe se cambia la categoria del veicolo e se
 [^82-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-4]: Abrogata dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, con effetto dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^82-5]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^82-5]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^82-6]: Abrogata dal n. I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^82-7]: Introdotta dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-8]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2398,20 +2409,19 @@ Le targhe, i cui angoli devono essere arrotondati (raggio di 1 cm), hanno le dim
 
 <sup>1</sup> Sulla targa anteriore degli autoveicoli e sulla targa dei monoassi, dei veicoli agricoli e forestali e dei rimorchi di lavoro devono essere iscritte da sinistra a destra le lettere, un punto a mezz’altezza e i numeri.[^85-1]
 
-<sup>2</sup> Nella parte superiore della targa posteriore di formato alto degli autoveicoli come pure della targa dei motoveicoli, delle motoleggere, dei quadricicli leggeri a motore, dei quadricicli e dei tricicli a motore, dei rimorchi per trasporto e dei rimorchi speciali devono figurare, da sinistra a destra, lo stemma federale, le lettere e lo stemma cantonale e, nella parte inferiore il numero.[^85-2] Sulla targa posteriore di formato lungo degli autoveicoli e dei loro rimorchi devono figurare, da sinistra a destra, lo stemma federale, le lettere del Cantone, un punto a mezza altezza, il numero e lo stemma cantonale.[^85-3]
+<sup>2</sup> Nella parte superiore della targa posteriore di formato alto degli autoveicoli come pure della targa dei motoveicoli, delle motoleggere, dei quadricicli leggeri a motore, dei quadricicli e dei tricicli a motore, dei rimorchi per trasporto e dei rimorchi eccezionali devono figurare, da sinistra a destra, lo stemma federale, le lettere e lo stemma cantonale e nella parte inferiore il numero. Sulla targa posteriore di formato lungo degli autoveicoli e dei loro rimorchi devono figurare, da sinistra a destra, lo stemma federale, le lettere del Cantone, un punto a mezza altezza, il numero e lo stemma cantonale.[^85-2]
 
-<sup>3</sup> Sulla targa con due righe di iscrizione, ad uso dei rimorchi militari, le prime due cifre sono iscritte nella parte superiore, di fianco alla lettera attribuita; sulla targa con una sola riga di iscrizione, si lascia uno spazio maggiore tra la seconda e la terza cifra.[^85-4] Lo stemma è soppresso.
+<sup>3</sup> Sulla targa con due righe di iscrizione, ad uso dei rimorchi militari, le prime due cifre sono iscritte nella parte superiore, di fianco alla lettera attribuita; sulla targa con una sola riga di iscrizione, si lascia uno spazio maggiore tra la seconda e la terza cifra.[^85-3] Lo stemma è soppresso.
 
-<sup>4</sup> Sulla targa anteriore come su quella posteriore di formato lungo dei veicoli utilizzati dalle rappresentanze diplomatiche o consolari, dalle delegazioni permanenti o dalle organizzazioni internazionali, devono figurare, da sinistra a destra, il campo nel quale si iscrive l’una delle tre sigle, le lettere del Cantone e i due gruppi di cifre separati da un punto. Sulla targa posteriore di formato alto figurano, nella parte superiore, la sigla iscritta nel campo colorato e le lettere del Cantone e, nella parte inferiore, i due gruppi di cifre.[^85-5]
+<sup>4</sup> Sulla targa anteriore come su quella posteriore di formato lungo dei veicoli utilizzati dalle rappresentanze diplomatiche o consolari, dalle delegazioni permanenti o dalle organizzazioni internazionali, devono figurare, da sinistra a destra, il campo nel quale si iscrive l’una delle tre sigle, le lettere del Cantone e i due gruppi di cifre separati da un punto. Sulla targa posteriore di formato alto figurano, nella parte superiore, la sigla iscritta nel campo colorato e le lettere del Cantone e, nella parte inferiore, i due gruppi di cifre.[^85-4]
 
-<sup>5</sup> La forma dei caratteri e le dimensioni delle lettere e delle cifre sono fissate dall’USTRA.[^85-6]
+<sup>5</sup> La forma dei caratteri e le dimensioni delle lettere e delle cifre sono fissate dall’USTRA.[^85-5]
 
 [^85-1]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-3]: Nuovo testo giusta il n. I dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
+[^85-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^85-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^85-4]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-5]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-6]: Nuovo testo giusta l’all. n. 11 dell’O del 6 dic. 1999 sull’organizzazione del DATEC, in vigore dal 1° gen. 2000, in vigore dal 1° gen. 2000 ([RU 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
+[^85-5]: Nuovo testo giusta l’all. n. 11 dell’O del 6 dic. 1999 sull’organizzazione del DATEC, in vigore dal 1° gen. 2000, in vigore dal 1° gen. 2000 ([RU 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
 
 #### Art. 86
 
@@ -2433,7 +2443,7 @@ La sigla «CD» è destinata:
 
 [^86-1]: Nuovo testo giusta l’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^86-2]: Nuovo testo giusta l’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^86-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^86-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 87
 
@@ -2575,7 +2585,7 @@ La licenza di circolazione è rilasciata se:
 <sup>7</sup> L’USTRA stabilisce la forma e le dimensioni delle lettere e delle cifre.
 
 [^94-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^94-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^94-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 95
 
@@ -2608,7 +2618,7 @@ Per l’immatricolazione dei ciclomotori della Confederazione, sono applicabili 
 <sup>2</sup> I ciclomotori dei Cantoni, per i quali non è stata stipulata l’assicurazione sulla responsabilità civile (art. 73 cpv. 2 LCStr), vengono muniti di targhe cantonali ordinarie portanti il numero di una serie speciale fissata dal Cantone.
 
 [^96-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^96-2]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^96-2]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 
 #### Art. 97
 
@@ -2660,8 +2670,8 @@ La licenza di circolazione può essere revocata se:
 
 [^106-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^106-2]: Introdotta dal n. II dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
-[^106-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^106-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^106-3]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
+[^106-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^106-5]: Nuovo testo della frase giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 107
@@ -2692,7 +2702,7 @@ La licenza di circolazione può essere revocata se:
 
 Se al momento di un esame o di un controllo si costata che dei veicoli, per i quali non è necessaria una licenza di circolazione ai sensi dell’articolo 72, non sono in perfetto stato di sicurezza o non sono conformi alle prescrizioni, l’autorità può vietarne l’uso finché non siano state eliminate le deficienze. Il sequestro di veicoli è regolato dall’articolo 221 capoversi 3 e 4 OETV[^109-1].[^109-2]
 
-[^109-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^109-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^109-2]: Nuovo testo della frase giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 110
@@ -2728,7 +2738,7 @@ I veicoli a motore e i rimorchi immatricolati all’estero possono circolare in 
 
 <sup>4</sup> I veicoli stranieri devono essere muniti del segno distintivo dello Stato d’immatricolazione.
 
-[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale ([RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale ([RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
 [^114-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 [^114-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
@@ -2785,9 +2795,9 @@ Il capoverso 6 non si applica quando veicoli esteri sono ammessi soltanto tempor
 <sup>5</sup> Se la revoca della licenza di circolazione straniera e delle targhe straniere è stata decisa da autorità straniere, l’esecuzione deve essere ordinata dall’USTRA in quanto le decisioni di revoca non siano trasmesse direttamente ai Cantoni.
 
 [^116-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^116-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^116-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^116-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^116-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^116-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^116-5]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 #### Art. 117
@@ -2842,7 +2852,7 @@ I veicoli stranieri sono tassati dal Cantone di stanza a partire dal giorno in c
 <sup>2</sup> In caso di immatricolazione provvisoria di veicoli per i quali non vi è stata un’imposizione doganale o una tassazione, i Cantoni consegnano al Controllo federale dei veicoli i documenti relativi all’esenzione, richiesti dall’UDSC. D’intesa con il Controllo federale dei veicoli l’UDSC può prevedere un sistema elettronico di trasmissione delle informazioni.
 
 [^122-1]: Nuovo testo giusta l’all. 4 n.35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^122-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^122-2]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 ### 313 Notificazione di infrazioni e di altri fatti
 
@@ -2945,9 +2955,9 @@ chi, essendo titolare della licenza di condurre della categoria A limitata a 25 
 
 <sup>5.</sup> I fabbricanti di targhe che consegnano targhe direttamente a detentori di veicoli sono puniti con la multa[^143-3].
 
-[^143-1]: Nuova espressione giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^143-1]: Nuova espr. giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^143-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2015, in vigore dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
-[^143-3]: Nuova espressione giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^143-3]: Nuova espr. giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 144
 
@@ -3026,7 +3036,7 @@ Il capoverso 1 non è applicabile se la persona dimostra di non essere stata ogg
 - d. ha prestato servizio militare in ferma continuata ai sensi dell’ordinanza del 22 novembre 2017[^148-2] concernente l’obbligo di prestare servizio militare.
 
 [^148-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^148-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^148-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 149
 
@@ -3066,7 +3076,7 @@ L’USTRA può:[^150-8]
 - b.[^150-10] pubblicare una guida ufficiale per i medici relativa all’esecuzione degli esami medici di idoneità alla guida;
 - c.[^150-11] raccomandare metodi uniformi per eseguire gli esami di cui agli articoli 9, 11*b* capoverso 1 e 27;
 - d. fissare le esigenze che i conducenti di veicoli a motore devono soddisfare in materia di psicologia del traffico;
-- [tab] e.[^150-12] modificare i termini fissati per il riconoscimento delle targhe e delle licenze straniere nonché rinunciare alla corsa di controllo giusta l’articolo 44 capoverso 1 e all’esame teorico giusta l’articolo 44 capoverso 2 nei confronti di conducenti di Stati che, in materia di formazione ed esame, pongono esigenze analoghe a quelle che vigono in Svizzera;
+- e.[^150-12] modificare i termini fissati per il riconoscimento delle targhe e delle licenze straniere nonché rinunciare alla corsa di controllo giusta l’articolo 44 capoverso 1 e all’esame teorico giusta l’articolo 44 capoverso 2 nei confronti di conducenti di Stati che, in materia di formazione ed esame, pongono esigenze analoghe a quelle che vigono in Svizzera;
 - f.[^150-13] ...
 
 <sup>6</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza, disciplinare i dettagli in ordinanze e, in particolare per evitare casi di rigore, autorizzare deroghe generali e astratte a singole disposizioni. Esso prende decisioni d’ordine generale, di regola dopo aver consultato i Cantoni e specialisti della materia.[^150-14]
@@ -3165,7 +3175,7 @@ Le licenze per allievo conducente e le licenze di condurre conformi all’allega
 
 **Disposizioni transitorie alla modifica del 3 luglio 2002**[^151d-1]
 
-<sup>1</sup> La portata delle autorizzazioni rilasciate anteriormente è mantenuta, tranne per i titolari della licenza di condurre della vecchia categoria C per il trasporto non professionale di persone in torpedone.
+<sup>1</sup> La portata delle autorizzazioni rilasciate anteriormente è mantenuta, tranne per i titolari della licenza di condurre della vecchia categoria C per il trasporto non professionale di persone in autobus[^151d-2].
 
 <sup>2</sup>
 
@@ -3187,27 +3197,28 @@ I titolari di una licenza per allievo conducente della vecchia categoria A1 poss
 
 <sup>6</sup> I veicoli adatti all’esame delle categorie C, D e CE, che adempiono i requisiti secondo il diritto anteriore, devono adempiere i nuovi requisiti entro il 1° gennaio 2006.
 
-<sup>7</sup> ...[^151d-2]
+<sup>7</sup> ...[^151d-3]
 
 <sup>8</sup> La vecchia categoria C1 autorizza, dopo il rilascio della nuova licenza di condurre, a condurre veicoli a motore delle nuove sottocategorie C1 e C1E e autoveicoli adibiti ad abitazione e autoveicoli del servizio antincendio di oltre 7500 kg.
 
-<sup>9</sup> La vecchia categoria D1 autorizza, dopo il rilascio della nuova licenza di condurre, a condurre veicoli a motore delle nuove sottocategorie C1, C1E, D1 e D1E nonché al trasporto professionale di persone secondo l’articolo 25. L’autorizzazione rilasciata anteriormente per la guida di veicoli fino a un peso totale di 3500 kg e con più di 16 posti a sedere oltre a quello del conducente è iscritta a titolo di indicazione supplementare nella licenza di condurre ed è valida soltanto per il traffico interno.[^151d-3]
+<sup>9</sup> La vecchia categoria D1 autorizza, dopo il rilascio della nuova licenza di condurre, a condurre veicoli a motore delle nuove sottocategorie C1, C1E, D1 e D1E nonché al trasporto professionale di persone secondo l’articolo 25. L’autorizzazione rilasciata anteriormente per la guida di veicoli fino a un peso totale di 3500 kg e con più di 16 posti a sedere oltre a quello del conducente è iscritta a titolo di indicazione supplementare nella licenza di condurre ed è valida soltanto per il traffico interno.[^151d-4]
 
-<sup>10</sup> La vecchia categoria D2 autorizza, dopo il rilascio della nuova licenza di condurre, a condurre veicoli a motore delle nuove sottocategorie D1 e D1E, limitata alla guida di furgoncini fino a 3500 kg per il trasporto non professionale di persone. La limitazione ai furgoncini fino a 3500 kg non si applica ai titolari di una licenza di condurre della vecchia categoria C1. La limitazione viene tolta con l’ottenimento della nuova categoria C1. L’obbligo della visita di controllo secondo l’articolo 27 capoverso 1 lettera a numero 1 vige soltanto per titolari di una licenza di condurre della sottocategoria D1 non limitata. L’autorizzazione rilasciata anteriormente per la guida di veicoli fino a un peso totale di 3500 kg e con più di 16 posti a sedere oltre a quello del conducente è iscritta a titolo di indicazione supplementare nella licenza di condurre ed è valida soltanto per il traffico interno.[^151d-4]
+<sup>10</sup> La vecchia categoria D2 autorizza, dopo il rilascio della nuova licenza di condurre, a condurre veicoli a motore delle nuove sottocategorie D1 e D1E, limitatamente alla guida di minibus fino a 3500 kg per il trasporto non professionale di persone. La limitazione ai minibus fino a 3500 kg non si applica ai titolari di una licenza di condurre della vecchia categoria C1. La limitazione viene tolta con l’ottenimento della nuova categoria C1. L’obbligo della visita di controllo secondo l’articolo 27 capoverso 1 lettera a numero 1 vige soltanto per titolari di una licenza di condurre della sottocategoria D1 non limitata. L’autorizzazione rilasciata anteriormente per la guida di veicoli fino a un peso totale di 3500 kg e con più di 16 posti a sedere oltre a quello del conducente è iscritta a titolo di indicazione supplementare nella licenza di condurre ed è valida soltanto per il traffico interno.[^151d-5]
 
 <sup>11</sup> La vecchia categoria F autorizza, dopo il rilascio di una nuova licenza di condurre, a condurre veicoli a motore della nuova categoria speciale F nonché della nuova sottocategoria A1, limitata a motoveicoli con una velocità massima di 45 km/h.
 
 <sup>12</sup> L’obbligo della visita di controllo secondo l’articolo 27 capoverso 1 lettera b non si applica alle persone già titolari di una licenza di condurre per ciclomotori.
 
-<sup>13</sup> ...[^151d-5]
+<sup>13</sup> ...[^151d-6]
 
 <sup>14</sup> La vecchia categoria C senza l’autorizzazione di trainare rimorchi della categoria E con veicoli a motore della categoria C (vecchia rubrica 09), autorizza, dopo il rilascio della nuova licenza di condurre, a condurre le nuove categorie BE e DE nonché le nuove sottocategorie C1E e D1E, qualora sia stata rilasciata una licenza di condurre per il corrispondente veicolo trattore.
 
 [^151d-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^151d-2]: Abrogato dal n. I dell’O del 18 dic. 2015, con effetto dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
-[^151d-3]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^151d-2]: Nuova espressione giusta il n. I cpv. 3 dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^151d-3]: Abrogato dal n. I dell’O del 18 dic. 2015, con effetto dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
 [^151d-4]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^151d-5]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^151d-5]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^151d-6]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 151e
 
@@ -3313,6 +3324,8 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 
 <sup>2</sup> Chi il 31 dicembre 2019 è titolare di una licenza di condurre in prova deve seguire soltanto un giorno di formazione complementare. L’articolo 27*c* non è applicabile.
 
+<sup>3</sup> A chi ha conseguito prima del 1° gennaio 2021 la licenza di condurre di categoria A limitata a una potenza del motore di 35 kW e un rapporto tra questa e il peso a vuoto non superiore a 0,20 kW/kg, continua ad applicarsi l’articolo 24 capoverso 5 del diritto previgente
+
 <sup>4</sup> Le persone che hanno ottenuto la licenza per allievo conducente della sottocategoria A1 prima del 1° gennaio 2021 e hanno svolto la formazione pratica di base della durata di otto ore conformemente al diritto previgente sono ammesse all’esame pratico di conducente. Se già titolari di una licenza di condurre della categoria B o della sottocategoria B1, tali persone ottengono la licenza di condurre senza dover superare l’esame pratico di conducente<sup>.</sup>
 
 <sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
@@ -3342,7 +3355,7 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 Chi, in virtù dell’articolo 151*d* capoversi 9 e 10, è autorizzato a condurre veicoli con peso totale superiore a 3500 kg e più di 16 posti a sedere, escluso quello del conducente, può condurre autobus con peso totale superiore a 3500 kg ma non oltre 425 kg, se a emissioni zero (art. 9*a* cpv. 2 OETV[^151n-2]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
 
 [^151n-1]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 151o
 
@@ -3399,7 +3412,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 [^153-9]: [[RU 1969 475](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475), [1971 1360](https://fedlex.data.admin.ch/eli/oc/1971/__1360)]
 [^153-10]: [[RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811), [1138](https://fedlex.data.admin.ch/eli/oc/1969/__1138); [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)art. 10 cpv. 2, [716](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716); [1972 535](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535), [670](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)art. 7 cpv. 2; [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)n. II; [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)art. 25]
 [^153-11]: [[RU 1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)]
-[^153-12]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
+[^153-12]: [RS 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
 
 #### Art. 154
 
@@ -3511,8 +3524,8 @@ I medici che effettuano visite di controllo di idoneità alla guida di persone c
 - h. conoscenza delle condizioni che l’autorità cantonale può imporre;
 - i. capacità di trasmettere correttamente le informazioni alle autorità cantonali (allegato 3 OAC).
 
-[^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
+[^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Allegato 2[^t-4]
 
@@ -3742,14 +3755,10 @@ Cognome: Nome: Data di nascita: NPA/Domicilio: Indirizzo:
 
   -
 
-- [tab]
 - 2 *Conclusioni*
 - 2\.1 I requisiti medici minimi (allegato 1 OAC)
 
-<table>
-<tr><td>del 1° gruppo medico (A, A1, B, B1, F, G, M) sono:</td><td>del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione) sono:</td></tr>
-<tr><td>soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:</td><td>soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:</td></tr>
-</table>
+del 1° gruppo medico (A, A1, B, B1, F, G, M) sono: del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione) sono: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:
 
 - 2\.2 Risultato non chiaro: la valutazione definitiva dovrà essere effettuata da un medico riconosciuto di livello 3 o 4
 - Sussistono seri dubbi circa l’idoneità alla guida, per cui sarebbe bene evitare di guidare fino a ulteriore accertamento
@@ -3839,7 +3848,7 @@ Allegato 4[^t-8]
 
 ## Domanda per il rilascio di una licenza per allievo conducente, di una licenza di condurre o del permesso per il trasporto professionale di persone
 
-[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), dal n. II cpv. 1 delle O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e del 10 mag. 2023, in vigore dal 15 lug. 2023, con riserva dei n. 5.5, 5.52 e 5.5, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-8]: Nuovo testo giusta il n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 3 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494), [6001](https://fedlex.data.admin.ch/eli/oc/2015/934)), dal n. II cpv. 1 delle O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) e dal 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 
 <table>
 <tr><td>1</td><td>Dati personali</td><td></td></tr>
@@ -3999,7 +4008,7 @@ Annesso
 - DE: Combinazioni di veicoli costituite da un veicolo trattore della categoria D e un rimorchio con peso totale superiore a 750 kg.
 - [tab] **Sottocategorie:**
 - A1: Motoveicoli con una cilindrata non superiore a 125 cm3 e una potenza del motore massima di 11 kW;
-- B1: Quadricicli a motore e tricicli a motore con peso a vuoto massimo non superiore a 550 kg;
+- B1: Tricicli a motore con peso a vuoto non superiore a 670 kg e quadricicli a motore;
 - C1: Autoveicoli con peso totale superiore a 3500 kg, ma non superiore a 7500 kg, e non più di otto posti, escluso quello del conducente;
 - combinazioni di veicoli costituite da un veicolo trattore della sottocategoria C1 e un rimorchio con peso totale non superiore a 750 kg;
 - D1: Autoveicoli adibiti al trasporto di persone con più di otto, ma meno di sedici posti sedere, escluso quello del conducente;
@@ -4008,7 +4017,7 @@ Annesso
 - D1E: Combinazioni di veicoli costituite da un veicolo trattore della sottocategoria D1 e un rimorchio con peso totale superiore a 750 kg, a condizione che il peso della combinazione non superi 12 000 kg e il rimorchio non sia adibito al trasporto di persone.
 - [tab] **Categorie speciali:**
 - F: Veicoli a motore con una velocità massima di 45 km/h, esclusi i motoveicoli;
-- G: Veicoli a motore agricoli e forestali con una velocità massima di 30 km/h, esclusi i veicoli speciali;
+- G: Veicoli a motore agricoli e forestali con una velocità massima di 30 km/h, esclusi i veicoli eccezionali;
 - M: Ciclomotori.
 - M Ciclomotori.
 
@@ -4156,7 +4165,7 @@ La prova delle conoscenze di cui al numero 1 è fornita mediante esame dei segue
 
 1.1 Prescrizioni in materia di circolazione stradale:
 
-in particolare la segnaletica, compresi demarcazioni e segnali luminosi, le regole di precedenza e le prescrizioni sulle limitazioni della velocità.
+- in particolare la segnaletica, compresi demarcazioni e segnali luminosi, le regole di precedenza e le prescrizioni sulle limitazioni della velocità.
 
 1.2 Il conducente:
 
@@ -4216,7 +4225,7 @@ Allegato 12[^t-15]
 
 ## Esame pratico di conducente
 
-[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dai n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) e del 18 dic. 2015 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)), dal n. I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dal n. II cpv. 3 dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)) e dal n. I dell’O del 10 mag. 2023, in vigore dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dal n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), dal n. I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dal n. II cpv. 3 dell’O del 14 dic. 2018 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), dal n. I dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)) e dal n. II cpv. 2 dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 
 ### I. R Requisiti d’ammissione
 
@@ -4394,29 +4403,30 @@ La durata dell’esame e la distanza percorsa devono essere sufficienti per cons
 - – 90 minuti per le categorie C e CE;
 - – 120 minuti per la categoria D.
 
-[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
 
 ### V. Veicoli per gli esami
 
 <table>
 <tr><td>Categoria A senza limitazione della potenza:</td><td>un motoveicolo senza carrozzino laterale avente una potenza del motore di oltre 35 kW o un rapporto tra potenza del motore e peso a vuoto superiore a 0,20 kW/kg e due posti a sedere;</td></tr>
 <tr><td>Categoria A con limitazione della potenza:</td><td>un motoveicolo senza carrozzino laterale avente una potenza del motore di al massimo 35 kW e un rapporto tra potenza del motore e peso a vuoto di al massimo 0,20 kW/kg e due posti a sedere; sono esclusi i motoveicoli della sottocategoria A1;</td></tr>
-<tr><td>Sottocategoria A1:</td><td>un motoveicolo della sottocategoria A1 senza carrozzino laterale con una velocità massima superiore ai 30 km/h;</td></tr>
 <tr><td>Categoria B:</td><td>un autoveicolo della categoria B che raggiunge una velocità di almeno 120 km/h;</td></tr>
-<tr><td>Categoria C:</td><td>un veicolo a motore della categoria C con un peso effettivo di almeno 12 t, una lunghezza di almeno 8 m e una larghezza di almeno 2,30 m, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina del conducente;</td></tr>
+<tr><td>Categoria C:</td><td>un veicolo a motore della categoria C con un peso effettivo di almeno 12 t, una lunghezza di almeno 8 m e una larghezza di almeno 2,30 m, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina di guida[^annex12-lvlu1-lvlV-1];</td></tr>
 <tr><td>Categoria D:</td><td>un autobus con lunghezza di almeno 10 m e larghezza di almeno 2,30 m, che raggiunge una velocità di almeno 80 km/h;</td></tr>
 <tr><td>Categoria BE:</td><td>una combinazione di veicoli consistente in un veicolo adatto alla prova della categoria B e un rimorchio con un peso totale ammesso di almeno 1000 kg, che raggiunge una velocità di almeno 80 km/h e che non rientra nella categoria B. La sovrastruttura chiusa del rimorchio deve essere di altezza e larghezza almeno pari a quelle del veicolo trattore. Essa può essere anche leggermente meno larga a condizione che la visione posteriore risulti garantita attraverso gli specchi retrovisori esterni del veicolo trattore. Il rimorchio deve essere utilizzato con un peso effettivo di almeno 800 kg;</td></tr>
-<tr><td>Categoria CE:</td><td>un autoarticolato o una combinazione di veicoli consistente in un veicolo adatto all’esame della categoria C e un rimorchio lungo almeno 7,5 m. Sia l’autoarticolato sia la combinazione di veicoli devono avere un peso totale ammesso di almeno 21 t, un peso effettivo di almeno 15 t, una lunghezza di almeno 14 m e una larghezza di almeno 2,30 m e devono raggiungere una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina del conducente;</td></tr>
+<tr><td>Categoria CE:</td><td>un autoarticolato o una combinazione di veicoli consistente in un veicolo adatto all’esame della categoria C e un rimorchio lungo almeno 7,5 m. Sia l’autoarticolato sia la combinazione di veicoli devono avere un peso totale ammesso di almeno 21 t, un peso effettivo di almeno 15 t, una lunghezza di almeno 14 m e una larghezza di almeno 2,30 m e devono raggiungere una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina di guida;</td></tr>
 <tr><td>Categoria DE:</td><td>una combinazione di veicoli consistente in un veicolo adatto all’esame della categoria D e un rimorchio con un peso totale ammesso di almeno 1250 kg, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere larga e alta almeno 2 m; il rimorchio deve essere utilizzato con un peso effettivo di almeno 800 kg;</td></tr>
-<tr><td>Sottocategoria A1:</td><td>un motoveicolo della sottocategoria A1 senza carrozzino laterale;</td></tr>
-<tr><td>Sottocategoria B1:</td><td>un quadriciclo a motore o un triciclo a motore con un peso a vuoto massimo di 550 kg, che raggiunge una velocità di almeno 60 km/h;</td></tr>
-<tr><td>Sottocategoria C1:</td><td>un veicolo a motore della sottocategoria C1 con un peso totale ammesso di almeno 4 t e una lunghezza di almeno 5 m, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina del conducente;</td></tr>
-<tr><td>Sottocategoria D1:</td><td>un torpedone della sottocategoria D1 con un peso totale ammesso di almeno 4 t e una lunghezza di almeno 5 m, che raggiunge una velocità di 80 km/h; può essere utilizzato anche un veicolo adatto all’esame della sottocategoria C1;</td></tr>
+<tr><td>Sottocategoria A1:</td><td>un motoveicolo della sottocategoria A1 senza carrozzino laterale con una velocità massima superiore ai 30 km/h;</td></tr>
+<tr><td>Sottocategoria B1:</td><td>un quadriciclo a motore che raggiunge una velocità di almeno 60 km/h o un triciclo a motore con un peso a vuoto non superiore a 670 kg che raggiunge una velocità di almeno 60 km/h;</td></tr>
+<tr><td>Sottocategoria C1:</td><td>un veicolo a motore della sottocategoria C1 con un peso totale ammesso di almeno 4 t e una lunghezza di almeno 5 m, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e di larghezza almeno pari a quelle della cabina di guida;</td></tr>
+<tr><td>Sottocategoria D1:</td><td>un autobus della sottocategoria D1 con un peso totale ammesso di almeno 4 t e una lunghezza di almeno 5 m, che raggiunge una velocità di 80 km/h; può essere utilizzato anche un veicolo adatto all’esame della sottocategoria C1;</td></tr>
 <tr><td>Sottocategoria C1E</td><td>una combinazione di veicoli consistente in un veicolo adatto all’esame della sottocategoria C1 e un rimorchio con un peso totale ammesso di almeno 1250 kg, lungo almeno 8 m e che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere di altezza e larghezza almeno pari a quelle del veicolo trattore. La sovrastruttura chiusa del rimorchio può essere anche leggermente meno larga, a condizione che la visione posteriore risulti garantita soltanto attraverso gli specchi retrovisori esterni. Il rimorchio deve essere utilizzato con un minimo di 800 kg di peso effettivo;</td></tr>
 <tr><td>Sottocategoria D1E:</td><td>una combinazione di veicoli consistente in un veicolo adatto all’esame della sottocategoria D1 e un rimorchio con un peso totale ammesso di almeno 1250 kg, che raggiunge una velocità di 80 km/h. La sovrastruttura chiusa deve essere alta e larga almeno 2 m. Il rimorchio deve essere utilizzato con un peso effettivo di almeno 800 kg; può essere utilizzato anche un veicolo adatto all’esame della sottocategoria C1E;</td></tr>
 <tr><td>Categoria speciale F:</td><td>un veicolo a motore della categoria speciale F con una velocità di almeno 30 km/h;</td></tr>
 <tr><td>Trasporto professionale di persone con veicoli leggeri adibiti al trasporto di persone</td><td>un veicolo a motore della categoria della licenza con il quale saranno effettuati i trasporti professionali di persone.</td></tr>
 </table>
+
+[^annex12-lvlu1-lvlV-1]: Nuova espressione giusta il n. I cpv. 2 dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### VI. Luogo dell’esame
 
