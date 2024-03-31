@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2023-04-01
+version: 2024-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 1. April 2023)
+vom 14. Oktober 2019 (Stand am 1. April 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -96,5 +96,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 17. Febr. 2023, in Kraft seit 1. April 2023 ([AS 2023 112](https://fedlex.data.admin.ch/eli/oc/2023/112)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/112](https://fedlex.data.admin.ch/eli/oc/2023/112) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 5. März 2024, in Kraft seit 1. April 2024 ([AS 2024 117](https://fedlex.data.admin.ch/eli/oc/2024/117)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/11](https://fedlex.data.admin.ch/eli/oc/2023/112)7 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

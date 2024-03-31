@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compens
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: fr
-version: 2023-04-01
+version: 2024-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/fr"
 
 (OCoR-DFI)
 
-du 14 octobre 2019 (État le 1<sup>er</sup> avril 2023)
+du 14 octobre 2019 (État le 1<sup>er</sup> avril 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -96,5 +96,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 fév. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 112](https://fedlex.data.admin.ch/eli/oc/2023/112)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/112](https://fedlex.data.admin.ch/eli/oc/2023/112) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 mars 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 117](https://fedlex.data.admin.ch/eli/oc/2024/117)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/117](https://fedlex.data.admin.ch/eli/oc/2024/117) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
