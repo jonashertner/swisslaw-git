@@ -3,13 +3,12 @@ canton: BS
 number: "211.100"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 language: de
-version: 2022-01-01
-valid_until: 2024-03-31
-version_adopted: 2021-10-20
+version: 2024-04-01
+version_adopted: 2021-10-27
 adopted: 1911-04-27
 in_force: 1912-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/211.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5660/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5660/pdf_file"
 
 Einführungsgesetz zum ZGB | Ergänzungserlasse zum Bundeszivilrecht[^t-1]
 
-Vom 27. April 1911 (Stand 1. Januar 2022)
+Vom 27. April 1911 (Stand 1. April 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -1336,7 +1335,7 @@ beschlossen was folgt:
 
 #### § 174
 
-<sup>1</sup> Für die Befugnis der Jagd- und Fischereiberechtigten, fremdes Grundeigentum zu betreten, sind die Vorschriften der kantonalen Jagd- und Fischereiverordnungen massgebend.
+**…**
 
 ### 19.VII. Öffentlich-Rechtliche Beschränkungen (ZGB 702)
 
@@ -1654,9 +1653,7 @@ beschlossen was folgt:
 
 #### § 211
 
-<sup>1</sup> Für Wildschaden, der durch ein aus einem Gehege entwichenes jagdbares Tier angerichtet wird, bestimmt sich die Haftung nach Massgabe des Art. 56 Abs. 1 und 2 des Obligationenrechts.
-
-<sup>2</sup> Im Übrigen ist für Wildschaden an Bäumen und Pflanzungen der Jagdpächter haftbar.
+**…**
 
 ### II. (V. Teil) Verjährung (OR 127f.)
 
