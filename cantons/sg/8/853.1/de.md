@@ -4,13 +4,12 @@ number: "853.1"
 title: "Gesetz über die Jagd, den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume (Jagdgesetz)"
 short: JG
 language: de
-version: 2023-08-01
-valid_until: 2024-03-31
+version: 2024-04-01
 version_adopted: 2022-11-15
 adopted: 1994-11-17
 in_force: 1996-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3476/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3478/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3476/pdf_file"
 
 (JG)
 
-vom 17.11.1994 (Stand 01.08.2023)
+vom 17.11.1994 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -249,7 +248,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> In einem Revier jagen:
 
-- a) die Pächterinnen und Pächter des Reviers;
+- a) die Mitglieder der Jagdgesellschaft;
 - b) angehende Jägerinnen und Jäger;
 - c) Jagdgäste.
 
@@ -259,7 +258,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Jagdgesellschaft ermöglicht angehenden Jägerinnen und Jägern die Jagdausübung.
 
-<sup>2</sup> Angehende Jägerinnen und Jäger stehen unter Aufsicht einer Pächterin oder eines Pächters.
+<sup>2</sup> Angehende Jägerinnen und Jäger stehen unter Aufsicht eines Mitglieds der Jagdgesellschaft.
 
 #### Art. 19
 
@@ -267,7 +266,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Jagdgesellschaft kann Gästen die Jagdausübung erlauben.
 
-<sup>2</sup> Gäste stehen unter Aufsicht einer Pächterin oder eines Pächters.
+<sup>2</sup> Gäste stehen unter Aufsicht eines Mitglieds der Jagdgesellschaft.
 
 <sup>3</sup> Die Jagdgesellschaft kann auf die Aufsicht über Gäste mit Fähigkeitsausweis verzichten.
 
@@ -280,6 +279,12 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> Für Verpflichtungen der Jagdgesellschaft haftet das Vereinsvermögen.
 
 [^20-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Art. 20bis
+
+**Mitteilungspflicht**
+
+<sup>1</sup> Die Jagdgesellschaft teilt der zuständigen Stelle des Kantons Änderungen in ihrer Zusammensetzung mit, insbesondere wenn sie die notwendige Mitgliederzahl betreffen. Die Regierung regelt die mitteilungspflichtigen Angaben durch Verordnung.
 
 ### 2. Hegegemeinschaft
 
@@ -308,7 +313,7 @@ als Gesetz:[^ingress-3]
 
 - 1\. Aufgaben, Befugnisse und Verhältnis gegenüber Jagdgesellschaften und zuständiger Stelle des Kantons;
 - 2\. Finanzhaushalt der Hegegemeinschaft sowie das finanzielle Verhältnis zu den Jagdgesellschaften;
-- 3\. Massnahmen und Sanktionen bei Nichterfüllung der Pflichten durch Hegegemeinschaft, Jagdgesellschaft und Pächterin oder Pächter.
+- 3\. Massnahmen und Sanktionen bei Nichterfüllung der Pflichten durch Hegegemeinschaft, Jagdgesellschaft und deren Mitglieder.
 
 <sup>3</sup> Die Regierung kann den Erlass der Verordnung nach Abs. 1 dieser Bestimmung auf die zuständige Stelle des Kantons übertragen.
 
@@ -479,7 +484,7 @@ als Gesetz:[^ingress-3]
 
 **Jagdausweis und Jagdpass**
 
-<sup>1</sup> Pächterinnen und Pächter, Jagdgäste mit Fähigkeitsausweis sowie angehende Jägerinnen und Jäger lösen einen Jagdausweis. Der Jagdausweis bescheinigt die Jagdberechtigung.
+<sup>1</sup> Mitglieder von Jagdgesellschaften, Jagdgäste mit Fähigkeitsausweis sowie angehende Jägerinnen und Jäger lösen einen Jagdausweis. Der Jagdausweis bescheinigt die Jagdberechtigung.
 
 <sup>2</sup> Jagdgäste ohne Fähigkeitsausweis lösen einen Jagdpass. Der Jagdpass begründet die Jagdberechtigung.
 
@@ -755,7 +760,7 @@ als Gesetz:[^ingress-3]
 
 **b) private Jagdaufsicht**
 
-<sup>1</sup> Die Jagdgesellschaft kann eine Pächterin oder einen Pächter als Jagdaufsicht bestimmen. Wenn der Vollzug der Aufgaben nach diesem Erlass es erfordert, kann die zuständige Stelle des Kantons die Jagdgesellschaft verpflichten, eine Jagdaufsicht zu bestimmen.
+<sup>1</sup> Die Jagdgesellschaft kann ein Mitglied als Jagdaufsicht bestimmen. Wenn der Vollzug der Aufgaben nach diesem Erlass es erfordert, kann die zuständige Stelle des Kantons die Jagdgesellschaft verpflichten, eine Jagdaufsicht zu bestimmen.
 
 <sup>2</sup> Die Jagdaufsicht erfüllt die vom zuständigen Departement festgelegten Voraussetzungen.
 
@@ -801,7 +806,7 @@ als Gesetz:[^ingress-3]
 
 **Tätigkeiten zu Gunsten von Privaten**
 
-<sup>1</sup> Für Tätigkeiten der Aufsichtsorgane sowie der Pächterinnen und der Pächter zu Gunsten von Privaten kann eine Gebühr verlangt werden. Gebührenpflichtig sind insbesondere:
+<sup>1</sup> Für Tätigkeiten der Aufsichtsorgane sowie der Jagdgesellschaften zu Gunsten von Privaten kann eine Gebühr verlangt werden. Gebührenpflichtig sind insbesondere:
 
 - a) die Unterstützung Privater bei Selbsthilfemassnahmen gegen jagdbare Tiere und die vom Bundesrat bezeichneten geschützten Tierarten[^62bis-1];
 - b) Einsätze bei Verkehrsunfällen mit Wild;
@@ -809,7 +814,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Gebührenpflichtig sind bei Verkehrsunfällen mit Wild die Fahrzeuglenkerin oder der Fahrzeuglenker, in den übrigen Fällen in erster Linie die Auftraggeberin oder der Auftraggeber, dann die Begünstigte oder der Begünstigte und in letzter Linie die Verursacherin oder der Verursacher.
 
-<sup>3</sup> Die Gebühr bestimmt sich nach dem Zeit- und Sachaufwand, bei Pächterinnen und Pächtern zu den Ansätzen, die für die kantonale Wildhut gelten.
+<sup>3</sup> Die Gebühr bestimmt sich nach dem Zeit- und Sachaufwand, bei Jagdgesellschaften zu den Ansätzen, die für die kantonale Wildhut gelten.
 
 <sup>4</sup> Im Streitfall verfügt die zuständige Stelle des Kantons über Gebührenpflicht und -höhe.
 
