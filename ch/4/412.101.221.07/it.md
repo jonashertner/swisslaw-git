@@ -3,18 +3,18 @@ sr: "412.101.221.07"
 title: Ordinanza della SEFRI del 15 marzo 2018 sulla formazione professionale di base Assistente di studio medico con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/263"
 language: it
-version: 2019-07-01
+version: 2024-04-01
 adopted: 2018-03-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/263/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2018-263-20190701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/263/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/263/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2018-263-20240401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/263/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente di studio medico con attestato federale di capacità (AFC)
 
-del 15 marzo 2018 (Stato 1° luglio 2019)
+del 15 marzo 2018 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>86915</td><td>Assistente di studio medico AFC Medizinische Praxisassistentin EFZ / Medizinischer Praxisassistent EFZ Assistante médicale CFC / Assistant médical CFC</td></tr>
@@ -22,13 +22,14 @@ del 15 marzo 2018 (Stato 1° luglio 2019)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto e durata
 
@@ -81,7 +82,12 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
   - 3\. pianificare e definire i processi nello studio medico secondo le linee guida e in conformità con i principi di gestione della qualità,
   - 4\. amministrare le prestazioni, i dati dei pazienti, dello studio e dei servizi esterni,
   - 5\. gestire i farmaci e la farmacia dello studio medico secondo le direttive,
-  - 6\. gestire il materiale di consumo e i mezzi ausiliari;b. assistenza al medico durante la consultazione e svolgimento di processi diagnostici:
+  - 6\. gestire il materiale di consumo e i mezzi ausiliari;
+
+- b.
+
+  assistenza al medico durante la consultazione e svolgimento di processi diagnostici:
+
   - 1\. preparare i pazienti e la sala consultazione per i processi diagnostici e terapeutici specifici svolti dal medico,
   - 2\. istruire i pazienti in merito ai preparativi necessari e allo svolgimento previsto della consultazione,
   - 3\. assistere il medico durante la consultazione e svolgere processi diagnostici,
@@ -124,9 +130,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -218,7 +226,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
-[^9-1]: Il piano del 15 marzo 2018 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A–Z.
+[^9-1]: Il piano del 15 marzo 2018 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 [^9-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^9-3]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
 
