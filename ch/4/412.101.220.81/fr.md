@@ -3,18 +3,18 @@ sr: "412.101.220.81"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> novembre 2013 sur la formation professionnelle initiale dans le champ professionnel «construction de voies de communication» avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/867"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/867/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-867-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/867/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/867/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-867-20240401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/867/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale champ professionnel «construction de voies de communication» avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 1<sup>er</sup> novembre 2013 (État le 1<sup>er</sup> janvier 2018)[^t-1]
+du 1<sup>er</sup> novembre 2013 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -30,14 +30,15 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2],
 
-vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:[^ingress-4]
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 56 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 56 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -47,7 +48,7 @@ arrête:[^ingress-4]
 
 <sup>1</sup>
 
-Les dénominations officielles des professions dans le champ professionnel «construction de voies de communication» sont :
+Les dénominations officielles des professions dans le champ professionnel «construction de voies de communication» sont:
 
 - a. assistante-constructrice de voies ferrées AFP/assistant-constructeur de voies ferrées AFP
 - b. assistante-constructrice de fondations AFP/assistant-constructeur de fondations AFP;
@@ -64,7 +65,7 @@ Les spécialistes du champ professionnel «construction de voies de communicatio
 - c. les assistants-constructeurs de voies ferrées AFP veillent à ce que le transport des personnes et des marchandises s’effectue sur un réseau ferré sûr et fiable. Ils aident à remplacer des aiguillages et des voies ou à construire de nouveaux tronçons ferroviaires; ils construisent des voies ballastées ou sur béton et exécutent des travaux de bétonnage ou d’aménagement;
 - d. les assistants-constructeurs de fondations AFP veillent à ce que le fond sur lequel les bâtiments ou les voies de communication seront construits ultérieurement soit solide et sûr. Ils aident à consolider le sol, à sécuriser des fouilles et à tenir compte du niveau de la nappe phréatique;
 - e. les constructeurs de sols industriels et de chapes AFP aident à réaliser et à entretenir d’une part des sols industriels et des chapes flottantes dans des halles de fabriques et des entrepôts et d’autre part des revêtements de sol servant de supports pour des tapis, des parquets ou d’autres revêtements de sol dans des constructions publiques ou privées;
-- f. les poseurs de pierres AFP aident à embellir les vielles villes, les esplanades, les parcs et les jardins, les bordures, les séparateurs de trafic et les trottoirs en procédant à des travaux de pavage. A cette fin, ils maîtrisent différents procédés de pose. Ils aident à exécuter des travaux de terrassement et à poser des conduites, à réaliser des puits et des bordures ou à exécuter de petits travaux de bétonnage;
+- f. les poseurs de pierres AFP aident à embellir les vielles villes, les esplanades, les parcs et les jardins, les bordures, les séparateurs de trafic et les trottoirs en procédant à des travaux de pavage. À cette fin, ils maîtrisent différents procédés de pose. Ils aident à exécuter des travaux de terrassement et à poser des conduites, à réaliser des puits et des bordures ou à exécuter de petits travaux de bétonnage;
 - g. les assistants-constructeurs de routes CFC aident à construire tous les types de chaussées, à poser des revêtements de bitume, à construire des places et des trottoirs, des pistes cyclables et des chemins pédestres, de petits murs et des escaliers ainsi que des giratoires et des îlots pour piétons, à poser dans le sol les conduites électriques et d’eau et à réaliser des puits.
 
 #### Art. 2
@@ -169,13 +170,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 56 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
-## Section 4 Etendue de la formation dans les différents lieux de formation et langue d’enseignement
+## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 6
 
@@ -185,7 +187,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 #### Art. 7
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 720 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
@@ -195,7 +197,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>– Exécution des travaux généraux de construction de voies de communication</td><td>40</td><td>40</td><td>80</td></tr>
 <tr><td>– Domaines de compétences opérationnelles spécifiques à la profession</td><td>120</td><td>120</td><td>240</td></tr>
 <tr><td>Total</td><td>200</td><td>200</td><td>400</td></tr>
-<tr><td>c. Culture générale</td><td>120</td><td>120</td><td>240</td></tr>
+<tr><td>b. Culture générale</td><td>120</td><td>120</td><td>240</td></tr>
 <tr><td>c. Sport</td><td>40</td><td>40</td><td>80</td></tr>
 <tr><td>Total des périodes d’enseignement</td><td>360</td><td>360</td><td>720</td></tr>
 </table>
@@ -222,7 +224,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 
-- a. Cours interentreprises communs à toutes les professions
+- a. Cours interentreprises communs à toutes les professions:
 
 <table>
 <tr><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Contenu</th><th>AA</th><th>Jours</th></tr>
@@ -231,7 +233,7 @@ Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 <tr><td colspan="3">Total des jours de cours</td><td></td><td>10</td></tr>
 </table>
 
-- b. Cours interentreprises spécifiques aux assistants-constructeurs de voies ferrées AFP
+- b. Cours interentreprises spécifiques aux assistants-constructeurs de voies ferrées AFP:
 
 <table>
 <tr><td>Cours</td><td>Domaine de compétences opérationnelles</td><td>Contenu</td><td>AA</td><td>Jours</td></tr>
@@ -240,7 +242,7 @@ Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 <tr><td colspan="3">Nombre total de jours de cours</td><td></td><td>10</td></tr>
 </table>
 
-- c. Cours interentreprises spécifiques aux assistants-constructeurs de fondations AFP
+- c. Cours interentreprises spécifiques aux assistants-constructeurs de fondations AFP:
 
 <table>
 <tr><td>Cours</td><td>Domaine de compétences opérationnelles</td><td>Contenu</td><td>AA</td><td colspan="2">Jours</td></tr>
@@ -249,7 +251,7 @@ Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 <tr><td colspan="3">Nombre total de jours de cours</td><td colspan="2"></td><td>10</td></tr>
 </table>
 
-- d. Cours interentreprises spécifiques aux assistants-constructeurs de sols industriels et de chapes AFP
+- d. Cours interentreprises spécifiques aux assistants-constructeurs de sols industriels et de chapes AFP:
 
 <table>
 <tr><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Contenu</th><th>AA</th><th>Jours</th></tr>
@@ -260,7 +262,7 @@ Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 <tr><td colspan="3">Nombre total de jours de cours</td><td></td><td>25</td></tr>
 </table>
 
-- e. Cours interentreprises spécifiques aux poseurs de pierres AFP
+- e. Cours interentreprises spécifiques aux poseurs de pierres AFP:
 
 <table>
 <tr><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Contenu</th><th>AA</th><th>Jours</th></tr>
@@ -270,7 +272,7 @@ Les jours et les contenus sont répartis sur 4 à 6 cours comme suit:
 <tr><td colspan="3">Nombre total de jours de cours</td><td></td><td>20</td></tr>
 </table>
 
-- f. Cours interentreprises spécifiques aux assistants-constructeurs de routes AFP
+- f. Cours interentreprises spécifiques aux assistants-constructeurs de routes AFP:
 
 <table>
 <tr><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Contenu</th><th>AA</th><th>Jours</th></tr>
@@ -347,7 +349,7 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 **Rapport de formation**
 
-<sup>1</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il en discute avec la personne en formation au moins une fois par semestre.
+<sup>1</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il en discute avec la personne en formation au moins une fois par semestre.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais. Ils gardent une trace écrite des décisions et des mesures prises.
 
@@ -378,7 +380,7 @@ Les écoles professionnelles documentent les prestations des personnes en format
 Est admise aux procédures de qualification la personne qui a suivi la formation professionnelle initiale:
 
 - a. conformément à la présente ordonnance;
-- b. dans une institution de formation accréditée par le canton; ou
+- b. dans une institution de formation accréditée par le canton, ou
 - c.
 
   dans un autre cadre que celui d’une filière de formation réglementée et qui:
@@ -395,7 +397,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -443,7 +445,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
 
 La procédure de qualification avec examen final est réussie si:
 
-- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4; et
+- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4, et
 - b. la note globale est supérieure ou égale à 4.
 
 <sup>2</sup> La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée.
@@ -504,10 +506,10 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 L’AFP autorise ses titulaires à porter le titre légalement protégé ci-après correspondant à la profession apprise:
 
-- a. «assistante-constructrice de voies ferrées AFP»/«assistant-constructeur voies ferrées AFP»; ou
-- b. «assistante-constructrice de fondations AFP/assistant-constructeur de fondations AFP»; ou
-- c. «assistante-constructrice de sols industriels et de chapes AFP»/«assistant-constructeur de sols industriels et de chapes AFP»; ou
-- d. «poseuse de pierres AFP»/«poseur de pierres AFP»; ou
+- a. «assistante-constructrice de voies ferrées AFP»/«assistant-constructeur voies ferrées AFP», ou
+- b. «assistante-constructrice de fondations AFP/assistant-constructeur de fondations AFP», ou
+- c. «assistante-constructrice de sols industriels et de chapes AFP»/«assistant-constructeur de sols industriels et de chapes AFP», ou
+- d. «poseuse de pierres AFP»/«poseur de pierres AFP», ou
 - e. «assistante-constructrice de routes AFP»/«assistant-constructeur de routes AFP».
 
 <sup>3</sup>
