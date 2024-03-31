@@ -3,18 +3,18 @@ sr: "412.101.221.58"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> février 2011 sur la formation professionnelle initiale de techniscéniste avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/102"
 language: fr
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2011-02-01
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/102/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-102-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/102/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/102/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-102-20240401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/102/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de techniscéniste avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de techniscéniste avec certificat fédéral de capacité (CFC)\*
 
-du 1<sup>er</sup> février 2011 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
+du 1<sup>er</sup> février 2011 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 1<sup>er</sup> février 2011 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 112 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 112 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -42,7 +43,7 @@ arrête:*[^ingress-4]*
 Les techniscénistes de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les comportements ci-après:
 
 - a.[^1-1] ils installent les systèmes de sonorisation, de projection vidéo, d’éclairage et d’équipement de scène, les règlent et en assurent l’exploitation;
-- b.[^1-2] ...
+- b.[^1-2] …
 - c. ils intègrent de nouveaux médias et les dispositifs de commande afférents et les exploitent au besoin à un niveau élémentaire;
 - d. ils évaluent l’utilisation d’effets spéciaux pendant une manifestation ou une production et assurent partiellement leur exploitation;
 - e. ils évaluent les équipements de sécurité et la sécurité des lieux qu’ils exploitent. Par ailleurs, ils travaillent en appliquant les dispositions en matière de sécurité et de protection de la santé;
@@ -125,7 +126,7 @@ La formation comprend les compétences opérationnelles ci-après relatives aux 
 
 - f. Évaluation et mise en œuvre des effets spéciaux
   - 1\. choisir et mettre en œuvre des effets spéciaux tels que des effets de fumée ou de brouillard;
-  - 2\.[^4-2] ...
+  - 2\.[^4-2] …
   - 3\. évaluer les possibilités d’utilisation d’effets laser selon les consignes et règlements;
   - 4\. évaluer le montage d’une installation laser.
 
@@ -181,11 +182,12 @@ La formation comprend les compétences opérationnelles ci-après relatives aux 
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 112 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -239,7 +241,7 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 
 [^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise****
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
 [^sec6-1]
 
@@ -274,7 +276,7 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 16 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
-## Section 7 Dossier de formation, rapport de formation et dossiers des prestations****
+## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
 [^sec7-1]
 
@@ -308,7 +310,7 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 **Dossier des prestations fournies durant la formation scolaire et durant la formation initiale en école[^13-1]**
 
-<sup>1</sup> Les prestataires de formations scolaires et de formations initiales en école documentent les prestations de la personne en formation dans les domaines enseignés et ils établissent un bulletin à son intention au terme de chaque semestre.
+Les prestataires de formations scolaires et de formations initiales en école documentent les prestations de la personne en formation dans les domaines enseignés et ils établissent un bulletin à son intention au terme de chaque semestre.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 16 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
