@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordonnance du SEFRI du 18 mai 2021 sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: fr
-version: 2022-08-01
+version: 2024-04-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20220801-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 
-du 18 mai 2021 (État le 1<sup>er</sup> août 2022)
+du 18 mai 2021 (État le 1<sup>er</sup> avril 2024)
 
 <table>
 <tr><td>71900</td><td>Gestionnaire du commerce de détail CFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC</td></tr>
@@ -22,13 +22,14 @@ du 18 mai 2021 (État le 1<sup>er</sup> août 2022)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Objet, domaines spécifiques, branches de formation et d’examens et durée
 
@@ -55,7 +56,7 @@ Les gestionnaires du commerce de détail de niveau CFC peuvent choisir entre les
 
 <sup>3</sup> Le domaine spécifique est inscrit dans le contrat d’apprentissage.
 
-[^1-1]: www.coe.int/fr/web/common-european-framework-reference-languages
+[^1-1]: [www.coe.int/fr/web/common-european-framework-reference-languages](http://www.coe.int/fr/web/common-european-framework-reference-languages)
 
 #### Art. 2
 
@@ -165,9 +166,11 @@ Les personnes en formation doivent obligatoirement acquérir les compétences op
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, dans tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^6-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+
+[^6-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -209,7 +212,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>7</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^8-2]: Le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale est disponible sur le site du SEFRI à l’adresse suivante: www.sbfi.admin.ch &gt; Formation &gt; Formation professionnelle initiale &gt; Enseignement de la culture générale
+[^8-2]: Le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale est disponible sur le site du SEFRI à l’adresse suivante: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formation &gt; Formation professionnelle initiale &gt; Enseignement de la culture générale
 [^8-3]: Annexe 1 du plan de formation (art. 10, al. 3)
 
 #### Art. 9
