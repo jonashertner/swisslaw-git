@@ -4,13 +4,13 @@ number: "154.21"
 title: Verordnung über die Gebühren der Kantonsverwaltung
 short: Gebührenverordnung; GebV
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2023-11-22
+version: 2024-04-01
+valid_until: 2024-05-31
+version_adopted: 2024-03-20
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2971/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3015/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2971/pdf_file"
 
 (Gebührenverordnung; GebV)
 
-vom 22.02.1995 (Stand 01.01.2024)
+vom 22.02.1995 (Stand 01.04.2024)
 
 Der Regierungsrat des Kantons Bern,
 
