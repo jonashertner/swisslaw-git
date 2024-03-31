@@ -4,13 +4,13 @@ number: "151.211"
 title: Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2022-06-01
-valid_until: 2024-03-31
-version_adopted: 2021-11-29
+version: 2024-04-01
+valid_until: 2024-09-30
+version_adopted: 2023-09-04
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2603/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2603/pdf_file"
 
 (GO)
 
-vom 04.06.2013 (Stand 01.06.2022)
+vom 04.06.2013 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -325,7 +325,10 @@ beschliesst:
 - c die Vertretung des Kantons in Beschwerdeverfahren,
 - c1 die Beschlussfassung über die externe Stimmabgabe während der Session oder über das Zirkulationsverfahren einschliesslich des Festlegens der technischen Anforderungen an die Stimmabgabe (Art. 77a und Art. 77b GRG),
 - c2 die Festsetzung des Zeitraums möglicher virtueller Sitzungen von Ratsorganen sowie allfällige Präzisierungen zu diesen virtuellen Sitzungen oder zum Zirkulationsverfahren in Ratsorganen (Art. 108a),
+- c3 ein Austausch mit dem Regierungsrat bezüglich Auffassung von Beginn und Ende einer ausserordentlichen Lage (Art. 91 der Kantonsverfassung [KV][^24-1]),
 - d die Behandlung weiterer Geschäfte, die der Grosse Rat ihr zuweist oder für die kein anderes Ratsorgan zuständig ist.
+
+[^24-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 
 ### 3.2.3 Büro
 
@@ -358,6 +361,8 @@ beschliesst:
 <sup>3</sup> Es nimmt Berichtigungsanträge zum Tagblatt entgegen.
 
 <sup>4</sup> Es stellt bei Begehren um Aufhebung der Straffreiheit dem Grossen Rat Antrag.
+
+<sup>4a</sup> Es tauscht sich mit dem Regierungsrat aus bezüglich Auffassung von Beginn und Ende einer ausserordentlichen Lage (Art. 91 KV).
 
 <sup>5</sup> Es behandelt weitere Geschäfte, die der Grosse Rat ihm zuweist oder für die kein anderes Ratsorgan zuständig ist.
 
@@ -431,9 +436,9 @@ beschliesst:
 
 #### Art. 33a
 
-**10. Krisensituationen**
+**10. Krisen**
 
-<sup>1</sup> Das Büro beschliesst in Krisensituationen abschliessend über die externe Stimmabgabe während der Sessionen oder ein Zirkulationsverfahren für Sessionsgeschäfte und legt die technischen Anforderungen an die Stimmabgabe fest (Art. 77a und Art. 77b GRG).
+<sup>1</sup> Das Büro beschliesst in Krisen abschliessend über die externe Stimmabgabe während der Sessionen oder ein Zirkulationsverfahren für Sessionsgeschäfte und legt die technischen Anforderungen an die Stimmabgabe fest (Art. 77a und Art. 77b GRG).
 
 #### Art. 33b
 
@@ -472,6 +477,8 @@ beschliesst:
 
 <sup>2</sup> Sie befasst sich mit der Steuerung von Finanzen und Leistungen und übt die Oberaufsicht über den Finanzhaushalt aus.
 
+<sup>2a</sup> Sie wird bei Katastrophen, Grossereignissen, Notlagen sowie in ausserordentlichen Lagen und Krisen zu diesbezüglich geplanten Ausgaben des Regierungsrates, neuen Verordnungen und Verordnungsänderungen vorgängig konsultiert (Art. 41a GRG, Art. 80 des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 19. März 2014 [KBZG][^36-1]). Soll bei einer neuen Verordnung oder einer Verordnungsänderung aus ihrer Sicht ein anderes Ratsorgan das Geschäft prüfen, überweist sie das Geschäft diesem umgehend und setzt das Büro des Grossen Rates darüber in Kenntnis.
+
 <sup>3</sup> Sie berät insbesondere folgende Geschäfte vor:
 
 - a Voranschlag,
@@ -485,7 +492,7 @@ beschliesst:
 
 <sup>3a</sup> Sie konsultiert in der Regel die anderen ständigen Kommissionen bei Geschäften gemäss Absatz 3 Buchstabe a und b.
 
-<sup>4</sup> Sie behandelt gebundene Ausgaben gemäss Artikel 48 Absatz 3 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^36-1].
+<sup>4</sup> Sie behandelt gebundene Ausgaben gemäss Artikel 48 Absatz 3 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^36-2].
 
 <sup>5</sup> Sie prüft im Rahmen ihrer Tätigkeit in Koordination mit der Geschäftsprüfungs- und der Justizkommission insbesondere
 
@@ -499,7 +506,8 @@ beschliesst:
 
 <sup>8</sup> Sie ist überdies Aufsichtsbehörde für die Vorsteherin oder den Vorsteher der Finanzkontrolle.
 
-[^36-1]: BSG 620.0
+[^36-1]: BSG [521.1](https://www.belex.sites.be.ch/data/521.1/de)
+[^36-2]: BSG 620.0
 
 #### Art. 37
 
@@ -1341,17 +1349,17 @@ beschliesst:
 
 #### Art. 105a
 
-**Externe Stimmabgabe in Krisensituationen**
+**Externe Stimmabgabe bei Krisen**
 
 <sup>1</sup> Nach Beschluss des Büros des Grossen Rates, die externe Stimmabgabe zuzulassen (Art. 77a GRG), informieren die Parlamentsdienste die Ratsmitglieder darüber.
 
-<sup>2</sup> Ratsmitglieder, die infolge der Krisensituation auf diese Weise abstimmen möchten, informieren das Grossratspräsidium spätestens am Vortag des Sitzungstags.
+<sup>2</sup> Ratsmitglieder, die infolge der Krise auf diese Weise abstimmen möchten, informieren das Grossratspräsidium spätestens am Vortag des Sitzungstags.
 
 <sup>3</sup> Die extern abgegebenen Stimmen werden gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Eine Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben kann.
 
 #### Art. 105b
 
-**Zirkulationsverfahren in Krisensituation**
+**Zirkulationsverfahren bei Krisen**
 
 <sup>1</sup> Nach Beschluss des Büros des Grossen Rates, über ein Geschäft im Zirkulationsverfahren abzustimmen (Art. 77b GRG), informieren die Parlamentsdienste die Ratsmitglieder darüber und über den Ablauf des Zirkulationsverfahrens.
 

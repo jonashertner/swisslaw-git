@@ -4,13 +4,13 @@ number: "151.211"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2022-06-01
-valid_until: 2024-03-31
-version_adopted: 2021-11-29
+version: 2024-04-01
+valid_until: 2024-09-30
+version_adopted: 2023-09-04
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2603/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3010/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2603/pdf_file"
 
 (RGC)
 
-du 04.06.2013 (état au 01.06.2022)
+du 04.06.2013 (état au 01.04.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -325,7 +325,10 @@ arrête:
 - c représenter le canton dans les procédures de recours;
 - c1 décider si des affaires du Grand Conseil doivent faire l’objet d’un vote à distance ou d’une procédure par voie de circulation lors des sessions, et fixer les exigences techniques du vote (art. 77a et 77b LGC);
 - c2 fixer la période durant laquelle il est possible pour les organes du Grand Conseil de tenir des séances virtuelles et, le cas échéant, des précisions concernant ces séances virtuelles ou la procédure par voie de circulation au sein des organes du Grand Conseil (art. 108a);
+- c3 mener un échange avec le Conseil-exécutif au sujet de l'entrée en situation extraordinaire (art. 91 de la Constitution cantonale [ConstC][^24-1]) ou de la fin d'une telle situation.
 - d traiter les autres affaires que le Grand Conseil lui confie ou qui ne ressortissent à aucun autre organe du Grand Conseil.
+
+[^24-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
 ### 3.2.3 Bureau
 
@@ -358,6 +361,8 @@ arrête:
 <sup>3</sup> Il enregistre les demandes de rectification du Journal.
 
 <sup>4</sup> Il soumet une proposition au Grand Conseil sur les demandes de levée de l’immunité.
+
+<sup>4a</sup> Il échange avec le Conseil-exécutif au sujet de l'entrée en situation extraordinaire (art. 91 ConstC) et de la fin d'une telle situation.
 
 <sup>5</sup> Il traite les autres affaires que le Grand Conseil lui confie ou qui ne ressortissent à aucun autre organe du Grand Conseil.
 
@@ -431,9 +436,9 @@ arrête:
 
 #### Art. 33a
 
-**10. Situations de crise**
+**10. Crises**
 
-<sup>1</sup> Dans les situations de crise, le Bureau est seul compétent pour décider si des affaires du Grand Conseil doivent faire l’objet d’un vote à distance ou d’une procédure par voie de circulation lors des sessions et fixe les exigences techniques du vote (art. 77a et 77b LGC).
+<sup>1</sup> Lors de crises, le Bureau est seul compétent pour décider si des affaires du Grand Conseil doivent faire l’objet d’un vote à distance ou d’une procédure par voie de circulation lors des sessions et fixe les exigences techniques du vote (art. 77a et 77b LGC).
 
 #### Art. 33b
 
@@ -472,6 +477,8 @@ arrête:
 
 <sup>2</sup> Elle s’occupe du pilotage des finances et des prestations et exerce la haute surveillance sur les finances cantonales.
 
+<sup>2a</sup> En cas de catastrophe, d'évènement majeur, de situation d'urgence, de situation extraordinaire ou de crise, elle est consultée au préalable au sujet des dépenses du Conseil-exécutif, des ordonnances et des modifications d'ordonnances prévues en la matière (art. 41a LGC, art. 80 de la loi cantonale du 19 mars 2014 sur la protection de la population et sur la protection civile [LCPPCi][^36-1]). Si elle estime qu'un autre organe du Grand Conseil est compétent pour examiner une ordonnance ou une modification d'ordonnance, elle transmet immédiatement l'affaire à l'organe en question et en informe le Bureau du Grand Conseil.
+
 <sup>3</sup> Elle préavise en particulier les affaires suivantes:
 
 - a le budget;
@@ -485,7 +492,7 @@ arrête:
 
 <sup>3a</sup> Elle consulte en règle générale les autres commissions permanentes concernant les affaires au sens de l'alinéa 3, lettres a et b.
 
-<sup>4</sup> Elle traite les dépenses liées au sens de l’article 48, alinéa 3 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^36-1].
+<sup>4</sup> Elle traite les dépenses liées au sens de l’article 48, alinéa 3 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^36-2].
 
 <sup>5</sup> Dans l’exercice de ses activités, elle contrôle en particulier, en coordination avec la Commission de gestion et la Commission de justice,
 
@@ -499,7 +506,8 @@ arrête:
 
 <sup>8</sup> Elle fait en outre office d’organe de surveillance du chef ou de la cheffe du Contrôle des finances.
 
-[^36-1]: RSB 620.0
+[^36-1]: RSB [521.1](https://www.belex.sites.be.ch/data/521.1/fr)
+[^36-2]: RSB 620.0
 
 #### Art. 37
 
@@ -1341,17 +1349,17 @@ arrête:
 
 #### Art. 105a
 
-**Vote à distance en situation de crise**
+**Vote à distance en cas de crise**
 
 <sup>1</sup> Dès que le Bureau du Grand Conseil a pris la décision d’autoriser le vote à distance (art. 77a LGC), les Services parlementaires en informent les membres du Grand Conseil.
 
-<sup>2</sup> Les membres du Grand Conseil qui, en raison de la situation de crise, souhaitent voter de cette façon en informent la présidence du Grand Conseil la veille de la séance au plus tard.
+<sup>2</sup> Les membres du Grand Conseil qui, en raison de la crise, souhaitent voter de cette façon en informent la présidence du Grand Conseil la veille de la séance au plus tard.
 
 <sup>3</sup> Les suffrages communiqués à distance sont enregistrés en même temps que le vote au sein du Grand Conseil. Le vote n’est pas répété si un membre n’a pas pu, pour des raisons techniques, communiquer son suffrage.
 
 #### Art. 105b
 
-**Décision par voie de circulation en situation de crise**
+**Décision par voie de circulation lors de crises**
 
 <sup>1</sup> Dès que le Bureau du Grand Conseil a pris la décision d’autoriser le vote par voie de circulation (art. 77b LGC), les Services parlementaires en informent les membres du Grand Conseil et les renseignent sur le déroulement de la procédure par voie de circulation.
 
