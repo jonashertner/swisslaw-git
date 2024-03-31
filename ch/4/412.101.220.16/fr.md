@@ -3,18 +3,18 @@ sr: "412.101.220.16"
 title: "Ordonnance du SEFRI du 15 mai 2017 sur la formation professionnelle initiale de carrossière-tôlière/carrossier-tôlier* avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/393"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2017-05-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/393/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-393-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/393/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/393/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-393-20240401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/393/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de carrossière‑tôlière/carrossier-tôlier\* avec certificat fédéral de capacité (CFC)
 
-du 15 mai 2017 (État le 1<sup>er</sup> janvier 2018)[^t-1]
+du 15 mai 2017 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 15 mai 2017 (État le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:[^ingress-4]
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 9 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 9 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -118,13 +119,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 9 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
-## Section 4 Etendue de la formation dans les différents lieux de formation et langue d’enseignement
+## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 6
 
@@ -134,18 +136,18 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 #### Art. 7
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1440 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
 <tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>4<sup>e</sup> année</td><td>Total</td></tr>
 <tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Evaluation de dommages sur le véhicule, Réalisation de travaux de démontage, de montage et de finition</td><td>100</td><td>120</td><td>100</td><td>100</td><td>420</td></tr>
+<tr><td>– Évaluation de dommages sur le véhicule, Réalisation de travaux de démontage, de montage et de finition</td><td>100</td><td>120</td><td>100</td><td>100</td><td>420</td></tr>
 <tr><td>– Réalisation de travaux de façonnage, Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>100</td><td>80</td><td>100</td><td>100</td><td>380</td></tr>
 <tr><td>Total des connaissances professionnelles</td><td>200</td><td>200</td><td>200</td><td>200</td><td>800</td></tr>
 <tr><td>b. Culture générale</td><td>120</td><td>120</td><td>120</td><td>120</td><td>480</td></tr>
-<tr><td>c. Education physique</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
+<tr><td>c. Éducation physique</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
 <tr><td>Total des périodes d’enseignement</td><td>360</td><td>360</td><td>360</td><td>360</td><td>1440</td></tr>
 </table>
 
@@ -169,7 +171,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <table>
 <tr><th>Année d’apprentissage</th><th>Cours</th><th>Domaine de compétences opérationnelles/compétence opérationnelle</th><th>Durée</th></tr>
-<tr><td>1<sup>re</sup></td><td>Cours 1</td><td>Evaluation de dommages sur le véhicule</td><td>2 jours</td></tr>
+<tr><td>1<sup>re</sup></td><td>Cours 1</td><td>Évaluation de dommages sur le véhicule</td><td>2 jours</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de démontage, de montage et de finition</td><td>1,5 jour</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de façonnage</td><td>8,5 jours</td></tr>
 <tr><td></td><td></td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>4 jours</td></tr>
@@ -177,12 +179,12 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>2<sup>e</sup></td><td>Cours 2</td><td>Réalisation de travaux de façonnage</td><td>10 jours</td></tr>
 <tr><td></td><td></td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>6 jours</td></tr>
 <tr><td></td><td></td><td></td><td>Total 16 jours</td></tr>
-<tr><td>3<sup>e</sup></td><td>Cours 3</td><td>Evaluation de dommages sur le véhicule</td><td>0,5 jour</td></tr>
+<tr><td>3<sup>e</sup></td><td>Cours 3</td><td>Évaluation de dommages sur le véhicule</td><td>0,5 jour</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de démontage, de montage et de finition</td><td>5 jours</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de façonnage</td><td>7,5 jours</td></tr>
 <tr><td></td><td></td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>3 jours</td></tr>
 <tr><td></td><td></td><td></td><td>Total 16 jours</td></tr>
-<tr><td>4<sup>e</sup></td><td>Cours 4</td><td>Evaluation de dommages sur le véhicule</td><td>2,5 jours</td></tr>
+<tr><td>4<sup>e</sup></td><td>Cours 4</td><td>Évaluation de dommages sur le véhicule</td><td>2,5 jours</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de démontage, de montage et de finition</td><td>2 jours</td></tr>
 <tr><td></td><td></td><td>Réalisation de travaux de façonnage</td><td>1 jour</td></tr>
 <tr><td></td><td></td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>2,5 jours</td></tr>
@@ -214,7 +216,7 @@ Le plan de formation:
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à promouvoir la qualité de la formation professionnelle initiale avec indication des sources.
 
-[^9-1]: Nouvelle teneur selon le ch. V 1 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^9-1]: Abrogée par le ch. V 1 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, avec effect le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -257,11 +259,11 @@ Les exigences posées aux formateurs sont remplies par les personnes disposant d
 
 **Rapport de formation**
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs liés aux mesures fixées ne sont pas atteints ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -305,7 +307,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -322,7 +324,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
 
 <table>
 <tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
-<tr><td>1</td><td>Evaluation de dommages sur le véhicule</td><td>10 %</td></tr>
+<tr><td>1</td><td>Évaluation de dommages sur le véhicule</td><td>10 %</td></tr>
 <tr><td>2</td><td>Réalisation de travaux de démontage, de montage et de finition</td><td>30 %</td></tr>
 <tr><td>3</td><td>Réalisation de travaux de façonnage</td><td>20 %</td></tr>
 <tr><td>4</td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>40 %</td></tr>
@@ -338,7 +340,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <table>
 <tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td colspan="2">Forme et durée d’examen</td><td></td><td>Pondération</td></tr>
 <tr><td></td><td></td><td>écrit</td><td colspan="2">oral</td><td></td></tr>
-<tr><td>1</td><td>Evaluation de dommages sur le véhicule</td><td>40 min</td><td colspan="2"></td><td>20 %</td></tr>
+<tr><td>1</td><td>Évaluation de dommages sur le véhicule</td><td>40 min</td><td colspan="2"></td><td>20 %</td></tr>
 <tr><td>2</td><td>Réalisation de travaux de démontage, de montage et de finition</td><td>50 min</td><td colspan="2"></td><td>20 %</td></tr>
 <tr><td>3</td><td>Réalisation de travaux de façonnage</td><td>70 min</td><td colspan="2"></td><td>20 %</td></tr>
 <tr><td>4</td><td>Restitution de la forme d’origine, séparation et assemblage de pièces de carrosserie</td><td>40 min</td><td colspan="2"></td><td>20 %</td></tr>
