@@ -3,18 +3,18 @@ sr: "412.101.221.53"
 title: Ordonnance du SEFRI du 22 octobre 2010 sur la formation professionnelle initiale de graveuse/graveur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/28"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2010-11-22
 in_force: 2011-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/28/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-28-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/28/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/28/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-28-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/28/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de graveuse/graveur avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de graveuse/graveur avec certificat fédéral de capacité (CFC)\*
 
-du 22 novembre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 22 novembre 2010 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 22 novembre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 108 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 108 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -42,7 +43,7 @@ arrête:*[^ingress-4]*
 Les graveurs de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les comportements ci-après:
 
 - a. ils transposent les souhaits des clients et leurs propres idées dans des projets et des esquisses réalisables et d’un très haut niveau artistique. Ils utilisent dans ce but leurs connaissances de la création dans le domaine de l’écriture, de la gravure, de l’héraldique et de l’ornementation;
-- b. ils travaillent les matériaux et les transforment à la main et à la machine en des gravures de haute qualité. A cet effet, ils utilisent soigneusement des outils spéciaux, des équipements et des machines de gravure de manière professionnelle et autonome. Ils planifient leurs travaux avec efficacité et en fonction de la commande à réaliser;
+- b. ils travaillent les matériaux et les transforment à la main et à la machine en des gravures de haute qualité. À cet effet, ils utilisent soigneusement des outils spéciaux, des équipements et des machines de gravure de manière professionnelle et autonome. Ils planifient leurs travaux avec efficacité et en fonction de la commande à réaliser;
 - c. ils se caractérisent par leur réflexion et leur action créatives, des compétences techniques et une grande inventivité. Ils travaillent en fonction de la commande à réaliser, selon des conceptions classiques et des exigences actuelles;
 - d. ils effectuent leurs travaux en appliquant consciencieusement les directives en matière de protection de l’environnement, de protection de la santé et de sécurité au travail.
 
@@ -112,11 +113,12 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^7-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^7-1]: Nouvelle teneur selon le ch. II 108 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -259,7 +261,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 19
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
