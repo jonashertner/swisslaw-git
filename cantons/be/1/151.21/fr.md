@@ -4,13 +4,12 @@ number: "151.21"
 title: Loi sur le Grand Conseil
 short: LGC
 language: fr
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-06-14
+version: 2024-04-01
+version_adopted: 2023-09-04
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2878/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3008/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2878/pdf_file"
 
 (LGC)
 
-du 04.06.2013 (état au 01.01.2024)
+du 04.06.2013 (état au 01.04.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -485,6 +484,19 @@ arrête:
 
 <sup>2</sup> Les commissions peuvent exiger d’être consultées sur un projet d’ordonnance ou de modification d’ordonnance du Conseil-exécutif.
 
+#### Art. 41a
+
+**Consultation lors de situations extraordinaires et de crises, rapport**
+
+<sup>1</sup> Le Conseil-exécutif consulte l'organe compétent du Grand Conseil au préalable sur les décisions de dépenses, les ordonnances ou les modifications d'ordonnance prévues qui sont en relation directe avec
+
+- a des situations extraordinaires (art. 91 ConstC),
+- b des crises, dans la mesure où il existe une obligation de consultation au sens de l'alinéa 2.
+
+<sup>2</sup> L'obligation de consultation au sens de l'alinéa 1, lettre b est engagée par notification du Bureau du Grand Conseil. La décision correspondante est prise à une majorité des deux tiers des voix exprimées.
+
+<sup>3</sup> Le Conseil-exécutif soumet a posteriori au Grand Conseil un rapport sur les mesures prises par le canton lors d'une situation extraordinaire ou d'une crise.
+
 #### Art. 42
 
 **Président ou présidente du Grand Conseil**
@@ -538,6 +550,12 @@ arrête:
 <sup>2</sup> Il peut, dans la limite de ses compétences, définir en temps utile l’orientation d’une affaire dans un arrêté de principe.
 
 <sup>3</sup> Les compétences des organes sont réservées.
+
+#### Art. 46a
+
+**Approbation d'ordonnances de nécessité du Conseil-exécutif**
+
+<sup>1</sup> Au plus tard six semaines après leur adoption, le Grand Conseil approuve les ordonnances de nécessité du Conseil-exécutif (art. 91, al. 1, 2<sup>e</sup> phrase ConstC). L'approbation peut porter sur une partie ou sur la totalité d'une ordonnance.
 
 #### Art. 47
 
@@ -767,6 +785,8 @@ arrête:
 
 <sup>3</sup> Une intervention peut être déclarée urgente.
 
+<sup>4</sup> Lors de situations extraordinaires ou de crises, le Bureau du Grand Conseil peut, après consultation du Conseil-exécutif, réduire le délai prévu à l'alinéa 1 pour ses propres motions ainsi que celles des commissions lorsqu'elles ont été adoptées à une majorité des deux tiers des voix exprimées et présentent un lien direct avec une situation extraordinaire ou une crise.
+
 #### Art. 69
 
 **Renvoi**
@@ -855,16 +875,16 @@ arrête:
 
 #### Art. 77a
 
-**Vote à distance en situation de crise**
+**Vote à distance en cas de crise**
 
 <sup>1</sup> Le Bureau du Grand Conseil est seul compétent pour décider à la majorité des deux tiers des votants et votantes d’autoriser les membres du Grand Conseil à voter à distance lors des sessions, si les conditions suivantes sont réunies:
 
-- a une situation de crise se présente;
+- a une crise se présente;
 - b la représentativité des groupes ou des cercles électoraux au sein du Grand Conseil est fortement menacée par cette situation.
 
 <sup>2</sup> La décision au sens de l’alinéa 1
 
-- a justifie en quoi il s’agit d’une situation de crise (al.1, lit. a);
+- a justifie en quoi il s’agit d’une crise (al.1, lit. a);
 - b fixe les critères déterminant une forte menace pesant sur la représentativité des groupes ou des cercles électoraux (al. 1, lit. b);
 - c fixe de manière exhaustive les exigences techniques relatives au vote à distance.
 
@@ -880,11 +900,11 @@ arrête:
 
 #### Art. 77b
 
-**Décision par voie de circulation en situation de crise**
+**Décision par voie de circulation en cas de crise**
 
 <sup>1</sup> Le Bureau du Grand Conseil est seul compétent pour décider à la majorité des deux tiers des votants et votantes qu’une affaire de la session peut faire l’objet d’un vote par voie de circulation si les conditions suivantes sont réunies:
 
-- a une situation de crise se présente;
+- a une crise se présente;
 - b la validité des délibérations et des décisions du Grand Conseil (art. 76) est fortement menacée par cette situation;
 - c le Grand Conseil doit d’urgence statuer sur l’affaire;
 - d l’affaire se prête à une décision par voie de circulation.

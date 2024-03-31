@@ -4,13 +4,12 @@ number: "151.21"
 title: Gesetz über den Grossen Rat
 short: "Grossratsgesetz, GRG"
 language: de
-version: 2024-01-01
-valid_until: 2024-03-31
-version_adopted: 2022-06-14
+version: 2024-04-01
+version_adopted: 2023-09-04
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2878/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3008/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2878/pdf_file"
 
 (Grossratsgesetz, GRG)
 
-vom 04.06.2013 (Stand 01.01.2024)
+vom 04.06.2013 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -485,6 +484,19 @@ beschliesst:
 
 <sup>2</sup> Kommissionen können verlangen, dass ihnen der Entwurf zu einer Verordnung oder einer Verordnungsänderung des Regierungsrats zur Konsultation unterbreitet wird.
 
+#### Art. 41a
+
+**Konsultation in ausserordentlichen Lagen und Krisen sowie Berichterstattung**
+
+<sup>1</sup> Der Regierungsrat konsultiert das zuständige Ratsorgan vorgängig zu geplanten Ausgabenbeschlüssen, neuen Verordnungen oder Verordnungsänderungen, die in direktem Zusammenhang stehen mit
+
+- a ausserordentlichen Lagen (Art. 91 KV),
+- b Krisen, soweit eine Konsultationspflicht gemäss Absatz 2 besteht.
+
+<sup>2</sup> Die Konsultationspflicht gemäss Absatz 1 Buchstabe b wird durch Mitteilung des Büros des Grossen Rates ausgelöst. Es befindet darüber mit Zweidrittelsmehrheit der Stimmenden.
+
+<sup>3</sup> Der Regierungsrat erstattet dem Grossen Rat nachträglich Bericht über die Massnahmen des Kantons in ausserordentlichen Lagen und Krisen.
+
 #### Art. 42
 
 **Grossratspräsidentin oder Grossratspräsident**
@@ -538,6 +550,12 @@ beschliesst:
 <sup>2</sup> Er kann im Bereich seiner Zuständigkeiten frühzeitig die Stossrichtung eines Geschäfts durch Grundsatzbeschluss festlegen.
 
 <sup>3</sup> Die Zuständigkeiten der einzelnen Organe bleiben gewahrt.
+
+#### Art. 46a
+
+**Genehmigung von Notverordnungen des Regierungsrates**
+
+<sup>1</sup> Der Grosse Rat genehmigt Notverordnungen des Regierungsrates (Art. 91 Abs. 1 Satz 2 KV) spätestens innert sechs Wochen seit Beschlussfassung. Die Genehmigung kann ganz oder teilweise erfolgen.
 
 #### Art. 47
 
@@ -767,6 +785,8 @@ beschliesst:
 
 <sup>3</sup> Parlamentarische Vorstösse können für dringlich erklärt werden.
 
+<sup>4</sup> In ausserordentlichen Lagen und Krisen kann das Büro des Grossen Rates nach Konsultation des Regierungsrates die Frist von Absatz 1 verkürzen für Motionen von ihm und der Kommissionen, die mit Zweidrittelsmehrheit der Stimmenden beschlossen worden sind und in direktem Zusammenhang mit einer ausserordentlichen Lage oder Krise stehen.
+
 #### Art. 69
 
 **Rückweisung parlamentarischer Vorstösse und parlamentarischer Initiativen**
@@ -855,16 +875,16 @@ beschliesst:
 
 #### Art. 77a
 
-**Externe Stimmabgabe in Krisensituationen**
+**Externe Stimmabgabe in Krisen**
 
 <sup>1</sup> Das Büro des Grossen Rates kann für Sessionen mit Zweidrittelsmehrheit der Stimmenden abschliessend beschliessen, dass Ratsmitglieder extern abstimmen dürfen, sofern
 
-- a eine Krisensituation vorliegt und
+- a eine Krise vorliegt und
 - b die Repräsentativität von Fraktionen oder Wahlkreisen im Grossen Rat aus diesem Grund stark gefährdet ist.
 
 <sup>2</sup> Der Beschluss nach Absatz 1
 
-- a begründet, inwiefern eine Krisensituation vorliegt (Abs. 1 Bst. a),
+- a begründet, inwiefern eine Krise vorliegt (Abs. 1 Bst. a),
 - b legt die Kriterien bezüglich starker Gefährdung der Repräsentativität von Fraktionen oder Wahlkreisen fest (Abs. 1 Bst. b),
 - c legt abschliessend die technischen Anforderungen an die externe Stimmabgabe fest.
 
@@ -880,11 +900,11 @@ beschliesst:
 
 #### Art. 77b
 
-**Zirkulationsverfahren in Krisensituationen**
+**Zirkulationsverfahren in Krisen**
 
 <sup>1</sup> Das Büro des Grossen Rates kann für Sessionsgeschäfte des Grossen Rates mit Zweidrittelsmehrheit der Stimmenden abschliessend beschliessen, dass über ein Geschäft schriftlich im Zirkulationsverfahren abgestimmt wird, sofern
 
-- a eine Krisensituation vorliegt,
+- a eine Krise vorliegt,
 - b die Beratungs- und Beschlussfähigkeit des Grossen Rates (Art. 76) aus diesem Grund stark gefährdet ist,
 - c das Geschäft dringend durch den Grossen Rat zu beschliessen ist und
 - d sich das Geschäft für eine Beschlussfassung im Zirkulationsverfahren eignet.
