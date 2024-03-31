@@ -4,13 +4,13 @@ number: "641.2"
 title: Gesetz über das Halten von Hunden
 short: HundeG
 language: de
-version: 2023-05-01
-valid_until: 2024-03-31
-version_adopted: 2022-11-23
+version: 2024-04-01
+valid_until: 2025-04-30
+version_adopted: 2023-12-06
 adopted: 1983-12-05
 in_force: 1985-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/641.2"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2655/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2759/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ HundeG
 
 (HundeG)
 
-vom 05.12.1983 (Stand 01.05.2023)
+vom 05.12.1983 (Stand 01.04.2024)
 
 #### § 1
 
@@ -43,7 +43,7 @@ vom 05.12.1983 (Stand 01.05.2023)
 
 **Hundeerziehungskurs**
 
-<sup>1</sup> Wer einen Hund mit einem Erwachsenengewicht von mindestens 15 Kilogramm hält, muss innerhalb eines Jahres nach Anschaffung des Tieres einen Kurs über eine anerkannte praktische Hundeerziehung besuchen.
+<sup>1</sup> Wer einen Hund hält, muss innerhalb eines Jahres nach Anschaffung des Tieres einen Kurs über eine anerkannte praktische Hundeerziehung besuchen.
 
 <sup>2</sup> Der Regierungsrat regelt die Anerkennung.
 
