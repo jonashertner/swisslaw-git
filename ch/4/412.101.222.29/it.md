@@ -3,11 +3,11 @@ sr: "412.101.222.29"
 title: Ordinanza della SEFRI del 27 luglio 2016 sulla formazione professionale di base Costruttrice di plastici architettonici AFC/Costruttore di plastici architettonici AFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/710"
 language: it
-version: 2021-01-01
+version: 2024-04-01
 adopted: 2016-07-27
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/710/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-710-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/710/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/710/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2016-710-20240401-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/710/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/710/20210101/it"
 
 Costruttrice di plastici architettonici AFC / Costruttore di plastici architettonici AFC
 
-del 27 luglio 2016 (Stato 1° gennaio 2021)
+del 27 luglio 2016 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>54603</td><td>Costruttrice di plastici architettonici AFC / Costruttore di plastici architettonici AFC Architekturmodellbauerin EFZ / Architekturmodellbauer EFZ Maquettiste d’architecture CFC</td></tr>
@@ -24,14 +24,15 @@ del 27 luglio 2016 (Stato 1° gennaio 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 170 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 170 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -41,7 +42,7 @@ ordina:*[^ingress-4]*
 
 I costruttori di plastici architettonici di livello AFC svolgono, in particolare, le seguenti attività e si contraddistinguono per le seguenti conoscenze, capacità e comportamenti:
 
-- a. si occupano della progettazione e della costruzione di plastici architettonici. In particolare redigono le offerte dei modelli da realizzare, pianificano le varie fasi di lavoro e progettano e realizzano campioni a scopo di presentazione, formazione e vendita. Visualizzano progetti in tre dimensioni fornendo così un importante contributo alla pianificazione e alla comunicazione del design e dei progetti architettonici;
+- a. si occupano della progettazione e della costruzione di plastici architettonici. In particolare redigono le offerte dei modelli da realizzare, pianificano le varie fasi di lavoro e progettano e realizzano campioni a scopo di presentazione, formazione e vendita. Visualizzano progetti in tre dimensioni fornendo così un importante contributo alla pianificazione e alla comunicazione del design e dei progetti architettonici;F
 - b. si distinguono per la loro competenza creativa e la capacità di rappresentazione spaziale. Dispongono di buone doti tecniche, si interessano di informatica e lavorano in autonomia. Operano con precisione, garantendo così lavori e processi produttivi di alta qualità;
 - c. sanno risolvere problemi e svolgere compiti con un approccio globale e un impiego efficiente delle risorse. Nel farlo adottano misure adeguate, rispettando i principi di sicurezza sul lavoro, protezione della salute, protezione dell’ambiente e sfruttamento efficiente dell’energia.
 
@@ -101,11 +102,12 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 170 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -447,9 +449,12 @@ Sono responsabili dei corsi interaziendali:
 
 - a. l’Association Romande des Maquettistes Professionnels (ARMP);
 - b. il Verband Architekturmodellbau (VAM).
-- [tab] <sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
-- [tab] <sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
-- [tab] <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+
+<sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
+
+<sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
+
+<sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
 
 ## Sezione 11: Disposizioni finali
 
@@ -457,10 +462,11 @@ Sono responsabili dei corsi interaziendali:
 
 **Abrogazione di altri atti normativi e revoca di un’approvazione**
 
-<sup>1</sup> Sono abrogati:
+<sup>1</sup>
 
-a. il regolamento del 17 gennaio 1995[^24-1] concernente il tirocinio e l’esame finale di tirocinio – Costruttore di plastici architettonici / Costruttrice di plastici architettonici;
+Sono abrogati:
 
+- a. il regolamento del 17 gennaio 1995[^24-1] concernente il tirocinio e l’esame finale di tirocinio – Costruttore di plastici architettonici / Costruttrice di plastici architettonici;
 - b. il programma d’insegnamento professionale del 17 gennaio 1995[^24-2] – Costruttore di plastici architettonici / Costruttrice di plastici architettonici.
 
 <sup>2</sup> È revocata l’approvazione del regolamento del 9 ottobre 2001 concernente i corsi d’introduzione per apprendisti costruttori di plastici architettonici.
