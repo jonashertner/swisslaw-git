@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: "Ordonnance du SEFRI du 12 octobre 2017 sur la formation professionnelle initiale d'assistante en maintenance d'automobiles/assistant en maintenance d'automobiles avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-625-20180101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’assistante en maintenance d’automobiles/ assistant en maintenance d’automobiles avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 12 octobre 2017 (État le 1<sup>er</sup> janvier 2018)[^t-1]
+du 12 octobre 2017 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,21 +24,20 @@ du 12 octobre 2017 (État le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Objet et durée
 
 #### Art. 1
 
 **Profil de la profession et orientations**
-
-<sup>1</sup>
 
 Les assistants en maintenance d’automobiles de niveau AFP maîtrisent notamment les activités suivantes et se distinguent par les connaissances, les aptitudes et les comportements ci-après:
 
@@ -70,8 +69,6 @@ Les assistants en maintenance d’automobiles de niveau AFP maîtrisent notammen
 #### Art. 4
 
 **Compétences opérationnelles**
-
-<sup>1</sup>
 
 La formation comprend les compétences opérationnelles ci-après dans les domaines de compétences opérationnelles suivants:
 
@@ -113,9 +110,11 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> Les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés à l’annexe 2 du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés à l’annexe 2 du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies à l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -132,7 +131,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 720 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><td>Enseignement</td><td>1<sup><sup>re</sup></sup> année</td><td>2<sup><sup>e</sup></sup> année</td><td>Total</td></tr>
+<tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>Total</td></tr>
 <tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td></tr>
 <tr><td>– Contrôle et entretien des véhicules</td><td>75</td><td>100</td><td>175</td></tr>
 <tr><td>– Remplacement des pièces d’usure, soutien des procédures de l’entreprise</td><td>125</td><td>100</td><td>225</td></tr>
@@ -197,7 +196,7 @@ Le plan de formation:
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité avec indication des sources.
 
-[^9-1]: Plan de formation du 12 oct. 2017 relatif à l’O du SEFRI sur la formation professionnelle initiale d’assistante en maintenance d’automobiles/assistant en maintenance d’automobilesavec attestation fédérale de formation professionnelle (AFP) disponible à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^9-1]: Plan de formation du 12 oct. 2017 relatif à l’O du SEFRI sur la formation professionnelle initiale d’assistante en maintenance d’automobiles/assistant en maintenance d’automobilesavec attestation fédérale de formation professionnelle (AFP) disponible à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -473,7 +472,7 @@ L’ordonnance du 20 décembre 2006 sur la formation professionnelle initiale co
 
 **Dispositions transitoires et première application de dispositions particulières**
 
-<sup>1</sup> Les personnes qui ont commencé leur formation d’assistant en maintenance d’automobiles avant le 1<sup><sup>er</sup></sup> janvier 2018 l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2021.
+<sup>1</sup> Les personnes qui ont commencé leur formation d’assistant en maintenance d’automobiles avant le 1er janvier 2018 l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2021.
 
 <sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final d’assistant en maintenance d’automobiles jusqu’au 31 décembre 2021 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont examinés selon le nouveau droit.
 

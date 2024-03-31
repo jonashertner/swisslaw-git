@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: Verordnung des SBFI vom 12. Oktober 2017 über die berufliche Grundbildung Automobil-Assistentin/Automobil-Assistent mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-625-20180101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Automobil-Assistentin/Automobil-Assistent mit eidgenössischem Berufsattest (EBA)
 
-vom 12. Oktober 2017 (Stand am 1. Januar 2018)
+vom 12. Oktober 2017 (Stand am 1. April 2024)
 
 <table>
 <tr><td>46318</td><td>Automobil-Assistentin EBA/Automobil-Assistent EBA Assistante en maintenance d’automobiles AFP / Assistant en maintenance d’automobiles AFP Assistente di manutenzione per automobili CFP</td></tr>
@@ -22,13 +22,14 @@ vom 12. Oktober 2017 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1] (BBG), auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1] (BBG), auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
 verordnet:
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -66,8 +67,6 @@ Automobil-Assistentinnen und Automobil-Assistenten auf Stufe EBA beherrschen nam
 #### Art. 4
 
 **Handlungskompetenzen**
-
-<sup>1</sup>
 
 Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachstehenden Handlungskompetenzen:
 
@@ -109,9 +108,11 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -308,6 +309,7 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>3</td><td>Unterstützen von betrieblichen Abläufen</td><td>33⅓</td></tr>
 </table>
 
+- [tab]
 - b.
 
   Berufskenntnisse, im Umfang von 2 Stunden. Dafür gilt Folgendes:
@@ -373,7 +375,7 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch des Unterrichts in den Berufskenntnissen wiederholt, so wird die bisherige Note beibehalten. Wird der Unterricht in den Berufskenntnissen während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
-- [tab] <sup>4</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+<sup>4</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
 #### Art. 21
 
@@ -420,11 +422,12 @@ Die Schweizerische Kommission für Berufsentwicklung und Qualität dertechnische
 - d. jeder einer Vertreterin oder einem Vertreter der Sozialpartner;
 - e. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
-<sup>2</sup> Für die Zusammensetzung gilt überdies:
+<sup>2</sup>
 
-a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+Für die Zusammensetzung gilt überdies:
 
-b. Die Sprachregionen müssen gebührend vertreten sein.
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen gebührend vertreten sein.
 
 <sup>3</sup> Die Kommission konstituiert sich selbst.
 

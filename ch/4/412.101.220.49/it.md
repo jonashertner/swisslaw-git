@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: Ordinanza della SEFRI del 12 ottobre 2017 sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-625-20180101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP)
 
-del 12 ottobre 2017 (Stato 1° gennaio 2018)
+del 12 ottobre 2017 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>46318</td><td>Assistente di manutenzione per automobili CFP Automobil-Assistentin EBA/Automobil-Assistent EBA Assistante en maintenance d’automobiles AFP/ Assistant en maintenance d’automobiles AFP</td></tr>
@@ -22,13 +22,14 @@ del 12 ottobre 2017 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr), visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Sezione 1: Oggetto e durata
 
@@ -66,8 +67,6 @@ Gli assistenti di manutenzione per automobili di livello CFP svolgono in partico
 #### Art. 4
 
 **Competenze operative**
-
-<sup>1</sup>
 
 La formazione prevede, nei campi di competenze operative sotto indicati, le competenze operative seguenti:
 
@@ -109,9 +108,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -128,7 +129,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 720 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
 
 <table>
-<tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>Totale</th></tr>
+<tr><th>nsegnamento</th><th>1° anno</th><th>2° anno</th><th>Totale</th></tr>
 <tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td></tr>
 <tr><td>– Controllo e manutenzione dei veicoli</td><td>75</td><td>100</td><td>175</td></tr>
 <tr><td>– Sostituzione di parti usurate, collaborazione ai processi aziendali</td><td>125</td><td>100</td><td>225</td></tr>
@@ -157,7 +158,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <sup>2</sup> Le giornate e i contenuti sono ripartiti in due corsi come segue:
 
 <table>
-<tr><td>Anno</td><td>Corso</td><td>Campo di competenze operative / competenza operativa</td><td>Durata</td></tr>
+<tr><th>Anno</th><th>Corso</th><th>Campo di competenze operative / competenza operativa</th><th>Durata</th></tr>
 <tr><td>1</td><td>Corso 1</td><td>Controllo e manutenzione dei veicoli</td><td>3 giorni</td></tr>
 <tr><td></td><td></td><td>Sostituzione di parti usurate</td><td>8 giorni</td></tr>
 <tr><td></td><td></td><td>Collaborazione ai processi aziendali</td><td>1 giorno</td></tr>
@@ -193,7 +194,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
-[^9-1]: Il piano di formazione del 12 ott. 2017 relativo all’O della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z.
+[^9-1]: Il piano di formazione del 12 ottobre 2017 relativo all’O della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
