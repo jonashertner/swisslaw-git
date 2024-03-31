@@ -3,18 +3,18 @@ sr: "412.101.221.51"
 title: Ordinanza della SEFRI del 27 ottobre 2010 sulla formazione professionale di base Panettiera-pasticciera-confettiera/Panettiere-pasticciere-confettiere con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/867"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2010-867-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2010-867-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Panettiera-pasticciera-confettiera/ Panettiere-pasticciere-confettiere con certificato federale di formazione pratica (CFP)
 
-del 27 ottobre 2010 (Stato 1° gennaio 2018)
+del 27 ottobre 2010 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>21107</td><td>Panettiere-pasticciere-confettiere CFP/ Panettiera-pasticcera-confettiera CFP Bäckerin-Konditorin-Confiseurin EBA/ Bäcker-Konditor-Confiseur EBA Boulangère-pâtissière-confiseuse AFP/ Boulanger-pâtissier-confiseur AFP</td></tr>
@@ -22,14 +22,15 @@ del 27 ottobre 2010 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-4]
+visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr), visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -112,11 +113,12 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^7-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -207,7 +209,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 [^13-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 [^13-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
-## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni****
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
@@ -353,7 +355,7 @@ Se il certificato federale di formazione pratica è stato conseguito mediante pr
 
 [^22-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
-## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità della formazione nelle professioni di produzione della panetteria-pasticceria-confetteria****
+## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità della formazione nelle professioni di produzione della panetteria-pasticceria-confetteria
 
 [^sec10-1]
 

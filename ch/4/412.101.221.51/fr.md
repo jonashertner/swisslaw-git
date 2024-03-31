@@ -3,18 +3,18 @@ sr: "412.101.221.51"
 title: Ordonnance du SEFRI du 27 octobre 2010 sur la formation professionnelle initiale de boulangère-pâtissière-confiseuse/boulanger-pâtissier-confiseur avec attestation fédérale de formation professionnelle (AFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/867"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-867-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-867-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de boulangère‑pâtissière‑confiseuse/boulanger-pâtissier-confiseur avec attestation fédérale de formation professionnelle (AFP)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de boulangère‑pâtissière‑confiseuse/boulanger-pâtissier-confiseur avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 27 octobre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 27 octobre 2010 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -22,16 +22,17 @@ du 27 octobre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 <tr><td>21107</td><td>Boulangère-pâtissière-confiseuse AFP/ Boulanger-pâtissier-confiseur AFP Bäckerin-Konditorin-Confiseurin EBA/ Bäcker-Konditor-Confiseur EBA Panettiera-pasticciera-confettiera CFP/ Panettiere-pasticciere-confettiere CFP</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],[^ingress-4]
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],[^ingress-5]
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
 ## Section 1 Objet et durée
 
@@ -113,11 +114,12 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 
 <sup>3</sup> Les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^7-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -208,7 +210,7 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:[^12-2]
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 [^13-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
-## Section 7 Dossier de formation, rapport de formation et dossier des prestations****
+## Section 7 Dossier de formation, rapport de formation et dossier des prestations
 
 [^sec7-1]
 
@@ -275,7 +277,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -354,7 +356,7 @@ Si l’attestation a été obtenue par le biais de la procédure de qualificatio
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
-## Section 10 Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie-pâtisserie-confiserie****
+## Section 10 Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie-pâtisserie-confiserie
 
 [^sec10-1]
 
@@ -367,7 +369,7 @@ Si l’attestation a été obtenue par le biais de la procédure de qualificatio
 La Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie-pâtisserie-confiserie (commission) comprend:
 
 - a. six à huit représentants de l’Association suisse des patrons boulangers-confiseurs (BCS);
-- b. un représentant de l’Ecole professionnelle Richemont;
+- b. un représentant de l’École professionnelle Richemont;
 - c. un représentant des enseignants des connaissances professionnelles;
 - d. un représentant de l’Association suisse du personnel de la boulangerie, pâtisserie et confiserie (aspbpc);
 - e. au moins un représentant de la Confédération et au moins un représentant des cantons.[^23-1]
