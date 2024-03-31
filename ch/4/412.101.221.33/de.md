@@ -3,18 +3,18 @@ sr: "412.101.221.33"
 title: Verordnung des SBFI vom 23. August 2010 über die berufliche Grundbildung Holzbearbeiterin/Holzbearbeiter mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/743"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2010-08-23
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/743/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2010-743-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/743/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/743/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2010-743-20240401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/743/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Holzbearbeiterin/Holzbearbeiter mit eidgenössischem Berufsattest (EBA)
 
-vom 23. August 2010 (Stand am 1. Januar 2018)
+vom 23. August 2010 (Stand am 1. April 2024)
 
 <table>
 <tr><td>30206</td><td>Holzbearbeiterin EBA/Holzbearbeiter EBA Praticienne sur bois AFP/Praticien sur bois AFP Addetta alla lavorazione del legno CFP/ Addetto alla lavorazione del legno CFP</td></tr>
@@ -22,14 +22,15 @@ vom 23. August 2010 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 95 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 95 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkt und Dauer
 
@@ -119,11 +120,12 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^7-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 95 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -317,7 +319,7 @@ Die Erfahrungsnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe
 
 <sup>2</sup> Wird die Abschlussprüfung ohne erneuten Besuch der Berufsfachschule wiederholt, so wird die bisherige Note beibehalten. Wird der berufskundliche Unterricht während mindestens 2 Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
-- [tab] <sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+<sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
 #### Art. 22
 
@@ -358,11 +360,11 @@ Die Schweizerische Kommission für Berufsentwicklung und Qualität setzt sich zu
 
 - a. 1–3 Vertreterinnen oder Vertretern der Holzindustrie Schweiz;
 - b. 3–5 Vertreterinnen oder Vertretern des Holzbau Schweiz;
-- c. 1–3 Vertreterinnen oder Vertretern der *Fédération suisse romande des entr**e**prises de menuiserie ébénisterie et charpent**e**rie*;
+- c. 1–3 Vertreterinnen oder Vertretern der *Fédération suisse romande des entre**prises de menuiserie ébénisterie et charpenterie*;
 - d. 1–3 Vertreterinnen oder Vertretern der Fachlehrerschaft;
-- f. 1–3 Vertreterinnen oder Vertretern der überbetrieblichen Kurse;
-- g. 1 Vertreterin oder 1 Vertreter der Arbeitnehmerschaft;
-- h. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- e. 1–3 Vertreterinnen oder Vertretern der überbetrieblichen Kurse;
+- f. 1 Vertreterin oder 1 Vertreter der Arbeitnehmerschaft;
+- g. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
 
 <sup>2</sup> Die Sprachregionen müssen gebührend vertreten sein.
 
