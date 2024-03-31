@@ -3,18 +3,18 @@ sr: "412.101.221.71"
 title: Verordnung des SBFI vom 5. September 2011 über die berufliche Grundbildung Kleinmotorrad- und Fahrradmechanikerin/Kleinmotorrad- und Fahrradmechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/731"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2011-09-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2011-731-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2011-731-20240401-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kleinmotorrad- und Fahrradmechanikerin/ Kleinmotorrad- und Fahrradmechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 5. September 2011 (Stand am 1. Januar 2018)
+vom 5. September 2011 (Stand am 1. April 2024)
 
 <table>
 <tr><td>46106</td><td>Kleinmotorrad- und Fahrradmechanikerin EFZ/ Kleinmotorrad- und Fahrradmechaniker EFZ Mécanicienne en motocycles de petite cylindrée et cycles CFC/ Mécanicien en motocycles de petite cylindrée et cycles CFC Meccanica di motoleggere e biciclette AFC/ Meccanico di motoleggere e biciclette AFC</td></tr>
@@ -22,14 +22,15 @@ vom 5. September 2011 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 123 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 123 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand, und Dauer
 
@@ -75,7 +76,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - a.
 
-  Warten und reparieren von Rahmen und Fahrwerksteilen:
+  warten und reparieren von Rahmen und Fahrwerksteilen:
 
   - 1\. Rahmen prüfen und ersetzen,
   - 2\. Räder, Radlager und Bereifungen prüfen, zusammenstellen und montieren,
@@ -85,7 +86,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - b.
 
-  Warten und reparieren von Antriebsbauteilen und Schaltkomponenten:
+  warten und reparieren von Antriebsbauteilen und Schaltkomponenten:
 
   - 1\. Kettenantriebe und Kettenschaltungen prüfen und instand halten,
   - 2\. Nabengetriebe prüfen und instand halten,
@@ -95,7 +96,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - c.
 
-  Warten und reparieren von Motorkomponenten und Motormanagementsystemen:
+  warten und reparieren von Motorkomponenten und Motormanagementsystemen:
 
   - 1\. Zylinder, Zylinderköpfe und Kurbeltriebe prüfen und ersetzen,
   - 2\. Motorsteuerungsbauteile prüfen, einstellen und ersetzen,
@@ -104,7 +105,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - d.
 
-  Warten und reparieren von elektrischen und elektronischen Anlagen:
+  warten und reparieren von elektrischen und elektronischen Anlagen:
 
   - 1\. Starterbatterien prüfen und instand halten, diagnostizieren und ersetzen,
   - 2\. Ladeanlagen prüfen. Fehler lokalisieren und instand setzen,
@@ -114,7 +115,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - e.
 
-  Sicherstellen der internen Kommunikation und verwenden der korrekten Fachsprache:
+  sicherstellen der internen Kommunikation und verwenden der korrekten Fachsprache:
 
   - 1\. Technische Begriffe im internen Kommunikationsprozess anwenden, Zusammenhänge erklären und Fachgespräche führen,
   - 2\. Elektrische Elemente und Messgrössen bestimmen, Bauteile ausmessen, diagnostizieren und ersetzen,
@@ -123,7 +124,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - f.
 
-  Umsetzen und gestalten von Kundenwünschen, betriebsinternen Arbeitsabläufen und Massnahmen zum Umweltschutz:
+  umsetzen und gestalten von Kundenwünschen, betriebsinternen Arbeitsabläufen und Massnahmen zum Umweltschutz:
 
   - 1\. Kommunikationsmittel für den Kundenkontakt sowie für externe und interne Kommunikationsprozesse einsetzen,
   - 2\. Wartungs- und Reparaturinformationen auf Deutsch und Englisch suchen, interpretieren und einsetzen,
@@ -134,7 +135,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 - g.
 
-  Einsetzen und unterhalten von Geräten und Einrichtungen:
+  einsetzen und unterhalten von Geräten und Einrichtungen:
 
   - 1\. Einrichtungen, Maschinen und Geräte ordnen, instand halten und einsetzen,
   - 2\. Werkzeuge der Werkstatt und eigene Werkzeuge anwenden, instand halten und ordnen,
@@ -160,11 +161,12 @@ Lernende im Beruf Kleinmotor- und Fahrradmechanikerin/Kleinmotorrad- und Fahrrad
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^6-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^6-1]: Fassung gemäss Ziff. II 123 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^6-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 

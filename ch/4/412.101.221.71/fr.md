@@ -3,18 +3,18 @@ sr: "412.101.221.71"
 title: Ordonnance du SEFRI du 5 septembre 2011 sur la formation professionnelle initiale de mécanicienne en motocycles de petite cylindrée et cycles/mécanicien en motocycles de petite cylindrée et cycles avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/731"
 language: fr
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2011-09-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-731-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-731-20240401-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne en motocycles de petite cylindrée et cycles/ mécanicien en motocycles de petite cylindrée et cycles avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne en motocycles de petite cylindrée et cycles/ mécanicien en motocycles de petite cylindrée et cycles avec certificat fédéral de capacité (CFC)\*
 
-du 5 septembre 2011 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 5 septembre 2011 (État le 1<sup>er</sup> avril 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,14 +24,15 @@ du 5 septembre 2011 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nouvelle teneur selon le ch. I 123 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nouvelle teneur selon le ch. I 123 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
 
@@ -77,71 +78,71 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 - a.
 
-  Entretenir et réparer des cadres et des châssis:
+  entretenir et réparer des cadres et des châssis:
 
-  - 1\. contrôler et remplacer des cadres;
-  - 2\. contrôler, assembler et monter des roues, des roulements de roues et des pneus;
-  - 3\. contrôler, entretenir et remplacer des suspensions de roues et des directions;
-  - 4\. contrôler, entretenir, remettre en état de marche des suspensions et des amortisseurs;
-  - 5\. contrôler, entretenir et remette en état de marche des dispositifs de freinage.
+  - 1\. contrôler et remplacer des cadres,
+  - 2\. contrôler, assembler et monter des roues, des roulements de roues et des pneus,
+  - 3\. contrôler, entretenir et remplacer des suspensions de roues et des directions,
+  - 4\. contrôler, entretenir, remettre en état de marche des suspensions et des amortisseurs,
+  - 5\. contrôler, entretenir et remette en état de marche des dispositifs de freinage;
 
 - b.
 
-  Assurer la maintenance et réparer des éléments de transmission et de changement de vitesse:
+  assurer la maintenance et réparer des éléments de transmission et de changement de vitesse:
 
-  - 1\. contrôler et entretenir des transmissions par chaîne et des changements de vitesse par dérailleur;
-  - 2\. contrôler et entretenir des boîtes à vitesses intégrées;
-  - 3\. contrôler et remettre en état de marche des embrayages;
-  - 4\. contrôler et entretenir des boîtes à vitesses;
-  - 5\. contrôler et entretenir des boîtes à vitesses à réglage continu.
+  - 1\. contrôler et entretenir des transmissions par chaîne et des changements de vitesse par dérailleur,
+  - 2\. contrôler et entretenir des boîtes à vitesses intégrées,
+  - 3\. contrôler et remettre en état de marche des embrayages,
+  - 4\. contrôler et entretenir des boîtes à vitesses,
+  - 5\. contrôler et entretenir des boîtes à vitesses à réglage continu;
 
 - c.
 
-  Assurer la maintenance et réparer des composants de moteurs et des systèmes de gestion des moteurs:
+  assurer la maintenance et réparer des composants de moteurs et des systèmes de gestion des moteurs:
 
-  - 1\. contrôler et remplacer des cylindres, des culasses et des embiellages;
-  - 2\. contrôler, régler et remplacer des éléments de pilotage des moteurs;
-  - 3\. contrôler, entretenir, établir des diagnostics des installations de gestion des carburants et des gaz d’échappement et éliminer des défectuosités;
-  - 4\. contrôler et entretenir des systèmes de graissage et de refroidissement.
+  - 1\. contrôler et remplacer des cylindres, des culasses et des embiellages,
+  - 2\. contrôler, régler et remplacer des éléments de pilotage des moteurs,
+  - 3\. contrôler, entretenir, établir des diagnostics des installations de gestion des carburants et des gaz d’échappement et éliminer des défectuosités,
+  - 4\. contrôler et entretenir des systèmes de graissage et de refroidissement;
 
 - d.
 
-  Assurer la maintenance et réparer des éléments électriques et électroniques:
+  assurer la maintenance et réparer des éléments électriques et électroniques:
 
-  - 1\. contrôler, entretenir, établir des diagnostics et remplacer des batteries de démarrage;
-  - 2\. contrôler, localiser des défectuosités et remettre en état de marche des dispositifs de charge;
-  - 3\. contrôler, localiser des dérangements et remettre en état de marche des dispositifs de démarrage;
-  - 4\. contrôler, localiser des dérangements et remettre en état de marche des dispositifs d’allumage;
-  - 5\. contrôler, régler, équiper des dispositifs d’éclairage et de signalisation, localiser des défectuosités et les éliminer.
+  - 1\. contrôler, entretenir, établir des diagnostics et remplacer des batteries de démarrage,
+  - 2\. contrôler, localiser des défectuosités et remettre en état de marche des dispositifs de charge,
+  - 3\. contrôler, localiser des dérangements et remettre en état de marche des dispositifs de démarrage,
+  - 4\. contrôler, localiser des dérangements et remettre en état de marche des dispositifs d’allumage,
+  - 5\. contrôler, régler, équiper des dispositifs d’éclairage et de signalisation, localiser des défectuosités et les éliminer;
 
 - e.
 
-  Assurer la communication interne et utiliser un langage technique correct:
+  assurer la communication interne et utiliser un langage technique correct:
 
-  - 1\. utiliser des termes techniques lors de discussions internes, expliquer les interactions et conduire des entretiens techniques;
-  - 2\. déterminer des éléments et des critères de mesure électrique, mesurer des éléments, établir des diagnostics et remplacer des éléments;
-  - 3\. exécuter des processus de finition en tenant compte des propriétés des matériaux et des matières consommables et auxiliaires;
-  - 4\. rechercher, interpréter, compléter des informations techniques et les utiliser lors d’échanges d’informations en interne.
+  - 1\. utiliser des termes techniques lors de discussions internes, expliquer les interactions et conduire des entretiens techniques,
+  - 2\. déterminer des éléments et des critères de mesure électrique, mesurer des éléments, établir des diagnostics et remplacer des éléments,
+  - 3\. exécuter des processus de finition en tenant compte des propriétés des matériaux et des matières consommables et auxiliaires,
+  - 4\. rechercher, interpréter, compléter des informations techniques et les utiliser lors d’échanges d’informations en interne;
 
 - f.
 
-  Répondre aux souhaits des clients, concevoir et mettre en œuvre des procédures de travail propres à l’entreprise et des mesures de protection de l’environnement:
+  répondre aux souhaits des clients, concevoir et mettre en œuvre des procédures de travail propres à l’entreprise et des mesures de protection de l’environnement:
 
-  - 1\. utiliser des moyens de communication dans les contacts avec les clients et dans la communication interne et externe;
-  - 2\. rechercher, interpréter et utiliser des informations requises en français et en anglais sur la maintenance et la réparation;
-  - 3\. prendre en compte les souhaits et les informations des clients. Questionner, informer et conseiller les clients. Remettre des véhicules et évaluer des ordres avec les clients.
-  - 4\. planifier et préparer des ordres de travail. Appliquer le système qualité de l’entreprise. Contrôler, évaluer et documenter le travail effectué;
-  - 5\. commander, préparer et documenter des pièces de rechange. Gérer le stock de pièces de rechange;
+  - 1\. utiliser des moyens de communication dans les contacts avec les clients et dans la communication interne et externe,
+  - 2\. rechercher, interpréter et utiliser des informations requises en français et en anglais sur la maintenance et la réparation,
+  - 3\. prendre en compte les souhaits et les informations des clients. Questionner, informer et conseiller les clients. Remettre des véhicules et évaluer des ordres avec les clients,
+  - 4\. planifier et préparer des ordres de travail. Appliquer le système qualité de l’entreprise. Contrôler, évaluer et documenter le travail effectué,
+  - 5\. commander, préparer et documenter des pièces de rechange. Gérer le stock de pièces de rechange,
   - 6\. consulter, interpréter et appliquer des prescriptions techniques, ainsi que des prescriptions sur la sécurité du travail, sur la prévention des accidents et sur la protection de l’environnement;
 
 - g.
 
-  Utiliser et entretenir des appareils et des installations:
+  utiliser et entretenir des appareils et des installations:
 
-  - 1\. ranger, entretenir et utiliser des installations, des machines et des appareils;
-  - 2\. utiliser, entretenir et ranger les outils de l’atelier et personnels;
-  - 3\. utiliser des systèmes informatiques pour élaborer des documents, pour gérer et échanger des données et pour rechercher des informations;
-  - 4\. évaluer les véhicules des clients et éliminer des pannes. Préparer des véhicules neufs ou d’occasion pour l’admission à la circulation. Effectuer des courses d’essai.
+  - 1\. ranger, entretenir et utiliser des installations, des machines et des appareils,
+  - 2\. utiliser, entretenir et ranger les outils de l’atelier et personnels,
+  - 3\. utiliser des systèmes informatiques pour élaborer des documents, pour gérer et échanger des données et pour rechercher des informations,
+  - 4\. évaluer les véhicules des clients et éliminer des pannes. Préparer des véhicules neufs ou d’occasion pour l’admission à la circulation. Effectuer des courses d’essai,
   - 5\. utiliser et entretenir des testeurs assistés par ordinateur de l’atelier et personnels.
 
 #### Art. 5
@@ -162,11 +163,12 @@ Les personnes en formation dans la profession de mécanicien en motocycles de pe
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^6-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^6-1]: Nouvelle teneur selon le ch. II 123 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^6-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -310,7 +312,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
