@@ -3,18 +3,18 @@ sr: "412.101.221.57"
 title: Ordinanza della SEFRI del 20 dicembre 2010 sulla formazione professionale di base Addetta alle cure sociosanitarie/Addetto alle cure sociosanitarie con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/80"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2010-12-20
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2011-80-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-80-20240401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta alle cure sociosanitarie/ Addetto alle cure sociosanitarie con certificato federale di formazione pratica (CFP)
 
-del 20 dicembre 2010 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 20 dicembre 2010 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>86913</td><td>Addetta alle cure sociosanitarie CFP/ Addetto alle cure sociosanitarie CFP Assistentin Gesundheit und Soziales EBA/ Assistent Gesundheit und Soziales EBA Aide en soins et accompagnement AFP</td></tr>
@@ -22,14 +22,15 @@ del 20 dicembre 2010 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -44,7 +45,7 @@ Gli addetti alle cure sociosanitarie di livello CFP svolgono, in particolare, le
 - c. l’addetto alle cure sociosanitarie CFP rispetta la personalità dei clienti, ne tiene conto nello svolgimento della propria attività e utilizza le loro risorse. Il suo agire è orientato ai valori e alle linee guida dell’organizzazione in cui opera;
 - d. l’addetto alle cure sociosanitarie CFP svolge le proprie attività nel quadro delle competenze acquisite, nel rispetto delle norme legali e dei regolamenti aziendali.
 
-[^1-1]: Versione del 15 set. 2011.
+[^1-1]: Versione del 15 set. 2011, in vigore dal 1° gen. 2012.
 
 #### Art. 2
 
@@ -131,10 +132,10 @@ La formazione di addetto alle cure sociosanitarie CFP comprende le seguenti comp
   - 2\. [^4-4] descrive e valuta il proprio agire al fine di migliorare il comportamento futuro;
   - 3\. lavora con il gruppo curante e conosce il ruolo e le responsabilità dei membri che lo compongono.
 
-[^4-1]: Versione del 15 set. 2011.
-[^4-2]: Versione del 15 set. 2011.
-[^4-3]: Versione del 15 set. 2011.
-[^4-4]: Versione del 15 set. 2011.
+[^4-1]: Versione del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^4-2]: Versione del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^4-3]: Versione del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^4-4]: Versione del 15 set. 2011, in vigore dal 1° gen. 2012.
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -148,11 +149,12 @@ La formazione di addetto alle cure sociosanitarie CFP comprende le seguenti comp
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -166,7 +168,7 @@ La formazione di addetto alle cure sociosanitarie CFP comprende le seguenti comp
 
 <sup>3</sup> I corsi interaziendali hanno una durata complessiva di 23–25 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali[^6-1].
 
-[^6-1]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^6-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 7
 
@@ -252,7 +254,7 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 
 <sup>5</sup> I controlli delle competenze vengono espressi in note; esse confluiscono nel calcolo della nota dei luoghi di formazione di cui all’articolo 17 capoverso 4.
 
-[^12-1]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^12-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 13
 
@@ -277,7 +279,7 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
   - 2\. di tale esperienza professionale ha svolto almeno due anni impiegato all’80 per cento nel campo dell’addetto alle cure sociosanitarie CFP[^14-1];
   - 3\. rende verosimile il possesso dei requisiti per l’esame finale (art. 16).
 
-[^14-1]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^14-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 15
 
@@ -289,16 +291,14 @@ Nelle procedure di qualificazione si deve dimostrare di aver acquisito le compet
 
 **Durata e svolgimento della procedura di qualificazione con esame finale**
 
-<sup>1</sup>
-
 Nella procedura di qualificazione con esame finale vengono esaminati i campi di qualificazione sotto elencati nel modo seguente:
 
 - a. «lavoro pratico», sotto forma di lavoro pratico individuale con colloquio professionale della durata da tre a quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali[^16-1];
 - b. «conoscenze professionali», della durata di due ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta[^16-2];
 - c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006 sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^16-3].
 
-[^16-1]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
-[^16-2]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^16-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^16-2]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 [^16-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 17
@@ -405,7 +405,7 @@ La Commissione ha i seguenti compiti:
 
 [^sec11-1]
 
-[^sec11-1]: Introdotto con la modifica del 15 set. 2011, in vigore dal 1° gen. 2012.
+[^sec11-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 22
 
