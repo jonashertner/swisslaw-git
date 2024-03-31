@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2023-11-01
+version: 2024-04-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. November 2023)
+(Stand am 1. April 2024)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -33,7 +33,9 @@ In Kraft getreten für die Schweiz am 13. Dezember 2007
 
 ### **Regel 1**Schriftliches Verfahren
 
-Im schriftlichen Verfahren vor dem Europäischen Patentamt ist das Erfordernis der Schriftform erfüllt, wenn sich der Inhalt der Unterlagen in lesbarer Form auf Papier reproduzieren lässt.
+Im schriftlichen Verfahren vor dem Europäischen Patentamt ist das Erfordernis der Schriftform erfüllt, wenn sich der Inhalt der Unterlagen in lesbarer Form reproduzieren lässt.[^part1-chapI-lvlu1-1]
+
+[^part1-chapI-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regel 2**Einreichung von Unterlagen; Formvorschriften
 
@@ -283,11 +285,14 @@ Von dem Tag an, an dem ein Dritter nachweist, dass er ein nationales Verfahren n
 
 ### **Regel 22**Eintragung von Rechtsübergängen
 
-(1) Der Rechtsübergang einer europäischen Patentanmeldung wird auf Antrag eines Beteiligten in das Europäische Patentregister eingetragen, wenn er durch Vorlage von Dokumenten nachgewiesen wird.
+(1) Der Rechtsübergang einer europäischen Patentanmeldung wird auf Antrag eines Beteiligten in das Europäische Patentregister eingetragen, wenn er durch Vorlage von Dokumenten nachgewiesen wird. Regel 2 Absatz 2 ist entsprechend auf die Unterschrift der Vertragsparteien anzuwenden.[^part2-chapIII-lvlu1-1]
 
-(2) Der Antrag gilt erst als gestellt, wenn eine Verwaltungsgebühr entrichtet worden ist. Er kann nur zurückgewiesen werden, wenn die Erfordernisse des Absatzes 1 nicht erfüllt sind.
+(2) Gegebenenfalls ist für die Eintragung des Rechtsübergangs eine Verwaltungsgebühr unter den vom Präsidenten des Europäischen Patentamts festgelegten Bedingungen zu entrichten. In diesem Fall gilt der Antrag erst als gestellt, wenn die Verwaltungsgebühr entrichtet worden ist. Er kann nur zurückgewiesen werden, wenn die Erfordernisse des Absatzes 1 nicht erfüllt sind.[^part2-chapIII-lvlu1-2]
 
 (3) Ein Rechtsübergang wird dem Europäischen Patentamt gegenüber erst und nur insoweit wirksam, als er ihm durch Vorlage von Dokumenten nach Absatz 1 nachgewiesen wird.
+
+[^part2-chapIII-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^part2-chapIII-lvlu1-2]: Fassung gemäss Art. 1 Ziff. 3 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regel 23**Eintragung von Lizenzen und anderen Rechten
 
@@ -519,7 +524,7 @@ Ist nach Regel 31 hinterlegtes biologisches Material bei der anerkannten Hinterl
 
 - a) ein Ersuchen auf Erteilung eines europäischen Patents;
 - b) die Bezeichnung der Erfindung, die eine kurz und genau gefasste technische Bezeichnung der Erfindung wiedergibt und keine Fantasiebezeichnung enthalten darf;
-- c) den Namen, die Anschrift, die Staatsangehörigkeit und den Staat des Wohnsitzes oder Sitzes des Anmelders. Bei natürlichen Personen ist der Familienname vor den Vornamen anzugeben. Bei juristischen Personen und Gesellschaften, die juristischen Personen gemäss dem für sie massgebenden Recht gleichgestellt sind, ist die amtliche Bezeichnung anzugeben. Anschriften sind gemäss den üblichen Anforderungen für eine schnelle Postzustellung an die angegebene Anschrift anzugeben und müssen in jedem Fall alle massgeblichen Verwaltungseinheiten, gegebenenfalls bis zur Hausnummer einschliesslich, enthalten. Gegebenenfalls sollen Fax- und Telefonnummern angegeben werden;
+- c)[^part3-chapII-lvlu1-1] den Namen, die Anschrift, die Staatsangehörigkeit und den Staat des Wohnsitzes oder Sitzes des Anmelders. Bei natürlichen Personen ist der Familienname vor den Vornamen anzugeben. Bei juristischen Personen und Gesellschaften, die juristischen Personen gemäss dem für sie massgebenden Recht gleichgestellt sind, ist die amtliche Bezeichnung anzugeben. Anschriften sind gemäss den üblichen Anforderungen für eine schnelle Postzustellung an die angegebene Anschrift anzugeben und müssen in jedem Fall alle massgeblichen Verwaltungseinheiten, gegebenenfalls bis zur Hausnummer einschliesslich, enthalten. Gegebenenfalls sollen Telefonnummern angegeben werden;
 - d) falls ein Vertreter bestellt ist, seinen Namen und seine Geschäftsanschrift nach Massgabe von Buchstabe c;
 - e) gegebenenfalls eine Erklärung, dass es sich um eine Teilanmeldung handelt, und die Nummer der früheren europäischen Patentanmeldung;
 - f) im Fall des Artikels 61 Absatz 1 b) die Nummer der ursprünglichen europäischen Patentanmeldung;
@@ -529,6 +534,8 @@ Ist nach Regel 31 hinterlegtes biologisches Material bei der anerkannten Hinterl
 - j) die Erfindernennung, wenn der Anmelder der Erfinder ist.
 
 (3) Im Fall mehrerer Anmelder soll der Antrag die Bezeichnung eines Anmelders oder Vertreters als gemeinsamer Vertreter enthalten.
+
+[^part3-chapII-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 4 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regel 42**Inhalt der Beschreibung
 
@@ -1669,7 +1676,8 @@ Das Europäische Patentamt kann vorbehaltlich der in Artikel 128 Absätze 1–4 
 
 (2) Der Präsident des Europäischen Patentamts bestimmt die erforderlichen technischen und administrativen Bedingungen für die Verwaltung elektronischer Akten nach Massgabe von Absatz 1.[^part7-chapIX-lvlu5-2]
 
-(3) In eine elektronische Akte aufgenommene Unterlagen gelten als Originale. Die ursprünglich eingereichte Papierfassung einer solchen Unterlage wird erst nach Ablauf von mindestens fünf Jahren vernichtet. Diese Aufbewahrungsdauer beginnt am Ende des Jahres, in dem die Unterlage in die elektronische Akte aufgenommen wurde.[^part7-chapIX-lvlu5-3]
+- (3)a) In eine elektronische Akte aufgenommene Unterlagen gelten als Originale.
+- b) Die ursprünglich auf Papier oder auf einem Datenträger eingereichte Fassung einer solchen Unterlage wird erst nach Ablauf von mindestens fünf Jahren vernichtet. Diese Aufbewahrungsdauer beginnt am Ende des Jahres, in dem die Unterlage in die elektronische Akte aufgenommen wurde.[^part7-chapIX-lvlu5-3]
 
 (4) Die Akten werden mindestens fünf Jahre ab dem Ende des Jahres aufbewahrt, in dem:
 
@@ -1681,7 +1689,7 @@ Das Europäische Patentamt kann vorbehaltlich der in Artikel 128 Absätze 1–4 
 
 [^part7-chapIX-lvlu5-1]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 14. Okt. 2015, in Kraft seit 1. Nov. 2016 ([AS 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
 [^part7-chapIX-lvlu5-2]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 14. Okt. 2015, in Kraft seit 1. Nov. 2016 ([AS 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
-[^part7-chapIX-lvlu5-3]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 14. Okt. 2015, in Kraft seit 1. Nov. 2016 ([AS 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part7-chapIX-lvlu5-3]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### Kapitel X Rechts- und Amtshilfe
 
@@ -1729,11 +1737,11 @@ Das Europäische Patentamt kann vorbehaltlich der in Artikel 128 Absätze 1–4 
 
 (1) Der Präsident des Europäischen Patentamts bestimmt, in welchen Fällen die Vertreter vor dem Europäischen Patentamt eine unterzeichnete Vollmacht einzureichen haben.
 
-(2) Versäumt es ein Vertreter, eine solche Vollmacht einzureichen, so fordert ihn das Europäische Patentamt auf, dies innerhalb einer zu bestimmenden Frist nachzuholen. Die Vollmacht kann sich auf eine oder mehrere europäische Patentanmeldungen oder europäische Patente erstrecken und ist in der entsprechenden Stückzahl einzureichen.
+(2) Versäumt es ein Vertreter, eine solche Vollmacht einzureichen, so fordert ihn das Europäische Patentamt auf, dies innerhalb einer zu bestimmenden Frist nachzuholen. Die Vollmacht kann sich auf eine oder mehrere europäische Patentanmeldungen oder europäische Patente erstrecken.[^part7-chapXI-lvlu2-1]
 
 (3) Ist den Erfordernissen des Artikels 133 Absatz 2 nicht entsprochen, so wird für die Bestellung eines Vertreters und die Einreichung der Vollmacht dieselbe Frist gesetzt.
 
-(4) Die Beteiligten können allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen. Die allgemeine Vollmacht braucht nur in einem Stück eingereicht zu werden.
+(4) Die Beteiligten können allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen.[^part7-chapXI-lvlu2-2]
 
 (5) Der Präsident des Europäischen Patentamts kann Form und Inhalt:
 
@@ -1751,6 +1759,9 @@ Das Europäische Patentamt kann vorbehaltlich der in Artikel 128 Absätze 1–4 
 (10) Hat ein Beteiligter mehrere Vertreter bestellt, so sind diese ungeachtet einer abweichenden Bestimmung in der Anzeige über ihre Bestellung oder in der Vollmacht berechtigt, sowohl gemeinschaftlich als auch einzeln zu handeln.
 
 (11) Die Bevollmächtigung eines Zusammenschlusses von Vertretern gilt als Bevollmächtigung für jeden Vertreter, der den Nachweis erbringt, dass er in diesem Zusammenschluss tätig ist.
+
+[^part7-chapXI-lvlu2-1]: Fassung gemäss Art. 1 Ziff. 8 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^part7-chapXI-lvlu2-2]: Fassung gemäss Art. 1 Ziff. 9 des Beschlusses des Verwaltungsrats vom 14. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regel 153**Zeugnisverweigerungsrecht
 
@@ -2049,83 +2060,75 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 Die in Artikel 1 dieses Beschlusses enthaltene Bestimmung gilt für alle europäischen Patente, für die in der mündlichen Verhandlung am oder nach dem Tag ihres Inkrafttretens eine Entscheidung nach Artikel 106 Absatz 2 oder Artikel 111 Absatz 2 EPÜ erlassen wird.
 
-## Übergangsbestimmungen der Änderung vom 14. Oktober 2015
+## Übergangsbestimmungen der Änderung vom 14. Dezember 2016
 
 [^u13-1]
 
-[^u13-1]: [AS 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)Art. 2 Abs. 2
-
-Die in Artikel 1 dieses Beschlusses genannten Vorschriften gelten für alle europäischen Patentanmeldungen und Patente mit der Massgabe, dass die in Regel 147 (3) EPÜ vorgesehene 5-jährige Aufbewahrungsdauer unabhängig davon, wann eine Unterlage in die elektronische Akte aufgenommen wurde, nicht vor dem 31. Dezember 2018 endet.
-
-## Übergangsbestimmungen der Änderung vom 14. Dezember 2016
-
-[^u14-1]
-
-[^u14-1]: [AS 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)Art. 3
+[^u13-1]: [AS 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)Art. 3
 
 Die neu gefasste Regel 162 (2) EPÜ ist auf alle Euro-PCT-Anmeldungen anzuwenden, für die bei Inkrafttreten die Mitteilung nach den Regeln 161 und 162 EPÜ noch nicht ergangen ist.
 
 ## Übergangsbestimmungen der Änderung vom 28. Juni 2017
 
-[^u15-1]
+[^u14-1]
 
-[^u15-1]: [AS 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)Art. 2
+[^u14-1]: [AS 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)Art. 2
 
 Die neu gefassten Regeln 32 und 33 EPÜ gelten für europäische Patentanmeldungen, die beim Inkrafttreten des Beschlusses anhängig sind, und für europäische Patentanmeldungen, die nach diesem Zeitpunkt eingereicht werden.
 
 ## Übergangsbestimmungen der Änderung vom 29. Juni 2017
 
-[^u16-1]
+[^u15-1]
 
-[^u16-1]: [AS 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)Art. 3
+[^u15-1]: [AS 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)Art. 3
 
 Die neu gefassten Regeln 27 und 28 EPÜ sind anzuwenden auf ab diesem Datum eingereichte europäische Patentanmeldungen sowie auf zu diesem Zeitpunkt anhängige europäische Patentanmeldungen und europäische Patente.
 
 ## Übergangsbestimmungen der Änderung vom 5. Oktober 2017
 
-[^u17-1]
+[^u16-1]
 
-[^u17-1]: [AS 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)Art. 3
+[^u16-1]: [AS 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)Art. 3
 
 Die mit diesem Beschluss neu gefasste Regel 51 Absatz 1 EPÜ ist auf alle Anmeldungen anzuwenden, bei denen die Jahresgebühr ab dem 1. April 2018 entrichtet wird.
 
 ## Übergangsbestimmungen der Änderung vom 12. Dezember 2019
 
-[^u18-1]
+[^u17-1]
 
-[^u18-1]: [AS 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)Art. 2
+[^u17-1]: [AS 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 103 EPÜ gilt für Beschwerden, die bei Inkrafttreten des Beschlusses anhängig sind und für Beschwerden, die nach diesem Zeitpunkt eingelegt werden.
 
 ## Übergangsbestimmungen der Änderung vom 26. März 2020
 
-[^u19-1]
+[^u18-1]
 
-[^u19-1]: [AS 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)Art. 2
+[^u18-1]: [AS 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 142 Absatz 2 gilt für alle Ver-fahren, die an diesem Datum bereits unterbrochen sind oder ab diesem Datum unter-brochen werden.
 
 ## Übergangsbestimmungen der Änderung vom 15. Dezember 2020
 
-[^u20-1]
+[^u19-1]
 
-[^u20-1]: [AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)Art. 2
+[^u19-1]: [AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 19 EPÜ tritt am 1. April 2021 in Kraft. Die neu gefasste Regel 19 (1) EPÜ ist auf jede an oder nach diesem Tag eingereichte oder berichtigte Erfindernennung anzuwenden. Die neu gefasste Regel 19 (1) EPÜ ist auch auf jede an oder nach diesem Tag in die europäische Phase eintretende internationale Anmeldung anzuwenden.
 
 ## Übergangsbestimmungen der Änderung vom 15. Dezember 2020
 
-[^u21-1]
+[^u20-1]
 
-[^u21-1]: [AS 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)Art. 2
+[^u20-1]: [AS 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 143 EPÜ tritt am 1. November 2021 in Kraft. Sie ist auf alle an oder nach diesem Tag im Europäischen Patentregister veröffentlichten Patentanmeldungen anzuwenden.
 
 ## Übergangsbestimmungen der Änderung vom 7. September 2021
 
-[^u22-1]
+[^u21-1]
 
-[^u22-1]: [AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)Art. 3
+[^u21-1]: [AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)Art. 3
 
 Dieser Beschluss tritt am 1. November 2022 in Kraft.
 
@@ -2133,13 +2136,21 @@ Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 56 (2) und (3) und 135
 
 ## Übergangsbestimmungen der Änderung vom 12. Oktober 2022
 
-[^u23-1]
+[^u22-1]
 
-[^u23-1]: [AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)Art. 3
+[^u22-1]: [AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)Art. 3
 
 Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 46, 49, 50, 57 und 82 sind auf Unterlagen anzuwenden, die am oder nach dem 1. Februar 2023 beim Europäischen Patentamt eingereicht werden.
 
 Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 126, 127 und 131 sind auf Schriftstücke anzuwenden, die am oder nach dem 1. November 2023 vom Europäischen Patentamt zugestellt werden.
+
+## Übergangsbestimmungen der Änderung vom 14. Dezember 2023
+
+[^u23-1]
+
+[^u23-1]: [AS 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)Art. 2
+
+Die in Artikel 1 Absatz 7 dieses Beschlusses genannten Vorschriften gelten für alle europäischen Patentanmeldungen und Patente mit der Massgabe, dass die in der geänderten Regel 147 (3) EPÜ vorgesehene 5-jährige Aufbewahrungsdauer für die ursprüngliche Fassung von auf Datenträgern eingereichten Unterlagen unabhängig davon, wann eine Unterlage in die elektronische Akte aufgenommen wurde, nicht vor dem 31. Dezember 2024 endet.
 
 Geltungsbereich der Ausführungsordnung[^t-1]
 

@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2023-11-01
+version: 2024-04-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Traduzione
 
 Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-(Stato 1° novembre 2023)
+(Stato 1° aprile 2024)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -31,7 +31,9 @@ Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore
 
 ### **Regola 1**Procedura scritta
 
-Nella procedura scritta dinanzi all’Ufficio europeo dei brevetti, la condizione della forma scritta è adempiuta se il contenuto dei documenti è riproducibile su carta in forma leggibile.
+Nella procedura scritta dinanzi all’Ufficio europeo dei brevetti, la condizione della forma scritta è adempiuta se il contenuto dei documenti è riproducibile in forma leggibile.[^part1-chapI-lvlu1-1]
+
+[^part1-chapI-lvlu1-1]: Nuovo testo giusta l’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regola 2**Presentazione dei documenti; condizioni formali
 
@@ -281,11 +283,14 @@ Dal giorno in cui un terzo fornisce la prova di aver avviato una procedura nazio
 
 ### **Regola 22**Trascrizione di trasferimenti
 
-(1) Il trasferimento di una domanda di brevetto europeo è iscritto nel Registro europeo dei brevetti su richiesta di qualsivoglia parte interessata, a condizione che sia attestato con la consegna di documenti.
+(1) Il trasferimento di una domanda di brevetto europeo è iscritto nel Registro europeo dei brevetti su richiesta di qualsivoglia parte interessata, a condizione che sia attestato con la consegna di documenti. Le disposizioni della regola 2 paragrafo 2 sono applicabili alla firma delle parti contraenti.[^part2-chapIII-lvlu1-1]
 
-(2) La richiesta è considerata presentata soltanto ad avvenuto pagamento di una tassa amministrativa. Essa può essere respinta solo se le condizioni del paragrafo 1 non sono soddisfatte.
+(2) All’occorrenza per la trascrizione del trasferimento deve essere pagata una tassa amministrativa alle condizioni stabilite dal Presidente dell’Ufficio europeo dei brevetti. In questo caso la richiesta è considerata presentata soltanto ad avvenuto pagamento della tassa amministrativa. Essa può essere respinta solo se le condizioni del paragrafo 1 non sono soddisfatte.[^part2-chapIII-lvlu1-2]
 
 (3) Un trasferimento ha effetto nei confronti dell’Ufficio europeo dei brevetti solo a partire dal momento e nella misura in cui i documenti di cui al paragrafo 1 gli vengono consegnati.
+
+[^part2-chapIII-lvlu1-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^part2-chapIII-lvlu1-2]: Nuovo testo giusta l’art. 1 n. 3 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regola 23**Trascrizione di licenze e altri diritti
 
@@ -517,7 +522,7 @@ Se materiale biologico depositato conformemente alla regola 31 cessa di essere a
 
 - a) una istanza per la concessione di un brevetto europeo;
 - b) il titolo dell’invenzione, che deve dare una chiara e concisa designazione tecnica dell’invenzione e non deve contenere nessuna designazione di fantasia;
-- c) il nome, l’indirizzo, la cittadinanza, lo Stato del domicilio e della sede del richiedente. Per le persone fisiche il cognome deve precedere il nome. Le persone giuridiche e le società assimilate alle persone giuridiche a norma della legislazione che le disciplina devono essere nominate con la loro designazione ufficiale. Gli indirizzi devono essere indicati secondo un rapido recapito della corrispondenza all’indirizzo indicato e devono in ogni caso contenere tutte le indicazioni amministrative pertinenti, ivi compreso l’eventuale numero civico. È raccomandata l’indicazione del numero di fax e telefonico;
+- c)[^part3-chapII-lvlu1-1] il nome, l’indirizzo, la cittadinanza, lo Stato del domicilio e della sede del richiedente. Per le persone fisiche il cognome deve precedere il nome. Le persone giuridiche e le società assimilate alle persone giuridiche a norma della legislazione che le disciplina devono essere nominate con la loro designazione ufficiale. Gli indirizzi devono essere indicati secondo gli usuali requisiti per un rapido recapito della corrispondenza all’indirizzo indicato e devono in ogni caso contenere tutte le indicazioni amministrative pertinenti, ivi compreso l’eventuale numero civico. È raccomandata l’indicazione del numero telefonico;
 - d) se il richiedente ha nominato un mandatario, il nome e l’indirizzo professionale del medesimo indicati secondo le prescrizioni di cui alla lettera c);
 - e) se del caso, l’indicazione che si tratta di una domanda divisionale e il numero della domanda anteriore del brevetto europeo;
 - f) nel caso di cui all’articolo 61 paragrafo 1 lettera b), il numero della domanda originale di brevetto europeo;
@@ -527,6 +532,8 @@ Se materiale biologico depositato conformemente alla regola 31 cessa di essere a
 - j) la menzione dell’inventore, se questi è il richiedente.
 
 (3) Se vi sono più richiedenti, la richiesta deve contenere la designazione di un richiedente o di un mandatario quale rappresentante comune.
+
+[^part3-chapII-lvlu1-1]: Nuovo testo giusta l’art. 1 n. 4 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regola 42**Contenuto della descrizione
 
@@ -1665,11 +1672,12 @@ Salve le restrizioni previste dall’articolo 128, paragrafi 1–4 e dalla regol
 
 (2) Il presidente dell’Ufficio europeo dei brevetti stabilisce le modalità tecniche e amministrative richieste per la gestione degli inserti elettronici ai sensi del paragrafo 1.[^part7-chapIX-lvlu5-2]
 
-(3) I documenti assunti in un inserto elettronico sono considerati come originali. La versione cartacea depositata inizialmente di un tale documento è distrutta dopo un periodo minimo di cinque anni. Questo periodo di conservazione inizia allo scadere dell’anno nel corso del quale il documento è stato assunto nell’inserto elettronico.[^part7-chapIX-lvlu5-3]
+- (3)a) I documenti assunti in un inserto elettronico sono considerati come originali.
+- b) La versione di un tale documento depositata inizialmente in forma cartacea o su un supporto di dati è distrutta dopo un periodo minimo di cinque anni. Questo periodo di conservazione inizia allo scadere dell’anno nel corso del quale il documento è stato assunto nell’inserto elettronico.[^part7-chapIX-lvlu5-3]
 
 (4) Gli inserti sono conservati per almeno cinque anni a decorrere dallo scadere dell’anno nel corso del quale, secondo i casi:
 
-- a) la domanda è stata respinta, ritirata o considerata ritirata;
+- a)[^part7-chapIX-lvlu5-4] la domanda è stata respinta, ritirata o considerata ritirata;
 - b) il brevetto è stato revocato dall’Ufficio europeo dei brevetti o
 - c) il brevetto o la relativa protezione a norma dell’articolo 63 paragrafo 2 è scaduto nell’ultimo degli Stati designati.
 
@@ -1677,7 +1685,8 @@ Salve le restrizioni previste dall’articolo 128, paragrafi 1–4 e dalla regol
 
 [^part7-chapIX-lvlu5-1]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 14 ott. 2015, in vigore dal 1° nov. 2016 ([RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
 [^part7-chapIX-lvlu5-2]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 14 ott. 2015, in vigore dal 1° nov. 2016 ([RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
-[^part7-chapIX-lvlu5-3]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 14 ott. 2015, in vigore dal 1° nov. 2016 ([RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part7-chapIX-lvlu5-3]: Nuovo testo giusta l’art. 1 n. 7 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part7-chapIX-lvlu5-4]: Nuovo testo giusta l’art. 1 n. 4 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### Capitolo X: Assistenza giudiziaria e amministrativa
 
@@ -1725,11 +1734,11 @@ Salve le restrizioni previste dall’articolo 128, paragrafi 1–4 e dalla regol
 
 (1) Il Presidente dell’Ufficio europeo dei brevetti stabilisce in quali casi i mandatari debbano depositare una procura firmata dinanzi all’Ufficio europeo dei brevetti.
 
-(2) Se un rappresentante non deposita tale procura, l’Ufficio europeo dei brevetti lo invita a rimediare all’omissione entro un termine da stabilire. La procura è conferita sia per una o più domande di brevetto europeo, sia per uno o più brevetti. Se la procura è conferita per più domande di brevetto o per più brevetti, deve essere presentata in altrettanti esemplari.
+(2) Se un rappresentante non deposita tale procura, l’Ufficio europeo dei brevetti lo invita a rimediare all’omissione entro un termine da stabilire. La procura è conferita sia per una o più domande di brevetto europeo, sia per uno o più brevetti. [^part7-chapXI-lvlu2-1]
 
 (3) Se le esigenze dell’articolo 133 paragrafo 2 non sono soddisfatte, lo stesso termine è assegnato per la nomina di un mandatario e per il deposito della procura.
 
-(4) Ogni persona può conferire una procura generale che autorizza un mandatario a rappresentarla per tutti gli affari concernenti il brevetto. Questa procura può essere depositata in un solo esemplare.
+(4) Ogni persona può conferire una procura generale che autorizza un mandatario a rappresentarla per tutti gli affari concernenti il brevetto.[^part7-chapXI-lvlu2-2]
 
 (5) Il Presidente dell’Ufficio europeo dei brevetti può prescrivere la forma e il contenuto:
 
@@ -1747,6 +1756,9 @@ Salve le restrizioni previste dall’articolo 128, paragrafi 1–4 e dalla regol
 (10) Se una persona designa più mandatari, questi possono agire, malgrado qualsiasi disposizione contraria della comunicazione della loro nomina o della procura, sia congiuntamente, sia separatamente.
 
 (11) La designazione di un gruppo di mandatari conferisce la capacità d’agire a ogni mandatario che può dimostrare di far parte del gruppo stesso.
+
+[^part7-chapXI-lvlu2-1]: Nuovo testo giusta l’art. 1 n. 8 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^part7-chapXI-lvlu2-2]: Nuovo testo giusta l’art. 1 n. 9 della Dec. del Consiglio d’amministrazione del 14 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 ### **Regola 153**Diritto di non deporre
 
@@ -2043,95 +2055,95 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 La disposizione di cui all’articolo 1 della presente decisione si applica a tutti i brevetti europei per i quali, il giorno dell’entrata in vigore di tale disposizione o dopo tale data, nell’ambito della procedura orale è presa una decisione secondo l’articolo 106 paragrafo 2 o secondo l’articolo 111 paragrafo 2 CBE.
 
-## Disposizioni transitorie della modifica del 14 ottobre 2015
+## Disposizioni transitorie della modifica del 14 dicembre 2016
 
 [^u13-1]
 
-[^u13-1]: [RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)art. 2 par. 2
-
-Le disposizioni di cui all’articolo 1 della presente decisione si applicano a tutte le domande di brevetto europeo e a tutti i brevetti europei, purché il periodo di conservazione di cinque anni previsto alla regola 147(3) CBE non scada prima del 31 dicembre 2018, a prescindere dalla data in cui il documento è stato assunto nell’inserto elettronico.
-
-## Disposizioni transitorie della modifica del 14 dicembre 2016
-
-[^u14-1]
-
-[^u14-1]: [RU 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
+[^u13-1]: [RU 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
 
 La regola 162 (2) CBE nel nuovo tenore modificato dall'articolo 1 si applica a tutte le domande di brevetto euro-PCT per cui alla data di entrata in vigore non è stata emessa alcuna notificazione secondo le regole 161 e 162.
 
 ## Disposizioni transitorie della modifica del 28 giugno 2017
 
-[^u15-1]
+[^u14-1]
 
-[^u15-1]: [RU 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
+[^u14-1]: [RU 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
 
 Le regole 32 e 33 CBE nel nuovo tenore modificato dall’articolo 1 della presente decisione si applicano alle domande di brevetto europeo pendenti alla data di entrata in vigore della presente decisione e alle domande di brevetto europeo depositate dopo questa data.
 
 ## Disposizioni transitorie della modifica del 29 giugno 2017
 
-[^u16-1]
+[^u15-1]
 
-[^u16-1]: [RU 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
+[^u15-1]: [RU 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
 
 Le regole 27 e 28 CBE nel nuovo tenore secondo gli articoli 1 e 2 della presente decisione si applicano alle domande di brevetto europeo depositate a partire da questa data come anche ai brevetti europei e alle domande di brevetto europeo pendenti a questa data.
 
 ## Disposizioni transitorie della modifica del 5 ottobre 2017
 
-[^u17-1]
+[^u16-1]
 
-[^u17-1]: [RU 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
+[^u16-1]: [RU 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
 
 La regola 51 (1) CBE come modificata dall'articolo 1 della presente decisione si applica a tutte le domande per cui la tassa annuale è pagata a partire dal 1° aprile 2018.
 
 ## Disposizioni transitorie della modifica del 12 dicembre 2019
 
-[^u18-1]
+[^u17-1]
 
-[^u18-1]: [RU 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
+[^u17-1]: [RU 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
 
 La regola 103 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione si applica ai ricorsi in sospeso al momento dell’entrata in vigore della presente decisione nonché a quelli presentati dopo l’entrata in vigore della presente decisione.
 
 ## Disposizioni transitorie della modifica del 26 marzo 2020
 
-[^u19-1]
+[^u18-1]
 
-[^u19-1]: [RU 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
+[^u18-1]: [RU 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
 
 La regola 142 paragrafo 2 modificata dall’articolo 1 della presente decisione si applica a tutte le procedure già interrotte in tale data o interrotte a partire da tale data.
 
 ## Disposizioni transitorie della modifica del 15 dicembre 2020
 
-[^u20-1]
+[^u19-1]
 
-[^u20-1]: [RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
+[^u19-1]: [RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
 
 La regola 19 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° aprile 2021. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica a tutte le menzioni dell’inventore presentate o rettificate a quella data o a decorrere da quella data. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica altresì a tutte le domande internazionali che entrano nella fase europea a quella data o a decorrere da quella data.
 
 ## Disposizioni transitorie della modifica del 15 dicembre 2020
 
-[^u21-1]
+[^u20-1]
 
-[^u21-1]: [RU 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)art. 2
+[^u20-1]: [RU 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)art. 2
 
 La regola 143 CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° novembre 2021. Si applica a tutte le domande di brevetto pubblicate nel Registro europeo dei brevetti a quella data o a decorrere da quella data.
 
 ## Disposizioni transitorie della modifica del 7 settembre 2021
 
-[^u22-1]
+[^u21-1]
 
-[^u22-1]: [RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
+[^u21-1]: [RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
 
 Le nuove regole 56 (2) e (3) e 135 (2) CBE come modificate dall’articolo 1 della presente decisione e la nuova regola 56a CBE introdotta dall’articolo 1 della presente decisione sono applicabili a tutte le domande presentate a partire da tale data.
 
 ## Disposizioni transitorie della modifica del 12 ottobre 2022
 
-[^u23-1]
+[^u22-1]
 
-[^u23-1]: [RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
+[^u22-1]: [RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
 
 Le nuove regole 46, 49, 50, 57 e 82 come modificate dall’articolo 1 della presente decisione si applicano a tutti i documenti presentati all’Ufficio europeo dei brevetti a decorrere dal 1° febbraio 2023.
 
 Le regole 126, 127 e 131 come modificate dall’articolo 1 della presente decisione si applicano a tutti i documenti consegnati all’Ufficio europeo dei brevetti a decorrere dal 1° novembre 2023.
+
+## Disposizioni transitorie della modifica del 14 dicembre 2023
+
+[^u23-1]
+
+[^u23-1]: [RU 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)art. 2
+
+Le disposizioni di cui all’articolo 1 paragrafo 7 della presente decisione si applicano a tutte le domande di brevetto europeo e a tutti i brevetti europei, purché il periodo di conservazione di cinque anni previsto alla regola modificata 147 (3) CBE per la versione dei documenti depositata inizialmente su supporti di dati non scada prima del 31 dicembre 2024, a prescindere dalla data in cui il documento è stato assunto nell’inserto elettronico.
 
 Campo d’applicazione del Regolamento d’esecuzione[^t-1]
 

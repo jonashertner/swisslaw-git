@@ -4,11 +4,11 @@ title: "Règlement d'exécution du 7 décembre 2006 de la convention sur le brev
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: fr
-version: 2023-11-01
+version: 2024-04-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,7 @@ Approuvé par le Conseil d’administration le 7 décembre 2006
 
 Entré en vigueur pour la Suisse le 13 décembre 2007
 
-(État le 1<sup>er</sup> novembre 2023)
+(État le 1<sup>er</sup> avril 2024)
 
 ## Partie I Dispositions générales et institutionnelles
 
@@ -35,7 +35,9 @@ Entré en vigueur pour la Suisse le 13 décembre 2007
 
 **Procédure écrite**
 
-Dans la procédure écrite devant l’Office européen des brevets, il est satisfait à l’exigence relative à l’utilisation de la forme écrite si le contenu des documents peut être reproduit lisiblement sur papier.
+Dans la procédure écrite devant l’Office européen des brevets, il est satisfait à l’exigence relative à l’utilisation de la forme écrite si le contenu des documents peut être reproduit lisiblement.[^1-1]
+
+[^1-1]: Nouvelle teneur selon l’art. 1 par. 1 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 #### Règle 2
 
@@ -295,11 +297,11 @@ La personne qui a droit à l’obtention du brevet européen ne peut faire usage
 
 **Désignation de l’inventeur**
 
-<sup>(1)</sup> La désignation de l’inventeur doit être effectuée dans la requête en délivrance du brevet européen. Toutefois, si le demandeur n’est pas l’inventeur ou l’unique inventeur, cette désignation doit être effectuée dans un document produit séparément. Elle doit comporter les nom et prénoms de l’inventeur, ainsi que le pays et le lieu de son domicile, la déclaration visée à l’art. 81 et la signature du demandeur ou celle de son mandataire. [^19-1]
+<sup>(1)</sup> La désignation de l’inventeur doit être effectuée dans la requête en délivrance du brevet européen. Toutefois, si le demandeur n’est pas l’inventeur ou l’unique inventeur, cette désignation doit être effectuée dans un document produit séparément. Elle doit comporter les nom et prénoms de l’inventeur, ainsi que le pays et le lieu de son domicile, la déclaration visée à l’art. 81 et la signature du demandeur ou celle de son mandataire.[^19-1]
 
 <sup>(2)</sup> L’Office européen des brevets ne contrôle pas l’exactitude de la désignation de l’inventeur.
 
-<sup>(3)</sup> et (4)[^19-2]
+<sup>(3)</sup> et (4) …[^19-2]
 
 [^19-1]: Nouvelle teneur selon l’art. 1 ch. 1 de la D du Conseil d’administration du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^19-2]: Abrogés par l’art. 1 ch. 1 de la D du Conseil d’administration du 15 déc. 2020, avec effet au 1 <sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)).
@@ -326,11 +328,14 @@ La personne qui a droit à l’obtention du brevet européen ne peut faire usage
 
 **Inscription des transferts**
 
-<sup>(1)</sup> Le transfert d’une demande de brevet européen est inscrit au Registre européen des brevets à la requête de toute partie intéressée, sur production de documents prouvant ce transfert.
+<sup>(1)</sup> Le transfert d’une demande de brevet européen est inscrit au Registre européen des brevets à la requête de toute partie intéressée, sur production de documents prouvant ce transfert. La règle 2, paragraphe 2, est applicable à la signature des parties au contrat.[^22-1]
 
-<sup>(2)</sup> La requête n’est réputée présentée qu’après le paiement d’une taxe d’administration. Elle ne peut être rejetée que s’il n’a pas été satisfait aux dispositions du par. 1.
+<sup>(2)</sup> L’inscription du transfert peut donner lieu au paiement d’une taxe d’administration dans les conditions définies par le Président de l’Office européen des brevets. Lorsqu’une taxe est exigible, la requête n’est réputée présentée qu’après le paiement de la taxe d’administration. La requête ne peut être rejetée que s’il n’a pas été satisfait aux dispositions du paragraphe 1.[^22-2]
 
 <sup>(3)</sup> Un transfert n’a d’effet à l’égard de l’Office européen des brevets que dans la mesure où les documents visés au par. 1 lui ont été fournis et à partir de la date à laquelle ils ont été produits.
+
+[^22-1]: Nouvelle teneur selon l’art. 1 par. 2 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^22-2]: Nouvelle teneur selon l’art. 1 par. 3 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 #### Règle 23
 
@@ -605,8 +610,8 @@ La requête doit:
 
 - a) contenir une demande en vue de la délivrance d’un brevet européen;
 - b) contenir le titre de l’invention, qui doit faire apparaître de manière claire et concise la désignation technique de l’invention et ne comporter aucune dénomination de fantaisie;
-- c) indiquer le nom, l’adresse, la nationalité ainsi que l’État du domicile ou du siège du demandeur. Les personnes physiques doivent être désignées par leurs noms suivis de leurs prénoms. Les personnes morales et les sociétés assimilées aux personnes morales en vertu du droit dont elles relèvent doivent figurer sous leur désignation officielle. Les adresses doivent être indiquées selon les exigences usuelles en vue d’une distribution postale rapide à l’adresse indiquée et comporter en tout état de cause toutes les indications administratives pertinentes, y compris, le cas échéant, le numéro de la maison. Il est recommandé d’indiquer les numéros de télécopie et de téléphone;
-- d) indiquer, si le demandeur a constitué un mandataire, le nom et l’adresse professionnelle de ce dernier, dans les conditions prévues à la let. c);
+- c)[^41-1] indiquer le nom, l’adresse, la nationalité ainsi que l’État du domicile ou du siège du demandeur. Les personnes physiques doivent être désignées par leurs noms suivis de leurs prénoms. Les personnes morales et les sociétés assimilées aux personnes morales en vertu du droit dont elles relèvent doivent figurer sous leur désignation officielle. Les adresses doivent être indiquées selon les exigences usuelles en vue d’une distribution postale rapide à l’adresse indiquée et comporter en tout état de cause toutes les indications administratives pertinentes, y compris, le cas échéant, le numéro de la maison. Il est recommandé d’indiquer les numéros de téléphone;
+- d)[^41-2] indiquer le nom et l’adresse professionnelle du mandataire dans les conditions prévues à la lettre c), si le demandeur a constitué un mandataire;
 - e) le cas échéant, préciser que la demande constitue une demande divisionnaire et indiquer le numéro de la demande antérieure de brevet européen;
 - f) indiquer, dans le cas prévu à l’art. 61, par. 1 b), le numéro de la demande initiale de brevet européen;
 - g) contenir, si la priorité d’une demande antérieure est revendiquée, une déclaration à cet effet qui mentionne la date de cette demande et l’État dans lequel ou pour lequel elle a été déposée;
@@ -615,6 +620,9 @@ La requête doit:
 - j) comporter la désignation de l’inventeur, si celui‑ci est le demandeur.
 
 <sup>(3)</sup> En cas de pluralité de demandeurs, la requête doit, de préférence, contenir la désignation d’un demandeur ou d’un mandataire comme représentant commun.
+
+[^41-1]: Nouvelle teneur selon l’art. 1 par. 4 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^41-2]: Nouvelle teneur selon l’art. 1 par. 5 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 #### Règle 42
 
@@ -1985,7 +1993,9 @@ Sous réserve des restrictions prévues à l’art. 128, par. 1 à 4, et à la r
 
 <sup>(2)</sup> Le Président de l’Office européen des brevets arrête toutes les modalités techniques et administratives nécessaires à la gestion des dossiers électroniques, telle que prévue au par. 1.[^147-2]
 
-<sup>(3)</sup> Les documents incorporés dans un dossier électronique sont considérés comme des originaux. La version initialement produite sur papier d’un tel document ne sera détruite qu’après l’expiration d’une période d’au moins cinq années. Ce délai de conservation commence à courir à compter de l’expiration de l’année au cours de laquelle le document a été incorporé dans le dossier électronique.[^147-3]
+<sup>(3)</sup> a) Les documents incorporés dans un dossier électronique sont considérés comme des originaux.
+
+- b) La version d’un tel document initialement produite sur papier ou sur un support de données électronique ne sera détruite qu’après l’expiration d’une période d’au moins cinq années. Ce délai de conservation commence à courir à compter de l’expiration de l’année au cours de laquelle le document a été incorporé dans le dossier électronique.[^147-3]
 
 <sup>(4)</sup>
 
@@ -1999,7 +2009,7 @@ Les dossiers sont conservés pendant cinq années au moins après l’expiration
 
 [^147-1]: Nouvelle teneur selon l’art. 1 de la D du Conseil d’administration du 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
 [^147-2]: Nouvelle teneur selon l’art. 1 de la D du Conseil d’administration du 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)).
-[^147-3]: Nouvelle teneur selon l’art. 1 de la D du Conseil d’administration du 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)). Voir aussi la disp. trans. à la fin du texte.
+[^147-3]: Nouvelle teneur selon l’art. 1 par. 7 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 ### Chapitre X Assistance judiciaire et administrative
 
@@ -2057,11 +2067,11 @@ Les dossiers sont conservés pendant cinq années au moins après l’expiration
 
 <sup>(1)</sup> Le Président de l’Office européen des brevets détermine les cas dans lesquels les mandataires agissant devant l’Office européen des brevets doivent déposer un pouvoir signé.
 
-<sup>(2)</sup> Lorsqu’un mandataire ne dépose pas un tel pouvoir, l’Office européen des brevets l’invite à y remédier dans un délai qu’il lui impartit. Si le pouvoir est donné pour plusieurs demandes de brevet européen ou pour plusieurs brevets européens, il doit en être fourni un nombre correspondant d’exemplaires.
+<sup>(2)</sup> Lorsqu’un mandataire ne dépose pas un tel pouvoir, l’Office européen des brevets l’invite à y remédier dans un délai qu’il lui impartit. Le pouvoir peut être donné pour plusieurs demandes de brevet européen ou pour plusieurs brevets européens.[^152-1]
 
 <sup>(3)</sup> S’il n’est pas satisfait aux exigences de l’art. 133, par. 2, le même délai est imparti pour la constitution d’un mandataire et pour le dépôt du pouvoir.
 
-<sup>(4)</sup> Toute partie peut donner un pouvoir général autorisant un mandataire à la représenter pour toutes les affaires de brevet la concernant. Ce pouvoir peut n’être déposé qu’en un exemplaire.
+<sup>(4)</sup> Toute partie peut donner un pouvoir général autorisant un mandataire à la représenter pour toutes les affaires de brevet la concernant.[^152-2]
 
 <sup>(5)</sup>
 
@@ -2081,6 +2091,9 @@ Le Président de l’Office européen des brevets peut prescrire la forme et le 
 <sup>(10)</sup> Si une partie désigne plusieurs mandataires, ceux‑ci, nonobstant toute disposition contraire de l’avis de leur constitution ou du pouvoir, peuvent agir soit en commun, soit séparément.
 
 <sup>(11)</sup> La désignation d’un groupement de mandataires est réputée conférer pouvoir d’agir à tout mandataire qui peut prouver qu’il exerce au sein du groupement.
+
+[^152-1]: Nouvelle teneur selon l’art. 1 par. 8 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
+[^152-2]: Nouvelle teneur selon l’art. 1 par. 9 de la D du Conseil d’administration du 14 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)).
 
 #### Règle 153
 
@@ -2404,95 +2417,95 @@ Les règles 161 et 162 CBE telles que modifiées par l’article premier de la p
 
 Les dispositions énoncées à l’art. 1 de la présente décision s’appliquent à tous les brevets européens pour lesquels une décision est prise au titre de l’art. 106, par. 2, ou de l’art. 111, par. 2 CBE lors d’une procédure orale à compter de leur date d’entrée en vigueur.
 
-## Disposition transitoire de la modification du 14 octobre 2015
+## Disposition transitoire de la modification du 14 décembre 2016
 
 [^u13-1]
 
-[^u13-1]: [RO 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)art. 2 al. 2
-
-Les dispositions figurant à l’art. 1 de la présente décision s’appliquent à toutes les demandes de brevet européen et à tous les brevets européens, sous réserve que le délai de conservation de cinq années prévu à la règle 147 (3) CBE n’expire pas avant le 31 décembre 2018, quelle que soit la date à laquelle le document a été incorporé dans le dossier électronique.
-
-## Disposition transitoire de la modification du 14 décembre 2016
-
-[^u14-1]
-
-[^u14-1]: [RO 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
+[^u13-1]: [RO 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
 
 La règle 162(2) CBE, telle que modifiée par l’art. 1 de la présente décision, s’applique à toute demande euro-PCT pour laquelle la notification au titre des règles 161 et 162 CBE n’a pas été émise à la date d’entrée en vigueur.
 
 ## Disposition transitoire de la modification du 28 juin 2017
 
-[^u15-1]
+[^u14-1]
 
-[^u15-1]: [RO 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
+[^u14-1]: [RO 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
 
 Les règles 32 et 33 CBE telles que modifiées à l’art. 1 de la présente décision s’appliquent aux demandes de brevet européen en instance à la date d’entrée en vigueur de la décision et aux demandes de brevet européen déposées après cette date.
 
 ## Disposition transitoire de la modification du 29 juin 2017
 
-[^u16-1]
+[^u15-1]
 
-[^u16-1]: [RO 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
+[^u15-1]: [RO 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
 
 Les règles 27 et 28 CBE, telles que modifiées par l’art. 1 et l’art. 2 de la présente décision, s’appliquent aux demandes de brevet européen déposées à compter de cette date, ainsi qu’aux brevets européens et aux demandes de brevet européen en instance à cette date.
 
 ## Disposition transitoire de la modification du 5 octobre 2017
 
-[^u17-1]
+[^u16-1]
 
-[^u17-1]: [RO 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
+[^u16-1]: [RO 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
 
 La règle 51, par. 1 CBE, telle que modifiée par l’article premier de la présente décision, s’applique à toutes les demandes pour lesquelles la taxe annuelle est acquittée à compter du 1<sup>er</sup> avril 2018.
 
 ## Dispositions transitoires de la modification du 12 décembre 2019
 
-[^u18-1]
+[^u17-1]
 
-[^u18-1]: [RO 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
+[^u17-1]: [RO 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
 
 La règle 103 CBE telle que modifiée à l’article premier de la présente décision s’applique aux recours en instance à la date d’entrée en vigueur de la décision ainsi qu’aux recours formés après cette date.
 
 ## Dispositions transitoires de la modification du 26 mars 2020
 
-[^u19-1]
+[^u18-1]
 
-[^u19-1]: [RO 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
+[^u18-1]: [RO 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
 
 La règle 142, par. 2, telle que modifiée par l’article premier de la présente décision, s’applique à toutes les procédures qui sont déjà interrompues à cette date ou qui seront interrompues à compter de cette date.
 
 ## Dispositions transitoires de la modification du 15 décembre 2020
 
-[^u20-1]
+[^u19-1]
 
-[^u20-1]: [RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
+[^u19-1]: [RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
 
 La règle 19(1) CBE telle que modifiée s’applique à toute désignation de l’inventeur déposée ou rectifiée à compter de cette date. La règle 19(1) CBE telle que modifiée s’applique également à toute demande internationale entrant dans la phase européenne à compter de cette date.
 
 ## Dispositions transitoires de la modification du 15 décembre 2020
 
-[^u21-1]
+[^u20-1]
 
-[^u21-1]: [RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)art. 2
+[^u20-1]: [RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)art. 2
 
 La règle 143 CBE telle que modifiée à l’art. 1 de la présente décision entre en vigueur le 1<sup>er</sup> novembre 2021. Elle s’applique à toutes les demandes de brevet publiées au Registre européen des brevets à compter de cette date.
 
 ## Dispositions transitoires de la modification du 7 septembre 2021
 
-[^u22-1]
+[^u21-1]
 
-[^u22-1]: [RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
+[^u21-1]: [RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
 
 Les règles 56 (2) et (3) et 135 (2) CBE, telles que modifiées, et la règle 56<sup>bis</sup> CBE telle qu’insérée en vertu de l’article premier de la présente décision s’appliquent à toutes les demandes de brevet déposées à compter de cette date.
 
 ## Dispositions transitoires de la modification du 12 octobre 2022
 
-[^u23-1]
+[^u22-1]
 
-[^u23-1]: [RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
+[^u22-1]: [RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
 
 Les règles 46, 49, 50, 57 et 82 telles que modifiées par l’article premier de la présente décision s’appliquent aux documents déposés auprès de l’Office européen des brevets à compter du 1<sup>er</sup> février 2023.
 
 Les règles 126, 127 et 131 telles que modifiées par l’article premier de la présente décision s’appliquent aux pièces signifiées par l’Office européen des brevets à compter du 1<sup>er</sup> novembre 2023.
+
+## Dispositions transitoires de la modification du 14 décembre 2023
+
+[^u23-1]
+
+[^u23-1]: [RO 2024 146](https://fedlex.data.admin.ch/eli/oc/2024/146)art. 2
+
+Les dispositions figurant à l’article premier, point 7 de la présente décision s’appliquent à toutes les demandes de brevet européen et à tous les brevets européens, sous réserve que le délai de conservation de cinq années prévu à la règle 147 (3) CBE, telle que modifiée, pour la version des documents initialement produite sur des supports de données électroniques n’expire pas avant le 31 décembre 2024, quelle que soit la date à laquelle le document a été incorporé dans le dossier électronique.
 
 Champ d’application du Règlement d’exécution[^t-1]
 
