@@ -3,18 +3,18 @@ sr: "901.0"
 title: Bundesgesetz vom 6. Oktober 2006 über Regionalpolitik
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/136"
 language: de
-version: 2013-01-01
+version: 2024-04-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2007-136-20130101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-136-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Regionalpolitik
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2013)
+vom 6. Oktober 2006 (Stand am 1. April 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -107,11 +107,11 @@ Mit Finanzhilfen kann die schweizerische Beteiligung an Programmen, Projekten un
 
 #### Art. 7
 
-**Darlehen für Infrastrukturvorhaben**
+**Darlehen und A-Fonds-perdu-Beiträge für Infrastrukturvorhaben[^7-1]**
 
 <sup>1</sup>
 
-Der Bund kann zinsgünstige oder zinslose Darlehen für die Finanzierung von Infrastrukturvorhaben gewähren, soweit diese:
+Der Bund kann zinsgünstige oder zinslose Darlehen für die Finanzierung von Infrastrukturvorhaben sowie A-Fonds-perdu-Beiträge für die Finanzierung von kleinen Infrastrukturvorhaben gewähren, soweit diese:[^7-2]
 
 - a. in einem direkten Zusammenhang mit der Realisierung und der Weiterführung von Vorhaben nach Artikel 4 stehen;
 - b. Bestandteil eines Wertschöpfungssystems sindund zu dessen Stärkung beitragen; oder
@@ -119,11 +119,18 @@ Der Bund kann zinsgünstige oder zinslose Darlehen für die Finanzierung von Inf
 
 <sup>2</sup>
 
-Diese Darlehen können nur für Infrastrukturvorhaben gewährt werden:
+Die Darlehen und A-Fonds-perdu-Beiträge nach Absatz 1 können nur für Infrastrukturvorhaben gewährt werden:[^7-3]
 
 - a. deren Nutzen zum grössten Teil in Regionen anfällt, die mehrheitlich spezifische Entwicklungsprobleme und Entwicklungsmöglichkeiten des Berggebietes und des weiteren ländlichen Raumes aufweisen;
 - b. an deren Finanzierung sich der Kanton mindestens gleichwertig beteiligt; und
 - c. die der Bund nicht schon auf andere Weise unterstützt.
+
+<sup>3</sup> Der Bundesrat legt die Kriterien für die Gewährung und den Höchstbetrag der A‑Fonds-perdu-Beiträge unter Berücksichtigung der Teuerung fest.[^7-4]
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
+[^7-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
+[^7-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
+[^7-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
 
 #### Art. 8
 
@@ -139,13 +146,16 @@ Diese Darlehen können nur für Infrastrukturvorhaben gewährt werden:
 
 **Allgemeine Voraussetzungen und Bedingungen**
 
-<sup>1</sup> Alle Empfängerinnen und Empfänger von Finanzhilfen nach den Artikeln 4–6 und von Darlehen nach Artikel 7 haben sich angemessen mit eigenen Mitteln am Vorhaben zu beteiligen.
+<sup>1</sup> Alle Empfängerinnen und Empfänger von Finanzhilfen nach den Artikeln 4–7 haben sich angemessen mit eigenen Mitteln am Vorhaben zu beteiligen.[^9-1]
 
 <sup>2</sup> Sie ergreifen geeignete Massnahmen zur Überwachung der Realisierung und zur Evaluation der geförderten Vorhaben.
 
 <sup>3</sup> Den Zielen der raumrelevanten Sektoralpolitiken des Bundes und der Raumplanung ist soweit möglich Rechnung zu tragen.
 
-<sup>4</sup> Die Finanzhilfen und die Darlehen können im Einzelfall von weiteren Bedingungen abhängig gemacht oder mit weiteren Auflagen verknüpft werden.
+<sup>4</sup> Die Finanzhilfen können im Einzelfall von weiteren Bedingungen abhängig gemacht oder mit weiteren Auflagen verknüpft werden.[^9-2]
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
 
 #### Art. 10
 
@@ -155,11 +165,13 @@ Der Bundesrat legt zusammen mit den Kantonen das Gebiet fest, welches mehrheitli
 
 #### Art. 11
 
-**Ausrichtung der Finanzhilfen und Darlehen**
+**Ausrichtung der Finanzhilfen**[^11-1]
 
-<sup>1</sup> Die Finanzhilfen nach den Artikeln 4–6 und die Darlehen nach Artikel 7 werden auf der Grundlage von Programmvereinbarungen in Form von Pauschalbeträgen ausgerichtet.
+<sup>1</sup> Die Finanzhilfen nach den Artikeln 4–7 werden auf der Grundlage von Programmvereinbarungen in Form von Pauschalbeträgen ausgerichtet.
 
-<sup>2</sup> Die Höhe der Finanzhilfen und Darlehen richtet sich nach der Gesamtwirkung der Programme und Massnahmen.
+<sup>2</sup> Die Höhe der Finanzhilfen richtet sich nach der Gesamtwirkung der Programme und Massnahmen.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
 
 #### Art. 12
 
@@ -215,7 +227,9 @@ Die Bundesversammlung legt in einem Mehrjahresprogramm fest:
 
 <sup>2</sup> Sie stellen zusammen mit den Entwicklungsträgern und den regionalen Geschäftsstellen oder anderen regionalen Akteuren die Koordination der regions- und kantonsübergreifenden sowie der grenzüberschreitenden Vorhaben sicher.
 
-<sup>3</sup> Sie entscheiden im Rahmen der verfügbaren Mittel, für welche Vorhaben Finanzhilfen oder Darlehen gewährt werden.
+<sup>3</sup> Sie entscheiden im Rahmen der verfügbaren Mittel, für welche Vorhaben Finanzhilfen gewährt werden.[^15-1]
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. April 2024 ([AS 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); BBl**2023** 664).
 
 #### Art. 16
 
@@ -269,7 +283,7 @@ Der Bundesrat entscheidet, wie die Zusammenarbeit mit den Kantonen, dem Berggebi
 
 <sup>3</sup> Die Fondsentnahmen und Darlehenskonditionen sind unter Berücksichtigung der Verluste aus laufenden Darlehen, den Zinserträgen und der Teuerung festzulegen. Soweit möglich ist eine längerfristige Werterhaltung des Fonds anzustreben.
 
-[^21-1]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995), [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29)[187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9, [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63)[2504](https://fedlex.data.admin.ch/eli/oc/2002/333),[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46), [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122 [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
+[^21-1]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333);[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
 
 #### Art. 22
 
@@ -303,10 +317,10 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 <sup>3</sup> Die Auszahlung der Verpflichtungen, welche gestützt auf das IHG, das Bundesgesetz vom 8. Oktober 1999[^25-2] über die Förderung der schweizerischen Beteiligung an die Gemeinschaftsinitiative für grenzüberschreitende, transnationale und interregionale Zusammenarbeit (INTERREG III) in den Jahren 2000–2006, den Bundesbeschluss vom 21. März 1997[^25-3] über die Unterstützung des Strukturwandels im ländlichen Raum und den Artikel 6*a* des Bundesbeschlusses vom 6. Oktober 1995[^25-4] zugunsten wirtschaftlicher Erneuerungsgebiete vom Bund eingegangen wurden, wird nach Inkrafttreten dieses Gesetzes durch den Fonds für Regionalentwicklung sichergestellt.
 
-[^25-1]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995), [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29)[187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9, [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63)[2504](https://fedlex.data.admin.ch/eli/oc/2002/333),[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46), [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122 [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
-[^25-2]: [[AS 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101), [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
-[^25-3]: [[AS 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 11, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 124 [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
-[^25-4]: [[AS 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
+[^25-1]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333);[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
+[^25-2]: [[AS 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101); [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
+[^25-3]: [[AS 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 11; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 124, [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
+[^25-4]: [[AS 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918); [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 144, [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
 
 #### Art. 26
 
@@ -340,8 +354,8 @@ II
 
 …[^annexu1-lvlu1-5]
 
-[^annexu1-lvlu1-1]: [[AS 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101), [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
-[^annexu1-lvlu1-2]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995), [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29)[187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9, [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63)[2504](https://fedlex.data.admin.ch/eli/oc/2002/333),[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46), [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122 [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
-[^annexu1-lvlu1-3]: [[AS 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 11, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 124 [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
-[^annexu1-lvlu1-4]: [[AS 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
+[^annexu1-lvlu1-1]: [[AS 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101); [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
+[^annexu1-lvlu1-2]: [[AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333);[2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)Art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)Art. 1]
+[^annexu1-lvlu1-3]: [[AS 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 11; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 124, [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
+[^annexu1-lvlu1-4]: [[AS 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918); [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 144, [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
 [^annexu1-lvlu1-5]: Die Änderung kann unter [AS 2007 681](https://fedlex.data.admin.ch/eli/oc/2007/136)konsultiert werden.

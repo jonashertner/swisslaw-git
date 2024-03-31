@@ -3,18 +3,18 @@ sr: "901.0"
 title: Loi fédérale du 6 octobre 2006 sur la politique régionale
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/136"
 language: fr
-version: 2013-01-01
+version: 2024-04-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-136-20130101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-136-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la politique régionale
 
-du 6 octobre 2006 (Etat le 1<sup>er</sup> janvier 2013)
+du 6 octobre 2006 (État le 1<sup>er</sup> avril 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -107,11 +107,11 @@ Des aides financières peuvent être octroyées pour la participation suisse aux
 
 #### Art. 7
 
-**Prêts destinés aux projets d’infrastructure**
+**Prêts et contributions à fonds perdu destinés aux projets d’infrastructure[^7-1]**
 
 <sup>1</sup>
 
-La Confédération peut octroyer des prêts à taux d’intérêt favorable ou sans intérêts pour financer des projets d’infrastructure, pour autant que ces projets remplissent l’une des conditions suivantes:
+La Confédération peut octroyer des prêts à taux d’intérêt favorable ou sans intérêts pour financer des projets d’infrastructure ainsi que des contributions à fonds perdu pour financer des petits projets d’infrastructure, pour autant que ces projets remplissent l’une des conditions suivantes:[^7-2]
 
 - a. ils sont en relation directe avec la réalisation et la poursuite de projets au sens de l’art. 4;
 - b. ils font partie d’un système de valeur ajoutée qu’ils contribuent à renforcer;
@@ -119,11 +119,18 @@ La Confédération peut octroyer des prêts à taux d’intérêt favorable ou s
 
 <sup>2</sup>
 
-Les prêts ne peuvent être accordés qu’à des projets d’infrastructure:
+Les prêts et les contributions à fonds perdu au sens de l’al. 1 ne peuvent être accordés qu’à des projets d’infrastructure:[^7-3]
 
 - a. qui bénéficient en majeure partie à des régions qui présentent essentiellement les problèmes et les possibilités de développement spécifiques aux régions de montagne et au milieu rural en général;
 - b. au financement desquels le canton participe au moins de manière équivalente;
 - c. que la Confédération ne soutient pas déjà d’une autre manière.
+
+<sup>3</sup> Le Conseil fédéral fixe les critères d’octroi et le montant maximal des contributions à fonds perdu en tenant compte du renchérissement.[^7-4]
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 8
 
@@ -139,13 +146,16 @@ Les prêts ne peuvent être accordés qu’à des projets d’infrastructure:
 
 **Conditions**
 
-<sup>1</sup> Les bénéficiaires des aides financières prévues aux art. 4 à 6 et des prêts prévus à l’art. 7 participent à leur projet par des fonds propres.
+<sup>1</sup> Les bénéficiaires des aides financières prévues aux art. 4 à 7 participent à leur projet par des fonds propres appropriés.[^9-1]
 
 <sup>2</sup> Ils prennent les mesures appropriées pour surveiller la réalisation et évaluer des projets soutenus.
 
 <sup>3</sup> Ils tiennent compte, dans la mesure du possible, des politiques sectorielles de la Confédération en matière de territoire et de l’aménagement du territoire.
 
-<sup>4</sup> Dans des cas particuliers, les aides financières et les prêts peuvent être assujettis à d’autres conditions et charges.
+<sup>4</sup> Dans des cas particuliers, les aides financières peuvent être assujetties à d’autres conditions et charges.[^9-2]
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^9-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 10
 
@@ -155,11 +165,13 @@ Le Conseil fédéral définit avec les cantons le territoire qui présente essen
 
 #### Art. 11
 
-**Versement des aides financières et des prêts**
+**Versement des aides financières**[^11-1]
 
-<sup>1</sup> Les aides financières prévues aux art. 4 à 6 et les prêts prévus à l’art. 7 sont octroyés sous forme de forfaits sur la base de conventions-programmes.
+<sup>1</sup> Les aides financières prévues aux art. 4 à 7 sont octroyées sous forme de forfaits sur la base de conventions-programmes.
 
-<sup>2</sup> Le montant des aides financières et des prêts est fonction de l’effet général des programmes et des mesures.
+<sup>2</sup> Le montant des aides financières est fonction de l’effet global des programmes et des mesures.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 12
 
@@ -215,7 +227,9 @@ L’Assemblée fédérale fixe dans un programme pluriannuel:
 
 <sup>2</sup> Ils assurent, avec les organismes de développement régional et les secrétariats régionaux ou d’autres acteurs régionaux, la coordination des projets suprarégionaux, intercantonaux et transfrontaliers.
 
-<sup>3</sup> Ils décident, dans les limites des moyens disponibles, pour quels projets les aides financières ou les prêts sont octroyés.
+<sup>3</sup> Ils décident, dans les limites des moyens disponibles, pour quels projets les aides financières sont octroyées.[^15-1]
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 16
 

@@ -3,18 +3,18 @@ sr: "901.0"
 title: Legge federale del 6 ottobre 2006 sulla politica regionale
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/136"
 language: it
-version: 2013-01-01
+version: 2024-04-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2007-136-20130101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-136-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla politica regionale
 
-del 6 ottobre 2006 (Stato 1° gennaio 2013)
+del 6 ottobre 2006 (Stato 1° aprile 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -107,11 +107,11 @@ Gli aiuti finanziari possono essere concessi allo scopo di sostenere la partecip
 
 #### Art. 7
 
-**Mutui per progetti infrastrutturali**
+**Mutui e contributi a fondo perso per progetti infrastrutturali[^7-1]**
 
 <sup>1</sup>
 
-La Confederazione può concedere mutui senza interessi o a tassi d’interesse favorevoli allo scopo di finanziare progetti infrastrutturali, purché questi:
+La Confederazione può concedere mutui senza interessi o a tassi d’interesse favorevoli per finanziare progetti infrastrutturali, nonché contributi a fondo perso per finanziare piccoli progetti infrastrutturali, purché i progetti in questione:[^7-2]
 
 - a. siano direttamente legati alla realizzazione e alla prosecuzione di progetti conformi all’articolo 4;
 - b. siano parte integrante di un sistema per la produzione di valore aggiunto e contribuiscano a potenziarlo; oppure
@@ -119,11 +119,18 @@ La Confederazione può concedere mutui senza interessi o a tassi d’interesse f
 
 <sup>2</sup>
 
-Questi mutui possono essere concessi solo per progetti infrastrutturali che:
+I mutui e i contributi a fondo perso di cui al capoverso 1 possono essere concessi solo per progetti infrastrutturali che:[^7-3]
 
 - a. profittano soprattutto a regioni che presentano in parte preponderante problemi e potenzialità di sviluppo specifici alle regioni montane e alle altre aree rurali;
 - b. sono finanziati almeno in parte uguale anche dal Cantone; e
 - c. non siano già altrimenti sussidiati dalla Confederazione.
+
+<sup>3</sup> Il Consiglio federale stabilisce i criteri per la concessione dei contributi a fondo perso e il loro importo massimo tenendo conto del rincaro.[^7-4]
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-3]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^7-4]: Introdotto dal n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 8
 
@@ -139,13 +146,16 @@ Questi mutui possono essere concessi solo per progetti infrastrutturali che:
 
 **Presupposti e condizioni generali**
 
-<sup>1</sup> Tutti i beneficiari di aiuti finanziari secondo gli articoli 4–6 e di mutui secondo l’articolo 7 devono contribuire in misura adeguata con mezzi propri al progetto.
+<sup>1</sup> Tutti i beneficiari di aiuti finanziari secondo gli articoli 4–7 devono contribuire in misura adeguata con mezzi propri al progetto.[^9-1]
 
 <sup>2</sup> Essi adottano misure adatte a sorvegliarne e valutarne la realizzazione.
 
 <sup>3</sup> Occorre tenere conto per quanto possibile della pianificazione del territorio e degli obiettivi delle politiche settoriali della Confederazione che incidono sul territorio.
 
-<sup>4</sup> Nel singolo caso, gli aiuti finanziari e i mutui possono essere vincolati ad altri oneri o ad altre condizioni.
+<sup>4</sup> Nel singolo caso, gli aiuti finanziari possono essere vincolati ad altri oneri o ad altre condizioni.[^9-2]
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
+[^9-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 10
 
@@ -155,11 +165,13 @@ Il Consiglio federale stabilisce, insieme con i Cantoni, la zona che presenta in
 
 #### Art. 11
 
-**Versamentodegli aiuti finanziari e dei mutui**
+**Versamento degli aiuti finanziari**[^11-1]
 
-<sup>1</sup> Gli aiuti finanziari di cui agli articoli 4–6 e i mutui di cui all’articolo 7 sono versati, sulla base di una convenzione di programma, sotto forma di importi forfettari.
+<sup>1</sup> Gli aiuti finanziari di cui agli articoli 4–7 sono versati, sulla base di una convenzione di programma, sotto forma di importi forfettari.
 
-<sup>2</sup> L’importo degli aiuti finanziari e dei mutui è stabilito tenendo conto degli effetti globali dei programmi e delle misure.
+<sup>2</sup> L’importo degli aiuti finanziari è stabilito tenendo conto degli effetti globali dei programmi e delle misure.
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 12
 
@@ -215,7 +227,9 @@ L’Assemblea federale stabilisce in un programma pluriennale:
 
 <sup>2</sup> In collaborazione con gli enti regionali per lo sviluppo, i segretariati regionali e gli altri attori regionali, i Cantoni garantiscono il coordinamento dei progetti di importanza sovraregionale, sovracantonale o transfrontaliera.
 
-<sup>3</sup> Nei limiti dei mezzi a disposizione, i Cantoni decidono quali progetti possono beneficiare di aiuti finanziari o mutui.
+<sup>3</sup> Nei limiti dei mezzi a disposizione, i Cantoni decidono quali progetti possono beneficiare di aiuti finanziari.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023, in vigore dal 1° apr. 2024 ([RU 2024 86](https://fedlex.data.admin.ch/eli/oc/2024/86); [FF 2023 664](https://fedlex.data.admin.ch/eli/fga/2023/664)).
 
 #### Art. 16
 
@@ -269,7 +283,7 @@ Il Consiglio federale decide come debba essere assicurata sotto il profilo organ
 
 <sup>3</sup> I prelievi dal fondo e le condizioni di prestito devono essere definiti tenendo conto delle perdite derivanti da mutui in corso, degli interessi e del rincaro. Entro i limiti del possibile, il valore del fondo va mantenuto a lungo termine.
 
-[^21-1]: [[RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995), [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29)[187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 9, [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63)[2504](https://fedlex.data.admin.ch/eli/oc/2002/333), [2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46), [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)art. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 122 [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)art. 1]
+[^21-1]: [[RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333); [2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)art. 1]
 
 #### Art. 22
 
