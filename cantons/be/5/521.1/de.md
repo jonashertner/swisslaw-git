@@ -4,13 +4,13 @@ number: "521.1"
 title: Kantonales Bevölkerungsschutz- und Zivilschutzgesetz
 short: KBZG
 language: de
-version: 2021-04-01
-valid_until: 2024-03-31
-version_adopted: 2021-02-24
+version: 2024-04-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-04
 adopted: 2024-09-11
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2228/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2228/pdf_file"
 
 (KBZG)
 
-vom 19.03.2014 (Stand 01.04.2021)
+vom 19.03.2014 (Stand 01.04.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -867,7 +867,7 @@ beschliesst:
 
 <sup>2</sup> Zeitlich dringende Massnahmen sind solche, die zum Schutz der Bevölkerung und ihrer Lebensgrundlagen rasch angeordnet werden müssen, der Bekämpfung unmittelbar drohender Gefahren oder bei eingetretenen Ereignissen der ersten Schadensbehebung dienen und keinen Aufschub bis zur Beschlussfassung durch das nach der ordentlichen Finanzkompetenz abschliessend zuständige Organ dulden.
 
-<sup>3</sup> Die Finanzkommission des Grossen Rates ist umgehend über den Ausgabenbeschluss zu orientieren.
+<sup>3</sup> Die Finanzkommission des Grossen Rates ist vorgängig zu geplanten Ausgabenbeschlüssen zu konsultieren.
 
 <sup>4</sup> Der Regierungsrat kann seine Ausgabenbefugnisse übertragen.
 

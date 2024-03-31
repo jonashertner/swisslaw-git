@@ -4,13 +4,13 @@ number: "521.1"
 title: Loi cantonale sur la protection de la population et sur la protection civile
 short: LCPPCi
 language: fr
-version: 2021-04-01
-valid_until: 2024-03-31
-version_adopted: 2021-02-24
+version: 2024-04-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-04
 adopted: 2024-09-11
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/521.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2228/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3009/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2228/pdf_file"
 
 (LCPPCi)
 
-du 19.03.2014 (état au 01.04.2021)
+du 19.03.2014 (état au 01.04.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -867,7 +867,7 @@ arrête:
 
 <sup>2</sup> Sont considérés comme urgentes les mesures qui doivent être prises rapidement pour assurer la protection de la population et de ses bases d’existence, pour parer à un danger imminent ou pour assurer les premiers travaux de réparation en cas de dommage, et qui ne peuvent attendre une décision de l’organe ordinairement compétent en matière d’autorisation des dépenses.
 
-<sup>3</sup> La Commission des finances du Grand Conseil doit être informée sans délai de la décision de dépense.
+<sup>3</sup> La Commission des finances du Grand Conseil doit être consultée au préalable au sujet des décisions de dépenses prévues.
 
 <sup>4</sup> Le Conseil-exécutif peut déléguer ses compétences en matière d’autorisation de dépenses.
 
