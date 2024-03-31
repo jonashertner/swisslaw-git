@@ -3,49 +3,40 @@ canton: SH
 number: "171.100"
 title: Gesetz über den Kantonsrat
 language: de
-version: 2011-01-01
-valid_until: 2024-03-31
-version_adopted: 2009-11-09
+version: 2024-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-18
 adopted: 1996-05-20
 in_force: 1997-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/171.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/116/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1726/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Kantonsrat
 
-vom 20. Mai 1996[^t-1]
+Vom 20.05.1996 (Stand 01.04.2024)
 
-Der Kantonsrat Schaffhausen[^t-1]
+Der Kantonsrat Schaffhausen,
 
-beschliesst als Gesetz:
+beschliesst:
 
-[^t-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
-### I. Stellung der Mitglieder des Kantonsrates
-
-[^t-1]
+## 1 Stellung der Mitglieder des Kantonsrates
 
 #### Art. 1
 
 **Amtsantritt**
 
-<sup>1</sup> Nach unbestrittener oder gültig erklärter Wahl treten die Mitglieder des Kantonsrates[^1-1] ihr Amt an, indem sie das Gelübde ablegen.
+<sup>1</sup> Nach unbestrittener oder gültig erklärter Wahl treten die Mitglieder des Kantonsrates ihr Amt an, indem sie das Gelübde ablegen.
 
-<sup>2</sup> Wer das Gelübde verweigert, verliert dadurch sein Mandat als Mitglied des Kantonsrates[^1-1] .
-
-[^1-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>2</sup> Wer das Gelübde verweigert, verliert dadurch sein Mandat als Mitglied des Kantonsrates.
 
 #### Art. 2
 
 **Mitwirkung**
 
-Die Mitglieder sind verpflichtet zur Teilnahme an den Sitzungen des Kantonsrates[^2-1] und an den Arbeiten der Ratsorgane, denen sie angehören.
-
-[^2-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>1</sup> Die Mitglieder sind verpflichtet zur Teilnahme an den Sitzungen des Kantonsrates und an den Arbeiten der Ratsorgane, denen sie angehören.
 
 #### Art. 3
 
@@ -53,28 +44,23 @@ Die Mitglieder sind verpflichtet zur Teilnahme an den Sitzungen des Kantonsrates
 
 <sup>1</sup> Die Ratsmitglieder haben für Beratung und Abstimmung den Ausstand zu nehmen, wenn sie vom Geschäft unmittelbar betroffen werden:
 
-- a) in eigener Sache;
-
-- b) in Angelegenheiten einer ihnen infolge Verwandtschaft, Schwägerschaft oder in ähnlicher Weise nahestehenden Person im Sinne von Art. 2 Abs. 1 lit. b des Gesetzes über den Rechtsschutz in Verwaltungssachen[^3-1];
-
-- c) in Angelegenheiten einer Körperschaft, Personenverbindung oder Institution, ausgenommen Gemeinden, in deren Leitung
-
-Amtsblatt 1996, S. 1457. oder gehobenem Dienst sie tätig sind oder für die sie eine Beratungsfunktion erfüllen.
+- a) in eigener Sache
+- b) in Angelegenheiten einer ihnen infolge Verwandtschaft, Schwägerschaft oder in ähnlicher Weise nahestehenden Person im Sinne von Art. 2 Abs. 1 lit. b des Gesetzes über den Rechtsschutz in Verwaltungssachen[^3-1]
+- c) in Angelegenheiten einer Körperschaft, Personenverbindung oder Institution, ausgenommen Gemeinden, in deren Leitung oder gehobenem Dienst sie tätig sind oder für die sie eine Beratungsfunktion erfüllen
 
 <sup>2</sup> Bei Geschäften, welche die Oberaufsicht über ihren Tätigkeitsbereich betreffen, beteiligen sich im Dienst des Kantons stehende Ratsmitglieder an der Beratung, nehmen aber bei der Abstimmung den Ausstand.
 
 <sup>3</sup> Für die Behandlung allgemeinverbindlicher Erlasse besteht keine Ausstandspflicht.
 
-<sup>4</sup> ...[^3-2]
+<sup>4</sup> …
 
-[^3-1]: SHR 172.200.
-[^3-2]: Eingefügt durch G vom 20. Mai 1996, in Kraft getreten am 1. Oktober 1996 (Amtsblatt 1996, S. 1469); vom Bundesgericht mit Urteil vom 28. Mai 1997 aufgehoben.
+[^3-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 4
 
 **Offenlegung der Interessenbindungen**
 
-Jedes Ratsmitglied gibt unter Vorbehalt des Berufsgeheimnisses vor Beginn jeder Amtsperiode seine Interessenbindungen schriftlich bekannt. Die Angaben werden auf dem Ratssekretariat zur Einsichtnahme öffentlich aufgelegt.
+<sup>1</sup> Jedes Ratsmitglied gibt unter Vorbehalt des Berufsgeheimnisses vor Beginn jeder Amtsperiode seine Interessenbindungen schriftlich bekannt. Die Angaben werden auf dem Ratssekretariat zur Einsichtnahme öffentlich aufgelegt.
 
 #### Art. 5
 
@@ -82,15 +68,13 @@ Jedes Ratsmitglied gibt unter Vorbehalt des Berufsgeheimnisses vor Beginn jeder 
 
 <sup>1</sup> Die Ratsmitglieder haben Redefreiheit. Die Geschäftsordnung kann die Redezeit angemessen begrenzen.
 
-<sup>2</sup> Die Ratsmitglieder, die Mitglieder des Regierungsrates und des Obergerichtes sowie die Staatsschreiberin oder der Staatsschreiber sind für ihre Äusserungen im Kantonsrat und in dessen Kommissionen nur dem Kantonsrat verantwortlich. Sie dürfen für solche Äusserungen nur dann strafrechtlich verfolgt oder zivilrechtlich belangt werden, wenn der Kantonsrat mit Zweidrittelmehrheit der anwesenden Ratsmitglieder dazu die Bewilligung erteilt.[^5-1]
-
-[^5-1]: Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+<sup>2</sup> Die Ratsmitglieder, die Mitglieder des Regierungsrates und des Obergerichtes sowie die Staatsschreiberin oder der Staatsschreiber sind für ihre Äusserungen im Kantonsrat und in dessen Kommissionen nur dem Kantonsrat verantwortlich. Sie dürfen für solche Äusserungen nur dann strafrechtlich verfolgt oder zivilrechtlich belangt werden, wenn der Kantonsrat mit Zweidrittelmehrheit der anwesenden Ratsmitglieder dazu die Bewilligung erteilt.
 
 #### Art. 6
 
 **Freies Mandat**
 
-Die Ratsmitglieder vertreten die Interessen der Bevölkerung und des Standes Schaffhausen; sie stimmen und wählen ohne Bindung an Instruktionen nach ihrem freien Entschluss.
+<sup>1</sup> Die Ratsmitglieder vertreten die Interessen der Bevölkerung und des Standes Schaffhausen; sie stimmen und wählen ohne Bindung an Instruktionen nach ihrem freien Entschluss.
 
 #### Art. 7
 
@@ -98,9 +82,7 @@ Die Ratsmitglieder vertreten die Interessen der Bevölkerung und des Standes Sch
 
 <sup>1</sup> Die Ratsmitglieder haben Anspruch auf die erforderlichen allgemeinen Unterlagen zu den Ratsgeschäften.
 
-<sup>2</sup> Sie erhalten vom Regierungsrat, von der Verwaltung, den Gerichtsbehörden und den anderen Trägern öffentlicher Aufgaben Sachinformationen und Einsicht in nicht geheime Verwaltungsakten, wenn sie dies zur Ausübung des Mandates verlangen.[^7-1]
-
-[^7-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>2</sup> Sie erhalten vom Regierungsrat, von der Verwaltung, den Gerichtsbehörden und den anderen Trägern öffentlicher Aufgaben Sachinformationen und Einsicht in nicht geheime Verwaltungsakten, wenn sie dies zur Ausübung des Mandates verlangen.
 
 #### Art. 8
 
@@ -116,11 +98,9 @@ Die Ratsmitglieder vertreten die Interessen der Bevölkerung und des Standes Sch
 
 **Streitfälle**
 
-Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts werden nach den erforderlichen Anhörungen vom Gremium (Kantonsrat[^9-1] oder Ratsorgan), in dem sie aufgetreten sind, endgültig entschieden.
+<sup>1</sup> Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts werden nach den erforderlichen Anhörungen vom Gremium (Kantonsrat oder Ratsorgan), in dem sie aufgetreten sind, endgültig entschieden.
 
-[^9-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
-### II. Öffentlichkeit
+## 2 Öffentlichkeit
 
 #### Art. 10
 
@@ -128,9 +108,7 @@ Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts
 
 <sup>1</sup> Das Publikum kann den Ratssitzungen auf der Tribüne beiwohnen.
 
-<sup>2</sup> Wer Beifall oder Unmut äussert oder in anderer Weise den Ratsbetrieb stört, kann von der Präsidentin oder vom Präsidenten des Kantonsrates[^10-1] , nötigenfalls unter Beizug der Polizei, weggewiesen werden. Notfalls kann die Tribüne geräumt werden.
-
-[^10-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>2</sup> Wer Beifall oder Unmut äussert oder in anderer Weise den Ratsbetrieb stört, kann von der Präsidentin oder vom Präsidenten des Kantonsrates, nötigenfalls unter Beizug der Polizei, weggewiesen werden. Notfalls kann die Tribüne geräumt werden.
 
 #### Art. 11
 
@@ -140,9 +118,7 @@ Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts
 
 <sup>2</sup> Über Anträge auf geheime Sitzung wird unter Ausschluss der Öffentlichkeit beraten und mit einer Mehrheit von zwei Dritteln der anwesenden Ratsmitglieder entschieden.
 
-<sup>3</sup> Im Sitzungssaal und seiner Umgebung bleiben nur die Mitglieder des Kantonsrates[^11-1] und des Regierungsrates sowie das nötigste Dienstpersonal. Das Protokoll nennt die Anträge, die hauptsächlichen Gründe und die Beschlüsse und bleibt unter Verschluss.
-
-[^11-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> Im Sitzungssaal und seiner Umgebung bleiben nur die Mitglieder des Kantonsrates und des Regierungsrates sowie das nötigste Dienstpersonal. Das Protokoll nennt die Anträge, die hauptsächlichen Gründe und die Beschlüsse und bleibt unter Verschluss.
 
 #### Art. 12
 
@@ -150,12 +126,9 @@ Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts
 
 <sup>1</sup> Für die beim Büro gemeldeten ständigen Vertreterinnen und Vertreter der Medien stehen im Ratssaal soweit möglich besondere Plätze zur Verfügung. Die allgemeinen Beratungsunterlagen werden ihnen wie den Ratsmitgliedern abgegeben.
 
-<sup>2</sup> Ständigen Vertreterinnen und Vertretern der Medien ist es gestattet, im Ratssaal Bild- und Tonaufnahmen zu machen. Im Übrigen bedürfen Bild- und Tonaufnahmen im Ratssaal einer Bewilligung der Präsidentin oder des Präsidenten des Kantonsrates.[^12-1]
+<sup>2</sup> Ständigen Vertreterinnen und Vertretern der Medien ist es gestattet, im Ratssaal Bild- und Tonaufnahmen zu machen. Im Übrigen bedürfen Bild- und Tonaufnahmen im Ratssaal einer Bewilligung der Präsidentin oder des Präsidenten des Kantonsrates.
 
-<sup>3</sup> ...[^12-2]
-
-[^12-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^12-2]: Aufgehoben durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> …
 
 #### Art. 13
 
@@ -165,14 +138,11 @@ Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts
 
 <sup>2</sup> Ein Protokoll der Ratssitzungen wird veröffentlicht.
 
-<sup>3</sup> ...[^13-1]
-
-[^13-1]: Aufgehoben durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^13-2]: Eingefügt durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> …
 
 #### Art. 13a
 
-**Abstimmungsmagazin**[^13-2]
+**Abstimmungsmagazin**
 
 <sup>1</sup> Alle Vorlagen des Kantonsrates zuhanden der Volksabstimmung sind mit einer die Hauptpunkte beleuchtenden Botschaft auf geeignete Weise den Stimmberechtigten zur Kenntnis zu bringen.
 
@@ -186,58 +156,49 @@ Meinungsverschiedenheiten über die Anwendung der Bestimmungen dieses Abschnitts
 
 <sup>1</sup> Das Ratsbüro und die Kommissionen verhandeln nicht öffentlich.
 
-<sup>1bis</sup> Die Einsicht in die Protokolle der Sitzungen des Ratsbüros und der Kommissionen richtet sich nach Art. 8a und 8b des Gesetzes über die Organisation der Regierungs- und Verwaltungstätigkeit. In Kommissionsprotokolle wird erst nach Erledigung eines Geschäfts Einsicht gewährt.[^14-1]
+<sup>1<sup>bis</sup></sup> Die Einsicht in die Protokolle der Sitzungen des Ratsbüros und der Kommissionen richtet sich nach Art. 8a und 8b des Gesetzes über die Organisation der Regierungs- und Verwaltungstätigkeit. In Kommissionsprotokolle wird erst nach Erledigung eines Geschäfts Einsicht gewährt.
+
+<sup>1<sup>ter</sup></sup> Bewerbungsgespräche der Kommissionen werden in einem separaten Gesprächsprotokoll festgehalten, das dem Kommissionsprotokoll beigelegt wird. Die Gesprächsprotokolle sind zum Schutz der Persönlichkeit der betroffenen Person der Einsicht durch Dritte entzogen. Gesprächsprotokolle von nicht gewählten Personen sind nach Ablauf von sechs Monaten seit Erledigung des Geschäfts zu vernichten.
 
 <sup>2</sup> Die Kommissionen bestimmen, ob, in welchem Umfang und durch wen die Medien offiziell über die Beratungen informiert werden.
 
-[^14-1]: Eingefügt durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^14-2]: Aufgehoben durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
 #### Art. 15
 
-[^14-2]
+**…**
 
 #### Art. 16
 
 **Petitionen**
 
-<sup>1</sup> Jede Person hat das Recht, sich mit Eingaben, die bestimmte Begehren oder Beanstandungen enthalten (Petitionen), an den Kantonsrat[^16-1] zu wenden.
+<sup>1</sup> Jede Person hat das Recht, sich mit Eingaben, die bestimmte Begehren oder Beanstandungen enthalten (Petitionen), an den Kantonsrat zu wenden.
 
 <sup>2</sup> Eingaben, für deren Behandlung andere Behörden im Kanton Schaffhausen zuständig sind, werden an diese weitergeleitet; solche mit ungehörigem Inhalt werden zurückgeschickt.
 
-[^16-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+## 3 Ratstätigkeit und Beziehungen zu Behörden
 
-### III. Ratstätigkeit und Beziehungen zu Behörden
-
-- 1\. Allgemeines
+### 3.1 Allgemeines
 
 #### Art. 17
 
 **Koordination**
 
-Präsidentin oder Präsident des Kantonsrates[^17-1] sowie des Regierungsrates sorgen gemeinsam für die Koordination der Behördentätigkeit.
-
-[^17-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>1</sup> Präsidentin oder Präsident des Kantonsrates sowie des Regierungsrates sorgen gemeinsam für die Koordination der Behördentätigkeit.
 
 #### Art. 18
 
 **Vertretung in Rechtsverfahren**
 
-Wird ein Erlass oder Beschluss des Kantonsrates[^18-1] angefochten, so übernimmt das Ratsbüro die Vertretung im Verfahren und unterrichtet den Kantonsrat[^18-1] sowie den Regierungsrat über den Verlauf.
-
-[^18-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>1</sup> Wird ein Erlass oder Beschluss des Kantonsrates angefochten, so übernimmt das Ratsbüro die Vertretung im Verfahren und unterrichtet den Kantonsrat sowie den Regierungsrat über den Verlauf.
 
 #### Art. 19
 
-**Dienste für den Kantonsrat 5)**
+**Dienste für den Kantonsrat**
 
-<sup>1</sup> Der Kantonsrat[^19-1] wählt eine Ratssekretärin oder einen Ratssekretär. Das Ratssekretariat untersteht der Präsidentin oder dem Präsidenten des Kantonsrates[^19-1] und arbeitet gemäss einem vom Ratsbüro erstellten Pflichtenheft.
+<sup>1</sup> Der Kantonsrat wählt eine Ratssekretärin oder einen Ratssekretär. Das Ratssekretariat untersteht der Präsidentin oder dem Präsidenten des Kantonsrates und arbeitet gemäss einem vom Ratsbüro erstellten Pflichtenheft.
 
 <sup>2</sup> Das Büro kann dem Ratssekretariat die erforderlichen Aushilfskräfte zur Stellvertretung beigeben.
 
-<sup>3</sup> Das Ratssekretariat ist der Staatskanzlei angegliedert. Kanzlei-, Weibel-, Archiv- und weitere administrative Aufgaben für den Kantonsrat werden nach Absprache zwischen Ratsbüro und Regierungsrat von der Staatskanzlei und der Verwaltung wahrgenommen.[^19-1]
-
-[^19-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> Das Ratssekretariat ist der Staatskanzlei angegliedert. Kanzlei-, Weibel-, Archiv- und weitere administrative Aufgaben für den Kantonsrat werden nach Absprache zwischen Ratsbüro und Regierungsrat von der Staatskanzlei und der Verwaltung wahrgenommen.
 
 #### Art. 20
 
@@ -247,23 +208,21 @@ Wird ein Erlass oder Beschluss des Kantonsrates[^18-1] angefochten, so übernimm
 
 <sup>2</sup> Die Bestimmungen dieses Gesetzes über die Geheimhaltungspflicht, Informationsbeschaffung und Anhörung gelten sinngemäss auch für Mitglieder und Mitarbeiterinnen und Mitarbeiter der Gerichte. Die Entbindung von der Geheimhaltungspflicht erfolgt durch das Obergericht.
 
-- 2\. Beratungsgegenstände
+### 3.2 Beratungsgegenstände
 
 #### Art. 21
 
 **Vorlagen**
 
-<sup>1</sup> Entwürfe und Anträge zu Gesetzen, Dekreten oder Beschlüssen des Kantonsrates[^21-1] werden in der Regel vom Regierungsrat mit einem erläuternden Bericht eingebracht.
+<sup>1</sup> Entwürfe und Anträge zu Gesetzen, Dekreten oder Beschlüssen des Kantonsrates werden in der Regel vom Regierungsrat mit einem erläuternden Bericht eingebracht.
 
 <sup>2</sup> Der erläuternde Bericht zu rechtsetzenden Erlassen nennt insbesondere Anlass und Zweck, Bedeutung und Rechtmässigkeit der Vorschläge und ihre voraussichtlichen personellen, finanziellen und weiteren Auswirkungen.
 
-<sup>3</sup> Ist die Ausarbeitung einer Vorlage vom Kantonsrat[^21-1] einer Kommission übertragen worden, so erhält der Regierungsrat Gelegenheit zu schriftlicher Stellungnahme und gegebenenfalls zu einem Gegenvorschlag oder zu Änderungsanträgen.
-
-[^21-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> Ist die Ausarbeitung einer Vorlage vom Kantonsrat einer Kommission übertragen worden, so erhält der Regierungsrat Gelegenheit zu schriftlicher Stellungnahme und gegebenenfalls zu einem Gegenvorschlag oder zu Änderungsanträgen.
 
 #### Art. 22
 
-**Berichte**[^21-1]
+**Berichte**
 
 <sup>1</sup> Der Regierungsrat unterbreitet dem Kantonsrat zu Beginn jeder Amtsperiode ein Regierungsprogramm und einen Finanzplan. Darin wird auch Rechenschaft über die vergangene Amtsperiode abgelegt.
 
@@ -275,60 +234,51 @@ Wird ein Erlass oder Beschluss des Kantonsrates[^18-1] angefochten, so übernimm
 
 **Vorstösse**
 
-Über die Erheblichkeit von Begehren um Erstattung eines Berichtes oder Ausarbeitung einer Vorlage befindet der Kantonsrat[^23-1] nach Anhörung des Regierungsrates. Die Einzelheiten werden in der Geschäftsordnung[^23-2] geregelt.
+<sup>1</sup> Über die Erheblichkeit von Begehren um Erstattung eines Berichtes oder Ausarbeitung einer Vorlage befindet der Kantonsrat nach Anhörung des Regierungsrates. Die Einzelheiten werden in der Geschäftsordnung[^23-1] geregelt.
 
-[^23-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^23-2]: SHR 171.110.
+[^23-1]: SHR [171.110](https://rechtsbuch.sh.ch/data/171.110/de).
 
 #### Art. 24
 
 **Weitere Geschäfte**
 
-<sup>1</sup> Die Wahlen im Kantonsrat[^24-1] werden aufgrund von Vorschlägen des Ratsbüros, der Fraktionen oder Ratsmitglieder vorgenommen; weitere Vorschlagsrechte gemäss Gesetz oder Geschäftsordnung sind vorbehalten. Die Anmeldung weiterer Bewerbungen erfolgt über das Ratsbüro.
+<sup>1</sup> Die Wahlen im Kantonsrat werden aufgrund von Vorschlägen des Ratsbüros, der Fraktionen oder Ratsmitglieder vorgenommen; weitere Vorschlagsrechte gemäss Gesetz oder Geschäftsordnung sind vorbehalten. Die Anmeldung weiterer Bewerbungen erfolgt über das Ratsbüro.
 
-<sup>2</sup> Petitionen, Beschwerden und Begnadigungsgesuche werden direkt durch die zuständige Kommission vorberaten.[^24-1]
+<sup>2</sup> Petitionen, Beschwerden und Begnadigungsgesuche werden direkt durch die zuständige Kommission vorberaten.
 
-- 3\. Verhandlungen des Kantonsrates[^24-1]
-
-[^24-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+### 3.3 Verhandlungen des Kantonsrates
 
 #### Art. 25
 
 **Mitwirkung des Regierungsrates**
 
-<sup>1</sup> Die Mitglieder des Regierungsrates haben im Kantonsrat[^25-1] beratende Stimme und Antragsrecht.
+<sup>1</sup> Die Mitglieder des Regierungsrates haben im Kantonsrat beratende Stimme und Antragsrecht.
 
 <sup>2</sup> Ein Mitglied des Regierungsrates erhält das Wort, wenn es von ihm verlangt wird; seine Redezeit ist nicht beschränkt.
-
-[^25-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
 
 #### Art. 26
 
 **Beratungen**
 
-<sup>1</sup> Bei Beratungen wird zuerst über Eintreten verhandelt; im Fall einer Rückweisung bestimmt der Kantonsrat[^26-1] , wie die Vorlage ergänzt oder geändert werden soll.
+<sup>1</sup> Bei Beratungen wird zuerst über Eintreten verhandelt; im Fall einer Rückweisung bestimmt der Kantonsrat, wie die Vorlage ergänzt oder geändert werden soll.
 
 <sup>2</sup> Rückweisung an die Kommission oder an den Regierungsrat kann auch während der weiteren Beratung beschlossen werden.
 
-<sup>3</sup> Der Kantonsrat[^26-1] kann Anträge von Ratsmitgliedern dem Regierungsrat oder der Kommission zur Prüfung überweisen.
-
-[^26-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>3</sup> Der Kantonsrat kann Anträge von Ratsmitgliedern dem Regierungsrat oder der Kommission zur Prüfung überweisen.
 
 #### Art. 27
 
 **Verfahrensschluss**
 
-<sup>1</sup> Die vom Kantonsrat[^27-1] gutgeheissenen Erlasse und Beschlüsse werden von der Präsidentin oder vom Präsidenten und von der Ratssekretärin oder vom Ratssekretär unterzeichnet.
+<sup>1</sup> Die vom Kantonsrat gutgeheissenen Erlasse und Beschlüsse werden von der Präsidentin oder vom Präsidenten und von der Ratssekretärin oder vom Ratssekretär unterzeichnet.
 
 <sup>2</sup> Sie werden dem Regierungsrat zum Vollzug und gegebenenfalls zur Veröffentlichung sowie zur Aufnahme in die Gesetzessammlung überwiesen.
-
-[^27-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
 
 #### Art. 28
 
 **Veröffentlichung**
 
-<sup>1</sup> Rechtsetzende Erlasse des Kantonsrates[^28-1] sowie völkerrechtliche und interkantonale Verträge werden im Amtsblatt für den Kanton Schaffhausen veröffentlicht und periodisch in die Gesetzessammlung des Kantons Schaffhausen aufgenommen.
+<sup>1</sup> Rechtsetzende Erlasse des Kantonsrates sowie völkerrechtliche und interkantonale Verträge werden im Amtsblatt für den Kanton Schaffhausen veröffentlicht und periodisch in die Gesetzessammlung des Kantons Schaffhausen aufgenommen.
 
 <sup>2</sup> Massgeblich ist die im Amtsblatt veröffentlichte Fassung.
 
@@ -336,25 +286,18 @@ Wird ein Erlass oder Beschluss des Kantonsrates[^18-1] angefochten, so übernimm
 
 <sup>4</sup> Erlasse und Verträge oder Teile davon (wie Anhänge oder Pläne), die sich wegen ihres besonderen Charakters für die Veröffentlichung im Amtsblatt nicht eignen, werden nur mit Titel sowie Fundstelle oder Bezugsquelle aufgenommen, insbesondere wenn:
 
-- a) sie nur einen kleinen Kreis von Personen betreffen;
+- a) sie nur einen kleinen Kreis von Personen betreffen
+- b) sie von technischer Natur sind und sich nur an Fachleute wenden
+- c) sie aus drucktechnischen Gründen in einem grösseren Format gedruckt werden müssen
+- d) ein Gesetz es vorsieht
 
-- b) sie von technischer Natur sind und sich nur an Fachleute wenden;
-
-- c) sie aus drucktechnischen Gründen in einem grösseren Format gedruckt werden müssen;
-
-- d) ein Gesetz es vorsieht.
-
-- 4\. Kommissionen
-
-[^28-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+### 3.4 Kommissionen
 
 #### Art. 29
 
 **Aufgaben**
 
-Die Kommissionen bereiten die ihnen zugewiesenen Geschäfte für den Kantonsrat[^29-1] vor. Sie treffen die notwendigen Abklärungen, prüfen die Vorlagen und unterbreiten dem Kantonsrat[^29-1] Bericht und Antrag.
-
-[^29-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+<sup>1</sup> Die Kommissionen bereiten die ihnen zugewiesenen Geschäfte für den Kantonsrat vor. Sie treffen die notwendigen Abklärungen, prüfen die Vorlagen und unterbreiten dem Kantonsrat Bericht und Antrag.
 
 #### Art. 30
 
@@ -370,13 +313,11 @@ Die Kommissionen bereiten die ihnen zugewiesenen Geschäfte für den Kantonsrat[
 
 **Befugnisse**
 
-Die Kommissionen können im Rahmen ihrer Aufgabe:
+<sup>1</sup> Die Kommissionen können im Rahmen ihrer Aufgabe:
 
-- a) Auskünfte einholen, Amtsakten einsehen, Besichtigungen vornehmen, Vertreter und Vertreterinnen interessierter Kreise anhören;
-
-- b) Mitglieder des Regierungsrates und, mit deren Einwilligung, im Dienst des Kantons stehende Personen befragen (Art. 32);
-
-- c) beim Vorliegen der Ausgabenbewilligung (Art. 42) unabhängige Fachleute beiziehen oder Gutachten einholen.
+- a) Auskünfte einholen, Amtsakten einsehen, Besichtigungen vornehmen, Vertreter und Vertreterinnen interessierter Kreise anhören
+- b) Mitglieder des Regierungsrates und, mit deren Einwilligung, im Dienst des Kantons stehende Personen befragen (Art. 32)
+- c) beim Vorliegen der Ausgabenbewilligung (Art. 42) unabhängige Fachleute beiziehen oder Gutachten einholen
 
 #### Art. 32
 
@@ -396,7 +337,7 @@ Die Kommissionen können im Rahmen ihrer Aufgabe:
 
 <sup>2</sup> Beschliessen die Kommissionen eigene Vorschläge, die wesentlich von der regierungsrätlichen Vorlage abweichen, so erhält der Regierungsrat Gelegenheit zur Stellungnahme und zu Gegenanträgen.
 
-- 5\. Oberaufsicht
+### 3.5 Oberaufsicht
 
 #### Art. 34
 
@@ -406,17 +347,13 @@ Die Kommissionen können im Rahmen ihrer Aufgabe:
 
 <sup>2</sup> Die Oberaufsicht erstreckt sich auf Regierung, Verwaltung und Rechtspflege. Sie richtet sich bei selbstständigen Anstalten nach den Spezialgesetzen.
 
-<sup>3</sup> Sie wird vom Kantonsrat hauptsächlich anhand der Prüfung und Beschlussfassung über die Genehmigung der Kantonsrechnung und der jährlichen Rechenschaftsberichte des Regierungsrates und des Obergerichtes sowie aufgrund von Berichten der ständigen Aufsichtskommissionen ausgeübt, deren Einsetzung in der Geschäftsordnung geregelt wird.[^34-1]
+<sup>3</sup> Sie wird vom Kantonsrat hauptsächlich anhand der Prüfung und Beschlussfassung über die Genehmigung der Kantonsrechnung und der jährlichen Rechenschaftsberichte des Regierungsrates und des Obergerichtes sowie aufgrund von Berichten der ständigen Aufsichtskommissionen ausgeübt, deren Einsetzung in der Geschäftsordnung geregelt wird.
 
-<sup>3bis</sup> Ebenso werden die Geschäftsberichte privatrechtlicher Unternehmen, an denen der Kanton eine Mehrheitsbeteiligung hält, dem Kantonsrat zur Kenntnisnahme unterbreitet. Er kann dazu im Sinne von Art. 22 Abs. 3 Erklärungen abgeben.[^34-2]
+<sup>3<sup>bis</sup></sup> Ebenso werden die Geschäftsberichte privatrechtlicher Unternehmen, an denen der Kanton eine Mehrheitsbeteiligung hält, dem Kantonsrat zur Kenntnisnahme unterbreitet. Er kann dazu im Sinne von Art. 22 Abs. 3 Erklärungen abgeben.
 
-<sup>3ter</sup> Der Kantonsrat kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler Massnahmen sorgen.[^34-2]
+<sup>3<sup>ter</sup></sup> Der Kantonsrat kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler Massnahmen sorgen.
 
-<sup>4</sup> Die Oberaufsicht ermächtigt den Kantonsrat und seine Organe nicht, Verordnungen, Beschlüsse oder Verfügungen des Regierungsrates und der Verwaltung aufzuheben oder gerichtliche Entscheide zu überprüfen.[^34-3]
-
-[^34-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^34-2]: Eingefügt durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^34-3]: Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+<sup>4</sup> Die Oberaufsicht ermächtigt den Kantonsrat und seine Organe nicht, Verordnungen, Beschlüsse oder Verfügungen des Regierungsrates und der Verwaltung aufzuheben oder gerichtliche Entscheide zu überprüfen.
 
 #### Art. 35
 
@@ -438,27 +375,23 @@ Die Kommissionen können im Rahmen ihrer Aufgabe:
 
 **Feststellungen, Berichterstattung**
 
-<sup>1</sup> Die Aufsichtskommissionen oder ihre Ausschüsse können ihre Feststellungen und Vorschläge mit den Dienststellenleiterinnen oder -leitern besprechen. Sie bringen diese dem zuständigen Mitglied des Regierungsrates vorgängig zur Kenntnis.
+<sup>1</sup> Die Aufsichtskommissionen oder ihre Ausschüsse können ihre Feststellungen und Vorschläge mit den Dienststellenleiterinnen oder ‑leitern besprechen. Sie bringen diese dem zuständigen Mitglied des Regierungsrates vorgängig zur Kenntnis.
 
-<sup>2</sup> Die Kommissionen berichten dem Kantonsrat[^37-1] über die Hauptergebnisse ihrer Arbeit und stellen ihm Anträge.
+<sup>2</sup> Die Kommissionen berichten dem Kantonsrat über die Hauptergebnisse ihrer Arbeit und stellen ihm Anträge.
 
-<sup>3</sup> Der Regierungsrat kann sowohl in der Kommission als auch vor dem Kantonsrat[^37-1] Stellung nehmen.
+<sup>3</sup> Der Regierungsrat kann sowohl in der Kommission als auch vor dem Kantonsrat Stellung nehmen.
 
-- 6\. Parlamentarische Untersuchungskommission
-
-[^37-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+### 3.6 Parlamentarische Untersuchungskommission
 
 #### Art. 38
 
 **Einsetzung**
 
-<sup>1</sup> Bei ausserordentlichen Vorkommnissen kann der Kantonsrat[^38-1] nach Anhören des Regierungsrates eine aus Ratsmitgliedern bestehende Untersuchungskommission einsetzen.
+<sup>1</sup> Bei ausserordentlichen Vorkommnissen kann der Kantonsrat nach Anhören des Regierungsrates eine aus Ratsmitgliedern bestehende Untersuchungskommission einsetzen.
 
-<sup>2</sup> Diese Kommission untersucht den Sachverhalt und beschafft Unterlagen für die politische Beurteilung des Falles durch den Kantonsrat[^38-1] . Die Einsetzung der Kommission hindert die Durchführung von Rechtsverfahren nicht.
+<sup>2</sup> Diese Kommission untersucht den Sachverhalt und beschafft Unterlagen für die politische Beurteilung des Falles durch den Kantonsrat. Die Einsetzung der Kommission hindert die Durchführung von Rechtsverfahren nicht.
 
 <sup>3</sup> Der Einsetzungsbeschluss wird mit der Mehrheit der anwesenden Ratsmitglieder unter Namensaufruf gefasst. Er bestimmt den Gegenstand der Untersuchung, die Zahl der Kommissionsmitglieder, den Vorsitz und die Sonderbefugnisse der Kommission (Art. 39 Abs. 2). Das Geschäft ist separat zu traktandieren.
-
-[^38-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
 
 #### Art. 39
 
@@ -466,15 +399,11 @@ Die Kommissionen können im Rahmen ihrer Aufgabe:
 
 <sup>1</sup> Eine Untersuchungskommission hat alle Befugnisse einer Aufsichtskommission; die Geheimhaltungspflicht kann ihr nicht entgegengehalten werden.
 
-<sup>2</sup> Der Kantonsrat[^39-1] kann der Kommission weitere Sonderbefugnisse zuteilen, insbesondere:
+<sup>2</sup> Der Kantonsrat kann der Kommission weitere Sonderbefugnisse zuteilen, insbesondere:
 
-- a) Auskunftspersonen zu befragen sowie Zeuginnen und Zeugen einzuvernehmen;
-
-- b) sich von Personen ausserhalb der Verwaltung Akten vorlegen zu lassen;
-
-- c) beigezogenen Sachverständigen einzelne der Kommission zustehende Befugnisse einzuräumen.
-
-[^39-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+- a) Auskunftspersonen zu befragen sowie Zeuginnen und Zeugen einzuvernehmen
+- b) sich von Personen ausserhalb der Verwaltung Akten vorlegen zu lassen
+- c) beigezogenen Sachverständigen einzelne der Kommission zustehende Befugnisse einzuräumen
 
 #### Art. 40
 
@@ -482,53 +411,47 @@ Die Kommissionen können im Rahmen ihrer Aufgabe:
 
 <sup>1</sup> Die Untersuchungskommission kann den Regierungsrat zu ihren Beratungen und Ermittlungen einladen mit der Berechtigung, Zusatzfragen zu stellen und weitere Abklärungen zu beantragen.
 
-<sup>2</sup> Zeugnispflicht und Zeugnisverweigerungsrecht richten sich, von der Geheimhaltungspflicht abgesehen, sinngemäss nach der Schweizerischen Strafprozessordnung[^40-1]. Ob jemand als Zeugin oder Zeuge oder als Auskunftsperson befragt wird, ist vorweg festzulegen. Personen, gegen die sich die Untersuchung richtet, dürfen nur als Auskunftspersonen befragt werden.[^40-2]
+<sup>2</sup> Zeugnispflicht und Zeugnisverweigerungsrecht richten sich, von der Geheimhaltungspflicht abgesehen, sinngemäss nach der Schweizerischen Strafprozessordnung[^40-1]. Ob jemand als Zeugin oder Zeuge oder als Auskunftsperson befragt wird, ist vorweg festzulegen. Personen, gegen die sich die Untersuchung richtet, dürfen nur als Auskunftspersonen befragt werden.
 
 <sup>3</sup> Personen, gegen die sich die Untersuchung richtet, können, soweit sie betroffen sind, die betreffenden Akten einsehen sowie an Auskunftspersonen und Zeuginnen und Zeugen Ergänzungsfragen stellen. Muss ihnen dies aus überwiegenden öffentlichen oder privaten Interessen verweigert werden, so sind die betreffenden Beweismittel nur verwendbar, wenn die Betroffenen den Inhalt erfahren haben, dazu Stellung nehmen und Gegenbeweise beantragen konnten. Dem Regierungsrat stehen die gleichen Rechte zu.
 
 <sup>4</sup> Alle an der Untersuchung Beteiligten stehen unter der Geheimhaltungspflicht.
 
-[^40-1]: SR 312.0.
-[^40-2]: Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+[^40-1]: SR [312.0](http://db.clex.ch/link/Bund/312.0/de).
 
 #### Art. 41
 
 **Berichterstattung**
 
-<sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat[^41-1] einen schriftlichen Bericht, der Amtsgeheimnisse nicht preisgibt.
+<sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat einen schriftlichen Bericht, der Amtsgeheimnisse nicht preisgibt.
 
 <sup>2</sup> Sie gibt zuvor den betroffenen Stellen und Personen Gelegenheit zu Gegenbemerkungen, die sinngerecht zusammengefasst in den Bericht aufzunehmen sind.
 
-<sup>3</sup> Der Regierungsrat kann in einem eigenen Bericht an den Kantonsrat[^41-1] zur Angelegenheit Stellung nehmen.
+<sup>3</sup> Der Regierungsrat kann in einem eigenen Bericht an den Kantonsrat zur Angelegenheit Stellung nehmen.
 
-[^41-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
-### IV. Schlussbestimmungen
+## 4 Schlussbestimmungen
 
 #### Art. 42
 
 **Ratskredit**
 
-<sup>1</sup> Dem Kantonsrat[^42-1] steht für die Deckung der aus der Anwendung des Gesetzes erwachsenden Kosten ein Kredit zur Verfügung; seine Höhe wird im Staatsvoranschlag festgelegt.
+<sup>1</sup> Dem Kantonsrat steht für die Deckung der aus der Anwendung des Gesetzes erwachsenden Kosten ein Kredit zur Verfügung; seine Höhe wird im Staatsvoranschlag festgelegt.
 
 <sup>2</sup> Bevor eine Kommission einen Auftrag mit Kostenfolgen beschliesst, holt sie die Ausgabenbewilligung des Büros ein.
-
-[^42-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
 
 #### Art. 43
 
 **Vorbehaltenes Recht**
 
-Soweit kantonale Stellen und Arbeitnehmerinnen oder Arbeitnehmer bei Bundesaufgaben von Bundesrechts wegen zur Geheimhaltung verpflichtet sind, können sie nur mit Einwilligung der zuständigen Bundesbehörde davon entbunden werden.
+<sup>1</sup> Soweit kantonale Stellen und Arbeitnehmerinnen oder Arbeitnehmer bei Bundesaufgaben von Bundesrechts wegen zur Geheimhaltung verpflichtet sind, können sie nur mit Einwilligung der zuständigen Bundesbehörde davon entbunden werden.
 
 #### Art. 44
 
 **Ausführung des Gesetzes**
 
-Der Kantonsrat[^44-1] erlässt die Ausführungsbestimmungen in seiner Geschäftsordnung[^44-2].
+<sup>1</sup> Der Kantonsrat erlässt die Ausführungsbestimmungen in seiner Geschäftsordnung[^44-1].
 
-[^44-1]: Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-[^44-2]: SHR 171.110.
+[^44-1]: SHR [171.110](https://rechtsbuch.sh.ch/data/171.110/de).
 
 #### Art. 45
 
@@ -538,6 +461,6 @@ Der Kantonsrat[^44-1] erlässt die Ausführungsbestimmungen in seiner Geschäfts
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^45-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^45-1]: Amtsblatt 1996, S. 1457
 
-[^45-1]: Amtsblatt 1996, S. 1457.
+Abl. 1996, S. 1457
