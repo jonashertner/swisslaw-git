@@ -3,18 +3,18 @@ sr: "412.101.220.63"
 title: Ordinanza della SEFRI del 18 ottobre 2016 sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/614"
 language: it
-version: 2024-01-01
+version: 2024-04-01
 adopted: 2016-10-18
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20240401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 
-del 18 ottobre 2016 (Stato 1° gennaio 2024)
+del 18 ottobre 2016 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>80607</td><td>Gestrice della cura di tessili AFC / Gestore della cura di tessili AFC Fachfrau Textilpflege EFZ / Fachmann Textilpflege EFZ Gestionnaire en entretien des textiles CFC</td></tr>
@@ -22,14 +22,15 @@ del 18 ottobre 2016 (Stato 1° gennaio 2024)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:[^ingress-4]
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
-[^ingress-4]: Nuovo testo giusta il n. I 42 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta il n. I 42 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto, orientamenti e durata
 
@@ -138,9 +139,11 @@ Lo sviluppo delle competenze operative nei campi di competenze operative a ed e 
 
 <sup>3</sup> Gli aspetti specifici della professione inerenti allo sviluppo sostenibile sono trasmessi in tutti i luoghi di formazione.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-1] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -224,7 +227,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^9-3]
 
-[^9-1]: Il piano del 16 novembre 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch &gt; Professioni A–Z.](https://www.becc.admin.ch/becc/public/bvz/)
+[^9-1]: Il piano del 16 novembre 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z
 [^9-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 [^9-3]: Nuovo testo giusta il n. III 16 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
