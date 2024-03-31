@@ -4,11 +4,11 @@ title: "Verordnung 5 vom 28. September 2007 zum Arbeitsgesetz (Jugendarbeitsschu
 short: ArGV 5
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/692"
 language: de
-version: 2018-07-01
+version: 2024-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20180701/de/xml/fedlex-data-admin-ch-eli-cc-2007-692-20180701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-692-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/de"
 
 (Jugendarbeitsschutzverordnung, ArGV 5)
 
-vom 28. September 2007 (Stand am 1. Juli 2018)
+vom 28. September 2007 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -59,31 +59,52 @@ Soweit diese Verordnung keine besonderen Bestimmungen enthält, gelten das Arbei
 
 #### Art. 4
 
-**Gefährliche Arbeiten**
-
-### (Art. 29 Abs. 3 ArG)
+**Gefährliche Arbeiten: Grundsätze**[^4-1]
 
 <sup>1</sup> Jugendliche dürfen nicht für gefährliche Arbeiten beschäftigt werden.
 
-<sup>1bis</sup> Jugendliche mit einem eidgenössischen Berufsattest (EBA) oder einem eidgenössischen Fähigkeitszeugnis (EFZ) dürfen für gefährliche Arbeiten beschäftigt werden, wenn sie diese im Rahmen des erlernten Berufs ausführen.[^4-1]
+<sup>2</sup> Als gefährlich gelten alle Arbeiten, die ihrer Natur nach oder aufgrund der Um-stände, unter denen sie verrichtet werden, die Gesundheit, die Ausbildung und die Sicherheit der Jugendlichen sowie deren physische und psychische Entwicklung beeinträchtigen können.
 
-<sup>2</sup> Als gefährlich gelten alle Arbeiten, die ihrer Natur nach oder aufgrund der Umstände, unter denen sie verrichtet werden, die Gesundheit, die Ausbildung und die Sicherheit der Jugendlichen sowie deren physische und psychische Entwicklung beeinträchtigen können.
+<sup>3</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) legt fest, welche Arbeiten nach der Erfahrung und dem Stand der Technik als gefährlich gelten. Es berücksichtigt dabei, dass bei Jugendlichen mangels Erfahrung oder Ausbildung das Bewusstsein für Gefahren und die Fähigkeit, sich vor ihnen zu schützen, im Vergleich zu Erwachsenen weniger ausgeprägt sind.
 
-<sup>3</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-2] legt fest, welche Arbeiten nach der Erfahrung und dem Stand der Technik als gefährlich gelten. Es berücksichtigt dabei, dass bei Jugendlichen mangels Erfahrung oder Ausbildung das Bewusstsein für Gefahren und die Fähigkeit, sich vor ihnen zu schützen, im Vergleich zu Erwachsenen weniger ausgeprägt sind.
+<sup>4</sup> Jugendliche mit einem eidgenössischen Berufsattest (EBA) oder einem eidgenössischen Fähigkeitszeugnis (EFZ) dürfen für gefährliche Arbeiten beschäftigt werden, wenn sie diese im Rahmen des erlernten Berufs ausführen.
 
-<sup>4</sup> Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) kann mit Zustimmung des Staatssekretariats für Wirtschaft (SECO) für Jugendliche ab 15 Jahren in den Bildungsverordnungen Ausnahmen vorsehen, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder von behördlich anerkannten Kursen unentbehrlich ist. Die Organisationen der Arbeitswelt definieren im Anhang zu den Bildungsplänen begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes. Sie hören dazu vorgängig eine Spezialistin oder einen Spezialisten der Arbeitssicherheit gemäss der Verordnung vom 25. November 1996[^4-3] über die Eignung der Spezialistinnen und Spezialisten der Arbeitssicherheit an.[^4-4]
+[^4-1]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
-<sup>5</sup> Die Beschäftigung Jugendlicher für gefährliche Arbeiten im Sinne der Arbeitsgesetzgebung und der Unfallversicherungsgesetzgebung, die zum Erreichen der Ziele der beruflichen Grundbildung oder von behördlich anerkannten Kursen unentbehrlich ist, muss Gegenstand der Bildungsbewilligung nach Artikel 20 Absatz 2 BBG[^4-5] sein. Das kantonale Berufsbildungsamt hört vor Erteilung der Bewilligung die kantonale Arbeitsinspektion an.[^4-6]
+#### Art. 4a
 
-<sup>6</sup> Das SECO kann im Einzelfall Bewilligungen erteilen, die über die Ausnahmen nach Absatz 4 hinausgehen, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder von behördlich anerkannten Kursen unentbehrlich ist.[^4-7]
+**Gefährliche Arbeiten: berufliche Grundbildung**[^4a-1]
 
-[^4-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juli 2018 ([AS 2018 1841](https://fedlex.data.admin.ch/eli/oc/2018/275)).
-[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^4-3]: [SR 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
-[^4-4]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-5]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-6]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-7]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
+<sup>1</sup> Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) kann mit Zustimmung des Staatssekretariats für Wirtschaft (SECO) für Jugendliche ab 15 Jahren in den Bildungsverordnungen Ausnahmen vom Verbot nach Artikel 4 Absatz 1 vorsehen, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder für den Besuch von behördlich anerkannten Kursen unentbehrlich ist. Die Organisationen der Arbeitswelt definieren im Anhang zu den Bildungsplänen begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes. Sie hören dazu vorgängig eine Spezialistin oder einen Spezialisten der Arbeitssicherheit gemäss der Verordnung vom 25. November 1996[^4a-2] über die Eignung der Spezialistinnen und Spezialisten der Arbeitssicherheit an.
+
+<sup>2</sup> Die Beschäftigung Jugendlicher für gefährliche Arbeiten nach Absatz 1 muss vom kantonalen Berufsbildungsamt bewilligt werden und Gegenstand der kantonalen Bildungsbewilligung nach Artikel 20 Absatz 2 BBG[^4a-3] sein. Das kantonale Berufsbildungsamt hört vor Erteilung der Bewilligung die kantonale Arbeitsinspektion an.
+
+<sup>3</sup> Das SECO kann auf Gesuch des Betriebs hin eine Ausnahmebewilligung erteilen für die Beschäftigung von Jugendlichen für gefährliche Arbeiten, für die in den Bildungsverordnungen keine Ausnahmen vorgesehen sind, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder für den Besuch von behördlich anerkannten Kursen unentbehrlich ist.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4a-2]: [SR 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
+[^4a-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 4b
+
+**Gefährliche Arbeiten: Massnahmen zur beruflichen Eingliederung und zur Vorbereitung auf die berufliche Grundbildung**[^4b-1]
+
+<sup>1</sup>
+
+Jugendliche ab 15 Jahren dürfen für gefährliche Arbeiten ausserhalb der beruflichen Grundbildung beschäftigt werden, wenn die Arbeiten im Rahmen einer eidgenössischen oder kantonalen Massnahme zur beruflichen Eingliederung oder im Rahmen eines Angebots zur Vorbereitung auf die berufliche Grundbildung nach Artikel 12 BBG[^4b-2] ausgeführt werden und die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Massnahme oder das Angebot wird gemäss eidgenössischen oder kantonalen Vorgaben von einer Behörde beaufsichtigt.
+- b. Es handelt sich um eine Tätigkeit, für die in einer Bildungsverordnung eine Ausnahme nach Artikel 4*a* Absatz 1 vorgesehen ist.
+- c. Der Betrieb verfügt über eine Bildungsbewilligung nach Artikel 20 Absatz 2 BBG, die die Beschäftigung Jugendlicher für gefährliche Arbeiten vorsieht.
+- d. Der Betrieb hält für die von den Jugendlichen ausgeführten Arbeiten die nach Artikel 4*a* Absatz 1 im Anhang zu den Bildungsplänen definierten begleitenden Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes ein.
+- e. Die Jugendlichen werden von einer erfahrenen erwachsenen Fachkraft ausreichend und angemessen geschult und angeleitet, welche sie während der Ausführung der gefährlichen Arbeiten überwacht.
+
+<sup>2</sup> Schnupperlehren und einzelne Arbeitseinsätze im Rahmen eines vorübergehenden Unterrichtsausschlusses sind keine Massnahmen zur beruflichen Eingliederung und zur Vorbereitung auf die berufliche Grundausbildung. Es gilt Artikel 4.
+
+<sup>3</sup> Das Kantonale Arbeitsinspektorat kann einem Betrieb, der nicht über eine Bildungsbewilligung nach Artikel 20 Absatz 2 BBG verfügt, auf Gesuch hin eine Ausnahmebewilligung für die Beschäftigung Jugendlicher ab 15 Jahren für gefährliche Arbeiten ausserhalb der beruflichen Grundbildung erteilen, wenn die von ihm durchgeführte Kontrolle ergeben hat, dass die Voraussetzungen nach Absatz 1 Buchstaben a, b, d und e erfüllt sind. Es kann die Ausnahmebewilligung befristen und mit Auflagen versehen. Ein Ausnahmefall liegt insbesondere dann vor, wenn der Betrieb bereits die notwendigen Massnahmen getroffen hat, um innerhalb eines Jahres eine Bildungsbewilligung zu erlangen.
+
+[^4b-1]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4b-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
 
@@ -93,9 +114,10 @@ Soweit diese Verordnung keine besonderen Bestimmungen enthält, gelten das Arbei
 
 <sup>1</sup> Jugendliche dürfen nicht beschäftigt werden für die Bedienung von Gästen in Betrieben der Unterhaltung wie Nachtlokalen, Dancings, Diskotheken und Barbetrieben.
 
-<sup>2</sup> Jugendliche unter 16 Jahren dürfen nicht beschäftigt werden für die Bedienung von Gästen in Hotels, Restaurants und Cafés. Diese Beschäftigung ist zulässig im Rahmen der beruflichen Grundbildung oder von Programmen, die zur Berufswahlvorbereitung vom Betrieb, von den ausbildungs- und prüfungsverantwortlichen Organisationen der Arbeitswelt, von Berufsberatungsstellen oder von Organisationen, die ausserschulische Jugendarbeit nach dem Bundesgesetz vom 6. Oktober 1989[^5-1] über die Förderung der ausserschulischen Jugendarbeit betreiben, angeboten werden.
+<sup>2</sup> Jugendliche unter 16 Jahren dürfen nicht beschäftigt werden für die Bedienung von Gästen in Hotels, Restaurants und Cafés. Diese Beschäftigung ist zulässig im Rahmen der beruflichen Grundbildung oder von Programmen, die zur Berufswahlvorbereitung vom Betrieb, von den ausbildungs- und prüfungsverantwortlichen Organisationen der Arbeitswelt, von Berufsberatungsstellen oder von Organisationen, die ausserschulische Kinder- und Jugendarbeit nach dem Kinder- und Jugendförderungsgesetz vom 30. September 2011[^5-1] betreiben, angeboten werden.[^5-2]
 
-[^5-1]: [[AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 8. [AS 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)Art. 25]. Siehe heute: das Kinder- und Jugendförderungsgesetz vom 30. September 2011 ([SR 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^5-1]: [SR 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^5-2]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 6
 
@@ -117,13 +139,14 @@ Jugendliche unter 16 Jahren dürfen nicht beschäftigt werden für die Arbeit in
 
 #### Art. 8
 
-**Leichte Arbeiten**
+**Leichte Arbeiten**[^8-1]
 
 ### (Art. 30 Abs. 2 Bst. a ArG)
 
-Wo nicht eine der Sonderbestimmungen nach den Artikeln 4–7 gilt, dürfen Jugendliche ab 13 Jahren beschäftigt werden, sofern die Arbeit ihrer Natur oder den Umständen nach, unter denen sie verrichtet wird, keinen negativen Einfluss auf die Gesundheit, die Sicherheit sowie die physische und psychische Entwicklung der Jugendlichen hat und die Tätigkeit weder den Schulbesuch noch die Schulleistung beeinträchtigt. Sie dürfen namentlich beschäftigt werden in Programmen, die im Rahmen der Berufswahlvorbereitung vom Betrieb, von den ausbildungs- und prüfungsverantwortlichen Organisationen der Arbeitswelt, von Berufsberatungsstellen oder von Organisationen, die ausserschulische Jugendarbeit nach dem Bundesgesetz vom 6. Oktober 1989[^8-1] über die Förderung der ausserschulischen Jugendarbeit betreiben, angeboten werden.
+Wo nicht eine der Sonderbestimmungen nach den Artikeln 4–7 gilt, dürfen Jugendliche ab 13 Jahren beschäftigt werden, sofern die Arbeit ihrer Natur oder den Umständen nach, unter denen sie verrichtet wird, keinen negativen Einfluss auf die Gesundheit, die Sicherheit sowie die physische und psychische Entwicklung der Jugendlichen hat und die Tätigkeit weder den Schulbesuch noch die Schulleistung beeinträchtigt. Sie dürfen namentlich beschäftigt werden in Programmen, die im Rahmen der Berufswahlvorbereitung vom Betrieb, von den ausbildungs- und prüfungsverantwortlichen Organisationen der Arbeitswelt, von Berufsberatungsstellen oder von Organisationen, die ausserschulische Kinder- und Jugendarbeit nach dem Kinder- und Jugendförderungsgesetz vom 30. September 2011[^8-2] betreiben, angeboten werden.
 
-[^8-1]: [[AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 8. [AS 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)Art. 25]. Siehe heute: das Kinder- und Jugendförderungsgesetz vom 30. September 2011 ([SR 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^8-2]: [SR 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
 
 ## 3. Abschnitt: Beschäftigung schulentlassener Jugendlicher unter 15 Jahren
 
@@ -308,21 +331,9 @@ Die Verordnung 1 vom 10. Mai 2000[^22-1]6 zum Arbeitsgesetz wird wie folgt geän
 
 #### Art. 22a
 
-**Übergangsbestimmungen zur Änderung vom 25. Juni 2014**[^22a-1]
+[^22a-1]
 
-<sup>1</sup> Die zuständigen Organisationen der Arbeitswelt sorgen innert dreier Jahre ab Inkrafttreten der Änderung vom 25. Juni 2014 dieser Verordnung dafür, dass begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes im Sinne von Artikel 4 Absatz 4 definiert und vom SBFI genehmigt sind. Liegen nach Ablauf dieser Frist keine genehmigten begleitenden Massnahmen vor, so dürfen in der entsprechenden beruflichen Grundbildung keine Jugendlichen mehr im Sinne von Artikel 4 Absatz 4 beschäftigt werden.
-
-<sup>2</sup> Die kantonalen Berufsbildungsämter überprüfen innert zweier Jahre ab der Genehmigung der begleitenden Massnahmen nach Absatz 1 die zu diesem Zeitpunkt bereits erteilten Bildungsbewilligungen gemäss Artikel 20 Absatz 2 BBG[^22a-2]. Bis zum Abschluss dieser Überprüfung gilt bisheriges Recht. Liegt nach Ablauf der Überprüfungsfrist von zwei Jahren keine überprüfte Bildungsbewilligungen vor, so darf der betreffende Betrieb in der entsprechenden beruflichen Grundbildung keine Jugendlichen mehr im Sinne von Artikel 4 Absatz 4 beschäftigen.
-
-<sup>3</sup>
-
-Jugendliche, die eine der beiden folgenden Voraussetzungen erfüllen, schliessen die berufliche Grundbildung nach bisherigem Recht ab:
-
-- a. Sie haben eine berufliche Grundbildung begonnen, ohne dass innerhalb der Frist von Absatz 1 die begleitenden Massnahmen nach Artikel 4 Absatz 4 genehmigt worden sind.
-- b. Sie haben eine berufliche Grundbildung in einem Betrieb begonnen, dessen Bildungsbewilligung nicht innerhalb der Frist von Absatz 2 überprüft worden ist.
-
-[^22a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^22a-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^22a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014 ([AS 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)). Aufgehoben durch Ziff. I der V vom 14. Febr. 2024, mit Wirkung seit 1. April 2024 ([AS 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 23
 

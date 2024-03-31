@@ -4,11 +4,11 @@ title: "Ordinanza 5 del 28 settembre 2007 concernente la legge sul lavoro (Ordin
 short: OLL 5
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/692"
 language: it
-version: 2018-07-01
+version: 2024-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20180701/it/xml/fedlex-data-admin-ch-eli-cc-2007-692-20180701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-692-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/it"
 
 (Ordinanza sulla protezione dei giovani lavoratori, OLL 5)
 
-del 28 settembre 2007 (Stato 1° luglio 2018)
+del 28 settembre 2007 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -59,31 +59,52 @@ Salvo disposizioni speciali della presente ordinanza, si applicano le disposizio
 
 #### Art. 4
 
-**Lavori pericolosi**
-
-### (art. 29 cpv. 3 LL)
+**Lavori pericolosi: principi**[^4-1]
 
 <sup>1</sup> È vietato l’impiego di giovani per lavori pericolosi.
 
-<sup>1bis</sup> I giovani con un certificato federale di formazione pratica (CFP) o un attestato federale di capacità (AFC) possono essere impiegati per lavori pericolosi se svolgono tali lavori nel quadro della professione appresa.[^4-1]
+<sup>2</sup> Per lavori pericolosi si intendono tutti i lavori che per la loro natura o per le condizioni nelle quali vengono eseguiti possono pregiudicare la salute, la formazione e la sicurezza dei giovani come anche il loro sviluppo psicofisico.
 
-<sup>2</sup> Per lavori pericolosi si intendono tutti i lavori che per la loro natura o per le condizioni nelle quali vengono eseguiti possono pregiudicare la salute, l’educazione, la formazione e la sicurezza dei giovani come anche il loro sviluppo psicofisico.
+<sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) stabilisce quali lavori, in base all’esperienza e allo stato della tecnica, sono da considerare pericolosi. In quest’ambito tiene conto del fatto che i giovani, a causa della scarsa esperienza o formazione, non hanno una consapevolezza dei pericoli e una capacità di proteggersi da essi pari a quelle degli adulti.
 
-<sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^4-2] stabilisce quali lavori, in base all’esperienza e allo stato della tecnica, sono da considerare pericolosi. In quest’ambito tiene conto del fatto che i giovani, a causa della scarsa esperienza o formazione, non hanno una consapevolezza dei pericoli e una capacità di proteggersi da essi pari a quelle degli adulti.
+<sup>4</sup> I giovani con un certificato federale di formazione pratica (CFP) o un attestato federale di capacità (AFC) possono essere impiegati per lavori pericolosi se svolgono tali lavori nel quadro della professione appresa.
 
-<sup>4</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) può, d’intesa con la Segreteria di Stato dell’economia (SECO), prevedere, con ordinanze in materia di formazione, deroghe per i giovani di età superiore ai 15 anni se ciò è necessario al raggiungimento degli obiettivi della formazione professionale di base o alla frequentazione di corsi riconosciuti dalle autorità. Le organizzazioni del mondo del lavoro definiscono, nell’allegato ai piani di formazione, misure di accompagnamento concernenti la sicurezza sul lavoro e la protezione della salute. A tal fine consultano preventivamente uno specialista della sicurezza sul lavoro conformemente all’ordinanza del 25 novembre 1996[^4-3] sulla qualifica degli specialisti della sicurezza sul lavoro.[^4-4]
+[^4-1]: Nuovo testo giusta il n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
-<sup>5</sup> L’impiego di giovani per lavori pericolosi ai sensi della legislazione sul lavoro e della legislazione sull’assicurazione contro gli infortuni, necessario al raggiungimento degli obiettivi della formazione professionale di base o alla frequentazione di corsi riconosciuti dalle autorità, dev’essere parte integrante dell’autorizzazione per formare apprendisti di cui all’articolo 20 capoverso 2 LFPr[^4-5]. Prima di rilasciare l’autorizzazione, l’ufficio cantonale della formazione professionale sente l’ispettorato cantonale del lavoro.[^4-6]
+#### Art. 4a
 
-<sup>6</sup> La SECO può accordare autorizzazioni nei singoli casi (permessi individuali) che esulano dalle deroghe previste nel capoverso 4, se ciò è necessario al raggiungimento degli obiettivi della formazione professionale di base o alla frequentazione di corsi riconosciuti dalle autorità.[^4-7]
+**Lavori pericolosi: formazione professionale di base**[^4a-1]
 
-[^4-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° lug. 2018 ([RU 2018 1841](https://fedlex.data.admin.ch/eli/oc/2018/275)).
-[^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-3]: [RS 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
-[^4-4]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-5]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-6]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-7]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
+<sup>1</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) può, d’intesa con la Segreteria di Stato dell’economia (SECO), prevedere, nelle ordinanze in materia di formazione, deroghe al divieto di cui all’articolo 4 capoverso 1 per i giovani di età superiore ai 15 anni se ciò è necessario al raggiungimento degli obiettivi della formazione professionale di base o alla frequentazione di corsi riconosciuti dalle autorità. Le organizzazioni del mondo del lavoro definiscono, nell’allegato ai piani di formazione, misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute. A tal fine consultano preventivamente uno specialista della sicurezza sul lavoro conformemente all’ordinanza del 25 novembre 1996[^4a-2] sulla qualifica degli specialisti della sicurezza sul lavoro.
+
+<sup>2</sup> L’impiego di giovani per lavori pericolosi secondo il capoverso 1 deve essere autorizzato dall’ufficio cantonale della formazione professionale nel quadro dell’autorizzazione cantonale per formare apprendisti di cui all’articolo 20 capoverso 2 LFPr[^4a-3]. Prima di rilasciare l’autorizzazione, l’ufficio cantonale della formazione professionale sente l’ispettorato cantonale del lavoro.
+
+<sup>3</sup> La SECO può, su richiesta dell’azienda, accordare un’autorizzazione eccezionale per l’impiego di giovani per i lavori pericolosi per i quali non sono previste deroghe nelle ordinanze in materia di formazione se ciò è necessario al raggiungimento degli obiettivi della formazione professionale di base o alla frequentazione di corsi riconosciuti dalle autorità.
+
+[^4a-1]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4a-2]: [RS 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
+[^4a-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 4b
+
+**Lavori pericolosi: provvedimenti d*’*integrazione professionale e offerte di preparazione alla formazione professionale di base**[^4b-1]
+
+<sup>1</sup>
+
+I giovani di età superiore ai 15 anni possono essere impiegati per lavori pericolosi al di fuori della formazione professionale di base se i lavori sono svolti nell’ambito di un provvedimento federale o cantonale d’integrazione professionale o nell’ambito di un’offerta di preparazione alla formazione professionale di base conformemente all’articolo 12 LFPr[^4b-2] e se sono soddisfatte le seguenti condizioni:
+
+- a. il provvedimento o l’offerta sottostà alla sorveglianza di un’autorità secondo le prescrizioni federali o cantonali;
+- b. si tratta di lavori per i quali è prevista una deroga in un’ordinanza in materia di formazione secondo l’articolo 4*a* capoverso 1;
+- c. l’azienda dispone di un’autorizzazione per formare apprendisti secondo l’articolo 20 capoverso 2 LFPr che prevede l’impiego di giovani per lavori pericolosi;
+- d. l’azienda rispetta, per i lavori svolti dai giovani, le misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute di cui all’articolo 4*a* capoverso 1 definite nell’allegato ai piani di formazione;
+- e. i giovani sono sufficientemente e adeguatamente formati e istruiti da uno specialista adulto con esperienza, che li sorveglia durante lo svolgimento di lavori pericolosi.
+
+<sup>2</sup> Gli stage d’orientamento e i singoli lavori nel quadro di una sospensione dalla scuola non sono provvedimenti d’integrazione professionale né offerte di preparazione alla formazione professionale di base. Si applica l’articolo 4.
+
+<sup>3</sup> L’ispettorato cantonale del lavoro può, su richiesta, accordare a un’azienda che non dispone di un’autorizzazione per formare apprendisti secondo l’articolo 20 capoverso 2 LFPr un’autorizzazione eccezionale per l’impiego di giovani di età superiore ai 15 anni per lavori pericolosi al di fuori della formazione professionale di base se dal controllo che ha effettuato risulta che sono soddisfatte le condizioni di cui al capoverso 1 lettere a, b, d ed e. L’ispettorato cantonale del lavoro può limitare nel tempo l’autorizzazione eccezionale e subordinarla a oneri. Si è in presenza di una situazione eccezionale in particolare se l’azienda ha già adottato le misure necessarie per ottenere entro un anno un’autorizzazione per formare apprendisti.
+
+[^4b-1]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4b-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
 
@@ -93,9 +114,10 @@ Salvo disposizioni speciali della presente ordinanza, si applicano le disposizio
 
 <sup>1</sup> È vietato l’impiego di giovani per il servizio dei clienti nelle aziende di divertimenti quali locali notturni, dancing, discoteche e bar.
 
-<sup>2</sup> È vietato l’impiego di giovani di età inferiore ai 16 anni per il servizio dei clienti in alberghi, ristoranti e caffè. L’occupazione può tuttavia essere autorizzata nell’ambito di una formazione professionale di base o di programmi organizzati, a scopo di orientamento professionale, dalle imprese, dalle organizzazioni del mondo del lavoro con responsabilità in materia di formazione e di esame, da enti incaricati dell’orientamento professionale o da enti responsabili di attività giovanili extrascolastiche, conformemente alla legge federale del 6 ottobre 1989[^5-1] per la promozione delle attività giovanili extrascolastiche.
+<sup>2</sup> È vietato l’impiego di giovani di età inferiore ai 16 anni per il servizio dei clienti in alberghi, ristoranti e caffè. L’occupazione può tuttavia essere autorizzata nell’ambito della formazione professionale di base o di programmi organizzati a scopi di orientamento professionale da parte di aziende, di organizzazioni del mondo del lavoro con responsabilità in materia di formazione e di esame, di enti incaricati dell’orientamento professionale o di enti responsabili di attività giovanili extrascolastiche conformemente alla legge del 30 settembre 2011[^5-1] sulla promozione delle attività giovanili extrascolastiche.[^5-2]
 
-[^5-1]: [[RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I 8. [RU 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)art. 25]. Vedi ora la LF del 30 set. 2011 sulla promozione delle attività extrascolastiche di fanciulli e giovani, in vigore dal 1° gen. 2013 ([RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^5-1]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^5-2]: Nuovo testo giusta il n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 6
 
@@ -117,13 +139,14 @@ Salvo disposizioni speciali della presente ordinanza, si applicano le disposizio
 
 #### Art. 8
 
-**Lavori leggeri**
+**Lavori leggeri**[^8-1]
 
-### (art. 30 cpv. 2 lett. a LL)
+### (art. 30 cpv 2 lett. a LL)
 
-Se non è applicabile una disposizione speciale secondo gli articoli 4–7, i giovani di età superiore ai 13 anni possono essere impiegati per lavori che, per il genere o le condizioni in cui vengono eseguiti, non ne compromettano la salute, la sicurezza o lo sviluppo psicofisico e non ne pregiudichino la frequenza e le prestazioni scolastiche. I giovani di età superiore ai 13 anni possono essere impiegati segnatamente nell’ambito di programmi organizzati a scopi di orientamento professionale da parte di aziende, di organizzazioni del mondo del lavoro con responsabilità in materia di formazione e di esame, di enti incaricati dell’orientamento professionale o di enti responsabili di attività giovanili extrascolastiche, conformemente alla legge federale del 6 ottobre 1989[^8-1] per la promozione delle attività giovanili extrascolastiche.
+Se non è applicabile una disposizione speciale secondo gli articoli 4–7, i giovani di età superiore ai 13 anni possono essere impiegati per lavori che, per il genere o le condizioni in cui vengono eseguiti, non ne compromettano la salute, la sicurezza o lo sviluppo psicofisico e non ne pregiudichino la frequenza e le prestazioni scolastiche. I giovani di età superiore ai 13 anni possono essere impiegati segnatamente nell’ambito di programmi organizzati a scopi di orientamento professionale da parte di aziende, di organizzazioni del mondo del lavoro con responsabilità in materia di formazione e di esame, di enti incaricati dell’orientamento professionale o di enti responsabili di attività giovanili extrascolastiche conformemente alla legge del 30 settembre 2011[^8-2] sulla promozione delle attività giovanili extrascolastiche.
 
-[^8-1]: [[RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I 8. [RU 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)art. 25]. Vedi ora la LF del 30 set. 2011 sulla promozione delle attività extrascolastiche di fanciulli e giovani, in vigore dal 1° gen. 2013 ([RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del 14 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^8-2]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
 
 ## Sezione 3: Occupazione di giovani di età inferiore ai 15 anni prosciolti dall’obbligo scolastico
 
@@ -305,21 +328,9 @@ L’ordinanza 1 del 10 maggio 2000[^22-1] concernente la legge sul lavoro è mod
 
 #### Art. 22a
 
-**Disposizioni transitorie della modifica del 25 giugno 2014**[^22a-1]
+[^22a-1]
 
-<sup>1</sup> Le competenti organizzazioni del mondo del lavoro provvedono affinché entro tre anni dall’entrata in vigore della modifica del 25 giugno 2014 della presente ordinanza siano definite misure di accompagnamento concernenti la sicurezza sul lavoro e la protezione della salute ai sensi dell’articolo 4 capoverso 4 e che tali misure siano approvate dalla SEFRI. Se alla scadenza di tale termine non sono state definite né approvate misure di accompagnamento, non si possono più impiegare giovani ai sensi dell’articolo 4 capoverso 4 nella formazione professionale di base interessata.
-
-<sup>2</sup> Gli uffici cantonali della formazione professionale riesaminano, entro due anni dall’approvazione delle misure di accompagnamento di cui al capoverso 1, le autorizzazioni per formare apprendisti già rilasciate ai sensi dell’articolo 20 capoverso 2 LFPr[^22a-2]. Fino alla conclusione di questo riesame si applica il diritto previgente. Se, alla scadenza del termine di riesame di due anni, un’azienda non dispone di un’autorizzazione per formare apprendisti aggiornata, essa non può più impiegare giovani ai sensi dell’articolo 4 capoverso 4 nella formazione professionale di base interessata.
-
-<sup>3</sup>
-
-Concludono la formazione professionale di base secondo il diritto previgente i giovani che soddisfano una delle due condizioni seguenti:
-
-- a. hanno iniziato una formazione professionale di base senza che entro il termine di cui al capoverso 1 siano state approvate le misure di accompagnamento di cui all’articolo 4 capoverso 4;
-- b. hanno iniziato una formazione professionale di base in un’azienda la cui autorizzazione per formare apprendisti non è stata riesaminata entro il termine di cui al capoverso 2.
-
-[^22a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^22a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^22a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)). Abrogato dal n. I dell’O del 14 feb. 2024, con effetto dal 1° apr. 2024 ([RU 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 23
 

@@ -4,11 +4,11 @@ title: "Ordonnance 5 du 28 septembre 2007 relative à la loi sur le travail (Ord
 short: OLT 5
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/692"
 language: fr
-version: 2018-07-01
+version: 2024-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-692-20180701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/692/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-692-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/692/20180701/fr"
 
 (Ordonnance sur la protection des jeunes travailleurs, OLT 5)
 
-du 28 septembre 2007 (État le 1<sup>er</sup> juillet 2018)
+du 28 septembre 2007 (État le 1<sup>er</sup> avril 2024)
 
 Le Conseil fédéral suisse,
 
@@ -59,31 +59,52 @@ Lorsque la présente ordonnance ne prévoit pas de réglementation spécifique, 
 
 #### Art. 4
 
-**Travaux dangereux**
-
-### (art. 29, al. 3, LTr)
+**Travaux dangereux*:* principes**[^4-1]
 
 <sup>1</sup> Il est interdit d’employer des jeunes à des travaux dangereux.
 
-<sup>1bis</sup> Il est autorisé d’employer des jeunes disposant d’un certificat fédéral de capacité (CFC) ou d’une attestation fédérale de formation professionnelle (AFP) à des travaux dangereux, pour autant qu’ils exécutent ces travaux dans le cadre du métier appris.[^4-1]
+<sup>2</sup> Par travaux dangereux, on entend tous les travaux qui, de par leur nature ou les conditions dans lesquelles ils s’exercent, sont susceptibles de nuire à la santé, à la formation ou à la sécurité des jeunes ou à leur développement physique et psychique.
 
-<sup>2</sup> Par travaux dangereux, on entend tous les travaux qui, de par leur nature ou les conditions dans lesquelles ils s’exercent, sont susceptibles de nuire à la santé, à la formation, à la sécurité des jeunes ou à leur développement physique et psychique.
+<sup>3</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) fixe les travaux qui, par expérience et en l’état actuel de la technique, doivent être considérés comme dangereux. Il tient compte pour cela du fait que les jeunes, en raison de leur manque d’expérience ou de formation, n’ont pas une conscience des risques aussi développée que les adultes, pas plus qu’ils ne disposent des mêmes capacités de s’en prémunir.
 
-<sup>3</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^4-2] fixe les travaux qui, par expérience et en l’état actuel de la technique, doivent être considérés comme dangereux. Il tient compte pour cela du fait que les jeunes, en raison de leur manque d’expérience ou de formation, n’ont pas une conscience des risques aussi développée que les adultes, pas plus qu’ils ne disposent des mêmes capacités de s’en prémunir.
+<sup>4</sup> L’emploi des jeunes disposant d’un certificat fédéral de capacité (CFC) ou d’une attestation fédérale de formation professionnelle (AFP) à des travaux dangereux est autorisé, pour autant qu’ils exécutent ces travaux dans le cadre du métier appris.
 
-<sup>4</sup> Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) peut, avec l’accord du Secrétariat d’Etat à l’économie (SECO), prévoir, dans les ordonnances sur la formation, des dérogations à cette interdiction pour les jeunes âgés d’au moins 15 ans lorsque l’exécution de travaux dangereux est indispensable pour atteindre les buts de la formation professionnelle initiale ou de cours reconnus par les autorités. Les organisations du monde du travail définissent, en annexe aux plans de formation, des mesures d’accompagnement en matière de sécurité au travail et de protection de la santé. Elles consultent au préalable un spécialiste de la sécurité au travail au sens de l’ordonnance du 25 novembre 1996 sur les qualifications des spécialistes de la sécurité au travail[^4-3].[^4-4]
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
-<sup>5</sup> L’emploi de jeunes travailleurs à des travaux dangereux au sens des législations sur le travail et sur l’assurance-accidents qui est indispensable pour atteindre les buts de la formation professionnelle initiale ou de cours reconnus par les autorités, doit être prévu par l’autorisation cantonale de former des apprentis visée à l’art. 20, al. 2, LFPr[^4-5]. L’office cantonal de formation professionnelle entend l’inspection cantonale du travail avant d’octroyer l’autorisation.[^4-6]
+#### Art. 4a
 
-<sup>6</sup> Le SECO peut octroyer des autorisations exceptionnelles (permis individuels) en dehors du cadre prévu par l’al. 4 lorsque l’exécution de travaux dangereux est indispensable pour atteindre les buts de la formation professionnelle initiale ou de cours reconnus par les autorités.[^4-7]
+**Travaux dangereux*:* formation professionnelle initiale**[^4a-1]
 
-[^4-1]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 1841](https://fedlex.data.admin.ch/eli/oc/2018/275)).
-[^4-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-3]: [RS 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-5]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^4-7]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
+<sup>1</sup> Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) peut, avec l’accord du Secrétariat d’État à l’économie (SECO), prévoir, dans les ordonnances sur la formation, des dérogations à l’interdiction énoncée à l’art. 4 al. 1 pour les jeunes âgés d’au moins 15 ans lorsque l’exécution de travaux dangereux est indispensable pour atteindre les buts de la formation professionnelle initiale ou pour suivre des cours reconnus par les autorités. Les organisations du monde du travail définissent, en annexe aux plans de formation, des mesures d’accompagnement en matière de sécurité au travail et de protection de la santé. Elles consultent au préalable un spécialiste de la sécurité au travail au sens de l’ordonnance du 25 novembre 1996 sur les qualifications des spécialistes de la sécurité au travail[^4a-2].
+
+<sup>2</sup> L’emploi de jeunes à des travaux dangereux selon l’al. 1 doit être autorisé par l’office cantonal de formation professionnelle dans le cadre de l’autorisation cantonale pour former des apprentis visée à l’art. 20, al. 2, LFPr[^4a-3]. L’office cantonal de formation professionnelle entend l’inspection cantonale du travail avant d’octroyer l’autorisation.
+
+<sup>3</sup> Sur demande de l’entreprise, le SECO peut octroyer une autorisation exceptionnelle pour l’emploi de jeunes à des travaux dangereux pour lesquels aucune dérogation n’est prévue dans les ordonnances sur la formation, lorsque l’exécution de travaux dangereux est indispensable pour atteindre les buts de la formation professionnelle initiale ou pour suivre des cours reconnus par les autorités.
+
+[^4a-1]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4a-2]: [RS 822.116](https://fedlex.data.admin.ch/eli/cc/1996/3121_3121_3121)
+[^4a-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 4b
+
+**Travaux dangereux*:* mesures d’insertion professionnelle et offres de préparation à la formation professionnelle initiale**[^4b-1]
+
+<sup>1</sup>
+
+L’emploi de jeunes de plus de 15 ans à des travaux dangereux en dehors d’une formation professionnelle initiale est autorisé lorsque ces travaux se déroulent dans le cadre d’une mesure fédérale ou cantonale d’insertion professionnelle ou d’une offre de préparation à la formation professionnelle initiale selon l’art. 12 LFPr[^4b-2] et que les conditions suivantes sont remplies:
+
+- a. une autorité surveille la mesure ou l’offre selon les prescriptions fédérales ou cantonales;
+- b. il s’agit de travaux pour lesquels une ordonnance sur la formation prévoit une dérogation conformément à l’art. 4*a*, al. 1;
+- c. l’entreprise dispose de l’autorisation pour former des apprentis visée à l’art. 20, al. 2, LFPr prévoyant l’emploi de jeunes à de tels travaux;
+- d. l’entreprise respecte, pour les travaux effectués par les jeunes, les mesures d’accompagnement en matière de sécurité au travail et de protection de la santé visées à l’art. 4*a*, al. 1, et définies dans l’annexe aux plans de formation;
+- e. les jeunes sont formés et instruits de manière suffisante et convenable par un professionnel adulte et expérimenté, qui les surveille pendant l’exécution des travaux dangereux.
+
+<sup>2</sup> Les stages d’orientation et les prestations ponctuelles de travail dans le cadre d’une exclusion temporaire de l’école ne constituent pas des mesures d’insertion professionnelle ni des offres de préparation à la formation professionnelle initiale. L’art. 4 s’applique.
+
+<sup>3</sup> L’inspection cantonale du travail peut octroyer une autorisation exceptionnelle pour l’emploi de jeunes de plus de 15 ans à des travaux dangereux en dehors de la formation professionnelle initiale à une entreprise qui le demande et qui ne dispose pas de l’autorisation pour former des apprentis visée à l’art. 20, al. 2, LFPr, s’il ressort du contrôle effectué par l’inspection que ladite entreprise remplit les exigences requises à l’al. 1, let. a, b, d et e. L’inspection peut octroyer cette autorisation pour une durée limitée et l’assortir de conditions. Une situation exceptionnelle se présente, en particulier, lorsqu’une entreprise a déjà pris les mesures nécessaires pour obtenir l’autorisation pour former des apprentis dans un délai d’un an.
+
+[^4b-1]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^4b-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
 
@@ -93,9 +114,10 @@ Lorsque la présente ordonnance ne prévoit pas de réglementation spécifique, 
 
 <sup>1</sup> Il est interdit d’employer des jeunes au service de clients dans les entreprises de divertissement telles que les cabarets, boîtes de nuit, dancings, discothèques et bars.
 
-<sup>2</sup> Il est interdit d’employer des jeunes de moins de 16 ans au service de clients dans les hôtels, restaurants et cafés. Un tel emploi est néanmoins admis dans le cadre de la formation professionnelle initiale ou de programmes organisés à des fins d’orientation professionnelle par des entreprises, des organisations du monde du travail assumant des responsabilités en matière de formation et d’examens, des organes chargés de l’orientation professionnelle ou des organismes responsables d’activités de jeunesse extrascolaires, conformément à la loi fédérale du 6 octobre 1989 concernant l’encouragement des activités de jeunesse extrascolaires[^5-1].
+<sup>2</sup> Il est interdit d’employer des jeunes de moins de 16 ans au service de clients dans les hôtels, restaurants et cafés. Un tel emploi est néanmoins admis dans le cadre de la formation professionnelle initiale ou de programmes organisés à des fins d’orientation professionnelle par des entreprises, des organisations du monde du travail assumant des responsabilités en matière de formation et d’examens, des organes chargés de l’orientation professionnelle ou des organismes responsables d’activités extrascolaires des enfants et des jeunes conformément à la loi du 30 septembre 2011 sur l’encouragement de l’enfance et de la jeunesse[^5-1].[^5-2]
 
-[^5-1]: [[RO 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 8. [RO 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)art. 25]. Voir actuellement: la LF du 30 sept. 2011 sur l’encouragement de l’enfance et de la jeunesse ([RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^5-1]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 6
 
@@ -117,13 +139,14 @@ Il est interdit d’employer des jeunes de moins de 16 ans dans les entreprises 
 
 #### Art. 8
 
-**Travaux légers**
+**Travaux légers**[^8-1]
 
 ### (art. 30, al. 2, let. a, LTr)
 
-Lorsqu’aucune des dispositions contenues dans les art. 4 à 7 ne s’applique, les jeunes de plus de 13 ans peuvent être employés à des travaux qui, de par leur nature et les conditions dans lesquelles ils s’exercent, ne sont susceptibles de compromettre ni la santé, ni la sécurité, ni le développement physique ou psychique des jeunes, pas plus qu’ils ne risquent de porter préjudice à leur assiduité scolaire et à leurs prestations scolaires. Les jeunes de plus de 13 ans peuvent notamment être employés dans le cadre de programmes organisés à des fins d’orientation professionnelle par des entreprises, des organisations du monde du travail assumant des responsabilités en matière de formation et d’examens, des organes chargés de l’orientation professionnelle ou des organismes responsables d’activités de jeunesse extrascolaires, conformément à la loi fédérale du 6 octobre 1989 concernant l’encouragement des activités de jeunesse extrascolaires[^8-1].
+Lorsqu’aucune des dispositions contenues dans les art. 4 à 7 ne s’applique, les jeunes de plus de 13 ans peuvent être employés à des travaux qui, de par leur nature et les conditions dans lesquelles ils s’exercent, ne sont susceptibles de compromettre ni la santé, ni la sécurité, ni le développement physique ou psychique des jeunes, pas plus qu’ils ne risquent de porter préjudice à leur assiduité scolaire et à leurs prestations scolaires. Ils peuvent notamment être employés dans le cadre de programmes organisés à des fins d’orientation professionnelle par des entreprises, des organisations du monde du travail assumant des responsabilités en matière de formation et d’examens, des organes chargés de l’orientation professionnelle ou des organismes responsables d’activités extrascolaires des enfants et des jeunes conformément à la loi du 30 septembre 2011 sur l’encouragement de l’enfance et de la jeunesse[^8-2].
 
-[^8-1]: [[RO 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007), [2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 8. [RO 2012 5959](https://fedlex.data.admin.ch/eli/oc/2012/698)art. 25]. Voir actuellement: la LF du 30 sept. 2011 sur l’encouragement de l’enfance et de la jeunesse ([RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
+[^8-2]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
 
 ## Section 3 Emploi de jeunes de moins de 15 ans libérés de la scolarité obligatoire
 
@@ -308,21 +331,9 @@ L’ordonnance 1 du 10 mai 2000 relative à la loi sur le travail[^22-1] est mod
 
 #### Art. 22a
 
-**Dispositions transitoires relatives à la modification du 25 juin 2014**[^22a-1]
+[^22a-1]
 
-<sup>1</sup> Les organisations compétentes du monde du travail veillent, dans les trois ans qui suivent l’entrée en vigueur de la modification du 25 juin 2014 de la présente ordonnance, à ce que les mesures d’accompagnement en matière de sécurité au travail et de protection de la santé visées à l’art. 4, al. 4, soient définies et à ce qu’elles soient approuvées par le SEFRI. Si aucune mesure d’accompagnement n’a été approuvée au terme de ce délai, il n’est plus autorisé d’employer des jeunes au sens de l’art. 4, al. 4, dans la formation professionnelle initiale concernée.
-
-<sup>2</sup> Les offices cantonaux de formation professionnelle vérifient, dans les deux ans qui suivent l’approbation des mesures d’accompagnement au sens de l’al. 1, les autorisations de former des apprentis prévues par l’art. 20, al. 2, LFPr[^22a-2] qui ont déjà été octroyées à ce moment-là. Le droit antérieur s’applique jusqu’à l’achèvement de cette vérification. Si une entreprise de formation ne dispose pas d’une autorisation actualisée de former des apprentis au terme de ce délai de deux ans, elle ne peut plus employer de jeunes au sens de l’art. 4, al. 4.
-
-<sup>3</sup>
-
-Les jeunes qui remplissent l’une des deux conditions suivantes achèvent leur formation selon le droit antérieur:
-
-- a. ils ont entamé une formation professionnelle initiale sans que les mesures d’accompagnement prévues par l’art. 4, al. 4, aient été approuvées dans le délai fixé à l’al. 1;
-- b. ils ont entamé une formation professionnelle initiale dans une entreprise dont l’autorisation de former des apprentis n’a pas été vérifiée dans le délai fixé à l’al. 2.
-
-[^22a-1]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)).
-[^22a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^22a-1]: Introduit par le ch. I de l’O du 25 juin 2014 ([RO 2014 2241](https://fedlex.data.admin.ch/eli/oc/2014/375)). Abrogé par le ch. I de l’O du 14 fév. 2024, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 93](https://fedlex.data.admin.ch/eli/oc/2024/93)).
 
 #### Art. 23
 
