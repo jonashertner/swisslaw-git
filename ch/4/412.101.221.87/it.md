@@ -3,18 +3,18 @@ sr: "412.101.221.87"
 title: Ordinanza della SEFRI del 15 ottobre 2012 sulla formazione professionale di base Addetta selvicoltrice/Addetto selvicoltore con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/816"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2012-10-15
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/816/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2012-816-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/816/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/816/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2012-816-20240401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/816/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta selvicoltrice/Addetto selvicoltore con certificato federale di formazione pratica (CFP)
 
-del 15 ottobre 2012 (Stato 1° agosto 2018)
+del 15 ottobre 2012 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>19103</td><td>Addetta selvicoltrice CFP/Addetto selvicoltore CFP Forstpraktikerin EBA/Forstpraktiker EBA Praticienne forestière AFP/Praticien forestier AFP</td></tr>
@@ -22,14 +22,15 @@ del 15 ottobre 2012 (Stato 1° agosto 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 136 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 136 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -121,11 +122,12 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 136 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -306,7 +308,7 @@ Per nota dei luoghi di formazione si intende la media arrotondata a un decimale 
 
 <sup>2</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente la scuola professionale, resta valida la nota relativa all’insegnamento professionale conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento professionale, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
 
-- [tab] <sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
+<sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
 
 #### Art. 20
 
@@ -337,7 +339,7 @@ Se il certificato federale di formazione pratica è stato conseguito mediante pr
 - a. la nota complessiva;
 - b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 20 capoverso 1, la nota dei luoghi di formazione.
 
-## Sezione 10: Sviluppo della qualità e organizzazione****
+## Sezione 10: Sviluppo della qualità e organizzazione
 
 [^sec10-1]
 
@@ -381,4 +383,4 @@ Essa svolge in particolare i seguenti compiti:
 
 <sup>3</sup> Le modifiche del 6 luglio 2015 entrano in vigore il 1° agosto 2015.[^23-1]
 
-[^23-1]: Inserito il 6 lug. 2015.
+[^23-1]: Introdotto il 6 lug. 2015.
