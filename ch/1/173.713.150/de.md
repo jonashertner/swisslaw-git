@@ -3,18 +3,18 @@ sr: "173.713.150"
 title: Verordnung der Bundesversammlung vom 13. Dezember 2013 über die Richterstellen am Bundesstrafgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/860"
 language: de
-version: 2022-01-01
+version: 2024-04-01
 adopted: 2013-12-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-860-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2013-860-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung der Bundesversammlung über die Richterstellen am Bundesstrafgericht
 
-vom 13. Dezember 2013 (Stand am 1. Januar 2022)
+vom 13. Dezember 2013 (Stand am 1. April 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -33,12 +33,13 @@ beschliesst:
 Das Bundesstrafgericht umfasst:
 
 - a. gesamthaft höchstens 16 Vollzeitstellen für ordentliche Richter und Richterinnen in den Straf- und den Beschwerdekammern;
-- b. gesamthaft höchstens 3 nebenamtliche Richter und Richterinnen in den Straf- und den Beschwerdekammern;
-- c.[^1-2] höchstens 4 Vollzeitstellen für ordentliche Richter und Richterinnen in der Berufungskammer;
+- b.[^1-2] gesamthaft höchstens 4 nebenamtliche Richter und Richterinnen in den Straf- und den Beschwerdekammern;
+- c.[^1-3] höchstens 4 Vollzeitstellen für ordentliche Richter und Richterinnen in der Berufungskammer;
 - d. höchstens 10 nebenamtliche Richter und Richterinnen in der Berufungskammer.
 
 [^1-1]: Fassung gemäss Ziff. I 2 der V der BVers vom 17. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 1187](https://fedlex.data.admin.ch/eli/oc/2018/180); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333); [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^1-2]: Fassung gemäss Ziff. I der V der BVers vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [BBl 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
+[^1-2]: Fassung gemäss Ziff. I der V der BVers vom 15. März 2024, in Kraft seit 1. April 2024 ([AS 2024 110](https://fedlex.data.admin.ch/eli/oc/2024/110); [BBl 2023 2393](https://fedlex.data.admin.ch/eli/fga/2023/2393), [2686](https://fedlex.data.admin.ch/eli/fga/2023/2686)).
+[^1-3]: Fassung gemäss Ziff. I der V der BVers vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [BBl 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
 
 #### Art. 2
 

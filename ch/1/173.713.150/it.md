@@ -3,18 +3,18 @@ sr: "173.713.150"
 title: "Ordinanza dell'Assemblea federale del 13 dicembre 2013 sui posti di giudice presso il Tribunale penale federale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/860"
 language: it
-version: 2022-01-01
+version: 2024-04-01
 adopted: 2013-12-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-860-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2013-860-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’Assemblea federale sui posti di giudice presso il Tribunale penale federale
 
-del 13 dicembre 2013 (Stato 1° gennaio 2022)
+del 13 dicembre 2013 (Stato 1° aprile 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -33,18 +33,19 @@ decreta:
 L’organico del Tribunale penale federale comprende:
 
 - a. al massimo e complessivamente 16 posti di giudice ordinario a tempo pieno nelle corti penali e nelle corti dei reclami penali;
-- b. al massimo e complessivamente 3 giudici non di carriera nelle corti penali e nelle corti dei reclami penali;
-- c.[^1-2] al massimo 4 posti di giudice ordinario a tempo pieno nella Corte d’appello;
+- b.[^1-2] al massimo e complessivamente 4 giudici non di carriera nelle corti penali e nelle corti dei reclami penali;
+- c.[^1-3] al massimo 4 posti di giudice ordinario a tempo pieno nella Corte d’appello;
 - d. al massimo 10 giudici non di carriera nella Corte d’appello.
 
 [^1-1]: Nuovo testo giusta il n. I 2 dell’O dell’AF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2018 1187](https://fedlex.data.admin.ch/eli/oc/2018/180); [FF 2013 6121](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5587](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [FF 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
+[^1-2]: Nuovo testo giusta il n. I dell’O dell’AF del 15 mar. 2024, in vigore dal 1° apr. 2024 (RU **202****4** 110; FF **202****3**2393, 2686).
+[^1-3]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [FF 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
 
 #### Art. 2
 
 **Modifica del diritto vigente**
 
-…[^2-1]
+...[^2-1]
 
 [^2-1]: La mod. può essere consultata alla [RU 2013 5377](https://fedlex.data.admin.ch/eli/oc/2013/860).
 

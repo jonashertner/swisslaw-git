@@ -3,18 +3,18 @@ sr: "173.713.150"
 title: "Ordonnance de l'Assemblée fédérale du 13 décembre 2013 sur les postes de juge au Tribunal pénal fédéral"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/860"
 language: fr
-version: 2022-01-01
+version: 2024-04-01
 adopted: 2013-12-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-860-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/860/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-860-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/860/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Assemblée fédérale sur les postes de juge au Tribunal pénal fédéral
 
-du 13 décembre 2013 (État le 1<sup>er</sup> janvier 2022)
+du 13 décembre 2013 (État le 1<sup>er</sup> avril 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -33,12 +33,13 @@ arrête:
 Le Tribunal pénal fédéral se compose:
 
 - a. de seize postes de juge ordinaire au plus et au total pour les cours des affaires pénales et les cours des plaintes;
-- b. de trois juges suppléants au plus et au total pour les cours des affaires pénales et les cours des plaintes;
-- c.[^1-2] de quatre postes de juge ordinaire au plus pour la Cour d’appel;
+- b.[^1-2] de quatre juges suppléants au plus et au total pour les cours des affaires pénales et les cours des plaintes;
+- c.[^1-3] de quatre postes de juge ordinaire au plus pour la Cour d’appel;
 - d. de dix juges suppléants au plus pour la Cour d’appel.
 
 [^1-1]: Nouvelle teneur selon le ch. I 2 de l’O de l’Ass. féd. du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1187](https://fedlex.data.admin.ch/eli/oc/2018/180); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [FF 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 (RO **20****24** 110; [FF 2023 2393](https://fedlex.data.admin.ch/eli/fga/2023/2393), [2686](https://fedlex.data.admin.ch/eli/fga/2023/2686)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 890](https://fedlex.data.admin.ch/eli/oc/2021/890); [FF 2021 1159](https://fedlex.data.admin.ch/eli/fga/2021/1159), [1952](https://fedlex.data.admin.ch/eli/fga/2021/1952)).
 
 #### Art. 2
 
