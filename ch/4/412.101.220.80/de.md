@@ -3,18 +3,18 @@ sr: "412.101.220.80"
 title: Verordnung des SBFI vom 1. November 2013 über die berufliche Grundbildung Berufsfeld Verkehrswegbau mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/866"
 language: de
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2013-866-20180101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2013-866-20240401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Berufsfeld Verkehrswegbau mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. November 2013 (Stand am 1. Januar 2018)
+vom 1. November 2013 (Stand am 1. April 2024)
 
 <table>
 <tr><td>51416</td><td>Gleisbauerin EFZ/Gleisbauer EFZ</td></tr>
@@ -48,14 +48,15 @@ vom 1. November 2013 (Stand am 1. Januar 2018)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1[^ingress-3] der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-4] (ArGV 5),
 
-verordnet:[^ingress-4]
+verordnet:[^ingress-5]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Fassung gemäss Ziff. I 55 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Fassung gemäss Ziff. I 55 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -196,11 +197,12 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^5-1]: Fassung gemäss Ziff. II 55 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -468,7 +470,7 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Ausführen von berufsspezifischen Arbeiten</td><td>60 Min.</td><td>30 Min.</td><td>70 %</td></tr>
 </table>
 
-- a. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
@@ -568,12 +570,11 @@ Die schweizerische Kommission für Berufsentwicklung und Qualität für das Beru
 
 - a. 3–4 Vertreterinnen oder Vertretern des Fachverbands Infra (FV Infra);
 - b. 1 Vertreterin oder 1 Vertreter der Trägerschaft für die Gleisbaulehre im
-- c. Berufsfeld Verkehrswegbau;
-- d. 1 Vertreterin oder 1 Vertreter des Verbandes PAVIDENSA;
-- e. 1 Vertreterin oder 1 Vertreter des Verbandes Schweizerischer Pflästerermeister (VSP);
-- f. 1 Vertreterin oder 1 Vertreter des Sozialpartners Unia;
-- g. 3 Vertreterinnen oder Vertretern der Fachlehrerschaft;
-- h. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- c. 1 Vertreterin oder 1 Vertreter des Verbandes PAVIDENSA;
+- d. 1 Vertreterin oder 1 Vertreter des Verbandes Schweizerischer Pflästerermeister (VSP);
+- e. 1 Vertreterin oder 1 Vertreter des Sozialpartners Unia;
+- f. 3 Vertreterinnen oder Vertretern der Fachlehrerschaft;
+- g. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
 
 <sup>2</sup> Alle Berufe im Berufsfeld Verkehrswegbau müssen vertreten sein.
 
@@ -613,7 +614,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 <sup>2</sup> Die Genehmigung des Bildungsplans Berufsfeld «Verkehrswegbau» vom 18. Dezember 2007 wird widerrufen.
 
-[^25-1]: [SR 412.101.220.80](https://fedlex.data.admin.ch/eli/cc/2013/866)
+[^25-1]: [[AS 2008 351](https://fedlex.data.admin.ch/eli/oc/2008/93); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)]
 
 #### Art. 26
 

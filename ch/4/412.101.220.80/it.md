@@ -3,18 +3,18 @@ sr: "412.101.220.80"
 title: Ordinanza della SEFRI del 1° novembre 2013 sulla formazione professionale di base Campo professionale «Costruzione delle vie di traffico» con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/866"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2013-866-20180101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2013-866-20240401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Campo professionale «Costruzione delle vie di traffico» con attestato federale di capacità (AFC)
 
-del 1° novembre 2013 (Stato 1° gennaio 2018)
+del 1° novembre 2013 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>51416</td><td>Costruttrice di binari AFC/Costruttore di binari AFC</td></tr>
@@ -48,14 +48,15 @@ del 1° novembre 2013 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:[^ingress-4]
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 55 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 55 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -196,11 +197,12 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 55 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -608,7 +610,7 @@ Essa ha in particolare i seguenti compiti:
 
 <sup>2</sup> È revocata l’approvazione del piano di formazione del 18 dicembre 2007 nel campo professionale «Costruzione delle vie di traffico».
 
-[^25-1]: [RS 412.101.220.80](https://fedlex.data.admin.ch/eli/cc/2013/866)
+[^25-1]: [[RU 2008 351](https://fedlex.data.admin.ch/eli/oc/2008/93); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)]
 
 #### Art. 26
 
