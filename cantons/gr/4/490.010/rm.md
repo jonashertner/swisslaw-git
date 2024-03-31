@@ -4,13 +4,12 @@ number: "490.010"
 title: "Ordinaziun tar la lescha davart la gestiun da documents e l'archivaziun"
 short: OGDA
 language: rm
-version: 2016-01-01
-valid_until: 2024-03-31
-version_adopted: 2015-12-22
+version: 2024-04-01
+version_adopted: 2024-03-05
 adopted: 2015-12-22
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/490.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2639/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2639/pdf_file"
 
 (OGDA)
 
-dals 22-12-2015 (versiun dals 01-01-2016)
+dals 22-12-2015 (versiun dals 01-04-2024)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala,
 
@@ -57,6 +56,18 @@ relaschada da la regenza ils 22 da december 2015
 <sup>3</sup> Per l'archivaziun vegnan duvrads – uschenavant che quai è pussaivel – puncts da contact da standard.
 
 <sup>4</sup> Per documents sin palpiri sto vegnir duvrà palpiri ch'è adattà per l'archivaziun. Ils deposits da las autoritads ston vegnir plazzads en localitads che garanteschan ch'ils documents survivan il temp, durant il qual els ston vegnir archivads, en in stadi bun ed ordinà.
+
+#### Art. 3a
+
+**Transfurmaziun dal purtader**
+
+<sup>1</sup> Versiuns digitalas d'actas inoltradas sin palpiri valan sco originals, sch'ellas vegnan transfurmadas, suenter l'entrada, en in format digital tras ina procedura da digitalisaziun ch'è reglada en moda unitara e sch'ellas vegnan messas en il sistem d'administraziun da fatschentas da l'autoritad.
+
+<sup>2</sup> Cun transfurmar il document en la furma digitala stoi vegnir garantì tenor il stadi da la tecnica, ch'il document digital correspundia al document sin palpiri e ch'el na possia betg vegnir midà, senza che quai possia vegnir constatà.
+
+<sup>3</sup> En cooperaziun cun ils posts pertutgads decretescha il Departament da finanzas e vischnancas ina directiva che fixescha ils detagls davart la procedura da digitalisaziun ch'è reglada en moda unitara sco er davart la conservaziun transitorica e davart la destrucziun da las actas inoltradas sin palpiri.
+
+<sup>4</sup> En ina prescripziun organisatorica sto l'autoritad documentar las persunas ch'èn responsablas per la digitalisaziun, ils documents ch'èn exceptads da la digitalisaziun e da la destrucziun sco er la durada che vala per la conservaziun dals documents.
 
 #### Art. 4
 

@@ -4,13 +4,12 @@ number: "490.010"
 title: Verordnung zum Gesetz über die Aktenführung und Archivierung
 short: VAA
 language: de
-version: 2016-01-01
-valid_until: 2024-03-31
-version_adopted: 2015-12-22
+version: 2024-04-01
+version_adopted: 2024-03-05
 adopted: 2015-12-22
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2639/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2639/pdf_file"
 
 (VAA)
 
-Vom 22.12.2015 (Stand 01.01.2016)
+Vom 22.12.2015 (Stand 01.04.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
 
@@ -57,6 +56,18 @@ von der Regierung erlassen am 22. Dezember 2015
 <sup>3</sup> Für die Archivierung werden soweit möglich Standardschnittstellen verwendet.
 
 <sup>4</sup> Für papierbasierte Unterlagen muss archivtaugliches Papier verwendet werden. Die Ablagen der Behörden müssen in Räumen untergebracht werden, die Gewähr dafür bieten, dass die Unterlagen die Aufbewahrungsfrist in gutem und geordnetem Zustand überdauern.
+
+#### Art. 3a
+
+**Trägerwandel**
+
+<sup>1</sup> Digitale Versionen von in Papierform eingereichten Akten gelten als Originale, wenn sie in einem einheitlich geregelten Digitalisierungsverfahren nach dem Eintreffen in ein digitales Format übertragen werden und in das Geschäftsverwaltungssystem der Behörde übermittelt werden.
+
+<sup>2</sup> Bei der Umwandlung in die digitale Form ist nach dem Stand der Technik sicherzustellen, dass das digitale Dokument mit dem Papierdokument übereinstimmt und dass es nicht verändert werden kann, ohne dass sich dies feststellen lässt.
+
+<sup>3</sup> Das Departement für Finanzen und Gemeinden erlässt unter Einbezug der betroffenen Stellen in einer Weisung das Nähere zum einheitlich geregelten Digitalisierungsverfahren sowie zur vorübergehenden Aufbewahrung und zur Vernichtung der in Papierformat eingereichten Akten.
+
+<sup>4</sup> Die Behörde hat die für die Digitalisierung zuständigen Personen, die von der Digitalisierung und Vernichtung ausgenommenen Dokumente und die Aufbewahrungsdauer der Dokumente in einer Organisationsvorschrift zu dokumentieren.
 
 #### Art. 4
 

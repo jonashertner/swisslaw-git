@@ -4,13 +4,12 @@ number: "490.010"
 title: "Ordinanza relativa alla legge sulla gestione degli atti e sull'archiviazione"
 short: OGAA
 language: it
-version: 2016-01-01
-valid_until: 2024-03-31
-version_adopted: 2015-12-22
+version: 2024-04-01
+version_adopted: 2024-03-05
 adopted: 2015-12-22
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/490.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2639/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3366/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2639/pdf_file"
 
 (OGAA)
 
-del 22.12.2015 (stato 01.01.2016)
+del 22.12.2015 (stato 01.04.2024)
 
 emanata dal Governo il 22 dicembre 2015
 
@@ -57,6 +56,18 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale
 <sup>3</sup> Per quanto possibile, ai fini dell'archiviazione vengono impiegate interfacce standard.
 
 <sup>4</sup> Per documenti cartacei deve essere utilizzata carta idonea all'archiviazione. I depositi delle autorità devono essere allestiti in spazi che permettano di garantire che i documenti siano mantenuti in buono stato e in ordine per tutto il termine di conservazione.
+
+#### Art. 3a
+
+**Cambio del supporto**
+
+<sup>1</sup> Le versioni digitali di atti inoltrati in forma cartacea sono considerate degli originali se dopo la ricezione vengono convertite in un formato digitale con una procedura di digitalizzazione disciplinata in modo uniforme e vengono trasmesse al sistema di gestione delle pratiche dell'autorità.
+
+<sup>2</sup> Nella conversione in formato digitale, secondo lo stato della tecnica occorre garantire che il documento digitale corrisponda a quello cartaceo e che non possa essere modificato senza che ciò sia constatabile.
+
+<sup>3</sup> In un'istruzione il Dipartimento delle finanze e dei comuni emana con il coinvolgimento dei servizi interessati i dettagli in merito alla procedura di digitalizzazione disciplinata in modo uniforme nonché in merito alla conservazione temporanea e alla distruzione degli atti inoltrati in forma cartacea.
+
+<sup>4</sup> L'autorità deve stabilire in una direttiva organizzativa le persone responsabili della digitalizzazione, i documenti esclusi dalla digitalizzazione e dalla distruzione nonché la durata di conservazione dei documenti.
 
 #### Art. 4
 
