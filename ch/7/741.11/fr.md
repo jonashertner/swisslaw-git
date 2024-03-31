@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2023-07-15
+version: 2024-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 15 juillet 2023)
+du 13 novembre 1962 (État le 1<sup>er</sup> avril 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -255,8 +255,8 @@ Sont dispensés de l’obligation de porter le casque:
 
 [^3b-1]: Introduit par le ch. I de l’O du 20 mai 1981 ([RO 1981 507](https://fedlex.data.admin.ch/eli/oc/1981/507_507_507)). Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^3b-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3b-3]: SN EN 1077, 2007, Casques pour skieurs de ski alpin et de surf des neiges. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^3b-4]: SN EN 1078, 2013, Casques pour cyclistes et pour utilisateurs de planches à roulettes et de patins à roulettes. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3b-3]: SN EN 1077, 2007, Casques pour skieurs de ski alpin et de surf des neiges. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
+[^3b-4]: SN EN 1078, 2013, Casques pour cyclistes et pour utilisateurs de planches à roulettes et de patins à roulettes. Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 [^3b-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 4
@@ -1250,7 +1250,7 @@ Les conducteurs de cycles et de cyclomoteurs ne circuleront pas à côté d’au
 
 <sup>2</sup> …[^48-2]
 
-<sup>3</sup> Les personnes qui exécutent des travaux sur la chaussée ou aux abords de celle-ci doivent, au besoin, placer des signaux; aux cours de travaux de planification, de construction ou d'entretien, elles porteront des vêtements fluorescents et rétroréfléchissants leur permettant d'être bien visibles de jour comme de nuit.[^48-3]
+<sup>3</sup> Les personnes qui exécutent des travaux sur la chaussée ou aux abords de celle-ci doivent, au besoin, placer des signaux; aux cours de travaux de planification, de construction ou d’entretien, elles porteront des vêtements fluorescents et rétroréfléchissants leur permettant d’être bien visibles de jour comme de nuit.[^48-3]
 
 <sup>4</sup> …[^48-4]
 
@@ -1885,7 +1885,7 @@ Le chargement ne doit pas dépasser latéralement les véhicules automobiles à 
 - a.[^73-4] les engins de sport indivisibles d’une largeur maximale de 2 m 55 transportés sur des remorques pour engins de sport;
 - b.[^73-5] les transports agricoles et forestiers de balles de foin ou de balles de paille, ou de charges analogues qui ne dépassent pas 2 m 55 de largeur;
 - c. les transports agricoles et forestiers de foin ou de paille non pressé, ou de charges analogues, à condition qu’aucun objet solide ne dépasse le flanc du véhicule;
-- d.[^73-6] les cycles, accrochés à l’arrière des véhicules automobiles, à condition que le porte-à-faux n’excède pas 20 cm de part et d’autre (art. 38, al. 1<sup>bis</sup>, OETV[^73-7]), et que la largeur totale ne dépasse pas 2 m.[^73-8]
+- d.[^73-6] les cycles et les cyclomoteurs accrochés à l’arrière des véhicules automobiles, à condition que le porte-à-faux n’excède pas 20 cm de part et d’autre (art. 38, al. 1<sup>bis</sup>, OETV[^73-7]) et que la largeur totale ne dépasse pas 2 m.[^73-8]
 
 <sup>3</sup> Sur les véhicules automobiles, le chargement ne doit pas dépasser de plus de 3,00 m à l’avant, à compter du centre du dispositif de direction; sur les véhicules automobiles et les remorques, le chargement ne doit pas dépasser de plus de 5,00 m à l’arrière, à compter du centre de l’essieu arrière ou de l’axe de rotation des essieux arrière, s’il dépasse la surface de charge.[^73-9]
 
@@ -1902,7 +1902,7 @@ Le chargement ne doit pas dépasser latéralement les véhicules automobiles à 
 [^73-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^73-4]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
-[^73-6]: Introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
+[^73-6]: Introduite par le ch. I de l’O du 15 nov. 2000 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^73-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^73-8]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1992 ([RO 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
 [^73-9]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
@@ -1975,11 +1975,18 @@ Ils peuvent autoriser une largeur maximale de 2 m 55 même sur des routes dont l
 
 #### Art. 77
 
-**Voitures automobiles de travail; traîneaux; conteneurs[^77-1]**
+**Véhicules de travail; traîneaux; conteneurs[^77-1]**
 
 ### (art. 57, al. 1, LCR)
 
-<sup>1</sup> Les voitures automobiles de travail et leurs remorques ne peuvent transporter aucune marchandise, sauf les carburants, combustibles et accessoires nécessaires à la machine ainsi que les outils et appareils de travail; cette disposition ne s’applique pas aux véhicules du service du feu et de la protection civile.[^77-2]
+<sup>1</sup>
+
+Les véhicules de travail ne peuvent transporter aucune marchandise; cette disposition ne s’applique ni aux véhicules du service du feu et de la protection civile, ni aux marchandises suivantes:
+
+- a. carburants, accessoires et matières consommables nécessaires à la machine;
+- b. outils et appareils de travail;
+- c. marchandises mécaniquement transformées ou consommées durant le processus de travail;
+- d. véhicules destinés aux déplacements du personnel de service.[^77-2]
 
 <sup>2</sup> L’autorité cantonale peut permettre le transport de marchandises s’il s’agit du trafic interne d’une entreprise qui emprunte la voie publique, du transbordement de marchandises entre les stations voisines d’entreprises de transport publiques ou encore s’il s’agit de transports de terre à travers la route et le long d’un chantier au moyen de véhicules munis d’une benne.
 
@@ -1995,8 +2002,8 @@ Aucune autorisation n’est requise pour la traction des remorques ci-après si 
 
 <sup>4</sup> Avec l’autorisation du canton sur le territoire duquel les courses ont lieu, les conteneurs montés sur roues peuvent être remorqués au moyen de véhicules tracteurs appropriés de ou à destination de la gare de transbordement. L’autorisation est établie pour le véhicule tracteur et limitée à certains genres de conteneurs.[^77-5]
 
-[^77-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^77-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^77-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^77-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-4]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-5]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -2026,7 +2033,7 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 
 <sup>2bis</sup> S’agissant des véhicules spéciaux dont les dimensions et les poids n’excèdent pas les limites énoncées à l’art. 79, al. 2, let. a, l’autorisation durable peut être inscrite dans le permis de circulation en tant que décision de l’autorité, à condition que soient respectées les dispositions de l’art. 65*a* régissant le mouvement giratoire.[^78-10]
 
-<sup>3</sup> Une copie des autorisations uniques délivrées pour plusieurs courses et des autorisations durables sera envoyée à l’OFROU); une copie sera également adressée aux cantons concernés, chaque fois qu’à l’occasion d’une course empruntant le territoire de plusieurs cantons, les normes légales concernant le poids et les dimensions seront dépassés (art. 79, al. 2).[^78-11]
+<sup>3</sup> …[^78-11]
 
 <sup>4</sup> L’autorisation peut être retirée en tout temps, notamment si des abus ont été commis, si le véhicule a causé des difficultés dans la circulation ou si les courses autorisées ne sont plus nécessaires.
 
@@ -2041,7 +2048,7 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 [^78-8]: Introduite par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-9]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-10]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-11]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^78-11]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 #### Art. 79
 
@@ -2081,21 +2088,23 @@ Des exceptions aux normes légales sur les dimensions et les poids maximaux (art
 
 - a.[^80-2] pour les transferts ou l’emploi de véhicules spéciaux, notamment de véhicules de travail et de véhicules à chenilles qui, en raison de l’usage auquel ils sont destinés, ne peuvent être adaptés aux prescriptions;
 - b.[^80-3] pour le transport d’une marchandise indivisible lorsque, malgré l’emploi d’un véhicule approprié, les prescriptions ne peuvent pas être respectées; aux fins d’éviter un deuxième transport, il pourra être dérogé à cette règle lorsqu’une voiture automobile de travail transporte ses propres parties intégrantes, par exemple des flèches de grue;
-- c.[^80-4] pour le transport d’accessoires de grues, notamment de contrepoids, jusqu’au lieu de travail de la grue ou à partir de ce dernier.
+- c.[^80-4] pour le transport d’accessoires de grues, notamment de contrepoids, jusqu’au lieu de travail de la grue ou à partir de ce dernier;
+- d.[^80-5] pour le transport de véhicules automobiles destinés aux déplacements du personnel de service dont les véhicules de travail sont utilisés en mode stationnaire pour la réalisation des travaux, notamment les camions-grues: dans la limite de 3 t.
 
-<sup>2</sup> Lorsque la circulation risque d’être considérablement gênée, l’autorisation sera refusée, sauf si l’utilisation d’un autre moyen de transport ne peut raisonnablement être exigée, compte tenu de la nature de la marchandise, de l’urgence du transport, de la distance à parcourir, des possibilités de transbordement, etc.[^80-5]
+<sup>2</sup> Lorsque la circulation risque d’être considérablement gênée, l’autorisation sera refusée, sauf si l’utilisation d’un autre moyen de transport ne peut raisonnablement être exigée, compte tenu de la nature de la marchandise, de l’urgence du transport, de la distance à parcourir, des possibilités de transbordement, etc.[^80-6]
 
-<sup>3</sup> Dans les limites du territoire cantonal, l’autorité cantonale peut autoriser les déplacements avec des véhicules plus larges, sur des routes dont la signalisation indique une largeur maximale donnée, si les conditions de la route le permettent.[^80-6]
+<sup>3</sup> Dans les limites du territoire cantonal, l’autorité cantonale peut autoriser les déplacements avec des véhicules plus larges, sur des routes dont la signalisation indique une largeur maximale donnée, si les conditions de la route le permettent.[^80-7]
 
-<sup>4</sup> …[^80-7]
+<sup>4</sup> …[^80-8]
 
 [^80-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-4]: Introduite par le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
-[^80-5]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^80-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 1990 en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
-[^80-7]: Abrogé par le ch. I de l’O du 30 juin 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^80-5]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^80-6]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
+[^80-7]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 1990 en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
+[^80-8]: Abrogé par le ch. I de l’O du 30 juin 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 #### Art. 81
 
@@ -2255,11 +2264,12 @@ L’autorité cantonale peut permettre l’emploi industriel d’un véhicule ag
 
 <sup>3</sup> L’autorité cantonale peut permettre l’emploi de véhicules automobiles agricoles et forestiers pour des cortèges, etc.; elle ordonne, au besoin, les mesures de sécurité à prendre. En ce qui concerne l’assurance, l’art. 3, al. 2, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^90-2] s’applique par analogie.[^90-3]
 
-<sup>4</sup> Une copie de chaque autorisation sera remise à l’assureur du véhicule ainsi qu’à l’OFROU à l’intention des services fédéraux intéressés.
+<sup>4</sup> …[^90-4]
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’O du 7 avr. 1982, en vigueur depuis le 1<sup>er</sup> mai 1982 ([RO 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
 [^90-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^90-3]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
+[^90-4]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 ## Partie 5 Dispositions diverses
 

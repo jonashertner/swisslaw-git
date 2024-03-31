@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2023-07-15
+version: 2024-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 15. Juli 2023)
+vom 13. November 1962 (Stand am 1. April 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -1880,13 +1880,13 @@ Die Ladung darf mehrspurige Motorfahrzeuge und Anhänger seitlich nicht überrag
 - a.[^73-3] unteilbare Sportgeräte von höchstens 2,55 m Breite auf Sportgeräteanhängern;
 - b.[^73-4] Heu- und Strohballen und dergleichen bis zu einer Breite von 2,55 m auf land- und forstwirtschaftlichen Fahrten;
 - c. loses Heu, Stroh und dergleichen auf land- und forstwirtschaftlichen Fahrten, wenn keine festen Gegenstände über den Fahrzeugrand vorstehen;
-- d.[^73-5] Fahrräder, die hinten an Motorfahrzeugen befestigt sind, sofern die Überragung nicht mehr als 20 cm pro Seite (Art. 38 Abs. 1<sup>bis</sup> VTS) und die Gesamtbreite nicht mehr als 2 m beträgt.[^73-6]
+- d.[^73-5] Fahrräder und Motorfahrräder, die hinten an Motorfahrzeugen befestigt sind, sofern die Überragung nicht mehr als 20 cm pro Seite (Art. 38 Abs. 1<sup>bis</sup> VTS[^73-6]) und die Gesamtbreite nicht mehr als 2 m beträgt.[^73-7]
 
-<sup>3</sup> Die Ladung darf bei Motorfahrzeugen, von der Mitte der Lenkvorrichtung gemessen, höchstens 3,00 m nach vorne und bei Motorfahrzeugen und Anhängern höchstens 5,00 m hinter die Mitte der Hinterachse oder den Drehpunkt der Hinterachsen hinausreichen, wenn sie über die Ladefläche hinausragt.[^73-7]
+<sup>3</sup> Die Ladung darf bei Motorfahrzeugen, von der Mitte der Lenkvorrichtung gemessen, höchstens 3,00 m nach vorne und bei Motorfahrzeugen und Anhängern höchstens 5,00 m hinter die Mitte der Hinterachse oder den Drehpunkt der Hinterachsen hinausreichen, wenn sie über die Ladefläche hinausragt.[^73-8]
 
 <sup>4</sup> Waren dürfen mit Motorfahrzeugen nur auf einer Ladefläche befördert werden. Die kantonale Behörde kann aus zwingenden Gründen für den Transport besonderer Güter an Kranen, auf Ladegabeln u. dgl. Ausnahmen bewilligen. Sie trifft die erforderlichen Sicherheitsmassnahmen.
 
-<sup>5</sup> Durch geeignete Massnahmen ist sicherzustellen, dass Ladungen und Teile von Ladungen nicht leicht abgeweht werden können; dies gilt nicht für Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von maximal 40 km/h.[^73-8]
+<sup>5</sup> Durch geeignete Massnahmen ist sicherzustellen, dass Ladungen und Teile von Ladungen nicht leicht abgeweht werden können; dies gilt nicht für Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von maximal 40 km/h.[^73-9]
 
 <sup>6</sup> Auf Ladeflächen vor und neben dem Führersitz sind nur Ladungen gestattet, welche die Sicht nicht behindern.
 
@@ -1896,10 +1896,11 @@ Die Ladung darf mehrspurige Motorfahrzeuge und Anhänger seitlich nicht überrag
 [^73-2]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-3]: Fassung gemäss Ziff. I der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-4]: Fassung gemäss Ziff. I der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
-[^73-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
-[^73-6]: Fassung gemäss Ziff. II der V vom 19. Febr. 1992, in Kraft seit 1. April 1992 ([AS 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
-[^73-7]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^73-8]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^73-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^73-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^73-7]: Fassung gemäss Ziff. II der V vom 19. Febr. 1992, in Kraft seit 1. April 1992 ([AS 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
+[^73-8]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^73-9]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 74
 
@@ -1968,11 +1969,20 @@ Sie können eine Breite bis 2,55 m auch auf Strassen mit einer signalisierten H�
 
 #### Art. 77
 
-**Arbeitsmotorwagen; Schlittenanhänger; Transportbehälter[^77-1]**
+**Arbeitsfahrzeuge; Schlittenanhänger; Transportbehälter**
 
 ### (Art. 57 Abs. 1 SVG)
 
-<sup>1</sup> Auf Arbeitsmotorwagen und ihren Anhängern dürfen ausser Betriebsstoffen und Bestandteilen für die Maschine sowie Werkzeugen und Arbeitsgeräten keine Waren befördert werden; dies gilt nicht für Fahrzeuge der Feuerwehr und des Zivilschutzes.[^77-2]
+[^77-1]
+
+<sup>1</sup>
+
+Mit Arbeitsfahrzeugen dürfen keine Waren befördert werden; dies gilt nicht für Fahrzeuge der Feuerwehr und des Zivilschutzes sowie für die folgenden Waren:
+
+- a. Betriebsstoffe, Bestandteile und Verbrauchsmaterial für die Maschine;
+- b. Werkzeuge und Arbeitsgeräte;
+- c. Güter, die im Arbeitsprozess maschinell verändert oder verbraucht werden;
+- d. Fahrzeuge zur Fortbewegung des Bedienpersonals.[^77-2]
 
 <sup>2</sup> Die kantonale Behörde kann die Beförderung von Waren gestatten für den werkinternen Verkehr auf öffentlicher Strasse, zum Warenumschlag zwischen benachbarten Stationen öffentlicher Transportunternehmungen und für Erdbewegungen über die Strasse und längs eines Bauplatzes durch Fahrzeuge mit Lademulden.
 
@@ -1988,8 +1998,8 @@ Keiner Bewilligung bedarf das Mitführen der folgenden Anhänger, wenn sie die B
 
 <sup>4</sup> Fahrbare Transportbehälter dürfen mit Bewilligung des Kantons, auf dessen Gebiet die Fahrten stattfinden, mit geeigneten Zugfahrzeugen von der und zur Verladestation geschleppt werden. Die Bewilligung wird auf das Zugfahrzeug ausgestellt und auf bestimmte Arten von Behältern beschränkt.[^77-5]
 
-[^77-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^77-2]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^77-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^77-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^77-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-4]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-5]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -2017,7 +2027,7 @@ Für Fahrten, bei denen Höchstbreite, Höchsthöhe oder Höchstgewicht übersch
 
 <sup>2bis</sup> Bei Ausnahmefahrzeugen, deren Abmessungen und Gewichte die Limiten nach Artikel 79 Absatz 2 Buchstabe a nicht überschreiten, kann die Dauerbewilligung im Fahrzeugausweis als Verfügung der Behörde eingetragen werden, sofern die Kreisfahrbedingungen nach Artikel 65*a* eingehalten sind.[^78-13]
 
-<sup>3</sup> Von den Einzelbewilligungen für mehrere Fahrten und von den Dauerbewilligungen ist dem ASTRA und, soweit auf interkantonalen Fahrten die gesetzlichen Masse und Gewichte überschritten werden (Art. 79 Abs. 2), auch den berührten Kantonen eine Kopie zuzustellen.[^78-14]
+<sup>3</sup> …[^78-14]
 
 <sup>4</sup> Die Bewilligung kann jederzeit entzogen werden, namentlich wenn sie missbraucht wurde, die Fahrzeuge im Verkehr Schwierigkeiten verursachen oder die bewilligten Fahrten nicht mehr nötig sind.
 
@@ -2035,7 +2045,7 @@ Für Fahrten, bei denen Höchstbreite, Höchsthöhe oder Höchstgewicht übersch
 [^78-11]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-12]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-13]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-14]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^78-14]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 #### Art. 79
 
@@ -2075,21 +2085,23 @@ Ausnahmen von den gesetzlichen Höchstmassen und Höchstgewichten (Art. 64–67)
 
 - a.[^80-2] für die Überführung und Verwendung von Ausnahmefahrzeugen, namentlich Arbeits- und Raupenfahrzeugen, die wegen ihrer Zweckbestimmung den Vorschriften nicht entsprechen können;
 - b.[^80-3] für die Beförderung eines unteilbaren Gutes, wenn die Vorschriften trotz Verwendung geeigneter Fahrzeuge nicht eingehalten werden können; von dieser Regel kann zur Vermeidung eines zweiten Transportes abgewichen werden, wenn ein Arbeitsmotorwagen eigene Bestandteile, z. B. Kranarme, mitführt;
-- c.[^80-4] für die Beförderung von Kranzubehör, namentlich Gegengewichte, zum oder vom Arbeitsort des Krans.
+- c.[^80-4] für die Beförderung von Kranzubehör, namentlich Gegengewichte, zum oder vom Arbeitsort des Krans;
+- d.[^80-5] für die Beförderung von Motorfahrzeugen zur Fortbewegung des Bedienpersonals von Arbeitsfahrzeugen mit stationärem Arbeitseinsatz, namentlich Kranwagen: bis höchstens 3 t.
 
-<sup>2</sup> Wird der Verkehr erheblich behindert, so ist die Bewilligung zu verweigern, ausser wenn die Wahl eines andern Verkehrsmittels wegen der Natur des Gutes, der Dringlichkeit der Fahrt, der Länge des Weges oder wegen Umladeschwierigkeiten usw. unzumutbar wäre.[^80-5]
+<sup>2</sup> Wird der Verkehr erheblich behindert, so ist die Bewilligung zu verweigern, ausser wenn die Wahl eines andern Verkehrsmittels wegen der Natur des Gutes, der Dringlichkeit der Fahrt, der Länge des Weges oder wegen Umladeschwierigkeiten usw. unzumutbar wäre.[^80-6]
 
-<sup>3</sup> Innerhalb des Kantonsgebietes kann die kantonale Behörde auf Strassen mit einer signalisierten Höchstbreite Fahrten mit breiteren Fahrzeugen bewilligen, soweit die Strassenverhältnisse es zulassen.[^80-6]
+<sup>3</sup> Innerhalb des Kantonsgebietes kann die kantonale Behörde auf Strassen mit einer signalisierten Höchstbreite Fahrten mit breiteren Fahrzeugen bewilligen, soweit die Strassenverhältnisse es zulassen.[^80-7]
 
-<sup>4</sup> …[^80-7]
+<sup>4</sup> …[^80-8]
 
 [^80-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^80-3]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-4]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
-[^80-5]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^80-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 1990, in Kraft seit 1. Febr. 1991 ([AS 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
-[^80-7]: Aufgehoben durch Ziff. I der V vom 30. Juni 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^80-5]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^80-6]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
+[^80-7]: Fassung gemäss Ziff. I der V vom 3. Dez. 1990, in Kraft seit 1. Febr. 1991 ([AS 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
+[^80-8]: Aufgehoben durch Ziff. I der V vom 30. Juni 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 #### Art. 81
 
@@ -2249,11 +2261,12 @@ Die kantonale Behörde kann die gewerbliche Verwendung land- und forstwirtschaft
 
 <sup>3</sup> Die kantonale Behörde kann die Verwendung land- und forstwirtschaftlicher Fahrzeuge bei Umzügen und dergleichen gestatten; sie ordnet nötigenfalls Sicherheitsmassnahmen an. Für die Versicherung gilt Artikel 3 Absatz 2 der Verkehrsversicherungsverordnung vom 20. November 1959[^90-2] sinngemäss.[^90-3]
 
-<sup>4</sup> Eine Kopie jeder Bewilligung ist dem Versicherer des Fahrzeugs zuzustellen, eine weitere dem ASTRA zuhanden der interessierten Bundesstellen.
+<sup>4</sup> …[^90-4]
 
 [^90-1]: Fassung gemäss Ziff. I der V vom 7. April 1982, in Kraft seit 1. Mai 1982 ([AS 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
 [^90-2]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^90-3]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
+[^90-4]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 ## 5. Teil: Verschiedene Bestimmungen
 

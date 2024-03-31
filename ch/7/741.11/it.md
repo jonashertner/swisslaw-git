@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2023-07-15
+version: 2024-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20230715/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20230715-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20240401/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20230715/it"
 
 (ONC)[^t-1]
 
-del 13 novembre 1962 (Stato 15 luglio 2023)
+del 13 novembre 1962 (Stato 1° aprile 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -151,8 +151,8 @@ Il divieto di cui al capoverso 1 lettera c non si applica nel caso di:
 
 - a. interventi urgenti e relativi spostamenti eseguiti da personale dei servizi antincendio di milizia;
 - b. interventi urgenti e relativi spostamenti eseguiti da personale dei servizi antincendio professionisti, della polizia, del servizio doganale, della protezione civile e del servizio sanitario o da persone incaricate da queste organizzazioni, se mobilitati quando non sono in servizio né di picchetto;
-- c. veicoli la cui velocità massima per la loro costruzione non superi i 45 km/h;
-- d. veicoli equiparati agli autoveicoli di lavoro secondo l’articolo 13 capoverso 2 dell’ordinanza del 19 giugno 1995[^2a-3] concernente le esigenze tecniche per i veicoli stradali (OETV).[^2a-4]
+- c. veicoli la cui velocità massima per costruzione[^2a-3] non superi i 45 km/h;
+- d. veicoli equiparati agli autoveicoli di lavoro secondo l’articolo 13 capoverso 2 dell’ordinanza del 19 giugno 1995[^2a-4] concernente le esigenze tecniche per i veicoli stradali (OETV).[^2a-5]
 
 <sup>2</sup>
 
@@ -160,13 +160,14 @@ Una persona è sotto l’influsso dell’alcol se:
 
 - a. presenta una concentrazione di alcol nell’aria espirata pari o superiore a 0,05 mg/l;
 - b. presenta un tasso alcolemico pari o superiore allo 0,10 per mille; oppure
-- c. ha nell’organismo una quantità di alcol tale da determinare un tasso alcolemico di cui alla lettera b.[^2a-5]
+- c. ha nell’organismo una quantità di alcol tale da determinare un tasso alcolemico di cui alla lettera b.[^2a-6]
 
 [^2a-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
 [^2a-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
-[^2a-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2a-4]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
-[^2a-5]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2595](https://fedlex.data.admin.ch/eli/oc/2015/492)).
+[^2a-3]: Nuova espressione giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
+[^2a-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2a-5]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3837](https://fedlex.data.admin.ch/eli/oc/2016/642)).
+[^2a-6]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2595](https://fedlex.data.admin.ch/eli/oc/2015/492)).
 
 #### Art. 3
 
@@ -176,23 +177,24 @@ Una persona è sotto l’influsso dell’alcol se:
 
 <sup>1</sup> Il conducente deve rivolgere la sua attenzione alla strada e alla circolazione. Egli non deve compiere movimenti che impediscono la manovra sicura del veicolo. Inoltre la sua attenzione non deve essere distratta in particolare né da apparecchi riproduttori del suono né da sistemi di comunicazione o di informazione.[^3-1]
 
-<sup>2</sup> I conducenti di torpedoni non devono, se il traffico è intenso o se la strada è difficile, dare ragguagli ai passeggeri sul paesaggio e su altro. Essi non devono servirsi di microfoni manuali.
+<sup>2</sup> I conducenti di autobus non devono, se il traffico è intenso o se la strada è difficile, fornire informazioni ai passeggeri su attrazioni turistiche e simili. Essi non devono servirsi di microfoni manuali.[^3-2]
 
-<sup>3</sup> I conducenti di veicoli a motore e di velocipedi non devono abbandonare il dispositivo di guida.[^3-2]
+<sup>3</sup> I conducenti di veicoli a motore e di velocipedi non devono abbandonare il dispositivo di guida.[^3-3]
 
-<sup>3bis</sup> Durante le manovre di parcheggio effettuate utilizzando un apposito sistema di assistenza, il conducente può abbandonare il dispositivo di guida e scendere dal veicolo se il sistema lo prevede. Il conducente deve sorvegliare le manovre e, se necessario, interromperle.[^3-3]
+<sup>3bis</sup> Durante le manovre di parcheggio effettuate utilizzando un apposito sistema di assistenza, il conducente può abbandonare il dispositivo di guida e scendere dal veicolo se il sistema lo prevede. Il conducente deve sorvegliare le manovre e, se necessario, interromperle.[^3-4]
 
 <sup>4</sup>
 
 Il conducente deve tenere continuamente in funzione il tachigrafo prescritto e utilizzarlo correttamente:
 
 - a. se il veicolo è equipaggiato con un tachigrafo analogico, durante il viaggio il conducente può aprirlo per controllarlo e deve farlo se la polizia lo richiede. Il detentore mette a disposizione i dischi e le chiavi. Ogni disco è adoperato una sola volta; le iscrizioni facoltative non devono rendere difficile la lettura del disco. Il conducente deve portare con sé un numero sufficiente di dischi nuovi;
-- b. se il veicolo è equipaggiato con un tachigrafo digitale, le carte del conducente e del passeggero devono rimanere inserite durante tutta l'attività lavorativa. In assenza della carta del conducente non è ammesso condurre il veicolo salvo in caso di danno, funzionamento difettoso, perdita o furto della carta. Il conducente deve portare con sé una sufficiente quantità di carta per la stampa.[^3-4]
+- b. se il veicolo è equipaggiato con un tachigrafo digitale, le carte del conducente e del passeggero devono rimanere inserite durante tutta l'attività lavorativa. In assenza della carta del conducente non è ammesso condurre il veicolo salvo in caso di danno, funzionamento difettoso, perdita o furto della carta. Il conducente deve portare con sé una sufficiente quantità di carta per la stampa.[^3-5]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^3-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^3-4]: Introdotto dall’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della L sulla circolazione stradale ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3-4]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3-5]: Introdotto dall’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della L sulla circolazione stradale ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 3a
 
@@ -214,25 +216,26 @@ L’obbligo di allacciarsi con la cintura di sicurezza di cui al capoverso 1 non
 - f. agli accompagnatori di persone particolarmente bisognose di assistenza in veicoli dei servizi sanitario e di trasporto di persone disabili;
 - g.[^3a-5] ai conducenti e passeggeri di autoveicoli di lavoro, trattori e carri con motore se la velocità non supera 25 km/h.
 
-<sup>3</sup> I passeggeri in autobus e in furgoncini devono essere resi attenti in modo idoneo sull’obbligo di allacciarsi con la cintura di sicurezza.
+<sup>3</sup> Ai passeggeri di autobus e minibus deve essere adeguatamente ricordato l’obbligo di allacciare la cintura di sicurezza.[^3a-6]
 
 <sup>4</sup>
 
-Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni devono essere assicurati con un dispositivo di ritenuta per fanciulli, ad esempio un seggiolino, omologato in base al regolamento UNECE n. 44 o n. 129 di cui all’allegato 2 OETV[^3a-6]. Ai dispositivi secondo il regolamento UNECE n. 44 si applica l’articolo 222r capoverso 3 OETV. L’impiego di tali dispositivi non è obbligatorio per:[^3a-7]
+Nei posti provvisti di cintura di sicurezza, i fanciulli al di sotto dei 12 anni devono essere assicurati con un dispositivo di ritenuta per fanciulli, ad esempio un seggiolino, omologato in base al regolamento UNECE n. 44 o n. 129 di cui all’allegato 2 OETV[^3a-7]. Ai dispositivi secondo il regolamento UNECE n. 44 si applica l’articolo 222r capoverso 3 OETV. L’impiego di tali dispositivi non è obbligatorio per:[^3a-8]
 
 - a. fanciulli alti almeno 150 cm;
 - b. fanciulli di almeno quattro anni che viaggiano su sedili appositamente previsti per fanciulli;
 - c. fanciulli di almeno quattro anni che viaggiano su autobus;
-- d. fanciulli di almeno sette anni che viaggiano su sedili con cinture addominali.[^3a-8]
+- d. fanciulli di almeno sette anni che viaggiano su sedili con cinture addominali.[^3a-9]
 
 [^3a-1]: Introdotto dal n. I dell’O del 10 mar. 1975 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)). Nuovo testo giusta il n. I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3a-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
 [^3a-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3a-4]: Direttiva 91/671/CEE del Consiglio del 16 dicembre 1991 per il ravvicinamento delle legislazioni degli Stati Membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate. GU L 373 del 31.12.1991, pag. 26; modificata da ultimo dalla direttiva 2014/37/UE della Commissione del 27 febbraio 2014, GU L 59 del 28.02.2014, pag. 32.
 [^3a-5]: Introdotta dal n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^3a-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3a-7]: Nuovo testo giusta il n. III dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^3a-8]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^3a-6]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^3a-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^3a-8]: Nuovo testo giusta il n. III dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
+[^3a-9]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 3b
 
@@ -250,7 +253,7 @@ L’obbligo di portare il casco non è applicabile:
 - b. alle persone che circolano entro perimetri aziendali se la velocità non supera 25 km/h;
 - c. alle persone in cabine chiuse;
 - d. alle persone su sedili provvisti di cinture di sicurezza;
-- e. alle persone su veicoli la cui velocità massima per la loro costruzione è di 20 km/h oppure di 25 km/h in caso di pedalata assistita;
+- e. alle persone su veicoli la cui velocità massima per costruzione è di 20 km/h oppure di 25 km/h in caso di pedalata assistita;
 - f. ai conducenti di ciclomotori i quali provano mediante certificato medico che non può essere loro imposto di portare il casco di protezione;
 - g. ai conducenti di sedie a rotelle motorizzate (art. 18 lett. c OETV[^3b-2]).
 
@@ -360,7 +363,7 @@ Sulle autostrade e semiautostrade la velocità massima è limitata a 100 km/h pe
 <sup>4</sup> Commette un’infrazione alle norme della circolazione il conducente che supera la velocità massima prescritta per la categoria cui appartiene il suo veicolo; ciò non vale per i conducenti di ciclomotori.[^5-8]
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1976, in vigore dal 1° gen. 1977 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^5-2]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^5-2]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^5-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^5-4]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
 [^5-5]: Introdotta dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
@@ -1438,7 +1441,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 <sup>1</sup> Parti integranti, attrezzature di lavoro o carichi, che possono diventare pericolosi in caso di collisione, specialmente se hanno punte, lame o angoli vivi, devono essere muniti di dispositivi protettivi.[^58-1]
 
-<sup>2</sup> Se carichi, singole parti o rimorchi sporgono lateralmente dalla sagoma del veicolo in modo poco visibile, i punti esterni devono essere contrassegnati chiaramente, di giorno con banderuole o pannelli e di notte o se le condizioni atmosferiche lo esigono con luci o catarifrangenti di colore bianco, davanti, e rosso, dietro; i catarinfrangenti non possono essere collocati a più di 90 cm dal suolo. In caso di trasporti speciali, i carichi o i rimorchi eccessivamente larghi devono essere segnalati mediante banderuole o pannelli rettangolari di almeno 40 cm di lato e recanti strisce oblique rosse e bianche larghe 10 cm circa; di notte e quando le condizioni atmosferiche lo esigono, detti contrassegni devono essere illuminati o completati da luci d’ingombro.[^58-2]
+<sup>2</sup> Se carichi, singole parti o rimorchi sporgono lateralmente dalla sagoma del veicolo in modo poco visibile, i punti esterni devono essere contrassegnati chiaramente, di giorno con banderuole o pannelli, di notte e quando le condizioni atmosferiche lo esigono con luci o catarifrangenti di colore bianco davanti e rosso dietro; i catarifrangenti non possono essere collocati a più di 90 cm dal suolo. In caso di trasporti eccezionali, i carichi o i rimorchi eccessivamente larghi devono essere segnalati mediante banderuole o pannelli rettangolari di almeno 40 cm di lato e recanti strisce oblique rosse e bianche larghe 10 cm circa; di notte e quando le condizioni atmosferiche lo esigono, detti contrassegni devono essere illuminati o completati da luci d’ingombro.[^58-2]
 
 <sup>2bis</sup> L’estremità di carichi o singole parti che sporgono posteriormente di oltre 1 m dal veicolo deve essere contrassegnata chiaramente.[^58-3]
 
@@ -1451,7 +1454,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 <sup>6</sup> I dispositivi pieghevoli o retraibili per ridurre la resistenza aerodinamica (art. 38 cpv. 1 lett. s OETV[^58-6]) che sporgono sul retro del veicolo più di 500 mm oltre la lunghezza massima autorizzata devono essere retratti su strade con una velocità massima segnalata di 50 km/h o inferiore.[^58-7]
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^58-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^58-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Introdotto dal n. I dell’O del 25 gen. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Abrogato dal n. I dell’O del 20 mag. 2020, con effetto dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Introdotto dal n. I dell’O del 7 mar. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1900,13 +1903,13 @@ Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetrich
 - a.[^73-3] attrezzi sportivi indivisibili di una larghezza massima di 2,55 m trasportati su rimorchi per attrezzi sportivi;
 - b.[^73-4] balle di fieno e di paglia e carichi simili sino a una larghezza di 2.55 m per trasporti agricoli e forestali;
 - c. fieno, paglia e carichi simili sciolti per trasporti agricoli e forestali; in questo caso, tuttavia, nessun oggetto solido deve sporgere dalla sagoma del veicolo senza carico;
-- d.[^73-5] velocipedi fissati dietro ai veicoli a motore, a condizione che la loro sporgenza non superi i 20 cm da una parte e dall’altra (art. 38 cpv. 1<sup>bis</sup> OETV) e non superino la larghezza massima di 2 m.[^73-6]
+- [tab] d.[^73-5] velocipedi e ciclomotori fissati dietro ai veicoli a motore, a condizione che la loro sporgenza non superi i 20 cm da una parte e dall’altra (art. 38 cpv. 1<sup>bis</sup> OETV[^73-6]) e la larghezza complessiva non superi i 2 m.[^73-7]
 
-<sup>3</sup> Sui veicoli a motore, il carico può sporgere anteriormente di 3 metri al massimo a contare dal centro del dispositivo di guida; sui veicoli a motore e sui rimorchi il carico può sporgere posteriormente di 5 m al massimo a contare dal centro dell’asse posteriore oppure dal centro di rotazione degli assi posteriori, se supera la superficie di carico.[^73-7]
+<sup>3</sup> Sui veicoli a motore, il carico può sporgere anteriormente di 3 metri al massimo a contare dal centro del dispositivo di guida; sui veicoli a motore e sui rimorchi il carico può sporgere posteriormente di 5 m al massimo a contare dal centro dell’asse posteriore oppure dal centro di rotazione degli assi posteriori, se supera la superficie di carico.[^73-8]
 
 <sup>4</sup> Nei veicoli a motore, le merci possono essere trasportate soltanto su un piano di carico. Per motivi impellenti, l’autorità cantonale può permettere eccezionalmente il trasporto di merci speciali con gru, forche sollevatrici e simili. Essa ordina le necessarie misure di sicurezza.
 
-<sup>5</sup> Si devono adottare misure opportune volte ad assicurare che i carichi o parti di essi non possano essere facilmente spostati dal vento; quanto precede non si applica ai veicoli con una velocità massima per la loro costruzione di 40 km/h.[^73-8]
+<sup>5</sup> Si devono adottare misure opportune volte ad assicurare che i carichi o parti di essi non possano essere facilmente spostati dal vento; quanto precede non si applica ai veicoli con una velocità massima per costruzione di 40 km/h.[^73-9]
 
 <sup>6</sup> Sulla superficie di carico situata davanti o accanto al conducente, possono essere trasportati soltanto carichi che non ostacolano la visuale.
 
@@ -1916,10 +1919,11 @@ Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetrich
 [^73-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^73-3]: Nuovo testo giusta il n. I dell’O del 6 mag. 1998, in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-4]: Nuovo testo giusta il n. I dell’O del 6 mag. 1998, in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
-[^73-5]: Introdotta dal n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
-[^73-6]: Nuovo testo giusta il n. II dell’O del 19 feb. 1992, in vigore dal 1° apr. 1992 ([RU 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
-[^73-7]: Nuovo testo giusta l’all. 1 n. II 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^73-8]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^73-5]: Introdotta dal n. I dell’O del 15 nov. 2000 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^73-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^73-7]: Nuovo testo giusta il n. II dell’O del 19 feb. 1992, in vigore dal 1° apr. 1992 ([RU 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
+[^73-8]: Nuovo testo giusta l’all. 1 n. II 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^73-9]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 74
 
@@ -1989,11 +1993,20 @@ I Cantoni possono ammettere una larghezza di 2,55 m anche sulle strade segnalate
 
 #### Art. 77
 
-**Autoveicoli di lavoro; rimorchi a slitta; casse mobili[^77-1]**
+**Veicoli di lavoro; rimorchi a slitta; casse mobili**
 
 ### (art. 57 cpv. 1 LCStr)
 
-<sup>1</sup> Sugli autoveicoli di lavoro e sui loro rimorchi non può essere trasportata alcuna merce, salvo i carburanti e le parti integranti delle macchine nonché gli attrezzi e le attrezzature di lavoro; quanto precede non si applica ai veicoli del servizio antincendio e della protezione civile.[^77-2]
+[^77-1]
+
+<sup>1</sup>
+
+Con i veicoli di lavoro non può essere trasportata alcuna merce; ciò non vale per i veicoli del servizio antincendio e della protezione civile e per le seguenti merci:
+
+- a. materie di consumo, parti integranti e materiale di consumo necessari alla macchina;
+- b. attrezzi e attrezzature di lavoro;
+- c. beni meccanicamente modificati o utilizzati nel processo di lavoro;
+- d. veicoli per gli spostamenti degli operatori.[^77-2]
 
 <sup>2</sup> L’autorità cantonale può permettere il trasporto di merci nel traffico interno di un’azienda che si svolge sulla strada pubblica, per il trasbordo di merci fra stazioni vicine di aziende di trasporti pubblici e per il trasporto di terra attraverso la strada o lungo un cantiere per mezzo di veicoli provvisti di benne.
 
@@ -2009,21 +2022,25 @@ Non necessita di alcuna autorizzazione il traino dei rimorchi seguenti, se essi 
 
 <sup>4</sup> Con il permesso del Cantone sul cui territorio avviene il trasporto, le casse mobili montate su ruote possono essere trainate da veicoli appropriati in provenienza dalla stazione di trasbordo o a destinazione di essa. Il permesso è rilasciato per il veicolo trattore ed è limitato a determinate specie di casse mobili.[^77-5]
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^77-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^77-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^77-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^77-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-4]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^77-5]: Introdotto dal n. I dell’O del 7 mar,. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-### Capo secondo: Veicoli speciali e trasporti speciali
+### Capo secondo: Veicoli eccezionali e trasporti speciali
 
-(art. 9 cpv. 3, 20 LCStr)[^part4-chap2-1]
+[^part4-chap2-1]
+
+[^part4-chap2-1]: Nuova espressione giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
+
+(art. 9 cpv. 3, 20 LCStr)[^part4-chap2-2]
 
 #### Art. 78
 
 **Permessi**
 
-<sup>1</sup> I veicoli che a causa del loro carico non soddisfano alle prescrizioni concernenti le dimensioni e i pesi, come pure i veicoli speciali (art. 25 OETV[^78-1]), possono circolare sulle strade pubbliche solo in virtù di un permesso scritto.[^78-2] Possono essere rilasciati permessi unici per uno o più viaggi determinati e permessi duraturi per un numero indeterminato di viaggi.[^78-3]I permessi per sovrappeso possono essere rilasciati unicamente per veicoli o combinazioni di veicoli che, conformemente alla licenza di circolazione, sono ammessi per il peso massimo legale.[^78-4]
+<sup>1</sup> I veicoli che a causa del loro carico non soddisfano alle prescrizioni concernenti le dimensioni e i pesi, come pure i veicoli eccezionali (art. 25 OETV[^78-1]), possono circolare sulle strade pubbliche solo in virtù di un permesso scritto.[^78-2] Possono essere rilasciati permessi unici per uno o più viaggi determinati e permessi duraturi per un numero indeterminato di viaggi.[^78-3]I permessi per sovrappeso possono essere rilasciati unicamente per veicoli o combinazioni di veicoli che, conformemente alla licenza di circolazione, sono ammessi per il peso massimo legale.[^78-4]
 
 <sup>2</sup>
 
@@ -2034,18 +2051,18 @@ Per i viaggi in cui sono superati la larghezza, l’altezza o il peso massimi so
 - c.[^78-6] utilizzazione di veicoli cingolati nelle regioni di sport invernali; i permessi duraturi per questo tipo di veicoli possono essere rilasciati con il consenso dei Cantoni interessati anche per regioni di sport invernali che comprendono diversi Cantoni;
 - d. trasporto di merci indivisibili entro il territorio cantonale;
 - e.[^78-7] trasporto di carri ferroviari carichi mediante carrelli stradali entro il territorio cantonale e, con il consenso dei Cantoni interessati, anche per tratte fuori del Cantone;
-- f.[^78-8] trasporto di merci indivisibili e utilizzo di veicoli speciali nel quadro dei limiti stabiliti dall’articolo 79 capoverso 2 lettera a.[^78-9]
+- f.[^78-8] trasporto di merci indivisibili e utilizzo di veicoli eccezionali nel quadro dei limiti stabiliti dall’articolo 79 capoverso 2 lettera a.[^78-9]
 
-<sup>2bis</sup> Per i veicoli speciali che per dimensioni e peso non superano i limiti di cui all’articolo 79 capoverso 2 lettera a, il permesso duraturo può essere iscritto nella licenza di circolazione come decisione dell’autorità, sempreché siano rispettate le condizioni relative ai percorsi circolari secondo l’articolo 65*a*.[^78-10]
+<sup>2bis</sup> Per i veicoli eccezionali che per dimensioni e peso non superano i limiti di cui all’articolo 79 capoverso 2 lettera a, il permesso duraturo può essere iscritto nella licenza di circolazione come decisione dell’autorità, sempreché siano rispettate le condizioni relative ai percorsi circolari secondo l’articolo 65*a*.[^78-10]
 
-<sup>3</sup> Una copia dei permessi unici rilasciati per più viaggi e di permessi duraturi deve essere trasmessa all’USTRA e, per quanto si tratta di deroghe alle dimensioni e al peso legali, in viaggi sul territorio di più Cantoni (art. 79 cpv. 2), anche ai Cantoni toccati.[^78-11]
+<sup>3</sup> ...[^78-11]
 
 <sup>4</sup> Il permesso può essere revocato in qualsiasi tempo, segnatamente se sono stati commessi abusi, se il veicolo ha cagionato difficoltà nella circolazione o se i viaggi autorizzati non sono più necessari.
 
-[^part4-chap2-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^part4-chap2-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^78-2]: Nuovo testo giusta l’all. 1 n. II 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^78-3]: Per introdotto dal n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
+[^78-3]: Per. introdotto dal n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-4]: Nuovo testo del per. giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
 [^78-5]: Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-6]: Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2053,7 +2070,7 @@ Per i viaggi in cui sono superati la larghezza, l’altezza o il peso massimi so
 [^78-8]: Introdotta dal n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-9]: Nuovo testo giusta il n. I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-10]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-11]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
+[^78-11]: Abrogato dal n. I dell’O del 22 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 #### Art. 79
 
@@ -2091,23 +2108,25 @@ Se le dimensioni e il peso legali sono superati, i permessi possono essere rilas
 
 Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse soltanto:[^80-1]
 
-- a.[^80-2] per il trasferimento e l’uso di veicoli speciali, segnatamente veicoli di lavoro e veicoli cingolati, che, a causa dello scopo cui sono destinati, non possono essere conformi alle prescrizioni;
+- a.[^80-2] per il trasferimento e l’uso di veicoli eccezionali, segnatamente veicoli di lavoro e veicoli cingolati, che, a causa dello scopo cui sono destinati, non possono essere conformi alle prescrizioni;
 - b.[^80-3] per il trasporto di carichi indivisibili, se le prescrizioni non possono essere adempiute nonostante l’uso di veicoli appropriati; deroghe a questa disposizione sono possibili, allo scopo di evitare un secondo viaggio, se un autoveicolo di lavoro trasporta parti integranti, come ad esempio bracci di gru;
-- c.[^80-4] per il trasporto di componenti delle gru, segnatamente contrappesi, da e verso il luogo di lavoro della gru.
+- c.[^80-4] per il trasporto di componenti delle gru, segnatamente contrappesi, da e verso il luogo di lavoro della gru;
+- d.[^80-5] per il trasporto di veicoli a motore destinati agli spostamenti degli operatori di veicoli di lavoro per impieghi stazionari, in particolare autogrù: fino a 3 t.
 
-<sup>2</sup> Se la circolazione rischia di essere notevolmente ostacolata, il permesso deve essere rifiutato, salvo qualora, per la natura della merce o per l’urgenza del viaggio, per la lunghezza del percorso o per difficoltà di trasbordo e simili, non si possa ragionevolmente pretendere l’uso di un altro mezzo di trasporto.[^80-5]
+<sup>2</sup> Se la circolazione rischia di essere notevolmente ostacolata, il permesso deve essere rifiutato, salvo qualora, per la natura della merce o per l’urgenza del viaggio, per la lunghezza del percorso o per difficoltà di trasbordo e simili, non si possa ragionevolmente pretendere l’uso di un altro mezzo di trasporto.[^80-6]
 
-<sup>3</sup> Entro i limiti del territorio cantonale, l’autorità cantonale può permettere viaggi con veicoli più larghi, su strade segnalate per una determinata larghezza massima, se le condizioni della strada lo permettono.[^80-6]
+<sup>3</sup> Entro i limiti del territorio cantonale, l’autorità cantonale può permettere viaggi con veicoli più larghi, su strade segnalate per una determinata larghezza massima, se le condizioni della strada lo permettono.[^80-7]
 
-<sup>4</sup> ... [^80-7]
+<sup>4</sup> ... [^80-8]
 
 [^80-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^80-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-4]: Introdotta dal n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
-[^80-5]: Nuovo testo giusta il n. I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^80-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 1990, in vigore dal 1° feb. 1991 ([RU 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
-[^80-7]: Abrogato dal n. I dell’O del 30 giu. 2004, con effetto dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^80-5]: Introdotta dal n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^80-6]: Nuovo testo giusta il n. I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
+[^80-7]: Nuovo testo giusta il n. I dell’O del 3 dic. 1990, in vigore dal 1° feb. 1991 ([RU 1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)).
+[^80-8]: Abrogato dal n. I dell’O del 30 giu. 2004, con effetto dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 #### Art. 81
 
@@ -2117,17 +2136,18 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 
 #### Art. 82
 
-**Condizioni per i rimorchi speciali**[^82-1]
+**Condizioni per i rimorchi eccezionali[^82-2]**[^82-1]
 
-<sup>1</sup> Per la limitazione del peso effettivo dei rimorchi speciali è applicabile l’articolo 67 capoverso 5 o il peso del convoglio iscritto nel permesso giusta l’articolo 78.[^82-2]
+<sup>1</sup> Per la limitazione del peso effettivo dei rimorchi eccezionali è applicabile l’articolo 67 capoverso 5 o il peso del convoglio iscritto nel permesso giusta l’articolo 78.[^82-3]
 
-<sup>2</sup> Il veicolo che traina un rimorchio speciale non può trainare nel contempo alcun altro veicolo. In casi giustificati, l’autorità può tuttavia autorizzare che trattori o autocarri trainino, al massimo, due rimorchi speciali e che veicoli a motore, ad eccezione dei motoveicoli, tranino, al massimo, due piccole casse mobili. Per gli espositori di fiere può autorizzare due rimorchi per una lunghezza complessiva massima della combinazione di veicoli di 30 m.[^82-3]
+<sup>2</sup> Il veicolo che traina un rimorchio speciale non può trainare nel contempo alcun altro veicolo. In casi giustificati, l’autorità può tuttavia autorizzare che trattori o autocarri trainino, al massimo, due rimorchi eccezionali e che veicoli a motore, ad eccezione dei motoveicoli, tranino, al massimo, due piccole casse mobili. Per gli espositori di fiere può autorizzare due rimorchi per una lunghezza complessiva massima della combinazione di veicoli di 30 m.[^82-4]
 
-<sup>3</sup> Il permesso per i rimorchi speciali, eccettuate le casse mobili montate su ruote (art. 77 cpv. 4), è rilasciato per il rimorchio e limitato a determinati veicoli trattori.
+<sup>3</sup> Il permesso per i rimorchi eccezionali, eccettuate le casse mobili montate su ruote (art. 77 cpv. 4), è rilasciato per il rimorchio e limitato a determinati veicoli trattori.
 
 [^82-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^82-2]: Nuovo testo giusta il n. I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
-[^82-3]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^82-2]: Nuova espressione giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
+[^82-3]: Nuovo testo giusta il n. I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
+[^82-4]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 83
 
@@ -2151,10 +2171,11 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 
 <sup>2</sup> ...[^85-1]
 
-<sup>3</sup> Per motivi impellenti e a condizione di prendere misure di sicurezza sufficienti, i conducenti di veicoli e trasporti speciali possono derogare alle norme della circolazione così come agli obblighi indicati mediante segnali o demarcazioni. La disposizione è applicabile per analogia ai relativi veicoli d’accompagnamento nonché ai veicoli adibiti alla costruzione, alla manutenzione e alla pulizia della strada.[^85-2]
+<sup>3</sup> Per motivi impellenti e a condizione di prendere misure di sicurezza sufficienti, i conducenti di veicoli e trasporti eccezionali[^85-2] possono derogare alle norme della circolazione così come agli obblighi indicati mediante segnali o demarcazioni. La disposizione è applicabile per analogia ai relativi veicoli d’accompagnamento nonché ai veicoli adibiti alla costruzione, alla manutenzione e alla pulizia della strada.[^85-3]
 
 [^85-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
-[^85-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
+[^85-2]: Nuova espr. giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)). Di tale mod. è tenuto conto in tutto il presente testo.
+[^85-3]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 
 ### Capo terzo: Veicoli agricoli e forestali
 
@@ -2267,11 +2288,12 @@ L’autorità cantonale può permettere l’uso industriale di un veicolo agrico
 
 <sup>3</sup> L’autorità cantonale può permettere l’uso di veicoli agricoli e forestali per cortei ecc.; essa ordina, all’occorrenza, le necessarie misure di sicurezza. Circa l’assicurazione è applicabile per analogia l’articolo 3 capoverso 2 dell’ordinanza del 20 novembre 1959[^90-2] sull’assicurazione dei veicoli.[^90-3]
 
-<sup>4</sup> Una copia di ogni permesso deve essere inviata all’assicuratore del veicolo e all’Ufficio federale per gli uffici federali interessati.
+<sup>4</sup> ...[^90-4]
 
 [^90-1]: Nuovo testo giusta il n. I dell’O del 7 apr. 1982, in vigore dal 1° mag. 1982 ([RU 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
 [^90-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^90-3]: Nuovo testo giusta il n. I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
+[^90-4]: Abrogato dal n. I dell’O del 22 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 ## Parte quinta: Disposizioni varie
 
@@ -2360,7 +2382,7 @@ I permessi sono rilasciati per le seguenti corse:
 - a<sup>bis</sup>.[^92-4] per il trasporto di invii postali da parte di fornitori secondo gli articoli 3 capoverso 1 e 8 capoverso 1 OPO oppure di subappaltatori secondo l’articolo 1 lettera b OPO, in quanto tale trasporto sia incluso nell’offerta del servizio universale nel settore dei servizi postali (art. 13 della L del 17 dic. 2010[^92-5] sulle poste);
 - b. per il trasporto di materiale da circo, materiale per fiere e mercati, strumenti d’orchestra, scenari di teatro e simili;
 - c. per corse destinate a lavori di costruzione e manutenzione di strade e ferrovie, come pure di linee industriali come linee elettriche, idriche, di telecomunicazione;
-- d. per spostamenti di veicoli speciali e trasporti speciali che ostacolano la circolazione;
+- d. per spostamenti di veicoli eccezionali e trasporti speciali che ostacolano la circolazione;
 - e. in caso di viaggi per manifestazioni, segnatamente per il trasporto di viveri e bevande.
 
 <sup>3</sup> Per altri viaggi oltre a quelli di cui al capoverso 2, i permessi sono rilasciati solamente con il consenso dell’USTRA. Se vi è urgenza, il Cantone può permettere, da sé, un viaggio indispensabile, informandone l’USTRA.
@@ -2415,7 +2437,7 @@ L’autorità cantonale può, tuttavia, permettere:
 
 - a. gare di velocità con motoveicoli su prato;
 - b. gare di abilità su terreno accidentato;
-- c. gare di velocità con veicoli speciali di cilindrata massima di 250 cm<sup>3</sup>;
+- c. gare di velocità con veicoli eccezionali di cilindrata massima di 250 cm<sup>3</sup>;
 - d. slalom automobilistici;
 - e. gare di velocità nell’ambito dei campionati di formula E.[^94-1]
 
@@ -2471,7 +2493,7 @@ Chiunque viola le disposizioni della presente ordinanza è punito con la multa[^
 
 Ai fini dell’adempimento della propria attività, le autorità preposte al rilascio dei permessi possono gestire, entro i limiti della propria competenza, sistemi d’informazione autonomi riguardanti:
 
-- a. permessi per veicoli e trasporti speciali;
+- a. permessi per veicoli e trasporti eccezionali;
 - b. permessi di circolare la notte e la domenica.
 
 <sup>2</sup>
