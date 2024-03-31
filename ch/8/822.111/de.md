@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2023-09-01
+version: 2024-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 1. September 2023)
+vom 10. Mai 2000 (Stand am 1. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -444,6 +444,8 @@ Ein dringendes Bedürfnis für Nacht- oder Sonntagsarbeit im Sinne von Artikel 1
   - 1\. zusätzlich anfallen und zeitlich nicht aufschiebbar sind, oder
   - 2\. aus Gründen der Gesundheit oder der Sicherheit der Arbeitnehmer und Arbeitnehmerinnen oder aus anderen Gründen des öffentlichen Interesses in der Nacht oder am Sonntag erledigt werden müssen.
 
+<sup>1bis</sup> Ein dringendes Bedürfnis nach Absatz 1 liegt insbesondere vor, wenn eine Behörde Massnahmen zur Verhinderung oder Bewältigung einer Energiemangellage angeordnet hat.[^27-2]
+
 <sup>2</sup>
 
 Ein dringendes Bedürfnis liegt zudem vor, wenn zeitlich begrenzte Arbeitseinsätze in der Nacht oder am Sonntag erforderlich sind im Rahmen von:
@@ -460,6 +462,7 @@ Ein dringendes Bedürfnis für Nachtarbeit im Sinne von Artikel 17 Absatz 4 des 
 - c. dadurch die Leistung von weiterer Nachtarbeit zwischen 24 Uhr und 5 Uhr vermieden werden kann.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^27-2]: Eingefügt durch Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ([AS 2024 105](https://fedlex.data.admin.ch/eli/oc/2024/105)).
 
 #### Art. 28
 
@@ -1398,7 +1401,10 @@ Das System kann außerdem enthalten:
 
 <sup>1</sup> Die kantonale Behörde führt im Rahmen ihrer Aufsichts- und Vollzugstätigkeiten ein Informations- und Dokumentationssystem für industrielle Betriebe.
 
-- [tab] <sup>2</sup> Das System enthält zu jedem industriellen Betrieb:
+<sup>2</sup>
+
+Das System enthält zu jedem industriellen Betrieb:
+
 - a. die Daten nach Artikel 85 Absatz 2;
 - b. die Angabe, nach welchem Buchstaben von Artikel 5 Absatz 2 des Gesetzes der Betrieb unterstellt wurde;
 - c. Pläne, Planbeschreibungen, Plangenehmigungen und Betriebsbewilligungen.

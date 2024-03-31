@@ -4,11 +4,11 @@ title: Ordonnance 1 du 10 mai 2000 relative à la loi sur le travail (OLT 1)
 short: OLT 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: fr
-version: 2023-09-01
+version: 2024-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/fr"
 
 (OLT 1)
 
-du 10 mai 2000 (État le 1<sup>er</sup> septembre 2023)
+du 10 mai 2000 (État le 1<sup>er</sup> avril 2024)
 
 <sup>Le Conseil fédéral suisse,</sup>
 
@@ -117,7 +117,7 @@ Sont réputées se livrer surtout à la production horticole de plantes les entr
 - b. cultures de plantes en pot et de fleurs coupées;
 - c. pépinières et cultures fruitières, y compris les cultures de plantes vivaces et d’arbustes.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
 [^6-1]: Abrogé par l’art. 22 de l’O du 28 sept. 2007 sur la protection des jeunes travailleurs, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4959](https://fedlex.data.admin.ch/eli/oc/2007/692)).
 
@@ -190,7 +190,7 @@ Est réputée indépendante l’activité artistique exercée par un travailleur
 
 ### (art. 3, let. e, LTr)
 
-<sup>1</sup> ...[^12-2]
+<sup>1</sup> …[^12-2]
 
 <sup>2</sup> Sont réputées éducateurs les personnes ayant achevé une formation pédagogique spécialisée reconnue ou une formation de base suivie d’une formation complémentaire équivalente.
 
@@ -443,6 +443,8 @@ Le besoin urgent de faire appel au travail de nuit ou du dimanche au sens des ar
   - 1\. il s’agit de travaux additionnels qui ne peuvent être différés,
   - 2\. l’exécution de ces travaux est nécessaire la nuit ou le dimanche pour des motifs liés à la santé ou à la sécurité des travailleurs ou pour d’autres motifs d’intérêt public.
 
+<sup>1bis</sup> Le besoin urgent est notamment établi lorsque des mesures sont ordonnées par les autorités pour prévenir ou maîtriser une pénurie d’énergie.[^27-2]
+
 <sup>2</sup>
 
 Le besoin urgent est en outre établi lorsque s’imposent des interventions de durée limitée de nuit ou le dimanche pour:
@@ -459,6 +461,7 @@ Le besoin urgent de faire appel au travail de nuit au sens de l’art. 17, al. 4
 - c. se prémunit ainsi contre la nécessité d’une intervention additionnelle de nuit entre 24 heures et 5 heures.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^27-2]: Introduit par le ch. I de l’O du 21 fév. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 105](https://fedlex.data.admin.ch/eli/oc/2024/105)).
 
 #### Art. 28
 
@@ -591,7 +594,7 @@ Les travailleurs occupés de nuit selon l’al. 2:
 
 Le temps de repos supplémentaire selon l’art. 17*b*, al. 3, let. a et b, de la loi n’est pas dû lorsque la durée maximale du travail hebdomadaire fixée par le système d’organisation du temps de travail propre à l’entreprise n’excède pas, pour un emploi à temps complet:
 
-- a. 35 heures, pauses comprises, en cas de durée de poste réduite à 7 heures en moyenne ;
+- a. 35 heures, pauses comprises, en cas de durée de poste réduite à 7 heures en moyenne;
 - b. 36 heures, pauses déduites, en cas de semaine de quatre jours.
 
 <sup>2</sup> Est réputé propre à l’entreprise un système d’organisation du temps de travail appliqué dans l’intégralité de l’entreprise ou dans une partie d’entreprise clairement délimitée.
@@ -878,7 +881,7 @@ En cas de travail de nuit, l’employeur est notamment tenu de procéder, à tit
 - c. la distribution de repas chauds ou la mise à disposition d’appareils de cuisson destinés à la préparation de repas chauds dans un local approprié;
 - d. le soutien de l’employeur aux travailleurs assumant des tâches d’éducation ou de prise en charge au sens de l’art. 36 de la loi, pour leur permettre d’assumer eux-mêmes ces charges ou de les confier à des tiers.
 
-## Chapitre 4 ...
+## Chapitre 4 …
 
 #### Art. 47 à 59
 
@@ -1226,7 +1229,7 @@ Le SECO représente le service de la Confédération auquel ressortit la protect
 
 <sup>3</sup> Si l’employeur n’a pas appliqué les décisions ou les mesures prescrites à l’expiration du délai imparti, le SECO ordonne l’exécution aux frais de l’employeur et sous réserve de sanctions pénales.
 
-<sup>4</sup> ...[^77-1]
+<sup>4</sup> …[^77-1]
 
 [^77-1]: Abrogé par le ch. IV 37 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
@@ -1366,7 +1369,7 @@ Le SECO exploite, dans le cadre de son activité de surveillance et d’exécuti
 - a. les permis concernant la durée du travail;
 - b. les procédures d’approbation des plans selon l’art. 7, al. 4, de la loi;
 - c. la banque de données sur le droit du travail, qui contient des informations générales sur le droit du travail public et privé;
-- d. la banque de données sur l’exécution, gérée par la Commission fédérale de coordination pour la sécurité au travail (CFST) et contenant les données relatives à l’activité d’inspection des organes d'exécution de la loi et de la LAA;
+- d. la banque de données sur l’exécution, gérée par la Commission fédérale de coordination pour la sécurité au travail (CFST) et contenant les données relatives à l’activité d’inspection des organes d’exécution de la loi et de la LAA;
 - e. les visites d’entreprises;
 - f. la gestion des adresses.
 

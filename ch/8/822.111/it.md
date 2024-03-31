@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2023-09-01
+version: 2024-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 1° settembre 2023)
+del 10 maggio 2000 (Stato 1° aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -443,6 +443,8 @@ Sussiste un urgente bisogno di ricorrere al lavoro notturno o domenicale ai sens
   - 1\. si tratta di lavori supplementari che non possono essere differiti,
   - 2\. per motivi legati alla salute o alla sicurezza dei lavoratori o per altri motivi d’interesse pubblico, i lavori devono essere svolti di notte o la domenica.
 
+<sup>1bis</sup> Sussiste un urgente bisogno in particolare quando sono ordinati dalle autorità misure per prevenire o gestire una penuria di energia.[^27-2]
+
 <sup>2</sup>
 
 Sussiste inoltre un urgente bisogno quando è richiesta l’esecuzione di lavori di durata limitata, di notte o di domenica, per:
@@ -459,6 +461,7 @@ Sussiste un urgente bisogno di ricorrere al lavoro notturno ai sensi dell’arti
 - c. così può evitare di svolgere altro lavoro notturno fra le 24.00 e le 05.00.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^27-2]: Introdotto dal n. I dell’O del 21 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 105](https://fedlex.data.admin.ch/eli/oc/2024/105)).
 
 #### Art. 28
 
@@ -1369,13 +1372,14 @@ La SECO, nell’ambito della sua attività di vigilanza e di esecuzione, gestisc
 - e. le ispezioni alle aziende;
 - f. la gestione degli indirizzi.
 
-<sup>2</sup> d. la data di registrazione nel sistema e la data di cancellazione.
+<sup>2</sup>
 
 Il sistema contiene per ogni azienda:
 
 - a. il nome, l’indirizzo e il numero d’identificazione;
 - b. la tipologia (industriale o non industriale);
 - c. il genere di attività economica;
+- d. la data di registrazione nel sistema e la data di cancellazione.
 
 <sup>3</sup>
 
@@ -1396,7 +1400,10 @@ Il sistema può inoltre contenere:
 
 <sup>1</sup> L’autorità cantonale, nell’ambito della sua attività di vigilanza e di esecuzione, gestisce un sistema di informazione e di documentazione per le aziende industriali.
 
-- [tab] <sup>2</sup> Il sistema contiene per ogni azienda industriale:
+<sup>2</sup>
+
+Il sistema contiene per ogni azienda industriale:
+
 - a. i dati di cui all’articolo 85 capoverso 2;
 - b. l’indicazione delle lettere dell’articolo 5 capoverso 2 della legge in base alle quali è stata assoggettata l’azienda;
 - c. i piani, le descrizioni dei piani, le approvazioni dei piani e i permessi d’esercizio.
@@ -1538,13 +1545,13 @@ lavoro notturno e domenicale per:
 - – lavori indispensabili in relazione agli animali da laboratorio;
 - – lavori indispensabili nelle serre.
 
-### 10.
+### 10. Industria tessile:
 
-Industria tessile:
+lavoro notturno e domenicale in filande, fabbriche di filo per fabbricare filati testurizzati e filati ritorti, inclusi i processi di nobilitazione direttamente connessi;
 
-- **–** lavoro notturno e domenicale in filande, fabbriche di filo per fabbricare filati testurizzati e filati ritorti, inclusi i processi di nobilitazione direttamente connessi;
-- – lavoro notturno e domenicale in stabilimenti tessili e maglifici per la fabbricazione di tessuti e di maglierie, inclusi i processi di nobilitazione direttamente connessi;
-- – lavoro notturno e domenicale in fabbriche di ricami, inclusi i processi di nobilitazione direttamente connessi.
+lavoro notturno e domenicale in stabilimenti tessili e maglifici per la fabbricazione di tessuti e di maglierie, inclusi i processi di nobilitazione direttamente connessi;
+
+lavoro notturno e domenicale in fabbriche di ricami, inclusi i processi di nobilitazione direttamente connessi.
 
 ### 11. Fabbricazione della calce e del cemento:
 
