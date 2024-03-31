@@ -3,18 +3,18 @@ sr: "412.101.220.38"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> septembre 2018 sur la formation professionnelle initiale de technologue en textile avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/545"
 language: fr
-version: 2019-01-01
+version: 2024-04-01
 adopted: 2018-09-01
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/545/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-545-20190101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/545/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/545/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-545-20240401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/545/20240401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de technologue en textile avec certificat fédéral de capacité (CFC)
 
-du 1<sup>er</sup> septembre 2018 (État le 1<sup>er</sup> janvier 2019)
+du 1<sup>er</sup> septembre 2018 (État le 1<sup>er</sup> avril 2024)
 
 <table>
 <tr><td>26311</td><td>Technologue en textile CFC Textiltechnologin EFZ/Textiltechnologe EFZ Tecnologa tessile AFC/Tecnologo tessile AFC</td></tr>
@@ -27,13 +27,14 @@ du 1<sup>er</sup> septembre 2018 (État le 1<sup>er</sup> janvier 2019)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI), en accord avec le Secrétariat d’État à l’économie (SECO),
 
-vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4*a*, al. 1[^ingress-3], de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-4],
 
 arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Objet, orientations et durée
 
@@ -183,9 +184,11 @@ Les personnes en formation doivent obligatoirement acquérir les compétences op
 
 <sup>3</sup> Les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4, al. 4, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -193,7 +196,7 @@ Les personnes en formation doivent obligatoirement acquérir les compétences op
 
 **Parts assumées par les différents lieux de formation**
 
-<sup>1</sup> La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3 ⅔ jours par semaine.
+La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3 ⅔ jours par semaine.
 
 #### Art. 7
 
@@ -270,16 +273,20 @@ Les cours interentreprises comprennent:
 
 Le plan de formation:
 
-- a. contient le profil de qualification; celui-ci comprend:
-- 1\. le profil de la profession,
-- 2\. la vue d’ensemble des domaines de compétences opérationnelles et des compétences opérationnelles, et
-- 3\. le niveau d’exigences de la profession;
+- a.
+
+  contient le profil de qualification; celui-ci comprend:
+
+  - 1\. le profil de la profession,
+  - 2\. la vue d’ensemble des domaines de compétences opérationnelles et des compétences opérationnelles, et
+  - 3\. le niveau d’exigences de la profession;
+
 - b. détaille les contenus de la formation initiale et les dispositions en matière de sécurité au travail, de protection de la santé et de protection de l’environnement,
 - c. définit quelles compétences opérationnelles sont transmises et acquises dans chaque lieu de formation.
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication des sources.
 
-[^9-1]: Le plan de formation du 1<sup>er</sup> septembre 2018 est disponible sur le site internet du SEFRI via la liste des professions accessible à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^9-1]: Le plan de formation du 1<sup>er</sup> septembre 2018 est disponible sur le site internet du SEFRI via la liste des professions accessible à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -357,13 +364,13 @@ Est admise aux procédures de qualification la personne qui a suivi la formation
 
 - a. conformément à la présente ordonnance;
 - b. dans une institution de formation accréditée par le canton, ou
-- a.
+- c.
 
   dans un autre cadre que celui d’une filière de formation réglementée et qui:
 
   - 1\. a acquis l’expérience professionnelle nécessaire visée à l’art. 32 OFPr,
-  - 2\. a effectué 3 ans au minimum de cette expérience dans le domaine d’activité des technologues en textile CFC, et
-  - 3\. démontre qu’elle satisfait aux exigences des procédures de qualification.
+  - 1\. a effectué 3 ans au minimum de cette expérience dans le domaine d’activité des technologues en textile CFC, et
+  - 1\. démontre qu’elle satisfait aux exigences des procédures de qualification.
 
 #### Art. 17
 
@@ -379,11 +386,14 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 La procédure de qualification avec examen final porte sur les compétences opérationnelles dans les domaines de qualification ci-après selon les modalités suivantes:
 
-- a. travail pratique sous la forme d’un travail pratique individuel (TPI) pour les orientations création et mécatronique d’une durée de 40 à 80 heures et d’un travail pratique prescrit (TPP) pour les orientations production, ennoblissement et production et technologie des câbles d’une durée de 15 heures; les règles suivantes sont applicables:
-- 1\. ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
-- 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
-- 3\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides,
-- 4\. le TPI porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
+- a.
+
+  travail pratique sous la forme d’un travail pratique individuel (TPI) pour les orientations création et mécatronique d’une durée de 40 à 80 heures et d’un travail pratique prescrit (TPP) pour les orientations production, ennoblissement et production et technologie des câbles d’une durée de 15 heures; les règles suivantes sont applicables:
+
+  - 1\. ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
+  - 3\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides,
+  - 4\. le TPI porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
 
 <table>
 <tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
@@ -402,9 +412,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Entretien professionnel</td><td>20 %</td></tr>
 </table>
 
-- b. connaissances professionnelles d’une durée de 3 heures; les règles suivantes s’appliquent:
-- 1\. ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
-- 2\. le domaine de qualification fait l’objet d’un examen écrit et porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations et des durées suivantes:
+- b.
+
+  connaissances professionnelles d’une durée de 3 heures; les règles suivantes s’appliquent:
+
+  - 1\. ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. le domaine de qualification fait l’objet d’un examen écrit et porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations et des durées suivantes:
 
 <table>
 <tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td colspan="2">Durée d’examen</td><td>Pondération</td></tr>
@@ -529,10 +542,13 @@ Elle est chargée des tâches suivantes:
 
 **Organe responsable et organisation des cours interentreprises**
 
-- [tab] <sup>1</sup> L’organe responsable des cours interentreprises est Swiss Textiles.
-- [tab] <sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
-- [tab] <sup>3</sup> Ils déterminent l’organisation et le déroulement des cours interentreprises avec l’organe responsable.
-- [tab] <sup>4</sup> Les autorités cantonales compétentes ont accès aux cours en tout temps.
+<sup>1</sup> L’organe responsable des cours interentreprises est Swiss Textiles.
+
+<sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
+
+<sup>3</sup> Ils déterminent l’organisation et le déroulement des cours interentreprises avec l’organe responsable.
+
+<sup>4</sup> Les autorités cantonales compétentes ont accès aux cours en tout temps.
 
 ## Section 11 Dispositions finales
 
