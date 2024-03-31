@@ -3,18 +3,18 @@ sr: "412.101.221.62"
 title: Ordinanza della SEFRI del 5 maggio 2011 sulla formazione professionale di base Artigiana del cuoio e dei tessili/Artigiano del cuoio e dei tessili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/489"
 language: it
-version: 2018-01-01
+version: 2024-04-01
 adopted: 2011-05-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/489/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2011-489-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/489/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/489/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-489-20240401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/489/20240401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Artigiana del cuoio e dei tessili/ Artigiano del cuoio e dei tessili con attestato federale di capacità (AFC)
 
-del 5 maggio 2011 (Stato 1° gennaio 2018)
+del 5 maggio 2011 (Stato 1° aprile 2024)
 
 <table>
 <tr><td>36504</td><td>Artigiana del cuoio e dei tessili AFC/ Artigiano del cuoio e dei tessili AFC Fachfrau Leder und Textil EFZ/ Fachmann Leder und Textil EFZ Artisane du cuir et du textile CFC/ Artisan du cuir et du textile CFC</td></tr>
@@ -25,20 +25,23 @@ del 5 maggio 2011 (Stato 1° gennaio 2018)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-5]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-4]: Nuovo testo giusta il n. I 115 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-5]: Nuovo testo giusta il n. I 115 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
 #### Art. 1
 
 **Profilo e indirizzi professionali**
+
+<sup>1</sup>
 
 Gli artigiani del cuoio e dei tessili di livello AFC svolgono, in particolare, le seguenti attività e si contraddistinguono per i seguenti comportamenti:
 
@@ -82,18 +85,27 @@ La professione di artigiano del cuoio e dei tessili di livello AFC prevede i seg
 
 La formazione prevede, nei seguenti campi di competenze operative, le competenze operative qui elencate:
 
-- a. Pianificazione e preparazione delle attività in base alle esigenze dei clienti e del mercato;
+- a.
+
+  Pianificazione e preparazione delle attività in base alle esigenze dei clienti e del mercato:
+
   - 1\. osservazione dello sviluppo del mercato e delle tendenze di moda, presa in conto della responsabilità per i danni causati dai prodotti e della protezione dei marchi;
   - 2\. consulenza alla clientela a regola d’arte;
   - 3\. allestimento di schizzi in base alle esigenze dei clienti ed elaborazione di piani in scala;
   - 4\. pianificazione e documentazione dei processi lavorativi.
 
-- b. Identificazione, lavorazione e cura di cuoio, tessili e altri materiali;
+- b.
+
+  Identificazione, lavorazione e cura di cuoio, tessili e altri materiali:
+
   - 1\. individuazione, lavorazione e cura del cuoio in base all’ordinazione;
   - 2\. individuazione, lavorazione e cura di tessili in base all’ordinazione;
   - 3\. individuazione, lavorazione e cura di materiali specifici in base all’ordinazione.
 
-- c. Utilizzo e manutenzione di macchinari e attrezzi;
+- c.
+
+  Utilizzo e manutenzione di macchinari e attrezzi:
+
   - 1\. utilizzo e manutenzione di attrezzi in modo sicuro e a regola d’arte;
   - 2\. utilizzo e manutenzione di macchinari in modo sicuro e a regola d’arte.
 
@@ -106,7 +118,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
   - 3\. riparazioni e modifiche ai prodotti di cuoio e tessili;
   - 4\. articoli da equitazione: riparazioni e modifiche a regola d’arte di prodotti di cuoio e tessili specifici del mestiere;
   - 5\. veicoli e tecnica: riparazioni e modifiche a regola d’arte di prodotti di cuoio e tessili specifici del mestiere;
-  - 6\. articoli da pelletteria: riparazioni e modifiche a regola d’arte di prodotti di cuoio e tessili specifici del mestiere;
+  - 6\. articoli da pelletteria: riparazioni e modifiche a regola d’arte di prodotti di cuoio e tessili specifici del mestiere.
 
 - e.
 
@@ -128,11 +140,12 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4*a* capoverso 1[^5-2] OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 115 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -261,7 +274,10 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 - a. secondo le disposizioni della presente ordinanza;
 - b. in un istituto di formazione autorizzato dal Cantone; o
-- c. al di fuori di un ciclo di formazione regolamentato, se
+- c.
+
+  al di fuori di un ciclo di formazione regolamentato, se:
+
   - 1\. ha maturato l’esperienza di cui all’articolo 32 OFPr;
   - 2\. di tale esperienza professionale ha svolto almeno tre anni nel campo dell’artigiano del cuoio e dei tessili AFC;
   - 3\. rende verosimile il possesso dei requisiti per l’esame finale (art. 17).
@@ -356,7 +372,7 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
 
 - a. la nota complessiva;
-- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 20 capoverso 1, la nota dei luoghi di formazione.
+- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 20 capoverso 1, la nota dei luoghi di formazione;
 - c. l’indirizzo professionale.
 
 ## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità
@@ -367,7 +383,7 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 
 La Commissione svizzera per lo sviluppo professionale e la qualità ha la seguente composizione:
 
-- a. da 3 a 6 rappresentanti della comunità d’interessi LETEX (*Verband Schwe**i**zerischer Reiseartikel – und Lederwaren Fabrikanten, sattler-schweiz.ch*, Associazione svizzera dei sellai da carrozzeria);
+- a. da 3 a 6 rappresentanti della comunità d’interessi LETEX (*Verband Schweizerischer Reiseartikel – und Lederwaren Fabrikanten, sattler-schweiz.ch*, Associazione svizzera dei sellai da carrozzeria);
 - b. da uno a due rappresentanti dei docenti di materie professionali;
 - c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
 
@@ -393,13 +409,13 @@ La Commissione ha i seguenti compiti:
 Sono abrogati:
 
 - a. il regolamento dell’11 maggio 1988[^23-1] concernente il tirocinio e l’esame finale di tirocinio per sellaio da carrozzeria;
-- b. il programma del 20 novembre 2003[^23-2] d’insegnamento professionale per sellaio di carrozzeria/sellaia di carrozzeria.
+- b. il programma del 20 novembre 2003[^23-2] d’insegnamento professionale per sellaio di carrozzeria/sellaia di carrozzeria;
 - c. il regolamento del 20 novembre 2003[^23-3] concernente il tirocinio e l’esame finale di tirocinio per sellaio/sellaia;
 - d. il programma del 20 novembre 2003[^23-4] d’insegnamento professionale per sellaio/sellaia;
 
 <sup>2</sup> È revocata l’approvazione del regolamento dell’11 maggio 1988 concernente i corsi d’introduzione per sellai da carrozzeria.
 
-<sup>2</sup> È revocata l’approvazione del regolamento del 20 novembre 2003 concernente i corsi d’introduzione per sellai.
+<sup>3</sup> È revocata l’approvazione del regolamento del 20 novembre 2003 concernente i corsi d’introduzione per sellai.
 
 [^23-1]: FF **1988** III 205
 [^23-2]: FF **2003** I 7152
