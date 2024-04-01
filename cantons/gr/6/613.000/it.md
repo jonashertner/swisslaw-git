@@ -5,12 +5,12 @@ title: Legge sulla polizia del Cantone dei Grigioni
 short: LPol
 language: it
 version: 2022-01-01
-valid_until: 2024-12-31
+corrected: 2024-04-02
 version_adopted: 2021-08-27
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3397/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3223/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -23,9 +23,7 @@ del 20.10.2004 (stato 01.01.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
-visto l'art. 79 della Costituzione cantonale[^ingress-1],
-
-visto il messaggio del Governo del 15 giugno 2004[^ingress-2],
+visto l'art. 79 della Costituzione cantonale[^ingress-1], visto il messaggio del Governo del 15 giugno 2004[^ingress-2],
 
 decide:
 
@@ -50,12 +48,12 @@ decide:
 
 <sup>1</sup> La Polizia cantonale adempie ai seguenti compiti:
 
-- a) intraprende misure atte a riconoscere, impedire ed eliminare pericoli per persone, animali, ambiente e cose oppure disturbi alla sicurezza e all’ordine pubblici;
-- b) esercita la funzione di polizia giudiziaria e adotta misure atte a prevenire ed a combattere i reati;
-- c) procede alle necessarie chiarificazioni già prima di avviare indagini di polizia giudiziaria o per la difesa da pericoli;
-- d) provvede ad un’adeguata sorveglianza e gestione del traffico stradale e adotta misure atte a prevenire gli incidenti, nonché a moderare il traffico;
-- e) aiuta persone la cui integrità fisica o la cui vita è direttamente minacciata o che si trovano altrimenti in situazioni d’emergenza;
-- f) garantisce il coordinamento dell’intervento quando un incidente o un’emergenza richiede l’intervento di polizia, pompieri e di altre organizzazioni;
+- a) intraprende misure atte a riconoscere, impedire ed eliminare pericoli per persone, animali, ambiente e cose oppure disturbi alla sicurezza e all’ordine pubblici.
+- b) esercita la funzione di polizia giudiziaria e adotta misure atte a prevenire ed a combattere i reati.
+- c) procede alle necessarie chiarificazioni già prima di avviare indagini di polizia giudiziaria o per la difesa da pericoli.
+- d) provvede ad un’adeguata sorveglianza e gestione del traffico stradale e adotta misure atte a prevenire gli incidenti, nonché a moderare il traffico.
+- e) aiuta persone la cui integrità fisica o la cui vita è direttamente minacciata o che si trovano altrimenti in situazioni d’emergenza.
+- f) garantisce il coordinamento dell’intervento quando un incidente o un’emergenza richiede l’intervento di polizia, pompieri e di altre organizzazioni.
 - g) assicura il sostegno di polizia in occasione di grandi eventi; può assumere il coordinamento dell'intervento;
 - h) adempie ad altri compiti assegnatile dalla legislazione.
 
@@ -149,10 +147,10 @@ decide:
 
 <sup>2</sup> Se il disturbo o la minaccia dell’ordine e della sicurezza pubblici derivano direttamente da un animale o da una cosa, l’azione di polizia si rivolge contro la persona che può effettivamente disporre sull’animale o sulla cosa.
 
-<sup>3</sup> L’azione di polizia si può rivolgere contro altre persone se:
+<sup>3</sup> L’azione di polizia si può rivolgere contro altre persone se
 
-- a) va evitato un notevole disturbo o neutralizzata una notevole minaccia imminente;
-- b) non sono possibili per tempo misure contro i perturbatori o se non fanno sperare in un successo; e
+- a) va evitato un notevole disturbo o neutralizzata una notevole minaccia imminente,
+- b) non sono possibili per tempo misure contro i perturbatori o se non fanno sperare in un successo e
 - c) lo si può pretendere dalle persone interessate.
 
 ## 3. Misure di polizia
@@ -183,7 +181,7 @@ decide:
 
 **Misure di identificazione**
 
-<sup>1</sup> La Polizia cantonale può procedere a misure di identificazione su una persona:
+<sup>1</sup> La Polizia cantonale può procedere a misure di identificazione su una persona
 
 - a) la cui identità non può essere stabilita in altro modo o solo con notevoli difficoltà;
 - b) condannata ad una pena privativa della libertà senza il beneficio della condizionale o contro la quale è stata disposta una misura cautelare privativa della libertà;
@@ -199,7 +197,7 @@ decide:
 
 <sup>1</sup> Per preservare la sicurezza e l’ordine, nonché per limitare i pericoli, la Polizia cantonale può disporre le misure necessarie riferite all'evento.
 
-<sup>2</sup> In particolare può:
+<sup>2</sup> In particolare può
 
 - a) ordinare a persone di lasciare un determinato luogo o una determinata area;
 - b) vietare l’accesso a oggetti, fondi o aree;
@@ -211,7 +209,7 @@ decide:
 
 **Pubblicazione**
 
-<sup>1</sup> La Polizia cantonale segnala persone il cui luogo di dimora è sconosciuto se:
+<sup>1</sup> La Polizia cantonale segnala persone il cui luogo di dimora è sconosciuto se
 
 - a) lo prevede la legislazione;
 - b) sono date le condizioni per un mandato d’accompagnamento o per la custodia di polizia;
@@ -236,7 +234,7 @@ decide:
 
 **Custodia di polizia**
 
-<sup>1</sup> La Polizia cantonale può porre provvisoriamente una persona sotto la custodia di polizia se:
+<sup>1</sup> La Polizia cantonale può porre provvisoriamente una persona sotto la custodia di polizia se
 
 - a) ciò è necessario per la sua protezione o per quella di un’altra persona da un pericolo per la sua integrità fisica, la sua vita o la sua integrità psichica, nonché per evitare o eliminare un’importante minaccia per la sicurezza e l’ordine pubblici;
 - b) ciò risulta necessario per evitare l’imminente commissione o prosecuzione di un grave reato;
@@ -278,7 +276,7 @@ decide:
 
 **Perquisizione di persone**
 
-<sup>1</sup> La Polizia cantonale può perquisire una persona se:
+<sup>1</sup> La Polizia cantonale può perquisire una persona se
 
 - a) ciò appare necessario a seconda delle circostanze a protezione della Polizia cantonale o di terzi;
 - b) sono dati i motivi per un fermo di polizia secondo la presente legge o secondo un’altra legge;
@@ -291,7 +289,7 @@ decide:
 
 **Perquisizione di oggetti**
 
-<sup>1</sup> La Polizia cantonale può perquisire veicoli e altri oggetti se:
+<sup>1</sup> La Polizia cantonale può perquisire veicoli e altri oggetti se
 
 - a) si trovano in custodia di una persona che può essere perquisita giusta l’art. 17;
 - b) vi è il sospetto che in essi si trovi una persona trattenuta illegalmente o che deve essere presa in custodia;
@@ -309,7 +307,7 @@ decide:
 
 **Accesso e perquisizione di spazi non pubblici**
 
-<sup>1</sup> La Polizia cantonale può accedere e perquisire spazi e fondi non pubblicamente accessibili senza l’autorizzazione della persona avente diritto, solo se:
+<sup>1</sup> La Polizia cantonale può accedere e perquisire spazi e fondi non pubblicamente accessibili senza l’autorizzazione della persona avente diritto, solo se
 
 - a) ciò è necessario per impedire un importante pericolo;
 - b) vi è il sospetto che vi si trovi una persona trattenuta illegalmente;
@@ -322,7 +320,7 @@ decide:
 
 **Sequestro di oggetti**
 
-<sup>1</sup> La Polizia cantonale può sequestrare un oggetto allo scopo di:
+<sup>1</sup> La Polizia cantonale può sequestrare un oggetto allo scopo di
 
 - a) evitare un pericolo per la sicurezza e l’ordine pubblici;
 - b) proteggere dalla perdita o dal danneggiamento dell’oggetto la persona che ne è proprietaria o che ne detiene il possesso legittimo.
@@ -490,7 +488,7 @@ decide:
 
 **Ammanettamento**
 
-<sup>1</sup> La Polizia cantonale può ammanettare persone che vengono fermate in virtù della presente legge qualora vi sia il sospetto che:
+<sup>1</sup> La Polizia cantonale può ammanettare persone che vengono fermate in virtù della presente legge qualora vi sia il sospetto che
 
 - a) aggrediranno persone, opporranno resistenza o danneggeranno cose;
 - b) scapperanno o saranno liberate;
@@ -500,7 +498,7 @@ decide:
 
 **Utilizzo di armi da fuoco**
 
-<sup>1</sup> L’impiego di armi da fuoco è ammissibile:
+<sup>1</sup> L’impiego di armi da fuoco è ammissibile
 
 - a) in caso di un attacco che comporti un pericolo immediato o in caso di relative minacce contro membri della Polizia cantonale o contro terzi;
 - b) per fermare persone che hanno commesso un crimine o un delitto gravi o ne sono fortemente sospettate e che cercano di sottrarsi al fermo o alla privazione della libertà;
@@ -564,7 +562,7 @@ decide:
 
 <sup>1</sup> La Polizia cantonale può trasmettere dati a terzi, qualora ciò sia previsto dalla legge oppure indispensabile per:
 
-- a) adempiere a compiti di polizia; oppure
+- a) adempiere a compiti di polizia oppure
 - b) respingere un pericolo per la sicurezza e l’ordine pubblici.
 
 <sup>2</sup> La comunicazione dei dati alle altre autorità di polizia o d'azione penale cantonali nonché federali può avvenire anche in maniera automatizzata.

@@ -5,12 +5,12 @@ title: Polizeigesetz des Kantons Graubünden
 short: PolG
 language: de
 version: 2022-01-01
-valid_until: 2024-12-31
+corrected: 2024-04-02
 version_adopted: 2021-08-27
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3397/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -149,10 +149,10 @@ beschliesst:
 
 <sup>2</sup> Geht die Störung oder Gefährdung der öffentlichen Ordnung und Sicherheit unmittelbar von einem Tier oder einer Sache aus, richtet sich das polizeiliche Handeln gegen die Person, welche die tatsächliche Verfügungsgewalt über das Tier oder die Sache ausübt.
 
-<sup>3</sup> Das polizeiliche Handeln kann sich gegen andere Personen richten, wenn:
+<sup>3</sup> Das polizeiliche Handeln kann sich gegen andere Personen richten, wenn
 
 - a) eine erhebliche Störung oder eine unmittelbar drohende erhebliche Gefahr abzuwehren ist;
-- b) Massnahmen gegen Störende nicht rechtzeitig möglich oder nicht Erfolg versprechend sind; und
+- b) Massnahmen gegen Störende nicht rechtzeitig möglich oder nicht Erfolg versprechend sind und
 - c) es den betroffenen Personen zumutbar ist.
 
 ## 3. Polizeiliche Massnahmen
@@ -183,7 +183,7 @@ beschliesst:
 
 **Erkennungsdienstliche Massnahmen**
 
-<sup>1</sup> Die Kantonspolizei darf erkennungsdienstliche Massnahmen an einer Person vornehmen:
+<sup>1</sup> Die Kantonspolizei darf erkennungsdienstliche Massnahmen an einer Person vornehmen,
 
 - a) deren Identität sich auf andere Weise nicht oder nur mit erheblichen Schwierigkeiten feststellen lässt;
 - b) die zu einer unbedingten Freiheitsstrafe verurteilt oder gegen die eine freiheitsentziehende sichernde Massnahme verhängt wurde;
@@ -199,7 +199,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann zur Wahrung der Sicherheit und Ordnung sowie zur Gefahrenabwehr ereignisbezogen die notwendigen Massnahmen anordnen.
 
-<sup>2</sup> Insbesondere kann sie:
+<sup>2</sup> Insbesondere kann sie
 
 - a) Personen anweisen, einen bestimmten Ort oder ein bestimmtes Gebiet zu verlassen;
 - b) das Betreten von Objekten, Grundstücken oder Gebieten untersagen;
@@ -211,7 +211,7 @@ beschliesst:
 
 **Ausschreibung**
 
-<sup>1</sup> Die Kantonspolizei schreibt eine Person aus, deren Aufenthaltsort unbekannt ist, wenn:
+<sup>1</sup> Die Kantonspolizei schreibt eine Person aus, deren Aufenthaltsort unbekannt ist, wenn
 
 - a) die Gesetzgebung es vorsieht;
 - b) die Voraussetzungen für eine Vorführung oder den polizeilichen Gewahrsam gegeben sind;
@@ -236,7 +236,7 @@ beschliesst:
 
 **Polizeigewahrsam**
 
-<sup>1</sup> Die Kantonspolizei kann eine Person vorübergehend in polizeilichen Gewahrsam nehmen, wenn:
+<sup>1</sup> Die Kantonspolizei kann eine Person vorübergehend in polizeilichen Gewahrsam nehmen, wenn
 
 - a) dies zum Schutz dieser oder einer anderen Person gegen eine Gefahr für Leib, Leben oder die psychische Unversehrtheit sowie für die Verhinderung oder Beseitigung einer erheblichen Gefährdung der öffentlichen Sicherheit und Ordnung erforderlich ist;
 - b) dies zur Verhinderung der unmittelbar bevorstehenden Begehung oder Fortsetzung einer erheblichen Straftat erforderlich ist;
@@ -278,7 +278,7 @@ beschliesst:
 
 **Durchsuchen von Personen**
 
-<sup>1</sup> Die Kantonspolizei kann eine Person durchsuchen, wenn:
+<sup>1</sup> Die Kantonspolizei kann eine Person durchsuchen, wenn
 
 - a) dies nach den Umständen zum Schutz der Kantonspolizei oder Dritter erforderlich erscheint;
 - b) Gründe für ein polizeiliches Festhalten nach diesem oder einem anderen Gesetz gegeben sind;
@@ -291,7 +291,7 @@ beschliesst:
 
 **Durchsuchen von Sachen**
 
-<sup>1</sup> Die Kantonspolizei kann Fahrzeuge und andere Sachen durchsuchen, wenn:
+<sup>1</sup> Die Kantonspolizei kann Fahrzeuge und andere Sachen durchsuchen, wenn
 
 - a) sie sich im Gewahrsam einer Person befinden, die gemäss Artikel 17 durchsucht werden darf;
 - b) Verdacht besteht, dass sich in ihnen eine Person befindet, die widerrechtlich festgehalten wird oder die in Gewahrsam zu nehmen ist;
@@ -309,7 +309,7 @@ beschliesst:
 
 **Betreten und Durchsuchen von nicht öffentlichen Räumlichkeiten**
 
-<sup>1</sup> Die Kantonspolizei darf nicht öffentlich zugängliche Räumlichkeiten und Grundstücke ohne Einwilligung der berechtigten Person nur betreten und durchsuchen, wenn:
+<sup>1</sup> Die Kantonspolizei darf nicht öffentlich zugängliche Räumlichkeiten und Grundstücke ohne Einwilligung der berechtigten Person nur betreten und durchsuchen, wenn
 
 - a) dies zur Abwehr einer erheblichen Gefahr notwendig ist;
 - b) wenn Verdacht besteht, dass dort eine Person widerrechtlich festgehalten wird;
@@ -322,7 +322,7 @@ beschliesst:
 
 **Sicherstellen von Sachen**
 
-<sup>1</sup> Die Kantonspolizei kann eine Sache sicherstellen, um:
+<sup>1</sup> Die Kantonspolizei kann eine Sache sicherstellen, um
 
 - a) eine Gefahr für die öffentliche Sicherheit und Ordnung abzuwehren;
 - b) die Person, welche das Eigentum oder den rechtmässigen Besitz daran hat, vor Verlust oder Beschädigung der Sache zu schützen.
@@ -490,7 +490,7 @@ beschliesst:
 
 **Fesselung**
 
-<sup>1</sup> Die Kantonspolizei kann Personen, die sie gestützt auf das vorliegende Gesetz festhält, mit Fesseln sichern, wenn der Verdacht besteht, dass diese:
+<sup>1</sup> Die Kantonspolizei kann Personen, die sie gestützt auf das vorliegende Gesetz festhält, mit Fesseln sichern, wenn der Verdacht besteht, dass diese
 
 - a) Menschen angreifen, Widerstand leisten oder Sachen beschädigen werden;
 - b) fliehen werden oder befreit werden sollen;
@@ -500,7 +500,7 @@ beschliesst:
 
 **Schusswaffengebrauch**
 
-<sup>1</sup> Der Einsatz von Schusswaffen ist zulässig:
+<sup>1</sup> Der Einsatz von Schusswaffen ist zulässig
 
 - a) bei einem unmittelbaren gefährlichen Angriff oder einer entsprechenden Drohung gegen Angehörige der Kantonspolizei oder gegen Dritte;
 - b) zur Anhaltung von Personen, die ein schweres Verbrechen oder ein schweres Vergehen begangen haben oder dessen dringend verdächtigt werden und die der Festnahme oder dem Freiheitsentzug zu entfliehen versuchen;
@@ -564,7 +564,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann Daten an Dritte weiterleiten, soweit dies gesetzlich vorgesehen oder unerlässlich ist für:
 
-- a) die Erfüllung polizeilicher Aufgaben; oder
+- a) die Erfüllung polizeilicher Aufgaben oder
 - b) die Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung.
 
 <sup>2</sup> Die Datenbekanntgabe gegenüber anderen kantonalen sowie den eidgenössischen Polizei- und Strafverfolgungsbehörden kann auch automatisiert erfolgen.
