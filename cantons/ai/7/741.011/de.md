@@ -1,22 +1,22 @@
 ---
 canton: AI
 number: "741.011"
-title: Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben für das Jahr 2023
+title: Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben
 language: de
-version: 2023-01-01
-valid_until: 2024-04-01
-version_adopted: 2022-12-20
+version: 2024-04-02
+valid_until: 2025-12-31
+version_adopted: 2024-04-02
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/741.011"
-pdf: "https://ai.clex.ch/api/de/versions/2180/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben für das Jahr 2023
+# Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben
 
-vom 20.12.2022 (Stand 01.01.2023)
+vom 20.12.2022 (Stand 02.04.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -120,28 +120,29 @@ beschliesst:
   - 4\.8 Schilderübertragungen (exkl. Fahrzeugausweis) — Fr. 180.--
 - 5\. Führerprüfungen
 - 5\.1 Kategorien
-  - 5\.1.1 Kat. A — Fr. 85.--
-  - 5\.1.2 Kat. B — Fr. 110.--
+  - 5\.1.1 Kat. A — Fr. 120.--
+  - 5\.1.2 Kat. B — Fr. 120.--
   - 5\.1.3 Kat. C — Fr. 180.--
-  - 5\.1.4 Kat. D — Fr. 230.--
-  - 5\.1.5 Kat. BE — Fr. 110.--
+  - 5\.1.4 Kat. D — Fr. 240.--
+  - 5\.1.5 Kat. BE — Fr. 120.--
   - 5\.1.6 Kat. CE — Fr. 180.--
-  - 5\.1.7 Kat. DE — Fr. 180.--
+  - 5\.1.7 Kat. DE — Fr. 150.--
 - 5\.2 Unterkategorien
-  - 5\.2.1 Kat. A1 — Fr. 85.--
-  - 5\.2.2 Kat. B1 — Fr. 110.--
+  - 5\.2.1 Kat. A1 — Fr. 120.--
+  - 5\.2.2 Kat. B1 — Fr. 120.--
   - 5\.2.3 Kat. C1 — Fr. 180.--
   - 5\.2.4 Kat. D1 — Fr. 180.--
-  - 5\.2.5 Kat. C1E — Fr. 180.--
-  - 5\.2.6 Kat. D1E — Fr. 180.--
+  - 5\.2.5 Kat. C1E — Fr. 150.--
+  - 5\.2.6 Kat. D1E — Fr. 150.--
 - 5\.3 Spezialkategorien
-  - 5\.3.1 Kat. F — Fr. 85.--
+  - 5\.3.1 Kat. F — Fr. 120.--
   - 5\.3.2 Kat. M — Fr. 40.--
-  - 5\.3.3 Berufsmässiger Personentransport (BPT) — Fr. 110.--
-  - 5\.3.4 Kontrollfahrt — Fr. 110.--
+  - 5\.3.3 Berufsmässiger Personentransport (BPT) — Fr. 120.--
+  - 5\.3.4 Kontrollfahrt — Fr. 120.--
   - 5\.3.5 Basistheorie Gruppe — Fr. 35.--
   - 5\.3.6 Zusatztheorie — Fr. 45.--
   - 5\.3.7 Theorie für Spezialkategorien — Fr. 20.--
+  - 5\.3.8 E-Prüfung CZV — Fr. 35.--
 - 6\. Fahrzeugprüfungen
 - 6\.1 Personenwagen
   - 6\.1.1 Periodische Fahrzeugprüfungen — Fr. 50.--
@@ -192,6 +193,6 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieser Beschluss tritt am 1. Januar 2023 in Kraft.
+<sup>1</sup> Dieser Beschluss tritt am 2. April 2024 in Kraft.
 
 cGS 2022-43
