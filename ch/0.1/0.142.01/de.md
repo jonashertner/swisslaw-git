@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: Satzung vom 19. Oktober 1953 der Internationalen Organisation für Migrationen
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: de
-version: 2021-04-28
+version: 2024-04-03
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20210428/de/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20210428-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20210428/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240403/de/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240403-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240403/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1989** 2488; BBl **1988** I 1489[^t-1]
 
 Angenommen am 19. Oktober 1953[^t-2] und geändert am 20. Mai 1987 Änderungen genehmigt von der Bundesversammlung am 29. September 1988[^t-3], angenommen von der Schweiz am 2. Dezember 1988 und in Kraft getreten am 14. November 1989
 
-(Stand am 28. April 2021)
+(Stand am 3. April 2024)
 
 [^t-1]: Ursprünglich: Gründungsakte des Zwischenstaatlichen Komitees für Europäische Auswanderung.
 [^t-2]: [AS 1972 166](https://fedlex.data.admin.ch/eli/oc/1972/166_171_171)
@@ -82,10 +82,11 @@ Die Organisation hat folgende Ziele und Aufgaben:
 
 Mitglieder der Organisation sind:
 
-- a) die Staaten, die Mitglieder der Organisation sind und diese Satzung nach Artikel 34 angenommen haben oder auf die Artikel 35 Anwendung findet;
-- b)[^2-1] andere Staaten, die ihr Interesse am Grundsatz der Freizügigkeit bewiesen haben und sich zumindest verpflichten, zu den Verwaltungsausgaben der Organisation einen finanziellen Beitrag zu leisten, dessen Satz zwischen dem Rat und dem betreffenden Staat vereinbart wird; hierzu ist ein mit Zweidrittelmehrheit gefasster Beschluss des Rates und die vorherige Annahme dieser Satzung durch den betreffenden Staat gemäss seinen verfassungsrechtlichen Verfahren erforderlich.
+- a) die Staaten, die Mitglieder der Organisation sind und diese Satzung nach Artikel 29 angenommen haben oder auf die Artikel 30[^2-1] Anwendung findet;
+- b)[^2-2] andere Staaten, die ihr Interesse am Grundsatz der Freizügigkeit bewiesen haben und sich zumindest verpflichten, zu den Verwaltungsausgaben der Organisation einen finanziellen Beitrag zu leisten, dessen Satz zwischen dem Rat und dem betreffenden Staat vereinbart wird; hierzu ist ein mit Zweidrittelmehrheit gefasster Beschluss des Rates und die vorherige Annahme dieser Satzung durch den betreffenden Staat gemäss seinen verfassungsrechtlichen Verfahren erforderlich.
 
-[^2-1]: Fassung gemäss Anhang der Resolution des Rats vom 24. Nov. 1998, von der BVers genehmigt am 21. Juni 2013 und in Kraft getreten am 21. Nov. 2013 ([AS 2014 739](https://fedlex.data.admin.ch/eli/oc/2014/161)[737](https://fedlex.data.admin.ch/eli/oc/2014/160); [BBl 2012 9161](https://fedlex.data.admin.ch/eli/fga/2012/1681)).
+[^2-1]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^2-2]: Fassung gemäss Anhang der Resolution des Rats vom 24. Nov. 1998, von der BVers genehmigt am 21. Juni 2013 und in Kraft getreten am 21. Nov. 2013 ([AS 2014 739](https://fedlex.data.admin.ch/eli/oc/2014/161)[737](https://fedlex.data.admin.ch/eli/oc/2014/160); [BBl 2012 9161](https://fedlex.data.admin.ch/eli/fga/2012/1681)).
 
 #### Art. 3
 
@@ -336,7 +337,7 @@ Die Mitgliedsregierungen des Zwischenstaatlichen Komitees für Europäische Ausw
 
 Der französische, englische und spanische Wortlaut dieser Satzung ist gleichermassen verbindlich.
 
-Geltungsbereich am 28. April 2021**[^t-4]**
+Geltungsbereich am 3. April 2024[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Annahme Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -353,6 +354,7 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Australien</td><td>24. Mai</td><td>1985</td><td>24. Mai</td><td>1985</td></tr>
 <tr><td>Bahamas</td><td>30. November</td><td>2004</td><td>30. November</td><td>2004</td></tr>
 <tr><td>Bangladesch</td><td>27. November</td><td>1990</td><td>27. November</td><td>1990</td></tr>
+<tr><td>Barbados</td><td>29. November</td><td>2022</td><td>29. November</td><td>2022</td></tr>
 <tr><td>Belarus</td><td>29. November</td><td>2005</td><td>29. November</td><td>2005</td></tr>
 <tr><td>Belgien</td><td>27. April</td><td>1955</td><td>27. April</td><td>1955</td></tr>
 <tr><td>Belize</td><td>7. Juni</td><td>2000</td><td>7. Juni</td><td>2000</td></tr>
@@ -366,7 +368,6 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Burundi</td><td>27. November</td><td>2007</td><td>27. November</td><td>2007</td></tr>
 <tr><td>Chile</td><td>20. Oktober</td><td>1954</td><td>30. November</td><td>1954</td></tr>
 <tr><td>China</td><td>30. Juni</td><td>2016</td><td>30. Juni</td><td>2016</td></tr>
-<tr><td>Cook-Inseln</td><td>28. November</td><td>2017</td><td>28. November</td><td>2017</td></tr>
 <tr><td>Costa Rica</td><td>29. März</td><td>1955</td><td>29. März</td><td>1955</td></tr>
 <tr><td>Côte d’Ivoire</td><td>7. Juni</td><td>2000</td><td>7. Juni</td><td>2000</td></tr>
 <tr><td>Dänemark</td><td>26. Februar</td><td>1954</td><td>30. November</td><td>1954</td></tr>
@@ -386,7 +387,7 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Gambia</td><td>7. Juni</td><td>2001</td><td>7. Juni</td><td>2001</td></tr>
 <tr><td>Georgien</td><td>7. Juni</td><td>2001</td><td>7. Juni</td><td>2001</td></tr>
 <tr><td>Ghana</td><td>29. November</td><td>2005</td><td>29. November</td><td>2005</td></tr>
-<tr><td>Grenada</td><td>28. Juni</td><td>2018</td><td>28. Juni</td><td>2018</td></tr>
+<tr><td>Grenada</td><td>29. Juni</td><td>2018</td><td>29. Juni</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>8. Juli</td><td>1954</td><td>30. November</td><td>1954</td></tr>
 <tr><td>Guatemala</td><td>25. November</td><td>1986</td><td>25. November</td><td>1986</td></tr>
 <tr><td>Guinea</td><td>7. Juni</td><td>2000</td><td>7. Juni</td><td>2000</td></tr>
@@ -446,6 +447,7 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Nauru</td><td>5. Dezember</td><td>2011</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Nepal</td><td>28. November</td><td>2006</td><td>28. November</td><td>2006</td></tr>
 <tr><td>Neuseeland</td><td>13. Juni</td><td>2003</td><td>13. Juni</td><td>2003</td></tr>
+<tr><td>Cook-Inseln</td><td>28. November</td><td>2017</td><td>28. November</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>13. November</td><td>1967</td><td>13. November</td><td>1967</td></tr>
 <tr><td>Niederlande</td><td>12. April</td><td>1954</td><td>30. November</td><td>1954</td></tr>
 <tr><td>Niger</td><td>4. Juni</td><td>2004</td><td>4. Juni</td><td>2004</td></tr>
@@ -464,6 +466,7 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Portugal</td><td>17. November</td><td>1975</td><td>17. November</td><td>1975</td></tr>
 <tr><td>Ruanda</td><td>2. Dezember</td><td>2002</td><td>2. Dezember</td><td>2002</td></tr>
 <tr><td>Rumänien</td><td>23. November</td><td>1998</td><td>23. November</td><td>1998</td></tr>
+<tr><td>Russland</td><td>19. April</td><td>2021</td><td>19. April</td><td>2021</td></tr>
 <tr><td>Salomoninseln</td><td>30. Juni</td><td>2016</td><td>30. Juni</td><td>2016</td></tr>
 <tr><td>Sambia</td><td>27. Mai</td><td>1992</td><td>27. Mai</td><td>1992</td></tr>
 <tr><td>Samoa</td><td>25. November</td><td>2014</td><td>25. November</td><td>2014</td></tr>
@@ -503,7 +506,7 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Ukraine</td><td>27. November</td><td>2001</td><td>27. November</td><td>2001</td></tr>
 <tr><td>Ungarn</td><td>26. November</td><td>1991</td><td>26. November</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>3. Mai</td><td>1965</td><td>3. Mai</td><td>1965</td></tr>
-<tr><td>Usbekistan</td><td>27. November</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Usbekistan</td><td>15. Dezember</td><td>2018</td><td>15. März</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>5. Dezember</td><td>2011</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>4. Dezember</td><td>1973</td><td>4. Dezember</td><td>1973</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>7. Juni</td><td>2001</td><td>7. Juni</td><td>2001</td></tr>
@@ -513,4 +516,4 @@ Geltungsbereich am 28. April 2021**[^t-4]**
 <tr><td>Zypern</td><td>28. Mai</td><td>1974</td><td>28. Mai</td><td>1974</td></tr>
 </table>
 
-[^t-4]: [AS 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/Treaty).
+[^t-4]: [AS 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

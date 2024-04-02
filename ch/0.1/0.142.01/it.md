@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: "Costituzione del 19 ottobre 1953 dell'Organizzazione internazionale per le migrazioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: it
-version: 2021-04-28
+version: 2024-04-03
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20210428-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20210428/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240403/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240403-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240403/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Emendamenti approvati dall’Assemblea federale il 29 settembre 1988[^t-3]
 
 accettati dalla Svizzera il 2 dicembre 1988 ed entrati in vigore il 14 novembre 1989
 
-(Stato 28 aprile 2021)
+(Stato 3 aprile 2024)
 
 [^t-1]: In origine «Costituzione del Comitato intergovernativo per le migrazioni europee».
 [^t-2]: RU **1972** 172
@@ -86,10 +86,11 @@ Gli scopi e le funzioni dell’Organizzazione sono:
 
 Sono membri dell’Organizzazione:
 
-- a) gli Stati che, in quanto membri dell’Organizzazione, hanno accettato la presente Costituzione, in base all’articolo 34, o cui si applica il disposto dell’articolo 35;
-- b)[^2-1] gli altri Stati che hanno dato prova del loro interesse nei confronti del principio della libera circolazione delle persone e che si impegnano almeno a contribuire alle spese amministrative dell’Organizzazione con una partecipazione, la cui entità sarà concordata tra il Consiglio e lo Stato interessato, subordinatamente a una decisione del Consiglio adottata a maggioranza dei due terzi e alla loro accettazione della presente Costituzione, in conformità con le loro rispettive norme costituzionali.
+- a) gli Stati che, in quanto membri dell’Organizzazione, hanno accettato la presente Costituzione, in base all’articolo 29, o cui si applica il disposto dell’articolo 30[^2-1];
+- b)[^2-2] gli altri Stati che hanno dato prova del loro interesse nei confronti del principio della libera circolazione delle persone e che si impegnano almeno a contribuire alle spese amministrative dell’Organizzazione con una partecipazione, la cui entità sarà concordata tra il Consiglio e lo Stato interessato, subordinatamente a una decisione del Consiglio adottata a maggioranza dei due terzi e alla loro accettazione della presente Costituzione, in conformità con le loro rispettive norme costituzionali.
 
-[^2-1]: Nuovo testo giusta l’all. alla Ris. del Consiglio del 24 nov. 1998, approvato dall’AF il 21 giu. 2013, in vigore dal 21 nov. 2013 ([RU 2014 739](https://fedlex.data.admin.ch/eli/oc/2014/161)[737](https://fedlex.data.admin.ch/eli/oc/2014/160); [FF 2012 8041](https://fedlex.data.admin.ch/eli/fga/2012/1681)).
+[^2-1]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^2-2]: Nuovo testo giusta l’all. alla Ris. del Consiglio del 24 nov. 1998, approvato dall’AF il 21 giu. 2013, in vigore dal 21 nov. 2013 ([RU 2014 739](https://fedlex.data.admin.ch/eli/oc/2014/161)[737](https://fedlex.data.admin.ch/eli/oc/2014/160); [FF 2012 8041](https://fedlex.data.admin.ch/eli/fga/2012/1681)).
 
 #### Art. 3
 
@@ -219,7 +220,7 @@ Il Direttore generale assiste, o si fa rappresentare da un Vicedirettore general
 
 Durante la sessione ordinaria del Consiglio successiva al termine di ogni esercizio finanziario, il Direttore generale presenta al Consiglio un rapporto sui lavori dell’Organizzazione, fornendo un resoconto completo delle sue attività durante l’anno trascorso.
 
-## Capitolo VI**** Sede
+## Capitolo VI Sede
 
 [^chapVI-1]
 
@@ -231,7 +232,7 @@ Durante la sessione ordinaria del Consiglio successiva al termine di ogni eserci
 
 <sup>2.</sup> Le riunioni del Consiglio si svolgono a Ginevra, a meno che due terzi dei membri del Consiglio, o rispettivamente del Consiglio esecutivo, non abbiano deciso di riunirsi altrove.
 
-## Capitolo VII**** Finanze
+## Capitolo VII Finanze
 
 [^chapVII-1]
 
@@ -263,7 +264,7 @@ Le risorse necessarie per le spese dell’Organizzazione sono rappresentate:
 
 Il Consiglio fissa un regolamento finanziario.
 
-## Capitolo VIII**** Statuto giuridico
+## Capitolo VIII Statuto giuridico
 
 [^chapVIII-1]
 
@@ -285,7 +286,7 @@ a) di stipulare contratti; b) di acquistare beni mobili e d immobili e di dispor
 
 [^23-1]: Nuovo testo giusta l’all. alla Ris. del Consiglio del 28 ott. 2020, in vigore dal 28 ott. 2020 ([RU 2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267)).
 
-## Capitolo IX**** Disposizioni varie
+## Capitolo IX Disposizioni varie
 
 [^chapIX-1]
 
@@ -342,7 +343,7 @@ I Governi membri del comitato intergovernativo per le migrazioni europee i quali
 
 I testi francese, inglese e spagnolo della presente Costituzione sono considerati come ugualmente autentici.
 
-Campo d’applicazione il 28 aprile 2021**[^t-4]**
+Campo d’applicazione il 3 aprile 2024[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Accettazione Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -358,6 +359,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Azerbaigian</td><td>7 giugno</td><td>2001</td><td>7 giugno</td><td>2001</td></tr>
 <tr><td>Bahama</td><td>30 novembre</td><td>2004</td><td>30 novembre</td><td>2004</td></tr>
 <tr><td>Bangladesh</td><td>27 novembre</td><td>1990</td><td>27 novembre</td><td>1990</td></tr>
+<tr><td>Barbados</td><td>29 novembre</td><td>2022</td><td>29 novembre</td><td>2022</td></tr>
 <tr><td>Belgio</td><td>27 aprile</td><td>1955</td><td>27 aprile</td><td>1955</td></tr>
 <tr><td>Belize</td><td>7 giugno</td><td>2000</td><td>7 giugno</td><td>2000</td></tr>
 <tr><td>Benin</td><td>28 novembre</td><td>2000</td><td>28 novembre</td><td>2000</td></tr>
@@ -383,7 +385,6 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Comore</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 giugno</td><td>2001</td><td>7 giugno</td><td>2001</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>7 giugno</td><td>2001</td><td>7 giugno</td><td>2001</td></tr>
-<tr><td>Cook, Isole</td><td>28 novembre</td><td>2017</td><td>28 novembre</td><td>2017</td></tr>
 <tr><td>Corea (Sud)</td><td>29 novembre</td><td>1988</td><td>29 novembre</td><td>1988</td></tr>
 <tr><td>Costa d’Avorio</td><td>7 giugno</td><td>2000</td><td>7 giugno</td><td>2000</td></tr>
 <tr><td>Costarica</td><td>29 marzo</td><td>1955</td><td>29 marzo</td><td>1955</td></tr>
@@ -413,7 +414,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Gibuti</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Giordania</td><td>30 novembre</td><td>1999</td><td>30 novembre</td><td>1999</td></tr>
 <tr><td>Grecia</td><td>8 luglio</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
-<tr><td>Grenada</td><td>28 giugno</td><td>2018</td><td>28 giugno</td><td>2018</td></tr>
+<tr><td>Grenada</td><td>29 giugno</td><td>2018</td><td>29 giugno</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>25 novembre</td><td>1986</td><td>25 novembre</td><td>1986</td></tr>
 <tr><td>Guinea</td><td>7 giugno</td><td>2000</td><td>7 giugno</td><td>2000</td></tr>
 <tr><td>Guinea-Bissau</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
@@ -462,6 +463,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Nigeria</td><td>2 dicembre</td><td>2002</td><td>2 dicembre</td><td>2002</td></tr>
 <tr><td>Norvegia</td><td>26 novembre</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Nuova Zelanda</td><td>13 giugno</td><td>2003</td><td>13 giugno</td><td>2003</td></tr>
+<tr><td>Cook, Isole</td><td>28 novembre</td><td>2017</td><td>28 novembre</td><td>2017</td></tr>
 <tr><td>Paesi Bassi</td><td>12 aprile</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Pakistan</td><td>24 novembre</td><td>1992</td><td>24 novembre</td><td>1992</td></tr>
 <tr><td>Palau</td><td>29 giugno</td><td>2018</td><td>29 giugno</td><td>2018</td></tr>
@@ -474,6 +476,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Regno Unito</td><td>7 giugno</td><td>2001</td><td>7 giugno</td><td>2001</td></tr>
 <tr><td>Romania</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
 <tr><td>Ruanda</td><td>2 dicembre</td><td>2002</td><td>2 dicembre</td><td>2002</td></tr>
+<tr><td>Russia</td><td>19 aprile</td><td>2021</td><td>19 aprile</td><td>2021</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>27 novembre</td><td>2012</td><td>27 novembre</td><td>2012</td></tr>
 <tr><td>Salomone, Isole</td><td>30 giugno</td><td>2016</td><td>30 giugno</td><td>2016</td></tr>
@@ -510,7 +513,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Uganda</td><td>27 maggio</td><td>1992</td><td>27 maggio</td><td>1992</td></tr>
 <tr><td>Ungheria</td><td>26 novembre</td><td>1991</td><td>26 novembre</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>3 maggio</td><td>1965</td><td>3 maggio</td><td>1965</td></tr>
-<tr><td>Uzbekistan</td><td>27 novembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Uzbekistan</td><td>15 dicembre</td><td>2018</td><td>15 marzo</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>4 dicembre</td><td>1973</td><td>4 dicembre</td><td>1973</td></tr>
 <tr><td>Vietnam</td><td>27 novembre</td><td>2007</td><td>27 novembre</td><td>2007</td></tr>
@@ -519,4 +522,4 @@ Campo d’applicazione il 28 aprile 2021**[^t-4]**
 <tr><td>Zimbabwe</td><td>2 dicembre</td><td>2002</td><td>2 dicembre</td><td>2002</td></tr>
 </table>
 
-[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty). I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.
+[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
