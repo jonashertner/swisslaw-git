@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2024-01-01
+version: 2024-04-03
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240403/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240403-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/fr"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2024)
+du 15 janvier 1971 (État le 3 avril 2024)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -111,7 +111,7 @@ Si une personne séjourne à l’étranger pendant la durée du délai de carenc
 
 <sup>2</sup> Les époux qui n’ont droit ni à une rente ni au versement d’une rente complémentaire de l’assurance-vieillesse et survivants ne peuvent, lors de la séparation, prétendre l’octroi de prestations complémentaires.[^3-4]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> …[^3-5]
 
 <sup>4</sup>
 
@@ -124,7 +124,7 @@ Les époux sont considérés comme vivant séparés au sens des al. 1 et 2:[^3-6
 
 [^3-1]: Anciennement art. 1.
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-3]: Nouvelle teneur selon le ch. II 3 de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^3-3]: Nouvelle teneur selon le ch. II 3 de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Erratum du 3 avr. 2024, ne concerne que le texte italien ([RO 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Nouvelle teneur selon le ch. II 3 de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
@@ -259,7 +259,7 @@ Les organes d’exécution examinent d’office s’il est prévisible qu’un b
 
 <sup>1</sup> Le revenu en nature est évalué selon les prescriptions valables pour l’assurance-vieillesse et survivants. Pour les enfants qui ne sont pas soumis à l’obligation de payer des cotisations prévue par la LAVS, la valeur de la nourriture et du logement est égale à la moitié des taux prévus à l’art. 11 RAVS[^11-1].[^11-2]
 
-<sup>2</sup> ...[^11-3]
+<sup>2</sup> …[^11-3]
 
 [^11-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
@@ -323,7 +323,7 @@ L’al. 2 n’est pas applicable si:
 [^14a-1]: Introduit par le ch. I de l’O du 7 déc. 1987, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1987 1797](https://fedlex.data.admin.ch/eli/oc/1987/1797_1797_1797)).
 [^14a-2]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^14a-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)).
-[^14a-4]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^14a-4]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^14a-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^14a-6]: [RS 831.26](https://fedlex.data.admin.ch/eli/cc/2007/802)
 [^14a-7]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
@@ -458,7 +458,7 @@ Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 j
 
 Si plusieurs personnes comprises dans le calcul commun de la prestation complémentaire annuelle en vertu de l’art. 9, al. 2, LPC vivent en communauté d’habitation avec d’autres personnes non incluses dans le calcul, les suppléments prévus pour le montant maximal reconnu au titre du loyer conformément à l’art. 10, al. 1, let. b, LPC, ne sont accordés que pour les personnes comprises dans le calcul commun. L’art. 10, al. 1<sup>bis</sup>, 1<sup>re</sup> phrase, LPC n’est pas applicable.
 
-[^16cbis-1]: Introduit par le ch. I 2 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^16cbis-1]: Introduit par le ch. I 2 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 
 #### Art. 16d
 
@@ -518,7 +518,7 @@ De la valeur d’un immeuble qui sert d’habitation au bénéficiaire de presta
 
 <sup>1</sup> La fortune prise en compte doit être évaluée selon les règles de la législation sur l’impôt cantonal direct du canton du domicile.
 
-<sup>2</sup> et <sup>3</sup>...[^17a-2]
+<sup>2</sup> et <sup>3</sup>…[^17a-2]
 
 <sup>4</sup> Lorsque des immeubles ne servent pas d’habitation au requérant ou à une personne comprise dans le calcul de la prestation complémentaire, ils seront pris en compte à la valeur vénale.
 
@@ -799,7 +799,7 @@ La nouvelle décision doit porter effet dès la date suivante:
 
 [^25a-1]: Introduit par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^25a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^25a-3]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^25a-3]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 
 #### Art. 26
 
@@ -963,7 +963,7 @@ Les services chargés de fixer et de verser les prestations complémentaires doi
 
 **Frais administratifs**
 
-<sup>1</sup> ...[^32-1]
+<sup>1</sup> …[^32-1]
 
 <sup>2</sup> Lorsqu’un canton charge sa caisse de compensation de fixer et de verser les prestations complémentaires, il doit lui rembourser les frais administratifs qui en résultent. La réglementation relative au remboursement de ces frais doit être approuvée par l’office fédéral.[^32-2]
 
@@ -1344,7 +1344,7 @@ Rapports et comptes annuels doivent être présentés à l’office fédéral. C
 
 <sup>1</sup> Les cantons prendront des mesures pour éviter le versement, par l’un ou plusieurs d’entre eux, de prestations complémentaires annuelles à double. La subvention fédérale n’est accordée que pour une seule prestation complémentaire durant la même période. L’office fédéral peut en outre exiger des cantons qu’ils prennent des mesures pour déceler et éviter des versements à double.[^52-1]
 
-<sup>2</sup> ...[^52-2]
+<sup>2</sup> …[^52-2]
 
 [^52-1]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^52-2]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -1353,7 +1353,7 @@ Rapports et comptes annuels doivent être présentés à l’office fédéral. C
 
 **Entre les services des cantons et les institutions d’utilité publique**
 
-<sup>1</sup> et <sup>2</sup> ...[^53-1]
+<sup>1</sup> et <sup>2</sup> …[^53-1]
 
 <sup>3</sup> Les cantons peuvent passer des accords avec les institutions d’utilité publique en vue de coordonner l’activité de ces dernières à celle de leurs propres services chargés de l’octroi des prestations complémentaires.
 
@@ -1363,7 +1363,7 @@ Rapports et comptes annuels doivent être présentés à l’office fédéral. C
 
 **Entre les caisses de compensation et les autres organes**
 
-<sup>1</sup> ...[^54-1]
+<sup>1</sup> …[^54-1]
 
 <sup>2</sup> L’office fédéral peut exiger que les caisses de compensation annoncent aux organes d’exécution, au fur et à mesure, les modifications du droit à la rente de personnes qu’elles savent bénéficiaires de prestations complémentaires.
 
@@ -1375,7 +1375,7 @@ Rapports et comptes annuels doivent être présentés à l’office fédéral. C
 
 <sup>1</sup> Les cantons ne peuvent pas reporter au décompte relatif aux prestations complémentaires les montants annuels pour l’assurance obligatoire des soins visés à l’art. 10, al. 3, let. d, LPC.[^54a-2]
 
-<sup>2</sup> *...*[^54a-3]
+<sup>2</sup> *…*[^54a-3]
 
 <sup>3</sup> Le département fixe les montants forfaitaires annuels pour l’assurance obligatoire des soins, visés à l’art. 10, al. 3, let. d, LPC, au plus tard fin octobre pour l’année suivante.[^54a-4]
 
@@ -1464,9 +1464,9 @@ a. Mise en œuvre du nouvel art. 17a (Dessaisissement de fortune)
 
 <sup>1</sup> Si la renonciation à des parts de fortune est antérieure à l’entrée en vigueur de l’art. 17*a*, les parts de fortune seront soumises à la réduction annuelle dès le 1<sup>er</sup> janvier 1990 au plus tôt.
 
-<sup>2</sup> ...[^u1-2]
+<sup>2</sup> …[^u1-2]
 
-b. ...[^u1-3]
+b. …[^u1-3]
 
 [^u1-2]: Abrogé par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u1-3]: Abrogée par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
@@ -1493,7 +1493,7 @@ a. Modification de l’art. 1a OPC
 
 <sup>2</sup> Pour les couples au sens de l’al. 1, la limitation prévue par l’art. 3*a*, al. 3, LPC, n’est pas applicable au conjoint. En lieu et place, la prestation complémentaire annuelle dudit conjoint est soumise aux limites prévues par l’art. 3*a*, al. 2, LPC.
 
-*b*. ...[^u3-2]
+*b*. …[^u3-2]
 
 [^u3-2]: Abrogée par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2024-01-01
+version: 2024-04-03
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240403/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240403-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/de"
 
 (ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 1. Januar 2024)
+vom 15. Januar 1971 (Stand am 3. April 2024)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -127,7 +127,7 @@ Als getrennt lebend gelten im Sinne der Absätze 1 und 2 Ehegatten, wenn:[^3-6]
 
 [^3-1]: Ursprünglich: Art. 1
 [^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-3]: Fassung gemäss Ziff. II 3 der V vom 28. Sept. 2007, in Kraft seit 1. Jan 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^3-3]: Fassung gemäss Ziff. II 3 der V vom 28. Sept. 2007, in Kraft seit 1. Jan 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Die Berichtigung vom 3. April 2024 betrifft nur den italienischen Text ([AS 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Fassung gemäss Ziff. II 3 der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Fassung gemäss Ziff. I der V vom 12. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).

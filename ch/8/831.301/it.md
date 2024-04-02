@@ -4,11 +4,11 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2024-01-01
+version: 2024-04-03
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20240403/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20240403-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240403/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20240101/it"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-del 15 gennaio 1971 (Stato 1° gennaio 2024)
+del 15 gennaio 1971 (Stato 3 aprile 2024)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta il n. I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta il n. V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
@@ -111,7 +111,7 @@ Se durante il termine d’attesa una persona soggiorna all’estero per uno dei 
 
 **Coniugi separati**[^3-1]
 
-<sup>1</sup> Se una rendita dell’assicurazione per la vecchiaia e i superstiti o dell’assicurazione per l’invalidità è versata a entrambi i coniugi o se una rendita completiva dell’assicurazione per la vecchiaia e i superstiti è versata a un coniuge secondo l’articolo 22<sup>bis</sup> capoverso 2 della legge federale del 20 dicembre 1946[^3-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), ciascuno dei coniugi ha un diritto proprio a prestazioni complementari in caso di separazione legale.[^3-3]
+<sup>1</sup> Se una rendita dell’assicurazione per la vecchiaia e i superstiti o dell’assicurazione per l’invalidità è versata a entrambi i coniugi o se una rendita completiva dell’assi-curazione per la vecchiaia e i superstiti è versata a un coniuge secondo l’articolo 22<sup>bis</sup> capoverso 2 della legge federale del 20 dicembre 1946[^3-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), ciascuno dei coniugi ha un diritto proprio a prestazioni complementari se vivono separati.[^3-3]
 
 <sup>2</sup> I coniugi che non hanno diritto né a una rendita né al versamento di una rendita completiva dell’assicurazione per la vecchiaia e i superstiti, non possono esigere l’assegnazione di prestazioni complementari se vivono separati.[^3-4]
 
@@ -128,7 +128,7 @@ I coniugi sono considerati come viventi separati secondo i capoversi 1 e 2:[^3-6
 
 [^3-1]: Originario art. 1.
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-3]: Nuovo testo giusta il n. II 3 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^3-3]: Nuovo testo giusta il n. II 3 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Correzione del 3 apr. 2024 ([RU 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Nuovo testo giusta il n. II 3 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Nuovo testo giusta il n. I dell’O del 12 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
