@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accordo del 23 novembre 2017 tra la Confederazione Svizzera e l'Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: it
-version: 2023-11-15
+version: 2024-04-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20231115/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20231115-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20231115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2018** 895; FF **2019** 2299
 
 Concluso a Berna il 23 novembre 2017 Applicazione provvisoria degli articoli 11–13 dal 23 novembre 2017 Approvato dall’Assemblea federale il 22 marzo 2019[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 6 dicembre 2019 In vigore dal 1° gennaio 2020[^t-2] [^t-3]
 
-(Stato 15 novembre 2023)
+(Stato 4 aprile 2024)
 
 [^t-1]: [RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RU 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -570,7 +570,7 @@ Allegato IV[^t-7]
 
 ## Definizione dei livelli di riservatezza degli SSQE
 
-[^t-7]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2023 del comitato misto del 15 nov. 2023, in vigore dal 15 nov. 2023 ([RU 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)).
+[^t-7]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2023 del comitato misto del 15 nov. 2023, in vigore dal 15 nov. 2023 ([RU 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)). La correzione del 4 apr. 2024 concerne soltanto il testo tedesco ([RU 2024 137](https://fedlex.data.admin.ch/eli/oc/2024/137)).
 
 ### A.1Valutazione della riservatezza e dell’integrità
 

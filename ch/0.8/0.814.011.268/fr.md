@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accord du 23 novembre 2017 entre la Confédération suisse et l'Union européenne sur le couplage de leurs systèmes d'échange de quotas d'émission de gaz à effet de serre (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: fr
-version: 2023-11-15
+version: 2024-04-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20231115/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20231115-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20231115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Berne le 23 novembre 2017 Application provisoire des art. 11 à 13 dès le 23 novembre 2017 Approuvé par l’Assemblée fédérale le 22 mars 2019[^t-1] Instrument de ratification suisse déposé le 6 décembre 2019 Entré en vigueur le 1<sup>er</sup> janvier 2020[^t-2] [^t-3]
 
-(État le 15 novembre 2023)
+(État le 4 avril 2024)
 
 [^t-1]: [RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RO 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -570,7 +570,7 @@ Annexe IV[^t-7]
 
 ## Définition des niveaux de sensibilité SEQE
 
-[^t-7]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2023 du comité mixte du 15 nov. 2023, en vigueur depuis le 15 nov. 2023 ([RO 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)).
+[^t-7]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2023 du comité mixte du 15 nov. 2023, en vigueur depuis le 15 nov. 2023 ([RO 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)). Erratum du 4 avr. 2024, ne concerne que le texte allemand ([RO 2024 137](https://fedlex.data.admin.ch/eli/oc/2024/137)).
 
 ### A.1Niveau de confidentialité et d’intégrité
 

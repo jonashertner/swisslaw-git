@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: Abkommen vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: de
-version: 2023-11-15
+version: 2024-04-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20231115/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20231115-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20231115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2018** 895; BBl **2018** 411
 
 Abgeschlossen in Bern am 23. November 2017 Provisorische Anwendung der Artikel 11–13 ab 23. November 2017 Von der Bundesversammlung genehmigt am 22. März 2019[^t-1] Ratifikationsurkunde hinterlegt am 6. Dezember 2019 In Kraft getreten am 1. Januar 2020[^t-2] [^t-3]
 
-(Stand am 15. November 2023)
+(Stand am 4. April 2024)
 
 [^t-1]: [AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [AS 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -568,7 +568,7 @@ Anhang IV[^t-7]
 
 ## Festlegung der EHS-Vertraulichkeitsstufen
 
-[^t-7]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2023 des Gemeinsamen Ausschusses vom 15. Nov. 2023, in Kraft seit 15. Nov. 2023 ([AS 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)).
+[^t-7]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2023 des Gemeinsamen Ausschusses vom 15. Nov. 2023, in Kraft seit 15. Nov. 2023 ([AS 2024 72](https://fedlex.data.admin.ch/eli/oc/2024/72)). Bereinigt durch Berichtigung vom 4. April 2024 ([AS 2024 137](https://fedlex.data.admin.ch/eli/oc/2024/137)).
 
 ### A.1Vertraulichkeits- und Integritätseinstufung
 
@@ -596,7 +596,7 @@ Mit einer niedrigen Einstufung versehen werden alle Informationen in Verbindung 
 
 ### A.2.2«Mittlere Einstufung»
 
-Mit einer mittleren Einstufung versehen werden alle Informationen in Verbindung mit dem Emissionshandelssystem, deren Offenlegung gegenüber unbefugten Personen und/oder bei Integritätsverlust den Vertragsparteien oder anderen Einrichtungen mässigen Schaden zufügen würden und deren Offenlegung voraussichtlich zu Folgendem führt:
+Mit einer mittleren Einstufung versehen werden alle Informationen in Verbindung mit dem Emissionshandelssystem, deren Offenlegung gegenüber unbefugten Personen und/oder bei Integritätsverlust den Vertragsparteien oder anderen Einrichtungen Schaden zufügen würden und deren Offenlegung voraussichtlich zu Folgendem führt:
 
 - – Blossstellung im Rahmen politischer oder diplomatischer Beziehungen;
 - – Schädigung des Ansehens oder des Rufs der Vertragsparteien oder anderer Einrichtungen;
@@ -615,7 +615,7 @@ Mit einer mittleren Einstufung versehen werden alle Informationen in Verbindung 
 
 [^annexIV-lvlu1-lvlu2-lvlu3-1]: Zur Präzisierung betrifft der Wortlaut unter Abschnitt A.2.3. nur «vertrauliche Informationen» im Sinne der Artikel 8 und 9 dieses Abkommens, auch wenn er nahezu identisch mit dem Wortlaut ist, der zur Definition von Verschlusssachen im Beschluss (EU, Euratom) 2019/1962 der Kommission vom 17. Oktober 2019 über Durchführungsbestimmungen für die Behandlung von Verschlusssachen des Geheimhaltungsgrads RESTREINT UE/EU RESTRICTED (ABl. EU L 311 vom 2.12.2019, S. 21) verwendet wird.
 
-Mit einer hohen Einstufung versehen werden alle Informationen in Verbindung mit dem Emissionshandelssystem, deren Offenlegung gegenüber unbefugten Personen und/oder bei Integritätsverlust den Vertragsparteien oder anderen Einrichtungen katastrophalen und/oder nicht hinnehmbaren Schaden zufügen würden und deren Offenlegung voraussichtlich zu Folgendem führt:
+Mit einer hohen Einstufung versehen werden alle Informationen in Verbindung mit dem Emissionshandelssystem, deren Offenlegung gegenüber unbefugten Personen und/oder bei Integritätsverlust den Vertragsparteien oder anderen Einrichtungen katastrophalen und/oder inakzeptablen Schaden zufügen würden und deren Offenlegung voraussichtlich zu Folgendem führt:
 
 - – Belastung diplomatischer Beziehungen;
 - – erhebliche Unannehmlichkeiten für Einzelpersonen;
