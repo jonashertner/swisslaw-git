@@ -3,18 +3,18 @@ sr: "412.105.12"
 title: Ordonnance du SEFRI du 11 mai 2015 sur le registre des diplômes de la formation professionnelle classés dans le cadre national des certifications pour les diplômes de la formation professionnelle
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/269"
 language: fr
-version: 2024-02-01
+version: 2024-04-04
 adopted: 2015-05-11
 in_force: 2015-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/269/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-269-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/269/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/269/20240404/fr/xml/fedlex-data-admin-ch-eli-cc-2015-269-20240404-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/269/20240404/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur le registre des diplômes de la formation professionnelle classés dans le cadre national des certifications pour les diplômes de la formation professionnelle
 
-du 11 mai 2015 (État le 1<sup>er</sup> février 2024)
+du 11 mai 2015 (État le 4 avril 2024)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
@@ -50,7 +50,7 @@ Annexe[^t-1]
 
 ## Registre des diplômes de la formation professionnelle classés dans le cadre national des certifications pour les diplômes de la formation professionnelle
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 27 mai 2021 ([RO 2021 332](https://fedlex.data.admin.ch/eli/oc/2021/332)). Mise à jour par le ch. I des O du SEFRI du 7 déc. 2021 ([RO 2021 869](https://fedlex.data.admin.ch/eli/oc/2021/869)), du 25 mai 2022 ([RO 2022 330](https://fedlex.data.admin.ch/eli/oc/2022/330)), du 19 déc. 2022 ([RO 2023 8](https://fedlex.data.admin.ch/eli/oc/2023/8)), du 19 mai 2023 ([RO 2023 263](https://fedlex.data.admin.ch/eli/oc/2023/263)) et du 31 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 815](https://fedlex.data.admin.ch/eli/oc/2023/815)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 27 mai 2021 ([RO 2021 332](https://fedlex.data.admin.ch/eli/oc/2021/332)). Mise à jour par le ch. I des O du SEFRI du 7 déc. 2021 ([RO 2021 869](https://fedlex.data.admin.ch/eli/oc/2021/869)), du 25 mai 2022 ([RO 2022 330](https://fedlex.data.admin.ch/eli/oc/2022/330)), du 19 déc. 2022 ([RO 2023 8](https://fedlex.data.admin.ch/eli/oc/2023/8)), du 19 mai 2023 ([RO 2023 263](https://fedlex.data.admin.ch/eli/oc/2023/263)) et du 31 déc. 2023 ([RO 2023 815](https://fedlex.data.admin.ch/eli/oc/2023/815)), en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 815](https://fedlex.data.admin.ch/eli/oc/2023/815)) et l’erratum du 4 avr. 2024 ([RO 2024 134](https://fedlex.data.admin.ch/eli/oc/2024/134)).
 
 ### 1. Formation professionnelle initiale / Berufliche Grundbildung / Formazione professionale di base
 
@@ -486,7 +486,7 @@ Annexe[^t-1]
 <tr><td>Entraîneur de sport de performance avec brevet fédéral / Entraîneur de sport de performance avec brevet fédéral</td><td>5</td><td>Trainerin Leistungssport mit eidg. Fachausweis / Trainer Leistungssport mit eidg. Fachausweis</td><td>Allenatrice di sport di prestazione con attestato professionale federale / Allenatore di sport di prestazione con attestato professionale federale</td><td>52236</td></tr>
 <tr><td>Esthéticienne avec brevet fédéral / Esthéticien avec brevet fédéral</td><td>5</td><td>Kosmetikerin mit eidg. Fachausweis / Kosmetiker mit eidg. Fachausweis</td><td>Estetista con attestato professionale federale / Estetista con attestato professionale federale</td><td>82142/82143</td></tr>
 <tr><td>Esthéticienne en esthétique médicale avec brevet fédéral / Esthéticien en esthétique médicale avec brevet fédéral</td><td>5</td><td>Kosmetikerin Medizinische Kosmetik mit eidg. Fachausweis / Kosmetiker Medizinische Kosmetik mit eidg. Fachausweis</td><td>Estetista estetica medica con attestato professionale federale / Estetista estetica medica con attestato professionale federale</td><td>82142</td></tr>
-<tr><td>Experte de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral / Expert de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral</td><td>5</td><td>Expertin für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom / Experte für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom</td><td>Esperta della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale / Esperto della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale</td><td>65483</td></tr>
+<tr><td>Experte de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral / Expert de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral</td><td>6</td><td>Expertin für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom / Experte für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom</td><td>Esperta della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale / Esperto della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale</td><td>65483</td></tr>
 <tr><td>Experte diplômée en assurances sociales / Expert diplômé en assurances sociales</td><td>6</td><td>Dipl. Sozialversicherungsexpertin / Dipl. Sozialversicherungsexperte</td><td>Esperta diplomata in materia di assicurazione sociale / Esperto diplomato in materia di assicurazione sociale</td><td>72632</td></tr>
 <tr><td>Experte diplômée en conduite organisationelle / Expert diplômé en conduite organisationelle</td><td>7</td><td>Dipl. Führungsexpertin / Dipl. Führungsexperte</td><td>Esperta diplomata nella conduzione organizzativa / Esperto diplomato nella conduzione organizzativa</td><td>68131</td></tr>
 <tr><td>Experte diplômée en finance et en controlling / Expert diplômé en finance et en controlling</td><td>8</td><td>Dipl. Expertin in Rechnungslegung und Controlling / Dipl. Experte in Rechnungslegung und Controlling</td><td>Esperta diplomata in finanza e controlling / Esperto diplomato in finanza e controlling</td><td>68332</td></tr>

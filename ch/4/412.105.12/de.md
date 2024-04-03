@@ -3,18 +3,18 @@ sr: "412.105.12"
 title: Verordnung des SBFI vom 11. Mai 2015 über das Verzeichnis der gemäss dem nationalen Qualifikationsrahmen für Abschlüsse der Berufsbildung eingestuften Berufsbildungsabschlüsse
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/269"
 language: de
-version: 2024-02-01
+version: 2024-04-04
 adopted: 2015-05-11
 in_force: 2015-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/269/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2015-269-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/269/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/269/20240404/de/xml/fedlex-data-admin-ch-eli-cc-2015-269-20240404-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/269/20240404/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über das Verzeichnis der gemäss dem nationalen Qualifikationsrahmen für Abschlüsse der Berufsbildung eingestuften Berufsbildungsabschlüsse
 
-vom 11. Mai 2015 (Stand am 1. Februar 2024)
+vom 11. Mai 2015 (Stand am 4. April 2024)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
@@ -50,7 +50,7 @@ Anhang[^t-1]
 
 ## Verzeichnis der eingestuften Berufsbildungsabschlüsse
 
-[^t-1]: Fassung gemäss Ziff. I der V des SBFI vom 27. Mai 2021 ([AS 2021 332](https://fedlex.data.admin.ch/eli/oc/2021/332)). Bereinigt gemäss Ziff. I der V des SBFI vom 7. Dez. 2021 ([AS 2021 869](https://fedlex.data.admin.ch/eli/oc/2021/869)), vom 25. Mai 2022 ([AS 2022 330](https://fedlex.data.admin.ch/eli/oc/2022/330)), vom 19. Dez. 2022 ([AS 2023 8](https://fedlex.data.admin.ch/eli/oc/2023/8)), vom 19. Mai 2023 ([AS 2023 263](https://fedlex.data.admin.ch/eli/oc/2023/263)) und vom 31. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 815](https://fedlex.data.admin.ch/eli/oc/2023/815)).
+[^t-1]: Fassung gemäss Ziff. I der V des SBFI vom 27. Mai 2021 ([AS 2021 332](https://fedlex.data.admin.ch/eli/oc/2021/332)). Bereinigt gemäss Ziff. I der V des SBFI vom 7. Dez. 2021 ([AS 2021 869](https://fedlex.data.admin.ch/eli/oc/2021/869)), vom 25. Mai 2022 ([AS 2022 330](https://fedlex.data.admin.ch/eli/oc/2022/330)), vom 19. Dez. 2022 ([AS 2023 8](https://fedlex.data.admin.ch/eli/oc/2023/8)), vom 19. Mai 2023 ([AS 2023 263](https://fedlex.data.admin.ch/eli/oc/2023/263)) vom 31. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 815](https://fedlex.data.admin.ch/eli/oc/2023/815)) und Berichtigung vom 4. April 2024 ([AS 2024 134](https://fedlex.data.admin.ch/eli/oc/2024/134)).
 
 ### 1. Berufliche Grundbildung / Formation professionnelle initiale / Formazione professionale di base
 
@@ -454,7 +454,7 @@ Anhang[^t-1]
 <tr><td>dipl. Energie- und Umwelttechnikerin HF / dipl. Energie- und Umwelttechniker HF</td><td>6</td><td>Technicienne diplômée ES en énergie et environnement / Technicien diplômé ES en énergie et environnement</td><td>Tecnica dipl. SSS in energia e ambiente / Tecnico dipl. SSS in energia e ambiente</td><td></td></tr>
 <tr><td>Expertin Bewegungs- und Gesundheitsförderung mit eidg. Diplom / Experte Bewegungs- und Gesundheitsförderung mit eidg. Diplom</td><td>6</td><td>Experte en promotion de l’activité physique et de la santé avec diplôme fédéral / Expert en promotion de l’activité physique et de la santé avec diplôme fédéral</td><td>Esperta per la promozione dell’attività fisica e della salute con diploma federale / Esperto per la promozione delI’attività fisica e della salute con diploma federale</td><td>85045/85046</td></tr>
 <tr><td>Expertin der Pferdebranche mit eidg. Diplom / Experte der Pferdebranche mit eidg. Diplom</td><td>7</td><td>Experte du domaine équin avec diplôme fédéral / Expert du domaine équin avec diplôme fédéral</td><td>Esperta del settore cavallo con diploma federale / Esperto del settore cavallo con diploma federale</td><td>18030</td></tr>
-<tr><td>Expertin für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom / Experte für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom</td><td>5</td><td>Experte de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral / Expert de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral</td><td>Esperta della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale / Esperto della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale</td><td>65483</td></tr>
+<tr><td>Expertin für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom / Experte für Arbeitssicherheit und Gesundheitsschutz (ASGS) mit eidg. Diplom</td><td>6</td><td>Experte de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral / Expert de la sécurité au travail et de la protection de la santé (STPS) avec diplôme fédéral</td><td>Esperta della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale / Esperto della sicurezza sul lavoro e della protezione della salute (SLPS) con diploma federale</td><td>65483</td></tr>
 <tr><td>Expertin für gesundes und nachhaltiges Bauen mit eidg. Diplom / Experte für gesundes und nachhaltiges Bauen mit eidg. Diplom</td><td>6</td><td>Experte en construction saine et durable avec diplôme fédéral / Expert en construction saine et durable avec diplôme fédéral</td><td>Esperta nella costruzione sana e sostenibile con diploma federale / Esperto nella costruzione sana e sostenibile con diploma federale</td><td>66536</td></tr>
 <tr><td>Expertin in biomedizinischer Analytik und Labormanagement mit eidg. Diplom / Experte in biomedizinischer Analytik und Labormanagement mit eidg. Diplom</td><td>7</td><td>Experte en analyses biomédicales et gestion de laboratoire avec diplôme fédéral / Expert en analyses biomédicales et gestion de laboratoire avec diplôme fédéral</td><td>Esperta in analisi biomediche e gestione di laboratorio con diploma federale / Esperto in analisi biomediche e gestione di laboratorio con diploma federale</td><td>86730</td></tr>
 <tr><td>Expertin in Gesundheitsinstitutionen mit eidg Diplom / Experte in Gesundheitsinstitutionen mit eidg. Diplom</td><td>6</td><td>Experte en gestion d’institutions de santé avec diplôme fédéral / Expert en gestion d’institutions de santé avec diplôme fédéral</td><td>Esperta in gestione di istituzioni sanitarie con diploma federale / Esperto in gestione di istituzioni sanitarie con diploma federale</td><td>67987</td></tr>
