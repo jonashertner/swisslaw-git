@@ -3,11 +3,11 @@ sr: "0.741.611.2"
 title: Protocole additionnel du 20 février 2008 à la Convention relative au contrat de transport international de marchandises par route (CMR) concernant la lettre de voiture électronique
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/280"
 language: fr
-version: 2021-02-09
+version: 2024-04-05
 adopted: 2008-02-20
 in_force: 2011-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20210209/fr/xml/fedlex-data-admin-ch-eli-cc-2011-280-20210209-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20210209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20240405/fr/xml/fedlex-data-admin-ch-eli-cc-2011-280-20240405-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20240405/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **2011** 1925
 
 Texte original
 
-Conclu à Genève le 20 février 2008
+Conclu à Genève le 20 février 2008 Instrument d’adhésion déposé par la Suisse le 26 janvier 2009 Entré en vigueur pour la Suisse le 5 juin 2011
 
-Instrument d’adhésion déposé par la Suisse le 26 janvier 2009
-
-Entré en vigueur pour la Suisse le 5 juin 2011
-
-(Etat le 9 février 2021)
+(État le 5 avril 2024)
 
 Les Parties au présent Protocole,
 
@@ -224,10 +220,12 @@ Fait à Genève, le vingt février deux mille huit, en un seul exemplaire, en la
 
 (Suivent les signatures)
 
-Champ d’application le 9 février 2021**[^t-1]**
+Champ d’application le 5 avril 2024[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>5 janvier</td><td>2022 A</td><td>5 avril</td><td>2022</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>27 décembre</td><td>2022 A</td><td>27 mars</td><td>2023</td></tr>
 <tr><td>Bélarus</td><td>7 février</td><td>2019 A</td><td>8 mai</td><td>2019</td></tr>
 <tr><td>Bulgarie</td><td>15 septembre</td><td>2010 A</td><td>5 juin</td><td>2011</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>28 juin</td><td>2013 A</td><td>26 septembre</td><td>2013</td></tr>
@@ -235,13 +233,15 @@ Champ d’application le 9 février 2021**[^t-1]**
 <tr><td>Estonie</td><td>2 novembre</td><td>2016 A</td><td>31 janvier</td><td>2017</td></tr>
 <tr><td>Finlande</td><td>11 janvier</td><td>2019</td><td>11 avril</td><td>2019</td></tr>
 <tr><td>France</td><td>5 octobre</td><td>2016 A</td><td>3 janvier</td><td>2017</td></tr>
-<tr><td>Iran<sup>\*</sup></td><td>8 novembre</td><td>2017 A</td><td>6 février</td><td>2018</td></tr>
+<tr><td>Grèce</td><td>23 octobre</td><td>2023 A</td><td>21 janvier</td><td>2024</td></tr>
+<tr><td>Iran\*</td><td>8 novembre</td><td>2017 A</td><td>6 février</td><td>2018</td></tr>
+<tr><td>Kirghizistan</td><td>26 août</td><td>2022 A</td><td>24 novembre</td><td>2022</td></tr>
 <tr><td>Lettonie</td><td>3 février</td><td>2010</td><td>5 juin</td><td>2011</td></tr>
 <tr><td>Lituanie</td><td>7 mars</td><td>2011</td><td>5 juin</td><td>2011</td></tr>
 <tr><td>Luxembourg</td><td>26 décembre</td><td>2017 A</td><td>26 mars</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>14 mars</td><td>2018 A</td><td>12 juin</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>11 juin</td><td>2020</td><td>9 septembre</td><td>2020</td></tr>
-<tr><td>Oman<sup>\*</sup></td><td>23 septembre</td><td>2020 A</td><td>22 décembre</td><td>2020</td></tr>
+<tr><td>Oman\*</td><td>23 septembre</td><td>2020 A</td><td>22 décembre</td><td>2020</td></tr>
 <tr><td>Ouzbékistan</td><td>16 octobre</td><td>2020 A</td><td>14 janvier</td><td>2021</td></tr>
 <tr><td>Pays-Bas <sup>b</sup></td><td>7 janvier</td><td>2009</td><td>5 juin</td><td>2011</td></tr>
 <tr><td>Pologne</td><td>13 juin</td><td>2019 A</td><td>11 septembre</td><td>2019</td></tr>
@@ -255,9 +255,10 @@ Champ d’application le 9 février 2021**[^t-1]**
 <tr><td>Suède</td><td>9 mars</td><td>2020</td><td>7 juin</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>26 janvier</td><td>2009</td><td>5 juin</td><td>2011</td></tr>
 <tr><td>Tadjikistan</td><td>9 juillet</td><td>2019 A</td><td>7 octobre</td><td>2019</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>31 janvier</td><td>2018 A</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>10 juillet</td><td>2020 A</td><td>8 octobre</td><td>2020</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td>Turkménistan</td><td>21 décembre</td><td>2022 A</td><td>21 mars</td><td>2023</td></tr>
+<tr><td>Turquie\*</td><td>31 janvier</td><td>2018 A</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
+<tr><td>Ukraine\*</td><td>10 juillet</td><td>2020 A</td><td>8 octobre</td><td>2020</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-1]: [RO 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82); [2024 145](https://fedlex.data.admin.ch/eli/oc/2024/145). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
