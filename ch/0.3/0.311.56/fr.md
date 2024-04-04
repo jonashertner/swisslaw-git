@@ -3,11 +3,11 @@ sr: "0.311.56"
 title: Convention des Nations Unies du 31 octobre 2003 contre la corruption
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/666"
 language: fr
-version: 2021-09-13
+version: 2024-04-05
 adopted: 2003-10-31
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20210913/fr/xml/fedlex-data-admin-ch-eli-cc-2009-666-20210913-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20210913/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20240405/fr/xml/fedlex-data-admin-ch-eli-cc-2009-666-20240405-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20240405/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 24 septembre 2009
 
 Entrée en vigueur pour la Suisse le 24 octobre 2009
 
-(Etat le 13 septembre 2021)
+(État le 5 avril 2024)
 
 [^t-1]: [RO 2009 5465](https://fedlex.data.admin.ch/eli/oc/2009/665)
 
@@ -1152,7 +1152,7 @@ Le secrétariat:
 
 *En foi de quoi,* les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 13 septembre 2021**[^t-2]**
+Champ d’application le 5 avril 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1172,11 +1172,11 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Bahamas<sup>\*</sup></td><td>10 janvier</td><td>2008 A</td><td>9 février</td><td>2008</td></tr>
 <tr><td>Bahreïn\*</td><td>5 octobre</td><td>2010</td><td>4 novembre</td><td>2010</td></tr>
 <tr><td>Bangladesh<sup>\*</sup></td><td>27 février</td><td>2007 A</td><td>29 mars</td><td>2007</td></tr>
+<tr><td>Barbade</td><td>10 octobre</td><td>2023</td><td>9 novembre</td><td>2023</td></tr>
 <tr><td>Bélarus</td><td>17 février</td><td>2005</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Belgique<sup>\*</sup></td><td>25 septembre</td><td>2008</td><td>25 octobre</td><td>2008</td></tr>
 <tr><td>Belize\*</td><td>12 décembre</td><td>2016 A</td><td>11 janvier</td><td>2017</td></tr>
 <tr><td>Bénin</td><td>14 octobre</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
-<tr><td>Bhoutan</td><td>21 septembre</td><td>2016</td><td>21 octobre</td><td>2016</td></tr>
 <tr><td>Bolivie</td><td>5 décembre</td><td>2005</td><td>4 janvier</td><td>2006</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>26 octobre</td><td>2006</td><td>25 novembre</td><td>2006</td></tr>
 <tr><td>Botswana</td><td>27 juin</td><td>2011 A</td><td>27 juillet</td><td>2011</td></tr>
@@ -1226,14 +1226,14 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Grenade\*</td><td>1<sup>er</sup> avril</td><td>2015 A</td><td>1<sup>er</sup> mai</td><td>2015</td></tr>
 <tr><td>Guatemala</td><td>3 novembre</td><td>2006</td><td>3 décembre</td><td>2006</td></tr>
 <tr><td>Guinée</td><td>29 mai</td><td>2013</td><td>28 juin</td><td>2013</td></tr>
-<tr><td>Guinée-Bissau</td><td>10 septembre</td><td>2007 A</td><td>10 octobre</td><td>2007</td></tr>
 <tr><td>Guinée équatoriale</td><td>30 mai</td><td>2018 A</td><td>29 juin</td><td>2018</td></tr>
+<tr><td>Guinée-Bissau</td><td>10 septembre</td><td>2007 A</td><td>10 octobre</td><td>2007</td></tr>
 <tr><td>Guyana</td><td>16 avril</td><td>2008 A</td><td>16 mai</td><td>2008</td></tr>
 <tr><td>Haïti</td><td>14 septembre</td><td>2009</td><td>14 octobre</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>23 mai</td><td>2005</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Hongrie</td><td>19 avril</td><td>2005</td><td>14 décembre</td><td>2005</td></tr>
-<tr><td>Îles Cook</td><td>17 octobre</td><td>2011</td><td>16 novembre</td><td>2011</td></tr>
 <tr><td>Îles Marshall</td><td>17 novembre</td><td>2011 A</td><td>17 décembre</td><td>2011</td></tr>
+<tr><td>Îles Salomon</td><td>6 janvier</td><td>2012 A</td><td>5 février</td><td>2012</td></tr>
 <tr><td>Inde\*</td><td>9 mai</td><td>2011</td><td>8 juin</td><td>2011</td></tr>
 <tr><td>Indonésie<sup>\*</sup></td><td>19 septembre</td><td>2006</td><td>19 octobre</td><td>2006</td></tr>
 <tr><td>Iran\*</td><td>20 avril</td><td>2009</td><td>20 mai</td><td>2009</td></tr>
@@ -1282,9 +1282,10 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Nicaragua</td><td>15 février</td><td>2006</td><td>17 mars</td><td>2006</td></tr>
 <tr><td>Niger</td><td>11 août</td><td>2008 A</td><td>10 septembre</td><td>2008</td></tr>
 <tr><td>Nigéria</td><td>14 décembre</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
-<tr><td>Nioué</td><td>3 octobre</td><td>2017 A</td><td>2 novembre</td><td>2017</td></tr>
 <tr><td>Norvège</td><td>29 juin</td><td>2006</td><td>29 juillet</td><td>2006</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>2015</td><td>31 décembre</td><td>2015</td></tr>
+<tr><td>Îles Cook</td><td>17 octobre</td><td>2011</td><td>16 novembre</td><td>2011</td></tr>
+<tr><td>Nioué</td><td>3 octobre</td><td>2017 A</td><td>2 novembre</td><td>2017</td></tr>
 <tr><td>Oman</td><td>9 janvier</td><td>2014 A</td><td>8 février</td><td>2014</td></tr>
 <tr><td>Ouganda</td><td>9 septembre</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Ouzbékistan<sup>\*</sup></td><td>29 juillet</td><td>2008 A</td><td>28 août</td><td>2008</td></tr>
@@ -1307,22 +1308,23 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Roumanie</td><td>2 novembre</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Royaume-Uni\*\*</td><td>9 février</td><td>2006</td><td>11 mars</td><td>2006</td></tr>
 <tr><td>Bermudes</td><td>4 juin</td><td>2018</td><td>4 juin</td><td>2018</td></tr>
+<tr><td>Gibraltar</td><td>20 octobre</td><td>2023</td><td>20 octobre</td><td>2023</td></tr>
 <tr><td>[tab] Guernesey</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
 <tr><td>[tab] Île de Man</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
+<tr><td>Îles Cayman</td><td>14 décembre</td><td>2020</td><td>14 décembre</td><td>2020</td></tr>
 <tr><td>[tab] Îles Vierges britanniques</td><td>12 octobre</td><td>2006</td><td>12 octobre</td><td>2006</td></tr>
 <tr><td>[tab] Jersey</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
 <tr><td>Russie<sup>\*</sup></td><td>9 mai</td><td>2006</td><td>8 juin</td><td>2006</td></tr>
 <tr><td>Rwanda</td><td>4 octobre</td><td>2006</td><td>3 novembre</td><td>2006</td></tr>
 <tr><td>Saint-Siège\*</td><td>19 septembre</td><td>2016 A</td><td>19 octobre</td><td>2016</td></tr>
 <tr><td>Sainte-Lucie</td><td>18 novembre</td><td>2011 A</td><td>18 décembre</td><td>2011</td></tr>
-<tr><td>Salomon, Îles</td><td>6 janvier</td><td>2012 A</td><td>5 février</td><td>2012</td></tr>
 <tr><td>Samoa</td><td>16 avril</td><td>2018 A</td><td>16 mai</td><td>2018</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>12 avril</td><td>2006</td><td>12 mai</td><td>2006</td></tr>
 <tr><td>Sénégal</td><td>16 novembre</td><td>2005</td><td>16 décembre</td><td>2005</td></tr>
 <tr><td>Serbie</td><td>20 décembre</td><td>2005</td><td>19 janvier</td><td>2006</td></tr>
 <tr><td>Seychelles</td><td>16 mars</td><td>2006</td><td>15 avril</td><td>2006</td></tr>
-<tr><td>Singapour\*</td><td>6 novembre</td><td>2009</td><td>6 décembre</td><td>2009</td></tr>
 <tr><td>Sierra Leone</td><td>30 septembre</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
+<tr><td>Singapour\*</td><td>6 novembre</td><td>2009</td><td>6 décembre</td><td>2009</td></tr>
 <tr><td>Slovaquie</td><td>1<sup>er</sup> juin</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Slovénie</td><td>1<sup>er</sup> avril</td><td>2008 A</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Somalie</td><td>11 août</td><td>2021 A</td><td>10 septembre</td><td>2021</td></tr>
@@ -1331,6 +1333,7 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Sri Lanka</td><td>31 mars</td><td>2004</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Suède</td><td>25 septembre</td><td>2007</td><td>25 octobre</td><td>2007</td></tr>
 <tr><td>Suisse</td><td>24 septembre</td><td>2009</td><td>24 octobre</td><td>2009</td></tr>
+<tr><td>Suriname</td><td>18 novembre</td><td>2021 A</td><td>18 décembre</td><td>2021</td></tr>
 <tr><td>Tadjikistan</td><td>25 septembre</td><td>2006 A</td><td>25 octobre</td><td>2006</td></tr>
 <tr><td>Tanzanie</td><td>25 mai</td><td>2005</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Tchad</td><td>26 juin</td><td>2018 A</td><td>26 juillet</td><td>2018</td></tr>
@@ -1344,7 +1347,7 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Turquie</td><td>9 novembre</td><td>2006</td><td>9 décembre</td><td>2006</td></tr>
 <tr><td>Tuvalu</td><td>4 septembre</td><td>2015 A</td><td>4 octobre</td><td>2015</td></tr>
 <tr><td>Ukraine\*</td><td>2 décembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td>Union européenne<sup>\*</sup></td><td>12 novembre</td><td>2008</td><td>12 décembre</td><td>2008</td></tr>
+<tr><td>Union européenne (UE)<sup>\*</sup></td><td>12 novembre</td><td>2008</td><td>12 décembre</td><td>2008</td></tr>
 <tr><td>Uruguay</td><td>10 janvier</td><td>2007</td><td>9 février</td><td>2007</td></tr>
 <tr><td>Vanuatu</td><td>12 juillet</td><td>2011 A</td><td>11 août</td><td>2011</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>2 février</td><td>2009</td><td>4 mars</td><td>2009</td></tr>
@@ -1352,15 +1355,12 @@ Champ d’application le 13 septembre 2021**[^t-2]**
 <tr><td>Yémen<sup>\*</sup></td><td>7 novembre</td><td>2005</td><td>14 décembre</td><td>2005</td></tr>
 <tr><td>Zambie</td><td>7 décembre</td><td>2007</td><td>6 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>8 mars</td><td>2007</td><td>7 avril</td><td>2007</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections (les \* du champ d’application ci-dessus ne comprennent pas les déclarations des États parties concernant l’art. 6, par. 3, l’art. 44, par. 6, al. a) et l’art. 46, par. 13 et 14). Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas aux îles Féorés et au Groenland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations \*\* Objections (les \* du champ d’application ci-dessus ne comprennent pas les déclarations des États parties concernant l’art. 6, par. 3, l’art. 44, par. 6, al. a) et l’art. 46, par. 13 et 14). Les réserves, déclarations et objections, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féorés et au Groenland. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-## Déclarations de la Suisse
+[^t-2]: [RO 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556); [2024 160](https://fedlex.data.admin.ch/eli/oc/2024/160). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
-[^t-2]: [RO 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+Déclarations de la Suisse
 
 L’autorité centrale désignée par la Suisse pour recevoir les demandes d’entraide judiciaire, en application de l’art. 46, par. 13, de cette convention est: Office fédéral de la justice, CH-3003 Berne.
 

@@ -3,11 +3,11 @@ sr: "0.311.56"
 title: Übereinkommen vom 31. Oktober 2003 der Vereinten Nationen gegen Korruption
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/666"
 language: de
-version: 2021-09-13
+version: 2024-04-05
 adopted: 2003-10-31
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2009-666-20210913-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20210913/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20240405/de/xml/fedlex-data-admin-ch-eli-cc-2009-666-20240405-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20240405/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 5467; BBl **2007** 7349
 
 Abgeschlossen in New York am 31. Oktober 2003 Von der Bundesversammlung genehmigt am 20. März 2009[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 2009 In Kraft getreten für die Schweiz am 24. Oktober 2009
 
-(Stand am 13. September 2021)
+(Stand am 5. April 2024)
 
 [^t-1]: [AS 2009 5465](https://fedlex.data.admin.ch/eli/oc/2009/665)
 
@@ -752,7 +752,7 @@ Für die Zwecke des Absatzes 10 gilt Folgendes:
 
 <sup>12.</sup> Ausser mit Zustimmung des Vertragsstaats, von dem eine Person nach den Absätzen 10 und 11 überstellt werden soll, darf diese Person, gleichviel, welche Staatsangehörigkeit sie hat, im Hoheitsgebiet des Staates, dem sie überstellt wird, nicht wegen Handlungen, Unterlassungen oder Verurteilungen aus der Zeit vor ihrer Abreise aus dem Hoheitsgebiet des Staates, von dem sie überstellt wurde, verfolgt, in Haft gehalten, bestraft oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden.
 
-<sup>13.</sup> Jeder Vertragsstaat bestimmt eine zentrale Behörde, die verantwortlich und befugt ist, Rechtshilfeersuchen entgegenzunehmen und sie entweder zu erledigen oder den zuständigen Behörden zur Erledigung zu übermitteln. Hat ein Vertragsstaat eine besondere Region oder ein besonderes Hoheitsgebiet mit einem unterschiedlichen Rechtshilfesystem, so kann er eine gesonderte zentrale Behörde bestimmen, welche dieselbe Aufgabe für die Region oder das Hoheitsgebiet wahrnimmt. Die zentralen Behörden stellen die rasche und ordnungsgemässe Erledigung oder Übermittlung der eingegangenen Ersuchen sicher. Wenn die zentrale Behörde das Ersuchen einer zuständigen Behörde zur Erledigung übermittelt, fordert sie diese zur raschen und ordnungsgemässen Erledigung des Ersuchens auf. Die für diesen Zweck bestimmte zentrale Behörde wird von jedem Vertragsstaat bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu diesem Übereinkommen dem Generalsekretär der Vereinten Nationen notifiziert. Die Rechtshilfeersuchen und alle damit zusammenhängenden Mitteilungen werden den von den Vertragsstaaten bestimmten zentralen Behörden übermittelt. Diese Vorschrift lässt das Recht eines Vertragsstaats unberührt, zu verlangen, dass solche Ersuchen und Mitteilungen auf diplomatischem Weg und in dringenden Fällen, wenn die Vertragsstaaten dies vereinbaren, soweit es möglich ist, über die Internationale Kriminalpolizeiliche Organisation an ihn gerichtet werden.
+<sup>13.</sup> Jeder Vertragsstaat bestimmt eine zentrale Behörde, die verantwortlich und befugt ist, Rechtshilfeersuchen entgegenzunehmen und sie entweder zu erledigen oder den zuständigen Behörden zur Erledigung zu übermitteln. Hat ein Vertragsstaat eine besondere Region oder ein besonderes Hoheitsgebiet mit einem unterschiedlichen Rechtshilfesystem, so kann er eine gesonderte zentrale Behörde bestimmen, welche dieselbe Aufgabe für die Region oder das Hoheitsgebiet wahrnimmt. Die zentralen Behörden stellen die rasche und ordnungsgemässe Erledigung oder Übermittlung der eingegangenen Ersuchen sicher. Wenn die zentrale Behörde das Ersuchen einer zuständigen Behörde zur Erledigung übermittelt, fordert sie diese zur raschen und ordnungsgemässen Erledigung des Ersuchens auf. Die für diesen Zweck bestimmte zentrale Behörde wird von jedem Vertragsstaat bei der Hinterlegung seiner Ratifikations‑, Annahme-, Genehmigungs- oder Beitrittsurkunde zu diesem Übereinkommen dem Generalsekretär der Vereinten Nationen notifiziert. Die Rechtshilfeersuchen und alle damit zusammenhängenden Mitteilungen werden den von den Vertragsstaaten bestimmten zentralen Behörden übermittelt. Diese Vorschrift lässt das Recht eines Vertragsstaats unberührt, zu verlangen, dass solche Ersuchen und Mitteilungen auf diplomatischem Weg und in dringenden Fällen, wenn die Vertragsstaaten dies vereinbaren, soweit es möglich ist, über die Internationale Kriminalpolizeiliche Organisation an ihn gerichtet werden.
 
 <sup>14.</sup> Ersuchen werden schriftlich oder, soweit möglich, mit jedem Mittel, mit dem ein Schriftstück erzeugt werden kann, in einer für den ersuchten Vertragsstaat annehmbaren Sprache und in einer Weise gestellt, die diesem Vertragsstaat die Feststellung der Echtheit erlaubt. Die für jeden Vertragsstaat annehmbare Sprache oder annehmbaren Sprachen werden von jedem Vertragsstaat bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu diesem Übereinkommen dem Generalsekretär der Vereinten Nationen notifiziert. In dringenden Fällen und wenn die Vertragsstaaten dies vereinbaren, können Ersuchen mündlich gestellt werden; sie müssen jedoch umgehend schriftlich bestätigt werden.
 
@@ -1184,7 +1184,7 @@ Das Sekretariat:
 
 *Z**u* *U**rkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. September 2021**[^t-2]**
+Geltungsbereich am 5. April 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1203,11 +1203,11 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>Bahamas\*</td><td>10. Januar</td><td>2008 B</td><td>9. Februar</td><td>2008</td></tr>
 <tr><td>Bahrain\*</td><td>5. Oktober</td><td>2010</td><td>4. November</td><td>2010</td></tr>
 <tr><td>Bangladesch\*</td><td>27. Februar</td><td>2007 B</td><td>29. März</td><td>2007</td></tr>
+<tr><td>Barbados</td><td>10. Oktober</td><td>2023</td><td>9. November</td><td>2023</td></tr>
 <tr><td>Belarus</td><td>17. Februar</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Belgien\*</td><td>25. September</td><td>2008</td><td>25. Oktober</td><td>2008</td></tr>
 <tr><td>Belize\*</td><td>12. Dezember</td><td>2016 B</td><td>11. Januar</td><td>2017</td></tr>
 <tr><td>Benin</td><td>14. Oktober</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
-<tr><td>Bhutan</td><td>21. September</td><td>2016</td><td>21. Oktober</td><td>2016</td></tr>
 <tr><td>Bolivien</td><td>5. Dezember</td><td>2005</td><td>4. Januar</td><td>2006</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>26. Oktober</td><td>2006</td><td>25. November</td><td>2006</td></tr>
 <tr><td>Botsuana</td><td>27. Juni</td><td>2011 B</td><td>27. Juli</td><td>2011</td></tr>
@@ -1220,7 +1220,6 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>China\*</td><td>13. Januar</td><td>2006</td><td>12. Februar</td><td>2006</td></tr>
 <tr><td>Hongkong</td><td>13. Januar</td><td>2006</td><td>12. Februar</td><td>2006</td></tr>
 <tr><td>Macau</td><td>13. Januar</td><td>2006</td><td>12. Februar</td><td>2006</td></tr>
-<tr><td>Cook-Inseln</td><td>17. Oktober</td><td>2011</td><td>16. November</td><td>2011</td></tr>
 <tr><td>Costa Rica</td><td>21. März</td><td>2007</td><td>20. April</td><td>2007</td></tr>
 <tr><td>Côte d’Ivoire</td><td>25. Oktober</td><td>2012</td><td>24. November</td><td>2012</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>26. Dezember</td><td>2006</td><td>25. Januar</td><td>2007</td></tr>
@@ -1232,7 +1231,7 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>El Salvador\*</td><td>1. Juli</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Estland</td><td>12. April</td><td>2010 B</td><td>12. Mai</td><td>2010</td></tr>
 <tr><td>Eswatini</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
-<tr><td>Europäische Union\*</td><td>12. November</td><td>2008</td><td>12. Dezember</td><td>2008</td></tr>
+<tr><td>Europäische Union (EU)\*</td><td>12. November</td><td>2008</td><td>12. Dezember</td><td>2008</td></tr>
 <tr><td>Fidschi</td><td>14. Mai</td><td>2008 B</td><td>13. Juni</td><td>2008</td></tr>
 <tr><td>Finnland</td><td>20. Juni</td><td>2006</td><td>20. Juli</td><td>2006</td></tr>
 <tr><td>Frankreich</td><td>11. Juli</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
@@ -1308,12 +1307,13 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>Nauru</td><td>12. Juli</td><td>2012 B</td><td>11. August</td><td>2012</td></tr>
 <tr><td>Nepal\*</td><td>29. März</td><td>2011</td><td>28. April</td><td>2011</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>1. Dezember</td><td>2015</td><td>31. Dezember</td><td>2015</td></tr>
+<tr><td>Cook-Inseln</td><td>17. Oktober</td><td>2011</td><td>16. November</td><td>2011</td></tr>
+<tr><td>Niue</td><td>3. Oktober</td><td>2017 B</td><td>2. November</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>15. Februar</td><td>2006</td><td>17. März</td><td>2006</td></tr>
 <tr><td>Niederlande\*\* <sup>c</sup></td><td>31. Oktober</td><td>2006</td><td>30. November</td><td>2006</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>11. August</td><td>2008 B</td><td>10. September</td><td>2008</td></tr>
 <tr><td>Nigeria</td><td>14. Dezember</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
-<tr><td>Niue</td><td>3. Oktober</td><td>2017 B</td><td>2. November</td><td>2017</td></tr>
 <tr><td>Nordmazedonien</td><td>13. April</td><td>2007</td><td>13. Mai</td><td>2007</td></tr>
 <tr><td>Norwegen</td><td>29. Juni</td><td>2006</td><td>29. Juli</td><td>2006</td></tr>
 <tr><td>Oman</td><td>9. Januar</td><td>2014 B</td><td>8. Februar</td><td>2014</td></tr>
@@ -1353,6 +1353,7 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>Südafrika\*</td><td>22. November</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Sudan</td><td>5. September</td><td>2014</td><td>5. Oktober</td><td>2014</td></tr>
 <tr><td>Südsudan</td><td>23. Januar</td><td>2015 B</td><td>22. Februar</td><td>2015</td></tr>
+<tr><td>Suriname</td><td>18. November</td><td>2021 B</td><td>18. Dezember</td><td>2021</td></tr>
 <tr><td>Tadschikistan</td><td>25. September</td><td>2006 B</td><td>25. Oktober</td><td>2006</td></tr>
 <tr><td>Tansania</td><td>25. Mai</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Thailand\*</td><td>1. März</td><td>2011</td><td>31. März</td><td>2011</td></tr>
@@ -1378,6 +1379,7 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>Vereinigtes Königreich\*\*</td><td>9. Februar</td><td>2006</td><td>11. März</td><td>2006</td></tr>
 <tr><td>Bermudas</td><td>4. Juni</td><td>2018</td><td>4. Juni</td><td>2018</td></tr>
 <tr><td>Britische Jungferninseln</td><td>12. Oktober</td><td>2006</td><td>12. Oktober</td><td>2006</td></tr>
+<tr><td>Gibraltar</td><td>20. Oktober</td><td>2023</td><td>20. Oktober</td><td>2023</td></tr>
 <tr><td>Guernsey</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
 <tr><td>Insel Man</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
 <tr><td>Jersey</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
@@ -1385,10 +1387,10 @@ Geltungsbereich am 13. September 2021**[^t-2]**
 <tr><td>Vietnam\*</td><td>19. August</td><td>2009</td><td>18. September</td><td>2009</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>23. Februar</td><td>2009</td><td>25. März</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen der Vertragsstaaten gemäss Artikel 6 Absatz 3, 44 Absatz 6 Buchstabe a und 46 Absatz 13 und 14, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen der Vertragsstaaten gemäss Artikel 6 Absatz 3, 44 Absatz 6 Buchstabe a und 46 Absatz 13 und 14, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556); [2024 160](https://fedlex.data.admin.ch/eli/oc/2024/160). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen der Schweiz
 
