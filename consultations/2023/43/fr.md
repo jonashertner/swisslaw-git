@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle ordonnance sur la statistique fédérale
 document: Projet mis en consultation
 language: fr

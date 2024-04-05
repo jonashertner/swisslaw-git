@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neue Bundesstatistikverordnung
 document: Vernehmlassungsvorlage
 language: de

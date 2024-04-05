@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuova ordinanza sulla statistica federale
 document: Progetto posto in consultazione
 language: it
