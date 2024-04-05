@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Bundesgesetzes zur Beseitigung der Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz; BehiG)
 document: Vernehmlassungsvorlage
 language: de

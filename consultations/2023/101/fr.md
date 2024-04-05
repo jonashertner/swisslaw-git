@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la Loi fédérale sur l’élimination des inégalités frappant les personnes handicapées (Loi sur l’égalité pour les handicapés; LHand)
 document: Projet mis en consultation
 language: fr

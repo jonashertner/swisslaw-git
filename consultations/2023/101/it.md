@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della Legge federale sull’eliminazione di svantaggi nei confronti di disabili (Legge sui disabili, LDis)"
 document: Progetto posto in consultazione
 language: it
