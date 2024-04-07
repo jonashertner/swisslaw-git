@@ -4,13 +4,13 @@ number: "122.315"
 title: Vollziehungsverordnung zum Ausländer- und Integrationsrecht
 short: VAIR
 language: de
-version: 2021-01-01
-valid_until: 2024-04-07
-version_adopted: 2020-06-24
+version: 2024-04-08
+valid_until: 2024-06-30
+version_adopted: 2024-02-28
 adopted: 2007-11-14
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.315"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2892/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2892/pdf_file"
 
 (VAIR)
 
-Vom 14.11.2007 (Stand 01.01.2021)
+Vom 14.11.2007 (Stand 08.04.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -183,6 +183,12 @@ beschliesst:
 - e) eine befristete Grenzgängerbewilligung Fr. 250.–,
 - f) eine Bewilligung des Wechsels der Stelle oder des Wechsels von der unselbständigen zur selbständigen Erwerbstätigkeit bis Fr. 250.–.
 
+#### § 13a
+
+**Ausnahme von der Erhebung von arbeitsmarktlichen Gebühren**
+
+<sup>1</sup> Für die Bewilligung des Stellenantritts, des Stellen- oder Berufswechsels und für die arbeitsmarktliche Begutachtung von Gesuchen von schutzbedürftigen Personen werden keine Gebühren und Auslagen erhoben.
+
 #### § 14
 
 **…**
@@ -202,6 +208,8 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieser Verordnung hängigen Verfahren richten sich nach den Bestimmungen dieser Verordnung, soweit Art. 126 AIG keine abweichende Regelung vorsieht.
+
+<sup>2</sup> § 13a ist befristet bis 30. Juni 2024.
 
 #### § 17
 
