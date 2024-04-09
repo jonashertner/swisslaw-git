@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2023-06-01
+version: 2024-04-10
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240410/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240410-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240410/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 1° giugno 2023)
+del 25 maggio 2005 (Stato 10 aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -56,9 +56,15 @@ La Segreteria di Stato dell’economia (SECO)[^1-1] può, d’intesa con i compe
 
 **Blocco degli averi e delle risorse economiche**
 
-<sup>1</sup> Gli averi e le risorse economiche di proprietà o sotto il controllo delle persone fisiche, delle imprese e delle organizzazioni menzionate nell’allegato sono bloccati.
+<sup>1</sup>
 
-<sup>2</sup> È vietato trasferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco, oppure mettere altrimenti a loro disposizione, direttamente o indirettamente, averi e risorse economiche.
+Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo diretto o indiretto:
+
+- a. delle persone fisiche, imprese e organizzazioni menzionate negli allegati 1 e 2;
+- b. delle persone fisiche, imprese e organizzazioni che agiscono in nome o per conto delle persone fisiche, imprese e organizzazioni di cui alla lettera a;
+- c. delle imprese e organizzazioni di proprietà o sotto il controllo delle persone fisiche, imprese e organizzazioni di cui alle lettere a o b.[^2-1]
+
+<sup>2</sup> È vietato trasferire averi alle persone fisiche, imprese e organizzazioni di cui al capoverso 1 oppure mettere a loro disposizione in altro modo, direttamente o indirettamente, averi e risorse economiche.[^2-2]
 
 <sup>3</sup>
 
@@ -69,12 +75,41 @@ Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitar
 - c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
 - d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
 - e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–d nella misura in cui agiscono in tale veste;
-- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^2-1]
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^2-3]
 
-<sup>4</sup> D’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, la SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a tutelare interessi svizzeri o a prevenire casi di rigore.[^2-2]
+<sup>3bis</sup> Il divieto di cui al capoverso 2 non si applica al trasferimento di averi o alla messa a disposizione di averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui all’allegato 2 se ciò è necessario per lo svolgimento di attività umanitarie da parte di organismi pubblici o di imprese e organizzazioni che ricevono a tal fine un finanziamento dalla Confederazione.[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-2]: Introdotto dal n. I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+<sup>4</sup>
+
+La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati per:
+
+- a. rispettare contratti esistenti;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.[^2-5]
+
+<sup>4bis</sup>
+
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
+
+- a. prevenire casi di rigore;
+- b. svolgere attività umanitarie o altre attività nella misura in cui sono necessarie per soddisfare bisogni umani fondamentali;
+- c. tutelare interessi svizzeri;
+- d. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale.[^2-6]
+
+<sup>5</sup> Autorizza le deroghe di cui ai capoversi 4 e 4<sup>bis</sup> d’intesa con i servizi competenti del DFAE e del Dipartimento federale delle finanze e, se del caso, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite[^2-7].[^2-8]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-3]: Nuovo testo giusta il n. I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-5]: Introdotto dal n. I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-6]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-7]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^2-8]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 3
 
@@ -91,13 +126,21 @@ Nella presente ordinanza si intende per:
 
 #### Art. 4
 
-**Divieto di entrata e di transito**
+**Divieto di entrata e di transito**[^4-1]
 
-<sup>1</sup> L’entrata in Svizzera e il transito attraverso la Svizzera sono vietati alle persone fisiche elencate nell’allegato.
+<sup>1</sup> L’entrata in Svizzera e il transito attraverso la Svizzera sono vietati alle persone fisiche menzionate negli allegati 1 e 2.
 
-<sup>2</sup> La Segreteria di Stato della migrazione può concedere deroghe in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite oppure per tutelare interessi svizzeri.[^4-1]
+<sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe alle persone fisiche di cui all’allegato 1 in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite.
 
-[^4-1]: Nuovo testo giusta il n. I 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+<sup>3</sup>
+
+La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
+
+- a. per motivi umanitari comprovati;
+- b. per la partecipazione a conferenze internazionali o a dialoghi politici concernenti il Sudan; oppure
+- c. per tutelare interessi svizzeri.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 ## Sezione 2: Esecuzione e disposizioni penali
 
@@ -107,13 +150,14 @@ Nella presente ordinanza si intende per:
 
 <sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui agli articoli 1 e 2.
 
-<sup>2</sup> La Segreteria di Stato della migrazione sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
+<sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.[^5-1]
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-1].
+<sup>3</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.[^5-2]
 
 <sup>4</sup> Su ordine della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 6
 
@@ -141,11 +185,19 @@ Nella presente ordinanza si intende per:
 
 #### Art. 7a
 
-**Recepimento automatico di liste delle persone fisiche, imprese e organizzazioni soggette alle sanzioni**[^7a-1]
+**Recepimento automatico delle liste delle Nazioni Unite**[^7a-1]
 
-Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite ovvero dal comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegato), sono recepite automaticamente. La pubblicazione delle voci secondo l’Allegato non è prevista né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
+Le liste delle persone fisiche, imprese e organizzazioni emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato del Consiglio di sicurezza delle Nazioni Unite (allegato 1) sono recepite automaticamente.
 
-[^7a-1]: Introdotto dal n. I 9 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta il n. I 7 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^7a-1]: Introdotto dal n. I 9 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+
+#### Art. 7b
+
+**Pubblicazione**[^7b-1]
+
+Il contenuto degli allegati 1 e 2 è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
+
+[^7b-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 8
 
@@ -155,19 +207,30 @@ La presente ordinanza entra in vigore il 26 maggio 2005.
 
 [^8-1]: Introdotta dal n. I 9 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Allegato[^t-1]
+Allegato 1[^t-1]
 
-(art. 2 cpv. 1, 4 cpv. 1 e 7*a*)
+(art. 2 cpv. 1, 4 cpv. 1 e 2 nonché 7*a* e 7*b*)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
+## Persone fisiche soggette alle misure finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle misure finanziarie
 
-[^t-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-1]: Originario allegato. Nuovo testo giusta il n. II cpv. 1 dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
-**Nota bene**
+**Osservazioni**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annexu1-lvlu1-1].
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, delle imprese e delle organizzazioni designate dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annexu1-lvlu1-2].
+\2. Di norma la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management)[^annex1-lvlu1-2] un giorno lavorativo dopo la comunicazione da parte delle Nazioni Unite.
 
-[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; The Sudan Sanctions Committee &gt; Sanctions List Materials.
-[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex1-lvlu1-1]: La lista può essere consultata in francese su Internet all’indirizzo: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant le Soudan &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet all’indirizzo: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home.html) &gt; Politica esterna & Cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+
+Allegato 2[^t-2]
+
+(art. 2 cpv. 1, 4 cpv. 1 e 3 nonché 7*b*)
+
+## Persone fisiche soggette alle misure finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle misure finanziarie
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo seguente: [https://fedlex.data.admin.ch/eli/oc/2024/149](https://fedlex.data.admin.ch/eli/oc/2024/149) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
