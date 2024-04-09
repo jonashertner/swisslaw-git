@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Trattato del 22 dicembre 1978 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla protezione conferita dai brevetti d'invenzione (Trattato sui brevetti) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: it
-version: 2023-10-25
+version: 2024-04-10
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20231025/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20231025-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20231025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20240410/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20240410-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20240410/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 22 dicembre 1978 Approvato dall’Assemblea federale il 4 dicembre 1979[^t-1] Strumenti di ratificazione scambiati il 24 gennaio 1980 Entrato in vigore il 1° aprile 1980
 
-(Stato 25 ottobre 2023)
+(Stato 10 aprile 2024)
 
 [^t-1]: RU **1980** 285; FF **1979** II 261 RU **1980** 284
 
@@ -248,8 +248,8 @@ Il presente trattato è parimente applicabile ai brevetti d’invenzione rilasci
 Allegati[^t-2]
 
 <table>
-<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>**Allegato** **II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-2]: Gli Allegati I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 25 ott. 2023 (stato: 30 giugno 2023). Questi Allegati aggiornati non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623)ma possono essere consultati sul sito Internet:: www.gesetze.li &gt; LR-Nr. 170.551.232
+[^t-2]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 10 apr. 2024 (stato: 31 dic. 2023). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166)) ma possono essere consultati sul sito Internet: www.gesetze.li &gt; [LR-Nr. 170.551.232](https://www.gesetze.li/chrono/2024155000)
