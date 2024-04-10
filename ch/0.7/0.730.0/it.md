@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2010-01-21
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20100121/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20100121-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20100121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20100121/it"
 
 Testo originale
 
-Concluso a Lisbona il 17 dicembre 1994
+Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996
-
-Entrato in vigore per la Svizzera il 16 aprile 1998
-
-(Stato 21 gennaio 2010)
+(Stato 11 aprile 2024)
 
 [^t-1]: RU **1998** 2734 RU **1998** 2733
 
@@ -722,7 +716,7 @@ Una controversia tra le Parti contraenti sull’applicazione o l’interpretazio
 Tutte le modifiche di tali tariffe e oneri di qualsiasi tipo applicati o connessi alle importazioni o esportazioni sono notificate al Segretariato che ne informa le Parti contraenti.
 
 - 2\. a) Gli scambi di materiali e prodotti energetici e attrezzature connesse tra Parti contraenti delle quali almeno una non è membro dell’OMC sono disciplinati, fatte salve le disposizioni di cui alla lettera b) e le eccezioni e le norme di cui all’allegato W, dalle disposizioni dell’accordo OMC applicate relativamente ai materiali e ai prodotti energetici e alle attrezzature connesse, come se tutte le Parti contraenti fossero membri dell’OMC.
-- b) Gli scambi di una Parte contraente che in precedenza faceva parte dell’ex Unione delle Repubbliche socialiste sovietiche possono invece essere disciplinati, fatto salvo il disposto dell’allegato TFU, da un accordo tra due o più di tali Stati fino al 1° dicembre 1999 ovvero fino all’ammissione nell’OMC di detta Parte contraente, se precedente.
+- b) Gli scambi di una Parte contraente che in precedenza faceva parte dell’ex Unione delle Repubbliche socialiste sovietiche possono invece essere disciplinati, fatto salvo il disposto dell’allegato TFU, da un accordo tra due o più di tali Stati fino al 1 dicembre 1999 ovvero fino all’ammissione nell’OMC di detta Parte contraente, se precedente.
 - 3\. a) Ogni firmatario del presente trattato ed ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato anteriormente al 24 aprile 1998, alla data della firma o del deposito del suo strumento di adesione fornisce al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati ai materiali e ai prodotti energetici in concomitanza dell’importazione o dell’esportazione, indicando il livello applicato alla data della firma o del deposito. Ogni firmatario del presente trattato ed ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato anteriormente al 24 aprile 1998, fornisce in tale data al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati alle attrezzature del settore energetico al momento dell’importazione o esportazione, indicando il livello applicato a tale data.
 - b) Ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato a far data dal 24 aprile 1998, alla data del deposito del suo strumento di adesione fornisce al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati ai materiali e prodotti energetici e alle attrezzature connesse in concomitanza dell’importazione o dell’esportazione, indicando il livello applicato alla data del deposito.
 
@@ -786,19 +780,7 @@ La Conferenza della Carta provvisoria, alla sua prima riunione, inizia ad esamin
 
 <sup>1.</sup> Riconoscendo la necessità di un periodo di tempo per adeguarsi ai requisiti di un’economia di mercato, una Parte contraente elencata nell’allegato T può sospendere temporaneamente il pieno adempimento dei suoi obblighi derivanti da una qualsiasi o più delle seguenti disposizioni del presente Trattato, fatte salve le condizioni di cui ai paragrafi da 3 a 6:
 
-Articolo 6 paragrafi 2 e 5
-
-Articolo 7 paragrafo 4
-
-Articolo 9 paragrafo 1
-
-Articolo 10 paragrafo 7 –misure specifiche
-
-Articolo 14 paragrafo 1, lettera d) –unicamente per quanto riguarda il trasferimento dei redditi non spesi
-
-Articolo 20 paragrafo 3
-
-Articolo 22 paragrafi 1 e 3.
+Articolo 6 paragrafi 2 e 5, Articolo 7 paragrafo 4, Articolo 9 paragrafo 1, Articolo 10 paragrafo 7 –misure specifiche, Articolo 14 paragrafo 1, lettera d) –unicamente per quanto riguarda il trasferimento dei redditi non spesi, Articolo 20 paragrafo 3, Articolo 22 paragrafi 1 e 3.
 
 <sup>2.</sup> Le altre Parti contraenti assistono qualsiasi Parte contraente che abbia sospeso il pieno adempimento ai sensi del paragrafo 1, a realizzare le condizioni per poter porre fine alla sospensione. L’assistenza è fornita nella forma da esse considerata più efficace a far fronte alle necessità notificate ai sensi del paragrafo 4, lettera c), comprese, ove opportuno, intese bilaterali o multilaterali.
 
@@ -1073,7 +1055,7 @@ Fatto a Lisbona il giorno diciassette del mese di dicembre dell’anno millenove
 
 (Seguono le firme)
 
-Indice degli allegati**[^t-2]**
+Indice degli allegati[^t-2]
 
 **1. Allegato EM I**
 
@@ -1153,7 +1135,7 @@ Misure transitorie delle Parti contraenti
 
 [^t-2]: Aggiornato dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
-\1. Allegato EM I*[^t-3]*
+\1. Allegato EM I[^t-3]
 
 <table>
 <tr><td></td><td colspan="5">Materiali e prodotti energetici</td></tr>
@@ -1196,7 +1178,7 @@ Misure transitorie delle Parti contraenti
 
 [^t-3]: Originario all. EM
 
-\2. Allegato EM II*[^t-4]*
+\2. Allegato EM II[^t-4]
 
 ## Materiali e prodotti energetici
 
@@ -1204,7 +1186,7 @@ Misure transitorie delle Parti contraenti
 
 (ai sensi dell’articolo 1, paragrafo 4)
 
-\3. Allegato EQ I*[^t-5]*
+\3. Allegato EQ I[^t-5]
 
 ## Elenco delle attrezzature del settore energetico
 
@@ -1262,8 +1244,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td></td><td></td><td colspan="2">– Cartucce o tubi utilizzati per elementi combustibili nucleari</td></tr>
 <tr><td></td><td>Ex 82.07</td><td colspan="3">Utensili intercambiabili per utensileria a mano, anche meccanica o per macchine utensili (per esempio: per imbutire, stampare, punzonare, maschiare, filettare, forare, alesare, scanalare, fresare, tornire, avvitare) comprese le filiere per trafilare o estrudere i metalli, nonché gli utensili di perforazione o di sondaggio</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Utensili di perforazione o di sondaggio:</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td>8207.13[^annex3-lvlu1-5]</td><td colspan="2">– Con parte operante di cermet</td></tr>
 <tr><td></td><td></td><td>8207.19</td><td colspan="2">– Altri, comprese le parti</td></tr>
 <tr><td></td><td>Ex 83.07<sup>(</sup><sup>\*</sup><sup>)</sup>[^annex3-lvlu1-6]</td><td colspan="3">Tubi flessibili di metalli comuni, anche con i loro accessori</td></tr>
@@ -1351,8 +1331,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td></td><td>8481.80</td><td colspan="2">– Altri oggetti di rubinetteria e organi simili</td></tr>
 <tr><td></td><td></td><td>8481.90</td><td colspan="2">– Parti</td></tr>
 <tr><td></td><td>Ex 84.83</td><td colspan="3">Alberi di trasmissione (compresi gli alberi a camme e gli alberi a gomito) e manovelle; supporti e cuscinetti a strisciamento; ingranaggi e ruote di frizione; alberi filettati a sfere o a rulli; riduttori, moltiplicatori e variatori di velocità, compresi i convertitori di coppia; volani e pulegge, comprese le carrucole a staffa; innesti ed organi di accoppiamento, compresi i giunti di articolazione.</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8483.40</td><td colspan="2">– Ingranaggi e ruote di frizione, escluse le ruote semplici e gli altri organi elementari di trasmissione; alberi filettati a sfere o a rulli; riduttori, moltiplicatori e variatori di velocità, compresi i convertitori di coppia</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Elementi di trasmissione utilizzati esclusivamente in unità di pompaggio con aste di perforazione «sucker rod» destinati all’industria estrattiva del petrolio e del gas</td></tr>
 <tr><td></td><td>Ex 84.84<sup>(</sup><sup>\*</sup><sup>)</sup>[^annex3-lvlu1-12]</td><td colspan="3">Guarnizioni metalloplastiche; serie o assortimenti di guarnizioni di composizione diversa, presentati in involucri, buste o imballaggi simili; giunti di tenuta stagna meccanici</td></tr>
@@ -1384,7 +1362,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td></td><td>8532.10</td><td colspan="2">– Condensatori fissi costruiti per le reti elettriche di 50/60 Hz e capaci di assorbire una potenza reattiva uguale o superiore a 0,5 kvar (condensatori di potenza)</td></tr>
 <tr><td></td><td>85.35</td><td colspan="3">Apparecchi per l’interruzione, il sezionamento, la protezione, la diramazione, l’allacciamento o il collegamento dei circuiti elettrici (per esempio: interruttori, commutatori, interruttori di sicurezza, scaricatori, limitatori di tensione, limitatori di sovracorrente, prese di corrente, cassette di giunzione) per una tensione superiore a 1000 V.</td></tr>
 <tr><td></td><td>85.36</td><td colspan="3">Apparecchi per l’interruzione, il sezionamento, la protezione, la diramazione, l’allacciamento o il collegamento dei circuiti elettrici (per esempio: interruttori, commutatori, relè, interruttori di sicurezza, limitatori di sovracorrente, spine e prese di corrente, portalampade, cassette di giunzione) per una tensione inferiore o uguale a 1000 V.</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8536.10</td><td colspan="2">– Fusibili ed interruttori di sicurezza a fusibili</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Per un’intensità superiore a 63 A</td></tr>
 <tr><td></td><td></td><td>Ex 8536.20</td><td colspan="2">– Interruttori automatici</td></tr>
@@ -1420,8 +1397,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td></td><td></td><td colspan="2">– Altri, azionati da motore a pistone con accensione a scintilla:</td></tr>
 <tr><td></td><td></td><td>Ex 8704.31</td><td colspan="2">– Di peso a pieno carico inferiore o uguale a 5 t</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Appositamente costruiti per il trasporto di prodotti a forte radioattività</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8704.32</td><td colspan="2">– Di peso a pieno carico superiore a 5 t</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Appositamente costruiti per il trasporto di prodotti a forte radioattività</td></tr>
 <tr><td></td><td>Ex 87.05</td><td colspan="3">Autoveicoli per usi speciali, diversi da quelli costruiti principalmente per il trasporto di persone o di merci (per esempio: carro attrezzi, gru-automobili, autopompe antincendio, autocarri betoniere, autospazzatrici, autoveicoli spanditori, autocarri-officina, autovetture radiologiche)</td></tr>
@@ -1450,8 +1425,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td>Ex 90.30<sup>(</sup><sup>\*</sup><sup>)</sup>[^annex3-lvlu1-16]</td><td colspan="3">Oscilloscopi, analizzatori di spettro e altri strumenti ed apparecchi per la misura o il controllo di grandezze elettriche; strumenti ed apparecchi per la misura o la rilevazione delle radiazioni alfa, beta, gamma, X, cosmiche o di altre radiazioni ionizzanti.</td></tr>
 <tr><td></td><td></td><td>Ex 9030.10</td><td colspan="2">– Strumenti ed apparecchi per la misura o la rilevazione di radiazioni ionizzanti</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Destinati al settore energetico</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Altri strumenti ed apparecchi per la misura o il controllo della tensione, dell’intensità, della resistenza o della potenza, senza dispositivo registratore</td></tr>
 <tr><td></td><td></td><td>9030.31</td><td colspan="2">– Multimetri</td></tr>
 <tr><td></td><td></td><td>9030.39</td><td colspan="2">– Altri</td></tr>
@@ -1483,7 +1456,7 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 [^annex3-lvlu1-16]: (\*) Salvo prodotti destinati ad aeromobili civili.
 [^annex3-lvlu1-17]: Cfr. codice 9030 81 nella versione 1992.
 
-\4. Allegato EQ II*[^t-6]*
+\4. Allegato EQ II[^t-6]
 
 ## Elenco delle attrezzature del settore energetico
 
@@ -1491,7 +1464,7 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 
 (ai sensi dell’articolo 1, paragrafo 4<sup>bis</sup>)
 
-\5. Allegato NI*[^t-7]*
+\5. Allegato NI[^t-7]
 
 ## Materiali e prodotti energetici non ricompresi nella definizione di «attività economica nel settore dell’energia»
 
@@ -1505,7 +1478,7 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td>44.02</td><td>Carbone di legna (compreso il carbone di gusci o di noci), anche agglomerato.</td></tr>
 </table>
 
-\6. Allegato TRM*[^t-8]*
+\6. Allegato TRM[^t-8]
 
 ## Notifica e soppressione (TRIM)
 
@@ -1541,7 +1514,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 - a) la notifica di cui ai paragrafi 1 e 2 è effettuata alla data posteriore fra la data di cui al paragrafo 1 e quella del deposito dello strumento di adesione; e
 - b) il periodo di soppressione termina alla data posteriore fra quella di cui al paragrafo 3 e quella alla quale il trattato entra in vigore per detto Stato o Organizzazione regionale di integrazione economica.
 
-\7. Allegato N*[^t-9]*
+\7. Allegato N[^t-9]
 
 ## Elenco delle Parti contraenti che chiedono almeno 3 aree distinte interessate ad un transito
 
@@ -1551,7 +1524,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 \1. Canada e Stati Uniti d’America
 
-\8. Allegato VC*[^t-10]*
+\8. Allegato VC[^t-10]
 
 ## Elenco delle Parti contraenti che hanno assunto impegni volontari vincolanti con riferimento all’articolo 10, paragrafo 3
 
@@ -1559,7 +1532,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 (ai sensi dell’articolo 10, paragrafo 6)
 
-\9. Allegato ID*[^t-11]*
+\9. Allegato ID[^t-11]
 
 ## Elenco delle Parti contraenti che non consentono ad un investitore di sottoporre la stessa controversia all’arbitrato internazionale in una fase successiva, ai sensi dell’articolo 26
 
@@ -1615,7 +1588,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 \24. Stati Uniti d’America
 
-\10. Allegato IA*[^t-12]*
+\10. Allegato IA[^t-12]
 
 ## Elenco delle Parti contraenti che non consentono ad un investitore o parte contraente di sottoporre ad arbitrato internazionale una controversia riguardante l’ultima frase dell’articolo 10, paragrafo 1
 
@@ -1631,7 +1604,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 \4. Norvegia
 
-\11. Allegato P*[^t-13]*
+\11. Allegato P[^t-13]
 
 ## Procedura speciale per le controversie a livello territoriale
 
@@ -1664,7 +1637,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 \7. Nel sospendere qualsiasi obbligo nei confronti di una Parte responsabile, una Parte lesa si adopera al massimo per non ledere i diritti ai sensi del trattato di qualsiasi altra Parte contraente.
 
-\12. Allegato W*[^t-14]*
+\12. Allegato W[^t-14]
 
 ## Eccezioni e norme che disciplinano l’applicazione delle disposizioni dell’accordo OMC
 
@@ -1886,7 +1859,6 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 <tr><td>[tab] x)</td><td>[tab] Decisione sulla revisione dell’articolo 17, paragrafo 6 dell’accordo sull’applicazione dell’articolo VI dell’accordo generale sulle tariffe doganali e sul commercio 1994</td></tr>
 <tr><td>[tab] xi)</td><td>[tab] Dichiarazione sulla risoluzione delle controversie ai sensi dell’accordo sull’applicazione dell’articolo VI dell’accordo generale sulle tariffe doganali e sul commercio 1994 o della parte V dell’accordo sulle sovvenzioni e sulle misure compensative</td></tr>
 <tr><td>[tab] xii)</td><td>[tab] Decisione relativa ai casi in cui le amministrazioni doganali hanno motivo di dubitare della veridicità o della correttezza del valore dichiarato</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>[tab] xiii)</td><td>[tab] Decisione sui testi relativi ai valori minimi e alle importazioni effettuate da agenti esclusivi, distributori esclusivi e concessionari esclusivi</td></tr>
 <tr><td>[tab] xiv)</td><td>[tab] Decisione sulle disposizioni istituzionali per quanto riguarda l’accordo generale sugli scambi di servizi</td></tr>
 <tr><td>[tab] xv)</td><td>[tab] Decisione relativa ad alcune procedure di risoluzione delle controversie per quanto riguarda l’accordo generale sugli scambi di servizi</td></tr>
@@ -1966,7 +1938,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 - Le domande alla Conferenza sulla Carta ai sensi del presente paragrafo sono presentate entro sei mesi dalla notifica da parte del Segretariato dell’entrata in vigore dell’emendamento nell’ambito dell’accordo OMC.
 - c) Le interpretazioni, gli emendamenti o i nuovi strumenti adottati dall’OMC, diversi dalle interpretazioni e dagli emendamenti applicati ai sensi delle lettere a) e b), non sono applicabili.
 
-\13. Allegato TFU*[^t-15]*
+\13. Allegato TFU[^t-15]
 
 ## Disposizioni riguardanti gli accordi commerciali tra Stati che erano parti costituenti dell’ex Unione delle Repubbliche socialiste sovietiche
 
@@ -1995,7 +1967,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 \6. Le Parti contraenti che sono o diventano Parti di un accordo di cui all’articolo 29, paragrafo 2, lettera b) si adoperano per limitare le difformità dello stesso nei confronti delle disposizioni dell'accordo OMC rese applicabili dall’articolo 29, paragrafo 2, lettera a) a quelle necessarie in relazione alle circostanze particolari e ad attuare detto accordo in maniera da derogare il meno possibile da dette disposizioni. Esse adoperano ogni energia per adottare azioni riparatrici alla luce delle osservazioni delle Parti interessate e di eventuali raccomandazioni della Conferenza della Carta.
 
-\14. Allegato BR*[^t-16]*
+\14. Allegato BR[^t-16]
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
@@ -2003,7 +1975,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 (ai sensi dell’articolo 29, paragrafo 7)
 
-\15. Allegato BRQ*[^t-17]*
+\15. Allegato BRQ[^t-17]
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
@@ -2011,7 +1983,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 (ai sensi dell’articolo 29 paragrafo 7)
 
-\16. Allegato D*[^t-18]*
+\16. Allegato D[^t-18]
 
 ## Disposizioni transitorie per la risoluzione di controversie commerciali
 
@@ -2065,7 +2037,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 - b) qualora si sia concluso che una misura annulli o riduca i benefici ai sensi dell’articolo 29 senza che vi sia una violazione di quest’articolo, non vi è alcun obbligo di ritirare detta misura; tuttavia, in tale caso, il collegio raccomanda che la parte contraente interessata proceda ad un adeguamento reciprocamente soddisfacente;
 - c) il collegio arbitrale previsto al paragrafo 6, lettera b) può determinare, su richiesta di una parte, la consistenza dei benefici che sono stati annullati o ridotti e può inoltre suggerire modalità per un adeguamento reciprocamente soddisfacente; tali proposte non sono vincolanti per le parti in causa.
 
-\17. Allegato B*[^t-19]*
+\17. Allegato B[^t-19]
 
 ## Formula per la ripartizione dei costi della carta
 
@@ -2077,7 +2049,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 \2. I contributi sono adeguati ove necessario per garantire che il totale di tutti i contributi delle Parti contraenti sia 100 per cento.
 
-\18. A Allegato PA*[^t-20]*
+\18. A Allegato PA[^t-20]
 
 ## Elenco dei firmatari che non accettano l’obbligo di applicazione provvisoria dell’articolo 45, paragrafo 3, lettera b)
 
@@ -2097,7 +2069,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 \6. Slovacchia
 
-\19. Allegato T*[^t-21]*
+\19. Allegato T[^t-21]
 
 ## Misure transitorie delle Parti contraenti
 
@@ -2426,7 +2398,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 (Seguono le firme)
 
-### Applicazione provvisoria****
+### Applicazione provvisoria
 
 [^annex19T-lvlu3-lvlu8-1]
 
@@ -2446,7 +2418,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 (3) Qualsiasi firmatario o parte contraente può porre fine alla sua applicazione provvisoria della presente modifica notificando per iscritto al depositario la sua intenzione di non ratificarla, accettarla o approvarla. La fine dell’applicazione provvisoria diviene effettiva, per qualsiasi firmatario o parte contraente, dopo sessanta giorni a decorrere dalla data in cui il depositario ha ricevuto la notifica scritta. Si considera che il firmatario che pone fine all’applicazione provvisoria del trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 3, lettera a), pone fine anche all’applicazione provvisoria della presente modifica, con effetto alla stessa data.
 
-### Situazione giuridica delle decisioni****
+### Situazione giuridica delle decisioni
 
 [^annex19T-lvlu3-lvlu9-1]
 
@@ -2454,90 +2426,60 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
 
-## Campo d’applicazione il 18 settembre 2006****
+## Campo d’applicazione l’11 aprile 2024
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.eda.admin.ch/eda/i/home/foreign/intagr/dabase.html).
+[^annex19T-lvlu4-1]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>12 febbraio</td><td>1998</td><td>13 maggio</td><td>1998</td></tr>
-<tr><td colspan="2">Armenia</td><td>19 gennaio</td><td>1998</td><td>19 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Austria</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Azerbaigian</td><td>23 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Belgio</td><td>8 maggio</td><td>1998</td><td>7 giugno</td><td>1998</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>17 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>15 novembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>17 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Cipro</td><td>16 gennaio</td><td>1998</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Comunità europea (CE/EU/CEE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Croazia</td><td>9 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Danimarca</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Estonia</td><td>4 maggio</td><td>1998</td><td>2 agosto</td><td>1998</td></tr>
-<tr><td colspan="2">Finlandia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Francia</td><td>28 settembre</td><td>1999</td><td>27 dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Georgia</td><td>12 luglio</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Germania</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Giappone</td><td>23 luglio</td><td>2002</td><td>21 ottobre</td><td>2002</td></tr>
-<tr><td colspan="2">Grecia</td><td>4 settembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Irlanda</td><td>15 aprile</td><td>1999</td><td>14 luglio</td><td>1999</td></tr>
-<tr><td colspan="2">Italia\*</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Kazakstan</td><td>6 agosto</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>7 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Lettonia</td><td>15 gennaio</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>12 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Lituania</td><td>14 settembre</td><td>1998</td><td>13 dicembre</td><td>1998</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>27 novembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Macedonia</td><td>27 marzo</td><td>1998 A</td><td>25 giugno</td><td>1998</td></tr>
-<tr><td colspan="2">Malta</td><td>10 giugno</td><td>2001</td><td>9 settembre</td><td>2001</td></tr>
-<tr><td colspan="2">Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Mongolia</td><td>19 novembre</td><td>1999 A</td><td>17 febbraio</td><td>2000</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Polonia\*</td><td>24 aprile</td><td>2001</td><td>23 luglio</td><td>2001</td></tr>
-<tr><td colspan="2">Portogallo</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Slovenia</td><td>10 settembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Spagna</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Tagikistan</td><td>25 giugno</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Turchia</td><td>5 aprile</td><td>2001</td><td>4 luglio</td><td>2001</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Ucraina</td><td>29 ottobre</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
-<tr><td colspan="2">Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
-<tr><td colspan="2">Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni, vedi qui appresso.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>22 marzo</td><td>2013 A</td><td>20 giugno</td><td>2013</td></tr>
+<tr><td>Albania</td><td>12 febbraio</td><td>1998</td><td>13 maggio</td><td>1998</td></tr>
+<tr><td>Armenia</td><td>19 gennaio</td><td>1998</td><td>19 aprile</td><td>1998</td></tr>
+<tr><td>Austria</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Azerbaigian</td><td>23 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Belgio</td><td>8 maggio</td><td>1998</td><td>7 giugno</td><td>1998</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>17 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
+<tr><td>Bulgaria</td><td>15 novembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Ceca, Repubblica</td><td>17 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Cipro</td><td>16 gennaio</td><td>1998</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Comunità Europea dell’Energia Atomica (Euratom)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Croazia</td><td>9 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Danimarca</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Estonia</td><td>4 maggio</td><td>1998</td><td>2 agosto</td><td>1998</td></tr>
+<tr><td>Finlandia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Georgia</td><td>12 luglio</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Giappone</td><td>23 luglio</td><td>2002</td><td>21 ottobre</td><td>2002</td></tr>
+<tr><td>Giordania</td><td>12 settembre</td><td>2018 A</td><td>11 dicembre</td><td>2018</td></tr>
+<tr><td>Grecia</td><td>4 settembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Irlanda</td><td>15 aprile</td><td>1999</td><td>14 luglio</td><td>1999</td></tr>
+<tr><td>Islanda</td><td>20 luglio</td><td>2015</td><td>18 ottobre</td><td>2015</td></tr>
+<tr><td>Kazakstan</td><td>6 agosto</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Kirghizistan</td><td>7 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Lettonia</td><td>15 gennaio</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Liechtenstein</td><td>12 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Lituania</td><td>14 settembre</td><td>1998</td><td>13 dicembre</td><td>1998</td></tr>
+<tr><td>Macedonia del Nord</td><td>27 marzo</td><td>1998 A</td><td>25 giugno</td><td>1998</td></tr>
+<tr><td>Malta</td><td>30 maggio</td><td>2001</td><td>28 agosto</td><td>2001</td></tr>
+<tr><td>Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Mongolia</td><td>19 novembre</td><td>1999 A</td><td>17 febbraio</td><td>2000</td></tr>
+<tr><td>Montenegro</td><td>8 settembre</td><td>2015 A</td><td>7 dicembre</td><td>2015</td></tr>
+<tr><td>Paesi Bassi</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Regno Unito</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Spagna</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Tagikistan</td><td>25 giugno</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Turchia</td><td>5 aprile</td><td>2001</td><td>4 luglio</td><td>2001</td></tr>
+<tr><td>Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Ucraina</td><td>29 ottobre</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
+<tr><td>Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
+<tr><td>Unione europea (UE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Yemen</td><td>31 ottobre</td><td>2018 A</td><td>29 gennaio</td><td>2019</td></tr>
 </table>
-
-### Riserve e dichiarazioni
-
-Italia
-
-All’atto del deposito dello strumento di ratifica del Trattato sulla Carta Europea dell’Energia e ai sensi dell’art. 26, comma 3, lettera b, sub ii), l’Italia effettua la seguente dichiarazione:
-
-«L’Italia, ai sensi dell’articolo 26, comma 3, lettera b, sub ii), dichiara di non prestare il consenso a sottoporre le controversie, sorte tra un investitore ed una Parte contraente, all’arbitrato o alla conciliazione internazionale, allorché l’investitore stesso abbia già sottoposto la controversia:
-
-- a) alle Corti o ai tribunali amministrativi italiani;
-- b) o abbia esperito una procedura applicabile per la soluzione della controversia già concordata in precedenza.
-
-A tal proposito occorre distinguere due ipotesi:
-
-- 1) se il giudizio sulla controversia è ancora pendente davanti ad organi giurisdizionali o di conciliazione interni, l’investitore potrà abbandonare, con la rinuncia processuale od extraprocessuale, l’azione giurisdizionale o la procedura arbitrale, ricorrendo ad altre forme di ipotesi conciliativa;
-- 2) se, sulla controversia, sia già intervenuto un giudicato o comunque un accertamento avente natura esecutiva non può più essere ammessa una conciliazione o arbitrato internazionale.
-
-Le affermazioni sopra esposte trovano la loro ragione sia nel principio del *«ne bis in idem»* (evitandosi che sulla stessa istanza siano emessi due giudicati: lodo e sentenza), sia in quello della incontrovertibilità del *decisum*, che fa stato anche nei rapporti sostanziali tra le parti, salva la possibilità per le stesse, nell’ambito processuale ed in quello extraprocessuale, di esperire i normali mezzi di impugnativa».
-
-Polonia
-
-Conformemente alle disposizioni dell’articolo 26 paragrafo 3 lettera b (ii) del Trattato:
-
-«La Repubblica di Polonia ha deciso d’essere inclusa nell’allegato ID della Carta e di conseguenza di non autorizzare incondizionatamente il deferimento di una controversia tra un investitore estero e la Repubblica di Polonia all’arbitrato internazionale o alla conciliazione internazionale qualora la controversia sia già stata sottoposta a una corte competente o a un tribunale amministrativo polacco, o a una procedura d’arbitrato precedentemente pattuita al fine di dirimere la controversia.
-
-La posizione di cui sopra poggia sul principio volto ad evitare che due sentenze vengano pronunciate in merito a una stessa controversia. Nell’ambito del Codice polacco di procedura civile (CPC), la citazione in giudizio di prima istanza esclude la possibilità di ricerca di una protezione legale in un altro procedimento o per mezzo di un’altra azione. Secondo l’articolo 203 CPC, la citazione in giudizio può essere revocata senza il consenso della persona citata a comparire prima dell’inizio delle udienze, salvo che la revoca non sottostia alla condizione di rinuncia reciproca a qualsivoglia pretesa. In questo caso, la revoca della citazione è possibile fino alla pronuncia della sentenza. L’articolo 7111 CPC dispone che una sentenza o una decisione emessa da una corte arbitrale ha giuridicamente lo stesso valore di una sentenza del tribunale appena questo ne riconosce il giudicato. Una siffatta decisione arbitrale è definitiva e preclude quindi qualsiasi possibilità di procedimento in appello. L’articolo 1105, secondo comma CPC prevede la possibilità di escludere per mutuo accordo la giurisdizione dei tribunali polacchi in favore di una corte arbitrale all’estero. Tuttavia, secondo il terzo comma di questo articolo, il tribunale polacco deve tener conto di un tale accordo vertente su una corte arbitrale estera soltanto se il convenuto presenta una comparsa di risposta debitamente giustificata vertente sul merito della causa.
-
-Inoltre, la Polonia è parte alla Convenzione di Nuova York del 10 giugno 1958 sul riconoscimento e l’esecuzione delle sentenze arbitrali estere.»

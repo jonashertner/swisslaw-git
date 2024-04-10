@@ -3,27 +3,26 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2010-01-21
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20100121/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20100121-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20100121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Vertrag über die Energiecharta
 
-[^t-1]SR
+AS **1998** 2734
 
 Originaltext
 
-Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
+Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 21. Januar 2010) (Stand am 21. Januar 2010)
+(Stand am 11. April 2024)
 
-[^t-1]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734)
-[^t-2]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
+[^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
 Präambel
 
@@ -1014,7 +1013,7 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (Es folgen die Unterschriften)
 
-Inhaltsübersicht der Anlagen**[^t-3]**
+Inhaltsübersicht der Anlagen[^t-2]
 
 \1. Anlage EM 1
 
@@ -1092,9 +1091,9 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 
 Übergangsmassnahmen der Vertragsparteien
 
-[^t-3]: Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-2]: Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
-\1. Anlage EM I[^t-4]
+\1. Anlage EM I[^t-3]
 
 <table>
 <tr><td></td><td colspan="4">Primärenergieträger und Energieerzeugnisse</td></tr>
@@ -1135,21 +1134,21 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 <tr><td></td><td>44.02</td><td colspan="2">Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst</td></tr>
 </table>
 
-[^t-4]: Ursprünglich Anlage EM.
+[^t-3]: Ursprünglich Anlage EM.
 
-\2. Anlage EM II*[^t-5]*
+\2. Anlage EM II[^t-4]
 
 ## Energieerzeugnisse
 
-[^t-5]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-4]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (nach Art. 1 Abs. 4)
 
-\3. Anlage EQ I*[^t-6]*
+\3. Anlage EQ I[^t-5]
 
 ## Liste der energiebezogenen Ausrüstung
 
-[^t-6]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-5]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (nach Art. 1 Abs. 4a)
 
@@ -1424,19 +1423,19 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 [^annex3-lvlu1-18]: In der Fassung von 1992 Unterposition 9030 81.
 [^annex3-lvlu1-19]: (\*) Ausgenommen für Zivilluftfahrzeuge.
 
-\4. Anlage EQ II*[^t-7]*
+\4. Anlage EQ II[^t-6]
 
 ## Liste der energiebezogenen Ausrüstung
 
-[^t-7]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-6]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (nach Art. 1 Abs. 4a)
 
-\5. Anlage NI*[^t-8]*
+\5. Anlage NI[^t-7]
 
 ## Primärenergieträger und Energieerzeugnisse, die nicht unter den Begriff «Wirtschaftstätigkeit im Energiebereich» fallen
 
-[^t-8]: Ursprünglich 2. Anlage.
+[^t-7]: Ursprünglich 2. Anlage.
 
 (nach Art. 1 Abs. 5)
 
@@ -1446,11 +1445,11 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td>44.02</td><td>Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst</td></tr>
 </table>
 
-\6. Anlage TRM*[^t-9]*
+\6. Anlage TRM[^t-8]
 
 ## Notifikation und Übergangsbestimmungen (TRIMs)
 
-[^t-9]: Ursprünglich 3. Anlage. Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-8]: Ursprünglich 3. Anlage. Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (nach Art. 5 Abs. 4)
 
@@ -1482,29 +1481,29 @@ Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmass
 - a) so ist die in den Absätzen 1 und 2 genannte Notifikation zu dem späteren der nach Absatz 1 anwendbaren Zeitpunkte oder zum Zeitpunkt der Hinterlegung der Beitrittsurkunde vorzunehmen und
 - b) so gilt als Ende der Auslaufphase der spätere der nach Absatz 3 geltenden Zeitpunkte oder der Zeitpunkt, zu dem der Vertrag für den Staat oder die Organisation der regionalen Wirtschaftsintegration in Kraft tritt.
 
-\7. Anlage N*[^t-10]*
+\7. Anlage N[^t-9]
 
 ## Liste der Vertragsparteien, die bei einem Transit die Einbeziehung von mindestens 3 verschiedenen Gebieten fordern
 
-[^t-10]: Ursprünglich 4. Anlage.
+[^t-9]: Ursprünglich 4. Anlage.
 
 (nach Art. 7 Abs. 10 Bst. a)
 
 \1. Kanada und die Vereinigten Staaten von Amerika
 
-\8. Anlage VC*[^t-11]*
+\8. Anlage VC[^t-10]
 
 ## Liste der Vertragsparteien, die freiwillig bindende Verpflichtungen bezüglich Artikel 10 Absatz 3 eingegangen sind
 
-[^t-11]: Ursprünglich 5. Anlage.
+[^t-10]: Ursprünglich 5. Anlage.
 
 (nach Art. 10 Abs. 6)
 
-\9. Anlage ID*[^t-12]*
+\9. Anlage ID[^t-11]
 
 ## Liste der Vertragsparteien, die einem Investor nicht erlauben, dieselbe Streitigkeit später nach Artikel 26 erneut einem internationalen Schiedsgericht vorzulegen
 
-[^t-12]: Ursprünglich 6. Anlage.
+[^t-11]: Ursprünglich 6. Anlage.
 
 (nach Art. 26 Abs. 3 Bst. b Ziff. i)
 
@@ -1556,11 +1555,11 @@ Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmass
 
 \24. Vereinigte Staaten von Amerika
 
-\10. Anlage IA*[^t-13]*
+\10. Anlage IA[^t-12]
 
 ## Liste der Vertragsparteien, die einem Investor oder einer Vertragspartei nicht erlauben, eine Streitigkeit über den letzten Satz des Artikels 10 Absatz 1 einem internationalen Schiedsgericht vorzulegen
 
-[^t-13]: Ursprünglich 7. Anlage.
+[^t-12]: Ursprünglich 7. Anlage.
 
 (nach Art. 26 Abs. 3 Bst. c und Art. 27 Abs. 2)
 
@@ -1572,11 +1571,11 @@ Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmass
 
 \4. Norwegen
 
-\11. Anlage P*[^t-14]*
+\11. Anlage P[^t-13]
 
 ## Besonderes Verfahren der Streitbeilegung für regionale und örtliche Regierungs- und Verwaltungsstellen
 
-[^t-14]: Ursprünglich 8. Anlage.
+[^t-13]: Ursprünglich 8. Anlage.
 
 (nach Art. 27 Abs. 3 Bst. i)
 
@@ -1605,11 +1604,11 @@ Teil II
 
 (7) Mit der Aussetzung der Erfüllung von Pflichten gegenüber einer verantwortlichen Partei bemüht sich die geschädigte Partei nach Kräften, die Rechte einer anderen Vertragspartei aus diesem Vertrag nicht zu beeinträchtigen.
 
-\12. Anlage W*[^t-15]*
+\12. Anlage W[^t-14]
 
 ## Ausnahmen und Regeln für die Anwendung des WTO-Übereinkommens
 
-[^t-15]: Ursprünglich 9. Anlage G. Fassung gemäss Art. 4 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-14]: Ursprünglich 9. Anlage G. Fassung gemäss Art. 4 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (nach Art. 29 Abs. 2 Bst. a)
 
@@ -1906,11 +1905,11 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 - Der nach diesem Absatz an die Chartakonferenz gerichtete Antrag ist innerhalb von sechs Monaten zu stellen, nachdem das Sekretariat den Vertragsparteien notifiziert hat, dass die Änderung im Rahmen des WTO-Übereinkommens wirksam geworden ist.
 - c) Von der WTO angenommene Auslegungen, Änderungen und neue Übereinkünfte, die nicht zu den nach den Buchstaben a und b anwendbaren Auslegungen und Änderungen gehören, finden keine Anwendung.»
 
-\13. Anlage TFU*[^t-16]*
+\13. Anlage TFU[^t-15]
 
 ## Bestimmungen über Handelsübereinkünfte zwischen Staaten der früheren Union der Sozialistischen Sowjetrepubliken
 
-[^t-16]: Ursprünglich Anlage 10.
+[^t-15]: Ursprünglich Anlage 10.
 
 (nach Art. 29 Abs. 2 Bst. b)
 
@@ -1935,7 +1934,15 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 (6) Vertragsparteien, die Vertragsparteien einer in Artikel 29 Absatz 2 Buchstabe b beschriebenen Übereinkunft sind oder werden, verpflichten sich, deren Nichtübereinstimmung mit den durch Artikel 29 Absatz 2 Buchstabe a anwendbar gemachten Bestimmungen des WTO-Übereinkommens so weit zu begrenzen, wie notwendig ist, um den besonderen Umständen gerecht zu werden und die betreffende Übereinkunft so umzusetzen, dass von den Bestimmungen so wenig wie möglich abgewichen wird. Sie unternehmen alle Anstrengungen, im Licht der Stellungnahmen seitens der interessierten Parteien und der Empfehlungen der Chartakonferenz Abhilfe zu schaffen.
 
-\14. Anlage BR*[^t-17]*
+\14. Anlage BR[^t-16]
+
+## Liste der Vertragsparteien, die ihre Zölle und sonstigen Abgaben nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus erhöhen
+
+[^t-16]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+
+(nach Art. 29 Abs. 7)
+
+\15. Anlage BRQ[^t-17]
 
 ## Liste der Vertragsparteien, die ihre Zölle und sonstigen Abgaben nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus erhöhen
 
@@ -1943,19 +1950,11 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 (nach Art. 29 Abs. 7)
 
-\15. Anlage BRQ*[^t-18]*
-
-## Liste der Vertragsparteien, die ihre Zölle und sonstigen Abgaben nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus erhöhen
-
-[^t-18]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-
-(nach Art. 29 Abs. 7)
-
-\16. Anlage D*[^t-19]*
+\16. Anlage D[^t-18]
 
 ## Einstweilige Bestimmungen über die Beilegung von Handelsstreitigkeiten
 
-[^t-19]: Ursprünglich 11. Anlage. Bereinigt gemäss Art. 3 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-18]: Ursprünglich 11. Anlage. Bereinigt gemäss Art. 3 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 nach Art. 29 Abs. 9
 
@@ -2005,11 +2004,11 @@ nach Art. 29 Abs. 9
 - b) Wird festgestellt, dass eine Massnahme Vorteile nach Artikel 29 zunichte macht oder verringert, ohne gegen Artikel 29 zu verstossen, so besteht keine Verpflichtung, sie zurückzunehmen; in diesem Fall empfiehlt das Panel der betreffenden Vertragspartei jedoch, eine beide Seiten zufriedenstellende Anpassung vorzunehmen.
 - c) Das unter Absatz 6 Buchstabe b vorgesehene Schiedspanel kann auf Antrag einer Vertragspartei bestimmen, in welcher Höhe die Vorteile zunichte gemacht oder verringert worden sind, und Mittel und Wege zu einer beide Seiten zufriedenstellenden Anpassung vorschlagen; ein solcher Vorschlag ist für die an der Streitigkeit beteiligten Vertragsparteien nicht bindend.
 
-\17. Anlage B*[^t-20]*
+\17. Anlage B[^t-19]
 
 ## Verteilungsschlüssel für die Chartakosten
 
-[^t-20]: Ursprünglich Anlage 12.
+[^t-19]: Ursprünglich Anlage 12.
 
 (nach Art. 37 Abs. 3)
 
@@ -2017,11 +2016,11 @@ nach Art. 29 Abs. 9
 
 (2) Die Beiträge werden nach Bedarf so angepasst, dass sichergestellt ist, dass die Gesamtsumme aller Beiträge der Vertragsparteien 100 % beträgt.
 
-\18. Anlage PA*[^t-21]*
+\18. Anlage PA[^t-20]
 
 ## Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung aus Artikel 45 Absatz 3 Buchstabe b nicht annehmen
 
-[^t-21]: Ursprünglich Anlage 13.
+[^t-20]: Ursprünglich Anlage 13.
 
 (nach Art. 45 Abs. 3 Bst. c)
 
@@ -2037,11 +2036,11 @@ nach Art. 29 Abs. 9
 
 \6. Slowakische Republik
 
-\19. Anlage T*[^t-22]*
+\19. Anlage T[^t-21]
 
 ## Übergangsmassnahmen der Vertragsparteien
 
-[^t-22]: Ursprünglich Anlage 14.
+[^t-21]: Ursprünglich Anlage 14.
 
 (nach Art. 32 Abs. 1)
 
@@ -2353,7 +2352,7 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (Es folgen die Unterschriften)
 
-### Vorläufige Anwendung****
+### Vorläufige Anwendung
 
 [^annex19T-lvlu3-lvlu8-1]
 
@@ -2370,7 +2369,7 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (3) Die Unterzeichner und Vertragsparteien können die vorläufige Anwendung dieser Änderung durch eine schriftliche Notifikation an den Verwahrer beenden, in der sie ihre Absicht bekunden, diese Änderung nicht zu ratifizieren, anzunehmen oder zu genehmigen. Die Beendigung der vorläufigen Anwendung wird für die betreffenden Unterzeichner und Vertragsparteien 60 Tage nach Eingang ihrer schriftlichen Notifikation beim Verwahrer wirksam. Die Beendigung der vorläufigen Anwendung des Vertrags über die Energiecharta nach Artikel 45 Absatz 3 Buchstabe a durch einen Unterzeichner gilt mit Wirkung vom gleichen Tag auch als Beendigung der vorläufigen Anwendung dieser Änderung.
 
-### Status der Beschlüsse****
+### Status der Beschlüsse
 
 [^annex19T-lvlu3-lvlu9-1]
 
@@ -2378,88 +2377,60 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse sind Bestandteil des Vertrags über die Energiecharta.
 
-### Geltungsbereich am 21. Januar 2010****
+### Geltungsbereich am 11. April 2024
 
 [^annex19T-lvlu3-lvlu10-1]
 
-[^annex19T-lvlu3-lvlu10-1]: Eine aktualisierte Fassung des Geltungsbereichs findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^annex19T-lvlu3-lvlu10-1]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 <table>
-<tr><th colspan="3">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="3">Albanien</td><td colspan="2">12. Februar</td><td colspan="2">1998</td><td>13. Mai</td><td>1998</td></tr>
-<tr><td colspan="3">Armenien</td><td colspan="2">19. Januar</td><td colspan="2">1998</td><td>19. April</td><td>1998</td></tr>
-<tr><td colspan="3">Aserbaidschan</td><td colspan="2">23. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Belgien</td><td colspan="2">8. Mai</td><td colspan="2">1998</td><td>6. August</td><td>1998</td></tr>
-<tr><td colspan="3">Bosnien und Herzegowina</td><td colspan="2">17. Mai</td><td colspan="2">2001</td><td>16. August</td><td>2001</td></tr>
-<tr><td colspan="3">Bulgarien</td><td colspan="2">15. November</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Dänemark</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Deutschland</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Estland</td><td colspan="2">4. Mai</td><td colspan="2">1998</td><td>2. August</td><td>1998</td></tr>
-<tr><td colspan="3">Europäische Gemeinschaft</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Finnland</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Frankreich</td><td colspan="2">28. September</td><td colspan="2">1999</td><td>27. Dezember</td><td>1999</td></tr>
-<tr><td colspan="3">Georgien</td><td colspan="2">12. Juli</td><td colspan="2">1995</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Griechenland</td><td colspan="2">4. September</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Irland</td><td colspan="2">15. April</td><td colspan="2">1999</td><td>14. Juli</td><td>1999</td></tr>
-<tr><td colspan="3">Italien\*</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Japan</td><td colspan="2">23. Juli</td><td colspan="2">2002</td><td>21. Oktober</td><td>2002</td></tr>
-<tr><td colspan="3">Kasachstan</td><td colspan="2">6. August</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Kirgisistan</td><td colspan="2">7. Juli</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Kroatien</td><td colspan="2">9. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Lettland</td><td colspan="2">15. Januar</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Liechtenstein</td><td colspan="2">12. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Litauen</td><td colspan="2">14. September</td><td colspan="2">1998</td><td>13. Dezember</td><td>1998</td></tr>
-<tr><td colspan="3">Luxemburg</td><td colspan="2">27. November</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Malta</td><td colspan="2">10. Juni</td><td colspan="2">2001</td><td>9. September</td><td>2001</td></tr>
-<tr><td colspan="3">Mazedonien</td><td colspan="2">27. März</td><td colspan="2">1998 B</td><td>25. Juni</td><td>1998</td></tr>
-<tr><td colspan="3">Moldau</td><td colspan="2">22. Juni</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Mongolei</td><td colspan="2">19. November</td><td colspan="2">1999 B</td><td>17. Februar</td><td>2000</td></tr>
-<tr><td colspan="3">Niederlande</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Österreich</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Polen\*</td><td colspan="2">24. April</td><td colspan="2">2001</td><td>23. Juli</td><td>2001</td></tr>
-<tr><td colspan="3">Portugal</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Rumänien</td><td colspan="2">12. August</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Schweden</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Schweiz</td><td colspan="2">19. September</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Slowakei</td><td colspan="2">16. Oktober</td><td colspan="2">1995</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Slowenien</td><td colspan="2">10. September</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Spanien</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Tadschikistan</td><td colspan="2">25. Juni</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Tschechische Republik</td><td colspan="2">17. Juni</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Türkei</td><td colspan="2">5. April</td><td colspan="2">2001</td><td>4. Juli</td><td>2001</td></tr>
-<tr><td colspan="3">Turkmenistan</td><td colspan="2">17. Juli</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Ukraine</td><td colspan="2">29. Oktober</td><td colspan="2">1998</td><td>27. Januar</td><td>1999</td></tr>
-<tr><td colspan="3">Ungarn</td><td colspan="2">8. April</td><td colspan="2">1998</td><td>7. Juli</td><td>1998</td></tr>
-<tr><td colspan="3">Usbekistan</td><td colspan="2">12. März</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Vereinigtes Königreich</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">[tab] Insel Man</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">[tab] Jersey</td><td colspan="2">16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="3">Zypern</td><td colspan="2">16. Januar</td><td colspan="2">1998</td><td>16. April</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="8">Erklärungen siehe hiernach.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>22. März</td><td>2013 B</td><td>20. Juni</td><td>2013</td></tr>
+<tr><td>Albanien</td><td>12. Februar</td><td>1998</td><td>13. Mai</td><td>1998</td></tr>
+<tr><td>Armenien</td><td>19. Januar</td><td>1998</td><td>19. April</td><td>1998</td></tr>
+<tr><td>Aserbaidschan</td><td>23. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Belgien</td><td>8. Mai</td><td>1998</td><td>6. August</td><td>1998</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>17. Mai</td><td>2001</td><td>16. August</td><td>2001</td></tr>
+<tr><td>Bulgarien</td><td>15. November</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Dänemark</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Estland</td><td>4. Mai</td><td>1998</td><td>2. August</td><td>1998</td></tr>
+<tr><td>Europäische Atomgemeinschaft (Euratom)</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Europäische Union (EU)</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Finnland</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Georgien</td><td>12. Juli</td><td>1995</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Griechenland</td><td>4. September</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Irland</td><td>15. April</td><td>1999</td><td>14. Juli</td><td>1999</td></tr>
+<tr><td>Island</td><td>20. Juli</td><td>2015</td><td>18. Oktober</td><td>2015</td></tr>
+<tr><td>Japan</td><td>23. Juli</td><td>2002</td><td>21. Oktober</td><td>2002</td></tr>
+<tr><td>Jemen</td><td>31. Oktober</td><td>2018 B</td><td>29. Januar</td><td>2019</td></tr>
+<tr><td>Jordanien</td><td>12. September</td><td>2018 B</td><td>11. Dezember</td><td>2018</td></tr>
+<tr><td>Kasachstan</td><td>6. August</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Kirgisistan</td><td>7. Juli</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Kroatien</td><td>9. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Lettland</td><td>15. Januar</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Liechtenstein</td><td>12. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Litauen</td><td>14. September</td><td>1998</td><td>13. Dezember</td><td>1998</td></tr>
+<tr><td>Malta</td><td>30. Mai</td><td>2001</td><td>28. August</td><td>2001</td></tr>
+<tr><td>Moldau</td><td>22. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Mongolei</td><td>19. November</td><td>1999 B</td><td>17. Februar</td><td>2000</td></tr>
+<tr><td>Montenegro</td><td>8. September</td><td>2015 B</td><td>7. Dezember</td><td>2015</td></tr>
+<tr><td>Niederlande</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Nordmazedonien</td><td>27. März</td><td>1998 B</td><td>25. Juni</td><td>1998</td></tr>
+<tr><td>Österreich</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Rumänien</td><td>12. August</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Schweden</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Schweiz</td><td>19. September</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Slowakei</td><td>16. Oktober</td><td>1995</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Spanien</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Tadschikistan</td><td>25. Juni</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Tschechische Republik</td><td>17. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Türkei</td><td>5. April</td><td>2001</td><td>4. Juli</td><td>2001</td></tr>
+<tr><td>Turkmenistan</td><td>17. Juli</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Ukraine</td><td>29. Oktober</td><td>1998</td><td>27. Januar</td><td>1999</td></tr>
+<tr><td>Ungarn</td><td>8. April</td><td>1998</td><td>7. Juli</td><td>1998</td></tr>
+<tr><td>Usbekistan</td><td>12. März</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>[tab] Insel Man</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>[tab] Jersey</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Zypern</td><td>16. Januar</td><td>1998</td><td>16. April</td><td>1998</td></tr>
 </table>
-
-### Erklärungen
-
-Italien
-
-Italien erklärt nach Artikel 26 Absatz 3 Buchstabe b) Ziffer ii), dass es nicht zustimmt, dass eine Streitigkeit zwischen einem Investor und einer Vertragspartei Gegenstand eines internationalen Schieds- oder Vergleichsverfahrens bildet, wenn der Investor bereits:
-
-- a) in dieser Streitigkeit italienische Gerichte oder Verwaltungsgerichte angerufen hat; oder
-- b) ein vorher festgelegtes Streitschlichtungsverfahren eingeleitet hat, das auf die Streitigkeit anwendbar ist.
-
-Diesbezüglich sind zwei Fälle zu unterscheiden:
-
-- 1) wenn das Urteil über die Streitigkeit noch bei den internen Gerichts- oder Vergleichsbehörden hängig ist, kann der Investor sich unter Verzicht auf prozessuale oder andere Handlungen vom Prozess oder Vergleichsverfahren zurückziehen und andere Formen der Streitschlichtung anrufen;
-- 2) wenn das Urteil, oder wenigstens eine vollstreckbare Feststellung, bereits vorliegen, ist ein internationales Schieds- oder Vergleichsverfahren nicht mehr möglich.
-
-Die obigen Feststellungen sind begründet erstens im Prinzip «ne bis in idem» (es muss vermieden werden, dass in derselben Sache zwei Entscheide gefällt werden: ein Schiedsspruch und ein Gerichtsurteil), und zweitens im Prinzip der «*res judi**cata*», welches die Parteien ebenfalls in ihren Beziehungen bindet, es sei denn, es werde von den normalen Rechtsmitteln innerhalb oder ausserhalb des Verfahrens Gebrauch gemacht.
-
-Polen
-
-Artikel 26, Absatz 3, Buchstabe (b) (ii) des Vertrags über die Energiecharta lautet folgendermassen:
-
-«Die Republik Polen hat beschlossen, Anhang ID des Vertrags beizutreten und somit nicht bedingungslos zu gestatten, dass Streitigkeiten zwischen einem ausländischen Anleger und der Republik Polen einem internationalen Schieds- oder Vergleichsgericht unterbreitet wird, falls dieser Streitfall bereits vor einen zuständigen Gerichtshof oder ein Verwaltungsgericht in Polen gebracht wurde oder Gegenstand eines im voraus vereinbarten Schiedsverfahrens im Hinblick auf die Regelung des Streitfalls war.
-
-Die obige Stellungnahme beruht auf dem Grundsatz, dass zwei Urteile zur Beilegung ein und desselben Streitfalls zu vermeiden sind. Nach der polnischen Zivilprozessordnung (ZPO) schließt das Einreichen der Klage beim Gericht erster Instanz automatisch die Möglichkeit aus, im Rahmen eines anderen Verfahrens Rechtsschutz zu erwirken. Gemäß Artikel 203 ZPO kann die Klage ohne die Zustimmung der beklagten Partei noch vor Beginn der Verhandlung zurückgezogen werden, es sei denn, dieser Rückzug käme einer Verzichtserklärung in Bezug auf die Klage gleich. In diesem Falle ist der Rückzug der Klage noch bis zur Urteilsverkündung möglich. Artikel 711 ZPO besagt, dass ein vom Schiedsgericht erlassenes Urteil genau dieselbe Rechtskraft wie ein Gerichtsurteil besitzt, sobald das Gericht seine Vollstreckbarkeit erklärt hat. Eine solche Entscheidung des Schiedsgerichts ist endgültig, was so viel bedeutet wie dass es keine Rekursmöglichkeiten gibt. Artikel 1105, Absatz 2 ZPO sieht die Möglichkeit vor, aufgrund einer Vereinbarung die Rechtsprechung durch polnische Gerichte zugunsten eines im Ausland zusammengetretenen Schiedsgerichts auszuschließen. Nach Absatz 3 dieses Artikels wird das polnische Gericht eine solche Vereinbarung zugunsten eines ausländischen Schiedsgerichts nur anerkennen, wenn die beklagte Partei eine ordentlich gerechtfertigte Klageschrift einreicht, bevor sie zum Wesentlichen des Streitfalls kommt.
-
-Polen ist ferner Mitglied der New Yorker Übereinkunft über die Anerkennung und Vollstreckbarkeit ausländischer Schiedsgerichtsurteile vom 10. Juni 1958.»

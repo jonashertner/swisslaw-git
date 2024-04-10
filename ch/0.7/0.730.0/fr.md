@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2010-01-21
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20100121/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20100121-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20100121/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(Etat le 21 janvier 2010)
+(État le 11 avril 2024)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
-Préambule
+*Préambule*
 
 Les parties contractantes au présent traité,
 
@@ -54,7 +54,7 @@ considérant également le Traité sur la non-prolifération des armes nucléair
 
 reconnaissant la nécessité d’accroître au maximum l’efficacité de l’exploration, de la production, de la conversion, du stockage, du transport, de la distribution et de l’utilisation de l’énergie;
 
-rappelant la Convention-cadre des Nations Unies sur les changements climatiques[^ingress-6], la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-7] et ses protocoles, ainsi que d’autres accords internationaux en matière d’environnement comportant des aspects liés à l’énergie; et
+rappelant la Convention-cadre des Nations Unies sur les changements climatiques[^ingress-6], la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-7] et ses protocoles, ainsi que d’autres accords internationaux en matière d’environnement comportant des aspects liés à l’énergie, et
 
 reconnaissant qu’il est de plus en plus urgent de prendre des mesures visant à protéger l’environnement, y compris des mesures concernant le déclassement des installations énergétiques et l’élimination des déchets, et d’adopter, à l’échelon international, des objectifs et des critères à ces fins,
 
@@ -77,10 +77,10 @@ sont convenus de ce qui suit:
 Tels qu’ils sont employés dans le présent traité, les termes qui suivent ont la signification indiquée ci-après:
 
 - 1) «Charte» désigne la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991; la signature du document de clôture est considérée comme valant signature de la Charte.
-- 2) «Partie contractante» désigne tout Etat ou toute organisation d’intégration économique régionale qui a accepté d’être lié par le présent traité et à l’égard duquel ou de laquelle celui-ci est en vigueur.
-- 3) «Organisation d’intégration économique régionale» désigne toute organisation constituée par des Etats à laquelle ils ont transféré des compétences dans des domaines déterminés, dont certains sont régis par le présent traité, y compris le pouvoir de prendre des décisions qui les lient dans ces domaines.
+- 2) «Partie contractante» désigne tout État ou toute organisation d’intégration économique régionale qui a accepté d’être lié par le présent traité et à l’égard duquel ou de laquelle celui-ci est en vigueur.
+- 3) «Organisation d’intégration économique régionale» désigne toute organisation constituée par des États à laquelle ils ont transféré des compétences dans des domaines déterminés, dont certains sont régis par le présent traité, y compris le pouvoir de prendre des décisions qui les lient dans ces domaines.
 - 4) [^1-1] «Matières et produits énergétiques», selon le système harmonisé de l’Organisation mondiale des douanes et la nomenclature combinée des Communautés européennes, désigne les éléments figurant aux annexes EM I ou EM II.
-- 4<sup>bis</sup>)[^1-2] «Equipements liés à l’énergie», selon le système harmonisé de l’Organisation mondiale des douanes désigne les éléments figurant aux annexes EQ I ou EQ II.
+- 4<sup>bis</sup>)[^1-2] «Équipements liés à l’énergie», selon le système harmonisé de l’Organisation mondiale des douanes désigne les éléments figurant aux annexes EQ I ou EQ II.
 - 5) «Activité économique du secteur de l’énergie» désigne toute activité économique relative à l’exploitation, à l’extraction, au raffinage, à la production, au stockage, au transport terrestre, à la transmission, à la distribution, à l’échange, à la commercialisation et à la vente de matières ou de produits énergétiques, exceptés ceux qui figurent à l’annexe Nl, ou relative à la diffusion de chaleur dans des locaux multiples.
 - 6)
 
@@ -106,18 +106,18 @@ Tels qu’ils sont employés dans le présent traité, les termes qui suivent on
     - i) toute personne physique jouissant de la citoyenneté ou de la nationalité de cette partie contractante, ou résidant en permanence sur son territoire conformément à sa législation applicable;
     - ii) toute entreprise ou autre organisation organisée conformément à la législation applicable sur le territoire de cette partie contractante;
 
-  - b) en ce qui concerne un «Etat tiers», toute personne physique, entreprise ou organisation qui remplit, mutatis mutandis, les conditions énoncées au point a) pour une partie contractante.
+  - b) en ce qui concerne un «État tiers», toute personne physique, entreprise ou organisation qui remplit, mutatis mutandis, les conditions énoncées au point a) pour une partie contractante.
 
 - 8) «Investir» ou «réaliser des investissements» désigne le fait de réaliser de nouveaux investissements, en acquérant tout ou partie des investissements existants ou en se tournant vers d’autres domaines d’activités d’investissement.
 - 9) «Rendement» désigne les revenus qui découlent d’un investissement ou qui y sont associés, quelle que soit la forme sous laquelle le paiement est effectué, y compris les profits, dividendes, intérêts, plus-values, royalties, frais de gestion, d’assistance technique ou tout autre droit ou paiement en nature.
 - 10)
 
-  «Zone» désigne, par rapport à un Etat qui est partie contractante:
+  «Zone» désigne, par rapport à un État qui est partie contractante:
 
-  - a) le territoire qui relève de sa souveraineté, étant entendu que ce territoire inclut les terres, les eaux intérieures et les eaux territoriales; et
+  - a) le territoire qui relève de sa souveraineté, étant entendu que ce territoire inclut les terres, les eaux intérieures et les eaux territoriales, et
   - b) sous réserve du droit international de la mer et en conformité avec celui-ci: la mer, les fonds marins et leur sous-sol sur lesquels cette partie contractante exerce des droits souverains et sa juridiction.
 
-- En ce qui concerne les organisations d’intégration économique régionale qui sont parties contractantes, on entend par «zone» la zone des Etats membres de cette organisation conformément aux dispositions contenues dans l’acte constitutif de cette organisation.
+- En ce qui concerne les organisations d’intégration économique régionale qui sont parties contractantes, on entend par «zone» la zone des États membres de cette organisation conformément aux dispositions contenues dans l’acte constitutif de cette organisation.
 - 11)[^1-3]a) «OMC» désigne l’Organisation mondiale du commerce instituée par l’accord instituant l’Organisation mondiale du commerce.
 - b) «Accord OMC» désigne l’accord instituant l’Organisation mondiale du commerce, ses annexes et les décisions, déclarations et mémorandums d’accord d’interprétation y relatifs, tels que corrigés, amendés ou modifiés ultérieurement.
 - c) «GATT 1994» désigne l’accord général sur les tarifs douaniers et le commerce tel que spécifié à l’annexe 1A de l’accord instituant l’Organisation mondiale du commerce, tel que corrigé, amendé ou modifié ultérieurement.
@@ -166,11 +166,11 @@ Aucune disposition du présent traité ne déroge, dans les relations entre part
 
 Les mesures en question comprennent toute mesure d’investissement qui est obligatoire ou exécutable en vertu du droit national ou de tout règlement administratif, ou dont le respect est nécessaire pour l’obtention d’un avantage, et qui requiert:
 
-- a) l’achat ou l’utilisation par une entreprise de produits d’origine nationale ou de toute autre source nationale, que ce soit en termes de produits particuliers, en termes de volume ou de valeur des produits, ou en termes de proportion de volume ou de valeur de sa production locale; ou
+- a) l’achat ou l’utilisation par une entreprise de produits d’origine nationale ou de toute autre source nationale, que ce soit en termes de produits particuliers, en termes de volume ou de valeur des produits, ou en termes de proportion de volume ou de valeur de sa production locale, ou
 - b) un achat ou une utilisation, par une entreprise, de produits ou services importés qui soient limités à un montant proportionnel au volume ou à la valeur des produits ou services locaux qu’il exporte,
 - ou qui restreint:
 - c) l’importation, par une entreprise, de produits utilisés dans sa production locale ou en rapport avec elle de façon générale ou à un montant proportionnel au volume ou à la valeur de la production locale qu’elle exporte;
-- d) l’importation, par une entreprise, de produits ou services utilisés dans sa production locale ou en rapport avec celle-ci, l’accès de l’entreprise étant limité au change pour un montant proportionnel à l’afflux de devises étrangères qui est attribuable à celle-ci; ou
+- d) l’importation, par une entreprise, de produits ou services utilisés dans sa production locale ou en rapport avec celle-ci, l’accès de l’entreprise étant limité au change pour un montant proportionnel à l’afflux de devises étrangères qui est attribuable à celle-ci, ou
 - e) l’exportation ou la vente pour exportation de produits par une entreprise, que ce soit en termes de produits particuliers, en termes de volume ou de valeur des produits ou en termes d’une proportion du volume ou de la valeur de sa production locale.
 
 <sup>3.</sup> Aucune disposition du par. 1 ne peut être interprétée comme empêchant une partie contractante d’appliquer les mesures d’investissement liées au commerce décrites au par. 2, points a) et c) en tant que condition d’éligibilité à la promotion des exportations, à l’aide étrangère, aux marchés publics ou aux programmes de tarifs ou de quotas préférentiels.
@@ -222,7 +222,7 @@ Les parties contractantes garantissent, sous réserve des par. 6 et 7, le transi
 
 Une partie contractante dans la zone de laquelle transitent des matières et produits énergétiques n’est pas tenue:
 
-- a) de permettre la construction ou la modification d’équipements de transport d’énergie; ou
+- a) de permettre la construction ou la modification d’équipements de transport d’énergie, ou
 - b) de permettre d’autres transits ou des transits supplémentaires utilisant les équipements de transport d’énergie existants,
 
 <sup>6.</sup> Une partie contractante dans la zone de laquelle transitent des matières et produits énergétiques s’abstient, en cas de différend portant sur une question quelconque soulevée par ce transit, d’interrompre ou de réduire le flux existant de matières et produits énergétiques, ou de permettre à toute entité soumise à son contrôle ou d’enjoindre à une entité relevant de sa juridiction d’interrompre ou de réduire ce flux, avant l’achèvement des procédures de règlement de différend décrites au par. 7, sauf si cela est expressément prévu par un contrat ou un autre accord régissant ce transit ou autorisé en conformité avec la décision du conciliateur.
@@ -250,10 +250,10 @@ Aux fins du présent article:
 
   «Transit» désigne:
 
-  - i) le transport, à travers la zone d’une partie contractante ou à destination ou en provenance des installations portuaires situées dans sa zone à des fins de chargement ou de déchargement, de produits et matières énergétiques originaires de la zone d’un autre Etat et destinés à la zone d’un troisième Etat, pour autant que l’autre Etat ou le troisième Etat soit une partie contractante; ou
+  - i) le transport, à travers la zone d’une partie contractante ou à destination ou en provenance des installations portuaires situées dans sa zone à des fins de chargement ou de déchargement, de produits et matières énergétiques originaires de la zone d’un autre État et destinés à la zone d’un troisième État, pour autant que l’autre État ou le troisième État soit une partie contractante, ou
   - ii) le transport, à travers la zone d’une partie contractante, de produits et matières énergétiques originaires de la zone d’une autre partie contractante et destinés à la zone de cette autre partie contractante, sauf si les deux parties contractantes concernées en décident autrement et qu’elles enregistrent leur décision par une inscription commune à l’annexe N. Les deux parties contractantes peuvent supprimer leur inscription à l’annexe N en notifiant conjointement, par écrit, leur intention au Secrétariat, qui transmet cette notification à toutes les autres parties contractantes. La suppression prend effet quatre semaines après cette notification.
 
-- b) «Equipements de transport d’énergie» désigne les gazoducs à haute pression, les réseaux et lignes de transmission d’électricité à haute tension, les oléoducs pour pétrole brut, les conduites pour l’acheminement de boues de charbon, les conduites pour produits pétroliers et tous autres équipements fixes spécifiquement destinés à la manutention de matières et produits énergétiques.
+- b) «Équipements de transport d’énergie» désigne les gazoducs à haute pression, les réseaux et lignes de transmission d’électricité à haute tension, les oléoducs pour pétrole brut, les conduites pour l’acheminement de boues de charbon, les conduites pour produits pétroliers et tous autres équipements fixes spécifiquement destinés à la manutention de matières et produits énergétiques.
 
 #### Art. 8
 
@@ -277,12 +277,12 @@ Aux fins du présent article:
 
 Aucune disposition du présent article n’empêche:
 
-- a) les institutions financières d’appliquer leurs pratiques de prêts ou de garanties fondées sur les principes du marché et les considérations prudentielles; ou
+- a) les institutions financières d’appliquer leurs pratiques de prêts ou de garanties fondées sur les principes du marché et les considérations prudentielles, ou
 - b)
 
   une partie contractante de prendre des mesures:
 
-  - i) pour des raisons prudentielles, y compris pour assurer la protection des investisseurs, des consommateurs, des déposants, des titulaires de police ou des personnes bénéficiant d’une obligation fiduciaire de la part d’un prestataire de services financiers; ou
+  - i) pour des raisons prudentielles, y compris pour assurer la protection des investisseurs, des consommateurs, des déposants, des titulaires de police ou des personnes bénéficiant d’une obligation fiduciaire de la part d’un prestataire de services financiers, ou
   - ii) pour assurer l’intégralité et la stabilité du système financier et des marchés des capitaux.
 
 ## Partie III Promotion et protection des investissements
@@ -295,9 +295,9 @@ Aucune disposition du présent article n’empêche:
 
 <sup>2.</sup> Chaque partie contractante s’efforce d’accorder aux investisseurs des autres parties contractantes, en ce qui concerne la réalisation d’investissements dans sa zone, le traitement défini au par. 3.
 
-<sup>3.</sup> Aux fins du présent article, on entend par «traitement» le traitement qui est accordé par une partie contractante et qui n’est pas moins favorable que celui qu’elle accorde à ses propres investisseurs ou aux investisseurs de toute autre partie contractante ou de tout Etat tiers, le traitement à retenir étant celui qui est le plus favorable.
+<sup>3.</sup> Aux fins du présent article, on entend par «traitement» le traitement qui est accordé par une partie contractante et qui n’est pas moins favorable que celui qu’elle accorde à ses propres investisseurs ou aux investisseurs de toute autre partie contractante ou de tout État tiers, le traitement à retenir étant celui qui est le plus favorable.
 
-<sup>4.</sup> Un traité complémentaire obligera toute partie à celui-ci, aux conditions qui y seront stipulées, à accorder aux investisseurs des autres parties, pour la réalisation d’investissements dans sa zone, le traitement défini au par. 3. Ce traité sera ouvert à la signature des Etats et des organisations d’intégration économique régionale qui ont signé le présent traité ou y ont adhéré. Les négociations relatives à ce traité complémentaire commenceront au plus tard le 1<sup>er</sup> janvier 1995, la conclusion de celui-ci étant prévue d’ici au 1<sup>er</sup> janvier 1998.
+<sup>4.</sup> Un traité complémentaire obligera toute partie à celui-ci, aux conditions qui y seront stipulées, à accorder aux investisseurs des autres parties, pour la réalisation d’investissements dans sa zone, le traitement défini au par. 3. Ce traité sera ouvert à la signature des États et des organisations d’intégration économique régionale qui ont signé le présent traité ou y ont adhéré. Les négociations relatives à ce traité complémentaire commenceront au plus tard le 1<sup>er</sup> janvier 1995, la conclusion de celui-ci étant prévue d’ici au 1<sup>er</sup> janvier 1998.
 
 <sup>5.</sup>
 
@@ -308,7 +308,7 @@ Chaque partie contractante s’efforce, en ce qui concerne la réalisation d’i
 - 6\. a) Une partie contractante peut, en ce qui concerne la réalisation d’investissements dans sa zone, déclarer volontairement à tout moment à la Conférence de la Charte, par l’intermédiaire du Secrétariat, qu’elle a l’intention de ne pas introduire de nouvelles exceptions au traitement défini au par. 3.
 - b) En outre, une partie contractante peut à tout moment s’engager volontairement à accorder aux investisseurs des autres parties contractantes pour la réalisation, dans sa zone, d’investissements portant sur certaines ou l’ensemble des activités économiques du secteur de l’énergie, le traitement défini au par. 3. Ces engagements sont notifiés au Secrétariat et consignés à l’annexe VC et sont contraignants dans le cadre du présent traité.
 
-<sup>7.</sup> Chaque partie contractante accorde aux investissements réalisés dans sa zone par des investisseurs d’autres parties contractantes, ainsi qu’à leurs activités connexes, y compris leur gestion, entretien, utilisation, jouissance ou disposition, un traitement aussi favorable que celui qu’elle accorde aux investissements de ses propres investisseurs ou des investisseurs de toute autre partie contractante ou de tout Etat tiers, ainsi qu’à leur gestion, entretien, utilisation, jouissance ou disposition, le traitement à retenir étant celui qui est le plus favorable.
+<sup>7.</sup> Chaque partie contractante accorde aux investissements réalisés dans sa zone par des investisseurs d’autres parties contractantes, ainsi qu’à leurs activités connexes, y compris leur gestion, entretien, utilisation, jouissance ou disposition, un traitement aussi favorable que celui qu’elle accorde aux investissements de ses propres investisseurs ou des investisseurs de toute autre partie contractante ou de tout État tiers, ainsi qu’à leur gestion, entretien, utilisation, jouissance ou disposition, le traitement à retenir étant celui qui est le plus favorable.
 
 <sup>8.</sup> Les modalités d’application du par. 7 dans le cadre des programmes en vertu desquels une partie contractante octroie une subvention ou une autre aide financière ou passe un contrat de recherche et de développement technologique dans le domaine de l’énergie sont réservées au traité complémentaire visé au par. 4. Chaque partie contractante informe la Conférence de la Charte, par l’intermédiaire du Secrétariat, des modalités qu’elle applique aux programmes visés au présent paragraphe.
 
@@ -318,9 +318,9 @@ En ce qui concerne le point a), le rapport peut indiquer les segments du secteur
 
 En ce qui concerne le point b), l’examen effectué par la Conférence de la Charte peut considérer les effets des programmes en question sur la concurrence et les investissements.
 
-Chaque Etat ou organisation d’intégration économique régionale qui signe le présent traité ou y adhère présente au Secrétariat, à la date à laquelle il signe le traité ou dépose son instrument d’adhésion, un rapport résumant l’ensemble des dispositions législatives, réglementaires ou autres relatives:
+Chaque État ou organisation d’intégration économique régionale qui signe le présent traité ou y adhère présente au Secrétariat, à la date à laquelle il signe le traité ou dépose son instrument d’adhésion, un rapport résumant l’ensemble des dispositions législatives, réglementaires ou autres relatives:
 
-- a) aux exceptions au par. 2; ou
+- a) aux exceptions au par. 2, ou
 - b) aux programmes visés au par. 8.
 
 <sup>10.</sup> Nonobstant les autres dispositions du présent article, le traitement défini aux par. 3 et 7 ne s’applique pas à la protection de la propriété intellectuelle; le traitement entrant en ligne de compte est celui qui est prévu par les dispositions correspondantes des accords internationaux applicables à la protection des droits de propriété intellectuelle auxquelles les parties contractantes respectives sont parties.
@@ -341,13 +341,13 @@ Chaque Etat ou organisation d’intégration économique régionale qui signe le
 
 **Compensation pour perte**
 
-<sup>1.</sup> Sauf dans le cas où l’art. 13 s’applique, un investisseur d’une partie contractante qui subit des pertes concernant un investissement réalisé dans la zone d’une autre partie contractante en raison d’une guerre ou de tout autre conflit armé, d’un état d’urgence national, de troubles civils ou d’autres événements similaires survenant dans cette zone bénéficie de la part de cette autre partie contractante, en ce qui concerne toute restitution, indemnisation ou compensation ou tout autre règlement, du traitement le plus favorable que cette partie contractante accorde aux autres investisseurs, qu’il s’agisse de ses propres investisseurs, des investisseurs d’une autre partie contractante ou d’un Etat tiers.
+<sup>1.</sup> Sauf dans le cas où l’art. 13 s’applique, un investisseur d’une partie contractante qui subit des pertes concernant un investissement réalisé dans la zone d’une autre partie contractante en raison d’une guerre ou de tout autre conflit armé, d’un état d’urgence national, de troubles civils ou d’autres événements similaires survenant dans cette zone bénéficie de la part de cette autre partie contractante, en ce qui concerne toute restitution, indemnisation ou compensation ou tout autre règlement, du traitement le plus favorable que cette partie contractante accorde aux autres investisseurs, qu’il s’agisse de ses propres investisseurs, des investisseurs d’une autre partie contractante ou d’un État tiers.
 
 <sup>2.</sup> se voit accorder une restitution ou une compensation qui, dans les deux cas, doit être prompte, adéquate et effective.
 
 Sans préjudice du par. 1, un investisseur d’une partie contractante qui, dans une des situations visées audit paragraphe, subit des pertes dans la zone d’une autre partie contractante qui résulte:
 
-- a) de la réquisition de ses investissements ou d’une partie de ceux-ci par les forces ou les autorités de cette dernière; ou
+- a) de la réquisition de ses investissements ou d’une partie de ceux-ci par les forces ou les autorités de cette dernière, ou
 - b) de la destruction de ses investissements ou d’une partie de ceux-ci par les forces ou les autorités de cette dernière, qui n’était pas requise par les nécessités de la situation,
 
 #### Art. 13
@@ -391,7 +391,7 @@ Chaque partie contractante garantit, en ce qui concerne les investissements effe
 
 <sup>4.</sup> Nonobstant les par. 1 à 3, une partie contractante peut protéger les droits des créanciers ou assurer le respect des lois sur l’émission, le commerce et l’échange d’obligations et l’exécution de jugements dans des procédures civiles, administratives et pénales, par l’application équitable, non discriminatoire et de bonne foi de ses lois et règles.
 
-<sup>5.</sup> Nonobstant le par. 2, les parties contractantes qui étaient des Etats membres de l’ancienne Union des républiques socialistes soviétiques peuvent prévoir dans des accords conclus entre elles que les transferts de paiements sont effectués dans les monnaies de ces parties contractantes, pour autant que les accords en question ne traitent pas les investissements des investisseurs des autres parties contractantes réalisés dans leur zone d’une manière moins favorable que les investissements des investisseurs des parties contractantes qui ont conclu ces accords ou les investissements des investisseurs d’un Etat tiers.
+<sup>5.</sup> Nonobstant le par. 2, les parties contractantes qui étaient des États membres de l’ancienne Union des républiques socialistes soviétiques peuvent prévoir dans des accords conclus entre elles que les transferts de paiements sont effectués dans les monnaies de ces parties contractantes, pour autant que les accords en question ne traitent pas les investissements des investisseurs des autres parties contractantes réalisés dans leur zone d’une manière moins favorable que les investissements des investisseurs des parties contractantes qui ont conclu ces accords ou les investissements des investisseurs d’un État tiers.
 
 <sup>6.</sup> Nonobstant le par. 1, point b), une partie contractante peut restreindre le transfert d’un rendement en nature lorsque la partie contractante est autorisée par l’art. 29, par. 2, point a), ou par l'accord OMC à restreindre ou à interdire les exportations ou la vente à l’exportation de produits constituant un rendement en nature, pour autant que cette partie contractante permette d’effectuer des transferts de rendements en nature tels qu’autorisés ou spécifiés dans un accord d’investissement, une autorisation d’investissement ou tout autre accord écrit conclu entre elle et un investisseur d’une autre partie contractante ou son investissement.
 
@@ -403,7 +403,7 @@ Chaque partie contractante garantit, en ce qui concerne les investissements effe
 
 Si une partie contractante ou une institution désignée par elle, ci-après dénommée «partie indemnisante», effectue un paiement à titre d’indemnité ou de garantie octroyée pour un investissement réalisé par un investisseur, ci-après dénommée «partie indemnisée», réalisé dans la zone d’une autre partie contractante, ci-après dénommée «partie hôte», la partie hôte reconnaît:
 
-- a) la cession à la partie indemnisante de tous les droits et de toutes les créances relatifs à un tel investissement; et
+- a) la cession à la partie indemnisante de tous les droits et de toutes les créances relatifs à un tel investissement, et
 - b) le droit de la partie indemnisante d’exercer ces droits et de faire valoir ces créances par voie de subrogation.
 
 <sup>2.</sup> que ceux auxquels la partie indemnisée avait droit en vertu du présent traité pour l’investissement en question.
@@ -423,7 +423,7 @@ lorsque de telles dispositions sont plus favorables pour l’investisseur ou l�
 
 Lorsque deux ou plusieurs parties contractantes ont conclu un accord international antérieur ou concluent postérieurement un accord international dont les dispositions portent dans les deux cas sur l’objet des parties III ou V du présent traité:
 
-- 1) aucune disposition des parties III ou V du présent traité ne peut être interprétée comme dérogeant aux dispositions de cet autre accord ni au droit d’exiger un règlement du différend concernant ce point conformément à cet accord; et
+- 1) aucune disposition des parties III ou V du présent traité ne peut être interprétée comme dérogeant aux dispositions de cet autre accord ni au droit d’exiger un règlement du différend concernant ce point conformément à cet accord, et
 - 2) aucune disposition de l’autre accord ne peut être interprétée comme dérogeant aux dispositions des parties III ou V du présent traité ni au droit d’exiger un règlement du différend concernant ce point conformément au présent traité;
 
 #### Art. 17
@@ -432,18 +432,18 @@ Lorsque deux ou plusieurs parties contractantes ont conclu un accord internation
 
 Chaque partie contractante se réserve le droit de refuser le bénéfice de la présente partie:
 
-- 1) à toute entité juridique si les citoyens ou les ressortissants d’un Etat tiers sont propriétaires ou ont le contrôle de cette entité et si celle-ci n’exerce pas d’activités commerciales substantielles dans la zone de la partie contractante dans laquelle elle est constituée; ou
+- 1) à toute entité juridique si les citoyens ou les ressortissants d’un État tiers sont propriétaires ou ont le contrôle de cette entité et si celle-ci n’exerce pas d’activités commerciales substantielles dans la zone de la partie contractante dans laquelle elle est constituée, ou
 - 2)
 
-  à un investissement si la partie contractante qui refuse établit qu’il s’agit d’un investissement d’un investisseur d’un Etat tiers avec lequel ou à l’égard duquel elle:
+  à un investissement si la partie contractante qui refuse établit qu’il s’agit d’un investissement d’un investisseur d’un État tiers avec lequel ou à l’égard duquel elle:
 
   - a) n’entretient pas de relations diplomatiques, ou
   - b)
 
     adopte ou maintient des mesures qui:
 
-    - i) interdisent des transactions avec les investisseurs de cet Etat, ou
-    - ii) seraient enfreintes ou contournées si les avantages prévus dans la présente partie étaient accordés aux investisseurs de cet Etat ou à leurs investissements.
+    - i) interdisent des transactions avec les investisseurs de cet État, ou
+    - ii) seraient enfreintes ou contournées si les avantages prévus dans la présente partie étaient accordés aux investisseurs de cet État ou à leurs investissements.
 
 ## Partie IV Dispositions diverses
 
@@ -455,7 +455,7 @@ Chaque partie contractante se réserve le droit de refuser le bénéfice de la p
 
 <sup>2.</sup> Sans affecter les objectifs de promotion de l’accès aux ressources énergétiques ainsi que de leur exploration et de leur exploitation sur une base commerciale, le présent traité ne porte en rien préjudice aux règles des parties contractantes qui régissent le régime de propriété des ressources énergétiques.
 
-<sup>3.</sup> Chaque Etat conserve en particulier le droit de décider des secteurs géographiques de sa zone qui sont destinés à être mis à disposition pour l’exploration et l’exploitation de ses ressources énergétiques, de l’optimalisation de leur récupération et du rythme auquel elles peuvent être extraites ou autrement exploitées, de déterminer et de percevoir les taxes, redevances ou autres paiements financiers qui sont payables au titre de cette exploration et de cette exploitation et de régir les aspects environnementaux et de sécurité de cette exploration, de cette exploitation et de cette mise en valeur dans sa zone, ainsi que de participer à cette exploration et cette exploitation, notamment par une participation directe de son gouvernement ou des entreprises d’Etat.
+<sup>3.</sup> Chaque État conserve en particulier le droit de décider des secteurs géographiques de sa zone qui sont destinés à être mis à disposition pour l’exploration et l’exploitation de ses ressources énergétiques, de l’optimalisation de leur récupération et du rythme auquel elles peuvent être extraites ou autrement exploitées, de déterminer et de percevoir les taxes, redevances ou autres paiements financiers qui sont payables au titre de cette exploration et de cette exploitation et de régir les aspects environnementaux et de sécurité de cette exploration, de cette exploitation et de cette mise en valeur dans sa zone, ainsi que de participer à cette exploration et cette exploitation, notamment par une participation directe de son gouvernement ou des entreprises d’État.
 
 <sup>4.</sup> Les parties contractantes s’engagent à faciliter l’accès aux ressources énergétiques, notamment en octroyant d’une manière non discriminatoire, sur la base de critères publiés, des autorisations, des licences, des concessions et des contrats de prospection et d’exploration en vue de l’exploitation ou l’extraction des ressources énergétiques.
 
@@ -465,7 +465,7 @@ Chaque partie contractante se réserve le droit de refuser le bénéfice de la p
 
 <sup>1.</sup>
 
-En poursuivant l’objectif de développement durable et en tenant compte des obligations qui lui incombent en vertu des accords internationaux concernant l’environnement auxquels elle est partie, chaque partie contractante s’efforce de réduire à un minimum, d’une manière économiquement efficace, tout impact nuisible à l’environnement, produit à l’intérieur ou à l’extérieur de sa zone par toutes les opérations du cycle énergétique menées dans cette zone, en veillant au respect des normes de sécurité. Pour ce faire, chaque partie contractante agit de manière efficace au niveau des coûts. Dans ces politiques et ses actions, chaque partie contractante s’efforce de prendre des mesures préventives pour empêcher ou réduire à un minimum les dommages à l’environnement. Les parties contractantes conviennent que le pollueur opérant dans leurs zones devrait, en principe, supporter le coût de cette pollution, y compris la pollution transfrontière, dans le respect de l’intérêt public et sans que soient faussés les investissements dans le cycle énergétique ou le commerce international. A cette fin, les parties contractantes:
+En poursuivant l’objectif de développement durable et en tenant compte des obligations qui lui incombent en vertu des accords internationaux concernant l’environnement auxquels elle est partie, chaque partie contractante s’efforce de réduire à un minimum, d’une manière économiquement efficace, tout impact nuisible à l’environnement, produit à l’intérieur ou à l’extérieur de sa zone par toutes les opérations du cycle énergétique menées dans cette zone, en veillant au respect des normes de sécurité. Pour ce faire, chaque partie contractante agit de manière efficace au niveau des coûts. Dans ces politiques et ses actions, chaque partie contractante s’efforce de prendre des mesures préventives pour empêcher ou réduire à un minimum les dommages à l’environnement. Les parties contractantes conviennent que le pollueur opérant dans leurs zones devrait, en principe, supporter le coût de cette pollution, y compris la pollution transfrontière, dans le respect de l’intérêt public et sans que soient faussés les investissements dans le cycle énergétique ou le commerce international. À cette fin, les parties contractantes:
 
 - a) tiennent compte des considérations environnementales lors de la formulation et de la mise en œuvre de leurs politiques énergétiques;
 - b) favorisent une formation des prix axée sur le marché et une meilleure prise en considération des coûts et des avantages environnementaux sur l’ensemble du cycle énergétique;
@@ -479,7 +479,7 @@ En poursuivant l’objectif de développement durable et en tenant compte des ob
 - j) favorisent la sensibilisation internationale et l’échange d’informations en ce qui concerne les programmes et les normes pertinents des parties contractantes en matière d’environnement ainsi que la mise en œuvre de ces programmes et de ces normes;
 - k) participent, sur demande et dans les limites de leurs ressources disponibles, à l’élaboration et à la mise en œuvre de programmes environnementaux appropriés dans les parties contractantes.
 
-<sup>2.</sup> A la demande d’une ou de plusieurs parties contractantes, les différends relatifs à l’application ou à l’interprétation des dispositions du présent article sont examinés par la Conférence de la Charte en vue de leur règlement, pour autant qu’il n’existe pas d’accords concernant l’examen de ces différends dans d’autres enceintes internationales appropriées.
+<sup>2.</sup> À la demande d’une ou de plusieurs parties contractantes, les différends relatifs à l’application ou à l’interprétation des dispositions du présent article sont examinés par la Conférence de la Charte en vue de leur règlement, pour autant qu’il n’existe pas d’accords concernant l’examen de ces différends dans d’autres enceintes internationales appropriées.
 
 <sup>3.</sup>
 
@@ -506,20 +506,20 @@ Aux fins du présent article:
 
 **Fiscalité**
 
-<sup>1.</sup> A moins que le présent article n’en dispose autrement, aucune disposition du présent traité ne crée des droits ni impose des obligations en ce qui concerne les mesures fiscales des parties contractantes. En cas d’incompatibilité entre le présent article et toute autre disposition du traité, le présent article prévaut, dans la mesure où il y a incompatibilité.
+<sup>1.</sup> À moins que le présent article n’en dispose autrement, aucune disposition du présent traité ne crée des droits ni impose des obligations en ce qui concerne les mesures fiscales des parties contractantes. En cas d’incompatibilité entre le présent article et toute autre disposition du traité, le présent article prévaut, dans la mesure où il y a incompatibilité.
 
 <sup>2.</sup>
 
 Le par. 3 de l’art. 7 s’applique aux mesures fiscales autres que les impôts sur le revenu ou sur la fortune; toutefois, il ne s’applique pas:
 
-- a) à un avantage accordé par une partie contractante en application des dispositions en matière fiscale contenues dans une convention, un accord ou un arrangement tels que visés au par. 7, point a) ii); ou
+- a) à un avantage accordé par une partie contractante en application des dispositions en matière fiscale contenues dans une convention, un accord ou un arrangement tels que visés au par. 7, point a) ii), ou
 - b) à une mesure fiscale visant à garantir la perception effective d’impôts, sauf lorsqu’une telle mesure d’une partie contractante établit une discrimination arbitraire à l’encontre des matières et produits énergétiques qui sont originaires de la zone d’une autre partie contractante ou destinés à une telle zone ou restreint de manière arbitraire les avantages accordés conformément à l’art. 7, par. 3.
 
 <sup>3.</sup>
 
 Les par. 2 et 7 de l’art. 10 s’appliquent aux mesures fiscales des parties contractantes autres que les impôts sur le revenu ou sur la fortune; toutefois, ils ne s’appliquent pas:
 
-- a) pour l’imposition d’obligations de la nation la plus favorisée par rapport aux avantages accordés par une partie contractante en application des dispositions fiscales d’une convention, d’un accord ou d’un arrangement tels que visés au par. 7, point a) ii), ou résultant de l’adhésion d’une organisation d’intégration économique régionale; ou
+- a) pour l’imposition d’obligations de la nation la plus favorisée par rapport aux avantages accordés par une partie contractante en application des dispositions fiscales d’une convention, d’un accord ou d’un arrangement tels que visés au par. 7, point a) ii), ou résultant de l’adhésion d’une organisation d’intégration économique régionale, ou
 - b) à une mesure fiscale visant à assurer la perception effective d’impôts, sauf lorsque cette mesure établit une discrimination arbitraire à l’encontre d’un investisseur d’une autre partie contractante ou restreint de manière arbitraire les avantages accordés en vertu des dispositions en matière d’investissement contenues dans le présent traité.
 
 <sup>4.</sup> L’art. 29, par. 2 à 8[^21-1], s’applique aux mesures fiscales autres que les impôts pour le revenu ou la fortune.
@@ -544,7 +544,7 @@ Aux fins du présent article:
 
   le terme «mesure fiscale» couvre:
 
-  - i) toute disposition fiscale de la législation nationale de la partie contractante ou d’une de ses subdivisions politiques ou d’une autorité locale; et
+  - i) toute disposition fiscale de la législation nationale de la partie contractante ou d’une de ses subdivisions politiques ou d’une autorité locale, et
   - ii) toute disposition fiscale d’une convention visant à éviter la double imposition et d’un arrangement ou règlement international par lequel la partie contractante est liée.
 
 - b) Sont considérés comme impôts sur le revenu ou sur la fortune tous les impôts sur l’ensemble du revenu, sur l’ensemble de la fortune ou sur des éléments du revenu ou de la fortune, y compris les impôts sur les plus-values provenant de la cession de propriété, les impôts sur les immeubles, les héritages et les donations, ou les impôts substantiellement similaires, les impôts sur le montant total des salaires ou rémunérations payés par des entreprises, ainsi que les impôts sur les plus-values en capital.
@@ -555,11 +555,11 @@ Aux fins du présent article:
 
 #### Art. 22
 
-**Entreprises d’Etat et entités privilégiées**
+**Entreprises d’État et entités privilégiées**
 
-<sup>1.</sup> Chaque partie contractante veille à ce que toute entreprise d’Etat qu’elle maintient ou crée mène ses activités en matière de vente ou de fourniture de biens et de services dans sa zone d’une manière compatible avec les obligations qui incombent à la partie contractante en vertu de la partie III du présent traité.
+<sup>1.</sup> Chaque partie contractante veille à ce que toute entreprise d’État qu’elle maintient ou crée mène ses activités en matière de vente ou de fourniture de biens et de services dans sa zone d’une manière compatible avec les obligations qui incombent à la partie contractante en vertu de la partie III du présent traité.
 
-<sup>2.</sup> Aucune partie contractante n’encourage ni contraint une telle entreprise d’Etat à mener ses activités dans sa zone d’une manière non compatible avec les obligations qui incombent à la partie contractante en vertu d’autres dispositions du présent traité.
+<sup>2.</sup> Aucune partie contractante n’encourage ni contraint une telle entreprise d’État à mener ses activités dans sa zone d’une manière non compatible avec les obligations qui incombent à la partie contractante en vertu d’autres dispositions du présent traité.
 
 <sup>3.</sup> Chaque partie contractante veille à ce que, lorsqu’elle crée ou maintient une entité et lui délègue des pouvoirs réglementaires, administratifs ou autres, cette entité exerce ces pouvoirs d’une manière compatible avec les obligations qui incombent à la partie contractante en vertu du présent traité.
 
@@ -595,14 +595,14 @@ Les dispositions du présent traité autres que:
 
     indispensables à l’acquisition ou à la distribution de matières et de produits énergétiques dans des conditions de pénurie qui sont dues à des causes échappant au contrôle de cette partie contractante, pour autant que ces mesures soient compatibles avec les principes selon lesquels:
 
-    - A) toutes les autres parties contractantes ont droit à une part équitable de l’approvisionnement international en ces matières et produits énergétiques; et
-    - B) toute mesure qui est incompatible avec le présent traité est rapportée dès que les conditions qui ont été à son origine ont cessé d’exister; ou
+    - A) toutes les autres parties contractantes ont droit à une part équitable de l’approvisionnement international en ces matières et produits énergétiques, et
+    - B) toute mesure qui est incompatible avec le présent traité est rapportée dès que les conditions qui ont été à son origine ont cessé d’exister, ou
 
   - iii)
 
     destinés à profiter aux investisseurs qui appartiennent aux populations indigènes ou sont des personnes ou des groupes socialement ou économiquement défavorisés ou à leurs investissements et notifiées au Secrétariat, sous réserve que ces mesures:
 
-    - A) n’aient pas une incidence significative sur l’économie de la partie contractante; et
+    - A) n’aient pas une incidence significative sur l’économie de la partie contractante, et
     - B) ne fassent pas de distinction entre les investisseurs d’autres parties contractantes et les investisseurs de cette partie contractante qui ne figurent pas parmi les bénéficiaires de ces mesures,
 
 - à condition qu’aucune mesure ne constitue une restriction déguisée aux activités économiques du secteur de l’énergie ou une discrimination arbitraire ou injustifiable entre les parties contractantes ou entre les investisseurs ou d’autres personnes intéressées des parties contractantes. Ces mesures sont dûment motivées et n’annulent ni entravent, plus que ce qui est strictement nécessaire à l’objectif déclaré, les avantages qu’une ou plusieurs autres parties contractantes peuvent raisonnablement attendre au titre du présent traité.
@@ -615,18 +615,18 @@ Les dispositions du présent traité autres que celles visées au par. 1 ne doiv
 
   à la protection de ses intérêts essentiels en matière de sécurité, y compris les mesures qui:
 
-  - i) concernent l’approvisionnement des établissements militaires en matières et produits énergétiques; ou
+  - i) concernent l’approvisionnement des établissements militaires en matières et produits énergétiques, ou
   - ii) sont prises en temps de guerre, en cas de conflit armé ou dans une autre situation d’urgence survenant dans les relations internationales;
 
-- b) à la mise en œuvre des politiques nationales concernant la non-prolifération des armes nucléaires ou autres systèmes nucléaires explosifs, ou nécessaires pour satisfaire aux obligations qui lui incombent en vertu du traité sur la non-prolifération des armes nucléaires, des directives applicables à l’exportation de matières nucléaires et des autres obligations ou arrangements internationaux en matière de non-prolifération des armes nucléaires; ou
+- b) à la mise en œuvre des politiques nationales concernant la non-prolifération des armes nucléaires ou autres systèmes nucléaires explosifs, ou nécessaires pour satisfaire aux obligations qui lui incombent en vertu du traité sur la non-prolifération des armes nucléaires, des directives applicables à l’exportation de matières nucléaires et des autres obligations ou arrangements internationaux en matière de non-prolifération des armes nucléaires, ou
 - c) au maintien de l’ordre public.
 
 <sup>4.</sup>
 
 Les dispositions du présent traité qui accordent le bénéfice de la clause de la nation la plus favorisée n’obligent aucune partie contractante à étendre aux investisseurs d’une autre partie contractante un traitement préférentiel résultant:
 
-- a) de sa participation à une zone de libre échange ou à une union douanière; ou
-- b) d’un accord bilatéral ou multilatéral de coopération économique entre les Etats ayant fait partie de l’ancienne Union des républiques socialistes soviétiques, dans l’attente de l’établissement de leurs relations économiques mutuelles sur une base définitive.
+- a) de sa participation à une zone de libre échange ou à une union douanière, ou
+- b) d’un accord bilatéral ou multilatéral de coopération économique entre les États ayant fait partie de l’ancienne Union des républiques socialistes soviétiques, dans l’attente de l’établissement de leurs relations économiques mutuelles sur une base définitive.
 
 #### Art. 25
 
@@ -650,8 +650,8 @@ Les dispositions du présent traité qui accordent le bénéfice de la clause de
 
 Si un différend de ce type n’a pu être réglé conformément aux dispositions du paragraphe 1 dans un délai de trois mois à compter du moment où l’une des parties au différend a sollicité un règlement à l’amiable, l’investisseur partie au différend peut choisir de le soumettre, en vue de son règlement:
 
-- a) aux juridictions judiciaires ou administratives de la partie contractante qui est partie au différend; ou
-- b) conformément à toute procédure de règlement des différends applicable préalablement convenue; ou
+- a) aux juridictions judiciaires ou administratives de la partie contractante qui est partie au différend, ou
+- b) conformément à toute procédure de règlement des différends applicable préalablement convenue, ou
 - c) conformément aux paragraphes suivants du présent article.
 - 3\. a) Sous réserve des seuls points b) et c), chaque partie contractante donne son consentement inconditionnel à la soumission de tout différend à une procédure d’arbitrage ou de conciliation internationale, conformément aux dispositions du présent article.
 - b) i) Les parties contractantes énumérées à l’annexe ID ne donnent pas ce consentement inconditionnel si l’investisseur a, au préalable, soumis ce différend selon les procédures prévues au par. 2) points a) ou b).
@@ -663,24 +663,24 @@ Si un différend de ce type n’a pu être réglé conformément aux disposition
 
 Si un investisseur choisit de soumettre le différend en vue de son règlement, conformément au par. 2, point c), il donne son consentement par écrit pour que le différend soit porté devant:
 
-- a) i) le Centre international pour le règlement des différends relatifs aux investissements, créé en application de la Convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d’autres Etats, du 18 mars 1965[^26-1], ci-après dénommée «convention CIRDI», si la partie contractante de l’investisseur et la partie contractante partie au différend sont toutes deux parties à la convention CIRDI; ou
+- a) i) le Centre international pour le règlement des différends relatifs aux investissements, créé en application de la Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États, du 18 mars 1965[^26-1], ci-après dénommée «convention CIRDI», si la partie contractante de l’investisseur et la partie contractante partie au différend sont toutes deux parties à la convention CIRDI, ou
   - ii) le Centre international pour le règlement des différends relatifs aux investissements, créé en application de la convention visée au point a), sur la base du règlement du mécanisme supplémentaire pour l’administration des procédures par le Secrétariat du Centre, ci-après dénommé «règlement du mécanisme supplémentaire», si la partie contractante de l’investisseur ou la partie contractante partie au différend, mais non les deux, et partie à la convention CIRDI;
 
-- b) à un arbitre unique ou à un tribunal d’arbitrage ad hoc constitué sur la base du règlement d’arbitrage de la Commission des Nations Unies pour le droit commercial international (CNUDCI); ou
+- b) à un arbitre unique ou à un tribunal d’arbitrage ad hoc constitué sur la base du règlement d’arbitrage de la Commission des Nations Unies pour le droit commercial international (CNUDCI), ou
 - c) à une procédure d’arbitrage sous l’égide de l’Institut d’arbitrage de la Chambre de commerce de Stockholm.
 - 5\. a)
 
   Le consentement prévu au par. 3, ainsi que le consentement écrit de l’investisseur donné en application du par. 4, sont considérés comme satisfaisant aux exigences suivantes:
 
   - i) l’existence d’un consentement écrit des parties à un différend aux fins du chap. II de la convention CIRDI et du règlement du mécanisme supplémentaire;
-  - ii) l’existence d’un accord par écrit aux fins de l’art. II de la Convention des Nations Unies pour la reconnaissance et l’exécution des sentences arbitrales étrangères, faite à New York le 10 juin 1958[^26-2], ci-après dénommée «convention de New York»; et
+  - ii) l’existence d’un accord par écrit aux fins de l’art. II de la Convention des Nations Unies pour la reconnaissance et l’exécution des sentences arbitrales étrangères, faite à New York le 10 juin 1958[^26-2], ci-après dénommée «convention de New York», et
   - iii) l’existence d’un accord par écrit des parties à un contrat aux fins de l’article 1<sup>er</sup> du règlement d’arbitrage de la CNUDCI.
 
-- b) Tout arbitrage effectué en vertu du présent article se déroule à la demande de l’une des parties au différend dans un Etat qui est partie à la convention de New York. Les réclamations soumises à l’arbitrage conformément aux présentes dispositions sont considérées comme découlant d’une relation ou d’une transaction commerciale aux fins de l’art. 1 de ladite convention.
+- b) Tout arbitrage effectué en vertu du présent article se déroule à la demande de l’une des parties au différend dans un État qui est partie à la convention de New York. Les réclamations soumises à l’arbitrage conformément aux présentes dispositions sont considérées comme découlant d’une relation ou d’une transaction commerciale aux fins de l’art. 1 de ladite convention.
 
 <sup>6.</sup> Un tribunal constitué selon les dispositions du par. 4 statue sur les questions litigieuses conformément au présent traité et aux règles et principes applicables de droit international.
 
-<sup>7.</sup> Un investisseur, autre qu’une personne physique, qui a la nationalité d’une partie contractante partie au différend à la date du consentement écrit visé au par. 4 et qui, avant qu’un différend ne survienne entre lui et cette partie contractante, était contrôlé par les investisseurs d’une autre partie contractante est traité, aux fins de l’art. 25, par. 2, point b), de la convention CIRDI, comme un «ressortissant d’une autre partie contractante» et, aux fins de l’art. 1, par. 6, du règlement du mécanisme supplémentaire, comme un «ressortissant d’un autre Etat».
+<sup>7.</sup> Un investisseur, autre qu’une personne physique, qui a la nationalité d’une partie contractante partie au différend à la date du consentement écrit visé au par. 4 et qui, avant qu’un différend ne survienne entre lui et cette partie contractante, était contrôlé par les investisseurs d’une autre partie contractante est traité, aux fins de l’art. 25, par. 2, point b), de la convention CIRDI, comme un «ressortissant d’une autre partie contractante» et, aux fins de l’art. 1, par. 6, du règlement du mécanisme supplémentaire, comme un «ressortissant d’un autre État».
 
 <sup>8.</sup> Les sentences arbitrales, qui peuvent inclure l’attribution d’intérêts, sont définitives et obligatoires pour les parties au différend. Les sentences arbitrales concernant une mesure prise par une administration politique ou une autorité sous-nationale de la partie contractante en litige prévoient que la partie contractante peut payer un dédommagement monétaire à la place de toute autre réparation accordée. Chaque partie contractante exécute ces sentences sans retard et prend des mesures en vue de leur exécution effective dans sa zone.
 
@@ -729,9 +729,9 @@ Les différends entre les parties contractantes relatifs à l’application ou �
 Toute modification apportée à ces droits et autres taxes appliqués ou liés à l’importation ou à l’exportation est notifiée au Secrétariat, qui en informe les parties contractantes.
 
 - 2\. a) Le commerce des matières et produits énergétiques et des équipements liés à l’énergie entre des parties contractantes dont l’une au moins n’est pas membre de l’OMC est régi, sous réserve du point b) et des exceptions et règles prévues à l’annexe W, par les dispositions de l’accord OMC, telles qu’appliquées et pratiquées, en ce qui concerne les matières et produits énergétiques et les équipements liés à l’énergie, par les membres de l’OMC entre eux, comme si toutes les parties contractantes étaient membres de l’OMC.
-- b) Ce commerce avec une partie contractante qui est un Etat ayant fait partie de l’ancienne Union des républiques socialistes soviétiques peut toutefois être régi, sous réserve des dispositions de l’annexe TFU, par un accord entre deux ou plusieurs de ces Etats, jusqu’au 1<sup>er</sup> décembre 1999 ou jusqu’à l’admission de cette partie contractante à l’OMC, la date la plus proche étant retenue.
-- 3\. a) Chaque signataire du présent traité et chaque Etat ou organisation d’intégration économique régionale, adhérant au présent traité avant le 24 avril 1998, déposent au Secrétariat, le jour de la signature ou du dépôt de l’instrument d’adhésion, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation de matières et de produits énergétiques, en communiquant le niveau de ces droits et taxes à la date de la signature ou du dépôt. Chaque signataire du présent traité et chaque Etat ou organisation d’intégration économique régionale, adhérant au présent traité avant le 24 avril 1998, déposent au Secrétariat, à cette date, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation d’équipements liés à l’énergie, en communiquant le niveau de ces droits et taxes à cette date.
-- b) Chaque signataire du présent traité et chaque Etat ou organisation d’ intégration économique régionale, adhérant au présent traité le 24 avril 1998 ou ultérieurement, déposent au Secrétariat, le jour du dépôt de l’instrument d’adhésion, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation de matières et produits énergétiques et d’équipements liés à l’énergie, en communiquant le niveau de ces droits et taxes à la date du dépôt.
+- b) Ce commerce avec une partie contractante qui est un État ayant fait partie de l’ancienne Union des républiques socialistes soviétiques peut toutefois être régi, sous réserve des dispositions de l’annexe TFU, par un accord entre deux ou plusieurs de ces États, jusqu’au 1<sup>er</sup> décembre 1999 ou jusqu’à l’admission de cette partie contractante à l’OMC, la date la plus proche étant retenue.
+- 3\. a) Chaque signataire du présent traité et chaque État ou organisation d’intégration économique régionale, adhérant au présent traité avant le 24 avril 1998, déposent au Secrétariat, le jour de la signature ou du dépôt de l’instrument d’adhésion, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation de matières et de produits énergétiques, en communiquant le niveau de ces droits et taxes à la date de la signature ou du dépôt. Chaque signataire du présent traité et chaque État ou organisation d’intégration économique régionale, adhérant au présent traité avant le 24 avril 1998, déposent au Secrétariat, à cette date, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation d’équipements liés à l’énergie, en communiquant le niveau de ces droits et taxes à cette date.
+- b) Chaque signataire du présent traité et chaque État ou organisation d’ intégration économique régionale, adhérant au présent traité le 24 avril 1998 ou ultérieurement, déposent au Secrétariat, le jour du dépôt de l’instrument d’adhésion, une liste de tous les droits de douane et des autres taxes appliqués ou liés à l’importation ou à l’exportation de matières et produits énergétiques et d’équipements liés à l’énergie, en communiquant le niveau de ces droits et taxes à la date du dépôt.
 
 <sup>4.</sup>
 
@@ -744,14 +744,14 @@ Chaque partie contractante s’efforce de ne pas augmenter les droits de douane 
 
 Une partie contractante ne peut augmenter les droits de douane ou autres taxes au-delà du niveau visé au par. 4 que si:
 
-- a) dans le cas de droits de douane ou de taxe appliqués ou liés à l’importation, une telle mesure n’est pas incompatible avec les dispositions applicables de l’accord OMC, autres que les dispositions dudit accord énumérées à l’annexe W; ou que si
+- a) dans le cas de droits de douane ou de taxe appliqués ou liés à l’importation, une telle mesure n’est pas incompatible avec les dispositions applicables de l’accord OMC, autres que les dispositions dudit accord énumérées à l’annexe W, ou que si
 - b) elle a, dans toute la mesure du possible, en fonction de ses procédures législatives, notifié au Secrétariat sa proposition d’augmentation, offert aux autres parties contractantes une possibilité raisonnable de procéder à une consultation au sujet de cette proposition et pris en considération les observations des parties contractantes intéressées.
 
 <sup>6.</sup> En ce qui concerne le commerce entre parties contractantes dont l’une au moins n’est pas membre de l’OMC, ladite partie contractante ne peut augmenter les droits de douane ou autres taxes appliqués ou liés à l’importation ou à l’exportation de matières et de produits énergétiques énumérés à l’annexe EM II ou d’équipements liés à l’énergie énumérés à l’annexe EQ II, au-delà du niveau le plus bas appliqué à la date de la décision de la Conférence sur la Charte d’ajouter le produit en question à la liste de l’annexe appropriée.
 
 Une partie contractante ne peut augmenter les droits de douane ou autres taxes au‑delà de ce niveau que si:
 
-- a) dans le cas de droits de douane ou de taxes appliqués ou liés à l’importation, une telle mesure n’est pas incompatible avec les dispositions applicables de l’accord OMC, autres que les dispositions dudit accord énumérées à l’annexe W; ou que si
+- a) dans le cas de droits de douane ou de taxes appliqués ou liés à l’importation, une telle mesure n’est pas incompatible avec les dispositions applicables de l’accord OMC, autres que les dispositions dudit accord énumérées à l’annexe W, ou que si
 - b) en raison de circonstances exceptionnelles non prévues ailleurs par le présent traité, la Conférence sur la Charte décide de suspendre l’obligation qui serait normalement imposée à une partie contractante par le présent paragraphe, en admettant une augmentation d’un droit de douane, sous réserve des conditions que la conférence peut impose.
 
 <sup>7.</sup> Par dérogation au par. 6, en cas de commerce visé audit paragraphe, les parties contractantes énumérées à l’annexe BR en ce qui concerne les matières et produits énergétiques énumérés à l’annexe EM II, ou à l’annexe BRQ en ce qui concerne les équipements liés à l’énergie énumérés à l’annexe EQ II, ne peuvent augmenter les droits de douane ou autres taxes au-delà du niveau résultant de leurs engagements ou de toutes dispositions qui leur sont applicables en vertu de l’accord OMC.
@@ -777,13 +777,13 @@ L’annexe D s’applique:
 
 #### Art. 30
 
-**Evolution des accords commerciaux internationaux**
+**Évolution des accords commerciaux internationaux**
 
 Les parties contractantes s’engagent, à la lumière des résultats des négociations commerciales multilatérales de l’Uruguay Round, repris principalement dans l’Acte final établi à Marrakech le 15 avril 1994, à entamer, au plus tard le 1<sup>er</sup> juillet 1995 ou à la date d’entrée en vigueur du présent traité, la date la plus tardive étant retenue, l’examen de modifications appropriées du présent traité en vue de leur adoption par la Conférence de la Charte.
 
 #### Art. 31
 
-**Equipement lié à l’énergie**
+**Équipement lié à l’énergie**
 
 Lors de sa première réunion, la Conférence provisoire de la Charte procède à l’examen de l’inclusion de l’équipement lié à l’énergie dans les dispositions commerciales du présent traité.
 
@@ -791,7 +791,7 @@ Lors de sa première réunion, la Conférence provisoire de la Charte procède �
 
 **Dispositions transitoires**
 
-<sup>1.</sup> Etant donné que l’adaptation aux exigences d’une économie de marché requiert du temps, les parties contractantes énumérées à l’annexe T peuvent temporairement suspendre le respect de leurs obligations découlant d’une ou de plusieurs des dispositions suivantes du présent traité, sous réserve des conditions énoncées aux par. 3, à 6:
+<sup>1.</sup> Étant donné que l’adaptation aux exigences d’une économie de marché requiert du temps, les parties contractantes énumérées à l’annexe T peuvent temporairement suspendre le respect de leurs obligations découlant d’une ou de plusieurs des dispositions suivantes du présent traité, sous réserve des conditions énoncées aux par. 3, à 6:
 
 Art. 6, par. 2 et 5, Art. 7, par. 4, Art. 9, par. 1, Art. 10, par. 7 – mesures spécifiques, Art. 14, par. 1, point d) – uniquement en ce qui concerne les transferts de recettes non dépensées, Art. 20, par. 3, Art. 22, par. 1 et 3.
 
@@ -828,7 +828,7 @@ Le Secrétariat:
 
 <sup>2.</sup> Tout signataire de la Charte peut participer à une telle négociation.
 
-<sup>3.</sup> Un Etat ou une organisation d’intégration économique régionale ne peuvent être parties à un protocole ou à une déclaration que s’ils sont ou deviennent simultanément signataires de la Charte et parties contractantes au présent traité.
+<sup>3.</sup> Un État ou une organisation d’intégration économique régionale ne peuvent être parties à un protocole ou à une déclaration que s’ils sont ou deviennent simultanément signataires de la Charte et parties contractantes au présent traité.
 
 <sup>4.</sup> Sous réserve du par. 3 et du par. 6, point a), les dispositions finales qui s’appliquent à un protocole sont définies dans ce protocole.
 
@@ -877,7 +877,7 @@ La Conférence de la Charte exécute les tâches suivantes:
 
 <sup>6.</sup> La Conférence de la Charte examine et adopte le règlement intérieur et le règlement financier.
 
-<sup>7.</sup> En 1999 et, par la suite, à des intervalles (de cinq ans au maximum) à fixer par elle, la Conférence de la Charte réexaminera en profondeur les fonctions prévues par le présent traité en fonction de la manière dont les dispositions du présent traité et des protocoles ont été appliquées. A l’issue de chaque réexamen, elle pourra modifier ou supprimer les fonctions indiquées au par. 3 et peut dissoudre le Secrétariat.
+<sup>7.</sup> En 1999 et, par la suite, à des intervalles (de cinq ans au maximum) à fixer par elle, la Conférence de la Charte réexaminera en profondeur les fonctions prévues par le présent traité en fonction de la manière dont les dispositions du présent traité et des protocoles ont été appliquées. À l’issue de chaque réexamen, elle pourra modifier ou supprimer les fonctions indiquées au par. 3 et peut dissoudre le Secrétariat.
 
 [^34-1]: Introduite par l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^34-2]: Introduite par l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
@@ -906,10 +906,10 @@ La Conférence de la Charte exécute les tâches suivantes:
 L’unanimité des parties contractantes présentes et votantes à la réunion de la Conférence de la Charte appelée à statuer sur ces questions est requise pour les décisions de celle-ci ayant pour objet:
 
 - a) d’adopter des amendements du présent traité autres que des amendements des art. 34 et 35 et de l’annexe T;
-- b) d’approuver les adhésions au présent traité, en vertu de l’art. 41, d’Etats ou d’organisations d’intégration économique régionale qui n’étaient pas signataires de la Charte au 16 juin 1995;
+- b) d’approuver les adhésions au présent traité, en vertu de l’art. 41, d’États ou d’organisations d’intégration économique régionale qui n’étaient pas signataires de la Charte au 16 juin 1995;
 - c) d’autoriser la négociation d’accords d’association et d’approuver ou d’adopter le texte de ceux-ci;
 - d) d’approuver les adaptations des annexes EM, NI, W[^36-1] et B;
-- e) d’adopter les modifications techniques des annexes du présent traité; et
+- e) d’adopter les modifications techniques des annexes du présent traité, et
 - f) d’approuver les nominations, par le Secrétaire général, des membres de jurys visés à l’annexe D par. 7.
 - g) [^36-2] elle approuve l’ajout à l’annexe EM II d’éléments figurant à l’annexe EM I et leur suppression de l’annexe EM I ainsi que l’ajout à l’annexe EQ II d’éléments figurant à l’annexe EQ I et leur suppression de l’annexe EQ I;
 
@@ -923,7 +923,7 @@ L’unanimité des parties contractantes présentes et votantes à la réunion d
 
 <sup>6.</sup> Sauf dans le cas prévu au par. 2, les décisions visées au présent article sont valables si elles recueillent la majorité simple des voix des parties contractantes.
 
-<sup>7.</sup> Lors d’un vote, les organisations d’intégration économique régionale ont un nombre de voix égal à celui de leurs Etats membres parties contractantes au présent traité, à condition qu’elles n’exercent pas leur droit de vote lorsque leurs Etats membres exercent le leur, et inversement.
+<sup>7.</sup> Lors d’un vote, les organisations d’intégration économique régionale ont un nombre de voix égal à celui de leurs États membres parties contractantes au présent traité, à condition qu’elles n’exercent pas leur droit de vote lorsque leurs États membres exercent le leur, et inversement.
 
 <sup>8.</sup> En cas d’arriéré persistant d’une partie contractante dans le respect de ses obligations financières au titre du présent traité, la Conférence de la Charte peut suspendre l’exercice du droit de vote de cette partie contractante en tout ou en partie.
 
@@ -951,7 +951,7 @@ L’unanimité des parties contractantes présentes et votantes à la réunion d
 
 **Signature**
 
-Le présent traité est ouvert, à Lisbonne, du 17 décembre 1994 au 16 juin 1995, à la signature des Etats et des organisations d’intégration économique régionale qui ont signé la Charte.
+Le présent traité est ouvert, à Lisbonne, du 17 décembre 1994 au 16 juin 1995, à la signature des États et des organisations d’intégration économique régionale qui ont signé la Charte.
 
 #### Art. 39
 
@@ -963,7 +963,7 @@ Le présent traité est soumis à la ratification, à l’acceptation ou à l’
 
 **Application aux territoires**
 
-<sup>1.</sup> Tout Etat ou toute organisation d’intégration économique régionale peut, au moment de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, déclarer par une déclaration déposée auprès du dépositaire, que le présent traité le lie pour tous les territoires pour lesquels il est responsable en matière de relations internationales, ou pour l’un ou plusieurs d’entre eux. Cette déclaration prend effet au moment où le présent traité entre en vigueur pour cette partie contractante.
+<sup>1.</sup> Tout État ou toute organisation d’intégration économique régionale peut, au moment de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, déclarer par une déclaration déposée auprès du dépositaire, que le présent traité le lie pour tous les territoires pour lesquels il est responsable en matière de relations internationales, ou pour l’un ou plusieurs d’entre eux. Cette déclaration prend effet au moment où le présent traité entre en vigueur pour cette partie contractante.
 
 <sup>2.</sup> Toute partie contractante peut à une date ultérieure, par une déclaration déposée auprès du dépositaire, se déclarer liée par le présent traité pour d’autres territoires indiqués dans sa déclaration. En ce qui concerne ces territoires, le présent traité entre en vigueur le quatre-vingt-dixième jour suivant la réception par le dépositaire de ladite déclaration.
 
@@ -975,7 +975,7 @@ Le présent traité est soumis à la ratification, à l’acceptation ou à l’
 
 **Adhésion**
 
-Le présent traité est ouvert à l’adhésion des Etats et des organisations d’intégration économique régionale qui ont signé la Charte, et ce à partir de la date à laquelle le délai pour la signature du présent traité a expiré, à des conditions à approuver par la Conférence de la Charte. Les instruments d’adhésion sont déposés auprès du dépositaire.
+Le présent traité est ouvert à l’adhésion des États et des organisations d’intégration économique régionale qui ont signé la Charte, et ce à partir de la date à laquelle le délai pour la signature du présent traité a expiré, à des conditions à approuver par la Conférence de la Charte. Les instruments d’adhésion sont déposés auprès du dépositaire.
 
 #### Art. 42
 
@@ -993,19 +993,19 @@ Le présent traité est ouvert à l’adhésion des Etats et des organisations d
 
 **Accords d’association**
 
-<sup>1.</sup> La Conférence de la Charte peut autoriser la négociation des accords d’association avec des Etats ou des organisations d’intégration économique régionale, ou avec des organisations internationales, afin de poursuivre les objectifs et de mettre en œuvre les principes de la Charte ainsi que les dispositions du présent traité ou d’un ou plusieurs protocoles.
+<sup>1.</sup> La Conférence de la Charte peut autoriser la négociation des accords d’association avec des États ou des organisations d’intégration économique régionale, ou avec des organisations internationales, afin de poursuivre les objectifs et de mettre en œuvre les principes de la Charte ainsi que les dispositions du présent traité ou d’un ou plusieurs protocoles.
 
-<sup>2.</sup> Les relations établies avec un Etat, une organisation d’intégration économique régionale ou une organisation internationale, ainsi que les droits et les obligations qui en découlent, sont adaptés aux circonstances particulières de l’association et, dans chaque cas, sont précisées dans l’accord d’association.
+<sup>2.</sup> Les relations établies avec un État, une organisation d’intégration économique régionale ou une organisation internationale, ainsi que les droits et les obligations qui en découlent, sont adaptés aux circonstances particulières de l’association et, dans chaque cas, sont précisées dans l’accord d’association.
 
 #### Art. 44
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent traité entre en vigueur le quatre-vingt-dixième jour après la date de dépôt du trentième instrument de ratification, d’acceptation, d’approbation ou d’adhésion d’un Etat ou d’une organisation d’intégration économique régionale signataire de la Charte à la date du 16 juin 1995.
+<sup>1.</sup> Le présent traité entre en vigueur le quatre-vingt-dixième jour après la date de dépôt du trentième instrument de ratification, d’acceptation, d’approbation ou d’adhésion d’un État ou d’une organisation d’intégration économique régionale signataire de la Charte à la date du 16 juin 1995.
 
-<sup>2.</sup> Pour tout Etat ou toute organisation d’intégration économique régionale qui ratifie, accepte ou approuve le présent traité ou y adhère après le dépôt du trentième instrument de ratification d’acceptation ou d’approbation, le présent traité entre en vigueur le quatre-vingt-dixième jour après la date de dépôt, par cet Etat ou cette organisation d’intégration économique régionale, de ses instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> Pour tout État ou toute organisation d’intégration économique régionale qui ratifie, accepte ou approuve le présent traité ou y adhère après le dépôt du trentième instrument de ratification d’acceptation ou d’approbation, le présent traité entre en vigueur le quatre-vingt-dixième jour après la date de dépôt, par cet État ou cette organisation d’intégration économique régionale, de ses instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>3.</sup> Aux fins du par. 1, tout instrument déposé par une organisation d’intégration économique régionale ne s’additionne pas aux instruments déposés par les Etats membres de cette organisation.
+<sup>3.</sup> Aux fins du par. 1, tout instrument déposé par une organisation d’intégration économique régionale ne s’additionne pas aux instruments déposés par les États membres de cette organisation.
 
 #### Art. 45
 
@@ -1026,7 +1026,7 @@ Le présent traité est ouvert à l’adhésion des Etats et des organisations d
 
 <sup>6.</sup> En conformité et sous réserve des dispositions du par. 1 ou du par. 2, point c), selon le cas, les signataires contribuent, en vertu de l’art. 37, par. 3, aux frais encourus par le Secrétariat provisoire comme s’ils étaient des parties contractantes. Toute modification de l’annexe B par les signataires prend fin lors de l’entrée en vigueur du présent traité.
 
-<sup>7.</sup> Jusqu’à l’entrée en vigueur du présent traité, un Etat ou une organisation d’intégration économique régionale qui adhère à celui-ci avant son entrée en vigueur conformément à l’art. 41 possède les droits et assume les obligations d’un signataire qui découlent du présent article.
+<sup>7.</sup> Jusqu’à l’entrée en vigueur du présent traité, un État ou une organisation d’intégration économique régionale qui adhère à celui-ci avant son entrée en vigueur conformément à l’art. 41 possède les droits et assume les obligations d’un signataire qui découlent du présent article.
 
 #### Art. 46
 
@@ -1038,7 +1038,7 @@ Aucune réserve ne peut être faite à l’égard du présent traité.
 
 **Retrait**
 
-<sup>1.</sup> A l’issue d’une période de cinq ans à compter de la date à laquelle le présent traité est entré en vigueur pour une partie contractante, celle-ci peut à tout moment notifier au dépositaire, par écrit, son retrait du présent traité.
+<sup>1.</sup> À l’issue d’une période de cinq ans à compter de la date à laquelle le présent traité est entré en vigueur pour une partie contractante, celle-ci peut à tout moment notifier au dépositaire, par écrit, son retrait du présent traité.
 
 <sup>2.</sup> Ce retrait prend effet au terme d’un an après la date de réception de la notification par le dépositaire, ou à une date ultérieure indiquée dans la notification du retrait.
 
@@ -1068,7 +1068,7 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (Suivent les signatures)
 
-Table des matières des annexes**[^t-2]**
+Table des matières des annexes[^t-2]
 
 *1. Annexe EM I*
 
@@ -1120,7 +1120,7 @@ Exceptions et règles régissant l’application des dispositions de l'accord OM
 
 *13. Annexe TFU*
 
-Dispositions concernant les Accords commerciaux entre les Etats qui ont fait partie de l’ancienne Union des Républiques socialistes soviétiques
+Dispositions concernant les Accords commerciaux entre les États qui ont fait partie de l’ancienne Union des Républiques socialistes soviétiques
 
 *14. Annexe BR*
 
@@ -1157,15 +1157,15 @@ Mesures transitoires adoptées par les Parties contractantes
 (conformément à l’art. 1, par. 4)
 
 <table>
-<tr><td>Energie nucléaire</td><td>26.12</td><td colspan="3">Minerais d’uranium ou de thorium et leurs concentrés.</td></tr>
+<tr><td>Énergie nucléaire</td><td>26.12</td><td colspan="3">Minerais d’uranium ou de thorium et leurs concentrés.</td></tr>
 <tr><td></td><td></td><td colspan="2">26.12.10</td><td>Minerais d’uranium et leurs concentrés.</td></tr>
 <tr><td></td><td></td><td colspan="2">26.12.20</td><td>Minerais de thorium et leurs concentrés</td></tr>
-<tr><td></td><td>28.44</td><td colspan="3">Eléments chimiques radioactifs et isotopes radioactifs (y compris les éléments chimiques et isotopes fissiles ou fertiles) et leurs composés; mélanges et résidus contenant ces produits.</td></tr>
+<tr><td></td><td>28.44</td><td colspan="3">Éléments chimiques radioactifs et isotopes radioactifs (y compris les éléments chimiques et isotopes fissiles ou fertiles) et leurs composés; mélanges et résidus contenant ces produits.</td></tr>
 <tr><td></td><td></td><td colspan="2">28.44.10</td><td>Uranium naturel et ses composés.</td></tr>
 <tr><td></td><td></td><td colspan="2">28.44.20</td><td>Uranium enrichi en U235 et ses composés; plutonium et ses composés.</td></tr>
 <tr><td></td><td></td><td colspan="2">28.44.30</td><td>Uranium appauvri en U235 et ses composés; thorium et ses composés.</td></tr>
-<tr><td></td><td></td><td colspan="2">28.44.40</td><td>Eléments et isotopes radioactifs et composés radioactifs autres que ceux des n<sup>os</sup> 28.44.10, 28.44.20 ou 28.44.30.</td></tr>
-<tr><td></td><td></td><td colspan="2">28.44.50</td><td>Eléments combustibles (cartouches) usés (irradiés) de réacteurs nucléaires.</td></tr>
+<tr><td></td><td></td><td colspan="2">28.44.40</td><td>Éléments et isotopes radioactifs et composés radioactifs autres que ceux des n<sup>os</sup> 28.44.10, 28.44.20 ou 28.44.30.</td></tr>
+<tr><td></td><td></td><td colspan="2">28.44.50</td><td>Éléments combustibles (cartouches) usés (irradiés) de réacteurs nucléaires.</td></tr>
 <tr><td></td><td></td><td colspan="2">28.45.10</td><td>Eau lourde (oxyde de deutérium).</td></tr>
 <tr><td>Charbon, gaz naturel, pétrole et produits pétroliers, énergie électrique</td><td>27.01</td><td colspan="3">Houilles; briquettes, boulets et combustibles solides similaires obtenus à partir de la houille.</td></tr>
 <tr><td></td><td>27.02</td><td colspan="3">Lignites, même agglomérées, à l’exclusion du jais.</td></tr>
@@ -1189,12 +1189,12 @@ Mesures transitoires adoptées par les Parties contractantes
 <tr><td></td><td>27.13</td><td colspan="3">Coke de pétrole, bitume de pétrole et autres résidus des huiles de pétrole ou de minéraux bitumineux.</td></tr>
 <tr><td></td><td>27.14</td><td colspan="3">Bitumes et asphaltes, naturels; schistes et sables bitumineux; asphaltites et roches asphaltiques.</td></tr>
 <tr><td></td><td>27.15</td><td colspan="3">Mélanges bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, «cut-backs», par exemple).</td></tr>
-<tr><td></td><td>27.16</td><td colspan="3">Energie électrique.</td></tr>
+<tr><td></td><td>27.16</td><td colspan="3">Énergie électrique.</td></tr>
 <tr><td>Autre énergie</td><td>44.01.10</td><td colspan="3">Bois de chauffage en rondins, billettes, bûches, fagots ou sous formes similaires.</td></tr>
 <tr><td></td><td>44.02</td><td colspan="3">Charbon de bois (y compris le charbon de coques ou de noix), même aggloméré.</td></tr>
 </table>
 
-\2. Annexe EM II*[^t-4]*
+\2. Annexe EM II[^t-4]
 
 ## Matières et produits énergétiques
 
@@ -1202,7 +1202,7 @@ Mesures transitoires adoptées par les Parties contractantes
 
 (conformément à l’art. 1, par. 4)
 
-\3. Annexe EQ I*[^t-5]*
+\3. Annexe EQ I[^t-5]
 
 ## Liste des équipements liés à l’énergie
 
@@ -1302,7 +1302,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td>8418.61</td><td>– Groupes à compression pour la production du froid, dont le condenseur est constitué par un échangeur de chaleur</td></tr>
 <tr><td></td><td></td><td>8418.69</td><td>– autres</td></tr>
 <tr><td></td><td>Ex 84.19<sup>(\*)</sup>[^annex3-lvlu1-8]</td><td colspan="2">Appareils et dispositifs, même chauffés électriquement, pour le traitement de matières par des opérations impliquant un changement de température telles que le chauffage, la cuisson, la torréfaction, la distillation, la rectification, la stérilisation, la pasteurisation, l’étuvage, le séchage, l’évaporation, la vaporisation, la condensation ou le refroidissement, autres que les appareils domestiques; chauffe-eau non électriques, à chauffage instantané ou à accumulation.</td></tr>
-<tr><td></td><td></td><td>8419.50</td><td>– Echangeurs de chaleur</td></tr>
+<tr><td></td><td></td><td>8419.50</td><td>– Échangeurs de chaleur</td></tr>
 <tr><td></td><td></td><td>8419.60</td><td>– Appareils et dispositifs pour la liquéfaction de l’air ou d’autres gaz</td></tr>
 <tr><td></td><td></td><td></td><td>– autres appareils et dispositifs:</td></tr>
 <tr><td></td><td></td><td>8419.89</td><td>– autres</td></tr>
@@ -1319,7 +1319,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td></td><td>– autres machines et appareils:</td></tr>
 <tr><td></td><td></td><td>Ex 8426.91</td><td>– conçus pour être montés sur un véhicule routier</td></tr>
-<tr><td></td><td></td><td></td><td>– Equipement de levage pour réparer et construire des puits</td></tr>
+<tr><td></td><td></td><td></td><td>– Équipement de levage pour réparer et construire des puits</td></tr>
 <tr><td></td><td>Ex 84.29</td><td colspan="2">Bouteurs (bulldozers), bouteurs biais (angledozers), niveleuses, décapeuses (scrapers), pelles mécaniques, excavateurs, chargeuses et chargeuses-pelleteuses, compacteuses et rouleaux compresseurs, autopropulsés.</td></tr>
 <tr><td></td><td></td><td></td><td>– Pelles mécaniques, excavateurs, chargeuses et chargeuses-pelle-teuses:</td></tr>
 <tr><td></td><td></td><td>Ex 8429.51</td><td>– Chargeuses et chargeuses-pelleteuses à chargement frontal</td></tr>
@@ -1359,7 +1359,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 84.83</td><td colspan="2">Arbres de transmission (y compris les arbres à cames et les vilebrequins) et manivelles; paliers et coussinets; engrenages et roues de friction; broches filetées à billes ou à rouleaux; réducteurs, multiplicateurs et variateurs de vitesse; y compris les convertisseurs de couple; volants et poulies, y compris les poulies à moufles; embrayages et organes d’accouplement, y compris les joints d’articulation.</td></tr>
 <tr><td></td><td></td><td>Ex 8483.40</td><td>– Engrenages et roues de friction, autres que les simples roues et autres organes élémentaires de transmission; broches filetées à billes ou à rouleaux; réducteurs, multiplicateurs et variateurs de vitesse, y compris les convertisseurs de couple.</td></tr>
-<tr><td></td><td></td><td></td><td>– Eléments de transmission exclusivement pour les dispositifs de pompage immergés dans l’industrie du pétrole et du gaz</td></tr>
+<tr><td></td><td></td><td></td><td>– Éléments de transmission exclusivement pour les dispositifs de pompage immergés dans l’industrie du pétrole et du gaz</td></tr>
 <tr><td></td><td>Ex 84.84<sup>(\*)</sup>[^annex3-lvlu1-11]</td><td colspan="2">Joints métalloplastiques; jeux ou assortiments de joints de composition différente présentés en pochettes, enveloppes ou emballages analogues; joints d’étanchéité mécaniques.</td></tr>
 <tr><td></td><td></td><td>8484.10</td><td>– Joints métalloplastiques</td></tr>
 <tr><td></td><td></td><td>8484.20[^annex3-lvlu1-12]</td><td>– Joints d’étanchéité mécaniques</td></tr>
@@ -1380,7 +1380,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td>8504.50</td><td>– autres bobines de réactance et autres selfs</td></tr>
 <tr><td></td><td></td><td>8504.90</td><td>Parties</td></tr>
 <tr><td></td><td>Ex 85.07<sup>(\*)</sup>[^annex3-lvlu1-13]</td><td colspan="2">Accumulateurs électriques, y compris leurs séparateurs, même de forme carrée ou rectangulaire.</td></tr>
-<tr><td></td><td></td><td></td><td>– A l’exclusion de l’utilisation pour les secteurs non énergétiques</td></tr>
+<tr><td></td><td></td><td></td><td>– À l’exclusion de l’utilisation pour les secteurs non énergétiques</td></tr>
 <tr><td></td><td>85.14</td><td colspan="2">Fours électriques industriels ou de laboratoires, y compris ceux fonctionnant par induction ou par pertes diélectriques; autres appareils industriels ou de laboratoires pour le traitement thermique des matières par induction ou par pertes diélectriques.</td></tr>
 <tr><td></td><td>Ex 85.26<sup>(\*)</sup></td><td colspan="2">Appareils de radiodétection et de radiosondage (radar), appareils de radionavigation et appareils de radiotélécommande:</td></tr>
 <tr><td></td><td></td><td>8526.10</td><td>– Appareils de radiodétection et de radiosondage (radar)</td></tr>
@@ -1410,7 +1410,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td>Ex 85.44</td><td colspan="2">Fils, câbles (y compris les câbles coaxiaux) et autres conducteurs isolés pour l’électricité (même laqués ou oxydés anodiquement), munis ou non de pièces de connexion; câbles de fibres optiques, constitués de fibres gainées individuellement, même comportant des conducteurs électriques ou munis de pièces de connexion.</td></tr>
 <tr><td></td><td></td><td>8544.60</td><td>– autres conducteurs électriques, pour tensions excédant 1 000 V</td></tr>
 <tr><td></td><td></td><td>8544.70</td><td>– Câbles de fibres optiques</td></tr>
-<tr><td></td><td>Ex 85.45</td><td colspan="2">Electrodes en charbon, balais en charbon, charbons pour lampes ou pour piles et autres articles en graphite ou en autre carbone, avec ou sans métal, pour usages électriques.</td></tr>
+<tr><td></td><td>Ex 85.45</td><td colspan="2">Électrodes en charbon, balais en charbon, charbons pour lampes ou pour piles et autres articles en graphite ou en autre carbone, avec ou sans métal, pour usages électriques.</td></tr>
 <tr><td></td><td></td><td>8545.20</td><td>– Balais</td></tr>
 <tr><td></td><td>85.46</td><td colspan="2">Isolateurs en toutes matières pour l’électricité.</td></tr>
 <tr><td></td><td>85.47</td><td colspan="2">Pièces isolantes, entièrement en matières isolantes ou comportant de simples pièces métalliques d’assemblage (par exemple, douilles à pas de vis) noyées dans la masse, pour machines, appareils ou installations électriques, autres que les isolateurs du n<sup>o</sup> 8546; tubes isolateurs et leurs pièces de raccordement, en métaux communs, isolés intérieurement.</td></tr>
@@ -1493,7 +1493,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 [^annex3-lvlu1-16]: Couvert par 9030 81 dans la version 1992.
 [^annex3-lvlu1-17]: (\*) Sauf produits déstinés à des aéronefs civils.
 
-\4. Annexe EQ II*[^t-6]*
+\4. Annexe EQ II[^t-6]
 
 ## Liste des équipements liés à l'énergie
 
@@ -1501,7 +1501,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 
 (conformément à l'art. 1, par 4<sup>bis</sup>)
 
-\5. *[^t-7]* Annexe NI
+\5. [^t-7] Annexe NI
 
 ## Matières et produits énergétiques non applicables aux investissements pour la définition de l’«activité économique du secteur de l’énergie»
 
@@ -1515,7 +1515,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td>44.02</td><td>Charbon de bois (y compris le charbon de coques ou de noix), même aggloméré.</td></tr>
 </table>
 
-\6. Annexe TRM*[^t-8]*
+\6. Annexe TRM[^t-8]
 
 ## Notification et élimination progressive (TRM)
 
@@ -1525,7 +1525,7 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 
 \1. Chaque partie contractante notifie au Secrétariat toutes les mesures d’investissement liées au commerce qu’elle applique et qui ne sont pas conformes aux dispositions de l’art. 5, dans un délai de:
 
-- a) 90 jours après l’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC; ou
+- a) 90 jours après l’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC, ou
 - b) 12 mois après l’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l'OMC.
 
 Ces mesures d’investissement liées au commerce, d’application générale ou spécifique, ainsi que leurs principales caractéristiques sont notifiées.
@@ -1534,24 +1534,24 @@ Ces mesures d’investissement liées au commerce, d’application générale ou
 
 \3. Chaque partie contractante élimine toutes les mesures d’investissement liées au commerce qui ont été notifiées conformément au par. 1:
 
-- a) dans les deux ans suivant la date d’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC; ou
+- a) dans les deux ans suivant la date d’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC, ou
 - b) dans les trois ans suivant la date d’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l'OMC.
 
 \4. Durant la période applicable visée au par. 3, une partie contractante ne modifie pas les clauses d’une mesure d’investissement liée au commerce qui à été notifiée conformément au paragraphe 1 par rapport à celles qui étaient utilisées à la date d’entrée en vigueur du présent traité d’une manière qui aboutirait à augmenter le degré d’incompatibilité par rapport aux dispositions de l’art. 5 du présent traité.
 
 \5. Nonobstant les dispositions du par. 4, une partie contractante peut, pour ne pas désavantager des entreprises établies qui sont soumises à une mesure d’investissement liée au commerce qui a été notifiée conformément au par. 1, appliquer cette mesure à un nouvel investissement pendant la période d’élimination lorsque:
 
-- a) les produits d’un tel investissement sont similaires aux produits des entreprises établies; et
+- a) les produits d’un tel investissement sont similaires aux produits des entreprises établies, et
 - b) cette application se révèle nécessaire afin d’éviter des distorsions des conditions de concurrence entre le nouvel investissement et les entreprises établies.
 
 Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel investissement est notifiée au Secrétaire. Les clauses d’une telle mesure sont équivalentes, du point de vue de l’effet concurrentiel, à celles applicables aux entreprises établies, et la mesure s’éteint à la même échéance.
 
-\6. Si un Etat ou une organisation d’intégration économique régionale adhère au présent traité après son entrée en vigueur:
+\6. Si un État ou une organisation d’intégration économique régionale adhère au présent traité après son entrée en vigueur:
 
-- a) la notification visée aux par. 1 et 2 est effectuée à la date applicable selon le par. 1 ou à la date du dépôt de l’instrument d’adhésion, la date la plus tardive étant retenue; et
-- b) la période d’élimination prend fin à la date applicable selon le par. 3 ou à la date d’entrée en vigueur du présent traité pour cet Etat ou cette organisation d’intégration économique régionale, la date la plus tardive étant retenue.
+- a) la notification visée aux par. 1 et 2 est effectuée à la date applicable selon le par. 1 ou à la date du dépôt de l’instrument d’adhésion, la date la plus tardive étant retenue, et
+- b) la période d’élimination prend fin à la date applicable selon le par. 3 ou à la date d’entrée en vigueur du présent traité pour cet État ou cette organisation d’intégration économique régionale, la date la plus tardive étant retenue.
 
-7.*[^t-9]* Annexe N
+7.[^t-9] Annexe N
 
 ## Liste des Parties contractantes demandant qu’au moins trois zones différentes soient concernées par un transit
 
@@ -1559,9 +1559,9 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 (conformément à l’art. 7, par. 10, point a))
 
-\1. Le Canada et les Etats-Unis d’Amérique.
+\1. Le Canada et les États-Unis d’Amérique.
 
-8.*[^t-10]* Annexe VC
+8.[^t-10] Annexe VC
 
 ## Liste des Parties contractantes qui se sont volontairement engagées à respecter l’art. 10, par. 3
 
@@ -1569,7 +1569,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 (conformément à l’art. 10, par. 6)
 
-9.*[^t-11]* Annexe ID
+9.[^t-11] Annexe ID
 
 ## Liste des Parties contractantes qui ne permettent pas à un investisseur de soumettre de nouveau le même différend à un arbitrage international à un stade ultérieur au titre de l’art. 26
 
@@ -1623,9 +1623,9 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \23. Suède
 
-\24. Etats-Unis d’Amérique
+\24. États-Unis d’Amérique
 
-10.*[^t-12]* Annexe IA
+10.[^t-12] Annexe IA
 
 ## Liste des Parties contractantes qui n’autorisent pas un investisseur ou une partie contractante à soumettre un différend concernant la dernière phrase de l’art. 10, par. 1, à un arbitrage international
 
@@ -1641,7 +1641,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \4. Norvège
 
-11.*[^t-13]* Annexe P
+11.[^t-13] Annexe P
 
 ## Procédure spéciale sous-nationale de règlement des différends
 
@@ -1670,11 +1670,11 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 - a) Elle cherche d’abord à suspendre les obligations qui concernent la même partie du traité que celle a l’égard de laquelle le tribunal a découvert une infraction.
 - b) Si elle estime qu’il n’est pas praticable ou efficace de suspendre des obligations relevant de la même partie du traité, elle peut chercher à suspendre des obligations relevant d’autres parties du traité. Si elle décide de demander l’autorisation de suspendre des obligations en vertu du présent point, elle en indique les motifs dans sa demande d’autorisation adressée à la Conférence de la Charte.
 
-\6. A la demande écrite de la partie responsable, adressée à la partie lésée et au président du tribunal qui a rendu la sentence, le tribunal détermine si le niveau des obligations suspendues par la partie lésée est excessif et, dans ce cas, dans quelle mesure il l’est. Si le tribunal ne peut être reconstitué, cette détermination est effectuée par un ou plusieurs arbitres désignés par le Secrétaire général. Les déterminations effectuées en vertu du présent paragraphe doivent être terminées dans les 60 jours suivant la demande faite au tribunal ou la désignation effectuée par le Secrétaire général. Les obligations ne sont pas suspendues dans l’attente de la détermination, laquelle sera définitive et contraignante.
+\6. À la demande écrite de la partie responsable, adressée à la partie lésée et au président du tribunal qui a rendu la sentence, le tribunal détermine si le niveau des obligations suspendues par la partie lésée est excessif et, dans ce cas, dans quelle mesure il l’est. Si le tribunal ne peut être reconstitué, cette détermination est effectuée par un ou plusieurs arbitres désignés par le Secrétaire général. Les déterminations effectuées en vertu du présent paragraphe doivent être terminées dans les 60 jours suivant la demande faite au tribunal ou la désignation effectuée par le Secrétaire général. Les obligations ne sont pas suspendues dans l’attente de la détermination, laquelle sera définitive et contraignante.
 
 \7. En suspendant ses obligations à l’égard de la partie responsable, la partie lésée s’efforce dans toute la mesure du possible de ne pas affecter de manière négative les droits que possèdent et dont jouissent les autres parties contractantes en vertu du traité.
 
-\12. Annexe W*[^t-14]*
+\12. Annexe W[^t-14]
 
 ## Exceptions et règles régissant l’application des dispositions de l'accord OMC
 
@@ -1699,7 +1699,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 <tr><td></td><td>II</td><td>Listes de concessions, par. 1 point (a), 1 point (b), 1<sup>re</sup> phrase, 1 point (c) et 7</td></tr>
 <tr><td></td><td>IV</td><td>Dispositions spéciales relatives aux films cinématographiques</td></tr>
 <tr><td></td><td>XV</td><td>Dispositions en matière de change</td></tr>
-<tr><td></td><td>XVIII</td><td>Aide d’Etat en faveur du développement économique</td></tr>
+<tr><td></td><td>XVIII</td><td>Aide d’État en faveur du développement économique</td></tr>
 <tr><td></td><td>XXII</td><td>Consultations</td></tr>
 <tr><td></td><td>XXIII</td><td>Protection des concessions et des avantages</td></tr>
 <tr><td></td><td>XXIV</td><td>Unions douanières et zones de libre-échange, par. 6</td></tr>
@@ -1734,7 +1734,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 <table>
 <tr><td></td><td>1</td><td>seulement l’expression «afin que le groupe de travail qui sera établi en application du par. 5 les examine»</td></tr>
-<tr><td></td><td>5</td><td>Groupe de travail sur le commerce d’Etat</td></tr>
+<tr><td></td><td>5</td><td>Groupe de travail sur le commerce d’État</td></tr>
 </table>
 
 - Mémorandum d’accord sur les dispositions du GATT 1994 relatives à la balance des paiements
@@ -1928,7 +1928,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 ### B. Règles régissant l’application des dispositions de l’accord OMC
 
-\1. A défaut d’interprétation appropriée de l’accord OMC adoptée par la Conférence ministérielle ou le Conseil général de l’Organisation mondiale du commerce en vertu de l’art. IX, par. 2, de l’accord OMC, en ce qui concerne des dispositions applicables en vertu de l’art. 29, par. 2, point (a), la Conférence sur la Charte peut adopter une interprétation.
+\1. À défaut d’interprétation appropriée de l’accord OMC adoptée par la Conférence ministérielle ou le Conseil général de l’Organisation mondiale du commerce en vertu de l’art. IX, par. 2, de l’accord OMC, en ce qui concerne des dispositions applicables en vertu de l’art. 29, par. 2, point (a), la Conférence sur la Charte peut adopter une interprétation.
 
 \2. Les demandes de dérogations en vertu de l’art. 29, par. 2 et 6 (b) seront soumises à la Conférence sur la Charte, qui suivra, pour accomplir ces devoirs, les procédures de l’art. IX, par. 3 et 4, de l’accord OMC.
 
@@ -1953,7 +1953,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 - vii) Chaque partie contractante notifie au secrétariat les droits de douane et taxes de tout type applicables à la date du statu quo visé à l’art. 29, par. 6, première phrase. Le secrétariat tiendra un répertoire des tarifs des droits de douane et taxes de tout type pertinents aux fins du statu quo concernant les droits de douane et taxes de tout type en vertu de l’art. 29, par. 6 ou 7.
 
-\5. La décision du 26 mars 1980 relative à l’«Etablissement d’un système à feuillets mobiles pour les listes de concessions tarifaires» (IBDD S27/24) n’est pas applicable en vertu de l’art. 29, par. 2, point (a). Sans préjudice de l’art. 29, par. 4, 5 ou 7, les dispositions applicables du Mémorandum d’accord sur l’interprétation de l’art. II: 1(b) du GATT 1994 s’appliquent avec les modifications suivantes:
+\5. La décision du 26 mars 1980 relative à l’«Établissement d’un système à feuillets mobiles pour les listes de concessions tarifaires» (IBDD S27/24) n’est pas applicable en vertu de l’art. 29, par. 2, point (a). Sans préjudice de l’art. 29, par. 4, 5 ou 7, les dispositions applicables du Mémorandum d’accord sur l’interprétation de l’art. II: 1(b) du GATT 1994 s’appliquent avec les modifications suivantes:
 
 - i) Afin d’assurer la transparence des droits et obligations légaux découlant de l’art. II, par. 1 (b) du GATT 1994, la nature et le niveau de tous «autres droits de douane ou taxes» prélevés à l’importation ou à l’exportation de matières et de produits énergétiques énumérés à l’annexe EM II ou d’ équipements liés à l’énergie énumérés à l’annexe EQ II, visés dans ladite disposition, seront inscrits dans le répertoire des tarifs aux niveaux s’appliquant à la date du statu quo visé à l’art. 29, par. 6, première phrase, ou en vertu de l’art. 29, par. 7 respectivement, en regard de la position tarifaire à laquelle ils s’appliquent. Il est entendu que cette inscription ne modifie pas la nature juridique des «autres droits ou taxes».
 - ii) Les «autres droits ou taxes» sont enregistrés en ce qui concerne les matières et produits énergétiques énumérés à l’annexe EM II et les équipements liés à l’énergie énumérés à l’annexe EQ II.
@@ -1979,32 +1979,32 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 \13. Annexe TFU
 
-## Dispositions concernant les Accords commerciaux entre les Etats qui ont fait partie de l’ancienne Union des Républiques socialistes soviétiques
+## Dispositions concernant les Accords commerciaux entre les États qui ont fait partie de l’ancienne Union des Républiques socialistes soviétiques
 
 (conformément à l’art. 29, par. 2, let. b)
 
 \1. Tout accord visé à l’art. 29, par. 2, point b), est notifié par écrit au Secrétariat par toutes les parties à cet accord qui signent le traité ou y adhèrent, ou en leur nom:
 
-- a) dans le cas d’un accord en vigueur trois mois après la date à laquelle la première de ces parties signe ou dépose ses instruments d’adhésion au traité, au plus tard six mois après la date de la signature ou du dépôt; et
-- b) dans le cas d’un accord qui entre en vigueur à une date ultérieure à celle mentionnée au point a), en temps utile avant son entrée en vigueur pour permettre aux autres Etats ou aux organisations d’intégration économique régionale qui ont signé le traité ou y ont adhéré, ci-après dénommées «parties intéressées», d’avoir une possibilité raisonnable de réviser l’accord et de faire leurs observations à ce sujet aux parties concernées et à la Conférence de la Charte avant l’entrée en vigueur dudit accord.
+- a) dans le cas d’un accord en vigueur trois mois après la date à laquelle la première de ces parties signe ou dépose ses instruments d’adhésion au traité, au plus tard six mois après la date de la signature ou du dépôt, et
+- b) dans le cas d’un accord qui entre en vigueur à une date ultérieure à celle mentionnée au point a), en temps utile avant son entrée en vigueur pour permettre aux autres États ou aux organisations d’intégration économique régionale qui ont signé le traité ou y ont adhéré, ci-après dénommées «parties intéressées», d’avoir une possibilité raisonnable de réviser l’accord et de faire leurs observations à ce sujet aux parties concernées et à la Conférence de la Charte avant l’entrée en vigueur dudit accord.
 
 \2. La notification comprend:
 
 - a) des copies des textes originaux de l’accord dans toutes les langues dans lesquelles il a été signé;
 - b) une description, par référence aux positions figurant à l’annexe EM, des matières et produits énergétiques spécifiques auxquels l’accord s’applique;
 - c) une explication, séparée pour chacune des dispositions pertinentes de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a), des circonstances à cause desquelles il est impossible ou impraticable pour les parties à l’accord de se conformer totalement à cette disposition;
-- d) les mesures spécifiques à adopter par chaque partie à l’accord en vue de faire face aux circonstances visées au point c); et
+- d) les mesures spécifiques à adopter par chaque partie à l’accord en vue de faire face aux circonstances visées au point c), et
 - e) une description des programmes des parties en vue de parvenir à une réduction progressive et, en définitive, à une suppression des dispositions non conformes de l’accord.
 
-\3. Les parties à un accord notifié conformément au par. 1 offrent aux parties intéressées une possibilité raisonnable de les consulter au sujet de cet accord et prennent leurs observations en considération. A la demande d’une des parties intéressées, l’accord est examiné par la Conférence de la Charte, qui peut adopter des recommandations à cet égard.
+\3. Les parties à un accord notifié conformément au par. 1 offrent aux parties intéressées une possibilité raisonnable de les consulter au sujet de cet accord et prennent leurs observations en considération. À la demande d’une des parties intéressées, l’accord est examiné par la Conférence de la Charte, qui peut adopter des recommandations à cet égard.
 
-\4. La Conférence de la Charte révise régulièrement l’application des accords notifiés conformément au par. 1 ainsi que les progrès réalisés en vue de la suppression des dispositions de ces accords qui ne sont pas conformes aux dispositions de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a). A la demande d’une des parties intéressées, la Conférence de la Charte peut adopter des recommandations au sujet d’un tel accord.
+\4. La Conférence de la Charte révise régulièrement l’application des accords notifiés conformément au par. 1 ainsi que les progrès réalisés en vue de la suppression des dispositions de ces accords qui ne sont pas conformes aux dispositions de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a). À la demande d’une des parties intéressées, la Conférence de la Charte peut adopter des recommandations au sujet d’un tel accord.
 
 \5. Un accord tel que visé à l’art. 29, par. 2, point b), peut, dans des cas d’urgence exceptionnelle, entrer en vigueur sans la notification et la consultation prévues au par. 1, point b) et aux par. 2 et 3, à condition que la notification ait lieu et que la possibilité de consultation soit offerte rapidement. Dans ce cas, les parties à l’accord communiquent néanmoins promptement le texte de l’accord, conformément au par. 2 point a), après son entrée en vigueur.
 
 \6. Les parties contractantes qui sont ou deviennent parties à un accord tel que visé à l’art. 29, par. 2, point b), s’engagent à en limiter la non-conformité avec les dispositions de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a), aux cas strictement nécessaires pour faire face aux circonstances particulières et à appliquer cet accord d’une manière qui s’écarte le moins possible desdites dispositions. Elles mettent tout en œuvre pour prendre des mesures de redressement à la lumière des observations des parties intéressées et des recommandations de la Conférence de la Charte.
 
-\14. Annexe BR*[^t-15]*
+\14. Annexe BR[^t-15]
 
 ## Liste des parties contractantes qui ne peuvent augmenter les droits de douane ou autres taxes au-delà du niveau résultant de leurs engagements ou de toutes dispositions qui leur sont applicables en vertu de l’accord OMC
 
@@ -2012,7 +2012,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 (conformément à l'art. 29, par. 7)
 
-\15. Annexe BRQ*[^t-16]*
+\15. Annexe BRQ[^t-16]
 
 ## Liste des parties contractantes qui ne peuvent augmenter les droits de douane ou autres taxes au-delà du niveau résultant de leurs engagements ou de toutes dispositions qui leur sont applicables en vertu de l’accord OMC
 
@@ -2020,7 +2020,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 (conformément à l’art. 29, par. 7)
 
-\16. Annexe D*[^t-17]*
+\16. Annexe D[^t-17]
 
 ## Dispositions provisoires pour le règlement des différents commerciaux
 
@@ -2035,7 +2035,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 - 2\. a) Si, dans les 60 jours après réception de la demande de consultations visée au par. 1 point b), ou qu’elles annulent ou entravent les avantages qu’elle peut en attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29, les parties contractantes n’ont pas réglé leur différend ni convenu de le régler par voie de conciliation, de médiation ou d’arbitrage ou par une autre méthode, l’une ou l’autre des parties contractantes peut adresser au Secrétariat une demande écrite en vue de la constitution du jury prévu aux points b) à f). Dans sa demande, la partie contractante requérante précise l’objet du différend et indique les dispositions des art. 5 ou 29 ainsi que des articles de l'accord OMC qu’elle juge pertinentes. Le Secrétariat fournit promptement des copies de la demande à toutes les parties contractantes.
 - b) Les intérêts des autres parties contractantes sont pris en considération pendant le règlement d’un différend. Toute autre partie contractante qui a un intérêt substantiel dans une affaire a le droit d’être entendue par le jury et de présenter des observations écrites au jury, à condition que les parties contractantes en litige et le Secrétariat aient reçu notification écrite de cet intérêt au plus tard à la date de constitution du jury, faite conformément au point c).
 - c) Le jury est supposé constitué 45 jours après la date de réception de la demande écrite d’une partie contractante par le Secrétariat conformément au point a).
-- d) Le jury se compose de trois membres qui sont choisis par le Secrétaire général sur la liste visée au par. 7. Sauf convention contraire entre les deux parties contractantes en litige, les membres d’un jury ne peuvent être des citoyens des parties contractantes qui sont parties au différend ou ont notifié leur intérêt conformément au point b), ni des citoyens d’Etats membres d’une organisation d’intégration économique régionale qui est partie au différend ou a notifié son intérêt conformément au point b).
+- d) Le jury se compose de trois membres qui sont choisis par le Secrétaire général sur la liste visée au par. 7. Sauf convention contraire entre les deux parties contractantes en litige, les membres d’un jury ne peuvent être des citoyens des parties contractantes qui sont parties au différend ou ont notifié leur intérêt conformément au point b), ni des citoyens d’États membres d’une organisation d’intégration économique régionale qui est partie au différend ou a notifié son intérêt conformément au point b).
 - e) Les parties contractantes en litige réagissent dans les dix jours ouvrables aux nominations des membres du jury et ne s’oppose pas aux nominations, sauf pour des raisons impératives.
 - f) Les membres du jury officient en leur qualité de particuliers et ne reçoivent d’instructions d’aucun gouvernement ni d’aucun autre organe. Chaque partie contractante s’engage à respecter ces principes et à ne pas chercher à influencer les membres du jury dans l’exécution de leur tâche. Lors du choix des membres du jury, il est tenu compte de la nécessité de garantir l’indépendance des membres et de faire en sorte que le jury reflète des horizons suffisamment différents et dispose d’un large éventail d’expériences.
 - g) Le Secrétariat notifie rapidement à toutes les parties contractantes la constitution du jury.
@@ -2074,7 +2074,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 - b) il n’y a aucune obligation de retirer une mesure dont il a été constaté qu’elle annule ou entrave les avantages en vertu de l’art. 29 sans qu’il y ait violation de cet article; en pareil cas, le jury recommande néanmoins que la partie contractante concernée procède à un ajustement mutuellement satisfaisant;
 - c) le jury d’arbitrage prévu au par. 6, point (b), peut déterminer, à la demande de l’une ou l’autre des parties, l’importance des avantages qui ont été annulés ou entravés et peut également suggérer des moyens d’atteindre un ajustement mutuellement satisfaisant; ces suggestions ne sont pas obligatoires pour les parties au différend.
 
-17.*[^t-18]* Annexe B
+17.[^t-18] Annexe B
 
 ## Formules de répartition des frais découlant de la Charte
 
@@ -2086,7 +2086,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 \2. Les contributions sont adaptées, si nécessaire, afin que le total des contributions des parties contractantes atteigne 100 %.
 
-18.*[^t-19]* Annexe PA
+18.[^t-19] Annexe PA
 
 ## Liste des signataires qui n’acceptent pas l’application provisoire de l’art. 45, par. 3, point b)
 
@@ -2106,7 +2106,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 \6. La Slovaquie
 
-19.*[^t-20]* Annexe T
+19.[^t-20] Annexe T
 
 ## Mesures transitoires adoptées par les Parties contractantes
 
@@ -2139,12 +2139,12 @@ La Fédération de Russie peut demander que les entreprises à participation ét
 \1) Le terme «liberté des transferts» apparaissant à l’art. 14 par. 1 n’empêche pas une partie contractante, ci-après dénommée «partie restreignante», d’appliquer des restrictions aux mouvements de capitaux de ses propres investisseurs, à condition que:
 
 - a) ces restrictions n’entravent pas l’exercice des droits accordés en vertu de l’art. 14, par. 1, aux investisseurs des autres parties contractantes en ce qui concerne leurs investissements;
-- b) ces restrictions n’affectent pas les opérations commerciales courantes; et
-- c) la partie contractante assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout Etat tiers, le traitement à retenir étant celui qui est le plus favorable.
+- b) ces restrictions n’affectent pas les opérations commerciales courantes, et
+- c) la partie contractante assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout État tiers, le traitement à retenir étant celui qui est le plus favorable.
 
 \2) La présente décision sera examinée par la Conférence de la Charte cinq ans après l’entrée en vigueur du traité, mais au plus tard à la date prévue à l’art. 32, par. 3.
 
-\3) Aucune partie contractante n’a le droit d’appliquer ces restrictions à moins qu’elle ne soit un Etat qui a fait partie de l’ancienne Union des républiques socialistes soviétiques et qu’elle ait fait savoir par écrit au Secrétariat provisoire, avant le 1<sup>er</sup> juillet 1995, qu’elle souhaite pouvoir appliquer des restrictions conformément à la présente décision.
+\3) Aucune partie contractante n’a le droit d’appliquer ces restrictions à moins qu’elle ne soit un État qui a fait partie de l’ancienne Union des républiques socialistes soviétiques et qu’elle ait fait savoir par écrit au Secrétariat provisoire, avant le 1<sup>er</sup> juillet 1995, qu’elle souhaite pouvoir appliquer des restrictions conformément à la présente décision.
 
 \4) Afin de prévenir toute équivoque, la présente décision ne déroge en rien, en ce qui concerne l’art. 16, aux droits qui en découlent pour les parties contractantes, ses investisseurs ou leurs investissements, ni aux obligations des parties contractantes.
 
@@ -2152,26 +2152,26 @@ La Fédération de Russie peut demander que les entreprises à participation ét
 
 \4. En ce qui concerne l’art. 14, par. 2
 
-Sans préjudice des conditions énoncées à l’art. 14 et de ses autres obligations internationales, la Roumanie s’efforce, au cours de la transition vers une convertibilité totale de sa monnaie nationale, de prendre les mesures appropriées pour améliorer l’efficacité de ses procédures de transfert de revenus d’investissements et garantit, dans tous les cas, ces transferts en une monnaie librement convertible sans restriction ni retard excédant six mois. La Roumanie assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout Etat tiers, le traitement à retenir celui qui est le plus avantageux.
+Sans préjudice des conditions énoncées à l’art. 14 et de ses autres obligations internationales, la Roumanie s’efforce, au cours de la transition vers une convertibilité totale de sa monnaie nationale, de prendre les mesures appropriées pour améliorer l’efficacité de ses procédures de transfert de revenus d’investissements et garantit, dans tous les cas, ces transferts en une monnaie librement convertible sans restriction ni retard excédant six mois. La Roumanie assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout État tiers, le traitement à retenir celui qui est le plus avantageux.
 
 \5. En ce qui concerne l’art. 24, par. 4, point a) et l’art. 25
 
 Les investissements d’un investisseur visés à l’art. 1, par. 7, point a) ii), ou d’une partie contractante qui n’est pas partie à un AIE ni membre d’une zone de libre échange ou d’une union douanière bénéficient du traitement accordé par cet AIE, cette zone de libre échange ou cette union douanière, à condition que les bénéficiaires de ces investissements:
 
-- a) aient leur siège social, leur administration centrale ou leur principal établissement dans la zone d’une partie à l’AIE ou d’un membre de cet espace de libre échange ou de cette union douanière; ou
+- a) aient leur siège social, leur administration centrale ou leur principal établissement dans la zone d’une partie à l’AIE ou d’un membre de cet espace de libre échange ou de cette union douanière, ou
 - b) si ces investissements sont simplement établis sur leur sol, qu’ils aient un lien effectif et suivi avec l’économie d’une partie à cet AIE ou d’un membre de cette zone de libre échange ou de cette union douanière.
 
 [^annex19T-lvlu2-1]: [RS 0.142.115.981](https://fedlex.data.admin.ch/eli/cc/41/464_470_450)
 
 ## Acte final de la Conférence sur la Charte européenne de l’énergie
 
-I. La dernière séance plénière de la Conférence sur la Charte européenne de l’énergie s’est tenue à Lisbonne les 16 et 17 décembre 1994. Les représentants de la République d’Albanie, de la République fédérale d’Allemagne, de la République d’Arménie, de l’Australie, de la République d’Autriche, de la République azerbaïdjanaise, du Royaume de Belgique, de la République du Belarus, de la République de Bulgarie, du Canada, de la République de Chypre, des Communautés européennes, de la République de Croatie, du Royaume de Danemark, des Etats-Unis d’Amérique, du Royaume d’Espagne, de la République d’Estonie, de la République de Finlande, de la République française, de la République de Géorgie, de la République hellénique, de la République de Hongrie, de l’Irlande, de la République de l’Islande, de la République italienne, du Japon, de la République du Kazakhstan, de la République kirghize, de la République de Lettonie, de la Principauté du Liechtenstein, de la République de Lituanie, du Grand-Duché de Luxembourg, de la République de Malte, de la République de Moldova, du Royaume de Norvège, de la République d’Ouzbékistan, du Royaume des Pays-Bas, de la République de Pologne, de la République portugaise, de la Roumanie, de la Fédération de Russie, de la République slovaque, de la République de Slovénie, du Royaume de Suède, de la Confédération suisse, de la République tchèque, de la République de Turquie, de la République du Tadjikistan, du Turkménistan, de l’Ukraine et du Royaume de Grande-Bretagne et d’Irlande du Nord, ci-après dénommés «représentants», ont participé à la Conférence, de même que des observateurs de certains pays et de certaines organisations internationales qui étaient invités à y prendre part.
+I. La dernière séance plénière de la Conférence sur la Charte européenne de l’énergie s’est tenue à Lisbonne les 16 et 17 décembre 1994. Les représentants de la République d’Albanie, de la République fédérale d’Allemagne, de la République d’Arménie, de l’Australie, de la République d’Autriche, de la République azerbaïdjanaise, du Royaume de Belgique, de la République du Belarus, de la République de Bulgarie, du Canada, de la République de Chypre, des Communautés européennes, de la République de Croatie, du Royaume de Danemark, des États-Unis d’Amérique, du Royaume d’Espagne, de la République d’Estonie, de la République de Finlande, de la République française, de la République de Géorgie, de la République hellénique, de la République de Hongrie, de l’Irlande, de la République de l’Islande, de la République italienne, du Japon, de la République du Kazakhstan, de la République kirghize, de la République de Lettonie, de la Principauté du Liechtenstein, de la République de Lituanie, du Grand-Duché de Luxembourg, de la République de Malte, de la République de Moldova, du Royaume de Norvège, de la République d’Ouzbékistan, du Royaume des Pays-Bas, de la République de Pologne, de la République portugaise, de la Roumanie, de la Fédération de Russie, de la République slovaque, de la République de Slovénie, du Royaume de Suède, de la Confédération suisse, de la République tchèque, de la République de Turquie, de la République du Tadjikistan, du Turkménistan, de l’Ukraine et du Royaume de Grande-Bretagne et d’Irlande du Nord, ci-après dénommés «représentants», ont participé à la Conférence, de même que des observateurs de certains pays et de certaines organisations internationales qui étaient invités à y prendre part.
 
 ### Contexte
 
 II. Lors de la réunion du Conseil européen de Dublin de juin 1990, le Premier ministre des Pays-Bas a suggéré que le redressement économique en Europe de l’Est et dans l’ancienne Union des républiques socialistes soviétiques pouvait être catalysé et accéléré par une coopération dans le secteur de l’énergie. Cette suggestion a été accueillie favorablement par le Conseil, qui a invité la Commission des Communautés européennes à étudier la meilleure manière de mettre en œuvre cette coopération. En février 1991, la Commission a proposé l’idée d’une Charte européenne de l’énergie.
 
-A la suite de l’examen de la proposition de la Commission au Conseil des Communautés européennes, les Communautés européennes ont invité les autres pays de l’Europe occidentale et orientale, de l’Union des républiques socialistes soviétiques et les membres non européens de l’Organisation de coopération et de développement économiques à participer à une conférence devant se tenir à Bruxelles en juillet 1991 et destinée au lancement des négociations sur la Charte européenne de l’énergie. Un certain nombre d’autres pays et d’organisations internationales ont été invités à participer en qualité d’observateurs à la Conférence sur la Charte européenne de l’énergie.
+À la suite de l’examen de la proposition de la Commission au Conseil des Communautés européennes, les Communautés européennes ont invité les autres pays de l’Europe occidentale et orientale, de l’Union des républiques socialistes soviétiques et les membres non européens de l’Organisation de coopération et de développement économiques à participer à une conférence devant se tenir à Bruxelles en juillet 1991 et destinée au lancement des négociations sur la Charte européenne de l’énergie. Un certain nombre d’autres pays et d’organisations internationales ont été invités à participer en qualité d’observateurs à la Conférence sur la Charte européenne de l’énergie.
 
 Les négociations sur la Charte européenne de l’énergie ont été clôturées en 1991 et la Charte a été adoptée par la signature d’un document de clôture à une conférence tenue à La Haye les 16 et 17 décembre 1991. Les signataires de la Charte, qui ont signé à cette date ou subséquemment, comprennent tous ceux qui sont énumérés au paragraphe I qui précède, excepté les observateurs.
 
@@ -2185,7 +2185,7 @@ Les négociations relatives au traité sur la Charte de l’énergie et le proto
 
 ### Le traité sur la Charte de l’énergie
 
-III. A l’issue de ses délibérations, la Conférence sur la Charte européenne de l’énergie a adopté le texte du traité sur la Charte de l’énergie, ci-après dénommé «traité», qui figure à l’annexe 1, ainsi que les décisions y relatives, qui figurent à l’annexe 2, et elle est convenue que le traité serait ouvert à la signature à Lisbonne du 17 décembre 1994 au 16 juin 1995.
+III. À l’issue de ses délibérations, la Conférence sur la Charte européenne de l’énergie a adopté le texte du traité sur la Charte de l’énergie, ci-après dénommé «traité», qui figure à l’annexe 1, ainsi que les décisions y relatives, qui figurent à l’annexe 2, et elle est convenue que le traité serait ouvert à la signature à Lisbonne du 17 décembre 1994 au 16 juin 1995.
 
 ### Clauses interprétatives
 
@@ -2198,7 +2198,7 @@ IV. En signant l’Acte final, les représentants sont convenus d’adopter les 
 
   Les dispositions du traité:
 
-  - i) n’obligent aucune partie contractante à instituer un accès obligatoire des tiers; ou
+  - i) n’obligent aucune partie contractante à instituer un accès obligatoire des tiers, ou
   - ii) n’empêchent pas l’utilisation de systèmes de fixation des prix qui appliqueraient, à l’intérieur d’une catégorie déterminée de consommateurs, des prix identiques à des clients situés en différents endroits.
 
 - c) Les dérogations à la clause de la nation la plus favorisée ne sont pas destinées à couvrir les mesures spécifiques pour un investisseur ou un groupe d’investisseurs, au lieu de s’appliquer de manière générale.
@@ -2215,7 +2215,7 @@ IV. En signant l’Acte final, les représentants sont convenus d’adopter les 
   - iii) le transport par voie terrestre, la distribution, le stockage et la fourniture de matières et de produits énergétiques, par exemple au moyen de réseaux et de pipelines ou de lignes ferroviaires spéciales de transmission et de distribution, ainsi que la construction d’équipements à ces fins, y compris la pose d’oléoducs, de gazoducs et de conduites pour l’acheminement de boues de charbon;
   - iv) l’enlèvement et l’élimination des déchets provenant d’installations liées à l’énergie, telles que les centrales électriques, y compris les déchets radioactifs provenant des centrales nucléaires;
   - v) le déclassement des installations liées à l’énergie, y compris les plates-formes pétrolières, les raffineries de pétrole et les centrales électriques;
-  - vi) la commercialisation, la vente et les échanges de matières et de produits énergétiques, par exemple la vente d’essence au détail; et
+  - vi) la commercialisation, la vente et les échanges de matières et de produits énergétiques, par exemple la vente d’essence au détail, et
   - vii) les activités de recherche, de conseil, de planification, de gestion et de conception liées aux activités mentionnées ci-dessus, y compris celles visant à améliorer l’efficacité énergétique.
 
 \3. En ce qui concerne l’art. 1, point 6
@@ -2223,7 +2223,7 @@ IV. En signant l’Acte final, les représentants sont convenus d’adopter les 
 Pour permettre de déterminer avec plus de clarté si un investissement réalisé dans la zone d’une partie contractante est contrôlé, directement ou indirectement, par un investisseur d’une autre partie contractante, on entend par «contrôle d’un investissement» le contrôle de fait, effectué après un examen des éléments concrets de chaque situation. Lors de cet examen, tous les éléments pertinents devraient être pris en considération, et notamment:
 
 - a) l’intérêt financier de l’investisseur, y compris l’intérêt de participation, dans l’investissement;
-- b) la capacité de l’investisseur à exercer une influence substantielle sur la gestion et l’exploitation de l’investissement; et
+- b) la capacité de l’investisseur à exercer une influence substantielle sur la gestion et l’exploitation de l’investissement, et
 - c) la capacité de l’investisseur à exercer une influence substantielle sur la sélection des membres du conseil d’administration ou de tout autre organe de direction.
 
 En cas de doute sur le point de savoir si l’investisseur contrôle, directement ou indirectement, un investissement, l’investisseur revendiquant ce contrôle doit fournir la preuve de l’existence de ce contrôle.
@@ -2251,7 +2251,7 @@ La législation applicable comprend en principe les dispositions en matière de 
 
 \9. En ce qui concerne les art. 9 et 10 et la partie V
 
-Etant donné que les programmes d’une partie contractante qui accorde des prêts, subventions, garanties ou assurances publics en vue de faciliter les échanges ou les investissements à l’étranger ne sont pas liés à des investissements ou à des activités connexes d’investisseurs d’autres parties contractantes opérant dans sa zone, ces programmes peuvent faire l’objet de restrictions en ce qui concerne la participation à ceux-ci.
+Étant donné que les programmes d’une partie contractante qui accorde des prêts, subventions, garanties ou assurances publics en vue de faciliter les échanges ou les investissements à l’étranger ne sont pas liés à des investissements ou à des activités connexes d’investisseurs d’autres parties contractantes opérant dans sa zone, ces programmes peuvent faire l’objet de restrictions en ce qui concerne la participation à ceux-ci.
 
 \10. En ce qui concerne l’art. 10, par. 4
 
@@ -2326,38 +2326,38 @@ L’Australie note en outre qu’il ne serait pas approprié que les organes de 
 
 \3. En ce qui concerne l’art. 7
 
-Les Communautés européennes et leurs Etats membres, ainsi que l’Autriche, la Norvège, la Suède et la Finlande, déclarent que les dispositions de l’art. 7 sont soumises aux règles d’usage du droit international en matière de juridiction sur les câbles et pipelines sous-marins ou, en l’absence de telles règles, au droit international général.
+Les Communautés européennes et leurs États membres, ainsi que l’Autriche, la Norvège, la Suède et la Finlande, déclarent que les dispositions de l’art. 7 sont soumises aux règles d’usage du droit international en matière de juridiction sur les câbles et pipelines sous-marins ou, en l’absence de telles règles, au droit international général.
 
 Ils déclarent également que l’art. 7 n’est pas destiné à affecter l’interprétation du droit international existant en matière de juridiction sur les câbles et pipelines sous-marins et qu’il ne peut être considéré comme ayant un tel effet.
 
 \4. En ce qui concerne l’art. 10
 
-Le Canada et les Etats-Unis affirment tous deux qu’ils appliqueront les dispositions de l’art. 10 en conformité avec les considérations suivantes:
+Le Canada et les États-Unis affirment tous deux qu’ils appliqueront les dispositions de l’art. 10 en conformité avec les considérations suivantes:
 
 Aux fins de l’appréciation du traitement qui doit être accordé aux investisseurs des autres parties contractantes et à leurs investissements, il sera nécessaire d’examiner les circonstances cas par cas. Une comparaison entre le traitement accordé aux investisseurs d’une partie contractante ou aux investissements des investisseurs d’une partie contractante et celui accordé aux investisseurs ou aux investissements d’une autre partie contractante n’est valable que si elle est faite entre investisseurs et investissements se trouvant dans des circonstances similaires. Pour déterminer si un traitement différentiel des investisseurs ou des investissements est compatible avec l’art. 10, il y a lieu de prendre en considération deux facteurs fondamentaux.
 
-Le premier facteur réside dans les objectifs de politique générale des parties contractantes dans différents domaines, dans la mesure où ils sont compatibles avec les principes de non-discrimination énoncés à l’art. 10. Des objectifs légitimes peuvent justifier un traitement différentiel des investisseurs ou des investissements étrangers afin de refléter une différence de circonstances pertinentes entre ces investisseurs et ces investissements et leurs homologues nationaux. A titre d’exemple, l’objectif visant à assurer l’intégrité du système financier d’un pays peut justifier des mesures prudentielles raisonnables envers des investisseurs ou investissements étrangers, alors que de telles mesures ne sont pas nécessaires pour assurer la réalisation des mêmes objectifs lorsqu’il s’agit d’investisseurs ou d’investissements nationaux. Ces investisseurs étrangers ou leurs investissements ne se trouveraient ainsi pas dans des «circonstances similaires» à celles des investisseurs nationaux ou de leurs investissements. Par conséquent, même si une telle mesure revient à accorder un traitement différentiel, elle n’est pas contraire à l’art. 10.
+Le premier facteur réside dans les objectifs de politique générale des parties contractantes dans différents domaines, dans la mesure où ils sont compatibles avec les principes de non-discrimination énoncés à l’art. 10. Des objectifs légitimes peuvent justifier un traitement différentiel des investisseurs ou des investissements étrangers afin de refléter une différence de circonstances pertinentes entre ces investisseurs et ces investissements et leurs homologues nationaux. À titre d’exemple, l’objectif visant à assurer l’intégrité du système financier d’un pays peut justifier des mesures prudentielles raisonnables envers des investisseurs ou investissements étrangers, alors que de telles mesures ne sont pas nécessaires pour assurer la réalisation des mêmes objectifs lorsqu’il s’agit d’investisseurs ou d’investissements nationaux. Ces investisseurs étrangers ou leurs investissements ne se trouveraient ainsi pas dans des «circonstances similaires» à celles des investisseurs nationaux ou de leurs investissements. Par conséquent, même si une telle mesure revient à accorder un traitement différentiel, elle n’est pas contraire à l’art. 10.
 
 Le deuxième facteur réside dans l’ampleur avec laquelle la mesure est motivée par le fait que l’investisseur ou l’investissement concerné est l’objet d’une propriété étrangère ou d’un contrôle étranger. Une mesure visant spécifiquement des investisseurs parce qu’ils sont étrangers, sans raison compensatoires suffisantes de politique générale, compatible avec le paragraphe précédent, serait contraire aux principes de l’art. 10. L’investisseur ou l’investissement étranger se trouverait dans des «circonstances similaires» à celles des investisseurs nationaux et de leurs investissements, et la mesure serait contraire à l’art. 10.
 
 \5. En ce qui concerne l’art. 25
 
-Les Communautés européennes et leurs Etats membres rappellent que, conformément à l’art. 58 du traité instituant la Communauté européenne:
+Les Communautés européennes et leurs États membres rappellent que, conformément à l’art. 58 du traité instituant la Communauté européenne:
 
-- a) les sociétés ou entreprises constituées en conformité avec la législation d’un Etat membre et ayant siège social, leur administration centrale ou leur principal établissement à l’intérieur de la Communauté sont traitées, en ce qui concerne le droit d’établissement prévu par la troisième partie, titre III, chap. 2, du traité instituant la Communauté européenne, de la même manière que les personnes physiques qui sont des ressortissants d’un Etat membre; les sociétés ou entreprises qui ont seulement leur siège social à l’intérieur de la Communauté doivent, à cette fin, présenter un lien effectif et continu avec l’économie de l’un des Etats membres;
+- a) les sociétés ou entreprises constituées en conformité avec la législation d’un État membre et ayant siège social, leur administration centrale ou leur principal établissement à l’intérieur de la Communauté sont traitées, en ce qui concerne le droit d’établissement prévu par la troisième partie, titre III, chap. 2, du traité instituant la Communauté européenne, de la même manière que les personnes physiques qui sont des ressortissants d’un État membre; les sociétés ou entreprises qui ont seulement leur siège social à l’intérieur de la Communauté doivent, à cette fin, présenter un lien effectif et continu avec l’économie de l’un des États membres;
 - b) par «société ou entreprises» on entend les sociétés ou entreprises de droit civil ou commercial, y compris les coopératives, et les autres personnes morales régies par le droit public ou privé, à l’exception de celles qui ne poursuivent pas de but lucratif.
 
-Les Communautés européennes et leurs Etats membres rappellent en outre que: la législation communautaire prévoit la possibilité d’élargir le traitement décrit ci-dessus aux filiales et aux agences des sociétés ou entreprises qui ne sont pas établies dans l’un des Etats membres; et l’application de l’art. 25 du traité sur la Charte de l’énergie n’admet que les dérogations nécessaires pour préserver le traitement préférentiel résultant du processus plus large d’intégration économique qui découle des traités instituant les Communautés européennes.
+Les Communautés européennes et leurs États membres rappellent en outre que: la législation communautaire prévoit la possibilité d’élargir le traitement décrit ci-dessus aux filiales et aux agences des sociétés ou entreprises qui ne sont pas établies dans l’un des États membres, et l’application de l’art. 25 du traité sur la Charte de l’énergie n’admet que les dérogations nécessaires pour préserver le traitement préférentiel résultant du processus plus large d’intégration économique qui découle des traités instituant les Communautés européennes.
 
 \6. En ce qui concerne l’art. 40
 
 Le Danemark rappelle que la Charte européenne de l’énergie ne s’applique pas au Groenland ni aux îles Féroé tant qu’une notification à cet effet n’a pas été reçue de la part des gouvernements locaux du Groenland et des îles Féroé.
 
-A ce sujet, le Danemark affirme que l’art. 40 du traité s’applique au Groenland et aux îles Féroé.
+À ce sujet, le Danemark affirme que l’art. 40 du traité s’applique au Groenland et aux îles Féroé.
 
 \7. En ce qui concerne l’annexe G par. 4
 
-- a) Les Communautés européennes et la Fédération de Russie déclarent que les échanges de matières nucléaires entre elles sont régis, jusqu’au moment où elles parviendront à un autre accord, par les dispositions de l’art. 22 de l’accord sur le partenariat et la coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d’une part, et la Fédération de Russie, d’autre part, signé à Corfou le 24 juin 1994, les échanges de lettres y annexés et la déclaration commune y afférente, et que les différends relatifs à ces échanges seront soumis aux procédures dudit accord.
+- a) Les Communautés européennes et la Fédération de Russie déclarent que les échanges de matières nucléaires entre elles sont régis, jusqu’au moment où elles parviendront à un autre accord, par les dispositions de l’art. 22 de l’accord sur le partenariat et la coopération établissant un partenariat entre les Communautés européennes et leurs États membres, d’une part, et la Fédération de Russie, d’autre part, signé à Corfou le 24 juin 1994, les échanges de lettres y annexés et la déclaration commune y afférente, et que les différends relatifs à ces échanges seront soumis aux procédures dudit accord.
 - b) Les Communautés européennes et l’Ukraine déclarent que, conformément à l’accord de partenariat et de coopération signé à Luxembourg le 14 juin 1994 et l’accord intérimaire y relatif paraphé au même lieu et à la même date, les échanges de matières nucléaires entre elles seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et l’Ukraine.
 - Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989, continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre elles.
 - c) Les Communautés européennes et le Kazakhstan déclarent que, conformément à l’accord de partenariat et de coopération paraphé à Bruxelles le 20 mai 1994, les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Kazakhstan.
@@ -2366,7 +2366,7 @@ A ce sujet, le Danemark affirme que l’art. 40 du traité s’applique au Groen
 - Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
 - e) Les Communautés européennes et le Tadjikistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Tadjikistan.
 - Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
-- f) Les Communautés européennes et l’Ouzbékistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et l’Ouzbékistan.
+- [tab] européennes et l’Ouzbékistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et l’Ouzbékistan.
 - Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
 
 ### Le protocole sur l’efficacité énergétique et les aspects environnementaux connexes
@@ -2385,7 +2385,7 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (Suivent les signatures)
 
-### Application provisoire****
+### Application provisoire
 
 [^annex19T-lvlu3-lvlu8-1]
 
@@ -2405,7 +2405,7 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (3) Tout signataire ou partie contractante peut mettre un terme à son application provisoire de la présente modification en notifiant par écrit au dépositaire son intention de ne pas la ratifier, l’accepter ou l’approuver. La fin de l’application provisoire prend effet, pour tout signataire ou partie contractante, à l’expiration d’un délai de soixante jours à compter du jour où le dépositaire reçoit sa notification écrite. Tout signataire qui met fin à son application provisoire du traité sur la Charte de l’énergie conformément à l’art. 45, par. 3, point (a), est réputé avoir également mis un terme à son application provisoire de la présente modification, avec effet à la même date.
 
-### Statut des décisions****
+### Statut des décisions
 
 [^annex19T-lvlu3-lvlu9-1]
 
@@ -2413,86 +2413,58 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 Les décisions adoptées en liaison avec l’adoption de la présente modification font partie intégrante du traité sur la Charte de l’énergie.
 
-Champ d’application le 18 septembre 2006**[^t-21]**
+Champ d’application le 11 avril 2024[^t-21]
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="3">Ratification Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
-<tr><td colspan="3">Albanie</td><td colspan="2">12 février</td><td>1998</td><td>13 mai</td><td>1998</td></tr>
-<tr><td colspan="3">Allemagne</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Arménie</td><td colspan="2">19 janvier</td><td>1998</td><td>19 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Autriche</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Azerbaïdjan</td><td colspan="2">23 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Belgique</td><td colspan="2">8 mai</td><td>1998</td><td>6 août</td><td>1998</td></tr>
-<tr><td colspan="3">Bosnie et Herzégovine</td><td colspan="2">17 mai</td><td>2001</td><td>16 août</td><td>2001</td></tr>
-<tr><td colspan="3">Bulgarie</td><td colspan="2">15 novembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Chypre</td><td colspan="2">16 janvier</td><td>1998</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Croatie</td><td colspan="2">9 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Danemark</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Espagne</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Estonie</td><td colspan="2">4 mai</td><td>1998</td><td>2 août</td><td>1998</td></tr>
-<tr><td colspan="3">Finlande</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">France</td><td colspan="2">28 septembre</td><td>1999</td><td>27 décembre</td><td>1999</td></tr>
-<tr><td colspan="3">Géorgie</td><td colspan="2">12 juillet</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Grèce</td><td colspan="2">4 septembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Hongrie</td><td colspan="2">8 avril</td><td>1998</td><td>7 juillet</td><td>1998</td></tr>
-<tr><td colspan="3">Irlande</td><td colspan="2">15 avril</td><td>1999</td><td>14 juillet</td><td>1999</td></tr>
-<tr><td colspan="3">Italie\*</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Japon</td><td colspan="2">23 juillet</td><td>2002</td><td>21 octobre</td><td>2002</td></tr>
-<tr><td colspan="3">Kazakhstan</td><td colspan="2">6 août</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Kirghizistan</td><td colspan="2">7 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Lettonie</td><td colspan="2">15 janvier</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Liechtenstein</td><td colspan="2">12 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Lituanie</td><td colspan="2">14 septembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
-<tr><td colspan="3">Luxembourg</td><td colspan="2">27 novembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Macédoine</td><td colspan="2">27 mars</td><td>1998 A</td><td>25 juin</td><td>1998</td></tr>
-<tr><td colspan="3">Malte</td><td colspan="2">10 juin</td><td>2001</td><td>9 septembre</td><td>2001</td></tr>
-<tr><td colspan="3">Moldova</td><td colspan="2">22 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Mongolie</td><td colspan="2">19 novembre</td><td>1999 A</td><td>17 février</td><td>2000</td></tr>
-<tr><td colspan="3">Ouzbékistan</td><td colspan="2">12 mars</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Pays-Bas</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Pologne\*</td><td colspan="2">24 avril</td><td>2001</td><td>23 juillet</td><td>2001</td></tr>
-<tr><td colspan="3">Portugal</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">République tchèque</td><td colspan="2">17 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Roumanie</td><td colspan="2">12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Royaume-Uni</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">[tab] Jersey</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">[tab] Ile de Man</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Slovaquie</td><td colspan="2">16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Slovénie</td><td colspan="2">10 septembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Suède</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Suisse</td><td colspan="2">19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Tadjikistan</td><td colspan="2">25 juin</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Turkménistan</td><td colspan="2">17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td colspan="3">Turquie</td><td colspan="2">5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
-<tr><td colspan="3">Ukraine</td><td colspan="2">29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
-<tr><td colspan="3">[tab] Union européenne (UE)</td><td colspan="2">16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="7">Déclarations, voir ci-après.</td></tr>
+<tr><th>États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
+<tr><td>Afghanistan</td><td>22 mars</td><td>2013 A</td><td>20 juin</td><td>2013</td></tr>
+<tr><td>Albanie</td><td>12 février</td><td>1998</td><td>13 mai</td><td>1998</td></tr>
+<tr><td>Arménie</td><td>19 janvier</td><td>1998</td><td>19 avril</td><td>1998</td></tr>
+<tr><td>Autriche</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Azerbaïdjan</td><td>23 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Belgique</td><td>8 mai</td><td>1998</td><td>6 août</td><td>1998</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>17 mai</td><td>2001</td><td>16 août</td><td>2001</td></tr>
+<tr><td>Bulgarie</td><td>15 novembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Chypre</td><td>16 janvier</td><td>1998</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Communauté européenne de l’énergie atomique (Euratom)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Croatie</td><td>9 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Danemark</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Espagne</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Estonie</td><td>4 mai</td><td>1998</td><td>2 août</td><td>1998</td></tr>
+<tr><td>Finlande</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Géorgie</td><td>12 juillet</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Grèce</td><td>4 septembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Hongrie</td><td>8 avril</td><td>1998</td><td>7 juillet</td><td>1998</td></tr>
+<tr><td>Irlande</td><td>15 avril</td><td>1999</td><td>14 juillet</td><td>1999</td></tr>
+<tr><td>Islande</td><td>20 juillet</td><td>2015</td><td>18 octobre</td><td>2015</td></tr>
+<tr><td>Japon</td><td>23 juillet</td><td>2002</td><td>21 octobre</td><td>2002</td></tr>
+<tr><td>Jordanie</td><td>12 septembre</td><td>2018 A</td><td>11 décembre</td><td>2018</td></tr>
+<tr><td>Kazakhstan</td><td>6 août</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Kirghizistan</td><td>7 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Lettonie</td><td>15 janvier</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Liechtenstein</td><td>12 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Lituanie</td><td>14 septembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
+<tr><td>Macédoine du Nord</td><td>27 mars</td><td>1998 A</td><td>25 juin</td><td>1998</td></tr>
+<tr><td>Malte</td><td>30 mai</td><td>2001</td><td>28 août</td><td>2001</td></tr>
+<tr><td>Moldova</td><td>22 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Mongolie</td><td>19 novembre</td><td>1999 A</td><td>17 février</td><td>2000</td></tr>
+<tr><td>Monténégro</td><td>8 septembre</td><td>2015 A</td><td>7 décembre</td><td>2015</td></tr>
+<tr><td>Ouzbékistan</td><td>12 mars</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Pays-Bas</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>République tchèque</td><td>17 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Roumanie</td><td>12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Royaume-Uni</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>[tab] Île de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>[tab] Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Slovaquie</td><td>16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Suède</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Suisse</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Tadjikistan</td><td>25 juin</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Turkménistan</td><td>17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Turquie</td><td>5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
+<tr><td>Ukraine</td><td>29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
+<tr><td>[tab] Union européenne (UE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Yémen</td><td>31 octobre</td><td>2018 A</td><td>29 janvier</td><td>2019</td></tr>
 </table>
 
-[^t-21]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.eda.admin.ch/eda/f/home/foreign/intagr/dabase.html).
-
-Déclarations
-
-Italie
-
-L’Italie, au sens de l’art. 26, par. 3, let. b), ch. ii), déclare qu’elle ne consentira pas à ce que les différends surgis entre un investisseur et une Partie contractante soient soumis à un arbitrage ou à la conciliation internationale, lorsque ledit investisseur a:
-
-- a) déjà saisi du différend les Cours ou les tribunaux administratifs italiens; ou
-- b) mis en œuvre une procédure applicable à la solution du différend déjà convenue précédemment.
-
-A ce propos, il y a lieu de distinguer deux hypothèses:
-
-- 1) si le jugement relatif au différend est encore pendant devant un tribunal ou un organe de conciliation internes, l’investisseur pourra se dessaisir, au cours du procès ou en dehors de celui-ci, de l’action judiciaire ou de la procédure d’arbitrage, en recourant à d’autres formes de conciliation;
-- 2) si un jugement, ou en tout cas un constat de nature exécutive a déjà eu lieu au sujet du différend, la conciliation ou l’arbitrage international ne sont plus admis.
-
-Les hypothèses ci-dessus se fondent tant sur le principe du «ne bis in idem» (afin d’éviter que deux jugements soient émis pour la même instance: la décision du collège arbitral et la sentence), que sur celui de l’irrévocabilité du «decisum» qui s’applique également aux relations substantielles entre les parties, sous réserve de la possibilité pour ces mêmes parties, dans le cadre du procès et en dehors de celui-ci, d’activer les moyens normaux d’opposition.
-
-Pologne
-
-Conformément aux dispositions de l’art. 26, al. 3, let. b (ii) du traité sur la Charte de l’énergie:
-
-«La République de Pologne a décidé d’être incluse dans l’annexe ID de la Charte et, en conséquence, de ne pas autoriser inconditionnellement la soumission d’un différend entre un investisseur étranger et la République de Pologne à l’arbitrage international ou à la conciliation internationale, si ce différend a déjà été soumis à une cour compétente ou à un tribunal administratif en Pologne, ou à une procédure d’arbitrage précédemment convenue dans le but de régler le différend.
-
-La position ci-dessus repose sur le principe visant à éviter que deux jugements ne soient prononcés pour le règlement du même différend. Dans le cadre du Code polonais de procédure civile (CPC), l’assignation devant le tribunal de première instance exclut la possibilité de recherche d’une protection légale dans une autre procédure ou par le biais d’une autre action. D’après l’art. 203 CPC, l’assignation peut être retirée sans l’accord de l’intimé avant le début des audiences, à moins que le retrait ne soit soumis à la condition de renonciation réciproque à toute prétention. Dans ce cas, le retrait de l’assignation est possible jusqu’au prononcé de la sentence. L’art. 711 du CPC pose qu’un arrêt ou une décision émise par une cour d’arbitrage a la même valeur en droit qu’un jugement du tribunal une fois que celui-ci aura admis sa valeur de chose jugée. Une telle décision de la cour d’arbitrage est définitive, ce qui signifie qu’aucune procédure d’appel n’est possible. L’art. 1105, al. 2, CPC envisage la possibilité d’exclure par accord mutuel la juridiction des tribunaux polonais à l’avantage d’une cour d’arbitrage à l’étranger. Cependant, d’après l’al. 3 de cet article, le tribunal polonais ne doit considérer un tel accord portant sur une cour d’arbitrage étrangère que si l’intimé soumet une allégation dûment justifiée portant sur le fond de l’affaire.
-
-De plus, la Pologne est partie à la Convention de New York sur la reconnaissance et l’exécution des sentences arbitrales étrangères du 10 juin 1958.»
+[^t-21]: [RO 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
