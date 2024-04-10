@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "OR (Mietrecht): Anfangsmietzins und Ort- und Quartierüblichkeit"
 document: Vernehmlassungsvorlage
 language: de

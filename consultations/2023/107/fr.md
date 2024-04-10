@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "CO (droit du bail): loyer initial et loyers usuels dans la localité ou le quartier"
 document: Projet mis en consultation
 language: fr

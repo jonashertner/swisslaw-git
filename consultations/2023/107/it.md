@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "CO (diritto di locazione): pigione iniziale e pigioni in uso in una località o in un quartiere"
 document: Progetto posto in consultazione
 language: it
