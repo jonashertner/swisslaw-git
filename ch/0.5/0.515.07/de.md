@@ -3,11 +3,11 @@ sr: "0.515.07"
 title: "Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439"
 language: de
-version: 2020-05-22
+version: 2024-04-11
 adopted: 1972-04-10
 in_force: 1976-05-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439/20200522/de/xml/fedlex-data-admin-ch-eli-cc-1976-1438_1439_1439-20200522-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1438_1439_1439/20200522/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439/20240411/de/xml/fedlex-data-admin-ch-eli-cc-1976-1438_1439_1439-20240411-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1438_1439_1439/20240411/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Gemeinsame deutsche Übersetzung
 
 Abgeschlossen in London, Moskau und Washington am 10. April 1972 Von der Bundesversammlung genehmigt am 26. Juni 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 4. Mai 1976 In Kraft getreten für die Schweiz am 4. Mai 1976
 
-(Stand am 22. Mai 2020)
+(Stand am 11. April 2024)
 
 [^t-1]: [AS 1976 1429](https://fedlex.data.admin.ch/eli/oc/1976/1429_1429_1429)
 
@@ -133,7 +133,7 @@ Dieses Übereinkommen, dessen englischer, russischer, französischer, spanischer
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in drei Ausfertigungen zu London, Moskau und Washington am zehnten April neunzehnhundertzweiundsiebzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. Mai 2020**[^t-2]**
+Geltungsbereich am 11. April 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -169,7 +169,7 @@ Geltungsbereich am 22. Mai 2020**[^t-2]**
 <tr><td>Chile</td><td>22. April</td><td>1980</td><td>22. April</td><td>1980</td></tr>
 <tr><td>China</td><td>15. November</td><td>1984 B</td><td>15. November</td><td>1984</td></tr>
 <tr><td>[tab] Hongkong</td><td>20. Juni</td><td>1997</td><td>26. März</td><td>1975</td></tr>
-<tr><td>Cook-Inseln</td><td>4. Dezember</td><td>2008 B</td><td>4. Dezember</td><td>2008</td></tr>
+<tr><td>Chinesisches Taipei (Taiwan)</td><td>9. Februar</td><td>1973</td><td>26. März</td><td>1975</td></tr>
 <tr><td>Costa Rica</td><td>17. Dezember</td><td>1973</td><td>26. März</td><td>1975</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23. März</td><td>2016</td><td>23. März</td><td>2016</td></tr>
 <tr><td>Dänemark</td><td>1. März</td><td>1973</td><td>26. März</td><td>1975</td></tr>
@@ -248,9 +248,11 @@ Geltungsbereich am 22. Mai 2020**[^t-2]**
 <tr><td>Montenegro</td><td>9. Januar</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik</td><td>29. März</td><td>2011 B</td><td>29. März</td><td>2011</td></tr>
 <tr><td>Myanmar</td><td>1. Dezember</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
+<tr><td>Namibia</td><td>25. Februar</td><td>2022 B</td><td>25. Februar</td><td>2022</td></tr>
 <tr><td>Nauru</td><td>5. März</td><td>2013 B</td><td>5. März</td><td>2013</td></tr>
 <tr><td>Nepal</td><td>4. November</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Neuseeland</td><td>13. Dezember</td><td>1972</td><td>26. März</td><td>1975</td></tr>
+<tr><td>Cook-Inseln</td><td>4. Dezember</td><td>2008 B</td><td>4. Dezember</td><td>2008</td></tr>
 <tr><td>Nicaragua</td><td>7. August</td><td>1975</td><td>7. August</td><td>1975</td></tr>
 <tr><td>Niederlande</td><td>22. Juni</td><td>1981</td><td>22. Juni</td><td>1981</td></tr>
 <tr><td>Aruba</td><td>1. Januar</td><td>1986</td><td>22. Juni</td><td>1981</td></tr>
@@ -259,6 +261,7 @@ Geltungsbereich am 22. Mai 2020**[^t-2]**
 <tr><td>Sint Maarten</td><td>22. Juni</td><td>1981</td><td>22. Juni</td><td>1981</td></tr>
 <tr><td>Niger</td><td>23. Juni</td><td>1972</td><td>26. März</td><td>1975</td></tr>
 <tr><td>Nigeria</td><td>3. Juli</td><td>1973</td><td>26. März</td><td>1975</td></tr>
+<tr><td>Niue</td><td>14. Juni</td><td>2018 B</td><td>14. Juni</td><td>2018</td></tr>
 <tr><td>Nordmazedonien</td><td>26. Dezember</td><td>1996 N</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>1. August</td><td>1973</td><td>26. März</td><td>1975</td></tr>
 <tr><td>Oman</td><td>31. März</td><td>1992 B</td><td>31. März</td><td>1992</td></tr>
@@ -299,9 +302,9 @@ Geltungsbereich am 22. Mai 2020**[^t-2]**
 <tr><td>St. Vincent und die Grenadinen</td><td>13. Mai</td><td>1999 N</td><td>27. Oktober</td><td>1979</td></tr>
 <tr><td>Südafrika</td><td>3. November</td><td>1975</td><td>3. November</td><td>1975</td></tr>
 <tr><td>Sudan</td><td>17. Oktober</td><td>2003 B</td><td>17. Oktober</td><td>2003</td></tr>
+<tr><td>Südsudan</td><td>15. Februar</td><td>2023 B</td><td>15. Februar</td><td>2023</td></tr>
 <tr><td>Suriname</td><td>6. Januar</td><td>1993 B</td><td>6. Januar</td><td>1993</td></tr>
 <tr><td>Tadschikistan</td><td>27. Juni</td><td>2005</td><td>27. Juni</td><td>2005</td></tr>
-<tr><td>Taiwan (Chinesisches Taipei)</td><td>9. Februar</td><td>1973</td><td>26. März</td><td>1975</td></tr>
 <tr><td>Tansania</td><td>14. August</td><td>2019</td><td>14. August</td><td>2019</td></tr>
 <tr><td>Thailand</td><td>28. Mai</td><td>1975</td><td>28. Mai</td><td>1975</td></tr>
 <tr><td>Timor-Leste</td><td>5. Mai</td><td>2003 B</td><td>5. Mai</td><td>2003</td></tr>
@@ -326,10 +329,10 @@ Geltungsbereich am 22. Mai 2020**[^t-2]**
 <tr><td>Vietnam</td><td>20. Juni</td><td>1980 B</td><td>20. Juni</td><td>1980</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>28. September</td><td>2018</td><td>28. September</td><td>2018</td></tr>
 <tr><td>Zypern</td><td>6. November</td><td>1973</td><td>26. März</td><td>1975</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: [www.state.gov](https://www.state.gov) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1976 1438](https://fedlex.data.admin.ch/eli/oc/1976/1438_1439_1439), [1979 956](https://fedlex.data.admin.ch/eli/oc/1979/956_956_956), [1981 80](https://fedlex.data.admin.ch/eli/oc/1981/80_80_80), [1982 1316](https://fedlex.data.admin.ch/eli/oc/1982/1316_1316_1316), [1983 1196](https://fedlex.data.admin.ch/eli/oc/1983/1196_1196_1196), [1985 747](https://fedlex.data.admin.ch/eli/oc/1985/747_747_747), [1987 872](https://fedlex.data.admin.ch/eli/oc/1987/872_872_872), [1991 1031](https://fedlex.data.admin.ch/eli/oc/1991/1031_1031_1031), [2004 1381](https://fedlex.data.admin.ch/eli/oc/2004/170), [2007 4771](https://fedlex.data.admin.ch/eli/oc/2007/680), [2008 3755](https://fedlex.data.admin.ch/eli/oc/2008/505), [2011 3549](https://fedlex.data.admin.ch/eli/oc/2011/483), [2015 2129](https://fedlex.data.admin.ch/eli/oc/2015/395), [2017 3621](https://fedlex.data.admin.ch/eli/oc/2017/402)und [2020 2075](https://fedlex.data.admin.ch/eli/oc/2020/407). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1976 1438](https://fedlex.data.admin.ch/eli/oc/1976/1438_1439_1439); [1979 956](https://fedlex.data.admin.ch/eli/oc/1979/956_956_956); [1981 80](https://fedlex.data.admin.ch/eli/oc/1981/80_80_80); [1982 1316](https://fedlex.data.admin.ch/eli/oc/1982/1316_1316_1316); [1983 1196](https://fedlex.data.admin.ch/eli/oc/1983/1196_1196_1196); [1985 747](https://fedlex.data.admin.ch/eli/oc/1985/747_747_747); [1987 872](https://fedlex.data.admin.ch/eli/oc/1987/872_872_872); [1991 1031](https://fedlex.data.admin.ch/eli/oc/1991/1031_1031_1031); [2004 1381](https://fedlex.data.admin.ch/eli/oc/2004/170); [2007 4771](https://fedlex.data.admin.ch/eli/oc/2007/680); [2008 3755](https://fedlex.data.admin.ch/eli/oc/2008/505); [2011 3549](https://fedlex.data.admin.ch/eli/oc/2011/483); [2015 2129](https://fedlex.data.admin.ch/eli/oc/2015/395); [2017 3621](https://fedlex.data.admin.ch/eli/oc/2017/402); [2020 2075](https://fedlex.data.admin.ch/eli/oc/2020/407); [2024 157](https://fedlex.data.admin.ch/eli/oc/2024/157). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

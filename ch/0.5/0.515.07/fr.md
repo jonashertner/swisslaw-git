@@ -3,11 +3,11 @@ sr: "0.515.07"
 title: "Convention du 10 avril 1972 sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439"
 language: fr
-version: 2020-05-22
+version: 2024-04-11
 adopted: 1972-04-10
 in_force: 1976-05-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439/20200522/fr/xml/fedlex-data-admin-ch-eli-cc-1976-1438_1439_1439-20200522-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1438_1439_1439/20200522/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439/20240411/fr/xml/fedlex-data-admin-ch-eli-cc-1976-1438_1439_1439-20240411-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1438_1439_1439/20240411/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 4 mai 1976
 
 Entrée en vigueur pour la Suisse le 4 mai 1976
 
-(Etat le 22 mai 2020)
+(État le 11 avril 2024)
 
 [^t-1]: [RO 1976 1429](https://fedlex.data.admin.ch/eli/oc/1976/1429_1429_1429)
 
@@ -138,7 +138,7 @@ La présente Convention, dont les textes anglais, russe, français, espagnol et 
 
 *En fois de quoi,* les soussignés, dûment habilités à cet effet, ont signé la présente Convention. Fait en trois exemplaires, à Londres, Moscou et Washington, le dix avril mil neuf cent septante‑deux. (Suivent les signatures)
 
-Champ d’application le 22 mai 2020**[^t-2]**
+Champ d’application le 11 avril 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -216,7 +216,6 @@ Champ d’application le 22 mai 2020**[^t-2]**
 <tr><td>Guyana</td><td>26 mars</td><td>2013</td><td>26 mars</td><td>2013</td></tr>
 <tr><td>Honduras</td><td>14 mars</td><td>1979</td><td>14 mars</td><td>1979</td></tr>
 <tr><td>Hongrie</td><td>27 décembre</td><td>1972</td><td>26 mars</td><td>1975</td></tr>
-<tr><td>Îles Cook</td><td>4 décembre</td><td>2008 A</td><td>4 décembre</td><td>2008</td></tr>
 <tr><td>Îles Marshall</td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
 <tr><td>Îles Salomon</td><td>17 juin</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Inde</td><td>15 juillet</td><td>1974</td><td>26 mars</td><td>1975</td></tr>
@@ -259,13 +258,16 @@ Champ d’application le 22 mai 2020**[^t-2]**
 <tr><td>Monténégro</td><td>9 janvier</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td>29 mars</td><td>2011 A</td><td>29 mars</td><td>2011</td></tr>
 <tr><td>Myanmar</td><td>1<sup>er</sup> décembre</td><td>2014</td><td>1<sup>er</sup> décembre</td><td>2014</td></tr>
+<tr><td>Namibie</td><td>25 février</td><td>2022 A</td><td>25 février</td><td>2022</td></tr>
 <tr><td>Nauru</td><td>5 mars</td><td>2013 A</td><td>5 mars</td><td>2013</td></tr>
 <tr><td>Népal</td><td>4 novembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Nicaragua</td><td>7 août</td><td>1975</td><td>7 août</td><td>1975</td></tr>
 <tr><td>Niger</td><td>23 juin</td><td>1972</td><td>26 mars</td><td>1975</td></tr>
 <tr><td>Nigéria</td><td>3 juillet</td><td>1973</td><td>26 mars</td><td>1975</td></tr>
+<tr><td>Nioué</td><td>14 juin</td><td>2018 A</td><td>14 juin</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>1<sup>er</sup> août</td><td>1973</td><td>26 mars</td><td>1975</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>13 décembre</td><td>1972</td><td>26 mars</td><td>1975</td></tr>
+<tr><td>Îles Cook</td><td>4 décembre</td><td>2008 A</td><td>4 décembre</td><td>2008</td></tr>
 <tr><td>Oman</td><td>31 mars</td><td>1992 A</td><td>31 mars</td><td>1992</td></tr>
 <tr><td>Ouganda</td><td>12 mai</td><td>1992 A</td><td>12 mai</td><td>1992</td></tr>
 <tr><td>Ouzbékistan</td><td>2 janvier</td><td>1996 A</td><td>2 janvier</td><td>1996</td></tr>
@@ -308,12 +310,13 @@ Champ d’application le 22 mai 2020**[^t-2]**
 <tr><td>Slovaquie</td><td>17 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>7 avril</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Soudan</td><td>17 octobre</td><td>2003 A</td><td>17 octobre</td><td>2003</td></tr>
+<tr><td>Soudan du Sud</td><td>15 février</td><td>2023 A</td><td>15 février</td><td>2023</td></tr>
 <tr><td>Sri Lanka</td><td>18 novembre</td><td>1986</td><td>18 novembre</td><td>1986</td></tr>
 <tr><td>Suède</td><td>5 février</td><td>1976</td><td>5 février</td><td>1976</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>4 mai</td><td>1976</td><td>4 mai</td><td>1976</td></tr>
 <tr><td>Suriname</td><td>6 janvier</td><td>1993 A</td><td>6 janvier</td><td>1993</td></tr>
 <tr><td>Tadjikistan</td><td>27 juin</td><td>2005</td><td>27 juin</td><td>2005</td></tr>
-<tr><td>Taïwan (Taipei chinois)</td><td>9 février</td><td>1973</td><td>26 mars</td><td>1975</td></tr>
+<tr><td>Taipei chinois (Taïwan)</td><td>9 février</td><td>1973</td><td>26 mars</td><td>1975</td></tr>
 <tr><td>Tanzanie</td><td>14 août</td><td>2019</td><td>14 août</td><td>2019</td></tr>
 <tr><td>Thaïlande</td><td>28 mai</td><td>1975</td><td>28 mai</td><td>1975</td></tr>
 <tr><td>Timor-Leste</td><td>5 mai</td><td>2003 A</td><td>5 mai</td><td>2003</td></tr>
@@ -331,10 +334,10 @@ Champ d’application le 22 mai 2020**[^t-2]**
 <tr><td>Yémen</td><td>1<sup>er</sup> juin</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Zambie</td><td>15 janvier</td><td>2008 A</td><td>15 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>5 novembre</td><td>1990 A</td><td>5 novembre</td><td>1990</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celle de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site Internet des Etats-Unis d’Amérique: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: [www.state.gov](https://www.state.gov/biological-weapons-convention-text/) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Depositary Information &gt; Status lists &gt; Arms control, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1976** 1444, [1979 956](https://fedlex.data.admin.ch/eli/oc/1979/956_956_956),[1981 80](https://fedlex.data.admin.ch/eli/oc/1981/80_80_80), [1982 1316](https://fedlex.data.admin.ch/eli/oc/1982/1316_1316_1316), [1983 1196](https://fedlex.data.admin.ch/eli/oc/1983/1196_1196_1196), [1985 747](https://fedlex.data.admin.ch/eli/oc/1985/747_747_747), [1987 872](https://fedlex.data.admin.ch/eli/oc/1987/872_872_872),[1991 1031](https://fedlex.data.admin.ch/eli/oc/1991/1031_1031_1031), [2004 1381](https://fedlex.data.admin.ch/eli/oc/2004/170), [2007 4771](https://fedlex.data.admin.ch/eli/oc/2007/680), [2008 3755](https://fedlex.data.admin.ch/eli/oc/2008/505), [2011 3549](https://fedlex.data.admin.ch/eli/oc/2011/483), [2015 2129](https://fedlex.data.admin.ch/eli/oc/2015/395), [2017 3621](https://fedlex.data.admin.ch/eli/oc/2017/402), [2020 2075](https://fedlex.data.admin.ch/eli/oc/2020/407). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1976 1439](https://fedlex.data.admin.ch/eli/oc/1976/1438_1439_1439); [1979 956](https://fedlex.data.admin.ch/eli/oc/1979/956_956_956); [1981 80](https://fedlex.data.admin.ch/eli/oc/1981/80_80_80); [1982 1316](https://fedlex.data.admin.ch/eli/oc/1982/1316_1316_1316); [1983 1196](https://fedlex.data.admin.ch/eli/oc/1983/1196_1196_1196); [1985 747](https://fedlex.data.admin.ch/eli/oc/1985/747_747_747); [1987 872](https://fedlex.data.admin.ch/eli/oc/1987/872_872_872); [1991 1031](https://fedlex.data.admin.ch/eli/oc/1991/1031_1031_1031); [2004 1381](https://fedlex.data.admin.ch/eli/oc/2004/170); [2007 4771](https://fedlex.data.admin.ch/eli/oc/2007/680); [2008 3755](https://fedlex.data.admin.ch/eli/oc/2008/505); [2011 3549](https://fedlex.data.admin.ch/eli/oc/2011/483); [2015 2129](https://fedlex.data.admin.ch/eli/oc/2015/395); [2017 3621](https://fedlex.data.admin.ch/eli/oc/2017/402); [2020 2075](https://fedlex.data.admin.ch/eli/oc/2020/407); [2024 157](https://fedlex.data.admin.ch/eli/oc/2024/157). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
