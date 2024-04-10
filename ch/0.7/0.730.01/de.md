@@ -3,11 +3,11 @@ sr: "0.730.01"
 title: Energiechartaprotokoll vom 17. Dezember 1994 über Energieeffizienz und damit verbundene Umweltaspekte
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816"
 language: de
-version: 2006-09-18
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20060918/de/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20060918-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20060918/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20240411/de/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20240411-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20240411/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1998** 2816
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 18. September 2006)
+(Stand am 11. April 2024)
 
 [^t-1]: [AS 1998 2815](https://fedlex.data.admin.ch/eli/oc/1998/2815_2815_2815)
 
@@ -386,10 +386,11 @@ Finanzierung:
 - – Gemeinschaftsunternehmen (Joint-Ventures);
 - – Mitfinanzierung.
 
-Geltungsbereich am 18. September 2006**[^t-2]**
+Geltungsbereich am 11. April 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td colspan="2">Afghanistan</td><td>22. März</td><td colspan="2">2013 B</td><td>20. Juni</td><td>2013</td></tr>
 <tr><td colspan="2">Albanien</td><td>12. Februar</td><td colspan="2">1998</td><td>13. Mai</td><td>1998</td></tr>
 <tr><td colspan="2">Armenien</td><td>19. Januar</td><td colspan="2">1998</td><td>19. April</td><td>1998</td></tr>
 <tr><td colspan="2">Aserbaidschan</td><td>23. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
@@ -397,35 +398,32 @@ Geltungsbereich am 18. September 2006**[^t-2]**
 <tr><td colspan="2">Bosnien und Herzegowina</td><td>17. Mai</td><td colspan="2">2001</td><td>16. August</td><td>2001</td></tr>
 <tr><td colspan="2">Bulgarien</td><td>15. November</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Dänemark</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Deutschland</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">EG/EWG/EU</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td colspan="2">Europäische Atomgemeinschaft (Euratom)</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td colspan="2">Europäische Union (EU)</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Estland</td><td>4. Mai</td><td colspan="2">1998</td><td>3. Juni</td><td>1998</td></tr>
 <tr><td colspan="2">Finnland</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Frankreich</td><td>28. September</td><td colspan="2">1999</td><td>27. Dezember</td><td>1999</td></tr>
+<tr><td colspan="2">Georgien</td><td>27. April</td><td colspan="2">2004</td><td>27. Mai</td><td>2004</td></tr>
 <tr><td colspan="2">Griechenland</td><td>4. September</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Irland</td><td>15. April</td><td colspan="2">1999</td><td>14. Juli</td><td>1999</td></tr>
-<tr><td colspan="2">Italien</td><td colspan="2">16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Japan</td><td colspan="3">25. Oktober</td><td>2002</td><td>23. Januar</td><td>2003</td></tr>
+<tr><td>Japan</td><td colspan="3">25. Oktober</td><td>2002</td><td>24. November</td><td>2002</td></tr>
+<tr><td colspan="2">Jordanien</td><td colspan="2">12. September</td><td>2018 B</td><td>11. Dezember</td><td>2018</td></tr>
 <tr><td colspan="2">Kasachstan</td><td colspan="2">6. August</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Kirgisistan</td><td>7. Juli</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Kroatien</td><td>15. September</td><td colspan="2">1998</td><td>15. Oktober</td><td>1998</td></tr>
 <tr><td colspan="2">Lettland</td><td>5. Januar</td><td colspan="2">1999</td><td>4. Februar</td><td>1999</td></tr>
 <tr><td colspan="2">Liechtenstein</td><td>12. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Litauen</td><td>14. September</td><td colspan="2">1998</td><td>14. Oktober</td><td>1998</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>27. November</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Malta</td><td>10. Juni</td><td colspan="2">2001</td><td>9. September</td><td>2001</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>1. September</td><td colspan="2">1998 B</td><td>1. Oktober</td><td>1998</td></tr>
+<tr><td colspan="2">Litauen</td><td>14. September</td><td colspan="2">1998</td><td>13. Dezember</td><td>1998</td></tr>
+<tr><td colspan="2">Malta</td><td>30. Mai</td><td colspan="2">2001</td><td>28. August</td><td>2001</td></tr>
 <tr><td colspan="2">Moldau</td><td>22. Juni</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Mongolei</td><td>19. November</td><td colspan="2">1999 B</td><td>19. März</td><td>2000</td></tr>
+<tr><td colspan="2">Montenegro</td><td>10. November</td><td colspan="2">2015 B</td><td>10. Dezember</td><td>2015</td></tr>
 <tr><td colspan="2">Niederlande</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td>1. September</td><td colspan="2">1998 B</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td colspan="2">Österreich</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Polen</td><td>24. April</td><td colspan="2">2001</td><td>23. Juli</td><td>2001</td></tr>
-<tr><td colspan="2">Portugal</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Rumänien</td><td>12. August</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Schweden</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Schweiz</td><td>19. September</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Slowakei</td><td>16. Oktober</td><td colspan="2">1995</td><td>16. April</td><td>1998</td></tr>
-<tr><td colspan="2">Slowenien</td><td>10. September</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Spanien</td><td>16. Dezember</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td>25. Juni</td><td colspan="2">1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td colspan="2">Tschechische Republik</td><td>28. Mai</td><td colspan="2">1996</td><td>16. April</td><td>1998</td></tr>
@@ -440,4 +438,4 @@ Geltungsbereich am 18. September 2006**[^t-2]**
 <tr><td colspan="2">Zypern</td><td>15. April</td><td colspan="2">1998</td><td>15. Mai</td><td>1998</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/eda/g/home/foreign/intagr/dabase.html).
+[^t-2]: [AS 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

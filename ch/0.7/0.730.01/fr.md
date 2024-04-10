@@ -3,11 +3,11 @@ sr: "0.730.01"
 title: "Protocole du 17 décembre 1994 de la Charte de l'énergie sur l'efficacité énergétique et les aspects environnementaux connexes"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816"
 language: fr
-version: 2006-09-18
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20060918/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20060918-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20060918/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20240411/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20240411-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20240411/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20060918/fr"
 
 RO **1998** 2816
 
-*Texte original*
+Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(Etat le 18 septembre 2006)
+(État le 11 avril 2024)
 
 [^t-1]: [RO 1998 2815](https://fedlex.data.admin.ch/eli/oc/1998/2815_2815_2815)
 
@@ -28,21 +28,21 @@ Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale 
 
 Les Parties contractantes au présent protocole,
 
-considérant la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991, et notamment les déclarations y jointes selon lesquelles la coopération est nécessaire dans le domaine de l’efficacité énergétique et de la protection de l’environnement;
+considérant la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991, et notamment les déclarations y jointes selon lesquelles la coopération est nécessaire dans le domaine de l’efficacité énergétique et de la protection de l’environnement,
 
-considérant également le traité sur la Charte de l’énergie[^ingress-1], ouvert à la signature du 17 décembre 1994 au 16 juin 1995;
+considérant également le traité sur la Charte de l’énergie[^ingress-1], ouvert à la signature du 17 décembre 1994 au 16 juin 1995,
 
-ayant à l’esprit les travaux entrepris par les organisations et les instances internationales dans le domaine de l’efficacité énergétique et des aspects environnementaux du cycle énergétique;
+ayant à l’esprit les travaux entrepris par les organisations et les instances internationales dans le domaine de l’efficacité énergétique et des aspects environnementaux du cycle énergétique,
 
-conscientes de la plus grande sécurité des approvisionnements et des gains économiques et environnementaux générés par la mise en œuvre de mesures d’efficacité énergétique présentant un bon rapport coût-efficacité, et conscientes de l’importance de ces mesures dans la restructuration des économies et l’amélioration des niveaux de vie;
+conscientes de la plus grande sécurité des approvisionnements et des gains économiques et environnementaux générés par la mise en œuvre de mesures d’efficacité énergétique présentant un bon rapport coût-efficacité, et conscientes de l’importance de ces mesures dans la restructuration des économies et l’amélioration des niveaux de vie,
 
-reconnaissant que les améliorations réalisées dans le domaine de l’efficacité énergétique réduisent les effets négatifs du cycle énergétique sur l’environnement, y compris le réchauffement général et l’acidification;
+reconnaissant que les améliorations réalisées dans le domaine de l’efficacité énergétique réduisent les effets négatifs du cycle énergétique sur l’environnement, y compris le réchauffement général et l’acidification,
 
-convaincues que les prix de l’énergie doivent refléter, dans la mesure du possible, un marché concurrentiel, assurant une formation des prix orientée vers le marché, y compris une meilleure prise en compte des coûts et avantages environnementaux, et reconnaissant qu’une telle formation des prix est essentielle pour réaliser des progrès dans le domaine de l’efficacité énergétique et de la protection de l’environnement;
+convaincues que les prix de l’énergie doivent refléter, dans la mesure du possible, un marché concurrentiel, assurant une formation des prix orientée vers le marché, y compris une meilleure prise en compte des coûts et avantages environnementaux, et reconnaissant qu’une telle formation des prix est essentielle pour réaliser des progrès dans le domaine de l’efficacité énergétique et de la protection de l’environnement,
 
-ayant conscience du rôle essentiel joué par le secteur privé, y compris les petites et moyennes entreprises, dans la promotion et la mise en œuvre de mesures d’efficacité énergétique, et désireuses d’assurer un cadre institutionnel favorable aux investissements économiquement viables dans le domaine de l’efficacité énergétique;
+ayant conscience du rôle essentiel joué par le secteur privé, y compris les petites et moyennes entreprises, dans la promotion et la mise en œuvre de mesures d’efficacité énergétique, et désireuses d’assurer un cadre institutionnel favorable aux investissements économiquement viables dans le domaine de l’efficacité énergétique,
 
-reconnaissant que les formes commerciales de coopération peuvent éventuellement devoir être complétées par une coopération intergouvernementale, en particulier dans le domaine de la formulation de la politique énergétique et de l’analyse ainsi que dans d’autres domaines essentiels à l’amélioration de l’efficacité énergétique mais qui ne se prêtent pas à un financement privé; et
+reconnaissant que les formes commerciales de coopération peuvent éventuellement devoir être complétées par une coopération intergouvernementale, en particulier dans le domaine de la formulation de la politique énergétique et de l’analyse ainsi que dans d’autres domaines essentiels à l’amélioration de l’efficacité énergétique mais qui ne se prêtent pas à un financement privé, et
 
 désireuses de mener une action commune coordonnée dans le domaine de l’efficacité énergétique et de la protection de l’environnement et d’adopter un protocole créant un cadre pour l’utilisation la plus économique et la plus efficace possible de l’énergie,
 
@@ -73,8 +73,8 @@ Les objectifs du présent protocole sont:
 Tels qu’ils sont employés dans le présent protocole, les termes qui suivent ont la signification indiquée ci-après:
 
 - 1) «Charte» désigne la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991; la signature du document de clôture est considérée comme valant signature de la Charte.
-- 2) «Partie contractante» désigne tout Etat ou toute organisation d’intégration économique régionale qui a accepté d’être lié par le présent protocole et à l’égard duquel ou de laquelle celui-ci est en vigueur.
-- 3) «Organisation d’intégration économique régionale» désigne toute organisation constituée par des Etats à laquelle ceux-ci ont transféré des compétences dans des domaines déterminés dont certains sont régis par le présent protocole, y compris le pouvoir de prendre des décisions qui les lient dans ces domaines.
+- 2) «Partie contractante» désigne tout État ou toute organisation d’intégration économique régionale qui a accepté d’être lié par le présent protocole et à l’égard duquel ou de laquelle celui-ci est en vigueur.
+- 3) «Organisation d’intégration économique régionale» désigne toute organisation constituée par des États à laquelle ceux-ci ont transféré des compétences dans des domaines déterminés dont certains sont régis par le présent protocole, y compris le pouvoir de prendre des décisions qui les lient dans ces domaines.
 - 4) «Cycle énergétique» désigne la chaîne énergétique complète, y compris les activités liées à la prospection, à l’exploration, à la production, à la conversion, au stockage, au transport, à la distribution et à la consommation des différentes formes d’énergie, le traitement et l’élimination des déchets, ainsi que le déclassement, la cessation ou la clôture de ces activités, l’impact nuisible pour l’environnement devant être réduit à un minimum.
 - 5) «Bon rapport coût-efficacité» désigne la réalisation d’un objectif déterminé au coût le plus faible ou l’obtention de l’avantage le plus grand à un coût donné.
 - 6) «Améliorer l’efficacité énergétique» désigne le fait d’agir pour maintenir la même unité de production (d’un bien ou d’un service) sans réduire la qualité ou le rendement de la production, tout en réduisant la quantité d’énergie requise pour générer cette production.
@@ -209,7 +209,7 @@ L’unanimité des Parties contractantes présentes et votantes à la réunion d
 
 <sup>3.</sup> Sauf dans le cas prévu au paragraphe 1 en ce qui concerne les questions budgétaires, les décisions visées au présent article sont valables si elles recueillent la majorité simple des voix des parties contractantes.
 
-<sup>4.</sup> Lors d’un vote, les organisations d’intégration économique régionale ont un nombre de voix égal à celui de leurs Etats membres parties contractantes au présent protocole, à condition qu’elles n’exercent pas leur droit de vote lorsque leurs Etats membres exercent le leur, et inversement.
+<sup>4.</sup> Lors d’un vote, les organisations d’intégration économique régionale ont un nombre de voix égal à celui de leurs États membres parties contractantes au présent protocole, à condition qu’elles n’exercent pas leur droit de vote lorsque leurs États membres exercent le leur, et inversement.
 
 <sup>5.</sup> En cas d’arriéré persistant d’une partie contractante dans le respect de ses obligations financières au titre du présent protocole, la Conférence de la Charte peut suspendre l’exercice du droit de vote de cette partie contractante en tout ou en partie.
 
@@ -227,7 +227,7 @@ L’unanimité des Parties contractantes présentes et votantes à la réunion d
 
 **Signature**
 
-Le présent protocole est ouvert, à Lisbonne, du 17 décembre 1994 au 16 juin 1995, à la signature des Etats et des organisations d’intégration économique régionale dont les représentants ont signé la Charte et le traité sur la Charte de l’énergie.
+Le présent protocole est ouvert, à Lisbonne, du 17 décembre 1994 au 16 juin 1995, à la signature des États et des organisations d’intégration économique régionale dont les représentants ont signé la Charte et le traité sur la Charte de l’énergie.
 
 #### Art. 15
 
@@ -239,7 +239,7 @@ Le présent protocole est soumis à la ratification, à l’acceptation ou à l�
 
 **Adhésion**
 
-Le présent protocole est ouvert à l’adhésion des Etats et des organisations d’inté-gration économique régionale qui ont signé la Charte et sont parties contractantes au traité sur la Charte de l’énergie à partir de la date à laquelle le délai pour la signature du présent protocole a expiré, à des conditions à approuver par la Conférence de la Charte. Les instruments d’adhésion sont déposés auprès du dépositaire.
+Le présent protocole est ouvert à l’adhésion des États et des organisations d’inté-gration économique régionale qui ont signé la Charte et sont parties contractantes au traité sur la Charte de l’énergie à partir de la date à laquelle le délai pour la signature du présent protocole a expiré, à des conditions à approuver par la Conférence de la Charte. Les instruments d’adhésion sont déposés auprès du dépositaire.
 
 #### Art. 17
 
@@ -257,11 +257,11 @@ Le présent protocole est ouvert à l’adhésion des Etats et des organisations
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent protocole entre en vigueur le treizième jour après la date de dépôt du quinzième instrument de ratification, d’acceptation ou d’approbation ou d’adhésion d’un Etat ou d’une organisation d’intégration économique régionale qui est signataire de la Charte et partie contractante au traité sur la Charte de l’énergie ou à la date à laquelle le traité de la Charte de l’énergie entre en vigueur, la date la plus tardive étant retenue.
+<sup>1.</sup> Le présent protocole entre en vigueur le treizième jour après la date de dépôt du quinzième instrument de ratification, d’acceptation ou d’approbation ou d’adhésion d’un État ou d’une organisation d’intégration économique régionale qui est signataire de la Charte et partie contractante au traité sur la Charte de l’énergie ou à la date à laquelle le traité de la Charte de l’énergie entre en vigueur, la date la plus tardive étant retenue.
 
-<sup>2.</sup> Pour tout Etat ou toute organisation d’intégration économique régionale pour lequel ou laquelle le traité sur la Charte de l’énergie est entré en vigueur et qui ratifie, accepte ou approuve le présent protocole ou y adhère après l’entrée en vigueur de celui-ci conformément au par. 1, le présent protocole entre en vigueur le trentième jour après la date de dépôt, par cet Etat ou cette organisation d’intégration économique régionale, de ses instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> Pour tout État ou toute organisation d’intégration économique régionale pour lequel ou laquelle le traité sur la Charte de l’énergie est entré en vigueur et qui ratifie, accepte ou approuve le présent protocole ou y adhère après l’entrée en vigueur de celui-ci conformément au par. 1, le présent protocole entre en vigueur le trentième jour après la date de dépôt, par cet État ou cette organisation d’intégration économique régionale, de ses instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>3.</sup> Aux fins du par. 1, tout instrument déposé par une organisation d’inté-gration économique régionale ne s’additionne pas aux instruments déposés par les Etats membres de cette organisation.
+<sup>3.</sup> Aux fins du par. 1, tout instrument déposé par une organisation d’inté-gration économique régionale ne s’additionne pas aux instruments déposés par les États membres de cette organisation.
 
 #### Art. 19
 
@@ -299,11 +299,11 @@ Annexe
 
 ## Liste illustrative et non exhaustive des domaines de coopération possibles, en vertu de l’art. 9
 
-Elaboration de programmes d’efficacité énergétique, y compris l’identification des barrières et des potentiels relatifs à l’efficacité énergétique, et élaboration de normes en matière d’étiquetage et d’efficacité énergétique.
+Élaboration de programmes d’efficacité énergétique, y compris l’identification des barrières et des potentiels relatifs à l’efficacité énergétique, et élaboration de normes en matière d’étiquetage et d’efficacité énergétique.
 
-Evaluation de l’impact environnemental du cycle énergétique.
+Évaluation de l’impact environnemental du cycle énergétique.
 
-Elaboration de mesures économiques, législatives et réglementaires.
+Élaboration de mesures économiques, législatives et réglementaires.
 
 Transfert de technologies, assistance technique et co-entreprises industrielles régis par des régimes internationaux de droits de propriété et d’autres accords internationaux applicables.
 
@@ -321,7 +321,7 @@ Analyse énergétique et formulation de politiques:
 - – planification intégrée des ressources et gestion de la demande;
 - – évaluation de l’impact environnemental, y compris celui des grands projets énergétiques.
 
-Evaluation des instruments économiques destinés à améliorer l’efficacité énergétique et des objectifs environnementaux.
+Évaluation des instruments économiques destinés à améliorer l’efficacité énergétique et des objectifs environnementaux.
 
 Analyse de l’efficacité énergétique dans le domaine du raffinage, de la conversion, du transport et de la distribution des hydrocarbures.
 
@@ -378,12 +378,12 @@ Financement:
 - – co-entreprises;
 - – cofinancement.
 
-Champ d’application le 18 septembre 2006**[^t-2]**
+Champ d’application le 11 avril 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>22 mars</td><td>2013 A</td><td>20 juin</td><td>2013</td></tr>
 <tr><td>Albanie</td><td>12 février</td><td>1998</td><td>13 mai</td><td>1998</td></tr>
-<tr><td>Allemagne</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Arménie</td><td>19 janvier</td><td>1998</td><td>19 avril</td><td>1998</td></tr>
 <tr><td>Autriche</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Azerbaïdjan</td><td>23 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
@@ -391,45 +391,43 @@ Champ d’application le 18 septembre 2006**[^t-2]**
 <tr><td>Bosnie et Herzégovine</td><td>17 mai</td><td>2001</td><td>16 août</td><td>2001</td></tr>
 <tr><td>Bulgarie</td><td>15 novembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Chypre</td><td>15 avril</td><td>1998</td><td>15 mai</td><td>1998</td></tr>
-<tr><td>Communauté européenne (CE/UE/CEE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Communauté européenne de l’énergie atomique (Euratom)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Croatie</td><td>15 septembre</td><td>1998</td><td>15 octobre</td><td>1998</td></tr>
 <tr><td>Danemark</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Espagne</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Estonie</td><td>4 mai</td><td>1998</td><td>3 juin</td><td>1998</td></tr>
 <tr><td>Finlande</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>France</td><td>28 septembre</td><td>1999</td><td>27 décembre</td><td>1999</td></tr>
+<tr><td>Géorgie</td><td>27 avril</td><td>2004</td><td>27 mai</td><td>2004</td></tr>
 <tr><td>Grèce</td><td>4 septembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Hongrie</td><td>8 avril</td><td>1998</td><td>7 juillet</td><td>1998</td></tr>
 <tr><td>Irlande</td><td>15 avril</td><td>1999</td><td>14 juillet</td><td>1999</td></tr>
-<tr><td>Italie</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Japon</td><td>25 octobre</td><td>2002</td><td>23 janvier</td><td>2003</td></tr>
+<tr><td>Japon</td><td>25 octobre</td><td>2002</td><td>24 novembre</td><td>2002</td></tr>
+<tr><td>Jordanie</td><td>12 septembre</td><td>2018 A</td><td>11 décembre</td><td>2018</td></tr>
 <tr><td>Kazakhstan</td><td>6 août</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Kirghizistan</td><td>7 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Lettonie</td><td>5 janvier</td><td>1999</td><td>4 février</td><td>1999</td></tr>
 <tr><td>Liechtenstein</td><td>12 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Lituanie</td><td>14 septembre</td><td>1998</td><td>14 octobre</td><td>1998</td></tr>
-<tr><td>Luxembourg</td><td>27 novembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Macédoine</td><td>1<sup>er</sup> septembre</td><td>1998 A</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
-<tr><td>Malte</td><td>10 juin</td><td>2001</td><td>9 septembre</td><td>2001</td></tr>
+<tr><td>Lituanie</td><td>14 septembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
+<tr><td>Macédoine du Nord</td><td>1<sup>er</sup> septembre</td><td>1998 A</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
+<tr><td>Malte</td><td>30 mai</td><td>2001</td><td>28 août</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>22 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Mongolie</td><td>19 novembre</td><td>1999 A</td><td>19 mars</td><td>2000</td></tr>
+<tr><td>Monténégro</td><td>10 novembre</td><td>2015 A</td><td>10 décembre</td><td>2015</td></tr>
 <tr><td>Ouzbékistan</td><td>12 mars</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Pays-Bas</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Pologne</td><td>24 avril</td><td>2001</td><td>23 juillet</td><td>2001</td></tr>
-<tr><td>Portugal</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>République tchèque</td><td>28 mai</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>[tab] Ile de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>[tab] Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Île de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Slovénie</td><td>10 septembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suède</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suisse</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Tadjikistan</td><td>25 juin</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turkménistan</td><td>17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
+<tr><td>Union européenne (UE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.eda.admin.ch/eda/f/home/foreign/intagr/dabase.html).
+[^t-2]: [RO 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

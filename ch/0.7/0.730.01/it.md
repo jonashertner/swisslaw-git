@@ -3,11 +3,11 @@ sr: "0.730.01"
 title: "Protocollo del 17 dicembre 1994 della Carta dell'energia sull'efficienza energetica e sugli aspetti ambientali correlati"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816"
 language: it
-version: 2006-09-18
+version: 2024-04-11
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20060918/it/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20060918-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20060918/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2816_2816_2816/20240411/it/xml/fedlex-data-admin-ch-eli-cc-1998-2816_2816_2816-20240411-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2816_2816_2816/20240411/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **1998** 2816
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 18 settembre 2006)
+(Stato 11 aprile 2024)
 
 [^t-1]: [RU 1998 2815](https://fedlex.data.admin.ch/eli/oc/1998/2815_2815_2815)
 
@@ -390,10 +390,11 @@ Finanziamento:
 - – joint ventures;
 - – cofinanziamento.
 
-Campo d’applicazione il 18 settembre 2006**[^t-2]**
+Campo d’applicazione l’11 aprile 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>22 marzo</td><td>2013 A</td><td>20 giugno</td><td>2013</td></tr>
 <tr><td>Albania</td><td>12 febbraio</td><td>1998</td><td>13 maggio</td><td>1998</td></tr>
 <tr><td>Armenia</td><td>19 gennaio</td><td>1998</td><td>19 aprile</td><td>1998</td></tr>
 <tr><td>Austria</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
@@ -402,37 +403,33 @@ Campo d’applicazione il 18 settembre 2006**[^t-2]**
 <tr><td>Bosnia e Erzegovina</td><td>17 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
 <tr><td>Bulgaria</td><td>15 novembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Cipro</td><td>15 aprile</td><td>1998</td><td>15 maggio</td><td>1998</td></tr>
-<tr><td>Comunità europea (CE/UE/CEE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Comunità Europea dell’Energia Atomica (Euratom)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Croazia</td><td>15 settembre</td><td>1998</td><td>15 ottobre</td><td>1998</td></tr>
 <tr><td>Danimarca</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Estonia</td><td>4 maggio</td><td>1998</td><td>3 giugno</td><td>1998</td></tr>
 <tr><td>Finlandia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Francia</td><td>28 settembre</td><td>1999</td><td>27 dicembre</td><td>1999</td></tr>
-<tr><td>Germania</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Giappone</td><td>25 ottobre</td><td>2002</td><td>23 gennaio</td><td>2003</td></tr>
+<tr><td>Georgia</td><td>27 aprile</td><td>2004</td><td>27 maggio</td><td>2004</td></tr>
+<tr><td>Giappone</td><td>25 ottobre</td><td>2002</td><td>24 novembre</td><td>2002</td></tr>
+<tr><td>Giordania</td><td>12 settembre</td><td>2018 A</td><td>11 dicembre</td><td>2018</td></tr>
 <tr><td>Grecia</td><td>4 settembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Irlanda</td><td>15 aprile</td><td>1999</td><td>14 luglio</td><td>1999</td></tr>
-<tr><td>Italia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Kazakstan</td><td>6 agosto</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Kirghizistan</td><td>7 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Lettonia</td><td>5 gennaio</td><td>1999</td><td>4 febbraio</td><td>1999</td></tr>
 <tr><td>Liechtenstein</td><td>12 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Lituania</td><td>14 settembre</td><td>1998</td><td>14 ottobre</td><td>1998</td></tr>
-<tr><td>Lussemburgo</td><td>27 novembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Macedonia</td><td>1° settembre</td><td>1998 A</td><td>1° ottobre</td><td>1998</td></tr>
-<tr><td>Malta</td><td>10 giugno</td><td>2001</td><td>9 settembre</td><td>2001</td></tr>
+<tr><td>Lituania</td><td>14 settembre</td><td>1998</td><td>13 dicembre</td><td>1998</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° settembre</td><td>1998 A</td><td>1° ottobre</td><td>1998</td></tr>
+<tr><td>Malta</td><td>30 maggio</td><td>2001</td><td>28 agosto</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Mongolia</td><td>19 novembre</td><td>1999 A</td><td>19 marzo</td><td>2000</td></tr>
+<tr><td>Montenegro</td><td>10 novembre</td><td>2015 A</td><td>10 dicembre</td><td>2015</td></tr>
 <tr><td>Paesi Bassi</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Polonia</td><td>24 aprile</td><td>2001</td><td>23 luglio</td><td>2001</td></tr>
-<tr><td>Portogallo</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Regno Unito</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>[tab] Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>[tab] Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Isola di Man</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Jersey</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Repubblica Ceca</td><td>28 maggio</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Slovenia</td><td>10 settembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Spagna</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
@@ -441,7 +438,8 @@ Campo d’applicazione il 18 settembre 2006**[^t-2]**
 <tr><td>Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Ucraina</td><td>29 ottobre</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
 <tr><td>Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
+<tr><td>Unione Europea (UE)</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.eda.admin.ch/eda/i/home/foreign/intagr/dabase.html).
+[^t-2]: [RU 1998 2816](https://fedlex.data.admin.ch/eli/oc/1998/2816_2816_2816); [2002 2756](https://fedlex.data.admin.ch/eli/oc/2002/403); [2006 4453](https://fedlex.data.admin.ch/eli/oc/2006/682); [2024 159](https://fedlex.data.admin.ch/eli/oc/2024/159). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
