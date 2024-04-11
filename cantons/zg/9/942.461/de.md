@@ -4,13 +4,12 @@ number: "942.461"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
 short: "Kantonale Geldspielverordnung, V EG BGS"
 language: de
-version: 2023-07-01
-valid_until: 2024-04-11
-version_adopted: 2023-05-09
+version: 2024-04-12
+version_adopted: 2024-04-09
 adopted: 2023-05-09
 in_force: 2023-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/942.461"
-pdf: "https://bgs.zg.ch/api/de/versions/2431/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2557/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2431/pdf_file"
 
 (Kantonale Geldspielverordnung, V EG BGS)
 
-Vom 9. Mai 2023 (Stand 1. Juli 2023)
+Vom 9. Mai 2023 (Stand 12. April 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -300,9 +299,7 @@ beschliesst:
 
 #### § 24
 
-**Bauten und Anlagen**
-
-<sup>1</sup> Die Errichtung, die Erweiterung, der Ausbau sowie die Sanierung von Bauten und Anlagen können mit maximal 350'000 Franken unterstützt werden.
+**…**
 
 #### § 25
 
