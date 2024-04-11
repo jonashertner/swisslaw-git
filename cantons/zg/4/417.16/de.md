@@ -3,20 +3,19 @@ canton: ZG
 number: "417.16"
 title: Verordnung über den Sportfonds
 language: de
-version: 2023-07-01
-valid_until: 2024-04-11
-version_adopted: 2023-05-09
+version: 2024-04-12
+version_adopted: 2024-04-09
 adopted: 2005-10-04
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/417.16"
-pdf: "https://bgs.zg.ch/api/de/versions/2432/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2556/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Sportfonds
 
-Vom 4. Oktober 2005 (Stand 1. Juli 2023)
+Vom 4. Oktober 2005 (Stand 12. April 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -191,14 +190,7 @@ beschliesst:
 
 #### § 13
 
-**Maximalbeitrag**
-
-<sup>1</sup> Ein Projekt kann mit maximal Fr. 250 000.– unterstützt werden.
-
-- a) …
-- b) …
-
-<sup>2</sup> Innerhalb von fünf Jahren kann ein Verein für die Gesamtheit seiner Infrastrukturvorhaben sowie derjenigen seiner Abteilungen oder Sektionen mit maximal Fr. 250 000.– aus Mitteln des Sportfonds unterstützt werden.
+**…**
 
 #### § 14
 
