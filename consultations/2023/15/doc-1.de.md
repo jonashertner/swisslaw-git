@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderungen des Bundesgesetzes über die politischen Rechte (BPR) und der Verordnung über die politischen Rechte (VPR)
 document: Vernehmlassungsvorlage-1
 language: de

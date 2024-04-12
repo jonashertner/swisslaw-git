@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sui diritti politici (LDP) e dell’ordinanza sui diritti politici (ODP)
 document: Progetto posto in consultazione-1
 language: it
