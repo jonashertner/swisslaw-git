@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Harmonisation des prestations dans le régime des APG
 document: Projet mis en consultation
 language: fr

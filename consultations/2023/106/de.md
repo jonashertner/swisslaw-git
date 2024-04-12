@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Angleichung der EO-Leistungen
 document: Vernehmlassungsvorlage
 language: de
