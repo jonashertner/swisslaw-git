@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Pacchetto d’ordinanze in materie ambientale, autunno 2024"
 document: Progetto posto in consultazione-2
 language: it
