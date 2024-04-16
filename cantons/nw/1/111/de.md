@@ -4,12 +4,12 @@ number: "111"
 title: Verfassung des Kantons Nidwalden
 language: de
 version: 2023-03-13
-valid_until: 2025-12-31
+corrected: 2024-04-17
 version_adopted: 2023-03-12
 adopted: 1965-10-10
 in_force: 1965-10-10
 url: "https://gesetze.nw.ch/app/de/texts_of_law/111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1270/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1269/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -206,8 +206,6 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 <sup>2</sup> Er fördert insbesondere die Massnahmen zur Reinerhaltung der Gewässer und der Luft, zur Erhaltung und Bewirtschaftung der Waldungen, zum Schutz der Bergwelt sowie die Bestrebungen der Landes- und Ortsplanung.
 
 #### Art. 21a
-
-**Klimaschutz**
 
 <sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels und dessen Auswirkungen ein; sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen und richten ihre Massnahmen unter anderem darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern.
 
