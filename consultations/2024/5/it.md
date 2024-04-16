@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del Codice penale e del Codice penale militare (imprescrittibilità dell’assassinio)
 document: Progetto posto in consultazione
 language: it

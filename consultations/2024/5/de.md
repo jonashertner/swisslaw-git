@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Strafgesetzbuches und des Militärstrafgesetzes (Unverjährbarkeit von Mord)
 document: Vernehmlassungsvorlage
 language: de

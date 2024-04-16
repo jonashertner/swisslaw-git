@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du code pénal et du code pénal militaire (imprescriptibilité de l’assassinat)
 document: Projet mis en consultation
 language: fr
