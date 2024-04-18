@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Geoinformationsgesetzes – Leitungskataster Schweiz
 document: Vernehmlassungsvorlage
 language: de
