@@ -3,18 +3,18 @@ sr: "412.101.221.42"
 title: Ordinanza della SEFRI del 3 novembre 2023 sulla formazione professionale di base Operatrice tecnica di pulizia AFC / Operatore tecnico di pulizia AFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/669"
 language: it
-version: 2024-04-01
+version: 2024-04-25
 adopted: 2023-11-03
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240425/it/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240425-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240425/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice tecnica di pulizia AFC / Operatore tecnico di pulizia AFC
 
-del 3 novembre 2023 (Stato 1° aprile 2024)
+del 3 novembre 2023 (Stato 25 aprile 2024)
 
 <table>
 <tr><td>80104</td><td>Operatrice tecnica di pulizia AFC / Operatore tecnico di pulizia AFC Fachfrau Reinigungstechnik EFZ / Fachmann Reinigungstechnik EFZ Agente de propreté CFC / Agent de propreté CFC</td></tr>
@@ -51,9 +51,11 @@ Gli operatori tecnici di pulizia con attestato federale di capacità (AFC) svolg
 
 <sup>1</sup> La formazione professionale di base dura tre anni.
 
-<sup>2</sup> Ai titolari del certificato federale di formazione pratica di operatore tecnico di pulizia CFP è convalidato un anno della formazione professionale di base.
+<sup>2</sup> Ai titolari del certificato federale di formazione pratica di addetto tecnico di pulizia CFP è convalidato un anno della formazione professionale di base.[^2-1]
 
 <sup>3</sup> L’inizio della formazione professionale di base segue il calendario della relativa scuola professionale.
+
+[^2-1]: Correzione del 25 apr. 2024 ([RU 2024 172](https://fedlex.data.admin.ch/eli/oc/2024/172)).
 
 ## Sezione 2: Obiettivi ed esigenze
 
@@ -144,7 +146,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>– Preparazione dei servizi di pulizia</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
 <tr><td>– Pulizia di edifici e oggetti</td><td>100</td><td>100</td><td>80</td><td>280</td></tr>
 <tr><td>– Completamento dei servizi di pulizia</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
-<tr><td>– Preparazione e manutenzione di apparecchi, macchine e accessori</td><td>[tab] 20</td><td>[tab] 20</td><td>[tab] 30</td><td>[tab] 80</td></tr>
+<tr><td>– [^7-1] Preparazione e manutenzione di apparecchi, macchine e accessori</td><td>20</td><td>20</td><td>40</td><td>80</td></tr>
 <tr><td>Totale conoscenze professionali</td><td>200</td><td>200</td><td>200</td><td>600</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
 <tr><td>c. Educazione fisica</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
@@ -153,13 +155,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Correzione del 25 apr. 2024 ([RU 2024 172](https://fedlex.data.admin.ch/eli/oc/2024/172)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 8
 

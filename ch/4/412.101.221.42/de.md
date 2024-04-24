@@ -3,18 +3,18 @@ sr: "412.101.221.42"
 title: Verordnung des SBFI vom 3. November 2023 über die berufliche Grundbildung Fachfrau Reinigungstechnik EFZ / Fachmann Reinigungstechnik EFZ
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/669"
 language: de
-version: 2024-04-01
+version: 2024-04-25
 adopted: 2023-11-03
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240425/de/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240425-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240425/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Fachfrau Reinigungstechnik EFZ / Fachmann Reinigungstechnik EFZ
 
-vom 3. November 2023 (Stand am 1. April 2024)
+vom 3. November 2023 (Stand am 25. April 2024)
 
 <table>
 <tr><td>80104</td><td>Fachfrau Reinigungstechnik EFZ / Fachmann Reinigungstechnik EFZ Agente de propreté CFC / Agent de propreté CFC Operatrice tecnica di pulizia AFC / Operatore tecnico di pulizia AFC</td></tr>
@@ -51,9 +51,11 @@ Fachfrauen und Fachmänner Reinigungstechnik mit eidgenössischem Fähigkeitszeu
 
 <sup>1</sup> Die berufliche Grundbildung dauert drei Jahre.
 
-<sup>2</sup> Inhaberinnen und Inhabern eines eidgenössischen Berufsattests Praktikerin Reinigungstechnik oder Praktiker Reinigungstechnik EBA wird ein Jahr der beruflichen Grundbildung angerechnet.
+<sup>2</sup> Inhaberinnen und Inhabern eines eidgenössischen Berufsattests Praktikerin Reinigungstechnik oder Praktiker Reinigungstechnik EBA wird ein Jahr der beruflichen Grundbildung angerechnet.[^2-1]
 
 <sup>3</sup> Der Beginn der beruflichen Grundbildung richtet sich nach dem Schuljahr der zuständigen Berufsfachschule.
+
+[^2-1]: Die Berichtigung vom 25. April 2024 betrifft nur den italienischen Text ([AS 2024 172](https://fedlex.data.admin.ch/eli/oc/2024/172)).
 
 ## 2. Abschnitt: Ziele und Anforderungen
 

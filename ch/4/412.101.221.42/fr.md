@@ -3,18 +3,18 @@ sr: "412.101.221.42"
 title: Ordonnance du SEFRI du 3 novembre 2023 sur la formation professionnelle initiale d’agente de propreté CFC / agent de propreté CFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/669"
 language: fr
-version: 2024-04-01
+version: 2024-04-25
 adopted: 2023-11-03
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/669/20240425/fr/xml/fedlex-data-admin-ch-eli-cc-2023-669-20240425-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/669/20240425/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’agente de propreté CFC / agent de propreté CFC
 
-du 3 novembre 2023 (État le 1<sup>er</sup> avril 2024)
+du 3 novembre 2023 (État le 25 avril 2024)
 
 <table>
 <tr><td>80104</td><td>Agente de propreté CFC / Agent de propreté CFC Fachfrau Reinigungstechnik EFZ / Fachmann Reinigungstechnik EFZ Operatrice tecnica di pulizia AFC / Operatore tecnico di pulizia AFC</td></tr>
@@ -51,9 +51,11 @@ Les agents de propreté avec certificat fédéral de capacité (CFC) maîtrisent
 
 <sup>1</sup> La formation professionnelle initiale dure 3 ans.
 
-<sup>2</sup> Pour les titulaires d’une attestation fédérale de formation professionnelle d’agent de propreté, une année de la formation professionnelle initiale est prise en compte.
+<sup>2</sup> Pour les titulaires d’une attestation fédérale de formation professionnelle d’agent de propreté, une année de la formation professionnelle initiale est prise en compte.[^2-1]
 
 <sup>3</sup> Le début de la formation professionnelle initiale est coordonné avec le début de la formation dispensée par l’école professionnelle fréquentée.
+
+[^2-1]: Erratum du 25 avr. 2024, ne concerne que le texte italien ([RO 2024 172](https://fedlex.data.admin.ch/eli/oc/2024/172)).
 
 ## Section 2 Objectifs et exigences
 
