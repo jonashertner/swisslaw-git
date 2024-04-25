@@ -4,10 +4,9 @@ number: "413.252.1"
 title: Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich
 language: de
 version: "2023-08-01"
-nachtrag: "121"
-valid_until: 2024-04-25
+nachtrag: "125"
 adopted: 1998-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_1-1998_03_10-1998_08_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_1-1998_03_10-1998_08_01-125.html"
 text: pdf
 ---
 
@@ -15,7 +14,7 @@ text: pdf
 
 # Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich
 
-(vom 10. März 1998)<sup>1,</sup> <sup>2</sup>
+(vom 10. März 1998)[^t-1],[^t-2]
 
 A. Allgemeine Bestimmungen
 
@@ -25,19 +24,19 @@ A. Allgemeine Bestimmungen
 
 **Zeitpunkt der Prüfungen**
 
-§ 2.<sup>6</sup> <sup>1</sup> Die Maturitätsprüfungen beginnen grundsätzlich im Juni des letzten Schuljahres und werden vor den Sommerferien abgeschlossen. Einzelne Prüfungen können vorgezogen und frühestens am Ende des zweitletzten Schuljahres durchgeführt werden.
+§ 2.[^t-3] <sup>1</sup> Die Maturitätsprüfungen beginnen grundsätzlich im Juni des letzten Schuljahres und werden vor den Sommerferien abgeschlossen. Einzelne Prüfungen können vorgezogen und frühestens am Ende des zweitletzten Schuljahres durchgeführt werden.
 
-<sup>2</sup> An der Kantonalen Maturitätsschule für Erwachsene (KME) werden die Maturitätsprüfungen am Ende des letzten Semesters der Ausbildung durchgeführt.<sup>8</sup>
+<sup>2</sup> An der Kantonalen Maturitätsschule für Erwachsene (KME) werden die Maturitätsprüfungen am Ende des letzten Semesters der Ausbildung durchgeführt.[^t-4]
 
 **Zulassung**
 
-§ 3.<sup>4</sup> Zur Prüfung werden nur Kandidatinnen und Kandidaten zugelassen, die mindestens das volle letzte Schuljahr vor der Maturität am betreffenden Gymnasium absolviert haben.
+§ 3.[^t-5] Zur Prüfung werden nur Kandidatinnen und Kandidaten zugelassen, die mindestens das volle letzte Schuljahr vor der Maturität am betreffenden Gymnasium absolviert haben.
 
 B. Massgebende Fächer
 
 **Maturitätsfächer**
 
-§ 4.<sup>4</sup> <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit<sup>9</sup> bilden die Maturitätsfächer.
+§ 4.[^t-5] <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit[^t-6] bilden die Maturitätsfächer.
 
 <sup>2</sup> Grundlagenfächer sind:
 
@@ -63,9 +62,16 @@ B. Massgebende Fächer
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Das Schwerpunktfach und das Ergänzungsfach werden von der Schülerin bzw. vom Schüler aus dem Angebot der Schule gewählt.
+
+[^t-1]: OS 54, 560.
+[^t-2]: Vom Erziehungsrat erlassen.
+[^t-3]: Fassung gemäss Beschluss des Bildungsrates vom 30.August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
+[^t-4]: Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
+[^t-5]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^t-6]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 #### § 5
 
@@ -81,13 +87,16 @@ B. Massgebende Fächer
 
 - 4\. Schwerpunktfach
 
-<sup>2</sup> . . .<sup>10</sup>
+<sup>2</sup> Die Fächer 5 und 6 werden von den Schülerinnen und Schülern im Rahmen der an der Schule angebotenen Möglichkeiten gewählt, wobei das Schwerpunktfach oder Teilfächer daraus ausgeschlossen sind. Unter den Fächern 4, 5 und 6 muss eines Biologie oder Chemie oder Physik und eines Geschichte oder Geographie oder Wirtschaft und Recht enthalten.[^5-1]
 
 <sup>3</sup> Die Fächer 1, 2, 3 und 4 werden schriftlich und mündlich geprüft; von den Fächern 5 und 6 muss mindestens eines schriftlich geprüft werden. Eine praktische Prüfung in Bildnerischem Gestalten, Musik oder Sport ersetzt den mündlichen oder schriftlichen Teil einer Prüfung.
 
-<sup>4</sup> An der KME werden die Fächer 5 und 6 von den Schülerinnen und Schülern im Rahmen der an der Schule angebotenen Möglichkeiten gewählt, wobei das Schwerpunktfach oder Teilfächer daraus ausgeschlossen sind. Unter den Fächern 4, 5 und 6 muss eines Biologie, Chemie oder Physik und eines Geschichte, Geografie, Wirtschaft und Recht, Ergänzungsfach Philosophie oder Anwendungen der Mathematik enthalten.<sup>8</sup>
+<sup>4</sup> An der KME werden die Fächer 5 und 6 von den Schülerinnen und Schülern im Rahmen der an der Schule angebotenen Möglichkeiten gewählt, wobei das Schwerpunktfach oder Teilfächer daraus ausgeschlossen sind. Unter den Fächern 4, 5 und 6 muss eines Biologie, Chemie oder Physik und eines Geschichte, Geografie, Wirtschaft und Recht, Ergänzungsfach Philosophie oder Anwendungen der Mathematik enthalten.[^5-2]
 
 <sup>5</sup> Die Schulleitung bestimmt die Prüfungsart. Sie kann ergänzende Regelungen treffen.
+
+[^5-1]: Fassung gemäss Berichtigung vom 25. April 2024 (OS 79, 162). In Kraft seit 1. August 2023.
+[^5-2]: Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 #### § 6
 
@@ -129,31 +138,36 @@ Die Prüfungen werden durch die Fachlehrpersonen unter Beizug von Expertinnen un
 
 <sup>2</sup> Die erlaubten Hilfsmittel werden von den prüfenden Lehrpersonen im Einvernehmen mit der Schulleitung festgelegt. Die Expertinnen und Experten werden darüber sowie über notwendige Erklärungen, die vor Beginn der Arbeit gegeben wurden, informiert.
 
+[^11-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+
 #### § 12
 
 **Unregelmässigkeiten**
 
-<sup>1</sup> Die Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit kann den Ausschluss von der Prüfung, die Verweigerung oder die Ungültigerklärung des Maturitätszeugnisses zur Folge haben. Über den Ausschluss entscheidet die Schulleitung, über die Verweigerung oder Ungültigerklärung des Maturitätszeugnisses die Schulkommission<sup>4</sup>. Die Maturitätsprüfung gilt in diesen Fällen als nicht bestanden.
+<sup>1</sup> Die Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit kann den Ausschluss von der Prüfung, die Verweigerung oder die Ungültigerklärung des Maturitätszeugnisses zur Folge haben. Über den Ausschluss entscheidet die Schulleitung, über die Verweigerung oder Ungültigerklärung des Maturitätszeugnisses die Schulkommission[^11-1]. Die Maturitätsprüfung gilt in diesen Fällen als nicht bestanden.
 
 <sup>2</sup> Kandidatinnen und Kandidaten, die aus diesen Gründen abgewiesen werden, haben in der Regel die ganze Prüfung zu wiederholen und können erst zur folgenden ordentlichen Maturitätsprüfung wieder zugelassen werden. Über Ausnahmen entscheidet die Schulleitung.
 
-<sup>3</sup> In schweren Fällen kann der Kandidatin oder dem Kandidaten eine Wiederholung der Prüfung durch Beschluss der Schulkommission<sup>4</sup> verweigert werden.
+<sup>3</sup> In schweren Fällen kann der Kandidatin oder dem Kandidaten eine Wiederholung der Prüfung durch Beschluss der Schulkommission[^12-1] verweigert werden.
 
 <sup>4</sup> Die Kandidatinnen und Kandidaten sind vor den Prüfungen auf diese Bestimmungen aufmerksam zu machen.
 
 **Verhinderung**
 
-§ 12 a.<sup>8</sup> <sup>1</sup> Wer die Prüfung oder Teile davon aufgrund eines zwingenden, unvorhersehbaren und unabwendbaren Verhinderungsgrundes nicht antreten oder zu Ende führen kann, meldet dies unverzüglich der Schulleitung oder der Prüfungsaufsicht.
+§ 12 a.[^12-2] <sup>1</sup> Wer die Prüfung oder Teile davon aufgrund eines zwingenden, unvorhersehbaren und unabwendbaren Verhinderungsgrundes nicht antreten oder zu Ende führen kann, meldet dies unverzüglich der Schulleitung oder der Prüfungsaufsicht.
+
+**3**
+
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Der Verhinderungsgrund ist zu belegen. Wer medizinische Gründe geltend macht, reicht der Schulleitung innert dreier Tage nach dem Prüfungstermin ein ärztliches Zeugnis ein.
 
 <sup>3</sup> Wer einer Prüfung oder Teilen davon unentschuldigt fernbleibt, hat die Prüfung nicht bestanden.
 
-**3**
-
-- 1\. 7. 23 - 121
-
 <sup>4</sup> Verhinderungsgründe, die zum Zeitpunkt der Prüfung bekannt oder erkennbar waren, können nicht mehr geltend gemacht werden, nachdem die Prüfung ganz oder teilweise abgelegt wurde.
+
+[^12-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^12-2]: Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 ### D. Beurteilung der Leistungen und Ermittlung der Noten
 
@@ -165,41 +179,49 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 
 **Ermittlung der Noten**
 
-§ 14.<sup>4</sup> <sup>1</sup> Die Maturitätsnoten setzen sich aus den Erfahrungsnoten und in Fächern, in denen Prüfungen stattfinden, zusätzlich aus den Prüfungsnoten zusammen. Die Noten werden wie folgt ermittelt:
+§ 14.[^13-1] <sup>1</sup> Die Maturitätsnoten setzen sich aus den Erfahrungsnoten und in Fächern, in denen Prüfungen stattfinden, zusätzlich aus den Prüfungsnoten zusammen. Die Noten werden wie folgt ermittelt:
 
-<sup>2</sup> Erfahrungsnote: In allen Maturitätsfächern wird eine Erfahrungsnote gebildet. Die Erfahrungsnote ist das ungerundete Mittel der Noten der letzten beiden Semester, in denen das Fach unterrichtet wurde. Wird ein Fach in beiden Semestern des zweitletzten oder in beiden Semestern des letzten Schuljahres vor der Maturität unterrichtet, ist die Erfahrungsnote die Note aus dem entsprechenden Jahreszeugnis.<sup>7</sup>
+<sup>2</sup> Erfahrungsnote: In allen Maturitätsfächern wird eine Erfahrungsnote gebildet. Die Erfahrungsnote ist das ungerundete Mittel der Noten der letzten beiden Semester, in denen das Fach unterrichtet wurde. Wird ein Fach in beiden Semestern des zweitletzten oder in beiden Semestern des letzten Schuljahres vor der Maturität unterrichtet, ist die Erfahrungsnote die Note aus dem entsprechenden Jahreszeugnis.[^13-2]
 
 <sup>3</sup> Die Schulleitung bezeichnet die Semester, deren Zeugnisnoten für die Erfahrungsnote zählen, entsprechend dem Lehrplan der Schule.
 
 <sup>4</sup> Prüfungsnote: Für die schriftlichen und mündlichen Prüfungen werden ganze und halbe Noten erteilt. Als Prüfungsnote wird das ungerundete Mittel aus den beiden Noten bezeichnet; in Fächern mit nur einer Prüfung gilt die erteilte Note als Prüfungsnote.
 
-<sup>5</sup> Maturaarbeitsnote<sup>9</sup>: Die Maturitätsnote für die Maturaarbeit<sup>9</sup> wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturaarbeitsnote<sup>9</sup>. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.<sup>6</sup>
+<sup>5</sup> Maturaarbeitsnote[^13-3]: Die Maturitätsnote für die Maturaarbeit[^13-3] wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturaarbeitsnote[^13-3]. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.[^13-4]
 
 <sup>6</sup> Maturitätsnote: Das Mittel aus Erfahrungs- und Prüfungsnote wird nach der nächsten ganzen oder halben Zahl gerundet. Ist der Bruchteil des Mittels eine Viertelnote, so ist aufzurunden. Die so ermittelte Note ist die Maturitätsnote im betreffenden Fach. In Fächern, in denen keine Prüfung stattfindet, wird die Rundung auf die Maturitätsnote direkt von der Erfahrungsnote aus vorgenommen.
 
 **Maturaarbeit9**
 
-§ 15.<sup>4</sup> <sup>1</sup> Einzelheiten zur Einreichung, Präsentation und Bewertung der Maturaarbeit<sup>9</sup> sind in den Richtlinien der Schulen geregelt. Die Maturaarbeit<sup>9</sup> kann in anonymisierter Form zum Zweck der Feststellung von Plagiaten in einer Datenbank erfasst werden.
+§ 15.[^13-1] <sup>1</sup> Einzelheiten zur Einreichung, Präsentation und Bewertung der Maturaarbeit[^13-3] sind in den Richtlinien der Schulen geregelt. Die Maturaarbeit[^13-3] kann in anonymisierter Form zum Zweck der Feststellung von Plagiaten in einer Datenbank erfasst werden.
 
-<sup>2</sup> Mit der Einreichung der Maturaarbeit<sup>9</sup> ist eine persönlich unterzeichnete Erklärung abzugeben, in welcher die selbstständige Abfassung der Arbeit ohne Benützung anderer als der angegebenen Quellen oder Hilfsmittel bestätigt wird.
+<sup>2</sup> Mit der Einreichung der Maturaarbeit[^13-3] ist eine persönlich unterzeichnete Erklärung abzugeben, in welcher die selbstständige Abfassung der Arbeit ohne Benützung anderer als der angegebenen Quellen oder Hilfsmittel bestätigt wird.
 
 <sup>3</sup> Die Bestimmungen von § 12 gelten sinngemäss.
+
+[^13-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^13-2]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 282; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 24 - 125 7
+[^13-3]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
+[^13-4]: Fassung gemäss Beschluss des Bildungsrates vom 30.August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
 
 ### E. Prüfungsentscheid
 
 **Bedingungen für die Erteilung des Maturitätsausweises**
 
-§ 16.<sup>4</sup> Die Maturität ist bestanden, wenn a. die Prüfungen in allen Maturitätsfächern abgelegt und die Maturaarbeit<sup>9</sup> abgegeben wurden,
+§ 16.[^hEPrüfungsentscheid-1] Die Maturität ist bestanden, wenn a. die Prüfungen in allen Maturitätsfächern abgelegt und die Maturaarbeit[^hEPrüfungsentscheid-2] abgegeben wurden,
 
-- b. in den 12 Maturitätsfächern sowie der Maturaarbeit<sup>9</sup> die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben,
+- b. in den 12 Maturitätsfächern sowie der Maturaarbeit[^hEPrüfungsentscheid-2] die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben,
 
 - c. nicht mehr als vier Noten unter 4 erteilt wurden.
+
+[^hEPrüfungsentscheid-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^hEPrüfungsentscheid-2]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 #### § 17
 
 **Entscheid**
 
-Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin oder des Rektors durch die Schulkommission<sup>4</sup> gefällt. Er kann für Einzelfälle, in denen sich der Abschluss einer Kandidatin oder eines Kandidaten verzögert, an die Präsidentin oder den Präsidenten der Schulkommission<sup>4</sup> delegiert werden.
+Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin oder des Rektors durch die Schulkommission[^hEPrüfungsentscheid-1] gefällt. Er kann für Einzelfälle, in denen sich der Abschluss einer Kandidatin oder eines Kandidaten verzögert, an die Präsidentin oder den Präsidenten der Schulkommission[^hEPrüfungsentscheid-1] delegiert werden.
 
 #### § 18
 
@@ -209,11 +231,13 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin ode
 
 <sup>2</sup> Zu einer Wiederholung des letzten Schuljahres und der Prüfung werden auch Kandidatinnen und Kandidaten zugelassen, die bereits ein Jahr repetiert haben.
 
-<sup>3</sup> Die Maturaarbeit<sup>9</sup> muss nicht wiederholt werden.
+<sup>3</sup> Die Maturaarbeit[^18-1] muss nicht wiederholt werden.
 
 **5**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
+
+[^18-1]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 ### F. Maturitätsausweis
 
@@ -231,17 +255,19 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin ode
 
 - e. die Noten der 12 Maturitätsfächer gemäss § 4 und des Faches Sport im Grundlagenbereich,
 
-- f. das Thema und die Note der Maturaarbeit<sup>9</sup>,
+- f. das Thema und die Note der Maturaarbeit[^hFMaturitätsausweis-2],
 
 - g. gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache,
 
 - h. die Unterschriften der Rektorin oder des Rektors der Schule und der zur Unterzeichnung berechtigten Person der kantonalen Bildungsdirektion[^hFMaturitätsausweis-1].
 
-<sup>2</sup> Der Maturitätsausweis der KME enthält die Angaben gemäss Abs. 1 lit. a–d sowie lit. f–h sowie die Angaben nach lit. e jedoch ohne Sport.<sup>8</sup>
+<sup>2</sup> Der Maturitätsausweis der KME enthält die Angaben gemäss Abs. 1 lit. a–d sowie lit. f–h sowie die Angaben nach lit. e jedoch ohne Sport.[^hFMaturitätsausweis-3]
 
 <sup>3</sup> Die Bildungsdirektion[^hFMaturitätsausweis-1] erlässt Ausführungsbestimmungen.
 
 [^hFMaturitätsausweis-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^hFMaturitätsausweis-2]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
+[^hFMaturitätsausweis-3]: Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
 
 #### § 20
 
@@ -276,11 +302,4 @@ Der Maturitätsausweis kann ausser den Noten für die massgebenden Fächer und f
 
 ## Weitere Fussnoten
 
-- [1] OS 54, 560.
-- [2] Vom Erziehungsrat erlassen.
-- [5] Dieses Reglement gilt mit den folgenden Abweichungen auch für die Kantonale Maturitätsschule für Erwachsene (KME): – § 2: an der KME am Ende des letzten Semesters der Ausbildung. – § 5 Abs. 2: an der KME statt Geschichte, Geographie oder Wirtschaft und Recht auch die Ergänzungsfächer Philosophie und Anwendungen der Mathematik. – § 19 lit. e: an der KME ohne Sport. – § 22 Abs. 2: an der KME Reglement für die Maturitätsprüfungen an der Lehramtsabteilung der KME vom 10. August 1982.
-- [7] Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 282; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 23 - 121 7
-- [8] Eingefügt durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
-- [9] Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 97; ABl 2021-09-03). In Kraft seit 1. August 2023.
-- [10] Aufgehoben durch Beschluss des Bildungsrates vom 25. August 2021 (OS 77,
-- [97] ; ABl 2021-09-03). In Kraft seit 1. August 2023.
+- [5] Dieses Reglement gilt mit den folgenden Abweichungen auch für die Kantonale Maturitätsschule für Erwachsene (KME): – § 2: an der KME am Ende des letzten Semesters der Ausbildung. – § 19 lit. e: an der KME ohne Sport. – § 22 Abs. 2: an der KME Reglement für die Maturitätsprüfungen an der Lehramtsabteilung der KME vom 10. August 1982.
