@@ -4,10 +4,10 @@ number: "551.2"
 title: Kantonale Verordnung über Massnahmen zur Unterstützung der Sicherheit von Minderheiten mit besonderen Schutzbedürfnissen (KVSMS)
 short: KVSMS
 language: de
-nachtrag: "118"
-valid_until: 2024-04-25
+version: "2024-04-01"
+nachtrag: "125"
 adopted: 2022-06-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_2-2022_06_22-2022_10_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_2-2022_06_22-2022_10_01-125.html"
 text: pdf
 ---
 
@@ -58,20 +58,20 @@ Diese Verordnung regelt die Gewährung von Unterstützung des Kantons und der Ge
 
 <sup>2</sup> Sie vermindert sich in der Höhe des Beitrags, den die betroffene Gemeinde leistet.
 
-<sup>3</sup> Die Beiträge des Kantons betragen insgesamt höchstens 1 Mio. Franken jährlich.
-
-#### § 5
+<sup>3</sup> Die Beiträge des Kantons betragen insgesamt höchstens 2 Mio. Franken jährlich.[^4-1]
 
 **c. Verfahren**
 
-Gesuche um finanzielle Unterstützung sind bei der Sicherheitsdirektion und bei der zuständigen Gemeinde einzureichen. Dem Gesuch ist die Verfügung oder der Vertrag gemäss Art. 9 Abs. 2 VSMS beizulegen.
+§ 5. Gesuche um finanzielle Unterstützung sind bei der Sicherheitsdirektion und bei der zuständigen Gemeinde einzureichen. Dem Gesuch ist die Verfügung oder der Vertrag gemäss Art. 9 Abs. 2 VSMS beizulegen.
 
 **1**
 
-1.10. 22 - 118 § 6. <sup>1</sup> Die Gesuchstellerinnen und Gesuchsteller erteilen den zuständigen Behörden alle für die Beurteilung des Gesuchs notwendigen Auskünfte, insbesondere hinsichtlich der Finanzierung der Massnahme.
+- 1\. 7. 24 - 125 § 6. <sup>1</sup> Die Gesuchstellerinnen und Gesuchsteller erteilen den zuständigen Behörden alle für die Beurteilung des Gesuchs notwendigen Auskünfte, insbesondere hinsichtlich der Finanzierung der Massnahme.
 
 **d. Pflichten**
 
 <sup>2</sup> Die Beitragsempfängerinnen und Beitragsempfänger geben den zuständigen Behörden jederzeit Auskunft über die Verwendung der gewährten finanziellen Unterstützung und gewähren ihnen hierzu Einsicht in ihre Unterlagen.
 
 <sup>3</sup> Sie legen den zuständigen Behörden nach Abschluss der Massnahme eine Schlussabrechnung und einen Schlussbericht vor, die über die Verwendung der gewährten finanziellen Unterstützung Auskunft geben.
+
+[^4-1]: Fassung gemäss RRB vom 24. Januar 2024 (OS 79, 163; ABl 2024-02-02). In Kraft seit 1. April 2024.
