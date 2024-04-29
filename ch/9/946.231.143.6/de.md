@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2024-03-15
+version: 2024-04-30
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240315-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240430/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240430-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240430/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 15. März 2024)
+vom 11. November 2015 (Stand am 30. April 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -70,11 +70,12 @@ In dieser Verordnung bedeuten:
 
 <sup>3</sup> Die Beschaffung, die Einfuhr, die Durchfuhr, die Beförderung und die Vermittlung von Gütern und Technologie nach Anhang 1*a* aus dem Iran sind verboten.
 
-<sup>4</sup> b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
+<sup>4</sup>
 
 Das Staatsekretariat für Wirtschaft (SECO) kann den Verkauf, die Lieferung, die Weitergabe, die Durchfuhr oder die Ausfuhr von Gütern und Technologien nach Anhang 1*a* oder die damit verbundene Bereitstellung von technischer und finanzieller Hilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzerinnen und Endnutzer bewilligen, wenn die Güter oder Technologien oder die damit verbundene technische oder finanzielle Hilfe erforderlich sind für:
 
 - a. medizinische oder pharmazeutische Zwecke;
+- b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
@@ -635,7 +636,8 @@ Anhang 3
   - 11\.2 Fusseisen, Mehrpersonen-Fesseln, Fesseln und Einzelschellen oder Fesselarmbänder. Nicht erfasst sind Handschellen, deren Gesamtlänge einschliesslich Kette, gemessen im geschlossenen Zustand vom Aussenrand einer Schelle zum Aussenrand der anderen Schelle, zwischen 150 und 280 mm beträgt und die nicht verändert wurden, um körperliche Schmerzen oder Leiden zu verursachen.
   - 11\.3 Daumenschellen und Daumenschrauben, einschliesslich gezackter Daumenschellen.
 
-- 12 Tragbare Elektroschockgeräte, einschliesslich Elektroschock-Schlagstöcken, Elektroschock-Schilden, Elektroschockern (Paralyser) und Elektroschock-Pfeilwaffen, die eine Leerlaufspannung von mehr als 10 000 Volt haben und die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.Nicht erfasst sind einzelne Elektroschockgeräte, wenn diese zum persönlichen Schutz mitgeführt werden.
+- 12 Tragbare Elektroschockgeräte, einschliesslich Elektroschock-Schlagstöcken, Elektroschock-Schilden, Elektroschockern (Paralyser) und Elektroschock-Pfeilwaffen, die eine Leerlaufspannung von mehr als 10 000 Volt haben und die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.
+- Nicht erfasst sind einzelne Elektroschockgeräte, wenn diese zum persönlichen Schutz mitgeführt werden.
 - 13
 
   Substanzen zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz sowie dazugehörige tragbare Ausbringungsausrüstung, wie folgt:
@@ -668,8 +670,8 @@ Anhang 4
 - – Ausrüstung zum Überwachen und Abhören von:
 - *IMSI (International Mobile Subscriber Identity):* International Mobile Subscriber Identity. Eindeutiger Identifizierungscode für jedes Mobilfunkgerät, der fest in der SIM-Karte integriert ist und die Identifizierung der SIM-Karte über GSM- und UMTS-Netze ermöglicht.
 - *MSISDN (Mobile Subscriber Integrated Services Digital Network Number):* Nummer zur eindeutigen Identifizierung eines GSM- oder UMTS-Netzteilnehmers. Dies ist die Telefonnummer, die der SIM-Karte eines Mobiltelefons zugeordnet ist und daher – genauso wie eine IMSI – die Identifizierung eines Mobilfunkteilnehmers ermöglicht, aber auch der Anrufvermittlung an den Teilnehmer dient.
-- [tab] *IMEI (**International Mobile Equipment Identity):* International Mobile Equipment Identity. In der Regel eindeutige Nummer zur Identifizierung von GSM-, WCDMA- und IDEN- Mobiltelefonen sowie einiger Satellitentelefone. Die Nummer ist zumeist im Batteriefach des Telefons aufgedruckt. Die Überwachung (Abhören) kann mit Hilfe der IMEI-Nummer sowie der IMSI und MSISDN erfolgen.
-- [tab] *TMSI (Temporary Mobile Subscriber Identity):* Temporary Mobile Subscriber Identity. Kennung, die in der Regel zwischen dem Mobilfunkgerät und dem Netz übertragen wird.
+- *IMEI (**International Mobile Equipment Identity):* International Mobile Equipment Identity. In der Regel eindeutige Nummer zur Identifizierung von GSM-, WCDMA- und IDEN- Mobiltelefonen sowie einiger Satellitentelefone. Die Nummer ist zumeist im Batteriefach des Telefons aufgedruckt. Die Überwachung (Abhören) kann mit Hilfe der IMEI-Nummer sowie der IMSI und MSISDN erfolgen.
+- *TMSI (Temporary Mobile Subscriber Identity):* Temporary Mobile Subscriber Identity. Kennung, die in der Regel zwischen dem Mobilfunkgerät und dem Netz übertragen wird.
 - – Taktische Ausrüstung zum Überwachen und Abhören von SMS (Short Message System), GSM (Global System for Mobile Communications), GPS (Global Positioning System), GPRS (General Package Radio Service), UMTS (Universal Mobile Telecommunication System), CDMA (Code Division Multiple Access), PSTN (Public Switch Telephone Networks)
 - – Ausrüstung zum Überwachen und Abhören von DHCP (Dynamic Host Configuration Protocol), SMTP (Simple Mail Transfer Protocol) und GTP (GPRS Tunneling Protocol)
 - – Ausrüstung für die Mustererkennung und die Erstellung von Musterprofilen
@@ -750,5 +752,5 @@ Anhang 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) und vom 24. Mai 2022, in Kraft seit 25. Mai 2022 um 18.00 Uhr ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
-[^annex7-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), vom 24. Mai 2022 ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) und vom 29. April 2024, in Kraft seit 30. April 2024 um 18.00 Uhr ([AS 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

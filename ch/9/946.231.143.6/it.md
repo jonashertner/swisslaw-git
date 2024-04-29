@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2024-03-15
+version: 2024-04-30
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240430/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240430-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240430/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 15 marzo 2024)
+dell’11 novembre 2015 (Stato 30 aprile 2024)
 
 Il Consiglio federale svizzero,
 
@@ -747,7 +747,7 @@ Allegato 6a[^t-5]
 [^annex6a-lvlu1-1]
 
 [^t-5]: Introdotto dal n. I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dal dal n. I dell’O del DEFR del 20 dic. 2023, in vigore dal 21 dic. 2023 alle ore 18.00 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
-[^annex6a-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
 
 Allegato 7[^t-6]
 
@@ -757,5 +757,5 @@ Allegato 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Aggiornato dal n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), del 27 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) e del 24 mag. 2022, in vigore dal 25 mag. 2022 alle ore 18.00 ([RU 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
-[^annex7-lvlu1-1]: Non pubblicato nella RU. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-6]: Aggiornato dai n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), del 27 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), del 24 mag. 2022 ([RU 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) e del 29 apr. 2024, in vigore dal 30 apr. 2024 alle ore 18.00 ([RU 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
+[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

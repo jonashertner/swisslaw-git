@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2024-03-15
+version: 2024-04-30
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240430/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240430-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240430/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 15 mars 2024)
+du 11 novembre 2015 (État le 30 avril 2024)
 
 Le Conseil fédéral suisse,
 
@@ -70,11 +70,12 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>3</sup> L’acquisition, l’importation, le transit, le transport et le courtage, à partir de l’Iran, de biens et technologies visés à l’annexe 1*a* sont interdits.
 
-<sup>4</sup> b. à des fins humanitaires, à des urgences sanitaires, à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles.
+<sup>4</sup>
 
 Le Secrétariat d’État à l’économie (SECO) peut autoriser la vente, la fourniture, le transfert, le transit ou l’exportation de biens et technologies visés à l’annexe 1*a* ou la fourniture d’une assistance technique ou d’une aide financière y afférentes destinés à un usage non militaire et à un utilisateur final non militaire après avoir établi que ces biens ou technologies ou l’assistance technique et l’aide financière y afférentes sont nécessaires:
 
 - a. à des fins médicales ou pharmaceutiques;
+- b. à des fins humanitaires, à des urgences sanitaires, à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles.
 
 [^2a-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
@@ -756,5 +757,5 @@ Annexe 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) et du 24 mai 2022, en vigueur depuis le 25 mai 2022 à 18 heures ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
-[^annex7-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) et du 29 avr. 2024, en vigueur depuis le 30 avr. 2024 à 18 heures ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
