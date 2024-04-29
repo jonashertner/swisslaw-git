@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Convention du 20 octobre 2005 sur la protection et la promotion de la diversité des expressions culturelles (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: fr
-version: 2020-03-24
+version: 2024-04-30
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20200324/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20200324-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20200324/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240430/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240430-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240430/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 juillet 2008
 
 Entrée en vigueur pour la Suisse le 16 octobre 2008
 
-(Etat le 24 mars 2020)
+(État le 30 avril 2024)
 
 [^t-1]: [RO 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -613,7 +613,7 @@ La Commission de conciliation prend ses décisions à la majorité des voix de s
 
 En cas de désaccord au sujet de la compétence de la Commission de conciliation, celle-ci décide si elle est ou non compétente.
 
-Champ d’application le 24 mars 2020**[^t-2]**
+Champ d’application le 30 avril 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -628,7 +628,6 @@ Champ d’application le 24 mars 2020**[^t-2]**
 <tr><td>Argentine\*</td><td>7 mai</td><td>2008</td><td>7 août</td><td>2008</td></tr>
 <tr><td>Arménie</td><td>27 février</td><td>2007 A</td><td>27 mai</td><td>2007</td></tr>
 <tr><td>Australie\*</td><td>18 septembre</td><td>2009 A</td><td>18 décembre</td><td>2009</td></tr>
-<tr><td>Autorité palestinienne</td><td>8 décembre</td><td>2011</td><td>8 décembre</td><td>2012</td></tr>
 <tr><td>Autriche</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Azerbaïdjan</td><td>15 février</td><td>2010 A</td><td>15 mai</td><td>2010</td></tr>
 <tr><td>Bahamas</td><td>29 décembre</td><td>2014</td><td>29 mars</td><td>2015</td></tr>
@@ -648,6 +647,7 @@ Champ d’application le 24 mars 2020**[^t-2]**
 <tr><td>Cambodge</td><td>19 septembre</td><td>2007 A</td><td>19 décembre</td><td>2007</td></tr>
 <tr><td>Cameroun</td><td>22 novembre</td><td>2006 A</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Canada</td><td>28 novembre</td><td>2005</td><td>18 mars</td><td>2007</td></tr>
+<tr><td>Cap-Vert</td><td>26 mai</td><td>2021</td><td>26 août</td><td>2021</td></tr>
 <tr><td>Chili\*</td><td>13 mars</td><td>2007</td><td>13 juin</td><td>2007</td></tr>
 <tr><td>Chine</td><td>30 janvier</td><td>2007</td><td>30 avril</td><td>2007</td></tr>
 <tr><td>Hong Kong</td><td>30 janvier</td><td>2007</td><td>30 avril</td><td>2007</td></tr>
@@ -663,6 +663,7 @@ Champ d’application le 24 mars 2020**[^t-2]**
 <tr><td>Croatie</td><td>31 août</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Cuba</td><td>29 mai</td><td>2007</td><td>29 août</td><td>2007</td></tr>
 <tr><td>Danemark</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
+<tr><td>Îles Féroé</td><td>22 novembre</td><td>2023</td><td>22 novembre</td><td>2023</td></tr>
 <tr><td>Djibouti</td><td>9 août</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Dominique</td><td>7 août</td><td>2015 A</td><td>7 novembre</td><td>2015</td></tr>
 <tr><td>Égypte</td><td>23 août</td><td>2007</td><td>23 novembre</td><td>2007</td></tr>
@@ -727,6 +728,8 @@ Champ d’application le 24 mars 2020**[^t-2]**
 <tr><td>Oman</td><td>16 mars</td><td>2007</td><td>16 juin</td><td>2007</td></tr>
 <tr><td>Ouganda</td><td>8 avril</td><td>2015</td><td>8 juillet</td><td>2015</td></tr>
 <tr><td>Ouzbékistan</td><td>15 novembre</td><td>2019</td><td>15 février</td><td>2020</td></tr>
+<tr><td>Pakistan</td><td>4 mars</td><td>2022</td><td>4 juin</td><td>2022</td></tr>
+<tr><td>Palestine</td><td>8 décembre</td><td>2011</td><td>8 décembre</td><td>2012</td></tr>
 <tr><td>Panama</td><td>22 janvier</td><td>2007</td><td>22 avril</td><td>2007</td></tr>
 <tr><td>Paraguay</td><td>30 octobre</td><td>2007</td><td>30 janvier</td><td>2008</td></tr>
 <tr><td>Pays-Bas</td><td>9 octobre</td><td>2009 A</td><td>9 janvier</td><td>2010</td></tr>
@@ -760,14 +763,16 @@ Champ d’application le 24 mars 2020**[^t-2]**
 <tr><td>Togo</td><td>5 septembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>26 juillet</td><td>2010</td><td>26 octobre</td><td>2010</td></tr>
 <tr><td>Tunisie</td><td>15 février</td><td>2007</td><td>15 mai</td><td>2007</td></tr>
+<tr><td>Turkménistan</td><td>2 avril</td><td>2021 A</td><td>2 juillet</td><td>2021</td></tr>
 <tr><td>Turquie\*</td><td>2 novembre</td><td>2017 A</td><td>2 février</td><td>2018</td></tr>
 <tr><td>Ukraine</td><td>10 mars</td><td>2010</td><td>10 juin</td><td>2010</td></tr>
 <tr><td>[tab] Union européenne (UE)\*</td><td>18 décembre</td><td>2006 A</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>18 janvier</td><td>2007</td><td>18 avril</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>28 mai</td><td>2013</td><td>28 août</td><td>2013</td></tr>
 <tr><td>Vietnam\*</td><td>7 août</td><td>2007</td><td>7 novembre</td><td>2007</td></tr>
+<tr><td>Zambie</td><td>11 juillet</td><td>2023 A</td><td>11 octobre</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>15 mai</td><td>2008</td><td>15 août</td><td>2008</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/](http://www.unesco.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676), [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110), [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15), [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39), [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111), [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393), [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589), [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
