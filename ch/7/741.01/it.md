@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2024-01-01
+version: 2024-05-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° gennaio 2024)
+del 19 dicembre 1958 (Stato 1° maggio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2077,14 +2077,14 @@ Le autorità e i servizi seguenti trattano i dati del SIAC:[^89d-1]
 - c. le autorità competenti per il razionamento del carburante e per la requisizione e locazione di veicoli a favore dell’esercito, della protezione civile e dell’approvvigionamento economico del Paese, per quanto attiene ai dati relativi ai veicoli e ai detentori dei veicoli;
 - d. gli organi di polizia competenti per il sequestro di licenze di condurre e di licenze di circolazione, per quanto attiene ai dati relativi alle autorizzazioni a condurre e ai veicoli;
 - e.[^89d-2] le autorità competenti per il controllo dello sdoganamento e dell’imposizione secondo la LIAut[^89d-3], per quanto attiene ai dati relativi al loro ambito di competenza;
-- f.[^89d-4] le autorità competenti per la riscossione della tassa sul traffico pesante commisurata alle prestazioni conformemente alla legge del 19 dicembre 1997[^89d-5] sul traffico pesante, per quanto attiene ai dati relativi al loro ambito di competenza;
+- f.[^89d-4] i servizi incaricati della riscossione e della verifica del pagamento della tassa sul traffico pesante commisurata alle prestazioni secondo la legge del 19 dicembre 1997[^89d-5] sul traffico pesante, per quanto attiene ai dati relativi al loro ambito di competenza;
 - g.[^89d-6] i servizi incaricati della riscossione e della verifica del pagamento della tassa per l’utilizzazione delle strade nazionali secondo la legge del 19 marzo 2010[^89d-7] sul contrassegno stradale, per quanto attiene ai dati relativi ai veicoli e ai detentori di veicoli;
 - h.[^89d-8] le autorità competenti per l’esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89d-9] sul CO<sub>2</sub>, per quanto attiene ai dati relativi al loro ambito di competenza.
 
 [^89d-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-2]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Introdotta dal n. I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89d-4]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-4]: Introdotta dal n. I della LF del 17 mar. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nuovo testo giusta l’all. 2 n. 1 della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323), [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^89d-6]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
@@ -2762,7 +2762,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 [^106-2]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^106-3]: Secondo e terzo per. abrogati dal n. I della LF del 14 dic. 2001, con effetto dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
 [^106-4]: Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-5]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-5]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 [RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^106-6]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^106-7]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 

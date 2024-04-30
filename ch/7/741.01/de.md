@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2024-01-01
+version: 2024-05-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. Januar 2024)
+vom 19. Dezember 1958 (Stand am 1. Mai 2024)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -2074,14 +2074,14 @@ Folgende Behörden und Stellen bearbeiten die Daten des IVZ:[^89d-1]
 - c. die für die Treibstoffrationierung sowie die Belegung und Einmietung von Fahrzeugen für die Armee, den Zivilschutz und die wirtschaftliche Landesversorgung zuständigen Behörden: die Fahrzeughalter- und Fahrzeugdaten;
 - d. die für die Abnahme von Führer- und Fahrzeugausweisen zuständigen Polizeiorgane: die Fahrberechtigungs- und Fahrzeugdaten;
 - e.[^89d-2] die für die Kontrolle der Verzollung und Versteuerung nach dem AStG[^89d-3] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
-- f.[^89d-4] die für die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^89d-5] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
+- f.[^89d-4] die mit der Erhebung und der Überprüfung der Entrichtung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^89d-5] betrauten Stellen: die Daten in ihrem Zuständigkeitsbereich;
 - g.[^89d-6] die mit der Erhebung und der Überprüfung der Entrichtung der Nationalstrassenabgabe nach dem Nationalstrassenabgabegesetz vom 19. März 2010[^89d-7] betrauten Stellen: die Fahrzeughalter- und Fahrzeugdaten;
 - h.[^89d-8] die für den Vollzug der Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^89d-9] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich.
 
 [^89d-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Fassung gemäss Anhang 2 Ziff. 1 des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89d-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Fassung gemäss Anhang 2 Ziff. 1 des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^89d-6]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)

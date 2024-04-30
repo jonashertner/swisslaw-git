@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2024-01-01
+version: 2024-05-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> janvier 2024)
+du 19 décembre 1958 (État le 1<sup>er</sup> mai 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -375,7 +375,7 @@ L’attestation requise en vertu de l’al. 1, let. b, est apportée:
 
 <sup>2</sup>
 
-Le permis de conduire à l’essai est délivré au candidat qui remplit les conditions suivante:
+Le permis de conduire à l’essai est délivré au candidat qui remplit les conditions suivantes:
 
 - a. il a suivi la formation prescrite;
 - b. il a réussi l’examen pratique de conduite.[^15a-2]
@@ -2088,14 +2088,14 @@ Les autorités et services ci-après traitent les données du SIAC:[^89d-1]
 - c. les autorités responsables du rationnement des carburants ainsi que de la réquisition et de la location des véhicules pour l’armée, la protection civile et l’approvisionnement économique du pays: s’agissant des données relatives aux véhicules et à leurs détenteurs;
 - d. les organes de police responsables de la saisie des permis de conduire et de circulation: s’agissant des données relatives aux véhicules et aux autorisations de conduire;
 - e.[^89d-2] les autorités chargées du contrôle du dédouanement et de l’imposition selon la Limpauto[^89d-3]: s’agissant des données relevant de leur compétence;
-- f. [^89d-4] les autorités chargées de la perception de la redevance selon la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^89d-5]: s’agissant des données relevant de leur compétence;
+- f. [^89d-4] les services chargés de la perception et de la vérification du paiement de la redevance conformément à la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^89d-5]: s’agissant des données relevant de leur compétence;
 - g.[^89d-6] les services chargés de la perception et de la vérification du paiement de la redevance pour l’utilisation des routes nationales selon la loi du 19 mars 2010 sur la vignette autoroutière[^89d-7]: s’agissant des données relatives aux véhicules et à leurs détenteurs;
 - h.[^89d-8] les autorités chargées de l’exécution des dispositions de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^89d-9] visant à réduire les émissions de CO<sub>2</sub> des véhicules: s’agissant des données relevant de leur compétence.
 
-[^89d-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-2]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+[^89d-2]: Introduite par le ch. I de la LF du 17 mars 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89d-4]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-4]: Introduite par le ch. I de la LF du 17 mars 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^89d-6]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)

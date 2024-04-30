@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2024-01-01
+version: 2024-05-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240501/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240501-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240501/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. da schaner 2024)
+dals 19 da december 1958 (versiun dal 1. da matg 2024)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -2076,14 +2076,14 @@ Las suandantas autoritads ed ils suandants posts elavuran las datas dal SIAC:[^8
 - c. las autoritads ch’èn responsablas per raziunar il carburant sco er per requirir u per prender en locaziun vehichels per l’armada, per la protecziun civila e per il provediment economic dal pajais: las datas davart ils vehichels e davart lur possessurs;
 - d. ils organs da polizia ch’èn responsabels per sequestrar permiss da manischar e documents da vehichels: las datas davart las autorisaziuns da manischar e davart ils vehichels;
 - e.[^89d-2] las autoritads ch’èn responsablas per controllar il pajament dals dazis ed il pajament da las taglias tenor la LTAut[^89d-3]: las datas da lur champ da cumpetenza;
-- f.[^89d-4] las autoritads ch’èn responsablas per incassar la taxa sin il traffic da camiuns pesants dependenta da la prestaziun tenor la Lescha dals 19 da december 1997[^89d-5] davart la taxa sin il traffic da camiuns pesants: las datas da lur champ da cumpetenza;
+- f.[^89d-4] ils posts ch’èn incaricads cun l’incassament e cun la controlla dal pajament da la taxa sin il traffic pesant dependenta da la prestaziun tenor la Lescha dals 19 da december 1997[^89d-5] davart la taxa sin il traffic da camiuns pesants: las datas da lur champ da cumpetenza;
 - g.[^89d-6] ils posts ch’èn incaricads cun l’incassament e cun la controlla dal pajament da la taxa per l’utilisaziun da las vias naziunalas tenor la Lescha dals 19 da mars 2010[^89d-7] davart la taxa da las vias naziunalas: las datas davart ils vehichels e davart lur possessurs;
 - h.[^89d-8] las autoritads ch’èn responsablas per exequir la reducziun da las emissiuns da CO<sub>2</sub> da vehichels tenor la Lescha dals 23 da december 2011[^89d-9] davart il CO<sub>2</sub>: las datas da lur champ da cumpetenza.
 
 [^89d-1]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Versiun tenor la cifra 1 da l’agiunta 2 da la LF dals 17 da mars 2023, en vigur dapi il 1. da matg 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89d-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Versiun tenor la cifra 1 da l’agiunta 2 da la LF dals 17 da mars 2023, en vigur dapi il 1. da matg 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^89d-6]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
