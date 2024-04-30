@@ -3,24 +3,24 @@ canton: LU
 number: "787"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2020-01-01
-valid_until: 2024-04-30
-version_adopted: 2019-11-26
+version: 2024-05-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-12
 adopted: 2011-02-18
 in_force: 2011-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/787"
-pdf: "https://srl.lu.ch/api/de/versions/3465/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-vom 18.02.2011 (Stand 01.01.2020)
+vom 18.02.2011 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 58 des Bundesgesetzes über die Binnenschifffahrt vom 3. Oktober 1975[^ingress-1], auf Artikel 165 der Verordnung über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung) vom 8. November 1978[^ingress-2], auf § 5 Absatz 1 des Wasserbaugesetzes vom 17. Juni 2019[^ingress-3] sowie auf § 23 Absatz 1 des Gesetzes über den Natur- und Landschaftsschutz vom 18. September 1990[^ingress-4],
+gestützt auf Artikel 58 des Bundesgesetzes über die Binnenschifffahrt vom 3. Oktober 1975[^ingress-1], auf Artikel 165 der Verordnung über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung) vom 8. November 1978[^ingress-2], auf § 5 Absatz 1 des Wasserbaugesetzes vom 17. Juni 2019[^ingress-3] sowie auf § 2 Absatz 2 des Einführungsgesetzes zum Bundesgesetz über den Umweltschutz (EGUSG) vom 30. März 1998[^ingress-4] und auf § 23 Absatz 1 des Gesetzes über den Natur- und Landschaftsschutz vom 18. September 1990[^ingress-5],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
@@ -29,7 +29,8 @@ beschliesst:
 [^ingress-1]: SR [747.201](https://db.clex.ch/link/Bund/747.201/de)
 [^ingress-2]: SR [747.201.1](https://db.clex.ch/link/Bund/747.201.1/de)
 [^ingress-3]: SRL Nr. [760](https://srl.lu.ch/data/760/de)
-[^ingress-4]: SRL Nr. [709a](https://srl.lu.ch/data/709a/de)
+[^ingress-4]: SRL Nr. [700](https://srl.lu.ch/data/700/de)
+[^ingress-5]: SRL Nr. [709a](https://srl.lu.ch/data/709a/de)
 
 ## 1 Gemeinsame Bestimmungen
 
@@ -78,7 +79,7 @@ beschliesst:
 
 - a. «Standplatz»: ein behördlich bewilligter Liegeplatz zum dauernden Stationieren von Schiffen,
 - b. «Anlegeplatz» und «Gästeplatz»: ein behördlich bewilligter Liegeplatz zum befristeten Anlegen oder Festmachen von Schiffen,
-- c. «Wasserungsstelle»: ein behördlich bewilligter Ort mit oder ohne technische Anlage zum Wassern oder Auswassern von Schiffen,
+- c. «Wasserungsstelle»: ein behördlich bewilligter Ort mit oder ohne technische Anlage zum Ein- oder Auswassern von Schiffen,
 - d. «gewerbsmässig»: eine Dienstleistung, die regelmässig gegen Entgelt (Geld- oder Naturalleistung) erbracht oder öffentlich angeboten wird.
 
 ### 1.2 Ausübung der Schifffahrt und Zulassung
@@ -89,9 +90,9 @@ beschliesst:
 
 <sup>1</sup> Die Schifffahrt auf den stehenden Gewässern ist im Rahmen der eidgenössischen und kantonalen Vorschriften frei.
 
-<sup>2</sup> Das Befahren der Fliessgewässer mit Schiffen und Flossen ist untersagt. Für gewerbsmässige Riverrafting-Fahrten können Ausnahmen bewilligt werden.
+<sup>2</sup> Das Befahren der Fliessgewässer mit Schiffen und Flossen ist untersagt. Für gewerbsmässige Riverrafting-Fahrten können Ausnahmen bewilligt werden. Schiffsfahrten der Polizei und der Feuerwehr sind erlaubt.
 
-<sup>3</sup> Auf der Kleinen Emme und der Reuss ab St.-Karli-Brücke flussabwärts sind ohne Bewilligung erlaubt:
+<sup>3</sup> Auf der Kleinen Emme und auf der Reuss ab den Sentibrücken flussabwärts sind ohne Bewilligung erlaubt:
 
 - a. Fahrten der Berufsfischerei,
 - b. Fahrten der Pontoniere, sofern sie nicht nach der Verordnung über die militärische Schifffahrt vom 1. März 2006[^5-1] einer Bewilligung bedürfen,
@@ -129,11 +130,13 @@ beschliesst:
 
 #### § 9
 
-**Wasserungsstellen**
+**Ein- und Auswassern**
 
 <sup>1</sup> Kleinere Schiffe wie Segeljollen, Ruderboote und dergleichen dürfen nur an dafür geeigneten Stellen ein- und ausgewassert werden. Die Ufer sowie die Pflanzen- und die Tierwelt dürfen dabei nicht beeinträchtigt werden.
 
-<sup>2</sup> Die übrigen Schiffe sind an den behördlich bewilligten Stellen ein- und auszuwassern.
+<sup>2</sup> Die übrigen Schiffe sind an den behördlich bewilligten Wasserungsstellen ein- und auszuwassern.
+
+<sup>3</sup> Zur Verhinderung der Verbreitung gebietsfremder Pflanzen, Tiere und anderer Organismen müssen Schiffe, die zuvor in einem anderen Gewässer lagen, vor dem Einwassern gereinigt werden. Das Bau-, Umwelt- und Wirtschaftsdepartement erlässt Weisungen über die Reinigung.
 
 #### § 10
 
@@ -222,13 +225,20 @@ beschliesst:
 
 #### § 18
 
-**Modellschiffe und -flugzeuge**
+**Modellschiffe und Luftfahrzeuge**
 
 <sup>1</sup> Das Betreiben von Modellschiffen ist ausserhalb der inneren Uferzone und in Naturschutzgebieten nicht gestattet. Die Geschwindigkeit von 10 km/h darf nicht überschritten werden.
 
 <sup>2</sup> Rennmässige Veranstaltungen mit motorisierten Modellschiffen sind nicht gestattet.
 
-<sup>3</sup> Modellflugzeuge dürfen weder auf noch über einem Gewässer eingesetzt werden.
+<sup>3</sup> Modellluftfahrzeuge dürfen weder auf noch über einem Gewässer eingesetzt werden.
+
+<sup>4</sup> Für den Einsatz von Drohnen als unbemannte Luftfahrzeuge gemäss eidgenössischen Luftfahrtrecht gilt Folgendes:
+
+- a. Gewässer und deren Ufer sollen nur zurückhaltend und für notwendige Flüge beansprucht werden. Personen dürfen weder gefährdet noch belästigt und Tiere auf und über dem Wasser dürfen nicht aufgescheucht, vertrieben oder anderweitig gestört werden. Wasserpflanzen, insbesondere Schilf, Binsen und Seerosen, dürfen nicht beschädigt werden.
+- b. Die Sicherheit auf den Gewässern, insbesondere für den Schiffsverkehr auf den Seen, darf nicht gefährdet werden.
+- c. Rennmässige Veranstaltungen sind nicht gestattet.
+- d. Vorbehalten bleiben weitere Einschränkungen und Ausnahmen gemäss besonderen Naturschutzvorschriften sowie die Vorschriften des eidgenössischen Rechts.
 
 #### § 19
 
@@ -245,13 +255,13 @@ beschliesst:
 
 <sup>4</sup> Ein nach Abzug der Kosten verbleibender Erlös aus der Verwertung wird bei der Staatskasse des Kantons Luzern hinterlegt. Nach Ablauf von fünf Jahren fällt der Erlös an den Kanton.
 
-### 1.5 Sturmwarn- und Rettungsdienst
+### 1.5 Warn- und Rettungsdienste
 
 #### § 20
 
-**Sturmwarndienst**
+**Starkwind- und Sturmwarnungen**
 
-<sup>1</sup> Die Luzerner Polizei gibt die von der zuständigen Bundesstelle veranlassten Vorsichtsmeldungen und Sturmwarnungen sowie deren Beendigung an die Standorte der Blinkscheinwerfer und an die Rettungsdienste weiter.
+<sup>1</sup> Die Luzerner Polizei gibt die von der zuständigen Bundesstelle veranlassten Starkwind- und Sturmwarnungen und deren Beendigung an die Standorte der Blinkscheinwerfer und an die Rettungsdienste weiter.
 
 #### § 21
 
@@ -327,7 +337,7 @@ beschliesst:
 - c. Schiffe mit Verbrennungsmotoren mit einer Antriebsleistung von mehr als 70 kW,
 - d. Schiffe mit Verbrennungsmotoren, welche die Emissionsgrenzwerte gemäss Ziffer 7.2 der Verordnung über die Abgasemissionen von Schiffsmotoren auf schweizerischen Gewässern vom 13. Dezember 1993[^27-1] nicht erfüllen,
 - e. Schiffe mit Maschinenantrieb ohne Standplatz auf oder am Sempachersee,
-- f. Wasserflugzeuge, Luftkissen-, Tragflügel- und Unterseeboote sowie ähnliche Schwimmkörper,
+- f. Wasserflugzeuge, Luftkissen-, motorisierte Tragflügel- und Unterseeboote sowie ähnliche Schwimmkörper,
 - g. bewegliche Flosse mit Aufbauten.
 
 <sup>2</sup> Die in Absatz 1a festgesetzte Höhe gilt nicht für Arbeitsschiffe sowie für Schiffe, die zur Ausübung der Berufsfischerei oder zum gewerbsmässigen Fahrschulunterricht verwendet werden.
@@ -419,7 +429,7 @@ beschliesst:
 <sup>1</sup> Nicht zum Verkehr zugelassen werden
 
 - a. Schiffe von mehr als 7,5 m Länge oder mehr als 2,5 m Breite oder mit festen Aufbauten von mehr als 1,5 m Höhe über der Wasserlinie,
-- b. Wasserflugzeuge, Luftkissen-, Tragflügel- und Unterseeboote sowie ähnliche Schwimmkörper,
+- b. Wasserflugzeuge, Luftkissen-, motorisierte Tragflügel- und Unterseeboote sowie ähnliche Schwimmkörper,
 - c. bewegliche Flosse mit Aufbauten,
 - d. Schiffe mit Verbrennungsmotoren ohne Standplatz auf oder am Hallwilersee.
 
@@ -480,6 +490,8 @@ beschliesst:
 <sup>1</sup> Schiffe mit Verbrennungsmotoren dürfen bei Nacht nicht verkehren. Das Nachtfahrverbot gilt nicht für die Fahrgastschiffe und die Schiffe der Berufsfischerei im Berufseinsatz.
 
 <sup>2</sup> Ausserhalb der Uferzone beträgt die zulässige Höchstgeschwindigkeit 20 km/h.
+
+<sup>2<sup>bis</sup></sup> Die Verwendung tragflügelähnlicher Vorrichtungen, die den Rumpf eines Segelschiffes, eines Segelbretts oder eines anderen Schwimmkörpers aus dem Wasser heben, ist in der inneren Uferzone untersagt.
 
 <sup>3</sup> Das Fahren mit Wasserski und ähnlichen Geräten sowie mit Drachensegelbrettern ist untersagt. Segelbretter dürfen nicht bei Nacht verwendet werden.
 
