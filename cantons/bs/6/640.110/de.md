@@ -4,13 +4,13 @@ number: "640.110"
 title: Verordnung zum Gesetz über die direkten Steuern
 short: "Steuerverordnung, StV"
 language: de
-version: 2024-01-01
-valid_until: 2024-04-30
-version_adopted: 2024-01-09
+version: 2024-05-01
+valid_until: 2025-08-31
+version_adopted: 2024-03-19
 adopted: 2000-11-14
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6132/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Direkte Steuern
 
 (Steuerverordnung, StV)
 
-Vom 14. November 2000 (Stand 1. Januar 2024)
+Vom 14. November 2000 (Stand 1. Mai 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -1588,13 +1588,13 @@ beschliesst:
 
 ### 6.II. Steuerzahlung
 
-### 6.II.1. Zahlstellen
+### 6.II.1. Zahlung
 
 #### § 141
 
-<sup>1</sup> Zahlstellen für die Entrichtung der Steuern sind die kantonale Finanzverwaltung und die Basler Kantonalbank mit ihren Filialen.
+<sup>1</sup> Die Steuern sind durch Überweisung auf ein von der Steuerverwaltung angegebenes Konto des Kantons zu bezahlen. Barzahlungen sind im Rahmen von Art. 43 Abs. 1 lit. c der Postverordnung (VPG) vom 29. August 2012 bei den Postfilialen der Schweizerischen Post AG möglich. Abs. 2 bleibt vorbehalten.
 
-<sup>2</sup> Zahlstelle für die Bezahlung der Erbschaftssteuer ist die kantonale Gerichtskasse.
+<sup>2</sup> Die Erbschaftssteuer ist an die kantonale Gerichtskasse zu bezahlen.
 
 ### 6.II.2. Verrechnungssteuer, Steuerrückbehalt USA, Anrechnung ausländischer Quellensteuern
 
@@ -1693,7 +1693,7 @@ beschliesst:
 
 <sup>1</sup> Der Vollzug des Gesetzes über die Handänderungssteuer obliegt, soweit nicht besondere Behörden bezeichnet sind, der Steuerverwaltung.
 
-<sup>2</sup> Zahlstelle für die Entrichtung oder Sicherstellung der Handänderungssteuer ist die Finanzverwaltung.
+<sup>2</sup> Die Bezahlung oder Sicherstellung der Handänderungssteuer erfolgt durch Überweisung auf ein von der Steuerverwaltung angegebenes Konto des Kantons. Barzahlungen sind im Rahmen von Art. 43 Abs. 1 lit. c VPG bei den Postfilialen der Schweizerischen Post AG möglich.
 
 <sup>3</sup> Die Bestimmungen des Gesetzes über die direkten Steuern betreffend die Organisation der Behörden und das Verfahren finden, soweit das Handänderungssteuergesetz keine abweichenden Vorschriften enthält, auf die Erhebung der Handänderungssteuer sinngemäss Anwendung.
 
