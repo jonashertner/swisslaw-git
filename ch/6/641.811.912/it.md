@@ -3,26 +3,27 @@ sr: "641.811.912"
 title: Ordinanza del DFF del 12 marzo 2024 concernente il compenso all’Ufficio federale della dogana e della sicurezza dei confini per l’esecuzione della legislazione sulla tassa sul traffico pesante
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/132"
 language: it
-version: 2024-01-01
+version: 2024-05-01
 adopted: 2024-03-12
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/132/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2024-132-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/132/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/132/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2024-132-20240501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/132/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente il compenso all’Ufficio federale della dogana e della sicurezza dei confini per l’esecuzione della legislazione sulla tassa sul traffico pesante
 
-del 12 marzo 2024 (Stato 1° gennaio 2024)
+del 12 marzo 2024 (Stato 1° maggio 2024)
 
 Il Dipartimento federale delle finanze (DFF),
 
-visto l’articolo 45 capoverso 5 dell’ordinanza del 6 marzo 2000[^ingress-1] sul traffico pesante,
+visto l’articolo 98 capoverso 1 dell’ordinanza del 27 marzo 2024[^ingress-1] sul traffico pesante,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^ingress-2]: Nuovo testo giusta la cifra I dell'O del DFF del 15 ott. 2024, in vigore dal 1° maggio 2024 ([RU 2024 592](https://fedlex.data.admin.ch/eli/oc/2024/592))
 
 #### Art. 1
 

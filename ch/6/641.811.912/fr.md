@@ -3,26 +3,27 @@ sr: "641.811.912"
 title: Ordonnance du DFF du 12 mars 2024 sur l’indemnisation de l’Office fédéral de la douane et de la sécurité des frontières pour l’exécution de la législation sur la redevance sur le trafic des poids lourds
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/132"
 language: fr
-version: 2024-01-01
+version: 2024-05-01
 adopted: 2024-03-12
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/132/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-132-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/132/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/132/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-132-20240501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/132/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF sur l’indemnisation de l’Office fédéral de la douane et de la sécurité des frontières pour l’exécution de la législation sur la redevance sur le trafic des poids lourds
 
-du 12 mars 2024 (État le 1<sup>er</sup> janvier 2024)
+du 12 mars 2024 (État le 1<sup>er</sup> mai 2024)
 
 Le Département fédéral des finances (DFF),
 
-vu l’art. 45, al. 5, de l’ordonnance du 6 mars 2000 relative à une redevance sur le trafic des poids lourds[^ingress-1],
+vu l’art. 98, al. 1, de l’ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poids lourds[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 15 oct. 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 592](https://fedlex.data.admin.ch/eli/oc/2024/592)).
 
 #### Art. 1
 
