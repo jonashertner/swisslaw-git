@@ -3,30 +3,26 @@ sr: "0.814.288.2"
 title: "Protocollo del 1978 relativo alla Convenzione internazionale del 1973 per la prevenzione dell'inquinamento da parte delle navi, del 17 febbraio 1978 (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: it
-version: 2020-07-29
+version: 2024-05-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20200729/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20200729-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20200729/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20240501/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20240501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo del 1978 relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi
 
+RU **1988** 1652; FF **1986** II 541
+
 Traduzione
 
-Concluso a Londra il 17 febbraio 1978
+Concluso a Londra il 17 febbraio 1978 Approvato dall’Assemblea federale il 9 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 15 marzo 1988
 
-Approvato dall’Assemblea federale il 9 marzo 1987[^t-1]
+(Stato 1° maggio 2024)
 
-Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987
-
-Entrato in vigore per la Svizzera il 15 marzo 1988
-
-(Stato 29 luglio 2020)
-
-[^t-1]: RU **1988** 1652; FF **1986** II 541 Art. 3 lett. a del DF del 17 feb. 1978 (RU **1988** 1240).
+[^t-1]: Art. 3 lett. a del DF del 17 feb. 1978 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
 Le Parti contraenti del presente Protocollo,
 
@@ -57,7 +53,7 @@ Le Parti contraenti del presente Protocollo si impegnano a dare effetto:
 
 <sup>3.</sup> Qualsiasi riferimento al presente Protocollo costituisce al tempo stesso riferimento anche al suo Annesso.
 
-[^I-1]: Il testo di tale annesso, e le sue mod., non è pubblicato nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636), [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522)). Estratti possono essere ottenuti presso l’UFCL, Vendita di pubblicazioni ufficiali, 3003 Berna, o all’indirizzo Internet: www.bbl.admin.ch/bundespublikationen.
+[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
 
 #### Art. II
 
@@ -399,7 +395,7 @@ Le Parti della Convenzione devono, in consultazione con l’Organizzazione ed al
 - c) di facilitare l’adozione di altre misure e disposizioni intese a prevenire o ad attenuare l’inquinamento dell’ambiente marino da parte delle navi; e
 - d) d’incoraggiare la ricerca;
 
-****A****rt. 18** Denuncia**
+****Art. 18** Denuncia**
 
 <sup>1.</sup> La presente Convenzione od ogni Allegato facoltativo può essere denunciato da una qualsiasi delle Parti della Convenzione in ogni momento dopo lo spirare di un periodo di cinque anni a partire dalla data in cui la Convenzione o un tale Allegato entri in vigore nei confronti di tale Paese.
 
@@ -423,7 +419,7 @@ Fatto a Londra il 2 novembre 1973.
 
 **(Seguono le firme)**
 
-Protocollo I**[^t-9]**
+Protocollo I[^t-9]
 
 **Disposizioni concernenti l’invio di rapporti sugli eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive**
 
@@ -539,7 +535,16 @@ Le Parti facilitano i lavori del tribunale; a tale fine, conformemente alla loro
 
 <sup>2.</sup> Ogni controversia che potrebbe sorgere fra le Parti sull’interpretazione o sull’esecuzione di una sentenza, può essere sottoposta dalla Parte più diligente al giudizio del tribunale che l’ha resa o, se quest’ultimo non può esserne investito, di un tribunale costituito a tale scopo nello stesso modo del primo.
 
-Campo Campo d’applicazione il 29 luglio 2020 del Protocollo del 1978 e della Convenzione del 1973 emendata dal Protocollo stesso**[^t-10]**
+[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
+[^t-3]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^t-4]: [RS 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
+[^t-5]: Dopo il 22 mag. 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
+[^t-6]: Vedi anche l’art. III del Prot. del 1978 all’inizio.
+[^t-7]: Vedi anche l’art. II del Prot. del 1978 all’inizio.
+[^t-8]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^t-9]: Nuovo testo giusta l’emendamento adattato il 5 dic. 1985 ([RU 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
+
+Campo d’applicazione il 29 luglio 2020 del Protocollo del 1978 e della Convenzione del 1973 emendata dal Protocollo stesso[^t-10]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
@@ -749,12 +754,4 @@ Campo Campo d’applicazione il 29 luglio 2020 del Protocollo del 1978 e della C
 <tr><td colspan="8"><sup>dd</sup> L’all. IV é entato in vigore per la Svizzera il 27 set. 2003 (RU **2003** 3229).</td></tr>
 </table>
 
-[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
-[^t-3]: Il testo di tali Annessi non è pubblicato nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)). Estratti possono essere ottenuti, sotto il titolo «Convenzione internazionale del 2 nov. 1973 per la prevenzione dell’inquinamento causato da navi (Convenzione MARPOL 73/78). Gli all. I – VI con appendici, presso l’Ufficio federale delle costruzioni e della logistica, 3003 Berna, o all’indirizzo Internet: www.bbl.admin.ch/bundespublikationen.
-[^t-4]: [RS 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
-[^t-5]: Dopo il 22 mag. 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
-[^t-6]: Vedi anche l’art. III del Prot. del 1978 all’inizio.
-[^t-7]: Vedi anche l’art. II del Prot. del 1978 all’inizio.
-[^t-8]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^t-9]: Nuovo testo giusta l’emendamento adattato il 5 dic. 1985 ([RU 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
-[^t-10]: [RU 2005 1665](https://fedlex.data.admin.ch/eli/oc/2005/267), [2007 5199](https://fedlex.data.admin.ch/eli/oc/2007/732), [2009 619](https://fedlex.data.admin.ch/eli/oc/2009/112), [2011 3557](https://fedlex.data.admin.ch/eli/oc/2011/487), [2017 467](https://fedlex.data.admin.ch/eli/oc/2017/74)e [2020 3541](https://fedlex.data.admin.ch/eli/oc/2020/623). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-10]: [RU 2005 1665](https://fedlex.data.admin.ch/eli/oc/2005/267), [2007 5199](https://fedlex.data.admin.ch/eli/oc/2007/732), [2009 619](https://fedlex.data.admin.ch/eli/oc/2009/112), [2011 3557](https://fedlex.data.admin.ch/eli/oc/2011/487), [2017 467](https://fedlex.data.admin.ch/eli/oc/2017/74)e [2020 3541](https://fedlex.data.admin.ch/eli/oc/2020/623). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

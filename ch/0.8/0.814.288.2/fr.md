@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires, du 17 février 1978 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: fr
-version: 2020-07-29
+version: 2024-05-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20200729/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20200729-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20200729/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20240501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 décembre 1987
 
 Entré en vigueur pour la Suisse le 15 mars 1988
 
-(Etat le 29 juillet 2020)
+(État le 1<sup>er</sup> mai 2024)
 
 [^t-1]: Art. 3 let. a de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -59,7 +59,7 @@ Les Parties au présent Protocole s’engagent à donner effet aux dispositions:
 
 <sup>3.</sup> Toute référence au présent Protocole constitue en même temps une référence à son Annexe.
 
-[^I-1]: Cette annexe n’est pas publiée au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636), [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522)). Commande: Office fédéral des constructions et de la logistique, Publications fédérales, 3003 Berne, ou www.publicationsfederales.ch.
+[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
 
 #### Art. II
 
@@ -179,7 +179,7 @@ sont convenues de ce qui suit:
 <sup>2.</sup> Sauf disposition expresse contraire, toute référence à la présente Convention constitue en même temps une référence à ses Protocoles et aux Annexes.
 
 [^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
-[^annexu1-1-1]: Ces annexes ne sont pas publiées au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)) Des tirés à part peuvent être obtenus, sous le titre **«**Convention internationale du 2 nov. 1973 pour la prévention de la pollution par les navires et Prot. du 17 fév. 1978 y relatif (Conv. MARPOL 73/78) – Annexes I à VI avec appendices**»**, auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, ou par internet à l'adresse www.publicationsfederales.admin.ch.
+[^annexu1-1-1]: Ces annexes et leurs amendements ne sont pas publiés au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
 
 #### Art. 2
 
@@ -787,7 +787,7 @@ Champ d’application du protocole de 1978 et de la convention de 1973 le 29 jui
 <tr><td colspan="2">Vanuatu <sup>a</sup></td><td colspan="2">13 avril</td><td colspan="2">1989 A</td><td>13 juillet</td><td>1989</td></tr>
 <tr><td colspan="2">Venezuela <sup>a</sup></td><td colspan="2">29 juillet</td><td colspan="2">1994 A</td><td>29 octobre</td><td>1994</td></tr>
 <tr><td colspan="2">Vietnam <sup>a</sup></td><td colspan="2">29 mai</td><td colspan="2">1991 A</td><td>29 août</td><td>1991</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de code, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Cet État a accepté les annexes III, IV et V de la Conv.</td></tr>
 <tr><td colspan="8"><sup>b</sup> Cet État n’a pas accepté l’annexe IV de la Conv.</td></tr>
 <tr><td colspan="8"><sup>c</sup> Cet État a accepté les annexes III et V de la Conv.</td></tr>
@@ -819,4 +819,4 @@ Champ d’application du protocole de 1978 et de la convention de 1973 le 29 jui
 <tr><td colspan="8"><sup>cc</sup> Cet État a accepté les annexes III, IV et V le 29 novembre 2019 avec effet à partir du 29 février 2020.</td></tr>
 </table>
 
-[^t-3]: [RO 2005 1665](https://fedlex.data.admin.ch/eli/oc/2005/267), [2007 5199](https://fedlex.data.admin.ch/eli/oc/2007/732), [2009 619](https://fedlex.data.admin.ch/eli/oc/2009/112), [2011 3557](https://fedlex.data.admin.ch/eli/oc/2011/487), [2017 467](https://fedlex.data.admin.ch/eli/oc/2017/74), [2020 3541](https://fedlex.data.admin.ch/eli/oc/2020/623). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2005 1665](https://fedlex.data.admin.ch/eli/oc/2005/267); [2007 5199](https://fedlex.data.admin.ch/eli/oc/2007/732); [2009 619](https://fedlex.data.admin.ch/eli/oc/2009/112); [2011 3557](https://fedlex.data.admin.ch/eli/oc/2011/487); [2017 467](https://fedlex.data.admin.ch/eli/oc/2017/74); [2020 3541](https://fedlex.data.admin.ch/eli/oc/2020/623). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
