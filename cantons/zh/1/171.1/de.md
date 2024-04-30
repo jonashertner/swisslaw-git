@@ -4,11 +4,11 @@ number: "171.1"
 title: Kantonsratsgesetz (KRG)
 short: KRG
 language: de
-version: "2022-08-01"
-nachtrag: "118"
-valid_until: 2024-05-01
+version: "2024-05-01"
+nachtrag: "125"
+valid_until: 2025-10-08
 adopted: 2019-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-125.html"
 text: pdf
 ---
 
@@ -70,7 +70,9 @@ Die Amtsdauer endet a. bei Erneuerungswahlen mit der Konstituierung des neu gew�
 
 **1**
 
-1.10. 22 - 118 b. bei vorzeitigem Rücktritt während der Amtsdauer mit dem Amtsantritt der Nachfolgerin oder des Nachfolgers, sofern der Kantonsrat ein Gesuch um vorzeitigen Rücktritt bewilligt hat.
+- 1\. 7. 24 - 125
+
+- b. bei vorzeitigem Rücktritt während der Amtsdauer mit dem Amtsantritt der Nachfolgerin oder des Nachfolgers, sofern der Kantonsrat ein Gesuch um vorzeitigen Rücktritt bewilligt hat.
 
 #### § 6
 
@@ -156,7 +158,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **3**
 
-1.10. 22 - 118 § 13. Die Kantonsratsmitglieder sind zur Verschwiegenheit verpflichtet, sofern sie aufgrund ihrer amtlichen Tätigkeit von Tatsachen Kenntnis erhalten, gegen deren Bekanntgabe ein überwiegendes öffentliches oder privates Interesse gemäss § 23 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^12-1] spricht oder eine besondere Vorschrift dies vorsieht.
+- 1\. 7. 24 - 125 § 13. Die Kantonsratsmitglieder sind zur Verschwiegenheit verpflichtet, sofern sie aufgrund ihrer amtlichen Tätigkeit von Tatsachen Kenntnis erhalten, gegen deren Bekanntgabe ein überwiegendes öffentliches oder privates Interesse gemäss § 23 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^12-1] spricht oder eine besondere Vorschrift dies vorsieht.
 
 [^12-1]: LS 170.4.
 
@@ -250,7 +252,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **5**
 
-1.10. 22 - 118 § 19. <sup>1</sup> Der Kantonsrat wählt jährlich aus seiner Mitte drei Kantonsratssekretärinnen oder Kantonsratssekretäre.
+- 1\. 7. 24 - 125 § 19. <sup>1</sup> Der Kantonsrat wählt jährlich aus seiner Mitte drei Kantonsratssekretärinnen oder Kantonsratssekretäre.
 
 **Kantonsratssekretariat**
 
@@ -348,7 +350,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **7**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Die Aufsichtskommissionen sind:
 
@@ -462,7 +464,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **9**
 
-1.10. 22 - 118 § 33. <sup>1</sup> Die Fraktionen bereiten die Beratungsgegenstände des Kantonsrates vor und wirken bei der Meinungsbildung mit.
+- 1\. 7. 24 - 125 § 33. <sup>1</sup> Die Fraktionen bereiten die Beratungsgegenstände des Kantonsrates vor und wirken bei der Meinungsbildung mit.
 
 **b. Aufgaben**
 
@@ -550,7 +552,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **11**
 
-1.10. 22 - 118 § 42. Finden während mehr als zweier Wochen keine Kantonsratssitzungen statt, stehen Fristen von bis zu sechs Monaten zur Behandlung der Vorstösse und parlamentarischen Initiativen zwischen dem Tag des ersten Sitzungsausfalls und der Wiederaufnahme der Sitzungen still.
+- 1\. 7. 24 - 125 § 42. Finden während mehr als zweier Wochen keine Kantonsratssitzungen statt, stehen Fristen von bis zu sechs Monaten zur Behandlung der Vorstösse und parlamentarischen Initiativen zwischen dem Tag des ersten Sitzungsausfalls und der Wiederaufnahme der Sitzungen still.
 
 **Stillstand des Fristenlaufs**
 
@@ -644,7 +646,7 @@ Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung 
 
 **13**
 
-1.10. 22 - 118 § 52. Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung darüber ist die Finanzmotion erledigt.
+- 1\. 7. 24 - 125 § 52. Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung darüber ist die Finanzmotion erledigt.
 
 **Erledigung**
 
@@ -734,7 +736,7 @@ Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung 
 
 **15**
 
-1.10. 22 - 118 § 60. <sup>1</sup> Eine Anfrage kann von 60 unterzeichnenden Kantonsratsmitgliedern dringlich erklärt werden.
+- 1\. 7. 24 - 125 § 60. <sup>1</sup> Eine Anfrage kann von 60 unterzeichnenden Kantonsratsmitgliedern dringlich erklärt werden.
 
 **Dringlicherklärung**
 
@@ -794,7 +796,7 @@ Der Kantonsrat stellt innert sechs Monaten fest, ob die Initiative von mindesten
 
 <sup>3</sup> Lehnt die Kommission ihren Entwurf in der Schlussabstimmung ab, beantragt sie dem Kantonsrat Ablehnung der parlamentarischen Initiative.
 
-[^66-1]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022. 1.10. 22 - 118 35
+[^66-1]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022.
 
 #### § 67
 
@@ -838,7 +840,7 @@ Die Kommission erstattet dem Kantonsrat Bericht und stellt Antrag innert 50 Tage
 
 **17**
 
-1.10. 22 - 118 § 72. Der Kantonsrat berät den Antrag der Kommission und beschliesst spätestens an der zweitletzten Sitzung vor Ablauf der Referendumsfrist über das Kantonsreferendum.
+- 1\. 7. 24 - 125 § 72. Der Kantonsrat berät den Antrag der Kommission und beschliesst spätestens an der zweitletzten Sitzung vor Ablauf der Referendumsfrist über das Kantonsreferendum.
 
 #### § 73
 
@@ -944,7 +946,9 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 **19**
 
-1.10. 22 - 118 e. die Auswirkungen auf Wirtschaft, Gesellschaft, Umwelt und künftige Generationen,
+- 1\. 7. 24 - 125
+
+- e. die Auswirkungen auf Wirtschaft, Gesellschaft, Umwelt und künftige Generationen,
 
 - f. die im Gesetz vorgesehenen Kompetenzdelegationen,
 
@@ -994,17 +998,20 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 <sup>1</sup> Das zuständige Mitglied des Regierungsrates ist berechtigt und auf Verlangen der Kommission verpflichtet, die Anträge des Regierungsrates an den Kommissionssitzungen persönlich zu vertreten. Es kann sich von Angestellten des Kantons begleiten lassen.
 
-<sup>2</sup> Die Kommissionen können für die Ausarbeitung von Umsetzungsvorlagen und Gegenvorschlägen zu Volks-, Behörden- und Einzelinitiativen oder zur Zusammenstellung von Vernehmlassungsergebnissen im Einvernehmen mit dem zuständigen Mitglied des Regierungsrates bzw. der Staatsschreiberin oder dem Staatsschreiber Angestellte des Kantons beiziehen.
+<sup>2</sup> Die Kommission kann an einer Sitzung beschliessen, die Beratungen vorübergehend ohne Mitglied des Regierungsrates und die Angestellten des Kantons durchzuführen.[^85-1]
 
-<sup>3</sup> Der Regierungsrat kann vor der Schlussabstimmung zu den Ergebnissen der Kommissionsberatung Stellung nehmen. Will er von diesem Recht Gebrauch machen, zeigt er dies der Kommission an. Die Kommission zieht die Stellungnahme in Beratung.
+<sup>3</sup> Die Kommissionen können für die Ausarbeitung von Umsetzungsvorlagen und Gegenvorschlägen zu Volks-, Behörden- und Einzelinitiativen oder zur Zusammenstellung von Vernehmlassungsergebnissen im Einvernehmen mit dem zuständigen Mitglied des Regierungsrates bzw. der Staatsschreiberin oder dem Staatsschreiber Angestellte des Kantons beiziehen.
 
-[^85-1]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022. 1.10. 22 - 118 35
+<sup>4</sup> Der Regierungsrat kann vor der Schlussabstimmung zu den Ergebnissen der Kommissionsberatung Stellung nehmen. Will er von diesem Recht Gebrauch machen, zeigt er dies der Kommission an. Die Kommission zieht die Stellungnahme in Beratung.
+
+[^85-1]: Eingefügt durch G vom 27. November 2023 (OS 79, 82; ABl 2022-09-23). In Kraft seit 1. Mai 2024.
+[^85-2]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022.
 
 #### § 86
 
 **d. Bericht und Antrag an den Kantonsrat**
 
-<sup>1</sup> Die Kommission stellt dem Kantonsrat Antrag und erstattet ihm mündlich Bericht. Sie äussert sich in ihrem Bericht zu Abweichungen vom beim Kantonsrat eingereichten Antrag, insbesondere auch zu den finanziellen Auswirkungen.[^85-1]
+<sup>1</sup> Die Kommission stellt dem Kantonsrat Antrag und erstattet ihm mündlich Bericht. Sie äussert sich in ihrem Bericht zu Abweichungen vom beim Kantonsrat eingereichten Antrag, insbesondere auch zu den finanziellen Auswirkungen.[^85-2]
 
 <sup>2</sup> Lehnt die Kommission den Beratungsgegenstand in der Schlussabstimmung ab, beantragt sie dem Kantonsrat Nichteintreten. Sämtliche in der Kommission gestellten Anträge fallen dahin.
 
@@ -1034,7 +1041,7 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 **21**
 
-1.10. 22 - 118 § 89. Eintreten ist obligatorisch bei:
+- 1\. 7. 24 - 125 § 89. Eintreten ist obligatorisch bei:
 
 **Obligatorisches Eintreten**
 
@@ -1130,7 +1137,7 @@ Die Sachkommissionen verfolgen in ihrem Sachbereich die Entwicklung der interkan
 
 **23**
 
-1.10. 22 - 118 § 98. <sup>1</sup> Der Regierungsrat informiert die Sachkommissionen laufend und umfassend über Vorhaben der interkantonalen und internationalen Zusammenarbeit.
+- 1\. 7. 24 - 125 § 98. <sup>1</sup> Der Regierungsrat informiert die Sachkommissionen laufend und umfassend über Vorhaben der interkantonalen und internationalen Zusammenarbeit.
 
 **b. Information**
 
@@ -1226,7 +1233,9 @@ Der Kantonsrat kann den Regierungsrat auf Antrag einer Aufsichtskommission beauf
 
 **25**
 
-1.10. 22 - 118 g. Erfüllung der Leistungsaufträge bzw. Leistungsvereinbarungen oder der öffentlichen Aufgaben sowie Vorkehrungen, damit sie auch künftig erfüllt werden können,
+- 1\. 7. 24 - 125
+
+- g. Erfüllung der Leistungsaufträge bzw. Leistungsvereinbarungen oder der öffentlichen Aufgaben sowie Vorkehrungen, damit sie auch künftig erfüllt werden können,
 
 - h. bedeutende Risiken der Beteiligungen mit Eintretenswahrscheinlichkeit und möglicher Schadenhöhe sowie vorgekehrte Massnahmen,
 
@@ -1308,7 +1317,7 @@ Bei ausserordentlichen Vorkommnissen informieren der Regierungsrat, die Direktio
 
 **27**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Einen Antrag auf Einsetzung einer Parlamentarischen Untersuchungskommission können stellen:
 
@@ -1399,7 +1408,7 @@ Die Untersuchungskommission kann a. Augenscheine vornehmen,
 
 **29**
 
-1.10. 22 - 118 § 123. <sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat nach Abschluss ihrer Untersuchung Bericht und stellt Antrag auf Auflösung der Kommission.
+- 1\. 7. 24 - 125 § 123. <sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat nach Abschluss ihrer Untersuchung Bericht und stellt Antrag auf Auflösung der Kommission.
 
 **Abschluss der Untersuchung**
 
@@ -1467,7 +1476,7 @@ Folgende Wahlen werden im geheimen Verfahren durchgeführt:
 
 ### 11. Teil: Besondere Einzelakte des Kantonsrates
 
-[^h11TeilBesondere-1]: LS 175.2.
+[^h11TeilBesondere-1]: LS 175.2. 1. 7. 24 - 125 35
 
 #### § 129
 
@@ -1505,7 +1514,7 @@ Ist das Verfahren über die besonderen Einzelakte nicht abschliessend geregelt, 
 
 **31**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Der Anzeigeerstatterin oder dem Anzeigeerstatter kann ein Kostenvorschuss gemäss § 139 Abs. 2 auferlegt werden. Bei nicht rechtzeitiger Leistung beschliesst die Geschäftsleitung Nichteintreten.
 
@@ -1597,7 +1606,15 @@ Ist das Verfahren über die besonderen Einzelakte nicht abschliessend geregelt, 
 
 **33**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125 § 139 a.[^139-1] <sup>1</sup> Der Zürcher Zukunftspreis wird an Personen oder Organisationen verliehen, die sich mit herausragenden Leistungen oder Projekten um den Kanton Zürich verdient gemacht haben.
+
+**Zukunftspreis**
+
+<sup>2</sup> Der Kantonsrat verleiht den Zukunftspreis.
+
+<sup>3</sup> Er erlässt ein Reglement.
+
+[^139-1]: Eingefügt durch KRB über den Zukunfspreis des Kantonsrates vom 27. November 2023 (OS 79, 84; ABl 2023-02-03). In Kraft seit 1. Mai 2024.
 
 ### 12. Teil: Jugendparlament
 
@@ -1631,6 +1648,15 @@ Ist das Verfahren über die besonderen Einzelakte nicht abschliessend geregelt, 
 
 Der Kantonsrat erlässt die ausführenden Bestimmungen zu diesem Gesetz.
 
+**Übergangsbestimmung**
+
+§ 142 a.[^142-1][^142-2] § 10 Abs. 3 gilt bis zum Inkrafttreten einer gesetzlichen Regelung der Entschädigungen der Kantonsratsmitglieder.
+
+<sup>2</sup> Vor dem Inkrafttreten einer gesetzlichen Regelung ist eine Erhöhung der Entschädigungen nicht zulässig.
+
+[^142-1]: Eingefügt durch G vom 17. April 2023 (OS 79, 80; ABl 2023-02-03.). In Kraft seit 1. Mai 2024.
+[^142-2]: OS 74, 387.
+
 #### § 143
 
 **Änderungen bisherigen Rechts**
@@ -1657,7 +1683,7 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 [^143-2]: Text siehe OS 74, 387.
 [^143-3]: LS 170.4.
 [^143-4]: LS 170.5.
-[^143-5]: LS 175.2.
+[^143-5]: LS 175.2. 1. 7. 24 - 125 35
 [^143-6]: LS 614.
 [^143-7]: LS 951.1.
 
@@ -1678,3 +1704,9 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 <sup>2</sup> § 10 Abs. 2 tritt mit Inkraftsetzung der Verordnung gemäss § 10 Abs. 3 in Kraft[^146-1].
 
 [^146-1]: Inkrafttreten: 1. Mai 2020 (LS 171.21).
+
+### Übergangsbestimmung zur Änderung vom 27. November 2023
+
+(OS 79, 84)
+
+§ 139 a gilt, bis der Betrag von 1 Mio. Franken aufgebraucht ist, jedoch längstens für 20 Jahre nach seinem Inkrafttreten.
