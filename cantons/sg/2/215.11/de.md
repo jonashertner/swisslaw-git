@@ -5,12 +5,12 @@ title: Mittelschulverordnung
 short: MSV
 language: de
 version: 2024-05-01
-valid_until: 2026-07-31
+corrected: 2024-04-26
 version_adopted: 2024-04-02
 adopted: 1981-03-17
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3629/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -105,7 +105,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Beschlüsse werden durch einfaches Mehr gefasst. Stimmenthaltung ist unzulässig. Bei Stimmengleichheit ist der Antrag angenommen, für den die oder der Vorsitzende gestimmt hat.
 
-### 2. Schulbetrieb
+### Schulbetrieb
 
 #### Art. 8
 
