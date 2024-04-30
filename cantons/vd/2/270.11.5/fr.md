@@ -4,7 +4,7 @@ number: "270.11.5"
 title: TARIF du 28.09.2010 des frais judiciaires civils (TFJC)
 short: TFJC
 language: fr
-version: 2022-05-01
+version: 2024-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/270.11.5?id=5848c893-424d-4a98-8f8d-a613dcd497b9"
 ---
 
@@ -460,7 +460,7 @@ Autorité compétente Emolument - Juge de paix : 100 francs - Président et trib
 
 **Consultation du Registre suisse des testaments [^39-1]**
 
-<sup>1</sup> Pour la consultation du Registre suisse des testaments, il est dû un émolument de 20 francs.
+<sup>1</sup> Pour la consultation du Registre suisse des testaments, il est dû un émolument compris entre 25 et 35 francs.
 
 [^39-1]: Modif. 6 du 25.04.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 39a; entrée en vigueur au 01.05.2022 · Modif. 7 du 22.04.2024: Modification Al. 1; entrée en vigueur au 01.05.2024
 
