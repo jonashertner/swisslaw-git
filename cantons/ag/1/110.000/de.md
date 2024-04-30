@@ -4,20 +4,20 @@ number: "110.000"
 title: Verfassung des Kantons Aargau
 short: "Kantonsverfassung, KV"
 language: de
-version: 2023-01-01
-valid_until: 2024-04-30
-version_adopted: 2022-01-18
+version: 2024-05-01
+valid_until: 2024-06-29
+version_adopted: 2022-05-15
 adopted: 1980-06-25
 in_force: 1982-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/110.000"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3253/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Aargau
 
-Vom 25.06.1980 (Stand 01.01.2023)
+Vom 25.06.1980 (Stand 01.05.2024)
 
 Das Aargauer Volk,
 
@@ -684,7 +684,7 @@ gibt sich nachstehende Verfassung:
 
 #### § 69
 
-**Wählbarkeit, Unvereinbarkeit und Ausstand**
+**Wählbarkeit, Unvereinbarkeit, Ausstand und Amtsenthebung**
 
 <sup>1</sup> In den Grossen Rat, in den Regierungsrat, in die Gerichte und in die durch diese Verfassung festgesetzten Ämter sind die Stimmberechtigten des Kantons wählbar. Ausnahmen für die Gerichte bestimmt das Gesetz.
 
@@ -695,6 +695,8 @@ gibt sich nachstehende Verfassung:
 <sup>4</sup> Wer in einem öffentlich-rechtlichen Dienstverhältnis des kantonalen Rechtes steht, kann dem Grossen Rat nicht angehören. Ausnahmen, die mit dem Grundsatz der Gewaltenteilung vereinbar sind, bestimmt das Gesetz.
 
 <sup>5</sup> Mitglieder von Behörden und Beamte haben sich bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu begeben.
+
+<sup>6</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden.
 
 #### § 70
 
