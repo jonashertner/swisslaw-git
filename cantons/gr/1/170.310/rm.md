@@ -5,12 +5,12 @@ title: "Ordinaziun davart l'organisaziun da la regenza e da l'administraziun"
 short: OORA
 language: rm
 version: 2024-04-01
-valid_until: 2024-11-30
+corrected: 2024-05-01
 version_adopted: 2024-03-05
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3427/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

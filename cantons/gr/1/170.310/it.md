@@ -5,12 +5,12 @@ title: "Ordinanza sull'organizzazione del Governo e dell'Amministrazione"
 short: OOGA
 language: it
 version: 2024-04-01
-valid_until: 2024-11-30
+corrected: 2024-05-01
 version_adopted: 2024-03-05
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3427/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3364/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
