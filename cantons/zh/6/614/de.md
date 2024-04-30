@@ -4,11 +4,10 @@ number: "614"
 title: Finanzkontrollgesetz (FKG)
 short: FKG
 language: de
-version: "2020-05-01"
-nachtrag: "108"
-valid_until: 2024-05-01
+version: "2024-05-01"
+nachtrag: "125"
 adopted: 2000-10-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-614-2000_10_30-2001_07_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-614-2000_10_30-2001_07_01-125.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ A. Stellung<sup>15</sup>
 
 **1**
 
-- 1\. 4. 20 - 108 B. Organisation<sup>14</sup>
+- 1\. 7. 24 - 125 B. Organisation<sup>14</sup>
 
 **Begleitender Ausschuss a. im Allgemeinen14**
 
@@ -100,7 +99,7 @@ A. Stellung<sup>15</sup>
 
 <sup>2</sup> Der Kantonsrat wählt die Leiterin oder den Leiter der Finanzkontrolle auf Antrag des Regierungsrates auf eine Amtsdauer von vier Jahren. Wiederwahl ist möglich.
 
-<sup>3</sup> Der Kantonsrat kann die Leiterin oder den Leiter der Finanzkontrolle bei schwerwiegenden Amtspflichtverletzungen oder bei fachlichem Ungenügen auf Antrag des Begleitenden Ausschusses vor Ablauf der Amtsdauer abwählen. Für diesen Beschluss ist die Mehrheit der Mitglieder des Kantonsrates erforderlich.
+<sup>3</sup> Der Kantonsrat kann die Leiterin oder den Leiter der Finanzkontrolle bei schwerwiegenden Amtspflichtverletzungen oder bei fachlichem Ungenügen auf Antrag des Begleitenden Ausschusses vor Ablauf der Amtsdauer abwählen. Für diesen Beschluss ist eine Mehrheit von zwei Dritteln der Mitglieder des Kantonsrates erforderlich.<sup>18</sup>
 
 <sup>4</sup> Der Lohn der Leiterin oder des Leiters der Finanzkontrolle entspricht dem Höchstbetrag der obersten Lohnklasse der kantonalen Angestellten.
 
@@ -136,7 +135,7 @@ A. Stellung<sup>15</sup>
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Die mit der Qualitätssicherung beauftragte Stelle unterzieht die Finanzkontrolle mindestens alle fünf Jahre einer Qualitätsbeurteilung. Diese umfasst insbesondere die Einhaltung der berufsständischen Grundsätze, die Führung und Organisation der Finanzkontrolle sowie die Aufgabenerfüllung.
 
@@ -210,7 +209,7 @@ A. Stellung<sup>15</sup>
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Lassen Feststellungen der Finanzkontrolle ein sofortiges Handeln als geboten erscheinen, informiert die Finanzkontrolle unverzüglich die vorgesetzte Instanz der geprüften Stelle.
 
@@ -276,7 +275,7 @@ Wer der Aufsicht durch die Finanzkontrolle untersteht, unterstützt sie bei der 
 
 **7**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 24 - 125
 
 ### F.<sup>15</sup> Schlussbestimmungen
 
@@ -286,53 +285,33 @@ Wer der Aufsicht durch die Finanzkontrolle untersteht, unterstützt sie bei der 
 
 Die nachstehenden Gesetze werden wie folgt geändert:
 
-- a. Das Staatsbeitragsgesetz vom 1. April 1990: . . .<sup>7</sup>
+- a. Das Staatsbeitragsgesetz vom 1. April 1990: . . .[^28-1]
 
-- b. Das Wahlgesetz vom 4. September 1983: . . .<sup>7</sup>
+- b. Das Wahlgesetz vom 4. September 1983: . . .[^28-1]
 
-- c. Das Haftungsgesetz vom 14. September 1969: . . .<sup>7</sup>
+- c. Das Haftungsgesetz vom 14. September 1969: . . .[^28-1]
 
-- d. Das Kantonsratsgesetz vom 5. April 1981: . . .<sup>7</sup>
+- d. Das Kantonsratsgesetz vom 5. April 1981: . . .[^28-1]
 
-- e. Das Gesetz betreffend die Organisation und Geschäftsordnung des Regierungsrates und seiner Direktionen vom 26. Februar 1899: . . .<sup>7</sup>
+- e. Das Gesetz betreffend die Organisation und Geschäftsordnung des Regierungsrates und seiner Direktionen vom 26. Februar 1899: . . .[^28-1]
 
-- f. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959: . . .<sup>7</sup>
+- f. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959: . . .[^28-1]
 
-- g. Das Finanzhaushaltsgesetz vom 2. September 1979: . . .<sup>7</sup>
+- g. Das Finanzhaushaltsgesetz vom 2. September 1979: . . .[^28-1]
 
-<sup>1</sup> OS 56, 465.
+[^28-1]: Text siehe OS 56, 472 ff.
 
-<sup>2</sup> In Kraft seit 1. Juli 2001 (OS 56, 500).
+### Übergangsbestimmung zur Änderung vom 12. Dezember 2022
 
-<sup>3</sup> LS 131.1.
+(OS 79, 157)
 
-<sup>4</sup> LS 132.2.
+Tritt die Änderung während der laufenden Amtsdauer der Leiterin oder des Leiters der Finanzkontrolle in Kraft, bleibt bis zum Ende der laufenden Amtsdauer das bisherige Recht anwendbar.
 
-<sup>5</sup> LS 211.1.
-
-<sup>6</sup> LS 611.
-
-<sup>7</sup> Text siehe OS 56, 472 ff.
-
-<sup>8</sup> Heute: §§ 69 f. GOG.
-
-**In Kraft seit 1. April 2008 (OS 63, 134).**
-
-<sup>9</sup> Fassung gemäss G über Controlling und Rechnungslegung vom 9. Januar 2006 (OS 62, 354; ABl 2004, 89).
-
-**2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63,**
-
-<sup>10</sup> Fassung gemäss G über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 121; ABl 317).
-
-**Juni 2008 (OS 63, 543; ABl 2007, 2325). In Kraft**
-
-<sup>11</sup> Fassung gemäss G vom 30. seit 1. Januar 2009.
+<sup>11</sup> Fassung gemäss G vom 30. Juni 2008 (OS 63, 543; ABl 2007, 2325). In Kraft seit 1. Januar 2009.
 
 <sup>12</sup> Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 
-**Anpassung der kantonalen Behördenorganisation**
-
-<sup>13</sup> Fassung gemäss G über die und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 585; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
+<sup>13</sup> Fassung gemäss G über die Anpassung der kantonalen Behördenorganisation und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 585; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
 
 <sup>14</sup> Eingefügt durch G vom 26. Februar 2018 (OS 73, 356; ABl 2017-10-13). In Kraft seit 1. Januar 2019.
 
@@ -341,3 +320,22 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 <sup>16</sup> Aufgehoben durch G vom 26. Februar 2018 (OS 73, 356; ABl 2017-10-13). In Kraft seit 1. Januar 2019.
 
 <sup>17</sup> Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
+
+<sup>18</sup> Fassung gemäss KRB über die Angleichung der rechtlichen Bestimmungen zur Ombudsperson, der Leiterin oder des Leiters der Finanzkontrolle und der oder des Beauftragten für den Datenschutz vom 12. Dezember 2022 (OS 79, 157; ABl 2022-07-15). In Kraft seit 1. Mai 2024.
+
+**9**
+
+- 1\. 7. 24 - 125
+
+## Weitere Fussnoten
+
+- [1] OS 56, 465.
+- [2] In Kraft seit 1. Juli 2001 (OS 56, 500).
+- [3] LS 131.1.
+- [4] LS 132.2.
+- [5] LS 211.1.
+- [6] LS 611.
+- [8] Heute: §§ 69 f. GOG.
+- [9] Fassung gemäss G über Controlling und Rechnungslegung vom 9. Januar 2006 (OS 62, 354; ABl 2004, 89). In Kraft seit 1. April 2008 (OS 63, 134).
+- [10] Fassung gemäss G über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 121; ABl 2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63,
+- [317] .
