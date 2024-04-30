@@ -4,13 +4,13 @@ number: "615.211"
 title: Verordnung über den Finanzausgleich zwischen den Gemeinden
 short: "Finanzausgleichsverordnung, FiAV"
 language: de
-version: 2021-01-01
-valid_until: 2024-04-30
-version_adopted: 2020-11-11
+version: 2024-05-01
+valid_until: 2026-12-31
+version_adopted: 2024-03-27
 adopted: 2017-06-21
 in_force: 2017-12-31
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2933/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3759/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2933/pdf_file"
 
 (Finanzausgleichsverordnung, FiAV)
 
-Vom 21.06.2017 (Stand 01.01.2021)
+Vom 21.06.2017 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -90,7 +90,7 @@ beschliesst:
 - h) Werkjahr,
 - i) Kleinklasse.
 
-<sup>2</sup> Die Ermittlung der Volksschülerzahl stützt sich auf die Erhebung der Statistik Aargau, die jährlich mit Stichtag 15. September vorgenommen wird.
+<sup>2</sup> Die Ermittlung der Volksschülerzahl stützt sich auf die Erhebung des Statistischen Amts, die jährlich mit Stichtag 15. September vorgenommen wird.
 
 <sup>3</sup> Zusätzlich berücksichtigt werden
 
