@@ -4,13 +4,13 @@ number: "122.200"
 title: Gesetz über die Register und das Meldewesen
 short: "Register- und Meldegesetz, RMG"
 language: de
-version: 2021-09-01
-valid_until: 2024-04-30
-version_adopted: 2019-09-17
+version: 2024-05-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-28
 adopted: 2008-11-18
 in_force: 2009-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3288/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3288/pdf_file"
 
 (Register- und Meldegesetz, RMG)
 
-Vom 18.11.2008 (Stand 01.09.2021)
+Vom 18.11.2008 (Stand 01.05.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -283,7 +283,7 @@ beschliesst:
 
 <sup>4</sup> Anerkannte Landeskirchen und Kirchgemeinden dürfen die Daten von Angehörigen ihrer Konfession abrufen oder sich die entsprechenden Mutationen zustellen lassen.
 
-<sup>5</sup> Der für die Erstellung von Statistiken zuständigen kantonalen Behörde dürfen alle, auch besonders schützenswerte, Personendaten im Abrufverfahren bekannt gegeben werden, wenn die Voraussetzungen von § 19 IDAG eingehalten sind.
+<sup>5</sup> Dem Statistischen Amt werden alle, auch besonders schützenswerte, Personendaten im Abrufverfahren bekannt gegeben.
 
 <sup>6</sup> Der Zugriff auf das kantonale Einwohnerregister ist unentgeltlich.
 
