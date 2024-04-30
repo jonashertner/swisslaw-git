@@ -4,13 +4,12 @@ number: "831.315"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: ELKV-AG
 language: de
-version: 2022-01-01
-valid_until: 2024-04-30
-version_adopted: 2021-03-31
+version: 2024-05-01
+version_adopted: 2024-03-27
 adopted: 2010-11-17
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.315"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3055/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3055/pdf_file"
 
 (ELKV-AG)
 
-Vom 17.11.2010 (Stand 01.01.2022)
+Vom 17.11.2010 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Regelungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Vergütung von Krankheits- und Behinderungskosten gemäss Art. 14 Abs. 1 lit. a-g des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) vom 6. Oktober 2006[^1-1].
+<sup>1</sup> Diese Verordnung regelt die Vergütung von Krankheits- und Behinderungskosten gemäss Art. 14 Abs. 1 lit. a–g des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) vom 6. Oktober 2006[^1-1].
 
 [^1-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
 
@@ -81,13 +80,13 @@ beschliesst:
 
 <sup>3</sup> Die Krankheits- und Behinderungskosten werden jeweils dem im Behandlungszeitpunkt geltenden Höchstbetrag belastet.
 
-<sup>4</sup> Begründet die aus der Ergänzungsleitungsberechnung ausscheidende Person einen eigenen Ergänzungsleistungsanspruch, wird deren Höchstbetrag gemäss den Absätzen 1-3 festgelegt.
+<sup>4</sup> Begründet die aus der Ergänzungsleitungsberechnung ausscheidende Person einen eigenen Ergänzungsleistungsanspruch, wird deren Höchstbetrag gemäss den Absätzen 1–3 festgelegt.
 
 #### § 7
 
 **Erhöhter Betrag**
 
-<sup>1</sup> Der erhöhte Betrag gemäss Art. 14 Abs. 4 und 5 ELG steht ausschliesslich für die Vergütung von Pflege- und Betreuungskosten gemäss den §§ 11-14 dieser Verordnung zur Verfügung.
+<sup>1</sup> Der erhöhte Betrag gemäss Art. 14 Abs. 4 und 5 ELG steht ausschliesslich für die Vergütung von Pflege- und Betreuungskosten gemäss den §§ 11–14 dieser Verordnung zur Verfügung.
 
 #### § 8
 
@@ -118,7 +117,7 @@ beschliesst:
 
 <sup>5</sup> Die Hilflosenentschädigung wird weder von den Kosten der Hilfe zu Hause noch von den Kosten in Tages- oder Nachtstrukturen abgezogen. Der Assistenzbeitrag wird von den Kosten der Hilfe zu Hause abgezogen, nicht aber von den Kosten in Tages- oder Nachtstrukturen.
 
-<sup>6</sup> Bei Anwendung von Art. 14 Abs. 5 ELG gelten die Absätze 1-5 sinngemäss.
+<sup>6</sup> Bei Anwendung von Art. 14 Abs. 5 ELG gelten die Absätze 1–5 sinngemäss.
 
 [^9-1]: SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
 [^9-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
@@ -267,10 +266,10 @@ beschliesst:
 
 **Selbstbestimmtes Wohnen zu Hause**
 
-<sup>1</sup> Für ein selbstbestimmtes Wohnen zu Hause von betreuungsbedürftigen Personen wird ein monatlicher Pauschalbetrag von Fr. 300.– gewährt, sofern
+<sup>1</sup> Für ein selbstbestimmtes Wohnen zu Hause von erwachsenen betreuungsbedürftigen Personen mit einer Rente der AHV wird ein monatlicher Pauschalbetrag von Fr. 300.– gewährt, sofern die Betreuung durch eine vom Kanton anerkannte Organisation oder Fachperson erfolgt.
 
-- a) die Notwendigkeit der Betreuung ärztlich bescheinigt ist und
-- b) die Betreuung durch eine vom Kanton anerkannte Organisation oder Fachperson erfolgt.
+- a) …
+- b) …
 
 #### § 19
 
