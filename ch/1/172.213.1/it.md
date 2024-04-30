@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2023-08-01
+version: 2024-05-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° agosto 2023)
+del 17 novembre 1999 (Stato 1° maggio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -38,9 +38,9 @@ ordina:
 
 Negli ambiti politici centrali di sua competenza, il Dipartimento federale di giustizia e polizia (Dipartimento) persegue gli obiettivi seguenti:
 
-- a. proteggere la sicurezza interna e i beni giuridici dell’ente pubblico e della popolazione, in particolare mediante la creazione di basi giuridiche nazionali e internazionali e il coordinamento tra i Cantoni;
+- a.[^1-1] proteggere la sicurezza interna e i beni giuridici dell’ente pubblico e della popolazione, in particolare mediante la creazione di basi legali nazionali e internazionali e il coordinamento tra i Cantoni;
 - b. creare le condizioni quadro di diritto federale atte a garantire la tutela dei diritti fondamentali e dei diritti politici e il corretto funzionamento della giustizia;
-- c.[^1-1] creare basi giuridiche e istituzionali atte a garantire uno sviluppo economico ordinato, la protezione della proprietà intellettuale, la buona fede nelle operazioni commerciali e la protezione delle persone economicamente più deboli;
+- c.[^1-2] creare basi legali e istituzionali atte a garantire uno sviluppo economico ordinato, la protezione della proprietà intellettuale, la buona fede nelle operazioni commerciali e la protezione delle persone economicamente più deboli, tenendo conto dell’evoluzione delle condizioni quadro, in particolare di quelle tecniche;
 - d. sviluppare una politica svizzera in materia di migrazione nel settore degli stranieri e dell’asilo tenendo conto della necessità di mantenere un rapporto equilibrato tra popolazione residente svizzera e straniera, delle esigenze del mercato del lavoro, delle capacità di accoglienza, degli obblighi di diritto internazionale pubblico e della tradizione umanitaria della Svizzera.
 
 <sup>2</sup>
@@ -50,15 +50,16 @@ I punti principali dell’attività del Dipartimento sono i seguenti:
 - a. legislazione: il Dipartimento dirige i progetti legislativi che non rientrano nel campo di attività di un altro dipartimento o della Cancelleria federale. Segue inoltre tutti i progetti legislativi della Confederazione;
 - b. polizia e sicurezza: il Dipartimento assolve i compiti di polizia preventiva e giudiziaria della Confederazione e altri compiti in materia di sicurezza civile;
 - c. migrazione: il Dipartimento attua la politica svizzera in materia di stranieri e di asilo e la coordina, d’intesa con i dipartimenti interessati, con le politiche degli altri Stati europei;
-- d.[^1-2] ...
-- e.[^1-3] ordinamento economico: il Dipartimento elabora, ove necessario d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^1-4], le basi di diritto privato nei settori del diritto contrattuale e delle imprese nonché della proprietà intellettuale;
-- f.[^1-5] metrologia: il Dipartimento elabora le basi metrologiche e vigila sull’esecuzione nei Cantoni.
+- d.[^1-3] ...
+- e.[^1-4] ordinamento economico: il Dipartimento elabora, ove necessario d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^1-5], le basi di diritto privato nei settori del diritto contrattuale e delle imprese nonché della proprietà intellettuale;
+- f.[^1-6] metrologia: il Dipartimento elabora le basi metrologiche e vigila sull’esecuzione nei Cantoni.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^1-2]: Abrogata dal n. I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^1-3]: Nuovo testo giusta il n. II 2 dell’O del 25 giu. 2003, in vigore dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
-[^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-5]: Nuovo testo giusta il n. III 2 dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^1-3]: Abrogata dal n. I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^1-4]: Nuovo testo giusta il n. II 2 dell’O del 25 giu. 2003, in vigore dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
+[^1-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-6]: Nuovo testo giusta il n. III 2 dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)).
 
 #### Art. 2
 
@@ -118,15 +119,16 @@ La Segreteria generale esercita le funzioni di cui all’articolo 42 LOGA e assu
 
 <sup>1</sup> Per le unità amministrative del Dipartimento, gli obiettivi di cui agli articoli 6, 9, 12, 15, 19 e 22 fungono da linee direttive per l’esercizio delle competenze e l’adempimento dei compiti loro conferiti dalla legislazione federale.[^5-1]
 
-<sup>2</sup> Di principio, gli uffici elaborano gli atti normativi nazionali e internazionali che rientrano nel loro campo di attività; in ambito internazionale lavorano d’intesa con il DFAE e il DEFR (economia esterna).
+<sup>2</sup> Di principio, gli uffici elaborano gli atti[^5-2] nazionali e internazionali che rientrano nel loro campo di attività; in ambito internazionale lavorano d’intesa con il DFAE e il DEFR (economia esterna).
 
-<sup>3</sup> Nei relativi campi di attività, assolvono i compiti esecutivi loro assegnati dagli atti normativi nazionali e internazionali di cui al capoverso 2.
+<sup>3</sup> Nei relativi campi di attività, assolvono i compiti esecutivi loro assegnati dagli atti nazionali e internazionali di cui al capoverso 2.
 
 <sup>4</sup> Nell’ambito dei loro compiti e degli obiettivi di politica estera del Paese, rappresentano la Svizzera in seno a organizzazioni internazionali, d’intesa con il DFAE, il DEFR (economia esterna) e, se del caso, con altri dipartimenti e uffici federali, e partecipano ai lavori di gruppi di esperti nazionali e internazionali e all’elaborazione e all’esecuzione di trattati internazionali.
 
 <sup>5</sup> D’intesa con il DFAE, il Dipartimento stabilisce in quali campi di attività gli uffici sono autorizzati a comunicare con ambasciate e consolati svizzeri e con autorità e servizi esteri.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^5-2]: Nuova espressione giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 ### Sezione 3: Ufficio federale di giustizia
 
@@ -141,6 +143,7 @@ L’Ufficio federale di giustizia (UFG) è l’autorità competente e centro di 
 - a. creare condizioni giuridiche atte a favorire la convivenza sociale e lo sviluppo economico del Paese;
 - b. rafforzare l’ordinamento federalistico, segnatamente per quanto concerne i diritti fondamentali, la democrazia e lo Stato di diritto in Svizzera;
 - c. elaborare normative federali appropriate, comprensibili, prive di contraddizioni e conformi al diritto di rango superiore;
+- c<sup>bis</sup>.[^6-2] sviluppare il diritto tenendo conto dell’evoluzione delle condizioni quadro, in particolare di quelle tecniche;
 - d. partecipare alla creazione di un ordine internazionale pacifico e all’armonizzazione dell’evoluzione del diritto in Europa;
 - e. preservare e garantire le conoscenze giuridiche in seno all’Amministrazione federale e promuovere la comprensione del diritto.
 
@@ -152,80 +155,118 @@ Per conseguire tali obiettivi, l’UFG svolge le funzioni seguenti:
 - b. segue l’evoluzione del diritto in Svizzera e all’estero, fornisce alle autorità competenti consulenze specialistiche in materia di diritto federale e di politica giuridica e propone soluzioni tempestive e appropriate.
 
 [^6-1]: Nuova denominazione giusta il n. I dell’O del 4 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
+[^6-2]: Introdotta dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7
 
-**Compiti in dettaglio**
+**Progetti legislativi dell’UFG**[^7-1]
 
-<sup>1</sup>
+Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione con gli uffici cointeressati e partecipa alla loro esecuzione nonché all’elaborazione, all’approvazione e all’attuazione dei necessari strumenti internazionali:
 
-Nei settori elencati qui di seguito, l’UFG prepara gli atti normativi in collaborazione con altri uffici competenti e partecipa alla loro esecuzione e all’elaborazione dei necessari strumenti internazionali:
+- a. diritto costituzionale, segnatamente le norme fondamentali dello Stato di diritto, dello Stato federale e della democrazia, come pure ulteriori ambiti costituzionali che non competono ad altri uffici federali, incluso il settore del diritto internazionale in materia di diritti umani coinvolgendo il DFAE;
+- b. diritto civile, procedura civile ed esecuzione forzata, inclusi il diritto internazionale privato e il diritto internazionale in materia di procedura civile e di esecuzione forzata, nonché le norme sul registro di commercio, sullo stato civile e sul registro fondiario, escluso però il diritto dei beni immateriali;
+- c. diritto penale e procedura penale, inclusi il diritto penale minorile e la procedura penale minorile, il diritto penale internazionale, il diritto penale amministrativo, il diritto sull’organizzazione delle autorità penali, il diritto in materia di casellario giudiziale nonché l’esecuzione delle pene e delle misure, esclusi però il diritto penale militare e il diritto penale accessorio;
+- d. diritto pubblico, nella misura in cui non compete ad altri uffici federali, segnatamente il diritto in materia di organizzazione e procedura dei tribunali della Confederazione, la collaborazione con tribunali esteri e internazionali, la procedura amministrativa, la protezione dei dati, la trasparenza dell’amministrazione e le infrastrutture digitali per le comunicazioni giuridiche e il trattamento dei dati nel settore della giustizia, il diritto in materia di giochi in denaro, il diritto sull’avvocatura nonché le norme sull’acquisto di fondi da parte di persone all’estero, l’aiuto alle vittime di reato e l’elaborazione delle misure coercitive a scopo assistenziale e dei collocamenti extrafamiliari prima del 1981;
+- e. assistenza internazionale in materia penale, segnatamente le norme in materia di assistenza giudiziaria accessoria, di estradizione, di trasferimento nonché di perseguimento ed esecuzione penali in via sostitutiva.
 
-- a. diritto costituzionale, segnatamente le norme fondamentali dello Stato di diritto, dello Stato federale e della democrazia, come pure ulteriori ambiti costituzionali che non competono ad altri uffici federali, incluse l’elaborazione e l’esecuzione di accordi in materia di diritti dell’uomo in collaborazione con il DFAE;
-- b.[^7-1] diritto civile, procedura civile ed esecuzione forzata, inclusi il diritto internazionale privato e il diritto internazionale in materia di procedura civile e di esecuzione forzata, le norme sul registro di commercio, sullo stato civile e sul registro fondiario nonché le norme sull’acquisto di fondi da parte di persone all’estero; è fatto salvo il diritto dei beni immateriali;
-- c.[^7-2] diritto penale e procedura penale (fatti salvi il diritto penale militare e il diritto penale accessorio), inclusi il diritto internazionale penale e il diritto internazionale in materia di procedura penale e di esecuzione delle pene, l’esecuzione delle pene e delle misure e l’aiuto alle vittime di reati violenti;
-- d.[^7-3] organizzazione e procedura dei tribunali federali, collaborazione con tribunali esteri e internazionali, procedura amministrativa, protezione generale dei dati, diritto della stampa, settore delle lotterie e ulteriori settori del diritto pubblico che non competono ad altri uffici federali.
+[^7-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>2</sup> Nei settori di cui al capoverso 1, l’UFG fornisce informazioni giuridiche ed elabora perizie all’attenzione dell’Assemblea federale, del Consiglio federale e dell’Amministrazione federale.
+#### Art. 7a
 
-<sup>3</sup> Controlla tutti i progetti di atti normativi sotto il profilo della costituzionalità e della legalità, della conformità al diritto nazionale e internazionale vigente e della compatibilità con lo stesso, della correttezza materiale e, in collaborazione con la Cancelleria federale (CaF), dell’adeguatezza dal punto di vista della tecnica legislativa e della redazione.
+**Accompagnamento legislativo e legistica**[^7a-1]
 
-<sup>4</sup> Sviluppa principi metodologici per l’elaborazione di atti normativi e la valutazione di misure statuali, in particolare per quanto concerne la loro efficacia ed economicità, e provvede affinché sussistano adeguate possibilità di perfezionamento.
+<sup>1</sup> L’UFG controlla tutti i progetti di atti normativi sotto il profilo della costituzionalità e della legalità, della conformità al diritto nazionale e internazionale vigente e della compatibilità con lo stesso, della correttezza materiale e, in collaborazione con la Cancelleria federale (CaF), dell’adeguatezza dal punto di vista della tecnica legislativa e della redazione.
 
-<sup>5</sup> Elabora i messaggi concernenti il conferimento della garanzia federale alle costituzioni cantonali e prepara l’approvazione di atti normativi cantonali nei settori di cui al capoverso 1.
+<sup>2</sup> In collaborazione con il DFAE, coordina e sostiene gli uffici competenti nel processo legislativo nell’ambito dello sviluppo degli accordi di associazione a Schengen e Dublino.
 
-<sup>6</sup> Prepara i rapporti del Consiglio federale relativi alle domande di grazia di cui agli articoli 394 e 395 del Codice penale[^7-4] (CP).
+<sup>3</sup> Sviluppa strumenti metodologici per l’elaborazione di atti e la valutazione di misure statali, in particolare per quanto riguarda la loro efficacia ed economicità e tenendo conto della digitalizzazione. Provvede a un’offerta di formazione continua e a un’adeguata gestione del sapere.
 
-<sup>6a</sup> Garantisce rapidamente un’assistenza giudiziaria internazionale in materia penale, amministrativa, civile e commerciale e decide sulle domande d’assistenza giudiziaria, d’estradizione, di consegna nonché sul perseguimento e l’esecuzione penali in via sostitutiva.[^7-5]
+[^7a-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>7</sup> È l’autorità centrale della Confederazione per quanto concerne il rapimento internazionale di minori, la protezione internazionale dei minorenni, le pratiche internazionali in materia di pensioni alimentari, le cause internazionali di diritto successorio e l’assistenza giudiziaria internazionale in materia civile e commerciale.[^7-6]
+#### Art. 7b
 
-<sup>8</sup> Istruisce i ricorsi su cui decide il Consiglio federale, fatti salvi i ricorsi contro il Dipartimento, i ricorsi contro misure locali concernenti la circolazione stradale (art. 3 cpv. 4 della LF del 19 dic. 1958[^7-7] sulla circolazione stradale), i ricorsi sulle votazioni (art. 81 della LF del 17 dic. 1976[^7-8] sui diritti politici) e i ricorsi per violazione di trattati internazionali concernenti la libera circolazione delle persone e il domicilio (art. 13 cpv. 1).
+**Assistenza alle autorità federali**[^7b-1]
 
-<sup>9</sup> Rappresenta la Svizzera nelle procedure di ricorso dinanzi alla Corte europea dei diritti dell’uomo e ai Comitati delle Nazioni Unite contro la tortura, per l’eliminazione della discriminazione nei confronti della donna e per l’eliminazione della discriminazione razziale.[^7-9] A tal fine può far capo a consulenti.[^7-10]
+<sup>1</sup> Nei settori di cui all’articolo 7, l’UFG fornisce informazioni giuridiche ed elabora perizie giuridiche destinate all’Assemblea federale, al Consiglio federale e all’Amministrazione federale.
 
-<sup>10</sup> Esegue le convenzioni in materia di diritto internazionale privato e di procedura civile, nella misura in cui non siano di competenza di altri uffici federali.
+<sup>2</sup> Elabora i messaggi sul conferimento della garanzia federale alle costituzioni cantonali e prepara l’approvazione di atti normativi cantonali nei settori di cui all’articolo 7.
 
-<sup>11</sup> Gestisce un servizio responsabile del trattamento elettronico dei dati giuridici.
+<sup>3</sup> Prepara i rapporti del Consiglio federale relativi alle domande di grazia di cui agli articoli 381 e 382 del Codice penale[^7b-2] (CP).
 
-<sup>12</sup> Mette a disposizione i moduli per i documenti giudiziari e per gli atti scritti delle parti in procedure civili secondo il Codice di procedura civile del 19 dicembre 2008[^7-11] (CPC).[^7-12]
+<sup>4</sup> Fornisce consulenza alle unità amministrative della Confederazione in vista dell’elaborazione di atti e in generale su questioni legislative in materia di digitalizzazione.
 
-<sup>13</sup> È competente per l’approvazione di progetti pilota cantonali secondo l’articolo 401 CPC.[^7-13]
+[^7b-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-[^7-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5389](https://fedlex.data.admin.ch/eli/oc/2020/933)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-3]: Nuovo testo giusta il n. I 2 dell’O del 5 nov. 2014 (trasferimento del settore «Aiuto sociale agli Svizzeri all’estero» dal DFGP al DFAE), in vigore dal 1° gen. 2015 ([RU 2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)).
-[^7-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi ora gli art. 381 e 382.
-[^7-5]: Introdotto dal n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-6]: Nuovo testo giusta il n. I dell’O del 4 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
-[^7-7]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^7-8]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^7-9]: Nuovo testo giusta il n. I dell’O del 29 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4619](https://fedlex.data.admin.ch/eli/oc/2012/564)).
-[^7-10]: Nuovo testo giusta il n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-11]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7-12]: Introdotto dal n. II 1 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^7-13]: Introdotto dal n. II 1 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+#### Art. 7c
+
+**Compiti nelle procedure di ricorso e pregiudiziali**[^7c-1]
+
+<sup>1</sup> L’UFG istruisce i ricorsi su cui decide il Consiglio federale, fatti salvi i ricorsi contro il Dipartimento.
+
+<sup>2</sup> Ha diritto di interporre ricorso in materia civile (art. 76 cpv. 2 della legge del 17 giugno 2005[^7c-2] sul Tribunale federale [LTF]), penale (art. 81 cpv. 3 LTF) e di diritto pubblico (art. 89 cpv. 2 lett. a LTF).
+
+<sup>3</sup> Rappresenta la Svizzera nelle procedure di ricorso dinanzi alla Corte europea dei diritti dell’uomo e ai Comitati delle Nazioni Unite contro la tortura, la discriminazione nei confronti della donna, la discriminazione razziale, le sparizioni forzate e per i diritti del fanciullo. A tal fine può far capo a consulenti.
+
+<sup>4</sup> In collaborazione con gli uffici competenti elabora e prepara i pareri della Svizzera all’indirizzo della Corte di giustizia dell’Unione europea. I pareri sono inoltrati in collaborazione con il DFAE.
+
+[^7c-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+#### Art. 7d
+
+**Assistenza giudiziaria e cooperazione internazionali**[^7d-1]
+
+<sup>1</sup> L’UFG garantisce una rapida assistenza giudiziaria internazionale in materia penale, amministrativa, civile e commerciale e decide sulle domande d’assistenza giudiziaria, d’estradizione, di trasferimento nonché sul perseguimento e l’esecuzione penali in via sostitutiva. A tal fine può comunicare direttamente con rappresentanze e autorità straniere in Svizzera e all’estero, anche mediante note diplomatiche.
+
+<sup>2</sup> È competente per l’esecuzione dell’Accordo del 27 novembre 2008[^7d-2] tra la Svizzera e l’Eurojust.
+
+<sup>3</sup> È l’ufficio centrale per la cooperazione con la Corte penale internazionale secondo la legge federale del 22 giugno 2001[^7d-3] sulla cooperazione con la Corte penale internazionale.
+
+<sup>4</sup> È l’autorità centrale della Confederazione in ambito di rapimenti internazionali di minori, protezione internazionale degli adulti e dei minori, adozioni internazionali, pratiche internazionali in materia di pensioni alimentari e assistenza giudiziaria internazionale in materia civile e commerciale.
+
+[^7d-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
+[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+
+#### Art. 7e
+
+**Altri compiti in materia di diritto civile e di procedura civile**[^7e-1]
+
+<sup>1</sup> L’UFG esegue le convenzioni in materia di diritto internazionale privato e di procedura civile, nella misura in cui non siano di competenza di altri uffici federali.
+
+<sup>2</sup> ...[^7e-2]
+
+<sup>3</sup> In casi non controversi è competente per l’approvazione di progetti pilota cantonali secondo l’articolo 401 CPC.
+
+<sup>4</sup> Esercita la vigilanza sulla Centrale d’informazione per il credito al consumo secondo l’articolo 23 capoversi 2 e 4 della legge federale del 23 marzo 2001[^7e-3] sul credito al consumo; è fatta salva la competenza dell’Incaricato federale della protezione dei dati e della trasparenza.
+
+[^7e-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: In vigore il 1° gen. 2025.
+[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8
 
-**Disposizioni speciali**
+**Servizi speciali**[^8-1]
 
 <sup>1</sup>
 
-L’UFG dirige tra l’altro:
+L’UFG dirige:
 
 - a. l’Ufficio federale dello stato civile;
 - b. l’Ufficio federale per il diritto del registro fondiario e del diritto fondiario, incluso l’Ufficio svizzero del registro del naviglio;
-- c. l’Ufficio del registro di commercio;
-- d.[^8-1] insieme ad altre autorità federali e ai Cantoni, il casellario giudiziale informatizzato VOSTRA.
+- c. l’Ufficio federale del registro di commercio;
+- d. insieme ad altre autorità federali e ai Cantoni, il casellario giudiziale informatizzato VOSTRA;
+- e. il servizio di alta vigilanza in materia di esecuzione e fallimento.
 
-<sup>2</sup> I compiti e le competenze degli uffici di cui al capoverso 1 sono disciplinati in atti normativi speciali[^8-2].
+<sup>2</sup>
 
-<sup>3</sup> Sono annesse al DFGP sul piano amministrativo la Commissione peritale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita e la sua segreteria.[^8-3]
+Sono annesse al DFGP sul piano amministrativo:
 
-[^8-1]: Introdotta dal n. I dell’O del 28 giu. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Nuovo testo giusta l’all. 10 n. II 7 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
-[^8-3]: Introdotto dall’art. 16 n. 2 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita, in vigore dal 1° gen. 2014 ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
+- a. la commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita;
+- b. la commissione consultiva per le misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 ### Sezione 4: Ufficio federale di polizia
 

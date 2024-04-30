@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2023-08-01
+version: 2024-05-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. August 2023)
+vom 17. November 1999 (Stand am 1. Mai 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -40,7 +40,7 @@ Das Eidgenössische Justiz- und Polizeidepartement (Departement) verfolgt in sei
 
 - a. Schutz der inneren Sicherheit sowie der Rechtsgüter des Gemeinwesens und der Bevölkerung insbesondere durch die Schaffung nationaler und internationaler Rechtsgrundlagen sowie durch die Koordination zwischen den Kantonen;
 - b. Schaffung der bundesrechtlichen Rahmenbedingungen für den Schutz der Grundrechte und der politischen Rechte sowie für eine funktionierende Justiz;
-- c.[^1-1] Schaffung rechtlicher und institutioneller Grundlagen für eine geordnete wirtschaftliche Entwicklung, für den Schutz des geistigen Eigentums, die Redlichkeit des Geschäftsverkehrs sowie den Schutz von wirtschaftlich Schwächeren;
+- c.[^1-1] Schaffung rechtlicher und institutioneller Grundlagen für eine geordnete wirtschaftliche Entwicklung, für den Schutz des geistigen Eigentums, die Redlichkeit des Geschäftsverkehrs sowie den Schutz von wirtschaftlich Schwächeren, unter Berücksichtigung sich wandelnder, insbesondere technischer Rahmenbedingungen;
 - d. Entwicklung einer schweizerischen Migrationspolitik im Ausländer- und Asylbereich unter Berücksichtigung des ausgewogenen Verhältnisses der in‑ und ausländischen Wohnbevölkerung, der Bedürfnisse des Arbeitsmarktes, der Aufnahmefähigkeit, der völkerrechtlichen Verpflichtungen und der humanitären Tradition der Schweiz.
 
 <sup>2</sup>
@@ -54,7 +54,7 @@ Die Schwerpunkte der Departementstätigkeiten sind:
 - e.[^1-3] Wirtschaftsordnung: Es erarbeitet, soweit notwendig in Absprache mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^1-4], die privatrechtlichen Grundlagen in den Bereichen des Vertrags- und Unternehmensrechts sowie des geistigen Eigentums.
 - f.[^1-5] Messwesen: Es erarbeitet die metrologischen Grundlagen und überwacht den Vollzug in den Kantonen.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 [^1-2]: Aufgehoben durch Ziff. I der V vom 28. Juni 2000, mit Wirkung seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
 [^1-3]: Fassung gemäss Ziff. II 2 der V vom 25. Juni 2003, in Kraft seit 1. Juli 2003 ([AS 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 [^1-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
@@ -141,6 +141,7 @@ Das Bundesamt für Justiz (BJ) ist unter Berücksichtigung der Zuständigkeiten 
 - a. Schaffung rechtlicher Rahmenbedingungen für eine gerechte Ordnung des gesellschaftlichen Zusammenlebens und für eine gedeihliche wirtschaftliche Entwicklung des Landes;
 - b. Stärkung der bundesstaatlichen Ordnung, namentlich in den Bereichen der Grundrechte, der Demokratie und des Rechtsstaates in der Schweiz;
 - c. Erarbeitung zweckmässiger bundesrechtlicher Regelungen, die verständlich und widerspruchsfrei sind und mit dem übergeordneten Recht im Einklang stehen;
+- c<sup>bis</sup>.[^6-2] Weiterentwicklung des Rechts angesichts sich wandelnder, insbesondere technischer Rahmenbedingungen;
 - d. Mitwirkung bei der Herstellung einer friedlichen internationalen Ordnung und bei der Harmonisierung der Rechtsentwicklung in Europa;
 - e. Erhaltung und Sicherung des juristischen Fachwissens in der Bundesverwaltung und Förderung des Verständnisses für das Recht.
 
@@ -152,81 +153,118 @@ Zur Verfolgung dieser Ziele nimmt das BJ folgende Funktionen wahr:
 - b. Es beobachtet die Rechtsentwicklung im In- und Ausland, berät die zuständigen Behörden fachkundig in Fragen des Bundesrechts und der Rechtspolitik und unterbreitet zeitgerechte und taugliche Lösungen.
 
 [^6-1]: Bezeichnung gemäss Ziff. I der V vom 4. Dez. 2000, in Kraft seit 1. Jan. 2001 ([AS 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
+[^6-2]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7
 
-**Aufgaben im Einzelnen**
+**Rechtsetzungsprojekte des BJ**[^7-1]
 
-<sup>1</sup>
+Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden Rechtsbereichen die Erlasse vor und wirkt bei deren Vollzug sowie bei der Erarbeitung, Genehmigung und Umsetzung notwendiger internationaler Instrumente mit:
 
-Das BJ bereitet in Zusammenarbeit mit ebenfalls zuständigen Ämtern in folgenden Rechtsbereichen die Erlasse vor, wirkt bei deren Vollzug und bei der Erarbeitung notwendiger internationaler Instrumente mit:
+- a. Verfassungsrecht, namentlich die rechtsstaatliche, bundesstaatliche und demokratische Grundordnung sowie weitere Verfassungsbereiche, die nicht in die Zuständigkeit anderer Bundesämter fallen, einschliesslich des Bereichs der internationalen Menschenrechte unter Einbezug des EDA;
+- b. Zivil-, Zivilprozess- und Zwangsvollstreckungsrecht, einschliesslich des internationalen Privat-, Zivilprozess- und Zwangsvollstreckungsrechts sowie der Regelungen über das Handelsregister und über das Zivilstands- und das Grundbuchwesen, aber ohne das Immaterialgüterrecht;
+- c. Straf- und Strafprozessrecht, einschliesslich des Jugendstraf- und Jugendstrafprozessrechts, des internationalen Strafrechts, des Verwaltungsstrafrechts, Strafbehördenorganisationsrechts, des Strafregisterrechts sowie des Straf- und Massnahmenvollzugs, aber ohne das Militär- und Nebenstrafrecht;
+- d. öffentliches Recht, soweit es nicht in die Zuständigkeit anderer Bundesämter fällt, namentlich das Recht über die Organisation und das Verfahren der eidgenössischen Gerichte, die Zusammenarbeit mit ausländischen und internationalen Gerichten, das Verwaltungsverfahren, den Datenschutz, die Öffentlichkeit der Verwaltung und die digitalen Infrastrukturen für den Rechtsverkehr und die Datenbearbeitung im Justizbereich, das Geldspielrecht, das Anwaltsrecht sowie die Regelungen über den Erwerb von Grundstücken durch Personen im Ausland, die Hilfe an die Opfer von Straftaten und die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981;
+- e. internationale Rechtshilfe in Strafsachen, namentlich die Regelungen über die akzessorische Rechtshilfe, die Auslieferung, die Überstellung sowie die stellvertretende Strafverfolgung und Strafvollstreckung.
 
-- a. Verfassungsrecht; hierzu gehören namentlich die rechtsstaatliche, bundesstaatliche und demokratische Grundordnung sowie weitere Verfassungsbereiche, die nicht in den Zuständigkeitsbereich anderer Bundesämter fallen, einschliesslich der Erarbeitung und Umsetzung von Abkommen im Bereich der Menschenrechte in Arbeitsteilung mit dem EDA;
-- b.[^7-1] Zivil-, Zivilprozess- und Zwangsvollstreckungsrecht; eingeschlossen sind das Internationale Privat-, Zivilprozess- und Zwangsvollstreckungsrecht, die Regelungen über das Handelsregister und über das Zivilstands- und das Grundbuchwesen sowie die Regelungen über den Erwerb von Grundstücken durch Personen im Ausland; nicht eingeschlossen ist das Immaterialgüterrecht;
-- c.[^7-2] Straf- und Strafprozessrecht (ohne Militär- und Nebenstrafrecht); eingeschlossen sind das Internationale Straf‑, Strafprozess- und Strafvollstreckungsrecht, der Straf- und Massnahmenvollzug sowie die Hilfe an die Opfer von Gewaltverbrechen;
-- d.[^7-3] Organisation und Verfahren der eidgenössischen Gerichte, Zusammenarbeit mit ausländischen und internationalen Gerichten, Verwaltungsverfahren, allgemeiner Datenschutz, Presserecht, Lotteriewesen sowie weitere Bereiche des öffentlichen Rechts, die nicht in den Zuständigkeitsbereich anderer Bundesämter fallen.
+[^7-1]: Fassung gemäss Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>2</sup> Das BJ erteilt in den Rechtsbereichen nach Absatz 1 Rechtsauskünfte und erstellt Rechtsgutachten zuhanden der Bundesversammlung, des Bundesrates und der Bundesverwaltung.
+#### Art. 7a
 
-<sup>3</sup> Es überprüft sämtliche Entwürfe für rechtsetzende Erlasse auf ihre Verfassungs- und Gesetzmässigkeit, auf ihre Übereinstimmung und Vereinbarkeit mit dem geltenden nationalen und internationalen Recht, auf ihre inhaltliche Richtigkeit sowie, in Zusammenarbeit mit der Bundeskanzlei (BK), auf ihre gesetzestechnische und sprachlich-redaktionelle Angemessenheit.
+**Rechtsetzungsbegleitung und Legistik**[^7a-1]
 
-<sup>4</sup> Es entwickelt methodische Grundsätze für die Vorbereitung von Erlassen und für die Evaluation staatlicher Massnahmen, insbesondere im Hinblick auf ihre Wirksamkeit und Wirtschaftlichkeit, und sorgt für adäquate Weiterbildungsmöglichkeiten.
+<sup>1</sup> Das BJ überprüft sämtliche Entwürfe für rechtsetzende Erlasse auf ihre Verfassungs- und Gesetzmässigkeit, auf ihre Übereinstimmung und Vereinbarkeit mit dem geltenden nationalen und internationalen Recht, auf ihre inhaltliche Richtigkeit sowie, in Zusammenarbeit mit der Bundeskanzlei, auf ihre gesetzestechnische und sprachlich-redaktionelle Angemessenheit.
 
-<sup>5</sup> Es erarbeitet die Botschaften zur Gewährleistung der Kantonsverfassungen und bereitet die Genehmigung kantonaler Erlasse in den Rechtsbereichen nach Absatz 1 vor.
+<sup>2</sup> Es koordiniert und unterstützt in Zusammenarbeit mit dem EDA die zuständigen Ämter bei der Rechtsetzung im Rahmen der Weiterentwicklung der Schengen- und Dublin-Assoziierungsabkommen.
 
-<sup>6</sup> Es bereitet die Berichte des Bundesrates zu Begnadigungen nach den Artikeln 394 und 395 des Strafgesetzbuches[^7-4] (StGB) vor.
+<sup>3</sup> Es entwickelt methodische Hilfsmittel für die Vorbereitung von Erlassen und die Evaluation staatlicher Massnahmen, insbesondere im Hinblick auf ihre Wirksamkeit und Wirtschaftlichkeit und unter Berücksichtigung der Digitalisierung. Es sorgt für Weiterbildungsmöglichkeiten und ein geeignetes Wissensmanagement.
 
-<sup>6a</sup> Es stellt eine rasch funktionierende internationale Rechtshilfe in Straf‑, Verwaltungs‑, Zivil- und Handelssachen sicher und entscheidet über Rechtshilfeersuchen, Auslieferungen, Überstellungen sowie über die stellvertretende Strafverfolgung und Strafvollstreckung.[^7-5]
+[^7a-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>7</sup> Es wirkt als Zentralbehörde des Bundes im Bereich der internationalen Kindsentführungen, des internationalen Minderjährigenschutzes, der internationalen Alimentensachen, der internationalen Erbschaftssachen und der internationalen Rechtshilfe in Zivil- und Handelssachen.[^7-6]
+#### Art. 7b
 
-<sup>8</sup> Es instruiert Beschwerden, über die der Bundesrat entscheidet, mit Ausnahme von Beschwerden gegen das Departement, Beschwerden gegen örtliche Verkehrsmassnahmen (Art. 3 Abs. 4 Strassenverkehrsgesetz vom 19. Dez. 1958[^7-7], SVG), Abstimmungsbeschwerden (Art. 81 des Bundesgesetzes vom 17. Dez. 1976[^7-8] über die politischen Rechte) und Beschwerden wegen Verletzung von völkerrechtlichen Verträgen, die sich auf Freizügigkeit und Niederlassung beziehen (Art. 13 Abs. 1).
+**Unterstützung der Bundesbehörden**[^7b-1]
 
-<sup>9</sup> Es vertritt die Schweiz in den Beschwerdeverfahren vor dem Europäischen Gerichtshof für Menschenrechte sowie vor den Ausschüssen der Vereinten Nationen gegen die Folter, für die Beseitigung der Diskriminierung der Frau und für die Beseitigung der Rassendiskriminierung.[^7-9] Es kann dazu Beraterinnen und Berater beiziehen.[^7-10]
+<sup>1</sup> Das BJ erteilt in den Rechtsbereichen nach Artikel 7 Rechtsauskünfte und erstellt Rechtsgutachten zuhanden der Bundesversammlung, des Bundesrates und der Bundesverwaltung.
 
-<sup>10</sup> Es vollzieht die Übereinkommen des Internationalen Privat- und Zivilprozessrechts, soweit diese nicht in den Zuständigkeitsbereich anderer Bundesämter fallen.
+<sup>2</sup> Es erarbeitet die Botschaften zur Gewährleistung der Kantonsverfassungen und bereitet die Genehmigung kantonaler Erlasse in den Rechtsbereichen nach Artikel 7 vor.
 
-<sup>11</sup> Es führt eine Fachstelle für Rechtsinformatik.
+<sup>3</sup> Es bereitet die Berichte des Bundesrates zu Begnadigungen nach den Artikeln 381 und 382 des Strafgesetzbuches[^7b-2] (StGB) vor.
 
-<sup>12</sup> Es stellt Formulare für Gerichtsurkunden und Parteieingaben in Zivilverfahren nach der Zivilprozessordnung vom 19. Dezember 2008[^7-11] (ZPO) zur Verfügung.[^7-12]
+<sup>4</sup> Es berät die Verwaltungseinheiten des Bundes vor der Ausarbeitung von Erlassen sowie im Allgemeinen bei Rechtsetzungsfragen mit Bezug zur Digitalisierung.
 
-<sup>13</sup> Es ist zuständig für die Genehmigung von kantonalen Pilotprojekten nach Artikel 401 ZPO.[^7-13]
+[^7b-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5389](https://fedlex.data.admin.ch/eli/oc/2020/933)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-3]: Fassung gemäss Ziff. I 2 der V vom 5. Nov. 2014 (Verschiebung des Bereichs «Sozialhilfe für Auslandschweizerinnen und -schweizer» vom EJPD ins EDA), in Kraft seit 1. Jan. 2015 ([AS 2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)).
-[^7-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute: Art. 381 und 382.
-[^7-5]: Eingefügt durch Ziff. I der V vom 28. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 4. Dez. 2000, in Kraft seit 1. Jan. 2011 ([AS 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
-[^7-7]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^7-8]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^7-9]: Fassung gemäss Ziff. I der V vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 4619](https://fedlex.data.admin.ch/eli/oc/2012/564)).
-[^7-10]: Fassung gemäss Ziff. I der V vom 28. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-11]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7-12]: Eingefügt durch Ziff. II 1 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^7-13]: Eingefügt durch Ziff. II 1 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+#### Art. 7c
+
+**Aufgaben in Beschwerde- und Vorabentscheidungsverfahren**[^7c-1]
+
+<sup>1</sup> Das BJ instruiert Beschwerden, über die der Bundesrat entscheidet, mit Ausnahme von Beschwerden gegen das Departement.
+
+<sup>2</sup> Es ist zu Beschwerden in Zivilsachen (Art. 76 Abs. 2 des Bundesgerichtsgesetzes vom 17. Juni 2005[^7c-2] [BGG]), Strafsachen (Art. 81 Abs. 3 BGG) und öffentlich-rechtlichen Angelegenheiten (Art. 89 Abs. 2 Bst. a BGG) berechtigt.
+
+<sup>3</sup> Es vertritt die Schweiz in den Beschwerdeverfahren vor dem Europäischen Gerichtshof für Menschenrechte sowie vor den Ausschüssen der Vereinten Nationen gegen die Folter, für die Beseitigung der Diskriminierung der Frau, für die Beseitigung der Rassendiskriminierung, gegen das Verschwindenlassen und für die Rechte des Kindes. Es kann dazu Beraterinnen und Berater beiziehen.
+
+<sup>4</sup> Es erarbeitet und verfasst mit Unterstützung der zuständigen Ämter die Stellungnahmen der Schweiz zuhanden des Gerichtshofs der Europäischen Union. Die Einreichung der Stellungnahmen erfolgt unter Einbezug des EDA.
+
+[^7c-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+#### Art. 7d
+
+**Internationale Rechtshilfe und Zusammenarbeit**[^7d-1]
+
+<sup>1</sup> Das BJ stellt eine rasch funktionierende internationale Rechtshilfe in Straf‑, Verwaltungs‑, Zivil- und Handelssachen sicher und entscheidet über Rechtshilfeersuchen, Auslieferungen, Überstellungen sowie über die stellvertretende Strafverfolgung und Strafvollstreckung. Es kann zu diesem Zweck direkt mit ausländischen Vertretungen und Behörden im In- und Ausland kommunizieren, auch mittels diplomatischer Noten.
+
+<sup>2</sup> Es ist zuständig für die Durchführung des Abkommens zwischen der Schweiz und Eurojust vom 27. November 2008[^7d-2].
+
+<sup>3</sup> Es wirkt als Zentralstelle für die Zusammenarbeit mit dem Internationalen Strafgerichtshof gemäss dem Bundesgesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof vom 22. Juni 2001[^7d-3].
+
+<sup>4</sup> Es wirkt als Zentralbehörde des Bundes im Bereich der internationalen Kindesentführungen, des internationalen Kindes- und Erwachsenenschutzes, der internationalen Adoptionen, der internationalen Alimentensachen und der internationalen Rechtshilfe in Zivil- und Handelssachen.
+
+[^7d-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7d-2]: [SR 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
+[^7d-3]: [SR 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+
+#### Art. 7e
+
+**Weitere Aufgaben im Zivil- und Zivilprozessrecht**[^7e-1]
+
+<sup>1</sup> Das BJ vollzieht die Übereinkommen des internationalen Privat- und Zivilprozessrechts, soweit diese nicht in den Zuständigkeitsbereich anderer Bundesämter fallen.
+
+<sup>2</sup> …[^7e-2]
+
+<sup>3</sup> Es ist in nichtstreitigen Fällen zuständig für die Genehmigung von kantonalen Pilotprojekten nach Artikel 401 ZPO.
+
+<sup>4</sup> Es übt die Aufsicht über die Informationsstelle für Konsumkredit gemäss Artikel 23 Absatz 2 und 4 des Konsumkreditgesetzes vom 23. März 2001[^7e-3] aus; vorbehalten bleibt die Zuständigkeit des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten.
+
+[^7e-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: Tritt am 1. Jan. 2025 in Kraft
+[^7e-3]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8
 
-**Besondere Bestimmungen**
+**Besondere Dienststellen**[^8-1]
 
 <sup>1</sup>
 
-Das BJ führt unter anderen:
+Das BJ führt:
 
 - a. das Eidgenössische Amt für das Zivilstandswesen;
-- b. das Eidgenössische Amt für Grundbuch- und Bodenrecht, einschliesslich das Schweizerische Seeschiffsregisteramt[^8-1];
-- c. das Amt für das Handelsregister;
-- d.[^8-2] das Strafregister-Informationssystems VOSTRA unter Mitwirkung anderer Bundesbehörden und der Kantone.
+- b. das Eidgenössische Amt für Grundbuch- und Bodenrecht, einschliesslich des Schweizerischen Seeschiffsregisteramtes;
+- c. das Eidgenössische Amt für das Handelsregister;
+- d. das Strafregister-Informationssystem VOSTRA unter Mitwirkung anderer Bundesbehörden und der Kantone;
+- e. die Dienststelle für die Oberaufsicht über das Schuldbetreibungs- und Konkurswesen.
 
-<sup>2</sup> Ihre Aufgaben und Zuständigkeiten werden in besonderen Erlassen[^8-3] geregelt.
+<sup>2</sup>
 
-<sup>3</sup> Dem BJ administrativ zugeordnet sind die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter und deren Sekretariat.[^8-4]
+Dem BJ administrativ zugeordnet sind:
 
-[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^8-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Fassung gemäss Anhang 10 Ziff. II 7 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^8-3]: [SR 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
-[^8-4]: Eingefügt durch Art. 16 Ziff. 2 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter, in Kraft seit 1. Jan. 2014 ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
+- a. die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter;
+- b. die Beratende Kommission für die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 ### 4. Abschnitt: Bundesamt für Polizei
 

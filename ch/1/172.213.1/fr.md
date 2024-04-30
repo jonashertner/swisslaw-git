@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2023-08-01
+version: 2024-05-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20240501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230801/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (État le 1<sup>er</sup> août 2023)
+du 17 novembre 1999 (État le 1<sup>er</sup> mai 2024)
 
 Le Conseil fédéral suisse,
 
@@ -40,7 +40,7 @@ Le Département fédéral de justice et police (DJFP) poursuit les objectifs sui
 
 - a. sauvegarder la sécurité intérieure et protéger les biens juridiques de la collectivité publique et de la population, notamment par la création de bases juridiques nationales et internationales et par la coordination entre les cantons;
 - b. créer les conditions requises, au niveau du droit fédéral, pour la protection des droits fondamentaux et des droits politiques et pour une justice efficiente;
-- c.[^1-1] créer les bases juridiques et institutionnelles requises pour un essor économique ordonné, pour la protection de la propriété intellectuelle, pour la bonne foi des échanges commerciaux et pour la protection des personnes économiquement faibles;
+- c.[^1-1] créer les bases juridiques et institutionnelles requises pour un essor économique ordonné, pour la protection de la propriété intellectuelle, pour la bonne foi des échanges commerciaux et pour la protection des personnes économiquement faibles, en tenant compte de l’évolution des conditions-cadres, notamment dans le domaine technologique;
 - d. développer une politique migratoire suisse dans le domaine des étrangers et de l’asile, compte tenu d’un équilibre harmonieux entre la population résidante suisse et étrangère, des besoins du marché de l’emploi, de la capacité d’accueil, des engagements de droit international public et de la tradition humanitaire de la Suisse.
 
 <sup>2</sup>
@@ -54,7 +54,7 @@ Les points principaux de l’activité du DFJP sont:
 - e.[^1-3] l’ordre économique: il élabore, si nécessaire après entente avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^1-4], les bases de droit privé en matière de droit des contrats et des entreprises, et de propriété intellectuelle;
 - f.[^1-5] la métrologie: il élabore les bases métrologiques et surveille l’exécution dans les cantons.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 [^1-2]: Abrogée par le ch. I de l’O du 28 juin 2000, avec effet au 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
 [^1-3]: Nouvelle teneur selon le ch. II 2 de l’O du 25 juin 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 [^1-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -141,6 +141,7 @@ L’Office fédéral de la justice (OFJ) est l’autorité compétente et le cen
 - a. créer les conditions juridiques favorables à la cohabitation sociale et au développement économique du pays;
 - b. consolider le système fédéral, notamment dans les domaines des droits de l’homme, de la démocratie et des principes de l’État de droit;
 - c. élaborer des normes adéquates de droit fédéral, compréhensibles et cohérentes, compatibles avec le droit supérieur;
+- c<sup>bis</sup>.[^6-2] développer la législation dans un contexte d’évolution des conditions-cadres, notamment dans le domaine technologique;
 - d. participer à l’instauration d’un ordre mondial pacifique et à l’harmonisation de l’évolution du droit en Europe;
 - e. maintenir et consolider les connaissances juridiques au sein de l’administration fédérale et promouvoir la compréhension du droit.
 
@@ -152,80 +153,118 @@ Dans ce cadre, l’OFJ exerce les fonctions suivantes:
 - b. il suit l’évolution du droit en Suisse et à l’étranger, conseille dûment les autorités compétentes en matière de droit fédéral et de politique juridique et leur présente, en temps utile, des solutions adéquates.
 
 [^6-1]: Nouvelle expression selon le ch. I de l’O du 4 déc. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
+[^6-2]: Introduite par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7
 
-**Tâches**
+**Projets législatifs de l’OFJ**[^7-1]
 
-<sup>1</sup>
+En collaboration avec les autres offices concernés, l’OFJ prépare les actes législatifs et participe à leur exécution ainsi qu’à l’élaboration, l’approbation et la mise en œuvre des instruments internationaux requis dans les domaines suivants:
 
-En collaboration avec d’autres offices compétents, l’OFJ prépare les actes législatifs, participe à leur exécution et à l’élaboration des instruments internationaux requis dans les domaines suivants:
+- a. droit constitutionnel, notamment les règles fondamentales du fédéralisme, de la démocratie et de l’État de droit ainsi que d’autres domaines constitutionnels qui ne ressortissent pas de la compétence d’autres offices fédéraux, y compris, en concertation avec le DFAE, le domaine des droits de l’homme internationaux;
+- b. droit civil, procédure civile et exécution forcée, notamment le droit international privé, le droit international en matière de procédure civile et d’exécution forcée, les normes relatives au registre du commerce, à l’état civil et au registre foncier, mais sans le droit régissant les biens immatériels;
+- c. droit pénal et procédure pénale, notamment le droit pénal des mineurs et la procédure pénale applicable aux mineurs, le droit pénal international, le droit pénal administratif, le droit régissant l’organisation des autorités pénales, le droit relatif au casier judiciaire et l’exécution des peines et des mesures, mais sans le droit pénal militaire et le droit pénal accessoire;
+- d. droit public, dans la mesure où il ne ressortit pas de la compétence d’autres offices fédéraux, notamment le droit relatif à l’organisation et à la procédure des tribunaux fédéraux, à la coopération avec les tribunaux étrangers et internationaux, à la procédure administrative, à la protection générale des données, à la transparence de l’administration et aux infrastructures numériques pour les communications juridiques et le traitement des données dans le domaine judiciaire, la législation sur les jeux d’argent, la législation régissant la profession d’avocat et les prescriptions concernant l’acquisition d’immeubles par des personnes domiciliées à l’étranger, l’aide aux victimes d’infractions et les mesures de coercition à des fins d’assistance et placements extrafamiliaux antérieurs à 1981;
+- e. entraide judiciaire internationale en matière pénale, notamment l’entraide accessoire, l’extradition, le transfèrement, la délégation de la poursuite pénale et l’exécution forcée.
 
-- a. droit constitutionnel, notamment les règles fondamentales du fédéralisme, de la démocratie et de l’État de droit ainsi que d’autres domaines constitutionnels qui ne ressortissent pas de la compétence d’autres offices fédéraux, y compris l’élaboration et la mise en œuvre d’accords en matière de droits de l’homme, ces dernières tâches étant partagées avec le DFAE;
-- b.[^7-1] droit civil, procédure civile et exécution forcée, notamment le droit international privé, le droit international en matière de procédure civile et d’exécution forcée, les normes relatives au registre du commerce, à l’état civil et au registre foncier, ainsi que les prescriptions concernant l’acquisition d’immeubles par des personnes domiciliées à l’étranger; le droit régissant les biens immatériels en est exclu;
-- c.[^7-2] droit pénal et procédure pénale (sauf le droit pénal militaire et le droit pénal accessoire), notamment le droit pénal international et le droit international en matière de procédure pénale et d’exécution forcée, l’exécution des peines et des mesures ainsi que l’aide aux victimes d’infractions;
-- d.[^7-3] organisation et procédure des tribunaux fédéraux, coopération avec les tribunaux étrangers et internationaux, procédure administrative, protection générale des données, droit de la presse, loteries et autres domaines du droit public qui ne sont pas de la compétence d’autres offices fédéraux.
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>2</sup> L’OFJ donne des renseignements juridiques et établit des expertises, dans les domaines énumérés à l’al. 1, à l’intention de l’Assemblée fédérale, du Conseil fédéral et de l’administration fédérale.
+#### Art. 7a
 
-<sup>3</sup> Il examine la constitutionnalité et la légalité de l’ensemble des projets d’actes législatifs, leur conformité et leur compatibilité avec le droit national et international en vigueur et leur exactitude quant au fond ainsi que, en collaboration avec la Chancellerie fédérale, leur pertinence dans la perspective de la technique législative et de la rédaction.
+**Accompagnement législatif et légistique**[^7a-1]
 
-<sup>4</sup> Il développe les principes méthodologiques de l’élaboration des actes législatifs et de l’évaluation des mesures étatiques, notamment dans l’optique de leur efficacité et de leur rentabilité, et veille à ce qu’il existe des possibilités adéquates de perfectionnement.
+<sup>1</sup> L’OFJ examine la constitutionnalité et la légalité de l’ensemble des projets d’actes législatifs, leur conformité et leur compatibilité avec le droit national et international en vigueur et leur exactitude quant au fond ainsi que, en collaboration avec la Chancellerie fédérale, leur pertinence dans la perspective de la technique législative et de la rédaction.
 
-<sup>5</sup> Il élabore les messages relatifs à la garantie des constitutions cantonales et prépare l’approbation des actes législatifs des cantons dans les domaines prévus à l’al. 1.
+<sup>2</sup> Il assure une fonction de coordination et de soutien, en collaboration avec le DFAE, aux offices fédéraux concernés pour les projets législatifs ayant trait au développement des accords d’association à Schengen et Dublin.
 
-<sup>6</sup> Il établit les rapports du Conseil fédéral sur les grâces prévues aux art. 394 et 395 du code pénal (CP)[^7-4].
+<sup>3</sup> Il développe les outils méthodologiques de l’élaboration des actes législatifs et de l’évaluation des mesures étatiques, notamment dans l’optique de leur efficacité et de leur rentabilité et dans la perspective de la transformation numérique. Il veille à ce qu’il existe des possibilités de perfectionnement et une gestion appropriée des connaissances.
 
-<sup>6</sup> *<sup>a</sup>* Il fournit rapidement une entraide judiciaire internationale en matière pénale, administrative, civile et commerciale, examine les demandes d’entraide judiciaire, statue sur les extraditions et le transfèrement et assure la délégation de la poursuite pénale et de l’exécution forcée.[^7-5]
+[^7a-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
-<sup>7</sup> Il est l’autorité centrale de la Confédération en matière d’enlèvement international d’enfants, de protection internationale des mineurs, d’affaires internationales portant sur des contributions d’entretien, d’affaires successorales internationales et d’entraide judiciaire internationale en matière civile ou commerciale.[^7-6]
+#### Art. 7b
 
-<sup>8</sup> Il instruit les recours sur lesquels le Conseil fédéral statue, à l’exception de ceux interjetés contre le DFJP, de ceux portant sur les mesures locales touchant la circulation (art. 3, al. 4, de la LF du 19 déc. 1958 sur la circulation routière[^7-7]), de ceux touchant les votations (art. 81 de la LF du 17 déc. 1976 sur les droits politiques[^7-8]) et de ceux présentés pour violation de traités internationaux touchant la libre circulation et l’établissement (art. 13, al. 1).
+**Soutien aux autorités de la Confédération**[^7b-1]
 
-<sup>9</sup> Il représente la Suisse dans les procédures de recours devant la Cour européenne des droits de l’homme et les Comités des Nations Unies contre la torture, pour l’élimination de la discrimination à l’égard des femmes et pour l’élimination de la discrimination raciale.[^7-9] À cette fin, il peut inviter des experts.[^7-10]
+<sup>1</sup> L’OFJ donne des renseignements juridiques et établit des expertises, dans les domaines énumérés à l’art. 7, à l’intention de l’Assemblée fédérale, du Conseil fédéral et de l’administration fédérale.
 
-<sup>10</sup> Il exécute les conventions relatives au droit international privé et au droit international de procédure civile, sous réserve de la compétence d’autres offices fédéraux.
+<sup>2</sup> Il élabore les messages relatifs à la garantie des constitutions cantonales et prépare l’approbation des actes législatifs des cantons dans les domaines prévus à l’art. 7.
 
-<sup>11</sup> Il gère un organe responsable du traitement électronique des données juridiques.
+<sup>3</sup> Il établit les rapports du Conseil fédéral sur les grâces prévues aux art. 381 et 382 du code pénal (CP)[^7b-2].
 
-<sup>12</sup> Il prépare les formulaires pour les actes du tribunal et des parties conformément au code de procédure civile du 19 décembre 2008 (CPC)[^7-11].[^7-12]
+<sup>4</sup> Il conseille les unités administratives de la Confédération en amont de l’élaboration de projets législatifs et pour les questions générales concernant la législation qui ont un rapport avec la transformation numérique.
 
-<sup>13</sup> Il a la compétence d’approuver les projets pilotes des cantons prévus à l’art. 401 CPC.[^7-13]
+[^7b-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5389](https://fedlex.data.admin.ch/eli/oc/2020/933)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-3]: Nouvelle teneur selon le ch. I 2 de l’O du 5 nov. 2014 (Transfert de l’unité «Aide sociale aux Suisse de l’étranger» du DFJP et DFAE), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)).
-[^7-4]: RS **311****.****0**. Actuellement: aux art. 381 et 382.
-[^7-5]: Introduit par le ch. I de l’O du 28 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
-[^7-7]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^7-8]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^7-9]: Nouvelle teneur selon le ch. I de l’O du 29 août 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4619](https://fedlex.data.admin.ch/eli/oc/2012/564)).
-[^7-10]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^7-11]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7-12]: Introduit par le ch. II 1 de l’O du 18 juin 2010 portant adaptation d’O au CPC, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^7-13]: Introduit par le ch. II 1 de l’O du 18 juin 2010 portant adaptation d’O au CPC, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+#### Art. 7c
+
+**Tâches en matière de recours et de procédures préjudicielles**[^7c-1]
+
+<sup>1</sup> L’OFJ instruit les recours sur lesquels le Conseil fédéral statue, à l’exception de ceux interjetés contre le DFJP.
+
+<sup>2</sup> Il a qualité pour recourir contre des décisions dans des causes civiles (art. 76, al. 2, de la loi du 17 juin 2005 sur le Tribunal fédéral [LTF][^7c-2]) et pénales (art. 81, al. 3, LTF) ainsi que dans des affaires de droit public (art. 89, al. 2, let. a, LTF).
+
+<sup>3</sup> Il représente la Suisse dans les procédures de recours devant la Cour européenne des droits de l’homme et les Comités des Nations Unies contre la torture, pour l’élimination de la discrimination à l’égard des femmes, pour l’élimination de la discrimination raciale, contre les disparitions forcées et pour les droits de l’enfant. À cette fin, il peut inviter des experts.
+
+<sup>4</sup> Il prépare et rédige, en collaboration avec les offices compétents, les avis de la Suisse à l’intention de la Cour de justice de l’Union européenne. Les conclusions sont soumises à la Cour en concertation avec le DFAE.
+
+[^7c-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+#### Art. 7d
+
+**Entraide judiciaire et coopération internationales**[^7d-1]
+
+<sup>1</sup> L’OFJ fournit rapidement une entraide judiciaire internationale en matière pénale, administrative, civile et commerciale, examine les demandes d’entraide judiciaire, statue sur les extraditions et le transfèrement et assure la délégation de la poursuite pénale et de l’exécution forcée. À cette fin, il peut communiquer directement avec des représentations étrangères et avec des autorités en Suisse et à l’étranger, aussi par la voie de l’échange de notes diplomatiques.
+
+<sup>2</sup> Il exécute l’accord du 27 novembre 2008 entre la Suisse et Eurojust[^7d-2].
+
+<sup>3</sup> Il est le service central suisse chargé de la coopération avec la Cour pénale internationale conformément à la loi fédérale du 22 juin 2001 sur la coopération avec la Cour pénale internationale[^7d-3].
+
+<sup>4</sup> Il est l’autorité centrale de la Confédération en matière d’enlèvement international d’enfants, de protection internationale des enfants et des adultes, d’adoption internationale, d’affaires internationales portant sur des contributions d’entretien et d’entraide judiciaire internationale en matière civile ou commerciale.
+
+[^7d-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
+[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+
+#### Art. 7e
+
+**Autres tâches relevant du droit civil et du droit de la procédure civile**[^7e-1]
+
+<sup>1</sup> L’OFJ exécute les conventions relatives au droit international privé et au droit international de procédure civile, sous réserve de la compétence d’autres offices fédéraux.
+
+<sup>2</sup> ...[^7e-2]
+
+<sup>3</sup> Il a la compétence d’approuver, dans les cas non litigieux, les projets pilotes des cantons prévus à l’art. 401 CPC.
+
+<sup>4</sup> Il exerce la surveillance du centre de renseignements sur le crédit à la consommation conformément à l’art. 23, al. 2 et 4, de la loi fédérale du 23 mars 2001 sur le crédit à la consommation[^7e-3]; les compétences du Préposé fédéral à la protection des données et à la transparence demeurent réservées.
+
+[^7e-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: En vigueur le 1<sup>er</sup> janv. 2025.
+[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
 
 #### Art. 8
 
-**Dispositions particulières**
+**Services spécifiques**[^8-1]
 
 <sup>1</sup>
 
-L’OFJ gère entre autres:
+L’OFJ gère:
 
 - a. l’Office fédéral de l’état civil;
 - b. l’Office fédéral chargé du droit du registre foncier et du droit foncier, y compris l’Office du registre des navires suisses;
-- c. l’Office du registre du commerce;
-- d.[^8-1] le casier judiciaire informatique VOSTRA, en collaboration avec d’autres autorités fédérales et avec les cantons.
+- c. l’Office fédéral du registre du commerce;
+- d. le casier judiciaire informatique VOSTRA, en collaboration avec d’autres autorités fédérales et avec les cantons;
+- e. le Service chargé de la haute surveillance sur la poursuite pour dettes et la faillite.
 
-<sup>2</sup> Leurs tâches et compétences sont régies par des actes législatifs particuliers[^8-2].
+<sup>2</sup>
 
-<sup>3</sup> La Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie et son secrétariat sont rattachés administrativement à l’OFJ.[^8-3]
+Sont rattachés administrativement à l’OFJ:
 
-[^8-1]: Introduite par le ch. I de l’O du 28 juin 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Nouvelle teneur selon l’annexe 10 ch. II 7 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
-[^8-3]: Introduit par l’art. 16 ch. 2 de l’O du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447).)
+- a. la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie;
+- b. la Commission consultative sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 ### Section 4 Office fédéral de la police
 
@@ -421,7 +460,11 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 - c. il exécute les mesures de droit des étrangers et met au point, dans ce domaine, le contrôle à la frontière;
 - d. il assure la surveillance de l’application du droit des étrangers dans les cantons;
 - e. il traite toutes les questions relevant de la nationalité suisse.
-- [tab] <sup>3</sup> Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines de l’asile et des réfugiés, le SEM exerce les fonctions suivantes:
+
+<sup>3</sup>
+
+Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines de l’asile et des réfugiés, le SEM exerce les fonctions suivantes:
+
 - a. il décide de l’octroi ou du rejet de l’asile, de l’octroi de la protection provisoire, de l’admission provisoire et du renvoi de Suisse;
 - b. il assure la coordination, pour ce qui est des questions relevant du domaine de l’asile ou des réfugiés, au sein de l’administration fédérale, avec les cantons et les organisations suisses et internationales;
 - c. il prend part aux efforts d’harmonisation de la politique internationale suivie en matière d’asile et de réfugiés et à sa mise en œuvre, en accord avec le DFAE;
