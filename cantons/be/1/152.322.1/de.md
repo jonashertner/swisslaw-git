@@ -1,40 +1,39 @@
 ---
 canton: BE
 number: "152.322.1"
-title: Verordnung über die Organisation und Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
+title: Verordnung über die Organisation und die Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
 short: OSDV
 language: de
-version: 2023-01-01
-valid_until: 2024-04-30
-version_adopted: 2022-11-16
+version: 2024-05-01
+version_adopted: 2024-03-13
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2727/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Organisation und Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
+# Verordnung über die Organisation und die Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
 
 (OSDV)
 
-vom 09.09.2009 (Stand 01.01.2023)
+vom 09.09.2009 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 14 Absatz 1 und Artikel 17 Absatz 6 des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^ingress-1], Artikel 6a Absatz 4 und Artikel 6b des Gesetzes vom 28. März 2006 über die Regierungsstatthalterinnen und Regierungsstatthalter (RStG)[^ingress-2], Artikel 124 Absatz 3 des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^ingress-3], Artikel 10 Absatz 3 des Einführungsgesetzes vom 16. März 1995 zum Bundesgesetz über Schuldbetreibung und Konkurs (EGSchKG)[^ingress-4], Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-5] sowie Artikel 77 Absatz 1 Buchstabe r und Artikel 78 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^ingress-6],
+gestützt auf Artikel 14 Absatz 1 und Artikel 17 Absatz 6 des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^ingress-1], Artikel 6a Absatz 4 und Artikel 6b des Gesetzes vom 28. März 2006 über die Regierungsstatthalterinnen und Regierungsstatthalter (RStG)[^ingress-2], Artikel 124 Absatz 3 des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^ingress-3], Artikel 10 Absatz 3 des Einführungsgesetzes vom 16. März 1995 zum Bundesgesetz über Schuldbetreibung und Konkurs (EGSchKG)[^ingress-4], Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-5] sowie Artikel 70 Absatz 2 und 3 des Finanzhaushaltgesetzes vom 15. Juni 2022 (FHG)[^ingress-6],
 
 auf Antrag der Justiz-, Gemeinde- und Kirchendirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 213.316
-[^ingress-2]: BSG 152.321
-[^ingress-3]: BSG 211.1
-[^ingress-4]: BSG 281.1
-[^ingress-5]: BSG 153.01
-[^ingress-6]: BSG 620.0
+[^ingress-1]: BSG [213.316](https://www.belex.sites.be.ch/data/213.316/de)
+[^ingress-2]: BSG [152.321](https://www.belex.sites.be.ch/data/152.321/de)
+[^ingress-3]: BSG [211.1](https://www.belex.sites.be.ch/data/211.1/de)
+[^ingress-4]: BSG [281.1](https://www.belex.sites.be.ch/data/281.1/de)
+[^ingress-5]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
+[^ingress-6]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 1 Allgemeines
 
@@ -92,7 +91,7 @@ beschliesst:
 
 <sup>2</sup> Für die ordentlichen Mitglieder der Geschäftsleitung der Betreibungs- und Konkursämter bestimmt die Geschäftsleitung Ersatzmitglieder. Diese sind durch die Direktion für Inneres und Justiz zu bestätigen.
 
-<sup>2a</sup> Die Geschäftsleitung der Grundbuchämter besteht aus der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts sowie den Vorsteherinnen und Vorstehern der regionalen Grundbuchämter. Die Aufgaben und Kompetenzen sowie die Organisation der Geschäftsleitung richten sich nach dem Amtsreglement. Über die Sitzungen ist ein Ergebnisprotokoll zu führen.
+<sup>2a</sup> Die Geschäftsleitung des kantonalen Grundbuchamts besteht aus der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts, den geschäftsleitenden Grundbuchverwalterinnen und Grundbuchverwaltern, der Stabsleiterin oder dem Stabsleiter sowie der Notariatsinspektorin oder dem Notariatsinspektor. Die Aufgaben und Kompetenzen sowie die Organisation der Geschäftsleitung richten sich nach dem Amtsreglement. Über die Sitzungen ist ein Ergebnisprotokoll zu führen.
 
 <sup>3</sup> …
 
@@ -108,7 +107,7 @@ beschliesst:
 
 <sup>2</sup> Die Direktion für Inneres und Justiz ernennt die Vorsitzende oder den Vorsitzenden sowie die stellvertretende Vorsitzende oder den stellvertretenden Vorsitzenden der Geschäftsleitung der Betreibungs- und Konkursämter für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die Geschäftsleitung hat ein Vorschlagsrecht.
 
-<sup>2a</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts ist Vorsitzende oder Vorsitzender der Geschäftsleitung der Grundbuchämter.
+<sup>2a</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts ist Vorsitzende oder Vorsitzender der Geschäftsleitung des kantonalen Grundbuchamts.
 
 <sup>3</sup> Für den Vorsitz der Geschäftsleitung der KESB und den Vorsitz der Geschäftsleitung der Regierungsstatthalterinnen und Regierungsstatthalter gilt Artikel 17 KESG bzw. Artikel 6a RStG.
 
@@ -184,12 +183,12 @@ beschliesst:
 
 **Begründung und Beendigung der Arbeitsverhältnisse**
 
-<sup>1</sup> Unter Vorbehalt von Artikel 20 Absatz 2 sind für die Begründung und Beendigung der Arbeitsverhältnisse zuständig
+<sup>1</sup> Unter Vorbehalt von Artikel 20 Absatz 2 sind für die Begründung und die Beendigung der Arbeitsverhältnisse zuständig
 
 - a die Ausschüsse der Geschäftsleitungen für die Mitarbeiterinnen und Mitarbeiter der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter,
 - b die Geschäftsleitung der Betreibungs- und Konkursämter für die Mitarbeiterinnen und Mitarbeiter der Betreibungs- und Konkursämter,
 - c die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts für die Mitarbeiterinnen und Mitarbeiter der Stabsstelle sowie für die Mitarbeiterinnen und Mitarbeiter des für das Notariatswesen zuständigen Bereichs,
-- d die Vorsteherinnen und Vorsteher der regionalen Grundbuchämter für ihre jeweiligen Mitarbeiterinnen und Mitarbeiter.
+- d die geschäftsleitenden Grundbuchverwalterinnen und Grundbuchverwalter für ihre jeweiligen Mitarbeiterinnen und Mitarbeiter, wobei die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts zustimmen muss.
 
 <sup>2</sup> …
 
@@ -234,7 +233,7 @@ beschliesst:
 
 <sup>4</sup> Die oder der Vorsitzende der Geschäftsleitung der Betreibungs- und Konkursämter führt mit den ordentlichen Mitgliedern der Geschäftsleitung das Mitarbeitergespräch.
 
-<sup>5</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts führt mit den Vorsteherinnen und Vorstehern der regionalen Grundbuchämter, den Mitarbeiterinnen und Mitarbeitern der Stabsstelle sowie den Mitarbeiterinnen und Mitarbeitern des für das Notariatswesen zuständigen Bereichs das Mitarbeitergespräch.
+<sup>5</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts führt mit den geschäftsleitenden Grundbuchverwalterinnen und Grundbuchverwaltern, der Stabsleiterin oder dem Stabsleiter sowie der Notariatsinspektorin oder dem Notariatsinspektor das Mitarbeitergespräch. Die Stabsleiterin oder der Stabsleiter und die Notariatsinspektorin oder der Notariatsinspektor führen das Mitarbeitergespräch jeweils mit ihren Mitarbeiterinnen und Mitarbeitern.
 
 ### 3.2 Finanzen
 
@@ -259,7 +258,7 @@ beschliesst:
 
 <sup>2</sup> Ausgaben, welche die in Absatz 1 genannten Grenzen übersteigen, sind dem für die Bewilligung zuständigen Organ vorzulegen.
 
-<sup>3</sup> Die Geschäftsleitungen und Ausschüsse sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts können die Befugnisse gemäss Absatz 1 an einzelne Personen mit Führungsfunktionen in den Regionen oder den Verwaltungskreisen generell oder im Einzelfall delegieren. Solche Delegationen sind der Direktion für Inneres und Justiz zur Kenntnis zu bringen.
+<sup>3</sup> Die Geschäftsleitungen und Ausschüsse sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts können die Befugnisse gemäss Absatz 1 an einzelne Personen mit Führungsfunktionen in den Regionen oder den Verwaltungskreisen sowie an die Stabsleiterin oder den Stabsleiter generell oder im Einzelfall delegieren. Solche Delegationen sind der Direktion für Inneres und Justiz zur Kenntnis zu bringen.
 
 ### 3.3 Informatik
 

@@ -4,13 +4,12 @@ number: "152.322.1"
 title: "Ordonnance sur l'organisation et le pilotage de l'administration décentralisée de la Direction de l'intérieur et de la justice *"
 short: OOPAD
 language: fr
-version: 2023-01-01
-valid_until: 2024-04-30
-version_adopted: 2022-11-16
+version: 2024-05-01
+version_adopted: 2024-03-13
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2727/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3014/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,22 +18,22 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2727/pdf_file"
 
 (OOPAD)
 
-du 09.09.2009 (état au 01.01.2023)
+du 09.09.2009 (état au 01.05.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 14, alinéa 1 et 17, alinéa 6 de la loi du 1<sup>er</sup> février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^ingress-1], 6a, alinéa 4 et 6b de la loi du 28 mars 2006 sur les préfets et les préfètes (LPr)[^ingress-2], 124, alinéa 3 de la loi du 28 mai 1911 sur l’introduction du Code civil suisse (LiCCS)[^ingress-3], 10, alinéa 3 de la loi du 16 mars 1995 portant introduction de la loi fédérale sur la poursuite pour dettes et la faillite (LiLP)[^ingress-4], 19, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-5] et 77, alinéa 1, lettre r et 78 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^ingress-6],
+vu les articles 14, alinéa 1 et 17, alinéa 6 de la loi du 1<sup>er</sup> février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^ingress-1], 6a, alinéa 4 et 6b de la loi du 28 mars 2006 sur les préfets et les préfètes (LPr)[^ingress-2], 124, alinéa 3 de la loi du 28 mai 1911 sur l’introduction du Code civil suisse (LiCCS)[^ingress-3], 10, alinéa 3 de la loi du 16 mars 1995 portant introduction de la loi fédérale sur la poursuite pour dettes et la faillite (LiLP)[^ingress-4], 19, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-5] et 70, alinéas 2 et 3 de la loi du 15 juin 2022 sur les finances (LFin)[^ingress-6],
 
 sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
 
 arrête:
 
-[^ingress-1]: RSB 213.316
-[^ingress-2]: RSB 152.321
-[^ingress-3]: RSB 211.1
-[^ingress-4]: RSB 281.1
-[^ingress-5]: RSB 153.01
-[^ingress-6]: RSB 620.0
+[^ingress-1]: RSB [213.316](https://www.belex.sites.be.ch/data/213.316/fr)
+[^ingress-2]: RSB [152.321](https://www.belex.sites.be.ch/data/152.321/fr)
+[^ingress-3]: RSB [211.1](https://www.belex.sites.be.ch/data/211.1/fr)
+[^ingress-4]: RSB [281.1](https://www.belex.sites.be.ch/data/281.1/fr)
+[^ingress-5]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+[^ingress-6]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 ## 1 Généralités
 
@@ -62,11 +61,11 @@ arrête:
 
 **Bureaux du registre foncier**
 
-<sup>1</sup> Les bureaux du registre foncier se subdivisent en un bureau cantonal et en bureaux régionaux. Le bureau cantonal du registre foncier est administré par un directeur exécutif ou une directrice exécutive et dispose d'un état-major et d'un organe compétent dans le domaine du notariat.
+<sup>1</sup> Les bureaux du registre foncier se subdivisent en un bureau cantonal et en bureaux régionaux. Le Bureau cantonal du registre foncier est administré par une directrice exécutive ou un directeur exécutif et dispose d'un état-major et d'un organe compétent dans le domaine du notariat.
 
-<sup>2</sup> Le directeur exécutif ou la directrice exécutive a la responsabilité de représenter les bureaux du registre foncier et d’assurer les relations avec les tiers. Il lui appartient notamment d’attribuer de manière judicieuse les ressources financières et les ressources humaines disponibles aux différentes unités.
+<sup>2</sup> La directrice exécutive ou le directeur exécutif a la responsabilité de représenter les bureaux du registre foncier et d’assurer les relations avec les tiers. Il lui appartient notamment d’attribuer de manière judicieuse les ressources financières et les ressources humaines disponibles aux différentes unités.
 
-<sup>3</sup> Le bureau cantonal du registre foncier soutient l'Office juridique pour les questions législatives. Au surplus, l'organisation et les compétences de chacune des unités sont régies par le règlement des bureaux du registre foncier.
+<sup>3</sup> Le Bureau cantonal du registre foncier soutient l'Office juridique pour les questions législatives. Au surplus, l'organisation et les compétences de chacune des unités sont régies par le règlement des bureaux du registre foncier.
 
 #### Art. 3
 
@@ -88,11 +87,11 @@ arrête:
 
 **Directoires**
 
-<sup>1</sup> Le directoire des offices des poursuites et des faillites est composé des chefs et cheffes des offices régionaux. Si un office est dirigé par plusieurs personnes, une seule d’entre elles peut être membre ordinaire du directoire.
+<sup>1</sup> Le directoire des offices des poursuites et des faillites est composé des cheffes et chefs des offices régionaux. Si un office est dirigé par plusieurs personnes, une seule d’entre elles peut être membre ordinaire du directoire.
 
-<sup>2</sup> Le directoire des offices des poursuites et des faillites nomme des suppléants ou suppléantes à leurs membres ordinaires. La Direction de l'intérieur et de la justice confirme ces nominations.
+<sup>2</sup> Le directoire des offices des poursuites et des faillites nomme des suppléantes ou suppléants à leurs membres ordinaires. La Direction de l'intérieur et de la justice confirme ces nominations.
 
-<sup>2a</sup> Le directoire des bureaux du registre foncier est composé du directeur exécutif ou de la directrice exécutive du bureau cantonal du registre foncier, ainsi que des conservateurs et conservatrices en chef des bureaux régionaux du registre foncier. Les tâches, les compétences et l'organisation du directoire sont régies par le règlement des bureaux du registre foncier. Il convient de tenir un procès-verbal des résultats des séances.
+<sup>2a</sup> Le directoire du Bureau cantonal du registre foncier est composé de la directrice exécutive ou du directeur exécutif du bureau cantonal, de la conservatrice ou du conservateur en chef de chaque bureau régional du registre foncier, de la cheffe ou du chef de l’état-major ainsi que de l’inspectrice ou de l’inspecteur du notariat. Les tâches, les compétences et l'organisation du directoire sont régies par le règlement du Bureau cantonal du registre foncier. Il convient de tenir un procès-verbal des résultats des séances.
 
 <sup>3</sup> …
 
@@ -104,15 +103,15 @@ arrête:
 
 **Présidence du directoire**
 
-<sup>1</sup> Un président ou une présidente est à la tête de chaque directoire.
+<sup>1</sup> Une présidente ou un président est à la tête de chaque directoire.
 
-<sup>2</sup> La Direction de l'intérieur et de la justice nomme pour une période de deux ans le président ou la présidente du directoire des offices des poursuites et des faillites ainsi que ses suppléants ou suppléantes. Le mandat est renouvelable. Le directoire a un droit de proposition.
+<sup>2</sup> La Direction de l'intérieur et de la justice nomme pour une période de deux ans la présidente ou le président du directoire des offices des poursuites et des faillites ainsi que ses suppléantes ou suppléants. Le mandat est renouvelable. Le directoire a un droit de proposition.
 
-<sup>2a</sup> Le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier fait office de président ou présidente du directoire des bureaux du registre foncier.
+<sup>2a</sup> La directrice exécutive ou le directeur exécutif du Bureau cantonal du registre foncier préside le directoire du Bureau cantonal du registre foncier.
 
 <sup>3</sup> Les dispositions de l’article 17 LPEA s’appliquent à la présidence du directoire des APEA et celles de l’article 6a LPr à la présidence du directoire des préfectures.
 
-<sup>4</sup> Sous réserve d'une autre réglementation, le président ou la présidente a la responsabilité de représenter le directoire et d’assurer les relations avec les tiers.
+<sup>4</sup> Sous réserve d'une autre réglementation, la présidente ou le président a la responsabilité de représenter le directoire et d’assurer les relations avec les tiers.
 
 #### Art. 6
 
@@ -186,10 +185,10 @@ arrête:
 
 <sup>1</sup> Sous réserve de l’article 20, alinéa 2, la compétence pour conclure et résilier les rapports de travail relève
 
-- a des comités des directoires pour les collaborateurs et les collaboratrices des APEA et des préfectures;
-- b du directoire des offices des poursuites et des faillites pour les collaborateurs et les collaboratrices de ces unités;
-- c du directeur exécutif ou de la directrice exécutive du bureau cantonal du registre foncier pour les collaborateurs et les collaboratrices de l'état-major et de l'organe compétent dans le domaine du notariat;
-- d des conservateurs et conservatrices en chef des bureaux régionaux du registre foncier pour les collaborateurs et les collaboratrices de ces unités.
+- a des comités des directoires pour les collaboratrices et les collaborateurs des APEA et des préfectures;
+- b du directoire des offices des poursuites et des faillites pour les collaboratrices et les collaborateurs de ces unités;
+- c de la directrice exécutive ou du directeur exécutif du Bureau cantonal du registre foncier pour les collaboratrices et les collaborateurs de l'état-major et de l'organe compétent dans le domaine du notariat;
+- d de la conservatrice ou du conservateur en chef de chaque bureau régional du registre foncier pour leurs collaboratrices et leurs collaborateurs, la directrice exécutive ou le directeur exécutif du Bureau cantonal du registre foncier devant donner son accord.
 
 <sup>2</sup> …
 
@@ -224,17 +223,17 @@ arrête:
 
 **Entretien de bilan et entretien d’évaluation périodique**
 
-<sup>1</sup> Le directeur ou la directrice mène une fois par an un entretien de bilan avec les préfets et les préfètes.
+<sup>1</sup> La directrice ou le directeur mène une fois par an un entretien de bilan avec les préfètes et les préfets.
 
-<sup>1a</sup> Il ou elle mène l’entretien d’évaluation périodique avec le président ou la présidente du directoire des offices des poursuites et des faillites et le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier.
+<sup>1a</sup> Elle ou il mène l’entretien d’évaluation périodique avec la présidente ou le président du directoire des offices des poursuites et des faillites et la directrice exécutive ou le directeur exécutif du Bureau cantonal du registre foncier.
 
-<sup>2</sup> Le chef ou la cheffe de l’OM ou une personne qu’il ou elle aura désignée mène l’entretien d’évaluation périodique avec les présidents et présidentes des APEA.
+<sup>2</sup> La cheffe ou le chef de l’OM ou une personne qu’elle ou il aura désignée mène l’entretien d’évaluation périodique avec les présidentes et présidents des APEA.
 
 <sup>3</sup> …
 
-<sup>4</sup> Le président ou la présidente du directoire des offices des poursuites et des faillites mène l’entretien d’évaluation périodique avec les membres ordinaires du directoire.
+<sup>4</sup> La présidente ou le président du directoire des offices des poursuites et des faillites mène l’entretien d’évaluation périodique avec les membres ordinaires du directoire.
 
-<sup>5</sup> Le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier mène l'entretien d'évaluation périodique avec les conservateurs et conservatrices en chef des bureaux régionaux du registre foncier, avec les collaborateurs et les collaboratrices de l'état-major ainsi qu'avec les collaborateurs et les collaboratrices de l'organe compétent dans le domaine du notariat.
+<sup>5</sup> La directrice exécutive ou le directeur exécutif du Bureau cantonal du registre foncier mène l’entretien d’évaluation périodique avec la conservatrice ou le conservateur en chef de chaque bureau régional du registre foncier, la cheffe ou le chef de l’état-major ainsi qu’avec l’inspectrice ou l’inspecteur du notariat. La cheffe ou le chef de l’état-major et l’inspectrice ou l’inspecteur du notariat mènent l’entretien d’évaluation périodique avec leurs collaboratrices et leurs collaborateurs.
 
 ### 3.2 Finances
 
@@ -259,7 +258,7 @@ arrête:
 
 <sup>2</sup> Les dépenses qui dépassent les montants fixés à l’alinéa 1 doivent être soumises à l’organe compétent en matière d’autorisation.
 
-<sup>3</sup> Les directoires et les comités ainsi que le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier peuvent déléguer les compétences énumérées à l’alinéa 1 à des cadres des régions ou des arrondissements administratifs, d’une manière générale ou au cas par cas. La Direction de l'intérieur et de la justice doit être informée de telles délégations de compétences.
+<sup>3</sup> Les directoires et les comités ainsi que la directrice exécutive ou le directeur exécutif du Bureau cantonal du registre foncier peuvent déléguer les compétences énumérées à l’alinéa 1 à des cadres des régions ou des arrondissements administratifs, ainsi qu’à la cheffe ou au chef de l’état-major, d’une manière générale ou au cas par cas. La Direction de l'intérieur et de la justice doit être informée de telles délégations de compétences.
 
 ### 3.3 Informatique
 
