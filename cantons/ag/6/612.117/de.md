@@ -4,13 +4,12 @@ number: "612.117"
 title: Verordnung über die Immobilien des Kantons
 short: ImmoV
 language: de
-version: 2023-07-01
-valid_until: 2024-04-30
-version_adopted: 2023-06-07
+version: 2024-05-01
+version_adopted: 2024-03-27
 adopted: 2023-03-08
 in_force: 2023-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.117"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3330/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3330/pdf_file"
 
 (ImmoV)
 
-Vom 08.03.2023 (Stand 01.07.2023)
+Vom 08.03.2023 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -145,7 +144,7 @@ beschliesst:
 
 <sup>1</sup> Immobilien Aargau erstellt in Zusammenarbeit mit den Nutzerdepartementen Standards für vergleichbare Immobilien, Nutzungsarten oder Leistungsbereiche insbesondere zu den Kategorien Flächen, Bau und Betrieb.
 
-<sup>2</sup> Die Immobilienstandards werden in Anhang 1 geregelt.
+<sup>2</sup> Die Immobilienstandards werden in den Anhängen 1 und 1a ff. geregelt.
 
 ### 4.2 Immobilienplanung
 
