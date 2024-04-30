@@ -4,11 +4,10 @@ number: "170.4"
 title: Gesetz über die Information und den Datenschutz (IDG)
 short: IDG
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2024-05-01
+version: "2024-05-01"
+nachtrag: "125"
 adopted: 2007-02-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_4-2007_02_12-2008_10_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_4-2007_02_12-2008_10_01-125.html"
 text: pdf
 ---
 
@@ -60,7 +59,7 @@ beschliesst:
 
 **1**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Soweit die Gerichte diesem Gesetz unterstehen, stehen der oder dem Beauftragten für den Datenschutz die Befugnisse gemäss § 10 Abs. 2, § 12 a Abs. 1 und 2, § 34 lit. c, d und f sowie §§ 35–36 a nicht zu.
 
@@ -147,7 +146,7 @@ Das öffentliche Organ gestaltet den Umgang mit Informationen so, dass es rasch,
 
 **3**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Die Massnahmen richten sich nach den folgenden Schutzzielen:
 
@@ -237,7 +236,7 @@ Das öffentliche Organ gestaltet den Umgang mit Informationen so, dass es rasch,
 
 **5**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 [^11-1]: Fassung gemäss G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
 [^11-2]: Eingefügt durch G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
@@ -334,7 +333,7 @@ An Empfängerinnen und Empfänger, die dem Europarats-Übereinkommen zum Schutz 
 
 **7**
 
-1.10. 22 - 118 § 22. <sup>1</sup> Die betroffene Person kann die Bekanntgabe ihrer Personendaten an Private sperren lassen, wenn das öffentliche Organ aufgrund einer spezialgesetzlichen Bestimmung Personendaten voraussetzungslos bekannt geben kann.
+- 1\. 7. 24 - 125 § 22. <sup>1</sup> Die betroffene Person kann die Bekanntgabe ihrer Personendaten an Private sperren lassen, wenn das öffentliche Organ aufgrund einer spezialgesetzlichen Bestimmung Personendaten voraussetzungslos bekannt geben kann.
 
 **Sperren von Personendaten**
 
@@ -414,50 +413,50 @@ An Empfängerinnen und Empfänger, die dem Europarats-Übereinkommen zum Schutz 
 
 **9**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 [^28-1]: Fassung gemäss G vom 15. November 2021 (OS 77, 420; ABl 2020-12-18). In Kraft seit 1. Oktober 2022.
 
 ### VII. Beauftragte oder Beauftragter für Datenschutz
 
-[^hVIIBeauftragteode-1]: Fassung gemäss G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
-
-#### § 30
-
 **Stellung und Lohn**
 
-<sup>1</sup> Der Kantonsrat wählt eine Beauftragte oder einen Beauftragten für den Datenschutz auf eine Amtsdauer von vier Jahren.[^hVIIBeauftragteode-1]
+§ 30.[^hVIIBeauftragteode-1] <sup>1</sup> Der Kantonsrat wählt eine Beauftragte oder einen Beauftragten für den Datenschutz auf eine Amtsdauer von vier Jahren.[^hVIIBeauftragteode-2]
 
-<sup>2</sup> Der Lohn der oder des Beauftragten für den Datenschutz entspricht 83% des Höchstbetrags der obersten Lohnklasse der kantonalen Angestellten.
+<sup>2</sup> Der Lohn der oder des Beauftragten für den Datenschutz entspricht dem Höchstbetrag der Lohnklasse 27 der kantonalen Angestellten.
 
 <sup>3</sup> Die oder der Beauftragte für den Datenschutz ist unabhängig. Sie oder er ist administrativ der Geschäftsleitung des Kantonsrates zugeordnet.
 
+<sup>4</sup> Der Kantonsrat kann die Beauftragte oder den Beauftragten für den Datenschutz bei schwerwiegenden Amtspflichtverletzungen oder bei fachlichem Ungenügen auf Antrag seiner Geschäftsleitung vor Ablauf der Amtsdauer abwählen. Für diesen Beschluss ist eine Mehrheit von zwei Dritteln der Mitglieder des Kantonsrates erforderlich.
+
 **Personal**
 
-§ 31.[^30-1] <sup>1</sup> Das Personalrecht des Kantons findet auf die Beauftragte oder den Beauftragten und sein Personal Anwendung. Die Bestimmungen dieses Gesetzes bleiben vorbehalten.
+§ 31.[^hVIIBeauftragteode-3] <sup>1</sup> Das Personalrecht des Kantons findet auf die Beauftragte oder den Beauftragten und sein Personal Anwendung. Die Bestimmungen dieses Gesetzes bleiben vorbehalten.
 
-<sup>2</sup> Die oder der Beauftragte ist für die Einstellungen und Beförderungen seines Personals im Rahmen des vom Kantonsrat genehmigten Budgets zuständig.[^30-2]
+<sup>2</sup> Die oder der Beauftragte ist für die Einstellungen und Beförderungen seines Personals im Rahmen des vom Kantonsrat genehmigten Budgets zuständig.[^hVIIBeauftragteode-4]
 
-<sup>3</sup> . . .[^30-3]
+<sup>3</sup> . . .[^hVIIBeauftragteode-5]
 
 **Haushaltführung, Controlling und Rechnungslegung**
 
-§ 32.[^30-2] <sup>1</sup> Die oder der Beauftragte ist dem Gesetz über Controlling und Rechnungslegung (CRG)[^30-4] und den Ausführungserlassen des Regierungsrates zu diesem Gesetz unterstellt.
+§ 32.[^hVIIBeauftragteode-4] <sup>1</sup> Die oder der Beauftragte ist dem Gesetz über Controlling und Rechnungslegung (CRG)[^hVIIBeauftragteode-6] und den Ausführungserlassen des Regierungsrates zu diesem Gesetz unterstellt.
 
-<sup>2</sup> Sie oder er ist bezüglich Ausgabenkompetenzen dem Regierungsrat gleichgestellt. §§ 19–25 CRG[^30-4] gelten sinngemäss.
+<sup>2</sup> Sie oder er ist bezüglich Ausgabenkompetenzen dem Regierungsrat gleichgestellt. §§ 19–25 CRG[^hVIIBeauftragteode-6] gelten sinngemäss.
 
 <sup>3</sup> Die oder der Beauftragte führt eine eigene Rechnung. Sie oder er unterbreitet dem Kantonsrat jährlich eine Übersicht über die Entwicklung der Leistungen und Finanzen, einen Budgetentwurf sowie die Rechnung.
 
 **Beauftragte in Gemeinden und Organisationen**
 
-§ 33.[^30-1] <sup>1</sup> Die Gemeinden und die Organisationen gemäss § 3 können eigene Beauftragte bestellen. Der Regierungsrat kann Gemeinden mit mindestens 50 000 Einwohnerinnen und Einwohnern dazu verpflichten.
+§ 33.[^hVIIBeauftragteode-3] <sup>1</sup> Die Gemeinden und die Organisationen gemäss § 3 können eigene Beauftragte bestellen. Der Regierungsrat kann Gemeinden mit mindestens 50 000 Einwohnerinnen und Einwohnern dazu verpflichten.
 
 <sup>2</sup> Die Gemeinden und die Organisationen gemäss § 3 regeln Wahl und Organisation selbstständig. Sie stellen sicher, dass die Beauftragten über die notwendigen fachlichen Voraussetzungen verfügen und in der Ausübung ihrer Aufgaben und Befugnisse unabhängig sind. Die oder der kantonale Beauftragte übt die Oberaufsicht aus.
 
-[^30-1]: §§ 30–33 in Kraft seit 1. Juni 2007 (OS 62, 136).
-[^30-2]: Fassung gemäss § 44 lit. h des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 135; ABl 2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63, 317).
-[^30-3]: Aufgehoben durch Kantonsratsgesetz vom 17. Dezember 2012 (OS 68, 149; ABl 2012, 189). In Kraft seit 6. Mai 2013.
-[^30-4]: LS 611.
+[^hVIIBeauftragteode-1]: Fassung gemäss KRB über die Angleichung der rechtlichen Bestimmungen zur Ombudsperson, der Leiterin oder des Leiters der Finanzkontrolle und der oder des Beauftragten für den Datenschutz vom 12. Dezember 2022 (OS 79, 157; ABl 2022-07-15). In Kraft seit 1. Mai 2024. 1. 7. 24 - 125 15
+[^hVIIBeauftragteode-2]: Fassung gemäss G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
+[^hVIIBeauftragteode-3]: §§ 30–33 in Kraft seit 1. Juni 2007 (OS 62, 136).
+[^hVIIBeauftragteode-4]: Fassung gemäss § 44 lit. h des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 135; ABl 2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63, 317).
+[^hVIIBeauftragteode-5]: Aufgehoben durch Kantonsratsgesetz vom 17. Dezember 2012 (OS 68, 149; ABl 2012, 189). In Kraft seit 6. Mai 2013.
+[^hVIIBeauftragteode-6]: LS 611.
 
 #### § 34
 
@@ -506,29 +505,29 @@ Die oder der Beauftragte a. unterstützt und berät die öffentlichen Organe in 
 
 Die oder der Beauftragte arbeitet zur Erfüllung der Kontrollaufgabe gemäss § 35 mit den Organen der anderen Kantone, des Bundes und des Auslandes, welche die gleichen Aufgaben erfüllen, zusammen.
 
-#### § 38
+**11**
+
+- 1\. 7. 24 - 125 § 38. Die oder der Beauftragte sowie die Mitarbeitenden sind in Bezug auf Informationen, die sie bei ihrer Tätigkeit zur Kenntnis nehmen, zur gleichen Verschwiegenheit verpflichtet wie das bearbeitende öffentliche Organ.
+
+#### § 39
 
 **Schweigepflicht**
 
-Die oder der Beauftragte sowie die Mitarbeitenden sind in Bezug auf Informationen, die sie bei ihrer Tätigkeit zur Kenntnis nehmen, zur gleichen Verschwiegenheit verpflichtet wie das bearbeitende öffentliche Organ.
-
-**11**
-
-1.10. 22 - 118 § 39. Die oder der Beauftragte berichtet dem Wahlorgan periodisch über Umfang und Schwerpunkte der Tätigkeiten, über wichtige Feststellungen und Beurteilungen sowie über die Wirkung des Gesetzes. Der Bericht wird veröffentlicht.
-
 **Berichterstattung**
+
+Die oder der Beauftragte berichtet dem Wahlorgan periodisch über Umfang und Schwerpunkte der Tätigkeiten, über wichtige Feststellungen und Beurteilungen sowie über die Wirkung des Gesetzes. Der Bericht wird veröffentlicht.
 
 **Rechtsschutz**
 
-§ 39 a.[^38-1] <sup>1</sup> Gegen Anordnungen der oder des Beauftragten in personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation[^38-2] der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
+§ 39 a.[^39-1] <sup>1</sup> Gegen Anordnungen der oder des Beauftragten in personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation[^39-2] der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
 
 <sup>2</sup> Die Schweigepflicht gemäss § 38 gilt auch für die Rechtsmittelinstanzen.
 
-<sup>3</sup> Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^38-3].
+<sup>3</sup> Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^39-3].
 
-[^38-1]: Eingefügt durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^38-2]: Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
-[^38-3]: LS 175.2.
+[^39-1]: Eingefügt durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^39-2]: Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
+[^39-3]: LS 175.2.
 
 ### VIII. Strafbestimmungen
 
@@ -596,15 +595,25 @@ Die nachfolgenden Gesetze werden wie folgt geändert:
 
 - h. Gesetz über Controlling und Rechnungslegung (CRG) vom 9. Januar 2006[^44-9]: . . .[^44-2]
 
+**13**
+
+- 1\. 7. 24 - 125
+
 [^44-1]: LS 131.1.
 [^44-2]: Text siehe OS 62, 121.
 [^44-3]: LS 171.1.
 [^44-4]: LS 175.2.
 [^44-5]: LS 177.10.
-[^44-6]: Obsolet. 1.10. 22 - 118 13
+[^44-6]: Obsolet.
 [^44-7]: LS 170.6.
 [^44-8]: LS 740.1.
 [^44-9]: LS 611.
+
+### Übergangsbestimmung zur Änderung vom 12. Dezember 2022
+
+(OS 79, 157)
+
+Tritt die Änderung während der laufenden Amtsdauer der oder des Beauftragten für den Datenschutz in Kraft, bleibt bis zum Ende der laufenden Amtsdauer das bisherige Recht anwendbar.
 
 ## Weitere Fussnoten
 
