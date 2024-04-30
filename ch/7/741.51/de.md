@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2024-04-01
+version: 2024-05-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240401-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20240501/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20240501-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20240401/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 1. April 2024)
+vom 27. Oktober 1976 (Stand am 1. Mai 2024)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 12 Absätze 1, 3 und 4, 13 Absätze 2 und 4, 15 Absät
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
 ## Einleitung
@@ -79,12 +79,12 @@ Es werden folgende Abkürzungen für Subsysteme des Informationssystems Verkehrs
 [^2-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-4]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-5]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
-[^2-6]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
-[^2-7]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
-[^2-8]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^2-9]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
-[^2-10]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
-[^2-11]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^2-6]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^2-7]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^2-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-9]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^2-10]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^2-11]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^2-12]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## 1 Zulassung von Personen
@@ -217,7 +217,7 @@ Im Übrigen berechtigt im Binnenverkehr der Führerausweis:[^4-4]
 [^4-5]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 [^4-7]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^4-8]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^4-9]: Eingefügt durch Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^4-10]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^4-11]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -249,7 +249,7 @@ Ein Führerausweis ist nicht erforderlich zum Führen:
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^5-3]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^5-3]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 ### 11*a* Verkehrsmedizinische und verkehrspsychologische Untersuchungen
 
@@ -408,7 +408,7 @@ Die Ärzte verwenden zur Meldung der Untersuchungsergebnisse an die kantonalen B
 <sup>5</sup> Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.[^5i-3]
 
 [^5i-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^5i-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Febr. 2019 gestrichen.
+[^5i-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Febr. 2019 gestrichen.
 [^5i-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
@@ -680,12 +680,12 @@ Wird das Gesuch erstmals eingereicht, muss der Gesuchsteller persönlich vorspre
 <sup>5</sup> Wird das Gesuch nach der Annullierung des Führerausweises auf Probe eingereicht, so muss zudem ein Gutachten eines Verkehrspsychologen nach Artikel 5*c* beigelegt werden, das die verkehrspsychologische Eignung bejaht. Das Gutachten darf frühestens einen Monat vor Ablauf der Sperrfrist eingereicht werden und nicht älter als drei Monate sein.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^11-2]: [SR 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
-[^11-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^11-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^11-5]: [SR 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
-[^11-6]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^11-7]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^11-2]: [SR 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^11-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^11-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^11-5]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^11-6]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^11-7]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 
 #### Art. 11a
 
@@ -1027,7 +1027,7 @@ Keine praktische Führerprüfung haben abzulegen:
 
 <sup>3</sup> Der Führerausweis der Kategorie A mit Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis mit Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben. Der Führerausweis der Kategorie A ohne Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis ohne Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben.[^24-2]
 
-<sup>4 und <sup>5</sup></sup> …[^24-3]
+<sup>4</sup> und <sup>5</sup> …[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1071,10 +1071,10 @@ Im Führerausweis sind folgende Berechtigungen einzutragen:
 - e.[^24c-4] der Fähigkeitsausweis für den Personen- oder Gütertransport unter Angabe der für den Transport zugelassenen Kategorie oder Unterkategorie und der Gültigkeitsdauer, sofern keine separate Karte ausgestellt wurde (Art. 9 Abs. 3 der Chauffeurzulassungsverordnung vom 15. Juni 2007[^24c-5]).
 
 [^24c-1]: Ursprünglich Art. 24*a*
-[^24c-2]: [SR 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
+[^24c-2]: [SR 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
 [^24c-3]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^24c-4]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)). Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5569](https://fedlex.data.admin.ch/eli/oc/2008/769)).
-[^24c-5]: [SR 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
+[^24c-5]: [SR 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 #### Art. 24d
 
@@ -1170,9 +1170,9 @@ Die Bewilligung zum berufsmässigen Personentransport wird dem Inhaber eines Fü
 
 <sup>5</sup> Die Bewilligung ist nur zusammen mit dem Führerausweis gültig.
 
-[^25-1]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^25-1]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^25-2]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^25-3]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^25-3]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^25-4]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^25-5]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
@@ -1702,18 +1702,18 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 
 <sup>4</sup> Ausländische Führerausweise, die der Führer unter Umgehung der Bestimmungen dieser Verordnung über den Erwerb des schweizerischen Führerausweises oder der in seinem Wohnsitzstaat geltenden Zuständigkeitsbestimmungen erworben hat, dürfen in der Schweiz nicht verwendet werden.
 
-[^42-1]: [SR 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
+[^42-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
 [^42-2]: Nicht ratifiziert von der Schweiz.
-[^42-3]: [SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822). Siehe auch das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
+[^42-3]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402). Siehe auch das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^42-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-5]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^42-6]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-7]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^42-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^42-8]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-10]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-11]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-12]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^42-12]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-13]: Eingefügt durch Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
@@ -1749,7 +1749,7 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 <sup>4</sup> Wenn die Behörden einen schweizerischen Führerausweis erteilen, müssen sie Ausweise, die von EU- oder EFTA-Staaten ausgestellt worden sind, an die Ausstellungsbehörde zurücksenden. Andere Ausweise müssen sie an die Ausstellungsbehörde zurücksenden oder dem Inhaber aushändigen. Der Inhalt der ausländischen Ausweise wird registriert.[^44-7]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. März 2024 angepasst.
+[^44-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. März 2024 angepasst.
 [^44-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^44-4]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^44-5]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
@@ -2050,7 +2050,7 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 - b.[^71-2] das Fahrzeug den Bau- und Ausrüstungsvorschriften entspricht und die für die Zulassung erforderlichen Angaben vorliegen;
 - c. das Fahrzeug nach AStG[^71-3] versteuert oder von der Steuer befreit ist;
 - d.[^71-4] das im Ausland hergestellte Fahrzeug veranlagt oder von der Zollveranlagung befreit ist;
-- e.[^71-5] die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^71-6] für das Fahrzeug geschuldete Abgabe oder die geschuldeten Sicherheitsleistungen vollumfänglich bezahlt worden sind und das Fahrzeug mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.[^71-7]
+- e.[^71-5] kein Antrag des Bundesamts für Zoll und Grenzsicherheit (BAZG) auf Verweigerung der Erteilung des Fahrzeugausweises und des Kontrollschildes gestützt auf Artikel 14*a* des Schwerverkehrsabgabegesetzes vom 19. Dezember 1997[^71-6] (SVAG) vorliegt.[^71-7]
 
 <sup>1bis</sup> Das Verfahren zur Prüfung der Voraussetzungen nach Absatz 1 Buchstabe b richtet sich nach der VTS[^71-8].[^71-9]
 
@@ -2062,14 +2062,14 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 
 [^71-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-3]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^71-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^71-4]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^71-5]: Eingefügt durch Ziff. II der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
-[^71-6]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
+[^71-5]: Eingefügt durch Ziff. II der V vom 7. März 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Fassung gemäss Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^71-6]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^71-7]: Fassung gemäss Anhang Ziff. 5 der Automobilsteuerverordnung vom 20. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-8]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^71-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-10]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^71-10]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^71-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 72
@@ -2112,7 +2112,7 @@ Weder Fahrzeugausweis noch Kontrollschilder benötigen:
 [^72-3]: Fassung gemäss Ziff. II 4 der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^72-4]: Eingefügt durch Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^72-5]: Eingefügt durch Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^72-6]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^72-6]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^72-7]: Eingefügt durch Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^72-8]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^72-9]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
@@ -2183,15 +2183,14 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
 
 <sup>4</sup> Die Prüfungsberichte oder deren Inhalt sowie die technischen Angaben in den Beilagen sind von der Behörde während 15 Jahren seit der ersten Inverkehrsetzung der Fahrzeuge aufzubewahren.
 
-<sup>5</sup> Im Einvernehmen mit den Kantonen, der zuständigen Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^75-6] legt das ASTRA den Inhalt des Prüfungsberichts fest und erlässt Weisungen über das Ausfüllen des Prüfungsberichtes.[^75-7]
+<sup>5</sup> Im Einvernehmen mit den Kantonen, der zuständigen Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und dem BAZG legt das ASTRA den Inhalt des Prüfungsberichts fest und erlässt Weisungen über das Ausfüllen des Prüfungsberichtes.[^75-6]
 
-[^75-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^75-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^75-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^75-4]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^75-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^75-5]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^75-7]: Fassung gemäss Ziff. I der V vom 3. Sept. 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3373](https://fedlex.data.admin.ch/eli/oc/2003/470)).
+[^75-6]: Fassung gemäss Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 #### Art. 76
 
@@ -2201,10 +2200,11 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
 
 <sup>2</sup> Die Berechtigung, in der Schweiz ein Fahrzeug zu verwenden, für das keine Zollveranlagung durchgeführt wurde oder das unversteuert ist, ist mit einer Bewilligung der Zollbehörde nachzuweisen.
 
-<sup>3</sup> Das BAZG gibt den Zulassungsbehörden die Fahrzeugarten bekannt, für die der Nachweis der Zollveranlagung und der Versteuerung nach Absatz 1 oder eine Bewilligung nach Absatz 2 nicht erforderlich ist.
+<sup>3</sup> Das BAZG[^76-3] gibt den Zulassungsbehörden die Fahrzeugarten bekannt, für die der Nachweis der Zollveranlagung und der Versteuerung nach Absatz 1 oder eine Bewilligung nach Absatz 2 nicht erforderlich ist.
 
 [^76-1]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^76-2]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^76-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^76-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 77
 
@@ -2242,8 +2242,8 @@ Der Wohnsitz des Halters gilt als Standort:
 
 <sup>3</sup> Der Fahrzeugausweis für die provisorische Zulassung unverzollter Fahrzeuge darf unter Beachtung des Artikels 17 VVV nur dann über die Gültigkeitsdauer und Zollbewilligung hinaus befristet oder verlängert werden, wenn dies in der Zollbewilligung ausdrücklich vorgesehen ist.
 
-[^79-1]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
-[^79-2]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^79-1]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^79-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 #### Art. 80
 
@@ -2332,7 +2332,7 @@ Ein Schilderwechsel ist vorzunehmen, wenn sich die Fahrzeugeinteilung ändert un
 [^82-2]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-4]: Aufgehoben durch Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, mit Wirkung seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^82-5]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^82-5]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^82-6]: Aufgehoben durch Ziff. I der V vom 11. April 2001, mit Wirkung seit 1. Juni 2001 ([AS 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^82-7]: Eingefügt durch Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-8]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2451,7 +2451,7 @@ Das Zeichen «CD» ist bestimmt:
 
 [^86-1]: Fassung gemäss Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^86-2]: Fassung gemäss Anhang Ziff. 11 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^86-3]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^86-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 87
 
@@ -2592,7 +2592,7 @@ Der Fahrzeugausweis wird erteilt, wenn:
 <sup>7</sup> Das ASTRA bestimmt das Schriftbild und die Abmessungen für Buchstaben und Zahlen.
 
 [^94-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^94-2]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^94-2]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 #### Art. 95
 
@@ -2625,7 +2625,7 @@ Für die Zulassung der Motorfahrräder des Bundes gelten folgende Besonderheiten
 <sup>2</sup> Die Motorfahrräder der Kantone, für die keine Haftpflichtversicherung abgeschlossen wird (Art. 73 Abs. 2 SVG), werden mit ordentlichen kantonalen Kontrollschildern einer besonderen vom Kanton zu bestimmenden Nummernserie versehen.
 
 [^96-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^96-2]: [SR 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
+[^96-2]: [SR 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
 
 #### Art. 97
 
@@ -2659,10 +2659,11 @@ Anhänger an Motorfahrrädern benötigen weder einen Fahrzeugausweis noch ein Ko
 
 <sup>1</sup>
 
-Der Fahrzeugausweis ist zu entziehen, wenn:
+Der Fahrzeugausweis ist zu entziehen, wenn: [^106-1]
 
 - a. die Voraussetzungen des SVG oder der Vollziehungsvorschriften zur Erteilung nicht mehr erfüllt sind;
-- b. der Halter der Aufforderung zur Fahrzeugprüfung ohne genügende Gründe nicht nachkommt.
+- b. der Halter der Aufforderung zur Fahrzeugprüfung ohne genügende Gründe nicht nachkommt;
+- c. [^106-2] das BAZG gestützt auf Artikel 14*a* SVAG einen Antrag auf Entzug des Fahrzeugausweises und des Kontrollschildes stellt.
 
 <sup>2</sup>
 
@@ -2670,16 +2671,17 @@ Der Fahrzeugausweis kann entzogen werden, wenn:
 
 - a. die mit dem Ausweis verbundenen Beschränkungen oder Auflagen (Art. 80) missachtet wurden;
 - b. Ausweis oder Kontrollschilder missbräuchlich verwendet wurden;
-- c.[^106-1] die Fahrzeugsteuern oder ‑gebühren für Fahrzeuge desselben Halters nicht entrichtet sind;
-- d.[^106-2] die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^106-3] für das Fahrzeug geschuldete Abgabe oder die Sicherheitsleistungen nicht bezahlt und der Halter erfolglos gemahnt worden ist oder das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.
+- c.[^106-3] die Fahrzeugsteuern oder ‑gebühren für Fahrzeuge desselben Halters nicht entrichtet sind;
+- d.[^106-4] …
 
-<sup>3</sup> Mit dem Entzug des Fahrzeugausweises sind immer auch die Kontrollschilder zu entziehen. Bei Wechselschildern können die Schilder für ein Fahrzeug belassen werden. Die Sicherstellung von Fahrzeugen richtet sich nach Artikel 221 Absätze 3 und 4 VTS[^106-4].[^106-5]
+<sup>3</sup> Mit dem Entzug des Fahrzeugausweises sind immer auch die Kontrollschilder zu entziehen. Bei Wechselschildern können die Schilder für ein Fahrzeug belassen werden. Die Sicherstellung von Fahrzeugen richtet sich nach Artikel 221 Absätze 3 und 4 VTS[^106-5].[^106-6]
 
-[^106-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^106-2]: Eingefügt durch Ziff. II der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
-[^106-3]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
-[^106-4]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^106-5]: Fassung des Satzes gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^106-1]: Fassung gemäss Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^106-2]: Eingefügt durch Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^106-3]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^106-4]: Eingefügt durch Ziff. II der V vom 7. März 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Aufgehoben durch Anhang 5 Ziff. II 3 der Schwerverkehrsabgabeverordnung vom 27. März 2024, mit Wirkung seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^106-5]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^106-6]: Fassung des Satzes gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 107
 
@@ -2709,7 +2711,7 @@ Der Fahrzeugausweis kann entzogen werden, wenn:
 
 Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Artikel 72 keinen Fahrzeugausweis benötigen, nicht betriebssicher oder nicht in vorschriftsgemässem Zustand sind, so kann die Behörde deren Weiterverwendung bis zur Behebung der Mängel verbieten. Die Sicherstellung solcher Fahrzeuge richtet sich nach Artikel 221 Absätze 3 und 4 VTS[^109-1].[^109-2]
 
-[^109-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^109-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^109-2]: Fassung des Satzes gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 110
@@ -2745,7 +2747,7 @@ Ausländische Motorfahrzeuge und Anhänger dürfen in der Schweiz verkehren, wen
 
 <sup>4</sup> Ausländische Fahrzeuge müssen das Unterscheidungszeichen des Zulassungsstaates tragen.
 
-[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
+[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^114-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 [^114-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
@@ -2802,9 +2804,9 @@ Absatz 6 gilt nicht, wenn ausländische Fahrzeuge nur vorübergehend mit schweiz
 <sup>5</sup> Der Vollzug des von ausländischen Behörden verfügten Entzuges ausländischer Fahrzeugausweise und Kontrollschilder ist vom ASTRA anzuordnen, sofern Entzugsverfügungen nicht direkt an den Kanton gehen.
 
 [^116-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^116-2]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^116-2]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^116-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^116-4]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^116-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^116-5]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 #### Art. 117
@@ -2859,7 +2861,7 @@ Die ausländischen Fahrzeuge können im Standortkanton von dem Tag an besteuert 
 <sup>2</sup> Bei provisorisch zugelassenen Fahrzeugen, für die keine Zollveranlagung durchgeführt wurde oder die unversteuert sind, senden die Kantone die von dem BAZG verlangten Unterlagen über die Befreiung an die Eidgenössische Fahrzeugkontrolle. Das BAZG kann im Einvernehmen mit der Eidgenössischen Fahrzeugkontrolle ein elektronisches Meldeverfahren vorsehen.
 
 [^122-1]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^122-2]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^122-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 
 ### 313 Meldung von Widerhandlungen und andern Tatsachen
 
@@ -3045,7 +3047,7 @@ Absatz 1 ist nicht anwendbar, wenn die Person nachweist, dass sie objektiv nicht
 - d. ihre Militärdienstpflicht als Durchdiener oder Durchdienerin im Sinne der Verordnung vom 22. November 2017[^148-2] über die Militärdienstpflicht leistete.
 
 [^148-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^148-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
+[^148-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 149
 
@@ -3360,7 +3362,7 @@ Die kantonalen Behörden können verkehrsmedizinische Untersuchungen, die von ei
 Wer gestützt auf Artikel 151*d* Absätze 9 und 10 Fahrzeuge mit einem Gesamtgewicht von höchstens 3500 kg und mehr als 16 Sitzplätzen ausser dem Führersitz führen darf, ist berechtigt, Gesellschaftswagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, zu führen, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^151n-2]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
 [^151n-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^151n-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^151n-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 151o
 
@@ -3416,7 +3418,7 @@ Es werden insbesondere aufgehoben:
 [^153-9]: [[AS 1969 469](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475), [524](https://fedlex.data.admin.ch/eli/oc/1969/524_532_)]
 [^153-10]: [[AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811); [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)Art. 10 Abs. 2, [715](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716); [1972 603](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535), [738](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)Art. 7 Abs. 2; [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)Ziff. II; [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)Art. 25]
 [^153-11]: [[AS 1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)]
-[^153-12]: [SR 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
+[^153-12]: [SR 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
 
 #### Art. 154
 
@@ -3528,8 +3530,8 @@ Anhang 1<sup>bis</sup> [^t-3]
 - h. Kenntnis der Auflagen, welche die kantonale Behörde verfügen kann;
 - i. Fähigkeit, die Informationen richtig den kantonalen Behörden zu übermitteln (Anhang 3 VZV).
 
-[^annex1bis-lvlu1-1]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
-[^annex1bis-lvlu1-2]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^annex1bis-lvlu1-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^annex1bis-lvlu1-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 Anhang 2[^t-4]
 
@@ -3762,7 +3764,10 @@ Name: Vorname: Geburtsdatum: PLZ/Wohnort: Adresse:
 - 2 *Schlussfolgerungen*
 - 2\.1 Die medizinischen Mindestanforderungen (Anhang 1 VZV)
 
-der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M) sind: der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexpertinnen/-experten) sind: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:
+<table>
+<tr><td>der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M) sind:</td><td>der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexpertinnen/-experten) sind:</td></tr>
+<tr><td>erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:</td><td>erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:</td></tr>
+</table>
 
 - 2\.2 Unklares Ergebnis: Die definitive Beurteilung soll von einer anerkannten Ärztin oder einem anerkannten Arzt der Stufe 3 oder 4 vorgenommen werden
 - Es bestehen ernsthafte Zweifel an der Fahreignung, weshalb bis zur weiteren Abklärung kein Fahrzeug geführt werden sollte
@@ -4425,7 +4430,7 @@ Die Prüfungsdauer und -strecke müssen so bemessen sein, dass die Fähigkeiten 
 - – 90 Minuten für die Kategorien C und CE;
 - – 120 Minuten für die Kategorie D.
 
-[^annex12-lvlu1-lvlIV-1]: [SR 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
+[^annex12-lvlu1-lvlIV-1]: [SR 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V. Prüfungsfahrzeuge
 
