@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2024-04-01
-valid_until: 2024-04-30
-version_adopted: 2024-01-24
+version: 2024-05-01
+valid_until: 2024-06-30
+version_adopted: 2024-03-27
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3403/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3403/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.04.2024)
+Vom 28.08.2002 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -273,7 +273,7 @@ beschliesst:
 
 **Aufnahmepflicht**
 
-<sup>1</sup> Die Aufnahmequote wird jeweils jährlich aufgrund der von Statistik Aargau veröffentlichten Daten zur schweizerischen Wohnbevölkerung festgelegt.
+<sup>1</sup> Die Aufnahmequote wird jeweils jährlich aufgrund der vom Statistischen Amt veröffentlichten Daten zur schweizerischen Wohnbevölkerung festgelegt.
 
 <sup>2</sup> An die Aufnahmequote angerechnet werden auch Personen, die gestützt auf § 17a Abs. 1 in der betreffenden Gemeinde untergebracht sind.
 
