@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2022-11-01
-valid_until: 2024-04-30
-version_adopted: 2022-09-14
+version: 2024-05-01
+valid_until: 2024-10-31
+version_adopted: 2024-03-27
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3247/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.11.2022)
+Vom 27.06.2012 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -225,13 +225,7 @@ beschliesst:
 
 #### § 18
 
-**Statistische Erhebungen**
-
-<sup>1</sup> Statistik Aargau kann im Rahmen der als Individualerhebung konzipierten Schulstatistik sowie darüber hinaus im Auftrag des BKS Befragungen in den Schulen durchführen, namentlich bei jährlichen Schulabgängerbefragungen mit dem Zweck, zeitgerecht über die nötigen Grundlagen für die Beantwortung wichtiger bildungspolitischer Fragen im Übergang von der Sekundarstufe I in die Sekundarstufe II zu verfügen.
-
-<sup>2</sup> Die Schulen sind verpflichtet, Statistik Aargau die verlangten Angaben zu machen.
-
-<sup>3</sup> Statistik Aargau trifft die geeigneten und notwendigen Sicherungsmassnahmen zur Vermeidung eines unbefugten Zugriffs auf Daten durch Dritte.
+**…**
 
 ### 2.3. Lehrpersonen
 
@@ -287,7 +281,7 @@ beschliesst:
 
 **Bundesrecht**
 
-<sup>1</sup> In Bezug auf die Information und Auskunft gegenüber Eltern ohne elterliche Sorge gelten die einschlägigen Bestimmung des Schweizerischen Zivilgesetzbuchs (ZGB) vom 10. Dezember 1907[^23-1], insbesondere Art. 275a ZGB.
+<sup>1</sup> In Bezug auf die Information und Auskunft gegenüber Eltern ohne elterliche Sorge gelten die einschlägigen Bestimmungen des Schweizerischen Zivilgesetzbuchs (ZGB) vom 10. Dezember 1907[^23-1], insbesondere Art. 275a ZGB.
 
 [^23-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
