@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 1997 über eine leistungsabhängige Schwer
 short: SVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: de
-version: 2023-09-01
+version: 2024-05-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20240501-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,25 +17,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20230901/de"
 
 (Schwerverkehrsabgabegesetz, SVAG)
 
-vom 19. Dezember 1997 (Stand am 1. September 2023)
+vom 19. Dezember 1997 (Stand am 1. Mai 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 24<sup>septies</sup>, 36<sup>quater</sup>, 36<sup>sexies</sup> der Bundesverfassung und Artikel 23 der Übergangsbestimmungen der Bundesverfassung[^ingress-1],[^ingress-2]
+gestützt auf die Artikel 74, 84 und 85 der Bundesverfassung[^ingress-1],[^ingress-2]
 
 nach Einsicht in die Botschaft des Bundesrates vom 11. September 1996[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905); [1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Den genannten Bestimmungen entsprechen heute die Art. 74, 84, 85 und 196 Ziff. 3 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Art. 6 Ziff. 1 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999, in Kraft seit 1. Jan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [BBl 1996 V 521](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
-## 1. Abschnitt: Zweck und Geltungsbereich
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 1
 
-**Zweck**
+**…[^1-1]**
 
 <sup>1</sup> Mit der leistungsabhängigen Schwerverkehrsabgabe (Abgabe) soll der Schwerverkehr die ihm zurechenbaren Wegekosten und Kosten zulasten der Allgemeinheit langfristig decken, soweit er für diese nicht bereits durch andere Leistungen oder Abgaben aufkommt.
 
@@ -46,11 +50,13 @@ Mit der Abgabe wird ausserdem ein Beitrag dazu geleistet, dass:
 - a. die Rahmenbedingungen der Schiene im Transportmarkt verbessert werden;
 - b. die Güter vermehrt mit der Bahn befördert werden.
 
+[^1-1]: Aufgehoben durch Ziff. I des BG vom 17. März 2023, mit Wirkung seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 #### Art. 2
 
-**Geltungsbereich**
+[^2-1]
 
-Die Abgabe wird für die Benützung der öffentlichen Strassen erhoben.
+[^2-1]: Aufgehoben durch Ziff. I des BG vom 17. März 2023, mit Wirkung seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## 2. Abschnitt: Abgabepflicht
 
@@ -78,7 +84,32 @@ Die Abgabe wird auf den im In- und Ausland immatrikulierten (in- und ausländisc
 
 <sup>1</sup> Abgabepflichtig ist der Halter oder die Halterin, bei ausländischen Fahrzeugen zusätzlich der Fahrzeugführer oder die Fahrzeugführerin.
 
-<sup>2</sup> Der Bundesrat kann weitere Personen als solidarisch haftbar erklären.
+<sup>2</sup> Für mitgeführte Anhänger ist die Halterin oder der Halter des Motorfahrzeugs abgabepflichtig.[^5-1]
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 5a
+
+**Solidarhaftung**[^5a-1]
+
+<sup>1</sup>
+
+Ist die Fahrzeughalterin oder der Fahrzeughalter zahlungsunfähig oder erfolglos gemahnt worden, so haften die Eigentümerin oder der Eigentümer, die Vermieterin oder der Vermieter und die Leasinggeberin oder der Leasinggeber eines Motorfahrzeugs solidarisch für:
+
+- a. die Abgabe für das Motorfahrzeug;
+- b. die Abgabe für mitgeführte Anhänger; und
+- c. die in diesem Zusammenhang anfallenden Zinsen und Gebühren.
+
+<sup>2</sup> Diese Personen haften nicht solidarisch, wenn das Bundesamt für Zoll und Grenzsicherheit (BAZG) ihnen vor Vertragsabschluss auf entsprechende Anfrage hin bestätigt hat, dass die Fahrzeughalterin oder der Fahrzeughalter weder zahlungsunfähig ist noch in der Vergangenheit erfolglos gemahnt worden ist.
+
+<sup>3</sup>
+
+Stellt das BAZG nachträglich fest, dass die Halterin oder der Halter zahlungsunfähig ist oder erfolglos gemahnt worden ist, und erwägt es, die nach Absatz 1 solidarisch haftbare Person der Solidarhaftung zu unterstellen, so teilt es dieser Person schriftlich mit, dass sie für künftige Abgaben sowie für allfällige Zinsen und Gebühren für das Fahrzeug solidarisch haftet, wenn:
+
+- a. sie den Vertrag nicht innerhalb von 60 Tagen kündigt; oder
+- b. alle ausstehenden Abgaben und allfällige Zinsen und Gebühren für das Fahrzeug nicht innerhalb von 60 Tagen vollständig bezahlt werden.
+
+[^5a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## 3. Abschnitt: Bemessungsgrundlage der Abgabe
 
@@ -86,11 +117,13 @@ Die Abgabe wird auf den im In- und Ausland immatrikulierten (in- und ausländisc
 
 **Grundsatz**
 
-<sup>1</sup> Die Abgabe bemisst sich nach dem höchstzulässigen Gesamtgewicht des Fahrzeuges und den gefahrenen Kilometern.
+<sup>1</sup> Die Abgabe bemisst sich nach dem höchstzulässigen Gesamtgewicht des Fahrzeugs und den im Zollgebiet gefahrenen Kilometern.[^6-1]
 
 <sup>2</sup> Bei Fahrzeugkombinationen kann das höchstzulässige Gesamtzugsgewicht des Zugfahrzeuges als Bemessungsgrundlage der Abgabe herangezogen werden.
 
 <sup>3</sup> Zusätzlich kann die Abgabe emissions- oder verbrauchsabhängig erhoben werden.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 7
 
@@ -150,18 +183,53 @@ Bei der Einführung der Abgabe und den Erhöhungen des Tarifs berücksichtigt de
 
 #### Art. 11
 
-**Ermittlung der abgabepflichtigen Fahrleistung**
+**Ermittlung der gefahrenen Kilometer**[^11-1]
 
-<sup>1</sup> Die abgabepflichtige Person hat bei der Ermittlung der Fahrleistung mitzuwirken.
+<sup>1</sup> Die abgabepflichtige Person hat bei der Ermittlung der gefahrenen Kilometer mitzuwirken. Die Fahrstrecke muss automatisiert oder manuell ermittelt und dem BAZG gemeldet werden.
 
-<sup>2</sup> Der Bundesrat kann den Einbau spezieller Geräte oder andere Hilfsmittel zur fälschungssicheren Erfassung der Fahrleistung vorschreiben. Die einzubauenden Geräte sollen nach Möglichkeit mit in der EU vorgeschriebenen Geräten interoperabel sein.
+<sup>2</sup> Der Bundesrat legt die Art der Ermittlung der gefahrenen Kilometer fest. Er kann für die fälschungssichere Ermittlung der gefahrenen Kilometer den Einbau und die Verwendung von Geräten oder anderen Hilfsmitteln als Teil eines automatisierten Erfassungssystems (fahrzeugseitiges Erfassungssystem) vorschreiben. Er legt die Voraussetzungen fest, die erfüllt sein müssen, damit die in der Europäischen Union (EU) zugelassenen Geräte und anderen Hilfsmittel für die Ermittlung der gefahrenen Kilometer im Zollgebiet verwendet werden dürfen.
 
 <sup>3</sup> Fehlen taugliche Angaben oder Unterlagen, so kann die Abgabe nach Ermessen veranlagt werden.
 
-<sup>4</sup> Die Festsetzung der Abgabe kann als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^11-1] erfolgen.[^11-2]
+<sup>4</sup> Hat der Bundesrat den Einbau und die Verwendung eines fahrzeugseitigen Erfassungssystems vorgeschrieben, so muss die abgabepflichtige Person sicherstellen, dass das fahrzeugseitige Erfassungssystem im dafür vorgesehenen Fahrzeug in Betrieb genommen wird. Dieses System muss während der Fahrt ununterbrochen in Betrieb gehalten werden.
 
-[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^11-2]: Eingefügt durch Anhang 1 Ziff. II 53 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 11a
+
+**Anbieter von Diensten zur Ermittlung der gefahrenen Kilometer**[^11a-1]
+
+<sup>1</sup> Der Bundesrat kann einen Dienstleister beauftragen (beauftragter Anbieter), den abgabepflichtigen Personen einen Dienst zur Ermittlung der gefahrenen Kilometer zu erbringen.
+
+<sup>2</sup> Er kann weitere Dienstleister zur Ermittlung der gefahrenen Kilometer zulassen (zugelassene Anbieter). Er bestimmt die Voraussetzungen für die Zulassung.
+
+<sup>3</sup> Die abgabepflichtige Person muss für die Ermittlung der gefahrenen Kilometer den Dienst des beauftragten Anbieters oder den Dienst eines zugelassenen Anbieters in Anspruch nehmen. Wählt sie den beauftragen Anbieter, so ist dieser verpflichtet, ihr seinen Dienst zu erbringen.
+
+<sup>4</sup> Das BAZG legt fest, welche technischen und betrieblichen Vorgaben die Anbieter einhalten müssen. Es kann technische und betriebliche Vorgaben der EU für den Einbau und die Verwendung fahrzeugseitiger Erfassungssysteme für anwendbar erklären.
+
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 11b
+
+**Pflichten des beauftragten und der zugelassenen Anbieter**[^11b-1]
+
+<sup>1</sup>
+
+Der beauftragte und die zugelassenen Anbieter müssen an der Abgabenerhebung mitwirken, indem sie:
+
+- a. die abgabepflichtigen Personen und die Fahrzeuge, für die diese die Abgabe schulden, registrieren;
+- b. der abgabepflichtigen Person, soweit erforderlich, ein fahrzeugseitiges Erfassungssystem abgeben;
+- c. die Fahrstrecke der Fahrzeuge ermitteln;
+- d. die für die Erhebung der Abgabe erforderlichen Daten an das BAZG übermitteln (Anmeldung);
+- e. die Abgabe, soweit sie die Abgabe schulden, innerhalb der Zahlungsfrist dem BAZG bezahlen.
+
+<sup>2</sup> Der beauftragte Anbieter darf keine anderen als die ihm nach diesem Gesetz übertragenen wirtschaftlichen Tätigkeiten ausüben.
+
+<sup>3</sup> Die Zulassung kann mit weiteren Auflagen verbunden werden.
+
+<sup>4</sup> Die Anbieter können für ihre Dienstleistungen gegenüber dem BAZG ein Entgelt erhalten. Das Eidgenössische Finanzdepartement bestimmt dessen Höhe für zugelassene Anbieter. Es kann für diese eine Bezugsprovision vorsehen.
+
+[^11b-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 12
 
@@ -169,7 +237,25 @@ Bei der Einführung der Abgabe und den Erhöhungen des Tarifs berücksichtigt de
 
 <sup>1</sup> Die Abgabepflicht beginnt für inländische Fahrzeuge am Tag der amtlichen Zulassung des Fahrzeuges. Sie endet mit dem Tag, an dem die Kontrollschilder zurückgegeben werden oder der Fahrzeugausweis annulliert wird.
 
-<sup>2</sup> Die Abgabepflicht für ausländische Fahrzeuge beginnt mit der Einfahrt ins schweizerische Staatsgebiet und endet spätestens mit der Ausfahrt. Die Abgabeforderung wird spätestens mit der Ausfahrt aus der Schweiz fällig.
+<sup>2</sup> Die Abgabepflicht für ausländische Fahrzeuge beginnt mit der Einfahrt ins Zollgebiet und endet spätestens mit der Ausfahrt aus dem Zollgebiet.[^12-1]
+
+[^12-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 12a
+
+**Entstehung der Abgabeschuld**[^12a-1]
+
+Die Abgabeschuld entsteht zu Beginn der Fahrt im Zollgebiet. Sie wird mit der Entstehung fällig.
+
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 12b
+
+**Untergang der Abgabeschuld bei ausländischen Fahrzeugen**[^12b-1]
+
+Die Abgabeschuld für ausländische Fahrzeuge, für die der Dienst eines zugelassenen Anbieters genutzt wird, erlischt mit der Bezahlung der Abgabe an das BAZG.
+
+[^12b-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 13
 
@@ -193,15 +279,22 @@ Die Abgabe wird mindestens einmal jährlich erhoben.
 
 #### Art. 14a
 
-**Verweigerung und Entzug von Fahrzeugausweis und Kontrollschildern**[^14a-1]
+**Administrative Massnahmen**[^14a-1]
 
-Der Fahrzeugausweis und die Kontrollschilder werden verweigert oder entzogen, wenn:
+<sup>1</sup>
 
-- a. die Abgabe nicht bezahlt und der Halter erfolglos gemahnt worden ist;
-- b. Vorauszahlungen, Sicherheitsleistungen und Sicherungsmassnahmen nicht erfolgt sind und der Halter erfolglos gemahnt worden ist;
-- c. das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.
+Auf Antrag des BAZG verweigert oder entzieht die kantonale Verkehrszulassungsbehörde den Fahrzeugausweis und das Kontrollschild, wenn für ein inländisches Fahrzeug nach erfolgloser Mahnung der Fahrzeughalterin oder des Fahrzeughalters:
 
-[^14a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+- a. die Abgabe nicht bezahlt worden ist;
+- b. Vorauszahlungen und Sicherheitsleistungen nicht erfolgt sind;
+- c. für die Ermittlung der gefahrenen Kilometer nicht eines der vorgeschriebenen fahrzeugseitigen Erfassungssysteme verwendet wird;
+- d. ein defektes fahrzeugseitiges Erfassungssystem weder repariert noch ersetzt wird.
+
+<sup>2</sup> Bezieht sich die Verweigerung oder der Entzug nur auf ein bestimmtes Fahrzeug, so dürfen die Wechselschilder für nicht betroffene Fahrzeuge weiterverwendet werden.
+
+<sup>3</sup> Das BAZG kann die Weiterfahrt verweigern oder das inländische oder ausländische Fahrzeug beschlagnahmen, wenn eine der Voraussetzungen nach Absatz 1 erfüllt ist.
+
+[^14a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)). Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 15
 
@@ -243,6 +336,26 @@ Der Fahrzeugausweis und die Kontrollschilder werden verweigert oder entzogen, we
 
 Die Daten über die ermittelten Fahrleistungen können unter Wahrung des Datenschutzes für statistische Zwecke verwendet werden.
 
+## 4*a*. Abschnitt: Kontrollen
+
+[^sec4a-1]
+
+[^sec4a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 18a
+
+**Grundsatz**
+
+<sup>1</sup> Das BAZG führt zur Überprüfung der Mitwirkung bei der Abgabenerhebung Kontrollen durch.
+
+<sup>2</sup> Es kann die Kontrollen automatisiert durchführen.
+
+#### Art. 18b
+
+**Kontrolle der angegebenen Fahrstrecke**
+
+Das BAZG kann zur Kontrolle, ob die gefahrenen Kilometer, die sich aus der in der Anmeldung angegebenen Fahrstrecke ergeben, den tatsächlich gefahrenen Kilometern entsprechen, die Daten des Fahrtschreibers verwenden.
+
 ## 5. Abschnitt: Abgabeverwendung
 
 #### Art. 19
@@ -278,23 +391,53 @@ Die Mittel, die den Kantonen aus der Erhöhung der Abgabe ab 2008 zusätzlich zu
 
 ## 6. Abschnitt: Strafbestimmungen und Rechtsmittel
 
+#### Art. 19b
+
+**Abgabewiderhandlungen**[^19b-1]
+
+Als Abgabewiderhandlungen gelten:
+
+- a. die Hinterziehung der Abgabe;
+- b. die Gefährdung der Abgabe.
+
+[^19b-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 #### Art. 20
 
-**Gefährdung oder Hinterziehung der Abgabe**
+**Hinterziehung der Abgabe**[^20-1]
 
-<sup>1</sup> Wer die Abgabe vorsätzlich hinterzieht oder gefährdet, sich oder einer anderen Person sonst wie einen unrechtmässigen Abgabevorteil verschafft oder die gesetzmässige Veranlagung gefährdet, wer ungerechtfertigt eine Vergünstigung oder Rückerstattung erwirkt oder in einem Rückerstattungsgesuch unrichtige Angaben macht, wird mit Busse bis zum Fünffachen der hinterzogenen oder gefährdeten Abgabe oder des unrechtmässigen Vorteils bestraft. Bei fahrlässiger Begehung beträgt die Busse bis zum Dreifachen der hinterzogenen oder gefährdeten Abgabe oder des unrechtmässigen Vorteils. Vorbehalten bleiben die Artikel 14–16 des Bundesgesetzes vom 22. März 1974[^20-1] über das Verwaltungsstrafrecht. Die Mindestbusse beträgt 100 Franken.
+<sup>1</sup>
 
-<sup>2</sup> Kann der gefährdete oder hinterzogene Abgabebetrag nicht genau ermittelt werden, so wird er geschätzt.
+Mit Busse bis zum Fünffachen der hinterzogenen Abgabe oder des unrechtmässigen Abgabevorteils wird bestraft, wer vorsätzlich:
 
-<sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
+- a. die Abgabe durch Nichtanmelden, Verheimlichen, unrichtiges Anmelden, Nichtinbetriebnahme des fahrzeugseitigen Erfassungssystems oder in irgendeiner anderen Weise ganz oder teilweise hinterzieht; oder
+- b. sich oder einer anderen Person auf andere Weise einen unrechtmässigen Abgabevorteil verschafft.
 
-<sup>4</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Abgabe und einer durch das Bundesamt für Zoll und Grenzsicherheit (BAZG) zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese ist angemessen zu erhöhen.[^20-2]
+<sup>2</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse bis zum Dreifachen der hinterzogenen Abgabe oder des unrechtmässigen Abgabevorteils.
 
-<sup>5</sup> Nicht bestraft wird, wer den Anhänger am ordnungsgemäss funktionierenden Erfassungsgerät des Zugfahrzeugs fahrlässig nicht deklariert.[^20-3]
+<sup>3</sup> Der Versuch ist strafbar.
 
-[^20-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^20-2]: Fassung gemäss Ziff. I 24 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^20-3]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+<sup>4</sup> Lässt sich die hinterzogene Abgabe oder der unrechtmässige Abgabevorteil nicht genau ermitteln, so wird die Abgabe beziehungsweise der Abgabevorteil im Rahmen des Verwaltungsverfahrens geschätzt.
+
+[^20-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 20a
+
+**Gefährdung der Abgabe durch Verletzung von Verfahrenspflichten**[^20a-1]
+
+<sup>1</sup>
+
+Mit Busse bis 20 000 Franken wird bestraft, wer vorsätzlich:
+
+- a. vor Beginn der Fahrt im Zollgebiet das fahrzeugseitige Erfassungssystem nicht in Betrieb genommen hat;
+- b. das fahrzeugseitige Erfassungssystem nicht in jenem Motorfahrzeug in Betrieb genommen hat, für das es bestimmt ist;
+- c. das fahrzeugseitige Erfassungssystem während der Fahrt nicht ununterbrochen in Betrieb hält;
+- d. einen mitgeführten Anhänger nicht richtig im fahrzeugseitigen Erfassungssystem anmeldet;
+- e. keine oder eine unrichtige Anmeldung vornimmt oder die für die Überprüfung der Abgabenerhebung massgebenden Daten nicht oder nicht richtig übermittelt.
+
+<sup>2</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse bis 10 000 Franken.
+
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 21
 
@@ -304,11 +447,13 @@ Die Mittel, die den Kantonen aus der Erhöhung der Abgabe ab 2008 zusätzlich zu
 
 #### Art. 22
 
-**Strafverfolgung durch das BAZG**[^22-1]
+**Strafverfolgung**[^22-1]
 
-Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das Verwaltungsstrafrecht durch das BAZG verfolgt und beurteilt.
+<sup>1</sup> Abgabewiderhandlungen nach diesem Gesetz werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das Verwaltungsstrafrecht verfolgt und beurteilt.
 
-[^22-1]: Fassung gemäss Ziff. I 24 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
+
+[^22-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^22-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23
@@ -326,6 +471,16 @@ Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das
 [^23-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 [^23-2]: Fassung gemäss Anhang Ziff. 56 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
+#### Art. 23a
+
+**Beanstandung der Rechnungsstellung bei der Nutzung des Dienstes eines EETS‑Anbieters**[^23a-1]
+
+<sup>1</sup> Hält eine abgabepflichtige Person die Rechnungsstellung eines zugelassenen Anbieters des europäischen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (EETS-Anbieter) für fehlerhaft, so muss sie die Rechnung innerhalb der Einsprachefrist beim EETS-Anbieter beanstanden. Dieser hat die Beanstandung zu prüfen. Liegt die Bearbeitung der Beanstandung nicht in seiner Kompetenz, so leitet er diese an das BAZG weiter.
+
+<sup>2</sup> Die Frist zur Einsprache gegen die Veranlagung ist mit der Beanstandung beim EETS-Anbieter gewahrt.
+
+[^23a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 ## 7. Abschnitt: Schlussbestimmungen
 
 #### Art. 24
@@ -341,11 +496,19 @@ Widerhandlungen werden nach dem Bundesgesetz vom 22. März 1974[^22-2] über das
 
 #### Art. 25
 
-**Übergangsbestimmung**
+[^25-1]
 
-Bis zum Inkrafttreten einer Verfassungsgrundlage für die Abgabeverwendung im Sinn von Artikel 19 Absatz 2 wird der Ertrag der Abgabe nach Vorgabe von Artikel 36<sup>quater</sup> der Bundesverfassung[^25-1] verwendet.
+[^25-1]: Aufgehoben durch Ziff. I des BG vom 17. März 2023, mit Wirkung seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
-[^25-1]: [[AS 1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)]. Siehe heute Art. 85 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+#### Art. 25a
+
+**Übergangsbestimmungen zur Änderung vom 17. März 2023**[^25a-1]
+
+<sup>1</sup> Für Fahrzeuge, die bei Inkrafttreten der Änderung vom 17. März 2023 mit dem bisherigen Erfassungsgerät ausgerüstet sind, gilt das bisherige Recht. Spätestens ab 1. Januar 2025 muss der Dienst des beauftragten oder eines zugelassenen Anbieters nach neuem Recht genutzt werden.
+
+<sup>2</sup> Verfahren, die bei Inkrafttreten der Änderung vom 17. März 2023 hängig sind, werden nach bisherigem Recht abgeschlossen.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 26
 

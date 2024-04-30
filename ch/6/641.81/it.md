@@ -4,34 +4,38 @@ title: "Legge federale del 19 dicembre 1997 concernente una tassa sul traffico p
 short: LTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: it
-version: 2023-09-01
+version: 2024-05-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20240501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente una tassa sul traffico pesante commisurata alle prestazioni (Legge sul traffico pesante, LTTP)
 
-del 19 dicembre 1997 (Stato 1° settembre 2023)
+del 19 dicembre 1997 (Stato 1° maggio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 24septies, 36quater e 36sexies della Costituzione federale nonché l’articolo 23 delle disposizioni transitorie della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale dell’11 settembre 1996[^ingress-3],
+visti gli articoli 74, 84 e 85 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale dell’11 settembre 1996[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905); [1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); **1999** 742]. A queste disp. corrispondono ora gli art. 74, 84, 85 e 196 n. 3 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta l’art. 6 n. 1 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727); [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [FF 1996 V 407](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
-## Sezione 1: Scopo e campo d’applicazione
+## Sezione 1: Disposizioni generali
+
+[^sec1-1]
+
+[^sec1-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 1
 
-**Scopo**
+**... [^1-1]**
 
 <sup>1</sup> La tassa sul traffico pesante commisurata alle prestazioni (tassa) deve far sì che, a lungo termine, il traffico pesante copra i costi d’infrastruttura ad esso imputabili e quelli a carico della collettività, in quanto esso non compensi già tali costi con altre prestazioni o tasse.
 
@@ -42,11 +46,13 @@ La tassa contribuisce inoltre a:
 - a. migliorare le condizioni quadro della ferrovia sul mercato dei trasporti;
 - b. incrementare il trasporto delle merci per ferrovia.
 
+[^1-1]: Abrogata dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 #### Art. 2
 
-**Campo d’applicazione**
+[^2-1]
 
-La tassa è riscossa per l’utilizzazione delle strade pubbliche.
+[^2-1]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## Sezione 2: Obbligo fiscale
 
@@ -74,7 +80,32 @@ La tassa è riscossa sui veicoli pesanti a motore e i rimorchi immatricolati in 
 
 <sup>1</sup> È assoggettato al pagamento della tassa il detentore; nel caso di veicoli esteri è assoggettato anche il conducente.
 
-<sup>2</sup> Il Consiglio federale può dichiarare altre persone solidalmente responsabili.
+<sup>2</sup> Per i rimorchi trainati è assoggettato al pagamento della tassa il detentore del veicolo a motore.[^5-1]
+
+[^5-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 5a
+
+**Responsabilità solidale**[^5a-1]
+
+<sup>1</sup>
+
+Se il detentore di un veicolo a motore è insolvibile o è stato diffidato invano, il proprietario, il locatore e il fornitore del leasing del veicolo sono solidalmente responsabili:
+
+- a. della tassa per il veicolo a motore;
+- b. della tassa per i rimorchi trainati; e
+- c. degli eventuali interessi ed emolumenti dovuti.
+
+<sup>2</sup> Tali persone non sono solidalmente responsabili se prima della conclusione del contratto l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) conferma, su richiesta, che il detentore del veicolo non è insolvibile né è stato diffidato invano.
+
+<sup>3</sup>
+
+Se constata a posteriori che il detentore è insolvibile o è stato diffidato invano e se intende assoggettare alla responsabilità solidale la persona solidamente responsabile di cui al capoverso 1, l’UDSC comunica per scritto a tale persona che essa è solidalmente responsabile delle tasse future nonché degli eventuali interessi ed emolumenti dovuti per il veicolo salvo che:
+
+- a. essa disdica il contratto entro 60 giorni; o
+- b. tutte le tasse e gli eventuali interessi ed emolumenti dovuti per il veicolo siano interamente pagati entro 60 giorni.
+
+[^5a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 ## Sezione 3: Basi di calcolo della tassa
 
@@ -82,11 +113,13 @@ La tassa è riscossa sui veicoli pesanti a motore e i rimorchi immatricolati in 
 
 **Principio**
 
-<sup>1</sup> La tassa è calcolata in base al peso totale massimo autorizzato del veicolo e ai chilometri percorsi.
+<sup>1</sup> La tassa è calcolata in base al peso totale massimo autorizzato del veicolo e ai chilometri percorsi nel territorio doganale.[^6-1]
 
 <sup>2</sup> Nel caso di veicoli combinati, il peso totale massimo autorizzato dei veicoli trattori può essere utilizzato come base di calcolo della tassa.
 
 <sup>3</sup> La tassa può inoltre essere riscossa in funzione delle emissioni o del consumo.
+
+[^6-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 7
 
@@ -146,18 +179,53 @@ All’introduzione della tassa e ad ogni aumento della tariffa il Consiglio fede
 
 #### Art. 11
 
-**Determinazione della prestazione chilometrica assoggettata alla tassa**
+**Determinazione dei chilometri percorsi**[^11-1]
 
-<sup>1</sup> La persona assoggettata alla tassa deve collaborare alla determinazione della prestazione chilometrica.
+<sup>1</sup> La persona assoggettata al pagamento della tassa collabora alla determinazione dei chilometri percorsi. Il tragitto percorso è determinato manualmente o automaticamente e dichiarato all’UDSC.
 
-<sup>2</sup> Il Consiglio federale può prescrivere l’installazione di dispositivi speciali o altri mezzi ausiliari, a prova di manipolazione, per la rilevazione della prestazione chilometrica. Per quanto possibile, tali dispositivi devono essere intercambiabili con i dispositivi prescritti nell’UE.
+<sup>2</sup> Il Consiglio federale stabilisce le modalità di determinazione dei chilometri percorsi. Può prescrivere l’installazione e l’utilizzo di dispositivi o di altri mezzi ausiliari, a prova di manipolazione, per la determinazione dei chilometri percorsi come parte di un sistema di rilevazione automatizzato (sistema di rilevazione nel veicolo). Stabilisce le condizioni da soddisfare affinché nel territorio doganale possano essere utilizzati dispositivi e altri mezzi ausiliari autorizzati nell’Unione europea (UE) per la determinazione dei chilometri percorsi.
 
 <sup>3</sup> In mancanza di indicazioni idonee o di documenti, la tassa può essere imposta d’ufficio.
 
-<sup>4</sup> L’importo della tassa può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^11-1] sulla protezione dei dati.[^11-2]
+<sup>4</sup> Se il Consiglio federale ha prescritto l’installazione e l’utilizzo di un sistema di rilevazione nel veicolo, la persona assoggettata al pagamento della tassa garantisce che tale sistema venga messo in funzione nel veicolo al quale è destinato. Durante la corsa il sistema deve essere ininterrottamente in funzione.
 
-[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^11-2]: Introdotto dall’all. 1 n. II 53 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^11-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 11a
+
+**Fornitore di servizi per la determinazione dei chilometri percorsi**[^11a-1]
+
+<sup>1</sup> Il Consiglio federale può incaricare un fornitore di servizi (fornitore incaricato) di prestare alle persone assoggettate al pagamento della tassa un servizio per la determinazione dei chilometri percorsi.
+
+<sup>2</sup> Il Consiglio federale può autorizzare altri fornitori di servizi a determinare i chilometri percorsi (fornitori autorizzati). Stabilisce le condizioni per l’autorizzazione.
+
+<sup>3</sup> Per la determinazione dei chilometri percorsi la persona assoggettata al pagamento della tassa deve ricorrere al servizio del fornitore incaricato oppure di un fornitore autorizzato. Se sceglie il fornitore incaricato, quest’ultimo è tenuto a fornire il proprio servizio.
+
+<sup>4</sup> L’UDSC stabilisce le prescrizioni tecniche e operative che i fornitori devono soddisfare. Per l’installazione e l’utilizzo di sistemi di rilevazione nei veicoli può dichiarare applicabili le prescrizioni tecniche e operative dell’UE.
+
+[^11a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 11b
+
+**Obblighi del fornitore incaricato e dei fornitori autorizzati**[^11b-1]
+
+<sup>1</sup>
+
+Il fornitore incaricato e i fornitori autorizzati collaborano nell’ambito della riscossione della tassa:
+
+- a. registrando le persone assoggettate al pagamento della tassa e i veicoli per i quali queste ultime devono versare la tassa;
+- b. fornendo alla persona assoggettata al pagamento della tassa, se necessario, un sistema di rilevazione nel veicolo;
+- c. determinando il tragitto percorso dai veicoli;
+- d. trasmettendo all’UDSC i dati necessari per la riscossione della tassa (dichiarazione);
+- e. versando, nella misura in cui sia da loro dovuta, la tassa all’UDSC entro il termine di pagamento.
+
+<sup>2</sup> Il fornitore incaricato non può esercitare attività economiche diverse da quelle previste dalla presente legge.
+
+<sup>3</sup> L’autorizzazione può essere vincolata ad altre condizioni.
+
+<sup>4</sup> Per i servizi che prestano a favore dell’UDSC i fornitori possono ricevere una controprestazione. Il Dipartimento federale delle finanze ne stabilisce l’importo per i fornitori autorizzati. Può prevedere un emolumento di riscossione.
+
+[^11b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 12
 
@@ -165,7 +233,25 @@ All’introduzione della tassa e ad ogni aumento della tariffa il Consiglio fede
 
 <sup>1</sup> Per i veicoli svizzeri, l’obbligo fiscale inizia il giorno dell’immatricolazione ufficiale del veicolo e termina il giorno della restituzione delle targhe di controllo o dell’annullamento della licenza di circolazione.
 
-<sup>2</sup> Per i veicoli esteri, l’obbligo fiscale inizia con l’entrata nel territorio svizzero e termina al più tardi con l’uscita. Il credito fiscale diventa esigibile al più tardi al momento dell’uscita dalla Svizzera.
+<sup>2</sup> Per i veicoli esteri, l’obbligo fiscale inizia con l’entrata nel territorio doganale e termina al più tardi con l’uscita dal territorio doganale.[^12-1]
+
+[^12-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 12a
+
+**Nascita del debito fiscale**[^12a-1]
+
+Il debito fiscale nasce all’inizio della corsa nel territorio doganale. Diventa esigibile dal momento della sua nascita.
+
+[^12a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 12b
+
+**Estinzione del debito fiscale in caso di veicoli esteri**[^12b-1]
+
+Il debito fiscale per i veicoli esteri per i quali si è ricorso al servizio di un fornitore autorizzato si estingue al momento del pagamento della tassa all’UDSC.
+
+[^12b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 13
 
@@ -189,15 +275,22 @@ La tassa è riscossa almeno una volta all’anno.
 
 #### Art. 14a
 
-**Rifiuto e revoca della licenza di circolazione e delle targhe di controllo**[^14a-1]
+**Misure amministrative**[^14a-1]
 
-La licenza di circolazione e le targhe di controllo sono rifiutate o ritirate quando:
+<sup>1</sup>
 
-- a. la tassa non è stata pagata e il detentore è stato invano diffidato;
-- b. i pagamenti anticipati, le prestazioni di garanzie e i provvedimenti cautelativi non sono avvenuti e il detentore è stato invano diffidato;
-- c. il veicolo non è equipaggiato con l’apparecchio di rilevazione prescritto per la riscossione della tassa.
+Su richiesta dell’UDSC, l’autorità cantonale competente per l’ammissione alla circolazione rifiuta o revoca la licenza di circolazione e ritira le targhe di controllo per un veicolo svizzero per il quale, dopo diffida infruttuosa del suo detentore:
 
-[^14a-1]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+- a. la tassa non è stata pagata;
+- b. i pagamenti anticipati e le prestazioni di garanzie non sono avvenuti;
+- c. ai fini della determinazione dei chilometri percorsi non viene utilizzato uno dei sistemi di rilevazione nel veicolo prescritti;
+- d. un sistema di rilevazione nel veicolo difettoso non viene né riparato né sostituito.
+
+<sup>2</sup> Se il rifiuto o la revoca riguarda soltanto un veicolo determinato, le targhe trasferibili possono continuare a essere utilizzate per i veicoli non interessati dalla misura.
+
+<sup>3</sup> Se per un veicolo svizzero o estero è soddisfatta una delle condizioni di cui al capoverso 1, l’UDSC può negare il proseguimento della corsa o sequestrare il veicolo.
+
+[^14a-1]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)). Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 15
 
@@ -239,6 +332,26 @@ La licenza di circolazione e le targhe di controllo sono rifiutate o ritirate qu
 
 I dati relativi alle prestazioni chilometriche possono essere utilizzati a fini statistici nel rispetto della protezione dei dati.
 
+## Sezione 4*a*: Controlli
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 18a
+
+**Principio**
+
+<sup>1</sup> L’UDSC effettua controlli per verificare la collaborazione alla riscossione della tassa.
+
+<sup>2</sup> Può effettuare i controlli in modo automatizzato.
+
+#### Art. 18b
+
+**Controllo del tragitto percorso**
+
+L’UDSC può utilizzare i dati del tachigrafo per controllare se i chilometri percorsi calcolati in base al tragitto indicato nella dichiarazione corrispondono a quelli effettivi.
+
 ## Sezione 5: Impiego della tassa
 
 #### Art. 19
@@ -274,23 +387,53 @@ I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento 
 
 ## Sezione 6: Disposizioni penali e rimedi giuridici
 
+#### Art. 19b
+
+**Infrazioni fiscali**[^19b-1]
+
+Sono considerate infrazioni fiscali:
+
+- a. la sottrazione della tassa;
+- b. la messa in pericolo della tassa.
+
+[^19b-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 #### Art. 20
 
-**Messa in pericolo o sottrazione della tassa**
+**Sottrazione della tassa**[^20-1]
 
-<sup>1</sup> Chiunque intenzionalmente sottrae o mette in pericolo la tassa, procura a sé o ad altri un indebito profitto o compromette la procedura di tassazione legale, ottiene indebitamente una riduzione o un rimborso oppure fornisce dati inesatti in una domanda di rimborso, è punito con la multa fino al quintuplo della tassa sottratta o messa in pericolo o dell’indebito profitto. In caso di negligenza, la multa può raggiungere il triplo della tassa sottratta o messa in pericolo o dell’indebito profitto. Sono fatti salvi gli articoli 14–16 della legge federale del 22 marzo 1974[^20-1] sul diritto penale amministrativo. La multa minima ammonta a 100 franchi.
+<sup>1</sup>
 
-<sup>2</sup> Se non può essere calcolato esattamente, l’importo della tassa messa in pericolo o sottratta è stimato.
+È punito con la multa fino al quintuplo della tassa sottratta o del profitto fiscale indebito chiunque, intenzionalmente:
 
-<sup>3</sup> Il tentativo e la complicità sono punibili.
+- a. omettendo la dichiarazione, procedendo a occultamenti, presentando una dichiarazione inesatta, non mettendo in funzione il sistema di rilevazione nel veicolo o in qualsiasi altro modo, sottrae tutta o parte della tassa; o
+- b. procaccia altrimenti a sé o a un terzo un profitto fiscale indebito.
 
-<sup>4</sup> Se un atto costituisce contemporaneamente una sottrazione o messa in pericolo della tassa e un’infrazione ad altre disposizioni federali sulle tasse perseguibile da parte dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC) oppure un’infrazione doganale, si applica la pena corrispondente all’infrazione più grave; la pena è adeguatamente aumentata.[^20-2]
+<sup>2</sup> Se ha agito per negligenza, l’autore è punito con la multa fino al triplo della tassa sottratta o del profitto fiscale indebito.
 
-<sup>5</sup> Il fatto di omettere per negligenza di dichiarare il rimorchio a un apparecchio di rilevazione che funziona correttamente è esente da pena.[^20-3]
+<sup>3</sup> Il tentativo è punibile.
 
-[^20-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^20-2]: Nuovo testo giusta il n. I 24 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^20-3]: Introdotto dal n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+<sup>4</sup> Se non possono essere determinati esattamente, la tassa sottratta o il profitto fiscale indebito sono stimati nell’ambito del procedimento amministrativo.
+
+[^20-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
+#### Art. 20a
+
+**Messa in pericolo della tassa mediante violazione degli obblighi procedurali**[^20a-1]
+
+<sup>1</sup>
+
+È punito con la multa fino a 20 000 franchi chiunque, intenzionalmente:
+
+- a. non mette in funzione il sistema di rilevazione nel veicolo prima dell’inizio della corsa nel territorio doganale;
+- b. non mette in funzione il sistema di rilevazione nel veicolo a motore al quale esso è destinato;
+- c. non tiene ininterrottamente in funzione il sistema di rilevazione nel veicolo durante la corsa;
+- d. non dichiara correttamente nel sistema di rilevazione nel veicolo un rimorchio trainato;
+- e. omette la dichiarazione, presenta una dichiarazione inesatta, non trasmette i dati determinanti per la verifica della riscossione della tassa o non li trasmette correttamente.
+
+<sup>2</sup> Se ha agito per negligenza, l’autore è punito con la multa fino a 10 000 franchi.
+
+[^20a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 21
 
@@ -300,11 +443,13 @@ I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento 
 
 #### Art. 22
 
-**Perseguimento penale da parte dell’UDSC**[^22-1]
+**Perseguimento penale**[^22-1]
 
-L’UDSC persegue e giudica le infrazioni conformemente alla legge federale del 22 marzo 1974[^22-2] sul diritto penale amministrativo..
+<sup>1</sup> Le infrazioni fiscali alla presente legge sono perseguite e giudicate conformemente alla legge federale del 22 marzo 1974[^22-2] sul diritto penale amministrativo.
 
-[^22-1]: Nuovo testo giusta il n. I 24 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+<sup>2</sup> L’UDSC è l’autorità di perseguimento e giudizio.
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 23
@@ -322,6 +467,16 @@ L’UDSC persegue e giudica le infrazioni conformemente alla legge federale del 
 [^23-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 [^23-2]: Nuovo testo giusta l’all. n. 56 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
+#### Art. 23a
+
+**Contestazione della fatturazione in caso di ricorso al servizio di un fornitore del SET**[^23a-1]
+
+<sup>1</sup> Se considera errata la fatturazione emessa da un fornitore autorizzato del sistema europeo per la riscossione elettronica delle tasse sull’uso delle strade (fornitore del SET), la persona assoggettata al pagamento della tassa può contestare la fattura al fornitore del SET entro il termine di opposizione. Il fornitore del SET è tenuto a verificare la contestazione. Qualora il trattamento della contestazione non rientri nella sua competenza, la trasmette all’UDSC.
+
+<sup>2</sup> Il termine di opposizione contro la tassazione è considerato rispettato con la presentazione della contestazione presso il fornitore del SET.
+
+[^23a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
+
 ## Sezione 7: Disposizioni finali
 
 #### Art. 24
@@ -337,11 +492,19 @@ L’UDSC persegue e giudica le infrazioni conformemente alla legge federale del 
 
 #### Art. 25
 
-**Disposizione transitoria**
+[^25-1]
 
-Fino all’entrata in vigore di una base costituzionale per l’impiego della tassa ai sensi dell’articolo 19 capoverso 2, l’impiego dei proventi della tassa sul traffico pesante avviene in base all’articolo 36<sup>quater</sup> della Costituzione federale[^25-1].
+[^25-1]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
-[^25-1]: [CS **1** 3; [RU 1994 1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)]. Vedi ora l’art. 85 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+#### Art. 25a
+
+**Disposizione transitoria della modifica del 17 marzo 2023**[^25a-1]
+
+<sup>1</sup> Ai veicoli che all’entrata in vigore della modifica del 17 marzo 2023 sono equipaggiati con un apparecchio di rilevazione precedente si applica il diritto anteriore. A partire al più tardi dal 1° gennaio 2025 per tali veicoli occorre ricorrere al servizio del fornitore incaricato o di un fornitore autorizzato secondo il nuovo diritto.
+
+<sup>2</sup> Le procedure pendenti all’entrata in vigore della modifica del 17 marzo 2023 sono concluse secondo il diritto anteriore.
+
+[^25a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 
 #### Art. 26
 
