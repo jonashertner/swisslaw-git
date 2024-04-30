@@ -4,13 +4,13 @@ number: "215.11"
 title: Mittelschulverordnung
 short: MSV
 language: de
-version: 2015-08-01
-valid_until: 2024-04-30
-version_adopted: 2015-03-24
+version: 2024-05-01
+valid_until: 2026-07-31
+version_adopted: 2024-04-02
 adopted: 1981-03-17
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1881/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1881/pdf_file"
 
 (MSV)
 
-vom 17.03.1981 (Stand 01.08.2015)
+vom 17.03.1981 (Stand 01.05.2024)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -105,7 +105,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Beschlüsse werden durch einfaches Mehr gefasst. Stimmenthaltung ist unzulässig. Bei Stimmengleichheit ist der Antrag angenommen, für den die oder der Vorsitzende gestimmt hat.
 
-### Schulbetrieb
+### 2. Schulbetrieb
 
 #### Art. 8
 
@@ -174,6 +174,32 @@ als Verordnung:[^ingress-2]
 #### Art. 16
 
 **…**
+
+#### Art. 16bis
+
+**Datenbekanntgabe für die Nutzung digitaler Lehrmittel**
+
+<sup>1</sup> An den Mittelschulen können im Rahmen des Bildungsauftrags digitale Lehrmittel eingesetzt werden.
+
+<sup>2</sup> Die Mittelschule oder das Amt für Mittelschulen kann Drittanbietern, die digitale Lehrmittel betreiben, folgende Personendaten von Schülerinnen und Schülern sowie Lehrpersonen bekanntgeben, soweit diese zu deren Authentifizierung notwendig sind:
+
+- a) Vorname und Name;
+- b) Geburtsdatum;
+- c) Sprache;
+- d) Rolle;
+- e) E-Mail-Adresse;
+- f) Institution;
+- g) Bildungsstufe;
+- h) Klasse oder Klassenstufe;
+- i) Kanton;
+- j) Funktion;
+- k) AHV-Versichertennummer;
+- l) technischer Identifikator;
+- m) Identitätsanbieter-Identifikation.
+
+<sup>3</sup> Die Datenbekanntgabe kann im Abrufverfahren nach Art. 15 Abs. 1 des Datenschutzgesetzes vom 20. Januar 2009[^16bis-1] erfolgen.
+
+[^16bis-1]: sGS [142.1](https://www.gesetzessammlung.sg.ch/data/142.1/de).
 
 ## III. Schülerinnen und Schüler
 
