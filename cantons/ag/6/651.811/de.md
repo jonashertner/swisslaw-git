@@ -4,13 +4,13 @@ number: "651.811"
 title: Verordnung über die Amtshilfe der Steuerbehörden
 short: VAS
 language: de
-version: 2020-01-01
-valid_until: 2024-04-30
-version_adopted: 2019-11-06
+version: 2024-05-01
+valid_until: 2025-06-30
+version_adopted: 2024-03-27
 adopted: 2019-11-06
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.811"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2793/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2793/pdf_file"
 
 (VAS)
 
-Vom 06.11.2019 (Stand 01.01.2020)
+Vom 06.11.2019 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
