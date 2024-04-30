@@ -4,13 +4,12 @@ number: "152.221.131"
 title: Verordnung über die Organisation und die Aufgaben der Direktion für Inneres und Justiz
 short: "Organisationsverordnung DIJ, OrV DIJ"
 language: de
-version: 2022-09-01
-valid_until: 2024-04-30
-version_adopted: 2022-06-29
+version: 2024-05-01
+version_adopted: 2024-03-13
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2651/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2651/pdf_file"
 
 (Organisationsverordnung DIJ, OrV DIJ)
 
-vom 18.10.1995 (Stand 01.09.2022)
+vom 18.10.1995 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,7 +49,7 @@ beschliesst:
 - i der Verwaltungsrechtspflege,
 - i1 des Aufsichtsrechts der beruflichen Vorsorge und des Stiftungswesens,
 - j–k …
-- l der Sozialversicherung (ohne Unfall- und Arbeitslosenversicherung),
+- l der Sozialversicherungen,
 - m des Kindes- und Erwachsenenschutzes,
 - n des Advokatur- und Notariatswesens,
 - o des Grundbuchwesens,
@@ -107,7 +106,8 @@ beschliesst:
 
 - a Ausgleichskasse des Kantons Bern (AKB),
 - b IV-Stelle Bern (iv/ai be),
-- c Bernische BVG- und Stiftungsaufsicht (BBSA).
+- c Bernische BVG- und Stiftungsaufsicht (BBSA),
+- d Familienausgleichskasse des Kantons Bern (FKB).
 
 <sup>2</sup> Die Direktion für Inneres und Justiz vertritt den Kanton als Träger gegenüber diesen Anstalten. Sie sorgt für die rechtzeitige Information des Regierungsrates über wesentliche Fragen und stellt die notwendigen Anträge.
 
@@ -202,9 +202,10 @@ beschliesst:
 
 <sup>1</sup> Dem Generalsekretariat ist eine Beauftragte oder ein Beauftragter für kirchliche und religiöse Angelegenheiten (BKRA) zugeordnet.
 
-<sup>2</sup> Sie oder er
+<sup>2</sup> Die oder der BKRA
 
-- a bereitet sämtliche Geschäfte in kirchlichen und religiösen Angelegenheiten vor, soweit dafür nicht ein anderes Amt zuständig ist;
+- a leitet die Fachstelle für kirchliche und religiöse Angelegenheiten;
+- a1 bereitet sämtliche Geschäfte in kirchlichen und religiösen Angelegenheiten vor, soweit dafür nicht ein anderes Amt zuständig ist;
 - b ist verfügende kantonale Behörde in kirchlichen und religiösen Angelegenheiten, soweit die Beschwerde an die Direktion offensteht;
 - c ist die Verbindungsstelle zwischen den Landeskirchen und den kantonalen Behörden und Verwaltungsstellen;
 - d bearbeitet Grundsatzfragen aus dem Verhältnis zwischen Staat und Kirchen bzw. anderen Religionsgemeinschaften;
@@ -252,13 +253,13 @@ beschliesst:
 
 - a übernimmt die Aufgaben der kantonalen Zentralen Behörde im Rahmen der internationalen Kindesentführungen und der Vollstreckungsbehörde im Bereich der Kindesrückführung gemäss dem Bundesgesetz vom 21. Dezember 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE)[^13a-1];
 - b sichert die zweckmässige Zusammenarbeit der Behörden und Stellen auf dem Gebiet des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe;
-- c übernimmt die der Direktion durch die Gesetzgebung über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf zugewiesenen Aufgaben;
+- c übernimmt die der Direktion durch die Gesetzgebung über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf zugewiesenen Aufgaben, soweit diese nicht in den Aufgabenbereich eines anderen Amts fallen;
 - d übernimmt die der Direktion im Bereich der Steuerung und Aufsicht über die KESB zugewiesenen Aufgaben;
 - e übernimmt für die KESB das Controlling über die Einhaltung der Leistungsvereinbarungen;
 - f übernimmt die Aufgaben der Übermittlungs- und Empfangsstelle gemäss dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung von Unterhaltsansprüchen im Ausland[^13a-2];
 - g übernimmt die der Direktion durch die Gesetzgebung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen zugewiesenen Aufgaben;
 - h übernimmt die Aufgaben der kantonalen Zentralen Behörde auf dem Gebiet der internationalen Adoptionen gemäss dem Bundesgesetz vom 22. Juni 2001 zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ)[^13a-3];
-- i ist zuständig für die Bewilligung zur Aufnahme von Pflegekindern zur späteren Adoption;
+- i ist zuständig für die Bewilligung zur Aufnahme von Pflegekindern aus dem In- und Ausland sowie für die Bewilligung zur Aufnahme von Pflegekindern zur späteren Adoption und führt die Aufsicht über die Familien- und Adoptivpflegeverhältnisse;
 - k übernimmt die der kantonalen Behörde gemäss Bundesgesetzgebung zur Adoption zugewiesenen Aufgaben, insbesondere die Instruktion des Adoptionsverfahrens und die Auskunftsfunktion, und ist Beratungsstelle für die leiblichen Eltern, deren Nachkommen sowie das Kind;
 - l …
 - m bereitet die Gesetzgebung in seinem Aufgabenbereich vor;
@@ -285,14 +286,14 @@ beschliesst:
 - b bereitet in Zusammenarbeit mit den betroffenen Stellen die Verfügungen der Direktion über streitige Ansprüche gegen den Kanton auf Schadenersatz oder Genugtuung vor (Art. 104 des Personalgesetzes vom 16. September 2004 [PG][^14-1]);
 - b1 bereitet die Verfügungen der Direktion vor, die im Bereich der dezentralen Organisationseinheiten und des Handelsregisteramts notwendig und nicht einer anderen Amtsstelle zugewiesen sind;
 - b2 bereitet die Verfügungen der Direktion vor betreffend den Entzug der Unterrichtsberechtigung von Personen, die an Einrichtungen gemäss Artikel 13a Absatz 2 Unterricht erteilen, anleiten, überwachen oder Leitungs- bzw. Betreuungsaufgaben wahrnehmen;
-- c bereitet die Gesetzgebung vor, soweit sie nicht in den Aufgabenbereich eines andern Amtes fällt;
+- c bereitet die Gesetzgebung vor, soweit sie nicht in den Aufgabenbereich eines andern Amts fällt;
 - d bereitet die Regierungsratsbeschlüsse bei Meinungsverschiedenheiten zwischen einer andern Direktion und der Finanzkontrolle vor;
 - e …
 - f führt die rechtliche Begutachtung von Geschäften aus dem Fachbereich anderer Direktionen durch;
 - g besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel;
 - h …
 - i vertritt den Regierungsrat oder die Direktion im Geschäftsbereich der Direktion für Inneres und Justiz vor kantonalen und eidgenössischen Verwaltungsjustizbehörden und Gerichten;
-- k leistet den Ämtern rechtliche Unterstützung, soweit dies nicht in den Aufgabenbereich eines andern Amtes fällt;
+- k leistet den Ämtern rechtliche Unterstützung, soweit dies nicht in den Aufgabenbereich eines andern Amts fällt;
 - l betreut die Zusammenarbeit zwischen der Verwaltung und der Justiz.
 
 [^14-1]: BSG 153.01
@@ -305,23 +306,24 @@ beschliesst:
 
 **Amt für Sozialversicherungen (ASV)**
 
-<sup>1</sup> Das Amt für Sozialversicherungen (ASV)
+<sup>1</sup> Das Amt für Sozialversicherungen
 
 - a–c …
-- d vollzieht das Versicherungsobligatorium in der Krankenversicherung nach Artikel 6 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^16-1] und die Verbilligung von Krankenkassenprämien nach Artikel 65 KVG;[^16-2]
+- d sorgt für die Einhaltung der Versicherungspflicht in der obligatorischen Krankenpflegeversicherung (Art. 6 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung [KVG][^16-1]);
+- d1 vergütet den Krankenversicherern die Verluste (Art. 64a KVG);
+- d2 führt die Prämienverbilligungen durch (Art. 65 KVG);
 - e …
-- f bereitet die Geschäfte im Bereich Sozialversicherung für die Direktion vor;[^16-3]
-- g bereitet die Gesetzgebung in seinem Aufgabenbereich vor;[^16-4]
-- h besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel;[^16-5]
-- i vollzieht die Aufgaben des Kantons im Bereich der Alters-, Hinterlassenen- und Invalidenversicherung, der Ergänzungsleistungen zur AHV und zur IV, der Überbrückungsleistungen für ältere Arbeitslose und der landwirtschaftlichen Familienzulagen, soweit diese Aufgaben nicht durch die Gesetzgebung der Ausgleichskasse des Kantons Bern oder der IV-Stelle des Kantons Bern übertragen worden sind, und stellt die Mittel bereit, um der Ausgleichskasse des Kantons Bern die ihr übertragenen Aufgaben zu entschädigen;[^16-6]
-- k führt das Lastenausgleichsverfahren zwischen den Familienausgleichskassen durch.
+- f bereitet die Geschäfte im Bereich der Sozialversicherungen für die Direktion vor, soweit dafür nicht eine andere Direktion zuständig ist;
+- g bereitet die Gesetzgebung in seinem Aufgabenbereich vor;
+- h nimmt die Planung und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel vor;
+- i stellt die Mittel bereit, um die AKB für die Erfüllung der ihr übertragenen Aufgaben zu entschädigen;
+- k führt das Lastenausgleichsverfahren zwischen den Familienausgleichskassen durch;
+- l stellt den Finanztransfer sicher im Bereich
+  - 1\. der Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung zwischen Bund, Kanton und Gemeinden,
+  - 2\. der Prämienverbilligungen und der Familienzulagen in der Landwirtschaft zwischen Bund und Kanton,
+  - 3\. der Familienzulagen für Nichterwerbstätige zwischen Kanton und Gemeinden.
 
 [^16-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
-[^16-2]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
-[^16-3]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
-[^16-4]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
-[^16-5]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
-[^16-6]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
 
 #### Art. 16a
 
@@ -333,10 +335,10 @@ beschliesst:
 - b koordiniert und führt die der Direktion obliegenden Aufgaben der Baulandumlegung und Grenzregulierung durch;
 - c hat die Aufsicht im Vermessungswesen;
 - d leitet, überwacht und verifiziert die Arbeiten der amtlichen Vermessung und koordiniert diese mit den andern Vermessungsvorhaben;
-- e unterstützt andere Stellen der Kantonsverwaltung bei vermessungstechnischen Fragen;
+- e unterstützt andere Stellen der Kantonsverwaltung bei Fragen zu Methoden der Geomatik;
 - f ist zuständig für die Festlegung der geografischen Namen der amtlichen Vermessung;
 - g koordiniert die Änderungen des Perimeters einer Ortschaft mit den betroffenen Gemeinden und der Post, legt die Änderungen räumlich und die Schreibweise fest und meldet sie dem Bundesamt für Landestopografie swisstopo;
-- h hat die Aufsicht über den Leitungskataster;
+- h koordiniert den Betrieb des Leitungskatasters und übt die Aufsicht über diesen Betrieb aus;
 - i beschafft Geodaten von kantonaler Bedeutung, berät, unterstützt und koordiniert die Direktionen sowie die Staatskanzlei hinsichtlich der Geoinformation und erlässt die notwendigen fachlichen Weisungen;
 - k betreibt die kantonale Geodaten-Infrastruktur;
 - l ist die für die Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen verantwortliche Stelle nach Artikel 17 der Verordnung des Bundesrates vom 2. September 2009 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV)[^16a-1];

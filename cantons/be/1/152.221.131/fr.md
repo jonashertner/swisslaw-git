@@ -4,13 +4,12 @@ number: "152.221.131"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'intérieur et de la justice *"
 short: "Ordonnance d'organisation DIJ, OO DIJ"
 language: fr
-version: 2022-09-01
-valid_until: 2024-04-30
-version_adopted: 2022-06-29
+version: 2024-05-01
+version_adopted: 2024-03-13
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2651/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3013/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2651/pdf_file"
 
 (Ordonnance d'organisation DIJ, OO DIJ)
 
-du 18.10.1995 (état au 01.09.2022)
+du 18.10.1995 (état au 01.05.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,7 +49,7 @@ arrête:
 - i justice administrative,
 - i1 droit de la surveillance de la prévoyance professionnelle et des fondations,
 - j–k …
-- l assurances sociales (sans l'assurance-accidents ni l'assurance-chômage),
+- l assurances sociales,
 - m protection de l’enfant et de l’adulte,
 - n barreau et notariat,
 - o registre foncier,
@@ -107,7 +106,8 @@ arrête:
 
 - a Caisse de compensation du canton de Berne (CCB),
 - b Office AI de Berne (iv/ai be),
-- c Autorité bernoise de surveillance des institutions de prévoyance et des fondations (ABSPF).
+- c Autorité bernoise de surveillance des institutions de prévoyance et des fondations (ABSPF),
+- d Caisse d’allocations familiales du canton de Berne (CAB).
 
 <sup>2</sup> La Direction de l'intérieur et de la justice représente le canton en tant qu'organe responsable de ces établissements. Elle veille à informer en temps utile le Conseil-exécutif des questions essentielles et présente les propositions nécessaires.
 
@@ -200,11 +200,12 @@ arrête:
 
 **2. Affaires ecclésiastiques et religieuses**
 
-<sup>1</sup> Un délégué ou une déléguée aux affaires ecclésiastiques et religieuses (DAER) est rattachée au Secrétariat général.
+<sup>1</sup> Une déléguée ou un délégué aux affaires ecclésiastiques et religieuses (DAER) est rattachée au Secrétariat général.
 
-<sup>2</sup> Il ou elle
+<sup>2</sup> La déléguée ou le délégué
 
-- a prépare toutes les affaires ecclésiastiques et religieuses si aucun autre office n'est compétent en la matière;
+- a dirige le Bureau des affaires ecclésiastiques et religieuses;
+- a1 prépare toutes les affaires ecclésiastiques et religieuses si aucun autre office n'est compétent en la matière;
 - b est l'autorité cantonale de décision pour les affaires ecclésiastiques et religieuses dans la mesure où recours peut être formé devant la Direction;
 - c est l'organe de liaison entre les Eglises nationales, les autorités cantonales et les unités de l'administration;
 - d traites des questions de principe découlant du rapport entre l'Etat et les Eglises ou les autres communautés religieuses;
@@ -251,13 +252,13 @@ arrête:
 
 - a joue le rôle d’autorité centrale cantonale dans le cadre de l’enlèvement international d’enfants et d’autorité d’exécution dans le domaine du retour d’enfants conformément à la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^13a-1];
 - b assure une collaboration efficace des autorités et des services chargés des mesures de droit civil pour la protection de l’enfance, du droit pénal des mineurs et d’autres formes d’aide à la jeunesse;
-- c accomplit les tâches que la législation sur les prestations particulières d’encouragement et de protection destinées aux enfants attribue à la Direction;
+- c accomplit les tâches que la législation sur les prestations particulières d’encouragement et de protection destinées aux enfants attribue à la Direction, pour autant que cette activité ne relève pas du domaine d’un autre office;
 - d accomplit les tâches qui sont attribuées à la Direction dans le domaine du pilotage et de la surveillance des APEA;
 - e assure le controlling du respect, par les APEA, des conventions de prestations;
 - f accomplit les tâches d’autorité expéditrice et d’institution intermédiaire conformément à la Convention du 20 juin 1956 sur le recouvrement des aliments à l’étranger[^13a-2];
 - g accomplit les tâches que la législation sur l’aide au recouvrement et les avances de contributions d’entretien attribue à la Direction;
 - h assume le rôle d’autorité centrale cantonale en matière d’adoptions internationales conformément à la loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale (LF-CLaH)[^13a-3];
-- i est responsable de l’octroi d’autorisations d’accueillir des enfants en vue de leur adoption;
+- i est responsable de l’octroi d’autorisations d’accueillir des enfants de Suisse et de l’étranger ainsi que de l’octroi d’autorisations d’accueillir des enfants en vue de leur adoption et assure la surveillance sur les rapports de placement chez les parents nourriciers et sur les rapports de placement en vue d’une adoption;
 - k accomplit les tâches attribuées à l’autorité cantonale compétente conformément à la législation fédérale sur l’adoption, en particulier l’instruction de la procédure d’adoption et la fonction de service de renseignements et agit à titre de centre de consultation pour les parents biologiques, leurs descendants et l’enfant;
 - l …
 - m prépare la législation dans son domaine de compétence;
@@ -307,20 +308,21 @@ arrête:
 <sup>1</sup> L'Office des assurances sociales
 
 - a–c …
-- d met en œuvre le régime de l'assurance-maladie obligatoire selon l'article 6 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)[^16-1] et la réduction des primes des caisses-maladie selon l'article 65 LAMal;[^16-2]
+- d veille au respect de l'obligation de s'assurer pour les soins en cas de maladie (art. 6 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie [LAMa][^16-1]);
+- d1 prend en charge les pertes des assureurs (art. 64a LAMal);
+- d2 met en œuvre la réduction des primes (art. 65 LAMal);
 - e …
-- f prépare les affaires relevant des assurances sociales à l'intention de la Direction;[^16-3]
-- g prépare la législation dans son domaine;[^16-4]
-- h s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs;[^16-5]
-- i exécute les tâches du canton dans les domaines de l'assurance-vieillesse et survivants (AVS), de l'assurance-invalidité (AI), des prestations complémentaires à l'AVS et à l'AI, des prestations transitoires pour les chômeurs âgés et des allocations familiales dans l'agriculture pour autant que la législation ne confie pas ces tâches à la Caisse de compensation du canton de Berne ou à l'Office AI du canton de Berne, et met à disposition les moyens destinés à indemniser la Caisse de compensation du canton de Berne pour les tâches qui lui sont déléguées;[^16-6]
-- k mène la procédure de compensation des charges entre les caisses de compensation pour allocations familiales.
+- f prépare les affaires relevant des assurances sociales à l’intention de la Direction, pour autant qu’une autre Direction ne soit pas compétente à cet égard;
+- g prépare la législation dans son domaine;
+- h s’occupe, dans son domaine d'activité, de la planification des tâches et des ressources ainsi que des rapports y relatifs;
+- i met à disposition les moyens destinés à indemniser la Caisse de compensation du canton de Berne pour les tâches qui lui sont déléguées;
+- k mène la procédure de compensation des charges entre les caisses de compensation pour allocations familiales;
+- l assure les transferts financiers dans le domaine
+  - 1\. des prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, entre la Confédération, le canton et les communes;
+  - 2\. de la réduction des primes et des allocations familiales dans l’agriculture, entre la Confédération et le canton;
+  - 3\. des allocations familiales pour les personnes sans activité lucrative, entre le canton et les communes.
 
-[^16-1]: [RS 832.10](https://db.clex.ch/link/Bund/832.10/fr)
-[^16-2]: Ancienne lettre c
-[^16-3]: Anciennes lettres e à h
-[^16-4]: Anciennes lettres e à h
-[^16-5]: Anciennes lettres e à h
-[^16-6]: Anciennes lettres e à h
+[^16-1]: RS 832.10
 
 #### Art. 16a
 
@@ -332,10 +334,10 @@ arrête:
 - b coordonne et accomplit les tâches incombant à la Direction dans le domaine du remaniement parcellaire de terrains à bâtir et des rectifications des limites;
 - c exerce la surveillance des mensurations cadastrales;
 - d dirige, surveille et vérifie les travaux concernant la mensuration officielle et les coordonne avec les autres travaux de mensuration;
-- e seconde d'autres services de l'administration cantonale dans les questions techniques de mensuration;
+- e seconde d'autres services de l'administration cantonale dans les questions de méthodes de géomatique;
 - f est compétent pour déterminer les noms géographiques de la mensuration officielle;
 - g coordonne les modifications du périmètre d’une localité avec les communes concernées et La Poste, fixe ces modifications territoriales, ainsi que l’orthographe, et les communique à l’Office fédéral de topographie swisstopo;
-- h exerce la surveillance du cadastre des conduites;
+- h coordonne l’exploitation du cadastre des conduites et la surveille;
 - i fournit les données géographiques d’importance cantonale, conseille, soutient et assure la coordination entre les Directions et la Chancellerie d’Etat en matière d’informations géographiques et édicte les directives techniques requises;
 - k gère l’infrastructure cantonale des données géographiques;
 - l est l’organisme responsable du cadastre des restrictions de droit public à la propriété foncière au sens de l’article 17 de l’ordonnance du Conseil fédéral du 2 septembre 2009 sur le cadastre des restrictions de droit public à la propriété foncière (OCRDP)[^16a-1];
