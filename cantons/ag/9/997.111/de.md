@@ -3,20 +3,20 @@ canton: AG
 number: "997.111"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2023-07-01
-valid_until: 2024-04-30
-version_adopted: 2023-06-14
+version: 2024-05-01
+valid_until: 2024-06-30
+version_adopted: 2024-04-03
 adopted: 1981-01-26
 in_force: 1981-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3317/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-Vom 26.01.1981 (Stand 01.07.2023)
+Vom 26.01.1981 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>4</sup> Wird ein Schiff ausser Verkehr gesetzt und nicht innert einem Jahr wieder immatrikuliert oder durch ein anderes ersetzt, so verfällt die Zulassungsbewilligung.
 
-<sup>5</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten, den eingetragenen Partner, eine einzelne Person innerhalb der Verwandtschaft in gerader Linie oder beim Bootsgewerbe mit Geschäftsübergabe.
+<sup>5</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten, den eingetragenen Partner, eine einzelne Person innerhalb der Verwandtschaft in gerader Linie, ein Geschwister oder beim Bootsgewerbe mit Geschäftsübergabe.
 
 <sup>6</sup> Wird ein Halterwechsel gemäss Art. 97 Abs. 3 der bundesrätlichen Verordnung über die Schifffahrt auf schweizerischen Gewässern vom 8. November 1978[^3-1] nicht gemeldet und dadurch die Zulassungsbewilligung missbräuchlich verwendet, so ist diese zu entziehen.
 
@@ -90,6 +90,12 @@ beschliesst:
 <sup>3</sup> Segelschiffe ohne Standplatz auf dem Hallwilersee dürfen auf diesem nur mit einer zusätzlichen Saisonbewilligung verkehren.
 
 <sup>4</sup> Bei Segelregatten auf dem Hallwilersee wird die Zulassung für Segelschiffe ohne Standplatz auf dem See mit der nautischen Bewilligung erteilt.
+
+#### § 4bis
+
+**c) Segelschiffe mit Foils**
+
+<sup>1</sup> Segelschiffe mit Foils (flügelähnliche Vorrichtungen am Schiffsrumpf) werden auf dem Hallwilersee zum Verkehr zugelassen.
 
 #### § 5
 
@@ -185,6 +191,12 @@ beschliesst:
 
 [^10bis-1]: Art. 53 Abs. 3 der Verordnung über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung, BSV) vom 8. November 1978 (SR 747.201.1)
 
+#### § 10ter
+
+**Verkehrsbeschränkung für Schiffe mit Foils**
+
+<sup>1</sup> Das Foilen, wodurch der Schiffsrumpf aus dem Wasser gehoben wird, ist auf dem Hallwilersee in der inneren Uferzone von 150 Meter verboten.
+
 #### § 11
 
 **Einsetzen und Verwenden von Segelbrettern**
@@ -215,9 +227,20 @@ beschliesst:
 
 **Verwendung von Modellschiffen, Modellflugzeugen und Drohnen**
 
-<sup>1</sup> Im Rahmen des Gemeingebrauchs und des Bundesrechts ist die Verwendung von Modellschiffen gestattet. Beim Betrieb dürfen Tiere weder aufgescheucht, vertrieben noch anderweitig gestört werden.
+<sup>1</sup> Im Rahmen des Gemeingebrauchs und des Bundesrechts ist die Verwendung von Modellschiffen, Modellflugzeugen, Drohnen und anderen zivilen, unbemannten Luftfahrzeugen gestattet. Beim Betrieb dürfen weder Personen gestört noch Tiere aufgescheucht, vertrieben oder anderweitig gestört werden.
 
-<sup>2</sup> Nicht gestattet ist der rennmässige Betrieb mit Modellschiffen sowie die Verwendung von Modellflugzeugen, Drohnen und ähnlichen zivilen, unbemannten Luftfahrzeugen auf und über dem Wasser.
+<sup>2</sup> Nicht gestattet ist der rennmässige Betrieb mit Modellschiffen, Modellflugzeugen, Drohnen und anderen zivilen, unbemannten Luftfahrzeugen auf und über den Gewässern.
+
+<sup>3</sup> Die Verwendung von Modellflugzeugen, Drohnen und anderen zivilen, unbemannten Luftfahrzeugen ist zudem verboten auf und über
+
+- a) dem Hallwilersee im Bereich vor dem Boniswiler Ried, begrenzt durch die Bojenfelder Alliswil – Südspitze Risle-Wald, im Bereich der UNESCO-Pfahlbau-Fundstelle Beinwil-Ägelmoos, begrenzt durch das Bojenfeld Ägelmoos, und im Bereich Erlenhölzli, begrenzt durch das Bojenfeld Teufenbach – Moos;
+- b) dem Aabach im Bereich des Wassergrabens um das Schloss Hallwil sowie zwischen dem Ausfluss aus dem See und dem Schloss;
+- c) dem Klingnauer Stausee;
+- d) der Reuss ab dem Kraftwerk Bremgarten-Zufikon bis zur Kantonsgrenze in Jonen, inklusive Flachsee Unterlunkhofen;
+- e) den Altläufen der Reuss;
+- f) den Moorseen;
+- g) dem Egelsee (Bergdietikon);
+- h) neuen und reaktivierten Seitenarmen der Flüsse nach Publikation gemäss § 16.
 
 #### § 14
 
@@ -307,9 +330,7 @@ beschliesst:
 
 #### § 23
 
-**Ermässigung**
-
-<sup>1</sup> Gebrechlichen werden die Steuern ermässigt, wenn sie nicht in guten wirtschaftlichen Verhältnissen leben.
+**…**
 
 ## 6. Gebühren
 
@@ -437,13 +458,13 @@ beschliesst:
 
 **Rückerstattung, Gutschrift**
 
-<sup>1</sup> Bezahlte und nicht verfallene Steuern werden bei Rückgabe des Schiffsausweises zurückerstattet oder gutgeschrieben. Gutschriften sind auf Verlangen zurückzuerstatten.
+<sup>1</sup> Bezahlte und nicht verfallene Steuern werden bei Rückgabe des Schiffsausweises zurückerstattet oder gutgeschrieben.
 
 <sup>2</sup> Gutschriften werden bei einer Mutation verrechnet.
 
 <sup>3</sup> Die Rückerstattung der Hälfte der Steuer oder die Gutschrift erfolgt dann, wenn der Schiffsausweis spätestens am ersten Arbeitstag im Monat August hinterlegt oder der Post übergeben wird.
 
-<sup>4</sup> Vom Rückerstattungsbetrag werden die Postspesen abgezogen.
+<sup>4</sup> …
 
 ## 8. Verschiedene Vorschriften
 
@@ -492,10 +513,11 @@ beschliesst:
 
 <sup>1</sup> Dem Strassenverkehrsamt obliegen:
 
-- a) die Zulassung von Schiffsführern und Schiffen zum Verkehr sowie der Entzug von Schiffsführer- und Schiffsausweisen,
-- b) der Bezug von Steuern und Gebühren,
-- c) die Ermässigung der Steuern.
+- a) die Zulassung von Schiffsführern und Schiffen zum Verkehr sowie der Entzug von Schiffsführer- und Schiffsausweisen;
+- b) der Bezug von Steuern und Gebühren;
+- c) die Ermässigung der Steuern;
 - d) …
+- e) die Erteilung von Bewilligungen zum Betrieb einer Fahr- und Segelschule.
 
 #### § 42
 
