@@ -4,7 +4,7 @@ number: "316.315.1"
 title: "ARRÊTÉ du 25.05.2022 relatif aux aides individuelles allouées aux détenteurs d'animaux de rente exerçant leur activité dans les zones touchées par la présence de grands carnivores (AAIGC)"
 short: AAIGC
 language: fr
-version: 2023-05-01
+version: 2024-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/316.315.1?id=ef5533d9-3931-45a2-b2e7-ac161f11fb54"
 ---
 
@@ -38,7 +38,7 @@ arrête
 <sup>2</sup> Les aides individuelles sont destinées à financer des mesures de protection des troupeaux d'animaux de rente contre les attaques de grands carnivores, telles que :
 
 - a. la main-d'œuvre nécessaire à l'installation et à l'entretien de parcs de protection des troupeaux ;
-- b. la rémunération du personnel engagé pour la surveillance nocturne des troupeaux ;
+- b. ...
 - c. la détention et l'utilisation de chiens de protection des troupeaux officiels.
 - d. la main-d'oeuvre nécessaire pour rentrer le bétail la nuit.
 
@@ -68,9 +68,9 @@ arrête
 <sup>1</sup> Le montant annuel de l'aide, éventuel soutien financier de la Confédération compris, est au maximum de :
 
 - a. 800 francs par PN sur les surfaces d'estivage et 150 francs par UGB sur les autres surfaces pour les parcs de protection des troupeaux, le total ne pouvant excéder 9'000 francs;
-- b. 150 francs par PN sur les surfaces d'estivage pour la surveillance nocturne des troupeaux, le total ne pouvant excéder 6'000 francs ;
+- b. ...
 - c. 1'400 francs par PN sur les surfaces d'estivage et 800 francs par UGB sur les autres surfaces pour les chiens de protection des troupeaux, le total ne pouvant excéder 4'000 francs. Le nombre maximum de chiens est fixé à 3 par exploitation.
-- d. 200 francs par bovin sur les surfaces d'estivage pour rentrer le bétail la nuit, le total ne pouvant excéder 6'000 francs.
+- d. 200 francs par bovin, 175 francs par chèvre et 115 francs par mouton sur les surfaces d'estivage pour rentrer le bétail la nuit, le total ne pouvant excéder 6'000 francs.
 
 <sup>2</sup> Si le plafond budgétaire est atteint, le montant de l'aide est réduit en proportion.
 
