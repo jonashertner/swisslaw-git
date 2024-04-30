@@ -4,11 +4,11 @@ title: "Ordonnance du 23 août 2017 sur le traitement des données personnelles 
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: fr
-version: 2024-01-01
+version: 2024-05-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/fr"
 
 (Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)[^t-1]
 
-du 23 août 2017 (État le 1<sup>er</sup> janvier 2024)
+du 23 août 2017 (État le 1<sup>er</sup> mai 2024)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -453,7 +453,7 @@ Annexe 7[^t-2]
 
 ## Système d’information «Perizoll»
 
-[^t-2]: Mise à jour selon l’annexe 8 ch. II 6 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^t-2]: Mise à jour par l’annexe 8 ch. II 6 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 ### 1. But
 
@@ -1879,56 +1879,85 @@ Les systèmes d’information peuvent contenir les données suivantes:
 
 Annexe 67[^t-4]
 
-## Système d’information concernant la redevance sur le trafic des poids lourds liée aux prestations et la redevance sur le trafic des poids lourds perçue de manière forfaitaire
+## Système d’information concernant la redevance sur le trafic des poids lourds
 
-[^t-4]: Mise à jour selon l’annexe 4 ch. II 6 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Nouvelle teneur selon l’annexe 5 ch. II 1 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. But
 
 Le système d’information est utilisé pour:
 
-- 1\.1 la perception de la redevance sur le trafic des poids lourds liée aux prestations (RPLP);
-- 1\.2 la perception subséquente de la redevance sur le trafic des poids lourds perçue de manière forfaitaire sur les véhicules effectuant des courses dans le cadre d’une concession;
-- 1\.3 le remboursement de la RPLP pour les transports de bois et les transports effectués dans le cadre du trafic combiné non accompagné;
-- 1\.4 l’agrément et le contrôle des entreprises qui assurent l’installation et la maintenance des appareils de saisie de la RPLP (stations de montage RPLP);
-- 1\.5 la gestion des appareils de saisie RPLP installés;
-- 1\.6 lors de la communication d’un renseignement au sens de l’art. 36*a* de l’ordonnance du 6 mars 2000 relative à une redevance sur le trafic des poids lourds (ORPL)[^annex67-lvlu1-lvl1-1]: l’enregistrement, la gestion et le contrôle de l’identité des personnes solidairement responsables;
-- 1\.7 l’enregistrement, la gestion et le contrôle des mesures prises en lien avec les personnes visées au ch. 1.6.
+- 1\.1 la perception de la redevance sur le trafic des poids lourds et la vérification de la coopération à la perception de la redevance;
+- 1\.2 l’octroi de remboursements, d’exonérations de la redevance et d’allégements fiscaux;
+- 1\.3 la gestion des données relatives aux personnes solidairement responsables selon l’art. 5*a* de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds (LRPL)[^annex67-lvlu1-lvl1-1];
+- 1\.4 la fourniture de renseignements lors de demandes en rapport avec la responsabilité solidaire selon l’art. 5*a* LRPL;
+- 1\.5 le retrait des plaques de contrôle en vertu de l’art. 14*a* LRPL;
+- 1\.6 le contrôle de la perception et de la détermination correctes par les cantons de la redevance forfaitaire sur le trafic des poids lourds pour les véhicules immatriculés en Suisse;
+- 1\.7 l’établissement de statistiques.
 
-[^annex67-lvlu1-lvl1-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
-
-### 2. Contenu
-
-Le système d’information peut contenir les données suivantes:
-
-- 2\.1 l’identité des détenteurs de véhicules assujettis à la redevance sur le trafic des poids lourds ainsi que des stations de montage RPLP;
-- 2\.2 l’identité des employés des stations de montage RPLP;
-- 2\.3 les données d’immatriculation, la plaque de contrôle et le numéro matricule des véhicules soumis à la redevance sur le trafic des poids lourds;
-- 2\.4 les données concernant les prestations kilométriques, le poids à vide, le poids total, le poids de l’ensemble et le code d’émission des véhicules soumis à la redevance sur le trafic des poids lourds;
-- 2\.5 le numéro des appareils de saisie de la RPLP;
-- 2\.6 des indications concernant les taxations et les factures liées au véhicule;
-- 2\.7 l’identité des parties au contrat dans le cadre de la responsabilité solidaire visée à l’art. 36*a* ORPL.
-
-### 3. Échange de données avec d’autres systèmes d’information
-
-- 3\.1 L’importation de données des systèmes d’information pour les finances et la comptabilité (annexe 5) est autorisée.
-- 3\.2 L’importation des données du système d’information relatif à l’admission à la circulation qui sont nécessaires à la perception de la RPLP est autorisée.
-- 3\.3 L’exportation de données d’encaissement de la RPLP vers les systèmes d’information pour les finances et la comptabilité (annexe 5) est autorisée.
-
-Annexe 68
-
-## Système d’information pour la centrale d’exécution et de sanction de la RPLP
-
-### 1. But
-
-Le système d’information pour la centrale d’exécution et de sanction de la RPLP sert à l’application de la RPLP.
+[^annex67-lvlu1-lvl1-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 ### 2. Contenu
 
 Le système d’information peut contenir les données suivantes:
 
-- 2\.1 la marque, le type, le numéro de châssis et la plaque de contrôle des véhicules soumis à la redevance sur le trafic des poids lourds;
-- 2\.2 les données concernant le passage aux installations de contrôle.
+- 2\.1 les données personnelles des personnes assujetties à la redevance;
+- 2\.2 les données personnelles des personnes qui coopèrent à la perception et au remboursement de la redevance sur le trafic des poids lourds ainsi qu’à la vérification de la coopération à la perception de la redevance;
+- 2\.3 les données relatives aux véhicules visées aux art. 31, 32, 35, 39 et 40 de l’ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poids lourds (ORPL)[^annex67-lvlu1-lvl2-1];
+- 2\.4 la date de la déclaration ainsi que les données saisies dans la déclaration;
+- 2\.5 les données contenues dans la décision de taxation;
+- 2\.6 les photographies de l’avant, de l’arrière et de la vue d’ensemble des véhicules et des ensembles de véhicules qui sont saisies par les installations de contrôle, y compris le genre de véhicule et la plaque de contrôle;
+- 2\.7 le sens de circulation enregistré par les installations de contrôle, le lieu et l’heure de passage ainsi que le lieu d’entrée sur le territoire douanier et le lieu de sortie du territoire douanier;
+- 2\.8 les informations et documents relatifs aux autorisations, aux exonérations de la redevance, aux remboursements de la redevance et aux allégements fiscaux;
+- 2\.9 les informations relatives au paiement;
+- 2\.10 les données personnelles des personnes solidairement responsables selon l’art. 5*a* LRPL;
+- 2\.11 les données suivantes concernant des demandes en rapport avec la responsabilité solidaire selon l’art. 5*a* LRPL;
+  - – les données personnelles de la personne qui fait la demande et de la personne au sujet de laquelle les informations sont demandées,
+  - – l’indication que la personne au sujet de laquelle des informations sont demandées a consenti à la fourniture de renseignements,
+  - – le contenu des informations fournies;
+
+- 2\.12 les demandes d’agrément en tant que prestataire du NETS ou du SET, y compris les informations visées à l’art. 56 ORPL contenues dans la demande, et les demandes d’agrément en tant que prestataire de cartes de carburant visé à l’art. 82, al. 2, ORPL, y compris les informations contenues dans la demande;
+- 2\.13 les informations et documents permettant de contrôler et de garantir que les prestataires du NETS et du SET se comportent conformément à l’agrément, au contrat et à la législation;
+- 2\.14 les résultats des contrôles, y compris les recommandations de contrôle.
+
+[^annex67-lvlu1-lvl2-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+
+### 3. Autorisations
+
+- Les collaborateurs de l’OFDF qui s’occupent de la perception et du remboursement de la redevance sur le trafic des poids lourds, de la vérification de la coopération à la perception de la redevance ou de la poursuite et du jugement des infractions à la LRPL sont autorisés à traiter les données visées au ch. 2.
+
+### 4. Échange de données avec d’autres systèmes d’information
+
+- 4\.1 L’échange de données avec les systèmes d’information pour les finances et la comptabilité (annexe 5) est autorisé pour la perception de la redevance sur le trafic des poids lourds.
+- 4\.2 Pour la vérification de l’acquittement de la redevance sur le trafic des poids lourds, l’échange de données avec le système d’information pour la perception de la vignette électronique (annexe 72*a*) est autorisé pour contrôler si la redevance pour l’utilisation des routes nationales a été acquittée pour un véhicule donné.
+- 4\.3 Le transfert de données vers le système d’information pour la perception de la vignette électronique (annexe 72*a*) est admise pour vérifier l’acquittement de la redevance pour l’utilisation des routes nationales.
+
+### 5. Communication des données
+
+L’OFDF communique les données suivantes aux organismes ou tiers suivants:
+
+- 5\.1 aux personnes qui déposent une demande relative à la responsabilité solidaire selon l’art. 5*a* LRPL: si la personne au sujet de laquelle des renseignements sont demandés est insolvable ou a été mise en demeure sans effet;
+- 5\.2 aux services cantonaux des automobiles: les données visées aux ch. 2.1 à 2.3 qui sont nécessaires pour le refus ou le retrait du permis de circulation et des plaques de contrôle;
+- 5\.3 aux prestataires du NETS et du SET agréés: pour l’interruption de l’obligation de déclarer les données, la mise hors circulation de véhicules à moteur suisses et l’enregistrement de véhicules à moteur auprès d’un autre prestataire;
+- 5\.4 à l’Office fédéral du développement territorial: les données nécessaires à la modélisation du trafic des marchandises selon les chiffres 2.1 à 2.4;
+- 5\.5 à l’Office fédéral de la statistique: les données nécessaires à l’établissement des statistiques dans le domaine de la circulation des poids lourds selon les chiffres 2.1 à 2.5;
+- 5\.6 à l’Office fédéral des transports: les données nécessaires au relevé de la statistique sur les marchandises selon les chiffres 2.1 à 2.5.
+
+### 6. Durée de conservation
+
+Les données sont détruites au plus tard cinq ans après leur saisie, à l’exception des données suivantes:
+
+- 6\.1 les positions et les heures (points de cheminement) selon le système global de navigation par satellite (GNSS): au plus tard à l’entrée en force de la décision de taxation;
+- 6\.2.
+
+  les données au sens du ch. 2.6:
+
+  - – pour les véhicules soumis à la redevance liée aux prestations: au plus tard un an à compter de l’entrée en force de la décision de taxation,
+  - – pour les véhicules soumis à la redevance forfaitaire: au plus tard un an à compter du moment où l’acquittement de la redevance est constaté.
+
+Annexe 68[^t-5]
+
+[^t-5]: Abrogée par l’annexe 5 ch. II 1 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, avec effet au 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 Annexe 69
 
@@ -2018,11 +2047,11 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité des personnes physiques faisant l’objet de contrôles d’identité dans le cadre de l’exécution d’actes législatifs de la Confédération autres que douaniers et de la lutte contre la criminalité;
 - 2\.2 les messages indicatifs relatifs aux personnes, aux véhicules et aux opérations liés à un délit pour lequel il n’existe pas de présomption suffisante pour l’ouverture d’une enquête pénale.
 
-Annexe 72a[^t-5]
+Annexe 72a[^t-6]
 
 ## Système d’information pour la perception de la vignette électronique
 
-[^t-5]: Introduite par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-6]: Introduite par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)). Mise à jour par l’annexe 5 ch. II 1 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. But
 
@@ -2066,6 +2095,7 @@ Le système d’information peut contenir les données suivantes:
   - – pour la vérification du transfert de la vignette électronique sur une autre plaque de contrôle (art. 5 de l’ordonnance du 16 juin 2023 sur la vignette autoroutière[^annex72a-lvlu1-lvl4-1]).
 
 - 4\.2 L’échange de données avec les systèmes d’information pour les finances et la comptabilité (annexe 5) est autorisé pour l’encaissement de la redevance pour l’utilisation des routes nationales.
+- 4\.3 Pour la vérification de l’acquittement de la redevance pour l’utilisation des routes nationales, l’échange de données avec le système d’information concernant la redevance sur le trafic des poids lourds (annexe 67) est autorisé pour contrôler si la redevance sur le trafic des poids lourds a été acquittée pour une plaque de contrôle donnée.
 
 [^annex72a-lvlu1-lvl4-1]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
 
@@ -2077,11 +2107,11 @@ Les données indiquant que la redevance a été acquittée pour une plaque de co
 
 Les données sont effacées au plus tard une année après l’expiration de la validité de la vignette électronique.
 
-Annexe 73[^t-6]
+Annexe 73[^t-7]
 
 ## Recueils auxiliaires de données
 
-[^t-6]: Mise à jour par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-7]: Mise à jour par l’annexe ch. 2 de l’O du 16 juin 2023 sur la vignette autoroutière, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
 
 ### 1. But
 

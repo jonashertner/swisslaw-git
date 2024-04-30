@@ -4,11 +4,11 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2024-01-01
+version: 2024-05-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/de"
 
 (Datenbearbeitungsverordnung für das BAZG, DBZV)[^t-1]
 
-vom 23. August 2017 (Stand am 1. Januar 2024)
+vom 23. August 2017 (Stand am 1. Mai 2024)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -1883,56 +1883,92 @@ Die Informationssysteme können folgende Daten enthalten:
 
 Anhang 67[^t-4]
 
-## Informationssystem für die leistungsabhängige Schwerverkehrsabgabe und die pauschal erhobene Schwerverkehrsabgabe
+## Informationssystem für die Schwerverkehrsabgabe
 
-[^t-4]: Bereinigt gemäss Anhang 4 Ziff. II 6 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Fassung gemäss Anhang 5 Ziff. II 1 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. Zweck
 
 Das Informationssystem dient den folgenden Zwecken:
 
-- 1\.1 Erhebung der leistungsabhängigen Schwerverkehrsabgabe (LSVA);
-- 1\.2 Nachbezug der PSVA bei konzessionierten Linienfahrzeugen;
-- 1\.3 LSVA-Rückerstattung bei Holztransporten und bei Transporten im unbegleiteten kombinierten Verkehr;
-- 1\.4 Autorisierung und Kontrolle der Stellen, die LSVA-Erfassungsgeräte einbauen und warten (LSVA-Montagestellen);
-- 1\.5 Verwaltung der abgegebenen LSVA-Erfassungsgeräte;
-- 1\.6 bei einer Auskunftserteilung nach Artikel 36*a* der Schwerverkehrsabgabeverordnung vom 6. März 2000[^annex67-lvlu1-lvl1-1] (SVAV): Registrierung, Verwaltung und Kontrolle der Personalien der solidarisch haftbaren Personen;
-- 1\.7 Registrierung, Verwaltung und Kontrolle der im Zusammenhang mit Personen nach Ziffer. 1.6 ergriffenen Massnahmen.
+- 1\.1 Erhebung der Schwerverkehrsabgabe und Überprüfung der Mitwirkung bei der Abgabenerhebung;
+- 1\.2 Gewährung von Rückerstattungen, Abgabebefreiungen und Abgabevergünstigungen;
+- 1\.3 Verwaltung der Angaben zu den solidarisch haftenden Personen nach Artikel 5*a* des Schwerverkehrsabgabegesetzes vom 19. Dezember 1997[^annex67-lvlu1-lvl1-1] (SVAG);
+- 1\.4 Erteilung von Auskünften bei Anfragen im Zusammenhang mit der Solidarhaftung nach Artikel 5*a* SVAG;
+- 1\.5 Entzug von Kontrollschildern nach Artikel 14*a* SVAG;
+- 1\.6 Kontrolle der korrekten Erhebung und Veranlagung der pauschal erhobenen Schwerverkehrsabgabe bei inländischen Fahrzeugen durch die Kantone;
+- 1\.7 Erstellen von Statistiken.
 
-[^annex67-lvlu1-lvl1-1]: [SR 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
-
-### 2. Inhalt
-
-Das Informationssystem kann folgende Daten enthalten:
-
-- 2\.1 Personalien der schwerverkehrsabgabepflichtigen Fahrzeughalterinnen und -halter und der LSVA-Montagestellen;
-- 2\.2 Personalien der Angestellten der LSVA-Montagestellen;
-- 2\.3 Immatrikulationsdaten, Kontrollschilder und Stammnummern der Fahrzeuge, die der Schwerverkehrsabgabe unterliegen;
-- 2\.4 Fahrleistungsdaten, Leer- und Gesamtgewicht, Gesamtzugsgewicht und Emissionscode der Fahrzeuge, die der Schwerverkehrsabgabe unterliegen;
-- 2\.5 LSVA-Erfassungsgerätenummern;
-- 2\.6 fahrzeugbezogene Veranlagungen und Rechnungen;
-- 2\.7 Personalien der Vertragspartei im Rahmen von Solidarhaftungsanfragen nach Artikel 36*a* SVAV.
-
-### 3. Datenaustausch mit anderen Informationssystemen
-
-- 3\.1 Die Übernahme von Daten aus den Informationssystemen für Finanzen und Rechnungswesen (Anhang 5) ist zulässig.
-- 3\.2 Die Übernahme der für die Erhebung der LSVA erforderlichen Daten aus dem Informationssystem Verkehrszulassung ist zulässig.
-- 3\.3 Die Weitergabe von Daten zum Inkasso der LSVA an die Informationssysteme für Finanzen und Rechnungswesen (Anhang 5) ist zulässig.
-
-Anhang 68
-
-## Informatiksystem für die LSVA-Enforcement-Zentrale
-
-### 1. Zweck
-
-Das Informationssystem für die LSVA-Enforcement-Zentrale dient der Durchsetzung der LSVA.
+[^annex67-lvlu1-lvl1-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 ### 2. Inhalt
 
 Das Informationssystem kann folgende Daten enthalten:
 
-- 2\.1 Marke, Typ, Chassis-Nummer und Kontrollschild der Fahrzeuge, die der Schwerverkehrsabgabe unterliegen;
-- 2\.2 Daten betreffend Durchfahrten bei den Kontrollanlagen.
+- 2\.1 Personalien der abgabepflichtigen Personen;
+- 2\.2 Personalien der Personen, die an der Erhebung und der Rückerstattung der Schwerverkehrsabgabe sowie an der Überprüfung der Mitwirkung bei der Abgabenerhebung beteiligt sind;
+- 2\.3 Fahrzeugdaten nach den Artikeln 31, 32, 35, 39 und 40 der Schwerverkehrsabgabeverordnung vom 27. März 2024[^annex67-lvlu1-lvl2-1] (SVAV);
+- 2\.4 Zeitpunkt der Anmeldung sowie die in der Anmeldung erfassten Daten;
+- 2\.5 die in der Veranlagung enthaltenen Daten;
+- 2\.6 von den Kontrollanlagen erfasste Front-, Heck-, und Übersichtsbilder der Fahrzeuge und Fahrzeugkombinationen, einschliesslich der Fahrzeugart und der Kontrollschilder;
+- 2\.7 von den Kontrollanlagen erfasste Fahrtrichtung, Ort und Zeitpunkt der Durchfahrt sowie Ort der Einfahrt ins Zollgebiet und der Ausfahrt aus dem Zollgebiet;
+- 2\.8 Angaben und Dokumente zu Bewilligungen, Abgabebefreiungen, Rückerstattungen der Abgabe und Abgabevergünstigungen;
+- 2\.9 Zahlungsinformationen;
+- 2\.10 Personalien der solidarisch haftenden Personen nach Artikel 5*a* SVAG;
+- 2\.11
+
+  die folgenden Angaben betreffend Anfragen im Zusammenhang mit der Solidarhaftung nach Artikel 5*a* SVAG:
+
+  - – Personalien der anfragenden Person und der Person, über die Auskunft verlangt wird,
+  - – die Angabe, ob die Person, über die Auskunft verlangt wird, in die Auskunftserteilung eingewilligt hat,
+  - – Inhalt der erteilten Auskunft;
+
+- 2\.12 Gesuche um Zulassung als NETS- oder EETS-Anbieter, einschliesslich der im Gesuch enthaltenen Angaben nach Artikel 56 SVAV, und Gesuche um Zulassung als Tankkarten-Anbieter nach Artikel 82 Absatz 2 SVAV, einschliesslich der im Gesuch enthaltenen Angaben;
+- 2\.13 Angaben und Dokumente für die Überwachung und die Sicherstellung des zulassungs-, vertrags- und rechtskonformen Verhaltens der NETS- und EETS-Anbieter;
+- 2\.14 Ergebnisse aus Kontrollen, einschliesslich Kontrollempfehlungen.
+
+[^annex67-lvlu1-lvl2-1]: [SR 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+
+### 3. Berechtigungen
+
+- Die Mitarbeiterinnen und Mitarbeiter des BAZG, welche für die Erhebung und die Rückerstattung der Schwerverkehrsabgabe, für die Überprüfung der Mitwirkung bei der Abgabenerhebung oder für die Verfolgung und die Beurteilung von Widerhandlungen gegen das SVAG zuständig sind, dürfen die Daten nach Ziffer 2 bearbeiten.
+
+### 4. Datenaustausch mit anderen Informationssystemen
+
+- 4\.1 Für die Erhebung der Schwerverkehrsabgabe ist der Datenaustausch mit den Informationssystemen für Finanzen und Rechnungswesen (Anhang 5) zulässig.
+- 4\.2 Für die Überprüfung der Entrichtung der Schwerverkehrsabgabe ist der Datenaustausch mit dem Informationssystem für die Erhebung der E‑Vignette (Anhang 72*a*) zulässig, um zu überprüfen, ob für ein bestimmtes Fahrzeug die Nationalstrassenabgabe entrichtet wurde.
+- 4\.3 Die Weitergabe von Daten an das Informationssystem für die Erhebung der E‑Vignette (Anhang 72*a*) ist zulässig für die Überprüfung der Entrichtung der Nationalstrassenabgabe.
+
+### 5. Datenbekanntgabe
+
+Das BAZG gibt den folgenden Stellen oder Dritten die nachstehenden Daten bekannt:
+
+- 5\.1 den Personen, die eine Anfrage im Zusammenhang mit der Solidarhaftung nach Artikel 5*a* SVAG machen: die Angabe, ob die Person, über die Auskunft verlangt wird, zahlungsunfähig ist oder erfolglos gemahnt wurde;
+- 5\.2 den kantonalen Strassenverkehrsämtern: die Daten nach den Ziffern 2.1–2.3, die für die Verweigerung oder den Entzug des Fahrzeugausweises und des Kontrollschilds erforderlich sind;
+- 5\.3 den zugelassenen NETS- und EETS-Anbietern: für die Unterbrechung der Pflicht zur Meldung von Daten die Ausserverkehrsetzung von inländischen Motorfahrzeugen sowie die Registrierung von Motorfahrzeugen im Dienst eines anderen Anbieters;
+- 5\.4 dem Bundesamt für Raumentwicklung: die für Güterverkehrsmodellierungen erforderlichen Daten nach den Ziffern 2.1–2.4;
+- 5\.5 dem Bundesamt für Statistik: die für die Erstellung von Statistiken im Bereich Schwerverkehr erforderlichen Daten nach den Ziffern 2.1–2.5;
+- 5\.6 dem Bundesamt für Verkehr: die für die Erhebung der Güterstatistik erforderlichen Daten nach den Ziffern 2.1–2.5.
+
+### 6. Aufbewahrungsdauer
+
+Die Daten werden spätestens nach fünf Jahren ab der Erfassung vernichtet mit Ausnahme der folgenden Daten:
+
+- 6\.1 Positionen und Uhrzeiten (Wegpunkte) gemäss dem globalen Satellitennavigationssystem (GNSS): spätestens bei Eintritt der Rechtskraft der Veranlagungsverfügung;
+- 6\.2
+
+  Daten nach Ziffer 2.6:
+
+  - – für Fahrzeuge, die der leistungsabhängigen Schwerverkehrsabgabe unterliegen: spätestens nach einem Jahr ab dem Eintritt der Rechtskraft der Veranlagungsverfügung;
+  - – für Fahrzeuge, die der pauschal erhobenen Schwerverkehrsabgabe unterliegen: spätestens nach einem Jahr ab dem Zeitpunkt der Feststellung der erfolgten Abgabenentrichtung.
+
+- [tab]
+
+Anhang 68[^t-5]
+
+- [tab]
+
+[^t-5]: Aufgehoben durch Anhang 5 Ziff. II 1 der Schwerverkehrsabgabeverordnung vom 27. März 2024, mit Wirkung seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 Anhang 69
 
@@ -2022,11 +2058,11 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.1 Personalien der natürlichen Personen, die Gegenstand von Personenkontrollen im Rahmen des Vollzugs der nichtzollrechtlichen Erlasse des Bundes und der Verbrechensbekämpfung sind;
 - 2\.2 Hinweismeldungen über Personen, Fahrzeuge und Vorgänge im Zusammenhang mit Delikten, bei denen kein genügender Tatverdacht zur Einleitung einer Strafuntersuchung besteht.
 
-Anhang 72a[^t-5]
+Anhang 72a[^t-6]
 
 ## Informationssystem für die Erhebung der E-Vignette
 
-[^t-5]: Eingefügt durch Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-6]: Eingefügt durch Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)). Bereinigt gemäss Anhang 5 Ziff. II 1 der Schwerverkehrsabgabeverordnung vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. Zweck
 
@@ -2070,6 +2106,7 @@ Das Informationssystem kann folgende Daten enthalten:
   - – die Überprüfung der Übertragung der E-Vignette auf ein anderes Kontrollschild (Art. 5 Nationalstrassenabgabeverordnung vom 16. Juni 2023[^annex72a-lvlu1-lvl4-1]).
 
 - 4\.2 Der Datenaustausch mit den Informationssystemen für Finanzen und Rechnungswesen (Anhang 5) ist zulässig für das Inkasso der Nationalstrassenabgabe.
+- 4\.3 Für die Überprüfung der Entrichtung der Nationalstrassenabgabe ist der Datenaustausch mit dem Informationssystem für die Schwerverkehrsabgabe (Anhang 67) zulässig, um zu überprüfen, ob für ein bestimmtes Kontrollschild die Schwerverkehrsabgabe entrichtet wurde.
 
 [^annex72a-lvlu1-lvl4-1]: [SR 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
 
@@ -2081,11 +2118,11 @@ Die Angabe, ob für ein Kontrollschild die Abgabe entrichtet worden ist, darf im
 
 Die Daten werden spätestens ein Jahr nach Ablauf der Gültigkeit der E-Vignette gelöscht.
 
-Anhang 73[^t-6]
+Anhang 73[^t-7]
 
 ## Hilfsdatenbank
 
-[^t-6]: Bereinigt gemäss Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) und Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^t-7]: Bereinigt gemäss Anhang Ziff. 2 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) und Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Zweck
 

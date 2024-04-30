@@ -4,11 +4,11 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2024-01-01
+version: 2024-05-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/it"
 
 (Ordinanza sul trattamento dei dati nell’UDSC, OTDD)[^t-1]
 
-del 23 agosto 2017 (Stato 1° gennaio 2024)
+del 23 agosto 2017 (Stato 1° maggio 2024)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
@@ -1882,57 +1882,88 @@ I sistemi d’informazione possono contenere i seguenti dati:
 
 Allegato 67[^t-4]
 
-## Sistema d’informazione relativo alla tassa sul traffico pesante commisurata alle prestazioni e alla tassa forfettaria sul traffico pesante
+## Sistema d’informazione per la tassa sul traffico pesante
 
-[^t-4]: Aggiornato dall’all. 4 n. II 6 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Nuovo testo giusta l’all. 5 n. II 1 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. Scopo
 
 Il sistema d’informazione serve per:
 
-- 1\.1 la riscossione della tassa sul traffico pesante commisurata alle prestazioni (TTPCP);
-- 1\.2 la riscossione posticipata della TFTP per i veicoli che operano nel traffico di linea nell’ambito di una concessione;
-- 1\.3 la restituzione della TTPCP per i trasporti di legname e per i trasporti nel traffico combinato non accompagnato;
-- 1\.4 la concessione delle autorizzazioni e il controllo delle officine che si occupano del montaggio e della manutenzione degli apparecchi di rilevazione TTPCP (officine di montaggio TTPCP);
-- 1\.5 la gestione degli apparecchi di rilevazione TTPCP consegnati;
-- 1\.6 in caso di informazioni fornite ai sensi dell’articolo 36*a* dell’ordinanza del 6 marzo 2000[^annex67-lvlu1-lvl1-1] sul traffico pesante (OTTP): la registrazione, la gestione e il controllo dei dati personali delle persone solidalmente responsabili;
-- 1\.7 la registrazione, la gestione e il controllo dei provvedimenti adottati in relazione con le persone di cui al numero 1.6.
+- 1\.1 la riscossione della tassa sul traffico pesante e la verifica della collaborazione alla riscossione della tassa;
+- 1\.2 la concessione di restituzioni, esenzioni dalla tassa e agevolazioni relative alla tassa;
+- 1\.3 la gestione dei dati relativi alle persone solidalmente responsabili secondo l’articolo 5*a* della legge del 19 dicembre 1997[^annex67-lvlu1-lvl1-1] sul traffico pesante (LTTP);
+- 1\.4 la fornitura di informazioni in caso di richieste legate alla responsabilità solidale secondo l’articolo 5*a* LTTP;
+- 1\.5 il ritiro delle targhe di controllo secondo l’articolo 14*a* LTTP;
+- 1\.6 il controllo della corretta determinazione e riscossione, da parte dei Cantoni, della tassa forfettaria per i veicoli svizzeri;
+- 1\.7 l’elaborazione di statistiche.
 
-[^annex67-lvlu1-lvl1-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
-
-### 2. Contenuto
-
-Il sistema d’informazione può contenere i seguenti dati:
-
-- 2\.1 dati personali dei detentori di veicoli assoggettati al pagamento della tassa sul traffico pesante e delle officine di montaggio TTPCP;
-- 2\.2 dati personali degli impiegati delle officine di montaggio TTPCP;
-- 2\.3 dati relativi all’immatricolazione, targhe di controllo e numeri di matricola dei veicoli assoggettati alla tassa sul traffico pesante;
-- 2\.4 dati relativi alla prestazione chilometrica, peso a vuoto e peso totale, peso totale del convoglio e codice di emissione dei veicoli assoggettati alla tassa sul traffico pesante;
-- 2\.5 numeri degli apparecchi di rilevazione TTPCP;
-- 2\.6 imposizioni e fatture relative al veicolo;
-- 2\.7 dati personali della parte contraente nel quadro di richieste relative alla responsabilità solidale ai sensi dell’articolo 36*a* OTTP.
-
-### 3. Scambio di dati con altri sistemi d’informazione
-
-- 3\.1 La ripresa di dati dai sistemi d’informazione per le finanze e la contabilità (allegato 5) è ammessa.
-- 3\.2 La ripresa dei dati necessari per la riscossione della TTPCP dal sistema d’informazione sull’ammissione alla circolazione è ammessa.
-- 3\.3 La trasmissione dei dati relativi all’incasso della TTPCP ai sistemi d’informazione per le finanze e la contabilità (allegato 5) è ammessa.
-
-Allegato 68
-
-## Sistema d’informazione relativo alla centrale di esecuzione (enforcement) TTPCP
-
-### 1. Scopo
-
-Il sistema d’informazione relativo alla centrale di esecuzione TTPCP serve per l’applicazione della tassa sul traffico pesante commisurata alle prestazioni.
+[^annex67-lvlu1-lvl1-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 
 ### 2. Contenuto
 
 Il sistema d’informazione può contenere i seguenti dati:
 
-- 2\.1 marca, tipo, numero di telaio e targa di controllo dei veicoli assoggettati alla tassa sul traffico pesante;
-- 2\.2 dati relativi ai passaggi presso gli impianti di controllo.
-- [tab]
+- 2\.1 dati personali della persona assoggettata al pagamento della tassa;
+- 2\.2 dati personali delle persone coinvolte nella riscossione e nella restituzione della tassa sul traffico pesante nonché nella verifica della collaborazione alla riscossione della tassa;
+- 2\.3 dati dei veicoli secondo gli articoli 31, 32, 35, 39 e 40 dell’ordinanza del 27 marzo 2024[^annex67-lvlu1-lvl2-1] sul traffico pesante (OTTP);
+- 2\.4 momento della dichiarazione e dati indicati nella dichiarazione;
+- 2\.5 dati contenuti nella decisione d’imposizione;
+- 2\.6 immagini frontali, posteriori e complete dei veicoli e delle combinazioni di veicoli rilevate dagli impianti di controllo, compreso il genere di veicolo e le targhe di controllo;
+- 2\.7 direzione di marcia, luogo e ora del passaggio nonché luogo dell’entrata nel territorio doganale e dell’uscita dallo stesso;
+- 2\.8 indicazioni e documenti concernenti autorizzazioni, esenzioni dall’imposta, restituzioni dell’imposta e agevolazioni relative all’imposta;
+- 2\.9 informazioni sul pagamento;
+- 2\.10 dati personali delle persone solidalmente responsabili secondo l’articolo 5*a* LTTP;
+- 2\.11
+
+  informazioni relative alla richiesta legata alla responsabilità solidale secondo l’articolo 5*a* LTTP:
+
+  - – dati personali del richiedente e della persona sulla quale è richiesta l’informazione,
+  - – indicazione se la persona sulla quale è stata richiesta l’informazione ha acconsentito alla trasmissione di informazioni,
+  - – contenuto dell’informazione fornita;
+
+- 2\.12 domande di autorizzazione quale fornitore del NETS o del SET, comprese le indicazioni secondo l’articolo 56 OTTP contenute nella domanda, e domande di autorizzazione quale fornitore di carte-carburante secondo l’articolo 82 capoverso 2 OTTP, comprese le indicazioni contenute nella domanda;
+- 2\.13 indicazioni e documenti che permettono di sorvegliare e garantire il comportamento conforme all’autorizzazione, al contratto e alla legge dei fornitori del NETS o del SET;
+- 2\.14 risultati dei controlli, comprese raccomandazioni di controllo.
+
+[^annex67-lvlu1-lvl2-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+
+### 3. Autorizzazioni
+
+- I collaboratori dell’UDSC competenti per la riscossione e la restituzione della tassa sul traffico pesante, per la verifica della collaborazione alla riscossione della tassa o per il perseguimento e il giudizio di infrazioni alla LTTP possono trattare i dati di cui al numero 2.
+
+### 4. Scambio di dati con altri sistemi d’informazione
+
+- 4\.1 Per la riscossione della tassa sul traffico pesante è ammesso lo scambio di dati con i sistemi d’informazione per le finanze e la contabilità (allegato 5).
+- 4\.2 Per la verifica del pagamento della tassa sul traffico pesante è ammesso lo scambio di dati con il sistema d’informazione per il contrassegno elettronico (allegato 72*a*), al fine di verificare se per un determinato veicolo la tassa per l’utilizzazione delle strade nazionali è stata pagata.
+- 4\.3 La trasmissione di dati al sistema d’informazione per il contrassegno elettronico (allegato 72*a*) è ammesso per la verifica del pagamento della tassa per l’utilizzazione delle strade nazionali.
+
+### 5. Comunicazione dei dati
+
+L’UDSC comunica ai seguenti uffici o a terzi i dati qui appresso:
+
+- 5\.1 alle persone che presentano una richiesta legata alla responsabilità solidale secondo l’articolo 5*a* LTTP: l’informazione relativa al fatto che la persona sulla quale sono richieste informazioni è insolvibile o è stata diffidata invano;
+- 5\.2 agli uffici cantonali della circolazione: i dati di cui ai numeri 2.1–2.3 necessari per rifiutare la licenza di circolazione e le targhe di controllo oppure revocare la licenza di circolazione o ritirare le targhe di controllo;
+- 5\.3 ai fornitori del NETS e del SET autorizzati: la messa fuori circolazione di veicoli svizzeri nonché la registrazione di veicoli a motore presso un altro fornitore, ai fini dell’interruzione dell’obbligo di dichiarazione dei dati;
+- 5\.4 all’Ufficio federale dello sviluppo territoriale: i dati di cui ai numeri 2.1–2.4 necessari per la modellizzazione del traffico merci;
+- 5\.5 all’Ufficio federale di statistica: i dati di cui ai numeri 2.1–2.5 necessari per l’elaborazione di statistiche relative al traffico pesante;
+- 5\.6 all’Ufficio federale dei trasporti: i dati di cui ai numeri 2.1–2.5 necessari per la rilevazione della statistica del trasporto merci.
+
+### 6. Durata di conservazione
+
+I dati sono cancellati al più tardi cinque anni dopo la rilevazione, ad eccezione dei seguenti dati:
+
+- 6\.1 le posizioni e gli orari (punti di riferimento) secondo il sistema globale di navigazione satellitare (GNSS): al più tardi con il passaggio in giudicato della decisione d’imposizione;
+- 6\.2
+
+  i dati di cui al numero 2.6:
+
+  - – per i veicoli assoggettati alla tassa sul traffico pesante commisurata alle prestazioni: al più tardi dopo un anno dal passaggio in giudicato della decisione d’imposizione,
+  - – per i veicoli assoggettati alla tassa forfettaria sul traffico pesante: al più tardi dopo un anno dalla constatazione dell’avvenuto pagamento della tassa.
+
+Allegato 68[^t-5]
+
+[^t-5]: Abrogato dall’all. 5 n. II 1 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, con effetto dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 Allegato 69
 
@@ -2024,11 +2055,11 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.1 dati personali delle persone fisiche oggetto di controlli delle persone nell’ambito dell’esecuzione di disposti federali di natura non doganale e della lotta alla criminalità;
 - 2\.2 avvisi relativi a persone, veicoli e fatti in relazione con reati per i quali non sussistono sufficienti indizi di reità per l’avvio di un’inchiesta penale.
 
-Allegato 72a[^t-5]
+Allegato 72a[^t-6]
 
 ## Sistema d’informazione per il contrassegno elettronico
 
-[^t-5]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale, in vigore dal 1° ago. 2023 ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
+[^t-6]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)). Aggiornato dall’all. 5 n. II 1 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 ### 1. Scopo
 
@@ -2073,6 +2104,8 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 4.2 Lo scambio di dati con i sistemi d’informazione per le finanze e la contabilità (allegato 5) è ammesso per l’incasso della tassa per l’utilizzazione delle strade nazionali.
 
+4.3 Per la verifica del pagamento della tassa per l’utilizzazione delle strade nazionali è ammesso lo scambio di dati con il sistema d’informazione per la tassa sul traffico pesante (allegato 67), al fine di verificare se per una determinata targa di controllo la tassa sul traffico pesante è stata pagata.
+
 [^annex72a-lvlu1-lvl4-1]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
 
 ### 5. Comunicazione dei dati
@@ -2083,11 +2116,11 @@ I dati indicanti che la tassa è stata pagata per una targa di controllo possono
 
 I dati sono cancellati al più tardi un anno dopo la scadenza della validità del contrassegno elettronico.
 
-Allegato 73[^t-6]
+Allegato 73[^t-7]
 
 ## Banche dati ausiliarie
 
-[^t-6]: Aggiornato dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dall’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^t-7]: Aggiornato dall’all. n. 2 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dall’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1. Scopo
 
