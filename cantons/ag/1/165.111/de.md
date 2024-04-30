@@ -4,13 +4,13 @@ number: "165.111"
 title: Personal- und Lohnverordnung
 short: PLV
 language: de
-version: 2023-10-01
-valid_until: 2024-04-30
-version_adopted: 2023-06-28
+version: 2024-05-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-02
 adopted: 2000-09-25
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3587/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3588/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3587/pdf_file"
 
 (PLV)
 
-Vom 25.09.2000 (Stand 01.10.2023)
+Vom 25.09.2000 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -341,13 +341,7 @@ beschliesst:
 
 #### § 27a
 
-**Überstunden infolge Mehrarbeit im Rahmen der Strom- und Gas-Mangellage oder im Zusammenhang mit Schutzsuchenden aus der Ukraine**
-
-<sup>1</sup> Bei Überstunden, die infolge Mehrarbeit im Rahmen der Strom- und Gas-Mangellage oder im Zusammenhang mit Schutzsuchenden aus der Ukraine entstanden sind und bei denen eine Kompensation durch Gewährung von Freizeit nicht möglich ist, kann eine Auszahlung erfolgen.
-
-<sup>2</sup> Dies gilt entgegen der Regelung von § 27 Abs. 4 unabhängig der Lohnstufe für alle Mitarbeitenden, die der Pflicht zur Arbeitszeiterfassung unterstehen.
-
-<sup>3</sup> Die Auszahlung erfolgt jeweils im Kalenderjahr, in welchem die Arbeitsleistung erbracht worden ist.
+**…**
 
 #### § 28
 
