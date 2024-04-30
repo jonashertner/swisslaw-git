@@ -4,13 +4,13 @@ number: "173.200"
 title: Justizgesetz
 short: JG
 language: de
-version: 2018-01-01
-valid_until: 2024-04-30
-version_adopted: 2017-03-06
+version: 2024-05-01
+valid_until: 2026-04-30
+version_adopted: 2023-12-04
 adopted: 2009-11-09
 in_force: 2011-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.200"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1734/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1833/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1734/pdf_file"
 
 (JG)
 
-Vom 09.11.2009 (Stand 01.01.2018)
+Vom 09.11.2009 (Stand 01.05.2024)
 
 Der Kantonsrat Schaffhausen,
 
@@ -718,7 +718,7 @@ beschliesst:
 
 <sup>2</sup> Sie behandelt die der Kindesschutzbehörde und der Erwachsenenschutzbehörde zugewiesenen Aufgaben, ist gerichtliche Beschwerdeinstanz gemäss Art. 439 ZGB und nimmt gegenüber den Berufsbeistandschaften und den privaten Beiständen die fachliche Aufsicht wahr.
 
-<sup>3</sup> Sie ist interdisziplinär zusammengesetzt und besteht aus der Präsidentin oder dem Präsidenten, zwei bis vier weiteren Mitgliedern und mindestens drei Ersatzmitgliedern. Der Kantonsrat legt nach Anhörung der Kindes- und Erwachsenenschutzbehörde und des Obergerichts die Stellenprozente der Gesamtbehörde fest.
+<sup>3</sup> Sie ist interdisziplinär zusammengesetzt und besteht aus der Präsidentin oder dem Präsidenten sowie mindestens drei weiteren Mitgliedern und mindestens drei Ersatzmitgliedern. Der Kantonsrat legt nach Anhörung der Kindes- und Erwachsenenschutzbehörde und des Obergerichts die Stellenprozente der Gesamtbehörde fest.
 
 <sup>4</sup> Die Kindes- und Erwachsenenschutzbehörde hat ein Fachsekretariat.
 
