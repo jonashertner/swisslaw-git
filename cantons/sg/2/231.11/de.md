@@ -3,20 +3,19 @@ canton: SG
 number: "231.11"
 title: Berufsbildungsverordnung
 language: de
-version: 2022-08-01
-valid_until: 2024-04-30
-version_adopted: 2021-09-28
+version: 2024-05-01
+version_adopted: 2024-04-02
 adopted: 2020-04-28
 in_force: 2020-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3274/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufsbildungsverordnung
 
-vom 28.04.2020 (Stand 01.08.2022)
+vom 28.04.2020 (Stand 01.05.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -454,6 +453,32 @@ als Verordnung:[^ingress-2]
 
 [^41-1]: Art. 20 ff. BBG.
 [^41-2]: sGS [142.1](https://www.gesetzessammlung.sg.ch/data/142.1/de).
+
+#### Art. 41a
+
+**Datenbekanntgabe für die Nutzung digitaler Lehrmittel**
+
+<sup>1</sup> An den Berufsfachschulen können im Rahmen des Bildungsauftrags digitale Lehrmittel eingesetzt werden.
+
+<sup>2</sup> Die Berufsfachschule oder das Amt für Berufsbildung kann Drittanbietern, die digitale Lehrmittel betreiben, folgende Personendaten von Schülerinnen und Schülern sowie Lehrpersonen bekanntgeben, soweit diese zu deren Authentifizierung notwendig sind:
+
+- a) Vorname und Name;
+- b) Geburtsdatum;
+- c) Sprache;
+- d) Rolle;
+- e) E-Mail-Adresse;
+- f) Institution;
+- g) Bildungsstufe;
+- h) Klasse oder Klassenstufe;
+- i) Kanton;
+- j) Funktion;
+- k) AHV-Versichertennummer;
+- l) technischer Identifikator;
+- m) Identitätsanbieter-Identifikation.
+
+<sup>3</sup> Die Datenbekanntgabe kann im Abrufverfahren nach Art. 15 Abs. 1 des Datenschutzgesetzes vom 20. Januar 2009[^41a-1] erfolgen.
+
+[^41a-1]: sGS [142.1](https://www.gesetzessammlung.sg.ch/data/142.1/de).
 
 ## III. Weiterbildung und höhere Berufsbildung
 
