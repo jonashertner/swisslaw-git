@@ -4,11 +4,11 @@ number: "175.2"
 title: Verwaltungsrechtspflegegesetz (VRG)
 short: VRG
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2024-05-01
+version: "2024-05-01"
+nachtrag: "125"
+valid_until: 2025-07-01
 adopted: 1959-05-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-125.html"
 text: pdf
 ---
 
@@ -16,13 +16,15 @@ text: pdf
 
 # Verwaltungsrechtspflegegesetz (VRG)<sup>42</sup>
 
-(vom 24. Mai 1959)<sup>1</sup>
+(vom 24. Mai 1959)[^t-1]
 
 Erster Abschnitt: Die sachliche Zuständigkeit der Verwaltungsbehörden
 
 **Grundsatz52**
 
 § 1. Öffentlichrechtliche Angelegenheiten werden von den Verwaltungsbehörden und vom Verwaltungsgericht entschieden. Privatrechtliche Ansprüche sind vor den Zivilgerichten geltend zu machen.
+
+[^t-1]: OS 40, 546 und GS I, 342.
 
 #### § 2
 
@@ -60,7 +62,7 @@ Besondere gesetzliche Bestimmungen, welche die Zuständigkeit anders ordnen, ble
 
 **1**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Eingaben an eine unzuständige Verwaltungsbehörde sind von Amtes wegen und in der Regel unter Benachrichtigung des Absenders an die zuständige Verwaltungsbehörde weiterzuleiten. Für die Einhaltung der Fristen ist der Zeitpunkt der Einreichung bei der unzuständigen Behörde massgebend.
 
@@ -112,11 +114,11 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **Akteneinsicht a. Grundsatz**
 
-§ 8. <sup>1</sup> Personen, die durch eine Anordnung berührt sind und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung haben, sind berechtigt, in die Akten Einsicht zu nehmen. Ausserhalb eines förmlichen Verfahrens oder nach Vorliegen einer rechtskräftigen Verfügung richtet sich das Akteneinsichtsrecht nach dem Gesetz über die Information und den Datenschutz<sup>7</sup>.<sup>47</sup>
+§ 8. <sup>1</sup> Personen, die durch eine Anordnung berührt sind und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung haben, sind berechtigt, in die Akten Einsicht zu nehmen. Ausserhalb eines förmlichen Verfahrens oder nach Vorliegen einer rechtskräftigen Verfügung richtet sich das Akteneinsichtsrecht nach dem Gesetz über die Information und den Datenschutz[^7-1].<sup>47</sup>
 
 <sup>2</sup> Der Regierungsrat regelt die Herausgabe und Zustellung von Akten zur Einsichtnahme.
 
-<sup>3</sup> Die Information über Gerichtsverfahren und die Akteneinsicht Dritter richten sich vor Verwaltungsgericht und den ihm unterstellten Gerichten nach der Verordnung des Plenarausschusses der Gerichte gemäss § 73 Abs. 1 lit. d des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010 (GOG)<sup>11</sup>.<sup>70</sup>
+<sup>3</sup> Die Information über Gerichtsverfahren und die Akteneinsicht Dritter richten sich vor Verwaltungsgericht und den ihm unterstellten Gerichten nach der Verordnung des Plenarausschusses der Gerichte gemäss § 73 Abs. 1 lit. d des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010 (GOG)[^7-2].<sup>70</sup>
 
 **b. Ausnahme**
 
@@ -126,11 +128,11 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **3**
 
-1.10. 22 - 118 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
+- 1\. 7. 24 - 125 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
 
 **Erledigung a. Im Allgemeinen**
 
-<sup>2</sup> Erlasse, ausgenommen die Kantonsverfassung<sup>3</sup> und kantonale Gesetze, werden mit einer Rechtsmittelbelehrung veröffentlicht.
+<sup>2</sup> Erlasse, ausgenommen die Kantonsverfassung[^7-3] und kantonale Gesetze, werden mit einer Rechtsmittelbelehrung veröffentlicht.
 
 <sup>3</sup> Schriftliche Anordnungen werden mitgeteilt:
 
@@ -186,6 +188,10 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 <sup>3</sup> Bei entsprechenden Handlungen anderer staatlicher Organe gilt § 19 Abs. 1 lit. c.
 
+[^7-1]: LS 170.4.
+[^7-2]: LS 211.1.
+[^7-3]: LS 101.
+
 #### § 11
 
 **Fristen a. Fristenlauf**
@@ -200,13 +206,13 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **5**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn dem Säumigen keine grobe Nachlässigkeit zur Last fällt und er innert zehn Tagen nach Wegfall des Grundes, der die Einhaltung der Frist verhindert hat, ein Gesuch um Wiederherstellung einreicht. Wird die Wiederherstellung gewährt, so beträgt die Frist zur Nachholung der versäumten Rechtshandlung zehn Tage.<sup>34</sup>
 
 **Kosten und Parteientschädigung a. Verfahrenskosten und Kostenauflage**
 
-§ 13. <sup>1</sup> Die Verwaltungsbehörden können für ihre Amtshandlungen Gebühren und Kosten auferlegen. Der Regierungsrat bezeichnet die kostenpflichtigen Amtshandlungen und die hiefür zu erhebenden Gebühren in einer Verordnung<sup>19</sup>.
+§ 13. <sup>1</sup> Die Verwaltungsbehörden können für ihre Amtshandlungen Gebühren und Kosten auferlegen. Der Regierungsrat bezeichnet die kostenpflichtigen Amtshandlungen und die hiefür zu erhebenden Gebühren in einer Verordnung[^11-1].
 
 <sup>2</sup> Mehrere am Verfahren Beteiligte tragen die Kosten in der Regel entsprechend ihrem Unterliegen. Kosten, die ein Beteiligter durch Verletzung von Verfahrensvorschriften oder durch nachträgliches Vorbringen solcher Tatsachen oder Beweismittel verursacht, die er schon früher hätte geltend machen können, sind ihm ohne Rücksicht auf den Ausgang des Verfahrens zu überbinden.
 
@@ -217,6 +223,8 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 **b. Kostenauflage bei gemeinsam Beteiligten**
 
 § 14. Haben mehrere Beteiligte dasselbe Begehren gestellt oder richtet sich das Verfahren gegen mehrere Beteiligte, so tragen sie die ihnen auferlegten Kosten in der Regel zu gleichen Teilen unter subsidiärer Haftung für das Ganze, soweit nicht durch das zwischen ihnen bestehende Rechtsverhältnis Solidarhaftung begründet ist.
+
+[^11-1]: LS 682; LS 681.
 
 #### § 15
 
@@ -264,7 +272,9 @@ a.<sup>34</sup> wenn er in der Schweiz keinen Wohnsitz hat,
 
 **7**
 
-1.10. 22 - 118 d. Erlasse, ausgenommen die Kantonsverfassung und kantonale Gesetze.
+- 1\. 7. 24 - 125
+
+- d. Erlasse, ausgenommen die Kantonsverfassung und kantonale Gesetze.
 
 <sup>2</sup> Keinem Rekurs unterstehen Akte a. des Regierungsrates,
 
@@ -352,7 +362,9 @@ a.<sup>34</sup> wenn er in der Schweiz keinen Wohnsitz hat,
 
 **9**
 
-1.10. 22 - 118 c. bei der Erfüllung von gesetzlichen Aufgaben in ihren schutzwürdigen Interessen anderweitig verletzt sind, insbesondere bei einem wesentlichen Eingriff in ihr Finanz- oder Verwaltungsvermögen.
+- 1\. 7. 24 - 125
+
+- c. bei der Erfüllung von gesetzlichen Aufgaben in ihren schutzwürdigen Interessen anderweitig verletzt sind, insbesondere bei einem wesentlichen Eingriff in ihr Finanz- oder Verwaltungsvermögen.
 
 **b. In Stimmrechtssachen**
 
@@ -442,7 +454,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **11**
 
-1.10. 22 - 118 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
+- 1\. 7. 24 - 125 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
 
 **b. Personalrechtliche Angelegenheiten**
 
@@ -516,7 +528,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **13**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 ### Dritter Abschnitt: Die Verwaltungsgerichtsbarkeit
 
@@ -524,9 +536,11 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **Bestand und Sitz des Verwaltungsgerichts**
 
-§ 32.<sup>34</sup> <sup>1</sup> Dem Verwaltungsgericht gehören vollamtliche sowie teilamtliche Mitglieder und Ersatzmitglieder an. Der Kantonsrat legt die Zahl der Mitglieder und der Ersatzmitglieder fest<sup>9</sup>.
+§ 32.<sup>34</sup> <sup>1</sup> Dem Verwaltungsgericht gehören vollamtliche sowie teilamtliche Mitglieder und Ersatzmitglieder an. Der Kantonsrat legt die Zahl der Mitglieder und der Ersatzmitglieder fest[^hAOrganisationdes-1].
 
 <sup>2</sup> Der Kantonsrat bestimmt den Sitz.
+
+[^hAOrganisationdes-1]: LS 175.213.
 
 #### § 33
 
@@ -546,11 +560,14 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 <sup>3</sup> Für die Zugehörigkeit zur Verwaltung oder Geschäftsführung einer Handelsgesellschaft oder einer Genossenschaft zu wirtschaftlichen Zwecken ist für die vollamtlichen und die teilamtlichen Mitglieder die Bewilligung des Kantonsrates erforderlich.
 
-<sup>4</sup> Im Übrigen gelten die Unvereinbarkeitsbestimmungen des Gesetzes über die politischen Rechte<sup>6,</sup> <sup>41</sup>.
+<sup>4</sup> Im Übrigen gelten die Unvereinbarkeitsbestimmungen des Gesetzes über die politischen Rechte[^33-1], <sup>41</sup>.
 
 **Offenlegung von Interessenbindungen**
 
-§ 34 a.<sup>53</sup> Für die Offenlegung von Interessenbindungen gilt § 7 GOG<sup>11</sup>.
+§ 34 a.<sup>53</sup> Für die Offenlegung von Interessenbindungen gilt § 7 GOG[^33-2].
+
+[^33-1]: LS 161.
+[^33-2]: LS 211.1.
 
 #### § 35
 
@@ -600,7 +617,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 - 1\. administrative Massnahmen im Strassenverkehr,
 
-- 2\. den Justizvollzug nach dem Straf- und Justizvollzugsgesetz vom 19. Juni 2006<sup>13</sup>,
+- 2\. den Justizvollzug nach dem Straf- und Justizvollzugsgesetz vom 19. Juni 2006[^35-1],
 
 - 3\. die Entbindung vom Berufsgeheimnis,
 
@@ -610,7 +627,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **15**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Sind Entscheide des Regierungsrates angefochten, ist die einzelrichterliche Beurteilung in den Fällen von Abs. 1 lit. c und d ausgeschlossen.
 
@@ -622,9 +639,9 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **Verordnungsrecht**
 
-§ 40.<sup>34</sup> <sup>1</sup> Das Gesamtgericht regelt durch Verordnung a. die Organisation und den Geschäftsgang<sup>8</sup>,
+§ 40.<sup>34</sup> <sup>1</sup> Das Gesamtgericht regelt durch Verordnung a. die Organisation und den Geschäftsgang[^35-2],
 
-- b. die Gebühren, Kosten und Entschädigungen<sup>10</sup>,
+- b. die Gebühren, Kosten und Entschädigungen[^35-3],
 
 - c. die Organisation und die Aufgaben des Sekretariats und der Kanzlei.
 
@@ -633,6 +650,10 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 **Wahl- und Abstimmungsverfahren**
 
 § 40 a.<sup>40</sup> Soweit gesetzlich nichts anderes vorgesehen ist, richtet sich das Verfahren für Wahlen und Abstimmungen bei Geschäften der Justizverwaltung nach den entsprechenden Bestimmungen für die Gemeindebehörden.
+
+[^35-1]: LS 331.
+[^35-2]: LS 175.21.
+[^35-3]: LS 175.252.
 
 ### B. Beschwerde<sup>50</sup>
 
@@ -664,11 +685,11 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **b. Zuständigkeit anderer kantonaler Behörden**
 
-§ 43.<sup>50</sup> <sup>1</sup> Die Beschwerde ist unzulässig gegen Entscheide der erstinstanzlichen Zivil- und Strafgerichte, ausgenommen Beschwerden betreffend Massnahmen nach a. §§ 3–14 des Gewaltschutzgesetzes vom 19. Juni 2006<sup>14</sup>,
+§ 43.<sup>50</sup> <sup>1</sup> Die Beschwerde ist unzulässig gegen Entscheide der erstinstanzlichen Zivil- und Strafgerichte, ausgenommen Beschwerden betreffend Massnahmen nach a. §§ 3–14 des Gewaltschutzgesetzes vom 19. Juni 2006[^hBBeschwerdesup50-1],
 
 - b. Art. 73–78 des Bundesgesetzes über die Ausländerinnen und Ausländer vom 16. Dezember 2005<sup>24</sup>,
 
-- c. Art. 4–9 des Konkordates über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007<sup>16</sup>.
+- c. Art. 4–9 des Konkordates über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^hBBeschwerdesup50-2].
 
 <sup>2</sup> Mit Beschwerde nach den Bestimmungen dieses Gesetzes können beim Obergericht angefochten werden:
 
@@ -684,13 +705,13 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 - c. gegen Zulassungsbeschränkungen an Hochschulen, d.<sup>62</sup> in Gemeindeangelegenheiten hinsichtlich Anordnungen des Regierungsrates
 
-- 1\. bei der Bewilligung von Versuchen über die Weiterentwicklung der Zusammenarbeit nach § 83 Abs. 1 des Gemeindegesetzes vom 20. April 2015 (GG)<sup>4</sup>,
+- 1\. bei der Bewilligung von Versuchen über die Weiterentwicklung der Zusammenarbeit nach § 83 Abs. 1 des Gemeindegesetzes vom 20. April 2015 (GG)[^hBBeschwerdesup50-3],
 
 - 2\. beim Zusammenschluss von Gemeinden nach § 153 Abs. 1 Satz 2 GG,
 
 - 3\. über Beiträge an Zusammenschlüsse von Gemeinden nach §§ 156–159 GG,
 
-- 4\. beim Zusammenschluss von Friedensrichterkreisen nach § 53 Abs. 2 GOG<sup>11</sup>,
+- 4\. beim Zusammenschluss von Friedensrichterkreisen nach § 53 Abs. 2 GOG[^hBBeschwerdesup50-4],
 
 - 5\. bei der Festlegung der Zivilstands-, der Betreibungs- sowie der Kindes- und Erwachsenenschutzkreise.
 
@@ -698,7 +719,11 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **17**
 
-1.10. 22 - 118 f. im Gesundheitsbereich gegen 1. Leistungsaufträge des Regierungsrates für das Universitätsspital Zürich und das Kantonsspital Winterthur,
+- 1\. 7. 24 - 125
+
+- f. im Gesundheitsbereich gegen
+
+- 1\. Leistungsaufträge des Regierungsrates für das Universitätsspital Zürich und das Kantonsspital Winterthur,
 
 - 2\. Entscheide des Regierungsrates über Leistungsvereinbarungen seiner Direktion mit diesen Spitälern,
 
@@ -744,6 +769,11 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 § 55.<sup>50</sup> Für die aufschiebende Wirkung gilt § 25 Abs. 1–3 sinngemäss.
 
+[^hBBeschwerdesup50-1]: LS 351.
+[^hBBeschwerdesup50-2]: LS 551.19.
+[^hBBeschwerdesup50-3]: LS 131.1.
+[^hBBeschwerdesup50-4]: LS 211.1.
+
 #### § 56
 
 **Beschwerdeverfahren a. Vorprüfung**
@@ -788,7 +818,7 @@ Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten 
 
 **19**
 
-1.10. 22 - 118 § 62. <sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
+- 1\. 7. 24 - 125 § 62. <sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
 
 **g. Öffentlichkeit**
 
@@ -824,7 +854,7 @@ Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten 
 
 § 65 a.<sup>54</sup> <sup>1</sup> Das Verwaltungsgericht legt die Gerichtsgebühr nach seinem Zeitaufwand, nach der Schwierigkeit des Falls und nach dem Streitwert oder dem tatsächlichen Streitinteresse fest. Die Gebühr beträgt in der Regel Fr. 500 bis Fr. 50 000.
 
-<sup>2</sup> Im Übrigen richtet sich die Gebührenerhebung nach §§ 13–16 und nach der Verordnung des Verwaltungsgerichts<sup>10</sup>.
+<sup>2</sup> Im Übrigen richtet sich die Gebührenerhebung nach §§ 13–16 und nach der Verordnung des Verwaltungsgerichts[^63-1].
 
 **Schiedsgericht**
 
@@ -840,23 +870,30 @@ Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten 
 
 **b. Zivilprozessordnung**
 
-§ 71.<sup>53</sup> Die Vorschriften der ZPO<sup>27</sup> betreffend die Prozessleitung, das prozessuale Handeln und die Fristen (1. Teil, 9. Titel) sowie die für den Zivilprozess geltenden Verfahrensbestimmungen des GOG<sup>11</sup> (6.Teil,
+§ 71.<sup>53</sup> Die Vorschriften der ZPO<sup>27</sup> betreffend die Prozessleitung, das prozessuale Handeln und die Fristen (1. Teil, 9. Titel) sowie die für den Zivilprozess geltenden Verfahrensbestimmungen des GOG[^63-2] (6.Teil,
 
 - 1\. und 2. Abschnitt) finden ergänzend Anwendung.
 
+[^63-1]: LS 175.252.
+[^63-2]: LS 211.1.
+
 ### C. Rekurs und Beschwerde in Steuersachen<sup>50</sup>
+
+[^hCRekursundBeschw-1]: LS 631.1; LS 632.1.
 
 #### § 72
 
 **Zuständigkeit**
 
-Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz nach den besonderen Bestimmungen der Steuergesetzgebung<sup>18</sup>.
+Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz nach den besonderen Bestimmungen der Steuergesetzgebung[^hCRekursundBeschw-1].
 
 **Verfahren**
 
-§ 73.<sup>34</sup> Für Beschwerde, Rekurs und Revision sowie für deren Wirkung, Verfahren und Entscheid gelten die Bestimmungen des Steuergesetzes<sup>18</sup>.
+§ 73.<sup>34</sup> Für Beschwerde, Rekurs und Revision sowie für deren Wirkung, Verfahren und Entscheid gelten die Bestimmungen des Steuergesetzes[^72-1].
 
 §§ 74–80 d.<sup>51</sup>
+
+[^72-1]: LS 631.1; LS 632.1.
 
 ### D. Verwaltungsrechtliche Klage<sup>50</sup>
 
@@ -874,7 +911,7 @@ Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz 
 
 **21**
 
-1.10. 22 - 118 § 83. <sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
+- 1\. 7. 24 - 125 § 83. <sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
 
 **Verfahren a. Klageschrift**
 
@@ -926,37 +963,45 @@ Das Verwaltungsgericht beurteilt die ihm vorgelegten Anträge in tatsächlicher 
 
 ### Fünfter Abschnitt: Die Ombudsperson<sup>34,</sup> <sup>35</sup>
 
-#### § 87
+**Wahl und Stellung**
 
-**Wahl**
+§ 87.<sup>74</sup> <sup>1</sup> Der Kantonsrat wählt die Ombudsperson und ihre Stellvertretung für eine Amtsdauer von vier Jahren. Die Stellvertretung ist der Ombudsperson in der Funktion gleichgestellt.
 
-<sup>1</sup> Der Kantonsrat wählt die kantonale Ombudsperson und ihre Ersatzleute für eine Amtsdauer von vier Jahren.<sup>35</sup> Er bestimmt die Zahl der Ersatzleute. Er ordnet die Besoldung der Ombudsperson<sup>35</sup> und die Entschädigung der Ersatzleute.
+<sup>2</sup> Die Ombudsperson ist unabhängig. Sie ist administrativ der Geschäftsleitung des Kantonsrates zugeordnet.<sup>46,</sup> <sup>56</sup>
 
-<sup>2</sup> Die Ersatzleute amten als Stellvertretung der Ombudsperson. Sie unterstützen diese beim Abbau der Geschäftslast oder wenn die Ombudsperson ihre Obliegenheiten nicht rechtzeitig erfüllen kann.<sup>67</sup>
+<sup>3</sup> Der Kantonsrat kann die Ombudsperson und ihre Stellvertretung bei schwerwiegenden Amtspflichtverletzungen oder bei fachlichem Ungenügen auf Antrag seiner Geschäftsleitung vor Ablauf der Amtsdauer abwählen. Für diesen Beschluss ist eine Mehrheit von zwei Dritteln der Mitglieder des Kantonsrates erforderlich.
 
-<sup>3</sup> Die Ombudsperson ist unabhängig. Sie ist administrativ der Geschäftsleitung des Kantonsrates zugeordnet.<sup>46,</sup> <sup>56</sup>
+**Personalrechtliche Stellung**
 
-**Controlling und Rechnungslegung, Ausgabenbewilligung**
+§ 87 a.<sup>74</sup> <sup>1</sup> Auf die Ombudsperson und ihre Stellvertretung sind die personalrechtlichen Bestimmungen sinngemäss anwendbar, insbesondere über a. die Lohnauszahlung,
 
-§ 87 a.<sup>45</sup> <sup>1</sup> Die Ombudsperson ist dem Gesetz über Controlling und Rechnungslegung (CRG)<sup>17</sup> und den Ausführungserlassen des Regierungsrates zu diesem Gesetz unterstellt.
+- b. die Ausrichtung von Familienzulagen,
 
-<sup>2</sup> Sie führt eine eigene Rechnung. Sie unterbreitet dem Kantonsrat jährlich eine Übersicht über die Entwicklung der Leistungen und Finanzen, einen Budgetentwurf sowie einen Bericht über ihre Tätigkeit mit Einschluss einer Rechnung.
+- c. die Rechte und Pflichten bei Elternschaft, Krankheit und Unfall,
 
-<sup>3</sup> Sie ist bezüglich Ausgabenkompetenzen dem Regierungsrat gleichgestellt. §§ 19–25 des CRG<sup>17</sup> gelten sinngemäss.
+- d. den Rechtsschutz.
 
-#### § 88
-
-**Sitz und Organisation**
-
-<sup>1</sup> Der Kantonsrat bestimmt den Amtssitz der Ombudsperson<sup>35</sup>.
+<sup>2</sup> Der Lohn der Ombudsperson und der Stellvertretung entspricht dem Höchstbetrag der Lohnklasse 27 der kantonalen Angestellten. Der Lohn der Stellvertretung berechnet sich nach ihrer zeitlichen Beanspruchung.
 
 **23**
 
-1.10. 22 - 118
+- 1\. 7. 24 - 125 § 88.<sup>74</sup> <sup>1</sup> Die Ombudsstelle hat ihren Sitz in Zürich.
 
-<sup>2</sup> Die Ombudsperson<sup>35</sup> bestellt ihre Kanzlei im Rahmen des vom Kantonsrat festzulegenden Stellenplans. Auf das Personal finden die Vorschriften für das Kanzleipersonal des Verwaltungsgerichts entsprechende Anwendung.
+**Sitz und Organisation**
 
-<sup>3</sup> Übernimmt die Ombudsperson Aufgaben gemäss Art. 81 Abs. 4 KV<sup>3</sup> in einer Gemeinde, nimmt sie ihre Tätigkeit spätestens ein Jahr nach Inkrafttreten der entsprechenden Bestimmung der Gemeindeordnung auf.<sup>43</sup>
+<sup>2</sup> Die Ombudsperson ist für die Anstellungen und Beförderungen des Personals der Ombudsstelle im Rahmen des vom Kantonsrat genehmigten Budgets zuständig. Auf das Personal der Ombudsstelle findet das Personalrecht des Kantons Anwendung.
+
+<sup>3</sup> Übernimmt die Ombudsperson Aufgaben gemäss Art. 81 Abs. 4 KV[^hFünfterAbschnittD-1] in einer Gemeinde, nimmt sie ihre Tätigkeit spätestens ein Jahr nach Inkrafttreten der entsprechenden Bestimmung der Gemeindeordnung auf.<sup>43</sup>
+
+<sup>4</sup> Der Kanton wird gegenüber der Ombudsperson durch die Geschäftsleitung des Kantonsrates vertreten.
+
+**Controlling und Rechnungslegung, Ausgabenbewilligung**
+
+§ 88 a.<sup>45,</sup> <sup>75</sup> <sup>1</sup> Die Ombudsperson ist dem Gesetz über Controlling und Rechnungslegung (CRG)[^hFünfterAbschnittD-2] und den Ausführungserlassen des Regierungsrates zu diesem Gesetz unterstellt.
+
+<sup>2</sup> Sie führt eine eigene Rechnung. Sie unterbreitet dem Kantonsrat jährlich eine Übersicht über die Entwicklung der Leistungen und Finanzen, einen Budgetentwurf sowie einen Bericht über ihre Tätigkeit mit Einschluss einer Rechnung.
+
+<sup>3</sup> Sie ist bezüglich Ausgabenkompetenzen dem Regierungsrat gleichgestellt. §§ 19–25 des CRG[^hFünfterAbschnittD-2] gelten sinngemäss.
 
 **Aufgabenbereich a. Grundsatz**
 
@@ -965,6 +1010,9 @@ Das Verwaltungsgericht beurteilt die ihm vorgelegten Anträge in tatsächlicher 
 <sup>2</sup> Zusätzlich prüft sie a. die unselbstständigen und die selbstständigen kantonalen Anstalten und Körperschaften, ausgenommen die Zürcher Kantonalbank und die Elektrizitätswerke des Kantons Zürich,
 
 - b. die Behörden und Verwaltungseinheiten einer Gemeinde, deren Gemeindeordnung das Tätigwerden der Ombudsperson vorsieht.
+
+[^hFünfterAbschnittD-1]: LS 101.
+[^hFünfterAbschnittD-2]: LS 611.
 
 #### § 90
 
@@ -1024,9 +1072,11 @@ Die Ombudsperson<sup>35</sup> ist nicht befugt, Anordnungen zu treffen. Aufgrund
 
 <sup>4</sup> Verzichtet eine Gemeinde wieder auf die Tätigkeit der Ombudsperson, bleibt die finanzielle Verpflichtung gemäss Abs. 3 noch während eines Jahres nach Inkrafttreten der entsprechenden Bestimmung der Gemeindeordnung bestehen.<sup>43</sup>
 
-**e. Schweigepflicht**
+**25**
 
-§ 94 a. <sup>1</sup> Die Ombudsperson und ihr Personal haben über ihre Wahrnehmungen gegenüber Behörden und Privaten zu schweigen. Vorbehalten bleibt § 167 GOG<sup>11</sup>.<sup>53</sup>
+- 1\. 7. 24 - 125 § 94 a. <sup>1</sup> Die Ombudsperson und ihr Personal haben über ihre Wahrnehmungen gegenüber Behörden und Privaten zu schweigen. Vorbehalten bleibt § 167 GOG[^94-1].<sup>53</sup>
+
+**e. Schweigepflicht**
 
 <sup>2</sup> Die Schweigepflicht entfällt, wenn a. die betroffene Person einverstanden ist oder b. schwerwiegende öffentliche oder private Interessen überwiegen, die eine Weitergabe von Informationen rechtfertigen.
 
@@ -1034,9 +1084,7 @@ Die Ombudsperson<sup>35</sup> ist nicht befugt, Anordnungen zu treffen. Aufgrund
 
 § 94 b.<sup>49,</sup> <sup>68</sup> Gegen Anordnungen der Ombudsperson in eigenen personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation<sup>69</sup> der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
 
-**25**
-
-1.10. 22 - 118
+[^94-1]: LS 211.1.
 
 ### Sechster Abschnitt: Schluss- und Übergangsbestimmungen<sup>34</sup>
 
@@ -1106,6 +1154,10 @@ G vom 30. August 2004 (OS 59, 409)
 
 <sup>2</sup> Die Zuständigkeit und die Zusammensetzung des Organs, bei dem ein Verfahren im Zeitpunkt des Inkrafttretens rechtshängig ist, richtet sich nach bisherigem Recht.
 
+**27**
+
+- 1\. 7. 24 - 125
+
 ### Übergangsbestimmungen zur Änderung vom 28. August 2017
 
 (OS 72, 523)
@@ -1113,6 +1165,46 @@ G vom 30. August 2004 (OS 59, 409)
 <sup>1</sup> Bei unbenütztem Ablauf der Referendumsfrist vor dem 8. November 2017 tritt die Gesetzesänderung am 1. Januar 2018 in Kraft.
 
 <sup>2</sup> In den übrigen Fällen entscheidet der Regierungsrat über den Zeitpunkt des Inkrafttretens.
+
+### Übergangsbestimmung zur Änderung vom 12. Dezember 2022
+
+(OS 79, 157)
+
+Tritt die Änderung während der laufenden Amtsdauer der Ombudsperson in Kraft, bleibt bis zum Ende der laufenden Amtsdauer das bisherige Recht anwendbar.
+
+<sup>22</sup> LS 712.1.
+
+<sup>23</sup> LS 732.1.
+
+<sup>24</sup> SR 142.20.
+
+<sup>25</sup> SR 151.1.
+
+<sup>26</sup> SR 173.110.
+
+<sup>27</sup> SR 272.
+
+<sup>28</sup> SR 721.80.
+
+<sup>29</sup> SR 832.10.
+
+<sup>30</sup> Text siehe OS 40, 566 ff.
+
+<sup>31</sup> Fassung gemäss G vom 6. September 1987 (OS 50, 221). In Kraft seit 1. Januar 1988 (OS 50, 223).
+
+<sup>32</sup> Aufgehoben durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
+
+<sup>33</sup> Eingefügt durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
+
+<sup>34</sup> Fassung gemäss G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
+
+<sup>35</sup> Fassung gemäss G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
+
+<sup>36</sup> Aufgehoben durch G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
+
+<sup>37</sup> Eingefügt durch Gesetz über die Offenlegung von Interessenbindungen von Richterinnen und Richtern vom 13. Juni 1999 (OS 55, 434). In Kraft seit 1. Januar 2000 (OS 55, 496).
+
+<sup>38</sup> Fassung gemäss G über die Wahl von teilamtlichen Mitgliedern der Gerichte vom 4. Januar 1999 (OS 56, 43). In Kraft seit 1. März 2000 (OS 56, 56).
 
 <sup>39</sup> Eingefügt durch Gesetz über die Verzugszinsen für öffentlichrechtliche Forderungen vom 17. Juni 2002 (OS 57, 277; ABl 2001, 1308). In Kraft seit 1. Juli 2003 (OS 58, 80).
 
@@ -1129,6 +1221,10 @@ G vom 30. August 2004 (OS 59, 409)
 <sup>45</sup> Eingefügt durch G über Controlling und Rechnungslegung vom 9. Januar 2006 (OS 62, 354; ABl 2004, 89). In Kraft seit 1. April 2008 (OS 63, 134).
 
 <sup>46</sup> Aufgehoben durch G über Controlling und Rechnungslegung vom 9. Januar 2006 (OS 62, 354; ABl 2004, 89). In Kraft seit 1. April 2008 (OS 63, 134).
+
+**29**
+
+- 1\. 7. 24 - 125
 
 <sup>47</sup> Fassung gemäss G über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 121; ABl 2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63, 317).
 
@@ -1148,81 +1244,55 @@ G vom 30. August 2004 (OS 59, 409)
 
 <sup>55</sup> Fassung gemäss Einführungsgesetz zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012 (OS 67, 443; ABl 2011, 2567). In Kraft seit 26. September 2012.
 
-**29**
+<sup>56</sup> Eingefügt durch Kantonsratsgesetz vom 17. Dezember 2012 (OS 68, 149; ABl 2012, 189). In Kraft seit 6. Mai 2013.
 
-1.10. 22 - 118
+<sup>57</sup> Fassung gemäss Planungs- und Baugesetz vom 28. Oktober 2013 (OS 69, 262; ABl 2011, 1119). In Kraft seit 1. Juli 2014.
 
-<sup>5566</sup> EEiinnggeeffüüggtt dduurrcchh KKaannttoonnssrraattssggeesseettzz vvoomm 1177.. DDeezzeemmbbeerr 22001122 ((OOSS 6688,, 114499;; AABBll 22001122,, 118899)).. IInn KKrraafftt sseeiitt 66.. MMaaii 22001133..
+<sup>58</sup> Aufgehoben durch Gesetz über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2016.
 
-<sup>5577</sup> FFaassssuunngg ggeemmäässss PPllaannuunnggss-- uunndd BBaauuggeesseettzz vvoomm 2288.. OOkkttoobbeerr 22001133 ((OOSS 6699,, 226622;; AABBll 22001111,, 11111199)).. IInn KKrraafftt sseeiitt 11.. JJuullii 22001144..
+<sup>59</sup> Fassung gemäss G vom 17. August 2015 (OS 71, 233; ABl 2015-01-23). In Kraft seit 1. Oktober 2016.
 
-<sup>5588</sup> AAuuffggeehhoobbeenn dduurrcchh GGeesseettzz üübbeerr ddaass MMeellddeewweesseenn uunndd ddiiee EEiinnwwoohhnneerrrreeggiisstteerr vvoomm 1111.. MMaaii 22001155 ((OOSS 7700,, 440077;; AABBll 22001144--1100--3311)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001166..
+<sup>60</sup> Eingefügt durch Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 
-<sup>5599</sup> FFaassssuunngg ggeemmäässss GG vvoomm 1177.. AAuugguusstt 22001155 ((OOSS 7711,, 223333;; AABBll 22001155--0011--2233)).. IInn KKrraafftt sseeiitt 11.. OOkkttoobbeerr 22001166..
+<sup>61</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 
-<sup>6600</sup> EEiinnggeeffüüggtt dduurrcchh GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
+<sup>62</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018. Berichtigung vom 19. Juni 2017 (OS 72, 382).
 
-<sup>6611</sup> FFaassssuunngg ggeemmäässss GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
+<sup>63</sup> Eingefügt durch Publikationsgesetz vom 30. November 2015 (OS 72, 527; ABl 2014-11-07). In Kraft seit 1. Januar 2018.
 
-<sup>6622</sup> FFaassssuunngg ggeemmäässss GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188.. BBeerriicchhttiigguunngg vvoomm 1199.. JJuunnii 22001177 ((OOSS 7722,, 338822))..
+<sup>64</sup> Fassung gemäss Publikationsgesetz vom 30. November 2015 (OS 72, 527; ABl 2014-11-07). In Kraft seit 1. Januar 2018.
 
-<sup>6633</sup> EEiinnggeeffüüggtt dduurrcchh PPuubblliikkaattiioonnssggeesseettzz vvoomm 3300.. NNoovveemmbbeerr 22001155 ((OOSS 7722,, 552277;; AABBll 22001144--1111--0077)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
+<sup>65</sup> Eingefügt durch G über die politischen Rechte vom 28. August 2017 (OS 72, 523; ABl 2016-12-16). In Kraft seit 1. Januar 2018.
 
-<sup>6644</sup> FFaassssuunngg ggeemmäässss PPuubblliikkaattiioonnssggeesseettzz vvoomm 3300.. NNoovveemmbbeerr 22001155 ((OOSS 7722,, 552277;; AABBll 22001144--1111--0077)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
+<sup>66</sup> Fassung gemäss G vom 19. März 2018 (OS 73, 363; ABl 2016-07-15). In Kraft seit 1. Oktober 2018.
 
-<sup>6655</sup> EEiinnggeeffüüggtt dduurrcchh GG üübbeerr ddiiee ppoolliittiisscchheenn RReecchhttee vvoomm 2288.. AAuugguusstt 22001177 ((OOSS 7722,, 552233;; AABBll 22001166--1122--1166)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
+<sup>67</sup> Fassung gemäss G vom 26. Februar 2018 (OS 73, 354; ABl 2017-04-28). In Kraft seit 1. Januar 2019.
 
-<sup>6666</sup> FFaassssuunngg ggeemmäässss GG vvoomm 1199.. MMäärrzz 22001188 ((OOSS 7733,, 336633;; AABBll 22001166--0077--1155)).. IInn KKrraafftt sseeiitt 11.. OOkkttoobbeerr 22001188..
+<sup>68</sup> Nummerierung gemäss G vom 26. Februar 2018 (OS 73, 354; ABl 2017-04-28). In Kraft seit 1. Januar 2019.
 
-<sup>6677</sup> FFaassssuunngg ggeemmäässss GG vvoomm 2266.. FFeebbrruuaarr 22001188 ((OOSS 7733,, 335544;; AABBll 22001177--0044--2288)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001199..
+<sup>69</sup> Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
 
-<sup>6688</sup> NNuummmmeerriieerruunngg ggeemmäässss GG vvoomm 2266.. FFeebbrruuaarr 22001188 ((OOSS 7733,, 335544;; AABBll 22001177--0044--2288)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001199..
+<sup>70</sup> Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
 
-<sup>6699</sup> FFaassssuunngg ggeemmäässss KKaannttoonnssrraattssggeesseettzz vvoomm 2255.. MMäärrzz 22001199 ((OOSS 7744,, 338877)).. IInn KKrraafftt sseeiitt 11.. MMaaii 22002200..
+<sup>71</sup> Eingefügt durch G vom 30. November 2020 (OS 76, 198; ABl 2020-02-28). In Kraft seit 1. Juli 2021.
 
-<sup>7700</sup> FFaassssuunngg ggeemmäässss GG üübbeerr ddiiee IInnffoorrmmaattiioonn uunndd ddeenn DDaatteennsscchhuuttzz vvoomm 2255.. NNoovveemm-- bbeerr 22001199 ((OOSS 7755,, 226633;; AABBll 22001188--0077--1133)).. IInn KKrraafftt sseeiitt 11.. JJuunnii 22002200..
+<sup>72</sup> Fassung gemäss G vom 14. März 2022 (OS 77, 424; ABl 2021-04-30). In Kraft seit 1. Oktober 2022.
 
-<sup>7711</sup> EEiinnggeeffüüggtt dduurrcchh GG vvoomm 3300.. NNoovveemmbbeerr 22002200 ((OOSS 7766,, 119988;; AABBll 22002200--0022--2288)).. IInn KKrraafftt sseeiitt 11.. JJuullii 22002211..
+<sup>73</sup> Fassung gemäss G über die politischen Rechte vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
+
+<sup>74</sup> Fassung gemäss KRB über die Angleichung der rechtlichen Bestimmungen zur Ombudsperson, der Leiterin oder des Leiters der Finanzkontrolle und der oder des Beauftragten für den Datenschutz vom 12. Dezember 2022 (OS 79, 157; ABl 2022-07-15). In Kraft seit 1. Mai 2024.
+
+<sup>75</sup> Nummerierung gemäss KRB über die Angleichung der rechtlichen Bestimmungen zur Ombudsperson, der Leiterin oder des Leiters der Finanzkontrolle und der oder des Beauftragten für den Datenschutz vom 12. Dezember 2022 (OS 79, 157; ABl 2022-07-15). In Kraft seit 1. Mai 2024.
+
+**31**
+
+- 1\. 7. 24 - 125
 
 ## Weitere Fussnoten
 
-- [1] OS 40, 546 und GS I, 342.
 - [2] Inkrafttreten: 1. Mai 1960 (OS 40, 593).
-- [3] LS 101.
-- [4] LS 131.1.
 - [5] LS 151.
-- [6] LS 161. 1.10. 22 - 118 27
-- [7] LS 170.4.
-- [8] LS 175.21.
-- [9] LS 175.213.
-- [10] LS 175.252.
-- [11] LS 211.1.
 - [12] LS 230.
-- [13] LS 331.
-- [14] LS 351.
 - [15] LS 413.30.
-- [16] LS 551.19.
-- [17] LS 611.
-- [18] LS 631.1; LS 632.1.
-- [19] LS 682; LS 681.
 - [20] LS 700.1.
 - [21] LS 711.1.
-- [22] LS 712.1.
-- [23] LS 732.1.
-- [24] SR 142.20.
-- [25] SR 151.1.
-- [26] SR 173.110.
-- [27] SR 272.
-- [28] SR 721.80.
-- [29] SR 832.10.
-- [30] Text siehe OS 40, 566 ff.
-- [31] Fassung gemäss G vom 6. September 1987 (OS 50, 221). In Kraft seit 1. Januar 1988 (OS 50, 223).
-- [32] Aufgehoben durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
-- [33] Eingefügt durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
-- [34] Fassung gemäss G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
-- [35] Fassung gemäss G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
-- [36] Aufgehoben durch G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
-- [37] Eingefügt durch Gesetz über die Offenlegung von Interessenbindungen von Richterinnen und Richtern vom 13. Juni 1999 (OS 55, 434). In Kraft seit 1. Januar 2000 (OS 55, 496).
-- [38] Fassung gemäss G über die Wahl von teilamtlichen Mitgliedern der Gerichte vom 4. Januar 1999 (OS 56, 43). In Kraft seit 1. März 2000 (OS 56, 56).
-- [72] Fassung gemäss G vom 14. März 2022 (OS 77, 424; ABl 2021-04-30). In Kraft seit 1. Oktober 2022.
-- [73] Fassung gemäss G über die politischen Rechte vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
