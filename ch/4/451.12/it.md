@@ -4,11 +4,11 @@ title: "Ordinanza del 13 novembre 2019 riguardante l'inventario federale degli i
 short: OISOS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/673"
 language: it
-version: 2023-04-01
+version: 2024-05-01
 adopted: 2019-11-13
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2019-673-20230401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2019-673-20240501-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20240501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20230401/it"
 
 (OISOS)
 
-del 13 novembre 2019 (Stato 1° aprile 2023)
+del 13 novembre 2019 (Stato 1° maggio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 5 della legge federale del 1° luglio 1966[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 1
 
@@ -45,7 +45,7 @@ ordina:
 
 <sup>2</sup> L’ISOS può essere consultato gratuitamente sul geoportale della Confederazione[^2-2].
 
-[^2-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^2-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^2-2]: map.geo.admin.ch
 
 #### Art. 3
@@ -201,7 +201,7 @@ Sulla base della valutazione, sono associate a uno dei seguenti obiettivi di con
 
 <sup>2</sup> Provvedono affinché l’ISOS sia preso in considerazione sulla base dei piani direttori cantonali, in particolare nell’ambito dell’elaborazione dei piani di utilizzazione secondo gli articoli 14–20 LPT.
 
-[^11-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^11-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 12
 
@@ -209,7 +209,7 @@ Sulla base della valutazione, sono associate a uno dei seguenti obiettivi di con
 
 Gli aiuti finanziari concessi dalla Confederazione per provvedimenti volti a conservare e valorizzare gli oggetti si basano sugli articoli 13–14*a* LPN e sugli articoli 4–12*a* dell’ordinanza del 16 gennaio 1991[^12-1] sulla protezione della natura e del paesaggio.
 
-[^12-1]: [RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
+[^12-1]: [RS 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
 
 #### Art. 13
 
@@ -237,7 +237,7 @@ Allegato 1[^t-1]
 
 ## Insediamenti svizzeri da proteggere d’importanza nazionale
 
-[^t-1]: Aggiornato dal n. I delle O del 19 mar. 2021 ([RU 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), dell’11 mar. 2022 ([RU 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)) e del 15 feb. 2023, in vigore dal 1° apr. 2023 ([RU 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)).
+[^t-1]: Aggiornato dal n. I delle O del 19 mar. 2021 ([RU 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), dell’11 mar. 2022 ([RU 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), del 15 feb. 2023 ([RU 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)) e del 15 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)).
 
 <table>
 <tr><th>Cantone</th><th>N.</th><th>Oggetto</th><th>Categoria di agglomerato</th></tr>
@@ -536,15 +536,14 @@ Allegato 1[^t-1]
 <tr><td>FR</td><td>5939</td><td>Broc-Fabrique (Broc)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>5940</td><td>Broc-Vieille Cure (Broc)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1604</td><td>Bulle</td><td>petite ville/bourg</td></tr>
-<tr><td>FR</td><td>1458</td><td>Bussy</td><td>village</td></tr>
+<tr><td>FR</td><td>1458</td><td>Bussy (Estavayer)</td><td>village</td></tr>
 <tr><td>FR</td><td>1773</td><td>Châtel-Saint-Denis</td><td>petite ville/bourg</td></tr>
 <tr><td>FR</td><td>1467</td><td>Chavannes-les-Forts (Siviriez)</td><td>village</td></tr>
 <tr><td>FR</td><td>1608</td><td>Corbières</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1734</td><td>Cressier</td><td>village</td></tr>
-<tr><td>FR</td><td>1477</td><td>Dompierre</td><td>village</td></tr>
 <tr><td>FR</td><td>1613</td><td>Estavannens (Bas-Intyamon)</td><td>village</td></tr>
-<tr><td>FR</td><td>1484</td><td>Estavayer-le-Lac</td><td>petite ville/bourg</td></tr>
-<tr><td>FR</td><td>1491</td><td>Font (Font, Châbles)</td><td>cas particulier</td></tr>
+<tr><td>FR</td><td>1484</td><td>Estavayer-le-Lac (Estavayer)</td><td>petite ville/bourg</td></tr>
+<tr><td>FR</td><td>1491</td><td>Font (Estavayer, Cheyres-Châbles)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1675</td><td>Fribourg/Freiburg</td><td>ville</td></tr>
 <tr><td>FR</td><td>1497</td><td>Galmis (Düdingen)</td><td>Weiler</td></tr>
 <tr><td>FR</td><td>1615</td><td>Grandvillard</td><td>village</td></tr>
@@ -557,7 +556,6 @@ Allegato 1[^t-1]
 <tr><td>FR</td><td>1621</td><td>Lessoc (Haut-Intyamon)</td><td>village</td></tr>
 <tr><td>FR</td><td>1751</td><td>Lurtigen</td><td>Dorf</td></tr>
 <tr><td>FR</td><td>1517</td><td>Mézières</td><td>village</td></tr>
-<tr><td>FR</td><td>1520</td><td>Montagny-les-Monts (Montagny)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1625</td><td>Montbovon (Haut-Intyamon)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1755</td><td>Môtier (Haut-Vully)</td><td>village</td></tr>
 <tr><td>FR</td><td>1756</td><td>Muntelier</td><td>Dorf</td></tr>
@@ -583,8 +581,9 @@ Allegato 1[^t-1]
 <tr><td>FR</td><td>1645</td><td>Villars-sous-Mont (Bas-Intyamon)</td><td>village</td></tr>
 <tr><td>FR</td><td>1715</td><td>Villars-sur-Marly (Pierrafortscha)</td><td>hameau</td></tr>
 <tr><td>FR</td><td>1646</td><td>Villarvolard</td><td>village</td></tr>
+<tr><td>FR</td><td>6291</td><td>Vallon de l’Arbogne (Montagny)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1648</td><td>Vuippens (Marsens)</td><td>cas particulier</td></tr>
-<tr><td>FR</td><td>1589</td><td>Vuissens</td><td>village</td></tr>
+<tr><td>FR</td><td>1589</td><td>Vuissens (Estavayer)</td><td>village</td></tr>
 <tr><td>GE</td><td>6283</td><td>Avanchets, Les (Vernier)</td><td>cas particulier</td></tr>
 <tr><td>GE</td><td>1802</td><td>Avully</td><td>village</td></tr>
 <tr><td>GE</td><td>1812</td><td>Carouge</td><td>ville</td></tr>
@@ -624,19 +623,19 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>1950</td><td>Bergün/Bravuogn (Bergün Filisur)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1951</td><td>Bever</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Cauco)</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2319</td><td>Bondo</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2320</td><td>Borgonovo (Stampa)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>6292</td><td>Bondo (Bregaglia)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2320</td><td>Borgonovo (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1956</td><td>Braggio con Aira, Mezzana, Miaddi, Oer, Refontana, Stabbio (Braggio)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1960</td><td>Brün (Valendas)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>1934</td><td>Calfreisen (Arosa)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>1977</td><td>Cantone (Poschiavo)</td><td>casale/piccolo villaggio</td></tr>
-<tr><td>GR</td><td>2322</td><td>Castasegna</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2322</td><td>Castasegna (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1983</td><td>Castrisch</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1984</td><td>Cavaione (Brusio)</td><td>caso particolare</td></tr>
 <tr><td>GR</td><td>1985</td><td>Cavardiras (Disentis/Mustér)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>1991</td><td>Chur</td><td>Stadt</td></tr>
 <tr><td>GR</td><td>1993</td><td>Cinuos-chel (S-chanf)</td><td>fracziun</td></tr>
-<tr><td>GR</td><td>2323</td><td>Coltura (Stampa)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2323</td><td>Coltura (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2008</td><td>Curaglia (Medel (Lucmagn))</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2019</td><td>Degen/Igels</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2023</td><td>Disla (Disentis/Mustér)</td><td>fracziun</td></tr>
@@ -675,7 +674,7 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2153</td><td>Pontresina</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2155</td><td>Poschiavo</td><td>villaggio urbanizzato</td></tr>
 <tr><td>GR</td><td>2159</td><td>Präz (Cazis)</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2326</td><td>Promontogno (Bondo)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2326</td><td>Promontogno (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2161</td><td>Punt, La (La Punt Chamues-ch)</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2163</td><td>Putz (Luzein)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>2171</td><td>Reichenau (Tamins)</td><td>Spezialfall</td></tr>
@@ -700,10 +699,10 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2225</td><td>Sent (Scuol)</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2231</td><td>Sils im Domleschg</td><td>Verstädtertes Dorf</td></tr>
 <tr><td>GR</td><td>2234</td><td>Soazza</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2328</td><td>Soglio</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2328</td><td>Soglio (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2237</td><td>Splügen (Rheinwald)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>6289</td><td>St. Luzisteig, Alte Zollstation (Fläsch, Maienfeld)</td><td>Spezialfall</td></tr>
-<tr><td>GR</td><td>2330</td><td>Stampa</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2330</td><td>Stampa (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2248</td><td>Strassberg (Arosa)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2249</td><td>Stugl/Stuls (Bergün Filisur)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2251</td><td>Somvix</td><td>vitg</td></tr>
@@ -717,7 +716,7 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2283</td><td>Tschlin (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2295</td><td>Valendas</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2300</td><td>Villa</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2331</td><td>Vicosoprano</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2331</td><td>Vicosoprano (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2305</td><td>Vnà (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2306</td><td>Vrin</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2309</td><td>Waltensburg</td><td>vitg</td></tr>
