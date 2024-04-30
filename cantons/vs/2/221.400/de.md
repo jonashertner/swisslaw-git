@@ -3,27 +3,25 @@ canton: VS
 number: "221.400"
 title: "Beschluss über die Organisation der Handelsregisterämter, das Statut und die Entlöhnung des Personals"
 language: de
-version: 2001-01-01
-corrected: 2017-09-04
-version_adopted: 2000-12-06
+version: 2024-05-01
+version_adopted: 2024-04-24
 adopted: 2000-12-06
 in_force: 2001-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/221.400"
-pdf: "https://lex.vs.ch/api/de/versions/597/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3311/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Organisation der Handelsregisterämter, das Statut und die Entlöhnung des Personals
 
-vom 6. Dezember 2000
+vom 06.12.2000 (Stand 01.05.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 57, Absatz 3 der Kantonsverfassung;
+eingesehen den Artikel 57 Absatz 3 der Kantonsverfassung;
 
-eingesehen den Artikel 29, Absätze 2, 3, 6 und 7 der allgemeinen Ausführungsverordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 4. Oktober 2000;
+eingesehen den Artikel 29 Absätze 2, 3, 6 und 7 der allgemeinen Ausführungsverordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 4. Oktober 2000;
 
 auf Antrag des Departements für Sicherheit und Institutionen,
 
@@ -33,7 +31,7 @@ beschliesst:
 
 **Mindest- und Höchsteinkommen des Vorstehers**
 
-<sup>1</sup> Das Einkommen des Vorstehers schwankt je nach der Anzahl im Tagebuch vorgenommenen Eintragungen und der Rentabilität des Amtes zwischen einem Minimum von 81 360 Franken und einem Maximum von 155 643 Franken. Diese Beträge werden analog der Anpassung der Besoldung der Gerichtsbehörden dem Schweizerischen Lebenskostenindex angepasst.
+<sup>1</sup> Das Einkommen des Vorstehers schwankt je nach der Anzahl im Tagebuch vorgenommenen Eintragungen und der Rentabilität des Amtes zwischen einem Minimum von 81'360 Franken und einem Maximum von 155'643 Franken. Diese Beträge werden analog der Anpassung der Besoldung der Gerichtsbehörden dem Schweizerischen Lebenskostenindex angepasst.
 
 <sup>2</sup> Die in Absatz 1 enthaltenen Mindest- und Höchstansätze gelten für einen vollamtlich angestellten Vorsteher; andernfalls werden diese verhältnismässig reduziert.
 
@@ -43,7 +41,7 @@ beschliesst:
 
 **Entlöhnungssystem des Vorstehers**
 
-<sup>1</sup> Der Staat garantiert dem Vorsteher ein Mindesteinkommen von 81 360 Franken.
+<sup>1</sup> Der Staat garantiert dem Vorsteher ein Mindesteinkommen von 81'360 Franken.
 
 <sup>2</sup> Das Mindesteinkommen des Vorstehers wird ab der 601. jährlich vorgenommenen Eintragung im Tagebuch um 50 Franken pro Eintragung und um 35 Prozent der gemäss den Artikeln 7 und 9 bis 12 des Bundestarifs erhobenen Gebühren erhöht.
 
@@ -57,13 +55,9 @@ beschliesst:
 
 **Entlöhnungssystem des Stellvertreters**
 
-Der Stellvertreter erhebt folgende Gebühren:
+<sup>1</sup> …
 
-- a) 350 Franken pro Tag;
-
-- b) 200 Franken für einen halben Tag;
-
-- c) 50 Franken pro Stunde bis zu höchstens drei Stunden.
+<sup>1<sup>bis</sup></sup> Proportional zur ausgeführten Tätigkeit ist das Einkommen des Stellvertreters identisch mit jenem des betreffenden Vorstehers.
 
 #### Art. 4
 
@@ -101,8 +95,7 @@ Der Stellvertreter erhebt folgende Gebühren:
 
 <sup>1</sup> Um zu Lasten der Betriebsrechnung verbucht zu werden, müssen die Löhne:
 
-- a) an Mitarbeiter ausbezahlt werden, deren Anstellung vom Staatsrat genehmigt wurde, und
-
+- a) an Mitarbeiter ausbezahlt werden, deren Anstellung vom Staatsrat genehmigt wurde; und
 - b) den Höchstbetrag der dem Personal der Kanzlei der Bezirksgerichte und der Staatsanwaltschaft gewährten Besoldungsklasse nicht übersteigen.
 
 <sup>2</sup> Die Abschreibungssätze auf den für die Tätigkeit des Amtes notwendigen Investitionen dürfen die für das Anlagevermögen der Handelsunternehmen geltenden steuerrechtlichen Ansätze nicht übersteigen.
@@ -113,20 +106,18 @@ Der Stellvertreter erhebt folgende Gebühren:
 
 <sup>5</sup> Die Kosten des Arbeitgebers hinsichtlich der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge bestehen in den während des laufenden Jahres geschuldeten Beiträge. Die Bildung von Arbeitgeberbeitragsreserven im Sinne von Artikel 331 Absatz 3 des Obligationenrechts ist ausgeschlossen.
 
-<sup>6</sup> Die Repräsentationskosten können pauschal bis zu einem Betrag von 1000 Franken verrechnet werden.
+<sup>6</sup> Die Repräsentationskosten können pauschal bis zu einem Betrag von 1'000 Franken verrechnet werden.
 
 #### Art. 8
 
 **Personal des Amtes**
 
-Der Vorsteher übermittelt dem zuständigen Departement innert 30 Tagen nach Inkrafttretung des vorliegenden Beschlusses den Lebenslauf der angestellten Personen, mit Angaben zu ihrer Ausbildung und beruflichen Erfahrung, das Datum ihres Dienstantrittes und ihr Gehalt. Diese Anstellungen werden dem Staatsrat zur rückwirkenden Genehmigung auf den 1. Januar 2001 unterbreitet.
+<sup>1</sup> Der Vorsteher übermittelt dem zuständigen Departement innert 30 Tagen nach Inkrafttretung des vorliegenden Beschlusses den Lebenslauf der angestellten Personen, mit Angaben zu ihrer Ausbildung und beruflichen Erfahrung, das Datum ihres Dienstantrittes und ihr Gehalt. Diese Anstellungen werden dem Staatsrat zur rückwirkenden Genehmigung auf den 1. Januar 2001 unterbreitet.
 
 #### Art. 9
 
 **Inkrafttreten**
 
-Dieser Beschluss tritt auf den 1. Januar 2001 in Kraft, nachdem er im Amtsblatt veröffentlicht wurde.
+<sup>1</sup> Dieser Beschluss tritt auf den 1. Januar 2001 in Kraft, nachdem er im Amtsblatt veröffentlicht wurde.
 
-So beschlossen im Staatsrat zu Sitten, den 6. Dezember 2000.
-
-Der Präsident des Staatsrates: Jean-René Fournier Der Staatskanzler: Henri v. Roten
+CSW BO/Abl. 50/2000
