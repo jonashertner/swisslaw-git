@@ -4,13 +4,12 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2024-03-01
-valid_until: 2024-04-30
-version_adopted: 2024-01-24
+version: 2024-05-01
+version_adopted: 2024-03-20
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2995/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3017/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2995/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.03.2024)
+vom 06.03.1985 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -642,19 +641,31 @@ beschliesst:
 
 <sup>1–2</sup> …
 
-<sup>3</sup> Der Gesuchsteller hat für die Erfüllung der Wiederherstellungspflicht vor Beginn des Materialabbaus Sicherheit zu leisten. Art und Höhe der Sicherheit werden vom Amt für Gemeinden und Raumordnung und vom kantonalen Amt für Wasser und Abfall einvernehmlich in der Ausnahmebewilligung nach Artikel 24 RPG oder, wo keine solche erforderlich ist, in der Gewässerschutzbewilligung bestimmt.
+<sup>3</sup> Der Gesuchsteller hat für die Erfüllung der Wiederherstellungspflicht vor Beginn des Materialabbaus Sicherheit zu leisten. Art und Höhe der Sicherheit werden vom Amt für Gemeinden und Raumordnung und vom Amt für Wasser und Abfall einvernehmlich in der Ausnahmebewilligung nach Artikel 24 RPG oder, wo keine solche erforderlich ist, in der Gewässerschutzbewilligung bestimmt.
 
-<sup>4</sup> Die Sicherheitsleistung ist dem kantonalen Amt für Wasser und Abfall vor Inangriffnahme der Arbeiten nachzuweisen.
+<sup>4</sup> Die Sicherheitsleistung ist dem Amt für Wasser und Abfall vor Inangriffnahme der Arbeiten nachzuweisen.
+
+#### Art. 33a
+
+**Fachkenntnisse**
+
+<sup>1</sup> Die Betreiberinnen und Betreiber von Materialabbaustellen bzw. ihr Personal müssen über die erforderlichen Fachkenntnisse für den fachgerechten Betrieb der Materialabbaustelle verfügen und der Behörde auf deren Verlangen die entsprechenden Nachweise vorlegen.
+
+<sup>2</sup> Das Amt für Wasser und Abfall legt die erforderlichen Fachkenntnisse fest.
 
 #### Art. 34
 
 **Aufsicht**
 
-<sup>1</sup> Die zuständige Gemeindebehörde beaufsichtigt die im Gemeindegebiet gelegenen Materialabbaustellen. Sie wacht insbesondere über die Einhaltung der Betriebsvorschriften und der Wiederherstellungspflicht.
+<sup>1</sup> Das Amt für Wasser und Abfall beaufsichtigt die Materialabbaustellen hinsichtlich der Einhaltung der Abbaukoten, des betrieblichen Gewässerschutzes, der Qualität des Auffüllmaterials und des Nachweises der Fachkenntnisse. Es kann für die Erfüllung seiner Aufsichtspflicht Dritte beiziehen.
 
-<sup>2</sup> Sie sorgt für die rasche Beseitigung von Missständen, nötigenfalls unter Androhung der Ersatzvornahme.
+<sup>1a</sup> Im Übrigen beaufsichtigt die zuständige Gemeindebehörde die im Gemeindegebiet gelegenen Materialabbaustellen. Sie wacht insbesondere über die Einhaltung der Betriebsvorschriften und der Wiederherstellungspflicht. Sie kann für die Erfüllung ihrer Aufsichtspflicht eine Grubenkommission beiziehen.
 
-<sup>3</sup> Die Bau- und Verkehrsdirektion übt namens des Regierungsrates die Oberaufsicht über den Betrieb der Materialabbaustellen aus. Die Aufsichtsbefugnisse anderer Behörden, insbesondere der Bau-, Gewerbe-, Forst-, Strassenbau- und Wasserbaupolizeiorgane, bleiben vorbehalten.
+<sup>1b</sup> Das Amt für Wasser und Abfall bietet der zuständigen Gemeindebehörde bei der Erfüllung ihrer Aufgabe nach Absatz 1a fachliche Unterstützung und Beratung. Soweit die zuständige Gemeindebehörde zur Erfüllung dieser Aufgabe eine Grubenkommission beizieht, unterstützt und berät das Amt für Wasser und Abfall auch diese.
+
+<sup>2</sup> Die in den Absätzen 1 und 1a genannten Behörden informieren sich gegenseitig über festgestellte Missstände und sorgen in ihrem Zuständigkeitsbereich für die rasche Beseitigung dieser Missstände, nötigenfalls unter Androhung der Ersatzvornahme.
+
+<sup>3</sup> Die Aufsichtsbefugnisse anderer Behörden, insbesondere der Gewerbe-, Forst-, Strassenbau- und Wasserbaupolizeiorgane, bleiben vorbehalten.
 
 #### Art. 34a
 
@@ -2053,6 +2064,14 @@ beschliesst:
 - a Baureglemente, Zonenpläne und Überbauungsordnungen sind mit den notwendigen Erläuterungen oder technischen Berichten sowie mit dem Bericht über die Information und die Mitwirkung der Bevölkerung in gedruckter Form und in der für den Einzelfall abgesprochenen Anzahl Exemplaren dem Amt für Gemeinden und Raumordnung zur Vorprüfung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
 - b Nach ihrer Annahme durch die Gemeinde sind Vorschriften und Pläne mit den notwendigen Erläuterungen oder technischen Berichten in gedruckter Form und ohne Verzug in der im Vorprüfungsbericht verlangten Anzahl dem Amt für Gemeinden und Raumordnung zur Genehmigung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
 - c Stimmen die elektronische Form und die Papierfassung eines Baureglements, eines Zonenplans oder einer Überbauungsordnung nicht überein, so gilt die bei der Genehmigungsbehörde aufbewahrte Papierfassung als massgebend.
+
+## T9 Übergangsbestimmung der Änderung vom 20.03.2024
+
+#### Art. T9-1
+
+**Fachkenntnisse bei bestehenden Materialabbaustellen**
+
+<sup>1</sup> Bei bestehenden Materialabbaustellen müssen die erforderlichen Fachkenntnisse spätestens ab 1. Januar 2028 vorhanden sein.
 
 Bern, 6. März 1985
 

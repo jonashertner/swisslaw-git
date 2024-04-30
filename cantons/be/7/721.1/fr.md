@@ -4,13 +4,12 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2024-03-01
-valid_until: 2024-04-30
-version_adopted: 2024-01-24
+version: 2024-05-01
+version_adopted: 2024-03-20
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2995/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3017/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2995/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.03.2024)
+du 06.03.1985 (état au 01.05.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -636,15 +635,27 @@ arrête:
 
 <sup>4</sup> L'Office des eaux et des déchets doit avoir la preuve, avant le début des travaux, que la sûreté a été fournie.
 
+#### Art. 33a
+
+**Expertise**
+
+<sup>1</sup> Les exploitantes et exploitants de lieux d’extraction de matériaux ainsi que leur personnel doivent disposer de l’expertise requise pour garantir une exploitation dans les règles de l’art du lieu d’extraction de matériaux et doivent produire, à la demande de l’autorité, les justificatifs correspondants.
+
+<sup>2</sup> L’Office des eaux et des déchets définit l’expertise requise.
+
 #### Art. 34
 
 **Surveillance**
 
-<sup>1</sup> L'autorité communale compétente exerce la surveillance des lieux d'extraction de matériaux situés sur le territoire de la commune. Elle veille en particulier au respect des prescriptions d'exploitation et de l'obligation de rétablir un état naturel.
+<sup>1</sup> L’Office des eaux et des déchets exerce la surveillance des lieux d’extraction de matériaux concernant le respect des cotes d’extraction et des exigences de protection des eaux applicables à l’exploitation, ainsi que la qualité des matériaux de comblement et la justification de l’expertise. Il peut faire appel à des tiers pour l’exercice de son devoir de surveillance.
 
-<sup>2</sup> Elle veille à ce que les abus soient rapidement corrigés, le cas échéant, sous commination d'exécution par substitution.
+<sup>1a</sup> Au surplus, l'autorité communale compétente exerce la surveillance des lieux d'extraction de matériaux situés sur le territoire de la commune. Elle veille en particulier au respect des prescriptions d’exploitation et de l’obligation de rétablir l’état naturel. Elle peut faire appel à une commission des carrières pour l’exercice de son devoir de surveillance.
 
-<sup>3</sup> La Direction des travaux publics et des transports exerce au nom du Conseil-exécutif la haute surveillance de l'exploitation des lieux d'extraction de matériaux. Les compétences d'autres autorités de surveillance, notamment des organes de la police des constructions, de l'industrie, des forêts, de la construction des routes et des constructions hydrauliques, sont réservées.
+<sup>1b</sup> L’Office des eaux et des déchets fournit un soutien technique et des prestations de conseil à l'autorité communale compétente pour l’accomplissement de ses tâches au sens de l’alinéa 1a. Si l'autorité communale compétente fait appel à une commission des carrières pour l’accomplissement de ces tâches, l’Office des eaux et des déchets soutient et conseille également cette dernière.
+
+<sup>2</sup> Les autorités indiquées aux alinéas 1 et 1a s’informent mutuellement des irrégularités constatées et veillent, dans leur domaine de compétences, à ce que ces irrégularités soient rapidement corrigées, le cas échéant, sous commination d’exécution par substitution.
+
+<sup>3</sup> Les compétences d'autres autorités de surveillance, en particulier des organes de la police industrielle, de la police des forêts, de la police de la construction des routes et de la police des eaux, sont réservées.
 
 #### Art. 34a
 
@@ -2010,6 +2021,14 @@ arrête:
 - a les règlements de construction, les plans de zone et les plans de quartier, accompagnés des explications requises ou des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être adressés sous forme imprimée à l'Office des affaires communales et de l'organisation du territoire en vue de leur examen préalable, le nombre d'exemplaires étant fixé d'entente avec ce dernier, au cas par cas. Un avis est transmis à la préfecture;
 - b après leur adoption par la commune, les plans et prescriptions, accompagnés des explications requises ou des rapports techniques, doivent être remis immédiatement sous forme imprimée à l'Office des affaires communales et de l'organisation du territoire, le nombre d'exemplaires étant fixé dans le rapport de l'examen préalable. Un avis est transmis à la préfecture;
 - c si la version numérique d'un règlement de construction, d'un plan de zones ou d'un plan de quartier et sa version papier ne concordent pas, la version papier conservée par l'autorité d'approbation est déterminante.
+
+## T9 Disposition transitoire de la modification du 20.03.2024
+
+#### Art. T9-1
+
+**Expertise pour les lieux d’extraction de matériaux existants**
+
+<sup>1</sup> Pour les lieux d’extraction de matériaux existants, l’expertise requise doit être disponible à compter du 1<sup>er</sup> janvier 2028 au plus tard.
 
 Berne, le 6 mars 1985
 
