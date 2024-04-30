@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1959 sur l'assurance des véhicules (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: fr
-version: 2024-04-01
+version: 2024-05-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr"
 
 (OAV)[^t-1]
 
-du 20 novembre 1959 (État le 1<sup>er</sup> avril 2024)
+du 20 novembre 1959 (État le 1<sup>er</sup> mai 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 6 oct. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1981 ([RO 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Selon la même disp., les art. intercalaires bis ont été remplacés par des art. *a* dans tout le texte.
 
@@ -285,7 +285,7 @@ L’autorisation est délivrée:
 Le détenteur peut utiliser, en trafic intérieur, avant d’avoir obtenu le permis de circulation, un véhicule expertisé portant les plaques de contrôle du véhicule lui appartenant appelé à être retiré de la circulation, à condition:
 
 - a. qu’il existe une attestation d’assurance valable, exception faite des remorques qui ne sont pas affectées au transport de personnes ni à celui de marchandises dangereuses;
-- b. que les documents visés à l’art. 74, al. 1, let. a et b, ch. 1, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière (OAC)[^10b-2] et que le permis de circulation du véhicule appelé à être retiré de la circulation aient été remis en main propre ou par la poste à l’autorité d’immatriculation et, qu’en outre, le cas échéant, les documents visés à l’art. 81, al. 3, OAC et aux art. 16, al. 2 ou 15, al. 5, de l’ordonnance du 6 mars 2000 relative à une redevance sur le trafic des poids lourds (ORPL)[^10b-3] y aient été joints, et
+- b.[^10b-2] que les documents visés à l’art. 74, al. 1, let. a et b, ch. 1, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière (OAC)[^10b-3] et que le permis de circulation du véhicule appelé à être retiré de la circulation aient été remis en main propre ou par la poste à l’autorité d’immatriculation et, qu’en outre, le cas échéant, les documents visés à l’art. 81, al. 3, OAC aient été joints, et
 - c. que la déclaration figurant à l’annexe 5 ait été dûment remplie par le détenteur et qu’elle soit conservée dans le véhicule.
 
 <sup>2</sup> L’autorisation est valable 30 jours au maximum à compter du premier jour de validité de l’attestation d’assurance.
@@ -297,8 +297,8 @@ Le détenteur peut utiliser, en trafic intérieur, avant d’avoir obtenu le per
 <sup>5</sup> Lorsque l’attestation d’assurance n’a pas été transmise ou ne l’a pas été dans les temps, l’assurance-responsabilité civile valable pour le véhicule à remplacer s’étend au nouveau véhicule pendant 30 jours au plus à compter de sa mise en service. L’assureur peut se retourner contre le détenteur fautif.[^10b-4]
 
 [^10b-1]: Introduit par le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
-[^10b-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^10b-3]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^10b-2]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^10b-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 [^10b-4]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
 ### Chapitre 2 Conditions particulières
@@ -570,20 +570,21 @@ Il est permis d’utiliser des plaques professionnelles:
 
 <sup>4</sup>
 
-Les véhicules automobiles lourds munis de plaques professionnelles ne peuvent être utilisés que pour les transports de choses suivants:
+Les véhicules automobiles lourds et les remorques lourdes munis de plaques professionnelles ne peuvent être utilisés que pour les transports de choses suivants:[^24-2]
 
 - a. les transports de pièces détachées de véhicules en vue d’effectuer, dans l’entreprise elle-même, des réparations ou des transformations d’un véhicule;
 - b. les transports de lest dans les cas mentionnés à l’al. 3, let. b à e;
 - c. les remorquages, dépannages et transferts de véhicules en panne ou endommagés à la suite d’un accident, du lieu de l’accident ou de la panne à l’atelier de réparation le plus proche ou à l’entreprise du détenteur du permis de circulation collectif.
 
-<sup>5</sup> Dans le cas mentionné à l’al. 3, let. a et f, et à l’al. 4, let a et c, les plaques professionnelles ne peuvent être fixées qu’à des véhicules dédouanés et dont l’impôt prélevé conformément à la loi du 21 juin 1996 sur l’imposition des véhicules automobiles[^24-2] a été acquitté. Dans le cas de à l’al. 4, let. a, les plaques professionnelles peuvent être fixées à des véhicules non dédouanés ou non imposés dans la mesure où les pièces transportées sont destinées à des travaux sur le véhicule.[^24-3]
+<sup>5</sup> Dans le cas mentionné à l’al. 3, let. a et f, et à l’al. 4, let a et c, les plaques professionnelles ne peuvent être fixées qu’à des véhicules dédouanés et dont l’impôt prélevé conformément à la loi du 21 juin 1996 sur l’imposition des véhicules automobiles[^24-3] a été acquitté. Dans le cas de à l’al. 4, let. a, les plaques professionnelles peuvent être fixées à des véhicules non dédouanés ou non imposés dans la mesure où les pièces transportées sont destinées à des travaux sur le véhicule.[^24-4]
 
-<sup>6</sup> Lorsque des plaques professionnelles sont fixées à des véhicules automobiles ou des remorques affectés au transport de choses et que lesdits véhicules sont chargés, le conducteur doit être porteur, en plus du permis de circulation collectif, d’un document indiquant le poids total autorisé (p. ex. la réception, la garantie du fabricant ou le permis de circulation établi lors d’une immatriculation antérieure) et, en outre, lorsque des plaques professionnelles sont fixées à des trains routiers, d’un certificat relatif à la charge remorquable autorisée.[^24-4] Le transport de marchandises dangereuses requiert une autorisation officielle et l’assurance complémentaire exigée par l’art. 12.
+<sup>6</sup> Lorsque des plaques professionnelles sont fixées à des véhicules automobiles ou des remorques affectés au transport de choses et que lesdits véhicules sont chargés, le conducteur doit être porteur, en plus du permis de circulation collectif, d’un document indiquant le poids total autorisé (p. ex. la réception, la garantie du fabricant ou le permis de circulation établi lors d’une immatriculation antérieure) et, en outre, lorsque des plaques professionnelles sont fixées à des trains routiers, d’un certificat relatif à la charge remorquable autorisée.[^24-5] Le transport de marchandises dangereuses requiert une autorisation officielle et l’assurance complémentaire exigée par l’art. 12.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^24-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^24-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^24-4]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^24-2]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^24-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^24-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^24-5]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 25
 
@@ -1652,7 +1653,7 @@ Annexe 3[^t-4]
 
 [^t-4]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image3.png)
 
 Annexe 4[^t-5]
 
@@ -1677,7 +1678,7 @@ Annexe 4[^t-5]
 - 1\.22 des permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image4.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image4.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront être construits annuellement pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -1711,7 +1712,7 @@ Annexe 4[^t-5]
 - 2\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image5.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image5.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules neufs devront être importés annuellement pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -1759,7 +1760,7 @@ Annexe 4[^t-5]
   - a. pour les voitures automobiles légères: un permis de circulation collectif pour chaque série de 40 voitures automobiles légères vendues par an;
   - b. pour les autres genres de véhicules:
 
-nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image6.png) , y étant égal au nom- bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, les véhicules supplémentaires suivants devront être vendus annuellement pour chaque permis de circulation collectif:
+nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image6.png) , y étant égal au nom- bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, les véhicules supplémentaires suivants devront être vendus annuellement pour chaque permis de circulation collectif:
 
 - – 10 voitures automobiles lourdes
 - – 30 motocycles
@@ -1800,7 +1801,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 4\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image7.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image7.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1834,7 +1835,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 5\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image8.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image8.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif. sur 20 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1868,7 +1869,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 6\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image9.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image9.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1902,7 +1903,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 7\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image10.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image10.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1936,7 +1937,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 8\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image11.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image11.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1970,7 +1971,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 9\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image12.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image12.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2004,7 +2005,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 10\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image13.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image13.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2039,7 +2040,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 11\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image14.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image14.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2073,7 +2074,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 12\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image15.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image15.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directe ment liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 20 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2106,7 +2107,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 13\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image16.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image16.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2140,7 +2141,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 14\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image17.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image17.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2174,7 +2175,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 15\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image18.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image18.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2208,7 +2209,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 16\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image19.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image19.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2242,7 +2243,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 17\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image20.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image20.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2275,7 +2276,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 18\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image21.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image21.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, le parc de véhicules de l’entreprise doit comprendre, pour chaque permis de circulation collectif, 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2307,7 +2308,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 19\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240401/fr/xml/image/image22.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/fr/xml/image/image22.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront annuellement faire l’objet d’un essai pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -2336,7 +2337,7 @@ Annexe 5[^t-6]
 
 ## Autorisation provisoire de circuler en Suisse
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008 ([RO 2008 5083](https://fedlex.data.admin.ch/eli/oc/2008/704)). Mise à jour par le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008 ([RO 2008 5083](https://fedlex.data.admin.ch/eli/oc/2008/704)). Mise à jour par l’annexe 5 ch. II 2 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 <table>
 <tr><td>1. **Détenteur/trice**</td><td>[tab]</td></tr>
@@ -2368,13 +2369,9 @@ Annexe 5[^t-6]
   - a. permis de circulation du véhicule à immatriculer ou rapport d’expertise (formulaire 13.20 A);
   - b. permis de circulation du véhicule à retirer de la circulation;
   - c. formulaire officiel par lequel le détenteur/la détentrice et le bénéficiaire (p. ex. l’entreprise de *leasing*) donnent leur accord écrit ou décision judicaire entrée en force concernant les rapports de propriété, si le code 178 «Changement de détenteur interdit» est inscrit dans le permis de circulation;
-  - d. attestation de conformité (art. 16, al. 2, ORPL)[^annex5-lvlu1-1] ou dispense de l’Office fédéral de la douane et de la sécurité des frontières, établie au nom du détenteur/de la détentrice (art. 15, al. 5, ORPL) pour les véhicules soumis à la RPLP[^annex5-lvlu1-2].
 
 <table>
 <tr><td>Date:</td><td></td><td>Signature (détenteur/trice):</td><td></td></tr>
 </table>
 
 *Remarque:* conformément à l’art. 10*b*, al. 1, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules, le formulaire rempli à la vérité doit être conservé dans les véhicules de manière conforme avant l’octroi du permis de circulation. *L’auto**risation provisoire de circuler* est valable pour des déplacements en Suisse jusqu’à la délivrance du permis de circulation, mais qui peuvent être utilisés 30 jours au plus à compter du premier jour de validité de l’attestation d’assurance. Elle n’est pas valable pour les véhicules automobiles ni pour les remorques qui sont immatriculés provisoirement ou utilisés avec des permis à court terme.
-
-[^annex5-lvlu1-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
-[^annex5-lvlu1-2]: Redevance sur le trafic des poids lourds
