@@ -4,13 +4,12 @@ number: "660.100"
 title: Verordnung über den Vollzug der direkten Bundessteuer
 short: DBStV
 language: de
-version: 2001-01-01
-valid_until: 2024-04-30
-version_adopted: 2001-01-16
+version: 2024-05-01
+version_adopted: 2024-03-19
 adopted: 1994-12-20
 in_force: 1995-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/660.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3711/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6177/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Direkte Bundessteuer: Vollzugsverordnung | Bundessteuern
 
 (DBStV)
 
-Vom 20. Dezember 1994 (Stand 1. Januar 2001)
+Vom 20. Dezember 1994 (Stand 1. Mai 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -71,7 +70,7 @@ verordnet was folgt:
 
 #### § 6
 
-<sup>1</sup> Einzahlungsstellen im Sinne von Art. 163 Abs. 3 des Bundesgesetzes sind die kantonale Finanzverwaltung und die Basler Kantonalbank mit ihren Filialen.
+<sup>1</sup> Im Sinne von Art. 163 Abs. 3 DBG ist die direkte Bundessteuer durch Überweisung auf ein von der Steuerverwaltung angegebenes Konto des Kantons zu bezahlen. Barzahlungen sind im Rahmen von Art. 43 Abs. 1 lit. c der Postverordnung (VPG) vom 29. August 2012 bei den Postfilialen der Schweizerischen Post AG möglich.
 
 ### 7. Löschung im Handelsregister
 
