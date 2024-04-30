@@ -4,7 +4,7 @@ number: "935.31.1"
 title: "RÈGLEMENT du 09.12.2009 d'exécution de la loi du 26 mars 2002 sur les auberges et les débits de boissons (RLADB)"
 short: RLADB
 language: fr
-version: 2022-05-01
+version: 2024-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.1?id=aef50c2b-75d1-4f80-9d0f-eb046d1df3e0"
 ---
 
@@ -107,21 +107,22 @@ arrête
 
 **Exploitation agricole ou viticole (art. 13, al. 1 de la loi)**
 
-<sup>1</sup> Sont considérées comme des exploitations agricoles ou viticoles, les exploitations au sens de l'article 6 de l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation .
+<sup>1</sup> Sont considérées comme des exploitations agricoles ou viticoles, les exploitations au sens de l'article 6 de l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation [^6-1] .
 
-<sup>2</sup> Le département peut consulter le service en charge de l'agriculture[^6-1] afin de déterminer la qualité d'exploitation.
+<sup>2</sup> Le département peut consulter le service en charge de l'agriculture[^6-2] afin de déterminer la qualité d'exploitation.
 
-[^6-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-1]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
+[^6-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 7
 
-**Vigneron (art. 13, al. 3 de la loi) [^6-2]**
+**Vigneron (art. 13, al. 3 de la loi) [^6-3]**
 
 <sup>1</sup> Les viticulteurs, les encaveurs et les viticulteurs-encaveurs sont considérés comme des vignerons, au sens de la loi [^7-1] .
 
 <sup>2</sup> Le département peut consulter le service en charge de la viticulture[^7-2] afin de déterminer la qualité de viticulteur, d'encaveur ou de viticulteur-encaveur d'un demandeur ou d'un titulaire de licence de caveau.
 
-[^6-2]: Modif. 2 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016
+[^6-3]: Modif. 2 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016
 [^7-1]: Loi du 26.03.2002 sur les auberges et les débits de boissons ( [BLV 935.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31?id=2b5cc544-8cd7-4ab7-bd40-7177bdce3177))
 [^7-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
@@ -490,7 +491,7 @@ arrête
 
 <sup>1ter</sup> Sont réservées les dispositions applicables aux installations sanitaires pour le personnel.
 
-<sup>1quater</sup> Les établissements bénéficiant d'une licence de restauration mobile ne sont pas soumis au présent article.
+<sup>1quater</sup> Les établissements bénéficiant d'une licence particulière de restauration mobile, ainsi que les capites de vignes, ne sont pas soumis au présent article.
 
 <sup>2</sup> La clientèle doit pouvoir accéder aux sanitaires directement depuis l'établissement, sans avoir à traverser des locaux qui ne font pas partie de l'exploitation de l'établissement. Des dérogations pourront être accordées, de cas en cas.
 
