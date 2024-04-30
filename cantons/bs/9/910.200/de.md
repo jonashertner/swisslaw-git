@@ -4,13 +4,13 @@ number: "910.200"
 title: Standortförderungsgesetz
 short: StaföG
 language: de
-version: 2021-01-01
-valid_until: 2024-04-30
-version_adopted: 2020-09-09
+version: 2024-05-01
+valid_until: 2025-06-29
+version_adopted: 2024-01-17
 adopted: 2006-06-29
 in_force: 2006-12-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/910.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5279/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5279/pdf_file"
 
 Standortförderung: Gesetz | Wirtschaft
 
-Vom 29. Juni 2006 (Stand 1. Januar 2021)
+Vom 29. Juni 2006 (Stand 1. Mai 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -90,7 +90,7 @@ beschliesst:
 - a) eine ordentliche jährliche Zuweisung von CHF 2'000'000,
 - b) allfällige ausserordentliche Zuweisungen.
 
-<sup>4</sup> Über die Entnahme von Mitteln entscheidet der Regierungsrat nach Anhörung der Finanzkommission des Grossen Rates.
+<sup>4</sup> Über die Entnahme von Mitteln entscheidet der Regierungsrat nach Anhörung der Wirtschafts- und Abgabekommission des Grossen Rates. Er berichtet dieser alle zwei Jahre über die Wirkung und die Zielerreichung der finanzierten Massnahmen.
 
 <sup>5</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen zum Standortförderungsfonds.
 
