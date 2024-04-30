@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2023-09-08
-valid_until: 2024-04-30
-version_adopted: 2023-09-06
+version: 2024-05-01
+valid_until: 2024-09-01
+version_adopted: 2024-03-27
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3339/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3339/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 08.09.2023)
+Vom 16.03.2016 (Stand 01.05.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -62,7 +62,7 @@ beschliesst:
 
 <sup>1</sup> Die Richtprämien für Erwachsene, junge Erwachsene und Kinder gemäss Anhang 1 entsprechen dem Durchschnittswert der jeweils zehn günstigsten Prämien im Kanton Aargau für HMO- oder Hausarztversicherungsmodelle gemäss Art. 62 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^4-1]. Zudem wird die prognostizierte Prämiensteigerung für die entsprechenden Versicherungsmodelle hinzugerechnet. Verglichen werden dabei die Prämien für Versicherungsmodelle mit Unfalleinschluss, für Erwachsene und junge Erwachsene mit einer Franchise von Fr. 300.– und für Kinder ohne Franchise.
 
-<sup>2</sup> Für die Erstellung der Grundlagen zur Festlegung des Einkommenssatzes und der Einkommensabzüge für die verschiedenen Haushaltstypen gemäss Anhang 1 ist das kantonale Steueramt in Zusammenarbeit mit Statistik Aargau zuständig.
+<sup>2</sup> Für die Erstellung der Grundlagen zur Festlegung des Einkommenssatzes und der Einkommensabzüge für die verschiedenen Haushaltstypen gemäss Anhang 1 ist das kantonale Steueramt in Zusammenarbeit mit dem Statistischen Amt zuständig.
 
 [^4-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
