@@ -4,13 +4,13 @@ number: "610.110"
 title: Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 short: Finanzhaushaltverordnung
 language: de
-version: 2023-10-01
-valid_until: 2024-04-30
-version_adopted: 2023-09-19
+version: 2024-05-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-19
 adopted: 2012-05-22
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6079/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6175/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzordnung
 
 (Finanzhaushaltverordnung)
 
-Vom 22. Mai 2012 (Stand 1. Oktober 2023)
+Vom 22. Mai 2012 (Stand 1. Mai 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -676,11 +676,11 @@ beschliesst:
 - k) Durchführung des gesamtkantonalen Risikomanagements und Abwicklung aller Versicherungsangelegenheiten des Kantons,
 - l) Zentrale Bewirtschaftung der Finanzaktiven und -passiven des Kantons (Asset- & Liability-Management), sofern die Kompetenz nicht ausdrücklich dem Finanzdepartement, dem Regierungsrat oder dem Grossen Rat vorbehalten ist,
 - m) Abwicklung des zentralen Zahlungsverkehrs des Kantons,
-- n) Führen der Staatskasse,
+- n) …
 - o) Kompetenzzentrum für finanzielle, finanzpolitische und volkswirtschaftliche Fragen auf gesamtstaatlicher Ebene,
 - p) Koordination und Begleitung der gesamtstaatlichen generellen Aufgabenüberprüfung,
 - q) Verwaltung der Werte des Finanzvermögens mit Ausnahme der Immobilien,
-- r) Zahlstelle für die Entrichtung oder Sicherstellung der Handänderungssteuer gemäss § 150b Abs. 2 der Verordnung zum Gesetz über die direkten Steuern (Steuerverordnung) vom 14. November 2000.
+- r) …
 
 <sup>2</sup> Die Finanzverwaltung ist berechtigt, Beratungsaufträge und Aufträge zur Vermögensverwaltung von Institutionen und Organisationen mit öffentlicher oder gemeinnütziger Zwecksetzung gegen Bezahlung mindestens der Vollkosten zu übernehmen.
 
