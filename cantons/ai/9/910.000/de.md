@@ -4,101 +4,101 @@ number: "910.000"
 title: Landwirtschaftsgesetz
 short: LaG
 language: de
-version: 2015-04-26
-corrected: 2018-10-16
-version_adopted: 2015-04-26
+version: 2024-05-01
+version_adopted: 2024-04-28
 adopted: 2000-04-30
 in_force: 2000-04-30
 url: "https://ai.clex.ch/app/de/texts_of_law/910.000"
-pdf: "https://ai.clex.ch/api/de/versions/884/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2268/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Landwirtschaftsgesetz (LaG)
+# Landwirtschaftsgesetz
 
-vom 30. April 20001
+(LaG)
+
+vom 30.04.2000 (Stand 01.05.2024)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
-in Ausführung der Bundesgesetzgebung über die Landwirtschaft, Art. 32 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG) sowie gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+in Ausführung der Bundesgesetzgebung über die Landwirtschaft, Art. 32 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG) sowie gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
-#### Art. 13
+#### Art. 1
 
 **Zweck**
 
-Dieses Gesetz bezweckt:
+<sup>1</sup> Dieses Gesetz bezweckt:
 
 - a) die Förderung und Stärkung überlebensfähiger Haupt- und Nebenerwerbsbetriebe im Rahmen der kantonalen Volkswirtschaft;
-
 - b) die Förderung einer marktorientierten, tiergerechten und umweltschonenden Landwirtschaft;
-
 - c) die Erhaltung der natürlichen Produktionsgrundlagen;
-
 - d) die Förderung der Produktion gesunder Nahrungsmittel und deren Absatz;
-
 - e) die Sicherstellung der Kulturlandschaft in ihrer Schönheit durch nachhaltige Bewirtschaftung.
 
-#### Art. 24
+#### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt für alle landwirtschaftlichen Gewerbe und Grundstücke - einschliesslich Alpen und Weiden - sowie für Betriebe mit Nutztierhaltung und des produzierenden Gartenbaus.
+<sup>1</sup> Dieses Gesetz gilt für alle landwirtschaftlichen Gewerbe und Grundstücke – einschliesslich Alpen und Weiden – sowie für Betriebe mit Nutztierhaltung und des produzierenden Gartenbaus.
 
 <sup>2</sup> Das Gesetz gilt ferner für weitere einzelbetriebliche oder gemeinschaftliche Projekte, die gemäss Bundesrecht im Geltungsbereich der landwirtschaftlichen Strukturverbesserungsmassnahmen liegen.
 
-### II. Zuständigkeiten
+## II. Zuständigkeiten
 
 #### Art. 3
 
-Grosser Rat Dem Grossen Rat obliegt:
+**Grosser Rat**
 
-- a) der Erlass der notwendigen Ausführungsbestimmungen;
+<sup>1</sup> Dem Grossen Rat obliegt:
 
+- a) …
 - b) die Bewilligung der notwendigen Kredite im Rahmen des Budgets;
+- c) die Wahl einer kantonalen Bodenrechtskommission und einer kantonalen Landwirtschaftskommission mit je fünf Mitgliedern. Der Landeshauptmann führt in beiden Kommissionen von Amtes wegen den Vorsitz.
 
-- c) die Wahl einer kantonalen Bodenrechtskommission und einer kantonalen Landwirtschaftskommission mit je fünf Mitgliedern. Der Landeshauptmann führt in
+#### Art. 4
 
-beiden Kommissionen von Amtes wegen den Vorsitz.
+**Standeskommission**
 
-#### Art. 41
+<sup>1</sup> Die Standeskommission übt die Oberaufsicht über die Landwirtschaftspolitik aus.
 
-Standes- <sup>1</sup>Die Standeskommission übt die Oberaufsicht über die Landwirtschaftspolitik aus. kommission <sup>2</sup>Sie kann zur Erfüllung wichtiger Aufgaben a) Verträge mit anderen Kantonen oder mit Organisationen abschliessen;
+<sup>2</sup> Sie kann zur Erfüllung wichtiger Aufgaben
 
+- a) Verträge mit anderen Kantonen oder mit Organisationen abschliessen;
 - b) Aufträge für Projekte und Arbeiten vergeben;
-
 - c) eine sinnvolle, überregionale Erledigung von Aufgaben festlegen.
 
 <sup>3</sup> Sie kann das Land- und Forstwirtschaftsdepartement (nachfolgend Departement genannt) ermächtigen, Aufgaben an öffentliche oder private Leistungserbringer zu übertragen.
 
 <sup>4</sup> Sie wählt eine Kommission für Beiträge und Betriebshilfe.
 
-#### Art. 52
+#### Art. 5
 
-Land- und Das Departement Forstwirtschafts- a) vollzieht die Landwirtschafts-, die Tierseuchen- und die Tierschutzgesetzgedepartement bung;
+**Land- und Forstwirtschaftsdepartement**
 
+<sup>1</sup> Das Departement
+
+- a) vollzieht die Landwirtschafts-, die Tierseuchen- und die Tierschutzgesetzgebung;
 - b) organisiert einen landwirtschaftlichen Beratungsdienst;
-
 - c) regelt die Zusicherung von Hilfen und Krediten;
-
 - d) organisiert Viehschauen und Viehabsatzveranstaltungen, sofern ein Bedürfnis besteht.
 
-#### Art. 63
+#### Art. 6
 
-Bezirke Die Bezirke a) stellen Notschlachtanlagen zur Verfügung;
+**Bezirke**
 
-- b) erheben und kontrollieren die landwirtschaftlichen Betriebsdaten;
+<sup>1</sup> Die Bezirke
 
+- a) stellen Notschlachtanlagen zur Verfügung;
+- b) …
 - c) wirken bei Massnahmen für die Tiergesundheit und den Tierschutz mit;
-
 - d) beteiligen sich an Aufwendungen im Rahmen dieses Gesetzes und der entsprechenden Verordnungen.
 
-### III. Produktion und Absatz1
+## III. Produktion und Absatz
 
 #### Art. 7
 
@@ -108,9 +108,11 @@ Bezirke Die Bezirke a) stellen Notschlachtanlagen zur Verfügung;
 
 <sup>2</sup> Die Bodenfruchtbarkeit und die natürlichen Eigenschaften sind zu erhalten. Als Beurteilungskriterium gilt unter anderem eine ausgeglichene Nährstoffbilanz nach den Vorgaben des Bundes. Düngerverträge und andere, vom Amt für Umweltschutz anerkannte Massnahmen zur Anpassung des Nährstoffaustrages, sind anrechenbar.
 
-#### Art. 82
+#### Art. 8
 
-#### Art. 93
+**…**
+
+#### Art. 9
 
 **Qualitäts- und Absatzförderung**
 
@@ -118,55 +120,67 @@ Bezirke Die Bezirke a) stellen Notschlachtanlagen zur Verfügung;
 
 <sup>2</sup> Er kann Anbau, Herstellung, Kennzeichnung und Vermarktung regionaler Spezialitäten und innovativer Produkte nach den Kriterien der Gesetzgebung über die Wirtschaftsförderung unterstützen.
 
-#### Art. 104
+#### Art. 10
 
 **Förderung Viehzucht**
 
-Der Kanton fördert die Viehzucht und -haltung. Er kann Förderungsmassnahmen organisieren, unterstützen oder daran Beiträge ausrichten.
+<sup>1</sup> Der Kanton fördert die Viehzucht und -haltung. Er kann Förderungsmassnahmen organisieren, unterstützen oder daran Beiträge ausrichten.
 
-#### Art. 115
+#### Art. 11
 
 **Viehabsatz**
 
 <sup>1</sup> Der Kanton kann für Massnahmen und Projekte im Bereich Viehabsatz Leistungen erbringen.
 
-<sup>2</sup> Er kann die Unterstützung von der Beteiligung der Tierhalter\* abhängig machen.
+<sup>2</sup> Er kann die Unterstützung von der Beteiligung der Tierhalter[^11-1] abhängig machen.
+
+[^11-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 12
 
-Viehzucht- Rindvieh-, Kleinvieh- und Pferdezuchtgenossenschaften können von der Standesgenossen- kommission als juristische Personen des öffentlichen Rechts erklärt werden. Sie schaften unterstehen der Aufsicht durch die Standeskommission.
+**Viehzuchtgenossenschaften**
 
-#### Art. 131
+<sup>1</sup> Rindvieh-, Kleinvieh- und Pferdezuchtgenossenschaften können von der Standeskommission als juristische Personen des öffentlichen Rechts erklärt werden. Sie unterstehen der Aufsicht durch die Standeskommission.
 
-Viehversiche- <sup>1</sup>Der Kanton unterstützt die freiwilligen Viehversicherungen.
+#### Art. 13
 
-rungen <sup>2</sup>Er leistet jährlich einen auf Grund der Versicherungssumme errechneten Kantonsbeitrag.
+**Viehversicherungen**
+
+<sup>1</sup> Der Kanton unterstützt die freiwilligen Viehversicherungen.
+
+<sup>2</sup> Er leistet jährlich einen auf Grund der Versicherungssumme errechneten Kantonsbeitrag.
 
 <sup>3</sup> Die Höhe des Beitrages wird durch Verordnung festgesetzt.
 
-#### Art. 142
+#### Art. 14
 
-Milchwirtschaft <sup>1</sup>Der Kanton fördert und sichert die Qualität der Milch und der Milchprodukte.
+**Milchwirtschaft**
+
+<sup>1</sup> Der Kanton fördert und sichert die Qualität der Milch und der Milchprodukte.
 
 <sup>2</sup> Er legt die Grundsätze fest, welche bei der Vermarktung milchwirtschaftlicher Produkte im Alpgebiet einzuhalten sind.
 
-#### Art. 153
+#### Art. 15
 
-#### Art. 164
+#### Art. 16
 
-Obstbau / <sup>1</sup>Der Kanton unterhält eine Fachstelle für Obstbau und Pflanzenschutz.
+**Pflanzenproduktion und Pflanzenschutz**
 
-Pflanzenschutz <sup>2</sup>Er kann Vorschriften und Massnahmen zur Bekämpfung und Überwachung bedrohlicher Krankheiten und Schädlingen erlassen.
+<sup>1</sup> Der Kanton unterhält eine Fachstelle für Pflanzenproduktion und Pflanzenschutz.
 
-### IV. Tierhaltung5
+<sup>2</sup> Er kann Vorschriften und Massnahmen zur Bekämpfung und Überwachung bedrohlicher Krankheiten und Schädlinge sowie Massnahmen zur Förderung der Pflanzenproduktion erlassen.
 
-#### Art. 176
+## IV. Tierhaltung
 
-Tierschutz <sup>1</sup>Der Kanton vollzieht die eidgenössische Tierschutzgesetzgebung. Er stellt eine angemessene Information sicher.
+#### Art. 17
+
+**Tierschutz**
+
+<sup>1</sup> Der Kanton vollzieht die eidgenössische Tierschutzgesetzgebung. Er stellt eine angemessene Information sicher.
 
 <sup>2</sup> Der Tierschutz obliegt dem Kantonstierarzt.
 
-<sup>3</sup> Für bauliche Massnahmen und die notwendigen Kontrollen ist das kantonale Meliorationsamt zuständig.
+<sup>3</sup> Das Meliorationsamt beurteilt im Rahmen von Baubewilligungsverfahren den baulichen Tierschutz.
 
 <sup>4</sup> Den behördlichen Tierschutzorganen steht das Zutritts- und Kontrollrecht zu.
 
@@ -186,11 +200,17 @@ Tierschutz <sup>1</sup>Der Kanton vollzieht die eidgenössische Tierschutzgesetz
 
 <sup>2</sup> Zur Erfüllung der finanziellen Obliegenheiten, die aus dem Vollzug der Tierseuchengesetzgebung erwachsen besteht eine kantonale Tierseuchenkasse. Sie wird als Spezialfinanzierung in der Staatsrechnung geführt.
 
-<sup>3</sup> Der Kanton, die Bezirke, die Viehhalter und die Viehhandelsbetriebe haben jährlich einen Beitrag in die Tierseuchenkasse zu entrichten. Der Beitrag der Viehhalter und Viehhandelsbetriebe beträgt höchstens Fr. 10.— je Grossvieheinheit.
+<sup>3</sup> Der Kanton, die Bezirke, die Viehhalter und die Viehhandelsbetriebe haben jährlich einen Beitrag in die Tierseuchenkasse zu entrichten. Der Beitrag der Viehhalter und Viehhandelsbetriebe beträgt höchstens Fr. 10.-- je Grossvieheinheit.
 
-<sup>4</sup> Der Kantonstierarzt vollzieht das Viehhandelskonkordat.
+<sup>4</sup> …
 
-### V. Beiträge und Hilfen1
+#### Art. 19a
+
+**Schutz vor weiteren Gefahren**
+
+<sup>1</sup> Der Kanton kann zum Schutz der Nutztiere vor weiteren Gefahren, insbesondere zum Herdenschutz, Massnahmen ergreifen oder unterstützen.
+
+## V. Beiträge und Hilfen
 
 #### Art. 20
 
@@ -210,35 +230,47 @@ Tierschutz <sup>1</sup>Der Kanton vollzieht die eidgenössische Tierschutzgesetz
 
 #### Art. 22
 
-Verantwortlich- Aus der Genehmigung eines Strukturverbesserungsprojektes und der Gewährung keit von Investitionshilfen kann keine Verantwortung seitens des Kantons oder Bezirkes für das Projekt, die Bauausführung sowie die wirtschaftliche Tragbarkeit abgeleitet werden.
+**Verantwortlichkeit**
+
+<sup>1</sup> Aus der Genehmigung eines Strukturverbesserungsprojektes und der Gewährung von Investitionshilfen kann keine Verantwortung seitens des Kantons oder Bezirkes für das Projekt, die Bauausführung sowie die wirtschaftliche Tragbarkeit abgeleitet werden.
 
 #### Art. 23
 
-Nicht ausgeführ- An Projekte, die nicht zur Ausführung gelangen, werden keine Beiträge ausgerichte Projekte tet.
+**Nicht ausgeführte Projekte**
+
+<sup>1</sup> An Projekte, die nicht zur Ausführung gelangen, werden keine Beiträge ausgerichtet.
 
 #### Art. 24
 
-Publikation Projekte, die mit Beiträgen von Bund und Kanton unterstützt werden, sind im amtlichen Publikationsorgan zusammen mit dem baurechtlichen Verfahren gemäss kantonalem Baugesetz zu publizieren.
+**Publikation**
 
-#### Art. 251
+<sup>1</sup> Projekte, die mit Beiträgen von Bund und Kanton unterstützt werden, sind im amtlichen Publikationsorgan zusammen mit dem baurechtlichen Verfahren gemäss kantonalem Baugesetz zu publizieren.
 
-Investitions- <sup>1</sup>Die Gewährung von zinslosen Investitionsdarlehen erfolgt nach den Ausführungsdarlehen bestimmungen des Bundes.
+#### Art. 25
+
+**Investitionsdarlehen**
+
+<sup>1</sup> Die Gewährung von zinslosen Investitionsdarlehen erfolgt nach den Ausführungsbestimmungen des Bundes.
 
 <sup>2</sup> Die Gesuchseingabe hat beim Departement zu erfolgen.
 
 <sup>3</sup> Dieses behandelt die Gesuche, regelt den Zahlungsverkehr und die Erstellung des Jahresabschlusses zu Handen des Bundes.
 
-#### Art. 262
+#### Art. 26
 
-Betriebshilfe- Der Kanton unterstützt betriebliche Sanierungen mit zinslosen Betriebshilfedarlehen darlehen gemäss Bundesrecht.
+**Betriebshilfedarlehen**
+
+<sup>1</sup> Der Kanton unterstützt betriebliche Sanierungen mit zinslosen Betriebshilfedarlehen gemäss Bundesrecht.
 
 #### Art. 27
 
-Sicherheiten / <sup>1</sup>Die Bewilligungsinstanz hat bei den gewährten Investitions- oder Betriebshilfedar-Kosten lehen für die notwendigen Sicherheiten zu sorgen.
+**Sicherheiten / Kosten**
+
+<sup>1</sup> Die Bewilligungsinstanz hat bei den gewährten Investitions- oder Betriebshilfedarlehen für die notwendigen Sicherheiten zu sorgen.
 
 <sup>2</sup> Der Kanton hat die Kosten der Verwaltung zu tragen und haftet nach Massgabe des Bundesrechts für allenfalls zu deckende Verluste.
 
-#### Art. 281
+#### Art. 28
 
 **Rückerstattungen**
 
@@ -248,9 +280,9 @@ Sicherheiten / <sup>1</sup>Die Bewilligungsinstanz hat bei den gewährten Invest
 
 <sup>3</sup> Der Rückerstattungsanspruch verjährt nach den Vorschriften des Bundesrechts.
 
-### VI. Berufsbildung - Betriebsberatung2
+## VI. Berufsbildung – Betriebsberatung
 
-#### Art. 293
+#### Art. 29
 
 **Berufsbildung**
 
@@ -260,7 +292,7 @@ Sicherheiten / <sup>1</sup>Die Bewilligungsinstanz hat bei den gewährten Invest
 
 <sup>3</sup> Er kann für die hauswirtschaftliche Ausbildung zusammen mit anderen Kantonen Sonderkurse organisieren.
 
-#### Art. 304
+#### Art. 30
 
 **Weiterbildung**
 
@@ -278,69 +310,48 @@ Sicherheiten / <sup>1</sup>Die Bewilligungsinstanz hat bei den gewährten Invest
 
 <sup>3</sup> Er hat der Weiterbildung und der Beratung der Landwirte in allen Fachfragen zu dienen. Er soll zu einem vertieften Verständnis für eine markt- und tiergerechte, sowie umweltschonende Produktion beitragen.
 
-### VII. Kosten und Gebühren1
+## VII. Kosten und Gebühren
 
 #### Art. 32
 
-Höhe und Ver- <sup>1</sup>Für den Vollzug der eidgenössischen und kantonalen Landwirtschaftsgesetzgerechnung bung werden Gebühren und Kosten bis Fr. 3000.— erhoben. Die Höhe der Gebüh-
+**Höhe und Verrechnung**
 
-ren und Kosten werden auf dem Verordnungswege festgelegt.
+<sup>1</sup> Für den Vollzug der eidgenössischen und kantonalen Landwirtschaftsgesetzgebung werden Gebühren und Kosten bis Fr. 3000.-- erhoben. Die Höhe der Gebühren und Kosten werden auf dem Verordnungswege festgelegt.
 
 <sup>2</sup> Sonderleistungen von beauftragten Fachstellen werden separat verrechnet.
 
 <sup>3</sup> Die Verrechnung der Gebühren und Kosten mit Direktzahlungen ist zulässig.
 
-### VIII. Arbeitsvertragsrecht2
+## VIII. Arbeitsvertragsrecht
 
 #### Art. 33
 
-Normalarbeits- Die Standeskommission erlässt im Sinne des Bundesrechts Normalarbeitsverträge vertrag über die Arbeitsverhältnisse in der Landwirtschaft.
+**Normalarbeitsvertrag**
 
-### IX. Schlussbestimmungen
+<sup>1</sup> Die Standeskommission erlässt im Sinne des Bundesrechts Normalarbeitsverträge über die Arbeitsverhältnisse in der Landwirtschaft.
 
-#### Art. 343
+## IX. Schlussbestimmungen
 
-#### Art. 354
+#### Art. 34
 
-Ausführungs- Der Grosse Rat erlässt die zu diesem Gesetz notwendigen Ausführungsbestimbestimmungen mungen.
+**…**
 
-#### Art. 365
+#### Art. 35
 
-Inkrafttreten Dieses Gesetz tritt nach Annahme durch die Landsgemeinde in Kraft.
+**Ausführungsbestimmungen**
 
-#### Art. 376
+<sup>1</sup> Der Grosse Rat erlässt die zu diesem Gesetz notwendigen Ausführungsbestimmungen.
 
-## Weitere Fussnoten
+<sup>2</sup> Die Standeskommission kann Massnahmen zum Schutz der Nutztiere vor weiteren Gefahren oder die Unterstützung solcher Massnahmen regeln.
 
-- [1] Mit Revisionen vom 30. April 2000, 24. April 2005, 27. April 2008, 25. April 2010 und 26. April 2015.
-- [2] Ingress abgeändert durch LdsgB vom 24. April 2005 und 26. April 2015.
-- [3] Abgeändert durch LdsgB vom 24. April 2005.
-- [4] Bisheriger Abs. 1 abgeändert, Absatzzahl 1 gestrichen und der bisherige Abs. 2 aufgehoben durch LdsgB vom 24. April 2005. Eingefügt (Abs. 2) durch LdsgB vom 27. April 2008.
-- [1] Abgeändert durch LdsgB vom 24. April 2005. Abgeändert (Abs. 3) und eingefügt (Abs. 4) durch LdsgB vom 27. April 2008.
-- [2] Abgeändert (Marginalie und Einleitungssatz) durch LdsgB vom 24. April 2005 und 27. April 2008.
-- [3] Abgeändert (lit. a) durch LdsgB vom 25. April 2010 (Inkrafttreten: 1. Januar 2011).
-- [1] Bisheriger Abschnittstitel durch Titel des bisherigen Abschnittes IV. ersetzt.
-- [2] Aufgehoben durch LdsgB vom 24. April 2005.
-- [3] Abgeändert durch LdsgB vom 24. April 2005.
-- [4] Neue Fassung durch LdsgB vom 27. April 2008.
-- [5] Abgeändert (Abs. 1) durch LdsgB vom 27. April 2008.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert (Abs. 3) durch LdsgB vom 24. April 2005.
-- [2] Bisheriger Abs. 1 und 2 zum neuen Abs. 1 zusammengefasst, bisheriger Abs. 3 abgeändert und wird neuer Abs. 2 durch LdsgB vom 24. April 2005.
-- [3] Abgeändert durch LdsgB vom 24. April 2005. Aufgehoben durch LdsgB vom 27. April 2008.
-- [4] Bisheriger Abs. 2 aufgehoben, bisheriger Abs. 3 abgeändert und wird neuer Abs. 2 durch LdsgB vom 24. April 2005.
-- [5] Neue Abschnittsnummerierung durch LdsgB vom 24. April 2005.
-- [6] Neue Fassung durch LdsgB vom 24. April 2005.
-- [1] Neue Abschnittsnummerierung durch LdsgB vom 24. April 2005.
-- [1] Abgeändert (Abs. 1 und 3) durch LdsgB vom 24. April 2005.
-- [2] Bisheriger Abs. 1 abgeändert, Absatzzahl 1 gestrichen und bisherige Abs. 2 und 3 aufgehoben durch LdsgB vom 24. April 2005.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 24. April 2005.
-- [2] Neue Abschnittsnummerierung durch LdsgB vom 24. April 2005.
-- [3] Bisheriger Abs. 2 ergänzt, bisheriger Abs. 3 aufgehoben und bisheriger Abs. 4 wird neuer Abs. 3 durch LdsgB vom 24. April 2005.
-- [4] Ergänzt (Abs. 1) durch LdsgB vom 24. April 2005.
-- [1] Neue Abschnittsnummerierung durch LdsgB vom 24. April 2005.
-- [2] Neue Abschnittsnummerierung durch LdsgB vom 24. April 2005.
-- [3] Aufgehoben durch VerwVG vom 30. April 2000.
-- [4] Ergänzt durch LdsgB vom 24. April 2005.
-- [5] Abgeändert durch LdsgB vom 24. April 2005.
-- [6] Aufgehoben durch LdsgB vom 24. April 2005.
+#### Art. 36
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz tritt nach Annahme durch die Landsgemeinde in Kraft.
+
+#### Art. 37
+
+**…**
+
+cGS -
