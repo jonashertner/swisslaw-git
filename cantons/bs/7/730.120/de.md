@@ -4,24 +4,23 @@ number: "730.120"
 title: Verordnung über die Gebühren der Baubewilligungsbehörden
 short: Baugebührenverordnung; BauGebV
 language: de
-version: 2016-07-01
-valid_until: 2024-05-01
-version_adopted: 2016-06-28
+version: 2024-05-02
+version_adopted: 2024-04-23
 adopted: 2002-11-12
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5483/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren der Baubewilligungsbehörden
 
-Baugebühren: Verordnung | Hochbauten
+Hochbauten
 
 (Baugebührenverordnung; BauGebV)
 
-Vom 12. November 2002 (Stand 1. Juli 2016)
+Vom 12. November 2002 (Stand 2. Mai 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -51,27 +50,24 @@ beschliesst:
 
 #### § 2
 
-**2. Bemessungsregeln**
+**Bemessungsregeln**
 
 <sup>1</sup> Wenn nichts anderes bestimmt ist, werden die durch Gebührenrahmen begrenzten Gebühren nach Zeitaufwand berechnet.
 
-<sup>2</sup> Die Stundenansätze für die nach Zeitaufwand zu berechnenden Gebühren betragen:[^2-1]
+<sup>2</sup> Sind Gebühren nach Zeitaufwand zu bemessen, beträgt der Stundenansatz je nach erforderlicher Sachkenntnis CHF 90 bis CHF 250.
 
-- a) Amtsleiterin und Amtsleiter — CHF 165
-- b) Leiterinnen und Leiter von Abteilungen und Fachstellen — CHF 135
-- c) Sachbearbeiterinnen und Sachbearbeiter — CHF 115
-- d) Sekretariatsarbeiten. — CHF 90
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> Für notwendige Arbeiten zwischen abends 19 Uhr und morgens 7 Uhr sowie an Samstagen, Sonn- und Feiertagen wird auf den Stundenansätzen ein Zuschlag von 50% erhoben.
 
-<sup>4</sup> Das Bauinspektorat[^2-2] passt die Stundenansätze jährlich den Empfehlungen zur Honorierung der KBOB (Koordination der Bau- und Liegenschaftsorgane des Bundes) an.
+<sup>4</sup> …
 
-<sup>5</sup> Die Bewilligungsbehörde kann die Gebührenhöhe unter Berücksichtigung des Interesses und Nutzens der Gebührenpflichtigen auf schriftliches Gesuch hin angemessen reduzieren.
+<sup>5</sup> …
 
-<sup>6</sup> Wo nicht die tatsächlichen Kosten als Bemessungsgrundlage dienen, sind alle Gebühren auf die nächsten zehn Franken aufzurunden.
-
-[^2-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
-[^2-2]: § 2 Abs. 4: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>6</sup> …
 
 ## II. Gebühren
 
@@ -206,9 +202,9 @@ beschliesst:
 
 #### § 19
 
-**3. Verzugszins, Kanzlei-, Schreib- und Mahngebühren**
+**Verzugszins, Kanzlei-, Schreib- und Mahngebühren**
 
-<sup>1</sup> Porti und Spesen werden gemäss den tatsächlichen Kosten erhoben.
+<sup>1</sup> Im Baubewilligungsverfahren wird eine Kanzleigebühr von CHF 50 erhoben. In den übrigen Verfahren werden Porti und Spesen gemäss den tatsächlichen Kosten in Rechnung gestellt.
 
 <sup>2</sup> Kopien können auf dem vom Bauinspektorat[^19-1] bezeichneten Gerät in Selbstbedienung unentgeltlich erstellt werden. Für die Herstellung von Kopien durch Mitarbeiterinnen und Mitarbeiter des Bauinspektorats bemisst sich die Gebühr nach dem Stundenaufwand.
 
@@ -234,6 +230,6 @@ Diese betragen:
 
 [^20-1]: § 20: Jetzt: Bau- und Gastgewerbeinspektorat.
 
-Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2003 wirksam. Die Verordnung vom 16. Februar 1993 über die Gebühren der Baubewilligungsbehörden ist aufgehoben.
+Diese Änderung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft.
 
 KB 23.11.2002
