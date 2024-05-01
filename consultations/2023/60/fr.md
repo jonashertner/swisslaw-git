@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale permettant d’étendre le champ d’application de la convention collective de travail (mise en œuvre des motions 20.4738 Ettlin «Protéger le partenariat social contre des ingérences discutables» et 21.3599 CER-N «Transparence sur les moyens financiers des commissions paritaires»)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen (Umsetzung der Motionen 20.4738 Ettlin «Sozialpartnerschaft vor umstrittenen Eingriffen schützen» und 21.3599 WAK-N «Transparenz über die finanziellen Mittel paritätischer Kommissionen»)
 document: Vernehmlassungsvorlage
 language: de

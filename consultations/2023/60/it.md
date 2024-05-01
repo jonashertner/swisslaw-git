@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro (attuazione delle mozioni 20.4738 Ettlin «Proteggere il partenariato sociale da attacchi inaccettabili» e 21.3599 CET-N «Trasparenza sui mezzi finanziari delle commissioni paritetiche»)
 document: Progetto posto in consultazione
 language: it
