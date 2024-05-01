@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla protezione del clima
 document: Progetto posto in consultazione
 language: it
