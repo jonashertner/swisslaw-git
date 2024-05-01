@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Train d’ordonnances agricoles 2024 / Politique agricole à partir de 2022 (PA22+)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Landwirtschaftliches Verordnungspaket 2024/Agrarpolitik ab 2022 (AP22+)
 document: Vernehmlassungsvorlage
 language: de

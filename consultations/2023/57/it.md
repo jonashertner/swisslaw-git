@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pacchetto di ordinanze agricole 2024/Politica agricola a partire dal 2022 (PA22+)
 document: Progetto posto in consultazione
 language: it
