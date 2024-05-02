@@ -10,7 +10,7 @@ version_adopted: 2018-12-03
 adopted: 1994-11-21
 in_force: 1995-04-30
 url: "https://ai.clex.ch/app/de/texts_of_law/171.210"
-pdf: "https://ai.clex.ch/api/de/versions/2264/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -71,7 +71,7 @@ beschliesst:
 
 <sup>2</sup> Der Präsident stimmt und wählt mit Ausnahme der Stichentscheide nicht mit.
 
-<sup>3</sup> Im Falle der Verhinderung des Präsidenten amten die Büromitglieder nach ihrer Rangordnung als Vertreter. Kann die Vertretung im Rahmen dieser Regelung nicht gestellt werden, wird ein Tages-präsident gewählt.
+<sup>3</sup> Im Falle der Verhinderung des Präsidenten amten die Büromitglieder nach ihrer Rangordnung als Vertreter. Kann die Vertretung im Rahmen dieser Regelung nicht gestellt werden, wird ein Tagespräsident gewählt.
 
 - a) …
 - b) …
