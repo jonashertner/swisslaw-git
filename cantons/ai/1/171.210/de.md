@@ -4,109 +4,130 @@ number: "171.210"
 title: Geschäftsreglement des Grossen Rates
 short: GrGR
 language: de
-version: 2014-12-01
-corrected: 2018-09-04
-version_adopted: 2014-12-01
+version: 2018-12-03
+corrected: 2024-05-03
+version_adopted: 2018-12-03
 adopted: 1994-11-21
 in_force: 1995-04-30
 url: "https://ai.clex.ch/app/de/texts_of_law/171.210"
-pdf: "https://ai.clex.ch/api/de/versions/94/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2264/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Grossen Rates
 
-vom 21. November 19941
+(GrGR)
+
+vom 21.11.1994 (Stand 03.12.2018)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 24 Abs. 3 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 24 Abs. 3 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-- 1\. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
-#### Art. 13
+#### Art. 1
 
-**Zweck**
+**Sachliche Geltung**
 
-Das Geschäftsreglement regelt die Arbeitsweise und Befugnisse des Grossen Rates und der Ratsmitglieder.
+<sup>1</sup> Das Geschäftsreglement regelt die Arbeitsweise, die Organisation und die Befugnisse des Grossen Rates.
 
-#### Art. 24
+<sup>2</sup> Für Verfahren, in denen der Grosse Rat Verfügungen erlässt oder Rechtsmittelentscheide fällt, gelten die Vorgaben für das Verwaltungsverfahren.
+
+#### Art. 2
 
 **Parlamentarische Immunität**
 
-Die parlamentarische Immunität richtet sich nach dem Einführungsgesetz zur Schweizerischen Strafprozessordnung (EG StPO).
+<sup>1</sup> Die parlamentarische Immunität richtet sich nach dem Einführungsgesetz zur Schweizerischen Strafprozessordnung (EG StPO).
 
-- 2\. Organisation
+#### Art. 2a
 
-#### Art. 35
+**Ausstand**
 
-**Präsident**
+<sup>1</sup> Grossräte treten im Grossen Rat und in Kommissionen in den Ausstand, wenn sie selber oder eine ihnen besonders nahestehende Person an einem Geschäft, das nicht an einen generellen Adressatenkreis gerichtet ist, ein unmittelbares persönliches Interesse haben.
 
-<sup>1</sup> Der Präsident\* leitet die Geschäfte des Grossen Rates und dessen Büros. Er nimmt insbesondere folgende Aufgaben wahr:
+<sup>2</sup> Als besonders nahestehende Personen gelten Ehegatten, eingetragene Partner oder Partnerinnen, Eltern oder Nachkommen sowie in der Regel die im gleichen Haushalt lebenden weiteren Personen.
 
-- Er leitet die Verhandlungen des Grossen Rates und des Büros.
+<sup>3</sup> Kein Ausstandsgrund besteht bei Wahlen durch den Grossen Rat oder eine Kommission.
 
-- Er übt die Sitzungspolizei aus und entscheidet über die Erstellung von Fotografien, Film- und Tonbandaufnahmen.
+<sup>4</sup> In Zweifelsfällen entscheidet der Grosse Rat oder die Kommission nach Anhörung des Betroffenen und unter dessen Ausschluss endgültig.
 
-- Er unterzeichnet die vom Grossen Rat oder vom Büro ausgehenden Schriftstücke zusammen mit dem Ratschreiber.
+<sup>5</sup> Die Mitglieder der Standeskommission beachten den Ausstand im Grossen Rat und in Kommissionen in gleicher Weise.
+
+## 2. Organisation
+
+#### Art. 3
+
+**Präsidium**
+
+<sup>1</sup> Der Präsident[^3-1] leitet die Geschäfte des Grossen Rates und dessen Büros. Er nimmt insbesondere folgende Aufgaben wahr:
+
+- a) Er leitet die Verhandlungen des Grossen Rates und des Büros.
+- b) Er sorgt für einen störungsfreien Ablauf der Sitzungen und entscheidet über die Erstellung von Fotografien, Film- und Tonaufnahmen.
+- c) Er unterzeichnet die vom Grossen Rat oder vom Büro ausgehenden Schriftstücke zusammen mit dem Ratschreiber.
 
 <sup>2</sup> Der Präsident stimmt und wählt mit Ausnahme der Stichentscheide nicht mit.
 
-<sup>3</sup> Im Falle der Verhinderung wird der Präsident durch den Vizepräsidenten vertreten. Ist auch dieser verhindert, so amten in der Reihenfolge:
+<sup>3</sup> Im Falle der Verhinderung des Präsidenten amten die Büromitglieder nach ihrer Rangordnung als Vertreter. Kann die Vertretung im Rahmen dieser Regelung nicht gestellt werden, wird ein Tages-präsident gewählt.
 
-- die Mitglieder des Büros nach ihrer Rangordnung,
+- a) …
+- b) …
+- c) …
 
-- die Grossräte, die Ratspräsidenten waren, der zuletzt Zurückgetretene als erster,
+<sup>4</sup> Der Präsident und der Vizepräsident des Grossen Rates dürfen nicht zugleich Präsident einer Aufsichtskommission oder einer vorberatenden Kommission sein.
 
-- das älteste der anwesenden Mitglieder des Grossen Rates.
+[^3-1]: Die Verwendung männlicher Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
-#### Art. 41
+#### Art. 4
 
-Büro des Gros- <sup>1</sup>Das Büro des Grossen Rates besteht aus dem Präsidenten, dem Vizepräsidenten sen Rates und drei Stimmenzählern.
+**Büro des Grossen Rates**
+
+<sup>1</sup> Das Büro des Grossen Rates besteht aus dem Präsidenten, dem Vizepräsidenten und drei Stimmenzählern.
 
 <sup>2</sup> Es ist beschlussfähig, wenn mindestens drei Mitglieder anwesend sind.
 
 <sup>3</sup> Dem Büro obliegen insbesondere folgende Aufgaben:
 
-- die Regelung der Vertretung des Grossen Rates nach aussen,
+- a) die Regelung der Vertretung des Grossen Rates nach aussen,
+- b) die Akkreditierung der Medienberichterstattern,
+- c) die Führung der Geschäftskontrolle,
+- d) die Budgetplanung und -verwaltung,
+- e) die Prüfung von Beschwerden und Eingaben an den Grossen Rat.
 
-- die Akkreditierung der Medienberichterstattern,
+#### Art. 5
 
-- die Führung der Geschäftskontrolle,
+**Sekretariat**
 
-- die Budgetplanung und -verwaltung,
-
-- die Prüfung von Beschwerden und Eingaben an den Grossen Rat.
-
-#### Art. 52
-
-Sekretariat <sup>1</sup>Der Ratschreiber führt das Sekretariat des Grossen Rates und des Büros.
+<sup>1</sup> Der Ratschreiber führt das Sekretariat des Grossen Rates und des Büros.
 
 <sup>2</sup> Für die vorberatenden Kommissionen stellt die Verwaltung den Protokollführer.
 
-<sup>3</sup> Von den Verhandlungen des Grossen Rates werden Tonaufnahmen gemacht. Sie werden unter Vorbehalt geheimer Beratungen der Öffentlichkeit zugänglich ge-
-
-macht. Über eine Löschung der Aufnahmen entscheidet das Büro.
+<sup>3</sup> Von den Verhandlungen des Grossen Rates werden Tonaufnahmen gemacht. Sie werden unter Vorbehalt geheimer Beratungen der Öffentlichkeit zugänglich gemacht. Über eine Löschung der Aufnahmen entscheidet das Büro.
 
 <sup>4</sup> Die vom Grossen Rat gefassten Beschlüsse werden von der Ratskanzlei summarisch im "Appenzeller Volksfreund" veröffentlicht.
 
-- 3\. Konstituierung Art. 63 Erste Sitzung der <sup>1</sup>Die Standeskommission beruft unter Festlegung der Geschäftsordnung zur ersten Amtsperiode Sitzung einer neuen Amtsperiode ein.
+## 3. Konstituierung
+
+#### Art. 6
+
+**Erste Sitzung der Amtsperiode**
+
+<sup>1</sup> Die Standeskommission beruft zur ersten Sitzung einer neuen Amtsperiode ein.
 
 <sup>2</sup> Bis zur Wahl des Präsidenten wird die Sitzung vom ältesten anwesenden Mitglied des Grossen Rates geleitet. Der Präsident nimmt anschliessend die Wahl der weiteren Mitglieder des Büros vor.
 
-#### Art. 71
+#### Art. 7
 
 **Erste Sitzung des Amtsjahres**
 
 <sup>1</sup> Zur ersten Sitzung eines neuen Amtsjahres wird der Grosse Rat durch das Büro eingeladen.
 
-<sup>2</sup> Die Sitzung wird bis zur Wahl des Präsidenten durch den abtretenden Präsidenten geleitet. Ist dies nicht möglich, gelangt die Stellvertretungsregel nach Art. 3 zur Anwendung.
+<sup>2</sup> Die Sitzung wird bis zur Wahl des Präsidenten durch den abtretenden Präsidenten geleitet.
 
-#### Art. 82
+#### Art. 8
 
 **Konstituierung des Büros**
 
@@ -114,9 +135,9 @@ macht. Über eine Löschung der Aufnahmen entscheidet das Büro.
 
 <sup>2</sup> Die Mitglieder des Büros werden auf ein Jahr gewählt. Die Wiederwahl ist möglich, wenn man in der Rangordnung aufsteigt.
 
-- 4\. Sitzungen
+## 4. Sitzungen
 
-#### Art. 93
+#### Art. 9
 
 **Sitzungsmodalitäten**
 
@@ -124,17 +145,17 @@ macht. Über eine Löschung der Aufnahmen entscheidet das Büro.
 
 <sup>2</sup> Die Termine werden nach Rücksprache mit der Standeskommission durch das Büro festgelegt.
 
-#### Art. 104
+#### Art. 10
 
 **Geschäftsordnung**
 
-Die Geschäftsordnung wird vom Büro auf Vorschlag der Standeskommission festgelegt und veröffentlicht.
+<sup>1</sup> Die Geschäftsordnung wird vom Büro auf Vorschlag der Standeskommission festgelegt und veröffentlicht.
 
-#### Art. 115
+#### Art. 11
 
 **Geschäfte**
 
-<sup>1</sup> Die Geschäfte der Standeskommission, die an das Büro zur Behandlung im Grossen Rat weitergeleitet werden, sind allen Mitgliedern des Grossen Rates zuzustellen und der Öffentlichkeit bereitzustellen.
+<sup>1</sup> Die Geschäfte der Standeskommission, die an das Büro zur Behandlung im Gros-sen Rat weitergeleitet werden, sind allen Mitgliedern des Grossen Rates zuzustellen und der Öffentlichkeit bereitzustellen.
 
 <sup>2</sup> Geschäfte, für die Geheimhaltung gilt oder für welche das Büro dem Grossen Rat Geheimhaltung beantragt, werden der Öffentlichkeit nur im Rahmen der Vorgaben des Büros bereitgestellt. Das Büro kann auf eine Bereitstellung ganz verzichten.
 
@@ -142,33 +163,57 @@ Die Geschäftsordnung wird vom Büro auf Vorschlag der Standeskommission festgel
 
 <sup>4</sup> Die Einladung zu den Sitzungen ist den Mitgliedern des Grossen Rates und der Standeskommission zusammen mit der Geschäftsordnung und den ergänzenden Unterlagen spätestens 21 Tage vor der Sitzung zuzustellen. Gleiches gilt für das Bereitstellen zuhanden der Öffentlichkeit. In begründeten Einzelfällen können Unterlagen nachgereicht werden.
 
-#### Art. 121
+#### Art. 12
 
-Abmeldungen Die Mitglieder des Grossen Rates haben sich im Falle von Verhinderungen beim Präsidenten abzumelden.
+**Abmeldungen**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates haben sich im Falle von Verhinderungen beim Präsidenten abzumelden.
 
 #### Art. 13
 
-Teilnahme der Die Mitglieder der Standeskommission nehmen an den Sitzungen des Grossen Ra-Standes- tes mit beratender Stimme und Antragsrecht teil.
+**Teilnahme der Standeskommission**
 
-kommission Art. 14 Beschluss- Der Rat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
+<sup>1</sup> Die Mitglieder der Standeskommission nehmen an den Sitzungen des Grossen Rates mit beratender Stimme und Antragsrecht teil.
 
-fähigkeit Art. 15 Kleidung Die Mitglieder des Rates haben in schicklicher Kleidung zu erscheinen.
+#### Art. 14
 
-#### Art. 162
+**Beschlussfähigkeit**
 
-Dienste Die Ratskanzlei besorgt den Protokoll- und Weibeldienst.
+<sup>1</sup> Der Rat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 
-#### Art. 173
+#### Art. 15
 
-Öffentlichkeit Die Beratung über den Ausschluss der Öffentlichkeit geschieht geheim.
+**Kleidung**
 
-- 5\. Beratung Art. 184 Eintreten <sup>1</sup>Zu Beginn der Beratung findet in der Regel eine Eintretensdebatte statt, in welcher der Reihe nach der Präsident der antragstellenden Kommission, die übrigen Mitglieder der Kommission, die Mitglieder des Rates, der zuständige Departementsvorsteher und die übrigen Mitglieder der Standeskommission das Wort erhalten.
+<sup>1</sup> Die Mitglieder des Rates haben in schicklicher Kleidung zu erscheinen.
 
-<sup>2</sup> Ist keine vorberatende Kommission bestellt worden, wird das Geschäft von dem von der Standeskommission bezeichneten Mitglied erläutert.
+#### Art. 16
 
-<sup>3</sup> Eintreten ist obligatorisch bei Einzelinitiativen, beim Voranschlag, bei der Staatsrechnung, bei Berichten und bei der Festsetzung der Landsgemeindeordnung.
+**Protokoll- und Weibeldienst**
 
-#### Art. 191
+<sup>1</sup> Die Ratskanzlei besorgt den Protokoll- und Weibeldienst.
+
+<sup>2</sup> Die schriftlichen Protokolle sind dem Grossen Rat in der Regel an der nächsten Sitzung zur Genehmigung zu unterbreiten.
+
+#### Art. 17
+
+**Öffentlichkeit**
+
+<sup>1</sup> Die Beratung über den Ausschluss der Öffentlichkeit geschieht geheim.
+
+## 5. Beratung
+
+#### Art. 18
+
+**Eintreten**
+
+<sup>1</sup> Zu Beginn der Beratung findet in der Regel eine Eintretensdebatte statt, in welcher der Reihe nach der Präsident der zuständigen Kommission, die übrigen Mitglieder der Kommission, die Mitglieder des Rates, der zuständige Departementsvorsteher und die übrigen Mitglieder der Standeskommission das Wort erhalten.
+
+<sup>2</sup> Geschäfte, die nicht in einer Kommission vorberaten oder vorbereitet wurden, und von der Standeskommission überwiesene Berichte werden vom zuständigen Departementsvorsteher erläutert. Hierauf erhalten die übrigen Mitglieder der Standeskommission, danach der Präsident der zuständigen Kommission, die übrigen Mitglieder der Kommission und die übrigen Mitglieder des Rates das Wort.
+
+<sup>3</sup> Eintreten ist obligatorisch bei Initiativen, beim Budget, bei der Staatsrechnung, bei Berichten und bei der Festsetzung der Landsgemeindeordnung.
+
+#### Art. 19
 
 **Detailberatung und Rückweisung**
 
@@ -178,7 +223,15 @@ Dienste Die Ratskanzlei besorgt den Protokoll- und Weibeldienst.
 
 <sup>3</sup> Ein Geschäft kann in der Detailberatung zurückgewiesen werden. Die Rückweisung ist mit einem Auftrag zu verbinden.
 
-#### Art. 202
+#### Art. 19a
+
+**Änderungsanträge**
+
+<sup>1</sup> Änderungsanträge für die Detailberatung sollen nach Möglichkeit vor Sitzungsbeginn schriftlich und ausformuliert eingereicht werden. Der Antrag gilt formell als gestellt, wenn er während der Detailberatung mündlich vorgebracht wird.
+
+<sup>2</sup> Der Präsident kann bei mündlich vorgebrachten Anträgen eine schriftliche Formulierung verlangen.
+
+#### Art. 20
 
 **Ordnungsanträge**
 
@@ -194,113 +247,151 @@ Dienste Die Ratskanzlei besorgt den Protokoll- und Weibeldienst.
 
 <sup>2</sup> Über einen Rückkommensantrag nach der Gesamtabstimmung entscheidet der Grosse Rat nach kurzer Begründung des Antragstellers. Für einen solchen Rückkommensbeschluss ist die Mehrheit von zwei Dritteln der Anwesenden erforderlich.
 
-#### Art. 223
+#### Art. 22
 
 **Zweite Lesung**
 
-Schreibt die Verfassung nicht eine zweite Lesung vor, kann der Rat auf eine solche verzichten.
+<sup>1</sup> Schreibt die Verfassung keine zweite Lesung vor, ist der Grosse Rat frei, ob er ein Geschäft einer oder mehreren Lesungen unterzieht.
 
-#### Art. 234
+#### Art. 23
 
-- 6\. Parlamentarische Vorstösse Art. 241 Aufträge <sup>1</sup>Jedes Mitglied des Grossen Rates und seine Kommissionen haben das Recht, die Standeskommission zu beauftragen, einen Entwurf für eine Abänderung oder Ergänzung der Kantonsverfassung, für den Erlass, die Abänderung oder Aufhebung von Gesetzen, Verordnungen oder Grossratsbeschlüssen vorzulegen oder eine
+**…**
 
-bestimmte Frage zu prüfen und darüber Bericht zu erstatten.
+## 6. Parlamentarische Vorstösse
+
+#### Art. 24
+
+**Aufträge**
+
+<sup>1</sup> Jedes Mitglied des Grossen Rates und seine Kommissionen haben das Recht, die Standeskommission zu beauftragen, einen Entwurf für eine Abänderung oder Ergänzung der Kantonsverfassung, für den Erlass, die Abänderung oder Aufhebung von Gesetzen, Verordnungen oder Grossratsbeschlüssen vorzulegen oder eine bestimmte Frage zu prüfen und darüber Bericht zu erstatten.
 
 <sup>2</sup> Verweigert die Standeskommission die Annahme des Auftrages, kann sie durch Ratsbeschluss dazu verpflichtet werden.
 
 <sup>3</sup> Über Gegenstände, die in der Kompetenz von grossrätlichen Kommissionen oder des Büros liegen, können diesen im gleichen Verfahren Aufträge erteilt werden.
 
-#### Art. 252
+#### Art. 25
 
-Anfrage <sup>1</sup>Mit der Anfrage kann jedes Ratsmitglied unter dem Geschäft "Allfälliges" Auskunft über eine Angelegenheit des Kantons verlangen.
+**Anfrage**
 
-<sup>2</sup> Die Standeskommission kann zur Anfrage sofort oder an einer späteren Session Stellung nehmen.
+<sup>1</sup> Mit der Anfrage kann jedes Ratsmitglied unter dem Geschäft "Allfälliges" Auskunft über eine Angelegenheit des Kantons verlangen.
 
-- 7\. Abstimmungen
+<sup>2</sup> Die Standeskommission kann zur Anfrage sofort oder an einer späteren Sitzung Stellung nehmen.
 
-Art. 26 Übersicht <sup>1</sup>Vor der Abstimmung gibt der Präsident eine kurze Übersicht über die gestellten Anträge und legt dem Rat seine Vorschläge über die Fragestellung und die Reihenfolge der Fragen bei der Abstimmung vor.
+## 7. Abstimmungen
+
+#### Art. 26
+
+**Übersicht**
+
+<sup>1</sup> Vor der Abstimmung gibt der Präsident eine kurze Übersicht über die gestellten Anträge und legt dem Rat seine Vorschläge über die Fragestellung und die Reihenfolge der Fragen bei der Abstimmung vor.
 
 <sup>2</sup> Einwendungen gegen diese Vorschläge aus der Mitte des Rates werden sofort erledigt.
 
-#### Art. 273
+#### Art. 27
 
-Gesamt- <sup>1</sup>Nach erfolgter Detailberatung ist eine Gesamtabstimmung durchzuführen.
+**Gesamtabstimmung**
 
-abstimmung <sup>2</sup>Das Ergebnis der Abstimmung, mit der ein Geschäft an die Landsgemeinde überwiesen wird, ist im Mandat vollständig anzugeben.
+<sup>1</sup> Wird keine weitere Lesung mehr durchgeführt, ist nach erfolgter Detailberatung eine Gesamtabstimmung durchzuführen.
 
-#### Art. 281
+<sup>2</sup> Das Ergebnis der Abstimmung, mit der ein Geschäft an die Landsgemeinde überwiesen wird, ist im Landsgemeindemandat vollständig anzugeben.
+
+#### Art. 28
 
 **Mehrheit**
 
-<sup>1</sup> Soweit die Verfassung oder diese Verordnung nichts anderes vorschreiben, gilt für die Annahme eines Antrags oder einer Vorlage das relative Mehr.
+<sup>1</sup> Soweit die Verfassung oder dieses Reglement nichts anderes vorschreiben, ist ein Antrag, ein Auftrag oder eine Vorlage angenommen, wenn die Mehrheit der Stimmenden dafür ist.
 
 <sup>2</sup> Abstimmungen erfolgen mit offenem Handmehr, soweit der Rat nicht geheime Abstimmung beschliesst.
 
-<sup>3</sup> Bei offensichtlichem Mehr kann der Präsident auf die Auszählung der Stimmen verzichten, es sei denn, ein Ratsmitglied verlange die Auszählung oder das Resultat werde für das Landsgemeindemandat gebraucht.
+<sup>3</sup> Bei offensichtlichem Mehr kann der Präsident auf die Auszählung der Stimmen verzichten, es sei denn, ein Ratsmitglied verlange die Auszählung oder das Resultat werde für das Landsgemeindemandat benötigt.
 
 <sup>4</sup> Bei Stimmengleichheit nach zweimaliger Abstimmung gibt der Präsident den Stichentscheid, der nicht zu begründen ist.
 
-<sup>5</sup> Abstimmungen mit Namensaufruf finden nicht statt.
+<sup>5</sup> …
 
-8.Wahlen und Demissionen
+## 8. Wahlen und Demissionen
 
-#### Art. 292
+#### Art. 29
 
 **Verfahren**
 
 <sup>1</sup> Wahlen erfolgen mit offenem Handmehr, soweit der Rat nicht geheime Wahl beschliesst.
 
-<sup>2</sup> Gewählt ist, wer das absolute Mehr auf sich vereinigt.
+<sup>2</sup> Ein Kandidat ist sofort gewählt, wenn mehr als die Hälfte der stimmberechtigten Anwesenden für ihn gestimmt hat.
 
-<sup>3</sup> Erhält kein Kandidat das absolute Mehr, werden pro Wahlgang einer oder mehrere Kandidaten aus dem Wahlverfahren entlassen, bis noch zwei Kandidaten zur Wahl stehen. Im Wahlgang zwischen diesen beiden gilt das relative Mehr; nach zweimaliger Stimmengleichheit gibt der Präsident den Stichentscheid, der nicht zu begründen ist.
+<sup>3</sup> Stehen mehr als zwei Kandidaten zur Wahl, werden pro Wahlgang ein Kandidat oder mehrere Kandidaten aus dem Wahlverfahren entlassen, bis noch zwei Kandidaten zur Wahl stehen.
 
-#### Art. 303
+<sup>4</sup> In Wahlgängen mit zwei oder einem Kandidaten ist gewählt, wer die Mehrheit der abgegebenen Stimmen erhält.
+
+<sup>5</sup> Ergibt sich zweimal nacheinander Stimmengleichheit, entscheidet das durch den Präsidenten zu ziehende Los.
+
+#### Art. 30
 
 **Demissionen**
 
-Die Demission aus einer vom Grossen Rat gewählten Kommission ist dem Präsidenten des Grossen Rates bis 10. Mai des jeweiligen Amtsjahres bekanntzugeben.
+<sup>1</sup> Die Demission aus einer vom Grossen Rat gewählten Kommission ist dem Präsidenten des Grossen Rates bis 10. Mai des jeweiligen Amtsjahres bekanntzugeben.
 
-- 9\. Kommissionen
+<sup>2</sup> Wird ein Mitglied der Staatswirtschaftlichen Kommission oder einer vorberatenden Kommission zusätzlich in eine weitere dieser Kommissionen gewählt, kann es unmittelbar nach der Wahl den Rücktritt aus der bisherigen Kommission erklären.
 
-#### Art. 311
+## 9. Kommissionen
 
-**Aufsichtskommissionen**
+#### Art. 31
 
-<sup>1</sup> Der Grosse Rat bestellt die Mitglieder a) der Staatswirtschaftlichen Kommission (StwK) für jeweils ein Jahr;
+**Staatswirtschaftliche Kommission**
 
-- b) der Kontrollkommission der Kantonalbank für jeweils vier Jahre.
+<sup>1</sup> Der Grosse Rat wählt aus seiner Mitte für jeweils ein Jahr die Staatswirtschaftliche Kommission mit einem Präsidenten und sieben Mitgliedern.
 
-<sup>2</sup> Die Staatswirtschaftliche Kommission besteht aus dem Präsidenten und sieben Mitgliedern. Alle müssen Mitglieder des Grossen Rates sein. Sie prüft die Geschäfts- und Rechnungsführung der kantonalen Verwaltungen mit Ausnahme der Kantonalbank und der Ausgleichskasse. Die Einzelheiten werden in einem gesonderten Reglement festgelegt.
+- a) …
+- b) …
 
-<sup>3</sup> Die Kontrollkommission der Kantonalbank besteht aus drei Mitgliedern, wovon mindestens zwei Mitglieder des Grossen Rates sind. Sie erfüllt die in der Gesetzgebung über die Kantonalbank enthaltenen Aufgaben.
+<sup>2</sup> Die Kommission prüft die Geschäfts- und Rechnungsführung der kantonalen Verwaltung. Nicht geprüft werden die Kantonalbank und die Ausgleichskasse.
 
-#### Art. 322
+<sup>3</sup> Die Einzelheiten zu den Aufgaben und Kompetenzen der Staatswirtschaftlichen Kommission werden auf dem Verordnungsweg geregelt.
+
+#### Art. 32
 
 **Vorberatende Kommissionen**
 
-<sup>1</sup> Der Rat wählt aus seiner Mitte für jeweils ein Jahr ständige vorberatende Kommissionen, die höchstens acht Mitglieder umfassen, denen die Vorberatung von Geschäften zugewiesen werden kann.
+<sup>1</sup> Der Grosse Rat wählt aus seiner Mitte für jeweils ein Jahr als ständige vorberatende Kommissionen mit je höchstens acht Mitgliedern:
 
-<sup>2</sup> Der Präsident und der Vizepräsident des Grossen Rates können nicht gleichzeitig Präsident einer vorberatenden Kommission sein.
+- a) Kommission für Wirtschaft (WiKo) für Geschäfte des Finanzdepartementes, des Volkswirtschaftsdepartementes sowie des Land- und Forstwirtschaftsdepartementes;
+- b) Kommission für Soziales, Gesundheit, Erziehung, Bildung (SoKo) für Geschäfte des Erziehungsdepartementes sowie des Gesundheits- und Sozialdepartementes;
+- c) Kommission für öffentliche Bauten, Verkehr, Energie, Raumplanung, Umwelt (BauKo) für Geschäfte des Bau- und Umweltdepartementes;
+- d) Kommission für Recht und Sicherheit (ReKo) für Geschäfte des Justiz-, Polizei- und Militärdepartementes.
 
-<sup>3</sup> Der Aufgabenbereich der ständigen Kommissionen ist in der Regel:
+<sup>2</sup> Der Grosse Rat und bei Dringlichkeit auch das Büro können in Einzelfällen ad hoc vorberatende Kommissionen einsetzen.
 
-- a) Kommission für Wirtschaft (WiKo): Geschäfte des Finanzdepartementes, des Volkswirtschaftsdepartementes sowie des Land- und Forstwirtschaftsdepartementes;
+<sup>3</sup> …
 
-- b) Kommission für Soziales, Gesundheit, Erziehung, Bildung (SoKo): Geschäfte des Erziehungsdepartementes sowie des Gesundheits- und Sozialdepartementes;
+<sup>4</sup> …
 
-- c) Kommission für öffentliche Bauten, Verkehr, Energie, Raumplanung, Umwelt (BauKo): Geschäfte des Bau- und Umweltdepartementes;
+<sup>5</sup> …
 
-- d) Kommission für Recht und Sicherheit (ReKo): Geschäfte des Justiz-, Polizei- und Militärdepartementes.
+<sup>6</sup> …
 
-<sup>4</sup> Das Büro und der Grosse Rat können auch ad hoc vorberatende Kommissionen einsetzen.
+<sup>7</sup> …
 
-<sup>5</sup> Das Büro kann die Vorberatung von Geschäften einer vorberatenden Kommission übertragen. Überweist es ein Geschäft ohne Kommissionsvorberatung an den Grossen Rat, kann dieser von sich aus die Beratung aussetzen und die Vorberatung durch eine Kommission beschliessen.
+#### Art. 32a
 
-<sup>6</sup> In der Regel nimmt der zuständige Vertreter der Standeskommission, mit beratender Stimme und Antragsrecht, an den Sitzungen der vorberatenden Kommissionen teil.
+**Zuweisung**
 
-<sup>7</sup> Die Kommissionen können unter dem Vorbehalt der entsprechenden Kostengutsprache durch das Büro Experten beiziehen.
+<sup>1</sup> Das Büro kann Geschäfte einer vorberatenden Kommission zuweisen.
 
-#### Art. 331
+<sup>2</sup> Bei nicht zugewiesenen Geschäften kann der Grosse Rat nachträglich eine Vorberatung verlangen, gegebenenfalls unter Aussetzung der Beratung.
+
+<sup>3</sup> Geschäfte, die kein spezifisches Departement oder die mehrere Departemente betreffen, kann das Büro nach eigenem Ermessen einer bestehenden vorberatenden Kommission zuweisen.
+
+<sup>4</sup> Das Büro kann bei einer Zuweisung bestimmen, dass eine weitere Kommission mitwirkt, und festlegen, wer das Geschäft im Grossen Rat vertritt.
+
+#### Art. 32b
+
+**Vorberatung**
+
+<sup>1</sup> Die Kommissionen beraten die ihnen zugewiesenen Geschäfte vor. Sie können hierfür Experten beiziehen.
+
+<sup>2</sup> In der Regel nehmen die zuständigen Vertreter der Standeskommission mit beratender Stimme an den Sitzungen der vorberatenden Kommissionen teil.
+
+#### Art. 33
 
 **Wiederwahl und Ausscheiden**
 
@@ -308,7 +399,7 @@ Die Demission aus einer vom Grossen Rat gewählten Kommission ist dem Präsident
 
 <sup>2</sup> Das Ausscheiden aus dem Grossen Rat hat das Ausscheiden aus parlamentarischen Aufsichtskommissionen oder vorberatenden Kommissionen zur Folge.
 
-#### Art. 342
+#### Art. 34
 
 **Weitere Kommissionen**
 
@@ -316,43 +407,36 @@ Die Demission aus einer vom Grossen Rat gewählten Kommission ist dem Präsident
 
 <sup>2</sup> Wiederwahlen sind möglich.
 
-- 10\. Inkrafttreten
+#### Art. 34a
+
+**Ergänzungswahlen**
+
+<sup>1</sup> Ergänzungswahlen werden in der Regel an der nächsten Sitzung vorgenommen.
+
+<sup>2</sup> In begründeten Fällen kann davon abgewichen oder auf eine Ergänzung verzichtet werden.
+
+#### Art. 34b
+
+**Kommissionsgeheimnis**
+
+<sup>1</sup> Die Beratungen im Büro des Grossen Rates, in der Staatswirtschaftlichen Kommission und in den vorberatenden Kommissionen sind geheim.
+
+<sup>2</sup> Unter Vorbehalt abweichender Beschlüsse durch die Kommission dürfen nach Abschluss der Beratung eines Geschäfts die gefassten Beschlüsse und die Argumente zur weiteren politischen Meinungsbildung in den politischen Verbänden diskutiert werden. Nicht bekannt gegeben werden dürfen die Urheber der Meinungen und die einzelnen Stimmabgaben sowie weitere Belange, die ihrer Natur nach geheim sind.
+
+<sup>3</sup> Über eine Information der Öffentlichkeit entscheidet die Kommission.
+
+<sup>4</sup> Die Geheimhaltung in den übrigen vom Grossen Rat zu wählenden kantonalen Kommissionen richtet sich nach dem für sie geltenden Recht.
+
+#### Art. 34c
+
+**Konstituierung der Kommissionen**
+
+<sup>1</sup> Die Kommissionen konstituieren sich im Rahmen der gesetzlichen Vorgaben selber.
+
+## 10. Inkrafttreten
 
 #### Art. 35
 
-Das Geschäftsreglement tritt nach Annahme durch den Grossen Rat auf die Landsgemeinde vom 30. April 1995 in Kraft.
+<sup>1</sup> Das Geschäftsreglement tritt nach Annahme durch den Grossen Rat auf die Landsgemeinde vom 30. April 1995 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 20. Februar 1995, 23. September 1996, 23. Juni 2003, 26. Februar 2007, 18. Juni 2012 und 1. Dezember 2014.
-- [2] Ingress abgeändert durch GrRB vom 23. Juni 2003 und 1. Dezember 2014.
-- [3] Abgeändert (Marginalie) durch GrRB vom 18. Juni 2012.
-- [4] Abgeändert durch GrRB vom 18. Juni 2012.
-- [5] Abgeändert durch GrRB vom 18. Juni 2012.
-- [*] Die Verwendung männlicher Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert (Abs. 3) durch GrRB vom 26. Februar 2007 (Inkrafttreten: 1. Juni 2007) und 18. Juni 2012.
-- [2] Abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 18. Juni 2012.
-- [1] Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 18. Juni 2012.
-- [4] Abgeändert durch GrRB vom 18. Juni 2012.
-- [5] Ergänzt (Abs. 3) durch GrRB vom 23. September 1996. Abgeändert durch GrRB vom 18. Juni 2012.
-- [1] Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 18. Juni 2012.
-- [4] Abgeändert (Abs. 1) durch GrRB vom 26. Februar 2007 (Inkrafttreten: 1. Juni 2007). Abgeändert durch GrRB vom 18. Juni 2012
-- [1] Aufgehoben (Abs. 2 und 3) durch GrRB vom 23. September 1996. Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 18. Juni 2012.
-- [4] Aufgehoben durch GrRB vom 18. Juni 2012.
-- [1] Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 18. Juni 2012.
-- [1] Abgeändert (Abs. 1) durch GrRB vom 23. September 1996. Abgeändert (Abs. 1 und 3) durch GrRB vom 18. Juni 2012
-- [2] Abgeändert (Abs. 2 und 3) durch GrRB vom 23. September 1996. Abgeändert durch GrRB vom 18. Juni 2012
-- [3] Abgeändert durch GrRB vom 26. Februar 2007 (Inkrafttreten: 1. Juni 2007). Abgeändert durch GrRB vom 18. Juni 2012.
-- [1] Aufgehoben (Abs. 1 lit. c und Abs. 4) durch GrRB vom 20. Februar 1995; abgeändert (Abs. 1 lit. b) durch GrRB vom 23. September 1996. Abgeändert (Abs. 2) durch GrRB vom 26. Februar 2007 (Inkrafttreten: 1. Juni 2007). Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert (Abs. 1, 2, 3 und 5) durch GrRB vom 23. September 1996. Abgeändert durch GrRB vom 26. Februar 2007 (Inkrafttreten: 1. Juni 2007). Abgeändert (Abs. 1, 3, 4 und 5) durch GrRB vom 18. Juni 2012.
-- [1] Abgeändert durch GrRB vom 18. Juni 2012.
-- [2] Abgeändert (Abs. 2) durch GrRB vom 18. Juni 2012.
+cGS -
