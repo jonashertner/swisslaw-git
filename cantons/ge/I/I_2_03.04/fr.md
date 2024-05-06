@@ -1,0 +1,236 @@
+---
+canton: GE
+number: I 2 03.04
+title: "Règlement concernant l’installation, l'exploitation et le contrôle des appareils automatiques (RIECA)"
+short: RIECA
+language: fr
+version: 2024-05-07
+adopted: 1958-07-01
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_i2_03p04.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement concernant l’installation, l'exploitation et le contrôle des appareils automatiques<sup>(12)</sup> (RIECA)
+**Dernières modifications au 7 mai 2024**
+
+du 1<sup>er</sup> juillet 1958
+
+(Entrée en vigueur : 13 juillet 1958)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi sur l’exercice des professions ou industries permanentes, ambulantes et temporaires, du 27 octobre 1923;
+
+vu la loi sur les constructions et les installations diverses, du 14 avril 1988;
+
+vu la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015;<sup>(16)</sup>
+
+vu la loi sur la remise à titre gratuit et la vente à l'emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac, du 17 janvier 2020,<sup>(20)</sup>
+
+arrête :
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Autorisation de construire**
+
+<sup>1</sup> Lorsque l’installation d’un appareil nécessite la transformation ou la création d’un local ou d’un emplacement, l’autorisation du département du territoire<sup>(18)</sup> doit être demandée.
+
+<sup>2</sup> Des aménagements propres à éviter que les emballages vides ne soient jetés sur la voie publique sont exigés.
+
+#### Art. 2<sup>(20)</sup>
+
+**Autorisation d'exploiter et obligation d'annonce**
+
+### Autorisation
+
+<sup>1</sup> L'exploitation de tout appareil automatique placé dans un établissement public, dans un lieu accessible au public ou sur le domaine public est soumise à l'obtention préalable d'une autorisation de la direction de la police du commerce et de lutte contre le travail au noir<sup>(21)</sup> (ci-après : la direction<sup>(21)</sup>).
+
+<sup>2</sup> L’autorisation est strictement personnelle et intransmissible. Elle est accordée sur requête d'une personne physique, agissant soit pour son propre compte, soit pour le compte d'une personne morale qu'elle a le pouvoir d'engager et de représenter.
+
+<sup>3</sup> La requête en délivrance de l'autorisation est valablement déposée lorsqu’elle est faite au moyen de la formule officielle établie par la direction<sup>(21)</sup>, dûment complétée, signée par le requérant et qu’elle comporte toutes les pièces mentionnées dans ladite formule.
+
+<sup>4</sup> La requête ne réalisant pas les conditions de l'alinéa 3 est retournée au requérant, sans fixation d’un délai pour la compléter.
+
+<sup>5</sup> La direction<sup>(21)</sup> peut néanmoins statuer sur une requête incomplète s'il apparaît d'emblée que celle-ci doit être rejetée, même une fois complétée.
+
+<sup>6</sup> La direction<sup>(21)</sup> peut également demander des documents ou renseignements complémentaires si l’instruction de la requête le nécessite.
+
+<sup>7</sup> Elle peut exiger que les documents remis en langue étrangère soient traduits en français, aux frais du requérant, par un traducteur-juré au sens de la loi sur les traducteurs-jurés, du 7 juin 2013.
+
+<sup>8</sup> L'autorisation d'exploiter est valable pour une durée de 4 ans, renouvelable sur requête déposée 2 mois avant l'échéance de la période de validité. Elle peut être délivrée pour un ou plusieurs appareils.
+
+### Annonce
+
+<sup>9</sup> Lorsqu'il s'agit d'appareils distributeurs de denrées alimentaires, l'exploitant est en outre tenu d'annoncer son activité au service de la consommation et des affaires vétérinaires.
+
+<sup>10</sup> Il en va de même lorsqu'il s'agit d'appareils distributeurs de produits finis conditionnés de cannabis légal.
+
+#### Art. 3<sup>(20)</sup>
+
+**Vente interdite ou soumise à condition**
+
+### Produits interdits à la vente
+
+<sup>1</sup> La vente de viande ou de poisson frais, ou de denrées alimentaires qui en contiennent, la vente de boissons contenant de l'alcool, ainsi que la vente de médicaments, sont interdites.
+
+### Produits du tabac
+
+<sup>2</sup> La vente de produits du tabac ou de produits assimilés au tabac est interdite sur le domaine public.
+
+<sup>3</sup> Les appareils automatiques doivent garantir le respect des limites d'âge. Ils doivent être installés au sein d'établissements permettant une surveillance et être munis de l'affichage prescrit à l'article 16, alinéa 2, de la loi sur la remise à titre gratuit et la vente à l'emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac, du 17 janvier 2020.
+
+#### Art. 4
+
+**Hygiène**
+
+Les appareils doivent être maintenus propres et constamment en bon état.
+
+#### Art. 5
+
+**Police des denrées alimentaires**
+
+Les marchandises distribuées doivent être conformes aux lois et règlements relatifs à la police des denrées alimentaires.
+
+#### Art. 5A<sup>(3)</sup>
+
+**Tranquillité publique**
+
+<sup>1</sup> L’exploitation des appareils peut être interdite lorsqu’elle trouble la tranquillité publique et le repos des habitants.
+
+<sup>2</sup> La direction<sup>(21)</sup> est compétente pour ordonner cette mesure.<sup>(12)</sup>
+
+#### Art. 6
+
+**Contrôles**
+
+<sup>1</sup> Les services compétents peuvent en tout temps contrôler les appareils et prélever des échantillons.<sup>(11)</sup>
+
+<sup>2</sup> Tout appareil automatique doit porter visiblement :
+
+- a) une plaque de contrôle de l'année en cours correspondant au numéro de la patente;
+- b) la raison sociale ou les nom, prénom, ainsi que l'adresse de l'exploitant titulaire de la patente;
+- c) les règles rédigées en français, sauf les cas où des données schématiques de fonctionnement suffisamment explicites sont affichées entre chaque partie;
+- d) les conditions requises pour obtenir le cas échéant une ou plusieurs parties gratuites.<sup>(12)</sup>
+
+#### Art. 7<sup>(12)</sup>
+
+**Taxes**
+
+<sup>1</sup> Pour chaque appareil, il est perçu une taxe annuelle et, le cas échéant, une redevance pour empiétement sur la voie publique.
+
+<sup>2</sup> Tout transfert d'un appareil automatique d'un lieu d'exploitation dans un autre doit être immédiatement communiqué à la direction<sup>(21)</sup>, qui le mentionne sur la patente et perçoit un émolument de 50 francs pour chaque opération.
+
+<sup>3</sup> L'exploitant qui veut effectuer un échange de jeux entre deux établissements pour lesquels il possède déjà les patentes est dispensé de cette obligation.
+
+## Chapitre II Appareils distributeurs automatiques de marchandises à l’exception des boissons et des aliments liquides
+
+#### Art. 8
+
+**Exploitation sur la voie publique**
+
+<sup>1</sup> L’autorisation d’exploiter ces appareils sur la voie publique n’est accordée que si ceux-ci sont placés devant les locaux mêmes du commerçant qui en fait la demande.
+
+<sup>2</sup> Chaque cas est examiné, compte tenu des exigences de la circulation.
+
+<sup>3</sup> Il y a exploitation sur la voie publique lorsque l’appareil est installé sur le domaine public ou placé de telle façon que l’acheteur doit obligatoirement stationner sur la voie publique pour le faire fonctionner.
+
+#### Art. 9
+
+**Produits distribués**
+
+Les produits distribués par les appareils exploités sur la voie publique doivent être similaires à ceux vendus par le commerçant intéressé.
+
+#### Art. 10
+
+**Patente**
+
+<sup>1</sup> La taxe annuelle minimum est de 50 francs par distributeur pour une valeur unitaire de marchandise jusqu'à 1 franc.<sup>(12)</sup>
+
+<sup>2</sup> Elle est augmentée de 10 francs par franc ou fraction de franc supplémentaire.
+
+<sup>3</sup> On entend par distributeur chaque dispositif permettant de retirer une marchandise déterminée.
+
+<sup>4</sup> Lorsque plusieurs distributeurs sont assemblés, il est perçu une taxe globale calculée selon le système progressif de l’alinéa 2.
+
+<sup>5</sup> Pour les distributeurs ne contenant pas de stock, la taxe globale est calculée sur le tiers de la valeur de la marchandise exposée.
+
+<sup>6</sup> La taxe annuelle ne peut toutefois pas dépasser 500 francs par appareil.<sup>(8)</sup>
+
+## Chapitre III Appareils distributeurs automatiques de boissons ou d’aliments liquides
+
+#### Art. 11
+
+**Installation interdite**
+
+L’installation de ces appareils est interdite sur la voie publique.
+
+#### Art. 12
+
+**Conditions pour installer**
+
+<sup>1</sup> L’installation de ces appareils sur le domaine privé est soumise aux conditions suivantes.
+
+<sup>2</sup> La surface du local ou de l’emplacement doit être suffisante pour permettre la consommation sur place, sans empiétement ou stationnement sur la voie publique.
+
+<sup>3</sup> Des aménagements propres à éviter une gêne pour le voisinage, notamment en raison du bruit, peuvent être exigés.
+
+#### Art. 13<sup>(7)</sup>
+
+#### Art. 14
+
+**Patente**
+
+<sup>1</sup> Pour chaque appareil, il est perçu une taxe annuelle minimum de 50 francs par distributeur ne débitant qu'une boisson ou aliment liquide.<sup>(12)</sup>
+
+<sup>2</sup> On entend par distributeur chaque dispositif qui débite une boisson ou un aliment liquide.
+
+<sup>3</sup> Lorsque plusieurs distributeurs sont contenus dans le même appareil, la taxe est augmentée de 10 francs par débit supplémentaire.
+
+<sup>4</sup> Un supplément de 5 francs est perçu pour chaque dispositif permettant d’apprêter la boisson ou l’aliment liquide au goût du consommateur.
+
+## Chapitre IV Dispositions pénales
+
+#### Art. 15<sup>(12)</sup>
+
+**Sanctions**
+
+Ceux qui contreviennent au présent règlement sont passibles de l'amende, sans préjudice de plus fortes peines et des mesures administratives prévues par d'autres lois ou règlements.
+
+## Chapitre V<sup>(12)</sup> Dispositions finales et transitoires
+
+#### Art. 16<sup>(12)</sup>
+
+**Clause abrogatoire**
+
+Le règlement relatif au contrôle des appareils automatiques, du 24 octobre 1952, est abrogé.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| I 2 03.04 R concernant l’installation, l’exploitation et le contrôle des appareils automatiques | 01.07.1958 | 13.07.1958 |
+| Modifications : |  |  |
+| 1. *n.t.* : 2°cons. | 16.06.1961 | 07.05.1961 |
+| 2. *n.t.* : 13/3 | 16.09.1966 | 24.09.1966 |
+| 3. *n.* : 5A | 21.03.1967 | 01.04.1967 |
+| 4. *n.t.* : 1°cons. | 12.12.1983 | 01.01.1984 |
+| 5. *n.t.* : 2°cons. | 20.06.1988 | 30.06.1988 |
+| 6. *n.t.* : 3°cons., 13/2; *a.* : 13/3 | 06.03.1989 | 16.03.1989 |
+| 7. *a.* : 13 | 05.07.1989 | 13.07.1989 |
+| 8. *n.* : 10/6 | 13.02.1991 | 21.02.1991 |
+| 9. *n.t.* : dénomination du département (1/1, 5A/2) | 22.12.1993 | 01.01.1994 |
+| 10. *n.t.* : rectification selon 7C/1, B 2 05 (1, 5A) | 30.05.2006 | 30.05.2006 |
+| 11. *n.t.* : 1°cons., 2°cons., 3°cons., 2, 3, 5A/2, 6/1 | 22.11.2006 | 01.12.2006 |
+| 12. *n.* : chap. V, 16; *n.t.* : intitulé du règlement, 2, 5A/2, 6/2, 7, 10/1, 14/1, 15 | 17.10.2007 | 01.12.2007 |
+| 13. *n.t.* : rectification selon 7C/1, B 2 05 (2/1) | 18.05.2010 | 18.05.2010 |
+| 14. *n.t.* : rectification selon 7C/1, B 2 05 (1/1) | 03.09.2012 | 03.09.2012 |
+| 15. *n.t.* : rectification selon 7C/1, B 2 05 (1/1, 2/1) | 15.05.2014 | 15.05.2014 |
+| 16. *n.t.* : 3°cons. | 28.10.2015 | 01.01.2016 |
+| 17. *n.t.* : rectification selon 7C/1, B 2 05 (2/1) | 01.01.2017 | 01.01.2017 |
+| 18. *n.t.* : rectification selon 7C/1, B 2 05 (1/1, 2/1) | 04.09.2018 | 04.09.2018 |
+| 19. *n.t.* : rectification selon 7C/1, B 2 05 (2/1) | 14.05.2019 | 14.05.2019 |
+| 20. *n.* : 4°cons.; *n.t.* : 2, 3 | 03.02.2021 | 10.02.2021 |
+| 21. *n.t.* : rectification selon 7C/1, B 2 05 (2/1, 2/3, 2/5, 2/6, 5A/2, 7/2) | 07.05.2024 | 07.05.2024 |
