@@ -1,0 +1,220 @@
+---
+canton: GE
+number: K 5 02
+title: Loi d’application de la législation fédérale sur les denrées alimentaires et les objets usuels (LaLDAl)
+short: LaLDAl
+language: fr
+version: 2024-05-07
+adopted: 2019-09-13
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_k5_02.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi d’application de la législation fédérale sur les denrées alimentaires et les objets usuels (LaLDAl)
+**Dernières modifications au 7 mai 2024**
+
+du 13 septembre 2019
+
+(Entrée en vigueur : 13 février 2020)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu la loi fédérale sur les denrées alimentaires et les objets usuels, du 20 juin 2014, et ses ordonnances d’application (ci-après : la législation fédérale),
+
+décrète ce qui suit :
+
+## Chapitre I Objet
+
+#### Art. 1
+
+**Objet**
+
+La présente loi fixe les modalités d’application dans le canton de la législation fédérale.
+
+## Chapitre II Organisation
+
+#### Art. 2
+
+**Organes de contrôle**
+
+Le contrôle des denrées alimentaires et des objets usuels est exercé, sous l’autorité du Conseil d’Etat, par le service de la consommation et des affaires vétérinaires (ci-après : service), soit pour lui le chimiste cantonal et le vétérinaire cantonal.
+
+#### Art. 3
+
+**Compétences**
+
+<sup>1</sup> Le chimiste cantonal dirige le contrôle des denrées alimentaires et des objets usuels et coordonne les activités de laboratoire et d’inspections.
+
+<sup>2</sup> Outre ses compétences découlant de la législation fédérale, le chimiste cantonal peut effectuer des analyses ou des expertises à la demande de tiers, y compris les collectivités publiques, contre paiement d’un émolument établi selon un tarif fixé par le Conseil d’Etat.
+
+<sup>3</sup> Le vétérinaire cantonal dirige le contrôle de la production primaire des denrées alimentaires animales, celui de la détention et de l’abattage du bétail ainsi que celui de l’entreposage de la viande avant transformation.
+
+## Chapitre III Obligations
+
+#### Art. 4
+
+**Devoir d’annonce**
+
+<sup>1</sup> Quiconque exerce une activité relevant de la manipulation des denrées alimentaires est tenu d’annoncer cette activité auprès du service.
+
+<sup>2</sup> Le devoir d’annonce ne s’applique pas à la remise occasionnelle de denrées alimentaires dans le cadre limité d’un bazar, d’une fête scolaire ou autre événement du même genre.
+
+<sup>3</sup> Les changements d’activité importants susceptibles d’avoir des conséquences sur la sécurité des denrées alimentaires, de même que la cessation d’activité, doivent être annoncés également.
+
+#### Art. 5
+
+**Devoir d’information**
+
+<sup>1</sup> Les communes transmettent annuellement au service la liste des commerces itinérants et professionnels des denrées alimentaires autorisés sur les voies publiques, avec plans et calendriers où et quand ces commerces exercent. Elles annoncent également toute nouvelle installation ou suppression de fontaines publiques d’eau potable et de piscines publiques.
+
+<sup>2</sup> L’office cantonal de l’inspection et des relations du travail, soit pour lui :
+
+- a) la direction de la police du commerce et de lutte contre le travail au noir<sup>(1)</sup> informe le service de toute autorisation d’exploiter délivrée ou radiée en application de la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015, et de la loi sur la vente à l’emporter des boissons alcooliques, du 22 janvier 2004, dans un délai de 30 jours;
+- b) le répertoire des entreprises du canton de Genève informe le service de toute création ou radiation d’entreprises relevant de la législation sur les denrées alimentaires. Il fournit également en temps utile, et sur demande du service, toute information sur un établissement spécifique.
+
+<sup>3</sup> Le service et les Services industriels de Genève s’informent mutuellement et immédiatement de tout dysfonctionnement grave en lien avec la potabilité de l’eau du réseau du canton. En outre, les Services industriels de Genève transmettent des relevés mensuels indiquant les non-conformités relevées dans le cadre de leur autocontrôle.
+
+## Chapitre IV Personne responsable
+
+#### Art. 6
+
+**Principe**
+
+<sup>1</sup> Chaque établissement du secteur alimentaire et du secteur des objets usuels désigne une personne responsable ayant une adresse professionnelle en Suisse. L’article 7 est réservé.
+
+<sup>2</sup> La personne responsable est la personne physique d’un établissement du secteur alimentaire ou du secteur des objets usuels mandatée par la direction de l’établissement ou de l’entreprise pour répondre légalement devant les autorités d’exécution de la sécurité des denrées alimentaires ou des objets usuels.
+
+#### Art. 7
+
+**Etablissements publics**
+
+<sup>1</sup> Pour les établissements publics soumis à la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015, la personne responsable est le titulaire de l’autorisation d’exploiter.
+
+<sup>2</sup> En l’absence d’exploitant au sens de l’alinéa 1, la responsabilité incombe au propriétaire du fonds de commerce.
+
+#### Art. 8
+
+**Autres établissements du secteur alimentaire et des objets usuels**
+
+<sup>1</sup> A défaut d’annonce au sens de l’article 6, alinéa 1, la sécurité des produits dans l’établissement relève de la responsabilité de la direction de l’établissement ou de l’entreprise.
+
+<sup>2</sup> Pour les entreprises sujettes à l’inscription obligatoire auprès du registre du commerce, ce dernier fait foi.
+
+## Chapitre V Formation
+
+#### Art. 9
+
+**Formation**
+
+<sup>1</sup> Toute personne responsable produisant, transformant et distribuant des denrées alimentaires sensibles doit posséder une formation de base suffisante pour garantir le respect de la législation fédérale.
+
+<sup>2</sup> Les personnes détentrices d’un certificat fédéral de capacité dans un métier de bouche, d’un diplôme attestant de l’aptitude à exploiter et gérer une entreprise au sens de l’article 9, lettre c, de la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015, ou d’un certificat de capacité au sens de l’article 5, alinéa 1, lettre c, de la loi sur la restauration, le débit de boissons et l’hébergement, du 17 décembre 1987, sont considérées comme ayant la formation de base suffisante.
+
+<sup>3</sup> Toute autre formation est évaluée individuellement par le service.
+
+<sup>4</sup> En cas de formation jugée insuffisante ou en l’absence de toute formation de base, le service fixe à la personne responsable un délai pour l’accomplir.
+
+## Chapitre VI Plans
+
+#### Art. 10
+
+**Approbation de plans**
+
+<sup>1</sup> Les plans de construction et de transformation des industries alimentaires, des entreprises de distribution de plus de 1 000 m<sup>2</sup> et des entreprises de restauration produisant plus de 250 plats par jour sont soumis obligatoirement au préavis du service. Le service peut également être consulté dans le cadre d’autres projets de construction ou de transformation, que ces derniers soient soumis ou non à une requête en autorisation de construire.
+
+<sup>2</sup> Dans les cas où une requête en autorisation de construire nécessite la consultation du service, les plans sont remis au service par le département chargé des autorisations de construire. Celui-ci ne peut délivrer une autorisation de construire qu’avec l’accord du service, exprimé sous forme d’un préavis, lorsque ce dernier est obligatoire.
+
+<sup>3</sup> Le préavis du service est soumis à émolument, dans la mesure où il n’est pas déjà compris dans les émoluments perçus dans le cadre du traitement de la requête en autorisation de construire.
+
+<sup>4</sup> En cas de non-respect des plans approuvés, le service prend les mesures nécessaires afin de rétablir la sécurité alimentaire. Il peut en outre dénoncer les manquements constatés au département chargé des autorisations de construire.
+
+## Chapitre VII Achats-tests
+
+#### Art. 11
+
+**Achats-tests**
+
+<sup>1</sup> Les autorités chargées de l’exécution de la présente loi peuvent effectuer des achats-tests afin de vérifier si les dispositions de la législation fédérale et cantonale sont respectées.
+
+<sup>2</sup> Les résultats des achats-tests ne peuvent être utilisés dans des procédures pénales et administratives que si :
+
+- a) les inspecteurs et contrôleurs ont agi dans le cadre de leur activité professionnelle;
+- b) les achats-tests ont été organisés par le chimiste cantonal;
+- c) les achats-tests ont fait immédiatement l’objet d’un rapport et ont été documentés.
+
+## Chapitre VIII Entraide
+
+#### Art. 12
+
+**Entraide**
+
+<sup>1</sup> Dans les cas graves et répétés d’infractions :
+
+- a) à la législation sur les denrées alimentaires, le chimiste cantonal peut en informer la direction de la police du commerce et de lutte contre le travail au noir<sup>(1)</sup>, les polices cantonales et communales ou toute autre institution délivrant l’autorisation d’exploiter;
+- b) à la législation sur les denrées alimentaires en lien avec des produits issus de l’agriculture genevoise, le chimiste cantonal peut en informer l’office cantonal de l’agriculture et de la nature si la non-conformité peut remettre en cause la marque de garantie Genève Région – Terre Avenir (GRTA) et l’Association suisse des AOP-IGP s’agissant des labels AOP et IGP.
+
+<sup>2</sup> Le service exploite en réseau un système de gestion des données avec ses homologues romands.
+
+## Chapitre IX Mesures, voies de droit et sanctions
+
+#### Art. 13
+
+**Mesures administratives**
+
+En cas d’infraction aux dispositions de la législation fédérale et cantonale sur les denrées alimentaires, le chimiste cantonal peut, indépendamment des sanctions pénales prévues par la présente loi, et cumulativement :
+
+- a) interdire immédiatement, temporairement ou définitivement un procédé de fabrication, l’abattage d’animaux ou l’utilisation d’installations, de locaux, d’équipements, de véhicules et de terrains agricoles;
+- b) ordonner la fermeture immédiate d’un établissement si les conditions qui y règnent présentent un danger direct majeur pour la santé publique, jusqu’au rétablissement d’une situation conforme au droit;
+- c) ordonner le suivi de formations complémentaires;
+- d) prononcer toute autre mesure prévue par la législation fédérale.
+
+#### Art. 14
+
+**Recours**
+
+Les décisions sur opposition et les autres décisions administratives prises en application de la présente loi peuvent faire l’objet d’un recours auprès de la chambre administrative de la Cour de justice.
+
+#### Art. 15
+
+**Autorité pénale et poursuite pénale**
+
+<sup>1</sup> Le chimiste cantonal est compétent pour poursuivre et sanctionner les infractions relatives à la législation sur les denrées alimentaires lorsqu’une amende jusqu’à 20 000 francs est envisagée. Au-delà, il dénonce à l’autorité de poursuite pénale les infractions.
+
+<sup>2</sup> Les organes d’exécution du contrôle des denrées alimentaires ont la qualité de fonctionnaires de la police judiciaire. A cet égard, ils ont accès aux locaux, installations, véhicules, objets et documents.
+
+<sup>3</sup> Les articles 357 et suivants du code de procédure pénale suisse, du 5 octobre 2007, sont applicables.
+
+#### Art. 16
+
+**Exécution**
+
+Le Conseil d’Etat édicte les dispositions nécessaires à l’application de la législation fédérale et de la présente loi.
+
+## Chapitre X Dispositions finales et transitoires
+
+#### Art. 17
+
+**Clause abrogatoire**
+
+La loi d’application de la législation fédérale sur les denrées alimentaires et les objets usuels, du 16 décembre 1999, est abrogée.
+
+#### Art. 18
+
+**Entrée en vigueur**
+
+Le Conseil d’Etat fixe la date d’entrée en vigueur de la présente loi.
+
+#### Art. 19
+
+**Délai transitoire**
+
+Un délai transitoire d’un an à compter de l’entrée en vigueur de la présente loi s’applique à l’obligation de formation de base suffisante telle que définie à l’article 9.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| K 5 02 L d’application de la législation fédérale sur les denrées alimentaires et les objets usuels | 13.09.2019 | 13.02.2020 |
+| Modifications : |  |  |
+| 1. *n.t.* : rectification selon 7C/1, B 2 05 (5/2a, 12/1a) | 07.05.2024 | 07.05.2024 |
