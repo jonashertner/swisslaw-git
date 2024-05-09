@@ -3,13 +3,13 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2024-02-08
-valid_until: 2024-05-09
-version_adopted: 2023-12-06
+version: 2024-05-10
+valid_until: 2024-05-31
+version_adopted: 2024-01-31
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6135/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6272/pdf_file"
 text: pdf
 ---
 
@@ -313,9 +313,11 @@ Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
 **79**
 
-161 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplanes im Gebiet Bäumlihofareal[^hInhaltsverzeichnis-3]. Vom 24. Oktober 2001
+161 Beschluss des Einwohnerrats Riehen betreffend Teilerneuerung des Bebauungsplans Nr. 161 Riehen. Vom 21. Januar 2024
 
 **83**
+
+**VI**
 
 **117**
 
@@ -409,7 +411,7 @@ terstrasse / Münchensteinerstrasse / St. Alban-Ring. Vom 21. Oktober 2004
 
 181 Beschluss des Einwohnerrats Riehen betreffend Bebauungsplan Bosenhaldenweg, Steingrubenweg. Vom 23. Mai 2007
 
-182 GRB betreffend Areal Messe Basel / Messeplatz / Riehenring / Riehenstrasse / Mattenstrasse / Bleichestrasse / Isteinerstrasse / Erlenstrasse / Feldbergstrasse / Sperrstrasse / Rosentalstrasse / Rosentalanlage[^hInhaltsverzeichnis-4]. Vom 12. März 2008
+182 GRB betreffend Areal Messe Basel / Messeplatz / Riehenring / Riehenstrasse / Mattenstrasse / Bleichestrasse / Isteinerstrasse / Erlenstrasse / Feldbergstrasse / Sperrstrasse / Rosentalstrasse / Rosentalanlage[^hInhaltsverzeichnis-3]. Vom 12. März 2008
 
 **124**
 
@@ -431,13 +433,12 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 [^hInhaltsverzeichnis-1]: Titel in der Fassung des GRB vom 22. 10. 1987. IV
 [^hInhaltsverzeichnis-2]: Titel gekürzt. V
-[^hInhaltsverzeichnis-3]: Titel gekürzt. VI
-[^hInhaltsverzeichnis-4]: Titel in der Fassung des GRB vom 25. 6. 2020 (in Kraft seit 20. 8. 2020, Geschäftsnr. 18.0082).
-[^hInhaltsverzeichnis-5]: Titel in der Fassung des GRB vom 22. 10. 2014 (wirksam seit 7. 12. 2014, Geschäftsnr. 13.1788). VIII
+[^hInhaltsverzeichnis-3]: Titel in der Fassung des GRB vom 25. 6. 2020 (in Kraft seit 20. 8. 2020, Geschäftsnr. 18.0082).
+[^hInhaltsverzeichnis-4]: Titel in der Fassung des GRB vom 22. 10. 2014 (wirksam seit 7. 12. 2014, Geschäftsnr. 13.1788). VIII
 
 ### Teil 1 und Teil 2. Vom 7. Januar 2009
 
-[^hInhaltsverzeichnis-5]
+[^hInhaltsverzeichnis-4]
 
 **136**
 
@@ -2953,45 +2954,51 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird nach 
 
 ### Riehen Bäumlihofareal (Gebiet) / Aeussere Baselstrasse / Bäumlihofstrasse / Kleinriehen-Promenade
 
-Einwohnerratsbeschluss vom 24. Oktober 2001[^hRiehenBäumlihofarea-1]
+Einwohnerratsbeschluss vom 31. Januar 2024[^hRiehenBäumlihofarea-1]
 
-Der Einwohnerrat der Gemeinde Riehen, auf Antrag des Gemeinderats und gestützt auf § 101 des Bau- und Planungsgesetzes vom 17. November 1999[^hRiehenBäumlihofarea-2], beschliesst:
+Der Einwohnerrat der Gemeinde Riehen, gestützt auf §§ 95, 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999[^hRiehenBäumlihofarea-2], auf Antrag des Gemeinderats und der Sachkommission Siedlung, Umwelt und Landschaft (SSUL) beschliesst:
 
 1.
 
-Der Plan Nr. 10’902 des Amts für Kantons- und Stadtplanung vom 15. April 1981, übertragen in den Plan Nr. 12’424 des Hochbau- und Planungsamts, Hauptabteilung Planung, vom 7. Juni 1999, wird aufgehoben.
+Der Bebauungsplan Nr. 114.01.001 vom 19. September 2023 betreffend das Gebiet Bäumlihofareal / Aeussere Baselstrasse / Bäumlihofstrasse / Kleinriehen-Promenade in Riehen wird festgesetzt.
 
 2.
 
-Der Plan Nr. 12’425 des Hochbau- und Planungsamts, Hauptabteilung Planung, vom 26. Mai 2000, wird für verbindlich erklärt.
+Zum Bebauungsplan werden folgende Bauvorschriften erlassen:
 
-3.
+- a) Zulässig sind Bauten innerhalb der Baufelder A1 - A4 und B1 - B5.
 
-Für das im Plan Nr. 12’425 gekennzeichnete Gebiet werden folgende Bauvorschriften erlassen:
+- b) In den Baufeldern A1 - A4 dürfen als Neubauten Einzelhäuser (Ein- und Zweifamilienhäuser) sowie Wintergärten / Orangerien / Dependancen, die einen funktionellen Zusammenhang mit den Wohnhäusern aufweisen, erstellt werden.
 
-- a) Zulässig sind Bauten innerhalb der Baufelder A1 - A4 und B1 - B3.
+- c) Im Baufeld B1 (Villa) ist Wohnen sowie eine gewerbliche Nutzung als Tagungs- und Veranstaltungsräume zulässig. Als Neubauten für gewerbliche Nutzung dürfen im Baufeld B2 (Gartenhaus) ein Restaurant, im Baufeld B3 (Parkpavillon) Tagungs- und Veranstaltungsräume, im Baufeld B4 (Bassinpavillon) ein Gartenpavillon, im Baufeld B5 eine Remise erstellt werden.
 
-- b) Als Neubauten dürfen Einzelhäuser (Ein- und Zweifamilienhäuser) sowie Wintergärten / Orangerien / Dependancen, die einen funktionellen Zusammenhang mit den Wohnhäusern aufweisen, erstellt werden.
+- d) Pro Baubereich A1 - A4 ist nur ein Einzelhaus zulässig. Die überbaubare Fläche beträgt in den Baufeldern A1 - A4 200 m², im Baufeld B2 (Gartenhaus) 350 m², im Baufeld B3 (Parkpavillon) 400 m², im Baufeld B4 (Bassinpavillon) 30 m² und im Baufeld B5 (Remise) 45 m². Pro Einzelhaus der Baufelder A1 - A4 werden zwei Garagen von je 20 m² Grundfläche nicht zur überbauten Fläche gerechnet.
 
-- c) Pro Baubereich ist nur ein Einzelhaus zulässig. Die überbaubare Fläche beträgt in den Baufeldern A1 - A4 sowie B2 200 m<sup>2</sup>, im Baubereich B1 400 m<sup>2</sup> (wovon maximal 300 m<sup>2</sup> zweigeschossig), im Baubereich B3 375 m<sup>2</sup> (wovon maximal 200 m<sup>2</sup> zweigeschossig). Pro Einzelhaus werden zwei Garagen von je 20 m<sup>2</sup> Grundfläche nicht zur überbauten Fläche gerechnet.
+- e) In den Baufeldern A1 - A4 beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 11,0 m. Im Baufeld B2 (Gartenhaus) beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 6,0 m; im Baufeld B3 (Parkpavillon) beträgt die zulässige Wandhöhe der Bauten 6.5 m, die Gebäudehöhe 9,0 m; im Baufeld B4 (Bassinpavillon) beträgt die zulässige Gebäudehöhe 7,0 m; im Baufeld B5 (Remise) beträgt die zulässige Wandhöhe der Bauten 3 m, die Firsthöhe 5,5 m. First- und Gebäudehöhe wird ab dem gewachsenen Terrain gemessen. Ausgenommen davon sind zonenkonforme Veränderungen an den historischen Bauten; diese richten sich nach den bestehenden First- und Wandhöhen. Für die Gebäude B2 - B5 sind im Plan Nr. 114.01.001 vom 19. September 2023 Messpunkte für das gewachsene Terrain angegeben. Über das Baufeld B2 ragende Dachvorsprünge sind zulässig und im Bebauungsplan schematisch dargestellt.
 
-- d) In den Baufeldern A1 - A4 sowie B2 für die gesamte Fläche, im Baubereich B1 für maximal 300 m<sup>2</sup>, im Baubereich B3 für maximal 200 m<sup>2</sup> beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 11,0 m, ab dem gewachsenen Terrain gemessen; zudem beträgt im Bau bereich B1 bei mindestens 100 m<sup>2</sup>, im Baubereich B3 bei mindestens 175 m<sup>2</sup> die zulässige Wandhöhe der Bauten 4,0 m, die Firsthöhe 8,0 m, ab dem gewachsenen Terrain gemessen. Ausgenommen davon sind zonenkonforme Veränderungen an den historischen Bauten; diese richten sich nach den bestehenden First- und Wandhöhen.
+- f) Die Neubauten der Baufelder B2 und B3 haben den Minergie A-Standard oder einen vergleichbaren Standard zu erfüllen. Innerhalb der schraffierten Baufelder E ist die unterirdische Nutzung zur Energiegewinnung und -verteilung zulässig.
 
-- e) Im Baubereich B3 kann ein terrainbündiges unüberdecktes Schwimmbassin in der maximalen Grösse von 200 m<sup>2</sup> angelegt werden.
+- g) Die bestehenden Naturwerte ausserhalb der Baufelder B1 - B5 der Parzelle RC 0066 sind zu erhalten und zu fördern. Diese Bereiche können unter Berücksichtigung der denkmalpflegerischen Anliegen im Sinne einer Grün- und Parkanlage inkl. Möblierung naturverträglich und zurückhaltend genutzt und weiterentwickelt werden. Von dieser Nutzung ausgenommen ist das im Plan eingezeichnete Vorranggebiet Natur (Planmarkierung N). Die Umgestaltungen und der Unterhalt der Grün- und Parkanlage haben nach ökologischen, denk- und gartendenkmalpflegerischen Kriterien gemäss Zielbild Hirzen vom 19. September 2023 zu erfolgen.
 
-- f) Einfriedigungen entlang des Perimeters der speziellen Bauvorschriften dürfen nur als Grünhecken in Erscheinung treten. Im südlichen Abschnitt an der Grenze des Perimeters der speziellen Bauvorschriften (Planmarkierung T) kann ein repräsentativer Eingang, der zu beiden Sei-
+- h) Im Vorranggebiet Natur (Planmarkierung N) sind die Naturwerte geschützt und keine Nutzungen zulässig. Die naturräumlichen Qualitäten sind weiter aufzuwerten und die Vernetzung mit den umliegenden Naturwerten sicherzustellen. Die Umgestaltungen und der Unterhalt dieser Fläche hat nach ökologischen Kriterien gemäss Zielbild Hirzen vom 19. September 2023 zu erfolgen.
 
-ten von einem Staketenzaun von maximal 5 m Länge eingefasst ist, errichtet werden.
+- i) Einfriedigungen entlang des Perimeters des Bebauungsplans dürfen nur als Hecken in Erscheinung treten und müssen für Wildtiere durchlässig sein. Die Beleuchtung darf die ökologischen Werte, insbesondere die nachtaktiven Tiere, nicht beeinträchtigen.
 
-- g) Massstäblichkeit, Materialien und Farben haben sich der bestehenden Bebauung anzupassen und sind im Einvernehmen mit den zuständigen Instanzen zu bestimmen.
+- j) Auf der Parzelle RC 0066 können zwei Autoabstellplätze (Planmarkierung P) mit einer Gesamtfläche von 35 m² sowie 30 Veloparkplätze (Planmarkierung V) errichtet werden. Das Mobilitätskonzept vom 07. Februar 2023 zur Ausrichtung als autofreies Areal ist als Vorgabe im Bauprojekt sowie im Betrieb einzuhalten.
 
-- h) Das zuständige Departement ist ermächtigt, Abweichungen von diesen Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird und der Gemeinderat Riehen zustimmt.
+- k) Massstäblichkeit, Materialien und Farben haben sich der bestehenden Bebauung anzupassen und sind im Einvernehmen mit den zuständigen Instanzen zu bestimmen.
 
-Dieser Beschluss ist zu publizieren; er unterliegt dem fakultativen Referendum.[^hRiehenBäumlihofarea-3]
+- l) Die Baubewilligungsbehörde wird ermächtigt, geringfügige Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung und das Siedlungsbild nicht beeinträchtigt werden und der Gemeinderat zustimmt.
 
-[^hRiehenBäumlihofarea-1]: Vom Baudepartement genehmigt am 19. Juli 2002.
+**3.**
+
+Der Bebauungsplan Nr. 161 vom 24. Oktober 2001 und die dazugehörenden Vorschriften werden aufgehoben.
+
+Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und bedarf der Genehmigung durch das Bau- und Verkehrsdepartement. Der Gemeinderat bestimmt den Zeitpunkt des Inkrafttretens.[^hRiehenBäumlihofarea-3]
+
+[^hRiehenBäumlihofarea-1]: Vom Bau- und Verkehrsdepartement genehmigt am 30. 4. 2024.
 [^hRiehenBäumlihofarea-2]: Wirksam seit 4. 3. 2001.
-[^hRiehenBäumlihofarea-3]: Wirksam seit 26. 11. 2001.
+[^hRiehenBäumlihofarea-3]: In Kraft seit 10. 05. 2024.
 
 ### Basel Areal des Diakonats Bethesda an der Ecke Gellertstrasse / Hardrain
 
@@ -7068,7 +7075,7 @@ Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünf
 
 Gemeinderatsbeschluss vom 7. Februar 2017
 
-Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>330)</sup>:
+Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>329)</sup>:
 
 - 1\. Der Bebauungsplan Nr. 118.01.001 vom 1. November 2016 betreffend Liegenschaft Kilchgrundstrasse 62 und 70 wird festgesetzt.
 
@@ -7617,7 +7624,7 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 
 Vom 15. März 2023
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>332)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.1362.01 vom 20. Oktober 2021 sowie in den Bericht der Bau und Raumplanungskommission Nr. 21.1362.02 vom 12. Januar 2023, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>331)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.1362.01 vom 20. Oktober 2021 sowie in den Bericht der Bau und Raumplanungskommission Nr. 21.1362.02 vom 12. Januar 2023, beschliesst:
 
 I. Zonenänderung Der Zonenänderungsplan Nr. 14’292 von ‹Städtebau & Architektur› vom 21. Dezember 2020 wird verbindlich erklärt.
 
@@ -7723,7 +7730,7 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 
 Vom 6. Dezember 2023
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>334)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0506.01 vom 28. Juni 2023 und nach dem mündlichen Antrag der Bau- und Planungskommission vom 6. Dezember 2023, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>333)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0506.01 vom 28. Juni 2023 und nach dem mündlichen Antrag der Bau- und Planungskommission vom 6. Dezember 2023, beschliesst:
 
 I. Zonenänderung
 
