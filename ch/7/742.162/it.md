@@ -4,20 +4,22 @@ title: "Ordinanza del DATEC del 20 agosto 2013 sulla partecipazione dei gestori 
 short: OCMSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/605"
 language: it
-version: 2014-01-01
+version: 2024-05-10
 adopted: 2013-08-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2013-605-20140101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20240510/it/xml/fedlex-data-admin-ch-eli-cc-2013-605-20240510-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20240510/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sulla partecipazione dei gestori dell’infrastruttura ai costi di mantenimento dei servizi di difesa per gli interventi sugli impianti ferroviari
 
-(OMD)
+(OCMSD[^t-1])
 
-del 20 agosto 2013 (Stato 1° gennaio 2014)
+del 20 agosto 2013 (Stato 10 maggio 2024)
+
+[^t-1]: Correzione del 10 mag. 2024 ([RU 2024 204](https://fedlex.data.admin.ch/eli/oc/2024/204)).
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -248,11 +250,11 @@ Allegato 1
 
 ### 2. Formazione, formazione continua e esercitazioni
 
-2.1 Numero di addetti
+### 2.1 Numero di addetti
 
 Il numero di addetti che devono seguire una formazione e una formazione continua per la gestione di eventi è pari al massimo a tre volte i valori riportati nella tabella 1.
 
-2.2 Formazione
+### 2.2 Formazione
 
 <sup>1</sup> La formazione deve durare almeno:
 
@@ -261,12 +263,12 @@ Il numero di addetti che devono seguire una formazione e una formazione continua
 
 <sup>2</sup> Le formazioni concluse prima dell’entrata in vigore della presente ordinanza sono riconosciute.
 
-2.3 Formazione continua
+### 2.3 Formazione continua
 
 - – Intervento su impianti ferroviari: ½ giornata all’anno
 - – Conoscenze del territorio e degli impianti: ½ giornata all’anno
 
-2.4 Esercitazioni di intervento
+### 2.4 Esercitazioni di intervento
 
 <sup>1</sup> Gli addetti mobilitabili dei corpi pompieri e dei servizi di difesa chimica devono partecipare ogni tre anni ad almeno un’esercitazione di intervento della durata di un giorno. Ogni gestore dell’infrastruttura è tenuto ad esercitarsi almeno ogni tre anni nella collaborazione con i corpi pompieri e con i servizi di difesa chimica competenti per i suoi impianti ferroviari. L’esercitazione deve riguardare in particolare la collaborazione con la difesa dell’impresa.
 
@@ -310,7 +312,7 @@ Allegato 2
 
 (Stato 31 dicembre 2013)
 
-\1. Costi complessivi
+### 1. Costi complessivi
 
 *Tabella 1:* Costi di mantenimento complessivi dei corpi pompieri e dei servizi di difesa chimica per gli interventi su impianti ferroviari
 
@@ -327,7 +329,7 @@ Allegato 2
 
 <sup>2</sup> I contributi sono verificati ogni quattro anni e adeguati al rincaro se, sulla base dell’indice nazionale dei prezzi al consumo, dall’ultima pubblicazione delle indennità da parte dell’UFT la variazione del rincaro per eccesso o per difetto ammonta almeno al 5 per cento. La prima verifica è prevista il 1° gennaio 2018.
 
-\2. Partecipazione dei gestori dell’infrastruttura
+### 2. Partecipazione dei gestori dell’infrastruttura
 
 *Tabella 2:* Partecipazione dei gestori dell’infrastruttura (GI) ai costi di mantenimento dei corpi pompieri e dei servizi di difesa chimica
 
@@ -340,7 +342,7 @@ Allegato 2
 <tr><td>– Interventi sulle acque</td><td>20 %</td></tr>
 </table>
 
-\3. Costi di mantenimento imputabili ai gestori dell’infrastruttura
+### 3. Costi di mantenimento imputabili ai gestori dell’infrastruttura
 
 <sup>1</sup> I costi di mantenimento imputabili ai gestori dell’infrastruttura risultano dai costi di mantenimento totali dei corpi pompieri e dei servizi di difesa chimica (tabella 1) e dalla partecipazione dei gestori dell’infrastruttura (tabella 2).
 
@@ -353,7 +355,7 @@ Allegato 2
 <tr><td>Totale</td><td>3 059 000</td></tr>
 </table>
 
-\4. Calcolo dei costi specifici
+### 4. Calcolo dei costi specifici
 
 <sup>1</sup> Per ogni tipo di centro di soccorso il contributo annuo versato dal gestore dell’infrastruttura al Cantone (C<sub>GI/Ct</sub>) si calcola in base alla formula seguente:
 
@@ -364,7 +366,7 @@ dove
 <table>
 <tr><td>C<sub>CH</sub></td><td>=</td><td>costi di mantenimento dei corpi pompieri e dei servizi di difesa chimica imputabili ai gestori dell’infrastruttura in Svizzera secondo la tabella 3 [CHF/anno]</td></tr>
 <tr><td>L<sub>pondCH</sub></td><td>=</td><td>lunghezza totale ponderata delle tratte in Svizzera [Ax-km]</td></tr>
-<tr><td>L<sub>pon</sub><sub>d</sub><sub>GI/Ct</sub></td><td>=</td><td>lunghezza totale ponderata delle tratte del gestori dell’infrastruttura nel Cantone [Ax-km]</td></tr>
+<tr><td>L<sub>pondGI/Ct</sub></td><td>=</td><td>lunghezza totale ponderata delle tratte del gestori dell’infrastruttura nel Cantone [Ax-km]</td></tr>
 <tr><td>f<sub>C/Ct</sub></td><td>=</td><td>fattore cantonale difesa chimica [–]; per il calcolo dei contributi versati ai corpi pompieri questo fattore è fissato a 1.</td></tr>
 </table>
 

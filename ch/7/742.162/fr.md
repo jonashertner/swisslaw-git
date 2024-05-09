@@ -4,20 +4,22 @@ title: "Ordonnance du DETEC du 20 août 2013 sur la participation des gestionnai
 short: OFSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/605"
 language: fr
-version: 2014-01-01
+version: 2024-05-10
 adopted: 2013-08-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-605-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20240510/fr/xml/fedlex-data-admin-ch-eli-cc-2013-605-20240510-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20240510/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur la participation des gestionnaires d’infrastructure aux frais de mise à disposition des services d’intervention sur les installations ferroviaires
 
-(OFSI)
+(OFSI[^t-1])
 
-du 20 août 2013 (Etat le 1<sup>er</sup> janvier 2014)
+du 20 août 2013 (État le 10 mai 2024)
+
+[^t-1]: L’erratum du 10 mai 2024 ne concerne que le texte italien ([RO 2024 204](https://fedlex.data.admin.ch/eli/oc/2024/204)).
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -358,17 +360,25 @@ Annexe 2
 <sup>1</sup> La contribution annuelle qu’un GI verse à un canton (CGI/Ct) par type de centre de renfort se calcule comme suit:
 
 - C<sub>GI/Ct</sub> = (C<sub>CH</sub>/L<sub>pondCH</sub>) · L<sub>pondGI/Ct</sub> · f<sub>C/Ct</sub> [CHF/année]
-- C<sub>CH</sub> = frais de mise à disposition des services d’intervention imputables aux GI en Suisse conformément au tableau 3 [CHF/année]
-- L<sub>pondCH</sub> = longueur totale pondérée des tronçons en Suisse [axe-km]
-- L<sub>pon</sub><sub>d</sub><sub>GI/Ct</sub> = longueur pondérée des tronçons du GI concerné dans le canton concerné [axe-km]
-- f<sub>C/Ct</sub> = facteur cantonal Défense chimique [–]; pour le calcul des contributions aux sapeurs-pompiers, ce facteur est égal à 1.
+
+<table>
+<tr><td>C<sub>CH</sub></td><td>=</td><td>frais de mise à disposition des services d’intervention imputables aux GI en Suisse conformément au tableau 3 [CHF/année]</td></tr>
+<tr><td>L<sub>pondCH</sub></td><td>=</td><td>longueur totale pondérée des tronçons en Suisse [axe-km]</td></tr>
+<tr><td>L<sub>pondGI/Ct</sub></td><td>=</td><td>longueur pondérée des tronçons du GI concerné dans le canton concerné [axe-km]</td></tr>
+<tr><td>f<sub>C/Ct</sub></td><td>=</td><td>facteur cantonal Défense chimique [–]; pour le calcul des contributions aux sapeurs-pompiers, ce facteur est égal à 1.</td></tr>
+</table>
 
 <sup>2</sup> La longueur des tronçons est pondérée en fonction du type de centre de renfort:
 
-- Sapeurs-pompiers L<sub>pondSP</sub> = r<sub>SP</sub> · L
-- Défense chimique L<sub>pondC</sub> = r<sub>C</sub> · L
-- L = longueur des tronçons ferroviaires concernés [axe-km]. Pour la défense chimique, seuls sont pris en considération les tronçons sur lesquels circulent des marchandises dangereuses. Pour les gares de triage et les ports rhénans, sont appliquées les valeurs forfaitaires indiquées au tableau 4.
-- r<sub>x</sub> = facteur de risque conformément au tableau 5.
+<table>
+<tr><td>Sapeurs-pompiers</td><td>L<sub>pondSP</sub> = r<sub>SP</sub> · L</td></tr>
+<tr><td>Défense chimique</td><td>L<sub>pondC</sub> = r<sub>C</sub> · L</td></tr>
+</table>
+
+<table>
+<tr><td>L</td><td>=</td><td>longueur des tronçons ferroviaires concernés [axe-km]. Pour la défense chimique, seuls sont pris en considération les tronçons sur lesquels circulent des marchandises dangereuses. Pour les gares de triage et les ports rhénans, sont appliquées les valeurs forfaitaires indiquées au tableau 4.</td></tr>
+<tr><td>r<sub>x</sub></td><td>=</td><td>facteur de risque conformément au tableau 5.</td></tr>
+</table>
 
 *Tableau 4:* longueurs forfaitaires pour la prise en compte des gares de triage et des ports rhénans
 

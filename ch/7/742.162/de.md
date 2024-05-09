@@ -4,20 +4,22 @@ title: Verordnung des UVEK vom 20. August 2013 über die Beteiligung der Infrast
 short: VWEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/605"
 language: de
-version: 2014-01-01
+version: 2024-05-10
 adopted: 2013-08-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2013-605-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/605/20240510/de/xml/fedlex-data-admin-ch-eli-cc-2013-605-20240510-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/605/20240510/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Beteiligung der Infrastrukturbetreiberinnen an den Vorhaltekosten der Wehrdienste für Einsätze auf Eisenbahnanlagen
 
-(VWEV)
+(VWEV[^t-1])
 
-vom 20. August 2013 (Stand am 1. Januar 2014)
+vom 20. August 2013 (Stand am 10. Mai 2024)
+
+[^t-1]: Die Berichtigung vom 10. Mai 2024 betrifft nur den italienischen Text ([AS 2024 204](https://fedlex.data.admin.ch/eli/oc/2024/204)).
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -248,11 +250,11 @@ Anhang 1
 
 ### 2. Aus- und Weiterbildung, Einsatzübungen
 
-2.1 Anzahl Personen
+### 2.1 Anzahl Personen
 
 Es sind maximal dreimal so viele Personen aus- und weiterzubilden, wie in Tabelle 1 jeweils für die Bewältigung des Ereignisses festgelegt ist.
 
-2.2 Ausbildung
+### 2.2 Ausbildung
 
 <sup>1</sup> Für die Ausbildung dieser Personen gelten folgende Mindestdauern:
 
@@ -261,12 +263,12 @@ Es sind maximal dreimal so viele Personen aus- und weiterzubilden, wie in Tabell
 
 <sup>2</sup> Vor dem Inkrafttreten dieser Verordnung absolvierte Ausbildungen werden anerkannt.
 
-2.3 Weiterbildung
+### 2.3 Weiterbildung
 
 - – Intervention auf Eisenbahnanlagen: ½ Tag pro Jahr
 - – Orts- und Anlagenkenntnisse: ½ Tag pro Jahr
 
-2.4 Einsatzübungen
+### 2.4 Einsatzübungen
 
 <sup>1</sup> Die einsetzbaren Angehörigen der Feuer- und Chemiewehren müssen alle drei Jahre mindestens an einer eintägigen Einsatzübung teilnehmen. Die Zusammenarbeit jeder ISB mit jeder für ihre Eisenbahnanlagen zuständigen Feuer- und Chemiewehr ist mindestens alle drei Jahre zu üben. Dabei ist insbesondere die Zusammenarbeit mit den Betriebswehren zu üben.
 
@@ -310,7 +312,7 @@ Anhang 2
 
 (Stand am 31. Dezember 2013)
 
-\1. Gesamtkosten
+### 1. Gesamtkosten
 
 *Tabelle 1:* Gesamte Vorhaltekosten der Feuer- und Chemiewehren für Einsätze auf Eisenbahnanlagen
 
@@ -327,7 +329,7 @@ Anhang 2
 
 <sup>2</sup> Die Beiträge werden alle vier Jahre überprüft und auf der Grundlage des Landesindexes der Konsumentenpreise der Teuerung angepasst, wenn diese seit der letzten Veröffentlichung der Abgeltungen durch das BAV mindestens +/– 5 % beträgt. Die erste Überprüfung erfolgt per 1. Januar 2018.
 
-\2. Beteiligung der ISB
+### 2. Beteiligung der ISB
 
 *Tabelle 2:* Beteiligung der ISB an den Vorhaltekosten der Feuer- und Chemiewehren
 
@@ -340,7 +342,7 @@ Anhang 2
 <tr><td>– Intervention auf Gewässern</td><td>20 %</td></tr>
 </table>
 
-\3. Den ISB anrechenbare Vorhaltekosten
+### 3. Den ISB anrechenbare Vorhaltekosten
 
 <sup>1</sup> Die den ISB anrechenbaren Vorhaltekosten ergeben sich aus den gesamten Vorhaltekosten der Feuer- und Chemiewehren (Tabelle 1) und der Beteiligung der ISB (Tabelle 2).
 
@@ -353,7 +355,7 @@ Anhang 2
 <tr><td>Total</td><td>3 059 000</td></tr>
 </table>
 
-\4. Berechnung der spezifischen Kosten
+### 4. Berechnung der spezifischen Kosten
 
 <sup>1</sup> Pro Stützpunktart berechnet sich der jährliche Beitrag einer ISB an einen Kanton (VISB/Kt) wie folgt:
 
