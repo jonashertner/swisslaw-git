@@ -3,13 +3,13 @@ canton: BS
 number: RiE 730.150
 title: Spezielle Bauvorschriften / Bebauungspläne
 language: de
-version: 2019-01-01
-valid_until: 2024-05-09
-version_adopted: 2017-02-11
+version: 2024-05-10
+valid_until: 2024-05-31
+version_adopted: 2024-01-31
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4653/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6271/pdf_file"
 text: pdf
 ---
 
@@ -39,9 +39,7 @@ Bezüglich der Entstehungsgeschichte des Abschnitts «Spezielle Bauvorschriften 
 
 - Im Alphabetischen Register sind gebietsweise die gleichen Strassen und Ortsnamen verzeichnet wie in den Überschriften der Erlasse. Anhand dieser Stichwörter und der Erlassnummern lassen sich sowohl die Vorschriften als auch die von ihnen erfassten Gebiete ermitteln. Abgesehen von den Plandarstellungen stellt ein solches Register die einzige Möglichkeit dar, die vielen gleichartigen Erlasse einigermassen zu erschliessen.
 
-**-**
-
-Per 1. Januar 1994 erfolgte die organisatorische Zusammenfassung des Amtes für Kantons- und Stadtplanung mit der Funktion des Kantonsbaumeisters im neu geschaffenen Amt mit dem Namen Hochbau- und Planungsamt. Dies hat zur Folge, dass sich in den vor diesem Datum erlassenen speziellen Bauvorschriften die bisherige Amtsbezeichnung Amt für Kantons- und Stadtplanung findet, in den nach dem 1. Januar 1994 verabschiedeten Erlassen dagegen die nunmehr geltende Bezeichnung Hochbau- und Planungsamt.
+- Per 1. Januar 1994 erfolgte die organisatorische Zusammenfassung des Amtes für Kantons- und Stadtplanung mit der Funktion des Kantonsbaumeisters im neu geschaffenen Amt mit dem Namen Hochbau- und Planungsamt. Dies hat zur Folge, dass sich in den vor diesem Datum erlassenen speziellen Bauvorschriften die bisherige Amtsbezeichnung Amt für Kantons- und Stadtplanung findet, in den nach dem 1. Januar 1994 verabschiedeten Erlassen dagegen die nunmehr geltende Bezeichnung Hochbau- und Planungsamt.
 
 **I**
 
@@ -55,79 +53,127 @@ Die Redaktion der Gesetzessammlung Inhaltsverzeichnis (Originaltitel der Erlasse
 
 Nr.
 
-7 GRB betreffend die Festsetzung von speziellen Bauvorschriften für die Bebauung des Vorplatzes vor dem Gottesacker am Hörnli. Vom 23. Oktober 1930 … 5
+**5**
 
-28 GRB betreffend Genehmigung des Strassennetzes, Änderung der Zoneneinteilung und Erlass spezieller Bauvorschriften im Gebiet Im Hirshalm der Gemeinde Riehen. Vom 24. April 1947 … 6
+7 GRB betreffend die Festsetzung von speziellen Bauvorschriften für die Bebauung des Vorplatzes vor dem Gottesacker am Hörnli. Vom 23. Oktober 1930
 
-32 GRB betreffend Genehmigung einer Verbindungsstrasse zum Stettenfeld. Änderung der Zoneneinteilung und Erlass spezieller Bauvorschriften im Gebiet zwischen der Wiesentalbahn, der Landesgrenze, der Lörracherstrasse und der neuen Verbindungsstrasse (Riehen). Vom 2. Oktober 1947 … 7
+28 GRB betreffend Genehmigung des Strassennetzes, Änderung der Zoneneinteilung und Erlass spezieller Bauvorschriften im Gebiet Im Hirshalm der Gemeinde Riehen. Vom 24. April 1947
 
-54 GRB betreffend Änderung der Zoneneinteilung für das Gebiet zwischen Basel und Riehen und Erlass von speziellen Bauvorschriften für das Gebiet «Im Hirshalm» und das Areal zwischen Allmendstrasse, Grenzacherstrasse und Landauerstrasse. Vom 11. November 1954 … 8
+**6**
 
-56 GRB betreffend Änderung der Zoneneinteilung und Festsetzung von speziellen Bauvorschriften für die nördliche Seite der Bettingerstrasse zwischen der Buchhalde und der Gemeindegrenze Riehen / Bettingen. Vom 28. April 1955 … 9
+32 GRB betreffend Genehmigung einer Verbindungsstrasse zum Stettenfeld. Änderung der Zoneneinteilung und Erlass spezieller Bauvorschriften im Gebiet zwischen der Wiesentalbahn, der Landesgrenze, der Lörracherstrasse und der neuen Verbindungsstrasse (Riehen). Vom 2. Oktober 1947
 
-69 RRB betreffend Erlass spezieller Bauvorschriften «In den Weilmatten» und «In den Mühlematten» in Riehen. Vom 4. Februar 1958 … 10
+**7**
+
+54 GRB betreffend Änderung der Zoneneinteilung für das Gebiet zwischen Basel und Riehen und Erlass von speziellen Bauvorschriften für das Gebiet «Im Hirshalm» und das Areal zwischen Allmendstrasse, Grenzacherstrasse und Landauerstrasse. Vom 11. November 1954
+
+**8**
+
+56 GRB betreffend Änderung der Zoneneinteilung und Festsetzung von speziellen Bauvorschriften für die nördliche Seite der Bettingerstrasse zwischen der Buchhalde und der Gemeindegrenze Riehen / Bettingen. Vom 28. April 1955
+
+**9**
+
+**10**
+
+69 RRB betreffend Erlass spezieller Bauvorschriften «In den Weilmatten» und «In den Mühlematten» in Riehen. Vom 4. Februar 1958
 
 82a RRB betreffend Bauvorschriften für das Gebiet «Im Schlipf»in Riehen.
 
-Vom 15. Januar 1963 … 11
+**11**
 
-93 GRB betreffend Festsetzung von Bau-, Strassen- und Fussweglinien für die Oberdorfstrasse, die Sternengasse, den Gänshaldenweg, den Schützenrainweg, den Chrischonaweg, das Bückliwegli und das Gänshaldenwegli in Riehen sowie Erlass spezieller Bauvorschriften für das Gebiet zwischen der Schlossgasse und dem Gänshaldenweg. Vom 21. Mai 1964 … 13
+Vom 15. Januar 1963
 
-99 GRB betreffend Festlegung von Bau- und Strassenlinien für den Steingrubenweg und die Strasse Auf der Bischoffhöhe in Riehen; Festsetzung der Zoneneinteilung und Erlass spezieller Bauvorschriften. Vom 30. Juni 1967 … 14
+93 GRB betreffend Festsetzung von Bau-, Strassen- und Fussweglinien für die Oberdorfstrasse, die Sternengasse, den Gänshaldenweg, den Schützenrainweg, den Chrischonaweg, das Bückliwegli und das Gänshaldenwegli in Riehen sowie Erlass spezieller Bauvorschriften für das Gebiet zwischen der Schlossgasse und dem Gänshaldenweg. Vom 21. Mai 1964
 
-111 GRB betreffend Festsetzung eines Überbauungsplanes für das Areal zwischen Hungerbachhalde, Auf der Bischoffhöhe, Steingrubenweg und Lerchengsangweg in Riehen. Vom 29. Juni 1972 … 15
+**13**
 
-126 GRB betreffend Erlass spezieller Bauvorschriften für das Gebiet Römerfeldstrasse / Schäferstrasse in Riehen. Vom 26. März 1987 … 16
+99 GRB betreffend Festlegung von Bau- und Strassenlinien für den Steingrubenweg und die Strasse Auf der Bischoffhöhe in Riehen; Festsetzung der Zoneneinteilung und Erlass spezieller Bauvorschriften. Vom 30. Juni 1967
+
+**14**
+
+111 GRB betreffend Festsetzung eines Überbauungsplanes für das Areal zwischen Hungerbachhalde, Auf der Bischoffhöhe, Steingrubenweg und Lerchengsangweg in Riehen. Vom 29. Juni 1972
+
+**15**
+
+**16**
+
+126 GRB betreffend Erlass spezieller Bauvorschriften für das Gebiet Römerfeldstrasse / Schäferstrasse in Riehen. Vom 26. März 1987
 
 127 GRB betreffend Erlass spezieller Bauvorschriften für das Gebiet um die Morystrasse (Wasserstelzenweg, Vierjuchartenweg, Kornfeldstrasse, Tiefweg).
 
-Vom 26. März 1987 … 17
+**17**
 
-141 GRB betreffend Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften für das Areal «Im Glögglihof», Riehen, zwischen Äussere Baselstrasse, Bettingerstrasse, Burgstrasse und Rebenstrasse. Vom 10. Februar 1993 … 18
+Vom 26. März 1987
+
+141 GRB betreffend Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften für das Areal «Im Glögglihof», Riehen, zwischen Äussere Baselstrasse, Bettingerstrasse, Burgstrasse und Rebenstrasse. Vom 10. Februar 1993
 
 **II**
 
-152 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass spezieller Bauvorschriften für das Areal «Gehrhalde» in Riehen. Vom 12. März 1997 … 19
+**18**
+
+**19**
+
+152 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass spezieller Bauvorschriften für das Areal «Gehrhalde» in Riehen. Vom 12. März 1997
+
+**20**
 
 **III**
 
-153 GRB betreffend Erlass spezieller Bauvorschriften für das Areal «Zur Hoffnung» in Riehen. Vom 12. März 1997 … 20 Nr.
+**40**
+
+**42**
+
+153 GRB betreffend Erlass spezieller Bauvorschriften für das Areal «Zur Hoffnung» in Riehen. Vom 12. März 1997 Nr.
 
 **Seite**
 
 158 GRB betreffend Erlass spezieller Bauvorschriften im Gebiet zwischen Rössligasse, Baselstrasse und Inzlingerstrasse, Riehen (Planungszone Gartengasse).
 
-Vom 10. Mai 2000 … 21
+**21**
+
+Vom 10. Mai 2000
 
 **23**
 
 159 GRB betreffend Erlass spezieller Bauvorschriften beim Hellring Riehen (Abschnitt der Parzelle 2180 in Sektion E des Grundbuches Riehen). Vom 6. Dezember 2000
 
-161 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplanes im Gebiet Bäumlihofareal[^t-1]. Vom 24. Oktober 2001 … 24
+**24**
 
-163 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplans «Hupfer-Areal», Rüchligweg. Vom 24. April 2002 … 26
+161 Beschluss des Einwohnerrats betreffend Teilerneuerung des Bebauungsplans Nr 161 Riehen, Bäumlihofareal. Vom 31. Januar 2024
 
-166 Beschluss des Gemeinderats Riehen betreffend Erlass eines Bebauungsplans an der Rudolf Wackernagel Strasse. Vom 29. April 2003 … 27
+**26**
 
-179 Beschluss des Gemeinderates betreffend Erlass des Bebauungsplans Liegenschaften Lörracherstrasse 153 - 163. Vom 17. April 2007 … 29
+163 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplans «Hupfer-Areal», Rüchligweg. Vom 24. April 2002
 
-181 Beschluss des Einwohnerrats Riehen betreffend Bebauungsplan Bosenhaldenweg, Steingrubenweg. Vom 23. Mai 2007 … 30
+**27**
 
-199 Beschluss des Einwohnerrates Riehen betreffend Areal an der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011 … 32
+166 Beschluss des Gemeinderats Riehen betreffend Erlass eines Bebauungsplans an der Rudolf Wackernagel Strasse. Vom 29. April 2003
 
-201 Beschluss des Einwohnerrats Riehen betreffend die Zonenänderung und den Bebauungsplan für die Parzelle RD 770 und 2095 am Kohlistieg, am Rüchligweg, an der Rauracherstrasse (Planfestsetzungsbeschluss). Vom 29. November 2012 … 34
+**29**
 
-219 Beschluss des Gemeinderates Riehen i. S. Bebauungsplan für die Parzellen RB 1099 und 1092 an der Lörracherstrasse 139 (Planfestsetzungsbeschluss).
+179 Beschluss des Gemeinderates betreffend Erlass des Bebauungsplans Liegenschaften Lörracherstrasse 153 - 163. Vom 17. April 2007
 
-Vom 4. März 2014 … 36
+**30**
 
-224 Beschluss des Einwohnerrates Riehen betreffend Nutzungsplanung des Gebietes Stettenfeld. Vom 27. November 2014 … 38
+181 Beschluss des Einwohnerrats Riehen betreffend Bebauungsplan Bosenhaldenweg, Steingrubenweg. Vom 23. Mai 2007
 
-227 Planfestsetzungsbeschluss des Gemeinderates Riehen zum Bebauungsplan Liegenschaft Kilchgrundstrasse 62 und 70 (Riehen Sektion D, Parzellen Nr. 0121 / 0120). Vom 7. Februar 2017 … 40
+**32**
 
-231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und in den Wenkenmatten.
+199 Beschluss des Einwohnerrates Riehen betreffend Areal an der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011
 
-Vom 27. November 2014 … u4n2d 24. September 2015 Riehen Gottesacker am Hörnli: Vorplatz
+201 Beschluss des Einwohnerrats Riehen betreffend die Zonenänderung und den Bebauungsplan für die Parzelle RD 770 und 2095 am Kohlistieg, am Rüchligweg, an der Rauracherstrasse (Planfestsetzungsbeschluss). Vom 29. November 2012
+
+**34**
+
+219 Beschluss des Gemeinderates Riehen i. S. Bebauungsplan für die Parzellen RB 1099 und 1092 an der Lörracherstrasse 139 (Planfestsetzungsbeschluss). Vom 4. März 2014 36
+
+**38**
+
+224 Beschluss des Einwohnerrates Riehen betreffend Nutzungsplanung des Gebietes Stettenfeld. Vom 27. November 2014
+
+227 Planfestsetzungsbeschluss des Gemeinderates Riehen zum Bebauungsplan Liegenschaft Kilchgrundstrasse 62 und 70 (Riehen Sektion D, Parzellen Nr. 0121 / 0120). Vom 7. Februar 2017
+
+231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und in den Wenkenmatten. Vom 27. November 2014 und 24. September 2015 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -143,7 +189,7 @@ Die Gebäude müssen aus dem Erdgeschoss und zwei Stockwerken bestehen. Die Fens
 
 III.
 
-Über die Wahl der sichtbaren Baumaterialien und die farbige Gestaltung der Fassaden werden keine bindenden Detailvorschriften aufgestellt. Es wird nur verlangt, dass der Gesamteindruck der Gebäude ein ruhiger und einheitlicher sei. Dem zuständigen Departement sind besondere detaillierte Vorlagen über die Fassadengestaltung in bezug auf Form, Material und Farbe zu unterbreiten.[^t-2]
+Über die Wahl der sichtbaren Baumaterialien und die farbige Gestaltung der Fassaden werden keine bindenden Detailvorschriften aufgestellt. Es wird nur verlangt, dass der Gesamteindruck der Gebäude ein ruhiger und einheitlicher sei. Dem zuständigen Departement sind besondere detaillierte Vorlagen über die Fassadengestaltung in bezug auf Form, Material und Farbe zu unterbreiten.[^t-1]
 
 IV.
 
@@ -151,17 +197,19 @@ Die Pläne zu sämtlichen, den Platz umgebenden Gebäuden sind dem Regierungsrat
 
 V.
 
-Zur Sicherung der Erhaltung des einheitlichen Platzeindruckes dürfen Veränderungen an den Fassaden bei Anlass von Renovationsarbeiten nur mit Genehmigung des zuständigen Departements vorgenommen werden.[^t-3] Die jeweiligen Liegenschaftseigentümer sind deshalb verpflichtet, in solchen Fällen dem Bauinspektorat ein Baubegehren einzureichen.
+Zur Sicherung der Erhaltung des einheitlichen Platzeindruckes dürfen Veränderungen an den Fassaden bei Anlass von Renovationsarbeiten nur mit Genehmigung des zuständigen Departements vorgenommen werden.[^t-2] Die jeweiligen Liegenschaftseigentümer sind deshalb verpflichtet, in solchen Fällen dem Bauinspektorat ein Baubegehren einzureichen.
 
 VI.
 
-Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.[^t-4]
+Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.[^t-3]
+
+**IV**
 
 Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
 
 Riehen Im Hirshalm / Niederholzstrasse / Äussere Baselstrasse / Bäumlihofstrasse / In den Neumatten / Rauracherstrasse / Keltenweg
 
-GRB vom 24. April 1947[^t-5]
+GRB vom 24. April 1947[^t-4]
 
 1.
 
@@ -173,21 +221,19 @@ Gemäss § 8 des Hochbautengesetzes werden für das im Plan des Amtes für Kanto
 
 - a) Die zulässige Höhe der gegen die Allmend und gegen die Nachbargrenze gerichteten Gebäudewände wird auf 10 m beschränkt.
 
-- b) Sämtliche Bauten müssen in Zeilen entlang der Bäumlihofstrasse, den Strassen In den Neumatten und Im Hirshalm sowie entlang der Wettingerstrasse[^t-6] (ganze Südwestseite und im Abschnitt Äussere Baselstrasse - In den Neumatten[^t-7] auch nordöstliche Strassenseite) erstellt werden.
+- b) Sämtliche Bauten müssen in Zeilen entlang der Bäumlihofstrasse, den Strassen In den Neumatten und Im Hirshalm sowie entlang der Wettingerstrasse[^t-5] (ganze Südwestseite und im Abschnitt Äussere Baselstrasse - In den Neumatten[^t-6] auch nordöstliche Strassenseite) erstellt werden.
 
 - c) Gebäude und Gebäudegruppen sind in diesem Gebiet auf die Länge von drei Doppelwohnhäusern beschränkt. Jede Gebäudegruppe ist nach einheitlichen Plänen auszuführen.
 
 - d) In den Gärten dürfen nur Bauten errichtet werden, die nicht mehr als 4 m Wandhöhe und 5 m Gesamthöhe aufweisen und nicht mehr als 20 % der Gartenfläche beanspruchen. Für Anbauten gelten dieselben Beschränkungen.
 
-- e)[^t-8] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
+- e)[^t-7] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
 
 lassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.
 
-Dieser Beschluss ist zu publizieren; er wird, weil dringlicher Natur, dem Referendum entzogen.
+Dieser Beschluss ist zu publizieren; er wird, weil dringlicher Natur, dem Referendum entzogen. Riehen Wiesentalbahn / Landesgrenze: BRD / Lörracherstrasse
 
-Riehen Wiesentalbahn / Landesgrenze: BRD / Lörracherstrasse
-
-GRB vom 2. Oktober 1947[^t-9]
+GRB vom 2. Oktober 1947[^t-8]
 
 1.
 
@@ -203,13 +249,13 @@ Gemäss § 8 des Hochbautengesetzes werden für das im Plan des Amtes für Kanto
 
 - c) Dachausbauten sind nur in sehr beschränktem Umfange gestattet.
 
-- d)[^t-10] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
+- d)[^t-9] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
 
 lassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.
 
 Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
 
-Riehen Im Hirshalm[^t-11] / Gebiet westlich der Gotenstrasse[^t-12] Basel / Allmendstrasse / Grenzacherstrasse / Landauerstrasse
+Riehen Im Hirshalm[^t-10] / Gebiet westlich der Gotenstrasse[^t-11] Basel / Allmendstrasse / Grenzacherstrasse / Landauerstrasse
 
 GRB vom 11. November 1954
 
@@ -217,7 +263,7 @@ GRB vom 11. November 1954
 
 <sup>2</sup> Der Grosse Rat erlässt ferner, gestützt auf § 8 des Hochbautengesetzes, die folgenden besonderen Bauvorschriften:
 
-- 1\. Für das von der Bauzone 2 in die Bauzone 3 versetzte Gebiet Im Hirshalm[^t-11] gelten gemäss Plan Nr. 6875 des Amtes für Kantons- und Stadtplanung vom 1. September 1953 die folgenden Beschränkungen:[^t-12]
+- 1\. Für das von der Bauzone 2 in die Bauzone 3 versetzte Gebiet Im Hirshalm[^t-10] gelten gemäss Plan Nr. 6875 des Amtes für Kantons- und Stadtplanung vom 1. September 1953 die folgenden Beschränkungen:[^t-11]
 
 - a) Westlich der Gotenstrasse sind die Baublöcke senkrecht zu dieser Strasse zu stellen, wobei die Blocklänge höchstens 46 m betragen darf.
 
@@ -231,11 +277,11 @@ GRB vom 11. November 1954
 
 - f) Von der Gartenfläche dürfen nicht mehr als 20 % überbaut werden. In den Gärten dürfen nur Bauten errichtet werden, die nicht mehr als 4 m Wandhöhe und 5 m Gesamthöhe aufweisen. Für Anbauten gelten die gleichen Beschränkungen.
 
-- g)[^t-13] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
+- g)[^t-12] Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzu-
 
 lassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.
 
-2.[^t-14] In dem der Zone 2a zugewiesenen Gebiet zwischen Allmendstrasse, Grenzacherstrasse und Landauerstrasse kann das zuständige Departement aus besonderen städtebaulichen Erwägungen ausnahmsweise eine grössere Gebäudehöhe und Geschosszahl bewilligen, sofern dadurch die Ausnützungsziffer, die sich bei einer üblichen zonenmässigen Überbauung ergeben würde, nicht überschritten wird.
+2.[^t-13] In dem der Zone 2a zugewiesenen Gebiet zwischen Allmendstrasse, Grenzacherstrasse und Landauerstrasse kann das zuständige Departement aus besonderen städtebaulichen Erwägungen ausnahmsweise eine grössere Gebäudehöhe und Geschosszahl bewilligen, sofern dadurch die Ausnützungsziffer, die sich bei einer üblichen zonenmässigen Überbauung ergeben würde, nicht überschritten wird.
 
 Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
 
@@ -265,7 +311,7 @@ Zwischen den Punkten A und B müssen sämtliche Bauten mit Ausnahme erdgeschossi
 
 Einfriedigungen und Grünhecken dürfen längs der Bettingerstrasse die Höhe von 1,20 m nicht überschreiten.
 
-- e)[^t-15]
+- e)[^t-14]
 
 Das zuständige Departement wird ermächtigt, Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Aussicht in die Rheinebene und die Gesamtkonzeption der Bebauung nicht beeinträchtigt werden.
 
@@ -295,31 +341,30 @@ Auf dem im Plan Nr. 7586 des Amtes für Kantons- und Stadtplanung vom 11. April 
 
 - 5\. Einfriedigungen sind nur in Form von Drahtzäunen und durchsichtigen Hecken zulässig.
 
-III.[^t-16]
+III.[^t-15]
 
 IV.
 
-Für Bauten zu landwirtschaftlichen Zwecken auf entsprechend grossen Parzellen kann der Regierungsrat Ausnahmen von diesen Vorschriften bewilligen; die oberirdische Bruttogeschossfläche aller Bauten einer Parzelle darf jedoch 20 % der Parzellenfläche nicht übersteigen.[^t-17]
+Für Bauten zu landwirtschaftlichen Zwecken auf entsprechend grossen Parzellen kann der Regierungsrat Ausnahmen von diesen Vorschriften bewilligen; die oberirdische Bruttogeschossfläche aller Bauten einer Parzelle darf jedoch 20 % der Parzellenfläche nicht übersteigen.[^t-16]
 
 Dieser Beschluss ist zu publizieren.
 
-[^t-1]: Titel gekürzt. IV
-[^t-2]: Ziff. III: Vorausgehender Satz in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-3]: Ziff. V: Vorausgehender Satz in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-4]: Ziff. VI in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-5]: Siehe auch GRB Nr. 54 vom 11. 11. 1954.
-[^t-6]: Heute: Rauracherstrasse.
-[^t-7]: Heute: Bäumlihofstrasse.
-[^t-8]: Ziff. 3 lit. e in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-9]: Reduktion des Geltungsbereiches durch Ziff. 2 des GRB vom 16. 5. 1968 (CG Bd. 48, 1966 - 1968, S. 918).
-[^t-10]: Ziff. 3 lit. d in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-11]: Siehe auch GRB Nr. 28 vom 24. 4. 1947.
-[^t-12]: Gebietsreduktion anlässlich der Zonenplanrevision (GRB vom 26. 3. 1987, KtBl 1987 I 425).
-[^t-13]: Abs. 2 Ziff. 1 lit. g in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-14]: Abs. 2 Ziff. 2 in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-15]: Lit. e in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-[^t-16]: Ziff. III aufgehoben durch § 16 der Grundwasserverordnung vom 19. 6. 1984.
-[^t-17]: Ziff. IV in der Fassung des RRB vom 14. 8. 1973.
+[^t-1]: Ziff. III: Vorausgehender Satz in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-2]: Ziff. V: Vorausgehender Satz in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-3]: Ziff. VI in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-4]: Siehe auch GRB Nr. 54 vom 11. 11. 1954.
+[^t-5]: Heute: Rauracherstrasse.
+[^t-6]: Heute: Bäumlihofstrasse.
+[^t-7]: Ziff. 3 lit. e in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-8]: Reduktion des Geltungsbereiches durch Ziff. 2 des GRB vom 16. 5. 1968 (CG Bd. 48, 1966 - 1968, S. 918).
+[^t-9]: Ziff. 3 lit. d in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-10]: Siehe auch GRB Nr. 28 vom 24. 4. 1947.
+[^t-11]: Gebietsreduktion anlässlich der Zonenplanrevision (GRB vom 26. 3. 1987, KtBl 1987 I 425).
+[^t-12]: Abs. 2 Ziff. 1 lit. g in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-13]: Abs. 2 Ziff. 2 in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-14]: Lit. e in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
+[^t-15]: Ziff. III aufgehoben durch § 16 der Grundwasserverordnung vom 19. 6. 1984.
+[^t-16]: Ziff. IV in der Fassung des RRB vom 14. 8. 1973.
 
 ## 82a
 
@@ -441,9 +486,7 @@ Der Grosse Rat des Kantons Basel-Stadt, auf Antrag des Regierungsrates und gest�
 
 3.
 
-Für das im Plan Nr. 9203 des Amtes für Kantons- und Stadtplanung vom 13. Oktober 1966 blau schraffierte Gebiet[^hRiehenSteingrubenwe-1], mit Ausnahme des im Plan Nr. 11‘821 des Amtes für Kantons- und Stadtplanung vom 21. Oktober 1993 blau umrandeten Gebietes[^hRiehenSteingrubenwe-2], werden folgende spezielle Bauvorschriften erlassen:[^hRiehenSteingrubenwe-3]
-
-- a) Es dürfen nur Ein- und Zweifamilienhäuser erstellt werden; für jedes Haus ist der Nachweis zu erbringen, dass eine bzw. zwei Garagen plaziert werden können.
+Für das im Plan Nr. 9203 des Amtes für Kantons- und Stadtplanung vom 13. Oktober 1966 blau schraffierte Gebiet[^hRiehenSteingrubenwe-1], mit Ausnahme des im Plan Nr. 11‘821 des Amtes für Kantons- und Stadtplanung vom 21. Oktober 1993 blau umrandeten Gebietes[^hRiehenSteingrubenwe-2], werden folgende spezielle Bauvorschriften erlassen:[^hRiehenSteingrubenwe-3] a) Es dürfen nur Ein- und Zweifamilienhäuser erstellt werden; für jedes Haus ist der Nachweis zu erbringen, dass eine bzw. zwei Garagen plaziert werden können.
 
 - b) Der Erdgeschossfussboden darf Mitte Haus bei zweigeschossiger Bauweise nicht mehr als 1,20 m über dem Terrain liegen.
 
@@ -719,7 +762,7 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird nach 
 
 GRB vom 6. Dezember 2000
 
-Der Grosse Rat des Kantons Basel-Stadt, auf Antrag seiner Kommission für Raumplanungsfragen und gestützt auf § 8 des Hochbautenge-setzes (HBG) vom 11. Mai 1939, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, auf Antrag seiner Kommission für Raumplanungsfragen und gestützt auf § 8 des Hochbautengesetzes (HBG) vom 11. Mai 1939, beschliesst:
 
 1.
 
@@ -743,45 +786,51 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird nach 
 
 ### Riehen Bäumlihofareal (Gebiet) / Aeussere Baselstrasse / Bäumlihofstrasse / Kleinriehen-Promenade
 
-Einwohnerratsbeschluss vom 24. Oktober 2001[^hRiehenBäumlihofarea-1]
+Einwohnerratsbeschluss vom 31. Januar 2024[^hRiehenBäumlihofarea-1]
 
-Der Einwohnerrat der Gemeinde Riehen, auf Antrag des Gemeinderats und gestützt auf § 101 des Bau- und Planungsgesetzes vom 17. November 1999[^hRiehenBäumlihofarea-2], beschliesst:
+Der Einwohnerrat der Gemeinde Riehen, gestützt auf §§ 95, 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999[^hRiehenBäumlihofarea-2], auf Antrag des Gemeinderats und der Sachkommission Siedlung, Umwelt und Landschaft (SSUL) beschliesst:
 
 1.
 
-Der Plan Nr. 10‘902 des Amts für Kantons- und Stadtplanung vom 15. April 1981, übertragen in den Plan Nr. 12‘424 des Hochbau- und Planungsamts, Hauptabteilung Planung, vom 7. Juni 1999, wird aufgehoben.
+Der Bebauungsplan Nr. 114.01.001 vom 19. September 2023 betreffend das Gebiet Bäumlihofareal / Aeussere Baselstrasse / Bäumlihofstrasse / Kleinriehen-Promenade in Riehen wird festgesetzt.
 
 2.
 
-Der Plan Nr. 12‘425 des Hochbau- und Planungsamts, Hauptabteilung Planung, vom 26. Mai 2000, wird für verbindlich erklärt.
+Zum Bebauungsplan werden folgende Bauvorschriften erlassen:
 
-3.
+- a) Zulässig sind Bauten innerhalb der Baufelder A1 - A4 und B1 - B5.
 
-Für das im Plan Nr. 12‘425 gekennzeichnete Gebiet werden folgende Bauvorschriften erlassen:
+- b) In den Baufeldern A1 - A4 dürfen als Neubauten Einzelhäuser (Ein- und Zweifamilienhäuser) sowie Wintergärten / Orangerien / Dependancen, die einen funktionellen Zusammenhang mit den Wohnhäusern aufweisen, erstellt werden.
 
-- a) Zulässig sind Bauten innerhalb der Baufelder A1 - A4 und B1 - B3.
+- c) Im Baufeld B1 (Villa) ist Wohnen sowie eine gewerbliche Nutzung als Tagungs- und Veranstaltungsräume zulässig. Als Neubauten für gewerbliche Nutzung dürfen im Baufeld B2 (Gartenhaus) ein Restaurant, im Baufeld B3 (Parkpavillon) Tagungs- und Veranstaltungsräume, im Baufeld B4 (Bassinpavillon) ein Gartenpavillon, im Baufeld B5 eine Remise erstellt werden.
 
-- b) Als Neubauten dürfen Einzelhäuser (Ein- und Zweifamilienhäuser) sowie Wintergärten / Orangerien / Dependancen, die einen funktionellen Zusammenhang mit den Wohnhäusern aufweisen, erstellt werden.
+- d) Pro Baubereich A1 - A4 ist nur ein Einzelhaus zulässig. Die überbaubare Fläche beträgt in den Baufeldern A1 - A4 200 m², im Baufeld B2 (Gartenhaus) 350 m², im Baufeld B3 (Parkpavillon) 400 m², im Baufeld B4 (Bassinpavillon) 30 m² und im Baufeld B5 (Remise) 45 m². Pro Einzelhaus der Baufelder A1 - A4 werden zwei Garagen von je 20 m² Grundfläche nicht zur überbauten Fläche gerechnet.
 
-- c) Pro Baubereich ist nur ein Einzelhaus zulässig. Die überbaubare Fläche beträgt in den Baufeldern A1 - A4 sowie B2 200 m<sup>2</sup>, im Baubereich B1 400 m<sup>2</sup> (wovon maximal 300 m<sup>2</sup> zweigeschossig), im Baubereich B3 375 m<sup>2</sup> (wovon maximal 200 m<sup>2</sup> zweigeschossig). Pro Einzelhaus werden zwei Garagen von je 20 m<sup>2</sup> Grundfläche nicht zur überbauten Fläche gerechnet.
+- e) In den Baufeldern A1 - A4 beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 11,0 m. Im Baufeld B2 (Gartenhaus) beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 6,0 m; im Baufeld B3 (Parkpavillon) beträgt die zulässige Wandhöhe der Bauten 6.5 m, die Gebäudehöhe 9,0 m; im Baufeld B4 (Bassinpavillon) beträgt die zulässige Gebäudehöhe 7,0 m; im Baufeld B5 (Remise) beträgt die zulässige Wandhöhe der Bauten 3 m, die Firsthöhe 5,5 m. First- und Gebäudehöhe wird ab dem gewachsenen Terrain gemessen. Ausgenommen davon sind zonenkonforme Veränderungen an den historischen Bauten; diese richten sich nach den bestehenden First- und Wandhöhen. Für die Gebäude B2 - B5 sind im Plan Nr. 114.01.001 vom 19. September 2023 Messpunkte für das gewachsene Terrain angegeben. Über das Baufeld B2 ragende Dachvorsprünge sind zulässig und im Bebauungsplan schema tisch dargestellt.
 
-- d) In den Baufeldern A1 - A4 sowie B2 für die gesamte Fläche, im Baubereich B1 für maximal 300 m<sup>2</sup>, im Baubereich B3 für maximal 200 m<sup>2</sup> beträgt die zulässige Wandhöhe der Bauten 6,0 m, die Firsthöhe 11,0 m, ab dem gewachsenen Terrain gemessen; zudem beträgt im Baubereich B1 bei mindestens 100 m<sup>2</sup>, im Baubereich B3 bei mindestens 175 m<sup>2</sup> die zulässige Wandhöhe der Bauten 4,0 m, die Firsthöhe 8,0 m, ab dem gewachsenen Terrain gemessen. Ausgenommen davon sind zonenkonforme Veränderungen an den historischen Bauten; diese richten sich nach den bestehenden First- und Wandhöhen.
+- f) Die Neubauten der Baufelder B2 und B3 haben den Minergie A-Standard oder einen vergleichbaren Standard zu erfüllen. Innerhalb der schraffierten Baufelder E ist die unterirdische Nutzung zur Energiegewinnung und -verteilung zulässig.
 
-- e) Im Baubereich B3 kann ein terrainbündiges unüberdecktes Schwimmbassin in der maximalen Grösse von 200 m<sup>2</sup> angelegt werden.
+- g) Die bestehenden Naturwerte ausserhalb der Baufelder B1 - B5 der Parzelle RC 0066 sind zu erhalten und zu fördern. Diese Bereiche können unter Berücksichtigung der denkmalpflegerischen Anliegen im Sinne einer Grün- und Parkanlage inkl. Möblierung naturverträglich und zurückhaltend genutzt und weiterentwickelt werden. Von dieser Nutzung ausgenommen ist das im Plan eingezeichnete Vorranggebiet Natur (Planmarkierung N). Die Umgestaltungen und der Unterhalt der Grün- und Parkanlage haben nach ökologischen, denk- und gartendenkmalpflegerischen Kriterien gemäss Zielbild Hirzen vom 19. September 2023 zu erfolgen.
 
-- f) Einfriedigungen entlang des Perimeters der speziellen Bauvorschriften dürfen nur als Grünhecken in Erscheinung treten. Im südlichen Abschnitt an der Grenze des Perimeters der speziellen Bauvorschriften (Planmarkierung T) kann ein repräsentativer Eingang, der zu beiden Sei-
+- h) Im Vorranggebiet Natur (Planmarkierung N) sind die Naturwerte geschützt und keine Nutzungen zulässig. Die naturräumlichen Qualitäten sind weiter aufzuwerten und die Vernetzung mit den umliegenden Naturwerten sicherzustellen. Die Umgestaltungen und der Unterhalt dieser Fläche hat nach ökologischen Kriterien gemäss Zielbild Hirzen vom 19. September 2023 zu erfolgen.
 
-ten von einem Staketenzaun von maximal 5 m Länge eingefasst ist, errichtet werden.
+- i) Einfriedigungen entlang des Perimeters des Bebauungsplans dürfen nur als Hecken in Erscheinung treten und müssen für Wildtiere durchlässig sein. Die Beleuchtung darf die ökologischen Werte, insbesondere die nachtaktiven Tiere, nicht beeinträchtigen.
 
-- g) Massstäblichkeit, Materialien und Farben haben sich der bestehenden Bebauung anzupassen und sind im Einvernehmen mit den zuständigen Instanzen zu bestimmen.
+- j) Auf der Parzelle RC 0066 können zwei Autoabstellplätze (Planmarkierung P) mit einer Gesamtfläche von 35 m² sowie 30 Veloparkplätze (Planmarkierung V) errichtet werden. Das Mobilitätskonzept vom 07. Februar 2023 zur Ausrichtung als autofreies Areal ist als Vorgabe im Bauprojekt sowie im Betrieb einzuhalten.
 
-- h) Das zuständige Departement ist ermächtigt, Abweichungen von diesen Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird und der Gemeinderat Riehen zustimmt.
+- k) Massstäblichkeit, Materialien und Farben haben sich der bestehenden Bebauung anzupassen und sind im Einvernehmen mit den zuständigen Instanzen zu bestimmen.
 
-Dieser Beschluss ist zu publizieren; er unterliegt dem fakultativen Referendum.[^hRiehenBäumlihofarea-3]
+- l) Die Baubewilligungsbehörde wird ermächtigt, geringfügige Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung und das Siedlungsbild nicht beeinträchtigt werden und der Gemeinderat zustimmt.
 
-[^hRiehenBäumlihofarea-1]: Vom Baudepartement genehmigt am 19. 7. 2002.
+**3.**
+
+Der Bebauungsplan Nr. 161 vom 24. Oktober 2001 und die dazugehörenden Vorschriften werden aufgehoben.
+
+Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und bedarf der Genehmigung durch das Bau- und Verkehrsdepartement. Der Gemeinderat bestimmt den Zeitpunkt des Inkrafttretens.[^hRiehenBäumlihofarea-3]
+
+[^hRiehenBäumlihofarea-1]: Vom Bau- und Verkehrsdepartement genehmigt am 30. 4. 2024.
 [^hRiehenBäumlihofarea-2]: SG 730.100.
-[^hRiehenBäumlihofarea-3]: Wirksam seit 26. 11. 2001.
+[^hRiehenBäumlihofarea-3]: In Kraft seit 10. 05. 2024.
 
 ### Riehen «Hupfer-Areal» / Rüchligweg
 
@@ -821,7 +870,7 @@ Für das im Plan Nr. 11‘2839/01 gekennzeichnete Gebiet werden folgende Bauvors
 
 Dieser Beschluss wird publiziert; er unterliegt dem Referendum.[^hRiehenHupferAreal-3]
 
-[^hRiehenHupferAreal-1]: Vom Baudepartement genehmigt am 31. 7. 2002.
+[^hRiehenHupferAreal-1]: Vom Bau- und Verkehrsdepartement genehmigt am 31. 7. 2002.
 [^hRiehenHupferAreal-2]: SG 730.100.
 [^hRiehenHupferAreal-3]: Wirksam seit 27. 5. 2002.
 
@@ -1100,7 +1149,7 @@ Der Einwohnerrat beschliesst auf Antrag des Gemeinderats und der Sachkommission 
 
 2.4. Geringfügige Abweichungen, Ausnahmen
 
-Der Gemeinderat wird ermächtigt, Abweichungen von den Bauvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden.
+Der Gemeinderat wird ermächtigt, Abweichungen von den Bauvorschriften zuzulassen, sofern da-durch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden.
 
 Dieser Beschluss wird publiziert; er unterliegt dem Referendum und der Genehmigung durch das Bau- und Verkehrsdepartement. Der Gemeinderat stellt nach Eintritt der Rechtskraft die Wirksamkeit fest.[^hRiehenKohlistieg-3]
 
