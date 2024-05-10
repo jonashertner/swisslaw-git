@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de la loi fédérale sur le droit pénal administratif (DPA)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision des Bundesgesetzes über das Verwaltungsstrafrecht (VStrR)
 document: Vernehmlassungsvorlage
 language: de

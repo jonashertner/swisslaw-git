@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale della legge federale sul diritto penale amministrativo (DPA)
 document: Progetto posto in consultazione
 language: it
