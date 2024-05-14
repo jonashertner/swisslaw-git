@@ -4,22 +4,22 @@ title: "Ordonnance du 14 mars 1994 sur la construction et l'exploitation des bat
 short: OCEB
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: fr
-version: 2021-02-01
+version: 2024-05-15
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20240515/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20240515-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20240515/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur la construction et l’exploitation des bateaux et des installations des entreprises publiques de navigation
+# Ordonnance sur la construction et l’exploitation des bateaux et des installations pour le transport professionnel de voyageurs
 
-(Ordonnance sur la construction des bateaux, OCEB)**[^t-1]**
+(Ordonnance sur la construction des bateaux, OCEB)[^t-1]
 
-du 14 mars 1994 (Etat le 1<sup>er</sup> février 2021)
+du 14 mars 1994 (État le 15 mai 2024)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 Le Conseil fédéral suisse,
 
@@ -36,16 +36,18 @@ arrête:
 
 **Objet**[^1-1]
 
-<sup>1</sup> La présente ordonnance régit la construction et l’exploitation des bateaux et des installations d’infrastructure des entreprises publiques de navigation.
+<sup>1</sup> La présente ordonnance régit la construction et l’exploitation des bateaux et des installations d’infrastructure pour le transport professionnel de voyageurs.[^1-2]
 
-<sup>2</sup> Seuls les art. 5 à 14, 17 à 19, 21 à 40, 43, 44, al. 1 à 3, 45, al. 1 et 2, 45*a*, 46, 47, 48, al. 1, 49 à 51, 57 et 57*a*, ainsi que les dispositions d’exécution afférentes du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC), s’appliquent à la construction, à l’équipement et à l’exploitation des bateaux à passagers des entreprises de navigation qui ne sont pas au bénéfice d’une concession fédérale.
+<sup>2</sup> Seuls les art. 5 à 14, 17 à 19, 21 à 40, 43, 44, al. 1 à 3, 45, al. 1 et 2, 45*a*, 46, 47, 48, al. 1, 49 à 51, 57, 57*a* et 57*b*, ainsi que les dispositions d’exécution afférentes du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC), s’appliquent à la construction, à l’équipement et à l’exploitation des bateaux à passagers des entreprises de navigation qui ne sont pas au bénéfice d’une concession fédérale.[^1-3]
 
-<sup>3</sup> Seuls les art. 22, 27, al. 1 et 2, 28 à 36, 38 et 39 de la présente ordonnance et les dispositions d’exécution afférentes du DETEC ainsi que les art. 107 à 114, 124 et 131 à 140*a* de l’ordonnance du 8 novembre 1978 sur la navigation intérieure (ONI)[^1-2] s’appliquent à la construction, à l’équipement et à l’exploitation des bateaux destinés au transport professionnel de douze passagers au plus.
+<sup>3</sup> Seuls les art. 22, 27, al. 1 et 2, 28 à 36, 38 et 39 de la présente ordonnance et les dispositions d’exécution afférentes du DETEC ainsi que les art. 107 à 114, 124 et 131 à 140*a* de l’ordonnance du 8 novembre 1978 sur la navigation intérieure (ONI)[^1-4] s’appliquent à la construction, à l’équipement et à l’exploitation des bateaux destinés au transport professionnel de douze passagers au plus.
 
 <sup>4</sup> Les conventions internationales et les prescriptions afférentes sont réservées.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^1-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-4]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 2
 
@@ -80,7 +82,7 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 4
 
-**Emoluments**
+**Émoluments**
 
 L’OFT[^4-1] perçoit des émoluments conformément à l’ordonnance du 1<sup>er</sup> juillet 1987 sur les émoluments relatifs aux tâches de l’Office fédéral des transports[^4-2].
 
@@ -111,6 +113,7 @@ Peuvent être consultées en tant qu’experts uniquement les personnes physique
 
 - a. qui, dans le domaine à examiner, ont accompli une formation ou suivi une formation continue adaptée à la complexité et à l’importance du projet sur le plan de la sécurité;
 - b. qui ont conçu, construit ou monté sur des bateaux des installations ou des sous-systèmes comparables aux installations ou aux sous-systèmes à inspecter, ou inspecté et expertisé elles-mêmes de tels installations ou sous-systèmes;
+- b<sup>bis</sup>.[^5a-2] qui ont une connaissance approfondie des prescriptions en la matière et des règles de l’art telles que les normes, les règlements et les règles techniques, et
 - c. qui sont indépendantes.
 
 <sup>2</sup>
@@ -124,6 +127,7 @@ Une personne est réputée indépendante:
 <sup>3</sup> Des personnes morales peuvent exercer la fonction d’experts à condition qu’elles emploient des experts qui satisfont aux conditions énoncées à l’al. 1.
 
 [^5a-1]: Introduit par le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^5a-2]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 6
 
@@ -131,9 +135,11 @@ Une personne est réputée indépendante:
 
 <sup>1</sup> L’aménagement du territoire, la protection de l’environnement, de la nature et du paysage doivent être pris en considération lors de la planification, de la construction, de l’exploitation et de la maintenance des installations d’infrastructure.
 
-<sup>2</sup> Les besoins des personnes handicapées doivent être intégrés de manière appropriée dans la planification, la construction et l’exploitation des bateaux et des installations d’infrastructure.
+<sup>2</sup> Les besoins des personnes handicapées doivent être intégrés dans la planification, la construction et l’exploitation des bateaux et des installations d’infrastructure en tenant compte du principe de proportionnalité. Il s’agit notamment de respecter les exigences fonctionnelles au sens du chap. 2 de l’ordonnance du 12 novembre 2003 sur les aménagements visant à assurer l’accès des personnes handicapées aux transports publics (OTHand)[^6-2]. Le DETEC spécifie ces exigences dans les dispositions d’exécution édictées en vertu de l’art. 55 de la présente ordonnance et de l’art. 8 OTHand.[^6-3]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^6-2]: [RS 151.34](https://fedlex.data.admin.ch/eli/cc/2003/669)
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 7
 
@@ -143,14 +149,15 @@ En l’absence de prescriptions contraires dans la présente ordonnance et dans 
 
 - a. à la construction, à l’exploitation et à la maintenance des parties électriques des bateaux et des installations d’infrastructure: la législation fédérale en matière d’électricité, notamment l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^7-2];
 - b. à l’utilisation d’appareils à air comprimé et de chaudières à vapeur: l’ordonnance du 15 juin 2007 relative à l’utilisation des équipements sous pression[^7-3];
-- c. aux moteurs: l’ordonnance du 13 décembre 1993 sur les prescriptions relatives aux gaz d’échappement des moteurs de bateaux dans les eaux suisses[^7-4];
-- d. à l’équipement des bateaux en feux et appareils sonores: l’ONI[^7-5].
+- c.[^7-4] aux moteurs: l’ordonnance du 14 octobre 2015 sur les moteurs de bateaux[^7-5];
+- d. à l’équipement des bateaux en feux et appareils sonores: l’ONI[^7-6].
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^7-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^7-3]: [RS 832.312.12](https://fedlex.data.admin.ch/eli/cc/2007/393)
-[^7-4]: [[RO 1993 3333](https://fedlex.data.admin.ch/eli/oc/1993/3333_3333_3333), [1997 558](https://fedlex.data.admin.ch/eli/oc/1997/558_558_558), [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)annexe ch. 7, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 71, [2007 2313](https://fedlex.data.admin.ch/eli/oc/2007/323), [2008 301](https://fedlex.data.admin.ch/eli/oc/2008/74). [RO 2015 4401](https://fedlex.data.admin.ch/eli/oc/2015/731)art. 20]. Voir actuellement l’O du 14 oct. 2015 sur les moteurs de bateaux([RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)).
-[^7-5]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^7-5]: [RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
+[^7-6]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 8
 
@@ -241,7 +248,7 @@ Les entreprises de navigation édictent les prescriptions d’exploitation néce
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^15-2]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 
-## Chapitre 2**** Approbation des plans
+## Chapitre 2 Approbation des plans
 
 [^chap2-1]
 
@@ -290,13 +297,15 @@ Pour chaque bateau, il y a lieu de prouver, moyennant un rapport de sécurité:
   - 1\. à garantir la sécurité de l’exploitation, et
   - 2\. à être entretenues et contrôlées facilement.
 
-<sup>4</sup> Le DETEC définit l’étendue des documents supplémentaires à joindre à la demande d’approbation des plans.
+<sup>4</sup> Le DETEC définit l’étendue des documents à joindre à la demande d’approbation des plans dans les dispositions d’exécution édictées en vertu de l’art. 55.[^17-1]
 
 <sup>5</sup> L’autorité compétente peut exiger du requérant qu’il fasse examiner tout ou partie des documents par un expert.
 
 <sup>6</sup> Elle peut examiner elle-même les plans et les calculs ou les faire examiner par un expert. Dans ce dernier cas, l’expert doit consigner ses conclusions dans un rapport d’examen d’expert.
 
 <sup>7</sup> Elle peut simplifier la procédure d’approbation des plans pour les bateaux, les éléments de construction et les objets d’équipement qui sont utilisés plusieurs fois de la même manière et pour la même fonction.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 17a
 
@@ -308,16 +317,15 @@ Pour chaque bateau, il y a lieu de prouver, moyennant un rapport de sécurité:
 
 #### Art. 17b
 
-**Chaudières à vapeur et installations à air comprimé**
-
-<sup>1</sup>
+**Chaudières à vapeur et installations à air comprimé**[^17b-1]
 
 L’entreprise de navigation est tenue de présenter à l’autorité compétente:
 
-- a. pour les chaudières à vapeur prévues pour la propulsion de bateaux ou pour faire fonctionner des moteurs auxiliaires à bord: une analyse de risques et une déclaration du fabricant de laquelle il appert que l’installation répond aux exigences essentielles de sécurité définies à l’annexe I de la directive 97/23/CE[^17b-1] ou d’une prescription aux exigences comparables; la partie de l’installation pour laquelle la conformité a été constatée ne doit pas être prise en compte dans l’analyse des risques;
-- b. pour les installations à air comprimé auxquelles s’applique la directive 97/23/CE: une analyse des risques et une déclaration du fabricant de laquelle il appert que l’installation à air comprimé respecte les dispositions de ladite directive.
+- a. pour les chaudières à vapeur prévues pour la propulsion de bateaux ou pour faire fonctionner des moteurs auxiliaires à bord: une analyse de risques et une déclaration du fabricant de laquelle il appert que l’installation répond aux exigences essentielles de sécurité définies dans l’ordonnance du 25 novembre 2015 sur les équipements sous pression[^17b-2]; la partie de l’installation pour laquelle la conformité a été constatée ne doit pas être prise en compte dans l’analyse des risques;
+- b. pour les installations à air comprimé qui entrent dans le champ d’application de l’ordonnance sur les équipements sous pression: une analyse des risques et une déclaration du fabricant de laquelle il appert que l’installation à air comprimé respecte les dispositions de ladite ordonnance.
 
-[^17b-1]: Directive 97/23/CE du Parlement européen et du Conseil du 29 mai 1997 relative au rapprochement des législations des Etats membres concernant les équipements sous pression, JO L 181 du 9.7.1997, p. 1; modifiée en dernier lieu par le règlement (CE) n°1882/2003, JO 284 du 31.10.2003, p. 1.
+[^17b-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^17b-2]: [RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)
 
 ## Chapitre 3 Autorisation d’exploiter
 
@@ -377,13 +385,14 @@ Une installation d’infrastructure ne peut être mise en service et exploitée 
 
 **Principe**
 
-<sup>1</sup> Les bateaux doivent être construits selon les règles de la technique, de manière que la sécurité des passagers et celle de l’équipage soient garanties dans toutes les conditions d’exploitation envisageables et que les dispositions légales sur la protection de l’environnement et des eaux soient respectées.
+<sup>1</sup> Les bateaux doivent être construits selon les règles de l’art, de manière que la sécurité des passagers et de l’équipage soit garantie dans toutes les conditions d’exploitation envisageables et que les dispositions légales sur la protection de l’environnement et des eaux soient respectées.[^22-1]
 
-<sup>2</sup> Le genre et la grandeur des bateaux doivent être conçus en fonction des conditions locales et des conditions d’exploitation. Le DETEC[^22-1] subdivise les surfaces navigables en zones.
+<sup>2</sup> Le genre et la grandeur des bateaux doivent être conçus en fonction des conditions locales et des conditions d’exploitation. Le DETEC[^22-2] subdivise les surfaces navigables en zones.
 
 <sup>3</sup> L’autorité compétente peut exiger la preuve que la sécurité de l’exploitation est suffisante et que les éléments de construction et les engins d’équipement sont fiables. Elle peut réclamer des pièces attestant les caractéristiques et la qualité des matériaux utilisés.
 
-[^22-1]: Nouvelle expression selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Il a été tenu compte de cette mod. dans tout le texte.
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^22-2]: Nouvelle expression selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 23
 
@@ -441,13 +450,14 @@ La stabilité suffisante du bateau intact (stabilité du bateau intact) devra ê
 
 **Timonerie**
 
-<sup>1</sup> La timonerie doit être placée et installée de manière à garantir une conduite sûre. La voie navigable et les installations nécessaires pour accoster et appareiller doivent être suffisamment visibles de la timonerie.
+<sup>1</sup> La timonerie doit être équipée selon les règles de l’art en ce qui concerne la sécurité, l’aménagement, la configuration et l’ergonomie. La voie navigable et les installations nécessaires pour accoster et appareiller doivent être suffisamment visibles de la timonerie.[^28-1]
 
-<sup>2</sup> …[^28-1]
+<sup>2</sup> …[^28-2]
 
 <sup>3</sup> L’éclairage du bateau ne doit pas gêner le conducteur.
 
-[^28-1]: Abrogé par le ch. I de l’O du 11 déc. 2015, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^28-2]: Abrogé par le ch. I de l’O du 11 déc. 2015, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
 ### Section 2 Exigences relatives aux machines
 
@@ -499,6 +509,14 @@ Le DETEC édicte des dispositions sur les dispositifs d’utilisation et de stoc
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
+#### Art. 31a
+
+**Conduites**[^31a-1]
+
+Les joints des conduites doivent être homologués conformément à une norme en vigueur ou à une prescription valable d’une société de classification reconnue en ce qui concerne le matériau, le type et l’usage auquel ils sont destinés. Il y a lieu de restreindre autant que possible l’utilisation de joints souples.
+
+[^31a-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 32
 
 **Autres installations destinées à l’exploitation du bateau**[^32-1]
@@ -529,27 +547,31 @@ La coque doit être suffisamment solide pour pouvoir résister aux contraintes d
 
 **Voies de circulation**
 
-<sup>1</sup> Les escaliers, les corridors et les sols ne doivent pas être glissants.
+<sup>1</sup> La surface des escaliers, des corridors et des sols doit être antidérapante.[^35-1]
 
 <sup>2</sup> Les escaliers doivent se trouver à l’intérieur des structures du bateau et être équipés, des deux côtés, d’une main courante sur toute la longueur.
 
 <sup>3</sup> Les ponts non fermés destinés aux passagers doivent être entourés d’un bastingage ou d’une lisse de bastingage d’une hauteur minimale de 1 m et ils doivent être conçus de manière que des petits enfants ne puissent tomber par dessus bord.
 
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 36
 
 **Protection contre l’incendie**[^36-1]
 
-<sup>1</sup> Les matériaux couvrants ou isolants, les revêtements de sol et le mobilier utilisés pour l’aménagement intérieur doivent être difficilement combustibles.
+<sup>1</sup> Les matériaux couvrants ou isolants, les revêtements de sol et le mobilier utilisés pour l’aménagement intérieur doivent être difficilement combustibles ou incombustibles.[^36-2]
 
-<sup>2</sup> Les peintures et les vernis appliqués aux éléments de construction de l’aménagement intérieur doivent être difficilement combustibles. En cas d’incendie, il ne doit pas y avoir de dégagement de fumée dangereux ni de gaz toxique.
+<sup>2</sup> Les peintures et les vernis appliqués aux éléments de construction de l’aménagement intérieur doivent être difficilement combustibles ou incombustibles. En cas d’incendie, il ne doit pas y avoir de dégagement de fumée dangereux ni de gaz toxiques.[^36-3]
 
 <sup>3</sup> Les bateaux doivent être équipés d’une installation d’alarme incendie qui surveille efficacement les locaux présentant un risque particulier d’incendie. L’installation doit être appropriée pour l’utilisation sur des bateaux.
 
 <sup>4</sup> Il est interdit d’utiliser et d’entreposer à des fins de chauffage, d’éclairage ou de cuisson des combustibles liquides dont le point d’inflammation est inférieur à 55 °C. Cette interdiction ne s’applique pas aux installations à gaz liquéfié destinées à un usage domestique.
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
-### Section 4 Equipement
+### Section 4 Équipement
 
 #### Art. 37
 
@@ -587,20 +609,21 @@ La coque doit être suffisamment solide pour pouvoir résister aux contraintes d
 
 #### Art. 40
 
-**Matériel de sauvetage**
+**Engins de sauvetage[^40-1]**
 
 <sup>1</sup> Tout bateau à passagers sera équipé d’un nombre suffisant d’engins de sauvetage pour l’équipage et pour les passagers.
 
 <sup>2</sup> Les engins de sauvetage doivent être conservés à bord de manière à être facilement accessibles en toute sécurité en cas de besoin. Ils doivent pouvoir être distribués immédiatement. Les engins de sauvetage et les éventuels moyens auxiliaires doivent être régulièrement entretenus.
 
-<sup>3</sup> Le nombre minimal d’engins de sauvetage individuels à bord des bateaux doit être égal au nombre maximal admissible de passagers inscrit dans le permis de navigation.[^40-1]
+<sup>3</sup> Le nombre minimal d’engins de sauvetage individuels à bord des bateaux doit être égal au nombre maximal admissible de passagers inscrit dans le permis de navigation.[^40-2]
 
-<sup>4</sup> Le DETEC édicte des prescriptions sur le genre d’engins de sauvetage qui sont admis ainsi que la composition de l’état complet.[^40-2]
+<sup>4</sup> Le DETEC édicte des prescriptions sur le genre d’engins de sauvetage qui sont admis ainsi que la composition de l’état complet.[^40-3]
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
 
-## Chapitre 5 Construction et équipement des installations d’infrastructure****
+## Chapitre 5 Construction et équipement des installations d’infrastructure
 
 [^chap5-1]
 
@@ -620,9 +643,11 @@ Les installations d’infrastructure doivent être conçues de manière à ne pa
 
 <sup>1</sup> Les débarcadères doivent être construits de manière que les personnes ne puissent tomber à l’eau involontairement.
 
-<sup>2</sup> Ils doivent être munis de matériel de sauvetage et, en règle générale, équipés d’un système d’éclairage.
+<sup>2</sup> Ils doivent être munis d’engins de sauvetage et, en règle générale, équipés d’un système d’éclairage.[^42-1]
 
 <sup>3</sup> Dans les grandes stations, une salle d’attente protégée doit être, si possible, mise à la disposition des passagers.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 ## Chapitre 6 Exploitation
 
@@ -647,7 +672,7 @@ Il fixe les exigences auxquelles doit satisfaire le personnel qui commande:
 
 #### Art. 44
 
-**Equipage**
+**Équipage**
 
 <sup>1</sup> L’équipage des bateaux en service doit être composé d’agents formés à leurs tâches pouvant garantir la sécurité des personnes se trouvant à bord.
 
@@ -773,7 +798,7 @@ Pour chaque bateau d’une entreprise de navigation, il est tenu un journal de b
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
-## Chapitre 8 Droit complémentaire et dispositions pénales****
+## Chapitre 8 Droit complémentaire et dispositions pénales
 
 [^chap8-1]
 
@@ -854,6 +879,14 @@ Le DETEC édicte les dispositions d’exécution.
 <sup>7</sup> Les entreprises de navigation sans concession ni autorisation fédérale ont jusqu’au 1<sup>er</sup> février 2019 pour mettre en place le journal de bord visé à l’art. 50, al. 2.
 
 [^57a-1]: Introduit par le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+
+#### Art. 57b
+
+**Dispositions transitoires de la modification du 10 avril 2024**[^57b-1]
+
+L’utilisation des chaudières à vapeur et des installations à air comprimé admis à bord de bateaux à passagers conformément à l’ancien droit mais qui ne répondent plus aux exigences visées à l’art. 17*b* après l’entrée en vigueur de la modification du 10 avril 2024 reste autorisée tant que les contrôles périodiques prescrits ne donnent lieu à aucune observation et que la sécurité de l’exploitation est garantie.
+
+[^57b-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 58
 

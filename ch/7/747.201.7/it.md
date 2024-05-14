@@ -4,22 +4,22 @@ title: "Ordinanza del 14 marzo 1994 concernente la costruzione e l'esercizio dei
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: it
-version: 2021-02-01
+version: 2024-05-15
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20240515/it/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20240515-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20240515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la costruzione e l’esercizio dei battelli e degli impianti delle imprese pubbliche di navigazione
+# Ordinanza concernente la costruzione e l’esercizio dei battelli e degli impianti per il trasporto professionale di viaggiatori
 
-(Ordinanza sulla costruzione dei battelli, OCB)**[^t-1]**
+(Ordinanza sulla costruzione dei battelli, OCB)[^t-1]
 
-del 14 marzo 1994 (Stato 1° febbraio 2021)
+del 14 marzo 1994 (Stato 15 maggio 2024)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 Il Consiglio federale svizzero,
 
@@ -36,16 +36,18 @@ ordina:
 
 **Oggetto**[^1-1]
 
-<sup>1</sup> La presente ordinanza disciplina la costruzione e l’esercizio di battelli e impianti infrastrutturali delle imprese pubbliche di navigazione.
+<sup>1</sup> La presente ordinanza disciplina la costruzione e l’esercizio di battelli e impianti infrastrutturali per il trasporto professionale di viaggiatori.[^1-2]
 
-<sup>2</sup> Alla costruzione, all’attrezzatura e all’esercizio di battelli adibiti al trasporto di passeggeri da parte di imprese di navigazione che non sono titolari di una concessione federale si applicano soltanto gli articoli 5–14, 17–19, 21–40, 43, 44 capoversi 1–3, 45 capoversi 1 e 2, 45*a*, 46, 47, 48 capoverso 1, 49–51, 57 e 57*a* nonché le relative disposizioni esecutive del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC).
+<sup>2</sup> Alla costruzione, all’attrezzatura e all’esercizio di battelli adibiti al trasporto di passeggeri da parte di imprese di navigazione che non sono titolari di una concessione federale si applicano soltanto gli articoli 5–14, 17–19, 21–40, 43, 44 capoversi 1–3, 45 capoversi 1 e 2, 45*a*, 46, 47, 48 capoverso 1, 49–51, 57, 57*a* e 57*b* nonché le relative disposizioni esecutive del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC).[^1-3]
 
-<sup>3</sup> Alla costruzione, all’attrezzatura e all’esercizio di battelli che servono al trasporto professionale di 12 passeggeri al massimo si applicano soltanto gli articoli 22, 27 capoversi 1 e 2, 28–36, 38 e 39 e le relative disposizioni esecutive del DATEC nonché gli articoli 107–114, 124 e 131–140*a* dell’ordinanza dell’8 novembre 1978[^1-2] sulla navigazione interna.
+<sup>3</sup> Alla costruzione, all’attrezzatura e all’esercizio di battelli che servono al trasporto professionale di 12 passeggeri al massimo si applicano soltanto gli articoli 22, 27 capoversi 1 e 2, 28–36, 38 e 39 e le relative disposizioni esecutive del DATEC nonché gli articoli 107–114, 124 e 131–140*a* dell’ordinanza dell’8 novembre 1978[^1-4] sulla navigazione interna.
 
 <sup>4</sup> Sono fatte salve le convenzioni internazionali e le prescrizioni basate sulle medesime.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^1-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^1-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-4]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 2
 
@@ -110,7 +112,8 @@ L’UFT[^4-1] federale riscuote emolumenti giusta l’ordinanza del 1° luglio 1
 La funzione di perito può essere svolta soltanto da persone che:
 
 - a. nel settore da ispezionare, hanno assolto una formazione o un perfezionamento adeguati alla complessità del progetto e alla sua rilevanza per la sicurezza;
-- b. hanno già sviluppato, costruito o installato di persona su battelli impianti o sottosistemi paragonabili a quelli da ispezionare, oppure hanno già eseguito di persona ispezioni e perizie di tali impianti o sottosistemi; e
+- b. hanno già sviluppato, costruito o installato di persona su battelli impianti o sottosistemi paragonabili a quelli da ispezionare, oppure hanno già eseguito di persona ispezioni e perizie di tali impianti o sottosistemi;
+- b<sup>bis</sup>.[^5a-2] conoscono ampiamente le prescrizioni pertinenti e le regole riconosciute della tecnica quali norme, regolamenti e regole tecniche; e
 - c. sono indipendenti.
 
 <sup>2</sup>
@@ -124,6 +127,7 @@ La funzione di perito può essere svolta soltanto da persone che:
 <sup>3</sup> È consentito ricorrere anche a persone giuridiche in qualità di periti se queste hanno alle loro dipendenze periti che adempiono le condizioni del capoverso 1.
 
 [^5a-1]: Introdotto dal n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^5a-2]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 6
 
@@ -131,9 +135,11 @@ La funzione di perito può essere svolta soltanto da persone che:
 
 <sup>1</sup> Nella pianificazione, nella costruzione, nell’esercizio e nella manutenzione degli impianti infrastrutturali occorre tener conto delle esigenze della pianificazione del territorio, della protezione dell’ambiente nonché della protezione della natura e del paesaggio.
 
-<sup>2</sup> Nella pianificazione, nella costruzione e nell’esercizio dei battelli e degli impianti infrastrutturali occorre considerare adeguatamente le esigenze dei disabili.
+<sup>2</sup> Nella pianificazione, nella costruzione e nell’esercizio dei battelli e degli impianti infrastrutturali occorre considerare le esigenze dei disabili, tenendo conto del principio di proporzionalità. Vanno rispettati in particolare i requisiti funzionali secondo il capitolo 2 dell’ordinanza del 12 novembre 2003[^6-2] concernente la concezione di una rete di trasporti pubblici conforme alle esigenze dei disabili (OTDis). Il DATEC specifica tali requisiti nelle disposizioni esecutive emanate in virtù dell’articolo 55 della presente ordinanza e dell’articolo 8 OTDis.[^6-3]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^6-2]: [RS 151.34](https://fedlex.data.admin.ch/eli/cc/2003/669)
+[^6-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 7
 
@@ -143,14 +149,15 @@ Per quanto la presente ordinanza e le sue disposizioni esecutive non dispongano 
 
 - a. per la costruzione, l’esercizio e la manutenzione delle parti elettriche dei battelli e degli impianti infrastrutturali, la legislazione federale sull’elettricità, in particolare l’ordinanza del 7 novembre 2001[^7-2] sugli impianti a bassa tensione;
 - b. per l’utilizzo di impianti ad aria compressa e caldaie a vapore, l’ordinanza del 15 giugno 2007[^7-3] sull’utilizzo di attrezzature a pressione;
-- c. per gli impianti di propulsione, l’ordinanza del 13 dicembre 1993[^7-4] sulle prescrizioni in materia di gas di scarico dei motori di battelli nelle acque svizzere;
-- d. per l’attrezzatura relativa ai fanali e agli apparecchi sonori dei battelli, l’ordinanza dell’8 novembre 1978[^7-5] sulla navigazione interna.
+- c.[^7-4] per gli impianti di propulsione, l’ordinanza del 14 ottobre 2015[^7-5] sui requisiti per i motori di battelli nelle acque svizzere;
+- d. per l’attrezzatura relativa ai fanali e agli apparecchi sonori dei battelli, l’ordinanza dell’8 novembre 1978[^7-6] sulla navigazione interna.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^7-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^7-3]: [RS 832.312.12](https://fedlex.data.admin.ch/eli/cc/2007/393)
-[^7-4]: [[RU 1993 3333](https://fedlex.data.admin.ch/eli/oc/1993/3333_3333_3333), [1997 558](https://fedlex.data.admin.ch/eli/oc/1997/558_558_558), [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 7, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 71, [2007 2313](https://fedlex.data.admin.ch/eli/oc/2007/323), [2008 301](https://fedlex.data.admin.ch/eli/oc/2008/74). [RU 2015 4401](https://fedlex.data.admin.ch/eli/oc/2015/731)art. 20]. Ora: l’O del 14 ott. 2015 sui requisiti per i motori di battelli nelle acque svizzere ([RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)).
-[^7-5]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^7-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^7-5]: [RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
+[^7-6]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 8
 
@@ -241,7 +248,7 @@ Le imprese di navigazione emanano le necessarie prescrizioni d’esercizio.
 [^15-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^15-2]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 
-## Capitolo 2:**** Approvazione dei piani
+## Capitolo 2: Approvazione dei piani
 
 [^chap2-1]
 
@@ -290,13 +297,15 @@ Per ogni battello deve essere dimostrato, mediante un rapporto sulla sicurezza, 
   - 1\. un esercizio sicuro, e
   - 2\. la manutenzione e i controlli nonché un agevole impiego.
 
-<sup>4</sup> Il DATEC stabilisce quali altri documenti devono essere presentati insieme alla domanda di approvazione dei piani.
+<sup>4</sup> Il DATEC stabilisce, nelle disposizioni esecutive emanate in virtù dell’articolo 55, quali altri documenti devono essere presentati insieme alla domanda di approvazione dei piani.[^17-1]
 
 <sup>5</sup> L’autorità competente può esigere che il richiedente faccia esaminare singoli documenti da un perito.
 
 <sup>6</sup> L’autorità competente può esaminare essa stessa i piani e i calcoli o farli esaminare da un perito. Il perito espone il risultato dell’esame in un rapporto di perizia.
 
 <sup>7</sup> L’autorità competente può semplificare la procedura d’approvazione dei piani di battelli, elementi di costruzione e oggetti dell’attrezzatura che sono impiegati più volte allo stesso modo e con la stessa funzione.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 17a
 
@@ -308,14 +317,15 @@ Per ogni battello deve essere dimostrato, mediante un rapporto sulla sicurezza, 
 
 #### Art. 17b
 
-**Caldaie a vapore e impianti ad aria compressa**
+**Caldaie a vapore e impianti ad aria compressa**[^17b-1]
 
 L’impresa di navigazione sottopone all’autorità competente:
 
-- a. per le caldaie a vapore previste a bordo per la propulsione di battelli o gruppi ausiliari, un’analisi dei rischi e una dichiarazione del fabbricante dalla quale risulta che l’impianto soddisfa i requisiti essenziali di sicurezza di cui all’allegato I della direttiva 97/23/CE[^17b-1] o una prescrizione con requisiti paragonabili; la parte dell’impianto per il quale è stata constatata la conformità non deve essere considerata nell’analisi dei rischi;
-- b. per gli impianti ad aria compressa che rientrano nel campo di applicazione della direttiva 97/23/CE, un’analisi dei rischi e una dichiarazione del fabbricante dalla quale risulta che l’impianto ad aria compressa soddisfa le disposizioni di tale direttiva.
+- a. per le caldaie a vapore previste a bordo per la propulsione di battelli o gruppi ausiliari, un’analisi dei rischi e una dichiarazione del fabbricante dalla quale risulta che l’impianto soddisfa i requisiti essenziali di sicurezza di cui all’ordinanza del 25 novembre 2015[^17b-2] sulle attrezzature a pressione; la parte dell’impianto per la quale è stata constatata la conformità non deve essere considerata nell’analisi dei rischi;
+- b. per gli impianti ad aria compressa che rientrano nel campo di applicazione dell’ordinanza sulle attrezzature a pressione, un’analisi dei rischi e una dichiarazione del fabbricante dalla quale risulta che l’impianto ad aria compressa soddisfa le disposizioni di tale ordinanza.
 
-[^17b-1]: Direttiva 97/23/CE del Parlamento europeo e del Consiglio, del 29 maggio 1997, per il ravvicinamento delle legislazioni degli Stati membri in materia di attrezzature a pressione, GU L 181 del 9.7.1997, pag. 1; modificata da ultimo dal regolamento (CE) n. 1882/2003, GU L 284 del 31.10.2003, pag. 1.
+[^17b-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^17b-2]: [RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)
 
 ## Capitolo 3: Autorizzazione d’esercizio
 
@@ -375,13 +385,14 @@ Gli impianti infrastrutturali possono entrare in servizio ed essere esercitati s
 
 **Principio**
 
-<sup>1</sup> I battelli devono essere costruiti secondo le norme tecniche in modo che la sicurezza dei passeggeri e dell’equipaggio sia garantita in tutte le condizioni d’esercizio prevedibili e che siano rispettate le disposizioni in materia di protezione dell’ambiente e delle acque.
+<sup>1</sup> I battelli devono essere costruiti secondo le regole riconosciute della tecnica in modo che la sicurezza dei passeggeri e dell’equipaggio sia garantita in tutte le condizioni d’esercizio prevedibili e che siano rispettate le disposizioni in materia di protezione dell’ambiente e delle acque.[^22-1]
 
-<sup>2</sup> Il genere e le dimensioni dei battelli devono essere in sintonia con le condizioni locali e d’esercizio. Il DATEC[^22-1] suddivide le acque in zone.
+<sup>2</sup> Il genere e le dimensioni dei battelli devono essere in sintonia con le condizioni locali e d’esercizio. Il DATEC[^22-2] suddivide le acque in zone.
 
 <sup>3</sup> L’autorità competente può esigere che sia fornita la prova della sicurezza d’esercizio e dell’idoneità di elementi di costruzione e di oggetti dell’attrezzatura. Può esigere documenti attestanti le caratteristiche e la qualità dei materiali di costruzione.
 
-[^22-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^22-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^22-2]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 23
 
@@ -441,17 +452,16 @@ La sufficiente stabilità del battello intatto (stabilità battello intatto) dev
 
 **Posto di governo[^28-1]**
 
-<sup>1</sup> Il posto di governo dev’essere installato e costruito in modo da garantire una conduzione[^28-2] sicura del battello e una sufficiente visibilità sul percorso da seguire e sugli impianti[^28-3] necessari per approdare e per salpare.
+<sup>1</sup> Il posto di governo dev’essere allestito secondo le regole riconosciute della tecnica in quanto a sicurezza, concezione, disposizione ed ergonomia. Dal posto di governo deve essere garantita una sufficiente visibilità sul percorso da seguire e sugli impianti necessari per approdare e per salpare.[^28-2]
 
-<sup>2</sup> ... [^28-4]
+<sup>2</sup> ... [^28-3]
 
-<sup>3</sup> L’illuminazione del battello non deve disturbare il conduttore[^28-5].
+<sup>3</sup> L’illuminazione del battello non deve disturbare il conduttore[^28-4].
 
 [^28-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^28-2]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^28-3]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^28-4]: Abrogato dal n. I dell’O dell’11 dic. 2015, con effetto dal 1° feb. 2021 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^28-5]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^28-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^28-3]: Abrogato dal n. I dell’O dell’11 dic. 2015, con effetto dal 1° feb. 2021 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-4]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Requisiti delle macchine
 
@@ -503,6 +513,14 @@ Il DATEC emana disposizioni concernenti le installazioni per l’impiego e lo st
 
 [^31-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
+#### Art. 31a
+
+**Tubature**[^31a-1]
+
+Materiale, tipo e destinazione d’uso dei raccordi di tubature devono essere autorizzati secondo una norma o una prescrizione valida emanata da una società di classificazione riconosciuta. L’impiego di raccordi flessibili deve essere limitato il più possibile.
+
+[^31a-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 32
 
 **Altri impianti per l’esercizio del battello**[^32-1]
@@ -533,25 +551,29 @@ Lo scafo deve essere sufficientemente resistente per reggere alle sollecitazioni
 
 **Circolazione sul battello**
 
-<sup>1</sup> Le scale, le corsie e i pavimenti devono essere antisdrucciolevoli.
+<sup>1</sup> Le scale, le corsie e i pavimenti devono presentare una superficie sufficientemente resistente allo scivolamento.[^35-1]
 
 <sup>2</sup> Le scale devono trovarsi all’interno della soprastruttura del battello ed essere provviste di corrimano da entrambi i lati.
 
 <sup>3</sup> I ponti all’aperto accessibili ai passeggeri devono essere circondati da un’impavesata o da una ringhiera di almeno 1 m di altezza, costruite in modo che i bambini piccoli non possano passarvi attraverso e cadere dal battello.
 
+[^35-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 36
 
 **Protezione antincendio**[^36-1]
 
-<sup>1</sup> I materiali impiegati negli interni come i materiali di rivestimento e d’isolamento e i pavimenti nonché l’arredamento stesso devono essere difficilmente infiammabili.
+<sup>1</sup> I materiali impiegati negli interni come i materiali di rivestimento e d’isolamento e i pavimenti nonché l’arredamento stesso devono essere difficilmente infiammabili o incombustibili.[^36-2]
 
-<sup>2</sup> Le vernici e le lacche applicate sugli elementi di costruzione degli interni non possono essere facilmente infiammabili. In caso d’incendio non possono sprigionare quantità pericolose di fumo né gas tossici.
+<sup>2</sup> Le vernici e le lacche applicate sugli elementi di costruzione degli interni devono essere difficilmente infiammabili o incombustibili. In caso d’incendio non possono sprigionare quantità pericolose di fumo né gas tossici.[^36-3]
 
 <sup>3</sup> I battelli devono essere equipaggiati con un impianto di rivelazione d’incendio che sorvegli efficacemente i locali soggetti a particolare rischio di incendio. L’impianto deve essere idoneo all’impiego a bordo di battelli.
 
 <sup>4</sup> Sono proibiti l’impiego e lo stoccaggio di combustibili liquidi con un punto d’infiammazione inferiore a 55 °C a fini di riscaldamento e illuminazione o per la cucina. Il divieto non si applica agli impianti a gas liquido per uso domestico.
 
 [^36-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^36-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^36-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 ### Sezione 4: Attrezzatura
 
@@ -591,20 +613,22 @@ Lo scafo deve essere sufficientemente resistente per reggere alle sollecitazioni
 
 #### Art. 40
 
-**Materiale di salvataggio**
+**Mezzi di salvataggio[^40-1]**
 
 <sup>1</sup> Ogni battello adibito al trasporto di passeggeri deve essere attrezzato con una quantità sufficiente di mezzi di salvataggio per l’equipaggio e per i passeggeri.
 
-<sup>2</sup> A bordo gli attrezzi di salvataggio devono essere custoditi in modo che in caso di necessità possano essere raggiunti facilmente e in modo sicuro e che la loro distribuzione sia possibile senza indugio. Gli attrezzi di salvataggio ed eventuali mezzi ausiliari vanno sottoposti regolarmente a lavori di manutenzione.
+<sup>2</sup> A bordo i mezzi di salvataggio devono essere custoditi in modo che in caso di necessità possano essere raggiunti facilmente e in modo sicuro e che la loro distribuzione sia possibile senza indugio. I mezzi di salvataggio ed eventuali mezzi ausiliari vanno sottoposti regolarmente a lavori di manutenzione.[^40-2]
 
-<sup>3</sup> L’effettivo minimo di mezzi di salvataggio individuali sui battelli ammonta al 100 per cento del numero di passeggeri massimo iscritto nella licenza di navigazione.[^40-1]
+<sup>3</sup> L’effettivo minimo di mezzi di salvataggio individuali sui battelli ammonta al 100 per cento del numero di passeggeri massimo iscritto nella licenza di navigazione.[^40-3]
 
-<sup>4</sup> Il DATEC emana prescrizioni sul tipo di mezzi di salvataggio autorizzati e sulla composizione dell’effettivo totale.[^40-2]
+<sup>4</sup> Il DATEC emana prescrizioni sul tipo di mezzi di salvataggio autorizzati e sulla composizione dell’effettivo totale.[^40-4]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^40-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-4]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
 
-## Capitolo 5: Costruzione e attrezzatura di impianti infrastrutturali****
+## Capitolo 5: Costruzione e attrezzatura di impianti infrastrutturali
 
 [^chap5-1]
 
@@ -624,9 +648,11 @@ Gli impianti infrastrutturali devono essere costruiti in modo che, se usati corr
 
 <sup>1</sup> Gli impianti d’approdo devono essere costruiti in modo che le persone non possano cadere in acqua involontariamente.
 
-<sup>2</sup> Gli impianti d’approdo devono essere equipaggiati con materiale di salvataggio e di regola devono disporre d’illuminazione.
+<sup>2</sup> Gli impianti d’approdo devono essere equipaggiati con mezzi di salvataggio e di regola devono disporre d’illuminazione.[^42-1]
 
 <sup>3</sup> Nelle grandi stazioni i passeggeri devono poter disporre, per quanto possibile, di una sala d’attesa protetta.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 ## Capitolo 6: Esercizio
 
@@ -777,7 +803,7 @@ Per ogni battello di un’impresa di navigazione è tenuto un libro di bordo nel
 
 [^51-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
-## Capitolo 8: Norme completive e disposizioni penali****
+## Capitolo 8: Norme completive e disposizioni penali
 
 [^chap8-1]
 
@@ -858,6 +884,14 @@ Il DATEC emana le disposizioni d’esecuzione.
 <sup>7</sup> Le imprese di navigazione non titolari di concessione o autorizzazione federale predispongono il libro di bordo di cui all’articolo 50 capoverso 2 entro il 1° febbraio 2019.
 
 [^57a-1]: Introdotto dal n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+
+#### Art. 57b
+
+**Disposizioni transitorie della modifica del 10 aprile 2024**[^57b-1]
+
+Le caldaie a vapore e gli impianti ad aria compressa che erano ammessi sui battelli per passeggeri secondo il diritto previgente, ma che non adempiono i requisiti di cui all’articolo 17*b* dopo l’entrata in vigore della modifica del 10 aprile 2024, possono continuare a essere impiegati finché dai controlli periodici prescritti non risultano criticità e la sicurezza dell’esercizio è garantita.
+
+[^57b-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 58
 

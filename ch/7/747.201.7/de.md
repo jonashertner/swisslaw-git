@@ -4,20 +4,22 @@ title: "Verordnung vom 14. März 1994 über Bau und Betrieb von Schiffen und Anl
 short: SBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: de
-version: 2021-02-01
+version: 2024-05-15
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20240515/de/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20240515-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20240515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Bau und Betrieb von Schiffen und Anlagen öffentlicher Schifffahrtsunternehmen
+# Verordnung über Bau und Betrieb von Schiffen und Anlagen für den gewerbsmässigen Personentransport
 
-(Schiffbauverordnung, SBV)
+(Schiffbauverordnung, SBV)[^t-1]
 
-vom 14. März 1994 (Stand am 1. Februar 2021)
+vom 14. März 1994 (Stand am 15. Mai 2024)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 Der Schweizerische Bundesrat,
 
@@ -34,16 +36,18 @@ verordnet:
 
 **Gegenstand**[^1-1]
 
-<sup>1</sup> Diese Verordnung regelt den Bau und Betrieb von Schiffen und Infrastrukturanlagen öffentlicher Schifffahrtsunternehmen.
+<sup>1</sup> Diese Verordnung regelt den Bau und Betrieb von Schiffen und Infrastrukturanlagen für den gewerbsmässigen Personentransport.[^1-2]
 
-<sup>2</sup> Für den Bau, die Ausrüstung und den Betrieb von Fahrgastschiffen von Schifffahrtsunternehmen ohne eidgenössische Konzession gelten nur die Artikel 5–14, 17–19, 21–40, 43, 44 Absätze 1–3, 45 Absätze 1 und 2, 45*a*, 46, 47, 48 Absatz 1, 49–51, 57 und 57*a* und die dazugehörigen Ausführungsbestimmungen des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK).
+<sup>2</sup> Für den Bau, die Ausrüstung und den Betrieb von Fahrgastschiffen von Schifffahrtsunternehmen ohne eidgenössische Konzession gelten nur die Artikel 5–14, 17–19, 21–40, 43, 44 Absätze 1–3, 45 Absätze 1 und 2, 45*a*, 46, 47, 48 Absatz 1, 49–51, 57, 57*a* und 57*b* und die dazugehörigen Ausführungsbestimmungen des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK).[^1-3]
 
-<sup>3</sup> Für den Bau, die Ausrüstung und den Betrieb von Schiffen für den gewerbsmässigen Transport von höchstens zwölf Fahrgästen gelten nur die Artikel 22, 27 Absätze 1 und 2, 28–36, 38 und 39 und die dazugehörigen Ausführungsbestimmungen des Departements sowie die Artikel 107–114, 124 und 131–140*a* der Binnenschifffahrtsverordnung vom 8. November 1978[^1-2].
+<sup>3</sup> Für den Bau, die Ausrüstung und den Betrieb von Schiffen für den gewerbsmässigen Transport von höchstens zwölf Fahrgästen gelten nur die Artikel 22, 27 Absätze 1 und 2, 28–36, 38 und 39 und die dazugehörigen Ausführungsbestimmungen des Departements sowie die Artikel 107–114, 124 und 131–140*a* der Binnenschifffahrtsverordnung vom 8. November 1978[^1-4].
 
 <sup>4</sup> Vorbehalten bleiben internationale Vereinbarungen und die darauf beruhenden Vorschriften.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^1-2]: [SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^1-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^1-4]: [SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 2
 
@@ -108,7 +112,8 @@ Das BAV[^4-1] erhebt Gebühren nach der Verordnung vom 1. Juli 1987[^4-2] über 
 Als Sachverständige dürfen nur Personen beigezogen werden, die:
 
 - a. im zu prüfenden Bereich eine Aus- oder Weiterbildung abgeschlossen haben, die der Komplexität und der Sicherheitsrelevanz des Projekts angemessen ist;
-- b. Anlagen oder Teilsysteme auf Schiffen, die mit den zu prüfenden Anlagen und Teilsystemen vergleichbar sind, bereits selbst entwickelt, gebaut oder eingebaut oder solche Anlagen oder Teilsysteme bereits selbst geprüft und begutachtet haben; und
+- b. Anlagen oder Teilsysteme auf Schiffen, die mit den zu prüfenden Anlagen und Teilsystemen vergleichbar sind, bereits selbst entwickelt, gebaut oder eingebaut oder solche Anlagen oder Teilsysteme bereits selbst geprüft und begutachtet haben;
+- b<sup>bis</sup>.[^5a-2] mit den einschlägigen Vorschriften und anerkannten Regeln der Technik, wie Normen, Regelwerken und technischen Regeln, umfassend vertraut sind; und
 - c. unabhängig sind.
 
 <sup>2</sup>
@@ -122,6 +127,7 @@ Unabhängig ist eine Person, wenn:
 <sup>3</sup> Als Sachverständige dürfen auch juristische Personen beigezogen werden, wenn diese Sachverständige nach Absatz 1 beschäftigen.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^5a-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 6
 
@@ -129,9 +135,11 @@ Unabhängig ist eine Person, wenn:
 
 <sup>1</sup> Den Belangen der Raumplanung, des Umweltschutzes sowie des Natur- und Heimatschutzes ist bei Planung, Bau, Betrieb und Instandhaltung von Infrastrukturanlagen Rechnung zu tragen.
 
-<sup>2</sup> Die Bedürfnisse von Menschen mit Behinderungen sind bei Planung, Bau und Betrieb von Schiffen und Infrastrukturanlagen angemessen zu berücksichtigen.
+<sup>2</sup> Die Bedürfnisse von Menschen mit Behinderungen sind bei Planung, Bau und Betrieb von Schiffen und Infrastrukturanlagen unter Berücksichtigung des Grundsatzes der Verhältnismässigkeit zu berücksichtigen. Insbesondere sind die funktionalen Anforderungen nach dem 2. Kapitel der Verordnung vom 12. November 2003[^6-2] über die behindertengerechte Gestaltung des öffentlichen Verkehrs (VböV) einzuhalten. Das UVEK spezifiziert diese Anforderungen in den gestützt auf Artikel 55 dieser Verordnung und Artikel 8 VböV erlassenen Ausführungsbestimmungen.[^6-3]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^6-2]: [SR 151.34](https://fedlex.data.admin.ch/eli/cc/2003/669)
+[^6-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 7
 
@@ -141,14 +149,15 @@ Soweit diese Verordnung und ihre Ausführungsbestimmungen keine abweichenden Vor
 
 - a. für Bau, Betrieb und Instandhaltung der elektrischen Teile der Schiffe und Infrastrukturanlagen: die Elektrizitätsgesetzgebung des Bundes, insbesondere die Niederspannungs-Installationsverordnung vom 7. November 2001[^7-2];
 - b. für die Verwendung von Druckluft- und Dampfkesselanlagen: die Druckgeräteverwendungsverordnung vom 15. Juni 2007[^7-3];
-- c. für Antriebsanlagen: die Verordnung vom 13. Dezember 1993[^7-4] über die Abgasemissionen von Schiffsmotoren auf schweizerischen Gewässern;
-- d. für die Ausrüstung der Schiffe mit Lichtern und Schallgeräten: die Binnenschifffahrtsverordnung vom 8. November 1978[^7-5].
+- c.[^7-4] für Antriebsanlagen: die Verordnung vom 14. Oktober 2015[^7-5] über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern;
+- d. für die Ausrüstung der Schiffe mit Lichtern und Schallgeräten: die Binnenschifffahrtsverordnung vom 8. November 1978[^7-6].
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^7-2]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^7-3]: [SR 832.312.12](https://fedlex.data.admin.ch/eli/cc/2007/393)
-[^7-4]: [[AS 1993 3333](https://fedlex.data.admin.ch/eli/oc/1993/3333_3333_3333), [1997 558](https://fedlex.data.admin.ch/eli/oc/1997/558_558_558), [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)Anhang Ziff. 7, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 71, [2007 2313](https://fedlex.data.admin.ch/eli/oc/2007/323), [2008 301](https://fedlex.data.admin.ch/eli/oc/2008/74). [AS 2015 4401](https://fedlex.data.admin.ch/eli/oc/2015/731)Art. 20]. Siehe heute: die V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)).
-[^7-5]: [SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+[^7-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^7-5]: [SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
+[^7-6]: [SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 8
 
@@ -239,7 +248,7 @@ Die Schifffahrtsunternehmen erlassen die notwendigen Betriebsvorschriften.
 [^15-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 [^15-2]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 
-## 2. Kapitel:**** Plangenehmigung
+## 2. Kapitel: Plangenehmigung
 
 [^chap2-1]
 
@@ -288,13 +297,15 @@ Für jedes Schiff muss anhand eines Sicherheitsberichtes nachgewiesen werden, da
   - 1\. so konstruiert sind, dass sie einen sicheren Betrieb ermöglichen, und
   - 2\. wartungs- und kontrollgerecht sowie bedienerfreundlich konstruiert sind.
 
-<sup>4</sup> Das UVEK bestimmt, welche weiteren Unterlagen zusammen mit dem Plangenehmigungsgesuch eingereicht werden müssen.
+<sup>4</sup> Das UVEK bestimmt in den gestützt auf Artikel 55 erlassenen Ausführungsbestimmungen, welche weitere Unterlagen zusammen mit dem Plangenehmigungsgesuch eingereicht werden müssen.[^17-1]
 
 <sup>5</sup> Die zuständige Behörde kann verlangen, dass der Gesuchsteller oder die Gesuchstellerin Unterlagen von einem oder einer Sachverständigen prüfen lässt.
 
 <sup>6</sup> Sie kann die Pläne und Berechnungen selbst prüfen oder von einem oder einer Sachverständigen prüfen lassen. Im zweiten Fall muss der oder die Sachverständige das Resultat der Prüfung in einem Sachverständigenprüfbericht festhalten.
 
 <sup>7</sup> Sie kann das Plangenehmigungsverfahren für Schiffe, Bauteile und Ausrüstungsgegenstände, die mehrfach in gleicher Weise und in gleicher Funktion Anwendung finden, vereinfachen.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 17a
 
@@ -306,14 +317,15 @@ Für jedes Schiff muss anhand eines Sicherheitsberichtes nachgewiesen werden, da
 
 #### Art. 17b
 
-**Dampfkessel- und Druckluftanlagen**
+**Dampfkessel- und Druckluftanlagen**[^17b-1]
 
 Das Schifffahrtsunternehmen hat der zuständigen Behörde vorzulegen:
 
-- a. für Dampfkesselanlagen, die für den Antrieb von Schiffen oder von Hilfsaggregaten an Bord vorgesehen sind: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Anlage den grundlegenden Sicherheitsanforderungen von Anhang I der Richtlinie 97/23/EG[^17b-1] oder einer Vorschrift mit vergleichbaren Anforderungen entspricht; der Teil der Anlage, für welche die Konformität festgestellt wurde, muss in der Risikoanalyse nicht berücksichtigt werden;
-- b. für Druckluftanlagen, die in den Geltungsbereich der Richtlinie 97/23/EG fallen: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Druckluftanlage den Bestimmungen dieser Richtlinie entspricht.
+- a. für Dampfkesselanlagen, die für den Antrieb von Schiffen oder von Hilfsaggregaten an Bord vorgesehen sind: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Anlage den grundlegenden Sicherheitsanforderungen der Druckgeräteverordnung vom 25. November 2015[^17b-2] entspricht; der Teil der Anlage, für welche die Konformität festgestellt wurde, muss in der Risikoanalyse nicht berücksichtigt werden;
+- b. für Druckluftanlagen, die in den Geltungsbereich der Druckgeräteverordnung fallen: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Druckluftanlage den Bestimmungen dieser Verordnung entspricht.
 
-[^17b-1]: Richtlinie 97/23/EG des Europäischen Parlamentes und des Rates vom 29. Mai 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Druckgeräte, ABl. L 181 vom 9.7.1997, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1882/2003, ABl. L 284 vom 31.10.2003, S. 1.
+[^17b-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^17b-2]: [SR 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)
 
 ## 3. Kapitel: Betriebsbewilligung
 
@@ -342,7 +354,7 @@ Im Rahmen der Erteilung des Schiffsausweises nach Artikel 96 der Binnenschifffah
 
 <sup>2</sup> Mit Schiffen ohne Schiffsausweis dürfen nur Probefahrten durchgeführt werden. Probefahrten müssen von der zuständigen Behörde bewilligt werden. Es dürfen sich nur Personen an Bord befinden, die am Bau oder der Erprobung unmittelbar beteiligt sind. Die zuständige Behörde kann die Bewilligung von Probefahrten mit weiteren Auflagen verbinden.
 
-<sup>3</sup> ...[^19-1]
+<sup>3</sup> …[^19-1]
 
 [^19-1]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
@@ -373,13 +385,14 @@ Infrastrukturanlagen dürfen nur mit einer Betriebsbewilligung des BAV in Betrie
 
 **Grundsatz**
 
-<sup>1</sup> Schiffe müssen nach den Regeln der Technik so gebaut sein, dass die Sicherheit der Fahrgäste und der Besatzung unter allen zu erwartenden Betriebsbedingungen gewährleistet ist und die Bestimmungen des Umwelt- und Gewässerschutzes eingehalten werden.
+<sup>1</sup> Schiffe müssen nach den anerkannten Regeln der Technik so gebaut sein, dass die Sicherheit der Fahrgäste und der Besatzung unter allen zu erwartenden Betriebsbedingungen gewährleistet ist und die Bestimmungen des Umwelt- und Gewässerschutzes eingehalten werden.[^22-1]
 
-<sup>2</sup> Sie sind in ihrer Art und Grösse auf die örtlichen und betrieblichen Verhältnisse abzustimmen. Das UVEK[^22-1] teilt die Gewässer in Zonen ein.
+<sup>2</sup> Sie sind in ihrer Art und Grösse auf die örtlichen und betrieblichen Verhältnisse abzustimmen. Das UVEK[^22-2] teilt die Gewässer in Zonen ein.
 
 <sup>3</sup> Die zuständige Behörde kann den Nachweis ausreichender Betriebssicherheit und Funktionstüchtigkeit von Bauteilen und Ausrüstungsgegenständen verlangen. Sie kann sich Eigenschaft und Qualität von Werkstoffen belegen lassen.
 
-[^22-1]: Ausdruck gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^22-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^22-2]: Ausdruck gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 23
 
@@ -437,13 +450,14 @@ Die ausreichende Stabilität des intakten Schiffes (Intaktstabilität) ist nachz
 
 **Steuerstand**
 
-<sup>1</sup> Steuerstände müssen so angeordnet und eingerichtet sein, dass sie ein sicheres Führen des Schiffes gewährleisten. Das Fahrwasser und die zum An- und Ablegen nötigen Einrichtungen müssen vom Steuerstand ausreichend überblickt werden können.
+<sup>1</sup> Steuerstände müssen hinsichtlich der Sicherheit, Gestaltung, Anordnung und Ergonomie nach den anerkannten Regeln der Technik eingerichtet werden. Das Fahrwasser und die zum An- und Ablegen nötigen Einrichtungen müssen vom Steuerstand ausreichend überblickt werden können.[^28-1]
 
-<sup>2</sup> ...[^28-1]
+<sup>2</sup> …[^28-2]
 
 <sup>3</sup> Die Beleuchtung des Schiffes darf den Schiffsführer oder die Schiffsführerin nicht behindern.
 
-[^28-1]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2021 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^28-2]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2021 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
 ### 2. Abschnitt: Maschinenbauliche Anforderungen
 
@@ -495,6 +509,14 @@ Das UVEK erlässt Bestimmungen über die Einrichtungen zur Verwendung und Lageru
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
+#### Art. 31a
+
+**Rohrleitungen**[^31a-1]
+
+Rohrleitungsverbindungen müssen hinsichtlich des Werkstoffs, Typs und Verwendungszwecks gemäss einer gültigen Norm oder einer gültigen Vorschrift einer anerkannten Klassifikationsgesellschaft zugelassen sein. Der Einsatz von flexiblen Rohrverbindungen ist so weit wie möglich einzuschränken.
+
+[^31a-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 32
 
 **Andere Anlagen für den Schiffsbetrieb**[^32-1]
@@ -525,25 +547,29 @@ Der Schiffskörper muss eine ausreichende Festigkeit besitzen, um den im Betrieb
 
 **Verkehrswege**
 
-<sup>1</sup> Treppen, Gänge und Fussböden müssen gleitsicher sein.
+<sup>1</sup> Treppen, Gänge und Fussboden müssen eine ausreichend rutschhemmende Oberfläche aufweisen.[^35-1]
 
 <sup>2</sup> Treppen müssen innerhalb der Schiffsaufbauten liegen und beidseitig mit durchlaufenden Handläufen versehen sein.
 
 <sup>3</sup> Die für Fahrgäste bestimmten freien Decks müssen mit einem festen Schanzkleid oder einer Reling von mindestens 1 m Höhe umgeben sein, die so beschaffen sind, dass Kleinkinder nicht über Bord fallen können.
 
+[^35-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+
 #### Art. 36
 
 **Brandschutz**[^36-1]
 
-<sup>1</sup> Die für den Innenausbau verwendeten Materialien wie Verkleidungs- und Isolierstoffe und Bodenbeläge sowie das Mobiliar in den Innenräumen müssen schwerbrennbar sein.
+<sup>1</sup> Die für den Innenausbau verwendeten Materialien wie Verkleidungs- und Isolierstoffe und Bodenbeläge sowie das Mobiliar in den Innenräumen müssen schwer entflammbar oder nicht brennbar sein.[^36-2]
 
-<sup>2</sup> Farben und Lacke, die auf Bauteilen des Innenausbaus appliziert werden, dürfen nicht leichtbrennbar sein. Im Brandfall dürfen kein Rauch in gefährlichem Ausmass und keine giftigen Gase entstehen.
+<sup>2</sup> Farben und Lacke, die auf Bauteilen des Innenausbaus appliziert werden, müssen schwer entflammbar oder nicht brennbar sein. Im Brandfall dürfen kein Rauch in gefährlichem Ausmass und keine giftigen Gase entstehen.[^36-3]
 
 <sup>3</sup> Schiffe sind mit einer Brandmeldeanlage auszurüsten, die Räume mit besonderer Brandgefährdung wirksam überwacht. Die Anlage muss für den Einsatz an Bord von Schiffen geeignet sein.
 
 <sup>4</sup> Die Verwendung und Lagerung von flüssigen Brennstoffen mit einem Flammpunkt unter 55 °C zu Heiz-, Beleuchtungs- oder Kochzwecken ist verboten. Von diesem Verbot sind Flüssiggasanlagen für Haushaltszwecke ausgenommen.
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 ### 4. Abschnitt: Ausrüstung
 
@@ -583,20 +609,22 @@ Der Schiffskörper muss eine ausreichende Festigkeit besitzen, um den im Betrieb
 
 #### Art. 40
 
-**Rettungsmaterial**
+**Rettungsmittel[^40-1]**
 
 <sup>1</sup> Jedes Fahrgastschiff ist mit einer ausreichenden Anzahl von Rettungsmitteln für die Besatzung und die Fahrgäste auszurüsten.
 
-<sup>2</sup> Rettungsgeräte müssen an Bord so verwahrt werden, dass sie bei Bedarf leicht und sicher erreicht werden können und ihre Verteilung ohne Verzögerung möglich ist. Rettungsgeräte und allfällige Hilfsmittel müssen regelmässig gewartet werden.
+<sup>2</sup> Rettungsmittel müssen an Bord so verwahrt werden, dass sie bei Bedarf leicht und sicher erreicht werden können und ihre Verteilung ohne Verzögerung möglich ist. Rettungsmittel und allfällige Hilfsmittel müssen regelmässig gewartet werden.[^40-2]
 
-<sup>3</sup> Der Minimalbestand an Einzelrettungsmitteln auf Schiffen beträgt 100 Prozent der im Schiffsausweis eingetragenen höchstzulässigen Fahrgastzahl.[^40-1]
+<sup>3</sup> Der Minimalbestand an Einzelrettungsmitteln auf Schiffen beträgt 100 Prozent der im Schiffsausweis eingetragenen höchstzulässigen Fahrgastzahl.[^40-3]
 
-<sup>4</sup> Das UVEK erlässt Vorschriften über die Art der zugelassenen Rettungsmittel sowie die Zusammensetzung des Gesamtbestandes.[^40-2]
+<sup>4</sup> Das UVEK erlässt Vorschriften über die Art der zugelassenen Rettungsmittel sowie die Zusammensetzung des Gesamtbestandes.[^40-4]
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
-[^40-2]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
+[^40-4]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 911](https://fedlex.data.admin.ch/eli/oc/2007/161)).
 
-## 5. Kapitel: Bau und Ausrüstung von Infrastrukturanlagen****
+## 5. Kapitel: Bau und Ausrüstung von Infrastrukturanlagen
 
 [^chap5-1]
 
@@ -616,9 +644,11 @@ Die Infrastrukturanlagen müssen so beschaffen sein, dass bei ihrer bestimmungsg
 
 <sup>1</sup> Landungsanlagen sind so zu erstellen, dass Personen nicht unbeabsichtigt ins Wasser fallen können.
 
-<sup>2</sup> Die Landungsanlagen sind mit Rettungsmaterial und in der Regel mit einer Beleuchtung auszurüsten.
+<sup>2</sup> Die Landungsanlagen sind mit Rettungsmitteln und in der Regel mit einer Beleuchtung auszurüsten.[^42-1]
 
 <sup>3</sup> An grösseren Stationen sollen die Fahrgäste nach Möglichkeit über einen geschützten Warteraum verfügen.
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 ## 6. Kapitel: Betrieb
 
@@ -769,7 +799,7 @@ Für jedes Schiff eines Schifffahrtsunternehmens ist ein Schiffsbuch zu führen,
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
-## 8. Kapitel:**** Ergänzendes Recht und Strafbestimmungen
+## 8. Kapitel: Ergänzendes Recht und Strafbestimmungen
 
 [^chap8-1]
 
@@ -808,7 +838,7 @@ Das UVEK erlässt die Ausführungsbestimmungen.
 
 **Änderung bisherigen Rechts**
 
-...[^56-1]
+…[^56-1]
 
 [^56-1]: Die Änderungen können unter [AS 1994 1011](https://fedlex.data.admin.ch/eli/oc/1994/1011_1011_1011)konsultiert werden.
 
@@ -850,6 +880,14 @@ Das UVEK erlässt die Ausführungsbestimmungen.
 <sup>7</sup> Schifffahrtsunternehmen ohne eidgenössische Konzession oder Bewilligung haben das Schiffsbuch nach Artikel 50 Absatz 2 bis zum 1. Februar 2019 zu erstellen.
 
 [^57a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+
+#### Art. 57b
+
+**Übergangsbestimmung zur Änderung vom 10. April 2024**[^57b-1]
+
+Dampfkessel- und Druckluftanlagen, die nach bisherigem Recht auf Fahrgastschiffen zugelassen waren, jedoch die Anforderungen nach Artikel 17*b* nach Inkrafttreten der Änderung vom 10. April 2024 nicht erfüllen, dürfen so lange weiter betrieben werden, wie die vorgeschriebenen periodischen Kontrollen keine Beanstandungen ergeben und die Betriebssicherheit gewährleistet ist.
+
+[^57b-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 173](https://fedlex.data.admin.ch/eli/oc/2024/173)).
 
 #### Art. 58
 
