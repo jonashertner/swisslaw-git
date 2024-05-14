@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-03-01
+version: 2024-05-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240515/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240515-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240301/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° marzo 2024)
+del 15 agosto 2018 (Stato 15 maggio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -56,7 +56,8 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - h.[^1-18] regolamento (CE) n. 767/2008[^1-19];
 - i.[^1-20] regolamento (UE) 2021/1148[^1-21];
 - j.[^1-22] regolamento (UE) 2021/1060[^1-23];
-- k.[^1-24] decisione n. 1105/2011/UE[^1-25].[^1-26]
+- k.[^1-24] decisione n. 1105/2011/UE[^1-25];
+- l.[^1-26] regolamento (CE) n. 694/2003[^1-27].[^1-28]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
@@ -75,15 +76,17 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 [^1-15]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2685, GU L, 2023/2685, 7.12.2023.
 [^1-16]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-17]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-19]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-19]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal regolamento (UE) 2023/2667, GU L, 2023/2667, del 7.12.2023.
 [^1-20]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-21]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
 [^1-22]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-23]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
 [^1-24]: Introdotta dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-25]: Decisione n. 1105/2011/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativa all’elenco dei documenti di viaggio che consentono di attraversare le frontiere esterne e sui quali può essere apposto un visto e relativa alla creazione di un meccanismo per stabilire tale elenco, versione della GU L 287 del 4.11.2011, pag. 9.
-[^1-26]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-26]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-27]: Regolamento (CE) n. 694/2003 del Consiglio, del 14 apr. 2003 che stabilisce modelli uniformi per il documento di transito agevolato (FTD) e per il documento di transito ferroviario agevolato (FRTD) di cui al regolamento (CE) n. 693/2003, GU L 99 del 17.4.2003, pag. 15; modificato da ultimo dal regolamento (UE) 2023/2667, GU L, 2023/2667, del 7.12.2023.
+[^1-28]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -768,7 +771,8 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - c.[^34b-4] la compilazione dei campi dati del visto in formato elettronico (art. 27 par. 1);
 - d. l’apposizione del visto adesivo sul documento di viaggio (art. 29 par. 1<sup>bis</sup>);
 - e. le istruzioni operative per il rilascio di visti ai marittimi alla frontiera esterna Schengen (art. 36 par. 2<sup>bis</sup>);
-- f. le istruzioni operative relative all’applicazione pratica del codice dei visti (art. 51).
+- f. le istruzioni operative relative all’applicazione pratica del codice dei visti (art. 51);
+- g.[^34b-5] le norme minime da utilizzare per il controllo e la verifica dei documenti di viaggio che consentono di verificarne l’autenticità nonché la tecnologia, i metodi e le procedure da utilizzare per il trattamento dei dati sul chip (art. 12 par. 7).
 
 <sup>2</sup>
 
@@ -776,13 +780,14 @@ Essa ha la competenza di concludere trattati internazionali in vista del recepim
 
 - a. la sospensione dell’applicazione dell’esenzione da emolumenti o delle facilitazioni per quanto riguarda la produzione di giustificativi, i termini di trattamento o il rilascio di visti per entrate multiple nei confronti di tutti i cittadini o di determinate categorie di cittadini di un dato Paese terzo che non coopera a sufficienza nell’ambito della riammissione di propri cittadini in situazione irregolare (art. 25<sup>bis</sup> par. 5 lett. a);
 - b. l’aumento graduale dell’emolumento di visto se il Paese terzo interessato continua a non cooperare a sufficienza (art. 25<sup>bis</sup> par. 5 lett. b);
-- c. la concessione di facilitazioni specifiche a tutti i cittadini o a determinate categorie di cittadini di un dato Stato terzo che coopera a sufficienza nell’ambito della riammissione di persone in situazione irregolare (art. 25<sup>bis</sup> par. 8).[^34b-5]
+- c. la concessione di facilitazioni specifiche a tutti i cittadini o a determinate categorie di cittadini di un dato Stato terzo che coopera a sufficienza nell’ambito della riammissione di persone in situazione irregolare (art. 25<sup>bis</sup> par. 8).[^34b-6]
 
 [^34b-1]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^34b-5]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 (RU **20****24** 75).
+[^34b-5]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34b-6]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 ([RU 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -815,11 +820,11 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 **Conclusione di trattati internazionali legati al modello uniforme dei visti e dei permessi di soggiorno per cittadini di Stati terzi**[^34d-1]
 
-<sup>1</sup> La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 1683/95[^34d-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34d-3] e sempreché gli atti di esecuzione siano emanati sulla base dell’articolo 2 del regolamento (CE) n. 1683/95 e stabiliscano prescrizioni tecniche per il modello uniforme dei visti.
+<sup>1</sup> La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 1683/95[^34d-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34d-3] e sempreché gli atti di esecuzione siano emanati sulla base dell’articolo 2 del regolamento (CE) n. 1683/95 e stabiliscano prescrizioni tecniche per il modello uniforme dei visti o stabiliscano il carattere segreto di tali prescrizioni.[^34d-4]
 
 <sup>2</sup>
 
-La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 1030/2002[^34d-4], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e sempreché gli atti di esecuzione siano emanati sulla base degli articoli seguenti del regolamento (CE) n. 1030/2002 e riguardino gli ambiti seguenti:
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 1030/2002[^34d-5], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e sempreché gli atti di esecuzione siano emanati sulla base degli articoli seguenti del regolamento (CE) n. 1030/2002 e riguardino gli ambiti seguenti:
 
 - a. prescrizioni tecniche per il modello uniforme dei permessi di soggiorno per cittadini di Paesi terzi (art. 2 e 3);
 - b. prescrizioni tecniche per il rilevamento dei dati biometrici (art. 4*b*).
@@ -827,7 +832,8 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34d-1]: Introdotto dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. f.
 [^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. g.
+[^34d-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34d-5]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. g.
 
 #### Art. 34e
 
@@ -843,7 +849,8 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - d. la definizione e lo sviluppo del meccanismo e delle procedure per lo svolgimento di controlli di qualità nonché di requisiti appropriati relativi alla conformità qualitativa dei dati inseriti nel C-VIS (art. 29 par. 2<sup>bis</sup>);
 - e. la definizione delle specifiche di tali norme di qualità per la registrazione dei dati inseriti nel C-VIS (art. 29<sup>bis</sup> par. 3);
 - f. la definizione delle misure necessarie per lo sviluppo del C-VIS, delle interfacce nazionali in ciascuno Stato membro e dell’infrastruttura di comunicazione tra il C-VIS e le interfacce (art. 45 par. 1);
-- g. la definizione delle misure necessarie alla realizzazione tecnica delle funzionalità del C-VIS (art. 45 par. 2);
+- g.[^34e-4] la definizione delle misure necessarie alla realizzazione tecnica delle funzionalità del C-VIS (art. 45 par. 2 lett. a–f);
+- g<sup>bis</sup>.[^34e-5] la definizione delle misure necessarie alla realizzazione tecnica delle funzionalità della piattaforma dell’UE per le domande di visto, al suo utilizzo, ai formati dei documenti o dati personali da fornire e alle norme relative al trattamento dei dati (art. 45 par. 2 lett. g–r);
 - h. la definizione delle specifiche tecniche per la qualità, la risoluzione e l’uso delle impronte digitali e dell’immagine del volto ai fini delle verifiche biometriche e dell’identificazione nel C-VIS (art. 45 par. 3);
 - i. la definizione di norme dettagliate concernenti le condizioni per il funzionamento del portale per i vettori nonché la protezione dei dati e le norme di sicurezza applicabili (art. 45<sup>quater</sup> par. 3);
 - j. la definizione del metodo di autenticazione per i vettori (art. 45<sup>quater</sup> par. 5);
@@ -854,13 +861,18 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (CE) n. 767/2008, sempreché gli atti delegati siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (CE) n. 767/2008 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e riguardino gli ambiti seguenti:
 
-- a. l’elaborazione dell’elenco predefinito di occupazioni (art. 9 par. 3);
+- a.[^34e-6] la definizione di un modulo di domanda semplificato nella piattaforma dell’UE per le domande di visto, da utilizzare nelle procedure per la conferma del visto valido in un nuovo documento di viaggio o per la proroga del visto (art. 7<sup>ter</sup> par. 7);
+- a<sup>bis</sup>.[^34e-7] l’elaborazione dell’elenco predefinito di occupazioni (art. 9 par. 3);
 - b. la definizione esatta dei rischi per la sicurezza, di immigrazione illegale o l’alto rischio epidemico (art. 9<sup>undecies</sup> par. 2);
 - c. la predisposizione di un manuale che definisca le procedure e le norme necessarie per interrogazioni, verifiche e valutazioni nel quadro dell’interoperabilità dei sistemi d’informazione (art. 9<sup>nonies</sup> par. 2 e 22<sup>ter</sup> par. 18).
 
 [^34e-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34e-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. h.
 [^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34e-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-5]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-6]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-7]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 
 #### Art. 34f
 
@@ -893,6 +905,16 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34g-1]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^34g-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. k.
 [^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art 34h
+
+**Conclusione di trattati internazionali legati al regolamento (CE) n. 694/2003**[^34h-1]
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 694/2003[^34h-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell*’*articolo 7*a* LOGA[^34h-3] e sempreché gli atti di esecuzione siano emanati sulla base dell*’*articolo 2 del regolamento (CE) n. 694/2003 e stabiliscano prescrizioni tecniche per il modello uniforme di documento di transito agevolato e di documento di transito ferroviario agevolato o stabiliscano il carattere segreto di tali prescrizioni.
+
+[^34h-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34h-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. l.
+[^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 
