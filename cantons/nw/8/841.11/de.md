@@ -4,13 +4,12 @@ number: "841.11"
 title: Vollzugsverordnung zum kantonalen Jagdgesetz
 short: "Kantonale Jagdverordnung, kJSV"
 language: de
-version: 2023-09-01
-valid_until: 2024-05-14
-version_adopted: 2023-05-16
+version: 2024-05-15
+version_adopted: 2024-05-07
 adopted: 2008-06-02
 in_force: 2008-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1151/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1151/pdf_file"
 
 (Kantonale Jagdverordnung, kJSV)
 
-vom 02.06.2008 (Stand 01.09.2023)
+vom 02.06.2008 (Stand 15.05.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -189,7 +188,7 @@ beschliesst:
   - b) übriges, nicht geschütztes Niederwild: — 15. Okt. bis 30. Nov.
 - 3\. Winterjagd: — 1. Dez. bis 31. Jan.
 - 4\. Hegejagd auf geschütztes Wild:
-  - a) Steinbock: — 1. Sept. bis 31. Okt.
+  - a) Steinbock: — 1. Aug. bis 30. Nov.
 
 #### § 14
 
