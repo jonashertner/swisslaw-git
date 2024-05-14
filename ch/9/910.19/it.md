@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2011 concernente l'impiego delle designazioni «
 short: ODMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: it
-version: 2023-09-01
+version: 2024-05-15
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20240515/it/xml/fedlex-data-admin-ch-eli-cc-2011-340-20240515-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20240515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/it"
 
 (Ordinanza sulle designazioni «montagna» e «alpe», ODMA)
 
-del 25 maggio 2011 (Stato 1° settembre 2023)
+del 25 maggio 2011 (Stato 15 maggio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -78,7 +78,7 @@ La presente ordinanza si applica all’impiego delle designazioni «montagna» e
 <sup>2</sup> La designazione «alpe» può essere impiegata per i prodotti d’origine animale soltanto se sono adempiute le esigenze riguardanti il foraggiamento di cui all’articolo 31 dell’ordinanza del 23 ottobre 2013[^5-1] sui pagamenti diretti.[^5-2]
 
 [^5-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-2]: Nuovo testo giusta l’all. 9 n. 12 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^5-2]: Nuovo testo giusta l’all. 9 n. 12 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)). La mod. del 15 mag. 2023 concerne soltanto il testo francese ([RU 2024 214](https://fedlex.data.admin.ch/eli/oc/2024/214)).
 
 #### Art. 6
 

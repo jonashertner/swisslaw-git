@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2011 sur l'utilisation des dénominations «montagn
 short: ODMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: fr
-version: 2023-09-01
+version: 2024-05-15
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20240515/fr/xml/fedlex-data-admin-ch-eli-cc-2011-340-20240515-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20240515/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/fr"
 
 (Ordonnance sur les dénominations «montagne» et «alpage», ODMA)
 
-du 25 mai 2011 (État le 1<sup>er</sup> septembre 2023)
+du 25 mai 2011 (État le 15 mai 2024)
 
 Le Conseil fédéral suisse,
 
@@ -75,10 +75,10 @@ La présente ordonnance s’applique à l’utilisation des dénominations «mon
 
 <sup>1</sup> La dénomination «montagne» ne peut être utilisée pour les produits d’origine animale que lorsque 70 % au moins de la ration des ruminants, rapportée à la matière sèche, proviennent de la région d’estivage ou d’une région de montagne.
 
-<sup>2</sup> La dénomination «alpage» ne peut être utilisée pour les produits d’origine animale que lorsque les exigences relatives aux aliments pour animaux visés à l’art. 31 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^5-1].[^5-2]
+<sup>2</sup> La dénomination «alpage» ne peut être utilisée pour les produits d’origine animale que lorsque les exigences relatives aux aliments pour animaux visés à l’art. 31 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^5-1] sont remplies.[^5-2]
 
 [^5-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-2]: Nouvelle teneur selon l’annexe 9 ch. 12 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^5-2]: Nouvelle teneur selon l’annexe 9 ch. 12 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)). Erratum du 15 mai 2024 ([RO 2024 214](https://fedlex.data.admin.ch/eli/oc/2024/214)).
 
 #### Art. 6
 

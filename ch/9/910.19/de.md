@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über die Verwendung der Bezeichnungen «Ber
 short: BAlV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: de
-version: 2023-09-01
+version: 2024-05-15
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20240515/de/xml/fedlex-data-admin-ch-eli-cc-2011-340-20240515-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20240515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/de"
 
 (Berg- und Alp-Verordnung, BAlV)
 
-vom 25. Mai 2011 (Stand am 1. September 2023)
+vom 25. Mai 2011 (Stand am 15. Mai 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -78,7 +78,7 @@ Diese Verordnung gilt für die Verwendung der Bezeichnungen «Berg» und «Alp»
 <sup>2</sup> Die Bezeichnung «Alp» darf für tierische Erzeugnisse nur verwendet werden, wenn die Anforderungen an die Fütterung nach Artikel 31 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-1] erfüllt sind.[^5-2]
 
 [^5-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-2]: Fassung gemäss Anhang 9 Ziff. 12 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^5-2]: Fassung gemäss Anhang 9 Ziff. 12 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)). Die Berichtigung vom 15. Mai 2024 betrifft nur den französischen Text ([AS 2024 214](https://fedlex.data.admin.ch/eli/oc/2024/214)).
 
 #### Art. 6
 
