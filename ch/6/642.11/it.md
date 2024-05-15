@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2024-03-01
+version: 2024-05-16
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240516/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240516-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240516/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240301/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° marzo 2024)
+del 14 dicembre 1990 (Stato 16 maggio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -528,6 +528,7 @@ Non sottostanno all’imposta sul reddito:[^24-1]
 - i.[^24-4] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^24-5] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
 - i<sup>bis</sup>.[^24-6] le singole vincite fino a 1 056 600 franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
 - i<sup>ter</sup>.[^24-7] le vincite ai giochi di piccola estensione ammessi secondo la LGD;
+
 - j.[^24-8] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite di 1100 franchi;
 - k.[^24-9] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^24-10] sulle prestazioni transitorie per i disoccupati anziani.
 
@@ -538,7 +539,7 @@ Non sottostanno all’imposta sul reddito:[^24-1]
 [^24-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^24-6]: Introdotta dall’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Nuovo testo giusta l’art. 6 cpv. 2 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-7]: Introdotta dall’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^24-8]: Introdotta dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’art. 6 cpv. 3 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^24-8]: Introdotta dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’art. 6 cpv. 3 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)). La correzione della CdR dell’AF del 14 mag. 2024, pubblicata il 16 mag. 2024, concerne soltanto il testo francese ([RU 2024 215](https://fedlex.data.admin.ch/eli/oc/2024/215)).
 [^24-9]: Introdotta dall’all. n. 2 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)). Nuovo testo giusta l’art. 7 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^24-10]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
@@ -698,6 +699,7 @@ Sono dedotti dai proventi:
 - b.[^33-3] il 40 per cento delle rendite vitalizie versate, nonché gli oneri permanenti;
 - c. gli alimenti versati al coniuge divorziato o separato legalmente o di fatto nonché gli alimenti versati a un genitore per i figli sotto la sua autorità parentale, escluse tuttavia le prestazioni versate in virtù di un obbligo di mantenimento o di assistenza fondato sul diritto di famiglia;
 - d.[^33-4] i versamenti, premi e contributi legali, statutari o regolamentari all’assicurazione vecchiaia, superstiti e invalidità, nonché a istituzioni di previdenza professionale;
+
 - e. i versamenti, premi e contributi per acquisire diritti contrattuali in forme riconosciute della previdenza individuale vincolata; il Consiglio federale, con la collaborazione dei Cantoni, stabilisce le forme previdenziali riconosciute e decide in qual misura i contributi possono essere dedotti;
 - f. i premi e i contributi versati per le indennità per la perdita di guadagno, per l’assicurazione contro la disoccupazione e per l’assicurazione obbligatoria contro gli infortuni;
 - g.[^33-5]
