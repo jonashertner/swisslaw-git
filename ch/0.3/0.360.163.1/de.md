@@ -3,11 +3,11 @@ sr: "0.360.163.1"
 title: "Vertrag vom 4. Juni 2012 zwischen der Schweizerischen Eidgenossenschaft, der Republik Österreich und dem Fürstentum Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/442"
 language: de
-version: 2022-01-01
+version: 2024-05-22
 adopted: 2012-06-04
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-442-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20240522/de/xml/fedlex-data-admin-ch-eli-cc-2017-442-20240522-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20240522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 9. September 2014
 
 In Kraft getreten am 1. Juli 2017
 
-(Stand am 1. Januar 2022)
+(Stand am 22. Mai 2024)
 
 [^t-1]: [AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)
 
@@ -54,7 +54,7 @@ sind wie folgt übereinkommen:
 [^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 [^ingress-3]: [SR 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
 [^ingress-4]: [SR 0.235.11](https://fedlex.data.admin.ch/eli/cc/2008/183)
-[^ingress-5]: Die Empfehlung kann beim Europarat unter www.coe.int &gt; Organisation &gt; Ministerkomitee &gt; Adopted texts &gt; All Recommendations abgerufen werden.
+[^ingress-5]: Die Empfehlung kann beim Europarat unter [https://www.coe.int](https://www.coe.int) &gt; Ministerkomitee &gt; Documents &gt; Adopted texts &gt; Recommendations abgerufen werden.
 
 ## Kapitel I: Allgemeine Bestimmungen
 
@@ -706,9 +706,11 @@ Die Beamten der Vertragsstaaten bleiben in Bezug auf ihr Dienst- oder Anstellung
 
 <sup>1</sup> Verursachen Beamte eines Vertragsstaates beim Vollzug dieses Abkommens auf dem Hoheitsgebiet eines anderen Vertragsstaates einen Schaden, haftet dieser gegenüber den geschädigten Dritten unter den gleichen Voraussetzungen und im gleichen Umfang, wie wenn eigene sachlich und örtlich zuständige Beamte den Schaden verursacht hätten.
 
-<sup>2</sup> Der Vertragsstaat, der an die Geschädigten oder ihre Rechtsnachfolger Schadenersatz geleistet hat, erhält diesen vom anderen Vertragsstaat erstattet, es sei denn, dass der Einsatz auf sein Ersuchen erfolgt ist oder dass die Beamten den Schaden vorsätzlich oder grob fahrlässig verursacht haben. Bei Schäden zu Lasten der Vertragsstaaten wird darauf verzichtet, den erlittenen Schaden geltend zu machen, es sei denn, dass die Beamten den Schaden vorsätzlich oder grob fahrlässig verursacht haben.
+<sup>2</sup> Der Vertragsstaat, der an die Geschädigten oder ihre Rechtsnachfolger Schadenersatz geleistet hat, erhält diesen vom anderen Vertragsstaat erstattet, es sei denn, dass der Einsatz auf sein Ersuchen erfolgt ist oder dass die Beamten den Schaden leicht fahrlässig verursacht haben. Bei Schäden zu Lasten der Vertragsstaaten wird darauf verzichtet, den erlittenen Schaden geltend zu machen, es sei denn, dass die Beamten den Schaden vorsätzlich oder grob fahrlässig verursacht haben.[^37-1]
 
 <sup>3</sup> Bei der Unterstellung von Beamten gemäss Artikeln 19, 20 und 22 und im Rahmen von Ereignissen nach Artikel 24 haftet der Vertragsstaat, auf dessen Hoheitsgebiet der Einsatz stattfindet, für Schäden, die von Dritten vorsätzlich oder grob fahrlässig an Ausrüstungsgegenständen oder Fahrzeugen der entsendeten Beamten verursacht wurden. Dies gilt auch im Falle der Bereitstellung von Ausrüstungsgegenständen.
+
+[^37-1]: Fassung gemäss Notenaustausch vom 29. Mai 2024, in Kraft seit 22. Mai 2024 ([AS 2024 290](https://fedlex.data.admin.ch/eli/oc/2024/290)).
 
 #### Art. 38
 

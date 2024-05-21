@@ -3,11 +3,11 @@ sr: "0.360.163.1"
 title: "Accordo del 4 giugno 2012 tra la Confederazione Svizzera, la Repubblica d'Austria e il Principato del Liechtenstein sulla cooperazione transfrontaliera in materia di polizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/442"
 language: it
-version: 2022-01-01
+version: 2024-05-22
 adopted: 2012-06-04
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-442-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20240522/it/xml/fedlex-data-admin-ch-eli-cc-2017-442-20240522-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20240522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Concluso il 4 giugno 2012 Approvato dall’Assemblea federale il 21 marzo 2014[^
 
 Entrato in vigore il 1° luglio 2017
 
-(Stato 1° gennaio 2022)
+(Stato 22 maggio 2024)
 
 [^t-1]: [RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)
 
@@ -50,7 +50,7 @@ hanno convenuto quanto segue:
 [^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 [^ingress-3]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
 [^ingress-4]: [RS 0.235.11](https://fedlex.data.admin.ch/eli/cc/2008/183)
-[^ingress-5]: La raccomandazione può essere consultata sul sito del Consiglio d’Europa all’indirizzo: www.coe.int &gt; Organizzazione &gt; Comitato dei Ministri &gt; Textes adoptés &gt; Toutes les recommandations (in francese o inglese).
+[^ingress-5]: La raccomandazione può essere consultata sul sito del Consiglio d’Europa all’indirizzo: [www.coe.int](http://www.coe.int) &gt; Organizzazione &gt; Comitato dei Ministri &gt; Textes adoptés &gt; Toutes les recommandations (in francese o inglese).
 
 ## Capitolo I: Disposizioni generali
 
@@ -702,9 +702,11 @@ Gli agenti degli Stati contraenti sottostanno alle disposizioni nazionali per qu
 
 <sup>1</sup> Se gli agenti di uno Stato contraente durante l’esecuzione delle attività previste dal presente Accordo provocano danni sul territorio dell’altro Stato contraente, quest’ultimo risponde nei confronti di terzi danneggiati alle stesse condizioni e nella stessa misura come se il danno fosse stato provocato dai suoi agenti competenti per materia e per territorio.
 
-<sup>2</sup> Lo Stato contraente che ha risarcito il danno ai danneggiati o ai loro aventi diritto ne ottiene il rimborso dall’altro Stato contraente, a meno che l’intervento sia avvenuto su sua richiesta o che gli agenti abbiano causato il danno intenzionalmente o per negligenza grave. In caso di danni nei confronti degli Stati contraenti, questi ultimi rinunciano a far valere il danno subito, a meno che gli agenti abbiano causato il danno intenzionalmente o per negligenza grave.
+<sup>2</sup> Lo Stato contraente che ha risarcito il danno ai danneggiati o ai loro aventi diritto ne ottiene il rimborso dall’altro Stato contraente, a meno che l’intervento sia avvenuto su sua richiesta o che gli agenti abbiano causato il danno per negligenza lieve. In caso di danni nei confronti degli Stati contraenti, questi ultimi rinunciano a far valere il danno subito, a meno che gli agenti abbiano causato il danno intenzionalmente o per negligenza grave.[^37-1]
 
 <sup>3</sup> In caso di subordinazione di agenti ai sensi degli articoli 19, 20 e 22 e nel quadro di eventi contemplati dall’articolo 24, lo Stato contraente sul cui territorio si svolge l’intervento è responsabile dei danni provocati da terzi intenzionalmente o per negligenza grave all’equipaggiamento o ai veicoli degli agenti inviati. Tale responsabilità è estesa anche all’equipaggiamento messo a loro disposizione.
+
+[^37-1]: Nuovo testo giusta lo Scambio di note del 29 mag. 2024, in vigore dal 22 mag. 2024 ([RU 2024 290](https://fedlex.data.admin.ch/eli/oc/2024/290)).
 
 #### Art. 38
 

@@ -3,11 +3,11 @@ sr: "0.360.163.1"
 title: "Accord du 4 juin 2012 entre la Confédération suisse, la République d'Autriche et la Principauté de Liechtenstein concernant la coopération policière transfrontalière"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/442"
 language: fr
-version: 2022-01-01
+version: 2024-05-22
 adopted: 2012-06-04
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-442-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20240522/fr/xml/fedlex-data-admin-ch-eli-cc-2017-442-20240522-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20240522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 9 septembre 2014
 
 Entré en vigueur le 1<sup>er</sup> juillet 2017
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(État le 22 mai 2024)
 
 [^t-1]: [RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)
 
@@ -54,7 +54,7 @@ sont convenues des dispositions suivantes:
 [^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 [^ingress-3]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
 [^ingress-4]: [RS 0.235.11](https://fedlex.data.admin.ch/eli/cc/2008/183)
-[^ingress-5]: La recommandation peut être consultée sur le site du Conseil de l’Europe à l’adresse suivante: www.coe.int &gt; Organisation &gt; Comité des ministres &gt; Textes adoptés &gt; Toutes les recommandations.
+[^ingress-5]: La recommandation peut être consultée sur le site du Conseil de l’Europe à l’adresse suivante: [www.coe.int](http://www.coe.int) &gt; Organisation &gt; Comité des ministres &gt; Textes adoptés &gt; Toutes les recommandations.
 
 ## Chapitre I Dispositions générales
 
@@ -706,9 +706,11 @@ Les fonctionnaires des États contractants restent soumis aux prescriptions de l
 
 <sup>1</sup> En cas de dommage causé à un tiers par des fonctionnaires d’un État contractant en mission au titre du présent accord sur le territoire d’un autre État contractant, ce dernier répond du dommage aux mêmes conditions et dans la même mesure que s’il avait été causé par ses propres fonctionnaires compétents à raison du lieu et de la matière.
 
-<sup>2</sup> L’État contractant qui a versé à la personne lésée ou à ses successeurs légaux une indemnité à titre de réparation est remboursé par l’autre État contractant, à moins qu’il ait lui-même sollicité l’intervention ou que les fonctionnaires aient causé le dommage intentionnellement ou aient fait preuve d’une négligence grave. En cas de préjudice subi par les États contractants, ceux-ci renoncent à en demander la réparation, à moins que les fonctionnaires aient causé le dommage intentionnellement ou qu’ils aient fait preuve d’une négligence grave.
+<sup>2</sup> L’État contractant qui a versé à la personne lésée ou à ses successeurs légaux une indemnité à titre de réparation est remboursé par l’autre État contractant, à moins qu’il ait lui-même sollicité l’intervention ou que les fonctionnaires ont causé le dommage par une négligence légère. En cas de préjudice subi par les États contractants, ceux-ci renoncent à en demander la réparation, à moins que les fonctionnaires aient causé le dommage intentionnellement ou qu’ils aient fait preuve d’une négligence grave.[^37-1]
 
 <sup>3</sup> Lors du rattachement de fonctionnaires conformément aux art. 19, 20 et 22 dans le cadre d’événements au sens de l’art. 24, l’État contractant sur le territoire duquel la mission a lieu est responsable des dommages causés intentionnellement par des tiers aux équipements ou aux véhicules des fonctionnaires détachés ou qui résultent d’une négligence grave de ces tiers. Cette disposition s’applique également lorsque du matériel d’équipement a été mis à leur disposition.
+
+[^37-1]: Nouvelle teneur selon l’échange de notes du 29 mai 2024, en vigueur depuis le 22 mai 2024 ([RO 2024 290](https://fedlex.data.admin.ch/eli/oc/2024/290)).
 
 #### Art. 38
 
