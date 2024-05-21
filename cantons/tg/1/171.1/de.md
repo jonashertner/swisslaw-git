@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "171.1"
-title: Geschäftsordnung des Grossen Rates des Kantons Thurgau
+title: Geschäftsordnung des Grossen Rats des Kantons Thurgau
 short: GOGR
 language: de
-version: 2022-05-18
-valid_until: 2024-05-21
-version_adopted: 2021-10-27
+version: 2024-05-22
+version_adopted: 2024-04-17
 adopted: 2000-03-22
 in_force: 2000-05-24
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/171.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2504/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Geschäftsordnung des Grossen Rates des Kantons Thurgau
+# Geschäftsordnung des Grossen Rats des Kantons Thurgau
 
 GOGR
 
 (GOGR)
 
-vom 22.03.2000 (Stand 18.05.2022)
+vom 22.03.2000 (Stand 22.05.2024)
 
 ## 1. Konstituierung und Organisation
 
@@ -29,9 +28,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Eröffnungssitzung einer neuen Amtsperiode**
 
-<sup>1</sup> Zur Eröffnungssitzung einer Amtsperiode wird der Grosse Rat in der zweiten Hälfte des Monats Mai durch das amtsälteste oder bei gleich langer Amtszeit durch das ältere Mitglied eingeladen. Der Alterspräsident oder die Alterspräsidentin eröffnet die Sitzung, bezeichnet vorläufig einen Sekretär oder eine Sekretärin sowie vier Stimmenzählende, lässt über die Ergebnisse der Wahlen befinden, nimmt die Amtsgelübde der neu eintretenden Ratsmitglieder ab und leitet die Wahl des Präsidiums.
+<sup>1</sup> Zur Eröffnungssitzung einer Amtsperiode wird der Grosse Rat in der zweiten Hälfte des Monats Mai durch das amtsälteste oder bei gleich langer Amtszeit durch das ältere Mitglied eingeladen. Die Alterspräsidentin oder der Alterspräsident eröffnet die Sitzung, bezeichnet vorläufig eine Sekretärin oder einen Sekretär sowie vier Stimmenzählende, lässt über die Ergebnisse der Wahlen befinden, nimmt die Amtsgelübde der neu eintretenden Ratsmitglieder ab und leitet die Wahl des Präsidiums.
 
-<sup>2</sup> Der neue Präsident oder die neue Präsidentin übernimmt den Vorsitz und lässt die weiteren Mitglieder des Büros wählen.
+<sup>2</sup> Die neue Präsidentin oder der neue Präsident übernimmt den Vorsitz und lässt die weiteren Mitglieder des Ratsbüros wählen.
 
 #### § 2
 
@@ -39,15 +38,15 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Auf die Eröffnungssitzung hin stellt der Regierungsrat dem Grossen Rat eine Botschaft über die Wahlergebnisse mit den Wahlprotokollen sowie allfällige Wahlrekurse mit den Akten zu.
 
-<sup>2</sup> Der Grosse Rat befindet über die Ergebnisse der Wahlen, bei Unstimmigkeiten oder Wahlrekursen auf Antrag des Büros.
+<sup>2</sup> Der Grosse Rat befindet über die Ergebnisse der Wahlen, bei Unstimmigkeiten oder Wahlrekursen auf Antrag des Ratsbüros.
 
-<sup>3</sup> Mitglieder, deren Wahl bestritten ist, nehmen bis zum Entscheid des Grossen Rates über die Gültigkeit ihres Mandates nicht an den Verhandlungen teil.
+<sup>3</sup> Mitglieder, deren Wahl bestritten ist, nehmen bis zum Entscheid des Grossen Rats über die Gültigkeit ihres Mandats nicht an den Verhandlungen teil.
 
 #### § 2a
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Das Büro erlässt zur Umsetzung von § 29 Abs. 2 der Kantonsverfassung (KV)[^2a-1] betreffend Unvereinbarkeit Richtlinien und sorgt für deren Anwendung.
+<sup>1</sup> Das Ratsbüro erlässt zur Umsetzung von § 29 Abs. 2 der Kantonsverfassung (KV)[^2a-1] betreffend Unvereinbarkeit Richtlinien und sorgt für deren Anwendung.
 
 <sup>2</sup> In streitigen Fällen entscheidet der Grosse Rat.
 
@@ -57,9 +56,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Amtsgelübde**
 
-<sup>1</sup> Mitglieder, die erstmals gewählt worden sind, legen, namentlich aufgerufen, an ihrer ersten Sitzung vor dem Ratsbüro das im Anhang zu dieser Geschäftsordnung festgelegte Amtsgelübde ab. Die Ratsmitglieder erheben sich von den Sitzen.
+<sup>1</sup> Mitglieder, die erstmals gewählt worden sind, werden namentlich aufgerufen und legen an ihrer ersten Sitzung das im Anhang zu dieser Geschäftsordnung festgelegte Amtsgelübde ab. Die Ratsmitglieder erheben sich von den Sitzen.
 
-<sup>2</sup> Regierungsräte oder Regierungsrätinnen, der Staatsschreiber oder die Staatsschreiberin, der Generalstaatsanwalt oder die Generalstaatsanwältin und Richter oder Richterinnen der kantonalen Gerichte, die erstmals gewählt worden sind, legen, namentlich aufgerufen, vor dem Ratsbüro das im Anhang zu dieser Geschäftsordnung festgelegte Amtsgelübde ab. Die Ratsmitglieder erheben sich von den Sitzen.
+<sup>2</sup> Regierungsrätinnen oder Regierungsräte, die Staatsschreiberin oder der Staatsschreiber, die Generalstaatsanwältin oder der Generalstaatsanwalt und Richterinnen oder Richter der kantonalen Gerichte, die erstmals gewählt worden sind, werden namentlich aufgerufen und legen das im Anhang zu dieser Geschäftsordnung festgelegte Amtsgelübde ab. Die Ratsmitglieder erheben sich von den Sitzen.
 
 #### § 4
 
@@ -67,9 +66,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Beim Amtsantritt unterrichtet jedes Ratsmitglied unter Vorbehalt des Berufsgeheimnisses die Parlamentsdienste schriftlich über:
 
-- 1\. seine berufliche Tätigkeit;
-- 2\. die Tätigkeit in Führungs- und Aufsichtsgremien in- und ausländischer Unternehmen, Körperschaften, Anstalten und Stiftungen des privaten und des öffentlichen Rechtes;
-- 3\. die Ausübung wichtiger politischer Ämter.
+- 1\. seine berufliche Tätigkeit
+- 2\. die Tätigkeit in Führungs- und Aufsichtsgremien in- und ausländischer Unternehmen, Körperschaften, Anstalten und Stiftungen des privaten und des öffentlichen Rechtes
+- 3\. die Ausübung wichtiger politischer Ämter
 
 <sup>2</sup> Die Parlamentsdienste erstellen ein Register über die Angaben der Ratsmitglieder. Dieses ist öffentlich.
 
@@ -79,19 +78,23 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Ordentliche Wahlen**
 
-<sup>1</sup> Für jedes weitere Amtsjahr innerhalb einer Legislaturperiode werden die Büromitglieder an der Wahlsitzung in der zweiten Hälfte des Monats Mai gewählt.
+<sup>1</sup> An der Wahlsitzung in der zweiten Hälfte des Monats Mai finden die Wahlen für das Amtsjahr sowie weitere ordentliche Wahlen statt. Das Präsidium und das Vizepräsidium werden für die Dauer des Amtsjahrs, die übrigen Ratsbüromitglieder für die Dauer der Legislatur gewählt.
 
-<sup>2</sup> An dieser Sitzung finden weitere ordentliche Wahlen statt.
+<sup>2</sup> Die Wahlen gemäss § 58 Abs. 1 Ziff. 3 bis Ziff. 11 finden im Januar vor der Eröffnungssitzung statt.
 
 #### § 6
 
 **Ratsbüro**
 
-<sup>1</sup> Das Büro besteht aus dem Ratspräsidium mit dem Präsidenten oder der Präsidentin, dem Ratsvizepräsidium mit dem Vizepräsidenten oder der Vizepräsidentin, dem Ratssekretariat mit zwei Mitgliedern sowie vier Stimmenzählenden.
+<sup>1</sup> Das Ratsbüro besteht aus dem Präsidium, dem Vizepräsidium, dem Ratssekretariat mit zwei Mitgliedern, vier Stimmenzählenden und je einem Mitglied (Beisitzende) der noch nicht im Ratsbüro vertretenen Fraktionen.
 
 <sup>2</sup> …
 
-<sup>3</sup> Das Büro stellt die administrative Leitung und die Geschäftsführung des Grossen Rates sicher. Es behandelt die Geschäfte, die nicht einem anderen Organ des Grossen Rates zugewiesen sind, und beschliesst insbesondere die Stellungnahmen des Grossen Rates in Verwaltungs- und Gerichtsverfahren, an denen der Grosse Rat beteiligt ist. Es beschliesst über Gesuche auf Entbindung vom Amtsgeheimnis oder Ermächtigungen zur Strafverfolgung gemäss § 15 Verantwortlichkeitsgesetz[^6-1]; der Entscheid ist endgültig. Das Büro kann die Geschäftserledigung in besonderen Fällen auch einer Kommission, namentlich der Justizkommission, übertragen.
+<sup>3</sup> Das Ratsbüro stellt die administrative Leitung und die Geschäftsführung des Grossen Rats sicher. Es behandelt die Geschäfte, die nicht einem anderen Organ des Grossen Rats zugewiesen sind, und beschliesst insbesondere die Stellungnahmen des Grossen Rats in Verwaltungs- und Gerichtsverfahren, an denen der Grosse Rat beteiligt ist. Es beschliesst über Gesuche auf Entbindung vom Amtsgeheimnis oder Ermächtigungen zur Strafverfolgung gemäss § 15 Verantwortlichkeitsgesetz[^6-1]. Der Entscheid ist endgültig. Das Ratsbüro kann die Geschäftserledigung in besonderen Fällen auch einer Kommission übertragen, namentlich der Justizkommission.
+
+<sup>4</sup> Bei grosser Not oder schwerer Störung der öffentlichen Ordnung und Sicherheit kann das Ratsbüro zur Sicherstellung und Gewährleistung des Ratsbetriebs von der Geschäftsordnung abweichen. Es hat den Rat darüber unverzüglich zu informieren.
+
+<sup>5</sup> Stimmt der Grosse Rat den Notstandsmassnahmen zu, bleiben sie gültig. Spätestens nach einem Jahr treten sie ausser Kraft.
 
 [^6-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
 
@@ -99,7 +102,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Ratspräsidium**
 
-<sup>1</sup> Das Präsidium leitet die Geschäfte des Grossen Rates.
+<sup>1</sup> Das Präsidium leitet die Geschäfte des Grossen Rats.
 
 <sup>2</sup> Das Präsidium stellt für jede Sitzung eine Tagesordnung auf und erlässt mit Ausnahme der Eröffnungssitzung die Sitzungseinladungen.
 
@@ -113,7 +116,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Ratssekretariat**
 
-<sup>1</sup> Die Mitglieder des Sekretariates unterzeichnen mit dem Präsidenten oder der Präsidentin die Protokolle und alle vom Grossen Rat ausgehenden Schriftstücke.
+<sup>1</sup> Die Mitglieder des Sekretariats unterzeichnen mit dem Präsidium die Protokolle und alle vom Grossen Rat ausgehenden Schriftstücke.
 
 #### § 9
 
@@ -121,23 +124,29 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Die Stimmenzählenden ermitteln zusammen mit dem Ratssekretariat die Abstimmungsresultate.
 
+#### § 9a
+
+**Beisitzende**
+
+<sup>1</sup> Die Beisitzenden können Stellvertretungsaufgaben und besondere Aufgaben im Ratsbüro wahrnehmen.
+
 #### § 10
 
 **Parlamentsdienste**
 
 <sup>1</sup> Die Parlamentsdienste stehen dem Grossen Rat und seinen Organen für Dienstleistungen zur Verfügung.
 
-<sup>2</sup> Sie führen die Geschäftsstelle des Büros, der Kommissionen und der Fraktionspräsidienkonferenz.
+<sup>2</sup> Sie führen die Geschäftsstelle des Ratsbüros, der Kommissionen und der Fraktionspräsidienkonferenz.
 
 <sup>3</sup> Sie erfüllen insbesondere folgende Aufgaben:
 
-- 1\. Planung und Organisation des Ratsbetriebes;
-- 2\. Beratung der Ratsmitglieder in Verfahrensfragen;
-- 3\. Information und Dokumentation der Ratsmitglieder;
-- 4\. Führung des Protokolls der Ratssitzungen;
-- 5\. Führung des Protokolls des Büros (wird den Fraktionspräsidien und dem Regierungsrat zur Verfügung gestellt);
-- 6\. Führung des Protokolls der Fraktionspräsidienkonferenz (wird den Büromitgliedern und dem Regierungsrat zur Verfügung gestellt);
-- 7\. Erledigung der administrativen Sachgeschäfte.
+- 1\. Planung und Organisation des Ratsbetriebes
+- 2\. Beratung der Ratsmitglieder in Verfahrensfragen
+- 3\. Information und Dokumentation der Ratsmitglieder
+- 4\. Führung des Protokolls der Ratssitzungen
+- 5\. Führung des Protokolls des Ratsbüros (wird den Fraktionspräsidien und dem Regierungsrat zur Verfügung gestellt)
+- 6\. Führung des Protokolls der Fraktionspräsidienkonferenz (wird den Ratsbüromitgliedern und dem Regierungsrat zur Verfügung gestellt)
+- 7\. Erledigung der administrativen Sachgeschäfte
 
 ## 2. Sitzungen
 
@@ -153,13 +162,13 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Sitzordnung**
 
-<sup>1</sup> Das Büro erstellt eine Sitzordnung. Es nimmt Rücksicht auf die bisherige Praxis sowie auf Wünsche der Fraktionen.
+<sup>1</sup> Das Ratsbüro erstellt eine Sitzordnung. Es nimmt Rücksicht auf die bisherige Praxis sowie auf Wünsche der Fraktionen.
 
 #### § 13
 
 **Einladung**
 
-<sup>1</sup> Die Sitzungseinladung erfolgt nach Rücksprache mit dem Präsidium des Regierungsrates.
+<sup>1</sup> Die Sitzungseinladung erfolgt nach Rücksprache mit dem Präsidium des Regierungsrats.
 
 <sup>2</sup> Der Regierungsrat oder 30 Mitglieder können unter Angabe der Gründe die Einberufung einer Sitzung verlangen.
 
@@ -177,9 +186,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 #### § 15
 
-**Besucher und Besucherinnen**
+**Besucherinnen und Besucher**
 
-<sup>1</sup> Besuchern und Besucherinnen steht eine Tribüne zur Verfügung.
+<sup>1</sup> Besucherinnen und Besuchern steht eine Tribüne zur Verfügung.
 
 <sup>2</sup> Wer die Verhandlungen stört, wird auf Anordnung des Präsidiums aus dem Saal gewiesen und wenn nötig polizeilich weggeführt. Bei störender Unruhe auf der Tribüne kann das Präsidium die Räumung anordnen.
 
@@ -191,13 +200,23 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>2</sup> Bei Bild- und Tonaufnahmen aus dem Sitzungssaal darf der Ratsbetrieb nicht gestört werden. Der Rat kann in Ausnahmefällen ein zeitlich befristetes Bild- und Tonaufnahmeverbot beschliessen.
 
-<sup>3</sup> Medien, die zu den Sitzungen zugelassen sind, übernehmen damit die Verpflichtung, auf Begehren des Votanten oder der Votantin oder des Präsidiums unzutreffende Angaben über die Verhandlungen unverzüglich kostenlos zu berichtigen. Wird diese Verpflichtung nicht erfüllt, kann die Zulassung für eine bestimmte Zeit entzogen werden. Über den Ausschluss von einzelnen Medien, Berichterstattern oder Berichterstatterinnen entscheidet das Büro.
+<sup>3</sup> Medien, die zu den Sitzungen zugelassen sind, übernehmen damit die Verpflichtung, auf Begehren der Votantin oder des Votanten oder des Präsidiums unzutreffende Angaben über die Verhandlungen unverzüglich kostenlos zu berichtigen. Wird diese Verpflichtung nicht erfüllt, kann die Zulassung für eine bestimmte Zeit entzogen werden. Über den Ausschluss von einzelnen Medien, Berichterstatterinnen oder Berichterstattern entscheidet das Ratsbüro.
+
+#### § 16a
+
+**Elektronische Übertragung der Ratsdebatten**
+
+<sup>1</sup> Die Ratsdebatten werden mit Bild und Ton aufgenommen und als Live-Übertragung veröffentlicht. Bei den Aufnahmen dürfen keine persönlichen Unterlagen oder Materialien der Ratsmitglieder erkennbar sein.
+
+<sup>2</sup> Die Aufnahmen sind ein Jahr lang verfügbar und danach dauerhaft durch das Staatsarchiv zu archivieren.
+
+<sup>3</sup> Über Anträge auf vorzeitige Löschung des Bild- oder Tonmaterials entscheidet das Ratsbüro.
 
 #### § 17
 
-**Propagandamaterial**
+**Propagandamaterial, Kundgebungen**
 
-<sup>1</sup> Wer an die Ratsmitglieder vor, während oder nach einer Sitzung im Sitzungsgebäude oder unmittelbar vor dessen Eingang Material, insbesondere Schriftstücke, verteilen oder auflegen lassen will, bedarf einer vorherigen Bewilligung des Büros.
+<sup>1</sup> Wer zuhanden der Ratsmitglieder vor, während oder nach einer Sitzung im Sitzungsgebäude oder unmittelbar vor dessen Eingang Propagandamaterial verteilen oder auflegen lassen will, bedarf einer vorherigen Bewilligung des Ratsbüros. Dies gilt auch für die Durchführung von Kundgebungen oder ähnlichen Aktionen.
 
 ## 3. Verhandlungen
 
@@ -205,11 +224,11 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 #### § 18
 
-**Namensaufruf, Präsenz**
+**Präsenzerfassung**
 
-<sup>1</sup> Nach Eröffnung der Sitzung erfolgt der Namensaufruf.
+<sup>1</sup> Nach Eröffnung der Sitzung wird die Präsenz erfasst.
 
-<sup>2</sup> Wer verspätet erscheint oder vorzeitig weggehen muss, hat sich beim Ratssekretariat zu melden.
+<sup>2</sup> Wer verspätet erscheint oder die Sitzung vorzeitig verlässt, hat sich beim Ratssekretariat zu melden.
 
 #### § 18a
 
@@ -229,23 +248,23 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Dringlichkeit**
 
-<sup>1</sup> Wird für ein Geschäft, das nicht auf der Tagesordnung steht, dringliche Behandlung beantragt, ist der Vorstoss zuhanden des Präsidiums und des Regierungsrates möglichst frühzeitig, spätestens jedoch gemäss § 19 Abs. 2, einzureichen. Stimmt der Rat der Dringlichkeit zu, ist das Geschäft an der gleichen Sitzung abschliessend zu behandeln.
+<sup>1</sup> Wird für ein Geschäft, das nicht auf der Tagesordnung steht, dringliche Behandlung beantragt, ist der Vorstoss zuhanden des Präsidiums und des Regierungsrats möglichst frühzeitig einzureichen, spätestens jedoch gemäss § 19 Abs. 2. Stimmt der Rat der Dringlichkeit zu, ist das Geschäft an der gleichen Sitzung abschliessend zu behandeln.
 
 #### § 21
 
-**Vorlagen des Regierungsrates**
+**Vorlagen des Regierungsrats**
 
 <sup>1</sup> Entwürfe für Gesetze, Verordnungen oder Beschlüsse sowie Voranschlag, Staatsrechnung und spezielle Kreditbegehren sind den Mitgliedern mit einer erläuternden Botschaft zuzustellen.
 
-<sup>2</sup> Das Büro überweist die Vorlage an eine ständige oder an eine Spezialkommission zur Vorberatung.
+<sup>2</sup> Das Ratsbüro überweist die Vorlage an eine ständige Kommission oder an eine Spezialkommission zur Vorberatung.
 
-<sup>3</sup> Berichte können durch das Büro einer Kommission zur Vorberatung zugewiesen werden.
+<sup>3</sup> Berichte können durch das Ratsbüro einer Kommission zur Vorberatung zugewiesen werden.
 
 #### § 21a
 
 **Kommissionsbericht**
 
-<sup>1</sup> Das Kommissionspräsidium erstattet zuhanden des Rates einen schriftlichen Bericht über die Kommissionsberatung. Dieser wird den Ratsmitgliedern vorgängig zugestellt.
+<sup>1</sup> Das Kommissionspräsidium erstattet zuhanden des Rats einen schriftlichen Bericht über die Kommissionsberatung. Dieser wird den Ratsmitgliedern vorgängig zugestellt.
 
 <sup>2</sup> Der schriftliche Bericht ist nur ausnahmsweise im Rat zu verlesen. Das Kommissionspräsidium kann ergänzende mündliche Ausführungen machen.
 
@@ -253,11 +272,13 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Eintreten, Rückweisung, Detailberatung**
 
-<sup>1</sup> Bei jeder Vorlage ist zuerst über die Frage des Eintretens zu beraten und, sofern Eintreten nicht obligatorisch ist, zu beschliessen. Wird Eintreten beschlossen, folgt die Detailberatung. Beschliesst der Rat Nichteintreten, gilt das Geschäft als erledigt.
+<sup>1</sup> Bei Vorlagen, auf die nicht obligatorisch eingetreten werden muss, ist zuerst über die Frage des Eintretens zu beraten und zu beschliessen. Berichte können ohne Eintreten behandelt werden. Wird Eintreten nicht bestritten oder beschlossen, folgt die Detailberatung. Beschliesst der Rat Nichteintreten, gilt das Geschäft als erledigt.
 
 <sup>2</sup> Nach dem Eintretensbeschluss oder in der Detailberatung kann der Rat ein Geschäft ganz oder teilweise zur Überarbeitung an den Regierungsrat oder an die vorberatende Kommission zurückweisen oder an eine neue Kommission zuweisen.
 
 <sup>3</sup> In der Detailberatung kann jedes Mitglied Änderungen, Streichungen oder Ergänzungen beantragen.
+
+<sup>4</sup> Über Geschäfte, die dem Rat zur Kenntnisnahme vorgelegt werden, wird kein Beschluss gefasst.
 
 #### § 23
 
@@ -265,9 +286,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Wer zu einem Geschäft sprechen oder einen Antrag stellen will, hat beim Präsidium das Wort zu verlangen.
 
-<sup>2</sup> Dieses erteilt das Wort in der Reihenfolge der Anmeldungen, unter diesen zuerst den Sprechern oder Sprecherinnen der Fraktionen.
+<sup>2</sup> Dieses erteilt das Wort in der Reihenfolge der Anmeldungen, unter diesen zuerst den Sprecherinnen oder Sprechern der Fraktionen.
 
-<sup>3</sup> Will sich das Präsidium an der Diskussion beteiligen, ist dies anzukündigen. Das Wort wird nach den bereits angemeldeten Rednern oder Rednerinnen ergriffen. Wird dabei ein Antrag gestellt oder ein Kommissionsbericht erstattet, übernimmt das Vizepräsidium die Leitung der Verhandlung.
+<sup>3</sup> Will sich das Präsidium an der Diskussion beteiligen, ist dies anzukündigen. Das Wort wird nach den bereits angemeldeten Rednerinnen oder Rednern ergriffen. Wird dabei ein Antrag gestellt oder ein Kommissionsbericht erstattet, übernimmt das Vizepräsidium die Leitung der Verhandlung.
 
 #### § 24
 
@@ -309,7 +330,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Wird das Wort nicht mehr verlangt, erklärt das Präsidium die Diskussion als geschlossen.
 
-<sup>2</sup> Wird aufgrund eines Ordnungsantrages Schluss der Diskussion beschlossen, kann eine Fraktion, die in der abgeschlossenen Diskussion noch nicht zu Wort gekommen ist, ihren Standpunkt noch einbringen. Ebenso erhält noch das Wort, wer es schon vorher verlangt hat und einen neuen Antrag stellen will. Der Sprecher oder die Sprecherin der vorberatenden Kommission und des Regierungsrates haben Anrecht auf ein Schlusswort.
+<sup>2</sup> Wird aufgrund eines Ordnungsantrags Schluss der Diskussion beschlossen, kann eine Fraktion, die in der abgeschlossenen Diskussion noch nicht zu Wort gekommen ist, ihren Standpunkt noch einbringen. Ebenso erhält noch das Wort, wer es schon vorher verlangt hat und einen neuen Antrag stellen will. Die Sprecherin oder der Sprecher der vorberatenden Kommission und der Regierungsrat haben Anrecht auf ein Schlusswort.
 
 #### § 30
 
@@ -327,17 +348,19 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 #### § 32
 
-**Durchführung der Abstimmung**
+**Durchführung der Wahlen und Abstimmungen**
 
 <sup>1</sup> Wahlen und Abstimmungen erfolgen offen, wenn nicht eine besondere Rechtsgrundlage das geheime Abstimmungsverfahren verlangt.
 
-<sup>2</sup> Die Ratsmitglieder geben ihre Stimme ab, indem sie sich von ihren Sitzen erheben. Sie können sich der Stimme enthalten. In Schlussabstimmungen und bei Beschlüssen von erheblicher Tragweite sind die Ergebnisse auszuzählen.
+<sup>2</sup> Die Ratsmitglieder geben ihre Stimme bei offenen Wahlen und offenen Abstimmungen über das elektronische Abstimmungssystem ab. Das Stimmverhalten der einzelnen Ratsmitglieder und das Gesamtergebnis werden im Ratssaal angezeigt und mit dem Protokoll öffentlich gemacht.
 
-<sup>3</sup> Bei offenen Wahlen oder offenen Abstimmungen ohne Auszählungserfordernis stellt das Ratspräsidium bei offensichtlichem Ergebnis die Mehrheit fest. Bestehen darüber Zweifel oder verlangt es ein Ratsmitglied, lässt das Präsidium die Stimmen auszählen. Auf Anordnung des Präsidiums oder auf Begehren aus dem Rat wird das Gegenmehr ermittelt. Werden Unstimmigkeiten geltend gemacht, kann die Abstimmung wiederholt werden.
+<sup>2<sup>bis</sup></sup> Kann nicht elektronisch abgestimmt werden, geben die Ratsmitglieder ihre Stimme ab, indem sie sich von ihren Sitzen erheben. In Schlussabstimmungen und bei Beschlüssen von erheblicher Tragweite sind die Abstimmungen durch Namensaufruf durchzuführen. Zudem sind die Abstimmungen durch Namensaufruf durchzuführen, wenn mindestens 30 Mitglieder einem entsprechenden Antrag zustimmen.
 
-<sup>4</sup> Bei geheimen Wahlen oder geheimen Abstimmungen ermitteln die Stimmenzählenden mit den Sekretariatsmitgliedern das Ergebnis und erstellen darüber ein Protokoll.
+<sup>3</sup> Bei offenen Wahlen oder offenen Abstimmungen ohne Auszählungserfordernis stellt das Ratspräsidium bei offensichtlichem Ergebnis die Mehrheit fest. Bestehen darüber Zweifel oder verlangt es ein Ratsmitglied, lässt das Präsidium die Stimmen auszählen. Auf Anordnung des Präsidiums oder auf Begehren aus dem Rat wird das Gegenmehr ermittelt. Werden Unstimmigkeiten geltend gemacht, kann die Wahl oder die Abstimmung wiederholt werden.
 
-<sup>5</sup> Die Abstimmung ist durch Namensaufruf durchzuführen, wenn 30 Mitglieder einem entsprechenden Antrag zustimmen. Die Ratsmitglieder geben ihre Stimme sitzend ab. Name und Stimmabgabe werden protokolliert. Als gültige Stimmen zählen nur Antworten, die unmittelbar nach Verlesen des Namens erteilt werden.
+<sup>4</sup> Bei geheimen Wahlen oder geheimen Abstimmungen ermitteln die Stimmenzählenden mit den Sekretariatsmitgliedern das Ergebnis und erstellen darüber ein Protokoll. Das Protokoll wird veröffentlicht.
+
+<sup>5</sup> Bei Abstimmungen durch Namensaufruf geben die Ratsmitglieder ihre Stimme sitzend ab. Name und Stimmabgabe werden protokolliert. Als gültige Stimmen zählen nur Antworten, die unmittelbar nach Verlesen des Namens erteilt werden. Das Protokoll wird veröffentlicht.
 
 #### § 33
 
@@ -367,11 +390,11 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Protokoll**
 
-<sup>1</sup> Das Protokoll gibt Aufschluss über Ort und Zeit der Sitzung, die Teilnehmenden und den Gang der Verhandlungen. Anträge sind im Wortlaut aufzunehmen. Abstimmungen werden mit ihrem Ergebnis, bei Auszählung mit den Stimmenzahlen protokolliert.
+<sup>1</sup> Das Protokoll gibt Aufschluss über Ort und Zeit der Sitzung, die Teilnehmenden und den Gang der Verhandlungen. Anträge sind im Wortlaut aufzunehmen. Abstimmungen werden gemäss § 32 protokolliert.
 
-<sup>2</sup> Die Verwendung von Aufnahmegeräten als Hilfsmittel zur Protokollführung ist erlaubt. Massgeblich ist das schriftliche Protokoll. Für einzelne Verhandlungsgegenstände kann der Rat die Aufnahme eines wörtlichen Protokolls beschliessen.
+<sup>2</sup> Die Verwendung von Aufnahmegeräten als Hilfsmittel zur Protokollführung ist erlaubt. Massgeblich ist das schriftliche Wortprotokoll.
 
-<sup>3</sup> Das Protokoll wird durch das Büro genehmigt und liegt in der folgenden, ausnahmsweise in der übernächsten Sitzung im Ratssaal auf. Protokollberichtigungen können innert fünf Tagen nach der Auflage schriftlich beim Präsidium beantragt werden. Über die Berichtigung entscheidet das Büro.
+<sup>3</sup> Das Protokoll wird durch das Ratsbüro genehmigt und auf der Internetseite des Grossen Rats in der Regel am Vortag der Folgesitzung veröffentlicht. Protokollberichtigungen können innert fünf Tagen nach der elektronischen Publikation schriftlich beim Präsidium beantragt werden. Über die Berichtigung entscheidet das Ratsbüro abschliessend.
 
 <sup>4</sup> Das Protokoll ist öffentlich. Es kann bei den Parlamentsdiensten bezogen oder im Internet eingesehen werden.
 
@@ -381,7 +404,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Erscheinen Beratungsformen am Platz, die von den in diesem Reglement vorgesehenen Verfahren abweichen, beschliesst darüber der Rat von Fall zu Fall. Er kann insbesondere Augenscheine oder Besichtigungen durchführen.
 
-<sup>2</sup> Das Büro kann in besonderen Fällen den Einsatz geeigneter Präsentationsmittel zur Unterstützung der Beratungen bewilligen.
+<sup>2</sup> Das Ratsbüro kann in besonderen Fällen den Einsatz geeigneter Präsentationsmittel zur Unterstützung der Beratungen bewilligen.
 
 ### 3.2. Gesetze, Verordnungen und weitere Erlasse
 
@@ -393,7 +416,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1<sup>bis</sup></sup> Zur konsultativen Mitwirkung bei interkantonalen Verträgen, die der Beschlussfassung durch den Grossen Rat unterliegen, beantragt der Regierungsrat rechtzeitig die vorgezogene Bildung einer Spezialkommission.
 
-<sup>2</sup> Eine Ausweitung über den Bereich der Vorlage hinaus ist unter Wahrung der Mitwirkungsrechte des Regierungsrates gemäss § 42 der Kantonsverfassung zulässig.
+<sup>2</sup> Eine Ausweitung über den Bereich der Vorlage hinaus ist unter Wahrung der Mitwirkungsrechte des Regierungsrats gemäss § 42 der Kantonsverfassung zulässig.
 
 #### § 38
 
@@ -401,7 +424,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Vorlagen für Gesetze und Verordnungen werden, unter Vorbehalt von § 53a, zweimal durchberaten. Nach jeder Lesung ist die entsprechende Fassung zuzustellen, sofern Änderungen beschlossen wurden. Die vorberatende Kommission kann für die zweite Lesung neue Anträge stellen, die vorgängig ebenfalls zugestellt werden. Die zweite Lesung findet, sofern keine Dringlichkeit besteht, in einer späteren Sitzung statt.
 
-<sup>2</sup> Bei Beschlüssen über Staatsverträge und Konkordate sowie bei Erlassen, die lediglich der Genehmigung des Grossen Rates bedürfen, findet nur eine Lesung statt.
+<sup>2</sup> Bei Beschlüssen über Staatsverträge und Konkordate sowie bei Erlassen, die lediglich der Genehmigung des Grossen Rats bedürfen, findet nur eine Lesung statt.
 
 #### § 39
 
@@ -421,15 +444,33 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Behördenreferendum**
 
-<sup>1</sup> Wird ein Erlass, welcher der fakultativen Volksabstimmung unterliegt, in der Schlussabstimmung angenommen, stellt das Präsidium die Frage, wer sich für eine Volksabstimmung ausspreche. Eine Diskussion findet nicht statt. Das Ergebnis ist auszuzählen.
+<sup>1</sup> Wird ein Erlass, welcher der fakultativen Volksabstimmung unterliegt, in der Schlussabstimmung angenommen, stellt das Präsidium die Frage, wer sich für eine Volksabstimmung ausspreche. Eine Diskussion findet nicht statt. Das Ergebnis wird ermittelt.
 
 #### § 42
 
 **Botschaft an die Stimmberechtigten**
 
-<sup>1</sup> Abstimmungsvorlagen sind den Stimmberechtigten mit einer erläuternden Botschaft zu unterbreiten. Diese wird in der Regel durch den Regierungsrat verfasst. Ausnahmsweise kann der Grosse Rat das Büro oder die vorberatende Kommission mit der Abfassung der Botschaft beauftragen; diese wird als Botschaft des Grossen Rates veröffentlicht.
+<sup>1</sup> Abstimmungsvorlagen sind den Stimmberechtigten mit einer erläuternden Botschaft zu unterbreiten. Diese wird in der Regel durch den Regierungsrat verfasst. Ausnahmsweise kann der Grosse Rat das Ratsbüro oder die vorberatende Kommission mit der Abfassung der Botschaft beauftragen. Diese wird als Botschaft des Grossen Rats veröffentlicht.
 
 ### 3.3. Persönliche Vorstösse
+
+#### § 42a
+
+**Datum der Einreichung**
+
+<sup>1</sup> Persönliche Vorstösse tragen das Datum der Ratssitzung, an der sie eingereicht werden. Werden sie früher eingereicht, gilt das Datum der nächstfolgenden Ratssitzung. Vorstösse mit Antrag auf Dringlichkeit tragen das Datum der Einreichung.
+
+#### § 42b
+
+**Form**
+
+<sup>1</sup> Persönliche Vorstösse werden in Papierform mit Originalunterschrift an einer Ratssitzung, elektronisch oder postalisch bei den Parlamentsdiensten zuhanden des Präsidiums eingereicht.
+
+<sup>2</sup> Elektronisch eingereichte Vorstösse müssen mit einer anerkannten elektronischen Signatur versehen sein. Der Vorstoss muss bis Sitzungsbeginn bei den Parlamentsdiensten eingetroffen sein.
+
+<sup>3</sup> Die Einreichung per Post setzt voraus, dass der Vorstoss in Papierform mit Originalunterschrift eingeht. Der Vorstoss muss bis am Vortag vor einer Ratssitzung bei den Parlamentsdiensten eingetroffen sein.
+
+<sup>4</sup> Die Parlamentsdienste lassen den Vorstoss bei den Ratsmitgliedern zur Mitunterzeichnung zirkulieren mit Ausnahme der Einfachen Anfrage.
 
 #### § 43
 
@@ -437,27 +478,27 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Mit der Parlamentarischen Initiative wird dem Rat der Auftrag erteilt, aufgrund eines ausgearbeiteten Entwurfes den Erlass, die Abänderung oder die Aufhebung einer Verfassungsvorschrift, eines Gesetzes, einer grossrätlichen Verordnung oder eines Grossratsbeschlusses zu prüfen.
 
-<sup>2</sup> Eine Parlamentarische Initiative kann von einem Mitglied, mehreren Mitgliedern oder von einer Kommission des Rates vorgelegt werden. Der ausgearbeitete Entwurf ist mit einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, zuhanden des Präsidiums einzureichen.
+<sup>2</sup> Eine Parlamentarische Initiative kann von einem Mitglied, mehreren Mitgliedern oder von einer Kommission des Rats vorgelegt werden. Der ausgearbeitete Entwurf ist mit einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, einzureichen.
 
 <sup>3</sup> Das Präsidium gibt dem Rat vom Eingang der Parlamentarischen Initiative Kenntnis. Die Parlamentsdienste teilen den Wortlaut, die Namen der Unterzeichnenden und die Begründung schriftlich mit.
 
-<sup>4</sup> Das Büro lädt den Regierungsrat zu einer Stellungnahme zum Verfahren und zum Inhalt ein. Die Stellungnahme des Regierungsrates ist in der Regel innert zwei Monaten zu erstatten und erfolgt zuhanden des Rates.
+<sup>4</sup> Das Ratsbüro lädt den Regierungsrat zu einer Stellungnahme zum Verfahren und zum Inhalt ein. Die Stellungnahme des Regierungsrats ist in der Regel innert zwei Monaten zu erstatten und erfolgt zuhanden des Rats.
 
-<sup>5</sup> Der oder die Erstunterzeichnende kann die Parlamentarische Initiative bis zum Abschluss der Beratung mit einer kurzen Begründung zurückziehen. Wer mitunterzeichnet hat, kann an der Parlamentarischen Initiative festhalten.
+<sup>5</sup> Die oder der Erstunterzeichnende kann die Parlamentarische Initiative bis zum Abschluss der Beratung mit einer kurzen Begründung zurückziehen. Wer mitunterzeichnet hat, kann an der Parlamentarischen Initiative festhalten.
 
 #### § 44
 
 **Rückweisung einer Parlamentarischen Initiative**
 
-<sup>1</sup> Das Büro weist nach Anhören des Regierungsrates eine Parlamentarische Initiative zurück, wenn sie sich auf einen Gegenstand bezieht, welcher schon als Ratsgeschäft anhängig ist, oder wenn der Gegenstand vom Regierungsrat als Vorlage vorbereitet und innerhalb eines halben Jahres dem Grossen Rat vorgelegt wird.
+<sup>1</sup> Das Ratsbüro weist nach Anhören des Regierungsrats eine Parlamentarische Initiative zurück, wenn sie sich auf einen Gegenstand bezieht, welcher schon als Ratsgeschäft anhängig ist, oder wenn der Gegenstand vom Regierungsrat als Vorlage vorbereitet und innerhalb eines halben Jahrs dem Grossen Rat vorgelegt wird.
 
-<sup>2</sup> Wird die Rückweisung aus der Mitte des Rates angefochten, beschliesst der Rat ohne vorgängige Diskussion über die Entgegennahme der Initiative.
+<sup>2</sup> Wird die Rückweisung aus der Mitte des Rats angefochten, beschliesst der Rat ohne vorgängige Diskussion über die Entgegennahme der Initiative.
 
 #### § 45
 
 **Erledigung einer Parlamentarischen Initiative**
 
-<sup>1</sup> Das Präsidium stellt durch Abstimmung fest, ob der Rat die Parlamentarische Initiative vorläufig unterstützt. Trifft dies zu, überweist das Büro die Initiative einer Kommission gemäss § 60 oder § 60a zu Bericht und Antrag.
+<sup>1</sup> Das Präsidium stellt durch Abstimmung fest, ob der Rat die Parlamentarische Initiative vorläufig unterstützt. Trifft dies zu, überweist das Ratsbüro die Initiative einer Kommission gemäss § 60 oder § 60a zu Bericht und Antrag.
 
 <sup>2</sup> Die Kommission berät den Entwurf. Sie kann Zwischenergebnisse ihrer Beratungen dem Regierungsrat und allenfalls interessierten Kreisen zur Stellungnahme unterbreiten. Sie kann Änderungen, einen Gegenvorschlag oder die Ablehnung der Parlamentarischen Initiative beantragen.
 
@@ -469,15 +510,15 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Mit einer Motion wird dem Regierungsrat der Auftrag erteilt, für den Erlass, die Abänderung oder die Aufhebung einer Verfassungsvorschrift, eines Gesetzes, einer grossrätlichen Verordnung oder eines Grossratsbeschlusses einen formulierten Entwurf zu unterbreiten.
 
-<sup>2</sup> Eine Motion kann von einem Mitglied, mehreren Mitgliedern oder von einer Kommission des Rates vorgelegt werden. Sie ist mit einem Antrag und einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, zuhanden des Präsidiums einzureichen.
+<sup>2</sup> Eine Motion kann von einem Mitglied, mehreren Mitgliedern oder von einer Kommission des Rats vorgelegt werden. Sie ist mit einem Antrag und einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, einzureichen.
 
 <sup>3</sup> Das Präsidium gibt dem Rat vom Eingang einer Motion Kenntnis. Die Parlamentsdienste teilen den Wortlaut, die Namen der Unterzeichnenden und die Begründung schriftlich mit.
 
-<sup>4</sup> Die Antwort des Regierungsrates erfolgt innert Jahresfrist schriftlich. Aus triftigen Gründen kann das Büro auf Antrag des Regierungsrates und nach Anhörung des Motionärs oder der Motionärin eine Fristerstreckung bewilligen. Die Antwort wird den Ratsmitgliedern spätestens mit der Sitzungseinladung zugestellt. Nach der Diskussion wird abgestimmt, ob die Motion erheblich erklärt wird.
+<sup>4</sup> Die Antwort des Regierungsrats erfolgt innert Jahresfrist schriftlich. Aus triftigen Gründen kann das Ratsbüro auf Antrag des Regierungsrats und nach Anhörung der Motionärin oder des Motionärs eine Fristerstreckung bewilligen. Die Antwort wird den Ratsmitgliedern spätestens mit der Sitzungseinladung zugestellt. Nach der Diskussion wird abgestimmt, ob die Motion erheblich erklärt wird.
 
 <sup>5</sup> Enthält eine Motion verschiedene Forderungen, kann der oder die Erstunterzeichnende oder der Regierungsrat eine Erheblicherklärung nur einzelner Forderungen verlangen, sofern dies ohne Änderung des Motionsantrags möglich ist. Es ist in diesem Fall über jede Forderung der Motion einzeln abzustimmen.
 
-<sup>6</sup> Der oder die Erstunterzeichnende kann die Motion bis zum Abschluss der Beratung mit einer kurzen Begründung zurückziehen. Wer mitunterzeichnet hat, kann an der Motion festhalten.
+<sup>6</sup> Die oder der Erstunterzeichnende kann die Motion bis zum Abschluss der Beratung mit einer kurzen Begründung zurückziehen. Wer mitunterzeichnet hat, kann an der Motion festhalten.
 
 #### § 47
 
@@ -487,7 +528,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>2</sup> Wird der Motionsauftrag erfüllt, bevor der Regierungsrat Bericht erstattet, stellt der Regierungsrat Antrag auf Erledigung durch Abschreibung.
 
-<sup>3</sup> Kann ein Motionsauftrag innert Frist nicht erfüllt werden, legt der Regierungsrat vor Ablauf der Frist die Gründe dar und stellt dem Büro Antrag auf eine Nachfrist.
+<sup>3</sup> Kann ein Motionsauftrag innert Frist nicht erfüllt werden, legt der Regierungsrat vor Ablauf der Frist die Gründe dar und stellt dem Ratsbüro Antrag auf eine Nachfrist.
 
 <sup>4</sup> Erachtet der Regierungsrat einen Motionsauftrag als nicht erfüllbar, stellt er dem Rat Antrag auf Entlastung.
 
@@ -497,13 +538,21 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Ein Antrag auf Überweisung einer Standesinitiative wird auf dem Motionsweg eingereicht.
 
+#### § 47b
+
+**Kantonsreferendum**
+
+<sup>1</sup> Wer ein Kantonsreferendum im Sinne von Art. 141 Abs. 1 der Bundesverfassung (BV)[^47b-1] ergreifen will, hat den Erlass und einen Entwurf des Beschlusses des Grossen Rats mit einer kurzen Begründung bis am Vortag der vorletzten Ratssitzung vor Ablauf der eidgenössischen Referendumsfrist vorzulegen.
+
+[^47b-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
+
 #### § 48
 
 **Leistungsmotion**
 
-<sup>1</sup> Mit einer Leistungsmotion wird dem Regierungsrat der Auftrag erteilt, in Verwaltungsbereichen mit Globalbudgets bei bestimmten Leistungsgruppen ein vorgegebenes alternatives Leistungsniveau oder ein vorgegebenes neues Leistungsziel ins Globalbudget aufzunehmen oder ein bestehendes Leistungsziel zu streichen. Besteht für das alternative Leistungsniveau oder das neue Leistungsziel keine genügende Grundlage im Gesetz, oder basiert ein zu streichendes Leistungsziel auf einem konkreten Auftrag des Gesetzes, ist der Weg der Motion zur Anpassung der gesetzlichen Grundlage vorweg zu beschreiten.
+<sup>1</sup> Mit einer Leistungsmotion wird dem Regierungsrat der Auftrag erteilt, in Verwaltungsbereichen mit Globalbudgets bei bestimmten Produktegruppen ein vorgegebenes alternatives Leistungsniveau oder ein vorgegebenes neues Leistungsziel ins Globalbudget aufzunehmen oder ein bestehendes Leistungsziel zu streichen. Besteht für das alternative Leistungsniveau oder das neue Leistungsziel keine genügende Grundlage im Gesetz oder ist ein zu streichendes Leistungsziel in einem Gesetz festgelegt, ist statt einer Leistungsmotion eine Motion zur Anpassung der gesetzlichen Grundlage einzureichen.
 
-<sup>2</sup> Eine Leistungsmotion kann von der Geschäftsprüfungs- und Finanzkommission oder mindestens 30 Ratsmitgliedern vorgelegt werden. Sie ist mit einem Antrag und einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, zuhanden des Präsidiums einzureichen.
+<sup>2</sup> Eine Leistungsmotion kann von der Geschäftsprüfungs- und Finanzkommission oder mindestens 30 Ratsmitgliedern vorgelegt werden. Sie ist mit einem Antrag und einer Begründung zu versehen und mit den Unterschriften der Mitglieder, welche sie unterstützen, einzureichen.
 
 <sup>3</sup> Das Präsidium gibt dem Rat vom Eingang einer Leistungsmotion Kenntnis. Die Parlamentsdienste teilen den Wortlaut, die Namen der Unterzeichnenden und die Begründung schriftlich mit.
 
@@ -529,11 +578,11 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Mit einer Interpellation wird vom Regierungsrat Auskunft über eine zu seinem Geschäftsbereich gehörende kantonale Angelegenheit verlangt.
 
-<sup>2</sup> Eine Interpellation kann von einem Mitglied oder mehreren Mitgliedern des Rates zuhanden des Präsidiums eingereicht werden. Sie ist zu begründen und kann von weiteren Ratsmitgliedern unterzeichnet werden.
+<sup>2</sup> Eine Interpellation kann von einem Mitglied oder mehreren Mitgliedern des Rats zuhanden des Präsidiums eingereicht werden. Sie ist zu begründen und kann von weiteren Ratsmitgliedern unterzeichnet werden.
 
 <sup>3</sup> Das Präsidium gibt dem Rat vom Eingang einer Interpellation Kenntnis. Die Parlamentsdienste teilen den Wortlaut, die Namen der Unterzeichnenden und die Begründung schriftlich mit.
 
-<sup>4</sup> Die Antwort des Regierungsrates erfolgt innert Jahresfrist schriftlich. Sie wird den Ratsmitgliedern spätestens mit der Sitzungseinladung zugestellt. Eine Interpellation, für die dringliche Behandlung beschlossen wird, kann mündlich beantwortet werden.
+<sup>4</sup> Die Antwort des Regierungsrats erfolgt innert Jahresfrist schriftlich. Sie wird den Ratsmitgliedern spätestens mit der Sitzungseinladung zugestellt. Eine Interpellation, für die dringliche Behandlung beschlossen wird, kann mündlich beantwortet werden.
 
 <sup>5</sup> Im Rat erhält der oder die Erstunterzeichnende das Wort zu einer kurzen Erklärung, ob er oder sie mit der Antwort zufrieden ist. Eine Diskussion findet statt, wenn sie von einer Mehrheit auf Antrag beschlossen wird. Sie ist in der Regel in derselben Sitzung durchzuführen.
 
@@ -541,9 +590,11 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Einfache Anfrage**
 
-<sup>1</sup> Eine Auskunft, die durch eine Interpellation verlangt werden kann, ist vom Regierungsrat auch auf eine Einfache Anfrage hin zu erteilen. Eine solche kann von einem Mitglied oder von mehreren Mitgliedern des Rates ausgehen und ist dem Präsidium unterzeichnet einzureichen. Dieses überweist die Einfache Anfrage dem Regierungsrat und teilt zu Beginn der nächsten Sitzung den Eingang mit.
+<sup>1</sup> Eine Auskunft, die durch eine Interpellation verlangt werden kann, ist vom Regierungsrat auch auf eine Einfache Anfrage hin zu erteilen. Eine solche kann von einem Mitglied oder von mehreren Mitgliedern des Rats ausgehen und ist unterzeichnet einzureichen.
 
-<sup>2</sup> Der Regierungsrat beantwortet Einfache Anfragen schriftlich, in der Regel innerhalb von zwei Monaten. Einfache Anfragen werden den Ratsmitgliedern mit der Antwort des Regierungsrates zugestellt. Eine Diskussion findet nicht statt.
+<sup>1<sup>bis</sup></sup> Eine Einfache Anfrage darf höchstens fünf Fragen ohne zusätzliche Teilfragen umfassen.
+
+<sup>2</sup> Der Regierungsrat beantwortet Einfache Anfragen schriftlich, in der Regel innerhalb von zwei Monaten. Eine Diskussion findet nicht statt.
 
 #### § 52
 
@@ -575,7 +626,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Volksinitiativen**
 
-<sup>1</sup> Begehren gemäss § 26 der Kantonsverfassung werden vom Büro zu Bericht und Antrag einer Kommission überwiesen. Das Kommissionspräsidium holt beim Regierungsrat einen Bericht über die Gültigkeit und zum Inhalt des Begehrens ein.
+<sup>1</sup> Begehren gemäss § 26 der Kantonsverfassung werden vom Ratsbüro zu Bericht und Antrag einer Kommission überwiesen. Das Kommissionspräsidium holt beim Regierungsrat einen Bericht über die Gültigkeit und zum Inhalt des Begehrens ein.
 
 <sup>2</sup> Die Kommission kann dem Grossen Rat auch einen Gegenvorschlag beantragen. Liegt kein solcher Antrag vor, kann der Grosse Rat die Kommission mit der Ausarbeitung eines solchen beauftragen.
 
@@ -595,7 +646,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Petitionen**
 
-<sup>1</sup> Petitionen an den Grossen Rat nimmt das Präsidium entgegen und überweist sie an die Justizkommission. Petitionen, auf die § 5 des Gesetzes über die Ausübung des Petitionsrechtes[^54-1] anwendbar ist, werden von der Justizkommission abschliessend behandelt. In den anderen Fällen kann die Justizkommission die Stellungnahme des Regierungsrates einholen. Sie erstattet dem Grossen Rat Bericht und stellt Antrag. Die Antwort im Sinne von § 4 des Gesetzes über die Ausübung des Petitionsrechts erfolgt durch Protokollauszug.
+<sup>1</sup> Petitionen an den Grossen Rat nimmt das Präsidium entgegen und überweist sie an die Justizkommission. Petitionen, auf die § 5 des Gesetzes über die Ausübung des Petitionsrechts[^54-1] anwendbar ist, werden von der Justizkommission abschliessend behandelt. Bei Bedarf kann die Justizkommission eine Stellungnahme des Regierungsrats einholen. Sie erstattet dem Grossen Rat Bericht und stellt Antrag. Die Antwort im Sinne von § 4 des Gesetzes über die Ausübung des Petitionsrechts erfolgt durch Protokollauszug.
 
 [^54-1]: RB [162](https://www.rechtsbuch.tg.ch/data/162/de)
 
@@ -603,7 +654,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Andere Eingaben**
 
-<sup>1</sup> Andere Eingaben an den Grossen Rat legt das Präsidium dem Büro zur Erledigung vor. Das Büro kann die Eingabe ad acta legen, dem Rat unter Auflage der Akten im Ratssaal Antrag stellen oder eine Stellungnahme der Justizkommission, des Regierungsrates oder der davon betroffenen Behörde einholen.
+<sup>1</sup> Andere Eingaben an den Grossen Rat legt das Präsidium dem Ratsbüro zur Erledigung vor. Das Ratsbüro kann die Eingabe ad acta legen, dem Rat Antrag stellen oder eine Stellungnahme der Justizkommission, des Regierungsrats oder der davon betroffenen Behörde einholen.
 
 #### § 56
 
@@ -619,7 +670,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Wahlen sind offen oder geheim. Entscheidend ist in jedem Wahlgang das absolute Mehr der massgebenden Stimmen.
 
-<sup>1<sup>bis</sup></sup> Bei Wahlen mit ausschliesslichem Vorschlagsrecht des Regierungsrates gemäss § 58 Abs. 1 Ziff. 8 werden zur Ermittlung des absoluten Mehrs die leeren Wahlzettel nicht ausgeschieden.
+<sup>1<sup>bis</sup></sup> Bei Wahlen mit ausschliesslichem Vorschlagsrecht des Regierungsrats gemäss § 58 Abs. 1 Ziff. 8 werden zur Ermittlung des absoluten Mehrs die leeren Wahlzettel nicht ausgeschieden.
 
 <sup>2</sup> Das Präsidium gibt den Wahlgang, die Wahlart und die Wahlvorschläge bekannt.
 
@@ -629,20 +680,22 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> In geheimer Wahl werden gewählt:
 
-- 1\. der Präsident oder die Präsidentin und der Vizepräsident oder die Vizepräsidentin des Grossen Rates;
-- 2\. der Präsident oder die Präsidentin und der Vizepräsident oder die Vizepräsidentin des Regierungsrates;
-- 3\. der Staatsschreiber oder die Staatsschreiberin;
-- 4\. der Präsident oder die Präsidentin, die Mitglieder und die Ersatzmitglieder des Obergerichtes;
-- 5\. der Präsident oder die Präsidentin, der Vizepräsident oder die Vizepräsidentin, die Mitglieder und die Ersatzmitglieder des Verwaltungsgerichtes;
-- 6\. der Präsident oder die Präsidentin und die Mitglieder des Zwangsmassnahmengerichtes;
-- 7\. der Generalstaatsanwalt oder die Generalstaatsanwältin;
-- 8\. der Präsident oder die Präsidentin und die Mitglieder des Bankrates der Kantonalbank;
-- 9\. die Mitglieder des Verwaltungsrates der Gebäudeversicherung;
-- 10\. der Präsident oder die Präsidentin, die Mitglieder und die Ersatzmitglieder der Rekurskommission in Anwaltssachen.
+- 1\. die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident des Grossen Rats
+- 2\. die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident des Regierungsrats
+- 3\. die Staatsschreiberin oder der Staatsschreiber
+- 4\. die Präsidentin oder der Präsident, die Mitglieder und die Ersatzmitglieder des Obergerichts
+- 5\. die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident, die Mitglieder und die Ersatzmitglieder des Verwaltungsgerichts
+- 6\. die Präsidentin oder der Präsident und die Mitglieder des Zwangsmassnahmengerichts
+- 7\. die Generalstaatsanwältin oder der Generalstaatsanwalt
+- 8\. die Präsidentin oder der Präsident und die Mitglieder des Bankrats der Kantonalbank
+- 9\. die Mitglieder des Verwaltungsrats der Gebäudeversicherung
+- 10\. die Präsidentin oder der Präsident, die Mitglieder und die Ersatzmitglieder der Rekurskommission in Anwaltssachen
+- 11\. die Leiterin oder der Leiter der kantonalen Finanzkontrolle
+- 12\. die ausserordentlichen Berufsrichterinnen oder ausserordentlichen Berufsrichter der Bezirksgerichte
 
 <sup>2</sup> Bei Listenwahl kann höchstens für so viele Personen gestimmt werden, als zu wählen sind; jeder Name darf nur einmal geschrieben werden.
 
-<sup>3</sup> Die Wahlzettel werden durch die Stimmenzählenden eingesammelt und vom Büro ausgezählt. Finden mehrere geheime Wahlgänge in der gleichen Sitzung statt, kann das Präsidium das Büro so aufteilen, dass je zwei Stimmenzählende mit einem Mitglied des Ratssekretariates ein Wahlresultat ermitteln und protokollieren. Das Büro kann auch erweitert werden. Die Auszählung erfolgt unter gegenseitiger Kontrolle. Stimmen für nicht wählbare Personen und solche, die eine kandidierende Person nicht unmissverständlich bezeichnen, sind ungültig. Erreichen bei einer Listenwahl mehr Kandidierende, als zu wählen sind, das absolute Mehr, fallen jene mit den kleinsten Stimmenzahlen aus der Wahl.
+<sup>3</sup> Die Wahlzettel werden durch die Stimmenzählenden eingesammelt und vom Ratsbüro ausgezählt. Finden mehrere geheime Wahlgänge in der gleichen Sitzung statt, kann das Präsidium das Ratsbüro so aufteilen, dass je zwei Stimmenzählende mit einem Mitglied des Ratssekretariats ein Wahlresultat ermitteln und protokollieren. Das Ratsbüro kann auch erweitert werden. Die Auszählung erfolgt unter gegenseitiger Kontrolle. Stimmen für nicht wählbare Personen und solche, die eine kandidierende Person nicht unmissverständlich bezeichnen, sind ungültig. Erreichen bei einer Listenwahl mehr Kandidierende, als zu wählen sind, das absolute Mehr, fallen jene mit den kleinsten Stimmenzahlen aus der Wahl.
 
 <sup>4</sup> Das Präsidium stellt eine zustande gekommene Wahl mit Nennung der gewählten Person fest oder ordnet einen neuen Wahlgang an. Die Wahlzettel eines abgeschlossenen Wahlganges werden nach Bekanntgabe des Wahlresultats, spätestens jedoch unmittelbar nach der Sitzung, durch die Parlamentsdienste vernichtet.
 
@@ -656,10 +709,10 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>2</sup> Offene Wahl ist möglich für:
 
-- 1\. die Mitglieder des Sekretariates und die Stimmenzählenden des Rates;
-- 2\. die Mitglieder der ständigen Kommissionen gemäss § 60 Abs. 1 und aus deren Mitte die Präsidenten oder die Präsidentinnen;
-- 3\. die Revisionsstelle der Kantonalbank;
-- 4\. die Kontrollstelle der Gebäudeversicherung.
+- 1\. die Mitglieder des Sekretariats und die Stimmenzählenden des Rats sowie die Beisitzenden des Ratsbüros
+- 2\. die Mitglieder der ständigen Kommissionen gemäss § 60 Abs. 1 und aus deren Mitte die Präsidentinnen oder die Präsidenten
+- 3\. die Revisionsstelle der Kantonalbank
+- 4\. die Kontrollstelle der Gebäudeversicherung
 
 <sup>3</sup> Bei offener Wahl gilt § 32. Die Wahl mehrerer Kommissionsmitglieder kann gesamthaft erfolgen, wenn kein Mitglied opponiert. Die Resultate sind wie bei Abstimmungen zu protokollieren.
 
@@ -669,20 +722,23 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Ständige Kommissionen**
 
-<sup>1</sup> Zur Vorberatung seiner Geschäfte wählt der Grosse Rat ständige Kommissionen für die Dauer von vier Jahren:
+<sup>1</sup> Zur Vorberatung von Geschäften gemäss § 62 bis § 66 wählt der Grosse Rat ständige Kommissionen für die Dauer einer Legislatur:
 
-- 1\. eine Geschäftsprüfungs- und Finanzkommission von einundzwanzig Mitgliedern;
-- 2\. eine Justizkommission von elf Mitgliedern;
-- 3\. eine Raumplanungskommission von dreizehn Mitgliedern;
-- 4\. eine Gesetzgebungs- und Redaktionskommission von neun Mitgliedern.
+- 1\. eine Geschäftsprüfungs- und Finanzkommission von einundzwanzig Mitgliedern
+- 2\. eine Justizkommission von fünfzehn Mitgliedern
+- 3\. eine Raumplanungskommission von fünfzehn Mitgliedern
+- 4\. eine Gesetzgebungs- und Redaktionskommission von neun Mitgliedern
+- 5\. eine Kommission für Klima, Energie und Umwelt von fünfzehn Mitgliedern
 
-<sup>2</sup> Die Kommissionsmitglieder sind in Listenwahl, die Präsidenten oder Präsidentinnen in Einzelwahl zu wählen.
+<sup>2</sup> Die Kommissionsmitglieder sind in Listenwahl, die Präsidentinnen oder Präsidenten in Einzelwahl zu wählen.
 
 #### § 60a
 
 **Spezialkommissionen**
 
-<sup>1</sup> Zur Vorberatung bestimmter Vorlagen oder Geschäfte wählt das Büro Spezialkommissionen von sieben bis fünfzehn Mitgliedern. Es kann vor der Bildung der Kommission eine Empfehlung zur Zusammensetzung abgeben.
+<sup>1</sup> Spezialkommissionen sind nichtständige Kommissionen von neun bis fünfzehn Mitgliedern. Das Ratsbüro wählt sie zur Vorberatung bestimmter Vorlagen oder Geschäfte, insbesondere von Gesetzesvorlagen. Es kann vor der Bildung der Kommission eine Empfehlung zur Zusammensetzung abgeben.
+
+<sup>2</sup> Das Ratsbüro kann Spezialkommissionen mit weiteren Aufgaben beauftragen.
 
 #### § 60b
 
@@ -696,7 +752,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Protokollführung**
 
-<sup>1</sup> Die Kantonale Verwaltung sorgt in der Regel für die Protokollführung, sofern nicht ein Kommissionsmitglied diese Aufgabe übernimmt.
+<sup>1</sup> Die kantonale Verwaltung sorgt für die Protokollführung.
 
 <sup>2</sup> Die Gesetzgebungs- und Redaktionskommission kann auf die Protokollführung verzichten. In diesem Fall gilt die Gesetzesfassung der Kommission als Protokoll.
 
@@ -704,13 +760,15 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Vertretung der Fraktionen**
 
-<sup>1</sup> Bei der Bestellung der Kommissionen sind die Fraktionen ihrer Stärke entsprechend zu berücksichtigen. Das Büro legt auf Antrag der Fraktionspräsidienkonferenz zu Beginn einer Legislaturperiode den Verteilschlüssel für die Zuteilung der Kommissionssitze an die Fraktionen fest. Es wendet dabei sinngemäss die Bestimmungen über die Verteilung der Nationalratsmandate an. In der Geschäftsprüfungs- und Finanzkommission steht jeder Fraktion mindestens ein Sitz zu.
+<sup>1</sup> Bei der Bestellung der Kommissionen sind die Fraktionen ihrer Stärke entsprechend zu berücksichtigen. Das Ratsbüro legt auf Antrag der Fraktionspräsidienkonferenz zu Beginn einer Legislaturperiode den Verteilschlüssel für die Zuteilung der Kommissionssitze an die Fraktionen fest. Es wendet dabei bei der Geschäftsprüfungs- und Finanzkommission sinngemäss das mathematische Verfahren für die Verteilung der Nationalratsmandate auf die Kantone gemäss Art. 17 des Bundesgesetzes über die politischen Rechte (BPR)[^61-1] an, womit jeder Fraktion mindestens ein Sitz zusteht. Bei den übrigen Kommissionen wendet das Ratsbüro sinngemäss das mathematische Verfahren für die Verteilung der Nationalratsmandate gemäss Art. 40 und Art. 41 BPR an.
 
 <sup>1<sup>bis</sup></sup> Fraktionen, denen kein Sitz zusteht, können in alle Kommissionen einen Beobachter oder eine Beobachterin delegieren. Kommissionsmitglieder mit diesem Status haben Antragsrecht und sind wie die Mitglieder zur Teilnahme an den Sitzungen verpflichtet. Ein Stimmrecht steht ihnen nur zu, wenn sie das Präsidium einer Kommission innehaben.
 
-<sup>1<sup>ter</sup></sup> Bestandesänderungen einer Fraktion innerhalb der Legislatur haben keinen Einfluss auf den Verteilschlüssel.
+<sup>1<sup>ter</sup></sup> Bestandsänderungen einer Fraktion innerhalb der Legislatur haben keinen Einfluss auf den Verteilschlüssel.
 
-<sup>2</sup> Scheidet ein Mitglied einer Kommission gemäss § 60 Abs. 1 während der Amtsdauer aus der delegierenden Fraktion aus, erlischt sein Kommissionsmandat.
+<sup>2</sup> Scheidet ein Mitglied einer Kommission gemäss § 60 Abs. 1 im Verlauf der Legislatur aus der delegierenden Fraktion aus, erlischt sein Kommissionsmandat.
+
+[^61-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
 #### § 62
 
@@ -718,9 +776,9 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Die Geschäftsprüfungs- und Finanzkommission (GFK) erfüllt folgende Aufgaben:
 
-- 1\. parlamentarische Aufsicht über den gesamten Finanzhaushalt, insbesondere Prüfung des Voranschlages, der Nachtragskreditgesuche und der Staatsrechnung;
-- 2\. parlamentarische Aufsicht über die gesamte Kantonale Verwaltung und die selbständigen Anstalten, unter Einbezug der öffentlich-rechtlichen Vereinbarungen beziehungsweise Leistungsaufträgen mit selbständigen juristischen Personen, welchen der Kanton öffentliche Aufgaben überträgt;
-- 3\. Prüfung der Geschäftsberichte der Regierung und der selbständigen Anstalten.
+- 1\. parlamentarische Aufsicht über den gesamten Finanzhaushalt, insbesondere Prüfung des Voranschlages, der Nachtragskreditgesuche und der Staatsrechnung
+- 2\. parlamentarische Aufsicht über die gesamte kantonale Verwaltung und die selbständigen Anstalten, unter Einbezug der öffentlich-rechtlichen Vereinbarungen beziehungsweise Leistungsaufträgen mit selbständigen juristischen Personen, welchen der Kanton öffentliche Aufgaben überträgt
+- 3\. Prüfung der Geschäftsberichte des Regierungsrats und der selbständigen Anstalten
 
 <sup>2</sup> Die GFK erstattet dem Grossen Rat über ihre Tätigkeit und die Ergebnisse ihrer Prüfung Bericht und stellt die erforderlichen Anträge.
 
@@ -736,13 +794,15 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Die Justizkommission erfüllt folgende Aufgaben:
 
-- 1\. parlamentarische Aufsicht über die Organisation und Geschäftsführung der richterlichen Behörden;
+- 1\. parlamentarische Aufsicht über die Organisation und Geschäftsführung der richterlichen Behörden
 - 2\. Prüfung der Rechenschaftsberichte der kantonalen Gerichte;
-- 3\. Tätigkeit und Befugnisse gemäss Reglement des Grossen Rates über das Begnadigungsverfahren[^63-1];
-- 4\. Tätigkeit und Befugnisse gemäss Gesetz über die Ausübung des Petitionsrechtes;
-- 5\. Vorberatung der Gesuche um Erteilung des Kantonsbürgerrechtes.
+- 3\. Tätigkeit und Befugnisse gemäss Reglement des Grossen Rats über das Begnadigungsverfahren[^63-1]
+- 4\. Tätigkeit und Befugnisse gemäss Gesetz über die Ausübung des Petitionsrechtes
+- 5\. Vorberatung der Gesuche um Erteilung des Kantonsbürgerrechtes
 
 <sup>2</sup> Die Kommission erstattet dem Grossen Rat über ihre Tätigkeit und die Ergebnisse ihrer Prüfung Bericht und stellt die erforderlichen Anträge in den einzelnen Sachbereichen.
+
+<sup>3</sup> Die Justizkommission kann zur Wahrnehmung ihrer Aufgaben Subkommissionen bilden und diesen Aufgaben und Kompetenzen übertragen. Gegenüber dem Grossen Rat bleibt die Justizkommission verantwortlich.
 
 [^63-1]: RB [171.12](https://www.rechtsbuch.tg.ch/data/171.12/de)
 
@@ -750,7 +810,13 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Raumplanungskommission**
 
-<sup>1</sup> Die Raumplanungskommission ist zuständig für die Vorberatung der vom Rat zu behandelnden Vorlagen über die Raumplanung und die erforderliche Antragstellung.
+<sup>1</sup> Die Raumplanungskommission ist zuständig für die Vorberatung der vom Rat zu behandelnden Berichte, Konzepte und Beschlüsse über die Raumplanung, insbesondere über den Kantonalen Richtplan, und für die erforderliche Antragstellung.
+
+#### § 64a
+
+**Kommission für Klima, Energie und Umwelt**
+
+<sup>1</sup> Die Kommission für Klima, Energie und Umwelt ist zuständig für die Vorberatung der vom Rat zu behandelnden Berichte, Konzepte und Beschlüsse über Klima-, Energie- und Umweltthemen und für die erforderliche Antragstellung.
 
 #### § 65
 
@@ -760,7 +826,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Gesetzgebungs- und Redaktionskommission**
 
-<sup>1</sup> Die Gesetzgebungs- und Redaktionskommission bereinigt die Vorlagen gemäss § 39. Sie zieht zu ihren Sitzungen eine Vertretung der vorberatenden Kommission und des Regierungsrates bei.
+<sup>1</sup> Die Gesetzgebungs- und Redaktionskommission bereinigt die Vorlagen gemäss § 39. Sie zieht zu ihren Sitzungen eine Vertretung der vorberatenden Kommission und des Regierungsrats bei.
 
 <sup>2</sup> …
 
@@ -776,15 +842,17 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 <sup>1</sup> Die Kommissionen werden zu den Sitzungen auf Anordnung des Präsidiums durch die Parlamentsdienste eingeladen.
 
-<sup>2</sup> Die Kommissionen ziehen, soweit erforderlich, jene Mitglieder des Regierungsrates bei, welche die Vorlage vor dem Rat vertreten werden. Sie können sich durch Sachverständige beraten lassen, die dem Rat nicht angehören.
+<sup>2</sup> Die Kommissionen ziehen, soweit erforderlich, jene Mitglieder des Regierungsrats bei, welche die Vorlage vor dem Rat vertreten werden. Sie können sich durch Sachverständige beraten lassen, die dem Rat nicht angehören.
+
+<sup>2<sup>bis</sup></sup> Beschliesst die Kommission Nichteintreten, erfolgt trotzdem die Detailberatung.
 
 <sup>3</sup> Für Kommissionssitzungen gelten die Vorschriften dieser Geschäftsordnung sinngemäss.
 
 <sup>4</sup> Die Kommissionen genehmigen ihre Protokolle selber. Eine Ausfertigung wird den Parlamentsdiensten zur Aufbewahrung im Staatsarchiv übergeben.
 
-<sup>5</sup> Die Ratsmitglieder sind berechtigt, Einsicht in Protokolle der vorberatenden Kommissionen zu nehmen. Protokolle werden ihnen auf Wunsch zugestellt. Die Kommissionen können beschliessen, dass Protokolle oder Teile davon ausnahmsweise vertraulich zu behandeln sind oder erst nach Abschluss der Beratungen freigegeben werden. Nach Abschluss der Beratungen im Rat sind Kommissionsprotokolle grundsätzlich zugänglich.
+<sup>5</sup> Ratsmitglieder sind nach Vorliegen des Kommissionsberichts berechtigt, Einsicht in alle Protokolle zu nehmen. Davon ausgenommen sind Protokolle kommunaler und kantonaler Aufsichtskommissionen. Die Kommission kann ausnahmsweise in weiteren Fällen beschliessen, die Einsicht aufzuschieben oder auszuschliessen. In strittigen Fällen entscheidet das Ratsbüro abschliessend.
 
-<sup>6</sup> Die Kommissionen beschliessen, ob und wie sie die Öffentlichkeit über die Ergebnisse der Beratungen informieren wollen.
+<sup>6</sup> Die Kommissionen beschliessen, ob und wie sie die Öffentlichkeit über die Ergebnisse der Beratungen informieren.
 
 ## 5. Fraktionen
 
@@ -798,17 +866,17 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Fraktionspräsidienkonferenz**
 
-<sup>1</sup> Die Präsidien der Fraktionen bilden zusammen mit dem Ratspräsidium und dem Ratsvizepräsidium die Fraktionspräsidienkonferenz. Sie steht unter der Leitung eines Fraktionspräsidenten oder einer Fraktionspräsidentin. Er oder sie wird von den Konferenzmitgliedern für eine Legislaturperiode gewählt.
+<sup>1</sup> Die Präsidien der Fraktionen bilden zusammen mit dem Präsidium und Vizepräsidium die Fraktionspräsidienkonferenz. Sie steht unter der Leitung einer Fraktionspräsidentin oder eines Fraktionspräsidenten. Diese oder dieser wird von den Konferenzmitgliedern für eine Legislaturperiode gewählt.
 
 <sup>2</sup> Die Fraktionspräsidienkonferenz stellt den Kontakt unter den Fraktionen sicher und bereitet insbesondere die Wahlgeschäfte vor.
 
-<sup>3</sup> Sie kann auch durch das Ratspräsidium oder auf Antrag eines der übrigen Mitglieder einberufen werden.
+<sup>3</sup> Sie kann auch durch das Präsidium oder auf Antrag eines der übrigen Mitglieder einberufen werden.
 
 #### § 71
 
 **Fraktionssitzungen**
 
-<sup>1</sup> Für die Teilnahme an den Fraktionssitzungen werden den Mitgliedern des Grossen Rates Sitzungsgelder und Reiseentschädigungen gemäss § 72 ausgerichtet.
+<sup>1</sup> Für die Teilnahme an den Fraktionssitzungen werden den Mitgliedern des Grossen Rats Sitzungsgelder und Reiseentschädigungen gemäss § 72 ausgerichtet.
 
 ## 6. Entschädigungen
 
@@ -828,7 +896,7 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Rechnungsführung**
 
-<sup>1</sup> Die Parlamentsdienste erstellen die Abrechnung über die Entschädigungen der Ratsmitglieder. Für die Teilnahme an den Ratssitzungen ist das Protokoll, für Kommissions- oder Fraktionssitzungen die Meldung des jeweiligen Präsidiums massgebend. Die kantonale Finanzkontrolle überprüft die Abrechnung. In Streitfällen über Entschädigungen entscheidet das Büro.
+<sup>1</sup> Die Parlamentsdienste erstellen die Abrechnung über die Entschädigungen der Ratsmitglieder. Für die Teilnahme an den Ratssitzungen ist das Protokoll, für Kommissions- oder Fraktionssitzungen die Meldung des jeweiligen Präsidiums massgebend. Die kantonale Finanzkontrolle überprüft die Abrechnung. In Streitfällen über Entschädigungen entscheidet das Ratsbüro.
 
 <sup>2</sup> Die Entschädigungen werden den Mitgliedern halbjährlich überwiesen. Die Parlamentsdienste stellen eine detaillierte Abrechnung zu.
 
@@ -838,22 +906,10 @@ vom 22.03.2000 (Stand 18.05.2022)
 
 **Revision**
 
-<sup>1</sup> Mit einer Motion kann dem Büro des Rates der Auftrag erteilt werden, eine Vorlage zur Abänderung dieser Geschäftsordnung zu unterbreiten. Das Büro kann auch von sich aus eine Botschaft zur Änderung an den Grossen Rat richten.
+<sup>1</sup> Mit einer Motion kann dem Ratsbüro der Auftrag erteilt werden, eine Vorlage zur Abänderung dieser Geschäftsordnung zu unterbreiten. Das Ratsbüro kann auch von sich aus eine Botschaft zur Änderung an den Grossen Rat richten.
 
-#### § 76
+#### § 76–78
 
 **…**
-
-#### § 77
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Geschäftsordnung vom 3. Juli 1991 und das Dekret über den Amtseid der Behörden und Beamten des Kantons Thurgau vom 4. September 1865 werden aufgehoben.
-
-#### § 78
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Geschäftsordnung tritt am 24. Mai 2000 in Kraft.
 
 13/2000
