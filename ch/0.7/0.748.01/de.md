@@ -3,11 +3,11 @@ sr: "0.748.01"
 title: "Protokoll vom 24. September 1968 betreffend den authentischen dreisprachigen Wortlaut des Übereinkommens über die internationale Zivilluftfahrt (Chicago, 1944)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296"
 language: de
-version: 2019-06-18
+version: 2024-05-22
 adopted: 1968-09-24
 in_force: 1969-01-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296/20190618/de/xml/fedlex-data-admin-ch-eli-cc-1971-1301_1296_1296-20190618-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1301_1296_1296/20190618/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296/20240522/de/xml/fedlex-data-admin-ch-eli-cc-1971-1301_1296_1296-20240522-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1301_1296_1296/20240522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/1301_1296_1296/20190618/de"
 
 Abgeschlossen in Buenos Aires am 24. September 1968 Schweizerische Annahmeurkunde hinterlegt am 22. Januar 1969 In Kraft getreten für die Schweiz am 22. Januar 1969
 
-(Stand am 18. Juni 2019)
+(Stand am 22. Mai 2024)
 
 Die unterzeichneten Regierungen,
 
@@ -90,7 +90,7 @@ Dieses Protokoll, abgefasst in französischer, englischer und spanischer Sprache
 
 *Zu Urkund dessen* haben die unterzeichneten gehörig befugten Bevollmächtigten ihre Unterschrift unter dieses Protokoll gesetzt. *Geschehen* zu Buenos Aires am vierundzwanzigsten September tausendneunhundertachtundsechzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Juni 2019**[^t-1]**
+Geltungsbereich am 22. Mai 2024[^t-1]
 
 Das Protokoll ist für die folgenden Staaten in Kraft getreten:
 
@@ -150,6 +150,8 @@ Hongkong
 
 Macau
 
+Cook-Inseln
+
 Costa Rica
 
 Côte d’Ivoire
@@ -200,6 +202,8 @@ Irland
 
 Israel
 
+Italien
+
 Jamaika
 
 Jemen
@@ -223,6 +227,8 @@ Kiribati
 Kolumbien
 
 Komoren
+
+Korea (Nord-)
 
 Korea (Süd-)
 
@@ -248,11 +254,15 @@ Malediven
 
 Mali
 
+Marshallinseln
+
 Mauretanien
 
 Mauritius
 
 Mexiko
+
+Mikronesien
 
 Moldau
 
@@ -269,8 +279,6 @@ Namibia
 Nauru
 
 - [tab] Neuseeland
-
-Cook-Inseln
 
 Niederlande
 
@@ -319,6 +327,8 @@ Russland
 Salomoninseln
 
 Sambia
+
+Samoa
 
 San Marino
 
@@ -392,6 +402,7 @@ Vanuatu
 
 Venezuela
 
+- [tab] Vereinigte Arabische Emirate
 - [tab] Vereinigtes Königreich
 - [tab] Vereinigte Staaten
 
@@ -399,4 +410,4 @@ Vietnam
 
 Zypern
 
-[^t-1]: [AS 1973 1620](https://fedlex.data.admin.ch/eli/oc/1973/1620_1620_1620), [1976 495](https://fedlex.data.admin.ch/eli/oc/1976/495_495_495), [1977 1300](https://fedlex.data.admin.ch/eli/oc/1977/1300_1300_1300), [1978 191](https://fedlex.data.admin.ch/eli/oc/1978/191_191_191), [1981 1439](https://fedlex.data.admin.ch/eli/oc/1981/1439_1439_1439), [1985 772](https://fedlex.data.admin.ch/eli/oc/1985/772_772_772), [1987 1074](https://fedlex.data.admin.ch/eli/oc/1987/1074_1074_1074), [1990 1567](https://fedlex.data.admin.ch/eli/oc/1990/1567_1567_1567), [2005 1605](https://fedlex.data.admin.ch/eli/oc/2005/249), [2010 3495](https://fedlex.data.admin.ch/eli/oc/2010/490), [2014 2615](https://fedlex.data.admin.ch/eli/oc/2014/460), [2019 2373](https://fedlex.data.admin.ch/eli/oc/2019/444). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1973 1620](https://fedlex.data.admin.ch/eli/oc/1973/1620_1620_1620); [1976 495](https://fedlex.data.admin.ch/eli/oc/1976/495_495_495); [1977 1300](https://fedlex.data.admin.ch/eli/oc/1977/1300_1300_1300); [1978 191](https://fedlex.data.admin.ch/eli/oc/1978/191_191_191); [1981 1439](https://fedlex.data.admin.ch/eli/oc/1981/1439_1439_1439); [1985 772](https://fedlex.data.admin.ch/eli/oc/1985/772_772_772); [1987 1074](https://fedlex.data.admin.ch/eli/oc/1987/1074_1074_1074); [1990 1567](https://fedlex.data.admin.ch/eli/oc/1990/1567_1567_1567); [2005 1605](https://fedlex.data.admin.ch/eli/oc/2005/249); [2010 3495](https://fedlex.data.admin.ch/eli/oc/2010/490); [2014 2615](https://fedlex.data.admin.ch/eli/oc/2014/460); [2019 2373](https://fedlex.data.admin.ch/eli/oc/2019/444); [2024 230](https://fedlex.data.admin.ch/eli/oc/2024/230). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)).

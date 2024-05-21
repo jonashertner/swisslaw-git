@@ -3,30 +3,24 @@ sr: "0.748.01"
 title: "Protocollo del 24 settembre 1968 concernente il testo autentico trilingue della Convenzione relativa all'aviazione civile internazionale (Chicago, 1944)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296"
 language: it
-version: 2019-06-18
+version: 2024-05-22
 adopted: 1968-09-24
 in_force: 1969-01-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296/20190618/it/xml/fedlex-data-admin-ch-eli-cc-1971-1301_1296_1296-20190618-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1301_1296_1296/20190618/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1301_1296_1296/20240522/it/xml/fedlex-data-admin-ch-eli-cc-1971-1301_1296_1296-20240522-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1301_1296_1296/20240522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo concernente il testo autentico trilingue della Convenzione relativa all’aviazione civile internazionale (Chicago 1944)
 
-[^t-1]RU RU
+RU **1971** 1296
 
 Traduzione
 
-Conchiuso a Buenos Aires il 24 settembre 1968
+Conchiuso a Buenos Aires il 24 settembre 1968 Strumento d’approvazione depositato dalla Svizzera il 22 gennaio 1969 Entrato in vigore per la Svizzera il 22 gennaio 1969
 
-Strumento d’approvazione depositato dalla Svizzera il 22 gennaio 1969
-
-Entrato in vigore per la Svizzera il 22 gennaio 1969
-
-(Stato 18 giugno 2019)
-
-[^t-1]: [RU 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)
+(Stato 22 maggio 2024)
 
 I Governi sottoscritti,
 
@@ -98,11 +92,9 @@ Il presente Protocollo, redatto nelle lingue francese, inglese e spagnola, ciasc
 
 *In fede di che,* i Plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Buenos Aires il ventiquattro settembre millenovecentosessantotto. (Seguono le firme)
 
-Campo d’applicazione il 18 giugno 2019\*
+Campo d’applicazione il 22 maggio 2024[^t-1]
 
 Il Protocollo è in vigore per gli Stati seguenti:
-
-- [tab]
 
 Albania
 
@@ -140,7 +132,9 @@ Bhutan
 
 Bielorussia
 
-Bosnia ed Erzegovina Botswana
+Bosnia ed Erzegovina
+
+Botswana
 
 Brasile
 
@@ -174,6 +168,8 @@ Colombia
 
 Comore
 
+Corea (Nord)
+
 Corea (Sud)
 
 Costa Rica
@@ -193,6 +189,8 @@ Ecuador
 Egitto
 
 El Salvador
+
+Emirati Arabi Uniti
 
 Eritrea
 
@@ -238,6 +236,12 @@ Irlanda
 
 Israele
 
+Italia
+
+Isole Cook
+
+Isole Marshall
+
 Kazakistan
 
 Kiribati
@@ -270,6 +274,8 @@ Maurizio
 
 Messico
 
+Micronesia
+
 Moldova
 
 Monaco
@@ -291,8 +297,6 @@ Nigeria
 Norvegia
 
 Nuovo Zelanda
-
-Isole Cook
 
 Oman
 
@@ -332,11 +336,15 @@ Ruanda
 
 Russia
 
-Saint Kitts e Nevis Saint Lucia
+Saint Kitts e Nevis
+
+Saint Lucia
 
 Saint Vincent e Grenadine
 
 Salomone, Isole
+
+Samoa
 
 San Marino
 
@@ -406,4 +414,4 @@ Zambia
 
 Zimbabwe
 
-**\*** RU **1973** 1620, **1976** 495, **1977** 1300, **1978** 191, **1981** 1439, **1985** 772, **1987** 1074, **1990** 1567, **2005** 1605, **2010** 3495, **2014** 2615 e **2019** 2373. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1973 1620](https://fedlex.data.admin.ch/eli/oc/1973/1620_1620_1620); [1976 495](https://fedlex.data.admin.ch/eli/oc/1976/495_495_495); [1977 1300](https://fedlex.data.admin.ch/eli/oc/1977/1300_1300_1300); [1978 191](https://fedlex.data.admin.ch/eli/oc/1978/191_191_191); [1981 1439](https://fedlex.data.admin.ch/eli/oc/1981/1439_1439_1439); [1985 772](https://fedlex.data.admin.ch/eli/oc/1985/772_772_772); [1987 1074](https://fedlex.data.admin.ch/eli/oc/1987/1074_1074_1074); [1990 1567](https://fedlex.data.admin.ch/eli/oc/1990/1567_1567_1567); [2005 1605](https://fedlex.data.admin.ch/eli/oc/2005/249); [2010 3495](https://fedlex.data.admin.ch/eli/oc/2010/490); [2014 2615](https://fedlex.data.admin.ch/eli/oc/2014/460); [2019 2373](https://fedlex.data.admin.ch/eli/oc/2019/444); [2024 230](https://fedlex.data.admin.ch/eli/oc/2024/230). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
