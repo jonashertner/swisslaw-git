@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulle misure tese a ridurre il consumo di energia elettrica nella radiocomunicazione mobile
 document: Progetto posto in consultazione
 language: it

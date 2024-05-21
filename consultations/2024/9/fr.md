@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance sur les mesures de réduction de la consommation d'’énergie électrique dans la radiocommunication mobile"
 document: Projet mis en consultation
 language: fr

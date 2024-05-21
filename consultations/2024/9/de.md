@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Massnahmen zur Senkung des Verbrauchs von elektrischer Energie im Mobilfunk
 document: Vernehmlassungsvorlage
 language: de
