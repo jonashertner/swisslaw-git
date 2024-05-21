@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordonnance du 28 juin 2023 instituant des mesures concernant la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: fr
-version: 2024-03-05
+version: 2024-05-22
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20240305/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20240305-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20240305/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20240522/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20240522-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20240522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures concernant la Moldova
 
-du 28 juin 2023 (État le 5 mars 2024)
+du 28 juin 2023 (État le 22 mai 2024)
 
 Le Conseil fédéral suisse,
 
@@ -144,5 +144,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 4 mars 2024, en vigueur depuis le 5 mars 2024 à 18 heures ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/97](https://fedlex.data.admin.ch/eli/oc/2024/97) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 mars 2024 ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)) et du 21 mai 2024, en vigueur depuis le 22 mai 2024 à 18 heures ([RO 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/226](https://fedlex.data.admin.ch/eli/oc/2024/226) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

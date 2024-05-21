@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordinanza del 28 giugno 2023 che istituisce provvedimenti concernenti la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: it
-version: 2024-03-05
+version: 2024-05-22
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20240305/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20240305-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20240305/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20240522/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20240522-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20240522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti la Moldova
 
-del 28 giugno 2023 (Stato 5 marzo 2024)
+del 28 giugno 2023 (Stato 22 maggio 2024)
 
 Il Consiglio federale,
 
@@ -144,5 +144,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I dell'O del DEFR del 4 mar. 2024, in vigore dal 5 mar. 2024 alle 18.00 ([RU 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)).
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto me-diante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2024/97 &gt; Informazioni generali &gt; Portata del-la pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 4 mar. 2024 ([RU 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)) e del 21 mag. 2024, in vigore dal 22 mag. 2024 alle 18.00 ([RU 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/226](https://fedlex.data.admin.ch/eli/oc/2024/226) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
