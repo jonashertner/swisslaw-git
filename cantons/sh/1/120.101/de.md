@@ -4,26 +4,26 @@ number: "120.101"
 title: Gemeindearchivverordnung
 language: de
 version: 2010-01-01
+corrected: 2024-05-22
 version_adopted: 2009-10-27
 adopted: 2009-10-27
 in_force: 2010-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/120.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/651/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/366/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Gemeindearchivverordnung
 
-Vom 27.10.2009 (Stand 01.01.2010)
+vom 27. Oktober 2009
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 99 Abs. 2 des Gemeindegesetzes vom 17. August 1998[^ingress-1],
+gestützt auf Art. 99 Abs. 2 des Gemeindegesetzes vom 17. August 1998 <sup>1)</sup>,
 
-beschliesst:
-
-[^ingress-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
+verordnet:
 
 #### § 1
 
@@ -47,29 +47,49 @@ beschliesst:
 
 **Bestände der Gemeinde**
 
-<sup>1</sup> Als wichtige Akten gelten insbesondere:
+Als wichtige Akten gelten insbesondere:
 
-- a) die überlieferten Bestände vor 1912
-- b) Akten, die von Gesetzes wegen oder kraft behördlicher Vorschrift dauernd aufbewahrt werden müssen
-- c) gemeindeeigene Rechtserlasse (Gemeindeverfassung, Reglemente, Verordnungen, Gebührenordnungen, Tarife) sowie die dazugehörenden wesentlichen Akten (Anträge an die Gemeindeversammlung oder den Einwohnerrat, Genehmigungsentscheide usw.)
-- d) wichtige Akten der Gemeindebetriebe sowie der Betriebe, an denen die Gemeinde beteiligt ist
-- e) wichtige Verträge mit Privaten oder Körperschaften und Anstalten des öffentlichen Rechts sowie die dazugehörigen wesentlichen Akten
-- f) Pläne (Nutzungsplanung, Zonen-, Baulinien-, Quartier- und Landumlegungspläne, Pläne und Bauabrechnungen über gemeindeeigene Bauten und Anlagen) sowie die dazugehörenden wesentlichen Akten
-- g) geologische Untersuchungsergebnisse
-- h) Baubewilligungsakten inkl. Pläne
-- i) Protokolle der Gemeindeversammlung, der Bürgergemeinde- und Bürgerversammlung und des Einwohnerrates sowie die dazugehörenden wesentlichen Akten
-- j) Protokolle des Gemeinderates und anderer Gemeindebehörden wie der Vormundschafts- und Erbschaftsbehörde, der Sozialhilfebehörde, der Schulbehörde
-- k) Wahl- und Abstimmungsprotokolle über Gemeindewahlen und Gemeindeabstimmungen
-- l) Amtsübergabeprotokolle sowie die Verzeichnisse der Gemeindefunktionäre mit Ein- und Austrittsdatum
-- m) Jahresrechnungen und Finanzpläne
-- n) wichtige Statistiken und Verzeichnisse (inkl. Kataster), die für Gemeindezwecke erstellt worden sind
-- o) Einwohnerregister und Einwohnerkarteikarten
-- p) Einbürgerungsakten
-- q) Akten über das Erbschafts- und Vormundschaftswesen
-- r) Akten über die Sozialhilfe
-- s) Dokumente über wichtige, gemeinderelevante Entwicklungsprojekte
-- t) Jahresberichte und Drucksachen der Gemeinde (Gemeindeversammlungs- und Abstimmungsvorlagen, Begrüssungsschriften, Prospekte usw.)
-- u) Bild- und Tondokumente sowie Akten zu besonderen, wesentlichen Anlässen der Gemeinde
+- a) die überlieferten Bestände vor 1912;
+
+Amtsblatt 2009, S. 1683 b) Akten, die von Gesetzes wegen oder kraft behördlicher Vorschrift dauernd aufbewahrt werden müssen;
+
+- c) gemeindeeigene Rechtserlasse (Gemeindeverfassung, Reglemente, Verordnungen, Gebührenordnungen, Tarife) sowie die dazugehörenden wesentlichen Akten (Anträge an die Gemeindeversammlung oder den Einwohnerrat, Genehmigungsentscheide usw.);
+
+- d) wichtige Akten der Gemeindebetriebe sowie der Betriebe, an denen die Gemeinde beteiligt ist;
+
+- e) wichtige Verträge mit Privaten oder Körperschaften und Anstalten des öffentlichen Rechts sowie die dazugehörigen wesentlichen Akten;
+
+- f) Pläne (Nutzungsplanung, Zonen-, Baulinien-, Quartier- und Landumlegungspläne, Pläne und Bauabrechnungen über gemeindeeigene Bauten und Anlagen) sowie die dazugehörenden wesentlichen Akten;
+
+- g) geologische Untersuchungsergebnisse;
+
+- h) Baubewilligungsakten inkl. Pläne;
+
+- i) Protokolle der Gemeindeversammlung, der Bürgergemeinde- und Bürgerversammlung und des Einwohnerrates sowie die dazugehörenden wesentlichen Akten;
+
+- j) Protokolle des Gemeinderates und anderer Gemeindebehörden wie der Vormundschafts- und Erbschaftsbehörde, der Sozialhilfebehörde, der Schulbehörde;
+
+- k) Wahl- und Abstimmungsprotokolle über Gemeindewahlen und Gemeindeabstimmungen;
+
+- l) Amtsübergabeprotokolle sowie die Verzeichnisse der Gemeindefunktionäre mit Ein- und Austrittsdatum;
+
+- m) Jahresrechnungen und Finanzpläne;
+
+- n) wichtige Statistiken und Verzeichnisse (inkl. Kataster), die für Gemeindezwecke erstellt worden sind;
+
+- o) Einwohnerregister und Einwohnerkarteikarten;
+
+- p) Einbürgerungsakten;
+
+- q) Akten über das Erbschafts- und Vormundschaftswesen;
+
+- r) Akten über die Sozialhilfe;
+
+- s) Dokumente über wichtige, gemeinderelevante Entwicklungsprojekte;
+
+- t) Jahresberichte und Drucksachen der Gemeinde (Gemeindeversammlungs- und Abstimmungsvorlagen, Begrüssungsschriften, Prospekte usw.);
+
+- u) Bild- und Tondokumente sowie Akten zu besonderen, wesentlichen Anlässen der Gemeinde.
 
 #### § 4
 
@@ -93,7 +113,7 @@ beschliesst:
 
 **Gemeindezusammenschlüsse**
 
-<sup>1</sup> Bei Gemeindezusammenschlüssen übernimmt die neue Gemeinde das Archivgut der aufgehobenen Gemeinde. Das Archivgut der aufgehobenen Gemeinde wird zu diesem Zweck in seiner Gesamtheit in das Archiv der neuen Gemeinde überführt.
+Bei Gemeindezusammenschlüssen übernimmt die neue Gemeinde das Archivgut der aufgehobenen Gemeinde. Das Archivgut der aufgehobenen Gemeinde wird zu diesem Zweck in seiner Gesamtheit in das Archiv der neuen Gemeinde überführt.
 
 #### § 7
 
@@ -136,7 +156,8 @@ beschliesst:
 <sup>2</sup> Sie dürfen ausnahmsweise ausgeliehen werden, wenn:
 
 - a) die Benützerin oder der Benützer vertrauenswürdig und der Archivarin oder dem Archivar bekannt ist und
-- b) das Anfertigen von Kopien zu aufwendig oder für die archivierten Akten aus konservatorischen Gründen nicht möglich ist
+
+- b) das Anfertigen von Kopien zu aufwendig oder für die archivierten Akten aus konservatorischen Gründen nicht möglich ist.
 
 <sup>3</sup> Die Bestimmungen über die Schutzfristen bleiben vorbehalten.
 
@@ -152,31 +173,35 @@ beschliesst:
 
 **Zuständigkeit des Gemeinderates**
 
-<sup>1</sup> Der Gemeinderat:
+Der Gemeinderat a) bestimmt die Archivarin bzw. den Archivar;
 
-- a) bestimmt die Archivarin bzw. den Archivar
-- b) erlässt eine Betriebs- und Benützungsordnung
-- c) erlässt den Archivplan
-- d) sorgt für die Ablieferung und Archivierung der Akten, welche nicht mehr für die unmittelbare Verwaltungstätigkeit benötigt werden
-- e) ist zuständig für die Verlängerung der Schutzfrist und für die Einsichtnahme während der Schutzfrist
-- f) erteilt die Zustimmung zur Vernichtung oder zum Ausscheiden von Aktenbeständen
+- b) erlässt eine Betriebs- und Benützungsordnung;
+
+- c) erlässt den Archivplan;
+
+- d) sorgt für die Ablieferung und Archivierung der Akten, welche nicht mehr für die unmittelbare Verwaltungstätigkeit benötigt werden;
+
+- e) ist zuständig für die Verlängerung der Schutzfrist und für die Einsichtnahme während der Schutzfrist;
+
+- f) erteilt die Zustimmung zur Vernichtung oder zum Ausscheiden von Aktenbeständen.
 
 #### § 13
 
 **Zuständigkeit der Archivarin bzw. des Archivars**
 
-<sup>1</sup> Die Archivarin bzw. der Archivar:
+Die Archivarin bzw. der Archivar a) sorgt für eine zweckmässige Archivierung und den Schutz der Akten;
 
-- a) sorgt für eine zweckmässige Archivierung und den Schutz der Akten
-- b) führt ein Verzeichnis der Akten, wobei Neuzugänge unverzüglich nachzutragen sind
-- c) ist für die Benützung des Gemeindearchivs gemäss Benützungsordnung verantwortlich
-- d) entscheidet in eigenem Ermessen, ob Akten länger als erforderlich aufzubewahren sind
+- b) führt ein Verzeichnis der Akten, wobei Neuzugänge unverzüglich nachzutragen sind;
+
+- c) ist für die Benützung des Gemeindearchivs gemäss Benützungsordnung verantwortlich;
+
+- d) entscheidet in eigenem Ermessen, ob Akten länger als erforderlich aufzubewahren sind.
 
 #### § 14
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Gemeinden setzen diese Verordnung innerhalb von zwei Jahren nach deren Inkrafttreten um.
+Die Gemeinden setzen diese Verordnung innerhalb von zwei Jahren nach deren Inkrafttreten um.
 
 #### § 15
 
@@ -184,8 +209,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^15-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^15-1]: Amtsblatt 2009, S. 1683.
+Fussnoten:
 
-Abl. 2009, S. 1683
+- 1) SHR 120.100.
+
+- 2) Amtsblatt 2009, S. 1683.
