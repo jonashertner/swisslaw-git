@@ -4,24 +4,26 @@ number: "141.111"
 title: Verordnung zum Bürgerrechtsgesetz
 language: de
 version: 2018-01-01
+corrected: 2024-05-22
 version_adopted: 2017-08-29
 adopted: 2017-08-29
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/141.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/650/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/180/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung zum Bürgerrechtsgesetz
 
-Vom 29.08.2017 (Stand 01.01.2018)
+vom 29. August 2017
 
-Der Regierungsrat des Kantons Schaffhausen,
+Der Regierungsrat des Kantons Schaffhausen
 
-gestützt auf Art. 14 Abs. 3 des Bürgerrechtsgesetzes vom 23. September 1991,
+gestützt auf Art. 14 Abs. 3 des Bürgerrechtsgesetzes vom 23. September 1991
 
-beschliesst:
+verordnet:
 
 #### § 1
 
@@ -29,26 +31,27 @@ beschliesst:
 
 <sup>1</sup> Wer sich um das Gemeinde- und Kantonsbürgerrecht bewirbt, hat der Gemeinderatskanzlei ein Gesuch mit kurzem Lebenslauf einzureichen. Dem Gesuch sind folgende Unterlagen im Original beizulegen, sofern nichts anderes vermerkt ist:
 
-- a) Schweizerinnen und Schweizer:
-  - 1\. Wohnsitzbescheinigung
-  - 2\. Ledige, Verwitwete, Geschiedene und Personen in aufgelöster Partnerschaft: Personenstandsausweis; Verheiratete und Personen in eingetragener Partnerschaft: Familien- bzw. Partnerschaftsausweis
-  - 3\. Erklärung über die Beibehaltung oder den Verzicht auf das bisherige Bürgerrecht
-- b) Ausländerinnen und Ausländer:
-  - 1\. Gesuch um Erteilung der Einbürgerungsbewilligung des Bundes
-  - 2\. Wohnsitzbescheinigung
-  - 3\. Zivilstandsdokumente über Geburt, Geschlecht, Namen, Abstammung, Zivilstand (Verwitwete, Geschiedene oder Personen in aufgelöster Partnerschaft: Datum der Auflösung der Ehe oder Partnerschaft)
-  - 4\. Kopie des Reisepasses
-  - 5\. Kopie des Ausländerausweises
-  - 6\. Auszug aus dem Betreibungsregister für die letzten fünf Jahre
-  - 7\. Bescheinigung der Steuerverwaltung, dass keine Steuerausstände bestehen
-  - 8\. Nachweis der deutschen Sprachkompetenz
-  - 9\. Nachweis über die Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung
-  - 10\. Bescheinigung der Sozialhilfebehörde, wonach in den letzten drei Jahren keine Sozialhilfe bezogen wurde
-  - 11\. Angabe über die Erfüllung der obligatorischen Schulpflicht in der Schweiz während mindestens acht Jahren
-- c) Minderjährige Personen zudem:
-  - 1\. Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters
-  - 2\. Zustimmung des nicht in die Einbürgerung einbezogenen Elternteils zur Einbürgerung eines minderjährigen Kindes bei gemeinsamer elterlichen Sorge
-  - 3\. eigene schriftliche Zustimmung, sofern das 16. Altersjahr erreicht ist
+- a) Schweizerinnen und Schweizer
+
+- Wohnsitzbescheinigung
+
+- Ledige, Verwitwete, Geschiedene und Personen in aufgelöster Partnerschaft: Personenstandsausweis; Verheiratete und Personen in eingetragener Partnerschaft: Familien- bzw. Partnerschaftsausweis
+
+- Erklärung über die Beibehaltung oder den Verzicht auf das bisherige Bürgerrecht
+
+- b) Ausländerinnen und Ausländer
+
+- Gesuch um Erteilung der Einbürgerungsbewilligung des Bundes
+
+- Wohnsitzbescheinigung
+
+- Zivilstandsdokumente über Geburt, Geschlecht, Namen, Abstammung, Zivilstand (Verwitwete, Geschiedene oder Personen in aufgelöster Partnerschaft: Datum der Auflösung der Ehe oder Partnerschaft)
+
+- Kopie des Reisepasses
+
+- Kopie des Ausländerausweises
+
+Amtsblatt 2017, S. 1387 - Auszug aus dem Betreibungsregister für die letzten fünf Jahre - Bescheinigung der Steuerverwaltung, dass keine Steuerausstände bestehen - Nachweis der deutschen Sprachkompetenz - Nachweis über die Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung - Bescheinigung der Sozialhilfebehörde, wonach in den letzten drei Jahren keine Sozialhilfe bezogen wurde - Angabe über die Erfüllung der obligatorischen Schulpflicht in der Schweiz während mindestens acht Jahren c) minderjährige Personen zudem - Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters - Zustimmung des nicht in die Einbürgerung einbezogenen Elternteils zur Einbürgerung eines minderjährigen Kindes bei gemeinsamer elterlichen Sorge - eigene schriftliche Zustimmung, sofern das 16. Altersjahr erreicht ist
 
 #### § 2
 
@@ -80,25 +83,27 @@ beschliesst:
 
 **Einbürgerungsbewilligung des Bundes**
 
-<sup>1</sup> Das Amt für Justiz und Gemeinden leitet den Einbürgerungsentscheid der Gemeinde nach erfolgter Prüfung zwecks Erteilung der Einbürgerungsbewilligung des Bundes an das Staatssekretariat für Migration SEM weiter.
+Das Amt für Justiz und Gemeinden leitet den Einbürgerungsentscheid der Gemeinde nach erfolgter Prüfung zwecks Erteilung der Einbürgerungsbewilligung des Bundes an das Staatssekretariat für Migration SEM weiter.
 
 #### § 6
 
 **Mitteilungen**
 
-<sup>1</sup> Das Amt für Justiz und Gemeinden teilt die Erteilung des Gemeinde- und Kantonsbürgerrechts mit:
+Das Amt für Justiz und Gemeinden teilt die Erteilung des Gemeinde- und Kantonsbürgerrechts mit:
 
 - a) der gesuchstellenden Person
-- b) der Gemeinde
-- c) bei Ausländerinnen und Ausländern ausserdem
-  - 1\. dem Staatssekretariat für Migration SEM
-  - 2\. dem Migrationsamt und Passbüro
+
+- b) der Gemeinde bei Ausländerinnen und Ausländern ausserdem
+
+- c) dem Staatssekretariat für Migration SEM
+
+- d) dem Migrationsamt und Passbüro
 
 #### § 7
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung zum Bürgerrechtsgesetz vom 12. Dezember 2006 wird aufgehoben.
+Die Verordnung zum Bürgerrechtsgesetz vom 12. Dezember 2006 wird aufgehoben.
 
 #### § 8
 
@@ -108,6 +113,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^8-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^8-1]: Amtsblatt 2017, S. 1387.
+Fussnoten:
 
-Abl. 2017, S. 1387
+[^8-1]: Amtsblatt 2017, S. 1387.
