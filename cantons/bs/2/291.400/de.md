@@ -4,13 +4,12 @@ number: "291.400"
 title: Reglement über das Honorar und die Entschädigung der berufsmässigen Vertretung im Gerichtsverfahren
 short: "Honorarreglement, HoR"
 language: de
-version: 2021-01-01
-valid_until: 2024-05-22
-version_adopted: 2020-06-16
+version: 2024-05-23
+version_adopted: 2024-04-15
 adopted: 2020-06-16
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/291.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6231/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Honorarordnung | Advokatur
 
 (Honorarreglement, HoR)
 
-Vom 16. Juni 2020 (Stand 1. Januar 2021)
+Vom 16. Juni 2020 (Stand 23. Mai 2024)
 
 Der Gerichtsrat des Kantons Basel-Stadt,
 
@@ -278,6 +277,16 @@ beschliesst:
 <sup>1</sup> In vermögensrechtlichen Streitigkeiten richtet sich das Honorar der unentgeltlichen Rechtsvertretung nach den §§ 2-10 und 12 dieses Reglements. Bei hohem Streitwert kann es bis auf die Hälfte des Ansatzes gekürzt werden.
 
 <sup>2</sup> Bei einem Honorar nach Zeitaufwand beträgt der Stundenansatz für die Honorare von Anwältinnen und Anwälte im Rahmen der amtlichen Verteidigung sowie der übrigen unentgeltlichen Rechtsvertretungen Fr. 200. Bei Verhandlungen und Einvernahmen an Sonn- und Feiertagen kann der Stundenansatz erhöht werden.
+
+#### § 20a
+
+**Honorar bei unentgeltlicher Mediation**
+
+<sup>1</sup> Das Honorar für unentgeltliche Mediation in familienrechtlichen Angelegenheiten vermögensrechtlicher und nicht vermögensrechtlicher Art richtet sich nach Zeitaufwand.
+
+<sup>2</sup> Für eine unentgeltliche Mediation kann eingesetzt werden, wer über eine Ausbildung verfügt, die von einer der folgenden Institutionen anerkannt ist: Schweizerischer Anwaltsverband (SAV), Schweizerischer Dachverband Mediation (FSM), Schweizerischer Verein für Familienmediation (SVFM) oder Schweizerische Kammer für Wirtschaftsmediation (SKWM).
+
+<sup>3</sup> Der Stundenansatz beträgt Fr. 180 bis Fr. 200, wenn die Mediation durch eine Person durchgeführt wird, die in einem kantonalen Anwaltsregister eingetragen ist, und ansonsten Fr. 100 bis Fr. 200.
 
 #### § 21
 
