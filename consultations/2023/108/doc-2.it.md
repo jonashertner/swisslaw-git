@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Adattamento delle ordinanze sulla segnaletica stradale e sul controllo della circolazione stradale in attuazione dell’iniziativa cantonale 17.304 («Strade più sicure subito!»)"
 document: Progetto posto in consultazione-2
 language: it

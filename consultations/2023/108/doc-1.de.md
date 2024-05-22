@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Anpassung der Signalisationsverordnung und der Strassenverkehrskontrollverordnung zur Umsetzung der Standesinitiative 17.304 («Sichere Strassen jetzt!»)"
 document: Vernehmlassungsvorlage-1
 language: de

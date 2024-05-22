@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Adaptation de l’ordonnance sur la signalisation routière et de l’ordonnance sur le contrôle de la circulation routière en vue de la mise en œuvre de l’initiative cantonale 17.304 («Pour des routes plus sûres, des mesures maintenant !»)"
 document: Projet mis en consultation-1
 language: fr
