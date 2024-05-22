@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über den Einsatz elektronischer Mittel zur Ton- und Bildübertragung in Zivilverfahren (VEMZ)
 document: Vernehmlassungsvorlage
 language: de

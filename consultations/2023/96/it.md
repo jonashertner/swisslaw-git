@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sull’impiego di strumenti elettronici di trasmissione audiovisiva nei procedimenti civili (OSTAC)
 document: Progetto posto in consultazione
 language: it

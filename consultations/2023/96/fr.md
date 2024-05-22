@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le recours à des moyens électroniques de transmission du son et de l’image dans les procédures civiles (OMETr)
 document: Projet mis en consultation
 language: fr
