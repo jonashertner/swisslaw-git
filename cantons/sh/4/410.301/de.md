@@ -4,28 +4,30 @@ number: "410.301"
 title: Geschäftsordnung des Erziehungsrates des Kantons Schaffhausen
 language: de
 version: 1985-09-23
+corrected: 2024-05-23
 version_adopted: 1985-09-23
 adopted: 1985-09-23
 in_force: 1985-09-23
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.301"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/756/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/85/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Geschäftsordnung des Erziehungsrates des Kantons Schaffhausen
 
-Vom 23.09.1985 (Stand 23.09.1985)
+vom 23. September 1985
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
-gestützt auf § 54 Abs. 2 des Schuldekretes vom 27. April 1981[^ingress-1],
+gestützt auf § 54 Abs. 2 des Schuldekretes vom 27. April 1981[^t-1],
 
-beschliesst:
+gibt sich folgende Geschäftsordnung:
 
-[^ingress-1]: SHR [410.110](https://rechtsbuch.sh.ch/data/410.110/de).
+[^t-1]: SHR 410.110.
 
-## 1 Inpflichtnahme
+### I. Inpflichtnahme
 
 #### § 1
 
@@ -37,19 +39,21 @@ beschliesst:
 
 [^1-1]: heute Vorsteher des Erziehungsdepartementes.
 
-## 2 Sitzungen
+### II. Sitzungen
 
 #### § 2
 
 **Einberufung**
 
-<sup>1</sup> Der Erziehungsrat tritt auf Einladung des Erziehungsdirektors oder wenn drei Ratsmitglieder es verlangen zu seinen Sitzungen zusammen.
+Der Erziehungsrat tritt auf Einladung des Erziehungsdirektors oder wenn drei Ratsmitglieder es verlangen zu seinen Sitzungen zusammen.
 
 #### § 3
 
 **Einladungsfrist**
 
-<sup>1</sup> Die Einladungen sollen in der Regel mindestens 5 Tage vor den Sitzungen im Besitz der Ratsmitglieder sein. In ausserordentlichen Fällen kann diese Frist abgekürzt werden.
+Die Einladungen sollen in der Regel mindestens 5 Tage vor den Sitzungen im Besitz der Ratsmitglieder sein. In ausserordentlichen Fällen kann diese Frist abgekürzt werden.
+
+Amtsblatt 1985, S. 847; Rechtsbuch 1964, Nr. 55.
 
 #### § 4
 
@@ -65,7 +69,7 @@ beschliesst:
 
 **Akteneinsicht**
 
-<sup>1</sup> Jedes Ratsmitglied hat das Recht, in alle erforderlichen Akten bei der Erziehungsdirektion[^5-1] Einsicht zu nehmen.
+Jedes Ratsmitglied hat das Recht, in alle erforderlichen Akten bei der Erziehungsdirektion[^5-1] Einsicht zu nehmen.
 
 [^5-1]: heute Erziehungsdepartement.
 
@@ -73,19 +77,19 @@ beschliesst:
 
 **Teilnahmepflicht**
 
-<sup>1</sup> Die Ratsmitglieder sind verpflichtet, an den Sitzungen teilzunehmen.
+Die Ratsmitglieder sind verpflichtet, an den Sitzungen teilzunehmen.
 
 #### § 7
 
 **Entschuldigungen**
 
-<sup>1</sup> Ratsmitglieder, die an der Teilnahme verhindert sind, haben sich wenn irgend möglich vor der Sitzung mündlich oder schriftlich, spätestens aber innert 4 Tagen nach der Sitzung schriftlich zu entschuldigen.
+Ratsmitglieder, die an der Teilnahme verhindert sind, haben sich wenn irgend möglich vor der Sitzung mündlich oder schriftlich, spätestens aber innert 4 Tagen nach der Sitzung schriftlich zu entschuldigen.
 
 #### § 8
 
 **Beschlussfähigkeit**
 
-<sup>1</sup> Der Erziehungsrat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.
+Der Erziehungsrat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.
 
 #### § 9
 
@@ -95,15 +99,15 @@ beschliesst:
 
 <sup>2</sup> Die Beobachtung des Ausstandes ist im Protokoll zu erwähnen.
 
-[^9-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^9-1]: SHR 172.200.
 
 #### § 10
 
 **Ausschluss der Öffentlichkeit**
 
-<sup>1</sup> Die Verhandlungen des Erziehungsrates sind nicht öffentlich.
+Die Verhandlungen des Erziehungsrates sind nicht öffentlich.
 
-## 3 Organisation
+### III. Organisation
 
 #### § 11
 
@@ -113,7 +117,7 @@ beschliesst:
 
 <sup>2</sup> Er leitet die Verhandlungen, wacht über die Einhaltung der Geschäftsordnung und vertritt den Rat nach aussen.
 
-[^11-1]: SHR [410.100](https://rechtsbuch.sh.ch/data/410.100/de).
+[^11-1]: SHR 410.100.
 
 #### § 12
 
@@ -165,7 +169,7 @@ beschliesst:
 
 <sup>2</sup> Weitere Korrespondenzen des Erziehungsrates unterzeichnet in der Regel der Erziehungssekretär.
 
-<sup>3</sup> Im Übrigen unterzeichnet der Protokollführer die Protokolle und Protokollauszüge.
+<sup>3</sup> Im übrigen unterzeichnet der Protokollführer die Protokolle und Protokollauszüge.
 
 #### § 18
 
@@ -179,15 +183,15 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Verordnungen, allgemeinverbindliche Beschlüsse und wichtige Kreisschreiben sind im Amtsblatt zu veröffentlichen. Lehrpläne und Stundentafeln werden im Amtsblatt angezeigt unter dem Hinweis auf die Einsichtmöglichkeiten. Eine der Einsichtsstellen ist in jedem Falle das Erziehungssekretariat.
+Verordnungen, allgemeinverbindliche Beschlüsse und wichtige Kreisschreiben sind im Amtsblatt zu veröffentlichen. Lehrpläne und Stundentafeln werden im Amtsblatt angezeigt unter dem Hinweis auf die Einsichtmöglichkeiten. Eine der Einsichtsstellen ist in jedem Falle das Erziehungssekretariat.
 
-## 4 Verhandlungen
+### IV. Verhandlungen
 
 #### § 20
 
 **Reihenfolge der Geschäfte**
 
-<sup>1</sup> Die Geschäfte werden in der Reihenfolge der Traktandenliste abgewickelt, wenn nicht die Mehrheit der anwesenden Ratsmitglieder eine Abänderung beschliesst.
+Die Geschäfte werden in der Reihenfolge der Traktandenliste abgewickelt, wenn nicht die Mehrheit der anwesenden Ratsmitglieder eine Abänderung beschliesst.
 
 #### § 21
 
@@ -201,7 +205,7 @@ beschliesst:
 
 **Stimmpflicht**
 
-<sup>1</sup> Jedes anwesende Ratsmitglied ist zur Stimmabgabe verpflichtet, wenn es nicht in den Ausstand zu treten hat.
+Jedes anwesende Ratsmitglied ist zur Stimmabgabe verpflichtet, wenn es nicht in den Ausstand zu treten hat.
 
 #### § 23
 
@@ -229,7 +233,7 @@ beschliesst:
 
 <sup>2</sup> Solche Erklärungen sind im Anschluss an den betreffenden Beschluss auf einem Beiblatt getrennt zu protokollieren.
 
-## 5 Abstimmungen
+### V. Abstimmungen
 
 #### § 26
 
@@ -249,7 +253,7 @@ beschliesst:
 
 <sup>2</sup> Besteht ein Geschäft aus mehreren Artikeln oder Teilen, so ist über dieses am Ende der Beratungen eine Schlussabstimmung durchzuführen.
 
-## 6 Ausserordentliche Verfahren
+### VI. Ausserordentliche Verfahren
 
 #### § 28
 
@@ -261,7 +265,7 @@ beschliesst:
 
 <sup>4</sup> Ein Beschluss kommt im ausserordentlichen Verfahren nur zustande, wenn ihm mindestens fünf Ratsmitglieder zustimmen; solche Beschlüsse sind im Protokoll der nächstfolgenden Erziehungsratssitzung aufzunehmen.
 
-## 7 Schlussbestimmung
+### VII. Schlussbestimmung
 
 #### § 29
 
@@ -271,6 +275,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^29-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^29-1]: Amtsblatt 1985, S. 847.
+Fussnoten:
 
-Abl. 1985, S. 847
+[^29-1]: Amtsblatt 1985, S. 847.
