@@ -5,28 +5,28 @@ title: Verordnung über die Spesenvergütungen beim Kanton Schaffhausen
 short: Spesenverordnung
 language: de
 version: 2007-01-01
+corrected: 2024-05-23
 version_adopted: 2006-12-19
 adopted: 2006-12-19
 in_force: 2007-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.112"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/685/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/163/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Spesenvergütungen beim Kanton Schaffhausen
+# Verordnung über die Spesenvergütungen beim Kanton Schaffhausen (Spesenverordnung)
 
-(Spesenverordnung)
-
-Vom 19.12.2006 (Stand 01.01.2007)
+vom 19. Dezember 2006
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 21 Abs. 1 lit. e des Personalgesetzes vom 3. Mai 2004,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeines
+### I. Allgemeines
 
 #### § 1
 
@@ -38,27 +38,29 @@ beschliesst:
 
 <sup>4</sup> Vorbehalten bleiben besondere Regelungen des Regierungsrates, insbesondere für bestimmte Gegenstände, einzelne Bereiche oder Personalkategorien.
 
+Amtsblatt 2006, S. 1803
+
 <sup>5</sup> Diese Bestimmungen gelten sinngemäss auch für selbstständige öffentlich-rechtliche Anstalten, deren Mitarbeitende dem Personalgesetz unterstellt sind, soweit sie nichts anderes geregelt haben.
 
-## 2 Verpflegung und Übernachtung
+### II. Verpflegung und Übernachtung
 
 #### § 2
 
-<sup>1</sup> Die Auslagen für Verpflegung werden bei einer ganztägigen Dienstreise mit einer Pauschale von Fr. 40.00 abgegolten. Darin enthalten sind allfällige Auslagen für Frühstück, Mittagessen, Zwischenverpflegungen, Getränke sowie weitere kleine Auslagen wie beispielsweise Kurztelefonate.
+<sup>1</sup> Die Auslagen für Verpflegung werden bei einer ganztägigen Dienstreise mit einer Pauschale von Fr. 40.-- abgegolten. Darin enthalten sind allfällige Auslagen für Frühstück, Mittagessen, Zwischenverpflegungen, Getränke sowie weitere kleine Auslagen wie beispielsweise Kurztelefonate.
 
-<sup>2</sup> Ist bei einer Dienstreise unter 6 Stunden das Mittagessen zwingend auswärts einzunehmen, so können die effektiven Auslagen bis maximal Fr. 30.00 verrechnet werden.
+<sup>2</sup> Ist bei einer Dienstreise unter 6 Stunden das Mittagessen zwingend auswärts einzunehmen, so können die effektiven Auslagen bis maximal Fr. 30.-- verrechnet werden.
 
-<sup>3</sup> Der Anspruch auf eine Vergütung des Nachtessens besteht nur, wenn die Ankunft in Schaffhausen nach 20:00 Uhr erfolgt. Dabei können die effektiven Auslagen bis maximal Fr. 30.00 verrechnet werden.
+<sup>3</sup> Der Anspruch auf eine Vergütung des Nachtessens besteht nur, wenn die Ankunft in Schaffhausen nach 20.00 Uhr erfolgt. Dabei können die effektiven Auslagen bis maximal Fr. 30.-- verrechnet werden.
 
 <sup>4</sup> Höhere Entschädigungen werden nur in begründeten Fällen mit Zustimmung der vorgesetzten Stelle und gegen Vorlage der Rechnung ausgerichtet.
 
-<sup>5</sup> Ist eine Übernachtung erforderlich, so werden für das Nachtessen pauschal Fr. 30.00 vergütet und für die Übernachtung inkl. Frühstück die effektiven Kosten abgegolten. Unangemessen hohe Übernachtungskosten können gekürzt werden.
+<sup>5</sup> Ist eine Übernachtung erforderlich, so werden für das Nachtessen pauschal Fr. 30.-- vergütet und für die Übernachtung inkl. Frühstück die effektiven Kosten abgegolten. Unangemessen hohe Übernachtungskosten können gekürzt werden.
 
-<sup>6</sup> Sind anlässlich eines Besuches Gäste zu bewirten, so können die effektiven Auslagen bis maximal Fr. 40.00 pro Person verrechnet werden. Höhere Vergütungen benötigen die Zustimmung der vorgesetzten Stelle.
+<sup>6</sup> Sind anlässlich eines Besuches Gäste zu bewirten, so können die effektiven Auslagen bis maximal Fr. 40.-- pro Person verrechnet werden. Höhere Vergütungen benötigen die Zustimmung der vorgesetzten Stelle.
 
 <sup>7</sup> Sind beim Besuch einer Tagung, Veranstaltung oder ähnliches die Verpflegungsleistungen eingeschlossen, werden keine zusätzlichen Entschädigungen ausgerichtet.
 
-## 3 Reiseentschädigungen
+### III. Reiseentschädigungen
 
 #### § 3
 
@@ -78,15 +80,11 @@ beschliesst:
 
 #### § 5
 
-<sup>1</sup> Bei Benützung eines Privatfahrzeuges für dienstliche Fahrten betragen die Entschädigungen für den gefahrenen Kilometer ab Arbeitsort:
-
-- a) Auto: — Fr. 0.70
-- b) Motorrad und Roller: — Fr. 0.40
-- c) Kleinmotorrad: — Fr. 0.30
+<sup>1</sup> Bei Benützung eines Privatfahrzeuges für dienstliche Fahrten betragen die Entschädigungen für den gefahrenen Kilometer ab Arbeitsort Auto Fr. 0.70 Motorrad und Roller Fr. 0.40 Kleinmotorrad Fr. 0.30
 
 <sup>2</sup> Mitarbeitende mit dem gleichen Reiseziel sind ohne besondere Entschädigung im Privatauto mitzunehmen.
 
-<sup>3</sup> Sofern das eigene Fahrzeug bei regelmässigen Dienstfahrten durch Materialtransporte, Fahrten in schwierigem Gelände und dergleichen ausserordentlich stark beansprucht wird, kann die vorgesetzte Stelle im Einvernehmen mit dem Personalamt einen Zuschlag von Fr. 0.15/km gewähren. Mit diesem Zuschlag sind alle Ansprüche aus der Zurverfügungstellung und Benützung des eigenen Fahrzeuges abgegolten. Vorbehalten bleibt § 6.
+<sup>3</sup> Sofern das eigene Fahrzeug bei regelmässigen Dienstfahrten durch Materialtransporte, Fahrten in schwierigem Gelände und dergleichen ausserordentlich stark beansprucht wird, kann die vorgesetzte Stelle im Einvernehmen mit dem Personalamt einen Zuschlag von Fr. 0.15 /km gewähren. Mit diesem Zuschlag sind alle Ansprüche aus der Zurverfügungstellung und Benützung des eigenen Fahrzeuges abgegolten. Vorbehalten bleibt § 6.
 
 <sup>4</sup> Bei regelmässiger Benützung des eigenen Motorfahrzeuges zu dienstlichen Zwecken kann der Regierungsrat an Stelle der genannten Ansätze ausnahmsweise Pauschalvergütungen festsetzen.
 
@@ -98,7 +96,7 @@ beschliesst:
 
 <sup>2</sup> Nach Eintritt eines Schadenfalles, für welchen Leistungen beansprucht werden, ist unverzüglich Meldung an die jeweils zuständige Stelle zu erstatten; bei Unfallereignissen ist der Unfallrapport einzureichen.
 
-## 4 Telekommunikationsmittel
+### IV. Telekommunikationsmittel
 
 #### § 7
 
@@ -112,9 +110,9 @@ beschliesst:
 
 #### § 8
 
-<sup>1</sup> Andere Auslagen für dienstliche Notwendigkeiten werden nach dem belegten, effektiven Aufwand entschädigt und sind entsprechend zu begründen.
+Andere Auslagen für dienstliche Notwendigkeiten werden nach dem belegten, effektiven Aufwand entschädigt und sind entsprechend zu begründen.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### § 9
 
@@ -122,8 +120,8 @@ beschliesst:
 
 <sup>2</sup> Sie ersetzt die Verordnung vom 14. Januar 1992 über die Spesenvergütungen an das Staatspersonal.
 
-<sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^9-1]: Amtsblatt 2006, S. 1803.
+Fussnoten:
 
-Abl. 2006, S. 1803
+- 1) Amtsblatt 2006, S. 1803.
