@@ -5,40 +5,42 @@ title: Kantonales Geoinformationsgesetz
 short: KGeoIG
 language: de
 version: 2014-01-01
+corrected: 2024-05-23
 version_adopted: 2012-07-02
 adopted: 2012-07-02
 in_force: 2014-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.500"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/710/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/395/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Kantonales Geoinformationsgesetz
+# Kantonales Geoinformationsgesetz (KGeoIG)
 
-(KGeoIG)
-
-Vom 02.07.2012 (Stand 01.01.2014)
+vom 2. Juli 2012
 
 Der Kantonsrat Schaffhausen,
 
-gestützt auf das Bundesgesetz über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007[^ingress-1],
+gestützt auf das Bundesgesetz über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007[^t-1],
 
-beschliesst:
+beschliesst als Gesetz:
 
-[^ingress-1]: SR [510.62](http://db.clex.ch/link/Bund/510.62/de).
+[^t-1]: SR 510.62.
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt:
+Dieses Gesetz regelt:
 
-- a) den Vollzug des Bundesgesetzes über die Geoinformation sowie des dazugehörigen Verordnungsrechts
-- b) das Erheben und Verwenden der Geodaten des Kantons und der Gemeinden
-- c) das Führen des digitalen Leitungskatasters
+- a) den Vollzug des Bundesgesetzes über die Geoinformation sowie des dazugehörigen Verordnungsrechts;
+
+- b) das Erheben und Verwenden der Geodaten des Kantons und der Gemeinden;
+
+- c) das Führen des digitalen Leitungskatasters.
 
 #### Art. 2
 
@@ -52,9 +54,11 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Für dieses Gesetz und seine Ausführungserlasse gelten die Begriffe des Bundesrechts.
+Für dieses Gesetz und seine Ausführungserlasse gelten die Begriffe des Bundesrechts.
 
-## 2 Kantonale Geobasisdaten
+Amtsblatt 2013, S. 953
+
+### II. Kantonale Geobasisdaten
 
 #### Art. 4
 
@@ -106,11 +110,11 @@ beschliesst:
 
 <sup>3</sup> Er kann vorschreiben, dass bestimmte Geobasisdaten des kantonalen Rechts allein oder in Verbindung mit anderen Daten im Abrufverfahren oder auf andere Weise in elektronischer Form zugänglich gemacht werden.
 
-## 3 Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
+### III. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 
 #### Art. 9
 
-**Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen**
+**Kataster der öffentlichrechtlichen Eigentumsbeschränkungen**
 
 <sup>1</sup> Der Kanton führt den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Art. 16 GeoIG (ÖREB-Kataster).
 
@@ -118,18 +122,23 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat erlässt Ausführungsbestimmungen zum ÖREB-Kataster. Er regelt namentlich:
 
-- a) die Organisation des Katasters
-- b) die Aufnahme der Daten in den Kataster und deren Nachführungen
-- c) die Darstellung von Zusatzinformationen
-- d) die Erstellung und Abgabe beglaubigter Auszüge
-- e) die Finanzierung und die Gebührenerhebung
-- f) die Zuständigkeit zum Abschluss der Programmvereinbarung mit dem Bund
+- a) die Organisation des Katasters;
 
-## 4 Leitungskataster
+- b) die Aufnahme der Daten in den Kataster und deren Nachführungen;
+
+- c) die Darstellung von Zusatzinformationen;
+
+- d) die Erstellung und Abgabe beglaubigter Auszüge;
+
+- e) die Finanzierung und die Gebührenerhebung;
+
+- f) die Zuständigkeit zum Abschluss der Programmvereinbarung mit dem Bund.
+
+### IV. Leitungskataster
 
 #### Art. 10
 
-**Leitungs-kataster**
+**Leitungskataster**
 
 <sup>1</sup> Die Gemeinden führen einen digitalen Leitungskataster, aus dem die geografische Lage der Leitungen mit ihren ober- und unterirdischen baulichen Anlagen zur Versorgung und Entsorgung hervorgeht.
 
@@ -137,19 +146,19 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt Inhalt und technische Ausgestaltung des Katasters und der Datenlieferung durch die Eigentümerinnen und Eigentümer.
 
-## 5 Weitere Bestimmungen
+### V. Weitere Bestimmungen
 
 #### Art. 11
 
 **Mitwirkung und Anhörung**
 
-<sup>1</sup> Bei der Vorbereitung von rechtsetzenden Erlassen des Kantons im Geltungsbereich dieses Gesetzes, welche die Zuständigkeit und die Interessen der Gemeinden und weiterer Kreise betreffen, stellt der Regierungsrat die Mitwirkung der Gemeinden und die Anhörung der betroffenen Kreise auf geeignete Weise sicher.
+Bei der Vorbereitung von rechtsetzenden Erlassen des Kantons im Geltungsbereich dieses Gesetzes, welche die Zuständigkeit und die Interessen der Gemeinden und weiterer Kreise betreffen, stellt der Regierungsrat die Mitwirkung der Gemeinden und die Anhörung der betroffenen Kreise auf geeignete Weise sicher.
 
 #### Art. 12
 
 **Gewerbliche Leistungen**
 
-<sup>1</sup> Der Regierungsrat kann Stellen des Kantons ermächtigen, zur Erfüllung besonderer Kundenwünsche Geodaten und weitere Leistungen im Bereich der Geoinformation gewerblich anzubieten.
+Der Regierungsrat kann Stellen des Kantons ermächtigen, zur Erfüllung besonderer Kundenwünsche Geodaten und weitere Leistungen im Bereich der Geoinformation gewerblich anzubieten.
 
 #### Art. 13
 
@@ -183,28 +192,31 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Mit Busse bis zu Fr. 5'000.00 wird bestraft, wer:
+<sup>1</sup> Mit Busse bis zu 5000 Franken wird bestraft, wer:
 
-- a) sich oder Dritten widerrechtlich Zugang zu Geobasisdaten des kantonalen und kommunalen Rechts oder anderen Geodaten des Kantons und der Gemeinden verschafft
-- b) Geodaten nach lit. a oder Geodienste ohne Berechtigung nutzt
-- c) Geodaten nach lit. a ohne Einwilligung weitergibt
-- d) Vorschriften über die Nutzung missachtet
+- a) sich oder Dritten widerrechtlich Zugang zu Geobasisdaten des kantonalen und kommunalen Rechts oder anderen Geodaten des Kantons und der Gemeinden verschafft;
+
+- b) Geodaten nach lit. a oder Geodienste ohne Berechtigung nutzt;
+
+- c) Geodaten nach lit. a ohne Einwilligung weitergibt;
+
+- d) Vorschriften über die Nutzung missachtet.
 
 <sup>2</sup> Die Strafverfolgung obliegt der Staatsanwaltschaft.
 
-## 6 Schlussbestimmungen
+### VI. Schlussbestimmungen
 
 #### Art. 17
 
-**Änderung bisherigen Rechts[^17-1]**
+**Änderung bisherigen Rechts**
 
-[^17-1]: Gegenstandslos
+Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 #### Art. 18
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Der Regierungsrat kann für die Umsetzung dieses Gesetzes einen Zeitplan festlegen. Er kann darin namentlich den Übergang zu den neuen qualitativen und technischen Anforderungen für Geobasisdaten des kantonalen Rechts regeln.
+Der Regierungsrat kann für die Umsetzung dieses Gesetzes einen Zeitplan festlegen. Er kann darin namentlich den Übergang zu den neuen qualitativen und technischen Anforderungen für Geobasisdaten des kantonalen Rechts regeln.
 
 #### Art. 19
 
@@ -216,7 +228,107 @@ beschliesst:
 
 <sup>3</sup> Das Gesetz ist im Amtsblatt zu veröffentlichen[^19-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
+Anhang
+
 [^19-1]: In Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1800).
 [^19-2]: Amtsblatt 2012, S. 953.
 
-Abl. 2012, S. 953, 2013, S. 1800
+## Änderung bisherigen Rechts
+
+### - Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
+
+#### Art. 13
+
+**Abs. 1 Ziff. 5**
+
+Aufgehoben
+
+#### Art. 18
+
+**lit. a Ziff. 6<sup>bis</sup>**
+
+Der Regierungsrat bestimmt das zuständige Departement oder die zuständige Dienststelle für:
+
+- a) ZGB 6<sup>bis</sup> Art. 669 Anbringung von Grenzzeichen
+
+#### Art. 161
+
+**Abs. 2, 3 und 5**
+
+<sup>2</sup> Die Datenherrschaft liegt beim Kanton. Die Verwaltung und Abgabe von Plänen, Daten, Auszügen und Auswertungen ist seine Sache.
+
+<sup>3</sup> Wer Daten, Pläne, Auszüge oder Auswertungen der amtlichen Vermessung bezieht, hat eine Gebühr an die Infrastrukturkosten sowie die Investitions- und Nachführungskosten zu bezahlen.
+
+<sup>5</sup> Der Kanton betreibt, gestützt auf die Daten der amtlichen Vermessung, die kantonale Geodaten-Infrastruktur.
+
+### - Wasserwirtschaftsgesetz
+
+#### Art. 6a
+
+**Inventarisierung**
+
+<sup>1</sup> Das zuständige Departement erstellt gemäss den Vorschriften der Geoinformationsgesetzgebung Inventare über Wasserversorgungsanlagen, Grundwasservorkommen und Quellen, die sich für die Trinkwasserversorgung in Notlagen eignen. Diese Eintragungen sind periodisch nachzuführen.
+
+<sup>2</sup> Zugang zu und Nutzung der Daten richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+
+Gesetz über die Einführung des Bundesgesetzes über den Umweltschutz (Einführungsgesetz zum USG)
+
+#### Art. 8
+
+**Abs. 1<sup>bis</sup>**
+
+<sup>1bis</sup> Es informiert das Bundesamt für Umwelt BAFU periodisch in Form einer Übersicht über die im Kanton vorhandenen Gefahrenpotentiale und Risiken (Risikokataster) sowie über die getroffenen Massnahmen nach Art. 16 Abs. 1 StFV.
+
+#### Art. 32
+
+**Abs. 1 und 2**
+
+<sup>1</sup> Die Eintragung in den Kataster der belasteten Standorte erfolgt nach Massgabe von Art. 5 f. AltlV und Art. 32c Abs. 2 USG.
+
+<sup>2</sup> Der Kataster der belasteten Standorte ist öffentlich und richtet sich nach den Vorschriften der Geoinformationsgesetzgebung. Er kann von jedermann eingesehen werden. Die belasteten Standorte werden im Richtplan aufgeführt.
+
+### - Einführungsgesetz zum Gewässerschutzgesetz
+
+#### Art. 8
+
+**Abs. 5**
+
+<sup>5</sup> Zugang und Nutzung zum regionalen Entwässerungsplan (REP) und kommunalen Entwässerungsplan (GEP) richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+
+#### Art. 16
+
+**Abs. 3 und 4**
+
+<sup>3</sup> Das zuständige Departement erstellt Gewässerschutzkarten und passt diese nach Bedarf an. Die Gewässerschutzkarten enthalten nach den Vorgaben der Geoinformationsgesetzgebung mindestens die Gewässerschutzbereiche, die Grundwasserschutzzonen, die Grundwasserschutzareale sowie die Grundwasseraustritte, -fassungen und -anreicherungsanlagen, die für die Wasserversorgung von Bedeutung sind.
+
+<sup>4</sup> Zugang und Nutzung zu den Daten der Gewässerschutzkarten richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+
+### - Kantonales Waldgesetz
+
+#### Art. 25
+
+**Abs. 3**
+
+<sup>3</sup> Zugang und Nutzung zu den Daten der forstlichen Planung richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+
+### - Dekret über die amtliche Vermessung
+
+#### § 9
+
+**Aufgehoben**
+
+#### § 12
+
+**Abs. 1**
+
+<sup>1</sup> Der Regierungsrat schliesst mit dem Bund die mehrjährigen Programmvereinbarungen ab, das kantonale Vermessungsamt die jährlichen Leistungsvereinbarungen.
+
+#### § 19
+
+**Abs. 2 und 3**
+
+<sup>2</sup> Pläne, Daten, Auszüge und Auswertungen dürfen von den Bezügerinnen und Bezügern nur im Rahmen der Bestimmungen betreffend Geoinformation an Dritte weitergegeben werden.
+
+<sup>3</sup> Die Ausstellung beglaubigter Auszüge durch das kantonale Vermessungsamt richtet sich nach den einschlägigen Bestimmungen des Bundesgesetzes über die Geoinformation sowie der Verordnung über die amtliche Vermessung.
