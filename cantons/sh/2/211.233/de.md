@@ -5,51 +5,56 @@ title: Verordnung über die Entschädigung und den Spesenersatz der Beistände
 short: Beistandsentschädigungsverordnung
 language: de
 version: 2013-01-01
+corrected: 2024-05-23
 version_adopted: 2012-12-04
 adopted: 2012-12-04
 in_force: 2013-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.233"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/714/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/386/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Entschädigung und den Spesenersatz der Beistände
+# Verordnung über die Entschädigung und den Spesenersatz der Beistände (Beistandsentschädigungsverordnung)
 
-(Beistandsentschädigungsverordnung)
-
-Vom 04.12.2012 (Stand 01.01.2013)
+vom 4. Dezember 2012
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 404 Abs. 3 ZGB und Art. 58 Abs. 4 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911,
 
-beschliesst:
+verordnet:
 
-#### Art. 1
+#### § 1
 
 **Pauschale Entschädigung**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde entschädigt den Beistand mit einer Pauschale von Fr. 500.00 bis Fr. 3'000.00 pro Jahr. Eine kürzere Berichtsperiode wird entsprechend berücksichtigt.
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde entschädigt den Beistand mit einer Pauschale von Fr. 500.-- bis Fr. 3'000.-- pro Jahr. Eine kürzere Berichtsperiode wird entsprechend berücksichtigt.
 
 <sup>2</sup> Die Entschädigung wird in der Regel am Schluss der Berichtsperiode festgelegt.
 
-#### Art. 2
+#### § 2
 
 **Abgegoltene Leistungen**
 
 <sup>1</sup> Massgebend für die Festsetzung der Entschädigung sind insbesondere folgende Kriterien:
 
-- a) die Art der Beistandschaft und die übertragenen Aufgaben
-- b) die persönlichen Verhältnisse der verbeiständeten Person
-- c) die Höhe des zu verwaltenden Vermögens und Einkommens sowie die Komplexität der finanziellen Verhältnisse
-- d) der notwendige Aufwand
+- a) die Art der Beistandschaft und die übertragenen Aufgaben,
 
-<sup>2</sup> Übernimmt der Beistand Arbeiten für die verbeiständete Person, welche vom Auftrag der Kindes- und Erwachsenenschutzbehörde nicht umfasst sind und wird er dafür entschädigt, so ist die Kindes- und Erwachsenenschutzbehörde zu informieren. Eine Entschädigung durch die Kindes- und Erwachsenenschutzbehörde ist nur nach vorgängigem Gesuch möglich und wird nur zugesprochen, wenn die Arbeiten im Interesse der verbeiständeten Person liegen.
+- b) die persönlichen Verhältnisse der verbeiständeten Person,
+
+- c) die Höhe des zu verwaltenden Vermögens und Einkommens sowie die Komplexität der finanziellen Verhältnisse,
+
+- d) der notwendige Aufwand.
+
+<sup>2</sup> Übernimmt der Beistand Arbeiten für die verbeiständete Person, welche vom Auftrag der Kindes- und Erwachsenenschutzbehörde nicht umfasst sind und wird er dafür entschädigt, so ist die Kindes- und Erwachsenenschutzbehörde zu informieren. Eine Entschädi-
+
+Amtsblatt 2012, S. 1827 gung durch die Kindes- und Erwachsenenschutzbehörde ist nur nach vorgängigem Gesuch möglich und wird nur zugesprochen, wenn die Arbeiten im Interesse der verbeiständeten Person liegen.
 
 <sup>3</sup> Wird statt der Pauschale eine Entschädigung nach Zeitaufwand zugesprochen, so richtet sich diese nach § 3 Abs. 3.
 
-#### Art. 3
+#### § 3
 
 **Abgeltung bei besonders schwierigen Verhältnissen**
 
@@ -59,33 +64,33 @@ beschliesst:
 
 <sup>3</sup> Umstände, welche eine besondere Abgeltung zur Folge haben könnten, sind der Kindes- und Erwachsenenschutzbehörde so rasch wie möglich zu melden. Sie kann statt der Pauschalen eine Entschädigung nach Zeitaufwand festlegen. Dabei legt sie fest:
 
-- a) welche Aufgabe nach Zeitaufwand zu entschädigen ist
-- b) den Stundenansatz
-- c) den Abrechnungszeitraum
+- a) welche Aufgabe nach Zeitaufwand zu entschädigen ist,
 
-#### Art. 4
+- b) den Stundenansatz,
+
+- c) den Abrechnungszeitraum.
+
+#### § 4
 
 **Spesenersatz**
 
 <sup>1</sup> Die beanspruchten Spesen sind detailliert auszuweisen, in der Regel mit den Originalbelegen. Die Kindes- und Erwachsenenschutzbehörde kann das Verwenden ihrer Spesenformulare vorschreiben.
 
-<sup>2</sup> Für die Fahrtspesen kann anstelle einer detaillierten Abrechnung pro einjährige Berichtsperiode eine Pauschale von Fr. 100.00 beantragt werden.
+<sup>2</sup> Für die Fahrtspesen kann anstelle einer detaillierten Abrechnung pro einjährige Berichtsperiode eine Pauschale von Fr. 100.-- beantragt werden.
 
-<sup>3</sup> Für Porto/Telefon/Kopien kann anstelle einer detaillierten Abrechnung pro einjährige Berichtsperiode eine Pauschale von Fr. 100.00 beantragt werden.
+<sup>3</sup> Für Porto/Telefon/Kopien kann anstelle einer detaillierten Abrechnung pro einjährige Berichtsperiode eine Pauschale von Fr. 100.-- beantragt werden.
 
-<sup>4</sup> Im Übrigen richtet sich der Ersatz der notwendigen Spesen sinngemäss nach der Verordnung über die Spesenvergütungen beim Kanton Schaffhausen[^4-1].
+<sup>4</sup> Im Übrigen richtet sich der Ersatz der notwendigen Spesen sinngemäss nach der Verordnung über die Spesenvergütungen beim Kanton Schaffhausen <sup>1)</sup>.
 
-[^4-1]: SHR [180.112](https://rechtsbuch.sh.ch/data/180.112/de).
-
-#### Art. 5
+#### § 5
 
 **Entschädigung und Spesenersatz bei Anordnung einer Vertretung**
 
-<sup>1</sup> In den Fällen von Art. 314a<sup>bis</sup> und Art. 449a ZGB wird in der Regel eine Entschädigung nach Zeitaufwand zugesprochen.
+<sup>1</sup> In den Fällen von Art. 314abis und Art. 449a ZGB wird in der Regel eine Entschädigung nach Zeitaufwand zugesprochen.
 
 <sup>2</sup> Es handelt sich um Verfahrenskosten gemäss Art. 54 Abs. 2 EG ZGB.
 
-#### Art. 6
+#### § 6
 
 **Kostentragung durch die Gemeinden**
 
@@ -95,7 +100,7 @@ beschliesst:
 
 <sup>3</sup> Der Entscheid obliegt der Kindes- und Erwachsenenschutzbehörde.
 
-#### Art. 7
+#### § 7
 
 **Rückforderung**
 
@@ -103,20 +108,22 @@ beschliesst:
 
 <sup>2</sup> Beim Tod der betroffenen Person können die Erbinnen und Erben bis zur Höhe der nach dem Schuldenabzug verbleibenden Erbschaft zur Nachzahlung der durch die Gemeinde getragenen Kosten verpflichtet werden. Der Vermögensfreibetrag gemäss Art. 58 Abs. 3 EG ZGB findet keine Beachtung.
 
-#### Art. 8
+#### § 8
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Tätigkeiten bis zum 31. Dezember 2012 werden nach der bisherigen Regelung entschädigt.
+Tätigkeiten bis zum 31. Dezember 2012 werden nach der bisherigen Regelung entschädigt.
 
-#### Art. 9
+#### § 9
 
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^9-1]: Amtsblatt 2012, S. 1827.
+Fussnoten:
 
-Abl. 2012, S. 1827
+- 1) SHR 180.112.
+
+- 2) Amtsblatt 2012, S. 1827.
