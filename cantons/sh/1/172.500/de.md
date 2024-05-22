@@ -4,26 +4,28 @@ number: "172.500"
 title: Einführungsgesetz zum Bundesgesetz über den Binnenmarkt (BGBM)
 language: de
 version: 2007-07-01
+corrected: 2024-05-23
 version_adopted: 2007-01-22
 adopted: 1998-06-29
 in_force: 1998-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.500"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/674/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/74/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsgesetz zum Bundesgesetz über den Binnenmarkt (BGBM)
 
-Vom 29.06.1998 (Stand 01.07.2007)
+vom 29. Juni 1998
 
 Der Grosse Rat des Kantons Schaffhausen,
 
 in Ausführung von Art. 9 Abs. 2 und Art. 11 Abs. 1 des Bundesgesetzes über den Binnenmarkt vom 6. Oktober 1995 (BGBM),
 
-beschliesst:
+beschliesst als Gesetz:
 
-#### § 1
+#### Art. 1
 
 **Gegenstand**
 
@@ -31,26 +33,32 @@ beschliesst:
 
 <sup>2</sup> Dritte sind diesem Gesetz nur insoweit unterstellt, als sie in Ausübung öffentlicher Aufgaben Aufträge vergeben.
 
-#### § 2
+#### Art. 2
 
 **Beschwerderecht**
 
 <sup>1</sup> Gegen Verfügungen der Auftraggeberin oder des Auftraggebers kann beim Obergericht Beschwerde erhoben werden. Der Rekurs an den Regierungsrat ist ausgeschlossen.
 
-<sup>2</sup> Der Entscheid des Obergerichts ist unter Vorbehalt bundesrechtlicher Rechtsmittel endgültig.
+<sup>2</sup> Der Entscheid des Obergerichts ist unter Vorbehalt bundesrechtlicher Rechtsmittel endgültig.[^2-1]
 
 <sup>3</sup> Zur Beschwerde berechtigt sind Personen mit Sitz oder Niederlassung in der Schweiz.
 
 <sup>4</sup> Als mit Beschwerde anfechtbare Verfügungen gelten:
 
-- a) Ausschreibung des Auftrags
-- b) Entscheid über die Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren[^2-1]
-- c) Ausschluss vom Vergabeverfahren
-- d) Zuschlag, Abbruch oder Widerruf des Verfahrens
+- a) Ausschreibung des Auftrags;
 
-[^2-1]: Vgl. Art. 12 Abs. 1 lit b. IVöB, SHR [172.510](https://rechtsbuch.sh.ch/data/172.510/de).
+- b) Entscheid über die Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren[^2-2];
 
-#### § 3
+- c) Ausschluss vom Vergabeverfahren;
+
+- d) Zuschlag, Abbruch oder Widerruf des Verfahrens.
+
+Amtsblatt 1998, S. 877.
+
+[^2-1]: Fassung gemäss G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 126, S. 900).
+[^2-2]: Vgl. Art. 12 Abs. 1 lit b. IVöB, SHR 172.510.
+
+#### Art. 3
 
 **Beschwerdefrist**
 
@@ -58,7 +66,7 @@ beschliesst:
 
 <sup>2</sup> Eine Nachfrist wird nicht gewährt.
 
-#### § 4
+#### Art. 4
 
 **Aufschiebende Wirkung**
 
@@ -70,7 +78,7 @@ beschliesst:
 
 <sup>4</sup> Die Beschwerdeführerin und der Beschwerdeführer sind verpflichtet, den Schaden, der aus der aufschiebenden Wirkung entstanden ist, wenn sie absichtlich oder grobfahrlässig gehandelt haben, zu ersetzen.
 
-#### § 5
+#### Art. 5
 
 **Schadenersatz**
 
@@ -80,9 +88,9 @@ beschliesst:
 
 <sup>3</sup> Die Entschädigung für das Beschwerdeverfahren wird vom Obergericht festgesetzt und bemisst sich nach den Vorschriften des Verwaltungsrechtspflegegesetzes.
 
-<sup>4</sup> Im Übrigen richten sich Haftung und Verfahren nach dem Haftungsgesetz.
+<sup>4</sup> Im übrigen richten sich Haftung und Verfahren nach dem Haftungsgesetz.
 
-#### § 6
+#### Art. 6
 
 **Urteil**
 
@@ -90,18 +98,18 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleibt Art. 5.
 
-#### § 7
+#### Art. 7
 
 **Verfahren**
 
-<sup>1</sup> Soweit dieses Gesetz keine speziellen Bestimmungen enthält, richtet sich das Beschwerdeverfahren nach dem Verwaltungsrechtspflegegesetz.
+Soweit dieses Gesetz keine speziellen Bestimmungen enthält, richtet sich das Beschwerdeverfahren nach dem Verwaltungsrechtspflegegesetz.
 
-#### § 8
+#### Art. 8
 
-<sup>1</sup> Dieses Gesetez tritt unter Vorbehalt des fakultativen Referendums auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^8-1].
+<sup>1</sup> Dieses Gesetez tritt unter Vorbehalt des fakultativen Referendums auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft.[^8-1]
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^8-1]: In Kraft getreten am 1. November 1998 (Amtsblatt 1998, S. 1470).
+Fussnoten:
 
-Abl. 1998, S. 877
+[^8-1]: In Kraft getreten am 1. November 1998 (Amtsblatt 1998, S. 1470).
