@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Perfectionnement de la redevance sur le trafic des poids lourds liée aux prestations, RPLP (révision partielle de la loi relative à une redevance sur le trafic des poids lourds, LRPL)"
 document: Projet mis en consultation
 language: fr

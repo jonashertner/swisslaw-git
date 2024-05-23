@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Weiterentwicklung der leistungsabhängigen Schwerverkehrsabgabe, LSVA (Teilrevision des Schwerverkehrsabgabegesetzes, SVAG)"
 document: Vernehmlassungsvorlage
 language: de

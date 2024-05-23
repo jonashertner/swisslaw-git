@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ulteriore sviluppo della tassa sul traffico pesante commisurata alle prestazioni (TTPCP) (Revisione parziale della legge sul traffico pesante, LTTP)"
 document: Progetto posto in consultazione
 language: it
