@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla notificazione della posta nei fine settimana e nei giorni festivi
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les notifications d’actes le week-end et les jours fériés
 document: Projet mis en consultation
 language: fr

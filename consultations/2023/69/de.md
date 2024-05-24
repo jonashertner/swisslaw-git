@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Zustellung von Sendungen an Wochenenden und Feiertagen
 document: Vernehmlassungsvorlage
 language: de
