@@ -3,10 +3,10 @@ canton: ZH
 number: "701.1"
 title: Beschluss des Kantonsrates über die Festsetzung des revidierten kantonalen Richtplans
 language: de
-nachtrag: "124"
-valid_until: 2024-05-24
+nachtrag: "125"
+valid_until: 2025-04-25
 adopted: 2014-03-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_1-2014_03_18-2014_03_18-124.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_1-2014_03_18-2014_03_18-125.html"
 text: pdf
 ---
 
@@ -36,7 +36,11 @@ Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kap
 
 **OS 79, 76**
 
-- 1\. 4. 24 - 124 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Lückenschliessung Oberlandautobahn) vom 29. Mai 2017 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Zentrumserschliessung Neuhegi-Grüze) vom 7. Juli 2017 Beschluss des Kantonsrates über die Teilrevision 2015 des kantonalen Richtplans vom 22. Oktober 2018 Beschluss des Kantonsrates über die Teilrevision 2016 des kantonalen Richtplans, Kapitel 2 «Siedlung»,
+**OS 79, 164**
+
+**OS 79, 187**
+
+- 1\. 7. 24 - 125 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Lückenschliessung Oberlandautobahn) vom 29. Mai 2017 Beschluss des Kantonsrates über die Teilrevision des kantonalen Richtplans (Kapitel 4, Verkehr, Zentrumserschliessung Neuhegi-Grüze) vom 7. Juli 2017 Beschluss des Kantonsrates über die Teilrevision 2015 des kantonalen Richtplans vom 22. Oktober 2018 Beschluss des Kantonsrates über die Teilrevision 2016 des kantonalen Richtplans, Kapitel 2 «Siedlung»,
 
 **OS 74, 166**
 
@@ -68,4 +72,4 @@ und Rosengartentunnel» vom 25. März 2019 Beschluss des Kantonsrates über die 
 
 **OS 74, 163**
 
-Beschluss des Kantonsrates über die Teilrevision 2017 des kantonalen Richtplans, Kapitel 5 «Versorgung, Entsorgung»
+Beschluss des Kantonsrates über die Teilrevision 2017 des kantonalen Richtplans, Kapitel 5 «Versorgung, Entsorgung» Beschluss des Kantonsrates über die Teilrevision 2017 des kantonalen Richtplans, Kapitel 6 «Öffentliche Bauten und Anlagen» Beschluss des Kantonsrates über die Teilrevision «Gebietsentwicklung Flugplatzareal Dübendorf» und die Teilrevision 2018, Kapitel 4.7.2 «Weitere Flugplätze», des kantonalen Richtplans
