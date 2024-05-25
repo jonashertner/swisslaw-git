@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordinanza del DFI del 4 settembre 2013 sui controlli della circolazione delle specie di fauna e di flora protette (Ordinanza sui controlli CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: it
-version: 2024-01-01
+version: 2024-05-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240526/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240526-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/it"
 
 (Ordinanza sui controlli CITES)
 
-del 4 settembre 2013 (Stato 1° gennaio 2024)
+del 4 settembre 2013 (Stato 26 maggio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -265,7 +265,7 @@ Allegato 1[^t-1]
 <tr><td>ex 0307.7100</td><td>Tridacnidi (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>Strombi giganti (Queen conch, *Strombus* *gigas*)</td></tr>
 <tr><td>[tab] ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>[tab] ex 0308.1100</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva,* *Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.[^annex1-lvlu1-lvl1-2]</td></tr>
+<tr><td>[tab] ex 0308.1100</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva,* *Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>Coralli azzurri, coralli rossi (*Corallium elatius, C. japonicum, C. konjoi, C. secundum*), coralli neri, coralli duri e altre specie di coralli (*Scleractinia, Antipatharia, Tubiporidae, Milleporidae, Stylasteridae*)</td></tr>
 <tr><td>ex 9508.1000</td><td>Animali selvatici vivi per circhi e serragli; animali menzionati negli allegati CITES</td></tr>
 <tr><td colspan="2">1.2 Derrate alimentari di origine animale</td></tr>
@@ -287,7 +287,7 @@ Allegato 1[^t-1]
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>Tridacnidi (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>Strombi giganti (Queen conch, *Strombus* *gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.[^annex1-lvlu1-lvl1-3]</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>Uova di uccelli selvatici</td></tr>
 <tr><td>ex 1602.9088</td><td>Preparati e conserve di: coccodrillo (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>Preparati e conserve di: anguilla (*Anguilla anguilla*)</td></tr>
@@ -359,8 +359,6 @@ Allegato 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex1-lvlu1-lvl1-2]: *Thelenota* spp. in vigore del 26 mag. 2024.
-[^annex1-lvlu1-lvl1-3]: *Thelenota* spp. in vigore del 26 mag. 2024.
 
 ### 2 Piante e prodotti di origine vegetale
 
@@ -648,7 +646,7 @@ Allegato 4[^t-4]
 - 3\. Reagenti e medicamenti contenenti veleno di serpente.
 - 4\. Tessuti, campioni di cellule e di sangue delle specie di cui agli allegati I–III CITES esclusivamente per scopi di ricerca nelle scuole universitarie.
 - 5\. Coralli rossi, coralli neri e perle di strombi giganti (Queen conch*, Strombus gigas*) di cui agli allegati II e III CITES.
-- 6\. ...
+- 6\. …
 - 7\. Legno e prodotti di legno da *Dalbergia* spp. e *Guibourtia dmeusei, G. pellegriniana* e *G. tesmannii*; non sono rilasciate autorizzazioni permanenti per *Dalbergia nigra, Dalbergia cochinchinensis* e per la popolazione messicana di *Dalbergia* spp.
 
 [^annex4-lvlu1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)

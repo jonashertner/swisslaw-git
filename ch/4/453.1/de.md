@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2024-01-01
+version: 2024-05-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240526/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240526-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 1. Januar 2024)
+vom 4. September 2013 (Stand am 26. Mai 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -265,7 +265,7 @@ Anhang 1[^t-1]
 <tr><td>ex 0307.7100</td><td>Mördermuscheln (*Tridacnidae*)</td></tr>
 <tr><td>ex 0307.8200</td><td>Fechterschnecken (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100</td><td>*Nautilidae*</td></tr>
-<tr><td>ex 0308.1100</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.[^annex1-lvlu1-lvl1-2]</td></tr>
+<tr><td>ex 0308.1100</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>Blaue Korallen, Rote Korallen (*Corallium elatius*, *C. japonicum*, *C. konjoi*, *C. secundum*), Schwarze Korallen, Steinkorallen und andere Korallenarten (wie *Scleractinia, Anthipataria,* *Tubiporidae**, Milleporidae, Stylasteridae*)</td></tr>
 <tr><td>ex 9508.1000</td><td>lebende Wildtiere für Zirkusse und Tierschauen; Tiere der CITES-Anhänge</td></tr>
 <tr><td colspan="2">1.2 Lebensmittel tierischer Herkunft</td></tr>
@@ -287,7 +287,7 @@ Anhang 1[^t-1]
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900;</td><td>Mördermuscheln (*Tridacnidae*)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>Fechterschnecken (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>*Nautilidae*</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.[^annex1-lvlu1-lvl1-3]</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>Eier von Wildvögeln</td></tr>
 <tr><td>ex 1602.9088</td><td>Zubereitungen und Konserven von Krokodilen (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>Zubereitungen und Konserven von: Europäischem Aal (*Anguilla anguilla*)</td></tr>
@@ -359,8 +359,6 @@ Anhang 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex1-lvlu1-lvl1-2]: «*Thelenota* spp.» gilt ab dem 26. Mai 2024
-[^annex1-lvlu1-lvl1-3]: «*Thelenota* spp.» gilt ab dem 26. Mai 2024
 
 ### 2 Pflanzen und Erzeugnisse pflanzlicher Herkunft
 

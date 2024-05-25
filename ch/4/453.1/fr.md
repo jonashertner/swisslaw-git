@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2024-01-01
+version: 2024-05-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240526-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240101/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 1<sup>er</sup> janvier 2024)
+du 4 septembre 2013 (État le 26 mai 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -265,7 +265,7 @@ Annexe 1[^t-1]
 <tr><td>ex 0307.7100</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>[tab] ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>[tab] ex 0308.1100</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.[^annex1-lvlu1-lvl1-2]</td></tr>
+<tr><td>[tab] ex 0308.1100</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium* *elatius, C. japonicum, C. konjoi, C. secundum*) et autres espèces de coraux (entre autres *Scleractinia,* *Antipatharia**, Tubiporidae, Milleporidae, Stylasteridae*)</td></tr>
 <tr><td>ex 9508.1000</td><td>animaux sauvages vivants de cirques et de ménageries; animaux inscrits aux annexes CITES</td></tr>
 <tr><td colspan="2">1.2 Denrées alimentaires d’origine animale</td></tr>
@@ -287,7 +287,7 @@ Annexe 1[^t-1]
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.[^annex1-lvlu1-lvl1-3]</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>œufs d’oiseaux sauvages</td></tr>
 <tr><td>ex 1602.9088</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>préparations et conserves d’anguille européenne (*Anguilla anguilla*)</td></tr>
@@ -359,8 +359,6 @@ Annexe 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex1-lvlu1-lvl1-2]: *Thelenota* spp. en vigueur le 26 mai 2024.
-[^annex1-lvlu1-lvl1-3]: *Thelenota* spp. en vigueur le 26 mai 2024.
 
 ### 2 Plantes et produits d’origine végétale
 
