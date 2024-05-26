@@ -4,28 +4,28 @@ number: "411.121"
 title: Verordnung des Erziehungsrates über die Sonderklassen
 language: de
 version: 2023-08-01
+corrected: 2024-05-27
 version_adopted: 2023-06-21
 adopted: 1983-09-08
 in_force: 1984-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.121"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/798/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/7/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung des Erziehungsrates über die Sonderklassen
 
-Vom 08.09.1983 (Stand 01.08.2023)
+vom 8. September 1983
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 21 des Schulgesetzes vom 27. April 1981[^ingress-1],
+gestützt auf Art. 21 des Schulgesetzes vom 27. April 1981 <sup>1)</sup>,
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [410.100](https://rechtsbuch.sh.ch/data/410.100/de).
-
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -33,11 +33,9 @@ beschliesst:
 
 <sup>1</sup> Sonderklassen sind Kleinklassen für Schüler der Primar- und Orientierungsschule, die zufolge von Beeinträchtigungen ihrer Lernfähigkeit dem Unterricht in einer Regelklasse auf die Dauer nicht zu folgen vermögen (Art. 21 Schulgesetz), jedoch keiner Sonderschule im Sinne von Art. 18 Abs. 3 des Schulgesetzes zugewiesen werden müssen.
 
-<sup>2</sup> Eine Sonderklasse soll nicht mehr als zwölf Schüler und in der Regel nicht mehr als 4 Jahrgänge umfassen (§ 10 Abs. 3 lit. a Schuldekret[^1-1]).
+<sup>2</sup> Eine Sonderklasse soll nicht mehr als zwölf Schüler und in der Regel nicht mehr als 4 Jahrgänge umfassen (§ 10 Abs. 3 lit. a Schuldekret <sup>2)</sup>).
 
 <sup>3</sup> Die Schüler der Sonderklassen sind nach Möglichkeit in der gleichen Schulanlage zu unterrichten wie die gleichaltrigen Schüler der Regelklassen, das heisst im Quartierschulhaus oder regional.
-
-[^1-1]: SHR [410.110](https://rechtsbuch.sh.ch/data/410.110/de).
 
 #### § 2
 
@@ -45,62 +43,69 @@ beschliesst:
 
 <sup>1</sup> Es werden folgende Arten von Sonderklassen geführt:
 
-- a) Einschulungsklassen (§§ 10–12)
-- b) Förderklassen für leistungsgestörte Schüler der 2.–6. Klasse (§§ 13–16)
-- c) Hilfsklassen für lernbehinderte Schüler (§§ 17–20)
-- d) Werkklassen für lernbehinderte Schüler im letzten Schuljahr (§§ 21 und 22)
+- a) Einschulungsklassen (§§ 10-12); <sup>5)</sup>
+
+- b) Förderklassen für leistungsgestörte Schüler der 2.-6. Klasse (§§ 13-16);
+
+- c) Hilfsklassen für lernbehinderte Schüler (§§ 17-20);
+
+- d) Werkklassen für lernbehinderte Schüler im letzten Schuljahr (§§ 21 und 22).
 
 <sup>2</sup> Eine Sonderklasse setzt sich in der Regel aus zwei Klassenzügen unterschiedlicher Sonderklassenarten zusammen.
+
+Amtsblatt 1983, S. 805; Rechtsbuch 1964, Nr. 77.
 
 <sup>3</sup> Keiner Sonderklasse zugeteilt werden dürfen Schüler, die nur wegen Unkenntnis der deutschen Sprache dem Unterricht in Regelklassen nicht zu folgen vermögen.
 
 #### § 3
 
-**Zuständigkeit der Schulbehörde bzw. Schulleitung**
+**Zuständigkeit der Schulbehörde bzw. Schulleitung 6)**
 
-<sup>1</sup> Die Schulbehörde bzw. Schulleitung beschliesst die Einweisung von Kindern in die Sonderklassen (§ 55 Abs. 2 lit. d Schuldekret).
+<sup>1</sup> Die Schulbehörde bzw. Schulleitung beschliesst die Einweisung von Kindern in die Sonderklassen (§ 55 Abs. 2 lit. d Schuldekret). <sup>7)</sup>
 
-<sup>2</sup> Zuständig für den Zuteilungsbeschluss ist die Schulbehörde bzw. Schulleitung oder in deren Auftrag die Sonderklassenkommission des künftigen Schulortes des Kindes.
+<sup>2</sup> Zuständig für den Zuteilungsbeschluss ist die Schulbehörde bzw. Schulleitung oder in deren Auftrag die Sonderklassenkommission des künftigen Schulortes des Kindes. <sup>6)</sup>
 
 #### § 4
 
 **Sonderklassenkommission**
 
-<sup>1</sup> Die Schulbehörde bzw. Schulleitung des Schulortes wählt eine Sonderklassenkommission und bestimmt deren Aufgabenbereich. Sie besteht aus mindestens 3 Mitgliedern.
+<sup>1</sup> Die Schulbehörde bzw. Schulleitung des Schulortes wählt eine Sonderklassenkommission und bestimmt deren Aufgabenbereich. Sie besteht aus mindestens 3 Mitgliedern. <sup>7)</sup>
 
-<sup>2</sup> Die Kommission wird von einem Mitglied der Schulbehörde bzw. Schulleitung geleitet; es gehört ihr mindestens ein Vertreter der Lehrerschaft an.
+<sup>2</sup> Die Kommission wird von einem Mitglied der Schulbehörde bzw. Schulleitung geleitet; es gehört ihr mindestens ein Vertreter der Lehrerschaft an. <sup>6)</sup>
 
-<sup>3</sup> Berät die Kommission über einen nicht am Schulort wohnhaften Schüler, so muss ein Mitglied der Schulbehörde bzw. Schulleitung des Wohnortes mit Stimmrecht zu den Kommissionssitzungen eingeladen werden.
+<sup>3</sup> Berät die Kommission über einen nicht am Schulort wohnhaften Schüler, so muss ein Mitglied der Schulbehörde bzw. Schulleitung des Wohnortes mit Stimmrecht zu den Kommissionssitzungen eingeladen werden. <sup>6)</sup>
 
 #### § 5
 
 **Aufnahmeverfahren**
 
-<sup>1</sup> Die Zuteilung der Schüler durch die Schulbehörde bzw. Schulleitung in eine Einschulungsklasse erfolgt gestützt auf einen Antrag der Kindergärtnerin.
+<sup>1</sup> Die Zuteilung der Schüler durch die Schulbehörde bzw. Schulleitung in eine Einschulungsklasse erfolgt gestützt auf einen Antrag der Kindergärtnerin. <sup>8)</sup>
 
-<sup>1<sup>bis</sup></sup> Sind die Erziehungsberechtigten mit der Zuteilung in eine Einschulungsklasse nicht einverstanden, ist vorgängig eine Abklärung durch die Abteilung Schulische Abklärung und Beratung durchzuführen.
+<sup>1bis</sup> Sind die Erziehungsberechtigten mit der Zuteilung in eine Einschulungsklasse nicht einverstanden, ist vorgängig eine Abklärung durch die Abteilung Schulische Abklärung und Beratung durchzuführen. <sup>9)</sup>
 
-<sup>1<sup>ter</sup></sup> Das Aufnahmeverfahren in die übrigen Sonderklassen wird durch den Klassenlehrer, den Schularzt oder die Erziehungsberechtigten eingeleitet, welche das Kind bei der Abteilung Schulische Abklärung und Beratung zur Abklärung anmelden. Die Erziehungsberechtigten sind vor der Anmeldung zu orientieren.
+<sup>1ter</sup> Das Aufnahmeverfahren in die übrigen Sonderklassen wird durch den Klassenlehrer, den Schularzt oder die Erziehungsberechtigten eingeleitet, welche das Kind bei der Abteilung Schulische Abklärung und Beratung zur Abklärung anmelden. Die Erziehungsberechtigten sind vor der Anmeldung zu orientieren. <sup>9)</sup>
 
-<sup>2</sup> Weigern sich die Erziehungsberechtigten, ihr Kind von der Abteilung Schulische Abklärung und Beratung abklären zu lassen, beschliesst die Schulbehörde bzw. Schulleitung über das weitere Vorgehen.
+<sup>2</sup> Weigern sich die Erziehungsberechtigten, ihr Kind von der Abteilung Schulische Abklärung und Beratung abklären zu lassen, beschliesst die Schulbehörde bzw. Schulleitung über das weitere Vorgehen. <sup>8)</sup>
 
-<sup>3</sup> Die Zuteilung der Schüler durch die Schulbehörde bzw. Schulleitung in die übrigen Sonderklassen erfolgt in Würdigung der Aussagen, Gutachten und Anträge aller am Verfahren Beteiligten. Ohne Vorliegen des Abklärungsberichtes der Abteilung Schulische Abklärung und Beratung darf keine Zuteilung vorgenommen werden.
+<sup>3</sup> Die Zuteilung der Schüler durch die Schulbehörde bzw. Schulleitung in die übrigen Sonderklassen erfolgt in Würdigung der Aussagen, Gutachten und Anträge aller am Verfahren Beteiligten. Ohne Vorliegen des Abklärungsberichtes der Abteilung Schulische Abklärung und Beratung darf keine Zuteilung vorgenommen werden. <sup>8)</sup>
 
 <sup>4</sup> Aufnahmen in Sonderklassen und Übertritte in Regelklassen erfolgen in der Regel auf Beginn des Schuljahres.
 
 #### § 6
 
+<sup>8)</sup>
+
 **Anmeldetermine**
 
-<sup>1</sup> Die Anmeldetermine für schulpsychologische Abklärungen werden vom Erziehungsdepartement festgesetzt.
+Die Anmeldetermine für schulpsychologische Abklärungen werden vom Erziehungsdepartement festgesetzt.
 
 #### § 7
 
 **Zuteilungsbeschluss, Rekursmöglichkeit**
 
-<sup>1</sup> Die Zuteilungsentscheide der Schulbehörde bzw. Schulleitung oder der Sonderklassenkommission sind den Erziehungsberechtigten schriftlich mitzuteilen. Sie sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen.
+<sup>1</sup> Die Zuteilungsentscheide der Schulbehörde bzw. Schulleitung oder der Sonderklassenkommission sind den Erziehungsberechtigten schriftlich mitzuteilen. Sie sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen. <sup>6)</sup>
 
-<sup>2</sup> Gegen Zuteilungsentscheide der Sonderklassenkommission kann bei der Schulbehörde bzw. Schulleitung Wiedererwägung beantragt werden. Der Entscheid dieser Instanz kann mit Rekurs beim Erziehungsrat angefochten werden. Die Rekursfrist beträgt 20 Tage. Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen.
+<sup>2</sup> Gegen Zuteilungsentscheide der Sonderklassenkommission kann bei der Schulbehörde bzw. Schulleitung Wiedererwägung beantragt werden. Der Entscheid dieser Instanz kann mit Rekurs beim Erziehungsrat angefochten werden. Die Rekursfrist beträgt 20 Tage. Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen. <sup>6)</sup>
 
 <sup>3</sup> Bei Neuaufnahmen von Schülern in Sonderklassen ist auf die Belastbarkeit der Klasse als Ganzes Rücksicht zu nehmen.
 
@@ -108,7 +113,7 @@ beschliesst:
 
 **Stundentafeln**
 
-<sup>1</sup> Der Erziehungsrat erlässt die Stundentafeln der Sonderklassen.
+Der Erziehungsrat erlässt die Stundentafeln der Sonderklassen.
 
 #### § 9
 
@@ -118,21 +123,25 @@ beschliesst:
 
 <sup>2</sup> In den Zeugnissen der Sonderklassenschüler ist die Klassenart zu vermerken.
 
-<sup>3</sup> Im Übrigen sind die Bestimmungen über die Zeugnisse der erziehungsrätlichen Verordnung über Zeugnisse, Prüfung und Beförderung der Schüler an den Primar- und den Orientierungsschulen sinngemäss anzuwenden.
+<sup>3</sup> Im übrigen sind die Bestimmungen über die Zeugnisse der erziehungsrätlichen Verordnung über Zeugnisse, Prüfung und Beförderung der Schüler an den Primar- und den Orientierungsschulen sinngemäss anzuwenden.
 
-## 2 Einschulungsklassen
+### II. Einschulungsklassen
 
 #### § 10
 
-**Lernziel**
+<sup>5)</sup>
 
-<sup>1</sup> In den Einschulungsklassen wird der Lehrstoff der 1. Regelklasse der Primarschule auf zwei Schuljahre verteilt.
+**Lernziel 5)**
+
+In den Einschulungsklassen wird der Lehrstoff der 1. Regelklasse der Primarschule auf zwei Schuljahre verteilt.
 
 #### § 11
 
+<sup>5)</sup>
+
 **Zuteilung**
 
-<sup>1</sup> Einer Einschulungsklasse sind Kinder zuzuteilen, die eingeschult werden können, deren Entwicklungsstand aber nur knapp über den Grundanforderungen der Primarschule ist und die besonderen Förderbedarf haben.
+Einer Einschulungsklasse sind Kinder zuzuteilen, die eingeschult werden können, deren Entwicklungsstand aber nur knapp über den Grundanforderungen der Primarschule ist und die besonderen Förderbedarf haben.
 
 #### § 12
 
@@ -140,9 +149,9 @@ beschliesst:
 
 <sup>1</sup> Erreicht ein Schüler nach dem zweiten Schuljahr das Lernziel der 1. Regelklasse, wird er in die 2. Regelklasse versetzt. Ausnahmsweise kann diese Versetzung bereits nach dem ersten Schuljahr erfolgen.
 
-<sup>2</sup> Erweist sich eine Zuteilung in eine Förder- oder Hilfsklasse oder eine Sonderschulung als notwendig, stellt der Klassenlehrer einen begründeten Antrag an die Abteilung Schulische Abklärung und Beratung zuhanden der zuständigen Schulbehörde bzw. Schulleitung.
+<sup>2</sup> Erweist sich eine Zuteilung in eine Förder- oder Hilfsklasse oder eine Sonderschulung als notwendig, stellt der Klassenlehrer einen begründeten Antrag an die Abteilung Schulische Abklärung und Beratung zuhanden der zuständigen Schulbehörde bzw. Schulleitung. <sup>8)</sup>
 
-## 3 Förderklassen
+### III. Förderklassen
 
 #### § 13
 
@@ -156,7 +165,7 @@ beschliesst:
 
 **Zuteilung**
 
-<sup>1</sup> Einer Förderklasse sind in der Entwicklung, im sozialen Verhalten oder im Arbeitsverhalten auffällige Schüler (z.B. entwicklungsverzögerte, ängstliche, konzentrationsschwache) zuzuteilen.
+Einer Förderklasse sind in der Entwicklung, im sozialen Verhalten oder im Arbeitsverhalten auffällige Schüler (z. B. entwicklungsverzögerte, ängstliche, konzentrationsschwache) zuzuteilen.
 
 #### § 15
 
@@ -164,21 +173,21 @@ beschliesst:
 
 <sup>1</sup> Ist ein Schüler soweit gefördert, dass er dem Unterricht in der Regelklasse zu folgen vermag, erfolgt die entsprechende Versetzung.
 
-<sup>2</sup> Erweist sich eine Zuteilung in eine Hilfsklasse oder eine Sonderschulung als notwendig, stellt der Klassenlehrer einen begründeten Antrag an die Abteilung Schulische Abklärung und Beratung zuhanden der zuständigen Schulbehörde bzw. Schulleitung.
+<sup>2</sup> Erweist sich eine Zuteilung in eine Hilfsklasse oder eine Sonderschulung als notwendig, stellt der Klassenlehrer einen begründeten Antrag an die Abteilung Schulische Abklärung und Beratung zuhanden der zuständigen Schulbehörde bzw. Schulleitung. <sup>8)</sup>
 
 #### § 16
 
 **Lehrziel**
 
-<sup>1</sup> Der Unterricht richtet sich nach den für die Regelklassen geltenden Lehrplänen, soweit nicht Behinderungen der Schüler Abweichungen bedingen.
+Der Unterricht richtet sich nach den für die Regelklassen geltenden Lehrplänen, soweit nicht Behinderungen der Schüler Abweichungen bedingen.
 
-## 4 Hilfsklassen
+### IV. Hilfsklassen
 
 #### § 17
 
 **Zweck**
 
-<sup>1</sup> Die Hilfsklassen dienen der Schulung und Erziehung von Schülern, die zufolge verminderter intellektueller Leistungsfähigkeit dem Unterricht in Regelklassen nicht zu folgen vermögen.
+Die Hilfsklassen dienen der Schulung und Erziehung von Schülern, die zufolge verminderter intellektueller Leistungsfähigkeit dem Unterricht in Regelklassen nicht zu folgen vermögen.
 
 #### § 18
 
@@ -186,8 +195,9 @@ beschliesst:
 
 <sup>1</sup> Eine allfällige Zuteilung in eine Hilfsklasse muss geprüft werden für:
 
-- a) Schüler, bei denen nach Auffassung des Klassenlehrers, des Schularztes oder der Abteilung Schulische Abklärung und Beratung verminderte intellektuelle Leistungsfähigkeit vorliegt
-- b) Repetenten, die infolge verminderter intellektueller Leistungsfähigkeit das Ziel der repetierten oder einer weiteren Klasse voraussichtlich nicht erreichen
+- a) Schüler, bei denen nach Auffassung des Klassenlehrers, des Schularztes oder der Abteilung Schulische Abklärung und Beratung verminderte intellektuelle Leistungsfähigkeit vorliegt; <sup>8)</sup>
+
+- b) Repetenten, die infolge verminderter intellektueller Leistungsfähigkeit das Ziel der repetierten oder einer weiteren Klasse voraussichtlich nicht erreichen.
 
 <sup>2</sup> Eine frühzeitige Erfassung dieser Kinder ist anzustreben. Die Zuteilung soll in der Regel bis Ende des 4. Schuljahres erfolgt sein.
 
@@ -209,7 +219,7 @@ beschliesst:
 
 <sup>2</sup> Der Unterricht ist im Rahmen der vom Erziehungsrat am 25. Juni 1981 genehmigten Richtlinien und Minimalziele für Hilfsklassen zu erteilen.
 
-## 5 Werkklassen
+### V. Werkklassen
 
 #### § 21
 
@@ -223,9 +233,9 @@ beschliesst:
 
 **Unterricht, Lehrziel**
 
-<sup>1</sup> Der Unterricht basiert auf den Lehrzielen für Hilfsklassen und vermittelt dem einzelnen Schüler entsprechend seiner Leistungsfähigkeit Fertigkeiten und Kenntnisse im Hinblick auf die Berufswahl und das Alltagsleben.
+Der Unterricht basiert auf den Lehrzielen für Hilfsklassen und vermittelt dem einzelnen Schüler entsprechend seiner Leistungsfähigkeit Fertigkeiten und Kenntnisse im Hinblick auf die Berufswahl und das Alltagsleben.
 
-## 6 Schlussbestimmung
+### VI. Schlussbestimmung
 
 #### § 23
 
@@ -235,10 +245,22 @@ beschliesst:
 
 <sup>2</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
-- a) die Verordnung des Erziehungsrates für die Hilfsschulen des Kantons Schaffhausen vom 24. November 1965
-- b) das provisorische Reglement des Erziehungsrates über die Führung von Förderklassen vom 26. November 1970
-- c) das provisorische Reglement des Erziehungsrates über die Führung von Einschulungsklassen vom 26. November 1970
+- a) die Verordnung des Erziehungsrates für die Hilfsschulen des Kantons Schaffhausen vom 24. November 1965;
+
+- b) das provisorische Reglement des Erziehungsrates über die Führung von Förderklassen vom 26. November 1970;
+
+- c) das provisorische Reglement des Erziehungsrates über die Führung von Einschulungsklassen vom 26. November 1970.
+
+Fussnoten:
 
 [^23-1]: Amtsblatt 1983, S. 805.
 
-Abl. 1983, S. 805
+## Weitere Fussnoten
+
+- [1] SHR 410.100.
+- [2] SHR 410.110.
+- [5] Fassung gemäss ERB vom 25. Juni 2014, in Kraft getreten am 1. August 2014 (Amtsblatt 2013, S. 965).
+- [6] Fassung gemäss ERB vom 24. Mai 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1001).
+- [7] Fassung gemäss ERB vom 27. Juni 2018, in Kraft getreten am 1. August 2018 (Amtsblatt 2018, S. 1154).
+- [8] Fassung gemäss ERB vom 21. Juni 2023, in Kraft getreten am 1. August 2023 (Amtsblatt 2023, S. 1423).
+- [9] Eingefügt durch ERB vom 21. Juni 2023, in Kraft getreten am 1. August 2023 (Amtsblatt 2023, S. 1423).
