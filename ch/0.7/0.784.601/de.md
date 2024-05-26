@@ -3,35 +3,35 @@ sr: "0.784.601"
 title: Übereinkommen vom 20. August 1971 über die Internationale Fernmeldesatellitenorganisation (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/813_813_814"
 language: de
-version: 2017-01-16
+version: 2024-05-27
 adopted: 1971-08-20
 in_force: 1973-02-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/813_813_814/20170116/de/xml/fedlex-data-admin-ch-eli-cc-1973-813_813_814-20170116-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/813_813_814/20170116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/813_813_814/20240527/de/xml/fedlex-data-admin-ch-eli-cc-1973-813_813_814-20240527-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/813_813_814/20240527/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Internationale Fernmeldesatellitenorganisation
 
-[^t-1]as Übersetzung*[^t-2]*
+AS **1973** 813; BBl **1972** I 281
+
+Übersetzung
 
 Abgeschlossen in Washington am 20. August 1971
 
-Von der Bundesversammlung genehmigt am 27. Juni 1972[^t-3]
+Von der Bundesversammlung genehmigt am 27. Juni 1972[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 27. Juli 1972
 
 In Kraft getreten für die Schweiz am 12. Februar 1973
 
-Änderung angenommen am 17. November 2000 und in Kraft getreten für die Schweiz am 30. November 2004[^t-4]
+Änderung angenommen am 17. November 2000 und in Kraft getreten für die Schweiz am 30. November 2004[^t-2]
 
-(Stand am 16. Januar 2017)
+(Stand am 27. Mai 2024)
 
-[^t-1]: [AS 1973 813](https://fedlex.data.admin.ch/eli/oc/1973/813_813_814); [BBl 1972 I 281](https://fedlex.data.admin.ch/eli/fga/1972/1_281_273_233)
-[^t-2]: Übersetzung des französischen Originaltextes.
-[^t-3]: [AS 1973 812](https://fedlex.data.admin.ch/eli/oc/1973/812_812_813)
-[^t-4]: [AS 2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520)
+[^t-1]: [AS 1973 812](https://fedlex.data.admin.ch/eli/oc/1973/812_812_813)
+[^t-2]: [AS 2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520)
 
 *Präambel*
 
@@ -61,43 +61,25 @@ sind wie folgt übereingekommen:
 
 In diesem Übereinkommen haben die nachstehenden Ausdrücke folgende Bedeutung:
 
-a. «Übereinkommen» bezeichnet das vorliegende, am 20. August 1971[^I-1] in Washington zur Unterzeichnung durch die Regierungen aufgelegte Übereinkommen, durch das die Internationale Fernmeldesatellitenorganisation gegründet wird, einschliesslich des Anhangs und aller dazugehörigen Änderungen, aber ausschliesslich aller Artikelüberschriften;
-
-b. «Weltraumsegment» bezeichnet die Fernmeldesatelliten sowie die für ihren Betrieb erforderlichen Bahnverfolgungs-, Telemetrie-, Befehls-, Steuerungs-, Überwachungs- und zugehörigen Einrichtungen und Ausrüstungsgegenstände;
-
-c. «Fernmeldeverkehr» bezeichnet jede Übermittlung, jede Aussendung oder jeden Empfang von Zeichen, Signalen, Schriftzeichen, Bildern, Tönen oder Nachrichten jeder Art über Draht, Funk, auf optischem Wege oder über andere elektromagnetische Systeme;
-
-d. «Unternehmen» bezeichnet den oder die auf der Grundlage des Rechts eines oder mehrerer Staaten gegründeten privaten Rechtsträger, auf die die Internationale Fernmeldesatellitenorganisation ihr Weltraumsystem überträgt, und schliesst deren Rechtsnachfolger ein;
-
-e. «auf kommerzieller Grundlage» heisst gemäss den handels- und geschäftsüblichen Gepflogenheiten in der Fernmeldeindustrie;
-
-f. «öffentliche Fernmeldedienste» bezeichnet feste oder bewegliche Fernmeldedienste, die durch Satelliten erbracht werden können und der Öffentlichkeit zur Benutzung zur Verfügung stehen, z. B. Telephon, Telegraph, Fernschreiber. Faksimile, Datenübermittlung, Übermittlung von zur Weitergabe an die Öffentlichkeit bestimmten Rundfunk- und Fernsehprogrammen zwischen zugelassenen Bodenstationen, die Zugang zum Weltraumsegment des Unternehmens haben, sowie Mietleitungen für einen dieser Zwecke; ausgenommen sind jedoch bewegliche Dienste solcher Art, die auf Grund des Vorläufigen Übereinkommens und des Spezialübereinkommens nicht erbracht wurden, bevor dieses Übereinkommen zur Unterzeichnung aufgelegt wurde, und die über bewegliche Funkstellen abgewickelt werden, die unmittelbar mit einem Satelliten arbeiten, der ganz oder teilweise dazu bestimmt ist, Dienste im Zusammenhang mit der Sicherheit oder der Flugkontrolle von Luftfahrzeugen oder mit dem Navigationsfunk für die Luft oder Seeschiffahrt zu erbringen;
-
-g. «Vorläufiges Übereinkommen» bezeichnet das von den Regierungen am 20. August 1964[^I-2] in Washington unterzeichnete Übereinkommen betreffend vorläufige Regeln für ein weltweites kommerzielles Satelliten-Fernmeldesystem;
-
-h. «Lifeline Connectivity Obligation» (Verpflichtung zur Sicherstellung des lebensnotwendigen Anschlusses) oder «LCO» bezeichnet die im LCO-Vertrag festgelegte von dem Unternehmen übernommene Verpflichtung, dem LCO-Nutzniesser kontinuierlich Fernmeldedienste bereitzustellen;
-
-i. «Spezialübereinkommen» bezeichnet das von den Regierungen oder den von den Regierungen bestimmten Fernmeldebetrieben gemäss dem Vorläufigen Übereinkommen am 20. August 1964[^I-3] unterzeichnete Übereinkommen;
-
-j. «Übereinkommen über Öffentliche Dienste» bezeichnet das rechtlich verbindliche Instrument, durch das die ITSO sicherstellt, dass das Unternehmen die Kerngrundsätze einhält;
-
-k. «Kerngrundsätze» bezeichnet die in Artikel III festgelegten Grundsätze;
-
-l. «gemeinsames Erbe» bezeichnet die zu einer bestimmten Umlaufbahnposition gehörenden Frequenzzuteilungen, die sich gemäss den von der Internationalen Fernmeldeunion (ITU) niedergelegten Bestimmungen der Vollzugsordnung für den Funkdienst im Stadium der vorzeitigen Veröffentlichung oder in der Koordination befinden oder im Namen der Vertragsparteien bei der ITU registriert sind, und die nach Artikel XII einer oder mehreren Vertragsparteien übertragen werden;
-
-m. «Weltweite Abdeckung» (global coverage) bezeichnet den maximalen geografischen Erfassungsbereich der Erde bis zu den nördlichsten und südlichsten Parallelen, die von in geostationären Umlaufpositionen stationierten Satelliten aus sichtbar sind;
-
-n. «Weltweiter Anschluss» (global connectivity) bezeichnet die Zusammenschaltbarkeit, die den Nutzniessern des Unternehmens durch die weltweite Abdeckung zur Verfügung steht, die das Unternehmen bereitstellt, um so die Verbindung innerhalb und zwischen den fünf Regionen der Internationalen Fernmeldeunion (ITU) zu ermöglichen, die auf der Bevollmächtigtenkonferenz der ITU 1965 in Montreux definiert wurden;
-
-o. «nichtdiskriminierender Zugang» bezeichnet die angemessene und gleichberechtigte Möglichkeit des Zugangs zum System des Unternehmens;
-
-p. «Vertragspartei» bezeichnet einen Staat, für den das Übereinkommen in Kraft getreten ist oder auf den es vorläufig angewendet wird;
-
-q. «Vermögenswert» bezeichnet jeden wie auch immer gearteten Gegenstand, der Eigentum sein kann sowie vertragliche Rechte;
-
-r. «LCO-Nutzniesser» bezeichnet alle Nutzniesser, die für LCO-Verträge in Frage kommen und solche abschliessen;
-
-s. «Verwaltung» bezeichnet alle offiziellen Abteilungen oder Dienste, die für die Einhaltung der Verpflichtungen aus der Konstitution der Internationalen Fernmeldeunion, der Konvention der Internationalen Fernmeldeunion und ihren Vollzugsordnungen zuständig sind.
+- a. «Übereinkommen» bezeichnet das vorliegende, am 20. August 1971[^I-1] in Washington zur Unterzeichnung durch die Regierungen aufgelegte Übereinkommen, durch das die Internationale Fernmeldesatellitenorganisation gegründet wird, einschliesslich des Anhangs und aller dazugehörigen Änderungen, aber ausschliesslich aller Artikelüberschriften;
+- b. «Weltraumsegment» bezeichnet die Fernmeldesatelliten sowie die für ihren Betrieb erforderlichen Bahnverfolgungs-, Telemetrie-, Befehls-, Steuerungs-, Überwachungs- und zugehörigen Einrichtungen und Ausrüstungsgegenstände;
+- c. «Fernmeldeverkehr» bezeichnet jede Übermittlung, jede Aussendung oder jeden Empfang von Zeichen, Signalen, Schriftzeichen, Bildern, Tönen oder Nachrichten jeder Art über Draht, Funk, auf optischem Wege oder über andere elektromagnetische Systeme;
+- d. «Unternehmen» bezeichnet den oder die auf der Grundlage des Rechts eines oder mehrerer Staaten gegründeten privaten Rechtsträger, auf die die Internationale Fernmeldesatellitenorganisation ihr Weltraumsystem überträgt, und schliesst deren Rechtsnachfolger ein;
+- e. «auf kommerzieller Grundlage» heisst gemäss den handels- und geschäftsüblichen Gepflogenheiten in der Fernmeldeindustrie;
+- f. «öffentliche Fernmeldedienste» bezeichnet feste oder bewegliche Fernmeldedienste, die durch Satelliten erbracht werden können und der Öffentlichkeit zur Benutzung zur Verfügung stehen, z. B. Telephon, Telegraph, Fernschreiber. Faksimile, Datenübermittlung, Übermittlung von zur Weitergabe an die Öffentlichkeit bestimmten Rundfunk- und Fernsehprogrammen zwischen zugelassenen Bodenstationen, die Zugang zum Weltraumsegment des Unternehmens haben, sowie Mietleitungen für einen dieser Zwecke; ausgenommen sind jedoch bewegliche Dienste solcher Art, die auf Grund des Vorläufigen Übereinkommens und des Spezialübereinkommens nicht erbracht wurden, bevor dieses Übereinkommen zur Unterzeichnung aufgelegt wurde, und die über bewegliche Funkstellen abgewickelt werden, die unmittelbar mit einem Satelliten arbeiten, der ganz oder teilweise dazu bestimmt ist, Dienste im Zusammenhang mit der Sicherheit oder der Flugkontrolle von Luftfahrzeugen oder mit dem Navigationsfunk für die Luft oder Seeschiffahrt zu erbringen;
+- g. «Vorläufiges Übereinkommen» bezeichnet das von den Regierungen am 20. August 1964[^I-2] in Washington unterzeichnete Übereinkommen betreffend vorläufige Regeln für ein weltweites kommerzielles Satelliten-Fernmeldesystem;
+- h. «Lifeline Connectivity Obligation» (Verpflichtung zur Sicherstellung des lebensnotwendigen Anschlusses) oder «LCO» bezeichnet die im LCO-Vertrag festgelegte von dem Unternehmen übernommene Verpflichtung, dem LCO-Nutzniesser kontinuierlich Fernmeldedienste bereitzustellen;
+- i. «Spezialübereinkommen» bezeichnet das von den Regierungen oder den von den Regierungen bestimmten Fernmeldebetrieben gemäss dem Vorläufigen Übereinkommen am 20. August 1964[^I-3] unterzeichnete Übereinkommen;
+- j. «Übereinkommen über Öffentliche Dienste» bezeichnet das rechtlich verbindliche Instrument, durch das die ITSO sicherstellt, dass das Unternehmen die Kerngrundsätze einhält;
+- k. «Kerngrundsätze» bezeichnet die in Artikel III festgelegten Grundsätze;
+- l. «gemeinsames Erbe» bezeichnet die zu einer bestimmten Umlaufbahnposition gehörenden Frequenzzuteilungen, die sich gemäss den von der Internationalen Fernmeldeunion (ITU) niedergelegten Bestimmungen der Vollzugsordnung für den Funkdienst im Stadium der vorzeitigen Veröffentlichung oder in der Koordination befinden oder im Namen der Vertragsparteien bei der ITU registriert sind, und die nach Artikel XII einer oder mehreren Vertragsparteien übertragen werden;
+- m. «Weltweite Abdeckung» (global coverage) bezeichnet den maximalen geografischen Erfassungsbereich der Erde bis zu den nördlichsten und südlichsten Parallelen, die von in geostationären Umlaufpositionen stationierten Satelliten aus sichtbar sind;
+- n. «Weltweiter Anschluss» (global connectivity) bezeichnet die Zusammenschaltbarkeit, die den Nutzniessern des Unternehmens durch die weltweite Abdeckung zur Verfügung steht, die das Unternehmen bereitstellt, um so die Verbindung innerhalb und zwischen den fünf Regionen der Internationalen Fernmeldeunion (ITU) zu ermöglichen, die auf der Bevollmächtigtenkonferenz der ITU 1965 in Montreux definiert wurden;
+- o. «nichtdiskriminierender Zugang» bezeichnet die angemessene und gleichberechtigte Möglichkeit des Zugangs zum System des Unternehmens;
+- p. «Vertragspartei» bezeichnet einen Staat, für den das Übereinkommen in Kraft getreten ist oder auf den es vorläufig angewendet wird;
+- q. «Vermögenswert» bezeichnet jeden wie auch immer gearteten Gegenstand, der Eigentum sein kann sowie vertragliche Rechte;
+- r. «LCO-Nutzniesser» bezeichnet alle Nutzniesser, die für LCO-Verträge in Frage kommen und solche abschliessen;
+- s. «Verwaltung» bezeichnet alle offiziellen Abteilungen oder Dienste, die für die Einhaltung der Verpflichtungen aus der Konstitution der Internationalen Fernmeldeunion, der Konvention der Internationalen Fernmeldeunion und ihren Vollzugsordnungen zuständig sind.
 
 [^I-1]: [SR 0.784.601.1](https://fedlex.data.admin.ch/eli/cc/1973/863_865_864)
 [^I-2]: [[AS 1965 758](https://fedlex.data.admin.ch/eli/oc/1965/758_762_760)]. Das vorläufige Übereink. ist mit Wirkung ab 12. Febr. 1973 durch das vorliegende Übereink. ausser Kraft gesetzt worden.
@@ -127,9 +109,8 @@ b. Die Kerngrundsätze lauten wie folgt:
 
 Für Zwecke der Anwendung des Artikels III wird den internationalen öffentlichen Fernmeldediensten folgende Dienste gleichgestellt:
 
-a. nationale öffentliche Fernmeldedienste zwischen Gebieten, die durch nicht der Hoheitsgewalt des betreffenden Staates unterliegende Gebiete oder durch die Hohe See getrennt sind;
-
-b. nationale öffentliche Fernmeldedienste zwischen Gebieten, die nicht durch terrestrische Breitband-Übertragungseinrichtungen verbunden und die durch natürliche Hindernisse so aussergewöhnlicher Art getrennt sind, dass sie die existenzfähige Anlage von terrestrischen Breitband-Übertragungseinrichtungen zwischen diesen Gebieten verhindern, sofern die entsprechende Genehmigung erteilt worden ist.
+- a. nationale öffentliche Fernmeldedienste zwischen Gebieten, die durch nicht der Hoheitsgewalt des betreffenden Staates unterliegende Gebiete oder durch die Hohe See getrennt sind;
+- b. nationale öffentliche Fernmeldedienste zwischen Gebieten, die nicht durch terrestrische Breitband-Übertragungseinrichtungen verbunden und die durch natürliche Hindernisse so aussergewöhnlicher Art getrennt sind, dass sie die existenzfähige Anlage von terrestrischen Breitband-Übertragungseinrichtungen zwischen diesen Gebieten verhindern, sofern die entsprechende Genehmigung erteilt worden ist.
 
 #### Art. V
 
@@ -141,13 +122,13 @@ Die ITSO ergreift geeignete Massnahmen, einschliesslich des Abschlusses eines Ü
 
 **Rechtspersönlichkeit**
 
-a. Die ITSO besitzt Rechtspersönlichkeit. Sie besitzt die zur Wahrnehmung ihrer Aufgaben und zur Erreichung ihrer Ziele erforderliche volle Rechtsfähigkeit, einschliesslich der Fähigkeit,
-
 b. Jede Vertragspartei trifft alle erforderlichen Massnahmen im Rahmen ihrer Hoheitsgewalt, um diesem Artikel nach ihrem innerstaatlichen Recht Wirksamkeit zu verleihen.
+
+a. Die ITSO besitzt Rechtspersönlichkeit. Sie besitzt die zur Wahrnehmung ihrer Aufgaben und zur Erreichung ihrer Ziele erforderliche volle Rechtsfähigkeit, einschliesslich der Fähigkeit:
 
 - i. Abkommen mit Staaten oder internationalen Organisationen zu schliessen;
 - ii. Verträge zu schliessen;
-- iii. Vermögenswerte zu erwerben und darüber zu verfügen und
+- iii. Vermögenswerte zu erwerben und darüber zu verfügen; und
 - iv. Prozesspartei zu sein.
 
 #### Art. VII
@@ -164,9 +145,8 @@ b. Wenn die ITSO länger als zwölf Jahre existiert, so erhält sie eine Finanzi
 
 Die ITSO hat folgende Organe:
 
-a. die Versammlung der Vertragsparteien; und
-
-b. ein dem Generaldirektor unterstehendes geschäftsführendes Organ, das der Versammlung der Vertragsparteien verantwortlich ist.
+- a. die Versammlung der Vertragsparteien; und
+- b. ein dem Generaldirektor unterstehendes geschäftsführendes Organ, das der Versammlung der Vertragsparteien verantwortlich ist.
 
 #### Art. IX
 
@@ -218,15 +198,11 @@ d. Die Versammlung der Vertragsparteien hat folgende Aufgaben und Befugnisse:
 
 a. An der Spitze des geschäftsführenden Organs steht der Generaldirektor, der der Versammlung der Vertragsparteien unmittelbar verantwortlich ist.
 
-b. Der Generaldirektor
-
 c. Bei der Ernennung des Generaldirektors und der Auswahl des sonstigen Personals des geschäftsführenden Organs ist vor allem darauf zu achten, dass die höchsten Anforderungen im Hinblick auf Integrität, Eignung und Tüchtigkeit erfüllt sind. Mögliche Vorteile der Personaleinstellung und des Personaleinsatzes auf regionaler und geografisch unterschiedlicher Basis sind zu prüfen. Der Generaldirektor und das Personal des geschäftsführenden Organs haben sich aller Handlungen zu enthalten, die mit ihren Verantwortlichkeiten gegenüber der ITSO unvereinbar sind.
 
 d. Vorbehaltlich der Richtlinien und Weisungen der Versammlung der Vertragsparteien legt der Generaldirektor Struktur, Personalumfang und Standard-Anstellungsbedingungen für Amtsträger und Angestellte fest und ernennt das Personal des geschäftsführenden Organs. Der Generaldirektor kann Berater und andere Gutachter für das geschäftsführende Organ auswählen.
 
 e. Der Generaldirektor beaufsichtigt die Einhaltung der Kerngrundsätze durch das Unternehmen.
-
-f. Der Generaldirektor
 
 g. Der Generaldirektor erstattet den Vertragsparteien über die in den Buchstaben d–f aufgeführten Fragen Bericht.
 
@@ -240,13 +216,17 @@ k. Wenn der Generaldirektor der Ansicht ist, dass das Versäumnis einer Vertrags
 
 l. Die Versammlung der Vertragsparteien bestimmt einen leitenden Mitarbeiter des geschäftsführenden Organs, der als amtierender Generaldirektor tätig wird, wenn der Generaldirektor abwesend oder nicht in der Lage ist, sein Amt auszuüben, oder wenn das Amt des Generaldirektors verwaist. Der amtierende Generaldirektor ist berechtigt, alle Befugnisse des Generaldirektors auf Grund dieses Übereinkommens wahrzunehmen. Ist das Amt verwaist, so übt der amtierende Generaldirektor dieses Amt bis zum Amtsantritt eines Generaldirektors aus, der so rasch wie möglich nach Buchstabe b Ziffer iii dieses Artikels ernannt und bestätigt wird.
 
+b. Der Generaldirektor:
+
 - i. ist der höchste leitende Beamte der ITSO und vertritt diese nach aussen; er ist verantwortlich für die Wahrnehmung aller Geschäftsführungsaufgaben einschliesslich der Ausübung von Vertragsrechten;
-- ii. handelt im Einklang mit den Zielsetzungen und Richtlinien der Versammlung der Vertragsparteien und
+- ii. handelt im Einklang mit den Zielsetzungen und Richtlinien der Versammlung der Vertragsparteien; und
 - iii. wird von der Versammlung der Vertragsparteien für eine Amtszeit von vier Jahren oder einen anderen, von der Versammlung der Vertragsparteien beschlossenen, Zeitraum ernannt. Der Generaldirektor kann aus triftigem Grund von der Versammlung der Vertragsparteien abgesetzt werden. Ein Generaldirektor kann nicht für einen Zeitraum von mehr als acht Jahren ernannt werden.
+
+f. Der Generaldirektor:
 
 - i. überwacht die Einhaltung des Kerngrundsatzes durch das Unternehmen, LCO-Nutzniesser durch Erfüllung der LCO-Verträge zu bedienen;
 - ii. prüft die Entscheidungen des Unternehmens hinsichtlich von Anträgen auf Zulassung zum Abschluss eines LCO-Vertrags;
-- iii. unterstützt LCO-Nutzniesser durch Vermittlungsdienste bei der Beilegung von Streitigkeiten mit dem Unternehmen und
+- iii. unterstützt LCO-Nutzniesser durch Vermittlungsdienste bei der Beilegung von Streitigkeiten mit dem Unternehmen; und
 - iv. berät bei der Auswahl von Beratern und Schiedsrichtern, wenn ein LCO-Nutzniesser beschliesst, ein Schiedsverfahren gegen das Unternehmen einzuleiten.
 
 #### Art. XI
@@ -340,8 +320,6 @@ c. Alle Rechtsstreitigkeiten, die sich aus Vereinbarungen zwischen der ITSO und 
 
 **Unterzeichnung**
 
-a. Dieses Übereinkommen liegt vom 20. August 1971 bis zu seinem Inkrafttreten, längstens jedoch neun Monate, in Washington
-
 zur Unterzeichnung auf.
 
 b. Jede Regierung, die dieses Übereinkommen unterzeichnet, kann dies ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung tun, oder sie kann bei der Unterzeichnung erklären, dass diese vorbehaltlich der Ratifikation, Annahme oder Genehmigung erfolgt.
@@ -350,8 +328,10 @@ c. Jeder unter Buchstabe a fallende Staat kann diesem Übereinkommen nach Ablauf
 
 d. Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
-- i. für die Regierung jedes Vertragsstaates des Vorläufigen Übereinkommens,
-- ii. für die Regierung jedes anderen Mitgliedstaats der Vereinten Nationen oder der Internationalen Fernmeldeunion
+a. Dieses Übereinkommen liegt vom 20. August 1971 bis zu seinem Inkrafttreten, längstens jedoch neun Monate, in Washington:
+
+- i. für die Regierung jedes Vertragsstaates des Vorläufigen Übereinkommens;
+- ii. für die Regierung jedes anderen Mitgliedstaats der Vereinten Nationen oder der Internationalen Fernmeldeunion,
 
 #### Art. XVIII
 
@@ -519,10 +499,10 @@ a. Die Entscheidung des Gerichts stützt sich:
 
 Sofern nicht das Gericht wegen der besonderen Umstände des Falles etwas anderes beschliesst, werden die Kosten des Gerichts einschliesslich der Bezüge seiner Mitglieder zu gleichen Teilen von den Streitparteien getragen. Besteht eine Partei aus mehreren Klägern bzw. Beklagten, so wird der Kostenanteil dieser Partei vom Gericht unter die einzelnen Kläger bzw. Beklagten dieser Partei aufgeteilt. Ist die ITSO Partei, so gelten ihre mit dem Schiedsverfahren verbundenen Kosten als Verwaltungskosten der ITSO.
 
-Geltungsbereich am 5. November 2015**[^t-5]**
+Geltungsbereich am 27. Mai 2024[^t-3]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26. März</td><td>1973 B</td><td>26. März</td><td>1973</td></tr>
 <tr><td>Ägypten</td><td>3. Januar</td><td>1973</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Algerien</td><td>19. Dezember</td><td>1972</td><td>12. Februar</td><td>1973</td></tr>
@@ -556,12 +536,13 @@ Geltungsbereich am 5. November 2015**[^t-5]**
 <tr><td>Ecuador</td><td>14. März</td><td>1972</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>El Salvador</td><td>19. Januar</td><td>1977 B</td><td>19. Januar</td><td>1977</td></tr>
 <tr><td>Estland</td><td>10. April</td><td>2007 B</td><td>10. April</td><td>2007</td></tr>
+<tr><td>Eswatini</td><td>18. Mai</td><td>1988 B</td><td>18. Mai</td><td>1988</td></tr>
 <tr><td>Fidschi</td><td>4. Mai</td><td>1978 B</td><td>4. Mai</td><td>1978</td></tr>
 <tr><td>Finnland</td><td>17. Januar</td><td>1973</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Frankreich</td><td>18. September</td><td>1972</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Gabun</td><td>20. April</td><td>1972 U</td><td>12. Februar</td><td>1973</td></tr>
-<tr><td>Gambia</td><td>18. Juli</td><td>2001 B</td><td>18. Juli</td><td>2001</td></tr>
-<tr><td>Georgien</td><td>28. Juni</td><td>2001 B</td><td>28. Juni</td><td>2001</td></tr>
+<tr><td>Gambia</td><td>13. Juli</td><td>2001 B</td><td>13. Juli</td><td>2001</td></tr>
+<tr><td>Georgien</td><td>9. November</td><td>2000 B</td><td>9. November</td><td>2000</td></tr>
 <tr><td>Ghana</td><td>12. Dezember</td><td>1973 B</td><td>12. Dezember</td><td>1973</td></tr>
 <tr><td>Griechenland</td><td>29. November</td><td>1972</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Guatemala</td><td>20. Dezember</td><td>1972</td><td>12. Februar</td><td>1973</td></tr>
@@ -653,7 +634,6 @@ Geltungsbereich am 5. November 2015**[^t-5]**
 <tr><td>Sri Lanka</td><td>15. Dezember</td><td>1972 B</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Südafrika</td><td>20. August</td><td>1971 U</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Sudan</td><td>20. August</td><td>1971 U</td><td>12. Februar</td><td>1973</td></tr>
-<tr><td>Swasiland</td><td>18. Mai</td><td>1988 B</td><td>18. Mai</td><td>1988</td></tr>
 <tr><td>Syrien</td><td>20. August</td><td>1971 U</td><td>12. Februar</td><td>1973</td></tr>
 <tr><td>Tadschikistan</td><td>22. Februar</td><td>1996 B</td><td>22. Februar</td><td>1996</td></tr>
 <tr><td>Tansania</td><td>9. Januar</td><td>1973</td><td>12. Februar</td><td>1973</td></tr>
@@ -679,4 +659,4 @@ Geltungsbereich am 5. November 2015**[^t-5]**
 <tr><td colspan="5"><sup>a</sup> Vereinigung der Jemenitischen Arabischen Republik und der Demokratischen Volksrepublik Jemen zur Republik Jemen.</td></tr>
 </table>
 
-[^t-5]: [AS 1973 813](https://fedlex.data.admin.ch/eli/oc/1973/813_813_814)[2026](https://fedlex.data.admin.ch/eli/oc/1973/2026_2026_2026), [1975 1996](https://fedlex.data.admin.ch/eli/oc/1975/1996_1996_1995), [1976 2862](https://fedlex.data.admin.ch/eli/oc/1976/2862_2862_2862), [1979 1674](https://fedlex.data.admin.ch/eli/oc/1979/1674_1674_1674), [1982 1578](https://fedlex.data.admin.ch/eli/oc/1982/1578_1578_1578), [1985 278](https://fedlex.data.admin.ch/eli/oc/1985/278_278_278), [1989 1163](https://fedlex.data.admin.ch/eli/oc/1989/1163_1163_1163)[1990 1876](https://fedlex.data.admin.ch/eli/oc/1990/1876_1876_1876), [2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520)und [2015 5997](https://fedlex.data.admin.ch/eli/oc/2015/932). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1973 2026](https://fedlex.data.admin.ch/eli/oc/1973/2026_2026_2026); [1975 1996](https://fedlex.data.admin.ch/eli/oc/1975/1996_1996_1995); [1976 2862](https://fedlex.data.admin.ch/eli/oc/1976/2862_2862_2862); [1979 1674](https://fedlex.data.admin.ch/eli/oc/1979/1674_1674_1674); [1982 1578](https://fedlex.data.admin.ch/eli/oc/1982/1578_1578_1578); [1985 278](https://fedlex.data.admin.ch/eli/oc/1985/278_278_278); [1989 1163](https://fedlex.data.admin.ch/eli/oc/1989/1163_1163_1163); [1990 1876](https://fedlex.data.admin.ch/eli/oc/1990/1876_1876_1876); [2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520); [2015 5997](https://fedlex.data.admin.ch/eli/oc/2015/932); [2024 241](https://fedlex.data.admin.ch/eli/oc/2024/241). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

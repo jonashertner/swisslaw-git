@@ -3,11 +3,11 @@ sr: "0.784.601"
 title: "Accord du 20 août 1971 relatif à l'Organisation internationale des télécommunications par satellites (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/813_813_814"
 language: fr
-version: 2017-01-16
+version: 2024-05-27
 adopted: 1971-08-20
 in_force: 1973-02-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/813_813_814/20170116/fr/xml/fedlex-data-admin-ch-eli-cc-1973-813_813_814-20170116-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/813_813_814/20170116/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/813_813_814/20240527/fr/xml/fedlex-data-admin-ch-eli-cc-1973-813_813_814-20240527-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/813_813_814/20240527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,28 +18,20 @@ RO **1973** 813; FF **1972** I 273
 
 Texte original
 
-Conclu à Washington le 20 août 1971
+Conclu à Washington le 20 août 1971 Approuvé par l’Assemblée fédérale le 27 juin 1972[^t-1] Instrument de ratification déposé le 27 juillet 1972 Entré en vigueur pour la Suisse le 12 février 1973 Amendements adoptés le 17 novembre 2000 et entrés en vigueur pour la Suisse le 30 novembre 2004[^t-2]
 
-Approuvé par l’Assemblée fédérale le 27 juin 1972[^t-1]
-
-Instrument de ratification déposé le 27 juillet 1972
-
-Entré en vigueur pour la Suisse le 12 février 1973
-
-Amendements adoptés le 17 novembre 2000 et entrés en vigueur pour la Suisse le 30 novembre 2004[^t-2]
-
-(Etat le 16 janvier 2017)
+(État le 27 mai 2024)
 
 [^t-1]: [RO 1973 812](https://fedlex.data.admin.ch/eli/oc/1973/812_812_813)
 [^t-2]: [RO 2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520)
 
 *Préambule*
 
-Les Etats Parties au présent Accord,
+Les États Parties au présent Accord,
 
 considérant le principe énoncé dans la Résolution 172l (XVI) de l’Assemblée générale des Nations Unies selon lequel les nations du monde doivent pouvoir dès que possible communiquer au moyen de satellites sur une base mondiale et non discriminatoire,
 
-considérant les dispositions pertinentes du Traité sur les principes régissant les activités des Etats en matière d’exploration et d’utilisation de l’espace extra-atmosphérique[^ingress-1], y compris la Lune et les autres corps célestes et, en particulier, l’art. I qui affirme que l’espace extra-atmosphérique doit être utilisé pour le bien et dans l’intérêt de tous les pays,
+considérant les dispositions pertinentes du Traité sur les principes régissant les activités des États en matière d’exploration et d’utilisation de l’espace extra-atmosphérique[^ingress-1], y compris la Lune et les autres corps célestes et, en particulier, l’art. I qui affirme que l’espace extra-atmosphérique doit être utilisé pour le bien et dans l’intérêt de tous les pays,
 
 reconnaissant que, conformément à son but initial, l’organisation internationale de télécommunications par satellites a mis en place un système mondial par satellites destiné à fournir des services de télécommunications à toutes les régions du monde, qui a contribué à la paix et à l’entente mondiales,
 
@@ -49,7 +41,7 @@ constatant que, du fait de la concurrence accrue dans la fourniture de services 
 
 visant à faire en sorte que la Société respecte les Principes fondamentaux énoncés à l’art. III du présent Accord et fournisse, sur une base commerciale, le secteur spatial nécessaire à des services publics de télécommunications internationales de haute qualité et de grande fiabilité,
 
-ayant déterminé qu’une organisation intergouvernementale de supervision, dont tout Etat membre des Nations Unies ou de l’Union internationale des télécommunications peut devenir membre, est nécessaire pour assurer que la Société respecte les Principes fondamentaux sur une base continue,
+ayant déterminé qu’une organisation intergouvernementale de supervision, dont tout État membre des Nations Unies ou de l’Union internationale des télécommunications peut devenir membre, est nécessaire pour assurer que la Société respecte les Principes fondamentaux sur une base continue,
 
 sont convenus de ce qui suit:
 
@@ -64,7 +56,7 @@ Aux fins du présent Accord:
 - a. le terme «Accord» désigne le présent accord, y compris son annexe et tout amendement y afférent, mais à l’exclusion des titres des articles, ouvert à la signature des Gouvernements le 20 août 1971, à Washington, et établissant l’organisation internationale de télécommunications par satellites;
 - b. les termes «secteur spatial» désignent les satellites de télécommunications ainsi que les installations de poursuite, de télémesure, de télécommande, de contrôle, de surveillance et les autres équipements associés, nécessaires au fonctionnement de ces satellites;
 - c. le terme «télécommunication» désigne toute transmission, émission ou réception de signes, de signaux, d’écrits, d’images, de sons ou de renseignements de toute nature, par fil, radioélectricité, optique ou autres systèmes électromagnétiques;
-- d. le terme «Société» désigne l’entité ou les entités privées, créées aux termes du droit d’un ou plusieurs Etats à laquelle (auxquelles) le système spatial de l’organisation internationale de télécommunications par satellites est transféré, y compris les entités leur succédant en droit;
+- d. le terme «Société» désigne l’entité ou les entités privées, créées aux termes du droit d’un ou plusieurs États à laquelle (auxquelles) le système spatial de l’organisation internationale de télécommunications par satellites est transféré, y compris les entités leur succédant en droit;
 - e. les termes «sur une base commerciale» signifient conformément à la pratique commerciale habituelle et coutumière du secteur des télécommunications;
 - f. les termes «services publics de télécommunications» désignent les services de télécommunications fixes ou mobiles qui peuvent être assurés par satellites et qui sont accessibles aux fins d’utilisation par le public tels que le téléphone, le télégraphe, le télex, la transmission de fac-similés, la transmission de données, la transmission de programmes de radiodiffusion et de télévision entre des stations terriennes approuvées ayant accès au secteur spatial de la société en vue d’une transmission ultérieure au public, ainsi que les circuits loués pour l’une quelconque des utilisations ci-dessus mentionnées; ces termes excluent les services mobiles d’une catégorie qui n’a pas été fournie en application de l’Accord provisoire et de l’Accord spécial préalablement à l’ouverture de l’Accord à la signature et qui sont assurés par des stations mobiles opérant directement avec un satellite conçu en tout ou en partie pour assurer des services ayant trait à la sécurité ou au contrôle en vol d’aéronefs, ou à la radionavigation aérienne ou maritime;
 - g. les termes «Accord provisoire» désignent l’accord établissant un régime provisoire applicable à un système commercial mondial de télécommunications par satellites, signé par les Gouvernements à Washington le 20 août 1964[^I-1];
@@ -76,7 +68,7 @@ Aux fins du présent Accord:
 - m. les termes «couverture mondiale» désignent la couverture géographique maximum de la terre vers le parallèle le plus au nord et le parallèle le plus au sud visibles depuis des satellites déployés à des emplacements orbitaux géostationnaires;
 - n. les termes «connexité mondiale» désignent les moyens d’interconnexion offerts aux clients de la Société par l’intermédiaire de la couverture mondiale que la Société fournit pour permettre des communications au sein des cinq régions de l’Union internationale des télécommunications définies par la Conférence de plénipotentiaires de l’Union internationale des télécommunications qui s’est tenue à Montreux en 1965, et entre ces régions;
 - o. les termes «accès non discriminatoire» désignent l’opportunité d’accès au système de la Société sur une base égale et équitable;
-- p. le terme «Partie» désigne un Etat à l’égard duquel l’Accord est entré en vigueur ou est appliqué à titre provisoire;
+- p. le terme «Partie» désigne un État à l’égard duquel l’Accord est entré en vigueur ou est appliqué à titre provisoire;
 - q. le terme «biens» comprend tout élément, quelle qu’en soit la nature, à l’égard duquel un droit de propriété peut être exercé, ainsi que tout droit contractuel;
 - r. les termes «clients LCO» désignent tous les clients en droit de bénéficier et ayant signé des contrats LCO;
 - s. le terme «administration» désigne tout département ou service officiel responsable du respect des obligations émanant de la Constitution de l’Union internationale des télécommunications, de la Convention de l’Union internationale des télécommunications et de ses règlements administratifs.
@@ -86,7 +78,7 @@ Aux fins du présent Accord:
 
 #### Art. II
 
-**Création de l'ITSO**
+**Création de l’ITSO**
 
 Tenant dûment compte des principes énoncés ci-dessus dans le Préambule, les Parties créent l’Organisation internationale de télécommunications par satellites, dénommée ci-après «ITSO».
 
@@ -106,9 +98,9 @@ b. Les Principes fondamentaux sont les suivants:
 
 **Services publics de télécommunications nationales couverts**
 
-Sont assimilés aux services publics de télécommunications internationales aux fins d'application de l'art. III:
+Sont assimilés aux services publics de télécommunications internationales aux fins d’application de l’art. III:
 
-- a. les services publics de télécommunications nationales entre des régions séparées par des régions qui ne sont pas sous la juridiction de l’Etat intéressé ou entre des régions séparées par la haute mer;
+- a. les services publics de télécommunications nationales entre des régions séparées par des régions qui ne sont pas sous la juridiction de l’État intéressé ou entre des régions séparées par la haute mer;
 - b. les services publics de télécommunications nationales entre des régions qui ne sont reliées par aucune installation terrestre à bande large et qui sont séparées par des obstacles naturels d’un caractère si exceptionnel qu’ils excluent la création viable d’installations terrestres à bande large entre ces régions, à condition que l’autorisation appropriée ait été donnée.
 
 #### Art. V
@@ -123,9 +115,9 @@ L’ITSO prend toutes les mesures appropriées, y compris la conclusion de l’A
 
 b. Chaque Partie prend toute mesure qui s’impose dans le cadre de sa juridiction afin de donner effet aux dispositions du présent article en fonction de son propre droit.
 
-a. L'ITSO a la personnalité juridique. Elle a toute la capacité requise pour exercer ses fonctions et atteindre ses objectifs, y compris celle:
+a. L’ITSO a la personnalité juridique. Elle a toute la capacité requise pour exercer ses fonctions et atteindre ses objectifs, y compris celle:
 
-- i. de conclure des accords avec des Etats ou des organisations internationales;
+- i. de conclure des accords avec des États ou des organisations internationales;
 - ii. de contracter;
 - iii. d’acquérir des biens et d’en disposer;
 - iv. d’ester en justice.
@@ -142,10 +134,10 @@ b. Dans le cas où l’ITSO continue d’exister au-delà de douze ans, l’ITSO
 
 **Structure d’ITSO**
 
-L'ITSO comprend les organes suivants:
+L’ITSO comprend les organes suivants:
 
 - a. l’Assemblée des Parties;
-- b. un organe exécutif dirigé par le Directeur général responsable devant l'Assemblée des Parties.
+- b. un organe exécutif dirigé par le Directeur général responsable devant l’Assemblée des Parties.
 
 #### Art. IX
 
@@ -165,9 +157,9 @@ g. Pour toute session de l’Assemblée des Parties, chaque Partie dispose d’u
 
 h. L’Assemblée des Parties adopte son règlement intérieur qui comprend notamment des dispositions concernant l’élection du président et des autres membres du bureau ainsi que des dispositions concernant la participation et le vote.
 
-i. Chaque Partie fait face à ses propres frais de représentation lors des réunions de l’Assemblée des Parties. Les dépenses relatives aux réunions de l’Assemblée des Parties sont considérées comme faisant partie des dépenses administratives de l'ITSO.
+i. Chaque Partie fait face à ses propres frais de représentation lors des réunions de l’Assemblée des Parties. Les dépenses relatives aux réunions de l’Assemblée des Parties sont considérées comme faisant partie des dépenses administratives de l’ITSO.
 
-c. L’Assemblée des Parties prend en considération les questions qui intéressent particulièrement les Parties en tant qu’Etats souverains, notamment elle assure que la Société fournit, sur une base commerciale, des services publics de télécommunications internationales, afin de:
+c. L’Assemblée des Parties prend en considération les questions qui intéressent particulièrement les Parties en tant qu’États souverains, notamment elle assure que la Société fournit, sur une base commerciale, des services publics de télécommunications internationales, afin de:
 
 - i. maintenir la connexité mondiale et la couverture mondiale;
 - ii. desservir ses clients ayant des connexités vitales;
@@ -181,7 +173,7 @@ d. L’Assemblée des Parties a les fonctions et pouvoirs suivants:
 - iv. elle examine les rapports remis par le Directeur général qui ont trait au respect par la Société des Principes fondamentaux et prend des décisions sur ces rapports;
 - v. elle examine et, à sa discrétion, prend des décisions sur les recommandations du Directeur général;
 - vi. elle adopte, en vertu des dispositions du par. b de l’art. XIV de l’Accord, les décisions concernant le retrait d’une Partie de l’ITSO;
-- vii. elle adopte les décisions concernant les questions relatives aux relations officielles entre l’ITSO et les Etats, qu’ils soient ou non Parties, ou les organisations internationales;
+- vii. elle adopte les décisions concernant les questions relatives aux relations officielles entre l’ITSO et les États, qu’ils soient ou non Parties, ou les organisations internationales;
 - viii. elle examine les réclamations qui lui sont soumises par les Parties;
 - ix. elle examine les questions relatives au patrimoine commun des Parties;
 - x. elle adopte les décisions relatives à l’autorisation mentionnée au b de l’art. IV de l’Accord;
@@ -234,9 +226,9 @@ f. Le Directeur général:
 
 **Droits et obligations des Parties**
 
-a. Les Parties exercent leurs droits et exécutent leurs obligations découlant de l’Accord d’une manière propre à respecter pleinement et à promouvoir les principes énoncés dans le Préambule, les Principes fondamentaux visés à l'art. III et les dispositions de l’Accord.
+a. Les Parties exercent leurs droits et exécutent leurs obligations découlant de l’Accord d’une manière propre à respecter pleinement et à promouvoir les principes énoncés dans le Préambule, les Principes fondamentaux visés à l’art. III et les dispositions de l’Accord.
 
-b. Toutes les Parties sont autorisées à assister et à participer à toutes les conférences et réunions auxquelles elles sont en droit d'être représentées conformément aux dispositions du présent Accord, ainsi qu’à toute autre réunion organisée par l'ITSO ou tenue sous ses auspices, conformément aux dispositions prises par L'ITSO pour ces réunions, indépendamment du lieu où elles se tiennent. L’organe exécutif veille à ce que les dispositions arrêtées avec la Partie invitant pour chaque conférence ou réunion comportent une clause relative à l’admission dans le pays invitant et au séjour pour la durée de ladite conférence ou de ladite réunion des représentants de toutes les Parties en droit d’y assister.
+b. Toutes les Parties sont autorisées à assister et à participer à toutes les conférences et réunions auxquelles elles sont en droit d’être représentées conformément aux dispositions du présent Accord, ainsi qu’à toute autre réunion organisée par l’ITSO ou tenue sous ses auspices, conformément aux dispositions prises par L’ITSO pour ces réunions, indépendamment du lieu où elles se tiennent. L’organe exécutif veille à ce que les dispositions arrêtées avec la Partie invitant pour chaque conférence ou réunion comportent une clause relative à l’admission dans le pays invitant et au séjour pour la durée de ladite conférence ou de ladite réunion des représentants de toutes les Parties en droit d’y assister.
 
 c. Les Parties prennent, de façon transparente, non discriminatoire et neutre du point de vue de la concurrence, aux termes de la procédure nationale applicable et des accords internationaux pertinents auxquels elles sont parties, les mesures requises pour que la Société puisse respecter les Principes fondamentaux.
 
@@ -267,13 +259,13 @@ e. Chaque Partie choisie en qualité d’Administration notificatrice en vertu d
 
 #### Art. XIII
 
-**Siège de l'ITSO, privilèges, exemptions et immunités**
+**Siège de l’ITSO, privilèges, exemptions et immunités**
 
-a. Le siège de l'ITSO est situé à Washington, dc., à moins que l'Assemblée des Parties n'en décide autrement
+a. Le siège de l’ITSO est situé à Washington, dc., à moins que l’Assemblée des Parties n’en décide autrement
 
-b. Dans le cadre des activités autorisées par l’Accord, l'ITSO et ses biens sont exonérés, par tous les Etats parties à l’Accord, de tout impôt national sur le revenu et impôt direct national sur les biens. Chaque Partie s’engage à agir au mieux pour faire accorder, conformément à la procédure nationale applicable, toutes autres exonérations d’impôts sur les revenus et sur les biens, ainsi que des droits de douane, jugées souhaitables en gardant présent à l’esprit le caractère spécifique de l'ITSO.
+b. Dans le cadre des activités autorisées par l’Accord, l’ITSO et ses biens sont exonérés, par tous les États parties à l’Accord, de tout impôt national sur le revenu et impôt direct national sur les biens. Chaque Partie s’engage à agir au mieux pour faire accorder, conformément à la procédure nationale applicable, toutes autres exonérations d’impôts sur les revenus et sur les biens, ainsi que des droits de douane, jugées souhaitables en gardant présent à l’esprit le caractère spécifique de l’ITSO.
 
-c. Toute Partie autre que la Partie sur le territoire de laquelle est situé le siège de l'ITSO ou, suivant le cas, la Partie sur le territoire de laquelle est situé le siège de l'ITSO, accorde, conformément au Protocole ou à l’Accord de siège visés au présent paragraphe, les privilèges, exemptions et immunités nécessaires à l'ITSO, à ses dirigeants, aux autres catégories de son personnel spécifiées audit Protocole et audit Accord de siège, aux Parties et aux représentants de Parties,. En particulier, toute Partie accorde aux personnes visées ci-dessus dans la mesure et dans les cas qui seront prévus par l’Accord de siège et le Protocole visés au présent paragraphe, l’immunité de juridiction pour les actes accomplis, les écrits ou les propos émis dans l’exercice de leurs fonctions et dans les limites de leurs attributions. La Partie sur le territoire de laquelle est situé le siège de l'ITSO conclut, dès que possible un Accord de siège avec l'ITSO portant sur les privilèges, exemptions et immunités.. Les autres Parties concluent, dès que possible un Protocole relatif aux privilèges, exemptions et immunités. L’Accord de siège et le Protocole sont indépendants de l’Accord et chacun d’eux prévoit les conditions selon lesquelles il prend fin.
+c. Toute Partie autre que la Partie sur le territoire de laquelle est situé le siège de l’ITSO ou, suivant le cas, la Partie sur le territoire de laquelle est situé le siège de l’ITSO, accorde, conformément au Protocole ou à l’Accord de siège visés au présent paragraphe, les privilèges, exemptions et immunités nécessaires à l’ITSO, à ses dirigeants, aux autres catégories de son personnel spécifiées audit Protocole et audit Accord de siège, aux Parties et aux représentants de Parties,. En particulier, toute Partie accorde aux personnes visées ci-dessus dans la mesure et dans les cas qui seront prévus par l’Accord de siège et le Protocole visés au présent paragraphe, l’immunité de juridiction pour les actes accomplis, les écrits ou les propos émis dans l’exercice de leurs fonctions et dans les limites de leurs attributions. La Partie sur le territoire de laquelle est situé le siège de l’ITSO conclut, dès que possible un Accord de siège avec l’ITSO portant sur les privilèges, exemptions et immunités.. Les autres Parties concluent, dès que possible un Protocole relatif aux privilèges, exemptions et immunités. L’Accord de siège et le Protocole sont indépendants de l’Accord et chacun d’eux prévoit les conditions selon lesquelles il prend fin.
 
 #### Art. XIV
 
@@ -288,7 +280,7 @@ e. Aucune Partie n’est tenue de se retirer de l’ITSO en conséquence directe
 - a. i. Toute Partie peut se retirer volontairement de l’ITSO. La Partie qui se retire notifie par écrit sa décision au Dépositaire.
 - ii. La notification de la décision de retrait d’une Partie en vertu des dispositions de l’al. i du présent paragraphe est transmise par le Dépositaire à toutes les Parties et à l’organe exécutif.
 - iii. Sous réserve des dispositions du par. d de l’art. XII, le retrait volontaire, notifié conformément aux dispositions de l’al. i du présent paragraphe, prend effet, et le présent Accord cesse d’être en vigueur à l’égard de la Partie qui se retire, trois mois après la date de réception de la notification.
-- b. i. Si une Partie paraît avoir manqué à l’une quelconque des obligations qui lui incombent aux termes de l’Accord, l’Assemblée des Parties, après avoir reçu une notification à cet effet ou agissant de sa propre initiative et après avoir examiné toute observation présentée par ladite Partie, peut décider, si elle constate qu’il y a eu manquement à une obligation, que la Partie est réputée s’être retirée de l’ITSO. A partir de la date d’une telle décision, l’Accord cesse d’être en vigueur à l’égard de la Partie. L’Assemblée des Parties peut être convoquée en session extraordinaire à cette fin.
+- b. i. Si une Partie paraît avoir manqué à l’une quelconque des obligations qui lui incombent aux termes de l’Accord, l’Assemblée des Parties, après avoir reçu une notification à cet effet ou agissant de sa propre initiative et après avoir examiné toute observation présentée par ladite Partie, peut décider, si elle constate qu’il y a eu manquement à une obligation, que la Partie est réputée s’être retirée de l’ITSO. À partir de la date d’une telle décision, l’Accord cesse d’être en vigueur à l’égard de la Partie. L’Assemblée des Parties peut être convoquée en session extraordinaire à cette fin.
 - ii. Si l’Assemblée des Parties décide qu’une Partie est réputée s’être retirée de l’ITSO conformément aux dispositions de l’al. i du présent paragraphe, l’organe exécutif en avise le Dépositaire, lequel transmet la notification à toutes les Parties.
 
 #### Art. XV
@@ -301,9 +293,9 @@ b. L’Assemblée des Parties examine toute proposition d’amendement lors de l
 
 c. L’Assemblée des Parties prend une décision sur toute proposition d’amendement selon les règles de quorum et de vote prévues à l’art. IX de l’Accord. Elle peut modifier toute proposition d’amendement distribuée conformément au par. b du présent article, et prendre une décision sur toute proposition d’amendement qui n’a pas été distribuée en conformité avec ledit paragraphe mais résultant directement d’une proposition d’amendement ainsi distribuée.
 
-d. Un amendement approuvé par l’Assemblée des Parties entre en vigueur conformément aux dispositions du par. e du présent art. après réception par le Dépositaire de la notification d’approbation, d’acceptation ou de ratification de l’amendement par les deux tiers des Etats qui étaient Parties à la date à laquelle l’amendement a été approuvé par l’Assemblée des Parties.
+d. Un amendement approuvé par l’Assemblée des Parties entre en vigueur conformément aux dispositions du par. e du présent art. après réception par le Dépositaire de la notification d’approbation, d’acceptation ou de ratification de l’amendement par les deux tiers des États qui étaient Parties à la date à laquelle l’amendement a été approuvé par l’Assemblée des Parties.
 
-e. Le Dépositaire notifie à toutes les Parties, dès leur réception, les acceptations, les approbations ou les ratifications requises en vertu du par. d du présent article pour l’entrée en vigueur d’un amendement. Quatre-vingt-dix jours après la date de cette notification, ledit amendement entre en vigueur à l’égard de toutes les Parties, y compris celles qui ne l’ont pas accepté, approuvé, ou ratifié, et qui ne se sont pas retirées de l'ITSO.
+e. Le Dépositaire notifie à toutes les Parties, dès leur réception, les acceptations, les approbations ou les ratifications requises en vertu du par. d du présent article pour l’entrée en vigueur d’un amendement. Quatre-vingt-dix jours après la date de cette notification, ledit amendement entre en vigueur à l’égard de toutes les Parties, y compris celles qui ne l’ont pas accepté, approuvé, ou ratifié, et qui ne se sont pas retirées de l’ITSO.
 
 f. Nonobstant les dispositions précédentes des par. d et e du présent article, aucun amendement n’entre en vigueur moins de huit mois après la date de son approbation par l’Assemblée des Parties.[^XV-1]
 
@@ -315,7 +307,7 @@ f. Nonobstant les dispositions précédentes des par. d et e du présent article
 
 a. Tout différend d’ordre juridique entre des Parties ou entre l’ITSO et une ou plusieurs Parties et relatif aux droits et obligations découlant de l’Accord, est soumis, s’il n’a pu être résolu autrement dans un délai raisonnable, à l’arbitrage conformément aux dispositions de l’Annexe A de l’Accord.
 
-b. Tout différend d’ordre juridique relatif aux droits et obligations découlant de l’Accord, survenu entre une Partie et un Etat qui a cessé d’être Partie, ou entre l’ITSO et un Etat qui a cessé d’être Partie, et qui se produit après que l’Etat a cessé d’être Partie, est soumis à l’arbitrage, s’il n’a pu être résolu autrement dans un délai raisonnable. Cet arbitrage a lieu conformément aux dispositions de l’Annexe A de l’Accord, si l’Etat qui a cessé d’être Partie y consent. Si un Etat cesse d’être Partie après la soumission à l’arbitrage d’un différend auquel il participait conformément au par. a du présent article, la procédure arbitrale se poursuit jusqu’à sa conclusion.
+b. Tout différend d’ordre juridique relatif aux droits et obligations découlant de l’Accord, survenu entre une Partie et un État qui a cessé d’être Partie, ou entre l’ITSO et un État qui a cessé d’être Partie, et qui se produit après que l’État a cessé d’être Partie, est soumis à l’arbitrage, s’il n’a pu être résolu autrement dans un délai raisonnable. Cet arbitrage a lieu conformément aux dispositions de l’Annexe A de l’Accord, si l’État qui a cessé d’être Partie y consent. Si un État cesse d’être Partie après la soumission à l’arbitrage d’un différend auquel il participait conformément au par. a du présent article, la procédure arbitrale se poursuit jusqu’à sa conclusion.
 
 c. Tout différend d’ordre juridique découlant d’accords entre l’ITSO et une Partie, quelle qu’elle soit, est soumis aux dispositions sur le règlement des différends contenues dans lesdits accords. En l’absence de telles dispositions, ces différends, s’ils ne sont pas résolus autrement, peuvent être soumis à l’arbitrage conformément aux dispositions de l’Annexe A de l’Accord si les parties au différend y consentent.
 
@@ -325,30 +317,30 @@ c. Tout différend d’ordre juridique découlant d’accords entre l’ITSO et 
 
 b. Tout gouvernement qui signe le présent Accord peut le faire sans que sa signature soit soumise à ratification, acceptation ou approbation ou en accompagnant sa signature d’une déclaration indiquant qu’elle est soumise à ratification, acceptation ou approbation.
 
-c. Tout Etat visé au par. a du présent article peut adhérer au présent Accord après qu’il aura cessé d’être ouvert à la signature.
+c. Tout État visé au par. a du présent article peut adhérer au présent Accord après qu’il aura cessé d’être ouvert à la signature.
 
 d. Aucune réserve ne peut être faite au présent Accord.
 
 a. Le présent Accord est ouvert à la signature, à Washington, du 20 août 1971 jusqu’à son entrée en vigueur ou jusqu’à l’expiration d’un délai de neuf mois selon que l’une ou l’autre période sera la première à échoir:
 
-- i. du gouvernement de tout Etat partie à l’Accord provisoire;
-- ii. du gouvernement de tout autre Etat membre des Nations Unies ou de l’Union internationale des télécommunications.
+- i. du gouvernement de tout État partie à l’Accord provisoire;
+- ii. du gouvernement de tout autre État membre des Nations Unies ou de l’Union internationale des télécommunications.
 
 #### Art. XVIII
 
 **Entrée en vigueur**
 
-a. Le présent Accord entre en vigueur soixante jours après la date à laquelle il a été signé, sans réserve de ratification, d’acceptation ou d’approbation ou soixante jours après la date à laquelle l’ont ratifié, accepté, approuvé ou y ont adhéré les deux tiers des Etats qui étaient parties à l’Accord provisoire lorsque le présent Accord a été ouvert à la signature pourvu que dans ces deux tiers soient comprises des parties à l’Accord provisoire qui détenaient alors au moins deux tiers des quotes-parts en vertu de l’Accord spécial.
+a. Le présent Accord entre en vigueur soixante jours après la date à laquelle il a été signé, sans réserve de ratification, d’acceptation ou d’approbation ou soixante jours après la date à laquelle l’ont ratifié, accepté, approuvé ou y ont adhéré les deux tiers des États qui étaient parties à l’Accord provisoire lorsque le présent Accord a été ouvert à la signature pourvu que dans ces deux tiers soient comprises des parties à l’Accord provisoire qui détenaient alors au moins deux tiers des quotes-parts en vertu de l’Accord spécial.
 
 Nonobstant les dispositions ci-dessus, l’Accord n’entre en vigueur en aucun cas moins de huit mois ou plus de dix-huit mois après la date à laquelle il a été ouvert à la signature.
 
-b. Lorsqu’un instrument de ratification, d’acceptation, d’approbation ou d’adhésion est déposé par un Etat après la date d’entrée en vigueur de l’Accord conformément aux dispositions du par. a du présent article, l’Accord entre en vigueur à l’égard de cet Etat à la date du dépôt.
+b. Lorsqu’un instrument de ratification, d’acceptation, d’approbation ou d’adhésion est déposé par un État après la date d’entrée en vigueur de l’Accord conformément aux dispositions du par. a du présent article, l’Accord entre en vigueur à l’égard de cet État à la date du dépôt.
 
 Si l’application à titre provisoire cesse en vertu de l’al. ii ou de l’al. iii du présent paragraphe, les dispositions des par. c de l’art. XIV de l’Accord régissent les droits et obligations de la Partie.
 
 d. Lors de son entrée en vigueur, l’Accord remplace l’Accord provisoire et y met fin.
 
-c. Dès son entrée en vigueur conformément aux dispositions du par. a du présent article, l’Accord peut être appliqué à titre provisoire à l’égard de tout Etat dont le gouvernement l’a signé sous réserve de ratification, d’acceptation ou d’approbation s’il en fait la demande au moment de la signature ou ensuite à tout moment avant l’entrée en vigueur de l’Accord. L’application à titre provisoire cesse:
+c. Dès son entrée en vigueur conformément aux dispositions du par. a du présent article, l’Accord peut être appliqué à titre provisoire à l’égard de tout État dont le gouvernement l’a signé sous réserve de ratification, d’acceptation ou d’approbation s’il en fait la demande au moment de la signature ou ensuite à tout moment avant l’entrée en vigueur de l’Accord. L’application à titre provisoire cesse:
 
 - i. soit lors du dépôt d’un instrument de ratification, d’acceptation ou d’approbation de l’Accord par le gouvernement;
 - ii. soit à l’expiration de la période de deux ans qui suit la date d’entrée en vigueur de l’Accord, si celui-ci n’a pas été ratifié, accepté ou approuvé par le gouvernement;
@@ -358,21 +350,21 @@ c. Dès son entrée en vigueur conformément aux dispositions du par. a du prés
 
 **Dispositions diverses**
 
-a. Les langues officielles et de travail de l'ITSO sont l’anglais, l’espagnol et le français.
+a. Les langues officielles et de travail de l’ITSO sont l’anglais, l’espagnol et le français.
 
-b. Le règlement intérieur de l’organe exécutif doit prévoir la distribution rapide à toutes les Parties des exemplaires de tous documents de l'ITSO conformément à leurs demandes.
+b. Le règlement intérieur de l’organe exécutif doit prévoir la distribution rapide à toutes les Parties des exemplaires de tous documents de l’ITSO conformément à leurs demandes.
 
-c. Conformément aux dispositions de la Résolution 1721 (XVI) de l’Assemblée générale des Nations Unies, l’organe exécutif adresse à titre d’information au Secrétaire général des Nations Unies et aux institutions spécialisées intéressées un rapport annuel sur les activités de l'ITSO.
+c. Conformément aux dispositions de la Résolution 1721 (XVI) de l’Assemblée générale des Nations Unies, l’organe exécutif adresse à titre d’information au Secrétaire général des Nations Unies et aux institutions spécialisées intéressées un rapport annuel sur les activités de l’ITSO.
 
 #### Art. XX
 
 **Dépositaire**
 
-a. Le Gouvernement des Etats-Unis d’Amérique est le Dépositaire de l’Accord, auprès duquel sont déposés les déclarations au titre du par. b de l’art. XVII de l’Accord, les instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les demandes d’application à titre provisoire, ainsi que les notifications de ratification, d’acceptation ou d’approbation des amendements, des décisions de retrait de l'ITSO ou des décisions de mettre fin à l’application à titre provisoire de l’Accord.
+a. Le Gouvernement des États-Unis d’Amérique est le Dépositaire de l’Accord, auprès duquel sont déposés les déclarations au titre du par. b de l’art. XVII de l’Accord, les instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les demandes d’application à titre provisoire, ainsi que les notifications de ratification, d’acceptation ou d’approbation des amendements, des décisions de retrait de l’ITSO ou des décisions de mettre fin à l’application à titre provisoire de l’Accord.
 
-b. Le présent Accord, dont les textes anglais, espagnol et français font également foi, sera déposé dans les archives du Dépositaire. Celui-ci transmettra des copies certifiées conformes du texte du présent Accord à tous les Gouvernements qui l’auront signé ou qui auront déposé leurs instruments d’adhésion, ainsi qu’à l’Union internationale des télécommunications, et notifiera à tous ces Gouvernements ainsi qu’à l’Union internationale des télécommunications les signatures, les déclarations au titre du par. b de l’art. XVII de l’Accord, le dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les demandes d’application à titre provisoire, le début de la période de soixante jours visée au par. a de l’art. XVIII de l’Accord, l’entrée en vigueur de l’Accord, les notifications de ratification, d’acceptation ou d’approbation des amendements, l’entrée en vigueur des amendements, les décisions de retrait de l'ITSO, les retraits, ainsi que les décisions de mettre fin à l’application à titre provisoire de l’Accord. La notification du début de la période de soixante jours est faite le premier jour de cette période.
+b. Le présent Accord, dont les textes anglais, espagnol et français font également foi, sera déposé dans les archives du Dépositaire. Celui-ci transmettra des copies certifiées conformes du texte du présent Accord à tous les Gouvernements qui l’auront signé ou qui auront déposé leurs instruments d’adhésion, ainsi qu’à l’Union internationale des télécommunications, et notifiera à tous ces Gouvernements ainsi qu’à l’Union internationale des télécommunications les signatures, les déclarations au titre du par. b de l’art. XVII de l’Accord, le dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les demandes d’application à titre provisoire, le début de la période de soixante jours visée au par. a de l’art. XVIII de l’Accord, l’entrée en vigueur de l’Accord, les notifications de ratification, d’acceptation ou d’approbation des amendements, l’entrée en vigueur des amendements, les décisions de retrait de l’ITSO, les retraits, ainsi que les décisions de mettre fin à l’application à titre provisoire de l’Accord. La notification du début de la période de soixante jours est faite le premier jour de cette période.
 
-c. A l'entrée en vigueur du présent Accord, le Dépositaire le fait enregistrer celui-ci auprès du Secrétariat des Nations Unies conformément à l’Art. 102 de la Charte des Nations Unies.
+c. À l’entrée en vigueur du présent Accord, le Dépositaire le fait enregistrer celui-ci auprès du Secrétariat des Nations Unies conformément à l’Art. 102 de la Charte des Nations Unies.
 
 #### Art. XXI
 
@@ -380,9 +372,7 @@ c. A l'entrée en vigueur du présent Accord, le Dépositaire le fait enregistre
 
 Le présent Accord reste en vigueur pendant au moins douze ans à partir de la date du transfert du système spatial de l’ITSO à la Société. L’Assemblée des Parties peut mettre fin au présent Accord à compter du douzième anniversaire de la date du transfert du système spatial de l’ITSO à la Société par un vote des Parties en application du par. f de l’art. IX. Une telle décision est considérée comme étant une question de fond.
 
-*En foi de quoi,* les Plénipotentiaires respectifs, réunis à Washington, ayant présenté leurs pleins pouvoirs reconnus en bonne et due forme, ont signé le présent Accord. Fait à Washington le vingtième jour du mois d’août mil neuf cent soixante et onze.
-
-(Suivent les signatures)
+*En foi de quoi,* les Plénipotentiaires respectifs, réunis à Washington, ayant présenté leurs pleins pouvoirs reconnus en bonne et due forme, ont signé le présent Accord. Fait à Washington le vingtième jour du mois d’août mil neuf cent soixante et onze. (Suivent les signatures)
 
 Annexe A
 
@@ -402,7 +392,7 @@ a. Soixante jours au plus tard avant la date d’ouverture de la première sessi
 
 b. Sur la base de la liste mentionnée au par. a du présent article, l’Assemblée des Parties choisit onze personnes en vue de former un groupe d’experts au sein duquel sont choisis les présidents de tribunaux et choisit un suppléant de chacune de ces personnes. Les membres du groupe d’experts et les suppléants assument leurs fonctions pendant la période de temps stipulée au par. a du présent article. Si un membre devient indisponible aux fins de siéger au groupe d’experts, il est remplacé par son suppléant.
 
-c. L’organe exécutif invite, aussitôt que possible après qu’ils ont été choisis les membres du groupe d’experts à se réunir en vue d’élire leur président. Les membres du groupe d’experts peuvent participer aux réunions en personne ou par voie électronique. Pour toute réunion du groupe d’experts, le quorum est atteint lorsque neuf des onze membres sont présents. Le groupe d’experts désigne en son sein le président du groupe qui est élu au scrutin secret à un ou, au besoin, plusieurs tours lorsqu’il a recueilli au moins six voix. Le président du groupe ainsi désigné demeure en fonctions jusqu’au terme de son mandat de membre du groupe d’experts. Les dépenses afférentes à la réunion du groupe d’experts sont considérées comme des dépenses administratives de l'ITSO.
+c. L’organe exécutif invite, aussitôt que possible après qu’ils ont été choisis les membres du groupe d’experts à se réunir en vue d’élire leur président. Les membres du groupe d’experts peuvent participer aux réunions en personne ou par voie électronique. Pour toute réunion du groupe d’experts, le quorum est atteint lorsque neuf des onze membres sont présents. Le groupe d’experts désigne en son sein le président du groupe qui est élu au scrutin secret à un ou, au besoin, plusieurs tours lorsqu’il a recueilli au moins six voix. Le président du groupe ainsi désigné demeure en fonctions jusqu’au terme de son mandat de membre du groupe d’experts. Les dépenses afférentes à la réunion du groupe d’experts sont considérées comme des dépenses administratives de l’ITSO.
 
 d. Si un membre du groupe d’experts et son suppléant deviennent tous deux indisponibles aux fins de siéger au groupe, l’Assemblée des Parties pourvoit aux sièges vacants sur la base de la liste visée au par. a du présent article. Toute personne choisie pour remplacer un membre ou un suppléant qui n’a pu achever son mandat assure les fonctions de ce dernier jusqu’à expiration du mandat de son prédécesseur. Au cas où le siège de président du groupe d’experts devient vacant, les membres dudit groupe y pourvoient par désignation de l’un d’entre eux selon la procédure décrite au par. c du présent article.
 
@@ -428,7 +418,7 @@ a. Dans les soixante jours qui suivent la date de réception des exemplaires du 
 
 b. Au cas où la partie défenderesse n’a pas procédé à cette désignation au cours du délai accordé, le président du groupe d’experts désigne un expert parmi ceux dont les noms ont été soumis à l’organe exécutif conformément au par. a de l’art. 3 de la présente Annexe.
 
-c. Dans les trente jours qui suivent leur désignation, les deux membres du tribunal s’entendent pour choisir, parmi les membres du groupe d’experts constitué conformément à l’art. 3 de la présente Annexe, une troisième personne qui assume les fonctions de président du tribunal. A défaut d’entente dans ce délai, l’un ou l'autre des deux membres désignés peut saisir le président du groupe d’experts, lequel, dans un délai de dix jours, désigne un membre du groupe d’experts, autre que lui-même, pour assumer les fonctions de président du tribunal.
+c. Dans les trente jours qui suivent leur désignation, les deux membres du tribunal s’entendent pour choisir, parmi les membres du groupe d’experts constitué conformément à l’art. 3 de la présente Annexe, une troisième personne qui assume les fonctions de président du tribunal. À défaut d’entente dans ce délai, l’un ou l’autre des deux membres désignés peut saisir le président du groupe d’experts, lequel, dans un délai de dix jours, désigne un membre du groupe d’experts, autre que lui-même, pour assumer les fonctions de président du tribunal.
 
 d. Le tribunal est constitué dès la nomination de son président.
 
@@ -445,7 +435,7 @@ a. Lorsqu’il se produit une vacance au sein du tribunal pour des raisons que l
 
 a. Le tribunal décide de la date et du lieu de ses séances.
 
-b. Les débats ont lieu à huis clos et tout ce qui est présenté au tribunal est confidentiel. Toutefois, peuvent assister aux débats et avoir communication de tous documents et pièces présentés l'ITSO, et les Parties qui sont parties au différend. Lorsque l'ITSO est partie à la procédure, toutes les Parties peuvent y assister et avoir communication de tout ce qui a été présenté.
+b. Les débats ont lieu à huis clos et tout ce qui est présenté au tribunal est confidentiel. Toutefois, peuvent assister aux débats et avoir communication de tous documents et pièces présentés l’ITSO, et les Parties qui sont parties au différend. Lorsque l’ITSO est partie à la procédure, toutes les Parties peuvent y assister et avoir communication de tout ce qui a été présenté.
 
 c. En cas de controverse au sujet de la compétence du tribunal, le tribunal examine cette question en priorité et rend sa décision le plus tôt possible.
 
@@ -457,7 +447,7 @@ f. Le tribunal peut connaître des demandes reconventionnelles découlant direct
 
 g. Si, au cours de la procédure, les parties parviennent à un accord, le tribunal consigne celui-ci sous forme d’une sentence rendue avec le consentement des parties.
 
-h. A tout moment de la procédure, le tribunal peut clore celle-ci s’il décide que le différend dépasse les limites de sa compétence telle que définie à l’art. XVI de l’Accord.
+h. À tout moment de la procédure, le tribunal peut clore celle-ci s’il décide que le différend dépasse les limites de sa compétence telle que définie à l’art. XVI de l’Accord.
 
 i. Les délibérations du tribunal sont secrètes.
 
@@ -473,7 +463,7 @@ Si une partie n’agit pas, l’autre partie peut demander au tribunal de rendre
 
 #### Art. 9
 
-Toute partie non partie à un différend, ou l'ITSO, si elle estime avoir un intérêt appréciable dans le règlement de l'affaire, peut demander au tribunal I’autorisation d’intervenir et de devenir partie additionnelle à l’affaire. Le tribunal fait droit à cette demande s’il estime que le requérant a un intérêt appréciable au règlement de ladite affaire.
+Toute partie non partie à un différend, ou l’ITSO, si elle estime avoir un intérêt appréciable dans le règlement de l’affaire, peut demander au tribunal I’autorisation d’intervenir et de devenir partie additionnelle à l’affaire. Le tribunal fait droit à cette demande s’il estime que le requérant a un intérêt appréciable au règlement de ladite affaire.
 
 #### Art. 10
 
@@ -481,7 +471,7 @@ Le tribunal peut, soit à la demande d’une partie, soit de sa propre initiativ
 
 #### Art. 11
 
-Chaque Partie et l'ITSO fournissent tous les renseignements que le tribunal, soit à la demande d’une partie au différend, soit de sa propre initiative, juge nécessaires au déroulement de la procédure et au règlement du différend.
+Chaque Partie et l’ITSO fournissent tous les renseignements que le tribunal, soit à la demande d’une partie au différend, soit de sa propre initiative, juge nécessaires au déroulement de la procédure et au règlement du différend.
 
 #### Art. 12
 
@@ -489,7 +479,7 @@ Avant de rendre sa sentence, le tribunal peut, au cours de l’examen de l’aff
 
 #### Art. 13
 
-b. La sentence du tribunal, y compris tout règlement à l’amiable entre les parties visé au par. g de l’art. 7 de la présente Annexe, est obligatoire pour toutes les parties, qui doivent s’y conformer de bonne foi. Lorsque l'ITSO est partie à un différend et que le tribunal juge qu’une décision prise par l’un de ses organes est nulle et non avenue parce qu’elle n’est pas autorisée par l'Accord ou parce qu’elle n’est pas conforme à ce dernier, la sentence du tribunal est obligatoire pour toutes les Parties.
+b. La sentence du tribunal, y compris tout règlement à l’amiable entre les parties visé au par. g de l’art. 7 de la présente Annexe, est obligatoire pour toutes les parties, qui doivent s’y conformer de bonne foi. Lorsque l’ITSO est partie à un différend et que le tribunal juge qu’une décision prise par l’un de ses organes est nulle et non avenue parce qu’elle n’est pas autorisée par l’Accord ou parce qu’elle n’est pas conforme à ce dernier, la sentence du tribunal est obligatoire pour toutes les Parties.
 
 c. En cas de désaccord sur la signification ou la portée de la sentence, le tribunal qui l’a rendue l’interprète à la demande de toute partie au différend.
 
@@ -500,12 +490,12 @@ a. La sentence du tribunal est fondée sur:
 
 #### Art. 14
 
-A moins que le tribunal n’en décide autrement, en raison de circonstances particulières à l’affaire, les dépens du tribunal, y compris la rémunération de ses membres, sont répartis de façon égale de part et d’autre. Lorsqu’il y a du même côté plus d’un demandeur ou plus d’un défendeur, le tribunal répartit les dépens entre les demandeurs ou les défendeurs. Lorsque l'ITSO est partie à un différend, les dépens qui lui incombent et qui sont afférents à l’arbitrage sont considérés comme une dépense administrative de l'ITSO.
+À moins que le tribunal n’en décide autrement, en raison de circonstances particulières à l’affaire, les dépens du tribunal, y compris la rémunération de ses membres, sont répartis de façon égale de part et d’autre. Lorsqu’il y a du même côté plus d’un demandeur ou plus d’un défendeur, le tribunal répartit les dépens entre les demandeurs ou les défendeurs. Lorsque l’ITSO est partie à un différend, les dépens qui lui incombent et qui sont afférents à l’arbitrage sont considérés comme une dépense administrative de l’ITSO.
 
-Champ d’application le 5 novembre 2015**[^t-3]**
+Champ d’application le 27 mai 2024[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26 mars</td><td>1973 A</td><td>26 mars</td><td>1973</td></tr>
 <tr><td>Afrique du Sud</td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Algérie</td><td>19 décembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
@@ -548,20 +538,21 @@ Champ d’application le 5 novembre 2015**[^t-3]**
 <tr><td>Croatie</td><td>14 décembre</td><td>1992 A</td><td>14 décembre</td><td>1992</td></tr>
 <tr><td>Cuba</td><td>13 novembre</td><td>2000 A</td><td>13 novembre</td><td>2000</td></tr>
 <tr><td>Danemark</td><td>29 novembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Egypte</td><td>3 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Égypte</td><td>3 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
 <tr><td>El Salvador</td><td>19 janvier</td><td>1977 A</td><td>19 janvier</td><td>1977</td></tr>
-<tr><td>Emirats arabes unis</td><td>12 mai</td><td>1976 A</td><td>12 mai</td><td>1976</td></tr>
-<tr><td>Equateur</td><td>14 mars</td><td>1972</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Émirats arabes unis</td><td>12 mai</td><td>1976 A</td><td>12 mai</td><td>1976</td></tr>
+<tr><td>Équateur</td><td>14 mars</td><td>1972</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Espagne</td><td>30 novembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Estonie</td><td>10 avril</td><td>2007 A</td><td>10 avril</td><td>2007</td></tr>
-<tr><td>Etats-Unis</td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Ethiopie</td><td>13 novembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Eswatini</td><td>18 mai</td><td>1988 A</td><td>18 mai</td><td>1988</td></tr>
+<tr><td>États-Unis</td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Éthiopie</td><td>13 novembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Fidji</td><td>4 mai</td><td>1978 A</td><td>4 mai</td><td>1978</td></tr>
 <tr><td>Finlande</td><td>17 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
 <tr><td>France</td><td>18 septembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Gabon</td><td>20 avril</td><td>1972 Si</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Gambie</td><td>18 juillet</td><td>2001 A</td><td>18 juillet</td><td>2001</td></tr>
-<tr><td>Géorgie</td><td>28 juin</td><td>2001 A</td><td>28 juin</td><td>2001</td></tr>
+<tr><td>Gambie</td><td>13 juillet</td><td>2001 A</td><td>13 juillet</td><td>2001</td></tr>
+<tr><td>Géorgie</td><td>9 novembre</td><td>2000 A</td><td>9 novembre</td><td>2000</td></tr>
 <tr><td>Ghana</td><td>12 décembre</td><td>1973 A</td><td>12 décembre</td><td>1973</td></tr>
 <tr><td>Grèce</td><td>29 novembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Guatemala</td><td>20 décembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
@@ -573,8 +564,8 @@ Champ d’application le 5 novembre 2015**[^t-3]**
 <tr><td>Hongrie</td><td>26 janvier</td><td>1994 A</td><td>26 janvier</td><td>1994</td></tr>
 <tr><td>Inde</td><td>23 décembre</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Indonésie</td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Irak</td><td>6 juin</td><td>1973 A</td><td>6 juin</td><td>1973</td></tr>
 <tr><td>Iran</td><td>12 décembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Iraq</td><td>6 juin</td><td>1973 A</td><td>6 juin</td><td>1973</td></tr>
 <tr><td>Irlande</td><td>18 février</td><td>1972 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Islande</td><td>7 février</td><td>1975</td><td>7 février</td><td>1975</td></tr>
 <tr><td>Israël</td><td>26 septembre</td><td>1972</td><td>12 février</td><td>1973</td></tr>
@@ -618,7 +609,7 @@ Champ d’application le 5 novembre 2015**[^t-3]**
 <tr><td>Panama</td><td>29 mai</td><td>1975 A</td><td>29 mai</td><td>1975</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>24 mars</td><td>1983 A</td><td>24 mars</td><td>1983</td></tr>
 <tr><td>Paraguay</td><td>18 juillet</td><td>1977 A</td><td>18 juillet</td><td>1977</td></tr>
-<tr><td>[tab] Pays-Bas</td><td>13 octobre</td><td>1971</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Pays-Bas</td><td>13 octobre</td><td>1971</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Aruba</td><td>25 mai</td><td>1973</td><td>23 mai</td><td>1973</td></tr>
 <tr><td>Curaçao</td><td>25 mai</td><td>1973</td><td>23 mai</td><td>1973</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>25 mai</td><td>1973</td><td>23 mai</td><td>1973</td></tr>
@@ -643,7 +634,6 @@ Champ d’application le 5 novembre 2015**[^t-3]**
 <tr><td>Sri Lanka</td><td>15 décembre</td><td>1972 A</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Suède</td><td>19 mai</td><td>1972 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Suisse</td><td>27 juillet</td><td>1972</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Swaziland</td><td>18 mai</td><td>1988 A</td><td>18 mai</td><td>1988</td></tr>
 <tr><td>Syrie</td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Tadjikistan</td><td>22 février</td><td>1996 A</td><td>22 février</td><td>1996</td></tr>
 <tr><td>Tanzanie</td><td>9 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
@@ -655,11 +645,11 @@ Champ d’application le 5 novembre 2015**[^t-3]**
 <tr><td>Turquie</td><td>26 septembre</td><td>1974</td><td>26 septembre</td><td>1974</td></tr>
 <tr><td>Uruguay</td><td>7 décembre</td><td>1982 A</td><td>7 décembre</td><td>1982</td></tr>
 <tr><td>Venezuela</td><td>22 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
-<tr><td>Viêt-Nam</td><td>3 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
+<tr><td>Vietnam</td><td>3 janvier</td><td>1973</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Yémen <sup>a</sup></td><td>20 août</td><td>1971 Si</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> novembre</td><td>1972 A</td><td>12 février</td><td>1973</td></tr>
 <tr><td>Zimbabwe</td><td>15 mars</td><td>1989 A</td><td>15 mars</td><td>1989</td></tr>
 <tr><td colspan="5"><sup>a</sup> 22.05.1990: Unification de la République Arabe du Yémen et la République démocratique populaire du Yémen en la République du Yémen.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 813](https://fedlex.data.admin.ch/eli/oc/1973/813_813_814)[2026](https://fedlex.data.admin.ch/eli/oc/1973/2026_2026_2026), [1975 1996](https://fedlex.data.admin.ch/eli/oc/1975/1996_1996_1995), [1976 2862](https://fedlex.data.admin.ch/eli/oc/1976/2862_2862_2862), [1979 1674](https://fedlex.data.admin.ch/eli/oc/1979/1674_1674_1674), [1982 1578](https://fedlex.data.admin.ch/eli/oc/1982/1578_1578_1578), [1985 278](https://fedlex.data.admin.ch/eli/oc/1985/278_278_278), [1989 1163](https://fedlex.data.admin.ch/eli/oc/1989/1163_1163_1163), [1990 1876](https://fedlex.data.admin.ch/eli/oc/1990/1876_1876_1876), **2010** 3609, [2015 5997](https://fedlex.data.admin.ch/eli/oc/2015/932). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1973 2026](https://fedlex.data.admin.ch/eli/oc/1973/2026_2026_2026); [1975 1996](https://fedlex.data.admin.ch/eli/oc/1975/1996_1996_1995); [1976 2862](https://fedlex.data.admin.ch/eli/oc/1976/2862_2862_2862); [1979 1674](https://fedlex.data.admin.ch/eli/oc/1979/1674_1674_1674); [1982 1578](https://fedlex.data.admin.ch/eli/oc/1982/1578_1578_1578); [1985 278](https://fedlex.data.admin.ch/eli/oc/1985/278_278_278); [1989 1163](https://fedlex.data.admin.ch/eli/oc/1989/1163_1163_1163); [1990 1876](https://fedlex.data.admin.ch/eli/oc/1990/1876_1876_1876); [2010 3593](https://fedlex.data.admin.ch/eli/oc/2010/520); [2015 5997](https://fedlex.data.admin.ch/eli/oc/2015/932); [2024 241](https://fedlex.data.admin.ch/eli/oc/2024/241). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
