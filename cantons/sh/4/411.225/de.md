@@ -4,74 +4,86 @@ number: "411.225"
 title: Verordnung über die Beiträge des Kantons an die Sonderschulung
 language: de
 version: 2023-09-01
+corrected: 2024-05-28
 version_adopted: 2023-06-06
 adopted: 2004-12-07
 in_force: 2005-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.225"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/802/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/186/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die Beiträge des Kantons an die Sonderschulung
 
-Vom 07.12.2004 (Stand 01.09.2023)
+vom 7. Dezember 2004
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 81 Abs. 1 des Schulgesetzes vom 27. April 1981,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung findet Anwendung auf die Sonderschulung im Sinne von Art. 15a und 52a des Schulgesetzes.
+<sup>1</sup> Diese Verordnung findet Anwendung auf die Sonderschulung im Sinne von Art. 15a und 52a des Schulgesetzes. <sup>4)</sup>
 
-<sup>2</sup> Schulen, welche von Justiz- oder Kindesschutzbehörden eingewiesene Kinder betreuen, fallen nicht unter diese Verordnung.
+<sup>2</sup> Schulen, welche von Justiz- oder Kindesschutzbehörden eingewiesene Kinder betreuen, fallen nicht unter diese Verordnung. <sup>9)</sup>
 
 #### § 2
 
 **Kostengutsprache, Rekursmöglichkeit**
 
-<sup>1</sup> Die Schulbehörde bzw. Schulleitung beantragt den Status und den Rahmenvorschlag eines Massnahmenpaketes bei der Abteilung Aufsicht Sonderschulung und Therapien, die für die fachliche und formale Überprüfung zuständig ist. Gestützt auf den Entscheid der Abteilung Aufsicht Sonderschulung und Therapien verfügt die Schulbehörde bzw. Schulleitung die Massnahme. Die Abteilung Aufsicht Sonderschulung und Therapien erteilt die Kostengutsprache.
+<sup>1</sup> Die Schulbehörde bzw. Schulleitung beantragt den Status und den Rahmenvorschlag eines Massnahmenpaketes bei der Abteilung Aufsicht Sonderschulung und Therapien, die für die fachliche und formale Überprüfung zuständig ist. Gestützt auf den Entscheid der Abteilung Aufsicht Sonderschulung und Therapien verfügt die Schulbehörde bzw. Schulleitung die Massnahme. Die Abteilung Aufsicht Sonderschulung und Therapien erteilt die Kostengutsprache. <sup>10)</sup>
 
 <sup>2</sup> Ohne Kostengutsprache werden keine Leistungen ausgerichtet.
 
-<sup>3</sup> Lehnt die Abteilung Aufsicht Sonderschulung und Therapien eine Kostengutsprache ganz oder teilweise ab, so kann der Entscheid durch die Erziehungsberechtigten mit Rekurs beim Regierungsrat angefochten werden. Die Rekursfrist beträgt 20 Tage. Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen.
+<sup>3</sup> Lehnt die Abteilung Aufsicht Sonderschulung und Therapien eine Kostengutsprache ganz oder teilweise ab, so kann der Entscheid durch die Erziehungsberechtigten mit Rekurs beim Regierungsrat angefochten werden. Die Rekursfrist beträgt 20 Tage. Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen.<sup>10)</sup>
+
+Amtsblatt 2004, S. 1799.
 
 #### § 3
 
-**Abteilung Aufsicht Sonderschulung und Therapien**
+<sup>4)</sup>
 
-<sup>1</sup> Der Kanton führt die Abteilung Aufsicht Sonderschulung und Therapien.
+**Abteilung Aufsicht Sonderschulung und Therapien 10)**
+
+<sup>1</sup> Der Kanton führt die Abteilung Aufsicht Sonderschulung und Therapien. <sup>10)</sup>
 
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
-- a) die Sicherstellung und Überprüfung der Angebote im sonderpädagogischen Bereich
-- b) die Überprüfung der beantragten Massnahmen
-- c) die Koordination der Kostengutsprachen
-- d) die Finanzierung der Sonderschulung
-- e) die Zusammenarbeit mit den Fachstellen anderer Kantone
+- a) die Sicherstellung und Überprüfung der Angebote im sonderpädagogischen Bereich;
 
-## 2 Beiträge an die Sonderschulung im Kanton Schaffhausen
+- b) die Überprüfung der beantragten Massnahmen;
 
-### 2.1 Beitragsarten und Höhe im Allgemeinen
+- c) die Koordination der Kostengutsprachen;
+
+- d) die Finanzierung der Sonderschulung;
+
+- e) die Zusammenarbeit mit den Fachstellen anderer Kantone.
+
+### II. Beiträge an die Sonderschulung im Kanton Schaffhausen <sup>4)</sup>
+
+- 1\. Beitragsarten und Höhe im Allgemeinen
 
 #### § 4
 
+<sup>4)</sup>
+
 **Grundsatz**
 
-<sup>1</sup> Die Kosten für die von der zuständigen Behörde angeordnete Sonderschulung sowie für weitere Angebote gemäss Leistungsvereinbarung werden vom Kanton getragen, soweit sie nicht durch anderweitige Beiträge gedeckt sind.
+Die Kosten für die von der zuständigen Behörde angeordnete Sonderschulung sowie für weitere Angebote gemäss Leistungsvereinbarung werden vom Kanton getragen, soweit sie nicht durch anderweitige Beiträge gedeckt sind.
 
 #### § 5
 
 **Leistungsvereinbarung**
 
-<sup>1</sup> Das Erziehungsdepartement schliesst mit den Schaffhauser Sonderschulen sowie mit den bewilligten privaten Sonderschulen gemäss Art. 15a des Schulgesetzes und weiteren Institutionen eine Leistungsvereinbarung ab, in der die zu erbringenden Leistungen und deren Abgeltung durch den Kanton geregelt werden. Die Leistungsvereinbarung bedarf der Genehmigung durch den Regierungsrat.
+<sup>1</sup> Das Erziehungsdepartement schliesst mit den Schaffhauser Sonderschulen sowie mit den bewilligten privaten Sonderschulen gemäss Art. 15a des Schulgesetzes und weiteren Institutionen eine Leistungsvereinbarung ab, in der die zu erbringenden Leistungen und deren Abgeltung durch den Kanton geregelt werden. Die Leistungsvereinbarung bedarf der Genehmigung durch den Regierungsrat. <sup>4)</sup>
 
 <sup>2</sup> Die Leistungsvereinbarung umschreibt die Zielgruppe sowie Art, Umfang und Qualität der zu erbringenden Leistungen.
 
@@ -80,6 +92,8 @@ beschliesst:
 <sup>4</sup> Die Leistungsvereinbarung ist entsprechend anzupassen bei neuen oder wesentlich veränderten Verhältnissen oder bei ausserordentlichen Vorkommnissen, die einen wesentlichen Einfluss auf die Berechnung der Nettokosten haben.
 
 #### § 6
+
+<sup>4)</sup>
 
 **Nettokostenpauschale**
 
@@ -93,15 +107,17 @@ beschliesst:
 
 <sup>1</sup> Die Abgeltungsmodalitäten werden in der Leistungsvereinbarung festgehalten.
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>7)</sup>
 
-### 2.2 Anrechenbare Aufwendungen
+- 2\. Anrechenbare Aufwendungen
 
 #### § 8
 
-**Abgeltung der Leistungen**
+<sup>8)</sup>
 
-<sup>1</sup> Für die Abgeltung der einzelnen Leistungen werden nur jene Aufwendungen angerechnet, welche zur Erfüllung der Aufgabe der Sonderschulung notwendig sind und die allgemein üblichen Ansätze nicht übersteigen.
+**Abgeltung der Leistungen 8)**
+
+Für die Abgeltung der einzelnen Leistungen werden nur jene Aufwendungen angerechnet, welche zur Erfüllung der Aufgabe der Sonderschulung notwendig sind und die allgemein üblichen Ansätze nicht übersteigen.
 
 #### § 9
 
@@ -109,23 +125,25 @@ beschliesst:
 
 <sup>1</sup> Für das notwendige Personal sind die tatsächlichen Gehaltsaufwendungen anrechenbar. Höchstens anrechenbar sind jedoch die kantonalen Ansätze.
 
-<sup>2...</sup> …
+<sup>2</sup> ... <sup>2)</sup>
 
 <sup>3</sup> Die Arbeitgeberbeiträge für Sozialversicherungen werden angerechnet, soweit sie die in den öffentlichen Schulen geltenden Ansätze nicht übersteigen.
 
 #### § 10
 
+<sup>4)</sup>
+
 **Raumkosten**
 
-<sup>1</sup> Betriebskosten für in der Leistungsvereinbarung bezeichnete Räumlichkeiten werden als anrechenbar anerkannt, soweit sie marktkonform sind.
+Betriebskosten für in der Leistungsvereinbarung bezeichnete Räumlichkeiten werden als anrechenbar anerkannt, soweit sie marktkonform sind.
 
-### 2.3 Beiträge Dritter
+- 3\. Beiträge Dritter
 
 #### § 11
 
 **Grundsatz**
 
-<sup>1</sup> Die Vereinbarungsinstitutionen sind verpflichtet, die Beiträge Dritter vollständig auszuschöpfen.
+Die Vereinbarungsinstitutionen sind verpflichtet, die Beiträge Dritter vollständig auszuschöpfen.
 
 #### § 12
 
@@ -133,9 +151,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde, in der das Kind üblicherweise die Schulpflicht erfüllen würde, beteiligt sich an den Sonderschulkosten in der Höhe eines Schulgeldes im Sinne von Art. 91 des Schulgesetzes. Das Erziehungsdepartement setzt diesen Beitrag fest.
 
-<sup>2</sup> Die Höhe des Gemeindebeitrages richtet sich grundsätzlich nach dem Schulgeld, das die Stadt Schaffhausen als Kreisschulort den angeschlossenen Gemeinden für Schüler bzw. Schülerinnen in Sonderklassen in Rechnung stellt. Massgebend sind die Durchschnittskosten pro Sonderklassenschüler bzw. Sonderklassenschülerin der Primar- und Orientierungsschule.
+<sup>2</sup> Die Höhe des Gemeindebeitrages richtet sich grundsätzlich nach dem Schulgeld, das die Stadt Schaffhausen als Kreisschulort den angeschlossenen Gemeinden für Schüler bzw. Schülerinnen in Sonderklassen in Rechnung stellt. Massgebend sind die Durchschnittskosten pro Sonderklassenschüler bzw. Sonderklassenschülerin der Primar- und Orientierungsschule. <sup>4)</sup>
 
-<sup>3</sup> Bei punktuell oder umfassend benötigten individuellen sonderpädagogischen Massnahmen im Rahmen der integrativen Sonderschulung kann der Gemeindebeitrag angemessen reduziert werden.
+<sup>3</sup> Bei punktuell oder umfassend benötigten individuellen sonderpädagogischen Massnahmen im Rahmen der integrativen Sonderschulung kann der Gemeindebeitrag angemessen reduziert werden. <sup>5)</sup>
 
 #### § 13
 
@@ -145,13 +163,13 @@ beschliesst:
 
 <sup>2</sup> Entscheiden sich die Eltern bei der Platzierung ihres Kindes für eine teurere Sonderschulung innerhalb oder ausserhalb des Kantons, obwohl ein Platz in einer vom Kanton unterstützten Sonderschule vorhanden wäre, so erbringt der Kanton höchstens die Leistungen, die er bei der Platzierung des Kindes in der letztgenannten Schule erbringen müsste.
 
-### 2.4 Finanzhaushalt, Rechnungsführung
+- 4\. Finanzhaushalt, Rechnungsführung
 
 #### § 14
 
 **Lohnentwicklung**
 
-<sup>1</sup> Die errechneten Nettokosten werden gemäss den jeweiligen Beschlüssen des Regierungsrates über die Verwendung der vom Kantonsrat bewilligten Lohnsumme angepasst.
+Die errechneten Nettokosten werden gemäss den jeweiligen Beschlüssen des Regierungsrates über die Verwendung der vom Kantonsrat bewilligten Lohnsumme angepasst.
 
 #### § 15
 
@@ -189,37 +207,47 @@ beschliesst:
 
 <sup>2</sup> Als Grundlage für die Leistungsvereinbarung haben die Vereinbarungsinstitutionen eine Kostenstellen- und Kostenträgerrechnung zu führen. Als Basis dient der Kontenrahmen für Heimwesen des Verbandes Heime und Institutionen Schweiz (CURAVIVA).
 
-<sup>3</sup> Die Revision der Rechnung hat durch eine vom Erziehungsdepartement anerkannte, unabhängige Revisionsstelle zu erfolgen. Für die Schaffhauser Sonderschulen erfolgt die Wahl der Revisionsstelle durch den Regierungsrat.
+<sup>3</sup> Die Revision der Rechung hat durch eine vom Erziehungsdepartement anerkannte, unabhängige Revisionsstelle zu erfolgen. Für die Schaffhauser Sonderschulen erfolgt die Wahl der Revisionsstelle durch den Regierungsrat.
 
-## 3 Beiträge an Sonderschulen ausserhalb des Kantons Schaffhausen
+### III. Beiträge an Sonderschulen ausserhalb des Kantons Schaffhausen
 
 #### § 19
 
 **Voraussetzungen**
 
-<sup>1</sup> Der Kanton stellt Angebote im Bereich der Sonderschulung, welche im Kanton Schaffhausen nicht abgedeckt werden, durch die Übernahme der Kosten auswärtiger Institutionen sicher.
+<sup>1</sup> Der Kanton stellt Angebote im Bereich der Sonderschulung, welche im Kanton Schaffhausen nicht abgedeckt werden, durch die Übernahme der Kosten auswärtiger Institutionen sicher.[^19-1]
 
-<sup>2</sup> Die Voraussetzungen richten sich nach der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) vom 13. Dezember 2002 bzw. in Fällen, in welchen diese nicht zur Anwendung gelangt, nach spezieller Vereinbarung.
+<sup>2</sup> Die Voraussetzungen richten sich nach der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) vom 13. Dezember 2002 bzw. in Fällen, in welchen diese nicht zur Anwendung gelangt, nach spezieller Vereinbarung.[^19-2]
 
-## 4 Aufsicht
+[^19-1]: Fassung gemäss RRB vom 27. November 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1797).
+[^19-2]: Fassung gemäss RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1841).
+
+### IV. Aufsicht
+
+[^hIVAufsicht-1]: Fassung gemäss RRB vom 27. November 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1797).
 
 #### § 20
 
-**Berichterstattung**
+**Berichterstattung**[^hIVAufsicht-1]
 
-<sup>1</sup> Die Vereinbarungsinstitutionen im Kanton stehen unter der Aufsicht des Kantons gemäss kantonaler Gesetzgebung.
+<sup>1</sup> Die Vereinbarungsinstitutionen im Kanton stehen unter der Aufsicht des Kantons gemäss kantonaler Gesetzgebung.[^20-1]
 
-<sup>2</sup> Die Abteilung Aufsicht Sonderschulung und Therapien überprüft im Rahmen der Berichterstattung über die Umsetzung der Leistungsvereinbarung die erbrachten Leistungen der Vereinbarungsinstitutionen.
+<sup>2</sup> Die Abteilung Aufsicht Sonderschulung und Therapien überprüft im Rahmen der Berichterstattung über die Umsetzung der Leistungsvereinbarung die erbrachten Leistungen der Vereinbarungsinstitutionen.[^20-2]
+
+[^20-1]: Fassung gemäss RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1841).
+[^20-2]: Fassung gemäss RRB vom 6. Juni 2023, in Kraft getreten am 1. September 2023 (Amtsblatt 2023, S.1000).
 
 #### § 21
 
 **Audit**
 
-<sup>1</sup> Das Erziehungsdepartement kann jederzeit mittels Auftrag an Dritte ein Audit in den Vereinbarungsinstitutionen im Kanton durchführen.
+<sup>1</sup> Das Erziehungsdepartement kann jederzeit mittels Auftrag an Dritte ein Audit in den Vereinbarungsinstitutionen im Kanton durchführen.[^21-1]
 
 <sup>2</sup> Die Ergebnisse des Audits werden in einem Bericht festgehalten.
 
-## 5 Schlussbestimmungen
+[^21-1]: Fassung gemäss RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1841).
+
+### V. Schlussbestimmungen
 
 #### § 22
 
@@ -231,6 +259,13 @@ beschliesst:
 
 <sup>3</sup> Die Verordnung über die Leistungen an die Kosten der Sonderschulung vom 21. September 1993 gilt bis zum Zeitpunkt des Zustandekommens einer Leistungsvereinbarung, längstens jedoch bis zum 31. Juli 2005, weiterhin für Sonderschulen, die bis anhin nach Art. 15a des Schulgesetzes Gelder der öffentlichen Hand beanspruchen konnten.
 
+Fussnoten:
+
 [^22-1]: Amtsblatt 2004, S. 1799.
 
-Abl. 2004, S. 1799
+## Weitere Fussnoten
+
+- [2] Aufgehoben durch RRB vom 15. November 2005, in Kraft getreten am 18. November 2005 (Amtsblatt 2005, S. 1562).
+- [5] Eingefügt durch RRB vom 27. November 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1797).
+- [7] Aufgehoben durch RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1841).
+- [9] Fassung gemäss RRB vom 4. Dezember 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1817).
