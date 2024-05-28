@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über das Verbot der Hamas sowie verwandter Organisationen
 document: Vernehmlassungsvorlage
 language: de

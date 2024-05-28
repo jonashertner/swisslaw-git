@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale che vieta Hamas e le organizzazioni associate
 document: Progetto posto in consultazione
 language: it

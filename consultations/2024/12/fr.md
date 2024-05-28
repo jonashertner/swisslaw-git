@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale interdisant le Hamas et les organisations apparentées
 document: Projet mis en consultation
 language: fr
