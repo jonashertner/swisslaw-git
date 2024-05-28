@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Attuazione della legge federale su un approvvigionamento elettrico sicuro con le energie rinnovabili a livello di ordinanza e ulteriori modifiche delle ordinanze interessate
 document: Progetto posto in consultazione-6
 language: it

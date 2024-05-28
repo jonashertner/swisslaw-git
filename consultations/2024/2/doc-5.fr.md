@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Mise en œuvre de la loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables au niveau des ordonnances et autres révisions des ordonnances concernées
 document: Projet mis en consultation-5
 language: fr

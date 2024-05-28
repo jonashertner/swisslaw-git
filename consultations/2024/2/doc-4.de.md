@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung des Bundesgesetzes über eine sichere Stromversorgung mit erneuerbaren Energien auf Verordnungsstufe und weitere Änderungen der betroffenen Verordnungen
 document: Vernehmlassungsvorlage-2
 language: de
