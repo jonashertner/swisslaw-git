@@ -4,24 +4,26 @@ number: "413.511"
 title: Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene
 language: de
 version: 2018-01-01
+corrected: 2024-05-29
 version_adopted: 2017-01-17
 adopted: 1993-04-13
 in_force: 1994-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.511"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/820/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/131/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene
 
-Vom 13.04.1993 (Stand 01.01.2018)
+vom 13. April 1993
 
-Die Kantone Thurgau und Schaffhausen,
+Die Kantone Thurgau und Schaffhausen
 
-beschliessen:
+vereinbaren:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -31,13 +33,17 @@ beschliessen:
 
 <sup>2</sup> Die Maturitätsschule ist eine selbständige öffentlich-rechtliche Anstalt mit Sitz in Frauenfeld.
 
+[^1-1]: Fassung gemäss Vereinbarung vom 26. Oktober 2004, in Kraft getreten am 1. Januar 2005.
+
 #### § 2
 
-**Zweck**
+**Zweck**[^1-1]
 
 <sup>1</sup> Die Maturitätsschule führt Erwachsene zur Maturität und erteilt ihnen nach erfolgreichem Abschluss ein schweizerisch anerkanntes Maturitätszeugnis.
 
-<sup>2</sup> Sie führt einen Kurs zur Vorbereitung von Personen mit einer Berufs- oder Fachmaturität auf die schweizerisch anerkannte Ergänzungsprüfung zur generellen Zulassung für universitäre Hochschulen.
+<sup>2</sup> Sie führt einen Kurs zur Vorbereitung von Personen mit einer Berufs- oder Fachmaturität auf die schweizerisch anerkannte Ergänzungsprüfung zur generellen Zulassung für universitäre Hochschulen.[^2-1]
+
+[^2-1]: Fassung gemäss Beschluss vom 16./17. Januar 2017, in Kraft getreten am 1. Februar 2017 (Amtsblatt 2017, S. 109).
 
 #### § 3
 
@@ -47,11 +53,15 @@ beschliessen:
 
 <sup>2</sup> Bei Bedarf können Kurse auch an weiteren Kantonsschulen geführt werden. Die Bedingungen werden durch die Erziehungsdepartemente der Vereinbarungskantone festgelegt.
 
+Amtsblatt 1993, S. 1033; Rechtsbuch 1964, Nr. 103aa.
+
+[^3-1]: Aufgehoben durch Vereinbarung vom 26. Oktober 2004, in Kraft getreten am 1. Januar 2005.
+
 #### § 4
 
-**…**
+[^3-1]
 
-## 2 Organisation
+### II. Organisation
 
 #### § 5
 
@@ -61,8 +71,9 @@ beschliessen:
 
 <sup>2</sup> Auf eine Amtsdauer von vier Jahren wählen:
 
-- a. die Regierung des Kantons Thurgau fünf Mitglieder, darunter den Präsidenten
-- b. die Regierung des Kantons Schaffhausen zwei Mitglieder
+- a. die Regierung des Kantons Thurgau fünf Mitglieder, darunter den Präsidenten;
+
+- b. die Regierung des Kantons Schaffhausen zwei Mitglieder.
 
 <sup>3</sup> Mit Ausnahme des Präsidenten konstituiert sich die Aufsichtskommission selbst.
 
@@ -74,24 +85,38 @@ beschliessen:
 
 <sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a. Erlass der Reglemente, der Lehrpläne und der Stundentafeln. Beschlüsse über das Maturitätsreglement bedürfen der Genehmigung beider Vereinbarungskantone
-- b. Anstellung des Rektors und des Prorektors
-- c. Festsetzung der Höhe der Besoldung in Anlehnung an die Besoldungsverordnung des Kantons Thurgau
-- d. Aufstellung von Voranschlag und Jahresrechnung
-- e. Festsetzung der Schulgelder
-- f. Beurteilung von Rekursen gegen Entscheide unterer Organe der Schule
-- g. Überwachung der Schulführung durch Schulbesuche
-- h. Bewilligung der zu führenden Klassen
-- i. Regelung des Kurses zur Vorbereitung auf die schweizerisch anerkannte Ergänzungsprüfung für Personen mit einer Berufs- oder Fachmaturität
-- k. Wahl der Experten für die Maturitätsprüfungen
-- l. Abschluss von Verträgen
-- m. Erlass besonderer Disziplinar- und Ordnungsvorschriften für Studierende
+- a. Erlass der Reglemente, der Lehrpläne und der Stundentafeln. Beschlüsse über das Maturitätsreglement bedürfen der Genehmigung beider Vereinbarungskantone;
+
+- b. Anstellung des Rektors und des Prorektors;[^6-1]
+
+- c. Festsetzung der Höhe der Besoldung in Anlehnung an die Besoldungsverordnung des Kantons Thurgau;
+
+- d. Aufstellung von Voranschlag und Jahresrechnung;
+
+- e. Festsetzung der Schulgelder;
+
+- f. Beurteilung von Rekursen gegen Entscheide unterer Organe der Schule;
+
+- g. Überwachung der Schulführung durch Schulbesuche;
+
+- h. Bewilligung der zu führenden Klassen;
+
+- i. Regelung des Kurses zur Vorbereitung auf die schweizerisch anerkannte Ergänzungsprüfung für Personen mit einer Berufs- oder Fachmaturität;[^6-2]
+
+- k. Wahl der Experten für die Maturitätsprüfungen;
+
+- l. Abschluss von Verträgen;
+
+- m. Erlass besonderer Disziplinar- und Ordnungsvorschriften für Studierende.
+
+[^6-1]: Fassung gemäss Vereinbarung vom 26. Oktober 2004, in Kraft getreten am 1. Januar 2005.
+[^6-2]: Fassung gemäss Beschluss vom 16./17. Januar 2017, in Kraft getreten am 1. Februar 2017 (Amtsblatt 2017, S. 109).
 
 #### § 7
 
 **Delegation von Aufgaben**
 
-<sup>1</sup> Die Aufsichtskommission kann einzelne Aufgaben an einen aus ihrer Mitte gebildeten Ausschuss oder an den Präsidenten übertragen.
+Die Aufsichtskommission kann einzelne Aufgaben an einen aus ihrer Mitte gebildeten Ausschuss oder an den Präsidenten übertragen.
 
 #### § 8
 
@@ -109,7 +134,7 @@ beschliessen:
 
 **Aufgaben der Rekurskommission**
 
-<sup>1</sup> Die Rekurskommission beurteilt Rekurse gegen Entscheide der Aufsichtskommission abschliessend.
+Die Rekurskommission beurteilt Rekurse gegen Entscheide der Aufsichtskommission abschliessend.
 
 #### § 10
 
@@ -119,7 +144,7 @@ beschliessen:
 
 <sup>2</sup> Koordinationsstelle ist das Departement für Erziehung und Kultur des Kantons Thurgau.
 
-## 3 Finanzhaushalt
+### III. Finanzhaushalt
 
 #### § 11
 
@@ -127,9 +152,11 @@ beschliessen:
 
 <sup>1</sup> Die Betriebsmittel werden beschafft durch:
 
-- a. Schulgelder
-- b. Gebühren
-- c. Beiträge Dritter und der Vereinbarungskantone
+- a. Schulgelder;
+
+- b. Gebühren;
+
+- c. Beiträge Dritter und der Vereinbarungskantone.
 
 <sup>2</sup> Die Unterrichts- und Büroräume werden durch den Schulortskanton unentgeltlich zur Verfügung gestellt.
 
@@ -139,54 +166,56 @@ beschliessen:
 
 <sup>1</sup> Die beiden Vereinbarungskantone tragen die durch Schulgelder, Gebühren und Beiträge Dritter nicht gedeckten Kosten.
 
-<sup>2</sup> Die Beiträge bemessen sich nach dem Anteil der Studierenden mit stipendienrechtlichem Wohnsitz in den Vereinbarungskantonen. Massgebend ist der Durchschnitt der im Rechnungsjahr beginnenden beiden Semester und der beiden diesen vorausgegangenen Semester.
+<sup>2</sup> Die Beiträge bemessen sich nach dem Anteil der Studierenden mit stipendienrechtlichem[^12-1] Wohnsitz in den Vereinbarungskantonen. Massgebend ist der Durchschnitt der im Rechnungsjahr beginnenden beiden Semester und der beiden diesen vorausgegangenen Semester.
+
+[^12-1]: Fassung gemäss Beschluss vom 16./17. Januar 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 109)
 
 #### § 13
 
 **Voranschlag, Jahresrechnung**
 
-<sup>1</sup> Voranschlag und Jahresrechnung bedürfen der Zustimmung der Regierungen beider Vereinbarungskantone. Ohne Gegenbericht innert einer Frist von sechs Wochen nach Vorlage von Voranschlag und Jahresrechnung gelten diese als genehmigt.
+Voranschlag und Jahresrechnung bedürfen der Zustimmung der Regierungen beider Vereinbarungskantone. Ohne Gegenbericht innert einer Frist von sechs Wochen nach Vorlage von Voranschlag und Jahresrechnung gelten diese als genehmigt.
 
 #### § 14
 
 **Finanzkontrolle**
 
-<sup>1</sup> Die Kontrolle der Rechnung erfolgt durch die Finanzkontrolle des Kantons Thurgau.
+Die Kontrolle der Rechnung erfolgt durch die Finanzkontrolle des Kantons Thurgau.
 
-## 4 Haftung und Verantwortlichkeit
+### IV. Haftung und Verantwortlichkeit
 
 #### § 15
 
 **Grundsatz**
 
-<sup>1</sup> Die Haftung der Maturitätsschule und die vermögensrechtliche und disziplinarische Verantwortlichkeit der Organe, der Lehrer und des weiteren Personals richten sich nach dem Verantwortlichkeitsgesetz des Kantons Thurgau.
+Die Haftung der Maturitätsschule und die vermögensrechtliche und disziplinarische Verantwortlichkeit der Organe, der Lehrer und des weiteren Personals richten sich nach dem Verantwortlichkeitsgesetz des Kantons Thurgau.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### § 16
 
 **Verfahrensrecht**
 
-<sup>1</sup> Das Rekursverfahren richtet sich nach den Vorschriften über die Verwaltungsrechtspflege des Kantons Thurgau.
+Das Rekursverfahren richtet sich nach den Vorschriften über die Verwaltungsrechtspflege des Kantons Thurgau.
 
 #### § 17
 
 **Vollstreckbarkeit**
 
-<sup>1</sup> Die auf Geldzahlung oder Sicherheitsleistung gerichteten rechtskräftigen Entscheide der Organe der Maturitätsschule stehen hinsichtlich Rechtsöffnung vollstreckbaren gerichtlichen Urteilen gleich.
+Die auf Geldzahlung oder Sicherheitsleistung gerichteten rechtskräftigen Entscheide der Organe der Maturitätsschule stehen hinsichtlich Rechtsöffnung vollstreckbaren gerichtlichen Urteilen gleich.
 
 #### § 18
 
 **Kündigung**
 
-<sup>1</sup> Die Regierung eines Vereinbarungskantons kann die Vereinbarung unter Beachtung einer Frist von drei Jahren auf Ende eines Schuljahres kündigen.
+Die Regierung eines Vereinbarungskantons kann die Vereinbarung unter Beachtung einer Frist von drei Jahren auf Ende eines Schuljahres kündigen.
 
 #### § 19
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Vereinbarung tritt auf den 1. Januar 1994 in Kraft[^19-1].
+Die Vereinbarung tritt auf den 1. Januar 1994 in Kraft[^19-1].
 
-[^19-1]: Beitritt mit Dekret des Grossen Rates vom 20. September 1993, Amtsblatt 1993, S. 1031.
+Fussnoten:
 
-Abl. 1993, S. 1033
+[^19-1]: Veröffentlicht im Amtsblatt 1993, S. 1033.
