@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convention du 7 décembre 1944 relative à l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: fr
-version: 2023-11-02
+version: 2024-05-29
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification déposés par la Suisse le 6 février 1947
 
 Entrée en vigueur pour la Suisse le 4 avril 1947
 
-(État le 2 novembre 2023)
+(État le 29 mai 2024)
 
 [^t-1]: Version consolidée ([RO 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 [^t-2]: RO **63** 1377
@@ -156,9 +156,9 @@ Chaque État contractant convient de prendre des mesures efficaces pour préveni
 
 Tout aéroport situé dans un État contractant et ouvert aux aéronefs de cet État aux fins d’usage public est aussi, sous réserve des dispositions de l’art. 68, ouvert dans des conditions uniformes aux aéronefs de tous les autres États contractants. De même, des conditions uniformes s’appliquent à l’utilisation, par les aéronefs de chaque État contractant, de toutes installations et tous services de navigation aérienne, y compris les services radioélectriques et météorologiques, mis en place aux fins d’usage public pour la sécurité et la rapidité de la navigation aérienne.
 
-Les redevances qu’un État contractant peut imposer ou permettre d’imposer pour l’utilisation desdits aéroports et installations et services de navigation aérienne par les aéronefs de tout autre État contractant ne doivent pas;
-
 Toutes ces redevances sont publiées et communiquées à l’Organisation de l’Aviation civile internationale, étant entendu que, sur représentation d’un État contractant intéressé, les redevances imposées pour l’utilisation des aéroports et autres installations et services sont soumises à l’examen du Conseil, qui fait rapport et formule des recommandations à ce sujet à l’attention de l’État ou des États intéressés. Aucun État contractant ne doit imposer de droits, taxes ou autres redevances uniquement pour le droit de transit, d’entrée ou de sortie de son territoire de tout aéronef d’un État contractant, ou de personnes ou biens se trouvant à bord.
+
+Les redevances qu’un État contractant peut imposer ou permettre d’imposer pour l’utilisation desdits aéroports et installations et services de navigation aérienne par les aéronefs de tout autre État contractant ne doivent pas:
 
 - a) Pour les aéronefs qui n’assurent pas de services aériens internationaux réguliers, être supérieures aux redevances qui seraient payées par ses aéronefs nationaux de même classe assurant des services similaires;
 - b) Pour les aéronefs qui assurent des services aériens internationaux réguliers, être supérieures aux redevances qui seraient payées par ses aéronefs nationaux assurant des services internationaux similaires.
@@ -820,7 +820,7 @@ Les États autres que ceux auxquels s’appliquent les art. 91 et 92 a) peuvent,
 
 #### Art. 96
 
-**Aux fins de la présente Convention**
+Aux fins de la présente Convention, il faut entendre par:
 
 - a) «Service aérien» signifie tout service aérien régulier assuré par aéronef pour le transport public de passagers, de courrier ou de marchandises;
 - b) «Service aérien international» signifie un service aérien qui traverse l’espace aérien au‑dessus du territoire de deux ou plusieurs États;
@@ -1029,13 +1029,13 @@ Dernier amendement: –
 
 [^t-5]: Lien vers les textes des annexes et de leurs amendements: [www.bazl.admin.ch &gt; Thèmes &gt; Bases légales &gt; Annexes à la Convention de l’OACI](https://www.bazl.admin.ch/bazl/fr/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
 
-Champ d’application le 18 juin 2019[^t-6]
+Champ d’application le 29 mai 2024[^t-6]
 
 <table>
-<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>4 avril</td><td>1947</td><td>4 mai</td><td>1947</td></tr>
 <tr><td>Afrique du Sud</td><td>1<sup>er</sup> mars</td><td>1947</td><td>4 avril</td><td>1947</td></tr>
-<tr><td>Albanie</td><td>28 mars</td><td>1991</td><td>27 avril</td><td>1991</td></tr>
+<tr><td>Albanie</td><td>28 mars</td><td>1991 A</td><td>27 avril</td><td>1991</td></tr>
 <tr><td>Algérie</td><td>7 mai</td><td>1963 A</td><td>6 juin</td><td>1963</td></tr>
 <tr><td>Allemagne</td><td>9 mai</td><td>1956 A</td><td>8 juin</td><td>1956</td></tr>
 <tr><td>Andorre</td><td>26 janvier</td><td>2001 A</td><td>25 février</td><td>2001</td></tr>
@@ -1051,7 +1051,7 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Bahreïn</td><td>20 août</td><td>1971 A</td><td>19 septembre</td><td>1971</td></tr>
 <tr><td>Bangladesh</td><td>22 décembre</td><td>1972 A</td><td>21 janvier</td><td>1973</td></tr>
 <tr><td>Barbade</td><td>21 mars</td><td>1967 A</td><td>20 avril</td><td>1967</td></tr>
-<tr><td>Bélarus</td><td>4 juin</td><td>1993</td><td>4 juillet</td><td>1993</td></tr>
+<tr><td>Bélarus</td><td>4 juin</td><td>1993 A</td><td>4 juillet</td><td>1993</td></tr>
 <tr><td>Belgique</td><td>5 mai</td><td>1947</td><td>4 juin</td><td>1947</td></tr>
 <tr><td>Belize</td><td>7 décembre</td><td>1990 A</td><td>6 janvier</td><td>1991</td></tr>
 <tr><td>Bénin</td><td>29 mai</td><td>1961 A</td><td>28 juin</td><td>1961</td></tr>
@@ -1069,7 +1069,7 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Canada</td><td>13 février</td><td>1946</td><td>4 avril</td><td>1947</td></tr>
 <tr><td>Cap-Vert</td><td>19 août</td><td>1976 A</td><td>18 septembre</td><td>1976</td></tr>
 <tr><td>Chili</td><td>11 mars</td><td>1947</td><td>10 avril</td><td>1947</td></tr>
-<tr><td>Chine</td><td>20 février</td><td>1946</td><td>4 avril</td><td>1947</td></tr>
+<tr><td>Chine\*</td><td>20 février</td><td>1946</td><td>4 avril</td><td>1947</td></tr>
 <tr><td>[tab] Hong Kong\* <sup>a</sup></td><td>3 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>[tab] Macao\* <sup>b</sup></td><td>6 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>17 janvier</td><td>1961 A</td><td>16 février</td><td>1961</td></tr>
@@ -1113,7 +1113,7 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Haïti</td><td>25 mars</td><td>1948</td><td>24 avril</td><td>1948</td></tr>
 <tr><td>Honduras</td><td>7 mai</td><td>1953</td><td>6 juin</td><td>1953</td></tr>
 <tr><td>Hongrie</td><td>30 septembre</td><td>1969 A</td><td>30 octobre</td><td>1969</td></tr>
-<tr><td>Îles Cook</td><td>29 août</td><td>2005 A</td><td>28 septembre</td><td>2005</td></tr>
+<tr><td>Îles Cook</td><td>20 août</td><td>1986 A</td><td>19 septembre</td><td>1986</td></tr>
 <tr><td>Îles Marshall</td><td>18 mars</td><td>1988 A</td><td>17 avril</td><td>1988</td></tr>
 <tr><td>Inde</td><td>1<sup>er</sup> mars</td><td>1947</td><td>4 avril</td><td>1947</td></tr>
 <tr><td>Indonésie</td><td>27 avril</td><td>1950 A</td><td>27 mai</td><td>1950</td></tr>
@@ -1128,7 +1128,7 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Jordanie</td><td>18 mars</td><td>1947 A</td><td>17 avril</td><td>1947</td></tr>
 <tr><td>Kazakhstan</td><td>21 août</td><td>1992 A</td><td>20 septembre</td><td>1992</td></tr>
 <tr><td>Kenya</td><td>1<sup>er</sup> mai</td><td>1964 A</td><td>31 mai</td><td>1964</td></tr>
-<tr><td>Kirghizistan</td><td>25 février</td><td>1993</td><td>27 mars</td><td>1993</td></tr>
+<tr><td>Kirghizistan</td><td>25 février</td><td>1993 A</td><td>27 mars</td><td>1993</td></tr>
 <tr><td>Kiribati</td><td>14 avril</td><td>1981 A</td><td>14 mai</td><td>1981</td></tr>
 <tr><td>Koweït</td><td>18 mai</td><td>1960 A</td><td>17 juin</td><td>1960</td></tr>
 <tr><td>Laos</td><td>13 juin</td><td>1955 A</td><td>13 juillet</td><td>1955</td></tr>
@@ -1164,8 +1164,7 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Niger</td><td>29 mai</td><td>1961 A</td><td>28 juin</td><td>1961</td></tr>
 <tr><td>Nigéria</td><td>14 novembre</td><td>1960 A</td><td>14 décembre</td><td>1960</td></tr>
 <tr><td>Norvège</td><td>5 mai</td><td>1947</td><td>4 juin</td><td>1947</td></tr>
-<tr><td>Nouvelle-Zélande\*</td><td>7 mars</td><td>1947</td><td>6 avril</td><td>1947</td></tr>
-<tr><td>[tab] Îles Cook</td><td>20 août</td><td>1986 A</td><td>19 septembre</td><td>1986</td></tr>
+<tr><td>Nouvelle-Zélande</td><td>7 mars</td><td>1947</td><td>6 avril</td><td>1947</td></tr>
 <tr><td>Oman</td><td>24 janvier</td><td>1973 A</td><td>23 février</td><td>1973</td></tr>
 <tr><td>Ouganda</td><td>10 avril</td><td>1967 A</td><td>10 mai</td><td>1967</td></tr>
 <tr><td>Ouzbékistan</td><td>13 octobre</td><td>1992 A</td><td>12 novembre</td><td>1992</td></tr>
@@ -1186,9 +1185,9 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Qatar</td><td>5 septembre</td><td>1971 A</td><td>5 octobre</td><td>1971</td></tr>
 <tr><td>République centrafricaine</td><td>28 juin</td><td>1961 A</td><td>28 juillet</td><td>1961</td></tr>
 <tr><td>République dominicaine</td><td>25 janvier</td><td>1946</td><td>4 avril</td><td>1947</td></tr>
-<tr><td>République tchèque<sup>c</sup></td><td>4 mars</td><td>1993 A</td><td>3 avril</td><td>1993</td></tr>
+<tr><td>République tchèque</td><td>4 mars</td><td>1993 S</td><td>3 avril</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>30 avril</td><td>1965 A</td><td>30 mai</td><td>1965</td></tr>
-<tr><td>Royaume-Uni</td><td>1<sup>er</sup> mars</td><td>1947</td><td>4 avril</td><td>1947</td></tr>
+<tr><td>Royaume-Uni\*</td><td>1<sup>er</sup> mars</td><td>1947</td><td>4 avril</td><td>1947</td></tr>
 <tr><td>Russie</td><td>15 octobre</td><td>1970 A</td><td>14 novembre</td><td>1970</td></tr>
 <tr><td>Rwanda</td><td>3 février</td><td>1964 A</td><td>4 mars</td><td>1964</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>21 mai</td><td>2002 A</td><td>20 juin</td><td>2002</td></tr>
@@ -1199,11 +1198,11 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Samoa</td><td>21 novembre</td><td>1996 A</td><td>21 décembre</td><td>1996</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>28 février</td><td>1977 A</td><td>30 mars</td><td>1977</td></tr>
 <tr><td>Sénégal</td><td>11 novembre</td><td>1960 A</td><td>11 décembre</td><td>1960</td></tr>
-<tr><td>Serbie</td><td>14 décembre</td><td>2000</td><td>13 janvier</td><td>2001</td></tr>
+<tr><td>Serbie</td><td>14 décembre</td><td>2000 A</td><td>13 janvier</td><td>2001</td></tr>
 <tr><td>Seychelles</td><td>25 avril</td><td>1977 A</td><td>25 mai</td><td>1977</td></tr>
 <tr><td>Sierra Leone</td><td>22 novembre</td><td>1961 A</td><td>22 décembre</td><td>1961</td></tr>
 <tr><td>Singapour</td><td>20 mai</td><td>1966 A</td><td>19 juin</td><td>1966</td></tr>
-<tr><td>Slovaquie</td><td>15 mars</td><td>1993 A</td><td>14 avril</td><td>1993</td></tr>
+<tr><td>Slovaquie</td><td>15 mars</td><td>1993 S</td><td>14 avril</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>9 avril</td><td>1992 A</td><td>9 mai</td><td>1992</td></tr>
 <tr><td>Somalie</td><td>2 mars</td><td>1964 A</td><td>1<sup>er</sup> avril</td><td>1964</td></tr>
 <tr><td>Soudan</td><td>29 juin</td><td>1956 A</td><td>29 juillet</td><td>1956</td></tr>
@@ -1233,10 +1232,10 @@ Champ d’application le 18 juin 2019[^t-6]
 <tr><td>Yémen</td><td>17 avril</td><td>1964 A</td><td>17 mai</td><td>1964</td></tr>
 <tr><td>Zambie</td><td>30 octobre</td><td>1964 A</td><td>29 novembre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>11 février</td><td>1981 A</td><td>13 mars</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique, dépositaire de cette convention: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> Du 4 avril 1947 au 30 juin 1997, la convention était applicable à Hong Kong dû à son appartenance au territoire du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> 1<sup>er</sup> avril 1947: Entrée en vigueur. En vertu d’une déclaration de la République populaire de Chine du 8 déc. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique, dépositaire de cette convention: [www.state.gov/convention-on-international-civil-aviation-chicago](https://www.state.gov/convention-on-international-civil-aviation-chicago), ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 avril 1947 au 30 juin 1997, la convention était applicable à Hong Kong dû à son appartenance au territoire du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> 1<sup>er</sup> avril 1947: Entrée en vigueur. En vertu d’une déclaration de la République populaire de Chine du 8 déc. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-6]: RO **1971** 1300; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-6]: [RO 1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443); [2024 244](https://fedlex.data.admin.ch/eli/oc/2024/244)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

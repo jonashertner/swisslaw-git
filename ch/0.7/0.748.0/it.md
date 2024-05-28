@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convenzione del 7 dicembre 1944 relativa all'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: it
-version: 2023-11-02
+version: 2024-05-29
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Traduzione[^t-1]
 
 Conchiusa a Chicago il 7 dicembre 1944 Approvata dall’Assemblea federale il 13 dicembre 1946 Ratificazione depositata dalla Svizzera il 6 febbraio 1947 Entrata in vigore per la Svizzera il 4 aprile 1947
 
-(Stato 2 novembre 2023)
+(Stato 29 maggio 2024)
 
 [^t-1]: CS **13** 569; ed. franc. FF **1946** III 583 Versione consolidata (RU **1971** 1296).
 
@@ -380,8 +380,7 @@ L’Organizzazione ha per scopi e obiettivi di elaborare i principi e la tecnica
 - a) garantire lo sviluppo ordinato e sicuro dell’aviazione civile internazionale nel mondo intero;
 - b) promuovere le tecniche di costruzione e di utilizzazione degli aeromobili a scopi pacifici;
 - c) incoraggiare lo sviluppo delle aviolinee, degli aeroporti, degli impianti e dei servizi di navigazione aerea destinati all’aviazione civile internazionale;
-- d) mettere a disposizione dei popoli del mondo trasporti aerei sicuri,
-- regolari, efficaci ed economici di cui hanno bisogno;
+- d) mettere a disposizione dei popoli del mondo trasporti aerei sicuri, regolari, efficaci ed economici di cui hanno bisogno;
 - e) evitare lo sperpero economico derivante da una smodata concorrenza;
 - f) garantire il pieno rispetto dei diritti degli Stati contraenti e un’equa possibilità, per tutti questi Stati, di accedere all’esercizio delle imprese di trasporti aerei internazionali;
 - g) evitare qualsiasi discriminazione tra Stati contraenti;
@@ -435,7 +434,7 @@ I poteri e gli obblighi dell’Assemblea sono i seguenti:
 - g) adire il Consiglio, le sottocommissioni e tutti gli altri organi per ogni questione di sua competenza che stimasse opportuno di deferire loro;
 - h) delegare al Consiglio i poteri e l’autorità necessari od utili all’esercizio delle funzioni dell’Organizzazione, e revocare o modificare in qualsiasi momento tali delegazioni di potere;
 - i) far eseguire le disposizioni risultanti dal Capo XIII;
-- esaminare tutte le proposte intese a modificare o ad emendare le disposizioni della presente Convenzione e, in caso di approvazione, raccomandarle agli Stati contraenti conformemente alle disposizioni del Capo XXI;
+- j) esaminare tutte le proposte intese a modificare o ad emendare le disposizioni della presente Convenzione e, in caso di approvazione, raccomandarle agli Stati contraenti conformemente alle disposizioni del Capo XXI;
 - k) trattare tutte le questioni di competenza dell’Organizzazione, di cui il Consiglio non è espressamente incaricato.
 
 [^49-1]: Emendato dal Prot. del 14 giu. 1954, approvato dall’AF il 12 mar. 1956, in vigore dal 12 dic. 1956 ([RU 1957 216](https://fedlex.data.admin.ch/eli/oc/1957/202_206_216); FF **1955** II 499 ediz. franc.; BBl **1955** II 495 ediz. ted.)
@@ -1021,10 +1020,10 @@ Ultimo emendamento: –
 
 [^t-4]: Link al testo degli allegati e degli emendamenti: [www.bazl.admin.ch &gt; Temi &gt; Basi legali &gt; Allegati della Convenzione dell’OACI](https://www.bazl.admin.ch/bazl/it/home/themen/basi-legali/allegati-della-convenzione-dell-organizzazione-dell-aviazione-ci.html).
 
-Campo d’applicazione il 18 giugno 2019[^t-5]
+Campo d’applicazione il 29 maggio 2024[^t-5]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>4 aprile</td><td>1947</td><td>4 maggio</td><td>1947</td></tr>
 <tr><td>Albania</td><td>28 marzo</td><td>1991 A</td><td>27 aprile</td><td>1991</td></tr>
 <tr><td>Algeria</td><td>7 maggio</td><td>1963 A</td><td>6 giugno</td><td>1963</td></tr>
@@ -1058,12 +1057,11 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Camerun</td><td>15 gennaio</td><td>1960 A</td><td>14 febbraio</td><td>1960</td></tr>
 <tr><td>Canada</td><td>13 febbraio</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Capo Verde</td><td>19 agosto</td><td>1976 A</td><td>18 settembre</td><td>1976</td></tr>
-<tr><td>Ceca, Repubblica</td><td>4 marzo</td><td>1993 A</td><td>3 aprile</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>3 luglio</td><td>1962 A</td><td>2 agosto</td><td>1962</td></tr>
 <tr><td>Cile</td><td>11 marzo</td><td>1947</td><td>10 aprile</td><td>1947</td></tr>
 <tr><td>Cina\*</td><td>20 febbraio</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
-<tr><td>Hong Kong <sup>a</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td>Macao <sup>b</sup></td><td>6 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Hong Kong <sup>a</sup> \*</td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup> \*</td><td>6 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>17 gennaio</td><td>1961 A</td><td>16 febbraio</td><td>1961</td></tr>
 <tr><td>Colombia</td><td>31 ottobre</td><td>1947</td><td>30 novembre</td><td>1947</td></tr>
 <tr><td>Comore</td><td>15 gennaio</td><td>1985 A</td><td>14 febbraio</td><td>1985</td></tr>
@@ -1114,7 +1112,7 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Iraq</td><td>2 giugno</td><td>1947</td><td>2 luglio</td><td>1947</td></tr>
 <tr><td>Irlanda</td><td>31 ottobre</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Islanda</td><td>21 marzo</td><td>1947</td><td>20 aprile</td><td>1947</td></tr>
-<tr><td>Isole Cook</td><td>29 agosto</td><td>2005 A</td><td>28 settembre</td><td>2005</td></tr>
+<tr><td>Isole Cook</td><td>20 agosto</td><td>1986 A</td><td>19 settembre</td><td>1986</td></tr>
 <tr><td>Isole Marshall</td><td>18 marzo</td><td>1988 A</td><td>17 aprile</td><td>1988</td></tr>
 <tr><td>Israele</td><td>24 maggio</td><td>1949 A</td><td>23 giugno</td><td>1949</td></tr>
 <tr><td>Italia</td><td>31 ottobre</td><td>1947 A</td><td>30 novembre</td><td>1947</td></tr>
@@ -1156,7 +1154,7 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Niger</td><td>29 maggio</td><td>1961 A</td><td>28 giugno</td><td>1961</td></tr>
 <tr><td>Nigeria</td><td>14 novembre</td><td>1960 A</td><td>14 dicembre</td><td>1960</td></tr>
 <tr><td>Norvegia</td><td>5 maggio</td><td>1947</td><td>4 giugno</td><td>1947</td></tr>
-<tr><td>Nuova Zelanda<sup>\*</sup></td><td>7 marzo</td><td>1947</td><td>6 aprile</td><td>1947</td></tr>
+<tr><td>Nuova Zelanda</td><td>7 marzo</td><td>1947</td><td>6 aprile</td><td>1947</td></tr>
 <tr><td>Oman</td><td>24 gennaio</td><td>1973 A</td><td>23 febbraio</td><td>1973</td></tr>
 <tr><td>Paesi Bassi</td><td>26 marzo</td><td>1947</td><td>25 aprile</td><td>1947</td></tr>
 <tr><td>Aruba</td><td>1° gennaio</td><td>1986</td><td>1° gennaio</td><td>1986</td></tr>
@@ -1165,15 +1163,16 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Sint Maarten</td><td>1° ottobre</td><td>2010</td><td>1° ottobre</td><td>2010</td></tr>
 <tr><td>Pakistan</td><td>6 novembre</td><td>1947 A</td><td>6 dicembre</td><td>1947</td></tr>
 <tr><td>Palau</td><td>4 ottobre</td><td>1995 A</td><td>3 novembre</td><td>1995</td></tr>
-<tr><td>Panama<sup>\*</sup></td><td>18 gennaio</td><td>1960 A</td><td>17 febbraio</td><td>1960</td></tr>
+<tr><td>Panama\*</td><td>18 gennaio</td><td>1960 A</td><td>17 febbraio</td><td>1960</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>15 dicembre</td><td>1975 A</td><td>14 gennaio</td><td>1976</td></tr>
 <tr><td>Paraguay</td><td>21 gennaio</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Perù</td><td>8 aprile</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Polonia</td><td>6 aprile</td><td>1945</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Portogallo</td><td>27 febbraio</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Qatar</td><td>5 settembre</td><td>1971 A</td><td>5 ottobre</td><td>1971</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>1<sup>o</sup> marzo</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
-<tr><td>Rep. Centrafricana</td><td>28 giugno</td><td>1961 A</td><td>28 luglio</td><td>1961</td></tr>
+<tr><td>Regno Unito\*</td><td>1<sup>o</sup> marzo</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
+<tr><td>Repubblica Ceca</td><td>4 marzo</td><td>1993 S</td><td>3 aprile</td><td>1993</td></tr>
+<tr><td>Repepubblica Centrafricana</td><td>28 giugno</td><td>1961 A</td><td>28 luglio</td><td>1961</td></tr>
 <tr><td>Romania</td><td>30 aprile</td><td>1965 A</td><td>30 maggio</td><td>1965</td></tr>
 <tr><td>Ruanda</td><td>3 febbraio</td><td>1964 A</td><td>4 marzo</td><td>1964</td></tr>
 <tr><td>Russia</td><td>15 ottobre</td><td>1970 A</td><td>14 novembre</td><td>1970</td></tr>
@@ -1186,11 +1185,11 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>São Tomé e Príncipe</td><td>28 febbraio</td><td>1977 A</td><td>30 marzo</td><td>1977</td></tr>
 <tr><td>Seicelle</td><td>25 aprile</td><td>1977 A</td><td>25 maggio</td><td>1977</td></tr>
 <tr><td>Senegal</td><td>11 novembre</td><td>1960 A</td><td>11 dicembre</td><td>1960</td></tr>
-<tr><td>Serbia</td><td>14 dicembre</td><td>2000</td><td>13 gennaio</td><td>2001</td></tr>
+<tr><td>Serbia</td><td>14 dicembre</td><td>2000 A</td><td>13 gennaio</td><td>2001</td></tr>
 <tr><td>Sierra Leone</td><td>22 novembre</td><td>1961 A</td><td>22 dicembre</td><td>1961</td></tr>
 <tr><td>Singapore</td><td>20 maggio</td><td>1966 A</td><td>19 giugno</td><td>1966</td></tr>
 <tr><td>Siria</td><td>21 dicembre</td><td>1949</td><td>20 gennaio</td><td>1950</td></tr>
-<tr><td>Slovacchia</td><td>15 marzo</td><td>1993 A</td><td>14 aprile</td><td>1993</td></tr>
+<tr><td>Slovacchia</td><td>15 marzo</td><td>1993 S</td><td>14 aprile</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>9 aprile</td><td>1992 A</td><td>9 maggio</td><td>1992</td></tr>
 <tr><td>Somalia</td><td>2 marzo</td><td>1964 A</td><td>1° aprile</td><td>1964</td></tr>
 <tr><td>Spagna</td><td>5 marzo</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
@@ -1201,7 +1200,7 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Sudan del Sud</td><td>11 ottobre</td><td>2011 A</td><td>10 novembre</td><td>2011</td></tr>
 <tr><td>Suriname</td><td>5 marzo</td><td>1976 A</td><td>4 aprile</td><td>1976</td></tr>
 <tr><td>Svezia</td><td>7 novembre</td><td>1946</td><td>4 aprile</td><td>1947</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>6 febbraio</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
+<tr><td>Svizzera\*</td><td>6 febbraio</td><td>1947</td><td>4 aprile</td><td>1947</td></tr>
 <tr><td>Tagikistan</td><td>3 settembre</td><td>1993 A</td><td>3 ottobre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>23 aprile</td><td>1962 A</td><td>23 maggio</td><td>1962</td></tr>
 <tr><td>Thailandia</td><td>4 aprile</td><td>1947</td><td>4 maggio</td><td>1947</td></tr>
@@ -1224,12 +1223,12 @@ Campo d’applicazione il 18 giugno 2019[^t-5]
 <tr><td>Yemen</td><td>17 aprile</td><td>1964 A</td><td>17 maggio</td><td>1964</td></tr>
 <tr><td>Zambia</td><td>30 ottobre</td><td>1964 A</td><td>29 novembre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>11 febbraio</td><td>1981 A</td><td>13 marzo</td><td>1981</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: [www.state.gov](http://www.state.gov) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: [www.state.gov/convention-on-international-civil-aviation-chicago](https://www.state.gov/convention-on-international-civil-aviation-chicago), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 4 apr. 1947 al 30 giu. 1997, la Conv. era applicabile a Hong Kong che faceva parte del territorio del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997, dal 1° lug. 1997 la Conv. è applicabile anche alla RAS Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese dell’8 dic. 1999, dal 20 dic. 1999 la Conv. è applicabile alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-5]: RU **1971** 1299; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-5]: [RU 1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443); [2024 243](https://fedlex.data.admin.ch/eli/oc/2024/243). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

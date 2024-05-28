@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: de
-version: 2023-11-02
+version: 2024-05-29
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Februar 1947
 
 In Kraft getreten für die Schweiz am 4. April 1947
 
-(Stand am 2. November 2023)
+(Stand am 29. Mai 2024)
 
 [^t-1]: Konsolidierte Version ([AS 1971 1301](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
@@ -241,7 +241,7 @@ Bei einem Unfall, der dem Luftfahrzeug eines Vertragsstaates im Hoheitsgebiet ei
 - b) Die Bestimmungen des Absatzes a) dieses Artikels finden auch auf die Lagerung von Ersatzteilen und Ersatzausrüstung für das Luftfahrzeug sowie auf das Recht Anwendung, diese bei Instandsetzung eines Luftfahrzeuges eines Vertragsstaates im Hoheitsgebiet eines anderen Vertragsstaates zu verwenden und einzubauen, vorausgesetzt, dass dieser gelagerte patentierte Teil oder Ausrüstungsgegenstand weder in dem Vertragsstaat, in den das Luftfahrzeug eingeflogen ist, verkauft oder abgegeben, noch aus diesem Staat zu gewerblichen Zwecken ausgeführt wird.
 - c) Die Vergünstigungen dieses Artikels gelten nur für die Vertragsstaaten dieses Übereinkommens, die entweder 1) Parteien der internationalen Übereinkunft zum Schutze des gewerblichen Eigentums und deren Änderungen[^27-1] sind, oder 2) Patentgesetze erlassen haben, welche die Erfindungen von Staatsangehörigen der anderen Vertragsstaaten dieses Übereinkommens anerkennen und ihnen angemessenen Schutz gewähren.
 
-[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), SR**0.232****.02**
+[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [SR 0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
 
 #### Art. 28
 
@@ -528,7 +528,7 @@ Die Luftfahrtkommission setzt sich aus 19 Mitgliedern zusammen, die vom Rat aus 
 
 **Aufgaben der Kommission**
 
-Die Luftfahrtkommission hat
+Die Luftfahrtkommission hat:
 
 - a) Änderungen der Anhänge zu diesem Übereinkommen zu prüfen und dem Rat zur Annahme zu empfehlen;
 - b) technische Unterkommissionen zu bilden, in denen jeder Vertragsstaat auf Wunsch vertreten sein kann;
@@ -1026,10 +1026,10 @@ Letzte Änderung: –
 
 [^t-4]: Link zum Text der Anhänge: [www.bazl.admin.ch &gt; Themen &gt; Rechtliche Grundlagen &gt; Anhänge zur Konvention der ICAO](https://www.bazl.admin.ch/bazl/de/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
 
-Geltungsbereich am 18. Juni 2019[^t-5]
+Geltungsbereich am 29. Mai 2024[^t-5]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td colspan="2">Afghanistan</td><td colspan="2">4. April</td><td colspan="2">1947</td><td>4. Mai</td><td>1947</td></tr>
 <tr><td colspan="2">Ägypten</td><td colspan="2">13. März</td><td colspan="2">1947</td><td>12. April</td><td>1947</td></tr>
 <tr><td colspan="2">Albanien</td><td colspan="2">28. März</td><td colspan="2">1991 B</td><td>27. April</td><td>1991</td></tr>
@@ -1064,7 +1064,7 @@ Geltungsbereich am 18. Juni 2019[^t-5]
 <tr><td colspan="2">China\*</td><td colspan="2">20. Februar</td><td colspan="2">1946</td><td>4. April</td><td>1947</td></tr>
 <tr><td colspan="2">Hongkong <sup>a</sup> \*</td><td colspan="2">3. Juni</td><td colspan="2">1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td colspan="2">Macau <sup>b</sup> \*</td><td colspan="2">6. Oktober</td><td colspan="2">1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Cook-Inseln</td><td colspan="2">29. August</td><td colspan="2">2005 B</td><td>28. September</td><td>2005</td></tr>
+<tr><td colspan="2">Cook-Inseln</td><td colspan="2">20. August</td><td colspan="2">1986 B</td><td>19. September</td><td>1986</td></tr>
 <tr><td colspan="2">Costa Rica</td><td colspan="2">1. Mai</td><td colspan="2">1958</td><td>31. Mai</td><td>1958</td></tr>
 <tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">31. Oktober</td><td colspan="2">1960 B</td><td>30. November</td><td>1960</td></tr>
 <tr><td colspan="2">Dänemark</td><td colspan="2">28. Februar</td><td colspan="2">1947</td><td>4. April</td><td>1947</td></tr>
@@ -1151,7 +1151,7 @@ Geltungsbereich am 18. Juni 2019[^t-5]
 <tr><td colspan="2">Namibia</td><td colspan="2">30. April</td><td colspan="2">1991 B</td><td>30. Mai</td><td>1991</td></tr>
 <tr><td colspan="2">Nauru</td><td colspan="2">25. August</td><td colspan="2">1975 B</td><td>24. September</td><td>1975</td></tr>
 <tr><td colspan="2">Nepal</td><td colspan="2">29. Juni</td><td colspan="2">1960 B</td><td>29. Juli</td><td>1960</td></tr>
-<tr><td colspan="2">Neuseeland\*</td><td colspan="2">7. März</td><td colspan="2">1947</td><td>6. April</td><td>1947</td></tr>
+<tr><td colspan="2">Neuseeland</td><td colspan="2">7. März</td><td colspan="2">1947</td><td>6. April</td><td>1947</td></tr>
 <tr><td colspan="2">Nicaragua</td><td colspan="2">28. Dezember</td><td colspan="2">1945</td><td>4. April</td><td>1947</td></tr>
 <tr><td colspan="2">Niederlande</td><td colspan="2">26. März</td><td colspan="2">1947</td><td>25. April</td><td>1947</td></tr>
 <tr><td colspan="2">Aruba</td><td colspan="2">1. Januar</td><td colspan="2">1986</td><td>1. Januar</td><td>1986</td></tr>
@@ -1193,7 +1193,7 @@ Geltungsbereich am 18. Juni 2019[^t-5]
 <tr><td colspan="2">Sierra Leone</td><td colspan="2">22. November</td><td colspan="2">1961 B</td><td>22. Dezember</td><td>1961</td></tr>
 <tr><td colspan="2">Simbabwe</td><td colspan="2">11. Februar</td><td colspan="2">1981 B</td><td>13. März</td><td>1981</td></tr>
 <tr><td colspan="2">Singapur</td><td colspan="2">20. Mai</td><td colspan="2">1966 B</td><td>19. Juni</td><td>1966</td></tr>
-<tr><td colspan="2">Slowakei</td><td colspan="2">15. März</td><td colspan="2">1993 B</td><td>14. April</td><td>1993</td></tr>
+<tr><td colspan="2">Slowakei</td><td colspan="2">15. März</td><td colspan="2">1993 N</td><td>14. April</td><td>1993</td></tr>
 <tr><td colspan="2">Slowenien</td><td colspan="2">9. April</td><td colspan="2">1992 B</td><td>9. Mai</td><td>1992</td></tr>
 <tr><td colspan="2">Somalia</td><td colspan="2">2. März</td><td colspan="2">1964 B</td><td>1. April</td><td>1964</td></tr>
 <tr><td colspan="2">Spanien</td><td colspan="2">5. März</td><td colspan="2">1947</td><td>4. April</td><td>1947</td></tr>
@@ -1211,7 +1211,7 @@ Geltungsbereich am 18. Juni 2019[^t-5]
 <tr><td colspan="2">Tonga</td><td colspan="2">2. November</td><td colspan="2">1984 B</td><td>2. Dezember</td><td>1984</td></tr>
 <tr><td colspan="2">Trinidad und Tobago</td><td colspan="2">14. März</td><td colspan="2">1963 B</td><td>13. April</td><td>1963</td></tr>
 <tr><td colspan="2">Tschad</td><td colspan="2">3. Juli</td><td colspan="2">1962 B</td><td>2. August</td><td>1962</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td colspan="2">4. März</td><td colspan="2">1993 B</td><td>3. April</td><td>1993</td></tr>
+<tr><td colspan="2">Tschechische Republik</td><td colspan="2">4. März</td><td colspan="2">1993 N</td><td>3. April</td><td>1993</td></tr>
 <tr><td colspan="2">Tunesien</td><td colspan="2">18. November</td><td colspan="2">1957 B</td><td>18. Dezember</td><td>1957</td></tr>
 <tr><td colspan="2">Türkei</td><td colspan="2">20. Dezember</td><td colspan="2">1945</td><td>4. April</td><td>1947</td></tr>
 <tr><td colspan="2">Turkmenistan</td><td colspan="2">15. März</td><td colspan="2">1993 B</td><td>14. April</td><td>1993</td></tr>
@@ -1229,10 +1229,10 @@ Geltungsbereich am 18. Juni 2019[^t-5]
 <tr><td colspan="2">Vietnam</td><td colspan="2">13. März</td><td colspan="2">1980 B</td><td>12. April</td><td>1980</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td colspan="2">28. Juni</td><td colspan="2">1961 B</td><td>28. Juli</td><td>1961</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">17. Januar</td><td colspan="2">1961 B</td><td>16. Februar</td><td>1961</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 4. April 1947 bis zum 30. Juni 1997 war das Übereink. auf Grund der Zugehörigkeit zum Hoheitsgebiet des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> 1. März 1947: Inkrafttreten. Auf Grund der chinesischen Erklärung vom 8. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: [www.state.gov/convention-on-international-civil-aviation-chicago](https://www.state.gov/convention-on-international-civil-aviation-chicago) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 4. April 1947 bis zum 30. Juni 1997 war das Übereink. auf Grund der Zugehörigkeit zum Hoheitsgebiet des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> 1. März 1947: Inkrafttreten. Auf Grund der chinesischen Erklärung vom 8. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-5]: AS **1971** 1305; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1552](https://fedlex.data.admin.ch/eli/oc/1975/1552_1552_1552); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-5]: [AS 1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1552](https://fedlex.data.admin.ch/eli/oc/1975/1552_1552_1552); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443); [2024 244](https://fedlex.data.admin.ch/eli/oc/2024/244). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
