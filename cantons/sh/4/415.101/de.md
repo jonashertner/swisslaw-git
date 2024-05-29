@@ -5,26 +5,26 @@ title: Verordnung über die Verwendung der Mittel aus dem Swisslos-Sportfonds
 short: Sportfondsverordnung
 language: de
 version: 2023-01-01
+corrected: 2024-05-30
 version_adopted: 2023-02-14
 adopted: 2023-02-14
 in_force: 2023-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/415.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/835/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/204/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Verwendung der Mittel aus dem Swisslos-Sportfonds
+# Verordnung über die Verwendung der Mittel aus dem Swisslos-Sportfonds (Sportfondsverordnung)
 
-(Sportfondsverordnung)
-
-Vom 14.02.2023 (Stand 01.01.2023)
+vom 14. Februar 2023
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 in Ausführung des Bundesgesetzes über Geldspiele (Geldspielgesetz) vom 29. September 2017 und Art. 24 ff. der Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten vom 7. Januar 2005,
 
-beschliesst:
+verordnet:
 
 #### § 1
 
@@ -32,9 +32,11 @@ beschliesst:
 
 <sup>1</sup> Der dem Swisslos-Sportfonds zugewiesene jährliche Anteil des Kantons Schaffhausen aus dem Reingewinn der Swisslos Interkantonale Landeslotterie wird wie folgt verwendet:
 
-- a) als Beiträge an Sportanlagen zur Verbesserung der Sportinfrastruktur
-- b) als Zuwendungen für die Anschaffung und Revision von Sportmaterial
-- c) zur Unterstützung von zusätzlicher Sportförderung
+- a) als Beiträge an Sportanlagen zur Verbesserung der Sportinfrastruktur;
+
+- b) als Zuwendungen für die Anschaffung und Revision von Sportmaterial;
+
+- c) zur Unterstützung von zusätzlicher Sportförderung.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Zusprechung von Swisslos-Sportfonds-Beiträgen.
 
@@ -44,13 +46,17 @@ beschliesst:
 
 **Swisslos-Sportfonds-Kommission**
 
-<sup>1</sup> Der Regierungsrat setzt eine Swisslos-Sportfonds-Kommission ein. Sie setzt sich aus einer Präsidentin oder einem Präsidenten und mindestens sechs weiteren Mitgliedern aus Sportverbänden und der Verwaltung zusammen. Die Leitung der Fachstelle Sport des Erziehungsdepartements ist Mitglied von Amtes wegen.
+<sup>1</sup> Der Regierungsrat setzt eine Swisslos-Sportfonds-Kommission ein. Sie setzt sich aus einer Präsidentin oder einem Präsidenten und mindestens sechs weiteren Mitgliedern aus Sportverbänden und der
+
+Amtsblatt 2023, S. 289 Verwaltung zusammen. Die Leitung der Fachstelle Sport des Erziehungsdepartements ist Mitglied von Amtes wegen.
 
 <sup>2</sup> Die Swisslos-Sportfonds-Kommission hat insbesondere folgende Aufgaben:
 
-- a) Beratung und Betreuung der Gesuchstellenden
-- b) Fachliche Beurteilung der eingereichten Beitragsgesuche um Swisslos-Sportfonds-Beiträge
-- c) Stellungnahme zu den eingereichten Beitragsgesuchen und Antrag betreffend den jeweiligen Unterstützungsbeitrag zuhanden des Regierungsrates. Davon ausgenommen sind Beitragsgesuche für zusätzliche Sportförderung gemäss § 6 lit. f bis i, welche direkt vom Regierungsrat beurteilt und entschieden werden
+- a) Beratung und Betreuung der Gesuchstellenden;
+
+- b) Fachliche Beurteilung der eingereichten Beitragsgesuche um Swisslos-Sportfonds-Beiträge;
+
+- c) Stellungnahme zu den eingereichten Beitragsgesuchen und Antrag betreffend den jeweiligen Unterstützungsbeitrag zuhanden des Regierungsrates. Davon ausgenommen sind Beitragsgesuche für zusätzliche Sportförderung gemäss § 6 lit. f bis i, welche direkt vom Regierungsrat beurteilt und entschieden werden.
 
 <sup>3</sup> Die Leitung der Fachstelle Sport des Erziehungsdepartements ist Geschäftsführer bzw. Geschäftsführerin der Swisslos-Sportfonds-Kommission. Er bzw. sie führt die Korrespondenz mit den Gesuchstellenden und bereitet die Kommissions-Sitzungen zusammen mit der Präsidentin bzw. dem Präsidenten vor. Zudem ist er bzw. sie Ansprechperson für den Regierungsrat in Sachen Swisslos-Sportfonds.
 
@@ -60,14 +66,19 @@ beschliesst:
 
 **Empfängerinnen und Empfänger von Beiträgen aus dem Swisslos-Sportfonds**
 
-<sup>1</sup> Empfängerinnen und Empfänger von Beiträgen aus dem Swisslos-Sportfonds können insbesondere sein:
+Empfängerinnen und Empfänger von Beiträgen aus dem Swisslos-Sportfonds können insbesondere sein:
 
-- a) Sportverbände mit einem Bezug zum Kanton Schaffhausen
-- b) Sportvereine, die einem Schaffhauser Sportverband angehören
-- c) gemeinnützige Sportorganisationen mit einem Bezug zum Kanton Schaffhausen
-- d) Privatpersonen mit einem Bezug zum Kanton Schaffhausen
-- e) Gemeinden des Kantons Schaffhausen
-- f) der Kanton Schaffhausen
+- a) Sportverbände mit einem Bezug zum Kanton Schaffhausen;
+
+- b) Sportvereine, die einem Schaffhauser Sportverband angehören;
+
+- c) gemeinnützige Sportorganisationen mit einem Bezug zum Kanton Schaffhausen;
+
+- d) Privatpersonen mit einem Bezug zum Kanton Schaffhausen;
+
+- e) Gemeinden des Kantons Schaffhausen;
+
+- f) der Kanton Schaffhausen.
 
 #### § 4
 
@@ -83,29 +94,37 @@ beschliesst:
 
 **Beiträge für Sportmaterial**
 
-<sup>1</sup> Für die Anschaffung und Revision von Sportmaterial können Swisslos-Sportfonds-Beiträge bewilligt werden. Das Sportmaterial muss zur Ausübung der betreffenden Sportart üblich sein und in unmittelbarem Zusammenhang mit dem Sport stehen.
+Für die Anschaffung und Revision von Sportmaterial können Swisslos-Sportfonds-Beiträge bewilligt werden. Das Sportmaterial muss zur Ausübung der betreffenden Sportart üblich sein und in unmittelbarem Zusammenhang mit dem Sport stehen.
 
 #### § 6
 
 **Beiträge für zusätzliche Sportförderung**
 
-<sup>1</sup> Zusätzlich zu den in § 4 und § 5 genannten Beiträgen können Swisslos-Sportfonds-Beiträge ausgerichtet werden für:
+Zusätzlich zu den in § 4 und § 5 genannten Beiträgen können Swisslos-Sportfonds-Beiträge ausgerichtet werden für:
 
-- a) lokale und regionale Sportanlässe
-- b) Schaffhauser Sportverbände
-- c) die Förderung von Athletinnen und Athleten sowie Teams
-- d) die Bewegungsförderung in Kinderbetreuungseinrichtungen, Kindergärten und Schulen im Kanton Schaffhausen
-- e) die Förderung des Breitensports
-- f) die Honorierung von sportlichen Erfolgen von Athletinnen und Athleten sowie Teams
-- g) Sportanlässe von überregionaler Bedeutung
-- h) die Unterstützung von regionalen und nationalen Leistungszentren
-- i) die Förderung von Sportvereinen mit überregionaler Bedeutung
+- a) lokale und regionale Sportanlässe;
+
+- b) Schaffhauser Sportverbände;
+
+- c) die Förderung von Athletinnen und Athleten sowie Teams;
+
+- d) die Bewegungsförderung in Kinderbetreuungseinrichtungen, Kindergärten und Schulen im Kanton Schaffhausen;
+
+- e) die Förderung des Breitensports;
+
+- f) die Honorierung von sportlichen Erfolgen von Athletinnen und Athleten sowie Teams;
+
+- g) Sportanlässe von überregionaler Bedeutung;
+
+- h) die Unterstützung von regionalen und nationalen Leistungszentren;
+
+- i) die Förderung von Sportvereinen mit überregionaler Bedeutung.
 
 #### § 7
 
 **Gesuchstellung**
 
-<sup>1</sup> Beitragsgesuche um Swisslos-Sportfonds-Beiträge sind bei der Fachstelle Sport des Erziehungsdepartements einzureichen. Sie stellt entsprechende Formulare zur Verfügung.
+Beitragsgesuche um Swisslos-Sportfonds-Beiträge sind bei der Fachstelle Sport des Erziehungsdepartements einzureichen. Sie stellt entsprechende Formulare zur Verfügung.
 
 #### § 8
 
@@ -127,10 +146,13 @@ beschliesst:
 
 <sup>2</sup> Beitragszusicherungen können teilweise oder ganz widerrufen und bereits ausbezahlte Beiträge zurückfordert werden, wenn eine der nachfolgenden Voraussetzungen erfüllt ist:
 
-- a) Im Beitragsgesuch wurden falsche oder irreführende Angaben gemacht
-- b) Das Projekt wurde anders als beschrieben verwirklicht
-- c) Finanzielle Mittel wurden offensichtlich zweckentfremdet
-- d) Bedingungen oder Auflagen wurden nicht erfüllt
+- a) Im Beitragsgesuch wurden falsche oder irreführende Angaben gemacht;
+
+- b) Das Projekt wurde anders als beschrieben verwirklicht;
+
+- c) Finanzielle Mittel wurden offensichtlich zweckentfremdet;
+
+- d) Bedingungen oder Auflagen wurden nicht erfüllt.
 
 <sup>3</sup> Der Anspruch auf Rückforderung verjährt zehn Jahre nach seiner Entstehung.
 
@@ -152,6 +174,6 @@ beschliesst:
 
 <sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^11-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^11-1]: Amtsblatt 2023, S. 289.
+Fussnoten:
 
-Abl. 2023, S. 289
+[^11-1]: Amtsblatt 2023, S. 289.
