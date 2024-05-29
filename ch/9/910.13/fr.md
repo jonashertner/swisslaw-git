@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2024-01-01
+version: 2024-05-30
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20240101-fr-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20240530/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20240530-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240530/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240101/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2024)
+du 23 octobre 2013 (État le 30 mai 2024)
 
 Le Conseil fédéral suisse,
 
@@ -320,9 +320,10 @@ Une surface est considérée comme officiellement délimitée:
 
 <sup>3</sup> L’exigence mentionnée à l’al. 2 ne s’applique pas aux exploitations qui pratiquent des pauses entre les cultures selon l’annexe 1, ch. 4.3.
 
-<sup>4</sup> Pour les exploitations gérées selon les dispositions de l’ordonnance du 22 septembre 1997 sur l’agriculture biologique[^16-1], l’application des exigences posées par l’organisation professionnelle nationale visée à l’art. 18, al. 2, fournit la preuve d’un assolement régulier.
+<sup>4</sup> Pour les exploitations gérées selon les dispositions de l’ordonnance du 22 septembre 1997 sur l’agriculture biologique[^16-1], l’application des exigences posées par l’organisation professionnelle nationale visée à l’art. 20, al. 2, fournit la preuve d’un assolement régulier.[^16-2]
 
 [^16-1]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^16-2]: Erratum du 30 mai 2024 ([RO 2024 242](https://fedlex.data.admin.ch/eli/oc/2024/242)).
 
 #### Art. 17
 
@@ -2063,9 +2064,9 @@ Sont considérés comme pulvérisateurs anti-dérive:
 
 ### Chapitre 6*a* Coordination avec les programmes d’utilisation durable des ressources visés aux art. 77*a* et 77*b* LAgr
 
-[^tit2-chap6-chap6a-1]
+[^tit2-chap6a-1]
 
-[^tit2-chap6-chap6a-1]: Anciennement section 8. Introduite par le ch. I de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^tit2-chap6a-1]: Anciennement section 8. Introduite par le ch. I de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 82h
 
@@ -3478,12 +3479,12 @@ Annexe 4[^t-3]
 
 - 17\.1.1 Définition: surfaces comprenant des céréales de printemps ou d’automne sur lesquelles au moins 40 % des rangs sur la largeur du semoir ne sont pas semés.
 - 17\.1.2 L’intervalle entre les rangs dans les zones non semées représente au moins 30 cm.
-- 17\.1.3 L’utilisation de produits phytosanitaires qui sont admis pour les céréales dans les grandes cultures sur la base de l’OPPh[^annex4-lvlu1-lvlB-lvl1-1] est permise sous réserve du ch. 17.1.4.
+- 17\.1.3 L’utilisation de produits phytosanitaires qui sont admis pour les céréales dans les grandes cultures sur la base de l’OPPh[^annex4-lvlu1-lvlA-lvl17-lvl171-1] est permise sous réserve du ch. 17.1.4.
 - 17\.1.4 Les plantes posant des problèmes peuvent être combattues au printemps, soit par l’intermédiaire d’un hersage unique au plus tard le 15 avril, soit par une application unique d’herbicides.
 - 17\.1.5 Les sous-semis comprenant du trèfle ou des mélanges de trèfle et de graminées sont autorisés.
 - 17\.1.6 La combinaison de céréales en lignes de semis espacées et de bandes culturales extensives sur la même surface n’est pas autorisée.
 
-[^annex4-lvlu1-lvlB-lvl1-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex4-lvlu1-lvlA-lvl17-lvl171-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### B Mise en réseau
 
@@ -5172,12 +5173,10 @@ Annexe 8[^t-9]
 - Si la somme des points est supérieure ou égale à 110, aucune contribution SST ou SRPA, ni de contribution à la mise au pâturage, n’est versée dans l’année de contributions, pour la catégorie d’animaux concernée.
 - 2\.9.2 Dans le premier cas de récidive, 50 points pour un manquement sont ajoutés au nombre de points pour la catégorie d’animaux concernée. À partir du deuxième cas de récidive, soit le nombre de points pour un manquement est majoré de 100 points, soit aucune contribution SST ou SRPA, ni de contribution à la mise au pâturage, n’est versée pour la catégorie d’animaux concernée. Les montants forfaitaires sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
 - 2\.9.2a Si la documentation des sorties visée au ch. 2.9.4, let. d, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
-- [tab] 2.9.2b Si la documentation des sorties visée au ch. 2.9.3, let. r, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
+- 2\.9.2b Si la documentation des sorties visée au ch. 2.9.3, let. r, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
 - 2\.9.2c Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.4, let. d, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.4, let. e, n’est appliquée.
 - 2\.9.2d Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.3, let. r, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.3, let. p, n’est appliquée.
-
-2.9.2e Si la documentation des sorties visée au ch. 2.9.5, let. d, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
-
+- 2\.9.2e Si la documentation des sorties visée au ch. 2.9.5, let. d, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.
 - 2\.9.2f Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.5, let. d, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.5, let. e, n’est appliquée.
 - 2\.9.3 SST
 
@@ -5203,7 +5202,7 @@ Annexe 8[^t-9]
 <tr><td>r. La documentation des sorties ne correspond pas aux exigences</td><td colspan="2">Volaille de rente (annexe 6, let. A, ch. 7.5 et 7.6)</td><td>200 fr.</td></tr>
 </table>
 
-- 2\.9.4. SRPA
+- 2\.9.4 SRPA
 
 <table>
 <tr><th colspan="2">Manquement concernant le point de contrôle</th><th></th><th>Réduction</th></tr>

@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2024-01-01
+version: 2024-05-30
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20240101-de-xml-23.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20240530/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20240530-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20240101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2024)
+vom 23. Oktober 2013 (Stand am 30. Mai 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -190,7 +190,7 @@ Direktzahlungen werden nur ausgerichtet, wenn auf dem Betrieb ein Arbeitsbedarf 
 
 <sup>2</sup> Der Arbeitsaufwand berechnet sich nach dem «ART-Arbeitsvoranschlag 2009» von Agroscope, in der Version des Jahres 2013[^6-1].
 
-[^6-1]: Der Arbeitsvoranschlag kann heruntergeladen werden unter: [www.agroscope.admin.ch/arbeitsvoranschlag](http://www.agroscope.admin.ch/arbeitsvoranschlag)
+[^6-1]: Der Arbeitsvoranschlag kann heruntergeladen werden unter [www.agroscope.admin.ch/arbeitsvoranschlag](http://www.agroscope.admin.ch/arbeitsvoranschlag)
 
 #### Art. 7
 
@@ -318,9 +318,10 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 <sup>3</sup> Für Betriebe, welche die Anbaupausen nach Anhang 1 Ziffer 4.3 einhalten, gilt die Anforderung nach Absatz 2 nicht.
 
-<sup>4</sup> Für Betriebe, die nach den Anforderungen der Bio-Verordnung vom 22. September 1997[^16-1] bewirtschaftet werden, gelten für den Nachweis einer geregelten Fruchtfolge die Anforderungen der nationalen Fachorganisation nach Artikel 20 Absatz 2.
+<sup>4</sup> Für Betriebe, die nach den Anforderungen der Bio-Verordnung vom 22. September 1997[^16-1] bewirtschaftet werden, gelten für den Nachweis einer geregelten Fruchtfolge die Anforderungen der nationalen Fachorganisation nach Artikel 20 Absatz 2.[^16-2]
 
 [^16-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^16-2]: Die Berichtigung vom 30. Mai 2024 betrifft nur den französischen Text ([AS 2024 242](https://fedlex.data.admin.ch/eli/oc/2024/242)).
 
 #### Art. 17
 
@@ -1369,7 +1370,7 @@ In Abweichung von Absatz 3 sind erlaubt:
 
 [^68-1]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^68-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^68-3]: Die Liste ist einsehbar unter: [www.swissgranum.ch](http://www.swissgranum.ch).
+[^68-3]: Die Liste ist einsehbar unter [www.swissgranum.ch](http://www.swissgranum.ch).
 [^68-4]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 #### Art. 69
@@ -2058,9 +2059,9 @@ Als driftreduzierende Spritzgeräte gelten:
 
 ### 6*a*. Kapitel: Koordination mit Ressourcenprogrammen nach den Artikeln 77*a* und 77*b* LwG
 
-[^tit2-chap6-chap6a-1]
+[^tit2-chap6a-1]
 
-[^tit2-chap6-chap6a-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^tit2-chap6a-1]: Ursprünglich 8. Kapitel. Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 82h
 
@@ -2889,7 +2890,7 @@ Anhang 1[^t-1]
 - 5\.1.6 Ist die Ursache für einen Bodenabtrag nach Ziffer 5.1.2 auf einer Bewirtschaftungsparzelle unklar, so stellt die zuständige kantonale Stelle die Ursache fest. Sie sorgt in der Folge für ein abgestimmtes Vorgehen zur Verhinderung von Erosion im entsprechenden Gebiet.
 - 5\.1.7 Die Kontrollen werden gezielt nach Regen-Ereignissen auf gefährdeten Standorten durchgeführt. Die zuständigen kantonalen Stellen führen eine Liste mit den festgestellten Bodenabträgen.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Publikationen &gt; Umwelt, Natur, Landschaft &gt; Ressourcenschutz (Boden, Wasser, Luft) &gt; Wie-viel-Erde-geht-verloren?
+[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter [www.agridea.ch](http://www.agridea.ch) &gt; Publikationen &gt; Umwelt, Natur, Landschaft &gt; Ressourcenschutz (Boden, Wasser, Luft) &gt; Wie-viel-Erde-geht-verloren?
 
 ### 6 Auswahl und gezielte Anwendung von Pflanzenschutzmitteln
 
@@ -3065,7 +3066,7 @@ Anhang 1[^t-1]
 - 9\.7 Entlang von Flachmooren, Trockenwiesen und ‑weiden sowie Amphibienlaichgebieten sind die Bewirtschaftungsvorschriften und Ausmasse der Pufferzonen nach den Artikeln 18*a* und 18*b* NHG[^annex1-lvlu1-lvl9-3] einzuhalten.
 
 [^annex1-lvlu1-lvl9-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Übersicht &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur, Landschaft &gt; Beiträge und Bedingungen im Ökoausgleich.
+[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter [www.agridea.ch](http://www.agridea.ch) &gt; Übersicht &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur, Landschaft &gt; Beiträge und Bedingungen im Ökoausgleich.
 [^annex1-lvlu1-lvl9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Anhang 2[^t-2]
@@ -3761,7 +3762,7 @@ Anhang 6[^t-6]
   - b. vor einem Transport während maximal zwei Tagen; die Identifikationsnummern der fixierten Tiere nach der TVD-Verordnung vom 26. Oktober 2011[^annex6-lvlu1-lvlA-lvl2-2] und das Datum müssen vor der Abweichung dokumentiert werden;
   - c. bei hochträchtigen Rindern, die nach dem Kalben in einem Anbindestall gehalten werden, während zehn Tagen vor dem voraussichtlichen Geburtstermin.
 
-[^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter: [www.snv.ch](http://www.snv.ch) bezogen werden.
+[^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter [www.snv.ch](http://www.snv.ch) bezogen werden.
 [^annex6-lvlu1-lvlA-lvl2-2]: [[AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)Anhang Ziff. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)Art. 20 Ziff. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)Anhang Ziff. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)Ziff. I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)Anhang 4 Ziff. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)Anhang Ziff. 1]. Siehe heute: die V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank ([SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)).
 
 ### 3 Tiere der Pferdegattung
@@ -4173,25 +4174,25 @@ Anhang 7[^t-8]
 
 ### 1.1 Offenhaltungsbeitrag
 
-- 1\.1.1 Der Offenhaltungsbeitrag beträgt pro Hektare und Jahr:
+- 1\.1.1
 
-<table>
-<tr><td>a. in der Hügelzone</td><td>[tab] 100 Fr.</td></tr>
-<tr><td>b. in der Bergzone I</td><td>[tab] 230 Fr.</td></tr>
-<tr><td>c. in der Bergzone II</td><td>[tab] 320 Fr.</td></tr>
-<tr><td>d. in der Bergzone III</td><td>[tab] 380 Fr.</td></tr>
-<tr><td>e. in der Bergzone IV</td><td>[tab] 390 Fr.</td></tr>
-</table>
+  Der Offenhaltungsbeitrag beträgt pro Hektare und Jahr:
+
+  - a. in der Hügelzone 100 Fr.
+  - b. in der Bergzone I 230 Fr.
+  - c. in der Bergzone II 320 Fr.
+  - d. in der Bergzone III 380 Fr.
+  - e. in der Bergzone IV 390 Fr.
 
 ### 1.2 Hangbeitrag
 
-- 1\.2.1 Der Hangbeitrag beträgt pro Hektare und Jahr:
+- 1\.2.1
 
-<table>
-<tr><td>a. für Hanglagen mit 18–35 Prozent Neigung</td><td>[tab] 410 Fr.</td></tr>
-<tr><td>b. für Hanglagen mit mehr als 35–50 Prozent Neigung</td><td>[tab] 700 Fr.</td></tr>
-<tr><td>c. für Hanglagen mit mehr als 50 Prozent Neigung</td><td>[tab] 1000 Fr.</td></tr>
-</table>
+  Der Hangbeitrag beträgt pro Hektare und Jahr:
+
+  - a. für Hanglagen mit 18–35 Prozent Neigung 410 Fr.
+  - b. für Hanglagen mit mehr als 35–50 Prozent Neigung 700 Fr.
+  - c. für Hanglagen mit mehr als 50 Prozent Neigung 1000 Fr.
 
 ### 1.3 Steillagenbeitrag
 
@@ -4199,13 +4200,13 @@ Anhang 7[^t-8]
 
 ### 1.4 Hangbeitrag für Rebflächen
 
-- 1\.4.1 Der Hangbeitrag für Rebflächen beträgt pro Hektare und Jahr:
+- 1\.4.1
 
-<table>
-<tr><td>a. für Rebflächen in Hanglagen mit 30–50 Prozent Neigung</td><td>[tab] 1500 Fr.</td></tr>
-<tr><td>b. für Rebflächen in Hanglagen mit mehr als 50 Prozent Neigung</td><td>[tab] 3000 Fr.</td></tr>
-<tr><td>c. für Rebflächen in Terrassenlagen mit mehr als 30 Prozent Neigung</td><td>[tab] 5000 Fr.</td></tr>
-</table>
+  Der Hangbeitrag für Rebflächen beträgt pro Hektare und Jahr:
+
+  - a. für Rebflächen in Hanglagen mit 30–50 Prozent Neigung 1500 Fr.
+  - b. für Rebflächen in Hanglagen mit mehr als 50 Prozent Neigung 3000 Fr.
+  - c. für Rebflächen in Terrassenlagen mit mehr als 30 Prozent Neigung 5000 Fr.
 
 ### 1.5 Alpungsbeitrag
 
@@ -5059,7 +5060,7 @@ Anhang 8[^t-9]
 <tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 68)</td><td>200 % der Beiträge</td></tr>
 </table>
 
-2.6.3 Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau
+- 2\.6.3 Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -5073,7 +5074,7 @@ Anhang 8[^t-9]
 <tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 70)</td><td>200 % der Beiträge</td></tr>
 </table>
 
-2.6.5 Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft
+- 2\.6.5 Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -5101,8 +5102,8 @@ Anhang 8[^t-9]
 ### 2.7a Beiträge für die Verbesserung der Bodenfruchtbarkeit
 
 - 2\.7a.1 Die Kürzungen erfolgen mit einem Prozentsatz des Beitrags für die Verbesserung der Bodenfruchtbarkeit auf der betroffenen Fläche.
-- [tab] Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
-- [tab] Werden auf der gleichen Fläche mehrere Mängel gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+- Werden auf der gleichen Fläche mehrere Mängel gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
 - 2\.7a.2 Beitrag für eine angemessene Bedeckung des Bodens
 
 <table>
@@ -5236,7 +5237,7 @@ Anhang 8[^t-9]
 <tr><td>b. Der betriebsspezifische Grenzwert an Rohprotein in Gramm pro Megajoule verdauliche Energie Schwein (g/MJVES) der gesamten Futterration aller gehaltenen Schweine ist überschritten (Anh. 6*a* Ziff. 3 und 5) Das Futter weist einen Nährwert auf, der nicht an den Bedarf der Tiere angepasst ist (Art. 82*c* Abs. 1). In der Schweinemast werden während der Mastdauer nicht mindestens zwei Futterrationen mit unterschiedlichem Gehalt an Rohprotein in g/MJ VES eingesetzt. Die in der Endmastphase eingesetzte Futterration macht, bezogen auf die Trockensubstanz, weniger als 30 % der in der Schweinemast eingesetzten Futtermittel aus (Art. 82*c* Abs. 2).</td><td>200 % der Beiträge</td></tr>
 </table>
 
-[^annex8-lvlu1-lvl2-lvl210-1]: Die jeweils geltenden Versionen der Zusatzmodule sind abrufbar unter: [www.blw.admin.ch](http://www.blw.admin.ch) www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
+[^annex8-lvlu1-lvl2-lvl210-1]: Die jeweils geltenden Versionen der Zusatzmodule sind abrufbar unter: www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
 
 ### 2.11 Landwirtschaftsrelevante Vorschriften nach Gewässer-, Umwelt-, Natur- und Heimatschutzgesetzgebung
 
