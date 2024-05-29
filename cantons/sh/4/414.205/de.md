@@ -5,37 +5,36 @@ title: Verordnung des Hochschulrates über die Zulassung und die Anmeldung zum S
 short: Zulassungsverordnung
 language: de
 version: 2022-09-01
-valid_until: 2026-01-31
+corrected: 2024-05-30
 version_adopted: 2023-01-16
 adopted: 2020-08-24
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.205"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/832/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/450/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung des Hochschulrates über die Zulassung und die Anmeldung zum Studium im Leistungsbereich Ausbildung an der Pädagogischen Hochschule Schaffhausen
+# Verordnung des Hochschulrates über die Zulassung und die Anmeldung zum Studium im Leistungsbereich Ausbildung an der Pädagogischen Hochschule Schaffhausen (Zulassungsverordnung)
 
-(Zulassungsverordnung)
-
-Vom 24.08.2020 (Stand 01.09.2022)
+vom 24. August 2020
 
 Der Hochschulrat der Pädagogischen Hochschule Schaffhausen,
 
 gestützt auf Art. 15 Abs. 2 lit. o und Art. 28 f. des Hochschulgesetzes vom 2. Dezember 2019,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmung
+### I. Allgemeine Bestimmung
 
 #### § 1
 
 **Regelungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Zulassungsvoraussetzungen und das Anmeldeverfahren an der Pädagogischen Hochschule Schaffhausen (PHSH).
+Diese Verordnung regelt die Zulassungsvoraussetzungen und das Anmeldeverfahren an der Pädagogischen Hochschule Schaffhausen (PHSH).
 
-## 2 Zulassungsvoraussetzungen
+### II. Zulassungsvoraussetzungen
 
 #### § 2
 
@@ -43,15 +42,19 @@ beschliesst:
 
 <sup>1</sup> Die Zulassung für die Studiengänge Primarstufe erfordert alternativ:
 
-- a) eine gymnasiale Maturität
-- b) eine Fachmaturität Pädagogik
-- c) ein Hochschuldiplom
-- d) eine bestandene Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines Berufsmaturitätszeugnisses oder eines Fachmaturitätszeugnisses zu den universitären Hochschulen
-- e) den Abschluss einer dreijährigen anerkannten Schule der Sekundarstufe II, ein Berufsmaturitätszeugnis oder ein eidgenössisches Fähigkeitszeugnis mit mehrjähriger Berufserfahrung, sofern vor Studienbeginn im Rahmen einer Prüfung der Äquivalenznachweis zur Fachmaturität für das Berufsfeld Pädagogik erbracht wurde
+- a) eine gymnasiale Maturität;
 
-<sup>2</sup> …
+- b) eine Fachmaturität Pädagogik;
 
-<sup>3</sup> Über die Gleichwertigkeit von Vorbildungsausweisen entscheidet die Prorektorin bzw. der Prorektor Ausbildung. Die Anerkennung von ausländischen Vorbildungsausweisen auf Maturitätsniveau richtet sich nach den Vorgaben der Rektorenkonferenz der Schweizer Universitäten für die Zulassung zum Studium an schweizerischen universitären Hochschulen.
+- c) ein Hochschuldiplom;
+
+Amtsblatt 2020, S. 1473 d) eine bestandene Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines Berufsmaturitätszeugnisses oder eines Fachmaturitätszeugnisses zu den universitären Hochschulen;
+
+- e) den Abschluss einer dreijährigen anerkannten Schule der Sekundarstufe II, ein Berufsmaturitätszeugnis oder ein eidgenössisches Fähigkeitszeugnis mit mehrjähriger Berufserfahrung, sofern vor Studienbeginn im Rahmen einer Prüfung der Äquivalenznachweis zur Fachmaturität für das Berufsfeld Pädagogik erbracht wurde.
+
+<sup>2</sup> … <sup>2)</sup>
+
+<sup>3</sup> Über die Gleichwertigkeit von Vorbildungsausweisen entscheidet die Prorektorin bzw. der Prorektor Ausbildung. Die Anerkennung von ausländischen Vorbildungsausweisen auf Maturitätsniveau richtet sich nach den Vorgaben der Rektorenkonferenz der Schweizer Universitäten für die Zulassung zum Studium an schweizerischen universitären Hochschulen.
 
 #### § 3
 
@@ -69,7 +72,7 @@ beschliesst:
 
 **Deutschkenntnisse**
 
-<sup>1</sup> Fremdsprachige Bewerberinnen und Bewerber müssen über das «Goethe-Zertifikat C2» verfügen. Die Prorektorin bzw. der Prorektor Ausbildung kann eine zusätzliche Deutschprüfung anordnen.
+Fremdsprachige Bewerberinnen und Bewerber müssen über das "Goethe-Zertifikat C2" verfügen. Die Prorektorin bzw. der Prorektor Ausbildung kann eine zusätzliche Deutschprüfung anordnen.
 
 #### § 5
 
@@ -77,15 +80,17 @@ beschliesst:
 
 <sup>1</sup> Bewerber bzw. Bewerberinnen von einer anderen Pädagogischen Hochschule haben zusätzlich folgende Voraussetzungen zu erfüllen. Es darf kein Ausschluss:
 
-- a) von der abgehenden Institution infolge Nichteignung zum Beruf vorliegen
-- b) aufgrund einer strafrechtlichen Verurteilung oder eines disziplinarrechtlichen Vorfalls vorliegen
-- c) infolge eines definitiven Nichtbestehens der Zwischenprüfungen, Modulprüfungen, Diplomprüfungen oder Praktika vorliegen
+- a) von der abgehenden Institution infolge Nichteignung zum Beruf vorliegen;
+
+- b) aufgrund einer strafrechtlichen Verurteilung oder eines disziplinarrechtlichen Vorfalls vorliegen;
+
+- c) infolge eines definitiven Nichtbestehens der Zwischenprüfungen, Modulprüfungen, Diplomprüfungen oder Praktika vorliegen.
 
 <sup>2</sup> Die Voraussetzungen sind durch die Abgängerinstitution schriftlich zu bestätigen und vom Bewerber bzw. von der Bewerberin einzureichen.
 
 <sup>3</sup> Kann eine schriftliche Bestätigung nicht erbracht werden, so ist die Zulassung an die PHSH frühestens zwei Jahre nach Ausschluss aus der abgehenden Institution möglich.
 
-## 3 Anmeldeverfahren
+### III. Anmeldeverfahren
 
 #### § 6
 
@@ -99,25 +104,33 @@ beschliesst:
 
 **Unterlagen**
 
-<sup>1</sup> Für die Anmeldung an die PHSH haben die Bewerberinnen und Bewerber zusätzlich zum Anmeldeformular folgende Unterlagen einzureichen:
+Für die Anmeldung an die PHSH haben die Bewerberinnen und Bewerber zusätzlich zum Anmeldeformular folgende Unterlagen einzureichen:
 
-- a) tabellarischer Lebenslauf
-- b) Passfoto
-- c) vollständiger Nachweis der für die Zulassung relevanten Abschlüsse mit entsprechenden Ausweisen im Original
-- d) Privatauszug aus dem Strafregister, nicht älter als drei Monate
-- e) Arztzeugnis betreffend gesundheitliche Eignung
-- f) persönliche Standortbestimmung in Bezug auf berufsrelevante Kompetenzen
-- g) für Ausländer bzw. Ausländerinnen, die in der Schweiz wohnhaft sind: Kopie des Ausländerausweises
-- h) für fremdsprachige Bewerber bzw. Bewerberinnen: Nachweis über ausreichende Deutschkenntnisse gemäss § 4 dieser Verordnung
-- i) Bewerber bzw. Bewerberinnen gemäss § 5 dieser Verordnung haben zusätzlich eine Bescheinigung der Exmatrikulation, die für die Erlangung des Lehrdiploms relevanten formalen Bildungs- und Studienleistungen sowie die schriftliche Bestätigung über die Erfüllung der Zulassungsvoraussetzungen gemäss § 5 Abs. 1 dieser Verordnung einzureichen
+- a) tabellarischer Lebenslauf;
+
+- b) Passfoto;
+
+- c) vollständiger Nachweis der für die Zulassung relevanten Abschlüsse mit entsprechenden Ausweisen im Original;
+
+- d) Privatauszug aus dem Strafregister, nicht älter als drei Monate;
+
+- e) Arztzeugnis betreffend gesundheitliche Eignung;
+
+- f) persönliche Standortbestimmung in Bezug auf berufsrelevante Kompetenzen;
+
+- g) für Ausländer bzw. Ausländerinnen, die in der Schweiz wohnhaft sind: Kopie des Ausländerausweises;
+
+- h) für fremdsprachige Bewerber bzw. Bewerberinnen: Nachweis über ausreichende Deutschkenntnisse gemäss § 4 dieser Verordnung;
+
+- i) Bewerber bzw. Bewerberinnen gemäss § 5 dieser Verordnung haben zusätzlich eine Bescheinigung der Exmatrikulation, die für die Erlangung des Lehrdiploms relevanten formalen Bildungs- und Studienleistungen sowie die schriftliche Bestätigung über die Erfüllung der Zulassungsvoraussetzungen gemäss § 5 Abs. 1 dieser Verordnung einzureichen.
 
 #### § 8
 
 **Übersetzung**
 
-<sup>1</sup> Die Unterlagen sind in deutscher, französischer, italienischer oder englischer Sprache einzureichen. Andernfalls ist eine amtlich beglaubigte Übersetzung in deutscher Sprache beizulegen.
+Die Unterlagen sind in deutscher, französischer, italienischer oder englischer Sprache einzureichen. Andernfalls ist eine amtlich beglaubigte Übersetzung in deutscher Sprache beizulegen.
 
-## 4 Immatrikulation
+### IV. Immatrikulation
 
 #### § 9
 
@@ -131,13 +144,13 @@ beschliesst:
 
 **Mobilitätssemester**
 
-<sup>1</sup> Während eines Mobilitätssemesters im Sinne von § 9 der Verordnung des Hochschulrates betreffend die Studiengänge der Pädagogischen Hochschule Schaffhausen (Studiengangverordnung) bleiben die Studierenden an der PHSH immatrikuliert und entrichten die Studiensemestergebühr an der PHSH.
+Während eines Mobilitätssemesters im Sinne von § 9 der Verordnung des Hochschulrates betreffend die Studiengänge der Pädagogischen Hochschule Schaffhausen (Studiengangverordnung) bleiben die Studierenden an der PHSH immatrikuliert und entrichten die Studiensemestergebühr an der PHSH.
 
 #### § 11
 
 **Studienunterbruch**
 
-<sup>1</sup> Während eines Studienunterbruchs i.S.v. § 10 der Studiengangverordnung bleiben die Studierenden immatrikuliert und haben keine Semestergebühren zu entrichten.
+Während eines Studienunterbruchs i.S.v. § 10 der Studiengangverordnung bleiben die Studierenden immatrikuliert und haben keine Semestergebühren zu entrichten.
 
 #### § 12
 
@@ -147,7 +160,7 @@ beschliesst:
 
 <sup>2</sup> Adressänderungen sind dem Sekretariat der PHSH innert zehn Tagen bekanntzugeben. Postzustellungen an die bisherige Adresse gelten als rechtmässig erfolgt, wenn die Adressänderung nicht fristgerecht angezeigt wurde.
 
-## 5 Gaststudierende und Hörerinnen bzw. Hörer
+### V. Gaststudierende und Hörerinnen bzw. Hörer
 
 #### § 13
 
@@ -163,20 +176,23 @@ beschliesst:
 
 **Hörerinnen bzw. Hörer**
 
-<sup>1</sup> Personen ab 18 Jahren können als Hörerinnen bzw. Hörer ohne Immatrikulation für höchstens sechs Module pro Semester zugelassen werden, sofern sie für das betreffende Modul zugelassen werden. Es besteht kein Rechtsanspruch auf Zulassung. Die Bestimmungen zum Anmeldeverfahren gemäss den §§ 6 ff. dieser Verordnung finden sinngemäss Anwendung.
+<sup>1</sup> Personen ab 18 Jahren können als Hörerinnen bzw. Hörer ohne Immatrikulation für höchstens sechs Module pro Semester zugelassen werden, sofern sie für das betreffende Modul zugelassen werden. Es besteht kein Rechtsanspruch auf Zulassung. Die Bestimmungen zum Anmeldeverfahren gemäss den §§ 6 ff. dieser Verordnung finden sinngemäss Anwendung.
 
 <sup>2</sup> Hörerinnen bzw. Hörer haben folgende Unterlagen einzureichen:
 
-- a) tabellarischer Lebenslauf
-- b) Passfoto
-- c) Kopie des Zeugnisses bzw. der Urkunde des Ausbildungsabschlusses
-- d) eine schriftliche Begründung für die Zulassung an der PHSH
+- a) tabellarischer Lebenslauf;
+
+- b) Passfoto;
+
+- c) Kopie des Zeugnisses bzw. der Urkunde des Ausbildungsabschlusses;
+
+- d) eine schriftliche Begründung für die Zulassung an der PHSH.
 
 <sup>3</sup> Hörerinnen und Hörer sind nicht berechtigt, Zwischen- und Diplomprüfungen abzulegen. Zudem können sie keine ECTS-Kreditpunkte gemäss § 6 Abs. 1 der Studiengangverordnung erlangen.
 
 <sup>4</sup> Von Hörerinnen bzw. Hörern erbrachte Studienleistungen werden bei der Prüfung der allgemeinen Zulassungsvoraussetzungen nicht als Vorbildung anerkannt.
 
-## 6 Schlussbestimmung
+### VI. Schlussbestimmung
 
 #### § 15
 
@@ -184,8 +200,11 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend am 1. August 2020 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^15-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^15-1]: Amtsblatt 2020, S. 1473
+Fussnoten:
 
-Abl. 2020, S. 1473
+## Weitere Fussnoten
+
+- [1] Amtsblatt 2020, S. 1473
+- [2] Aufgehoben durch V vom 16. Januar 2023, in Kraft getreten am 1. September 2022 (Amtsblatt 2023, S. 178).
