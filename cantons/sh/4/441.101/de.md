@@ -4,40 +4,42 @@ number: "441.101"
 title: Verordnung zum Kulturgesetz
 language: de
 version: 2007-01-01
+corrected: 2024-05-30
 version_adopted: 2006-12-12
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/441.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/846/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/333/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung zum Kulturgesetz
 
-Vom 12.12.2006 (Stand 01.01.2007)
+vom 12. Dezember 2006
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 13 des Kulturgesetzes vom 9. Januar 2006,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des Kulturgesetzes, soweit danach der Kanton für die Kulturförderung, Kulturvermittlung und Kulturpflege zuständig ist.
+Diese Verordnung regelt den Vollzug des Kulturgesetzes, soweit danach der Kanton für die Kulturförderung, Kulturvermittlung und Kulturpflege zuständig ist.
 
-## 2 Organisation
+## II. Organisation
 
 #### § 2
 
 **Departement**
 
-<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, obliegt der Vollzug des Kulturgesetzes dem Erziehungsdepartement. Dieses führt eine Fachstelle für Kulturfragen.
+Soweit diese Verordnung nichts anderes bestimmt, obliegt der Vollzug des Kulturgesetzes dem Erziehungsdepartement. Dieses führt eine Fachstelle für Kulturfragen.
 
 #### § 3
 
@@ -47,10 +49,13 @@ beschliesst:
 
 <sup>2</sup> Im Weiteren obliegen der Fachstelle für Kulturfragen insbesondere:
 
-- a) Bearbeitung von Gesuchen um Beiträge aus den Bereichen Kulturförderung, Kulturvermittlung und Kulturpflege
-- b) Aushandlung von Leistungsvereinbarungen und deren Controlling
-- c) Information und Beratung von Kulturschaffenden und Kulturveranstaltenden
-- d) Beobachtung des Kulturbetriebs im Kanton und jährliche Berichterstattung an das Erziehungsdepartement
+- a) Bearbeitung von Gesuchen um Beiträge aus den Bereichen Kulturförderung, Kulturvermittlung und Kulturpflege;
+
+Amtsblatt 2006, S. 1743 b) Aushandlung von Leistungsvereinbarungen und deren Controlling;
+
+- c) Information und Beratung von Kulturschaffenden und Kulturveranstaltenden;
+
+- d) Beobachtung des Kulturbetriebs im Kanton und jährliche Berichterstattung an das Erziehungsdepartement.
 
 <sup>3</sup> Wo sie nicht selbst entscheidet, stellt sie der zuständigen Stelle Antrag.
 
@@ -66,7 +71,7 @@ beschliesst:
 
 <sup>4</sup> Das Kuratorium ist in seinen Entscheidungen unabhängig.
 
-## 3 Beiträge
+## III. Beiträge
 
 #### § 5
 
@@ -76,7 +81,7 @@ beschliesst:
 
 <sup>2</sup> Für finanzielle Beiträge aus allgemeinen Staatsmitteln gilt, ausgenommen die Zuständigkeit zu deren Bewilligung, Abs. 1 sinngemäss.
 
-## 4 Leistungsvereinbarungen
+## IV. Leistungsvereinbarungen
 
 #### § 6
 
@@ -84,8 +89,9 @@ beschliesst:
 
 <sup>1</sup> Das Erziehungsdepartement schliesst befristete Leistungsvereinbarungen ab mit:
 
-- a) Kulturveranstaltenden und Trägern kultureller Institutionen, welchen grössere, wiederkehrende Beiträge ausgerichtet werden
-- b) öffentlichen oder privaten Institutionen, welchen kantonale kulturelle Aufgaben übertragen werden
+- a) Kulturveranstaltenden und Trägern kultureller Institutionen, welchen grössere, wiederkehrende Beiträge ausgerichtet werden;
+
+- b) öffentlichen oder privaten Institutionen, welchen kantonale kulturelle Aufgaben übertragen werden.
 
 <sup>2</sup> Die Leistungsvereinbarungen bedürfen der Genehmigung durch den Regierungsrat.
 
@@ -97,16 +103,17 @@ beschliesst:
 
 <sup>2</sup> Die Leistungsvereinbarungen umschreiben Art, Umfang und Qualität der zu erbringenden Leistungen durch den Leistungserbringer sowie die Modalitäten des Controllings durch den Finanzierungsträger.
 
-## 5 Schlussbestimmungen
+## V. Schlussbestimmungen
 
 #### § 8
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
+Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
-- a) Reglement des Regierungsrates über die Verwendung des Staatskredites zur Förderung der Kunst und Literatur vom 2. November 1945
-- b) Verordnung über die Verwendung des Kredites zur Förderung der wissenschaftlichen Forschung vom 28. Dezember 1965
+- a) Reglement des Regierungsrates über die Verwendung des Staatskredites zur Förderung der Kunst und Literatur vom 2. November 1945;
+
+- b) Verordnung über die Verwendung des Kredites zur Förderung der wissenschaftlichen Forschung vom 28. Dezember 1965.
 
 #### § 9
 
@@ -114,8 +121,8 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^9-1]: Amtsblatt 2006, S. 1743.
+Fussnoten:
 
-Abl. 2006, S. 1743
+- 1) Amtsblatt 2006, S. 1743.
