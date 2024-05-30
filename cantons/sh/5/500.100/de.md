@@ -5,42 +5,41 @@ title: Bevölkerungsschutzgesetz
 short: BevSG
 language: de
 version: 2017-01-01
-valid_until: 2025-12-31
+corrected: 2024-05-31
 version_adopted: 2016-08-22
 adopted: 2016-08-22
 in_force: 2017-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/864/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/237/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Bevölkerungsschutzgesetz
+# Bevölkerungsschutzgesetz (BevSG)
 
-(BevSG)
-
-Vom 22.08.2016 (Stand 01.01.2017)
+vom 22. August 2016
 
 Der Kantonsrat Schaffhausen
 
-beschliesst:
+beschliesst als Gesetz:
 
-## 1 Allgemeine Bestimmungen
+## A. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Vorbereitung auf bevölkerungsschutzrelevante Ereignisse und deren Bewältigung, insbesondere die Zuständigkeiten des Kantons und der Gemeinden, ihrer Führungsorganisationen sowie der Partnerorganisationen, die Zusammenarbeit und die Finanzierung. Ausserdem schafft es die Grundlagen für den Vollzug der Bundesgesetzgebung über den Bevölkerungsschutz[^1-1] und die wirtschaftliche Landesversorgung[^1-2].
+Dieses Gesetz regelt die Vorbereitung auf bevölkerungsschutzrelevante Ereignisse und deren Bewältigung, insbesondere die Zuständigkeiten des Kantons und der Gemeinden, ihrer Führungsorganisationen sowie der Partnerorganisationen, die Zusammenarbeit und die Finanzierung. Ausserdem schafft es die Grundlagen für den Vollzug der Bundesgesetzgebung über den Bevölkerungsschutz[^1-1] und die wirtschaftliche Landesversorgung[^1-2].
 
-[^1-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
-[^1-2]: SR [531](http://db.clex.ch/link/Bund/531/de).
+[^1-1]: SR 520.1.
+[^1-2]: SR 531.
 
 #### Art. 2
 
 **Bevölkerungsschutzrelevantes Ereignis**
 
-<sup>1</sup> Ein bevölkerungsschutzrelevantes Ereignis liegt vor, wenn aufgrund von Grossereignissen, Katastrophen oder Notlagen die anstehenden Aufgaben nicht mehr mit den ordentlichen Mitteln und Abläufen der betroffenen Gemeinschaft bewältigt werden können.
+Ein bevölkerungsschutzrelevantes Ereignis liegt vor, wenn aufgrund von Grossereignissen, Katastrophen oder Notlagen die anstehenden Aufgaben nicht mehr mit den ordentlichen Mitteln und Abläufen der betroffenen Gemeinschaft bewältigt werden können.
 
 #### Art. 3
 
@@ -50,13 +49,19 @@ beschliesst:
 
 <sup>2</sup> Partnerorganisationen im Sinne dieses Gesetzes sind:
 
-- a) Polizei: die Schaffhauser Polizei
-- b) Feuerwehr: die Orts-, Verbands-, und Betriebsfeuerwehren sowie die Kantonale Feuerpolizei
-- c) Gesundheitswesen: die Spitäler Schaffhausen und die zugelassenen Privatkliniken, der sanitätsdienstliche Rettungsdienst, die ambulanten ärztlichen Institutionen und die frei praktizierenden Angehörigen von Berufen des Gesundheitswesens, die Apotheken, die zugelassenen Heime und Pflegedienste sowie die Care-Organisation
-- d) technische Betriebe: die Betreiber von Einrichtungen der Energie- und Wasserversorgung, der Entsorgung, der Telematik und von Verkehrsverbindungen
-- e) Zivilschutz: die kantonale Zivilschutzorganisation
+- a) Polizei: die Schaffhauser Polizei;
 
-## 2 Vorbeuge für bevölkerungsschutz-relevante Ereignisse
+- b) Feuerwehr: die Orts-, Verbands-, und Betriebsfeuerwehren sowie die Kantonale Feuerpolizei;
+
+- c) Gesundheitswesen: die Spitäler Schaffhausen und die zugelassenen Privatkliniken, der sanitätsdienstliche Rettungsdienst, die ambulanten ärztlichen Institutionen und die frei praktizierenden
+
+Amtsblatt 2016, S. 1307, S. 1899. Angehörigen von Berufen des Gesundheitswesens, die Apotheken, die zugelassenen Heime und Pflegedienste sowie die Care-Organisation;
+
+- d) technische Betriebe: die Betreiber von Einrichtungen der Energie- und Wasserversorgung, der Entsorgung, der Telematik und von Verkehrsverbindungen;
+
+- e) Zivilschutz: die kantonale Zivilschutzorganisation.
+
+## B. Vorbeuge für bevölkerungsschutzrelevante Ereignisse
 
 #### Art. 4
 
@@ -76,7 +81,7 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden schaffen die hierfür notwendigen Strukturen, Organisationen und Bestimmungen. Mehrere Gemeinden können sich für einzelne oder mehrere Aufgaben zusammenschliessen. Der Regierungsrat kann eine Zusammenarbeit mehrerer Gemeinden anordnen.
 
-[^5-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
+[^5-1]: SHR 120.100.
 
 #### Art. 6
 
@@ -88,8 +93,9 @@ beschliesst:
 
 <sup>3</sup> Er wählt die Mitglieder der KFO für die verfassungsmässige Amtsdauer. Für folgende Personen kann er eine Dienstpflicht verfügen:
 
-- a) für die Arbeitnehmerinnen und Arbeitnehmer des Kantons
-- b) für besonders qualifizierte Personen, die nicht oder nicht mehr schutzdienstpflichtig sind
+- a) für die Arbeitnehmerinnen und Arbeitnehmer des Kantons;
+
+- b) für besonders qualifizierte Personen, die nicht oder nicht mehr schutzdienstpflichtig sind.
 
 <sup>4</sup> Er kann der KFO durch Verordnung im Hinblick auf die Bewältigung bevölkerungsschutzrelevanter Ereignisse vorsorglich Kompetenzen der ordentlichen Verwaltungsbehörden übertragen.
 
@@ -113,7 +119,7 @@ beschliesst:
 
 **Führungsinfrastrukturen, Informations- und Kommunikationstechnologien**
 
-<sup>1</sup> Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastrukturen sowie die notwendigen Informations- und Kommunikationstechnologien. Sie stimmen diese aufeinander ab.
+Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastrukturen sowie die notwendigen Informations- und Kommunikationstechnologien. Sie stimmen diese aufeinander ab.
 
 #### Art. 10
 
@@ -137,12 +143,13 @@ beschliesst:
 
 **Wirtschaftliche Landesversorgung**
 
-<sup>1</sup> Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu erfüllen:
+Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu erfüllen,
 
-- a) schafft der Kanton eine Zentralstelle für wirtschaftliche Landesversorgung
-- b) haben die Gemeinden eine Gemeindestelle für wirtschaftliche Landesversorgung und bezeichnen einen verantwortlichen Leiter und Stellvertreter
+- a) schafft der Kanton eine Zentralstelle für wirtschaftliche Landesversorgung;
 
-## 3 Bewältigung von bevölkerungsschutz-relevanten Ereignissen
+- b) haben die Gemeinden eine Gemeindestelle für wirtschaftliche Landesversorgung und bezeichnen einen verantwortlichen Leiter und Stellvertreter.
+
+## C. Bewältigung von bevölkerungsschutzrelevanten Ereignissen
 
 #### Art. 13
 
@@ -194,15 +201,15 @@ beschliesst:
 
 **Aufgebot von Einzelpersonen**
 
-<sup>1</sup> Der Regierungsrat oder die Gemeinderäte können für die Unterstützung der Behörden und betroffener Privater alle erforderlichen Einwohnerinnen bzw. Einwohner aufbieten, insbesondere Personen mit besonderer Ausbildung und besonderen Fähigkeiten, soweit nicht Militär- oder Schutzdienstpflicht entgegenstehen.
+Der Regierungsrat oder die Gemeinderäte können für die Unterstützung der Behörden und betroffener Privater alle erforderlichen Einwohnerinnen bzw. Einwohner aufbieten, insbesondere Personen mit besonderer Ausbildung und besonderen Fähigkeiten, soweit nicht Militär- oder Schutzdienstpflicht entgegenstehen.
 
 #### Art. 19
 
 **Gesundheitswesen**
 
-<sup>1</sup> Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses über die öffentlichen und privaten Spitäler, Kliniken und Heime verfügen und die freie Arzt- und Spitalwahl aufheben.
+Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses über die öffentlichen und privaten Spitäler, Kliniken und Heime verfügen und die freie Arzt- und Spitalwahl aufheben.
 
-## 4 Kostentragung
+## D. Kostentragung
 
 #### Art. 20
 
@@ -242,9 +249,9 @@ beschliesst:
 
 **Entschädigung und Versicherung**
 
-<sup>1</sup> Der Kanton und die Gemeinden entschädigen und versichern die von ihnen aufgebotenen Personen, welche nicht als Arbeitnehmerinnen oder Arbeitnehmer in ihrem Dienst stehen oder vom Zivilschutz zugewiesen werden. Das Nähere regeln der Regierungsrat und die Gemeinderäte jeweils für ihren Zuständigkeitsbereich.
+Der Kanton und die Gemeinden entschädigen und versichern die von ihnen aufgebotenen Personen, welche nicht als Arbeitnehmerinnen oder Arbeitnehmer in ihrem Dienst stehen oder vom Zivilschutz zugewiesen werden. Das Nähere regeln der Regierungsrat und die Gemeinderäte jeweils für ihren Zuständigkeitsbereich.
 
-## 5 Rechtspflege
+## E. Rechtspflege
 
 #### Art. 24
 
@@ -254,29 +261,56 @@ beschliesst:
 
 <sup>2</sup> Im Ereignisfall kommt Rechtsmitteln gegen Verfügungen nach diesem Gesetz keine aufschiebende Wirkung zu. Wenn dem Betroffenen aus der Vollstreckung der angefochtenen Verfügung ein nicht wiedergutzumachender Nachteil entstünde, kann die Rechtsmittelinstanz dem Rechtsmittel auf Antrag hin aufschiebende Wirkung zuerkennen.
 
-[^24-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^24-1]: SHR 172.200.
 
 #### Art. 25
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig den Verpflichtungen zuwiderhandelt, die gestützt auf dieses Gesetz oder die Vollzugserlasse verfügt wurden, wird mit Busse bis Fr. 10'000.00 bestraft.
+Wer vorsätzlich oder fahrlässig den Verpflichtungen zuwiderhandelt, die gestützt auf dieses Gesetz oder die Vollzugserlasse verfügt wurden, wird mit Busse bis 10'000 Franken bestraft.
 
-## 6 Schlussbestimmungen
+## F. Schlussbestimmungen
 
 #### Art. 26
 
-**Änderung bisherigen Rechts[^26-1]**
+**Änderung bisherigen Rechts**
 
-[^26-1]: Gegenstandslos.
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+- a) Polizeigesetz vom 21. Februar 2000[^26-1]:
+
+[^26-1]: SHR 354.100.
+
+#### Art. 7
+
+Im Katastrophenfall und bei anderen ausserordentlichen Ereignissen kommen überdies die Bestimmungen des kantonalen Bevölkerungsschutzgesetzes zur Anwendung.
+
+- b) Gesundheitsgesetz vom 21. Mai 2002[^7_2-1]:
+
+[^7_2-1]: SHR 810.000.
+
+#### Art. 27
+
+Für die Vorbereitung und Sicherstellung der Gesundheitsversorgung bei bevölkerungsschutzrelevanten Ereignissen gelten die spezialgesetzlichen Regelungen des Bundes und des Kantons, insbesondere des kantonalen Bevölkerungsschutzgesetzes.
+
+- c) Gesetz über die Einführung des Bundesgesetzes über den Umweltschutz vom 22. Januar 2007[^27-1]:
+
+[^27-1]: SHR 814.100.
+
+#### Art. 8
+
+**Abs. 1**
+
+<sup>1</sup> Das Interkantonale Labor vollzieht die Störfallverordnung, soweit bestimmte Aufgaben nicht anderen Fachstellen und Behörden gemäss des kantonalen Bevölkerungsschutzgesetzes übertragen werden.
 
 #### Art. 27
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
+Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
 - a) Gesetz über Organisation und Schutzmassnahmen bei ausserordentlichen Ereignissen (Katastrophen- und Nothilfegesetz) vom 26. Juni 1995
+
 - b) Dekret über die Ausrichtung von Beiträgen nach dem Gesetz über Organisation und Schutzmassnahmen bei ausserordentlichen Ereignissen (Beitragsdekret Katastrophen- und Nothilfe) vom 26. Juni 1995
 
 #### Art. 28
@@ -289,7 +323,7 @@ beschliesst:
 
 <sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^28-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^28-1]: In Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1899).
 [^28-2]: Amtsblatt 2016, S. 1307.
-
-Abl. 2016, S. 1307, S. 1899
