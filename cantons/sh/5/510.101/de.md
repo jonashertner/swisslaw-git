@@ -4,38 +4,42 @@ number: "510.101"
 title: Kantonale Militärverordnung
 language: de
 version: 2019-07-01
-valid_until: 2025-06-30
+corrected: 2024-05-31
 version_adopted: 2019-06-25
 adopted: 2016-03-22
 in_force: 2016-05-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/510.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/868/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/103/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Kantonale Militärverordnung
 
-Vom 22.03.2016 (Stand 01.07.2019)
+vom 22. März 2016
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 11 Abs. 2, 121, 122 und 125 Abs. 1 und 2 des Bundesgesetzes über die Armee und die Militärverwaltung (Militärgesetz, MG) vom 3. Februar 1995[^ingress-1], Art. 189 Abs. 2 und 3 191 Abs. 5 und 195 Abs. 4 des Militärstrafgesetzes (MStG) vom 13. Juni 1927[^ingress-2], Art. 34 und 35 der Verordnung über das Schiesswesen ausser Dienst (Schiessverordnung) vom 5. Dezember 2003[^ingress-3] und Art. 22 des Bundesgesetzes über die Wehrpflichtersatzabgabe (WPEG) vom 12. Juni 1959[^ingress-4],
+gestützt auf Art. 11 Abs. 2, 121, 122 und 125 Abs. 1 und 2 des Bundesgesetzes über die Armee und die Militärverwaltung (Militärgesetz, MG) vom 3. Februar 1995[^t-1],[^t-2] Art. 189 Abs. 2 und 3 191 Abs. 5 und 195 Abs. 4 des Militärstrafgesetzes (MStG) vom 13. Juni 1927[^t-3], Art. 34 und 35 der Verordnung über das Schiesswesen ausser Dienst (Schiessverordnung) vom 5. Dezember 2003[^t-4] und Art. 22 des Bundesgesetzes über die Wehrpflichtersatzabgabe (WPEG) vom 12. Juni 1959[^t-5],
 
 beschliesst:
 
-[^ingress-1]: SR [510.10](http://db.clex.ch/link/Bund/510.10/de).
-[^ingress-2]: SR [321.0](http://db.clex.ch/link/Bund/321.0/de).
-[^ingress-3]: SR [512.31](http://db.clex.ch/link/Bund/512.31/de).
-[^ingress-4]: SR [661](http://db.clex.ch/link/Bund/661/de).
+[^t-1]: SR 510.10.
+[^t-2]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1068).
+[^t-3]: SR 321.0.
+[^t-4]: SR 512.31.
+[^t-5]: SR 661.
 
 #### § 1
 
 **Kantonale Militärbehörde**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee ist die kantonale Militärbehörde.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee ist die kantonale Militärbehörde.[^1-1]
 
 <sup>2</sup> Sie ist zuständig für den Vollzug der eidgenössischen und kantonalen Vorschriften über das Militärwesen, die Wehrpflichtersatzabgabe und das Schiesswesen ausser Dienst, soweit das Bundesrecht oder diese Verordnung nicht eine andere Stelle bezeichnen.
+
+[^1-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1068).
 
 #### § 2
 
@@ -43,7 +47,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton Schaffhausen bildet einen Militärkreis.
 
-<sup>2</sup> Der Regierungsrat ernennt aus dem Amt für Bevölkerungsschutz und Armee die Kreiskommandantin oder den Kreiskommandanten.
+<sup>2</sup> Der Regierungsrat ernennt aus dem Amt für Bevölkerungsschutz und Armee die Kreiskommandantin oder den Kreiskommandanten.[^2-1]
+
+[^2-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1068).
 
 #### § 3
 
@@ -52,6 +58,8 @@ beschliesst:
 <sup>1</sup> Der Kanton Schaffhausen bildet einen Schiesskreis.
 
 <sup>2</sup> Das Finanzdepartement ernennt die Präsidentin oder den Präsidenten und die Mitglieder der Schiesskommission.
+
+Amtsblatt 2016, S. 493
 
 #### § 4
 
@@ -79,6 +87,6 @@ beschliesst:
 
 <sup>3</sup> Mit dem Inkrafttreten dieser Verordnung wird die kantonale Militärverordnung vom 23. November 2004 aufgehoben.
 
-[^6-1]: Amtsblatt 2016, S. 493.
+Fussnoten:
 
-Abl. 2016, S. 493
+[^6-1]: Amtsblatt 2016, S. 493.
