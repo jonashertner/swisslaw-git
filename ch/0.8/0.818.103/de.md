@@ -3,29 +3,28 @@ sr: "0.818.103"
 title: Internationale Gesundheitsvorschriften (2005) vom 23. Mai 2005 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: de
-version: 2016-07-11
+version: 2024-05-31
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20160711/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20160711-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20160711/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20240531-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20240531/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Internationale Gesundheitsvorschriften (2005)****
+# Internationale Gesundheitsvorschriften (2005)
 
 AS **2007** 2471[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
 Angenommen an der 58. Weltgesundheitsversammlung am 23. Mai 2005
 
 Für die Schweiz in Kraft getreten am 15. Juni 2007
 
-(Stand am 11. Juli 2016)
+(Stand am 31. Mai 2024)
 
 [^t-1]: Totalrevision des Internationalen Sanitätsreglements vom 25. Juli 1969 ([SR 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)); Deutschland, Österreich und die Schweiz haben beschlossen, in Zukunft gemeinsam den Begriff «Internationale Gesundheitsvorschriften» (IGV) zu verwenden; diese Anpassung gilt für den ganzen Text der Vorschriften.
-[^t-2]: Übersetzung des französischen Originaltexts.
 
 Die achtundfünfzigste Weltgesundheitsversammlung,
 
@@ -1057,13 +1056,15 @@ Ist der Generaldirektor der Auffassung, dass eine ständige Empfehlung in Bezug 
 
 #### Art. 55
 
-**Änderungen**
+**Änderungen**[^55-1]
 
 <sup>(1)</sup> Änderungen dieser Vorschriften können von jedem Vertragsstaat oder vom Generaldirektor vorgeschlagen werden. Diese Änderungsvorschläge werden der Gesundheitsversammlung zur Prüfung vorgelegt.
 
 <sup>(2)</sup> Der Wortlaut jedes Änderungsvorschlags wird allen Vertragsstaaten durch den Generaldirektor mindestens vier Monate vor der Gesundheitsversammlung, auf der er zur Beratung vorgeschlagen wird, übermittelt.
 
-<sup>(3)</sup> Änderungen dieser Vorschriften, die von der Gesundheitsversammlung nach diesem Artikel beschlossen werden, treten für alle Vertragsstaaten unter denselben Bedingungen und vorbehaltlich derselben Rechte und Pflichten in Kraft, wie sie in Artikel 22 der Satzung der WHO und in den Artikeln 59–64 dieser Vorschriften vorgesehen sind.
+<sup>(3)</sup> Änderungen dieser Vorschriften, die von der Gesundheitsversammlung nach diesem Artikel beschlossen werden, treten für alle Vertragsstaaten unter denselben Bedingungen und vorbehaltlich derselben Rechte und Pflichten in Kraft, wie sie in Artikel 22 der Satzung der WHO und in den Artikeln 59–64 dieser Vorschriften vorgesehen sind, und zwar nach Massgabe der in diesen Artikeln für Änderungen dieser Vorschriften vorgesehenen Fristen.
+
+[^55-1]: Fassung gemäss Beschluss vom 28. Mai 2022, in Kraft seit 31. Mai 2024 ([AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 56
 
@@ -1124,20 +1125,24 @@ Diese Vorschriften ersetzen vorbehaltlich des Artikels 62 und der nachstehend vo
 
 #### Art. 59
 
-**Inkrafttreten; Frist für Ablehnungen oder Vorbehalte**
+**Inkrafttreten; Frist für Ablehnungen oder Vorbehalte**[^59-1]
 
-<sup>(1)</sup> Die nach Artikel 22 der Satzung der WHO vorgesehene Frist für die Ablehnung oder Änderung dieser Vorschriften oder für Vorbehalte zu diesen beträgt 18 Monate, gerechnet von dem Tag, an dem der Generaldirektor die Annahme dieser Vorschriften oder die Änderung dieser Vorschriften durch die Gesundheitsversammlung notifiziert. Ablehnungen oder Vorbehalte, die nach Ablauf dieser Frist beim Generaldirektor eingehen, sind unwirksam.
+<sup>(1)</sup> Die nach Artikel 22 der Satzung der WHO vorgesehene Frist für die Ablehnung dieser Vorschriften oder für Vorbehalte zu diesen beträgt 18 Monate, gerechnet von dem Tag, an dem der Generaldirektor die Annahme dieser Vorschriften durch die Gesundheitsversammlung notifiziert. Ablehnungen oder Vorbehalte, die nach Ablauf dieser Frist beim Generaldirektor eingehen, sind unwirksam.
+
+(1<sup>bis</sup>) Die nach Artikel 22 der Satzung der WHO vorgesehene Frist für die Ablehnung einer Änderung dieser Vorschriften oder für Vorbehalte zu einer solchen Änderung beträgt 10 Monate, gerechnet von dem Tag, an dem der Generaldirektor die Annahme einer Änderung dieser Vorschriften durch die Gesundheitsversammlung notifiziert. Ablehnungen oder Vorbehalte, die nach Ablauf dieser Frist beim Generaldirektor eingehen, sind unwirksam.
 
 <sup>(2)</sup>
 
-Diese Vorschriften treten 24 Monate nach dem in Absatz 1 genannten Tag der Notifikation in Kraft; dies gilt nicht für:
+Diese Vorschriften treten 24 Monate nach dem in Absatz 1 genannten Tag der Notifikation in Kraft und Änderungen dieser Vorschriften treten 12 Monate nach dem in Absatz 1<sup>bis</sup> genannten Tag der Notifikation in Kraft; dies gilt nicht für:
 
 - a) einen Staat, der die Vorschriften oder deren Änderung nach Artikel 61 abgelehnt hat;
-- b) einen Staat, der einen Vorbehalt gemacht hat; für ihn treten die Vorschriften wie in Artikel 62 vorgesehen in Kraft;
-- c) einen Staat, der nach dem in Absatz 1 genannten Tag der Notifikation durch den Generaldirektor Mitglied der WHO wird und nicht bereits Vertragspartei dieser Vorschriften ist; für ihn treten die Vorschriften wie in Artikel 60 vorgesehen in Kraft;
+- b) einen Staat, der einen Vorbehalt gemacht hat; für ihn treten die Vorschriften oder deren Änderung wie in Artikel 62 vorgesehen in Kraft;
+- c) einen Staat, der nach dem in Absatz 1 genannten Tag der Notifikation durch den Generaldirektor Mitglied der WHO wird und nicht bereits Vertragspartei dieser Vorschriften ist; für ihn treten die Vorschriften wie in Artikel 60 vorgesehen in Kraft; und
 - d) einen Staat, der nicht Mitglied der WHO ist und diese Vorschriften annimmt; für ihn treten sie nach Artikel 64 Absatz 1 in Kraft.
 
-<sup>(3)</sup> Ist ein Staat nicht in der Lage, seine innerstaatlichen Rechts- und Verwaltungsregelungen innerhalb der in Absatz 2 genannten Frist vollständig an diese Vorschriften anzupassen, so legt dieser Staat innerhalb der in Absatz 1 genannten Frist dem Generaldirektor eine Erklärung hinsichtlich der noch ausstehenden Anpassungen vor; diese nimmt er spätestens zwölf Monate nach Inkrafttreten dieser Vorschriften für diesen Vertragsstaat vor.
+<sup>(3)</sup> Ist ein Staat nicht in der Lage, seine innerstaatlichen Rechts- und Verwaltungsregelungen innerhalb der in Absatz 2 genannten Frist vollständig an diese Vorschriften anzupassen, so legt dieser Staat innerhalb der in Absatz 1 oder Absatz 1<sup>bis</sup> genannten Frist dem Generaldirektor eine Erklärung hinsichtlich der noch ausstehenden Anpassungen vor; diese nimmt er spätestens zwölf Monate nach Inkrafttreten dieser Vorschriften oder der Änderung derselben für diesen Vertragsstaat vor.
+
+[^59-1]: Fassung gemäss Beschluss vom 28. Mai 2022, in Kraft seit 31. Mai 2024 ([AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 60
 
@@ -1147,44 +1152,51 @@ Jeder Staat, der nach dem in Artikel 59 Absatz 1 genannten Tag der Notifikation 
 
 #### Art. 61
 
-**Ablehnung**
+**Ablehnung**[^61-1]
 
-Notifiziert ein Staat dem Generaldirektor seine Ablehnung dieser Vorschriften oder einer Änderung derselben innerhalb der in Artikel 59 Absatz 1 vorgesehenen Frist, so treten diese Vorschriften oder die betreffende Änderung in Bezug auf diesen Staat nicht in Kraft. Alle in Artikel 58 aufgeführten internationalen Sanitätsabkommen oder Gesundheitsvorschriften, deren Vertragspartei ein solcher Staat bereits ist, bleiben für diesen Staat in Kraft.
+Notifiziert ein Staat dem Generaldirektor seine Ablehnung dieser Vorschriften oder einer Änderung derselben innerhalb der in Artikel 59 Absatz 1 oder Absatz 1<sup>bis</sup> vorgesehenen Frist, so treten diese Vorschriften oder die betreffende Änderung in Bezug auf diesen Staat nicht in Kraft. Alle in Artikel 58 aufgeführten internationalen Sanitätsabkommen oder Gesundheitsvorschriften, deren Vertragspartei ein solcher Staat bereits ist, bleiben für diesen Staat in Kraft.
+
+[^61-1]: Fassung gemäss Beschluss vom 28. Mai 2022, in Kraft seit 31. Mai 2024 ([AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 62
 
-**Vorbehalte**
+**Vorbehalte**[^62-1]
 
-<sup>(1)</sup> Die Staaten können nach diesem Artikel Vorbehalte zu diesen Vorschriften anbringen. Solche Vorbehalte dürfen nicht mit Ziel und Zweck dieser Vorschriften unvereinbar sein.
+<sup>(1)</sup> Die Staaten können nach diesem Artikel Vorbehalte zu diesen Vorschriften oder der Änderung derselben anbringen. Solche Vorbehalte dürfen nicht mit Ziel und Zweck dieser Vorschriften unvereinbar sein.
 
-<sup>(2)</sup> Vorbehalte zu diesen Vorschriften werden dem Generaldirektor je nach Fall in Übereinstimmung mit Artikel 59 Absatz 1 und Artikel 60, Artikel 63 Absatz 1 oder Artikel 64 Absatz 1 notifiziert. Ein Staat, der nicht Mitglied der WHO ist, notifiziert dem Generaldirektor einen Vorbehalt zusammen mit der Notifikation seiner Annahme dieser Vorschriften. Staaten, die Vorbehalte anbringen, sollen diese dem Generaldirektor gegenüber begründen.
+<sup>(2)</sup> Vorbehalte zu diesen Vorschriften oder der Änderung derselben werden dem Generaldirektor je nach Fall in Übereinstimmung mit Artikel 59 Absatz 1 und 1<sup>bis</sup> sowie Artikel 60, Artikel 63 Absatz 1 oder Artikel 64 Absatz 1 notifiziert. Ein Staat, der nicht Mitglied der WHO ist, notifiziert dem Generaldirektor einen Vorbehalt zusammen mit der Notifikation seiner Annahme dieser Vorschriften. Staaten, die Vorbehalte anbringen, sollen diese dem Generaldirektor gegenüber begründen.
 
-<sup>(3)</sup> Die Ablehnung eines Teiles dieser Vorschriften gilt als Vorbehalt.
+<sup>(3)</sup> Die Ablehnung eines Teiles dieser Vorschriften oder eines Teils einer Änderung derselben gilt als Vorbehalt.
 
-<sup>(4)</sup> Staaten, die gegen einen Vorbehalt Einspruch erheben, sollen diesen Einspruch dem Generaldirektor gegenüber begründen.
+<sup>(4)</sup> Vertragsstaaten, die gegen einen Vorbehalt zu einer Änderung Einspruch erheben, sollen diesen Einspruch dem Generaldirektor gegenüber begründen.
 
 Der Generaldirektor notifiziert in Übereinstimmung mit Artikel 65 Absatz 2 jeden nach Absatz 2 dieses Artikels eingegangenen Vorbehalt. Der Generaldirektor ersucht:
 
 - a) diejenigen Mitgliedstaaten, welche diese Vorschriften nicht abgelehnt haben, ihm innerhalb von sechs Monaten einen etwaigen Einspruch gegen den Vorbehalt zu notifizieren, wenn der Vorbehalt vor Inkrafttreten dieser Vorschriften angebracht wurde; oder
-- b) die Vertragsstaaten, ihm innerhalb von sechs Monaten einen etwaigen Einspruch gegen den Vorbehalt zu notifizieren, wenn der Vorbehalt nach Inkrafttreten dieser Vorschriften angebracht wurde.
+- b) die Vertragsstaaten, ihm innerhalb von sechs Monaten einen etwaigen Einspruch gegen den Vorbehalt zu notifizieren, wenn der Vorbehalt nach Inkrafttreten dieser Vorschriften angebracht wurde; oder
+- c) die Vertragsstaaten, ihm innerhalb von drei Monaten einen etwaigen Einspruch gegen den Vorbehalt zu notifizieren, wenn der Vorbehalt zu einer Änderung dieser Vorschriften angebracht wurde.
 
-<sup>(5)</sup> Nach Ablauf dieser Frist notifiziert der Generaldirektor allen Vertragsstaaten die bei ihm zu Vorbehalten eingegangenen Einsprüche. Wurde bis spätestens sechs Monate nach dem Tag der in Absatz 4 genannten Notifikation von einem Drittel der in Absatz 4 genannten Staaten kein Einspruch gegen einen Vorbehalt erhoben, so gilt dieser als angenommen; diese Vorschriften treten für den diesen Vorbehalt anbringenden Staat nach Massgabe dieses Vorbehalts in Kraft.
+<sup>(5)</sup> Nach Ablauf dieser Frist notifiziert der Generaldirektor allen Vertragsstaaten die bei ihm zu Vorbehalten eingegangenen Einsprüche. Wurde bis spätestens sechs Monate nach dem Tag der in Absatz 4 genannten Notifikation von einem Drittel der in Absatz 4 genannten Staaten kein Einspruch gegen einen Vorbehalt erhoben, so gilt dieser als angenommen; diese Vorschriften treten für den diesen Vorbehalt anbringenden Staat nach Massgabe dieses Vorbehalts in Kraft. Wurde bis spätestens drei Monate nach dem Tag der in Absatz 4 genannten Notifikation von einem Drittel der in Absatz 4 genannten Staaten kein Einspruch gegen einen Vorbehalt zu einer Änderung dieser Vorschriften erhoben, so gilt dieser als angenommen; die Änderung tritt für den diesen Vorbehalt anbringenden Staat nach Massgabe dieses Vorbehalts in Kraft.
 
-<sup>(6)</sup> Erhebt mindestens ein Drittel der in Absatz 4 genannten Staaten bis spätestens sechs Monate nach dem Tag der in Absatz 4 genannten Notifikation Einspruch gegen den Vorbehalt, so notifiziert der Generaldirektor dies dem den Vorbehalt anbringenden Staat mit dem Ziel, ihn zur Prüfung einer Rücknahme des Vorbehalts binnen drei Monaten nach der Notifikation durch den Generaldirektor zu veranlassen.
+<sup>(6)</sup> Erhebt mindestens ein Drittel der in Absatz 4 genannten Staaten bis spätestens sechs Monate nach dem Tag der in Absatz 4 genannten Notifikation Einspruch gegen den Vorbehalt zu diesen Vorschriften, oder im Falle eines Vorbehalts zu einer Änderung dieser Vorschriften bis spätestens drei Monate nach dem Tag der in Absatz 4 genannten Notifikation, so notifiziert der Generaldirektor dies dem den Vorbehalt anbringenden Staat mit dem Ziel, ihn zur Prüfung einer Rücknahme des Vorbehalts binnen drei Monaten nach der Notifikation durch den Generaldirektor zu veranlassen.
 
 <sup>(7)</sup> Der einen Vorbehalt anbringende Staat erfüllt weiterhin alle sich auf den Gegenstand des Vorbehalts beziehenden Verpflichtungen, die er aufgrund der in Artikel 58 aufgeführten internationalen Sanitätsabkommen oder Gesundheitsvorschriften übernommen hat.
 
 <sup>(8)</sup> Nimmt der den Vorbehalt anbringende Staat den Vorbehalt nicht binnen drei Monaten nach dem Tag der in Absatz 6 genannten Notifikation durch den Generaldirektor zurück, so fordert der Generaldirektor eine Stellungnahme des Prüfungsausschusses an, wenn der den Vorbehalt anbringende Staat darum ersucht. Der Prüfungsausschuss berät den Generaldirektor baldmöglichst nach Artikel 50 über die praktischen Auswirkungen des Vorbehalts auf die Wirkungsweise dieser Vorschriften.
 
-<sup>(9)</sup> Der Generaldirektor legt den Vorbehalt und gegebenenfalls die Stellungnahme des Prüfungsausschusses der Gesundheitsversammlung zur Prüfung vor. Erhebt die Gesundheitsversammlung mehrheitlich Einspruch gegen den Vorbehalt, weil er mit Ziel und Zweck dieser Vorschriften unvereinbar ist, so wird der Vorbehalt nicht angenommen; diese Vorschriften treten für den den Vorbehalt anbringenden Staat nur dann in Kraft, wenn er seinen Vorbehalt nach Artikel 63 zurücknimmt. Nimmt die Gesundheitsversammlung den Vorbehalt an, so treten diese Vorschriften für den den Vorbehalt anbringenden Staat nach Massgabe seines Vorbehalts in Kraft.
+<sup>(9)</sup> Der Generaldirektor legt den Vorbehalt und gegebenenfalls die Stellungnahme des Prüfungsausschusses der Gesundheitsversammlung zur Prüfung vor. Erhebt die Gesundheitsversammlung mehrheitlich Einspruch gegen den Vorbehalt, weil er mit Ziel und Zweck dieser Vorschriften unvereinbar ist, so wird der Vorbehalt nicht angenommen; diese Vorschriften oder die Änderung derselben treten für den den Vorbehalt anbringenden Staat nur dann in Kraft, wenn er seinen Vorbehalt nach Artikel 63 zurücknimmt. Nimmt die Gesundheitsversammlung den Vorbehalt an, so treten diese Vorschriften oder die Änderung derselben für den den Vorbehalt anbringenden Staat nach Massgabe seines Vorbehalts in Kraft.
+
+[^62-1]: Fassung gemäss Beschluss vom 28. Mai 2022, in Kraft seit 31. Mai 2024 ([AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 63
 
-**Rücknahme von Ablehnungen und Vorbehalten**
+**Rücknahme von Ablehnungen und Vorbehalten**[^63-1]
 
-<sup>(1)</sup> Ein Staat kann eine Ablehnung nach Artikel 61 jederzeit durch Notifikation an den Generaldirektor zurücknehmen. In diesen Fällen treten die Vorschriften in Bezug auf diesen Staat bei Eingang der Notifikation beim Generaldirektor in Kraft, es sei denn, der Staat bringt bei der Rücknahme seiner Ablehnung einen Vorbehalt an; in diesem Fall treten die Vorschriften wie in Artikel 62 vorgesehen in Kraft. Keinesfalls treten die Vorschriften in Bezug auf diesen Staat vor Ablauf von 24 Monaten nach dem in Artikel 59 Absatz 1 genannten Tag der Notifikation in Kraft.
+<sup>(1)</sup> Ein Staat kann eine Ablehnung nach Artikel 61 jederzeit durch Notifikation an den Generaldirektor zurücknehmen. In diesen Fällen treten die Vorschriften beziehungsweise die Änderung derselben in Bezug auf diesen Staat bei Eingang der Notifikation beim Generaldirektor in Kraft, es sei denn, der Staat bringt bei der Rücknahme seiner Ablehnung einen Vorbehalt an; in diesem Fall treten die Vorschriften beziehungsweise die Änderung derselben wie in Artikel 62 vorgesehen in Kraft. Keinesfalls treten die Vorschriften in Bezug auf diesen Staat vor Ablauf von 24 Monaten nach dem in Artikel 59 Absatz 1 genannten Tag der Notifikation in Kraft und keinesfalls tritt eine Änderung dieser Vorschriften in Bezug auf diesen Staat vor Ablauf von 12 Monaten nach dem in Artikel 59 Absatz 1<sup>bis</sup> genannten Tag der Notifikation in Kraft.
 
 <sup>(2)</sup> Ein Vorbehalt oder ein Teil eines Vorbehalts kann von dem betreffenden Vertragsstaat durch eine an den Generaldirektor gerichtete Notifikation jederzeit zurückgenommen werden. In diesen Fällen wird die Rücknahme mit dem Tag des Eingangs der Notifikation beim Generaldirektor wirksam.
+
+[^63-1]: Fassung gemäss Beschluss vom 28. Mai 2022, in Kraft seit 31. Mai 2024 ([AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 64
 
@@ -1292,12 +1304,12 @@ Anlage 2
 
 <table>
 <tr><td colspan="32">**Durch das nationale Überwachungssystem festgestellte Ereignisse (siehe Anlage 1)**</td></tr>
-<tr><td colspan="7">**Das Auftreten fo****l****gender Krankheiten ist ungewöh****n****lich oder unerwartet und kann schwerwiegende Auswirku****n****gen auf die öffentliche Gesun****d****heit haben, weshalb es gemeldet werden muss****<sup>a, b</sup>****:** **–** **Pocken** **–** **Poliomyel****i****tis durch Wildtyp-Poliov****i****rus,** **–** **humane Influe****n****za, verursacht durch einen neuen Subtyp de****s** **Virus** **–** Schweres Akutes **Atemwegssyndrom (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Ereignisse, die von interna****t****i****onaler Tragweite für die öffentliche Gesun****d****heit sein können, einschliesslich solcher, deren Urs****a****che oder Quelle unbekannt ist, und solcher, die andere Ereigni****s****se oder Krankheiten mit sich bringen als diejen****i****gen, die in den Kästen links und rechts aufg****e****führt sind, führen zur Anwendung des Alg****o****rithmus**</td><td></td><td></td><td></td><td colspan="12">**Ein Ereignis, das die folgenden Kran****k****heiten mit sich bringt, führt stets zur Anwendung des Algorit****h****mus, weil diese Krankheiten gezeigt haben, dass sie schwerwiegende Auswirku****n****gen auf die öffentliche Gesundheit haben und sich rasch grenzüberschreitend ausbreiten können****<sup>b</sup>****:** **–** **Cholera** **–** **Lungenpest** **–** **Gelbfieber** **–** **virale hämorrhag****i****sche Fieber (Ebola, Lassa, Marburg)** **–** **West-Nil-Fieber** **–** **andere Kran****k****heiten besonderer nation****a****ler oder regionaler Bede****u****tung, z.B. Dengue****‑** **Fieber, Rift-Tal-Fieber und Meningoko****k****ken-Krankheit**</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="9">**Sind die Auswirkungen des Ereigni****s****ses auf die öffentliche Gesundheit schwerwiegend?**</td><td></td><td></td><td colspan="12"></td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="9">**Ist das Ereignis ungewöh****n****lich oder unerwartet?**</td><td></td><td></td><td></td><td></td><td colspan="12">**Ist das Ereignis ung****e****wöhnlich oder unerwa****r****tet?**</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="8">**Besteht ein erhebliches Risiko einer grenzübe****r****schreitenden Ausbreitung?**</td><td></td><td></td><td></td><td></td><td colspan="14">**Besteht ein erhebliches Risiko einer grenzüberschreitenden Ausbreitu****n****g?**</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="11">**Besteht ein erhebliches Risiko der B****e****schränkung internationaler Reisen oder des internati****o****nalen Handels?**</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="12">**In diesem Stadium nicht zu melden. Erneut bewerten, wenn weitere Informationen verfü****g****bar.**</td></tr>
+<tr><td colspan="7">**Das Auftreten folgender Krankheiten ist ungewöhn****lich oder unerwartet und kann schwerwiegende Auswirkungen auf die öffentliche Gesundheit** **haben, weshalb es gemeldet werden muss****<sup>a, b</sup>****:** **–** **Pocken** **–** **Poliomyelitis durch Wildtyp-Poliovirus,** **–** **humane Influenza, verursacht durch einen neuen Subtyp des Virus** **–** **Schweres Akutes** **Atemwegssyndrom (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Ereignisse, die von interna****tionaler Tragweite für die öffentliche Gesundheit sein können, einschliesslich solcher, deren Ursache oder Quelle unbekannt ist, und solcher, die andere Ereignis****se oder Krankheiten mit** **sich bringen als diejenigen, die in den Kästen links und rechts aufgeführt sind, führen zur Anwendung des Algorithmus**</td><td></td><td></td><td></td><td colspan="12">**Ein Ereignis, das die folgenden Krankheiten mit sich bringt, führt stets zur Anwendung des Algorith****mus, weil diese Krankheiten gezeigt haben, dass sie schwerwiegende Auswirkun****gen auf die öffentliche Gesundheit haben und sich rasch grenzüberschreitend ausbreiten können****<sup>b</sup>****:** **–** **Cholera** **–** **Lungenpest** **–** **Gelbfieber** **–** **virale hämorrhagische Fieber (Ebola, Lassa, Marburg)** **–** **West-Nil-Fieber** **–** **andere Krankheiten besonderer nationaler oder regionaler Bedeu****tung, z.B. Dengue****‑** **Fieber, Rift-Tal-Fieber und Meningokokken-Krankheit**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="9">**Sind die Auswirkungen des Ereignisses auf die öffentliche Gesundheit schwerwiegend?**</td><td></td><td></td><td colspan="12"></td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="9">**Ist das Ereignis ungewöhnlich oder unerwartet?**</td><td></td><td></td><td></td><td></td><td colspan="12">**Ist das Ereignis ungewöhnlich oder unerwartet?**</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="8">**Besteht ein erhebliches Risiko einer grenzüberschreitenden Ausbreitung?**</td><td></td><td></td><td></td><td></td><td colspan="14">**Besteht ein erhebliches Risiko einer grenzüberschreitenden Ausbreitung?**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="11">**Besteht ein erhebliches Risiko der** **Beschränkung internationaler Reisen** **oder des internationalen Handels?**</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="12">**In diesem Stadium** **nicht zu melden.** **Erneut bewerten,** **wenn weitere** **Informationen verfügbar.**</td></tr>
 <tr><td colspan="32">**Das Ereignis ist der WHO nach den Internationalen Gesundheitsvorschriften zu melden.**</td></tr>
 <tr><td colspan="2"><sup>a</sup></td><td colspan="29">nach WHO-Falldefinition.</td></tr>
 <tr><td colspan="2"><sup>b</sup></td><td colspan="29">diese Auflistung der Krankheiten wird nur für die Zwecke dieser Vorschriften verwendet.</td></tr>
@@ -1311,8 +1323,8 @@ Sind bei dem Ereignis mindestens zwei der folgenden Kriterien erfüllt?
 
 <table>
 <tr><td></td><td colspan="2">**I. Sind die Auswirkungen des Ereignisses auf die öffentliche Gesundheit schwerwiegend?**</td></tr>
-<tr><td>**Sind die Aus****wir****kun****gen des Er****eig****nis****ses auf die öf****fent****li****che Ge****sund****heit schwer****wi****e****gend?**</td><td>1.</td><td>*Ist die Zahl der Fälle und/oder Todesfälle für diese Art von Ereignis und für den betre**f**fenden Ort und Zeit**punkt oder die betreffende Bevö**l**kerung gross?*</td></tr>
-<tr><td></td><td>2.</td><td>*Kann das Ereignis erhebliche Auswirkungen auf die öffentliche G**e**sundheit haben?*</td></tr>
+<tr><td>**Sind die Aus****wir****kun****gen des Er****eig****nis****ses auf die öf****fent****li****che Ge****sund****heit schwer****wie****gend?**</td><td>1.</td><td>*Ist die Zahl der Fälle und/oder Todesfälle für diese Art von Ereignis und für den betref**fenden Ort und Zeit**punkt oder die betreffende Bevölkerung gross?*</td></tr>
+<tr><td></td><td>2.</td><td>*Kann das Ereignis erhebliche Auswirkungen auf die öffentliche Gesundheit haben?*</td></tr>
 <tr><td></td><td colspan="2">Im folgenden sind Beispiele für Umstände aufgeführt, die zu erheblichen Auswirkungen auf die öffentliche Gesundheit beitragen:</td></tr>
 <tr><td></td><td>✔</td><td>Das Ereignis wurde durch einen Krankheitserreger mit hohem epidemischem Potential verursacht (Virulenz des Erregers, hohe Sterberate, mehrere Übertragungswege oder gesunder Überträger).</td></tr>
 <tr><td></td><td>✔</td><td>Anzeichen für Therapieversagen (neue oder im Entstehen begriffene Antibiotikaresistenz, Impfstoffversagen, Gegenmittelresistenz oder -versagen).</td></tr>
@@ -1329,14 +1341,14 @@ Sind bei dem Ereignis mindestens zwei der folgenden Kriterien erfüllt?
 <tr><td></td><td></td><td>– unzureichende Gegenmittel, Medikamente und/oder Impfstoffe und/oder Schutz-, Entseuchungs- oder Hilfsausstattung, um den geschätzten Bedarf zu decken,</td></tr>
 <tr><td></td><td></td><td>– das vorhandene Überwachungssystem ist ungeeignet, um neue Fälle rechtzeitig festzustellen.</td></tr>
 <tr><td></td><td colspan="2">**Sind die Auswirkungen des Ereignisses auf die öffentliche Gesundheit schwer****wiegend?**</td></tr>
-<tr><td></td><td colspan="2">**Mit «Ja» beantworten, wenn die Fragen 1, 2 oder 3 oben mit «Ja» bean****t****wortet wurden.**</td></tr>
+<tr><td></td><td colspan="2">**Mit «Ja» beantworten, wenn die Fragen 1, 2 oder 3 oben mit «Ja» beantwortet wurden.**</td></tr>
 </table>
 
 <table>
 <tr><td>Ist das Ereignis ungewöhnlich oder unerwartet?</td><td></td></tr>
 <tr><td></td><td>II. Ist das Ereignis ungewöhnlich oder unerwartet?</td></tr>
 <tr><td></td><td>4. *Ist das Ereignis ungewöhnlich?* Im folgenden sind beispiele für ungewöhnliche ereignisse aufgeführt: ✔ Das Ereignis wurde durch einen unbekannten Erreger hervorgerufen oder die Quelle, die Trägersubstanz, der Übertragungsweg sind ungewöhnlich oder unbekannt. ✔ Die Fallentwicklung verläuft ernster als erwartet (einschliesslich der Erkrankungshäufigkeit oder Sterberate) oder mit ungewöhnlichen Symptomen. ✔ Das Eintreten des Ereignisses selbst ist für das Gebiet, die Jahreszeit oder die Bevölkerung ungewöhnlich.</td></tr>
-<tr><td></td><td>5. *Ist das Ereignis aus der Perspektive der öffentlichen Gesundheit une**r**wartet?* Im folgenden sind beispiele für unerwartete ereignisse aufgeführt: ✔ Das Ereignis wurde durch eine Krankheit/einen Erreger hervorgerufen, die/der im Vertragsstaat eliminiert oder ausgerottet oder noch nicht gemeldet war.</td></tr>
+<tr><td></td><td>5. *Ist das Ereignis aus der Perspektive der öffentlichen Gesundheit* *unerwartet?* Im folgenden sind beispiele für unerwartete ereignisse aufgeführt: ✔ Das Ereignis wurde durch eine Krankheit/einen Erreger hervorgerufen, die/der im Vertragsstaat eliminiert oder ausgerottet oder noch nicht gemeldet war.</td></tr>
 <tr><td></td><td>Ist das Ereignis ungewöhnlich oder unerwartet? Mit «Ja» beantworten, wenn die Fragen 4 oder 5 oben mit «Ja» beantwortet wurden.</td></tr>
 </table>
 
@@ -1344,16 +1356,16 @@ Sind bei dem Ereignis mindestens zwei der folgenden Kriterien erfüllt?
 <tr><td>Besteht ein erhebliches Risiko der grenzüberschreitenden Ausbreitung?</td><td></td></tr>
 <tr><td></td><td>III. Besteht ein erhebliches Risiko der grenzüberschreitenden Ausbreitung?</td></tr>
 <tr><td></td><td>6. Gibt es Anzeichen für einen epidemiologischen Zusammenhang mit ähnlichen Ereignissen in anderen Staaten?</td></tr>
-<tr><td></td><td>7. *Gibt es ein Warnsignal für die Möglichkeit der grenzüberschreitenden Ausbre**i**tung des Erregers, der Trägersub**stanz oder des Wirts?* Im folgenden sind beispiele für umstände aufgeführt, die für eine grenzüberschreitende ausbreitung anfällig machen können: ✔ Bei Anzeichen für eine lokale Ausbreitung, einen Indexfall (oder andere zusammenhängende Fälle), bei dem/denen im vorangegangenen Monat – eine internationale Reise (oder ein Zeitraum, welcher der Inkubationszeit entspricht, wenn der Krankheitserreger bekannt ist), – die Teilnahme an einer internationalen Zusammenkunft (Pilgerreise, Sportveranstaltung, Konferenz usw.), – enger Kontakt mit einem Auslandsreisenden oder einer hochmobilen Bevölkerung [tab] vorgekommen ist. ✔ Das Ereignis wurde durch eine Verseuchung der Umwelt verursacht, die sich über internationale Grenzen hinweg ausbreiten kann. ✔ Das Ereignis trat in einem Gebiet mit starkem internationalem Verkehr und begrenzten Kapazitäten für Hygienekontrollen, für den Nachweis in der Umwelt oder für die Entseuchung ein.</td></tr>
+<tr><td></td><td>7. *Gibt es ein Warnsignal für die Möglichkeit der grenzüberschreitenden* *Ausbreitung des Erregers, der Trägersub**stanz oder des Wirts?* Im folgenden sind beispiele für umstände aufgeführt, die für eine grenzüberschreitende ausbreitung anfällig machen können: ✔ Bei Anzeichen für eine lokale Ausbreitung, einen Indexfall (oder andere zusammenhängende Fälle), bei dem/denen im vorangegangenen Monat – eine internationale Reise (oder ein Zeitraum, welcher der Inkubationszeit entspricht, wenn der Krankheitserreger bekannt ist), – die Teilnahme an einer internationalen Zusammenkunft (Pilgerreise, Sportveranstaltung, Konferenz usw.), – enger Kontakt mit einem Auslandsreisenden oder einer hochmobilen Bevölkerung [tab] vorgekommen ist. ✔ Das Ereignis wurde durch eine Verseuchung der Umwelt verursacht, die sich über internationale Grenzen hinweg ausbreiten kann. ✔ Das Ereignis trat in einem Gebiet mit starkem internationalem Verkehr und begrenzten Kapazitäten für Hygienekontrollen, für den Nachweis in der Umwelt oder für die Entseuchung ein.</td></tr>
 <tr><td></td><td>Besteht ein erhebliches Risiko der grenzüberschreitenden Ausbreitung? Mit «Ja» beantworten, wenn die Fragen 6 oder 7 oben mit «Ja» beantwortet wurden.</td></tr>
 </table>
 
 <table>
 <tr><td>Besteht ein erhebliches Risiko der Beschränkung internationaler Reisen oder des internationalen Handels?</td><td></td></tr>
 <tr><td></td><td>IV. Besteht ein erhebliches Risiko der Beschränkung internationaler Reisen oder des internationalen Handels?</td></tr>
-<tr><td></td><td>8. *Führten ähnliche Ereignisse in der Vergangenheit zu internationalen Ha**n**dels- und/oder Reisebeschränkun**gen?*</td></tr>
-<tr><td></td><td>9. *Sind die Quellen vermutlich oder bekanntermassen verseuchte Nahrungs**g**ü**ter, verseuchtes Wasser oder an**dere verseuchte Güter, die in/aus andere/n Staaten ein-/ausgeführt wurden?*</td></tr>
-<tr><td></td><td>10. *Ist das Ereignis im Zusammenhang mit einer internationalen Zusammenkunft oder in einem Gebiet mit starkem internationalem Fremdenverkehr eingetr**e**ten?*</td></tr>
+<tr><td></td><td>8. *Führten ähnliche Ereignisse in der Vergangenheit zu internationalen* *Handels- und/oder Reisebeschränkun**gen?*</td></tr>
+<tr><td></td><td>9. *Sind die Quellen vermutlich oder bekanntermassen verseuchte Nahrungs**güter, verseuchtes Wasser oder an**dere verseuchte Güter, die in/aus andere/n Staaten ein-/ausgeführt wurden?*</td></tr>
+<tr><td></td><td>10. *Ist das Ereignis im Zusammenhang mit einer internationalen Zusammenkunft oder in einem Gebiet mit starkem internationalem Fremdenverkehr* *eingetreten?*</td></tr>
 <tr><td></td><td>11. *Hat das Ereignis zu Ersuchen ausländischer Amtsträger oder internationaler Medien um weitere Informatio**nen geführt?*</td></tr>
 <tr><td></td><td>Besteht ein erhebliches Risiko der Beschränkung des internationalen handels oder internationaler Reisen? Mit «Ja» beantworten, wenn die Fragen 8, 9, 10 oder 11 oben mit «Ja» beantwortet wurden.</td></tr>
 </table>
@@ -1365,13 +1377,13 @@ Anlage 3
 ## Muster der Bescheinigung über die Befreiung von der Schiffshygienekontrolle/der Bescheinigung über die Schiffshygienekontrolle
 
 <table>
-<tr><td>Hafen: …………….....…………… Datum: ……...……………………</td></tr>
+<tr><td>Hafen: ………………..…………… Datum: ……………………………</td></tr>
 <tr><td>Diese Bescheinigung dokumentiert die Überprüfung sowie:</td></tr>
 <tr><td>1. die Befreiung von der Kontrolle oder</td></tr>
 <tr><td>2. die angewandten Kontrollmassnahmen</td></tr>
-<tr><td>Name des Schiffes oder Binnenschiffs: ……………………..........…… Flagge: ……………….....….....…… Registrierungs-/IMO-Nr.: ………..…………........……</td></tr>
+<tr><td>Name des Schiffes oder Binnenschiffs: …………………………….…… Flagge: …………………..……..…… Registrierungs-/IMO-Nr.: ………..………………..……</td></tr>
 <tr><td>Zum Zeitpunkt der Überprüfung waren die Laderäume leer/beladen mit …..… Tonnen Fracht</td></tr>
-<tr><td>Name und Anschrift des überprüfenden Beamten ………….......………………</td></tr>
+<tr><td>Name und Anschrift des überprüfenden Beamten ……………….………………</td></tr>
 </table>
 
 <table>
@@ -1398,7 +1410,7 @@ Anlage 3
 <tr><td colspan="2">medizinische Einrichtungen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">sonstige spezifizierte Bereiche – siehe Anhang</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">nicht zutreffende Bereiche mit «n.z.» markieren</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="8">Keine Anzeichen festgestellt. Schiff ist von Kontrollmassnahmen befreit. Angegebene Kontrollmassnahmen am u.a. Tag angewandt. Name und Bezeichnung des ausstellenden Beamten: ……………..…………Unterschrift und Siegel: ………...……………… Datum: …………………………</td></tr>
+<tr><td></td><td colspan="8">Keine Anzeichen festgestellt. Schiff ist von Kontrollmassnahmen befreit. Angegebene Kontrollmassnahmen am u.a. Tag angewandt. Name und Bezeichnung des ausstellenden Beamten: ……………..…………Unterschrift und Siegel: ………………………… Datum: …………………………</td></tr>
 <tr><td>1</td><td colspan="8">a) Anzeichen für Infektionen oder Verseuchungen, darunter: Vektoren in allen Entwicklungsstadien; Tiere als Erregerreservoir[^annexu1-lvlu1-1] für Vektoren; Nagetiere oder andere Arten, die beim Menschen auftretende Krankheiten, mikrobiologische, chemische und andere Gefahren für die menschliche Gesundheit in sich tragen könnten; Anzeichen für ungeeignete Hygienemassnahmen.</td></tr>
 <tr><td></td><td colspan="8">b) Informationen über Fälle des Auftretens beim Menschen (in der Seegesundheitserklärung zu vermerken).</td></tr>
 <tr><td><sup>2</sup></td><td colspan="8">Ergebnisse aus an Bord genommenen Proben. Die Analyse ist auf schnellstmöglichem Weg dem Kapitän und, wenn eine erneute Überprüfung erforderlich ist, dem nächsten geeigneten Anlaufhafen verfügbar zu machen, der aufgrund des in dieser Bescheinigung angegebenen Datums für die erneute Überprüfung in Betracht kommt. Bescheinigungen über die Befreiung von der Schiffshygienekontrolle und Bescheinigungen über die Schiffshygienekontrolle sind höchstens sechs Monate gültig, jedoch kann die Gültigkeitsdauer um einen Monat verlängert werden, wenn die Überprüfung in dem Hafen nicht durchgeführt werden kann und es keine Anzeichen für Infektionen oder Verseuchungen gibt.</td></tr>
@@ -1535,11 +1547,11 @@ Jede Änderung, Streichung oder unvollständige Ausfüllung auf dieser Bescheini
 
 Diese Bescheinigung ist bis zu dem Tag gültig, der für die jeweilige Impfung oder Prophylaxe angegeben ist. Die Bescheinigung ist vollständig in englischer oder französischer Sprache auszufüllen. Zusätzlich kann sie in einer andern Sprache ausgefüllt werden.
 
-Anlage 7[^t-3]
+Anlage 7[^t-2]
 
 ## Anforderungen an die Impfung oder Prophylaxe für bestimmte Krankheiten
 
-[^t-3]: Bereinigt gemäss Änd. angenommen durch die siebenundsechzigsten Weltgesundheitsversammlung am 24. Mai 2014, in Kraft getreten am 11. Juli 2016 ([AS 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
+[^t-2]: Bereinigt gemäss Beschluss vom 24. Mai 2014, in Kraft getreten am 11. Juli 2016 ([AS 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
 
 (1) Über Empfehlungen für die Impfung und Prophylaxe hinaus sind im Folgenden nach diesen Vorschriften eigens bezeichnete Krankheiten aufgeführt, für die von Reisenden als Voraussetzung für deren Einreise in einen Vertragsstaat ein Impf- oder Prophylaxenachweis gefordert werden kann:
 
@@ -1663,8 +1675,8 @@ Zahl der Fahrgäste an Bord ………………………
 Hiermit erkläre ich, dass die in dieser Gesundheitserklärung (einschliesslich des Anhangs) enthaltenen Angaben und Antworten nach bestem Wissen und Gewissen richtig und der Wahrheit entsprechend gemacht worden sind.
 
 <table>
-<tr><td>Datum: ……………</td><td>Unterschrift: ……………...................………… Kapitän</td></tr>
-<tr><td></td><td>gegengezeichnet: …………….….........……..... Schiffsarzt (sofern an Bord)</td></tr>
+<tr><td>Datum: ……………</td><td>Unterschrift: …………………………….………… Kapitän</td></tr>
+<tr><td></td><td>gegengezeichnet: …………….………………….. Schiffsarzt (sofern an Bord)</td></tr>
 </table>
 
 ### Anhang zum Muster einer Seegesundheitserklärung
@@ -1674,20 +1686,20 @@ Hiermit erkläre ich, dass die in dieser Gesundheitserklärung (einschliesslich 
 <tr><td><sup>\*</sup></td><td colspan="12">Angeben, (1) ob die Person wiederhergestellt, noch krank oder verstorben ist und (2) ob die Person noch an Bord befindlich ist, ob sie evakuiert wurde (einschliesslich der Angabe des Hafens oder Flughafens) oder ob die Leiche auf See bestattet wurde.</td></tr>
 </table>
 
-Anlage 9*[^t-4]*
+Anlage 9[^t-3]
 
 ## Dieses Dokument ist Teil der allgemeinen Erklärung für Luftfahrzeuge, bekanntgemacht von der internationalen Zivilluftfahrt-Organisation
 
 [^annexu1-lvlu1-3]
 
-[^t-4]: Fassung gemäss Beschluss vom 3. April 2008, in Kraft seit 15. Juli 2007 ([AS 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
-[^annexu1-lvlu1-3]: www.who.int/gb/ebwha/pdf\_files/A61/A61\_7-fr.pdf
+[^t-3]: Fassung gemäss Beschluss vom 3. April 2008, in Kraft seit 15. Juli 2007 ([AS 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
+[^annexu1-lvlu1-3]: [www.who.int/gb/ebwha/pdf\_files/A61/A61\_7-fr.pdf](http://www.who.int/gb/ebwha/pdf_files/A61/A61_7-fr.pdf)
 
-### Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit****
+### Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit
 
 [^annexu1-lvlu1-lvlu1-1]
 
-[^annexu1-lvlu1-lvlu1-1]: Das vollständige Dokument kann auf der Internetseite der Internationalen Zivilluftfahrt-Organisation eingesehen oder bestellt werden, siehe: www.icao.int.
+[^annexu1-lvlu1-lvlu1-1]: Das vollständige Dokument kann auf der Internetseite der Internationalen Zivilluftfahrt-Organisation eingesehen oder bestellt werden, siehe: [www.icao.int/safety/aviation-medicine/Pages/default.aspx](https://www.icao.int/safety/aviation-medicine/Pages/default.aspx).
 
 Gesundheitserklärung
 
@@ -1701,7 +1713,7 @@ Unterschrift, falls erforderlich, mit Uhrzeit und Datum
 <tr><td></td><td>zuständiges Besatzungsmitglied</td></tr>
 </table>
 
-Geltungsbereich am 11. August 2015**[^t-5]**
+Geltungsbereich am 11. August 2015[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th></th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1749,6 +1761,7 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>El Salvador</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Eritrea</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Estland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Eswatini</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Fidschi</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Finnland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Frankreich</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1767,7 +1780,7 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>Indien\*</td><td></td><td></td><td>8. Aug.</td><td>2007</td></tr>
 <tr><td>Indonesien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Irak</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Iran\*</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Iran\*\*</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Irland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Island</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Israel</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1812,7 +1825,6 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>Marshallinseln</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Mauretanien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Mauritius</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Mazedonien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Mexiko</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Mikronesien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Moldau</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1830,6 +1842,7 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>Niger</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Nigeria</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Niue</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Nordmazedonien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Norwegen</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Oman</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Österreich</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1871,7 +1884,6 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>Sudan</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Südsudan</td><td></td><td></td><td>16. April</td><td>2013</td></tr>
 <tr><td>Suriname</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Swasiland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Syrien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Tadschikistan</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Tansania</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1899,8 +1911,14 @@ Geltungsbereich am 11. August 2015**[^t-5]**
 <tr><td>Vietnam</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Zypern</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte, Erklärungen und Einwendungen: Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen oder französischen Texte können bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td colspan="5">a Erklärungen der Präsidentschaft im Namen der Mitgliedsstaaten der Europäischen Union.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können eingesehen werden auf der Webseite der Weltgesundheitsorganisation: [www.who.int/fr](https://www.who.int/fr) oder bezogen werden bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Erklärungen der Präsidentschaft im Namen der Mitgliedsstaaten der Europäischen Union.</td></tr>
 </table>
 
-[^t-5]: [AS 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343), [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58)und [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
+
+Änderung der Art. 55, 59, 61, 62 und 63 der Internationalen Gesundheitsvorschriften vom 28. Mai 2022[^t-5]
+
+Gemäss Artikel 61 der Internationalen Gesundheitsvorschriften haben die folgenden Vertragsstaaten dem Generalsekretär der WHO mitgeteilt, dass sie die vorliegenden Änderungen ablehnen: Iran, Neuseeland, Niederlande und Slowakei.
+
+[^t-5]: [AS 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)

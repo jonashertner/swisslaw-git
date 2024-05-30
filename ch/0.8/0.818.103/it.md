@@ -3,29 +3,26 @@ sr: "0.818.103"
 title: Regolamento sanitario internazionale (2005) del 23 maggio 2005 (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: it
-version: 2016-07-11
+version: 2024-05-31
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20160711/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20160711-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20160711/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20240531-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20240531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Regolamento sanitario internazionale (2005)****
+# Regolamento sanitario internazionale (2005)
 
 RU **2007** 2471[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Adottato alla cinquantottesima Assemblea mondiale della Sanità il 23 maggio 2005
+Adottato alla cinquantottesima Assemblea mondiale della Sanità il 23 maggio 2005 Entrato in vigore per la Svizzera il 15 giugno 2007
 
-Entrato in vigore per la Svizzera il 15 giugno 2007
-
-(Stato 11 luglio 2016)
+(Stato 31 maggio 2024)
 
 [^t-1]: Revisione totale del R sanitario internazionale del 25 lug. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)).
-[^t-2]: Dal testo originale francese.
 
 La cinquantottesima Assemblea mondiale della Sanità,
 
@@ -1035,13 +1032,15 @@ Qualora il Direttore generale consideri una raccomandazione permanente necessari
 
 #### Art. 55
 
-**Emendamenti**
+**Emendamenti**[^55-1]
 
 <sup>1.</sup> Gli emendamenti al presente Regolamento possono essere proposti da qualsiasi Stato Parte o dal Direttore generale. Tali proposte di emendamenti devono essere presentate all’Assemblea mondiale della Sanità affinché vengano prese in esame.
 
 <sup>2.</sup> Il testo degli emendamenti proposti deve essere comunicato a tutti gli Stati Parti dal Direttore generale almeno quattro mesi prima dell’Assemblea mondiale della Sanità in cui verranno sottoposti.
 
-<sup>3.</sup> Gli emendamenti al presente Regolamento adottati dall’Assemblea mondiale della Sanità ai sensi del presente articolo entreranno in vigore in tutti gli Stati Parti in base alle stesse condizioni e soggetti agli stessi diritti e doveri, come stabilito dall’articolo 22 della Costituzione dell’OMS e dagli articoli 59–64 del presente Regolamento.
+<sup>3.</sup> Gli emendamenti al presente Regolamento adottati dall’Assemblea mondiale della Sanità ai sensi del presente articolo entreranno in vigore in tutti gli Stati Parti in base alle stesse condizioni e soggetti agli stessi diritti e doveri, come stabilito dall’articolo 22 della Costituzione dell’OMS e dagli articoli 59–64 del presente Regolamento, a condizione che siano rispettati i periodi stabiliti da tali articoli per quanto riguarda gli emendamenti del presente Regolamento.
+
+[^55-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 56
 
@@ -1102,20 +1101,24 @@ Il presente Regolamento, ai sensi delle disposizioni dell’articolo 62 e delle 
 
 #### Art. 59
 
-**Entrata in vigore; periodo per la presentazione di rifiuto o riserve**
+**Entrata in vigore; periodo per la presentazione di rifiuto o riserve**[^59-1]
 
-<sup>1.</sup> Il periodo individuato, ai sensi dell’articolo 22 della Costituzione dell’OMS, per il rifiuto o la presentazione di riserve al presente Regolamento o a un emendamento dello stesso, è di 18 mesi dalla data della notifica, da parte del Direttore generale, dell’adozione del presente Regolamento o di un emendamento del presente Regolamento da parte dell’Assemblea mondiale della Sanità. Qualsiasi rifiuto o riserva ricevuta dal Direttore generale dopo la scadenza di tale periodo non avrà validità.
+<sup>1.</sup> Il periodo previsto, ai sensi dell’articolo 22 della Costituzione dell’OMS, per il rifiuto del presente Regolamento o la presentazione di riserve allo stesso è di 18 mesi dalla data della notifica, da parte del Direttore generale, dell’adozione del presente Regolamento da parte dell’Assemblea mondiale della Sanità. Qualsiasi rifiuto o riserva ricevuta dal Direttore generale dopo la scadenza di tale periodo non avrà validità.
+
+1<sup>bis</sup>. Il periodo previsto, ai sensi dell’articolo 22 della Costituzione dell’OMS, per il rifiuto di un emendamento o la presentazione di riserve a un emendamento del presente Regolamento, è di 10 mesi dalla data della notifica, da parte del Direttore generale, dell’adozione di un emendamento del presente Regolamento da parte dell’Assemblea mondiale della Sanità. Qualsiasi rifiuto o riserva ricevuti dal Direttore generale dopo la scadenza di tale periodo non avrà validità.
 
 <sup>2.</sup>
 
-Il presente Regolamento deve entrare in vigore 24 mesi dopo la data di notifica di cui al paragrafo 1 del presente articolo, eccetto che nei casi seguenti:
+Il presente Regolamento entra in vigore 24 mesi dopo la data di notifica di cui al paragrafo 1 del presente articolo, e gli emendamenti del presente Regolamento entrano in vigore 12 mesi dopo la data di notifica di cui al paragrafo 1<sup>bis</sup> del presente articolo, eccetto che nei casi seguenti:
 
-- (a) nel caso in cui uno Stato abbia rifiutato il presente Regolamento o un emendamento dello stesso ai sensi dell’articolo 61;
-- (b) nel caso in cui uno Stato abbia avanzato una riserva per cui il presente Regolamento entri in vigore in base all’articolo 62;
-- (c) nel caso in cui uno Stato diventi Membro dell’OMS dopo la data di notifica da parte del Direttore generale di cui al paragrafo 1 del presente articolo, e non sia ancora parte del presente Regolamento, per cui il presente Regolamento entrerà in vigore come stabilito nell’articolo 60; e
-- (d) nel caso in cui uno Stato non Membro dell’OMS accetti il presente Regolamento, in modo che entri in vigore in base al paragrafo 1 dell’articolo 64.
+- a) nel caso in cui uno Stato abbia rifiutato il presente Regolamento o un emendamento dello stesso ai sensi dell’articolo 61;
+- b) nel caso in cui uno Stato abbia avanzato una riserva, per tale Stato il presente Regolamento o un emendamento dello stesso entra in vigore secondo quanto disposto dall’articolo 62;
+- c) nel caso in cui uno Stato diventi Membro dell’OMS dopo la data di notifica da parte del Direttore generale di cui al paragrafo 1 del presente articolo e non sia ancora parte del presente Regolamento, per cui il presente Regolamento entrerà in vigore come stabilito nell’articolo 60; e
+- d) nel caso in cui uno Stato non Membro dell’OMS accetti il presente Regolamento, in modo che entri in vigore in base al paragrafo 1 dell’articolo 64.
 
-<sup>3.</sup> Nel caso in cui uno Stato non sia in grado di adeguare le proprie disposizioni legislative e amministrative interne nel pieno rispetto del presente Regolamento entro il periodo stabilito nel paragrafo 2 del presente articolo, tale Stato deve presentare al Direttore generale, entro il periodo specificato nel paragrafo 1 del presente articolo, una dichiarazione relativa ai procedimenti in sospeso e portarli a termine entro 12 mesi dall’entrata in vigore del presente Regolamento per tale Stato Parte.
+<sup>3.</sup> Nel caso in cui uno Stato non sia in grado di adeguare le proprie disposizioni legislative e amministrative interne nel pieno rispetto del presente Regolamento o di un emendamento dello stesso entro il periodo stabilito nel paragrafo 2 del presente articolo, a seconda dei casi, tale Stato deve presentare al Direttore generale, entro il periodo specificato nel paragrafo 1 o 1<sup>bis</sup> del presente articolo, una dichiarazione relativa ai procedimenti in sospeso e portarli a termine entro 12 mesi dall’entrata in vigore del presente Regolamento o di un emendamento dello stesso per tale Stato Parte.
+
+[^59-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 60
 
@@ -1125,44 +1128,51 @@ Ogni Stato che diventi Membro dell’OMS dopo la data della notifica da parte de
 
 #### Art. 61
 
-**Rifiuto**
+**Rifiuto**[^61-1]
 
-Se uno Stato notifica al Direttore generale il proprio rifiuto del presente Regolamento o di un emendamento dello stesso entro il periodo stabilito dal paragrafo 1 dell’articolo 59, tale Regolamento o l’emendamento relativo non entrano in vigore in tale Stato. Qualsiasi accordo o regolamento sanitario internazionale elencato nell’articolo 58 di cui tale Stato faccia già parte rimane in vigore finché tale Stato ne sia interessato.
+Se uno Stato notifica al Direttore generale il proprio rifiuto del presente Regolamento o di un emendamento dello stesso entro il periodo applicabile stabilito dal paragrafo 1 o 1<sup>bis</sup> dell’articolo 59, tale Regolamento o l’emendamento relativo non entrano in vigore in tale Stato. Qualsiasi accordo o regolamento sanitario internazionale elencato nell’articolo 58 di cui tale Stato faccia già parte rimane in vigore finché tale Stato ne sia interessato.
+
+[^61-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 62
 
-**Riserve**
+**Riserve**[^62-1]
 
-<sup>1.</sup> Gli Stati possono avanzare riserve al presente Regolamento nel rispetto del presente articolo. Tali riserve non devono essere incompatibili con il fine e lo scopo del presente Regolamento.
+<sup>1.</sup> Gli Stati possono avanzare riserve al presente Regolamento o a un emendamento dello stesso nel rispetto del presente articolo. Tali riserve non devono essere incompatibili con il fine e lo scopo del presente Regolamento.
 
-<sup>2.</sup> Le riserve al presente Regolamento devono essere notificate al Direttore generale nel rispetto del paragrafo 1 dell’articolo 59, dell’articolo 60, del paragrafo 1 dell’articolo 63 o del paragrafo 1 dell’articolo 64, a seconda dei casi. Uno Stato non Membro dell’OMS deve notificare al Direttore generale qualsiasi riserva assieme alla notifica della sua accettazione del presente Regolamento. Gli Stati che avanzino riserve devono fornire al Direttore generale le ragioni per tali riserve.
+<sup>2.</sup> Le riserve al presente Regolamento o a un emendamento dello stesso devono essere notificate al Direttore generale nel rispetto dei paragrafi 1 e 1<sup>bis</sup> dell’articolo 59, dell’articolo 60, del paragrafo 1 dell’articolo 63 o del paragrafo 1 dell’articolo 64, a seconda dei casi. Uno Stato non Membro dell’OMS deve notificare al Direttore generale qualsiasi riserva assieme alla notifica della sua accettazione del presente Regolamento. Gli Stati che avanzino riserve devono fornire al Direttore generale le ragioni per tali riserve.
 
-<sup>3.</sup> Un rifiuto di parte del presente Regolamento deve essere considerato come una riserva.
+<sup>3.</sup> Un rifiuto di parte del presente Regolamento o di un emendamento dello stesso deve essere considerato come una riserva.
 
-<sup>4.</sup> Gli Stati che avanzino obiezioni a una riserva devono fornire al Direttore generale le ragioni per tali obiezioni.
+<sup>4.</sup> Gli Stati Parti che avanzino obiezioni a una riserva ad un emendamento devono fornire al Direttore generale le ragioni per tali obiezioni.
 
 Il Direttore generale deve, nel rispetto del paragrafo 2 dell’articolo 65, dare notifica di ogni riserva ricevuta ai sensi del paragrafo 2 del presente articolo. Il Direttore generale deve:
 
-- (a) se la riserva è stata avanzata prima dell’entrata in vigore del presente Regolamento, richiedere agli Stati Membri che non hanno rifiutato il presente Regolamento di notificargli entro sei mesi qualsiasi obiezione nei confronti di tale riserva; o
-- (b) se la riserva è stata avanzata dopo l’entrata in vigore del presente Regolamento, richiedere agli Stati di notificargli entro sei mesi ogni obiezione nei confronti di tale riserva.
+- a) se la riserva è stata avanzata prima dell’entrata in vigore del presente Regolamento, richiedere agli Stati Membri che non hanno rifiutato il presente Regolamento di notificargli entro sei mesi qualsiasi obiezione nei confronti di tale riserva; o
+- b) se la riserva è stata avanzata dopo l’entrata in vigore del presente Regolamento, richiedere agli Stati di notificargli entro sei mesi qualsiasi obiezione nei confronti di tale riserva; o
+- c) se la riserva è stata avanzata in relazione a un emendamento del presente Regolamento, richiedere agli Stati Parti di notificargli entro tre mesi qualsiasi obiezione nei confronti di tale riserva.
 
-<sup>5.</sup> Dopo questo periodo il Direttore generale deve notificare a tutti gli Stati Parti le obiezioni da lui ricevute relativamente alle riserve. Salvo che entro la fine dei sei mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo una riserva non venga obiettata da un terzo degli Stati di cui al paragrafo 4 del presente articolo, si considera accettata e il presente Regolamento entra in vigore per gli Stati che hanno avanzato la riserva, fatta salva tale riserva.
+<sup>5.</sup> Dopo questo periodo il Direttore generale deve notificare a tutti gli Stati Parti le obiezioni da lui ricevute relativamente alle riserve. Salvo che entro la fine dei sei mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo una riserva relativa al presente Regolamento non venga obiettata da un terzo degli Stati di cui al paragrafo 4 del presente articolo, la riserva si considera accettata e il presente Regolamento entra in vigore per gli Stati che hanno avanzato la riserva, fatta salva tale riserva. In caso di una riserva relativa a un emendamento del presente Regolamento, a meno che entro la fine dei tre mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo siano state avanzate obiezioni alla riserva da un terzo degli Stati di cui al paragrafo 4 del presente articolo, la riserva si considera accettata e il presente Regolamento entra in vigore per lo Stato che ha espresso la riserva, fatta salva tale riserva..
 
-<sup>6.</sup> Se almeno un terzo degli Stati di cui al paragrafo 4 del presente articolo avanza obiezioni relativamente alla riserva entro la fine dei sei mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo, il Direttore generale deve notificare tale situazione allo Stato che ha avanzato la riserva allo scopo di considerare la possibilità di ritirare la riserva entro tre mesi dalla data di notifica da parte del Direttore generale.
+<sup>6.</sup> Se almeno un terzo degli Stati di cui al paragrafo 4 del presente articolo avanza obiezioni relativamente alla riserva al presente Regolamento entro la fine dei sei mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo o, in caso di una riserva a un emendamento del presente Regolamento, entro la fine dei tre mesi successivi alla data di notifica di cui al paragrafo 4 del presente articolo, il Direttore generale deve notificare tale situazione allo Stato che ha avanzato la riserva allo scopo di considerare la possibilità di ritirare la sua riserva entro tre mesi dalla data di notifica da parte del Direttore generale.
 
 <sup>7.</sup> Lo Stato che avanza la riserva deve continuare ad adempiere gli obblighi derivanti dalla parte oggetto della riserva che lo Stato ha accettato in base a uno qualsiasi degli accordi o regolamenti sanitari internazionali elencati nell’articolo 58.
 
-<sup>8.</sup> Se lo Stato che avanza la riserva non la ritira entro tre mesi dalla data di notifica da parte del Direttore generale di cui al paragrafo 6 del presente articolo, il Direttore generale deve richiedere il parere del Comitato di revisione, se richiesto dallo Stato che avanza la riserva. Il Comitato di revisione deve fornire il proprio parere al Direttore generale il più presto possibile e nel rispetto dell’articolo 50 sull’impatto pratico della riserva sul presente Regolamento.
+<sup>8.</sup> Se lo Stato che avanza la riserva non la ritira entro tre mesi dalla data di notifica da parte del Direttore generale di cui al paragrafo 6 del presente articolo, il Direttore generale deve richiedere il parere del Comitato di revisione, se richiesto dallo Stato che avanza la riserva. Il Comitato di revisione deve fornire il proprio parere al Direttore generale il più presto possibile e nel rispetto dell’articolo 50 sull’impatto pratico della riserva sull’applicazione del presente Regolamento.
 
-<sup>9.</sup> Il Direttore generale deve presentare la riserva e il parere del Comitato di revisione, se applicabile, all’Assemblea mondiale della Sanità affinché vengano presi in esame. Se l’Assemblea mondiale della Sanità, a maggioranza dei voti, avanza obiezioni relativamente alla riserva adducendo la sua incompatibilità con il fine e lo scopo del presente Regolamento, la riserva non deve essere accettata e il presente Regolamento deve entrare in vigore nello Stato che ha avanzato la riserva solo dopo che abbia ritirato la riserva ai sensi dell’articolo 63. Se l’Assemblea mondiale della Sanità accetta la riserva, il presente Regolamento entra in vigore nello Stato che ha avanzato la riserva, fatta salva tale riserva.
+<sup>9.</sup> Il Direttore generale deve presentare la riserva e il parere del Comitato di revisione, se applicabile, all’Assemblea mondiale della Sanità affinché vengano presi in esame. Se l’Assemblea mondiale della Sanità, a maggioranza dei voti, avanza obiezioni relativamente alla riserva adducendo la sua incompatibilità con il fine e lo scopo del presente Regolamento, la riserva non deve essere accettata e il presente Regolamento o un emendamento dello stesso deve entrare in vigore nello Stato che ha avanzato la riserva solo dopo che esso abbia ritirato la riserva ai sensi dell’articolo 63. Se l’Assemblea mondiale della Sanità accetta la riserva, il presente Regolamento o un emendamento dello stesso entra in vigore nello Stato che ha avanzato la riserva, fatta salva tale riserva.
+
+[^62-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 63
 
-**Ritiro del rifiuto e della riserva**
+**Ritiro del rifiuto e della riserva**[^63-1]
 
-<sup>1.</sup> Un rifiuto opposto in base all’articolo 61 può essere ritirato in qualsiasi momento da uno Stato tramite notifica al Direttore generale. In questi casi, il presente Regolamento entra in vigore in tale Stato al ricevimento della notifica da parte del Direttore generale, tranne nel caso in cui uno Stato ritiri il rifiuto avanzando una riserva; in questo caso il presente Regolamento entra in vigore in base all’articolo 62. In nessun caso il presente Regolamento deve entrare in vigore in tale Stato prima di 24 mesi dalla data di notifica di cui al paragrafo 1 dell’articolo 59.
+<sup>1.</sup> Un rifiuto opposto in base all’articolo 61 può essere ritirato in qualsiasi momento da uno Stato tramite notifica al Direttore generale. In questi casi, il presente Regolamento o un emendamento dello stesso, entra in vigore in tale Stato al ricevimento della notifica da parte del Direttore generale, tranne nel caso in cui uno Stato ritiri il rifiuto avanzando una riserva; in questo caso il presente Regolamento o un emendamento dello stesso, a seconda dei casi, entra in vigore in base all’articolo 62. In nessun caso il presente Regolamento deve entrare in vigore in tale Stato prima di 24 mesi dalla data di notifica di cui al paragrafo 1 dell’articolo 59 e in nessun caso un emendamento del presente Regolamento entra in vigore nei confronti di tale Stato prima di 12 mesi dalla data di notifica di cui al paragrafo 1<sup>bis</sup> dell’articolo 59.
 
 <sup>2.</sup> Qualsiasi riserva può essere ritirata dallo Stato interessato per intero o in parte, in qualsiasi momento, tramite notifica al Direttore generale. In tali casi, il ritiro sarà effettivo dalla data del ricevimento della notifica da parte del Direttore generale.
+
+[^63-1]: Nuovo testo giusta l’em. adottato alla settantacinquesima Assemblea mondiale della Sanità il 28 mag. 2020, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 64
 
@@ -1268,12 +1278,12 @@ Allegato 2
 
 <table>
 <tr><td colspan="32">**Eventi rilevati da un sistema di sorveglianza nazionale (vedere allegato 1)**</td></tr>
-<tr><td colspan="7">**Un caso di una delle seguenti malattie è insolito o inaspe****t****tato e può avere un grave impatto sulla sanità pubblica, per questo deve essere notificat****o****<sup>ab</sup>****:** **–** **Vaiolo** **–** **Poliomielite dovuta a un poliovirus selvaggio** **–** **Influenza umana causata da un nuovo sottotipo** **–** **Sindrome respiratoria acuta grave (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Qualsiasi evento di potenzi****a****le interesse sanitario intern****a****zion****a****le, inclusi quelli con causa o fonte sconosci****u****ta e quelli relativi a eventi o malattie diversi da quelli elencati nel riquadro a sinistra e nel riquadro a destra richiedono l’utilizzo dell’algoritmo.**</td><td></td><td></td><td></td><td colspan="12">**Qualsiasi evento relativo alle seguenti malattie deve sempre dete****r****minare l’utilizzo dell’alg****o****ritmo, in quanto tali malattie hanno dimostrato la capacità di causare un grave impatto sanitario e di diffondersi rapid****a****mente a livello internazionale****<sup>b</sup>****:** **–** **Colera** **–** **Peste polmonare** **–** **Febbre gialla** **–** Febbri emorragiche **virali (Ebola, Lassa, Marburg)** **–** **Febbre del Nilo Occide****n****tale (West Nile Fever)** **–** Altre malattie di speciale interesse nazionale o regionale, ad esempio dengue, febbre della **Rift Valley e malattia m****e****ningococcica.** [tab]</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="9">**L’evento ha un impatto sanitario grave?**</td><td></td><td></td><td colspan="12"></td></tr>
+<tr><td colspan="7">**Un caso di una delle seguenti malattie è insolito o inaspettato e può avere un grave impatto sulla sanità pubblica, per questo deve essere notificato****<sup>ab</sup>****:** **–** **Vaiolo** **–** **Poliomielite dovuta a un poliovirus selvaggio** **–** **Influenza umana causata da un nuovo sottotipo** **–** **Sindrome respiratoria acuta grave (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Qualsiasi evento di potenziale interesse sanitario internazionale, inclusi quelli con causa o fonte sconosciuta e quelli relativi a eventi o malattie diversi da quelli elencati nel riquadro a sinistra e nel riquadro a destra richiedono l’utilizzo dell’algoritmo.**</td><td></td><td></td><td></td><td colspan="12">**Qualsiasi evento relativo** **alle seguenti malattie deve sempre determinare** **l’utilizzo dell’algoritmo, in quanto tali malattie hanno dimostrato la capacità di causare un grave impatto sanitario e di diffondersi rapidamente a livello internazionale****<sup>b</sup>****:** **–** **Colera** **–** **Peste polmonare** **–** **Febbre gialla** **–** **Febbri emorragiche** **virali (Ebola, Lassa, Marburg)** **–** **Febbre del Nilo Occidentale (West Nile Fever)** **–** **Altre malattie di speciale interesse nazionale o regionale, ad esempio dengue, febbre della** **Rift Valley e malattia meningococcica.** [tab]</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="9">**L’evento ha un impatto** **sanitario grave?**</td><td></td><td></td><td colspan="12"></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="9">**L’evento è insolito o inaspettato?**</td><td></td><td></td><td></td><td></td><td colspan="12">**L’evento è insolito o inaspettato?**</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="8">**Esiste un rischio significativo di diffusione internazionale?**</td><td></td><td></td><td></td><td></td><td colspan="14">**Esiste un rischio significativo di diffusione internazionale?**</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="11">**Esiste un rischio significativo di restrizi****o****ni al commercio o al traffico internazion****a****li?**</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="12">**Non notificato in questa fase. Eseguire una nuova valutazione quando si rendano disponibili maggiori informazioni.**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="8">**Esiste un rischio significativo** **di diffusione internazionale?**</td><td></td><td></td><td></td><td></td><td colspan="14">**Esiste un rischio significativo di diffusione internazionale?**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="11">**Esiste un rischio significativo di** **restrizioni al commercio o al traffico internazionali?**</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="12">**Non notificato in questa** **fase. Eseguire una nuova valutazione quando** **si rendano disponibili maggiori informazioni.**</td></tr>
 <tr><td colspan="32">**Gli eventi devono essere notificati all’OMS ai sensi del Regolamento sanitario internazionale.**</td></tr>
 <tr><td colspan="2"><sup>a</sup></td><td colspan="29">In base alle definizioni del caso dell’OMS.</td></tr>
 <tr><td colspan="2"><sup>b</sup></td><td colspan="29">L’elenco delle malattie deve essere utilizzato solamente ai fini del presente Regolamento.</td></tr>
@@ -1287,7 +1297,7 @@ L’evento soddisfa almeno due dei seguenti criteri?
 
 <table>
 <tr><td></td><td colspan="2">**I. L’evento ha un impatto grave sulla sanità pubblica?**</td></tr>
-<tr><td>**L’evento ha un impatto grave sulla sanità pubbl****i****ca?**</td><td>1.</td><td>*Il numero di casi* *e/o il numero di decessi per* *questo* *tipo di evento è elevato per tale luogo, momento o* *popolazione?*</td></tr>
+<tr><td>**L’evento ha un impatto grave sulla sanità pubblica?**</td><td>1.</td><td>*Il numero di casi* *e/o il numero di decessi per* *questo* *tipo di evento è elevato per tale luogo, momento o* *popolazione?*</td></tr>
 <tr><td></td><td>2.</td><td>*L**’evento può potenzialmente avere un impatto grave sulla sanità* *pubblica?*</td></tr>
 <tr><td></td><td colspan="2">I seguenti esempi illustrano circostanze che contribuiscono a determinare un impatto grave sulla sanità pubblica:</td></tr>
 <tr><td></td><td>✔</td><td>Eventi causati da un agente patogeno con alto potenziale epidemico (infettività dell’agente, alta letalità, vie di trasmissione multiple o portatori sani).</td></tr>
@@ -1320,14 +1330,14 @@ L’evento soddisfa almeno due dei seguenti criteri?
 <tr><td>Esiste un rischio significativo di diffusione internazionale?</td><td></td></tr>
 <tr><td></td><td>III. Esiste un rischio significativo di diffusione internazionale?</td></tr>
 <tr><td></td><td>6. *Esistono prove di un collegamento epidemiologico con eventi simili in altri Stati?*</td></tr>
-<tr><td></td><td>7. *Esistono fattori che dovrebbero allertare sulla potenziale diffusione oltre fronti**e**ra dell’agente, veicolo o ospite?* I seguenti esempi illustrano circostanze che possono indurre una diffusione internazionale: ✔ In caso di prove attestanti una diffusione a livello locale, un caso indice (o altri casi collegati) con anamnesi entro il mese precedente: – soggetto che ha effettuato un viaggio internazionale in questo periodo (o in un periodo corrispondente al periodo di incubazione in caso di agente patogeno conosciuto); o – soggetto che ha partecipato a un raduno internazionale (pellegrinaggio, evento sportivo, conferenza ecc.); o – soggetto che ha avuto un contatto ravvicinato con un viaggiatore internazionale o una popolazione ad alta mobilità. ✔ Evento causato da una contaminazione ambientale che può potenzialmente diffondersi a livello internazionale. ✔ Evento in un’area a intenso traffico internazionale con una limitata capacità di sanificazione o di rilevamento o decontaminazione ambientale.</td></tr>
+<tr><td></td><td>7. *Esistono fattori che dovrebbero allertare sulla potenziale diffusione oltre* *frontiera dell’agente, veicolo o ospite?* I seguenti esempi illustrano circostanze che possono indurre una diffusione internazionale: ✔ In caso di prove attestanti una diffusione a livello locale, un caso indice (o altri casi collegati) con anamnesi entro il mese precedente: – soggetto che ha effettuato un viaggio internazionale in questo periodo (o in un periodo corrispondente al periodo di incubazione in caso di agente patogeno conosciuto); o – soggetto che ha partecipato a un raduno internazionale (pellegrinaggio, evento sportivo, conferenza ecc.); o – soggetto che ha avuto un contatto ravvicinato con un viaggiatore internazionale o una popolazione ad alta mobilità. ✔ Evento causato da una contaminazione ambientale che può potenzialmente diffondersi a livello internazionale. ✔ Evento in un’area a intenso traffico internazionale con una limitata capacità di sanificazione o di rilevamento o decontaminazione ambientale.</td></tr>
 <tr><td></td><td>Esiste un rischio significativo di diffusione internazionale? Rispondere «sì» se si è risposto «sì» ai precedenti quesiti 6 e 7.</td></tr>
 </table>
 
 <table>
 <tr><td>Esiste un rischio di restrizioni internazionali?</td><td></td></tr>
 <tr><td></td><td>IV. Esiste un rischio significativo di restrizioni al commercio o al traffico internazionali?</td></tr>
-<tr><td></td><td>8. *In passato, eventi simili hanno determinato restrizioni internazionali al co**m**mercio e/o ai viaggi?*</td></tr>
+<tr><td></td><td>8. *In passato, eventi simili hanno determinato restrizioni internazionali al* *commercio e/o ai viaggi?*</td></tr>
 <tr><td></td><td>9. *La fonte sospetta o nota corrisponde a prodotti alimentari, acqua o qualsiasi altra merce che possa essere contaminata e che sia stata esportata/importata da altri Stati?*</td></tr>
 <tr><td></td><td>10. *L’evento si è verificato in concomitanza con un raduno internazionale o in un’area a intenso turismo internazionale**?*</td></tr>
 <tr><td></td><td>11. *L’evento ha causato richieste di ulteriori informazioni da parte di funzionari esteri o media internazionali?*</td></tr>
@@ -1382,28 +1392,28 @@ Allegato 3
 Allegato al modello di certificato di esenzione dalla sanificazione della nave/certificato di sanificazione della nave
 
 <table>
-<tr><th>Aree/strutture/impianti ispezionati</th><th></th><th>Prove riscontrate</th><th>Risultati dei campioni</th><th>Documenti verificati</th><th>Misure di controllo applicate</th><th>Data della nuova ispezione</th><th>Commenti relativi alle condizioni riscontrate</th></tr>
-<tr><td>Alimenti</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Origine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Conservazione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Preparazione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Servizio</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Acqua</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Origine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Conservazione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Distribuzione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Rifiuti</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Conservazione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Trattamento</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Smaltimento</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Piscine/terme</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Attrezzatura</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Funzionamento</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Strutture mediche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Attrezzature e dispositivi medici</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Funzionamento</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Medicinali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Altre aree ispezionate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Aree/strutture/ impianti ispezionati</th><th>Prove riscontrate</th><th>Risultati dei campioni</th><th>Documenti verificati</th><th>Misure di controllo applicate</th><th>Data della nuova ispezione</th><th>Commenti relativi alle condizioni riscontrate</th></tr>
+<tr><th>Alimenti</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Origine</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Conservazione</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Preparazione</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Servizio</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Acqua</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Origine</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Conservazione</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Distribuzione</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Rifiuti</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Conservazione</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Trattamento</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Smaltimento</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Piscine/terme</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Attrezzatura</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Funzionamento</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Strutture mediche</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Attrezzature e dispositivi medici</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Funzionamento</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Medicinali</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Altre aree ispezionate</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 </table>
 
 Contrassegnare le aree elencate non applicabili con N/A
@@ -1508,11 +1518,11 @@ Qualsiasi emendamento, cancellazione o parte non compilata del presente certific
 
 La validità del presente certificato deve protrarsi fino alla data indicata per la particolare vaccinazione o profilassi. Il certificato deve essere completato interamente in inglese o in francese. Il certificato può essere completato anche in un’altra lingua sullo stesso documento in aggiunta all’inglese o al francese.
 
-Allegato 7*[^t-3]*
+Allegato 7[^t-2]
 
 ## Requisiti relativi a vaccinazioni o a profilassi per specifiche malattie
 
-[^t-3]: Aggiornato dall’em. adottato alla sessantasettesima Assemblea mondiale della Sanità il 24 mag. 2014, in vigore dall’11 lug. 2016 ([RU 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
+[^t-2]: Aggiornato dall’emendamento del 24 mag. 2014, in vigore dall’11 lug. 2016 ([RU 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
 
 \1. In aggiunta a qualsiasi raccomandazione relativa a vaccinazione o a profilassi, ai sensi del presente Regolamento per le seguenti malattie può essere specificamente richiesto un certificato di vaccinazione o della profilassi come condizione per l’ingresso dei viaggiatori in uno Stato Parte:
 
@@ -1643,17 +1653,17 @@ Dichiaro con la presente che i dettagli e le risposte ai quesiti posti nella pre
 <tr><td colspan="12">\* Indicare: (1) se la persona è guarita, è ancora ammalata o è morta; e (2) se la persona è ancora a bordo, è stata evacuata (incluso il nome del porto o aeroporto), o è stata sepolta in mare.</td></tr>
 </table>
 
-Allegato 9*[^t-4]*
+Allegato 9[^t-3]
 
 ## Il presente documento è parte della Dichiarazione generale di aeromobile, promulgata dall’Organizzazione dell’aviazione civile internazionale
 
-[^t-4]: Nuovo testo giusta l’emendamento del 3 apr. 2008, in vigore dal 15 lug. 2007 ([RU 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
+[^t-3]: Nuovo testo giusta l’emendamento del 3 apr. 2008, in vigore dal 15 lug. 2007 ([RU 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
 
-### Parte sanitaria della Dichiarazione generale di aeromobile****
+### Parte sanitaria della Dichiarazione generale di aeromobile
 
 [^annexu1-lvlu1-lvlu1-1]
 
-[^annexu1-lvlu1-lvlu1-1]: Il documento può essere consultato in versione integrale (solo in lingua francese) all’indirizzo dell’Organizzazione dell’aviazione civile internazionale, Direzione della navigazione aerea (ANB), Sezione della medicina aeronautica (MED): http://www.icao.int/icao/fr/med/guidelines\_f.htm.
+[^annexu1-lvlu1-lvlu1-1]: Il documento può essere consultato in versione integrale (solo in lingua francese) all’indirizzo dell’Organizzazione dell’aviazione civile internazionale, Direzione della navigazione aerea (ANB), Sezione della medicina aeronautica (MED): [https://www.icao.int/safety/aviation-medicine/Pages/default.aspx](https://www.icao.int/safety/aviation-medicine/Pages/default.aspx)
 
 Dichiarazione di sanità
 
@@ -1667,7 +1677,7 @@ Firma, se del caso con orario e data: ……………………………………
 <tr><td></td><td>Membro dell’equipaggio responsabile</td></tr>
 </table>
 
-Campo d’applicazione l’11 agosto 2015**[^t-5]**
+Campo d’applicazione l’11 agosto 2015[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1727,6 +1737,7 @@ Campo d’applicazione l’11 agosto 2015**[^t-5]**
 <tr><td>Emirati Arabi Uniti</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Eritrea</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Estonia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Eswatini</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Etiopia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Figi</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Filippine</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1774,7 +1785,7 @@ Campo d’applicazione l’11 agosto 2015**[^t-5]**
 <tr><td>Liechtenstein</td><td></td><td></td><td>28 marzo</td><td>2012</td></tr>
 <tr><td>Lituania</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Lussemburgo</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td>Macedonia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Macedonia del Nord</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Madagascar</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Malawi</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Malaysia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1842,7 +1853,6 @@ Campo d’applicazione l’11 agosto 2015**[^t-5]**
 <tr><td>Suriname</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Svezia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td>Swaziland</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Tagikistan</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Tanzania</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Thailandia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1865,8 +1875,14 @@ Campo d’applicazione l’11 agosto 2015**[^t-5]**
 <tr><td>Yemen</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Zambia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Zimbabwe</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazionei ed obiezioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione Mondiale della Sanità (OMS): http://www.who.int/csr/ihr/states\_parties/fr/index.html oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione Mondiale della Sanità (OMS): [www.who.int/fr](https://www.who.int/fr) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dichiarazioni della Presidenza nel nome degli Stati membri dell’Unione europea.</td></tr>
 </table>
 
-[^t-5]: [RU 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343), [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58)e [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+
+Emendamenti agli articoli 55, 59, 61, 62 e 63 del Regolamento sanitario internazionale del 28 maggio 2022[^t-5]
+
+In conformità con l’articolo 61 del Regolamento sanitario internazionale, i seguenti Stati contraenti hanno informato il Segretario generale dell'OMS di rifiutare i presenti emendamenti: Iran, Nuova Zelanda, Paesi Bassi e Slovacchia.
+
+[^t-5]: [RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)
