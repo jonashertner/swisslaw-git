@@ -4,13 +4,13 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2023-07-10
-valid_until: 2024-05-30
-version_adopted: 2023-06-06
+version: 2024-05-31
+valid_until: 2024-12-19
+version_adopted: 2024-05-28
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2437/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2437/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 10. Juli 2023)
+Vom 28. November 2017 (Stand 31. Mai 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -41,21 +41,21 @@ beschliesst:
 
 <sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden erstinstanzlich über individuelle Personalgeschäfte der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter inklusive kantonale Schulen gestützt auf das Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalgesetz) vom 1. September 1994[^2-1] und die Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalverordnung) vom 12. Dezember 1994[^2-2]. Vorbehalten bleiben Abs. 2 und 3.
 
-<sup>2</sup> Der Regierungsrat entscheidet
+<sup>2</sup> Der Regierungsrat entscheidet:
 
 - 1\. bei den Mitarbeiterinnen und Mitarbeitern gemäss Abs. 1 über ausserordentliche Gehaltserhöhungen und über ausserordentliche Zuwendungen, jedoch ohne Beförderungen im Rahmen der Richtlinien des Regierungsrats;
 - 2\. über die Anstellung und die Entlassung folgender Personalkategorien:
   - a) Amtsleiterinnen und Amtsleiter;
   - b) Mitglieder der Kindes- und Erwachsenenschutzbehörde;
-  - c) Direktorin bzw. Direktor der Kantonsschule Zug;
-  - d) Rektorinnen und Rektoren der weiteren Schulen, die der Direktion für Bildung und Kultur unterstellt sind;
-  - e) die oder der Kommunikationsbeauftragte des Regierungsrats.
+  - c) …
+  - d) Rektorinnen und Rektoren der Schulen, die der Direktion für Bildung und Kultur unterstellt sind.
+  - e) …
 
 <sup>3</sup> Der Regierungsrat entscheidet über individuelle Personalgeschäfte der folgenden Personenkategorien:
 
 - 1\. der Landschreiberin oder des Landschreibers (ohne Wahl);
-- 2\. der stellvertretenden Landschreiberin oder des stellvertretenden Landschreibers (vorbehältlich Mitwirkungsrecht des Büros des Kantonsrats bei der Anstellung gemäss § 4<sup>bis</sup> Abs. 1 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz, OG) vom 29. Oktober 1998[^2-3];
-- 3\. der oder des Kommunikationsbeauftragten.
+- 2\. der stellvertretenden Landschreiberin oder des stellvertretenden Landschreibers (vorbehältlich Mitwirkungsrecht des Büros des Kantonsrats bei der Anstellung gemäss § 4<sup>bis</sup> Abs. 1 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz, OG) vom 29. Oktober 1998[^2-3].
+- 3\. …
 
 <sup>4</sup> Die Finanzdirektion ist für das verwaltungsinterne Weiterbildungsprogramm zuständig.
 
@@ -80,22 +80,22 @@ beschliesst:
 
 <sup>2</sup> Die zuständige Direktion trifft im erstinstanzlichen Verwaltungsverfahren und im Verwaltungsbeschwerdeverfahren die verfahrensleitenden Entscheide, sofern die Zuständigkeit nicht bereits im Gesetz geregelt ist. Sie kann im Rahmen eines Zwischenentscheides über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes entscheiden (§ 6 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-5]).
 
-<sup>3</sup> Sistierungsverfügungen sind nur delegiert, sofern die Parteien die Sistierung einvernehmlich beantragen oder ihr zugestimmt haben (§ 6 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-6]).
+<sup>3</sup> Die zuständige Direktion entscheidet über Anordnung und Aufhebung einer Sistierung.
 
-<sup>4</sup> Die zuständige Direktion kann in folgenden Fällen über Einsprachen, Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-7]):
+<sup>4</sup> Die zuständige Direktion kann in folgenden Fällen über Gesuche, Einsprachen, Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-6]):
 
 - 1\. Der Regierungsrat ist offensichtlich nicht zuständig.
-- 2\. Die Einsprechenden oder die Beschwerdeführenden sind offensichtlich nicht zur Beschwerde legitimiert.
+- 2\. Die Gesuchstellenden, die Einsprechenden oder die Beschwerdeführenden sind offensichtlich nicht zur Gesuchstellung, zur Einsprache oder zur Beschwerde legitimiert.
 - 3\. Die Frist wurde offensichtlich nicht eingehalten.
-- 4\. Die Einsprache oder Beschwerde wird vollumfänglich zurückgezogen.
+- 4\. Das Gesuch, die Einsprache oder die Beschwerde wird vollumfänglich zurückgezogen.
 - 5\. Die angefochtene Verfügung wird in Wiedererwägung gezogen und vollumfänglich aufgehoben.
 - 6\. Die Verfügung wird durch Vergleich im angefochtenen Teil aufgehoben oder wird gegenstandslos.
 - 7\. Der verlangte Kostenvorschuss oder die für die unentgeltliche Rechtspflege notwendigen Formulare oder Unterlagen werden innert der angesetzten Frist weder geleistet noch eingereicht.
-- 8\. Die Form der Einsprache- oder Beschwerdeschrift ist offensichtlich mangelhaft und die verlangte Verbesserung erfolgte nicht innert der angesetzten Frist.
+- 8\. Die Form des Gesuchs oder der Einsprache- oder Beschwerdeschrift ist offensichtlich mangelhaft und die verlangte Verbesserung erfolgte nicht innert der angesetzten Frist.
 - 9\. Bei einer Rechtsverweigerungs- oder Rechtsverzögerungsbeschwerde ist der fehlende Entscheid von der Vorinstanz inzwischen vollständig erlassen worden.
-- 10\. Die Einsprache oder Beschwerde erweist sich aus anderen Gründen offensichtlich als gegenstandslos.
+- 10\. Das Gesuch, die Einsprache oder die Beschwerde erweist sich aus anderen Gründen offensichtlich als gegenstandslos.
 
-<sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-8]).
+<sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-7]).
 
 <sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die instruierende Direktion oder die instruierende Staatskanzlei den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
 
@@ -110,7 +110,6 @@ beschliesst:
 [^3-5]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 [^3-6]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 [^3-7]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
-[^3-8]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 4
 
@@ -128,14 +127,15 @@ beschliesst:
 - 8\. Jagdzeitanpassungen zur Regulierung von Überbeständen (§ 13 Abs. 2 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-8]);
 - 9\. Genehmigung von Rechtshandlungen altrechtlicher Fideikommisse. Das Geschäft ist dem Regierungsrat vorzulegen, sofern die Direktion erwägt, das Geschäft ganz oder teilweise nicht zu genehmigen oder die Genehmigung mit Auflagen zu verbinden;
 - 10\. …
-- 11\. Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen sowie das Haager Erwachsenenschutzübereinkommen und als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE) vom 21. Dezember 2007[^4-9]);
-- 12\. Beiträge an die ausgewiesenen Aufwändungen von Institutionen, die sich der Förderung geschützter Tierarten im Sinne von Art. 7 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) vom 20. Juni 1986[^4-10] widmen, sofern die Beiträge im Einzelfall Fr. 10'000.– und insgesamt pro Jahr Fr. 200'000.– nicht übersteigen (§ 18 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-11]);
-- 13\. Genehmigung von gemeindlichen Einbürgerungsreglementen, sofern diese vorbehaltlos erfolgen können (§ 15 Abs. 2 des Gesetzes betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts (Bürgerrechtsgesetz) vom 3. September 1992[^4-12]);
-- 14\. Entscheid über den Antrag zur Sperrung der Veröffentlichung von Personenangaben im Internet und Vollzug der Sperrung gemäss § 149a Abs. 2 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug (EG ZGB) vom 17. August 1911[^4-13];
-- 15\. Ausrichtung von Bundesbeiträgen, die dem Kanton im Rahmen einer Programmvereinbarung mit dem Bund an die Restaurierung von Denkmälern sowie an archäologische Grabungen und Bauuntersuchungen zur Verfügung gestellt werden. Diese Zuständigkeit betrifft Denkmäler sowie alle archäologischen Grabungen und Bauuntersuchungen, bei denen der mutmassliche Bundesbeitrag an die Restaurierung den Betrag von Fr. 200'000.– nicht übersteigen wird (§ 10 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^4-14]);
-- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 53 und Art. 58 und die Integrationdes Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländer und Integrationsgesetz, AIG) vom 16. Dezember 2005[^4-15] sowie Art. 14 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 15. August 2018[^4-16]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
-- 17\. Ernennung der Grundbuchverwalterin oder des Grundbuchverwalters (§ 6 Abs. 1 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen (Beurkundungsgesetz; BeurkG) vom 3. Juni 1946[^4-17]; § 2 Abs. 1 der Verordnung über die Bereinigung der dinglichen Rechte und die Anlage des Grundbuches vom 29. Juni 1940[^4-18]);
-- 18\. Genehmigung und Unterzeichnung von Programmvereinbarungen mit dem Bund für Verbundaufgaben im Bereich des Katasterwesens.
+- 11\. Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen (HKsÜ) vom 19. Oktober 1996[^4-9], das Haager Erwachsenenschutzübereinkommen (HEsÜ) vom 13. Januar 2000[^4-10], das Haager Adoptionsübereinkommen (HAÜ) vom 29. Mai 1993[^4-11], das Bundesgesetz zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ) vom 22. Juni 2001[^4-12] sowie als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen [BG-KKE] vom 21. Dezember 2007[^4-13]);
+- 12\. Beiträge an die ausgewiesenen Aufwändungen von Institutionen, die sich der Förderung geschützter Tierarten im Sinne von Art. 7 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) vom 20. Juni 1986[^4-14] widmen, sofern die Beiträge im Einzelfall Fr. 10'000.– und insgesamt pro Jahr Fr. 200'000.– nicht übersteigen (§ 18 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-15]);
+- 13\. Genehmigung von gemeindlichen Einbürgerungsreglementen, sofern diese vorbehaltlos erfolgen können (§ 15 Abs. 2 des Gesetzes betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts (Bürgerrechtsgesetz) vom 3. September 1992[^4-16]);
+- 14\. Entscheid über den Antrag zur Sperrung der Veröffentlichung von Personenangaben im Internet und Vollzug der Sperrung gemäss § 149a Abs. 2 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug (EG ZGB) vom 17. August 1911[^4-17];
+- 15\. Ausrichtung von Bundesbeiträgen, die dem Kanton im Rahmen einer Programmvereinbarung mit dem Bund an die Restaurierung von Denkmälern sowie an archäologische Grabungen und Bauuntersuchungen zur Verfügung gestellt werden. Diese Zuständigkeit betrifft Denkmäler sowie alle archäologischen Grabungen und Bauuntersuchungen, bei denen der mutmassliche Bundesbeitrag an die Restaurierung den Betrag von Fr. 200'000.– nicht übersteigen wird (§ 10 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^4-18]);
+- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 53 und Art. 58 und die Integrationdes Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländer und Integrationsgesetz, AIG) vom 16. Dezember 2005[^4-19] sowie Art. 14 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 15. August 2018[^4-20]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
+- 17\. Ernennung der Grundbuchverwalterin oder des Grundbuchverwalters (§ 6 Abs. 1 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen (Beurkundungsgesetz; BeurkG) vom 3. Juni 1946[^4-21]; § 2 Abs. 1 der Verordnung über die Bereinigung der dinglichen Rechte und die Anlage des Grundbuches vom 29. Juni 1940[^4-22]);
+- 18\. Genehmigung und Unterzeichnung von Programmvereinbarungen mit dem Bund für Verbundaufgaben im Bereich des Katasterwesens;
+- 19\. Abschluss von Vereinbarungen und Ausrichtung von Beiträgen an sonstige Angebote gemäss § 33 des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023[^4-23] bis zu einer Summe von Fr. 50'000.–.
 
 [^4-1]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
 [^4-2]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
@@ -145,16 +145,21 @@ beschliesst:
 [^4-6]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
 [^4-7]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
 [^4-8]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
-[^4-9]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
-[^4-10]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
-[^4-11]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
-[^4-12]: BGS [121.3](https://bgs.zg.ch/data/121.3/de)
-[^4-13]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
-[^4-14]: BGS [423.11](https://bgs.zg.ch/data/423.11/de)
-[^4-15]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
-[^4-16]: SR [142.205](https://db.clex.ch/link/Bund/142.205/de)
-[^4-17]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
-[^4-18]: BGS [215.32](https://bgs.zg.ch/data/215.32/de)
+[^4-9]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
+[^4-10]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
+[^4-11]: SR [0.211.221.311](https://db.clex.ch/link/Bund/0.211.221.311/de)
+[^4-12]: SR [211.221.31](https://db.clex.ch/link/Bund/211.221.31/de)
+[^4-13]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
+[^4-14]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
+[^4-15]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
+[^4-16]: BGS [121.3](https://bgs.zg.ch/data/121.3/de)
+[^4-17]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
+[^4-18]: BGS [423.11](https://bgs.zg.ch/data/423.11/de)
+[^4-19]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^4-20]: SR [142.205](https://db.clex.ch/link/Bund/142.205/de)
+[^4-21]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
+[^4-22]: BGS [215.32](https://bgs.zg.ch/data/215.32/de)
+[^4-23]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
 
 #### § 5
 
@@ -246,7 +251,8 @@ beschliesst:
 - 10\. Öffentlicherklärung von Gewässern und die Nachführung des Verzeichnisses über die öffentlichen Oberflächengewässer im Anhang 1 des Gesetzes über die Gewässer (GewG) (§ 7 Abs. 2 und 4 des Gesetzes über die Gewässer (GewG) vom 25. November 1999[^7-9]);
 - 11\. Kreditfreigabe und Zeichnungsberechtigung für Verträge bis 3,0 Millionen Franken (inkl. MWST) (§ 4 Abs. 2 des Kantonsratsbeschlusses über das Strassenbauprogramm 2023–2030 vom 30. März 2023[^7-10]);
 - 12\. Erlass von Belegungsvorschriften (§ 7 Abs. 4 des Gesetzes über die Förderung von preisgünstigem Wohnraum (Wohnraumförderungsgesetz, WFG) vom 30. Januar 2003[^7-11]);
-- 13\. Erlass der Grundsätze im Verbundtarif (§ 4 Abs. 2 Bst. e des Gesetzes über den öffentlichen Verkehr vom 22. Februar 2007[^7-12]).
+- 13\. Erlass der Grundsätze im Verbundtarif (§ 4 Abs. 2 Bst. e des Gesetzes über den öffentlichen Verkehr vom 22. Februar 2007[^7-12]);
+- 14\. Kreditfreigabe bis 500'000 Franken (§ 2 Abs. 2 des Kantonsratsbeschlusses betreffend Rahmenkredite Planung und Projektierung Bahnprojekte und Bahnbau vom 31. März 2011[^7-13]).
 
 [^7-1]: BGS [611.1](https://bgs.zg.ch/data/611.1/de)
 [^7-2]: BGS [611.1](https://bgs.zg.ch/data/611.1/de)
@@ -260,6 +266,7 @@ beschliesst:
 [^7-10]: BGS [751.xx](https://bgs.zg.ch/data/751.xx/de)
 [^7-11]: BGS [851.211](https://bgs.zg.ch/data/851.211/de)
 [^7-12]: BGS [751.31](https://bgs.zg.ch/data/751.31/de)
+[^7-13]: GS 31, 139
 
 #### § 8
 
@@ -288,12 +295,14 @@ beschliesst:
 - 3\. Kenntnisnahme der Jahresrechnungen
   - a) der Ausgleichskasse und der IV-Stelle (§ 3 Abs. 2 Bst. a des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung vom 28. Januar 1993[^9-4];
   - b) der Familienausgleichskasse (§ 5 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die Familienzulagen (FamZG) vom 30. April 2009[^9-5].
+- 4\. Vorsorgliche Massnahmen im Rahmen von Tariffestsetzungsverfahren (Art. 47 Bundesgesetz über die Krankenversicherung [KVG] vom 18. März 1994[^9-6]), sofern die Tarifhöhe von den Parteien übereinstimmend beantragt wird.
 
 [^9-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
 [^9-2]: SR [680](https://db.clex.ch/link/Bund/680/de)
 [^9-3]: BGS [841.7](https://bgs.zg.ch/data/841.7/de)
 [^9-4]: BGS [841.1](https://bgs.zg.ch/data/841.1/de)
 [^9-5]: BGS [844.4](https://bgs.zg.ch/data/844.4/de)
+[^9-6]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 10
 
