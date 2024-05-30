@@ -4,18 +4,20 @@ number: "500.510"
 title: Dekret über den kantonalen Winkelriedfonds
 language: de
 version: 2018-04-01
+corrected: 2024-05-31
 version_adopted: 2018-03-05
 adopted: 1963-11-25
 in_force: 1963-11-29
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.510"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/867/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/4/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Dekret über den kantonalen Winkelriedfonds
 
-Vom 25.11.1963 (Stand 01.04.2018)
+vom 25. November 1963
 
 Der Grosse Rat des Kantons Schaffhausen,
 
@@ -23,16 +25,27 @@ in der Absicht, die Zweckbestimmung des kantonalen Winkelriedfonds den heutigen 
 
 beschliesst:
 
+[^t-1]: Fassung gemäss D vom 5. März 2018, in Kraft getreten am 1. April 2018 (Amtsblatt 2018, S. 407).
+
 #### § 1
 
-<sup>1</sup> Aus dem Winkelriedfonds können auf Gesuch hin Beiträge geleistet werden:
+[^t-1]
 
-- a) an Vereinigungen, die sich dem Militär oder dem Zivilschutz widmen
-- b) an das militärische Vorunterrichtswesen
-- c) an das freiwillige, ausserdienstliche Schiesswesen
-- d) an Angehörige der Armee und des Zivilschutzes oder ihre Angehörige, sofern sie durch die Militärdienst- oder Zivilschutzleistung in finanzielle Bedrängnis geraten und nicht die Militärversicherung oder eine andere Institution genügend für die Unterstützung aufkommt
+Aus dem Winkelriedfonds können auf Gesuch hin Beiträge geleistet werden:
+
+- a) an Vereinigungen, die sich dem Militär oder dem Zivilschutz widmen;
+
+- b) an das militärische Vorunterrichtswesen;
+
+- c) an das freiwillige, ausserdienstliche Schiesswesen;
+
+- d) an Angehörige der Armee und des Zivilschutzes oder ihre Angehörige, sofern sie durch die Militärdienst- oder Zivilschutzleistung in finanzielle Bedrängnis geraten und nicht die Militärversicherung oder eine andere Institution genügend für die Unterstützung aufkommt.
+
+[^1-1]: Fassung gemäss D vom 5. März 2018, in Kraft getreten am 1. April 2018 (Amtsblatt 2018, S. 407).
 
 #### § 2
+
+[^1-1]
 
 <sup>1</sup> Über die Beiträge gemäss § 1 entscheidet das zuständige Departement.
 
@@ -40,11 +53,13 @@ beschliesst:
 
 #### § 3
 
-<sup>1</sup> Der Winkelriedfonds wird durch die Fondszinsen und allfällige Vergabungen geäufnet.
+Der Winkelriedfonds wird durch die Fondszinsen und allfällige Vergabungen geäufnet.
+
+Amtsblatt 1963, S. 1381; Rechtsbuch 1964, Nr. 304.
 
 #### § 4
 
-<sup>1</sup> Der Fonds wird von der kantonalen Finanzverwaltung verwaltet.
+Der Fonds wird von der kantonalen Finanzverwaltung verwaltet.
 
 #### § 5
 
@@ -52,6 +67,6 @@ beschliesst:
 
 <sup>2</sup> Es ersetzt das Dekret vom 19. Mai 1884.
 
-[^5-1]: In Kraft getreten am 29. November 1963 (Amtsblatt 1963, S. 1382).
+Fussnoten:
 
-Abl. 1963, S. 1381
+[^5-1]: In Kraft getreten am 29. November 1963 (Amtsblatt 1963, S. 1382).
