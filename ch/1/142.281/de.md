@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2023-10-15
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20231015/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20231015-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/de"
 
 (VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 15. Oktober 2023)
+vom 11. August 1999 (Stand am 1. Juni 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -320,16 +320,35 @@ Die Kantone erstatten dem SEM die Vollzugs- und Ausreisekosten zurück, die bei 
 
 ### (Art. 82 Abs. 2 AIG)
 
-<sup>1</sup> Bei einer kurzfristigen Festhaltung nach Artikel 73 AIG und bei der Anordnung einer Haft nach den Artikeln 75–78 AIG wird dem betreffenden Kanton ab einer Dauer der Festhaltung oder der Haft von zwölf Stunden ein Pauschalbetrag von 200 Franken pro Tag ausgerichtet.
+<sup>1</sup> Bei einer kurzfristigen Festhaltung nach Artikel 73 Absatz 1 Buchstaben a und b AIG und bei der Anordnung einer Haft nach den Artikeln 75–78 AIG wird dem betreffenden Kanton ab einer Dauer der Festhaltung oder der Haft von zwölf Stunden ein Pauschalbetrag von 200 Franken pro Tag ausgerichtet.[^15-2]
 
 <sup>2</sup> Diese Pauschale wird bei Haftanstalten, die der Bund ganz oder teilweise finanziert hat, um den entsprechenden Amortisationsanteil gekürzt. Das EJPD regelt im Einvernehmen mit dem Eidgenössischen Finanzdepartement die Modalitäten des Verfahrens.
 
 <sup>3</sup> Das SEM verfolgt gesamtschweizerisch die Entwicklung der Betriebskosten. Die Kantone übermitteln dem SEM die dazu notwendigen Grundlagen zur Zusammensetzung der Betriebskosten.
 
-<sup>4</sup> …[^15-2]
+<sup>4</sup> …[^15-3]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 26. März 2014, in Kraft seit 1. Febr. 2014 ([AS 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
-[^15-2]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15-3]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15a
+
+**Beteiligung an den Betriebskosten kantonaler Ausreisezentren**[^15a-1]
+
+### (Art. 82 Abs. 3 Bst. b und Art. 73 Abs. 1 Bst. c AIG)
+
+<sup>1</sup>
+
+Eine ausserordentlich hohe Zahl von illegalen Grenzübertritten sowie von Personenkontrollen (Art. 82 Abs. 3 Bst. b AIG) liegt vor, wenn:
+
+- a. über einen längeren Zeitraum eine Übergabe der betroffenen Personen an die Behörden eines Nachbarstaates am Tag, an dem die betroffenen Personen aufgegriffen wurden, nicht mehr möglich ist;
+- b. die Unterbringung der betroffenen Personen in anderen kantonalen Unterkünften nicht gewährleistet werden kann und daher in einem kantonalen Ausreisezentrum im Grenzraum erfolgen muss; und
+- c. die Verfahren zur Übergabe an den Nachbarstaat mit einem kantonalen Ausreisezentrum im Grenzraum vereinfacht werden.
+
+<sup>2</sup> Bei einer kurzfristigen Festhaltung nach Artikel 73 Absatz 1 Buchstabe c AIG kann dem betroffenen Kanton ein vertraglich vereinbarter Pauschalbetrag von höchstens 100 Franken pro Tag ausgerichtet werden.
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
 
 ## 1*a*. Abschnitt: Datenerhebung im Bereich der Zwangsmassnahmen
 
@@ -337,13 +356,13 @@ Die Kantone erstatten dem SEM die Vollzugs- und Ausreisekosten zurück, die bei 
 
 [^sec1a-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-#### Art. 15a
+#### Art. 15a<sup>bis</sup>
 
-**Übermittlung von Daten zur Administrativhaft[^15a-1]**
+**…[^15abis-2]**[^15abis-1]
 
 <sup>1</sup>
 
-Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über die Anordnung der Haft nach den Artikeln 73 und 75–78 AIG im Asyl- und Ausländerbereich:[^15a-2]
+Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über die Anordnung der Haft nach den Artikeln 73 und 75–78 AIG im Asyl- und Ausländerbereich:[^15abis-3]
 
 - a. die Anzahl der Haftanordnungen und die Dauer der Haft im Einzelfall;
 - b. die Anzahl der Rückführungen;
@@ -351,16 +370,17 @@ Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über 
 - d. die Nationalität der inhaftierten Personen;
 - e. das Geschlecht und das Alter der inhaftierten Personen;
 - f. die Haftart;
-- g.[^15a-3] der Ort der Inhaftierung;
-- h.[^15a-4] die Haftdauer.
+- g.[^15abis-4] der Ort der Inhaftierung;
+- h.[^15abis-5] die Haftdauer.
 
-<sup>2</sup> Bei Minderjährigen übermitteln die zuständigen kantonalen Behörden zusätzlich, ob eine Rechtsvertretung eingesetzt wurde und ob Kindesschutzmassnahmen getroffen wurden.[^15a-5]
+<sup>2</sup> Bei Minderjährigen übermitteln die zuständigen kantonalen Behörden zusätzlich, ob eine Rechtsvertretung eingesetzt wurde und ob Kindesschutzmassnahmen getroffen wurden.[^15abis-6]
 
-[^15a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15a-3]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-4]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-5]: Eingefügt durch Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
+[^15abis-1]: Ursprünglich: Art. 15*a*.
+[^15abis-2]: Eingefügt durch Ziff. I der V vom 8. Juni 2018 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)). Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juni 2024 ([AS 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15abis-3]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15abis-4]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-5]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-6]: Eingefügt durch Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
 
 ## 1*a*<sup>bis</sup>. Abschnitt: Internationale Rückführungseinsätze
 
@@ -795,11 +815,12 @@ Im Hinblick auf die Feststellung, dass die Rückkehr in einen Heimat- oder Herku
 
 #### Art. 21
 
-**Verteilung auf die Kantone**
+**Verteilung auf die Kantone**[^21-1]
 
-Die Verteilung auf die Kantone und der Kantonswechsel von vorläufig aufgenommenen Personen richten sich nach den Artikeln 21 und 22 der Asylverordnung vom 11. August 1999[^21-1].
+Die Verteilung auf die Kantone von vorläufig aufgenommenen Personen richtet sich nach den Artikeln 21 und 22 der Asylverordnung 1 vom 11. August 1999[^21-2].
 
-[^21-1]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
+[^21-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 22 und 23
 
@@ -809,14 +830,9 @@ Die Verteilung auf die Kantone und der Kantonswechsel von vorläufig aufgenommen
 
 #### Art. 24
 
-**Familienvereinigung**[^24-1]
+[^24-1]
 
-### (Art. 85 Abs. 7 AIG)
-
-Das Verfahren über die Vereinigung von Familienangehörigen von vorläufig aufgenommenen Personen in der Schweiz richtet sich nach Artikel 74 der Verordnung vom 24. Oktober 2007[^24-2] über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE).
-
-[^24-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
-[^24-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^24-1]: Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juni 2024 ([AS 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
 
 #### Art. 25
 
@@ -1049,7 +1065,6 @@ Organisationseinheiten:
 - – V Bereich Datenaustausch und Identifikation
 - – VI Bereich Sachdatenerfassung und Datenpflege
 - – VII Bereich Sprachanalysen
-- [tab]
 - [tab]
 
 ### Datenkatalog eRetour
@@ -1420,7 +1435,7 @@ Organisationseinheiten:
 <tr><td>Elektronische Unterschrift der Empfangsbestätigung für das Dokument</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Kopie der Empfangsbestätigung für das Dokument</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td colspan="15">11. Daten zu Auszahlungen am Flughafen</td></tr>
-<tr><td>Reisegeld Bund (nach Art. 59*a* der Asylverordnung 2 vom 11. August 1999[^annex1-lvlu1-lvlu1-lvlu1-1] über Finanzierungsfragen, AsylV 2)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Reisegeld Bund (nach Art. 59*a* der Asylverordnung 2 vom 11. August 1999[^annex1-lvlu1-lvlu2-1] über Finanzierungsfragen, AsylV 2)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Betrag des Reisegelds Bund in Franken</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Datum und Uhrzeit der Ausrichtung</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Validierung der vorzunehmenden Auszahlung</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -1586,7 +1601,7 @@ Organisationseinheiten:
 <tr><td>Referenzdaten</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu1-lvlu1-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^annex1-lvlu1-lvlu2-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
 Anhang 2[^t-4]
 

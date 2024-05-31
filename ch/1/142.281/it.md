@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2023-10-15
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20231015/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20231015-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 15 ottobre 2023)
+dell’11 agosto 1999 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -316,16 +316,35 @@ I Cantoni rimborsano alla SEM le spese di esecuzione e di partenza da essa soste
 
 ### (art. 82 cpv. 2 LStrI)
 
-<sup>1</sup> In caso di fermo secondo l’articolo 73 LStrI o se è ordinata la carcerazione secondo gli articoli 75–78 LStrI, a partire da una durata del fermo o della carcerazione di dodici ore è versato al Cantone interessato un importo forfettario di 200 franchi per giorno.
+<sup>1</sup> In caso di fermo secondo l’articolo 73 capoverso 1 lettere a e b LStrI o se è ordinata la carcerazione secondo gli articoli 75–78 LStrI, a partire da una durata del fermo o della carcerazione di dodici ore è versato al Cantone interessato un importo forfettario di 200 franchi per giorno.[^15-2]
 
 <sup>2</sup> Per gli stabilimenti carcerari che la Confederazione ha integralmente o parzialmente finanziato, l’importo forfettario è ridotto in ragione della pertinente quota parte di ammortamento. Il DFGP disciplina la procedura d’intesa con il Dipartimento federale delle finanze.
 
 <sup>3</sup> La SEM segue l’evoluzione dei costi d’esercizio a livello svizzero. A tal fine, i Cantoni forniscono alla SEM gli elementi necessari inerenti al dettaglio delle spese d’esercizio.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> ...[^15-3]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 26 mar. 2014, in vigore dal 1° feb. 2014 ([RU 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
-[^15-2]: Abrogato dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15-3]: Abrogato dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15a
+
+**Partecipazione alle spese d’esercizio dei centri cantonali di partenza**[^15a-1]
+
+### (art. 82 cpv. 3 lett. b e art. 73 cpv. 1 lett. c LStrI)
+
+<sup>1</sup>
+
+Si è in presenza di un numero straordinariamente elevato di passaggi illegali del confine e di controlli delle persone (art. 82 cpv. 3 lett. b LStrI) se:
+
+- a. per un periodo protratto non è più possibile consegnare le persone interessate alle autorità di uno Stato limitrofo il giorno in cui vengono fermate;
+- b. la sistemazione delle persone interessate in altri alloggi cantonali non può essere garantita e deve quindi avvenire in un centro cantonale di partenza situato nell’area di confine; e
+- c. le procedure di consegna allo Stato limitrofo vengono semplificate grazie alla sistemazione in un centro cantonale di partenza situato nell’area di confine.
+
+<sup>2</sup> In caso di fermo secondo l’articolo 73 capoverso 1 lettera c LStrI può essere corrisposto al Cantone interessato un importo forfettario convenuto contrattualmente di massimo 100 franchi per giorno.
+
+[^15a-1]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
 
 ## Sezione 1*a*: Rilevamento di dati nell’ambito delle misure coercitive
 
@@ -333,13 +352,13 @@ I Cantoni rimborsano alla SEM le spese di esecuzione e di partenza da essa soste
 
 [^sec1a-1]: Introdotta dal n. I dell’O del 24 mar. 2004, in vigore dal 1° apr. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-#### Art. 15a
+#### Art. 15a<sup>bis</sup>
 
-**Comunicazione di dati riguardanti la carcerazione amministrativa[^15a-1]**
+**...[^15abis-2]**[^15abis-1]
 
 <sup>1</sup>
 
-Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito all’ordine di carcerazione secondo gli articoli 73 e 75–78 LStrI nei settori dell’asilo e degli stranieri:[^15a-2]
+Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito all’ordine di carcerazione secondo gli articoli 73 e 75–78 LStrI nei settori dell’asilo e degli stranieri:[^15abis-3]
 
 - a. il numero degli ordini di carcerazione e la durata di ciascuna carcerazione;
 - b. il numero dei rinvii;
@@ -347,16 +366,17 @@ Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito 
 - d. la cittadinanza delle persone incarcerate;
 - e. il sesso e l’età delle persone incarcerate;
 - f. il tipo di carcerazione;
-- g.[^15a-3] il luogo dell’incarcerazione;
-- h.[^15a-4] la durata della carcerazione.
+- g.[^15abis-4] il luogo dell’incarcerazione;
+- h.[^15abis-5] la durata della carcerazione.
 
-<sup>2</sup> Per i minori, le autorità cantonali competenti in materia di stranieri comunicano anche se è stata istituita una rappresentazione legale e se sono state adottate misure a protezione del minore.[^15a-5]
+<sup>2</sup> Per i minori, le autorità cantonali competenti in materia di stranieri comunicano anche se è stata istituita una rappresentazione legale e se sono state adottate misure a protezione del minore.[^15abis-6]
 
-[^15a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-2]: Nuovo testo giusta il n. I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15a-3]: Introdotta dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-4]: Introdotta dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-5]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
+[^15abis-1]: Originario art. 15*a*.
+[^15abis-2]: Introdotto dal n. I dell’O dell’8 giu. 2018 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)). Abrogato dal n. I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15abis-3]: Nuovo testo giusta il n. I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15abis-4]: Introdotta dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-5]: Introdotta dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-6]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
 
 ## Sezione 1*a*<sup>bis</sup>: Interventi internazionali di rimpatrio
 
@@ -793,11 +813,12 @@ Per determinare se il ritorno in uno Stato di origine o di provenienza o in una 
 
 #### Art. 21
 
-**Ripartizione sui Cantoni**
+**Ripartizione sui Cantoni**[^21-1]
 
-La ripartizione sui Cantoni e il cambiamento di Cantone di persone ammesse provvisoriamente sono retti dagli articoli 21 e 22 dell’ordinanza 1 sull’asilo dell’11 agosto 1999[^21-1].
+La ripartizione sui Cantoni di persone ammesse provvisoriamente è retta dagli articoli 21 e 22 dell’ordinanza 1 dell’11 agosto 1999[^21-2] sull’asilo.
 
-[^21-1]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
+[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 22 e 23
 
@@ -807,14 +828,9 @@ La ripartizione sui Cantoni e il cambiamento di Cantone di persone ammesse provv
 
 #### Art. 24
 
-**Ricongiungimento familiare**[^24-1]
+[^24-1]
 
-### (art. 85 cpv. 7 LStrI)
-
-La procedura concernente il ricongiungimento familiare delle persone ammesse provvisoriamente in Svizzera è retta dall’articolo 74 dell’ordinanza del 24 ottobre 2007[^24-2] sull’ammissione, il soggiorno e l’attività lucrativa (OASA).
-
-[^24-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
-[^24-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^24-1]: Abrogato dal n. I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
 
 #### Art. 25
 
@@ -1630,7 +1646,7 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 - c. Convenzione del 22 settembre 2011[^annex3-lvlu1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
 - d. Accordo del 17 dicembre 2004[^annex3-lvlu1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
 - e. Accordo del 28 aprile 2005[^annex3-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
-- f. Protocollo del 28 febbraio 2008[^annex3-lvlu1-6] tra la Confederazion (Stato 15 ottobre 2023) e Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
+- f. Protocollo del 28 febbraio 2008[^annex3-lvlu1-6] tra la Confederazion e Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
 [^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)

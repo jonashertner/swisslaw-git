@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2023-10-15
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20231015-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 15 octobre 2023)
+du 11 août 1999 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -318,16 +318,35 @@ Les cantons remboursent au SEM les frais d’exécution et de départ qu’il a 
 
 ### (art. 82, al. 2, LEI)
 
-<sup>1</sup> En cas de rétention au sens de l’art. 73 LEI ou de détention ordonnée conformément aux art. 75 à 78 LEI, un montant forfaitaire de 200 francs par jour est versé au canton concerné à partir d’une durée de rétention ou de détention de douze heures.
+<sup>1</sup> En cas de rétention au sens de l’art. 73, al. 1, let. a et b, LEI ou de détention ordonnée conformément aux art. 75 à 78 LEI, un montant forfaitaire de 200 francs par jour est versé au canton concerné à partir d’une durée de rétention ou de détention de douze heures.[^15-2]
 
 <sup>2</sup> Pour les établissements de détention financés totalement ou partiellement par la Confédération, ce montant est réduit proportionnellement à la part d’amortissement. Le DFJP règle les modalités de la procédure en accord avec le Département fédéral des finances.
 
 <sup>3</sup> Le SEM observe l’évolution des coûts d’exploitation au niveau suisse. À cette fin, les cantons lui transmettent les bases nécessaires concernant la composition des coûts d’exploitation.
 
-<sup>4</sup> … [^15-2]
+<sup>4</sup> … [^15-3]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
-[^15-2]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15-3]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15a
+
+**Participation aux frais d’exploitation des centres cantonaux de départ**[^15a-1]
+
+### (art. 82, al. 3, let. b, et 73, al. 1, let. c, LEI)
+
+<sup>1</sup>
+
+Un nombre d’entrées illégales en Suisse et de contrôles de personnes est considéré comme exceptionnellement élevé (art. 82, al. 3, let. b, LEI) lorsque les conditions suivantes sont réunies:
+
+- a. les personnes concernées ne peuvent plus être remises aux autorités d’un État voisin le jour où elles sont interceptées, et ce, pendant une période prolongée;
+- b. l’hébergement des personnes concernées ne peut pas être assuré dans d’autres logements cantonaux et il faut donc recourir à un centre cantonal de départ implanté dans une zone frontalière;
+- c. un centre cantonal de départ implanté dans une zone frontalière permet de simplifier les procédures de remise à l’État voisin.
+
+<sup>2</sup> En cas de rétention au sens de l’art. 73, al. 1, let. c, LEI, le canton concerné peut recevoir un forfait contractuel dont le montant s’élève au maximum à 100 francs par jour.
+
+[^15a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
 
 ## Section 1*a* Saisie des données dans le domaine des mesures de contrainte
 
@@ -336,13 +355,13 @@ Les cantons remboursent au SEM les frais d’exécution et de départ qu’il a 
 [^sec1a-1]: Introduite par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 [^sec1a-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-#### Art. 15a
+#### Art. 15a<sup>bis</sup>
 
-**Transmission de données sur la détention administrative[^15a-1]**
+**…[^15abis-2]**[^15abis-1]
 
 <sup>1</sup>
 
-Les autorités cantonales compétentes transmettent au SEM les données suivantes concernant les détentions ordonnées conformément aux art. 73 et 75 à 78 LEI dans les domaines de l’asile et des étrangers:[^15a-2]
+Les autorités cantonales compétentes transmettent au SEM les données suivantes concernant les détentions ordonnées conformément aux art. 73 et 75 à 78 LEI dans les domaines de l’asile et des étrangers:[^15abis-3]
 
 - a. le nombre de détentions ordonnées et la durée de chacune de ces détentions;
 - b. le nombre de rapatriements;
@@ -350,16 +369,17 @@ Les autorités cantonales compétentes transmettent au SEM les données suivante
 - d. la nationalité des détenus;
 - e. le sexe et l’âge des détenus;
 - f. la nature des détentions;
-- g.[^15a-3] le lieu des détentions;
-- h.[^15a-4] la durée des détentions.
+- g.[^15abis-4] le lieu des détentions;
+- h.[^15abis-5] la durée des détentions.
 
-<sup>2</sup> Pour les mineurs, elles indiquent en outre si une représentation légale a été instituée et si des mesures de protection de l’enfant ont été prises.[^15a-5]
+<sup>2</sup> Pour les mineurs, elles indiquent en outre si une représentation légale a été instituée et si des mesures de protection de l’enfant ont été prises.[^15abis-6]
 
-[^15a-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15a-3]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-4]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^15a-5]: Introduit par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
+[^15abis-1]: Anciennement art. 15*a*.
+[^15abis-2]: Introduit par le ch. I de l’O du 8 juin 2018 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)). Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2024, avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15abis-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15abis-4]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-5]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15abis-6]: Introduit par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
 
 ## Section 1*a*<sup>bis</sup> Interventions internationales en matière de retour
 
@@ -799,11 +819,12 @@ Sont pris en considération pour déterminer si le retour dans un État d’orig
 
 #### Art. 21
 
-**Répartition entre les cantons**
+**Répartition entre les cantons**[^21-1]
 
-Sont applicables, pour la répartition entre les cantons des personnes admises à titre provisoire et pour les changements de canton de cette catégorie de personnes, les dispositions prévues aux art. 21 et 22 de l’ordonnance 1 du 11 août 1999 sur l’asile[^21-1].
+Sont applicables, pour la répartition entre les cantons des personnes admises à titre provisoire, les dispositions prévues aux art. 21 et 22 de l’ordonnance 1 du 11 août 1999 sur l’asile[^21-2].
 
-[^21-1]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
+[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 22 et 23
 
@@ -813,14 +834,9 @@ Sont applicables, pour la répartition entre les cantons des personnes admises �
 
 #### Art. 24
 
-**Regroupement familial**[^24-1]
+[^24-1]
 
-### (art. 85, al. 7, LEI)
-
-La procédure à suivre pour regrouper les membres d’une famille de personnes admises à titre provisoire en Suisse est régie par l’art. 74 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^24-2].
-
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
-[^24-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^24-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2024, avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
 
 #### Art. 25
 
@@ -1639,8 +1655,7 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - c. Arrangement du 22 septembre 2011 entre l’Union européenne et la République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse sur la participation de ces États aux travaux des comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs dans le domaine de la mise en œuvre, de l’application et du développement de l’acquis de Schengen[^annex3-lvlu1-3];
 - d. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex3-lvlu1-4];
 - e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-5];
-
-f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-6].
+- f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-6].
 
 [^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
