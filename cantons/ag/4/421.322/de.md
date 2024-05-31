@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2023-08-01
-valid_until: 2024-05-31
-version_adopted: 2023-06-21
+version: 2024-06-01
+valid_until: 2024-06-30
+version_adopted: 2024-01-24
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3328/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3328/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 01.08.2023)
+Vom 20.03.2019 (Stand 01.06.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -125,7 +125,7 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 <sup>1</sup> Erhöht sich die Schülerzahl im Kindergarten und in der Primarschule oder auf der Oberstufe gegenüber den für die Berechnung relevanten statistischen Werten des Vorjahrs um mehr als 5 % der Ressourcenkontingente, mindestens aber um fünf Schülerinnen und Schüler, teilt das BKS dem betroffenen Schulträger auf Gesuch diesbezüglich zusätzliche Ressourcen zu.
 
-<sup>2</sup> Es kann nur auf Gesuche eingetreten werden, die im Rahmen der Schuljahresplanung zwischen dem 1. März und dem 31. Mai beim BKS mit plausibler Begründung eingereicht worden sind.
+<sup>2</sup> Es kann nur auf Gesuche eingetreten werden, die im Rahmen der Schuljahresplanung zwischen dem 1. März und dem 31. Juli beim BKS mit plausibler Begründung eingereicht worden sind.
 
 <sup>3</sup> Aus dem Vorjahr übertragene Lektionen werden bei der Beurteilung des Gesuchs nicht berücksichtigt.
 
@@ -137,9 +137,11 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 <sup>1</sup> Das BKS kann auf begründetes Gesuch des Schulträgers im Härtefall ausnahmsweise für eine beschränkte Zeit situationsadäquat zusätzliche Ressourcen zu den Ressourcenkontingenten zuteilen.
 
-<sup>2</sup> Die Zuteilung bedarf einer vorgängigen detaillierten Überprüfung der Situation durch das BKS und einer Klärung, ob alle Handlungsmöglichkeiten der Schule ausgeschöpft wurden.
+<sup>2</sup> Die Zuteilung bedarf grundsätzlich einer vorgängigen detaillierten Überprüfung der Situation durch das BKS und einer Klärung, ob alle Handlungsmöglichkeiten der Schule ausgeschöpft wurden. In den Fällen von Absatz 3 und 4 wird darauf verzichtet.
 
-<sup>3</sup> Das BKS teilt den Schulträgern ab dem 24. Februar 2022 bis Ende Schuljahr 2023/2024 für schutzbedürftige Schülerinnen und Schüler aus der Ukraine zusätzliche Ressourcen zu. Absatz 2 kommt dabei nicht zur Anwendung.
+<sup>3</sup> Das BKS teilt den Schulträgern ab dem 24. Februar 2022 bis Ende Schuljahr 2023/2024 für schutzbedürftige Schülerinnen und Schüler aus der Ukraine zusätzliche Ressourcen zu.
+
+<sup>4</sup> Es teilt den Schulträgern, die Kinder und Jugendliche aus Kantonalen Asylunterkünften beschulen, jeweils für das laufende Schulhalbjahr zusätzliche Ressourcen zu.
 
 #### § 10a
 
