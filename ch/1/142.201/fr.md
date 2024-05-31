@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> janvier 2024)
+du 24 octobre 2007 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -552,10 +552,25 @@ Le conjoint et les enfants ayant le droit d’exercer une activité lucrative pe
 
 <sup>1</sup> Les enfants étrangers de ressortissants suisses pour lesquels les dispositions relatives au regroupement familial prévues à l’art. 42 LEI ne s’appliquent pas peuvent obtenir une autorisation de séjour si la réintégration ou la naturalisation facilitée au sens des art. 27, al. 2, et 51, al. 1 et 2, de la loi du 20 juin 2014 sur la nationalité suisse (LN)[^29-1] est possible.[^29-2]
 
-<sup>2</sup> L’exercice d’une activité lucrative peut être autorisée si les conditions prévues à l’art. 31, al. 3 ou 4, sont remplies.
+<sup>2</sup>
+
+L’exercice d’une activité lucrative salariée peut être autorisé si:
+
+- a. la demande provient d’un employeur (art. 18, let. b, LEI);
+- b. les conditions de rémunération et de travail sont remplies (art. 22 LEI);
+- c. le logement du requérant est approprié (art. 24 LEI).[^29-3]
+
+<sup>3</sup>
+
+L’exercice d’une activité lucrative indépendante peut être autorisé si:
+
+- a. les conditions financières et les exigences relatives à l’exploitation de l’entreprise sont remplies (art. 19, let. b, LEI);
+- b. le logement du requérant est approprié (art. 24 LEI).[^29-4]
 
 [^29-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^29-2]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^29-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 30
 
@@ -565,13 +580,14 @@ Le conjoint et les enfants ayant le droit d’exercer une activité lucrative pe
 
 <sup>1</sup> Les personnes qui ont été libérées de la nationalité suisse (art. 37 LN[^30-1]) peuvent obtenir une autorisation de séjour si elles ont des liens étroits avec la Suisse.[^30-2]
 
-<sup>2</sup> L’exercice d’une activité lucrative peut être autorisée si les conditions prévues à l’art. 31, al. 3 ou 4, sont remplies.
+<sup>2</sup> L’exercice d’une activité lucrative peut être autorisé si les conditions prévues à l’art. 29, al. 2 ou 3, sont remplies.[^30-3]
 
-<sup>3</sup> Les conditions générales d’admission de la LEI s’appliquent aux personnes dont la nationalité a été annulée conformément à l’art. 36 LN ou leur a été retirée conformément à l’art. 42 de la même loi.[^30-3]
+<sup>3</sup> Les conditions générales d’admission de la LEI s’appliquent aux personnes dont la nationalité a été annulée conformément à l’art. 36 LN ou leur a été retirée conformément à l’art. 42 de la même loi.[^30-4]
 
 [^30-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^30-2]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^30-3]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^30-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^30-4]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 
 #### Art. 30a
 
@@ -583,11 +599,11 @@ Le conjoint et les enfants ayant le droit d’exercer une activité lucrative pe
 
 Afin de permettre à un étranger en séjour irrégulier de suivre une formation professionnelle initiale, une autorisation de séjour peut lui être octroyée pour la durée de la formation aux conditions suivantes:
 
-- a. le requérant a suivi l’école obligatoire de manière ininterrompue durant cinq ans au moins en Suisse et a déposé une demande dans les douze mois suivants; la participation à des offres de formation transitoire sans activité lucrative est comptabilisée comme temps de scolarité obligatoire;
+- a.[^30a-2] le requérant a suivi l’école obligatoire de manière ininterrompue durant deux ans au moins en Suisse et a déposé une demande dans les deux ans suivants; la participation à des offres de formation transitoire sans activité lucrative est comptabilisée comme temps de scolarité obligatoire;
 - b. l’employeur du requérant a déposé une demande conformément à l’art. 18, let. b, LEI;
 - c. les conditions de rémunération et de travail visées à l’art. 22 LEI sont respectées;
-- d.[^30a-2] le requérant remplit les critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
-- e.[^30a-3] …
+- d.[^30a-3] le requérant remplit les critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
+- e.[^30a-4] …
 - f. il justifie de son identité.
 
 <sup>2</sup> L’autorisation peut être prolongée au terme de la formation initiale si les conditions visées à l’art. 31 sont remplies.
@@ -595,8 +611,9 @@ Afin de permettre à un étranger en séjour irrégulier de suivre une formation
 <sup>3</sup> Une autorisation de séjour peut être octroyée aux parents et aux frères et sœurs de la personne concernée s’ils remplissent les conditions visées à l’art. 31.
 
 [^30a-1]: Introduit par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2012 7267](https://fedlex.data.admin.ch/eli/oc/2012/886)).
-[^30a-2]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^30a-3]: Abrogée par le ch. I de l’O du 15 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 206](https://fedlex.data.admin.ch/eli/oc/2024/206)).
+[^30a-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-4]: Abrogée par le ch. I de l’O du 15 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 31
 
@@ -618,30 +635,21 @@ Une autorisation de séjour peut être octroyée dans les cas individuels d’ex
 
 <sup>2</sup> Le requérant doit justifier de son identité.
 
-<sup>3</sup>
+<sup>3</sup> L’exercice d’une activité lucrative salariée ou indépendante n’est pas soumis à autorisation.[^31-4]
 
-L’exercice d’une activité salariée peut être autorisé si:
+<sup>4</sup> …[^31-5]
 
-- a. la demande provient d’un employeur (art. 18, let. b, LEI);
-- b. les conditions de rémunération et de travail sont remplies (art. 22 LEI);
-- c. le logement du requérant est approprié (art. 24 LEI).
+<sup>5</sup> Si le requérant n’a pu participer à la vie économique ou acquérir une formation (art. 58*a*, al. 1, let. d, LEI) en raison de son âge, de son état de santé ou d’une interdiction de travailler en vertu de l’art. 43 LAsi, il convient d’en tenir compte lors de l’examen de sa situation financière.[^31-6]
 
-<sup>4</sup>
-
-L’exercice d’une activité lucrative indépendante peut être autorisé si:
-
-- a. les conditions financières et les exigences relatives à l’exploitation de l’entreprise sont remplies (art. 19, let. b, LEI);
-- b. le logement du requérant est approprié (art. 24 LEI).
-
-<sup>5</sup> Si le requérant n’a pu participer à la vie économique ou acquérir une formation (art. 58*a*, al. 1, let. d, LEI) en raison de son âge, de son état de santé ou d’une interdiction de travailler en vertu de l’art. 43 LAsi, il convient d’en tenir compte lors de l’examen de sa situation financière.[^31-4]
-
-<sup>6</sup> Le succès obtenu lors de la participation à un programme d’intégration ou d’occupation sera pris en compte lors de l’examen d’une demande d’octroi d’une autorisation de séjour en vertu de l’art. 84, al. 5, LEI.[^31-5]
+<sup>6</sup> Le succès obtenu lors de la participation à un programme d’intégration ou d’occupation sera pris en compte lors de l’examen d’une demande d’octroi d’une autorisation de séjour en vertu de l’art. 84, al. 5, LEI.[^31-7]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-2]: Abrogée par le ch. I de l’O du 15 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-4]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-5]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-5]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2024, avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-6]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-7]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 32
 
@@ -658,7 +666,9 @@ Une autorisation de courte durée ou une autorisation de séjour peut être acco
 - c. des intérêts cantonaux majeurs en matière de fiscalité, et
 - d. de la nécessité de la présence d’un étranger dans une procédure pénale.
 
-<sup>2</sup> L’exercice d’une activité lucrative peut être autorisé lors de l’admission conformément à l’al. 1, let. a et b, si les conditions prévues à l’art. 31, al. 3 ou 4, sont remplies.
+<sup>2</sup> L’exercice d’une activité lucrative peut être autorisé lors de l’admission conformément à l’al. 1, let. a et b, si les conditions prévues à l’art. 29, al. 2 ou 3, sont remplies.[^32-1]
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 33
 
@@ -741,10 +751,11 @@ Les étrangers obtiennent une autorisation de séjour dans le cadre de la protec
 
 <sup>2</sup> L’autorité compétente en matière d’étrangers du canton dans lequel la personne à protéger est placée est responsable de l’octroi des autorisations de séjour aux étrangers dans le cadre de la protection extraprocédurale des témoins. L’octroi se fait en accord avec le Service de protection des témoins.
 
-<sup>3</sup> L’exercice d’une activité lucrative peut être autorisée si les conditions selon l’art. 31, al. 3 ou 4, sont remplies.
+<sup>3</sup> L’exercice d’une activité lucrative peut être autorisé si les conditions prévues à l’art. 29, al. 2 ou 3, sont remplies.[^36a-3]
 
 [^36a-1]: Introduit par l’annexe ch. 2 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 [^36a-2]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^36a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
 
@@ -1018,11 +1029,11 @@ Une fois la protection provisoire obtenue, les personnes à protéger peuvent ê
 
 **Programmes d’occupation**[^53a-1]
 
-### (art. 85 LEI et art. 43 LAsi)
+### (art. 30, al. 1, let. l, LEI; art. 43, al. 4, et 75, al. 4, LAsi)
 
-Les requérants d’asile, les étrangers admis à titre provisoire et les personnes à protéger qui participent à un programme d’occupation au sens de l’art. 43, al. 4, LAsi sont soumis aux conditions fixées dans ledit programme.
+Les requérants d’asile, les étrangers admis à titre provisoire et les personnes à protéger qui participent à un programme d’occupation sont soumis aux conditions fixées dans ledit programme.
 
-[^53a-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^53a-1]: Introduit par le ch. I de l’O du 15 août 2018 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 ### Section 5 Changement de but de séjour
 
@@ -1231,20 +1242,37 @@ En cas d’activité lucrative salariée, l’annonce incombe à l’employeur. 
 
 <sup>3</sup> En cas d’activité lucrative indépendante, l’annonce incombe à la personne concernée. Elle contiendra les données visées à l’al. 2, let. a et c à e.
 
-<sup>4</sup> L’annonce des données visées à l’al. 2 peut être effectuée par un tiers si celui-ci
+<sup>4</sup>
 
-- a. a été mandaté dans le cadre d’un programme d’intégration cantonal (art. 14 de l’ordonnance du 15 août 2018 sur l’intégration des étrangers [OIE][^65-5]), ou
+L’annonce des données visées à l’al. 2 peut être effectuée par un tiers si celui-ci:
+
+- a.[^65-5] soutient l’intégration ou la réintégration professionnelle auprès d’un prestataire de mesures mandaté par une autorité, ou
 - b. a obtenu l’approbation de principe de l’autorité cantonale compétente du lieu de travail.
 
-<sup>5</sup> La transmission de l’annonce a valeur d’attestation par laquelle l’employeur ou le tiers confirme connaître les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche ainsi que les conditions particulières découlant de la nature de l’activité ou de la mesure d’intégration et s’engage à les respecter.
+<sup>5</sup> La transmission de l’annonce a valeur d’attestation par laquelle l’employeur ou le tiers confirme connaître les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche ainsi que les conditions particulières découlant de la nature de l’activité ou des mesures d’intégration ou de réintégration professionnelle et s’engage à les respecter.[^65-6]
 
 <sup>6</sup> L’annonce est transmise sous forme électronique à l’autorité cantonale compétente du lieu de travail.
+
+<sup>7</sup>
+
+L’exercice d’une activité lucrative n’est pas soumis à annonce lorsque:
+
+- a. la personne concernée a été placée par un prestataire de mesures mandaté par une autorité en vue d’une intégration ou d’une réintégration professionnelle;
+- b. les autorités cantonales compétentes du lieu de travail ont donné leur approbation de principe à l’exercice de ladite activité, et
+- c. la rémunération est inférieure au salaire mensuel brut de 600 francs visé aux art. 23 et 27 de l’ordonnance 2 du 11 août 1999 sur l’asile[^65-7] et déterminant pour le calcul des forfaits globaux versés par la Confédération ou qu’il s’agit d’une mesure de préparation à la formation professionnelle initiale au sens de l’art. 12 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^65-8].[^65-9]
+
+<sup>8</sup> Les al. 4 et 7 s’appliquent par analogie aux autorités qui mettent directement en œuvre des mesures d’intégration ou de réintégration professionnelle.[^65-10]
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-5]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^65-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-7]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^65-8]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^65-9]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-10]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
@@ -1298,7 +1326,11 @@ Lorsque le début d’une activité lucrative est annoncé, l’autorité compé
 [^65c-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65c-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Section 5 Étendue territoriale des autorisations
+### Section 5 Étendue territoriale des autorisations et changement de canton des personnes admises à titre provisoire
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 66
 
@@ -1315,6 +1347,34 @@ Les étrangers ne peuvent disposer d’une autorisation de séjour, de courte du
 <sup>1</sup> Tout transfert du centre d’activité ou d’intérêt dans un autre canton implique la sollicitation d’une autorisation de changement de canton.
 
 <sup>2</sup> Les étrangers titulaires d’une autorisation de séjour, de courte durée ou d’établissement n’ont pas besoin d’une autorisation pour effectuer un séjour temporaire de trois mois au maximum par année civile dans un autre canton, ni de déclarer leur arrivée (art. 37, al. 4, LEI). La réglementation relative au séjour hebdomadaire hors du domicile se fonde sur l’art. 16.
+
+#### Art. 67a
+
+**Changement de canton des personnes admises à titre provisoire**[^67a-1]
+
+### (art. 85*b* LEI)
+
+<sup>1</sup> Un changement de canton en vertu de l’art. 85*b*, al. 2, let. b, LEI est notamment autorisé en cas de violence domestique si ce changement est nécessaire pour protéger la santé de la personne concernée ou celle d’autres personnes.
+
+<sup>2</sup>
+
+Le trajet pour se rendre au travail ne permet pas d’exiger raisonnablement que la personne admise à titre provisoire reste dans son canton de résidence notamment lorsque:
+
+- a. le trajet dépasse 90 minutes pour l’aller comme pour le retour, ou que
+- b. la personne admise à titre provisoire dépend des transports publics pour se rendre au travail et que le lieu de travail n’est pas ou n’est que difficilement accessible en transports publics.
+
+<sup>3</sup>
+
+L’horaire de travail ne permet pas d’exiger raisonnablement que la personne admise à titre provisoire reste dans son canton de résidence notamment lorsque:
+
+- a. la personne admise à titre provisoire dépend des transports publics pour se rendre au travail et que les transports publics ne circulent pas au début ou à la fin de l’horaire de travail;
+- b. des missions confiées à court terme, par exemple des services de piquet, sont nécessaires.
+
+<sup>4</sup> La situation future dans le nouveau canton est déterminante pour juger de la dépendance de l’aide sociale.
+
+<sup>5</sup> Au surplus, le SEM peut décider de changer de canton une personne admise à titre provisoire si les deux cantons concernés y consentent.
+
+[^67a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 68
 
@@ -1421,7 +1481,7 @@ Un titre de séjour non biométrique peut prendre la forme:
 
 [^71b-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^71b-2]: Introduite par le ch. I de l’O du 25 nov. 2020 (Nombres maximums pour les ressortissants du Royaume-Uni), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71b-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^71b-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^71b-4]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
 [^71b-5]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 [^71b-6]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
@@ -1654,7 +1714,7 @@ Pour obtenir une autorisation d’établissement, le conjoint d’un ressortissa
 
 **Regroupement familial en cas d’admission provisoire**
 
-### (art. 85, al. 7 à 7<sup>ter</sup>, LEI)
+### (art. 85*c*, al. 1 et 2, LEI)
 
 [^74-1]
 
@@ -1662,28 +1722,33 @@ Pour obtenir une autorisation d’établissement, le conjoint d’un ressortissa
 
 <sup>2</sup> L’autorité cantonale transmet la demande accompagnée de son avis au SEM. Ce dernier précise si les conditions légales de regroupement familial sont remplies.
 
-<sup>3</sup> Si les délais relatifs au regroupement familial prévus à l’art. 85, al. 7, LEI, sont respectés, la demande visant à inclure des membres de la famille dans l’admission provisoire doit être déposée dans les cinq ans. Les demandes de regroupement familial pour les enfants de plus de douze ans doivent être déposées dans les douze mois suivants. Si le lien familial n’est établi qu’après l’expiration du délai légal prévu à l’art. 85, al. 7, LEI, les délais commencent à courir à cette date-là.
+<sup>3</sup> Si les délais relatifs au regroupement familial prévus à l’art. 85*c*, al. 1, LEI sont respectés, la demande visant à inclure des membres de la famille dans l’admission provisoire doit être déposée dans les cinq ans. Les demandes de regroupement familial pour les enfants de plus de douze ans doivent être déposées dans les douze mois suivants. Si le lien familial n’est établi qu’après l’expiration du délai légal visé à l’art. 85*c*, al. 1, LEI, les délais commencent à courir à cette date‑là.[^74-2]
 
 <sup>4</sup> Passé ce délai, le regroupement familial différé ne peut être autorisé que pour des raisons familiales majeures. Si nécessaire, les enfants de plus de quatorze ans sont entendus. En règle générale, l’audition se déroule dans les locaux de la représentation suisse du lieu de séjour.
 
-<sup>5</sup> La situation particulière des réfugiés admis à titre provisoire doit être prise en considération lors de la décision relative à l’autorisation de regroupement familial. Pour les membres de la famille des réfugiés admis à titre provisoire, l’art. 37 de l’ordonnance 1 du 11 août 1999 sur l’asile[^74-2] relative à la procédure s’applique par analogie.
+<sup>5</sup> La situation particulière des réfugiés admis à titre provisoire doit être prise en considération lors de la décision relative à l’autorisation de regroupement familial. Pour les membres de la famille des réfugiés admis à titre provisoire, l’art. 37 de l’ordonnance 1 du 11 août 1999 sur l’asile[^74-3] relative à la procédure s’applique par analogie.
 
 <sup>6</sup> Les dispositions prévues aux al. 1 à 5 s’appliquent par analogie aux partenariats enregistrés entre personnes du même sexe.
 
-[^74-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^74-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^74-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-3]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 74a
 
 **Compétences linguistiques pour le regroupement familial avec inclusion dans l’admission provisoire**[^74a-1]
 
-### (art. 85, al. 7, let. d, et 7<sup>bis</sup>, LEI)
+### (art. 85*c*, al. 1, let. d, LEI)
+
+[^74a-2]
 
 <sup>1</sup> Pour bénéficier du regroupement familial avec inclusion dans l’admission provisoire, le conjoint d’une personne admise à titre provisoire ou d’un réfugié admis à titre provisoire doit posséder des connaissances orales de la langue nationale parlée au lieu de domicile équivalant au moins au niveau A1 du cadre de référence.
 
-<sup>2</sup> Si la condition de l’al. 1 n’est pas remplie, l’inscription à une offre d’encouragement linguistique visée à l’art. 85, al. 7<sup>bis</sup>, LEI qui permette d’atteindre au moins le niveau de connaissances linguistiques A1 du cadre de référence suffit.
+<sup>2</sup> Si la condition de l’al. 1 n’est pas remplie, l’inscription à une offre d’encouragement linguistique qui permette d’atteindre au moins le niveau de connaissances linguistiques A1 du cadre de référence suffit.[^74a-3]
 
 [^74a-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^74a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 75
 
@@ -1976,7 +2041,9 @@ Les autorités chargées de fixer et de verser les prestations complémentaires 
 
 <sup>2</sup> Les nom, prénoms, date de naissance, nationalité et adresse de l’étranger ainsi que le montant de la prestation complémentaire doivent être communiqués.
 
-<sup>3</sup> La communication doit avoir lieu dans un délai de vingt jours
+<sup>3</sup>
+
+La communication doit avoir lieu dans un délai de vingt jours:
 
 - a. à compter du premier versement mensuel de la prestation complémentaire annuelle;
 - b. à compter de la date à laquelle le montant total du remboursement des frais de maladie et d’invalidité visé à l’al. 1, let. b, est dépassé.

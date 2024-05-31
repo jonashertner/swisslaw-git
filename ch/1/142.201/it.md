@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° gennaio 2024)
+del 24 ottobre 2007 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -62,7 +62,7 @@ ordina:
 <sup>2</sup> È considerata attività lucrativa dipendente in particolare anche l’attività di apprendista, praticante, volontario, sportivo, assistente sociale, missionario, consulente religioso, artista e impiegato alla pari.[^1a-3]
 
 [^1a-1]: Introdotto dal n. I 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^1a-2]: Nuova espr. giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1a-2]: Nuova espressione giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^1a-3]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856), [2009 349](https://fedlex.data.admin.ch/eli/oc/2009/60)).
 
 #### Art. 2
@@ -552,10 +552,25 @@ Il coniuge straniero e i figli stranieri con diritto di esercitare un’attivit�
 
 <sup>1</sup> I figli stranieri di un cittadino svizzero che non possono invocare le disposizioni sul ricongiungimento familiare secondo l’articolo 42 LStrI possono ottenere un permesso di dimora se sussiste la possibilità di una reintegrazione o di una naturalizzazione agevolata ai sensi degli articoli 27 capoverso 2 e 51 capoversi 1 e 2 della legge federale del 20 giugno 2014[^29-1] sulla cittadinanza (LCit).[^29-2]
 
-<sup>2</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 31 capoverso 3 o 4.
+<sup>2</sup>
+
+L’esercizio di un’attività lucrativa dipendente può essere autorizzato se:
+
+- a. un datore di lavoro ne ha fatto domanda secondo l’articolo 18 lettera b LStrI;
+- b. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
+- c. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.[^29-3]
+
+<sup>3</sup>
+
+L’esercizio di un’attività lucrativa indipendente può essere autorizzato se:
+
+- a. sono adempite le condizioni necessarie al finanziamento e all’esercizio di tale attività (art. 19 lett. b LStrI);
+- b. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.[^29-4]
 
 [^29-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^29-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^29-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^29-4]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 30
 
@@ -565,13 +580,14 @@ Il coniuge straniero e i figli stranieri con diritto di esercitare un’attivit�
 
 <sup>1</sup> Una persona che è stata svincolata dalla cittadinanza svizzera (art. 37 LCit[^30-1]) può ottenere un permesso di dimora se ha legami stretti con la Svizzera.[^30-2]
 
-<sup>2</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 31 capoverso 3 o 4.
+<sup>2</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 29 capoverso 2 o 3.[^30-3]
 
-<sup>3</sup> Le persone la cui cittadinanza svizzera è stata annullata in virtù dell’articolo 36 LCit o revocata in virtù dell’articolo 42 LCit sottostanno alle condizioni generali d’ammissione della LStrI.[^30-3]
+<sup>3</sup> Le persone la cui cittadinanza svizzera è stata annullata in virtù dell’articolo 36 LCit o revocata in virtù dell’articolo 42 LCit sottostanno alle condizioni generali d’ammissione della LStrI.[^30-4]
 
 [^30-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^30-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^30-3]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^30-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^30-4]: Nuovo testo giusta l’all. n. II 2 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 
 #### Art. 30a
 
@@ -583,11 +599,11 @@ Il coniuge straniero e i figli stranieri con diritto di esercitare un’attivit�
 
 Per consentire a uno straniero senza statuto di soggiorno regolare di acquisire una formazione professionale di base è possibile rilasciargli un permesso di dimora per la durata della formazione, se:
 
-- a. il richiedente ha frequentato la scuola dell’obbligo ininterrottamente per almeno cinque anni in Svizzera e ha successivamente presentato una domanda entro dodici mesi; la partecipazione a offerte di formazione transitoria senza attività lucrativa è contabilizzata come periodo di scuola dell’obbligo;
+- a.[^30a-2] il richiedente ha frequentato la scuola dell’obbligo ininterrottamente per almeno due anni in Svizzera e ha successivamente presentato una domanda entro due anni; la partecipazione a offerte di formazione transitoria senza attività lucrativa è contabilizzata come periodo di scuola dell’obbligo;
 - b. vi è la domanda di un datore di lavoro del richiedente secondo l’articolo 18 lettera b LStrI;
 - c. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
-- d.[^30a-2] il richiedente soddisfa i criteri d’integrazione conformemente all’articolo 58*a* capoverso 1 LStrI;
-- e.[^30a-3] ...
+- d.[^30a-3] il richiedente soddisfa i criteri d’integrazione conformemente all’articolo 58*a* capoverso 1 LStrI;
+- e.[^30a-4] ...
 - f. rivela la sua identità.
 
 <sup>2</sup> Al termine della formazione il permesso può essere prorogato se sono rispettate le condizioni di cui all’articolo 31.
@@ -595,8 +611,9 @@ Per consentire a uno straniero senza statuto di soggiorno regolare di acquisire 
 <sup>3</sup> I genitori, i fratelli e le sorelle della persona interessata possono ottenere un permesso di dimora se soddisfano le condizioni di cui all’articolo 31.
 
 [^30a-1]: Introdotto dal n. I dell’O del 7 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2012 7267](https://fedlex.data.admin.ch/eli/oc/2012/886)).
-[^30a-2]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^30a-3]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 206](https://fedlex.data.admin.ch/eli/oc/2024/206)).
+[^30a-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-4]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 31
 
@@ -618,30 +635,21 @@ Se sussiste un caso personale particolarmente grave, può essere rilasciato un p
 
 <sup>2</sup> Il richiedente deve rivelare la sua identità.
 
-<sup>3</sup>
+<sup>3</sup> L’esercizio di un’attività lucrativa dipendente o indipendente non è soggetto ad autorizzazione.[^31-4]
 
-L’esercizio di un’attività lucrativa dipendente può essere autorizzato se:
+<sup>4</sup> *...*[^31-5]
 
-- a. vi è la domanda di un datore di lavoro secondo l’articolo 18 lettera b LStrI;
-- b. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
-- c. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.
+<sup>5</sup> Se il richiedente non ha potuto partecipare alla vita economica o acquisire una formazione (art. 58*a* cpv. 1 lett. d LStrI) a causa dell’età, dello stato di salute o del divieto di lavoro secondo l’articolo 43 LAsi, occorre tenerne conto nella valutazione della situazione finanziaria.[^31-6]
 
-<sup>4</sup>
-
-L’esercizio di un’attività lucrativa indipendente può essere autorizzato se:
-
-- a. sono rispettate le condizioni necessarie al finanziamento e all’esercizio di tale attività secondo l’articolo 19 lettera b LStrI;
-- b. il richiedente dispone di un’abitazione conforme ai suoi bisogni secondo l’articolo 24 LStrI.
-
-<sup>5</sup> Se il richiedente non ha potuto partecipare alla vita economica o acquisire una formazione (art. 58*a* cpv. 1 lett. d LStrI) a causa dell’età, dello stato di salute o del divieto di lavoro secondo l’articolo 43 LAsi, occorre tenerne conto nella valutazione della situazione finanziaria.[^31-4]
-
-<sup>6</sup> Nella valutazione di una domanda di rilascio di un permesso di dimora secondo l’articolo 84 capoverso 5 LStrI, va presa in considerazione la partecipazione con successo a un programma d’integrazione o d’occupazione.[^31-5]
+<sup>6</sup> Nella valutazione di una domanda di rilascio di un permesso di dimora secondo l’articolo 84 capoverso 5 LStrI, va presa in considerazione la partecipazione con successo a un programma d’integrazione o d’occupazione.[^31-7]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-2]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-4]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-5]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-5]: Abrogato dal n. I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-6]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-7]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 32
 
@@ -658,7 +666,9 @@ Per la tutela di importanti interessi pubblici può essere rilasciato un permess
 - c. notevoli interessi fiscali cantonali e
 - d. se la presenza della persona straniera è necessaria nell’ambito di un procedimento penale.
 
-<sup>2</sup> Nel caso di ammissione secondo il capoverso 1 lettere a e b, l’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni dell’articolo 31 capoverso 3 o 4.
+<sup>2</sup> Nel caso di ammissione secondo il capoverso 1 lettere a e b, l’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni dell’articolo 29 capoverso 2 o 3.[^32-1]
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 33
 
@@ -741,10 +751,11 @@ Nell’ambito della protezione extraprocessuale dei testimoni allo straniero è 
 
 <sup>2</sup> Il permesso di dimora per stranieri nell’ambito della protezione extraprocessuale dei testimoni è rilasciato dall’autorità della migrazione del Cantone in cui è collocato lo straniero. Il rilascio avviene previa consultazione del Servizio di protezione dei testimoni.
 
-<sup>3</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 31 capoversi 3 o 4.
+<sup>3</sup> L’esercizio di un’attività lucrativa può essere autorizzato se sono adempite le condizioni di cui all’articolo 29 capoverso 2 o 3.[^36a-3]
 
 [^36a-1]: Introdotto dall’all. n. II 2 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 [^36a-2]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^36a-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
 
@@ -1016,11 +1027,11 @@ Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione
 
 **Programmi d’occupazione**[^53a-1]
 
-### (art. 85 LStrI e art. 43 LAsi)
+### (art. 30 cpv. 1 lett. l LStrI; art. 43 cpv. 4 e 75 cpv. 4 LAsi)
 
-Il richiedente l’asilo, lo straniero ammesso provvisoriamente o la persona bisognosa di protezione che partecipa a un programma d’occupazione secondo l’articolo 43 capoverso 4 LAsi sottostà alle condizioni stabilite in tale programma.
+Il richiedente l’asilo, lo straniero ammesso provvisoriamente o la persona bisognosa di protezione che partecipa a un programma d’occupazione sottostà alle condizioni stabilite in tale programma.
 
-[^53a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^53a-1]: Introdotto dal n. I dell’O del 15 ago. 2018 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 ### Sezione 5: Cambiamento dello scopo del soggiorno
 
@@ -1233,18 +1244,33 @@ Nel caso di un’attività lucrativa dipendente, la notifica deve essere effettu
 
 La notifica dei dati di cui al capoverso 2 può essere effettuata da un terzo se questi:
 
-- a. è incaricato nel quadro di un programma cantonale d’integrazione (art. 14 dell’ordinanza del 15 agosto 2018[^65-5] sull’integrazione degli stranieri; OIntS); o
+- a.[^65-5] sostiene l’integrazione o la reintegrazione professionale presso un fornitore di provvedimenti incaricato da un’autorità; o
 - b. ha il consenso di principio dell’autorità cantonale competente nel luogo di lavoro.
 
-<sup>5</sup> Trasmettendo la notifica, il datore di lavoro o il terzo conferma di conoscere e si impegna a rispettare le condizioni di salario e di lavoro usuali nella località, nella professione e nel settore nonché le condizioni particolari dovute al tipo di attività o le misure d’integrazione.
+<sup>5</sup> Trasmettendo la notifica, il datore di lavoro o il terzo conferma di conoscere e si impegna a rispettare le condizioni di salario e di lavoro usuali nella località, nella professione e nel settore nonché le condizioni particolari dovute al tipo di attività o le misure d’integrazione o reintegrazione professionale.[^65-6]
 
 <sup>6</sup> La notifica va inoltrata elettronicamente all’autorità cantonale competente per il luogo di lavoro.
+
+<sup>7</sup>
+
+L’inizio di un’attività lucrativa non soggiace all’obbligo di notifica se:
+
+- a. la persona in questione è stata collocata da un fornitore di provvedimenti finalizzati all’integrazione o alla reintegrazione professionale incaricato da un’autorità;
+- b. l’autorità cantonale competente nel luogo di lavoro ha espresso il proprio consenso di principio; e
+- c. il compenso è inferiore al salario mensile lordo di 600 franchi determinante per il calcolo della somma forfettaria globale versata dalla Confederazione secondo gli articoli 23 e 27 dell’ordinanza 2 dell’11 agosto 1999[^65-7] sull’asilo oppure si tratta di un provvedimento in vista di una formazione professionale di base secondo l’articolo 12 della legge del 13 dicembre 2002[^65-8] sulla formazione professionale.[^65-9]
+
+<sup>8</sup> I capoversi 4 e 7 si applicano per analogia alle autorità che attuano direttamente provvedimenti d’integrazione e di reintegrazione professionale.[^65-10]
 
 [^65-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^65-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-4]: Introdotto dal n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-5]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^65-5]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-6]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-7]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^65-8]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^65-9]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-10]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
@@ -1298,7 +1324,11 @@ Alla notifica dell’inizio di un’attività lucrativa, l’autorità competent
 [^65c-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65c-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Sezione 5: Validità territoriale dei permessi
+### Sezione 5: Validità territoriale dei permessi e cambiamento di Cantone di persone ammesse provvisoriamente
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 66
 
@@ -1315,6 +1345,34 @@ Uno straniero può disporre di un permesso di soggiorno di breve durata, di un p
 <sup>1</sup> Il trasferimento del centro di propri interessi in un altro Cantone implica l’obbligo di un nuovo permesso nel nuovo Cantone.
 
 <sup>2</sup> Per soggiorni temporanei in un altro Cantone, di durata inferiore a tre mesi nell’arco di un anno civile, lo straniero titolare di un permesso di soggiorno di breve durata, di dimora o di domicilio validi non ha bisogno né di altri permessi né di notificarsi (art. 37 cpv. 4 LStrI). La regolamentazione del soggiorno settimanale è retta dall’articolo 16.
+
+#### Art. 67a
+
+**Cambiamento di Cantone di persone ammesse provvisoriamente**[^67a-1]
+
+### (art. 85*b* LStrI)
+
+<sup>1</sup> Un cambiamento di Cantone secondo l’articolo 85*b* capoverso 2 lettera b LStrI è autorizzato segnatamente se è necessario per proteggere la salute della vittima o di altre persone in caso di violenza domestica.
+
+<sup>2</sup>
+
+Considerato il tragitto per recarsi al lavoro, non è ragionevole esigere la permanenza nel Cantone di residenza segnatamente se:
+
+- a. il tragitto supera i 90 minuti sia per l’andata sia per il ritorno; o
+- b. per recarsi al lavoro la persona ammessa provvisoriamente deve utilizzare i trasporti pubblici, e con i trasporti pubblici il luogo di lavoro non è raggiungibile o è raggiungibile solo difficilmente.
+
+<sup>3</sup>
+
+Considerato l’orario di lavoro, non è ragionevole esigere la permanenza nel Cantone di residenza segnatamente se:
+
+- a. per recarsi al lavoro la persona ammessa provvisoriamente deve utilizzare i trasporti pubblici, e i trasporti pubblici non circolano all’inizio o alla fine dell’orario di lavoro;
+- b. devono essere svolti incarichi di lavoro con breve preavviso, per esempio servizi di picchetto.
+
+<sup>4</sup> Per valutare la dipendenza dall’aiuto sociale è determinante la situazione futura nel nuovo Cantone.
+
+<sup>5</sup> La SEM può inoltre disporre un cambiamento di Cantone se entrambi i Cantoni in questione sono d’accordo.
+
+[^67a-1]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 68
 
@@ -1655,7 +1713,7 @@ Ai fini del rilascio del permesso di domicilio conformemente agli articoli 42 o 
 
 **Ricongiungimento familiare per gli stranieri ammessi provvisoriamente**
 
-### (art. 85 cpv. 7, 7<sup>bis</sup> e 7<sup>ter</sup> LStrI)
+### (art. 85*c* cpv. 1 e 2 LStrI)
 
 [^74-1]
 
@@ -1663,28 +1721,33 @@ Ai fini del rilascio del permesso di domicilio conformemente agli articoli 42 o 
 
 <sup>2</sup> L’autorità cantonale della migrazione trasmette la domanda, con il suo parere, alla SEM. Nel parere è indicato se le condizioni legali per il ricongiungimento familiare sono date.
 
-<sup>3</sup> Se le condizioni temporali per il ricongiungimento familiare di cui all’articolo 85 capoverso 7 LStrI sono adempite, la domanda d’inclusione nell’ammissione provvisoria va presentata entro cinque anni. La domanda per il ricongiungimento dei figli in età superiore ai 12 anni va presentata entro 12 mesi. Se il legame familiare insorge dopo la scadenza del termine di cui all’articolo 85 capoverso 7 LStrI, tale termine decorre da detto momento.
+<sup>3</sup> Se le condizioni temporali per il ricongiungimento familiare di cui all’articolo 85*c* capoverso 1 LStrI sono adempite, la domanda d’inclusione nell’ammissione provvisoria va presentata entro cinque anni. La domanda per il ricongiungimento dei figli in età superiore ai 12 anni va presentata entro 12 mesi. Se il legame familiare insorge dopo la scadenza del termine di cui all’articolo 85*c* capoverso 1 LStrI, tale termine decorre da detto momento.[^74-2]
 
 <sup>4</sup> Il ricongiungimento familiare differito è autorizzato unicamente se possono essere fatti valere gravi motivi familiari. Se necessario, i figli con più di 14 anni sono sentiti in merito al ricongiungimento. Di regola, l’audizione avviene presso la rappresentanza svizzera nel luogo di residenza.
 
-<sup>5</sup> Nel decidere se accordare il ricongiungimento familiare occorre considerare la situazione particolare dei rifugiati ammessi provvisoriamente. Ai familiari di rifugiati ammessi provvisoriamente è applicabile per analogia l’articolo 37 dell’ordinanza 1 sull’asilo dell’11 agosto 1999[^74-2] relativa a questioni procedurali.
+<sup>5</sup> Nel decidere se accordare il ricongiungimento familiare occorre considerare la situazione particolare dei rifugiati ammessi provvisoriamente. Ai familiari di rifugiati ammessi provvisoriamente è applicabile per analogia l’articolo 37 dell’ordinanza 1 sull’asilo dell’11 agosto 1999[^74-3] relativa a questioni procedurali.
 
 <sup>6</sup> Le disposizioni dei capoversi 1–5 sono applicabili per analogia all’unione domestica registrata di coppie omosessuali.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^74-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^74-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-3]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 74a
 
 **Competenze linguistiche per l’inclusione nell’ammissione provvisoria in caso di ricongiungimento familiare**[^74a-1]
 
-### (art. 85 cpv. 7 lett. d e cpv. 7<sup>bis</sup> LStrI)
+### (art. 85*c* cpv. 1 lett. d LStrI)
+
+[^74a-2]
 
 <sup>1</sup> Ai fini del ricongiungimento familiare e dell’inclusione nell’ammissione provvisoria, il coniuge di uno straniero ammesso provvisoriamente o di un rifugiato ammesso provvisoriamente deve dimostrare di possedere, per quanto riguarda le competenze orali della lingua nazionale parlata nel luogo di domicilio, almeno il livello di riferimento A1 del quadro di riferimento.
 
-<sup>2</sup> Se la condizione di cui al capoverso 1 non è adempita, è sufficiente l’iscrizione a un’offerta di promozione linguistica che consenta di raggiungere almeno il livello di riferimento A1 del quadro di riferimento, conformemente all’articolo 85 capoverso 7<sup>bis</sup> LStrI.
+<sup>2</sup> Se la condizione di cui al capoverso 1 non è adempita, è sufficiente l’iscrizione a un’offerta di promozione linguistica che consenta di raggiungere almeno il livello di riferimento A1 del quadro di riferimento.[^74a-3]
 
 [^74a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^74a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74a-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 75
 
@@ -1859,7 +1922,7 @@ Nel valutare i criteri d’integrazione di cui all’articolo 58*a* capoverso 1 
 
 **Aiuto al ritorno e alla reintegrazione**
 
-(art. 60 LStrI)
+### (art. 60 LStrI)
 
 <sup>1</sup> Lo scopo dell’aiuto al ritorno e alla reintegrazione è la promozione delle partenze volontarie e obbligatorie verso il Paese d’origine o di provenienza o verso uno Stato terzo.
 

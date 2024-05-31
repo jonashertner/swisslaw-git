@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20240101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2024)
+vom 24. Oktober 2007 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -541,10 +541,25 @@ Ehegatten und Kinder mit Anspruch auf die Ausübung einer Erwerbstätigkeit kön
 
 <sup>1</sup> Ausländischen Kindern von Schweizerinnen und Schweizern, die sich nicht auf die Bestimmungen über den Familiennachzug nach Artikel 42 AIG berufen können, kann eine Aufenthaltsbewilligung erteilt werden, wenn die Möglichkeit der Wiedereinbürgerung oder der erleichterten Einbürgerung im Sinne von Artikel 27 Absatz 2 sowie 51 Absätze 1 und 2 des Bürgerrechtsgesetzes vom 20. Juni 2014[^29-1] (BüG) besteht.[^29-2]
 
-<sup>2</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 31 Absatz 3 oder 4 erfüllt sind.
+<sup>2</sup>
+
+Die Ausübung einer unselbstständigen Erwerbstätigkeit kann bewilligt werden, wenn:
+
+- a. das Gesuch eines Arbeitgebers nach Artikel 18 Buchstabe b AIG vorliegt;
+- b. die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG eingehalten werden;
+- c. die Gesuchstellerin oder der Gesuchsteller über eine bedarfsgerechte Wohnung nach Artikel 24 AIG verfügt.[^29-3]
+
+<sup>3</sup>
+
+Die Ausübung einer selbstständigen Erwerbstätigkeit kann bewilligt werden, wenn:
+
+- a. die notwendigen finanziellen und betrieblichen Voraussetzungen erfüllt sind (Art. 19 Bst. b AIG);
+- b. die Gesuchstellerin oder der Gesuchsteller über eine bedarfsgerechte Wohnung nach Artikel 24 AIG verfügt.[^29-4]
 
 [^29-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^29-2]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^29-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^29-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 30
 
@@ -554,13 +569,14 @@ Ehegatten und Kinder mit Anspruch auf die Ausübung einer Erwerbstätigkeit kön
 
 <sup>1</sup> An Personen, die aus dem Schweizer Bürgerrecht entlassen wurden (Art. 37 BüG[^30-1]), kann eine Aufenthaltsbewilligung erteilt werden, wenn sie mit der Schweiz eng verbunden sind.[^30-2]
 
-<sup>2</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 31 Absätze 3 oder 4 erfüllt sind.
+<sup>2</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 29 Absätze 2 oder 3 erfüllt sind.[^30-3]
 
-<sup>3</sup> Für Personen, deren Bürgerrecht gestützt auf Artikel 36 des BüG nichtig erklärt oder gestützt auf Artikel 42 des BüG entzogen wurde, gelten die allgemeinen Zulassungsvoraussetzungen des AIG.[^30-3]
+<sup>3</sup> Für Personen, deren Bürgerrecht gestützt auf Artikel 36 des BüG nichtig erklärt oder gestützt auf Artikel 42 des BüG entzogen wurde, gelten die allgemeinen Zulassungsvoraussetzungen des AIG.[^30-4]
 
 [^30-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^30-2]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^30-3]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^30-4]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 
 #### Art. 30a
 
@@ -572,11 +588,11 @@ Ehegatten und Kinder mit Anspruch auf die Ausübung einer Erwerbstätigkeit kön
 
 Zur Ermöglichung einer beruflichen Grundbildung kann Personen mit rechtswidrigem Aufenthalt für die Dauer der Grundbildung unter den folgenden Voraussetzungen eine Aufenthaltsbewilligung erteilt werden:
 
-- a. Die Gesuchstellerin oder der Gesuchsteller hat die obligatorische Schule während mindestens fünf Jahren ununterbrochen in der Schweiz besucht und reicht danach innerhalb von zwölf Monaten ein Gesuch ein; die Teilnahme an Brückenangeboten ohne Erwerbstätigkeit wird an die obligatorische Schulzeit angerechnet.
+- a.[^30a-2] Die Gesuchstellerin oder der Gesuchsteller hat die obligatorische Schule während mindestens zwei Jahren ununterbrochen in der Schweiz besucht und reicht danach innerhalb von zwei Jahren ein Gesuch ein; die Teilnahme an Brückenangeboten ohne Erwerbstätigkeit wird an die obligatorische Schulzeit angerechnet.
 - b. Das Gesuch des Arbeitgebers nach Artikel 18 Buchstabe b AIG liegt vor.
 - c. Die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG werden eingehalten.
-- d.[^30a-2] Die Gesuchstellerin oder der Gesuchsteller erfüllt die Integrationskriterien nach Artikel 58*a* Absatz 1 AIG.
-- e.[^30a-3] …
+- d.[^30a-3] Die Gesuchstellerin oder der Gesuchsteller erfüllt die Integrationskriterien nach Artikel 58*a* Absatz 1 AIG.
+- e.[^30a-4] …
 - f. Sie oder er legt ihre Identität offen.
 
 <sup>2</sup> Nach Abschluss der Grundbildung kann die Bewilligung verlängert werden, wenn die Voraussetzungen nach Artikel 31 erfüllt sind.
@@ -584,8 +600,9 @@ Zur Ermöglichung einer beruflichen Grundbildung kann Personen mit rechtswidrige
 <sup>3</sup> Den Eltern und den Geschwistern der betroffenen Person kann eine Aufenthaltsbewilligung erteilt werden, wenn sie die Voraussetzungen nach Artikel 31 erfüllen.
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2012 7267](https://fedlex.data.admin.ch/eli/oc/2012/886)).
-[^30a-2]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^30a-3]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit vom 1. Juni 2024 ([AS 2024 206](https://fedlex.data.admin.ch/eli/oc/2024/206)).
+[^30a-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^30a-4]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 31
 
@@ -607,30 +624,21 @@ Liegt ein schwerwiegender persönlicher Härtefall vor, kann eine Aufenthaltsbew
 
 <sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller muss die Identität offen legen.
 
-<sup>3</sup>
+<sup>3</sup> Für die Ausübung einer unselbstständigen oder selbstständigen Erwerbstätigkeit ist keine Bewilligung erforderlich.[^31-4]
 
-Die Ausübung einer unselbstständigen Erwerbstätigkeit kann bewilligt werden, wenn:
+<sup>4</sup> …[^31-5]
 
-- a. das Gesuch eines Arbeitgebers nach Artikel 18 Buchstabe b AIG vorliegt;
-- b. die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG eingehalten werden;
-- c. die Gesuchstellerin oder der Gesuchsteller über eine bedarfsgerechte Wohnung nach Artikel 24 AIG verfügt.
+<sup>5</sup> War aufgrund des Alters, des Gesundheitszustandes oder des asylrechtlichen Arbeitsverbots nach Artikel 43 AsylG die Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung (Art. 58*a* Abs. 1 Bst. d AIG) nicht möglich, so ist dies bei der Prüfung der finanziellen Verhältnisse zu berücksichtigen.[^31-6]
 
-<sup>4</sup>
-
-Die Ausübung einer selbstständigen Erwerbstätigkeit kann bewilligt werden, wenn:
-
-- a. die notwendigen finanziellen und betrieblichen Voraussetzungen erfüllt sind (Art. 19 Bst. b AIG);
-- b. die Gesuchstellerin oder der Gesuchsteller über eine bedarfsgerechte Wohnung nach Artikel 24 AIG verfügt.
-
-<sup>5</sup> War aufgrund des Alters, des Gesundheitszustandes oder des asylrechtlichen Arbeitsverbots nach Artikel 43 AsylG die Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung (Art. 58*a* Abs. 1 Bst. d AIG) nicht möglich, so ist dies bei der Prüfung der finanziellen Verhältnisse zu berücksichtigen.[^31-4]
-
-<sup>6</sup> Bei der Prüfung eines Gesuchs um Erteilung einer Aufenthaltsbewilligung nach Artikel 84 Absatz 5 AIG ist die erfolgreiche Teilnahme an Integrations- oder Beschäftigungsprogrammen zu berücksichtigen.[^31-5]
+<sup>6</sup> Bei der Prüfung eines Gesuchs um Erteilung einer Aufenthaltsbewilligung nach Artikel 84 Absatz 5 AIG ist die erfolgreiche Teilnahme an Integrations- oder Beschäftigungsprogrammen zu berücksichtigen.[^31-7]
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-2]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^31-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-4]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^31-5]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-5]: Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^31-6]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^31-7]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 32
 
@@ -647,7 +655,9 @@ Zur Wahrung wichtiger öffentlicher Interessen kann eine Kurzaufenthalts- oder A
 - c. erhebliche kantonale fiskalische Interessen;
 - d. die Notwendigkeit der Anwesenheit einer Ausländerin oder eines Ausländers im Rahmen eines Strafverfahrens.
 
-<sup>2</sup> Die Ausübung einer Erwerbstätigkeit kann bei der Zulassung nach Absatz 1 Buchstaben a und b bewilligt werden, wenn die Voraussetzungen von Artikel 31 Absatz 3 oder 4 erfüllt sind.
+<sup>2</sup> Die Ausübung einer Erwerbstätigkeit kann bei der Zulassung nach Absatz 1 Buchstaben a und b bewilligt werden, wenn die Voraussetzungen von Artikel 29 Absätze 2 oder 3 erfüllt sind.[^32-1]
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 33
 
@@ -728,10 +738,11 @@ Ausländerinnen und Ausländern wird im Rahmen des ausserprozessualen Zeugenschu
 
 <sup>2</sup> Zuständig für die Erteilung der Aufenthaltsbewilligung an Ausländerinnen und Ausländer im Rahmen des ausserprozessualen Zeugenschutzes ist die Migrationsbehörde des Kantons, in dem die Ausländerin oder der Ausländer untergebracht wird. Die Erteilung erfolgt nach Rücksprache mit der Zeugenschutzstelle.
 
-<sup>3</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen nach Artikel 31 Absatz 3 oder 4 erfüllt sind.
+<sup>3</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 29 Absätze 2 oder 3 erfüllt sind.[^36a-3]
 
 [^36a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 [^36a-2]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^36a-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
 
@@ -998,11 +1009,11 @@ Schutzbedürftigen kann ab Gewährung des vorübergehenden Schutzes eine vorübe
 
 **Beschäftigungsprogramme**[^53a-1]
 
-### (Art. 85 AIG und Art. 43 AsylG)
+### (Art. 30 Abs. 1 Bst. l AIG; Art. 43 Abs. 4 und 75 Abs. 4 AsylG)
 
-Für Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, die an einem Beschäftigungsprogramm nach Artikel 43 Absatz 4 AsylG teilnehmen, gelten die in diesem Beschäftigungsprogramm festgesetzten Bedingungen.
+Für Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, die an einem Beschäftigungsprogramm teilnehmen, gelten die in diesem Beschäftigungsprogramm festgesetzten Bedingungen.
 
-[^53a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^53a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 ### 5. Abschnitt: Änderung des Aufenthaltszwecks
 
@@ -1214,18 +1225,33 @@ Bei unselbstständiger Erwerbstätigkeit muss die Meldung durch den Arbeitgeber 
 
 Die Meldung der Daten nach Absatz 2 kann durch eine Drittperson erfolgen, wenn diese:
 
-- a. im Rahmen eines kantonalen Integrationsprogramms (Art. 14 der Verordnung vom 15. August 2018[^65-5] über die Integration von Ausländerinnen und Ausländern; VIntA) beauftragt ist; oder
+- a.[^65-5] bei behördlich beauftragten Anbietern von Massnahmen die berufliche Ein- oder Wiedereingliederung unterstützt; oder
 - b. über eine grundsätzliche Einwilligung der am Arbeitsort zuständigen kantonalen Behörde verfügt.
 
-<sup>5</sup> Die Übermittlung der Meldung gilt als Erklärung, mit welcher der Arbeitgeber oder die Drittperson bestätigt, dass er oder sie die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen sowie die besonderen Bedingungen gemäss der Art der Tätigkeit oder die Integrationsmassnahmen kennt und sich zu deren Einhaltung verpflichtet.
+<sup>5</sup> Die Übermittlung der Meldung gilt als Erklärung, mit welcher der Arbeitgeber oder die Drittperson bestätigt, dass er oder sie die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen sowie die besonderen Bedingungen gemäss der Art der Tätigkeit oder die Massnahmen der beruflichen Ein- oder Wiedereingliederung kennt und sich zu deren Einhaltung verpflichtet.[^65-6]
 
 <sup>6</sup> Die Meldung ist in elektronischer Form an die am Arbeitsort zuständige kantonale Behörde zu übermitteln.
+
+<sup>7</sup>
+
+Von der Meldepflicht ausgenommen ist die Aufnahme einer Erwerbstätigkeit:
+
+- a. die durch behördlich beauftragte Anbieter von Massnahmen mit dem Ziel der beruflichen Ein- oder Wiedereingliederung vermittelt wurde;
+- b. für die eine grundsätzliche Einwilligung der am Arbeitsort zuständigen kantonalen Behörden vorliegt; und
+- c. bei der die Entschädigung unter dem für die Berechnung der Globalpauschale des Bundes nach Artikel 23 und 27 der Asylverordnung 2 vom 11. August 1999[^65-7] massgebenden Bruttomonatslohn von 600 Franken liegt oder bei der es sich um eine Massnahme zur beruflichen Grundbildung nach Artikel 12 des Berufsbildungsgesetzes vom 13. Dezember 2002[^65-8] handelt.[^65-9]
+
+<sup>8</sup> Für Behördenstellen, die Massnahmen der beruflichen Ein- und Wiedereingliederung direkt umsetzen, gelten die Absätze 4 und 7 sinngemäss.[^65-10]
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-5]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^65-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-6]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-7]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^65-8]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^65-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^65-10]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
@@ -1279,7 +1305,11 @@ Wird die Aufnahme einer Erwerbstätigkeit gemeldet, so erfasst die zuständige B
 [^65c-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65c-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 5. Abschnitt: Örtlicher Geltungsbereich der Bewilligungen
+### 5. Abschnitt: Örtlicher Geltungsbereich der Bewilligungen und Kantonswechsel von vorläufig aufgenommenen Personen
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 66
 
@@ -1296,6 +1326,34 @@ Ausländerinnen und Ausländer können nur in einem Kanton eine Kurzaufenthalts-
 <sup>1</sup> Wird der Mittelpunkt der Lebensverhältnisse in einen anderen Kanton verlegt, liegt bewilligungspflichtiger Kantonswechsel vor.
 
 <sup>2</sup> Ausländerinnen und Ausländer mit einer gültigen Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung benötigen für vorübergehende Aufenthalte in einem anderen Kanton bis zu drei Monaten im Kalenderjahr keine Bewilligung, und eine Anmeldung ist nicht erforderlich (Art. 37 Abs. 4 AIG). Die Regelung des Wochenaufenthalts richtet sich nach Artikel 16.
+
+#### Art. 67a
+
+**Kantonswechsel von vorläufig aufgenommenen Personen**[^67a-1]
+
+### (Art. 85*b* AIG)
+
+<sup>1</sup> Ein Kantonswechsel nach Artikel 85*b* Absatz 2 Buchstabe b AIG wird namentlich bewilligt, wenn häusliche Gewalt vorliegt und dies zum Schutz der Gesundheit der betroffenen Person oder anderer Personen erforderlich ist.
+
+<sup>2</sup>
+
+Der Verbleib im Wohnkanton ist aufgrund des Arbeitswegs namentlich dann unzumutbar, wenn:
+
+- a. der Arbeitsweg mehr als 90 Minuten je für den Hin- und Rückweg dauert oder;
+- b. die vorläufig aufgenommene Person für den Arbeitsweg auf den öffentlichen Verkehr angewiesen ist und der Arbeitsort mit den öffentlichen Verkehrsmitteln nicht oder nur schwer erreichbar ist.
+
+<sup>3</sup>
+
+Der Verbleib im Wohnkanton ist aufgrund der Arbeitszeiten namentlich dann unzumutbar, wenn:
+
+- a. die vorläufig aufgenommene Person für den Arbeitsweg auf den öffentlichen Verkehr angewiesen ist und zu Beginn oder am Ende der Arbeitszeit keine öffentlichen Verkehrsmittel verfügbar sind;
+- b. kurzfristig angeordnete Arbeitseinsätze wie Pikettdienste erforderlich sind.
+
+<sup>4</sup> Massgebend für die Beurteilung der Sozialhilfeabhängigkeit ist die zukünftige Situation im neuen Kanton.
+
+<sup>5</sup> Darüber hinaus kann das SEM einen Kantonswechsel verfügen, wenn beide Kantone damit einverstanden sind.
+
+[^67a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 68
 
@@ -1387,7 +1445,7 @@ Die Kantone erteilen gemäss den Weisungen des SEM folgenden Personen nicht biom
 - a. den Staatsangehörigen der Mitgliedstaaten der EFTA und den Staatsangehörigen der Vertragsstaaten des Abkommens vom 21. Juni 1999[^71b-1] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA);
 - b. den Arbeitnehmerinnen und Arbeitnehmern, die von einem Unternehmen mit Sitz in einem Mitgliedstaat der EFTA oder einem Vertragsstaat des FZA für mehr als 90 Arbeitstage innerhalb eines Kalenderjahres in die Schweiz entsandt wurden;
 - c. den Personen nach Artikel 71*a* Absatz 1;
-- [tab] d.[^71b-2]den Grenzgängerinnen und Grenzgängern, die Staatsangehörige des Vereinigten Königreichs sind, die in einem Staat Wohnsitz haben, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist (Schengen-Staat), und die vom Geltungsbereich des Abkommens vom 25. Februar 2019[^71b-3] über die erworbenen Rechte erfasst werden.[^71b-4]
+- d.[^71b-2] den Grenzgängerinnen und Grenzgängern, die Staatsangehörige des Vereinigten Königreichs sind, die in einem Staat Wohnsitz haben, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist (Schengen-Staat), und die vom Geltungsbereich des Abkommens vom 25. Februar 2019[^71b-3] über die erworbenen Rechte erfasst werden.[^71b-4]
 
 <sup>2</sup> Bei der Legitimationskarte, die den Personen mit Vorrechten, Immunitäten und Erleichterungen vom EDA nach Artikel 17 Absatz 1 V-GSG[^71b-5] ausgestellt wird, handelt es sich um einen nicht biometrischen Ausländerausweis.
 
@@ -1402,7 +1460,7 @@ Ein nicht biometrischer Ausländerausweis kann in folgender Form ausgestellt wer
 
 [^71b-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^71b-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71b-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [BBl 2020 1085](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^71b-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^71b-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
 [^71b-5]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 [^71b-6]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
@@ -1634,7 +1692,7 @@ Damit Ehegatten von Schweizerinnen und Schweizern und Ehegatten von Personen mit
 
 **Familiennachzug bei einer vorläufigen Aufnahme**
 
-### (Art. 85 Abs. 7, 7<sup>bis</sup> und 7<sup>ter</sup> AIG)
+### (Art. 85*c* Abs. 1 und 2 AIG)
 
 [^74-1]
 
@@ -1642,28 +1700,33 @@ Damit Ehegatten von Schweizerinnen und Schweizern und Ehegatten von Personen mit
 
 <sup>2</sup> Die kantonale Migrationsbehörde leitet das Gesuch mit ihrer Stellungnahme an das SEM weiter. Die Stellungnahme führt aus, ob die gesetzlichen Voraussetzungen für den Familiennachzug gegeben sind.
 
-<sup>3</sup> Sind die zeitlichen Voraussetzungen für den Familiennachzug nach Artikel 85 Absatz 7 AIG erfüllt, muss das Gesuch um Einbezug in die vorläufige Aufnahme innerhalb von fünf Jahren eingereicht werden. Das Gesuch für den Nachzug von Kindern über zwölf Jahren muss innerhalb von zwölf Monaten nach diesem Zeitpunkt eingereicht werden. Entsteht das Familienverhältnis erst nach Ablauf der gesetzlichen Frist von Artikel 85 Absatz 7 AIG, beginnen diese Fristen zu diesem späteren Zeitpunkt zu laufen.
+<sup>3</sup> Sind die zeitlichen Voraussetzungen für den Familiennachzug nach Artikel 85*c* Absatz 1 AIG erfüllt, muss das Gesuch um Einbezug in die vorläufige Aufnahme innerhalb von fünf Jahren eingereicht werden. Das Gesuch für den Nachzug von Kindern über zwölf Jahren muss innerhalb von zwölf Monaten nach diesem Zeitpunkt eingereicht werden. Entsteht das Familienverhältnis erst nach Ablauf der gesetzlichen Frist von Artikel 85*c* Absatz 1 AIG, beginnen diese Fristen zu diesem späteren Zeitpunkt zu laufen.[^74-2]
 
 <sup>4</sup> Ein nachträglicher Familiennachzug kann nur bewilligt werden, wenn wichtige familiäre Gründe geltend gemacht werden. Kinder über 14 Jahren werden zum Familiennachzug angehört, sofern dies erforderlich ist. Die Anhörung findet in der Regel bei der Schweizerischen Vertretung am Aufenthaltsort statt.
 
-<sup>5</sup> Der besonderen Situation von vorläufig aufgenommenen Flüchtlingen ist beim Entscheid über die Gewährung des Familiennachzugs Rechnung zu tragen. Für Familienangehörige vorläufig aufgenommener Flüchtlinge gilt Artikel 37 der Asylverordnung 1 vom 11. August 1999[^74-2] sinngemäss.
+<sup>5</sup> Der besonderen Situation von vorläufig aufgenommenen Flüchtlingen ist beim Entscheid über die Gewährung des Familiennachzugs Rechnung zu tragen. Für Familienangehörige vorläufig aufgenommener Flüchtlinge gilt Artikel 37 der Asylverordnung 1 vom 11. August 1999[^74-3] sinngemäss.
 
 <sup>6</sup> Die Bestimmungen in den Absätzen 1–5 gelten für die eingetragene Partnerschaft gleichgeschlechtlicher Paare sinngemäss.
 
-[^74-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^74-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^74-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74-3]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 74a
 
 **Sprachkompetenzen beim Familiennachzug und Einbezug in die vorläufige Aufnahme**[^74a-1]
 
-### (Art. 85 Abs. 7 Bst. d und Abs. 7<sup>bis</sup> AIG)
+### (Art. 85*c* Abs. 1 Bst. d AIG)
+
+[^74a-2]
 
 <sup>1</sup> Damit Ehegatten von vorläufig aufgenommenen Personen und vorläufig aufgenommenen Flüchtlingen nachgezogen und in die vorläufige Aufnahme einbezogen werden, müssen sie nachweisen, dass sie in der am Wohnort gesprochenen Landessprache über mündliche Sprachkompetenzen mindestens auf dem Referenzniveau A1 des Referenzrahmens verfügen.
 
-<sup>2</sup> Wird die Voraussetzung nach Absatz 1 nicht erfüllt, so ist die Anmeldung zu einem Sprachförderungsangebot nach Artikel 85 Absatz 7<sup>bis</sup> AIG ausreichend, das mindestens zur Erreichung des Referenzniveaus A1 des Referenzrahmens führt.
+<sup>2</sup> Wird die Voraussetzung nach Absatz 1 nicht erfüllt, so ist die Anmeldung zu einem Sprachförderungsangebot ausreichend, das mindestens zur Erreichung des Referenzniveaus A1 des Referenzrahmens führt.[^74a-3]
 
 [^74a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^74a-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
+[^74a-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 75
 
@@ -2161,7 +2224,7 @@ In den folgenden Fällen wird auf die Datenerfassung nach Absatz 1<sup>bis</sup>
 
 <sup>2quater</sup> Auf die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h kann ausnahmsweise verzichtet werden, wenn aufgrund konkreter Anhaltspunkte Gewissheit besteht, dass die Person aus der Schweiz und dem Schengen-Raum fristgerecht ausreist und keine Einreiseverweigerung beantragt wird.[^87-16]
 
-<sup>2quinqies</sup> Das Eidgenössische Justiz- und Polizeidepartment ist zudem befugt, in ausserordentlichen Situationen weitere Ausnahmen auf dem Verordnungsweg vorzusehen.[^87-17]
+<sup>2quinquies</sup> Das Eidgenössische Justiz- und Polizeidepartment ist zudem befugt, in ausserordentlichen Situationen weitere Ausnahmen auf dem Verordnungsweg vorzusehen.[^87-17]
 
 <sup>3</sup> Für die Bearbeitung, Bekanntgabe und Speicherung der Daten und für die Datensicherheit gelten die massgebenden Bestimmungen der Verordnung vom 12. April 2006[^87-18] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung), insbesondere die Artikel 2, 4, 9, 11 sowie 16–19 ZEMIS-Verordnung.
 
