@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240601-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/fr"
 
 (LAsi)
 
-du 26 juin 1998 (État le 1<sup>er</sup> janvier 2024)
+du 26 juin 1998 (État le 1<sup>er</sup> juin 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1116,9 +1116,9 @@ Quiconque a obtenu l’asile en Suisse ou a qualité de réfugié est considér�
 
 **Activité lucrative**[^61-1]
 
-<sup>1</sup> Les personnes qui ont obtenu l’asile en Suisse ou qui y ont été admises à titre provisoire comme réfugiés et les réfugiés sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^61-2], 49*a* ou 49*a*<sup>bis</sup> CPM[^61-3] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^61-4] entrée en force sont autorisés à exercer dans toute la Suisse une activité lucrative si les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche sont respectées (art. 22 LEI).[^61-5]
+<sup>1</sup> Les personnes qui ont obtenu l’asile en Suisse ou qui y ont été admises à titre provisoire comme réfugié ainsi que les réfugiés sous le coup d’une expulsion entrée en force au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^61-2] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^61-3] ou au sens de l’art. 68 LEI[^61-4] peuvent exercer dans toute la Suisse une activité lucrative. En cas d’activité lucrative salariée, les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche doivent être respectées (art. 22 LEI).[^61-5]
 
-<sup>2</sup> Le début et la fin de l’activité lucrative ainsi que les changements d’emploi doivent préalablement être annoncés par l’employeur à l’autorité compétente pour le lieu de travail désignée par le canton. La procédure d’annonce est régie par l’art. 85*a*, al. 2 à 6, LEI.
+<sup>2</sup> Le début et la fin de l’activité lucrative salariée ainsi que les changements d’emploi doivent préalablement être annoncés par l’employeur à l’autorité compétente pour le lieu de travail désignée par le canton. En cas d’activité lucrative indépendante, l’annonce incombe à la personne concernée. La procédure d’annonce est régie par l’art. 85*a*, al. 2 à 6, LEI.[^61-6]
 
 <sup>3</sup> L’al. 2 ne s’applique pas aux réfugiés reconnus titulaires d’une autorisation d’établissement.
 
@@ -1126,7 +1126,8 @@ Quiconque a obtenu l’asile en Suisse ou a qualité de réfugié est considér�
 [^61-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^61-5]: Nouvelle teneur selon le ch. IV de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^61-6]: Nouvelle teneur selon le ch. II de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 62
 

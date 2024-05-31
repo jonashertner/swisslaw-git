@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240601-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. Januar 2024)
+vom 26. Juni 1998 (Stand am 1. Juni 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1113,9 +1113,9 @@ Personen, denen die Schweiz Asyl gewährt hat oder welche die Flüchtlingseigens
 
 **Erwerbstätigkeit**[^61-1]
 
-<sup>1</sup> Personen, denen die Schweiz Asyl gewährt oder die sie als Flüchtlinge vorläufig aufgenommen hat, sowie Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^61-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^61-3] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^61-4] können in der ganzen Schweiz eine Erwerbstätigkeit ausüben, wenn die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22 AIG).[^61-5]
+<sup>1</sup> Personen, denen die Schweiz Asyl gewährt oder die sie als Flüchtlinge vorläufig aufgenommen hat, sowie Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^61-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^61-3] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^61-4] können in der ganzen Schweiz eine Erwerbstätigkeit ausüben. Bei unselbstständiger Erwerbstätigkeit müssen die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22 AIG).[^61-5]
 
-<sup>2</sup> Die Aufnahme und die Beendigung der Erwerbstätigkeit sowie ein Stellenwechsel müssen vom Arbeitgeber vorgängig der vom Kanton bezeichneten, für den Arbeitsort zuständigen Behörde gemeldet werden. Das Meldeverfahren richtet sich nach Artikel 85*a* Absätze 2–6 AIG.
+<sup>2</sup> Die Aufnahme und die Beendigung der unselbstständigen Erwerbstätigkeit sowie ein Stellenwechsel müssen vom Arbeitgeber vorgängig der vom Kanton bezeichneten, für den Arbeitsort zuständigen Behörde gemeldet werden. Bei selbstständiger Erwerbstätigkeit muss die Meldung durch die betreffende Person erfolgen. Das Meldeverfahren richtet sich nach Artikel 85*a* Absätze 2–6 AIG.[^61-6]
 
 <sup>3</sup> Absatz 2 ist nicht anwendbar auf anerkannte Flüchtlinge mit einer Niederlassungsbewilligung.
 
@@ -1123,7 +1123,8 @@ Personen, denen die Schweiz Asyl gewährt hat oder welche die Flüchtlingseigens
 [^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^61-5]: Fassung gemäss Ziff. IV des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^61-6]: Fassung gemäss Ziff. II des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 62
 

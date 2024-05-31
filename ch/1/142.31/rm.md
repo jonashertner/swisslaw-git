@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240601/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240601-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240601/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dal 1. da schaner 2024)
+dals 26 da zercladur 1998 (versiun dal 1. da zercladur 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1115,9 +1115,9 @@ Persunas, a las qualas la Svizra ha concedì asil u las qualas adempleschan il s
 
 **Activitad da gudogn**[^61-1]
 
-<sup>1</sup> Persunas, a las qualas la Svizra ha concedì asil u las qualas ella ha recepì provisoricamain sco fugitivs, sco er fugitivs cun in’expulsiun legalmain valaivla tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP[^61-2], tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM[^61-3] u tenor l’artitgel 68 LEI[^61-4] pon exercitar en l’entira Svizra in’activitad da gudogn, sche las cundiziuns da salari e da lavur usitadas al lieu, en la professiun ed en la branscha vegnan observadas (art. 22 LEI).[^61-5]
+<sup>1</sup> Persunas, a las qualas la Svizra ha concedì asil u las qualas ella ha recepì provisoricamain sco fugitivs, sco er fugitivs cun in’expulsiun legalmain valaivla tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP[^61-2], tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM[^61-3] u tenor l’artitgel 68 LEI[^61-4] pon exercitar en l’entira Svizra in’activitad da gudogn. En cas d’ina activitad da gudogn dependenta ston vegnir observadas las cundiziuns da salari e da lavur usitadas al lieu, en la professiun ed en la branscha (art. 22 LEI).[^61-5]
 
-<sup>2</sup> Il patrun sto annunziar ordavant a l’autoritad cumpetenta per il lieu da lavur, designada dal chantun, il cumenzament e la finiziun da l’activitad da gudogn sco er ina midada da plazza. La procedura d’annunzia sa drizza tenor l’artitgel 85*a* alineas 2–6 LEI.
+<sup>2</sup> Il patrun sto annunziar ordavant a l’autoritad cumpetenta per il lieu da lavur, designada dal chantun, il cumenzament e la finiziun da l’activitad da gudogn dependenta sco er ina midada da plazza. En cas d’ina activitad da gudogn independenta sto la persuna pertutgada annunziar quai. La procedura d’annunzia sa drizza tenor l’artitgel 85*a* alineas 2–6 LEI.[^61-6]
 
 <sup>3</sup> L’alinea 2 n’è betg applitgabel per fugitivs renconuschids che han ina permissiun da domicil.
 
@@ -1125,7 +1125,8 @@ Persunas, a las qualas la Svizra ha concedì asil u las qualas adempleschan il s
 [^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Versiun tenor la cifra I 3 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^61-5]: Versiun tenor la cifra IV da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^61-6]: Versiun tenor la cifra II da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 62
 
@@ -3000,7 +3001,7 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 
 [^u5-1]
 
-[^u5-1]: En vigur fin ils 28 da sett. 2015 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
+[^u5-1]: En vigur fin ils 28 da sett. 2019 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Disposiziuns transitoricas da la midada dals 25 da settember 2015
 

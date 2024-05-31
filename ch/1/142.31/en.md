@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-en-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240601/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240601-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 1 January 2024)
+of 26 June 1998 (Status as of 1 June 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1117,9 +1117,9 @@ Persons to whom Switzerland has granted asylum or who fulfil the requirements fo
 
 **Gainful employment**[^61-1]
 
-<sup>1</sup> Persons to whom Switzerland has granted asylum or whom Switzerland has temporarily admitted as refugees and refugees subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^61-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^61-3] or a legally enforceable expulsion order under Article 68 FNIA[^61-4] may be gainfully employed anywhere in Switzerland provided salary and employment conditions customary for the location, profession and sector are satisfied (Art. 22 FNIA).[^61-5]
+<sup>1</sup> Persons to whom Switzerland has granted asylum or whom Switzerland has temporarily admitted as refugees and refugees subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^61-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^61-3] or a legally enforceable expulsion order under Article 68 FNIA[^61-4] may be gainfully employed anywhere in Switzerland. In the case of salaried employment, the salary and employment conditions customary for the location, profession and sector must be complied with (Art. 22 FNIA).[^61-5]
 
-<sup>2</sup> The employer must report the start, end or change of employment to the cantonal authority responsible for the place of work in advance. The reporting procedure is governed by Article 85*a* paragraphs 2–6 FNIA.
+<sup>2</sup> The employer must give notice of the start and end of salaried employment and any change of job to the cantonal authority responsible for the place of work in advance. In the case of self-employed work, notice must be given by the person concerned. The procedure for giving notice is governed by Article 85*a* paragraphs 2–6 FNIA.[^61-6]
 
 <sup>3</sup> Paragraph 2 does not apply to recognised refugees who hold a permanent residence permit.
 
@@ -1127,7 +1127,8 @@ Persons to whom Switzerland has granted asylum or who fulfil the requirements fo
 [^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Amended by No I 3 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^61-5]: Amended by No IV of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^61-6]: Amended by No II of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 62
 
@@ -1387,7 +1388,7 @@ Temporary protection expires if the person in need of protection:
 - a. has transferred the focus of their living conditions abroad;
 - b. has renounced temporary protection;
 - c. has received a permanent residence permit in accordance with the FNIA[^79-2]; or
-- d.[^79-3] is made subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^79-4] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^79-5]or a legally enforceable expulsion order under Article 68 FNIA[^79-6]
+- d.[^79-3] is made subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^79-4] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^79-5]or a legally enforceable expulsion order under Article 68 FNIA[^79-6].
 
 [^79-1]: Amended by Annex No 2 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^79-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3003,7 +3004,7 @@ Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions 
 
 [^u5-1]
 
-[^u5-1]: Valid till 28 sept. 2015 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
+[^u5-1]: Valid until 28 Sept. 2015 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Transitional Provisions to the Amendment of 25 September 2015
 

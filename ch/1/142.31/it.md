@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240601-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 1° gennaio 2024)
+del 26 giugno 1998 (Stato 1° giugno 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1115,9 +1115,9 @@ Le persone cui la Svizzera ha accordato asilo o che adempiono la qualità di rif
 
 **Attività lucrativa**[^61-1]
 
-<sup>1</sup> Le persone a cui la Svizzera ha accordato asilo o che sono state ammesse provvisoriamente come rifugiati nonché i rifugiati nei confronti dei quali è stata ordinata, con sentenza passata in giudicato, l’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^61-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^61-3] o, con decisione passata in giudicato, dell’articolo 68 LStrI[^61-4], sono autorizzati a esercitare un’attività lucrativa in tutta la Svizzera se sono osservate le condizioni di lavoro e di salario usuali nella località, nella professione e nel settore (art. 22 LStrI).[^61-5]
+<sup>1</sup> Le persone a cui la Svizzera ha accordato asilo o che sono state ammesse provvisoriamente come rifugiati nonché i rifugiati nei confronti dei quali è stata ordinata, con sentenza passata in giudicato, l’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^61-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^61-3] o, con decisione passata in giudicato, l’espulsione ai sensi dell’articolo 68 LStrI[^61-4], possono esercitare un’attività lucrativa in tutta la Svizzera. Nel caso di un’attività lucrativa dipendente devono essere osservate le condizioni di lavoro e di salario usuali nella località, nella professione e nel settore (art. 22 LStrI).[^61-5]
 
-<sup>2</sup> Il datore di lavoro notifica previamente all’autorità competente per il luogo di lavoro designata dal Cantone l’inizio e la fine dell’attività lucrativa come pure il cambiamento d’impiego. La procedura di notifica è retta dall’articolo 85*a* capoversi 2–6 LStrI.
+<sup>2</sup> Il datore di lavoro notifica previamente all’autorità competente per il luogo di lavoro designata dal Cantone l’inizio e la fine dell’attività lucrativa dipendente come pure il cambiamento d’impiego. Nel caso di un’attività lucrativa indipendente, la notifica deve essere effettuata dall’interessato. La procedura di notifica è retta dall’articolo 85*a* capoversi 2–6 LStrI.[^61-6]
 
 <sup>3</sup> Il capoverso 2 non si applica ai rifugiati riconosciuti titolari di un permesso di domicilio.
 
@@ -1125,7 +1125,8 @@ Le persone cui la Svizzera ha accordato asilo o che adempiono la qualità di rif
 [^61-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^61-5]: Nuovo testo giusta il n. IV della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^61-6]: Nuovo testo giusta il n. II della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 62
 
