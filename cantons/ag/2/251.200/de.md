@@ -4,13 +4,13 @@ number: "251.200"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2022-01-01
-valid_until: 2024-05-31
-version_adopted: 2021-03-23
+version: 2024-06-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2010-03-16
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3168/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3168/pdf_file"
 
 (EG StPO)
 
-Vom 16.03.2010 (Stand 01.01.2022)
+Vom 16.03.2010 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -313,7 +313,7 @@ beschliesst:
 
 **Mitteilung an andere Behörden und Dritte**
 
-<sup>1</sup> Die urteilende Behörde teilt rechtskräftige Entscheide, die gestützt auf die Strafbestimmungen in der Tier- und Umweltschutzgesetzgebung ergangen sind, den dafür zuständigen Vollzugsbehörden mit.
+<sup>1</sup> Die urteilende Behörde teilt rechtskräftige Entscheide, die gestützt auf die Strafbestimmungen in der Tier- und Umweltschutzgesetzgebung sowie der Waffengesetzgebung ergangen sind, den dafür zuständigen Vollzugsbehörden mit.
 
 <sup>2</sup> Sie teilt der zuständigen Behörde Entscheide betreffend Personen mit, die eine bewilligungsbedürftige Tätigkeit gemäss § 57 des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^24-1] ausüben.
 
@@ -321,11 +321,17 @@ beschliesst:
 
 <sup>3</sup> Die Staatsanwaltschaften informieren andere Behörden über Strafverfahren und verfahrensabschliessende Entscheide, wenn diese für die Erfüllung ihrer Aufgaben darauf angewiesen sind und dieser Mitteilung kein überwiegendes privates Interesse entgegensteht.
 
+<sup>3<sup>bis</sup></sup> Die Staatsanwaltschaften, die Gerichte und die Strafvollzugsbehörden gewähren der Kantonspolizei auf begründetes Gesuch hin Einsicht in Entscheide, Gutachten und weitere Unterlagen des Straf- und Strafvollzugsverfahrens, soweit dies zur Erfüllung deren Aufgaben im Bereich des Bedrohungsmanagements gemäss § 3 Abs. 1 lit. m PolG erforderlich ist.
+
 <sup>4</sup> Die Staatsanwaltschaften können medizinischen Hilfskräften, Ärzten und Spitälern Einsicht in Obduktionsgutachten gewähren, wenn sie die das Gutachten betreffende Person vor dem Tod medizinisch betreut haben.
 
 <sup>4<sup>bis</sup></sup> Die Kantonspolizei ist die für Fälle häuslicher Gewalt zuständige Stelle gemäss Art. 55a Abs. 2 StGB.
 
 <sup>5</sup> Die Staatsanwaltschaften und die Gerichte informieren die Fachstellen gemäss § 41a Abs. 2 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^24-2] über Sistierungen und Einstellungen von Verfahren gemäss Art. 55a StGB.
+
+<sup>6</sup> Die Staatsanwaltschaften stellen die Anklageschriften, in denen Ausländerinnen und Ausländer als beschuldigte Personen bezeichnet sind, zum Zeitpunkt der Anklageerhebung dem Amt für Migration und Integration Kanton Aargau (MIKA) zu.
+
+<sup>7</sup> Die Gerichte stellen Urteilsdispositive, in denen eine Landesverweisung gemäss Art. 66a oder 66a<sup>bis</sup> StGB angeordnet wird, zum Zeitpunkt der Eröffnung dem MIKA zu.
 
 [^24-1]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
 [^24-2]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
@@ -674,7 +680,7 @@ beschliesst:
 
 #### § 52
 
-**Massnahmen (Art. 59-61 und 63 StGB)**
+**Massnahmen (Art. 59–61 und 63 StGB)**
 
 <sup>1</sup> Die Vollzugskosten von Behandlungsmassnahmen werden wie folgt gedeckt:
 
@@ -694,13 +700,15 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Kantonale Koordinationsstelle für die Bearbeitung der Daten im Strafregister gemäss Art. 367 Abs. 5 StGB ist die Oberstaatsanwaltschaft.
+<sup>1</sup> Kantonale Koordinationsstelle für die Bearbeitung der Daten im Strafregister gemäss Art. 4 Abs. 1 des Bundesgesetzes über das Strafregister-Informationssystem VOSTRA (Strafregistergesetz, StReG) vom 17. Juni 2016[^54-1] ist die Oberstaatsanwaltschaft.
+
+[^54-1]: SR [330](https://db.clex.ch/link/Bund/330/de)
 
 #### § 55
 
 **Verordnung**
 
-<sup>1</sup> Der Regierungsrat regelt durch Verordnung die Zusammenarbeit der kantonalen Behörden, die gemäss Art. 367 Abs. 1 StGB im Strafregister Personendaten über Verurteilungen bearbeiten, und die Aufgaben der Koordinationsstelle.
+<sup>1</sup> Der Regierungsrat regelt durch Verordnung die Zusammenarbeit der kantonalen Behörden, die gemäss Art. 6 Abs. 1 StReG im Strafregister Personendaten über Verurteilungen bearbeiten, und die Aufgaben der Koordinationsstelle.
 
 ### 12.4 Rechtsmittel im Straf- und Massnahmenvollzug
 
