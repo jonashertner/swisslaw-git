@@ -4,13 +4,12 @@ number: "211.620"
 title: Verordnung über das Grundbuch
 short: VGB
 language: de
-version: 2021-11-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-25
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 2005-10-31
 in_force: 2005-10-31
 url: "https://ai.clex.ch/app/de/texts_of_law/211.620"
-pdf: "https://ai.clex.ch/api/de/versions/1959/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1959/pdf_file"
 
 (VGB)
 
-vom 31.10.2005 (Stand 01.11.2021)
+vom 31.10.2005 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -44,12 +43,7 @@ beschliesst:
 
 #### Art. 1a
 
-**Begriffsbestimmung**
-
-<sup>1</sup> In dieser Verordnung gilt als Grundbuchamt
-
-- a) im inneren Landesteil das Grundbuch- und Erbschaftsamt Appenzell;
-- b) im äusseren Landesteil das Grundbuchamt Oberegg.
+**…**
 
 ## B. Einführung des eidgenössischen Grundbuches
 
@@ -59,9 +53,9 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das Grundbuchamt Appenzell und das Grundbuchamt Oberegg führen das eidgenössische Grundbuch ein.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle führt das eidgenössische Grundbuch ein.
 
-<sup>2</sup> Hierzu haben sie eine umfassende Bereinigung der Rechtsverhältnisse an den einbezogenen Grundstücken vorzunehmen.
+<sup>2</sup> Hierzu hat sie eine umfassende Bereinigung der Rechtsverhältnisse an den einbezogenen Grundstücken vorzunehmen.
 
 #### Art. 3
 
@@ -77,7 +71,7 @@ beschliesst:
 
 **Durchführung**
 
-<sup>1</sup> Die Bereinigung wird unter der Leitung des Grundbuchverwalters[^4-1] oder einer seiner Stellvertreter durchgeführt.
+<sup>1</sup> Die Bereinigung wird unter der Leitung des Grundbuchverwalters[^4-1] oder eines seiner Stellvertreter durchgeführt.
 
 <sup>2</sup> Die Standeskommission kann kantonale Bereinigungsbeamte, welchen Stellvertreterfunktion zukommt, ernennen. Sie unterstützen den mit der Leitung der Bereinigung betrauten Grundbuchverwalter oder Grundbuchverwalter-Stellvertreter.
 
@@ -113,7 +107,7 @@ beschliesst:
 
 **Vorprüfung**
 
-<sup>1</sup> Das Grundbuchamt stellt vor jeder Bereinigungsverhandlung durch Vorprüfung fest:
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle stellt vor jeder Bereinigungsverhandlung durch Vorprüfung fest:
 
 - a) Einträge, die nicht zu bereinigen sind;
 - b) Einträge, Vermerke und Ansprüche, die zu bereinigen sind und einer Vereinbarung bedürfen;
@@ -127,7 +121,7 @@ beschliesst:
 
 <sup>2</sup> Dabei ist ihre Bereitschaft zur Erledigung der Bereinigungsfälle abzuklären und gleichzeitig die Bereinigung nach Möglichkeit durchzuführen.
 
-<sup>3</sup> Bedürfen eingetragene Rechtsverhältnisse einer vertraglichen Erneuerung, Änderung oder Ergänzung und können sich die Beteiligten hierüber nicht einigen, so verweist das Grundbuchamt den Fall zur gerichtlichen Erledigung nach Art. 17 Abs. 1 dieser Verordnung.
+<sup>3</sup> Bedürfen eingetragene Rechtsverhältnisse einer vertraglichen Erneuerung, Änderung oder Ergänzung und können sich die Beteiligten hierüber nicht einigen, so verweist die für das Grundbuchwesen zuständige Stelle den Fall zur gerichtlichen Erledigung nach Art. 17 Abs. 1 dieser Verordnung.
 
 ### B.II.2. Behandlung der eingetragenen und angemeldeten Rechte und Lasten
 
@@ -143,7 +137,7 @@ beschliesst:
 
 <sup>1</sup> Die Eigentumsverhältnisse sind zu überprüfen und die Eigentümerbezeichnungen zu vervollständigen.
 
-<sup>2</sup> Ist ein Eigentumseintrag infolge ausserbuchlichen Erwerbs nicht nachgeführt, so veranlasst das Grundbuchamt den Erwerber zur Beschaffung der notwendigen Ausweise und zur Anmeldung. Wird dieser Aufforderung keine Folge geleistet, so kann die Eintragung von Amtes wegen auf Kosten des Erwerbers erfolgen.
+<sup>2</sup> Ist ein Eigentumseintrag infolge ausserbuchlichen Erwerbs nicht nachgeführt, so veranlasst die für das Grundbuchwesen zuständige Stelle den Erwerber zur Beschaffung der notwendigen Ausweise und zur Anmeldung. Wird dieser Aufforderung keine Folge geleistet, so kann die Eintragung von Amtes wegen auf Kosten des Erwerbers erfolgen.
 
 <sup>3</sup> Für Grundstücke, über die bisher kein Eigentumseintrag besteht, hat der Erwerber den Eigentumserwerb gestützt auf ein Ersitzungsverfahren gemäss Art. 662 ZGB nachzuweisen.
 
@@ -169,7 +163,7 @@ beschliesst:
 
 <sup>3</sup> Andere Einträge, die jede rechtliche Bedeutung verloren haben oder nicht eintragungsfähig sind, werden nach Art. 964 ZGB oder nötigenfalls nach Art. 976 ZGB gelöscht.
 
-<sup>4</sup> Ist der Berechtigte nicht feststellbar, so wird die Löschungsverfügung während der öffentlichen Auflage der Fertigstellung der Grundbucheinführung beim Grundbuchamt aufgelegt.
+<sup>4</sup> Ist der Berechtigte nicht feststellbar, so wird die Löschungsverfügung während der öffentlichen Auflage der Fertigstellung der Grundbucheinführung bei der für das Grundbuchwesen zuständigen Stelle aufgelegt.
 
 #### Art. 13
 
@@ -177,7 +171,7 @@ beschliesst:
 
 <sup>1</sup> Anlässlich der Bereinigung der Grundpfandrechte wirken die Bereinigungsorgane darauf hin, dass altrechtliche Pfandrechte gelöscht und durch die Neuerrichtung eines Pfandrechtes nach den Vorschriften des ZGB ersetzt werden.
 
-<sup>2</sup> Das Grundbuchamt verlangt alle Pfandtitel ein, soweit sie zu entkräften, nachzuführen oder zu kontrollieren sind. Wird dieser Aufforderung nicht nachgekommen, so ist das Grundbuchamt von der Verantwortung entlastet, die sich aus der Nichteintragung der Änderung ergeben könnte.
+<sup>2</sup> Die für das Grundbuchwesen zuständige Stelle verlangt alle Pfandtitel ein, soweit sie zu entkräften, nachzuführen oder zu kontrollieren sind. Wird dieser Aufforderung nicht nachgekommen, so ist die für das Grundbuchwesen zuständige Stelle von der Verantwortung entlastet, die sich aus der Nichteintragung der Änderung ergeben könnte.
 
 <sup>3</sup> Werden Pfandtitel vermisst, sind die dazu Berechtigten zur Einleitung des Verfahrens auf Kraftloserklärung gemäss den Bestimmungen des ZGB aufzufordern.
 
@@ -239,7 +233,7 @@ beschliesst:
 
 **Zuweisung der Klägerrolle**
 
-<sup>1</sup> Das Grundbuchamt weist die Klägerrolle zu:
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle weist die Klägerrolle zu:
 
 - a) jedem Ansprecher, der ein nicht eingetragenes Recht geltend macht oder die Änderung eines Eintrages beantragt;
 - b) jedem Ansprecher, der ein in der kantonalen Grundbucheinrichtung eingetragenes Recht ganz oder teilweise bestreitet;
@@ -255,7 +249,7 @@ beschliesst:
 
 <sup>2</sup> In der Publikation ist darauf hinzuweisen, dass:
 
-- a) das bereinigte Grundbuch während 60 Tagen zur öffentlichen Einsicht auf dem Grundbuchamt aufliegt;
+- a) das bereinigte Grundbuch während 60 Tagen zur öffentlichen Einsicht auf der für das Grundbuchwesen zuständigen Stelle aufliegt;
 - b) innert der Auflagefrist bei den Bereinigungsorganen Einwendungen wegen Mängeln und Unrichtigkeiten erhoben werden können;
 - c) eintragungsbedürftige, noch nicht eingetragene Rechte anzumelden sind, andernfalls sie vom Zeitpunkt der Inkraftsetzung des Grundbuches an gegenüber gutgläubigen Dritten nicht mehr geltend gemacht werden können.
 
@@ -265,7 +259,7 @@ beschliesst:
 
 <sup>1</sup> Die Bereinigungsorgane erledigen zusammen mit den Beteiligten die neuen Ansprüche nach den Bestimmungen dieser Verordnung.
 
-<sup>2</sup> Auf bereits behandelte Begehren tritt das Grundbuchamt nicht mehr ein und erlässt eine anfechtbare Verfügung.
+<sup>2</sup> Auf bereits behandelte Begehren tritt die für das Grundbuchwesen zuständige Stelle nicht mehr ein und erlässt eine anfechtbare Verfügung.
 
 #### Art. 21
 
@@ -423,9 +417,9 @@ beschliesst:
 
 **Datensicherung**
 
-<sup>1</sup> Sämtliche Daten sind täglich, wöchentlich, monatlich und jährlich nach den Weisungen der Standeskommission zu sichern. Die Monats- und Jahressicherung ist vom Amt für Informatik ausserhalb der Gebäulichkeiten des Grundbuchamtes aufzubewahren.
+<sup>1</sup> Sämtliche Daten sind täglich, wöchentlich, monatlich und jährlich nach den Weisungen der Standeskommission zu sichern. Die Monats- und Jahressicherung ist vom Amt für Informatik ausserhalb der Gebäulichkeiten der für das Grundbuchwesen zuständigen Stelle aufzubewahren.
 
-<sup>2</sup> Das Grundbuchamt stellt dem Bund die Daten für die langfristige Sicherung zur Verfügung.
+<sup>2</sup> Die für das Grundbuchwesen zuständige Stelle stellt dem Bund die Daten für die langfristige Sicherung zur Verfügung.
 
 #### Art. 37
 
@@ -435,15 +429,15 @@ beschliesst:
 
 <sup>2</sup> Die Standeskommission entscheidet über den Zugriff weiterer Personen auf Grundbuchdaten, die sie zur Erfüllung ihrer Aufgaben benötigen. Sie erlässt über die Erteilung der Zugriffsberechtigung einen Beschluss mit den erforderlichen Auflagen oder schliesst mit den Benutzern Vereinbarungen über die Zugriffsberechtigung ab oder ermächtigt damit eine Trägerorganisation.
 
-<sup>3</sup> Die Protokolle über die erfolgten Zugriffe sind für das Grundbuchamt jederzeit einsehbar. Die Standeskommission entzieht die Zugriffsberechtigung unverzüglich, wenn der begründete Verdacht besteht, dass Daten missbräuchlich bearbeitet werden, insbesondere bei Verwendung der Daten für Kundenwerbung.
+<sup>3</sup> Die Protokolle über die erfolgten Zugriffe sind für die für das Grundbuchwesen zuständigen Stelle jederzeit einsehbar. Die Standeskommission entzieht die Zugriffsberechtigung unverzüglich, wenn der begründete Verdacht besteht, dass Daten missbräuchlich bearbeitet werden, insbesondere bei Verwendung der Daten für Kundenwerbung.
 
 #### Art. 37a
 
 **Elektronischer Geschäftsverkehr**
 
-<sup>1</sup> Die Standeskommission entscheidet, für welches Grundbuchamt oder welchen Grundbuchkreis der elektronische Geschäftsverkehr zugelassen ist und veröffentlicht ein entsprechendes Verzeichnis im Internet.
+<sup>1</sup> Die Standeskommission entscheidet über die Zulassung des elektronischen Geschäftsverkehrs mit der für das Grundbuchwesen zuständigen Stelle und dem Grundbuchkreis und veröffentlicht ein entsprechendes Verzeichnis im Internet.
 
-<sup>2</sup> Im elektronischen Geschäftsverkehr sind sämtliche für die Anmeldung erforderlichen Belege elektronisch einzureichen. Pfandtitel sind dem Grundbuchamt vorgängig einzureichen.
+<sup>2</sup> Im elektronischen Geschäftsverkehr sind sämtliche für die Anmeldung erforderlichen Belege elektronisch einzureichen. Pfandtitel sind der für das Grundbuchwesen zuständigen Stelle vorgängig einzureichen.
 
 <sup>3</sup> Die Standeskommission bestimmt erforderlichenfalls die Plattform für die sichere Zustellung von elektronischen Dokumenten.
 
@@ -471,7 +465,7 @@ beschliesst:
 
 <sup>1</sup> Der Datenschutz beinhaltet den Schutz von Personen vor der widerrechtlichen Bearbeitung und Bekanntgabe von Grundbuchdaten.
 
-<sup>2</sup> Der Datenschutz obliegt dem Grundbuchamt.
+<sup>2</sup> Der Datenschutz obliegt der für das Grundbuchwesen zuständigen Stelle.
 
 #### Art. 39
 
@@ -511,7 +505,7 @@ beschliesst:
 
 **Haftpflichtversicherung**
 
-<sup>1</sup> Der Kanton versichert die Angestellten der Grundbuchämter gegen Schadenersatzansprüche aus fehlerhafter Grundbuchführung.
+<sup>1</sup> Der Kanton versichert die Angestellten der für das Grundbuchwesen zuständigen Stelle gegen Schadenersatzansprüche aus fehlerhafter Grundbuchführung.
 
 #### Art. 45
 
@@ -519,11 +513,11 @@ beschliesst:
 
 <sup>1</sup> Die Aufsicht über das Grundbuchwesen obliegt der Standeskommission. Sie kann Weisungen erlassen.
 
-<sup>2</sup> Sie unterstellt die Geschäftsführung der Grundbuchämter einer regelmässigen Aufsicht und Inspektion, trifft die geeigneten Massnahmen und ahndet Amtspflichtverletzungen der Angestellten des Grundbuchamtes nach Massgabe des kantonalen Personalrechts.
+<sup>2</sup> Sie unterstellt die Geschäftsführung der für das Grundbuchwesen zuständigen Stelle einer regelmässigen Aufsicht und Inspektion, trifft die geeigneten Massnahmen und ahndet Amtspflichtverletzungen der Angestellten der für das Grundbuchwesen zuständigen Stelle nach Massgabe des kantonalen Personalrechts.
 
 <sup>3</sup> Die Grundbuchinspektion hat im Wesentlichen folgende Aufgaben:
 
-- a) Überprüfung der Organisation und der Führung der Grundbuchämter;
+- a) Überprüfung der Organisation und der Führung der für das Grundbuchwesen zuständigen Stelle;
 - b) Überprüfung der Einhaltung der für die Grundbuchführung und der mit dieser verbundenen Beurkundungstätigkeit massgebenden Vorschriften des Bundes und des Kantons, insbesondere durch die stichprobenweise Prüfung von Belegen und deren Verarbeitung im Grundbuch;
 - c) Überprüfung der sachgerechten Archivierung der Grundbuchdaten;
 - d) Erteilen von allgemeinen Fachauskünften zu Grundbuchfragen.
@@ -534,7 +528,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das Grundbuchamt Appenzell und das Grundbuchamt Oberegg veröffentlichen innert angemessener Frist den Erwerb des Eigentums an Grundstücken.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle veröffentlicht innert angemessener Frist den Erwerb des Eigentums an Grundstücken.
 
 <sup>2</sup> Die Veröffentlichung erfolgt mittels Publikation im Internet und im amtlichen Publikationsorgan. Die Dauer der Veröffentlichung beträgt im Internet 20 Tage.
 
