@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2024-05-26
+version: 2024-06-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240526/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240526-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240526/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 26. Mai 2024)
+vom 4. September 2013 (Stand am 1. Juni 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -591,76 +591,68 @@ Anhang 3[^t-3]
 
 ## Tiere und Pflanzen, Teile und Erzeugnisse, deren Einfuhr verboten ist
 
-[^t-3]: Fassung gemäss Ziff. I der V des BLV vom 29. März 2023, in Kraft seit 1. Mai 2023 ([AS 2023 182](https://fedlex.data.admin.ch/eli/oc/2023/182)).
+[^t-3]: Fassung gemäss Ziff. I der V des BLV vom 26. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 180](https://fedlex.data.admin.ch/eli/oc/2024/180)).
 
 <table>
-<tr><th>Land</th><th>Tier, Pflanze, Erzeugnis</th><th>Notifikation[^annex3-lvlu1-1]</th></tr>
+<tr><th>Land</th><th>Tier, Pflanze, Erzeugnis</th><th>Notifikation <sup>a</sup></th></tr>
 <tr><td>Afghanistan</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2013/018 (17. Mai 2013)</td></tr>
-<tr><td>Äquatorialguinea</td><td>Prunus africana</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Trioceros feae (vormals Chamaeleo spp.)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Benin</td><td>Chamaeleo gracilis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Klinixys homeana</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Demokratische Republik Kongo</td><td>Manis spp.</td><td>Nr. 2018/082 (1. November 2018)</td></tr>
-<tr><td></td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Psittacus erithacus</td><td>Nr. 2018/081 (1. November 2018)</td></tr>
-<tr><td>Dschibuti</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/015 (30. Januar 2018)</td></tr>
-<tr><td>Elfenbeinküste (Côte d’Ivoire)</td><td>Pericopsis elata</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Fidschi</td><td>Plerogyra simplex</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Plerogyra sinuosa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Angola</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2024/033 (7. Febr. 2024)</td></tr>
+<tr><td>Äquatorialguinea</td><td>Prunus africana</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Bangladesch</td><td>Aves spp. nach den Anhängen I–III CITES zu kommerziellen Zwecken</td><td>Nr. 2023/129 (23. Nov. 2023)</td></tr>
+<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Benin</td><td>Chamaeleo gracilis</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Klinixys homeana</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Demokratische Republik Kongo</td><td>Manis spp.</td><td>Nr. 2018/082 (1. Nov. 2018)</td></tr>
+<tr><td></td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Psittacus erithacus</td><td>Nr. 2022/017 (18. März 2022)</td></tr>
+<tr><td>Dominica</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2024/030 (2. Febr. 2024)</td></tr>
+<tr><td>Dschibuti</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/015 (30. Jan. 2018)</td></tr>
+<tr><td>Elfenbeinküste (Côte d’Ivoire)</td><td>Pericopsis elata</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
 <tr><td>Gambia</td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
-<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Grenada</td><td>Strombus gigas</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Grenada</td><td>Strombus gigas</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
 <tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2016/022 (16. März 2016)</td></tr>
-<tr><td>Guinea</td><td>Hippocampus algiricus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2022/023 (5. April 2022)</td></tr>
+<tr><td>Guinea</td><td>Hippocampus algiricus</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2023/128 (23. Nov. 2023)</td></tr>
 <tr><td>Guinea-Bissau</td><td>*Pterocarpus erinaceus*</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
-<tr><td>Haiti (Nicht-Vertragsstaat)</td><td>Strombus gigas</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Kamerun</td><td>Trioceros quadricornis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-</table>
-
-<table>
-<tr><th>Land</th><th>Tier, Pflanze, Erzeugnis</th><th>Notifikation</th></tr>
-<tr><td></td><td>Trioceros montium</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
-<tr><td>Laos</td><td>Dalbergia spp.</td><td>Nr. 2022/030 (12. Mai 2022)</td></tr>
-<tr><td></td><td>Dendrobium nobile</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Elephas maximus</td><td>Nr. 2022/030 (12. Mai 2022)</td></tr>
-<tr><td>Liberia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/012 (22. Januar 2018)</td></tr>
-<tr><td>Libyen</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2022/033 (13. Mai 2022)</td></tr>
-<tr><td>Madagaskar</td><td>Coracopsis vasa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Furcifer labordi</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi, P. ravenala</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Haiti (Nicht-Vertragsstaat)</td><td>Strombus gigas</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Kamerun</td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
+<tr><td>Laos</td><td>Dendrobium nobile</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2023/127 (21. Nov. 2023)</td></tr>
+<tr><td>Liberia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/012 (22. Jan. 2018)</td></tr>
+<tr><td>Libyen</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2024/031 (2. Febr. 2024)</td></tr>
+<tr><td>Madagaskar</td><td>Coracopsis vasa</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Furcifer labordi</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi, P. ravenala</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
 <tr><td></td><td>Dalbergia spp.</td><td>Nr. 2022/031 (12. Mai 2022)</td></tr>
 <tr><td></td><td>Diospyros spp.</td><td>Nr. 2022/031 (12. Mai 2022)</td></tr>
-<tr><td>Mali</td><td>Uromastyx dispar</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Mali</td><td>Uromastyx dispar</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Uromastyx geyri</td><td>Nr. 2024/023 (24. Jan. 2024)</td></tr>
 <tr><td></td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
-<tr><td>Mosambik</td><td>Smaug mossambicus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Cordylus tropidosternum</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Niger</td><td>Chamaeleo africanus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Nigeria</td><td>Pterocarpus erinaceus</td><td>Nr. 2018/084 (1. November 2018)</td></tr>
-<tr><td>Salomoninseln</td><td>Corucia zebrata</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Ornithoptera priamus (vormals O. urvillianus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Ornithoptera victoriae</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima, T. squamosa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Mosambik</td><td>Smaug mossambicus</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Cordylus tropidosternum</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Niger</td><td>Chamaeleo africanus</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Nigeria</td><td>Pterocarpus erinaceus</td><td>Nr. 2018/084 (1. Nov. 2018)</td></tr>
+<tr><td>Oman</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2024/032 (2. Febr. 2024)</td></tr>
+<tr><td>Salomoninseln</td><td>Corucia zebrata</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Ornithoptera priamus (vormals O. urvillianus)</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Ornithoptera victoriae</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima, T. noae, T. squamosa</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2022/038 (17. Mai 2022)</td></tr>
-<tr><td>Senegal</td><td>Hippocampus algiricus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Somalia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2019/035 (4. Juli 2019)</td></tr>
-<tr><td>Tansania</td><td>Kinyongia fischeri</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Kinyongia tavetana</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Balearica regulorum</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td>Togo</td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Senegal</td><td>Hippocampus algiricus</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Somalia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2024/016 (12. Jan. 2024)</td></tr>
+<tr><td>Tansania</td><td>Balearica regulorum</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td>Togo</td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2023/034 (23. März 2023)</td></tr>
 <tr><td></td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
 <tr><td>Tschad</td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>Pterocarpus erinaceus</td><td>Nr. 2022/045 (8. Juni 2022)</td></tr>
+<tr><td colspan="4"><sup>a</sup> Die Notifikationen sind einsehbar auf den Internetseiten des CITES-Sekretariats: [www.cites.org](https://cites.org/eng/notif/index.php) &gt; Français &gt; Documents &gt; Notifications aux Parties.</td></tr>
 </table>
-
-[^annex3-lvlu1-1]: Die Notifikationen sind einsehbar auf den Internetseiten des CITES-Sekretariats: www.cites.org &gt; Français &gt; Documents &gt; Notifications aux Parties
 
 Anhang 4[^t-4]
 
