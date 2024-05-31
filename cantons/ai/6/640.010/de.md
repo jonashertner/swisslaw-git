@@ -4,13 +4,12 @@ number: "640.010"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2021-11-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-25
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 2000-11-20
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.010"
-pdf: "https://ai.clex.ch/api/de/versions/1961/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1961/pdf_file"
 
 (StV)
 
-vom 20.11.2000 (Stand 01.11.2021)
+vom 20.11.2000 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -414,7 +413,7 @@ beschliesst:
 
 **Steuererhebung (Art. 116 und 158 Abs. 2 StG)**
 
-<sup>1</sup> Die Rechnung der für das Grundbuch zuständigen Stelle gilt als Veranlagungsverfügung im Sinne von Art. 127 StG.
+<sup>1</sup> Die Rechnung der für das Grundbuchwesen zuständigen Stelle gilt als Veranlagungsverfügung im Sinne von Art. 127 StG.
 
 <sup>2</sup> Die Steuerpflicht obliegt ausschliesslich dem Erwerber des Grundstücks, auch wenn sich der Veräusserer zur teilweisen oder vollständigen Bezahlung der Handänderungssteuer verpflichtet hat. Der Erwerber ist Steuersubjekt. Ihm ist die Veranlagungsverfügung zu eröffnen.
 
@@ -512,9 +511,9 @@ beschliesst:
 
 **Gesetzliches Pfandrecht (Art. 166 StG)**
 
-<sup>1</sup> Die für das Grundbuch zuständigen Stellen melden der kantonalen Steuerverwaltung vor dem Eintrag ins Grundbuch den mutmasslichen Veräusserungserlös. Gestützt darauf stellt diese den provisorischen Grundstückgewinnsteuerbetrag als Depot in Rechnung.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle meldet der kantonalen Steuerverwaltung vor dem Eintrag ins Grundbuch den mutmasslichen Veräusserungserlös. Gestützt darauf stellt diese den provisorischen Grundstückgewinnsteuerbetrag als Depot in Rechnung.
 
-<sup>2</sup> Die für das Grundbuch zuständigen Stellen machen die Vertragsparteien ausdrücklich auf das Bestehen und die Tragweite des gesetzlichen Pfandrechtes für die Liegenschafts- und Grundstückgewinnsteuern aufmerksam. Sie erwähnen insbesondere, dass das Grundstück des Erwerbers allenfalls für sämtliche noch nicht beglichene Forderungen haftet und dass der Erwerber bei der Steuerbehörde schriftlich Auskunft über noch nicht bezahlte Grundsteuern verlangen kann. Die Tatsache, dass die Hinweise erfolgt sind, ist in der Urkunde festzuhalten.
+<sup>2</sup> Die für das Grundbuchwesen zuständige Stelle macht die Vertragsparteien ausdrücklich auf das Bestehen und die Tragweite des gesetzlichen Pfandrechts für die Liegenschafts- und Grundstückgewinnsteuern aufmerksam. Sie erwähnen insbesondere, dass das Grundstück des Erwerbers allenfalls für sämtliche noch nicht beglichene Forderungen haftet und dass der Erwerber bei der Steuerbehörde schriftlich Auskunft über noch nicht bezahlte Grundsteuern verlangen kann. Die Tatsache, dass die Hinweise erfolgt sind, ist in der Urkunde festzuhalten.
 
 ## X. Steuerstrafrecht
 
