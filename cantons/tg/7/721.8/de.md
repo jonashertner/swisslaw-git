@@ -4,13 +4,12 @@ number: "721.8"
 title: Wassernutzungsgesetz
 short: WNG
 language: de
-version: 2018-01-01
-valid_until: 2024-05-31
-version_adopted: 2017-04-19
+version: 2024-06-01
+version_adopted: 2024-01-24
 adopted: 1999-08-25
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/721.8"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2810/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2812/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ WNG
 
 (WNG)
 
-vom 25.08.1999 (Stand 01.01.2018)
+vom 25.08.1999 (Stand 01.06.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,9 +30,9 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Als öffentliches Wasser hinsichtlich der Nutzung gelten:
 
-- 1\. die Grundwasservorkommen mit einer mittleren Ergiebigkeit von gesamthaft über 500 Litern pro Minute;
-- 2\. das als See-, Fluss- oder Bachquelle natürlich zu Tage tretende Grundwasser, wenn dieses ein stehendes oder fliessendes Oberflächengewässer mit ständiger Wasserführung und einem festen Gerinne bildet oder massgeblich speist. Die Speisung gilt als massgeblich, wenn diese allein ein Oberflächengewässer bilden würde und eine mittlere Ergiebigkeit von gesamthaft über 300 Litern pro Minute aufweist;
-- 3\. die offenen und eingedolten Oberflächengewässer, soweit an ihnen oder an Teilen von ihnen nicht Privateigentum nachgewiesen wird. In Leitungen oder Kanälen abgeleitetes Wasser bleibt öffentliches Wasser.
+- 1\. Die Grundwasservorkommen mit einer mittleren Ergiebigkeit von gesamthaft über 500 Litern pro Minute.
+- 2\. Das als See-, Fluss- oder Bachquelle natürlich zu Tage tretende Grundwasser, wenn dieses ein stehendes oder fliessendes Oberflächengewässer mit ständiger Wasserführung und einem festen Gerinne bildet oder massgeblich speist. Die Speisung gilt als massgeblich, wenn diese allein ein Oberflächengewässer bilden würde und eine mittlere Ergiebigkeit von gesamthaft über 300 Litern pro Minute aufweist.
+- 3\. Die offenen und eingedolten Oberflächengewässer, soweit an ihnen oder an Teilen von ihnen nicht Privateigentum nachgewiesen wird. In Leitungen oder Kanälen abgeleitetes Wasser bleibt öffentliches Wasser.
 - 4\. …
 
 <sup>2</sup> Das öffentliche Wasser steht unter der Hoheit des Kantons. Die Nutzung steht dem Kanton zu.
@@ -46,7 +45,7 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Oberflächengewässer wie Seen, Teiche, Flüsse, Bäche oder Kanäle umfassen das Bett mit Uferböschung, Vorland und Damm einschliesslich des darin stehenden oder fliessenden Wassers, das darunter liegende Erdreich und die Luftsäule darüber.
 
-<sup>2</sup> Das Gewässerbett besteht aus der dauernd oder regelmässig von Wasser überdeckten Landoberfläche; es reicht bis zum festgelegten Hochwasserprofil gemäss § 36 Abs. 1 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren[^2-1].
+<sup>2</sup> Das Gewässerbett besteht aus der dauernd oder regelmässig von Wasser überdeckten Landoberfläche; es reicht bis zum festgelegten Hochwasserprofil gemäss § 36 Abs. 1 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren (WBSNG)[^2-1].
 
 <sup>3</sup> Der Kanton kann öffentliche Oberflächengewässer nach Massgabe der öffentlichen Interessen als selbständige Grundstücke ausscheiden.
 
@@ -123,9 +122,9 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Die Konzessions- oder Bewilligungsbehörde kann von den Nutzungsberechtigten mit Ausnahme von Gemeinden oder Gemeindezweckverbänden eine Sicherheitsleistung verlangen für:
 
-- 1\. die Kosten der Durchsetzung von Auflagen und Bedingungen;
-- 2\. die Kosten der Wiederherstellung des Gewässerzustandes im Falle des Widerrufs oder des Erlöschens des Rechtes;
-- 3\. die Deckung allfälliger Kosten zur Behebung von Schäden, die der Bau, Bestand oder Betrieb einer Anlage verursachen könnte.
+- 1\. die Kosten der Durchsetzung von Auflagen und Bedingungen
+- 2\. die Kosten der Wiederherstellung des Gewässerzustandes im Falle des Widerrufs oder des Erlöschens des Rechtes
+- 3\. die Deckung allfälliger Kosten zur Behebung von Schäden, die der Bau, Bestand oder Betrieb einer Anlage verursachen könnte
 
 #### § 11
 
@@ -174,27 +173,26 @@ vom 25.08.1999 (Stand 01.01.2018)
 <sup>1</sup> Die Errichtung, Änderung oder Erweiterung von Bauten oder Anlagen, die für die Ausübung einer konzessions- oder bewilligungspflichtigen Nutzung erforderlich sind, bedarf einer Bewilligung des Kantons und wird ausschliesslich im Verfahren nach § 13 und § 14 beurteilt, wenn
 
 - 1\. die Bauten oder Anlagen ganz oder teilweise innerhalb eines Oberflächengewässers gemäss § 2 liegen oder erstellt werden sollen oder
-- 2\. die für die Erteilung der Baubewilligung gemäss Planungs- und Baugesetz[^15-1] zuständige Gemeindebehörde zustimmt.
+- 2\. die für die Erteilung der Baubewilligung gemäss Planungs- und Baugesetz (PBG)[^15-1] zuständige Gemeindebehörde zustimmt.
 
 <sup>2</sup> Die Bewilligung enthält insbesondere die Beurteilung nach:
 
-- 1\. Art. 21 und Art. 22 Abs. 2 des Bundesgesetzes über den Natur- und Heimatschutz[^15-2];
-- 2\. Art. 24 des Bundesgesetzes über die Raumplanung[^15-3];
-- 3\. Art. 39 des Bundesgesetzes über den Gewässerschutz[^15-4];
-- 4\. § 75 in Verbindung mit § 93 des Planungs- und Baugesetzes;
-- 5\. § 35 Abs. 2 und § 37 Abs. 1 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren[^15-5];
-- 6\. Art. 8 des Bundesgesetzes über die Fischerei[^15-6].
+- 1\. Art. 21 und Art. 22 Abs. 2 des Bundesgesetzes über den Natur- und Heimatschutz[^15-2]
+- 2\. Art. 24 des Bundesgesetzes über die Raumplanung[^15-3]
+- 3\. Art. 39 des Bundesgesetzes über den Gewässerschutz[^15-4]
+- 4\. § 75 in Verbindung mit § 93 PBG
+- 5\. § 35 Abs. 2 und § 37 Abs. 1 WBSNG
+- 6\. Art. 8 des Bundesgesetzes über die Fischerei[^15-5]
 
 <sup>3</sup> Die betroffenen Gemeinden und die kantonalen Fachstellen sind vorgängig anzuhören.
 
-<sup>4</sup> Mit der Beurteilung können Pflichtstrecken im Sinne von § 38 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren festgelegt werden.
+<sup>4</sup> Mit der Beurteilung können Pflichtstrecken im Sinne von § 38 WBSNG festgelegt werden.
 
 [^15-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
 [^15-2]: SR [451](https://db.clex.ch/link/Bund/451/de)
 [^15-3]: SR [700](https://db.clex.ch/link/Bund/700/de)
 [^15-4]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
-[^15-5]: RB [721.1](https://www.rechtsbuch.tg.ch/data/721.1/de)
-[^15-6]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
+[^15-5]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
 
 #### § 16
 
@@ -214,11 +212,11 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Für die Verleihung von Nutzungsrechten an öffentlichem Wasser erhebt die Konzessions- oder Bewilligungsbehörde für jedes volle Jahr der konzessionierten oder bewilligten Nutzungsdauer folgende Gebühren:
 
-- 1\. Fr. 0.60 pro l/min konzessionierter Entnahmemenge für die Nutzung als Trink- oder Brauchwasser;
-- 2\. Fr. 0.10 pro kW Bruttoleistung bei einer rechnerischen Bruttoleistung bis und mit 150 kW und Fr. 0.30 pro kW Bruttoleistung bei einer rechnerischen Bruttoleistung von mehr als 150 kW für Wasserkraftnutzungen;
-- 3\. Fr. 3.50 bis Fr. 13 pro m² der beanspruchten Bruttofläche für die räumliche Nutzung von Oberflächengewässern durch Bauten oder Anlagen;
-- 4\. Fr. 3 pro m² der beanspruchten Bruttofläche für Bootsstationierungen und zugehörige Anlagen der Gemeinde;
-- 5\. Fr. 150 pro Bojenplatz der Gemeinde.
+- 1\. Fr. 0.60 pro l/min konzessionierter Entnahmemenge für die Nutzung als Trink- oder Brauchwasser
+- 2\. Fr. 0.10 pro kW Bruttoleistung bei einer rechnerischen Bruttoleistung bis und mit 150 kW und Fr. 0.30 pro kW Bruttoleistung bei einer rechnerischen Bruttoleistung von mehr als 150 kW für Wasserkraftnutzungen
+- 3\. Fr. 3.50 bis Fr. 13 pro m² der beanspruchten Bruttofläche für die räumliche Nutzung von Oberflächengewässern durch Bauten oder Anlagen
+- 4\. Fr. 3 pro m² der beanspruchten Bruttofläche für Bootsstationierungen und zugehörige Anlagen der Gemeinde
+- 5\. Fr. 150 pro Bojenplatz der Gemeinde
 
 <sup>2</sup> Die Verleihungsgebühren betragen für die konzessionierte oder bewilligte Nutzungsdauer mindestens Fr. 200.
 
@@ -238,9 +236,7 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 **Begriff**
 
-<sup>1</sup> Wasserversorgungen im Sinne dieses Gesetzes sind alle Wasserversorgungen, die Erschliessungsanlagen gemäss Planungs- und Baugesetz[^19-1] erstellen oder betreiben und das Wasser gegen Beiträge und Gebühren abgeben.
-
-[^19-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
+<sup>1</sup> Wasserversorgungen im Sinne dieses Gesetzes sind alle Wasserversorgungen, die Erschliessungsanlagen gemäss PBG erstellen oder betreiben und das Wasser gegen Beiträge und Gebühren abgeben.
 
 #### § 20
 
@@ -255,6 +251,8 @@ vom 25.08.1999 (Stand 01.01.2018)
 <sup>4</sup> Sie erlassen ein Reglement über die Wasserversorgung.
 
 <sup>5</sup> Sie führen die direkte Aufsicht über die weiteren Trägerschaften nach § 21, soweit die Verordnung diese Aufgabe nicht anderen Stellen überträgt.
+
+<sup>6</sup> Es gilt das gesetzliche Vorkaufsrecht gemäss § 36a und § 36b PBG.
 
 #### § 21
 
@@ -289,9 +287,7 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Die Wasserversorgung hat selbsttragend zu sein. Zur Finanzierung erheben die Träger der Wasserversorgungen Beiträge und Gebühren.
 
-<sup>2</sup> Die Erhebung von Erschliessungsbeiträgen und Anschlussgebühren richtet sich nach den Bestimmungen des Planungs- und Baugesetzes[^24-1].
-
-[^24-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
+<sup>2</sup> Die Erhebung von Erschliessungsbeiträgen und Anschlussgebühren richtet sich nach den Bestimmungen des PBG.
 
 ## 4. Räumliche Nutzung der Oberflächengewässer
 
@@ -303,9 +299,9 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Als räumliche Nutzung der Oberflächengewässer gelten:
 
-- 1\. Bauten und Anlagen wie Gebäude, Bootsstationierungen und zugehörige Anlagen, Stege, Flösse, Brücken, Leitungen;
-- 2\. Auffüllungen von Gewässergebiet;
-- 3\. Materialentnahmen.
+- 1\. Bauten und Anlagen wie Gebäude, Bootsstationierungen und zugehörige Anlagen, Stege, Flösse, Brücken, Leitungen
+- 2\. Auffüllungen von Gewässergebiet
+- 3\. Materialentnahmen
 
 #### § 26
 
@@ -333,9 +329,9 @@ vom 25.08.1999 (Stand 01.01.2018)
 
 <sup>1</sup> Für Bodensee, Untersee und Rhein, und soweit erforderlich für weitere Gewässer, erarbeitet der Regierungsrat im Rahmen der Richtplanung ein Konzept über die Bootsstationierung. Das Konzept ist behördenverbindlich und legt insbesondere fest:
 
-- 1\. Ort und zulässige Flächenbeanspruchung der Bootsstationierung;
-- 2\. die zulässigen Hafenbauten;
-- 3\. die übrigen erforderlichen Infrastrukturanlagen.
+- 1\. Ort und zulässige Flächenbeanspruchung der Bootsstationierung
+- 2\. die zulässigen Hafenbauten
+- 3\. die übrigen erforderlichen Infrastrukturanlagen
 
 <sup>2</sup> Innerhalb konzessionierter Stationierungsflächen ist die konkrete Nutzung Sache der Gemeinde.
 
