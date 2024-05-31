@@ -4,13 +4,12 @@ number: "940.11"
 title: Reglement über die Ausübung des Handels
 short: HAR
 language: de
-version: 2022-02-01
-valid_until: 2024-05-31
-version_adopted: 2022-04-08
+version: 2024-06-01
+version_adopted: 2024-04-30
 adopted: 1998-09-14
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/940.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7456/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8008/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ausübung des Handels – R
 
 (HAR)
 
-vom 14.09.1998 (Fassung in Kraft getreten am 01.02.2022)
+vom 14.09.1998 (Fassung in Kraft getreten am 01.06.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -73,6 +72,7 @@ beschliesst:
 - b) im Sensebezirk: Schwarzsee (Gemeinde Plaffeien);
 - c) im Greyerzbezirk: Gruyères, Jaun und Val-de-Charmey;
 - d) im Vivisbachbezirk: Les Paccots (Gemeinde Châtel-Saint-Denis).
+- e) im Seebezirk: Stadt Murten (Altstadt mit Stadtmauer und Seeufern, mit Ausdehnung im Süden bis zur Bahnlinie inkl. Bahnhofareal, im Westen bis zum Strandbad Murten und im Osten bis zum Strandbad Muntelier).
 
 #### Art. 4
 
@@ -80,8 +80,8 @@ beschliesst:
 
 <sup>1</sup> Als touristische Gebiete während der Sommersaison, d.h. von April bis Oktober, gelten:
 
-- a) im Seebezirk: Greng, Meyriez, Mont-Vully, Muntelier und Murten;
-- b) im Broyebezirk: Châbles, Cheyres, Delley-Portalban, Estavayer-le-Lac und Gletterens.
+- a) im Seebezirk: Greng, Meyriez, Mont-Vully und Muntelier;
+- b) im Broyebezirk: Cheyres-Châbles, Delley-Portalban, Estavayer-le-Lac (Gemeinde Estavayer) und Gletterens.
 
 #### Art. 5
 

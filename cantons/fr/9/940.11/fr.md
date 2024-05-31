@@ -4,13 +4,12 @@ number: "940.11"
 title: "Règlement sur l'exercice du commerce"
 short: RCom
 language: fr
-version: 2022-02-01
-valid_until: 2024-05-31
-version_adopted: 2022-04-08
+version: 2024-06-01
+version_adopted: 2024-04-30
 adopted: 1998-09-14
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/940.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7456/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8008/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Exercice du commerce – R
 
 (RCom)
 
-du 14.09.1998 (version entrée en vigueur le 01.02.2022)
+du 14.09.1998 (version entrée en vigueur le 01.06.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -72,7 +71,8 @@ Arrête:
 - a) dans le district de la Sarine: la Vieille-Ville de Fribourg (quartiers du Bourg, de l'Auge et de la Neuveville);
 - b) dans le district de la Singine: le Lac-Noir (commune de Plaffeien);
 - c) dans le district de la Gruyère: Gruyères, Jaun et Val-de-Charmey;
-- d) dans le district de la Veveyse: Les Paccots (commune de Châtel-Saint-Denis).
+- d) dans le district de la Veveyse: Les Paccots (commune de Châtel-Saint-Denis);
+- e) dans le district du Lac: Ville de Morat (vieille ville avec son mur d'enceinte et les rives du lac, s'étendant au sud jusqu'aux voies de chemin de fer, y compris l'aire de la gare, avec pour limite ouest la plage de Morat et pour limite est la plage de Muntelier).
 
 #### Art. 4
 
@@ -80,8 +80,8 @@ Arrête:
 
 <sup>1</sup> Sont réputés sites touristiques durant la saison estivale, soit d'avril à octobre:
 
-- a) dans le district du Lac: Greng, Meyriez, Mont-Vully, Morat et Muntelier;
-- b) dans le district de la Broye; Châbles, Cheyres, Delley-Portalban, Estavayer-le-Lac et Gletterens.
+- a) dans le district du Lac: Greng, Meyriez, Mont-Vully et Muntelier;
+- b) dans le district de la Broye; Cheyres-Châbles, Delley-Portalban, Estavayer-le-Lac (commune d'Estavayer) et Gletterens.
 
 #### Art. 5
 
