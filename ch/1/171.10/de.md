@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-de-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. Januar 2024)
+vom 13. Dezember 2002 (Stand am 1. Juni 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -70,9 +70,9 @@ Die ausserordentliche Session findet unverzüglich statt, wenn:
 
 <sup>4</sup> Eine ordentliche oder eine ausserordentliche Session findet in beiden Räten in der Regel in denselben Kalenderwochen statt.[^2-3]
 
-[^2-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^2-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^2-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -134,7 +134,7 @@ Zum Schutze wichtiger Sicherheitsinteressen oder aus Gründen des Persönlichkei
 
 <sup>4</sup> Wird eine parlamentarische Initiative, eine Motion oder ein Postulat bestritten, so darf eine Abstimmung nur durchgeführt werden, wenn die Urheberin oder der Urheber Gelegenheit zu einer mündlichen Begründung erhalten hat. Zudem erhält zumindest das Wort, wer zuerst die Ablehnung beantragt hat.[^6-1]
 
-[^6-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -158,7 +158,7 @@ Das einzelne Ratsmitglied hat keinen Anspruch auf Informationen:
 
 <sup>6</sup> Das Ratspräsidium kann zur Vorbereitung der Vermittlung ohne Einschränkungen Einsicht in die Unterlagen des Bundesrates und der Bundesverwaltung nehmen.
 
-[^7-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^7-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 8
 
@@ -190,13 +190,13 @@ Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissione
 
 <sup>3</sup> Die von den Mitgliedern des Nationalrates gemäss Absatz 1 abgegebenen Stimmen werden im elektronischen Abstimmungssystem gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Die Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben konnte.
 
-[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), verlängert bis zum 30. Juni 2024 durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), verlängert bis zum 30. Juni 2024 durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
 [^10b-1]
 
-[^10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -220,9 +220,9 @@ Beim Amtsantritt und jeweils auf Jahresbeginn unterrichtet jedes Ratsmitglied da
 
 <sup>4</sup> Das Berufsgeheimnis im Sinne des Strafgesetzbuches[^11-4] bleibt vorbehalten.
 
-[^11-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 11a
@@ -233,7 +233,7 @@ Beim Amtsantritt und jeweils auf Jahresbeginn unterrichtet jedes Ratsmitglied da
 
 <sup>2</sup> In streitigen Fällen entscheidet die betroffene Kommission oder Delegation nach Anhörung des betroffenen Mitglieds endgültig über den Ausstand.
 
-[^11a-1]: Eingefügt gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^11a-1]: Eingefügt gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 12
 
@@ -308,9 +308,9 @@ Die Ratsmitglieder können für ihre Äusserungen in den Räten und in deren Org
 
 <sup>4</sup> Ist ein Gesuch offensichtlich unhaltbar, so können die Präsidentinnen oder Präsidenten der zuständigen Kommissionen im gegenseitigen Einvernehmen das Gesuch direkt erledigen. Sie setzen die Kommissionen vorgängig darüber in Kenntnis. Verlangt die Mehrheit einer Kommission eine Beratung des Gesuches, so wird das Gesuch im normalen Verfahren nach Artikel 17*a* behandelt.[^17-3]
 
-[^17-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^17-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^17-3]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-3]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 17a
 
@@ -330,7 +330,7 @@ Die Ratsmitglieder können für ihre Äusserungen in den Räten und in deren Org
 
 <sup>7</sup> Ist das beschuldigte Ratsmitglied Mitglied einer der zuständigen Kommissionen, so tritt es in den Ausstand.
 
-[^17a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -350,8 +350,8 @@ Für die Aufhebung des Post- und Fernmeldegeheimnisses im Sinne von Artikel 321<
 <sup>4</sup> Eine Verhaftung ohne diese Ermächtigung ist unzulässig.[^18-3]
 
 [^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^18-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 19
 
@@ -375,9 +375,9 @@ Für die Aufhebung des Post- und Fernmeldegeheimnisses im Sinne von Artikel 321<
 
 <sup>4</sup> Gegen eine durch rechtskräftiges Urteil verhängte Freiheitsstrafe, deren Vollzug vor Beginn der Session angeordnet wurde, kann das Recht auf Sessionsteilnahme nicht angerufen werden.
 
-[^20-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 21
 
@@ -389,7 +389,7 @@ Ist streitig, ob eine Ermächtigung nach den Artikeln 17–20 erforderlich sei, 
 
 [^tit2-chap4-1]
 
-[^tit2-chap4-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 (Parlamentsrecht. Verschiedene Änderungen), in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit2-chap4-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 (Parlamentsrecht. Verschiedene Änderungen), in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 21a
 
@@ -415,7 +415,7 @@ Ist streitig, ob eine Ermächtigung nach den Artikeln 17–20 erforderlich sei, 
 
 <sup>4</sup> Als rechtsetzend gelten Bestimmungen, die in unmittelbar verbindlicher und generell-abstrakter Weise Pflichten auferlegen, Rechte verleihen oder Zuständigkeiten festlegen.
 
-[^22-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 (AS **2023** 483; BBl **2022** 301, 433).
+[^22-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 23
 
@@ -436,8 +436,8 @@ Die Bundesversammlung unterbreitet Änderungen der Bundesverfassung Volk und St�
 <sup>4</sup> Sie wirkt in internationalen parlamentarischen Versammlungen mit und pflegt die Beziehungen zu ausländischen Parlamenten.
 
 [^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^24-2]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^24-3]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-2]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-3]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 25
 
@@ -518,8 +518,8 @@ Sie wirkt mit, indem sie:
 <sup>4</sup> Weicht der Bundesrat von Aufträgen oder Grundsatz- und Planungsbeschlüssen ab, so hat er dies zu begründen.
 
 [^28-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^28-2]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
-[^28-3]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-2]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-3]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
 #### Art. 29
 
@@ -632,9 +632,9 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 
 <sup>5</sup> …[^37-3]
 
-[^37-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^37-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), mit Wirkung seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^37-3]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-3]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -697,7 +697,7 @@ Die Gerichtskommission ist zuständig für die Vorbereitung der Wahl und Amtsent
 
 <sup>6</sup> Die Geschäftsprüfungskommissionen und die Finanzdelegation bringen Feststellungen, welche die fachliche oder persönliche Eignung von Richterinnen und Richtern, der Bundesanwältin, des Bundesanwalts, der Stellvertretenden Bundesanwältinnen und Bundesanwälte oder der oder des Beauftragten ernsthaft in Frage stellen, der Gerichtskommission zur Kenntnis.[^40a-7]
 
-[^40a-1]: Eingefügt durch Ziff. II des BG vom 13. Dez. 2002, in Kraft seit 1. Aug. 2003 ([AS 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1181](https://fedlex.data.admin.ch/eli/fga/2002/147)).
+[^40a-1]: Eingefügt durch Ziff. II des BG vom 13. Dez. 2002, in Kraft seit 1. Aug. 2003 ([AS 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731); [2002 1181](https://fedlex.data.admin.ch/eli/fga/2002/147)).
 [^40a-2]: Eingefügt durch Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^40a-4]: Fassung gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -741,7 +741,7 @@ Die Gerichtskommission ist zuständig für die Vorbereitung der Wahl und Amtsent
 
 <sup>4</sup> Die Amtsdauer der Mitglieder der ständigen Kommissionen wird von den Geschäftsreglementen bestimmt.
 
-[^43-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^43-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 44
 
@@ -760,7 +760,7 @@ Im Rahmen der ihnen durch das Gesetz oder durch die Geschäftsreglemente zugewie
 
 <sup>2</sup> Die Kommissionen berichten ihrem Rat über die ihnen zugewiesenen Geschäfte und stellen Antrag.
 
-[^44-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^44-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 45
 
@@ -821,7 +821,7 @@ Die folgenden Personen können zu einer physisch stattfindenden Kommissionssitzu
 
 <sup>3</sup> Personen im Dienste des Bundes müssen schriftliche Unterlagen und visuelle Präsentationen zuhanden der Kommissionen in der Regel in zwei Amtssprachen vorlegen. Aussenstehende Sachverständige sowie Vertreterinnen und Vertreter der Kantone und interessierter Kreise werden mit der Einladung zu einer Kommissionssitzung darauf aufmerksam gemacht, dass sie der Mehrsprachigkeit der Kommission nach Möglichkeit Rechnung tragen sollten.[^46-1]
 
-[^46-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 47
 
@@ -839,7 +839,7 @@ Die folgenden Personen können zu einer physisch stattfindenden Kommissionssitzu
 
 <sup>2</sup> Die Kommissionen können ihre Unterlagen, mit Ausnahme der Protokolle ihrer Sitzungen, entklassifizieren und öffentlich zugänglich machen. Die Voraussetzungen für den Zugang zu den Unterlagen regelt eine Verordnung der Bundesversammlung.
 
-[^47a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^47a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 48
 
@@ -861,7 +861,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 <sup>5</sup> …[^49-1]
 
-[^49-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^49-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 2. Abschnitt: Finanzkommissionen
 
@@ -875,7 +875,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 <sup>3</sup> Die Finanzkommissionen sind zum Mitbericht zu den Entwürfen für Verpflichtungskredite und Zahlungsrahmen einzuladen, die ihnen nicht zur Vorberatung zugewiesen werden. Für sie gelten für die Vertretung ihrer Anträge in den Räten dieselben Rechte wie für die vorberatenden Kommissionen.[^50-2]
 
-[^50-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^50-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^50-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Juli 2015 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 51
@@ -894,7 +894,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 <sup>6</sup> Sie entscheidet mit der Mehrheit ihrer stimmenden Mitglieder.
 
-[^51-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^51-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^51-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
 
 ### 3. Abschnitt: Geschäftsprüfungskommissionen
@@ -923,21 +923,21 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 <sup>5</sup> Sie entscheidet mit der Mehrheit ihrer stimmenden Mitglieder.
 
-[^53-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^53-2]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^53-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^53-2]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
 ### 4. Abschnitt: Berichterstattung im Rat
 
 [^tit4-chap4-sec4-1]
 
-[^tit4-chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit4-chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 54
 
 [^54-1]
 
-[^54-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^54-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 55
 
@@ -945,7 +945,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 Die Finanz- und die Geschäftsprüfungskommissionen berichten ihrem Rat einmal jährlich über die Hauptergebnisse ihrer Arbeit.
 
-[^55-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^55-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 5. Abschnitt: Redaktionskommission
 
@@ -973,7 +973,7 @@ Die Finanz- und die Geschäftsprüfungskommissionen berichten ihrem Rat einmal j
 
 <sup>3</sup> Der Redaktionskommission stehen keine materiellen Änderungen zu. Stösst sie auf materielle Lücken, Unklarheiten oder Widersprüche, so benachrichtigt sie die Ratspräsidentinnen oder Ratspräsidenten.
 
-[^57-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^57-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 58
 
@@ -1060,7 +1060,7 @@ Sie erfüllen folgende Aufgaben:
 - f. Sie unterstützen die Bundesversammlung bei der Pflege ihrer internationalen Beziehungen.
 - g. Unter Vorbehalt der Zuständigkeiten von Ratsorganen besorgen sie alle übrigen Aufgaben der Parlamentsverwaltung.
 
-[^64-1]: Eingefügt durch Ziff. I des BG vom 16. März 2018 (Zeitgemässe Informations- und Dokumentationsangebote des Parlamentes), in Kraft seit 26. Nov. 2018 ([AS 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [BBl 2017 6877](https://fedlex.data.admin.ch/eli/fga/2017/2000)[6889](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
+[^64-1]: Eingefügt durch Ziff. I des BG vom 16. März 2018 (Zeitgemässe Informations- und Dokumentationsangebote des Parlamentes), in Kraft seit 26. Nov. 2018 ([AS 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [BBl 2017 6877](https://fedlex.data.admin.ch/eli/fga/2017/2000), [6889](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
 
 #### Art. 65
 
@@ -1106,7 +1106,7 @@ Die Dienststellen der Parlamentsdienste verfügen über dieselben Informationsre
 
 [^69a-1]
 
-[^69a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
 
 #### Art. 70
 
@@ -1174,7 +1174,7 @@ Beratungsgegenstände der Bundesversammlung sind namentlich:
 <sup>6</sup> Ist Eintreten auf einen Erlassentwurf beschlossen, so kann dieser auf Antrag der vorberatenden Kommission oder des Bundesrates abgeschrieben werden, wenn er gegenstandslos geworden ist.[^74-2]
 
 [^74-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^74-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^74-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 75
 
@@ -1209,10 +1209,10 @@ Ein Erlassentwurf kann mit einem Antrag nur dann eingereicht werden, wenn damit:
 
 <sup>4</sup> Anträge, die von der Kommissionsmehrheit abgelehnt worden sind, können als Minderheitsanträge eingereicht werden.
 
-[^76-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^76-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^76-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 77
 
@@ -1224,7 +1224,7 @@ Ein Erlassentwurf kann mit einem Antrag nur dann eingereicht werden, wenn damit:
 
 <sup>3</sup> Wird die Dringlichkeitsklausel verworfen, so bereinigt die Redaktionskommission nach Konsultation der Präsidentinnen oder Präsidenten der vorberatenden Kommissionen den Wortlaut der Bestimmungen über das Referendum und das Inkrafttreten.[^77-1]
 
-[^77-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^77-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 78
 
@@ -1247,7 +1247,7 @@ Die Stimmenzahlen sind immer zu ermitteln bei:
 - c. Abstimmungen über Bestimmungen, die der Zustimmung der Mehrheit der Mitglieder jedes der beiden Räte bedürfen (Art. 159 Abs. 3 BV);
 - d. Schlussabstimmungen.[^78-1]
 
-[^78-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^78-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 79
 
@@ -1261,7 +1261,7 @@ Die Stimmenzahlen sind immer zu ermitteln bei:
 
 <sup>4</sup> Die Abstimmungsreihenfolge kann mit einem Eventualantrag nicht geändert werden.[^79-1]
 
-[^79-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^79-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 80
 
@@ -1289,8 +1289,8 @@ Eine Schlussabstimmung wird durchgeführt über:
 
 <sup>3</sup> Verwirft ein Rat oder verwerfen beide Räte den Erlassentwurf, so ist der Erlass nicht zu Stande gekommen.
 
-[^81-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^81-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 82
 
@@ -1338,7 +1338,7 @@ Die Ratsreglemente regeln, in welchen Fällen das Abstimmungsergebnis in Form ei
 
 <sup>4</sup> Ein Bundesbeschluss über den Gegenentwurf zu einer Volksinitiative muss dem anderen Rat zusammen mit dem Bundesbeschluss über die entsprechende Volksinitiative zugeleitet werden.[^86-1]
 
-[^86-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^86-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 87
 
@@ -1378,7 +1378,7 @@ Die Ratsreglemente regeln, in welchen Fällen das Abstimmungsergebnis in Form ei
 
 Die Räte können auf gleich lautenden Antrag ihrer vorberatenden Kommissionen einen Erlassentwurf während der Differenzbereinigung oder nach deren Abschluss abschreiben.
 
-[^90-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^90-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 91
 
@@ -1390,7 +1390,7 @@ Die Räte können auf gleich lautenden Antrag ihrer vorberatenden Kommissionen e
 
 <sup>3</sup> Die Kommissionspräsidentin oder der Kommissionspräsident des Erstrates führt den Vorsitz. Die Stellvertretung der Präsidentin oder des Präsidenten und der Mitglieder der Einigungskonferenz richtet sich nach den entsprechenden Bestimmungen in den Geschäftsreglementen.[^91-1]
 
-[^91-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^91-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 92
 
@@ -1426,7 +1426,7 @@ Wird ein Einigungsantrag zum Bundesbeschluss über den Voranschlag des Bundes od
 
 <sup>3</sup> Wird ein Antrag abgelehnt, so wird die betreffende Bestimmung gestrichen.
 
-[^94a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^94a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 [^94a-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 [^94a-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
@@ -1447,8 +1447,8 @@ Wenn sich die abweichenden Beschlüsse der beiden Räte auf einen Beratungsgegen
 - i.[^95-2] …
 - j. die Aufrechterhaltung eines zur Abschreibung beantragten Beratungsgegenstandes.
 
-[^95-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^95-2]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^95-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^95-2]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 ### 3. Kapitel: Verfahren bei Volksinitiativen
 
@@ -1477,8 +1477,8 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>3</sup> Unterbreitet der Bundesrat der Bundesversammlung seine Botschaft und den Entwurf eines Bundesbeschlusses nicht fristgerecht, so kann eine zuständige Kommission den nötigen Erlassentwurf ausarbeiten.[^97-2]
 
-[^97-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^97-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 98
 
@@ -1490,7 +1490,7 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>3</sup> Wird der Einigungsantrag zur Abstimmungsempfehlung abgelehnt, so wird in Abweichung von Artikel 93 Absatz 2 nur die betreffende Bestimmung gestrichen.[^98-1]
 
-[^98-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^98-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 99
 
@@ -1500,7 +1500,7 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>2</sup> Vorbehalten bleibt die Zuständigkeit der Redaktionskommission, offensichtliche Übersetzungsfehler zu berichtigen und die nötigen formellen Anpassungen vorzunehmen, um die vorgeschlagene Verfassungsänderung in die Verfassung einzuordnen. Die Kommission gibt dem Initiativkomitee Gelegenheit zur Stellungnahme.[^99-1]
 
-[^99-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^99-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 ### b. Volksinitiative in der Form des ausgearbeiteten Entwurfs
 
@@ -1520,7 +1520,7 @@ Die Bundesversammlung beschliesst innert 30 Monaten nach Einreichung einer Volks
 
 <sup>3</sup> Die Schlussabstimmung über den Bundesbeschluss über den Gegenentwurf findet spätestens acht Tage vor dem Abschluss der Session vor Ablauf der Behandlungsfrist der Volksinitiative statt. Wird der Bundesbeschluss in der Schlussabstimmung von einem Rat verworfen, so stellt die Einigungskonferenz Antrag zur Abstimmungsempfehlung im Bundesbeschluss über die Volksinitiative. Ein Antrag auf einen Gegenentwurf ist nicht mehr zulässig.
 
-[^101-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^101-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 102
 
@@ -1535,7 +1535,7 @@ Unterbreitet die Bundesversammlung Volk und Ständen neben der Volksinitiative e
 
 <sup>2</sup> Empfiehlt sie beide Vorlagen zur Annahme, so empfiehlt sie den Stimmberechtigten, bei der Stichfrage den Gegenentwurf anzunehmen.
 
-[^102-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^102-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### c. Volksinitiative in der Form der allgemeinen Anregung
 
@@ -1569,7 +1569,7 @@ Unterbreitet die Bundesversammlung Volk und Ständen neben der Volksinitiative e
 
 <sup>2</sup> Stimmen die Beschlüsse der Räte betreffend Fristverlängerung nicht überein, so ist die Verlängerung nicht zu Stande gekommen.
 
-[^105-1]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative) ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)). Aufgehoben durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^105-1]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative) ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699), [3609](https://fedlex.data.admin.ch/eli/fga/2009/701)). Aufgehoben durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 106
 
@@ -1589,7 +1589,7 @@ Kommt innert der gesetzlichen Frist kein übereinstimmender Beschluss der Räte 
 
 <sup>3</sup> Eine Kommission kann mit einer parlamentarischen Initiative ihrem Rat einen Erlassentwurf unterbreiten.
 
-[^107-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^107-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 108
 
@@ -1613,11 +1613,11 @@ Die parlamentarische Initiative eines Ratsmitglieds oder einer Fraktion ist unzu
 
 <sup>5</sup> Scheidet die Urheberin oder der Urheber einer Initiative aus dem Rat aus und nimmt kein anderes Ratsmitglied die Initiative während der ersten Woche der folgenden Session auf, so wird die Initiative ohne Ratsbeschluss abgeschrieben, ausser wenn die Kommission der Initiative bereits Folge gegeben hat.[^109-5]
 
-[^109-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^109-2]: Vierter Satz eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^109-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^109-4]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^109-5]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^109-2]: Vierter Satz eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^109-4]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^109-5]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 110
 
@@ -1647,7 +1647,7 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 
 <sup>3</sup> Der Bericht, der den Kommissionsentwurf für einen Erlass der Bundesversammlung erläutert, entspricht den Anforderungen an eine Botschaft des Bundesrates (Art. 141).
 
-[^111-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 112
 
@@ -1665,7 +1665,7 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Fassung gemäss Art. 12 Ziff. 1 des Vernehmlassungsgesetzes vom 18. März 2005, in Kraft seit 1. Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
-[^112-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
@@ -1691,8 +1691,8 @@ Die Kommission kann dem Rat die Abschreibung der Initiative beantragen, wenn:
 
 <sup>2</sup> In der Kommission des Zweitrates wird der Entwurf des Erstrates durch ein Mitglied der Kommission vertreten, welche ihn ausgearbeitet hat.
 
-[^114-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^114-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### 5. Kapitel: Verfahren bei Standesinitiativen
 
@@ -1704,7 +1704,7 @@ Die Kommission kann dem Rat die Abschreibung der Initiative beantragen, wenn:
 
 <sup>2</sup> Die Standesinitiative muss begründet werden. Die Begründung muss insbesondere die Zielsetzungen des Erlasses enthalten.
 
-[^115-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^115-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 116
 
@@ -1720,7 +1720,7 @@ Die Kommission kann dem Rat die Abschreibung der Initiative beantragen, wenn:
 
 <sup>4</sup> Die Kommission des Erstrates hört bei der Vorprüfung eine Vertretung des Kantons an.
 
-[^116-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^116-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 #### Art. 117
 
@@ -1757,7 +1757,7 @@ Parlamentarische Vorstösse sind:
 
 <sup>5</sup> Bei Vorstössen an die Ratsbüros und an die eidgenössischen Gerichte gelten die Artikel 120–125 sinngemäss.[^118-2]
 
-[^118-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^118-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^118-2]: Die Berichtigung der RedK der BVers vom 15. Febr. 2018, veröffentlicht am 27. Febr. 2018, betrifft nur den französischen Text ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
@@ -1781,10 +1781,10 @@ Ein Vorstoss eines Ratsmitglieds oder einer Fraktion wird ohne Ratsbeschluss abg
 
 <sup>6</sup> …[^119-4]
 
-[^119-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 2. Abschnitt: Motion
 
@@ -1834,7 +1834,7 @@ Eine vom Erstrat angenommene Motion ist ohne Zustimmung des Zweitrates definitiv
 - a. sie sich auf Fragen der Organisation und des Verfahrens des Rates bezieht, in dem sie eingereicht wurde; oder
 - b. es sich um eine Kommissionsmotion handelt und eine gleich lautende Kommissionsmotion im anderen Rat angenommen wird.
 
-[^121-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^121-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-4]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
@@ -1870,7 +1870,7 @@ Die Abschreibung kann auch beantragt werden, wenn der Auftrag zwar nicht erfüll
 
 <sup>6</sup> Hält der Bundesrat die Frist nicht ein, so wird in der nächsten ordentlichen Session in beiden Räten auf Antrag der zuständigen Kommissionen über eine erneute Fristverlängerung oder die Abschreibung entschieden.
 
-[^122-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007 (Verbindliche Wirkung der Motion), in Kraft seit 26. Mai 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^122-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007 (Verbindliche Wirkung der Motion), in Kraft seit 26. Mai 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 [^122-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1897,7 +1897,7 @@ Ein Postulat beauftragt den Bundesrat zu prüfen und Bericht zu erstatten, ob ei
 
 <sup>5</sup> Ein Postulat wird auf begründeten Antrag des Bundesrates oder einer Kommission abgeschrieben, wenn es erfüllt ist oder wenn es nicht aufrechterhalten werden soll. Die Abschreibung eines Postulates bedarf der Zustimmung des Rates, der es angenommen hat.
 
-[^124-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^124-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 4. Abschnitt: Interpellation und Anfrage
 
@@ -1919,7 +1919,7 @@ Ein Postulat beauftragt den Bundesrat zu prüfen und Bericht zu erstatten, ob ei
 
 [^tit5-chap7-sec1-1]
 
-[^tit5-chap7-sec1-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec1-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 126
 
@@ -1938,7 +1938,7 @@ Die Präsidentinnen oder Präsidenten der vorberatenden Kommissionen beider Rät
 - a. deren Ziel mit einer parlamentarischen Initiative, mit einem Vorstoss oder mit einem Antrag nicht erreicht werden kann;
 - b. deren Inhalt offensichtlich abwegig, querulatorisch oder beleidigend ist.
 
-[^126-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^126-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 127
 
@@ -1946,7 +1946,7 @@ Die Präsidentinnen oder Präsidenten der vorberatenden Kommissionen beider Rät
 
 Gibt die Kommission einer Petition Folge, so nimmt sie das Anliegen der Petition auf, indem sie eine parlamentarische Initiative oder einen Vorstoss ausarbeitet.
 
-[^127-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^127-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 128
 
@@ -1962,13 +1962,13 @@ Die Kommission beantragt ihrem Rat, der Petition sei keine Folge zu geben, wenn 
 
 <sup>2</sup> Gibt der Rat entgegen dem Antrag der Kommission der Petition Folge, so weist er die Petition mit dem Auftrag an die Kommission zurück, ihr Anliegen mit einer parlamentarischen Initiative oder einem Vorstoss aufzunehmen.
 
-[^128-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^128-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 2. Abschnitt: Eingaben
 
 [^tit5-chap7-sec2-1]
 
-[^tit5-chap7-sec2-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec2-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 129
 
@@ -1990,7 +1990,7 @@ Eine Eingabe zur Geschäftsführung und zum Finanzgebaren des Bundesrates, der B
 
 [^tit6-1]
 
-[^tit6-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 1. Kapitel: Allgemeine Bestimmungen für Wahlen
 
@@ -2049,7 +2049,7 @@ Aus der Wahl scheidet aus:
 
 <sup>3</sup> Sind mehrere Vakanzen zu besetzen, so ist für die Reihenfolge das Amtsalter der bisherigen Amtsinhaberinnen oder Amtsinhaber massgebend.
 
-[^133-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^133-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 134
 
@@ -2120,7 +2120,7 @@ Die Bundesversammlung nimmt weitere durch Verfassung oder Gesetz vorgesehene Wah
 
 [^tit6-chap6-1]
 
-[^tit6-chap6-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-chap6-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 140a
 
@@ -2170,15 +2170,15 @@ In der Botschaft begründet er den Erlassentwurf und kommentiert soweit nötig d
 - i. die Auswirkungen auf die Gleichstellung von Frau und Mann;
 - j.[^141-9] die Auswirkungen des Erlassentwurfs auf die Auslandschweizerinnen und ‑schweizer.
 
-[^141-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-4]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^141-6]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-7]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-8]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-4]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^141-6]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-7]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-8]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 142
 
@@ -2230,7 +2230,7 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>3</sup> Der Geschäftsbericht des Bundesrates orientiert über die Schwerpunkte seiner Tätigkeit im Geschäftsjahr. Er informiert über die Erreichung der für das Geschäftsjahr massgeblichen Jahresziele, über die Umsetzung der Legislaturplanung und des Gesetzgebungsprogramms sowie über den Stand der für die generelle Lagebeurteilung und die Überprüfung der Zielerreichung relevanten Indikatoren. Abweichungen sowie ungeplante Vorhaben sind zu begründen.[^144-1]
 
-[^144-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^144-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 145
 
@@ -2240,7 +2240,7 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>2</sup> Die Bundesversammlung genehmigt diesen Bericht in der Form eines einfachen Bundesbeschlusses.
 
-[^145-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Geschäftsbericht des Bundesrates), in Kraft seit 1. März 2009 ([AS 2009 697](https://fedlex.data.admin.ch/eli/oc/2009/115); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229)[1105](https://fedlex.data.admin.ch/eli/fga/2008/232)).
+[^145-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Geschäftsbericht des Bundesrates), in Kraft seit 1. März 2009 ([AS 2009 697](https://fedlex.data.admin.ch/eli/oc/2009/115); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229), [1105](https://fedlex.data.admin.ch/eli/fga/2008/232)).
 
 #### Art. 146
 
@@ -2254,7 +2254,7 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>4</sup> In der Botschaft wird der Legislaturfinanzplan dargelegt. Dieser setzt den Finanzbedarf für die Legislaturperiode fest und zeigt auf, wie dieser gedeckt werden soll. Die Ziele und Massnahmen der Legislaturplanung und der Legislaturfinanzplan werden sachlich und zeitlich miteinander verknüpft.
 
-[^146-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 147
 
@@ -2269,7 +2269,7 @@ Die Ratsreglemente können vorsehen, dass:
 - a. der Rat bei der Behandlung der Legislaturplanung nur über die Anträge und Minderheitsanträge der vorberatenden Kommission beschliesst; und
 - b. andere Antragsberechtigte ihre Anträge dieser Kommission vor Beginn von deren Detailberatung des Bundesbeschlusses unterbreiten müssen.
 
-[^147-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^147-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 148
 
@@ -2283,10 +2283,13 @@ Die Ratsreglemente können vorsehen, dass:
 
 <sup>3bis</sup> Er berichtet der Bundesversammlung periodisch über die Erreichung der strategischen Ziele, die für die verselbstständigten Einheiten nach Artikel 8 Absatz 5 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^148-1] festgelegt worden sind.[^148-2]
 
+<sup>3ter</sup> Nach Vorliegen des Legislativvorschlages der Europäischen Kommission zum mehrjährigen Finanzrahmen der Europäischen Union unterbreitet er der Bundesversammlung einen Planungsbericht über alle von ihm beabsichtigten Assoziierungen an die Programme und Agenturen der Europäischen Union in den Bereichen ausserhalb des Binnenmarktzugangs.[^148-3]
+
 <sup>4</sup> Die Bundesversammlung kann zu weiteren wichtigen Planungen und Berichten Grundsatz- und Planungsbeschlüsse in der Form des einfachen Bundesbeschlusses oder des Bundesbeschlusses fassen.
 
 [^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^148-2]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-2]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 (Planungsbericht), in Kraft seit 1. Juni 2024 (AS **20****24** 200; [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
 
@@ -2327,7 +2330,7 @@ Sie haben keinen Anspruch auf Informationen:
 
 <sup>7</sup> Das Ratspräsidium kann zur Vorbereitung der Vermittlung ohne Einschränkungen Einsicht in die Unterlagen des Bundesrates und der Bundesverwaltung nehmen.
 
-[^150-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^150-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 151
 
@@ -2366,9 +2369,9 @@ Der Bundesrat konsultiert die zuständigen Kommissionen, bevor er:
 
 <sup>5</sup> Die für die Aussenpolitik zuständigen Kommissionen oder andere zuständige Kommissionen können vom Bundesrat verlangen, dass er sie informiert oder konsultiert.
 
-[^152-1]: Fassung gemäss Anhang Ziff. III 1 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^152-2]: Eingefügt durch Ziff. I 2 des BG vom 8. Okt. 2004 über die vorläufige Anwendung von völkerrechtlichen Verträgen ([AS 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [BBl 2004 761](https://fedlex.data.admin.ch/eli/fga/2004/149)[1017](https://fedlex.data.admin.ch/eli/fga/2004/187)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^152-3]: Eingefügt Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-1]: Fassung gemäss Anhang Ziff. III 1 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363), [2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^152-2]: Eingefügt durch Ziff. I 2 des BG vom 8. Okt. 2004 über die vorläufige Anwendung von völkerrechtlichen Verträgen ([AS 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [BBl 2004 761](https://fedlex.data.admin.ch/eli/fga/2004/149), [1017](https://fedlex.data.admin.ch/eli/fga/2004/187)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-3]: Eingefügt Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 153
 
@@ -2393,7 +2396,7 @@ Sie entscheiden endgültig über die Ausübung ihrer Informationsrechte. Sie hab
 
 <sup>7</sup> Sie treffen geeignete Vorkehrungen für den Geheimnisschutz nach Artikel 150 Absatz 3. Zu diesem Zweck sowie für den Fall, dass ihre Informationsrechte zur Wahrnehmung der Oberaufsicht nicht ausreichen, können sie ihre Delegationen mit der Abklärung einer konkreten Frage beauftragen. Sie erlassen für ihren Zuständigkeitsbereich Weisungen zum Geheimnisschutz. Darin beschränken sie insbesondere den Zugang zu Mitberichten.
 
-[^153-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^153-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 [^153-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
 [^153-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -2418,8 +2421,8 @@ Die Delegationen der Aufsichtskommissionen haben zur Erfüllung ihrer Aufgaben n
 
 <sup>3</sup> Die Finanzdelegation und die Geschäftsprüfungsdelegation erhalten laufend sämtliche Beschlüsse des Bundesrates einschliesslich der Anträge und der Mitberichte. Sie legen gemeinsam die Einzelheiten der Zustellung, der Einsichtnahme und der Aufbewahrung fest.[^154-2]
 
-[^154-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^154-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 154a
 
@@ -2433,7 +2436,7 @@ Die Delegationen der Aufsichtskommissionen haben zur Erfüllung ihrer Aufgaben n
 
 <sup>4</sup> Eine Untersuchung durch die Geschäftsprüfungsdelegation hindert die Durchführung von zivil- und verwaltungsgerichtlichen Verfahren sowie von Voruntersuchungen und Gerichtsverfahren in Strafsachen nicht.
 
-[^154a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Mai 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292)[1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
+[^154a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Mai 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292), [1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
 
 #### Art. 155
 
@@ -2644,7 +2647,7 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 <sup>4</sup> Ist streitig, ob die Ermächtigung erforderlich ist, so entscheidet darüber die Untersuchungskommission. Ist die Untersuchungskommission aufgelöst, so entscheiden die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Geschäftsprüfungsdelegation.
 
-[^171-1]: Ausdruck gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Mai 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292)[1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
+[^171-1]: Ausdruck gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Mai 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292), [1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
 
 ## 10. Titel: Schlussbestimmungen
 
@@ -2692,7 +2695,7 @@ Die Artikel 163–171 werden auf die parlamentarischen Untersuchungskommissionen
 
 [^173-subdivu6-1]
 
-[^173-subdivu6-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^173-subdivu6-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 Die Änderungen der Artikel 86 Absatz 4, 97 Absatz 2 und 101 Absätze 2 und 3 gelten für Volksinitiativen, zu welchen der Bundesrat zum Zeitpunkt des Inkrafttretens der Änderung vom 3. Oktober 2008 dieses Gesetzes der Bundesversammlung noch keinen Entwurf eines Bundesbeschlusses über die Volksinitiative unterbreitet hat.
 
@@ -2700,7 +2703,7 @@ Die Änderungen der Artikel 86 Absatz 4, 97 Absatz 2 und 101 Absätze 2 und 3 ge
 
 [^173-subdivu7-1]
 
-[^173-subdivu7-1]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative), in Kraft seit 1. Febr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^173-subdivu7-1]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative), in Kraft seit 1. Febr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699), [3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 Für eidgenössische Volksinitiativen, die im Zeitpunkt des Inkrafttretens der Änderung vom 25. September 2009 dieses Gesetzes hängig sind, gilt das neue Recht.
 
@@ -2725,7 +2728,7 @@ Datum des Inkrafttretens: 1. Dezember 2003[^174-4]
 
 [^u1-1]
 
-[^u1-1]: [AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)
+[^u1-1]: [AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)
 
 Artikel 122 gilt in der neuen Fassung vom 5. Oktober 2007 für Motionen, welche zum Zeitpunkt des Inkrafttretens dieser Änderung noch nicht von beiden Räten angenommen worden sind.
 
@@ -2733,7 +2736,7 @@ Artikel 122 gilt in der neuen Fassung vom 5. Oktober 2007 für Motionen, welche 
 
 [^u2-1]
 
-[^u2-1]: [AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)
+[^u2-1]: [AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)
 
 Für die Behandlung von Gesuchen um die Aufhebung der Immunität und von ähnlichen Gesuchen, die zum Zeitpunkt des Inkrafttretens der Änderung vom 17. Juni 2011 dieses Gesetzes hängig sind, gilt das bisherige Recht.
 
@@ -2741,7 +2744,7 @@ Für die Behandlung von Gesuchen um die Aufhebung der Immunität und von ähnlic
 
 [^u3-1]
 
-[^u3-1]: [AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)
+[^u3-1]: [AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)
 
 Für parlamentarische Initiativen und Standesinitiativen, die zum Zeitpunkt des Inkrafttretens dieser Änderung bereits einer Kommission zur Vorberatung zugewiesen worden sind, gilt das bisherige Recht.
 

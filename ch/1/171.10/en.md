@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 1 January 2024)
+of 13 December 2002 (Status as of 1 June 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -72,9 +72,9 @@ The extraordinary session shall be held immediately if:
 
 <sup>4</sup> An ordinary or an extraordinary session is normally held in both chambers in the same calendar week.[^2-3]
 
-[^2-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^2-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^2-3]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-3]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -136,7 +136,7 @@ For the protection of major security interests or for the protection of personal
 
 <sup>4</sup> If a parliamentary initiative, a motion or a postulate is opposed, a vote may be held only if the originator has been given the opportunity to provide verbal justification. In addition, the person who first requested rejection must at least be given the right to speak.[^6-1]
 
-[^6-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -160,7 +160,7 @@ An individual assembly member has no right to information:
 
 <sup>6</sup> The Presiding College of the council has an unrestricted right to inspect the documents of the Federal Council and the Federal Administration when preparing to mediate.
 
-[^7-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^7-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 8
 
@@ -192,13 +192,13 @@ Assembly members are obliged to attend the meetings of the councils and committe
 
 <sup>3</sup> The votes cast by members of the National Council pursuant to paragraph 1 shall be recorded in the electronic voting system at the same time as votes are cast in the Council. The vote shall not be held again if a Council member is unable to cast his or her vote on technical grounds.
 
-[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) extended until 30 June 2024 by Annex No 1 of the FA of 16 Dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) extended until 30 June 2024 by Annex No 1 of the FA of 16 Dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
 [^10b-1]
 
-[^10b-1]: Inserted by No I of the FA of 10. Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11. Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10b-1]: Inserted by No I of the FA of 10. Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11. Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -222,9 +222,9 @@ On assuming office and at the start of every year, each assembly member must inf
 
 <sup>4</sup> Professional secrecy in terms of the Swiss Criminal Code[^11-4] is reserved.
 
-[^11-1]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-2]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-3]: Inserted by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-1]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-2]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-3]: Inserted by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 11a
@@ -235,7 +235,7 @@ On assuming office and at the start of every year, each assembly member must inf
 
 <sup>2</sup> In the event of any dispute, the committee or delegation concerned shall make a final decision on recusal after hearing the member concerned.
 
-[^11a-1]: Inserted by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^11a-1]: Inserted by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 12
 
@@ -310,9 +310,9 @@ Assembly members may not be held legally accountable for statements they make in
 
 <sup>4</sup> If an application is clearly untenable, the presidents of the competent committees may by mutual agreement deal directly with the application. They shall inform the committees in advance. If the majority in a committee elects to discuss an application, the application is dealt with according to the standard procedure under Article 17*a*.[^17-3]
 
-[^17-1]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^17-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^17-3]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-1]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-3]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 17a
 
@@ -332,7 +332,7 @@ Assembly members may not be held legally accountable for statements they make in
 
 <sup>7</sup> If the accused assembly member is a member of one of the competent committees, he or she shall recuse him or herself.
 
-[^17a-1]: Inserted by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17a-1]: Inserted by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -352,8 +352,8 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 <sup>4</sup> Any arrest made without this authorisation is unlawful.[^18-3]
 
 [^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^18-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 19
 
@@ -377,9 +377,9 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>4</sup> The right to attend a session may not be invoked against a legally enforceable judgment that imposes a custodial sentence the execution of which has been ordered prior to start of the session.
 
-[^20-1]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-1]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 21
 
@@ -391,7 +391,7 @@ In the event of any dispute as to whether authorisation in terms of Articles 17�
 
 [^tit2-chap4-1]
 
-[^tit2-chap4-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit2-chap4-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 21a
 
@@ -438,8 +438,8 @@ The Federal Assembly submits amendments to the Federal Constitution to the vote 
 <sup>4</sup> It shall participate in international parliamentary conferences and cultivate relations with foreign parliaments.
 
 [^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^24-2]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^24-3]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-2]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-3]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 25
 
@@ -520,8 +520,8 @@ It participates by:
 <sup>4</sup> If the Federal Council does not adhere to the mandates it has been given or general principle and planning decisions, it must provide justification for doing so.
 
 [^28-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^28-2]: Amended by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
-[^28-3]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-2]: Amended by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-3]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
 #### Art. 29
 
@@ -634,9 +634,9 @@ The Conference for Coordination has the following duties:
 
 <sup>5</sup> ...[^37-3]
 
-[^37-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^37-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Repealed by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), with effect from 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^37-3]: Repealed by No I of the FA of 15 June 2018, with effect from 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-3]: Repealed by No I of the FA of 15 June 2018, with effect from 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -743,7 +743,7 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 <sup>4</sup> The term of office of the members of the standing committees is determined by the respective regulations of the councils.
 
-[^43-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^43-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 44
 
@@ -762,7 +762,7 @@ In accordance with the terms of reference under this Act or the rules of busines
 
 <sup>2</sup> The committees shall submit reports on the business referred to them and their proposals thereon to their respective council.
 
-[^44-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^44-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 45
 
@@ -823,7 +823,7 @@ The following persons may be connected virtually to a committee meeting taking p
 
 <sup>3</sup> Persons in the service of the Confederation must normally provide written documents and visual presentations for the committees in two official languages. External experts and representatives of cantons and interest groups shall be notified in the invitation to the committee meeting that they should, if possible, take account of committee being multilingual.[^46-1]
 
-[^46-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 47
 
@@ -841,7 +841,7 @@ The following persons may be connected virtually to a committee meeting taking p
 
 <sup>2</sup> The committees may declassify their documents and make them publicly available, with the exception of the minutes of their meetings. The conditions for accessing documents are regulated in an ordinance issued by the Federal Assembly.
 
-[^47a-1]: Inserted by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^47a-1]: Inserted by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 48
 
@@ -863,7 +863,7 @@ The committees shall inform the general public of the results of their deliberat
 
 <sup>5</sup> ...[^49-1]
 
-[^49-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^49-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Finance Committees
 
@@ -877,7 +877,7 @@ The committees shall inform the general public of the results of their deliberat
 
 <sup>3</sup> The Finance Committees shall be invited to report on drafts for appropriation credits and payment limits that are not assigned to them for preliminary examination. They have the same rights as the committees responsible for the preliminary examination with regard to representing their proposals in the Assembly.[^50-2]
 
-[^50-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^50-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^50-2]: Inserted by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 July 2015 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 51
@@ -896,7 +896,7 @@ The committees shall inform the general public of the results of their deliberat
 
 <sup>6</sup> It shall reach decisions by a simple majority of its voting members.
 
-[^51-1]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^51-1]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^51-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
 
 ### Section 3 Control Committees
@@ -925,21 +925,21 @@ The committees shall inform the general public of the results of their deliberat
 
 <sup>5</sup> It reaches decisions by a simple majority of its voting members.
 
-[^53-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^53-2]: Inserted by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^53-3]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^53-2]: Inserted by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-3]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
 ### Section 4 Reporting to the Council
 
 [^tit4-chap4-sec4-1]
 
-[^tit4-chap4-sec4-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit4-chap4-sec4-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 54
 
 [^54-1]
 
-[^54-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^54-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 55
 
@@ -947,7 +947,7 @@ The committees shall inform the general public of the results of their deliberat
 
 The Finance and Control Committees shall report to their respective council once a year on the principal results of their work.
 
-[^55-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^55-1]: Repealed by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 5 Drafting Committee
 
@@ -975,7 +975,7 @@ The Finance and Control Committees shall report to their respective council once
 
 <sup>3</sup> The Drafting Committee is not authorised to carry out any material corrections. If it encounters any material omissions, ambiguities or contradictions, it must inform the Presidents of the councils.
 
-[^57-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^57-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 58
 
@@ -1062,7 +1062,7 @@ They carry out the following tasks:
 - f. they assist the Federal Assembly in its activities with regard to international relations;
 - g. subject to the reservation of the competencies of the organs of the councils, they are responsible for all other tasks relevant to the administration of Parliament.
 
-[^64-1]: Inserted by No I of the FA of 16 March 2018 (Up-to-date parliamentary information and documentation services), in force since 26 Nov. 2018 ([AS 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [BBl 2017 6877](https://fedlex.data.admin.ch/eli/fga/2017/2000)[6889](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
+[^64-1]: Inserted by No I of the FA of 16 March 2018 (Up-to-date parliamentary information and documentation services), in force since 26 Nov. 2018 ([AS 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [BBl 2017 6877](https://fedlex.data.admin.ch/eli/fga/2017/2000), [6889](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
 
 #### Art. 65
 
@@ -1176,7 +1176,7 @@ Business in the Federal Assembly includes in particular:
 <sup>6</sup> If a bill is approved for introduction, it may be abandoned at the request of the committee responsible for the preliminary examination or the Federal Council if it has become unnecessary.[^74-2]
 
 [^74-1]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^74-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^74-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 75
 
@@ -1211,10 +1211,10 @@ A bill may only be submitted with a proposal if thereby:
 
 <sup>4</sup> Proposals that have been rejected by the majority of a committee may be submitted as minority proposals.
 
-[^76-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^76-2]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-3]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-4]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^76-2]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-3]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-4]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 77
 
@@ -1226,7 +1226,7 @@ A bill may only be submitted with a proposal if thereby:
 
 <sup>3</sup> If the urgency clause is rejected, the Drafting Committee shall correct the wording of the provisions on the referendum and its entry into force after consulting the presidents of the committees entrusted with the preliminary examination.[^77-1]
 
-[^77-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^77-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 78
 
@@ -1249,7 +1249,7 @@ The number of votes is always counted in the case of:
 - c. votes on provisions requiring the agreement of a majority of the members of each of the two parliamentary chambers (Art. 159 para. 3 Cst.);
 - d. final votes.[^78-1]
 
-[^78-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^78-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 79
 
@@ -1263,7 +1263,7 @@ The number of votes is always counted in the case of:
 
 <sup>4</sup> The order of voting on the proposals may not be altered by a contingent proposal.[^79-1]
 
-[^79-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^79-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 80
 
@@ -1291,8 +1291,8 @@ A final vote shall be held on:
 
 <sup>3</sup> If one or both chambers reject the bill then the enactment is not passed.
 
-[^81-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^81-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 82
 
@@ -1340,7 +1340,7 @@ The Standing Orders of the Councils shall determine the cases in which the resul
 
 <sup>4</sup> A federal decree on the counter proposal to a popular initiative must be passed on to the other chamber with the federal decree on the related popular initiative.[^86-1]
 
-[^86-1]: Inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^86-1]: Inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 87
 
@@ -1380,7 +1380,7 @@ The Standing Orders of the Councils shall determine the cases in which the resul
 
 The chambers may in response to a joint motion from their respective preliminary consultation committees abandon a bill during or on completion of the procedure for the resolution of differences.
 
-[^90-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^90-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 91
 
@@ -1392,7 +1392,7 @@ The chambers may in response to a joint motion from their respective preliminary
 
 <sup>3</sup> The committee president of the first chamber shall chair the conciliation committee. The president's deputy and the members of the conciliation committee are appointed in accordance with the relevant provisions of the Standing Orders.[^91-1]
 
-[^91-1]: Second sentence inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^91-1]: Second sentence inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 92
 
@@ -1428,7 +1428,7 @@ Where a compromise motion on a Federal Decree on the Federal Budget or a supplem
 
 <sup>3</sup> If any motion is rejected, the related provision shall be deleted.
 
-[^94a-1]: Inserted by No I of the FA of 22 June 2007 (Legislature Plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^94a-1]: Inserted by No I of the FA of 22 June 2007 (Legislature Plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 [^94a-2]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 [^94a-3]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
@@ -1449,8 +1449,8 @@ If the divergent decisions of the two chambers relate to an entire item of busin
 - i.[^95-2] ...
 - j. the continuation of an item of business in respect of which a motion for abandonment has been made.
 
-[^95-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^95-2]: Repealed by No I of the FA of 17 June 2011 (Requests to lift Immunity), with effect from 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^95-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^95-2]: Repealed by No I of the FA of 17 June 2011 (Requests to lift Immunity), with effect from 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 ### Chapter 3 Procedure for Popular Initiatives
 
@@ -1479,8 +1479,8 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>3</sup> If the Federal Council does not submit its dispatch and the draft of a federal decree to the Federal Assembly in due time, a relevant committee may draw up the necessary bill.[^97-2]
 
-[^97-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^97-2]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-2]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 98
 
@@ -1492,7 +1492,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>3</sup> If the compromise motion on the voting recommendation is rejected, in derogation from Article 93 para. 2 only the provision concerned shall be deleted.[^98-1]
 
-[^98-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^98-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 99
 
@@ -1502,7 +1502,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>2</sup> The Drafting Committee reserves the right to correct obvious translation errors and to make any formal adjustments necessary to incorporate the proposed constitutional amendment into the Constitution. The Committee shall give the initiative committee the opportunity to express its opinion.[^99-1]
 
-[^99-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^99-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 ### b. Popular Initiative in the Form of a Draft Proposal
 
@@ -1522,7 +1522,7 @@ The Federal Assembly shall decide within 30 months of the submission of a popula
 
 <sup>3</sup> The final vote on the federal decree on the counter-proposal shall take place no more than eight days before the end of the session which precedes the expiry of the deadline for dealing with the popular initiative. If the federal decree is rejected by either chamber in the final vote, the conciliation committee shall submit a proposal on the voting recommendation in the federal decree on the popular initiative. A counter-proposal may no longer be put forward.
 
-[^101-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^101-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 102
 
@@ -1537,7 +1537,7 @@ Where the Federal Assembly submits a counter proposal in addition to the popular
 
 <sup>2</sup> If the Assembly recommends the acceptance of both bills, it shall recommend that voters accept the counter-proposal in the third question.
 
-[^102-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^102-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### c. Popular Initiative in the Form of a General Proposal
 
@@ -1571,7 +1571,7 @@ Where the Federal Assembly submits a counter proposal in addition to the popular
 
 <sup>2</sup> If the chambers are unable to agree on an extension of deadline, no extension shall be granted.
 
-[^105-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative) ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)). Repealed by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), with effect from 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^105-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative) ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699), [3609](https://fedlex.data.admin.ch/eli/fga/2009/701)). Repealed by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), with effect from 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 106
 
@@ -1591,7 +1591,7 @@ If the chambers are unable to reach a unanimous decision by the statutory deadli
 
 <sup>3</sup> A committee may submit a bill to its Council by means of a parliamentary initiative.
 
-[^107-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^107-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 108
 
@@ -1615,11 +1615,11 @@ The parliamentary initiative of a council member or of a parliamentary group sha
 
 <sup>5</sup> If the author of an initiative leaves the council and if no other assembly member takes up the initiative during the first week of the following session, the initiative shall be abandoned without a council decision unless the committee has already endorsed the initiative.[^109-5]
 
-[^109-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
-[^109-2]: Fourth sentence inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^109-3]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
-[^109-4]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^109-5]: Inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
+[^109-2]: Fourth sentence inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-3]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
+[^109-4]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^109-5]: Inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 110
 
@@ -1649,7 +1649,7 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 <sup>3</sup> The report explaining the committee bill to the Federal Assembly shall fulfil the requirements for a Federal Council Dispatch (Art. 141).
 
-[^111-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 112
 
@@ -1667,7 +1667,7 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Amended by Art. 12 No 1 of the Consultation Procedure Act of 18 March 2005, in force since 1 Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
-[^112-3]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-3]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
@@ -1693,8 +1693,8 @@ The committee may request the council to abandon the initiative if:
 
 <sup>2</sup> In the committee of the second chamber, the draft from the first chamber is presented by a member of the committee that prepared it.
 
-[^114-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^114-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### Chapter 5 Procedure for Cantonal Initiatives
 
@@ -1706,7 +1706,7 @@ The committee may request the council to abandon the initiative if:
 
 <sup>2</sup> The reasons for the cantonal initiative must be stated. The statement of reasons must in particular include the aims of the bill.
 
-[^115-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^115-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 116
 
@@ -1722,7 +1722,7 @@ The committee may request the council to abandon the initiative if:
 
 <sup>4</sup> The committee of the first chamber shall hear a representative of the Canton at the preliminary examination.
 
-[^116-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
+[^116-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
 
 #### Art. 117
 
@@ -1759,7 +1759,7 @@ Parliamentary procedural requests are:
 
 <sup>5</sup> In the case of procedural requests made to the offices of the chambers and to the federal courts, Articles 120–125 apply by analogy.[^118-2]
 
-[^118-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^118-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^118-2]: The correction by the Federal Assembly Drafting Committee of 15 Feb. 2018, published 27 Feb. 2018, relates to the French text only ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
@@ -1783,10 +1783,10 @@ A procedural request made by a council member or a parliamentary group shall be 
 
 <sup>6</sup> ...[^119-4]
 
-[^119-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-2]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Motions
 
@@ -1836,7 +1836,7 @@ A motion accepted by the first chamber without the agreement of the second chamb
 - a. it relates to organisational or procedural issues of the chamber to which it has been submitted; or
 - b. it is a committee motion and an identical committee motion is accepted in the other chamber.
 
-[^121-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^121-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-3]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-4]: Amended by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
@@ -1872,7 +1872,7 @@ A request for a motion to be closed may also be made if the mandate has not been
 
 <sup>6</sup> If the Federal Council fails to comply with the period fixed, a decision on extending the period allowed or on closing the motion shall be taken in the next ordinary session in both chambers at the request of the committees responsible.
 
-[^122-1]: Amended by No I of the FA of 5 Oct. 2007 (Binding effect of the motion), in force since 26 May 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). See also the transitional provision for this amendment at the end of this text.
+[^122-1]: Amended by No I of the FA of 5 Oct. 2007 (Binding effect of the motion), in force since 26 May 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). See also the transitional provision for this amendment at the end of this text.
 [^122-2]: Amended by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-3]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-4]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1899,7 +1899,7 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 <sup>5</sup> A committee or the Federal Council may request that a postulate be closed if it has been fulfilled or if continuing with the postulate cannot be justified. The chamber that has approved the postulate must consent to it being closed.
 
-[^124-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^124-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 4 Interpellations and Questions
 
@@ -1921,7 +1921,7 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 [^tit5-chap7-sec1-1]
 
-[^tit5-chap7-sec1-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec1-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 126
 
@@ -1940,7 +1940,7 @@ The presidents of the committees responsible for the preliminary examination in 
 - a. its aim cannot be achieved by a parliamentary initiative, a procedural request or a proposal;
 - b. its content is clearly absurd, querulous or offensive.
 
-[^126-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^126-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 127
 
@@ -1948,7 +1948,7 @@ The presidents of the committees responsible for the preliminary examination in 
 
 If the committee endorses a petition, it shall take up the matter to which the petition relates by preparing a parliamentary initiative or a procedural request.
 
-[^127-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^127-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 128
 
@@ -1964,13 +1964,13 @@ The committee shall request its council not to endorse the petition if it:
 
 <sup>2</sup> If the council disregards the proposal of the committee and endorses the petition, it shall refer the petition and mandate back to the committee and instruct the committee to take up the matter in a parliamentary initiative or a procedural request.
 
-[^128-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^128-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Submissions
 
 [^tit5-chap7-sec2-1]
 
-[^tit5-chap7-sec2-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec2-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 129
 
@@ -1992,7 +1992,7 @@ A submission on the conduct of business and on the financial policy of the Feder
 
 [^tit6-1]
 
-[^tit6-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Chapter 1 General Provisions on Elections
 
@@ -2051,7 +2051,7 @@ Excluded from the election are:
 
 <sup>3</sup> If elections are held to more than one vacant seat, the order in which the elections are held is determined by the length of period in office of the previous office holder.
 
-[^133-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^133-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 134
 
@@ -2122,7 +2122,7 @@ The Federal Assembly shall conduct other elections provided for by the Constitut
 
 [^tit6-chap6-1]
 
-[^tit6-chap6-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-chap6-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 140a
 
@@ -2172,15 +2172,15 @@ In the dispatch, the Federal Council shall provide justification for the bill an
 - i. the consequences for gender equality;
 - j.[^141-9] the consequences of the bill for the Swiss living abroad.
 
-[^141-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-3]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-4]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-5]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^141-6]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-7]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-8]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-9]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-3]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-4]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-5]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^141-6]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-7]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-8]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-9]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 142
 
@@ -2232,7 +2232,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>3</sup> In its annual report, the Federal Council presents the main aspects of its activities during the financial year. It provides information on whether the main annual objectives for the financial year have been achieved, on the implementation of the legislature plan and of the legislative programme and on the status of the indicators relevant to the general assessment of the situation and the verification of the achievement of objectives. It must justify any divergences from the planned objectives as well as any unplanned activities.[^144-1]
 
-[^144-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^144-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 145
 
@@ -2242,7 +2242,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>2</sup> The Federal Assembly shall approve the report by means of a simple Federal Decree.
 
-[^145-1]: Amended by No I of the FA of 3 Oct. 2008 (Annual Report of the Federal Council), in force since 1 March 2009 ([AS 2009 697](https://fedlex.data.admin.ch/eli/oc/2009/115); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229)[1105](https://fedlex.data.admin.ch/eli/fga/2008/232)).
+[^145-1]: Amended by No I of the FA of 3 Oct. 2008 (Annual Report of the Federal Council), in force since 1 March 2009 ([AS 2009 697](https://fedlex.data.admin.ch/eli/oc/2009/115); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229), [1105](https://fedlex.data.admin.ch/eli/fga/2008/232)).
 
 #### Art. 146
 
@@ -2256,7 +2256,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>4</sup> The dispatch shall present the legislature financial plan. This shall set out the financial requirements for the legislature period, and indicate how the requirements are to be met. The objectives and measures of the legislature plan and the legislature financial plan shall be coordinated with each other in terms of subject matter and time scheduling.
 
-[^146-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 147
 
@@ -2271,7 +2271,7 @@ The Standing Orders of the Councils may provide that:
 - a. a council, in considering the legislature plan, decides only on proposals and minority proposals made by the committee responsible for the preliminary examination; and
 - b. other persons entitled to submit proposals must submit their proposals to this committee before the start of the detailed discussion of the federal decree.
 
-[^147-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^147-1]: Amended by No I of the FA of 22 June 2007 (Legislature plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 148
 
@@ -2285,10 +2285,13 @@ The Standing Orders of the Councils may provide that:
 
 <sup>3bis</sup> It shall report regularly to the Federal Assembly on the achievement of the strategic goals laid down for the units that have become autonomous in accordance with Article 8 paragraph 5 of the Government and Administration Organisation Act of 21 March 1997[^148-1].[^148-2]
 
+<sup>3ter</sup> Once the European Commission’s legislative proposal for the multiannual financial framework of the European Union has been made available, the Federal Council shall submit a planning report to the Federal Assembly on all its intended associations with the programmes and agencies of the European Union in areas outside of access to the internal market.[^148-3]
+
 <sup>4</sup> The Federal Assembly may also take decisions in principle and planning decisions on important plans and reports in the form of a simple federal decree or a federal decree.
 
 [^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^148-2]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-2]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-3]: Inserted by No I of the FA of 22 Dec. 2023 (Planning Report), in force since 1 June 2024 ([AS 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
 
@@ -2329,7 +2332,7 @@ They have no right to information:
 
 <sup>7</sup> The Presiding College of the Council, when preparing to mediate, may inspect the documents held by the Federal Council and the Federal Administration without limitation.
 
-[^150-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^150-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 151
 
@@ -2368,9 +2371,9 @@ The Federal Council shall consult the committees responsible before it:
 
 <sup>5</sup> The committees responsible for foreign policy or other relevant committees may request that they be informed or consulted by the Federal Council.
 
-[^152-1]: Amended by Annex No III 1 of the Swiss Abroad Act of 26 Sept. 2014, in force since 1 Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^152-2]: Inserted by No I 2 of the FA of 8 Oct. 2004 on the Provisional Application of International Treaties ([AS 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [BBl 2004 761](https://fedlex.data.admin.ch/eli/fga/2004/149)[1017](https://fedlex.data.admin.ch/eli/fga/2004/187)). Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend and Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^152-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend and Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-1]: Amended by Annex No III 1 of the Swiss Abroad Act of 26 Sept. 2014, in force since 1 Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363), [2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^152-2]: Inserted by No I 2 of the FA of 8 Oct. 2004 on the Provisional Application of International Treaties ([AS 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [BBl 2004 761](https://fedlex.data.admin.ch/eli/fga/2004/149)[1017](https://fedlex.data.admin.ch/eli/fga/2004/187)). Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend and Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend and Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 153
 
@@ -2395,7 +2398,7 @@ Their decisions on exercising their rights to information are final. They have n
 
 <sup>7</sup> They shall take appropriate precautions to preserve secrecy in accordance with Article 150 paragraph 3. For this purpose, as well as in cases where their rights to information are insufficient for the proper exercise of supervisory control, they may mandate their delegations to investigate any specific issue. They shall issue directives on the preservation of secrecy in their area of responsibility, which shall in particular restrict access to accompanying reports.
 
-[^153-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^153-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 [^153-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
 [^153-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -2420,8 +2423,8 @@ For the purpose of fulfilling their duties, the delegations to the supervisory c
 
 <sup>3</sup> All Federal Council decisions including the proposals and accompanying reports shall be notified to the Finance Delegation and the Control Delegation as they are made. They shall jointly specify the details on service, inspection and safekeeping.[^154-2]
 
-[^154-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^154-2]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209)[1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-2]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 154a
 
@@ -2435,7 +2438,7 @@ For the purpose of fulfilling their duties, the delegations to the supervisory c
 
 <sup>4</sup> An investigation by the Control Delegation shall not preclude the conduct of civil or administrative proceedings or of preliminary investigations and court proceedings in criminal cases.
 
-[^154a-1]: Inserted by No I of the FA of 17 Dec. 2004, in force since 1 May 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292)[1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
+[^154a-1]: Inserted by No I of the FA of 17 Dec. 2004, in force since 1 May 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292), [1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
 
 #### Art. 155
 
@@ -2646,7 +2649,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>4</sup> In the event of any dispute as to whether authorisation is required, the investigation committee decides. If the investigation committee has been disbanded, the president and the vice-president of the Control Delegation decide.
 
-[^171-1]: Term in accordance with No I of the FA of 17 Dec. 2004, in force since 1 May 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292)[1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
+[^171-1]: Term in accordance with No I of the FA of 17 Dec. 2004, in force since 1 May 2005 ([AS 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [BBl 2004 1469](https://fedlex.data.admin.ch/eli/fga/2004/292), [1477](https://fedlex.data.admin.ch/eli/fga/2004/294)).
 
 ## Title 10 Final Provisions
 
@@ -2694,7 +2697,7 @@ Articles 163–171 apply to parliamentary investigation committees that are appo
 
 [^173-subdivu6-1]
 
-[^173-subdivu6-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^173-subdivu6-1]: Inserted by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 The amendments to Articles 86 paragraph 4, 97 paragraph 2 and 101 paragraphs 2 and 3 apply to popular initiatives in respect of which the Federal Council has yet to submit a draft federal decree on the popular initiative to the Federal Assembly as of the commencement of the amendment to this Act of 3 October 2008.
 
@@ -2702,7 +2705,7 @@ The amendments to Articles 86 paragraph 4, 97 paragraph 2 and 101 paragraphs 2 a
 
 [^173-subdivu7-1]
 
-[^173-subdivu7-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^173-subdivu7-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699), [3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 The new law applies to federal popular initiatives that are pending when the Amendment to this Act of 25 September 2009 comes into force.
 
@@ -2727,7 +2730,7 @@ Commencement Date: 1 Dec. 2003[^174-4]
 
 [^u1-1]
 
-[^u1-1]: [AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)
+[^u1-1]: [AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)
 
 Article 122 applies in its new version of 5 October 2007 to motions that have not yet been adopted by both chambers at the time at which this amendment takes effect.
 
@@ -2735,7 +2738,7 @@ Article 122 applies in its new version of 5 October 2007 to motions that have no
 
 [^u2-1]
 
-[^u2-1]: [AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)
+[^u2-1]: [AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)
 
 The previous law applies when dealing with applications to lift immunity and similar applications that were pending when the Amendment to this Act of 17 June 2011 came into force.
 
@@ -2743,7 +2746,7 @@ The previous law applies when dealing with applications to lift immunity and sim
 
 [^u3-1]
 
-[^u3-1]: [AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)
+[^u3-1]: [AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)
 
 The previous law applies to parliamentary initiatives and cantonal initiatives that have already been assigned to a committee for preliminary examination when this amendment comes into force.
 

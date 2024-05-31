@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° gennaio 2024)
+del 13 dicembre 2002 (Stato 1° giugno 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2292,12 +2292,15 @@ I regolamenti delle Camere possono prevedere che:
 
 <sup>3</sup> Il Consiglio federale sottopone periodicamente all’Assemblea federale un rapporto sulla politica estera della Svizzera.
 
-<sup>3bis</sup> Il Consiglio federale riferisce periodicamente all’Assemblea federale sul raggiungimento degli obiettivi strategici fissati per le unità rese autonome di cui all’articolo 8 capoverso 5 della legge del 21 marzo 1997[^148-1] sull’organizzazione del Governo e dell’Amministrazione. [^148-2]
+<sup>3bis</sup> Il Consiglio federale riferisce periodicamente all’Assemblea federale sul raggiungimento degli obiettivi strategici fissati per le unità rese autonome di cui all’articolo 8 capoverso 5 della legge del 21 marzo 1997[^148-1] sull’organizzazione del Governo e dell’Amministrazione.[^148-2]
+
+<sup>3ter</sup> Dopo che la Commissione europea ha presentato la proposta legislativa relativa al quadro finanziario pluriennale dell’Unione europea, il Consiglio federale sottopone all’Assemblea federale un rapporto d’indirizzo concernente i programmi e le agenzie dell’Unione europea ai quali intende associarsi nei settori che esulano dall’accesso al mercato interno.[^148-3]
 
 <sup>4</sup> Su altre pianificazioni e rapporti importanti l’Assemblea federale può prendere decisioni di principio e programmatiche mediante decreto federale semplice o meno.
 
 [^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^148-2]: Introdotto dal n. I 1 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-3]: Introdotto dal n. I della LF del 22 dic. 2023 (Rapporto d’indirizzo), in vigore dal 1° giu. 2024 (RU **20****24** 200; FF **20****23** 1081, 1482).
 
 #### Art. 149
 

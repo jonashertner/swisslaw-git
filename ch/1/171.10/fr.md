@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240101-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240101/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2024)
+du 13 décembre 2002 (État le 1<sup>er</sup> juin 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2284,10 +2284,13 @@ Les règlements des conseils peuvent prévoir:
 
 <sup>3bis</sup> Le Conseil fédéral adresse périodiquement à l’Assemblée fédérale un rapport sur la réalisation des objectifs stratégiques qui ont été fixés pour les entités devenues autonomes au sens de l’art. 8, al. 5, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^148-1].[^148-2]
 
+<sup>3ter</sup> Une fois que la Commission européenne a présenté sa proposition législative relative au cadre financier pluriannuel de l’Union européenne, il soumet à l’Assemblée fédérale un rapport de planification portant sur toutes les associations qu’il envisage de faire aux programmes et aux agences de l’Union européenne dans les domaines ne relevant pas de l’accès au marché intérieur.[^148-3]
+
 <sup>4</sup> L’Assemblée fédérale peut prendre les arrêtés de principe et de planification concernant d’autres planifications ou rapports importants, sous la forme d’arrêtés fédéraux simples ou d’arrêtés fédéraux.
 
 [^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^148-2]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-3]: Introduit par le ch. I de la LF du 22 déc. 2023 (Rapport de planification), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [FF 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
 
