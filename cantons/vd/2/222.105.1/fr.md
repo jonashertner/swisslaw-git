@@ -4,7 +4,7 @@ number: "222.105.1"
 title: ARRÊTÉ du 18.01.2006 établissant un contrat-type de travail pour le personnel des ménages privés (ACTT-mpr)
 short: ACTT-mpr
 language: fr
-version: 2015-08-01
+version: 2024-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.105.1?id=e6192eb5-73ad-4bf0-87dc-0783298b6e8d"
 ---
 
@@ -236,9 +236,9 @@ arrête
 
 **Salaires minimaux [^19-1]**
 
-<sup>1</sup> Les salaires bruts minimaux sont les suivants :
+<sup>1</sup> Les salaires bruts minimaux sont les suivants:
 
-\- employé qualifié avec CFC (ou titre équivalent) Fr. 22.40/h. - employé qualifié avec AFP Fr. 20.35/h. - employé non qualifié avec au moins 4 ans d'expérience Fr. 20.35/h. professionnelle dans la branche - employé non qualifié Fr. 18.55/h.
+\- employé qualifié avec CFC (ou titre équivalent) Fr. 24.05/h - employé qualifié avec AFP Fr. 21.85/h - employé non qualifié avec au moins 4 ans d'expérience professionnelle dans la branche Fr. 21.85/h - employé non qualifié Fr. 19.95/h
 
 <sup>2</sup> …
 
