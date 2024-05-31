@@ -4,13 +4,12 @@ number: "177.1"
 title: Gesetz über den Anwaltsberuf zur Vertretung von Parteien vor den Gerichtsbehörden
 short: "Gesetz über den Anwaltsberuf, AnwG"
 language: de
-version: 2022-01-07
-valid_until: 2024-05-31
-version_adopted: 2021-09-09
+version: 2024-06-01
+version_adopted: 2023-11-16
 adopted: 2001-02-06
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/177.1"
-pdf: "https://lex.vs.ch/api/de/versions/3009/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3009/pdf_file"
 
 (Gesetz über den Anwaltsberuf, AnwG)
 
-vom 06.02.2001 (Stand 07.01.2022)
+vom 06.02.2001 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -76,6 +75,7 @@ verordnet:
 - c) nimmt sie die notwendigen Eintragungen, Publikationen und Löschungen vor;
 - d) bewilligt sie die Einsichtnahme ins Register und bearbeitet Auskunftsgesuche;
 - e) ordnet sie die anderen vom Bundesrecht vorgesehenen Massnahmen betreffend die administrative Aufsicht an;
+- e<sup>bis</sup>) prüft sie die Fähigkeit des Anwalts, Parteien in Fällen des Verwaltungsverfahrens zu vertreten;
 - f) publiziert sie im Amtsblatt jede Eintragung im Register und zu Beginn des Jahres die Liste der im Anwaltsregister oder in der öffentlichen Liste eingetragenen Anwälte;
 - g) bezeichnet einen oder mehrere stellvertretende Anwälte.
 
@@ -155,9 +155,9 @@ verordnet:
 
 <sup>2</sup> Der andere Teil des Praktikums kann, vor oder nach dem im Absatz 1 erwähnten Praktikum, absolviert werden:
 
-- a) im Wallis auf der Kanzlei eines Walliser Gerichtes oder der Staatsanwaltschaft, bei einem Rechtsdienst der Kantonsverwaltung oder einer Gemeindeverwaltung oder beim Rechtsdienst eines anderen Walliser Organismus;
-- b) in einem anderen Kanton bei einem im kantonalen Register eingetragenen Anwalt, auf der Kanzlei einer Gerichtsbehörde oder der Staatsanwaltschaft, bei einem Rechtsdienst der Kantonsverwaltung oder einer Gemeindeverwaltung oder beim Rechtsdienst eines anderen Organismus, oder
-- c) ei einem Rechtsdienst der Bundesverwaltung oder bei einer eidgenössischen Gerichtsbehörde.
+- a) im Wallis auf der Kanzlei einer Gerichtsbehörde oder der Staatsanwaltschaft, bei einer Dienstelle der Kantonsverwaltung oder einer Gemeindeverwaltung oder bei einer Dienstelle eines anderen Walliser Organismus, die eine für die Anwaltsausbildung nützliche juristische Tätigkeit anbietet;
+- b) in einem anderen Kanton bei einem im kantonalen Register eingetragenen Anwalt, auf der Kanzlei einer Gerichtsbehörde oder der Staatsanwaltschaft, bei einer Dienstelle der Kantonsverwaltung oder einer Gemeindeverwaltung oder bei einer Dienstelle eines anderen Organismus, die eine für die Anwaltsausbildung nützliche juristische Tätigkeit anbietet, oder
+- c) in einer Dienstelle der Bundesverwaltung, die eine für die Anwaltsausbildung nützliche juristische Tätigkeit anbietet oder bei einer eidgenössischen Gerichtsbehörde.
 
 <sup>3</sup> Bei der Anmeldung zur Prüfung sorgt der Anwaltspraktikant dafür, dass er mit Unterlagen belegen kann, dass er die vom Gesetz vorgeschriebene Praktikumsdauer absolviert hat.
 
@@ -299,7 +299,7 @@ verordnet:
 
 **Fähigkeit des Anwalts, Parteien zu vertreten**
 
-<sup>1</sup> Es liegt an der Behörde, die mit einer hängigen Angelegenheit befasst ist, zu prüfen, ob ein Anwalt in dieser Angelegenheit Parteien vertreten kann.
+<sup>1</sup> Ausgenommen in Angelegenheiten des Verwaltungsverfahrens, liegt es an der Behörde, die mit einer hängigen Angelegenheit befasst ist, zu prüfen, ob ein Anwalt in dieser Angelegenheit Parteien vertreten kann.
 
 <sup>2</sup> Rechtsmittel können gemäss dem Verfahren, das für diese Angelegenheit gilt, eingelegt werden.
 
@@ -402,5 +402,13 @@ verordnet:
 **Frist für das Bestehen der Prüfung**
 
 <sup>1</sup> Personen, die vor Inkrafttreten der Gesetzesänderung zum Praktikum zugelassen wurden, können während einer Übergangsfrist von 5 Jahren das alte Recht in Anspruch nehmen, um die Prüfung zu bestehen.
+
+## T3 Übergangsbestimmung der Änderung vom 16. November 2023
+
+#### Art. T3-1
+
+**Verfahren betreffend die Fähigkeit des Anwalts, Parteien in Verwaltungsverfahren zu vertreten, vor der Änderung vom 16. November 2023**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens der vorliegenden Änderung hängigen Verfahren betreffend die Fähigkeit des Anwalts, Parteien in Verwaltungsverfahren zu vertreten, unterstehen dem alten Recht.
 
 CSW BO/Abl. 11/2001, 19/2002

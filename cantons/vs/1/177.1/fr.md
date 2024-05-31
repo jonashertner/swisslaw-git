@@ -4,13 +4,12 @@ number: "177.1"
 title: "Loi sur la profession d'avocat pratiquant la représentation en justice"
 short: "Loi sur la profession d'avocat, LPAv"
 language: fr
-version: 2022-01-07
-valid_until: 2024-05-31
-version_adopted: 2021-09-09
+version: 2024-06-01
+version_adopted: 2023-11-16
 adopted: 2001-02-06
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/177.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3009/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3312/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3009/pdf_file"
 
 (Loi sur la profession d'avocat, LPAv)
 
-du 06.02.2001 (état 07.01.2022)
+du 06.02.2001 (état 01.06.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -76,6 +75,7 @@ ordonne:
 - c) procède aux inscriptions, publications, communications et radiations utiles;
 - d) autorise la consultation du registre et traite des demandes de renseignement;
 - e) prend les autres mesures prévues par le droit fédéral se rapportant à la surveillance administrative;
+- e<sup>bis</sup>) examine la capacité de postuler de l'avocat lors des affaires qui se déroulent en procédure administrative;
 - f) publie dans le Bulletin officiel toute inscription dans le registre et, au début de chaque année, la liste des avocats inscrits au registre cantonal ou au tableau public;
 - g) désigne un ou plusieurs avocats suppléants.
 
@@ -155,9 +155,9 @@ ordonne:
 
 <sup>2</sup> L'autre partie du stage, qui peut être exécutée avant ou après le stage mentionné à l'alinéa 1, peut se dérouler:
 
-- a) en Valais, auprès d'un greffe d'une autorité judiciaire ou du Ministère public, d'un service juridique de l'Administration cantonale ou communale ou d'un service juridique d'un autre organisme valaisan;
-- b) dans un autre canton, auprès d'un avocat inscrit au registre cantonal, d'un greffe d'une autorité judiciaire ou du Ministère public, d'un service juridique de l'Administration cantonale ou communale ou d'un service juridique d'un autre organisme, ou
-- c) dans un service juridique de l'Administration fédérale ou auprès d'une autorité judiciaire fédérale.
+- a) en Valais, auprès d'un greffe d'une autorité judiciaire ou du Ministère public, d'un service de l'Administration cantonale ou communale ou d'un service d'un autre organisme valaisan qui offre une activité juridique utile à la formation d'avocat;
+- b) dans un autre canton, auprès d'un avocat inscrit au registre cantonal, d'un greffe d'une autorité judiciaire ou du Ministère public, d'un service de l'Administration cantonale ou communale ou d'un service d'un autre organisme qui offre une activité juridique utile à la formation d'avocat, ou
+- c) dans un service de l'Administration fédérale qui offre une activité juridique utile à la formation d'avocat ou auprès d'une autorité judiciaire fédérale.
 
 <sup>3</sup> Lors de son inscription à l'examen, l'avocat-stagiaire veille à démontrer, par pièces, qu'il a effectué la durée de stage requise par la loi.
 
@@ -299,7 +299,7 @@ ordonne:
 
 **Capacité de postuler de l'avocat**
 
-<sup>1</sup> L'examen de la capacité de postuler de l'avocat, dans une affaire pendante, appartient à l'autorité qui en est saisie.
+<sup>1</sup> A l’exception des affaires qui se déroulent en procédure administrative, l'examen de la capacité de postuler de l'avocat, dans une affaire pendante, appartient à l'autorité qui en est saisie.
 
 <sup>2</sup> Les voies de droit sont celles prévues par la procédure applicable à cette affaire.
 
@@ -402,5 +402,13 @@ ordonne:
 **Délai pour réussir l’examen**
 
 <sup>1</sup> Les personnes admises au stage avant l'entrée en vigueur de la modification de la loi peuvent bénéficier de l'ancien régime pendant une période transitoire de 5 ans pour réussir l'examen.
+
+## T3 Disposition transitoire de la modification du 16 novembre 2023
+
+#### Art. T3-1
+
+**Procédures concernant la capacité de postuler de l’avocat en procédure administrative antérieures à la modification du 16 novembre 2023**
+
+<sup>1</sup> Les procédures concernant la capacité de postuler de l’avocat en procédure administrative pendantes lors de l’entrée en vigueur de la présente modification sont régies par l'ancien droit.
 
 RCV BO/Abl. 11/2001, 19/2002
