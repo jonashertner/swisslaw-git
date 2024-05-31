@@ -1,34 +1,34 @@
 ---
 canton: VS
 number: "800.300"
-title: Verordnung über die Versorgungsqualität und Patientensicherheit
+title: "Verordnung über die Versorgungsqualität und Patientensicherheit *"
 short: VVQPS
 language: de
-version: 2014-09-26
-corrected: 2017-10-06
-version_adopted: 2014-09-03
+version: 2024-06-01
+version_adopted: 2024-06-05
 adopted: 2014-09-03
 in_force: 2014-09-26
 url: "https://lex.vs.ch/app/de/texts_of_law/800.300"
-pdf: "https://lex.vs.ch/api/de/versions/252/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3319/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Versorgungsqualität und Patientensicherheit
 
-vom 3. September 2014
+(VVQPS)
+
+vom 03.09.2014 (Stand 01.06.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 40 bis 48 sowie Artikel 90 bis 91ter des Gesundheitsgesetzes vom 14. Februar 2008 (GG);
+eingesehen die Artikel 40 bis 44 sowie Artikel 78 und 85 des Gesundheitsgesetzes vom 12. März 2020 (GG);
 
-auf Antrag des Departements für Gesundheit, Soziales und Kultur,
+auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -36,7 +36,7 @@ verordnet:
 
 <sup>1</sup> Die vorliegende Verordnung regelt die Zusammensetzung, die Zuständigkeit und die Arbeitsweise der kantonalen Kommission für die Patientensicherheit und die Pflegequalität (nachfolgend: die KPSPQ).
 
-<sup>2</sup> Sie legt die Rolle und den Kompetenzbereich der KPSPQ sowie der Verantwortlichen der Krankenanstalten und -institutionen im Sinne von Artikel 85 des Gesundheitsgesetzes vom 14. Februar 2008 (nachfolgend: GG) und dem ambulanten Sektor fest.
+<sup>2</sup> Sie legt die Rolle und den Kompetenzbereich der KPSPQ sowie der Verantwortlichen der Krankenanstalten und -institutionen im Sinne von Artikel 73 des Gesundheitsgesetzes (GG) und dem ambulanten Sektor fest.
 
 <sup>3</sup> Sie legt die Grundsätze für die Aufsicht über die Versorgungsqualität und Patientensicherheit fest, insbesondere die Verwendung von Qualitätsindikatoren.
 
@@ -48,13 +48,13 @@ verordnet:
 
 <sup>2</sup> Unter Patientensicherheit wird der Umgang mit unerwünschten Ereignissen bei der Behandlung und Betreuung von Patientinnen und Patienten sowie die Prävention von unerwünschten Ereignissen verstanden.
 
-### 2. Abschnitt: Kantonale Kommission für die Patientensicherheit und die Pflegequalität (KPSPQ)
+## 2 Kantonale Kommission für die Patientensicherheit und die Pflegequalität (KPSPQ)
 
 #### Art. 3
 
 **Ernennung**
 
-Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt der Staatsrat zu Beginn jeder Verwaltungsperiode den Präsidenten oder die Präsidentin, die ordentlichen Mitglieder sowie die Vertreterinnen und Vertreter des Gesundheitswesens.
+<sup>1</sup> Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt der Staatsrat zu Beginn jeder Verwaltungsperiode den Präsidenten oder die Präsidentin, die ordentlichen Mitglieder sowie die Vertreterinnen und Vertreter des Gesundheitswesens.
 
 #### Art. 4
 
@@ -66,7 +66,7 @@ Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt de
 
 <sup>3</sup> Die KPSPQ kann bei Bedarf externe Expertinnen und Experten hinzuziehen.
 
-<sup>4</sup> Im Übrigen organisiert sich die KPSPQ eigenständig. Das Walliser Gesundheitsobservatorium (WGO) gewährleistet im Sinne einer delegierten Tätigkeit gemäss Artikel 6 GG das Sekretariat.
+<sup>4</sup> Im Übrigen organisiert sich die KPSPQ eigenständig. Das Walliser Gesundheitsobservatorium (WGO) gewährleistet im Sinne einer delegierten Tätigkeit gemäss Artikel 8 GG das Sekretariat.
 
 #### Art. 5
 
@@ -75,22 +75,16 @@ Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt de
 <sup>1</sup> Die KPSPQ besteht aus sieben bis neun ordentlichen Mitgliedern, die aufgrund ihrer Fachkenntnisse und Berufserfahrung in den folgenden Bereichen ausgewählt werden:
 
 - a) Spitalversorgung;
-
 - b) Qualitätssicherung im Bereich der Gesundheitsversorgung;
-
 - c) Gesundheitsökonomie;
-
 - d) Pflege und ärztliche Versorgung;
-
-- e) Patientenrechte
+- e) Patientenrechte.
 
 <sup>2</sup> Als ordentliche Mitglieder gelten Ebenfalls:
 
-- a) der Kantonsarzt bzw. die Kantonsärztin als Vertretung des Gesundheitsdepartements;
-
-- b) eine Patientenvertreterin bzw. ein Patientenvertreter;
-
-- c) eine Vertreterin bzw. ein Vertreter des Walliser Gesundheitsobservatoriums mit beratender Stimme.
+- a) der Kantonsarzt beziehungsweise die Kantonsärztin als Vertretung des Gesundheitsdepartements;
+- b) eine Patientenvertreterin beziehungsweise ein Patientenvertreter;
+- c) eine Vertreterin beziehungsweise ein Vertreter des Walliser Gesundheitsobservatoriums mit beratender Stimme.
 
 <sup>3</sup> In der KPSPQ nehmen zudem Vertreterinnen und Vertreter mit beratender Stimme aus folgenden Gesundheitsbereichen teil: drei Vertretungen der Spitäler (davon zwei von öffentlichen Spitälern), zwei Vertretungen des Walliser Ärzteverbands (davon ein Hausarzt oder eine Hausärztin), eine Vertretung der Walliser Alters- und Pflegeheime, eine Vertretung der Walliser Vereinigung der Sozialmedizinischen Zentren, eine Vertretung der Kantonalen Walliser Rettungsorganisation sowie eine Vertretung der Dienststelle für Gesundheitswesen. Beide Sprachregionen sind vertreten.
 
@@ -112,9 +106,9 @@ Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt de
 
 **Finanzierung**
 
-Das Departement legt die Finanzierungsmodalitäten der KPSPQ fest, namentlich die Abgeltung der Mitglieder und Expertinnen und Experten.
+<sup>1</sup> Das Departement legt die Finanzierungsmodalitäten der KPSPQ fest, namentlich die Abgeltung der Mitglieder und Expertinnen und Experten.
 
-### 3. Abschnitt: Evaluation der Versorgungsqualität und Patientensicherheit
+## 3 Evaluation der Versorgungsqualität und Patientensicherheit
 
 #### Art. 8
 
@@ -148,23 +142,23 @@ Das Departement legt die Finanzierungsmodalitäten der KPSPQ fest, namentlich di
 
 **Meldung von Zwischenfällen**
 
-<sup>1</sup> Jede Gesundheitseinrichtung und Gesundheitsinstitution führt ein System für die Meldung und den Umgang mit Zwischenfällen nach Artikel 43 GG ein.
+<sup>1</sup> Jede Gesundheitseinrichtung und Gesundheitsinstitution führt ein System für die Meldung und den Umgang mit Zwischenfällen nach Artikel 44 GG ein.
 
 <sup>2</sup> Jede Gesundheitseinrichtung oder Gesundheitsinstitution muss für den Vollzug der Grundsätze des Gesundheitsgesetzes und der vorliegenden Verordnung bezüglich des Systems für die Meldung und den Umgang mit Zwischenfällen über interne Richtlinien verfügen.
 
-<sup>3</sup> Alle Zwischenfälle und Korrekturmassnahmen werden der KPSPQ im Rahmen einer jährlichen Berichts übermittelt, der in die in Artikel 47 GG vorgesehene Datenbank einfliesst.
+<sup>3</sup> …
 
 <sup>4</sup> Schwere Zwischenfälle und Korrekturmassnahmen werden dem Departement unverzüglich mitgeteilt.
 
-### 4. Abschnitt: Sanktionen
+## 4 Sanktionen
 
 #### Art. 12
 
 **Disziplinarmassnahmen**
 
-Gegen Gesundheitseinrichtungen, Gesundheitsinstitutionen sowie Gesundheitsfachpersonen, die die Pflichten aus der vorliegenden Verordnung nicht einhalten, können die in Artikel 133 GG vorgesehenen Disziplinarmassnahmen ergriffen werden.
+<sup>1</sup> Gegen Gesundheitseinrichtungen, Gesundheitsinstitutionen sowie Gesundheitsfachpersonen, die die Pflichten aus der vorliegenden Verordnung nicht einhalten, können die in Artikel 154 GG vorgesehenen Disziplinarmassnahmen ergriffen werden.
 
-### 5. Abschnitt: Übergangs- und Schlussbestimmungen
+## 5 Übergangs- und Schlussbestimmungen
 
 #### Art. 13
 
@@ -176,14 +170,4 @@ Gegen Gesundheitseinrichtungen, Gesundheitsinstitutionen sowie Gesundheitsfachpe
 
 <sup>3</sup> Die vorliegende Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft.
 
-So angenommen im Staatsrat zu Sitten, am 3. September 2014.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**26.09.14**
-
-Verordnung über die Versorgungsqualität Abl. Nr. 39/2014 und Patientensicherheit vom 3. September
-
-### 2014
+CSW BO/Abl. 39/2014
