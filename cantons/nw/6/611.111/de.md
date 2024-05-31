@@ -3,20 +3,20 @@ canton: NW
 number: "611.111"
 title: Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 language: de
-version: 2024-01-01
-valid_until: 2024-05-31
-version_adopted: 2023-12-12
+version: 2024-06-01
+valid_until: 2024-12-31
+version_adopted: 2024-07-02
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1225/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 
-vom 12.12.2023 (Stand 01.01.2024)
+vom 12.12.2023 (Stand 01.06.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -44,7 +44,7 @@ beschliesst:
 <tr><td>Dallenwil</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Emmetten</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Ennetbürgen</td><td>noch nicht in Kraft</td></tr>
-<tr><td>Ennetmoos</td><td>noch nicht in Kraft</td></tr>
+<tr><td>Ennetmoos</td><td>1. Juni 2024</td></tr>
 <tr><td>Hergiswil</td><td>1. Januar 2024</td></tr>
 <tr><td>Oberdorf</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Stans</td><td>noch nicht in Kraft</td></tr>
