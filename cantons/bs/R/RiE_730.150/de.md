@@ -3,13 +3,13 @@ canton: BS
 number: RiE 730.150
 title: Spezielle Bauvorschriften / Bebauungspläne
 language: de
-version: 2024-05-10
-valid_until: 2024-05-31
-version_adopted: 2024-01-31
+version: 2024-06-01
+valid_until: 2026-09-21
+version_adopted: 2023-10-25
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6271/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6295/pdf_file"
 text: pdf
 ---
 
@@ -119,9 +119,9 @@ Vom 26. März 1987
 
 **III**
 
-**40**
-
 **42**
+
+**44**
 
 153 GRB betreffend Erlass spezieller Bauvorschriften für das Areal «Zur Hoffnung» in Riehen. Vom 12. März 1997 Nr.
 
@@ -173,7 +173,11 @@ Vom 10. Mai 2000
 
 227 Planfestsetzungsbeschluss des Gemeinderates Riehen zum Bebauungsplan Liegenschaft Kilchgrundstrasse 62 und 70 (Riehen Sektion D, Parzellen Nr. 0121 / 0120). Vom 7. Februar 2017
 
-231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und in den Wenkenmatten. Vom 27. November 2014 und 24. September 2015 Riehen Gottesacker am Hörnli: Vorplatz
+**40**
+
+231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und in den Wenkenmatten. Vom 27. November 2014 und 24. September 2015
+
+242 Beschluss des Einwohnerrats betreffend Zonenplanrevision Autal, Festsetzung spezielle Nutzungsvorschriften Autal. Vom 25. Oktober 2023 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -1363,3 +1367,62 @@ Der Einwohnerrat Riehen beschliesst auf Antrag des Gemeinderats und der Sachkomm
 Dieser Beschluss wird publiziert; er unterliegt dem Referendum und der Genehmigung durch das Bau- und Verkehrsdepartement des Kantons Basel-Stadt. Der Gemeinderat bestimmt nach Eintritt der Rechtskraft den Zeitpunkt der Wirksamkeit.[^hGestaltungundökolo-1]
 
 [^hGestaltungundökolo-1]: Wirksam Seit 1. 1. 2017.
+
+### Riehen Spezielle Nutzungsvorschriften Autal
+
+Einwohnerratsbeschluss vom 25. Oktober 2023
+
+Der Einwohnerrat Riehen, gestützt auf §§ 40c, 95, 103 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999[^hRiehenSpezielleNut_2-1] und auf Antrag des Gemeinderats, beschliesst:
+
+I. Festsetzung Spezielle Nutzungsvorschriften
+
+- 1\. Der Plan Nr. 112.02.002 Spezielle Nutzungsvorschriften für Pflanz- und Nutzgärten Autal vom 22. Februar 2022 wird genehmigt und für verbindlich erklärt.
+
+- 2\. Für das im Plan Nr. 112.02.002 vom 22. Februar 2022 gekennzeichnete Gebiet werden folgende Vorschriften erlassen:
+
+[^hRiehenSpezielleNut_2-1]: SG 730.100
+
+### Zweck der Vorschriften; Nutzungsart
+
+- a) Übergeordneter Zweck der Vorschriften ist der Erhalt und die Weiterentwicklung des heterogenen, kleinteiligen Landschaftscharakters des Autals mit Obstgärten, Hochstammobstbäumen, Weiden, sowie Pflanz- und Nutzgärten. Dies unter der Beachtung ökologischer Werte und unter
+
+besonderer Rücksichtnahme auf das Grundwasser sowie auf Oberflächengewässer.
+
+- b) Zulässige Nutzungen sind Obstgärten, Pflanz- und Nutzgärten sowie die Nutzung als Weideland.
+
+- c) Nicht erlaubt sind eine bodenunabhängige landwirtschaftliche und gartenbauliche Nutzung, Autoabstellflächen, Lagerplätze, Treibhäuser und weitere Nutzungen, die nicht dem Gebietscharakter bzw. dem Zweck der Bestimmungen entsprechen.
+
+### Bewirtschaftungsgrundsätze
+
+- d) Die Bewirtschaftung der Parzellen soll naturnah erfolgen. Landwirtschaftliche und gartenbauliche Nutzung hat bodenabhängig zu erfolgen.
+
+- e) Terrainveränderungen sind so gering wie möglich zu halten; Bodenbefestigungen sind auf ein absolutes Minimum zu reduzieren.
+
+### Grundstücksbegrenzungen
+
+- f) Grundstücksbegrenzende Hecken sind so anzulegen und zu pflegen, dass sie den Landschaftscharakter nicht beeinträchtigen und dem ökologischen Ausgleich dienen.
+
+- g) Einfriedungen und Sichtschutzinstallationen sind bewilligungspflichtig.
+
+### Bauliche Nutzung
+
+- h) Pro Parzelle mit mindestens 800 m<sup>2</sup> Parzellenfläche darf ein für die bodenabhängige gartenbauliche Nutzung zweckmässiges Gartenhaus in Holzbauweise erstellt werden. Untergeordnete zweckdienliche Nebenbauten sind zulässig.
+
+- i) Die Grundrissprojektion der Überdachungen sämtlicher Bauten darf 1,5 % der Parzellenfläche nicht überschreiten und beträgt maximal 25 m<sup>2</sup>.
+
+- j) Gartenhäuser dürfen eine Gebäudehöhe von 3.5 m, Nebenbauten eine solche von 2.3 m nicht überschreiten.
+
+- k) Der Anbau von ungedeckten Pergolen und Sitzplätzen ist bis insgesamt 12 m<sup>2</sup> zulässig.
+
+- l) Bauliche Massnahmen unterliegen der Baubewilligungspflicht.
+
+- m) Solaranlagen sind bis zu einer Gesamtleistung von 180 Watt und einer Betriebsspannung von 24 Volt zulässig.
+
+- n) Nicht erlaubt sind der Bau von Wohn- und Arbeitsgebäuden, Unterkellerungen, mehrgeschossige Bauten, Ver- und Entsorgungsleitungen sowie Heizungen. Ebenso ist der Betrieb von Familiengartenanlagen untersagt.
+
+- o) Im Bereich der Schraffur «Nutzungseinschränkungen – Schutz von Natur-/Kulturwerten» des Plans 112.02.002 vom 22. Februar 2022 sind keine Bauten erlaubt und bestehende Obstgärten zu erhalten.
+
+II. Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und bedarf der Genehmigung durch das Bau- und Verkehrsdepartement des Kantons Basel-Stadt.[^hBaulicheNutzung_2-1] Der Gemeinderat bestimmt den Zeitpunkt des Inkrafttretens.[^hBaulicheNutzung_2-2]
+
+[^hBaulicheNutzung_2-1]: Genehmigt am 11. 3. 2024
+[^hBaulicheNutzung_2-2]: In Kraft seit 1. 6. 2024
