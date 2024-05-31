@@ -4,11 +4,10 @@ number: "211.17"
 title: Sprachdienstleistungsverordnung (SDV)
 short: SDV
 language: de
-version: "2023-05-01"
-nachtrag: "121"
-valid_until: 2024-06-01
+version: "2024-06-01"
+nachtrag: "125"
 adopted: 2018-12-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_17-2018_12_19-2019_07_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_17-2018_12_19-2019_07_01-125.html"
 text: pdf
 ---
 
@@ -50,7 +49,7 @@ beschliessen:
 
 <sup>1</sup> Obergericht und Regierungsrat setzen als strategisches Leitungs- und Entscheidungsorgan im Bereich der Sprachdienstleistungen eine Fachgruppe ein. Diese besteht aus:
 
-- a. einer Vertreterin oder einem Vertreter des Obergerichts als Vorsitzender bzw. Vorsitzendem,
+a.<sup>8</sup> zwei Vertreterinnen oder Vertretern des Obergerichts als Vorsitzende bzw. Vorsitzender und Stellvertreterin bzw. Stellvertreter,
 
 - b. zwei Vertreterinnen oder Vertretern der Bezirksgerichte,
 
@@ -62,9 +61,9 @@ beschliessen:
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
 
-<sup>2</sup> Das Obergericht wählt die Mitglieder nach Abs. 1 lit. a und b. Der Regierungsrat wählt die übrigen Mitglieder. Die Wahl erfolgt auf eine Amtsdauer von vier Jahren.
+<sup>2</sup> Das Obergericht wählt die Mitglieder nach Abs. 1 lit. a und b und bestimmt die Vorsitzende oder den Vorsitzenden sowie deren bzw. dessen Stellvertreterin oder Stellvertreter. Der Regierungsrat wählt die übrigen Mitglieder. Die Wahl erfolgt auf eine Amtsdauer von vier Jahren.<sup>8</sup>
 
 <sup>3</sup> Die Fachgruppe kann Vertreterinnen und Vertreter anderer Behörden des Kantons oder der Gemeinden als ständige Teilnehmerinnen und Teilnehmer an ihre Sitzungen einladen. Diese haben beratende Stimme.
 
@@ -152,7 +151,7 @@ Die antragstellende Person muss a. die Amtssprache und die Arbeitssprache in Wor
 
 **3**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
 
 - c. Sprachdienstleistungen, für die sie um Akkreditierung ersucht, fachgerecht erbringen können,
 
@@ -266,7 +265,7 @@ Das Verzeichnis enthält folgende Angaben zur akkreditierten Person:
 
 **5**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Im Einzelfall kann Einsicht gewährt werden:
 
@@ -346,7 +345,7 @@ Die auftraggebende Behörde a. geht bei der Auswahl, der Instruktion und der Üb
 
 **7**
 
-- 1\. 7. 23 - 121 § 24. <sup>1</sup> Die Entschädigung für Übersetzen richtet sich nach dem Umfang des Zieltexts und dem Schwierigkeitsgrad. In besonderen Fällen bemisst sich die Entschädigung nach dem Umfang des Ausgangstexts.
+- 1\. 7. 24 - 125 § 24. <sup>1</sup> Die Entschädigung für Übersetzen richtet sich nach dem Umfang des Zieltexts und dem Schwierigkeitsgrad. In besonderen Fällen bemisst sich die Entschädigung nach dem Umfang des Ausgangstexts.
 
 **b. Übersetzen**
 
@@ -432,4 +431,5 @@ Die Entschädigung für besondere Sprachdienstleistungen, insbesondere länger d
 - [4] LS 211.1.
 - [5] SR 220.
 - [6] SR 311.0.
-- [10] . In Kraft seit 1. Mai 2023. 1. 7. 23 - 121 9
+- [10] . In Kraft seit 1. Mai 2023.
+- [8] Fassung gemäss Änderung vom 28. Februar / 25. März 2024 (OS 79, 167; ABl 2024-03-28). In Kraft seit 1. Juni 2024. 1. 7. 24 - 125 9
