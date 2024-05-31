@@ -4,13 +4,13 @@ number: "210.300"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2024-01-01
-valid_until: 2024-05-31
-version_adopted: 2023-06-27
+version: 2024-06-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2017-06-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3356/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3356/pdf_file"
 
 (EG ZGB)
 
-Vom 27.06.2017 (Stand 01.01.2024)
+Vom 27.06.2017 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -488,6 +488,10 @@ beschliesst:
 <sup>1</sup> Stehen keine überwiegenden Interessen entgegen, informiert die Kindes- und Erwachsenenschutzbehörde die Gemeinde über den Eingang einer Gefährdungsmeldung sowie über den Abschluss eines Verfahrens, namentlich über die Anordnung, Änderung und Aufhebung von Massnahmen im Kindes- und Erwachsenenschutz.
 
 <sup>2</sup> Sie informiert weitere Amtsstellen und Behörden gemäss Absatz 1, soweit dies zur Erfüllung deren gesetzlicher Aufgaben erforderlich ist.
+
+<sup>3</sup> Stehen keine überwiegenden Interessen entgegen, gewährt die Kindes- und Erwachsenenschutzbehörde der Kantonspolizei auf begründetes Gesuch hin Einsicht in Entscheide, Gutachten und weitere Unterlagen eines Verfahrens, soweit dies zur Erfüllung deren Aufgaben im Bereich des Bedrohungsmanagements gemäss § 3 Abs. 1 lit. m des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^40-1] erforderlich ist.
+
+[^40-1]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
 
 #### § 41
 
