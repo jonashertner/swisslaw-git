@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2023-09-22
+version: 2024-06-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 22 septembre 2023)
+du 27 juin 1995 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -114,7 +114,7 @@ Par épizooties à combattre, on entend les maladies animales suivantes:
 - a. leptospirose;
 - b.[^4-1] arthrite/encéphalite caprine
 - c. salmonellose;
-- d.[^4-2] …
+- d.[^4-2] piétin;
 - e. hypodermose;
 - f. brucellose du bélier;
 - g.[^4-3] paratuberculose;
@@ -134,7 +134,7 @@ Par épizooties à combattre, on entend les maladies animales suivantes:
 - r. peste des écrevisses.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^4-2]: Abrogée par le ch. I de l’O du 14 janv. 2009, avec effet au 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-4]: Introduite par le ch. I de l’O du 14 mai 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^4-5]: Introduite par le ch. I de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -4965,11 +4965,150 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées �
 
 ### Section 5 …
 
-#### Art. 228 et 229
+#### Art. 228
 
-[^228229-1]
+[^228-1]
 
-[^228229-1]: Abrogés par le ch. I de l’O du 14 janv. 2009, avec effet au 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^228-1]: Abrogé par le ch. I de l’O du 14 janv. 2009, avec effet au 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+
+### Section 5*a* Programme national de lutte contre le piétin
+
+[^tit3-chap4-sec5a-1]
+
+[^tit3-chap4-sec5a-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229
+
+**Objet, durée et objectif**[^229-1]
+
+<sup>1</sup> Un programme national de lutte contre le piétin est lancé; il comporte un contrôle annuel de toutes les exploitations ovines de Suisse et un examen des animaux par prélèvement d’échantillons.
+
+<sup>2</sup> Le programme de lutte débute le 1<sup>er</sup> octobre 2024 et dure au maximum cinq ans. Les examens ont lieu chaque année entre le 1<sup>er</sup> octobre et le 31 mars (période d’examen).
+
+<sup>3</sup> Le programme de lutte a pour objectif de réduire à moins d’un pour cent le nombre d’exploitations ovines touchées par le piétin.
+
+<sup>4</sup> Les cantons veillent à mettre en œuvre le programme de lutte dans les délais.
+
+<sup>5</sup> L’OSAV édicte des dispositions d’exécution de caractère technique concernant la mise en œuvre du programme de lutte.
+
+[^229-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229a
+
+**Coûts imputables et montant des indemnités**[^229a-1]
+
+<sup>1</sup>
+
+Sont imputables au programme de lutte:
+
+- a. les coûts de prélèvement des échantillons dans les unités d’élevage ovin pour l’examen de base et le premier examen de suivi, et les frais d’envoi des échantillons aux laboratoires;
+- b. les coûts d’analyse des échantillons par les laboratoires;
+- c. les coûts d’encaissement de la taxe perçue auprès des détenteurs d’animaux.
+
+<sup>2</sup> Les coûts pour d’autres examens de suivi sont à la charge des détenteurs de moutons.
+
+<sup>3</sup>
+
+Les fournisseurs des prestations visées à l’al. 1 reçoivent les indemnités suivantes:
+
+- a. un forfait de 125 à 200 francs pour le prélèvement des échantillons et l’envoi de ceux-ci aux laboratoires, en fonction de la taille et de l’emplacement de l’unité d’élevage;
+- b. au maximum 45 francs pour l’analyse, en laboratoire, d’un échantillon composite de 10 animaux au maximum;
+- c. une indemnité appropriée pour l’encaissement.
+
+[^229a-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229b
+
+**Taxe due par les détenteurs de moutons**[^229b-1]
+
+<sup>1</sup> Une taxe est perçue auprès des détenteurs de moutons. Elle permet de financer une partie des coûts des analyses de laboratoires et les coûts de son encaissement.
+
+<sup>2</sup> Elle se monte à 30 francs par échantillon composite de 10 animaux au maximum, mais à 90 francs au maximum par troupeau de moutons.
+
+<sup>3</sup> Elle est facturée avant la période d’examen et calculée sur la base de l’effectif des moutons de l’année précédente selon les indications de la banque de données sur le trafic des animaux. Le nombre de jours/animaux est déterminant.
+
+<sup>4</sup> L’OSAV mandate un tiers pour l’encaissement de la taxe.
+
+[^229b-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229c
+
+**Paiement des indemnités et reversement d’un éventuel excédent**[^229c-1]
+
+<sup>1</sup> Le tiers mandaté paie l’indemnité à un laboratoire dès que celui-ci a saisi le résultat de l’examen de base ou du premier examen de suivi dans le système d’information pour les données des laboratoires (ALIS) visé par l’OSIVét[^229c-2].
+
+<sup>2</sup> Il facture la partie des coûts d’analyse de l’échantillon non couverte par la taxe des détenteurs de moutons au canton qui a demandé l’analyse.
+
+<sup>3</sup> Si le solde des taxes acquittées par les détenteurs de moutons est positif à la fin du programme de lutte, l’excédent est reversé aux cantons. Le remboursement est calculé en fonction du nombre de moutons du canton au 1<sup>er</sup> janvier de l’année du remboursement.
+
+[^229c-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+
+#### Art. 229d
+
+**Prélèvement et analyse: exigences et obligations**[^229d-1]
+
+<sup>1</sup> Les échantillons des unités d’élevage ovin doivent être prélevés par des vétérinaires ou par des personnes travaillant sous la surveillance d’un vétérinaire.
+
+<sup>2</sup> Toutes les personnes qui prélèvent des échantillons doivent suivre un cours afin d’acquérir des connaissances sur la lutte contre le piétin et sur la manière correcte de prélever des échantillons. L’OSAV organise le cours, qui est dispensé de manière décentralisée.
+
+<sup>3</sup> Les vétérinaires saisissent dans ASAN les données relatives aux échantillons prélevés.
+
+<sup>4</sup> Les laboratoires chargés de l’analyse des échantillons saisissent les résultats dans ALIS, au plus tard dans la semaine qui suit la réception de l’échantillon.
+
+[^229d-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229e
+
+**Trafic des animaux**[^229e-1]
+
+<sup>1</sup> Au cours de la période d’examen, les moutons peuvent être transportés dans une autre exploitation ovine, détenus au pâturage avec des moutons d’une autre exploitation ou participer à des marchés de bétail, des expositions ou d’autres manifestations uniquement s’ils proviennent d’une exploitation ovine où les résultats du dernier contrôle officiel se sont révélés négatifs. Le vétérinaire cantonal peut autoriser des exceptions assorties de charges.
+
+<sup>2</sup> Durant la première période d’examen, les moutons peuvent aussi participer à des marchés de bétail, des expositions ou à d’autres manifestations, et être détenus au pâturage avec des moutons d’une autre exploitation s’ils proviennent d’une exploitation ovine pour laquelle il n’y a pas encore de résultat d’examen. Ils peuvent aussi être transportés d’une telle exploitation ovine dans une autre exploitation ovine s’il n’y a pas encore de résultat pour l’exploitation de destination.
+
+<sup>3</sup> Les moutons qui ont participé durant la première période d’examen à des marchés de bétail, à des expositions ou à d’autres manifestations ou qui ont été détenus au pâturage avec des moutons d’une autre unité d’élevage peuvent uniquement être transportés dans des unités d’élevage ovin pour lesquelles il n’y a encore pas de résultat d’examen.
+
+<sup>4</sup> Si l’on ne dispose d’aucun résultat d’examen pour une exploitation ovine à la fin de la première période d’examen, le vétérinaire cantonal ordonne le séquestre simple de 1<sup>er</sup> degré sur l’unité d’élevage ovin concernée jusqu’à ce que l’on dispose d’un résultat.
+
+[^229e-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229f
+
+**Vaccination contre le piétin**[^229f-1]
+
+La vaccination contre le piétin est interdite à partir du 1<sup>er</sup> juin 2024 jusqu’à la fin du programme de lutte.
+
+[^229f-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219); [2024 20](https://fedlex.data.admin.ch/eli/oc/2024/20)).
+
+#### Art. 229g
+
+**Mesures prises par le vétérinaire cantonal en cas de résultat positif ou de maladie manifeste**[^229g-1]
+
+<sup>1</sup> Si le résultat des examens est positif, le vétérinaire cantonal ordonne les mesures applicables en cas d’épizootie visées à l’art. 228*c*, al. 1. La levée des mesures prises est régie par l’art. 228*c*, al. 2.
+
+<sup>2</sup> Si un ou plusieurs moutons d’une exploitation ovine sont manifestement atteints du piétin, le vétérinaire cantonal peut, en accord avec le détenteur, renoncer au prélèvement des échantillons et aux examens et ordonner directement les mesures applicables en cas d’épizootie visées à l’art. 228*c*, al. 1.
+
+<sup>3</sup> Dans les cas visés aux al. 1 et 2, il peut autoriser, en exigeant le respect de certaines charges pour limiter les risques, que des moutons soient transportés d’une unité d’élevage ovin sous séquestre dans une autre unité d’élevage ovin ou participent à un marché de bétail, à une exposition ou à une autre manifestation.
+
+[^229g-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229h
+
+**Autres mesures prises par le vétérinaire cantonal**[^229h-1]
+
+Le vétérinaire cantonal peut entreprendre les démarches nécessaires pour que le prélèvement d’échantillons et l’assainissement soient réalisés aux frais des détenteurs d’animaux qui n’ont pas donné suite aux mesures qu’il a ordonnées. Il peut ordonner l’abattage d’animaux si cela se justifie pour des raisons relevant du droit sur les épizooties ou du droit sur la protection des animaux.
+
+[^229h-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229i
+
+**Évaluation**[^229i-1]
+
+<sup>1</sup> L’OSAV évalue en continu le programme de lutte, en particulier en ce qui concerne l’objectif fixé à l’art. 229, al. 3.
+
+<sup>2</sup> Au cours du programme de lutte et à la fin de celui-ci, il décide de la marche à suivre après avoir consulté les cantons.
+
+[^229i-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### Section 6 Hypodermose
 

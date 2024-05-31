@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2023-09-22
+version: 2024-06-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 22 settembre 2023)
+del 27 giugno 1995 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -117,7 +117,7 @@ Sono considerate epizoozie da combattere le seguenti malattie:
 - a. la leptospirosi;
 - b.[^4-1] l’artrite encefalite virale caprina;
 - c. la salmonellosi;
-- d.[^4-2] ...
+- d.[^4-2] la zoppina;
 - e. l’ipodermosi;
 - f. l’epididimite contagiosa degli arieti;
 - g.[^4-3] paratubercolosi;
@@ -137,7 +137,7 @@ Sono considerate epizoozie da combattere le seguenti malattie:
 - r. la peste dei granchi.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^4-2]: Abrogata dal n. I dell’O del 14 gen. 2009, con effetto dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-4]: Introdotta dal n. I dell’O del 14 mag. 2008 ([RU 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-5]: Introdotta dal n. I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -630,7 +630,7 @@ Il passaporto per equide deve inoltre contenere i seguenti allegati:
 [^15d-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^15d-6]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^15d-6]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^15d-7]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-8]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
@@ -1229,7 +1229,7 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 [^25-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RU 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Vedi ora l’O del 4 nov. 2009 sul trasporto di merci ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
 [^25-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^25-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-5]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1. [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. I]. Vedi ora l’O del 23 apr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
+[^25-5]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1. [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. I]. Vedi ora l’O del 23 apr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
 
 #### Art. 26
 
@@ -1448,7 +1448,7 @@ Il veterinario cantonale dispone che le stalle dei commercianti di bestiame e le
 
 <sup>2</sup> Nei grandi stabilimenti di macellazione, il veterinario ufficiale[^38-3] allestisce un catalogo di provvedimenti urgenti da applicare qualora venga accertata o sospettata un’epizoozia altamente contagiosa.
 
-[^38-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^38-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^38-2]: Nuovo testo giusta l’all. n. II 3 dell’O del 23 nov. 2005 concernente la macellazione e il controllo delle carni, in vigore dal 1° gen. 2006 ([RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747)).
 [^38-3]: Nuova espr. giusta l’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
 
@@ -4959,11 +4959,150 @@ Le perdite di animali secondo l’articolo 32 capoverso 1 lettere a, b e d LFE n
 
 ### Sezione 5: ...
 
-#### Art. 228 e 229
+#### Art. 228
 
-[^228229-1]
+[^228-1]
 
-[^228229-1]: Abrogati dal n. I dell’O del 14 gen. 2009, con effetto dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^228-1]: Abrogato dal n. I dell’O del 14 gen. 2009, con effetto dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101))
+
+### Sezione 5*a*: Programma nazionale di lotta contro la zoppina
+
+[^tit3-chap4-sec5a-1]
+
+[^tit3-chap4-sec5a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229
+
+**Oggetto, durata e scopo**[^229-1]
+
+<sup>1</sup> Per combattere la zoppina, viene svolto un programma nazionale di lotta che prevede il controllo annuale di tutte le aziende detentrici di ovini e l’analisi degli animali mediante il prelievo di campioni.
+
+<sup>2</sup> Il programma inizia il 1° ottobre 2024 e dura al massimo cinque anni. Le analisi sono effettuate tra il 1° ottobre e il 31 marzo di ogni anno (periodo di analisi).
+
+<sup>3</sup> L’obiettivo del programma di lotta è ridurre al di sotto dell’1 per cento il numero delle aziende detentrici di ovini in cui viene constatata la zoppina.
+
+<sup>4</sup> I Cantoni provvedono all’attuazione del programma di lotta entro i termini stabiliti.
+
+<sup>5</sup> L’USAV emana prescrizioni tecniche sullo svolgimento del programma di lotta.
+
+[^229-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101))
+
+#### Art. 229a
+
+**Costi computabili e ammontare delle indennità**[^229a-1]
+
+<sup>1</sup>
+
+Per il programma di lotta sono computabili i costi per:
+
+- a. il prelievo di campioni per l’analisi di base e la prima analisi di verifica nella detenzione di ovini e l’invio di tali campioni ai laboratori;
+- b. l’analisi di tali campioni da parte dei laboratori;
+- c. la riscossione della tassa a carico dei detentori di animali.
+
+<sup>2</sup> I costi per ulteriori analisi di verifica sono a carico dei detentori di ovini.
+
+<sup>3</sup>
+
+Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate le seguenti indennità:
+
+- a. un importo forfettario da 125 a 200 franchi per il prelievo dei campioni e l’invio dei campioni ai laboratori, a seconda della grandezza e dell’ubicazione dell’azienda detentrice di animali;
+- b. al massimo 45 franchi per l’analisi in laboratorio di un campione aggregato di un massimo di 10 animali;
+- c. un’adeguata indennità per la riscossione.
+
+[^229a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229b
+
+**Tassa a carico dei detentori di ovini**[^229b-1]
+
+<sup>1</sup> I detentori di ovini sono soggetti a una tassa. Con la tassa viene finanziata una parte dei costi delle analisi di laboratorio e la riscossione della tassa.
+
+<sup>2</sup> La tassa ammonta a 30 franchi per campione aggregato di un massimo di 10 animali, tuttavia a un massimo di 90 franchi per effettivo di ovini.
+
+<sup>3</sup> Essa viene fatturata prima del relativo periodo di analisi ed è calcolata in funzione dell’effettivo di ovini dell’anno precedente sulla base dei dati della banca dati sul traffico di animali. Determinante è il numero di giorni/animali.
+
+<sup>4</sup> L’USAV affida a un terzo la riscossione della tassa.
+
+[^229b-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229c
+
+**Versamento delle indennità e di un’eventuale eccedenza**[^229c-1]
+
+<sup>1</sup> Il terzo incaricato versa l’indennità a un laboratorio non appena quest’ultimo ha inserito il risultato dell’analisi di base o della prima analisi di verifica nel sistema d’informazione per i dati di laboratorio (ALIS) di cui nell’O-SISVet[^229c-2].
+
+<sup>2</sup> Esso fattura la parte dei costi per l’analisi dei campioni non coperta dalla tassa dei detentori di ovini al Cantone che ha commissionato l’incarico.
+
+<sup>3</sup> Qualora al termine del programma di lotta risultasse un’eccedenza dalle tasse dei detentori di ovini, questa viene versata ai Cantoni. Il rimborso è calcolato in base al numero di ovini di un Cantone al 1° gennaio dell’anno del rimborso.
+
+[^229c-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+
+#### Art. 229d
+
+**Prelievo dei campioni e analisi: requisiti e obblighi**[^229d-1]
+
+<sup>1</sup> I campioni delle aziende detentrici di ovini devono essere prelevati da veterinari o persone sotto la vigilanza di un veterinario.
+
+<sup>2</sup> Tutte le persone che effettuano il prelievo dei campioni devono frequentare un corso che trasmette conoscenze sulla lotta contro la zoppina e sul modo corretto di prelevare i campioni. Il corso è organizzato dall’USAV e si svolge in maniera decentralizzata.
+
+<sup>3</sup> I veterinari inseriscono i dati relativi ai campioni prelevati in ASAN.
+
+<sup>4</sup> I laboratori incaricati dell’analisi dei campioni inseriscono i risultati in ALIS al più tardi entro una settimana dal ricevimento del campione.
+
+[^229d-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229e
+
+**Traffico di animali**[^229e-1]
+
+<sup>1</sup> Durante il periodo di analisi gli ovini possono essere trasferiti soltanto in un’altra azienda detentrice di ovini oppure essere tenuti al pascolo insieme a ovini di un’altra azienda detentrice di animali o partecipare a [mercati di bestiame, esposizioni e altre manifestazioni](https://www.admin.ch/opc/de/classified-compilation/19950206/index.html)se provengono da un’azienda detentrice di ovini per la quale l’ultimo controllo ufficiale ha fornito un risultato delle analisi negativo. Il veterinario cantonale può autorizzare deroghe a determinate condizioni.
+
+<sup>2</sup> Nel primo periodo di analisi gli ovini possono partecipare a mercati di bestiame, esposizioni di bestiame e altre manifestazioni ed essere tenuti al pascolo insieme a ovini di un’altra azienda detentrice di animali se provengono da un’azienda di detenzione per la quale non è ancora disponibile il risultato delle analisi. Possono essere portati da una tale azienda detentrice di ovini in un’altra azienda detentrice di ovini se anche per l’azienda di destinazione non è ancora disponibile alcun risultato di analisi.
+
+<sup>3</sup> Gli ovini che nel primo periodo di analisi hanno partecipato a mercati di bestiame, esposizioni o altre manifestazioni o sono stati tenuti al pascolo insieme a ovini di un’altra azienda detentrice di animali possono essere portati soltanto in aziende detentrici di animali per le quali non è ancora disponibile alcun risultato di analisi.
+
+<sup>4</sup> Se alla fine del primo periodo di analisi non è disponibile alcun risultato per un’azienda detentrice di ovini, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo in questione fino a quando non si dispone di un risultato.
+
+[^229e-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229f
+
+**Vaccinazione contro la zoppina**[^229f-1]
+
+La vaccinazione contro la zoppina è vietata a partire dal 1° giugno 2024 fino alla conclusione del programma di lotta.
+
+[^229f-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219); [2024 20](https://fedlex.data.admin.ch/eli/oc/2024/20)).
+
+#### Art. 229g
+
+**Provvedimenti del veterinario cantonale in caso di risultato delle analisi positivo o di malattia manifesta**[^229g-1]
+
+<sup>1</sup> Se il risultato delle analisi è positivo, il veterinario cantonale ordina i provvedimenti in caso di epizoozia di cui all’articolo 228*c* capoverso 1. La revoca dei provvedimenti è retta dall’articolo 228*c* capoverso 2.
+
+<sup>2</sup> Se in un’azienda detentrice di ovini uno o più animali sono manifestamente affetti da zoppina, il veterinario cantonale può, d’intesa con il detentore degli animali, rinunciare a un prelievo di campioni e alle relative analisi e ordinare direttamente i provvedimenti previsti in caso di epizoozia di cui all’articolo 228*c* capoverso 1.
+
+<sup>3</sup> Nei casi di cui al capoverso 1 o 2 il veterinario cantonale può, a condizioni atte a minimizzare i rischi, autorizzare il trasferimento degli animali da un’azienda detentrice di ovini sotto sequestro a un’altra azienda detentrice di ovini oppure la loro partecipazione a un mercato di bestiame, un’esposizione o un’altra manifestazione.
+
+[^229g-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229h
+
+**Ulteriori provvedimenti del veterinario cantonale**[^229h-1]
+
+Ai detentori di animali che non osservano le sue prescrizioni, il veterinario cantonale può imporre a loro spese i provvedimenti necessari per il prelievo dei campioni e il risanamento. Può ordinare la macellazione di animali se ciò è appropriato per motivi di diritto in materia di epizoozie o di protezione degli animali.
+
+[^229h-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229i
+
+**Valutazione**[^229i-1]
+
+<sup>1</sup> L’USAV provvede alla valutazione continua del programma di lotta, in particolare in relazione all’obiettivo di cui all’articolo 229 capoverso 3.
+
+<sup>2</sup> Previa consultazione dei Cantoni, decide l’ulteriore procedura da seguire durante e al termine del programma di lotta.
+
+[^229i-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### Sezione 6: Ipodermosi
 
@@ -6750,7 +6889,7 @@ I Cantoni possono affidare al veterinario ufficiale altri compiti e provvedono a
 
 [^302-1]: Introdotto dal n. I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^302-2]: Nuova espr. giusta il n. I dell’O del 15 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)).
-[^302-3]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^302-3]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^302-4]: Abrogata dall’all. 3 n. 3 dell’O del 18 ago. 2004 sui medicamenti veterinari, con effetto dal 1° set. 2004, con effetto dal 1° set. 2004 ([RU 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)).
 [^302-5]: Abrogato dall’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, con effetto dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
 
@@ -6933,7 +7072,7 @@ Le tasse riscosse per le prestazioni di servizi dell’USAV, come esami, analisi
 
 [^314-subdivu1-1]
 
-[^314-subdivu1-1]: [[RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100), [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371), [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840)[1130](https://fedlex.data.admin.ch/eli/oc/1974/__1130), [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136), [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)art. 84 cpv. 1, [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325), [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 4, [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300), [1984 1039](https://fedlex.data.admin.ch/eli/oc/1984/1039_1039_1039), [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346), [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206)[800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)art. 89 n. 4, [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 22[1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333), [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)art. 29 n. 4 [3373](https://fedlex.data.admin.ch/eli/oc/1993/3373_3373_3373)].
+[^314-subdivu1-1]: [[RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100); [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371); [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840), [1130](https://fedlex.data.admin.ch/eli/oc/1974/__1130); [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136); [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)art. 84 cpv. 1; [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325); [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 4; [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300); [1984 1039](https://fedlex.data.admin.ch/eli/oc/1984/1039_1039_1039); [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346); [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206), [800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)art. 89 n. 4; [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 22,[1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333); [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)art. 29 n. 4, [3373](https://fedlex.data.admin.ch/eli/oc/1993/3373_3373_3373)].
 
 ### ...
 

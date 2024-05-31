@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2023-09-22
+version: 2024-06-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 22. September 2023)
+vom 27. Juni 1995 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -116,7 +116,7 @@ Als zu bekämpfende Seuchen gelten folgende Tierkrankheiten:
 - a. Leptospirose;
 - b.[^4-1] Caprine Arthritis-Enzephalitis;
 - c. Salmonellose;
-- d.[^4-2] …
+- d.[^4-2] Moderhinke;
 - e. Dasselkrankheit;
 - f. Brucellose der Widder;
 - g.[^4-3] Paratuberkulose;
@@ -136,7 +136,7 @@ Als zu bekämpfende Seuchen gelten folgende Tierkrankheiten:
 - r. Krebspest.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^4-2]: Aufgehoben durch Ziff. I der V vom 14. Jan. 2009, mit Wirkung seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-4]: Eingefügt gemäss Ziff. I der V vom 14. Mai 2008 ([AS 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -4951,11 +4951,150 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstaben a, b und d TSG werden nicht ent
 
 ### 5. Abschnitt: …
 
-#### Art. 228 und 229
+#### Art. 228
 
-[^228229-1]
+[^228-1]
 
-[^228229-1]: Aufgehoben durch Ziff. I der V vom 14. Jan. 2009, mit Wirkung seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^228-1]: Aufgehoben durch Ziff. I der V vom 14. Jan. 2009, mit Wirkung seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+
+### 5*a*. Abschnitt: Nationales Programm zur Bekämpfung der Moderhinke
+
+[^tit3-chap4-sec5a-1]
+
+[^tit3-chap4-sec5a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229
+
+**Gegenstand, Dauer und Ziel**[^229-1]
+
+<sup>1</sup> Zur Bekämpfung der Moderhinke wird ein nationales Bekämpfungsprogramm durchgeführt, bei dem jährlich alle Schafhaltungen in der Schweiz kontrolliert und die Tiere mittels Probenahme untersucht werden.
+
+<sup>2</sup> Das Programm beginnt am 1. Oktober 2024 und dauert höchstens fünf Jahre. Die Untersuchungen finden jeweils zwischen dem 1. Oktober und dem 31. März (Untersuchungsperiode) statt.
+
+<sup>3</sup> Durch das Bekämpfungsprogramm soll die Anzahl der Schafhaltungen, in denen Moderhinke festgestellt wird, auf unter ein Prozent gesenkt werden.
+
+<sup>4</sup> Die Kantone sorgen für die fristgerechte Umsetzung des Bekämpfungsprogramms.
+
+<sup>5</sup> Das BLV erlässt Vorschriften technischer Art über die Durchführung des Bekämpfungsprogramms.
+
+[^229-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229a
+
+**Anrechenbare Kosten und Höhe der Entschädigungen**[^229a-1]
+
+<sup>1</sup>
+
+Die anrechenbaren Kosten für das Bekämpfungsprogramm bestehen aus den Kosten für:
+
+- a. die Probenahmen für die Grunduntersuchung und die erste Nachuntersuchung in der Schafhaltung sowie für den Versand der Proben an die Laboratorien;
+- b. die Untersuchung dieser Proben durch die Laboratorien;
+- c. das Inkasso der Abgaben der Tierhalter.
+
+<sup>2</sup> Die Kosten für weitere Nachuntersuchungen gehen zu Lasten der Schafhalter.
+
+<sup>3</sup>
+
+Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
+
+- a. eine Pauschale von 125 bis 200 Franken für die Probenahme und den Versand der Proben an die Laboratorien, abhängig von der Grösse und der Lage der Tierhaltung;
+- b. höchstens 45 Franken für die Untersuchung einer Sammelprobe von bis zu 10 Tieren im Labor;
+- c. eine angemessene Entschädigung für das Inkasso.
+
+[^229a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229b
+
+**Abgabe der Schafhalter**[^229b-1]
+
+<sup>1</sup> Von den Schafhaltern wird eine Abgabe erhoben. Mit der Abgabe wird ein Teil der Kosten der Laboruntersuchungen und das Inkasso der Abgabe finanziert.
+
+<sup>2</sup> Die Abgabe beträgt 30 Franken pro Sammelprobe von bis zu 10 Tieren, maximal aber 90 Franken pro Schafherde.
+
+<sup>3</sup> Sie wird jeweils vor der Untersuchungsperiode in Rechnung gestellt und nach dem Schafbestand des Vorjahres gemäss den Daten der Tierverkehrsdatenbank berechnet. Massgebend ist die Anzahl Tiertage.
+
+<sup>4</sup> Das BLV beauftragt einen Dritten mit dem Inkasso der Abgabe.
+
+[^229b-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229c
+
+**Ausrichtung der Entschädigungen und Überweisung eines allfälligen Überschusses**[^229c-1]
+
+<sup>1</sup> Der beauftragte Dritte zahlt einem Laboratorium die Entschädigung aus, sobald es das Resultat der Grunduntersuchung oder der ersten Nachuntersuchung in das Laborinformationssystem (ALIS) nach der ISVet-V[^229c-2] eingegeben hat.
+
+<sup>2</sup> Er stellt den Teil der Kosten für die Untersuchung der Probe, der nicht durch die Abgabe der Schafhalter gedeckt wird, dem Kanton in Rechnung, der den Auftrag dazu erteilt hat.
+
+<sup>3</sup> Resultiert nach Abschluss des Bekämpfungsprogramms ein Überschuss aus den Abgaben der Schafhalter, so wird dieser an die Kantone überwiesen. Die Rückerstattung berechnet sich nach der Anzahl Schafe eines Kantons am 1. Januar des Jahres der Rückerstattung.
+
+[^229c-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229c-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+
+#### Art. 229d
+
+**Probenahme und Untersuchung: Anforderungen und Pflichten**[^229d-1]
+
+<sup>1</sup> Die Proben in den Schafhaltungen müssen durch Tierärzte oder durch Personen unter tierärztlicher Aufsicht genommen werden.
+
+<sup>2</sup> Alle Personen, welche die Probenahme durchführen, müssen einen Kurs besuchen, in dem ihnen Kenntnisse über die Bekämpfung der Moderhinke und über eine korrekte Probenahme vermittelt werden. Der Kurs wird vom BLV organisiert und dezentral durchgeführt.
+
+<sup>3</sup> Die Tierärzte geben die Daten zu den Probenahmen in ASAN ein.
+
+<sup>4</sup> Die Laboratorien, die mit der Untersuchung der Proben beauftragt werden, geben die Resultate spätestens innert einer Woche seit Erhalt der Probe in ALIS ein.
+
+[^229d-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229e
+
+**Tierverkehr**[^229e-1]
+
+<sup>1</sup> In der Untersuchungsperiode dürfen Schafe nur in eine andere Schafhaltung verbracht oder mit Schafen aus einer anderen Tierhaltung auf einer Weide gehalten werden sowie an Viehmärkten, Ausstellungen und anderen Veranstaltungen teilnehmen, wenn sie aus einer Schafhaltung stammen, deren letzte amtliche Kontrolle ein negatives Untersuchungsresultat ergeben hat. Der Kantonstierarzt kann unter Auflagen Ausnahmen bewilligen.
+
+<sup>2</sup> In der ersten Untersuchungsperiode dürfen Schafe auch dann an Viehmärkten, Viehausstellungen und anderen Veranstaltungen teilnehmen und mit Schafen aus einer anderen Tierhaltung auf einer Weide gehalten werden, wenn sie aus einer Schafhaltung stammen, für die noch kein Untersuchungsresultat vorliegt. Sie dürfen aus einer solchen Schafhaltung in eine andere Schafhaltung verbracht werden, sofern auch für den Bestimmungsbetrieb noch kein Untersuchungsresultat vorliegt.
+
+<sup>3</sup> Schafe, die in der ersten Untersuchungsperiode an Viehmärkten, Ausstellungen und anderen Veranstaltungen teilgenommen haben oder mit Schafen aus einer anderen Tierhaltung auf einer Weide gehalten wurden, dürfen nur in Schafhaltungen verbracht werden, für die noch kein Untersuchungsresultat vorliegt.
+
+<sup>4</sup> Liegt am Ende der ersten Untersuchungsperiode für eine Schafhaltung kein Untersuchungsresultat vor, so ordnet der Kantonstierarzt bis zum Vorliegen eines Resultats die einfache Sperre 1. Grades über die betreffende Schafhaltung an.
+
+[^229e-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229f
+
+**Impfung gegen die Moderhinke**[^229f-1]
+
+Die Impfung gegen die Moderhinke ist ab dem 1. Juni 2024 bis zum Abschluss des Bekämpfungsprogramms verboten.
+
+[^229f-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229g
+
+**Massnahmen des Kantonstierarztes bei einem positiven Untersuchungsresultat oder offensichtlicher Erkrankung**[^229g-1]
+
+<sup>1</sup> Bei einem positiven Untersuchungsresultat ordnet der Kantonstierarzt die Massnahmen im Seuchenfall nach Artikel 228*c* Absatz 1 an. Die Aufhebung der Massnahmen richtet sich nach Artikel 228*c* Absatz 2.
+
+<sup>2</sup> Sind in einer Schafhaltung ein oder mehrere Tiere offensichtlich an Moderhinke erkrankt, so kann der Kantonstierarzt mit Einverständnis des Tierhalters auf eine Probenahme und Untersuchung verzichten und direkt die Massnahmen im Seuchenfall nach Artikel 228*c* Absatz 1 anordnen.
+
+<sup>3</sup> Er kann in Fällen nach Absatz 1 oder 2 unter risikovermindernden Auflagen bewilligen, dass Tiere aus einer gesperrten Schafhaltung in eine andere Schafhaltung verbracht werden oder an einem Viehmarkt, einer Ausstellung oder einer anderen Veranstaltung teilnehmen.
+
+[^229g-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229h
+
+**Weitere Massnahmen des Kantonstierarztes**[^229h-1]
+
+Der Kantonstierarzt kann bei Tierhaltern, die seinen Anordnungen keine Folge leisten, auf deren Kosten die notwendigen Handlungen für die Probenahme und die Sanierung vornehmen. Er kann die Schlachtung von Tieren anordnen, sofern dies aus tierseuchen- oder tierschutzrechtlichen Gründen angezeigt ist.
+
+[^229h-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 229i
+
+**Evaluation**[^229i-1]
+
+<sup>1</sup> Das BLV evaluiert das Bekämpfungsprogramm laufend, insbesondere in Bezug auf die Zielvorgabe nach Artikel 229 Absatz 3.
+
+<sup>2</sup> Es entscheidet nach Absprache mit den Kantonen über das weitere Vorgehen während und nach Abschluss des Bekämpfungsprogramms.
+
+[^229i-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 6. Abschnitt: Dasselkrankheit
 
