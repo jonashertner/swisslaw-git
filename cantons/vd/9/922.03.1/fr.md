@@ -4,7 +4,7 @@ number: "922.03.1"
 title: "RÈGLEMENT du 07.07.2004 d'exécution de la loi du 28 février 1989 sur la faune (RLFaune)"
 short: RLFaune
 language: fr
-version: 2021-12-15
+version: 2024-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.1?id=21dd947f-7594-4427-8826-31b464078f96"
 ---
 
@@ -46,45 +46,108 @@ arrête
 
 <sup>1</sup> Il est interdit d'importuner de quelque manière que ce soit la faune sauvage.
 
-<sup>2</sup> Une autorisation du service est nécessaire pour tout travail, aménagement ou manifestation susceptible de déranger la faune.
+<sup>2</sup> Une autorisation du service est nécessaire pour tout aménagement ou manifestation susceptible de déranger la faune.
 
 <sup>3</sup> Les travaux forestiers et agricoles et les cas de nécessité sont réservés.
 
 <sup>4</sup> Le département, après avoir pris l'avis des milieux concernés, peut créer des zones de tranquillité pour la faune, afin d'assurer sa protection contre les dérangements dus aux activités de loisirs et au tourisme. Il édicte des dispositions particulières concernant ces zones.
 
-[^titleTitreII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^titleTitreII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 2a
 
-**Tenue des chiens en laisse et chiens errants (loi, art. 20) [^2-1]**
+**... [^2-1]**
 
-<sup>1</sup> Est considéré comme chien errant :
+<sup>1</sup> ...
 
-- a. tout chien se trouvant à plus de 200 m de l'habitation de son détenteur;
-- b. tout chien se trouvant, en terrain découvert, à plus de 200 m de son détenteur;
-- c. tout chien se trouvant en forêt et hors du contrôle visuel de son détenteur.
+- a. ...
+- b. ...
+- c. ...
 
-<sup>2</sup> Tout détenteur d'un chien doit être en mesure de le maîtriser à tout moment par la voix ou le geste. A défaut, le chien doit être tenu en laisse ou être empêché de quitter les abords de l'habitation de son détenteur.
+<sup>2</sup> ...
 
-<sup>3</sup> Les chiens doivent être tenus en laisse en forêt, en lisière de forêt ainsi que sur les prairies attenantes situées en zone agricole du 1<sup>er</sup> avril au 15 juillet. Tous les chiens doivent être tenus en laisse dans les pâturages qui sont occupés par du bétail.
+<sup>3</sup> ...
 
-<sup>4</sup> Font exception aux règles qui précèdent les chiens d'utilité tels que chiens de police ou de secours, chiens de rouge et chiens de conduite ou de protection de troupeaux.
+<sup>4</sup> ...
 
-<sup>5</sup> Les dispositions concernant les chiens de chasse sont réservées.
+<sup>5</sup> ...
 
-[^2-1]: Modif. 3 du 03.07.2019: Introduction Art. 2a; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-5; entrée en vigueur au 01.06.2024; Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^2-1]: Modif. 3 du 03.07.2019: Introduction Art. 2a; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-5; entrée en vigueur au 01.06.2024
+
+#### Art. 2b
+
+**Réserves cantonales de chasse et de protection de la faune (loi, art. 9) [^2a-1]**
+
+<sup>1</sup> Des réserves cantonales de chasse et de protection de la faune (ci-après: réserves de faune) sont créées pour garantir la conservation des espèces chassables (mammifères) dans toutes les régions du canton.
+
+<sup>2</sup> Elles sont ouvertes ou fermées à la chasse en fonction de l'évolution des effectifs des espèces chassables, des risques d'épizooties ou de l'importance des dommages. Le Département fixe les modalités dans les directives annuelles sur la chasse.
+
+<sup>3</sup> Sous réserve des exceptions prévues par les législations fédérale et cantonale sur la chasse :
+
+- a. les chiens doivent être tenus en laisse; l'article 7b s'applique, dans le respect des objectifs de protection des réserves.
+- b. il est interdit de pénétrer avec une arme, la circulation sur les routes cantonales étant réservée;
+- c. il est interdit de tirer ou ramasser les espèces pouvant être chassées;
+- d. toute espèce chassable blessée qui s'est réfugiée dans une réserve ou qui y est tombée morte doit être annoncée sans délai par le chasseur responsable à l'agent de police faune-nature qui décide des mesures à prendre.
+
+[^2a-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 2b; entrée en vigueur au 01.06.2024
+
+#### Art. 2c
+
+**Réserves cantonales de protection d'oiseaux (loi, art. 9) [^2b-1]**
+
+<sup>1</sup> Des réserves cantonales de protection d'oiseaux (ci-après: réserves d'oiseaux) sont créées dans des secteurs présentant des milieux naturels caractéristiques et un intérêt particulier pour la conservation d'oiseaux protégés hivernants ou nicheurs.
+
+<sup>2</sup> Sont notamment visés, certaines rives de lacs et étangs, des zones inondables, des retenues d'eau naturelles ou artificielles (bassins techniques de rétention et d'épuration des eaux) et des falaises.
+
+<sup>3</sup> La gestion de ces réserves est axée sur la conservation des milieux et des espèces qui ont justifié leur création.
+
+<sup>4</sup> La chasse, la capture d'espèces animales sauvages ainsi que le dérangement aux oiseaux concernés y sont interdites, sauf pour des besoins scientifiques ou de recherche.
+
+<sup>5</sup> Les chiens doivent être tenus en laisse. L'article 7b s'applique, dans le respect des objectifs de protection des réserves.
+
+<sup>6</sup> En cas d'épizooties, de dégâts importants ou en présence d'espèces exotiques envahissantes, le service peut conduire des actions de régulation, sous réserve qu'elles ne compromettent pas les objectifs de protection.
+
+[^2b-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-6; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024
+
+#### Art. 2d
+
+**Délimitation et balisage des réserves de faune et d'oiseaux [^2c-1]**
+
+<sup>1</sup> Les territoires délimités comme réserves de faune sont énumérés à l'annexe I.
+
+<sup>2</sup> Les territoires délimités comme réserves d'oiseaux sont énumérés à l'annexe II.
+
+<sup>3</sup> Les territoires sont délimités en se référant à la carte nationale de la Suisse au 1:25'000.
+
+<sup>4</sup> Le Département est compétent pour délimiter précisément les réserves à une échelle plus fine.
+
+<sup>5</sup> Le service est en charge du balisage des districts francs fédéraux, des réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale et des réserves cantonales. Aux entrées principales, il y a lieu de placer des panneaux comportant des indications sur la zone protégée, sur le but visé par la protection et sur les principales mesures de protection.
+
+<sup>6</sup> Un chemin faisant limite avec une réserve cantonale n'est pas compris dans la réserve.
+
+<sup>7</sup> Lorsque les circonstances le justifient, les réserves de faune et d'oiseaux font l'objet des adaptations nécessaires par le Conseil d'Etat.
+
+[^2c-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-7; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024
+
+#### Art. 2e
+
+**Modalités de diffusion [^2d-1]**
+
+<sup>1</sup> La carte des réserves de faune et des réserves d'oiseaux du Canton de Vaud fait partie intégrante du présent règlement. Elle n'est pas publiée dans le recueil officiel des lois vaudoises, mais paraît sous forme électronique sur le guichet cartographique cantonal.
+
+[^2d-1]: Modif. 6 du 22.05.2024: Introduction Art. 2e; entrée en vigueur au 01.06.2024
 
 #### Art. 3
 
-**Mesures de conservation de la faune (loi, art. 7) [^2a-1]**
+**Mesures de conservation de la faune (loi, art. 7) [^2e-1]**
 
-<sup>1</sup> Le département détermine, sur la base des listes rouges officielles, les espèces sur lesquelles portera le plan d'action.
+<sup>1</sup> Après avoir consulté les acteurs concernés, le service établit des plans d'action pour la sauvegarde des espèces d'oiseaux et de mammifères qui le nécessitent. Pour les espèces qui font déjà l'objet d'un plan d'action au niveau national, le service se charge de préciser sa mise en œuvre au niveau régional.
 
-<sup>2</sup> Le service est chargé d'établir et de réaliser un plan d'action pour la sauvegarde des espèces menacées.
+<sup>2</sup> ...
 
-<sup>3</sup> Ce plan précise l'état des populations des espèces concernées, le principe et les modalités d'exécution des mesures de protection, ainsi que les moyens de contrôle du succès des mesures prises.
+<sup>3</sup> Les plans d'action précisent notamment les mesures de protection, ainsi que celles nécessaires au contrôle du succès des mesures prises. Ils font partie intégrante de la stratégie cantonale globale de conservation des espèces et des milieux naturels au sens du règlement d'application de la loi sur la protection du patrimoine naturel et paysager.
 
-[^2a-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Abrogation Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^2e-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Abrogation Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024
 
 #### Art. 4
 
@@ -98,26 +161,67 @@ arrête
 
 #### Art. 5
 
-**Observation de la faune (loi, art. 7) [^4-1]**
+**... [^4-1]**
 
-<sup>1</sup> Il est interdit d'utiliser :
+<sup>1</sup> ...
 
-- a. des sources lumineuses artificielles, des appareils de vision nocturne, notamment des appareils thermiques ou des pièges-photographiques avec flashes pour observer, traquer, filmer ou photographier de nuit les animaux sauvages, ou pour rechercher leurs empreintes ;
-- b. des appareils de reproduction de son.
+- a. ...
+- b. ...
 
-<sup>2</sup> Sont réservées les autorisations délivrées par le service.
+<sup>2</sup> ...
 
-[^4-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 1, a-b; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^4-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 1, a-b; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-2; entrée en vigueur au 01.06.2024
+
+#### Art. 5a
+
+**Etude, recherche et connaissance de la faune - traitement des données personnelles (loi, art. 6a) [^5-1]**
+
+<sup>1</sup> Dans un but de recherche et de connaissance de la faune, sont habilités, cas échéant, à traiter les données personnelles au sens de l'article 6a de la loi:
+
+- a. les collaborateurs du service;
+- b. les mandataires et personnes dûment autorisés par le service.
+
+<sup>2</sup> Les mandataires et personnes dûment autorisées par le service agissent au titre de sous-traitant. le service s'assure qu'ils respectent les règles applicables en matière de protection des données personnelles.
+
+[^5-1]: Modif. 6 du 22.05.2024: Introduction Art. 5a; entrée en vigueur au 01.06.2024
+
+#### Art. 5b
+
+**Traitement des données (loi, art. 6a) [^5a-1]**
+
+<sup>1</sup> Conformément aux buts de la loi, l'utilisation des moyens techniques au sens de l'article 6a, alinéa 2 de la loi implique:
+
+- a. le prélèvement du contenu ;
+- b. le visionnage ;
+- c. le tri entre les données utiles aux buts de la loi et les données au sens de la loi sur la protection des données;
+- d. l'effacement des éventuelles données personnelles.
+
+[^5a-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024
+
+#### Art. 5c
+
+**Observation de la faune (loi, art. 6a et 7) [^5b-1]**
+
+<sup>1</sup> Il est interdit :
+
+- a. d'utiliser des sources lumineuses artificielles, des appareils de vision nocturne (notamment amplificateur de lumière), des appareils de vision thermique, des pièges photographiques, pour observer, traquer, filmer ou photographier les animaux sauvages, ou pour rechercher leurs empreintes ;
+- b. d'être en possession, dans les territoires ouverts à la chasse, les périmètres des réserves cantonales et fédérales au sens du présent règlement, d'appareils de vision nocturne (notamment amplificateur de lumière) ainsi que d'appareils de vision thermique;
+- c. d'utiliser des appareils de reproduction de son pour les grands carnivores et les espèces chassables, à l'exception du pigeon domestique, du pigeon ramier, du corbeau freux et de la corneille noire ;
+- d. de s'approcher à moins de 100 mètres des aires de parade ou de reproduction des espèces menacées.
+
+<sup>2</sup> Sont réservées les autorisations délivrées par le service en matière de gestion, de recherche et de suivi.
+
+[^5b-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024
 
 #### Art. 6
 
-**Elevage et détention d'animaux (loi, art. 14 et 15) [^5-1]**
+**Elevage et détention d'animaux (loi, art. 14 et 15) [^5c-1]**
 
 *a) généralités*
 
 <sup>1</sup> Le service peut contrôler en tout temps les élevages et les installations de détention d'animaux sauvages indigènes.
 
-[^5-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019
+[^5c-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019
 
 #### Art. 7
 
@@ -138,6 +242,28 @@ arrête
 
 [^7-1]: Modif. 2 du 21.06.2017: Introduction Art. 7a; entrée en vigueur au 01.07.2017
 
+#### Art. 7b
+
+**Tenue des chiens en laisse et chiens errants (loi, art. 20) [^7a-1]**
+
+<sup>1</sup> Est considéré comme chien errant :
+
+- a. tout chien se trouvant à plus de 200 m de l'habitation de son détenteur;
+- b. tout chien se trouvant, en terrain découvert, à plus de 200 m de son détenteur;
+- c. tout chien se trouvant en forêt et hors du contrôle visuel de son détenteur.
+
+<sup>2</sup> Tout détenteur d'un chien doit être en mesure de le maîtriser à tout moment par la voix ou le geste. A défaut, le chien doit être tenu en laisse ou être empêché de quitter les abords de l'habitation de son détenteur.
+
+<sup>3</sup> Les chiens doivent être tenus en laisse en forêt, en lisière de forêt ainsi que sur les prairies attenantes situées en zone agricole du 1er avril au 15 juillet.
+
+<sup>4</sup> En tout temps, ils doivent être tenus en laisse dans les pâturages qui sont occupés par du bétail.
+
+<sup>5</sup> Les chiens doivent être tenus en laisse dans les zones de tranquillité de la faune, pendant les périodes de restriction d'accès et selon les dispositions spécifiques des réserves mentionnées aux articles 2b et 2c du présent règlement ainsi que dans les districts francs fédéraux et réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale.
+
+<sup>6</sup> Font exception aux règles qui précèdent les chiens d'utilité tels que chiens de police ou de secours, chiens de rouge, chiens renifleurs et chiens de conduite ou de protection de troupeaux en exercice.
+
+[^7a-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-6; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024
+
 ## Titre III Conservation des biotopes
 
 #### Art. 8
@@ -148,41 +274,42 @@ arrête
 
 <sup>1</sup> L'autorisation prévue à l'article 22 de la loi [^8-1] est nécessaire, notamment :
 
-- a. pour toute modification, réduction importante ou suppression d'un des milieux mentionnés à l'article 21 de la loi ainsi que pour toute atteinte à des prés maigres ou humides;
-- b. en cas de réfection ou de démolition de constructions utilisées comme refuge ou lieu de nidification par la faune.
+- a. en cas d'atteinte technique aux habitats d'espèces animales protégées par la loi sur la protection du patrimoine naturel et paysager ;
+- b. en cas d'aménagement ou d'atteintes techniques aux réserves cantonales ;
+- c. en cas de travaux d'entretien, de réfection ou de démolition de constructions abritant des nids d'espèces menacées, potentiellement menacées ou prioritaires.
 
-<sup>2</sup> Les travaux d'entretien des haies et bosquets protégés au sens de la loi sur la protection de la nature, des monuments et des sites ne peuvent être effectués que du 1er septembre au 1er mars, afin d'assurer la protection de la faune pendant la période de reproduction
+<sup>2</sup> Les travaux d'entretien des milieux naturels et du patrimoine arboré sont réglementés par le règlement d'application de la loi sur la protection du patrimoine naturel et paysager.
 
-<sup>3</sup> Les dispositions de la législation sur la protection de la nature sont applicables.
+<sup>3</sup> Les dispositions prévoyant des mesures de remplacement des milieux ou habitats détruits sont réservées.
 
-[^titleTitreIII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Introduction Al. 1, c; entrée en vigueur au 01.06.2024; Modification Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^titleTitreIII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Introduction Al. 1, c; entrée en vigueur au 01.06.2024; Modification Al. 2-3; entrée en vigueur au 01.06.2024
 [^8-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 9
 
-**b) documents nécessaires (loi, art. 22) [^8-2]**
+**b) sans changement [^8-2]**
 
-<sup>1</sup> Toute demande d'autorisation doit comporter les documents suivants :
+<sup>1</sup> Toute demande d'autorisation doit contenir les documents et informations suivants:
 
-- a. les indications nécessaires sur la nature, la longueur ou la surface du milieu touché;
-- b. la compensation éventuelle proposée;
-- c. une carte topographique au 1 : 25'000 et un plan au 1 : 10'000 ou au 1 : 5'000 avec report de la surface touchée et de la surface éventuelle de compensation.
+- a. les indications nécessaires sur la nature des milieux, le nombre de nids touchés, ainsi que les espèces concernées;
+- b. la compensation proposée;
+- c. un plan des travaux avec report des milieux ou nids touchés et un plan de localisation des mesures de compensation.
 
-[^8-2]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, a-c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^8-2]: Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, a-c; entrée en vigueur au 01.06.2024
 
 #### Art. 10
 
-**Entretien des milieux naturels (loi, art. 21) [^9-1]**
+**... [^9-1]**
 
-<sup>1</sup> Il est interdit d'utiliser le feu ou un procédé chimique pour l'entretien d'un milieu naturel.
+<sup>1</sup> ...
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-<sup>4</sup> Exceptionnellement, le département peut accorder des dérogations.
+<sup>4</sup> ...
 
-[^9-1]: Modif. 2 du 21.06.2017: Abrogation Al. 2,3; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1,4; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^9-1]: Modif. 2 du 21.06.2017: Abrogation Al. 2,3; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1,4; entrée en vigueur au 01.06.2024
 
 ## Titre IV Gestion de la faune
 
@@ -207,7 +334,7 @@ arrête
 
 **Réalisation du plan de tir (loi, art. 26) [^12-1]**
 
-<sup>1</sup> Pour réaliser le plan de tir, le département peut :
+<sup>1</sup> Pour réaliser le plan de tir, le département peut, par directive:
 
 - a. limiter le nombre de chasseurs autorisés à chasser une espèce ;
 - b. limiter le nombre d'individus d'une espèce que chaque chasseur est autorisé à tirer ;
@@ -215,44 +342,61 @@ arrête
 - d. prévoir des chasses spéciales dans des secteurs déterminés ;
 - e. poser des exigences particulières pour la chasse de certaines espèces.
 
-[^12-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^12-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 14
 
-**Gibier (loi, art. 25) [^13-1]**
+**Espèces pouvant être chassées et période de protection (loi, art. 25) [^13-1]**
 
-<sup>1</sup> Les seules espèces dont la chasse est autorisée sont :
+<sup>1</sup> Les espèces pouvant être chassées, sauf pendant les périodes de protection, sont:
 
-- 1\. le sanglier à l'exception de la laie accompagnée de marcassins, le cerf, le chevreuil, le bouquetin et le chamois à l'exception de leur femelle suitée ;
-- 2\. le lièvre, le lièvre variable ;
-- 3\. le renard, le blaireau, la fouine, la martre, le chat haret à l'exception des chats d'aspect tigré ;
-- 4\. le cormoran, le canard colvert, la sarcelle d'hiver, les fuligules milouin et morillon, le garrot à oeil d'or, la foulque macroule ;
+- 1\. le cerf et le chevreuil à l'exception de leur femelle suitée, le sanglier à l'exception de la laie accompagnée de marcassins, le bouquetin et le chamois à l'exception de leur femelle suitée ou allaitante ;
+- 2\. le lièvre commun, le lièvre variable ;
+- 3\. le renard, le blaireau, la fouine, le chat haret à l'exception des chats d'aspect tigré ;
+- 4\. le grand cormoran, le canard colvert, la foulque macroule ;
 - 5\. le coq du tétras lyre ;
 - 6\. la bécasse des bois;
-- 7\. le pigeon ramier, la tourterelle turque, le pigeon domestique retourné à l'état sauvage, le corbeau freux, la corneille noire, la pie, le geai des chênes ;
+- 7\. le pigeon ramier, la tourterelle turque, le pigeon domestique retourné à l'état sauvage, le corbeau freux, la corneille noire, la pie ;
 - 8\. ...
 - 9\. les espèces non indigènes.
 
-<sup>2</sup> Si les circonstances le justifient, le département peut protéger partiellement ou temporairement des espèces mentionnées ci-dessus.
+<sup>2</sup> Le département peut prolonger la période de protection ou réduire la liste des espèces pouvant être chassées mentionnées ci-dessus.
 
-[^13-1]: Modif. 3 du 03.07.2019: Modification Al. 1, 1,2,3,4,5,7; entrée en vigueur au 01.07.2019; Abrogation Al. 1, 8; entrée en vigueur au 01.07.2019; Introduction Al. 1, 9; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, 1,2,3,4,7; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^13-1]: Modif. 3 du 03.07.2019: Modification Al. 1, 1,2,3,4,5,7; entrée en vigueur au 01.07.2019; Abrogation Al. 1, 8; entrée en vigueur au 01.07.2019; Introduction Al. 1, 9; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, 1,2,3,4,7; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024
+
+#### Art. 14a
+
+**Espèces protégées au niveau cantonal (loi, art. 25) [^14-1]**
+
+<sup>1</sup> Tous les animaux visés à l'article 2 de la loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages qui n'appartiennent pas à une espèce pouvant être chassée selon l'article 14 du présent règlement sont protégés (espèces protégées).
+
+<sup>2</sup> Il est interdit:
+
+- a. de tuer, blesser, capturer, garder en captivité ou mettre en vente les animaux de ces espèces;
+- b. de dénicher des œufs ou de jeunes oiseaux d'espèces protégées ou déranger les oiseaux pendant la couvaison;
+- c. d'endommager, détruire ou enlever les nids d'espèces menacées sur des bâtiments.
+
+<sup>3</sup> Ne sont pas concernés les micromammifères ne figurant pas sur les Listes rouges publiées ou reconnues par l'OFEV et qui causent des dommages avérés aux forêts, aux cultures, prairies, pâturages et aux biens ou qui constituent un danger pour l'homme et sa santé.
+
+<sup>4</sup> Pour les autres espèces animales, les dispositions cantonales de la loi sur la protection du patrimoine naturel et paysager restent réservées.
+
+[^14-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1-4; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024
 
 #### Art. 15
 
-**Capture des escargots (loi, art. 25) [^14-1]**
+**... [^14a-1]**
 
-<sup>1</sup> La capture des escargots est réglementée par un arrêté spécial du Conseil d'Etat [^15-1] .
+<sup>1</sup> ...
 
-[^14-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^15-1]: Arrêté du 11.06.1976 concernant la protection des escargots ([BLV 922.03.2](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.2?id=b79e4a9f-c144-4477-aaa2-a7b262bbd28e))
+[^14a-1]: Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 16
 
-**Espèces nuisibles (loi, art. 25) [^15-2]**
+**... [^15-1]**
 
-<sup>1</sup> Les taupes, rats, souris, mulots et campagnols, à l'exception du campagnol des neiges, ainsi que les invertébrés qui causent des dommages avérés aux forêts, aux cultures et aux biens ou qui constituent une gêne grave pour l'homme ou pour les animaux domestiques ou un danger pour leur santé peuvent être détruits ou capturés sans autorisation spéciale.
+<sup>1</sup> ...
 
-[^15-2]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^15-1]: Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 17
 
@@ -275,19 +419,19 @@ arrête
 - c. le permis de chasse du chamois donnant le droit de chasser cet animal et de participer à des chasses du chamois ;
 - d. le permis de chasse restreinte des mammifères donnant le droit de chasser le sanglier, ainsi que les animaux mentionnés à l'article 14 alinéa 1 chiffres 3, 7 et 9 ;
 - e. le permis de chasse restreinte des oiseaux donnant le droit de chasser les animaux mentionnés à l'article 14 alinéa 1 chiffres 4, 6, 7 et 9 ;
-- f. le permis de piégeage de la martre, de la fouine et du renard;
-- g. le permis pour la chasse sur le lac Léman donnant le droit de chasser sur ce lac les espèces mentionnées à l'article 14 alinéa 1 chiffre 4 du présent règlement ;
+- f. le permis de piégeage de la fouine et du renard;
+- g. le permis pour la chasse sur le Léman donnant le droit de chasser sur ce lac les espèces mentionnées à l'article 14, alinéa 1, chiffre 4 du présent règlement;
 - h. le permis pour la chasse sur le lac de Neuchâtel, réglementée par le concordat y relatif;
 - i. le permis pour la chasse sur le lac de Morat, réglementée par le concordat y relatif;
 - j. le permis temporaire de chasser donnant le droit de chasser pour une journée sur l'ensemble du canton tous les animaux dont la chasse est autorisée, à l'exception du chamois, du cerf, du bouquetin et du tétras-lyre.
 - k. le permis de chasse provisoire pour le candidat à l'examen de chasse.
-- l. le permis de chasse spécial donnant le droit aux pêcheurs professionnels de chasser le cormoran sur le lac de Neuchâtel et sur le lac de Morat, réglementé par les concordats y relatifs, ainsi que sur le lac Léman, réglementé par la directive départementale sur la chasse.
+- l. le permis de chasse spécial donnant le droit aux pêcheurs professionnels de chasser le cormoran sur le lac de Neuchâtel et sur le lac de Morat, réglementé par les concordats y relatifs, ainsi que sur le Léman et le lac de Joux, réglementés par la directive départementale sur la chasse.
 
 <sup>2</sup> Les permis des lettres g à i et l ne donnent le droit de chasser qu'en bateau.
 
 <sup>3</sup> Il n'y a pas de chasse en bateau sur les autres lacs.
 
-[^chapterChapitreI-1]: Modif. 1 du 09.08.2006: Introduction Al. 1 J; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, b,c,d,e,g; entrée en vigueur au 01.07.2019; Introduction Al. 1, k; entrée en vigueur au 01.07.2019 · Modif. 4 du 12.02.2020: Introduction Al. 1, l; entrée en vigueur au 27.05.2020; Modification Al. 2; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 1, f,g,l; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^chapterChapitreI-1]: Modif. 1 du 09.08.2006: Introduction Al. 1 J; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, b,c,d,e,g; entrée en vigueur au 01.07.2019; Introduction Al. 1, k; entrée en vigueur au 01.07.2019 · Modif. 4 du 12.02.2020: Introduction Al. 1, l; entrée en vigueur au 27.05.2020; Modification Al. 2; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Modification Al. 1, f,g,l; entrée en vigueur au 01.06.2024
 
 #### Art. 19
 
@@ -315,21 +459,20 @@ arrête
 
 <sup>3</sup> ...
 
-<sup>4</sup> Celui qui a commis une infraction aux dispositions de la législation sur la faune[^21-1], sur la protection des animaux, sur les épizooties et sur les denrées alimentaires n'est pas admis aux chasses du chamois et au tir bouquetin.
+<sup>4</sup> Celui qui a commis une infraction aux dispositions de la législation sur la faune, sur la protection des animaux, sur les épizooties et sur les denrées alimentaires, à l'exception d'une contravention réprimée par une amende d'ordre, n'est pas admis aux chasses du chamois, au tir du bouquetin et à la chasse individuelle du cerf.
 
-<sup>5</sup> Le service fixe la durée de l'interdiction de participer aux chasses du chamois et au tir du bouquetin. Celle-ci sera :
+<sup>5</sup> Le service fixe la durée de l'interdiction de participer aux chasses du chamois, au tir du bouquetin et à la chasse individuelle du cerf. Celle-ci sera :
 
 - - de 3 ans et plus en cas d'interdiction prononcée dans les 5 dernières années (récidive);
 - - de 5 ans et plus en cas d'infraction volontaire ou grave.
 
 <sup>6</sup> Dans les cas de peu de gravité, le service prononcera des avertissements.
 
-[^20-1]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 4-6; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021; Abrogation Al. 3; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 4-5; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^21-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
+[^20-1]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 4-6; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021; Abrogation Al. 3; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 4-5; entrée en vigueur au 01.06.2024
 
 #### Art. 21a
 
-**Permis temporaire de chasser [^21-2]**
+**Permis temporaire de chasser [^21-1]**
 
 <sup>1</sup> Un permis temporaire de chasser (permis J) peut être délivré à des chasseurs qui remplissent les conditions suivantes :
 
@@ -345,11 +488,11 @@ arrête
 
 <sup>5</sup> Par jour, un groupe de chasse peut accueillir deux titulaires d'un permis temporaire au maximum. Ces derniers sont comptabilisés dans le groupe.
 
-<sup>6</sup> Sur requête d'un agent de police de la faune, le titulaire d'un permis temporaire est tenu de présenter son permis et une pièce d'identité.
+<sup>6</sup> Sur requête d'un agent de police faune-nature, le titulaire d'un permis temporaire est tenu de présenter son permis et une pièce d'identité.
 
-<sup>7</sup> Le gibier tiré par le titulaire d'un permis temporaire est porté sur le compte du chasseur qui l'accompagne.
+<sup>7</sup> L'espèce pouvant être chassée qui est tirée par le titulaire d'un permis temporaire est portée sur le compte du chasseur qui l'accompagne.
 
-[^21-2]: Modif. 1 du 09.08.2006: Introduction Art. 21a; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, a-b; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Al. 1, c; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 6-7; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^21-1]: Modif. 1 du 09.08.2006: Introduction Art. 21a; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, a-b; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Al. 1, c; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 6-7; entrée en vigueur au 01.06.2024
 [^21a-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 22
@@ -386,22 +529,21 @@ arrête
 - d. une pièce de légitimation (passeport, permis de conduire, etc.);
 - e. une photographie format passeport;
 - f. la preuve qu'il a payé l'impôt pour chaque chien qu'il utilise pour chasser;
-- g. pour celui qui n'est pas domicilié dans le canton, les attestations des services ou offices de son lieu de domicile prouvant qu'il remplit les conditions de l'article 31, lettres a. à e. de la loi sur la faune [^23-1] .
+- g. pour celui qui n'est pas domicilié dans le canton, une attestation sur l'honneur qu'il remplit les conditions de l'article 31, lettres a. à e. de la loi sur la faune.
 
 <sup>2</sup> En signant son carnet de chasse ou, le cas échéant, son permis, le requérant confirme qu'il remplit toutes les conditions de l'article 31 de la loi sur la faune.
 
-[^22-1]: Modif. 5 du 01.12.2021: Modification Al. 1, b; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 1, g; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^23-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
+[^22-1]: Modif. 5 du 01.12.2021: Modification Al. 1, b; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 1, g; entrée en vigueur au 01.06.2024
 
 #### Art. 24
 
-**Surtaxe au permis pour non domiciliés (loi, art. 38) [^23-2]**
+**Surtaxe au permis pour non domiciliés (loi, art. 38) [^23-1]**
 
 <sup>1</sup> La surtaxe pour personnes non-domiciliées ou domiciliées depuis moins d'un an dans le canton est égale au prix du permis.
 
 <sup>2</sup> Cette surtaxe s'applique sur chaque permis, sauf au permis J.
 
-[^23-2]: Modif. 1 du 09.08.2006: Modification Al. 2; entrée en vigueur au 15.08.2006
+[^23-1]: Modif. 1 du 09.08.2006: Modification Al. 2; entrée en vigueur au 15.08.2006
 
 ### Chapitre II Examen de chasse
 
@@ -438,7 +580,9 @@ arrête
 - 1\. Une commission d'examen, composée de 7 experts, qui est chargée d'organiser les épreuves avec la collaboration du service et d'attribuer les notes pour l'obtention du permis de chasse. Un membre de la direction du service ou un représentant désigné par celle-ci préside la commission.
 - 2\. Les représentants du service qui sont chargés d'organiser les épreuves et d'attribuer les notes pour l'obtention du permis spécial destiné aux pêcheurs professionnels.
 
-[^25-2]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 4 du 12.02.2020: Modification Al. 1; entrée en vigueur au 27.05.2020; Introduction Al. 1, 1-2; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>2</sup> Le service établit une directive technique précisant les modalités pratiques de l'examen.
+
+[^25-2]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 4 du 12.02.2020: Modification Al. 1; entrée en vigueur au 27.05.2020; Introduction Al. 1, 1-2; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Introduction Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 27
 
@@ -472,15 +616,21 @@ arrête
 
 **Déroulement de l'examen (loi, art. 32) [^28-1]**
 
-<sup>1</sup> L'examen se déroule en 2 parties : une première partie consacrée aux disciplines figurant à l'article 25, chiffres 1 à 4, une deuxième partie pour les autres disciplines prévues dans ce même article.
+<sup>1</sup> L'examen pour l'obtention du permis de chasse se déroule en 3 parties:
 
-<sup>2</sup> Le candidat qui, lors de la première partie, n'obtient pas le minimum requis peut la répéter. Il peut également se présenter à la seconde partie.
+- 1\. un examen théorique;
+- 2\. un examen de tir;
+- 3\. un examen final (pratique).
 
-<sup>3</sup> Le candidat qui, lors de la seconde partie, n'obtient pas le minimum requis est considéré comme ayant échoué. En cas d'échec à la seconde partie, le résultat de la première partie reste acquis.
+<sup>1bis</sup> Le candidat qui, lors de l'examen théorique, n'obtient pas le minimum requis peut le répéter. Il peut également se présenter à l'examen de tir. En revanche, il ne peut pas se présenter à l'examen final.
 
-<sup>4</sup> L'examen est considéré comme réussi lorsque le candidat a obtenu le minimum requis aux deux parties.
+<sup>2</sup> Le candidat qui, lors de l'examen de tir, n'obtient pas le minimum requis peut le répéter. Il peut également se présenter à l'examen final.
 
-[^28-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Al. 1bis; entrée en vigueur au 01.06.2024; Modification Al. 2-4; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>3</sup> Le candidat qui, lors de l'examen final, n'obtient pas le minimum requis est considéré comme ayant échoué. En cas d'échec à l'examen final, le résultat de l'examen théorique et de l'examen de tir restent acquis.
+
+<sup>4</sup> L'examen est considéré comme réussi lorsque le candidat a obtenu le minimum requis aux trois parties.
+
+[^28-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Al. 1bis; entrée en vigueur au 01.06.2024; Modification Al. 2-4; entrée en vigueur au 01.06.2024
 
 #### Art. 30
 
@@ -520,23 +670,30 @@ arrête
 
 <sup>2</sup> Le candidat doit être âgé de dix-huit ans révolus pour pouvoir s'inscrire à l'examen.
 
-[^32-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>3</sup> L'inscription à la formation pour l'obtention du permis de chasse est valable durant 5 ans. A l'échéance de cette période, le candidat chasseur qui n'a pas obtenu son permis de chasse doit à nouveau s'inscrire. Les attestations obtenues lors de la précédente inscription deviennent caduques.
+
+[^32-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Al. 3; entrée en vigueur au 01.06.2024
 
 #### Art. 34
 
 **Emolument d'examen (loi, art. 32) [^33-1]**
 
-<sup>1</sup> Les candidats sont tenus d'acquitter, pour chaque partie d'examen, un émolument dont le montant est fixé par décision annuelle du département et qui reste acquis à l'Etat, quel que soit le résultat de l'examen.
+<sup>1</sup> Les candidats sont tenus d'acquitter, pour l'examen de tir et l'examen final, un émolument qui reste acquis à l'Etat, quel que soit le résultat de l'examen.
 
-[^33-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>2</sup> L'émolument se monte à CHF 450.- et est composé de:
+
+- a. CHF 250.- au titre de participation aux frais des journées préparatoires (sous réserve des journées de chasse); ce montant est dû dès l'instant où le candidat participe à la première journée de formation;
+- b. CHF 200.- au titre de participation aux frais d'examen (CHF 100.- par examen); un remboursement n'est accordé que si, en raison d'un cas de force majeure, le candidat ne se présente pas ou qu'il décide de mettre un terme définitif au cursus de formation.
+
+[^33-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 35
 
 **Attestation d'examen (loi, art. 32) [^34-1]**
 
-<sup>1</sup> Le département délivre une attestation au candidat qui a subi l'examen avec succès.
+<sup>1</sup> Le service délivre une attestation au candidat qui a subi l'examen avec succès.
 
-[^34-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^34-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 36
 
@@ -544,9 +701,9 @@ arrête
 
 <sup>1</sup> Le candidat qui échoue lors d'une session d'examen peut se présenter lors des deux sessions qui suivent.
 
-<sup>2</sup> Après 3 échecs successifs, le délai pour se présenter à un nouvel examen est de 2 ans. Dans ce cas, le candidat est soumis à l'épreuve périodique de tir.
+<sup>2</sup> Après 3 échecs successifs ou lorsque le candidat ne se représente pas à une session qui suit, ce dernier est considéré comme ayant échoué.
 
-[^35-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^35-1]: Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 
 ### Chapitre III Epreuves périodiques
 
@@ -625,13 +782,13 @@ arrête
 
 **Jours de chasse (loi, art. 53) [^sectionSectionI-1]**
 
-<sup>1</sup> La chasse est autorisée le lundi, le jeudi et le vendredi. Les dispositions concernant le piégeage sont réservées.
+<sup>1</sup> La chasse est autorisée le lundi, le mardi, le jeudi et le vendredi. Les dispositions concernant le piégeage sont réservées.
 
-<sup>2</sup> Suivant les nécessités du plan de tir, le département peut autoriser la chasse le mardi, le mercredi et le samedi.
+<sup>2</sup> Toute chasse est interdite les jours fériés.
 
-<sup>3</sup> Toute chasse est interdite les jours de fêtes religieuses et le 1er janvier.
+<sup>3</sup> Suivant les nécessités du plan de tir, le département peut autoriser la chasse le mercredi, le samedi et certains jours fériés.
 
-[^sectionSectionI-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^sectionSectionI-1]: Modif. 6 du 22.05.2024: Modification Al. 1-3; entrée en vigueur au 01.06.2024
 
 #### Art. 44
 
@@ -674,19 +831,21 @@ arrête
 
 #### Art. 46
 
-**Battues (loi, art. 51) [^45a-1]**
+**Moyens artificiels (loi, art. 51) [^45a-1]**
 
-<sup>1</sup> Il est interdit de tirer des coups de feu pour déloger le gibier.
+<sup>1</sup> Il est interdit de tirer des coups de feu pour déloger les espèces pouvant être chassées.
 
-[^45a-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>2</sup> L'usage de moyens artificiels non intrusifs, tels que la pose de silhouettes d'oiseaux artificiels, pour attirer et prélever des corneilles noires, corbeaux freux et pigeons est autorisé dans les cultures.
+
+[^45a-1]: Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 47
 
 **Recherche de traces (loi, art. 7) [^46-1]**
 
-<sup>1</sup> La recherche de traces de gibier est soumise aux dispositions de l'article 5 et ne peut pas être pratiquée avec un véhicule en dehors des jours de chasse et des heures de chasse ainsi qu'en dehors des routes et chemins ouverts à l'exercice de la chasse.
+<sup>1</sup> La recherche de traces d'espèces pouvant être chassées est soumise aux dispositions de l'article 5 et ne peut pas être pratiquée avec un véhicule en dehors des jours de chasse et des heures de chasse ainsi qu'en dehors des routes et chemins ouverts à l'exercice de la chasse.
 
-[^46-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^46-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 48
 
@@ -703,48 +862,47 @@ arrête
 
 #### Art. 49
 
-**Comportement dans les réserves (loi, art. 9) [^48-1]**
+**... [^48-1]**
 
-<sup>1</sup> Sous réserve des exceptions prévues par les législations fédérale[^49-1] et cantonale[^49-2] sur la chasse, dans les réserves de faune, districts francs et réserves d'oiseaux :
+<sup>1</sup> ...
 
-- a. tous les chiens doivent être tenus en laisse ;
-- b. il est interdit de pénétrer avec une arme, la circulation sur les routes cantonales étant réservée ;
-- c. il est interdit de tirer ou de ramasser le gibier.
+- a. ...
+- b. ...
+- c. ...
 
-<sup>2</sup> Le chasseur responsable doit annoncer sans délai au surveillant de la faune le gibier blessé qui s'est réfugié dans une réserve ou le gibier qui y est tombé mort.
+<sup>2</sup> ...
 
-<sup>3</sup> En dérogation aux lettres a et c du 1er alinéa du présent article, il est permis d'aller ramasser sans arme le gibier d'eau blessé ou mort qui est tombé dans une réserve.
+<sup>3</sup> ...
 
-[^48-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, b-c; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^49-1]: Loi fédérale du 20.06.1986 sur la chasse et la protection des mammifères et oiseaux sauvages (RS 922.0)
-[^49-2]: Concordat du 22.05.1978 sur l'exercice et la surveillance de la chasse [(BLV 922.91)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.91?id=afa49724-729a-4f0d-a15b-cc5fe958df79)
+[^48-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, b-c; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1-3; entrée en vigueur au 01.06.2024
 
 #### Art. 50
 
-**Animal protégé tiré involontairement (loi, art. 26) [^49-3]**
+**Animal protégé tiré involontairement (loi, art. 26) [^49-1]**
 
-<sup>1</sup> Celui qui, dans l'exercice de la chasse, tue involontairement un animal protégé est tenu de l'inscrire immédiatement dans son carnet de chasse et de le remettre sans délai au surveillant de la faune.
+<sup>1</sup> Celui qui, dans l'exercice de la chasse, tue involontairement un animal protégé est tenu de l'inscrire immédiatement dans son carnet de chasse et de le remettre sans délai à l'agent de police faune-nature qui décide des mesures à prendre.
 
-[^49-3]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^49-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 51
 
-**Gibier blessé (loi, art. 50) [^50-1]**
+**Recherche d'espèces blessées (loi, art. 50) [^50-1]**
 
 <sup>1</sup> Tout animal sur lequel le chasseur a tiré ainsi que tout animal blessé doivent être impérativement recherchés.
 
-<sup>2</sup> Tout ongulé qui n'est pas retrouvé doit être annoncé dans les deux heures qui suivent le tir, ou immédiatement s'il se réfugie dans un endroit interdit à la chasse énuméré à l'article 41 de la loi sur la faune[^51-1], au surveillant de la faune qui décide des mesures à prendre.
+<sup>2</sup> Tout ongulé qui n'est pas retrouvé doit être annoncé dans les deux heures qui suivent le tir, ou immédiatement s'il se réfugie dans un endroit interdit à la chasse énuméré à l'article 41 de la loi sur la faune, à l'agent de police faune-nature qui décide des mesures à prendre.
 
-[^50-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^51-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
+[^50-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 52
 
-**Jumelles (loi, art. 49) [^51-2]**
+**Jumelles (loi, art. 49) [^51-1]**
 
-<sup>1</sup> Le port d'une paire de jumelles ou d'une longue-vue est obligatoire pour la chasse du bouquetin et du chamois, ainsi que pour celle du cerf, du chevreuil et du sanglier à l'arme rayée à l'affût.
+<sup>1</sup> Le port d'une paire de jumelles ou d'une longue-vue est obligatoire pour la chasse du chamois, ainsi que pour la chasse à l'affût du cerf, du chevreuil et du sanglier à l'arme rayée.
 
-[^51-2]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>2</sup> Le port d'une longue vue est obligatoire pour le tir du bouquetin.
+
+[^51-1]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 53
 
@@ -820,7 +978,7 @@ arrête
 
 **Chasse sur le lac Léman en bateau (loi, art. 45) [^60-1]**
 
-<sup>1</sup> Le titulaire d'un permis de chasse sur le lac Léman ne peut chasser qu'à partir d'une embarcation sans moteur ou dont le moteur à une puissance ne dépassant pas 6 kW.
+<sup>1</sup> Le titulaire d'un permis de chasse sur le Léman ne peut chasser qu'à partir d'une embarcation sans moteur ou dont le moteur à une puissance ne dépassant pas 6 kW, exception faite des titulaires d'un permis spécial let. "l".
 
 <sup>2</sup> Il est interdit :
 
@@ -835,7 +993,7 @@ arrête
 
 <sup>6</sup> De même, les aides ne sont autorisés à porter ou à transporter des armes, ainsi qu'à tirer que s'ils sont titulaires d'un permis.
 
-[^60-1]: Modif. 4 du 12.02.2020: Modification Al. 3-5; entrée en vigueur au 27.05.2020; Introduction Al. 6; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^60-1]: Modif. 4 du 12.02.2020: Modification Al. 3-5; entrée en vigueur au 27.05.2020; Introduction Al. 6; entrée en vigueur au 27.05.2020 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 [^61-1]: Modif. 3 du 03.07.2019: Modification ; entrée en vigueur au 01.07.2019
 
 ### Chapitre IV Chiens de chasse
@@ -893,11 +1051,11 @@ arrête
 - a. dans les lieux où la chasse est interdite;
 - b. en tous lieux le dimanche;
 - c. en dehors des périodes prévues au 1er alinéa;
-- d. pendant les jours de tir du bouquetin, de chasse du chamois et du cerf, dans les zones ou secteurs où ces chasses se pratiquent.
+- d. pendant les jours de tir du bouquetin et de chasse du chamois, dans les zones ou secteurs où ces chasses se pratiquent.
 
 <sup>3</sup> Lorsqu'un chien n'a pas été retrouvé à la fin des heures d'ouverture de la chasse, son détenteur est tenu de le signaler à la police cantonale.
 
-[^64-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2, d; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^64-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 2, d; entrée en vigueur au 01.06.2024
 
 #### Art. 66
 
@@ -941,7 +1099,7 @@ arrête
 
 **b) routes assimilées à des routes à libre circulation**
 
-<sup>1</sup> Les routes assimilées à des routes à libre circulation sont mentionnées dans l'annexe I du présent règlement.
+<sup>1</sup> Les routes assimilées à des routes à libre circulation sont mentionnées dans l'annexe III du présent règlement.
 
 #### Art. 70
 
@@ -1026,7 +1184,7 @@ arrête
 
 #### Art. 78
 
-**d) transport de gibier [^77-1]**
+**d) transport d'espèces pouvant être chassées [^77-1]**
 
 <sup>1</sup> Le titulaire de permis qui va chercher ou qui ramène un cerf, un bouquetin, un sanglier, un chamois ou un chevreuil tué est autorisé à circuler sur les routes et chemins de classe 1 à 5, les chemins de 5ème classe étant marqués par un trait noir long partiellement discontinu selon les signes conventionnels de la carte nationale suisse au 1 : 25'000, dernier état de mise à jour de l'Office fédéral de la topographie publié avant le 31 juillet de l'année en cours, et à condition :
 
@@ -1036,7 +1194,7 @@ arrête
 
 <sup>2</sup> Aucun autre acte de chasse au sens de l'article 39 de la loi [^78-1] n'est autorisé durant ce déplacement.
 
-[^77-1]: Modif. 1 du 09.08.2006: Modification Al. 1; entrée en vigueur au 15.08.2006 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^77-1]: Modif. 1 du 09.08.2006: Modification Al. 1; entrée en vigueur au 15.08.2006 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024
 [^78-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 79
@@ -1103,11 +1261,11 @@ arrête
 
 <sup>1</sup> Il est permis d'employer une arme de poing ou un réducteur pour achever à courte distance un animal blessé.
 
-<sup>2</sup> Les revolvers utilisés à cet effet doivent avoir un canon d'une longueur maximale de 90 mm.
+<sup>2</sup> Les revolvers utilisés à cet effet doivent avoir un canon d'une longueur maximale de 112 mm.
 
 <sup>3</sup> Cette longueur est également valable pour les pistolets, la longueur de la chambre à cartouches étant comptée dans la longueur totale.
 
-[^83-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^83-1]: Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 
 ### Section II Contrôle des armes
 
@@ -1189,13 +1347,13 @@ arrête
 - 3\. les projectiles dont la chemise métallique est d'un calibre inférieur à 7 mm;
 - 4\. la chevrotine.
 
-<sup>2</sup> Est considéré comme chevrotine tout plomb d'un diamètre supérieur à 4.5 mm.
+<sup>2</sup> Est considéré comme chevrotine toute grenaille d'un diamètre supérieur à 4.5 mm.
 
 <sup>3</sup> Le port de ces munitions sur le terrain de chasse et leur transport dans un véhicule utilisé pour se rendre sur le terrain de chasse ou en revenir sont également interdits.
 
-<sup>4</sup> L'utilisation de grenaille en plomb non nickelé est interdite pour la chasse dans les zones peu profondes telles que marais, étangs, zones humides, rivières ainsi que sur le lac Léman.
+<sup>4</sup> L'utilisation de munition contenant du plomb est interdite, excepté pour la chasse du chevreuil avec arme à canon lisse (cartouche à grenaille).
 
-[^sectionSectionIII-2]: Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2,4; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^sectionSectionIII-2]: Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 2,4; entrée en vigueur au 01.06.2024
 
 #### Art. 92
 
@@ -1249,11 +1407,11 @@ arrête
 
 *a) généralités*
 
-<sup>1</sup> Les titulaires du permis de piégeage de la martre, de la fouine et du renard sont autorisés à piéger ces animaux au moyen de chatières amovibles dans tous les immeubles, habités ou non, ainsi qu'à l'extérieur de ceux-ci jusqu'à une distance de 100 m, ceci avec l'assentiment de l'usager de l'immeuble ou du fond.
+<sup>1</sup> Les titulaires du permis de piégeage de la fouine et du renard sont autorisés à piéger ces animaux au moyen de chatières amovibles dans tous les immeubles, habités ou non, ainsi qu'à l'extérieur de ceux-ci jusqu'à une distance de 100 m, ceci avec l'assentiment de l'usager de l'immeuble ou du fond.
 
 <sup>2</sup> Le département peut limiter le nombre et fixer les caractéristiques des chatières.
 
-[^sectionSectionV-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^sectionSectionV-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 99
 
@@ -1273,11 +1431,11 @@ arrête
 
 **d) mise à mort [^100-1]**
 
-<sup>1</sup> Tout renard, martre ou fouine capturé doit être immédiatement mis à mort au moyen d'une arme de poing ou d'un réducteur.
+<sup>1</sup> Tout renard ou fouine capturé doit être immédiatement mis à mort au moyen d'une arme de poing ou d'un réducteur.
 
 <sup>2</sup> Les autres animaux capturés doivent être relâchés sans délai.
 
-[^100-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^100-1]: Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 102
 
@@ -1285,12 +1443,12 @@ arrête
 
 <sup>1</sup> Tout piège doit être muni du nom et de l'adresse du titulaire du permis qui l'utilise.
 
-<sup>2</sup> Les agents de la police de la chasse ont le droit en tout temps d'accéder au piège pour le contrôler.
+<sup>2</sup> Les agents de police faune-nature ont le droit en tout temps d'accéder au piège pour le contrôler.
 
-[^101-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^101-1]: Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 [^102-1]: Modif. 6 du 22.05.2024: Modification ; entrée en vigueur au 01.06.2024
 
-## Titre VII Statistiques et controle du gibier tire
+## Titre VII Statistiques et contrôle
 
 [^102-1]
 
@@ -1301,7 +1459,7 @@ arrête
 <sup>1</sup> Le chasseur doit inscrire à l'encre sur son carnet de chasse les renseignements suivants :
 
 - 1\. lorsqu'il pénètre sur le terrain de chasse, la zone dans laquelle il chasse et la date du jour;
-- 2\. au moment de la prise de possession d'une pièce de gibier tuée, le nom de l'espèce et les diverses indications concernant l'animal tué. Pour les espèces capturées au piège, le nom de l'espèce sera suivi d'un "Pg";
+- 2\. au moment de la prise de possession d'une espèce pouvant être chassée tuée, le nom de l'espèce et les diverses indications concernant l'animal tué. Pour les espèces capturées au piège, le nom de l'espèce sera suivi d'un "Pg";
 - 3\. en cas d'arrêt de chasse tel que prévu à l'article 77, l'heure d'arrêt précise et le lieu où est stationné le véhicule.
 
 <sup>2</sup> Les zones de chasse seront désignées par les lettres suivantes :
@@ -1315,19 +1473,19 @@ arrête
 
 <sup>4</sup> Le carnet de chasse entier, y compris les formules de contrôle non utilisées, devra être renvoyé au service dès que possible mais au plus tard le 28 février de l'année en cours.
 
-<sup>5</sup> En revanche, celui qui fournit la marque de contrôle sans avoir tiré le gibier ne porte pas cette pièce sur son carnet de chasse.
+<sup>5</sup> En revanche, celui qui fournit la marque de contrôle sans avoir tiré l'espère pouvant être chassée ne porte pas cette pièce sur son carnet de chasse.
 
-[^titleTitreVII-1]: Modif. 3 du 03.07.2019: Modification Al. 2, Tiret 4; entrée en vigueur au 01.07.2019; Modification Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1, 2; entrée en vigueur au 01.06.2024; Modification Al. 5; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^titleTitreVII-1]: Modif. 3 du 03.07.2019: Modification Al. 2, Tiret 4; entrée en vigueur au 01.07.2019; Modification Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 1, 2; entrée en vigueur au 01.06.2024; Modification Al. 5; entrée en vigueur au 01.06.2024
 
 #### Art. 104
 
-**Gibier marqué (loi, art. 56) [^103-1]**
+**Marquage (loi, art. 56) [^103-1]**
 
-<sup>1</sup> Les chasseurs qui ont tiré du gibier marqué sont tenus de joindre à leur carnet de chasse les boutons ou bagues de contrôle dont étaient munis ces animaux.
+<sup>1</sup> Les chasseurs qui ont tiré des espèces pouvant être chassées qui étaient marquées sont tenus de joindre à leur carnet de chasse les boutons ou bagues de contrôle dont étaient munis ces animaux.
 
-<sup>2</sup> En tout temps, le service peut limiter ou interdire la chasse de gibier marqué à des fins scientifiques.
+<sup>2</sup> En tout temps, le service peut limiter ou interdire la chasse d'espèces qui ont été marquées à des fins scientifiques.
 
-[^103-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^103-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024
 
 #### Art. 105
 
@@ -1335,13 +1493,13 @@ arrête
 
 <sup>1</sup> Les marques de contrôle délivrées pour des espèces dont le tir est limité doivent être apposées de façon inamovible, immédiatement au moment de la prise de possession. Pour les mammifères, les marques de contrôle doivent être apposées au jarret.
 
-<sup>2</sup> Lorsque, dans le cadre d'une chasse en groupe, le tireur n'a pas sur lui la marque de contrôle, il est autorisé à vider sa pièce de gibier, mais ne peut la déplacer avant qu'elle ne soit pourvue de la marque de contrôle.
+<sup>2</sup> Lorsque, dans le cadre d'une chasse en groupe, le tireur n'a pas sur lui la marque de contrôle, il est autorisé à vider sa pièce d'espèce pouvant être chassée, mais ne peut la déplacer avant qu'elle ne soit pourvue de la marque de contrôle.
 
 <sup>3</sup> Toute pièce déplacée non pourvue de la marque ou dont la marque n'a pas été fixée d'une manière définitive ou dont la marque a été modifiée ou réutilisée, est considérée comme braconnée et sera séquestrée.
 
 <sup>4</sup> A des fins de vérification et jusqu'à la fermeture de la dernière période de chaque saison de chasse, le service peut exiger la présentation des marques de contrôle qui n'ont pas été utilisées au cours de la saison.
 
-[^104-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^104-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 4; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 106
 
@@ -1359,14 +1517,14 @@ arrête
 
 <sup>1</sup> Les marques de contrôle sont accompagnées d'une formule qui doit être remplie à l'encre et de manière lisible, immédiatement au moment de la prise de possession de l'animal. Celui-ci doit être conservé entier vidé (le cas échéant sans tête) jusqu'à remise ou expédition de la feuille de contrôle.
 
-<sup>2</sup> Cette formule doit être adressée dans les 48 heures au surveillant de la faune de la circonscription où le tir a eu lieu si elle n'a pas été remise à un agent de la police de la chasse lors d'un contrôle dans le terrain. En cas de remise de la formule, une attestation est délivrée.
+<sup>2</sup> Cette formule doit être adressée dans les 48 heures à l'agent de police faune-nature permanent de la circonscription où le tir a eu lieu. En cas de remise de la formule, une attestation est délivrée.
 
 <sup>3</sup> D'autres formules peuvent être établies par le service, notamment pour la chasse du cerf, du bouquetin, du chamois et du sanglier. Les chasseurs se conformeront aux exigences mentionnées sur lesdites formules.
 
-[^106-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 2-3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^106-1]: Modif. 3 du 03.07.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 2-3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification Al. 2; entrée en vigueur au 01.06.2024
 [^107-1]: Modif. 6 du 22.05.2024: Modification ; entrée en vigueur au 01.06.2024
 
-## Titre VIII Dommages causés par le gibier
+## Titre VIII Dommages causés par les espèces pouvant être chassées
 
 [^107-1]
 
@@ -1374,17 +1532,21 @@ arrête
 
 **Protection des cultures et des biens (loi, art. 58) [^titleTitreVIII-1]**
 
-<sup>1</sup> Les préfets peuvent autoriser des mesures individuelles de lutte contre les animaux protégés ou pouvant être chassés appartenant aux espèce suivantes, lorsqu'ils causent des dégâts dans les cultures, les habitations et leurs dépendances directes ou dans certains ouvrages techniques :
+<sup>1</sup> Les préfets, sauf cas prévus à l'alinéa 3bis, peuvent autoriser, hors périodes de protection, des mesures à titre individuel en vue de protéger les cultures, les habitations et leurs dépendances directes ou certains ouvrages techniques, des dégâts occasionnés par les espèces suivantes:
 
 - - blaireau, renard, fouine, pigeon domestique, pigeon ramier, tourterelle turque, corbeau freux, corneille noire et étourneau.
 
 <sup>2</sup> ...
 
-<sup>3</sup> Les préfets fixent les conditions de tir ou de capture conformément aux directives du département et les mentionnent sur l'autorisation.
+<sup>3</sup> Avant de délivrer une autorisation, ils consultent l'agent de police faune-nature permanent.
 
-<sup>4</sup> Avant de délivrer une autorisation, ils consultent le surveillant permanent de la faune.
+<sup>3bis</sup> En cas d'urgence avérée ou de danger imminent, les agents de police faune-nature peuvent prendre des mesures à titre individuel selon le droit fédéral.
 
-[^titleTitreVIII-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, Tiret 1; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 1; entrée en vigueur au 15.12.2021; Modification Al. 1, Tiret 1; entrée en vigueur au 15.12.2021; Abrogation Al. 2; entrée en vigueur au 15.12.2021; Modification Al. 4; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, Tiret 1; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024; Introduction Al. 3bis; entrée en vigueur au 01.06.2024; Modification Al. 4; entrée en vigueur au 01.06.2024; Introduction Al. 5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+<sup>4</sup> Les préfets indiquent dans l'autorisation les moyens et engins autorisés et déterminent qui peut prendre des mesures individuelles de protection, dans quelle région et à quel moment, conformément à la directive départementale.
+
+<sup>5</sup> Le service tient à jour sur son site la liste des personnes physiques ou morales autorisées à prendre des mesures individuelles.
+
+[^titleTitreVIII-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, Tiret 1; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 1; entrée en vigueur au 15.12.2021; Modification Al. 1, Tiret 1; entrée en vigueur au 15.12.2021; Abrogation Al. 2; entrée en vigueur au 15.12.2021; Modification Al. 4; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, Tiret 1; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024; Introduction Al. 3bis; entrée en vigueur au 01.06.2024; Modification Al. 4; entrée en vigueur au 01.06.2024; Introduction Al. 5; entrée en vigueur au 01.06.2024
 
 #### Art. 109
 
@@ -1392,10 +1554,10 @@ arrête
 
 *a) Mesures de prévention*
 
-<sup>1</sup> Les mesures de prévention des dommages aux cultures, prairies et pâturages sont notamment :
+<sup>1</sup> Les mesures de prévention des dommages aux cultures, prairies et pâturages sont notamment les clôtures, les protections individuelles ainsi que les répulsifs adéquats agréés par le service.
 
-- a. les clôtures, les protections individuelles ainsi que les répulsifs adéquats agréés par le service ;
-- b. les fils électriques complémentaires autour des prairies et pâturages déjà clôturés.
+- a. ...
+- b. ...
 
 <sup>2</sup> Les mesures de prévention des dommages aux animaux de rente sont notamment :
 
@@ -1404,12 +1566,12 @@ arrête
 
 <sup>3</sup> Les mesures de prévention des dommages aux forêts sont notamment :
 
-- a. les mesures actives de prévention, telles qu'elles sont définies dans la publication de l'OFEV "Forêt et gibier – Notions de base pratiques" ;
+- a. les mesures actives de prévention, telles qu'elles sont définies dans les publications de l'OFEV;
 - b. les mesures passives de prévention, clôtures et protections individuelles mécaniques ou chimiques de jeunes arbres.
 
 <sup>4</sup> …
 
-[^108-1]: Modif. 2 du 21.06.2017: Modification Al. t,1,3; entrée en vigueur au 01.07.2017; Abrogation Al. 4; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.06.2024; Modification Al. 3, a; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^108-1]: Modif. 2 du 21.06.2017: Modification Al. t,1,3; entrée en vigueur au 01.07.2017; Abrogation Al. 4; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.06.2024; Modification Al. 3, a; entrée en vigueur au 01.06.2024
 
 #### Art. 110
 
@@ -1431,24 +1593,24 @@ arrête
 
 <sup>1</sup> Le montant des subventions pour la prévention des dommages causés aux cultures, aux prairies et aux pâturages représente :
 
-- a. dans les zones à risque, 80 pour cent du prix d'acquisition du matériel de protection ;
+- a. dans les zones à risque et à proximité des territoires interdits à la chasse, 80 à 100 pour cent du prix d'acquisition du matériel de protection ;
 - b. hors des zones à risque, 40 pour cent du prix d'acquisition du matériel de protection.
 
 <sup>2</sup> Une directive départementale fixe le montant forfaitaire des subventions pour la pose et l'entretien des clôtures électriques protégeant les cultures, les prairies et les pâturages.
 
-[^110-1]: Modif. 2 du 21.06.2017: Introduction Art. 110a; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Modification Al. 1, a; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^110-1]: Modif. 2 du 21.06.2017: Introduction Art. 110a; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Modification Al. 1, a; entrée en vigueur au 01.06.2024
 
 #### Art. 110b
 
 **d) Forêts [^110a-1]**
 
-<sup>1</sup> La protection des forêts contre les dommages que la faune pourrait lui causer est assurée principalement par la régulation du gibier et par une gestion durable des forêts ; les mesures de prévention spécifiques mentionnées à l'article 109, alinéa 3 du présent règlement ne sont prises que lorsque les moyens susmentionnés sont insuffisants.
+<sup>1</sup> La protection des forêts contre les dommages que la faune pourrait lui causer est assurée principalement par la régulation des espèces pouvant être chassées et par une gestion durable des forêts ; les mesures de prévention spécifiques mentionnées à l'article 109, alinéa 3 du présent règlement ne sont prises que lorsque les moyens susmentionnés sont insuffisants.
 
 <sup>2</sup> Les mesures de prévention des dommages aux forêts sont décidées et exécutées en collaboration avec le service en charge des forêts.
 
 <sup>3</sup> Une directive départementale fixe les taux ainsi que le barème permettant d'arrêter le montant des subventions.
 
-[^110a-1]: Modif. 2 du 21.06.2017: Introduction Art. 110b; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^110a-1]: Modif. 2 du 21.06.2017: Introduction Art. 110b; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Modification Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 111
 
@@ -1469,19 +1631,18 @@ arrête
 
 **Indemnités [^111-2]**
 
-<sup>1</sup> L'indemnité versée pour les dommages est fixée par le service sur la base de l'expertise, en collaboration avec l'expert, et sur la base d'une directive départementale ; celle-ci fixe les taux des indemnités versées pour les dommages causés par la faune en se fondant notamment sur les recommandations de la Société suisse d'assurance contre la grêle et de l'Union suisse des paysans, de la Société forestière suisse et de la législation sur les épizooties[^112-1].
+<sup>1</sup> L'indemnité versée pour les dommages est fixée par le service sur la base de l'expertise, en collaboration avec l'expert, et sur la base d'une directive départementale ; celle-ci fixe les taux des indemnités versées pour les dommages causés par la faune.
 
-<sup>2</sup> Les dommages inférieurs à CHF 300.- considérés par surface de culture, prairie ou pâturage ne sont pas indemnisés.
+<sup>2</sup> Les dommages inférieurs à CHF 300.- considérés par surface de culture, prairie, pâturage ou forêt ne sont pas indemnisés.
 
-<sup>3</sup> Lors du versement de l'indemnité ou de la réparation sous forme de prestation en nature prévue par la loi[^112-2] , le service peut fixer des conditions de prévention afin d'éviter de nouveaux dommages sur la même parcelle.
+<sup>3</sup> Lors du versement de l'indemnité ou de la réparation sous forme de prestation en nature prévue par la loi[^112-1] , le service peut fixer des conditions de prévention afin d'éviter de nouveaux dommages sur la même parcelle.
 
-[^111-2]: Modif. 2 du 21.06.2017: Modification Al. t,1,2; entrée en vigueur au 01.07.2017; Introduction Al. 3; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024 · Modif. 7 du 08.10.2025: Modification Al. 2; entrée en vigueur au 01.01.2026
-[^112-1]: Loi fédérale du 01.07.1966 sur les épizooties (RS 916.40)
-[^112-2]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
+[^111-2]: Modif. 2 du 21.06.2017: Modification Al. t,1,2; entrée en vigueur au 01.07.2017; Introduction Al. 3; entrée en vigueur au 01.07.2017 · Modif. 6 du 22.05.2024: Modification Al. 1-2; entrée en vigueur au 01.06.2024 · Modif. 7 du 08.10.2025: Modification Al. 2; entrée en vigueur au 01.01.2026
+[^112-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 112a
 
-**Fonds de prévention et d'indemnisation des dégâts causés par la faune (loi, art. 59) [^112-3]**
+**Fonds de prévention et d'indemnisation des dégâts causés par la faune (loi, art. 59) [^112-2]**
 
 <sup>1</sup> La compétence pour décider du financement d'une opération appartient :
 
@@ -1491,71 +1652,100 @@ arrête
 
 <sup>2</sup> Le service est compétent pour prélever les montants nécessaires à l'exécution des décisions prises.
 
-[^112-3]: Modif. 2 du 21.06.2017: Introduction Art. 112a; entrée en vigueur au 01.07.2017 · Modif. 5 du 01.12.2021: Modification Al. 1, a-b; entrée en vigueur au 15.12.2021; Abrogation Al. 1, c; entrée en vigueur au 15.12.2021
+[^112-2]: Modif. 2 du 21.06.2017: Introduction Art. 112a; entrée en vigueur au 01.07.2017 · Modif. 5 du 01.12.2021: Modification Al. 1, a-b; entrée en vigueur au 15.12.2021; Abrogation Al. 1, c; entrée en vigueur au 15.12.2021
 
 ## Titre IX Gardiennage
 
 #### Art. 113
 
-**Surveillants permanents de la faune (loi, art. 74) [^titleTitreIX-1]**
+**Agents de police faune-nature permanents (loi, art. 74) [^titleTitreIX-1]**
 
-<sup>1</sup> Les surveillants permanents de la faune sont soumis à la loi sur le personnel de l'Etat de Vaud du 12 novembre 2001 [^113-1] . Les surveillants permanents de la faune et les gardes-pêche permanents ne sont pas autorisés à prendre un permis de chasse dans le canton.
+<sup>1</sup> Les agents de police faune-nature permanents sont soumis à la loi sur le personnel de l'Etat de Vaud du 12 novembre 2001. Ils ne sont pas autorisés à prendre un permis de chasse dans le canton
 
-<sup>2</sup> Pour les besoins de leur mission, les surveillants permanents et auxiliaires de la faune sont autorisés à avoir une arme chargée, prête au tir, à bord d'un véhicule à moteur.
+<sup>2</sup> Pour les besoins de leur mission, les agents de police faune-nature sont autorisés à avoir une arme chargée, prête au tir, à bord d'un véhicule à moteur.
 
-[^titleTitreIX-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
-[^113-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
+<sup>3</sup> Les agents de police faune-nature sont assermentés par le préfet du district de leur domicile.
+
+[^titleTitreIX-1]: Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Al. 3; entrée en vigueur au 01.06.2024
 
 #### Art. 114
 
-**Tâches des surveillants de la faune (loi, art. 74) [^113-2]**
+**Tâches des agents de police faune-nature permanents (loi, art. 74) [^113-1]**
 
-<sup>1</sup> En plus des tâches de police, les surveillants permanents de la faune sont chargés des missions suivantes :
+<sup>1</sup> En plus des tâches de police, les agents de police faune-nature permanents sont chargés des missions suivantes :
 
-- a. protection des biotopes;
-- b. observation du gibier et de la densité des populations animales;
+- a. surveillance des réserves et des zones de tranquillité de la faune au sens des articles 2, 2b et 2c du présent règlement ainsi que des objets portés aux inventaires au sens de l'article 20 de la loi sur la protection du patrimoine naturel et paysager;
+- b. observation des espèces pouvant être chassées et de la densité des populations animales;
 - c. protection et mesures en faveur de la faune;
-- d. limitation des prédateurs, tir de prévention des dégâts causés par le gibier et élimination des animaux malades ou blessés;
-- e. constats de dégâts dus au gibier;
+- d. limitation des prédateurs, tir de régulation, tir de prévention des dégâts causés par les espèces pouvant être chassées et tir des animaux malades ou blessés;
+- e. constats de dégâts dus aux espèces pouvant être chassées;
 - f. organisation du gardiennage de leur circonscription;
 - g. organisation des réunions préparatoires pour chasseurs, du tir et de la présentation des bêtes dans le cadre des chasses spéciales;
 - h. information du public sur la faune;
 - i. collaboration dans le cadre de travaux scientifiques;
 - j. toute autre tâche spéciale ordonnée par le service.
 
-[^113-2]: Modif. 3 du 03.07.2019: Modification Al. 1, j; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, a,b,d,e; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^113-1]: Modif. 3 du 03.07.2019: Modification Al. 1, j; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, a,b,d,e; entrée en vigueur au 01.06.2024
 
 #### Art. 115
 
-**Surveillants auxiliaires (loi, art. 75) [^114-1]**
+**Agents de faune-nature auxiliaires (loi, art. 75) [^114-1]**
 
-<sup>1</sup> Dans chaque circonscription, les surveillants auxiliaires sont placés sous la direction du surveillant de la faune.
+<sup>1</sup> Dans chaque circonscription, les agents de police faune-nature auxiliaires sont placés sous la direction d'un agent de police faune-nature permanent.
 
 <sup>2</sup> ...
 
-<sup>3</sup> Après avoir entendu les milieux intéressés, le service désigne un délégué cantonal au gardiennage parmi les surveillants auxiliaires et définit son rôle et ses tâches.
+<sup>3</sup> Après avoir entendu les milieux intéressés, le service désigne un délégué cantonal au gardiennage parmi les agents de police faune nature auxiliaires et définit son rôle et ses tâches
 
-[^114-1]: Modif. 3 du 03.07.2019: Abrogation Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1,3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^114-1]: Modif. 3 du 03.07.2019: Abrogation Al. 2; entrée en vigueur au 01.07.2019; Introduction Al. 3; entrée en vigueur au 01.07.2019 · Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1,3; entrée en vigueur au 01.06.2024
 
 #### Art. 116
 
-**Tâches des surveillants auxiliaire (loi, art. 75) [^115-1]**
+**Tâches des agents de police faune-nature auxiliaires (loi, art. 75) [^115-1]**
 
-<sup>1</sup> Le département établit un cahier des tâches générales des surveillants auxiliaires.
+<sup>1</sup> Le département établit un cahier des tâches générales des agents de police faune-nature auxiliaires.
 
-[^115-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^115-1]: Modif. 6 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024
+
+#### Art. 116a
+
+**Amendes d'ordre [^116-1]**
+
+<sup>1</sup> La liste des infractions punissables par une amende d'ordre et fixée à l'annexe IV. Elle précise le montant de l'amende.
+
+[^116-1]: Modif. 6 du 22.05.2024: Introduction Art. 116a; entrée en vigueur au 01.06.2024
 
 ## Titre X Dispositions finales
 
+#### Art. 116b
+
+**Dispositions transitoires de la modification du règlement du 22 mai 2024 [^titleTitreX-1]**
+
+*a) Munitions contenant du plomb (loi, art. 47)*
+
+<sup>1</sup> En dérogation à l'article 91, alinéa 4, le recours à des munitions contenant du plomb reste autorisé jusqu'au 31 juillet 2026, exception faite de la chasse aux oiseaux d'eau.
+
+[^titleTitreX-1]: Modif. 6 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024
+
+#### Art. 116c
+
+**Disposition transitoire de la modification du règlement du 22 mai 2024 [^116b-1]**
+
+*b) Liste des réserves (règlement, art. 2d)*
+
+<sup>1</sup> Les annexes I et II seront mises à jour dans un délai de deux ans dès l'entrée en vigueur du présent règlement.
+
+[^116b-1]: Modif. 6 du 22.05.2024: Introduction Art. 116c; entrée en vigueur au 01.06.2024
+
 #### Art. 117
 
-**Commission consultative (loi, art. 84) [^titleTitreX-1]**
+**Commission consultative (loi, art. 84) [^116c-1]**
 
 <sup>1</sup> La commission consultative est présidée par le chef du département. Un membre de la direction du service est désigné comme vice-président.
 
 <sup>2</sup> Pour des problèmes particuliers, la commission peut faire appel à des experts.
 
-[^titleTitreX-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019
+[^116c-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019
 
 #### Art. 118
 
@@ -1569,7 +1759,9 @@ arrête
 
 <sup>1</sup> Le règlement du 11 juin 1993 d'exécution de la loi du 28 février 1989 sur la faune est abrogé.
 
-[^118-1]: Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Al. 2; entrée en vigueur au 01.06.2024
+<sup>2</sup> Le règlement du 29 juin 2005 sur les réserves de chasse et de protection de la faune du Canton de Vaud (Règlement sur les réserves de faune) est abrogé.
+
+[^118-1]: Modif. 6 du 22.05.2024: Introduction Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 120
 
@@ -1581,4 +1773,16 @@ Annexes
 
 1
 
-[pdf-922.03.1.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=15.12.2021)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=01.06.2024)
+
+2
+
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/2?dmev=01.06.2024)
+
+3
+
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/3?dmev=01.06.2024)
+
+4
+
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/4?dmev=01.06.2024)
