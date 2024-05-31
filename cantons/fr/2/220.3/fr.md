@@ -4,13 +4,12 @@ number: "220.3"
 title: Loi sur le Service du registre du commerce
 short: LSRC
 language: fr
-version: 2022-01-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-06
+version: 2024-06-01
+version_adopted: 2024-02-07
 adopted: 2001-03-07
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/220.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7154/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8470/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,13 +20,15 @@ Service du registre du commerce – L
 
 (LSRC)
 
-du 07.03.2001 (version entrée en vigueur le 01.01.2022)
+du 07.03.2001 (version entrée en vigueur le 01.06.2024)
 
 Le Grand Conseil du canton de Fribourg
 
 Vu les articles 927 et suivants du code des obligations (CO);
 
-Vu l'ordonnance du Conseil fédéral du 7 juin 1937 sur le registre du commerce (ORC);
+Vu la loi fédérale du 17 mars 2017 modifiant le code des obligations (Droit du registre du commerce);
+
+Vu l'ordonnance du Conseil fédéral du 17 octobre 2007 sur le registre du commerce (ORC);
 
 Vu le message du Conseil d'Etat du 21 novembre 2000;
 
@@ -55,9 +56,12 @@ Décrète:
 
 **Préposé-e et personnel du Service**
 
-<sup>1</sup> Le Service est dirigé par un ou une préposé-e, assisté-e de substituts ou substitutes.
+<sup>1</sup> Le Service est dirigé par un ou une préposé-e, assisté-e de substituts ou substitutes nommés par la Direction conformément aux articles 8 al. 1 et 9 al.1 de la loi du 17 octobre 2001 sur le personnel de l'Etat[^3-1] et 3 al. 1 let. c du règlement du personnel de l'Etat du 17 décembre 2002[^3-2].
 
 <sup>2</sup> Le personnel du Service est soumis à la législation sur le personnel de l'Etat.
+
+[^3-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^3-2]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 4
 
@@ -65,7 +69,10 @@ Décrète:
 
 <sup>1</sup> Le ou la préposé-e exerce toutes les attributions relevant de la tenue du registre du commerce qui, aux termes de la législation fédérale ou cantonale, ne sont pas du ressort d'une autre autorité.
 
-<sup>2</sup> Il ou elle inflige les amendes conformément aux articles 943 CO et 2 ORC. Le recours à l'autorité de surveillance est réservé.
+<sup>2</sup> Il ou elle inflige les amendes conformément aux articles 940 CO[^4-1] et 153 ORC[^4-2].
+
+[^4-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
+[^4-2]: RS [221.411](https://db.clex.ch/link/Bund/221.411/fr)
 
 #### Art. 5
 
@@ -77,17 +84,22 @@ Décrète:
 
 **Légalisation de signature**
 
-<sup>1</sup> Sous réserve des compétences du ou de la préposé-e, les greffiers et greffières des tribunaux d'arrondissement et les notaires peuvent aussi légaliser la signature des personnes requérantes et recevoir la justification de leur identité conformément à l'article 23 al. 2 ORC.
+<sup>1</sup> Sous réserve des compétences du Service, les greffiers et greffières des tribunaux d'arrondissement et les notaires peuvent aussi légaliser la signature des personnes requérantes et recevoir la justification de leur identité conformément aux articles 18 al. 2 et 3 et 21 al. 1 et 2 ORC[^6-1].
+
+<sup>2</sup> La Direction peut octroyer la compétence de légalisation à l'autorité communale qui en fait la demande. Cette compétence ne peut s'exercer que pour les légalisations effectuées en présence du signataire.
+
+<sup>3</sup> En cas de non-respect avéré des exigences de l'ORC[^6-2], la compétence peut être retirée par la Direction sur recommandation du Service.
+
+[^6-1]: RS [221.411](https://db.clex.ch/link/Bund/221.411/fr)
+[^6-2]: RS [221.411](https://db.clex.ch/link/Bund/221.411/fr)
 
 #### Art. 7
 
-**Registre principal**
-
-<sup>1</sup> Le registre principal est tenu sur un support informatique conformément à l'article 15a al. 2 ORC.
+**…**
 
 #### Art. 8
 
-**Décisions du ou de la préposé-e**
+**Décisions**
 
 <sup>1</sup> La décision qui déclare irrecevable ou rejette une réquisition ou celle qui inflige une amende est notifiée à la personne requérante. Elle mentionne les motifs, l'autorité et le délai de recours.
 
@@ -95,43 +107,46 @@ Décrète:
 
 **Recours**
 
-<sup>1</sup> Les décisions du ou de la préposé-e concernant la tenue du registre du commerce peuvent faire l'objet d'un recours au Tribunal cantonal, dans les trente jours dès leur notification (art. 165 ORC).
+<sup>1</sup> Les décisions du Service peuvent faire l'objet d'un recours au Tribunal cantonal, dans les trente jours dès leur notification (art. 942 al. 2 CO[^9-1]).
 
 <sup>2</sup> La procédure devant le Tribunal cantonal est régie par le code de procédure et de juridiction administrative.
+
+[^9-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 10
 
 **Responsabilité**
 
-<sup>1</sup> La responsabilité du ou de la préposé-e, des substituts ou substitutes et de l'autorité de surveillance est régie par le droit fédéral. Toutefois, l'Etat répond solidairement envers la personne lésée si les conditions d'application des dispositions de la loi cantonale sur la responsabilité civile des collectivités publiques et de leurs agents sont réunies.
+<sup>1</sup> La responsabilité du ou de la préposé-e, des substituts ou substitutes et de l'autorité de surveillance est régie par le droit fédéral. Toutefois, l'Etat répond solidairement envers la personne lésée si les conditions d'application des dispositions de la loi cantonale sur la responsabilité civile des collectivités publiques et de leurs agents (LResp)[^10-1] sont réunies.
 
-<sup>2</sup> La responsabilité des autres membres du personnel du Service est régie par la loi cantonale sur la responsabilité civile des collectivités publiques et de leurs agents.
+<sup>2</sup> La responsabilité des autres membres du personnel du Service est régie par la LResp[^10-2].
+
+[^10-1]: RSF [16.1](https://bdlf.fr.ch/data/16.1/fr)
+[^10-2]: RSF [16.1](https://bdlf.fr.ch/data/16.1/fr)
 
 #### Art. 11
 
 **Obligation de renseigner**
 
-<sup>1</sup> Les conseils communaux, les préfectures, les tribunaux ainsi que l'Office des faillites sont tenus de signaler au ou à la préposé-e tout fait parvenu à leur connaissance dans l'exercice de leur fonction et nécessitant une inscription, modification ou radiation au registre du commerce.
+<sup>1</sup> Les tribunaux et les autorités administratives cantonales, des districts et des communes sont tenus de signaler au Service tout fait parvenu à leur connaissance dans l'exercice de leur fonction et nécessitant une inscription, une modification ou une radiation au registre du commerce. L'article 157 ORC[^11-1] demeure réservé.
+
+<sup>2</sup> Les renseignements et les communications transmis au Service ne sont pas soumis à émolument.
+
+[^11-1]: RS [221.411](https://db.clex.ch/link/Bund/221.411/fr)
 
 #### Art. 12
 
 **Emoluments et amendes**
 
-<sup>1</sup> La part des émoluments revenant au canton, conformément aux dispositions fédérales régissant la répartition des émoluments entre la Confédération et les cantons, et le produit des amendes sont versés à la caisse de l'Etat.
+<sup>1</sup> La part des émoluments revenant au canton, conformément aux dispositions fédérales régissant la répartition des émoluments entre la Confédération et les cantons, et le produit des amendes sont versés à l'Etat.
 
 #### Art. 13
 
-**Abrogation**
-
-<sup>1</sup> La loi du 2 février 1938 d'application du code des obligations revisé et de l'ordonnance fédérale du 7 juin 1937 sur le registre du commerce (RSF 220.3) est abrogée.
+**…**
 
 #### Art. 14
 
-**Modification**
-
-<sup>1</sup> La loi du 22 novembre 1911 d'application du code civil suisse pour le canton de Fribourg (RSF 210.1) est modifiée comme il suit:
-
-...
+**…**
 
 #### Art. 15
 
