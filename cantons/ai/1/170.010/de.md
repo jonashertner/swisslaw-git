@@ -4,13 +4,12 @@ number: "170.010"
 title: Behördenverordnung
 short: BehV
 language: de
-version: 2022-01-01
-corrected: 2022-10-28
-version_adopted: 2021-12-06
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 1998-06-15
 in_force: 1998-06-15
 url: "https://ai.clex.ch/app/de/texts_of_law/170.010"
-pdf: "https://ai.clex.ch/api/de/versions/2156/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2156/pdf_file"
 
 (BehV)
 
-vom 15.06.1998 (Stand 01.01.2022)
+vom 15.06.1998 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -95,8 +94,8 @@ beschliesst:
 - 2\. Übrige Behördenmitglieder:
   - a) Kantonsgerichtspräsident — Fr. 60'000.--
   - b) …
-  - c) Präsident Erbschaftsbehörde innerer Landesteil — Fr. 1'600.--
-  - d) Präsident Erbschaftsbehörde äusserer Landesteil — Fr. 550.--
+  - c) …
+  - d) …
   - e) Präsident Fachkommission Heimatschutz — Fr. 5'300.--
   - f) Mitglieder Fachkommission Heimatschutz — Fr. 1'200.--
 
@@ -143,7 +142,7 @@ beschliesst:
 
 <sup>3</sup> Für das Verfassen eines Amtsberichts erhält das verantwortliche Mitglied der Staatswirtschaftlichen Kommission eine Entschädigung von Fr. 100.--.
 
-<sup>4</sup> Besondere Beanspruchung von Behördemitgliedern (wie Gutachtertätigkeit, Erstellung von gesetzgeberischen Entwürfen usw.) wird nach Massgabe der aufgewendeten Zeit angemessen entschädigt. Diesbezügliche Rechnungen sind vom Säckelmeister zu visieren. Ist der Rechnungssteller der Säckelmeister selbst, obliegt das Visumsrecht dem regierenden Landammann.
+<sup>4</sup> Besondere Beanspruchung von Behördenmitgliedern (wie Gutachtertätigkeit, Erstellung von gesetzgeberischen Entwürfen usw.) wird nach Massgabe der aufgewendeten Zeit angemessen entschädigt. Diesbezügliche Rechnungen sind vom Säckelmeister zu visieren. Ist der Rechnungssteller der Säckelmeister selbst, obliegt das Visumsrecht dem regierenden Landammann.
 
 #### Art. 8a
 
@@ -165,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Weitere Entschädigungen werden durch die Standeskommission geregelt.
 
-<sup>2</sup> Sie kann für Kommission, für die sie Wahlorgan ist, die Entschädigungen näher regeln.
+<sup>2</sup> Sie kann für Kommissionen, für die sie Wahlorgan ist, die Entschädigungen näher regeln.
 
 #### Art. 10
 
