@@ -4,22 +4,22 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2023-05-01
+version: 2024-06-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on the Export, Import and Transit of Dual Use Goods, Specific Military Goods and Strategic Goods
+# Ordinance on the Control of Dual Use Goods, Specific Military Goods and Strategic Goods
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 May 2023)
+of 3 June 2016 (Status as of 1 June 2024)
 
 The Swiss Federal Council,
 
@@ -397,14 +397,14 @@ This Ordinance comes into force on 1 July 2016.
 
 Annexes 1 and 2[^t-1]
 
-(Art. 2 para. 2 and 3 paras 1 and 2)
+(Art. 2 para. 2 and 3 paras. 1 and 2)
 
 ## List of Dual-Use Goods
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Amended by No I of the EAER O of 15 March 2023, in force since 1 May 2023 ([AS 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
-[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
+[^t-1]: Amended by No I of the EAER O of 11 April 2024, in force since 1 June 2024 ([AS 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184))
+[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
 
 Annex 3[^t-2]
 
@@ -582,4 +582,4 @@ The legislation below is amended as follows:
 
 ...[^annex8-lvlu1-1]
 
-[^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352).
+[^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)..

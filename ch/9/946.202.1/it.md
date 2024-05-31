@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2023-05-01
+version: 2024-06-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° maggio 2023)
+del 3 giugno 2016 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -379,7 +379,7 @@ Il contenuto degli allegati 1–3 non è pubblicato né nella Raccolta ufficiale
 
 L’ordinanza del 25 giugno 1997[^30-1] sul controllo dei beni a duplice impiego è abrogata.
 
-[^30-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 43537, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4, [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446)[4553](https://fedlex.data.admin.ch/eli/oc/2014/760)e [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83)]
+[^30-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 4337; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83)]
 
 #### Art. 31
 
@@ -401,8 +401,8 @@ Allegati 1 e 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n.I dell’O del DEFR del 15 mar. 2023, in vigore dal 1° mag. 2023 ([RU 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
-[^annexu1-lvlu1-1]: Il contenuto di presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
+[^annexu1-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 

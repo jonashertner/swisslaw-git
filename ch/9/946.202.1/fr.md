@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2023-05-01
+version: 2024-06-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20240601-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (État le 1<sup>er</sup> mai 2023)
+du 3 juin 2016 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -401,8 +401,8 @@ Annexes 1 et 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
-[^annexu1-lvlu1-1]: Le contenu des présentes annexes est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
+[^annexu1-lvlu1-1]: Le contenu des présentes annexes est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-2]
 
