@@ -4,13 +4,12 @@ number: "731.11"
 title: Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft
 short: Vo BSG BL
 language: de
-version: 2022-07-01
-valid_until: 2024-05-31
-version_adopted: 2022-05-31
+version: 2024-06-01
+version_adopted: 2024-04-16
 adopted: 2022-05-31
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/731.11"
-pdf: "https://bl.clex.ch/api/de/versions/3368/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3920/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3368/pdf_file"
 
 (Vo BSG BL)
 
-Vom 31.05.2022 (Stand 01.07.2022)
+Vom 31.05.2022 (Stand 01.06.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
