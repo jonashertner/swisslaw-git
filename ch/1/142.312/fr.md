@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2023-01-01
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2023)
+du 11 août 1999 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -85,7 +85,7 @@ Sous réserve des dispositions des art. 82, al. 4, et 83*a* LAsi, la fixation et
 
 <sup>1</sup> Les cantons désignent un bureau de coordination pour assurer la liaison avec la Confédération.
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> …[^4-1]
 
 [^4-1]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
@@ -103,7 +103,7 @@ Sous réserve des dispositions des art. 82, al. 4, et 83*a* LAsi, la fixation et
 
 <sup>4</sup> Les rectifications concernant les versements effectués conformément à l’al. 2 sont apportées l’année suivante. Les différences entre la date de l’événement et la date de la saisie sont alors éliminées. Les paiements complémentaires et les remboursements sont pris en compte dans les versements trimestriels.
 
-<sup>5</sup> ...[^5-4]
+<sup>5</sup> …[^5-4]
 
 <sup>6</sup> Tous les paiements sont exclusivement versés sur les comptes courants des cantons auprès de l’Administration fédérale des finances. Les demandes de remboursement relevant du droit des subventions de même que les réductions des indemnités de remboursement selon l’art 89*a*, al. 2, LAsi sont prises en compte dans les versements effectués conformément à l’al. 2.[^5-5]
 
@@ -280,7 +280,7 @@ Le système d’information sur la taxe spéciale renferme les données suivante
 
 <sup>3</sup> En règle générale, les valeurs patrimoniales saisies ou leur valeur actualisée sont restituées en espèces au moment du départ, à l’aéroport. Sur demande, le montant à restituer peut être viré à l’étranger après le départ.
 
-<sup>4</sup> ...[^18-2]
+<sup>4</sup> …[^18-2]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
 [^18-2]: Abrogé par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
@@ -480,7 +480,7 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 
 <sup>3</sup> La Confédération verse aux cantons, conformément à l’art. 26, la moitié du forfait global en faveur des personnes à protéger titulaires d’une autorisation de séjour du jour où elles ont droit à une telle autorisation en vertu de l’art. 74, al. 2, LAsi au jour où elles obtiennent pour la première fois une autorisation d’établissement ou qu’elles ont droit à une telle autorisation, mais au plus tard jusqu’au moment où une telle autorisation pourrait être délivrée conformément à l’art. 74, al. 3, LAsi.
 
-<sup>4</sup> et <sup>5</sup> ...[^24-10]
+<sup>4</sup> et <sup>5</sup> …[^24-10]
 
 [^24-1]: Voir aussi les disp. trans. de la mod. du 7 déc. 2012 et du 30 mars 2022 à la fin du texte.
 [^24-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -653,15 +653,15 @@ Le forfait visé à l’al. 1 est versé pour la personne concernée lorsque:
 
 <sup>1</sup> En collaboration avec la CCDJP et la CDAS, le SEM examine l’évolution des dépenses liées à l’aide d’urgence sur la base de critères déterminés d’un commun accord.
 
-<sup>2</sup> ...[^30-1]
+<sup>2</sup> …[^30-1]
 
 <sup>3</sup>
 
 Le SEM exploite un système d’information sur le suivi concernant la suppression de l’aide sociale, qui renferme les données suivantes:
 
-- [tab] a. le nom, le prénom, la date de naissance, l’état civil et la nationalité des bénéficiaires de l’aide d’urgence;
-- [tab] b. leur numéro personnel SYMIC;
-- [tab] c. des données relatives au type de coûts et à leur montant.
+- a. le nom, le prénom, la date de naissance, l’état civil et la nationalité des bénéficiaires de l’aide d’urgence;
+- b. leur numéro personnel SYMIC;
+- c. des données relatives au type de coûts et à leur montant.
 
 <sup>4</sup> Les cantons fournissent au SEM les données nécessaires selon l’al. 3 pour effectuer le suivi.
 
@@ -838,9 +838,11 @@ S’il n’est pas possible d’obtenir un bail à loyer ou à ferme ou un droit
 
 <sup>1</sup> La contribution forfaitaire versée par la Confédération pour les frais de sécurité est fonction de la taille des logements de la Confédération. Le montant de référence annuel est de 107 981,65 francs pour 100 places d’hébergement dans un centre de la Confédération ou pour 25 places d’hébergement dans un centre spécifique de la Confédération visé à l’art. 24*a* LAsi.
 
-<sup>2</sup> La contribution forfaitaire par canton est versée à la fin de l’année et calculée selon la formule suivante:
+<sup>2</sup>
 
-PB = (PE × DE × FE + PB × DB × FB) × JA/JT
+La contribution forfaitaire par canton est versée à la fin de l’année et calculée selon la formule suivante:
+
+- [tab] PB = (PE × DE × FE + PB × DB × FB) × JA/JT
 
 étant établi que:
 
@@ -983,7 +985,7 @@ En vue de la conclusion d’un contrat, les cantons transmettent au SEM les docu
 
 **Subventions fédérales**
 
-<sup>1</sup> ...[^51-1]
+<sup>1</sup> …[^51-1]
 
 <sup>2</sup>
 
@@ -995,7 +997,7 @@ Le SEM peut verser des subventions pour:
 - d.[^51-3] des projets ou des programmes de portée internationale menés par des organismes tels que des organisations non gouvernementales ou des fondations, notamment dans les domaines des procédures d’asile, de l’information, du retour, de l’encadrement, de la formation et de l’occupation, ainsi que de l’hébergement de requérants d’asile ou de réfugiés, qui visent à renforcer les structures de gestion des migrations;
 - e.[^51-4] des projets menés par des institutions scientifiques, notamment dans les domaines de la détection précoce et de la régulation de mouvements incontrôlés de fuite ou de migration transfrontalières, de l’établissement de normes pour le traitement des requérants d’asile et des réfugiés, ainsi que dans celui de l’évaluation de la situation politique, qui visent, en particulier, à préparer des bases de décision pour la conception du droit et de la pratique en matière d’asile et de migration.
 
-<sup>3</sup> ...[^51-5]
+<sup>3</sup> …[^51-5]
 
 [^51-1]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^51-2]: Introduite par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
@@ -1103,13 +1105,12 @@ La Confédération peut prendre à sa charge les frais d’entrée directe en Su
 - a. groupes de réfugiés auxquels l’asile est octroyé par décision du Conseil fédéral ou du DFJP au sens de l’art. 56 LAsi;
 - b. personnes admises à la demande du HCR;
 - c. personnes à protéger se trouvant à l’étranger, conformément à l’art. 68 LAsi;
-- d.[^53-2] personnes auxquelles l’entrée en Suisse est accordée dans le cadre du regroupement familial avec des réfugiés reconnus selon l’art. 51, al. 4, LAsi ou l’art. 85, al. 7, LEI[^53-3];
-- e.[^53-4] personnes auxquelles l’entrée en Suisse est accordée en raison d’une menace sérieuse et concrète pour leur vie ou leur intégrité corporelle.
+- d.[^53-2] personnes auxquelles l’entrée en Suisse est accordée dans le cadre du regroupement familial avec des réfugiés reconnus selon l’art. 51, al. 4, LAsi ou art. 85*c*, al. 1, LEI;
+- e.[^53-3] personnes auxquelles l’entrée en Suisse est accordée en raison d’une menace sérieuse et concrète pour leur vie ou leur intégrité corporelle.
 
 [^53-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^53-2]: Introduite par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^53-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^53-4]: Introduite par l’annexe de l’O du 4 sept. 2013 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-2]: Introduite par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-3]: Introduite par l’annexe de l’O du 4 sept. 2013 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 
@@ -1226,16 +1227,16 @@ Lorsqu’une escorte policière est nécessaire pour tout le voyage de retour, l
 La Confédération prend à sa charge:
 
 - a. le trajet par la voie la plus économique et la plus rationnelle entre le domicile de l’intéressé en Suisse et un aéroport international de son État d’origine ou de provenance, ou un port international ou une gare principale de son État d’origine ou de provenance;
-- b.[^59-3] ...
+- b.[^59-3] …
 - c.[^59-4] l’expédition des bagages jusqu’à concurrence de 200 francs par personne, sans toutefois dépasser la somme de 500 francs par famille;
 - d. un forfait de 300 francs pour chaque nuitée nécessaire dans le centre d’hébergement de la prison d’un aéroport; ce montant comprend les frais de détention, conformément à l’art. 15, al. 1, OERE[^59-5];
-- e.[^59-6] ...
+- e.[^59-6] …
 
 <sup>2</sup> Le SEM ne prend pas à sa charge, en règle générale, les frais de transfert dans le pays de destination.
 
 <sup>3</sup> Si une personne tenue de quitter la Suisse ne se présente pas à la date prévue, le SEM facture au canton les frais d’annulation du vol et les autres coûts engendrés dans ce contexte, dans le cas où le canton aurait pu éviter l’annulation.[^59-7]
 
-<sup>4</sup> ...[^59-8]
+<sup>4</sup> …[^59-8]
 
 <sup>5</sup> Le SEM règle les modalités de commande des billets de voyage et du choix de l’itinéraire.
 
@@ -1378,7 +1379,7 @@ Les bénéficiaires des prestations fournies à titre d’aide au retour sont de
 
 Sont exclues de l’aide au retour financière les personnes:[^64-1]
 
-- a.[^64-2] ...
+- a.[^64-2] …
 - b. qui ont commis un crime ou qui ont commis des délits à plusieurs reprises;
 - c.
 
@@ -1391,11 +1392,11 @@ Sont exclues de l’aide au retour financière les personnes:[^64-1]
 
 - d.[^64-3] qui disposent manifestement de moyens financiers suffisants ou d’importantes valeurs patrimoniales.
 
-<sup>2</sup> ...[^64-4]
+<sup>2</sup> …[^64-4]
 
 <sup>3</sup> L’obtention de prestations d’aide au retour ne doit pas retarder le départ.
 
-<sup>4</sup> ...[^64-5]
+<sup>4</sup> …[^64-5]
 
 <sup>5</sup> Le DFJP peut supprimer temporairement l’aide au retour pour certains États d’origine ou de provenance ou pour certains États tiers pour des raisons propres à ces pays.[^64-6]
 
@@ -1584,7 +1585,7 @@ Pour avoir droit à l’aide au retour individuelle, le requérant doit démontr
 
 **Frais de départ**
 
-<sup>1</sup> ...[^74a-1]
+<sup>1</sup> …[^74a-1]
 
 <sup>2</sup> Les frais de départ et les indemnités de voyage sont, conformément aux art. 59, al. 1, let. a, et 59*a*, financés par le SEM, indépendamment de l’octroi de l’aide au retour individuelle.
 
@@ -1642,7 +1643,7 @@ Le SEM peut verser les aides au retour individuelles dans les aéroports interna
 
 [^78-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### Chapitre 7 ...
+### Chapitre 7 …
 
 #### Art. 79 et 80
 

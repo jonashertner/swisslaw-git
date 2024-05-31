@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2023-01-01
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 1. Januar 2023)
+vom 11. August 1999 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1110,13 +1110,12 @@ Der Bund kann die notwendigen Kosten für die direkte Einreise in die Schweiz ü
 - a. Flüchtlingsgruppen, welchen Asyl gewährt wird auf Grund eines Entscheides des Bundesrates oder des EJPD nach Artikel 56 des AsylG;
 - b. Einzelpersonen, die auf Anfrage des UNHCR aufgenommen werden;
 - c. Schutzbedürftige im Ausland nach Artikel 68 des AsylG;
-- d.[^53-2] Personen, denen die Einreise in die Schweiz im Rahmen der Familienzusammenführung mit anerkannten Flüchtlingen nach Artikel 51 Absatz 4 AsylG oder nach Artikel 85 Absatz 7 AIG[^53-3] bewilligt wird;
-- e.[^53-4] Personen, denen die Einreise in die Schweiz bewilligt wurde, weil sie ernsthaft und konkret an Leib und Leben gefährdet sind.
+- d.[^53-2] Personen, denen die Einreise in die Schweiz im Rahmen der Familienzusammenführung mit anerkannten Flüchtlingen nach Artikel 51 Absatz 4 AsylG oder nach Artikel 85c Absatz 1 AIG bewilligt wird;
+- e.[^53-3] Personen, denen die Einreise in die Schweiz bewilligt wurde, weil sie ernsthaft und konkret an Leib und Leben gefährdet sind.
 
 [^53-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^53-2]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^53-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^53-4]: Eingefügt durch Ziff. II der V vom 4. Sept. 2013 ([AS 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-2]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-3]: Eingefügt durch Ziff. II der V vom 4. Sept. 2013 ([AS 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 

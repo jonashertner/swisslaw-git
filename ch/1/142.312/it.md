@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2023-01-01
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2023)
+dell’11 agosto 1999 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -373,18 +373,30 @@ La quota parte per le spese ammonta a:
 
 <sup>6</sup> La quota parte per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati si basa sul numero complessivo di richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, ossia 44 383 persone, e sul numero di minorenni non accompagnati tra queste persone, ossia 2283 persone (pari al 5,1 %; stato: 31 ott. 2017). La SEM adegua la quota parte all’evoluzione degli effettivi in base alla formula qui appresso alla fine di ogni anno per l’anno civile seguente:
 
-**Art. 23**[^22-9][^22-10] Calcolo dell’importo totale[^22-11]
-
 <table>
 <tr><td>56,09 franchi ×</td><td>quota parte di minorenni non accompagnati sul numero complessivo</td></tr>
-<tr><td></td><td>5,1 % .[^22-12]</td></tr>
+<tr><td></td><td>5,1 % .[^22-9]</td></tr>
 </table>
+
+[^22-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 12 dic. 2008, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
+[^22-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-5]: O del DFI del 28 ott. 2016 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)).
+[^22-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^22-7]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-8]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-9]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+
+#### Art. 23
+
+**Calcolo dell’importo totale[^23-2]**[^23-1]
 
 <sup>1</sup>
 
 L’importo totale (B<sub>AS</sub>) in franchi per la concessione dell’aiuto sociale ai richiedenti l’asilo dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula:
 
-- B<sub>AS</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone + contributo di base alle spese di assistenza.[^22-13]
+- B<sub>AS</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone + contributo di base alle spese di assistenza.[^23-3]
 
 <sup>2</sup>
 
@@ -395,34 +407,19 @@ Il numero di beneficiali dell’aiuto sociale (SP<sub>AS</sub>) è calcolato sec
 Nella formula s’intende per:
 
 - P<sub>AS</sub> = numero di richiedenti l’asilo residenti nel Cantone il primo giorno del mese.
+- ET<sub>AS</sub> = numero di richiedenti l’asilo esercitanti attività lucrativa il primo giorno del mese (18–60 anni).[^23-4]
 
-[^22-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 12 dic. 2008, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
-[^22-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^22-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-5]: O del DFI del 28 ott. 2016 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)).
-[^22-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^22-7]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-8]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^22-9]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^22-10]: Vedi anche le disp. trans. delle mod. del 7 dic. 2012, dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
-[^22-11]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^22-12]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^22-13]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+<sup>3</sup> La Confederazione versa a ogni Cantone un contributo di base di 27 433 franchi al mese, destinato al mantenimento di una struttura assistenziale minima. Tale contributo si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM lo adegua all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^23-5]
 
-### ET<sub>AS</sub>=numero di richiedenti l’asilo esercitanti attività lucrativa il primo giorno del mese (18–60 anni).
+<sup>4</sup>
 
-[^tit3-chap1-sec1-lvlu4-1]
+L’importo totale (B<sub>VA</sub>) in franchi per la concessione dell’aiuto sociale alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula seguente:
 
-[^tit3-chap1-sec1-lvlu4-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+- B<sub>VA</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone.[^23-6]
 
-<sup>3</sup> La Confederazione versa a ogni Cantone un contributo di base di 27 433 franchi al mese, destinato al mantenimento di una struttura assistenziale minima. Tale contributo si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM lo adegua all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^tit3-chap1-sec1-lvlu4-2]
+<sup>5</sup>
 
-<sup>4</sup> L’importo totale (B<sub>VA</sub>) in franchi per la concessione dell’aiuto sociale alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula seguente:
-
-- B<sub>VA</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone.[^tit3-chap1-sec1-lvlu4-3]
-
-<sup>5</sup> Il numero di beneficiari dell’aiuto sociale (SP<sub>VA</sub>) è calcolato secondo la formula:
+Il numero di beneficiari dell’aiuto sociale (SP<sub>VA</sub>) è calcolato secondo la formula:
 
 - SP<sub>VA</sub> = P<sub>VA</sub> – BET<sub>VA</sub>
 
@@ -441,12 +438,16 @@ Nella formula s’intende per:
 - EQ<sub>CH</sub> = quota svizzera di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, esercitanti attività lucrativa il primo giorno del mese (25–60 anni).
 - ALQ<sub>CH</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti in Svizzera secondo la Segreteria di Stato dell’economia (SECO).
 - ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la SECO.
-- NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo ≤ fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> della legge federale del 20 dicembre 1946[^tit3-chap1-sec1-lvlu4-4] su l’assicurazione per la vecchiaia e per i superstiti (LAVS).[^tit3-chap1-sec1-lvlu4-5]
+- NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo ≤ fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> della legge federale del 20 dicembre 1946[^23-7] su l’assicurazione per la vecchiaia e per i superstiti (LAVS).[^23-8]
 
-[^tit3-chap1-sec1-lvlu4-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^tit3-chap1-sec1-lvlu4-3]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^tit3-chap1-sec1-lvlu4-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^tit3-chap1-sec1-lvlu4-5]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Vedi anche le disp. trans. delle mod. del 7 dic. 2012, dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
+[^23-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-5]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^23-6]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-8]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
 
@@ -602,7 +603,7 @@ Nella formula s’intende per:
 
 **Calcolo dell’importo totale per gruppi di rifugiati**[^27a-1]
 
-L'importo totale (B) in franchi dovuto dalla Confederazione in base ai dati registrati nella banca dati della SEM è calcolato per Cantone e mese secondo la formula seguente:
+L’importo totale (B) in franchi dovuto dalla Confederazione in base ai dati registrati nella banca dati della SEM è calcolato per Cantone e mese secondo la formula seguente:
 
 - B = numero di rifugiati di un gruppo presenti il primo giorno del mese x somma forfettaria globale per Cantone secondo l’articolo 26.
 
@@ -627,8 +628,8 @@ La Confederazione versa ai Cantoni una somma forfettaria unica per ogni persona:
 
 La somma forfettaria di cui al capoverso 1 è versata per la persona in questione se:
 
-- a. la sua domanda d’asilo è stata oggetto di una decisione di non entrata nel merito giusta l'articolo 31*a* capoversi 1 e 3 LAsi, se la pertinente decisione di non entrata nel merito e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza;
-- b. la sua domanda d’asilo è stata respinta, se la pertinente decisione in materia d'asilo e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza; o
+- a. la sua domanda d’asilo è stata oggetto di una decisione di non entrata nel merito giusta l’articolo 31*a* capoversi 1 e 3 LAsi, se la pertinente decisione di non entrata nel merito e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza;
+- b. la sua domanda d’asilo è stata respinta, se la pertinente decisione in materia d’asilo e di allontanamento è passata in giudicato ed è stato fissato un termine di partenza; o
 - c. la sua ammissione provvisoria è stata soppressa mediante decisione passata in giudicato ed è stato fissato un termine di partenza.
 
 [^28-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
@@ -842,8 +843,10 @@ Se non è possibile ottenere un rapporto di locazione o d’affitto o un diritto
 
 Il contributo forfettario per Cantone è versato alla fine di ogni anno ed è calcolato secondo la formula:
 
-- PB = (PE × DE × FE + PB × DB × FB) × JA/JT
-- Nella formula si intende per:
+- [tab] PB = (PE × DE × FE + PB × DB × FB) × JA/JT
+
+Nella formula si intende per:
+
 - PB = contributo forfettario per Cantone
 - PE = numero di posti per centro della Confederazione nel Cantone
 - PB = numero di posti per centro speciale della Confederazione nel Cantone
@@ -993,7 +996,7 @@ La SEM può erogare sussidi per:
 - b. organizzazioni internazionali attive nell’ambito del coordinamento e dell’armonizzazione internazionali della politica in materia d’asilo e di rifugiati;
 - c.[^51-2] progetti o programmi di organizzazioni internazionali tesi a potenziare le strutture di gestione della migrazione, segnatamente nell’ambito della procedura d’asilo, dell’informazione, del ritorno, dell’assistenza, della formazione e dell’occupazione nonché dell’alloggio di richiedenti l’asilo o rifugiati;
 - d.[^51-3] progetti o programmi internazionali tesi a potenziare le strutture di gestione della migrazione e condotti da enti quali organizzazioni non governative o fondazioni, segnatamente nell’ambito della procedura d’asilo, dell’informazione, del ritorno, dell’assistenza, della formazione e dell’occupazione nonché dell’alloggio di richiedenti l’asilo o rifugiati;
-- [tab] e.[^51-4] progetti di istituzioni scientifiche tesi in particolare ad approntare basi decisionali per lo sviluppo del diritto e della prassi in materia d’asilo e di migrazione, segnatamente nell’ambito dell’individuazione precoce e del controllo di movimenti di fuga e di migrazione transfrontalieri non controllati, della determinazione di standard per il trattamento di richiedenti l’asilo e di rifugiati nonché della valutazione politica.
+- e.[^51-4] progetti di istituzioni scientifiche tesi in particolare ad approntare basi decisionali per lo sviluppo del diritto e della prassi in materia d’asilo e di migrazione, segnatamente nell’ambito dell’individuazione precoce e del controllo di movimenti di fuga e di migrazione transfrontalieri non controllati, della determinazione di standard per il trattamento di richiedenti l’asilo e di rifugiati nonché della valutazione politica.
 
 <sup>3</sup> ...[^51-5]
 
@@ -1011,7 +1014,7 @@ La SEM può erogare sussidi per:
 
 <sup>2</sup> La SEM può finanziare integralmente o parzialmente i progetti di cui all’articolo 51 capoverso 2 lettera e.
 
-[^51a-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^51a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 #### Art. 52
 
@@ -1019,7 +1022,7 @@ La SEM può erogare sussidi per:
 
 La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità e dei benefici futuri. Per quanto attiene a domande di sussidi per l’attuazione di progetti o programmi internazionali, la SEM esamina inoltre se è garantita una gestione professionale del progetto.
 
-[^52-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
+[^52-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
 ### Sezione 4: Collaborazione internazionale: disposizioni speciali per i crediti d’impegno nel settore della migrazione
 
@@ -1045,7 +1048,7 @@ La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità
 
 **Competenza**
 
-<sup>2</sup> La SEM è competente per la preparazione, l’elaborazione delle proposte, l’esecuzione, la redazione di rapporti, il controllo sull’utilizzo delle risorse e la valutazione dei progetti o dei programmi.
+<sup>1</sup> La SEM è competente per la preparazione, l’elaborazione delle proposte, l’esecuzione, la redazione di rapporti, il controllo sull’utilizzo delle risorse e la valutazione dei progetti o dei programmi.
 
 <sup>2</sup> Il Comitato direttivo migrazione coordina l’utilizzo delle risorse e l’orientamento strategico dei crediti autorizzati. La SEM presiede il Comitato. Di quest’ultimo sono membri anche la Direzione dello sviluppo e della cooperazione (DSC), la SECO e la Direzione degli affari europei. Esperti interni all’Amministrazione possono essere chiamati a collaborare.
 
@@ -1103,13 +1106,12 @@ La Confederazione può assumersi le spese necessarie per l’entrata diretta in 
 - a. gruppi di rifugiati ai quali è accordato l’asilo su decisione del Consiglio federale o del DFGP ai sensi dell’articolo 56 della LAsi;
 - b. singole persone accolte su richiesta dell’ACNUR;
 - c. persone bisognose di protezione che si trovano all’estero, ai sensi dell’articolo 68 della LAsi;
-- d.[^53-2] persone la cui entrata in Svizzera è autorizzata nel quadro del ricongiungimento familiare di rifugiati riconosciuti giusta l’articolo 51 capoverso 4 LAsi o giusta l’articolo 85 capoverso 7 LStrI[^53-3];
-- e.[^53-4] persone la cui entrata in Svizzera è stata autorizzata perché la loro vita o integrità fisica è seriamente e concretamente minacciata.
+- d.[^53-2] persone la cui entrata in Svizzera è autorizzata nel quadro del ricongiungimento familiare di rifugiati riconosciuti giusta l’articolo 51 capoverso 4 LAsi o giusta l’articolo 85*c* capoverso 1 LStrI;
+- e.[^53-3] persone la cui entrata in Svizzera è stata autorizzata perché la loro vita o integrità fisica è seriamente e concretamente minacciata.
 
 [^53-1]: Introdotta dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^53-2]: Introdotta dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^53-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^53-4]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-2]: Introdotta dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-3]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 
