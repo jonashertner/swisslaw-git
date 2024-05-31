@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-de-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2024)
+vom 18. Mai 2005 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -118,7 +118,7 @@ Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nöti
 
 <table>
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
-<tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nage‑ tiere (Rodentizide) bei überbe- trieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
+<tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nagetiere (Rodentizide) bei überbetrieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
 <tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
 <tr><td>c. die Anwendung von Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
@@ -871,7 +871,7 @@ Eine Ausfuhrbewilligung wird auf Gesuch erteilt, wenn die Ausfuhr in Staaten erf
 
 <sup>2</sup> Bei der Zollanmeldung muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
 
-- [tab] <sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
+<sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
 ### 5 Meldepflicht über die Ein- und Ausfuhr
 
@@ -1113,7 +1113,7 @@ Ein Gesuch muss enthalten:
 
 <sup>2</sup> Bei der Zollanmeldung muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
 
-- [tab] <sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagerin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
+<sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagerin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
 ### 6 Verwendung
 
@@ -1317,7 +1317,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1664,7 +1664,7 @@ Ein Gesuch muss mindestens enthalten:
 - a. den Namen und die Adresse der Gesuchstellerin;
 - b. den Namen und die Adresse der ausländischen Importeurin;
 - c. den Verwendungszweck;
-- c. die Ausfuhrmenge in Kilogramm;
+- d. die Ausfuhrmenge in Kilogramm;
 - e. eine schriftliche Erklärung der Empfängerin, in welcher sich diese verpflichtet, Quecksilber (CAS-Nr. 7439-97-6) für eine in Absatz 1 genannte Verwendung zu nutzen;
 - f. Bescheinigungen nach den Absätzen 1 und 2.
 
@@ -3909,7 +3909,7 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 - a. in Gebieten, die gestützt auf eidgenössisches oder kantonales Recht unter Naturschutz stehen, soweit die massgebenden Vorschriften oder Vereinbarungen nichts anderes bestimmen;
 - b. in Riedgebieten und Mooren, soweit für diese nicht bereits Regelungen nach Buchstabe a gelten;
 - c. in Hecken und Feldgehölzen sowie in einem Streifen von drei Metern Breite entlang von Hecken und Feldgehölzen;
-- d. in oberirdischen Gewässern und in einem Streifen von drei Metern Breite entlang von oberirdischen Gewässern, wobei der Streifen bei Fliessgewässern, für die ein Gewässerraum nach Artikel 41*a* GSchV[^annex26-lvlu1-lvl324-lvl33-lvl331-1] festgelegt wurde oder bei denen nach Artikel 41*a* Absatz 5 GSchV ausdrücklich auf die Festlegung eines Gewässerraums verzichtet wurde, ab der Uferlinie und bei den übrigen Fliessgewässern sowie bei stehenden Gewässern ab der Böschungsoberkante gemäss Pufferstreifenmerkblatt «Pufferstreifen richtig messen und bewirtschaften», KIP/PIOCH 2009,[^annex26-lvlu1-lvl324-lvl33-lvl331-2] gemessen wird;
+- d. in oberirdischen Gewässern und in einem Streifen von drei Metern Breite entlang von oberirdischen Gewässern, wobei der Streifen bei Fliessgewässern, für die ein Gewässerraum nach Artikel 41*a* GSchV[^annex26-lvlu1-lvl3-lvl33-lvl331-1] festgelegt wurde oder bei denen nach Artikel 41*a* Absatz 5 GSchV ausdrücklich auf die Festlegung eines Gewässerraums verzichtet wurde, ab der Uferlinie und bei den übrigen Fliessgewässern sowie bei stehenden Gewässern ab der Böschungsoberkante gemäss Pufferstreifenmerkblatt «Pufferstreifen richtig messen und bewirtschaften», KIP/PIOCH 2009,[^annex26-lvlu1-lvl3-lvl33-lvl331-2] gemessen wird;
 - e. in der Zone S1 von Grundwasserschutzzonen.
 
 <sup>2</sup> Flüssige Hof- und Recyclingdünger dürfen in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen nicht verwendet werden.
@@ -3920,8 +3920,8 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 
 <sup>5</sup> Die Verwendung von Düngern im Wald sowie in einem Streifen von drei Metern Breite entlang der Bestockung ist verboten.
 
-[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
 
 ### 3.3.2 Ausnahmen
 
@@ -4177,7 +4177,7 @@ Anhang 2.9[^t-28]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4548,7 +4548,7 @@ Anhang 2.11[^t-30]
 
 ## Löschmittel
 
-[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Begriffe
 
@@ -4635,7 +4635,19 @@ Verboten ist die Ausfuhr von:
 
 ### 4 Verwendung
 
-Ozonschichtabbauende und in der Luft stabile Löschmittel dürfen nicht in die Umwelt gelangen, ausser bei der Bekämpfung von Bränden. Verboten ist insbesondere die Verwendung bei Übungen und Tests.
+[^annex211-lvlu1-lvl4-1]
+
+[^annex211-lvlu1-lvl4-1]: In Kraft seit 1. Juni 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 4.1 Verbote
+
+<sup>1</sup> Ozonschichtabbauende Löschmittel dürfen nicht verwendet werden.
+
+<sup>2</sup> In der Luft stabile Löschmittel dürfen nicht bei Übungen und Tests verwendet werden.
+
+### 4.2 Ausnahmen
+
+Ozonschichtabbauende Löschmittel dürfen verwendet werden in Flugzeugen, in Spezialfahrzeugen der Armee und in Atomanlagen, wenn die Sicherheit von Personen nach dem Stand der Technik der Brandverhütung ohne den Einsatz ozonschichtabbauender Löschmittel nicht ausreichend gewährleistet werden kann.
 
 ### 4<sup>bis</sup> Entsorgung
 
@@ -5287,7 +5299,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 <sup>2</sup> Das Verbot nach Ziffer 5.2 Absatz 1 gilt nicht für Fahrzeugwerkstoffe und ‑bauteile, wenn diese in Anhang II der Richtlinie 2000/53/EG[^annex216-lvlu1-lvl7-1] aufgeführt sind und innerhalb der in diesem Anhang genannten Fristen und unter den dort genannten Bedingungen erstmals in Verkehr gebracht werden.
 
-<sup>3</sup> Das Verbot nach Ziffer 5.2 Absatz 2 gilt nicht für in der Schweiz oder in einem Mitgliedstaat der EU oder EFTA erstmals in Verkehr gebrachte Fahrzeuge, die Werkstoffe oder Bauteile enthalten, die nach Absatz 2 in Verkehr gebracht werden dürfen.
+<sup>3</sup> Das Verbot nach Ziffer 5.2 Absatz 2 gilt nicht für in der Schweiz oder in einem Mitgliedstaat der EU oder EFTA erstmals in Verkehr gebrachte Fahrzeuge, die Werkstoffe oder Bauteile enthalten, die nach Absatz 2 in Verkehr gebracht werden dürfen
 
 [^annex216-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
@@ -5404,11 +5416,11 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>1</sup> Die Herstellerin, die ein Elektro- oder Elektronikgerät in Verkehr bringt, hat, vorbehältlich der Ziffern 3 und 8, zu gewährleisten, dass dieses gemäss den Anforderungen von Ziffer 2 entworfen und hergestellt wurde.
 
-<sup>2</sup> Die Herstellerin muss die erforderlichen technischen Unterlagen erstellen; sie muss eine interne Fertigungskontrolle in Übereinstimmung mit dem Modul A in Anhang II des Beschlusses Nr. 768/2008/EG[^annex218-lvlu1-lvl5-lvl41-1] durchführen oder sie durchführen lassen.
+<sup>2</sup> Die Herstellerin muss die erforderlichen technischen Unterlagen erstellen; sie muss eine interne Fertigungskontrolle in Übereinstimmung mit dem Modul A in Anhang II des Beschlusses Nr. 768/2008/EG[^annex218-lvlu1-lvl4-lvl41-1] durchführen oder sie durchführen lassen.
 
 <sup>3</sup> Wurde mit dem in Absatz 2 genannten Verfahren nachgewiesen, dass das Elektro- oder Elektronikgerät den Anforderungen von Ziffer 2 entspricht, so stellt die Herstellerin eine Konformitätserklärung gemäss Absatz 4 aus. Ist nach den Rechtsvorschriften der Schweiz oder der EU die Durchführung eines Konformitätsbewertungsverfahrens erforderlich, bei dem mindestens ebenso strenge Kriterien angewandt werden, so kann die Einhaltung der Anforderungen gemäss Ziffer 2 im Rahmen dieses Verfahrens nachgewiesen werden. Es können einheitliche technische Unterlagen erstellt werden.
 
-<sup>4</sup> Die Konformitätserklärung muss in ihrem Aufbau dem Muster nach Anhang VI der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl5-lvl41-2] entsprechen, hat die in diesem Anhang VI angegebenen Elemente zu enthalten und ist ständig zu aktualisieren. Sie ist in einer schweizerischen Amtssprache oder in englischer Sprache abzufassen.
+<sup>4</sup> Die Konformitätserklärung muss in ihrem Aufbau dem Muster nach Anhang VI der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl4-lvl41-2] entsprechen, hat die in diesem Anhang VI angegebenen Elemente zu enthalten und ist ständig zu aktualisieren. Sie ist in einer schweizerischen Amtssprache oder in englischer Sprache abzufassen.
 
 <sup>5</sup> Die Herstellerin hat zu gewährleisten, dass Verfahren existieren, die sicherstellen, dass bei Serienfertigung die Anforderungen nach diesem Anhang eingehalten werden. Änderungen an der Gestaltung des Geräts oder an seinen Merkmalen sowie Änderungen der harmonisierten Normen oder der technischen Spezifikationen, auf die bei Erklärung der Konformität des Elektro- oder Elektronikgeräts verwiesen wird, sind angemessen zu berücksichtigen.
 
@@ -5423,8 +5435,8 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>9</sup> Die Herstellerin muss ein Verzeichnis ihrer nichtkonformen Elektro- und Elektronikgeräte sowie der diesbezüglichen Rückrufe und Rücknahmen führen und die Händlerinnen regelmässig hierüber informieren.
 
-[^annex218-lvlu1-lvl5-lvl41-1]: Beschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates, ABl. L 218 vom 13.8.2008, S. 82.
-[^annex218-lvlu1-lvl5-lvl41-2]: Siehe Fussnote zu Ziffer 1 Absatz 1.
+[^annex218-lvlu1-lvl4-lvl41-1]: Beschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates, ABl. L 218 vom 13.8.2008, S. 82.
+[^annex218-lvlu1-lvl4-lvl41-2]: Siehe Fussnote zu Ziffer 1 Absatz 1.
 
 ### 4.1<sup>bis</sup> Bevollmächtigte
 
@@ -5477,12 +5489,12 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>1</sup> Das BAFU passt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG) und dem SECO die Bestimmungen dieses Anhangs wie folgt an:
 
-- a. Ziffer 2 gemäss den Änderungen von Anhang II der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl7-1];
+- a. Ziffer 2 gemäss den Änderungen von Anhang II der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl6-1];
 - b. Ziffer 3 an die jeweils gültige Fassung der Anhänge III und IV der Richtlinie 2011/65/EU.
 
 <sup>2</sup> Das BAFU bezeichnet Titel sowie Fundstelle oder Bezugsquelle der harmonisierten Normen nach Ziffer 5 Absatz 2 Buchstabe b im Bundesblatt.
 
-[^annex218-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 1 Absatz 1.
+[^annex218-lvlu1-lvl6-1]: Siehe Fussnote zu Ziffer 1 Absatz 1.
 
 ### 7 Batterien
 

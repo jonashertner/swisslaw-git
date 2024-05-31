@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° gennaio 2024)
+del 18 maggio 2005 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -118,10 +118,10 @@ D’intesa con singoli utilizzatori professionali, possono essere etichettati in
 Per i seguenti impieghi è necessaria lʼautorizzazione delle autorità sottoindicate:
 
 <table>
-<tr><th colspan="2">Impiego</th><th colspan="2">Autorità che rilascia lʼautorizzazione</th></tr>
-<tr><td>a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="3">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
-<tr><td>[tab] b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="3">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
-<tr><td>c. lʼimpiego di prodotti fitosanitari e di concimi nel bosco se essi non sono inclusi in unʼautorizzazione secondo le lettere a o b</td><td colspan="3">autorità cantonale</td></tr>
+<tr><th>Impiego</th><th colspan="3">Autorità che rilascia lʼautorizzazione</th></tr>
+<tr><td colspan="2">a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="2">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
+<tr><td colspan="2">b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="2">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
+<tr><td colspan="2">c. lʼimpiego di prodotti fitosanitari e di concimi nel bosco se essi non sono inclusi in unʼautorizzazione secondo le lettere a o b</td><td colspan="2">autorità cantonale</td></tr>
 </table>
 
 [^4-1]: Nuovo testo giusta il n. I 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
@@ -603,7 +603,7 @@ Allegato 1.2[^t-3]
   - – composti pentaclorofenossici;
   - – tetraclorofenoli (TeCP), i loro sali e i composti tetraclorofenossici.
 
-- c. *Bifenili, terfenili e naftaline alogenati*
+- e. *Bifenili, terfenili e naftaline alogenati*
   - – bifenili alogenati con formula C<sub>12</sub>H<sub>n</sub>X<sub>10-n</sub>;
   - X = alogeno, 0 ≤ n ≤ 9;
   - – terfenili alogenati con formula C<sub>18</sub>H<sub>n</sub>X<sub>14-n</sub>;
@@ -1316,7 +1316,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2000,7 +2000,8 @@ Allegato 1.13[^t-14]
 - b. 4-aminobifenile (n. CAS 92-67-1) e i suoi sali;
 - c. benzidina (n. CAS 92-87-5) e i suoi sali;
 - d. 4-nitrobifenile (n. CAS 92-93-3).
-- [tab] <sup>2</sup> Sono inoltre vietati l’immissione sul mercato e l’impiego di sostanze e preparati con un contenuto in massa di sostanze di cui al paragrafo 1 pari o superiore allo 0,1 per cento.
+
+<sup>2</sup> Sono inoltre vietati l’immissione sul mercato e l’impiego di sostanze e preparati con un contenuto in massa di sostanze di cui al paragrafo 1 pari o superiore allo 0,1 per cento.
 
 <sup>3</sup> Il colorante blu come pure le sostanze e i preparati con un contenuto in massa di colorante blu pari o superiore allo 0,1 per cento non possono essere immessi sul mercato o impiegati per colorare prodotti tessili o in pelle.
 
@@ -3908,7 +3909,7 @@ I compost e digestati presenti in un concime devono rispettare i valori limite d
 - a. nelle regioni protette in virtù del diritto federale o cantonale sulla protezione della natura, salvo che prescrizioni o accordi determinanti stabiliscano altrimenti;
 - b. nelle praterie a carice e nelle paludi per le quali non si applicano le disposizioni di cui alla lettera a;
 - c. nelle siepi e nei boschetti campestri nonché in una striscia di tre metri di larghezza lungo gli stessi;
-- d. nelle acque superficiali e in una striscia di 3 metri di larghezza lungo le rive delle stesse; nel caso di corsi d’acqua per i quali è stato stabilito uno spazio riservato ai corsi d’acqua giusta l’articolo 41*a* OPAc[^annex26-lvlu1-lvl324-lvl33-lvl331-1] oppure, in virtù dell’articolo 41*a* capoverso 5 OPAc, si è rinunciato espressamente a stabilire uno spazio riservato ai corsi d’acqua, la striscia viene misurata a partire dalla linea di sponda e per gli altri corsi d’acqua nonché per le acque stagnanti a partire dal ciglio della scarpata conformemente al Promemoria sulla corretta misurazione e gestione delle fasce tampone KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
+- d. nelle acque superficiali e in una striscia di 3 metri di larghezza lungo le rive delle stesse; nel caso di corsi d’acqua per i quali è stato stabilito uno spazio riservato ai corsi d’acqua giusta l’articolo 41*a* OPAc[^annex26-lvlu1-lvl3-lvl33-lvl331-1] oppure, in virtù dell’articolo 41*a* capoverso 5 OPAc, si è rinunciato espressamente a stabilire uno spazio riservato ai corsi d’acqua, la striscia viene misurata a partire dalla linea di sponda e per gli altri corsi d’acqua nonché per le acque stagnanti a partire dal ciglio della scarpata conformemente al Promemoria sulla corretta misurazione e gestione delle fasce tampone KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
 - e. nella zona S1 di protezione delle acque sotterranee.
 
 <sup>2</sup> I concimi aziendali fluidi e i concimi ottenuti dal riciclaggio fluidi non possono essere impiegati nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.
@@ -3919,12 +3920,12 @@ I compost e digestati presenti in un concime devono rispettare i valori limite d
 
 <sup>5</sup> È vietata l’utilizzazione di concimi nel bosco e in una striscia larga tre metri lungo il suo margine.
 
-[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
 
 ### 3.3.2 Deroghe
 
-<sup>1</sup> In deroga al divieto di cui al numero 3.3.1 capoverso 2, l’autorità cantonale può permettere che, in ogni periodo vegetativo, nella zona S2 di protezione delle acque sotterranee i concimi aziendali fluidi e i concimi ottenuti dal riciclaggio fluidi vengano sparsi fino a tre volte e a intervalli adeguati, per una quantità di 20 m<sup>3</sup> per ha al massimo se grazie alla configurazione del suolo è garantito che microrganismi patogeni non pervengano negli impianti di captazione o di ravvenamento delle acque sotterranee.
+<sup>1</sup> In deroga al divieto di cui al numero 3.3.1 capoverso 2, l’autorità cantonale può permettere che, in ogni periodo vegetativo, nella zona S2 di protezione delle acque sotterranee i concimi aziendali fluidi e i concimi ottenuti dal riciclaggio fluidi vengano sparsi fino a tre volte e a intervalli adeguati, per una quantità di 20 m<sup>3</sup> per ha al massimo se grazie alla configurazione del suolo è garantito che microrganismi
 
 <sup>2</sup> In deroga al divieto di cui al numero 3.3.1 capoverso 5 e fatto salvo il numero 3.3.1 capoversi 1–4, l’utilizzazione di concimi nel bosco e in una striscia larga tre metri lungo il suo margine può essere autorizzata (art. 4–6) al di fuori di zone di protezione delle acque sotterranee per:
 
@@ -4176,7 +4177,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4547,7 +4548,7 @@ Allegato 2.11[^t-30]
 
 ## Prodotti estinguenti
 
-[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2024 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definizioni
 
@@ -4634,7 +4635,15 @@ I divieti di cui al numero 2.1 non si applicano:
 
 ### 4 Impiego
 
-Tranne che in caso di lotta contro gli incendi, è vietato immettere nell’ambiente i prodotti estinguenti che impoveriscono lo strato di ozono o che sono stabili nell’aria. Il divieto si applica in particolare a esercitazioni e prove.
+### 4.1 Divieti
+
+<sup>1</sup> È vietato l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono.
+
+<sup>2</sup> È vietato utilizzare prodotti estinguenti per esercitazioni e prove.
+
+### 4.2 Deroghe
+
+L’impiego di prodotti estinguenti che impoveriscono lo strato di ozono è consentito negli aeroplani, nei veicoli speciali dell’esercito e negli impianti nucleari, quando la sicurezza delle persone, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono.
 
 ### 4<sup>bis</sup> Smaltimento
 
@@ -5058,7 +5067,7 @@ Allegato 2.16[^t-35]
 
 ## Disposizioni particolari concernenti i metalli
 
-[^t-35]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), dal n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dal n. I dell’O dell’UFAM del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-35]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), e dal n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dal n. I dell’O dell’UFAM del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Cromo(VI) in cementi
 
@@ -5392,13 +5401,13 @@ Allegato 2.18[^t-37]
 
 <sup>2</sup> Per garantire la conformità ai valori massimi di concentrazione di cui al capoverso 1 si applicano le prescrizioni tecniche di cui all’articolo 4 paragrafo 2 frase 2 della direttiva 2011/65/UE.
 
-### 3 Deroghe
-
 [^annex218-lvlu1-lvl2-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 del 1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2015/863 della Commissione, GU L 137 del 4.6.2015, pag. 10.
 
-I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl2-lvl3-1] per le applicazioni ivi riportate.
+### 3 Deroghe
 
-[^annex218-lvlu1-lvl2-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2023/1526, GU L 185 del 24.7.2023, pag. 26.
+I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-1] per le applicazioni ivi riportate.
+
+[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2023/1526, GU L 185 del 24.7.2023, pag. 26.
 
 ### 4 Prescrizioni per gli attori economici
 
@@ -5406,11 +5415,11 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>1</sup> Fatti salvi i numeri 3 e 8, il fabbricante che immette sul mercato un’apparecchiatura elettrica o elettronica deve garantire che sia stata progettata e fabbricata conformemente alle esigenze di cui al numero 2.
 
-<sup>2</sup> Il fabbricante deve predisporre la documentazione tecnica necessaria ed eseguire personalmente o fare eseguire la procedura di controllo interno della produzione conformemente all’allegato II, modulo A, della decisione n. 768/2008/CE[^annex218-lvlu1-lvl3-lvl41-1].
+<sup>2</sup> Il fabbricante deve predisporre la documentazione tecnica necessaria ed eseguire personalmente o fare eseguire la procedura di controllo interno della produzione conformemente all’allegato II, modulo A, della decisione n. 768/2008/CE[^annex218-lvlu1-lvl4-lvl41-1].
 
 <sup>3</sup> Qualora la conformità delle apparecchiature elettriche o elettroniche alle prescrizioni di cui al numero 2 sia stata dimostrata dalla procedura di cui al capoverso 2, il fabbricante redige una dichiarazione di conformità conformemente al capoverso 4. Nei casi in cui le normative della Svizzera o dell’UE richiedono l’applicazione di una procedura di valutazione della conformità che sia almeno altrettanto rigorosa, la conformità alle prescrizioni di cui al numero 2 può essere dimostrata nel contesto di tale procedura. Può essere redatta una documentazione tecnica unica.
 
-<sup>4</sup> La dichiarazione di conformità deve avere la struttura tipo di cui all’allegato VI della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-lvl41-2], contenere gli elementi indicati in tale allegato VI ed essere aggiornata periodicamente. Essa va redatta in una delle lingue ufficiali svizzere o in inglese.
+<sup>4</sup> La dichiarazione di conformità deve avere la struttura tipo di cui all’allegato VI della direttiva 2011/65/UE[^annex218-lvlu1-lvl4-lvl41-2], contenere gli elementi indicati in tale allegato VI ed essere aggiornata periodicamente. Essa va redatta in una delle lingue ufficiali svizzere o in inglese.
 
 <sup>5</sup> Il fabbricante deve garantire che siano predisposte le procedure volte a garantire che la produzione in serie continui a essere conforme ai requisiti di cui al presente allegato. Vanno tenute in debito conto le modifiche della progettazione o delle caratteristiche degli apparecchi, nonché le modifiche delle norme armonizzate o delle specifiche tecniche in riferimento a cui è dichiarata la conformità delle apparecchiature elettriche ed elettroniche.
 
@@ -5425,8 +5434,8 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>9</sup> Il fabbricante deve tenere un registro delle sue apparecchiature elettriche ed elettroniche non conformi e dei relativi richiami e ritiri, informandone regolarmente i rivenditori.
 
-[^annex218-lvlu1-lvl3-lvl41-1]: Decisione n. 768/2008/CE del Parlamento europeo e del Consiglio, del 9 luglio 2008, relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE, GU L 218 del 13.8.2008, pag. 82.
-[^annex218-lvlu1-lvl3-lvl41-2]: Cfr. nota al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl4-lvl41-1]: Decisione n. 768/2008/CE del Parlamento europeo e del Consiglio, del 9 luglio 2008, relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE, GU L 218 del 13.8.2008, pag. 82.
+[^annex218-lvlu1-lvl4-lvl41-2]: Cfr. nota al n. 1 cpv. 1.
 
 ### 4.1<sup>bis</sup> Mandatario
 
@@ -5479,12 +5488,12 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>1</sup> L’UFAM, d’intesa con l’UFSP e la SECO, adegua le disposizioni del presente allegato nel modo seguente:
 
-- a. il numero 2 conformemente alle modifiche dell’allegato II della direttiva 2011/65/UE[^annex218-lvlu1-lvl5-1];
+- a. il numero 2 conformemente alle modifiche dell’allegato II della direttiva 2011/65/UE[^annex218-lvlu1-lvl6-1];
 - b. il numero 3 alla versione vigente degli allegati III e IV della direttiva 2011/65/UE.
 
 <sup>2</sup> L’UFAM indica nel Foglio federale il titolo nonché il riferimento o la fonte delle norme armonizzate di cui al numero 5 capoverso 2 lettera b.
 
-[^annex218-lvlu1-lvl5-1]: Cfr. nota al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl6-1]: Cfr. nota al n. 1 cpv. 1.
 
 ### 7 Pile
 
@@ -5502,7 +5511,7 @@ Per le pile incorporate nelle apparecchiature elettriche ed elettroniche si appl
 <tr><td>Strumenti di monitoraggio e di controllo</td><td>22 luglio 2014</td></tr>
 <tr><td>Dispositivi medico-diagnostici in vitro</td><td>22 luglio 2016</td></tr>
 <tr><td>Strumenti di monitoraggio e di controllo industriali destinati esclusivamente a uso industriale e commerciale</td><td>22 luglio 2017</td></tr>
-<tr><td>Altre apparecchiature che non rientrano nell’ambito di applicazione della direttiva 2002/95/CE[^annex218-lvlu1-lvl7-1] (art. 4 par. 3 della direttiva 2011/65/UE)[^annex218-lvlu1-lvl7-2]</td><td>22 luglio 2019</td></tr>
+<tr><td>Altre apparecchiature che non rientrano nell’ambito di applicazione della direttiva 2002/95/CE[^annex218-lvlu1-lvl8-1] (art. 4 par. 3 della direttiva 2011/65/UE)[^annex218-lvlu1-lvl8-2]</td><td>22 luglio 2019</td></tr>
 </table>
 
 - b. alle altre apparecchiature elettriche ed elettroniche immesse sul mercato in Svizzera o in uno Stato membro dell’UE o dell’AELS prima del 1° luglio 2006.
@@ -5527,5 +5536,5 @@ Per le pile incorporate nelle apparecchiature elettriche ed elettroniche si appl
 
 <sup>5</sup> Il capoverso 1 lettera a non si applica alle nuove apparecchiature elettriche ed elettroniche che contengono esabromobifenile o difenileteri bromati ad eccezione di quelle che contengono decabromodifeniletere.
 
-[^annex218-lvlu1-lvl7-1]: Direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 19; modificata da ultimo dalla decisione 2011/534/UE, GU L 234 del 10.9.2010, pag. 44; abrogata dalla direttiva 2011/65/UE GU L 174 dell’1.7.2011, pag. 88.
-[^annex218-lvlu1-lvl7-2]: Cfr. nota relativa al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl8-1]: Direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 19; modificata da ultimo dalla decisione 2011/534/UE, GU L 234 del 10.9.2010, pag. 44; abrogata dalla direttiva 2011/65/UE GU L 174 dell’1.7.2011, pag. 88.
+[^annex218-lvlu1-lvl8-2]: Cfr. nota relativa al n. 1 cpv. 1.

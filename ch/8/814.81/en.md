@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 January 2024)
+of 18 May 2005 (Status as of 1 June 2024)
 
 The Swiss Federal Council,
 
@@ -333,7 +333,7 @@ The Confederation is responsible for:
 <sup>3</sup> If the substances, preparations or articles inspected or the use thereof give cause for complaint, the inspection authority shall inform the authorities responsible for rulings under Article 19. If the latter are cantonal authorities, it shall additionally inform the FOPH, FOEN and SECO and also, in cases of complaints concerning plant protection products, the FSVO and the FOAG, and in cases of complaints concerning fertilisers, the FOAG.[^18-2]
 
 [^18-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 (AS **20****15** 2367).
+[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 #### Art. 19
 
@@ -383,7 +383,7 @@ The obligation to pay fees and the calculation of fees for administrative acts p
 
 <sup>3</sup> Applications for exemptions which are pending when this Ordinance comes into force shall be assessed according to this Ordinance.
 
-[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); **199****7** 697; [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
+[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
 
 #### Art. 23a
 
@@ -495,7 +495,7 @@ Annex 1.1[^t-2]
 
 ### 3 List of prohibited persistent organic pollutants
 
-- a. *Halogenated* *aliphates*
+- a. *Halogenated aliphates*
   - – Hexachlorobutadine (CAS no 87-68-3);
   - – Alkanes C<sub>10</sub>–C<sub>13</sub>, chloro (CAS no 85535-84-8);
   - – Perfluorooctane sulfonic acid and its derivatives (PFOS);
@@ -512,12 +512,12 @@ Annex 1.1[^t-2]
   - – Toxaphene (CAS no 8001-35-2).
   - – Perfluorooctanoic acid (PFOA) and its precursor compounds.
 
-- b. *Halogenated* *Monoaromaten*
+- b. *Halogenated Monoaromaten*
   - – Pentachlorobenzene (CAS no 608-93-5);
   - – Hexachlorobenzene (CAS no 118-74-1).
   - – Pentachlorphenol (PCP, CAS no 87-86-5), its salts and esters.
 
-- c. *Halogenated biphenyls and* *naphthalenes*
+- c. *Halogenated biphenyls and naphthalenes*
   - – Polychlorinated biphenyls (CAS no 1336-36-3 and others);
   - – Hexabrombifenyl (CAS no 36355-01-8);
   - – Polychlorinated naphthalenes with the formula C<sub>10</sub>H<sub>n</sub>Cl<sub>8–n</sub> where 0 ≤ n ≤ 7.
@@ -591,7 +591,7 @@ Annex 1.2[^t-3]
 
 ### 3 List of prohibited halogenated organic substances
 
-- a. *Aliphatic polycyclic* *systems*
+- a. *Aliphatic polycyclic systems*
   - – isodrin (CAS no 465-73-6);
   - – kelevan (CAS no 4234-79-1);
   - – strobane (CAS no 8001-50-1);
@@ -608,7 +608,7 @@ Annex 1.2[^t-3]
   - – pentachlorophenoxy compounds;
   - – tetrachlorphenols (TeCP) and their salts, and tetrachlorophenoxy compounds.
 
-- e. *Halogenated biphenyls, t**erphenyls and* *naphthalenes*
+- e. *Halogenated biphenyls, terphenyls and naphthalenes*
   - – halogenated biphenyls with the formula C<sub>12</sub>H<sub>n</sub>X<sub>10-n</sub>;
   - X = halogen, 0 ≤ n ≤ 9;
   - – halogenated terphenyls with the formula C<sub>18</sub>H<sub>n</sub>X<sub>14–n</sub>;
@@ -616,13 +616,13 @@ Annex 1.2[^t-3]
   - – halogenated naphthalenes with the formula C<sub>10</sub>H<sub>n</sub>X<sub>8–n</sub>;
   - X = halogen, 0 ≤ n ≤ 7.
 
-- f. *Halogenated* *diarylalkanes*
+- f. *Halogenated diarylalkanes*
   - – monomethyl-tetrachloro-diphenyl methane (CAS no 76253-60-6);
   - – monomethyl-dichloro-diphenyl methane;
   - – monomethyl-dibromo-diphenyl methane (CAS no 99688-47-8).
 
-- g. *Octabromodiphenyl* *ether with the molec**ular formula C**<sub>12</sub>**H**<sub>2</sub>**Br**<sub>8</sub>**O.*
-- h. *Trichlorophenoxy* *fatty acids and their derivatives*
+- g. *Octabromodiphenyl ether with the molecular formula C**<sub>12</sub>**H**<sub>2</sub>**Br**<sub>8</sub>**O.*
+- h. *Trichlorophenoxy fatty acids and their derivatives*
   - – 2,4,5-trichlorophenoxyacetic acid (CAS no 93-76-5) and its salts and 2,4,5-trichlorphenoxyacetyl compounds;
   - – 2-(2,4,5-Trichlorphenoxy) propionic acid (CAS no 93-72-1) and its salts, and 2-(2,4,5-trichlorophenoxy) propionyl compounds.
 
@@ -1318,7 +1318,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1403,7 +1403,7 @@ Annex 1.7[^t-8]
 <sup>4</sup> For the placing on the market of batteries, packaging and packaging components, vehicles and vehicle materials and components, wood-based materials and electrical and electronic equipment and their spare parts, Annexes 2.15–2.18 apply.
 
 [^annex17-lvlu1-lvl1-lvl11-1]: In force from 1 Jan. 2021 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^annex17-lvlu1-lvl1-lvl11-2]: SR **813****.****12**
+[^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 1.2 Exemptions
@@ -2030,9 +2030,9 @@ Annex 1.14[^t-15]
 
 ### 1.1 Definitions
 
-<sup>1</sup> *Preparations containing dibutyltin compounds or* *dioctyltin* *compounds* are preparations which contain dibutyltin compounds or dioctyltin compounds and have a tin content of 0.1% or more by mass.
+<sup>1</sup> *Preparations containing dibutyltin compounds or dioctyltin compounds* are preparations which contain dibutyltin compounds or dioctyltin compounds and have a tin content of 0.1% or more by mass.
 
-- [tab] <sup>2</sup> *Articles containing dibutyltin compounds or* *dioctyltin* *compounds* are articles which contain dibutyltin compounds or dioctyltin compounds and where the tin content in the article, or part thereof, is 0.1% or more by mass.
+- [tab] <sup>2</sup> *Articles containing dibutyltin compounds or dioctyltin compounds* are articles which contain dibutyltin compounds or dioctyltin compounds and where the tin content in the article, or part thereof, is 0.1% or more by mass.
 
 ### 1.2 Prohibitions
 
@@ -2973,7 +2973,7 @@ Annex 2.2[^t-21]
 
 <sup>6</sup> On receipt of a justified request, it may grant further exemptions to the prohibition specified in Number 2 paragraph 1 letter e for surfactants not listed in Annex V or VI to Regulation (EC) No 648/2004. Here, it shall take account of the criteria laid down in Annex IV to Regulation (EC) 648/2004.
 
-[^annex22-lvlu1-lvl6-1]: SR **813****.****12**
+[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^annex22-lvlu1-lvl6-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 7 Transitional provisions
@@ -3100,7 +3100,7 @@ It is prohibited:
 
 ### 5.1 Definitions
 
-*Halogen**ated solvents* are solvents containing in total more than 1% of the following substances by weight:
+*Halogenated solvents* are solvents containing in total more than 1% of the following substances by weight:
 
 - a. dichloromethane (CAS no 75-09-2);
 - b. 1,1-dichloroethane (CAS no 75-34-3);
@@ -3158,7 +3158,7 @@ Annex 2.4[^t-23]
 
 ### 1.1 Definitions
 
-<sup>1</sup> *Wood pres**ervatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex24-lvlu1-lvl1-lvl11-1].
+<sup>1</sup> *Wood preservatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex24-lvlu1-lvl1-lvl11-1].
 
 <sup>2</sup> *Tar oils* refers in particular to:
 
@@ -3590,7 +3590,7 @@ Annex 2.6[^t-25]
 
 <sup>2</sup> *Forage areas* are meadows and pastures, and vegetated farmland producing crops used wholly or partly as fodder. The term does not apply to farmland where only the grain or cobs are harvested.
 
-[^annex26-lvlu1-lvl1-1]: SR **91****6.171**
+[^annex26-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
 ### 2 Special requirements for supply
 
@@ -3888,9 +3888,9 @@ The quality requirements stipulated in Number 2.2.1.10 also apply to compost and
 
 ### 3.2.2 Compost and digestate
 
-<sup>1</sup> Over a three-year period, up to 25 tonnes of compost or solid digestate (based on dry matter) may be applied as fertiliser per hectare, or 200m<sup>3</sup> liquid digestate per hectare, provided that these quantities do not exceed the nitrogen and phosphorus requirements of the plants.
+<sup>1</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of soil improvers with a C<sub>org</sub> content of over 7.5 %, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
 
-<sup>2</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of soil improvers with a C<sub>org</sub> content of over 7.5 %, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
+<sup>2</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of organic and organic-mineral soil improvers, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
 
 ### 3.2.3 Residues from small wastewater treatment plants and from non‑agricultural sealed cesspools
 
@@ -3911,7 +3911,7 @@ The quality requirements stipulated in Number 2.2.1.10 also apply to compost and
 - a. in areas designated as nature reserves under federal or cantonal legislation, in the absence of relevant regulations or agreements to the contrary;
 - b. in reed beds and mires, where these are not already covered by provisions referred to in letter a;
 - c. in hedges and copses and in a 3m-wide strip alongside hedges and copses;
-- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl324-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
+- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl4-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl4-lvl33-lvl331-2];
 - e. in groundwater protection zone S1.
 
 <sup>2</sup> It is prohibited to use liquid farm manure and recycling fertilisers in groundwater protection zones S2 and S<sub>h</sub>.
@@ -3922,8 +3922,8 @@ The quality requirements stipulated in Number 2.2.1.10 also apply to compost and
 
 <sup>5</sup> It is prohibited to use fertilisers in forests and in a 3 m strip alongside the stand of trees.
 
-[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
+[^annex26-lvlu1-lvl4-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl4-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
 
 ### 3.3.2 Exemptions
 
@@ -4178,7 +4178,7 @@ Annex 2.9[^t-28]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -4549,13 +4549,13 @@ Annex 2.11[^t-30]
 
 ## Extinguishing agents
 
-[^t-30]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I of the O of 17 April 2019, in force since 1 June 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definitions
 
 <sup>1</sup> *Ozone-depleting extinguishing agents* are extinguishing agents containing substances that deplete the ozone layer (Annex 1.4).
 
-<sup>2</sup> *Extinguishing agents stable in the atmosp**here* are extinguishing agents containing substances stable in the atmosphere (Annex 1.5).
+<sup>2</sup> *Extinguishing agents stable in the atmosphere* are extinguishing agents containing substances stable in the atmosphere (Annex 1.5).
 
 <sup>3</sup> A system is equipment permanently installed in a building (stationary system) or on a vehicle (mobile system) which distributes the extinguishing agent by means of a pipe system to the places where a fire is being tackled.
 
@@ -4580,7 +4580,7 @@ The prohibitions specified in Number 2.1 do not apply:
 - a. to supply for purposes of recycling;
 - b. to the import of portable extinguishers for use in one's own vehicle;
 - c. to the re-import of extinguishing agents for which there is proof that they were exported for recycling;
-- d. if, according to the state of the art of fire prevention, the safety of persons in aeroplanes, special-purpose military vehicles or nuclear installations cannot be adequately ensured without the use of ozone-depleting extinguishing agents or extinguishing agents stable in the atmosphere; the FOEN may in other similar cases grant temporary exemptions for the owners of individual items of property.
+- d. if, according to the state of the art for fire prevention, the safety of persons in aircraft, special-purpose military vehicles or nuclear installations cannot be adequately ensured without the use of ozone-depleting extinguishing agents or extinguishing agents stable in the atmosphere; the FOEN may in other similar cases grant temporary exemptions for the owners of individual items of property.
 
 ### 3 Export
 
@@ -4636,7 +4636,19 @@ It is prohibited to export:
 
 ### 4 Use
 
-Ozone-depleting extinguishing agents and extinguishing agents stable in the atmosphere must not enter the environment, except when used in fire-fighting. In particular, use in exercises and tests is prohibited.
+[^annex211-lvlu1-lvl4-1]
+
+[^annex211-lvlu1-lvl4-1]: In force since 1 June 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 4.1 Prohibitions
+
+<sup>1</sup> The use of ozone-depleting extinguishing agents is prohibited.
+
+<sup>2</sup> The use of extinguishing agents stable in the atmosphere in exercises and tests is prohibited.
+
+### 4.2 Exceptions
+
+Ozone-depleting extinguishing agents may be used in aircraft, in special-purpose military vehicles and in nuclear installations, provided, according to the state of the art for fire prevention, the safety of persons cannot be sufficiently guaranteed without using ozone-depleting extinguishing agents.
 
 ### 4<sup>bis</sup> Disposal
 
@@ -5286,7 +5298,7 @@ Vehicle materials and components must be labelled or made identifiable by other 
 
 <sup>2</sup> The prohibition specified in Number 5.2 paragraph 1 does not apply to vehicles and components, if they are listed in Annex II to Directive 2000/53/EC[^annex216-lvlu1-lvl7-1] and were placed on the market for the first time within the dates specified in this Annex and under the conditions specified there.
 
-<sup>3</sup> The prohibition specified in Number 5.2 paragraph 2 does not apply to vehicles placed on the market for the first time in Switzerland or a Member State of the EU or EFTA, which contain materials or components that may be placed on the market in accordance with Paragraph 2.
+<sup>3</sup> The prohibition specified in Number 5.2 paragraph 2 does not apply to vehicles placed on the market for the first time in Switzerland or a Member State of the EU or EFTA, which contain materials or components that may be placed on the market in accordance with paragraph 2.
 
 [^annex216-lvlu1-lvl7-1]: See footnote to No 5.3 para. 1.
 

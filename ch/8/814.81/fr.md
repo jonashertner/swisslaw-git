@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-fr-xml-18.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -118,7 +118,7 @@ Les usages suivants requièrent une autorisation délivrée par les autorités m
 <table>
 <tr><th>Usage:</th><th>Autorité délivrant l’autorisation:</th></tr>
 <tr><td>a. l’usage, à titre professionnel ou commercial, de produits destinés à protéger les plantes contre les rongeurs (rodenticides), appliqués mécaniquement ou dans le cadre d’actions inter-entreprises</td><td>les autorités cantonales, d’entente avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), l’Office fédéral de l’agriculture (OFAG) et l’Office fédéral de l’environnement (OFEV) en cas d’usage régional ou suprarégional</td></tr>
-<tr><td>[tab] b.[^4-2] la pulvérisation et l’épandage de produits phytosanitaires, de produits biocides et d’engrais par voie aérienne</td><td>l’Office fédéral de l’aviation civile, en accord avec l’Office fédéral de la santé publique (OFSP), l’OSAV, l’OFAG, le Secrétariat d’État à l’économie (SECO) et l’OFEV</td></tr>
+<tr><td>b.[^4-2] la pulvérisation et l’épandage de produits phytosanitaires, de produits biocides et d’engrais par voie aérienne</td><td>l’Office fédéral de l’aviation civile, en accord avec l’Office fédéral de la santé publique (OFSP), l’OSAV, l’OFAG, le Secrétariat d’État à l’économie (SECO) et l’OFEV</td></tr>
 <tr><td>c. l’usage de produits phytosanitaires et d’engrais en forêt, s’il n’est pas inclus dans une autorisation au sens de la lettre a ou b</td><td>les autorités cantonales</td></tr>
 </table>
 
@@ -1312,7 +1312,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1659,7 +1659,7 @@ La demande doit contenir au moins les éléments suivants:
 - a. le nom et l’adresse du requérant;
 - b. le nom et l’adresse de l’importateur étranger;
 - c. l’usage prévu;
-- c. la quantité exportée, en kilogrammes;
+- d. la quantité exportée, en kilogrammes;
 - e. une déclaration écrite du destinataire dans laquelle ce dernier s’engage à n’utiliser le mercure (n<sup>o</sup> CAS 7439-97-6) qu’à l’une des fins mentionnées à l’al. 1;
 - f. les attestations définies aux al. 1 et 2.
 
@@ -3904,7 +3904,7 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 - a. dans des régions classées réserves naturelles en vertu de la législation fédérale ou cantonale, à moins que les prescriptions ou les conventions déterminantes en disposent autrement;
 - b. dans les roselières et les marais auxquels ne s’appliquent pas déjà les réglementations au sens de la let. a;
 - c. dans les haies et les bosquets, ainsi que sur une bande de 3 m de large le long de ceux-ci;
-- d. dans les eaux superficielles et sur une bande de 3 m de large le long de celles-ci, sachant que la bande concernant les cours d’eau pour lesquels un espace réservé au cours d’eau au sens de l’art. 41*a* OEaux[^annex26-lvlu1-lvl324-lvl33-lvl331-1] a été fixé ou pour lesquels un espace réservé au cours d’eau n’a expressément pas été fixé, conformément à l’art. 41*a*, al. 5, OEaux, se mesure à partir de la ligne du rivage et pour les autres cours d’eau et les plans d’eau à partir de la limite supérieure de la berge conformément à la brochure «Bordures tampon, Comment les mesurer, comment les exploiter?», KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
+- d. dans les eaux superficielles et sur une bande de 3 m de large le long de celles-ci, sachant que la bande concernant les cours d’eau pour lesquels un espace réservé au cours d’eau au sens de l’art. 41*a* OEaux[^annex26-lvlu1-lvl3-lvl33-lvl331-1] a été fixé ou pour lesquels un espace réservé au cours d’eau n’a expressément pas été fixé, conformément à l’art. 41*a*, al. 5, OEaux, se mesure à partir de la ligne du rivage et pour les autres cours d’eau et les plans d’eau à partir de la limite supérieure de la berge conformément à la brochure «Bordures tampon, Comment les mesurer, comment les exploiter?», KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
 - e. dans la zone S1 de protection des eaux souterraines.
 
 <sup>2</sup> Il est interdit d’épandre des engrais de ferme liquides ou des engrais de recyclage liquides dans les zones S2 et S<sub>h</sub> de protection des eaux souterraines.
@@ -3915,8 +3915,8 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 
 <sup>5</sup> Il est interdit d’épandre des engrais en forêt et sur une bande de 3 m de large le long de la zone boisée.
 
-[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
 
 ### 3.3.2 Exceptions
 
@@ -4172,7 +4172,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4543,7 +4543,7 @@ Annexe 2.11[^t-30]
 
 ## Agents d’extinction
 
-[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Définitions
 
@@ -4630,7 +4630,15 @@ Il est interdit d’exporter:
 
 ### 4 Emploi
 
-Les agents d’extinction appauvrissant la couche d’ozone ou stables dans l’air ne doivent pas parvenir dans l’environnement, sauf en cas de lutte contre les incendies. Il est notamment interdit d’employer ces produits lors d’exercices et d’essais.
+### 4.1 Interdictions
+
+<sup>1</sup> Il est interdit d’employer des agents d’extinction appauvrissant la couche d’ozone.
+
+<sup>2</sup> Il est interdit d’employer des agents d’extinction stables dans l’air lors d’exercices ou d’essais.
+
+### 4.2 Exceptions
+
+Les agents d’extinction appauvrissant la couche d’ozone peuvent être employés dans les avions, dans les véhicules spéciaux de l’armée ou dans les installations atomiques si, selon l’état de la technique en matière de prévention des incendies, la protection des personnes n’est pas suffisamment garantie sans recourir à ces agents.
 
 ### 4<sup>bis</sup> Élimination
 
