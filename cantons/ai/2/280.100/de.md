@@ -4,13 +4,12 @@ number: "280.100"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EG SchKG
 language: de
-version: 2022-05-01
-valid_until: 2024-05-31
-version_adopted: 2022-04-24
+version: 2024-06-01
+version_adopted: 2024-04-28
 adopted: 1996-04-28
 in_force: 1997-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/280.100"
-pdf: "https://ai.clex.ch/api/de/versions/2029/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2272/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2029/pdf_file"
 
 (EG SchKG)
 
-vom 28.04.1996 (Stand 01.05.2022)
+vom 28.04.1996 (Stand 01.06.2024)
 
 Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
@@ -31,38 +30,38 @@ beschliesst:
 
 #### Art. 1
 
-**Betreibungskreise**
+**Betreibungskreis**
 
-<sup>1</sup> Der Kanton Appenzell I. Rh. bildet für die Durchführung der Schuldbetreibung zwei Betreibungskreise, nämlich
+<sup>1</sup> Der Kanton Appenzell I.Rh. bildet für die Durchführung der Schuldbetreibung einen Betreibungskreis.
 
-- a) den Betreibungskreis Appenzell mit den Bezirken Appenzell, Schwende-Rüte, Schlatt-Haslen und Gonten;
-- b) den Betreibungskreis Oberegg mit dem Bezirk Oberegg.
+- a) …
+- b) …
 
-<sup>2</sup> Die Betreibungsämter haben ihren Sitz in Appenzell bzw. Oberegg.
+<sup>2</sup> Der Sitz der für das Betreibungswesen zuständigen Stelle ist Appenzell.
 
 #### Art. 2
 
 **Konkurskreis**
 
-<sup>1</sup> Der Kanton Appenzell I. Rh. bildet für die Durchführung der Konkurse einen Konkurskreis. Der Sitz des Konkursamtes befindet sich in Appenzell.
+<sup>1</sup> Der Kanton Appenzell I.Rh. bildet für die Durchführung der Konkurse einen Konkurskreis.
+
+<sup>2</sup> Der Sitz der für das Konkurswesen zuständigen Stelle ist Appenzell.
 
 #### Art. 3
 
 **Betreibungsbeamter und Stellvertreter**
 
-<sup>1</sup> Für jeden Betreibungskreis wird von der Standeskommission ein Betreibungsbeamter[^3-1] gewählt. Der Betreibungsbeamte des Betreibungskreises Appenzell ist gleichzeitig Konkursbeamter für den ganzen Kanton. Zudem bestimmt die Standeskommission für die beiden Ämter je einen Stellvertreter.
+<sup>1</sup> Die Standeskommission wählt den Leiter[^3-1] der für das Betreibungswesen zuständigen Stelle und den Leiter der für das Konkurswesen zuständigen Stelle sowie die erforderlichen Stellvertreter.
 
-<sup>2</sup> Für Schuldbetreibungen gegen den Kanton, die Bezirke oder andere Körperschaften des kantonalen öffentlichen Rechts ist das Betreibungs- und Konkursamt Appenzell zuständig.
+<sup>2</sup> Bei Verhinderung oder Ausstand der Betreibungs- und Konkursbeamten und ihrer Stellvertretungen ernennt die Standeskommission eine ausserordentliche Stellvertretung.
+
+<sup>3</sup> Die für das Betreibungs- und Konkurswesen zuständige Stelle kann andere Personen als Hilfspersonen beiziehen.
 
 [^3-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 3a
 
-**Ausserordentliche Stellvertretung**
-
-<sup>1</sup> Bei Verhinderung oder Ausstand des Betreibungsbeamten und ihrer Stellvertretung amtet der Betreibungsbeamte des anderen Betreibungskreises, in dessen Verhinderung seine Stellvertretung.
-
-<sup>2</sup> Bei Verhinderung oder Ausstand aller Betreibungsbeamten und ihrer Stellvertretungen ernennt die Standeskommission eine ausserordentliche Stellvertretung.
+**…**
 
 #### Art. 4
 
@@ -98,7 +97,7 @@ beschliesst:
 
 **Eigentumsvorbehaltsregister und Viehverschreibungsprotokolle**
 
-<sup>1</sup> Die Betreibungsämter haben auch die Register über Eigentumsvorbehalte und die Viehverschreibungsprotokolle zu führen.
+<sup>1</sup> Die für das Betreibungswesen zuständige Stelle hat auch die Register über Eigentumsvorbehalte und die Viehverschreibungsprotokolle zu führen.
 
 #### Art. 9
 
