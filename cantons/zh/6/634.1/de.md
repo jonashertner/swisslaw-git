@@ -3,11 +3,10 @@ canton: ZH
 number: "634.1"
 title: Verordnung über die Durchführung des Bundesgesetzes über die direkte Bundessteuer
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2024-06-01
+version: "2024-06-01"
+nachtrag: "125"
 adopted: 1998-11-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-634_1-1998_11_04-1999_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-634_1-1998_11_04-1999_01_01-125.html"
 text: pdf
 ---
 
@@ -17,9 +16,9 @@ text: pdf
 
 (vom 4. November 1998)[^t-1]
 
-A.[^t-2]
+A.<sup>13</sup>
 
-§ 1.[^t-2]
+§ 1.<sup>13</sup>
 
 B. Behörden
 
@@ -27,19 +26,19 @@ I. Allgemeine Bestimmungen
 
 **Kantonale Verwaltung für die direkte Bundessteuer und Erlassbehörde**
 
-§ 2.[^t-3] Das Steueramt ist:
+§ 2.<sup>12</sup> Das Steueramt ist:
 
-- a. kantonale Verwaltung für die direkte Bundessteuer im Sinne des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)[^t-4],
+- a. kantonale Verwaltung für die direkte Bundessteuer im Sinne des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)[^t-2],
 
 - b. Erlassbehörde im Sinne von Art. 167 b Abs. 1 DBG.
 
 **Organe**
 
-§ 3.[^t-3] Der Vollzug des Bundesgesetzes über die direkte Bundessteuer wird folgenden Organen übertragen:
+§ 3.<sup>12</sup> Der Vollzug des Bundesgesetzes über die direkte Bundessteuer wird folgenden Organen übertragen:
 
-- a. dem Steueramt mit seinen Divisionen, Dienstabteilungen und Gruppen,
+a.<sup>20</sup> dem Steueramt mit seinen Abteilungen,
 
-- b. den Gemeindesteuerämtern, c.[^t-5] dem Steuerrekursgericht,
+- b. den Gemeindesteuerämtern, c.[^t-3] dem Steuerrekursgericht,
 
 - d. dem Verwaltungsgericht,
 
@@ -47,11 +46,11 @@ I. Allgemeine Bestimmungen
 
 **Organisation und Verfahren**
 
-§ 4.[^t-5] Soweit Organisation und Verfahren nicht bundesrechtlich geregelt sind, sind die Bestimmungen des kantonalen Rechts über die Organisation des Steueramtes, der Gemeindesteuerämter, des Steuerrekursgerichts und des Verwaltungsgerichts sowie über das Verfahren vor diesen Behörden sinngemäss auf die Bundessteuerbehörden anwendbar.
+§ 4.[^t-3] Soweit Organisation und Verfahren nicht bundesrechtlich geregelt sind, sind die Bestimmungen des kantonalen Rechts über die Organisation des Steueramtes, der Gemeindesteuerämter, des Steuerrekursgerichts und des Verwaltungsgerichts sowie über das Verfahren vor diesen Behörden sinngemäss auf die Bundessteuerbehörden anwendbar.
 
 **1**
 
-- 1\. 1. 21 - 111 II. Steueramt
+- 1\. 7. 24 - 125 II. Steueramt
 
 **Geschäftsleitung12**
 
@@ -65,45 +64,42 @@ I. Allgemeine Bestimmungen
 
 - d. die Orientierung der Steuerbehörden über Gesetzgebung und Rechtsprechung zur direkten Bundessteuer.
 
-<sup>2</sup> . . .[^t-2]
+<sup>2</sup> . . .<sup>13</sup>
 
-**Dienstabteilung Inkasso**
+**Abteilung Steuerbezug20**
 
-§ 6.[^t-6] Der Dienstabteilung Inkasso kommen zu:
+§ 6.<sup>15</sup> Der Abteilung Steuerbezug<sup>20</sup> kommen zu:
 
-- a. die Mitwirkung bei der Veranlagung nach Massgabe der Vorschriften dieser Verordnung, b.[^t-5] die Erhebung von Beschwerden gegen Veranlagungsverfügungen und Einspracheentscheide beim Steuerrekursgericht (Art. 141 Abs. 1 DBG),
+- a. die Mitwirkung bei der Veranlagung nach Massgabe der Vorschriften dieser Verordnung, b.[^t-3] die Erhebung von Beschwerden gegen Veranlagungsverfügungen und Einspracheentscheide beim Steuerrekursgericht (Art.141 Abs.1 DBG),
 
 - c. der gesamte Steuerbezug (Art. 160 ff. DBG),
 
 - d. der Entscheid über die Rückforderung von bezahlten Steuern (Art. 168 Abs. 3 DBG),
 
-- e. die Festsetzung von Bussen wegen Verletzung von Verfahrenspflichten gemäss Art. 174 Abs. 1 Bst. a DBG, f.[^t-7] die Vertretung des Staates in diesen Verfahren vor Gericht und die Ergreifung von Rechtsmitteln, soweit diese Verordnung keine andere Stelle für zuständig erklärt.
+- e. die Festsetzung von Bussen wegen Verletzung von Verfahrenspflichten gemäss Art. 174 Abs. 1 Bst. a DBG, f.[^t-4] die Vertretung des Staates in diesen Verfahren vor Gericht und die Ergreifung von Rechtsmitteln, soweit diese Verordnung keine andere Stelle für zuständig erklärt.
 
 [^t-1]: OS 54, 808.
-[^t-2]: Aufgehoben durch RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
-[^t-3]: Fassung gemäss RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
-[^t-4]: SR 642.11.
-[^t-5]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
-[^t-6]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^t-7]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
+[^t-2]: SR 642.11.
+[^t-3]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
+[^t-4]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
 
 #### § 6 a
 
-**Gruppe Bezugsdienste**
+**Abteilung Bezugsdienst20**
 
-<sup>1</sup> Der Gruppe Bezugsdienste kommen zu:[^t-6] a. der Entscheid über einen Steuererlass,
+<sup>1</sup> Der Abteilung Bezugsdienst<sup>20</sup> kommen zu:<sup>15</sup> a. der Entscheid über einen Steuererlass,
 
 - b. die Sicherstellung von Steuerforderungen (Art. 169 Abs. 1 und 173 DBG),
 
 - c. Festsetzung von Bussen wegen Verletzung von Verfahrenspflichten gemäss Art. 174 Abs. 1 Bst. b und c DBG,
 
-- d. der Erlass von Haftungsverfügungen (Art. 13 und 55 DBG), e.[^6a-1] der Entscheid über den Eintrag im Grundbuch (Art. 172 DBG[^6a-2].
+- d. der Erlass von Haftungsverfügungen (Art. 13 und 55 DBG), e.<sup>17</sup> der Entscheid über den Eintrag im Grundbuch (Art. 172 DBG).
 
-<sup>2</sup> Der Gruppe Bezugsdienste können weitere Aufgaben im Bereiche des Steuerbezugs zugewiesen werden.
+<sup>2</sup> Der Abteilung Bezugsdienst<sup>20</sup> können weitere Aufgaben im Bereiche des Steuerbezugs zugewiesen werden.
 
-**Dienstabteilung Akten- und Datenpflege**
+**Abteilung Register20**
 
-§ 6 b.[^6a-3] Der Dienstabteilung Akten- und Datenpflege kommen zu:
+§ 6 b.<sup>14</sup> Der Abteilung Register<sup>20</sup> kommen zu:
 
 - a. die Führung des Registers der Steuerpflichtigen (Art. 122 DBG),
 
@@ -113,64 +109,62 @@ I. Allgemeine Bestimmungen
 
 - d. der Entscheid über die Löschung im Handelsregister (Art. 171 DBG).
 
-e.[^6a-4]
+e.<sup>19</sup>
 
-**Dienstabteilung Rechnungswesen und Controlling**
+**Abteilung Rechnungswesen und Controlling20**
 
-§ 6 c.[^6a-3] Der Dienstabteilung Rechnungswesen und Controlling kommen zu:
+§ 6 c.<sup>14</sup> Der Abteilung Rechnungswesen und Controlling<sup>20</sup> kommen zu:
 
-- a. die Festsetzung des Pauschalanteils des Bundes am Quellensteuerertrag (Art. 17 Abs. 2 Verordnung des EFD vom 19. Oktober 1993 über die Quellensteuer bei der direkten Bundessteuer[^6a-5],
+- a. die Festsetzung des Pauschalanteils des Bundes am Quellensteuerertrag (Art. 17 Abs. 2 Verordnung des EFD vom 19. Oktober 1993 über die Quellensteuer bei der direkten Bundessteuer[^6a-1],
 
 - b. die Abrechnung mit dem Bund (Art. 196 DBG),
 
 - c. die Repartition der kantonalen Anteile an der direkten Bundessteuer (Art. 111 Abs. 2 und 197 DBG).
 
-**Divisionen und Dienstabteilung Inventarkontrolle/ Erbschaftssteuer**
+[^6a-1]: SR 642.118.2.
 
-§ 7.[^6a-6] Den Divisionen und der Dienstabteilung Inventarkontrolle/ Erbschaftssteuer kommen zu:
+#### § 7
 
-a.[^6a-7] die Veranlagung der direkten Bundessteuer von natürlichen und juristischen Personen (Art. 131 Abs. 1 DBG), b.[^6a-7] die Veranlagung der direkten Bundessteuer von kollektiven Kapitalanlagen und ausländischen Personengesamtheiten ohne juristische Persönlichkeit (Art. 49 Abs. 2 und 3 DBG),
+**Veranlagungsabteilungen**
+
+Den Abteilungen Zürich Nord, Zürich Süd, Zürich City, Quellensteuer, Nachlass, Bau, Dienstleistungen und Konsum sowie Bücherrevision kommen zu<sup>20</sup>:
+
+a.[^7-1] die Veranlagung der direkten Bundessteuer von natürlichen und juristischen Personen (Art. 131 Abs. 1 DBG), b.[^7-1] die Veranlagung der direkten Bundessteuer von kollektiven Kapitalanlagen und ausländischen Personengesamtheiten ohne juristische Persönlichkeit (Art. 49 Abs. 2 und 3 DBG),
 
 - c. die Einleitung der Veranlagung, wenn Verjährung droht (Art. 120 Abs. 3 lit. a DBG),
 
-- d. die Mitwirkung bei besonderen Untersuchungsmassnahmen der Eidgenössischen Steuerverwaltung (Art. 190 DBG), e.[^6a-8] die Vertretung des Staates im Beschwerdeverfahren vor dem Steuerrekursgericht.
+- d. die Mitwirkung bei besonderen Untersuchungsmassnahmen der Eidgenössischen Steuerverwaltung (Art. 190 DBG), e.[^7-2] die Vertretung des Staates im Beschwerdeverfahren vor dem Steuerrekursgericht.
 
-[^6a-1]: Eingefügt durch RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
-[^6a-2]: SR 642.11.
-[^6a-3]: Eingefügt durch RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^6a-4]: Aufgehoben durch RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-
-[^6a-5]: SR 642.118.2.
-[^6a-6]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-[^6a-7]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
-[^6a-8]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
+[^7-1]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
+[^7-2]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
 
 #### § 8
 
-**Dienstabteilung Spezialdienste7**
+**Abteilung Spezialdienst20**
 
-Der Dienstabteilung Spezialdienste[^6a-6] kommen zu:
+Der Abteilung Spezialdienst<sup>20</sup> kommen zu:
 
 - a. die Einleitung des Nachsteuer- und Bussenverfahrens wegen Steuerhinterziehung, die Ermittlung der Nachsteuergrundlagen sowie die Festsetzung von Nachsteuern und Bussen wegen Steuerhinterziehung (Art. 175, 176, 177, 178 und 181 DBG),
 
-- b. die Strafanzeige wegen Steuerbetrugs und Veruntreuung von Quellensteuern (Art. 188 Abs. 1 DBG), c.[^8-1] der Erlass von Haftungsverfügungen (Art. 177 Abs. 1 DBG),
+- b. die Strafanzeige wegen Steuerbetrugs und Veruntreuung von Quellensteuern (Art. 188 Abs. 1 DBG), c.<sup>15</sup> der Erlass von Haftungsverfügungen (Art. 177 Abs. 1 DBG),
 
 **3**
 
-- 1\. 1. 21 - 111 d.[^8-2] die Vertretung des Staates in diesen Verfahren vor Strafuntersuchungsbehörden, vor Gerichten und die Ergreifung der Rechtsmittel.
+- 1\. 7. 24 - 125 d.[^8-1] die Vertretung des Staates in diesen Verfahren vor Strafuntersuchungsbehörden, vor Gerichten und die Ergreifung der Rechtsmittel.
 
-**Dienstabteilung Recht**
+**Abteilung Rechtsdienst20**
 
-§ 9.[^8-2] Der Dienstabteilung Recht kommen zu:
+§ 9.[^8-1] Der Abteilung Rechtsdienst<sup>20</sup> kommen zu:
 
-- a. der Entscheid über Steuerbefreiungen (Art. 56 DBG) und die Vertretung des Staates in diesen Verfahren vor Gerichten sowie die Ergreifung von Rechtsmitteln, b.[^8-3] die Erhebung von Beschwerden gegen Beschwerdeentscheide des Steuerrekursgerichts beim Verwaltungsgericht (Art. 145 Abs. 2 in Verbindung mit Art. 141 Abs. 1 DBG) und von Beschwerden beim Bundesgericht (Art. 146 DBG),
+- a. der Entscheid über Steuerbefreiungen (Art. 56 DBG) und die Vertretung des Staates in diesen Verfahren vor Gerichten sowie die Ergreifung von Rechtsmitteln, b.[^8-2] die Erhebung von Beschwerden gegen Beschwerdeentscheide des Steuerrekursgerichts beim Verwaltungsgericht (Art. 145 Abs. 2 in Verbindung mit Art. 141 Abs. 1 DBG) und von Beschwerden beim Bundesgericht (Art. 146 DBG),
 
 - c. die Vertretung des Staates im Beschwerdeverfahren vor dem Verwaltungsgericht und dem Bundesgericht, soweit diese Verordnung keine andere Stelle für zuständig erklärt.
 
-**Division Quellensteuer**
+**Abteilung Quellensteuer20**
 
-§ 10.[^8-4] Der Division Quellensteuer kommen zusätzlich zu den Aufgaben gemäss § 7 zu:
+§ 10.<sup>18</sup> Der Abteilung Quellensteuer<sup>20</sup> kommen zusätzlich zu den Aufgaben gemäss § 7 zu:
 
-- a. die Veranlagung des Bundessteueranteils nach Massgabe der Quellensteuerverordnungen I[^8-5] und II[^8-6],
+- a. die Veranlagung des Bundessteueranteils nach Massgabe der Quellensteuerverordnungen I[^8-3] und II[^8-4],
 
 - b. die Vertretung des Kantons bei den Festlegungen gemäss Art. 85 Abs. 4 und 5 DBG,
 
@@ -178,21 +172,16 @@ Der Dienstabteilung Spezialdienste[^6a-6] kommen zu:
 
 - d. die Vertretung des Kantons bei der Festlegung von Bezugsminima bei der Erhebung der Quellensteuer von Künstlern, Sportlern und Referenten (Art. 92 Abs. 5 DBG).
 
-e.[^8-7] g.[^8-8] h.[^8-9]
+e.<sup>19</sup> g.<sup>16</sup> h.<sup>13</sup>
 
 **Übrige Organisationseinheiten**
 
-§ 11.[^8-1] Die übrigen Organisationseinheiten des kantonalen Steueramtes stehen den in §§ 6–10 aufgeführten Organisationseinheiten im Rahmen ihrer Aufgaben und Befugnisse auch für die Belange der direkten Bundessteuer zur Verfügung.
+§ 11.<sup>15</sup> Die übrigen Organisationseinheiten des kantonalen Steueramtes stehen den in §§ 6–10 aufgeführten Organisationseinheiten im Rahmen ihrer Aufgaben und Befugnisse auch für die Belange der direkten Bundessteuer zur Verfügung.
 
-[^8-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^8-2]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-[^8-3]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
-[^8-4]: Fassung gemäss RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
-[^8-5]: LS 631.41.
-[^8-6]: LS 631.42.
-[^8-7]: Aufgehoben durch RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-
-[^8-8]: Aufgehoben durch RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^8-9]: Aufgehoben durch RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
+[^8-1]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
+[^8-2]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
+[^8-3]: LS 631.41.
+[^8-4]: LS 631.42.
 
 ### III. Gemeinden
 
@@ -204,27 +193,26 @@ e.[^8-7] g.[^8-8] h.[^8-9]
 
 - b. die Veranlagung der direkten Bundessteuer von in der Gemeinde unbeschränkt steuerpflichtigen natürlichen Personen und von in der Gemeinde beschränkt steuerpflichtigen natürlichen Personen mit Wohnsitz im Ausland,
 
-- c. die Meldung der provisorischen oder definitiven Bundessteuerfaktoren natürlicher Personen an die Dienstabteilung Inkasso[^hIIIGemeinden-2],
+- c. die Meldung der provisorischen oder definitiven Bundessteuerfaktoren natürlicher Personen an die Abteilung Steuerbezug<sup>20</sup>,
 
 - d. die Beschaffung von Informationen und die Veranlagung gemäss den Weisungen des Steueramtes,
 
 - e. die Meldung von Mutationen gemäss Weisungen des Steueramtes,
 
-- f. die Mitwirkung beim Steuerbezug nach den besonderen Weisungen der Dienstabteilung Inkasso[^hIIIGemeinden-2],
+- f. die Mitwirkung beim Steuerbezug nach den besonderen Weisungen der Abteilung Steuerbezug<sup>20</sup>,
 
 - g. die Aufnahme des Steuerinventars und die Siegelung beim Tode von Steuerpflichtigen (Art. 159 Abs. 1 DBG),
 
-- h. die Mitwirkung bei der Erhebung der Quellensteuern nach Massgabe der Quellensteuerverordnungen I[^hIIIGemeinden-3] und II[^hIIIGemeinden-4].
+- h. die Mitwirkung bei der Erhebung der Quellensteuern nach Massgabe der Quellensteuerverordnungen I[^hIIIGemeinden-2] und II[^hIIIGemeinden-3].
 
 [^hIIIGemeinden-1]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
-[^hIIIGemeinden-2]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^hIIIGemeinden-3]: LS 631.41.
-[^hIIIGemeinden-4]: LS 631.42.
-[^hIIIGemeinden-5]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
+[^hIIIGemeinden-2]: LS 631.41.
+[^hIIIGemeinden-3]: LS 631.42.
+[^hIIIGemeinden-4]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
 
 ### IV. Rechtsmittelinstanzen
 
-[^hIIIGemeinden-5]
+[^hIIIGemeinden-4]
 
 **Steuerrekursgericht**
 
@@ -236,16 +224,15 @@ e.[^8-7] g.[^8-8] h.[^8-9]
 
 § 14.[^hIVRechtsmittelinst-2] <sup>1</sup> Das Verwaltungsgericht ist zweite Beschwerdeinstanz.
 
-<sup>2</sup> Für Beschwerden gegen Entscheide über Nachsteuern und Bussen sowie Sicherstellung ist allein das Verwaltungsgericht zuständig.[^hIVRechtsmittelinst-3]
+<sup>2</sup> Für Beschwerden gegen Entscheide über Nachsteuern und Bussen sowie Sicherstellung ist allein das Verwaltungsgericht zuständig.<sup>12</sup>
 
 **Rechtsmittelverfahren bei Steuererlass**
 
-§ 14 a.[^hIVRechtsmittelinst-4] Gegen Erlassentscheide kann Rekurs bei der Finanzdirektion und gegen Rekursentscheide der Finanzdirektion Beschwerde beim Verwaltungsgericht erhoben werden (Art. 167 g Abs. 1 DBG).
+§ 14 a.[^hIVRechtsmittelinst-3] Gegen Erlassentscheide kann Rekurs bei der Finanzdirektion und gegen Rekursentscheide der Finanzdirektion Beschwerde beim Verwaltungsgericht erhoben werden (Art. 167 g Abs. 1 DBG).
 
 [^hIVRechtsmittelinst-1]: Fassung gemäss RRB vom 28. August 2013 (OS 68, 381; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
 [^hIVRechtsmittelinst-2]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-[^hIVRechtsmittelinst-3]: Fassung gemäss RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
-[^hIVRechtsmittelinst-4]: Eingefügt durch RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
+[^hIVRechtsmittelinst-3]: Eingefügt durch RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
 
 ### C. Ordentliches Veranlagungsverfahren
 
@@ -253,15 +240,13 @@ e.[^8-7] g.[^8-8] h.[^8-9]
 
 **Register**
 
-§ 15.[^hIVorbereitungsverf-1] Die Meldungen über Mutationen werden für die steuerpflichtigen natürlichen Personen mit Wohnsitz im Kanton von den Gemeindesteuerämtern, für alle übrigen Steuerpflichtigen von der Dienstabteilung Akten- und Datenpflege erstellt.
+§ 15.<sup>15</sup> Die Meldungen über Mutationen werden für die steuerpflichtigen natürlichen Personen mit Wohnsitz im Kanton von den Gemeindesteuerämtern, für alle übrigen Steuerpflichtigen von der Abteilung Register<sup>20</sup> erstellt.
 
 **5**
 
-- 1\. 1. 21 - 111 § 16.[^hIVorbereitungsverf-1] Die Grundbuchämter melden der Dienstabteilung Akten- und Datenpflege den Erwerb von Liegenschaften durch im Ausland domizilierte natürliche und juristische Personen.
+- 1\. 7. 24 - 125 § 16.<sup>15</sup> Die Grundbuchämter melden der Abteilung Register<sup>20</sup> den Erwerb von Liegenschaften durch im Ausland domizilierte natürliche und juristische Personen.
 
 **Meldepflicht der Grundbuchämter**
-
-[^hIVorbereitungsverf-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
 
 ### II. Steuererklärung
 
@@ -273,13 +258,11 @@ Das Steueramt erlässt die öffentliche Aufforderung zur Einreichung der Steuere
 
 **Zustellung der Formulare**
 
-§ 18.[^17-1] Die Formulare für die Steuererklärungen werden zugestellt:
+§ 18.<sup>15</sup> Die Formulare für die Steuererklärungen werden zugestellt:
 
 - a. den natürlichen Personen durch die Gemeindesteuerämter,
 
-- b. den juristischen Personen durch die Dienstabteilung Akten- und Datenpflege.
-
-[^17-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+- b. den juristischen Personen durch die Abteilung Register<sup>20</sup>.
 
 #### § 19
 
@@ -291,40 +274,37 @@ Das Steueramt erlässt die öffentliche Aufforderung zur Einreichung der Steuere
 
 ### III. Veranlagung
 
-**Eröffnung der Veranlagung**
+**III. Veranlagung**
 
-§ 20.[^hIIIVeranlagung-1] Die Dienstabteilung Inkasso[^hIIIVeranlagung-2], die Division, die Dienstabteilung Inventarkontrolle/Erbschaftssteuer oder das Gemeindesteueramt eröffnet den Steuerpflichtigen das Ergebnis der Veranlagung (Steuerfaktoren, Steuersätze, Beteiligungsabzug und Steuerbeträge).
-
-[^hIIIVeranlagung-1]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
-[^hIIIVeranlagung-2]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+§ 20.<sup>20</sup> Die Abteilung Steuerbezug oder die Veranlagungsabteilung oder das Gemeindesteueramt eröffnet den Steuerpflichtigen das Ergebnis der Veranlagung (Steuerfaktoren, Steuersätze, Beteiligungsabzug und Steuerbeträge).
 
 ### IV. Einsprache
 
 **Verfahren und Register**
 
-§ 21.[^hIVEinsprache-1] <sup>1</sup> Einsprachen sind bei der Dienstabteilung Akten- und Datenpflege einzureichen.
+§ 21.<sup>20</sup> <sup>1</sup> Einsprachen sind bei der Abteilung Register einzureichen.
 
-<sup>2</sup> Die Dienstabteilung Akten- und Datenpflege führt das Register über Einsprachen und übermittelt sie der zuständigen Division oder Dienstabteilung zur Prüfung und Entscheidung.
+<sup>2</sup> Die Abteilung Register führt das Register über Einsprachen und übermittelt sie der Veranlagungsabteilung zur Prüfung und Entscheidung.
 
-<sup>3</sup> Erhebt der Einsprecher eine Sprungbeschwerde oder gelangt die zuständige Division oder Dienstabteilung zur Überzeugung, eine solche sei zweckmässig, holt diese die erforderliche Zustimmung ein und leitet die Sache an das Steuerrekursgericht weiter (Art. 132 Abs. 2 DBG).
+<sup>3</sup> Erhebt die einsprechende Person eine Sprungbeschwerde oder gelangt die Veranlagungsabteilung zur Überzeugung, eine solche sei zweckmässig, holt die Veranlagungsabteilung die erforderliche Zustimmung ein und leitet die Sache an das Steuerrekursgericht weiter (Art. 132 Abs. 2 DBG).
+
+#### § 22
 
 **Einspracheentscheid**
 
-§ 22.[^hIVEinsprache-2] <sup>1</sup> Die Dienstabteilung Inkasso[^hIVEinsprache-1], die Division oder die Dienstabteilung Inventarkontrolle/Erbschaftssteuer eröffnet den Einspracheentscheid dem Einsprecher.
+<sup>1</sup> Die Abteilung Steuerbezug oder die Veranlagungsabteilung eröffnet der einsprechenden Person den Einspracheentscheid.<sup>20</sup>
 
 <sup>2</sup> Sie stellt der Eidgenössischen Steuerverwaltung eine weitere Ausfertigung des Entscheids zu, wenn diese bei der Veranlagung mitgewirkt oder die Eröffnung des Einspracheentscheids verlangt hat (Art. 135 Abs. 2 DBG).
 
-[^hIVEinsprache-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-[^hIVEinsprache-2]: Fassung gemäss RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-[^hIVEinsprache-3]: Aufgehoben durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
+[^22-1]: Aufgehoben durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
 
 ### D.
 
-[^hIVEinsprache-3]
+[^22-1]
 
-§§ 23 und 24.[^hDhIVEinsprache3-1]
+§§ 23 und 24.[^hD221-1]
 
-[^hDhIVEinsprache3-1]: Aufgehoben durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
+[^hD221-1]: Aufgehoben durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
 
 ### E. Quellensteuern
 
@@ -336,21 +316,17 @@ Das Veranlagungs- und Rechtsmittelverfahren richtet sich nach den für die kanto
 
 ### F. Steuerbezug
 
-[^hFSteuerbezug-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-
 #### § 26
 
 **Bezugsbehörde**
 
-Die direkte Bundessteuer wird durch die Dienstabteilung Inkasso[^hFSteuerbezug-1] bezogen. Sie kann die Gemeindesteuerämter zur Mitwirkung heranziehen.
-
-[^26-1]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+Die direkte Bundessteuer wird durch die Abteilung Steuerbezug<sup>20</sup> bezogen. Sie kann die Gemeindesteuerämter zur Mitwirkung heranziehen.
 
 #### § 27
 
 **Aufforderung zur Zahlung**
 
-Die Dienstabteilung Inkasso[^26-1] gibt auf den Zeitpunkt der Fälligkeit der Steuer die allgemeinen Fälligkeits- und Zahlungstermine sowie die kantonalen Einzahlungsstellen öffentlich bekannt (Art. 163 Abs. 3 DBG).
+Die Abteilung Steuerbezug<sup>20</sup> gibt auf den Zeitpunkt der Fälligkeit der Steuer die allgemeinen Fälligkeits- und Zahlungstermine sowie die kantonalen Einzahlungsstellen öffentlich bekannt (Art. 163 Abs. 3 DBG).
 
 **Zahlstellen**
 
@@ -358,24 +334,23 @@ Die Dienstabteilung Inkasso[^26-1] gibt auf den Zeitpunkt der Fälligkeit der St
 
 **Eintrag im Grundbuch**
 
-§ 29.[^27-2] <sup>1</sup> Die Grundbuchämter dürfen die Übertragung des Eigentums an einer Liegenschaft einer im Ausland ansässigen natürlichen oder juristischen Person im Grundbuch erst mit schriftlicher Zustimmung der Dienstabteilung Akten- und Datenpflege vornehmen (Art. 172 Abs. 1 DBG).
+§ 29.<sup>20</sup> <sup>1</sup> Die Grundbuchämter dürfen die Übertragung des Eigentums an einer Liegenschaft einer im Ausland ansässigen natürlichen oder juristischen Person im Grundbuch erst mit schriftlicher Zustimmung der Abteilung Bezugsdienst vornehmen (Art. 172 Abs. 1 DBG).
 
-<sup>2</sup> Die Dienstabteilung Akten- und Datenpflege bescheinigt dem Veräusserer zuhanden des Grundbuchamtes die Zustimmung zum Eintrag oder die Ablehnung (Art. 172 Abs. 2 und 3 DBG).
+<sup>2</sup> Die Abteilung Bezugsdienst bescheinigt dem Veräusserer zuhanden des Grundbuchamtes die Zustimmung zum Eintrag oder die Ablehnung (Art. 172 Abs. 2 und 3 DBG).
 
 **7**
 
-- 1\. 1. 21 - 111 § 30.[^27-2] <sup>1</sup> Das Handelsregisteramt gibt der Dienstabteilung Akten- und Datenpflege von jeder Anmeldung der Löschung einer juristischen Person Kenntnis (Art. 171 DBG).
+- 1\. 7. 24 - 125 § 30.<sup>15</sup> <sup>1</sup> Das Handelsregisteramt gibt der Abteilung Register<sup>20</sup> von jeder Anmeldung der Löschung einer juristischen Person Kenntnis (Art. 171 DBG).
 
 **Löschung einer Firma im Handelsregister**
 
-<sup>2</sup> Das Handelsregisteramt darf eine juristische Person im Handelsregisteramt erst löschen, wenn ihm die Dienstabteilung Akten- und Datenpflege angezeigt hat, dass die geschuldete Steuer bezahlt oder sichergestellt ist (Art. 171 DBG).
+<sup>2</sup> Das Handelsregisteramt darf eine juristische Person im Handelsregisteramt erst löschen, wenn ihm die Abteilung Register<sup>20</sup> angezeigt hat, dass die geschuldete Steuer bezahlt oder sichergestellt ist (Art. 171 DBG).
 
 **Abrechnung**
 
-§ 31.[^27-2] Die Dienstabteilung Rechnungswesen und Controlling schliesst ihre Rechnung auf Jahresende ab.
+§ 31.<sup>15</sup> Die Abteilung Rechnungswesen und Controlling<sup>20</sup> schliesst ihre Rechnung auf Jahresende ab.
 
 [^27-1]: Fassung gemäss RRB vom 30. Juni 2010 (OS 65, 469; ABl 2010, 1481). In Kraft seit 1. August 2010.
-[^27-2]: Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
 
 ### G. Schlussbestimmungen
 
@@ -391,25 +366,30 @@ Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über die Durchführ
 
 § 34. Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
+<sup>12</sup> Fassung gemäss RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
+
+<sup>13</sup> Aufgehoben durch RRB vom 25. Februar 2015 (OS 70, 113; ABl 2015-03-06). In Kraft seit 1. Januar 2016.
+
+<sup>14</sup> Eingefügt durch RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+
+<sup>15</sup> Fassung gemäss RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+
+<sup>16</sup> Aufgehoben durch RRB vom 24. August 2016 (OS 71, 393; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
+
+<sup>17</sup> Eingefügt durch RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
+
+<sup>18</sup> Fassung gemäss RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
+
+<sup>19</sup> Aufgehoben durch RRB vom 18. November 2020 (OS 75, 624; ABl 2020-11- 20). In Kraft seit 1. Januar 2021.
+
+<sup>20</sup> Fassung gemäss RRB vom 27. März 2024 (OS 79, 184; ABl 2024-04-12). In Kraft seit 1. Juni 2024.
+
+**9**
+
+- 1\. 7. 24 - 125
+
 [^32-1]: Aufgehoben durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-
-### Übergangsbestimmung zur Änderung vom 23. Juni 2004
-
-(OS 59, 170)
-
-<sup>1</sup> Geschäfte, die im Zeitpunkt des Inkrafttretens dieser Revision vor der Bundessteuer-Rekurskommission hängig sind, werden von den Steuerrekurskommissionen weiterbearbeitet.
-
-<sup>2</sup> Der zweistufige Instanzenzug gemäss §§ 13 Abs. 1 und 14 Abs. 1 gilt ab der Steuerperiode, die im Kalenderjahr 2001 endet. Für Beschwerden gegen Veranlagungen für frühere Steuerperioden sind die Steuerrekurskommissionen als einzige Beschwerdeinstanz zuständig.
-
-<sup>3</sup> Der einstufige Instanzenzug gemäss § 14 Abs. 2 gilt für Nachsteuer- und Bussenverfahren, die entweder die Steuerperioden ab 2001 oder sowohl solche als auch frühere Steuerperioden betreffen. Soweit Verfahren ausschliesslich Steuerperioden vor 2001 zugrunde liegen, sind die Steuerrekurskommissionen als einzige Beschwerdeinstanz zuständig.
-
-### Übergangsbestimmung zur Änderung vom 28. August 2013
-
-(OS 68, 381)
-
-Für Geschäfte betreffend Sicherstellung, die im Zeitpunkt des Inkrafttretens dieser Revision vor dem Steuerrekursgericht hängig sind, bleibt das Steuerrekursgericht zuständig.
 
 ## Weitere Fussnoten
 
-- [6] Eingefügt durch RRB vom 23. Juni 2004 (OS 59, 170). In Kraft seit 1. Juli 2004.
-- [20] . In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 9
+- [6] Obsolet.
