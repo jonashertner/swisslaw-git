@@ -3,20 +3,19 @@ canton: SG
 number: "853.111"
 title: Verordnung über die Jagdvorschriften
 language: de
-version: 2018-06-01
-valid_until: 2024-05-31
-version_adopted: 2018-03-19
+version: 2024-06-01
+version_adopted: 2024-05-06
 adopted: 2016-03-31
 in_force: 2016-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2400/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Jagdvorschriften
 
-vom 31.03.2016 (Stand 01.06.2018)
+vom 31.03.2016 (Stand 01.06.2024)
 
 Das Volkswirtschaftsdepartement des Kantons St.Gallen
 
@@ -42,7 +41,7 @@ als Verordnung:[^ingress-3]
 - b) Schneehase;
 - c) Schneehuhn;
 - d) Waldschnepfe;
-- e) alle Wildenten, ausser der Stock-, Krick-, Tafel- und Reiherente.
+- e) in Federwildschongebieten Haubentaucher und Blässhuhn sowie alle Wildenten.
 
 #### Art. 2
 
@@ -50,15 +49,17 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Es gelten folgende Jagdzeiten:
 
-- a) Rotwild: 15. August bis 15. Dezember;
-- b) Rehbock, Schmalreh, nicht tragende und nicht führende Rehgeiss: 1. Mai bis 15. Dezember;
-- c) führende Rehgeiss und Rehkitz: 15. August bis 15. Dezember;
-- d) Gämsbock: 15. August bis 31. Oktober;
-- e) Gämsgeiss, Gämsjährling und Gämskitz: 15. August bis 15. Dezember.
+- a) Rotwild: dritter Samstag im August bis dritter Samstag im Dezember;
+- b) Rehbock, Schmalreh, nicht tragende und nicht führende Rehgeiss: 1. Mai bis dritter Samstag im Dezember;
+- c) führende Rehgeiss und Rehkitz: dritter Samstag im August bis dritter Samstag im Dezember;
+- d) Gämsbock: dritter Samstag im August bis 31. Oktober;
+- e) Gämsgeiss, Gämsjährling und Gämskitz: dritter Samstag im August bis dritter Samstag im Dezember.
 
 <sup>2</sup> Nicht einheimische Tiere nach Art. 8<sup>bis</sup> der eidgenössischen Jagdverordnung vom 29. Februar 1988[^2-1], die in die freie Wildbahn gelangt sind, dürfen das ganze Jahr über gejagt werden.
 
 <sup>3</sup> Für die übrigen jagdbaren Tiere gelten die Jagd- und Schonzeiten nach der Bundesgesetzgebung.[^2-2]
+
+<sup>4</sup> Das Amt für Natur, Jagd und Fischerei kann für einzelne Tierarten Schonphasen während der Jagdzeit oder Jagdzeitverlängerungen anordnen. Es hört beim Rothirsch die Hegegemeinschaft an. Jagdzeitverlängerungen sind nur ausserhalb der bundesrechtlichen Schonzeiten zulässig.
 
 [^2-1]: SR [922.01](https://db.clex.ch/link/Bund/922.01/de).
 [^2-2]: Art. [5](https://db.clex.ch/link/Bund/922.0/de) des eidg Jagdgesetzes vom 20. Juni 1986, SR [922.0](https://db.clex.ch/link/Bund/922.0/de), und [3<sup>bis</sup>](https://db.clex.ch/link/Bund/922.01/de) der eidg Jagdverordnung vom 29. Februar 1988, SR [922.01](https://db.clex.ch/link/Bund/922.01/de).
@@ -67,7 +68,7 @@ als Verordnung:[^ingress-3]
 
 **Besondere Vorschriften a) markierte Wildtiere**
 
-<sup>1</sup> Markierte Tiere dürfen nur mit Bewilligung des Amtes für Natur, Jagd und Fischerei gejagt werden.
+<sup>1</sup> Markierte Tiere jagdbarer Tierarten dürfen gejagt werden. Das Amt für Natur, Jagd und Fischerei kann den Abschuss markierter Tiere jagdbarer Tierarten in Ausnahmefällen verbieten.
 
 <sup>2</sup> Abschüsse und Fallwild markierter Tiere werden der Wildhut innert 24 Stunden gemeldet und zur Begutachtung bereitgehalten.
 
@@ -83,33 +84,39 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Erlegte Wildschweine werden der Wildhut innert 24 Stunden gemeldet und zur Begutachtung bereitgehalten.
 
+#### Art. 5a
+
+**d) Meldung im elektronischen Wildbuch**
+
+<sup>1</sup> Abschüsse und Fallwild werden innert 48 Stunden im elektronischen Wildbuch erfasst. Kürzere Meldefristen bleiben vorbehalten.
+
 ## II. Jagdarten
 
 #### Art. 6
 
 **Zulässige Jagdarten**
 
-<sup>1</sup> Zugelassen sind alle Arten von Einzel- und Gemeinschaftsjagd.
+<sup>1</sup> Zugelassen sind alle bundesgesetzlich erlaubten Formen der Jagd.
 
 #### Art. 7
 
-**Gemeinschaftsjagd**
-
-<sup>1</sup> Bei einer Gemeinschaftsjagd wird eine Jagdleiterin oder ein Jagdleiter bestimmt. Die Jagdleiterin oder der Jagdleiter:
-
-- a) bereitet die Gemeinschaftsjagd vor;
-- b) teilt den Teilnehmenden der Gemeinschaftsjagd die Aufgaben zu;
-- c) ist für die vorgeschriebenen Meldungen verantwortlich.
+**…**
 
 #### Art. 8
 
-**Treibjagd**
+**Bewegungsjagd**
 
-<sup>1</sup> Als Treibjagd gilt eine Gemeinschaftsjagd, bei der jagende Hunde eingesetzt werden.
+<sup>1</sup> Als Bewegungsjagd gilt eine Jagd, bei der Treiberinnen und Treiber oder jagende Hunde eingesetzt werden.
 
-<sup>2</sup> Die Treibjagd ist in der Zeit zwischen dem 1. Oktober und dem 15. Dezember auf Wildschweine, Rotwild, Rehe und Füchse gestattet. Feldhasen und Gämsen dürfen miterlegt werden.
+<sup>2</sup> Die Bewegungsjagd ist vom 1. Oktober bis zum dritten Samstag im Dezember gestattet.
 
-<sup>3</sup> Die Wildhüterin oder der Wildhüter kann die Treibjagd auf Wildschweine während des ganzen Jahres zulassen, wenn es zur Schadenabwehr erforderlich ist. Das Amt für Natur, Jagd und Fischerei kann weitere Ausnahmen bewilligen.
+<sup>3</sup> Die Wildhüterin oder der Wildhüter kann die Bewegungsjagd auf Wildschweine während des ganzen Jahres zulassen, wenn es zur Wildschadenverhütung erforderlich ist. Das Amt für Natur, Jagd und Fischerei kann weitere Ausnahmen bewilligen.
+
+<sup>4</sup> Nimmt mehr als eine Person an der Bewegungsjagd teil, wird eine Jagdleiterin oder ein Jagdleiter bestimmt. Die Jagdleiterin oder der Jagdleiter:
+
+- a) bereitet die Bewegungsjagd vor;
+- b) teilt den Teilnehmenden der Bewegungsjagd die Aufgaben zu;
+- c) ist für die vorgeschriebenen Meldungen verantwortlich.
 
 #### Art. 9
 
@@ -183,7 +190,7 @@ als Verordnung:[^ingress-3]
 
 **b) für die Abwehr von Vögeln**
 
-<sup>1</sup> Im überbauten Gebiet darf zur Abwehr von Vögeln, die Schaden anrichten, auch Kugelmunition des Kalibers .22 long rifle verwendet werden.
+<sup>1</sup> Zur Abwehr von Vögeln, gegen die Selbsthilfemassnahmen zulässig sind, darf auch Kugelmunition des Kalibers .17 und .22 verwendet werden.
 
 #### Art. 17
 
@@ -193,7 +200,7 @@ als Verordnung:[^ingress-3]
 
 [^17-1]: Art. [48](https://www.gesetzessammlung.sg.ch/data/853.11/de) Abs. 2 der Jagdverordnung vom 19. Mai 2015, sGS [853.11](https://www.gesetzessammlung.sg.ch/data/853.11/de).
 
-## IV. Verbotene Hilfsmittel
+## IV. Hilfsmittel
 
 [^17-2]
 
@@ -207,7 +214,7 @@ als Verordnung:[^ingress-3]
 
 - a) Helikopter;
 - b) Hängegleiter und Fallschirme;
-- c) Drohnen und andere unbemannte Fluggeräte.
+- c) Drohnen und andere unbemannte Fluggeräte. Das Verbot gilt nicht für die Rehkitzrettung.
 
 <sup>2</sup> Erlegtes Rot- und Steinwild darf mit dem Helikopter geborgen werden.
 
@@ -217,6 +224,18 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Scheinwerfer sind zur Ausübung der Jagd verboten. Mit Zustimmung der Wildhüterin oder des Wildhüters dürfen sie für Bestandeserhebungen verwendet werden.
 
+#### Art. 19a
+
+**Fotofallen**
+
+<sup>1</sup> Fotofallen sind für die Jagd erlaubt, wenn sie mit dem Namen der Jagdgesellschaft, einer Telefonnummer und dem Vermerk «Wildtiermonitoring» versehen sind.
+
+#### Art. 19b
+
+**Schalldämpfer**
+
+<sup>1</sup> Schalldämpfer sind für die Jagd erlaubt.
+
 #### Art. 20
 
 **Weitere Hilfsmittel**
@@ -224,7 +243,7 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Das Verfolgen von Wild ist verboten mit:
 
 - a) Quads und Motorschlitten;
-- b) Skis und Schneeschuhen;
+- b) Schneesportgeräten, insbesondere Skis und Schneeschuhen;
 - c) anderen Geräten, die das Verfolgen von Wild erleichtern.
 
 ## V. Ausbildung und Einsatz von Jagdhunden
@@ -263,13 +282,13 @@ als Verordnung:[^ingress-3]
 
 #### Art. 24
 
-**c) zur Gemeinschaftsjagd**
+**c) zur Bewegungsjagd**
 
-<sup>1</sup> Zur Treibjagd sind nur spurlautjagende Bracken und Erdhunde, Kreuzungen von Bracke und Erdhund sowie Stöberhunde zugelassen.
+<sup>1</sup> Zur Bewegungsjagd sind nur spurlautjagende Bracken, Laufhunde, Stöberhunde, Dachshunde, Terrier und typenähnliche Mischlingshunde zugelassen.
 
-<sup>1<sup>bis</sup></sup> Zur Treibjagd auf Wildschweine sind zusätzlich spurlautjagende Vorstehhunde zugelassen, die eine Verbandsstöberprüfung oder eine Verbandsgebrauchsprüfung bestanden haben. Vorstehhunde werden bei der Treibjagd auf Wildschweine im Trieb geführt.
+<sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Zur Drückjagd sind keine jagenden Hunde zugelassen. Schweisshunde dürfen zur Nachsuche eingesetzt werden.
+<sup>2</sup> Das Amt für Natur, Jagd und Fischerei kann weitere Hunde zur Bewegungsjagd zulassen.
 
 ## VI. Weitere Bestimmungen
 
@@ -292,9 +311,9 @@ als Verordnung:[^ingress-3]
 - a) alle Geweihe und Unterkiefer von erlegten männlichen Rothirschen;
 - b) alle Unterkiefer von erlegtem Kahlwild.
 
-<sup>3</sup> Die Hegegemeinschaften organisieren die Abgabe und den Transport der Geweihe und Unterkiefer an die Hegeschau. Geweihe und Unterkiefer von ausserhalb der Hegegebiete erlegtem Rotwild werden bis Ende Februar der Wildhüterin oder dem Wildhüter übergeben.
+<sup>3</sup> Die Hegegemeinschaften organisieren die Abgabe und den Transport der Geweihe und Unterkiefer an die Hegeschau. Geweihe und Unterkiefer von ausserhalb der Hegegebiete erlegtem Rotwild werden bis 15. Februar der Wildhüterin oder dem Wildhüter übergeben.
 
-<sup>4</sup> Das Amt für Natur, Jagd und Fischerei kann die Hegeschau für weitere Wildarten einführen. Sie hört zuvor die Jagdkommission an.
+<sup>4</sup> Das Amt für Natur, Jagd und Fischerei kann das Vorlegen weiterer Wildarten an der kantonalen Hegeschau anordnen. Es hört zuvor die Jagdkommission an.
 
 #### Art. 27
 
@@ -302,10 +321,10 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Der Verstoss gegen eine der folgenden Bestimmungen wird als Übertretung nach Art. 65 Abs. 1 Bst. g des Jagdgesetzes vom 17. November 1994[^27-1] geahndet:
 
-- a) Missachten der Bewilligungspflicht für den Abschuss markierter Tiere nach Art. 3 Abs. 1 dieses Erlasses;
-- b) Missachten der Meldepflichten nach Art. 3 Abs. 2 und Art. 5 dieses Erlasses;
+- a) Missachten des Verbots zum Abschuss markierter Tiere nach Art. 3 Abs. 1 dieses Erlasses;
+- b) Missachten der Meldepflichten nach Art. 3 Abs. 2, Art. 5 und Art. 5a dieses Erlasses;
 - c) Missachten der Vorschriften über Munition und Schussdistanzen nach Art. 11 bis 17 dieses Erlasses;
-- d) Missachten der Vorschriften über das Vorlegen von Geweih und Unterkiefer an der Hegeschau nach Art. 26 Abs. 2 und 3 dieses Erlasses.
+- d) Missachten der Vorschriften über das Vorlegen von Geweih und Unterkiefer sowie weiterer Wildarten an der Hegeschau nach Art. 26 Abs. 2, 3 und 4 dieses Erlasses.
 
 [^27-1]: sGS [853.1](https://www.gesetzessammlung.sg.ch/data/853.1/de).
 
@@ -316,5 +335,15 @@ als Verordnung:[^ingress-3]
 **Übergangsbestimmung**
 
 <sup>1</sup> Die Anforderungen an die Ausbildung von Jagdhunden zur Baujagd und zur Spezialjagd auf Wildschweine nach Art. 21 Abs. 1 Bst. d und e dieses Erlasses sind nach Ablauf von 24 Monaten, nachdem die entsprechenden Prüfungen in der Schweiz erstmals angeboten werden, einzuhalten. Das Amt für Natur, Jagd und Fischerei teilt den Jagdgesellschaften den genauen Zeitpunkt in geeigneter Form mit.
+
+#### Art. 29
+
+**Übergangsbestimmung des II. Nachtrags vom 6. Mai 2024**
+
+<sup>1</sup> Art. 5a dieses Erlasses wird ab Einführung der mobilen Wildbuch-Applikation angewendet. Das Amt für Natur, Jagd und Fischerei teilt den Jagdgesellschaften den genauen Zeitpunkt in geeigneter Form mit.
+
+<sup>2</sup> Art. 19b dieses Erlasses wird ab Streichung des Schalldämpfers aus der eidgenössischen Liste der verbotenen Hilfsmittel[^29-1] angewendet oder wenn es den Kantonen ermöglicht wird, Schalldämpfer ohne Auflagen zu bewilligen. Das Amt für Natur, Jagd und Fischerei teilt den Jagdgesellschaften den genauen Zeitpunkt in geeigneter Form mit.
+
+[^29-1]: Art. [2](https://db.clex.ch/link/Bund/922.01/de) Abs. 1 Bst. i Ziff. 4 der eidg Jagdverordnung vom 29. Februar 1988, SR [922.01](https://db.clex.ch/link/Bund/922.01/de).
 
 nGS 2016-051
