@@ -3,18 +3,18 @@ sr: "412.101.222.30"
 title: Verordnung des SBFI vom 3. Oktober 2017 über die berufliche Grundbildung. Medizinproduktetechnologin/Medizinproduktetechnologe mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/643"
 language: de
-version: 2024-04-01
+version: 2024-06-01
 adopted: 2017-10-03
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Medizinproduktetechnologin/Medizinproduktetechnologe mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 3. Oktober 2017 (Stand am 1. April 2024)
+vom 3. Oktober 2017 (Stand am 1. Juni 2024)
 
 <table>
 <tr><td>87101</td><td>Medizinproduktetechnologin EFZ / Medizinproduktetechnologe EFZ Technologue en dispositifs médicaux CFC Tecnologa per dispositivi medici AFC / Tecnologo per dispositivi medici AFC</td></tr>
@@ -454,9 +454,11 @@ Sie hat insbesondere folgende Aufgaben:
 
 **Übergangsbestimmung und erstmalige Anwendung einzelner Bestimmungen**
 
-<sup>1</sup> Personen mit Fachkundelehrgang II als Technische Sterilisationsassistentin/-assistent SGSV/H<sup>+</sup> und mit mindestens fünf Jahren beruflicher Praxis im Lehrgebiet der Medizinproduktetechnologin EFZ/des Medizinproduktetechnologen EFZ sind berechtigt, bis sechs Jahre nach Inkrafttreten dieser Verordnung Lernende auszubilden.
+<sup>1</sup> Personen mit Fachkundelehrgang II als Technische Sterilisationsassistentin/-assistent SGSV/H+ und mit mindestens fünf Jahren beruflicher Praxis im Lehrgebiet der Medizinproduktetechnologin EFZ / des Medizinproduktetechnologen EFZ sind berechtigt, bis zehn Jahre nach Inkrafttreten dieser Verordnung Lernende auszubilden.[^24-1]
 
 <sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 15–21) kommen ab dem 1. Januar 2021 zur Anwendung.
+
+[^24-1]: Fassung gemäss Ziff. I der V des SBFI vom 29. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 193](https://fedlex.data.admin.ch/eli/oc/2024/193)).
 
 #### Art. 25
 

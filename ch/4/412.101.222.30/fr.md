@@ -3,18 +3,18 @@ sr: "412.101.222.30"
 title: Ordonnance du SEFRI du 3 octobre 2017 sur la formation professionnelle initiale de technologue en dispositifs médicaux avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/643"
 language: fr
-version: 2024-04-01
+version: 2024-06-01
 adopted: 2017-10-03
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de technologue en dispositifs médicaux avec certificat fédéral de capacité (CFC)\*
 
-du 3 octobre 2017 (État le 1<sup>er</sup> avril 2024)
+du 3 octobre 2017 (État le 1<sup>er</sup> juin 2024)
 
 <table>
 <tr><td>87101</td><td>Technologue en dispositifs médicaux CFC Medizinproduktetechnologin EFZ / Medizinproduktetechnologe EFZ Tecnologa per dispositivi medici AFC / Tecnologo per dispositivi medici AFC</td></tr>
@@ -454,9 +454,11 @@ Elle est notamment chargée des tâches suivantes:
 
 **Disposition transitoire et première application de dispositions particulières**
 
-<sup>1</sup> Les personnes justifiant d’une formation de niveau II d’assistant technique en stérilisation SSSH/H<sup>+</sup> et d’au moins 5 ans d’expérience dans le domaine de la formation des technologues en dispositifs médicaux CFC sont autorisées à former des personnes pendant 6 ans au plus à compter de l’entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Les personnes justifiant d’une formation de niveau II d’assistant technique en stérilisation SSSH/H+ et d’au moins 5 ans d’expérience dans le domaine de la formation des technologues en dispositifs médicaux CFC sont autorisées à former des personnes pendant 10 ans au plus à compter de l’entrée en vigueur de la présente ordonnance.[^24-1]
 
 <sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 15 à 21) sont applicables au 1<sup>er</sup> janvier 2021.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 29 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 193](https://fedlex.data.admin.ch/eli/oc/2024/193)).
 
 #### Art. 25
 

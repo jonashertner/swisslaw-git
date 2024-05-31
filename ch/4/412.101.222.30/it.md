@@ -3,18 +3,18 @@ sr: "412.101.222.30"
 title: Ordinanza della SEFRI del 3 ottobre 2017 sulla formazione professionale di base. Tecnologa per dispositivi medici/Tecnologo per dispositivi medici con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/643"
 language: it
-version: 2024-04-01
+version: 2024-06-01
 adopted: 2017-10-03
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/643/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2017-643-20240601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/643/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Tecnologa per dispositivi medici/Tecnologo per dispositivi medici con attestato federale di capacità (AFC)
 
-del 3 ottobre 2017 (Stato 1° aprile 2024)
+del 3 ottobre 2017 (Stato 1° giugno 2024)
 
 <table>
 <tr><td>87101</td><td>Tecnologa per dispositivi medici AFC Tecnologo per dispositivi medici AFC Medizinproduktetechnologin EFZ Medizinproduktetechnologe EFZ Technologue en dispositifs médicaux CFC</td></tr>
@@ -454,9 +454,11 @@ Essa svolge in particolare i compiti seguenti:
 
 **Disposizioni transitorie**
 
-<sup>1</sup> I titolari di un attestato di un corso di livello II di assistente tecnico/a di sterilizzazione SSSO/H<sup>+</sup> con almeno cinque anni di esperienza professionale nel campo d’insegnamento del tecnologo per dispositivi medici AFC sono autorizzati a istruire le persone in formazione fino a sei anni dopo l’entrata in vigore della presente ordinanza.
+<sup>1</sup> I titolari di un attestato di un corso di livello II di assistente tecnico/a di sterilizzazione SSSO/H+ con almeno cinque anni di esperienza professionale nel campo d’insegnamento del tecnologo per dispositivi medici AFC sono autorizzati a istruire le persone in formazione fino a dieci anni dopo l’entrata in vigore della presente ordinanza.[^24-1]
 
 <sup>2</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 15–21) si applicano dal 1° gennaio 2021.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 29 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
 
 #### Art. 25
 
