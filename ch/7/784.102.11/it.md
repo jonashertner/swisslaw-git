@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° gennaio 2024)
+del 18 novembre 2020 (Stato 1° giugno 2024)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -115,11 +115,13 @@ Se esercita il suo impianto di radiocomunicazione nel Principato del Liechtenste
 
 <sup>2</sup> Il luogo, la data e l’ora degli esami sono stabiliti dall’UFCOM.
 
-<sup>3</sup> All’esame è necessario portare con sé un documento personale ufficiale e una foto passaporto per il certificato di capacità di cui all’articolo 51 capoverso 1 lettere a–e OUS.
+<sup>3</sup> All’esame è necessario portare con sé un documento personale ufficiale.[^8-1]
 
 <sup>4</sup> Gli apparecchi e i simulatori per effettuare gli esami pratici per l’ottenimento dei certificati di capacità di cui all’articolo 1 capoverso 1 lettere a e b OUS sono messi a disposizione dall’UFCOM.
 
 <sup>5</sup> Gli esami non sono pubblici.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 9
 
@@ -135,9 +137,11 @@ I mezzi ausiliari ammessi sono elencati nelle prescrizioni d’esame. Chi utiliz
 
 #### Art. 11
 
-**Condizione per superare l’esame**
+**Condizione per superare l’esame**[^11-1]
 
-Supera l’esame il candidato che ottiene almeno 70 punti su 100 in ogni materia.
+Supera l’esame il candidato che ottiene almeno il 70 per cento del numero massimo di punti. Se l’esame consiste in una parte teorica e una pratica, è necessario ottenere almeno il 70 per cento del numero massimo di punti per ciascuna parte dell’esame.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 12
 
@@ -147,11 +151,13 @@ Le prescrizioni per l’esame volto all’ottenimento dei certificati di capacit
 
 #### Art. 13
 
-**Esame di riparazione**
+**Esame di riparazione**[^13-1]
 
-<sup>1</sup> I candidati che non hanno superato l’esame possono sostenere un esame di riparazione entro un anno dallo svolgimento dell’esame. Essi sono esaminati nelle materie in cui non hanno ottenuto un risultato sufficiente.
+<sup>1</sup> Se l’esame consiste in una parte teorica e una pratica, la parte in cui non è stato ottenuto un risultato sufficiente può essere ripetuta entro un anno.
 
-<sup>2</sup> I candidati che non superano l’esame di riparazione possono ripetere l’esame. Essi sono esaminati in tutte le materie.
+<sup>2</sup> I candidati che non superano l’esame di riparazione possono ripetere l’intero esame.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 14
 
@@ -171,7 +177,7 @@ Le prescrizioni per l’esame volto all’ottenimento dei certificati di capacit
 
 L’ordinanza dell’UFCOM del 9 marzo 2007[^15-1] sulla gestione delle frequenze e sulle concessioni di radiocomunicazione è abrogata.
 
-[^15-1]: [[RU 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173)[7087](https://fedlex.data.admin.ch/eli/oc/2007/927), [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171)[4231](https://fedlex.data.admin.ch/eli/oc/2009/515), [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759), [2012 6573](https://fedlex.data.admin.ch/eli/oc/2012/791), [2015 2775](https://fedlex.data.admin.ch/eli/oc/2015/524)[4979](https://fedlex.data.admin.ch/eli/oc/2015/813), [2016 1685](https://fedlex.data.admin.ch/eli/oc/2016/308), [2017 3203](https://fedlex.data.admin.ch/eli/oc/2017/319)[7145](https://fedlex.data.admin.ch/eli/oc/2017/772), [2018 2689](https://fedlex.data.admin.ch/eli/oc/2018/394), [2019 989](https://fedlex.data.admin.ch/eli/oc/2019/181)[2573](https://fedlex.data.admin.ch/eli/oc/2019/477)[4247](https://fedlex.data.admin.ch/eli/oc/2019/730), [2020 1223](https://fedlex.data.admin.ch/eli/oc/2020/232)[3565](https://fedlex.data.admin.ch/eli/oc/2020/633)]
+[^15-1]: [[RU 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173), [7087](https://fedlex.data.admin.ch/eli/oc/2007/927); [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171), [4231](https://fedlex.data.admin.ch/eli/oc/2009/515); [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759): **2012** 6573: **2015** 2775, 4979; **2016** 1685; **2017** 3203, 7145; **2018** 2689; **2019** 989, 2573, 4247; **2020** 1223, 3565]
 
 #### Art. 16
 
@@ -309,20 +315,21 @@ Allegato 4[^t-2]
 <tr><td colspan="6">a La potenza massima è la potenza media che un trasmettitore può erogare al massimo durante un periodo di oscillazione ad alta frequenza nel picco più elevato dell’inviluppo della modulazione (PEP). b Gamma di frequenze a disposizione anche di altri utenti che possono utilizzarla con priorità. c Gamma di frequenze che può essere utilizzata solo dopo la notifica all’UFCOM secondo l’art. 33 cpv. 1 lett. d OUS. d Solo per collegamenti dalla Terra ai satelliti. e Effective Radiated Power. f Effective Isotropically Radiated Power.</td></tr>
 </table>
 
-Allegato 5
+Allegato 5[^t-3]
 
 (art. 12)
 
 ## Prescrizioni per l’esame volto all’ottenimento dei certificati di capacità secondo l’articolo 51 capoverso 1 OUS
 
-[^annex4-lvlu2-1]
+[^annex5-lvlu1-1]
 
-[^annex4-lvlu2-1]: Il testo delle prescrizioni d’esame è ottenibile presso l’UFCOM, Rue de l’Avenir 44, casella postale, 2501 Bienne, oppure all’indirizzo: [www.ufcom.admin.ch](http://www.ufcom.admin.ch) &gt; Frequenze e antenne &gt; Esami di radiocomunicazione.
+[^t-3]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^annex5-lvlu1-1]: Il testo delle prescrizioni d’esame è ottenibile presso l’UFCOM, Rue de l’Avenir 44, casella postale, 2501 Bienne, oppure all’indirizzo [www.ufcom.admin.ch](https://www.bakom.admin.ch/bakom/it/pagina-iniziale/frequenze-antenne/esami-di-radiocomunicazione.html) &gt; Frequenze e antenne &gt; Esami di radiocomunicazione.
 
 <table>
 <tr><th></th><th>Certificato di capacità</th><th>Edizione delle prescrizioni per l’esame</th></tr>
-<tr><td>1</td><td>Certificato limitato per la navigazione da diporto (*Short Range* *Certificate*)</td><td>2</td></tr>
-<tr><td>2</td><td>Certificato generale per la navigazione da diporto (*Long Range* *Certificate*)</td><td>3</td></tr>
-<tr><td>3</td><td>Certificato di radiotelefonista OUC per le radiocomunicazioni della navigazione interna</td><td>2</td></tr>
-<tr><td>4</td><td>Certificato di capacità per radioamatori e certificato per radioamatori principianti</td><td>3</td></tr>
+<tr><td>1</td><td>Certificato limitato per la navigazione da diporto (*Short Range Certificate*)</td><td>3</td></tr>
+<tr><td>2</td><td>Certificato generale per la navigazione da diporto (*Long Range Certificate*)</td><td>4</td></tr>
+<tr><td>3</td><td>Certificato di radiotelefonista OUC per le radiocomunicazioni della navigazione interna</td><td>3</td></tr>
+<tr><td>4</td><td>Certificato di capacità per radioamatori e certificato per radioamatori principianti</td><td>4</td></tr>
 </table>

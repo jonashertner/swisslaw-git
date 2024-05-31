@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. Januar 2024)
+vom 18. November 2020 (Stand am 1. Juni 2024)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -115,11 +115,13 @@ Betreibt die Inhaberin oder der Inhaber eines der folgenden Fähigkeitszeugnisse
 
 <sup>2</sup> Ort, Datum und Zeit der Prüfungen werden vom BAKOM festgelegt.
 
-<sup>3</sup> An die Prüfung sind ein amtlicher persönlicher Ausweis sowie ein Passfoto für ein Fähigkeitszeugnis nach Artikel 51 Absatz 1 Buchstaben a–e VNF mitzubringen.
+<sup>3</sup> An die Prüfung ist ein amtlicher persönlicher Ausweis mitzubringen.[^8-1]
 
 <sup>4</sup> Die Geräte und Simulatoren für die Durchführung der praktischen Prüfungen für den Erwerb der Fähigkeitszeugnisse nach Artikel 51 Absatz 1 Buchstaben a und b VNF werden vom BAKOM zur Verfügung gestellt.
 
 <sup>5</sup> Die Prüfungen sind nicht öffentlich.
+
+[^8-1]: Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 9
 
@@ -135,9 +137,11 @@ Die zulässigen Hilfsmittel sind in den Prüfungsvorschriften festgelegt. Wer un
 
 #### Art. 11
 
-**Voraussetzung für das Bestehen der Prüfung**
+**Voraussetzung für das Bestehen der Prüfung**[^11-1]
 
-Die Prüfung hat bestanden, wer in jedem Fach mindestens 70 von 100 Punkten erreicht.
+Die Prüfung hat bestanden, wer mindestens 70 Prozent der maximalen Punktzahl erreicht. Besteht die Prüfung aus einem theoretischen und einem praktischen Teil, so müssen für jeden Prüfungsteil mindestens 70 Prozent der maximalen Punktzahl erreicht werden.
+
+[^11-1]: Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 12
 
@@ -147,11 +151,13 @@ Die Vorschriften für die Prüfung zum Erwerb der Fähigkeitszeugnisse nach Arti
 
 #### Art. 13
 
-**Nachprüfung**
+**Nachprüfung**[^13-1]
 
-<sup>1</sup> Wer die Prüfung nicht bestanden hat, kann innerhalb eines Jahres, nachdem die Prüfung abgelegt wurde, eine Nachprüfung ablegen. Geprüft werden die Fächer, in denen das Resultat ungenügend war.
+<sup>1</sup> Besteht die Prüfung aus einem theoretischen und einem praktischen Teil, so kann der Teil, in welchem das Resultat ungenügend war, innerhalb eines Jahres wiederholt werden.
 
-<sup>2</sup> Wer die Nachprüfung nicht bestanden hat, kann die Prüfung erneut ablegen. Es werden alle Fächer geprüft.
+<sup>2</sup> Wer die Nachprüfung nicht bestanden hat, kann die gesamte Prüfung erneut ablegen.
+
+[^13-1]: Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 14
 
@@ -192,11 +198,13 @@ Anhang 1[^t-1]
 
 Fassung 6 vom 6. November 2023
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 4)
 
 ## Frequenzbereiche für die Teilnahme am Flugfunk, an der Flugnavigation und an der Flugüberwachung
+
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 <table>
 <tr><td>Verwendungszweck</td><td>Frequenzbereich</td><td>RIR</td></tr>
@@ -235,13 +243,13 @@ Anhang 3
 <tr><td>AIS</td><td>156.025 - 162.025 MHz</td><td>RIR0603-01</td></tr>
 </table>
 
-Anhang 4[^t-2]
+Anhang 4[^t-3]
 
 (Art. 6)
 
 ## Nutzung von Frequenzbereichen nach Artikel 44 VNF
 
-[^t-2]: Bereinigt gemäss Ziff. I Abs. 2 der V des BAKOM vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 2 der V des BAKOM vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
 
 ### 1. Frequenzbereiche für Inhaberinnen und Inhaber eines Fähigkeitszeugnisses nach Artikel 44 Absatz 1 Buchstabe a Ziffern 1–3 VNF
 
@@ -317,12 +325,12 @@ Anhang 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel oder unter [www.bakom.admin.ch](https://www.bakom.admin.ch) &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
+[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, oder unter [www.bakom.admin.ch](https://www.bakom.admin.ch/bakom/de/home/frequenzen-antennen/funkerpruefungen.html) &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
 
 <table>
 <tr><th></th><th>Fähigkeitszeugnis</th><th>Ausgabe der Prüfungsvorschriften</th></tr>
-<tr><td>1</td><td>Beschränkt gültiges Betriebszeugnis für die Sportschifffahrt (*Short Range Certificate*)</td><td>2</td></tr>
-<tr><td>2</td><td>Allgemeines Betriebszeugnis für die Sportschifffahrt (*Long Range Certificate*)</td><td>3</td></tr>
-<tr><td>3</td><td>UKW-Sprechfunkausweis für den Binnenschifffahrtsfunk</td><td>2</td></tr>
-<tr><td>4</td><td>Fähigkeitszeugnis für den Amateurfunk und Einsteigerausweis für Funkamateurinnen und Funkamateure</td><td>3</td></tr>
+<tr><td>1</td><td>Beschränkt gültiges Betriebszeugnis für die Sportschifffahrt (*Short Range Certificate*)</td><td>3</td></tr>
+<tr><td>2</td><td>Allgemeines Betriebszeugnis für die Sportschifffahrt (*Long Range Certificate*)</td><td>4</td></tr>
+<tr><td>3</td><td>UKW-Sprechfunkausweis für den Binnenschifffahrtsfunk</td><td>3</td></tr>
+<tr><td>4</td><td>Fähigkeitszeugnis für den Amateurfunk und Einsteigerausweis für Funkamateurinnen und Funkamateure</td><td>4</td></tr>
 </table>

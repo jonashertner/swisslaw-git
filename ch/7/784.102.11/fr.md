@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2024-01-01
+version: 2024-06-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
+du 18 novembre 2020 (État le 1<sup>er</sup> juin 2024)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -40,7 +40,7 @@ arrête:
 
 #### Art. 2
 
-**Emission de l’indicatif d’appel ou de l’identification**
+**Émission de l’indicatif d’appel ou de l’identification**
 
 <sup>1</sup> Les utilisateurs du spectre des fréquences de radiocommunication soumis à une restriction au sens de l’art. 22, al. 2, de la loi du 30 avril 1997 sur les télécommunications (LTC)[^2-1] doivent émettre l’indicatif d’appel ou l’identification au moment où la liaison est établie, puis toutes les dix minutes.
 
@@ -115,11 +115,13 @@ Si le titulaire d’un des certificats de capacité suivants exploite son instal
 
 <sup>2</sup> L’OFCOM fixe le lieu, la date et l’heure des examens.
 
-<sup>3</sup> Une pièce d’identité personnelle officielle ainsi qu’une photo passeport pour un certificat de capacité au sens de l’art. 51, al. 1, let. a à e, OUS doivent être fournies lors de l’examen.
+<sup>3</sup> Une pièce d’identité officielle doit être présentée lors de l’examen.[^8-1]
 
 <sup>4</sup> Les appareils et les simulateurs nécessaires au déroulement des examens pratiques pour l’obtention des certificats de capacité au sens de l’art. 51, al. 1, let. a et b, OUS sont mis à disposition par l’OFCOM.
 
 <sup>5</sup> Les examens ne sont pas publics.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 9
 
@@ -135,9 +137,11 @@ Les moyens auxiliaires autorisés sont définis dans les prescriptions d’exame
 
 #### Art. 11
 
-**Condition requise pour réussir l’examen**
+**Condition requise pour réussir l’examen**[^11-1]
 
-L’examen est réussi lorsque le candidat obtient au moins 70 points sur 100 dans chaque matière.
+L’examen est réussi lorsque le candidat obtient au moins 70 % du maximum de points. Si l’examen se compose d’une partie théorique et d’une partie pratique, le candidat doit obtenir au moins 70 % du maximum de points pour chaque partie d’examen.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 12
 
@@ -147,15 +151,17 @@ Les prescriptions d’examen pour l’obtention des certificats au sens de l’a
 
 #### Art. 13
 
-**Examen de rattrapage**
+**Examen de rattrapage**[^13-1]
 
-<sup>1</sup> Toute personne qui a échoué à l’examen peut passer un examen de rattrapage dans le délai d’un an. Elle sera réexaminée dans les matières où elle n’a pas obtenu un résultat suffisant.
+<sup>1</sup> Si l’examen se compose d’une partie théorique et d’une partie pratique, la partie de l’examen pour laquelle le résultat n’était pas suffisant peut être repassée dans un délai d’un an.
 
-<sup>2</sup> Toute personne qui échoue à l’examen de rattrapage peut repasser l’examen. Elle sera réexaminée dans toutes les matières.
+<sup>2</sup> Le candidat qui échoue à l’examen de rattrapage peut repasser tout l’examen.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
 
 #### Art. 14
 
-**Emoluments d’examen**
+**Émoluments d’examen**
 
 <sup>1</sup> Les montants correspondant aux émoluments visés aux art. 39 à 42 OREDT doivent être crédités au plus tard huit jours avant l’examen sur le compte de l’OFCOM.
 
@@ -309,7 +315,7 @@ Annexe 4[^t-2]
 <tr><td colspan="6">a La puissance de crête à la sortie d’un émetteur est la moyenne de la puissance qu’un émetteur peut fournir au cours d’un cycle de radiofréquence correspondant à l’amplitude maximale de l’enveloppe de modulation (PEP). b Domaine de fréquences également disponible pour d’autres usagers qui peuvent l’utiliser en priorité. c Domaine de fréquences qui ne peut être utilisé qu’une fois l’annonce faite auprès de l’OFCOM conformément à l’art 33, al. 1, let. d, OUS. d Uniquement pour les liaisons de la Terre au satellite. e Effective Radiated Power. f Effective Isotropically Radiated Power.</td></tr>
 </table>
 
-Annexe 5
+Annexe 5[^t-3]
 
 (art. 12)
 
@@ -317,12 +323,13 @@ Annexe 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Le texte des prescriptions d’examen peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou à l’adresse Internet [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; Fréquences et antennes &gt; Examens de radiocommunication.
+[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 179](https://fedlex.data.admin.ch/eli/oc/2024/179)).
+[^annex5-lvlu1-1]: Le texte des prescriptions d’examen peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou à l’adresse Internet [www.ofcom.admin.ch](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication.html) &gt; Fréquences et antennes &gt; Examens de radiocommunication.
 
 <table>
-<tr><th></th><th>Certificat de capacité</th><th>Edition des prescriptions d’examen:</th></tr>
-<tr><td>1</td><td>Certificat restreint d’opérateur pour la navigation de plaisance (*Short Range Certificate*);</td><td>2</td></tr>
-<tr><td>2</td><td>Certificat général d’opérateur pour la navigation de plaisance (*Long Range Certificate*);</td><td>3</td></tr>
-<tr><td>3</td><td>Certificat de radiotéléphoniste OUC de la navigation intérieure</td><td>2</td></tr>
-<tr><td>4</td><td>Certificat de capacité pour radioamateur et certificat de radioamateur novice</td><td>3</td></tr>
+<tr><th></th><th>Certificat de capacité</th><th>Édition des prescriptions d’examen</th></tr>
+<tr><td>1</td><td>Certificat restreint d’opérateur pour la navigation de plaisance (*Short Range Certificate*)</td><td>3</td></tr>
+<tr><td>2</td><td>Certificat général d’opérateur pour la navigation de plaisance (*Long Range Certificate*)</td><td>4</td></tr>
+<tr><td>3</td><td>Certificat de radiotéléphoniste OUC de la navigation intérieure</td><td>3</td></tr>
+<tr><td>4</td><td>Certificat de capacité pour radioamateur et certificat de radioamateur novice</td><td>4</td></tr>
 </table>
