@@ -4,13 +4,13 @@ number: "173.010"
 title: Ordinaziun transitorica da la Dretgira superiura
 short: OTDS
 language: rm
-version: 2024-02-15
-valid_until: 2024-05-31
-version_adopted: 2024-02-13
+version: 2024-06-01
+valid_until: 2024-07-14
+version_adopted: 2024-05-21
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3358/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3358/pdf_file"
 
 (OTDS)
 
-dals 13-02-2024 (versiun dals 15-02-2024)
+dals 13-02-2024 (versiun dals 01-06-2024)
 
 Sa basond sin l'art. 51a al. 3 da la Constituziun chantunala[^ingress-1] e sin l'art. 40 al. 2 lit. a sco era sin l'art. 43 da la Lescha davart l'organisaziun giudiziala[^ingress-2]
 
@@ -331,5 +331,87 @@ relaschada da la Dretgira superiura ils 13 da favrer 2024
 - e) cumpatibilitad cun la posiziun uffiziala.
 
 <sup>4</sup> La permissiun po vegnir colliada cun pretensiuns, cun cundiziuns e cun limitaziuns temporaras.
+
+### 3.7. Conferenza presidiala da las dretgiras regiunalas
+
+#### Art. 19
+
+**Incumbensas**
+
+<sup>1</sup> Per prender conclus davart las fatschentas da l'administraziun giudiziala, che las dretgiras regiunalas ston procurar cuminaivlamain tenor lescha u tenor ordinaziun, constitueschan ellas la Conferenza presidiala da las dretgiras regiunalas.
+
+<sup>2</sup> La Conferenza presidiala è cumpetenta en spezial per las suandantas fatschentas:
+
+- a) eleger las tschintg commembras e commembers da la Cumissiun administrativa extendida (art. 117 al. 2 da la Lescha davart l'organisaziun giudiziala[^19-1]);
+- b) designar la dretgira regiunala, a la quala il Post da stab per las dretgiras regiunalas è affilià en reguard administrativ;
+- c) deliberar il reglament davart l'organisaziun dal Post da stab;
+- d) deliberar la descripziun da la plazza ed il carnet d'obligaziuns dal Post da stab;
+- e) occupar il Post da stab (engaschament e disditga).
+
+[^19-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
+
+#### Art. 20
+
+**Cumposiziun e convocaziun**
+
+<sup>1</sup> La Conferenza presidiala sa cumpona da las presidentas e dals presidents da las dretgiras regiunalas. En cas d'impediment vegnan ellas ed els substituids tras las vicepresidentas ed ils vicepresidents.
+
+<sup>2</sup> Per il rest da la perioda d'uffizi elegian las commembras ed ils commembers da la Conferenza presidiala ord lur ravugl ina parsura u in parsura sco er ina substituta u in substitut. In'elecziun substitutiva per il rest da la perioda d'uffizi è pussaivla.
+
+<sup>3</sup> La parsura u il parsura represchenta la Conferenza presidiala vers anora e maina las sesidas da la Conferenza presidiala. Ella u el convochescha ina sesida, uschespert ch'igl è necessari da giuditgar ina fatschenta u sche almain trais commembras e commembers pretendan quai, en mintga cas dentant ina giada per onn.
+
+<sup>4</sup> Ils invits vegnan tramess en scrit u sin via electronica, cun inditgar las tractandas. Eventualas actas vegnan agiuntadas a l'invit u exponidas per prender invista.
+
+#### Art. 21
+
+**Conclus**
+
+<sup>1</sup> Ils conclus da la Conferenza presidiala èn valaivels, sche almain set commembras e commembers coopereschan a la sesida u a la procedura da circulaziun.
+
+<sup>2</sup> Mintga commembra e commember ha ina vusch ed è obligada u obligà da votar.
+
+<sup>3</sup> La Conferenza presidiala prenda conclus cun ina maioritad da las vuschs da las commembras e dals commembers ch'èn preschents a la sesida. En cas d'elecziuns decida la maioritad da las vuschs da las commembras e dals commembers ch'èn preschents a la sesida; en cas d'ina paritad da vuschs decida la sort.
+
+<sup>4</sup> En la procedura da circulaziun dovri decisiuns unanimas per prender conclus; mintga commembra e commember po pretender ina tractativa a bucca.
+
+<sup>5</sup> Per prender conclus vala dal rest l'artitgel 3 alinea 2 da la Lescha davart l'organisaziun giudiziala[^21-1] tenor il senn.
+
+[^21-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
+
+### 3.8. Post da stab per las dretgiras regiunalas
+
+#### Art. 22
+
+**Incumbensas**
+
+<sup>1</sup> Premess ch'il Cussegl grond permettia da crear las plazzas respectivas, survegnan las dretgiras regiunalas in post da stab che las sustegna en connex cun la surveglianza dals uffizis da mediaziun e da las autoritads da mediaziun per dumondas da locaziun sco er en connex cun l'adempliment da lur incumbensas da l'administraziun giudiziala.
+
+<sup>2</sup> Il Post da stab ha en spezial las suandantas incumbensas:
+
+- a) elavurar in concept per in'execuziun unitara da la surveglianza da las dretgiras regiunalas e metter a disposiziun ils meds auxiliars ch'èn necessaris per realisar il concept (p.ex. glistas da controlla, formulars, models per directivas e per rapports);
+- b) accumpagnar las discussiuns e las controllas periodicas da las autoritads survegliadas e scriver ils rapports respectivs;
+- c) cussegliar las dretgiras regiunalas en connex cun il tractament da recurs da surveglianza u da proceduras da surveglianza ierarchica che stattan en lur cumpetenza;
+- d) participar a las sesidas da la Cumissiun administrativa extendida da la Dretgira superiura e sustegnair las tschintg commembras e commembers da las dretgiras regiunalas en connex cun la preparaziun da las fatschentas tractandadas;
+- e) participar a la Conferenza da las dretgiras regiunalas, scriver il protocol e sustegnair la presidenta u il president da la Conferenza en connex cun la preparaziun e cun la realisaziun da las fatschentas tractadas da la Conferenza;
+- f) sustegnair la presidenta u il president da la Conferenza da las dretgiras regiunalas en connex cun l'adempliment d'ulteriuras incumbensas ch'ella u el surpiglia per tut las dretgiras regiunalas;
+- g) cussegliar las dretgiras regiunalas en connex cun l'adempliment da lur incumbensas administrativas e cun la preparaziun da las infurmaziuns respectivas necessarias;
+- h) sviluppar manuals organisatorics, process standardisads per l'administraziun giudiziala ed ulteriurs meds auxiliars che han l'intent d'unifitgar la gestiun da las dretgiras regiunalas;
+- i) sustegnair il post d'infurmaziun da la Dretgira superiura en connex cun la concepziun da las paginas d'internet da las dretgiras regiunalas, dals uffizis da mediaziun e da las autoritads da mediaziun per dumondas da locaziun sco er en connex cun la publicaziun da decisiuns da las dretgiras regiunalas;
+- j) sustegnair la persuna responsabla per la IT da la Dretgira superiura en connex cun l'organisaziun da l'informatica per las dretgiras regiunalas;
+- k) organisar inscunters periodics cun autoritads administrativas, federaziuns e posts spezialisads che stattan en ina stretga relaziun cun la giustia.
+
+<sup>3</sup> Al Post da stab pon vegnir delegadas ulteriuras incumbensas che pertutgan en spezial la protecziun da datas, la scolaziun e la furmaziun supplementara da las commembras e dals commembers sco er da las collavuraturas e dals collavuraturs da las dretgiras regiunalas, il sustegn en connex cun incumbensas da la giurisdicziun u la cooperaziun a projects.
+
+#### Art. 23
+
+**Organisaziun**
+
+<sup>1</sup> Il Post da stab suttastat a la direcziun ed a la surveglianza da la parsura u dal parsura da la Conferenza presidiala.
+
+<sup>2</sup> En reguard administrativ è il Post da stab affilià a la dretgira regiunala che vegn designada da la Conferenza presidiala. Là dispona el d'in plaz da lavur e po far diever da l'agid da la chanzlia da la dretgira per liquidar lavurs administrativas. Ils custs dal Post da stab (inclusiv eventuals custs ch'èn d'attribuir a projects) èn ina part integrala dal preventiv e dal quint annual da la dretgira regiunala respectiva.
+
+<sup>3</sup> Cun resalva da las cumpetenzas da la Conferenza presidiala exequescha la parsura u il parsura da la Conferenza ils dretgs e las obligaziuns che resultan tras il contract da lavur da dretg public. Sche necessari sa cunvegn ella u el ordavant cun la presidenta u il president da la dretgira regiunala, a la quala il Post da stab è affilià en reguard administrativ.
+
+<sup>4</sup> Ils detagls da l'affiliaziun administrativa e da l'organisaziun dal Post da stab vegnan fixads da la Conferenza presidiala en in reglament.
 
 2024-004

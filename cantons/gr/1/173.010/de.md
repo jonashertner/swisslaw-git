@@ -4,13 +4,13 @@ number: "173.010"
 title: Übergangsverordnung des Obergerichts
 short: ÜVOG
 language: de
-version: 2024-02-15
-valid_until: 2024-05-31
-version_adopted: 2024-02-13
+version: 2024-06-01
+valid_until: 2024-07-14
+version_adopted: 2024-05-21
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3358/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3358/pdf_file"
 
 (ÜVOG)
 
-Vom 13.02.2024 (Stand 15.02.2024)
+Vom 13.02.2024 (Stand 01.06.2024)
 
 Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] und Art. 40 Abs. 2 lit. a sowie Art. 43 des Gerichtsorganisationsgesetzes[^ingress-2]
 
@@ -331,5 +331,87 @@ vom Obergericht erlassen am 13. Februar 2024
 - e) Vereinbarkeit mit der amtlichen Stellung.
 
 <sup>4</sup> Die Bewilligung kann mit Auflagen, Bedingungen und Befristungen verknüpft werden.
+
+### 3.7. Präsidialkonferenz der Regionalgerichte
+
+#### Art. 19
+
+**Aufgaben**
+
+<sup>1</sup> Die Regionalgerichte bilden zur Beschlussfassung über Geschäfte der Justizverwaltung, welche sie gemäss Gesetz oder Verordnung gemeinsam zu besorgen haben, die Präsidialkonferenz der Regionalgerichte.
+
+<sup>2</sup> In ihre Zuständigkeit fallen insbesondere folgende Geschäfte:
+
+- a) Wahl der fünf Mitglieder der erweiterten Verwaltungskommission (Art. 117 Abs. 2 des Gerichtsorganisationsgesetzes[^19-1]);
+- b) Bezeichnung des Regionalgerichts, dem die Stabsstelle für die Regionalgerichte administrativ angegliedert ist;
+- c) Verabschiedung des Reglements über die Organisation der Stabsstelle;
+- d) Verabschiedung der Stellenbeschreibung und des Pflichtenhefts der Stabsstelle;
+- e) Besetzung der Stabsstelle (Anstellung und Kündigung).
+
+[^19-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+#### Art. 20
+
+**Zusammensetzung und Einberufung**
+
+<sup>1</sup> Der Präsidialkonferenz gehören die Präsidentinnen und Präsidenten der Regionalgerichte an. Diese werden bei Verhinderung durch die Vizepräsidentinnen oder Vizepräsidenten vertreten.
+
+<sup>2</sup> Die Mitglieder der Präsidialkonferenz wählen für die verbleibende Dauer der Amtsperiode aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden sowie eine Stellvertreterin oder einen Stellvertreter. Eine Ersatzwahl für die verbleibende Dauer einer Amtsperiode ist möglich.
+
+<sup>3</sup> Die Vorsitzende oder der Vorsitzende vertritt die Präsidialkonferenz nach aussen und leitet deren Sitzungen. Sie oder er beruft eine Sitzung ein, sobald ein Geschäft zur Beurteilung ansteht oder mindestens drei Mitglieder dies verlangen, jedenfalls aber einmal pro Jahr.
+
+<sup>4</sup> Die Einladungen erfolgen schriftlich oder auf elektronischem Weg und unter Angabe der Traktanden. Allfällige Unterlagen werden der Einladung beigelegt oder zur Einsicht aufgelegt.
+
+#### Art. 21
+
+**Beschlussfassung**
+
+<sup>1</sup> Beschlüsse der Präsidialkonferenz sind gültig, wenn an der Sitzung oder am Zirkularverfahren mindestens sieben Mitglieder mitwirken.
+
+<sup>2</sup> Jedes Mitglied hat eine Stimme und ist zur Stimmabgabe verpflichtet.
+
+<sup>3</sup> Die Präsidialkonferenz fasst ihre Beschlüsse mit der Mehrheit der Stimmen der anwesenden Mitglieder. Bei Wahlen entscheidet die Mehrheit der Stimmen der anwesenden Mitglieder; bei Stimmengleichheit entscheidet das Los.
+
+<sup>4</sup> Eine Beschlussfassung im Zirkularverfahren bedarf der Einstimmigkeit; jedes Mitglied kann eine mündliche Beratung verlangen.
+
+<sup>5</sup> Im Übrigen gilt für die Beschlussfassung Artikel 3 Absatz 2 des Gerichtsorganisationsgesetzes[^21-1] sinngemäss.
+
+[^21-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
+
+### 3.8. Stabsstelle für die Regionalgerichte
+
+#### Art. 22
+
+**Aufgaben**
+
+<sup>1</sup> Unter Vorbehalt der Bewilligung der Stellenschaffung durch den Grossen Rat erhalten die Regionalgerichte eine Stabsstelle, welche sie bei der Wahrnehmung der Aufsicht über die Vermittlerämter und die Schlichtungsbehörden für Mietsachen sowie bei der Erfüllung ihrer Aufgaben der Justizverwaltung unterstützt.
+
+<sup>2</sup> Der Stabsstelle obliegen insbesondere folgende Aufgaben:
+
+- a) Erarbeitung eines Konzepts für die einheitliche Durchführung der Aufsichtstätigkeit der Regionalgerichte und der Hilfsmittel, die zur Umsetzung des Konzepts erforderlich sind (z.B. Checklisten, Formulare, Vorlagen für Weisungen und Berichterstattung);
+- b) Begleitung von periodischen Aussprachen und Kontrollen der beaufsichtigten Behörden sowie Verfassen der diesbezüglichen Berichte;
+- c) Beratung der Regionalgerichte bei der Behandlung von Aufsichtsbeschwerden oder dienstaufsichtsrechtlichen Verfahren, die in deren Zuständigkeit fallen;
+- d) Teilnahme an den Sitzungen der erweiterten Verwaltungskommission des Obergerichts und Unterstützung der fünf Mitglieder der Regionalgerichte bei der Vorbereitung der traktandierten Geschäfte;
+- e) Teilnahme an der Regionalgerichtskonferenz samt Protokollführung und Unterstützung ihrer Präsidentin oder ihres Präsidenten bei der Vorbereitung und Umsetzung der an der Konferenz behandelten Geschäfte;
+- f) Unterstützung der Präsidentin oder des Präsidenten der Regionalgerichtskonferenz bei der Erfüllung von weiteren Aufgaben, welche sie oder er für die Gesamtheit der Regionalgerichte wahrnimmt;
+- g) Beratung der Regionalgerichte in der Erfüllung ihrer administrativen Aufgaben und Bereitstellung der dazu erforderlichen Informationen;
+- h) Entwicklung von Organisationshandbüchern, standardisierten Gerichtsverwaltungsprozessen und weiteren Hilfsmitteln zur Vereinheitlichung der Geschäftsführung der Regionalgerichte;
+- i) Unterstützung der Informationsstelle des Obergerichts bei der Gestaltung des Internetauftritts der Regionalgerichte, der Vermittlerämter und der Schlichtungsbehörden für Mietsachen sowie bei der Publikation von Entscheiden der Regionalgerichte;
+- j) Unterstützung der IT-verantwortlichen Person des Obergerichts bei der Organisation der Informatik für die Regionalgerichte;
+- k) Organisation von periodischen Treffen mit justiznahen Verwaltungsbehörden, Verbänden und Fachstellen.
+
+<sup>3</sup> Der Stabsstelle können weitere Aufgaben übertragen werden, namentlich im Bereich des Datenschutzes, der Weiterbildung und Schulung von Mitgliedern und Mitarbeitenden der Regionalgerichte, der Unterstützung bei Aufgaben der Rechtsprechung oder der Mitwirkung bei Projekten.
+
+#### Art. 23
+
+**Organisation**
+
+<sup>1</sup> Die Stabsstelle untersteht der Leitung und der Aufsicht der Vorsitzenden oder des Vorsitzenden der Präsidialkonferenz.
+
+<sup>2</sup> Administrativ ist die Stabsstelle dem von der Präsidialkonferenz bezeichneten Regionalgericht angegliedert. Sie verfügt dort über einen Arbeitsplatz und kann zur Verrichtung administrativer Arbeiten die Hilfe der Gerichtskanzlei in Anspruch nehmen. Die Kosten der Stabsstelle (unter Einschluss allfälliger projektbezogener Kosten) bilden Bestandteil des Budgets und der Jahresrechnung des betreffenden Regionalgerichts.
+
+<sup>3</sup> Unter Vorbehalt der Befugnisse der Präsidialkonferenz übt ihre Vorsitzende oder ihr Vorsitzender die aus dem öffentlich-rechtlichen Arbeitsvertrag fliessenden Rechte und Pflichten aus. Soweit erforderlich spricht sie oder er sich dabei vorgängig mit der Präsidentin oder dem Präsidenten des Regionalgerichts ab, dem die Stabsstelle administrativ angegliedert ist.
+
+<sup>4</sup> Die Einzelheiten der administrativen Angliederung und der Organisation der Stabsstelle regelt die Präsidialkonferenz in einem Reglement.
 
 2024-004

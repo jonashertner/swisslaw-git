@@ -4,13 +4,13 @@ number: "173.010"
 title: "Ordinanza transitoria del Tribunale d'appello"
 short: OTTA
 language: it
-version: 2024-02-15
-valid_until: 2024-05-31
-version_adopted: 2024-02-13
+version: 2024-06-01
+valid_until: 2024-07-14
+version_adopted: 2024-05-21
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3358/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3433/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3358/pdf_file"
 
 (OTTA)
 
-del 13.02.2024 (stato 15.02.2024)
+del 13.02.2024 (stato 01.06.2024)
 
 emanata dal Tribunale d'appello il 13 febbraio 2024
 
@@ -331,5 +331,87 @@ visti l'art. 51a cpv. 3 della Costituzione cantonale[^ingress-1] e l'art. 40 cpv
 - e) compatibilità con la carica.
 
 <sup>4</sup> L'autorizzazione può essere gravata da oneri, condizioni e limitazioni di tempo.
+
+### 3.7. Conferenza dei presidenti dei tribunali regionali
+
+#### Art. 19
+
+**Compiti**
+
+<sup>1</sup> I tribunali regionali costituiscono la conferenza dei presidenti per la decisione in merito ad affari di amministrazione della giustizia dei quali per legge od ordinanza devono occuparsi insieme.
+
+<sup>2</sup> Nella competenza della conferenza dei presidenti rientrano in particolare i seguenti affari:
+
+- a) nomina dei cinque membri della commissione amministrativa ampliata (art. 117 cpv. 2 della legge sull'organizzazione giudiziaria[^19-1]);
+- b) designazione del tribunale regionale cui è annesso dal profilo amministrativo l'ufficio di coordinamento per i tribunali regionali;
+- c) approvazione del regolamento sull'organizzazione dell'ufficio di coordinamento;
+- d) approvazione della descrizione del posto e dell'elenco degli obblighi dell'ufficio di coordinamento;
+- e) occupazione dell'ufficio di coordinamento (assunzione e disdetta).
+
+[^19-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
+
+#### Art. 20
+
+**Composizione e convocazione**
+
+<sup>1</sup> La conferenza dei presidenti è composta dai presidenti dei tribunali regionali. In caso di impedimento, questi ultimi vengono rappresentati dai vicepresidenti.
+
+<sup>2</sup> Per la durata rimanente del periodo di carica i membri della conferenza dei presidenti nominano tra i propri membri un presidente e un supplente. È possibile una nomina sostitutiva per la durata rimanente di un periodo di carica.
+
+<sup>3</sup> Il presidente rappresenta la conferenza dei presidenti verso l'esterno e ne dirige le sedute. Esso convoca una seduta non appena occorre valutare un affare o almeno tre membri lo richiedono, in ogni caso almeno una volta all'anno.
+
+<sup>4</sup> Gli inviti vengono trasmessi per iscritto o per via elettronica, con l'indicazione dell'ordine del giorno. Eventuale documentazione viene allegata all'invito o messa a disposizione per la presa in visione.
+
+#### Art. 21
+
+**Decisione**
+
+<sup>1</sup> Le decisioni della conferenza dei presidenti sono valide se alla seduta o alla procedura per circolazione degli atti partecipano almeno sette membri.
+
+<sup>2</sup> Ogni membro ha un voto ed è tenuto a esprimere il proprio voto.
+
+<sup>3</sup> La conferenza dei presidenti prende le decisioni con la maggioranza dei voti dei membri presenti. In caso di nomine decide la maggioranza dei voti dei membri presenti; in caso di parità di voti si decide tramite sorteggio.
+
+<sup>4</sup> Per la decisione in procedura per circolazione degli atti è necessaria l'unanimità; ogni membro può richiedere che si proceda a una deliberazione a voce.
+
+<sup>5</sup> Per il resto, per la decisione fa stato per analogia l'articolo 3 capoverso 2 della legge sull'organizzazione giudiziaria[^21-1].
+
+[^21-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
+
+### 3.8. Ufficio di coordinamento per i tribunali regionali
+
+#### Art. 22
+
+**Compiti**
+
+<sup>1</sup> Fatto salvo il consenso del Gran Consiglio alla creazione dell'ufficio, i tribunali regionali vengono dotati di un ufficio di coordinamento che li supporta nell'esercizio della loro attività di vigilanza sulle giudicature di pace e sulle autorità di conciliazione in materia di locazione nonché nell'adempimento dei loro compiti di amministrazione della giustizia.
+
+<sup>2</sup> All'ufficio di coordinamento competono in particolare i seguenti compiti:
+
+- a) elaborazione di una strategia per lo svolgimento uniforme dell'attività di vigilanza dei tribunali regionali ed elaborazione degli strumenti ausiliari necessari per l'attuazione della strategia (ad es. liste di controllo, moduli, modelli per la stesura di istruzioni e rapporti);
+- b) accompagnamento di colloqui e controlli periodici delle autorità soggette alla vigilanza nonché stesura dei relativi rapporti;
+- c) consulenza ai tribunali regionali nell'evasione di ricorsi di vigilanza o di procedure di vigilanza gerarchica che rientrano nella loro competenza;
+- d) partecipazione alle sedute della Commissione amministrativa ampliata del Tribunale d'appello e sostegno ai cinque membri dei tribunali regionali nella preparazione degli affari all'ordine del giorno;
+- e) partecipazione alla conferenza dei tribunali regionali, compresi la stesura del verbale e sostegno al presidente nella preparazione e nell'attuazione degli affari trattati in occasione della conferenza;
+- f) sostegno al presidente della conferenza dei tribunali regionali nell'adempimento di ulteriori compiti che esso svolge per l'insieme dei tribunali regionali;
+- g) consulenza ai tribunali regionali nell'adempimento dei loro compiti amministrativi e messa a disposizione delle informazioni necessarie a tale scopo;
+- h) sviluppo di manuali relativi all'organizzazione, di processi di amministrazione dei tribunali standardizzati e di ulteriori mezzi ausiliari per uniformare la gestione dei tribunali regionali;
+- i) sostegno allo servizio informazioni del Tribunale d'appello nella configurazione del sito internet dei tribunali regionali, delle giudicature di pace e delle autorità di conciliazione in materia di locazione nonché nella pubblicazione di decisioni dei tribunali regionali;
+- j) sostegno al responsabile IT del Tribunale d'appello nell'organizzazione degli aspetti legati all'informatica per i tribunali regionali;
+- k) organizzazione di incontri periodici con autorità amministrative, associazioni e servizi specializzati prossimi alla giustizia.
+
+<sup>3</sup> All'ufficio di coordinamento possono essere delegati ulteriori compiti, segnatamente nel settore della protezione dei dati, del perfezionamento professionale e della formazione di membri e collaboratori dei tribunali regionali, del sostegno nel quadro di compiti di giurisprudenza o della collaborazione a progetti.
+
+#### Art. 23
+
+**Organizzazione**
+
+<sup>1</sup> L'ufficio di coordinamento è subordinato alla direzione e alla vigilanza del presidente della conferenza dei presidenti.
+
+<sup>2</sup> Dal profilo amministrativo, l'ufficio di coordinamento è annesso al tribunale regionale definito dalla conferenza dei presidenti. Lì dispone di una postazione di lavoro e per sbrigare i lavori amministrativi può fare capo ai servizi della cancelleria del tribunale. I costi dell'ufficio di coordinamento (compresi eventuali costi riferiti a progetti) sono parte integrante del preventivo e del conto annuale del tribunale regionale in questione.
+
+<sup>3</sup> Fatte salve le competenze della conferenza dei presidenti, il suo presidente esercita i diritti e i doveri derivanti dal contratto di lavoro di diritto pubblico. Se necessario, esso si consulta previamente con il presidente del tribunale regionale a cui l'ufficio di coordinamento è annesso dal profilo amministrativo.
+
+<sup>4</sup> La conferenza dei presidenti disciplina in un regolamento i dettagli dell'annessione amministrativa e dell'organizzazione dell'ufficio di coordinamento.
 
 2024-004
