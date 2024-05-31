@@ -4,13 +4,12 @@ number: "814.20"
 title: Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 short: EG GSchG
 language: de
-version: 2013-08-01
-valid_until: 2024-05-31
-version_adopted: 2013-03-27
+version: 2024-06-01
+version_adopted: 2024-01-24
 adopted: 1997-03-05
 in_force: 1997-10-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.20"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2249/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2802/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ EG GSchG
 
 (EG GSchG)
 
-vom 05.03.1997 (Stand 01.08.2013)
+vom 05.03.1997 (Stand 01.06.2024)
 
 ## 1. Allgemeines
 
@@ -75,6 +74,10 @@ vom 05.03.1997 (Stand 01.08.2013)
 
 <sup>2</sup> Die Reinigung in gemeinsamen Anlagen ist anzustreben, soweit dies ökologisch und wirtschaftlich sinnvoll ist.
 
+<sup>3</sup> Es gilt das gesetzliche Vorkaufsrecht gemäss § 36a und § 36b des Planungs- und Baugesetzes (PBG)[^6-1].
+
+[^6-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
+
 #### § 7
 
 **Abwasserreglement**
@@ -89,25 +92,25 @@ vom 05.03.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Einer Bewilligung des Kantons bedürfen:
 
-- 1\. die Erstellung, Änderung oder Erweiterung der öffentlichen sowie der vom Regierungsrat bezeichneten privaten Anlagen zur Behandlung von Abwasser;
-- 2\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten in Grundwasserschutzzonen und -arealen mit einem Nutzvolumen von mehr als 450 Litern;
-- 3\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten, die in kleinen Mengen Wasser verunreinigen können, mit einem Nutzvolumen von mehr als 2'000 Litern je Lagerbehälter in besonders gefährdeten Bereichen;
-- 4\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten, die in kleinen Mengen Wasser verunreinigen können, mit einem Nutzvolumen von mehr als 5'000 Litern je Lagerbehälter ausserhalb besonders gefährdeter Bereiche;
-- 5\. die Erstellung und die Änderung von Umschlagplätzen für wassergefährdende Flüssigkeiten in besonders gefährdeten Bereichen;
-- 6\. die Erstellung und die Änderung von Lageranlagen und Transportleitungen für Hof- und Recyclingdünger;
-- 7\. Bohrungen oder Grabungen zur Erkundung des Untergrundes oder zur Nutzung der Erdwärme;
-- 8\. der Abbau von Bodenschätzen;
-- 9\. das Einleiten von verschmutztem Abwasser in ein Gewässer;
-- 10\. das Einleiten von nicht verschmutztem Abwasser in ein Gewässer, soweit es nicht in einer vom Kanton genehmigten kommunalen Entwässerungsplanung ausgewiesen ist;
-- 11\. das Einleiten von Abwasser aus Gewerbe- oder Industriebetrieben in Schmutzwasserkanalisationen;
-- 12\. Düngerabnahmeverträge;
-- 13\. das Versickernlassen von behandeltem verschmutztem Abwasser;
-- 14\. der Untertagebau in besonders gefährdeten Bereichen;
-- 15\. Anlagen in besonders gefährdeten Bereichen, die Deckschichten oder Grundwasserstauer verletzen;
-- 16\. Grundwassernutzungen (einschliesslich Nutzungen zu Heiz- und Kühlzwecken) in besonders gefährdeten Bereichen;
-- 17\. dauernde Entwässerungen und Bewässerungen in besonders gefährdeten Bereichen;
-- 18\. Freilegungen des Grundwasserspiegels in besonders gefährdeten Bereichen;
-- 19\. Mietverträge für Hofdüngerlager.
+- 1\. die Erstellung, Änderung oder Erweiterung der öffentlichen sowie der vom Regierungsrat bezeichneten privaten Anlagen zur Behandlung von Abwasser
+- 2\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten in Grundwasserschutzzonen und -arealen mit einem Nutzvolumen von mehr als 450 Litern
+- 3\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten, die in kleinen Mengen Wasser verunreinigen können, mit einem Nutzvolumen von mehr als 2'000 Litern je Lagerbehälter in besonders gefährdeten Bereichen
+- 4\. die Erstellung und die Änderung von Lageranlagen für wassergefährdende Flüssigkeiten, die in kleinen Mengen Wasser verunreinigen können, mit einem Nutzvolumen von mehr als 5'000 Litern je Lagerbehälter ausserhalb besonders gefährdeter Bereiche
+- 5\. die Erstellung und die Änderung von Umschlagplätzen für wassergefährdende Flüssigkeiten in besonders gefährdeten Bereichen
+- 6\. die Erstellung und die Änderung von Lageranlagen und Transportleitungen für Hof- und Recyclingdünger
+- 7\. Bohrungen oder Grabungen zur Erkundung des Untergrundes oder zur Nutzung der Erdwärme
+- 8\. der Abbau von Bodenschätzen
+- 9\. das Einleiten von verschmutztem Abwasser in ein Gewässer
+- 10\. das Einleiten von nicht verschmutztem Abwasser in ein Gewässer, soweit es nicht in einer vom Kanton genehmigten kommunalen Entwässerungsplanung ausgewiesen ist
+- 11\. das Einleiten von Abwasser aus Gewerbe- oder Industriebetrieben in Schmutzwasserkanalisationen
+- 12\. Düngerabnahmeverträge
+- 13\. das Versickernlassen von behandeltem verschmutztem Abwasser
+- 14\. der Untertagebau in besonders gefährdeten Bereichen
+- 15\. Anlagen in besonders gefährdeten Bereichen, die Deckschichten oder Grundwasserstauer verletzen
+- 16\. Grundwassernutzungen (einschliesslich Nutzungen zu Heiz- und Kühlzwecken) in besonders gefährdeten Bereichen
+- 17\. dauernde Entwässerungen und Bewässerungen in besonders gefährdeten Bereichen
+- 18\. Freilegungen des Grundwasserspiegels in besonders gefährdeten Bereichen
+- 19\. Mietverträge für Hofdüngerlager
 
 <sup>2</sup> Eine Bewilligung nach § 8 Abs. 1 Ziff. 19 wird erteilt, wenn die Lagereinrichtung für Hofdünger die Vorgaben des Bundes hinsichtlich der Dichtigkeit, der Funktionstüchtigkeit sowie des ordnungsgemässen Betriebs erfüllt.
 
@@ -121,9 +124,7 @@ vom 05.03.1997 (Stand 01.08.2013)
 
 <sup>2</sup> Vor der Planauflage sind bei Grundwasserschutzzonen oder -arealen die betroffenen Grundeigentümer anzuhören.
 
-<sup>3</sup> Wer ein schutzwürdiges Interesse hat, kann während der Auflagefrist Einsprache erheben. Einsprachen gegen Pläne des Kantons sind an die zuständige kantonale Behörde zu richten. Das Verfahren richtet sich im Übrigen nach § 29 bis § 31 des Planungs- und Baugesetzes (PBG)[^9-1].
-
-[^9-1]: RB [700](https://db.clex.ch/link/Bund/700/de)
+<sup>3</sup> Wer ein schutzwürdiges Interesse hat, kann während der Auflagefrist Einsprache erheben. Einsprachen gegen Pläne des Kantons sind an die zuständige kantonale Behörde zu richten. Das Verfahren richtet sich im Übrigen nach § 29 bis § 31 PBG.
 
 #### § 9a
 
@@ -215,8 +216,8 @@ vom 05.03.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Die Gemeinden haben innert fünf Jahren seit Inkraftsetzung dieses Gesetzes zur Genehmigung einzureichen:
 
-- 1\. die erforderlichen Anpassungen der Reglemente an dieses Gesetz;
-- 2\. den Generellen Entwässerungsplan.
+- 1\. die erforderlichen Anpassungen der Reglemente an dieses Gesetz
+- 2\. den Generellen Entwässerungsplan
 
 <sup>2</sup> Der Kanton kann diese Fristen auf begründetes Gesuch hin erstrecken.
 
