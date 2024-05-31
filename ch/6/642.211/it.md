@@ -4,11 +4,11 @@ title: "Ordinanza del 19 dicembre 1966 sull'imposta preventiva (OIPrev)"
 short: OIPrev
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: it
-version: 2023-09-01
+version: 2024-06-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/it"
 
 (OIPrev)[^t-1]
 
-del 19 dicembre 1966 (Stato 1° settembre 2023)
+del 19 dicembre 1966 (Stato 1° giugno 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -718,9 +718,9 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^41a-1]
 
-Le vincite in natura superiori a un milione di franchi risultanti dalla partecipazione a giochi in denaro devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore. L’articolo 41 capoverso 2 è applicabile per analogia.
+Le vincite in natura ai giochi in denaro imponibili secondo l’articolo 6 capoverso 1 LIP devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore. L’articolo 41 capoverso 2 è applicabile per analogia.
 
-[^41a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
 ### 2. Vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite
 
@@ -730,9 +730,9 @@ Le vincite in natura superiori a un milione di franchi risultanti dalla partecip
 
 [^41b-1]
 
-L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a lotterie e giochi di destrezza destinati a promuovere le vendite. Essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.
+L’imposta è calcolata sulle singole vincite in denaro a lotterie e giochi di destrezza destinati a promuovere le vendite imponibili secondo l’articolo 6 capoverso 2 LIP; essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.
 
-[^41b-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41b-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
 ### b. Vincite in natura
 
@@ -740,9 +740,9 @@ L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a
 
 [^41c-1]
 
-Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie destinati a promuovere le vendite devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore.
+Le vincite in natura a lotterie e giochi di destrezza destinati a promuovere le vendite imponibili secondo l’articolo 6 capoverso 2 LIP devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore.
 
-[^41c-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41c-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
 ### IV. Rimborso dell’imposta riscossa sui premi non ritirati
 

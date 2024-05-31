@@ -4,11 +4,11 @@ title: "Ordonnance du 19 décembre 1966 sur l'impôt anticipé (OIA)"
 short: OIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: fr
-version: 2023-09-01
+version: 2024-06-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/fr"
 
 (OIA)[^t-1]
 
-du 19 décembre 1966 (État le 1<sup>er</sup> septembre 2023)
+du 19 décembre 1966 (État le 1<sup>er</sup> juin 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -715,9 +715,9 @@ L’institut doit confirmer par écrit dans la déclaration:[^36-7]
 
 [^41a-1]
 
-Les gains en nature de plus d’un million de francs issus de la participation à des jeux d’argent doivent être déclarés spontanément sur formule officielle à l’AFC dans les 90 jours suivant l’obtention du résultat. Une attestation valable du domicile du gagnant doit être jointe à la déclaration. L’art. 41, al. 2, s’applique par analogie.
+Les gains en nature qui, provenant de jeux d’argent, sont imposables en vertu de l’art. 6, al. 1, LIA doivent être déclarés spontanément sur formule officielle à l’AFC dans les 90 jours suivant l’obtention du résultat. Une attestation valable du domicile du gagnant doit être jointe à la déclaration. L’art. 41, al. 2, s’applique par analogie.
 
-[^41a-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41a-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### 2. Gains provenant de jeux d’adresse et de loteries destinés à promouvoir les ventes
 
@@ -727,9 +727,9 @@ Les gains en nature de plus d’un million de francs issus de la participation �
 
 [^41b-1]
 
-L’impôt est calculé sur les gains en argent unitaires provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui dépassent 1000 francs; il doit être payé spontanément à l’AFC dans les trente jours après l’obtention du résultat, sur la base d’un relevé sur formule officielle.
+L’impôt est calculé sur les gains en argent unitaires qui, provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes, sont imposables en vertu de l’art. 6, al. 1, LIA; il doit être payé spontanément à l’AFC dans les trente jours après l’obtention du résultat, sur la base d’un relevé sur formule officielle.
 
-[^41b-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41b-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### b. Gains en nature
 
@@ -737,9 +737,9 @@ L’impôt est calculé sur les gains en argent unitaires provenant de jeux d’
 
 [^41c-1]
 
-Les gains en nature de plus de 1000 francs provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes doivent être déclarés spontanément sur formule officielle à l’AFC dans les 90 jours suivant l’obtention du résultat. Une attestation valable du domicile du gagnant doit être jointe à la déclaration.
+Les gains en nature qui, provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes, sont imposables en vertu de l’art. 6, al. 2, LIA doivent être déclarés spontanément sur formule officielle à l’AFC dans les 90 jours suivant l’obtention du résultat. Une attestation valable du domicile du gagnant doit être jointe à la déclaration.
 
-[^41c-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41c-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 7 nov. 2018 sur les jeux d’argent ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### IV. Remboursement de l’impôt perçu sur des lots non réclamés
 

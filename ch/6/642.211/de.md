@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Dezember 1966 über die Verrechnungssteuer (Verrechnu
 short: VStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: de
-version: 2023-09-01
+version: 2024-06-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230901/de"
 
 (Verrechnungssteuerverordnung, VStV)[^t-1]
 
-vom 19. Dezember 1966 (Stand am 1. September 2023)
+vom 19. Dezember 1966 (Stand am 1. Juni 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -709,9 +709,9 @@ Das Institut hat in der Erklärung schriftlich zu bestätigen, dass:[^36-7]
 
 [^41a-1]
 
-Die Meldung von Naturalgewinnen von über einer Million Franken aus der Teilnahme an Geldspielen ist auf amtlichem Formular innert 90 Tagen nach der Resultatermittlung unaufgefordert der ESTV einzureichen. Dem Formular ist eine gültige Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen. Artikel 41 Absatz 2 gilt sinngemäss.
+Die gemäss Artikel 6 Absatz 1 VStG steuerbaren Naturalgewinne aus Geldspielen sind auf amtlichem Formular innert 90 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu melden. Dem Formular ist eine gültige Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen. Artikel 41 Absatz 2 gilt sinngemäss.
 
-[^41a-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41a-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### 2. Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung
 
@@ -721,9 +721,9 @@ Die Meldung von Naturalgewinnen von über einer Million Franken aus der Teilnahm
 
 [^41b-1]
 
-Die Steuer ist auf den einzelnen Geldgewinnen von über 1000 Franken aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung zu berechnen; sie ist aufgrund der Abrechnung auf amtlichem Formular innert 30 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu entrichten.
+Die Steuer ist auf den einzelnen gemäss Artikel 6 Absatz 2 VStG steuerbaren Geldgewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung zu berechnen; sie ist aufgrund der Abrechnung auf amtlichem Formular innert 30 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu entrichten.
 
-[^41b-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41b-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### b. Naturalgewinne
 
@@ -731,9 +731,9 @@ Die Steuer ist auf den einzelnen Geldgewinnen von über 1000 Franken aus Lotteri
 
 [^41c-1]
 
-Die Meldung von Naturalgewinnen von über 1000 Franken aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung ist auf amtlichem Formular innert 90 Tagen nach der Resultatermittlung unaufgefordert der ESTV einzureichen. Dem Formular ist eine gültige Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen.
+Die gemäss Artikel 6 Absatz 2 VStG steuerbaren Naturalgewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung sind auf amtlichem Formular innert 90 Tagen nach der Resultatermittlung unaufgefordert der ESTV zu melden. Dem Formular ist eine gültige Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen.
 
-[^41c-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41c-1]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldspielverordnung vom 7. Nov. 2018 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 161](https://fedlex.data.admin.ch/eli/oc/2024/161)).
 
 ### IV. Rückforderung der Steuer auf nicht bezogenen Gewinnen
 
