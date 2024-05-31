@@ -4,27 +4,29 @@ number: "631.51"
 title: Verordnung über die Organisation des kantonalen Steueramtes (OV KStA)
 short: OV KStA
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2024-06-01
+nachtrag: "125"
 adopted: 2024-03-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_51-2008_12_17-2009_02_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_51-2024_03_27-2024_06_01-125.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Organisation des kantonalen Steueramtes
+# Verordnung über die Organisation des kantonalen Steueramtes (OV KStA)
 
-(vom 17. Dezember 2008)<sup>1</sup>
+(vom 27. März 2024)[^t-1],[^t-2]
 
 Der Regierungsrat,
 
-gestützt auf § 106 Abs. 2 des Steuergesetzes vom 8. Juni 1997 (StG)<sup>2</sup>,<sup>8</sup>
+gestützt auf § 106 Abs. 2 des Steuergesetzes vom 8. Juni 1997 (StG)[^t-3],
 
 beschliesst:
 
-### A. Auftrag und Gliederung
+[^t-1]: OS 79, 177; Begründung siehe ABl 2024-04-12.
+[^t-2]: Inkrafttreten: 1. Juni 2024.
+[^t-3]: LS 631.1.
+
+### A. Auftrag, Gliederung und Leitung
 
 #### § 1
 
@@ -32,119 +34,103 @@ beschliesst:
 
 Das kantonale Steueramt vollzieht die kantonalen und eidgenössischen Steuergesetze.
 
+#### § 2
+
 **Gliederung**
 
-§ 2.<sup>8</sup> Das Steueramt ist wie folgt gegliedert:
+Das Steueramt ist wie folgt gegliedert:
 
-- a. Bereich Finanzen,
+- a. Bereich Unternehmensentwicklung und Gemeinden,
 
-- b. Bereich Produktion,
+- b. Bereich Privatpersonen,
 
-- c. Bereich Logistik,
+- c. Bereich Unternehmen,
 
 - d. Bereich Recht und Gesetzgebung,
 
-- e. Bereich Gemeinden,
+- e. Bereich Ressourcen,
 
-- f. Management Support und Stab,
-
-- g. Interne Revision.
+- f. Stab.
 
 #### § 3
 
 **Leitung**
 
-<sup>1</sup> Das Amt steht unter der Leitung der Chefin oder des Chefs des Steueramtes, welche oder welcher die Verantwortung für die Geschäftsführung trägt.
+Das Amt steht unter der Leitung der Chefin oder des Chefs des Steueramtes.
 
-<sup>2</sup> . . .<sup>9</sup>
-
-### B. Geschäftsleitung und Kommission Rechtsetzung
+### B. Geschäftsleitung und Audit Committee
 
 #### § 4
 
 **Geschäftsleitung**
 
-<sup>1</sup> Die Chefin oder der Chef des Steueramtes und die folgenden Direktunterstellten bilden die Geschäftsleitung des Steueramtes:<sup>8</sup> a. die Chefin oder der Chef des Bereichs Finanzen,
-
-- b. die Chefin oder der Chef des Bereichs Produktion,
-
-- c. die Chefin oder der Chef des Bereichs Logistik,
-
-- d. die Chefin oder der Chef des Bereichs Recht und Gesetzgebung,
-
-- e. die Chefin oder der Chef des Bereichs Gemeinden,
-
-**1**
-
-- 1\. 1. 21 - 111
-
-- f. die Stabschefin oder der Stabschef,
-
-- g. die Konsulentin oder der Konsulent Unternehmenssteuern.
+<sup>1</sup> Die Chefin oder der Chef des Steueramtes und die direktunterstellten Bereichsleitenden gemäss § 2 sowie die Leiterin oder der Leiter des Stabs bilden die Geschäftsleitung des Steueramtes.
 
 <sup>2</sup> Die Geschäftsleitung unterstützt die Chefin oder den Chef des Steueramtes bei der Geschäftsführung des Steueramtes.
 
 #### § 5
 
-**Kommission Rechtsetzung**
+**Audit Committee**
 
-<sup>1</sup> Die Kommission Rechtsetzung wird gebildet durch<sup>5</sup> a. die Chefin oder den Chef des Steueramtes,
+Das Audit Committee erfüllt überwachende Aufgaben im Risikobereich und der Berichterstattung. Es wird dabei von der internen Revision unterstützt.
 
-- b. die stellvertretende Chefin oder den stellvertretenden Chef des Steueramtes,
+**1**
 
-- c. die Chefin oder den Chef des Bereichs Produktion,
+- 1\. 7. 24 - 125 § 6. Die interne Revision beaufsichtigt die Aufgabenerfüllung des Steueramtes.
 
-- d. die Chefin oder den Chef des Bereichs Recht und Gesetzgebung,
-
-- e. die Konsulentin oder den Konsulenten Unternehmenssteuern.
-
-<sup>2</sup> Die Kommission Rechtsetzung berät die Chefin oder den Chef des Steueramtes bei grundlegenden Praxisfestlegungen sowie bei Gesetzesvorlagen und parlamentarischen Geschäften.
+**Interne Revision**
 
 ### C. Zuständigkeiten
 
-**Bereich Finanzen a. Dienstabteilung Rechnungswesen und Controlling**
+#### § 7
 
-§ 6.<sup>8</sup> Die Dienstabteilung Rechnungswesen und Controlling nimmt die Steuerteilung für die vom Kanton bezogenen Steuern vor.
+**Bereich Unternehmensentwicklung und Gemeinden a. Digital Services**
 
-**b. Dienstabteilung Inkasso**
+Die Abteilung Digital Services gewährleistet den fachlichen Betrieb und die Weiterentwicklung der Fachapplikationen des Steueramtes.
 
-§ 7.<sup>5</sup> Die Dienstabteilung Inkasso erfüllt folgende Aufgaben:
+#### § 8
 
-- a. Eröffnung von Steuerveranlagungen der direkten Bundessteuer,
+**b. Gemeinden**
 
-- b. Bezug der direkten Bundessteuer und von allen weiteren Steuern, für deren Bezug das kantonale Steueramt zuständig ist,
+Die Abteilung Gemeinden erfüllt folgende Aufgaben:
 
-- c. Bezug von Bussen wegen Steuerhinterziehung und Verletzung von Verfahrenspflichten sowie von Verfahrenskosten,
+- a. Aufsicht über die Gemeindesteuerämter gemäss § 110 StG,
 
-- d. Vertretung des Kantons in Inkassoverfahren, unter Vorbehalt von § 8 lit. a,
+- b. Durchführung von Gemeindesteuerausscheidungen,
 
-- e. Meldung der Daten für den Ressourcenausgleich des NFA.
+- c. Entscheid über Einsprachen hinsichtlich der Gemeindesteuerausscheidungen.
 
-§ 7 a.<sup>6</sup>
+#### § 9
 
-**c. Gruppe Bezugsdienste**
+**c. Register**
 
-§ 8.<sup>8</sup> Die Gruppe Bezugsdienste erfüllt folgende Aufgaben:
+Die Abteilung Register erfüllt folgende Aufgaben:
 
-- a. Vertretung des Kantons in zugewiesenen Inkassoverfahren,
+- a. Führung des zentralen kantonalen Steuerregisters und des Treuhandregisters, einschliesslich Sicherstellung der Datenkonsistenz im Austausch zwischen Kanton und Gemeinden und den verschiedenen IT-Applikationen,
 
-- b. Durchführung von Sicherungsmassnahmen für die vom Kanton bezogenen Steuern,
+- b. Durchführung des Steuererklärungsverfahrens für juristische Personen,
 
-- c. Festsetzung von Bussen wegen Verletzung von Verfahrenspflichten gemäss § 234 StG,
+- c. Erfassung und Verteilung der ein- und ausgehenden Rechtsmittel.
 
-- d. Entscheid über Rekurse hinsichtlich des Bezugs der Staats- und Gemeindesteuern,
+#### § 10
 
-- e. Entscheid über den Steuererlass hinsichtlich der vom Kanton bezogenen Steuern,
+**Bereich Privatpersonen a. Zürich Nord, Zürich Süd und Zürich City**
 
-- f. Entscheid über von Steuerpflichtigen erhobene Rekurse hinsichtlich des Erlasses der vom Kanton und von den Gemeinden bezogenen Steuern sowie Erhebung von Rekursen gegen Erlassentscheide der Gemeinden,
+Die Abteilungen Zürich Nord, Zürich Süd und Zürich City erfüllen folgende Aufgaben:
 
-- g. Entscheid über Einsprachen hinsichtlich der Bussen wegen Verletzung von Verfahrenspflichten und des Bezugs der vom Kanton bezogenen Steuern,
+- a. Einschätzung der ihnen zugeteilten Steuerpflichtigen für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-- h. Erlass von Haftungsverfügungen hinsichtlich der vom Kanton bezogenen Steuern.
+- b. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-**d. Division Quellensteuer**
+- c. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer,
 
-§ 9.<sup>8</sup> Die Division Quellensteuer erfüllt folgende Aufgaben:
+- d. Bezeichnung des Einschätzungsortes für die Staatssteuer.
+
+#### § 11
+
+**b. Quellensteuer**
+
+Die Abteilung Quellensteuer erfüllt folgende Aufgaben:
 
 - a. Vollzug der Bestimmungen über die Quellensteuern mit Ausnahme des Steuerbezugs,
 
@@ -154,172 +140,194 @@ Das kantonale Steueramt vollzieht die kantonalen und eidgenössischen Steuergese
 
 - d. Einschätzung der nachträglich ordentlich zu veranlagenden Steuerpflichtigen für die Staats- und Gemeindesteuern sowie die direkte Bundessteuer,
 
-- e. Entscheid über die Einsprachen gegen Einschätzungen zur nachträglichen ordentlichen Veranlagung,
+- e. Entscheid über Einsprachen gegen Einschätzungen zur nachträglichen ordentlichen Veranlagung,
 
-- f. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Quellensteuern und hinsichtlich Einschätzungen zur nachträglichen ordentlichen Veranlagung.
+- f. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Quellensteuern und hinsichtlich Einschätzungen zur nachträglichen ordentlichen Veranlagung,
 
-#### § 10
-
-**Bereich Produktion a. Divisionen Nord, Süd, Stadt Zürich, Bau, Dienstleistungen und Konsum**
-
-<sup>1</sup> Die Divisionen Nord, Süd, Stadt Zürich, Bau, Dienstleistungen und Konsum erfüllen folgende Aufgaben:
-
-- a. Einschätzung der ihnen zugeteilten Steuerpflichtigen für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
-
-- b. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer, c.<sup>4</sup> Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer.
-
-**3**
-
-- 1\. 1. 21 - 111
-
-<sup>2</sup> Die Ausarbeitung von Meldungen an die Ausgleichskassen obliegt der Division Bau.<sup>7</sup>
-
-**b. Division Bücherrevision**
-
-§ 11. Die Division Bücherrevision erfüllt folgende Aufgaben:
-
-- a. Durchführung von Buchprüfungen im Einschätzungsverfahren,
-
-- b. Einschätzung der von den Divisionen zugewiesenen Steuerpflichtigen für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
-
-- c. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer, d.<sup>4</sup> Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer.
+- g. Bezeichnung des Einschätzungsortes für die Staatssteuer.
 
 #### § 12
 
-**c. Dienstabteilung Wertschriften**
+**c. Nachlass**
 
-Die Dienstabteilung Wertschriften erfüllt folgende Aufgaben:
+Die Abteilung Nachlass erfüllt folgende Aufgaben:
+
+- a. Vertretung des Kantons bei der Inventarisation und Prüfung der Inventare der Gemeindebehörden,
+
+- b. Einschätzung von verstorbenen Steuerpflichtigen und von deren Ehegattinnen oder Ehegatten sowie von Erbengemeinschaften für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
+
+- c. Einschätzung der ergänzenden Vermögenssteuer bei mehreren Steuerpflichtigen,
+
+- d. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
+
+- e. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer,
+
+- f. Vollzug des Erbschafts- und Schenkungssteuergesetzes vom 28. September 1986[^12-1] für die Finanzdirektion,
+
+- g. Entscheid über Einsprachen gegen Erbschafts- und Schenkungssteuern,
+
+- h. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Erbschafts- und Schenkungssteuern,
+
+- i. Bezeichnung des Einschätzungsortes für die Staatssteuer.
+
+[^12-1]: LS 632.1.
+
+#### § 13
+
+**d. Wertschriften**
+
+Die Abteilung Wertschriften erfüllt folgende Aufgaben:
 
 - a. Bewertung nicht kotierter Wertpapiere,
 
-- b. Ermittlung der Erträge und Steuerwerte von Wertpapieren sowie die Berechnung des Verrechnungssteueranspruchs in den zugewiesenen Fällen,
+- b. Ermittlung der Erträge und Steuerwerte von Wertpapieren sowie Berechnung des Verrechnungssteueranspruchs in den zugewiesenen Fällen,
 
-- c. Rückerstattung vom Bund erhobener Steuern auf Erträgnissen amerikanischer Wertpapiere (Steuerrückbehalt USA),
+**3**
+
+- 1\. 7. 24 - 125
+
+- c. Rückerstattung der vom Bund erhobenen Steuern auf Erträgnissen amerikanischer Wertpapiere (Steuerrückbehalt USA),
 
 - d. Entscheid über die Anrechnung von auf Kapitalerträgen oder Lizenzen erhobenen ausländischen Steuern,
 
 - e. Beurteilung von Mitarbeiterbeteiligungsplänen und -reglementen.
 
-**d. Dienstabteilung Inventarkontrolle und Erbschaftssteuer**
+#### § 14
 
-§ 13.<sup>8</sup> Die Dienstabteilung Inventarkontrolle und Erbschaftssteuer erfüllt folgende Aufgaben:
+**Bereich Unternehmen a. Bau, Dienstleistungen und Konsum**
 
-- a. Vertretung des Kantons bei der Inventarisation und die Prüfung der Inventare der Gemeindebehörden,
+<sup>1</sup> Die Abteilungen Bau, Dienstleistungen und Konsum erfüllen folgende Aufgaben:
 
-- b. Einschätzung von verstorbenen Steuerpflichtigen und deren Ehegatten sowie von Erbengemeinschaften für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
+- a. Einschätzung der ihnen zugeteilten Steuerpflichtigen für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-- c. Einschätzung der ergänzenden Vermögenssteuer bei mehreren Steuerpflichtigen,
+- b. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-- d. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer, e.<sup>4</sup> Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer,
+- c. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer,
 
-- f. Durchführung von Gemeindesteuerausscheidungen,
+- d. Bezeichnung des Einschätzungsortes für die Staatssteuer.
 
-- g. Entscheid über Einsprachen hinsichtlich der Gemeindesteuerausscheidungen,
+<sup>2</sup> Die Ausarbeitung von Meldungen an die Ausgleichskassen obliegt der Abteilung Bau.
 
-- h. Bezeichnung des Einschätzungsortes für die Staatssteuer in Streitfällen,
+#### § 15
 
-- i. Vollzug des Erbschafts- und Schenkungssteuergesetzes für die Finanzdirektion,
+**b. Bücherrevision**
 
-- j. Entscheid über Einsprachen gegen Erbschafts- und Schenkungssteuern,
+Die Abteilung Bücherrevision erfüllt folgende Aufgaben:
 
-- k. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Erbschafts- und Schenkungssteuern.
+- a. Durchführung von Buchprüfungen im Einschätzungsverfahren und im Quellensteuerverfahren,
 
-**Bereich Logistik a. Dienstabteilung Akten- und Datenpflege8**
+- b. Einschätzung der von den Abteilungen zugewiesenen Steuerpflichtigen für Staats- und Gemeindesteuern und direkte Bundessteuer sowie Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-§ 14.<sup>10</sup> Die Dienstabteilung Akten- und Datenpflege erfüllt folgende Aufgaben:
+- c. Entscheid über Einsprachen gegen die Einschätzung und die Festsetzung des Rückerstattungsanspruchs bei der Verrechnungssteuer,
 
-- a. Bewirtschaftung der Steuerakten sowohl in Papierform als auch in elektronischer Form,
+- d. Vertretung des Kantons in Rechtsmittelverfahren vor dem Steuerrekursgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer,
 
-- b. Durchführung des Steuererklärungsverfahrens für juristische Personen,
+- e. Bezeichnung des Einschätzungsortes für die Staatssteuer.
 
-- c. Verarbeitung von eingehenden Informationen und Meldungen,
+#### § 16
 
-- d. Scanning von Steuerdokumenten,
+**Bereich Recht und Gesetzgebung a. Rechtsdienst**
 
-- e. Führung des zentralen kantonalen Steuerregisters sowie des Treuhandregisters, einschliesslich Sicherstellung der Datenkonsistenz im Austausch zwischen Kanton und Gemeinden und den verschiedenen IT-Applikationen,
-
-- f. Erfassung und Verteilung der ein- und ausgehenden Rechtsmittel,
-
-- g. Führung der Telefonzentrale und des Postdienstes,
-
-- h. Ausstellung von Wohnsitzbestätigungen.
-
-§§ 14 a und 14 b.<sup>9</sup>
-
-**b. Fachapplikationen**
-
-§ 15.<sup>7</sup> Der Bereich Logistik ist für den Betrieb und die Weiterentwicklung der Fachapplikationen des Steueramtes einschliesslich Steuerregister gemäss § 109 b StG zuständig.
-
-**Bereich Recht und Gesetzgebung a. Dienstabteilung Recht**
-
-§ 16.<sup>8</sup> Die Dienstabteilung Recht erfüllt folgende Aufgaben:
+Die Abteilung Rechtsdienst erfüllt folgende Aufgaben:
 
 - a. Entscheid über Steuerbefreiungen,
 
-- b. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Steuerbefreiung,
+- b. Entscheid über Einsprachen hinsichtlich der Steuerbefreiungen,
 
-- c. Durchführung von Verständigungsverfahren zur Vermeidung interkantonaler und internationaler Doppelbesteuerung, soweit das Steueramt dafür zuständig ist,
+- c. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Steuerbefreiungen,
 
-**5**
+- d. Durchführung von Verständigungsverfahren zur Vermeidung interkantonaler und internationaler Doppelbesteuerung, soweit das Steueramt dafür zuständig ist,
 
-- 1\. 1. 21 - 111
+- e. Vertretung des Kantons in Beschwerdeverfahren vor Verwaltungsgericht und Bundesgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer, vorbehältlich §§ 12 lit. h und 17 lit. c,
 
-- d. Vertretung des Kantons in Beschwerdeverfahren vor Verwaltungsgericht und Bundesgericht hinsichtlich der Staats- und Gemeindesteuern, der direkten Bundessteuer und der Verrechnungssteuer, vorbehältlich §§ 13 lit. k und 17 lit. b,
+- f. Vertretung des Steueramtes in Aufsichtsbeschwerdeverfahren gegen das Steueramt und Entscheid über Aufsichtsbeschwerden gegen Gemeindesteuerämter,
 
-- e. Vertretung des Steueramtes in Aufsichtsbeschwerdeverfahren gegen das kantonale Steueramt und Entscheid über Aufsichtsbeschwerden gegen Gemeindesteuerämter,
+- g. Entscheid über Gesuche um Akteneinsicht und Aktenherausgabe sowie Vorbereitung des Entscheids über die Entbindung vom Amtsgeheimnis,
 
-- f. Entscheid über Gesuche um Akteneinsicht und Aktenherausgabe sowie Vorbereitung des Entscheids über die Entbindung vom Amtsgeheimnis,
+- h. Entscheid über Rekurse betreffend Ausstellung von Steuerausweisen,
 
-- g. Entscheid über Rekurse betreffend Ausstellung von Steuerausweisen,
+- i. Koordination oder Durchführung der dem Steueramt aufgrund des Bundesgesetzes vom 28. September 2012 über die internationale Amtshilfe in Steuersachen[^16-1] obliegenden Aufgaben.
 
-- h. Koordination oder Durchführung der dem Steueramt aufgrund des Bundesgesetzes über die internationale Amtshilfe in Steuersachen<sup>3</sup> obliegenden Aufgaben.
+[^16-1]: SR 651.1. 1. 7. 24 - 125 7
 
 #### § 17
 
-**b. Dienstabteilung Spezialdienste**
+**b. Spezialdienst**
 
-Die Dienstabteilung Spezialdienste erfüllt folgende Aufgaben:
+Die Abteilung Spezialdienst erfüllt folgende Aufgaben:
 
 - a. Untersuchung und Entscheid in Nachsteuer- und Steuerhinterziehungsverfahren hinsichtlich der Staats- und Gemeindesteuern und der direkten Bundessteuer,
 
-- b. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Nachsteuern und der Steuerhinterziehung, c.<sup>5</sup> Einreichen von Strafanzeigen an die Strafuntersuchungsbehörden in Fällen von Steuerbetrug und Veruntreuung von Quellensteuern und Vertretung des Kantons vor Strafuntersuchungsbehörden und Gerichten.
+- b. Entscheid über Einsprachen hinsichtlich der Nachsteuern und der Steuerhinterziehung,
 
-**Aufsicht über die Gemeindesteuerämter**
+- c. Vertretung des Kantons in Rechtsmittelverfahren hinsichtlich der Nachsteuern und der Steuerhinterziehung,
 
-§ 18.<sup>8</sup> Der Bereich Gemeinden und die interne Revision erfüllen Aufgaben im Rahmen der Aufsicht der Finanzdirektion über die Gemeindesteuerämter gemäss § 110 StG.
+- d. Einreichung von Strafanzeigen an die Strafuntersuchungsbehörden in Fällen von Steuerbetrug und Veruntreuung von Quellensteuern und Vertretung des Kantons vor Strafuntersuchungsbehörden und Gerichten.
+
+#### § 18
+
+**c. Bezugsdienst**
+
+Die Abteilung Bezugsdienst erfüllt folgende Aufgaben:
+
+- a. Vertretung des Kantons in zugewiesenen Inkassoverfahren,
+
+- b. Durchführung von Sicherungsmassnahmen und Arrestverfahren für die vom Kanton bezogenen Steuern,
+
+- c. Festsetzung von Bussen wegen Verletzung von Verfahrenspflichten gemäss § 234 StG,
+
+**5**
+
+- 1\. 7. 24 - 125
+
+- d. Entscheid über Rekurse hinsichtlich des Bezugs der Staats- und Gemeindesteuern,
+
+- e. Entscheid über den Steuererlass und -nachlass hinsichtlich der vom Kanton bezogenen Steuern,
+
+- f. Entscheid über von Steuerpflichtigen erhobene Rekurse hinsichtlich des Erlasses der vom Kanton und von den Gemeinden bezogenen Steuern sowie Erhebung von Rekursen gegen Erlassentscheide der Gemeinden,
+
+- g. Entscheid über Einsprachen hinsichtlich der Bussen wegen Verletzung von Verfahrenspflichten und des Bezugs der vom Kanton bezogenen Steuern,
+
+- h. Erlass von Haftungsverfügungen hinsichtlich der vom Kanton bezogenen Steuern.
+
+#### § 19
+
+**Bereich Ressourcen a. Rechnungswesen und Controlling**
+
+Die Abteilung Rechnungswesen und Controlling nimmt die Steuerteilung für die vom Kanton bezogenen Steuern vor.
+
+#### § 20
+
+**b. Steuerbezug**
+
+Die Abteilung Steuerbezug erfüllt folgende Aufgaben:
+
+- a. Eröffnung von Steuerveranlagungen der direkten Bundessteuer,
+
+- b. Bezug der direkten Bundessteuer und von allen weiteren Steuern, für deren Bezug das Steueramt zuständig ist,
+
+- c. Bezug von Bussen wegen Steuerhinterziehung und Verletzung von Verfahrenspflichten sowie von Verfahrenskosten,
+
+- d. Vertretung des Kantons in Inkassoverfahren, unter Vorbehalt von § 18 lit. a,
+
+- e. Meldung der Daten für den Ressourcenausgleich des nationalen Finanzausgleichs.
+
+#### § 21
+
+**c. Services**
+
+Die Abteilung Services stellt Wohnsitzbestätigungen aus.
+
+#### § 22
 
 **Weitere Aufgaben und Organisation**
 
-§ 19.<sup>8</sup> Weitere Aufgaben und die Organisation der Bereiche und Organisationseinheiten des Steueramtes regelt das Organisationsreglement des Steueramtes.
+Weitere Aufgaben und die Organisation der Bereiche und Organisationseinheiten des Steueramtes regelt das Organisationsreglement des Steueramtes.
 
-### D. Schlussbestimmungen
+### D. Schlussbestimmung
+
+#### § 23
 
 **Finanzdirektion**
 
-§ 20.<sup>10</sup> Die Finanzdirektion kann Aufgaben und Befugnisse der einzelnen Organisationseinheiten des Steueramtes näher umschreiben und ihnen besondere Aufgaben oder neue Geschäfte zuweisen. § 21.<sup>10</sup> Diese Verordnung tritt am 1. Februar 2009 in Kraft.
-
-**Inkrafttreten**
-
-<sup>1</sup> OS 64, 16; Begründung siehe ABl 2009, 46.
-
-<sup>2</sup> LS 631.1.
-
-<sup>3</sup> SR 651.1.
-
-<sup>4</sup> Fassung gemäss RRB vom 28. August 2013 (OS 68, 379; ABl 2013-09-13). In Kraft seit 1. Januar 2014.
-
-<sup>5</sup> Fassung gemäss RRB vom 24. August 2016 (OS 71, 387; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-
-<sup>6</sup> Aufgehoben durch RRB vom 24. August 2016 (OS 71, 387; ABl 2016-09-09). In Kraft seit 1. Oktober 2016.
-
-<sup>7</sup> Eingefügt durch RRB vom 18. November 2020 (OS 75, 620; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
-
-<sup>8</sup> Fassung gemäss RRB vom 18. November 2020 (OS 75, 620; ABl 2020-11-20). In Kraft seit 1. Januar 2021.
-
-<sup>9</sup> Aufgehoben durch RRB vom 18. November 2020 (OS 75, 620; ABl 2020-11- 20). In Kraft seit 1. Januar 2021.
-
-<sup>10</sup> Nummerierung gemäss RRB vom 18. November 2020 (OS 75, 620; ABl 2020- 11-20). In Kraft seit 1. Januar 2021.
-
-**7**
-
-- 1\. 1. 21 - 111
+Die Finanzdirektion kann Aufgaben und Befugnisse der einzelnen Organisationseinheiten des Steueramtes näher umschreiben und ihnen besondere Aufgaben oder neue Geschäfte zuweisen.
