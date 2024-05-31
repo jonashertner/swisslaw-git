@@ -4,11 +4,11 @@ number: "730.1"
 title: Energiegesetz (EnerG)
 short: EnerG
 language: de
-version: "2023-10-01"
-nachtrag: "122"
-valid_until: 2024-06-01
+version: "2024-06-01"
+nachtrag: "125"
+valid_until: 2025-07-01
 adopted: 1983-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-125.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ I. Allgemeines
 
 **1**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 [^3-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 
@@ -115,7 +115,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 [^5-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 [^5-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^5-3]: Eingefügt durch G vom 5. Dezember 2022 (OS 78, 376; ABl 2022-07-08). In Kraft seit 1. Oktober 2023. 1.10. 23 - 122 13
+[^5-3]: Eingefügt durch G vom 5. Dezember 2022 (OS 78, 376; ABl 2022-07-08). In Kraft seit 1. Oktober 2023.
 [^5-4]: Aufgehoben durch G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 [^5-5]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
 
@@ -151,7 +151,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **3**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Ein Netzbetreiber ist verpflichtet, sämtliche Endverbraucher seines Gebiets anzuschliessen, ausgenommen diejenigen Endverbraucher, die von ihrem Anschlussrecht keinen Gebrauch machen wollen. Befindet sich der Endverbraucher ausserhalb der Bauzone, dürfen ihm höchstens die tatsächlich verursachten Anschlusskosten auferlegt werden. Im Streitfall entscheidet der Netzbetreiber mit Verfügung.
 
@@ -228,7 +228,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **5**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 <sup>2</sup> Werden Wärmeerzeuger in bestehenden Bauten ersetzt, müssen ausschliesslich erneuerbare Energien eingesetzt werden, wenn dies a. technisch möglich ist und b. die Lebenszykluskosten um höchstens 5% erhöht.
 
@@ -286,7 +286,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **7**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 <sup>4</sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
 
@@ -367,21 +367,26 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **Gemeinden9**
 
-Die Gemeinden fördern die Information und die Beratung in Energiefragen.
+<sup>1</sup> Die Gemeinden fördern die Information und die Beratung in Energiefragen.
 
-**Kanton16**
+<sup>2</sup> Sie können kommunale Fonds schaffen zur Förderung[^15-1] a. der rationellen Energienutzung,
 
-§ 16.[^15-1] <sup>1</sup> Der Kanton kann die Energieplanung, Massnahmen und Pilotprojekte zur rationellen Energienutzung und zur Nutzung von Abwärme und erneuerbaren Energien, die Ausarbeitung von Unterlagen für die Energieversorgung sowie die Information, die Beratung und die berufliche Weiterbildung auf den Gebieten der Energieversorgung und -nutzung fördern.
+- b. der Energiespeicherung,
+
+- c. der Nutzung von regionaler Abwärme und regionalen erneuerbaren Energien.
 
 **9**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125 § 16.[^15-2] <sup>1</sup> Der Kanton kann die Energieplanung, Massnahmen und Pilotprojekte zur rationellen Energienutzung und zur Nutzung von Abwärme und erneuerbaren Energien, die Ausarbeitung von Unterlagen für die Energieversorgung sowie die Information, die Beratung und die berufliche Weiterbildung auf den Gebieten der Energieversorgung und -nutzung fördern.
+
+**Kanton16**
 
 <sup>2</sup> Der Kantonsrat bewilligt mindestens alle vier Jahre einen Rahmenkredit, aus dem der Regierungsrat oder die Direktion Subventionen gemäss Abs. 1 gewährt.
 
 <sup>3</sup> Aus den Globalbeiträgen des Bundes aus der Teilzweckbindung der CO2-Abgabe zur Verminderung der CO2-Emissionen und der Verbesserung der Energieeffizienz bei Gebäuden können Subventionen gewährt werden.
 
-[^15-1]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
+[^15-1]: Eingefügt durch G vom 23. Oktober 2023 (OS 79, 189; ABl 2023-04-28). In Kraft seit 1. Juni 2024. 1. 7. 24 - 125 13
+[^15-2]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 
 ### IV. Schlussbestimmungen
 
@@ -468,7 +473,7 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 **11**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 ### Übergangsbestimmung zur Änderung vom 26. Oktober 2020
 
