@@ -4,11 +4,11 @@ title: "Ordinanza del 25 gennaio 2023 sulla costituzione di una riserva di energ
 short: OREI
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: it
-version: 2024-02-01
+version: 2024-06-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/it"
 
 (Ordinanza sulla riserva invernale, OREI)
 
-del 25 gennaio 2023 (Stato 1° febbraio 2024)
+del 25 gennaio 2023 (Stato 1° giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -96,11 +96,9 @@ La ElCom può disporre l’organizzazione di ulteriori bandi pubblici per:
 
 #### Art. 4
 
-**Obbligo di partecipazione**
+[^4-1]
 
-<sup>1</sup> Se si prevede che un ulteriore bando pubblico non permetta di costituire la riserva idroelettrica con la quantità di energia necessaria mediante un compenso adeguato, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) può, d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR), obbligare i gestori delle centrali idonee a partecipare alla riserva con una determinata quantità di energia. La ElCom può richiedere l’imposizione di tale obbligo.
-
-<sup>2</sup> Su raccomandazione della ElCom, il DATEC stabilisce il compenso corrisposto ai gestori in questione per il mantenimento della riserva.
+[^4-1]: In vigore fino al 31 mag. 2024 (vedi art. 30 cpv. 3).
 
 #### Art. 5
 
@@ -155,7 +153,7 @@ D’intesa con la ElCom, il DATEC può:
 
 - a. aumentare la potenza di 1000 MW, se si prospetta un fabbisogno più elevato;
 - b. stabilire la priorità e l’entità con cui gli impianti di cui al capoverso 2 sono integrati nella riserva complementare;
-- c.[^6-1] ordinare alla società di rete di svolgere bandi pubblici per gruppi elettrogeni di emergenza e impianti di cogenerazione (art. 14 cpv. 2).
+- c.[^6-1] ordinare alla società di rete di svolgere bandi pubblici per gruppi elettrogeni di emergenza e impianti di cogenerazione (art. 14 cpv. 2). .
 
 <sup>4</sup> La partecipazione alla riserva complementare dura al massimo fino al 31 maggio 2026. È fatta salva un’eventuale proroga della partecipazione a seguito di disposizioni successive alla presente ordinanza.
 
@@ -210,9 +208,9 @@ Per l’aggiudicazione sono considerati in particolare i seguenti criteri:
 
 #### Art. 9
 
-**Obbligo di partecipazione**
+[^9-1]
 
-Qualora la riserva complementare non possa essere costituita con la potenza necessaria e con un compenso adeguato, il DATEC, d’intesa con il DEFR, può obbligare i gestori o i proprietari delle centrali elettriche di riserva idonee o le aziende che dispongono di una simile centrale e sono in possesso delle necessarie competenze a partecipare alla riserva con una determinata potenza elettrica. La ElCom può richiedere l’imposizione di tale obbligo.
+[^9-1]: In vigore fino al 31 mag. 2024 (vedi art. 30 cpv. 3).
 
 #### Art. 10
 
@@ -291,9 +289,11 @@ Nel caso le tariffe per l’utilizzo delle condotte di trasporto dei vettori ene
 
 <sup>2</sup> Per raggiungere la potenza di cui all’articolo 6 capoverso 1 possono essere integrati nella riserva complementare ulteriori gestori di gruppi elettrogeni di emergenza e dal 1° gennaio 2024 anche i gestori di impianti di cogenerazione. La società di rete svolge i bandi pubblici necessari a tal fine.
 
-<sup>3</sup> Se si prevede che un ulteriore bando pubblico non permetta di costituire la riserva complementare con la potenza necessaria mediante un compenso adeguato, il DATEC, d’intesa con il DEFR, può obbligare i gestori di gruppi elettrogeni di emergenza o di impianti di cogenerazione idonei a partecipare alla riserva; se del caso, tale obbligo è impartito contemporaneamente a un aggregatore idoneo. La ElCom può richiedere l’imposizione di tale obbligo.
+<sup>3</sup> ... [^14-1]
 
 <sup>4</sup> Questo obbligo non può essere impartito per i gruppi elettrogeni di emergenza che appartengono a infrastrutture militari o critiche di altro tipo.
+
+[^14-1]: In vigore fino al 31 mag. 2024 (vedi art. 30 cpv. 3).
 
 #### Art. 15
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 25 janvier 2023 sur l’instauration d’une réserve d’
 short: OIRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: fr
-version: 2024-02-01
+version: 2024-06-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/fr"
 
 (Ordonnance sur une réserve d’hiver, OIRH)
 
-du 25 janvier 2023 (État le 1<sup>er</sup> février 2024)
+du 25 janvier 2023 (Etat le 1<sup>er</sup> juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -96,11 +96,9 @@ L’ElCom peut ordonner des appels d’offres supplémentaires pour:
 
 #### Art. 4
 
-**Obligation de participation**
+[^4-1]
 
-<sup>1</sup> S’il est à prévoir qu’un appel d’offres supplémentaire ne permettra pas de constituer la réserve hydroélectrique avec la quantité d’énergie nécessaire et des rémunérations dont le montant est approprié, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) peut, en concertation avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR), obliger les exploitants de centrales qui s’y prêtent à participer à la réserve avec une certaine quantité d’énergie. L’ElCom peut demander que ces obligations soient imposées.
-
-<sup>2</sup> Le DETEC fixe, sur recommandation de l’ElCom, la rémunération pour la conservation que reçoivent les exploitants concernés.
+[^4-1]: En vigueur jusqu’au 31 mai 2024 (voir art. 30, al. 3).
 
 #### Art. 5
 
@@ -210,9 +208,9 @@ Les critères suivants sont notamment pris en compte pour l’adjudication:
 
 #### Art. 9
 
-**Obligation de participation**
+[^9-1]
 
-Si la réserve complémentaire ne peut pas être constituée avec la puissance nécessaire et des rémunérations dont le montant est approprié, le DETEC peut, en accord avec le DEFR, obliger les exploitants ou les propriétaires de centrales de réserve qui s’y prêtent ou des entreprises qui disposent d’une telle centrale et qui sont aptes à l’exploiter à participer à la réserve à hauteur d’une certaine puissance. L’ElCom peut demander que ces obligations soient imposées.
+[^9-1]: En vigueur jusqu’au 31 mai 2024 (voir art. 30, al. 3).
 
 #### Art. 10
 
@@ -244,8 +242,6 @@ Le contrat doit en particulier préciser:
 **Restrictions d’exploitation et exigences opérationnelles concernant les centrales de réserve**
 
 <sup>1</sup> Les centrales de réserve sont utilisées exclusivement pour la réserve complémentaire et ne doivent pas produire d’électricité pour le marché.
-
-<sup>2</sup> En dehors de la période de disponibilité, les exploitants sont autorisés à fournir des services-système avec ces centrales dans la mesure où ils respectent les valeurs limites d’émission et les prescriptions cantonales. La période de disponibilité dure du 1<sup>er</sup> décembre au 31 mai; l’ElCom peut, chaque année, fixer une période plus courte.
 
 <sup>2</sup>
 
@@ -293,9 +289,11 @@ L’OFEN peut fixer un tarif fondé sur les coûts dans les cas où les tarifs p
 
 <sup>2</sup> Afin que la puissance fixée à l’art. 6, al. 1, soit atteinte, d’autres exploitants de groupes électrogènes de secours, et à partir du 1<sup>er</sup> janvier 2024, des exploitants d’installations CCF peuvent être inclus dans la réserve complémentaire. La société nationale du réseau de transport procède aux appels d’offres à cet effet.
 
-<sup>3</sup> S’il est à prévoir qu’un appel d’offres supplémentaire ne suffira pas pour constituer la réserve complémentaire avec la puissance nécessaire et des rémunérations dont le montant est approprié, le DETEC peut, en accord avec le DEFR, obliger les exploitants de groupes électrogènes de secours ou d’installations CCF qui s’y prêtent à participer à la réserve; le cas échéant, il désigne en même temps un agrégateur adéquat. L’ElCom peut demander que ces obligations soient imposées.
+<sup>3</sup> ... [^14-1]
 
 <sup>4</sup> Une obligation n’est pas possible pour les groupes électrogènes de secours faisant partie d’infrastructures militaires ou d’autres infrastructures critiques.
+
+[^14-1]: En vigueur jusqu’au 31 mai 2024 (voir art. 30, al. 3).
 
 #### Art. 15
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Januar 2023 über die Errichtung einer Stromreserve f
 short: WResV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: de
-version: 2024-02-01
+version: 2024-06-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20240201/de"
 
 (Winterreserveverordnung, WResV)
 
-vom 25. Januar 2023 (Stand am 1. Februar 2024)
+vom 25. Januar 2023 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -96,11 +96,9 @@ Die ElCom kann weitere Ausschreibungen anordnen zur:
 
 #### Art. 4
 
-**Verpflichtung zur Teilnahme**
+[^4-1]
 
-<sup>1</sup> Ist zu erwarten, dass es mit einer weiteren Ausschreibung nicht gelingt, die Wasserkraftreserve mit der erforderlichen Energiemenge und zu angemessenen Entgelten zu bilden, so kann das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) in Absprache mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) die Betreiber geeigneter Kraftwerke verpflichten, mit einer bestimmten Energiemenge an der Reserve teilzunehmen. Die ElCom kann solche Verpflichtungen beantragen.
-
-<sup>2</sup> Das UVEK legt auf Empfehlung der ElCom das Vorhalteentgelt für die betreffenden Betreiber fest.
+[^4-1]: In Kraft bis zum 31. Mai 2024 (siehe Art. 30 Abs. 3).
 
 #### Art. 5
 
@@ -210,9 +208,9 @@ Für den Zuschlag werden insbesondere die folgenden Kriterien berücksichtigt:
 
 #### Art. 9
 
-**Verpflichtung zur Teilnahme**
+[^9-1]
 
-Kann die ergänzende Reserve nicht mit der erforderlichen Leistung und zu angemessenen Entgelten gebildet werden, so kann das UVEK in Absprache mit dem WBF die Betreiber oder Inhaber von geeigneten Reservekraftwerken oder Unternehmen, für die ein solches Kraftwerk verfügbar ist und die zum entsprechenden Betrieb fähig sind, verpflichten, mit einer bestimmten Kraftwerksleistung an der Reserve teilzunehmen. Die ElCom kann solche Verpflichtungen beantragen.
+[^9-1]: In Kraft bis zum 31. Mai 2024 (siehe Art. 30 Abs. 3).
 
 #### Art. 10
 
@@ -291,9 +289,11 @@ Das BFE kann im Falle von unangemessenen Tarifen für die Nutzung der Rohrleitun
 
 <sup>2</sup> Zur Erreichung der Leistung nach Artikel 6 Absatz 1 können weitere Betreiber von Notstromgruppen und ab dem 1. Januar 2024 auch Betreiber von WKK-Anlagen in die ergänzende Reserve aufgenommen werden. Die Netzgesellschaft führt die dafür erforderlichen Ausschreibungen durch.
 
-<sup>3</sup> Ist zu erwarten, dass es mit einer weiteren Ausschreibung nicht gelingt, die ergänzende Reserve mit der erforderlichen Leistung und zu angemessenen Entgelten zu bilden, so kann das UVEK in Absprache mit dem WBF die Betreiber von geeigneten Notstromgruppen oder WKK-Anlagen zur Teilnahme verpflichten; gegebenenfalls ist gleichzeitig ein geeigneter Aggregator zu verpflichten. Die ElCom kann solche Verpflichtungen beantragen.
+<sup>3</sup> …[^14-1]
 
 <sup>4</sup> Eine Verpflichtung ist nicht möglich bei Notstromgruppen, die zu militärischen oder anderen kritischen Infrastrukturen gehören.
+
+[^14-1]: In Kraft bis zum 31. Mai 2024 (siehe Art. 30 Abs. 3).
 
 #### Art. 15
 
