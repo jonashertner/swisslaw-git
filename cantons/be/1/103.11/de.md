@@ -4,13 +4,12 @@ number: "103.11"
 title: Publikationsverordnung
 short: PuV
 language: de
-version: 2020-01-01
-valid_until: 2024-05-31
-version_adopted: 2019-09-18
+version: 2024-06-01
+version_adopted: 2024-05-01
 adopted: 1993-06-23
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/103.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1705/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1705/pdf_file"
 
 (PuV)
 
-vom 23.06.1993 (Stand 01.01.2020)
+vom 23.06.1993 (Stand 01.06.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Authentifizierung**
 
-<sup>1</sup> Um die Authentizität der Bernischen Amtlichen Gesetzessammlung zu gewährleisten, signiert das gemäss Geschäftsordnung der Staatskanzlei zuständige Personal die elektronischen Dokumente mittels eines Zertifikats der Klasse B der Public-Key-Infrastruktur der Bundesverwaltung.
+<sup>1</sup> Um die Authentizität der Bernischen Amtlichen Gesetzessammlung zu gewährleisten, bringt das gemäss Geschäftsordnung der Staatskanzlei zuständige Personal das geregelte elektronische Siegel der Kantonsverwaltung auf den Dokumenten an.
 
 #### Art. 2
 

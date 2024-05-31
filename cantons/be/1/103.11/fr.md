@@ -4,13 +4,12 @@ number: "103.11"
 title: Ordonnance sur les publications officielles
 short: OPO
 language: fr
-version: 2020-01-01
-valid_until: 2024-05-31
-version_adopted: 2019-09-18
+version: 2024-06-01
+version_adopted: 2024-05-01
 adopted: 1993-06-23
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/103.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1705/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3032/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1705/pdf_file"
 
 (OPO)
 
-du 23.06.1993 (état au 01.01.2020)
+du 23.06.1993 (état au 01.06.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -49,7 +48,7 @@ arrête:
 
 **Authenticité**
 
-<sup>1</sup> Pour garantir l’authenticité du Recueil officiel des lois bernoises, le personnel compétent désigné dans le règlement de la Chancellerie d’Etat signe les documents électroniques au moyen d’un certificat de classe B de l’infrastructure cryptographique de l’administration fédérale.
+<sup>1</sup> Pour garantir l’authenticité du Recueil officiel des lois bernoises, le personnel compétent désigné dans le règlement de la Chancellerie d’Etat appose le cachet électronique réglementé de l'administration cantonale sur les documents.
 
 #### Art. 2
 
