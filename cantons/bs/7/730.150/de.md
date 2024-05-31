@@ -3,25 +3,25 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2024-05-10
-valid_until: 2024-05-31
-version_adopted: 2024-01-31
+version: 2024-06-01
+valid_until: 2024-08-28
+version_adopted: 2023-10-25
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6272/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6306/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Inhalt
+# Spezielle Bauvorschriften und Bebauungspläne
 
-Spezielle Bauvorschriften und Bebauungspläne
+Inhalt
 
 Vorbemerkung I Inhaltsverzeichnis (Originaltitel der Erlasse) Erlasse 1 ff
 
-## Vorbemerkung
+Vorbemerkung
 
 - 1\. Neben dem Bau- und Planungsgesetz gibt es im Kanton Basel-Stadt eine grössere Anzahl von Erlassen, die in begrenzten Gebieten bessere Bebauungen gewährleisten als die baurechtliche Grundordnung oder die die Koordination der Nutzungsplanung erleichtern. Diese sogenannten speziellen Bauvorschriften bzw. (seit 1. Januar 2001) Bebauungspläne (siehe hiezu auch Ziff. 5) stehen oft in einem sachlichen Zusammenhang mit Zonenänderungen sowie Bau- und Strassenlinienregelungen für das betreffende Gebiet; sie sind daher nicht selten mit diesen in ein- und demselben Erlass enthalten. Daneben gibt es auch Erlasse, die ihrem Inhalt nach nicht gemischt, sondern entweder auf spezielle Bauvorschriften bzw. Bebauungspläne oder örtlich begrenzte Planungsvorschriften beschränkt sind. Basel-Stadt dürfte der einzige Kanton sein, der in seiner Gesetzgebung eine solche Vielzahl von Sonderbauvorschriften aufweist. In den andern Kantonen fällt der Erlass von Vorschriften über die Ortsplanung weitgehend in die Zuständigkeit der Gemeinden.
 
@@ -614,19 +614,19 @@ Nr.
 
 231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und In den Wenkenmatten. Vom 27. November 2014 und 24. September 2015
 
-**240**
+**241**
 
 232 GRB betreffend Areal Eisenbahnweg. Festsetzung eines Bebauungsplans, Änderung von Baulinien sowie Abweisung von Einsprachen im Bereich Grenzacherstrasse und Eisenbahnweg (Areal Eisenbahnweg). Vom 18. September 2019
 
-**242**
+**243**
 
-233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 244
+233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 245
 
 234 GRB betreffend Aufhebung der Bebauungspläne Nr. 18 und Nr. 83, sowie Festset-
 
 **X**
 
-**245**
+**246**
 
 zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
@@ -634,27 +634,31 @@ zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
 Nr.
 
-235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 247
+235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 248
 
 236 GRB betreffend Aufhebung der Bebauungspläne Nr. 41, Nr. 130 und Nr. 147 im Gebiet nördlich und westlich des Bahnhofs SBB, sowie Zonenänderungen und Festsetzung eines Bebauungsplans im Bereich Küchengasse, Elisabethenanlage sowie Abweisung einer Einsprache. Vom 25. Juni 2021
 
-**248**
+**249**
 
-**250**
+**251**
 
 237 RRB betreffend Bebauungsplan im Bereich Kohlenberggasse (Blindenheim). Vom 12. Januar 2021
 
 238 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung des Bebauungsplans Nr. 109 sowie Änderung des Bebauungsplans Nr. 160 im Bereich Gartenstrasse, Nauenstrasse, Peter Merian-Strasse, Peter Merian-Brücke, Hochstrasse, Solothurnerstrasse, Meret Oppenheim-Strasse, Bahnhof Basel SBB (Areal Nauentor). Vom 17. März 2021
 
-**252**
+**253**
 
-239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 255
-
-**XI**
+239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 256
 
 240 GRB betreffend Festsetzung eines Bebauungsplans, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan sowie Änderungen Bau- und Strassenlinien im Bereich St. Jakobs-Strasse, Güberbahnhof Wolf (Areal Wolf). Vom 15. März 2023
 
-241 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung Lärmempfindlichkeitsstufenplan, Änderung Wohnanteilplan sowie neue Bau- und Strassenlinien und neue Baugrenzen im Bereich Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal Zur Eiche). Vom 6. Dezember 2024 261 Riehen Gottesacker am Hörnli: Vorplatz
+**XI**
+
+**258**
+
+241 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung Lärmempfindlichkeitsstufenplan, Änderung Wohnanteilplan sowie neue Bau- und Strassenlinien und neue Baugrenzen im Bereich Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal Zur Eiche). Vom 6. Dezember 2024 263
+
+242 Beschluss des Einwohnerrats betreffend Zonenplanrevision Autal, Festsetzung spezielle Nutzungsvorschriften Autal. Vom 25. Oktober 2023 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -666,11 +670,11 @@ Die Baublöcke sind in ihrer allgemeinen Anlage aufgrund der vom Regierungsrat g
 
 II.
 
-**257**
-
 Die Gebäude müssen aus dem Erdgeschoss und zwei Stockwerken bestehen. Die Fenster- und Türöffnungen des Erdgeschosses können der Zweckbestimmung der hier liegenden Räume angepasst werden. Die Fenster der Stockwerke müssen auf gleicher Höhe liegen und im Lichten gleich hoch sein. Ihre Breitedimensionen sind frei.
 
 III.
+
+**265**
 
 Über die Wahl der sichtbaren Baumaterialien und die farbige Gestaltung der Fassaden werden keine bindenden Detailvorschriften aufgestellt. Es wird nur verlangt, dass der Gesamteindruck der Gebäude ein ruhiger und einheitlicher sei. Dem zuständigen Departement sind besondere detaillierte Vorlagen über die Fassadengestaltung in bezug auf Form, Material und Farbe zu unterbreiten.[^hTeil1undTeil2h-1]
 
@@ -5375,11 +5379,11 @@ Dachflächenbegrünungen können als ökologischen Ausgleich angerechnet werden.
 
 - d) Zwischen Schanzenstrasse und Pestalozzistrasse ist in der Mitte des Areals eine durchgehende, öffentliche Fuss- und Velowegverbindung vorzusehen.
 
-- e) Im Bereich der Pestalozzi-/Klingelbergstrasse soll eine Haltestelle für den Busverkehr geprüft werden.
+- e) Im Bereich der Pestalozzi-/Klingelbergstrasse soll eine Haltestelle für den Busverkehr geprüft
 
-- f) Für die unterirdische Erschliessung ist im gekennzeichneten Bereich eine Untertunnelung der
+werden.
 
-Pestalozzistrasse zulässig.
+- f) Für die unterirdische Erschliessung ist im gekennzeichneten Bereich eine Untertunnelung der Pestalozzistrasse zulässig.
 
 - 2\. Geringfügige Abweichungen, Ausnahme
 
@@ -6080,7 +6084,9 @@ samtanlage einordnen. Diese dürfen innerhalb der Baufelder frei angeordnet werd
 
 2.12 Erschliessung für Langsamverkehr Ausschliesslich für den Langsamverkehr ist von der Flughafenstrasse her ein Anschluss an das bestehende Wegnetz und mindestens eine Verbindung zur Friedrich Miescher-Strasse zu erhalten.
 
-2.13 Motorisierte Erschliessung Die Erschliessung, Vorfahrten sowie Zu- und Wegfahrten für Personenwagen und Anlieferung erfolgen ausschliesslich von der Friedrich Miescher-Strasse her in die Erschliessungszone. 2.14 Abstellplätze und Parkierung Personenwagen Die Parkplätze für Personenwagen sind unterirdisch, möglichst unter den Gebäuden anzuordnen; für eine vorübergehend oberirdische Anordnung sind Abweichungen zulässig. Besucher- und Behindertenparkplätze dürfen innerhalb der Erschliessungszone oberirdisch angeordnet werden.
+2.13 Motorisierte Erschliessung Die Erschliessung, Vorfahrten sowie Zu- und Wegfahrten für Personenwagen und Anlieferung erfolgen ausschliesslich von der Friedrich Miescher-Strasse her in die Erschliessungszone. 2.14 Abstellplätze und Parkierung Personenwagen Die Parkplätze für Personenwagen sind unterirdisch, möglichst unter den Gebäuden anzuordnen; für eine vorübergehend oberirdische Anordnung sind Abweichungen zulässig. Besucher- und Behindertenparkplätze dürfen innerhalb der Erschliessungszone oberirdisch angeordnet
+
+werden.
 
 2.15 Gesamtwirkung Gesamtanlage Die Bebauung und die begrünten Aussenräume sind so weiterzuentwickeln, dass sie eine hervorragende Gesamtwirkung der Gesamtanlage erzielen. Neubauten haben sich mit ihren Aussenräumen gut zu integrieren. Auf die Weiterentwicklung der parkartigen Freiraumqualitäten ist besonders zu achten.
 
@@ -6459,7 +6465,9 @@ Solaranlagen und anderen notwendige technische Installationen überschritten wer
 
 ### Geringfügige Abweichungen, Ausnahmen
 
-- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvor-schriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden. Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement.
+- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvor-schriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden.
+
+Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement.
 
 Er wird nach Eintritt der Rechtskraft sofort wirksam.[^hGeringfügigeAbweich-1]
 
@@ -7767,6 +7775,63 @@ VI. Publikation
 Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hInnererEgliseeweg-1]
 
 [^hInnererEgliseeweg-1]: In Kraft seit 8. 2. 2024 (KB 3. 2. 2024).
+
+### Riehen Spezielle Nutzungsvorschriften Autal
+
+Einwohnerratsbeschluss vom 25. Oktober 2023
+
+Der Einwohnerrat Riehen, gestützt auf §§ 40c, 95, 103 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup> und auf Antrag des Gemeinderats, beschliesst:
+
+I. Festsetzung Spezielle Nutzungsvorschriften
+
+- 1\. Der Plan Nr. 112.02.002 Spezielle Nutzungsvorschriften für Pflanz- und Nutzgärten Autal vom 22. Februar 2022 wird genehmigt und für verbindlich erklärt.
+
+- 2\. Für das im Plan Nr. 112.02.002 vom 22. Februar 2022 gekennzeichnete Gebiet werden folgende Vorschriften erlassen:
+
+### Zweck der Vorschriften; Nutzungsart
+
+- a) Übergeordneter Zweck der Vorschriften ist der Erhalt und die Weiterentwicklung des heterogenen, kleinteiligen Landschaftscharakters des Autals mit Obstgärten, Hochstammobstbäumen, Weiden, sowie Pflanz- und Nutzgärten. Dies unter der Beachtung ökologischer Werte und unter
+
+besonderer Rücksichtnahme auf das Grundwasser sowie auf Oberflächengewässer.
+
+- b) Zulässige Nutzungen sind Obstgärten, Pflanz- und Nutzgärten sowie die Nutzung als Weideland.
+
+- c) Nicht erlaubt sind eine bodenunabhängige landwirtschaftliche und gartenbauliche Nutzung, Autoabstellflächen, Lagerplätze, Treibhäuser und weitere Nutzungen, die nicht dem Gebietscharakter bzw. dem Zweck der Bestimmungen entsprechen.
+
+### Bewirtschaftungsgrundsätze
+
+- d) Die Bewirtschaftung der Parzellen soll naturnah erfolgen. Landwirtschaftliche und gartenbauliche Nutzung hat bodenabhängig zu erfolgen.
+
+- e) Terrainveränderungen sind so gering wie möglich zu halten; Bodenbefestigungen sind auf ein absolutes Minimum zu reduzieren.
+
+### Grundstücksbegrenzungen
+
+- f) Grundstücksbegrenzende Hecken sind so anzulegen und zu pflegen, dass sie den Landschaftscharakter nicht beeinträchtigen und dem ökologischen Ausgleich dienen.
+
+- g) Einfriedungen und Sichtschutzinstallationen sind bewilligungspflichtig.
+
+### Bauliche Nutzung
+
+- h) Pro Parzelle mit mindestens 800 m<sup>2</sup> Parzellenfläche darf ein für die bodenabhängige gartenbauliche Nutzung zweckmässiges Gartenhaus in Holzbauweise erstellt werden. Untergeordnete zweckdienliche Nebenbauten sind zulässig.
+
+- i) Die Grundrissprojektion der Überdachungen sämtlicher Bauten darf 1,5 % der Parzellenfläche nicht überschreiten und beträgt maximal 25 m<sup>2</sup>.
+
+- j) Gartenhäuser dürfen eine Gebäudehöhe von 3.5 m, Nebenbauten eine solche von 2.3 m nicht überschreiten.
+
+- k) Der Anbau von ungedeckten Pergolen und Sitzplätzen ist bis insgesamt 12 m<sup>2</sup> zulässig.
+
+- l) Bauliche Massnahmen unterliegen der Baubewilligungspflicht.
+
+- m) Solaranlagen sind bis zu einer Gesamtleistung von 180 Watt und einer Betriebsspannung von 24 Volt zulässig.
+
+- n) Nicht erlaubt sind der Bau von Wohn- und Arbeitsgebäuden, Unterkellerungen, mehrgeschossige Bauten, Ver- und Entsorgungsleitungen sowie Heizungen. Ebenso ist der Betrieb von Familiengartenanlagen untersagt.
+
+- o) Im Bereich der Schraffur «Nutzungseinschränkungen – Schutz von Natur-/Kulturwerten» des Plans 112.02.002 vom 22. Februar 2022 sind keine Bauten erlaubt und bestehende Obstgärten zu erhalten.
+
+II. Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und bedarf der Genehmigung durch das Bau- und Verkehrsdepartement des Kantons Basel-Stadt.[^hBaulicheNutzung_2-1] Der Gemeinderat bestimmt den Zeitpunkt des Inkrafttretens.[^hBaulicheNutzung_2-2]
+
+[^hBaulicheNutzung_2-1]: Genehmigt am 11. 3. 2024
+[^hBaulicheNutzung_2-2]: In Kraft seit 1. 6. 2024
 
 ## Weitere Fussnoten
 
