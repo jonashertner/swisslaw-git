@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2024-01-01
+version: 2024-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240101/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. Januar 2024)
+vom 11. August 1999 (Stand am 1. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -519,7 +519,7 @@ Anhang 5[^t-3]
 
 ## Umfang des Zugriffs und Berechtigung zur Datenbearbeitung im Informationssystem MIDES
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 24. Nov. 2010 ([AS 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Fassung gemäss Ziff. II der V vom 2. Febr. 2022, in Kraft seit 1. März 2022 ([AS 2022 72](https://fedlex.data.admin.ch/eli/oc/2022/72)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 24. Nov. 2010 ([AS 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 223](https://fedlex.data.admin.ch/eli/oc/2024/223)).
 
 ### Zeichenerklärung
 
@@ -545,159 +545,166 @@ Organisationseinheiten:
 - – VIII: Bereich Sachdatenerfassung und Datenpflege
 - – IX: Bereich Sprachanalysen
 - Sicherheit: Externe Mitarbeitende Bereich Sicherheit
+
+Leistungserbringer Artikel 102*f* Absatz 2 AsylG (RS): Externe Mitarbeitende des Leistungserbringers Rechtschutz
+
+Rückkehrberatung Artikel 93*a* Absatz 2 AsylG (RB): Externe Mitarbeitende der Rückkehrberatung
+
+- [tab]
 - [tab]
 - [tab]
 
 ### Datenkatalog MIDES
 
 <table>
-<tr><th>MIDES-Datenfelder</th><th colspan="9">SEM</th><th colspan="4">SEM-Partner</th></tr>
-<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th>VI</th><th>VII</th><th>VIII</th><th>IX</th><th>Flupo</th><th>Sicherheit</th><th>Betreuung</th><th>Kanton</th></tr>
-<tr><td colspan="14">1. Stammdaten</td></tr>
-<tr><td>Name</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Vorname</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Datum und Uhrzeit der Einreichung des Asylgesuchs</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>ZEMIS-Nummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>MIDES-Personennummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Asyl-Dossiernummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Asylkategorie – Status</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Versicherungspolicenummer</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Krankenversicherung – Status</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Identifikationsart</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gesuchsteller in Dublin-Prozess</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsdatum</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Geschlecht</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Nationalität</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Muttersprache</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Zweite Sprache</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Zivilstand</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Rechtsvertreter/in</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Vertrauensperson</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Personenart (Hauptperson/Nebenperson)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Beziehungsart</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Personenstatus</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Status der Daktyloskopierung</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Status sanitarische Massnahmen</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>B</td><td>A</td></tr>
-<tr><td>Fotografie</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Fingerabdrücke (Persönliche Kontrollnummer PCN)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td></tr>
-<tr><td colspan="14">2. Unterbringung Voreintritt</td></tr>
-<tr><td>Voreintrittsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Rückmeldedatum bei Voreintritt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td colspan="14">Provisorische Ersterfassung</td></tr>
-<tr><td>Medizinalfall (Flag)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Familienverband</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td colspan="14">Eintritt</td></tr>
-<tr><td>Eintrittsdatum im Zentrum des Bundes</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Datum des Asylgesuchs (Eröffnung Verfahren)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Provisorischer Eintritt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Unterkunftsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Unterkunftsadresse</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td colspan="14">Transfer</td></tr>
-<tr><td>Vorgesehen für Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Transfer erfolgt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Standort vor Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Transferdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Ankunftsdatum Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Bemerkung Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td colspan="14">Verschwinden</td></tr>
-<tr><td>Datum des Verschwindens</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td colspan="14">Austritt</td></tr>
-<tr><td>Austrittsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Bemerkung an Kanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Austrittskanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Ankunftszeit Kanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td colspan="14">3. Geschäfte</td></tr>
-<tr><td>Erfassende/r Sachbearbeiter/in (Angabe Identifikationsnummer/Kürzel)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Zuständige/r Sachbearbeiter/in</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Geschäftsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Datum Eröffnung des Geschäfts</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Statistik-Datum des Geschäfts</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Synchronisierung ZEMIS</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Mögliches ZEMIS-Geschäft</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Ereignisdatum (Interview)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Erledigungsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Erledigungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Aufhebungsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Aufhebungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Inaktivierung der Aufhebung</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Inaktivierungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Bemerkungstext zu Geschäft</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Bemerkungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td>Bemerkungstitel</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td></tr>
-<tr><td colspan="14">4. Referenzdaten</td></tr>
-<tr><td>Referenzdaten</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">5. Ausgangsverwaltung</td></tr>
-<tr><td>Ausgangshistory</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Ausgangssperre</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Sonderausgang</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="14">6. Entscheide/Fristenverwaltung</td></tr>
-<tr><td>Eröffnungsdatum Entscheid</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Letzter Beschwerdetermin</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Datum des Verschwindens</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Beschwerdeeingang beim Bundesverwaltungsgericht (BVGer)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Termin für Urteil BVGer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Rechtskraft Urteil BVGer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">7. Protokolle</td></tr>
-<tr><td>Befrager/in</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Datum der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Sprache der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zum Merkblatt</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zur Rechtsvertretung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zur Dolmetscherin oder zum Dolmetscher</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">1. Identität</td></tr>
-<tr><td>Sippe/Stamm/Kaste</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Ledigname</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Geburtsort</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Ethnie</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Zweite Staatsangehörigkeit</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Staatsangehörigkeit bei Geburt</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Herkunftscode</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Zivilstand seit:</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zur Partnerin oder zum Partner</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Religion</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Nebenidentität</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zum Vater</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zur Mutter</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Weitere Sprachen genügend für die Anhörung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Übrige Sprachkenntnisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Sprachen des Vaters</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Sprachen der Mutter</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Schul-/Ausbildung, Beruf</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Letzte ausgeübte Tätigkeit</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Vorhandene Mittel in Schweizer Franken</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Vorhandene Mittel in ausländischen Währungen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">2. Aufenthalte</td></tr>
-<tr><td>Letzter Wohnort im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Letzte offizielle Adresse im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Früherer Aufenthalt in der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Früherer Aufenthalt im Ausland (ausser Schweiz)</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Früheres Asylgesuch in Drittstaat/Vertretung Drittstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Früheres Asylgesuch in der Schweiz/Schweizer Vertretung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">3. Beziehungen</td></tr>
-<tr><td>Im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>In der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zu Beziehungen in der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Beziehungen in Drittstaaten</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zu minderjährigen Kindern, die in das Asylgesuch eingeschlossen sind</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zu den Nebenidentitäten der Kinder</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Ausweispapiere der Kinder</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">4. Reiseweg</td></tr>
-<tr><td>Datum der Ausreise aus dem Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Reise vom Heimatstaat bis in die Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Datum der Einreise in die Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Einreiseart</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Ort der Einreichung des Gesuchs</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Herkunfts- und Länderfragen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">5. Gesuchsgründe</td></tr>
-<tr><td>Ausreise-/Gesuchsgründe</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td>a</td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Beweismittel</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Weitere Unterlagen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="14">6. Weitere Fragen</td></tr>
-<tr><td>Zusatzbemerkungen der Gesuchstellerin oder des Gesuchstellers</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Dolmetscher/in</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Dauer der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Identitätskategorie</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Rückübersetzung des Protokolls, Sprache der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><th>MIDES-Datenfelder</th><th colspan="9">SEM</th><th colspan="6">SEM-Partner</th></tr>
+<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th>VI</th><th>VII</th><th>VIII</th><th>IX</th><th>Flupo</th><th>Sicherheit</th><th>Betreuung</th><th>Kanton</th><th>RS</th><th>RB</th></tr>
+<tr><td colspan="16">1. Stammdaten</td></tr>
+<tr><td>Name</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Vorname</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Datum und Uhrzeit der Einreichung des Asylgesuchs</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>ZEMIS-Nummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>MIDES-Personennummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Asyl-Dossiernummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Asylkategorie – Status</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Versicherungspolicenummer</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Krankenversicherung – Status</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identifikationsart</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gesuchsteller in Dublin-Prozess</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geburtsdatum</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geschlecht</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nationalität</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Muttersprache</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zweite Sprache</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zivilstand</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Rechtsvertreter/in</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Vertrauensperson</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Personenart (Hauptperson/Nebenperson)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Beziehungsart</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Personenstatus</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Status der Daktyloskopierung</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Status sanitarische Massnahmen</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Fotografie</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Fingerabdrücke (Persönliche Kontrollnummer PCN)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">2. Unterbringung</td></tr>
+<tr><td colspan="16">Voreintritt</td></tr>
+<tr><td>Voreintrittsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Rückmeldedatum bei Voreintritt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td colspan="16">Provisorische Ersterfassung</td></tr>
+<tr><td>Medizinalfall (Flag)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Familienverband</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td colspan="16">Eintritt</td></tr>
+<tr><td>Eintrittsdatum im Zentrum des Bundes</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Datum des Asylgesuchs (Eröffnung Verfahren)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Provisorischer Eintritt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Unterkunftsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Unterkunftsadresse</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="16">Transfer</td></tr>
+<tr><td>Vorgesehen für Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Transfer erfolgt</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Standort vor Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Transferdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Ankunftsdatum Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Bemerkung Transfer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td colspan="16">Verschwinden</td></tr>
+<tr><td>Datum des Verschwindens</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td colspan="16">Austritt</td></tr>
+<tr><td>Austrittsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Bemerkung an Kanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Austrittskanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Ankunftszeit Kanton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td colspan="16">3. Geschäfte</td></tr>
+<tr><td>Erfassende/r Sachbearbeiter/in (Angabe Identifikationsnummer/Kürzel)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Zuständige/r Sachbearbeiter/in</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Geschäftsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Datum Eröffnung des Geschäfts</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Statistik-Datum des Geschäfts</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Synchronisierung ZEMIS</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Mögliches ZEMIS-Geschäft</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Ereignisdatum (Interview)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Erledigungsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Erledigungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Aufhebungsart</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Aufhebungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Inaktivierung der Aufhebung</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Inaktivierungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Bemerkungstext zu Geschäft</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Bemerkungsdatum</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Bemerkungstitel</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td colspan="16">4. Referenzdaten</td></tr>
+<tr><td>Referenzdaten</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">5. Ausgangsverwaltung</td></tr>
+<tr><td>Ausgangshistory</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Ausgangssperre</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Sonderausgang</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td colspan="16">6. Entscheide/Fristenverwaltung</td></tr>
+<tr><td>Eröffnungsdatum Entscheid</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Letzter Beschwerdetermin</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Datum des Verschwindens</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Beschwerdeeingang beim Bundesverwaltungsgericht (BVGer)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Termin für Urteil BVGer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rechtskraft Urteil BVGer</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">7. Protokolle</td></tr>
+<tr><td>Befrager/in</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Datum der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sprache der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zum Merkblatt</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zur Rechtsvertretung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zur Dolmetscherin oder zum Dolmetscher</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">1. Identität</td></tr>
+<tr><td>Sippe/Stamm/Kaste</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ledigname</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Geburtsort</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ethnie</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Zweite Staatsangehörigkeit</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Staatsangehörigkeit bei Geburt</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Herkunftscode</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Zivilstand seit:</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zur Partnerin oder zum Partner</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Religion</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nebenidentität</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zum Vater</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zur Mutter</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Weitere Sprachen genügend für die Anhörung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Übrige Sprachkenntnisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sprachen des Vaters</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sprachen der Mutter</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Schul-/Ausbildung, Beruf</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Letzte ausgeübte Tätigkeit</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Vorhandene Mittel in Schweizer Franken</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Vorhandene Mittel in ausländischen Währungen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">2. Aufenthalte</td></tr>
+<tr><td>Letzter Wohnort im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Letzte offizielle Adresse im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Früherer Aufenthalt in der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Früherer Aufenthalt im Ausland (ausser Schweiz)</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Früheres Asylgesuch in Drittstaat/Vertretung Drittstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Früheres Asylgesuch in der Schweiz / Schweizer Vertretung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">3. Beziehungen</td></tr>
+<tr><td>Im Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>In der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zu Beziehungen in der Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Beziehungen in Drittstaaten</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zu minderjährigen Kindern, die in das Asylgesuch eingeschlossen sind</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Angaben zu den Nebenidentitäten der Kinder</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ausweispapiere der Kinder</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">4. Reiseweg</td></tr>
+<tr><td>Datum der Ausreise aus dem Heimatstaat</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Reise vom Heimatstaat bis in die Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Datum der Einreise in die Schweiz</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Einreiseart</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ort der Einreichung des Gesuchs</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Herkunfts- und Länderfragen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">5. Gesuchsgründe</td></tr>
+<tr><td>Ausreise-/Gesuchsgründe</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td>a</td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Beweismittel</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Weitere Unterlagen</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">6. Weitere Fragen</td></tr>
+<tr><td>Zusatzbemerkungen der Gesuchstellerin oder des Gesuchstellers</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dolmetscher/in</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dauer der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Identitätskategorie</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rückübersetzung des Protokolls, Sprache der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 Anhang 6[^t-4]
