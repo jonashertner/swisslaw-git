@@ -4,13 +4,13 @@ number: "611.11"
 title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2024-01-01
-valid_until: 2024-05-31
-version_adopted: 2023-05-30
+version: 2024-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-04-30
 adopted: 2024-04-30
 in_force: 2024-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/611.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2710/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,354 +21,496 @@ FHV
 
 (FHV)
 
-vom 29.11.2011 (Stand 01.01.2024)
+vom 30.04.2024 (Stand 01.06.2024)
 
-## 1. Allgemeines und Grundsätze
+## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-**Geltungsbereich**
+**Zuständigkeit**
 
-<sup>1</sup> Das Finanzhaushaltsgesetz (FHG)[^1-1] und diese Verordnung finden auf die Ämter und Betriebe gemäss Organisationsplan sowie die Organe der Rechtspflege Anwendung.
-
-[^1-1]: RB [611.1](https://www.rechtsbuch.tg.ch/data/611.1/de)
+<sup>1</sup> Departement im Sinne dieser Verordnung ist, soweit keine abweichenden Zuständigkeiten festgelegt sind, das Departement für Finanzen und Soziales.
 
 #### § 2
 
-**Kontenrahmen**
+**Neue und gebundene Ausgaben**
 
-<sup>1</sup> Der Regierungsrat legt den Kontenrahmen aufgrund der Vorgaben des harmonisierten Rechnungsmodells fest.
+<sup>1</sup> Das Departement nimmt Stellung zu Fragen betreffend neue oder gebundene Ausgaben.
 
-<sup>2</sup> Budget und Rechnung sind institutionell gegliedert.
+<sup>2</sup> Der Regierungsrat bezeichnet im Budget und soweit möglich bereits im Finanz- und Aufgabenplan die neuen Ausgaben.
 
 #### § 3
 
-**Neue Ausgaben**
+**Handbuch zum Rechnungswesen KVTG**
 
-<sup>1</sup> Der Regierungsrat bezeichnet im Budget und soweit möglich bereits im Finanzplan diejenigen Ausgabenpositionen, die nicht als gebunden gelten und somit gemäss § 23 der Kantonsverfassung (KV)[^3-1] dem obligatorischen oder fakultativen Referendum unterstehen.
+<sup>1</sup> Auf Antrag des Departementes erlässt der Regierungsrat ein Handbuch zum Rechnungswesen KVTG.
 
-[^3-1]: RB [101](https://www.rechtsbuch.tg.ch/data/101/de)
+## 2. Gesamtsteuerung des Haushaltes
 
 #### § 4
 
-**Rechnungsmodell**
+**Rücklagen von Verwaltungseinheiten mit Leistungsauftrag und Globalbudget**
 
-<sup>1</sup> Die Rechnungsführung und -darstellung erfolgt in Anlehnung an die Empfehlungen gemäss Handbuch «Harmonisiertes Rechnungslegungsmodell für die Kantone und Gemeinden HRM2», herausgegeben von der Konferenz der Kantonalen Finanzdirektorinnen und Finanzdirektoren (FDK).
+<sup>1</sup> Positive Saldoabweichungen von Globalbudgets sind mit dem Jahresabschluss zur Hälfte der Staatskasse sowie je zu einem Viertel den freien und gebundenen Rücklagen zuzuweisen, sofern sie von der Verwaltungseinheit beeinflussbar sind.
+
+<sup>2</sup> Über freie Rücklagen können die Verwaltungseinheiten verfügen. Es dürfen nur Aufwendungen finanziert werden, die keine Folgekosten nach sich ziehen. Es ist nicht erlaubt, monetäre Leistungen an Mitarbeiterinnen und Mitarbeiter auszubezahlen.
+
+<sup>3</sup> Negative Saldoabweichungen können, sofern sie von der Verwaltungseinheit beeinflussbar sind, bis zu 100 % aus gebundenen oder freien Rücklagen finanziert werden.
+
+<sup>4</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
 
 #### § 5
 
-**Vertretung bei Beteiligungen**
+**Kostentransparenz**
 
-<sup>1</sup> Die Vertretung in Organen juristischer Personen, deren Mitglied der Kanton ist oder an denen er finanziell beteiligt ist, obliegt der Finanzverwaltung, soweit der Regierungsrat nichts anderes bestimmt.
+<sup>1</sup> Zur Kostentransparenz von Geschäftsfällen stehen im Rahmen der Verbuchung dedizierte statistische Kontierungsobjekte zur Verfügung.
+
+<sup>2</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
 
 #### § 6
 
-**Konzernkosten**
+**Zuweisung Ertragsüberschuss**
 
-<sup>1</sup> Für Betriebe und Anstalten, die sich eigenwirtschaftlich finanzieren, legt der Regierungsrat die übergeordneten Konzernkosten und Konzessionsabgeltungen jährlich mit dem Budget fest.
-
-## 2. Haushaltsteuerung
+<sup>1</sup> Die vom Grossen Rat beschlossene Zuweisung des Ertragsüberschusses erfolgt im Rechnungsjahr über die Erfolgsrechnung.
 
 #### § 7
 
-**Rechnungsführung**
+**Investitionsrechnung**
 
-<sup>1</sup> Die Rechnungsführung richtet sich nach den anerkannten Regeln eines geordneten Rechnungswesens. Es gilt das vom Regierungsrat erlassene Handbuch über das Rechnungswesen des Kantons.
+<sup>1</sup> Der Saldo der Investitionsrechnung zeigt die Nettoinvestitionen.
+
+<sup>2</sup> Anlagen, die zu einem Mehrwert mit mehrjähriger Nutzungsdauer führen, werden ab folgenden Grenzwerten aktiviert:
+
+- 1\. Grundstücke: Fr. 1
+- 2\. Gebäude, Hochbauten: Fr. 300'000
+- 3\. Tiefbauten: Fr. 300'000
+- 4\. Mobilien, Maschinen, Fahrzeuge: Fr. 100'000
+- 5\. Immaterielle Anlagen: Fr. 100'000
+- 6\. Informatik: Fr. 100'000
+- 7\. Investitionsbeiträge, Darlehen, Beteiligungen/Grundkapitalien: Fr. 1
+
+<sup>3</sup> Die Abschreibung erfolgt mit dem Nutzungsbeginn.
+
+<sup>4</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
 
 #### § 8
 
-**Kontenplan**
+**Anhang zur Jahresrechnung**
 
-<sup>1</sup> Die Finanzverwaltung bestimmt nach Anhörung der betroffenen Ämter den Kontenplan.
+<sup>1</sup> Im Beteiligungsspiegel ist die Werthaltigkeit des Buchwertes von Beteiligungen aufzuführen.
+
+<sup>2</sup> Im Anlagespiegel sind Bewertungsdifferenzen von Anlagen aufgrund effektiver Nutzungsdauer und ordentlicher Abschreibungsdauer nicht aufzuführen.
 
 #### § 9
 
-**Verfügung über Kredite**
+**Finanzkennzahlen**
 
-<sup>1</sup> Die Departemente, die Staatskanzlei sowie die Ämter und Betriebe sind für die Verwendung der bewilligten Kredite verantwortlich.
-
-<sup>2</sup> Soweit nicht anders geregelt, gelten über bewilligte Budgetkredite die folgenden Verfügungskompetenzen:
-
-- 1\. Ämter und Betriebe bis — Fr. 50'000
-- 2\. Departemente und Staatskanzlei über — Fr. 50'000
-
-<sup>3</sup> Die Departemente und die Staatskanzlei können die Verfügungsberechtigung ihrer Ämter und Betriebe einschränken oder erhöhen.
+<sup>1</sup> Abweichungen bei den Berechnungen zu den anerkannten Formeln gemäss HRM2 sind im Anhang zur Jahresrechnung darzulegen.
 
 #### § 10
+
+**Haushaltsgleichgewicht**
+
+<sup>1</sup> Der Nachweis der Einhaltung des Haushaltsgleichgewichtes ist in der Jahresrechnung, im Budget und im Finanzplan darzustellen.
+
+<sup>2</sup> Der Nachweis ist anhand des gleitenden Durchschnitts der vorangehenden acht Jahre zu berechnen.
+
+#### § 11
+
+**Ausgabenstabilisierung**
+
+<sup>1</sup> Der Nachweis der Einhaltung der Ausgabenstabilisierung ist in der Jahresrechnung, im Budget und im Finanzplan darzustellen.
+
+<sup>2</sup> Der Nachweis ist anhand des gleitenden Durchschnittes der vorangehenden acht Jahre zu berechnen.
+
+<sup>3</sup> Das nationale nominale Bruttoinlandprodukt (BIP) dient solange als Orientierungsgrösse, bis ein kantonales BIP vorliegt.
+
+<sup>4</sup> Für das Budget und den Finanzplan ist das nominale Wachstum des BIP gemäss Planungsgrundlagen massgebend.
+
+#### § 12
+
+**Nettovermögen**
+
+<sup>1</sup> Für die Berechnung des Nettovermögens zählen zum nicht abzuschreibenden Verwaltungsvermögen (Sachgruppe HRM2):
+
+- 1\. Grundstücke (1400)
+- 2\. Waldungen (1405)
+- 3\. Anlagen im Bau (1407)
+- 4\. Immaterielle Anlagen (1427) ohne Software und Lizenzen (1420,1421) und ohne übrige immaterielle Anlagen (1429)
+- 5\. Darlehen (144)
+- 6\. Beteiligungen und Grundkapitalien (145)
+
+## 3. Kreditrecht
+
+### 3.1. Verpflichtungs- und Budgetkredite
+
+#### § 13
+
+**Verpflichtungskredite**
+
+<sup>1</sup> Die Departemente oder die Staatskanzlei beantragen dem Regierungsrat in ihrem Zuständigkeitsgebiet die Verpflichtungskredite und sorgen für deren Einhaltung.
+
+<sup>2</sup> Der Anhang zur Jahresrechnung enthält eine Verpflichtungskreditkontrolle.
+
+<sup>3</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
+
+#### § 14
+
+**Projektierung**
+
+<sup>1</sup> Projektierungskosten sind in der Botschaft zum Verpflichtungskredit des auszuführenden Vorhabens auszuweisen.
+
+#### § 15
+
+**Kreditüberschreitungen**
+
+<sup>1</sup> Der Regierungsrat genehmigt Kreditüberschreitungen bei Budget-, Global- oder Verpflichtungskrediten bis und mit Fr. 100'000 in der Erfolgsrechnung und bis und mit Fr. 200'000 in der Investitionsrechnung summarisch.
+
+<sup>2</sup> Er genehmigt und begründet Kreditüberschreitungen bei Budget-, Global- oder Verpflichtungskrediten von über Fr. 100'000 in der Erfolgsrechnung und von über Fr. 200'000 in der Investitionsrechnung einzeln.
+
+<sup>3</sup> Bei Kreditüberschreitungen gemäss Abs. 2 ist die Departementschefin oder der Departementschef oder die Staatsschreiberin oder der Staatsschreiber zeitnah zu informieren.
+
+<sup>4</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
+
+#### § 16
+
+**Kreditübertragungen**
+
+<sup>1</sup> Nicht vollständig beanspruchte Budget- oder Nachtragskredite können in Form einer Budgetkreditübertragung einmalig auf das Folgejahr übertragen werden.
+
+<sup>2</sup> Der Budgetkredit wird um die Kreditübertragung im laufenden Jahr reduziert und im Folgejahr erhöht.
+
+<sup>3</sup> Das Handbuch zum Rechnungswesen KVTG regelt die Einzelheiten.
+
+### 3.2. Finanzbefugnisse über bewilligte Budgetkredite
+
+#### § 17
+
+**Verfügungskompetenz**
+
+<sup>1</sup> Die Organe und Anstalten verfügen über bewilligte Kredite unter Vorbehalt der Bestimmungen zum öffentlichen Beschaffungswesen.
+
+#### § 18
+
+**Generelle Zahlungskompetenz**
+
+<sup>1</sup> Für die Freigabe von Rechnungen gelten unter Einhaltung der Verfügungskompetenzen folgende generelle Zahlungskompetenzen als Grundlage für die Unterschriftenregelung gemäss § 22 Abs. 1:
+
+- 1\. bis Fr. 150'000: Ämter oder Betriebe
+- 2\. über Fr. 150'000: Departemente oder Staatskanzlei
+
+#### § 19
+
+**Zahlungskompetenz Personalaufwand (Kontengruppe 30)**
+
+<sup>1</sup> Die Finanzverwaltung verfügt mittels Doppelunterschrift über Lohn- und Taggeldzahlungen sowie Zulagen auf Basis bewilligter Entscheide.
+
+<sup>2</sup> Die Finanzverwaltung verfügt mittels Doppelunterschrift über Zahlungen von Sozialleistungen auf Basis Entscheide oder Rechnungsstellung.
+
+#### § 20
+
+**Vornahme von Abschreibungen (Kontengruppe 33)**
+
+<sup>1</sup> Die Abschreibungen erfolgen durch die Finanzverwaltung oder die zuständige Verwaltungseinheit.
+
+<sup>2</sup> Abschreibungen erfolgen bis Fr. 50'000 mittels Einzelunterschrift durch die Sachbearbeiterin oder den Sachbearbeiter, ab Fr. 50'000 mittels Doppelunterschrift der Sachbearbeiterin oder des Sachbearbeiters zusammen mit der Amts- oder Betriebsleitung.
+
+#### § 21
+
+**Vornahme von Einlagen in und Entnahmen aus Fonds und Spezialfinanzierungen (Kontengruppen 35 und 45)**
+
+<sup>1</sup> Die Verfügungsberechtigung für den Vollzug richtet sich nach den entsprechenden Rechtsgrundlagen.
+
+<sup>2</sup> Für Einlagen in und Entnahmen aus Fonds gilt die Zahlungskompetenz gemäss § 18.
+
+<sup>3</sup> Einlagen in und Entnahmen aus Spezialfinanzierungen erfolgen mittels Einzelunterschrift der Finanzverwaltung.
+
+#### § 22
+
+**Unterschriftenregelungen und elektronischer Zahlungsverkehr**
+
+<sup>1</sup> Die Verwaltungseinheiten erstellen für ihren Kompetenzbereich eine Unterschriftenregelung.
+
+<sup>2</sup> Die Unterschriftenregelung ist von der Departementschefin oder dem Departementschef oder der Staatsschreiberin oder dem Staatsschreiber zu genehmigen.
+
+<sup>3</sup> Die Verwaltungseinheiten sind für die Einhaltung der Unterschriftenregelung verantwortlich.
+
+<sup>4</sup> Die notwendigen Unterschriften und Vermerke sind zusammen mit der Kontierung auf dem Buchungsbeleg anzubringen. Bei digitalen Belegen erfolgt die Visierung zusammen mit den Vermerken und der Kontierung digital.
+
+<sup>5</sup> Der elektronische Zahlungsverkehr mit Finanzinstituten erfolgt immer kollektiv zu zweien. Bei Freigabe ist das Vieraugenprinzip einzuhalten.
+
+### 3.3. Spezialfinanzierungen und Vorfinanzierungen
+
+#### § 23
 
 **Spezialfinanzierungen**
 
 <sup>1</sup> Die bilanzierten Saldi der Spezialfinanzierungen sind zu verzinsen.
 
-<sup>2</sup> Der Zinssatz wird jährlich festgelegt. Massgebend ist der Satz für fünf Jahres-Kassenobligationen der Thurgauer Kantonalbank. Vorbehalten bleiben übergeordnete gesetzliche Verzinsungsregelungen.
+<sup>2</sup> Der Zinssatz wird jährlich durch die Finanzverwaltung festgelegt. Als Richtwert dient der Satz für eine Fünfjahres-Kassenobligation der Thurgauer Kantonalbank. Vorbehalten bleiben übergeordnete gesetzliche Verzinsungsregelungen.
 
-#### § 11
+#### § 24
 
-**Landkreditkonto**
+**Spezialfinanzierung Nummernauktion**
 
-<sup>1</sup> Für die Führung des Landkreditkontos gilt das vom Regierungsrat erlassene Reglement.
+<sup>1</sup> Die Einnahmen aus der Nummernauktion fliessen in die Spezialfinanzierung Nummernauktion gemäss § 52 Abs. 5 des Finanzhaushaltsgesetzes (FHG)[^24-1].
 
-#### § 12
+<sup>2</sup> Die Mittel der Spezialfinanzierung werden verwendet für:
 
-**Ausgabenstabilisierung**
+- 1\. die Aufwendungen für die Auktion
+- 2\. die Förderung der Verkehrssicherheit, insbesondere der Prävention im Strassenverkehr
 
-<sup>1</sup> Der Nachweis der Einhaltung der Ausgabenstabilisierung ist im Rechnungsabschluss darzustellen.
+<sup>3</sup> Der Regierungsrat entscheidet über die Verwendung der Mittel.
 
-<sup>2</sup> Für das Budget ist das nominale BIP-Wachstum der letzten acht Jahre als Vorgabe massgebend.
+[^24-1]: RB [611.1](https://www.rechtsbuch.tg.ch/data/611.1/de)
 
-<sup>3</sup> Der Nachweis ist anhand des gleitenden Durchschnitts der zurückliegenden acht Jahre zu berechnen.
+#### § 25
 
-<sup>4</sup> Das nationale nominale Bruttoinlandprodukt (BIP) dient solange als Orientierungsgrösse, bis ein offizielles regionales BIP vorliegt.
+**Spezialfinanzierung Leistungsabhängige Schwerverkehrsabgabe (LSVA)**
 
-#### § 13
+<sup>1</sup> Der Kantonsanteil an der leistungsabhängigen Schwerverkehrsabgabe des Bundes (LSVA) fliesst in die Spezialfinanzierung LSVA gemäss § 52 Abs. 5 FHG.
 
-**Finanzkennzahlen**
+<sup>2</sup> Die Mittel werden verwendet:
 
-<sup>1</sup> Die Finanzkennzahlen werden laut den anerkannten Formeln gemäss HRM2 berechnet.
+- 1\. 45 % zur Reduktion der Nettobelastung der Aufwendungen im Kantonsstrassenunterhalt
+- 2\. 45 % zur Reduktion der Nettobelastung der Aufwendungen im regionalen Personenverkehr
+- 3\. 10 % verbleiben in der Spezialfinanzierung und werden insbesondere für besondere Vorhaben und Projekte des gemischten Verkehrs verwendet
 
-#### § 14
+<sup>3</sup> Der Regierungsrat entscheidet über die Verwendung der Mittel gemäss Abs. 2 Ziff. 3.
 
-**Zuordnung zur Investitionsrechnung**
+#### § 26
 
-<sup>1</sup> Ausgaben ab einem Gesamtkredit von Fr. 100'000, die zu einem Mehrwert mit mehrjähriger Nutzungsdauer führen, sind in der Regel der Investitionsrechnung zuzuordnen.
+**Spezialfinanzierung Unterhalt Staatsdomänen**
 
-#### § 15
+<sup>1</sup> Der Nettoertrag aus den Pachtzinsen der Staatsdomänen fliesst in die Spezialfinanzierung Unterhalt Staatsdomänen gemäss § 52 Abs. 5 FHG.
 
-**Ertrag LSVA**
+<sup>2</sup> Die Mittel werden für den werterhaltenden Unterhalt der Staatsdomänen verwendet.
 
-<sup>1</sup> Der Kantonsanteil an der leistungsabhängigen Schwerverkehrsabgabe des Bundes (LSVA) gilt als frei verfügbare Einnahme und wird wie folgt verbucht:
+<sup>3</sup> Der Regierungsrat entscheidet über die Verwendung der Mittel.
 
-- 1\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im Kantonsstrassenunterhalt eingesetzt
-- 2\. 45 % des Kantonsanteils werden zur Reduktion der Nettobelastung der Aufwendungen im regionalen Personenverkehr eingesetzt
-- 3\. 10 % des Kantonsanteils werden in eine Rückstellung, insbesondere für besondere Vorhaben und Projekte des gemischten Verkehrs, überführt
+#### § 27
 
-#### § 16
+**Spezialfinanzierung Swisslos**
 
-**Ertrag Kontrollschilderauktion**
-
-<sup>1</sup> Der Nettoertrag aus der Kontrollschilderauktion des Strassenverkehrsamtes wird in eine Spezialfinanzierung überführt, die der Förderung der Verkehrssicherheit, insbesondere der Prävention im Strassenverkehr dient.
-
-#### § 17
-
-**Ertrag aus Swisslos**
-
-<sup>1</sup> …
-
-<sup>2</sup> Der kantonale Anteil am Ertrag der Swisslos Interkantonale Landeslotterie wird wie folgt aufgeteilt:
+<sup>1</sup> Der kantonale Anteil am Ertrag der Swisslos Interkantonale Landeslotterie wird wie folgt aufgeteilt:
 
 - 1\. 75 % an den Lotteriefonds
 - 2\. 25 % an den Sportfonds
 
-<sup>3</sup> Das Departement für Finanzen und Soziales regelt die Einzelheiten des Vollzugs.
+#### § 28
 
-## 3. Kreditrecht
+**Vorfinanzierungen**
 
-#### § 18
+<sup>1</sup> Für ein Investitionsprojekt kann eine Vorfinanzierung gebildet werden, wenn eine der folgenden Voraussetzungen vorliegt:
 
-**Verpflichtungskredite**
+- 1\. das Projekt besitzt eine klare Zweckbestimmung
+- 2\. das Projekt ist im Aufgaben- und Finanzplan aufgeführt
+- 3\. das Projekt ist Gegenstand einer Vorstudie
+- 4\. für das Projekt liegt eine Absichtserklärung vor
 
-<sup>1</sup> Zu neu beantragten Verpflichtungskrediten ist in der Regel in der Budgetbotschaft eine Erläuterung zu verfassen.
+<sup>2</sup> Vorfinanzierungen können gebildet werden, sofern ein allfälliger Bilanzfehlbetrag abgeschrieben wurde. Die Bildung von Vorfinanzierungen zu Lasten des Eigenkapitals ist nicht zulässig.
 
-#### § 19
+<sup>3</sup> Der Regierungsrat entscheidet über die Bildung neuer Vorfinanzierungen.
 
-**Kontrolle**
+### 3.4. Landkreditkonto
 
-<sup>1</sup> Die Departemente und die Staatskanzlei führen die Kontrolle über alle laufenden Verpflichtungskredite.
+#### § 29
 
-#### § 20
+**Erwerb von Grundstücken**
 
-**Abrechnung**
+<sup>1</sup> Die Kaufs- und Verkaufspreise orientieren sich am Marktpreis.
 
-<sup>1</sup> Über abgeschlossene Verpflichtungskredite ist im entsprechenden Geschäftsbericht Rechenschaft abzulegen.
+#### § 30
 
-#### § 21
+**Verwendung von Grundstücken**
 
-**Kreditüberschreitung**
+<sup>1</sup> Die erworbenen Grundstücke können auf Antrag jedes Departementes durch Entscheid des Regierungsrates entweder
 
-<sup>1</sup> Im Geschäftsbericht begründet der Regierungsrat wesentliche Kreditüberschreitungen. Als wesentlich gelten in der Erfolgsrechnung Abweichungen von mehr als 10 % und mindestens Fr. 50'000, in der Investitionsrechnung Abweichungen von mehr als 10 % und mindestens Fr. 100'000.
+- 1\. wieder veräussert werden,
+- 2\. als Realersatz eingetauscht werden oder
+- 3\. einem Verwendungszweck zugeführt werden, das heisst ins Verwaltungsvermögen überführt werden.
+
+#### § 31
+
+**Anrechnungspreis bei Überführung ins Verwaltungsvermögen**
+
+<sup>1</sup> Die Überführung eines Grundstückes ins Verwaltungsvermögen erfolgt zum Buchwert.
+
+#### § 32
+
+**Verwaltung**
+
+<sup>1</sup> Die Verwaltung der Grundstücke erfolgt zentral durch das Departement für Bau und Umwelt. Dieses kann die Verwaltung im Einvernehmen mit der betroffenen Verwaltungseinheit an diese delegieren.
+
+<sup>2</sup> Der Unterhalt der Grundstücke und die Mietzinseinnahmen werden unter Vorbehalt von Abs. 1 Satz 2 zentral in der Erfolgsrechnung des Departementes für Bau und Umwelt geführt.
+
+#### § 33
+
+**Verzinsung**
+
+<sup>1</sup> Die Grundstücke werden nicht verzinst.
+
+#### § 34
+
+**Wertvermehrender Unterhalt und Erschliessungsbeiträge**
+
+<sup>1</sup> Wertvermehrender Unterhalt erfolgt mittels Aufwertung des Grundstückes in der Bilanz.
+
+<sup>2</sup> Über wertvermehrende Unterhaltsmassnahmen entscheidet der Regierungsrat.
+
+<sup>3</sup> Erschliessungsbeiträge sind dem jeweiligen Grundstück zu belasten.
+
+#### § 35
+
+**Bilanzierung**
+
+<sup>1</sup> Grundstücke werden zum Kaufpreis zuzüglich Kosten bilanziert.
 
 ## 4. Rechnungslegung
 
-#### § 22
+#### § 36
 
-**Inhalt der Jahresrechnung und Anhang**
+**Kontenplan**
 
-<sup>1</sup> Die Jahresrechnung soll eine transparente und nachvollziehbare Darstellung der finanziellen Verhältnisse ermöglichen.
+<sup>1</sup> Sämtliche Organe und Anstalten führen einen Kontenplan nach HRM2.
 
-<sup>2</sup> Im Anhang zur Bilanz sind folgende Informationen und Übersichten aufzulisten:
+<sup>2</sup> Die Finanzverwaltung bestimmt nach Anhörung der betroffenen Ämter den Kontenplan.
 
-- 1\. Eigenkapitalnachweis
-- 2\. Eventualverpflichtungen
-- 3\. Verpflichtungskredite
-- 4\. Darlehen des Finanzvermögens
-- 5\. abzuschreibende Verwaltungsvermögen
-- 6\. Immobilienbestand
-- 7\. Beteiligungen
-- 8\. Fremdkapital
-- 9\. Rückstellungen
-- 10\. Spezialfinanzierungen
+<sup>3</sup> Sie erlässt Kontierungsrichtlinien.
 
-#### § 23
+#### § 37
 
-**Abschreibungen und Bewertungen**
+**Abschreibungen**
 
-<sup>1</sup> Die Abschreibung des Verwaltungsvermögens erfolgt grundsätzlich linear, basierend auf der Nutzungsdauer. Es gelten folgende Mindestabschreibungssätze:
+<sup>1</sup> Die Abschreibung des Verwaltungsvermögens erfolgt auf der Basis der Nutzungsdauer linear (Mindestabschreibungssätze):
 
-- 1\. Immobilien — 3 %
-- 2\. Mobilien — 10 %
-- 3\. Informatikinvestitionen — 20 %
-- 4\. Strassenbauten — 2,5 %
+- 1\. Gebäude, Hochbauten: 33 Jahre (3 %)
+- 2\. Tiefbauten: 40 Jahre (2.5 %)
+- 3\. Mobilien, Maschinen, Fahrzeuge: 10 Jahre (10 %)
+- 4\. Immaterielle Anlagen (1420 Software, 1429 übrige immaterielle Anlagen): 5 Jahre (20 %)
+- 5\. Informatik: 5 Jahre (20 %), bei einer geplanten Nutzungsdauer über 10 Jahre (10 %)
 
-<sup>1<sup>bis</sup></sup> Für Informatikinvestitionen mit einer Nutzungsdauer von mehr als zehn Jahren gilt ein Mindestabschreibungssatz von 10 %.
+<sup>2</sup> Die Abschreibungen von Investitionsbeiträgen erfolgen anhand der bei der Auszahlung mit der Leistungsempfängerin oder dem Leistungsempfänger vereinbarten Nutzungsdauer. Die Abschreibungen beginnen im Jahr des Nutzungsbeginnes und umfassen eine volle Jahresabschreibungstranche.
 
-<sup>2</sup> Investitionsbeiträge und Strasseninvestitionen können sofort voll abgeschrieben werden.
+<sup>3</sup> Der Regierungsrat kann im Budget und im Rechnungsabschluss neben den planmässigen Abschreibungen höhere Abschreibungssätze anwenden. Die Abweichungen sind zu begründen.
 
-<sup>3</sup> Die Immobilien des Finanzvermögens sind mindestens alle zehn Jahre einer Neubewertung zu unterziehen.
+<sup>4</sup> Bewertungsdifferenzen aus abweichender effektiver Nutzungsdauer und vorgegebenem Abschreibungssatz werden nicht ausgewiesen.
 
-<sup>4</sup> Der Regierungsrat kann im Budget und im Rechnungsabschluss höhere Abschreibungssätze anwenden. Die Abweichungen sind zu begründen.
+#### § 38
 
-## 5. Finanzielle Führung auf Verwaltungsebene
+**Vertretung in Beteiligungen**
 
-#### § 24
+<sup>1</sup> Die Vertretung in Organen juristischer Personen, deren Mitglied der Kanton ist oder an denen er finanziell beteiligt ist, obliegt der Finanzverwaltung, soweit der Regierungsrat nichts anderes bestimmt.
+
+<sup>2</sup> Die Leiterin oder der Leiter der Finanzverwaltung ist bevollmächtigt, das Stimmrecht an Generalversammlungen auszuüben, soweit der Regierungsrat nichts anderes bestimmt.
+
+## 5. Finanzielle Führung
+
+#### § 39
 
 **Controlling**
 
-<sup>1</sup> Die Departemente und die Staatskanzlei stellen in ihrem Verantwortungsbereich ein systematisches Controlling sicher. Auf Mitte und Ende Jahr ist dem Regierungsrat ein interner Gesamtcontrollingbericht zur Genehmigung vorzulegen.
+<sup>1</sup> Die Departemente und die Staatskanzlei stellen in ihrem Verantwortungsbereich ein systematisches Controlling sicher.
 
-#### § 25
+<sup>2</sup> Mitte Jahr legt die Finanzverwaltung dem Regierungsrat ein Finanz- und Projektcontrolling zur Genehmigung vor.
+
+<sup>3</sup> Ende Jahr legen das Personalamt und die Finanzverwaltung dem Regierungsrat ein Personal- und Projektcontrolling zur Genehmigung vor.
+
+#### § 40
 
 **Finanzielles Risikomanagement**
 
-<sup>1</sup> Instrumente des finanziellen Risikomanagements sind insbesondere:
+<sup>1</sup> Der Regierungsrat erlässt eine Richtlinie über die Organisation und die Umsetzung des Risikomanagements.
+
+<sup>2</sup> Instrumente des finanziellen Risikomanagements sind insbesondere:
 
 - 1\. Risikoportfolio und -landkarte
 - 2\. Internes Kontrollsystem (IKS)
 - 3\. Controllingbericht
 
-<sup>2</sup> Das Departement definiert Richtlinien über die Organisation und die Umsetzung des Risikomanagements. Der Regierungsrat genehmigt die Richtlinien.
+<sup>3</sup> Die Verwaltungseinheiten überprüfen jährlich die Angemessenheit und Effizienz der in ihrem Verantwortungsbereich eingesetzten Instrumente des Risikomanagements.
 
-#### § 26
+#### § 41
 
-**Überprüfung**
+**Mittelbeschaffung und -bewirtschaftung**
 
-<sup>1</sup> Die Ämter und Betriebe überprüfen jährlich die Angemessenheit und Effizienz der in ihrem Verantwortungsbereich eingesetzten Instrumente des Risikomanagements.
+<sup>1</sup> Das Departement erlässt zuhanden der Finanzverwaltung ein Reglement über die Mittelbeschaffung und -bewirtschaftung und bringt es dem Regierungsrat zur Kenntnis.
 
-#### § 27
-
-**Geldmittelbewirtschaftung**
-
-<sup>1</sup> Das Departement für Finanzen und Soziales erlässt zuhanden der Finanzverwaltung ein Reglement über die Mittelbeschaffung und -bewirtschaftung und bringt es dem Regierungsrat zur Kenntnis.
-
-#### § 28
-
-**Interne Verrechnungen**
-
-<sup>1</sup> Die internen Verrechnungen richten sich nach dem Handbuch über das Rechnungswesen.
-
-#### § 29
-
-**Kreditverantwortung**
-
-<sup>1</sup> Die Departemente und die Staatskanzlei sowie die Ämter und Betriebe sind für die sachgerechte Verwendung der gesprochenen Kredite verantwortlich.
-
-<sup>2</sup> Sie organisieren die Auszahlungskompetenzen im Rahmen der übergeordneten Verfügungskompetenzen.
-
-#### § 30
-
-**Kostenrechnung**
-
-<sup>1</sup> Ämter und Betriebe mit Leistungsauftrag und Globalbudget ermitteln die Leistungskosten mittels einer Kostenträgerrechnung.
-
-#### § 31
-
-**Bonus / Malus**
-
-<sup>1</sup> Ämter und Betriebe mit Globalbudgets können gegen Nachweis einer positiven Saldoabweichung Rückstellungen bilden.
-
-<sup>2</sup> Das Handbuch für das Rechnungswesen regelt die Einzelheiten.
-
-#### § 32
-
-**Eventualverpflichtungen und Eventualguthaben**
-
-<sup>1</sup> Die Ämter und Betriebe führen über bedingt rückzahlbare Forderungen sowie für Bürgschaften, Pfandbestellungen und Garantien des Staates ein Inventar und einen Gewährleistungsspiegel.
-
-<sup>2</sup> Die Departemente und die Staatskanzlei prüfen die Inventare und melden sie jeweils Ende Jahr an die Finanzverwaltung zuhanden des Geschäftsberichts.
-
-#### § 33
+#### § 42
 
 **Zahlungsverkehr**
 
 <sup>1</sup> Zwecks Optimierung der Mittelbewirtschaftung wird der Zahlungsverkehr in der Regel von der Finanzverwaltung geführt.
 
-<sup>2</sup> Die Eröffnung von Geschäftsbeziehungen mit Finanzinstituten sowie die dezentrale Führung von Post- und Bankkonten bedarf der Zustimmung der Finanzverwaltung. Die Verfügungsberechtigung über Geldkonten hat grundsätzlich mit Kollektivunterschrift zu erfolgen.
+<sup>2</sup> Die Eröffnung von Geschäftsbeziehungen mit Finanzinstituten sowie die dezentrale Führung von Post- und Bankkonten bedarf der Zustimmung der Finanzverwaltung.
 
-<sup>3</sup> Vertragspartner für die Regelung sämtlicher Geschäftsbeziehungen mit Finanzinstituten sind die Generalsekretärin oder der Generalsekretär des zuständigen Departements beziehungsweise die Staatsschreiberin oder der Staatsschreiber für die Staatskanzlei jeweils gemeinsam mit der Chefin oder dem Chef der Finanzverwaltung. Sie regeln die Zeichnungsberechtigungen.
+<sup>3</sup> Vertragspartner für die Regelung sämtlicher Geschäftsbeziehungen mit Finanzinstituten sind die Generalsekretärin oder der Generalsekretär des zuständigen Departementes oder die Staatsschreiberin oder der Staatsschreiber für die Staatskanzlei jeweils gemeinsam mit der Leiterin oder dem Leiter der Finanzverwaltung. Sie regeln die Zeichnungsberechtigung.
 
-#### § 34
-
-**Forderungsabschreibungen**
-
-<sup>1</sup> Die Kompetenz zur Abschreibung von Forderungen liegt beim in der Sache zuständigen Departement und der Staatskanzlei. Soweit die Uneinbringlichkeit ausgewiesen ist, können Beträge bis Fr. 1'000 durch die zuständigen Ämter und Betriebe abgeschrieben werden. Abgeschriebene Forderungen bleiben pro memoria in den Büchern, bis die Uneinbringlichkeit definitiv feststeht.
-
-#### § 35
-
-**Teilzahlungen**
-
-<sup>1</sup> Für Arbeiten und Lieferungen, die der Staat in Auftrag gibt oder subventioniert, können bei entsprechendem Leistungsnachweis Teilzahlungen vereinbart werden.
-
-#### § 36
-
-**Forderungserlasse**
-
-<sup>1</sup> Die Zuständigkeit für Forderungserlasse liegt unter dem Vorbehalt spezialrechtlicher Bestimmungen beim Departement für Finanzen und Soziales. Beträge bis Fr. 500 können von den zuständigen Ämtern und Betrieben erlassen werden. Mit dem Forderungserlass erlischt die Forderung; sie ist gleichzeitig abzuschreiben.
-
-#### § 37
+#### § 43
 
 **Inkasso**
 
 <sup>1</sup> Die Finanzverwaltung regelt das Inkasso für die zentrale und dezentrale Verwaltung. Sie erlässt die entsprechenden Richtlinien.
 
-## 6. Finanzkontrolle
+#### § 44
 
-#### § 38
+**Archivierung**
 
-**Zusammenarbeit**
+<sup>1</sup> Die Finanzverwaltung erlässt den Verfahrensbeschrieb für die Umsetzung der Archivierung.
 
-<sup>1</sup> Die Finanzkontrolle verkehrt mit den Departementen, der Staatskanzlei sowie den Ämtern und Betrieben direkt.
+## 6. Finanzstatistik
 
-<sup>2</sup> Sie kann alle für eine einwandfreie Kontrolle des Rechnungswesens, einschliesslich der internen Kontrollsysteme, erforderlichen Belege und Auskünfte verlangen.
+#### § 45
 
-<sup>3</sup> Die Departemente und die Staatskanzlei sowie die Ämter und Betriebe sind verpflichtet, alle Entscheide mit finanzieller Tragweite der Finanzkontrolle unverzüglich bekannt zu geben.
+**Finanzstatistischer Ausweis**
 
-#### § 39
+<sup>1</sup> Der finanzstatistische Ausweis umfasst mindestens acht Jahre.
 
-**Beizug von Sachverständigen**
+## 7. Organisation des Finanzwesens
 
-<sup>1</sup> Die Finanzkontrolle kann Sachverständige beiziehen, sofern die Durchführung ihrer Aufgaben besondere Fachkenntnisse erfordert oder mit ihrem eigenen Personal nicht gewährleistet werden kann.
+#### § 46
 
-#### § 40
+**Feststellungen der Finanzkontrolle**
 
-**Revisionsberichte**
+<sup>1</sup> Die Departemente und die Staatskanzlei nehmen Stellung zu den sie betreffenden Feststellungen der Finanzkontrolle und entscheiden über die Umsetzung der Feststellungen.
 
-<sup>1</sup> Über ausgeführte Revisionen wird ein Bericht erstellt. Der Bericht geht an die geprüfte Stelle, deren vorgesetzte Stelle (zuständiges Departement, Staatskanzlei, Obergericht oder Verwaltungsgericht) und an das Departement für Finanzen und Soziales.
+<sup>2</sup> Sie können die Bewirtschaftung der Feststellungen an die Ämter und Betriebe delegieren.
 
-<sup>2</sup> Die Kontrolle der Grundbuchämter und Notariate obliegt dem Grundbuch- und Notariatsinspektorat, diejenige der Betreibungsämter dem Konkursamt und Betreibungsinspektorat. Die Finanzkontrolle führt Finanzrevisionen durch.
+<sup>3</sup> Der Regierungsrat nimmt Stellung zu übergeordneten Themen und entscheidet über die Umsetzung der Feststellungen.
 
-<sup>3</sup> Das Departement für Finanzen und Soziales kann der Finanzkontrolle weitere Revisionsaufgaben übertragen. Die Finanzkontrolle kann Aufträge ablehnen, wenn die Abwicklung des ordentlichen Prüfprogramms oder ihre Unabhängigkeit gefährdet wird.
+#### § 47
 
-<sup>4</sup> In besonderen Fällen kann der Regierungsrat andere Stellen mit Prüfungsaufgaben betrauen.
+**Umlagen (Pflichtkonsum)**
 
-#### § 41
+<sup>1</sup> Als Pflichtkonsum werden die folgenden internen Verrechnungen umgelegt:
 
-**Beanstandungen**
+- 1\. Personalnebenkosten
+- 2\. Informatikdienstleistungen und -mittel
+- 3\. Dienstleistungen der Büromaterial-, Lehrmittel- und Drucksachenzentrale (BLDZ)
+- 4\. Raumkosten
 
-<sup>1</sup> Werden unwesentliche Mängel, insbesondere Fehler formeller Art festgestellt, werden diese von der geprüften Stelle unverzüglich behoben. Die Finanzkontrolle kann die geprüfte Stelle auffordern, einen schriftlichen Bericht über die Behebung der Mängel zu erstatten.
+<sup>2</sup> Der Regierungsrat legt Berechnung und Umfang des Pflichtkonsums fest.
 
-<sup>2</sup> Werden wesentliche Mängel festgestellt, setzt die Finanzkontrolle der geprüften Stelle eine Frist um auf dem Dienstweg schriftlich dazu Stellung zu nehmen und Auskunft über die getroffenen oder eingeleiteten Massnahmen zu erteilen.
+<sup>3</sup> Das Handbuch Rechnungswesen KVTG regelt die Einzelheiten.
 
-#### § 42–43
+#### § 48
 
-**…**
+**Interne Verrechnungen**
 
-ABl. 49/2011
+<sup>1</sup> Interne Rechnungsstellungen sind als interne Verrechnung (Kontengruppen 39 und 49) zu verbuchen.
+
+## 8. Übergangs- und Schlussbestimmungen
+
+#### § 49
+
+**Kontenpläne nach HRM2**
+
+<sup>1</sup> Spätestens vier Jahre ab Inkrafttreten der vorliegenden Verordnung führen alle Organe und Anstalten Kontenpläne nach HRM2.
+
+#### § 50
+
+**Investitionsbeiträge als Verpflichtungskredite**
+
+<sup>1</sup> Bestehende Investitionsbeiträge werden nicht in Verpflichtungskredite umgewandelt.
+
+19/2024​
