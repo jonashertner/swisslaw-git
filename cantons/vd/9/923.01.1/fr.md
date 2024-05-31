@@ -4,7 +4,7 @@ number: "923.01.1"
 title: "RÈGLEMENT du 15.08.2007 d'application de la loi du 29 novembre 1978 sur la pêche (RLPêche)"
 short: RLPêche
 language: fr
-version: 2019-07-01
+version: 2024-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/923.01.1?id=dc9cd2aa-05b4-44a0-a2d1-8133d0e86ae7"
 ---
 
@@ -59,7 +59,11 @@ arrête
 
 <sup>1</sup> La pêche et la capture d'organismes aquatiques se font selon le principe du développement durable, soit de manière rationnelle, en respectant en priorité le renouvellement naturel des espèces indigènes de poissons et d'écrevisses et en assurant par des mesures de protection leur développement à long terme.
 
-[^2-1]: Modif. 3 du 22.05.2024: Introduction Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+<sup>2</sup> Les poissons et écrevisses indigènes qui figurent à l'annexe 1 de l'ordonnance relative à la loi fédérale sur la pêche, avec un statut de menace compris entre 0 et 3 et pour lesquels il n'existe ni période de protection, ni longueur minimale sont interdits de capture.
+
+<sup>3</sup> Le département peut prolonger la période de protection ou prescrire de telles périodes pour d'autres espèces.
+
+[^2-1]: Modif. 3 du 22.05.2024: Introduction Al. 2-3; entrée en vigueur au 01.06.2024
 
 #### Art. 4
 
@@ -113,7 +117,9 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 
 <sup>2</sup> Les permis mensuels et annuels sont délivrés par les préfectures ou le service.
 
-[^chapterChapitreII-1]: Modif. 1 du 21.06.2017: Modification Al. t,1,2; entrée en vigueur au 01.07.2017 · Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+<sup>3</sup> Un montant de vingt pour cent sur le prix des permis est versé par le service aux points de vente objets du présent article.
+
+[^chapterChapitreII-1]: Modif. 1 du 21.06.2017: Modification Al. t,1,2; entrée en vigueur au 01.07.2017 · Modif. 3 du 22.05.2024: Introduction Al. 3; entrée en vigueur au 01.06.2024
 
 #### Art. 8
 
@@ -140,9 +146,9 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 
 - a. violation des articles 47 ou 55 de la loi sur la pêche ;
 - b. utilisation d'engins de pêche interdits ou en pêchant avec des méthodes ou des moyens non autorisés selon les dispositions édictées par le département ;
-- c. pêche dans les réserves de pêche ou pendant les périodes de protection définies dans les dispositions édictées par le département ;
-- d. pêche de poissons ou d'écrevisses dont la longueur est inférieure de 10 % au moins de la dimension minimale de capture ;
-- e. capture de poissons ou d'écrevisses en nombre supérieur à celui qui est autorisé ;
+- c. pêche dans les réserves de pêche et autres lieux désignés par le département ou pendant les périodes de protection définies par lui ;
+- d. ...
+- e. capture de poissons ou d'écrevisses en nombre supérieur à celui qui est autorisé, au-delà de ce qui est sanctionné par une amende d'ordre ;
 - f. infraction à la législation sur la protection des animaux commise dans le cadre de l'exercice de la pêche.
 
 <sup>2</sup> Le permis ainsi que le droit de pêche peuvent également être retirés lorsque le titulaire a été condamné 3 fois en l'espace de 3 ans pour toute infraction à la législation sur la pêche ou sur la faune.
@@ -153,7 +159,7 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 
 <sup>5</sup> En cas d'infraction particulièrement légère, la durée du retrait peut être inférieure à une année.
 
-[^8-1]: Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Modification Al. 1, c; entrée en vigueur au 01.06.2024; Abrogation Al. 1, d; entrée en vigueur au 01.06.2024; Modification Al. 1, e; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+[^8-1]: Modif. 3 du 22.05.2024: Modification Al. 1, c; entrée en vigueur au 01.06.2024; Abrogation Al. 1, d; entrée en vigueur au 01.06.2024; Modification Al. 1, e; entrée en vigueur au 01.06.2024
 [^9-1]: Loi du 29.11.1978 sur la pêche ([BLV 923.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/923.01?id=4a08feba-baaa-43f3-8a99-c8f6c3f90be9))
 [^9-2]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
@@ -175,21 +181,21 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 
 <sup>1</sup> La compétence pour décider du financement d'une opération appartient :
 
-- a. au service jusqu'à CHF 50'000.- ;
-- b. au département si le montant est compris entre CHF 50'001.- et CHF 250'000.- ;
-- c. au Conseil d'Etat si le montant dépasse CHF 250'000.-.
+- a. au service jusqu'à CHF 200'000.- ;
+- b. au département si le montant dépasse CHF 200'000.- ;
+- c. ...
 
 <sup>2</sup> Le service est compétent pour prélever les fonds nécessaires à l'exécution des décisions prises.
 
-[^chapterChapitreIV-1]: Modif. 1 du 21.06.2017: Modification Al. t,1; entrée en vigueur au 01.07.2017; Introduction Al. 2; entrée en vigueur au 01.07.2017 · Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Abrogation Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+[^chapterChapitreIV-1]: Modif. 1 du 21.06.2017: Modification Al. t,1; entrée en vigueur au 01.07.2017; Introduction Al. 2; entrée en vigueur au 01.07.2017 · Modif. 3 du 22.05.2024: Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Abrogation Al. 1, c; entrée en vigueur au 01.06.2024
 
 ## Chapitre V Surveillance de la pêche
 
 #### Art. 12
 
-**Droit des agents (60) [^chapterChapitreV-1]**
+**Droit des agents de police faune-nature [^chapterChapitreV-1]**
 
-<sup>1</sup> Les agents chargés de la police de la pêche ont notamment le droit en tout temps :
+<sup>1</sup> Les agents de police faune-nature ont notamment le droit en tout temps.
 
 - a. d'exiger des pêcheurs trouvés sans permis de justifier de leur identité et, s'ils ne peuvent le faire, de les inviter à les suivre au poste de gendarmerie ou de police le plus proche pour établir leur identité ;
 - b. d'exiger des pêcheurs la présentation de leurs engins et du produit de leur pêche ;
@@ -199,32 +205,32 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 - f. de séquestrer les engins employés d'une manière illégale, les engins prohibés, ainsi que les poissons et les écrevisses capturés d'une manière illégale ;
 - g. de procéder à la saisie des permis de pêche et des carnets ou formules de pêche, en cas d'infraction par leur titulaire. Ces documents doivent être remis à l'autorité judiciaire avec la dénonciation.
 
-<sup>2</sup> Les gardes-pêche permanents et les gardes-pêche auxiliaires sont assermentés par le préfet du district de leur domicile.
+<sup>2</sup> Ils sont assermentés par le préfet du district de leur domicile.
 
-[^chapterChapitreV-1]: Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+[^chapterChapitreV-1]: Modif. 3 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024
 
 #### Art. 13
 
-**Gardiennage auxiliaire (60) [^12-1]**
+**Agents de police faune-nature auxiliaires (60) [^12-1]**
 
-<sup>1</sup> Le garde-pêche auxiliaire exerce ses fonctions toute l'année. Dans le cadre de son mandat, il est subordonné au garde-pêche permanent, qu'il est tenu d'informer de toutes les actions importantes qu'il entreprend.
+<sup>1</sup> L'agent de police faune-nature auxiliaire exerce ses fonctions toute l'année. Dans le cadre de son mandat, il est subordonné à l'agent de police faune-nature permanent, qu'il est tenu d'informer de toutes les actions importantes qu'il entreprend.
 
-<sup>2</sup> Après avoir entendu les milieux intéressés, le service désigne un délégué cantonal au gardiennage parmi les gardes-pêche auxiliaires et définit son rôle et ses tâches.
+<sup>2</sup> Après avoir entendu les milieux intéressés, le service désigne un délégué cantonal au gardiennage parmi les agents de police faune-nature auxiliaires et définit son rôle et ses tâches.
 
 - a. ...
 - b. ...
 - c. ...
 - d. ...
 
-[^12-1]: Modif. 2 du 26.06.2019: Modification Al. 2; entrée en vigueur au 01.07.2019; Abrogation Al. 2, a-d; entrée en vigueur au 01.07.2019 · Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+[^12-1]: Modif. 2 du 26.06.2019: Modification Al. 2; entrée en vigueur au 01.07.2019; Abrogation Al. 2, a-d; entrée en vigueur au 01.07.2019 · Modif. 3 du 22.05.2024: Modification tArt; entrée en vigueur au 01.06.2024; Modification Al. 1-2; entrée en vigueur au 01.06.2024
 
 #### Art. 14
 
-**Police judiciaire (61) [^13-1]**
+**... [^13-1]**
 
-<sup>1</sup> Les gardes-pêche permanents ayant subi avec succès une formation appropriée ont la compétence d'exercer la fonction de police judiciaire dans le cadre d'enquêtes et de procédures découlant de leur cahier des charges.
+<sup>1</sup> ...
 
-[^13-1]: Modif. 3 du 22.05.2024: Introduction Art. 3, Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 7, Al. 3; entrée en vigueur au 01.06.2024; Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
+[^13-1]: Modif. 3 du 22.05.2024: Abrogation tArt; entrée en vigueur au 01.06.2024; Abrogation Al. 1; entrée en vigueur au 01.06.2024
 
 #### Art. 15
 
@@ -235,6 +241,14 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 <sup>2</sup> Les engins de pêche employés d'une manière illégale qui ont fait l'objet d'un séquestre ne sont restitués au délinquant qu'après paiement de l'amende et des frais.
 
 <sup>3</sup> Les poissons et écrevisses confisqués sont vendus ou donnés à des institutions sociales dans les meilleurs délais. Le produit de la vente est affecté au fonds d'aménagement piscicole.
+
+#### Art. 15a
+
+**Amendes d'ordre [^15-1]**
+
+<sup>1</sup> La liste des infractions punissables par une amende d'ordre est fixée à l'annexe 1. Elle précise le montant de l'amende.
+
+[^15-1]: Modif. 3 du 22.05.2024: Introduction tArt; entrée en vigueur au 01.06.2024; Introduction Al. 1; entrée en vigueur au 01.06.2024; Introduction Art. 15a; entrée en vigueur au 01.06.2024
 
 #### Art. 16
 
@@ -247,3 +261,11 @@ Dans les lacs de Joux, Brenet et Ter, ainsi que dans le canal reliant le lac de 
 **Entrée en vigueur**
 
 <sup>1</sup> Le Département de la sécurité et de l'environnement est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2008.
+
+Annexes [^17-1]
+
+1
+
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/dc9cd2aa-05b4-44a0-a2d1-8133d0e86ae7/annexes/1?dmev=01.06.2024)
+
+[^17-1]: Modif. 3 du 22.05.2024: Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2024
