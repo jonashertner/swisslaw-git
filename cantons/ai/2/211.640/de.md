@@ -3,20 +3,19 @@ canton: AI
 number: "211.640"
 title: Verordnung über das Alpregister im Grundbuch
 language: de
-version: 2021-11-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-25
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 2004-11-22
 in_force: 2004-11-22
 url: "https://ai.clex.ch/app/de/texts_of_law/211.640"
-pdf: "https://ai.clex.ch/api/de/versions/1960/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Alpregister im Grundbuch
 
-vom 22.11.2004 (Stand 01.11.2021)
+vom 22.11.2004 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -30,19 +29,14 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das zuständige Grundbuchamt führt ein Alpregister über Alpen und Weiden, die im Eigentum
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle führt ein Alpregister über Alpen und Weiden, die im Eigentum
 
 - a) des Kantons Appenzell I.Rh. mit selbständigen Anteilrechten Dritter (Gemeine Alpen) oder
 - b) von Alpgenossenschaften mit selbständigen Anteilrechten
 
 #### Art. 1a
 
-**Begriffsbestimmung**
-
-<sup>1</sup> In dieser Verordnung gilt als Grundbuchamt
-
-- a) im inneren Landesteil das Grundbuch- und Erbschaftsamt Appenzell;
-- b) im äusseren Landesteil das Grundbuchamt Oberegg.
+**…**
 
 #### Art. 2
 
@@ -68,7 +62,7 @@ beschliesst:
 
 **Alpregister**
 
-<sup>1</sup> Das Grundbuchamt legt über die Anteilrechte ein Alpregister an und führt dieses nach.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle legt über die Anteilrechte ein Alpregister an und führt dieses nach.
 
 <sup>2</sup> Das Alpregister bildet einen Bestandteil des Grundbuches. Es kann auf Papier oder mittels elektronischer Datenverarbeitung (EDV-Grundbuch) geführt werden.
 
@@ -89,9 +83,9 @@ beschliesst:
 
 <sup>2</sup> Im Grundbuch ist nach Massgabe der Statuten bzw. der Verordnung betreffend die Gemeinen Alpen (Alpbüchlein) vom 12. Februar 1996 auf den Bestand von Anteilrechten und auf deren Umfang hinzuweisen.
 
-<sup>3</sup> Die Alpgenossenschaftsverwaltungen sind verpflichtet, von jeder bei ihnen angemeldeten Änderung von Anteilrechten dem Grundbuchamt sofort schriftliche Mitteilung zu machen. Es ist ein genehmigter Versammlungsbeschluss einzureichen.
+<sup>3</sup> Die Alpgenossenschaftsverwaltungen sind verpflichtet, von jeder bei ihnen angemeldeten Änderung von Anteilrechten der für das Grundbuchwesen zuständigen Stelle sofort schriftliche Mitteilung zu machen. Es ist ein genehmigter Versammlungsbeschluss einzureichen.
 
-<sup>4</sup> Das Land- und Forstwirtschaftsdepartement ist verpflichtet, von einer allfälligen Änderung der zulässigen Stosszahlen im Sinne von Art. 2 Abs. 1 des Alpbüchleins dem Grundbuchamt sofort schriftliche Mitteilung zu machen. Der diesbezügliche Beschluss des Grossen Rates ist dem Grundbuchamt einzureichen.
+<sup>4</sup> Das Land- und Forstwirtschaftsdepartement ist verpflichtet, von einer allfälligen Änderung der zulässigen Stosszahlen im Sinne von Art. 2 Abs. 1 des Alpbüchleins der für das Grundbuchwesen zuständigen Stelle sofort schriftliche Mitteilung zu machen. Der diesbezügliche Beschluss des Grossen Rates ist der für das Grundbuchwesen zuständigen Stelle einzureichen.
 
 ## II. Anlage der Hauptbuchblätter über die Anteilrechte
 
@@ -99,9 +93,9 @@ beschliesst:
 
 **Aufruf**
 
-<sup>1</sup> Das Grundbuchamt erlässt innert sechs Monaten nach Inkrafttreten dieser Verordnung einen öffentlichen Aufruf im amtlichen Publikationsorgan, in welchem
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle erlässt innert sechs Monaten nach Inkrafttreten dieser Verordnung einen öffentlichen Aufruf im amtlichen Publikationsorgan, in welchem
 
-- a) der Kanton Appenzell I.Rh. bzw. die Alpgenossenschaften aufzufordern sind, die vorhandenen genehmigten und rechtsgültigen Statuten und Protokolle sowie das Mitgliederverzeichnis und andere sachdienliche Unterlagen beim Grundbuchamt einzureichen;
+- a) der Kanton Appenzell I.Rh. bzw. die Alpgenossenschaften aufzufordern sind, die vorhandenen genehmigten und rechtsgültigen Statuten und Protokolle sowie das Mitgliederverzeichnis und andere sachdienliche Unterlagen bei der für das Grundbuchwesen zuständigen Stelle einzureichen;
 - b) die Inhaber von Anteilrechten und andere Personen, deren Berechtigungen aus den Unterlagen des Kantons Appenzell I.Rh. bzw. der Alpgenossenschaft nicht hervorgehen, aufzufordern sind, ihre Rechte zur Aufnahme in die Hauptbuchblätter der Anteilrechte geltend zu machen.
 
 <sup>2</sup> Die Eingabefrist beträgt einen Monat ab Datum der Publikation.
@@ -110,9 +104,9 @@ beschliesst:
 
 **Bereinigung der Anmeldungen**
 
-<sup>1</sup> Das Grundbuchamt erledigt hinsichtlich der Gemeinen Alpen zusammen mit dem Vorsteher des Land- und Forstwirtschaftsdepartementes und hinsichtlich der Privaten Alpen mit dem Vorstand der betroffenen Alpgenossenschaft die eingegangenen Begehren im Sinne von Art. 5 dieser Verordnung.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle erledigt hinsichtlich der Gemeinen Alpen zusammen mit dem Vorsteher des Land- und Forstwirtschaftsdepartements und hinsichtlich der Privaten Alpen mit dem Vorstand der betroffenen Alpgenossenschaft die eingegangenen Begehren im Sinne von Art. 5 dieser Verordnung.
 
-<sup>2</sup> Können sich die Beteiligten (betroffener Anteilrechtseigentümer und Vorstand der Alpgenossenschaft) nicht gütlich einigen, so setzt das Grundbuchamt eine Frist von 30 Tagen zur Einreichung der Klage beim Zivilgericht an. In der Regel wird das Gericht die Klägerrolle zuweisen:
+<sup>2</sup> Können sich die Beteiligten (betroffener Anteilrechtseigentümer und Vorstand der Alpgenossenschaft) nicht gütlich einigen, so setzt die für das Grundbuchwesen zuständige Stelle eine Frist von 30 Tagen zur Einreichung der Klage beim Zivilgericht an. In der Regel wird das Gericht die Klägerrolle zuweisen:
 
 - a) dem Ansprecher, der ein nicht im Grundbuch vollzogenes Recht geltend macht oder die Änderung eines Eintrages beantragt;
 - b) demjenigen, der ein im Grundbuch eingetragenes Recht ganz oder teilweise bestreitet.
@@ -123,7 +117,7 @@ beschliesst:
 
 **Einrichtung des Alpregisters**
 
-<sup>1</sup> Über die bereinigten Anteilrechte und pro Stammliegenschaft legt das Grundbuchamt ein Hauptbuchblatt (Alpregister) an.
+<sup>1</sup> Über die bereinigten Anteilrechte und pro Stammliegenschaft legt die für das Grundbuchwesen zuständige Stelle ein Hauptbuchblatt (Alpregister) an.
 
 #### Art. 8
 
@@ -151,17 +145,17 @@ beschliesst:
 
 <sup>2</sup> Die Auflagefrist beträgt im Sinne von Abs. 1 dieses Artikels einen Monat.
 
-<sup>3</sup> Innert dieser Frist kann gegen die Eintragungen auf den Hauptbuchblättern beim Grundbuchamt schriftlich Einsprache erhoben werden. Die Einsprachen sind in sinngemässer Anwendung von Art. 6 dieser Verordnung zu erledigen.
+<sup>3</sup> Innert dieser Frist kann gegen die Eintragungen auf den Hauptbuchblättern bei der für das Grundbuchwesen zuständigen Stelle schriftlich Einsprache erhoben werden. Die Einsprachen sind in sinngemässer Anwendung von Art. 6 dieser Verordnung zu erledigen.
 
 #### Art. 10
 
 **Verifikation und Inkraftsetzung**
 
-<sup>1</sup> Nach Erledigung allfälliger Einsprachen unterbreitet das Grundbuchamt die Hauptbuchblätter über die Anteilrechte der Standeskommission zur Prüfung.
+<sup>1</sup> Nach Erledigung allfälliger Einsprachen unterbreitet die für das Grundbuchwesen zuständige Stelle die Hauptbuchblätter über die Anteilrechte der Standeskommission zur Prüfung.
 
 <sup>2</sup> Gestützt auf die vorgenommene Verifikation setzt die Standeskommission die Hauptbuchblätter über die Anteilrechte in Kraft und meldet dieselben zur Eintragung im Grundbuch an.
 
-<sup>3</sup> Das Grundbuchamt veröffentlicht die Inkraftsetzung im amtlichen Publikationsorgan.
+<sup>3</sup> Die für das Grundbuchwesen zuständige Stelle veröffentlicht die Inkraftsetzung im amtlichen Publikationsorgan.
 
 #### Art. 11
 
