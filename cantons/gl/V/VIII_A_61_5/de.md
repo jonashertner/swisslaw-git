@@ -4,13 +4,12 @@ number: VIII A/61/5
 title: Verordnung zum Spezialfonds Härtefallunterstützungen für Unternehmen im Zusammenhang mit der Covid-19-Pandemie
 short: "Kantonale Härtefallmassnahmenverordnung, KHFMV"
 language: de
-version: 2022-04-01
-valid_until: 2024-05-31
-version_adopted: 2022-03-29
+version: 2024-06-01
+version_adopted: 2024-04-30
 adopted: 2022-03-15
 in_force: 2022-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2295/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2295/pdf_file"
 
 (Kantonale Härtefallmassnahmenverordnung, KHFMV)
 
-Vom 15.03.2022 (Stand 01.04.2022)
+Vom 15.03.2022 (Stand 01.06.2024)
 
 Der Regierungsrat,
 
@@ -129,12 +128,12 @@ erlässt:
 
 **Missbrauchbekämpfung**
 
-<sup>1</sup> Die kantonale Finanzkontrolle führt laufend Stichproben durch. Sie kann dafür Hilfspersonen beiziehen. Dabei überprüft sie die Gesuchunterlagen vertieft, namentlich auch die Mittelverwendung nach Artikel 3 HFMV 22.
+<sup>1</sup> Die Hauptabteilung Wirtschaft und Arbeit führt laufend Stichproben durch. Sie kann dafür Hilfspersonen beiziehen. Dabei überprüft sie die Gesuchunterlagen vertieft, namentlich auch die Mittelverwendung gemäss den bundesrechtlichen Vorgaben.
 
 <sup>2</sup> Sie kann Beiträge zurückfordern, namentlich wenn:
 
 - a. sich Gesuchangaben als unrichtig oder unvollständig erweisen;
-- b. die Gesuchstellenden ihre Mittel entgegen der eigenen Bestätigung oder entgegen den Vorgaben der HFMV 22 verwenden.
+- b. die Gesuchstellenden ihre Mittel entgegen der eigenen Bestätigung oder entgegen den bundesrechtlichen Vorgaben verwenden.
 
 <sup>3</sup> Verstösse gegen diese Verordnung können mit Busse bis zu 5000 Franken geahndet werden. In schweren Fällen erfolgt eine Verzeigung.
 
