@@ -3,20 +3,19 @@ canton: AI
 number: "211.450"
 title: Verordnung über die Schätzung von Grundstücken
 language: de
-version: 2021-11-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-25
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 2007-02-26
 in_force: 2007-02-26
 url: "https://ai.clex.ch/app/de/texts_of_law/211.450"
-pdf: "https://ai.clex.ch/api/de/versions/1958/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schätzung von Grundstücken
 
-vom 26.02.2007 (Stand 01.11.2021)
+vom 26.02.2007 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -143,7 +142,7 @@ beschliesst:
 
 <sup>2</sup> Der kantonalen Steuerverwaltung ist eine Kopie des Schätzungsprotokolls zu übermitteln.
 
-<sup>3</sup> Die für das Grundbuch zuständigen Stellen werden vom Ergebnis der Schätzung in Kenntnis gesetzt, sobald diese in Rechtskraft erwachsen ist.
+<sup>3</sup> Die für das Grundbuchwesen zuständige Stelle wird vom Ergebnis der Schätzung in Kenntnis gesetzt, sobald diese in Rechtskraft erwachsen ist.
 
 #### Art. 11
 
