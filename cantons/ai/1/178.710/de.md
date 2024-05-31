@@ -3,20 +3,19 @@ canton: AI
 number: "178.710"
 title: Verordnung über die öffentliche Beurkundung
 language: de
-version: 2021-11-01
-valid_until: 2024-05-31
-version_adopted: 2021-10-25
+version: 2024-06-01
+version_adopted: 2024-02-05
 adopted: 1951-06-01
 in_force: 1951-07-26
 url: "https://ai.clex.ch/app/de/texts_of_law/178.710"
-pdf: "https://ai.clex.ch/api/de/versions/1957/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2277/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die öffentliche Beurkundung
 
-vom 01.06.1951 (Stand 01.11.2021)
+vom 01.06.1951 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -33,8 +32,8 @@ beschliesst:
 <sup>1</sup> Urkundspersonen sind:
 
 - a) die Grundbuchverwalter[^1-1] und ihre Stellvertreter;
-- b) die Leiter der für das Erbschaftswesen zuständigen Stellen und ihre Stellvertreter;
-- c) der Handelsregisterführer und seine Stellvertreter;
+- b) der Leiter der für das Erbschaftswesen zuständigen Stelle und seine Stellvertreter;
+- c) der Leiter der für das Handelsregister zuständigen Stelle und seine Stellvertreter;
 - d) die von der Standeskommission ermächtigten Personen.
 
 [^1-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
@@ -57,17 +56,17 @@ beschliesst:
 
 #### Art. 1c
 
-<sup>1</sup> Der Grundbuchverwalter von Appenzell und der Leiter der für das Erbschaftswesen zuständigen Stelle von Appenzell nehmen öffentliche Beurkundungen im inneren Landesteil vor, der Grundbuchverwalter von Oberegg und der Leiter der für das Erbschaftswesen zuständigen Stelle von Oberegg im Bezirk Oberegg.
+<sup>1</sup> …
 
-<sup>2</sup> Die anderen Urkundspersonen dürfen öffentliche Beurkundungen im ganzen Kantonsgebiet vornehmen.
+<sup>2</sup> …
 
 #### Art. 1d
 
 <sup>1</sup> Für die öffentliche Beurkundung sind zuständig:
 
 - a) die Grundbuchverwalter und ihre Stellvertreter in sämtlichen zivilrechtlichen Angelegenheiten;
-- b) die Leiter der für das Erbschaftswesen zuständigen Stellen und ihre Stellvertreter im Ehegüter- und Erbrecht, im Vermögensrecht von eingetragenen Partnern, im Erwachsenenschutzrecht und für Verpfründungsverträge;
-- c) der Handelsregisterführer und seine Stellvertreter in Handelsregistersachen;
+- b) der Leiter der für das Erbschaftswesen zuständigen Stelle und seine Stellvertreter im Ehegüter- und Erbrecht, im Vermögensrecht von eingetragenen Partnern, im Erwachsenenschutzrecht und für Verpfründungsverträge;
+- c) der Leiter der für das Handelsregisterwesen zuständigen Stelle und seine Stellvertreter in Handelsregistersachen;
 - d) die ermächtigten Rechtsanwälte in sämtlichen zivilrechtlichen Angelegenheiten, ausser in Grundbuchsachen;
 - e) die Mitarbeitenden der kantonalen Verwaltung in ihrem Tätigkeitsgebiet gemäss Ermächtigungsbeschluss der Standeskommission.
 
@@ -135,7 +134,7 @@ beschliesst:
 
 <sup>3</sup> Die entsprechende Beurkundungsformel kann vor oder nach den Parteiunterschriften stehen.
 
-<sup>4</sup> Die Urkundsperson kann die Niederschrift der Urkunde einem Angestellten übertragen und dieser auch mit der Verlesung von Urkunden über Rechtsgeschäfte über dingliche Rechte an Grundstücken und Verträgen über Errichtung oder Abänderung von Grundpfandrechten (Art. 8 Abs. 2 und 3) beauftragen.
+<sup>4</sup> Die Urkundsperson kann die Niederschrift der Urkunde einem Angestellten übertragen und diesen auch mit der Verlesung von Urkunden über Rechtsgeschäfte über dingliche Rechte an Grundstücken und Verträgen über Errichtung oder Abänderung von Grundpfandrechten (Art. 8 Abs. 2 und Abs. 3) beauftragen.
 
 #### Art. 8
 
