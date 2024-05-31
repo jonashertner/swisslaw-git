@@ -4,13 +4,12 @@ number: "170.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2022-01-01
-valid_until: 2024-05-31
-version_adopted: 2021-03-24
+version: 2024-06-01
+version_adopted: 2023-11-22
 adopted: 1981-02-23
 in_force: 1984-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2691/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2774/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ VRG
 
 (VRG)
 
-vom 23.02.1981 (Stand 01.01.2022)
+vom 23.02.1981 (Stand 01.06.2024)
 
 ## 1. Abschnitt: Geltungsbereich und Begriffe
 
@@ -619,7 +618,7 @@ vom 23.02.1981 (Stand 01.01.2022)
 <sup>1</sup> Mit Beschwerde beim Verwaltungsgericht können Entscheide der folgenden Behörden angefochten werden:
 
 - 1\. Amtsstelle, die für die Handelsregisterführung verantwortlich ist
-- 2\. Zwangsmassnahmengericht im Bereich der ausländerrechtlichen Zwangsmassnahmen, wobei der Beschwerde keine aufschiebende Wirkung zukommt
+- 2\. Zwangsmassnahmengericht im Bereich der ausländerrechtlichen und polizeilichen Zwangsmassnahmen, wobei der Beschwerde keine aufschiebende Wirkung zukommt
 - 3\. Rekursinstanzen
 - 4\. Enteignungskommission
 - 5\. Departemente.
