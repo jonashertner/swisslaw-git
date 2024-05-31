@@ -4,13 +4,13 @@ number: II A/6/2
 title: Personalverordnung
 short: PV
 language: de
-version: 2024-03-01
-valid_until: 2024-05-31
-version_adopted: 2024-02-20
+version: 2024-06-01
+valid_until: 2024-12-31
+version_adopted: 2024-04-30
 adopted: 2017-07-06
 in_force: 2017-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2478/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2478/pdf_file"
 
 (PV)
 
-Vom 06.07.2017 (Stand 01.03.2024)
+Vom 06.07.2017 (Stand 01.06.2024)
 
 Der Regierungsrat,
 
@@ -1596,6 +1596,7 @@ erlässt:
 - b. Staatsanwaltschaft: 250 Fr./Monat;
 - c. Umwelt und Energie: 200 Fr./Monat;
 - d. Wildhüter: 200 Fr./Monat für Pikettentschädigung, 200 Fr./Monat für Nacht- und Sonntagsarbeit;
+- d1. Fischereiaufseher: 120 Fr./Monat für Nacht- und Sonntagsarbeit;
 - e. Winterpikett Strassenunterhalt: 21 Fr./Tag;
 - f. Bereitschaftsdienst Lawinenzentrale (für die Monate November bis April): 200 Fr./Monat;
 - g. Gefängnisaufsicht: 21 Fr./Tag;
