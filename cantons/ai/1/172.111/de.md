@@ -4,13 +4,13 @@ number: "172.111"
 title: "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen"
 short: StKB Dep
 language: de
-version: 2023-08-01
-valid_until: 2024-05-31
-version_adopted: 2023-07-04
+version: 2024-06-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-26
 adopted: 2001-04-03
 in_force: 2001-04-03
 url: "https://ai.clex.ch/app/de/texts_of_law/172.111"
-pdf: "https://ai.clex.ch/api/de/versions/2231/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2231/pdf_file"
 
 (StKB Dep)
 
-vom 03.04.2001 (Stand 01.08.2023)
+vom 03.04.2001 (Stand 01.06.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -273,8 +273,10 @@ beschliesst:
 - c) Grenzkommission
 - d) Schlichtungsstelle Gleichstellung von Frau und Mann
 - e) Tripartite Kommission
-- f) Erbschaftsbehörden
+- f) …
 - g) Lenkungsgruppe Neue Regionalpolitik
+
+<sup>3</sup> Für das Grundbuchwesen ist das Grundbuch- und Erbschaftsamt, Abteilung Grundbuch, zuständig, für das Erbschaftswesen das Grundbuch- und Erbschaftsamt, Abteilung Erbschaft, für das Betreibungs- und Konkurswesen das Betreibungs- und Konkursamt.
 
 #### Art. 9
 
