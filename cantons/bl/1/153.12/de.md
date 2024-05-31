@@ -3,20 +3,19 @@ canton: BL
 number: "153.12"
 title: Verordnung über die Lohnansprüche der Mitarbeiterinnen und Mitarbeiter bei Arbeitsunfähigkeit infolge Krankheit oder Unfalls
 language: de
-version: 2019-12-01
-valid_until: 2024-05-31
-version_adopted: 2019-11-05
+version: 2024-06-01
+version_adopted: 2024-05-21
 adopted: 2000-06-27
 in_force: 2000-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.12"
-pdf: "https://bl.clex.ch/api/de/versions/3924/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Lohnansprüche der Mitarbeiterinnen und Mitarbeiter bei Arbeitsunfähigkeit infolge Krankheit oder Unfalls
 
-Vom 27.06.2000 (Stand 01.12.2019)
+Vom 27.06.2000 (Stand 01.06.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -110,7 +109,7 @@ beschliesst:
 
 **Anspruch bei Beendigung des unbefristeten Arbeitsverhältnisses**
 
-<sup>1</sup> Endet ein Arbeitsverhältnis durch Kündigung seitens der Anstellungsbehörde und dauert die Arbeitsunfähigkeit fort, erlischt der Lohnanspruch erst bei Wiedereintritt der Arbeitsfähigkeit, spätestens jedoch nach Ablauf der Lohnzahlungspflicht gemäss § 3 und § 4.
+<sup>1</sup> Endet ein Arbeitsverhältnis durch ordentliche Kündigung seitens der Anstellungsbehörde und dauert die Arbeitsunfähigkeit fort, erlischt der Lohnanspruch erst bei Wiedereintritt der Arbeitsfähigkeit, spätestens jedoch nach Ablauf der Lohnzahlungspflicht gemäss § 3 und § 4.
 
 #### § 7
 
@@ -132,10 +131,9 @@ beschliesst:
 
 <sup>1</sup> Bei Beendigung des Arbeitsverhältnisses bleibt die Versicherungsdeckung der Unfallversicherung bis zum Antritt einer neuen Stelle, längstens jedoch während 31 Kalendertagen, vollumfänglich bestehen.
 
-<sup>2</sup> Bei unbezahltem Urlaub von bis zu 31 Kalendertagen bleiben Mitarbeiterinnen und Mitarbeiter gegen die Folgen von Unfall versichert. Dauert der unbezahlte Urlaub länger als 31 Kalendertage, schliesst die Anstellungsbehörde im Namen und auf Rechnung der Mitarbeiterin oder des Mitarbeiters folgende Versicherungen ab:
+<sup>2</sup> Bei unbezahltem Urlaub von bis zu 31 Kalendertagen bleiben Mitarbeiterinnen und Mitarbeiter gegen die Folgen von Unfall versichert. Dauert der unbezahlte Urlaub länger als 31 Kalendertage, schliesst die Anstellungsbehörde im Namen und auf Rechnung der Mitarbeiterin oder des Mitarbeiters ab dem 32. Kalendertag bis zum letzten Tag des unbezahlten Urlaubs, längstens jedoch bis 730 Tage, eine kollektive Abredeversicherung nach VVG[^9-1] ab.
 
-- a. ab dem 32. Kalendertag für maximal weitere 180 Tage (bis zum 211. Tag) eine Abredeversicherung;
-- b. ab dem 212. Tag bis zum letzten Tag des unbezahlten Urlaubs eine Zusatzversicherung.
+[^9-1]: [SR 221.229.1](https://db.clex.ch/link/Bund/221.229.1/de)
 
 ## 4 Leistungen Dritter
 
@@ -198,6 +196,8 @@ beschliesst:
 <sup>2</sup> Die Kosten dieser Untersuchung trägt die Anstellungsbehörde.
 
 <sup>3</sup> Gelangt die Vertrauensärztin oder der Vertrauensarzt zu einer anderen medizinischen Beurteilung der Arbeitsunfähigkeit als die von der Mitarbeiterin oder dem Mitarbeiter beigezogene Ärztin oder der beigezogene Arzt, so ist der Befund der Vertrauensärztin bzw. des Vertrauensarztes massgebend.
+
+<sup>4</sup> Vertrauensärztliche Untersuchungen können während der Dauer der Lohnfortzahlung auch nach Beendigung des Arbeitsverhältnisses veranlasst werden.
 
 #### § 17
 
