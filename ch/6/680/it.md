@@ -4,20 +4,20 @@ title: "Legge federale del 21 giugno 1932 sulle bevande distillate (Legge sull'a
 short: LAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: it
-version: 2022-01-01
+version: 2024-06-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/it/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20240601/it/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20240601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulle bevande distillate
 
-(Legge sull’alcool, LAlc)**[^t-1]**
+(Legge sull’alcool, LAlc)[^t-1]
 
-del 21 giugno 1932 (Stato 1° gennaio 2022)
+del 21 giugno 1932 (Stato 1° giugno 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -27,7 +27,7 @@ visti gli articoli 105 e 131 capoverso 1 lettera b della Costituzione federale[^
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ## Capo primo: Disposizioni generali
@@ -206,7 +206,7 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 <sup>3</sup> I prezzi delle bevande distillate che l’UDSC prende in consegna per assorbire le eccedenze del mercato sono fissati secondo le quantità. Essi devono essere inferiori a quelli fissati secondo il capoverso 2.[^11-2]
 
-<sup>4</sup> e <sup>5</sup> ...[^11-3]
+<sup>4 e <sup>5</sup></sup> ...[^11-3]
 
 <sup>6</sup> Il prezzo pagato alle distillerie industriali e alle fabbriche d’alcool deve, di regola, corrispondere al prezzo medio di costo dell’etanolo della stessa qualità importato dall’UDSC. Per fissare questo prezzo, si potrà tenere equamente conto delle spese effettive di produzione, comprendendo l’interesse e l’ammortamento del capitale investito.[^11-4]
 
@@ -593,7 +593,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 <sup>5</sup> Il transito dell’alcool e dei prodotti contenenti alcool è esentato da qualsiasi onere fiscale previsto dalla presente legge. Per quanto concerne la garanzia delle tasse previste dalla presente legge, si applicano le disposizioni della legislazione doganale.[^36-3]
 
-[^36-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^36-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^36-2]: Per. introdotto dal n. I 4 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° lug. 1999 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379)[1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -611,7 +611,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 [^38-1]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2019 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Capo quinto: Commercio delle bevande distillate****
+## Capo quinto: Commercio delle bevande distillate
 
 [^chap5-1]
 
@@ -655,7 +655,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 <sup>3bis</sup> ...[^40-5]
 
-<sup>4</sup> e <sup>5</sup> ...[^40-6]
+<sup>4 e <sup>5</sup></sup> ...[^40-6]
 
 [^40-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1980, in vigore dal 1° gen. 1983 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -777,7 +777,7 @@ L’UDSC promuove il coordinamento fra i Cantoni nel disciplinamento del commerc
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1980, in vigore dal 1° gen. 1983 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-## Capo quinto*a*: Altri provvedimenti per diminuire il consumo delle bevande distillate****
+## Capo quinto *a*: Altri provvedimenti per diminuire il consumo delle bevande distillate
 
 [^chapVa-1]
 
@@ -827,7 +827,7 @@ L’UDSC promuove il coordinamento fra i Cantoni nel disciplinamento del commerc
 
 [^45-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 1965](https://fedlex.data.admin.ch/eli/oc/1985/1965_1965_1965); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
-## Capo sesto*a*: Pegno fiscale****
+## Capo sesto *a*: Pegno fiscale
 
 [^chapVIa-1]
 
@@ -902,7 +902,7 @@ Il Consiglio federale stabilisce:
 
 [^48-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Capo settimo:**** Rimedi giuridici
+## Capo settimo: Rimedi giuridici
 
 [^chap7-1]
 
@@ -938,13 +938,13 @@ Le decisioni emanate in virtù dell’articolo 42*b* possono essere impugnate en
 
 <sup>2</sup> Le altre decisioni emanate dagli uffici doganali o dalle direzioni di circondario in virtù della presente legge possono essere impugnate entro 30 giorni presentando ricorso alla Direzione generale delle dogane.
 
-[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
-## Capo ottavo:**** Disposizioni penali****
+## Capo ottavo: Disposizioni penali
 
 [^chap8-1][^chap8-2]
 
-[^chap8-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^chap8-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^chap8-2]: Nuovo testo giusta il n. 11 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### A. Infrazioni
@@ -971,7 +971,7 @@ Le decisioni emanate in virtù dell’articolo 42*b* possono essere impugnate en
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino al triplo della perdita fiscale
 
 [^52-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2019 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^52-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^52-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 2. Messa in pericolo
 
@@ -1010,7 +1010,7 @@ Le decisioni emanate in virtù dell’articolo 42*b* possono essere impugnate en
 <sup>6</sup> I capoversi 1–5 si applicano soltanto in quanto non si applichi l’articolo 14 DPA[^54-2].
 
 [^54-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^54-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. ...
 
@@ -1067,7 +1067,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 <sup>2</sup> È riservato il rinvio a giudizio in virtù degli articoli 285 o 286 del Codice penale svizzero[^58-2].
 
 [^58-1]: Nuovo testo giusta il n. 11 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^58-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^58-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### VII. Distrazione del pegno fiscale
 
@@ -1092,7 +1092,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 <sup>2</sup> Riservato l’articolo 57 capoverso 5, l’UDSC è l’autorità amministrativa incaricata del perseguimento e del giudizio.
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### II. Infrazioni commesse nell’azienda
 
@@ -1103,7 +1103,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 Se la multa applicabile non supera i 50 000 franchi e se le persone punibili secondo l’articolo 6 DPA[^59a-2] non possono essere determinate o possono esserlo soltanto con provvedimenti d’inchiesta sproporzionati, l’UDSC può prescindere dal procedere contro dette persone e, in loro vece, condannare l’azienda al pagamento della multa.
 
 [^59a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Concorso di infrazioni
 
@@ -1124,7 +1124,7 @@ Se un atto costituisce contemporaneamente un’infrazione secondo la presente le
 La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2 DPA[^60-2] è parimente applicabile alle infrazioni previste negli articoli 52, 53 e 56.
 
 [^60-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^60-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^60-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 61
 
@@ -1145,7 +1145,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 <sup>3</sup> Chiunque ha ottenuto o tentato di ottenere indebitamente, per sé o per altri, un contributo (sussidio) previsto nella legislazione sull’alcool oppure qualsiasi altro vantaggio può, così come l’azienda che rappresenta, essere privato del diritto ai contributi per una durata massima di tre anni.[^62-4]
 
 [^62-1]: Nuovo testo giusta il n 11 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^62-4]: Nuovo testo giusta il n. 13 dell’all. della L del 5 ott. 1990 sui sussidi, in vigore dal 1° apr. 1991 ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
 
@@ -1187,7 +1187,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 <sup>3</sup> ...[^66-2]
 
-[^66-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^66-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^66-2]: Abrogato dal n. 11 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### III. Ordine di prestare garanzia
@@ -1217,7 +1217,7 @@ LʼUDSC può esigere garanzie per le imposte e altri crediti pecuniari, anche se
 <sup>5</sup> Il ricorso contro l’ordine di prestare garanzia non ha effetto sospensivo.
 
 [^67-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^67-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^67-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### IV. ...
 
@@ -1235,7 +1235,7 @@ LʼUDSC può esigere garanzie per le imposte e altri crediti pecuniari, anche se
 
 <sup>2</sup> Se, per errore, una tassa dovuta non è stata determinata o lo è stata insufficientemente, l’UDSC può rivendicarne l’intero ammontare o la differenza dal contribuente entro il termine di un anno dal giorno in cui si è verificato l’obbligo del pagamento o in cui è stata determinata la tassa. L’UDSC può rivendicare, entro il termine di un anno, anche le somme rimborsate in più.
 
-<sup>3</sup> L’UDSC può prorogare il termine di pagamento o condonare in tutto o in parte la tassa o la multa od ammenda, allorchè la riscossione costituirebbe, date le particolari circostanze, un eccessivo aggravio per il contribuente.
+<sup>3</sup> L’UDSC può prorogare il termine di pagamento o condonare in tutto o in parte la tassa o la multa od ammenda, allorché la riscossione costituirebbe, date le particolari circostanze, un eccessivo aggravio per il contribuente.
 
 <sup>4</sup> Essa può parimente accordare una proroga per il pagamento dell’imposta sulle specialità, affine di tener conto delle condizioni di vendita di questi prodotti.
 
@@ -1264,53 +1264,38 @@ LʼUDSC può esigere garanzie per le imposte e altri crediti pecuniari, anche se
 
 [^70-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-### 2. RFA
+### 2. UDSC e Ufficio federale dell’agricoltura
 
 #### Art. 71
 
-<sup>1</sup> La gestione degli affari attinenti all’esecuzione della legislazione sull’alcool è affidata alla RFA. Questa ha la personalità giuridica.
+[^71-1]
 
-<sup>1bis</sup> La gestione degli affari attinenti alla valorizzazione analcolica delle materie prime distillabili è affidata all’Ufficio federale dell’agricoltura.[^71-1]
+<sup>1</sup> All’UDSC è affidata la gestione degli affari attinenti all’esecuzione della legislazione sull’alcool.
 
-<sup>2</sup> I funzionari e gli impiegati della RFA sono sottoposti all’ordinamento dei funzionari del 30 giugno 1927[^71-2].[^71-3]
+<sup>2</sup> All’Ufficio federale dell’agricoltura è affidata la gestione degli affari attinenti alla valorizzazione analcolica delle materie prime distillabili.
 
-<sup>3</sup> La RFA tiene una contabilità indipendente. La Confederazione le anticipa le somme necessarie all’esecuzione della presente legge.[^71-4]
-
-<sup>4</sup> La RFA è esentata da qualsiasi imposta federale, cantonale e comunale, eccetto che si tratti d’imposta su beni immobili non destinati direttamente all’esercizio.
-
-<sup>5</sup> ...[^71-5]
-
-<sup>6</sup> La RFA istituisce degli uffici locali di vigilanza che controllano le distillerie sottoposte a concessione e sorvegliano le distillerie domestiche, prendono consegna o coadiuvano alla consegna delle bevande distillate, determinano e riscuotono le imposte sulle specialità. Il Consiglio federale delimita le competenze e la responsabilità di questi uffici e fissa l’indennità alla quale hanno diritto per l’esercizio delle loro funzioni. Queste spese sono a carico della Regìa.
-
-<sup>7</sup> ...[^71-6]
-
-[^71-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-2]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]. Vedi ora la L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
-[^71-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-4]: Nuovo testo giusta il n. II 8 dell’all. alla L sul Parlamento del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
-[^71-5]: Abrogato dal n. III cpv. 2 lett. a della LF del 21 dic. 1966 che modifica quella sul servizio delle poste, con effetto dal 1° nov. 1967 ([RU 1967 1527](https://fedlex.data.admin.ch/eli/oc/1967/1485_1533_1527); [FF 1966 I 811](https://fedlex.data.admin.ch/eli/fga/1966/1_1047_1071_811)).
-[^71-6]: Abrogato dal n. I della LF del 4 ott. 1996, con effetto dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
+[^71-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° giu. 2024 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 3. Registro dellʼetanolo
 
 #### Art. 72
 
-[^72-1]
+[^71-2]
 
 L’UDSC tiene un registro pubblico dei titolari di un’autorizzazione ai sensi degli articoli 32 e 34.
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^71-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 4. Coadiuvazione di altre autorità
 
 #### Art. 73
 
-<sup>1</sup> Il Consiglio federale può delegare l’esercizio di certe funzioni ad altri servizi dell’Amministrazione federale, nonché alle autorità cantonali e comunali. Esso stabilisce il contributo alle spese che deve essere versato dall’UDSC. ... [^73-1]. [^73-2]
+<sup>1</sup> Il Consiglio federale può delegare l’esercizio di certe funzioni ad altri servizi dell’Amministrazione federale, nonché alle autorità cantonali e comunali. Esso stabilisce il contributo alle spese che deve essere versato dall’UDSC. ... [^72-1]. [^72-2]
 
 <sup>2</sup> Inoltre, gli uffici della Confederazione, dei Cantoni, dei distretti o circoli e dei Comuni, devono, nel limite delle loro attribuzioni, coadiuvare l’UDSC. In particolare, essi devono denunciargli le contravvenzioni di cui avessero ufficialmente conoscenza e aiutarla ad accertare i fatti e a perseguire i colpevoli.
 
-[^73-1]: Per. abrogato dal n. II 13 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^73-2]: Nuovo testo giusta il n. I della LF del 19 dic. 1969, in vigore dal 1° apr. 1970 ([RU 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [FF 1969 I 711](https://fedlex.data.admin.ch/eli/fga/1969/1___711)).
+[^72-1]: Per. abrogato dal n. II 13 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^72-2]: Nuovo testo giusta il n. I della LF del 19 dic. 1969, in vigore dal 1° apr. 1970 ([RU 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [FF 1969 I 711](https://fedlex.data.admin.ch/eli/fga/1969/1___711)).
 
 ### II. ...
 
@@ -1338,12 +1323,12 @@ I funzionari e impiegati federali nonché tutte le altre persone incaricate dell
 
 <sup>3</sup> Dal giorno dell’entrata in vigore della presente legge, le autorità eserciteranno le loro mansioni secondo le disposizioni della legge stessa. ...[^76-3]
 
-<sup>4</sup> Al momento dell’entrata in vigore della presente legge, le riserve disponibili della RFA, il cui ammontare sarà fissato mediante decreto federale, dovranno essere ripartite fra i Cantoni in conformità dell’articolo 22 della legge federale del 29 giugno 1900[^76-4] sulle bevande spiritose. La somma restante servirà come fondo d’esercizio della RFA.
+<sup>4</sup> Al momento dell’entrata in vigore della presente legge, le riserve disponibili della Regìa federale degli alcool (RFA), il cui ammontare sarà fissato mediante decreto federale, dovranno essere ripartite fra i Cantoni in conformità dell’articolo 22 della legge federale del 29 giugno 1900[^76-4] sulle bevande spiritose. La somma restante servirà come fondo d’esercizio della RFA.
 
 [^76-1]: Disp. trans. priva d’oggetto.
 [^76-2]: [RU **10** 60. RU **18** 291 art. 31]
 [^76-3]: Disp. trans. priva d’oggetto.
-[^76-4]: [RU **18** 291, **23** 632. [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)art. 77]
+[^76-4]: [RU **18** 291, **23** 632. [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)art. 77]
 
 ### I*a*. Disposizioni transitorie della revisione del 4 ottobre 1996
 
@@ -1357,21 +1342,25 @@ I funzionari e impiegati federali nonché tutte le altre persone incaricate dell
 
 [^76a-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-### I*b.* Disposizioni transitorie della modifica del 30 settembre 2016
+### Ib *.* Disposizioni transitorie della modifica del 30 settembre 2016
 
-### 1. ...
+### 1. Scioglimento della RFA
 
 #### Art. 76b
 
 [^76b-1]
 
-[^76b-1]: Entra in vigore in un secondo tempo.
+<sup>1</sup> La RFA è sciolta. La sua personalità giuridica si estingue.
+
+<sup>2</sup> Con l’estinzione della personalità giuridica della RFA, tutti i suoi diritti e i suoi obblighi, nonché i relativi contratti, sono trasferiti alla Confederazione.
+
+[^76b-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° giu. 2024 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 2. Privatizzazione del centro di profitto Alcosuisse della RFA
 
 #### Art. 76c
 
-[^76c-1]
+[^76b-2]
 
 <sup>1</sup> Il Consiglio federale trasferisce in «alcosuisse SA» le parti della RFA aggregate al centro di profitto e vende la partecipazione della RFA in «alcosuisse SA» al più tardi 18 mesi dopo il trasferimento.
 
@@ -1385,7 +1374,7 @@ Il Consiglio federale disciplina i dettagli e adotta le decisioni necessarie per
 - d. approva, con l’entrata in vigore dell’articolo 76*b*, la chiusura dei conti e l’ultimo rapporto di gestione della RFA, disciplina il trasferimento alla Confederazione dei rimanenti diritti e obblighi e dei relativi contratti e adegua il consuntivo della Confederazione;
 - e. può trasferire direttamente a terzi i valori patrimoniali che non sono trasferiti in «alcosuisse SA».
 
-<sup>3</sup> Le disposizioni della legge del 3 ottobre 2003[^76c-2] sulla fusione non si applicano al trasferimento di cui al capoverso 1. I rapporti di diritto privato interessati dal trasferimento non sono modificati.
+<sup>3</sup> Le disposizioni della legge del 3 ottobre 2003[^76b-3] sulla fusione non si applicano al trasferimento di cui al capoverso 1. I rapporti di diritto privato interessati dal trasferimento non sono modificati.
 
 <sup>4</sup> I negozi giuridici secondo i capoversi 1 e 2 lettera e nonché secondo l’articolo 76*b* capoverso 2 sono esentati da qualsiasi imposta diretta e indiretta della Confederazione, dei Cantoni e dei Comuni.
 
@@ -1393,37 +1382,37 @@ Il Consiglio federale disciplina i dettagli e adotta le decisioni necessarie per
 
 <sup>6</sup> La RFA può costituire accantonamenti adeguati in vista delle uscite future legate alla cessazione di attività e allo smantellamento di elementi non venduti degli attivi.
 
-[^76c-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76c-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^76b-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^76b-3]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### 3. Trasformazione dei rapporti di lavoro di diritto pubblico in rapporti di lavoro di dritto privato
 
 #### Art. 76d
 
-[^76d-1]
+[^76c-1]
 
 <sup>1</sup> I rapporti di lavoro di diritto pubblico del personale del centro di profitto sono trasferiti in «alcosuisse SA» il giorno in cui l’azienda è rilevata, se in tale momento non risultano disdetti. Sono trasformati in rapporti di lavoro di diritto privato e sottostanno alle disposizioni sul personale applicabili al nuovo datore di lavoro.
 
 <sup>2</sup> Durante un anno dal rilevamento dell’azienda il diritto al salario precedente è garantito. Il nuovo datore di lavoro può risolvere i nuovi contratti di lavoro al più presto dopo un anno.
 
-<sup>3</sup> Gli anni di servizio prestati ininterrottamente presso la RFA e le unità amministrative secondo l’articolo 2 capoverso 1 lettera a della legge del 24 marzo 2000[^76d-2] sul personale federale prima del trasferimento del rapporto di lavoro sono computati.
+<sup>3</sup> Gli anni di servizio prestati ininterrottamente presso la RFA e le unità amministrative secondo l’articolo 2 capoverso 1 lettera a della legge del 24 marzo 2000[^76c-2] sul personale federale prima del trasferimento del rapporto di lavoro sono computati.
 
 <sup>4</sup> Gli altri rapporti di lavoro di diritto pubblico non risolti al momento dell’estinzione della personalità giuridica della RFA sono trasferiti all’unità amministrativa della Confederazione che li rileva.
 
 <sup>5</sup> Gli impiegati il cui rapporto di lavoro è trasferito secondo i capoversi 1 e 4 non hanno diritto al mantenimento della funzione attuale e della classificazione organizzativa. Il loro nuovo contratto di lavoro non può prevedere un periodo di prova.
 
-[^76d-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76d-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^76c-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^76c-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 4. Beneficiari di rendite del centro di profitto Alcosuisse della RFA
 
 #### Art. 76e
 
-[^76e-1]
+[^76d-1]
 
 Il Consiglio federale ha la facoltà di finanziare mediante il patrimonio della RFA gli obblighi del datore di lavoro nei confronti dei beneficiari di rendite del centro di profitto che hanno diritto a prestazioni della cassa di previdenza della Confederazione, se l’istituto di previdenza di «alcosuisse SA» non riprende i beneficiari di rendite o se la loro permanenza nella cassa di previdenza della Confederazione è nell’interesse finanziario della Confederazione.
 
-[^76e-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^76d-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2017 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### II. Adeguamento delle licenze per utilizzare etanolo esente dall’onere fiscale secondo il diritto anteriore
 

@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 21. Juni 1932 über die gebrannten Wasser (Alkoholgeset
 short: AlkG
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: de
-version: 2022-01-01
+version: 2024-06-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/de/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20240601/de/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20240601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die gebrannten Wasser
 
-(Alkoholgesetz, AlkG)**[^t-1]**
+(Alkoholgesetz, AlkG)[^t-1]
 
-vom 21. Juni 1932 (Stand am 1. Januar 2022)
+vom 21. Juni 1932 (Stand am 1. Juni 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 105 und 131 Absatz 1 Buchstabe b der Bundesverfassung[
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^ingress-3]: [BBl 1931 I 697](https://fedlex.data.admin.ch/eli/fga/1931/1_697_729_)
 
@@ -43,13 +43,13 @@ Den Vorschriften dieses Gesetzes sind unterstellt die Herstellung gebrannter Was
 
 #### Art. 2
 
-<sup>1</sup> Als «gebrannte Wasser» im Sinne dieses Gesetzes gilt der Äthylalkohol in jeder Form und ohne Rücksicht auf die Art seiner Herstellung.
+<sup>1</sup> Als «gebrannte Wasser» im Sinne dieses Gesetzes gilt der Ethylalkohol in jeder Form und ohne Rücksicht auf die Art seiner Herstellung.
 
 <sup>2</sup> Die ausschliesslich durch Vergärung gewonnenen alkoholischen Erzeugnisse sind, unter Vorbehalt der Vorschrift in Absatz 3, den Bestimmungen dieses Gesetzes nicht unterworfen, sofern ihr Alkoholgehalt 15 Volumenprozente, bei Naturweinen aus frischen Weintrauben 18 Volumenprozente nicht übersteigt.[^2-1]
 
 <sup>3</sup> Auf Erzeugnisse, die neben andern Stoffen gebrannte Wasser enthalten, werden die Bestimmungen dieses Gesetzes entsprechend angewendet.
 
-<sup>4</sup> Jede andere Alkoholart, die zu Trinkzwecken dienen kann und den Äthylalkohol zu ersetzen vermag, wird durch Verordnung des Bundesrates diesem Gesetz unterstellt.
+<sup>4</sup> Jede andere Alkoholart, die zu Trinkzwecken dienen kann und den Ethylalkohol zu ersetzen vermag, wird durch Verordnung des Bundesrates diesem Gesetz unterstellt.
 
 [^2-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 12. Juni 2000 über die technischen Handelshemmnisse, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
@@ -133,7 +133,7 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 <sup>3</sup> Werden Konzessionsbedingungen nicht eingehalten oder fällt eine Voraussetzung der Konzessionserteilung weg, so kann das BAZG die Konzession nach Anhörung des Inhabers vor Ablauf der Konzessionsdauer entziehen.
 
-<sup>4</sup> ...[^6-1]
+<sup>4</sup> …[^6-1]
 
 [^6-1]: Aufgehoben durch Ziff. II Abs. 1 Ziff. 8 des BG vom 20. Dez. 1968 über die Änderung des OG, mit Wirkung seit 1. Okt. 1969, mit Wirkung seit 1. Okt. 1969 ([AS 1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [BBl 1965 II 1265](https://fedlex.data.admin.ch/eli/fga/1965/2_1265_1301_1029)).
 
@@ -209,7 +209,7 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 <sup>3</sup> Die Preise für gebrannte Wasser, welche das BAZG zur Marktentlastung übernimmt, werden nach der Menge gestaffelt festgesetzt. Sie müssen tiefer sein als die nach Absatz 2 festgesetzten Preise.[^11-2]
 
-<sup>4–5</sup> ...[^11-3]
+<sup>4–5</sup> …[^11-3]
 
 <sup>6</sup> Der den Industriebrennereien und Alkoholfabriken zu bezahlende Übernahmepreis soll in der Regel den mittleren Einstandskosten des vom BAZG eingeführten Auslandethanols gleicher Qualität entsprechen. Dabei können die nachgewiesenen Herstellungskosten einschliesslich Verzinsung und Abschreibung des Anlagekapitals angemessen berücksichtigt werden.[^11-4]
 
@@ -238,9 +238,9 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 <sup>3</sup> Die aus inländischen Rohstoffen hergestellten Erzeugnisse der Spezialitätenbrennereien unterliegen der Besteuerung gemäss den Artikeln 20–23.
 
-<sup>4</sup> ...[^12-2]
+<sup>4</sup> …[^12-2]
 
-<sup>5</sup> ...[^12-3]
+<sup>5</sup> …[^12-3]
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^12-2]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1996, mit Wirkung seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -256,7 +256,7 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 <sup>3</sup> Das Brennerzeugnis ist dem Auftraggeber auszuhändigen.[^13-1]
 
-<sup>4</sup> ...[^13-2]
+<sup>4</sup> …[^13-2]
 
 [^13-1]: Fassung gemäss Art. 1 des BG vom 25. Okt. 1949, in Kraft seit 1. März 1950 (AS **1950** I 72; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
 [^13-2]: Aufgehoben durch Art. 1 des BG vom 25. Okt. 1949, mit Wirkung seit 1. März 1950 (AS **1950** I 72; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
@@ -271,15 +271,15 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 <sup>2</sup> Das BAZG kann Hausbrennern, die durch Hagel oder andere Naturschäden einen erheblichen Ausfall an Eigengewächs erlitten haben, auf die Dauer eines Brennjahres eine Konzession zum Brennen eigener und zugekaufter Rohstoffe erteilen, ohne dass deshalb das Recht auf den steuerfreien Eigenbedarf gemäss Artikel 16 verloren geht.
 
-<sup>3</sup> ...[^14-2]
+<sup>3</sup> …[^14-2]
 
-<sup>4</sup> ...[^14-3]
+<sup>4</sup> …[^14-3]
 
 <sup>5</sup> Die Brennereianlage kann in der Regel nur zusammen mit der Liegenschaft ihres Standortes (Brennereiliegenschaft) auf Dritte übertragen werden. Wird die Brennereiliegenschaft zerstückelt, so darf die Hausbrennerei nur auf dem Teil weiterbetrieben werden, auf welchem sie bisher bestand.
 
 <sup>6</sup> Die Brennapparate oder ‑anlagen dürfen nur mit Bewilligung des BAZG ersetzt, anders als in Verbindung mit der Liegenschaft übertragen oder so umgeändert werden, dass sich eine Erhöhung der Leistungsfähigkeit ergibt. In der Bewilligung kann vorgeschrieben werden, auf welche Weise der Ersatz oder die Umänderung vorzunehmen ist.
 
-<sup>7</sup> ...[^14-4]
+<sup>7</sup> …[^14-4]
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^14-2]: Aufgehoben durch Art. 12 Abs. 3 des BG vom 23. Juni 1944 über die Konzessionierung der Hausbrennerei, mit Wirkung seit 6. April 1945 ([AS 60 689](https://fedlex.data.admin.ch/eli/oc/60/689_687_673); BBl **1943** 1289).
@@ -366,7 +366,7 @@ Die Steuer ist zu entrichten:
 - a. vom Inhaber der konzessionierten Spezialitätenbrennerei (Art. 12);
 - b. vom Hausbrenner (Art. 18 Abs. 2) oder vom Brennauftraggeber (Art. 19).
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> …[^20-1]
 
 [^20-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -445,7 +445,7 @@ Die Steuer wird um 50 Prozent ermässigt für:
 [^23bis-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 12. Juni 2009 über die technischen Handelshemmnisse, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^23bis-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 455](https://fedlex.data.admin.ch/eli/oc/2004/34); [BBl 2003 2170](https://fedlex.data.admin.ch/eli/fga/2003/271)).
 
-### VI. ...
+### VI. …
 
 #### Art. 24
 
@@ -471,7 +471,7 @@ Das BAZG kann anordnen, dass Brennereieinrichtungen, die nicht mehr konzessionsb
 
 ## Dritter Abschnitt: Einfuhr, Ausfuhr und Durchfuhr gebrannter Wasser
 
-### I. ...
+### I. …
 
 #### Art. 27
 
@@ -503,7 +503,7 @@ Alkoholhaltige Esswaren werden nach dem Ansatz des darin enthaltenen alkoholisch
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### c. ...
+### c. …
 
 #### Art. 30
 
@@ -569,7 +569,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. ...
+### III. …
 
 ### 4. Kontrolle
 
@@ -597,11 +597,11 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 <sup>5</sup> Die Durchfuhr von Alkohol und alkoholhaltigen Erzeugnissen unterliegt keiner fiskalischen Belastung im Sinne dieses Gesetzes. Für die Sicherstellung der in diesem Gesetz vorgesehenen Abgaben gelten die Bestimmungen der Zollgesetzgebung.[^36-3]
 
-[^36-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^36-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^36-2]: Zweiter Satz eingefügt durch Ziff. I 4 des BG vom 17. Dez. 2010 über den Einkauf von Waren in Zollfreiläden auf Flughäfen, in Kraft seit 1. Juni 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Juli 1999 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379), [1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-## Vierter Abschnitt: ...
+## Vierter Abschnitt: …
 
 #### Art. 37
 
@@ -615,7 +615,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^38-1]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Fünfter Abschnitt: Handel mit gebrannten Wasser zu Trinkzwecken****
+## Fünfter Abschnitt: Handel mit gebrannten Wasser zu Trinkzwecken
 
 [^chap5-1]
 
@@ -637,7 +637,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^39-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-### II. ...
+### II. …
 
 #### Art. 39a
 
@@ -645,21 +645,21 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^39a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 1980 (AS **1982** 6940; [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)). Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. ...
+### III. …
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> ...[^40-2]
+<sup>1</sup> …[^40-2]
 
-<sup>2</sup> ...[^40-3]
+<sup>2</sup> …[^40-3]
 
-<sup>3</sup> ...[^40-4]
+<sup>3</sup> …[^40-4]
 
-<sup>3bis</sup> ...[^40-5]
+<sup>3bis</sup> …[^40-5]
 
-<sup>4</sup> und <sup>5</sup> ...[^40-6]
+<sup>4 und <sup>5</sup></sup> …[^40-6]
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -715,7 +715,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 <sup>3</sup> Zum Kleinhandel mit gebrannten Wassern können zugelassen werden Produzenten gebrannter Wasser[^41a-2], Betriebe des Gastgewerbes, einschliesslich der Verpflegungsdienste in Flugzeugen, Zügen und auf Schiffen, Betriebe des Wein- und Spirituosenhandels, Zollfreiläden, Apotheken und Drogerien sowie Geschäfte mit einem breiten Sortiment an Lebensmitteln, das auch alkoholfreie Getränke umfasst.
 
-<sup>4</sup> ...[^41a-3]
+<sup>4</sup> …[^41a-3]
 
 <sup>5</sup> Die Befugnis der Kantone, den Kleinhandel weiteren durch das öffentliche Wohl geforderten Beschränkungen zu unterwerfen, bleibt vorbehalten.
 
@@ -776,7 +776,7 @@ Das BAZG fördert die Koordination unter den Kantonen in der Regelung des Kleinh
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-## Abschnitt V*a*: Weitere Massnahmen zur Verminderung des Verbrauchs gebrannter Wasser zu Trinkzwecken****
+## Abschnitt V*a*: Weitere Massnahmen zur Verminderung des Verbrauchs gebrannter Wasser zu Trinkzwecken
 
 [^chapVa-1]
 
@@ -826,7 +826,7 @@ Das BAZG fördert die Koordination unter den Kantonen in der Regelung des Kleinh
 
 [^45-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 1965](https://fedlex.data.admin.ch/eli/oc/1985/1965_1965_1965); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
-## Abschnitt VI*a*: Steuerpfand****
+## Abschnitt VI*a*: Steuerpfand
 
 [^chapVIa-1]
 
@@ -901,7 +901,7 @@ Er regelt:
 
 [^48-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Siebenter Abschnitt:**** Rechtsmittel
+## Siebenter Abschnitt: Rechtsmittel
 
 [^chap7-1]
 
@@ -937,14 +937,14 @@ Verfügungen gestützt auf Artikel 42*b* können ohne Einsprache innert 30 Tagen
 
 <sup>2</sup> Gegen andere Verfügungen der Zollstellen oder der Zollkreisdirektionen gestützt auf dieses Gesetz kann innerhalb von 30 Tagen bei der Oberzolldirektion Beschwerde erhoben werden.
 
-[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
-## Achter Abschnitt:**** Strafbestimmungen****
+## Achter Abschnitt: Strafbestimmungen
 
 [^chap8-1][^chap8-2]
 
 [^chap8-1]: Fassung gemäss Anhang Ziff. 11 VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^chap8-2]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+[^chap8-2]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
 
 ### A. Widerhandlungen
 
@@ -968,7 +968,7 @@ Verfügungen gestützt auf Artikel 42*b* können ohne Einsprache innert 30 Tagen
 <sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zum Drei-fachen des Fiskalausfalles.
 
 [^52-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^52-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^52-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 2. Gefährdung der Hoheitsrechte
 
@@ -1007,9 +1007,9 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
 <sup>6</sup> Die Absätze 1–5 finden nur Anwendung, sofern nicht die Strafbestimmung von Artikel 14 VStrR[^54-2] zutrifft.
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^54-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
-### III. ...
+### III. …
 
 #### Art. 55
 
@@ -1061,7 +1061,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Vorbehalten bleibt die Überweisung an den Strafrichter auf Grund von Artikel 285 oder 286 des Strafgesetzbuches[^58-1].
 
-[^58-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^58-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### VII. Steuerpfandunterschlagung
 
@@ -1086,7 +1086,7 @@ Wer vom BAZG als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in sei
 <sup>2</sup> Verfolgende und urteilende Verwaltungsbehörde ist, unter Vorbehalt von Artikel 57 Absatz 5, das BAZG.
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### II. Widerhandlungen in Geschäftsbetrieben
 
@@ -1097,7 +1097,7 @@ Wer vom BAZG als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in sei
 Fällt eine Busse von höchstens 50 000 Franken in Betracht und können die nach Artikel 6 VStrR[^59a-2] strafbaren Personen nicht oder nur mit unverhältnismässigen Untersuchungsmassnahmen ermittelt werden, so kann das BAZG von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb zur Bezahlung der Busse verurteilen.
 
 [^59a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Konkurrenz
 
@@ -1118,7 +1118,7 @@ Erfüllt eine Handlung gleichzeitig einen oder mehrere Straftatbestände nach di
 Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR[^60-2] gilt auch für die Widerhandlungen der Artikel 52, 53 und 56.
 
 [^60-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^60-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^60-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 61
 
@@ -1136,7 +1136,7 @@ Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR[^60-2] gilt auch für 
 
 <sup>3</sup> Hat jemand sich oder einem anderen zu Unrecht einen in der Alkoholgesetzgebung vorgesehenen Beitrag (Beihilfe) oder eine anderweitige Vergünstigung verschafft oder zu verschaffen versucht, so kann er oder der von ihm vertretene Geschäftsbetrieb während höchstens dreier Jahre vom Bezug von Beiträgen ausgeschlossen werden.[^62-3]
 
-[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^62-3]: Fassung gemäss Anhang Ziff. 13 des Subventionsgesetzes vom 5. Okt. 1990, in Kraft seit 1. April 1991 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
 
@@ -1164,7 +1164,7 @@ Wer dem BAZG durch eine Widerhandlung in anderer Weise einen Vermögensschaden z
 
 <sup>1</sup> Die in diesem Gesetze vorgesehenen Abgaben werden mit ihrer Festsetzung vollstreckbar. Die Zahlungspflicht geht auf die Erben des Pflichtigen über, auch wenn die Abgabe noch nicht festgesetzt ist. Die Erben haften solidarisch für die Abgaben, jedoch nicht über den Betrag des Nachlasses hinaus. Ihnen stehen die nämlichen Beschwerden zu wie dem Erblasser.
 
-<sup>2</sup> ...[^65-1]
+<sup>2</sup> …[^65-1]
 
 [^65-1]: Aufgehoben durch Anhang Ziff. 11 VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -1180,9 +1180,9 @@ Wer dem BAZG durch eine Widerhandlung in anderer Weise einen Vermögensschaden z
 
 <sup>2</sup> Die rechtskräftig gewordenen Verfügungen und Entscheide der Verwaltungsbehörden, die eine Forderung feststellen, stehen einem vollstreckbaren gerichtlichen Urteil im Sinne des Artikels 80 des Schuldbetreibungs- und Konkursgesetzes (SchKG)[^66-1] gleich.
 
-<sup>3</sup> ...[^66-2]
+<sup>3</sup> …[^66-2]
 
-[^66-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^66-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^66-2]: Aufgehoben durch Anhang Ziff. 11 VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### III. Sicherstellungsverfügung
@@ -1212,9 +1212,9 @@ Das BAZG kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie re
 <sup>5</sup> Die Beschwerde gegen eine Sicherstellungsverfügung hat keine aufschiebende Wirkung.
 
 [^67-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^67-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^67-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
-### IV. ...
+### IV. …
 
 #### Art. 68
 
@@ -1259,32 +1259,17 @@ Das BAZG kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie re
 
 [^70-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-### 2. EAV
+### 2. BAZG und Bundesamt für Landwirtschaft
 
 #### Art. 71
 
-<sup>1</sup> Die aus der Durchführung der Alkoholgesetzgebung sich ergebenden Geschäfte werden durch die EAV besorgt. Sie hat das Recht der Persönlichkeit.
+[^71-1]
 
-<sup>1bis</sup> Die aus der brennlosen Verwendung von Brennereirohstoffen sich ergebenden Geschäfte werden durch das Bundesamt für Landwirtschaft besorgt.[^71-1]
+<sup>1</sup> Das BAZG ist um die Geschäfte besorgt, die sich aus der Durchführung der Alkoholgesetzgebung ergeben.
 
-<sup>2</sup> Die Beamten und Angestellten der EAV unterstehen dem Beamtengesetz vom 30. Juni 1927[^71-2].[^71-3]
+<sup>2</sup> Das Bundesamt für Landwirtschaft ist um die Geschäfte besorgt, die sich aus der brennlosen Verwendung von Brennereirohstoffen ergeben.
 
-<sup>3</sup> Die EAV hat eine eigene Rechnung zu führen. Der Bund hat der EAV die zur Durchführung dieses Gesetzes erforderlichen Summen vorzuschiessen.[^71-4]
-
-<sup>4</sup> Die EAV ist von jeder Besteuerung durch Bund, Kantone oder Gemeinden befreit, soweit es sich nicht um Steuern für Grundeigentum handelt, das mit dem Geschäftsbetrieb der EAV keine unmittelbaren Beziehungen hat.
-
-<sup>5</sup> ...[^71-5]
-
-<sup>6</sup> Für die Ausübung der Kontrolle der konzessionspflichtigen Brennereien und der Aufsicht über die Hausbrennerei, für die Übernahme gebrannter Wasser oder die Mitwirkung dabei sowie für die Veranlagung und Erhebung der Steuer auf Spezialitätenbrand werden von der EAV örtliche Brennereiaufsichtstellen geschaffen. Der Bundesrat wird die Aufgabe und die Verantwortlichkeit dieser Organe sowie die Entschädigung für ihren Mühewalt festsetzen. Die Kosten trägt die EAV.
-
-<sup>7</sup> ...[^71-6]
-
-[^71-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-2]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]. Siehe heute: das Bundespersonalgesetz vom 24. März 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
-[^71-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-4]: Fassung gemäss Anhang Ziff. II 8 des Parlamentsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Dez. 2003 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
-[^71-5]: Aufgehoben durch Ziff. III Abs. 2 Bst. a des BG vom 21. Dez. 1966 über die Änderung des Postverkehrsgesetzes vom 2. Okt. 1924, mit Wirkung seit 1. Nov. 1967 ([AS 1967 1485](https://fedlex.data.admin.ch/eli/oc/1967/1485_1533_1527)am Schluss, SchlB Änd. vom 21. Dez. 1966; [BBl 1966 I 1047](https://fedlex.data.admin.ch/eli/fga/1966/1_1047_1071_811)).
-[^71-6]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1996, mit Wirkung seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
+[^71-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Juni 2024 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 3. Ethanolregister
 
@@ -1300,14 +1285,14 @@ Das BAZG führt ein öffentliches Register der Inhaber von Bewilligungen nach de
 
 #### Art. 73
 
-<sup>1</sup> Der Bundesrat kann mit der Durchführung bestimmter Aufgaben auch andere Verwaltungsabteilungen des Bundes sowie die Behörden der Kantone und Gemeinden beauftragen. Er setzt die Kostenbeiträge fest, welche das BAZG dafür zu leisten hat. ...[^73-1].[^73-2]
+<sup>1</sup> Der Bundesrat kann mit der Durchführung bestimmter Aufgaben auch andere Verwaltungsabteilungen des Bundes sowie die Behörden der Kantone und Gemeinden beauftragen. Er setzt die Kostenbeiträge fest, welche das BAZG dafür zu leisten hat. …[^73-1].[^73-2]
 
 <sup>2</sup> Überdies haben die Amtsstellen des Bundes, der Kantone, Bezirke, Kreise und Gemeinden im Rahmen ihres Wirkungskreises das BAZG bei der Durchführung ihrer Aufgaben zu unterstützen. Insbesondere haben sie Widerhandlungen, die ihnen amtlich zur Kenntnis gelangen, dem BAZG anzuzeigen und diesem bei der Feststellung des Tatbestandes und der Verfolgung des Täters beizustehen.
 
 [^73-1]: Dritter Satz aufgehoben durch Ziff. II 13 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^73-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1969, in Kraft seit 1. April 1970 ([AS 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [BBl 1969 I 995](https://fedlex.data.admin.ch/eli/fga/1969/1_995__)).
 
-### II. ...
+### II. …
 
 #### Art. 74
 
@@ -1327,13 +1312,13 @@ Die Beamten und Angestellten des Bundes sowie alle andern mit der Durchführung 
 
 #### Art. 76
 
-<sup>1</sup> Alle aus der Alkoholgesetzgebung des Bundes herrührenden Rechte und Verpflichtungen richten sich nach den Vorschriften dieses Gesetzes. ...[^76-1]
+<sup>1</sup> Alle aus der Alkoholgesetzgebung des Bundes herrührenden Rechte und Verpflichtungen richten sich nach den Vorschriften dieses Gesetzes. …[^76-1]
 
 <sup>2</sup> Die aus der Anwendung von Artikel 18 des Bundesgesetzes vom 23. Dezember 1886[^76-2] betreffend gebrannte Wasser und die seither durch Abfindung von Losbrennereien entstandenen Rechtsverhältnisse bleiben bestehen.
 
-<sup>3</sup> Für die Durchführung der behördlichen Obliegenheiten gilt vom Zeitpunkt des Inkrafttretens dieses Gesetzes das darin vorgeschriebene Verfahren. ...[^76-3]
+<sup>3</sup> Für die Durchführung der behördlichen Obliegenheiten gilt vom Zeitpunkt des Inkrafttretens dieses Gesetzes das darin vorgeschriebene Verfahren. …[^76-3]
 
-<sup>4</sup> Beim Inkrafttreten dieses Gesetzes werden die verfügbaren Reserven der EAV gemäss Artikel 22 des Bundesgesetzes vom 29. Juni 1900[^76-4] über gebrannte Wasser unter die Kantone verteilt. Der Betrag wird durch Bundesbeschluss festgesetzt. Das übrige Vermögen gilt als Betriebsfonds der EAV.
+<sup>4</sup> Beim Inkrafttreten dieses Gesetzes werden die verfügbaren Reserven der Eidgenössischen Alkoholverwaltung (EAV) gemäss Artikel 22 des Bundesgesetzes vom 29. Juni 1900[^76-4] über gebrannte Wasser unter die Kantone verteilt. Der Betrag wird durch Bundesbeschluss festgesetzt. Das übrige Vermögen gilt als Betriebsfonds der EAV.
 
 [^76-1]: Gegenstandslose UeB.
 [^76-2]: [AS **10** 60. AS **18** 297 Art. 31]
@@ -1354,13 +1339,17 @@ Die Beamten und Angestellten des Bundes sowie alle andern mit der Durchführung 
 
 ### I*b*. Übergangsbestimmungen zur Änderung vom 30. September 2016
 
-### 1. ...
+### 1. Aufhebung der EAV
 
 #### Art. 76b
 
 [^76b-1]
 
-[^76b-1]: Noch nicht in Kraft.
+<sup>1</sup> Die EAV wird aufgelöst. Ihre Rechtspersönlichkeit erlischt.
+
+<sup>2</sup> Mit der Aufhebung der Rechtspersönlichkeit der EAV gehen sämtliche Rechte und Pflichten sowie die damit verbundenen Verträge auf den Bund über.
+
+[^76b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Juni 2024 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 2. Privatisierung des Profitcenters Alcosuisse der EAV
 
@@ -1389,7 +1378,7 @@ Der Bundesrat regelt die Einzelheiten und fasst die für die Überführung und d
 <sup>6</sup> Im Hinblick auf zukünftige Ausgaben für die Stilllegung und den Rückbau von nicht veräusserten Aktiven kann die EAV entsprechende Rückstellungen bilden.
 
 [^76c-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76c-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^76c-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### 3. Überführung öffentlich-rechtlicher in privatrechtliche Arbeitsverhältnisse
 
@@ -1408,7 +1397,7 @@ Der Bundesrat regelt die Einzelheiten und fasst die für die Überführung und d
 <sup>5</sup> Angestellte, deren Arbeitsverhältnisse nach den Absätzen 1 und 4 übergehen, haben keinen Anspruch auf Weiterführung der bisherigen Funktion und der organisatorischen Einordnung. Ihnen darf im neuen Arbeitsvertrag keine Probezeit angesetzt werden.
 
 [^76d-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76d-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^76d-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 4. Rentenbeziehende des Profitcenters Alcosuisse der EAV
 
@@ -1424,25 +1413,25 @@ Der Bundesrat wird ermächtigt, aus dem Vermögen der EAV die Finanzierung der A
 
 #### Art. 76f
 
-[^76f-1]
+[^77-1]
 
 <sup>1</sup> Inhaber einer Bewilligung zur Verwendung von fiskalisch nicht belastetem Ethanol nach bisherigem Recht müssen bis spätestens drei Monate nach Inkrafttreten der Änderung vom 30. September 2016 beim BAZG um eine neue Verwendungsbewilligung nachsuchen.
 
 <sup>2</sup> Zum Zeitpunkt der Ausstellung der Verwendungsbewilligung werden deren Inhaber in das Ethanolregister nach Artikel 72 eingetragen.
 
-[^76f-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^77-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### III. Auf laufende Verfahren anwendbares Recht
 
 #### Art. 77
 
-[^77-1]
+[^78-1]
 
 <sup>1</sup> Beschwerdeverfahren, die im Zeitpunkt des Inkrafttretens dieser Änderung vom 30. September 2016 laufen, welche die Steuerfestsetzung zum Gegenstand haben und denen eine nach bisherigem Recht ergangene Verfügung zugrunde liegt, werden nach bisherigem Recht zu Ende geführt.
 
 <sup>2</sup> Auf die übrigen Beschwerdeverfahren ist das neue Recht anwendbar.
 
-[^77-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^78-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### IV. Inkrafttreten und Vollzug
 
@@ -1454,6 +1443,6 @@ Der Bundesrat wird ermächtigt, aus dem Vermögen der EAV die Finanzierung der A
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes. Er erlässt die zum Vollzug erforderlichen Vorschriften.
 
-Datum des Inkrafttretens: 1. Januar 1933[^78-1]
+Datum des Inkrafttretens: 1. Januar 1933[^78-2]
 
-[^78-1]: Art. 160 der VV vom 19. Dez. 1932 [BS **6** 887].
+[^78-2]: Art. 160 der VV vom 19. Dez. 1932 [BS **6** 887].

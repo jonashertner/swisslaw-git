@@ -4,20 +4,20 @@ title: "Loi fédérale du 21 juin 1932 sur l'alcool (LAlc)"
 short: LAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: fr
-version: 2022-01-01
+version: 2024-06-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20240601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’alcool
 
-(LAlc)**[^t-1]**
+(LAlc)[^t-1]
 
-du 21 juin 1932 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 juin 1932 (État le 1<sup>er</sup> juin 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -27,7 +27,7 @@ vu les art. 105 et 131, al. 1, let. b, de la Constitution[^ingress-1],[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^ingress-3]: [FF 1931 I 729](https://fedlex.data.admin.ch/eli/fga/1931/1_697_729_)
 
@@ -51,7 +51,7 @@ La fabrication, la rectification, l’importation, l’exportation, le transit, 
 
 <sup>4</sup> Une ordonnance du Conseil fédéral soumettra à la présente loi tout autre alcool susceptible de servir de boisson et de remplacer l’alcool éthylique.
 
-[^2-1]: Nouvelle teneur selon le ch. 1 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 ## Chapitre II Production indigène
 
@@ -211,7 +211,7 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 <sup>3</sup> Pour les boissons distillées que l’OFDF prend en charge pour absorber les excédents du marché, des prix échelonnés sont fixés selon les quantités. Ils doivent être inférieurs à ceux fixés selon l’al. 3.[^11-2]
 
-<sup>4</sup> et <sup>5</sup> ...[^11-3]
+<sup>4 et <sup>5</sup></sup> ...[^11-3]
 
 <sup>6</sup> Le prix payé aux distilleries industrielles et aux fabriques d’alcool doit, en règle générale, correspondre au prix de revient moyen de l’alcool de même qualité importé par l’OFDF. Pour fixer ce prix, il pourra être tenu équitablement compte des frais de production effectifs, y compris l’intérêt et l’amortissement du capital investi.
 
@@ -442,8 +442,8 @@ L’impôt est réduit de 50 % pour:
 <sup>3</sup> Le Conseil fédéral règle l’assujettissement à l’impôt ainsi que le remboursement ou l’imputation de la charge fiscale perçue, conformément à la présente loi, sur les matières employées.
 
 [^23bis-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379), [1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^23bis-2]: Nouvelle teneur selon le ch. 1 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^23bis-3]: Nouvelle teneur selon le ch. 1 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^23bis-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^23bis-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^23bis-4]: Introduit par le le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 455](https://fedlex.data.admin.ch/eli/oc/2004/34); [FF 2003 1980](https://fedlex.data.admin.ch/eli/fga/2003/271)).
 
 ### VI. ...
@@ -452,7 +452,7 @@ L’impôt est réduit de 50 % pour:
 
 [^24-1]
 
-[^24-1]: Abrogé par le ch. 4 de l’annexe à la loi du 29 avr. 1998 sur l’agriculture, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
+[^24-1]: Abrogé par l’annexe ch. 4 de la loi du 29 avr. 1998 sur l’agriculture, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
 
 ### VII. Appareils à distiller sans concession
 
@@ -598,7 +598,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 <sup>5</sup> Le transit de l’alcool et des produits contenant de l’alcool est exonéré de toute taxe fiscale prévue par la présente loi. Les prescriptions de la législation douanière sont applicables à la garantie des droits prévus par la présente loi.[^36-3]
 
-[^36-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^36-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^36-2]: Phrase introduite par le ch. I 4 de la LF du 17 déc. 2010 sur l’achat de marchandises dans les boutiques hors taxes des aéroports, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1971](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379), [1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -616,7 +616,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 [^38-1]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Chapitre V Commerce des boissons distillées destinées à la consommation****
+## Chapitre V Commerce des boissons distillées destinées à la consommation
 
 [^chap5-1]
 
@@ -660,7 +660,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 <sup>3bis</sup> ...[^40-5]
 
-<sup>4</sup> et <sup>5</sup> ...[^40-6]
+<sup>4 et <sup>5</sup></sup> ...[^40-6]
 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -782,7 +782,7 @@ L’OFDF encourage la coordination entre les cantons en matière de réglementat
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-## Chapitre V*a* Autres mesures pour diminuer la consommation des eaux‑de-vie****
+## Chapitre V*a* Autres mesures pour diminuer la consommation des eaux‑de-vie
 
 [^chapVa-1]
 
@@ -832,7 +832,7 @@ L’OFDF encourage la coordination entre les cantons en matière de réglementat
 
 [^45-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1984, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 1965](https://fedlex.data.admin.ch/eli/oc/1985/1965_1965_1965); [FF 1981 III 705](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
-## Chapitre VI*a* Gage fiscal****
+## Chapitre VI*a* Gage fiscal
 
 [^chapVIa-1]
 
@@ -907,7 +907,7 @@ Il règle:
 
 [^48-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-## Chapitre VII**** Voies de droit
+## Chapitre VII Voies de droit
 
 [^chap7-1]
 
@@ -943,14 +943,14 @@ Les décisions fondées sur l’art 42*b* peuvent être attaquées dans un déla
 
 <sup>2</sup> Les autres décisions rendues par les bureaux de douane ou celles rendues par les directions d’arrondissement, en vertu de la présente loi, peuvent faire l’objet d’un recours, dans un délai de 30 jours, auprès de la Direction générale des douanes.
 
-[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
-## Chapitre VIII Dispositions pénales**** ****
+## Chapitre VIII Dispositions pénales
 
 [^chap8-1][^chap8-2]
 
-[^chap8-1]: Nouvelle teneur selon le ch. 11 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^chap8-2]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^chap8-1]: Nouvelle teneur selon l’annexe ch. 11 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^chap8-2]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 ### A. Infractions
 
@@ -976,7 +976,7 @@ Est puni d’une amende pouvant atteindre le quintuple du montant de la perte fi
 <sup>3</sup> L’auteur qui agit par négligence est puni d’une amende pouvant atteindre le triple du montant de la perte fiscale occasionnée.
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149), [2018 3501](https://fedlex.data.admin.ch/eli/oc/2018/568); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^52-2]: RS **313****.****0**
+[^52-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 2. Mise en péril
 
@@ -1015,7 +1015,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 <sup>6</sup> Les al. 1 à 5 s’appliquent pour autant que l’art. 14 DPA[^54-2] ne s’applique pas.
 
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^54-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. ...
 
@@ -1023,7 +1023,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 
 [^55-1]
 
-[^55-1]: Abrogé par le ch. 13 de l’annexe à la loi du 5 oct. 1990 sur les subventions, avec effet au 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
+[^55-1]: Abrogé par l’annexe ch. 13 de la loi du 5 oct. 1990 sur les subventions, avec effet au 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
 
 ### IV. Recel
 
@@ -1071,8 +1071,8 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 <sup>2</sup> Le renvoi du contrevenant devant le juge pour infraction à l’art. 285 ou 286 du code pénal suisse[^58-2] est réservé.
 
-[^58-1]: Nouvelle teneur selon le ch. 11 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^58-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^58-1]: Nouvelle teneur selon l’annexe ch. 11 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^58-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### VII. Détournement du gage fiscal
 
@@ -1097,7 +1097,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possessi
 <sup>2</sup> Sous réserve de l’art. 57, al. 5, l’OFDF est l’autorité administrative compétente pour poursuivre et juger.
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### II. Infractions commises dans une entreprise
 
@@ -1108,7 +1108,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possessi
 Si l’amende prévisible n’excède pas 50 000 francs et qu’il n’est pas possible de déterminer les personnes punissables en vertu de l’art. 6 DPA[^59a-2], sauf à prendre des mesures d’instruction disproportionnées, l’OFDF peut renoncer à poursuivre ces personnes et condamner l’entreprise au paiement de l’amende à leur place.
 
 [^59a-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Concours d’infractions
 
@@ -1129,7 +1129,7 @@ Si un acte constitue à la fois un ou plusieurs états de fait punissables selon
 La prescription de l’action pénale selon l’art. 11, al. 2, DPA[^60-2], est aussi applicable aux infractions visées aux art. 52, 53 et 56.
 
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^60-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^60-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 61
 
@@ -1141,7 +1141,7 @@ La prescription de l’action pénale selon l’art. 11, al. 2, DPA[^60-2], est 
 
 [^chap8-lvlC-1]
 
-[^chap8-lvlC-1]: Nouvelle teneur selon le ch. 13 de l’annexe à la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
+[^chap8-lvlC-1]: Nouvelle teneur selon l’annexe ch. 13 de la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
 
 #### Art. 62
 
@@ -1153,10 +1153,10 @@ La prescription de l’action pénale selon l’art. 11, al. 2, DPA[^60-2], est 
 
 <sup>3</sup> Celui qui aura obtenu ou tenté d’obtenir indûment, pour lui-même ou pour un tiers, une contribution (subside) ou tout autre avantage prévu par la législation sur l’alcool, de même que l’exploitation commerciale qu’il représente, pourra être privé du droit aux contributions pour une durée de trois ans au plus.[^62-4]
 
-[^62-1]: Nouvelle teneur selon le ch. 11 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: Nouvelle teneur selon l’annexe ch. 11 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^62-4]: Nouvelle teneur selon le ch. 13 de l’annexe à la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
+[^62-4]: Nouvelle teneur selon l’annexe ch. 13 de la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
 
 ### D. Dommages-intérêts
 
@@ -1172,7 +1172,7 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 [^64-1]
 
-[^64-1]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^64-1]: Abrogé par l’annexe ch. 11 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ## Chapitre IX Recouvrement
 
@@ -1184,13 +1184,13 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 <sup>2</sup> ...[^65-1]
 
-[^65-1]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^65-1]: Abrogé par l’annexe ch. 11 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### II. Poursuites pour dettes
 
 [^chap9-lvlII-1]
 
-[^chap9-lvlII-1]: Nouvelle teneur selon le ch. 11 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^chap9-lvlII-1]: Nouvelle teneur selon l’annexe ch. 11 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 #### Art. 66
 
@@ -1200,8 +1200,8 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 <sup>3</sup> ...[^66-2]
 
-[^66-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^66-2]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^66-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^66-2]: Abrogé par l’annexe ch. 11 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### III. Réquisition de sûretés
 
@@ -1230,7 +1230,7 @@ L’OFDF peut demander des sûretés pour l’impôt et les autres créances, m�
 <sup>5</sup> Le recours contre la décision de réquisition de sûretés n’a pas d’effet suspensif.
 
 [^67-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^67-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^67-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### IV. ...
 
@@ -1238,7 +1238,7 @@ L’OFDF peut demander des sûretés pour l’impôt et les autres créances, m�
 
 [^68-1]
 
-[^68-1]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^68-1]: Abrogé par l’annexe ch. 11 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### V. Remboursement et suppléments de droits. Sursis et remise
 
@@ -1277,32 +1277,17 @@ L’OFDF peut demander des sûretés pour l’impôt et les autres créances, m�
 
 [^70-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-### 2. RFA
+### 2. OFDF et Office fédéral de l’agriculture
 
 #### Art. 71
 
-<sup>1</sup> Les affaires en rapport avec l’exécution de la législation sur l’alcool sont gérées par la RFA. Celle-ci possède la personnalité civile.
+[^71-1]
 
-<sup>1</sup> <sup>bis</sup> Les affaires en rapport avec l’utilisation sans distillation des matières premières relèvent de l’Office fédéral de l’agriculture.[^71-1]
+<sup>1</sup> L’OFDF gère les affaires en rapport avec l’exécution de la législation sur l’alcool.
 
-<sup>2</sup> Les fonctionnaires et les employés de la RFA sont soumis au statut des fonctionnaires du 30 juin 1927[^71-2].[^71-3]
+<sup>2</sup> L’Office fédéral de l’agriculture gère les affaires en rapport avec l’utilisation sans distillation des matières premières des distilleries.
 
-<sup>3</sup> La Régie fédérale des alcools tient une comptabilité indépendante. La Confédération doit avancer à la RFA les sommes nécessaires à l’exécution de la présente loi.[^71-4]
-
-<sup>4</sup> La RFA est exonérée de tout impôt fédéral, cantonal et communal, à moins qu’il ne s’agisse d’impôt sur des immeubles n’ayant aucun rapport direct avec l’exploitation.
-
-<sup>5</sup> ...[^71-5]
-
-<sup>6</sup> La RFA crée des offices locaux de surveillance qui contrôlent les distilleries soumises à concession et surveillent la distillerie domestique, prennent livraison ou collaborent à la livraison des boissons distillées, déterminent et perçoivent les impôts sur les eaux-de-vie de spécialités. Le Conseil fédéral délimite les compétences et la responsabilité de ces offices et fixe l’indemnité à laquelle ils ont droit pour l’exercice de leurs fonctions. Ces frais sont à la charge de la RFA.
-
-<sup>7</sup> ...[^71-6]
-
-[^71-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-2]: [RS **1** 459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 al. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la loi du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
-[^71-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^71-4]: Nouvelle teneur selon le ch. II 8 de l’annexe à la loi du 13 déc. 2002 sur le Parlement, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)[5181](https://fedlex.data.admin.ch/eli/fga/2001/853)).
-[^71-5]: Abrogé par le ch. III al. 2 let. a de la LF du 21 déc. 1966 modifiant la loi sur le Service des postes, avec effet au 1<sup>er</sup> nov. 1967 ([RO 1967 1533](https://fedlex.data.admin.ch/eli/oc/1967/1485_1533_1527); [FF 1966 I 1071](https://fedlex.data.admin.ch/eli/fga/1966/1_1047_1071_811)).
-[^71-6]: Abrogé par le ch. I de la LF du 4 oct. 1996, avec effet au 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
+[^71-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 3. Registre de l’éthanol
 
@@ -1351,7 +1336,7 @@ Les fonctionnaires et employés fédéraux, de même que toutes les autres perso
 
 <sup>3</sup> L’activité des autorités est réglée par les prescriptions de la présente loi, dès son entrée en vigueur. ...[^76-3]
 
-<sup>4</sup> Lors de l’entrée en vigueur de la présente loi, les réserves disponibles de la RFA, dont le montant sera fixé par arrêté fédéral, devront être réparties entre les cantons conformément à l’art. 22 de la loi fédérale du 29 juin 1900 sur l’alcool[^76-4]. Le solde sera converti en un fonds d’exploitation de la RFA.
+<sup>4</sup> Lors de l’entrée en vigueur de la présente loi, les réserves disponibles de la Régie fédérale des alcools (RFA), dont le montant sera fixé par arrêté fédéral, devront être réparties entre les cantons conformément à l’art. 22 de la loi fédérale du 29 juin 1900 sur l’alcool[^76-4]. Le solde sera converti en un fonds d’exploitation de la RFA.
 
 [^76-1]: Disp. trans. sans objet.
 [^76-2]: [RO **10** 60. RO **18** 273 art. 31]
@@ -1372,13 +1357,17 @@ Les fonctionnaires et employés fédéraux, de même que toutes les autres perso
 
 ### I*b.* Dispositions transitoires de la modification du 30 septembre 2016
 
-### 1. ...
+### 1. Suppression de la RFA
 
 #### Art. 76b
 
 [^76b-1]
 
-[^76b-1]: Pas encore en vigueur.
+<sup>1</sup> La RFA est supprimée. Sa personnalité juridique s’éteint.
+
+<sup>2</sup> Avec la suppression de sa personnalité juridique, tous les droits et devoirs de la RFA, ainsi que les contrats qui y sont liés, sont transférés à la Confédération.
+
+[^76b-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [2024 128](https://fedlex.data.admin.ch/eli/oc/2024/128); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
 ### 2. Privatisation du centre de profit Alcosuisse de la RFA
 
@@ -1407,7 +1396,7 @@ Le Conseil fédéral règle les détails et prend les décisions nécessaires po
 <sup>6</sup> La RFA peut constituer les provisions nécessaires en vue de dépenses futures pour la cessation des activités et la reconstitution des actifs non réalisés.
 
 [^76c-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76c-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^76c-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### 3. Transfert des rapports de travail du droit public au droit privé
 
@@ -1426,7 +1415,7 @@ Le Conseil fédéral règle les détails et prend les décisions nécessaires po
 <sup>5</sup> Les employés dont les rapports de service sont transférés selon les al. 1 et 4 ne peuvent prétendre au maintien de leur fonction et au rang qu’ils occupaient. Aucune période d’essai ne peut leur être imposée dans le nouveau contrat de travail.
 
 [^76d-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
-[^76d-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^76d-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 4. Bénéficiaires de rentes du centre de profit Alcosuisse de la RFA
 
@@ -1474,4 +1463,4 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1933[^78-1]
 
-[^78-1]: Art. 160 du R d’ex. du 19 déc. 1932 [RS **6** 881]
+[^78-1]: Art. 160 du R d’ex. du 19 déc. 1932 [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)881]
