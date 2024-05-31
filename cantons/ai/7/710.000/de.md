@@ -4,37 +4,37 @@ number: "710.000"
 title: Enteignungsgesetz
 short: EntG
 language: de
-version: 2004-04-25
-corrected: 2018-10-23
-version_adopted: 2004-04-25
+version: 2024-06-01
+version_adopted: 2024-04-28
 adopted: 1961-04-30
 in_force: 1961-04-30
 url: "https://ai.clex.ch/app/de/texts_of_law/710.000"
-pdf: "https://ai.clex.ch/api/de/versions/661/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2273/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Enteignungsgesetz (EntG)
+# Enteignungsgesetz
 
-vom 30. April 19611
+(EntG)
+
+vom 30.04.1961 (Stand 01.06.2024)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 4 Abs. 2 und 3 sowie Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 4 Abs. 2 und 3 sowie Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-- l. Das Enteignungsrecht
+## l. Das Enteignungsrecht
 
 #### Art. 1
 
 **Voraussetzungen**
 
-Das Enteignungsrecht kann nur geltend gemacht werden, sofern und soweit dies die Erreichung von Zwecken im Interesse des Kantons oder einer Landesgegend erheischt und eine gütliche Einigung nicht oder nur unter einem unverhältnismässigen Kostenaufwand möglich ist.
+<sup>1</sup> Das Enteignungsrecht kann nur geltend gemacht werden, sofern und soweit dies die Erreichung von Zwecken im Interesse des Kantons oder einer Landesgegend erheischt und eine gütliche Einigung nicht oder nur unter einem unverhältnismässigen Kostenaufwand möglich ist.
 
-#### Art. 23
+#### Art. 2
 
 **Geltungsbereich**
 
@@ -42,7 +42,7 @@ Das Enteignungsrecht kann nur geltend gemacht werden, sofern und soweit dies die
 
 <sup>2</sup> Ist die Enteignung nach eidgenössischem Recht bewilligt, so kann das kantonale Recht nicht mehr angerufen werden.
 
-#### Art. 34
+#### Art. 3
 
 **Legitimation**
 
@@ -58,11 +58,15 @@ Das Enteignungsrecht kann nur geltend gemacht werden, sofern und soweit dies die
 
 <sup>1</sup> Enteignet werden können bewegliche oder unbewegliche Sachen oder Rechte an solchen.
 
-<sup>2</sup> Gegen den Willen des Enteigneten\* darf kein völliger oder dauernder Entzug erfolgen, wenn eine Beschränkung oder vorübergehende Enteignung zur Erreichung des Zweckes genügt.
+<sup>2</sup> Gegen den Willen des Enteigneten[^4-1] darf kein völliger oder dauernder Entzug erfolgen, wenn eine Beschränkung oder vorübergehende Enteignung zur Erreichung des Zweckes genügt.
+
+[^4-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 5
 
-Ausdehnungs- <sup>1</sup>Wird von einem Grundstück oder mehreren wirtschaftlich zusammenhängenden recht des Ent- Grundstücken nur ein Teil in Anspruch genommen und dadurch die bestimmungseigneten gemässe Verwendung des verbleibenden Teiles verunmöglicht oder unverhältnismässig erschwert, so kann der Enteignete die Enteignung des Ganzen verlangen.
+**Ausdehnungsrecht des Enteigneten**
+
+<sup>1</sup> Wird von einem Grundstück oder mehreren wirtschaftlich zusammenhängenden Grundstücken nur ein Teil in Anspruch genommen und dadurch die bestimmungsgemässe Verwendung des verbleibenden Teiles verunmöglicht oder unverhältnismässig erschwert, so kann der Enteignete die Enteignung des Ganzen verlangen.
 
 <sup>2</sup> Wird dem Enteigneten durch die Einräumung eines beschränkten dinglichen Rechtes die bestimmungsgemässe Verwendung des Grundstückes verunmöglicht oder unverhältnismässig erschwert, so kann er die Enteignung des Grundstückes verlangen.
 
@@ -70,13 +74,17 @@ Ausdehnungs- <sup>1</sup>Wird von einem Grundstück oder mehreren wirtschaftlich
 
 #### Art. 6
 
-Ausdehnungs- <sup>1</sup>Der Enteigner kann die Enteignung des Ganzen verlangen, wenn bei Teilenteigrecht des Ent- nung die Entschädigung für die Wertverminderung des Restes mehr als die Hälfte eigners seines Wertes beträgt.
+**Ausdehnungsrecht des Enteigners**
+
+<sup>1</sup> Der Enteigner kann die Enteignung des Ganzen verlangen, wenn bei Teilenteignung die Entschädigung für die Wertverminderung des Restes mehr als die Hälfte seines Wertes beträgt.
 
 <sup>2</sup> Der Enteigner hat innert 20 Tagen seit rechtskräftiger Festsetzung der Entschädigung dem Enteigneten schriftlich mitzuteilen, ob er die Enteignung des Ganzen gewählt hat.
 
 #### Art. 7
 
-Verzicht <sup>1</sup>Innert 20 Tagen seit rechtskräftiger Festsetzung der Entschädigung kann der Enteigner, sofern er nicht vorzeitige Besitzeseinweisung verlangt hat, durch schriftliche Erklärung gegenüber dem Enteigneten auf den Vollzug der Enteignung verzichten.
+**Verzicht**
+
+<sup>1</sup> Innert 20 Tagen seit rechtskräftiger Festsetzung der Entschädigung kann der Enteigner, sofern er nicht vorzeitige Besitzeseinweisung verlangt hat, durch schriftliche Erklärung gegenüber dem Enteigneten auf den Vollzug der Enteignung verzichten.
 
 <sup>2</sup> Die Frist kann durch den Kantonsgerichtspräsidenten erstreckt werden, wenn für ein Unternehmen mehr als ein Schätzungsverfahren anhängig ist und die Entscheide der Schätzungskommission nicht gleichzeitig zugestellt werden konnten.
 
@@ -84,7 +92,7 @@ Verzicht <sup>1</sup>Innert 20 Tagen seit rechtskräftiger Festsetzung der Entsc
 
 <sup>4</sup> Eine im Grundbuch vorgemerkte Verfügungsbeschränkung wird auf Vorweisung der Verzichterklärung gelöscht.
 
-#### Art. 81
+#### Art. 8
 
 **Vorbereitende Handlungen**
 
@@ -92,9 +100,9 @@ Verzicht <sup>1</sup>Innert 20 Tagen seit rechtskräftiger Festsetzung der Entsc
 
 <sup>2</sup> Für erwachsenden Schaden ist Ersatz zu leisten. Im Streitfall entscheidet die Standeskommission.
 
-### II. Die Entschädigung
+## II. Die Entschädigung
 
-#### Art. 92
+#### Art. 9
 
 **Grundsätze der Entschädigung**
 
@@ -113,44 +121,50 @@ Verzicht <sup>1</sup>Innert 20 Tagen seit rechtskräftiger Festsetzung der Entsc
 <sup>1</sup> Die Entschädigung ist unter Berücksichtigung aller Nachteile festzusetzen, die dem Enteigneten ohne sein Verschulden aus dem Entzug oder der Beschränkung seiner Rechte erwachsen. Demnach sind zu vergüten:
 
 - a) der volle Verkehrswert des enteigneten Rechtes;
-
 - b) der Minderwert, der entsteht, wenn von einem Grundstück oder von mehreren wirtschaftlich zusammenhängenden Grundstücken nur ein Teil in Anspruch genommen wird; auch der Betrag, um den der Verkehrswert des verbleibenden Teiles sich vermindert;
-
 - c) alle weitern den Enteigneten treffenden Nachteile, die sich nach dem gewöhnlichen Lauf der Dinge als Folge der Enteignung voraussehen lassen.
 
 <sup>2</sup> Lässt sich der Nachteil bei der Enteignung noch nicht feststellen, so kann auf Begehren der Beteiligten oder von Amtes wegen der Entscheid bis zur Vollendung des Werkes ausgesetzt werden, allenfalls unter Anordnung einer angemessenen Sicherheitsleistung.
 
 #### Art. 11
 
-Berechnung des <sup>1</sup>Bei der Ermittlung des Verkehrswertes sind bessere Verwendungsmöglichkeiten Verkehrswertes angemessen zu berücksichtigen, nicht aber offenbare Spekulations- oder Liebhaberpreise.
+**Berechnung des Verkehrswertes**
+
+<sup>1</sup> Bei der Ermittlung des Verkehrswertes sind bessere Verwendungsmöglichkeiten angemessen zu berücksichtigen, nicht aber offenbare Spekulations- oder Liebhaberpreise.
 
 <sup>2</sup> Mit Ausnahme der Nutzniessung sind die auf dem Grundstück bestehenden Dienstbarkeiten, die im Grundbuch vorgemerkten persönlichen Rechte sowie der Wert von Lasten, die durch die Enteignung dahinfallen, bei der Schätzung in Betracht zu ziehen.
 
-<sup>3</sup> Werterhöhungen oder Wertverminderungen, die durch das Werk des Enteigners
-
-entstehen, fallen bei der Verkehrswertberechnung ausser Betracht.
+<sup>3</sup> Werterhöhungen oder Wertverminderungen, die durch das Werk des Enteigners entstehen, fallen bei der Verkehrswertberechnung ausser Betracht.
 
 #### Art. 12
 
-Entschädigung <sup>1</sup>Mit Ausnahme der Nutzniessung ist für enteignete Dienstbarkeiten sowie für die im für Dienstbarkei- Grundbuch vorgemerkten persönlichen Rechte dem Berechtigten der entstehende ten Schaden angemessen zu vergüten.
+**Entschädigung für Dienstbarkeiten**
+
+<sup>1</sup> Mit Ausnahme der Nutzniessung ist für enteignete Dienstbarkeiten sowie für die im Grundbuch vorgemerkten persönlichen Rechte dem Berechtigten der entstehende Schaden angemessen zu vergüten.
 
 <sup>2</sup> Für vorzeitige Aufhebung von vor Einleitung des Enteignungsverfahrens abgeschlossenen Miet- und Pachtverträgen können Mieter und Pächter Ersatz des nachweisbaren Schadens verlangen, auch wenn ihre Rechte im Grundbuch nicht vorgemerkt sind.
 
 #### Art. 13
 
-Grundpfand- Den Grundpfand-, Grundlast- und Nutzniessungsberechtigten haftet an Stelle der rechte und Nutz- enteigneten Sache die dafür geleistete Entschädigung nach Massgabe des Zivilniessung rechtes. Sie können selbständige Anträge stellen, soweit eine Beeinträchtigung ihrer Rechte zu befürchten ist.
+**Grundpfandrechte und Nutzniessung**
+
+<sup>1</sup> Den Grundpfand-, Grundlast- und Nutzniessungsberechtigten haftet an Stelle der enteigneten Sache die dafür geleistete Entschädigung nach Massgabe des Zivilrechtes. Sie können selbständige Anträge stellen, soweit eine Beeinträchtigung ihrer Rechte zu befürchten ist.
 
 #### Art. 14
 
-Bei Teilenteig- Bei einer Teilenteignung ist für den Minderwert des verbleibenden Teiles insoweit nung kein Ersatz zu leisten, als er durch besondere Vorteile, die ihm aus dem Werk des Enteigners entstehen, aufgewogen wird.
+**Bei Teilenteignung**
+
+<sup>1</sup> Bei einer Teilenteignung ist für den Minderwert des verbleibenden Teiles insoweit kein Ersatz zu leisten, als er durch besondere Vorteile, die ihm aus dem Werk des Enteigners entstehen, aufgewogen wird.
 
 #### Art. 15
 
-Ausschluss einer <sup>1</sup>Soweit Rechte und Ansprüche durch widerrechtliche oder missbräuchliche Hand-Entschädigung lungen oder nur zu dem Zwecke begründet worden sind, um eine Entschädigung zu erwirken, ist kein Ersatz zu leisten.
+**Ausschluss einer Entschädigung**
+
+<sup>1</sup> Soweit Rechte und Ansprüche durch widerrechtliche oder missbräuchliche Handlungen oder nur zu dem Zwecke begründet worden sind, um eine Entschädigung zu erwirken, ist kein Ersatz zu leisten.
 
 <sup>2</sup> Für allgemeine öffentlich-rechtliche Eigentumsbeschränkungen ist keine Entschädigung zu leisten.
 
-### III. Das Enteignungsverfahren
+## III. Das Enteignungsverfahren
 
 #### Art. 16
 
@@ -170,7 +184,7 @@ Ausschluss einer <sup>1</sup>Soweit Rechte und Ansprüche durch widerrechtliche 
 
 **Schriftenwechsel**
 
-Das Enteignungsgesuch samt den erforderlichen Unterlagen wird den Betroffenen unter Ansetzung einer angemessenen Frist zur Stellungnahme zugestellt. Ausnahmsweise kann die Standeskommission einen weitern Schriftenwechsel anordnen.
+<sup>1</sup> Das Enteignungsgesuch samt den erforderlichen Unterlagen wird den Betroffenen unter Ansetzung einer angemessenen Frist zur Stellungnahme zugestellt. Ausnahmsweise kann die Standeskommission einen weitern Schriftenwechsel anordnen.
 
 #### Art. 18
 
@@ -184,7 +198,7 @@ Das Enteignungsgesuch samt den erforderlichen Unterlagen wird den Betroffenen un
 
 <sup>4</sup> Der Enteigner ist für allen aus dem Enteignungsbann entstehenden Schaden voll verantwortlich.
 
-#### Art. 191
+#### Art. 19
 
 **Einigungsverhandlung**
 
@@ -194,47 +208,46 @@ Das Enteignungsgesuch samt den erforderlichen Unterlagen wird den Betroffenen un
 
 #### Art. 20
 
-Entscheid über <sup>1</sup>Scheitert der Versuch einer gütlichen Vereinbarung ganz oder teilweise, so entdie Enteignung scheidet die Standeskommission, in welchem Umfang der Kanton das Enteignungsrecht in Anspruch nimmt, resp. ob und in welchem Umfang das Enteignungsrecht erteilt wird.
+**Entscheid über die Enteignung**
+
+<sup>1</sup> Scheitert der Versuch einer gütlichen Vereinbarung ganz oder teilweise, so entscheidet die Standeskommission, in welchem Umfang der Kanton das Enteignungsrecht in Anspruch nimmt, resp. ob und in welchem Umfang das Enteignungsrecht erteilt wird.
 
 <sup>2</sup> Die Kosten des Verfahrens gehen in jedem Falle zu Lasten des Gesuchstellers. Der motivierte Entscheid ist allen Betroffenen zuzustellen.
 
-### IV. Das Schätzungsverfahren
+## IV. Das Schätzungsverfahren
 
-#### Art. 211
+#### Art. 21
 
-Vermittlungsver- <sup>1</sup>Die Standeskommission überweist den Entscheid und die gesamten Akten einem handlung von ihr bestimmten Vermittler.
+**Vermittlungsverhandlung**
+
+<sup>1</sup> Die Standeskommission überweist den Entscheid und die gesamten Akten einem von ihr bestimmten Vermittler.
 
 <sup>2</sup> Das Verfahren zur Ausmittlung der Entschädigung soll in der Regel durch eine Vergleichsverhandlung vor dem von der Standeskommission bestimmten Vermittler und dem Bezirksgerichtsschreiber erfolgen. Art. 19 Abs. 2 dieses Gesetzes ist sinngemäss anzuwenden.
 
-#### Art. 222
+#### Art. 22
 
-Schätzungs- Kann eine gütliche Verständigung nicht erzielt werden, so ernennt die Standeskommission kommission eine Schätzungskommission, bestehend aus einem Präsidenten, zwei Mitgliedern und zwei Ersatzmitgliedern. Als Aktuar wird der Bezirksgerichtsschreiber beigezogen.
+**Schätzungskommission**
 
-#### Art. 233
+<sup>1</sup> Kann eine gütliche Verständigung nicht erzielt werden, so ernennt die Standeskommission eine Schätzungskommission, bestehend aus einem Präsidenten, zwei Mitgliedern und zwei Ersatzmitgliedern. Als Aktuar wird der Bezirksgerichtsschreiber beigezogen.
 
-Zuständigkeit Die Schätzungskommission entscheidet insbesondere über:
+#### Art. 23
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Schätzungskommission entscheidet insbesondere über:
 
 - a) Bestand und Höhe des Schadens aus dem Enteignungsbann;
-
 - b) Ausdehnungsbegehren des Enteigneten und des Enteigners;
-
 - c) bestrittene Rechte;
-
 - d) Art und Höhe der Enteignungsentschädigung;
-
 - e) vorzeitige Besitzeseinweisung und damit verbundene Massnahmen;
-
 - f) Einsprachen gegen die Richtigkeit der Bezahlung der Enteignungsentschädigung;
-
 - g) nachträgliche Forderungen;
-
 - h) Höhe der Entschädigung bei Verzicht auf die Enteignung;
-
 - i) Höhe der allfälligen Gegenleistungen bei Ausübung des Rücktrittsrechtes;
-
 - k) Schaden aus vorbereitenden Handlungen, sofern dieser nicht gemäss Art. 8 dieses Gesetzes geltend gemacht wurde.
 
-#### Art. 241
+#### Art. 24
 
 **Vorladung**
 
@@ -242,19 +255,17 @@ Zuständigkeit Die Schätzungskommission entscheidet insbesondere über:
 
 <sup>2</sup> Den Grundpfand-, Grundlast- und Nutzniessungsberechtigten ist das Erscheinen freigestellt.
 
-#### Art. 252
+#### Art. 25
 
-**Verhandlung**
+**Verhandlung, Gütliche Vereinbarungen**
 
 <sup>1</sup> Wo es tunlich erscheint, wird die Verhandlung mit einem Augenschein verbunden. Die Parteien haben dabei ihre Begehren mündlich zu stellen und zu begründen. Der Präsident kann die schriftliche Einreichung der Anträge und deren Begründung verlangen und hierzu eine angemessene Frist ansetzen.
 
 <sup>2</sup> Ausdehnungsbegehren sind spätestens bei der Verhandlung anzubringen.
 
-**Gütliche Vereinbarungen**
+<sup>3</sup> Für allfällige gütliche Vereinbarungen, die vom Kommissionspräsidenten zu unterzeichnen sind, gilt sinngemäss Art. 19 Abs. 2 dieses Gesetzes
 
-<sup>3</sup> Für allfällige gütliche Vereinbarungen, die vom Kommissionspräsidenten zu unterzeichnen sind, gilt sinngemäss Art. 19 Abs. 2 dieses Gesetzes.
-
-#### Art. 263
+#### Art. 26
 
 **Bestrittene Rechte**
 
@@ -262,47 +273,55 @@ Zuständigkeit Die Schätzungskommission entscheidet insbesondere über:
 
 <sup>2</sup> Ist eine Partei mit der Beurteilung durch die Kommission nicht einverstanden, wird das Verfahren ausgesetzt. Innert der von der Kommission bestimmten Frist hat der Enteigner beim Bezirksgericht ohne vorgängige Vermittlung Klage zu erheben, ansonst das behauptete Recht als bestehend betrachtet wird.
 
-#### Art. 271
+#### Art. 27
 
-Feststellung des Bei der Feststellung des Tatbestandes und der Höhe der Entschädigung ist die Tatbestandes Schätzungskommission nicht an die Anträge der Parteien gebunden. Sie kann die und der Ent- ihr nötig erscheinenden Erhebungen anstellen und den Parteien zu diesem Zwecke schädigung Beweise auferlegen, Zeugen abhören und Sachverständige beiziehen. Sachverständige können von den Parteien innert fünf Tagen seit Mitteilung abgelehnt werden.
+**Feststellung des Tatbestandes und der Entschädigung**
 
-#### Art. 282
+<sup>1</sup> Bei der Feststellung des Tatbestandes und der Höhe der Entschädigung ist die Schätzungskommission nicht an die Anträge der Parteien gebunden. Sie kann die ihr nötig erscheinenden Erhebungen anstellen und den Parteien zu diesem Zwecke Beweise auferlegen, Zeugen abhören und Sachverständige beiziehen. Sachverständige können von den Parteien innert fünf Tagen seit Mitteilung abgelehnt werden.
 
-Entscheid Der Entscheid soll in der Regel nicht später als 14 Tage seit der letzten Verhandlung den Parteien schriftlich eröffnet werden.
+#### Art. 28
+
+**Entscheid**
+
+<sup>1</sup> Der Entscheid soll in der Regel nicht später als 14 Tage seit der letzten Verhandlung den Parteien schriftlich eröffnet werden.
+
+<sup>2</sup> …
 
 #### Art. 29
 
-Nachträgliche <sup>1</sup>Entschädigungsforderungen können nach Abschluss des Schätzungsverfahrens Forderungen noch geltend gemacht werden, wenn a) ein Berechtigter nachweist, dass ihm ein unverschuldetes Hindernis die Gel-
+**Nachträgliche Forderungen**
 
-tendmachung seiner Ansprüche unmöglich machte;
+<sup>1</sup> Entschädigungsforderungen können nach Abschluss des Schätzungsverfahrens noch geltend gemacht werden, wenn
 
+- a) ein Berechtigter nachweist, dass ihm ein unverschuldetes Hindernis die Geltendmachung seiner Ansprüche unmöglich machte;
 - b) vom Enteigner entgegen dem eingereichten Gesuch ein Recht in Anspruch genommen wurde;
-
 - c) eine nicht oder nicht sicher vorauszusehende Schädigung des Enteigneten sich erst beim Bau oder nach der Erstellung eines Werkes einstellt.
 
 <sup>2</sup> Diese Entschädigungsforderungen gelten als verwirkt, wenn sie nicht innert 20 Tagen seit Kenntnis beim Präsidenten der Schätzungskommission geltend gemacht wurden.
 
 #### Art. 30
 
-Vorzeitige Besit- <sup>1</sup>Der Enteigner kann nach Einleitung des Schätzungsverfahrens verlangen, dass ihn zeseinweisung die Schätzungskommission nach vorgenommenem Augenschein und nach Anhören des Abtretungspflichtigen zur sofortigen Besitzergreifung oder zur Ausübung des Rechtes vor Bezahlung der Entschädigung ermächtigt, wenn für den Enteigner aus
+**Vorzeitige Besitzeseinweisung**
 
-einer Verzögerung bedeutende Nachteile entstehen würden.
+<sup>1</sup> Der Enteigner kann nach Einleitung des Schätzungsverfahrens verlangen, dass ihn die Schätzungskommission nach vorgenommenem Augenschein und nach Anhören des Abtretungspflichtigen zur sofortigen Besitzergreifung oder zur Ausübung des Rechtes vor Bezahlung der Entschädigung ermächtigt, wenn für den Enteigner aus einer Verzögerung bedeutende Nachteile entstehen würden.
 
 <sup>2</sup> Bei vorzeitiger Besitzeseinweisung hat die Schätzungskommission gleichzeitig die Massnahmen anzuordnen, die die spätere Festsetzung der Entschädigung sichern. Auf Antrag des Enteigneten kann zudem eine Sicherheitsleistung verlangt werden. Jedenfalls ist die endgültige Entschädigung vom Tage der Besitzergreifung an mit 5% zu verzinsen.
 
 <sup>3</sup> Der Entscheid der Schätzungskommission über Begehren um vorzeitige Besitzeseinweisung ist endgültig.
 
-Art. 30bis1
+#### Art. 30bis
 
 **Ergänzendes Recht**
 
-Soweit durch dieses Gesetz nicht anders bestimmt wird, gelten die Bestimmungen des Verwaltungsverfahrensgesetzes.
+<sup>1</sup> Soweit durch dieses Gesetz nicht anders bestimmt wird, gelten die Bestimmungen des Verwaltungsverfahrensgesetzes.
 
-### V. Das Beschwerdeverfahren2
+## V. Das Beschwerdeverfahren
 
-#### Art. 313
+#### Art. 31
 
-#### Art. 324
+**…**
+
+#### Art. 32
 
 **Formvorschriften**
 
@@ -310,13 +329,13 @@ Soweit durch dieses Gesetz nicht anders bestimmt wird, gelten die Bestimmungen d
 
 <sup>2</sup> Neue Begehren und Beweismittel sind nur zulässig, sofern glaubhaft gemacht werden kann, dass sie vor der Schätzungskommission noch nicht gestellt werden konnten.
 
-#### Art. 335
+#### Art. 33
 
 **Schriftenwechsel**
 
-Erweist sich die Beschwerde nicht als offensichtlich grundlos oder unzulässig, so stellt das Gericht die Beschwerdeeingabe der Gegenpartei zu, deren schriftliche Stellungnahme innert zehn Tagen zu erfolgen hat. Ein weiterer Schriftenwechsel findet nicht statt.
+<sup>1</sup> Erweist sich die Beschwerde nicht als offensichtlich grundlos oder unzulässig, so stellt das Gericht die Beschwerdeeingabe der Gegenpartei zu, deren schriftliche Stellungnahme innert zehn Tagen zu erfolgen hat. Ein weiterer Schriftenwechsel findet nicht statt.
 
-#### Art. 346
+#### Art. 34
 
 **Einstweilige Verfügung**
 
@@ -328,45 +347,55 @@ Erweist sich die Beschwerde nicht als offensichtlich grundlos oder unzulässig, 
 
 **Verhandlung**
 
-Sofort nach Abschluss des Schriftenwechsels findet eine mündliche Verhandlung statt, die nach Möglichkeit mit einem Augenschein zu verbinden ist.
+<sup>1</sup> Sofort nach Abschluss des Schriftenwechsels findet eine mündliche Verhandlung statt, die nach Möglichkeit mit einem Augenschein zu verbinden ist.
 
 #### Art. 36
 
-Entscheid Der Entscheid soll in der Regel nicht später als 14 Tage nach der mündlichen Verhandlung den Parteien schriftlich eröffnet werden. In dringenden Fällen ist der Entscheid sofort im Dispositiv zuzustellen.
+**Entscheid**
 
-#### Art. 371
+<sup>1</sup> Der Entscheid soll in der Regel nicht später als 14 Tage nach der mündlichen Verhandlung den Parteien schriftlich eröffnet werden. In dringenden Fällen ist der Entscheid sofort im Dispositiv zuzustellen.
 
-Ergänzendes Soweit durch dieses Gesetz nicht anders bestimmt wird, gelten für das Beschwer-Recht deverfahren die Bestimmungen des Verwaltungsgerichtsgesetzes.
+#### Art. 37
 
-### VI. Der Vollzug
+**Ergänzendes Recht**
+
+<sup>1</sup> Soweit durch dieses Gesetz nicht anders bestimmt wird, gelten für das Beschwerdeverfahren die Bestimmungen des Verwaltungsgerichtsgesetzes.
+
+## VI. Der Vollzug
 
 #### Art. 38
 
-Fälligkeit der Die Entschädigung für die Enteignung wird innert 20 Tagen nach ihrer rechtskräfti-Entschädigung gen Feststellung fällig und ist von diesem Zeitpunkt an mit 5% zu verzinsen, sofern der Enteignete nicht mit seinem Einverständnis im Genusse des enteigneten Rechtes verbleibt.
+**Fälligkeit der Entschädigung**
 
-#### Art. 392
+<sup>1</sup> Die Entschädigung für die Enteignung wird innert 20 Tagen nach ihrer rechtskräftigen Feststellung fällig und ist von diesem Zeitpunkt an mit 5% zu verzinsen, sofern der Enteignete nicht mit seinem Einverständnis im Genusse des enteigneten Rechtes verbleibt.
 
-Geld- und Sach- <sup>1</sup>Die Entschädigung ist unter gleichzeitiger Vorlage der sie endgültig festsetzenden leistungen Urkunde beim Grundbuchamt der gelegenen Sache zu deponieren. Sofern die genaue Höhe der Entschädigung vor Abschluss des Unternehmens nicht ausgemittelt werden kann, sind vorerst 80% der voraussichtlichen Summe zu bezahlen. Der Rest ist sofort nach der Vermarkung fällig. Nachforderungen gemäss Art. 29 dieses Gesetzes bleiben vorbehalten.
+#### Art. 39
+
+**Geld- und Sachleistungen**
+
+<sup>1</sup> Die Entschädigung ist unter gleichzeitiger Vorlage der sie endgültig festsetzenden Urkunde bei der für das Grundbuchwesen zuständigen Stelle zu deponieren. Sofern die genaue Höhe der Entschädigung vor Abschluss des Unternehmens nicht ausgemittelt werden kann, sind vorerst 80% der voraussichtlichen Summe zu bezahlen. Der Rest ist sofort nach der Vermarkung fällig. Nachforderungen gemäss Art. 29 dieses Gesetzes bleiben vorbehalten.
 
 <sup>2</sup> Bei Säumnis in der Erbringung von Sachleistungen verfügt die Standeskommission die erforderlichen Massnahmen.
 
-#### Art. 403
+#### Art. 40
 
-Einsprache <sup>1</sup>Das Grundbuchamt benachrichtigt die Berechtigten von der Zahlung und fordert sie auf, allfällige Einsprachen gegen deren Richtigkeit innert zehn Tagen zu erheben.
+**Einsprache**
+
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle benachrichtigt die Berechtigten von der Zahlung und fordert sie auf, allfällige Einsprachen gegen deren Richtigkeit innert zehn Tagen zu erheben.
 
 <sup>2</sup> Einsprachen werden von jener Instanz entschieden, welche die Entschädigungen rechtskräftig festgesetzt hat.
 
-#### Art. 414
+#### Art. 41
 
-**Voraussetzungen**
+**Auszahlung**
 
-Auszahlung <sup>1</sup>Der Grundbuchverwalter darf die für das enteignete Grundstück und den Minderwert eines nicht enteigneten Grundstückes bezahlte Entschädigung dem Eigentümer nur mit Zustimmung allfälliger Berechtigten aus beschränkten dinglichen und vorgemerkten persönlichen Rechten auszahlen.
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle darf die für das enteignete Grundstück und den Minderwert eines nicht enteigneten Grundstücks bezahlte Entschädigung dem Eigentümer nur mit Zustimmung allfälliger Berechtigten aus beschränkten dinglichen und vorgemerkten persönlichen Rechten auszahlen.
 
-<sup>2</sup> Sofern es ungewiss ist, ob noch weitere Rechtsansprüche bestehen, kann der Grundbuchverwalter öffentlich auffordern, allfällige Ansprüche innert 20 Tagen anzumelden und die dafür ausgestellten Urkunden einzusenden. Die Aufforderung ist mit der Androhung zu versehen, dass die Nichtangemeldeten von der Verteilung der Entschädigung insoweit ausgeschlossen werden, als ihre Rechte nicht durch die öffentlichen Bücher festgestellt sind, und dass bis zur Vorlegung der Urkunden ihre Betreffnisse hinterlegt werden. Im übrigen erfolgt das Pfandentlassungsverfahren nach den Vorschriften des ZGB.
+<sup>2</sup> Sofern es ungewiss ist, ob noch weitere Rechtsansprüche bestehen, kann die für das Grundbuchwesen zuständige Stelle öffentlich auffordern, allfällige Ansprüche innert 20 Tagen anzumelden und die dafür ausgestellten Urkunden einzusenden. Die Aufforderung ist mit der Androhung zu versehen, dass die Nichtangemeldeten von der Verteilung der Entschädigung insoweit ausgeschlossen werden, als ihre Rechte nicht durch die öffentlichen Bücher festgestellt sind, und dass bis zur Vorlegung der Urkunden ihre Betreffnisse hinterlegt werden. Im übrigen erfolgt das Pfandentlassungsverfahren nach den Vorschriften des ZGB.
 
-<sup>3</sup> Können sich die Berechtigten über einen vom Grundbuchamt aufgestellten Verteilungsplan nicht einigen, so setzt der Grundbuchverwalter eine Frist von zehn Tagen zur Klageerhebung beim Kantonsgericht an. Bei Nichteinhaltung der Frist wird die Verteilung nach dem vorgesehenen Plan vorgenommen.
+<sup>3</sup> Können sich die Berechtigten über einen von der für das Grundbuchwesen zuständigen Stelle aufgestellten Verteilungsplan nicht einigen, so setzt die für das Grundbuchwesen zuständige Stelle eine Frist von zehn Tagen zur Klageerhebung beim Kantonsgericht an. Bei Nichteinhaltung der Frist wird die Verteilung nach dem vorgesehenen Plan vorgenommen.
 
-#### Art. 421
+#### Art. 42
 
 **Wirkung der Leistung**
 
@@ -380,23 +409,24 @@ Auszahlung <sup>1</sup>Der Grundbuchverwalter darf die für das enteignete Grund
 
 **Grundbucheintrag**
 
-Der Enteigner kann sofort nach gültiger Leistung der Entschädigung und der allfällig nötigen Vermarkung und Vermessung den Eintrag des Rechtserwerbes im Grundbuch verlangen.
+<sup>1</sup> Der Enteigner kann sofort nach gültiger Leistung der Entschädigung und der allfällig nötigen Vermarkung und Vermessung den Eintrag des Rechtserwerbes im Grundbuch verlangen.
 
-### VII. Das Rückforderungsrecht
+## VII. Das Rückforderungsrecht
 
-#### Art. 442
+#### Art. 44
+
+**Voraussetzungen**
 
 <sup>1</sup> Der Enteignete kann die Rückübertragung eines enteigneten Rechtes gegen Erstattung der hierfür erhaltenen Entschädigung und, wo die Umstände es rechtfertigen, des Minderwertes verlangen, wenn dieses:
 
 - a) binnen zwei Jahren vom Tage des Eigentumsüberganges an, nicht zu dem Zweck, für das es abgetreten wurde, benützt wird, ohne dass sich hierfür hinreichende Gründe anführen lassen;
-
 - b) zu einem Zweck verwendet werden soll, für den das Enteignungsrecht nicht gegeben ist.
 
 <sup>2</sup> Das Rückforderungsrecht kann vom frühern Inhaber oder seinen Erben ausgeübt werden, bei einer Teilenteignung jedoch nur dann, wenn sie noch Eigentümer des Restgrundstückes oder des herrschenden Grundstückes sind.
 
 <sup>3</sup> Beim Grundbucheintrag ist dieses Rückforderungsrecht als Verfügungsbeschränkung vorzumerken.
 
-#### Art. 451
+#### Art. 45
 
 **Anzeigepflicht**
 
@@ -408,11 +438,11 @@ Der Enteigner kann sofort nach gültiger Leistung der Entschädigung und der all
 
 **Entscheid**
 
-Wird das Rückforderungsrecht bestritten, so entscheidet die Standeskommission. Können sich die Parteien über die Höhe der Gegenleistung nicht einigen, so entscheidet endgültig jene Instanz, welche die Enteignungsentschädigung rechtskräftig festgesetzt hat.
+<sup>1</sup> Wird das Rückforderungsrecht bestritten, so entscheidet die Standeskommission. Können sich die Parteien über die Höhe der Gegenleistung nicht einigen, so entscheidet endgültig jene Instanz, welche die Enteignungsentschädigung rechtskräftig festgesetzt hat.
 
-### VIII. Verschiedene Vorschriften
+## VIII. Verschiedene Vorschriften
 
-#### Art. 472
+#### Art. 47
 
 **Kosten**
 
@@ -424,60 +454,30 @@ Wird das Rückforderungsrecht bestritten, so entscheidet die Standeskommission. 
 
 #### Art. 48
 
-Alle beteiligten Instanzen sind zu einer möglichst raschen Erledigung der in ihre Rasches Verfah-Zuständigkeit fallenden Amtshandlungen verpflichtet.
+**Rasches Verfahren**
 
-#### Art. 491
+<sup>1</sup> Alle beteiligten Instanzen sind zu einer möglichst raschen Erledigung der in ihre Zuständigkeit fallenden Amtshandlungen verpflichtet.
 
-**ren**
+#### Art. 49
 
-Kanton, Bezirke und Gemeinden sind von der Stellung von Sicherheitsleistungen Sicherstellung befreit.
+**Sicherstellung**
 
-#### Art. 502
+<sup>1</sup> Kanton, Bezirke und Gemeinden sind von der Stellung von Sicherheitsleistungen befreit.
+
+#### Art. 50
+
+**…**
 
 #### Art. 51
 
-**Vollzugs-**
+**Vollzugsvorschriften**
 
-Allfällig notwendige Vollzugsvorschriften werden vom Grossen Rat erlassen.
+<sup>1</sup> Allfällig notwendige Vollzugsvorschriften werden vom Grossen Rat erlassen.
 
-vorschriften Art. 523
+#### Art. 52
 
 **Inkraftsetzung**
 
-Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
+<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 25. April 2004.
-- [2] Titel und Ingress abgeändert durch LdsgB vom 25. April 2004.
-- [3] Abgeändert (Abs. 1) durch LdsgB vom 25. April 2004.
-- [4] Abgeändert (Abs. 3) durch LdsgB vom 25. April 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [2] Abgeändert (Abs. 3) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [2] Abgeändert durch LdsgB vom 25. April 2004.
-- [3] Abgeändert (lit. k) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert (Abs. 1) durch LdsgB vom 25. April 2004.
-- [2] Abgeändert (Abs. 3) durch LdsgB vom 25. April 2004.
-- [3] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert durch LdsgB vom 25. April 2004.
-- [2] Abs. 2 aufgehoben durch LdsgB vom 25. April 2004.
-- [1] Eingefügt durch LdsgB vom 25. April 2004.
-- [2] Titel abgeändert durch LdsgB vom 25. April 2004.
-- [3] Aufgehoben durch LdsgB vom 25. April 2004.
-- [4] Neue Fassung durch LdsgB vom 25. April 2004.
-- [5] Abgeändert durch LdsgB vom 25. April 2004.
-- [6] Abgeändert (Abs. 1) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert durch LdsgB vom 25. April 2004.
-- [2] Abgeändert (Abs. 1) durch LdsgB vom 25. April 2004.
-- [3] Abgeändert (Abs. 1) durch LdsgB vom 25. April 2004.
-- [4] Abgeändert (Abs. 2 und 3) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert (Abs. 3) durch LdsgB vom 25. April 2004.
-- [2] Abgeändert (Abs. 1 lit. a) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [2] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [1] Abgeändert durch LdsgB vom 25. April 2004.
-- [2] Abgeändert durch LdsgB vom 25. April 2004.
-- [3] Abgeändert durch LdsgB vom 25. April 2004.
+cGS -
