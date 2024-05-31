@@ -4,11 +4,10 @@ number: "172.110.5"
 title: Organisationsverordnung der Gesundheitsdirektion (OV GD)
 short: OV GD
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2024-06-01
+version: "2024-06-01"
+nachtrag: "125"
 adopted: 2021-12-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2021_12_23-2022_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2021_12_23-2022_01_01-125.html"
 text: pdf
 ---
 
@@ -51,7 +50,7 @@ A. Gliederung
 
 <sup>2</sup> Die Ämter sind gemäss Anhang 1 gegliedert.
 
-[^h1AbschnittOrgani-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
+[^h1AbschnittOrgani-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024.
 
 #### § 2
 
@@ -71,7 +70,7 @@ A. Gliederung
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Dem Amt für Gesundheit sind folgende Kommissionen administrativ angegliedert:[^2-1] a. Kommission HIV und andere übertragbare Krankheiten,
 
@@ -177,7 +176,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Sie oder er erfüllt für das Generalsekretariat die Aufgaben der Amtsleiterinnen und Amtsleiter gemäss §§ 13 und 14, ferner folgende Aufgaben:
 
@@ -267,7 +266,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 - e. Unterstützung und Begleitung der Vorgesetzten und Mitarbeitenden in personellen Fragestellungen,
 
@@ -356,7 +355,7 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 
 **7**
 
-- 1\. 1. 24 - 123 § 13. <sup>1</sup> Die Amtsleiterin oder der Amtsleiter trägt die Verantwortung für die Führung und Steuerung des Amts und die Erfüllung seiner Aufgaben.
+- 1\. 7. 24 - 125 § 13. <sup>1</sup> Die Amtsleiterin oder der Amtsleiter trägt die Verantwortung für die Führung und Steuerung des Amts und die Erfüllung seiner Aufgaben.
 
 **Amtsleiterin oder Amtsleiter**
 
@@ -382,6 +381,24 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 
 - j. Vertretung des Amts gegen aussen unter Beachtung der Vorgaben gemäss §§ 30–32.
 
+**Amtliche Medizinalpersonen und andere Leitungspersonen mit Fachaufsicht**
+
+§ 13 a.[^12-1] <sup>1</sup> Das Amt für Gesundheit beschäftigt folgende amtliche Medizinalpersonen:
+
+- a. Kantonsärztin oder Kantonsarzt,
+
+- b. Kantonszahnärztin oder Kantonszahnarzt,
+
+- c. Kantonspsychiaterin oder Kantonspsychiater.
+
+<sup>2</sup> Die Kantonale Heilmittelkontrolle beschäftigt die Kantonsapothekerin oder den Kantonsapotheker.
+
+<sup>3</sup> Das Kantonale Labor beschäftigt die Kantonschemikerin oder den Kantonschemiker.
+
+<sup>4</sup> Das Veterinäramt beschäftigt die Kantonstierärztin oder den Kantonstierarzt.
+
+[^12-1]: Eingefügt durch Vfg. vom 4. April 2024 (OS 79, 165; ABl 2024-04-12). In Kraft seit 1. Juni 2024.
+
 #### § 14
 
 **Organisationsreglement**
@@ -390,9 +407,7 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 
 - a. Gliederung und Organisation,
 
-- b. Unterstellungsverhältnisse,
-
-- c. Aufgaben der Organisationseinheiten des Amts und der Direktunterstellten,
+- b. Unterstellungsverhältnisse, c.[^14-1] Aufgaben der Organisationseinheiten des Amts, der Direktunterstellten sowie der amtlichen Medizinalpersonen und anderer Leitungspersonen nach § 13 a,
 
 - d. Aufgaben, Entscheidbefugnisse und Ausgabenkompetenzen der Organisationseinheiten,
 
@@ -401,6 +416,8 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 <sup>2</sup> Die Ausgabenkompetenzen der einzelnen Mitarbeitenden sind der Abteilung Finanzen & Digital Management zu melden.
 
 <sup>3</sup> Die Amtsleiterin oder der Amtsleiter bringt der Direktionsvorsteherin oder dem Direktionsvorsteher das Organisationsreglement zur Kenntnis.
+
+[^14-1]: Fassung gemäss Vfg. vom 4. April 2024 (OS 79, 165; ABl 2024-04-12). In Kraft seit 1. Juni 2024.
 
 ### 2. Abschnitt: Kompetenzen
 
@@ -432,13 +449,13 @@ Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende A
 
 <sup>2</sup> Das Generalsekretariat verkehrt namens der Direktion mit den anderen Direktionen, soweit es um die Einladung zu Mitberichten, besonderen Stellungnahmen und Antragsbereinigungen gemäss §§ 39 und 40 VOG RR geht. Bei Inhalten von erheblicher politischer Bedeutung erfolgt der Verkehr über die Direktionsvorsteherin oder den Direktionsvorsteher.
 
-#### § 17
+**9**
 
-**c. Ämter**
-
-Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhang 2 in eigenem Namen. § 29 betreffend Information der oder des Vorgesetzten bei besonderen Angelegenheiten bleibt vorbehalten.
+- 1\. 7. 24 - 125 § 17. Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhang 2 in eigenem Namen. § 29 betreffend Information der oder des Vorgesetzten bei besonderen Angelegenheiten bleibt vorbehalten.
 
 #### § 18
+
+**c. Ämter**
 
 **Ausgaben a. Ausgabenkompetenzen**
 
@@ -450,10 +467,6 @@ Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhan
 
 - b. neue oder gebundene wiederkehrende Ausgaben bis jährlich Fr. 50 000,
 
-**9**
-
-- 1\. 1. 24 - 123
-
 - c. gebundene Ausgaben in unbegrenzter Höhe, sofern sie zulasten eines der in Anhang 1 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^18-1] aufgeführten Konten des kantonalen Kontenplans zu verbuchen sind,
 
 - d. gebundene Ausgaben in unbegrenzter Höhe, sofern sie aufgrund einer der in Anhang 2 FCV aufgeführten Bestimmungen bewilligt werden.
@@ -464,7 +477,7 @@ Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhan
 
 - b. Abschluss von Vergleichen.
 
-[^18-1]: LS 611.2.
+[^18-1]: LS 611.2. 1. 7. 24 - 125 15
 
 #### § 19
 
@@ -524,6 +537,10 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher legt im Rahmen des Person
 
 § 24.[^hAFührungsgefässe-1] <sup>1</sup> Die Geschäftsleitung setzt sich aus der Direktionsvorsteherin oder dem Direktionsvorsteher, der Generalsekretärin oder dem Generalsekretär, den Amtsleiterinnen und Amtsleitern, der Leiterin oder des Leiters der Abteilung Kommunikation sowie weiteren Abteilungsleiterinnen und Abteilungsleitern des Generalsekretariats zusammen.
 
+**11**
+
+- 1\. 7. 24 - 125
+
 <sup>2</sup> Die Geschäftsleitung erfüllt folgende Aufgaben:[^hAFührungsgefässe-1] a. Unterstützung und Beratung der Direktionsvorsteherin oder des Direktionsvorstehers bei der Führung und Aufgabenerfüllung der Direktion,
 
 - b. Erarbeitung strategischer Vorgaben für die Direktion, insbesondere Legislaturziele,
@@ -533,10 +550,6 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher legt im Rahmen des Person
 - d. Informationsaustausch zu Geschäften, die für die anderen Ämter, die Direktion oder den Kanton von Bedeutung sind,
 
 - e. Berichterstattung über wichtige Projekte und Entwicklungen.
-
-**11**
-
-- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Sitzungen der Geschäftsleitung finden in der Regel monatlich statt.
 
@@ -602,11 +615,13 @@ Die Generalsekretärin oder der Generalsekretär und die Amtsleiterinnen und Amt
 
 - c. Projekte mit erheblichem finanziellem oder personellem Aufwand oder mit entsprechenden Auswirkungen.
 
-#### § 29
+**13**
+
+- 1\. 7. 24 - 125 § 29. <sup>1</sup> Alle Mitarbeitenden der Direktion informieren ihre Vorgesetzte oder ihren Vorgesetzten umgehend über ausserordentliche Vorfälle in ihrem Aufgabenbereich, wenn diese
 
 **b. besondere Angelegenheiten**
 
-<sup>1</sup> Alle Mitarbeitenden der Direktion informieren ihre Vorgesetzte oder ihren Vorgesetzten umgehend über ausserordentliche Vorfälle in ihrem Aufgabenbereich, wenn diese a. von politischer Bedeutung oder grosser Tragweite sein können,
+- a. von politischer Bedeutung oder grosser Tragweite sein können,
 
 - b. einen dringenden Handlungs- oder Koordinationsbedarf auslösen können,
 
@@ -615,10 +630,6 @@ Die Generalsekretärin oder der Generalsekretär und die Amtsleiterinnen und Amt
 - d. private Angelegenheit betreffen, die sich wesentlich auf die Aufgabenerfüllung auswirken können.
 
 <sup>2</sup> Sie nehmen vorgängig mit ihren Vorgesetzten Rücksprache, wenn in ihrem Aufgabenbereich Entscheidungen von politischer Bedeutung oder grosser Tragweite anstehen.
-
-**13**
-
-- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Generalsekretärin oder der Generalsekretär und die Amtsleiterinnen und Amtsleiter nehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher Rücksprache:
 
@@ -710,7 +721,7 @@ Das Amt für Gesundheit (AFG) ist wie folgt gegliedert:
 
 - 7\. Amtsstab sowie weitere Fach- und Stabsstellen
 
-[^hAAmtfürGesundhei-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
+[^hAAmtfürGesundhei-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024.
 
 ### B.
 
@@ -744,6 +755,10 @@ Das Kantonale Labor (KLZH) ist wie folgt gegliedert:
 
 - 6\. Bereich Stab
 
+**17**
+
+- 1\. 7. 24 - 125
+
 ### E. Veterinäramt
 
 Das Veterinäramt (VETA) ist wie folgt gegliedert:
@@ -756,17 +771,11 @@ Das Veterinäramt (VETA) ist wie folgt gegliedert:
 
 - 4\. Abteilung Amtsstab (AmtS)
 
-**17**
-
-- 1\. 1. 24 - 123
-
 ### Anhang 2: Zuständigkeitsbereiche der Ämter (§ 12)
 
 ### Amt Zuständigkeitsbereich
 
-- 1\. Amt für Gesundheit a. Versorgungsplanung: Planung und Controlling der stationären und ambulanten Gesundheitsversorgung in der Akutsomatik, Psychiatrie und Rehabilitation (einschliesslich Definition der Leistungsgruppen, Versorgungsanalysen, Leistungscontrolling, Qualitätsentwicklung und -controlling); Versorgungsanalysen sowie Berechnung der Normdefizite und Kennzahlen im Langzeitbereich; Optimierung Rettungswesen; Prüfung von Subventionsanträgen gemäss § 11 SPFG; Durchführung von Kodier-
-
-revisionen
+- 1\. Amt für Gesundheit a.[^hAmtZuständigkeitsbe-1] Versorgungsplanung: Planung und Controlling der stationären und ambulanten Gesundheitsversorgung in der Akutsomatik, Psychiatrie und Rehabilitation (einschliesslich Definition der Leistungsgruppen, Versorgungsanalysen, Leistungscontrolling, Qualitätsentwicklung und -controlling); Versorgungsanalysen sowie Berechnung der Normdefizite und Kennzahlen im Langzeitbereich; Optimierung Rettungswesen; Prüfung von Subventionsanträgen gemäss § 11 SPFG; Durchführung von Kodierrevisionen; kantonspsychiatrische Tätigkeit
 
 - b. Kantonsärztlicher Dienst: übertragbare Krankheiten einschliesslich Impfwesen und Epidemien; Gesundheitsversorgung in besonderen und ausserordentlichen Lagen und im Bereich Bevölkerungsschutz; Prävention und Gesundheitsförderung; Mitwirkung bei Aufsicht über Ärztinnen und Ärzte; Spezialbewilligungen insbesondere in den Bereichen Fortpflanzungsmedizin, Betäubungsmittel und Schwangerschaftsabbruch
 
@@ -784,11 +793,16 @@ heitsfachpersonen
 
 des Amtschefs
 
-[^hAmtZuständigkeitsbe-1]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
+**19**
+
+- 1\. 7. 24 - 125
+
+[^hAmtZuständigkeitsbe-1]: Fassung gemäss Vfg. vom 4. April 2024 (OS 79, 165; ABl 2024-04-12). In Kraft seit 1. Juni 2024.
+[^hAmtZuständigkeitsbe-2]: Aufgehoben durch Vfg. vom 25. August 2023 (OS 78, 379; ABl 2023-09-15). In Kraft seit 1. Januar 2024.
 
 ### Amt Zuständigkeitsbereich 2.
 
-[^hAmtZuständigkeitsbe-1]
+[^hAmtZuständigkeitsbe-2]
 
 - 3\. Kantonale Heilmittel- a. Vollzug der Heilmittelgesetzgebung: Bewilligungserteikontrolle erteilung für Herstellung, Abgabe und Versandhandel von Arzneimitteln sowie für Lagerung von Blut und Blutprodukten; Kontrolle der Arzneimittelherstellung, des Arzneimittelgrosshandels und der Heilmittelabgabe; Marktüberwachung von Heilmitteln
 
@@ -823,7 +837,3 @@ verfahren
 - e. Heilmittel und Medizinalberufe, soweit sie Tiere und Tätigkeiten mit Tieren betreffen
 
 - f. Findeltiermeldestelle
-
-**19**
-
-- 1\. 1. 24 - 123
