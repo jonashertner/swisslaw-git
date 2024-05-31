@@ -4,13 +4,13 @@ number: IX D/633/5
 title: Verordnung über die Viehsteuer
 short: "Viehsteuerverordnung, ViehStV"
 language: de
-version: 2023-01-01
-valid_until: 2024-05-31
-version_adopted: 2023-01-24
+version: 2024-06-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-14
 adopted: 2014-04-22
 in_force: 2014-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2408/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2408/pdf_file"
 
 (Viehsteuerverordnung, ViehStV)
 
-Vom 22.04.2014 (Stand 01.01.2023)
+Vom 22.04.2014 (Stand 01.06.2024)
 
 Der Regierungsrat,
 
@@ -46,11 +46,17 @@ verordnet:
 
 <sup>2</sup> Je Bienenvolk beträgt die Steuer 1.00 Franken.
 
+<sup>3</sup> Für Schafe wird während der Dauer des nationalen Programms zur Bekämpfung der Moderhinke gemäss Artikel 229 ff. Tierseuchenverordnung[^1-1] in Ergänzung zur Abgabe gemäss Absatz 1 Buchstabe e eine Abgabe von 1.00 Franken pro Tier erhoben.
+
+[^1-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
+
 #### Art. 2
 
 **Einzug**
 
 <sup>1</sup> Die Viehsteuern werden dem Tierhalter oder der Tierhalterin gleichzeitig mit den Entsorgungsbeiträgen gemäss Artikel 13 Absatz 3 der Veterinärverordnung[^2-1] vom kantonstierärztlichen Dienst in Rechnung gestellt. Für die Berechnung gelten als Stichtage die Viehzählung gemäss landwirtschaftlicher Betriebsdatenerhebung und für ausserkantonale Alptiere der Tag der Alpfahrt.
+
+<sup>2</sup> Viehsteuern gemäss Artikel 1 und Entsorgungsbeiträge gemäss Absatz 1, die sich zusammen auf weniger als 20 Franken belaufen, werden nicht bezogen.
 
 [^2-1]: GS [IX D/633/2](https://gesetze.gl.ch/data/IX-D.633.2/de)
 
