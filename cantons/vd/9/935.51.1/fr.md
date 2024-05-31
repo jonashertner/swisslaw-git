@@ -4,7 +4,7 @@ number: "935.51.1"
 title: RÈGLEMENT du 07.07.2021 sur les jeux de petite envergure (RJPE)
 short: RJPE
 language: fr
-version: 2021-01-01
+version: 2024-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.51.1?id=670332c7-c866-4b53-b51a-d41498f4309e"
 ---
 
@@ -73,6 +73,10 @@ arrête
 
 - a. les petites loteries qui n'ont pas lieu à l'occasion d'une réunion récréative ;
 - b. les petits tournois de poker.
+
+<sup>5</sup> La valeur unitaire maximale d'un lot en nature, délivré sous la forme d'un bon d'achat, est fixée à 500 francs.
+
+<sup>6</sup> Un quart au moins de l'ensemble de la valeur des lots en nature ne doit pas consister en la remise de bons d'achat.
 
 [^1-2]: Modif. 1 du 05.06.2024: Introduction Al. 5-6; entrée en vigueur au 01.06.2024
 [^2-1]: Loi fédérale du 29.09.2017 sur les jeux d'argent (RS 935.51)
