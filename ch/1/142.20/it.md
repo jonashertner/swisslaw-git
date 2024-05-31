@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2023-10-15
+version: 2024-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 15 ottobre 2023)
+del 16 dicembre 2005 (Stato 1° giugno 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -280,11 +280,11 @@ Sono considerati lavoratori indigeni:
 - d.[^21-1] le persone ammesse provvisoriamente;
 - e.[^21-2] le persone alle quali è stata concessa protezione provvisoria e che sono titolari di un permesso per l’esercizio di un’attività lucrativa.
 
-<sup>3</sup> In deroga al capoverso 1, lo straniero con diploma universitario svizzero può essere ammesso in Svizzera se la sua attività lucrativa riveste un elevato interesse scientifico o economico. È ammesso provvisoriamente per un periodo di sei mesi a partire dalla conclusione della sua formazione o della sua formazione continua in Svizzera affinché possa trovare una siffatta attività lucrativa.[^21-3] [^21-4]
+<sup>3</sup> In deroga al capoverso 1, lo straniero con diploma universitario svizzero può essere ammesso in Svizzera se la sua attività lucrativa riveste un elevato interesse scientifico o economico. È ammesso per un periodo di sei mesi a partire dalla conclusione della sua formazione o della sua formazione continua in Svizzera affinché possa trovare una siffatta attività lucrativa.[^21-3] [^21-4]
 
 [^21-1]: Introdotta dal n. I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione), in vigore dal 1° lug. 2018 ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^21-2]: Introdotta dal n. I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione), in vigore dal 1° lug. 2018 ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^21-3]: Nuovo testo del per. giusta l’all. n. 1 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^21-3]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^21-4]: Introdotto dal n. I della LF del 18 giu. 2010 (Ammissione agevolata di stranieri con diploma universitario svizzero, in vigore dal 1° gen. 2011 ([RU 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [FF 2010 351](https://fedlex.data.admin.ch/eli/fga/2010/119)[367](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 
 #### Art. 21a
@@ -472,11 +472,11 @@ Lo straniero che soggiorna in Svizzera ai soli fini della ricerca di un impiego 
 
 <sup>2</sup> Agli apolidi che adempiono le fattispecie di cui all’articolo 83 capoverso 7 si applicano le disposizioni concernenti gli stranieri ammessi provvisoriamente secondo l’articolo 83 capoverso 8.
 
-<sup>3</sup> Gli apolidi ai sensi dei capoversi 1 e 2 e gli apolidi contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^31-1], dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^31-2] o, con decisione passata in giudicato, un’espulsione ai sensi dell’articolo 68 della presente legge, sono autorizzati a esercitare un’attività lucrativa in tutta la Svizzera.[^31-3] L’articolo 61 LAsi[^31-4] si applica per analogia.[^31-5]
+<sup>3</sup> Gli apolidi ai sensi dei capoversi 1 e 2 e gli apolidi contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^31-1] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^31-2] o, con decisione passata in giudicato, un’espulsione ai sensi dell’articolo 68 della presente legge, possono esercitare un’attività lucrativa in tutta la Svizzera.[^31-3] L’articolo 61 LAsi[^31-4] si applica per analogia.[^31-5]
 
 [^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: Nuovo testo giusta il n. I 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-3]: Nuovo testo giusta il n. III della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^31-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^31-5]: Nuovo testo giusta il n. I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -1603,9 +1603,10 @@ Lo specialista competente per l’esame medico trasmette, su richiesta, i dati m
 La competente autorità federale o cantonale può fermare persone sprovviste di permesso di soggiorno di breve durata, di permesso di dimora o di permesso di domicilio per:
 
 - a. notificar loro una decisione relativa al loro statuto di soggiorno in Svizzera;
-- b. accertarne l’identità o la cittadinanza, se a tal fine sia necessaria la loro cooperazione.
+- b. accertarne l’identità o la cittadinanza, se a tal fine sia necessaria la loro cooperazione;
+- c.[^73-1] assicurarne la consegna alle autorità competenti di uno Stato limitrofo in virtù di un accordo di riammissione.
 
-<sup>2</sup> Il fermo non può protrarsi oltre la durata della cooperazione, dell’interrogatorio o dell’eventuale trasporto necessari e in ogni caso non oltre i tre giorni.
+<sup>2</sup> Il fermo può protrarsi al massimo per la durata della cooperazione, dell’interrogatorio o dell’eventuale trasporto necessari oppure fino alla consegna alle autorità competenti di uno Stato limitrofo; il fermo non può in ogni caso protrarsi oltre i tre giorni.[^73-2]
 
 <sup>3</sup>
 
@@ -1619,6 +1620,9 @@ La persona fermata deve:
 <sup>5</sup> Su richiesta, l’autorità giudiziaria competente deve successivamente esaminare la legittimità del fermo.
 
 <sup>6</sup> La durata del fermo non viene computata nella durata di un’eventuale carcerazione in vista di rinvio coatto, di un’eventuale carcerazione preliminare o di un’eventuale carcerazione cautelativa.
+
+[^73-1]: Introdotto dal n. I della LF del 16 dic. 2022 (Aiuto finanziario ai Cantoni che gestiscono centri di partenza alla frontiera svizzera), in vigore dal 1° giu. 2024 ([RU 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2022 (Aiuto finanziario ai Cantoni che gestiscono centri di partenza alla frontiera svizzera), in vigore dal 1° giu. 2024 ([RU 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -1943,9 +1947,18 @@ La Confederazione partecipa con una somma forfettaria giornaliera alle spese d�
 - c. stranieri la cui incarcerazione è stata ordinata in relazione con una decisione d’allontanamento della SEM;
 - d. rifugiati espulsi secondo l’articolo 65 LAsi[^82-3].
 
+<sup>3</sup>
+
+La Confederazione può, per un periodo determinato, partecipare con una somma forfettaria giornaliera alle spese d’esercizio per il fermo di breve durata di persone secondo l’articolo 73 capoverso 1 lettera c. Una partecipazione finanziaria presuppone che:
+
+- a. la persona interessata sia fermata in un centro cantonale di partenza situato nell’area di confine;
+- b. nell’area di confine in questione si osservi un numero straordinariamente elevato di passaggi illegali del confine e di controlli delle persone; e
+- c. il centro cantonale di partenza funga da alloggio a breve termine di stranieri fermati nell’area di confine in questione al momento del passaggio illegale del confine e allontanati senza formalità conformemente all’articolo 64*c* capoverso 1 lettera a.[^82-4]
+
 [^82-1]: Nuovo testo giusta dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-4]: Introdotto dal n. I della LF del 16 dic. 2022 (Aiuto finanziario ai Cantoni che gestiscono centri di partenza alla frontiera svizzera), in vigore dal 1° giu. 2024 (RU **202****4** 186; FF **20****22** 1312).
 
 ## Capitolo 11: Ammissione provvisoria
 
@@ -2020,56 +2033,43 @@ L’ammissione provvisoria secondo i capoversi 2 e 4 è esclusa se lo straniero 
 
 <sup>2</sup> Per la ripartizione delle persone ammesse provvisoriamente si applica per analogia l’articolo 27 LAsi[^85-1].
 
-<sup>3</sup> Lo straniero ammesso provvisoriamente in Svizzera che intende cambiare Cantone deve farne domanda alla SEM. Dopo aver sentito i Cantoni interessati, quest’ultima decide definitivamente, fatto salvo il capoverso 4.
+<sup>3</sup> e <sup>4</sup> ... [^85-2]
 
-<sup>4</sup> La decisione relativa al cambiamento di Cantone può essere impugnata unicamente per violazione del principio dell’unità familiare.
+<sup>5</sup> Lo straniero ammesso provvisoriamente può scegliere liberamente il luogo di residenza nell’attuale Cantone di soggiorno o nel Cantone attribuitogli. Le autorità cantonali possono assegnare un luogo di residenza o un alloggio nel Cantone allo straniero ammesso provvisoriamente che non è stato riconosciuto quale rifugiato e percepisce l’aiuto sociale.[^85-3]
 
-<sup>5</sup> Lo straniero ammesso provvisoriamente può scegliere liberamente il luogo di residenza nell’attuale Cantone di soggiorno o nel Cantone attribuitogli. Le autorità cantonali possono assegnare un luogo di residenza o un alloggio nel Cantone allo straniero ammesso provvisoriamente che non è stato riconosciuto quale rifugiato e percepisce l’aiuto sociale.[^85-2]
+<sup>6</sup> ... [^85-4]
 
-<sup>6</sup> ... [^85-3]
+<sup>7</sup> ... [^85-5]
 
-<sup>7</sup>
+<sup>7bis</sup> e <sup>7ter</sup> ...[^85-6]
 
-I coniugi e i figli non coniugati d’età inferiore ai 18 anni degli stranieri ammessi provvisoriamente, rifugiati compresi, possono raggiungere queste persone ed essere inclusi nell’ammissione provvisoria il più presto dopo tre anni se:
-
-- a. coabitano con esse;
-- b. è disponibile un’abitazione conforme ai loro bisogni; e
-- c. la famiglia non dipende dall’aiuto sociale;
-- d.[^85-4] sono in grado di comunicare nella lingua nazionale parlata nel luogo di residenza; e
-- e.[^85-5] lo straniero cui si ricongiungono non riceve prestazioni complementari annue ai sensi della LPC[^85-6] né potrebbe riceverne in seguito al ricongiungimento familiare.
-
-<sup>7bis</sup> Ai fini della concessione dell’ammissione provvisoria, in luogo della condizione di cui al capoverso 7 lettera d è sufficiente l’iscrizione a un’offerta di promozione linguistica.[^85-7]
-
-<sup>7ter</sup> La condizione di cui al capoverso 7 lettera d non si applica ai figli non coniugati e minori di 18 anni. È inoltre possibile derogare a detta condizione se sussistono motivi gravi ai sensi dell’articolo 49*a* capoverso 2.[^85-8]
-
-<sup>8</sup> Se nell’ambito della verifica dell’adempimento delle condizioni per il ricongiungimento familiare secondo il capoverso 7 rileva indizi di una causa di nullità conformemente all’articolo 105 numero 5 o 6 CC[^85-9], la SEM ne informa l’autorità competente secondo l’articolo 106 CC. La domanda di ricongiungimento familiare è sospesa fino alla decisione di quest’autorità. Se l’autorità promuove un’azione, la domanda è sospesa sino al passaggio in giudicato della relativa sentenza.[^85-10]
+<sup>8</sup> ...[^85-7]
 
 [^85-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^85-2]: Per. introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-3]: Abrogato dal n. I della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-4]: Introdotta dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-5]: Introdotta dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-6]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85-7]: Introdotto dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-8]: Introdotto dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-9]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^85-10]: Introdotto dal n. I 1 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^85-2]: Abrogati dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-3]: Per. introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^85-4]: Abrogato dal n. I della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-5]: Abrogato dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Introdotti dal n. I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Abrogati dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-7]: Introdotto dal n. I 1 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abrogato dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
 
 **Attività lucrativa**[^85a-1]
 
-<sup>1</sup> Lo straniero ammesso provvisoriamente può esercitare un’attività lucrativa in tutta la Svizzera se sono osservate le condizioni di lavoro e di salario usuali nella località, nella professione e nel settore (art. 22).
+<sup>1</sup> Lo straniero ammesso provvisoriamente può esercitare un’attività lucrativa in tutta la Svizzera. Nel caso di un’attività lucrativa dipendente devono essere osservate le condizioni di lavoro e di salario usuali nella località, nella professione e nel settore (art. 22). Ai rifugiati ammessi provvisoriamente si applica l’articolo 61 LAsi[^85a-2].[^85a-3]
 
 <sup>2</sup>
 
-Il datore di lavoro notifica previamente all’autorità competente per il luogo di lavoro designata dal Cantone l’inizio e la fine dell’attività lucrativa come pure il cambiamento d’impiego. La notifica deve indicare in particolare:
+Il datore di lavoro notifica previamente all’autorità competente per il luogo di lavoro designata dal Cantone l’inizio e la fine dell’attività lucrativa dipendente come pure il cambiamento d’impiego. La notifica indica in particolare:[^85a-4]
 
 - a. l’identità e il salario della persona esercitante l’attività lucrativa;
 - b. l’attività lucrativa esercitata;
 - c. il luogo di lavoro.
 
 <sup>3</sup> Il datore di lavoro deve allegare alla notifica una dichiarazione in cui conferma di conoscere le condizioni di salario e di lavoro usuali nella località, nella professione e nel settore e che si impegna a osservarle.
+
+<sup>3bis</sup> Nel caso di un’attività lucrativa indipendente, la notifica deve essere effettuata dall’interessato. La notifica contiene in particolare i dati di cui al capoverso 2.[^85a-5]
 
 <sup>4</sup> L’autorità di cui al capoverso 2 trasmette senza indugio una copia della notifica agli organi di controllo cui compete la verifica del rispetto delle condizioni di salario e di lavoro.
 
@@ -2078,6 +2078,58 @@ Il datore di lavoro notifica previamente all’autorità competente per il luogo
 <sup>6</sup> Disciplina la procedura di notifica.
 
 [^85a-1]: Introdotto dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-5]: Introdotto dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85b
+
+**Cambiamento di Cantone**[^85b-1]
+
+<sup>1</sup> Lo straniero ammesso provvisoriamente che intende trasferire la propria residenza in un altro Cantone deve chiedere alla SEM l’autorizzazione a cambiare il Cantone. La SEM sente il Cantone interessato.
+
+<sup>2</sup>
+
+Il cambiamento di Cantone è autorizzato:
+
+- a. per tutelare l’unità della famiglia; oppure
+- b. se sussiste una grave minaccia per la salute dello straniero ammesso provvisoriamente o di altre persone.
+
+<sup>3</sup>
+
+Se lo straniero ammesso provvisoriamente esercita nell’altro Cantone un’attività lucrativa di durata indeterminata o vi assolve una formazione professionale di base, il cambiamento di Cantone è inoltre autorizzato se:
+
+- a. l’interessato non percepisce l’aiuto sociale né per sé né per i propri familiari; e
+- b. il rapporto di lavoro sussiste da almeno 12 mesi oppure, considerato il tragitto per recarsi al lavoro o l’orario di lavoro, non è ragionevole esigere la permanenza nel Cantone di residenza.
+
+<sup>4</sup> Il cambiamento di Cantone secondo i capoversi 2 e 3 non è autorizzato in presenza dei motivi di cui all’articolo 83 capoverso 7 lettera a o b.
+
+<sup>5</sup> Il cambiamento di Cantone dei rifugiati ammessi provvisoriamente è retto dall’articolo 37 capoverso 2.
+
+[^85b-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85c
+
+**Ricongiungimento familiare**[^85c-1]
+
+<sup>1</sup>
+
+Il coniuge e i figli non coniugati d’età inferiore ai 18 anni di uno straniero ammesso provvisoriamente possono raggiungere quest’ultimo ed essere inclusi nell’ammissione provvisoria al più presto tre anni dopo la decisione di ammissione provvisoria se:
+
+- a. coabitano con lui;
+- b. vi è a disposizione un’abitazione conforme ai loro bisogni;
+- c. la famiglia non dipende dall’aiuto sociale;
+- d. sono in grado di comunicare nella lingua nazionale parlata nel luogo di residenza o sono iscritti a una corrispondente offerta di promozione linguistica; e
+- e. lo straniero cui si ricongiungono non riceve prestazioni complementari annue ai sensi della LPC[^85c-2] né potrebbe riceverne in seguito al ricongiungimento familiare.
+
+<sup>2</sup> La condizione di cui al capoverso 1 lettera d non si applica ai figli non coniugati e minori di 18 anni. È inoltre possibile derogare a detta condizione se sussistono motivi gravi ai sensi dell’articolo 49*a* capoverso 2.
+
+<sup>3</sup> Se nell’ambito della verifica dell’adempimento delle condizioni per il ricongiungimento familiare rileva indizi di una causa di nullità assoluta del matrimonio secondo l’articolo 105 numero 5 o 6 CC[^85c-3], la SEM ne informa l’autorità competente secondo l’articolo 106 CC. La domanda di ricongiungimento familiare è sospesa fino alla decisione di quest’autorità. Se l’autorità promuove un’azione, la domanda è sospesa sino al passaggio in giudicato della relativa sentenza.
+
+[^85c-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^85c-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 86
 
@@ -3464,12 +3516,12 @@ Si può prescindere dal procedimento penale, dal rinvio a giudizio o dalla puniz
 - c. senza il necessario permesso, trasferisce la sua residenza in un altro Cantone (art. 37);
 - d. disattende le condizioni connesse al permesso (art. 32, 33 e 35);
 - e. viola l’obbligo di cooperare all’acquisizione dei documenti d’identità (art. 90 lett. c);
-- f.[^120-1] viola l’obbligo di notifica di cui all’articolo 85*a* capoverso 2 o non ne osserva le condizioni (art. 85*a* cpv. 2 e 3);
+- f.[^120-1] viola l’obbligo di notifica di cui all’articolo 85*a* capoversi 2 e 3<sup>bis</sup> o non ne osserva le condizioni (art. 85*a* cpv. 2–3<sup>bis</sup>);
 - g.[^120-2] si oppone ai controlli degli organi di controllo di cui all’articolo 85*a* capoverso 4 o li rende impossibili.
 
 <sup>2</sup> Il Consiglio federale può prevedere multe fino a 5000 franchi per infrazioni alle disposizioni d’esecuzione della presente legge.
 
-[^120-1]: Introdotta dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-1]: Introdotta dal n. I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Introdotta dal n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 120a a 120c

@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2023-10-15
+version: 2024-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 15 October 2023)
+of 16 December 2005 (Status as of 1 June 2024)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -281,11 +281,13 @@ Domestic employees include:
 - c. persons with a residence permit authorising them to work;
 - d.[^21-1] temporarily admitted persons;
 - e.[^21-2] persons who have been granted temporary protection and have a permit entitling them to take up employment.
-- [tab] <sup>3</sup> Foreign nationals with a Swiss university degree may be admitted in derogation from paragraph 1 if their work is of high academic or economic interest. They shall be temporarily admitted for a period of six months following completion of their education or training in Switzerland in order to find suitable work.[^21-3]
+
+<sup>3</sup> Foreign nationals with a Swiss university degree may be admitted in derogation from paragraph 1 if their work is of high academic or economic interest. They shall be admitted for a period of six months following completion of their education or training in Switzerland in order to find suitable work.[^21-3] [^21-4]
 
 [^21-1]: Inserted by No I of the FA of 16 Dec. 2016 (Controlling Immigration and Improving Implementation of the Free Movement Agreements), in force since 1 July 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^21-2]: Inserted by No I of the FA of 16 Dec. 2016 (Controlling Immigration and Improving Implementation of the Free Movement Agreements), in force since 1 July 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^21-3]: Inserted by No I of the FA of 18 June 2010 (Simplified Admission for Foreign Nationals with University Degrees), in force since 1 Jan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
+[^21-3]: Second sentence amended by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^21-4]: Inserted by No I of the FA of 18 June 2010 (Simplified Admission for Foreign Nationals with University Degrees), in force since 1 Jan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 
 #### Art. 21a
 
@@ -1596,9 +1598,10 @@ The attending medical professional shall on request disclose the medical data re
 The competent authority of the Confederation or the canton may detain persons who do not hold a short stay, residence or settlement permit:
 
 - a. to notify them of a decision in connection with their residence status;
-- b. to determine their identity or nationality, as far as their personal cooperation is required.
+- b. to determine their identity or nationality, as far as their personal cooperation is required;
+- c.[^73-1] in order to ensure their handover to the competent authorities in a neighbouring State based on a readmission agreement.
 
-<sup>2</sup> The person may be detained only for the duration of the required cooperation or questioning and the required transport if necessary, and for a maximum of three days.
+<sup>2</sup> Persons may be detained only for the duration of the required cooperation or questioning and the required transport if necessary, or until their handover to the competent authorities in a neighbouring State, and for a maximum of three days.[^73-2]
 
 <sup>3</sup>
 
@@ -1612,6 +1615,9 @@ If a person is detained, they must:
 <sup>5</sup> On request, the competent judicial authority must review the legality of the detention.
 
 <sup>6</sup> The duration of detention shall not be deducted from the duration of any detention pending deportation, in preparation for departure, or coercive detention.
+
+[^73-1]: Inserted by No I of the FA of 16 Dec. 2022 (Financial Support for Cantons with Departure Centres on the Border), in force since 1 June 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Amended by No I of the FA of 16 Dec. 2022 (Financial Support for Cantons with Departure Centres on the Border), in force since 1 June 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -1788,7 +1794,6 @@ The detention order is revoked if:
 
 - a. the person concerned is unable to leave Switzerland independently and in the proper manner, even though they have fulfilled the obligations to cooperate specified by the authorities;
 - b. they leave Switzerland as ordered;
-
 - c. detention pending deportation is ordered;
 - d. a request for release from detention is granted.
 
@@ -1936,9 +1941,18 @@ The Confederation shall contribute to the cantons’ operating costs for detaini
 - c. foreign nationals whose detention has been ordered by SEM in connection with a removal order;
 - d. refugees who are expelled in accordance with Article 65 AsylA[^82-3].
 
+<sup>3</sup>
+
+The Confederation may contribute for a limited period in the form of a daily allowance to the operating costs of the temporary detention of persons in accordance with Article 73 paragraph 1 letter c. A financial contribution requires that:
+
+- a. the person concerned is detained in a cantonal departure centre in the border zone;
+- b. the number of illegal border crossings and checks on persons in the border zone concerned is exceptionally high; and
+- c. the cantonal departure centre is used for the short-term accommodation of foreign nationals who have been detained on entering the border zone concerned illegally and whose removal without formal procedure has been ordered in accordance with Article 64*c* paragraph 1 letter a.[^82-4]
+
 [^82-1]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-4]: Inserted by No I of the FA of 16 Dec. 2022 (Financial Support for Cantons with Departure Centres on the Border), in force since 1 June 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## Chapter 11 Temporary Admission
 
@@ -2013,64 +2027,103 @@ Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the p
 
 <sup>2</sup> For the allocation of temporarily admitted persons, Article 27 AsylA[^85-1] applies *mutatis mutandis*.
 
-<sup>3</sup> Temporarily admitted persons must submit their application to move to another canton to SEM. SEM shall make a final decision subject to the reservation of paragraph 4 on the change of canton after hearing the cantons concerned.
+<sup>3</sup> and <sup>4</sup> …[^85-2]
 
-<sup>4</sup> The decision on the change of canton may only be contested on the ground that it violates the principle of family unity.
+<sup>5</sup> Temporarily admitted persons are free to choose their place of residence within their current canton or the canton to which they are allocated. The cantonal authorities may allocate a place or residence or accommodation to temporarily admitted persons who are not recognised as refugees, and who are in receipt of social assistance.[^85-3]
 
-<sup>5</sup> Temporarily admitted persons are free to choose their place of residence within their current canton or the canton to which they are allocated. The cantonal authorities may allocate a place or residence or accommodation to temporarily admitted persons who are not recognised as refugees, and who are in receipt of social assistance.[^85-2]
+<sup>6</sup> ...[^85-4]
 
-<sup>6</sup> ...[^85-3]
+<sup>7</sup> …[^85-5]
 
-<sup>7</sup>
+<sup>7bis</sup> and <sup>7ter</sup> …[^85-6]
 
-Spouses and unmarried children under 18 years of temporarily admitted persons and temporarily admitted refugees may be reunited with the temporarily admitted persons or refugees at the earliest three years after the order for temporary admission and included in that order if:
-
-- a. they live with the temporarily admitted persons or refugees;
-- b. suitable housing is available;
-- c. the family does not depend on social assistance;
-- d.[^85-4] they can communicate in the national language spoken at the place of residence; and
-- e.[^85-5] the family member they are joining is not claiming annual supplementary benefits under the SBA[^85-6] or would not be entitled to receive such benefits because of family reunification.
-
-<sup>7bis</sup> In order to be granted temporary, it is sufficient to register for a language support programme as an alternative to meeting the requirement set out in under paragraph 7 letter d.[^85-7]
-
-<sup>7ter</sup> In the case of single children under the age of 18, the requirement set out in paragraph 7 letter d does not apply. The requirement of Article 49*a* paragraph 2 may be also waived for good cause.[^85-8]
-
-<sup>8</sup> If, on assessing the reunification of spouses in accordance with Articles 42–45, SEM has reason to believe that there are grounds under Article 105 numbers 5 or 6 CC[^85-9] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.[^85-10]
+<sup>8</sup> …[^85-7]
 
 [^85-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^85-2]: Second sentence inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-3]: Repealed by No I of the FA of 16 Dec. 2016 (Integration), with effect from 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-4]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-5]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-6]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85-7]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-8]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-9]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^85-10]: Inserted by No I 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^85-2]: Repealed by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), with effect from 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-3]: Second sentence inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^85-4]: Repealed by No I of the FA of 16 Dec. 2016 (Integration), with effect from 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-5]: Repealed by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), with effect from 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Inserted by No I of the FA of 16 Dec. 2016 (Integration) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Repealed by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), with effect from 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-7]: Inserted by No I 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in Force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)). Repealed by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), with effect from 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
 
 **Right to work**[^85a-1]
 
-<sup>1</sup> Temporarily admitted persons may work anywhere in Switzerland if the salary and employment conditions customary for the location, profession and sector are satisfied (Art. 22).
+<sup>1</sup> Temporarily admitted persons may work anywhere in Switzerland. In the case of salaried employment, the salary and working conditions customary in the location, profession and sector concerned must be complied with (Art. 22). In the case of temporarily admitted refugees, Article 61 AsylA applies[^85a-2].[^85a-3]
 
 <sup>2</sup>
 
-The employer must report the start or end of employment to the cantonal authority responsible for the place of work in advance. The report must, in particular, contain the following information:
+Advance notice of the start and end of salaried employment and any change of job must be given to the authority designated by a canton as responsible for the place of work. The notice must contain the following information in particular:[^85a-4]
 
 - a. the identity and salary of the employed person;
 - b. the activity carried out;
 - c. the place of work.
 
-<sup>3</sup> The employer must include a declaration in the report, stating that he is aware of the salary and employment conditions customary for the location, profession and sector, and that he is committed to observing them.
+<sup>3</sup> The employer must attach a declaration to the notice, stating that it is aware of the salary and employment conditions customary for the location, profession and sector, and undertaking to comply with such conditions.
+
+<sup>3bis</sup> In the case of self-employed work, notice must be given by the person concerned. The notice must in particular contain the information specified in paragraph 2.[^85a-5]
 
 <sup>4</sup> The authority referred to in paragraph 2 shall immediately send a copy of the report to the supervisory bodies responsible for verifying compliance with the salary and employment conditions.
 
-<sup>5</sup> The Federal Council shall designate the competent supervisory bodies.
+<sup>5</sup> The Federal Council shall designate the supervisory bodies responsible.
 
-<sup>6</sup> It shall regulate the reporting procedure.
+<sup>6</sup> The Federal Council shall regulate the reporting procedure.
 
-[^85a-1]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-1]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in Force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-3]: Amended by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-4]: Amended by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-5]: Inserted by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85b
+
+**Change of canton**[^85b-1]
+
+<sup>1</sup> If temporarily admitted persons wish to move their place of residence to another canton, they must submit a request for a change of canton to SEM. SEM shall consult the canton concerned.
+
+<sup>2</sup>
+
+A change of canton shall be approved:
+
+- a. to protect the unity of the family; or
+- b. if there is a serious risk to the health of the temporarily admitted person or other persons.
+
+<sup>3</sup>
+
+If a temporarily admitted person has permanent employment in another canton or if they are undergoing vocational and educational training there, their move to that canton shall also be approved, provided:
+
+- a. they are not claiming social assistance for themselves or for their family members; and
+- b. the person concerned has been employed for at least twelve months or it is unreasonable to expect them to remain in their canton of residence due to the commute or working hours.
+
+<sup>4</sup> The change of canton in accordance with paragraphs 2 and 3 shall not be approved if any grounds specified in Article 83 paragraph 7 letter a or b apply.
+
+<sup>5</sup> A change of canton by temporarily admitted refugees is governed by Article 37 paragraph 2.
+
+[^85b-1]: Inserted by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85c
+
+**Family reunification**[^85c-1]
+
+<sup>1</sup>
+
+The spouse of a temporarily admitted persons and their unmarried children under 18 years of age may be reunited with the temporarily admitted person at the earliest three years after the order for temporary admission and included in that order provided:
+
+- a. they live with the temporarily admitted person;
+- b. suitable housing is available;
+- c. the family does not depend on social assistance;
+- d. they can communicate in the national language spoken at the place of residence or have registered for a related language support programme; and
+- e. the family member they are joining is not claiming annual supplementary benefits under the SBA[^85c-2] or would not be entitled to receive such benefits because of family reunification.
+
+<sup>2</sup> In the case of single children under the age of 18, the requirement set out in paragraph 7 letter d does not apply. The requirement of Article 49*a* paragraph 2 may be also waived for good cause.
+
+<sup>3</sup> If, on assessing the reunification of spouses in accordance with Articles 42–45, SEM has reason to believe that there are grounds under Article 105 numbers 5 or 6 CC[^85c-3] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.
+
+[^85c-1]: Inserted by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 86
 
@@ -2085,9 +2138,9 @@ The same provisions on social assistance standards apply to the following person
 - a. temporarily admitted refugees;
 - b.[^86-3] refugees subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^86-4] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^86-5], or a legally enforceable expulsion order under Article 68 of this Act;
 - c. stateless persons in accordance with Article 31 paragraphs 1 and 2; and
-- d.[^86-6] stateless persons subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC, or a legally enforceable expulsion order under Article 68 of this Act.
+- d.[^86-6] stateless persons subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC, or a legally enforceable expulsion order under Article 68 of this Act. [^86-7]
 
-<sup>2</sup> In relation to compulsory health insurance for temporarily admitted persons, the corresponding provisions for asylum seekers in accordance with the AsylA and the Federal Act of 18 March 1994[^86-7] on Health Insurance apply.
+<sup>2</sup> In relation to compulsory health insurance for temporarily admitted persons, the corresponding provisions for asylum seekers in accordance with the AsylA and the Federal Act of 18 March 1994[^86-8] on Health Insurance apply.
 
 [^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^86-2]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -2095,7 +2148,8 @@ The same provisions on social assistance standards apply to the following person
 [^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^86-6]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^86-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-7]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^86-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 87
 
@@ -3456,12 +3510,12 @@ Any person who wilfully or through negligence:
 - c. moves their place of residence to another canton without the required permit (Art. 37);
 - d. fails to comply with the conditions of the permit (Art. 32, 33 and 35);
 - e. fails to comply with the obligation to cooperate in obtaining identity documents (Art. 90 let. c);
-- f.[^120-1] fails to comply with the obligation to report under Article 85*a* paragraph 2 or fails to comply with the conditions relating to the report (Art. 85*a* paras 2 and 3);
-- g.[^120-2] refuses to allow or otherwise prevents verification by a supervisory body under Article 85*a* para. 4
+- f.[^120-1] fails to comply with the obligation to give notice under Article 85*a* paragraphs 2 and 3<sup>bis</sup>or fails to comply with the conditions relating to giving notice (Art. 85*a* paras 2 and 3<sup>bis</sup>);
+- g.[^120-2] refuses to allow or otherwise prevents verification by a supervisory body under Article 85*a* para. 4,
 
 <sup>2</sup> In the case of offences against the implementing provisions of this Act, the Federal Council may provide for fines not exceeding 5000 francs.
 
-[^120-1]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-1]: Inserted by No I of the FA of 16 Dec. 2016 (Integration) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Amended by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 120a–120c

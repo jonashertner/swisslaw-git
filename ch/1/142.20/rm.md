@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2023-10-15
+version: 2024-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dals 15 d’october 2023)
+dals 16 da december 2005 (versiun dal 1. da zercladur 2024)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -282,11 +282,12 @@ Sco sco lavurants indigens valan:
 - d.[^21-1] persunas admessas provisoricamain;
 - e.[^21-2] persunas che han survegnì protecziun provisorica e che possedan ina permissiun per pratitgar in’activitad da gudogn.
 
-<sup>3</sup> Persunas estras che han in diplom svizzer da scola auta pon – en divergenza da l’alinea 1 – vegnir admessas, sche lur activitad da gudogn è d’in grond interess per la scienza u per l’economia. Suenter ch’ellas han terminà lur scolaziun u lur furmaziun supplementara, vegnan ellas admessas provisoricamain en Svizra per ina perioda da 6 mais per chattar in’activitad da gudogn correspundenta.[^21-3]
+<sup>3</sup> Persunas estras che han in diplom svizzer da scola auta pon – en divergenza da l’alinea 1 – vegnir admessas, sche lur activitad da gudogn è d’in grond interess per la scienza u per l’economia. Suenter ch’ellas han terminà lur scolaziun u lur furmaziun supplementara, vegnan ellas admessas en Svizra per ina perioda da 6 mais per chattar in’activitad da gudogn correspundenta.[^21-3] [^21-4]
 
 [^21-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^21-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^21-3]: Integrà tras la cifra I da la LF dals 18 da zer. 2010 (admissiun facilitada da persunas estras che han in diplom svizzer da scola auta), en vigur dapi il 1. da schan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
+[^21-3]: Versiun da la segunda frasa tenor la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^21-4]: Integrà tras la cifra I da la LF dals 18 da zer. 2010 (admissiun facilitada da persunas estras che han in diplom svizzer da scola auta), en vigur dapi il 1. da schan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 
 #### Art. 21a
 
@@ -474,7 +475,7 @@ Da las premissas d’admissiun (art. 18–29) po vegnir divergià per:
 
 [^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: Versiun tenor la cifra I 2 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^31-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^31-5]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -1599,9 +1600,10 @@ La persuna medicinala spezialisada che fa il tractament transmetta sin dumonda l
 L’autoritad federala u chantunala cumpetenta po tegnair en fermanza persunas che n’han nagina permissiun da dimora curta, nagina permissiun da dimora u nagina permissiun da domicil:
 
 - a. per avrir ina disposiziun en connex cun lur status da dimora;
-- b. per constatar lur identitad u lur naziunalitad, uschenavant che lur cooperaziun persunala è necessaria per far quai.
+- b. per constatar lur identitad u lur naziunalitad, uschenavant che lur cooperaziun persunala è necessaria per far quai;
+- c.[^73-1] per garantir ch’ellas vegnian surdadas a las autoritads cumpetentas d’in stadi vischin sin basa d’ina cunvegna da readmissiun.
 
-<sup>2</sup> La persuna dastga vegnir tegnida en fermanza mo per la durada da la cooperaziun u da l’interrogaziun necessaria sco er per il transport ch’è eventualmain necessari, maximalmain dentant 3 dis.
+<sup>2</sup> La persuna dastga vegnir tegnida en fermanza mo per la durada da la cooperaziun u da l’interrogaziun necessaria sco er per il transport ch’è eventualmain necessari, u fin ch’ella vegn surdada a las autoritads cumpetentas d’in stadi vischin, maximalmain dentant 3 dis.[^73-2]
 
 <sup>3</sup>
 
@@ -1615,6 +1617,9 @@ Sch’ina persuna vegn tegnida en fermanza, sto ella:
 <sup>5</sup> Sin dumonda sto l’autoritad giudiziala cumpetenta controllar posteriuramain la legitimitad da la fermanza.
 
 <sup>6</sup> La durada da la fermanza na vegn betg messa a quint a la durada d’in eventual arrest d’expulsiun, d’in eventual arrest preparatoric u d’in eventual arrest pervia d’insubordinaziun.
+
+[^73-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -1939,9 +1944,18 @@ La Confederaziun sa participescha cun ina pauschala per di vi dals custs da gest
 - c. persunas estras, da las qualas l’arrestaziun è vegnida ordinada en connex cun ina disposiziun da spedida dal SEM;
 - d. fugitivs che vegnan expulsads tenor l’artitgel 65 LAsil[^82-3].
 
+<sup>3</sup>
+
+Durant in temp limità po la Confederaziun sa participar cun ina pauschala per di vi dals custs da gestiun per tegnair curtamain en fermanza persunas tenor l’artitgel 73 alinea 1 litera c. Ina participaziun finanziala premetta che:
+
+- a. la persuna pertutgada vegnia tegnida en fermanza en in center chantunal da partenza en il territori da cunfin;
+- b. il dumber da passagis illegals dal cunfin sco er da controllas da persunas saja extraordinariamain aut en il territori da cunfin respectiv; e
+- c. il center chantunal da partenza saja previs per collocar curtamain persunas estras ch’èn vegnidas tschiffadas en il territori da cunfin respectiv a chaschun d’in passagi illegal e vegnidas spedidas senza formalitads tenor l’artitgel 64*c* alinea 1 litera a.[^82-4]
+
 [^82-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-4]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## Chapitel 11 Admissiun provisorica
 
@@ -2016,56 +2030,43 @@ L’admissiun provisorica tenor ils alineas 2 e 4 na vegn betg disponida, sche l
 
 <sup>2</sup> Per reparter las persunas ch’èn admessas provisoricamain è applitgabel l’artitgel 27 LAsil[^85-1] tenor il senn.
 
-<sup>3</sup> Las persunas ch’èn admessas provisoricamain ston inoltrar la dumonda da midar il chantun tar il SEM. Cun resalva da l’alinea 4 decida quel definitivamain davart la midada dal chantun suenter avair tadlà ils chantuns pertutgads.
+<sup>3</sup> e <sup>4</sup> …[^85-2]
 
-<sup>4</sup> La decisiun davart la midada dal chantun po vegnir contestada mo cun la motivaziun ch’ella violeschia il princip da l’unitad da la famiglia.
+<sup>5</sup> Las persunas ch’èn admessas provisoricamain pon tscherner libramain lur lieu da domicil en il territori dal chantun d’enfin ussa u dal chantun assegnà. Las autoritads chantunalas pon attribuir in lieu da domicil u in alloschi entaifer il chantun a las persunas admessas provisoricamain che n’èn betg vegnidas renconuschidas sco fugitivs e che retiran agid social.[^85-3]
 
-<sup>5</sup> Las persunas ch’èn admessas provisoricamain pon tscherner libramain lur lieu da domicil en il territori dal chantun d’enfin ussa u dal chantun assegnà. Las autoritads chantunalas pon attribuir in lieu da domicil u in alloschi entaifer il chantun a las persunas admessas provisoricamain che n’èn betg vegnidas renconuschidas sco fugitivs e che retiran agid social.[^85-2]
+<sup>6</sup> ...[^85-4]
 
-<sup>6</sup> ...[^85-3]
+<sup>7</sup> …[^85-5]
 
-<sup>7</sup>
+<sup>7bis</sup> e <sup>7ter</sup> …[^85-6]
 
-Per conjugals e per uffants nubils sut 18 onns da persunas ch’èn admessas provisoricamain e da fugitivs ch’èn admess provisoricamain dastga la reuniun avair lieu il pli baud 3 onns suenter l’ordinaziun da l’admissiun provisorica e vegnir inclus en quella, sche:
-
-- a. els abiteschan ensemen cun talas persunas;
-- b. igl è avant maun in’abitaziun che correspunda als basegns; e
-- c. la famiglia n’è betg dependenta da l’agid social;
-- d.[^85-4] els san communitgar en la lingua naziunala discurrida al lieu da domicil; e
-- e.[^85-5] la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la LPS[^85-6] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
-
-<sup>7bis</sup> Per la concessiun da l’admissiun provisorica basta – empè da la premissa tenor l’alinea 7 litera d – l’annunzia ad ina purschida da promoziun linguistica.[^85-7]
-
-<sup>7ter</sup> La premissa tenor l’alinea 7 litera d na vegn betg applitgada per uffants nubils sut 18 onns. Da questa premissa poi ultra da quai vegnir divergià, sch’i èn avant maun motivs impurtants tenor l’artitgel 49*a* alinea 2.[^85-8]
-
-<sup>8</sup> Sche la controlla da la reuniun tenor l’alinea 7 porta indizis ch’igl existia in motiv da nunvalaivladad tenor l’artitgel 105 cifra 5 u 6 CCS[^85-9], annunzia il SEM quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS. La dumonda per la reuniun vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida fin ch’ina sentenzia cun vigur legala è avant maun.[^85-10]
+<sup>8</sup> …[^85-7]
 
 [^85-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^85-2]: Integrà la segunda frasa tras la cifra 1 da l’agiunta da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-3]: Abolì tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), cun effect dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-4]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-5]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-6]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85-7]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-8]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-9]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^85-10]: Integrà tras la cifra I 1 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^85-2]: Abolì tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), cun effect dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-3]: Integrà la segunda frasa tras la cifra 1 da l’agiunta da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^85-4]: Abolì tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), cun effect dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-5]: Abolì tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), cun effect dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Abolì tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), cun effect dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-7]: Integrà tras la cifra I 1 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abolì tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), cun effect dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
 
 **Activitad da gudogn**[^85a-1]
 
-<sup>1</sup> Persunas admessas provisoricamain pon pratitgar en l’entira Svizra in’activitad da gudogn, sche las cundiziuns da salari e da lavur usitadas al lieu, en la professiun ed en la branscha vegnan observadas (art. 22).
+<sup>1</sup> Persunas admessas provisoricamain dastgan exercitar in’activitad da gudogn en l’entira Svizra. En cas d’ina activitad da gudogn dependenta ston vegnir observadas las cundiziuns da salari e da lavur usitadas al lieu, en la professiun ed en la branscha (art. 22). Per fugitivs admess provisoricamain vala l’artitgel 61 LAsil[^85a-2].[^85a-3]
 
 <sup>2</sup>
 
-Il patrun ston annunziar ordavant a l’autoritad cumpetenta per il lieu da lavur, designada dal chantun, il cumenzament e la finiziun da l’activitad da gudogn sco er ina midada da plazza. L’annunzia sto cuntegnair cunzunt las suandantas indicaziuns:
+Il patrun sto annunziar ordavant a l’autoritad cumpetenta per il lieu da lavur, designada dal chantun, il cumenzament e la finiziun da l’activitad da gudogn dependenta sco er ina midada da plazza. L’annunzia sto cuntegnair en spezial las suandantas indicaziuns:[^85a-4]
 
 - a. l’identitad ed il salari da la persuna cun activitad da gudogn;
 - b. l’activitad exequida;
 - c. il lieu da lavur.
 
 <sup>3</sup> Il patrun sto agiuntar a l’annunzia ina decleraziun ch’el enconuschia las cundiziuns da salari e da lavur usitadas al lieu, en la professiun ed en la branscha e ch’el s’obligheschia d’observar quellas.
+
+<sup>3bis</sup> En cas d’ina activitad da gudogn independenta sto la persuna pertutgada annunziar quai. L’annunzia sto cuntegnair en spezial las indicaziuns tenor l’alinea 2.[^85a-5]
 
 <sup>4</sup> Als organs da controlla ch’èn responsabels per examinar che las cundiziuns da salari e da lavur vegnian observadas, transmetta l’autoritad tenor l’alinea 2 immediatamain ina copia da l’annunzia.
 
@@ -2074,6 +2075,58 @@ Il patrun ston annunziar ordavant a l’autoritad cumpetenta per il lieu da lavu
 <sup>6</sup> El regla la procedura d’annunzia.
 
 [^85a-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-5]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85b
+
+**Midada da chantun**[^85b-1]
+
+<sup>1</sup> Sche persunas admessas provisoricamain vulan transferir lur lieu da domicil en in auter chantun, ston ellas inoltrar al SEM ina dumonda da midar il chantun. Il SEM taidla il chantun pertutgà.
+
+<sup>2</sup>
+
+La midada dal chantun vegn permessa:
+
+- a. per proteger l’unitad da la famiglia; u
+- b. en cas che la sanadad da la persuna admessa provisoricamain u d’autras persunas è periclitada grevamain.
+
+<sup>3</sup>
+
+Sch’ina persuna admessa provisoricamain exercitescha in’activitad da gudogn da durada illimitada u absolva ina furmaziun fundamentala professiunala en in auter chantun, vegn la midada dal chantun plinavant permessa:
+
+- a. sch’ella na retira agid social ni per sasezza ni per ses confamigliars; e
+- b. sche la relaziun da lavur exista dapi almain 12 mais u sch’i n’è – pervia dal viadi a la lavur u pervia da las uras da lavur – betg raschunaivel da pretender ch’ella restia en il chantun da domicil.
+
+<sup>4</sup> La midada dal chantun tenor ils alineas 2 e 3 na vegn betg permessa, sch’i èn avant maun motivs tenor l’artitgel 83 alinea 7 litera a u b.
+
+<sup>5</sup> Per fugitivs admess provisoricamain sa drizza la midada dal chantun tenor l’artitgel 37 alinea 2.
+
+[^85b-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85c
+
+**Reuniun da la famiglia**[^85c-1]
+
+<sup>1</sup>
+
+Per conjugals e per uffants nubils sut 18 onns da persunas ch’èn admessas provisoricamain dastga la reuniun avair lieu il pli baud 3 onns suenter l’ordinaziun da l’admissiun provisorica e vegnir inclus en quella, sche:
+
+- a. els abiteschan ensemen cun talas persunas;
+- b. igl è avant maun in’abitaziun che correspunda als basegns;
+- c. la famiglia n’è betg dependenta d’agid social;
+- d. els san communitgar en la lingua naziunala discurrida al lieu da domicil u èn annunziads per ina purschida da promoziun linguistica correspundenta; e
+- e. la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la LPS[^85c-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
+
+<sup>2</sup> La premissa tenor l’alinea 1 litera d na vegn betg applitgada per uffants nubils sut 18 onns. Da questa premissa poi ultra da quai vegnir divergià, sch’i èn avant maun motivs impurtants tenor l’artitgel 49*a* alinea 2.
+
+<sup>3</sup> Sche la controlla da la reuniun porta indizis ch’igl existia in motiv da nunvalaivladad tenor l’artitgel 105 cifra 5 u 6 CCS[^85c-3], annunzia il SEM quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS. La dumonda per la reuniun vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida, fin ch’ina sentenzia cun vigur legala è avant maun.
+
+[^85c-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 86
 
@@ -2088,9 +2141,9 @@ Per las suandantas persunas valan – areguard il standard da l’agid social �
 - a. fugitivs admess provisoricamain;
 - b.[^86-3] fugitivs pertutgads d’ina expulsiun legalmain valaivla tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP[^86-4], tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM[^86-5] u tenor l’artitgel 68 da questa lescha;
 - c. persunas senza naziunalitad tenor l’artitgel 31 alineas 1 e 2; e
-- d.[^86-6] persunas senza naziunalitad pertutgadas d’ina expulsiun legalmain valaivla tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP, tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM u tenor l’artitgel 68 da questa lescha.
+- d.[^86-6] persunas senza naziunalitad pertutgadas d’ina expulsiun legalmain valaivla tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP, tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM u tenor l’artitgel 68 da questa lescha.[^86-7]
 
-<sup>2</sup> Areguard l’assicuranza obligatorica da persunas malsaunas per persunas ch’èn admessas provisoricamain èn applitgablas las disposiziuns correspundentas davart ils requirents d’asil tenor la LAsil e tenor la Lescha federala dals 18 da mars 1994[^86-7] davart l’assicuranza da malsauns.
+<sup>2</sup> Areguard l’assicuranza obligatorica da persunas malsaunas per persunas ch’èn admessas provisoricamain èn applitgablas las disposiziuns correspundentas davart ils requirents d’asil tenor la LAsil e tenor la Lescha federala dals 18 da mars 1994[^86-8] davart l’assicuranza da malsauns.
 
 [^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^86-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -2098,7 +2151,8 @@ Per las suandantas persunas valan – areguard il standard da l’agid social �
 [^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^86-6]: Versiun tenor la cifra I 2 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^86-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-7]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^86-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 87
 
@@ -3462,12 +3516,12 @@ Cun ina multa vegn chastià, tgi che – intenziunadamain u per negligientscha:
 - c. transferescha ses lieu da domicil en in auter chantun senza la permissiun necessaria (art. 37);
 - d. n’observa betg cundiziuns ch’èn colliadas cun la permissiun (art. 32, 33 e 35);
 - e. n’ademplescha betg l’obligaziun da cooperar tar la procuraziun dals documents da legitimaziun (art. 90 lit. c);
-- f.[^120-1] violescha l’obligaziun d’annunzia tenor l’artitgel 85*a* alinea 2 u n’observa betg las cundiziuns da l’annunzia (art. 85*a* al. 2 e 3);
+- f.[^120-1] violescha l’obligaziun d’annunzia tenor l’artitgel 85*a* alineas 2 e 3<sup>bis</sup> u n’observa betg las cundiziuns da l’annunzia (art. 85*a* al. 2–3<sup>bis</sup>);
 - g.[^120-2] s’oppona a la controlla tras in organ da controlla tenor l’artitgel 85*a* alinea 4 u impedescha tala.
 
 <sup>2</sup> En cas da cuntravenziuns cunter las disposiziuns executivas da questa lescha po il Cussegl federal prevair multas da fin 5000 francs.
 
-[^120-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 120a–120c

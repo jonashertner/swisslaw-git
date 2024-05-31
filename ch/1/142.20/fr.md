@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2023-10-15
+version: 2024-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 15 octobre 2023)
+du 16 décembre 2005 (État le 1<sup>er</sup> juin 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -283,13 +283,12 @@ Sont considérés comme travailleurs en Suisse:
 - d.[^21-1] les étrangers admis à titre provisoire;
 - e.[^21-2] les personnes auxquelles une protection provisoire a été octroyée et qui sont titulaires d’une autorisation d’exercer une activité lucrative.
 
-<sup>3</sup> En dérogation à l’al. 1, un étranger titulaire d’un diplôme d’une haute école suisse peut être admis si son activité lucrative revêt un intérêt scientifique ou économique prépondérant. Il est admis à titre provisoire[^21-3] pendant six mois à compter de la fin de sa formation ou de sa formation continue en Suisse pour trouver une telle activité.[^21-4] [^21-5]
+<sup>3</sup> En dérogation à l’al. 1, un étranger titulaire d’un diplôme d’une haute école suisse peut être admis si son activité lucrative revêt un intérêt scientifique ou économique prépondérant. Il est admis pendant six mois à compter de la fin de sa formation ou de sa formation continue en Suisse pour trouver une telle activité.[^21-3] [^21-4]
 
 [^21-1]: Introduite par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^21-2]: Introduite par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^21-3]: Nouvelle expression selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)). Il a été tenu compte de cette mod. dans tout le texte.
-[^21-4]: Nouvelle teneur de la 2<sup>e</sup> phrase selon l’annexe ch. 1 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^21-5]: Introduit par le ch. I de la LF du 18 juin 2010 (Faciliter l’admission des étrangers diplômés d’une haute école suisse), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [FF 2010 373](https://fedlex.data.admin.ch/eli/fga/2010/119)[391](https://fedlex.data.admin.ch/eli/fga/2010/121)).
+[^21-3]: Nouvelle teneur de la 2<sup>e</sup> phrase selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^21-4]: Introduit par le ch. I de la LF du 18 juin 2010 (Faciliter l’admission des étrangers diplômés d’une haute école suisse), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [FF 2010 373](https://fedlex.data.admin.ch/eli/fga/2010/119)[391](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 
 #### Art. 21a
 
@@ -476,11 +475,11 @@ Il est possible de déroger aux conditions d’admission (art. 18 à 29) dans le
 
 <sup>2</sup> L’art. 83, al. 8, relatif aux personnes admises à titre provisoire est applicable aux apatrides ayant commis un acte réunissant les éléments constitutifs décrits à l’art. 83, al. 7.
 
-<sup>3</sup> Les apatrides au sens des al. 1 et 2 et les apatrides sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^31-1], 49*a* ou 49*a*<sup>bis</sup> CPM[^31-2] entrée en force ou d’une expulsion au sens de l’art. 68 de la présente loi entrée en force sont autorisés à exercer dans toute la Suisse une activité lucrative.[^31-3] L’art. 61 LAsi[^31-4] est applicable par analogie.[^31-5]
+<sup>3</sup> Les apatrides au sens des al. 1 et 2 ainsi que les apatrides sous le coup d’une expulsion entrée en force au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^31-1] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^31-2] ou de l’art. 68 de la présente loi peuvent exercer dans toute la Suisse une activité lucrative.[^31-3] L’art. 61 LAsi[^31-4] est applicable par analogie.[^31-5]
 
 [^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-3]: Nouvelle teneur selon le ch. III de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^31-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^31-5]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -1606,9 +1605,10 @@ Les professionnels de la santé compétents transmettent aux autorités ci-aprè
 Les autorités compétentes de la Confédération ou des cantons peuvent procéder à la rétention de personnes dépourvues d’autorisation de courte durée, de séjour ou d’établissement afin:
 
 - a. de leur notifier une décision relative à leur statut de séjour;
-- b. d’établir leur identité et leur nationalité, pour autant qu’elles aient l’obligation de collaborer à cet effet.
+- b. d’établir leur identité et leur nationalité, pour autant qu’elles aient l’obligation de collaborer à cet effet;
+- c.[^73-1] d’assurer leur remise aux autorités compétentes d’un État voisin en vertu d’un accord de réadmission.
 
-<sup>2</sup> La rétention selon l’al. 1 dure le temps nécessaire pour garantir la collaboration de la personne concernée ou pour permettre son interrogatoire et, le cas échéant, son transport; elle ne peut toutefois excéder trois jours.
+<sup>2</sup> La rétention selon l’al. 1 dure le temps nécessaire pour garantir la collaboration de la personne concernée ou pour permettre son interrogatoire et, le cas échéant, son transport ou jusqu’à sa remise aux autorités compétentes d’un État voisin; elle ne peut toutefois excéder trois jours.[^73-2]
 
 <sup>3</sup>
 
@@ -1622,6 +1622,9 @@ Toute personne faisant l’objet d’une rétention:
 <sup>5</sup> Sur requête, l’autorité judiciaire compétente contrôle, a posteriori, la légalité de la rétention.
 
 <sup>6</sup> La durée de la rétention n’est pas comptabilisée dans la durée de la détention en vue de l’exécution du renvoi ou de l’expulsion, de la détention en phase préparatoire ou de la détention pour insoumission.
+
+[^73-1]: Introduite par le ch. I de la LF du 16 déc. 2022 (Soutien financier aux cantons qui gèrent des centres de départ à la frontière), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Soutien financier aux cantons qui gèrent des centres de départ à la frontière), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -1946,9 +1949,18 @@ La Confédération participe à raison d’un forfait journalier aux frais d’e
 - c. les étrangers dont la détention a été ordonnée en relation avec une décision de renvoi du SEM.
 - d. les réfugiés qui sont expulsés en vertu de l’art. 65 LAsi[^82-3].
 
+<sup>3</sup>
+
+La Confédération peut participer pendant une période limitée, à raison d’un forfait journalier, aux frais d’exploitation liés à la rétention d’une personne en vertu de l’art. 73, al. 1, let. c. Cette participation financière présuppose:
+
+- a. que la personne concernée soit retenue dans un centre cantonal de départ implanté dans une zone frontalière;
+- b. que, dans cette zone, le nombre d’entrées illégales en Suisse et de contrôles de personnes soit exceptionnellement élevé, et
+- c. que le centre cantonal de départ serve à héberger à court terme des étrangers appréhendés dans la zone frontalière concernée lors de leur entrée illégale en Suisse et renvoyés sans décision formelle au sens de l’art. 64*c*, al. 1, let. a.[^82-4]
+
 [^82-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-4]: Introduit par le ch. I de la LF du 16 déc. 2022 (Soutien financier aux cantons qui gèrent des centres de départ à la frontière), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## Chapitre 11 Admission provisoire
 
@@ -1978,11 +1990,11 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 - b. l’étranger attente de manière grave ou répétée à la sécurité et à l’ordre publics en Suisse ou à l’étranger, les met en danger ou représente une menace pour la sûreté intérieure ou extérieure de la Suisse;
 - c.[^83-7] l’impossibilité d’exécuter le renvoi est due au comportement de l’étranger.
 
-<sup>8</sup> Le réfugié auquel l’asile n’est pas accordé en vertu des art. 53 ou 54 LAsi[^83-8] est admis à titre provisoire.
+<sup>8</sup> Le réfugié auquel l’asile n’est pas accordé en vertu des art. 53 ou 54 LAsi[^83-8] est admis à titre provisoire[^83-9].
 
-<sup>9</sup> L’admission provisoire n’est pas ordonnée ou prend fin avec l’entrée en force d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP, 49*a* ou 49*a*<sup>bis</sup> CPM[^83-9] ou d’une expulsion au sens de l’art. 68 de la présente loi.[^83-10]
+<sup>9</sup> L’admission provisoire n’est pas ordonnée ou prend fin avec l’entrée en force d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP, 49*a* ou 49*a*<sup>bis</sup> CPM[^83-10] ou d’une expulsion au sens de l’art. 68 de la présente loi.[^83-11]
 
-<sup>10</sup> Les autorités cantonales peuvent conclure une convention d’intégration avec un étranger admis à titre provisoire lorsque se présentent des besoins d’intégration particuliers conformément aux critères définis à l’art. 58*a*.[^83-11]
+<sup>10</sup> Les autorités cantonales peuvent conclure une convention d’intégration avec un étranger admis à titre provisoire lorsque se présentent des besoins d’intégration particuliers conformément aux critères définis à l’art. 58*a*.[^83-12]
 
 [^83-1]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
@@ -1992,9 +2004,10 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 [^83-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^83-7]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-8]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^83-9]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^83-10]: Introduit par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels) ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^83-11]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^83-9]: Nouvelle expression selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)). Il a été tenu compte de cette mod. dans tout le texte.
+[^83-10]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^83-11]: Introduit par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels) ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-12]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 84
 
@@ -2022,56 +2035,43 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 
 <sup>2</sup> L’art. 27 LAsi[^85-1] s’applique par analogie à la répartition des étrangers admis à titre provisoire.
 
-<sup>3</sup> L’étranger admis à titre provisoire qui souhaite changer de canton soumet sa demande au SEM. Celui-ci rend une décision définitive après avoir entendu les cantons concernés, sous réserve de l’al. 4.
+<sup>3</sup> et <sup>4</sup> …[^85-2]
 
-<sup>4</sup> La décision relative au changement de canton ne peut faire l’objet d’un recours que si elle viole le principe de l’unité de la famille.
+<sup>5</sup> L’étranger admis à titre provisoire peut choisir librement son lieu de résidence sur le territoire du canton où il séjourne ou du canton auquel il a été attribué. Les autorités cantonales peuvent assigner un lieu de résidence ou un logement sur le territoire cantonal à l’étranger admis à titre provisoire qui n’a pas été reconnu comme réfugié et qui touche des prestations d’aide sociale.[^85-3]
 
-<sup>5</sup> L’étranger admis à titre provisoire peut choisir librement son lieu de résidence sur le territoire du canton où il séjourne ou du canton auquel il a été attribué. Les autorités cantonales peuvent assigner un lieu de résidence ou un logement sur le territoire cantonal à l’étranger admis à titre provisoire qui n’a pas été reconnu comme réfugié et qui touche des prestations d’aide sociale.[^85-2]
+<sup>6</sup> …[^85-4]
 
-<sup>6</sup> …[^85-3]
+<sup>7</sup> …[^85-5]
 
-<sup>7</sup>
+<sup>7bis</sup> et <sup>7ter</sup> …[^85-6]
 
-Le conjoint et les enfants célibataires de moins de 18 ans des personnes admises à titre provisoire, y compris les réfugiés admis à titre provisoire, peuvent bénéficier du regroupement familial et du même statut, au plus tôt trois ans après le prononcé de l’admission provisoire, aux conditions suivantes:
-
-- a. ils vivent en ménage commun;
-- b. ils disposent d’un logement approprié;
-- c. la famille ne dépend pas de l’aide sociale;
-- d.[^85-4] ils sont aptes à communiquer dans la langue nationale parlée au lieu de domicile;
-- e.[^85-5] la personne à l’origine de la demande de regroupement familial ne perçoit pas de prestations complémentaires annuelles au sens de la LPC[^85-6] ni ne pourrait en percevoir grâce au regroupement familial.
-
-<sup>7bis</sup> Pour l’octroi de l’admission provisoire, une inscription à une offre d’encouragement linguistique suffit en lieu et place de la condition prévue à l’al. 7, let. d.[^85-7]
-
-<sup>7ter</sup> La condition prévue à l’al. 7, let. d, ne s’applique pas aux enfants célibataires de moins de 18 ans. Il est en outre possible d’y déroger lorsque des raisons majeures au sens de l’art. 49*a*, al. 2, le justifient.[^85-8]
-
-<sup>8</sup> Si l’examen des conditions du regroupement familial définies à l’al. 7 révèle des indices d’une cause absolue d’annulation au sens de l’art. 105, ch. 5 ou 6, CC[^85-9], le SEM en informe l’autorité visée à l’art. 106 CC. La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.[^85-10]
+<sup>8</sup> …[^85-7]
 
 [^85-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^85-2]: Phrase introduite par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-3]: Abrogé par le ch. I de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-4]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-5]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-6]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85-7]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-8]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-9]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^85-10]: Introduit par le ch. I 1 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^85-2]: Abrogés par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-3]: Phrase introduite par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^85-4]: Abrogé par le ch. I de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-5]: Abrogé par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Introduits par le ch. I de la LF du 16 déc. 2016 (Intégration) ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)). Abrogés par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-7]: Introduit par le ch. I 1 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abrogé par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
 
 **Activité lucrative**[^85a-1]
 
-<sup>1</sup> L’étranger admis à titre provisoire peut exercer une activité lucrative dans toute la Suisse si les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche sont respectées (art. 22).
+<sup>1</sup> Une personne admise à titre provisoire peut exercer une activité lucrative dans toute la Suisse. En cas d’activité lucrative salariée, les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche doivent être respectées (art. 22). Pour les réfugiés admis à titre provisoire, l’art. 61 LAsi[^85a-2] est applicable.[^85a-3]
 
 <sup>2</sup>
 
-Le début et la fin de l’activité lucrative ainsi que les changements d’emploi doivent préalablement être annoncés par l’employeur à l’autorité compétente pour le lieu de travail désignée par le canton. L’annonce doit notamment contenir les données suivantes:
+Le début et la fin de l’activité lucrative salariée ainsi que les changements d’emploi doivent préalablement être annoncés par l’employeur à l’autorité compétente pour le lieu de travail désignée par le canton. L’annonce doit notamment contenir les données suivantes:[^85a-4]
 
 - a. l’identité et le salaire de la personne exerçant l’activité lucrative;
 - b. l’activité exercée;
 - c. le lieu de travail.
 
 <sup>3</sup> L’employeur doit joindre à l’annonce une attestation par laquelle il confirme connaître les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche et qu’il s’engage à les respecter.
+
+<sup>3bis</sup> En cas d’activité lucrative indépendante, l’annonce incombe à la personne concernée. Elle doit notamment contenir les données visées à l’al. 2.[^85a-5]
 
 <sup>4</sup> L’autorité visée à l’al. 2 fait immédiatement parvenir une copie de l’annonce aux organes chargés de contrôler le respect des conditions de rémunération et de travail.
 
@@ -2080,6 +2080,58 @@ Le début et la fin de l’activité lucrative ainsi que les changements d’emp
 <sup>6</sup> Il règle la procédure d’annonce.
 
 [^85a-1]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-5]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85b
+
+**Changement de canton**[^85b-1]
+
+<sup>1</sup> La personne admise à titre provisoire qui souhaite transférer sa résidence dans un autre canton doit soumettre une demande à cet effet au SEM. Ce dernier entend le canton concerné.
+
+<sup>2</sup>
+
+Elle est autorisée à changer de canton:
+
+- a. pour protéger l’unité de sa famille, ou
+- b. en cas de menace grave pour sa santé ou celle d’autres personnes.
+
+<sup>3</sup>
+
+Elle est également autorisée à changer de canton pour y exercer une activité lucrative de durée indéterminée ou y suivre une formation professionnelle initiale:
+
+- a. si elle ne perçoit des prestations de l’aide sociale ni pour elle ni pour les membres de sa famille, et
+- b. si les rapports de travail existent depuis au moins 12 mois ou que l’horaire de travail ou le trajet pour se rendre au travail ne permettent pas d’exiger raisonnablement qu’elle reste dans son canton de résidence.
+
+<sup>4</sup> Elle n’est pas autorisée à changer de canton en vertu des al. 2 et 3 en présence de l’un des motifs mentionnés à l’art. 83, al. 7, let. a ou b.
+
+<sup>5</sup> Le changement de canton d’un réfugié admis à titre provisoire est régi par l’art. 37, al. 2.
+
+[^85b-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85c
+
+**Regroupement familial**[^85c-1]
+
+<sup>1</sup>
+
+Le conjoint et les enfants célibataires de moins de 18 ans d’une personne admise à titre provisoire peuvent bénéficier du regroupement familial et du même statut qu’elle, au plus tôt trois ans après la décision d’admission provisoire, aux conditions suivantes:
+
+- a. ils vivent en ménage commun avec elle;
+- b. ils disposent d’un logement approprié;
+- c. la famille ne dépend pas de l’aide sociale;
+- d. ils sont aptes à communiquer dans la langue nationale parlée au lieu de domicile ou sont inscrits à une offre d’encouragement pour cette langue;
+- e. la personne à l’origine de la demande de regroupement familial ne perçoit pas de prestations complémentaires annuelles au sens de la LPC[^85c-2] ni ne pourrait en percevoir du fait du regroupement familial.
+
+<sup>2</sup> La condition prévue à l’al. 1, let. d, ne s’applique pas aux enfants célibataires de moins de 18 ans. Il est en outre possible d’y déroger lorsque des raisons majeures au sens de l’art. 49*a*, al. 2, le justifient.
+
+<sup>3</sup> Si l’examen des conditions du regroupement familial révèle des indices d’une cause absolue d’annulation du mariage au sens de l’art. 105, ch. 5 ou 6, CC[^85c-3], le SEM en informe l’autorité visée à l’art. 106 CC. La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
+
+[^85c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^85c-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 86
 
@@ -3466,12 +3518,12 @@ Est puni d’une amende quiconque, intentionnellement ou par négligence:
 - c. déplace sa résidence dans un autre canton sans être titulaire de l’autorisation requise (art. 37);
 - d. ne respecte pas les conditions dont l’autorisation est assortie (art. 32, 33 et 35);
 - e. ne collabore pas à l’obtention de documents de voyage (art. 90, al. 1, let. c);
-- f.[^120-1] contrevient à l’obligation d’annonce prévue à l’art. 85*a*, al. 2, ou ne respecte pas les conditions liées à l’annonce (art. 85*a*, al. 2 et 3);
+- f.[^120-1] contrevient à l’obligation d’annonce prévue à l’art. 85*a*, al. 2 et 3<sup>bis</sup>, ou ne respecte pas les conditions liées à l’annonce (art. 85*a*, al. 2 à 3<sup>bis</sup>);
 - g.[^120-2] s’oppose au contrôle d’un organe de contrôle au sens de l’art. 85*a*, al. 4, ou le rend impossible.
 
 <sup>2</sup> Le Conseil fédéral peut prévoir une amende de 5000 francs au plus pour les infractions aux dispositions d’exécution de la présente loi.
 
-[^120-1]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-1]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration) ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 120a à 120c

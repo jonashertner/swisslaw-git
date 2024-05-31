@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2023-10-15
+version: 2024-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 15. Oktober 2023)
+vom 16. Dezember 2005 (Stand am 1. Juni 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -280,11 +280,12 @@ Als inländische Arbeitnehmerinnen und Arbeitnehmer gelten:
 - d.[^21-1] vorläufig aufgenommene Personen;
 - e.[^21-2] Personen, denen vorübergehender Schutz gewährt wurde und die eine Bewilligung zur Aufnahme einer Erwerbstätigkeit besitzen.
 
-<sup>3</sup> Ausländerinnen und Ausländer mit Schweizer Hochschulabschluss können in Abweichung von Absatz 1 zugelassen werden, wenn ihre Erwerbstätigkeit von hohem wissenschaftlichem oder wirtschaftlichem Interesse ist. Sie werden für eine Dauer von sechs Monaten nach dem Abschluss ihrer Aus- oder Weiterbildung in der Schweiz vorläufig zugelassen, um eine entsprechende Erwerbstätigkeit zu finden.[^21-3]
+<sup>3</sup> Ausländerinnen und Ausländer mit Schweizer Hochschulabschluss können in Abweichung von Absatz 1 zugelassen werden, wenn ihre Erwerbstätigkeit von hohem wissenschaftlichem oder wirtschaftlichem Interesse ist. Sie werden für eine Dauer von sechs Monaten nach dem Abschluss ihrer Aus- oder Weiterbildung in der Schweiz zugelassen, um eine entsprechende Erwerbstätigkeit zu finden.[^21-3] [^21-4]
 
 [^21-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^21-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^21-3]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 (Erleichterte Zulassung von Ausländerinnen und Ausländern mit Schweizer Hochschulabschluss), in Kraft seit 1. Jan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
+[^21-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^21-4]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 (Erleichterte Zulassung von Ausländerinnen und Ausländern mit Schweizer Hochschulabschluss), in Kraft seit 1. Jan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 
 #### Art. 21a
 
@@ -472,7 +473,7 @@ Von den Zulassungsvoraussetzungen (Art. 18–29) kann abgewichen werden, um:
 
 [^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^31-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^31-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -1597,9 +1598,10 @@ Die behandelnde medizinische Fachperson gibt auf Anfrage die für die Beurteilun
 Die zuständige Behörde des Bundes oder des Kantons kann Personen ohne Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung festhalten:
 
 - a. zur Eröffnung einer Verfügung im Zusammenhang mit ihrem Aufenthaltsstatus;
-- b. zur Feststellung ihrer Identität oder Staatsangehörigkeit, soweit dazu ihre persönliche Mitwirkung erforderlich ist.
+- b. zur Feststellung ihrer Identität oder Staatsangehörigkeit, soweit dazu ihre persönliche Mitwirkung erforderlich ist;
+- c.[^73-1] zur Sicherstellung ihrer Übergabe an die zuständigen Behörden eines Nachbarstaates gestützt auf ein Rückübernahmeabkommen.
 
-<sup>2</sup> Die Person darf nur für die Dauer der erforderlichen Mitwirkung oder Befragung sowie des allenfalls erforderlichen Transports, höchstens aber drei Tage festgehalten werden.
+<sup>2</sup> Die Person darf nur für die Dauer der erforderlichen Mitwirkung oder Befragung sowie des allenfalls erforderlichen Transports oder bis zur Übergabe an die zuständigen Behörden eines Nachbarstaates, höchstens aber drei Tage festgehalten werden.[^73-2]
 
 <sup>3</sup>
 
@@ -1613,6 +1615,9 @@ Wird eine Person festgehalten, so muss sie:
 <sup>5</sup> Auf Gesuch hin hat die zuständige richterliche Behörde die Rechtmässigkeit der Festhaltung nachträglich zu überprüfen.
 
 <sup>6</sup> Die Dauer der Festhaltung wird nicht an die Dauer einer allfälligen Ausschaffungshaft, Vorbereitungshaft oder Durchsetzungshaft angerechnet.
+
+[^73-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Finanzielle Unterstützung von Kantonen mit Ausreisezentren an der Grenze), in Kraft seit 1. Juni 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022 (Finanzielle Unterstützung von Kantonen mit Ausreisezentren an der Grenze), in Kraft seit 1. Juni 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -1937,9 +1942,18 @@ Der Bund beteiligt sich mit einer Tagespauschale an den Betriebskosten der Kanto
 - c. Ausländerinnen und Ausländer, deren Inhaftierung im Zusammenhang mit einer Wegweisungsverfügung des SEM angeordnet wurde;
 - d. Flüchtlinge, die nach Artikel 65 AsylG[^82-3] ausgewiesen werden.
 
+<sup>3</sup>
+
+Der Bund kann sich für einen befristeten Zeitraum mit einer Tagespauschale an den Betriebskosten für die kurzfristige Festhaltung von Personen nach Artikel 73 Absatz 1 Buchstabe c beteiligen. Eine finanzielle Beteiligung setzt voraus, dass:
+
+- a. die betreffende Person in einem kantonalen Ausreisezentrum im Grenzraum festgehalten wird;
+- b. im entsprechenden Grenzraum eine ausserordentlich hohe Zahl von illegalen Grenzübertritten sowie von Personenkontrollen zu verzeichnen ist; und
+- c. das kantonale Ausreisezentrum der kurzzeitigen Unterbringung von ausländischen Personen dient, die beim illegalen Übertritt im entsprechenden Grenzraum aufgegriffen und nach Artikel 64*c* Absatz 1 Buchstabe a formlos weggewiesen wurden.[^82-4]
+
 [^82-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Finanzielle Unterstützung von Kantonen mit Ausreisezentren an der Grenze), in Kraft seit 1. Juni 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## 11. Kapitel: Vorläufige Aufnahme
 
@@ -2014,56 +2028,43 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>2</sup> Für die Verteilung der vorläufig aufgenommenen Personen ist Artikel 27 AsylG[^85-1] sinngemäss anwendbar.
 
-<sup>3</sup> Das Gesuch um einen Kantonswechsel ist von den vorläufig aufgenommenen Personen beim SEM einzureichen. Dieses entscheidet unter Vorbehalt von Absatz 4 über den Kantonswechsel nach Anhörung der betroffenen Kantone endgültig.
+<sup>3</sup> und <sup>4</sup> …[^85-2]
 
-<sup>4</sup> Der Entscheid über den Kantonswechsel kann nur mit der Begründung angefochten werden, er verletze den Grundsatz der Einheit der Familie.
+<sup>5</sup> Die vorläufig aufgenommenen Personen können ihren Wohnort im Gebiet des bisherigen oder des zugewiesenen Kantons frei wählen. Die kantonalen Behörden können vorläufig aufgenommene Personen, die nicht als Flüchtlinge anerkannt wurden und Sozialhilfe beziehen, innerhalb des Kantons einem Wohnort oder einer Unterkunft zuweisen.[^85-3]
 
-<sup>5</sup> Die vorläufig aufgenommenen Personen können ihren Wohnort im Gebiet des bisherigen oder des zugewiesenen Kantons frei wählen. Die kantonalen Behörden können vorläufig aufgenommene Personen, die nicht als Flüchtlinge anerkannt wurden und Sozialhilfe beziehen, innerhalb des Kantons einem Wohnort oder einer Unterkunft zuweisen.[^85-2]
+<sup>6</sup> …[^85-4]
 
-<sup>6</sup> …[^85-3]
+<sup>7</sup> …[^85-5]
 
-<sup>7</sup>
+<sup>7bis</sup> und <sup>7ter</sup> …[^85-6]
 
-Ehegatten und ledige Kinder unter 18 Jahren von vorläufig aufgenommenen Personen und vorläufig aufgenommenen Flüchtlingen können frühestens drei Jahre nach Anordnung der vorläufigen Aufnahme nachgezogen und in diese eingeschlossen werden, wenn:
-
-- a. sie mit diesen zusammenwohnen;
-- b. eine bedarfsgerechte Wohnung vorhanden ist; und
-- c. die Familie nicht auf Sozialhilfe angewiesen ist;
-- d.[^85-4] sie sich in der am Wohnort gesprochenen Landessprache verständigen können; und
-- e.[^85-5] die nachziehende Person keine jährlichen Ergänzungsleistungen nach dem ELG[^85-6] bezieht oder wegen des Familiennachzugs beziehen könnte.
-
-<sup>7bis</sup> Für die Erteilung der vorläufigen Aufnahme ist anstelle der Voraussetzung nach Absatz 7 Buchstabe d die Anmeldung zu einem Sprachförderungsangebot ausreichend.[^85-7]
-
-<sup>7ter</sup> Bei ledigen Kindern unter 18 Jahren findet die Voraussetzung nach Absatz 7 Buchstabe d keine Anwendung. Von dieser Voraussetzung kann zudem abgewichen werden, wenn wichtige Gründe nach Artikel 49*a* Absatz 2 vorliegen.[^85-8]
-
-<sup>8</sup> Hat das SEM bei der Prüfung des Nachzugs nach Absatz 7 Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 ZGB[^85-9] vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.[^85-10]
+<sup>8</sup> …[^85-7]
 
 [^85-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^85-2]: Zweiter Satz eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-3]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Integration), mit Wirkung seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-6]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85-7]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-8]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85-9]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^85-10]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^85-2]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), mit Wirkung seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-3]: Zweiter Satz eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^85-4]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Integration), mit Wirkung seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-5]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), mit Wirkung seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), mit Wirkung seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-7]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)). Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), mit Wirkung seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
 
 **Erwerbstätigkeit**[^85a-1]
 
-<sup>1</sup> Vorläufig aufgenommene Personen können in der ganzen Schweiz eine Erwerbstätigkeit ausüben, wenn die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22).
+<sup>1</sup> Vorläufig aufgenommene Personen können in der ganzen Schweiz eine Erwerbstätigkeit ausüben. Bei unselbstständiger Erwerbstätigkeit müssen die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22). Für vorläufig aufgenommene Flüchtlinge gilt Artikel 61 AsylG[^85a-2].[^85a-3]
 
 <sup>2</sup>
 
-Die Aufnahme und die Beendigung der Erwerbstätigkeit sowie ein Stellenwechsel müssen vom Arbeitgeber vorgängig der vom Kanton bezeichneten, für den Arbeitsort zuständigen Behörde gemeldet werden. Die Meldung muss insbesondere folgende Angaben enthalten:
+Die Aufnahme und die Beendigung der unselbstständigen Erwerbstätigkeit sowie ein Stellenwechsel müssen vom Arbeitgeber vorgängig der vom Kanton bezeichneten, für den Arbeitsort zuständigen Behörde gemeldet werden. Die Meldung muss insbesondere folgende Angaben enthalten:[^85a-4]
 
 - a. die Identität und den Lohn der erwerbstätigen Person;
 - b. die ausgeübte Tätigkeit;
 - c. den Arbeitsort.
 
 <sup>3</sup> Der Arbeitgeber muss der Meldung eine Erklärung beilegen, dass er die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen kennt und sich verpflichtet, sie einzuhalten.
+
+<sup>3bis</sup> Bei selbstständiger Erwerbstätigkeit muss die Meldung durch die betreffende Person erfolgen. Die Meldung muss insbesondere die Angaben nach Absatz 2 enthalten.[^85a-5]
 
 <sup>4</sup> Die Behörde nach Absatz 2 übermittelt den Kontrollorganen, die für die Überprüfung der Einhaltung der Lohn- und Arbeitsbedingungen zuständig sind, unverzüglich eine Kopie der Meldung.
 
@@ -2072,6 +2073,58 @@ Die Aufnahme und die Beendigung der Erwerbstätigkeit sowie ein Stellenwechsel m
 <sup>6</sup> Er regelt das Meldeverfahren.
 
 [^85a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85a-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85b
+
+**Kantonswechsel**[^85b-1]
+
+<sup>1</sup> Wollen vorläufig aufgenommene Personen ihren Wohnort in einen anderen Kanton verlegen, so müssen sie beim SEM ein Gesuch um einen Kantonswechsel einreichen. Das SEM hört den betroffenen Kanton an.
+
+<sup>2</sup>
+
+Der Kantonswechsel wird bewilligt:
+
+- a. zum Schutz der Einheit der Familie; oder
+- b. bei einer schwerwiegenden Gefährdung der Gesundheit der vorläufig aufgenommenen Person oder anderer Personen.
+
+<sup>3</sup>
+
+Übt eine vorläufig aufgenommene Person in einem anderen Kanton eine unbefristete Erwerbstätigkeit aus oder absolviert sie eine berufliche Grundbildung, so wird ihr der Kantonswechsel in diesen Kanton zudem bewilligt, wenn:
+
+- a. sie weder für sich noch für ihre Familienangehörigen Sozialhilfe bezieht; und
+- b. das Arbeitsverhältnis seit mindestens zwölf Monaten besteht oder ein Verbleib im Wohnkanton aufgrund des Arbeitsweges oder der Arbeitszeiten nicht zumutbar ist.
+
+<sup>4</sup> Der Kantonswechsel nach den Absätzen 2 und 3 wird nicht bewilligt, wenn Gründe nach Artikel 83 Absatz 7 Buchstabe a oder b vorliegen.
+
+<sup>5</sup> Der Kantonswechsel von vorläufig aufgenommenen Flüchtlingen richtet sich nach Artikel 37 Absatz 2.
+
+[^85b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+
+#### Art. 85c
+
+**Familiennachzug**[^85c-1]
+
+<sup>1</sup>
+
+Ehegatten und ledige Kinder unter 18 Jahren von vorläufig aufgenommenen Personen können frühestens drei Jahre nach Anordnung der vorläufigen Aufnahme nachgezogen und in diese eingeschlossen werden, wenn:
+
+- a. sie mit diesen zusammenwohnen;
+- b. eine bedarfsgerechte Wohnung vorhanden ist;
+- c. die Familie nicht auf Sozialhilfe angewiesen ist;
+- d. sie sich in der am Wohnort gesprochenen Landessprache verständigen können oder zu einem entsprechenden Sprachförderungsangebot angemeldet sind; und
+- e. die nachziehende Person keine jährlichen Ergänzungsleistungen nach dem ELG[^85c-2] bezieht oder wegen des Familiennachzugs beziehen könnte.
+
+<sup>2</sup> Bei ledigen Kindern unter 18 Jahren findet die Voraussetzung nach Absatz 1 Buchstabe d keine Anwendung. Von dieser Voraussetzung kann zudem abgewichen werden, wenn wichtige Gründe nach Artikel 49*a* Absatz 2 vorliegen.
+
+<sup>3</sup> Hat das SEM bei der Prüfung des Nachzugs Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 ZGB[^85c-3] vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
+
+[^85c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 86
 
@@ -3461,12 +3514,12 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 - c. ohne erforderliche Bewilligung den Wohnort in einen anderen Kanton verlegt (Art. 37);
 - d. mit der Bewilligung verbundene Bedingungen nicht einhält (Art. 32, 33 und 35);
 - e. der Mitwirkungspflicht bei der Beschaffung der Ausweispapiere (Art. 90 Bst. c) nicht nachkommt;
-- f.[^120-1] die Meldepflicht nach Artikel 85*a* Absatz 2 verletzt oder mit der Meldung verbundene Bedingungen nicht einhält (Art. 85*a* Abs. 2 und 3);
+- f.[^120-1] die Meldepflicht nach Artikel 85*a* Absätze 2 und 3<sup>bis</sup> verletzt oder mit der Meldung verbundene Bedingungen nicht einhält (Art. 85*a* Abs. 2–3<sup>bis</sup>);
 - g.[^120-2] sich der Kontrolle durch ein Kontrollorgan nach Artikel 85*a* Absatz 4 widersetzt oder diese Kontrolle verunmöglicht.
 
 <sup>2</sup> Bei Widerhandlungen gegen die Ausführungsbestimmungen zu diesem Gesetz kann der Bundesrat Bussen bis zu 5000 Franken vorsehen.
 
-[^120-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration) ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 120a–120c
