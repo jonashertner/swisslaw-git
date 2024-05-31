@@ -4,13 +4,13 @@ number: "531.200"
 title: Gesetz über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeigesetz, PolG"
 language: de
-version: 2023-09-28
-valid_until: 2024-05-31
-version_adopted: 2023-09-28
+version: 2024-06-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3349/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3349/pdf_file"
 
 (Polizeigesetz, PolG)
 
-Vom 06.12.2005 (Stand 28.09.2023)
+Vom 06.12.2005 (Stand 01.06.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -66,9 +66,21 @@ beschliesst:
 - g) der Betrieb von Notrufzentralen,
 - h) die Unterstützung und Beratung der Behörden, Amtsstellen und Gemeinden in Sicherheitsfragen,
 - i) die Aufsicht über private Sicherheitsdienste,
-- k) die Antragstellung für Ausreisebeschränkungen gemäss Art. 24c des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^3-1],
+- k) im Anwendungsbereich des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^3-1]:
+  - 1\. die Antragstellung für Massnahmen zur Verhinderung terroristischer Aktivitäten gemäss Art. 23i BWIS,
+  - 2\. die Erstattung von Stellungnahmen zuhanden des Bundesamts für Polizei (fedpol) gemäss Art. 23j Abs. 1 BWIS,
+  - 3\. der Vollzug und die Kontrolle der Melde- und Gesprächsteilnahmepflichten gemäss Art. 23k BWIS,
+  - 4\. der Vollzug und die Kontrolle der Kontaktverbote gemäss Art. 23l BWIS,
+  - 5\. der Vollzug und die Kontrolle der Ein- und Ausgrenzungen gemäss Art. 23m BWIS,
+  - 6\. der Vollzug und die Kontrolle der Eingrenzungen auf eine Liegenschaft gemäss Art. 23o BWIS,
+  - 7\. der Vollzug und die Kontrolle der Mobilfunklokalisierungen gemäss Art. 23q BWIS,
+  - 8\. der Vollzug und die Kontrolle der elektronischen Überwachungen gemäss Art. 23q BWIS in Zusammenarbeit mit dem Amt für Justizvollzug,
+  - 9\. die Antragstellung für Ausreisebeschränkungen gemäss Art. 24c BWIS,
 - l) die Bewilligungen und Massnahmen gemäss Art. 13 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^3-2],
-- m) die Ergreifung von beratenden und präventiven Schutzmassnahmen im Rahmen des Bedrohungsmanagements.
+- m) die Ergreifung von beratenden und präventiven Schutzmassnahmen im Rahmen des Bedrohungsmanagements,
+- n) im Anwendungsbereich des Bundesgesetzes über die Luftfahrt (Luftfahrtgesetz, LFG) vom 21. Dezember 1948[^3-3]:
+  - 1\. die Datenbearbeitung im Rahmen von Zuverlässigkeitsüberprüfungen gemäss Art. 108c LFG,
+  - 2\. die Abgabe von Empfehlungen im Rahmen von Zuverlässigkeitsüberprüfungen gemäss Art. 108d LFG.
 
 <sup>2</sup> Die Kantonspolizei erfüllt im Rahmen von mehrjährigen Vereinbarungen gegen kostendeckende Entschädigung qualifizierte und definierte polizeiliche Aufgaben der Gemeinden.
 
@@ -76,6 +88,7 @@ beschliesst:
 
 [^3-1]: SR [120](https://db.clex.ch/link/Bund/120/de)
 [^3-2]: SAR [533.100](https://gesetzessammlungen.ag.ch/data/533.100/de)
+[^3-3]: SR [748.0](https://db.clex.ch/link/Bund/748.0/de)
 
 #### § 4
 
@@ -189,6 +202,7 @@ beschliesst:
 - e) präventive verdeckte Fahndung gemäss § 35c Abs. 1,
 - f) präventive verdeckte Ermittlung gemäss § 35d Abs. 1,
 - g) optisch-elektronische Überwachung gemäss § 36a Abs. 1,
+- g<sup>bis</sup>) automatische Fahrzeugfahndung und Verkehrsüberwachung gemäss § 36b Abs. 1,
 - h) Datenabgleich gemäss § 36b Abs. 4.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die für die Anordnungen gemäss Absatz 1 zuständigen polizeilichen Kaderfunktionen durch Verordnung.
@@ -200,7 +214,8 @@ beschliesst:
 <sup>1</sup> Die Anordnung folgender Massnahmen ist Kaderangehörigen der Polizeikräfte der Gemeinden vorbehalten:
 
 - a) Dokumentation von Einsätzen mit mobilen Bild- und Tonaufnahmegeräten gemäss § 25 Abs. 4,
-- b) Polizeigewahrsam gemäss § 31 Abs. 1, der länger als drei Stunden dauert.
+- b) Polizeigewahrsam gemäss § 31 Abs. 1, der länger als drei Stunden dauert,
+- c) automatische Fahrzeugfahndung und Verkehrsüberwachung gemäss § 36b Abs. 1.
 
 <sup>2</sup> Die zuständigen politischen Organe der Polizeikräfte der Gemeinden bezeichnen die für die Anordnungen gemäss Absatz 1 zuständigen Kaderfunktionen in einem Reglement.
 
@@ -274,6 +289,68 @@ beschliesst:
 
 - a) 1/60 der Ausbildungskosten für jeden im abgebenden Polizeikorps bereits vollständig geleisteten Monat und
 - b) den Betrag, den die ausgebildete Person dem abgebenden Polizeikorps bereits gemäss § 18 oder aufgrund einer arbeitsvertraglichen Verpflichtung zurückerstattet hat.
+
+#### § 18b
+
+**Personensicherheitsprüfung a) Allgemeines**
+
+<sup>1</sup> Die Personensicherheitsprüfung bezweckt die Abklärung des Leumunds der Angehörigen der Kantonspolizei und der Polizeikräfte der Gemeinden.
+
+<sup>2</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden können Personensicherheitsprüfungen während der Dauer des Anstellungsverhältnisses bei begründetem Anlass jederzeit durchführen.
+
+<sup>3</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden müssen zu folgenden Zeitpunkten eine Personensicherheitsprüfung durchführen:
+
+- a) vor der Zulassung zur Polizeiausbildung gemäss § 17,
+- b) vor der Anstellung als Angehörige oder Angehöriger der Kantonspolizei beziehungsweise der Polizeikräfte der Gemeinden, wenn keine Personensicherheitsprüfung gemäss Litera a durchgeführt worden ist.
+
+<sup>4</sup> Die zu überprüfenden Personen müssen der Durchführung einer Personensicherheitsprüfung gemäss den Absätzen 2 und 3 zustimmen.
+
+<sup>5</sup> Die zu überprüfenden Personen sind im Rahmen einer Personensicherheitsprüfung gemäss den Absätzen 2 und 3 zur Mitwirkung bei der Feststellung des Sachverhalts verpflichtet.
+
+#### § 18c
+
+**b) Abklärungen und Beizug von Unterlagen**
+
+<sup>1</sup> Folgende Abklärungen sind im Rahmen der Personensicherheitsprüfung von Polizistinnen und Polizisten sowie von Bewerberinnen und Bewerbern zur Polizeiausbildung vorzunehmen:
+
+- a) Abfrage des Behördenauszugs 2 gemäss Art. 46 lit. j des Bundesgesetzes über das Strafregister-Informationssystem VOSTRA (Strafregistergesetz, StReG) vom 17. Juni 2016[^18c-1],
+- b) Abfrage der polizeilichen Datenbearbeitungs- und Informationssysteme der Kantonspolizei gemäss den §§ 50 Abs. 1 und 51a,
+- c) Abfrage der polizeilichen Datenbearbeitungs- und Informationssysteme des Bundes und anderer Kantone, soweit die Kantonspolizei zugriffsberechtigt ist,
+- d) Einholen von Referenzen bei früheren Arbeitgebenden der zu prüfenden Person, wenn eine Personensicherheitsprüfung gemäss § 18b Abs. 3 durchgeführt wird.
+
+<sup>2</sup> Im Rahmen der Personensicherheitsprüfung gemäss Absatz 1 haben die Polizistinnen und Polizisten sowie die Bewerberinnen und Bewerber zur Polizeiausbildung zusätzlich folgende Unterlagen beizubringen:
+
+- a) Selbstdeklaration von im Behördenauszug 2 gemäss Art. 46 lit. j StReG nicht aufgeführten Strafurteilen und laufenden Strafverfahren,
+- b) aktueller Auszug gemäss Art. 8a des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889[^18c-2],
+- c) aktueller Auszug gemäss Art. 89f des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1958[^18c-3].
+
+<sup>3</sup> Im Rahmen der Personensicherheitsprüfung von weiteren Angehörigen der Kantonspolizei und der Polizeikräfte der Gemeinden haben diese Personen anstelle der gemäss den Absätzen 1 lit. a und 2 lit. a erforderlichen Abklärung beziehungsweise Unterlage folgende Unterlagen beizubringen:
+
+- a) Privatauszug gemäss Art. 41 StReG,
+- b) Selbstdeklaration von im Privatauszug gemäss Art. 41 StReG nicht aufgeführten Strafurteilen und laufenden Strafverfahren.
+
+<sup>4</sup> Die Polizeikräfte der Gemeinden sind verpflichtet, bei der Kantonspolizei einen Bericht betreffend Abfragen gemäss Absatz 1 lit. b und c einzuholen.
+
+<sup>5</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden können mit Zustimmung der zu prüfenden Person weitere Abklärungen betreffend den Leumund vornehmen. Die zu prüfende Person ist zur Mitwirkung bei der Feststellung des Sachverhalts verpflichtet.
+
+[^18c-1]: SR [330](https://db.clex.ch/link/Bund/330/de)
+[^18c-2]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+[^18c-3]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
+
+#### § 18d
+
+**c) Einsichtnahme und Berichtigung**
+
+<sup>1</sup> Die geprüfte Person kann Einsicht in die Unterlagen der Personensicherheitsprüfung nehmen und die Berichtigung falscher Daten verlangen.
+
+#### § 18e
+
+**d) Massnahmen**
+
+<sup>1</sup> Ergeben sich aus der Personensicherheitsprüfung Erkenntnisse, die dem Leumund der geprüften Person entgegenstehen, beziehungsweise verweigert die zu prüfende Person die Zustimmung zur oder die Mitwirkung bei der Personensicherheitsprüfung,
+
+- a) ist auf die Zulassung zur Polizeiausbildung beziehungsweise auf die Anstellung zu verzichten,
+- b) können bei einem bestehenden Arbeitsverhältnis personalrechtliche Massnahmen ergriffen werden.
 
 ### 1.4. Öffentliche Sicherheit in den Gemeinden
 
@@ -462,7 +539,7 @@ beschliesst:
 - d) sie vermisst werden,
 - e) ihnen ein amtliches Dokument polizeilich zugestellt werden muss.
 
-<sup>1<sup>bis</sup></sup> Die Polizei kann Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container gemäss den Bestimmungen der Verordnung über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung) vom 8. März 2013[^33-1] zur verdeckten Registrierung und gezielten Kontrolle im Schengener Informationssystem ausschreiben.
+<sup>1<sup>bis</sup></sup> Die Polizei kann Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container gemäss den Bestimmungen der Verordnung über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung) vom 8. März 2013[^33-1] zur verdeckten Registrierung, zur gezielten Kontrolle und zur Ermittlungsanfrage im Schengener Informationssystem ausschreiben.
 
 <sup>2</sup> Die Ausschreibung wird von Amtes wegen oder auf Antrag widerrufen, sobald der Grund dafür weggefallen ist.
 
