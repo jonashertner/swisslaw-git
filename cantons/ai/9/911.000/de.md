@@ -3,123 +3,122 @@ canton: AI
 number: "911.000"
 title: Einführungsgesetz zum Bundesgesetz über das bäuerliche Bodenrecht
 language: de
-version: 2015-04-26
-corrected: 2019-02-15
-version_adopted: 2015-04-26
+version: 2024-06-01
+version_adopted: 2024-04-28
 adopted: 1994-04-24
 in_force: 1994-04-24
 url: "https://ai.clex.ch/app/de/texts_of_law/911.000"
-pdf: "https://ai.clex.ch/api/de/versions/889/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2274/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über das bäuerliche Bodenrecht
 
-vom 24. April 19941
+vom 24.04.1994 (Stand 01.06.2024)
 
 Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 90 des Bundesgesetzes über das bäuerliche Bodenrecht vom 4. Oktober 1991 (BGBB) sowie Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 90 des Bundesgesetzes über das bäuerliche Bodenrecht vom 4. Oktober 1991 (BGBB) sowie Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-- l. Zuständigkeiten
+## l. Zuständigkeiten
 
 #### Art. 1
 
 **Richterliche Behörden**
 
-Über die Zuweisung landwirtschaftlicher Gewerbe und Grundstücke, Kaufs- und Vorkaufsrechte sowie Gewinnansprüche an solchen Liegenschaften (Art. 11–57 BGBB) entscheiden im Streitfalle die für die zivilrechtlichen Streitigkeiten zuständigen richterlichen Behörden.
+<sup>1</sup> Über die Zuweisung landwirtschaftlicher Gewerbe und Grundstücke, Kaufs- und Vorkaufsrechte sowie Gewinnansprüche an solchen Liegenschaften (Art. 11–57 BGBB) entscheiden im Streitfalle die für die zivilrechtlichen Streitigkeiten zuständigen richterlichen Behörden.
 
-#### Art. 23
+#### Art. 2
 
 **Land- und Forstwirtschaftsdepartement**
 
 <sup>1</sup> Das Land- und Forstwirtschaftsdepartement (nachfolgend Departement genannt) ist die zuständige Bewilligungsbehörde im Sinne von Art. 90 BGBB.
 
-<sup>2</sup> Ausserdem trifft das Departement auf Antrag einer Partei, die daran ein schutzwürdiges Interesse hat oder auf Antrag des Grundbuchamtes Feststellungsverfügungen im Rahmen seiner Zuständigkeit nach Abs. 1 dieses Artikels (Art. 84 BGBB).
+<sup>2</sup> Ausserdem trifft das Departement auf Antrag einer Partei, die daran ein schutzwürdiges Interesse hat oder auf Antrag der für das Grundbuchwesen zuständigen Stelle Feststellungsverfügungen im Rahmen seiner Zuständigkeit nach Abs. 1 dieses Artikels (Art. 84 BGBB).
 
-<sup>3</sup> Das Departement teilt den Grundbuchämtern von Amtes wegen mit, ob die von ihr erteilten Bewilligungen in Rechtskraft erwachsen sind.
+<sup>3</sup> Das Departement teilt der für das Grundbuchwesen zuständigen Stelle von Amtes wegen mit, ob die von ihm erteilten Bewilligungen in Rechtskraft erwachsen sind.
 
 <sup>4</sup> Über Anmerkungen im Grundbuch bei landwirtschaftlichen Grundstücken in der Bauzone und bei nichtlandwirtschaftlichen Grundstücken ausserhalb der Bauzonen im Sinne von Art. 86 Abs. 1 BGBB sowie über die Erteilung von Bewilligungen für Darlehen, die durch ein die Belastungsgrenze übersteigendes Pfandrecht gesichert sind, entscheidet ebenfalls das Departement.
 
-#### Art. 31
+#### Art. 3
 
-Bodenrechts- <sup>1</sup>Die Bodenrechtskommission entscheidet über Ausnahmen vom Realteilungs- und kommission Zerstückelungsverbot gemäss Art. 60 Abs. 1 lit. e, f und g BGBB sowie gemäss Art. 60 Abs. 2 lit. a BGBB.
+**Bodenrechtskommission**
 
-<sup>2</sup> In allen übrigen Fällen nach Art. 60 BGBB entscheidet der Präsident\* der Bodenrechtskommission.
+<sup>1</sup> Die Bodenrechtskommission entscheidet über Ausnahmen vom Realteilungs- und Zerstückelungsverbot gemäss Art. 60 Abs. 1 lit. e, f und g BGBB sowie gemäss Art. 60 Abs. 2 lit. a BGBB.
 
-#### Art. 42
+<sup>2</sup> In allen übrigen Fällen nach Art. 60 BGBB entscheidet der Präsident[^3-1] der Bodenrechtskommission.
 
-Grundstück- Die Schätzung des Ertragswertes oder deren Genehmigung im Sinne von Art. 87 schatzungs- BGBB erfolgt durch die Grundstückschatzungskommission für landwirtschaftliche kommission Grundstücke.
+[^3-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
-#### Art. 53
+#### Art. 4
 
-Justiz-, Polizei- Aufsichtsbehörde im Sinne des BGBB ist das Justiz-, Polizei- und Militärdeparte- und Militärdepar- ment.
+**Grundstückschatzungskommission**
 
-tement Art. 64
+<sup>1</sup> Die Schätzung des Ertragswertes oder deren Genehmigung im Sinne von Art. 87 BGBB erfolgt durch die Grundstückschatzungskommission für landwirtschaftliche Grundstücke.
 
-Schatzungsamt Das Schatzungsamt hat zuhanden der zuständigen Behörden bzw. Amtsstellen, insbesondere zuhanden des Landwirtschaftsdepartementes eine Statistik über die Verkaufspreise der landwirtschaftlichen Gewerbe bzw. Grundstücke (Art. 62 ff. BGBB) zu führen.
+#### Art. 5
 
-#### Art. 75
+**Justiz-, Polizei- und Militärdepartement**
 
-Präsident des Für den Entscheid anstelle der fehlenden oder verweigerten Zustimmung des Ehe-Bezirksgerichtes gatten oder des eingetragenen Partners zur Veräusserung eines landwirtschaftlichen Gewerbes (Art. 40 Abs. 2 BGBB) ist der Präsident des Bezirksgerichtes der gelegenen Sache zuständig.
+<sup>1</sup> Aufsichtsbehörde im Sinne des BGBB ist das Justiz-, Polizei- und Militärdepartement.
 
-#### Art. 86
+#### Art. 6
 
-Abteilung des Beschwerdeinstanz ist das Kantonsgericht, Abteilung Verwaltungsgericht.
+**Schatzungsamt**
 
-Kantonsgerichtes
+<sup>1</sup> Das Schatzungsamt hat zuhanden der zuständigen Behörden bzw. Amtsstellen, insbesondere zuhanden des Landwirtschaftsdepartementes eine Statistik über die Verkaufspreise der landwirtschaftlichen Gewerbe bzw. Grundstücke (Art. 62 ff. BGBB) zu führen.
 
-### II. Ergänzendes kantonales Recht
+#### Art. 7
 
-#### Art. 91
+**Präsident des Bezirksgerichtes**
+
+<sup>1</sup> Für den Entscheid anstelle der fehlenden oder verweigerten Zustimmung des Ehegatten oder des eingetragenen Partners zur Veräusserung eines landwirtschaftlichen Gewerbes (Art. 40 Abs. 2 BGBB) ist der Präsident des Bezirksgerichtes der gelegenen Sache zuständig.
+
+#### Art. 8
+
+**Abteilung des Kantonsgerichtes**
+
+<sup>1</sup> Beschwerdeinstanz ist das Kantonsgericht, Abteilung Verwaltungsgericht.
+
+## II. Ergänzendes kantonales Recht
+
+#### Art. 9
 
 **Landwirtschaftliche Betriebe**
 
-Den Bestimmungen des BGBB über landwirtschaftliche Gewerbe unterstehen landwirtschaftliche Ganzjahresbetriebe mit einer Gesamtheit von Grundstück, Bauten und Anlagen, für deren ortsübliche Bewirtschaftung mindestens 0.75 Standardarbeitskräfte nötig sind. Für die Berechnung der Betriebsgrösse nach Standardarbeitskräften gelten die Bestimmungen des Bundes.
+<sup>1</sup> Den Bestimmungen des BGBB über landwirtschaftliche Gewerbe unterstehen landwirtschaftliche Ganzjahresbetriebe mit einer Gesamtheit von Grundstück, Bauten und Anlagen, für deren ortsübliche Bewirtschaftung mindestens 0.75 Standardarbeitskräfte nötig sind. Für die Berechnung der Betriebsgrösse nach Standardarbeitskräften gelten die Bestimmungen des Bundes.
 
 #### Art. 10
 
 **Gebühren**
 
-Für amtliche Verrichtungen im Sinne des BGBB und dieses Gesetzes sowie für die Prüfung bzw. Erteilung entsprechender Bewilligungen werden Gebühren von minimal Fr. 50.— bis Fr. 6000.— entsprechend dem Aufwand erhoben.
+<sup>1</sup> Für amtliche Verrichtungen im Sinne des BGBB und dieses Gesetzes sowie für die Prüfung bzw. Erteilung entsprechender Bewilligungen werden Gebühren von minimal Fr. 50.-- bis Fr. 6'000.-- entsprechend dem Aufwand erhoben.
 
-### III. Rechtsmittel
+## III. Rechtsmittel
 
-#### Art. 112
+#### Art. 11
 
 **Rechtsmittel**
 
-Gegen Entscheide des Präsidenten des Bezirksgerichtes im Sinne von Art. 7 dieses Gesetzes kann innert 20 Tagen schriftlich und begründet beim Präsidenten des Kantonsgerichtes Beschwerde erhoben werden.
+<sup>1</sup> Gegen Entscheide des Präsidenten des Bezirksgerichtes im Sinne von Art. 7 dieses Gesetzes kann innert 20 Tagen schriftlich und begründet beim Präsidenten des Kantonsgerichtes Beschwerde erhoben werden.
 
-### IV. Schlussbestimmung
+## IV. Schlussbestimmung
 
-#### Art. 123
+#### Art. 12
 
-#### Art. 134
+**…**
+
+#### Art. 13
 
 **Inkrafttreten**
 
-Dieses Gesetz tritt nach Annahme durch die Landsgemeinde unter dem Vorbehalt der Genehmigung durch den Bund in Kraft.
+<sup>1</sup> Dieses Gesetz tritt nach Annahme durch die Landsgemeinde unter dem Vorbehalt der Genehmigung durch den Bund[^13-1] in Kraft.
 
-Vom Eidg. Justiz- und Polizeidepartement genehmigt am 6. Mai 1994.
+<sup>2</sup> …
 
-## Weitere Fussnoten
+[^13-1]: Vom Eidg. Justiz- und Polizeidepartement genehmigt am 6. Mai 1994.
 
-- [1] Mit Revisionen vom 30. April 2000, 27. April 2003, 24. April 2005, 30. April 2006, 26. April 2009 und 26. April 2015.
-- [2] Ingress abgeändert durch LdsgB vom 24. April 2005.
-- [3] Abgeändert durch LdsgB vom 24. April 2005.
-- [1] Angefügt (Abs. 3) durch LdsgB vom 27. April 2003. Neue Fassung durch LdsgB vom 24. April 2005.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [2] Abgeändert durch LdsgB vom 24. April 2005.
-- [3] Abgeändert durch LdsgB vom 24. April 2005 und 26. April 2015.
-- [4] Abgeändert durch LdsgB vom 24. April 2005.
-- [5] Abgeändert durch LdsgB vom 30. April 2006 (Inkrafttreten: 1. Januar 2007).
-- [6] Abgeändert durch LdsgB vom 24. April 2005.
-- [1] Neue Fassung durch LdsgB vom 24. April 2005. Abgeändert durch LdsgB vom 26. April 2009.
-- [2] Aufgehoben (Abs. 1) durch VerwVG vom 30. April 2000.
-- [3] Aufgehoben durch LdsgB vom 24. April 2005.
-- [4] Marginalie und bisheriger Abs. 1 abgeändert, Absatzzahl bei Abs. 1 und bisheriger Abs. 2 aufgehoben durch LdsgB vom 24. April 2005.
+cGS -
