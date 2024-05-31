@@ -4,13 +4,12 @@ number: "211.621"
 title: Standeskommissionsbeschluss über den Zugriff auf Grundbuchdaten
 short: StKB Grundbuchdaten
 language: de
-version: 2022-08-30
-valid_until: 2024-05-31
-version_adopted: 2022-08-30
+version: 2024-06-01
+version_adopted: 2023-09-26
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/211.621"
-pdf: "https://ai.clex.ch/api/de/versions/2091/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2091/pdf_file"
 
 (StKB Grundbuchdaten)
 
-vom 21.12.2021 (Stand 30.08.2022)
+vom 21.12.2021 (Stand 01.06.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 <sup>2</sup> Die zuständigen Stellen haben nur auf diejenigen Daten Zugriff, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
-<sup>3</sup> Der Umfang der Zugriffsrechte richtet sich nach den jeweiligen gesetzlichen Grundlagen. Das Grundbuch- und Erbschaftsamt Appenzell legt den Zugang für die berechtigten Personen anhand von Benutzerrollen fest und erlässt im Streitfall eine Verfügung.
+<sup>3</sup> Der Umfang der Zugriffsrechte richtet sich nach den jeweiligen gesetzlichen Grundlagen. Die für das Grundbuchwesen zuständige Stelle legt den Zugang für die berechtigten Personen anhand von Benutzerrollen fest und erlässt im Streitfall eine Verfügung.
 
 <sup>4</sup> Übernehmen Empfängerinnen und Empfänger Daten in eine Applikation oder Datenbank, dürfen diese Dritten nicht zugänglich gemacht werden, soweit die Gesetzgebung nicht etwas anderes bestimmt.
 
@@ -45,7 +44,7 @@ beschliesst:
 
 <sup>1</sup> Mit der Einrichtung des Zugangs werden Benutzerkonten vergeben. Diese lauten auf natürliche Personen und dürfen nur von diesen genutzt werden.
 
-<sup>2</sup> Das Grundbuch- und Erbschaftsamt Appenzell führt ein Verzeichnis, aus dem ersichtlich ist, welche Benutzerinnen und Benutzer über welche Einsichtsrechte verfügen. Die Angaben über ausgeschiedene Benutzerinnen und Benutzer sind während mindestens zwei Jahren aufzubewahren.
+<sup>2</sup> Die für das Grundbuchwesen zuständige Stelle führt ein Verzeichnis, aus dem ersichtlich ist, welche Benutzerinnen und Benutzer über welche Einsichtsrechte verfügen. Die Angaben über ausgeschiedene Benutzerinnen und Benutzer sind während mindestens zwei Jahren aufzubewahren.
 
 #### Art. 3
 
@@ -56,8 +55,8 @@ beschliesst:
 - a) Amt für Geoinformation
 - b) Bauverwaltung Inneres Land AI
 - c) Bauverwaltung Oberegg
-- d) Betreibungs- und Konkursamt Appenzell
-- e) Betreibungsamt Oberegg
+- d) Betreibungs- und Konkursamt
+- e) …
 - f) Bodenrechtskommission
 - g) Meliorationsamt
 - h) Schätzungskommission für Bodenmehrwert
@@ -76,7 +75,7 @@ beschliesst:
 
 **Meldung von Handänderungen**
 
-<sup>1</sup> Die für das Grundbuch zuständigen Stellen melden erfolgte Handänderungen ohne Angabe des Kaufpreises an folgende Stellen:
+<sup>1</sup> Die für das Grundbuchwesen zuständige Stelle meldet erfolgte Handänderungen ohne Angabe des Kaufpreises an folgende Stellen:
 
 - a) Amt für Geoinformation
 - b) kantonaler Ingenieur-Geometer
@@ -93,7 +92,7 @@ beschliesst:
 
 **Meldepflicht bei Änderungen**
 
-<sup>1</sup> Die zugriffsberechtigten Stellen melden dem Grundbuch- und Erbschaftsamt Appenzell umgehend Änderungen wie Austritte von Benutzerinnen und Benutzern.
+<sup>1</sup> Die zugriffsberechtigten Stellen melden der für das Grundbuchwesen zuständigen Stelle umgehend Änderungen wie Austritte von Benutzerinnen und Benutzern.
 
 #### Art. 7
 
