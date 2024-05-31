@@ -4,13 +4,13 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2024-01-01
-valid_until: 2024-05-31
-version_adopted: 2023-12-14
+version: 2024-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-21
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/3839/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3914/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3839/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 01.01.2024)
+Vom 21.11.1994 (Stand 01.06.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -970,11 +970,15 @@ beschliesst:
 
 <sup>1</sup> Das Protokoll soll unter Hinweis auf die Akten der beratenen Geschäfte die Hauptgesichtspunkte der Diskussionsvoten, die Anträge, die Abstimmungs- und Wahlergebnisse, die Beschlüsse sowie die Mitteilungen des Landratspräsidiums enthalten.
 
-<sup>2</sup> Der Landrat kann die vollständige Ton-Aufzeichnung der Verhandlungen beschliessen.
+<sup>2</sup> Von den Verhandlungen werden Ton- und Bildaufzeichnungen angefertigt, gespeichert, öffentlich zugänglich gemacht und archiviert. Massgebend ist die schriftliche Fassung des Protokolls gemäss Abs. 1.
+
+<sup>2<sup>bis</sup></sup> Zur Wahrung schützenswerter Interessen gemäss § 55 Abs. 2 des Landratsgesetzes[^83-1] kann im Einzelfall von einer Veröffentlichung der Aufzeichnungen abgesehen werden.
 
 <sup>3</sup> Das Protokoll wird in der Regel vor der nächsten Landratssitzung veröffentlicht. Einsprachen sind unverzüglich bei der Geschäftsleitung einzureichen. Wenn die Geschäftsleitung einen Änderungsantrag abgelehnt hat, so hat sie den Antragsteller oder die Antragstellerin davon zu unterrichten.
 
 <sup>4</sup> Der Antragsteller oder die Antragstellerin kann den Entscheid der Geschäftsleitung innert 5 Tagen seit Bekanntgabe beim Landrat anfechten.
+
+[^83-1]: [SGS 131](https://bl.clex.ch/data/131/de/art55)
 
 ### 5.3 Abstimmungen
 
