@@ -3,20 +3,20 @@ canton: SG
 number: "145.2"
 title: "Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung)"
 language: de
-version: 2020-01-01
-valid_until: 2024-05-31
-version_adopted: 2019-04-02
+version: 2024-06-01
+valid_until: 2024-12-31
+version_adopted: 2023-03-21
 adopted: 2015-10-06
 in_force: 2016-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/145.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2841/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung)
 
-vom 06.10.2015 (Stand 01.01.2020)
+vom 06.10.2015 (Stand 01.06.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -34,7 +34,13 @@ als Verordnung:[^ingress-1]
 
 <sup>1</sup> Die Bestimmungen über Höhe und Ausrichtung von Vergütungen nach Abschnitt II dieses Erlasses gelten für Mitglieder oberster Leitungsorgane der selbständigen öffentlich-rechtlichen Anstalten nach Anhang 1 zu diesem Erlass.
 
-<sup>2</sup> Die Bestimmungen über die Ablieferungspflicht von Vergütungen nach Abschnitt III dieses Erlasses gelten für von der Regierung oder dem Kantonsrat gewählte Mitglieder der Organe von Organisationen mit kantonaler Beteiligung, die nach Art. 2 des Personalgesetzes vom 25. Januar 2011[^1-1] dem kantonalen Personalrecht unterstehen und eine Vergütung erhalten.
+<sup>2</sup> Die Bestimmungen über die Ablieferungspflicht von Vergütungen nach Abschnitt III dieses Erlasses gelten für Mitglieder der Organe von Organisationen mit kantonaler Beteiligung, die:
+
+- a) nach Art. 2 des Personalgesetzes vom 25. Januar 2011[^1-1] dem kantonalen Personalrecht unterstehen und eine Vergütung erhalten und
+- b) gewählt oder mandatiert werden:
+  - 1\. vom Kantonsrat oder
+  - 2\. von der Regierung oder
+  - 3\. von einer der Regierung nachgeordneten Behörde oder Dienststelle.
 
 [^1-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
