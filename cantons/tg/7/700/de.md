@@ -4,13 +4,12 @@ number: "700"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2022-04-01
-valid_until: 2024-05-31
-version_adopted: 2021-12-08
+version: 2024-06-01
+version_adopted: 2024-01-24
 adopted: 2011-12-21
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2484/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ PBG
 
 (PBG)
 
-vom 21.12.2011 (Stand 01.04.2022)
+vom 21.12.2011 (Stand 01.06.2024)
 
 ## 1. Teil: Allgemeine Bestimmungen
 
@@ -197,23 +196,23 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Das Baureglement ordnet das Bauwesen in der Gemeinde. Nebst dem Zonenzweck sind, abgestimmt auf die einzelnen Nutzungszonen und soweit erforderlich, insbesondere zu regeln:
 
-- 1\. Nutzungsziffern;
-- 1a. Bestimmungen über eine Mindestausnützung;
-- 2\. minimale Bebauungsvorschriften;
-- 3\. Nutzungsanteile;
-- 4\. Lärmempfindlichkeitsstufen;
-- 5\. Grenzabstände für Bauten und Anlagen;
-- 6\. Gebäudeabstand;
-- 7\. Gebäudelängen und -breiten;
-- 8\. Höhenmasse der Bauten und Anlagen;
-- 9\. Anforderungen an die Erstellung von höheren Häusern und Hochhäusern;
-- 10\. Bauweise;
-- 11\. Gestaltung und Einordnung der Bauten und Anlagen;
-- 12\. Umgebungsgestaltung;
-- 13\. technische Anforderungen;
-- 14\. Spiel- und Freizeitanlagen;
-- 15\. Parkfelder und Abstellflächen;
-- 16\. Schutzmassnahmen für Gebiete in Gefahrenzonen.
+- 1\. Nutzungsziffern
+- 1a. Bestimmungen über eine Mindestausnützung
+- 2\. minimale Bebauungsvorschriften
+- 3\. Nutzungsanteile
+- 4\. Lärmempfindlichkeitsstufen
+- 5\. Grenzabstände für Bauten und Anlagen
+- 6\. Gebäudeabstand
+- 7\. Gebäudelängen und -breiten
+- 8\. Höhenmasse der Bauten und Anlagen
+- 9\. Anforderungen an die Erstellung von höheren Häusern und Hochhäusern
+- 10\. Bauweise
+- 11\. Gestaltung und Einordnung der Bauten und Anlagen
+- 12\. Umgebungsgestaltung
+- 13\. technische Anforderungen
+- 14\. Spiel- und Freizeitanlagen
+- 15\. Parkfelder und Abstellflächen
+- 16\. Schutzmassnahmen für Gebiete in Gefahrenzonen
 
 <sup>2</sup> Zur Förderung energieeffizienten Bauens bestimmt der Regierungsrat Zuschläge auf die von den Gemeinden festgelegten Nutzungsziffern.
 
@@ -277,22 +276,22 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Der Gestaltungsplan legt den Perimeter der einbezogenen Grundstücke fest und regelt soweit erforderlich:
 
-- 1\. die Erschliessung;
-- 2\. Lage, Grösse und Gestaltung der Bauten und Anlagen sowie Art und Mass ihrer Nutzung;
-- 3\. die Reihenfolge der Verwirklichung von Bauten und Anlagen;
-- 4\. die Bauweise;
-- 5\. Standort, Art und Grösse von Gemeinschaftsanlagen;
-- 6\. Grünflächen, Bepflanzungen, Ruheplätze, Spielplätze, Freizeitflächen, Parkfelder sowie Garagen;
-- 7\. technische und funktionelle Anforderungen, insbesondere die energietechnischen Standards von Bauten und Anlagen wie Minergie oder Minergie-P;
-- 8\. Massnahmen zum Schutz von Kultur- oder Naturobjekten;
-- 9\. bauliche und gestalterische Massnahmen zur Bekämpfung von Emissionen oder Immissionen;
-- 10\. Massnahmen zur sparsamen Nutzung der Energie;
-- 11\. Massnahmen zur Förderung erneuerbarer Energien;
-- 12\. Massnahmen zur Verteilung der Energie wie Fernwärme oder Gas;
-- 13\. die Folgegestaltung bei Abbau- oder Deponiezonen;
-- 14\. Massnahmen gegen Naturgefahren;
-- 15\. Veränderungen eines Flusses oder Baches in Lage oder Höhe;
-- 16\. weitere Inhalte, sofern alle Eigentümer der einbezogenen Grundstücke zustimmen.
+- 1\. die Erschliessung
+- 2\. Lage, Grösse und Gestaltung der Bauten und Anlagen sowie Art und Mass ihrer Nutzung
+- 3\. die Reihenfolge der Verwirklichung von Bauten und Anlagen
+- 4\. die Bauweise
+- 5\. Standort, Art und Grösse von Gemeinschaftsanlagen
+- 6\. Grünflächen, Bepflanzungen, Ruheplätze, Spielplätze, Freizeitflächen, Parkfelder sowie Garagen
+- 7\. technische und funktionelle Anforderungen, insbesondere die energietechnischen Standards von Bauten und Anlagen wie Minergie oder Minergie-P
+- 8\. Massnahmen zum Schutz von Kultur- oder Naturobjekten
+- 9\. bauliche und gestalterische Massnahmen zur Bekämpfung von Emissionen oder Immissionen
+- 10\. Massnahmen zur sparsamen Nutzung der Energie
+- 11\. Massnahmen zur Förderung erneuerbarer Energien
+- 12\. Massnahmen zur Verteilung der Energie wie Fernwärme oder Gas
+- 13\. die Folgegestaltung bei Abbau- oder Deponiezonen
+- 14\. Massnahmen gegen Naturgefahren
+- 15\. Veränderungen eines Flusses oder Baches in Lage oder Höhe
+- 16\. weitere Inhalte, sofern alle Eigentümer der einbezogenen Grundstücke zustimmen
 
 <sup>2</sup> Von der Regelbauweise kann abgewichen werden, wenn dadurch gesamthaft eine bessere Siedlungsgestaltung erzielt wird und diese im öffentlichen Interesse liegt.
 
@@ -308,13 +307,13 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Die Gemeindebehörde kann insbesondere in folgenden Fällen Baulinien festlegen:
 
-- 1\. zur Sicherung von Strassen, Wegen, Plätzen, Geleisen oder Leitungen;
-- 2\. zur Gestaltung von Ortsbildern, Quartieren oder Aussenräumen;
-- 3\. zur Freihaltung von Arealen für öffentliche Bauten und Anlagen;
-- 4\. für unterirdische Bauten oder einzelne Stockwerke;
-- 5\. zur Sicherung des Raumes bei Arkaden, Durchgängen, Unter- oder Überführungen;
-- 6\. entlang von Gewässern, Wald oder Ufergehölzen;
-- 7\. zum Schutz von Personen und Sachen gegen schädliche oder lästige Einwirkungen und gegen Naturgefahren.
+- 1\. zur Sicherung von Strassen, Wegen, Plätzen, Geleisen oder Leitungen
+- 2\. zur Gestaltung von Ortsbildern, Quartieren oder Aussenräumen
+- 3\. zur Freihaltung von Arealen für öffentliche Bauten und Anlagen
+- 4\. für unterirdische Bauten oder einzelne Stockwerke
+- 5\. zur Sicherung des Raumes bei Arkaden, Durchgängen, Unter- oder Überführungen
+- 6\. entlang von Gewässern, Wald oder Ufergehölzen
+- 7\. zum Schutz von Personen und Sachen gegen schädliche oder lästige Einwirkungen und gegen Naturgefahren
 
 <sup>3</sup> Baulinien treten an Stelle der generellen Abstandsvorschriften. Der Rahmennutzungs- oder Sondernutzungsplan bestimmt die Art der Baulinien.
 
@@ -366,10 +365,10 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Die Publikation enthält:
 
-- 1\. den Namen der Gemeinde, in welcher der Plan aufgelegt wird, die Art des Plans und das vom Plan betroffene Gebiet;
-- 2\. den Ort, den Beginn und das Ende der Auflage;
-- 3\. den Hinweis auf das Recht zur Einsprache während der Auflage;
-- 4\. bei Planungszonen zusätzlich die Geltungsdauer und das planerische Ziel.
+- 1\. den Namen der Gemeinde, in welcher der Plan aufgelegt wird, die Art des Plans und das vom Plan betroffene Gebiet
+- 2\. den Ort, den Beginn und das Ende der Auflage
+- 3\. den Hinweis auf das Recht zur Einsprache während der Auflage
+- 4\. bei Planungszonen zusätzlich die Geltungsdauer und das planerische Ziel
 
 <sup>3</sup> Die Publikation ist der für die Führung des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen zuständigen kantonalen Stelle zu melden.
 
@@ -431,6 +430,34 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Die Erschliessung umfasst Verkehrsanlagen, Werkleitungen für die Wasser- und Elektrizitätsversorgung sowie die Abwasserbeseitigung und zugehörige zentrale Anlagen.
 
+#### § 36a
+
+**Gesetzliches Vorkaufsrecht**
+
+<sup>1</sup> Bei einem Verkauf von Erschliessungsanlagen, von Anteilen eines Versorgungsbetriebs mit Erschliessungsanlagen oder bei der Übernahme eines Betriebs mit Erschliessungsanlagen haben die durch diese Anlagen versorgten Gemeinden, der Kanton sowie die von ihnen kontrollierten Institutionen, in dieser Reihenfolge, ein gesetzliches Vorkaufsrecht.
+
+<sup>2</sup> Das Vorkaufsrecht kann auch bei jedem anderen Rechtsgeschäft, das wirtschaftlich einem Verkauf gleichkommt (Vorkaufsfall), geltend gemacht werden. Es kann auch bei der Zwangsversteigerung ausgeübt werden, aber nur an der Steigerung selbst und zu den Bedingungen, zu welchen der Betrieb oder der Anteil dem Ersteigerer zugeschlagen wird.
+
+<sup>3</sup> Das Vorkaufsrecht des Kantons und der von ihm kontrollierten Institutionen geht bei elektrischen Erschliessungsanlagen der Netzebenen 4 und 5A den anderen Vorkaufsrechten vor.
+
+<sup>4</sup> Das Vorkaufsrecht kommt nicht zur Anwendung bei Rechtsgeschäften zwischen öffentlich-rechtlichen Körperschaften und Anstalten sowie durch vom Staat kontrollierte Institutionen und bei bestehenden Heimfallsrechten.
+
+#### § 36b
+
+**Verfahrensbestimmungen für das gesetzliche Vorkaufsrecht**
+
+<sup>1</sup> Wer das Vorkaufsrecht ausüben will, muss dieses innert drei Monaten seit Kenntnis vom Abschluss und vom Inhalt des Veräusserungsgeschäfts geltend machen. Für die vom Kanton und den Gemeinden kontrollierten vorkaufsberechtigten Institutionen beginnt die Frist mit dem Zugang der Mitteilung nach Abs. 3 beim Kanton oder bei der betreffenden Gemeinde.
+
+<sup>2</sup> Stehen Vorkaufsberechtigte in direkter Konkurrenz und kommt unter ihnen keine Einigung zustande, entscheidet das in der Sache zuständige Departement nach Massgabe der objektiven Eignung, wem das Vorkaufsrecht zusteht.
+
+<sup>3</sup> Bei einem Verkauf gemäss § 36a Abs. 1 setzt der Veräusserer den Kanton und die betroffenen Gemeinden über den Abschluss und den Inhalt des Veräusserungsgeschäfts in Kenntnis. Der Kanton und die betroffenen Gemeinden informieren die von ihnen kontrollierten Institutionen über den Abschluss und den Inhalt des Veräusserungsgeschäfts.
+
+<sup>4</sup> Untersteht die Ausübung des Vorkaufsrechts dem fakultativen oder obligatorischen Referendum, muss die Abstimmung innerhalb eines Jahres nach Geltendmachung des Anspruchs durchgeführt werden. Läuft diese Frist ungenutzt ab oder lehnen die Stimmberechtigten die Ausübung des Vorkaufsrechts ab, gilt das Vorkaufsrecht als nicht ausgeübt.
+
+<sup>5</sup> Im Übrigen sind Art. 680 bis Art. 681b des Schweizerischen Zivilgesetzbuchs (ZGB)[^36b-1] sinngemäss anwendbar.
+
+[^36b-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
 #### § 37
 
 **Gebundene Ausgaben**
@@ -483,7 +510,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 **Verjährung**
 
-<sup>1</sup> Die Veranlagungs- und die Bezugsverjährung von Beiträgen und Gebühren betragen fünf Jahre. Im Übrigen gelten § 152 und § 153 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz)[^42-1] sinngemäss.
+<sup>1</sup> Die Veranlagungs- und die Bezugsverjährung von Beiträgen und Gebühren betragen fünf Jahre. Im Übrigen gelten § 152 und § 153 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz; StG)[^42-1] sinngemäss.
 
 <sup>2</sup> Während der Stundung steht die Verjährung still.
 
@@ -507,10 +534,10 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Die Gemeindebehörde erstellt den Kostenverteiler. Dieser enthält:
 
-- 1\. die Bezeichnung der Grundstücke, die durch das Werk erschlossen werden;
-- 2\. das Verzeichnis der Eigentümer;
-- 3\. die prozentuale Überwälzung der Gesamtkosten auf die Grundeigentümer;
-- 4\. die mutmassliche Höhe der gemäss Kostenvoranschlag zu erwartenden Beiträge.
+- 1\. die Bezeichnung der Grundstücke, die durch das Werk erschlossen werden
+- 2\. das Verzeichnis der Eigentümer
+- 3\. die prozentuale Überwälzung der Gesamtkosten auf die Grundeigentümer
+- 4\. die mutmassliche Höhe der gemäss Kostenvoranschlag zu erwartenden Beiträge
 
 <sup>2</sup> Wo für die Festsetzung der Beiträge feste Ansätze gelten, entfallen die Angaben gemäss Ziff. 3 und Ziff. 4.
 
@@ -612,7 +639,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 **Amtliche Schätzung**
 
-<sup>1</sup> Erfolgt die Neuzuteilung ganz oder teilweise nach dem Verhältnis der Werte und können sich die Beteiligten nicht darüber einigen, lässt die Gemeindebehörde eine amtliche Schätzung gemäss der Verordnung des Regierungsrates über die Steuerschätzung von Grundstücken (Schätzungsverordnung)[^56-1] vornehmen.
+<sup>1</sup> Erfolgt die Neuzuteilung ganz oder teilweise nach dem Verhältnis der Werte und können sich die Beteiligten nicht darüber einigen, lässt die Gemeindebehörde eine amtliche Schätzung gemäss der Grundstückschätzungsverordnung (SchäV)[^56-1] vornehmen.
 
 <sup>2</sup> Massgebend für die Schätzung ist der Verkehrswert der Grundstücke zum Zeitpunkt des Beschlusses über die Durchführung der Landumlegung.
 
@@ -624,9 +651,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Mit der Neuzuteilung sind Dienstbarkeiten, Grundlasten sowie Vor- und Anmerkungen zu bereinigen und den neuen Verhältnissen anzupassen.
 
-<sup>2</sup> Für die Ordnung der Grundpfandverhältnisse sind Art. 802 bis Art. 804 des Schweizerischen Zivilgesetzbuches (ZGB)[^57-1] massgebend.
-
-[^57-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+<sup>2</sup> Für die Ordnung der Grundpfandverhältnisse sind Art. 802 bis Art. 804 ZGB massgebend.
 
 #### § 58
 
@@ -658,10 +683,10 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Zu Lasten des Unternehmens fallen:
 
-- 1\. die Kosten des für öffentliche Zwecke beanspruchten Landes;
-- 2\. die Kostenbeiträge und Entschädigungen;
-- 3\. die Kosten der Lastenbereinigung;
-- 4\. die Kosten des Verfahrens.
+- 1\. die Kosten des für öffentliche Zwecke beanspruchten Landes
+- 2\. die Kostenbeiträge und Entschädigungen
+- 3\. die Kosten der Lastenbereinigung
+- 4\. die Kosten des Verfahrens
 
 <sup>2</sup> Die Aufwendungen sind auf die betroffenen Grundstücke entsprechend der Fläche oder dem Wert aufgrund der Neuzuteilung zu verlegen.
 
@@ -689,9 +714,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Der Bodenmehrwert bemisst sich nach der Differenz zwischen den Verkehrswerten unmittelbar vor und nach der rechtskräftigen Zuweisung zu einer Bauzone.
 
-<sup>3</sup> Er wird durch eine amtliche Liegenschaftenschätzung gemäss Schätzungsverordnung[^64-1] bestimmt.
-
-[^64-1]: RB [640.12](https://www.rechtsbuch.tg.ch/data/640.12/de)
+<sup>3</sup> Er wird durch eine amtliche Liegenschaftenschätzung gemäss Grundstückschätzungsverordnung bestimmt.
 
 #### § 65
 
@@ -701,9 +724,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Sie entsteht zum Zeitpunkt der Rechtskraft der Zuweisung gemäss § 63, wird durch die Steuerverwaltung veranlagt und beim Grundeigentümer erhoben. Die Abgabe wird bei Handänderung oder mit Rechtskraft des Erschliessungsprojekts oder mit Rechtskraft der Baubewilligung fällig. Die Gemeindebehörde teilt der Steuerbehörde diesen Zeitpunkt mit.
 
-<sup>3</sup> Das Verfahren richtet sich sinngemäss nach den Vorschriften des Steuergesetzes[^65-1].
-
-[^65-1]: RB [640.1](https://www.rechtsbuch.tg.ch/data/640.1/de)
+<sup>3</sup> Das Verfahren richtet sich sinngemäss nach den Vorschriften des Steuergesetzes.
 
 #### § 66
 
@@ -717,8 +738,8 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Auf begründetes Gesuch hin kann die Steuerverwaltung Abgabepflichtigen eine Stundung bis zu acht Jahren gewähren:
 
-- 1\. sofern es ihnen ohne erhebliche Beeinträchtigung ihrer wirtschaftlichen Lage nicht möglich ist, ihren Verpflichtungen sofort nachzukommen;
-- 2\. bei Zuweisung von Grundstücken zu strategischen Arbeitszonen.
+- 1\. sofern es ihnen ohne erhebliche Beeinträchtigung ihrer wirtschaftlichen Lage nicht möglich ist, ihren Verpflichtungen sofort nachzukommen
+- 2\. bei Zuweisung von Grundstücken zu strategischen Arbeitszonen
 
 <sup>2</sup> Bei Handänderung oder mit der Baubewilligung für das betreffende Grundstück fällt die Stundung dahin.
 
@@ -764,10 +785,10 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 **Baureife**
 
-<sup>1</sup> Neubauten dürfen nur auf baureifen Grundstücken erstellt werden. Ein Grundstück ist baureif, wenn:
+<sup>1</sup> Neubauten dürfen nur auf baureifen Grundstücken erstellt werden. Ein Grundstück ist baureif, wenn
 
-- 1\. es erschlossen ist;
-- 2\. es nach Lage, Grösse, Form und Beschaffenheit für die zonengemässe Bebauung geeignet ist;
+- 1\. es erschlossen ist,
+- 2\. es nach Lage, Grösse, Form und Beschaffenheit für die zonengemässe Bebauung geeignet ist,
 - 3\. eine allenfalls nötige Landumlegung oder Grenzbereinigung erfolgt ist und
 - 4\. wo nötig, ein Sondernutzungsplan vorliegt. Einzelne Baubewilligungen können jedoch erteilt werden, sofern sie die Planung nicht präjudizieren.
 
@@ -913,9 +934,9 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>2</sup> Die Gemeinde kann diese Pflicht in der Bau- und Nutzungsordnung für bestimmte Gebiete ganz oder teilweise aufheben oder die Erstellung von Parkfeldern in bestimmten Gebieten ganz oder teilweise untersagen:
 
-- 1\. sofern das Strassennetz den durch die Erstellung von Parkfeldern verursachten zusätzlichen Verkehr nicht aufzunehmen vermag;
-- 2\. in grösseren Zentren oder in stark verkehrsbelasteten Gebieten;
-- 3\. aus Gründen des Ortsbildschutzes.
+- 1\. sofern das Strassennetz den durch die Erstellung von Parkfeldern verursachten zusätzlichen Verkehr nicht aufzunehmen vermag
+- 2\. in grösseren Zentren oder in stark verkehrsbelasteten Gebieten
+- 3\. aus Gründen des Ortsbildschutzes
 
 <sup>3</sup> Die Gemeindebehörde kann diese Pflicht im Einzelfall ganz oder teilweise aufheben, sofern wichtige öffentliche Interessen, namentlich des Umwelt- und Ortsbildschutzes, der inneren Verdichtung oder der Verkehrssicherheit entgegenstehen oder der Aufwand für die Erstellung der Parkfelder unzumutbar ist.
 
@@ -955,10 +976,10 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Sofern keine öffentlichen Interessen verletzt werden, kann die Gemeindebehörde nach Abwägung der beteiligten privaten Interessen Ausnahmen von kommunalen Vorschriften oder Plänen bewilligen:
 
-- 1\. bei ausserordentlichen Verhältnissen, insbesondere wenn eine unzumutbare Härte, eine unverhältnismässige Erschwernis oder ein sinnwidriges Ergebnis entstünde oder wenn durch die Abweichung eine bessere Lösung im Sinne der Raumplanung erreicht werden kann;
-- 2\. für Bauten und Anlagen zur Erfüllung gesetzlicher Aufgaben oder Vorschriften;
-- 3\. für befristete Bauten und Anlagen;
-- 4\. in Dorf- und Kernzonen zum Schutze des Ortsbildes und zur Siedlungserneuerung, sofern das Baureglement dies vorsieht.
+- 1\. bei ausserordentlichen Verhältnissen, insbesondere wenn eine unzumutbare Härte, eine unverhältnismässige Erschwernis oder ein sinnwidriges Ergebnis entstünde oder wenn durch die Abweichung eine bessere Lösung im Sinne der Raumplanung erreicht werden kann
+- 2\. für Bauten und Anlagen zur Erfüllung gesetzlicher Aufgaben oder Vorschriften
+- 3\. für befristete Bauten und Anlagen
+- 4\. in Dorf- und Kernzonen zum Schutze des Ortsbildes und zur Siedlungserneuerung, sofern das Baureglement dies vorsieht
 
 <sup>2</sup> Bewilligt die Gemeindebehörde Ausnahmen vom kommunalen Recht und ist in der Publikation nicht darauf hingewiesen worden, ist die Baubewilligung auch den Anstössern zu eröffnen.
 
@@ -966,9 +987,7 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 **Ausnahmen vom kantonalen Recht**
 
-<sup>1</sup> Das Unterschreiten der Abstände gemäss § 75 und § 76 kann im Einzelfall mit Zustimmung des Kantons bewilligt werden, sofern es sich hierbei nicht um Gewässerraumlinien gemäss § 34 WBSNG[^93-1] handelt und keine erheblichen öffentlichen Interessen entgegenstehen.
-
-[^93-1]: RB [721.1](https://www.rechtsbuch.tg.ch/data/721.1/de)
+<sup>1</sup> Das Unterschreiten der Abstände gemäss § 75 und § 76 kann im Einzelfall mit Zustimmung des Kantons bewilligt werden, sofern es sich hierbei nicht um Gewässerraumlinien gemäss § 34 WBSNG handelt und keine erheblichen öffentlichen Interessen entgegenstehen.
 
 ### 6.2.2. Besitzstandsgarantie
 
@@ -1020,16 +1039,16 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Einer Bewilligung bedürfen alle ober- oder unterirdischen Bauten und Anlagen, Kleinbauten, Neu- oder Umbauten, An- oder Unterniveaubauten sowie insbesondere:
 
-- 1\. provisorische Bauten und Anlagen;
-- 2\. Fahrnisbauten;
-- 3\. Zweckänderungen bewilligungspflichtiger Bauten und Anlagen;
-- 4\. bauliche Veränderungen von Fassaden oder Dachaufbauten;
-- 5\. der Abbruch von Gebäuden oder Gebäudeteilen;
-- 6\. eingreifende Terrainveränderungen;
-- 7\. der Abbau von Bodenschätzen;
-- 8\. Aussenantennen;
-- 9\. Reklameanlagen;
-- 10\. fest installierte Folientunnels.
+- 1\. provisorische Bauten und Anlagen
+- 2\. Fahrnisbauten
+- 3\. Zweckänderungen bewilligungspflichtiger Bauten und Anlagen
+- 4\. bauliche Veränderungen von Fassaden oder Dachaufbauten
+- 5\. der Abbruch von Gebäuden oder Gebäudeteilen
+- 6\. eingreifende Terrainveränderungen
+- 7\. der Abbau von Bodenschätzen
+- 8\. Aussenantennen
+- 9\. Reklameanlagen
+- 10\. fest installierte Folientunnels
 
 #### § 99
 
@@ -1037,18 +1056,18 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Sofern die baupolizeilichen und übrigen öffentlich-rechtlichen Vorschriften eingehalten sind, bedürfen in der Bauzone keiner Bewilligung gemäss § 98:
 
-- 1\. Mauern und Wände unter 1 m Höhe und mit einer Länge von maximal 25 m;
-- 2\. Terrainveränderungen von weniger als 0.70 m Höhe und 200 m² Fläche;
-- 3\. Gerätehäuschen mit einer Grundfläche von weniger als 9 m² und einer Gesamthöhe von maximal 2.20 m;
-- 4\. fest installierte Spielgeräte im Freien, die nicht zu einem bewilligungspflichtigen Spielplatz gehören;
-- 5\. Verteilkabinen mit einer Höhe von maximal 1.50 m und einer Breite von maximal 2.00 m;
-- 6\. Farbanstriche ausserhalb von Ortsbild-, Dorf- und Kernzonen sowie von nicht unter Schutz gestellten Objekten;
-- 7\. Anlagen zur Gewinnung von Solarenergie bis zu einer Fläche von 35 m², ausgenommen an Kultur- und Naturdenkmälern gemäss Art. 18a des Bundesgesetzes über die Raumplanung (RPG)[^99-1];
-- 8\. Aussenantennen für den Empfang;
-- 9\. unbeleuchtete Eigenreklameanlagen mit einer Fläche bis zu 1.00 m²;
-- 10\. geringfügige Änderungen an Fassaden und im Innern bestehender Gebäude;
-- 11\. Fahrnisbauten bis zu einer Standdauer von insgesamt 90 Tagen pro Kalenderjahr und über den Jahreswechsel nicht länger als drei Monate am Stück. Bei einer Standdauer von mehr als 14 Tagen ist das Vorhaben bis spätestens 14 Tage vor Errichtung der Gemeindebehörde anzuzeigen;
-- 12\. das Abstellen von einzelnen Wohnwagen und Booten bis zu einer Dauer von sechs Monaten, sofern die Nachbarschaft nicht übermässig beeinträchtigt wird.
+- 1\. Mauern und Wände unter 1 m Höhe und mit einer Länge von maximal 25 m
+- 2\. Terrainveränderungen von weniger als 0.70 m Höhe und 200 m² Fläche
+- 3\. Gerätehäuschen mit einer Grundfläche von weniger als 9 m² und einer Gesamthöhe von maximal 2.20 m
+- 4\. fest installierte Spielgeräte im Freien, die nicht zu einem bewilligungspflichtigen Spielplatz gehören
+- 5\. Verteilkabinen mit einer Höhe von maximal 1.50 m und einer Breite von maximal 2.00 m
+- 6\. Farbanstriche ausserhalb von Ortsbild-, Dorf- und Kernzonen sowie von nicht unter Schutz gestellten Objekten
+- 7\. Anlagen zur Gewinnung von Solarenergie bis zu einer Fläche von 35 m², ausgenommen an Kultur- und Naturdenkmälern gemäss Art. 18a des Bundesgesetzes über die Raumplanung (RPG)[^99-1]
+- 8\. Aussenantennen für den Empfang
+- 9\. unbeleuchtete Eigenreklameanlagen mit einer Fläche bis zu 1.00 m²
+- 10\. geringfügige Änderungen an Fassaden und im Innern bestehender Gebäude
+- 11\. Fahrnisbauten bis zu einer Standdauer von insgesamt 90 Tagen pro Kalenderjahr und über den Jahreswechsel nicht länger als drei Monate am Stück. Bei einer Standdauer von mehr als 14 Tagen ist das Vorhaben bis spätestens 14 Tage vor Errichtung der Gemeindebehörde anzuzeigen
+- 12\. das Abstellen von einzelnen Wohnwagen und Booten bis zu einer Dauer von sechs Monaten, sofern die Nachbarschaft nicht übermässig beeinträchtigt wird
 
 <sup>2</sup> Bestehen Anzeichen dafür, dass keine baubewilligungsfreie Baute gemäss Abs. 1 erstellt wird, verlangt die Gemeindebehörde die Einreichung eines Baugesuchs.
 
@@ -1096,15 +1115,13 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 **Privatrechtliche Einsprachen gegen übermässige Einwirkungen**
 
-<sup>1</sup> Privatrechtliche Einsprachen gegen die Erstellung von Bauten und Anlagen sind, soweit der Tatbestand einer übermässigen Einwirkung auf fremdes Eigentum gemäss Art. 684 ZGB[^104-1] streitig ist, im öffentlich-rechtlichen Verfahren zu entscheiden.
+<sup>1</sup> Privatrechtliche Einsprachen gegen die Erstellung von Bauten und Anlagen sind, soweit der Tatbestand einer übermässigen Einwirkung auf fremdes Eigentum gemäss Art. 684 ZGB streitig ist, im öffentlich-rechtlichen Verfahren zu entscheiden.
 
 <sup>2</sup> Die zuständige Behörde beurteilt Einsprachen nach Abs. 1 gleichzeitig mit dem Entscheid über die Baubewilligung.
 
 <sup>3</sup> Im Rekurs- und Beschwerdeverfahren sind neue Rechtsbegehren, Behauptungen und Beweisanträge zulässig, soweit sie den Tatbestand einer übermässigen Einwirkung betreffen. Auf Begehren einer Partei hat das Verwaltungsgericht eine mündliche Verhandlung durchzuführen.
 
 <sup>4</sup> Gegen die Entscheide des Verwaltungsgerichts über die Anwendung von Art. 684 ZGB sind die gleichen Rechtsmittel an das Bundesgericht zulässig, wie sie gegen kantonal letztinstanzliche Entscheidungen in anderen Zivilstreitigkeiten gegeben sind.
-
-[^104-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 105
 
@@ -1304,28 +1321,16 @@ vom 21.12.2011 (Stand 01.04.2022)
 
 <sup>1</sup> Vor Inkrafttreten dieses Gesetzes beschlossene Reglemente betreffend Ersatzabgaben für Spielplätze oder Freizeitflächen gemäss § 87 Abs. 2 und Parkfelder gemäss § 89 Abs. 3 sind innert drei Jahren dem Departement nachträglich zur Genehmigung einzureichen.
 
-### 8.2. Änderung und Aufhebung bisherigen Rechtes
+### 8.2.
 
-#### § 125
+#### § 125–126
 
-**...[^125-1]**
+**…**
 
-[^125-1]: Änderung bisherigen Rechtes, ABl. 2012, Seite 30 ff.
-
-#### § 126
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Das Planungs- und Baugesetz vom 16. August 1995 wird aufgehoben.
-
-### 8.3. Inkrafttreten
+### 8.3.
 
 #### § 127
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^127-1].
-
-[^127-1]: In Kraft gesetzt auf den 1. Januar 2013.
+**…**
 
 ABl. 1/2012
