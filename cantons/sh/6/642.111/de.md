@@ -4,24 +4,26 @@ number: "642.111"
 title: Verordnung zum Bundesgesetz über die direkte Bundessteuer
 language: de
 version: 2016-01-01
+corrected: 2024-06-03
 version_adopted: 2015-09-15
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/642.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/909/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/258/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung zum Bundesgesetz über die direkte Bundessteuer
 
-Vom 20.11.2007 (Stand 01.01.2016)
+vom 20. November 2007
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf das Bundesgesetz über die direkte Bundessteuer vom 14. Dezember 1990 (DBG),
 
-beschliesst:
+verordnet:
 
 #### § 1
 
@@ -29,19 +31,19 @@ beschliesst:
 
 <sup>1</sup> Die direkte Bundessteuer wird ab der Steuerperiode 2001 in Anwendung von Art. 41 und 208 ff. DBG erhoben.
 
-<sup>2</sup> Die im Durchschnitt der Jahre 1999 und 2000 angefallenen ausserordentlichen Aufwendungen werden nach Art. 218 Abs. 4 lit. a DBG von den für die Steuerperiode 1999–2000 zu Grunde gelegten steuerbaren Einkommen abgezogen. Bereits rechtskräftige Veranlagungen werden zu Gunsten der steuerpflichtigen Person revidiert.
+<sup>2</sup> Die im Durchschnitt der Jahre 1999 und 2000 angefallenen ausserordentlichen Aufwendungen werden nach Art. 218 Abs. 4 lit. a DBG von den für die Steuerperiode 1999-2000 zu Grunde gelegten steuerbaren Einkommen abgezogen. Bereits rechtskräftige Veranlagungen werden zu Gunsten der steuerpflichtigen Person revidiert.
 
 #### § 2
 
 **Organisation und Verfahren im Allgemeinen**
 
-<sup>1</sup> Soweit Organisation und Verfahren nicht durch das Bundesrecht und diese Verordnung geregelt sind, sind die für die kantonalen Steuern geltenden Bestimmungen sinngemäss anwendbar.
+Soweit Organisation und Verfahren nicht durch das Bundesrecht und diese Verordnung geregelt sind, sind die für die kantonalen Steuern geltenden Bestimmungen sinngemäss anwendbar.
 
 #### § 3
 
 **Kantonale Verwaltungsstelle für die direkte Bundessteuer**
 
-<sup>1</sup> Kantonale Verwaltungsstelle für die direkte Bundessteuer ist die kantonale Steuerverwaltung.
+Kantonale Verwaltungsstelle für die direkte Bundessteuer ist die kantonale Steuerverwaltung.
 
 #### § 4
 
@@ -49,13 +51,15 @@ beschliesst:
 
 <sup>1</sup> Soweit nichts anderes bestimmt ist, vollzieht die kantonale Steuerverwaltung das Bundesgesetz über die direkte Bundessteuer.
 
+Amtsblatt 2007, S. 1741
+
 <sup>2</sup> Die Gemeindesteuerverwaltungen wirken nach den Anweisungen der kantonalen Steuerverwaltung beim Vollzug mit.
 
 #### § 5
 
 **Amtshilfe**
 
-<sup>1</sup> Die Behörden des Kantons und der Schaffhauser Gemeinden sowie die Organe der Körperschaften und Anstalten im Kanton, die öffentliche Aufgaben wahrnehmen, gewähren die Amtshilfe nach Art. 112 DBG kostenlos.
+Die Behörden des Kantons und der Schaffhauser Gemeinden sowie die Organe der Körperschaften und Anstalten im Kanton, die öffentliche Aufgaben wahrnehmen, gewähren die Amtshilfe nach Art. 112 DBG kostenlos.
 
 #### § 6
 
@@ -79,7 +83,7 @@ beschliesst:
 
 **Verfahren bei den Quellensteuern**
 
-<sup>1</sup> Das Einsprache- und das Beschwerdeverfahren bei den Quellensteuern richtet sich nach den für die kantonalen Steuern massgebenden Bestimmungen.
+Das Einsprache- und das Beschwerdeverfahren bei den Quellensteuern richtet sich nach den für die kantonalen Steuern massgebenden Bestimmungen.
 
 #### § 9
 
@@ -93,35 +97,39 @@ beschliesst:
 
 **Steuerbezug**
 
-<sup>1</sup> Die Steuern der natürlichen und juristischen Personen werden jährlich bezogen.
+Die Steuern der natürlichen und juristischen Personen werden jährlich bezogen.
 
 #### § 11
 
 **Bekanntgabe der Fälligkeits- und Zahlungstermine**
 
-<sup>1</sup> Die kantonale Steuerverwaltung gibt die allgemeinen Fälligkeits- und Zahlungstermine durch Publikation im Amtsblatt bekannt.
+Die kantonale Steuerverwaltung gibt die allgemeinen Fälligkeits- und Zahlungstermine durch Publikation im Amtsblatt bekannt.
 
 #### § 12
 
 **Erlass**
 
-<sup>1</sup> …
+<sup>1</sup> …[^12-1]
 
-<sup>2</sup> Erlassbehörde ist das Finanzdepartement.
+<sup>2</sup> Erlassbehörde ist das Finanzdepartement.[^12-2]
 
-<sup>3</sup> Gegen den Entscheid des Finanzdepartementes kann beim Obergericht des Kantons Schaffhausen Verwaltungsgerichtsbeschwerde nach Art. 188 des Gesetzes über die direkten Steuern erhoben werden.
+<sup>3</sup> Gegen den Entscheid des Finanzdepartementes kann beim Obergericht des Kantons Schaffhausen Verwaltungsgerichtsbeschwerde nach Art. 188 des Gesetzes über die direkten Steuern erhoben werden.[^12-3]
+
+[^12-1]: Aufgehoben durch RRB vom 15. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1317).
+[^12-2]: Fassung gemäss RRB vom 15. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1317).
+[^12-3]: Eingefügt durch RRB vom 28. Oktober 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1607).
 
 #### § 13
 
 **Löschung im Handelsregister**
 
-<sup>1</sup> Das Handelsregisteramt gibt der kantonalen Steuerverwaltung von jeder Löschungsanmeldung einer juristischen Person Kenntnis.
+Das Handelsregisteramt gibt der kantonalen Steuerverwaltung von jeder Löschungsanmeldung einer juristischen Person Kenntnis.
 
 #### § 14
 
 **Eintrag im Grundbuch**
 
-<sup>1</sup> Das Grundbuchamt reicht der kantonalen Steuerverwaltung bei der Veräusserung eines Grundstückes einer in der Schweiz ausschliesslich aufgrund von Grundbesitz steuerpflichtigen Person vor dem Eintrag die Ausweise über den Rechtsgrund der Veräusserung ein.
+Das Grundbuchamt reicht der kantonalen Steuerverwaltung bei der Veräusserung eines Grundstückes einer in der Schweiz ausschliesslich aufgrund von Grundbesitz steuerpflichtigen Person vor dem Eintrag die Ausweise über den Rechtsgrund der Veräusserung ein.
 
 #### § 15
 
@@ -131,8 +139,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^15-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-<sup>3</sup> Die Verordnung vom 12. April 1983 über den Vollzug des Bundesratesbeschlusses vom 9. Dezember 1940 über die Erhebung einer direkten Bundessteuer (BdBSt) wird aufgehoben; sie bleibt anwendbar, soweit die Bestimmungen des BdBSt anwendbar bleiben.
+<sup>3</sup> Die Verordnung vom 12. April 1983 über den Vollzug des Bundesratesbeschlusses vom 9. Dezember 1940 über die Erhebung einer direkten Bundessteuer (BdBSt) wird aufgehoben; sie bleibt anwendbar, soweit die Bestimmungen des BdBSt anwendbar bleiben. Fussnoten:
 
 [^15-1]: Amtsblatt 2007, S. 1741.
-
-Abl. 2007, S. 1741
