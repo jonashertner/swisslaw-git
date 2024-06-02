@@ -5,28 +5,28 @@ title: Mehrwertausgleichsverordnung
 short: MAV
 language: de
 version: 2023-09-01
+corrected: 2024-06-03
 version_adopted: 2023-08-08
 adopted: 2023-08-08
 in_force: 2023-09-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.201"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/927/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/470/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Mehrwertausgleichsverordnung
+# Mehrwertausgleichsverordnung (MAV)
 
-(MAV)
-
-Vom 08.08.2023 (Stand 01.09.2023)
+vom 8. August 2023
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf das Mehrwertausgleichsgesetz vom 2. Juli 2018 (MAG),
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -40,7 +40,7 @@ beschliesst:
 
 **Verfahrensleitende Behörden**
 
-<sup>1</sup> Verfahrensleitende Behörde gemäss der vorliegenden Verordnung sind das kantonale Planungs- und Naturschutzamt sowie die zuständigen kommunalen Behörden.
+Verfahrensleitende Behörde gemäss der vorliegenden Verordnung sind das kantonale Planungs- und Naturschutzamt sowie die zuständigen kommunalen Behörden.
 
 #### § 3
 
@@ -50,7 +50,9 @@ beschliesst:
 
 <sup>2</sup> Den von der Planungsmassnahme betroffenen Grundeigentümerinnen und Grundeigentümern wird keine individuelle Mitteilung zugestellt.
 
-## 2 Bemessung des Bodenmehrwerts
+Amtsblatt 2023, S. 1372
+
+### II. Bemessung des Bodenmehrwerts
 
 #### § 4
 
@@ -72,24 +74,21 @@ beschliesst:
 
 **Unterstützung**
 
-<sup>1</sup> Alle Amtsstellen des Kantons und der Gemeinden haben dem Amt für Grundstückschätzungen auf Verlangen die für die Bewertung zweckdienlichen Unterlagen und Informationen zur Verfügung zu stellen.
+Alle Amtsstellen des Kantons und der Gemeinden haben dem Amt für Grundstückschätzungen auf Verlangen die für die Bewertung zweckdienlichen Unterlagen und Informationen zur Verfügung zu stellen.
 
 #### § 7
 
 **Verkehrswert**
 
-<sup>1</sup> Der Verkehrswert gemäss Art. 4 Abs. 2 MAG entspricht dem Marktwert am massgebenden Stichtag.
+Der Verkehrswert gemäss Art. 4 Abs. 2 MAG entspricht dem Marktwert am massgebenden Stichtag.
 
 #### § 8
 
 **Bewertungsgrundsätze**
 
-<sup>1</sup> Die Bewertung eines Grundstücks richtet sich:
+<sup>1</sup> Die Bewertung eines Grundstücks richtet sich a. nach den örtlichen Verhältnissen, insbesondere der Infrastruktur und den Verkehrsverhältnissen, sowie b. nach der Lage des Grundstücks, insbesondere seiner Erschliessung und Überbauungsmöglichkeit.
 
-- a) nach den örtlichen Verhältnissen, insbesondere der Infrastruktur und den Verkehrsverhältnissen sowie
-- b) nach der Lage des Grundstücks, insbesondere seiner Erschliessung und Überbauungsmöglichkeit
-
-<sup>2</sup> Für die Überbauungsmöglichkeit ist die höchstmögliche Ausnützung gemäss Bauordnung und Zonenplan massgebend; öffentlich-rechtliche Baubeschränkungen werden berücksichtigt.
+<sup>2</sup> Für die Überbauungsmöglichkeit ist die höchstmögliche Ausnützung gemäss Bauordnung und Zonenplan massgebend; öffentlichrechtliche Baubeschränkungen werden berücksichtigt.
 
 <sup>3</sup> Für die Bewertung eines Grundstücks wird eine anerkannte Bewertungsmethode angewendet.
 
@@ -103,8 +102,9 @@ beschliesst:
 
 <sup>3</sup> Als besondere Gründe gelten insbesondere:
 
-- a) verbesserte Nutzungsmöglichkeiten infolge von Quartierplänen
-- b) tatsächliche und öffentlich-rechtliche Eigenschaften des Grundstücks, die dazu führen, dass die durch die Planungsmassnahme verbesserten Nutzungsmöglichkeiten nicht ausgeschöpft werden können
+- a. verbesserte Nutzungsmöglichkeiten infolge von Quartierplänen,
+
+- b. tatsächliche und öffentlich-rechtliche Eigenschaften des Grundstücks, die dazu führen, dass die durch die Planungsmassnahme verbesserten Nutzungsmöglichkeiten nicht ausgeschöpft werden können.
 
 <sup>4</sup> Über die Durchführung der individuellen Schätzung entscheidet das Amt für Grundstückschätzungen.
 
@@ -114,15 +114,15 @@ beschliesst:
 
 **Mitwirkung**
 
-<sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, bei der Bemessung des Mehrwerts mitzuwirken sowie wahrheitsgemäss und fristgerecht Auskünfte zu erteilen. Kommen sie der Mitwirkungspflicht trotz Mahnung nicht oder nur ungenügend nach, ermittelt das Amt für Grundstückschätzungen den Mehrwert nach pflichtgemässem Ermessen.
+Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, bei der Bemessung des Mehrwerts mitzuwirken sowie wahrheitsgemäss und fristgerecht Auskünfte zu erteilen. Kommen sie der Mitwirkungspflicht trotz Mahnung nicht oder nur ungenügend nach, ermittelt das Amt für Grundstückschätzungen den Mehrwert nach pflichtgemässem Ermessen.
 
 #### § 11
 
 **Kosten der Bemessung**
 
-<sup>1</sup> Die Kosten der Bemessung des Bodenmehrwerts werden mit Ausnahme der individuellen Schätzungen im Sinne von § 9 Abs. 5 aus dem kantonalen oder jeweiligen kommunalen Mehrwertabgabefonds finanziert.
+Die Kosten der Bemessung des Bodenmehrwerts werden mit Ausnahme der individuellen Schätzungen im Sinne von § 9 Abs. 5 aus dem kantonalen oder jeweiligen kommunalen Mehrwertabgabefonds finanziert.
 
-## 3 Festsetzung der Mehrwertabgabe
+### III. Festsetzung der Mehrwertabgabe
 
 #### § 12
 
@@ -136,7 +136,7 @@ beschliesst:
 
 **Befreiung der öffentlichen Hand**
 
-<sup>1</sup> Zur öffentlichen Hand gemäss Art. 5 Abs. 4 MAG zählen ausschliesslich Bund, Kantone und Gemeinden. Nicht dazu gehören andere Körperschaften und Anstalten des öffentlichen Rechts.
+Zur öffentlichen Hand gemäss Art. 5 Abs. 4 MAG zählen ausschliesslich Bund, Kantone und Gemeinden. Nicht dazu gehören andere Körperschaften und Anstalten des öffentlichen Rechts.
 
 #### § 14
 
@@ -154,7 +154,7 @@ beschliesst:
 
 <sup>2</sup> Die rechtskräftig festgesetzte Mehrwertabgabe wird auf Veranlassung und auf Kosten der verfahrensleitenden Behörde im Grundbuch angemerkt.
 
-## 4 Bezug der Mehrwertabgabe
+### IV. Bezug der Mehrwertabgabe
 
 #### § 16
 
@@ -162,7 +162,7 @@ beschliesst:
 
 <sup>1</sup> Bei der Überbauung wird die Mehrwertabgabe mit der Baufreigabe bzw. bei Baubeginn oder mit der Rechtskraft einer nachträglich erteilten Baubewilligung fällig.
 
-<sup>2</sup> Geringfügige bauliche Massnahmen lösen die Fälligkeit nicht aus. Als geringfügig gelten insbesondere Sanierungen oder einmalige Erweiterungen der anrechenbaren Bruttogeschossfläche innerhalb des bestehenden Bauvolumens um maximal 50 m².
+<sup>2</sup> Geringfügige bauliche Massnahmen lösen die Fälligkeit nicht aus. Als geringfügig gelten insbesondere Sanierungen oder einmalige Erweiterungen der anrechenbaren Bruttogeschossfläche innerhalb des bestehenden Bauvolumens um maximal 50 Quadratmeter.
 
 <sup>3</sup> Bei etappierten Bauvorhaben ist die gesamte Mehrwertabgabe mit der Baufreigabe bzw. beim Baubeginn für die erste Etappe fällig.
 
@@ -192,13 +192,13 @@ beschliesst:
 
 **Grundpfandrechte**
 
-<sup>1</sup> Die verfahrensleitende Behörde meldet das Grundpfandrecht dem Grundbuchamt zur Eintragung an, sobald die Fälligkeit eingetreten ist. Auf die Anmeldung kann verzichtet werden, wenn das Ausfallrisiko gering erscheint oder die Forderung bereits anderweitig sichergestellt ist.
+Die verfahrensleitende Behörde meldet das Grundpfandrecht dem Grundbuchamt zur Eintragung an, sobald die Fälligkeit eingetreten ist. Auf die Anmeldung kann verzichtet werden, wenn das Ausfallrisiko gering erscheint oder die Forderung bereits anderweitig sichergestellt ist.
 
 #### § 20
 
 **Landwirtschaftliche Ersatzbaute**
 
-<sup>1</sup> Tritt die Fälligkeit vor Ablauf der Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute gemäss Art. 5 Abs. 3 MAG ein, wird der Bezug bis zum Ablauf der Frist aufgeschoben.
+Tritt die Fälligkeit vor Ablauf der Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute gemäss Art. 5 Abs. 3 MAG ein, wird der Bezug bis zum Ablauf der Frist aufgeschoben.
 
 #### § 21
 
@@ -212,15 +212,15 @@ beschliesst:
 
 **Zahlungserleichterungen**
 
-<sup>1</sup> Die verfahrensleitende Behörde kann auf begründetes Gesuch hin ausnahmsweise Stundung und Ratenzahlung gewähren.
+Die verfahrensleitende Behörde kann auf begründetes Gesuch hin ausnahmsweise Stundung und Ratenzahlung gewähren.
 
 #### § 23
 
 **Löschung von Anmerkung und Pfandrecht**
 
-<sup>1</sup> Die verfahrensleitende Behörde meldet dem Grundbuchamt nach vollständiger Begleichung der Abgabe oder Verjährung der Mehrwertabgabeforderung die Löschung der Grundbuchanmerkung und eines allfälligen Grundpfandrechts.
+Die verfahrensleitende Behörde meldet dem Grundbuchamt nach vollständiger Begleichung der Abgabe oder Verjährung der Mehrwertabgabeforderung die Löschung der Grundbuchanmerkung und eines allfälligen Grundpfandrechts.
 
-## 5 Städtebauliche Verträge
+### V. Städtebauliche Verträge
 
 #### § 24
 
@@ -232,32 +232,37 @@ beschliesst:
 
 <sup>3</sup> Städtebauliche Verträge können mit Zustimmung aller Vertragsparteien im Grundbuch angemerkt werden.
 
-## 6 Kantonaler Mehrwertausgleichsfonds
+### VI. Kantonaler Mehrwertausgleichsfonds
 
 #### § 25
 
 **Zuständigkeit**
 
-<sup>1</sup> Für die Verwaltung des kantonalen Mehrwertausgleichsfonds ist das Planungs- und Naturschutzamt zuständig.
+Für die Verwaltung des kantonalen Mehrwertausgleichsfonds ist das Planungs- und Naturschutzamt zuständig.
 
 #### § 26
 
 **Verwendungszwecke**
 
-<sup>1</sup> Die Fondsmittel werden verwendet für:
+Die Fondsmittel werden verwendet für:
 
-- a) Entschädigungspflichtige Planungen von Kanton und Gemeinden gemäss Art. 6 Abs. 4 MAG
-- b) Raumplanerische Massnahmen von Kanton und Gemeinden gemäss Art. 3 RPG wie namentlich:
-  - 1\. die Aufwertung der Landschaft
-  - 2\. die Gestaltung des öffentlichen Raums
-  - 3\. die Verbesserung des Lokalklimas und der ökologischen Qualität und Durchlässigkeit des Siedlungsraums oder
-  - 4\. die Verbesserung der Bau- und Planungskultur
+- a. Entschädigungspflichtige Planungen von Kanton und Gemeinden gemäss Art. 6 Abs. 4 MAG;
+
+- b. Raumplanerische Massnahmen von Kanton und Gemeinden gemäss Art. 3 RPG wie namentlich:
+
+- 1\. die Aufwertung der Landschaft,
+
+- 2\. die Gestaltung des öffentlichen Raums,
+
+- 3\. die Verbesserung des Lokalklimas und der ökologischen Qualität und Durchlässigkeit des Siedlungsraums oder
+
+- 4\. die Verbesserung der Bau- und Planungskultur.
 
 #### § 27
 
 **Vorrang**
 
-<sup>1</sup> Bei einer Unterdeckung des Fonds werden nur entschädigungspflichtige Planungen finanziert. Beiträge an raumplanerische Massnahmen werden nur geleistet, wenn im Fonds genügend Mittel vorhanden sind.
+Bei einer Unterdeckung des Fonds werden nur entschädigungspflichtige Planungen finanziert. Beiträge an raumplanerische Massnahmen werden nur geleistet, wenn im Fonds genügend Mittel vorhanden sind.
 
 #### § 28
 
@@ -267,8 +272,9 @@ beschliesst:
 
 <sup>2</sup> Mit der Antragstellung sind dem Planungs- und Naturschutzamt folgende Beilagen einzureichen:
 
-- a) Rechtskräftiger Entscheid der Schätzungskommission
-- b) Beleg der Entschädigungszahlung
+- a) Rechtskräftiger Entscheid der Schätzungskommission,
+
+- b) Beleg der Entschädigungszahlung.
 
 #### § 29
 
@@ -278,15 +284,17 @@ beschliesst:
 
 <sup>2</sup> Der begründete Antrag, der dem Planungs- und Naturschutzamt einzureichen ist, hat mindestens folgende Informationen zu umfassen:
 
-- a) einen Beschrieb der Massnahme samt den Plänen
-- b) eine Kostenberechnung und einen Finanzierungsplan
-- c) allfällige Beitragsgesuche, die an weitere Stellen gerichtet werden
+- a) einen Beschrieb der Massnahme samt den Plänen,
+
+- b) eine Kostenberechnung und einen Finanzierungsplan,
+
+- c) allfällige Beitragsgesuche, die an weitere Stellen gerichtet werden.
 
 <sup>3</sup> Es können zusätzliche Unterlagen verlangt werden, wenn dies für die Behandlung des Gesuchs erforderlich ist. Auf unvollständige Gesuche wird nicht eingetreten.
 
 <sup>4</sup> Die Beitragshöhe richtet sich nach der raumplanerischen Bedeutung und Wirkung der Massnahme.
 
-## 7 Verhältnis zum Waldgesetz
+### VII. Verhältnis zum Waldgesetz
 
 #### § 30
 
@@ -298,12 +306,12 @@ beschliesst:
 
 <sup>3</sup> Erfolgt eine Rodung und eine Zuweisung zu einer Bauzone bzw. zu einer Materialabbau- oder Deponiezone und ist der Wald im Privateigentum, so kommt für die Regelung des Ausgleichs das Mehrwertausgleichsgesetz zur Anwendung.
 
-#### § 31
+### II.
 
 <sup>1</sup> Diese Verordnung tritt am 1. September 2023 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^31-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^hII-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^31-1]: Amtsblatt 2023, S. 1372.
+Fussnoten:
 
-Abl. 2023, S. 1372
+[^hII-1]: Amtsblatt 2023, S. 1372.
