@@ -4,42 +4,29 @@ number: "643.112"
 title: Vereinbarungen über die Befreiung von der Erbschafts- und Schenkungssteuer (Verweisungen)
 language: de
 version: 1995-01-01
+corrected: 2024-06-03
 version_adopted: 1995-01-01
 adopted: 1928-12-08
 in_force: 1928-12-08
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/643.112"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/912/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/164/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vereinbarungen über die Befreiung von der Erbschafts- und Schenkungssteuer (Verweisungen)
+# Vereinbarungen über die Befreiung von der Erbschafts- und Schenkungssteuer
 
-Vom 08.12.1928 (Stand 01.01.1995)
+## (Verweisungen)
 
-#### Art. 1
+Vereinbarungen, nach denen Vermögenszuwendungen durch letztwillige Verfügungen oder Schenkungen, die von Einwohnern des einen Vertragskantons zugunsten des Staates, Gemeinden oder Institutionen gemeinnützigen Charakters des andern Kantons gemacht werden, am Wohnsitz des Schenkers von der Erbschafts- bzw. Vermächtnis- oder Schenkungssteuer oder entsprechenden Abgaben befreit werden, bestehen mit:
 
-<sup>1</sup> Vereinbarungen, nach denen Vermögenszuwendungen durch letztwillige Verfügungen oder Schenkungen, die von Einwohnern des einen Vertragskantons zugunsten des Staates, Gemeinden oder Institutionen gemeinnützigen Charakters des andern Kantons gemacht werden, am Wohnsitz des Schenkers von der Erbschafts- bzw. Vermächtnis- oder Schenkungssteuer oder entsprechenden Abgaben befreit werden, bestehen mit:
+(cid:2) Zürich (Gegenrechtsvereinbarung vom 15. Nov./8. Dez. 1928) (cid:2) Glarus (1931) (cid:2) Thurgau (1931) (cid:2) Bern (1943) (cid:2) Aargau (1949) (cid:2) St. Gallen (1967) (cid:2) Appenzell A.Rh. (1969) (cid:2) Basel-Landschaft (Amtsblatt 1976, S. 1085) (cid:2) Wallis (1979) (cid:2) Basel-Stadt (Amtsblatt 1980, S. 433) (cid:2) Luzern (Amtsblatt 1980, S. 841) (cid:2) Waadt (Amtsblatt 1984, S. 1200) (cid:2) Schwyz (Amtsblatt 1986, S. 87) (cid:2) Genf (Amtsblatt 1986, S. 350) (cid:2) Zug (Amtsblatt 1988, S. 82) (cid:2) Uri (Amtsblatt 1995, S. 244)
 
-- a) Zürich (Gegenrechtsvereinbarung vom 15. Nov. / 8. Dez. 1928)
-- b) Glarus (1931)
-- c) Thurgau (1931)
-- d) Bern (1943)
-- e) Aargau (1949)
-- f) St. Gallen (1967)
-- g) Appenzell A.Rh. (1969)
-- h) Basel-Landschaft (Amtsblatt 1976, S. 1085)
-- i) Wallis (1979)
-- j) Basel-Stadt (Amtsblatt 1980, S. 433)
-- k) Luzern (Amtsblatt 1980, S. 841)
-- l) Waadt (Amtsblatt 1984, S. 1200)
-- m) Schwyz (Amtsblatt 1986, S. 87)
-- n) Genf (Amtsblatt 1986, S. 350)
-- o) Zug (Amtsblatt 1988, S. 82)
-- p) Uri (Amtsblatt 1995, S. 244)
+Rechtsbuch 1964, Nr. 42.
 
-<sup>2</sup> Mit dem Fürstentum Liechtenstein besteht eine Vereinbarung, die auf Zuwendungen zugunsten des Staates und der Gemeinden beschränkt ist (1962).
+Mit dem Fürstentum Liechtenstein besteht eine Vereinbarung, die auf Zuwendungen zugunsten des Staates und der Gemeinden beschränkt ist (1962).
 
-<sup>3</sup> Für den Kanton Jura gilt die mit dem Kanton Bern abgeschlossene Vereinbarung.
+**Für**
 
-Rechtsbuch 1964, Nr. 42
+den Kanton Jura gilt die mit dem Kanton Bern abgeschlossene Vereinbarung.
