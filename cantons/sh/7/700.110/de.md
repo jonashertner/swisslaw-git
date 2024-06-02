@@ -5,20 +5,20 @@ title: Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe
 short: IVHB
 language: de
 version: 2010-11-26
+corrected: 2024-06-03
 version_adopted: 2005-09-22
 adopted: 2005-09-22
 in_force: 2010-11-26
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/925/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/403/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe
+# Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (IVHB)
 
-(IVHB)
-
-Vom 22.09.2005 (Stand 26.11.2010)
+vom 22. September 2005
 
 #### Art. 1
 
@@ -52,43 +52,44 @@ Vom 22.09.2005 (Stand 26.11.2010)
 
 **Zuständigkeiten des Interkantonalen Organs**
 
-<sup>1</sup> Das Interkantonale Organ vollzieht die Vereinbarung, indem es:
+<sup>1</sup> Das Interkantonale Organ vollzieht die Vereinbarung, indem es: a.) deren Anwendung regelt und die Durchführung durch die Kantone kontrolliert;
 
-- a) deren Anwendung regelt und die Durchführung durch die Kantone kontrolliert
-- b) seine Tätigkeit mit dem Bund, den Kantonen und den Normenorganisationen koordiniert, um unterschiedliche Baubegriffe und Messweisen im Planungs- und Baurecht von Bund, Kantonen und Gemeinden zu vermeiden
-- c) Kontaktstelle für Bund, Gemeinden, Normen-, Fach- und Berufsorganisationen ist
+Amtsblatt 2010, S. 1319. b.) seine Tätigkeit mit dem Bund, den Kantonen und den Normenorganisationen koordiniert, um unterschiedliche Baubegriffe und Messweisen im Planungs- und Baurecht von Bund, Kantonen und Gemeinden zu vermeiden;
+
+c.) Kontaktstelle für Bund, Gemeinden, Normen-, Fach- und Berufsorganisationen ist.
 
 <sup>2</sup> Es ist überdies zuständig für:
 
-- a) die Änderungen der Vereinbarung
-- b) die Erstreckung der Frist für die Anpassung der Gesetzgebung
-- c) die Erarbeitung und Publikation von Erläuterungen
-- d) den Erlass einer Geschäftsordnung
+a.) die Änderungen der Vereinbarung;
+
+b.) die Erstreckung der Frist für die Anpassung der Gesetzgebung; c.) die Erarbeitung und Publikation von Erläuterungen;
+
+d.) den Erlass einer Geschäftsordnung.
 
 #### Art. 5
 
 **Finanzierung**
 
-<sup>1</sup> Die beteiligten Kantone tragen die Kosten des Interkantonalen Organs im Verhältnis ihrer Bevölkerungszahlen.
+Die beteiligten Kantone tragen die Kosten des Interkantonalen Organs im Verhältnis ihrer Bevölkerungszahlen.
 
 #### Art. 6
 
 **Beitritt**
 
-<sup>1</sup> Die Kantone treten der Vereinbarung bei, indem sie ihre Beitrittserklärung dem Interkantonalen Organ übergeben. Vor Inkrafttreten der Vereinbarung übergeben sie diese Erklärung der BPUK.
+Die Kantone treten der Vereinbarung bei, indem sie ihre Beitrittserklärung dem Interkantonalen Organ übergeben. Vor Inkrafttreten der Vereinbarung übergeben sie diese Erklärung der BPUK.
 
 #### Art. 7
 
 **Austritt**
 
-<sup>1</sup> Die Kantone können auf das Ende eines Kalenderjahres austreten. Der Austritt ist sechs Monate im Voraus dem Interkantonalen Organ schriftlich mitzuteilen.
+Die Kantone können auf das Ende eines Kalenderjahres austreten. Der Austritt ist sechs Monate im Voraus dem Interkantonalen Organ schriftlich mitzuteilen.
 
 #### Art. 8
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr sechs Kantone beigetreten sind[^8-1].
+Diese Vereinbarung tritt in Kraft, sobald ihr sechs Kantone beigetreten sind.
 
-[^8-1]: Beitritt des Kantons Schaffhausen durch KRB vom 17. Mai 2010 (Amtsblatt 2010, S. 1321), in Kraft getreten am 26. November 2010.
+Beschlossen von der Schweizerischen Bau-, Planungs- und Umweltdirektoren-Konferenz anlässlich der Hauptversammlung vom 22. September 2005
 
-Abl. 2010, S. 1319
+In Kraft getreten am 26. November 2010.
