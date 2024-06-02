@@ -3,13 +3,12 @@ canton: BS
 number: "154.250"
 title: Reglement des Sozialversicherungsgerichts und des Schiedsgerichts in Sozialversicherungssachen
 language: de
-version: 2016-07-31
-valid_until: 2024-06-02
-version_adopted: 2016-07-31
+version: 2024-06-03
+version_adopted: 2024-03-20
 adopted: 2016-07-31
 in_force: 2016-07-31
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.250"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4277/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4277/pdf_file"
 
 Sozialversicherungsgericht und Schiedsgericht: Reglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden[^t-1]
 
-Vom 31. Juli 2016 (Stand 31. Juli 2016)
+Vom 31. Juli 2016 (Stand 3. Juni 2024)
 
 Das Gesamtgericht des Sozialversicherungsgerichts des Kantons Basel-Stadt,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesamtgericht erlässt die ihm gesetzlich zugewiesenen Reglemente.
 
-<sup>2</sup> Das Gesamtgericht wählt die Vorsitzende Präsidentin oder den Vorsitzenden Präsidenten und deren beziehungsweise dessen Stellvertretung für die jeweilige Amtsdauer. Wiederwahlen sind möglich. Bei einer Neuwahl hat die oder der im Amte und bei gleicher Amtsdauer die oder der nach dem Lebensalter älteste Präsidentin oder Präsident den Vorrang.
+<sup>2</sup> Das Gesamtgericht wählt die Vorsitzende Präsidentin oder den Vorsitzenden Präsidenten und deren beziehungsweise dessen Stellvertretung für eine Periode von drei Jahren. Die unmittelbare Wiederwahl ist ausnahmsweise möglich. Bei einer Neuwahl ist das Anciennitätsprinzip in der Regel zu beachten.
 
 <sup>3</sup> Das Gesamtgericht ist bei Anwesenheit von zwei Dritteln seiner stimmberechtigten Mitglieder beschlussfähig.
 
