@@ -4,32 +4,36 @@ number: "211.223"
 title: Verordnung über die Zusammenarbeit in der Jugendpolitik und Jugendhilfe
 language: de
 version: 2024-03-01
+corrected: 2024-06-03
 version_adopted: 2024-02-13
 adopted: 2007-12-04
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.223"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/891/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/110/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die Zusammenarbeit in der Jugendpolitik und Jugendhilfe
 
-Vom 04.12.2007 (Stand 01.03.2024)
+vom 4. Dezember 2007
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 44 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911,
+gestützt auf Art. 44 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911,[^t-1]
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Fassung gemäss RRB vom 4. Dezember 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1817).
+
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Der Kanton unterstützt die Koordination in der Jugendpolitik und Jugendhilfe. Er fördert die Vernetzung und die Zusammenarbeit zwischen Behörden, staatlichen Fachstellen und privaten Institutionen auf kantonaler und kommunaler Ebene.
+Der Kanton unterstützt die Koordination in der Jugendpolitik und Jugendhilfe. Er fördert die Vernetzung und die Zusammenarbeit zwischen Behörden, staatlichen Fachstellen und privaten Institutionen auf kantonaler und kommunaler Ebene.
 
 #### § 2
 
@@ -41,12 +45,15 @@ beschliesst:
 
 <sup>3</sup> In der Erfüllung dieser Aufgaben wird es unterstützt durch:
 
-- a) eine politische Steuerungsgruppe und eine kantonale Jugendkommission für den Bereich der Jugendpolitik
-- b) eine Anlauf- und Koordinationsstelle und eine interdisziplinäre Fachgruppe Jugendhilfe für den Bereich der Jugendhilfe
+- a) eine politische Steuerungsgruppe und eine kantonale Jugendkommission für den Bereich der Jugendpolitik;
 
-## 2 Jugendpolitik
+- b) eine Anlauf- und Koordinationsstelle und eine interdisziplinäre Fachgruppe Jugendhilfe für den Bereich der Jugendhilfe.
 
-### 2.1 Politische Steuerungsgruppe
+Amtsblatt 2007, S. 1923
+
+### II. Jugendpolitik
+
+- 1\. Politische Steuerungsgruppe
 
 #### § 3
 
@@ -54,9 +61,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat wählt auf Amtsdauer eine aus sechs Mitgliedern bestehende politische Steuerungsgruppe. Sie setzt sich zusammen aus:
 
-- a) den Vorstehenden des Erziehungsdepartementes und des Departementes des Innern
-- b) je einer Vertretung des Stadtrates Schaffhausen und des Gemeinderates Neuhausen am Rheinfall
-- c) zwei Vertretungen aus weiteren Gemeinderäten
+- a) den Vorstehenden des Erziehungsdepartementes und des Departementes des Innern;
+
+- b) je einer Vertretung des Stadtrates Schaffhausen und des Gemeinderates Neuhausen am Rheinfall;
+
+- c) zwei Vertretungen aus weiteren Gemeinderäten.
 
 <sup>2</sup> Die politische Steuerungsgruppe steht unter dem Vorsitz der Vorsteherin bzw. des Vorstehers des Erziehungsdepartementes. Im Übrigen konstituiert sie sich selbst.
 
@@ -68,7 +77,7 @@ beschliesst:
 
 <sup>2</sup> Sie erteilt der Jugendkommission Aufträge und weist deren Berichte und Anträge mit einer Empfehlung an die zuständigen Exekutivorgane zur Beratung, Beschlussfassung und Umsetzung weiter.
 
-### 2.2 Kantonale Jugendkommission
+- 2\. Kantonale Jugendkommission
 
 #### § 5
 
@@ -76,11 +85,15 @@ beschliesst:
 
 <sup>1</sup> Die politische Steuerungsgruppe wählt auf Amtsdauer eine aus höchstens 13 Mitgliedern bestehende kantonale Jugendkommission. Sie setzt sich zusammen aus:
 
-- a) aktiv in der Jugendarbeit tätigen Fachpersonen aus den Bereichen Familie, Schule, Freizeit und Kultur
-- b) einer Vertretung des Departements des Innern
-- c) mindestens einer Vertretung des Erziehungsdepartements und einer Vertretung der Schaffhauser Polizei
+- a) aktiv in der Jugendarbeit tätigen Fachpersonen aus den Bereichen Familie, Schule, Freizeit und Kultur;
 
-<sup>2</sup> Die kantonale Jugendkommission steht in der Regel unter dem Vorsitz des Erziehungsdepartements. Sie konstituiert sich selbst.
+- b) einer Vertretung des Departements des Innern;[^5-1]
+
+- c) mindestens einer Vertretung des Erziehungsdepartements und einer Vertretung der Schaffhauser Polizei.[^5-1]
+
+<sup>2</sup> Die kantonale Jugendkommission steht in der Regel unter dem Vorsitz des Erziehungsdepartements. Sie konstituiert sich selbst.[^5-1]
+
+[^5-1]: Fassung gemäss RRB vom 9. März 2010, in Kraft getreten am 1. Mai 2010 (Amtsblatt 2010, S. 372).
 
 #### § 6
 
@@ -98,17 +111,17 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die Entschädigung der Mitglieder der kantonalen Jugendkommission regelt der Regierungsrat in einem Reglement.
+Die Entschädigung der Mitglieder der kantonalen Jugendkommission regelt der Regierungsrat in einem Reglement.
 
-## 3 Jugendhilfe
+### III. Jugendhilfe
 
-### 3.1 Anlauf- und Koordinationsstelle Jugendhilfe
+### 1. Anlauf- und Koordinationsstelle Jugendhilfe
 
 #### § 8
 
 **Aufgaben**
 
-<sup>1</sup> Der kantonale schulische Sozialdienst des Erziehungsdepartementes (Dienststelle Familie und Jugend) führt zur Unterstützung und Sicherstellung einer einfachen, fallbezogenen Zusammenarbeit und Vernetzung der gesamten Jugendhilfe im Kanton Schaffhausen eine Anlauf- und Koordinationsstelle Jugendhilfe.
+<sup>1</sup> Der kantonale schulische Sozialdienst des Erziehungsdepartementes (Dienststelle Familie und Jugend) führt zur Unterstützung und Sicherstellung einer einfachen, fallbezogenen Zusammenarbeit und Vernetzung der gesamten Jugendhilfe im Kanton Schaffhausen eine Anlauf- und Koordinationsstelle Jugendhilfe.[^8-1]
 
 <sup>2</sup> Sie steht grundsätzlich allen im Kanton wohnhaften Personen beratend zur Verfügung, erteilt Auskünfte und verweist an die zuständige Fachstelle oder Behörde. Es obliegt ihr keine Fallführung.
 
@@ -116,7 +129,9 @@ beschliesst:
 
 <sup>4</sup> Ein vom Erziehungsdepartement erlassenes Pflichtenheft regelt die Einzelheiten.
 
-### 3.2 Interdisziplinäre Fachgruppe Jugendhilfe
+- 2\. Interdisziplinäre Fachgruppe Jugendhilfe
+
+[^8-1]: Fassung gemäss RRB vom 13. Februar 2024, in Kraft getreten am 1. März 2024 (Amtsblatt vom 16. Februar 2024, S. 11).
 
 #### § 9
 
@@ -132,15 +147,15 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die Entschädigung der Mitglieder der Interdisziplinären Fachgruppe Jugendhilfe regelt der Regierungsrat in einem Reglement.
+Die Entschädigung der Mitglieder der Interdisziplinären Fachgruppe Jugendhilfe regelt der Regierungsrat in einem Reglement.
 
-## 4 Schlussbestimmungen
+### IV. Schlussbestimmungen
 
 #### § 11
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung über die Förderung der Zusammenarbeit in der Jugendhilfe vom 17. Juni 2003 wird aufgehoben.
+Die Verordnung über die Förderung der Zusammenarbeit in der Jugendhilfe vom 17. Juni 2003 wird aufgehoben.
 
 #### § 12
 
@@ -150,6 +165,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^12-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^12-1]: Amtsblatt 2007, S. 1923.
+Fussnoten:
 
-Abl. 2007, S. 1923
+[^12-1]: Amtsblatt 2007, S. 1923.
