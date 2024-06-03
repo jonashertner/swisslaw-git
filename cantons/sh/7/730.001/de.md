@@ -5,35 +5,35 @@ title: Vollziehungsverordnung zum Bundesbeschluss für eine sparsame und ratione
 short: ENVV
 language: de
 version: 1992-03-20
+corrected: 2024-06-04
 version_adopted: 1992-03-10
 adopted: 1992-03-10
 in_force: 1992-03-20
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.001"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/947/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/326/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollziehungsverordnung zum Bundesbeschluss für eine sparsame und rationelle Energienutzung
+# Vollziehungsverordnung zum Bundesbeschluss für eine sparsame und rationelle Energienutzung (ENVV)
 
-(ENVV)
-
-Vom 10.03.1992 (Stand 20.03.1992)
+vom 10. März 1992
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-in Ausführung des Bundesbeschlusses für eine sparsame und rationelle Energienutzung vom 14. Dezember 1990 (ENB)[^ingress-1] und der Verordnung über eine sparsame und rationelle Energienutzung vom 22. Januar 1992 (ENV)[^ingress-2],
+in Ausführung des Bundesbeschlusses für eine sparsame und rationelle Energienutzung vom 14. Dezember 1990 (ENB)[^t-1] und der Verordnung über eine sparsame und rationelle Energienutzung vom 22. Januar 1992 (ENV)[^t-2],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SR 730.0.
-[^ingress-2]: SR 730.01.
+[^t-1]: SR 730.0.
+[^t-2]: SR 730.01.
 
 #### § 1
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Baudepartement ist für die Erteilung der gemäss Art. 9–13 ENV erforderlichen Bewilligungen zuständig. Es kann die Zuständigkeit zur Erteilung von Bewilligungen für ortsfeste Elektroheizungen delegieren.
+<sup>1</sup> Das Baudepartement ist für die Erteilung der gemäss Art. 9-13 ENV erforderlichen Bewilligungen zuständig. Es kann die Zuständigkeit zur Erteilung von Bewilligungen für ortsfeste Elektroheizungen delegieren.
 
 <sup>2</sup> Die Baubewilligungsbehörden vollziehen Art. 4 Abs. 1 und 2 ENB. Ausnahmebewilligungen gemäss Art. 8 Abs. 3 ENV erteilt das Baudepartement.
 
@@ -45,24 +45,26 @@ beschliesst:
 
 <sup>2</sup> Die energierechtliche Bewilligung des Baudepartementes ist zusammen mit dem Baubewilligungsentscheid zu eröffnen.
 
+Amtsblatt 1992, S. 333; Rechtsbuch 1964, Nr. 267.
+
 #### § 3
 
 **Verfahren**
 
-<sup>1</sup> Die öffentlichen Energieversorgungsunternehmen leiten die nach ihren Bestimmungen genehmigten Anschlussgesuche an das Baudepartement weiter.
+Die öffentlichen Energieversorgungsunternehmen leiten die nach ihren Bestimmungen genehmigten Anschlussgesuche an das Baudepartement weiter.
 
 #### § 4
 
-**Anschlussbedingungen für Selbstversorger**
+**Anschlussbedin -gungen für Selbstversorger**
 
-<sup>1</sup> Zuständige Behörde in Streitfällen (Art. 7 Abs. 5 ENB) ist der Regierungsrat.
+Zuständige Behörde in Streitfällen (Art. 7 Abs. 5 ENB) ist der Regierungsrat.
 
 #### § 5
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft[^5-1] und ist in die kantonale Gesetzessammlung aufzunehmen.
+Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft[^5-1] und ist in die kantonale Gesetzessammlung aufzunehmen.
+
+Fussnoten:
 
 [^5-1]: In Kraft getreten am 20. März 1992 (Amtsblatt 1992, S. 333).
-
-Abl. 1992, S. 333
