@@ -4,26 +4,28 @@ number: "704.101"
 title: Verordnung betreffend den Vollzug des Bundesgesetzes über Fuss- und Wanderwege
 language: de
 version: 2020-01-01
+corrected: 2024-06-04
 version_adopted: 2019-08-13
 adopted: 1988-05-03
 in_force: 1988-06-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/704.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/933/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/295/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung betreffend den Vollzug des Bundesgesetzes über Fuss- und Wanderwege
 
-Vom 03.05.1988 (Stand 01.01.2020)
+vom 3. Mai 1988
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 16 des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985 (FWG)[^ingress-1],
+gestützt auf Art. 16 des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985 (FWG)[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SR [704](http://db.clex.ch/link/Bund/704/de).
+[^t-1]: SR 704.
 
 #### § 1
 
@@ -33,11 +35,13 @@ beschliesst:
 
 <sup>2</sup> Die geänderten Strassenrichtpläne bedürfen der Genehmigung durch den Regierungsrat.
 
+[^1-1]: Fassung gemäss RRB vom 13. August 2019, in Kraft getreten am 1. Januar 2020. (Amtsblatt 2019, S. 1362).
+
 #### § 2
 
-**Wanderwege**
+**Wanderwege**[^1-1]
 
-<sup>1</sup> Der Kanton stellt den Teilrichtplan «Wanderwege» auf.
+Der Kanton stellt den Teilrichtplan «Wanderwege» auf.
 
 #### § 3
 
@@ -51,18 +55,20 @@ beschliesst:
 
 **Zuständigkeit, Kostentragung**
 
-<sup>1</sup> Die Zuständigkeit für den Bau und Unterhalt von Fuss- und Wanderwegen sowie die Kostentragung richten sich nach dem Strassengesetz.
+Die Zuständigkeit für den Bau und Unterhalt von Fuss- und Wanderwegen sowie die Kostentragung richten sich nach dem Strassengesetz.
 
 #### § 5
 
 **Beschwerdelegitimation**
 
-<sup>1</sup> In Rechtsmittelverfahren gegen Ausführungsprojekte im Sinne von Art. 44 ff. des Strassengesetzes[^5-1] sind auch die Schaffhauser Sektionen der vom Eidgenössischen Departement des Innern anerkannten Fachorganisationen von gesamtschweizerischer Bedeutung zur Einsprache berechtigt.
+<sup>1</sup> In Rechtsmittelverfahren gegen Ausführungsprojekte im Sinne von Art. 44ff. des Strassengesetzes[^5-1] sind auch die Schaffhauser Sekti-
 
-<sup>2</sup> Der weitere Rechtsweg richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen[^5-2].
+Amtsblatt 1988, S. 368; Rechtsbuch 1964, Nr. 278. onen der vom Eidgenössischen Departement des Innern anerkannten Fachorganisationen von gesamtschweizerischer Bedeutung zur Einsprache berechtigt.
 
-[^5-1]: SHR [725.100](https://rechtsbuch.sh.ch/data/725.100/de).
-[^5-2]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+<sup>2</sup> Der weitere Rechtsweg richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen.[^5-2]
+
+[^5-1]: SHR 725.100.
+[^5-2]: SHR 172.200.
 
 #### § 6
 
@@ -72,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> In ausserordentlichen Fällen kann der Kanton nach Massgabe von Art. 73 Abs. 2 des Strassengesetzes[^6-1] Beiträge an die Ersatzkosten leisten.
 
-[^6-1]: SHR [725.100](https://rechtsbuch.sh.ch/data/725.100/de).
+[^6-1]: SHR 725.100.
 
 #### § 7
 
@@ -82,22 +88,26 @@ beschliesst:
 
 <sup>2</sup> Werden Fuss- und Wanderwege berührt, holen sie eine Stellungnahme der Fachstellen ein.
 
+[^7-1]: Fassung gemäss RRB vom 13. August 2019, in Kraft getreten am 1. Januar 2020. (Amtsblatt 2019, S. 1362).
+
 #### § 8
 
-**Fachstellen**
+**Fachstellen**[^7-1]
 
-<sup>1</sup> Kantonale Fachstelle im Sinne von Art. 13 FWG ist Tiefbau Schaffhausen.
+Kantonale Fachstelle im Sinne von Art. 13 FWG ist Tiefbau Schaffhausen.
+
+[^8-1]: Aufgehoben durch RRB vom 13. August 2019, in Kraft getreten am 1. Januar 2020. (Amtsblatt 2019, S. 1362).
 
 #### § 9
 
-**…**
+[^8-1]
 
 #### § 10
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juni 1988 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^10-1] und in die kantonale Gesetzessammlung aufzunehmen.
+Diese Verordnung tritt am 1. Juni 1988 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^10-1] und in die kantonale Gesetzessammlung aufzunehmen.
+
+Fussnoten:
 
 [^10-1]: Amtsblatt 1988, S. 368.
-
-Abl. 1988, S. 368
