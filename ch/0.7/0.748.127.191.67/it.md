@@ -1,0 +1,393 @@
+---
+sr: "0.748.127.191.67"
+title: Accordo del 4 giugno 2024 tra il Consiglio federale svizzero e il Governo della Repubblica Popolare del Bangladesh concernente il traffico aereo di linea
+eli: "https://fedlex.data.admin.ch/eli/cc/2025/190"
+language: it
+version: 2024-06-04
+adopted: 2024-06-04
+in_force: 2024-06-04
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/fedlex-data-admin-ch-eli-cc-2025-190-20240604-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/190/20240604/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra il Consiglio federale svizzero e il Governo della Repubblica Popolare del Bangladesh concernente il traffico aereo di linea
+
+RU **2025** 190
+
+Traduzione
+
+Concluso il 4 giugno 2024 Applicato provvisoriamente dal 4 giugno 2024
+
+(Stato 4 giugno 2024)
+
+Il Consiglio federale svizzero e il Governo della Repubblica Popolare del Bangladesh
+
+(di seguito denominati congiuntamente «Parti» e individualmente «Parte»),
+
+desiderando promuovere un sistema di trasporti aerei internazionale basato sulla concorrenza tra le imprese di trasporti aerei nel mercato, riducendo al minimo le regolamentazioni e gli interventi governativi;
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image1.png)desiderando ampliare le opportunità per i servizi aerei internazionali;
+
+riconoscendo che servizi aerei internazionali efficienti e concorrenziali promuovono il commercio, il benessere dei consumatori e la crescita economica;
+
+desiderando permettere alle imprese di trasporti aerei di offrire ai passeggeri e agli speditori di merci prezzi e servizi competitivi in mercati aperti;
+
+desiderando assicurare il più elevato livello di sicurezza e protezione nel trasporto aereo internazionale e riaffermando la profonda preoccupazione per atti o minacce diretti contro la sicurezza degli aeromobili, che mettono in pericolo la sicurezza delle persone e dei beni, incidono negativamente sul funzionamento del trasporto aereo e minano la fiducia del pubblico nella sicurezza dell’aviazione civile; e
+
+in quanto Parti alla Convenzione relativa all’aviazione civile internazionale, aperta alla firma a Chicago il 7 dicembre 1944[^ingress-1],
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+
+#### Art. 1
+
+**Definizioni**
+
+<sup>1.</sup>
+
+Per l’applicazione del presente Accordo e del suo Allegato, sempre che non![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image2.png) sia disposto altrimenti:
+
+- a. la locuzione «autorità aeronautiche» indica, per la Svizzera, l’Ufficio federale dell’aviazione civile e, per la Repubblica Popolare del Bangladesh, l’autorità competente per l’aviazione civile del Bangladesh debitamente incaricata dal Ministero dell’aviazione civile e del turismo o in ambedue i casi, qualsiasi persona o organo autorizzato a esplicare le funzioni attualmente attribuite a dette autorità; ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image3.png)
+- b. la locuzione «servizi convenuti» indica i servizi aerei sulle linee indicate per il trasporto di passeggeri, merci e invii postali, singolarmente o in combinazione fra loro; ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image4.png)
+- c. le locuzioni «servizio aereo», «servizio aereo internazionale», «imprese di trasporti aerei» e «scali non commerciali» indicano quanto stabilito nell’articolo 96 della Convenzione;
+- d. il termine «Convenzione» indica la Convenzione relativa all’aviazione civile internazionale, aperta alla firma a Chicago il 7 dicembre 1944, e include tutti gli allegati adottati conformemente all’articolo 90 della Convenzione e tutti gli emendamenti agli allegati o alla Convenzione conformemente agli articoli 90 e 94, sempre che detti allegati ed emendamenti siano applicabili per le due Parti;
+- e. la locuzione «imprese designate» indica una o più imprese di trasporti aerei che una Parte ha designato, conformemente all’articolo 5 del presente Accordo, per l’esercizio dei servizi aerei convenuti;
+- f. la locuzione «trasporto aereo intermodale» indica il trasporto pubblico dietro remunerazione o in virtù di un contratto di leasing di passeggeri, bagagli, merci e invii postali, singolarmente o in combinazione fra loro, comprensivo di tutto il trasporto combinato aria-superficie;
+- g. il termine «tariffa» indica il prezzo per il trasporto di passeggeri, bagagli e merci e le condizioni d’applicazione, comprese le provvigioni e altre remunerazioni supplementari per l’intermediazione o la vendita di titoli di trasporto, a esclusione della remunerazione e delle condizioni inerenti al trasporto degli invii postali; e
+- h. il termine «territorio», in relazione a uno Stato, indica quanto stabilito nell’articolo 2 della Convenzione.
+
+<sup>2.</sup> L’Allegato è parte integrante del presente Accordo. Sempre che non sia espressamente disposto altrimenti, qualsiasi riferimento all’Accordo concerne parimenti l’Allegato.
+
+#### Art. 2
+
+**Concessione di diritti**
+
+<sup>1.</sup> Le Parti si accordano reciprocamente i diritti specificati nel presente Accordo per l’esercizio dei servizi aerei internazionali sulle linee indicate nelle tavole dell’Allegato. Detti servizi e linee sono di seguito denominati rispettivamente «servizi convenuti» e «linee indicate».
+
+<sup>2.</sup>
+
+Fatte salve le disposizioni del presente Accordo, nell’esercizio dei servizi aerei internazionali le imprese designate di ciascuna Parte godono:
+
+- a. del diritto di sorvolare, senza atterrarvi, il territorio dell’altra Parte;
+- b. del diritto di effettuare, su detto territorio, scali non commerciali;
+- c. del diritto di imbarcare e sbarcare su detto territorio nei punti specificati nell’Allegato al presente Accordo passeggeri, bagagli, merci e invii postali a destinazione di o provenienti da punti sul territorio dell’altra Parte;
+- d. del diritto di imbarcare e sbarcare sul territorio di Stati terzi nei punti specificati nell’Allegato al presente Accordo passeggeri, bagagli, merci e invii postali a destinazione di o provenienti da punti sul territorio dell’altra Parte specificati nell’Allegato al presente Accordo.
+
+<sup>3.</sup> Nessun disposto del presente Accordo conferisce alle imprese designate di una Parte il diritto di imbarcare sul territorio dell’altra Parte, dietro remunerazione, passeggeri, bagagli, merci e invii postali destinati a un altro punto del territorio di quest’altra Parte.
+
+<sup>4.</sup> Se, in seguito a un conflitto armato, a disordini o sviluppi politici o a circostanze speciali e inconsuete, le imprese designate di una Parte non sono in grado di esercitare un servizio sulle linee da esse abitualmente percorse, l’altra Parte si adopera per consentire il proseguimento dell’esercizio di tale servizio riorganizzando dette linee in modo appropriato e accordando, per il periodo reputato necessario, i diritti per facilitare un esercizio funzionale.
+
+#### Art. 3
+
+**Esercizio dei diritti![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image5.png)**
+
+<sup>1.</sup> Fatte salve le disposizioni relative alla frequenza e alla capacità convenute tra le autorità aeronautiche delle Parti, ciascuna Parte permette alle imprese designate di determinare liberamente, in base a considerazioni commerciali di mercato, la frequenza e la capacità dei servizi aerei internazionali da esse offerti. Conformemente a questo diritto, nessuna Parte limita unilateralmente il volume di traffico, la frequenza, il numero di destinazioni, la regolarità del servizio oppure il tipo o i tipi di aeromobili utilizzati dalle imprese designate dell’altra Parte, salvo che per ragioni doganali, tecniche, operative o ambientali, e questo a condizioni uniformi compatibili con l’articolo 15 della Convenzione.
+
+<sup>2.</sup> Le imprese designate delle Parti godono di eque e pari opportunità nell’esercizio dei servizi convenuti sulle linee indicate nell’Allegato al presente Accordo.
+
+#### Art. 4
+
+**Applicazione di leggi e regolamenti**
+
+<sup>1.</sup> Le leggi e i regolamenti di una Parte che disciplinano sul proprio territorio l’entrata o l’uscita di aeromobili impiegati nel trasporto aereo internazionale o l’esercizio e la navigazione di tali aeromobili durante la permanenza all’interno del proprio territorio si applicano agli aeromobili utilizzati dalle imprese designate dell’altra Parte e devono essere osservati da tali aeromobili all’entrata, all’uscita e durante la permanenza nel territorio della prima Parte.
+
+<sup>2.</sup> Le leggi e i regolamenti che disciplinano, sul territorio di una Parte, l’entrata, la permanenza e l’uscita di passeggeri, equipaggi, bagagli, merci o invii postali – come quelli concernenti le modalità d’entrata, d’uscita, d’emigrazione e d’immigrazione, la dogana e i provvedimenti sanitari – sono applicabili ai passeggeri, equipaggi, bagagli, merci e invii postali trasportati dagli aeromobili dell’impresa designata dell’altra Parte quando questi si trovano su detto territorio.
+
+<sup>3.</sup> Nessuna Parte può favorire le proprie imprese rispetto a quelle designate dell’altra Parte nell’applicazione delle leggi e dei regolamenti menzionati nel presente articolo.
+
+#### Art. 5
+
+**Designazione e autorizzazione d’esercizio**
+
+<sup>1.</sup> Ciascuna Parte ha il diritto di designare tante imprese di trasporti aerei quante ne desidera per l’esercizio dei servizi convenuti. Tali designazioni avvengono tramite notifica scritta tra le autorità aeronautiche delle due Parti.
+
+<sup>2.</sup> Fatte salve le disposizioni dei paragrafi 3 e 4 del presente articolo, le autorità aeronautiche che hanno ricevuto la notifica di una simile designazione rilasciano senza indugio alle imprese designate dell’altra Parte la necessaria autorizzazione d’esercizio.
+
+<sup>3.</sup> Le autorità aeronautiche di una Parte possono esigere che le imprese designate dell’altra Parte provino d’essere in grado di adempiere i requisiti prescritti dalle leggi e dai regolamenti applicati abitualmente da dette autorità per l’esercizio dei servizi aerei internazionali, conformemente alle disposizioni della Convenzione.
+
+<sup>4.</sup> Ciascuna Parte ha il diritto di rifiutare il rilascio dell’autorizzazione d’esercizio di cui al paragrafo 2 del presente articolo oppure, nei limiti che ritiene necessari, di vincolare a condizioni l’esercizio dei diritti definiti nell’articolo 2 del presente Accordo, se non ha la prova che le imprese di trasporti aerei hanno la propria sede di attività principale nel territorio della Parte che le ha designate e che sono titolari di un certificato di operatore aereo (AOC) valido rilasciato dalla suddetta Parte.
+
+<sup>5.</sup> Una volta ricevuta l’autorizzazione d’esercizio di cui al paragrafo 2 del presente articolo, le imprese designate possono esercitare in qualsiasi momento i servizi convenuti.
+
+#### Art. 6
+
+**Revoca e sospensione dell’autorizzazione d’esercizio**
+
+<sup>1.</sup>
+
+Ciascuna Parte ha il diritto di revocare, sospendere temporaneamente o limitare l’autorizzazione d’esercizio che conferisce alle imprese designate dell’altra Parte i diritti di cui all’articolo 2 del presente Accordo oppure di imporre le condizioni che reputa necessarie per l’esercizio di questi diritti se:
+
+- a. non ha la prova che dette imprese hanno la propria sede di attività principale sul territorio della Parte che le ha designate e che sono titolari di un certificato di operatore aereo (AOC) valido rilasciato dalla suddetta Parte; oppure se
+- b. dette imprese hanno disatteso o gravemente infranto le leggi e i regolamenti della Parte che ha accordato i diritti; oppure se
+- c. dette imprese non esercitano i servizi convenuti conformemente alle condizioni prescritte nel presente Accordo.
+
+<sup>2.</sup> I diritti conferiti dal presente articolo possono essere esercitati soltanto previa consultazione dell’altra Parte, sempre che non siano necessarie misure urgenti per evitare altre infrazioni a leggi e regolamenti.
+
+#### Art. 7
+
+**Sicurezza dell’aviazione**
+
+<sup>1.</sup> Conformemente ai loro diritti e obblighi in virtù del diritto internazionale, le Parti riaffermano che il loro impegno reciproco di proteggere la sicurezza dell’aviazione civile dagli interventi illeciti è parte integrante del presente Accordo. Senza limitare il carattere generale dei loro diritti e obblighi in virtù del diritto internazionale, le Parti agiscono in particolare conformemente alle disposizioni della Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili, firmata a Tokyo il 14 settembre 1963[^7-1], della Convenzione per la repressione della cattura illecita di aeromobili, firmata all’Aia il 16 dicembre 1970[^7-2], della Convenzione per la repressione di atti illeciti contro la sicurezza dell’aviazione civile, firmata a Montreal il 23 settembre 1971[^7-3], del relativo Protocollo aggiuntivo per la repressione degli atti illeciti di violenza negli aeroporti adibiti all’aviazione civile internazionale, firmato a Montreal il 24 febbraio 1988[^7-4], della Convenzione sul contrassegno di esplosivi plastici ed in foglie ai fini del rilevamento, conclusa a Montreal il 1° marzo 1991[^7-5], e di ogni altra convenzione o protocollo relativi alla sicurezza dell’aviazione civile ai quali le Parti aderiscono.
+
+<sup>2.</sup> Le Parti si accordano reciprocamente, su richiesta, tutta l’assistenza necessaria per prevenire la cattura illecita di aeromobili civili e ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image6.png)altri atti illeciti diretti contro la sicurezza di detti aeromobili, dei loro passeggeri ed equipaggi, degli aeroporti e delle installazioni per la navigazione aerea, nonché qualsiasi altra minaccia per la sicurezza dell’aviazione civile.
+
+<sup>3.</sup> Nei loro rapporti reciproci, le Parti si conformano alle disposizioni relative alla sicurezza dell’aviazione stabilite dall’Organizzazione per l’aviazione civile internazionale e designate come Allegati alla Convenzione, per quanto tali disposizioni si applichino alle Parti medesime; esse esigono che gli esercenti degli aeromobili immatricolati nei loro registri, o che hanno la propria sede di attività principale o la propria residenza permanente sul loro territorio, nonché gli esercenti di aeroporti situati sul loro territorio, si conformino a dette![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image7.png) disposizioni concernenti la sicurezza dell’aviazione.
+
+<sup>4.</sup> Ciascuna Parte conviene che tali esercenti di aeromobili siano invitati a osservare le disposizioni concernenti la sicurezza dell’aviazione di cui al paragrafo 3 del presente articolo, che l’altra Parte esige per l’entrata, l’uscita o la permanenza sul proprio territorio. Ciascuna Parte provvede affinché siano applicati sul proprio territorio provvedimenti appropriati per proteggere gli aeromobili e garantire l’ispezione dei passeggeri, degli equipaggi, dei bagagli a mano, dei bagagli, delle merci e delle provviste di bordo, prima e durante l’imbarco e il carico. Ciascuna Parte esamina anche di buon grado qualsiasi richiesta proveniente dall’altra Parte di adottare ragionevoli misure speciali di sicurezza per far fronte a una minaccia specifica.
+
+<sup>5.</sup> In caso di un’effettiva cattura illecita o di una minaccia di cattura illecita di un aeromobile civile o di altri atti illeciti nei confronti della sicurezza dei passeggeri, dell’equipaggio, dell’aeromobile, degli aeroporti o delle installazioni per la navigazione aerea, le Parti si assistono reciprocamente facilitando le comunicazioni e mediante altre misure appropriate per porre fine in modo rapido e sicuro a tale incidente o minaccia.
+
+<sup>6.</sup> Se una Parte ha motivi fondati di credere che l’altra Parte non rispetti le disposizioni relative alla sicurezza dell’aviazione di cui al presente articolo, le autorità aeronautiche di questa Parte possono chiedere consultazioni immediate con le autorità aeronautiche dell’altra Parte. Se non pervengono a un’intesa soddisfacente entro quindici (15) giorni dal ricevimento di tale richiesta, è dato motivo per rifiutare, revocare o limitare l’autorizzazione d’esercizio e l’omologazione tecnica delle imprese di quest’altra Parte o di vincolarle a oneri. Se una situazione d’emergenza lo esige, una Parte può prendere provvedimenti provvisori prima che siano trascorsi quindici (15) giorni.
+
+[^7-1]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
+[^7-2]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
+[^7-3]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
+[^7-4]: [RS 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
+[^7-5]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
+
+#### Art. 8
+
+**Sicurezza tecnica**
+
+<sup>1.</sup> Per l’esercizio dei servizi aerei previsti nel presente Accordo, ciascuna Parte deve riconoscere come validi i certificati di navigabilità, i brevetti di idoneità e le licenze rilasciati o convalidati dall’altra Parte e ancora validi, a condizione che i requisiti richiesti per il loro ottenimento corrispondano almeno ai requisiti minimi che possono essere stabiliti in base alla Convenzione.
+
+<sup>2.</sup> Ciascuna Parte può tuttavia rifiutare di riconoscere, per i voli effettuati sopra il suo territorio, i brevetti di idoneità e le licenze rilasciati o riconosciuti validi ai propri cittadini dall’altra Parte o da uno Stato terzo.
+
+<sup>3.</sup> Ciascuna Parte può chiedere in qualsiasi momento consultazioni sugli standard di sicurezza adottati dall’altra Parte per l’equipaggio, gli aeromobili o il loro esercizio. Tali consultazioni devono svolgersi entro un termine di trenta (30) giorni dal ricevimento della richiesta.
+
+<sup>4.</sup> Se dopo tali consultazioni una Parte constata che in questi settori l’altra Parte non osserva né applica efficacemente gli standard di sicurezza e i requisiti che corrispondono almeno ai requisiti minimi in vigore conformemente alla Convenzione, la Parte interessata notifica all’altra Parte tali constatazioni e i passi necessari per adempiere le norme minime e quest’altra Parte deve adottare le opportune misure correttive. Nel caso in cui l’altra Parte non adotti le misure opportune entro quindici (15) giorni, o un termine più lungo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image8.png)se convenuto in tal modo, è dato motivo per applicare l’articolo 6 del presente Accordo.
+
+<sup>5.</sup> A prescindere dagli obblighi menzionati nell’articolo 33 della Convenzione, è convenuto che ogni aeromobile esercitato dalle imprese designate di una Parte oppure, nel quadro di un contratto di leasing, a loro nome per servizi da e verso il![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image9.png) territorio dell’altra Parte, durante la permanenza su detto territorio può essere ispezionato dai rappresentanti autorizzati![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image10.png) di quest’altra Parte a bordo e intorno all’aeromobile per controllare la validità dei documenti relativi all’aeromobile e delle licenze degli equipaggi, nonché lo stato apparente dell’aeromobile e delle sue attrezzature (nel presente articolo denominata «ispezione dell’area di traffico»), a condizione che l’ispezione non causi ritardi indebiti.
+
+<sup>6.</sup> la Parte che effettua l’ispezione, in virtù dell’articolo 33 della Convenzione, è libera di desumere che i requisiti in base ai quali sono stati rilasciati o riconosciuti i documenti per il suddetto aeromobile o per il suo equipaggio, oppure che i requisiti in base ai quali l’aeromobile è esercitato non soddisfano né superano i requisiti minimi in vigore conformemente a questa Convenzione.
+
+Se una tale ispezione dell’area di traffico o una serie di ispezioni simili dà adito a seri motivi:
+
+- a. per temere che un aeromobile o l’esercizio di un aeromobile non corrisponda ai requisiti minimi stabiliti in quel momento in base alla Convenzione; oppure
+- b. per temere lacune a livello di rispetto ed esecuzione efficaci dei requisiti di sicurezza stabiliti in quel momento in base alla Convenzione,
+
+<sup>7.</sup> Nel caso in cui, per un’ispezione dell’area di traffico, l’accesso a un aeromobile esercitato dalle imprese designate di una Parte conformemente alle disposizioni del paragrafo 5 del presente articolo sia negato dal rappresentante di dette imprese, l’altra Parte è libera di desumere che sussistono seri motivi del genere di quelli menzionati nel paragrafo 6 del presente articolo e di trarne le conclusioni previste in quel paragrafo.
+
+<sup>8.</sup> Ciascuna Parte si riserva il diritto di sospendere o modificare immediatamente![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image11.png) l’autorizzazione di esercizio delle imprese designate dell’altra Parte nel caso in cui, in seguito a un’ispezione o a una serie di ispezioni dell’area di traffico, a un accesso negato per un’ispezione dell’area di traffico, a consultazioni o altrimenti, la prima Parte giunga alla conclusione che sono necessarie misure urgenti per la sicurezza dell’esercizio di un’impresa di trasporti aerei.
+
+<sup>9.</sup> Tutte le misure adottate da una Parte conformemente ai paragrafi 4 o 8 del presente articolo sono revocate non appena vengono a mancare i motivi che ne hanno richiesto l’adozione.
+
+#### Art. 9
+
+**Esenzione da dazi e tasse**
+
+<sup>1.</sup> Nella misura consentita dalle leggi e dai regolamenti nazionali e conformemente al principio di reciprocità, ciascuna Parte esenta le imprese designate dell’altra Parte da restrizioni all’importazione, dazi, imposte sul consumo, tasse per i controlli e altri dazi e tasse non basati sul costo dei servizi resi all’atterraggio per aeromobili, carburanti, lubrificanti, materiale tecnico di consumo, pezzi di ricambio, motori, normali attrezzature di bordo, provviste di bordo (compresi i prodotti destinati alla vendita ai passeggeri in quantità limitate durante il volo) e altri beni (veicoli a motore, materiale e attrezzature per fini specifici) destinati a essere utilizzati esclusivamente in relazione all’esercizio e alla manutenzione degli aeromobili di tali imprese o utilizzati soltanto in tale ambito, nonché per approvvigionamenti in titoli di trasporto stampati, lettere di trasporto aereo, stampati recanti il logo dell’impresa e il normale materiale pubblicitario distribuito gratuitamente da tali imprese.
+
+<sup>2.</sup> indipendentemente dal fatto che tali beni siano o non siano utilizzati o consumati interamente sul territorio della Parte che accorda le esenzioni, a condizione che tali beni non siano alienati sul territorio di tale Parte.
+
+Le esenzioni concesse in relazione ai beni di cui al paragrafo 1 del presente articolo si applicano se tali beni:
+
+- a. sono importati sul territorio di una Parte da o per conto di un’impresa designata dell’altra Parte;
+- b. si trovano a bordo di un aeromobile di un’impresa designata di una Parte all’entrata sul territorio o all’uscita dal territorio dell’altra Parte; oppure
+- c. sono imbarcati a bordo di un aeromobile di un’impresa designata di una Parte sul territorio dell’altra Parte,
+
+<sup>3.</sup> Le normali attrezzature di bordo, nonché il materiale e le provviste abitualmente a bordo degli aeromobili di un’impresa designata di una Parte possono essere sbarcati sul territorio dell’altra Parte soltanto con il consenso delle autorità doganali di questa Parte. In tal caso essi possono essere posti sotto la vigilanza di tali autorità fintanto che non siano riesportati o adibiti ad altro uso conformemente ai regolamenti doganali applicabili in questo territorio.
+
+<sup>4.</sup> Se tra le Parti esiste una Convenzione speciale per evitare la doppia imposizione in materia di imposte sul reddito e sul patrimonio, le disposizioni di tale Convenzione prevalgono.
+
+#### Art. 10
+
+**Transito diretto**
+
+I passeggeri, i bagagli e le merci in transito diretto sul territorio di una Parte che rimangono nella zona dell’aeroporto riservata a questo scopo saranno sottoposti soltanto a un controllo molto semplificato, a condizione che misure di sicurezza contro azioni violente, violazioni di confine, pirateria aerea e contrabbando di sostanze stupefacenti e i provvedimenti per il controllo dell’immigrazione non esigano diversamente. I bagagli e le merci in transito diretto sono esentati da dazi e altre tasse analoghe.
+
+#### Art. 11
+
+**Tasse di utilizzazione**
+
+<sup>1.</sup> Ciascuna Parte si adopera affinché le tasse di utilizzazione, imposte o ammesse all’imposizione dalle sue autorità competenti alle imprese designate dell’altra Parte, siano eque e adeguate. Dette tasse si fondano sui principi di una sana economia.
+
+<sup>2.</sup> Le tasse pagate per l’utilizzazione degli aeroporti, delle installazioni per la navigazione aerea o dei servizi offerti da una Parte alle imprese designate dell’altra Parte non devono eccedere quelle riscuotibili per gli aeromobili nazionali impiegati nel servizio internazionale.
+
+<sup>3.</sup> Ciascuna Parte promuove le consultazioni tra le autorità o gli organi competenti in materia di tasse sul proprio territorio e le imprese designate che utilizzano i servizi e le installazioni, e sostiene tali autorità od organi e le imprese designate a scambiarsi le informazioni necessarie per consentire una verifica precisa dell’adeguatezza delle tasse conformemente ai principi di cui ai paragrafi 1 e 2 del presente articolo. Ciascuna Parte incoraggia le autorità competenti in materia a informare gli utenti, entro un termine ragionevole, su proposte intese a modificare le tasse di utilizzazione, affinché gli stessi possano esprimere il loro parere prima che le modifiche siano attuate.
+
+#### Art. 12
+
+**Attività commerciali**
+
+<sup>1.</sup> Le imprese designate di una Parte hanno il diritto di mantenere sul territorio dell’altra Parte rappresentanze adeguate. Queste ultime possono comprendere personale amministrativo, operativo e tecnico, trasferito o assunto sul posto.
+
+<sup>2.</sup> All’attività commerciale si applica il principio della reciprocità. Le autorità competenti di ciascuna Parte prendono tutti i provvedimenti del caso per assicurare il buon funzionamento delle rappresentanze delle imprese designate dell’altra Parte.![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image12.png)
+
+<sup>3.</sup> In particolare, ciascuna Parte accorda alle imprese designate dell’altra Parte il diritto di vendere titoli di trasporto aereo sul proprio territorio direttamente e, a discrezione delle imprese, per il tramite dei suoi agenti. Le imprese designate sono autorizzate a vendere tali titoli di trasporto e ognuno è libero di acquistarli nella valuta di quel territorio o in valute liberamente convertibili di altri Stati.
+
+<sup>4.</sup> L’esercizio dei diritti secondo il presente articolo deve essere conforme alle prescrizioni nazionali applicabili dell’altra Parte.
+
+#### Art. 13
+
+**Code sharing**
+
+<sup>1.</sup>
+
+Nell’esercizio o nell’offerta (ovvero nella vendita di trasporti con il proprio codice su voli operati da un’altra impresa) dei servizi convenuti sulle linee indicate o su qualsiasi tratta delle linee, le imprese delle due Parti designate come imprese operative e/o non operative (di seguito «offerenti») possono concludere accordi di cooperazione commerciale come accordi di prenotazione di capacità («blocked space»), accordi di ripartizione di codici («code sharing») o altri accordi commerciali con:
+
+- – una o più imprese della stessa Parte;
+- – una o più imprese dell’altra Parte;
+- – una o più imprese di Stati terzi. Nel caso in cui una terza parte rifiuta o non permette accordi analoghi tra le imprese dell’altra Parte e altre imprese per servizi aerei a destinazione di, provenienti da e attraverso tale Stato terzo, le autorità aeronautiche della Parte interessata possono negare l’approvazione di tali accordi.
+
+<sup>2.</sup> Tutte le imprese che partecipano a un accordo di «code sharing» devono disporre dei corrispondenti diritti relativi alle linee e dei diritti di traffico.
+
+<sup>3.</sup> Le imprese offerenti non possono esercitare alcun diritto di traffico in quinta libertà nei trasporti in «code sharing».
+
+<sup>4.</sup> I trasporti in «code sharing» devono soddisfare i requisiti previsti dalla legge abitualmente prescritti dalle Parti per tali trasporti, compresi i requisiti relativi alla protezione dei dati dei passeggeri, alla sicurezza tecnica, alla sicurezza dell’aviazione, alla responsabilità nonché altri requisiti abitualmente applicati ad altre imprese che effettuano traffico internazionale.
+
+<sup>5.</sup> Se sono disponibili aree di vendita, l’impresa offerente deve informare in modo comprensibile i passeggeri, presso il punto vendita, sulle prestazioni delle imprese sui singoli segmenti di servizi.
+
+<sup>6.</sup> Almeno trenta (30) giorni prima dell’inizio dell’esercizio, l’impresa designata di ogni Parte notifica all’autorità aeronautica dell’altra Parte la linea, la frequenza, il codice di volo e i dati delle imprese che partecipano all’esercizio della linea.
+
+#### Art. 14
+
+**Leasing**
+
+<sup>1.</sup> Ciascuna Parte può impedire l’uso di aeromobili presi in leasing per i servizi menzionati nel presente Accordo che non soddisfano le disposizioni degli articoli 7 (Sicurezza dell’aviazione) e 8 (Sicurezza tecnica).
+
+<sup>2.</sup> Fatto salvo il paragrafo 1, le imprese designate di ciascuna Parte possono prendere in leasing aeromobili (oppure aeromobili ed equipaggi) da qualsiasi impresa, incluso da altre imprese di trasporti aerei, a condizione che ciò non permetta all’impresa che concede l’aeromobile in leasing (cosiddetto «wet-leasing») di esercitare diritti di traffico che non le spettano.
+
+#### Art. 15
+
+**Conversione e trasferimento degli introiti**
+
+Le imprese designate delle due Parti hanno il diritto di convertire e trasferire liberamente nel loro Paese, in una valuta convertibile, su richiesta e senza restrizioni, gli introiti locali eccedenti le spese locali conseguiti nel territorio dell’altra Parte dalla vendita di titoli di trasporto. La conversione e il trasferimento saranno autorizzati immediatamente al tasso applicabile o ufficiale per le transazioni correnti e alla data del trasferimento. Se il traffico dei pagamenti tra le Parti è disciplinato da un accordo speciale, concluso conformemente alle disposizioni nazionali e internazionali, questo è applicabile.
+
+#### Art. 16
+
+**Trasporto aereo intermodale![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image13.png)**
+
+<sup>1.</sup> Ciascuna impresa designata può utilizzare il trasporto intermodale se autorizzato dalle autorità aeronautiche delle Parti.
+
+<sup>2.</sup> A prescindere da qualsiasi altra disposizione del presente Accordo, le imprese di trasporti aerei e i fornitori indiretti di servizi di trasporto merci delle Parti sono autorizzati, senza alcuna restrizione, a impiegare, in connessione con il trasporto aereo internazionale, qualsiasi servizio di trasporto merci di superficie da o verso qualsiasi punto situato nel territorio delle Parti o in Paesi terzi, compreso il trasporto da e verso tutti gli aeroporti dotati di installazioni doganali e compreso, laddove applicabile, il diritto di trasportare merci soggette a custodia o controllo a norma delle disposizioni legislative e regolamentari applicabili. Le suddette merci, siano esse trasportate per via aerea o per via di superficie, hanno accesso alle formalità e ai controlli doganali e alle installazioni degli aeroporti. Le imprese di trasporti aerei possono scegliere di effettuare esse stesse il proprio trasporto di superficie ovvero di farlo eseguire in base ad accordi stipulati con altri trasportatori di superficie, compreso il trasporto di superficie effettuato da altre imprese di trasporti aerei e da fornitori indiretti di servizi di trasporto merci per via aerea.
+
+<sup>3.</sup> I suddetti servizi di trasporto intermodale di merci possono essere offerti, in conformità alla legislazione di ogni Stato, a un prezzo unico, comprensivo di tutto il trasporto combinato aria-superficie.
+
+#### Art. 17
+
+**Tariffe**
+
+<sup>1.</sup> Ciascuna Parte può esigere che le tariffe per i servizi aerei internazionali esercitati conformemente al presente Accordo siano notificate o sottoposte alle sue autorità aeronautiche.
+
+<sup>2.</sup>
+
+Senza limitare l’applicazione della normativa generale in materia di concorrenza e di consumatori nel territorio di ciascuna Parte, gli interventi delle Parti si limitano a:
+
+- a. impedire tariffe o pratiche discriminanti inique;
+- b. proteggere i consumatori da tariffe esageratamente elevate o restrittive ottenute con l’abuso di una posizione dominante o in seguito ad accordi in materia di prezzi tra le imprese; e
+- c. proteggere le imprese da tariffe mantenute artificialmente basse grazie a sussidi statali diretti o indiretti o a sostegni.
+
+<sup>3.</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image14.png)Nessuna delle Parti intraprende passi unilaterali per impedire l’introduzione o il mantenimento di una tariffa riscossa o proposta dalle imprese designate di una Parte per l’esercizio di servizi aerei internazionali tra i rispettivi territori. Se ritiene che una tariffa non sia conforme alle considerazioni enunciate nel presente articolo, una Parte può chiedere consultazioni![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image15.png) e notificare all’altra Parte le ragioni del proprio disaccordo entro un termine di quattordici (14) giorni dal ricevimento della richiesta d’esame. Tali consultazioni si svolgono al più tardi quattordici (14) giorni dopo il ricevimento della richiesta d’esame. Se non si giunge a un’intesa, la tariffa viene applicata o rimane in vigore.
+
+#### Art. 18
+
+**Approvazione degli orari**
+
+<sup>1.</sup> Ciascuna Parte può esigere che gli orari previsti dalle imprese designate dell’altra Parte siano notificati alle proprie autorità aeronautiche al più tardi trenta (30) giorni prima dell’inizio dei servizi convenuti. Lo stesso disciplinamento si applica a qualsiasi modifica di orario.
+
+<sup>2.</sup> Per i voli supplementari al di fuori degli orari approvati per i servizi convenuti, le imprese designate di una Parte chiedono previamente l’autorizzazione delle autorità aeronautiche dell’altra Parte. Di regola, l’istanza è presentata almeno due (2) giorni lavorativi prima del previsto esercizio di tale volo.
+
+#### Art. 19
+
+**Statistiche**
+
+Le autorità aeronautiche di entrambe le Parti si trasmettono reciprocamente, su richiesta, statistiche periodiche o altri dati analoghi concernenti il traffico relativo ai servizi convenuti.
+
+#### Art. 20
+
+**Consultazioni**
+
+Ciascuna Parte può chiedere in qualsiasi momento consultazioni in merito all’attuazione, all’interpretazione, all’applicazione o alla modifica del presente Accordo. Dette consultazioni, che possono svolgersi tra autorità aeronautiche, iniziano il prima possibile, al più tardi però sessanta (60) giorni dal ricevimento della domanda scritta dell’altra Parte, a meno che le Parti non abbiano convenuto diversamente. Ciascuna Parte si prepara per queste consultazioni, nel corso delle quali presenta prove utili a sostenere la sua posizione al fine di facilitare decisioni appropriate e realizzabili sotto il profilo economico avendo piena conoscenza della situazione.
+
+#### Art. 21
+
+**Composizione delle controversie**
+
+<sup>1.</sup> Qualsiasi controversia inerente al presente Accordo che non può essere composta mediante negoziati diretti o per via diplomatica sarà sottoposta, su richiesta di una delle Parti, a un tribunale arbitrale.
+
+<sup>2.</sup> In tal caso ciascuna Parte designa un arbitro e i due arbitri cooptano un presidente, cittadino di uno Stato terzo. Se entro un termine di due (2) mesi a decorrere dal giorno in cui una delle Parti ha designato il proprio arbitro l’altra Parte non ha ancora designato il suo o se, nel corso del mese successivo alla designazione del secondo arbitro, i due arbitri non s’intendono sulla scelta del presidente, ciascuna Parte può chiedere al presidente del Consiglio dell’Organizzazione per l’aviazione civile internazionale di procedere alle designazioni necessarie.
+
+<sup>3.</sup> Il tribunale arbitrale fissa la sua procedura e decide sulla suddivisione delle spese procedurali.
+
+<sup>4.</sup> Le Parti si impegnano a conformarsi a qualsiasi decisione pronunciata in virtù del presente articolo.
+
+#### Art. 22
+
+**Modifiche**
+
+<sup>1.</sup> Se una delle Parti giudica auspicabile modificare una qualsiasi disposizione del presente Accordo, tale modifica entra in vigore non appena le due Parti si sono notificate reciprocamente l’adempimento delle formalità giuridiche.
+
+<sup>2.</sup> Modifiche all’Allegato del presente Accordo possono essere convenute direttamente tra le autorità aeronautiche delle Parti. Le modifiche sono applicate provvisoriamente dal giorno in cui sono state convenute ed entrano in vigore dopo essere state confermate mediante scambio di note diplomatiche.
+
+<sup>3.</sup> In caso di conclusione di una convenzione generale multilaterale relativa al traffico aereo che vincoli ciascuna Parte, il presente Accordo sarà emendato al fine di essere conforme alle disposizioni di detta convenzione.
+
+#### Art. 23
+
+**Denuncia**
+
+<sup>1.</sup> Ciascuna Parte può notificare in qualsiasi momento per scritto e per via diplomatica all’altra Parte di voler denunciare il presente Accordo. La notifica va inviata contemporaneamente all’Organizzazione per l’aviazione civile internazionale.
+
+<sup>2.</sup> La denuncia diventa efficace alla fine di un periodo d’orario, trascorso un termine di dodici (12) mesi dal ricevimento della notifica, sempre che la denuncia non venga revocata di comune intesa fra le Parti![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/190/20240604/it/xml/image/image16.png) prima dello scadere di questo termine.
+
+<sup>3.</sup> Se l’altra Parte non attesta di averla ricevuta, la denuncia si reputa pervenuta quattordici (14) giorni dopo che l’Organizzazione per l’aviazione civile internazionale ne ha ricevuto comunicazione.
+
+#### Art. 24
+
+**Registrazione**
+
+Il presente Accordo e tutte le sue modifiche sono registrati presso l’Organizzazione per l’Aviazione civile internazionale.
+
+#### Art. 25
+
+**Entrata in vigore**
+
+Il presente Accordo è applicato provvisoriamente dal giorno della sua firma.
+
+Il presente Accordo entra in vigore appena le Parti, mediante scambio di note diplomatiche, si sono notificate l’adempimento delle loro formalità giuridiche concernenti la conclusione e l’entrata in vigore di accordi internazionali. La data di entrata in vigore è la data dell’ultima notifica.
+
+*In fede di che*, i sottoscritti, debitamente incaricati dai rispettivi Governi, hanno firmato il presente Accordo. Fatto a Berna il 4 giugno 2024, in doppio esemplare, nelle lingue francese, bengali e inglese, i tre testi facenti parimente fede. In caso di divergenze di attuazione, interpretazione o applicazione, prevale il testo inglese. Per il Consiglio federale svizzero: Christian Hegner Per il Governo della Repubblica Popolare del Bangladesh: Muhammad Mafidur Rahman
+
+Allegato
+
+(Art. 1, 2, 3 e 22)
+
+## Tavole delle linee
+
+## I
+
+Linee sulle quali le imprese designate dalla Svizzera possono esercitare servizi aerei:
+
+<table>
+<tr><th>Punti di decollo</th><th>Punti di scalo intermedio</th><th>Punti in Bangladesh</th><th>Punti oltre il Bangladesh</th></tr>
+<tr><td>Svizzera</td><td>Europa\* e Asia\*</td><td>Tutti i punti</td><td>Da convenire in una fase successiva</td></tr>
+</table>
+
+## II
+
+Linee sulle quali le imprese designate dal Bangladesh possono esercitare servizi aerei:
+
+<table>
+<tr><th>Punti di decollo</th><th>Punti di scalo intermedio</th><th>Punti in Svizzera</th><th>Punti oltre la Svizzera</th></tr>
+<tr><td>Bangladesh</td><td>Europa\* e Asia\*</td><td>Tutti i punti</td><td>Da convenire in una fase successiva</td></tr>
+</table>
+
+\* Non possono essere esercitati i diritti di traffico in quinta libertà.
+
+**Note**
+
+Le imprese designate delle Parti hanno il diritto di servire punti nel territorio dell’altra Parte separatamente o in combinazione su uno stesso volo («co-terminalisation») a condizione che, ad eccezione dei propri scali intermedi («own stop-over»), non vengano esercitati diritti di traffico.
+
+in questo contesto non valgono limitazioni di direzione o limitazioni geografiche e non è possibile perdere i diritti di traffico accordati con il presente Accordo, sempre che questo servizio aereo serva un punto sul territorio dell’altra Parte che ha designato le imprese.
+
+Ogni impresa designata di una Parte può, a sua discrezione, su determinati o su tutti i voli:
+
+- 1\. effettuare voli in una direzione o in entrambe;
+- 2\. combinare diversi numeri di volo all’interno di un volo;
+- 3\. servire punti all’esterno dei territori, punti di scalo intermedio e punti situati oltre, nonché punti nei territori delle Parti in qualsiasi combinazione e ordine;
+- 4\. rinunciare ad atterraggi in un determinato punto o in determinati punti;
+- 5\. trasferire, in tutti i punti, traffico tra i propri aeromobili; e
+- 6\. servire punti al di fuori di ogni punto nel suo territorio, con o senza cambiamento di aeromobile o di numero di volo, rendendo noti e offrendo tali servizi al pubblico come voli diretti,
