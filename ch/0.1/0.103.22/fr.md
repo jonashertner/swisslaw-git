@@ -3,16 +3,18 @@ sr: "0.103.22"
 title: "Deuxième protocole facultatif du 15 décembre 1989 se rapportant au Pacte international relatif aux droits civils et politiques, visant à abolir la peine de mort"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202"
 language: fr
-version: 2020-01-29
+version: 2024-06-04
 adopted: 1989-12-15
 in_force: 1994-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20200129/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20200129-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20200129/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20240604/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20240604-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20240604/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Deuxième Protocole facultatif se rapportant au Pacte international relatif aux droits civils et politiques, visant à abolir la peine de mort
+
+RO **1994** 2202; FF **1993** I 943
 
 Texte original
 
@@ -24,9 +26,9 @@ Instrument d’adhésion déposé par la Suisse le 16 juin 1994
 
 Entré en vigueur pour la Suisse le 16 septembre 1994
 
-(Etat le 29 janvier 2020)
+(État le 4 juin 2024)
 
-[^t-1]: RO **1994** 2202; FF **1993** I 943 RO **1994** 2201
+[^t-1]: [RO 1994 2201](https://fedlex.data.admin.ch/eli/oc/1994/2201_2201_2201)
 
 Les États parties au présent Protocole,
 
@@ -115,7 +117,7 @@ Le Secrétaire général de l’Organisation des Nations Unies informera tous le
 
 (Suivent les signatures)
 
-Champ d’application le 29 janvier 2020**[^t-2]**
+Champ d’application le 4 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -125,6 +127,7 @@ Champ d’application le 29 janvier 2020**[^t-2]**
 <tr><td>Andorre</td><td>22 septembre</td><td>2006</td><td>22 décembre</td><td>2006</td></tr>
 <tr><td>Angola</td><td>2 octobre</td><td>2019</td><td>2 janvier</td><td>2020</td></tr>
 <tr><td>Argentine</td><td>2 septembre</td><td>2008</td><td>2 décembre</td><td>2008</td></tr>
+<tr><td>Arménie</td><td>18 mars</td><td>2021</td><td>18 juin</td><td>2021</td></tr>
 <tr><td>Australie</td><td>2 octobre</td><td>1990 A</td><td>11 juillet</td><td>1991</td></tr>
 <tr><td>Autriche\*\*</td><td>2 mars</td><td>1993</td><td>2 juin</td><td>1993</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>22 janvier</td><td>1999 A</td><td>22 avril</td><td>1999</td></tr>
@@ -140,6 +143,7 @@ Champ d’application le 29 janvier 2020**[^t-2]**
 <tr><td>Chypre</td><td>10 septembre</td><td>1999 A</td><td>10 décembre</td><td>1999</td></tr>
 <tr><td>Colombie</td><td>5 août</td><td>1997 A</td><td>5 novembre</td><td>1997</td></tr>
 <tr><td>Costa Rica</td><td>5 juin</td><td>1998</td><td>5 septembre</td><td>1998</td></tr>
+<tr><td>Côte d’Ivoire</td><td>3 mai</td><td>2024 A</td><td>3 août</td><td>2024</td></tr>
 <tr><td>Croatie</td><td>12 octobre</td><td>1995 A</td><td>12 janvier</td><td>1996</td></tr>
 <tr><td>Danemark</td><td>24 février</td><td>1994</td><td>24 mai</td><td>1994</td></tr>
 <tr><td>Djibouti</td><td>5 novembre</td><td>2002 A</td><td>5 février</td><td>2003</td></tr>
@@ -159,6 +163,7 @@ Champ d’application le 29 janvier 2020**[^t-2]**
 <tr><td>Irlande\*\*</td><td>18 juin</td><td>1993 A</td><td>18 septembre</td><td>1993</td></tr>
 <tr><td>Islande</td><td>2 avril</td><td>1991</td><td>11 juillet</td><td>1991</td></tr>
 <tr><td>Italie\*\*</td><td>14 février</td><td>1995</td><td>14 mai</td><td>1995</td></tr>
+<tr><td>Kazakhstan</td><td>24 mars</td><td>2022</td><td>24 juin</td><td>2022</td></tr>
 <tr><td>Kirghizistan</td><td>6 décembre</td><td>2010 A</td><td>6 mars</td><td>2011</td></tr>
 <tr><td>Lettonie</td><td>19 avril</td><td>2013 A</td><td>19 juillet</td><td>2013</td></tr>
 <tr><td>Libéria</td><td>16 septembre</td><td>2005 A</td><td>16 décembre</td><td>2005</td></tr>
@@ -214,7 +219,7 @@ Champ d’application le 29 janvier 2020**[^t-2]**
 <tr><td>Ukraine</td><td>25 juillet</td><td>2007 A</td><td>25 octobre</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>21 janvier</td><td>1993</td><td>21 avril</td><td>1993</td></tr>
 <tr><td>Venezuela</td><td>22 février</td><td>1993</td><td>22 mai</td><td>1993</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1994 2202](https://fedlex.data.admin.ch/eli/oc/1994/2202_2202_2202), [2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255), [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659), [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597), [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206), [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407), [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289), [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245), [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30), [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255); [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659); [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597); [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206); [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407); [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289); [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245); [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30); [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73); [2024 255](https://fedlex.data.admin.ch/eli/oc/2024/255). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

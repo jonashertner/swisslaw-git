@@ -3,11 +3,11 @@ sr: "0.103.22"
 title: "Secondo protocollo facoltativo al Patto internazionale relativo ai diritti civili e politici, volto ad abolire la pena di morte, del 15 dicembre 1989"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202"
 language: it
-version: 2020-01-29
+version: 2024-06-04
 adopted: 1989-12-15
 in_force: 1994-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20200129/it/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20200129-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20200129/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20240604/it/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20240604-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20240604/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1994** 2202; FF **1993** I 787
 
 Traduzione
 
-Concluso a Nuova York il 15 dicembre 1989
+Concluso a Nuova York il 15 dicembre 1989 Approvato dall’Assemblea federale il 17 dicembre 1993[^t-1] Istrumento di adesione depositato dalla Svizzera il 16 giugno 1994 Entrato in vigore per la Svizzera il 16 settembre 1994
 
-Approvato dall’Assemblea federale il 17 dicembre 1993[^t-1]
-
-Istrumento di adesione depositato dalla Svizzera il 16 giugno 1994
-
-Entrato in vigore per la Svizzera il 16 settembre 1994
-
-(Stato 29 gennaio 2020)
+(Stato 4 giugno 2024)
 
 [^t-1]: [RU 1994 2201](https://fedlex.data.admin.ch/eli/oc/1994/2201_2201_2201)
 
@@ -114,7 +108,7 @@ Il Segretario generale delle Nazioni Unite informerà tutti gli Stati indicati a
 
 - a) delle riserve, comunicazioni e notifiche ricevute secondo l’articolo 2 del presente Protocollo;
 - b) delle dichiarazioni fatte in virtù degli articoli 4 e 5 del presente Protocollo;
-- e) delle firme apposte al presente Protocollo e degli strumenti di ratifica e d’adesione depositati conformemente all’articolo 7 del presente Protocollo;
+- c) delle firme apposte al presente Protocollo e degli strumenti di ratifica e d’adesione depositati conformemente all’articolo 7 del presente Protocollo;
 - d) della data in cui il presente Protocollo entrerà in vigore in conformità all’articolo 8.
 
 [^10-1]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
@@ -129,14 +123,15 @@ Il Segretario generale delle Nazioni Unite informerà tutti gli Stati indicati a
 
 (Seguono le firme)
 
-Campo d’applicazione il 29 gennaio 2020**[^t-2]**
+Campo d’applicazione il 4 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania</td><td>17 ottobre</td><td>2007 A</td><td>17 gennaio</td><td>2008</td></tr>
+<tr><td>Albania</td><td>17 ottobre</td><td>2007 A</td><td>17 ottobre</td><td>2008</td></tr>
 <tr><td>Andorra</td><td>22 settembre</td><td>2006</td><td>22 dicembre</td><td>2006</td></tr>
 <tr><td>Angola</td><td>2 ottobre</td><td>2019</td><td>2 gennaio</td><td>2020</td></tr>
 <tr><td>Argentina</td><td>2 settembre</td><td>2008</td><td>2 dicembre</td><td>2008</td></tr>
+<tr><td>Armenia</td><td>18 marzo</td><td>2021</td><td>18 giugno</td><td>2021</td></tr>
 <tr><td>Australia</td><td>2 ottobre</td><td>1990 A</td><td>11 luglio</td><td>1991</td></tr>
 <tr><td>Austria<sup>\*\*</sup></td><td>2 marzo</td><td>1993</td><td>2 giugno</td><td>1993</td></tr>
 <tr><td>Azerbaigian<sup>\*</sup></td><td>22 gennaio</td><td>1999 A</td><td>22 aprile</td><td>1999</td></tr>
@@ -152,6 +147,7 @@ Campo d’applicazione il 29 gennaio 2020**[^t-2]**
 <tr><td>Cile<sup>\*</sup></td><td>26 settembre</td><td>2008</td><td>26 dicembre</td><td>2008</td></tr>
 <tr><td>Cipro</td><td>10 settembre</td><td>1999 A</td><td>10 dicembre</td><td>1999</td></tr>
 <tr><td>Colombia</td><td>5 agosto</td><td>1997 A</td><td>5 novembre</td><td>1997</td></tr>
+<tr><td>Costa d’Avorio</td><td>3 maggio</td><td>2024 A</td><td>3 agosto</td><td>2024</td></tr>
 <tr><td>Costa Rica</td><td>5 giugno</td><td>1998</td><td>5 settembre</td><td>1998</td></tr>
 <tr><td>Croazia</td><td>12 ottobre</td><td>1995 A</td><td>12 gennaio</td><td>1996</td></tr>
 <tr><td>Danimarca</td><td>24 febbraio</td><td>1994</td><td>24 maggio</td><td>1994</td></tr>
@@ -173,6 +169,7 @@ Campo d’applicazione il 29 gennaio 2020**[^t-2]**
 <tr><td>Irlanda<sup>\*\*</sup></td><td>18 giugno</td><td>1993 A</td><td>18 settembre</td><td>1993</td></tr>
 <tr><td>Islanda</td><td>2 aprile</td><td>1991</td><td>11 luglio</td><td>1991</td></tr>
 <tr><td>Italia<sup>\*\*</sup></td><td>14 febbraio</td><td>1995</td><td>14 maggio</td><td>1995</td></tr>
+<tr><td>Kazakistan</td><td>24 marzo</td><td>2022</td><td>24 giugno</td><td>2022</td></tr>
 <tr><td>Kirghizistan</td><td>6 dicembre</td><td>2010 A</td><td>6 marzo</td><td>2011</td></tr>
 <tr><td>Lettonia</td><td>19 aprile</td><td>2013 A</td><td>19 luglio</td><td>2013</td></tr>
 <tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 dicembre</td><td>2005</td></tr>
@@ -227,8 +224,8 @@ Campo d’applicazione il 29 gennaio 2020**[^t-2]**
 <tr><td>Uruguay</td><td>21 gennaio</td><td>1993</td><td>21 aprile</td><td>1993</td></tr>
 <tr><td>Uzbekistan</td><td>23 dicembre</td><td>2008 A</td><td>23 marzo</td><td>2009</td></tr>
 <tr><td>Venezuela</td><td>22 febbraio</td><td>1993</td><td>22 maggio</td><td>1993</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1994 2202](https://fedlex.data.admin.ch/eli/oc/1994/2202_2202_2202), [2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255), [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659), [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597), [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206), [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407), [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289), [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245), [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30)e [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255); [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659); [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597); [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206); [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407); [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289); [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245); [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30); [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73); [2024 255](https://fedlex.data.admin.ch/eli/oc/2024/255). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

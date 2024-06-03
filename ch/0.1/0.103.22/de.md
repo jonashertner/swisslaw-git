@@ -3,11 +3,11 @@ sr: "0.103.22"
 title: Zweites Fakultativprotokoll vom 15. Dezember 1989 zum Internationalen Pakt über bürgerliche und politische Rechte zur Abschaffung der Todesstrafe
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202"
 language: de
-version: 2020-01-29
+version: 2024-06-04
 adopted: 1989-12-15
 in_force: 1994-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20200129/de/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20200129-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20200129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2202_2202_2202/20240604/de/xml/fedlex-data-admin-ch-eli-cc-1994-2202_2202_2202-20240604-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2202_2202_2202/20240604/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1994** 2202; BBl **1993** I 995
 
 Abgeschlossen in New York am 15. Dezember 1989 Von der Bundesversammlung genehmigt am 17. Dezember 1993[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 16. Juni 1994 In Kraft getreten für die Schweiz am 16. September 1994
 
-(Stand am 29. Januar 2020)
+(Stand am 4. Juni 2024)
 
 [^t-1]: [AS 1994 2201](https://fedlex.data.admin.ch/eli/oc/1994/2201_2201_2201)
 
@@ -111,7 +111,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle in Artikel 48 Absa
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Januar 2020**[^t-2]**
+Geltungsbereich am 4. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -119,6 +119,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Andorra</td><td>22. September</td><td>2006</td><td>22. Dezember</td><td>2006</td></tr>
 <tr><td>Angola</td><td>2. Oktober</td><td>2019</td><td>2. Januar</td><td>2020</td></tr>
 <tr><td>Argentinien</td><td>2. September</td><td>2008</td><td>2. Dezember</td><td>2008</td></tr>
+<tr><td>Armenien</td><td>18. März</td><td>2021</td><td>18. Juni</td><td>2021</td></tr>
 <tr><td>Aserbaidschan\*</td><td>22. Januar</td><td>1999 B</td><td>22. April</td><td>1999</td></tr>
 <tr><td>Australien</td><td>2. Oktober</td><td>1990 B</td><td>11. Juli</td><td>1991</td></tr>
 <tr><td>Belgien</td><td>8. Dezember</td><td>1998</td><td>8. März</td><td>1999</td></tr>
@@ -129,6 +130,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Bulgarien</td><td>10. August</td><td>1999</td><td>10. November</td><td>1999</td></tr>
 <tr><td>Chile\*</td><td>26. September</td><td>2008</td><td>26. Dezember</td><td>2008</td></tr>
 <tr><td>Costa Rica</td><td>5. Juni</td><td>1998</td><td>5. September</td><td>1998</td></tr>
+<tr><td>Côte d’Ivoire</td><td>3. Mai</td><td>2024 B</td><td>3. August</td><td>2024</td></tr>
 <tr><td>Dänemark</td><td>24. Februar</td><td>1994</td><td>24. Mai</td><td>1994</td></tr>
 <tr><td>Deutschland\*\*</td><td>18. August</td><td>1992</td><td>18. November</td><td>1992</td></tr>
 <tr><td>Dominikanische Republik</td><td>21. September</td><td>2016 B</td><td>21. Dezember</td><td>2016</td></tr>
@@ -149,6 +151,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Italien\*\*</td><td>14. Februar</td><td>1995</td><td>14. Mai</td><td>1995</td></tr>
 <tr><td>Kanada</td><td>25. November</td><td>2005 B</td><td>25. Februar</td><td>2006</td></tr>
 <tr><td>Kap Verde</td><td>19. Mai</td><td>2000 B</td><td>19. August</td><td>2000</td></tr>
+<tr><td>Kasachstan</td><td>24. März</td><td>2022</td><td>24. Juni</td><td>2022</td></tr>
 <tr><td>Kirgisistan</td><td>6. Dezember</td><td>2010 B</td><td>6. März</td><td>2011</td></tr>
 <tr><td>Kolumbien</td><td>5. August</td><td>1997 B</td><td>5. November</td><td>1997</td></tr>
 <tr><td>Kroatien</td><td>12. Oktober</td><td>1995 B</td><td>12. Januar</td><td>1996</td></tr>
@@ -210,7 +213,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Insel Man</td><td>10. Dezember</td><td>1999</td><td>10. März</td><td>2000</td></tr>
 <tr><td>Jersey</td><td>10. Dezember</td><td>1999</td><td>10. März</td><td>2000</td></tr>
 <tr><td>Zypern</td><td>10. September</td><td>1999 B</td><td>10. Dezember</td><td>1999</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1994 2202](https://fedlex.data.admin.ch/eli/oc/1994/2202_2202_2202), [2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255), [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659), [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597), [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206), [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407), [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289), [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245), [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30), [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 1649](https://fedlex.data.admin.ch/eli/oc/2006/255); [2007 4667](https://fedlex.data.admin.ch/eli/oc/2007/659); [2008 4195](https://fedlex.data.admin.ch/eli/oc/2008/597); [2009 1289](https://fedlex.data.admin.ch/eli/oc/2009/206); [2012 3597](https://fedlex.data.admin.ch/eli/oc/2012/407); [2014 1363](https://fedlex.data.admin.ch/eli/oc/2014/289); [2015 1221](https://fedlex.data.admin.ch/eli/oc/2015/245); [2017 109](https://fedlex.data.admin.ch/eli/oc/2017/30); [2020 433](https://fedlex.data.admin.ch/eli/oc/2020/73); [2024 255](https://fedlex.data.admin.ch/eli/oc/2024/255). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
