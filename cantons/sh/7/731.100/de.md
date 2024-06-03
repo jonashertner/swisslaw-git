@@ -4,23 +4,24 @@ number: "731.100"
 title: Elektrizitätsgesetz
 language: de
 version: 2020-01-01
-valid_until: 2024-09-30
+corrected: 2024-06-04
 version_adopted: 2019-08-19
 adopted: 2000-01-24
 in_force: 2000-06-15
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/731.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/950/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/297/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Elektrizitätsgesetz
 
-Vom 24.01.2000 (Stand 01.01.2020)
+vom 24. Januar 2000
 
-Der Grosse Rat des Kantons Schaffhausen,
+Der Grosse Rat des Kantons Schaffhausen
 
-beschliesst:
+beschliesst als Gesetz:
 
 #### Art. 1
 
@@ -28,10 +29,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sorgt für eine flächendeckende Grundversorgung von Bevölkerung und Wirtschaft mit elektrischer Energie.
 
-<sup>2</sup> Zur Grundversorgung gehören:
+<sup>2</sup> Zur Grundversorgung gehören − der Bau und Betrieb des erforderlichen Leitungsnetzes;
 
-- a) der Bau und Betrieb des erforderlichen Leitungsnetzes
-- b) die regelmässige und ausreichende Versorgung mit elektrischer Energie
+− die regelmässige und ausreichende Versorgung mit elektrischer Energie.
 
 <sup>3</sup> Zu diesem Zweck steht dem Kanton das ausschliessliche Recht zu, ein Netz zu errichten und zu betreiben.
 
@@ -55,7 +55,9 @@ beschliesst:
 
 <sup>2</sup> Ausserhalb ihres bisherigen Versorgungsgebietes sind Gemeindewerke privaten Konzessionsbewerberinnen gleichgestellt.
 
-<sup>3</sup> Wandeln Gemeinden ihre Elektrizitätswerke in privatrechtliche Unternehmen um oder bringen sie sie in solche ein, so hat der neue Unternehmensträger Anspruch auf die Erteilung einer Konzession gemäss Art. 2 Abs. 2, solange die Gemeinde die kapital- und stimmenmässige Mehrheit am Unternehmen hat.
+Amtsblatt 2000, S. 759.
+
+<sup>3</sup> Wandeln Gemeinden ihre Elektrizitätswerke in privatrechtliche Unternehmen um oder bringen sie sie in solche ein, so hat der neue Unternehmensträger Anspruch auf die Erteilung einer Konzession gemäss Art 2 Abs. 2, solange die Gemeinde die kapital- und stimmenmässige Mehrheit am Unternehmen hat.
 
 <sup>4</sup> Gibt die Gemeinde ohne Zustimmung des Regierungsrates die kapital- und stimmenmässige Mehrheit am Unternehmen auf, so fällt die Konzession dahin.
 
@@ -77,7 +79,7 @@ beschliesst:
 
 **Rechtsnachfolge**
 
-<sup>1</sup> Falls die Netzbetreiberin ohne Zustimmung des Regierungsrates die Rechte und Pflichten der Konzession im Rahmen einer Umstrukturierung auf eine Rechtsnachfolgerin überträgt, fällt die Konzession dahin. Als Umstrukturierung gilt auch die Übertragung eines Teil- oder des Gesamtvermögens auf ein anderes Rechtssubjekt.
+Falls die Netzbetreiberin ohne Zustimmung des Regierungsrates die Rechte und Pflichten der Konzession im Rahmen einer Umstrukturierung auf eine Rechtsnachfolgerin überträgt, fällt die Konzession dahin. Als Umstrukturierung gilt auch die Übertragung eines Teil- oder des Gesamtvermögens auf ein anderes Rechtssubjekt.
 
 #### Art. 6
 
@@ -93,7 +95,7 @@ beschliesst:
 
 **Inanspruchnahme von privatem Grund**
 
-<sup>1</sup> Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsrecht nach den Bestimmungen des kantonalen Enteignungsgesetzes zu.
+Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsrecht nach den Bestimmungen des kantonalen Enteignungsgesetzes zu.
 
 #### Art. 8
 
@@ -119,7 +121,7 @@ beschliesst:
 
 **Umwandlung**
 
-<sup>1</sup> Das Elektrizitätswerk des Kantons Schaffhausen (EKS) wird in eine Aktiengesellschaft nach Art. 620 OR mit einem Aktienkapital von Fr. 20'000'000.00 umgewandelt.
+<sup>1</sup> Das Elektrizitätswerk des Kantons Schaffhausen (EKS) wird in eine Aktiengesellschaft nach Art. 620 OR mit einem Aktienkapital von 20'000'000 Franken umgewandelt.
 
 <sup>2</sup> Die Durchführung der Umwandlung obliegt dem Regierungsrat. Er lässt die Gründungsstatuten vom Grossen Rat genehmigen.
 
@@ -127,9 +129,11 @@ beschliesst:
 
 **Wahrnehmung der Aktionärsrechte**
 
-<sup>1</sup> Die Aktionärsrechte des Kantons werden vom Regierungsrat ausgeübt.
+Die Aktionärsrechte des Kantons werden vom Regierungsrat ausgeübt.
 
 #### Art. 12
+
+<sup>3)</sup>
 
 **Kompetenzen zur Veräusserung von Aktien**
 
@@ -145,35 +149,44 @@ beschliesst:
 
 **Arbeitsbedingungen des Personals**
 
-<sup>1</sup> Solange der Kanton über die Mehrheit der Aktienstimmen verfügt, sind die Arbeitsbedingungen des Personals sozialpartnerschaftlich zu regeln. Anzustreben ist der Abschluss eines Gesamtarbeitsvertrages.
+Solange der Kanton über die Mehrheit der Aktienstimmen verfügt, sind die Arbeitsbedingungen des Personals sozialpartnerschaftlich zu regeln. Anzustreben ist der Abschluss eines Gesamtarbeitsvertrages.
 
 #### Art. 14
 
 **NOK-Gründungsvertrag**
 
-<sup>1</sup> Der Regierungsrat ist ermächtigt, Änderungen des Vertrags über die Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke AG (NOK) endgültig zuzustimmen, wenn diese folgende Gegenstände betreffen:
+Der Regierungsrat ist ermächtigt, Änderungen des Vertrags über die Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke AG (NOK) endgültig zuzustimmen, wenn diese folgende Gegenstände betreffen:
 
-- a) Änderungen der Vertragsparteien und der Beteiligungsverhältnisse
-- b) Zusammensetzung des Verwaltungsrates
-- c) Veräusserungsmöglichkeiten von Aktien
-- d) Verpflichtung zur Lieferung oder zum Bezug elektrischer Energie
-- e) Vorzugsrecht der NOK zum Erwerb von Konzessionen
+- a) Änderungen der Vertragsparteien und der Beteiligungsverhältnisse;
+
+- b) Zusammensetzung des Verwaltungsrates;
+
+- c) Veräusserungsmöglichkeiten von Aktien;
+
+- d) Verpflichtung zur Lieferung oder zum Bezug elektrischer Energie;
+
+- e) Vorzugsrecht der NOK zum Erwerb von Konzessionen.
 
 #### Art. 15
 
 **Aufhebung bisheriger Erlasse**
 
-<sup>1</sup> Das Gesetz betreffend die Beschaffung und Verteilung elektrischer Energie vom 3. März 1908 sowie das Dekret über die Organisation und Verwaltung des Elektrizitätswerkes des Kantons Schaffhausen (EKS) vom 9. September 1940 werden auf einen vom Regierungsrat festzusetzenden Zeitpunkt aufgehoben.
+Das Gesetz betreffend die Beschaffung und Verteilung elektrischer Energie vom 3. März 1908 sowie das Dekret über die Organisation und Verwaltung des Elektrizitätswerkes des Kantons Schaffhausen (EKS) vom 9. September 1940 werden auf einen vom Regierungsrat festzusetzenden Zeitpunkt aufgehoben.
 
 #### Art. 16
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^16-1].
+<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft <sup>1)</sup>.
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^16-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^16-1]: In Kraft getreten am 15. Juni 2000 (Amtsblatt 2000, S. 758).
-[^16-2]: Amtsblatt 2000, S. 759.
+Fussnoten:
 
-Abl. 2000, S. 759
+- 1) In Kraft getreten am 15. Juni 2000 (Amtsblatt 2000, S. 758).
+
+- 2) Amtsblatt 2000, S. 759.
+
+- 3) Fassung gemäss G vom 19. August 2019, in Kraft getreten am
+
+\1. Januar 2020 (Amtsblatt 2019, S. 1404, S. 2049).
