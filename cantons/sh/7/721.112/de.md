@@ -4,20 +4,20 @@ number: "721.112"
 title: Vertrag über die Abtretung der Konzession für eine Wasserwerksanlage am Rhein bei Eglisau
 language: de
 version: 1915-04-03
+corrected: 2024-06-04
 version_adopted: 1915-04-03
 adopted: 1915-04-03
 in_force: 1915-04-03
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/721.112"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/938/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/323/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vertrag über die Abtretung der Konzession für eine Wasserwerksanlage am Rhein bei Eglisau
 
-Vom 03.04.1915 (Stand 03.04.1915)
-
-an die Nordostschweizerischen Kraftwerke AG, seitens der Elektrizitätswerke des Kantons Zürich und des Regierungsrates des Kantons Schaffhausen
+an die Nordostschweizerischen Kraftwerke AG seitens der Elektrizitätswerke des Kantons Zürich und des Regierungsrates des Kantons Schaffhausen vom 9./31. März/3. April 1915
 
 #### Art. 1
 
@@ -25,16 +25,19 @@ an die Nordostschweizerischen Kraftwerke AG, seitens der Elektrizitätswerke des
 
 <sup>2</sup> Mit der Konzession gehen über:
 
-- 1\. das Projekt für die Ausführung der Wasserwerksanlage mit sämtlichen Plänen, wie sie von den Projektverfassern und den Oberbauleitern aufgestellt worden sind
-- 2\. die von den Konzessionsinhabern erworbenen Pojektvorarbeiten für ein Rhein–Glatt–Tösswerk sowie das Projekt für den Umbau der Wasserkraftanlage der Mühle Rheinsfelden an der Glatt
+- 1\. das Projekt für die Ausführung der Wasserwerksanlage mit sämtlichen Plänen, wie sie von den Projektverfassern und den Oberbauleitern aufgestellt worden sind;
+
+- 2\. die von den Konzessionsinhabern erworbenen Pojektvorarbeiten für ein Rhein–Glatt–Tösswerk sowie das Projekt für den Umbau der Wasserkraftanlage der Mühle Rheinsfelden an der Glatt.
 
 #### Art. 2
 
-<sup>1</sup> Die NOK treten in sämtliche Rechte und Pflichten der bisherigen Konzessionsinhaber mit Bezug auf die Wasserwerksanlage ein.
+Die NOK treten in sämtliche Rechte und Pflichten der bisherigen Konzessionsinhaber mit Bezug auf die Wasserwerksanlage ein.
 
 #### Art. 3
 
-<sup>1</sup> Als Zeitpunkt des Überganges der Konzession an die NOK gilt der 1. Oktober 1914.
+Als Zeitpunkt des Überganges der Konzession an die NOK gilt der 1. Oktober 1914.
+
+Rechtsbuch 1964, Nr. 272.
 
 #### Art. 4
 
@@ -44,15 +47,15 @@ an die Nordostschweizerischen Kraftwerke AG, seitens der Elektrizitätswerke des
 
 #### Art. 5
 
-<sup>1</sup> Die NOK vergüten ferner den Inhabern der Konzession die nachgewiesenen Auslagen, die entstanden sind für Massnahmen zur Sicherung des Absatzes für die im Werk Eglisau zu produzierende Energie.
+Die NOK vergüten ferner den Inhabern der Konzession die nachgewiesenen Auslagen, die entstanden sind für Massnahmen zur Sicherung des Absatzes für die im Werk Eglisau zu produzierende Energie.
 
 #### Art. 6
 
-<sup>1</sup> Die NOK übernehmen die von den Inhabern der Konzession zum Zwecke der Erstellung der Wasserwerksanlage erworbenen Liegenschaften und ausgeführten sowie in Angriff genommenen Bauten. Sie treten in die bestehenden Unterhandlungen, insbesondere Expropriationsprozesse, über den Erwerb der weiterhin nötigen Liegenschaften und Rechte für die Anlage ein.
+Die NOK übernehmen die von den Inhabern der Konzession zum Zwecke der Erstellung der Wasserwerksanlage erworbenen Liegenschaften und ausgeführten sowie in Angriff genommenen Bauten. Sie treten in die bestehenden Unterhandlungen, insbesondere Expropriationsprozesse, über den Erwerb der weiterhin nötigen Liegenschaften und Rechte für die Anlage ein.
 
 #### Art. 7
 
-<sup>1</sup> Die NOK übernehmen auf den Zeitpunkt des Überganges der Konzession an sie die Baubüros mit dem gesamten Personal gemäss den bestehenden Verträgen.
+Die NOK übernehmen auf den Zeitpunkt des Überganges der Konzession an sie die Baubüros mit dem gesamten Personal gemäss den bestehenden Verträgen.
 
 #### Art. 8
 
@@ -62,10 +65,8 @@ an die Nordostschweizerischen Kraftwerke AG, seitens der Elektrizitätswerke des
 
 #### Art. 9
 
-<sup>1</sup> Sofern die EKZ und das EKS die Lieferung des auf das Grossherzogtum Baden entfallenden Anteils der nutzbar gemachten Kraft übernehmen, ist den beiden Werken die Energie zu den Selbstkosten ab Werk Eglisau zur Verfügung zu stellen. Jedenfalls sollen diese eine angemessene Verzinsung und Amortisation der Anlagen zulassen.
+Sofern die EKZ und das EKS die Lieferung des auf das Grossherzogtum Baden entfallenden Anteils der nutzbar gemachten Kraft übernehmen, ist den beiden Werken die Energie zu den Selbstkosten ab Werk Eglisau zur Verfügung zu stellen. Jedenfalls sollen diese eine angemessene Verzinsung und Amortisation der Anlagen zulassen.
 
 #### Art. 10
 
-<sup>1</sup> Die NOK übernehmen sämtliche Verpflichtungen, die sich aus dem Bau der Wasserwerksanlage in bezug auf die Erledigung der Einsprachen ergeben, die gegen das Werk erhoben werden und noch nicht endgültig erledigt sind, insbesondere betreffend die Fischerei.
-
-Rechtsbuch 1964, Nr. 272
+Die NOK übernehmen sämtliche Verpflichtungen, die sich aus dem Bau der Wasserwerksanlage in bezug auf die Erledigung der Einsprachen ergeben, die gegen das Werk erhoben werden und noch nicht endgültig erledigt sind, insbesondere betreffend die Fischerei.
