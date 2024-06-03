@@ -3,13 +3,13 @@ canton: FR
 number: "612.21"
 title: Verordnung über die massgebenden Beträge gemäss der letzten Staatsrechnung
 language: de
-version: 2023-06-06
-valid_until: 2024-06-03
-version_adopted: 2023-06-06
+version: 2024-06-04
+valid_until: 2025-06-02
+version_adopted: 2024-06-04
 adopted: 2026-06-09
 in_force: 2026-06-09
 url: "https://bdlf.fr.ch/app/de/texts_of_law/612.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7774/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8022/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7774/pdf_file"
 
 Beträge gemäss der letzten Staatsrechnung – V
 
-vom 06.06.2023 (Fassung in Kraft getreten am 06.06.2023)
+vom 04.06.2024 (Fassung in Kraft getreten am 04.06.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,7 +30,7 @@ gestützt auf Artikel 134b des Gesetzes vom 6. April 2001 über die Ausübung de
 
 gestützt auf die Artikel 30, 43 und 44 des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates (FHG);
 
-gestützt auf das Dekret vom 24. Mai 2023 zur Staatsrechnung des Kantons Freiburg für das Jahr 2022;
+gestützt auf das Dekret vom 22. Mai 2024 zur Staatsrechnung des Kantons Freiburg für das Jahr 2023;
 
 in Erwägung:
 
@@ -48,27 +48,27 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Auf der Grundlage der Staatsrechnung 2022 des Kantons Freiburg, die vom Grossen Rat am 24. Mai 2023 genehmigt worden ist, gelten die folgenden massgebenden Beträge:
+<sup>1</sup> Auf der Grundlage der Staatsrechnung 2023 des Kantons Freiburg, die vom Grossen Rat am 22. Mai 2024 genehmigt worden ist, gelten die folgenden massgebenden Beträge:
 
 <table>
 <tr><th>Verfassungs- und Rechtsgrundlagen</th><th>Satz</th><th>Bezugsgrundlage</th><th>Beträge</th></tr>
 <tr><td>♦ Verfassung des Kantons Freiburg vom 16. Mai 2004 (Art. 45 und 46)</td><td></td><td></td><td></td></tr>
-<tr><td>– obligatorisches Finanzreferendum</td><td>&gt; 1 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 47'455'818</td></tr>
-<tr><td>– fakultatives Finanzreferendum</td><td>&gt; ¼ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 11'863'954</td></tr>
+<tr><td>– obligatorisches Finanzreferendum</td><td>&gt; 1 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 44'683'182</td></tr>
+<tr><td>– fakultatives Finanzreferendum</td><td>&gt; ¼ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 11'170'796</td></tr>
 <tr><td>♦ Grossratsgesetz vom 6. September 2006 (Art. 141)</td><td></td><td></td><td></td></tr>
-<tr><td>– einmalige Ausgaben</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'931'977</td></tr>
-<tr><td>– wiederkehrende Ausgaben</td><td>&gt; 1/40 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 1'186'395</td></tr>
-<tr><td>– Einnahmenreduktionen</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'931'977</td></tr>
+<tr><td>– einmalige Ausgaben</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'585'398</td></tr>
+<tr><td>– wiederkehrende Ausgaben</td><td>&gt; 1/40 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 1'117'080</td></tr>
+<tr><td>– Einnahmenreduktionen</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'585'398</td></tr>
 <tr><td>♦ Gesetz vom 6. April 2001 über die Ausübung der politischen Rechte (Art. 134b)</td><td></td><td></td><td></td></tr>
-<tr><td>– Studienkredite</td><td>&gt; ½ ‰</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 2'372'791</td></tr>
+<tr><td>– Studienkredite</td><td>&gt; ½ ‰</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 2'234'159</td></tr>
 <tr><td>♦ Gesetz vom 25. November 1994 über den Finanzhaushalt des Staates</td><td></td><td></td><td></td></tr>
-<tr><td>– Art. 30: Verpflichtungskredit für Investitionsausgaben, Ausgaben für Umbau und Renovierung sowie für Investitionsbeiträge</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'931'977</td></tr>
+<tr><td>– Art. 30: Verpflichtungskredit für Investitionsausgaben, Ausgaben für Umbau und Renovierung sowie für Investitionsbeiträge</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'585'398</td></tr>
 <tr><td>– Art. 43: Befugnisse des Grossen Rates</td><td></td><td></td><td></td></tr>
-<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>&gt; ½ %</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 22'584'217</td></tr>
-<tr><td>• weitere finanzielle Befugnisse</td><td>&gt; 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 903'369</td></tr>
+<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>&gt; ½ %</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 21'110'944</td></tr>
+<tr><td>• weitere finanzielle Befugnisse</td><td>&gt; 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 844'438</td></tr>
 <tr><td>– Art. 44: Befugnisse des Staatsrats</td><td></td><td></td><td></td></tr>
-<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>≤ ½ %</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 22'584'217</td></tr>
-<tr><td>• weitere finanzielle Befugnisse</td><td>≤ 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 903'369</td></tr>
+<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>≤ ½ %</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 21'110'944</td></tr>
+<tr><td>• weitere finanzielle Befugnisse</td><td>≤ 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 844'438</td></tr>
 </table>
 
-2023\_050
+2024\_042
