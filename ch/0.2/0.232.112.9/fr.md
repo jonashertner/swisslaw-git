@@ -3,11 +3,11 @@ sr: "0.232.112.9"
 title: "Arrangement de Nice concernant la classification internationale des produits et des services aux fins de l'enregistrement des marques, révisé à Genève le 13 mai 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/532_532_532"
 language: fr
-version: 2021-10-05
+version: 2024-06-05
 adopted: 1977-05-13
 in_force: 1986-04-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20211005-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20211005/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20240605/fr/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20240605-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20240605/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 22 janvier 1986
 
 Entré en vigueur pour la Suisse le 22 avril 1986
 
-(Etat le 5 octobre 2021)
+(État le 5 juin 2024)
 
 [^t-1]: [RO 1986 531](https://fedlex.data.admin.ch/eli/oc/1986/531_531_531)
 
@@ -40,10 +40,13 @@ Entré en vigueur pour la Suisse le 22 avril 1986
 
 \6) Le Directeur général établit, après consultation des gouvernements intéressés, soit sur la base d’une traduction proposée par ces gouvernements, soit en ayant recours à tout autre moyen qui n’aurait aucune incidence financière sur le budget de l’Union particulière ou pour l’Organisation, des textes officiels de la classification dans les langues allemande, arabe, espagnole, italienne, portugaise, russe et dans les autres langues que pourra désigner l’Assemblée visée à l’art. 5.
 
-- [tab] 2) La classification comprend:
+\2) La classification comprend:
+
 - i) une liste des classes, accompagnée, le cas échéant, de notes explicatives;
 - ii) une liste alphabétique des produits et des services (ci‑après dénommée «liste alphabétique»), avec l’indication de la classe dans laquelle chaque produit ou service est rangé.
-- [tab] 3) La classification est constituée par:
+
+\3) La classification est constituée par:
+
 - i) la classification qui a été publiée en 1971 par le Bureau international de la propriété intellectuelle (ci‑après dénommé «Bureau international») visé dans la Convention instituant l’Organisation Mondiale de la Propriété Intellectuelle[^1-1], étant entendu, toutefois, que les notes explicatives de la liste des classes qui figurent dans cette publication seront considérées comme provisoires et comme étant des recommandations jusqu’à ce que des notes explicatives de la liste des classes soient établies par le Comité d’experts visé à l’art. 3,
 - ii) les modifications et compléments qui sont entrés en vigueur, conformément à l’art. 4. 1) de l’Arrangement de Nice du 15 juin 1957[^1-2] et de l’Acte de Stockholm du 14 juillet 1967[^1-3] de cet Arrangement, avant l’entrée en vigueur du présent Acte;
 - iii) les changements apportés par la suite en vertu de l’art. 3 du présent Acte et qui entrent en vigueur conformément à l’art. 4.1) du présent Acte.
@@ -102,7 +105,7 @@ Entré en vigueur pour la Suisse le 22 avril 1986
 - b) Les décisions relatives à l’adoption des modifications à apporter à la classification sont prises à la majorité des quatre cinquièmes des pays de l’Union particulière représentés et votants. Par modification, il faut entendre tout transfert de produits ou de services d’une classe à une autre, ou la création de toute nouvelle classe.
 - c) Le règlement intérieur visé à l’al. 4) prévoit que, sauf cas spéciaux, les modifications de la classification sont adoptées à la fin de périodes déterminées; le Comité d’experts fixe la longueur de chaque période.
 
-[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 4
 
@@ -235,7 +238,7 @@ Entré en vigueur pour la Suisse le 22 avril 1986
 - b) L’entrée en vigueur visée au sous‑alinéa a) est effective à l’égard des pays qui, trois mois au moins avant ladite entrée en vigueur, ont déposé des instruments de ratification ou d’adhésion.
 - c) À l’égard de tout pays non couvert par le sous‑alinéa b), le présent Acte entre en vigueur trois mois après la date à laquelle sa ratification ou son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n’ait été indiquée dans l’instrument de ratification ou d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur, à l’égard de ce pays, à la date ainsi indiquée.
 
-[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 10
 
@@ -243,7 +246,7 @@ Entré en vigueur pour la Suisse le 22 avril 1986
 
 Le présent Arrangement a la même durée que la Convention de Paris pour la protection de la propriété industrielle[^10-1].
 
-[^10-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^10-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 11
 
@@ -298,11 +301,11 @@ Les dispositions de l’art. 24 de l’Acte de Stockholm de 1967[^13-1] de la Co
 - vi) les dénonciations reçues selon l’art. 12.
 
 [^14-1]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
-[^14-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^14-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Acte. Fait à Genève, le 13 mai 1977. (Suivent les signatures)
 
-Champ d’application le 5 octobre 2021**[^t-2]**
+Champ d’application le 5 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -333,6 +336,7 @@ Champ d’application le 5 octobre 2021**[^t-2]**
 <tr><td>Danemark</td><td>3 mars</td><td>1981 A</td><td>3 juin</td><td>1981</td></tr>
 <tr><td>Dominique</td><td>8 juin</td><td>2000 A</td><td>8 septembre</td><td>2000</td></tr>
 <tr><td>Égypte</td><td>18 mars</td><td>2005 A</td><td>18 juin</td><td>2005</td></tr>
+<tr><td>Émirats arabes unis</td><td>18 janvier</td><td>2022 A</td><td>18 avril</td><td>2022</td></tr>
 <tr><td>Espagne</td><td>2 février</td><td>1979</td><td>9 mai</td><td>1979</td></tr>
 <tr><td>Estonie</td><td>24 février</td><td>1996 A</td><td>27 mai</td><td>1996</td></tr>
 <tr><td>États-Unis</td><td>29 novembre</td><td>1983</td><td>29 février</td><td>1984</td></tr>
@@ -344,6 +348,7 @@ Champ d’application le 5 octobre 2021**[^t-2]**
 <tr><td>Guinée</td><td>5 août</td><td>1996 A</td><td>5 novembre</td><td>1996</td></tr>
 <tr><td>Hongrie</td><td>19 mai</td><td>1982</td><td>21 août</td><td>1982</td></tr>
 <tr><td>Inde</td><td>7 juin</td><td>2019 A</td><td>7 septembre</td><td>2019</td></tr>
+<tr><td>Indonésie</td><td>7 juillet</td><td>2023 A</td><td>7 octobre</td><td>2023</td></tr>
 <tr><td>Iran</td><td>12 avril</td><td>2018 A</td><td>12 juillet</td><td>2018</td></tr>
 <tr><td>Irlande</td><td>31 octobre</td><td>1978</td><td>6 février</td><td>1979</td></tr>
 <tr><td>Islande</td><td>23 décembre</td><td>1994 A</td><td>9 avril</td><td>1995</td></tr>
@@ -373,6 +378,7 @@ Champ d’application le 5 octobre 2021**[^t-2]**
 <tr><td>Paraguay</td><td>31 mai</td><td>2021 A</td><td>31 août</td><td>2021</td></tr>
 <tr><td>Pays-Bas</td><td>11 mai</td><td>1979</td><td>15 août</td><td>1979</td></tr>
 <tr><td>[tab] Aruba</td><td>2 février</td><td>1994</td><td>28 février</td><td>1994</td></tr>
+<tr><td>Pérou\*</td><td>18 juillet</td><td>2022 A</td><td>18 octobre</td><td>2022</td></tr>
 <tr><td>Pologne</td><td>4 décembre</td><td>1996 A</td><td>4 mars</td><td>1997</td></tr>
 <tr><td>Portugal</td><td>30 avril</td><td>1982</td><td>30 juillet</td><td>1982</td></tr>
 <tr><td>République tchèque</td><td>18 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
@@ -399,7 +405,7 @@ Champ d’application le 5 octobre 2021**[^t-2]**
 <tr><td>Turquie</td><td>1<sup>er</sup> octobre</td><td>1995 A</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Ukraine</td><td>29 septembre</td><td>2000 A</td><td>29 décembre</td><td>2000</td></tr>
 <tr><td>Uruguay</td><td>19 octobre</td><td>1999 A</td><td>19 janvier</td><td>2000</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’Arrangement ne s’applique pas à Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Arrangement ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); **990** 797; [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797); [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609); [2024 256](https://fedlex.data.admin.ch/eli/oc/2024/256). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,24 +3,26 @@ sr: "0.232.112.9"
 title: "Accordo di Nizza sulla classificazione internazionale dei prodotti e dei servizi ai fini della registrazione dei marchi, riveduto a Ginevra il 13 maggio 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/532_532_532"
 language: it
-version: 2021-10-05
+version: 2024-06-05
 adopted: 1977-05-13
 in_force: 1986-04-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20211005/it/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20211005-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20211005/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20240605/it/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20240605-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20240605/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo di Nizza sulla classificazione internazionale dei prodotti e dei servizi ai fini della registrazione dei marchi, riveduto a Ginevra il 13 maggio 1977
 
+RU **1986** 532; FF **1985** I 481
+
 Traduzione
 
 Concluso a Ginevra il 13 maggio 1977 Approvato dall’Assemblea federale il 16 settembre 1985[^t-1] Istrumenti di ratificazione depositati dalla Svizzera il 22 gennaio 1986 Entrato in vigore per la Svizzera il 22 aprile 1986
 
-(Stato 5 ottobre 2021)
+(Stato 5 giugno 2024)
 
-[^t-1]: RU **1986** 532; FF **1985** I 481 RU **1986** 531
+[^t-1]: [RU 1986 531](https://fedlex.data.admin.ch/eli/oc/1986/531_531_531)
 
 #### Art. 1
 
@@ -97,7 +99,7 @@ Concluso a Ginevra il 13 maggio 1977 Approvato dall’Assemblea federale il 16 s
 - b) Le decisioni relative all’adozione delle modificazioni che devono essere apportate alla classificazione sono deliberate con la maggioranza dei quattro quinti dei Paesi dell’Unione particolare rappresentati e votanti. Per modificazione deve intendersi ogni trasferimento di prodotti o di servizi da una classe ad un’altra o la creazione di ogni nuova classe.
 - c) Il regolamento interno di cui al paragrafo 4 prevede che, salvo casi speciali, le modificazioni della classificazione sono adottate al termine di determinati periodi; il Comitato d’esperti fissa la durata di ciascun periodo.
 
-[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 4
 
@@ -208,7 +210,7 @@ Concluso a Ginevra il 13 maggio 1977 Approvato dall’Assemblea federale il 16 s
 
 \1) Ciascun Paese dell’Unione particolare che ha firmato il presente Atto può ratificarlo e, se non l’ha firmato, può aderirvi.
 
-\2) Ogni Paese estraneo all’Unione particolare, che fa parte della Convenzione di Parigi per la protezione della proprietà industriale 1), può aderire al presente Atto e divenire così membro dell’Unione particolare.
+\2) Ogni Paese estraneo all’Unione particolare, che fa parte della Convenzione di Parigi per la protezione della proprietà industriale[^9-1] può aderire al presente Atto e divenire così membro dell’Unione particolare.
 
 \3) Gli strumenti di ratifica e d’adesione devono essere depositati presso il Direttore generale.
 
@@ -226,13 +228,15 @@ Concluso a Ginevra il 13 maggio 1977 Approvato dall’Assemblea federale il 16 s
 - b) L’entrata in vigore di cui al comma a) è effettiva nei confronti dei Paesi che hanno depositato strumenti di ratifica o d’adesione almeno tre mesi prima di tale entrata in vigore.
 - c) Nei riguardi di qualsiasi altro Paese al quale non si applichi il comma b), il presente Atto entra in vigore tre mesi dopo la data della notificazione, da parte del Direttore generale, della ratifica o dell’adesione, salvo che una data posteriore sia stata indicata nello strumento di ratifica o d’adesione. In quest’ultimo caso, il presente Atto entra in vigore, nei confronti di detto Paese, alla data così indicata.
 
+[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+
 #### Art. 10
 
 **Durata**
 
 Il presente Accordo ha la stessa durata della Convenzione di Parigi per la protezione della proprietà industriale[^10-1].
 
-[^10-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^10-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 11
 
@@ -286,11 +290,11 @@ Sono applicabili al presente Accordo le disposizioni dell’articolo 24 dell’A
 - vi) le denunce ricevute secondo l’articolo 12.
 
 [^14-1]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
-[^14-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^14-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato il presente Atto. Fatto a Ginevra il 13 maggio 1977. (Seguono le firme)
 
-Campo d’applicazione il 5 ottobre 2021**[^t-2]**
+Campo d’applicazione il 5 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -321,10 +325,11 @@ Campo d’applicazione il 5 ottobre 2021**[^t-2]**
 <tr><td>Danimarca</td><td>3 marzo</td><td>1981 A</td><td>3 giugno</td><td>1981</td></tr>
 <tr><td>Dominica</td><td>8 giugno</td><td>2000 A</td><td>8 settembre</td><td>2000</td></tr>
 <tr><td>Egitto</td><td>18 marzo</td><td>2005 A</td><td>18 giugno</td><td>2005</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>18 gennaio</td><td>2022 A</td><td>18 aprile</td><td>2022</td></tr>
 <tr><td>Estonia</td><td>24 febbraio</td><td>1996 A</td><td>27 maggio</td><td>1996</td></tr>
 <tr><td>Finlandia</td><td>12 luglio</td><td>1978</td><td>6 febbraio</td><td>1979</td></tr>
 <tr><td>Francia</td><td>18 gennaio</td><td>1980</td><td>22 aprile</td><td>1980</td></tr>
-<tr><td>Dipartimenti e territori d'oltre mare</td><td>18 gennaio</td><td>1980</td><td>22 aprile</td><td>1980</td></tr>
+<tr><td>Dipartimenti e territori d’oltre mare</td><td>18 gennaio</td><td>1980</td><td>22 aprile</td><td>1980</td></tr>
 <tr><td>Georgia</td><td>29 novembre</td><td>2002 A</td><td>28 febbraio</td><td>2003</td></tr>
 <tr><td>Germania</td><td>28 settembre</td><td>1981</td><td>12 gennaio</td><td>1982</td></tr>
 <tr><td>Giamaica</td><td>7 novembre</td><td>2005 A</td><td>7 febbraio</td><td>2006</td></tr>
@@ -333,6 +338,7 @@ Campo d’applicazione il 5 ottobre 2021**[^t-2]**
 <tr><td>Grecia</td><td>7 agosto</td><td>1998 A</td><td>7 novembre</td><td>1998</td></tr>
 <tr><td>Guinea</td><td>5 agosto</td><td>1996 A</td><td>5 novembre</td><td>1996</td></tr>
 <tr><td>India</td><td>7 giugno</td><td>2019 A</td><td>7 settembre</td><td>2019</td></tr>
+<tr><td>Indonesia</td><td>7 luglio</td><td>2023 A</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Iran</td><td>12 aprile</td><td>2018 A</td><td>12 luglio</td><td>2018</td></tr>
 <tr><td>Irlanda</td><td>31 ottobre</td><td>1978</td><td>6 febbraio</td><td>1979</td></tr>
 <tr><td>Islanda</td><td>23 dicembre</td><td>1994 A</td><td>9 aprile</td><td>1995</td></tr>
@@ -358,6 +364,7 @@ Campo d’applicazione il 5 ottobre 2021**[^t-2]**
 <tr><td>Paesi Bassi</td><td>11 maggio</td><td>1979</td><td>15 agosto</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>2 febbraio</td><td>1994</td><td>28 febbraio</td><td>1994</td></tr>
 <tr><td>Paraguay</td><td>31 maggio</td><td>2021 A</td><td>31 agosto</td><td>2021</td></tr>
+<tr><td>Perù\*</td><td>18 luglio</td><td>2022 A</td><td>18 ottobre</td><td>2022</td></tr>
 <tr><td>Polonia</td><td>4 dicembre</td><td>1996 A</td><td>4 marzo</td><td>1997</td></tr>
 <tr><td>Portogallo</td><td>30 aprile</td><td>1982</td><td>30 luglio</td><td>1982</td></tr>
 <tr><td>Regno Unito</td><td>30 marzo</td><td>1979</td><td>3 luglio</td><td>1979</td></tr>
@@ -387,7 +394,7 @@ Campo d’applicazione il 5 ottobre 2021**[^t-2]**
 <tr><td>Ungheria</td><td>19 maggio</td><td>1982</td><td>21 agosto</td><td>1982</td></tr>
 <tr><td>Uruguay</td><td>19 ottobre</td><td>1999 A</td><td>19 gennaio</td><td>2000</td></tr>
 <tr><td>Uzbekistan</td><td>12 ottobre</td><td>2001 A</td><td>12 gennaio</td><td>2002</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’Acc. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/classification/nice/](https://www.wipo.int/treaties/fr/classification/nice/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’Acc. non si applica a Tokelau. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797);[2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797); [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609); [2024 256](https://fedlex.data.admin.ch/eli/oc/2024/256). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

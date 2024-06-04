@@ -3,11 +3,11 @@ sr: "0.232.112.9"
 title: "Abkommen von Nizza über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken, revidiert in Genf am 13. Mai 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/532_532_532"
 language: de
-version: 2021-10-05
+version: 2024-06-05
 adopted: 1977-05-13
 in_force: 1986-04-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20211005/de/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20211005-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20211005/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20240605/de/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20240605-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20240605/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text
 
 Abgeschlossen in Genf am 13. Mai 1977 Von der Bundesversammlung genehmigt am 16. September 1985[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 22. Januar 1986 In Kraft getreten für die Schweiz am 22. April 1986
 
-(Stand am 5. Oktober 2021)
+(Stand am 5. Juni 2024)
 
 [^t-1]: [AS 1986 531](https://fedlex.data.admin.ch/eli/oc/1986/531_531_531)
 
@@ -99,7 +99,7 @@ Abgeschlossen in Genf am 13. Mai 1977 Von der Bundesversammlung genehmigt am 16.
 - b) Beschlüsse über die Annahme von Änderungen der Klassifikation bedürfen einer Mehrheit von vier Fünfteln der vertretenen und abstimmenden Länder des besonderen Verbandes. Als Änderung ist jede Überführung von Waren oder Dienstleistungen aus einer Klasse in eine andere oder jede Bildung einer neuen Klasse anzusehen.
 - c) Die in Absatz 4 genannte Geschäftsordnung sieht, ausser in besonderen Fällen, vor, dass die Annahme von Änderungen der Klassifikation am Ende bestimmter Zeiträume erfolgt; die Länge jedes Zeitraums wird vom Sachverständigenausschuss festgesetzt.
 
-[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), **0.232.0****2**, **0.232.0****3**, **0.232.0****4**
 
 #### Art. 4
 
@@ -229,7 +229,7 @@ Abgeschlossen in Genf am 13. Mai 1977 Von der Bundesversammlung genehmigt am 16.
 - b) Das Inkrafttreten nach Buchstabe a) ist für die Länder wirksam, die mindestens drei Monate vor diesem Inkrafttreten Ratifikations‑ oder Beitrittsurkunden hinterlegt haben.
 - c) Für jedes Land, das nicht unter Buchstabe b) fällt, tritt diese Fassung des Abkommens drei Monate nach dem Zeitpunkt der Notifizierung seiner Ratifikation oder seines Beitritts durch den Generaldirektor in Kraft, sofern in der Ratifikations‑ oder Beitrittsurkunde nicht ein späterer Zeitpunkt angegeben ist. In diesem Fall tritt diese Fassung des Abkommens für das betreffende Land zu dem angegebenen Zeitpunkt in Kraft.
 
-[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 10
 
@@ -237,7 +237,7 @@ Abgeschlossen in Genf am 13. Mai 1977 Von der Bundesversammlung genehmigt am 16.
 
 Dieses Abkommen hat dieselbe Geltungsdauer wie die Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums[^10-1].
 
-[^10-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^10-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 11
 
@@ -290,12 +290,12 @@ Die Bestimmungen des Artikels 24 der Stockholmer Fassung von 1967[^13-1] der Par
 - iv) die Annahme der Änderungen dieser Fassung nach Artikel 8 Absatz 3;
 - v) die Zeitpunkte, zu denen diese Änderungen in Kraft treten; vi) die Kündigungen, die nach Artikel 12 eingehen.
 
-[^14-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^14-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 [^14-2]: [SR 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten diese Fassung des Abkommens unterschrieben. Geschehen in Genf am 13. Mai 1977. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Oktober 2021**[^t-2]**
+Geltungsbereich am 5. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -317,7 +317,7 @@ Geltungsbereich am 5. Oktober 2021**[^t-2]**
 <tr><td>Hongkong</td><td>22. November</td><td>2012</td><td>27. Februar</td><td>2013</td></tr>
 <tr><td>Macau</td><td>1. November</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Dänemark</td><td>3. März</td><td>1981 B</td><td>3. Juni</td><td>1981</td></tr>
-<tr><td>Deutschland\*</td><td>28. September</td><td>1981</td><td>12. Januar</td><td>1982</td></tr>
+<tr><td>Deutschland</td><td>28. September</td><td>1981</td><td>12. Januar</td><td>1982</td></tr>
 <tr><td>Dominica</td><td>8. Juni</td><td>2000 B</td><td>8. September</td><td>2000</td></tr>
 <tr><td>Estland</td><td>24. Februar</td><td>1996 B</td><td>27. Mai</td><td>1996</td></tr>
 <tr><td>Finnland</td><td>12. Juli</td><td>1978</td><td>6. Februar</td><td>1979</td></tr>
@@ -327,6 +327,7 @@ Geltungsbereich am 5. Oktober 2021**[^t-2]**
 <tr><td>Griechenland</td><td>7. August</td><td>1998 B</td><td>7. November</td><td>1998</td></tr>
 <tr><td>Guinea</td><td>5. August</td><td>1996 B</td><td>5. November</td><td>1996</td></tr>
 <tr><td>Indien</td><td>7. Juni</td><td>2019 B</td><td>7. September</td><td>2019</td></tr>
+<tr><td>Indonesien</td><td>7. Juli</td><td>2023 B</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Iran</td><td>12. April</td><td>2018 B</td><td>12. Juli</td><td>2018</td></tr>
 <tr><td>Irland</td><td>31. Oktober</td><td>1978</td><td>6. Februar</td><td>1979</td></tr>
 <tr><td>Island</td><td>23. Dezember</td><td>1994 B</td><td>9. April</td><td>1995</td></tr>
@@ -361,6 +362,7 @@ Geltungsbereich am 5. Oktober 2021**[^t-2]**
 <tr><td>Norwegen</td><td>6. April</td><td>1981</td><td>7. Juli</td><td>1981</td></tr>
 <tr><td>Österreich</td><td>19. Mai</td><td>1982</td><td>21. August</td><td>1982</td></tr>
 <tr><td>Paraguay</td><td>31. Mai</td><td>2021 B</td><td>31. August</td><td>2021</td></tr>
+<tr><td>Peru\*</td><td>18. Juli</td><td>2022 B</td><td>18. Oktober</td><td>2022</td></tr>
 <tr><td>Polen</td><td>4. Dezember</td><td>1996 B</td><td>4. März</td><td>1997</td></tr>
 <tr><td>Portugal</td><td>30. April</td><td>1982</td><td>30. Juli</td><td>1982</td></tr>
 <tr><td>Rumänien</td><td>31. März</td><td>1998 B</td><td>30. Juni</td><td>1998</td></tr>
@@ -387,12 +389,14 @@ Geltungsbereich am 5. Oktober 2021**[^t-2]**
 <tr><td>Ungarn</td><td>19. Mai</td><td>1982</td><td>21. August</td><td>1982</td></tr>
 <tr><td>Uruguay</td><td>19. Oktober</td><td>1999 B</td><td>19. Januar</td><td>2000</td></tr>
 <tr><td>Usbekistan</td><td>12. Oktober</td><td>2001 B</td><td>12. Januar</td><td>2002</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>18. Januar</td><td>2022 B</td><td>18. April</td><td>2022</td></tr>
 <tr><td>Vereinigte Staaten</td><td>29. November</td><td>1983</td><td>29. Februar</td><td>1984</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>30. März</td><td>1979</td><td>3. Juli</td><td>1979</td></tr>
 <tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Guernsey</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/classification/nice/](https://www.wipo.int/treaties/fr/classification/nice/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Abkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797); [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797); [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609); [2024 256](https://fedlex.data.admin.ch/eli/oc/2024/256). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
