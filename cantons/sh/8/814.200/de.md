@@ -4,38 +4,42 @@ number: "814.200"
 title: Einführungsgesetz zum Gewässerschutzgesetz
 language: de
 version: 2014-01-01
+corrected: 2024-06-06
 version_adopted: 2012-07-02
 adopted: 2001-08-27
 in_force: 2002-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.200"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/997/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/193/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsgesetz zum Gewässerschutzgesetz
 
-Vom 27.08.2001 (Stand 01.01.2014)
+vom 27. August 2001
 
 Der Grosse Rat des Kantons Schaffhausen,
 
-in Ausführung des Bundesgesetzes über den Schutz der Gewässer vom 24. Januar 1991 (GSchG),
+in Ausführung des Bundesgesetzes über den Schutz der Gewässer vom 24. Januar 1991 (GSchG) ,
 
-beschliesst:
+beschliesst als Gesetz:
 
-## 1 Zweck und Geltungsbereich
+### I. Zweck und Geltungsbereich
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt:
+Dieses Gesetz regelt:
 
-- a) den Schutz der Gewässer vor nachteiligen Einwirkungen
-- b) den Vollzug des Bundesrechts über den Gewässerschutz
-- c) die Aufgabenverteilung zwischen dem Kanton und den Gemeinden
+- a) den Schutz der Gewässer vor nachteiligen Einwirkungen;
 
-## 2 Zuständigkeiten
+- b) den Vollzug des Bundesrechts über den Gewässerschutz;
+
+- c) die Aufgabenverteilung zwischen dem Kanton und den Gemeinden.
+
+### II. Zuständigkeiten
 
 #### Art. 2
 
@@ -43,7 +47,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die zum Vollzug der Gewässerschutzgesetzgebung, namentlich zur Abwasserbeseitigung, erforderlichen Bestimmungen und Richtlinien.
 
-<sup>2</sup> Er ist zuständig für den Abschluss von Programm- beziehungsweise Leistungsvereinbarungen im Sinne von Art. 61 und 62a GSchG.
+<sup>2</sup> Er ist zuständig für den Abschluss von Programm- beziehungsweise Leistungsvereinbarungen im Sinne von Art. 61 und 62a GSchG.[^2-1]
+
+Amtsblatt 2005, S. 1027.
+
+[^2-1]: Eingefügt durch G vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 817, S. 1800).
 
 #### Art. 3
 
@@ -71,7 +79,7 @@ beschliesst:
 
 #### Art. 6
 
-**Zusammenarbeit / Koordination**
+**Zusammenarbeit/Koordination**
 
 <sup>1</sup> Kanton und Gemeinden arbeiten beim Vollzug der Gewässerschutzaufgaben zusammen.
 
@@ -85,7 +93,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat sorgt für eine Düngerberatung im Sinne von Art. 51 GSchG.
 
-## 3 Reinhaltung der Gewässer
+### III. Reinhaltung der Gewässer
 
 #### Art. 8
 
@@ -99,7 +107,9 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat kann Richtlinien zur Erstellung eines generellen Entwässerungsplanes erlassen oder Richtlinien von Fachverbänden für verbindlich erklären.
 
-<sup>5</sup> Zugang und Nutzung zum regionalen Entwässerungsplan (REP) und kommunalen Entwässerungsplan (GEP) richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+<sup>5</sup> Zugang und Nutzung zum regionalen Entwässerungsplan (REP) und kommunalen Entwässerungsplan (GEP) richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.[^8-1]
+
+[^8-1]: Eingefügt durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
 
 #### Art. 9
 
@@ -107,9 +117,11 @@ beschliesst:
 
 <sup>1</sup> Die zuständige kantonale oder kommunale Baubewilligungsbehörde bewilligt die Beseitigung von Abwasser durch:
 
-- a) Einleiten in die Kanalisation
-- b) Einleiten in ein Gewässer
-- c) Versickernlassen
+- a) Einleiten in die Kanalisation;
+
+- b) Einleiten in ein Gewässer;
+
+- c) Versickernlassen.
 
 <sup>2</sup> Vorbehalten bleibt die gewässerschutzrechtliche Bewilligung gemäss Art. 15.
 
@@ -135,13 +147,13 @@ beschliesst:
 
 **Nutztierhaltung und Bodenbewirtschaftung**
 
-<sup>1</sup> Soweit das Bundesrecht keine abschliessende Regelung trifft, erlässt das zuständige Departement die zum Schutz der Gewässer notwendigen Vorschriften über die Nutztierhaltung und die Bodenbewirtschaftung und ordnet geeignete Massnahmen an, insbesondere zur Vermeidung der Verschmutzung der Gewässer mit Nährstoffen, Pflanzenbehandlungsmitteln und anderen sich aus der Nutztierhaltung und der Bodenbewirtschaftung ergebenden Schadstoffen.
+Soweit das Bundesrecht keine abschliessende Regelung trifft, erlässt das zuständige Departement die zum Schutz der Gewässer notwendigen Vorschriften über die Nutztierhaltung und die Bodenbewirtschaftung und ordnet geeignete Massnahmen an, insbesondere zur Vermeidung der Verschmutzung der Gewässer mit Nährstoffen, Pflanzenbehandlungsmitteln und anderen sich aus der Nutztierhaltung und der Bodenbewirtschaftung ergebenden Schadstoffen.
 
 #### Art. 13
 
 **Ablagerung ausgedienter Fahrzeuge und Geräte**
 
-<sup>1</sup> Das Ablagern von Abfällen sowie das Stehenlassen ausgedienter Fahrzeuge, Geräte und dergleichen ist verboten. Sammelstellen oder Zwischenlager können von der zuständigen kantonalen Behörde ausnahmsweise bewilligt werden, wenn die massgeblichen Vorschriften des Bundes erfüllt sind und keine öffentlichen Interessen, insbesondere solche des Gewässerschutzes und des Landschafts- oder Ortsbildschutzes entgegenstehen.
+Das Ablagern von Abfällen sowie das Stehenlassen ausgedienter Fahrzeuge, Geräte und dergleichen ist verboten. Sammelstellen oder Zwischenlager können von der zuständigen kantonalen Behörde ausnahmsweise bewilligt werden, wenn die massgeblichen Vorschriften des Bundes erfüllt sind und keine öffentlichen Interessen, insbesondere solche des Gewässerschutzes und des Landschafts- oder Ortsbildschutzes entgegenstehen.
 
 #### Art. 14
 
@@ -153,7 +165,7 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann vorschreiben, dass und auf welche Weise im Grundbuch der Einbezug eines Grundstückes in den Kataster sichtbar zu machen ist.
 
-## 4 Bewilligungen
+### IV. Bewilligungen
 
 #### Art. 15
 
@@ -161,15 +173,21 @@ beschliesst:
 
 <sup>1</sup> Eine gewässerschutzrechtliche Bewilligung der zuständigen kantonalen Behörden ist nötig für:
 
-- a) alle im GEP bezeichneten Abwasseranlagen sowie gemeinschaftliche Versickerungsanlagen
-- b) die Erstellung und die Änderung von Bauten und Anlagen sowie Grabungen, Erdbewegungen und ähnliche Arbeiten in besonders gefährdeten Gewässerschutzbereichen (Art. 19 GSchG)
-- c) die Errichtung, Änderung und Erweiterung von Anlagen mit wassergefährdenden Flüssigkeiten (Art. 22 GSchG)
-- d) die Durchführung von Revisionen gemäss Art. 23 GSchG
-- e) die Einleitung von verschmutztem und unverschmutztem Abwasser in Gewässer gemäss Art. 7 Abs. 1 und 2 GschG und die Versickerung von verschmutztem Abwasser gemäss Art. 7 Abs. 1 GSchG
+- a) alle im GEP bezeichneten Abwasseranlagen sowie gemeinschaftliche Versickerungsanlagen;
+
+- b) die Erstellung und die Änderung von Bauten und Anlagen sowie Grabungen, Erdbewegungen und ähnliche Arbeiten in besonders gefährdeten Gewässerschutzbereichen (Art. 19 GSchG);
+
+- c) die Errichtung, Änderung und Erweiterung von Anlagen mit wassergefährdenden Flüssigkeiten (Art. 22 GSchG);
+
+- d) die Durchführung von Revisionen gemäss Art. 23 GSchG;
+
+- e) die Einleitung von verschmutztem und unverschmutztem Abwasser in Gewässer gemäss Art. 7 Abs. 1 und 2 GschG und die Versickerung von verschmutztem Abwasser gemäss Art. 7 Abs.
+
+1 GSchG.
 
 <sup>2</sup> Das Bewilligungsverfahren richtet sich nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen. Es ist mit einem allfälligen baurechtlichen Bewilligungsverfahren zu koordinieren.
 
-## 5 Planerischer Schutz
+### V. Planerischer Schutz
 
 #### Art. 16
 
@@ -179,9 +197,11 @@ beschliesst:
 
 <sup>2</sup> Der Gemeinderat legt die Grundwasserschutzzonen fest und erlässt die notwendigen Reglemente. Diese bedürfen der Genehmigung durch das zuständige Departement.
 
-<sup>3</sup> Das zuständige Departement erstellt Gewässerschutzkarten und passt diese nach Bedarf an. Die Gewässerschutzkarten enthalten nach den Vorgaben der Geoinformationsgesetzgebung mindestens die Gewässerschutzbereiche, die Grundwasserschutzzonen, die Grundwasserschutzareale sowie die Grundwasseraustritte, ‑fassungen und ‑anreicherungsanlagen, die für die Wasserversorgung von Bedeutung sind.
+<sup>3</sup> Das zuständige Departement erstellt Gewässerschutzkarten und passt diese nach Bedarf an. Die Gewässerschutzkarten enthalten nach den Vorgaben der Geoinformationsgesetzgebung mindestens die Gewässerschutzbereiche, die Grundwasserschutzzonen, die Grundwasserschutzareale sowie die Grundwasseraustritte, -fassungen und -anreicherungsanlagen, die für die Wasserversorgung von Bedeutung sind.[^16-1]
 
-<sup>4</sup> Zugang und Nutzung zu den Daten der Gewässerschutzkarten richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+<sup>4</sup> Zugang und Nutzung zu den Daten der Gewässerschutzkarten richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.[^16-1]
+
+[^16-1]: Eingefügt durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
 
 #### Art. 17
 
@@ -193,19 +213,21 @@ beschliesst:
 
 <sup>3</sup> Die zuständige Behörde erlässt die Pläne und Schutzvorschriften. Der Beschluss ist im Amtsblatt auszuschreiben und während 20 Tagen mit den Unterlagen und dem Planungsbericht öffentlich aufzulegen. Gegen den Beschluss des Gemeinderates kann Rekurs beim Regierungsrat erheben, wer davon berührt ist und ein schutzwürdiges Interesse an der Aufhebung oder Änderung des Beschlusses dartut. Im Übrigen richtet sich das Verfahren nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen.
 
-## 6 Finanzierung
+### VI. Finanzierung
 
 #### Art. 18
 
 **Grundsatz**
 
-<sup>1</sup> Die Kosten der Abwasseranlagen, die öffentlichen Zwecken dienen, werden mit Gebühren oder anderen Abgaben den Verursachern überbunden.
+Die Kosten der Abwasseranlagen, die öffentlichen Zwecken dienen, werden mit Gebühren oder anderen Abgaben den Verursachern überbunden.
 
 #### Art. 19
 
 **Gebührenerhebung der Gemeinden**
 
 <sup>1</sup> Zur Deckung der aus Bau, Betrieb, Unterhalt, Sanierung und Ersatz, Kontrolle und Amortisation der öffentlichen Abwasseranlagen anfallenden Kosten erheben die Gemeinden kostendeckende und verursacherbezogene Gebühren bzw. Abgaben (Art. 60a GSchG). Sie erlassen dazu die notwendigen Reglemente. Die Reglemente bedürfen zu ihrer Verbindlichkeit der Genehmigung des zuständigen Departements.
+
+**Sicherungsmassnahmen**
 
 <sup>2</sup> Die wiederkehrende Benutzungsgebühr kann sich aus einer Grundgebühr und einer Verbrauchsgebühr zusammensetzen. Bei überdurchschnittlich verschmutztem Abwasser ist ein Zuschlag gemäss Schmutzstofffracht zu erheben.
 
@@ -217,15 +239,15 @@ beschliesst:
 
 **Beiträge des Kantons**
 
-<sup>1</sup> Der Kanton kann im Rahmen der bewilligten Kredite finanzielle Beiträge an Massnahmen der Landwirtschaft zur Verhinderung der Abschwemmung und Auswaschung von Stoffen (Art. 62a GSchG) leisten. Die Beiträge des Kantons sind abhängig von einer gleichzeitigen Beitragsleistung durch den Bund.
+Der Kanton kann im Rahmen der bewilligten Kredite finanzielle Beiträge an Massnahmen der Landwirtschaft zur Verhinderung der Abschwemmung und Auswaschung von Stoffen (Art. 62a GSchG) leisten. Die Beiträge des Kantons sind abhängig von einer gleichzeitigen Beitragsleistung durch den Bund.
 
 #### Art. 21
 
 **Gutachten, Expertisen, Messungen**
 
-<sup>1</sup> Der Kanton kann die Kosten von Gutachten, Expertisen, Messungen und dergleichen, die nicht überwiegend der Allgemeinheit dienen, Personen des öffentlichen oder privaten Rechts überbinden, deren Anlagen oder Handlungen sie erforderlich machen.
+Der Kanton kann die Kosten von Gutachten, Expertisen, Messungen und dergleichen, die nicht überwiegend der Allgemeinheit dienen, Personen des öffentlichen oder privaten Rechts überbinden, deren Anlagen oder Handlungen sie erforderlich machen.
 
-## 7 Weitere Massnahmen
+### VII. Weitere Massnahmen
 
 #### Art. 22
 
@@ -239,9 +261,7 @@ beschliesst:
 
 #### Art. 23
 
-**Sicherungsmassnahmen**
-
-<sup>1</sup> Die zuständige Behörde kann in dringenden Fällen der Gefährdung von Gewässern die erforderlichen Schutzmassnahmen selbst treffen, wenn den für die Gefährdung Verantwortlichen die rechtlichen und technischen Mittel fehlen. Die Kosten sind von den für die Gefährdung Verantwortlichen zu tragen.
+Die zuständige Behörde kann in dringenden Fällen der Gefährdung von Gewässern die erforderlichen Schutzmassnahmen selbst treffen, wenn den für die Gefährdung Verantwortlichen die rechtlichen und technischen Mittel fehlen. Die Kosten sind von den für die Gefährdung Verantwortlichen zu tragen.
 
 #### Art. 24
 
@@ -257,34 +277,37 @@ beschliesst:
 
 **Sicherheitsleistung**
 
-<sup>1</sup> Für Vorkehrungen welche die Gewässer gefährden, kann die zuständige Behörde die Bewilligung von einer angemessenen Sicherheitsleistung abhängig machen. Diese kann insbesondere eine Kostenübernahmegarantie für Schadenfälle beinhalten.
+Für Vorkehrungen welche die Gewässer gefährden, kann die zuständige Behörde die Bewilligung von einer angemessenen Sicherheitsleistung abhängig machen. Diese kann insbesondere eine Kostenübernahmegarantie für Schadenfälle beinhalten.
 
-## 8 Strafbestimmung
+### VIII. Strafbestimmung
 
 #### Art. 26
 
 **Strafen**
 
-<sup>1</sup> Wer vorsätzlich diesem Gesetz oder den darauf gestützten Verordnungen oder Verfügungen zuwiderhandelt, wird, soweit keine anderen Strafbestimmungen zur Anwendung kommen, mit Busse bis Fr. 20'000.00 bestraft.
+<sup>1</sup> Wer vorsätzlich diesem Gesetz oder den darauf gestützten Verordnungen oder Verfügungen zuwiderhandelt, wird, soweit keine anderen Strafbestimmungen zur Anwendung kommen, mit Busse[^26-1] bis Fr. 20'000.-- bestraft.
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bestraft. Gehilfenschaft ist strafbar.
+
+[^26-1]: Fassung gemäss G vom 3. Juli 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 913, S. 1545).
 
 #### Art. 27
 
 **Meldepflicht**
 
-<sup>1</sup> Wer eine Gewässerverunreinigung verursacht, hat der Polizei unverzüglich Meldung zu erstatten.
+Wer eine Gewässerverunreinigung verursacht, hat der Polizei unverzüglich Meldung zu erstatten.
 
-## 9 Schluss- und Übergangsbestimmungen
+### IX. Schluss- und Übergangsbestimmungen
 
 #### Art. 28
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die nachstehenden Erlasse werden aufgehoben:
+Die nachstehenden Erlasse werden aufgehoben:
 
 - a) das Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer gegen Verunreinigung vom 12. September 1960
-- b) das Gesetz über die Beseitigung von ausgedienten Fahrzeugen und von Schrott vom 5. Mai 1975
+
+- b) das Gesetz über die Beseitigung von ausgedienten Fahrzeugen und von Schrott vom 5. Mai 1975.
 
 #### Art. 29
 
@@ -300,17 +323,17 @@ beschliesst:
 
 **Aufsichtsrechtliche Massnahmen**
 
-<sup>1</sup> Kommt eine Gemeinde ihren Pflichten gemäss Art. 29 Abs. 2 und 3 dieses Gesetzes nicht innert Frist nach, so trifft der Kanton nach Anhörung der Gemeinde die zur Durchsetzung des Bundesrechts erforderlichen Massnahmen. Der Regierungsrat kann anstelle der Gemeinde die notwendigen Bestimmungen erlassen sowie kostendeckende und verursacherbezogene Gebühren festlegen. Er kann der Gemeinde verbindliche Weisungen erteilen und die Ersatzvornahme auf Kosten der Gemeinde anordnen.
+Kommt eine Gemeinde ihren Pflichten gemäss Art. 29 Abs. 2 und 3 dieses Gesetzes nicht innert Frist nach, so trifft der Kanton nach Anhörung der Gemeinde die zur Durchsetzung des Bundesrechts erforderlichen Massnahmen. Der Regierungsrat kann anstelle der Gemeinde die notwendigen Bestimmungen erlassen sowie kostendeckende und verursacherbezogene Gebühren festlegen. Er kann der Gemeinde verbindliche Weisungen erteilen und die Ersatzvornahme auf Kosten der Gemeinde anordnen.
 
 #### Art. 31
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft[^31-1].
+<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft.[^31-1]
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^31-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^31-2] und in die kantonale Gesetzessammlung aufzunehmen. Vom Eidgenössischem Departement für Umwelt, Verkehr, Energie und Kommunikation genehmigt am 27. August 2002
+
+Fussnoten:
 
 [^31-1]: In Kraft getreten am 1. Juli 2002 (Amtsblatt 2002, S. 1026).
 [^31-2]: Amtsblatt 2002, S. 1027.
-
-Abl. 2005, S. 1027
