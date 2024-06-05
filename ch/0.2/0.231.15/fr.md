@@ -3,11 +3,11 @@ sr: "0.231.15"
 title: "Convention de Berne pour la protection des œuvres littéraires et artistiques, révisée à Paris le 24 juillet 1971 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659"
 language: fr
-version: 2021-09-24
+version: 2024-06-06
 adopted: 1971-07-24
 in_force: 1993-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20210924/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20210924-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20210924/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20240606/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20240606-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20240606/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 2659; FF **1989** III 465
 
 Texte original
 
-Conclue à Paris le 24 juillet 1971
+Conclue à Paris le 24 juillet 1971 Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1] Instrument de ratification déposé par la Suisse le 25 juin 1993 Entrée en vigueur pour la Suisse le 25 septembre 1993
 
-Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1]
-
-Instrument de ratification déposé par la Suisse le 25 juin 1993
-
-Entrée en vigueur pour la Suisse le 25 septembre 1993
-
-(Etat le 24 septembre 2021)
+(État le 6 juin 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 4 juin 1992 ([RO 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -525,11 +519,11 @@ La ratification du présent Acte ou l’adhésion à cet Acte par tout pays qui 
 
 \2) Les pays étrangers à l’Union qui deviennent parties au présent Acte l’appliquent, sous réserve des dispositions de l’al. 3), à l’égard de tout pays de l’Union qui n’est pas lié par cet Acte ou qui, bien qu’en étant lié par celui-ci, a fait la déclaration prévue à l’art. 28.1b). Lesdits pays admettent que le pays de l’Union considéré, dans ses relations avec eux:
 
-- i) applique les dispositions de l’Acte le plus récent par lequel il est lié; et
+- i) applique les dispositions de l’Acte le plus récent par lequel il est lié, et
 - ii) sous réserve de l’art. 1.6) de l’Annexe, a la faculté d’adapter la protection au niveau prévu par le présent Acte.
 
 [^32-1]: [RO **10** 202, **16** 586; RS **11** 879 893]
-[^32-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.14**
+[^32-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476), [0.231.13](https://fedlex.data.admin.ch/eli/cc/1955/1092_1114_1122),[0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649)
 
 #### Art. 33
 
@@ -686,11 +680,11 @@ Annexe
 
   - i) les destinataires sont des particuliers ressortissants du pays dont l’autorité compétente a accordé la licence, ou des organisations groupant de tels ressortissants;
   - ii) les exemplaires ne sont utilisés que pour l’usage scolaire, universitaire ou de la recherche;
-  - iii) l’envoi des exemplaires et leur distribution ultérieure aux destinataires n’ont aucun caractère lucratif; et
+  - iii) l’envoi des exemplaires et leur distribution ultérieure aux destinataires n’ont aucun caractère lucratif, et
   - iv) le pays auquel les exemplaires ont été envoyés a conclu un accord avec le pays dont l’autorité compétente a délivré la licence pour en autoriser la réception, ou la distribution, ou ces deux opérations, et le Gouvernement de ce dernier pays a notifié au Directeur général un tel accord.
 
 - 6) a) Des mesures appropriées seront prises sur le plan national pour que
-  - i) la licence comporte en faveur du titulaire du droit de traduction ou de reproduction, selon le cas, une rémunération équitable et conforme à l’échelle des redevances normalement versées dans le cas de licences librement négociées entre les intéressés dans les deux pays concernés; et
+  - i) la licence comporte en faveur du titulaire du droit de traduction ou de reproduction, selon le cas, une rémunération équitable et conforme à l’échelle des redevances normalement versées dans le cas de licences librement négociées entre les intéressés dans les deux pays concernés, et
   - ii) soient assurés le paiement et le transfert de cette rémunération; s’il existe une réglementation nationale en matière de devises, l’autorité compétente ne ménagera aucun effort, en recourant aux mécanismes internationaux, pour assurer le transfert de la rémunération en monnaie internationalement convertible ou en son équivalent.
 
 - b) Des mesures appropriées seront prises dans le cadre de la législation nationale pour que soit garantie une traduction correcte de l’œuvre ou une reproduction exacte de l’édition dont il s’agit, selon le cas.
@@ -723,7 +717,7 @@ Fait à Paris, le 24 juillet 1971.
 - i) s’il s’agit d’un pays qui, s’il était lié par les art. 1 à 21 et par la présente Annexe, serait habilité à invoquer le bénéfice des facultés visées à l’art. I.1), qu’il appliquera les dispositions de l’art. II ou de l’art. III, ou bien des deux, aux œuvres dont le pays d’origine est un pays qui, en application du point ii) ci-après, accepte l’application de ces articles à de telles œuvres ou qui est lié par les art. 1 à 21 et par la présente Annexe; une telle déclaration peut se référer à l’art. V au lieu de l’art. II;
 - ii) qu’il accepte l’application de la présente Annexe aux œuvres dont il est le pays d’origine, par les pays qui ont fait une déclaration en vertu du point i) ci-dessus ou une notification en vertu de l’art. I.
 
-Champ d’application le 24 septembre 2021**[^t-2]**
+Champ d’application le 6 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -735,7 +729,7 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td></td><td></td><td></td><td>10 octobre</td><td>1974<sup>b</sup></td></tr>
 <tr><td>Andorre</td><td>2 mars</td><td>2004 A</td><td>2 juin</td><td>2004</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>17 décembre</td><td>1999 A</td><td>17 mars</td><td>2000</td></tr>
-<tr><td>Arabie saoudite</td><td>11 décembre</td><td>2003 A</td><td>11 mars</td><td>2004</td></tr>
+<tr><td>Arabie saoudite\*</td><td>11 décembre</td><td>2003 A</td><td>11 mars</td><td>2004</td></tr>
 <tr><td>Argentine</td><td>8 juillet</td><td>1980 A</td><td>8 octobre</td><td>1980<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>19 février</td><td>2000<sup>b</sup></td></tr>
 <tr><td>Arménie</td><td>19 juillet</td><td>2000 A</td><td>19 octobre</td><td>2000</td></tr>
@@ -759,14 +753,15 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Bulgarie</td><td>30 août</td><td>1974</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Burkina Faso</td><td>20 octobre</td><td>1975 A</td><td>24 janvier</td><td>1976</td></tr>
 <tr><td>Burundi</td><td>12 janvier</td><td>2016 A</td><td>12 avril</td><td>2016</td></tr>
+<tr><td>Cambodge\*</td><td>9 décembre</td><td>2021 A</td><td>9 mars</td><td>2022</td></tr>
 <tr><td>Cameroun</td><td>3 août</td><td>1973</td><td>10 novembre</td><td>1973<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10 octobre</td><td>1974<sup>b</sup></td></tr>
 <tr><td>Canada</td><td>26 mars</td><td>1998 A</td><td>26 juin</td><td>1998</td></tr>
 <tr><td>Cap-Vert</td><td>7 avril</td><td>1997 A</td><td>7 juillet</td><td>1997</td></tr>
 <tr><td>Chili</td><td>25 mars</td><td>1975 A</td><td>10 juillet</td><td>1975</td></tr>
 <tr><td>Chine\*</td><td>10 juillet</td><td>1992 A</td><td>15 octobre</td><td>1992</td></tr>
-<tr><td>[tab] Hong Kong</td><td>7 juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>[tab] Macao</td><td>1<sup>er</sup> novembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Hong Kong</td><td>7 juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao</td><td>1<sup>er</sup> novembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre\*</td><td>22 avril</td><td>1983</td><td>27 juillet</td><td>1983</td></tr>
 <tr><td>Colombie</td><td>4 décembre</td><td>1987 A</td><td>7 mars</td><td>1988</td></tr>
 <tr><td>Comores</td><td>17 janvier</td><td>2005 A</td><td>17 avril</td><td>2005</td></tr>
@@ -809,7 +804,7 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Honduras</td><td>24 octobre</td><td>1989 A</td><td>25 janvier</td><td>1990</td></tr>
 <tr><td>Hongrie</td><td>11 septembre</td><td>1972</td><td>15 décembre</td><td>1972<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10 octobre</td><td>1974<sup>b</sup></td></tr>
-<tr><td>Îles Cook</td><td>3 mai</td><td>2017</td><td>3 août</td><td>2018</td></tr>
+<tr><td>Îles Cook</td><td>3 mai</td><td>2017 A</td><td>3 août</td><td>2017</td></tr>
 <tr><td>Îles Salomon</td><td>4 avril</td><td>2019 A</td><td>4 juillet</td><td>2019</td></tr>
 <tr><td>Inde\*</td><td>7 octobre</td><td>1974</td><td>10 janvier</td><td>1975<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>6 mai</td><td>1984<sup>b</sup></td></tr>
@@ -851,8 +846,8 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Monténégro</td><td>4 décembre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td>22 août</td><td>2013 A</td><td>22 novembre</td><td>2013</td></tr>
 <tr><td>Namibie</td><td>21 septembre</td><td>1993 A</td><td>24 décembre</td><td>1993</td></tr>
-<tr><td>Nauru</td><td>11 février</td><td>2020 A</td><td>11 mai</td><td>2020</td></tr>
-<tr><td>Népal</td><td>11 octobre</td><td>2005 A</td><td>11 janvier</td><td>2006</td></tr>
+<tr><td>Nauru\*</td><td>11 février</td><td>2020 A</td><td>11 mai</td><td>2020</td></tr>
+<tr><td>Népal\*</td><td>11 octobre</td><td>2005 A</td><td>11 janvier</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>23 mai</td><td>2000 A</td><td>23 août</td><td>2000</td></tr>
 <tr><td>Niger</td><td>18 février</td><td>1975 A</td><td>21 mai</td><td>1975</td></tr>
 <tr><td>Nigéria</td><td>10 juin</td><td>1993 A</td><td>14 septembre</td><td>1993</td></tr>
@@ -862,6 +857,7 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Nouvelle-Zélande</td><td>17 décembre</td><td>2018 A</td><td>17 mars</td><td>2019</td></tr>
 <tr><td>Tokelau</td><td>17 décembre</td><td>2018 A</td><td>17 mars</td><td>2019</td></tr>
 <tr><td>Oman\*</td><td>14 avril</td><td>1999 A</td><td>14 juillet</td><td>1999</td></tr>
+<tr><td>Ouganda</td><td>28 janvier</td><td>2022 A</td><td>28 avril</td><td>2022</td></tr>
 <tr><td>Ouzbékistan\*</td><td>19 janvier</td><td>2005 A</td><td>19 avril</td><td>2005</td></tr>
 <tr><td>Panama</td><td>8 mars</td><td>1996 A</td><td>8 juin</td><td>1996</td></tr>
 <tr><td>Paraguay</td><td>9 septembre</td><td>1991 A</td><td>2 janvier</td><td>1992</td></tr>
@@ -884,7 +880,9 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Roumanie</td><td>9 juin</td><td>1998</td><td>9 septembre</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 septembre</td><td>1989</td><td>2 janvier</td><td>1990</td></tr>
 <tr><td>Gibraltar</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Guernesey</td><td>21 août</td><td>2014</td><td>21 novembre</td><td>2014</td></tr>
 <tr><td>Île de Man</td><td>13 décembre</td><td>1995</td><td>18 mars</td><td>1996</td></tr>
+<tr><td>Jersey</td><td>31 octobre</td><td>2013</td><td>31 janvier</td><td>2014</td></tr>
 <tr><td>Russie</td><td>9 décembre</td><td>1994 A</td><td>13 mars</td><td>1995</td></tr>
 <tr><td>Rwanda</td><td>3 novembre</td><td>1983 A</td><td>1<sup>er</sup> mars</td><td>1984</td></tr>
 <tr><td>Sainte-Lucie\*</td><td>21 mai</td><td>1993 A</td><td>24 août</td><td>1993</td></tr>
@@ -926,9 +924,7 @@ Champ d’application le 24 septembre 2021**[^t-2]**
 <tr><td>Yémen\*</td><td>14 avril</td><td>2008 A</td><td>14 juillet</td><td>2008</td></tr>
 <tr><td>Zambie</td><td>13 septembre</td><td>1991 A</td><td>2 janvier</td><td>1992</td></tr>
 <tr><td>Zimbabwe</td><td>29 septembre</td><td>1981 A</td><td>30 décembre</td><td>1981<sup>a</sup></td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La ratification ou l’adhésion est applicable aux art. 22 à 38.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La ratification ou l’adhésion est applicable aux art. 1 à 21.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int](http://www.wipo.int) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La ratification ou l’adhésion est applicable aux art. 22 à 38. <sup>b</sup> La ratification ou l’adhésion est applicable aux art. 1 à 21.</td></tr>
 </table>
 
-[^t-2]: [RO 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601); [2024 272](https://fedlex.data.admin.ch/eli/oc/2024/272). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

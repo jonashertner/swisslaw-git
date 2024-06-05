@@ -3,11 +3,11 @@ sr: "0.231.15"
 title: "Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst, revidiert in Paris am 24. Juli 1971 (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659"
 language: de
-version: 2021-09-24
+version: 2024-06-06
 adopted: 1971-07-24
 in_force: 1993-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20210924/de/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20210924-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20210924/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20240606/de/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20240606-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20240606/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text gemäss Artikel 37 Absatz 1 Buchstabe b)
 
 Abgeschlossen in Paris am 24. Juli 1971 Von der Bundesversammlung genehmigt am 4. Juni 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 25. Juni 1993 In Kraft getreten für die Schweiz am 25. September 1993
 
-(Stand am 24. September 2021)
+(Stand am 6. Juni 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 4. Juni 1992 ([AS 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634))
 
@@ -28,7 +28,7 @@ Die Verbandsländer,
 
 gleichermassen von dem Wunsch geleitet, die Rechte der Urheber an ihren Werken der Literatur und Kunst in möglichst wirksamer und gleichmässiger Weise zu schützen,
 
-in Anerkennung der Bedeutung der Arbeitsergebnisse der 1967 in Stockholm abgehaltenen Revisionskonferenz
+in Anerkennung der Bedeutung der Arbeitsergebnisse der 1967 in Stockholm abgehaltenen Revisionskonferenz,
 
 haben beschlossen, die von der Stockholmer Konferenz angenommene Fassung dieser Übereinkunft[^ingress-1] unter unveränderter Beibehaltung der Artikel 1–20 und 22–26 zu revidieren.
 
@@ -98,7 +98,10 @@ Auch wenn die Voraussetzungen des Artikels 3 nicht vorliegen, sind durch diese �
 
 - a) für die zum ersten Mal in einem Verbandsland veröffentlichten Werke dieses Land; handelt es sich jedoch um Werke, die gleichzeitig in mehreren Verbandsländern mit verschiedener Schutzdauer veröffentlicht wurden, das Land, dessen innerstaatliche Rechtsvorschriften die kürzeste Schutzdauer gewähren;
 - b) für die gleichzeitig in einem verbandsfremden Land und in einem Verbandsland veröffentlichten Werke dieses letzte Land;
-- c) für die nicht veröffentlichten oder die zum ersten Mal in einem verbandsfremden Land veröffentlichten Werke, die nicht gleichzeitig in einem Verbandsland veröffentlicht wurden, das Verbandsland, dem der Urheber angehört, jedoch ist Ursprungsland,
+- c)
+
+  für die nicht veröffentlichten oder die zum ersten Mal in einem verbandsfremden Land veröffentlichten Werke, die nicht gleichzeitig in einem Verbandsland veröffentlicht wurden, das Verbandsland, dem der Urheber angehört, jedoch ist Ursprungsland:
+
   - i) wenn es sich um Filmwerke handelt, deren Hersteller seinen Sitz oder seinen gewöhnlichen Aufenthalt in einem Verbandsland hat, dieses Land und,
   - ii) wenn es sich um Werke der Baukunst, die in einem Verbandsland errichtet sind, oder um Werke der graphischen und plastischen Künste handelt, die Bestandteile eines in einem Verbandsland gelegenen Grundstücks sind, dieses Land.
 
@@ -174,7 +177,7 @@ Die Urheber von Werken der Literatur und Kunst, die durch diese Übereinkunft ge
 
 \1) Die Urheber von dramatischen, dramatisch‑musikalischen und musikalischen Werken geniessen das ausschliessliche Recht zu erlauben:
 
-- 1\. die öffentliche Aufführung ihrer Werke einschliesslich der öffentlichen Aufführung durch irgendein Mittel oder Verfahren,
+- 1\. die öffentliche Aufführung ihrer Werke einschliesslich der öffentlichen Aufführung durch irgendein Mittel oder Verfahren;
 - 2\. die öffentliche Übertragung der Aufführung ihrer Werke durch irgendein Mittel.
 
 #### Art. 11<sup>bis</sup>
@@ -185,8 +188,8 @@ Die Urheber von Werken der Literatur und Kunst, die durch diese Übereinkunft ge
 
 \1) Die Urheber von Werken der Literatur und Kunst geniessen das ausschliessliche Recht zu erlauben:
 
-- 1\. die Rundfunksendung ihrer Werke oder die öffentliche Wiedergabe der Werke durch irgendein anderes Mittel zur drahtlosen Verbreitung von Zeichen, Tönen oder Bildern,
-- 2\. jede öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes mit oder ohne Draht, wenn diese Wiedergabe von einem anderen als dem ursprünglichen Sendeunternehmen vorgenommen wird,
+- 1\. die Rundfunksendung ihrer Werke oder die öffentliche Wiedergabe der Werke durch irgendein anderes Mittel zur drahtlosen Verbreitung von Zeichen, Tönen oder Bildern;
+- 2\. jede öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes mit oder ohne Draht, wenn diese Wiedergabe von einem anderen als dem ursprünglichen Sendeunternehmen vorgenommen wird;
 - 3\. die öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes durch Lautsprecher oder irgendeine andere ähnliche Vorrichtung zur Übertragung von Zeichen, Tönen oder Bildern.
 
 #### Art. 11<sup>ter</sup>
@@ -195,7 +198,7 @@ Die Urheber von Werken der Literatur und Kunst, die durch diese Übereinkunft ge
 
 \1) Die Urheber von Werken der Literatur geniessen das ausschliessliche Recht zu erlauben:
 
-- 1\. den öffentlichen Vortrag ihrer Werke einschliesslich des öffentlichen Vortrags durch irgendein Mittel oder Verfahren,
+- 1\. den öffentlichen Vortrag ihrer Werke einschliesslich des öffentlichen Vortrags durch irgendein Mittel oder Verfahren;
 - 2\. die öffentliche Übertragung des Vortrags ihrer Werke durch irgendein Mittel.
 
 #### Art. 12
@@ -221,7 +224,7 @@ Die Urheber von Werken der Literatur oder Kunst geniessen das ausschliessliche R
 
 \1) Die Urheber von Werken der Literatur oder Kunst haben das ausschliessliche Recht zu erlauben:
 
-- 1\. die filmische Bearbeitung und Vervielfältigung dieser Werke und das Inverkehrbringen der auf diese Weise bearbeiteten oder vervielfältigten Werke,
+- 1\. die filmische Bearbeitung und Vervielfältigung dieser Werke und das Inverkehrbringen der auf diese Weise bearbeiteten oder vervielfältigten Werke;
 - 2\. die öffentliche Vorführung und die Übertragung mittels Draht an die Öffentlichkeit der auf diese Weise bearbeiteten oder vervielfältigten Werke.
 
 #### Art. 14<sup>bis</sup>
@@ -297,7 +300,10 @@ Die Regierungen der Verbandsländer behalten sich das Recht vor, Sonderabkommen 
 - 1) a) Der Verband hat eine Versammlung, die sich aus den durch die Artikel 22–26 gebundenen Verbandsländern zusammensetzt.
 - b) Die Regierung jedes Landes wird durch einen Delegierten vertreten, der von Stellvertretern, Beratern und Sachverständigen unterstützt werden kann.
 - c) Die Kosten jeder Delegation werden von der Regierung getragen, die sie entsandt hat.
-- 2) a) Die Versammlung
+- 2) a)
+
+  Die Versammlung:
+
   - i) behandelt alle Fragen betreffend die Erhaltung und die Entwicklung des Verbands sowie die Anwendung dieser Übereinkunft;
   - ii) erteilt dem Internationalen Büro für geistiges Eigentum (im folgenden als «das Internationale Büro» bezeichnet), das in dem Übereinkommen zur Errichtung der Weltorganisation für geistiges Eigentum[^22-1] (im folgenden als «die Organisation» bezeichnet) vorgesehen ist, Weisungen für die Vorbereitung der Revisionskonferenzen unter gebührender Berücksichtigung der Stellungnahmen der Verbandsländer, die durch die Artikel 22–26 nicht gebunden sind;
   - iii) prüft und billigt die Berichte und die Tätigkeit des Generaldirektors der Organisation betreffend den Verband und erteilt ihm alle zweckdienlichen Weisungen in Fragen, die in die Zuständigkeit des Verbands fallen;
@@ -344,7 +350,10 @@ Die Regierungen der Verbandsländer behalten sich das Recht vor, Sonderabkommen 
 - 5) a) Die Mitglieder des Exekutivausschusses üben ihr Amt vom Schluss der Tagung der Versammlung, in deren Verlauf sie gewählt worden sind, bis zum Ende der darauf folgenden ordentlichen Tagung der Versammlung aus.
 - b) Höchstens zwei Drittel der Mitglieder des Exekutivausschusses können wieder gewählt werden.
 - c) Die Versammlung regelt die Einzelheiten der Wahl und der etwaigen Wiederwahl der Mitglieder des Exekutivausschusses.
-- 6) a) Der Exekutivausschuss
+- 6) a)
+
+  Der Exekutivausschuss:
+
   - i) bereitet den Entwurf der Tagesordnung der Versammlung vor;
   - ii) unterbreitet der Versammlung Vorschläge zu den vom Generaldirektor vorbereiteten Entwürfen des Programms und des Zweijahres-Haushaltsplans des Verbands;
   - iii) unterbreitet der Versammlung mit entsprechenden Bemerkungen die periodischen Berichte des Generaldirektors und die jährlichen Berichte über die Rechnungsprüfung;
@@ -382,7 +391,7 @@ Die Regierungen der Verbandsländer behalten sich das Recht vor, Sonderabkommen 
 - b) Das Internationale Büro kann bei der Vorbereitung der Revisionskonferenzen zwischenstaatliche sowie internationale nichtstaatliche Organisationen konsultieren.
 - c) Der Generaldirektor und die von ihm bestimmten Personen nehmen ohne Stimmrecht an den Beratungen dieser Konferenzen teil.
 
-[^24-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^24-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),**0.232.0****3**,**0.232.0****4**
 
 #### Art. 25
 
@@ -503,15 +512,15 @@ Die Ratifikation dieser Fassung der Übereinkunft oder der Beitritt zu ihr durch
 
 \1) Diese Fassung der Übereinkunft ersetzt in den Beziehungen zwischen den Verbandsländern und in dem Umfang, in dem sie anwendbar ist, die Berner Übereinkunft vom 9. September 1886[^32-1] und die folgenden revidierten Fassungen dieser Übereinkunft[^32-2]. Die früheren Fassungen bleiben in ihrer Gesamtheit oder in dem Umfang, in dem diese Fassung sie nicht gemäss dem ersten Satz ersetzt, in den Beziehungen zu den Verbandsländern anwendbar, die diese Fassung der Übereinkunft weder ratifizieren noch ihr beitreten.
 
-\2) Die verbandsfremden Länder, die Vertragsparteien dieser Fassung der Übereinkunft werden, wenden sie vorbehaltlich des Absatzes 3) im Verhältnis zu jedem Verbandsland an, das nicht durch diese Fassung der Übereinkunft gebunden ist oder das zwar durch diese Fassung gebunden ist, aber die in Artikel 28 Absatz 1) Buchstabe b) vorgesehene Erklärung abgegeben hat. Diese Länder lassen es zu, dass ein solches Verbandsland in seinen Beziehungen zu ihnen
-
 \3) Jedes Land, das eine der im Anhang vorgesehenen Befugnisse in Anspruch genommen hat, kann die diese Befugnis betreffenden Bestimmungen des Anhangs in seinen Beziehungen zu jedem anderen Verbandsland anwenden, das nicht durch diese Fassung der Übereinkunft gebunden ist, aber die Anwendung dieser Bestimmungen zugelassen hat.
 
-- i) die Bestimmungen der jüngsten Fassung der Übereinkunft, durch die es gebunden ist, anwendet und
+\2) Die verbandsfremden Länder, die Vertragsparteien dieser Fassung der Übereinkunft werden, wenden sie vorbehaltlich des Absatzes 3) im Verhältnis zu jedem Verbandsland an, das nicht durch diese Fassung der Übereinkunft gebunden ist oder das zwar durch diese Fassung gebunden ist, aber die in Artikel 28 Absatz 1) Buchstabe b) vorgesehene Erklärung abgegeben hat. Diese Länder lassen es zu, dass ein solches Verbandsland in seinen Beziehungen zu ihnen:
+
+- i) die Bestimmungen der jüngsten Fassung der Übereinkunft, durch die es gebunden ist, anwendet; und
 - ii) vorbehaltlich des Artikels 1 Absatz 6) des Anhangs befugt ist, den Schutz dem in dieser Fassung der Übereinkunft vorgesehenen Stand anzupassen.
 
 [^32-1]: [AS **10** 219; **16** 611, BS **11** 931, 945]
-[^32-2]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.14**
+[^32-2]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476), **0.231.1****3**, **0.231.1****4**
 
 #### Art. 33
 
@@ -603,7 +612,7 @@ Anhang
 - b) Eine Lizenz kann aufgrund dieses Artikels auch erteilt werden, wenn alle Ausgaben der in der betreffenden Sprache veröffentlichten Übersetzung vergriffen sind.
 - 3) a) Für Übersetzungen in eine Sprache, die nicht in einem oder mehreren der entwickelten Länder, die Mitglieder des Verbands sind, allgemein gebräuchlich ist, wird die in Absatz 2) Buchstabe a) genannte Frist von drei Jahren durch eine Frist von einem Jahr ersetzt.
 - b) Jedes in Absatz 1) bezeichnete Land kann aufgrund einer einstimmigen Vereinbarung mit den entwickelten Ländern, die Mitglieder des Verbands sind und in denen dieselbe Sprache allgemein gebräuchlich ist, für Übersetzungen in diese Sprache die in Absatz 2) Buchstabe a) genannte Frist von drei Jahren durch eine kürzere, in der Vereinbarung festgelegte Frist ersetzen, die aber nicht weniger als ein Jahr betragen darf. Der erste Satz ist jedoch auf Übersetzungen in die englische, französische oder spanische Sprache nicht anwendbar. Jede derartige Vereinbarung wird dem Generaldirektor von den Regierungen, die sie getroffen haben, notifiziert.
-- 4) a) Nach diesem Artikel darf eine nach drei Jahren erwirkbare Lizenz erst nach Ablauf einer weiteren Frist von sechs Monaten und eine nach einem Jahr erwirkbare Lizenz erst nach Ablauf einer weiteren Frist von neun Monaten erteilt werden, beginnend
+- 4) a) Nach diesem Artikel darf eine nach drei Jahren erwirkbare Lizenz erst nach Ablauf einer weiteren Frist von sechs Monaten und eine nach einem Jahr erwirkbare Lizenz erst nach Ablauf einer weiteren Frist von neun Monaten erteilt werden, beginnend;
   - i) in dem Zeitpunkt, in dem der Antragsteller die in Artikel IV Absatz 1) vorgesehenen Erfordernisse erfüllt, oder,
   - ii) sofern der Inhaber des Übersetzungsrechts oder seine Anschrift unbekannt ist, in dem Zeitpunkt, in dem der Antragsteller, wie in Artikel IV Absatz 2) vorgesehen, Abschriften seines bei der zuständigen Behörde gestellten Lizenzantrags absendet.
 
@@ -626,22 +635,26 @@ Anhang
 
 \1) Jedes Land, das erklärt hat, es werde die in diesem Artikel vorgesehene Befugnis in Anspruch nehmen, ist berechtigt, das in Artikel 9 vorgesehene ausschliessliche Vervielfältigungsrecht durch ein System nicht ausschliesslicher und unübertragbarer Lizenzen zu ersetzen, die von der zuständigen Behörde unter den folgenden Voraussetzungen und gemäss Artikel IV erteilt werden.
 
-\3) Die in Absatz 2) Buchstabe a) Ziffer i) bezeichnete Frist beträgt fünf Jahre; dagegen beträgt sie
-
-\5) Eine Lizenz zur Vervielfältigung und Veröffentlichung der Übersetzung eines Werkes wird nach diesem Artikel nicht erteilt,
-
 \6) Werden vom Inhaber des Vervielfältigungsrechts oder mit seiner Erlaubnis Werkstücke der Ausgabe eines Werkes in dem in Absatz 1) bezeichneten Land der Allgemeinheit oder für den Gebrauch im Zusammenhang mit systematischem Unterricht zu einem Preis, der dem für vergleichbare Werke dort üblichen Preis entspricht, zum Kauf angeboten, so erlischt jede nach diesem Artikel erteilte Lizenz, sofern diese Ausgabe in derselben Sprache abgefasst ist und im wesentlichen den gleichen Inhalt hat wie die aufgrund der Lizenz veröffentlichte Ausgabe. Werkstücke, die bereits vor Erlöschen der Lizenz hergestellt worden sind, dürfen weiterhin in Verkehr gebracht werden, bis der Vorrat erschöpft ist.
 
-- 2) a) Sind Werkstücke einer bestimmten Ausgabe eines Werkes, auf das dieser Artikel gemäss Absatz 7) anwendbar ist, innerhalb
-  - i) der in Absatz 3) festgelegten und vom Zeitpunkt der ersten Veröffentlichung einer bestimmten Ausgabe an zu berechnenden Frist oder
+- 2) a)
+
+  Sind Werkstücke einer bestimmten Ausgabe eines Werkes, auf das dieser Artikel gemäss Absatz 7) anwendbar ist, innerhalb:
+
+  - i) der in Absatz 3) festgelegten und vom Zeitpunkt der ersten Veröffentlichung einer bestimmten Ausgabe an zu berechnenden Frist, oder
   - ii) einer längeren, in den innerstaatlichen Rechtsvorschriften des in Absatz 1) bezeichneten Landes festgelegten und von demselben Zeitpunkt an zu berechnenden Frist in diesem Land vom Inhaber des Vervielfältigungsrechts oder mit seiner Erlaubnis zu einem Preis, der dem dort für vergleichbare Werke üblichen Preis entspricht, der Allgemeinheit oder für den Gebrauch im Zusammenhang mit systematischem Unterricht nicht zum Kauf angeboten worden, so kann jeder Angehörige dieses Landes eine Lizenz erhalten, die Ausgabe zu diesem oder einem niedrigeren Preis für den Gebrauch im Zusammenhang mit systematischem Unterricht zu vervielfältigen und zu veröffentlichen.
 
 - b) Eine Lizenz zur Vervielfältigung und Veröffentlichung einer Ausgabe, die, wie in Buchstabe a) beschrieben, in Verkehr gebracht worden ist, kann unter den in diesem Artikel vorgesehenen Voraussetzungen auch erteilt werden, wenn nach Ablauf der massgebenden Frist in dem Land mit Erlaubnis des Rechtsinhabers hergestellte Werkstücke dieser Ausgabe zu einem Preis, der dem dort für vergleichbare Werke üblichen Preis entspricht, sechs Monate lang für die Allgemeinheit oder für den Gebrauch im Zusammenhang mit systematischem Unterricht nicht mehr zum Verkauf standen.
 
-- i) drei Jahre für Werke aus den Bereichen der Naturwissenschaften, Mathematik und Technik und
+\3) Die in Absatz 2) Buchstabe a) Ziffer i) bezeichnete Frist beträgt fünf Jahre; dagegen beträgt sie:
+
+- i) drei Jahre für Werke aus den Bereichen der Naturwissenschaften, Mathematik und Technik, und
 - ii) sieben Jahre für Romane, Gedichte und Dramen sowie für musikalische Werke und Kunstbücher.
 
-- 4) a) Eine nach drei Jahren erwirkbare Lizenz darf nach diesem Artikel erst nach Ablauf einer Frist von sechs Monaten erteilt werden, beginnend
+- 4) a)
+
+  Eine nach drei Jahren erwirkbare Lizenz darf nach diesem Artikel erst nach Ablauf einer Frist von sechs Monaten erteilt werden, beginnend:
+
   - i) in dem Zeitpunkt, in dem der Antragsteller die in Artikel IV Absatz 1) vorgesehenen Erfordernisse erfüllt, oder
   - ii) sofern der Inhaber des Vervielfältigungsrechts oder seine Anschrift unbekannt ist, in dem Zeitpunkt, in dem der Antragsteller, wie in Artikel IV Absatz 2) vorgesehen, Abschriften seines bei der zuständigen Behörde gestellten Lizenzantrags absendet.
 
@@ -649,7 +662,9 @@ Anhang
 - c) Werden innerhalb der in den Buchstaben a) und b) genannten Fristen von sechs oder drei Monaten Werkstücke der Ausgabe, wie in Absatz 2) Buchstabe a) beschrieben, zum Kauf angeboten, so darf keine Lizenz nach diesem Artikel erteilt werden.
 - d) Keine Lizenz wird erteilt, wenn der Urheber alle Werkstücke der Ausgabe, die für eine Lizenz zur Vervielfältigung und Veröffentlichung beantragt worden ist, aus dem Verkehr gezogen hat.
 
-- i) wenn die Übersetzung nicht vom Inhaber des Übersetzungsrechts oder mit seiner Erlaubnis veröffentlicht worden ist oder
+\5) Eine Lizenz zur Vervielfältigung und Veröffentlichung der Übersetzung eines Werkes wird nach diesem Artikel nicht erteilt:
+
+- i) wenn die Übersetzung nicht vom Inhaber des Übersetzungsrechts oder mit seiner Erlaubnis veröffentlicht worden ist, oder
 - ii) wenn die Übersetzung nicht in einer Sprache abgefasst ist, die in dem Land, in dem die Lizenz beantragt worden ist, allgemein gebräuchlich ist.
 
 - 7) a) Vorbehaltlich des Buchstaben b) ist dieser Artikel nur auf Werke anwendbar, die im Druck oder in einer entsprechenden Vervielfältigungsform veröffentlicht worden sind.
@@ -676,7 +691,10 @@ Anhang
   - iii) der Versand der Werkstücke und ihre spätere Verteilung an die Empfänger dienen keinen Erwerbszwecken;
   - iv) das Land, in das die Werkstücke gesandt werden, hat mit dem Land, dessen zuständige Behörde die Lizenz erteilt hat, eine Vereinbarung getroffen, die den Empfang, die Verteilung oder beides gestattet, und die Regierung dieses Landes hat dem Generaldirektor die Vereinbarung notifiziert.
 
-- 6) a) Auf nationaler Ebene ist dafür zu sorgen, dass
+- 6) a)
+
+  Auf nationaler Ebene ist dafür zu sorgen, dass:
+
   - i) die Lizenz zugunsten des Inhabers des Übersetzungsrechts oder des Inhabers des Vervielfältigungsrechts eine angemessene Vergütung vorsieht, die der bei frei vereinbarten Lizenzen zwischen Personen in den beiden betreffenden Ländern üblichen Vergütung entspricht, und
   - ii) Zahlung und Transfer der Vergütung sichergestellt werden; bestehen nationale Devisenbeschränkungen, so hat die zuständige Behörde unter Zuhilfenahme internationaler Einrichtungen alles ihr Mögliche zu tun, um den Transfer der Vergütung in international konvertierbarer Währung oder gleichgestellten Zahlungsmitteln sicherzustellen.
 
@@ -688,7 +706,10 @@ Anhang
 
 \3) Ein Land, das nicht länger als Entwicklungsland im Sinn von Artikel I Absatz 1) angesehen wird, kann, obwohl es kein verbandsfremdes Land ist, bis zu zwei Jahren vor Ablauf der nach Artikel I Absatz 3) massgebenden Frist die in Artikel 30 Absatz 2) Buchstabe b) erster Satz vorgesehene Erklärung abgeben. Diese Erklärung wird in dem Zeitpunkt wirksam, in dem die nach Artikel I Absatz 3) massgebende Frist abläuft.
 
-- 1) a) Jedes Land, das zu erklären berechtigt ist, es werde die in Artikel II vorgesehene Befugnis in Anspruch nehmen, kann stattdessen bei der Ratifikation oder beim Beitritt zu dieser Fassung,
+- 1) a)
+
+  Jedes Land, das zu erklären berechtigt ist, es werde die in Artikel II vorgesehene Befugnis in Anspruch nehmen, kann stattdessen bei der Ratifikation oder beim Beitritt zu dieser Fassung:
+
   - i) sofern es ein Land ist, auf das Artikel 30 Absatz 2) Buchstabe a) zutrifft, hinsichtlich des Übersetzungsrechts eine Erklärung nach dieser Bestimmung abgeben;
   - ii) sofern es ein Land ist, auf das Artikel 30 Absatz 2) Buchstabe a) nicht zutrifft, und selbst wenn es sich nicht um ein verbandsfremdes Land handelt, die in Artikel 30 Absatz 2) Buchstabe b) erster Satz vorgesehene Erklärung abgeben.
 
@@ -696,8 +717,6 @@ Anhang
 - c) Ein Land, das eine Erklärung nach diesem Absatz abgegeben hat, kann die in Artikel II vorgesehene Befugnis nicht mehr in Anspruch nehmen, selbst wenn es die Erklärung zurückzieht.
 
 #### Art. VI
-
-\1) Ein Verbandsland kann vom Zeitpunkt der Unterzeichnung dieser Fassung der Übereinkunft an jederzeit, bevor es durch die Artikel 1–21 und diesen Anhang gebunden ist,
 
 \2) Jede Erklärung nach Absatz 1) muss schriftlich abgefasst und beim Generaldirektor hinterlegt werden. Sie wird im Zeitpunkt ihrer Hinterlegung wirksam.
 
@@ -707,10 +726,12 @@ Geschehen zu Paris am 24. Juli 1971.
 
 (Es folgen die Unterschriften)
 
+\1) Ein Verbandsland kann vom Zeitpunkt der Unterzeichnung dieser Fassung der Übereinkunft an jederzeit, bevor es durch die Artikel 1–21 und diesen Anhang gebunden ist:
+
 - i) erklären – sofern es berechtigt wäre, die in Artikel I Absatz 1) bezeichneten Befugnisse in Anspruch zu nehmen, wenn es durch die Artikel 1–21 und diesen Anhang gebunden wäre ‑, dass es die Artikel II oder III oder beide Artikel auf Werke anwenden wird, deren Ursprungsland ein Land ist, das gemäss Ziffer ii) die Anwendung dieser Artikel auf solche Werke zulässt oder das durch die Artikel 1–21 und diesen Anhang gebunden ist; die Erklärung kann sich statt auf Artikel II auf Artikel V beziehen;
 - ii) erklären, dass es die Anwendung dieses Anhangs auf Werke, deren Ursprungsland es ist, durch die Länder zulässt, die eine Erklärung nach Ziffer i) abgegeben oder eine Notifikation nach Artikel I hinterlegt haben.
 
-Geltungsbereich am 24. September 2021**[^t-2]**
+Geltungsbereich am 6. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -747,7 +768,7 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>China\*</td><td>10. Juli</td><td>1992 B</td><td>15. Oktober</td><td>1992</td></tr>
 <tr><td>Hongkong</td><td>7. Juli</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau</td><td>1. November</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>3. Mai</td><td>2017</td><td>3. August</td><td>2018</td></tr>
+<tr><td>Cook-Inseln</td><td>3. Mai</td><td>2017 B</td><td>3. August</td><td>2017</td></tr>
 <tr><td>Costa Rica</td><td>3. März</td><td>1978 B</td><td>10. Juni</td><td>1978</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. Februar</td><td>1974</td><td>4. Mai</td><td>1974<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10. Oktober</td><td>1974<sup>b</sup></td></tr>
@@ -789,6 +810,7 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>Japan</td><td>20. Januar</td><td>1975</td><td>24. April</td><td>1975</td></tr>
 <tr><td>Jemen\*</td><td>14. April</td><td>2008 B</td><td>14. Juli</td><td>2008</td></tr>
 <tr><td>Jordanien\*</td><td>28. April</td><td>1999 B</td><td>28. Juli</td><td>1999</td></tr>
+<tr><td>Kambodscha\*</td><td>9. Dezember</td><td>2021 B</td><td>9. März</td><td>2022</td></tr>
 <tr><td>Kamerun</td><td>3. August</td><td>1973</td><td>10. November</td><td>1973<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10. Oktober</td><td>1974<sup>b</sup></td></tr>
 <tr><td>Kanada</td><td>26. März</td><td>1998 B</td><td>26. Juni</td><td>1998</td></tr>
@@ -830,8 +852,8 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>Montenegro</td><td>4. Dezember</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik</td><td>22. August</td><td>2013 B</td><td>22. November</td><td>2013</td></tr>
 <tr><td>Namibia</td><td>21. September</td><td>1993 B</td><td>24. Dezember</td><td>1993</td></tr>
-<tr><td>Nauru</td><td>11. Februar</td><td>2020 B</td><td>11. Mai</td><td>2020</td></tr>
-<tr><td>Nepal</td><td>11. Oktober</td><td>2005 B</td><td>11. Januar</td><td>2006</td></tr>
+<tr><td>Nauru\*</td><td>11. Februar</td><td>2020 B</td><td>11. Mai</td><td>2020</td></tr>
+<tr><td>Nepal\*</td><td>11. Oktober</td><td>2005 B</td><td>11. Januar</td><td>2006</td></tr>
 <tr><td>Neuseeland</td><td>17. Dezember</td><td>2018 B</td><td>17. März</td><td>2019</td></tr>
 <tr><td>Tokelau</td><td>17. Dezember</td><td>2018 B</td><td>17. März</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>23. Mai</td><td>2000 B</td><td>23. August</td><td>2000</td></tr>
@@ -865,7 +887,7 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>Samoa\*</td><td>21. April</td><td>2006 B</td><td>21. Juli</td><td>2006</td></tr>
 <tr><td>San Marino</td><td>2. Juni</td><td>2020 B</td><td>2. September</td><td>2020</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>14. März</td><td>2016 B</td><td>14. Juni</td><td>2016</td></tr>
-<tr><td>Saudi-Arabien</td><td>11. Dezember</td><td>2003 B</td><td>11. März</td><td>2004</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>11. Dezember</td><td>2003 B</td><td>11. März</td><td>2004</td></tr>
 <tr><td>Schweden</td><td>14. Juni</td><td>1973</td><td>20. September</td><td>1973<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10. Oktober</td><td>1974<sup>b</sup></td></tr>
 <tr><td>Schweiz</td><td>25. Juni</td><td>1993</td><td>25. September</td><td>1993</td></tr>
@@ -898,6 +920,7 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>Türkei</td><td>1. Oktober</td><td>1995 B</td><td>1. Januar</td><td>1996</td></tr>
 <tr><td>Turkmenistan\*</td><td>29. Februar</td><td>2016 B</td><td>29. Mai</td><td>2016</td></tr>
 <tr><td>Tuvalu</td><td>2. März</td><td>2017 B</td><td>2. Juni</td><td>2017</td></tr>
+<tr><td>Uganda</td><td>28. Januar</td><td>2022 B</td><td>28. April</td><td>2022</td></tr>
 <tr><td>Ukraine</td><td>25. Juli</td><td>1995 B</td><td>25. Oktober</td><td>1995</td></tr>
 <tr><td>Ungarn</td><td>11. September</td><td>1972</td><td>15. Dezember</td><td>1972<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10. Oktober</td><td>1974<sup>b</sup></td></tr>
@@ -909,13 +932,15 @@ Geltungsbereich am 24. September 2021**[^t-2]**
 <tr><td>Vereinigte Staaten</td><td>16. November</td><td>1988 B</td><td>1. März</td><td>1989</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>29. September</td><td>1989</td><td>2. Januar</td><td>1990</td></tr>
 <tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Guernsey</td><td>21. August</td><td>2014</td><td>21. November</td><td>2014</td></tr>
 <tr><td>Insel Man</td><td>13. Dezember</td><td>1995</td><td>18. März</td><td>1996</td></tr>
+<tr><td>Jersey</td><td>31. Oktober</td><td>2013</td><td>31. Januar</td><td>2014</td></tr>
 <tr><td>Vietnam\*</td><td>26. Juni</td><td>2004 B</td><td>26. Oktober</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>31. Mai</td><td>1977 B</td><td>3. September</td><td>1977</td></tr>
 <tr><td>Zypern\*</td><td>22. April</td><td>1983</td><td>27. Juli</td><td>1983</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/ip/berne/index.html](https://www.wipo.int/treaties/fr/ip/berne/index.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Die Ratifikation oder der Beitritt erstreckt sich auf die Artikel 22–38.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Die Ratifikation oder der Beitritt erstreckt sich auf die Artikel 1–21.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1993 2659](https://fedlex.data.admin.ch/eli/oc/1993/2659_2659_2659); [2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601); [2024 272](https://fedlex.data.admin.ch/eli/oc/2024/272). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
