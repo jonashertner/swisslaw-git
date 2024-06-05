@@ -4,13 +4,13 @@ number: RiE 411.600
 title: Ordnung für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulordnung
 language: de
-version: 2022-01-01
-valid_until: 2024-06-05
-version_adopted: 2021-11-24
+version: 2024-06-06
+valid_until: 2025-06-11
+version_adopted: 2024-04-24
 adopted: 2009-03-25
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.600"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5424/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulordnung | Riehen: Einwohnergemeinde
 
 (Schulordnung)
 
-Vom 25. März 2009 (Stand 1. Januar 2022)
+Vom 25. März 2009 (Stand 6. Juni 2024)
 
 Der Einwohnerrat Riehen
 
@@ -144,7 +144,7 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 
 **Mitglieder der Schulräte**
 
-<sup>1</sup> Jeder Schulrat besteht aus einer externen Präsidentin oder einem externen Präsidenten, fünf bis sieben externen Mitgliedern und zwei internen Mitgliedern.
+<sup>1</sup> Jeder Schulrat besteht aus einer externen Präsidentin oder einem externen Präsidenten, fünf bis sieben externen Mitgliedern und drei internen Mitgliedern.
 
 <sup>2</sup> Der Gemeinderat regelt die Zusammensetzung in einem Reglement.
 
