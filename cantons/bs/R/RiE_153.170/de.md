@@ -4,13 +4,12 @@ number: RiE 153.170
 title: Reglement über den Gemeindeführungsstab Riehen
 short: Reglement GFS
 language: de
-version: 2020-06-11
-valid_until: 2024-06-05
-version_adopted: 2020-05-19
+version: 2024-06-06
+version_adopted: 2024-05-28
 adopted: 2020-05-19
 in_force: 2020-06-11
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20153.170"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4903/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Reglement Gemeindeführungsstab | Riehen: Einwohnergemeinde
 
 (Reglement GFS)
 
-Vom 19. Mai 2020 (Stand 11. Juni 2020)
+Vom 19. Mai 2020 (Stand 6. Juni 2024)
 
 Der Gemeinderat Riehen,
 
@@ -47,9 +46,11 @@ beschliesst,
 
 **Zusammensetzung**
 
-<sup>1</sup> Der Gemeinderat wählt auf seine eigene Amtsdauer die Chefin oder den Chef des GFS aus den Mitgliedern des Gemeinderats.
+<sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident ist ex officio Mitglied des GFS.
 
-<sup>2</sup> Weitere Mitglieder des GFS sind ex officio die Gemeindepräsidentin oder der Gemeindepräsident, die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär sowie die Abteilungsleitung Publikums- und Behördendienste.
+<sup>1<sup>bis</sup></sup> Auf seine eigene Amtsdauer wählt der Gemeinderat aus seinen Mitgliedern ein weiteres Mitglied des GFS und bestimmt den Chef oder die Chefin des GFS und deren oder dessen Stellvertretung.
+
+<sup>2</sup> Weitere Mitglieder des GFS sind die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär und die Leiterin oder der Leiter Integrale Sicherheit.
 
 <sup>3</sup> Die fachlich zuständigen Mitarbeitenden der Gemeinde Riehen können verpflichtet werden, eine Funktion im GFS zu übernehmen und sich dafür im Ereignisfall auf Abruf bereit zu halten.
 
@@ -57,7 +58,7 @@ beschliesst,
 
 **Organisation**
 
-<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter leitet als Stabschefin oder Stabschef den GFS. Er oder sie untersteht der Chefin oder dem Chef GFS.
+<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter leitet als Stabschefin oder Stabschef den GFS, die Stellvertretung liegt bei der Leiterin oder dem Leiter Integrale Sicherheit. Sie unterstehen der Chefin oder dem Chef GFS.
 
 <sup>2</sup> In normalen Lagen legt die Stabschefin oder der Stabschef die Organisation des GFS fest, in besonderen oder ausserordentlichen Lagen die Chefin oder der Chef GFS.
 
@@ -68,14 +69,15 @@ beschliesst,
 <sup>1</sup> Befugt, den GFS oder Teile davon in besonderen und ausserordentlichen Lagen aufzubieten, sind:
 
 - a) die kantonale Krisenorganisation;
-- b) der Gemeinderat oder
-- c) die Chefin oder der Chef GFS.
+- b) der Gemeinderat;
+- c) die Chefin oder der Chef GFS oder
+- d) die Stabschefin oder der Stabschef.
 
 <sup>2</sup> Die Auslösung des Sirenenalarms gilt als Aufgebot für den GFS.
 
 <sup>3</sup> Die aufbietende Stelle ist befugt, das Aufgebot zu beenden, sobald die Tätigkeit des GFS nicht mehr erforderlich ist.
 
-<sup>4</sup> In normalen Lagen kann die Stabschefin oder der Stabschef GFS den GFS für Übungszwecke aufbieten.
+<sup>4</sup> In normalen Lagen kann die Stabschefin oder der Stabschef GFS sowie die Leiterin oder der Leiter Integrale Sicherheit den GFS in Absprache mit der Chefin oder dem Chef GFS für Übungszwecke aufbieten.
 
 #### § 5
 
@@ -93,6 +95,8 @@ beschliesst,
 - h) er stellt die Erfüllung der kommunalen Aufgaben auf dem Gemeindegebiet sicher;
 - i) soweit in der Verwaltung verfügbar, stellt er Verstärkungen, Ablösungen und spezielle Ressourcen, z.B. aus dem Werkhof, zur Verfügung und
 - j) leitet alle Massnahmen für die Instandstellung der kommunalen und privaten Infrastruktur.
+
+<sup>2</sup> Ausserdem erstellt und pflegt er ein Führungshandbuch, welches insbesondere die Pflichtenhefte sowie die Organisations- und Planungsgrundlagen beinhaltet.
 
 #### § 6
 
