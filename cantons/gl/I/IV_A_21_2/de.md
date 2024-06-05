@@ -3,20 +3,19 @@ canton: GL
 number: IV A/21/2
 title: Geschäftsreglement der Synode
 language: de
-version: 2023-11-16
-valid_until: 2024-06-05
-version_adopted: 2023-11-16
+version: 2024-06-06
+version_adopted: 2024-06-06
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2511/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement der Synode
 
-Vom 09.11.1995 (Stand 16.11.2023)
+Vom 09.11.1995 (Stand 06.06.2024)
 
 (Beschlossen an der Synode vom 9. November 1995)
 
@@ -289,6 +288,8 @@ Dient einander als gute Verwalter der vielfältigen Gnade Gottes, jedes mit der 
 <sup>3</sup> Unbestrittene Anträge erklärt der Präsident oder die Präsidentin ohne Abstimmung als angenommen. Bei offensichtlichen Mehrheiten kann auf das Zählen der Stimmen verzichtet werden.
 
 <sup>4</sup> Der Präsident oder die Präsidentin der Synode stimmt bei den Abstimmungen nicht mit, hat aber bei Stimmengleichheit den Stichentscheid.
+
+<sup>5</sup> Anstelle der Stimmabgabe durch Handaufheben werden die Stimmen in der Regel elektronisch ausgezählt. Bei offenen Abstimmungen wird das Abstimmungsverhalten der einzelnen Mitglieder der Synode angezeigt. Bei geheimen Abstimmungen wird das Ergebnis lediglich als Summe dargestellt. Abstimmungen mit Namensaufruf werden nicht elektronisch ausgezählt.
 
 #### Art. 28
 
