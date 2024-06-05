@@ -4,36 +4,40 @@ number: "814.210"
 title: Staatsvertrag zwischen dem Kanton Schaffhausen und dem Land Baden-Württemberg über die Beseitigung der Abwässer aus dem Bibertal und dem Hegau
 language: de
 version: 1977-10-03
+corrected: 2024-06-06
 version_adopted: 1976-08-17
 adopted: 1976-08-17
 in_force: 1977-10-03
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.210"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/999/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/83/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Staatsvertrag zwischen dem Kanton Schaffhausen und dem Land Baden-Württemberg über die Beseitigung der Abwässer aus dem Bibertal und dem Hegau
 
-Vom 17.08.1976 (Stand 03.10.1977)
+vom 17. August 1976
 
-Der Kanton Schaffhausen, vertreten durch den Regierungsrat, und das Land-Baden-Württemberg, vertreten durch den Ministerpräsidenten, dieser vertreten durch den Minister für Ernährung, Landwirtschaft und Umwelt (Vertragspartner),
+Der Kanton Schaffhausen, vertreten durch den Regierungsrat, und das Land-Baden-Württemberg, vertreten durch den Ministerpräsidenten, dieser vertreten durch den Minister für Ernährung, Landwirtschaft und Umwelt (Vertragspartner)
 
-nachdem der Abwasserverband «Bibertal» im Kanton Schaffhausen und der Abwasserzweckverband «Hegau-Süd» im Land Baden-Württemberg (Verbände) über den Bau und den Betrieb einer gemeinsamen Abwasserreinigungsanlage in Ramsen und der dazugehörigen Kanäle den Vertrag vom 18. Dezember 1970 abgeschlossen haben,
+vereinbaren,
 
-beschliessen:
+nachdem der Abwasserverband «Bibertal» im Kanton Schaffhausen und der Abwasserzweckverband «Hegau-Süd» im Land Baden-Württemberg (Verbände) über den Bau und den Betrieb einer gemeinsamen Abwasserreinigungsanlage in Ramsen und der dazugehörigen Kanäle den Vertrag vom 18. Dezember 1970 abgeschlossen haben, folgendes:
 
 #### Art. 1
 
-<sup>1</sup> Die Vertragspartner verpflichten sich, die erforderlichen öffentlichrechtlichen Genehmigungen zum Bau und Betrieb der gemeinsamen Anlagen nach Massgabe der gesetzlichen Vorschriften zu erteilen und etwa notwendige Enteignungen und Zwangsverpflichtungen vorzunehmen beziehungsweise die entsprechenden Rechte zu gewähren.
+Die Vertragspartner verpflichten sich, die erforderlichen öffentlichrechtlichen Genehmigungen zum Bau und Betrieb der gemeinsamen Anlagen nach Massgabe der gesetzlichen Vorschriften zu erteilen und etwa notwendige Enteignungen und Zwangsverpflichtungen vorzunehmen beziehungsweise die entsprechenden Rechte zu gewähren.
 
 #### Art. 2
 
-<sup>1</sup> Der Kanton Schaffhausen sichert dem Land Baden-Württemberg die Abnahme des in die gemeinsamen Anlagen von den Verbandsmitgliedern des Abwasserzweckverbandes «Hegau-Süd» abzuleitenden Abwassers zu.
+Der Kanton Schaffhausen sichert dem Land Baden-Württemberg die Abnahme des in die gemeinsamen Anlagen von den Verbandsmitgliedern des Abwasserzweckverbandes «Hegau-Süd» abzuleitenden Abwassers zu.
+
+Amtsblatt 1977, S. 1085; Rechtsbuch 1964, Nr. 261b.
 
 #### Art. 3
 
-<sup>1</sup> Die Beschaffenheit des in den Rhein einzuleitenden, in der Abwasserreinigungsanlage geklärten Abwassers wird von den zuständigen Behörden der Vertragspartner unter Einhaltung der gesetzlichen Vorschriften gemeinsam festgelegt; zuvor wird eine Äusserung der von den Verbänden nach dem Vertrag vom 18. Dezember 1970 gebildeten Aufsichtskommission eingeholt. Änderungen bedürfen des gleichen Verfahrens.
+Die Beschaffenheit des in den Rhein einzuleitenden, in der Abwasserreinigungsanlage geklärten Abwassers wird von den zuständigen Behörden der Vertragspartner unter Einhaltung der gesetzlichen Vorschriften gemeinsam festgelegt; zuvor wird eine Äusserung der von den Verbänden nach dem Vertrag vom 18. Dezember 1970 gebildeten Aufsichtskommission eingeholt. Änderungen bedürfen des gleichen Verfahrens.
 
 #### Art. 4
 
@@ -47,7 +51,7 @@ beschliessen:
 
 <sup>1</sup> Bei der Erfüllung dieser Vereinbarung müssen die beiderseitigen Interessen gleich berücksichtigt werden.
 
-<sup>2</sup> Auf der gemeinsamen Abwasserreinigungsanlage in Ramsen sollen Bedienstete mit deutscher und mit schweizerischer Staatsangehörigkeit beschäftigt werden. Der Kanton Schaffhausen wird die im Rahmen seiner Kompetenz liegenden öffentlichrechtlichen Genehmigungen für die Beschäftigung deutscher Staatsangehöriger erteilen. Im Übrigen wirkt er darauf hin, dass diese Genehmigungen erteilt werden.
+<sup>2</sup> Auf der gemeinsamen Abwasserreinigungsanlage in Ramsen sollen Bedienstete mit deutscher und mit schweizerischer Staatsangehörigkeit beschäftigt werden. Der Kanton Schaffhausen wird die im Rahmen seiner Kompetenz liegenden öffentlichrechtlichen Genehmigungen für die Beschäftigung deutscher Staatsangehöriger erteilen. Im übrigen wirkt er da-rauf hin, dass diese Genehmigungen erteilt werden.
 
 #### Art. 6
 
@@ -57,7 +61,7 @@ beschliessen:
 
 #### Art. 7
 
-<sup>1</sup> Die jeweils zuständigen Behörden der Vertragspartner und die Beauftragten der Verbände haben das Recht, im Interesse einer geordneten Geschäftsführung, eines einwandfreien Betriebs der gemeinsamen Anlagen und einer ordnungsgemässen Verwendung der den Verbänden gewährten staatlichen Beihilfen jederzeit die Akten und die sonstigen Unterlagen einzusehen, die Anlagen zu besichtigen und Abwasserproben zu entnehmen und untersuchen zu lassen. Die Überwachungs- und Prüfungspflichten der Verbände bleiben unberührt.
+Die jeweils zuständigen Behörden der Vertragspartner und die Beauftragten der Verbände haben das Recht, im Interesse einer geordneten Geschäftsführung, eines einwandfreien Betriebs der gemeinsamen Anlagen und einer ordnungsgemässen Verwendung der den Verbänden gewährten staatlichen Beihilfen jederzeit die Akten und die sonstigen Unterlagen einzusehen, die Anlagen zu besichtigen und Abwasserproben zu entnehmen und untersuchen zu lassen. Die Überwachungs- und Prüfungspflichten der Verbände bleiben unberührt.
 
 #### Art. 8
 
@@ -71,19 +75,20 @@ beschliessen:
 
 <sup>2</sup> Das Schiedsgericht wird von Fall zu Fall gebildet, indem jeder Vertragspartner ein Mitglied bestellt und die beiden Mitglieder den Angehörigen eines dritten Staats als Obmann bestimmen. Die Mitglieder sind innerhalb von zwei Monaten, der Obmann innerhalb von drei Monaten zu bestellen, nachdem ein Vertragspartner dem anderen mitgeteilt hat, dass er die Meinungsverschiedenheit einem Schiedsgericht unterbreiten will.
 
-<sup>3</sup> Werden die in Abs. 2 genannten Fristen nicht eingehalten, so kann jeder Vertragspartner den Präsidenten des Europäischen Gerichtshofes für Menschenrechte bitten, die erforderlichen Ernennungen vorzunehmen. Besitzt der Präsident die schweizerische oder die deutsche Staatsangehörigkeit oder ist er aus einem anderen Grunde verhindert, so soll der Vizepräsident die Ernennung vornehmen. Besitzt auch der Vizepräsident die schweizerische oder die deutsche Staatsangehörigkeit oder ist auch er verhindert, so soll das im Rang nächstfolgende Mitglied des Gerichtshofes, das nicht die schweizerische oder die deutsche Staatsangehörigkeit besitzt, die Ernennung vornehmen.
+<sup>3</sup> Werden die in Absatz 2 genannten Fristen nicht eingehalten, so kann jeder Vertragspartner den Präsidenten des Europäischen Gerichtshofes für Menschenrechte bitten, die erforderlichen Ernennungen vorzunehmen. Besitzt der Präsident die schweizerische oder die deutsche Staatsangehörigkeit oder ist er aus einem anderen Grunde verhindert, so soll der Vizepräsident die Ernennung vornehmen. Besitzt auch der Vizepräsident die schweizerische oder die deutsche Staatsangehörigkeit oder ist auch er verhindert, so soll das im Rang nächstfolgende Mitglied des Gerichtshofes, das nicht die schweizerische oder die deutsche Staatsangehörigkeit besitzt, die Ernennung vornehmen.
 
-<sup>4</sup> Das Schiedsgericht entscheidet mit Stimmenmehrheit; seine Entscheidungen sind bindend. Jeder Vertragspartner trägt die Kosten des von ihm bestellten Schiedsrichters sowie seiner Vertretung in dem Verfahren vor dem Schiedsgericht; die Kosten des Obmanns sowie die sonstigen Kosten werden von den Vertragspartnern zu gleichen Teilen getragen. Im Übrigen regelt das Schiedsgericht sein Verfahren selbst.
+<sup>4</sup> Das Schiedsgericht entscheidet mit Stimmenmehrheit; seine Entscheidungen sind bindend. Jeder Vertragspartner trägt die Kosten des von ihm bestellten Schiedsrichters sowie seiner Vertretung in dem Verfahren vor dem Schiedsgericht; die Kosten des Obmanns sowie die sonstigen Kosten werden von den Vertragspartnern zu gleichen Teilen getragen. Im übrigen regelt das Schiedsgericht sein Verfahren selbst.
 
 #### Art. 10
 
-<sup>1</sup> Eine Änderung oder Aufhebung dieses Staatsvertrages ist nur im gegenseitigen Einvernehmen zwischen den beiden Vertragspartnern zulässig.
+Eine Änderung oder Aufhebung dieses Staatsvertrages ist nur im gegenseitigen Einvernehmen zwischen den beiden Vertragspartnern zulässig.
 
 #### Art. 11
 
-<sup>1</sup> Dieser Staatsvertrag bedarf der Zustimmung der verfassungsmässig zuständigen Organe der Vertragspartner[^11-1]. Er tritt dreissig Tage nach dem Tage in Kraft, an dem die Vertragspartner einander schriftlich mitgeteilt haben, dass die verfassungsmässigen Voraussetzungen für das Inkrafttreten erfüllt sind[^11-2].
+Dieser Staatsvertrag bedarf der Zustimmung der verfassungsmässig zuständigen Organe der Vertragspartner. Er tritt dreissig Tage nach dem Tage in Kraft, an dem die Vertragspartner einander schriftlich mitgeteilt haben, dass die verfassungsmässigen Voraussetzungen für das Inkrafttreten erfüllt sind.[^11-1]
 
-[^11-1]: Vom Grossen Rat genehmigt am 25. Oktober 1976.
-[^11-2]: In Kraft getreten am 3. Oktober 1977.
+Vom Grossen Rat genehmigt am 25. Oktober 1976.
 
-Abl. 1977, S. 1085
+Fussnoten:
+
+[^11-1]: In Kraft getreten am 3. Oktober 1977.
