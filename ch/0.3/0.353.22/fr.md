@@ -3,11 +3,11 @@ sr: "0.353.22"
 title: Convention internationale du 9 décembre 1999 pour la répression du financement du terrorisme (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/303"
 language: fr
-version: 2020-09-11
+version: 2024-06-07
 adopted: 1999-12-09
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/303/20200911/fr/xml/fedlex-data-admin-ch-eli-cc-2004-303-20200911-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/303/20200911/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/303/20240607/fr/xml/fedlex-data-admin-ch-eli-cc-2004-303-20240607-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/303/20240607/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 23 septembre 2003
 
 Entrée en vigueur pour la Suisse le 23 octobre 2003
 
-(Etat le 11 septembre 2020)
+(État le 7 juin 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 12 mars 2003 ([RO 2004 2519](https://fedlex.data.admin.ch/eli/oc/2004/301))
 
@@ -374,7 +374,7 @@ Annexe
 [^t-9]: [RS 0.747.711](https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923)
 [^t-10]: [RS 0.353.21](https://fedlex.data.admin.ch/eli/cc/2004/302)
 
-Champ d’application le 11 septembre 2020**[^t-11]**
+Champ d’application le 7 juin 2024[^t-11]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -537,6 +537,7 @@ Champ d’application le 11 septembre 2020**[^t-11]**
 <tr><td>Bermudes</td><td>3 octobre</td><td>2014</td><td>3 octobre</td><td>2014</td></tr>
 <tr><td>Gibraltar</td><td>23 mars</td><td>2020</td><td>23 mars</td><td>2020</td></tr>
 <tr><td>Guernesey</td><td>25 septembre</td><td>2008</td><td>25 septembre</td><td>2008</td></tr>
+<tr><td>Îles Cayman</td><td>12 août</td><td>2021</td><td>12 août</td><td>2021</td></tr>
 <tr><td>Île de Man</td><td>25 septembre</td><td>2008</td><td>25 septembre</td><td>2008</td></tr>
 <tr><td>Îles Vierges britanniques</td><td>17 mai</td><td>2012</td><td>16 juin</td><td>2012</td></tr>
 <tr><td>Jersey</td><td>25 septembre</td><td>2008</td><td>25 septembre</td><td>2008</td></tr>
@@ -557,6 +558,7 @@ Champ d’application le 11 septembre 2020**[^t-11]**
 <tr><td>Slovaquie<sup>\*</sup> <sup>\*\*</sup></td><td>13 septembre</td><td>2002</td><td>13 octobre</td><td>2002</td></tr>
 <tr><td>Slovénie\*\*</td><td>23 septembre</td><td>2004</td><td>23 octobre</td><td>2004</td></tr>
 <tr><td>Soudan</td><td>5 mai</td><td>2003</td><td>4 juin</td><td>2003</td></tr>
+<tr><td>Soudan du Sud</td><td>20 octobre</td><td>2023 A</td><td>19 novembre</td><td>2023</td></tr>
 <tr><td>Sri Lanka</td><td>8 septembre</td><td>2000</td><td>10 avril</td><td>2002</td></tr>
 <tr><td>Suède<sup>\*\*</sup></td><td>6 juin</td><td>2002</td><td>6 juillet</td><td>2002</td></tr>
 <tr><td>Suisse<sup>\*\*</sup></td><td>23 septembre</td><td>2003</td><td>23 octobre</td><td>2003</td></tr>
@@ -580,7 +582,7 @@ Champ d’application le 11 septembre 2020**[^t-11]**
 <tr><td>Yémen<sup>\*</sup></td><td>3 mars</td><td>2010 A</td><td>2 avril</td><td>2010</td></tr>
 <tr><td>Zambie</td><td>7 avril</td><td>2017 A</td><td>7 mai</td><td>2017</td></tr>
 <tr><td>Zimbabwe<sup>\*</sup></td><td>30 janvier</td><td>2013 A</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> La convention ne s’applique pas aux Tokélau.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> La convention ne s’applique pas aux Tokélau.</td></tr>
 </table>
 
-[^t-11]: [RO 2004 2535](https://fedlex.data.admin.ch/eli/oc/2004/303), [2005 2333](https://fedlex.data.admin.ch/eli/oc/2005/397),[2006 783](https://fedlex.data.admin.ch/eli/oc/2006/113)[3263](https://fedlex.data.admin.ch/eli/oc/2006/499), [2007 1391](https://fedlex.data.admin.ch/eli/oc/2007/239), [2008 2169](https://fedlex.data.admin.ch/eli/oc/2008/313), [2009 5665](https://fedlex.data.admin.ch/eli/oc/2009/685), [2011 4611](https://fedlex.data.admin.ch/eli/oc/2011/658), [2013 1323](https://fedlex.data.admin.ch/eli/oc/2013/305), [2014 1017](https://fedlex.data.admin.ch/eli/oc/2014/232)**,** [2016 3093](https://fedlex.data.admin.ch/eli/oc/2016/517), [2020 1797](https://fedlex.data.admin.ch/eli/oc/2020/359)[3811](https://fedlex.data.admin.ch/eli/oc/2020/702). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-11]: [RO 2004 2535](https://fedlex.data.admin.ch/eli/oc/2004/303); [2005 2333](https://fedlex.data.admin.ch/eli/oc/2005/397); [2006 783](https://fedlex.data.admin.ch/eli/oc/2006/113), [3263](https://fedlex.data.admin.ch/eli/oc/2006/499); [2007 1391](https://fedlex.data.admin.ch/eli/oc/2007/239); [2008 2169](https://fedlex.data.admin.ch/eli/oc/2008/313); [2009 5665](https://fedlex.data.admin.ch/eli/oc/2009/685); [2011 4611](https://fedlex.data.admin.ch/eli/oc/2011/658); [2013 1323](https://fedlex.data.admin.ch/eli/oc/2013/305); [2014 1017](https://fedlex.data.admin.ch/eli/oc/2014/232); [2016 3093](https://fedlex.data.admin.ch/eli/oc/2016/517); [2020 1797](https://fedlex.data.admin.ch/eli/oc/2020/359), [3811](https://fedlex.data.admin.ch/eli/oc/2020/702); [2024 264](https://fedlex.data.admin.ch/eli/oc/2024/264). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

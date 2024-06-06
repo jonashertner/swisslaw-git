@@ -3,11 +3,11 @@ sr: "0.353.22"
 title: Internationales Übereinkommen vom 9. Dezember 1999 zur Bekämpfung der Finanzierung des Terrorismus (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/303"
 language: de
-version: 2020-09-11
+version: 2024-06-07
 adopted: 1999-12-09
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/303/20200911/de/xml/fedlex-data-admin-ch-eli-cc-2004-303-20200911-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/303/20200911/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/303/20240607/de/xml/fedlex-data-admin-ch-eli-cc-2004-303-20240607-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/303/20240607/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 23. September 2003
 
 Für die Schweiz in Kraft getreten am 23. Oktober 2003
 
-(Stand am 11. September 2020)
+(Stand am 7. Juni 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 12. März 2003 ([AS 2004 2519](https://fedlex.data.admin.ch/eli/oc/2004/301)).
 
@@ -74,9 +74,11 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck
 
 #### Art. 2
 
-<sup>1.</sup> Eine Straftat im Sinne dieses Übereinkommens begeht, wer, mit welchen Mitteln auch immer, unmittelbar oder mittelbar, widerrechtlich und vorsätzlich finanzielle Mittel zur Verfügung stellt oder sammelt in der Absicht oder im Wissen, dass sie ganz oder teilweise verwendet werden sollen, um
+<sup>1.</sup>
 
-- a) eine Handlung zu begehen, die eine Straftat innerhalb des Anwendungsbereichs und nach der Begriffsbestimmung eines der in der Anlage aufgeführten Verträge darstellt, oder
+Eine Straftat im Sinne dieses Übereinkommens begeht, wer, mit welchen Mitteln auch immer, unmittelbar oder mittelbar, widerrechtlich und vorsätzlich finanzielle Mittel zur Verfügung stellt oder sammelt in der Absicht oder im Wissen, dass sie ganz oder teilweise verwendet werden sollen, um:
+
+- a) eine Handlung zu begehen, die eine Straftat innerhalb des Anwendungsbereichs und nach der Begriffsbestimmung eines der in der Anlage aufgeführten Verträge darstellt; oder
 - b) eine andere Handlung zu begehen, die den Tod oder eine schwere Körperverletzung einer Zivilperson oder einer anderen Person, die in einem bewaffneten Konflikt nicht aktiv an den Feindseligkeiten teilnimmt, herbeiführen soll, wenn diese Handlung aufgrund ihres Wesens oder der Umstände darauf abzielt, eine Bevölkerungsgruppe einzuschüchtern oder eine Regierung oder eine internationale Organisation zu einem Tun oder Unterlassen zu nötigen.
 - 2\. a) Bei der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde kann ein Vertragsstaat, der nicht Vertragspartei eines in der Anlage aufgeführten Vertrages ist, erklären, dass der betreffende Vertrag bei der Anwendung dieses Übereinkommens auf den Vertragsstaat als in der in Absatz 1 Buchstabe a genannten Anlage nicht aufgeführt gilt. Diese Erklärung wird ungültig, sobald der Vertrag für den Vertragsstaat in Kraft tritt, was dieser dem Verwahrer notifiziert.
 - b) Ist ein Vertragsstaat nicht mehr Vertragspartei eines in der Anlage aufgeführten Vertrages, so kann er in Bezug auf den betreffenden Vertrag eine Erklärung nach diesem Artikel abgeben.
@@ -85,11 +87,16 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck
 
 <sup>4.</sup> Eine Straftat begeht auch, wer versucht, eine in Absatz 1 genannte Straftat zu begehen.
 
-<sup>5.</sup> Eine Straftat begeht ferner, wer
+<sup>5.</sup>
+
+Eine Straftat begeht ferner, wer:
 
 - a) als Mittäter oder Gehilfe an einer in Absatz 1 oder 4 genannten Straftat teilnimmt;
 - b) eine in Absatz 1 oder 4 genannte Straftat organisiert oder andere Personen anweist, eine solche Straftat zu begehen;
-- c) zur Begehung einer oder mehrerer der in Absatz 1 oder 4 genannten Straftaten durch eine mit einem gemeinsamen Ziel handelnde Gruppe von Personen beiträgt. Dieser Beitrag muss vorsätzlich sein und entweder
+- c)
+
+  zur Begehung einer oder mehrerer der in Absatz 1 oder 4 genannten Straftaten durch eine mit einem gemeinsamen Ziel handelnde Gruppe von Personen beiträgt. Dieser Beitrag muss vorsätzlich sein: und entweder:
+
   - i) mit dem Ziel geleistet werden, die kriminelle Tätigkeit oder die verbrecherische Absicht der Gruppe zu fördern, soweit sich diese Tätigkeit oder Absicht auf die Begehung einer in Absatz 1 genannten Straftat bezieht, oder
   - ii) im Wissen um die Absicht der Gruppe, eine in Absatz 1 genannte Straftat zu begehen, geleistet werden.
 
@@ -99,7 +106,7 @@ Dieses Übereinkommen findet keine Anwendung, wenn die Straftat in einem einzige
 
 #### Art. 4
 
-Jeder Vertragsstaat trifft die erforderlichen Massnahmen, um
+Jeder Vertragsstaat trifft die erforderlichen Massnahmen, um:
 
 - a) die in Artikel 2 genannten Straftaten nach seinem innerstaatlichen Recht als Straftaten zu umschreiben;
 - b) diese Straftaten mit angemessenen Strafen zu bedrohen, welche die Schwere der Tat berücksichtigen.
@@ -118,13 +125,17 @@ Jeder Vertragsstaat trifft die erforderlichen Massnahmen, einschliesslich, wenn 
 
 #### Art. 7
 
-<sup>1.</sup> Jeder Vertragsstaat trifft die erforderlichen Massnahmen, um seine Gerichtsbarkeit über die in Artikel 2 genannten Straftaten zu begründen, wenn
+<sup>1.</sup>
+
+Jeder Vertragsstaat trifft die erforderlichen Massnahmen, um seine Gerichtsbarkeit über die in Artikel 2 genannten Straftaten zu begründen, wenn:
 
 - a) die Straftat im Hoheitsgebiet dieses Staates begangen wird;
 - b) die Straftat an Bord eines Schiffes, das zur Tatzeit die Flagge dieses Staates führt, oder eines Luftfahrzeugs, das zur Tatzeit nach dem Recht dieses Staates eingetragen ist, begangen wird; oder
 - c) die Straftat von einem Angehörigen dieses Staates begangen wird.
 
-<sup>2.</sup> Ein Vertragsstaat kann seine Gerichtsbarkeit über solche Straftaten auch begründen, wenn
+<sup>2.</sup>
+
+Ein Vertragsstaat kann seine Gerichtsbarkeit über solche Straftaten auch begründen, wenn:
 
 - a) es Ziel oder Ergebnis der Straftat war, im Hoheitsgebiet oder gegen einen Angehörigen dieses Staates eine in Artikel 2 Absatz 1 Buchstabe a oder b genannte Straftat zu begehen;
 - b) es Ziel oder Ergebnis der Straftat war, gegen eine staatliche oder öffentliche Einrichtung dieses Staates im Ausland, einschliesslich diplomatischer oder konsularischer Räumlichkeiten, eine in Artikel 2 Absatz 1 Buchstabe a oder b genannte Straftat zu begehen;
@@ -158,7 +169,9 @@ Jeder Vertragsstaat trifft die erforderlichen Massnahmen, einschliesslich, wenn 
 
 <sup>2.</sup> Hält der Vertragsstaat, in dessen Hoheitsgebiet sich der Täter oder der Verdächtige befindet, es in Anbetracht der Umstände für gerechtfertigt, so trifft er nach seinem innerstaatlichen Recht die geeigneten Massnahmen, um die Anwesenheit dieser Person zum Zweck der Strafverfolgung oder der Auslieferung sicherzustellen.
 
-<sup>3.</sup> Jede Person, gegen welche die in Absatz 2 genannten Massnahmen getroffen werden, ist berechtigt,
+<sup>3.</sup>
+
+Jede Person, gegen welche die in Absatz 2 genannten Massnahmen getroffen werden, ist berechtigt:
 
 - a) unverzüglich mit dem nächsten zuständigen Vertreter des Staates, dessen Staatsangehörige sie ist oder der sonst zur Wahrung ihrer Rechte befugt ist, oder, wenn die betreffende Person staatenlos ist, des Staates, in dem sie ihren gewöhnlichen Aufenthalt hat, in Verbindung zu treten;
 - b) den Besuch eines Vertreters dieses Staates zu empfangen;
@@ -238,13 +251,18 @@ Einer Person, die in Haft genommen wird oder gegen die andere Massnahmen ergriff
 
 #### Art. 18
 
-<sup>1.</sup> Die Vertragsstaaten arbeiten bei der Verhütung der in Artikel 2 genannten Straftaten zusammen, indem sie alle durchführbaren Massnahmen treffen, wozu erforderlichenfalls auch eine Anpassung ihrer innerstaatlichen Rechtsvorschriften gehört, um Vorbereitungen in ihren jeweiligen Hoheitsgebieten für die Begehung dieser Straftaten innerhalb oder ausserhalb ihrer Hoheitsgebiete zu verhindern und zu bekämpfen, einschliesslich
+<sup>1.</sup>
+
+Die Vertragsstaaten arbeiten bei der Verhütung der in Artikel 2 genannten Straftaten zusammen, indem sie alle durchführbaren Massnahmen treffen, wozu erforderlichenfalls auch eine Anpassung ihrer innerstaatlichen Rechtsvorschriften gehört, um Vorbereitungen in ihren jeweiligen Hoheitsgebieten für die Begehung dieser Straftaten innerhalb oder ausserhalb ihrer Hoheitsgebiete zu verhindern und zu bekämpfen, einschliesslich:
 
 - a) Massnahmen, um in ihren Hoheitsgebieten rechtswidrige Tätigkeiten von Personen und Organisationen zu verbieten, die wissentlich zur Begehung der in Artikel 2 genannten Straftaten ermutigen, anstiften, diese organisieren oder solche Straftaten selbst begehen;
-- b) Massnahmen, durch die Finanzinstitute und andere mit Finanzgeschäften befasste Branchen verpflichtet werden, die wirksamsten zur Verfügung stehenden Massnahmen zu ergreifen, um ihre Stamm- und Gelegenheitskunden sowie Kunden, in deren Interesse Konten eröffnet werden, zu identifizieren sowie ihr besonderes Augenmerk auf ungewöhnliche oder verdächtige Geschäfte zu richten und Geschäfte zu melden, bei denen Verdacht besteht, dass sie auf eine kriminelle Tätigkeit zurückzuführen sind. Zu diesem Zweck erwägen die Vertragsstaaten,
-  - i) Vorschriften zu erlassen, durch welche die Eröffnung von Konten, deren Inhaber oder Nutzniesser nicht identifiziert oder nicht identifizierbar sind, verboten wird, sowie Massnahmen zu beschliessen, durch die gewährleistet wird, dass diese Institute die Identität der tatsächlichen Träger dieser Geschäfte überprüfen;
-  - ii) hinsichtlich der Identifizierung von juristischen Personen die Finanzinstitute zu verpflichten, erforderlichenfalls Massnahmen zu ergreifen, um die rechtliche Existenz und die Struktur des Kunden zu überprüfen, indem sie sich aus einem amtlichen Verzeichnis oder vom Kunden selbst oder aus beiden Quellen den Nachweis der Gründung erbringen lassen; dazu gehören auch Angaben über den Namen des Kunden, die Rechtsform, die Adresse, die Geschäftsführer und über Bestimmungen über die Befugnis, für die juristische Person Verpflichtungen einzugehen;
-  - iii) Vorschriften zu erlassen, durch welche die Finanzinstitute verpflichtet werden, den zuständigen Behörden umgehend alle komplexen, ungewöhnlich umfangreichen Geschäfte sowie alle ungewöhnlichen Geschäftsschemen zu melden, die keinen erkennbaren wirtschaftlichen oder offenkundig rechtmässigen Zweck haben, ohne dabei befürchten zu müssen, dass sie, wenn sie, ihren Verdacht in gutem Glauben melden, dafür wegen Nichtbeachtung einer Beschränkung der Offenlegung von Informationen strafrechtlich oder zivilrechtlich zur Verantwortung gezogen werden;
+- b)
+
+  Massnahmen, durch die Finanzinstitute und andere mit Finanzgeschäften befasste Branchen verpflichtet werden, die wirksamsten zur Verfügung stehenden Massnahmen zu ergreifen, um ihre Stamm- und Gelegenheitskunden sowie Kunden, in deren Interesse Konten eröffnet werden, zu identifizieren sowie ihr besonderes Augenmerk auf ungewöhnliche oder verdächtige Geschäfte zu richten und Geschäfte zu melden, bei denen Verdacht besteht, dass sie auf eine kriminelle Tätigkeit zurückzuführen sind. Zu diesem Zweck erwägen die Vertragsstaaten:
+
+  - i) Vorschriften zu erlassen, durch welche die Eröffnung von Konten, deren Inhaber oder Nutzniesser nicht identifiziert oder nicht identifizierbar sind, verboten wird, sowie Massnahmen zu beschliessen, durch die gewährleistet wird, dass diese Institute die Identität der tatsächlichen Träger dieser Geschäfte überprüfen,
+  - ii) hinsichtlich der Identifizierung von juristischen Personen die Finanzinstitute zu verpflichten, erforderlichenfalls Massnahmen zu ergreifen, um die rechtliche Existenz und die Struktur des Kunden zu überprüfen, indem sie sich aus einem amtlichen Verzeichnis oder vom Kunden selbst oder aus beiden Quellen den Nachweis der Gründung erbringen lassen; dazu gehören auch Angaben über den Namen des Kunden, die Rechtsform, die Adresse, die Geschäftsführer und über Bestimmungen über die Befugnis, für die juristische Person Verpflichtungen einzugehen,
+  - iii) Vorschriften zu erlassen, durch welche die Finanzinstitute verpflichtet werden, den zuständigen Behörden umgehend alle komplexen, ungewöhnlich umfangreichen Geschäfte sowie alle ungewöhnlichen Geschäftsschemen zu melden, die keinen erkennbaren wirtschaftlichen oder offenkundig rechtmässigen Zweck haben, ohne dabei befürchten zu müssen, dass sie, wenn sie, ihren Verdacht in gutem Glauben melden, dafür wegen Nichtbeachtung einer Beschränkung der Offenlegung von Informationen strafrechtlich oder zivilrechtlich zur Verantwortung gezogen werden,
   - iv) die Finanzinstitute zu verpflichten, alle erforderlichen Unterlagen über Inlands- wie auch Auslandsgeschäfte mindestens fünf Jahre lang aufzubewahren.
 
 <sup>2.</sup>
@@ -254,11 +272,16 @@ Die Vertragsstaaten arbeiten ferner bei der Verhütung der in Artikel 2 genannte
 - a) Massnahmen zur Beaufsichtigung aller Einrichtungen, die Geldüberweisungen vornehmen; dazu gehört beispielsweise auch deren Zulassung;
 - b) praktisch durchführbare Massnahmen zur Aufdeckung oder Überwachung des grenzüberschreitenden Transports von Bargeld und handelbaren Inhaberpapieren, die strengen Sicherheitsbestimmungen zur Gewährleistung der ordnungsgemässen Verwendung von Informationen unterliegen und in keiner Weise den freien Kapitalverkehr behindern.
 
-<sup>3.</sup> Die Vertragsstaaten arbeiten ferner bei der Verhütung der in Artikel 2 genannten Straftaten zusammen, indem sie genaue, nachgeprüfte Informationen in Übereinstimmung mit ihrem innerstaatlichen Recht austauschen und Verwaltungs- und andere Massnahmen, die sie gegebenenfalls treffen, um die Begehung von in Artikel 2 genannten Straftaten zu verhindern, miteinander abstimmen; dies geschieht insbesondere durch
+<sup>3.</sup>
+
+Die Vertragsstaaten arbeiten ferner bei der Verhütung der in Artikel 2 genannten Straftaten zusammen, indem sie genaue, nachgeprüfte Informationen in Übereinstimmung mit ihrem innerstaatlichen Recht austauschen und Verwaltungs- und andere Massnahmen, die sie gegebenenfalls treffen, um die Begehung von in Artikel 2 genannten Straftaten zu verhindern, miteinander abstimmen; dies geschieht insbesondere durch:
 
 - a) die Schaffung und Aufrechterhaltung von Kommunikationswegen zwischen ihren zuständigen Stellen und Diensten, um den sicheren und raschen Austausch von Informationen über alle Aspekte der in Artikel 2 genannten Straftaten zu erleichtern;
-- b) die Zusammenarbeit bei der Durchführung von Ermittlungen in Bezug auf die in Artikel 2 genannten Straftaten betreffend
-  - i) die Identität, den Aufenthaltsort und die Tätigkeiten von Personen, bei denen ein begründeter Verdacht besteht, dass sie an solchen Straftaten beteiligt sind;
+- b)
+
+  die Zusammenarbeit bei der Durchführung von Ermittlungen in Bezug auf die in Artikel 2 genannten Straftaten betreffend:
+
+  - i) die Identität, den Aufenthaltsort und die Tätigkeiten von Personen, bei denen ein begründeter Verdacht besteht, dass sie an solchen Straftaten beteiligt sind,
   - ii) die Bewegung von finanziellen Mitteln im Zusammenhang mit der Begehung solcher Straftaten.
 
 <sup>4.</sup> Die Vertragsstaaten können Informationen über die Internationale Kriminalpolizeiliche Organisation (Interpol) austauschen.
@@ -281,7 +304,9 @@ Dieses Übereinkommen berechtigt einen Vertragsstaat nicht, im Hoheitsgebiet ein
 
 #### Art. 23
 
-<sup>1.</sup> Die Anlage kann durch die Hinzufügung einschlägiger Verträge geändert werden, die
+<sup>1.</sup>
+
+Die Anlage kann durch die Hinzufügung einschlägiger Verträge geändert werden, die:
 
 - a) allen Staaten zur Teilnahme offen stehen;
 - b) in Kraft getreten sind;
@@ -349,7 +374,7 @@ Anlage
 [^t-9]: [SR 0.747.711](https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923)
 [^t-10]: [SR 0.353.21](https://fedlex.data.admin.ch/eli/cc/2004/302)
 
-Geltungsbereich am 11. September 2020**[^t-11]**
+Geltungsbereich am 7. Juni 2024[^t-11]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -522,6 +547,7 @@ Geltungsbereich am 11. September 2020**[^t-11]**
 <tr><td colspan="2">St. Vincent und die Grenadinen\*</td><td colspan="2">28. März</td><td colspan="2">2002</td><td>27. April</td><td>2002</td></tr>
 <tr><td colspan="2">Südafrika</td><td colspan="2">1. Mai</td><td colspan="2">2003</td><td>31. Mai</td><td>2003</td></tr>
 <tr><td colspan="2">Sudan</td><td colspan="2">5. Mai</td><td colspan="2">2003</td><td>4. Juni</td><td>2003</td></tr>
+<tr><td colspan="2">Südsudan</td><td colspan="2">20. Oktober</td><td colspan="2">2023 B</td><td>19. November</td><td>2023</td></tr>
 <tr><td colspan="2">Suriname<sup>\*</sup></td><td colspan="2">19. Juli</td><td colspan="2">2013 B</td><td>18. August</td><td>2013</td></tr>
 <tr><td colspan="2">Syrien\*</td><td colspan="2">24. April</td><td colspan="2">2005 B</td><td>24. Mai</td><td>2005</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td colspan="2">16. Juli</td><td colspan="2">2004</td><td>15. August</td><td>2004</td></tr>
@@ -552,13 +578,14 @@ Geltungsbereich am 11. September 2020**[^t-11]**
 <tr><td colspan="2">Guernsey</td><td colspan="2">25. September</td><td colspan="2">2008</td><td>25. September</td><td>2008</td></tr>
 <tr><td colspan="2">Insel Man</td><td colspan="2">25. September</td><td colspan="2">2008</td><td>25. September</td><td>2008</td></tr>
 <tr><td colspan="2">Jersey</td><td colspan="2">25. September</td><td colspan="2">2008</td><td>25. September</td><td>2008</td></tr>
+<tr><td colspan="2">Kaimaninseln</td><td colspan="2">12. August</td><td colspan="2">2021</td><td>12. August</td><td>2021</td></tr>
 <tr><td colspan="2">Vietnam\*</td><td colspan="2">25. September</td><td colspan="2">2002 B</td><td>25. Oktober</td><td>2002</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td colspan="2">19. Februar</td><td colspan="2">2008</td><td>20. März</td><td>2008</td></tr>
 <tr><td colspan="2">Zypern\*</td><td colspan="2">30. November</td><td colspan="2">2001</td><td>10. April</td><td>2002</td></tr>
 <tr><td colspan="8">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="8">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="8">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Das Übereink. gilt nicht für die Färöer und für Grönland.</td></tr>
 <tr><td colspan="8"><sup>b</sup> Das Übereink. gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-11]: [AS 2004 2535](https://fedlex.data.admin.ch/eli/oc/2004/303), [2005 2333](https://fedlex.data.admin.ch/eli/oc/2005/397), [2006 783](https://fedlex.data.admin.ch/eli/oc/2006/113)[3263](https://fedlex.data.admin.ch/eli/oc/2006/499), [2007 1391](https://fedlex.data.admin.ch/eli/oc/2007/239), [2008 2169](https://fedlex.data.admin.ch/eli/oc/2008/313), [2009 5665](https://fedlex.data.admin.ch/eli/oc/2009/685), [2011 4611](https://fedlex.data.admin.ch/eli/oc/2011/658), [2013 1323](https://fedlex.data.admin.ch/eli/oc/2013/305), [2014 1017](https://fedlex.data.admin.ch/eli/oc/2014/232), [2016 3093](https://fedlex.data.admin.ch/eli/oc/2016/517), [2020 1797](https://fedlex.data.admin.ch/eli/oc/2020/359)[3811](https://fedlex.data.admin.ch/eli/oc/2020/702). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-11]: [AS 2004 2535](https://fedlex.data.admin.ch/eli/oc/2004/303); [2005 2333](https://fedlex.data.admin.ch/eli/oc/2005/397); [2006 783](https://fedlex.data.admin.ch/eli/oc/2006/113), [3263](https://fedlex.data.admin.ch/eli/oc/2006/499); [2007 1391](https://fedlex.data.admin.ch/eli/oc/2007/239); [2008 2169](https://fedlex.data.admin.ch/eli/oc/2008/313); [2009 5665](https://fedlex.data.admin.ch/eli/oc/2009/685); [2011 4611](https://fedlex.data.admin.ch/eli/oc/2011/658); [2013 1323](https://fedlex.data.admin.ch/eli/oc/2013/305); [2014 1017](https://fedlex.data.admin.ch/eli/oc/2014/232); [2016 3093](https://fedlex.data.admin.ch/eli/oc/2016/517); [2020 1797](https://fedlex.data.admin.ch/eli/oc/2020/359), [3811](https://fedlex.data.admin.ch/eli/oc/2020/702); [2024 264](https://fedlex.data.admin.ch/eli/oc/2024/264). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
