@@ -4,12 +4,12 @@ number: "831.301"
 title: Verordnung über Ergänzungsleistungen zur AHV und IV
 language: de
 version: 2024-01-01
-corrected: 2024-03-16
+corrected: 2024-06-07
 version_adopted: 2023-12-19
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.301"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/196/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/473/pdf_file"
 text: pdf
 ---
 
@@ -343,7 +343,7 @@ sischen Departement des Innern am 13. November 2014.
 
 - 19) Fassung gemäss RRB vom 14. Januar 2020, in Kraft getreten am 1. Januar 2020 (Amtsblatt 2020, S. 105); genehmigt vom Eidgenössischen Departement des Innern am 26. Februar 2020.
 
-- 20) Fassung gemäss RRB vom 10. November 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 1964); genehmigt vom Eidgenössischen Departement des Innern am …..
+- 20) Fassung gemäss RRB vom 10. November 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 1964).
 
 - 21) Fassung gemäss RRB vom 6. Dezember 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 2228); genehmigt vom Eidgenössischen Departement des Innern am 31. Januar 2023
 
