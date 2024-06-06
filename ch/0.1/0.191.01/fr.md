@@ -3,11 +3,11 @@ sr: "0.191.01"
 title: Convention de Vienne du 18 avril 1961 sur les relations diplomatiques
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/435_431_431"
 language: fr
-version: 2020-05-07
+version: 2024-06-07
 adopted: 1961-04-18
 in_force: 1964-04-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/435_431_431/20200507/fr/xml/fedlex-data-admin-ch-eli-cc-1964-435_431_431-20200507-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/435_431_431/20200507/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/435_431_431/20240607/fr/xml/fedlex-data-admin-ch-eli-cc-1964-435_431_431-20240607-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/435_431_431/20240607/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Vienne le 18 avril 1961 Approuvée par l’Assemblée fédérale le 21 juin 1963[^t-1] Instrument de ratification déposé par la Suisse le 30 octobre 1963 Entrée en vigueur pour la Suisse le 24 avril 1964
 
-(Etat le 7 mai 2020)
+(État le 7 juin 2024)
 
 [^t-1]: [RO 1964 429](https://fedlex.data.admin.ch/eli/oc/1964/433_429_429)
 
@@ -427,7 +427,7 @@ L’original de la présente Convention, dont les textes anglais, chinois, espag
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention. Fait à Vienne, le dix-huit avril mil neuf cent soixante et un. (Suivent les signatures)
 
-Champ d’application le 7 mai 2020**[^t-2]**
+Champ d’application le 7 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -509,6 +509,8 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Haïti\*\*</td><td>2 février</td><td>1978 A</td><td>4 mars</td><td>1978</td></tr>
 <tr><td>Honduras</td><td>13 février</td><td>1968 A</td><td>14 mars</td><td>1968</td></tr>
 <tr><td>Hongrie\*\*</td><td>24 septembre</td><td>1965</td><td>24 octobre</td><td>1965</td></tr>
+<tr><td>Îles Marshall</td><td>9 août</td><td>1991 A</td><td>8 septembre</td><td>1991</td></tr>
+<tr><td>Îles Salomon</td><td>3 juin</td><td>2021 A</td><td>3 juillet</td><td>2021</td></tr>
 <tr><td>Inde</td><td>15 octobre</td><td>1965 A</td><td>14 novembre</td><td>1965</td></tr>
 <tr><td>Indonésie</td><td>4 juin</td><td>1982 A</td><td>4 juillet</td><td>1982</td></tr>
 <tr><td>Iran</td><td>3 février</td><td>1965</td><td>5 mars</td><td>1965</td></tr>
@@ -542,7 +544,6 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Mali</td><td>28 mars</td><td>1968 A</td><td>27 avril</td><td>1968</td></tr>
 <tr><td>Malte\* \*\*</td><td>7 mars</td><td>1967 S</td><td>1<sup>er</sup> octobre</td><td>1964</td></tr>
 <tr><td>Maroc\*</td><td>19 juin</td><td>1968 A</td><td>19 juillet</td><td>1968</td></tr>
-<tr><td>Marshall, Îles</td><td>9 août</td><td>1991 A</td><td>8 septembre</td><td>1991</td></tr>
 <tr><td>Maurice</td><td>18 juillet</td><td>1969 S</td><td>12 mars</td><td>1968</td></tr>
 <tr><td>Mauritanie</td><td>16 juillet</td><td>1962 A</td><td>24 avril</td><td>1964</td></tr>
 <tr><td>Mexique</td><td>16 juin</td><td>1965</td><td>16 juillet</td><td>1965</td></tr>
@@ -574,7 +575,6 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Curaçao</td><td>7 septembre</td><td>1984 A</td><td>7 octobre</td><td>1984</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>7 septembre</td><td>1984 A</td><td>7 octobre</td><td>1984</td></tr>
 <tr><td>Sint Maarten</td><td>7 septembre</td><td>1984 A</td><td>7 octobre</td><td>1984</td></tr>
-<tr><td>Saint-Kitts-et-Nevis</td><td>6 juillet</td><td>2010 A</td><td>5 août</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>18 décembre</td><td>1968 A</td><td>17 janvier</td><td>1969</td></tr>
 <tr><td>Philippines</td><td>15 novembre</td><td>1965</td><td>15 décembre</td><td>1965</td></tr>
 <tr><td>Pologne\*\*</td><td>19 avril</td><td>1965</td><td>19 mai</td><td>1965</td></tr>
@@ -587,10 +587,11 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Royaume-Uni\*\*</td><td>1<sup>er</sup> septembre</td><td>1964</td><td>1<sup>er</sup> octobre</td><td>1964</td></tr>
 <tr><td>Russie\*\*</td><td>25 mars</td><td>1964</td><td>24 avril</td><td>1964</td></tr>
 <tr><td>Rwanda</td><td>15 avril</td><td>1964 A</td><td>15 mai</td><td>1964</td></tr>
-<tr><td>Sainte-Lucie</td><td>27 août</td><td>1986 S</td><td>22 février</td><td>1978</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>6 juillet</td><td>2010 A</td><td>5 août</td><td>2010</td></tr>
 <tr><td>Saint-Marin</td><td>8 septembre</td><td>1965</td><td>8 octobre</td><td>1965</td></tr>
 <tr><td>Saint-Siège</td><td>17 avril</td><td>1964</td><td>17 mai</td><td>1964</td></tr>
 <tr><td>[tab] Saint-Vincent-et-les Grenadines</td><td>27 avril</td><td>1999 S</td><td>27 octobre</td><td>1979</td></tr>
+<tr><td>Sainte-Lucie</td><td>27 août</td><td>1986 S</td><td>22 février</td><td>1978</td></tr>
 <tr><td>Samoa</td><td>26 octobre</td><td>1987 A</td><td>25 novembre</td><td>1987</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>3 mai</td><td>1983 A</td><td>2 juin</td><td>1983</td></tr>
 <tr><td>Sénégal</td><td>12 octobre</td><td>1972</td><td>11 novembre</td><td>1972</td></tr>
@@ -608,7 +609,7 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Suriname</td><td>28 octobre</td><td>1992 A</td><td>27 novembre</td><td>1992</td></tr>
 <tr><td>Syrie\*</td><td>4 août</td><td>1978 A</td><td>3 septembre</td><td>1978</td></tr>
 <tr><td>Tadjikistan</td><td>6 mai</td><td>1996 A</td><td>5 juin</td><td>1996</td></tr>
-<tr><td>Taiwan (Taipei chinois)</td><td>19 décembre</td><td>1969</td><td>18 janvier</td><td>1970</td></tr>
+<tr><td>Taipei chinois (Taiwan)</td><td>19 décembre</td><td>1969</td><td>18 janvier</td><td>1970</td></tr>
 <tr><td>Tanzanie\*\*</td><td>5 novembre</td><td>1962</td><td>24 avril</td><td>1964</td></tr>
 <tr><td>Tchad</td><td>3 novembre</td><td>1977 A</td><td>3 décembre</td><td>1977</td></tr>
 <tr><td>Thaïlande\*\*</td><td>23 janvier</td><td>1985</td><td>22 février</td><td>1985</td></tr>
@@ -628,7 +629,7 @@ Champ d’application le 7 mai 2020**[^t-2]**
 <tr><td>Yémen</td><td>24 novembre</td><td>1976 A</td><td>24 décembre</td><td>1976</td></tr>
 <tr><td>Zambie</td><td>16 juin</td><td>1975 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>12 juin</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1974 1161](https://fedlex.data.admin.ch/eli/oc/1974/1162_1161_1161), [1976 1462](https://fedlex.data.admin.ch/eli/oc/1976/1462_1462_1462), [1977 1408](https://fedlex.data.admin.ch/eli/oc/1977/1408_1408_1408), [1979 557](https://fedlex.data.admin.ch/eli/oc/1979/557_557_557), [1980 327](https://fedlex.data.admin.ch/eli/oc/1980/327_327_327), [1981 2059](https://fedlex.data.admin.ch/eli/oc/1981/2059_2059_2059), [1982 2075](https://fedlex.data.admin.ch/eli/oc/1982/2075_2075_2075), [1984 412](https://fedlex.data.admin.ch/eli/oc/1984/412_412_412)[1535](https://fedlex.data.admin.ch/eli/oc/1984/1535_1535_1535), [1985 1258](https://fedlex.data.admin.ch/eli/oc/1985/1258_1258_1258), [1987 416](https://fedlex.data.admin.ch/eli/oc/1987/416_416_416), [1988 1606](https://fedlex.data.admin.ch/eli/oc/1988/1606_1606_1606), [1991 896](https://fedlex.data.admin.ch/eli/oc/1991/896_896_896), [1993 2346](https://fedlex.data.admin.ch/eli/oc/1993/2346_2346_2346), [2003 2414](https://fedlex.data.admin.ch/eli/oc/2003/347), [2006 4427](https://fedlex.data.admin.ch/eli/oc/2006/672), [2009 3183](https://fedlex.data.admin.ch/eli/oc/2009/405), [2013 473](https://fedlex.data.admin.ch/eli/oc/2013/93), [2014 1895](https://fedlex.data.admin.ch/eli/oc/2014/341), [2020 1791](https://fedlex.data.admin.ch/eli/oc/2020/356). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 1161](https://fedlex.data.admin.ch/eli/oc/1974/1162_1161_1161); [1976 1462](https://fedlex.data.admin.ch/eli/oc/1976/1462_1462_1462); [1977 1408](https://fedlex.data.admin.ch/eli/oc/1977/1408_1408_1408); [1979 557](https://fedlex.data.admin.ch/eli/oc/1979/557_557_557); [1980 327](https://fedlex.data.admin.ch/eli/oc/1980/327_327_327); [1981 2059](https://fedlex.data.admin.ch/eli/oc/1981/2059_2059_2059); [1982 2075](https://fedlex.data.admin.ch/eli/oc/1982/2075_2075_2075); [1984 412](https://fedlex.data.admin.ch/eli/oc/1984/412_412_412), [1535](https://fedlex.data.admin.ch/eli/oc/1984/1535_1535_1535); [1985 1258](https://fedlex.data.admin.ch/eli/oc/1985/1258_1258_1258); [1987 416](https://fedlex.data.admin.ch/eli/oc/1987/416_416_416); [1988 1606](https://fedlex.data.admin.ch/eli/oc/1988/1606_1606_1606); [1991 896](https://fedlex.data.admin.ch/eli/oc/1991/896_896_896); [1993 2346](https://fedlex.data.admin.ch/eli/oc/1993/2346_2346_2346); [2003 2414](https://fedlex.data.admin.ch/eli/oc/2003/347); [2006 4427](https://fedlex.data.admin.ch/eli/oc/2006/672); [2009 3183](https://fedlex.data.admin.ch/eli/oc/2009/405); [2013 473](https://fedlex.data.admin.ch/eli/oc/2013/93); [2014 1895](https://fedlex.data.admin.ch/eli/oc/2014/341); [2020 1791](https://fedlex.data.admin.ch/eli/oc/2020/356); [2024 261](https://fedlex.data.admin.ch/eli/oc/2024/261). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

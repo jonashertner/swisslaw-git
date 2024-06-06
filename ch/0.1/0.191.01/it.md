@@ -3,11 +3,11 @@ sr: "0.191.01"
 title: Convenzione di Vienna del 18 aprile 1961 sulle relazioni diplomatiche
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/435_431_431"
 language: it
-version: 2020-05-07
+version: 2024-06-07
 adopted: 1961-04-18
 in_force: 1964-04-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/435_431_431/20200507/it/xml/fedlex-data-admin-ch-eli-cc-1964-435_431_431-20200507-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/435_431_431/20200507/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/435_431_431/20240607/it/xml/fedlex-data-admin-ch-eli-cc-1964-435_431_431-20240607-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/435_431_431/20240607/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1964** 431; FF **1963** I 241 ediz. ted. 245 ediz. franc.
 
 Traduzione
 
-Conchiusa a Vienna il 18 aprile 1961
+Conchiusa a Vienna il 18 aprile 1961 Approvata dall’Assemblea federale il 21 giugno 1963[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 30 ottobre 1963 Entrata in vigore per la Svizzera il 24 aprile 1964
 
-Approvata dall’Assemblea federale il 21 giugno 1963[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 30 ottobre 1963
-
-Entrata in vigore per la Svizzera il 24 aprile 1964
-
-(Stato 7 maggio 2020)
+(Stato 7 giugno 2024)
 
 [^t-1]: [RU 1964 429](https://fedlex.data.admin.ch/eli/oc/1964/433_429_429)
 
@@ -431,7 +425,7 @@ L’originale della presente Convenzione, i cui testi inglese, cinese, spagnolo,
 
 *In fede di che,* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato la presente Convenzione. Fatto a Vienna, il diciotto aprile millenovecentosessantuno. (Seguono le firme)
 
-Campo d’applicazione il 7 maggio 2020**[^t-2]**
+Campo d’applicazione il 7 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -523,6 +517,7 @@ Campo d’applicazione il 7 maggio 2020**[^t-2]**
 <tr><td>Irlanda<sup>\*\*</sup></td><td>10 maggio</td><td>1967</td><td>9 giugno</td><td>1967</td></tr>
 <tr><td>Islanda</td><td>18 maggio</td><td>1971 A</td><td>17 giugno</td><td>1971</td></tr>
 <tr><td>Isole Marshall</td><td>9 agosto</td><td>1991 A</td><td>8 settembre</td><td>1991</td></tr>
+<tr><td>Isole Salomone</td><td>3 giugno</td><td>2021 A</td><td>3 luglio</td><td>2021</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>11 agosto</td><td>1970</td><td>10 settembre</td><td>1970</td></tr>
 <tr><td>Italia</td><td>25 giugno</td><td>1969</td><td>25 luglio</td><td>1969</td></tr>
 <tr><td>Kazakstan</td><td>5 gennaio</td><td>1994 A</td><td>4 febbraio</td><td>1994</td></tr>
@@ -632,9 +627,9 @@ Campo d’applicazione il 7 maggio 2020**[^t-2]**
 <tr><td>Yemen</td><td>24 novembre</td><td>1976 A</td><td>24 dicembre</td><td>1976</td></tr>
 <tr><td>Zambia</td><td>16 giugno</td><td>1975 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>12 giugno</td><td>1991</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [RU 1974 1161](https://fedlex.data.admin.ch/eli/oc/1974/1162_1161_1161), [1976 1462](https://fedlex.data.admin.ch/eli/oc/1976/1462_1462_1462), [1977 1408](https://fedlex.data.admin.ch/eli/oc/1977/1408_1408_1408), [1979 557](https://fedlex.data.admin.ch/eli/oc/1979/557_557_557), [1980 327](https://fedlex.data.admin.ch/eli/oc/1980/327_327_327), [1981 2059](https://fedlex.data.admin.ch/eli/oc/1981/2059_2059_2059), [1982 2075](https://fedlex.data.admin.ch/eli/oc/1982/2075_2075_2075), [1984 412](https://fedlex.data.admin.ch/eli/oc/1984/412_412_412)[1535](https://fedlex.data.admin.ch/eli/oc/1984/1535_1535_1535), [1985 1258](https://fedlex.data.admin.ch/eli/oc/1985/1258_1258_1258), [1987 416](https://fedlex.data.admin.ch/eli/oc/1987/416_416_416), [1988 1606](https://fedlex.data.admin.ch/eli/oc/1988/1606_1606_1606), [1991 896](https://fedlex.data.admin.ch/eli/oc/1991/896_896_896), [1993 2346](https://fedlex.data.admin.ch/eli/oc/1993/2346_2346_2346), [2003 2414](https://fedlex.data.admin.ch/eli/oc/2003/347), [2006 4427](https://fedlex.data.admin.ch/eli/oc/2006/672), [2009 3183](https://fedlex.data.admin.ch/eli/oc/2009/405), [2013 473](https://fedlex.data.admin.ch/eli/oc/2013/93)e [2014 1895](https://fedlex.data.admin.ch/eli/oc/2014/341)e [2020 1791](https://fedlex.data.admin.ch/eli/oc/2020/356). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1974 1161](https://fedlex.data.admin.ch/eli/oc/1974/1162_1161_1161); [1976 1462](https://fedlex.data.admin.ch/eli/oc/1976/1462_1462_1462); [1977 1408](https://fedlex.data.admin.ch/eli/oc/1977/1408_1408_1408); [1979 557](https://fedlex.data.admin.ch/eli/oc/1979/557_557_557); [1980 327](https://fedlex.data.admin.ch/eli/oc/1980/327_327_327); [1981 2059](https://fedlex.data.admin.ch/eli/oc/1981/2059_2059_2059); [1982 2075](https://fedlex.data.admin.ch/eli/oc/1982/2075_2075_2075); [1984 412](https://fedlex.data.admin.ch/eli/oc/1984/412_412_412), [1535](https://fedlex.data.admin.ch/eli/oc/1984/1535_1535_1535); [1985 1258](https://fedlex.data.admin.ch/eli/oc/1985/1258_1258_1258); [1987 416](https://fedlex.data.admin.ch/eli/oc/1987/416_416_416); [1988 1606](https://fedlex.data.admin.ch/eli/oc/1988/1606_1606_1606); [1991 896](https://fedlex.data.admin.ch/eli/oc/1991/896_896_896); [1993 2346](https://fedlex.data.admin.ch/eli/oc/1993/2346_2346_2346); [2003 2414](https://fedlex.data.admin.ch/eli/oc/2003/347); [2006 4427](https://fedlex.data.admin.ch/eli/oc/2006/672); [2009 3183](https://fedlex.data.admin.ch/eli/oc/2009/405); [2013 473](https://fedlex.data.admin.ch/eli/oc/2013/93); [2014 1895](https://fedlex.data.admin.ch/eli/oc/2014/341); [2020 1791](https://fedlex.data.admin.ch/eli/oc/2020/356); [2024 261](https://fedlex.data.admin.ch/eli/oc/2024/261). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
