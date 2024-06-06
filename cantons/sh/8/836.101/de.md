@@ -5,31 +5,30 @@ title: Verordnung zum Gesetz über Familien- und Sozialzulagen
 short: FSV
 language: de
 version: 2016-01-01
-valid_until: 2026-07-31
+corrected: 2024-06-07
 version_adopted: 2015-10-27
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/836.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1032/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/132/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Gesetz über Familien- und Sozialzulagen
+# Verordnung zum Gesetz über Familien- und Sozialzulagen (FSV)
 
-(FSV)
-
-Vom 09.12.2008 (Stand 01.01.2016)
+vom 9. Dezember 2008
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 37 des Gesetzes über Familien- und Sozialzulagen (FSG) vom 22. September 2008[^ingress-1],
+gestützt auf Art. 37 des Gesetzes über Familien- und Sozialzulagen (FSG) vom 22. September 2008[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [836.100](https://rechtsbuch.sh.ch/data/836.100/de).
+[^t-1]: SHR 836.100.
 
-## 1 Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -43,6 +42,8 @@ beschliesst:
 
 <sup>4</sup> Mit der Anerkennung übernimmt der Kanton keine Gewähr für die Erfüllung ihrer Verpflichtungen.
 
+Amtsblatt 2008, S. 1869
+
 #### § 2
 
 **Wechsel der Familienausgleichskasse**
@@ -51,7 +52,7 @@ beschliesst:
 
 <sup>2</sup> Wer zu einer anderen Familienausgleichskasse wechselt, meldet der bisherigen Familienausgleichskasse den Austritt bis zum 31. August des Vorjahres.
 
-<sup>3</sup> Die Kassen können auf Gesuch der Arbeitgebenden einem Wechsel zwischen den Familienausgleichskassen gemäss Art. 2 Abs. 1 lit. a und c des Gesetzes zustimmen.
+<sup>3</sup> Die Kassen können auf Gesuch der Arbeitgebenden einem Wechsel zwischen den Familienausgleichskassen gemäss Art. 2 Abs. 1 Bst. a und c des Gesetzes zustimmen.
 
 #### § 3
 
@@ -71,19 +72,29 @@ beschliesst:
 
 <sup>3</sup> Der Geschäftsbericht hat in Bezug auf die erfassten Betriebe im Kanton zu enthalten:
 
-- a) die Anzahl der Betriebe
-- b) die Anzahl der Selbständigerwerbenden
-- c) das Total der abgerechneten Lohnsumme
-- d) den Beitragssatz für die Arbeitgebenden
-- e) den Beitragssatz für die Selbständigerwerbenden
-- f) die abgerechneten Beiträge der Arbeitgebenden
-- g) die abgerechneten Beiträge der Selbständigerwerbenden
-- h) die Anzahl und den Betrag der gesamthaft ausbezahlten gesetzlichen Familienzulagen an die Arbeitnehmenden
-- i) die Anzahl und den Betrag der gesamthaft ausbezahlten gesetzlichen Familienzulagen an die Selbständigerwerbenden
-- j) die Höhe der Verwaltungskosten
-- k) die Höhe der Schwankungsreserve gemäss Art. 13 der Familienzulagenverordnung (FamZV)[^4-1]
+- a) die Anzahl der Betriebe;
 
-[^4-1]: SR [836.21](http://db.clex.ch/link/Bund/836.21/de).
+- b) die Anzahl der Selbständigerwerbenden;
+
+- c) das Total der abgerechneten Lohnsumme;
+
+- d) den Beitragssatz für die Arbeitgebenden;
+
+- e) den Beitragssatz für die Selbständigerwerbenden;
+
+- f) die abgerechneten Beiträge der Arbeitgebenden;
+
+- g) die abgerechneten Beiträge der Selbständigerwerbenden;
+
+- h) die Anzahl und den Betrag der gesamthaft ausbezahlten gesetzlichen Familienzulagen an die Arbeitnehmenden;
+
+- i) die Anzahl und den Betrag der gesamthaft ausbezahlten gesetzlichen Familienzulagen an die Selbständigerwerbenden;
+
+- j) die Höhe der Verwaltungskosten;
+
+- k) die Höhe der Schwankungsreserve gemäss Art. 13 der Familienzulagenverordnung (FamZV)[^4-1].
+
+[^4-1]: SR 836.21.
 
 #### § 5
 
@@ -107,9 +118,9 @@ beschliesst:
 
 **Aufsicht kantonale Familienausgleichskasse**
 
-<sup>1</sup> Kantonale Aufsichtsbehörde der kantonalen Familienausgleichskassen ist das Departement des Innern; vorbehalten bleiben die Befugnisse des Regierungsrates gemäss Art. 5 des Gesetzes.
+Kantonale Aufsichtsbehörde der kantonalen Familienausgleichskassen ist das Departement des Innern; vorbehalten bleiben die Befugnisse des Regierungsrates gemäss Art. 5 des Gesetzes.
 
-## 2 Familienzulagen für Arbeitnehmende
+## II. Familienzulagen für Arbeitnehmende
 
 #### § 8
 
@@ -129,35 +140,39 @@ beschliesst:
 
 <sup>3</sup> Bei Auflösung einer Familienausgleichskasse wird der von ihr geleistete Grundbetrag nach Abzug allfällig entstandener Verbindlichkeiten zinslos zurückerstattet.
 
+[^9-1]: Fassung gemäss RRB vom 21. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1896).
+
 #### § 10
 
-**Lastenausgleichsverfahren**
+**Lastenausgleichsverfahren**[^9-1]
 
 <sup>1</sup> Das Lastenausgleichsverfahren wird bis 30. September des Folgejahres durchgeführt.
 
 <sup>2</sup> Die Familienausgleichskassen melden der kantonalen Familienausgleichskasse bis zum 30. Juni das Total der beitragspflichtigen Lohnsumme und das Total der geleisteten gesetzlichen Familienzulagen des Vorjahres. Die gemeldeten Zahlen sind durch die Revisionsstelle der jeweiligen Familienausgleichskasse zu bestätigen.
 
+[^10-1]: Fassung gemäss RRB vom 22. November 2011, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1606).
+
 #### § 11
 
-**Kosten des Verfahrens**
+**Kosten des Verfahrens**[^10-1]
 
 <sup>1</sup> Die Kosten, die aus der Durchführung des Lastenausgleichsverfahrens entstehen, trägt die kantonale Familienausgleichskasse.
 
 <sup>2</sup> Der Zinsertrag des Lastenausgleichsfonds geht an die kantonale Familienausgleichskasse als Beitrag an die Durchführungskosten des Lastenausgleichsverfahrens.
 
-## 3 Familienzulagen für Nichterwerbstätige
+## III. Familienzulagen für Nichterwerbstätige
 
 #### § 12
 
 **Provisorischer Anspruch**
 
-<sup>1</sup> Liegen die definitiven Steuerdaten gemäss Art. 17 FamZV noch nicht vor, können die Familienzulagen provisorisch ausbezahlt oder abgelehnt werden. Die Anspruchsberechtigten sind auf eine allfällige Rückerstattungspflicht hinzuweisen.
+Liegen die definitiven Steuerdaten gemäss Art. 17 FamZV noch nicht vor, können die Familienzulagen provisorisch ausbezahlt oder abgelehnt werden. Die Anspruchsberechtigten sind auf eine allfällige Rückerstattungspflicht hinzuweisen.
 
 #### § 13
 
 **Auszahlung**
 
-<sup>1</sup> Wo keine Verrechnung der Zulagen mit Beiträgen gemäss Art. 12 des Gesetzes vorgenommen wird, erfolgt die Auszahlung der Zulagen quartalsweise.
+Wo keine Verrechnung der Zulagen mit Beiträgen gemäss Art. 12 des Gesetzes vorgenommen wird, erfolgt die Auszahlung der Zulagen quartalsweise.
 
 #### § 14
 
@@ -167,19 +182,21 @@ beschliesst:
 
 <sup>2</sup> Während des laufenden Jahres kann die kantonale Familienausgleichskasse dem Kanton Akontozahlungen im Rahmen des Budgets in Rechnung stellen.
 
-## 4 Familienzulagen für Selbständigerwerbende
+## IV. Familienzulagen für Selbständigerwerbende
 
 #### § 15
 
 **Auszahlung**
 
-<sup>1</sup> Wo keine Verrechnung der Zulagen mit Beiträgen gemäss Art. 12 des Gesetzes vorgenommen wird, erfolgt die Auszahlung der Zulagen quartalsweise.
+Wo keine Verrechnung der Zulagen mit Beiträgen gemäss Art. 12 des Gesetzes vorgenommen wird, erfolgt die Auszahlung der Zulagen quartalsweise.
 
-#### § 16
+[^15-1]: Aufgehoben durch RRB vom 27. Oktober 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1515).
 
-**…**
+#### §16
 
-#### § 17
+[^15-1]
+
+#### §17
 
 **Abrechnungsstellen**
 
@@ -187,7 +204,7 @@ beschliesst:
 
 <sup>2</sup> Die Verwaltungskosten sind von den Abrechnungsstellen zu tragen.
 
-## 5 Sozialzulagen
+## V. Sozialzulagen
 
 #### § 18
 
@@ -205,32 +222,35 @@ beschliesst:
 
 <sup>1</sup> Die Festlegung der anerkannten Ausgaben, der anrechenbaren Einnahmen und des anrechenbaren Vermögens sowie die Berechnung der Erwerbsersatzleistungen erfolgen nach den Bestimmungen des Bundesgesetzes sowie des kantonalen Gesetzes über Ergänzungsleistungen zur AHV und IV[^19-1].
 
-<sup>2</sup> In Abweichung von den Bestimmungen des Bundesgesetzes über Ergänzungsleistungen zur AHV und IV werden:
+<sup>2</sup> In Abweichung von den Bestimmungen des Bundesgesetzes über Ergänzungsleistungen zur AHV und IV werden a) die Kinder, die im gleichen Haushalt wohnen, bei der Berechnung mitberücksichtigt;
 
-- a) die Kinder, die im gleichen Haushalt wohnen, bei der Berechnung mitberücksichtigt
-- b) die Kinder, die nicht im gleichen Haushalt wohnen, nicht berücksichtigt
-- c) der jährliche Pauschalbetrag für die obligatorische Krankenversicherung nicht als Ausgabe anerkannt
-- d) allfällige Beiträge zur Verbilligung der Krankenkassenprämien nicht als Einnahmen angerechnet
-- e) Stipendien als Einnahmen angerechnet
-- f) Krankheits- und Behinderungskosten nicht berücksichtigt
+- b) die Kinder, die nicht im gleichen Haushalt wohnen, nicht berücksichtigt;
 
-<sup>3</sup> Die Erwerbsersatzleistungen betragen höchstens Fr. 2'000.00 pro Monat (Art. 30 Abs. 1 FSG).
+- c) der jährliche Pauschalbetrag für die obligatorische Krankenversicherung nicht als Ausgabe anerkannt;
 
-[^19-1]: SR [831.30](http://db.clex.ch/link/Bund/831.30/de) und SHR [831.300](https://rechtsbuch.sh.ch/data/831.300/de).
+- d) allfällige Beiträge zur Verbilligung der Krankenkassenprämien nicht als Einnahmen angerechnet;
+
+- e) Stipendien als Einnahmen angerechnet;
+
+- f) Krankheits- und Behinderungskosten nicht berücksichtigt.
+
+<sup>3</sup> Die Erwerbsersatzleistungen betragen höchstens 2‘000 Franken pro Monat (Art. 30 Abs. 1 FSG).
+
+[^19-1]: SR 831.30 und SHR 831.300.
 
 #### § 20
 
 **Auszahlung**
 
-<sup>1</sup> Die Auszahlung der Erwerbsersatzleistungen erfolgt monatlich bargeldlos.
+Die Auszahlung der Erwerbsersatzleistungen erfolgt monatlich bargeldlos.
 
-## 6 Schlussbestimmungen
+## VI. Schlussbestimmungen
 
 #### § 21
 
 **Anerkannte Familienausgleichskassen**
 
-<sup>1</sup> Die bestehenden beruflichen und zwischenberuflichen Familienausgleichskassen müssen kein neues Gesuch um Anerkennung einreichen. Sie gelten weiterhin als anerkannt.
+Die bestehenden beruflichen und zwischenberuflichen Familienausgleichskassen müssen kein neues Gesuch um Anerkennung einreichen. Sie gelten weiterhin als anerkannt.
 
 #### § 22
 
@@ -244,7 +264,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung zum Gesetz über Familien- und Sozialzulagen vom 9. November 1999 wird aufgehoben.
+Die Verordnung zum Gesetz über Familien- und Sozialzulagen vom 9. November 1999 wird aufgehoben.
 
 #### § 24
 
@@ -254,6 +274,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^24-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^24-1]: Amtsblatt 2008, S. 1869.
+Fussnoten:
 
-Abl. 2008, S. 1869
+[^24-1]: Amtsblatt 2008, S. 1869.
