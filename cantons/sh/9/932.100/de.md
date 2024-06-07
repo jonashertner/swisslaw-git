@@ -4,24 +4,24 @@ number: "932.100"
 title: Gesetz über Warenhandel und Schaustellungen
 language: de
 version: 2021-09-01
+corrected: 2024-06-08
 version_adopted: 2021-05-10
 adopted: 2004-06-28
 in_force: 2004-12-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/932.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1080/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/330/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Gesetz über Warenhandel und Schaustellungen
 
-Vom 28.06.2004 (Stand 01.09.2021)
+vom 28. Juni 2004
 
-Der Kantonsrat Schaffhausen,
+Der Kantonsrat beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Marktwesen und Wanderlager
+### I. Marktwesen und Wanderlager
 
 #### Art. 1
 
@@ -31,31 +31,27 @@ beschliesst:
 
 <sup>2</sup> Als Wanderlager gilt die vorübergehende Errichtung eines Warenlagers zum Zwecke des Verkaufs ausserhalb der ordentlichen Geschäftsräume.
 
-<sup>3</sup> Auf Wanderlager sind die Bestimmungen des Ruhetagsgesetzes[^1-1] für Verkaufsgeschäfte anwendbar.
+<sup>3</sup> Auf Wanderlager sind die Bestimmungen des Ruhetagsgesetzes <sup>1)</sup> für Verkaufsgeschäfte anwendbar.
 
-[^1-1]: SHR [900.200](https://rechtsbuch.sh.ch/data/900.200/de).
-
-## 2 Hausierwesen
+### II. Hausierwesen
 
 #### Art. 2
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Reisendengewerbe richtet sich nach Bundesrecht[^2-1].
+<sup>1</sup> Das Reisendengewerbe richtet sich nach Bundesrecht <sup>2)</sup>.
 
-<sup>2</sup> Der Vollzug obliegt dem zuständigen kantonalen Organ.
-
-[^2-1]: SR [943.1](http://db.clex.ch/link/Bund/943.1/de) und SR [943.11](http://db.clex.ch/link/Bund/943.11/de).
+<sup>2</sup> Der Vollzug obliegt dem zuständigen kantonalen Organ. <sup>6)</sup>
 
 #### Art. 3
 
 **Ruhetage**
 
-<sup>1</sup> An Sonn- und öffentlichen Ruhetagen ist jeder Hausierhandel verboten. Die Bestimmungen des Ruhetagsgesetzes[^3-1] sind sinngemäss anwendbar.
+An Sonn- und öffentlichen Ruhetagen ist jeder Hausierhandel verboten. Die Bestimmungen des Ruhetagsgesetzes <sup>1)</sup> sind sinngemäss anwendbar.
 
-[^3-1]: SHR [900.200](https://rechtsbuch.sh.ch/data/900.200/de).
+Amtsblatt 2004, S. 915, S. 1514.
 
-## 3 Sammlungen
+### III. Sammlungen
 
 #### Art. 4
 
@@ -63,11 +59,11 @@ beschliesst:
 
 <sup>1</sup> Sammlungen von Haus zu Haus, die sich nicht auf die Mitglieder eines Vereins oder einen geschlossenen Kreis von Adressaten beschränken, bedürfen einer Bewilligung, die bei überregionalen, kantonalen und regionalen Sammlungen von der zuständigen kantonalen Dienststelle und bei lokalen Sammlungen von der zuständigen Gemeindebehörde erteilt wird.
 
-<sup>2</sup> Sammlungen werden bewilligt, wenn sie:
+<sup>2</sup> Sammlungen werden bewilligt, wenn sie a) keinen öffentlichen oder privaten schutzwürdigen Interessen zuwiderlaufen,
 
-- a) keinen öffentlichen oder privaten schutzwürdigen Interessen zuwiderlaufen
 - b) gemeinnützigen oder ideellen Zwecken dienen und
-- c) Gewähr für die bestimmungsgemässe Verwendung des Sammlungsergebnisses bieten
+
+- c) Gewähr für die bestimmungsgemässe Verwendung des Sammlungsergebnisses bieten.
 
 <sup>3</sup> Die zuständige kantonale Dienststelle oder Gemeindebehörde kann, soweit erforderlich, Unterlagen verlangen oder Erkundigungen einziehen.
 
@@ -79,15 +75,13 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung muss während der Ausübung der Geschäftstätigkeit auf sich getragen werden. Auf Verlangen muss sie der Kundschaft und den mit der Kontrolle beauftragten Organen vorgewiesen werden.
 
-<sup>3</sup> An Sonn- und öffentlichen Ruhetagen ist jede Sammlung verboten. Die Bestimmungen des Ruhetagsgesetzes[^5-1] sind sinngemäss anwendbar.
+<sup>3</sup> An Sonn- und öffentlichen Ruhetagen ist jede Sammlung verboten. Die Bestimmungen des Ruhetagsgesetzes<sup>1)</sup> sind sinngemäss anwendbar.
 
 <sup>4</sup> Es ist verboten, die Kundschaft zu bedrängen oder zu belästigen.
 
 <sup>5</sup> Die Bewilligung kann jederzeit entzogen werden, wenn die Voraussetzungen für die Bewilligungserteilung nicht mehr gegeben sind oder gegen die auferlegten Bedingungen oder Auflagen verstossen wird.
 
-[^5-1]: SHR [900.200](https://rechtsbuch.sh.ch/data/900.200/de).
-
-## 4 Schaustellungen und Aufführungen
+### IV. Schaustellungen und Aufführungen
 
 #### Art. 6
 
@@ -95,7 +89,9 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligungen für Schausteller und Betreiber von Zirkussen richten sich nach Bundesrecht.
 
-<sup>2</sup> Der Vollzug betreffend Betriebsbewilligungen obliegt dem zuständigen kantonalen Organ.
+<sup>2</sup> Der Vollzug betreffend Betriebsbewilligungen obliegt dem zuständigen kantonalen Organ.[^6-1]
+
+[^6-1]: Fassung gemäss G vom 10. Mai 2021, in Kraft getreten am 1. September 2021 (Amtsblatt 2021, S. 873, S. 1540).
 
 #### Art. 7
 
@@ -107,28 +103,29 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinde verfügt nötigenfalls die zum Schutze von Personen und Sachen erforderlichen Massnahmen. Sie kann den Veranstalter oder die Veranstalterin zur Leistung einer angemessenen Barkaution oder zum Abschluss einer genügenden Haftpflichtversicherung zugunsten Dritter anhalten, soweit dies vom Bundesrecht nicht bereits vorgeschrieben ist.
 
-## 5 Straf- und Schlussbestimmungen
+### V. Straf- und Schlussbestimmungen
 
 #### Art. 8
 
-**Sanktionen: Tatbestände**
+**Sanktionen a) Tatbestände**
 
-<sup>1</sup> Mit Busse von Fr. 50.00 bis Fr. 1'000.00 wird bestraft, wer vorsätzlich oder fahrlässig:
+<sup>1</sup> Mit Busse von Fr. 50.-- bis Fr. 1'000.-- wird bestraft, wer vorsätzlich oder fahrlässig:
 
-- a) ohne Bewilligung eine Sammlung veranstaltet oder den in diesem Gesetz oder in der Bewilligung enthaltenen Vorschriften, Auflagen oder Bedingungen zuwiderhandelt
-- b) ohne Meldung eine meldepflichtige Schaustellung oder Aufführung veranstaltet oder den diesbezüglichen gesetzlichen oder behördlichen Vorschriften, Auflagen oder Bedingungen zuwiderhandelt
+- a) ohne Bewilligung eine Sammlung veranstaltet oder den in diesem Gesetz oder in der Bewilligung enthaltenen Vorschriften, Auflagen oder Bedingungen zuwiderhandelt;
+
+- b) ohne Meldung eine meldepflichtige Schaustellung oder Aufführung veranstaltet oder den diesbezüglichen gesetzlichen oder behördlichen Vorschriften, Auflagen oder Bedingungen zuwiderhandelt.
 
 <sup>2</sup> Bei juristischen Personen sind die Strafbestimmungen auf die verantwortlichen Organe anzuwenden.
 
 #### Art. 9
 
-**Sanktionen: Einziehung**
+**b) Einziehung**
 
-<sup>1</sup> Waren und Vermögenswerte, die durch die strafbare Handlung erlangt worden sind, mit denen eine strafbare Handlung begangen wurde oder die zur Begehung einer strafbaren Handlung bestimmt waren, haften ohne Rücksicht auf die Strafbarkeit einer bestimmten Person für Busse und Kosten sowie für rückständige Gebühren und sind zu diesem Zwecke, soweit notwendig, einzuziehen.
+Waren und Vermögenswerte, die durch die strafbare Handlung erlangt worden sind, mit denen eine strafbare Handlung begangen wurde oder die zur Begehung einer strafbaren Handlung bestimmt waren, haften ohne Rücksicht auf die Strafbarkeit einer bestimmten Person für Busse und Kosten sowie für rückständige Gebühren und sind zu diesem Zwecke, soweit notwendig, einzuziehen.
 
 #### Art. 10
 
-**Sanktionen: Zuständigkeit**
+**c) Zuständigkeit**
 
 <sup>1</sup> Übertretungen der in die Zuständigkeit der Gemeindebehörde fallenden Bestimmungen sowie die Missachtung der entsprechenden Anordnungen werden von den Gemeindebehörden geahndet.
 
@@ -138,7 +135,7 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die beim In-Kraft-Treten dieses Gesetzes noch zu Recht bestehenden Patente und Bewilligungen behalten bis zum Ablauf der darin vorgesehenen Dauer ihre Gültigkeit.
+Die beim In-Kraft-Treten dieses Gesetzes noch zu Recht bestehenden Patente und Bewilligungen behalten bis zum Ablauf der darin vorgesehenen Dauer ihre Gültigkeit.
 
 #### Art. 12
 
@@ -152,7 +149,12 @@ beschliesst:
 
 <sup>4</sup> Es ersetzt das gleichnamige Gesetz vom 21. Februar 1994.
 
+Fussnoten:
+
 [^12-1]: In Kraft getreten am 1. Dezember 2004 (Amtsblatt 2004, S. 1514).
 [^12-2]: Amtsblatt 2004, S. 915.
 
-Abl. 2004, S. 915, S. 1514
+## Weitere Fussnoten
+
+- [1] SHR 900.200.
+- [2] SR 943.1 und SR 943.11.
