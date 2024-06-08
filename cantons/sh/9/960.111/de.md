@@ -5,30 +5,30 @@ title: Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhaus
 short: "Gebäudeversicherungsverordnung, GebVO"
 language: de
 version: 2019-01-01
+corrected: 2024-06-09
 version_adopted: 2018-01-09
 adopted: 2004-03-23
 in_force: 2004-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/960.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1101/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/304/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhausen
+# Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhausen (Gebäudeversicherungsverordnung; GebVO)
 
-(Gebäudeversicherungsverordnung, GebVO)
-
-Vom 23.03.2004 (Stand 01.01.2019)
+vom 23. März 2004
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 40 des Gesetzes über die Gebäudeversicherung im Kanton Schaffhausen (Gebäudeversicherungsgesetz, GebVG)[^ingress-1] vom 8. Dezember 2003,
+gestützt auf Art. 40 des Gesetzes über die Gebäudeversicherung im Kanton Schaffhausen (Gebäudeversicherungsgesetz, GebVG)[^t-1] vom 8. Dezember 2003,
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [960.100](https://rechtsbuch.sh.ch/data/960.100/de).
+[^t-1]: SHR 960.100.
 
-## 1 Allgemeines
+### I. Allgemeines
 
 #### § 1
 
@@ -48,13 +48,15 @@ beschliesst:
 
 <sup>3</sup> Sie wählt auf Antrag der Direktion die Ressortleiter der Gebäudeversicherung.
 
+Amtsblatt 2004, S. 405.
+
 #### § 3
 
 **Anwendung des Personalgesetzes**
 
-<sup>1</sup> Die Arbeitsverhältnisse der Angestellten der Gebäudeversicherung unterstehen dem kantonalen Personalgesetz und den entsprechenden Ausführungsbestimmungen.
+Die Arbeitsverhältnisse der Angestellten der Gebäudeversicherung unterstehen dem kantonalen Personalgesetz und den entsprechenden Ausführungsbestimmungen.
 
-## 2 Versicherte Gefahren
+### II. Versicherte Gefahren
 
 #### § 4
 
@@ -62,17 +64,19 @@ beschliesst:
 
 <sup>1</sup> Keine Elementarschäden im Sinne von Art. 9 Abs. 1 des Gesetzes sind Schäden, die nicht auf eine Einwirkung von aussergewöhnlicher Heftigkeit zurückzuführen sind, wie beispielsweise Schäden, die auf schlechten Baugrund, ungenügende Fundamente, ungenügende Hangsicherung, fehlerhafte Arbeit, Konstruktion oder Abdichtung, mangelhaften Unterhalt, künstlich vorgenommene Bodenveränderungen oder Grundwasserabsenkungen, Bodensenkungen, Feuchtigkeit, Frost, Grundwasser oder ähnliche Einwirkungen zurückzuführen sind.
 
-<sup>2</sup> Ein Sturm im Sinne von Art. 9 Abs. 1 des Gesetzes liegt vor, wenn bezüglich des versicherten Objekts Windgeschwindigkeiten von mindestens 63 km/Std. (10-Minuten-Mittel) oder Böenspitzen von mindestens 100 km/Std. gemessen werden. Das Vorliegen eines Sturms im versicherungstechnischen Sinn wird zudem vermutet, wenn in der Umgebung des versicherten Objekts an einer Mehrzahl von ordnungsgemäss erstellten Gebäuden insbesondere Dächer ganz oder teilweise abgedeckt werden oder gesunde Bäume schwer beschädigt werden.
+<sup>2</sup> Ein Sturm im Sinne von Art. 9 Abs. 1 des Gesetzes liegt vor, wenn bezüglich des versicherten Objekts Windgeschwindigkeiten von mindestens 63 km/Std. (10-Minuten-Mittel) oder Böenspitzen von mindestens 100 km/Std. gemessen werden. Das Vorliegen eines Sturms im versicherungstechnischen Sinn wird zudem vermutet, wenn in der Umgebung des versicherten Objekts an einer Mehrzahl von ordnungsgemäss erstellten Gebäuden insbesondere Dächer ganz oder teilweise abgedeckt werden oder gesunde Bäume schwer beschädigt werden.[^4-1]
 
 <sup>3</sup> Nicht als Hochwasser- oder Überschwemmungsschäden im Sinne von Art. 9 Abs. 1 lit. c des Gesetzes gelten insbesondere solche, die durch Rückstau aus Abwasserkanalisationen, durch Wasserleitungsbrüche innerhalb oder ausserhalb des Gebäudes, durch Eindringen von Regen- oder Schneewasser durch Dach, Wände oder Fenster oder durch Grundwasser verursacht werden.
+
+[^4-1]: Fassung gemäss RRB vom 12. August 2014, in Kraft getreten am 1. September 2014 (Amtsblatt 2014, S. 1173).
 
 #### § 5
 
 **Haftungsbeschränkung**
 
-<sup>1</sup> Die massgebende Haftungsgrenze gemäss Art. 11 des Gesetzes wird jeweils im Geschäftsbericht ausgewiesen.
+Die massgebende Haftungsgrenze gemäss Art. 11 des Gesetzes wird jeweils im Geschäftsbericht ausgewiesen.
 
-## 3 Umfang der Versicherung
+### III. Umfang der Versicherung
 
 #### § 6
 
@@ -86,7 +90,7 @@ beschliesst:
 
 **Mindestversicherungswert**
 
-<sup>1</sup> Die obligatorische Versicherung erstreckt sich auf Gebäude mit einem Versicherungswert von mindestens Fr. 10'000.00.
+Die obligatorische Versicherung erstreckt sich auf Gebäude mit einem Versicherungswert von mindestens 10'000 Franken.
 
 #### § 8
 
@@ -94,22 +98,27 @@ beschliesst:
 
 <sup>1</sup> Gegen die Folgen von Feuer- und Elementarschäden können freiwillig versichert werden:
 
-- a) Gebäude bis zu einem Versicherungswert von Fr. 10'000.00 (Art. 12 Abs. 2 GebVG)
-- b) gebäudeähnliche Objekte; als solche gelten selbständige bauliche Anlagen aus dauerhaftem Material wie insbesondere Treppen, Schwimmbassins, Brunnen, Zisternen, Silos (Art. 13 GebVG)
-- c) die unmittelbare Umgebung des Gebäudes (Garten)
-- d) Abbruch- und Entsorgungskosten, soweit diese die obligatorischen Leistungen der Gebäudeversicherung gemäss § 31 Abs. 2 übersteigen
+- a) Gebäude bis zu einem Versicherungswert von 10'000 Franken (Art. 12 Abs. 2 GebVG);
 
-<sup>2</sup> Mit der Umgebungsversicherung nach Abs. 1 lit. c können die Kosten für die Wiederherstellung von Gartenanlagen (bauliche Anlagen und Bepflanzung) durch versicherte Ereignisse gemäss Art. 8 und 9 des Gesetzes versichert werden. Nicht versicherbar sind Schäden an Blumen, Obstertrag und Bodenerträgnissen (Ernteausfall) sowie Hagel-, Schneerutsch- und Schneedruckschäden an Pflanzen.
+- b) gebäudeähnliche Objekte; als solche gelten selbständige bauliche Anlagen aus dauerhaftem Material wie insbesondere Treppen, Schwimmbassins, Brunnen, Zisternen, Silos (Art. 13 GebVG);
 
-<sup>3</sup> Der Abschluss einer freiwilligen Versicherung bedarf eines schriftlichen Antrags. Die Versicherungsdauer der freiwilligen Versicherung beträgt minimal drei Jahre und endet Ende Dezember nach Ablauf des dritten Vertragsjahres, verlängert sich jedoch jährlich stillschweigend um ein weiteres Jahr, sofern die Versicherung nicht 30 Tage vor Ablauf durch den Eigentümer oder die Gebäudeversicherung gekündigt wird.
+- c) die unmittelbare Umgebung des Gebäudes (Garten);[^8-1]
 
-<sup>4</sup> Bei Handänderung des Gebäudes bleibt das Vertragsverhältnis mit dem neuen Eigentümer bestehen, sofern dieser die freiwillige Versicherung nicht innert 30 Tagen nach Handänderung kündigt. Das Kündigungsrecht besteht im Falle einer Handänderung ungeachtet der Mindestlaufzeit.
+- d) Abbruch- und Entsorgungskosten, soweit diese die obligatorischen Leistungen der Gebäudeversicherung gemäss § 31 Abs. 2 übersteigen.
 
-<sup>5</sup> Im Schadenfall hat die Gebäudeversicherung spätestens bei Auszahlung der Entschädigung zu kündigen, der Versicherungsnehmer spätestens 14 Tage, nachdem die Auszahlung der Entschädigung erfolgte. Erfolgt die Kündigung durch die Gebäudeversicherung, erlischt der Versicherungsschutz vier Wochen nach Eintreffen der Kündigung beim Versicherungsnehmer. Erfolgt die Kündigung kundenseitig, erlischt der Versicherungsschutz unmittelbar nach Eintreffen der Kündigung bei der Gebäudeversicherung.
+<sup>2</sup> Mit der Umgebungsversicherung nach Abs. 1 lit. c können die Kosten für die Wiederherstellung von Gartenanlagen (bauliche Anlagen und Bepflanzung) durch versicherte Ereignisse gemäss Art. 8 und 9 des Gesetzes versichert werden. Nicht versicherbar sind Schäden an Blumen, Obstertrag und Bodenerträgnissen (Ernteausfall) sowie Hagel-, Schneerutsch- und Schneedruckschäden an Pflanzen.[^8-1]
 
-## 4 Versicherungsverhältnis
+<sup>3</sup> Der Abschluss einer freiwilligen Versicherung bedarf eines schriftlichen Antrags. Die Versicherungsdauer der freiwilligen Versicherung beträgt minimal drei Jahre und endet Ende Dezember nach Ablauf des dritten Vertragsjahres, verlängert sich jedoch jährlich stillschweigend um ein weiteres Jahr, sofern die Versicherung nicht 30 Tage vor Ablauf durch den Eigentümer oder die Gebäudeversicherung gekündigt wird.[^8-1]
 
-### 4.1 Grundsätze
+<sup>4</sup> Bei Handänderung des Gebäudes bleibt das Vertragsverhältnis mit dem neuen Eigentümer bestehen, sofern dieser die freiwillige Versicherung nicht innert 30 Tagen nach Handänderung kündigt. Das Kündigungsrecht besteht im Falle einer Handänderung ungeachtet der Mindestlaufzeit.[^8-1]
+
+<sup>5</sup> Im Schadenfall hat die Gebäudeversicherung spätestens bei Auszahlung der Entschädigung zu kündigen, der Versicherungsnehmer spätestens 14 Tage, nachdem die Auszahlung der Entschädigung erfolgte. Erfolgt die Kündigung durch die Gebäudeversicherung, erlischt der Versicherungsschutz vier Wochen nach Eintreffen der Kündigung beim Versicherungsnehmer. Erfolgt die Kündigung kundenseitig, erlischt der Versicherungsschutz unmittelbar nach Eintreffen der Kündigung bei der Gebäudeversicherung.[^8-1]
+
+[^8-1]: Fassung gemäss RRB vom 9. Januar 2018, in Kraft getreten am 1. Januar 2019 (Amtsblatt 2018, S. 45).
+
+### IV. Versicherungsverhältnis
+
+- 1\. Grundsätze
 
 #### § 9
 
@@ -119,9 +128,11 @@ beschliesst:
 
 <sup>2</sup> Der Eigentümer meldet der Gebäudeversicherung den Beginn der Bauarbeiten. Der Anmeldung sind ein Situationsplan, die Baupläne und ein summarischer Kostenvoranschlag beizulegen.
 
-<sup>3</sup> Wird die Meldung des Baubeginns unterlassen, ermitteln die Schätzungsorgane anlässlich der Schätzung den Baubeginn, das Bauende und den Umfang der ausgeführten Arbeiten. Die Gebäudeversicherung fordert die ihr dadurch entgangenen Prämien nach (Art. 25 Abs. 1 GebVG).
+<sup>3</sup> Wird die Meldung des Baubeginns unterlassen, ermitteln die Schätzungsorgane anlässlich der Schätzung den Baubeginn, das Bauende und den Umfang der ausgeführten Arbeiten. Die Gebäudeversicherung fordert die ihr dadurch entgangenen Prämien nach (Art.
 
-<sup>4</sup> Wesentliche An-, Aus- und Umbauten sowie Erneuerungen im Sinne von Art. 15 Abs. 1 des Gesetzes sind wertvermehrende Bauarbeiten im Wert von über Fr. 20'000.00.
+25 Abs. 1 GebVG).
+
+<sup>4</sup> Wesentliche An-, Aus- und Umbauten sowie Erneuerungen im Sinne von Art. 15 Abs. 1 des Gesetzes sind wertvermehrende Bauarbeiten im Wert von über 20'000 Franken.
 
 <sup>5</sup> Das Grundbuchamt meldet der Gebäudeversicherung laufend kostenlos alle Handänderungen von Gebäuden unter Angabe des Kaufpreises und erstellt die von ihr verlangten Grundbuchauszüge.
 
@@ -137,23 +148,25 @@ beschliesst:
 
 **Zeitwertversicherung**
 
-<sup>1</sup> Ein Gebäude oder Gebäudeteil wird zum Zeitwert versichert wenn:
+Ein Gebäude oder Gebäudeteil wird zum Zeitwert versichert wenn:
 
-- a) die rechtsgültige Schätzung die Entwertung (Minderwert) des Gebäudes oder eines Gebäudeteiles mit mehr als 50 Prozent des Neuwertes festgelegt hat
-- b) der Ausschluss aus der Neuwertversicherung verfügt wurde
-- c) auf Antrag des Versicherten, wenn er glaubhaft macht, dass ein Gebäude nach einem Schadenfall nicht wiederhergestellt würde
+- a) die rechtsgültige Schätzung die Entwertung (Minderwert) des Gebäudes oder eines Gebäudeteiles mit mehr als 50 Prozent des Neuwertes festgelegt hat;
+
+- b) der Ausschluss aus der Neuwertversicherung verfügt wurde;
+
+- c) auf Antrag des Versicherten, wenn er glaubhaft macht, dass ein Gebäude nach einem Schadenfall nicht wiederhergestellt würde.
 
 #### § 12
 
 **Versicherung mit fester Versicherungssumme**
 
-<sup>1</sup> Ein Gebäude oder Gebäudeteil wird zu einer festen Versicherungssumme versichert, wenn der Eigentümer nach einem Schadenfall das Gebäude oder den Gebäudeteil nur mit unverhältnismässigem Aufwand in gleicher Ausführung wiederaufbauen könnte.
+Ein Gebäude oder Gebäudeteil wird zu einer festen Versicherungssumme versichert, wenn der Eigentümer nach einem Schadenfall das Gebäude oder den Gebäudeteil nur mit unverhältnismässigem Aufwand in gleicher Ausführung wiederaufbauen könnte.
 
 #### § 13
 
 **Abbruchwert**
 
-<sup>1</sup> Die Gebäudeversicherung kann den Versicherungswert von Gebäuden, die für die Versicherten wirtschaftlich wertlos, zum Abbruch vorgesehen oder nicht mehr benutzbar sind, auf den Abbruchwert herabsetzen.
+Die Gebäudeversicherung kann den Versicherungswert von Gebäuden, die für die Versicherten wirtschaftlich wertlos, zum Abbruch vorgesehen oder nicht mehr benutzbar sind, auf den Abbruchwert herabsetzen.
 
 #### § 14
 
@@ -165,7 +178,7 @@ beschliesst:
 
 <sup>3</sup> Kommt der Eigentümer seiner Schadenverhütungspflicht nicht nach, setzt ihm die Gebäudeversicherung eine angemessene Frist zur Behebung der Mängel. Sind die Mängel nach Ablauf der Frist nicht behoben, kann die Gebäudeversicherung das Gebäude ganz oder teilweise von der Versicherungsdeckung ausschliessen. Die Gebäudeversicherung orientiert die Grundpfandgläubiger über den Ausschluss.
 
-### 4.2 Ermittlung der Versicherungswerte
+- 2\. Ermittlung der Versicherungswerte
 
 #### § 15
 
@@ -177,9 +190,9 @@ beschliesst:
 
 <sup>3</sup> Die Gebäudeversicherung setzt Neuwerte oder Zeitwerte verhältnismässig herab, wenn sich der entsprechende Wert des Gebäudes infolge eines Teilschadens um mehr als einen Zehntel vermindert hat.
 
-<sup>4</sup> Für die Schätzungen werden Gebühren in der Höhe von 0.4 Promille des neuen Versicherungswertes, beziehungsweise der Differenz zwischen dem bisherigen und dem neuen Schätzungsergebnis, erhoben. Die Minimalgebühr beträgt Fr. 100.00 pro Gebäude. Von der Gebäudeversicherung angeordnete Revisionsschätzungen ohne bauliche Änderungen sind gebührenfrei.
+<sup>4</sup> Für die Schätzungen werden Gebühren in der Höhe von 0,4 Promille des neuen Versicherungswertes, beziehungsweise der Differenz zwischen dem bisherigen und dem neuen Schätzungsergebnis, erhoben. Die Minimalgebühr beträgt 100 Franken pro Gebäude. Von der Gebäudeversicherung angeordnete Revisionsschätzungen ohne bauliche Änderungen sind gebührenfrei.
 
-### 4.3 Beiträge zur Elementarschadenverhütung
+- 3\. Beiträge zur Elementarschadenverhütung
 
 #### § 16
 
@@ -187,9 +200,11 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungskommission kann in begründeten Einzelfällen Beiträge an die Elementarschadenverhütung bewilligen, wenn:
 
-- a) die Massnahmen nachweisbar wesentlich zum Schutz bestehender versicherter Gebäude beitragen
-- b) bei neu zu erstellenden Gebäuden diese aus wichtigen öffentlichen Interessen in gefährdetem Gebiet erstellt werden müssen
-- c) die Massnahmen nicht durch Baumängel oder mangelhaften Unterhalt bestehender Gebäude oder deren Umgebung verursacht werden wie zum Beispiel durch mangelhafte oder fehlende Stützmauern an Hanglagen, ungenügende Sickerleitungen oder Drainagen sowie mangelhafte Bedachung
+- a) die Massnahmen nachweisbar wesentlich zum Schutz bestehender versicherter Gebäude beitragen;
+
+- b) bei neu zu erstellenden Gebäuden diese aus wichtigen öffentlichen Interessen in gefährdetem Gebiet erstellt werden müssen;
+
+- c) die Massnahmen nicht durch Baumängel oder mangelhaften Unterhalt bestehender Gebäude oder deren Umgebung verursacht werden wie zum Beispiel durch mangelhafte oder fehlende Stützmauern an Hanglagen, ungenügende Sickerleitungen oder Drainagen sowie mangelhafte Bedachung.
 
 <sup>2</sup> Ein Anspruch auf Ausrichtung von Beiträgen zur Elementarschadenverhütung besteht nicht.
 
@@ -197,11 +212,13 @@ beschliesst:
 
 **Ausschluss von Beitragsleistungen**
 
-<sup>1</sup> Keine Beiträge werden ausgerichtet an die Kosten für:
+Keine Beiträge werden ausgerichtet an die Kosten für:
 
-- a) Massnahmen zur Abwehr von Gefahren, die bei der Erstellung des Gebäudes bekannt waren
-- b) Unterhalt und Reparatur von Schutzmassnahmen
-- c) gemeinschaftliche Schutzmassnahmen wie Hang- und Bachverbauungen, Hochwasserschutz an Gewässern, wenn Bund und Kanton daran Beiträge ausrichten
+- a) Massnahmen zur Abwehr von Gefahren, die bei der Erstellung des Gebäudes bekannt waren;
+
+- b) Unterhalt und Reparatur von Schutzmassnahmen;
+
+- c) gemeinschaftliche Schutzmassnahmen wie Hang- und Bachverbauungen, Hochwasserschutz an Gewässern, wenn Bund und Kanton daran Beiträge ausrichten.
 
 #### § 18
 
@@ -209,14 +226,17 @@ beschliesst:
 
 <sup>1</sup> Der Beitrag wird bemessen nach:
 
-- a) der Gefährdung des Gebäudes
-- b) dem Verhältnis der Kosten für die Schutzmassnahmen zum Versicherungswert des Gebäudes
-- c) den wirtschaftlichen Verhältnissen des Gesuchstellers bzw. der Gesuchstellerin
-- d) der Höhe von Beiträgen Dritter
+- a) der Gefährdung des Gebäudes;
+
+- b) dem Verhältnis der Kosten für die Schutzmassnahmen zum Versicherungswert des Gebäudes;
+
+- c) den wirtschaftlichen Verhältnissen des Gesuchstellers bzw. der Gesuchstellerin;
+
+- d) der Höhe von Beiträgen Dritter.
 
 <sup>2</sup> Der Beitrag darf 50 Prozent der Kosten für die Schutzmassnahme nicht übersteigen. Er kann bei ausgewiesener finanzieller Notlage des Gesuchstellers ausnahmsweise bis auf 70 Prozent erhöht werden.
 
-## 5 Finanzierung
+### V. Finanzierung
 
 #### § 19
 
@@ -226,12 +246,17 @@ beschliesst:
 
 <sup>2</sup> Sie erlässt einen Prämientarif, der folgende Grundsätze berücksichtigt:
 
-- a) massgebend für die Prämienfestsetzung sind die Bauart des Gebäudes (Bauklasse), die Zweckbestimmung sowie die Gefährdung durch Nutzung oder Lage (Betriebsklasse). Die Risikobewertung erfolgt bei jeder Neuschätzung des Gebäudes
-- b) ist ein Gebäude einer aussergewöhnlichen Feuer- oder Elementargefahr ausgesetzt, werden Zuschläge auf den Prämien erhoben
-- c) wirkt sich die Gefährdung auf Nachbargebäude aus, ist der Zuschlag auch für diese zu entrichten
-- d) die Prämie oder Prämienzuschläge können reduziert werden, wenn die Sicherheit des Gebäudes freiwillig verbessert wird
-- e) freiwillig gewählte Selbstbehalte bewirken eine Prämienermässigung nach einem besonderen Tarif. Die Prämie ist in dem Umfang zu ermässigen, wie die Haftung der Gebäudeversicherung versicherungstechnisch vermindert wird
-- f) für die Bauzeitversicherung wird ein Zuschlag zur Normalprämie erhoben
+- a) massgebend für die Prämienfestsetzung sind die Bauart des Gebäudes (Bauklasse), die Zweckbestimmung sowie die Gefährdung durch Nutzung oder Lage (Betriebsklasse). Die Risikobewertung erfolgt bei jeder Neuschätzung des Gebäudes;
+
+- b) ist ein Gebäude einer aussergewöhnlichen Feuer- oder Elementargefahr ausgesetzt, werden Zuschläge auf den Prämien erhoben;
+
+- c) wirkt sich die Gefährdung auf Nachbargebäude aus, ist der Zuschlag auch für diese zu entrichten;
+
+- d) die Prämie oder Prämienzuschläge können reduziert werden, wenn die Sicherheit des Gebäudes freiwillig verbessert wird;
+
+- e) freiwillig gewählte Selbstbehalte bewirken eine Prämienermässigung nach einem besonderen Tarif. Die Prämie ist in dem Umfang zu ermässigen, wie die Haftung der Gebäudeversicherung versicherungstechnisch vermindert wird;
+
+- f) für die Bauzeitversicherung wird ein Zuschlag zur Normalprämie erhoben.
 
 #### § 20
 
@@ -251,20 +276,17 @@ beschliesst:
 
 <sup>2</sup> Massgebend für die Zuteilung der Gebäude zu den einzelnen Betriebsklassen sind folgende Gefahrenmomente:
 
-- a) die Brandbelastung allgemein
-- b) die Brennbarkeit der gelagerten und bearbeiteten Stoffe und Waren
-- c) die Schadenwahrscheinlichkeit
-- d) die Elementarschadengefährdung
+- a) die Brandbelastung allgemein;
+
+- b) die Brennbarkeit der gelagerten und bearbeiteten Stoffe und Waren;
+
+- c) die Schadenwahrscheinlichkeit;
+
+- d) die Elementarschadengefährdung.
 
 <sup>3</sup> Die Gebäude werden gemäss den Richtlinien für die Schätzung der Gebäudeversicherungswerte aufgrund der Bewertung der Gefahrenmomente einer der folgenden Betriebsklassen zugeteilt:
 
-<table>
-<tr><th>Betriebsklasse</th><th>Gefahrenmoment</th></tr>
-<tr><td>1</td><td>gering</td></tr>
-<tr><td>2</td><td>erhöht</td></tr>
-<tr><td>3</td><td>hoch</td></tr>
-<tr><td>4</td><td>sehr hoch</td></tr>
-</table>
+Betriebsklasse Gefahrenmoment 1 gering 2 erhöht 3 hoch 4 sehr hoch
 
 #### § 22
 
@@ -278,23 +300,23 @@ beschliesst:
 
 <sup>4</sup> Die Prämien sind innert 30 Tagen nach Rechnungsstellung zu bezahlen. Wird die Prämie nicht fristgerecht bezahlt, ist der Eigentümer zu mahnen. Nach Ablauf einer Frist von 14 Tagen sind Verzugszins und Unkostenersatz geschuldet.
 
-## 6 Reserven und Rückversicherung
+### VI. Reserven und Rückversicherung
 
 #### § 23
 
 **Grundsatz**
 
-<sup>1</sup> Die Gebäudeversicherung ist bestrebt, dass die Prämieneinnahmen, die Reserven und die Rückversicherung in einem ausgewogenen Verhältnis zueinander stehen, damit die Leistungsfähigkeit der Versicherung ständig gewährleistet bleibt. Sie lässt das Risikopotential und die Finanzierung periodisch von Fachleuten begutachten.
+Die Gebäudeversicherung ist bestrebt, dass die Prämieneinnahmen, die Reserven und die Rückversicherung in einem ausgewogenen Verhältnis zueinander stehen, damit die Leistungsfähigkeit der Versicherung ständig gewährleistet bleibt. Sie lässt das Risikopotential und die Finanzierung periodisch von Fachleuten begutachten.
 
-## 7 Schadenfall
+### VII. Schadenfall
 
-### 7.1 Schadenermittlung
+### 1. Schadenermittlung
 
 #### § 24
 
 **Schadenmeldung**
 
-<sup>1</sup> Die Schadenanzeige ist bei der Gebäudeversicherung unverzüglich einzureichen. Sie kann schriftlich oder telefonisch erfolgen. Die Gebäudeversicherung bestätigt den Eingang der Anzeige schriftlich. Die Bestätigung dient als Beweismittel für die erfolgte Schadenanzeige.
+Die Schadenanzeige ist bei der Gebäudeversicherung unverzüglich einzureichen. Sie kann schriftlich oder telefonisch erfolgen. Die Gebäudeversicherung bestätigt den Eingang der Anzeige schriftlich. Die Bestätigung dient als Beweismittel für die erfolgte Schadenanzeige.
 
 #### § 25
 
@@ -304,9 +326,11 @@ beschliesst:
 
 <sup>2</sup> Die Untersuchungsbehörde teilt der Gebäudeversicherung so rasch als möglich mit:
 
-- a) das Untersuchungsergebnis über die Schadenursache
-- b) die Eröffnung eines Strafverfahrens
-- c) das Strafurteil
+- a) das Untersuchungsergebnis über die Schadenursache;
+
+- b) die Eröffnung eines Strafverfahrens;
+
+- c) das Strafurteil.
 
 <sup>3</sup> Die Gebäudeversicherung übernimmt die üblicherweise anfallenden Untersuchungskosten. Sie trägt die Kosten von Expertisen, die sie beantragt oder für die sie Kostengutsprache geleistet hat.
 
@@ -314,7 +338,7 @@ beschliesst:
 
 **Sicherheits- und Schutzmassnahmen**
 
-<sup>1</sup> Sicherheits- und Schutzmassnahmen, wie der Abbruch des Gebäudes oder einzelner Gebäudeteile oder der Aufbau eines Notdaches, werden von der Direktion angeordnet.
+Sicherheits- und Schutzmassnahmen, wie der Abbruch des Gebäudes oder einzelner Gebäudeteile oder der Aufbau eines Notdaches, werden von der Direktion angeordnet.
 
 #### § 27
 
@@ -324,7 +348,7 @@ beschliesst:
 
 <sup>2</sup> Das Ergebnis der Schadenschätzung wird dem Eigentümer durch Verfügung schriftlich mitgeteilt.
 
-### 7.2 Entschädigung
+- 2\. Entschädigung
 
 #### § 28
 
@@ -348,7 +372,7 @@ beschliesst:
 
 **Schäden an unvollendeten Gebäuden**
 
-<sup>1</sup> Für Schäden an unvollendeten Gebäuden werden die zur Zeit des Schadenereignisses eingebauten und mit dem Gebäude zu versichernden Teile und Einrichtungen vergütet.
+Für Schäden an unvollendeten Gebäuden werden die zur Zeit des Schadenereignisses eingebauten und mit dem Gebäude zu versichernden Teile und Einrichtungen vergütet.
 
 #### § 31
 
@@ -368,7 +392,7 @@ beschliesst:
 
 <sup>3</sup> Ist ein Schaden die Folge eines feuerpolizeilichen oder anderen Mangels, werden die Versicherungsleistungen erst ausbezahlt, wenn der Mangel in zumutbarem Umfang behoben worden ist.
 
-## 8 Schlussbestimmung
+### VIII. Schlussbestimmung
 
 #### § 33
 
@@ -380,6 +404,6 @@ beschliesst:
 
 <sup>3</sup> Sie ersetzt die Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhausen vom 14. August 1973.
 
-[^33-1]: Amtsblatt 2004, S. 405.
+Fussnoten:
 
-Abl. 2004, S. 405
+[^33-1]: Amtsblatt 2004, S. 405.
