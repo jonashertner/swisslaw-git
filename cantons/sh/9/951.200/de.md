@@ -4,52 +4,54 @@ number: "951.200"
 title: Gesetz über eine Jubiläumsausschüttung 2008 der Schaffhauser Kantonalbank
 language: de
 version: 2008-09-01
+corrected: 2024-06-09
 version_adopted: 2008-05-19
 adopted: 2008-05-19
 in_force: 2008-09-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/951.200"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1098/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/355/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Gesetz über eine Jubiläumsausschüttung 2008 der Schaffhauser Kantonalbank
 
-Vom 19.05.2008 (Stand 01.09.2008)
+vom 19. Mai 2008
 
-Der Kantonsrat Schaffhausen,
+Der Kantonsrat Schaffhausen
 
-beschliesst:
+beschliesst als Gesetz:
 
-## 1 Mittel
+## I. Mittel
 
 #### Art. 1
 
 **Umfang der Ausschüttung**
 
-<sup>1</sup> Aus Anlass des 125-Jahr-Jubiläums ihres Bestehens schüttet die Schaffhauser Kantonalbank einen Betrag von höchstens Fr. 65'000'000.00 aus.
+Aus Anlass des 125-Jahr-Jubiläums ihres Bestehens schüttet die Schaffhauser Kantonalbank einen Betrag von höchstens 65 Mio. Franken aus.
 
 #### Art. 2
 
 **Verwendung**
 
-<sup>1</sup> Aus diesen Mitteln wird:
+Aus diesen Mitteln wird a) eine Sonderausschüttung von 40 Mio. Franken an den Kanton getätigt,
 
-- a) eine Sonderausschüttung von Fr. 40'000'000.00 an den Kanton getätigt
-- b) ein Jubiläumsfonds Schaffhauser Kantonalbank mit einem Anfangsvermögen von Fr. 15'000'000.00 errichtet und
-- c) den Schaffhauser Gemeinden ein Betrag von höchstens Fr. 10'000'000.00 ausgerichtet
+- b) ein Jubiläumsfonds Schaffhauser Kantonalbank mit einem Anfangsvermögen von 15 Mio. Franken errichtet und
+
+- c) den Schaffhauser Gemeinden ein Betrag von höchstens 10 Mio. Franken ausgerichtet.
 
 #### Art. 3
 
 **Herkunft der Mittel**
 
-<sup>1</sup> Bei den Mitteln, die gemäss Art. 2 lit. a und c verwendet werden, handelt es sich um eine Jubiläumsausschüttung der Schaffhauser Kantonalbank aus den Reserven für allgemeine Bankrisiken, für die der Verteilschlüssel von Art. 33 Abs. 1 des Gesetzes über die Schaffhauser Kantonalbank vom 31. Januar 1983[^3-1] nicht zur Anwendung gelangt.
+<sup>1</sup> Bei den Mitteln, die gemäss Art. 2 lit. a und c verwendet werden, handelt es sich um eine Jubiläumsausschüttung der Schaffhauser Kantonalbank aus den Reserven für allgemeine Bankrisiken, für die der Verteilschlüssel von Art. 33 Abs. 1 des Gesetzes über die Schaffhauser Kantonalbank vom 31. Januar 1983 <sup>1)</sup> nicht zur Anwendung gelangt.
+
+Amtsblatt 2008, S. 743
 
 <sup>2</sup> Die Mittel zur Verwendung gemäss Art. 2 lit. b stammen ebenfalls aus den Reserven für allgemeine Bankrisiken.
 
-[^3-1]: SHR [951.100](https://rechtsbuch.sh.ch/data/951.100/de).
-
-## 2 Jubiläumsfonds Schaffhauser Kantonalbank
+## II. Jubiläumsfonds Schaffhauser Kantonalbank
 
 #### Art. 4
 
@@ -63,17 +65,17 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Art der Unterstützung, die Verwaltung des Fondsvermögens und die Organisation über die Behandlung von Gesuchen wird in einem vom Bankrat zu erlassenden Reglement festgelegt.
+Die Art der Unterstützung, die Verwaltung des Fondsvermögens und die Organisation über die Behandlung von Gesuchen wird in einem vom Bankrat zu erlassenden Reglement festgelegt.
 
-## 3 Beitrag an die Schaffhauser Gemeinden
+## III. Beitrag an die Schaffhauser Gemeinden
 
 #### Art. 6
 
 **Beitragshöhe**
 
-<sup>1</sup> Der Beitrag an die Schaffhauser Gemeinden gemäss Art. 2 lit. c beläuft sich auf Fr. 125.00 pro Einwohner (Stand 31. Dezember 2007).
+Der Beitrag an die Schaffhauser Gemeinden gemäss Art. 2 lit. c beläuft sich auf Fr. 125.-- pro Einwohner (Stand 31. Dezember 2007).
 
-## 4 Schlussbestimmung
+## IV. Schlussbestimmung
 
 #### Art. 7
 
@@ -81,11 +83,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten[^7-1].
+<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten <sup>2)</sup>.
 
-<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^7-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen <sup>3)</sup> und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
 
-[^7-1]: In Kraft getreten am 1. September 2008 (Amtsblatt 2008, S. 1209).
-[^7-2]: Amtsblatt 2008, S. 743.
+- 1) SHR 951.100
 
-Abl. 2008, S. 743, S. 1209
+- 2) In Kraft getreten am 1. September 2008 (Amtsblatt 2008, S. 1209).
+
+- 3) Amtsblatt 2008, S. 743.
