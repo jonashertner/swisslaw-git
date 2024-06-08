@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Zivildienstgesetzes
 document: Vernehmlassungsvorlage
 language: de

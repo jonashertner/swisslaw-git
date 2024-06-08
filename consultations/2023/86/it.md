@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sul servizio civile
 document: Progetto posto in consultazione
 language: it
