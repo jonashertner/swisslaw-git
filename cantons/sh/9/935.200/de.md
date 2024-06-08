@@ -4,20 +4,22 @@ number: "935.200"
 title: Tourismusförderungsgesetz
 language: de
 version: 2018-01-01
+corrected: 2024-06-09
 version_adopted: 2017-05-15
 adopted: 2017-05-15
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.200"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1083/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/316/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Tourismusförderungsgesetz
 
-Vom 15.05.2017 (Stand 01.01.2018)
+vom 15. Mai 2017
 
-## 1 Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -33,13 +35,15 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 **Ziele**
 
-<sup>1</sup> Ziele der Tourismusförderung sind:
+Ziele der Tourismusförderung sind:
 
-- a) Die Verbesserung der Wahrnehmung des Kantons Schaffhausen als attraktive Tourismusregion
-- b) Die Erhöhung der Anzahl sowie der Aufenthaltsdauer der Gäste im Kanton Schaffhausen und die Steigerung der Wertschöpfung
-- c) Die Information über touristische Angebote, namentlich mittels Betrieb von Internetplattformen und Tourist Offices, welche auch der einheimischen Bevölkerung dienen
+- a) Die Verbesserung der Wahrnehmung des Kantons Schaffhausen als attraktive Tourismusregion.
 
-## 2 Fördermassnahmen
+- b) Die Erhöhung der Anzahl sowie der Aufenthaltsdauer der Gäste im Kanton Schaffhausen und die Steigerung der Wertschöpfung.
+
+- c) Die Information über touristische Angebote, namentlich mittels Betrieb von Internetplattformen und Tourist Offices, welche auch der einheimischen Bevölkerung dienen.
+
+## II. Fördermassnahmen
 
 #### Art. 3
 
@@ -49,16 +53,19 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 <sup>2</sup> Die Kurtaxen sind insbesondere für die Information über touristische Angebote gemäss Art. 2 lit. c zu verwenden.
 
+Amtsblatt 2017, S. 797
+
 #### Art. 4
 
 **Voraussetzungen für Förderbeiträge**
 
-<sup>1</sup> Die Förderbeiträge werden an eine Tourismusorganisation ausgerichtet, die:
+<sup>1</sup> Die Förderbeiträge werden an eine Tourismusorganisation ausgerichtet, die a) ein auf mindestens vier Jahre ausgerichtetes Konzept zur Erreichung der Ziele gemäss Art. 2 einreicht;
 
-- a) ein auf mindestens vier Jahre ausgerichtetes Konzept zur Erreichung der Ziele gemäss Art. 2 einreicht
-- b) die erforderlichen professionellen Strukturen und fachlichen Fähigkeiten für die effiziente Umsetzung des Konzepts aufweist
-- c) sich mit eigenerwirtschafteten Mitteln angemessen an der Umsetzung des Konzepts beteiligen kann
-- d) einen wesentlichen Anteil der touristischen Leistungsträger vertritt
+- b) die erforderlichen professionellen Strukturen und fachlichen Fähigkeiten für die effiziente Umsetzung des Konzepts aufweist;
+
+- c) sich mit eigenerwirtschafteten Mitteln angemessen an der Umsetzung des Konzepts beteiligen kann;
+
+- d) einen wesentlichen Anteil der touristischen Leistungsträger vertritt.
 
 <sup>2</sup> Durch geeignete Publikation ist Gelegenheit zur Einreichung von Gesuchen um Ausrichtung der Beiträge zu geben.
 
@@ -74,19 +81,19 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 <sup>3</sup> Die Leistungsvereinbarung ist in geeigneter Weise zu publizieren.
 
-## 3 Beiträge
+## III. Beiträge
 
 #### Art. 6
 
 **Beitrag des Kantons**
 
-<sup>1</sup> Der Kanton entrichtet einen jährlichen Beitrag von Fr. 250'000.00.
+Der Kanton entrichtet einen jährlichen Beitrag von 250'000 Franken.
 
 #### Art. 7
 
 **Beiträge der Gemeinden**
 
-<sup>1</sup> Die Gemeinden Neuhausen am Rheinfall, Schaffhausen und Stein am Rhein entrichten jährliche Beiträge von Fr. 4.00 pro Einwohner. Die übrigen Gemeinden entrichten jährliche Beiträge von Fr. 2.00 pro Einwohner.
+<sup>1</sup> Die Gemeinden Neuhausen am Rheinfall, Schaffhausen und Stein am Rhein entrichten jährliche Beiträge von 4 Franken pro Einwohner. Die übrigen Gemeinden entrichten jährliche Beiträge von 2 Franken pro Einwohner.
 
 <sup>2</sup> Die Beiträge der Gemeinden bemessen sich anhand der vom Kanton Schaffhausen jährlich publizierten Einwohnerzahlen per 31. Dezember des Vorjahres.
 
@@ -94,7 +101,7 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 **Kurtaxe**
 
-<sup>1</sup> Der Kanton erhebt eine Kurtaxe von Fr. 2.50 pro Übernachtung in einem Beherbergungsbetrieb.
+<sup>1</sup> Der Kanton erhebt eine Kurtaxe von 2.50 Franken pro Übernachtung in einem Beherbergungsbetrieb.
 
 <sup>2</sup> Als Beherbergungsbetrieb gilt, wer Übernachtungsmöglichkeiten gegen Entgelt anbietet, wie insbesondere Hotels, Motels, Pensionen, Kurbetriebe, Ferienhäuser, Ferienwohnungen, private Fremdenzimmer, Campingplätze, Gruppenunterkünfte, Jugendherbergen, Massenlager, Bed and Breakfast-Betriebe, über Internet-Plattformen angebotene Unterkünfte und Bauernhöfe mit Übernachtungsangebot.
 
@@ -116,9 +123,9 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 **Schweigepflicht**
 
-<sup>1</sup> Personen, die mit dem Einziehen und Weiterleiten der Kurtaxe betraut sind, sind zur Verschwiegenheit über die Angaben der Abgabepflichtigen verpflichtet.
+Personen, die mit dem Einziehen und Weiterleiten der Kurtaxe betraut sind, sind zur Verschwiegenheit über die Angaben der Abgabepflichtigen verpflichtet.
 
-## 4 Tourismusförderungsfonds
+## IV. Tourismusförderungsfonds
 
 #### Art. 11
 
@@ -130,7 +137,7 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 <sup>3</sup> Näheres regelt der Regierungsrat durch Verordnung.
 
-## 5 Rechtspflege
+## V. Rechtspflege
 
 #### Art. 12
 
@@ -150,7 +157,7 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 <sup>2</sup> Die zurückerstatteten Förderbeiträge gehen nach Massgabe der geleisteten Beiträge an den Kanton und die Gemeinden.
 
-## 6 Schlussbestimmungen
+## VI. Schlussbestimmungen
 
 #### Art. 14
 
@@ -162,7 +169,7 @@ Vom 15.05.2017 (Stand 01.01.2018)
 
 <sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^14-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^14-1]: In Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 1990).
 [^14-2]: Amtsblatt 2017, S. 797.
-
-Abl. 2017, S. 797, S. 1990
