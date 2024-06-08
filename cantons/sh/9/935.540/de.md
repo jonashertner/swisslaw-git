@@ -5,38 +5,38 @@ title: Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von G
 short: IKV 2020
 language: de
 version: 2021-01-01
+corrected: 2024-06-09
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2021-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.540"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1092/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1087/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen
+# Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020)
 
-(IKV 2020)
+vom 20. Mai 2019
 
-Vom 20.05.2019 (Stand 01.01.2021)
+Ingress Die dieser Vereinbarung beitretenden Kantone, im Bestreben, die mit der IKV 1937 <sup>1)</sup> errichtete Zusammenarbeit auch unter dem geänderten Bundesrecht (Bundesgesetz über die Geldspiele, SR 935.51) weiter zu führen,
 
-Die dieser Vereinbarung beitretenden Kantone,
+gestützt auf • Art. 48 der Bundesverfassung vom 18. April 1999 (SR 101) • das Bundesgesetz über Geldspiele vom 29. September 2017, SR 935.51) • das gesamtschweizerische Geldspielkonkordat vom 20. Mai 2019 (GSK)
 
-im Bestreben, die mit der IKV 1937[^ingress-1] errichtete Zusammenarbeit auch unter dem geänderten Bundesrecht (Bundesgesetz über die Geldspiele, SR [935.51](http://db.clex.ch/link/Bund/935.51/de)) weiter zu führen, gestützt auf Art. 48 der Bundesverfassung vom 18. April 1999 (SR [101](http://db.clex.ch/link/Bund/101/de)), das Bundesgesetz über Geldspiele vom 29. September 2017, SR [935.51](http://db.clex.ch/link/Bund/935.51/de)), das gesamtschweizerische Geldspielkonkordat vom 20. Mai 2019 (GSK),
-
-beschliessen:
-
-[^ingress-1]: Interkantonale Vereinbarung über die gemeinsame Durchführung von Lotterien vom 26. Mai 1937.
+vereinbaren:
 
 #### Art. 1
 
 **Leistungsauftrag Swisslos**
 
-<sup>1</sup> Die dieser Vereinbarung beitretenden Kantone (nachfolgend als «Vereinbarungskantone» bezeichnet) betreiben die Genossenschaft «Swisslos Interkantonale Landeslotterie» (nachfolgend als «Swisslos» bezeichnet).
+<sup>1</sup> Die dieser Vereinbarung beitretenden Kantone (nachfolgend als «Vereinbarungskantone» bezeichnet) betreiben die Genossenschaft «Swisslos Interkantonale Landeslotterie» (nachfolgend als „Swisslos“ bezeichnet).
 
 <sup>2</sup> Swisslos veranstaltet Geldspiele im Auftrag der Vereinbarungskantone, nach Massgabe des BGS, des gesamtschweizerischen Geldspielkonkordats sowie der vorliegenden Vereinbarung.
 
 <sup>3</sup> In Anwendung von Art. 23 Abs. 2 BGS wird Swisslos als einzige Veranstalterin von Lotterie- und Sportwetten-Grossspielen auf dem Gebiet der Vereinbarungskantone bezeichnet.
+
+Amtsblatt 2020, S. 165
 
 #### Art. 2
 
@@ -48,8 +48,9 @@ beschliessen:
 
 <sup>3</sup> Die nach Zuweisung des Reingewinnanteils nach Abs. 2 verbleibenden Reingewinne sind den Vereinbarungskantonen jährlich nach folgendem Verteilschlüssel abzuliefern:
 
-- a) Reingewinn aus Losen: Jedem Kanton ein Fixum von Fr. 70'000.00, der Rest nach Bevölkerungszahlen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl
-- b) Reingewinn aus übrigen Spielen: 50% nach Bevölkerung, 50% nach Spieleinsätzen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl
+- a) Reingewinn aus Losen: Jedem Kanton ein Fixum von CHF 70‘000, der Rest nach Bevölkerungszahlen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl.
+
+- b) Reingewinn aus übrigen Spielen: 50 % nach Bevölkerung, 50 % nach Spieleinsätzen. Massgebend ist die gemäss der letzten Volkszählung ermittelte Bevölkerungszahl.
 
 <sup>4</sup> Der Anteil am Reingewinn einer Spielkategorie steht einem Vereinbarungskanton nur dann zu, wenn die entsprechende Spielkategorie in seinem Gebiet nicht verboten ist im Sinne von Art. 28 BGS.
 
@@ -57,13 +58,15 @@ beschliessen:
 
 **Vertretung der Vereinbarungskantone in der Genossenschaft**
 
-<sup>1</sup> Die Vereinbarungskantone entsenden je ein Regierungsmitglied in die Generalversammlung der Swisslos.
+Die Vereinbarungskantone entsenden je ein Regierungsmitglied in die Generalversammlung der Swisslos.
 
 #### Art. 4
 
 **Gemeinsame Bestimmungen für Kleinlotterien**
 
-<sup>1</sup> Die Gesamtsumme (Kontingent) der von einem Vereinbarungskanton in einem Kalenderjahr bewilligten Kleinlotterien im Sinne des Art. 34 BGS darf höchstens Fr. 2.50 pro Kopf seiner Wohnbevölkerung betragen. Eine Mindestsumme von Fr. 100'000.00 steht jedem Kanton unabhängig seiner Bevölkerungszahl zur Verfügung.
+<sup>1</sup> Die Gesamtsumme (Kontingent) der von einem Vereinbarungskanton in einem Kalenderjahr bewilligten Kleinlotterien im Sinne des Art.
+
+34 BGS darf höchstens Fr. 2.50 pro Kopf seiner Wohnbevölkerung betragen. Eine Mindestsumme von Fr. 100'000.— steht jedem Kanton unabhängig seiner Bevölkerungszahl zur Verfügung.
 
 <sup>2</sup> Die Übertragung ungenutzter Kontingentsteile von einem auf das nächste Kalenderjahr ist nicht zulässig.
 
@@ -73,7 +76,7 @@ beschliessen:
 
 **Bekanntmachung der Gemeinnützigkeit**
 
-<sup>1</sup> Die Vereinbarungskantone verpflichten sich, die Herkunft der Mittel bei deren Vergabe zu kommunizieren und den Benefiziaren aufzuerlegen, die erhaltene Unterstützung mindestens unter Verwendung des Logos von Swisslos bekannt zu machen.
+Die Vereinbarungskantone verpflichten sich, die Herkunft der Mittel bei deren Vergabe zu kommunizieren und den Benefiziaren aufzuerlegen, die erhaltene Unterstützung mindestens unter Verwendung des Logos von Swisslos bekannt zu machen.
 
 #### Art. 6
 
@@ -97,29 +100,34 @@ beschliessen:
 
 **Verhältnis zum Gesamtschweizerischen Geldspielkonkordat**
 
-<sup>1</sup> Im Falle eines Widerspruchs gehen die Bestimmungen des GSK den Bestimmungen der vorliegenden Vereinbarung vor.
+Im Falle eines Widerspruchs gehen die Bestimmungen des GSK den Bestimmungen der vorliegenden Vereinbarung vor.
 
 #### Art. 9
 
 **Inkrafttreten der Vereinbarung**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr alle Vereinbarungskantone der IKV 1937 beigetreten sind[^9-1].
+<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr alle Vereinbarungskantone der IKV 1937 beigetreten sind.
 
-<sup>2</sup> Die Zustimmung ist gegenüber der Generalversammlung der Swisslos zu erklären. Sie teilt das Inkrafttreten den Kantonen sowie dem Bund mit[^9-2].
-
-[^9-1]: Beitritt des Kantons Schaffhausen durch KRB vom 20.&lt; Januar 2020 (Amtsblatt 2020, S. 164, 2021, S. 66).
-[^9-2]: In Kraft getreten am 1. Januar 2021 gemäss Schreiben der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz vom 17. Dezember 2020.
+<sup>2</sup> Die Zustimmung ist gegenüber der Generalversammlung der Swisslos zu erklären. Sie teilt das Inkrafttreten den Kantonen sowie dem Bund mit.
 
 #### Art. 10
 
 **Aufhebung der IKV 1937**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Vereinbarung werden sämtliche Bestimmungen der IKV 1937 aufgehoben.
+Mit dem Inkrafttreten dieser Vereinbarung werden sämtliche Bestimmungen der IKV 1937 aufgehoben.
 
 #### Art. 11
 
 **Schlussbestimmung**
 
-<sup>1</sup> Swisslos passt die Statuten innert einer Frist von 6 Monaten ab Inkrafttreten dieser Vereinbarung an.
+Swisslos passt die Statuten innert einer Frist von 6 Monaten ab Inkrafttreten dieser Vereinbarung an.
 
-Abl. 2020, S. 165
+Beschlossen von den Vertretungen der Kantone der Deutschschweiz und des Kantons Tessin der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz zu Handen der Ratifikation in den Kantonen am 20. Mai 2019.
+
+In Kraft getreten am 1. Januar 2021 gemäss Schreiben der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz vom 17. Dezember 2020.
+
+Fussnoten:
+
+## Weitere Fussnoten
+
+- [1] Interkantonale Vereinbarung über die gemeinsame Durchführung von Lotterien vom 26. Mai 1937.
