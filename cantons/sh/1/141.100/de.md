@@ -4,40 +4,43 @@ number: "141.100"
 title: Bürgerrechtsgesetz
 language: de
 version: 2023-01-01
+corrected: 2024-06-10
 version_adopted: 2022-07-04
 adopted: 1991-09-23
 in_force: 1992-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/141.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1106/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/61/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Bürgerrechtsgesetz
 
-Vom 23.09.1991 (Stand 01.01.2023)
+vom 23. September 1991
 
-Der Grosse Rat des Kantons Schaffhausen,
+Der Grosse Rat des Kantons Schaffhausen
 
-beschliesst:
+beschliesst als Gesetz:
 
-## 1 Erwerb und Verlust des Bürgerrechts von Gesetzes wegen
+### I. Erwerb und Verlust des Bürgerrechts von Gesetzes wegen
 
-### 1.1 Erwerb
+- 1\. Erwerb
 
 #### Art. 1
 
 **Bundesrecht**
 
-<sup>1</sup> Erwerb und Verlust des Gemeinde- und Kantonsbürgerrechts von Gesetzes wegen richten sich nach den Vorschriften des Bundesrechts[^1-1].
+Erwerb und Verlust des Gemeinde- und Kantonsbürgerrechts von Gesetzes wegen richten sich nach den Vorschriften des Bundesrechts[^1-1].
 
-[^1-1]: SR [141.0](http://db.clex.ch/link/Bund/141.0/de).
+[^1-1]: SR 141.0.
+[^1-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 2
 
-**Zuständigkeit**
+**Zuständigkeit 12)**[^1-2]
 
-<sup>1</sup> Für Entscheide und Stellungnahmen des Kantons aufgrund des Bundesrechts und dieses Gesetzes ist das für das Bürgerrecht zuständige Departement zuständig, soweit keine besondere Zuständigkeit vorgesehen ist.
+Für Entscheide und Stellungnahmen des Kantons aufgrund des Bundesrechts und dieses Gesetzes ist das für das Bürgerrecht zuständige Departement zuständig, soweit keine besondere Zuständigkeit vorgesehen ist.
 
 #### Art. 3
 
@@ -45,115 +48,148 @@ beschliesst:
 
 <sup>1</sup> Findelkinder erhalten das Bürgerrecht derjenigen Gemeinde, in welcher sie gefunden werden, und damit gleichzeitig das Kantonsbürgerrecht.
 
-<sup>2</sup> Wird ihre Abstammung nachträglich festgestellt, verlieren sie das aufgrund von Abs. 1 erworbene Bürgerrecht, sofern sie noch minderjährig sind und dadurch nicht staatenlos werden.
+<sup>2</sup> Wird ihre Abstammung nachträglich festgestellt, verlieren sie das aufgrund von Abs. 1 erworbene Bürgerrecht, sofern sie noch minderjährig[^3-1] sind und dadurch nicht staatenlos werden.
+
+Amtsblatt 1992, S. 16; Rechtsbuch 1964, Nr. 10a.
+
+[^3-1]: Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^3-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 4
 
-**Gemeindezusammenschluss**
+**Gemeindezusammenschluss**[^3-2]
 
-<sup>1</sup> Schliessen sich Gemeinden zusammen, erhalten die Bürgerinnen und Bürger von Gesetzes wegen das Bürgerrecht der neuen Gemeinde.
+Schliessen sich Gemeinden zusammen, erhalten die Bürgerinnen und Bürger von Gesetzes wegen das Bürgerrecht der neuen Gemeinde.
 
-### 1.2 Verlust
+- 2\. Verlust[^4-1]
+
+[^4-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 5
 
-**Verlust durch Erwerb eines anderen Bürgerrechts**
+**Verlust durch Erwerb eines anderen Bürgerrechts 12)**[^4-1]
 
 <sup>1</sup> Wer das Kantonsbürgerrecht besitzt und das Bürgerrecht eines anderen Kantons erwirbt, verliert das Kantonsbürgerrecht und die Bürgerrechte der Schaffhauser Gemeinden, wenn auf Mitteilung des zuständigen Departements hin nicht binnen eines Monates eine schriftliche Beibehaltungserklärung abgegeben wird.
 
-<sup>2</sup> Abs. 1 gilt sinngemäss auch für das bisherige Gemeindebürgerrecht von Kantonsbürgerinnen oder ‑bürgern, die das Bürgerrecht einer anderen Schaffhauser Gemeinde erwerben.
+<sup>2</sup> Abs. 1 gilt sinngemäss auch für das bisherige Gemeindebürgerrecht von Kantonsbürgerinnen oder -bürgern, die das Bürgerrecht einer anderen Schaffhauser Gemeinde erwerben.
 
 <sup>3</sup> Die Erteilung des Ehrenbürgerrechts bewirkt nicht den Verlust der bisherigen Bürgerrechte.
 
-## 2 Erwerb durch Einbürgerung
+### II. Erwerb durch Einbürgerung
 
-### 2.1 Allgemeine Bestimmungen
+- 1\. Allgemeine Bestimmungen
+
+[^hIIErwerbdurchEin-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 6
 
-**Eignung**
+**Eignung 12)**[^hIIErwerbdurchEin-1]
 
 <sup>1</sup> Wer sich um die Erteilung des Gemeinde- und Kantonsbürgerrechts bewirbt, muss aufgrund seiner persönlichen Verhältnisse hierzu geeignet sein.
 
-<sup>2</sup> Geeignet ist insbesondere, wer:
+<sup>2</sup> Geeignet ist insbesondere, wer a) in die kommunalen, kantonalen und schweizerischen Verhältnissen eingegliedert ist;
 
-- a) in die kommunalen, kantonalen und schweizerischen Verhältnissen eingegliedert ist
-- b) mit den Lebensgewohnheiten, Sitten und Gebräuchen des Landes vertraut ist
-- c) die schweizerische Rechtsordnung beachtet und die innere und äussere Sicherheit der Schweiz nicht gefährdet
-- d) die mit dem Bürgerrecht verbundenen Rechte und Pflichten kennt
-- e) ausreichende Sprachkenntnisse zur Verständigung mit Behörden, Mitbürgerinnen und Mitbürgern besitzt
-- f) geordnete persönliche und finanzielle Verhältnisse aufweist
+- b) mit den Lebensgewohnheiten, Sitten und Gebräuchen des Landes vertraut ist;
+
+- c) die schweizerische Rechtsordnung beachtet und die innere und äussere Sicherheit der Schweiz nicht gefährdet;
+
+- d) die mit dem Bürgerrecht verbundenen Rechte und Pflichten kennt;
+
+- e) ausreichende Sprachkenntnisse zur Verständigung mit Behörden, Mitbürgerinnen und Mitbürgern besitzt;
+
+- f) geordnete persönliche und finanzielle Verhältnisse aufweist.
 
 <sup>3</sup> Aus achtenswerten Gründen kann das Bürgerrecht auch erteilt werden, wenn die lit. e und f nur teilweise erfüllt sind.
 
+[^6-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 7
 
-**Weitere Voraussetzungen**
+**Weitere Voraussetzungen 12)**[^6-1]
 
 <sup>1</sup> Wer das Gesuch um Aufnahme ins Bürgerrecht stellt, muss seit mindestens zwei Jahren und ohne Unterbruch Wohnsitz in der entsprechenden Gemeinde nachweisen.
 
 <sup>2</sup> Bei ausländischen Staatsangehörigen wird der Einbürgerungsentscheid erst wirksam, wenn sie die eidgenössische Einbürgerungsbewilligung erhalten haben.
 
+[^7-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 8
 
-**Ehegatten und Kinder**
+**Ehegatten und Kinder**[^7-1]
 
 <sup>1</sup> Jeder Ehegatte kann das Gesuch um Einbürgerung stellen.
 
-<sup>2</sup> Die unter der elterlichen Sorge stehenden minderjährigen Kinder werden in der Regel in die Einbürgerung einbezogen; Art. 9 Abs. 2 ist sinngemäss anwendbar. Nicht einbezogen werden Kinder der mit dem schweizerischen Vater verheirateten Mutter, welche das Kantons- und Gemeindebürgerrecht erwirbt.
+<sup>2</sup> Die unter der elterlichen Sorge stehenden minderjährigen[^8-1] Kinder werden in der Regel in die Einbürgerung einbezogen; Art. 9 Abs. 2 ist sinngemäss anwendbar. Nicht einbezogen werden Kinder der mit dem schweizerischen Vater verheirateten Mutter, welche das Kantons- und Gemeindebürgerrecht erwirbt.
+
+[^8-1]: Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^8-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 9
 
-**Minderjährige und Personen unter umfassender Beistandschaft**
+**Minderjährige und Personen unter umfassender Beistandschaft 15)**[^8-2]
 
-<sup>1</sup> Für Minderjährige oder Personen unter umfassender Beistandschaft ist das Gesuch um selbständige Einbürgerung von der Person zu stellen, der die gesetzliche Vertretung zusteht.
+<sup>1</sup> Für Minderjährige[^9-1] oder Personen unter umfassender Beistandschaft[^9-1] ist das Gesuch um selbständige Einbürgerung von der Person zu stellen, der die gesetzliche Vertretung zusteht.
 
 <sup>2</sup> Wer das 16. Altersjahr vollendet hat und urteilsfähig ist, hat zudem seinen eigenen Willen auf Erwerb des Bürgerrechts schriftlich zu erklären.
 
-<sup>3</sup> …
+<sup>3</sup> …[^9-2]
 
-### 2.2 Ordentliches Verfahren
+- 2\. Ordentliches Verfahren[^9-3]
+
+[^9-1]: Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^9-2]: Aufgehoben durch G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^9-3]: Eingefügt durch G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+[^9-4]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 10
 
-**Zuständigkeit**
+**Zuständigkeit**[^9-4]
 
 <sup>1</sup> Die Gemeinde bestimmt in ihrer Verfassung das für die Erteilung des Gemeindebürgerrechts zuständige Organ. Wird das Bürgerrecht nicht vom Gemeinderat erteilt, stellt dieser Antrag.
 
 <sup>2</sup> Das Kantonsbürgerrecht wird durch den Regierungsrat erteilt.
 
+[^10-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 11
 
-**Zeitpunkt des Bürgerrechtserwerbes**
+**Zeitpunkt des Bürgerrechtserwerbes 12)**[^10-1]
 
-<sup>1</sup> Das Gemeindebürgerrecht wird mit der Erteilung des Kantonsbürgerrechts rechtswirksam.
+Das Gemeindebürgerrecht wird mit der Erteilung des Kantonsbürgerrechts rechtswirksam.
 
-### 2.3 Vereinfachtes Verfahren
+- 3\. Vereinfachtes Verfahren[^11-1]
+
+[^11-1]: Eingefügt durch G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+[^11-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 12
 
-**Zuständigkeit**
+**Zuständigkeit 12)**[^11-2]
 
 <sup>1</sup> Für den Entscheid im vereinfachten Verfahren ist der Gemeinderat zuständig.
 
 <sup>2</sup> Wer im vereinfachten Verfahren eingebürgert wird und das Kantonsbürgerrecht noch nicht besitzt, erhält das Kantonsbürgerrecht mit der Erteilung des Gemeindebürgerrechts.
 
+[^12-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 13
 
-**Anwendungsbereich**
+**Anwendungsbereich 12)**[^12-1]
 
-<sup>1</sup> Das vereinfachte Verfahren ist anwendbar bei:
+<sup>1</sup> Das vereinfachte Verfahren ist anwendbar bei a) Schweizerinnen und Schweizern;
 
-- a) Schweizerinnen und Schweizern
-- b) Ausländerinnen und Ausländern, die nachweisen, dass sie acht Jahre der obligatorischen Schulpflicht in der Schweiz erfüllt und überwiegend in der Schweiz gelebt haben. Vorbehalten bleibt die Zustimmung des Kantons
+- b) Ausländerinnen und Ausländern, die nachweisen, dass sie acht Jahre der obligatorischen Schulpflicht in der Schweiz erfüllt und überwiegend in der Schweiz gelebt haben. Vorbehalten bleibt die Zustimmung des Kantons.
 
 <sup>2</sup> Stellen ausländische Ehegatten oder ausländische Personen in eingetragener Partnerschaft gemeinsam das Gesuch um Erteilung des Bürgerrechts, muss jeder von ihnen die Voraussetzungen gemäss Abs. 1 erfüllen, andernfalls ist das ordentliche Verfahren anwendbar.
 
-### 2.4 Ergänzende Verfahrensvorschriften
+- 4\. Ergänzende Verfahrensvorschriften[^13-1]
+
+[^13-1]: Eingefügt durch G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+[^13-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 14
 
-**Verfahren**
+**Verfahren 12)**[^13-2]
 
 <sup>1</sup> Für das Verfahren gilt das Verwaltungsrechtspflegegesetz. Wird das Einbürgerungsgesuch abgelehnt, ist der Entscheid zu begründen.
 
@@ -161,11 +197,17 @@ beschliesst:
 
 <sup>3</sup> Die weiteren Verfahrensvorschriften sowie die von den Gesuchstellenden beizubringenden Unterlagen regelt der Regierungsrat.
 
-## 3 Gebühren
+[^14-1]: Eingefügt durch G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
+### III. Gebühren
+
+[^14-1]
+
+[^hIIIGebühren141-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 15
 
-**Grundsatz**
+**Grundsatz 15)**[^hIIIGebühren141-1]
 
 <sup>1</sup> Der Entscheid über die Erteilung des Kantons- und Gemeindebürgerrechts ist gebührenpflichtig, wenn die Gebührenfreiheit nicht ausdrücklich vorgesehen ist.
 
@@ -177,34 +219,44 @@ beschliesst:
 
 <sup>5</sup> In sozialen Härtefällen können die Gebühren ganz oder teilweise erlassen werden.
 
+[^15-1]: Fassung gemäss G vom 4. Juli 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 1265, S. 2116).
+
 #### Art. 16
 
-**Ordentliches Verfahren**
+**Ordentliches Verfahren 12)**[^15-1]
 
-<sup>1</sup> Die Gebühr für den Entscheid über die Erteilung des Gemeindebürgerrechts und des Kantonsbürgerrechts im ordentlichen Verfahren beträgt für den Kanton Fr. 850.00 und für die Gemeinde Fr. 1'150.00.
+Die Gebühr für den Entscheid über die Erteilung des Gemeindebürgerrechts und des Kantonsbürgerrechts im ordentlichen Verfahren beträgt für den Kanton 850 Franken und für die Gemeinde 1'150 Franken.
+
+[^16-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 17
 
-**Vereinfachtes Verfahren**
+**Vereinfachtes Verfahren 12)**[^16-1]
 
 <sup>1</sup> Für den Entscheid über die Erteilung des Bürgerrechts im vereinfachten Verfahren beträgt die Gebühr:
 
-- a) Für Schweizerinnen und Schweizer Fr. 250.00 für die Gemeinde
-- b) Für Ausländerinnen und Ausländer Fr. 400.00 für den Kanton und Fr. 600.00 für die Gemeinde
+- a) Für Schweizerinnen und Schweizer 250 Franken für die Gemeinde.
+
+- b) Für Ausländerinnen und Ausländer 400 Franken für den Kanton und 600 Franken für die Gemeinde.[^17-1]
 
 <sup>2</sup> Für die Erteilung des Gemeinde- und Kantonsbürgerrechts an Schweizerinnen und Schweizer, die seit mehr als 12 Jahren im Kanton wohnhaft sind, wird keine Gebühr erhoben. Ortsabwesenheit zur beruflichen Ausbildung unterbricht die Aufenthaltsdauer nicht.
 
+[^17-1]: Fassung gemäss G vom 4. Juli 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 1265, S. 2116).
+[^17-2]: Aufgehoben durch G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 17a
 
-**…**
+[^17-2]
+
+[^17a-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 18
 
-**Vorschusspflicht**
+**Vorschusspflicht 12)**[^17a-1]
 
-<sup>1</sup> Wer sich um das Bürgerrecht bewirbt, kann verpflichtet werden, die Verfahrenskosten sicherzustellen.
+Wer sich um das Bürgerrecht bewirbt, kann verpflichtet werden, die Verfahrenskosten sicherzustellen.
 
-## 4 Ehrenbürgerrecht
+### IV. Ehrenbürgerrecht
 
 #### Art. 19
 
@@ -218,11 +270,11 @@ beschliesst:
 
 **Ausländer oder Ausländerinnen**
 
-<sup>1</sup> Für Ausländer oder Ausländerinnen bleiben die Bestimmungen in Art. 16 des eidgenössischen Bürgerrechtsgesetzes[^20-1] vorbehalten.
+Für Ausländer oder Ausländerinnen bleiben die Bestimmungen in Art. 16 des eidgenössischen Bürgerrechtsgesetzes[^20-1] vorbehalten.
 
-[^20-1]: SR [141.0](http://db.clex.ch/link/Bund/141.0/de).
+[^20-1]: SR 141.0.
 
-## 5 Entlassung aus dem Bürgerrecht
+### V. Entlassung aus dem Bürgerrecht
 
 #### Art. 21
 
@@ -236,23 +288,28 @@ beschliesst:
 
 **Ehegatten**
 
-<sup>1</sup> Jeder Ehegatte kann das Gesuch um Entlassung aus dem Gemeinde- oder Kantonsbürgerrecht stellen.
+Jeder Ehegatte kann das Gesuch um Entlassung aus dem Gemeinde- oder Kantonsbürgerrecht stellen.
+
+[^22-1]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
 
 #### Art. 23
 
-**Minderjährige und Personen unter umfassender Beistandschaft**
+**Minderjährige und Personen unter umfassender Beistandschaft 15)**[^22-1]
 
-<sup>1</sup> Unter den Voraussetzungen von Art. 9 können Minderjährige oder Personen unter umfassender Beistandschaft aus dem Kantons- und Gemeindebürgerrecht entlassen werden.
+<sup>1</sup> Unter den Voraussetzungen von Art. 9 können Minderjährige[^23-1] oder Personen unter umfassender Beistandschaft[^23-1] aus dem Kantons- und Gemeindebürgerrecht entlassen werden.
 
 <sup>2</sup> Die unter elterlicher Sorge des Vaters oder der nicht verheirateten Mutter stehenden Kinder werden unter Vorbehalt von Art. 9 Abs. 2 in die Entlassung einbezogen, ebenso die Kinder einer mit einem Ausländer verheirateten Schweizerin, die das Gesuch um Entlassung aus dem Kantons- und Gemeindebürgerrecht stellt.
 
+[^23-1]: Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^23-2]: Fassung gemäss G vom 22. Mai 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1481).
+
 #### Art. 24
 
-**Zuständigkeit**
+**Zuständigkeit**[^23-2]
 
-<sup>1</sup> Das zuständige Departement entscheidet über die Entlassung aus dem Gemeinde- und Kantonsbürgerrecht.
+Das zuständige Departement entscheidet über die Entlassung aus dem Gemeinde- und Kantonsbürgerrecht.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. Übergangs- und Schlussbestimmungen
 
 #### Art. 25
 
@@ -260,13 +317,15 @@ beschliesst:
 
 <sup>1</sup> Die beim Inkrafttreten dieses Gesetzes hängigen Verfahren werden nach dem für die Gesuchsteller und Gesuchstellerinnen günstigeren Recht beurteilt.
 
-<sup>2</sup> Für die Festlegung der Aufteilung der Gebühren gemäss Art. 16 und Art. 17 gilt der Zeitpunkt des Einreichens des Gesuches.
+<sup>2</sup> Für die Festlegung der Aufteilung der Gebühren gemäss Art. 16 und Art. 17 gilt der Zeitpunkt des Einreichens des Gesuches.[^25-1]
+
+[^25-1]: Eingefügt durch G vom 4. Juli 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 1265, S. 2116).
 
 #### Art. 26
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Durch dieses Gesetz wird das Gesetz betreffend Erwerb und Verlust des Gemeinde- und Kantonsbürgerrechts vom 2. Juni 1969 aufgehoben.
+Durch dieses Gesetz wird das Gesetz betreffend Erwerb und Verlust des Gemeinde- und Kantonsbürgerrechts vom 2. Juni 1969 aufgehoben.
 
 #### Art. 27
 
@@ -276,7 +335,18 @@ beschliesst:
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^27-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^27-1]: In Kraft getreten am 1. Januar 1992 (Amtsblatt 1992, S. 16).
 [^27-2]: Amtsblatt 1992, S. 9.
 
-Abl. 1992, S. 9
+## Weitere Fussnoten
+
+- [2] Zuständig ist das Volkswirtschaftsdepartement, siehe 172.101, § 5.
+- [3] Zuständig ist das Volkswirtschaftsdepartement, siehe SHR 172.101, § 5.
+- [4] SR 141.111.
+- [5] SHR 141.110.
+- [8] Fassung gemäss G vom 17. August 1998, in Kraft getreten am 1. Februar 1999 (Amtsblatt 1999, S. 1123).
+- [9] Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 699, S. 1263).
+- [10] Eingefügt durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 699, S. 1263).
+- [11] Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
