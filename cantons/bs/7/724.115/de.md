@@ -4,13 +4,12 @@ number: "724.115"
 title: Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes
 short: ANöRV
 language: de
-version: 2023-05-29
-valid_until: 2024-06-09
-version_adopted: 2023-05-19
+version: 2024-06-10
+version_adopted: 2024-05-31
 adopted: 2018-12-04
 in_force: 2018-12-20
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/724.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6065/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Nutzung öffentlicher Raum: Ausführungsbestimmungen | Öffentlicher Raum
 
 (ANöRV)
 
-Vom 4. Dezember 2018 (Stand 29. Mai 2023)
+Vom 4. Dezember 2018 (Stand 10. Juni 2024)
 
 Das Bau- und Verkehrsdepartement des Kantons Basel-Stadt,
 
@@ -152,7 +151,7 @@ beschliesst:
 - o) Gerüste, Gerüsttreppentürme, Fussverkehrstunnels, Gerüstlifte und Hebeeinrichtungen;
 - p) Beläge, Entwässerungen und Beleuchtungsanlagen mit Kandelabern von öffentlichen Strassen, Wegen und Plätzen;
 - q) Bojen und Dalben;
-- r) Kleinstbauten, die der Ausstattung und Möblierung des öffentlichen Raumes dienen wie insbesondere Sitzbänke, Blumentröge, Billetautomaten;
+- r) Kleinstbauten, die der Ausstattung und Möblierung des öffentlichen Raumes dienen wie insbesondere Sitzbänke, Pflanzentröge, Billetautomaten;
 - s) Sonnenstoren mit einer Ausragung von mehr als 1,50 Metern, sofern diese der Deckung einer bestehenden, bewilligten Nutzfläche, wie insbesondere Boulevardrestaurants oder Trottoirauslagen, dienen;
 - t) Haltestellentafeln und -stelen, soweit nicht mit Reklame versehen;
 - u) einzelne, einstöckige, provisorische Verkaufscontainer und -anhänger gemäss § 45 Abs. 1 NöRV;
@@ -188,7 +187,8 @@ beschliesst:
 - h) Informationsstände nach § 49 Abs. 1 NöRV;
 - i) Kuchenverkaufsstände und gemeinnützige Verkaufsstände;
 - j) Präventionsplakatkampagnen kantonaler Fachinstanzen;
-- k) Erneuerung bzw. Ersatz bestehender Materialien an Fischergalgen bei gleichbleibender Qualität.
+- k) Erneuerung bzw. Ersatz bestehender Materialien an Fischergalgen bei gleichbleibender Qualität;
+- l) Pflanzentröge direkt an der eigenen Liegenschaft mit einer Breite von bis zu 80 cm, einer Tiefe von bis zu 60 cm und einer Höhe von bis zu 50 cm.
 
 <sup>2</sup> Das Meldeverfahren wird nach § 11 Abs. 4 NöRV abgeschlossen. Auf jeden Fall sind die Vorschriften des materiellen Rechts und Richtlinien einzuhalten.
 
@@ -223,7 +223,8 @@ beschliesst:
 - a) Bagatelländerungen und Lageänderungen von Sendeantennen im öffentlichen Raum innerhalb des Toleranzbereichs gemäss der Vollzugshilfe des Bau- und Gastgewerbeinspektorats;
 - b) öffentliche Abfalleimer und Salzboxen;
 - c) städtische Fahnenmasten und -burgen;
-- d) Bauinformationstafeln bis zu einer Grösse von 10 m².
+- d) Bauinformationstafeln bis zu einer Grösse von 10 m²;
+- e) Pflanzentöpfe direkt an der eigenen Liegenschaft mit einem Durchmesser von bis zu 50 cm oder einer jeweiligen Breite und Tiefe von bis zu 50 cm.
 
 #### § 11
 
