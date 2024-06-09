@@ -3,13 +3,12 @@ canton: BS
 number: BeB 132.100
 title: Ordnung über Wahlen und Abstimmungen der Bürgergemeinde Bettingen
 language: de
-version: 2011-01-01
-valid_until: 2024-06-09
-version_adopted: 2010-12-01
+version: 2024-06-10
+version_adopted: 2024-04-29
 adopted: 1997-04-17
 in_force: 1997-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4516/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6297/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4516/pdf_file"
 
 Wahl- und Abstimmungsordnung | Bettingen: Bürgergemeinde
 
-Vom 17. April 1997 (Stand 1. Januar 2011)
+Vom 17. April 1997 (Stand 10. Juni 2024)
 
 Die Versammlung der Bürgergemeinde Bettingen,
 
@@ -172,9 +171,9 @@ beschliesst folgende Ordnung über Wahlen und Abstimmungen:
 
 <sup>1</sup> Der Bürgerrat beschliesst über die Gültigkeit der Abstimmungen und stellt das Ergebnis fest.
 
-<sup>2</sup> Die Prüfung der Wahlen wird durch die Wahlprüfungskommission vorgenommen. Der Bürgerrat entscheidet über die Gültigkeit der Wahlen auf den Bericht dieser Kommission hin.
+<sup>2</sup> Die Prüfung der Wahlen wird in Fällen der ausserordentlichen Gemeindeorganisation (Urnenwahl) durch die Wahlprüfungskommission vorgenommen, in Fällen der ordentlichen Gemeindeorganisation (Wahl durch die Bürgergemeindeversammlung) durch das Wahlbüro. Der Bürgerrat entscheidet über die Gültigkeit der Wahlen auf den Bericht dieser Organe hin.
 
-<sup>3</sup> Die Validierung der Bürgerratswahlen nimmt der Regierungsrat nach Erhalt des Berichtes der Wahlprüfungskommission sowie der Genehmigung durch den Bürgerrat vor.
+<sup>3</sup> Die Validierung der Bürgerratswahlen nimmt der Regierungsrat nach Erhalt des Berichtes der Wahlprüfungskommission bzw. des Wahlbüros sowie der Genehmigung durch den Bürgerrat vor.
 
 <sup>4</sup> Die Beschlüsse über die Gültigkeit der Wahlen und Abstimmungen sind im Kantonsblatt zu veröffentlichen.
 
