@@ -3,32 +3,24 @@ sr: "0.429.01"
 title: "Convenzione dell'11 ottobre 1947 per l'organizzazione meteorologica mondiale (con All. I, II)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/222_222_226"
 language: it
-version: 2013-07-02
+version: 2024-06-10
 adopted: 1947-10-11
 in_force: 1950-03-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/222_222_226/20130702/it/xml/fedlex-data-admin-ch-eli-cc-1952-222_222_226-20130702-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/222_222_226/20130702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/222_222_226/20240610/it/xml/fedlex-data-admin-ch-eli-cc-1952-222_222_226-20240610-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/222_222_226/20240610/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione per l’Organizzazione meteorologica mondiale
 
-RU **1990** 1175[^t-1]
+RU **1990** 1175; FF **1948** III 1126 ediz. ted., **1948** III 1142 ediz. fr.[^t-1]
 
 Traduzione
 
-Conclusa a Washington l’11 ottobre 1947
+Conclusa a Washington l’11 ottobre 1947 Approvata dall’Assemblea federale il 21 dicembre 1948[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 23 febbraio 1949 Entrata in vigore per la Svizzera il 23 marzo 1950 Emendata con effetto dall’11 e 27 aprile 1963, 11, 26 e 28 aprile 1967, 20 maggio 1975, 14 maggio 1979, 11 e 28 maggio 1983
 
-Approvata dall’Assemblea federale il 21 dicembre 1948[^t-2]
-
-Istrumento di ratificazione depositato dalla Svizzera il 23 febbraio 1949
-
-Entrata in vigore per la Svizzera il 23 marzo 1950
-
-Emendata con effetto dall’11 e 27 aprile 1963, 11, 26 e 28 aprile 1967, 20 maggio 1975, 14 maggio 1979, 11 e 28 maggio 1983
-
-(Stato 2 luglio 2013)
+(Stato 10 giugno 2024)
 
 [^t-1]: Sostituisce il testo che figura nella [RU 1971 1264](https://fedlex.data.admin.ch/eli/oc/1971/1269_1265_1264).
 [^t-2]: [RU 1952 225](https://fedlex.data.admin.ch/eli/oc/1952/221_221_225)
@@ -655,20 +647,23 @@ Togo Francese
 
 Tunisia
 
-Campo d’applicazione il 2 luglio 2013[^t-3]
+Campo d’applicazione il 10 giugno 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>11 settembre</td><td>1956 A</td><td>11 ottobre</td><td>1956</td></tr>
 <tr><td>Albania</td><td>29 luglio</td><td>1957 A</td><td>28 agosto</td><td>1957</td></tr>
 <tr><td>Algeria</td><td>4 aprile</td><td>1963 A</td><td>4 maggio</td><td>1963</td></tr>
+<tr><td>Andorra</td><td>17 ottobre</td><td>2018 A</td><td>16 novembre</td><td>2018</td></tr>
 <tr><td>Angola</td><td>16 marzo</td><td>1977 A</td><td>15 aprile</td><td>1977</td></tr>
 <tr><td>Antigua e Barbuda</td><td>16 novembre</td><td>1988 A</td><td>16 dicembre</td><td>1988</td></tr>
-<tr><td>Arabia Saudita</td><td>10 gennaio</td><td>1950</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Arabia Saudita</td><td>26 febbraio</td><td>1959 A</td><td>28 marzo</td><td>1959</td></tr>
 <tr><td>Argentina</td><td>2 gennaio</td><td>1951</td><td>1° febbraio</td><td>1951</td></tr>
 <tr><td>Armenia</td><td>16 settembre</td><td>1992 A</td><td>16 ottobre</td><td>1992</td></tr>
 <tr><td>Australia</td><td>14 marzo</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Isola di Norfolk</td><td>26 ottobre</td><td>1950</td><td>26 ottobre</td><td>1950</td></tr>
 <tr><td>Isola di Norfolk</td><td>14 marzo</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Territorio australiano dell’Antartico</td><td>20 giugno</td><td>1955</td><td>20 giugno</td><td>1955</td></tr>
 <tr><td>Austria</td><td>23 febbraio</td><td>1955 A</td><td>25 marzo</td><td>1955</td></tr>
 <tr><td>Azerbaigian</td><td>27 dicembre</td><td>1993 A</td><td>26 gennaio</td><td>1994</td></tr>
 <tr><td>Bahamas</td><td>29 novembre</td><td>1973 A</td><td>29 dicembre</td><td>1973</td></tr>
@@ -679,7 +674,7 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Belgio</td><td>2 febbraio</td><td>1951</td><td>4 marzo</td><td>1951</td></tr>
 <tr><td>Belize</td><td>25 maggio</td><td>1982 A</td><td>24 giugno</td><td>1982</td></tr>
 <tr><td>Benin</td><td>14 aprile</td><td>1961 A</td><td>14 maggio</td><td>1961</td></tr>
-<tr><td>Buthan</td><td>11 febbraio</td><td>2003 A</td><td>14 marzo</td><td>2003</td></tr>
+<tr><td>Bhutan</td><td>11 marzo</td><td>2003 A</td><td>10 aprile</td><td>2003</td></tr>
 <tr><td>Bolivia</td><td>15 maggio</td><td>1954 A</td><td>14 giugno</td><td>1954</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>1° giugno</td><td>1994 A</td><td>1° luglio</td><td>1994</td></tr>
 <tr><td>Botswana</td><td>16 ottobre</td><td>1967 A</td><td>15 novembre</td><td>1967</td></tr>
@@ -695,7 +690,8 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Ceca, Repubblica</td><td>25 gennaio</td><td>1993 A</td><td>24 febbraio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>2 febbraio</td><td>1961 A</td><td>4 marzo</td><td>1961</td></tr>
 <tr><td>Cile</td><td>9 maggio</td><td>1957</td><td>8 giugno</td><td>1957</td></tr>
-<tr><td>Cina\*</td><td>27 aprile</td><td>1973</td><td>27 maggio</td><td>1973</td></tr>
+<tr><td>Cina</td><td>27 aprile</td><td>1973</td><td>27 maggio</td><td>1973</td></tr>
+<tr><td>Hong Kong</td><td>17 luglio</td><td>1996</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Cipro</td><td>11 aprile</td><td>1963 A</td><td>11 maggio</td><td>1963</td></tr>
 <tr><td>Colombia</td><td>5 gennaio</td><td>1962</td><td>4 febbraio</td><td>1962</td></tr>
 <tr><td>Comore</td><td>19 marzo</td><td>1976 A</td><td>18 aprile</td><td>1976</td></tr>
@@ -708,6 +704,7 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Croazia</td><td>9 ottobre</td><td>1992 A</td><td>8 novembre</td><td>1992</td></tr>
 <tr><td>Cuba</td><td>4 marzo</td><td>1952</td><td>3 aprile</td><td>1952</td></tr>
 <tr><td>Danimarca</td><td>10 luglio</td><td>1951</td><td>9 agosto</td><td>1951</td></tr>
+<tr><td>Groenlandia</td><td>25 gennaio</td><td>1952</td><td>25 gennaio</td><td>1952</td></tr>
 <tr><td>Dominica</td><td>21 febbraio</td><td>1980 A</td><td>22 marzo</td><td>1980</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>15 settembre</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Ecuador</td><td>7 giugno</td><td>1951</td><td>7 luglio</td><td>1951</td></tr>
@@ -722,6 +719,9 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Filippine</td><td>5 aprile</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Finlandia</td><td>7 gennaio</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Francia</td><td>5 dicembre</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Guayana francese</td><td>5 dicembre</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Réunion</td><td>5 dicembre</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>St. Pierre e Miquelon</td><td>28 settembre</td><td>1977</td><td>28 settembre</td><td>1977</td></tr>
 <tr><td>Gabon</td><td>5 giugno</td><td>1961 A</td><td>5 luglio</td><td>1961</td></tr>
 <tr><td>Gambia</td><td>2 ottobre</td><td>1978 A</td><td>1° novembre</td><td>1978</td></tr>
 <tr><td>Georgia</td><td>1° settembre</td><td>1993 A</td><td>1° ottobre</td><td>1993</td></tr>
@@ -750,10 +750,10 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Kazakstan</td><td>5 maggio</td><td>1993 A</td><td>4 giugno</td><td>1993</td></tr>
 <tr><td>Kenya</td><td>2 giugno</td><td>1964 A</td><td>2 luglio</td><td>1964</td></tr>
 <tr><td>Kirghizistan</td><td>20 luglio</td><td>1994 A</td><td>19 agosto</td><td>1994</td></tr>
-<tr><td>Kiribati</td><td>23 marzo</td><td>2003 A</td><td>25 aprile</td><td>2003</td></tr>
+<tr><td>Kiribati</td><td>24 aprile</td><td>2003 A</td><td>24 maggio</td><td>2003</td></tr>
 <tr><td>Kuwait</td><td>1° dicembre</td><td>1962 A</td><td>31 dicembre</td><td>1962</td></tr>
 <tr><td>Laos</td><td>1° giugno</td><td>1955 A</td><td>1° luglio</td><td>1955</td></tr>
-<tr><td>Lesotho</td><td>2 agosto</td><td>1979 A</td><td>1° settembre</td><td>1979</td></tr>
+<tr><td>Lesotho</td><td>3 agosto</td><td>1979 A</td><td>2 settembre</td><td>1979</td></tr>
 <tr><td>Lettonia</td><td>15 maggio</td><td>1992 A</td><td>14 giugno</td><td>1992</td></tr>
 <tr><td>Libano</td><td>22 dicembre</td><td>1948 A</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Liberia</td><td>7 febbraio</td><td>1974 A</td><td>9 marzo</td><td>1974</td></tr>
@@ -775,7 +775,7 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Moldova</td><td>21 novembre</td><td>1994 A</td><td>21 dicembre</td><td>1994</td></tr>
 <tr><td>Monaco</td><td>9 aprile</td><td>1996 A</td><td>9 aprile</td><td>1996</td></tr>
 <tr><td>Mongolia</td><td>4 aprile</td><td>1963 A</td><td>4 maggio</td><td>1963</td></tr>
-<tr><td>Montenegro</td><td>6 dicembre</td><td>2006</td><td>5 gennaio</td><td>2007</td></tr>
+<tr><td>Montenegro</td><td>6 dicembre</td><td>2006 A</td><td>5 gennaio</td><td>2007</td></tr>
 <tr><td>Mozambico</td><td>21 giugno</td><td>1976 A</td><td>21 luglio</td><td>1976</td></tr>
 <tr><td>Myanmar</td><td>19 agosto</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Namibia</td><td>6 febbraio</td><td>1991 A</td><td>8 marzo</td><td>1991</td></tr>
@@ -789,6 +789,9 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Nuova Zelanda</td><td>2 aprile</td><td>1948</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Oman</td><td>3 gennaio</td><td>1975 A</td><td>2 febbraio</td><td>1975</td></tr>
 <tr><td>Paesi Bassi</td><td>12 settembre</td><td>1951</td><td>12 ottobre</td><td>1951</td></tr>
+<tr><td>Aruba</td><td>12 settembre</td><td>1951</td><td>12 ottobre</td><td>1951</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sint Eustatius e Saba)</td><td>12 settembre</td><td>1951</td><td>12 ottobre</td><td>1951</td></tr>
+<tr><td>Sint Maarten</td><td>12 settembre</td><td>1951</td><td>12 ottobre</td><td>1951</td></tr>
 <tr><td>Pakistan</td><td>11 aprile</td><td>1950</td><td>11 maggio</td><td>1950</td></tr>
 <tr><td>Panama</td><td>12 settembre</td><td>1967 A</td><td>12 ottobre</td><td>1967</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>15 dicembre</td><td>1975 A</td><td>14 gennaio</td><td>1976</td></tr>
@@ -796,8 +799,11 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Perù</td><td>30 dicembre</td><td>1949 A</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Polonia</td><td>16 maggio</td><td>1950</td><td>15 giugno</td><td>1950</td></tr>
 <tr><td>Portogallo</td><td>15 gennaio</td><td>1951</td><td>14 febbraio</td><td>1951</td></tr>
+<tr><td>Azzorre e Madera</td><td>15 gennaio</td><td>1951</td><td>15 gennaio</td><td>1951</td></tr>
 <tr><td>Qatar</td><td>4 aprile</td><td>1975 A</td><td>4 maggio</td><td>1975</td></tr>
 <tr><td>Regno Unito</td><td>14 dicembre</td><td>1948</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Gibilterra</td><td>14 dicembre</td><td>1948</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Isole Falkland</td><td>14 dicembre</td><td>1948</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Rep. Centrafricana</td><td>28 giugno</td><td>1961 A</td><td>28 luglio</td><td>1961</td></tr>
 <tr><td>Romania</td><td>18 agosto</td><td>1948 A</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Ruanda</td><td>4 febbraio</td><td>1963 A</td><td>6 marzo</td><td>1963</td></tr>
@@ -808,7 +814,7 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>São Tomé e Príncipe</td><td>23 novembre</td><td>1976 A</td><td>23 dicembre</td><td>1976</td></tr>
 <tr><td>Seicelle</td><td>15 febbraio</td><td>1977 A</td><td>17 marzo</td><td>1977</td></tr>
 <tr><td>Senegal</td><td>11 novembre</td><td>1960 A</td><td>11 dicembre</td><td>1960</td></tr>
-<tr><td>Serbia</td><td>7 dicembre</td><td>1948</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Serbia</td><td>7 dicembre</td><td>1948 A</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Sierra Leone</td><td>30 marzo</td><td>1962 A</td><td>29 aprile</td><td>1962</td></tr>
 <tr><td>Singapore</td><td>24 gennaio</td><td>1966 A</td><td>23 febbraio</td><td>1966</td></tr>
 <tr><td>Siria</td><td>16 luglio</td><td>1952 A</td><td>15 agosto</td><td>1952</td></tr>
@@ -827,13 +833,14 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Tagikistan</td><td>10 agosto</td><td>1993 A</td><td>9 settembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>14 settembre</td><td>1962 A</td><td>14 ottobre</td><td>1962</td></tr>
 <tr><td>Thailandia</td><td>11 luglio</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
+<tr><td>Timor Est</td><td>4 novembre</td><td>2009 A</td><td>4 dicembre</td><td>2009</td></tr>
 <tr><td>Togo</td><td>28 ottobre</td><td>1960 A</td><td>27 novembre</td><td>1960</td></tr>
-<tr><td>Tonga</td><td>25 febbraio</td><td>1996 A</td><td>26 marzo</td><td>1996</td></tr>
+<tr><td>Tonga</td><td>26 febbraio</td><td>1996 A</td><td>27 marzo</td><td>1996</td></tr>
 <tr><td>Trinidad e Tobago</td><td>1° febbraio</td><td>1963 A</td><td>3 marzo</td><td>1963</td></tr>
 <tr><td>Tunisia</td><td>22 gennaio</td><td>1957 A</td><td>21 febbraio</td><td>1957</td></tr>
 <tr><td>Turchia</td><td>5 agosto</td><td>1949</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Turkmenistan</td><td>4 dicembre</td><td>1992 A</td><td>3 gennaio</td><td>1993</td></tr>
-<tr><td>Tuvalu</td><td>23 agosto</td><td>2012 A</td><td>23 settembre</td><td>2012</td></tr>
+<tr><td>Tuvalu</td><td>23 agosto</td><td>2012 A</td><td>22 settembre</td><td>2012</td></tr>
 <tr><td>Ucraina</td><td>12 aprile</td><td>1948 A</td><td>23 marzo</td><td>1950</td></tr>
 <tr><td>Uganda</td><td>15 marzo</td><td>1963 A</td><td>14 aprile</td><td>1963</td></tr>
 <tr><td>Ungheria</td><td>15 febbraio</td><td>1951</td><td>17 marzo</td><td>1951</td></tr>
@@ -841,23 +848,23 @@ Campo d’applicazione il 2 luglio 2013[^t-3]
 <tr><td>Uzbekistan</td><td>23 dicembre</td><td>1992 A</td><td>22 gennaio</td><td>1993</td></tr>
 <tr><td>Vanuatu</td><td>24 giugno</td><td>1982 A</td><td>24 luglio</td><td>1982</td></tr>
 <tr><td>Venezuela</td><td>16 giugno</td><td>1950 A</td><td>16 luglio</td><td>1950</td></tr>
-<tr><td>Vietnam\*</td><td>8 luglio</td><td>1975 A</td><td>7 agosto</td><td>1975</td></tr>
+<tr><td>Vietnam</td><td>8 luglio</td><td>1975 A</td><td>7 agosto</td><td>1975</td></tr>
 <tr><td>Yemen</td><td>28 gennaio</td><td>1969 A</td><td>27 febbraio</td><td>1969</td></tr>
 <tr><td>Zambia</td><td>28 dicembre</td><td>1964 A</td><td>27 gennaio</td><td>1965</td></tr>
 <tr><td>Zimbabwe</td><td>12 gennaio</td><td>1981 A</td><td>11 febbraio</td><td>1981</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: [www.state.gov/convention-of-the-world-meteorological-organization](https://www.state.gov/convention-of-the-world-meteorological-organization), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-- \* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: [www.state.gov/convention-of-the-world-meteorological-organization](https://www.state.gov/convention-of-the-world-meteorological-organization), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.»
+[^t-3]: [RU 1975 1882](https://fedlex.data.admin.ch/eli/oc/1975/1882_1882_1882); [1976 2744](https://fedlex.data.admin.ch/eli/oc/1976/2744_2744_2744); [1978 302](https://fedlex.data.admin.ch/eli/oc/1978/302_302_302); [1980 1659](https://fedlex.data.admin.ch/eli/oc/1980/1659_1659_1659); [1982 1927](https://fedlex.data.admin.ch/eli/oc/1982/1927_1927_1927); [1985 503](https://fedlex.data.admin.ch/eli/oc/1985/503_503_503); [1987 776](https://fedlex.data.admin.ch/eli/oc/1987/776_776_776); [2005 4765](https://fedlex.data.admin.ch/eli/oc/2005/632); [2013 2295](https://fedlex.data.admin.ch/eli/oc/2013/478); [2024 274](https://fedlex.data.admin.ch/eli/oc/2024/274). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
-[^t-3]: [RU 1971 1264](https://fedlex.data.admin.ch/eli/oc/1971/1269_1265_1264), [1975 1882](https://fedlex.data.admin.ch/eli/oc/1975/1882_1882_1882), [1976 2744](https://fedlex.data.admin.ch/eli/oc/1976/2744_2744_2744),[1978 302](https://fedlex.data.admin.ch/eli/oc/1978/302_302_302), [1980 1659](https://fedlex.data.admin.ch/eli/oc/1980/1659_1659_1659), [1982 1927](https://fedlex.data.admin.ch/eli/oc/1982/1927_1927_1927), [1985 503](https://fedlex.data.admin.ch/eli/oc/1985/503_503_503), [1987 776](https://fedlex.data.admin.ch/eli/oc/1987/776_776_776), [2005 4765](https://fedlex.data.admin.ch/eli/oc/2005/632)e [2013 2295](https://fedlex.data.admin.ch/eli/oc/2013/478). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
-
-Territori o gruppi di territori membri dell’Organizzazione meteorologica mondiale in virtù dell’articolo 3d) o 3e) della Convenzione
+Territori o gruppi di territori membri dell’Organizzazione meteorologica mondiale in virtù dell’articolo 3d) o 3e) della Convenzione:[^t-4]
 
 <table>
 <tr><th>Territori</th><th>Membri dal</th></tr>
-<tr><td>Hong‑Kong</td><td>14 dicembre 1948</td></tr>
+<tr><td>Hong Kong</td><td>14 dicembre 1948</td></tr>
 <tr><td>Polinesia francese, Nuova Caledonia</td><td>5 dicembre 1949</td></tr>
-<tr><td>Antille olandesi (Curaçao)</td><td>12 settembre 1951</td></tr>
+<tr><td>Curaçao</td><td>12 settembre 1951</td></tr>
 <tr><td>Territori britannici dei Caraibi</td><td>24 settembre 1953</td></tr>
-<tr><td>Cina-Macao</td><td>24 gennaio 1996</td></tr>
 </table>
+
+[^t-4]: [RU 2024 274](https://fedlex.data.admin.ch/eli/oc/2024/274)
