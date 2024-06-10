@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2024-01-01
+version: 2024-06-11
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 1° gennaio 2024)
+del 18 dicembre 2013 (Stato 11 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -123,8 +123,8 @@ ORBIS serve ai seguenti scopi:
 <sup>2</sup> Il fornitore di servizi esterno registra i dati personali conformemente alle disposizioni dell’allegato X del regolamento (CE) n. 810/2009[^5b-2] (codice dei visti) e li trasmette all’autorità competente per i visti.[^5b-3]
 
 [^5b-1]: Introdotto dal n. II dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^5b-2]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
-[^5b-3]: Nuovo testo giusta l’all. n. 2 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^5b-2]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1415, GU L, 2024/1415, 22.05.2024.
+[^5b-3]: Nuovo testo giusta il n. II 2 dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 
 #### Art. 6
 
@@ -386,8 +386,6 @@ Se la consultazione in base alle impronte digitali non dà esito oppure se le im
 
 **Autorità federali autorizzate a chiedere dati**
 
-<sup>1</sup>
-
 Le autorità federali seguenti possono chiedere dati del C-VIS in virtù dell’articolo 109a capoverso 3 lettere a–c LStrI:
 
 - a.
@@ -458,7 +456,7 @@ La CO fedpol verifica:
 
 **Consultazione e trasmissione dei dati**
 
-1 Se sono adempite le condizioni di cui all’articolo 20, la CO fedpol consulta i dati del C-VIS. La consultazione può essere effettuata unicamente per mezzo dei dati di cui all’articolo 5 paragrafo 2 della decisione 2008/633/GAI[^21-1] (decisione VIS UE) e conformemente ai diritti di accesso definiti all’allegato 3.
+<sup>1</sup> Se sono adempite le condizioni di cui all’articolo 20, la CO fedpol consulta i dati del C-VIS. La consultazione può essere effettuata unicamente per mezzo dei dati di cui all’articolo 5 paragrafo 2 della decisione 2008/633/GAI[^21-1] (decisione VIS UE) e conformemente ai diritti di accesso definiti all’allegato 3.
 
 <sup>2</sup> Se la consultazione dà un risultato positivo, la CO fedpol trasmette all’autorità in modo sicuro i dati di cui all’articolo 5 paragrafo 3 della decisione VIS UE.
 
@@ -508,7 +506,6 @@ Le autorità federali e cantonali competenti per i visti, nonché le autorità c
 - a. i messaggi connessi alla cooperazione consolare concernenti la domanda di visto nonché i messaggi relativi alle domande di trasmissione di documenti legati alla domanda di visto o di copie elettroniche di tali documenti secondo l’articolo 16 paragrafo 3 del regolamento VIS UE[^24-1];
 - b. i messaggi relativi a dati inesatti figuranti nel C-VIS secondo l’articolo 24 paragrafo 2 del regolamento VIS UE;
 - c. l’informazione, secondo l’articolo 25 paragrafo 2 del regolamento VIS UE, che un richiedente ha acquisito la cittadinanza di uno Stato Schengen;
-
 - d.[^24-2] le richieste di consultazione e le risposte relative alla consultazione preliminare delle autorità centrali incaricate dei visti secondo l’articolo 22 paragrafo 1 del codice dei visti e l’articolo 16 paragrafo 2 del regolamento VIS UE;
 - e.[^24-3] le informazioni sui visti rilasciati dai consolati secondo l’articolo 31 paragrafo 1 del codice dei visti e l’articolo 16 paragrafo 3 del regolamento VIS UE a cittadini di determinati Stati di provenienza o a determinate categorie di cittadini.
 

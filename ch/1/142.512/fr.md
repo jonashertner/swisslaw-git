@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2024-01-01
+version: 2024-06-11
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 1<sup>er</sup> janvier 2024)
+du 18 décembre 2013 (État le 11 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -122,8 +122,8 @@ ORBIS sert les buts suivants:
 <sup>2</sup> Le prestataire de services externe saisit les données personnelles conformément à l’annexe X du règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^5b-2] et transmet celles-ci à l’autorité compétente en matière de visas.[^5b-3]
 
 [^5b-1]: Introduit par le ch. II de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^5b-2]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 188 du 12.7.2019, p. 25.
-[^5b-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^5b-2]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1415, JO L, 2024/1415, 22.05.2024.
+[^5b-3]: Nouvelle teneur selon le ch. II 2 de l’O du 7 juin 2024, en vigueur depuis le 11 juin 2024 ([RO 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 
 #### Art. 6
 

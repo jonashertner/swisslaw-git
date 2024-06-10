@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2024-01-01
+version: 2024-06-11
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 January 2024)
+of 18 December 2013 (Status as of 11 June 2024)
 
 The Swiss Federal Council,
 
@@ -125,8 +125,8 @@ ORBIS has the following aims:
 <sup>2</sup> The external service provider shall record the personal data in compliance with the provisions of Annex X of Regulation (EC) No 810/2009[^5b-2] (Visa Code) and shall pass these on to the visa authority.[^5b-3]
 
 [^5b-1]: Inserted by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^5b-2]: Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code), OJ L 243 of 15.9.2009, p. 1; last amended by Regulation (EC) 2019/1155, OJ L 188 of 12.7.2019, p. 25.
-[^5b-3]: Amended by Annex No 2 of the O of 14 Aug. 2019, in force since 2 Feb. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^5b-2]: Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code), OJ L 243 of 15.9.2009, p. 1; last amended by Regulation (EC) 2024/1415, OJ L 024/1415, 22.05.2024.
+[^5b-3]: Amended by No II 2 of the O of 7 June 2024, in force since 11 June 2024 ([AS 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 
 #### Art. 6
 

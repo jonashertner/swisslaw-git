@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2024-01-01
+version: 2024-06-11
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240611/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240611-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240611/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 1. Januar 2024)
+vom 18. Dezember 2013 (Stand am 11. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -123,8 +123,8 @@ ORBIS dient folgenden Zwecken:
 <sup>2</sup> Der externe Dienstleistungserbringer erfasst die Personendaten unter Einhaltung der Bestimmungen von Anhang X der Verordnung (EG) Nr. 810/2009[^5b-2] (Visakodex) und leitet diese der Visumbehörde weiter.[^5b-3]
 
 [^5b-1]: Eingefügt durch Ziff. II der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^5b-2]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
-[^5b-3]: Fassung gemäss Anhang Ziff. 2 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^5b-2]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1415, ABl. L, 2024/1415, 22.05.2024.
+[^5b-3]: Fassung gemäss Ziff. II 2 der V vom 7. Juni 2024, in Kraft seit 11. Juni 2024 ([AS 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 
 #### Art. 6
 
