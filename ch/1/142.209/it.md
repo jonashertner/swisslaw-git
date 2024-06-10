@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sugli emolumenti della legge federale sugl
 short: OEmol-LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: it
-version: 2024-03-01
+version: 2024-06-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240611/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240611-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240611/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/it"
 
 (Ordinanza sugli emolumenti LStrI, OEmol-LStrI)
 
-del 24 ottobre 2007 (Stato 1° marzo 2024)
+del 24 ottobre 2007 (Stato 11 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -205,8 +205,8 @@ L’emolumento per il trattamento dei dati nel SIMIC è compreso nell’ammontar
 
 <table>
 <tr><th></th><th>EUR</th></tr>
-<tr><td>a. per una domanda di visto ai sensi degli articoli 8–10 dell’ordinanza del 15 agosto 2018[^12-2] concernente l’entrata e il rilascio del visto</td><td>80</td></tr>
-<tr><td>b. per un visto per bambini di età tra i sei e i 12 anni</td><td>40. [^12-3]</td></tr>
+<tr><td>a. per una domanda di visto ai sensi degli articoli 8–10 dell’ordinanza del 15 agosto 2018[^12-2] concernente l’entrata e il rilascio del visto</td><td>90</td></tr>
+<tr><td>b. per un visto per bambini di età tra i sei e i 12 anni</td><td>45. [^12-3]</td></tr>
 </table>
 
 <sup>2</sup>
@@ -224,7 +224,7 @@ Nell’ambito della sua competenza in materia di visti la SEM o il DFAE può, in
 
 [^12-1]: Nuovo testo giusta il n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^12-3]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 [^12-4]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-5]: Nuovo testo giusta il n. I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 ([RU 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 

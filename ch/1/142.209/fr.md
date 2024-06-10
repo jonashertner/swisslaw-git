@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 sur les émoluments perçus en application
 short: Oem-LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: fr
-version: 2024-03-01
+version: 2024-06-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240611/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240611-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240611/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/fr"
 
 (Tarif des émoluments LEI, Oem-LEI)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> mars 2024)
+du 24 octobre 2007 (État le 11 juin 2024)
 
 Le Conseil fédéral,
 
@@ -204,8 +204,8 @@ Pour le traitement des données dans le SYMIC, l’émolument est compris dans l
 
 <table>
 <tr><th></th><th>Euros</th></tr>
-<tr><td>a. pour toute demande de visa au sens des art. 8 à 10 de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^12-2]</td><td>80</td></tr>
-<tr><td>b. pour un visa pour enfant âgé de 6 à 12 ans</td><td>40.[^12-3]</td></tr>
+<tr><td>a. pour toute demande de visa au sens des art. 8 à 10 de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^12-2]</td><td>90</td></tr>
+<tr><td>b. pour un visa pour enfant âgé de 6 à 12 ans</td><td>45.[^12-3]</td></tr>
 </table>
 
 <sup>2</sup>
@@ -223,7 +223,7 @@ Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peuvent
 
 [^12-1]: Nouvelle teneur selon le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^12-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 11 juin 2024 ([RO 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 [^12-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-5]: Nouvelle teneur selon le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 

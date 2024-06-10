@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über die Gebühren zum Ausländer- und 
 short: GebV-AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: de
-version: 2024-03-01
+version: 2024-06-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20240611/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20240611-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240611/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20240301/de"
 
 (Gebührenverordnung AIG, GebV-AIG)
 
-vom 24. Oktober 2007 (Stand am 1. März 2024)
+vom 24. Oktober 2007 (Stand am 11. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -205,8 +205,8 @@ Die Gebühr für Datenbearbeitungen im ZEMIS ist in den Gebührenansätzen nach 
 
 <table>
 <tr><th></th><th>EUR</th></tr>
-<tr><td>a. für Visumgesuche nach den Artikeln 8–10 der Verordnung vom 15. August 2018[^12-2] über die Einreise und die Visumerteilung</td><td>80</td></tr>
-<tr><td>b. für ein Visum für Kinder im Alter zwischen 6 und 12 Jahren</td><td>40[^12-3]</td></tr>
+<tr><td>a. für Visumgesuche nach den Artikeln 8–10 der Verordnung vom 15. August 2018[^12-2] über die Einreise und die Visumerteilung</td><td>90</td></tr>
+<tr><td>b. für ein Visum für Kinder im Alter zwischen 6 und 12 Jahren</td><td>45.[^12-3]</td></tr>
 </table>
 
 <sup>2</sup>
@@ -224,7 +224,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 
 [^12-1]: Fassung gemäss Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^12-2]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^12-3]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 11. Juni 2024 (AS **20****24** 258).
 [^12-4]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-5]: Fassung gemäss Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 76](https://fedlex.data.admin.ch/eli/oc/2024/76)).
 
