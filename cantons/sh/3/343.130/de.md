@@ -4,29 +4,31 @@ number: "343.130"
 title: Vereinbarung über das Rehabilitationszentrum für Drogenabhängige Lutzenberg (Drogenheim)
 language: de
 version: 1982-07-01
+corrected: 2024-06-12
 version_adopted: 1981-08-21
 adopted: 1981-08-21
 in_force: 1982-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/343.130"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1139/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/141/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über das Rehabilitationszentrum für Drogenabhängige Lutzenberg (Drogenheim)
 
-Vom 21.08.1981 (Stand 01.07.1982)
+vom 21. August 1981
 
-Die Kantone Glarus, Schaffhausen, Appenzell I.Rh., Appenzell A.Rh., St. Gallen, Graubünden und Thurgau sowie das Fürstentum Liechtenstein,
+Die Kantone Glarus, Schaffhausen, Appenzell I.Rh., Appenzell A.Rh., St. Gallen, Graubünden und Thurgau sowie das Fürstentum Liechtenstein
 
-in Ausführung der Bundesgesetzgebung über die Betäubungsmittel[^ingress-1] und von Art. 382 des Schweizerischen Strafgesetzbuches[^ingress-2],
+vereinbaren
 
-beschliessen:
+in Ausführung der Bundesgesetzgebung über die Betäubungsmittel[^t-1] und von Art. 382 des Schweizerischen Strafgesetzbuches[^t-2]:
 
-[^ingress-1]: SR [812.121](http://db.clex.ch/link/Bund/812.121/de).
-[^ingress-2]: SR [311.0](http://db.clex.ch/link/Bund/311.0/de).
+[^t-1]: SR 812.121.
+[^t-2]: SR 311.0.
 
-## 1 Allgemeine Bestimmung
+### I. Allgemeine Bestimmung
 
 #### Art. 1
 
@@ -38,17 +40,21 @@ beschliessen:
 
 <sup>3</sup> Sein Sitz ist Lutzenberg.
 
-## 2 Erwerb, Betrieb und Finanzierung
+### II. Erwerb, Betrieb und Finanzierung
 
 #### Art. 2
 
 **Erwerb**
 
-<sup>1</sup> Für den Betrieb des Drogenheims werden vom Verein Lärchenheim Lutzenberg die im Grundbuchkreis Lutzenberg liegenden Liegenschaften Parzellen Nrn. 244, 256, 213 und 188 sowie die im Grundbuchkreis Rheineck liegenden Liegenschaften Parzellen Nrn. 440, 443, 444 und 445 zum Preis von Fr. 3'300'000.00, einschliesslich Zugehör und Betriebsinventar, erworben.
+Für den Betrieb des Drogenheims werden vom Verein Lärchenheim Lutzenberg die im Grundbuchkreis Lutzenberg liegenden Liegenschaften Parzellen Nrn. 244, 256, 213 und 188 sowie die im Grundbuchkreis Rheineck liegenden Liegenschaften Parzellen Nrn. 440, 443, 444 und 445 zum
+
+Amtsblatt 1982, S. 487; Rechtsbuch 1964, Nr. 375c.
+
+Preis von Fr. 3'300'000.--, einschliesslich Zugehör und Betriebsinventar, erworben.
 
 #### Art. 3
 
-**Kosten: Errichtung**
+**Kosten a) Errichtung**
 
 <sup>1</sup> Die Kosten für den Erwerb der Liegenschaften und die Errichtung des Drogenheims werden durch Beiträge des Bundes und der Vertragspartner sowie durch Zuwendungen Dritter gedeckt.
 
@@ -56,37 +62,41 @@ beschliessen:
 
 #### Art. 4
 
-**Kosten: Liegenschaftskäufe und Erweiterungsbauten**
+**b) Liegenschaftskäufe und Erweiterungsbauten**
 
-<sup>1</sup> Allfällige Ankäufe von Liegenschaften und Erweiterungsbauten, die über kleinere Ergänzungen der Anlagen des Drogenheims hinausgehen, sowie die Deckung der daraus erwachsenden Kosten bleiben besonderen Vereinbarungen der Vertragspartner vorbehalten.
+Allfällige Ankäufe von Liegenschaften und Erweiterungsbauten, die über kleinere Ergänzungen der Anlagen des Drogenheims hinausgehen, sowie die Deckung der daraus erwachsenden Kosten bleiben besonderen Vereinbarungen der Vertragspartner vorbehalten.
 
 #### Art. 5
 
-**Kosten: Betrieb: Grundsatz**
+**c) Betrieb 1. Grundsatz**
 
-<sup>1</sup> Die Betriebskosten umfassen die laufenden Aufwendungen für den Betrieb des Drogenheims, den Ersatz von Einrichtungen und den ordentlichen baulichen Unterhalt.
+Die Betriebskosten umfassen die laufenden Aufwendungen für den Betrieb des Drogenheims, den Ersatz von Einrichtungen und den ordentlichen baulichen Unterhalt.
 
 #### Art. 6
 
-**Kosten: Betrieb: Deckung**
+**2. Deckung**
 
-<sup>1</sup> Die Betriebskosten werden gedeckt durch:
+Die Betriebskosten werden gedeckt durch:
 
-- a) Betriebsbeiträge
-- b) Beiträge des Bundes
-- c) Kostgelder
-- d) Defizitbeiträge
-- e) Zuwendungen Dritter
+- a) Betriebsbeiträge;
+
+- b) Beiträge des Bundes;
+
+- c) Kostgelder;
+
+- d) Defizitbeiträge;
+
+- e) Zuwendungen Dritter.
 
 #### Art. 7
 
-**Kosten: Betrieb: Kostgeld**
+**3. Kostgeld**
 
-<sup>1</sup> Das Drogenheim erhebt für den Insassen ein Kostgeld.
+Das Drogenheim erhebt für den Insassen ein Kostgeld.
 
 #### Art. 8
 
-**Kosten: Betrieb: Defizitbeiträge**
+**4. Defizitbeiträge**
 
 <sup>1</sup> Die Vertragspartner tragen das Betriebsdefizit.
 
@@ -96,24 +106,27 @@ beschliessen:
 
 **Steuerbefreiung**
 
-<sup>1</sup> Das Drogenheim ist von den Staats- und Gemeindesteuern der Vertragspartner befreit.
+Das Drogenheim ist von den Staats- und Gemeindesteuern der Vertragspartner befreit.
 
-## 3 Organisation
+### III. Organisation
 
 #### Art. 10
 
 **Organe**
 
-<sup>1</sup> Organe sind:
+Organe sind:
 
-- a) die Aufsichtskommission
-- b) die Betriebskommission
-- c) die Kontrollstelle
-- d) die Heimleitung
+- a) die Aufsichtskommission;
+
+- b) die Betriebskommission;
+
+- c) die Kontrollstelle;
+
+- d) die Heimleitung.
 
 #### Art. 11
 
-**Aufsichtskommission: Zusammensetzung**
+**Aufsichtskommission a) Zusammensetzung**
 
 <sup>1</sup> Die Aufsichtskommission besteht aus je einem Regierungsmitglied der Vertragspartner.
 
@@ -121,32 +134,39 @@ beschliessen:
 
 #### Art. 12
 
-**Aufsichtskommission: Zuständigkeit**
+**b) Zuständigkeit**
 
 <sup>1</sup> Die Aufsichtskommission ist das oberste Organ des Drogenheims.
 
 <sup>2</sup> Sie:
 
-- a) erlässt ergänzende Vorschriften über Organisation und Zuständigkeiten, insbesondere das Personalrecht und die Heimordnung
-- b) genehmigt das Betriebskonzept und legt den Stellenplan fest
-- c) setzt das Kostgeld fest
-- d) regelt die Voraussetzungen für die Aufnahme von Drogenabhängigen aus Kantonen, die der Vereinbarung nicht angehören
-- e) wählt die Betriebskommission, die Kontrollstelle und die Heimleitung
-- f) genehmigt Voranschlag, Jahresbericht und Rechnung
-- g) beschliesst über Nachtragskredite
+- a) erlässt ergänzende Vorschriften über Organisation und Zuständigkeiten, insbesondere das Personalrecht und die Heimordnung;
+
+- b) genehmigt das Betriebskonzept und legt den Stellenplan fest;
+
+- c) setzt das Kostgeld fest;
+
+- d) regelt die Voraussetzungen für die Aufnahme von Drogenabhängigen aus Kantonen, die der Vereinbarung nicht angehören;
+
+- e) wählt die Betriebskommission, die Kontrollstelle und die Heimleitung;
+
+- f) genehmigt Voranschlag, Jahresbericht und Rechnung;
+
+- g) beschliesst über Nachtragskredite.
 
 #### Art. 13
 
-**Aufsichtskommission: Sitzungen**
+**c) Sitzungen**
 
-<sup>1</sup> Die Aufsichtskommission tritt zusammen:
+Die Aufsichtskommission tritt zusammen:
 
-- a) in der Regel jährlich zweimal zu einer ordentlichen Sitzung
-- b) auf Verlangen eines Mitgliedes, der Betriebskommission oder der Heimleitung zu ausserordentlichen Sitzungen
+- a) in der Regel jährlich zweimal zu einer ordentlichen Sitzung;
+
+- b) auf Verlangen eines Mitgliedes, der Betriebskommission oder der Heimleitung zu ausserordentlichen Sitzungen.
 
 #### Art. 14
 
-**Betriebskommission: Zusammensetzung**
+**Betriebskommission a) Zusammensetzung**
 
 <sup>1</sup> Die Betriebskommission besteht aus sieben Mitgliedern.
 
@@ -154,15 +174,17 @@ beschliessen:
 
 #### Art. 15
 
-**Betriebskommission: Zuständigkeit**
+**b) Zuständigkeit**
 
 <sup>1</sup> Die Betriebskommission führt die unmittelbare Aufsicht über die Heimleitung.
 
 <sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a) Ausführung und Überwachung der Beschlüsse der Aufsichtskommission
-- b) Vorbereitung der Sitzungen der Aufsichtskommission
-- c) Wahl des ständigen Personals
+- a) Ausführung und Überwachung der Beschlüsse der Aufsichtskommission;
+
+- b) Vorbereitung der Sitzungen der Aufsichtskommission;
+
+- c) Wahl des ständigen Personals.
 
 #### Art. 16
 
@@ -182,13 +204,13 @@ beschliessen:
 
 <sup>2</sup> Zusammensetzung und Aufgabenkreis werden von der Aufsichtskommission geregelt.
 
-## 4 Verantwortlichkeit und Rechtsschutz
+### IV. Verantwortlichkeit und Rechtsschutz
 
 #### Art. 18
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Verantwortlichkeit des Drogenheims, seiner Organe und seines Personals richtet sich nach den gesetzlichen Vorschriften des Kantons Appenzell A.Rh. über die Verantwortlichkeit für den von Beamten und Angestellten des Gemeinwesens verursachten Schaden.
+Die Verantwortlichkeit des Drogenheims, seiner Organe und seines Personals richtet sich nach den gesetzlichen Vorschriften des Kantons Appenzell A.Rh. über die Verantwortlichkeit für den von Beamten und Angestellten des Gemeinwesens verursachten Schaden.
 
 #### Art. 19
 
@@ -200,7 +222,7 @@ beschliessen:
 
 <sup>3</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege des Kantons St. Gallen.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### Art. 20
 
@@ -220,7 +242,7 @@ beschliessen:
 
 <sup>3</sup> Das Schiedsgericht regelt sein Verfahren selbst.
 
-<sup>4</sup> Im Übrigen werden die Bestimmungen des Konkordates über die Schiedsgerichtsbarkeit vom 27. März 1969[^21-1] sachgemäss angewendet. Auf die Hinterlegung des Schiedsspruches und dessen Zustellung durch die richterliche Behörde wird verzichtet.
+<sup>4</sup> Im übrigen werden die Bestimmungen des Konkordates über die Schiedsgerichtsbarkeit vom 27. März 1969[^21-1] sachgemäss angewendet. Auf die Hinterlegung des Schiedsspruches und dessen Zustellung durch die richterliche Behörde wird verzichtet.
 
 [^21-1]: SR 279.
 
@@ -228,19 +250,18 @@ beschliessen:
 
 **Vollstreckbarkeit von Verfügungen und Entscheiden**
 
-<sup>1</sup> Verfügungen und Entscheide über öffentlich-rechtliche Forderungen des Drogenheims sind in den Vertragskantonen vollstreckbaren gerichtlichen Urteilen gleichgestellt[^22-1].
-
-[^22-1]: Art. 80 Abs. 2 SchKG.
+Verfügungen und Entscheide über öffentlich-rechtliche Forderungen des Drogenheims sind in den Vertragskantonen vollstreckbaren gerichtlichen 4) Urteilen gleichgestellt .
 
 #### Art. 23
 
 **Rechtsgültigkeit und Vollzugsbeginn**
 
-<sup>1</sup> Diese Vereinbarung wird mit dem Beitritt von vier Vertragspartnern mit zusammen wenigstens 600'000 Einwohnern rechtsgültig[^23-1].
+<sup>1</sup> Diese Vereinbarung wird mit dem Beitritt von vier Vertragspartnern mit zusammen wenigstens 600'000 Einwohnern rechtsgültig.
 
-<sup>2</sup> Die Aufsichtskommission bestimmt den Vollzugsbeginn dieser Vereinbarung[^23-2] und legt sie dem Bundesrat zur Einsichtnahme vor.
+<sup>2</sup> Die Aufsichtskommission bestimmt den Vollzugsbeginn dieser Vereinbarung und legt sie dem Bundesrat zur Einsichtnahme vor.
 
-[^23-1]: Beitritt des Kantons Schaffhausen durch GRB vom 8. März 1982
-[^23-2]: Inkraft seit dem 1. Juli 1982
+Fussnoten:
 
-Abl. 1982, S. 487
+## Weitere Fussnoten
+
+- [4] Art. 80 Abs. 2 SchKG.
