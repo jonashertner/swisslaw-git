@@ -4,36 +4,38 @@ number: "410.520"
 title: Beschluss betreffend die Einmietung der Seminarabteilungen und des Didaktischen Zentrums in der ehemaligen Werkschule +GF+
 language: de
 version: 1995-03-12
+corrected: 2024-06-13
 version_adopted: 1994-11-28
 adopted: 1994-11-28
 in_force: 1995-03-12
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.520"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1168/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/20/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Beschluss betreffend die Einmietung der Seminarabteilungen und des Didaktischen Zentrums in der ehemaligen Werkschule +GF+
 
-Vom 28.11.1994 (Stand 12.03.1995)
+vom 28. November 1994
 
 Der Grosse Rat des Kantons Schaffhausen,
 
 beschliesst:
 
-#### § 1
+1.
 
-<sup>1</sup> Die ehemalige Werkschule +GF+ wird für einen jährlichen Mietzins von Fr. 190'000.00 (Basis Landesindex der Konsumentenpreise vom 31. Mai 1994) zuzüglich Nebenkosten gemietet. Im ersten Jahr beträgt der Mietzins Fr. 160'000.00. Der Mietzins wird den Indexveränderungen angepasst.
+Die ehemalige Werkschule +GF+ wird für einen jährlichen Mietzins von 190'000 Fr. (Basis Landesindex der Konsumentenpreise vom 31. Mai 1994) zuzüglich Nebenkosten gemietet. Im ersten Jahr beträgt der Mietzins 160'000 Fr. Der Mietzins wird den Indexveränderungen angepasst.
 
-#### § 2
+2.
 
-<sup>1</sup> Für die Einrichtung (Baumassnahmen und Ausstattung) zur Nutzung der ehemaligen Werkschule +GF+ durch die Seminarabteilungen der Kantonsschule und das Didaktische Zentrum wird ein Kredit von Fr. 885'000.00 bewilligt. Der Kredit beruht auf der Kostenbasis vom 1. April 1994. Er wird bis zur Fertigstellung der Einrichtungen den veränderten Baukosten gemäss Zürcher Baukostenindex angepasst.
+Für die Einrichtung (Baumassnahmen und Ausstattung) zur Nutzung der ehemaligen Werkschule +GF+ durch die Seminarabteilungen der Kantonsschule und das Didaktische Zentrum wird ein Kredit von 885'000 Fr. bewilligt. Der Kredit beruht auf der Kostenbasis vom 1. April 1994. Er wird bis zur Fertigstellung der Einrichtungen den veränderten Baukosten gemäss Zürcher Baukostenindex angepasst.
 
-#### § 3
+3.
 
-<sup>1</sup> Dieser Beschluss tritt mit der Annahme durch das Volk in Kraft[^3-1]. Er ist im Amtsblatt zu veröffentlichen[^3-2] und in die kantonale Gesetzessammlung aufzunehmen.
+Dieser Beschluss tritt mit der Annahme durch das Volk in Kraft[^t-1]. Er ist im Amtsblatt zu veröffentlichen[^t-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^3-1]: In Kraft getreten am 12. März 1995 (Amtsblatt 1995, S. 444).
-[^3-2]: Amtsblatt 1995, S. 406.
+Fussnoten:
 
-Abl. 1995, S. 406
+[^t-1]: In Kraft getreten am 12. März 1995 (Amtsblatt 1995, S. 444).
+[^t-2]: Amtsblatt 1995, S. 406. Amtsblatt 1995, S. 406; Rechtsbuch 1964, Nr. 103h.
