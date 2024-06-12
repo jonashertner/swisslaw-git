@@ -3,11 +3,11 @@ sr: "0.747.305.15"
 title: Convenzione delle Nazioni Unite del 10 dicembre 1982 sul diritto del mare (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/416"
 language: it
-version: 2020-07-06
+version: 2024-06-13
 adopted: 1982-12-10
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20200706/it/xml/fedlex-data-admin-ch-eli-cc-2009-416-20200706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20200706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20240613/it/xml/fedlex-data-admin-ch-eli-cc-2009-416-20240613-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20240613/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2009** 3209; FF **2008** 3487
 
 Traduzione
 
-Conclusa a Montego Bay il 10 dicembre 1982
+Conclusa a Montego Bay il 10 dicembre 1982 Approvata dall’Assemblea federale il 19 dicembre 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° maggio 2009 Entrata in vigore per la Svizzera il 31 maggio 2009
 
-Approvata dall’Assemblea federale il 19 dicembre 2008[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 1° maggio 2009
-
-Entrata in vigore per la Svizzera il 31 maggio 2009
-
-(Stato 6 luglio 2020)
+(Stato 13 giugno 2024)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 19 dic. 2008 ([RU 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415)).
 
@@ -3642,10 +3636,10 @@ Allegato I
 - 8\. *Thunnus maccoyii*
 - 9\. *Auxis thazard*; *Auxis rochei* (Tombarello)
 - 10\. *Bramidae* (Bramidi, fam.)
-- 11\. *Tetrapturus angustirostris*; *Tetrapturus belone*; *Tetrapturus pfluegeri*; *Tetrapturus albidus* (Aguglia imperiale); *Tetrapturus audax*; *Tetrapturus georgei*; *Makaira maz**a**ra*; *Makaira indica*; *Makaira nigricans*
+- 11\. *Tetrapturus angustirostris*; *Tetrapturus belone*; *Tetrapturus pfluegeri*; *Tetrapturus albidus* (Aguglia imperiale); *Tetrapturus audax*; *Tetrapturus georgei*; *Makaira mazara*; *Makaira indica*; *Makaira nigricans*
 - 12\. *Istiophorus platypterus*; *Istiophorus albicans*
 - 13\. *Xiphias gladius* (Pesce spada)
-- 14\. *Scomberesox saurus* (Costardella o Gastodella); *Cololabis saira*; *Cololabis adoc**e**tus*; *Scomberesox* saurus scombroides
+- 14\. *Scomberesox saurus* (Costardella o Gastodella); *Cololabis saira*; *Cololabis adocetus*; *Scomberesox* saurus scombroides
 - 15\. *Coryphaena hippurus*; *Coryphaena equiselis* (Corifena)
 - 16\. *Hexanchus griseus* (Notidano grigio o pesce vacca); *Cethorinus maximus* (Cetorino o pesce elefante); *Alopiidae* (Alopidi, fam.); *Rhincodon typus* (Squalo balena); *Carcharhinidae* (Carcarinidi, fam.); *Sphyrnidae* (Sfirnidi, fam.); *Isuridae* (Isuridi, fam.)
 - 17\. *Physeteridae* (Fiseteredi, fam.); *Balaenopteridae* (Balenotteridi, fam.); *Balaenidae* (Balenidi, fam.); *Eschrichtiidae* (Escrittidi, fam.); *Monodontidae* (Monodontidi, fam.); *Ziphiidae* (Zifidi, fam.); *Delphinidae* (Delfinidi, fam.).
@@ -3947,7 +3941,7 @@ Se il contraente preferisce versare il suo contributo finanziario all’Autorit�
   - ii) La quota spettante all’Autorità dei profitti netti imputabili viene calcolata secondo lo schema progressivo seguente:
 
 <table>
-<tr><td>Parte di profitti netti imputabili</td><td>Primo periodo di produzione commerciale</td><td>Secondo periodo di produzione commerciale</td></tr>
+<tr><th>Parte di profitti netti imputabili</th><th>Primo periodo di produzione commerciale</th><th>Secondo periodo di produzione commerciale</th></tr>
 <tr><td>Quota corrispondente a un rendimento dell’investimento superiore allo 0 % ma inferiore al 10 %</td><td>35 %</td><td>40 %</td></tr>
 <tr><td>Quota corrispondente a un rendimento dell’investimento pari o superiore al 10 % ma inferiore al 20 %</td><td>42,5 %</td><td>50 %</td></tr>
 <tr><td>Quota superiore a un rendimento dell’investimento pari o superiore al 20 %</td><td>50 %</td><td>70 %</td></tr>
@@ -5108,7 +5102,7 @@ La Parte XVII si applica *mutatis mutandis* alle organizzazioni internazionali s
 - c) i) una organizzazione internazionale non può denunciare la presente Convenzione conformemente all’articolo 317 se qualcuno dei suoi Stati membri è uno Stato contraente e se essa continua a rispondere ai requisiti specificati nell’articolo 1 del presente allegato;
   - ii) una organizzazione internazionale deve denunciare la presente Convenzione quando nessuno dei suoi Stati membri è Stato contraente o se l’organizzazione internazionale cessa di rispondere alle condizioni previste dall’articolo 1 del presente allegato. La denuncia ha effetto immediatamente.
 
-Campo d’applicazione il 6 luglio 2020**[^t-2]**
+Campo d’applicazione il 13 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -5129,7 +5123,7 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Belarus<sup>\* \*\*</sup></td><td>30 agosto</td><td>2006</td><td>29 settembre</td><td>2006</td></tr>
 <tr><td>Belgio<sup>\* \*\*</sup></td><td>13 novembre</td><td>1998</td><td>13 dicembre</td><td>1998</td></tr>
 <tr><td>Belize<sup>\*\*</sup></td><td>13 agosto</td><td>1983</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Benin</td><td>16 ottobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
+<tr><td>Benin\*</td><td>16 ottobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
 <tr><td>Bolivia<sup>\*</sup></td><td>28 aprile</td><td>1995</td><td>28 maggio</td><td>1995</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Botswana</td><td>2 maggio</td><td>1990</td><td>16 novembre</td><td>1994</td></tr>
@@ -5146,7 +5140,7 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Cina<sup>\*</sup></td><td>7 giugno</td><td>1996</td><td>7 luglio</td><td>1996</td></tr>
 <tr><td>Cipro</td><td>12 dicembre</td><td>1988</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Comore</td><td>21 giugno</td><td>1994</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Congo (Brazzaville)</td><td>9 luglio</td><td>2008</td><td>8 agosto</td><td>2008</td></tr>
+<tr><td>Congo (Brazzaville)\*</td><td>9 luglio</td><td>2008</td><td>8 agosto</td><td>2008</td></tr>
 <tr><td>Congo (Kinshasa)<sup>\*</sup></td><td>17 febbraio</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Corea (Sud)<sup>\*</sup></td><td>29 gennaio</td><td>1996</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>Costa Rica<sup>\*</sup></td><td>21 settembre</td><td>1992</td><td>16 novembre</td><td>1994</td></tr>
@@ -5183,11 +5177,10 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Haiti</td><td>31 luglio</td><td>1996</td><td>30 agosto</td><td>1996</td></tr>
 <tr><td>Honduras<sup>\*</sup></td><td>5 ottobre</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>India<sup>\*</sup></td><td>29 giugno</td><td>1995</td><td>29 luglio</td><td>1995</td></tr>
-<tr><td>Indonesia</td><td>3 febbraio</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Indonesia\*</td><td>3 febbraio</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Iraq</td><td>30 luglio</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Irlanda<sup>\* \*\*</sup></td><td>21 giugno</td><td>1996</td><td>21 luglio</td><td>1996</td></tr>
 <tr><td>Islanda<sup>\*</sup></td><td>21 giugno</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Isole Cook</td><td>15 febbraio</td><td>1995</td><td>17 marzo</td><td>1995</td></tr>
 <tr><td>Italia<sup>\* \*\*</sup></td><td>13 gennaio</td><td>1995</td><td>12 febbraio</td><td>1995</td></tr>
 <tr><td>Kenya<sup>\*</sup></td><td>2 marzo</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Kiribati<sup>\*</sup></td><td>24 febbraio</td><td>2003 A</td><td>26 marzo</td><td>2003</td></tr>
@@ -5224,9 +5217,10 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Nicaragua<sup>\*</sup></td><td>3 maggio</td><td>2000</td><td>2 giugno</td><td>2000</td></tr>
 <tr><td>Niger</td><td>7 agosto</td><td>2013</td><td>6 settembre</td><td>2013</td></tr>
 <tr><td>Nigeria\*</td><td>14 agosto</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Niue</td><td>11 ottobre</td><td>2006</td><td>10 novembre</td><td>2006</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>24 giugno</td><td>1996</td><td>24 luglio</td><td>1996</td></tr>
 <tr><td>Nuova Zelanda</td><td>19 luglio</td><td>1996</td><td>18 agosto</td><td>1996</td></tr>
+<tr><td>Isole Cook</td><td>15 febbraio</td><td>1995</td><td>17 marzo</td><td>1995</td></tr>
+<tr><td>Niue</td><td>11 ottobre</td><td>2006</td><td>10 novembre</td><td>2006</td></tr>
 <tr><td>Oman<sup>\*</sup></td><td>17 agosto</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Peasi Bassi <sup>\*</sup> <sup>\*\*</sup></td><td>28 giugno</td><td>1996</td><td>28 luglio</td><td>1996</td></tr>
 <tr><td>Aruba</td><td>23 luglio</td><td>2014</td><td>23 luglio</td><td>2014</td></tr>
@@ -5259,6 +5253,7 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Turks e Caicos, Isole</td><td>25 luglio</td><td>1997</td><td>24 agosto</td><td>1997</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>25 luglio</td><td>1997</td><td>24 agosto</td><td>1997</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>17 dicembre</td><td>1996</td><td>16 gennaio</td><td>1997</td></tr>
+<tr><td>Ruanda</td><td>18 maggio</td><td>2023</td><td>17 giugno</td><td>2023</td></tr>
 <tr><td>Russia<sup>\* \*\*</sup></td><td>12 marzo</td><td>1997</td><td>11 aprile</td><td>1997</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>7 gennaio</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Saint Vincent e Grenadine<sup>\*</sup></td><td>1° ottobre</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
@@ -5300,10 +5295,10 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Zambia</td><td>7 marzo</td><td>1983</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>24 febbraio</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5">\*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416), [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662), [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16), [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117), [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207), [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416); [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662); [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16); [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117); [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207); [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582); [2024 307](https://fedlex.data.admin.ch/eli/oc/2024/307). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 

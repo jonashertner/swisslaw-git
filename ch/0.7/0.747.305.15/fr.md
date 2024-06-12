@@ -3,11 +3,11 @@ sr: "0.747.305.15"
 title: Convention des Nations Unies du 10 décembre 1982 sur le droit de la mer (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/416"
 language: fr
-version: 2020-07-06
+version: 2024-06-13
 adopted: 1982-12-10
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-2009-416-20200706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20240613/fr/xml/fedlex-data-admin-ch-eli-cc-2009-416-20240613-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20240613/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> mai 2009
 
 Entrée en vigueur pour la Suisse le 31 mai 2009
 
-(Etat le 6 juillet 2020)
+(État le 13 juin 2024)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 19 déc. 2008 ([RO 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415)).
 
@@ -3640,11 +3640,11 @@ Annexe I
 - 8\. Thon à nageoire bleue: *Thunnus maccoyii*
 - 9\. Auxide: *Auxis thazard; Auxis rochei*
 - 10\. Brème de mer: Familie *Bramidae*
-- 11\. Martin: *Tetrapturus angustirostris; Tetrapturus belone; Tetrapturus pflu**e**geri; Tetrapturus albidus; Tetrapturus audax; Tetrapturus georgei; Makaira maz**a**ra; Makaira indica; Makaira nigricans*
+- 11\. Martin: *Tetrapturus angustirostris; Tetrapturus belone; Tetrapturus pfluegeri; Tetrapturus albidus; Tetrapturus audax; Tetrapturus georgei; Makaira mazara; Makaira indica; Makaira nigricans*
 - 12\. Voilier: *Istiophorus platypterus; Istiophorus albicans*
 - 13\. Espadon: *Xiphias gladius*
 - 14\. Sauri ou balaou: *Scomberesox saurus; Cololabis saira; Cololabis adocetus; Scomberesox saurus scombroides*
-- 15\. Coryphène ou dorade tropicale: *Coryphaena hippurus; Coryphaena equis**e**lis*
+- 15\. Coryphène ou dorade tropicale: *Coryphaena hippurus; Coryphaena equiselis*
 - 16\. Requin: *Hexanchus griseus; Cetorhinus maximus; Alopiidae; Rhincodon typus; Carcharhinidae; Sphyrnidae; Isurida*
 - 17\. Cétacés (baleines et marsouins): *Physeteridae; Balaenopteridae; Balaenidae Eschrichtiidae; Monodontidae; Ziphiidae; Delphinidae*
 
@@ -5100,7 +5100,7 @@ La partie XVII s’applique *mutatis mutandis* aux organisations internationales
 - c) i) aux fins de l’art. 317, une organisation internationale qui compte parmi ses membres un État Partie à la Convention et qui continue de remplir les conditions prévues à l’art. 1 de la présente annexe ne peut pas dénoncer la Convention,
   - ii) une organisation internationale doit dénoncer la Convention si elle ne compte plus parmi ses membres aucun État Partie ou si elle a cessé de remplir les conditions prévues à l’art. 1 de la présente annexe. La dénonciation prend effet immédiatement.
 
-Champ d’application le 6 juillet 2020**[^t-2]**
+Champ d’application le 13 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -5123,7 +5123,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Bélarus<sup>\* \*\*</sup></td><td>30 août</td><td>2006</td><td>29 septembre</td><td>2006</td></tr>
 <tr><td>Belgique<sup>\*</sup> <sup>\*\*</sup></td><td>13 novembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
 <tr><td>Belize<sup>\*\*</sup></td><td>13 août</td><td>1983</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Bénin</td><td>16 octobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
+<tr><td>Bénin<sup>\*</sup></td><td>16 octobre</td><td>1997</td><td>15 novembre</td><td>1997</td></tr>
 <tr><td>Bolivie<sup>\*</sup></td><td>28 avril</td><td>1995</td><td>28 mai</td><td>1995</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Botswana</td><td>2 mai</td><td>1990</td><td>16 novembre</td><td>1994</td></tr>
@@ -5138,7 +5138,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Chine<sup>\*</sup></td><td>7 juin</td><td>1996</td><td>7 juillet</td><td>1996</td></tr>
 <tr><td>Chypre</td><td>12 décembre</td><td>1988</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Comores</td><td>21 juin</td><td>1994</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Congo (Brazzaville)</td><td>9 juillet</td><td>2008</td><td>8 août</td><td>2008</td></tr>
+<tr><td>Congo (Brazzaville)<sup>\*</sup></td><td>9 juillet</td><td>2008</td><td>8 août</td><td>2008</td></tr>
 <tr><td>Congo (Kinshasa)<sup>\*</sup></td><td>17 février</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Corée (Sud)<sup>\*</sup></td><td>29 janvier</td><td>1996</td><td>28 février</td><td>1996</td></tr>
 <tr><td>Costa Rica<sup>\*</sup></td><td>21 septembre</td><td>1992</td><td>16 novembre</td><td>1994</td></tr>
@@ -5170,11 +5170,10 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Haïti</td><td>31 juillet</td><td>1996</td><td>30 août</td><td>1996</td></tr>
 <tr><td>Honduras<sup>\*</sup></td><td>5 octobre</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Hongrie<sup>\*</sup></td><td>5 février</td><td>2002</td><td>7 mars</td><td>2002</td></tr>
-<tr><td>Îles Cook</td><td>15 février</td><td>1995</td><td>17 mars</td><td>1995</td></tr>
 <tr><td>Îles Marshall</td><td>9 août</td><td>1991 A</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Îles Salomon</td><td>23 juin</td><td>1997</td><td>23 juillet</td><td>1997</td></tr>
 <tr><td>Inde<sup>\*</sup></td><td>29 juin</td><td>1995</td><td>29 juillet</td><td>1995</td></tr>
-<tr><td>Indonésie</td><td>3 février</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Indonésie<sup>\*</sup></td><td>3 février</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Iraq</td><td>30 juillet</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Irlande<sup>\*</sup> <sup>\*\*</sup></td><td>21 juin</td><td>1996</td><td>21 juillet</td><td>1996</td></tr>
 <tr><td>Islande<sup>\*</sup></td><td>21 juin</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
@@ -5216,9 +5215,10 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Nicaragua<sup>\*</sup></td><td>3 mai</td><td>2000</td><td>2 juin</td><td>2000</td></tr>
 <tr><td>Niger</td><td>7 août</td><td>2013</td><td>6 septembre</td><td>2013</td></tr>
 <tr><td>Nigéria<sup>\*</sup></td><td>14 août</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Nioué</td><td>11 octobre</td><td>2006</td><td>10 novembre</td><td>2006</td></tr>
 <tr><td>Norvège<sup>\*</sup></td><td>24 juin</td><td>1996</td><td>24 juillet</td><td>1996</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>19 juillet</td><td>1996</td><td>18 août</td><td>1996</td></tr>
+<tr><td>Îles Cook</td><td>15 février</td><td>1995</td><td>17 mars</td><td>1995</td></tr>
+<tr><td>Nioué</td><td>11 octobre</td><td>2006</td><td>10 novembre</td><td>2006</td></tr>
 <tr><td>Oman<sup>\*</sup></td><td>17 août</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Ouganda</td><td>9 novembre</td><td>1990</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Pakistan<sup>\*</sup></td><td>26 février</td><td>1997</td><td>28 mars</td><td>1997</td></tr>
@@ -5256,9 +5256,10 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Territoire antarctique britannique</td><td>25 juillet</td><td>1997</td><td>24 août</td><td>1997</td></tr>
 <tr><td>Territoire britannique de l’Océan Indien</td><td>25 juillet</td><td>1997</td><td>24 août</td><td>1997</td></tr>
 <tr><td>Russie<sup>\* \*\*</sup></td><td>12 mars</td><td>1997</td><td>11 avril</td><td>1997</td></tr>
-<tr><td>Sainte-Lucie</td><td>27 mars</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Rwanda</td><td>18 mai</td><td>2023</td><td>17 juin</td><td>2023</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 janvier</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines<sup>\*</sup></td><td>1<sup>er</sup> octobre</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Sainte-Lucie</td><td>27 mars</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Samoa</td><td>14 août</td><td>1995</td><td>13 septembre</td><td>1995</td></tr>
 <tr><td>Sao Tomé-et-Principe<sup>\*</sup></td><td>3 novembre</td><td>1987</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Sénégal</td><td>25 octobre</td><td>1984</td><td>16 novembre</td><td>1994</td></tr>
@@ -5291,10 +5292,10 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Yémen<sup>\*</sup></td><td>21 juillet</td><td>1987</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Zambie</td><td>7 mars</td><td>1983</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>24 février</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* [tab] Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* [tab] Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416), [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662), [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16), [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117), [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207), [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (/www.dfae.admin.ch/traites).
+[^t-2]: [RO 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416); [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662); [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16); [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117); [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207); [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582); [2024 307](https://fedlex.data.admin.ch/eli/oc/2024/307). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
