@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2023-09-21
+version: 2024-06-13
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20230921/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20230921-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20230921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20240613/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20240613-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20240613/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 21. September 2023)
+(Stand am 13. Juni 2024)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
 [^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
@@ -775,7 +775,8 @@ Der Präsident sowie der Erste und der Zweite Vizepräsident bilden das Präsidi
 <sup>1.</sup> Nach der Wahl der Richter bildet der Gerichtshof so bald wie möglich die in Artikel 34 Buchstabe b genannten Abteilungen. Die Berufungsabteilung setzt sich aus dem Präsidenten und vier weiteren Richtern, die Hauptverfahrensabteilung aus mindestens sechs Richtern und die Vorverfahrensabteilung aus mindestens sechs Richtern zusammen. Die Zuteilung der Richter zu den Abteilungen richtet sich nach der Art der von jeder Abteilung wahrzunehmenden Aufgaben sowie nach der Befähigung und der Erfahrung der in den Gerichtshof gewählten Richter, sodass in jeder Abteilung eine angemessene Mischung von Fachwissen auf dem Gebiet des Straf- und des Strafverfahrensrechts sowie des Völkerrechts vorhanden ist. Die Hauptverfahrensabteilung und die Vorverfahrensabteilung sollen überwiegend aus Richtern mit Erfahrung auf dem Gebiet der Verhandlung von Strafsachen bestehen.
 
 - 2\. a) Die richterlichen Aufgaben des Gerichtshofs werden in jeder Abteilung von Kammern wahrgenommen.
-- b) i) Die Berufungskammer setzt sich aus allen Richtern der Berufungsabteilung zusammen;
+- b) Unbeschadet der in Verfahrens- und Beweisordnung vorgesehenen Ersetzung eines Richters gilt Folgendes:[^39-1]
+- i) Die Berufungskammer setzt sich aus allen Richtern der Berufungsabteilung zusammen;
   - ii) die Aufgaben der Hauptverfahrenskammer werden von drei Richtern der Hauptverfahrensabteilung wahrgenommen;
   - iii) die Aufgaben der Vorverfahrenskammer werden entweder von drei Richtern der Vorverfahrensabteilung oder in Übereinstimmung mit diesem Statut sowie mit der Verfahrens- und Beweisordnung von einem einzelnen Richter dieser Abteilung wahrgenommen;
 
@@ -784,6 +785,8 @@ Der Präsident sowie der Erste und der Zweite Vizepräsident bilden das Präsidi
 - b) Die der Berufungsabteilung zugeteilten Richter üben ihr Amt in dieser Abteilung für die gesamte Dauer ihrer Amtszeit aus.
 
 <sup>4.</sup> Die der Berufungsabteilung zugeteilten Richter üben ihr Amt ausschliesslich in dieser Abteilung aus. Dieser Artikel schliesst jedoch die zeitweilige Zuteilung von Richtern der Hauptverfahrensabteilung zur Vorverfahrensabteilung oder umgekehrt nicht aus, wenn das Präsidium dies im Interesse der wirksamen Erledigung der beim Gerichtshof anfallenden Arbeit für erforderlich hält; allerdings darf ein Richter, der am Vorverfahren in einer Sache mitgewirkt hat, unter keinen Umständen der Hauptverfahrenskammer angehören, die in dieser Sache verhandelt.
+
+[^39-1]: Eingefügt durch die Änd. vom 13. Dez. 2023, in Kraft getreten für die Schweiz am 13. Juni 2024 ([AS 2024 319](https://fedlex.data.admin.ch/eli/oc/2024/319)).
 
 #### Art. 40
 
@@ -2372,10 +2375,10 @@ Geltungsbereich am 12. Mai 2022[^t-4]
 <tr><td colspan="2">Turks- und Caicosinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td>3. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Zypern<sup>\*</sup></td><td>7. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Vorbehalte und Erklärungen
 

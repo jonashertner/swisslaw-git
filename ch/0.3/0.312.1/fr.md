@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Statut de Rome de la Cour pénale internationale du 17 juillet 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: fr
-version: 2023-09-21
+version: 2024-06-13
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20230921/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20230921-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20230921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20240613/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20240613-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20240613/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 12 octobre 2001
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2002
 
-(État le 21 septembre 2023)
+(État le 13 juin 2024)
 
-[^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/eli/cc/2015/645); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux Etats les ayant ratifiés. Voir en conséquence leur propre champ d’application.
+[^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/eli/cc/2015/645); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux États les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: Art. 1 al. 1 de l’AF du 22 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
 
 *Préambule*
@@ -797,15 +797,21 @@ Le Président, le Premier Vice-Président et le Second Vice-Président composent
 <sup>1.</sup> Dès que possible après l’élection des juges, la Cour s’organise en sections comme le prévoit l’art. 34, par. b). La Section des appels est composée du Président et de quatre autres juges; la Section de première instance et la Section préliminaire sont composées chacune de six juges au moins. L’affectation des juges aux sections est fondée sur la nature des fonctions assignées à chacune d’elles et sur les compétences et l’expérience des juges élus à la Cour, de telle sorte que chaque section comporte la proportion voulue de spécialistes du droit pénal et de la procédure pénale et de spécialistes du droit international. La Section préliminaire et la Section de première instance sont principalement composées de juges ayant l’expérience des procès pénaux.
 
 - 2\. a) Les fonctions judiciaires de la Cour sont exercées dans chaque section par des Chambres.
-- b) i) La Chambre d’appel est composée de tous les juges de la Section des appels.
-  - ii) Les fonctions de la Chambre de première instance sont exercées par trois juges de la Section de première instance.
-  - iii) Les fonctions de la Chambre préliminaire sont exercées soit par trois juges de la Section préliminaire soit par un seul juge de cette Section conformément au présent Statut et au Règlement de procédure et de preuve.
+- b)
+
+  Sans préjudice du remplacement d’un juge, tel que prévu par le Règlement de procédure et de preuve:[^39-1]
+
+  - i) la Chambre d’appel est composée de tous les juges de la Section des appels;
+  - ii) les fonctions de la Chambre de première instance sont exercées par trois juges de la Section de première instance;
+  - iii) les fonctions de la Chambre préliminaire sont exercées soit par trois juges de la Section préliminaire soit par un seul juge de cette Section conformément au présent Statut et au Règlement de procédure et de preuve.
 
 - c) Aucune disposition du présent paragraphe n’interdit la constitution simultanée de plus d’une chambre de première instance ou chambre préliminaire lorsque le travail de la Cour l’exige.
 - 3\. a) Les juges affectés à la Section préliminaire et à la Section de première instance y siègent pendant trois ans; ils continuent d’y siéger au-delà de ce terme, jusqu’au règlement de toute affaire dont ils ont eu à connaître dans ces sections.
 - b) Les juges affectés à la Section des appels y siègent pendant toute la durée de leur mandat.
 
 <sup>4.</sup> Les juges affectés à la Section des appels siègent exclusivement dans cette Section. Aucune disposition du présent article n’interdit toutefois l’affectation provisoire de juges de la Section de première instance à la Section préliminaire, ou inversement, si la Présidence estime que le travail de la Cour l’exige, étant entendu qu’un juge qui a participé à la phase préliminaire d’une affaire n’est en aucun cas autorisé à siéger à la Chambre de première instance saisie de cette affaire.
+
+[^39-1]: Introduite par l’Am. du 13 déc. 2023, en vigueur pour la Suisse depuis le 13 juin 2024 ([RO 2024 319](https://fedlex.data.admin.ch/eli/oc/2024/319)).
 
 #### Art. 40
 
@@ -2430,12 +2436,12 @@ Champ d’application le 12 mai 2022[^t-3]
 <tr><td colspan="3">Vanuatu</td><td colspan="2">2 décembre</td><td colspan="2">2011 A</td><td>1<sup>er</sup> février</td><td>2012</td></tr>
 <tr><td colspan="3">Venezuela</td><td colspan="2">7 juin</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Zambie</td><td colspan="2">13 novembre</td><td colspan="2">2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
-<tr><td colspan="9">\* [tab] Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="9">\* [tab] Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="9"><sup>a</sup> La présente ratification ne s’appliquera aux Tokélaou que lorsque le Gouvernement néo‑zélandais aura déposé une déclaration à ce sujet auprès du dépositaire à la suite d’une consultation appropriée avec ce territoire.</td></tr>
 <tr><td colspan="9"><sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: RO **2002** 3816; [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-3]: RO **2002** 3816; [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

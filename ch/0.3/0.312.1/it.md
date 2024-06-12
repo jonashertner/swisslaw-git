@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Statuto di Roma della Corte penale internazionale del 17 luglio 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: it
-version: 2023-09-21
+version: 2024-06-13
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20230921/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20230921-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20230921/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20240613/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20240613-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20240613/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Roma il 17 luglio 1998 Approvato dall’Assemblea federale il 22 giugno 2001[^t-2] Ratificato con strumenti depositati dalla Svizzera il 12 ottobre 2001 Entrato in vigore per la Svizzera il 1° luglio 2002
 
-(Stato 21 settembre 2023)
+(Stato 13 giugno 2024)
 
 [^t-1]: Le mod. del 10 giu. 2010 ([RS [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[RU 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) e dell’11 giu. 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RU 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il loro specifico campo d’applicazione.
 [^t-2]: Art. 1 cpv. 1 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
@@ -793,7 +793,11 @@ Il Presidente, il primo Vicepresidente ed il Secondo Vicepresidente compongono l
 <sup>1.</sup> Il prima possibile dopo l’elezione dei giudici, la Corte si organizza in sezioni come previsto dall’articolo 34 paragrafo b). La Sezione degli appelli è composta dal presidente e da altri quattro giudici; la Sezione di primo grado e la Sezione preliminare sono ciascuna composte da almeno sei giudici. L’assegnazione dei giudici alle Sezioni è fondata sulla natura delle funzioni attribuite a ciascuna di esse e sulle competenze ed esperienza dei giudici eletti alla Corte, in modo tale che ciascuna sezione includa in misura adeguata membri con competenze specializzate in diritto e procedura penale, ed in diritto internazionale. La Sezione preliminare e la Sezione di primo grado sono composte in prevalenza da giudici aventi esperienza in materia di procedimenti penali.
 
 - 2\. a) Le funzioni giudiziarie della Corte sono esercitate in ciascuna sezione dalle Camere.
-- b) i) La Camera di appello è composta da tutti i giudici della sezione degli appelli.
+-
+
+- [tab]
+- b) Fatta salva la sostituzione di un giudice ai sensi del Regolamento di procedura e di prova:[^39-1]
+- i) La Camera di appello è composta da tutti i giudici della sezione degli appelli.
   - ii) Le funzioni della Camera di primo grado sono esercitate da tre giudici della Sezione di primo grado.
   - iii) Le funzioni della Camera preliminare sono esercitate sia da tre giudici della Sezione preliminare, sia da un solo giudice di tale Sezione secondo il presente Statuto e il Regolamento di procedura e di prova.
 
@@ -802,6 +806,8 @@ Il Presidente, il primo Vicepresidente ed il Secondo Vicepresidente compongono l
 - b) I giudici assegnati alla Sezione degli appelli vi siedono per tutta la durata del loro mandato.
 
 <sup>4.</sup> I giudici assegnati alla Sezione degli appelli siedono esclusivamente in questa Sezione. Nessuna disposizione del presente articolo vieta l’applicazione provvisoria di giudici della Sezione di primo grado alla Sezione preliminare o viceversa, se la Presidenza ritiene che ciò sia necessario in considerazione del carico di lavoro della Corte, rimanendo inteso che un giudice che ha partecipato alla fase preliminare di una questione non è in alcun caso autorizzato a sedere nella Camera di primo grado investita della stessa questione.
+
+[^39-1]: Introdotto dall’emendamento del 13 dic. 2023, in vigore per la Svizzera dal 13 giu. 2024 ([RU 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 
 #### Art. 40
 
@@ -2425,10 +2431,10 @@ Campo d’applicazione il 12 maggio 2022[^t-3]
 <tr><td>Vanuatu</td><td>2 dicembre</td><td>2011 A</td><td>1° febbraio</td><td>2012</td></tr>
 <tr><td>Venezuela</td><td>7 giugno</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Zambia</td><td>13 novembre</td><td>2002</td><td>1° febbraio</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 
@@ -2444,6 +2450,6 @@ La Corte può notificare per posta direttamente al destinatario in Svizzera le p
 
 Dichiarazione in virtù dell’articolo 103 paragrafo 1
 
-## Conformemente all’articolo 103 paragrafo 1 dello Statuto, la Svizzera dichiara di essere pronta ad assumersi l’onere dell’esecuzione delle pene privative della libertà inflitte dalla Corte a cittadini svizzeri o a persone che hanno il loro domicilio abituale in Svizzera.
+Conformemente all’articolo 103 paragrafo 1 dello Statuto, la Svizzera dichiara di essere pronta ad assumersi l’onere dell’esecuzione delle pene privative della libertà inflitte dalla Corte a cittadini svizzeri o a persone che hanno il loro domicilio abituale in Svizzera.
 
 [^t-4]: Art. 1 cpv. 3 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
