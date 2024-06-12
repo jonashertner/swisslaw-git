@@ -3,22 +3,21 @@ canton: BS
 number: "230.100"
 title: Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
 language: de
-version: 2016-07-01
-valid_until: 2024-06-12
-version_adopted: 2015-06-03
+version: 2024-06-13
+version_adopted: 2024-04-10
 adopted: 1891-06-22
 in_force: 1892-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/230.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3825/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6303/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
 
-Einführungsgesetz zum SchKG | Vollstreckung
+Vollstreckung / Schuldbetreibung und Konkurs
 
-Vom 22. Juni 1891 (Stand 1. Juli 2016)
+Vom 22. Juni 1891 (Stand 13. Juni 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -36,7 +35,7 @@ hat zur Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11
 
 #### § 3
 
-<sup>1</sup> In den Landgemeinden können die Gemeinderäte bei Pfändungen, Konkursen und Versteigerungen als Gehilfen des Betreibungs- und Konkursamtes verwendet werden.
+**…**
 
 #### § 4
 
@@ -68,9 +67,7 @@ hat zur Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11
 
 #### § 11
 
-<sup>1</sup> Für das Nachlassverfahren (BG Art. 293–332) ist das Dreiergericht als einzige Instanz zuständig.
-
-<sup>2</sup> Für Begehren betreffend eine einvernehmliche private Schuldenbereinigung gemäss Art. 333 ff. des Bundesgesetzes ist der Einzelrichter als einzige Instanz zuständig.
+**…**
 
 #### § 12
 
@@ -225,6 +222,10 @@ hat zur Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11
 **[^45-1]**
 
 [^45-1]: § 45 ist als Übergangsbestimmung heute nicht mehr von Bedeutung.
+
+#### § 45a
+
+<sup>1</sup> Nach Inkrafttreten der Aufhebung von § 11 werden hängige Nachlassverfahren, einschliesslich Begehren betreffend einvernehmliche private Schuldenbereinigung, nach neuem Recht weitergeführt.
 
 #### § 46
 
