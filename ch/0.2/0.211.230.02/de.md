@@ -3,11 +3,11 @@ sr: "0.211.230.02"
 title: Übereinkommen vom 25. Oktober 1980 über die zivilrechtlichen Aspekte internationaler Kindesentführung (mit Beilage und Verzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694"
 language: de
-version: 2020-09-03
+version: 2024-06-13
 adopted: 1980-10-25
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20200903/de/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20200903-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20200903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20240613/de/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20240613-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20240613/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Oktober 1983
 
 In Kraft getreten für die Schweiz am 1. Januar 1984
 
-(Stand am 3. September 2020)
+(Stand am 13. Juni 2024)
 
 [^t-1]: Art. 1 Bst. b des BB vom 21. Juni 1983 ([AS 1983 1680](https://fedlex.data.admin.ch/eli/oc/1983/1680_1680_1680)).
 
@@ -250,7 +250,7 @@ Ein Staat, in dem verschiedene Gebietseinheiten ihre eigenen Rechtsvorschriften 
 
 Dieses Übereinkommen geht im Rahmen seines sachlichen Anwendungsbereichs dem Übereinkommen vom 5. Oktober 1961[^34-1] über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen vor, soweit die Staaten Vertragsparteien beider Übereinkommen sind. Im übrigen beschränkt dieses Übereinkommen weder die Anwendung anderer internationaler Übereinkünfte, die zwischen dem Ursprungsstaat und dem ersuchten Staat in Kraft sind, noch die Anwendung des nichtvertraglichen Rechts des ersuchten Staates, wenn dadurch die Rückgabe eines widerrechtlich verbrachten oder zurückgehaltenen Kindes erwirkt oder die Durchführung des Besuchsrechts bezweckt werden soll.
 
-[^34-1]: [SR 0.211.231.01](https://fedlex.data.admin.ch/eli/cc/1969/181_191_191)
+[^34-1]: [SR 0.211.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/859)
 
 #### Art. 35
 
@@ -408,7 +408,7 @@ Die folgenden Spalten sollen so ausführlich wie möglich ausgefüllt werden.
 <tr><td></td><td colspan="5">Telefonnummer</td></tr>
 <tr><td>b)</td><td colspan="5">Vorschläge, wie die Rückgabe des Kindes durchgeführt werden soll</td></tr>
 <tr><td>VIII.</td><td colspan="5">Sonstige Bemerkungen</td></tr>
-<tr><td>IX.</td><td colspan="5">Verzeichnis der beigefügten Schriftstücke**[^annexu1-lvlu1-1]**</td></tr>
+<tr><td>IX.</td><td colspan="5">Verzeichnis der beigefügten Schriftstücke[^annexu1-lvlu1-1]</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3">Datum</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3">Ort</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3">Unterschrift und/oder Siegel der ersuchenden zentralen Behörde oder des Antragstellers</td></tr>
@@ -416,17 +416,17 @@ Die folgenden Spalten sollen so ausführlich wie möglich ausgefüllt werden.
 
 [^annexu1-lvlu1-1]: Z. B. beglaubigte Ausfertigung einer für die Sache erheblichen Entscheidung oder Vereinbarung über das Sorgerecht oder das Besuchsrecht; Bescheinigung oder eidesstattliche Erklärung (Affidavit) über das anzuwendende Recht; Auskunft über die soziale Lage des Kindes; Vollmacht für die zentrale Behörde, für den Antragsteller tätig zu werden.
 
-## Verzeichnis der Zentralen Behörden, welche die ihr durch dieses Übereinkommen übertragenen Aufgaben gemäss Artikel 6 wahrnehmen****
+## Verzeichnis der Zentralen Behörden, welche die ihr durch dieses Übereinkommen übertragenen Aufgaben gemäss Artikel 6 wahrnehmen
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: [AS 2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642). Das französische und englische Verzeichnis der Zentralen Behörden der andern Vertragsstaaten können auf der Internet-Seite der Haager Konferenz: http://www.hcch.net/index\_de.php?act=conventions.authorities&cid=24 eingesehen werden.
+[^annexu1-lvlu2-1]: [AS 2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642). Das englische Verzeichnis der Zentralen Behörden der andern Vertragsstaaten kann eingesehen werden: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html).
 
 **Schweiz**
 
-Bundesamt für Justiz Fachbereich Internationales Privatrecht Bundesrain 20 CH-3003 BERN Tel.: Sekretariat: +41 58 463 88 64 Fax: +41 58 462 78 64 E-Mail: kindesschutz@bj.admin.ch URL: http://www.ofj.admin.ch/ (for child abduction, see: http://www.ofj.admin.ch/bj/en/home/themen/gesellschaft/internationale\_kindesentfuehrung.html (Kommunikationssprache: deutsch, französisch, englisch, italienisch und spanisch)
+Bundesamt für Justiz Fachbereich Internationales Privatrecht Bundesrain 20 CH-3003 BERN Tel.: Sekretariat: +41 58 463 88 64 Fax: +41 58 462 78 64 E-Mail: kindesschutz@bj.admin.ch URL: [http://www.ofj.admin.ch/](http://www.ofj.admin.ch/) (for child abduction, see: [www.bj.a d min.ch/en/international-child-abduction-exercise-of-rights-of-access](https://www.bj.admin.ch/en/international-child-abduction-exercise-of-rights-of-access) (Kommunikationssprache: deutsch, französisch, englisch, italienisch und spanisch)
 
-Geltungsbereich am 3. September 2020**[^t-2]**
+Geltungsbereich am 13. Juni 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -471,6 +471,7 @@ Geltungsbereich am 3. September 2020**[^t-2]**
 <tr><td colspan="2">Jamaika\* <sup>a</sup></td><td>24. Februar</td><td colspan="2">2017 B</td><td>1. August</td><td>2018</td></tr>
 <tr><td colspan="2">Japan\*</td><td>24. Januar</td><td colspan="2">2014</td><td>1. April</td><td>2014</td></tr>
 <tr><td colspan="2">Kanada\*</td><td>2. Juni</td><td colspan="2">1983</td><td>1. Dezember</td><td>1983</td></tr>
+<tr><td colspan="2">Kap Verde <sup>a</sup></td><td>4. Oktober</td><td colspan="2">2022 B</td><td>1. Dezember</td><td>2023</td></tr>
 <tr><td colspan="2">Kasachstan\* <sup>a</sup></td><td>3. Juni</td><td colspan="2">2013 B</td><td>1. Juni</td><td>2016</td></tr>
 <tr><td colspan="2">Kolumbien <sup>a</sup></td><td>13. Dezember</td><td colspan="2">1995 B</td><td>1. Mai</td><td>1997</td></tr>
 <tr><td colspan="2">Korea (Süd-) <sup>a</sup></td><td>13. Dezember</td><td colspan="2">2012 B</td><td>1. Juni</td><td>2015</td></tr>
@@ -489,6 +490,7 @@ Geltungsbereich am 3. September 2020**[^t-2]**
 <tr><td colspan="2">Neuseeland\* <sup>a</sup></td><td>31. Mai</td><td colspan="2">1991 B</td><td>1. September</td><td>1992</td></tr>
 <tr><td colspan="2">Nicaragua <sup>a</sup></td><td>14. Dezember</td><td colspan="2">2000 B</td><td>1. April</td><td>2008</td></tr>
 <tr><td colspan="2">Niederlande\*</td><td>12. Juni</td><td colspan="2">1990</td><td>1. September</td><td>1990</td></tr>
+<tr><td colspan="2">Curaçao</td><td>27. November</td><td colspan="2">2023</td><td>1. Februar</td><td>2024</td></tr>
 <tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>18. Oktober</td><td colspan="2">2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td colspan="2">Nordmazedonien</td><td>23. September</td><td colspan="2">1993 N</td><td>1. Dezember</td><td>1991</td></tr>
 <tr><td colspan="2">Norwegen\*</td><td>9. Januar</td><td colspan="2">1989</td><td>1. April</td><td>1989</td></tr>
@@ -496,6 +498,7 @@ Geltungsbereich am 3. September 2020**[^t-2]**
 <tr><td colspan="2">Panama\* <sup>a</sup></td><td>2. Februar</td><td colspan="2">1994 B</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td colspan="2">Paraguay <sup>a</sup></td><td>13. Mai</td><td colspan="2">1998 B</td><td>1. November</td><td>2003</td></tr>
 <tr><td colspan="2">Peru <sup>a</sup></td><td>28. Mai</td><td colspan="2">2001 B</td><td>1. August</td><td>2001</td></tr>
+<tr><td colspan="2">Philippinen\* <sup>a</sup></td><td>16. März</td><td colspan="2">2016 B</td><td>1. September</td><td>2023</td></tr>
 <tr><td colspan="2">Polen\* <sup>a</sup></td><td>10. August</td><td colspan="2">1992 B</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td colspan="2">Portugal\*</td><td>29. September</td><td colspan="2">1983</td><td>1. Dezember</td><td>1983</td></tr>
 <tr><td colspan="2">Rumänien <sup>a</sup></td><td>20. November</td><td colspan="2">1992 B</td><td>1. Oktober</td><td>1994</td></tr>
@@ -534,7 +537,7 @@ Geltungsbereich am 3. September 2020**[^t-2]**
 <tr><td colspan="2">Kaimaninseln</td><td>8. Mai</td><td colspan="2">1998</td><td>1. August</td><td>1998</td></tr>
 <tr><td colspan="2">Montserrat</td><td>10. Dezember</td><td colspan="2">1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td colspan="2">Zypern <sup>a</sup></td><td>4. November</td><td colspan="2">1994 B</td><td>1. Mai</td><td>1997</td></tr>
-<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net &gt; de &gt; instruments &gt; conventions &gt; 28 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> In Anwendung von Art. 38 wirkt der Beitritt nur im Verhältnis zwischen dem beitretenden Staat und den Vertragsstaaten, die ihre Zustimmung zum Beitritt erklärt haben. Eine Übersicht der Vertragsbeziehungen zwischen den einzelnen Vertragsstaaten können auf der Internetseite der Haager Konferenz bezogen werden http://hcch.net &gt; de &gt; instruments &gt; conventions &gt; 28 &gt; Annahme der Beitritte</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> In Anwendung von Art. 38 wirkt der Beitritt nur im Verhältnis zwischen dem beitretenden Staat und den Vertragsstaaten, die ihre Zustimmung zum Beitritt erklärt haben. Eine Übersicht der Vertragsbeziehungen zwischen den einzelnen Vertragsstaaten können auf der Internetseite der Haager Konferenz bezogen werden: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html).</td></tr>
 </table>
 
-[^t-2]: [AS 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539), [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497), [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236), [2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642), [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9), [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213), [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211), [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181), [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197), [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539); [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497); [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236); [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449); [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9); [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213); [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211); [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181); [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197); [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685); [2024 287](https://fedlex.data.admin.ch/eli/oc/2024/287). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

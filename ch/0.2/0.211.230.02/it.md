@@ -3,11 +3,11 @@ sr: "0.211.230.02"
 title: Convenzione del 25 ottobre 1980 sugli aspetti civili del rapimento internazionale dei minori (con all. e lista)
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694"
 language: it
-version: 2020-09-03
+version: 2024-06-13
 adopted: 1980-10-25
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20200903/it/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20200903-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20200903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20240613/it/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20240613-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20240613/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1983** 1694; FF **1983** I 93
 
 Traduzione
 
-Conchiusa a La Haye il 25 ottobre 1980
+Conchiusa a La Haye il 25 ottobre 1980 Approvata dall’Assemblea federale il 21 giugno 1983[^t-1] Strumento di ratificazione depositato dalla Svizzera l’11 ottobre 1983 Entrata in vigore per la Svizzera il 1° gennaio 1984
 
-Approvata dall’Assemblea federale il 21 giugno 1983[^t-1]
-
-Strumento di ratificazione depositato dalla Svizzera l’11 ottobre 1983
-
-Entrata in vigore per la Svizzera il 1° gennaio 1984
-
-(Stato 3 settembre 2020)
+(Stato 13 giugno 2024)
 
 [^t-1]: Art. 1 lett. b del DF del 21 giu. 1983 ([RU 1983 1680](https://fedlex.data.admin.ch/eli/oc/1983/1680_1680_1680)).
 
@@ -250,7 +244,7 @@ Uno Stato in cui diverse unità territoriali hanno norme giuridiche proprie in m
 
 La presente Convenzione, nel suo campo di applicazione per materia, prevale sulla Convenzione del 5 ottobre 1961[^34-1] riguardante la competenza delle autorità e la legge applicabile in materia di protezione dei minori, fra gli Stati Parti alle due Convenzioni. Peraltro, la presente Convenzione non impedisce di avvalersi di un altro strumento internazionale vincolante lo Stato d’origine e lo Stato richiesto, come pure del diritto non convenzionato dello Stato richiesto, per ottenere il ritorno di un minore trasferito o trattenuto illecitamente, ovvero per disciplinare il diritto di visita.
 
-[^34-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/eli/cc/1969/181_191_191)
+[^34-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/859)
 
 #### Art. 35
 
@@ -405,7 +399,7 @@ Le seguenti rubriche devono essere compilate nel modo più completo possibile.
 <tr><td></td><td colspan="3">telefono</td></tr>
 <tr><td>b.</td><td colspan="3">accomodamenti proposti per il ritorno</td></tr>
 <tr><td>VIII.</td><td colspan="3">Altre osservazioni</td></tr>
-<tr><td>IX.</td><td colspan="3">Enumerazione dei documenti prodotti**[^annexu1-lvlu1-1]**</td></tr>
+<tr><td>IX.</td><td colspan="3">Enumerazione dei documenti prodotti[^annexu1-lvlu1-1]</td></tr>
 <tr><td colspan="3"></td><td>Fatto a</td></tr>
 <tr><td colspan="3"></td><td>il</td></tr>
 <tr><td colspan="3"></td><td>Firma o sigillo dell’Autorità centrale richiedente o del richiedente</td></tr>
@@ -413,7 +407,7 @@ Le seguenti rubriche devono essere compilate nel modo più completo possibile.
 
 [^annexu1-lvlu1-1]: P. es. copia certificata conforme di una decisione o di un accordo riguardo alla custodia o al diritto di visita; certificato d’uso o dichiarazione asseverata riguardo alla legge applicabile; informazione sulla situazione sociale del minore; procura conferita all’Autorità centrale.
 
-## Elenco delle autorità centrali incaricate di soddisfare agli obblighi imposti dalla Convenzione conformemente all’articolo 6****
+## Elenco delle autorità centrali incaricate di soddisfare agli obblighi imposti dalla Convenzione conformemente all’articolo 6
 
 [^annexu1-lvlu2-1]
 
@@ -435,16 +429,16 @@ Faxe: +41 58 462 78 64
 
 E-mail: kindesschutz@bj.admin.ch
 
-URL: www.ofj.admin.ch/ (for child abduction, see:
+URL: [www.ofj.admin.ch](https://www.bj.admin.ch/bj/en/home.html)/ (for child abduction, see:
 
-www.ofj.admin.ch/bj/en/home/themen/gesellschaft/internationale\_ kindesentfuehrung.html)
+[www.bj.admin.ch/en/internatio n al-child-abduction-exercise-of-rights-of-access](https://www.bj.admin.ch/en/international-child-abduction-exercise-of-rights-of-access))
 
 (Lingue di comunicazione: tedesco, francese, inglese, italiano, spagnolo)
 
-Campo d’applicazione il 3 settembre 2020**[^t-2]**
+Campo d’applicazione il 13 giugno 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore[^t-3]</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania<sup>\*</sup> <sup>a</sup></td><td>4 maggio</td><td>2007 A</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Andorra<sup>\*</sup> <sup>a</sup></td><td>6 aprile</td><td>2011 A</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>19 marzo</td><td>1991</td><td>1° giugno</td><td>1991</td></tr>
@@ -461,6 +455,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Bulgaria<sup>\*</sup> <sup>a</sup></td><td>20 maggio</td><td>2003 A</td><td>1° marzo</td><td>2005</td></tr>
 <tr><td>Burkina Faso <sup>a</sup></td><td>25 maggio</td><td>1992 A</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Canada<sup>\*</sup></td><td>2 giugno</td><td>1983</td><td>1° dicembre</td><td>1983</td></tr>
+<tr><td>Capo Verde <sup>a</sup></td><td>4 ottobre</td><td>2022 A</td><td>1° dicembre</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>15 dicembre</td><td>1997</td><td>1° marzo</td><td>1998</td></tr>
 <tr><td>Cile<sup>\*</sup> <sup>a</sup></td><td>23 febbraio</td><td>1994 A</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td></td><td></td><td></td><td></td></tr>
@@ -479,12 +474,9 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>El Salvador<sup>\*</sup> <sup>a</sup></td><td>5 febbraio</td><td>2001 A</td><td>1° novembre</td><td>2009</td></tr>
 <tr><td>Estonia<sup>\*</sup> <sup>a</sup></td><td>18 aprile</td><td>2001 A</td><td>1° novembre</td><td>2003</td></tr>
 <tr><td>Figi<sup>a</sup></td><td>16 marzo</td><td>1999</td><td>1° novembre</td><td>2003</td></tr>
+<tr><td>Filippine<sup>\*</sup> <sup>a</sup></td><td>16 marzo</td><td>2016 A</td><td>1° settembre</td><td>2023</td></tr>
 <tr><td>Finlandia<sup>\*</sup></td><td>25 maggio</td><td>1994</td><td>1° agosto</td><td>1994</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>16 settembre</td><td>1982</td><td>1° dicembre</td><td>1983</td></tr>
-</table>
-
-<table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Georgia<sup>\*</sup> <sup>a</sup></td><td>24 luglio</td><td>1997 A</td><td>1° novembre</td><td>2003</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>27 settembre</td><td>1990</td><td>1° dicembre</td><td>1990</td></tr>
 <tr><td>Giamaica<sup>\*</sup> <sup>a</sup></td><td>24 febbraio</td><td>2017 A</td><td>1° agosto</td><td>2018</td></tr>
@@ -513,6 +505,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Norvegia<sup>\*</sup></td><td>9 gennaio</td><td>1989</td><td>1° aprile</td><td>1989</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup> <sup>a</sup></td><td>31 maggio</td><td>1991 A</td><td>1° settembre</td><td>1992</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>12 giugno</td><td>1990</td><td>1° settembre</td><td>1990</td></tr>
+<tr><td>Curaçao</td><td>27 novembre</td><td>2023</td><td>1° febbraio</td><td>2024</td></tr>
 <tr><td>Paesi Bassi-Parte caraibica (Bonaire, Sant'Eustachio e Saba)</td><td>18 novembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Panama<sup>\*</sup> <sup>a</sup></td><td>2 febbraio</td><td>1994 A</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Paraguay <sup>a</sup></td><td>13 maggio</td><td>1998 A</td><td>1° novembre</td><td>2003</td></tr>
@@ -553,9 +546,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Uzbekistan<sup>\*</sup> <sup>a</sup></td><td>31 maggio</td><td>1999 A</td><td>1° febbraio</td><td>2001</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>16 ottobre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
 <tr><td>Zimbabwe<sup>\*</sup> <sup>a</sup></td><td>4 aprile</td><td>1995 A</td><td>1° maggio</td><td>1997</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> In virtù dell’art. 38 l’adesione ha effetto soltanto nei rapporti fra lo Stato aderente e gli Stati contraenti che hanno dichiarato di accettarla. Una tavola riassuntiva delle date di entrata in vigore della Convenzione nelle relazioni tra i singoli Stati partecipanti può essere consultata sul sito Internet della Conferenza dell’Aja: www.hcch.net/Français &gt; Instruments &gt; Conventions &gt; ch. 28 &gt; Acceptations d’adhésions</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> In virtù dell’art. 38, l’adesione ha effetto soltanto nei rapporti fra lo Stato aderente e gli Stati contraenti che hanno dichiarato di accettarla. Una tavola riassuntiva delle date di entrata in vigore dei rapporti tra i singoli Stati Parte può essere consultata sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html).</td></tr>
 </table>
 
-[^t-2]: [RU 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539), [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497), [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236), [2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642), [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9), [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213), [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211), [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181), [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197)e [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685). Una versione aggiornata del campo di applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-[^t-3]: Data dell’entrata in vigore tra la Svizzera e questo Paese.
+[^t-2]: [RU 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539); [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497); [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236); [2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642); [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9); [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213); [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211); [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181); [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197); [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685); [2024 287](https://fedlex.data.admin.ch/eli/oc/2024/287). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

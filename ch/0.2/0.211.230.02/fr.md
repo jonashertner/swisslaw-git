@@ -3,11 +3,11 @@ sr: "0.211.230.02"
 title: "Convention du 25 octobre 1980 sur les aspects civils de l'enlèvement international d'enfants (CLaH 80) (avec annexe et liste)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694"
 language: fr
-version: 2020-09-03
+version: 2024-06-13
 adopted: 1980-10-25
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20200903/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20200903-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20200903/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694/20240613/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1694_1694_1694-20240613-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1694_1694_1694/20240613/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 octobre 1983
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1984
 
-(Etat le 3 septembre 2020)
+(État le 13 juin 2024)
 
 [^t-1]: Art. 1 let. b de l’AF du 21 juin 1983 ([RO 1983 1680](https://fedlex.data.admin.ch/eli/oc/1983/1680_1680_1680))
 
@@ -250,7 +250,7 @@ Un État dans lequel différentes unités territoriales ont leurs propres règle
 
 Dans les matières auxquelles elle s’applique, la Convention prévaut sur la Convention du 5 octobre 1961[^34-1] concernant la compétence des autorités et la loi applicable en matière de protection des mineurs, entre les États Parties aux deux Conventions. Par ailleurs, la présente Convention n’empêche pas qu’un autre instrument international liant l’État d’origine et l’État requis, ni que le droit non conventionnel de l’État requis, ne soient invoqués pour obtenir le retour d’un enfant qui a été déplacé ou retenu illicitement ou pour organiser le droit de visite.
 
-[^34-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/eli/cc/1969/181_191_191)
+[^34-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/859)
 
 #### Art. 35
 
@@ -407,7 +407,7 @@ Les rubriques suivantes doivent être remplies de la façon la plus complète po
 <tr><td></td><td colspan="3">téléphone</td><td></td></tr>
 <tr><td>b.</td><td colspan="3">arrangements proposés pour le retour</td><td></td></tr>
 <tr><td>VIII.</td><td colspan="3">Autres observations</td><td></td></tr>
-<tr><td>IX.</td><td colspan="3">Énumération des pièces produites**[^annexu1-lvlu1-1]**</td><td></td></tr>
+<tr><td>IX.</td><td colspan="3">Énumération des pièces produites[^annexu1-lvlu1-1]</td><td></td></tr>
 <tr><td colspan="3"></td><td colspan="2">Fait à</td></tr>
 <tr><td colspan="3"></td><td colspan="2">le</td></tr>
 <tr><td colspan="3"></td><td colspan="2">Signature et/ou cachet de l’Autorité centrale requérante ou du requérant</td></tr>
@@ -415,11 +415,11 @@ Les rubriques suivantes doivent être remplies de la façon la plus complète po
 
 [^annexu1-lvlu1-1]: P. ex. copie certifiée conforme d’une décision ou d’un accord relatif à la garde ou au droit de visite; certificat de coutume ou déclaration avec affirmation relatif à la loi applicable; information sur la situation sociale de l’enfant; procuration conférée à l’Autorité centrale.
 
-## Liste des autorités centrales chargées de satisfaire aux obligations de la Convention selon l’art. 6****
+## Liste des autorités centrales chargées de satisfaire aux obligations de la Convention selon l’art. 6
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: [RO 2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642). La liste des autorités centrales de tous les Etats parties à la convention en français et en anglais pourra être consultée à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/index\_fr.php?act=conventions.authorities&cid=24
+[^annexu1-lvlu2-1]: [RO 2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642). La liste des autorités centrales de tous les Etats parties à la convention en français et en anglais pourra être consultée à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/
 
 **Suisse**
 
@@ -437,11 +437,9 @@ Fax: +41 58 462 78 64
 
 E-mail: kindesschutz@bj.admin.ch
 
-URL: www.ofj.admin.ch (for child abduction, see:
+URL: [www.ofj.admin.ch](http://www.ofj.admin.ch) &gt; Société &gt; Enlèvement international d’enfants – exercice du droit de visite (Langues de communication: allemand, français, anglais, italien, espagnol)
 
-www.ofj.admin.ch/bj/en/home/themen/gesellschaft/internationale\_ kindesentfuehrung.html) (Langues de communication: allemand, français, anglais, italien, espagnol)
-
-Champ d’application le 3 septembre 2020**[^t-2]**
+Champ d’application le 13 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur[^t-3]</th><th></th></tr>
@@ -463,6 +461,7 @@ Champ d’application le 3 septembre 2020**[^t-2]**
 <tr><td>Bulgarie\* <sup>a</sup></td><td>20 mai</td><td>2003 A</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
 <tr><td>Burkina Faso <sup>a</sup></td><td>25 mai</td><td>1992 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
 <tr><td>Canada\*</td><td>2 juin</td><td>1983</td><td>1<sup>er</sup> décembre</td><td>1983</td></tr>
+<tr><td>Cap-Vert <sup>a</sup></td><td>4 octobre</td><td>2023 A</td><td>1<sup>er</sup> décembre</td><td>2023</td></tr>
 <tr><td>Chili\* <sup>a</sup></td><td>23 février</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
 <tr><td>Chine\*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong\*</td><td>16 juin</td><td>1997</td><td>1<sup>er</sup> septembre</td><td>1997</td></tr>
@@ -514,8 +513,10 @@ Champ d’application le 3 septembre 2020**[^t-2]**
 <tr><td>Panama\* <sup>a</sup></td><td>2 février</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
 <tr><td>Paraguay <sup>a</sup></td><td>13 mai</td><td>1998 A</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
 <tr><td>Pays-Bas\*</td><td>12 juin</td><td>1990</td><td>1<sup>er</sup> septembre</td><td>1990</td></tr>
+<tr><td>Curaçao</td><td>27 novembre</td><td>2023</td><td>1<sup>er</sup> février</td><td>2024</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>18 octobre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Pérou <sup>a</sup></td><td>28 mai</td><td>2001 A</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
+<tr><td>Philippines\* <sup>a</sup></td><td>16 mars</td><td>2016 A</td><td>1<sup>er</sup> septembre</td><td>2023</td></tr>
 <tr><td>Pologne\* <sup>a</sup></td><td>10 août</td><td>1992 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
 <tr><td>Portugal\*</td><td>29 septembre</td><td>1983</td><td>1<sup>er</sup> décembre</td><td>1983</td></tr>
 <tr><td>République dominicaine <sup>a</sup></td><td>11 août</td><td>2004 A</td><td>1<sup>er</sup> avril</td><td>2008</td></tr>
@@ -549,8 +550,8 @@ Champ d’application le 3 septembre 2020**[^t-2]**
 <tr><td>Uruguay <sup>a</sup></td><td>16 novembre</td><td>1999 A</td><td>1<sup>er</sup> février</td><td>2001</td></tr>
 <tr><td>Venezuela\*</td><td>16 octobre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
 <tr><td>Zimbabwe\* <sup>a</sup></td><td>4 avril</td><td>1995 A</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> En vertu de l’art. 38, l’adhésion n’a effet que dans les rapports entre l’État adhérant et les États contractants qui auront déclaré accepter cette adhésion. Un tableau concernant les rapports individuels d’entrée en vigueur entre les États parties à la convention est disponible à l’adresse du site Internet de la Conférence de La Haye http://hcch.net/ Français &gt; Instruments &gt; Conventions &gt; ch. 28 &gt; Acceptations d’adhésions.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site internet du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> En vertu de l’art. 38, l’adhésion n’a effet que dans les rapports entre l’État adhérant et les États contractants qui auront déclaré accepter cette adhésion. Un tableau concernant les rapports individuels d’entrée en vigueur entre les États parties à la convention est disponible à l’adresse du site internet du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000692.html).</td></tr>
 </table>
 
-[^t-2]: [RO 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539), [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497), [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236), [2009 5375](https://fedlex.data.admin.ch/eli/oc/2009/642), [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9), [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213), [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211), [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181), [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197), [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2004 3881](https://fedlex.data.admin.ch/eli/oc/2004/539); [2006 3259](https://fedlex.data.admin.ch/eli/oc/2006/497); [2008 1643](https://fedlex.data.admin.ch/eli/oc/2008/236); [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449); [2012 97](https://fedlex.data.admin.ch/eli/oc/2012/9); [2014 961](https://fedlex.data.admin.ch/eli/oc/2014/213); [2015 1073](https://fedlex.data.admin.ch/eli/oc/2015/211); [2018 1189](https://fedlex.data.admin.ch/eli/oc/2018/181); [2019 1065](https://fedlex.data.admin.ch/eli/oc/2019/197); [2020 3773](https://fedlex.data.admin.ch/eli/oc/2020/685); [2024 287](https://fedlex.data.admin.ch/eli/oc/2024/287). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
 [^t-3]: Date d’entrée en vigueur entre la Suisse et ce pays.
