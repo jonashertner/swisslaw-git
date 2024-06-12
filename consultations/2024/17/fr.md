@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Initiative parlementaire. Remplacer le financement de départ par une solution adaptée aux réalités actuelles. Consultation sur le modèle de la CSEC-E
 document: Projet mis en consultation
 language: fr

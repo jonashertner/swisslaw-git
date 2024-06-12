@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Parlamentarische Initiative. Überführung der Anstossfinanzierung in eine zeitgemässe Lösung. Vernehmlassung zum Konzept der WBK-S
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iniziativa Parlamentare. Sostituire il finanziamento iniziale con una soluzione moderna. Consultazione sul modello della CSEC-S
 document: Progetto posto in consultazione
 language: it
