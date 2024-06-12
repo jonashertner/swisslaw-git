@@ -4,24 +4,24 @@ number: "154.100"
 title: Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2021-01-01
-valid_until: 2024-06-12
-version_adopted: 2019-09-18
+version: 2024-06-13
+valid_until: 2025-06-14
+version_adopted: 2024-04-10
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5567/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft
 
-Gerichtsorganisationsgesetz | Gericht / Staatsanwaltschaft
+Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 3. Juni 2015 (Stand 1. Januar 2021)
+Vom 3. Juni 2015 (Stand 13. Juni 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -825,7 +825,7 @@ beschliesst:
 
 #### § 75
 
-<sup>1</sup> Das Strafgericht besteht aus sieben Präsidentinnen oder Präsidenten mit je einem Pensum von 100 Stellenprozent, zwei Präsidentinnen oder Präsidenten mit je einem Pensum von 50 Stellenprozent und einer Präsidentin oder einem Präsidenten mit einem Pensum von 85 Stellenprozent sowie aus mindestens 30 Richterinnen und Richtern.
+<sup>1</sup> Das Strafgericht besteht aus sieben Präsidentinnen oder Präsidenten mit je einem Pensum von 100 Stellenprozent, drei Präsidentinnen oder Präsidenten mit je einem Pensum von 50 Stellenprozent, einer Präsidentin oder einem Präsidenten mit einem Pensum von 85 Stellenprozent und einer Präsidentin oder einem Präsidenten mit einem Pensum von 80 Stellenprozent sowie aus mindestens 30 Richterinnen und Richtern.
 
 ### 3.1.2. Jugendgericht
 
