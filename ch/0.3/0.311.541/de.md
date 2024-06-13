@@ -3,16 +3,16 @@ sr: "0.311.541"
 title: "Zusatzprotokoll vom 15. November 2000 gegen die Schleusung von Migranten auf dem Land-, See- und Luftweg zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: de
-version: 2021-02-18
+version: 2024-06-14
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/de/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20240614/de/xml/fedlex-data-admin-ch-eli-cc-2006-863-20240614-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20240614/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Zusatzprotokoll gegen die Schleusung**** von Migranten auf dem Land-, See- und Luftweg zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität
+# Zusatzprotokoll gegen die Schleusung von Migranten auf dem Land-, See- und Luftweg zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität
 
 AS **2006** 5899; BBl **2005** 6693[^t-1]
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006
 
 In Kraft getreten für die Schweiz am 26. November 2006
 
-(Stand am 18. Februar 2021)
+(Stand am 14. Juni 2024)
 
 [^t-1]: Für Österreich und die Schweiz (durchgehend): Schlepperei
 [^t-2]: Art. 1 Abs. 1 Bst. c des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
@@ -403,7 +403,7 @@ Die Vertragsstaaten erwägen den Abschluss zweiseitiger oder regionaler Überein
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Februar 2021**[^t-3]**
+Geltungsbereich am 14. Juni 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -421,7 +421,7 @@ Geltungsbereich am 18. Februar 2021**[^t-3]**
 <tr><td>Bahamas\*</td><td>26. September</td><td>2008</td><td>26. Oktober</td><td>2008</td></tr>
 <tr><td>Bahrain\*</td><td>7. Juni</td><td>2004 B</td><td>7. Juli</td><td>2004</td></tr>
 <tr><td>Barbados</td><td>11. November</td><td>2014</td><td>11. Dezember</td><td>2014</td></tr>
-<tr><td>Belarus</td><td>25. Juni</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
+<tr><td>Belarus\*</td><td>25. Juni</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Belgien\* \*\*</td><td>11. August</td><td>2004</td><td>10. September</td><td>2004</td></tr>
 <tr><td>Belize</td><td>14. September</td><td>2006 B</td><td>14. Oktober</td><td>2006</td></tr>
 <tr><td>Benin</td><td>30. August</td><td>2004</td><td>29. September</td><td>2004</td></tr>
@@ -485,7 +485,7 @@ Geltungsbereich am 18. Februar 2021**[^t-3]**
 <tr><td>Liberia</td><td>22. September</td><td>2004 B</td><td>22. Oktober</td><td>2004</td></tr>
 <tr><td>Libyen</td><td>24. September</td><td>2004</td><td>24. Oktober</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>20. Februar</td><td>2008</td><td>21. März</td><td>2008</td></tr>
-<tr><td>Litauen\* \*\*</td><td>12. Mai</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
+<tr><td>Litauen\*\*</td><td>12. Mai</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
 <tr><td>Madagaskar</td><td>15. September</td><td>2005</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Malawi\*</td><td>17. März</td><td>2005 B</td><td>16. April</td><td>2005</td></tr>
@@ -506,6 +506,7 @@ Geltungsbereich am 18. Februar 2021**[^t-3]**
 <tr><td>Nicaragua</td><td>15. Februar</td><td>2006 B</td><td>17. März</td><td>2006</td></tr>
 <tr><td>Niederlande\*\* <sup>c</sup></td><td>27. Juli</td><td>2005</td><td>26. August</td><td>2005</td></tr>
 <tr><td>Aruba</td><td>18. Januar</td><td>2007</td><td>18. Januar</td><td>2007</td></tr>
+<tr><td>Curaçao</td><td>13. Juni</td><td>2024</td><td>13. Juni</td><td>2024</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>18. März</td><td>2009 B</td><td>17. April</td><td>2009</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>28. Januar</td><td>2004</td></tr>
@@ -551,6 +552,7 @@ Geltungsbereich am 18. Februar 2021**[^t-3]**
 <tr><td>Tunesien\*</td><td>14. Juli</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Türkei</td><td>25. März</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Turkmenistan</td><td>28. März</td><td>2005 B</td><td>27. April</td><td>2005</td></tr>
+<tr><td>Uganda</td><td>27. März</td><td>2024</td><td>26. April</td><td>2024</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
 <tr><td>Ungarn\*\*</td><td>22. Dezember</td><td>2006</td><td>21. Januar</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>4. März</td><td>2005</td><td>3. April</td><td>2005</td></tr>
@@ -559,13 +561,13 @@ Geltungsbereich am 18. Februar 2021**[^t-3]**
 <tr><td>Vereinigtes Königreich</td><td>9. Februar</td><td>2006</td><td>11. März</td><td>2006</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>6. August</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die von den Vertragsstaaten gemäss Artikel 8 Absatz 6 bestimmten Behörden sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die von den Vertragsstaaten gemäss Artikel 8 Absatz 6 bestimmten Behörden sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Protokoll findet keine Anwendung auf die Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht. https://fedlex.admin.ch/de/Treaty.
+[^t-3]: [AS 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104); [2024 289](https://fedlex.data.admin.ch/eli/oc/2024/289). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

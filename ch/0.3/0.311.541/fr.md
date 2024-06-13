@@ -3,11 +3,11 @@ sr: "0.311.541"
 title: "Protocole du 15 novembre 2000 contre le trafic illicite de migrants par terre, air et mer, additionnel à la Convention des Nations Unies contre la criminalité transnationale organisée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: fr
-version: 2021-02-18
+version: 2024-06-14
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20240614/fr/xml/fedlex-data-admin-ch-eli-cc-2006-863-20240614-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20240614/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 27 octobre 2006
 
 Entré en vigueur pour la Suisse le 26 novembre 2006
 
-(Etat le 18 février 2021)
+(État le 14 juin 2024)
 
 [^t-1]: Art. 1, al. 1, let c, de l’AF du 23 juin 2006 ([RO 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
 
@@ -395,7 +395,7 @@ Les États parties envisagent la conclusion d’accords bilatéraux ou régionau
 
 *En foi de quoi*, les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. (Suivent les signatures)
 
-Champ d’application le 18 février 2021**[^t-2]**
+Champ d’application le 14 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -415,7 +415,7 @@ Champ d’application le 18 février 2021**[^t-2]**
 <tr><td>Bahamas\*</td><td>26 septembre</td><td>2008</td><td>26 octobre</td><td>2008</td></tr>
 <tr><td>Bahreïn\*</td><td>7 juin</td><td>2004 A</td><td>7 juillet</td><td>2004</td></tr>
 <tr><td>Barbade</td><td>11 novembre</td><td>2014</td><td>11 décembre</td><td>2014</td></tr>
-<tr><td>Bélarus</td><td>25 juin</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
+<tr><td>Bélarus\*</td><td>25 juin</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Belgique\* \*\*</td><td>11 août</td><td>2004</td><td>10 septembre</td><td>2004</td></tr>
 <tr><td>Belize</td><td>14 septembre</td><td>2006 A</td><td>14 octobre</td><td>2006</td></tr>
 <tr><td>Bénin</td><td>30 août</td><td>2004</td><td>29 septembre</td><td>2004</td></tr>
@@ -482,7 +482,7 @@ Champ d’application le 18 février 2021**[^t-2]**
 <tr><td>Libéria</td><td>22 septembre</td><td>2004 A</td><td>22 octobre</td><td>2004</td></tr>
 <tr><td>Libye</td><td>24 septembre</td><td>2004</td><td>24 octobre</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>20 février</td><td>2008</td><td>21 mars</td><td>2008</td></tr>
-<tr><td>Lituanie\* \*\*</td><td>12 mai</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
+<tr><td>Lituanie\*\*</td><td>12 mai</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
 <tr><td>Macédoine du Nord</td><td>12 janvier</td><td>2005</td><td>11 février</td><td>2005</td></tr>
 <tr><td>Madagascar</td><td>15 septembre</td><td>2005</td><td>15 octobre</td><td>2005</td></tr>
@@ -506,11 +506,13 @@ Champ d’application le 18 février 2021**[^t-2]**
 <tr><td>Norvège\*\*</td><td>23 septembre</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>19 juillet</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Oman</td><td>13 mai</td><td>2005 A</td><td>12 juin</td><td>2005</td></tr>
+<tr><td>Ouganda</td><td>27 mars</td><td>2024</td><td>26 avril</td><td>2024</td></tr>
 <tr><td>Palaos</td><td>27 mai</td><td>2019 A</td><td>26 juin</td><td>2019</td></tr>
 <tr><td>Panama</td><td>18 août</td><td>2004</td><td>17 septembre</td><td>2004</td></tr>
 <tr><td>Paraguay</td><td>23 septembre</td><td>2008 A</td><td>23 octobre</td><td>2008</td></tr>
 <tr><td>Pays-Bas\*\* <sup>c</sup></td><td>27 juillet</td><td>2005</td><td>26 août</td><td>2005</td></tr>
 <tr><td>Aruba</td><td>18 janvier</td><td>2007</td><td>18 janvier</td><td>2007</td></tr>
+<tr><td>Curaçao</td><td>13 juin</td><td>2024</td><td>13 juin</td><td>2024</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>23 janvier</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Philippines</td><td>28 mai</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
@@ -551,13 +553,13 @@ Champ d’application le 18 février 2021**[^t-2]**
 <tr><td>Uruguay</td><td>4 mars</td><td>2005</td><td>3 avril</td><td>2005</td></tr>
 <tr><td>Venezuela\*</td><td>19 avril</td><td>2005</td><td>19 mai</td><td>2005</td></tr>
 <tr><td>Zambie</td><td>24 avril</td><td>2005 A</td><td>24 mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. <sup>\*\*</sup> Objections. Les \* du champ d’application ci-dessus ne comprennent pas les notifications concernant les autorités désignées des États parties, en vertu de l’art. 8, par. 6. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. <sup>\*\*</sup> Objections. Les \* du champ d’application ci-dessus ne comprennent pas les notifications concernant les autorités désignées des États parties, en vertu de l’art. 8, par. 6. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Le protocole ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Le protocole ne s’applique pas à Tokélaou.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188)[5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-2]: [RO 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104); [2024 289](https://fedlex.data.admin.ch/eli/oc/2024/289). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
 
 Déclaration
 
@@ -571,7 +573,7 @@ Elisabethenstrasse 33
 
 Case postale
 
-4010 Basel
+4010 Bâle
 
 Tél. +41 (0)58 467 11 20
 

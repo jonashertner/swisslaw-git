@@ -3,11 +3,11 @@ sr: "0.311.541"
 title: "Protocollo addizionale del 15 novembre 2000 della Convenzione delle Nazioni Unite contro la Criminalità organizzata transnazionale per combattere il traffico di migranti via terra, via mare e via aria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: it
-version: 2021-02-18
+version: 2024-06-14
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/it/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20240614/it/xml/fedlex-data-admin-ch-eli-cc-2006-863-20240614-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20240614/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2006** 5899; FF **2005** 5961
 
 Traduzione
 
-Concluso a New York il 15 novembre 2000
+Concluso a New York il 15 novembre 2000 Approvato dall’Assemblea federale il 23 giugno 2006[^t-1] Ratificato con strumenti depositati dalla Svizzera il 27 ottobre 2006 Entrato in vigore per la Svizzera il 26 novembre 2006
 
-Approvato dall’Assemblea federale il 23 giugno 2006[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 27 ottobre 2006
-
-Entrato in vigore per la Svizzera il 26 novembre 2006
-
-(Stato 18 febbraio 2021)
+(Stato 14 giugno 2024)
 
 [^t-1]: Art.1 cpv.1 lett. c del DF del 23 giu. 2006 ([RU 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861)).
 
@@ -395,169 +389,171 @@ Gli Stati Parte prendono in considerazione la conclusione di accordi bilaterali 
 
 *In fede di ciò*, i sottoscritti plenipotenziari, all’uopo debitamente autorizzati dai rispettivi Governi, hanno sottoscritto il presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 18 febbraio 2021**[^t-2]**
+Campo d’applicazione il 14 giugno 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
-<tr><td>Afghanistan<sup>\*</sup></td><td>2 febbraio</td><td>2017 A</td><td>4 marzo</td><td colspan="2">2017</td></tr>
-<tr><td>Albania</td><td>21 agosto</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Algeria<sup>\*</sup></td><td>9 marzo</td><td>2004</td><td>8 aprile</td><td colspan="2">2004</td></tr>
-<tr><td>Angola</td><td>19 settembre</td><td>2014 A</td><td>19 ottobre</td><td colspan="2">2014</td></tr>
-<tr><td>Antigua e Barbuda</td><td>17 febbraio</td><td>2010 A</td><td>19 marzo</td><td colspan="2">2010</td></tr>
-<tr><td>Arabia Saudita<sup>\*</sup></td><td>20 luglio</td><td>2007</td><td>19 agosto</td><td>2007</td></tr>
-<tr><td>Argentina</td><td>19 novembre</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Armenia</td><td>1° luglio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Australia</td><td>27 maggio</td><td>2004</td><td>26 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Austria<sup>\*\*</sup></td><td>30 novembre</td><td>2007</td><td>30 dicembre</td><td colspan="2">2007</td></tr>
-<tr><td>Azerbaigian<sup>\*</sup></td><td>30 ottobre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Bahamas<sup>\*</sup></td><td>26 settembre</td><td>2008</td><td>26 ottobre</td><td colspan="2">2008</td></tr>
-<tr><td>Bahrein<sup>\*</sup></td><td>7 giugno</td><td>2004 A</td><td>7 luglio</td><td colspan="2">2004</td></tr>
-<tr><td>Barbados</td><td>11 novembre</td><td>2014</td><td>11 dicembre</td><td colspan="2">2014</td></tr>
-<tr><td>Belarus</td><td>25 giugno</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Belgio<sup>\* \*\*</sup></td><td>11 agosto</td><td>2004</td><td>10 settembre</td><td colspan="2">2004</td></tr>
-<tr><td>Belize</td><td>14 settembre</td><td>2006 A</td><td>14 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Benin</td><td>30 agosto</td><td>2004</td><td>29 settembre</td><td colspan="2">2004</td></tr>
-<tr><td>Bosnia e Erzegovina</td><td>24 aprile</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Botswana</td><td>29 agosto</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Brasile</td><td>29 gennaio</td><td>2004</td><td>28 febbraio</td><td colspan="2">2004</td></tr>
-<tr><td>Bulgaria<sup>\*\*</sup></td><td>5 dicembre</td><td>2001</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Burkina Faso</td><td>15 maggio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Burundi</td><td>24 maggio</td><td>2012</td><td>23 giugno</td><td colspan="2">2012</td></tr>
-<tr><td>Cambogia</td><td>12 dicembre</td><td>2005</td><td>11 gennaio</td><td colspan="2">2006</td></tr>
-<tr><td>Camerun</td><td>6 febbraio</td><td>2006</td><td>8 marzo</td><td colspan="2">2006</td></tr>
-<tr><td>Canada</td><td>13 maggio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Capo Verde</td><td>15 luglio</td><td>2004</td><td>14 agosto</td><td colspan="2">2004</td></tr>
-<tr><td>Ceca, Repubblica<sup>\*\*</sup></td><td>24 settembre</td><td>2013</td><td>24 ottobre</td><td colspan="2">2013</td></tr>
-<tr><td>Cile</td><td>29 novembre</td><td>2004</td><td>29 dicembre</td><td colspan="2">2004</td></tr>
-<tr><td>Cipro</td><td>6 agosto</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Comore</td><td>15 dicembre</td><td>2020 A</td><td>14 gennaio</td><td colspan="2">2021</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>2005 A</td><td>27 novembre</td><td colspan="2">2005</td></tr>
-<tr><td>Corea del Sud</td><td>5 novembre</td><td>2015</td><td>5 dicembre</td><td colspan="2">2015</td></tr>
-<tr><td>Costa d’Avorio</td><td>8 giugno</td><td>2017 A</td><td>8 luglio</td><td colspan="2">2017</td></tr>
-<tr><td>Costa Rica</td><td>7 agosto</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Croazia<sup>\*\*</sup></td><td>24 gennaio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>20 giugno</td><td>2013 A</td><td>20 luglio</td><td colspan="2">2013</td></tr>
-<tr><td>Danimarca <sup>a</sup></td><td>8 dicembre</td><td>2006</td><td>7 gennaio</td><td>2007</td></tr>
-<tr><td>Dominica</td><td>17 maggio</td><td>2013 A</td><td>16 giugno</td><td colspan="2">2013</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>10 dicembre</td><td>2007</td><td>9 gennaio</td><td colspan="2">2008</td></tr>
-<tr><td>Ecuador<sup>\*</sup></td><td>17 settembre</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Egitto</td><td>1° marzo</td><td>2005 A</td><td>31 marzo</td><td colspan="2">2005</td></tr>
-<tr><td>El Salvador<sup>\*</sup></td><td>18 marzo</td><td>2004</td><td>17 aprile</td><td colspan="2">2004</td></tr>
-<tr><td>Estonia<sup>\*\*</sup></td><td>12 maggio</td><td>2004</td><td>11 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Eswatini</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td colspan="2">2012</td></tr>
-<tr><td>Etiopia<sup>\*</sup></td><td>22 giugno</td><td>2012 A</td><td>22 luglio</td><td colspan="2">2012</td></tr>
-<tr><td>Figi<sup>\*</sup></td><td>19 settembre</td><td>2017 A</td><td>19 ottobre</td><td colspan="2">2017</td></tr>
-<tr><td>Filippine</td><td>28 maggio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Finlandia<sup>\*\*</sup></td><td>7 settembre</td><td>2006</td><td>7 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Francia</td><td>29 ottobre</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Gabon</td><td>10 maggio</td><td>2019 A</td><td>9 giugno</td><td colspan="2">2019</td></tr>
-<tr><td>Gambia</td><td>5 maggio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Georgia</td><td>5 settembre</td><td>2006</td><td>5 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Germania<sup>\*\*</sup></td><td>14 giugno</td><td>2006</td><td>14 luglio</td><td colspan="2">2006</td></tr>
-<tr><td>Ghana</td><td>21 agosto</td><td>2012 A</td><td>20 settembre</td><td colspan="2">2012</td></tr>
-<tr><td>Giamaica</td><td>29 settembre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Giappone</td><td>11 luglio</td><td>2017</td><td>10 agosto</td><td colspan="2">2017</td></tr>
-<tr><td>Gibuti</td><td>20 aprile</td><td>2005 A</td><td>20 maggio</td><td colspan="2">2005</td></tr>
-<tr><td>Grecia<sup>\* \*\*</sup></td><td>11 gennaio</td><td>2011</td><td>10 febbraio</td><td colspan="2">2011</td></tr>
-<tr><td>Grenada</td><td>21 maggio</td><td>2004 A</td><td>20 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Guatemala</td><td>1° aprile</td><td>2004 A</td><td>1° maggio</td><td colspan="2">2004</td></tr>
-<tr><td>Guinea</td><td>8 giugno</td><td>2005 A</td><td>8 luglio</td><td colspan="2">2005</td></tr>
-<tr><td>Guyana</td><td>16 aprile</td><td>2008 A</td><td>16 maggio</td><td colspan="2">2008</td></tr>
-<tr><td>Haiti</td><td>19 aprile</td><td>2011</td><td>19 maggio</td><td colspan="2">2011</td></tr>
-<tr><td>Honduras</td><td>18 novembre</td><td>2008 A</td><td>18 dicembre</td><td colspan="2">2008</td></tr>
-<tr><td>India</td><td>5 maggio</td><td>2011</td><td>4 giugno</td><td colspan="2">2011</td></tr>
-<tr><td>Indonesia<sup>\*</sup></td><td>28 settembre</td><td>2009</td><td>28 ottobre</td><td colspan="2">2009</td></tr>
-<tr><td>Iraq</td><td>9 febbraio</td><td>2009 A</td><td>11 marzo</td><td colspan="2">2009</td></tr>
-<tr><td>Italia<sup>\*\*</sup></td><td>2 agosto</td><td>2006</td><td>1° settembre</td><td colspan="2">2006</td></tr>
-<tr><td>Kazakistan</td><td>31 luglio</td><td>2008 A</td><td>30 agosto</td><td colspan="2">2008</td></tr>
-<tr><td>Kenya</td><td>5 gennaio</td><td>2005 A</td><td>4 febbraio</td><td colspan="2">2005</td></tr>
-<tr><td>Kirghizistan</td><td>2 ottobre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Kiribati</td><td>15 settembre</td><td>2005 A</td><td>15 ottobre</td><td colspan="2">2005</td></tr>
-<tr><td>Kuwait</td><td>12 maggio</td><td>2006 A</td><td>11 giugno</td><td colspan="2">2006</td></tr>
-<tr><td>Laos<sup>\*</sup></td><td>26 settembre</td><td>2003 A</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Lesotho</td><td>24 settembre</td><td>2004</td><td>24 ottobre</td><td colspan="2">2004</td></tr>
-<tr><td>Lettonia</td><td>23 aprile</td><td>2003</td><td>28 gennaio</td><td>2004</td></tr>
-<tr><td>Libano</td><td>5 ottobre</td><td>2005</td><td>4 novembre</td><td colspan="2">2005</td></tr>
-<tr><td>Liberia</td><td>22 settembre</td><td>2004 A</td><td>22 ottobre</td><td colspan="2">2004</td></tr>
-<tr><td>Libia</td><td>24 settembre</td><td>2004</td><td>24 ottobre</td><td colspan="2">2004</td></tr>
-<tr><td>Liechtenstein</td><td>20 febbraio</td><td>2008</td><td>21 marzo</td><td colspan="2">2008</td></tr>
-<tr><td>Lituania<sup>\* \*\*</sup></td><td>12 maggio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Lussemburgo</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td colspan="2">2012</td></tr>
-<tr><td>Macedonia del Nord</td><td>12 gennaio</td><td>2005</td><td>11 febbraio</td><td colspan="2">2005</td></tr>
-<tr><td>Madagascar</td><td>15 settembre</td><td>2005</td><td>15 ottobre</td><td colspan="2">2005</td></tr>
-<tr><td>Malawi<sup>\*</sup></td><td>17 marzo</td><td>2005 A</td><td>16 aprile</td><td colspan="2">2005</td></tr>
-<tr><td>Mali</td><td>12 aprile</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Malta</td><td>24 settembre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Mauritania</td><td>22 luglio</td><td>2005 A</td><td>21 agosto</td><td colspan="2">2005</td></tr>
-<tr><td>Maurizio</td><td>24 settembre</td><td>2003 A</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Messico<sup>\*\*</sup></td><td>4 marzo</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Moldova<sup>\*</sup></td><td>16 settembre</td><td>2005</td><td>16 ottobre</td><td colspan="2">2005</td></tr>
-<tr><td>Monaco</td><td>5 giugno</td><td>2001</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Mongolia</td><td>27 giugno</td><td>2008 A</td><td>27 luglio</td><td colspan="2">2008</td></tr>
-<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td colspan="2">2006</td></tr>
-<tr><td>Mozambico</td><td>20 settembre</td><td>2006</td><td>20 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Myanmar<sup>\*</sup></td><td>30 marzo</td><td>2004 A</td><td>29 aprile</td><td colspan="2">2004</td></tr>
-<tr><td>Namibia</td><td>16 agosto</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Nauru</td><td>12 luglio</td><td>2012</td><td>11 agosto</td><td colspan="2">2012</td></tr>
-<tr><td>Nicaragua</td><td>15 febbraio</td><td>2006 A</td><td>17 marzo</td><td colspan="2">2006</td></tr>
-<tr><td>Niger</td><td>18 marzo</td><td>2009 A</td><td>17 aprile</td><td colspan="2">2009</td></tr>
-<tr><td>Nigeria</td><td>27 settembre</td><td>2001</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Norvegia<sup>\*\*</sup></td><td>23 settembre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Nuova Zelanda <sup>b</sup></td><td>19 luglio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Oman</td><td>13 maggio</td><td>2005 A</td><td>12 giugno</td><td colspan="2">2005</td></tr>
-<tr><td>Paesi Bassi<sup>\*\*</sup> <sup>c</sup></td><td>27 luglio</td><td>2005</td><td>26 agosto</td><td colspan="2">2005</td></tr>
-<tr><td>Aruba</td><td>18 gennaio</td><td>2007</td><td>18 gennaio</td><td colspan="2">2007</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td colspan="2">2010</td></tr>
-<tr><td>Palau</td><td>27 maggio</td><td>2019 A</td><td>26 giugno</td><td colspan="2">2019</td></tr>
-<tr><td>Panama</td><td>18 agosto</td><td>2004</td><td>17 settembre</td><td colspan="2">2004</td></tr>
-<tr><td>Paraguay</td><td>23 settembre</td><td>2008 A</td><td>23 ottobre</td><td colspan="2">2008</td></tr>
-<tr><td>Perù</td><td>23 gennaio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Polonia<sup>\*\*</sup></td><td>26 settembre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Portogallo<sup>\*\*</sup></td><td>10 maggio</td><td>2004</td><td>9 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Regno Unito</td><td>9 febbraio</td><td>2006</td><td>11 marzo</td><td colspan="2">2006</td></tr>
-<tr><td>Rep. Centrafricana</td><td>6 ottobre</td><td>2006 A</td><td>5 novembre</td><td colspan="2">2006</td></tr>
-<tr><td>Romania<sup>\*\*</sup></td><td>4 dicembre</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Ruanda</td><td>4 ottobre</td><td>2006</td><td>3 novembre</td><td colspan="2">2006</td></tr>
-<tr><td>Russia</td><td>26 maggio</td><td>2004</td><td>25 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Saint Kitts e Nevis</td><td>21 maggio</td><td>2004 A</td><td>20 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2010</td><td>28 novembre</td><td colspan="2">2010</td></tr>
-<tr><td>San Marino</td><td>20 luglio</td><td>2010</td><td>19 agosto</td><td colspan="2">2010</td></tr>
-<tr><td>São Tomé e Príncipe</td><td>12 aprile</td><td>2006 A</td><td>12 maggio</td><td colspan="2">2006</td></tr>
-<tr><td>Seicelle</td><td>22 giugno</td><td>2004</td><td>22 luglio</td><td colspan="2">2004</td></tr>
-<tr><td>Senegal</td><td>27 ottobre</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Serbia</td><td>6 settembre</td><td>2001</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Sierra Leone</td><td>12 agosto</td><td>2014</td><td>11 settembre</td><td colspan="2">2014</td></tr>
-<tr><td>Siria<sup>\*</sup></td><td>8 aprile</td><td>2009</td><td>8 maggio</td><td colspan="2">2009</td></tr>
-<tr><td>Slovacchia<sup>\*\*</sup></td><td>21 settembre</td><td>2004</td><td>21 ottobre</td><td colspan="2">2004</td></tr>
-<tr><td>Slovenia<sup>\*\*</sup></td><td>21 maggio</td><td>2004</td><td>20 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Spagna<sup>\*\*</sup></td><td>1° marzo</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Stati Uniti<sup>\*</sup></td><td>3 novembre</td><td>2005</td><td>3 dicembre</td><td colspan="2">2005</td></tr>
-<tr><td>Sudafrica<sup>\*</sup></td><td>20 febbraio</td><td>2004</td><td>21 marzo</td><td colspan="2">2004</td></tr>
-<tr><td>Sudan<sup>\*</sup></td><td>9 ottobre</td><td>2018</td><td>8 novembre</td><td colspan="2">2018</td></tr>
-<tr><td>Suriname</td><td>25 maggio</td><td>2007 A</td><td>24 giugno</td><td colspan="2">2007</td></tr>
-<tr><td>Svezia<sup>\*\*</sup></td><td>6 settembre</td><td>2006</td><td>6 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Svizzera</td><td>27 ottobre</td><td>2006</td><td>26 novembre</td><td colspan="2">2006</td></tr>
-<tr><td>Tagikistan</td><td>8 luglio</td><td>2002 A</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Tanzania</td><td>24 maggio</td><td>2006</td><td>23 giugno</td><td colspan="2">2006</td></tr>
-<tr><td>Timor–Leste</td><td>9 novembre</td><td>2009 A</td><td>9 dicembre</td><td colspan="2">2009</td></tr>
-<tr><td>Togo</td><td>28 settembre</td><td>2010</td><td>28 ottobre</td><td colspan="2">2010</td></tr>
-<tr><td>Trinidad e Tobago</td><td>6 novembre</td><td>2007</td><td>6 dicembre</td><td colspan="2">2007</td></tr>
-<tr><td>Tunisia<sup>\*</sup></td><td>14 luglio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Turchia</td><td>25 marzo</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
-<tr><td>Turkmenistan</td><td>28 marzo</td><td>2005 A</td><td>27 aprile</td><td colspan="2">2005</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td>21 maggio</td><td>2004</td><td>20 giugno</td><td colspan="2">2004</td></tr>
-<tr><td>Ungheria<sup>\*\*</sup></td><td>22 dicembre</td><td>2006</td><td>21 gennaio</td><td colspan="2">2007</td></tr>
-<tr><td>[tab] Unione europea<sup>\*</sup></td><td>6 settembre</td><td>2006</td><td>6 ottobre</td><td colspan="2">2006</td></tr>
-<tr><td>Uruguay</td><td>4 marzo</td><td>2005</td><td>3 aprile</td><td colspan="2">2005</td></tr>
-<tr><td>Venezuela<sup>\*</sup></td><td>19 aprile</td><td>2005</td><td>19 maggio</td><td colspan="2">2005</td></tr>
-<tr><td>Zambia</td><td>24 aprile</td><td>2005 A</td><td>24 maggio</td><td colspan="2">2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le \* del campo d’applicazione qui sopra non comprendono le notifiche concernenti le autorità designate dagli Stati Parte ai sensi dell’art. 8 cpv. 6. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Il Prot. non vale per Tokelau.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Per il Regno in Europa.</td></tr>
+<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
+<tr><td>Afghanistan\*</td><td colspan="2">2 febbraio</td><td>2017 A</td><td colspan="2">4 marzo</td><td>2017</td></tr>
+<tr><td>Albania</td><td colspan="2">21 agosto</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Algeria\*</td><td colspan="2">9 marzo</td><td>2004</td><td colspan="2">8 aprile</td><td>2004</td></tr>
+<tr><td>Angola</td><td colspan="2">19 settembre</td><td>2014 A</td><td colspan="2">19 ottobre</td><td>2014</td></tr>
+<tr><td>Antigua e Barbuda</td><td colspan="2">17 febbraio</td><td>2010 A</td><td colspan="2">19 marzo</td><td>2010</td></tr>
+<tr><td>Arabia Saudita\*</td><td colspan="2">20 luglio</td><td>2007</td><td colspan="2">19 agosto</td><td>2007</td></tr>
+<tr><td>Argentina</td><td colspan="2">19 novembre</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Armenia</td><td colspan="2">1° luglio</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Australia</td><td colspan="2">27 maggio</td><td>2004</td><td colspan="2">26 giugno</td><td>2004</td></tr>
+<tr><td>Austria\*\*</td><td colspan="2">30 novembre</td><td>2007</td><td colspan="2">30 dicembre</td><td>2007</td></tr>
+<tr><td>Azerbaigian\*</td><td colspan="2">30 ottobre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Bahamas\*</td><td colspan="2">26 settembre</td><td>2008</td><td colspan="2">26 ottobre</td><td>2008</td></tr>
+<tr><td>Bahrein\*</td><td colspan="2">7 giugno</td><td>2004 A</td><td colspan="2">7 luglio</td><td>2004</td></tr>
+<tr><td>Barbados</td><td colspan="2">11 novembre</td><td>2014</td><td colspan="2">11 dicembre</td><td>2014</td></tr>
+<tr><td>Belgio\* \*\*</td><td colspan="2">11 agosto</td><td>2004</td><td colspan="2">10 settembre</td><td>2004</td></tr>
+<tr><td>Belize</td><td colspan="2">14 settembre</td><td>2006 A</td><td colspan="2">14 ottobre</td><td>2006</td></tr>
+<tr><td>Benin</td><td colspan="2">30 agosto</td><td>2004</td><td colspan="2">29 settembre</td><td>2004</td></tr>
+<tr><td>Bielorussia\*</td><td colspan="2">25 giugno</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td colspan="2">24 aprile</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Botswana</td><td colspan="2">29 agosto</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Brasile</td><td colspan="2">29 gennaio</td><td>2004</td><td colspan="2">28 febbraio</td><td>2004</td></tr>
+<tr><td>Bulgaria\*\*</td><td colspan="2">5 dicembre</td><td>2001</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Burkina Faso</td><td colspan="2">15 maggio</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Burundi</td><td colspan="2">24 maggio</td><td>2012</td><td colspan="2">23 giugno</td><td>2012</td></tr>
+<tr><td>Cambogia</td><td colspan="2">12 dicembre</td><td>2005</td><td colspan="2">11 gennaio</td><td>2006</td></tr>
+<tr><td>Camerun</td><td colspan="2">6 febbraio</td><td>2006</td><td colspan="2">8 marzo</td><td>2006</td></tr>
+<tr><td>Canada</td><td colspan="2">13 maggio</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Capo Verde</td><td colspan="2">15 luglio</td><td>2004</td><td colspan="2">14 agosto</td><td>2004</td></tr>
+<tr><td>Ceca, Repubblica\*\*</td><td colspan="2">24 settembre</td><td>2013</td><td colspan="2">24 ottobre</td><td>2013</td></tr>
+<tr><td>Cile</td><td colspan="2">29 novembre</td><td>2004</td><td colspan="2">29 dicembre</td><td>2004</td></tr>
+<tr><td>Cipro</td><td colspan="2">6 agosto</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Comore</td><td colspan="2">15 dicembre</td><td>2020 A</td><td colspan="2">14 gennaio</td><td>2021</td></tr>
+<tr><td>Congo (Kinshasa)</td><td colspan="2">28 ottobre</td><td>2005 A</td><td colspan="2">27 novembre</td><td>2005</td></tr>
+<tr><td>Corea del Sud</td><td colspan="2">5 novembre</td><td>2015</td><td colspan="2">5 dicembre</td><td>2015</td></tr>
+<tr><td>Costa d’Avorio</td><td colspan="2">8 giugno</td><td>2017 A</td><td colspan="2">8 luglio</td><td>2017</td></tr>
+<tr><td>Costa Rica</td><td colspan="2">7 agosto</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Croazia\*\*</td><td colspan="2">24 gennaio</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Cuba\*</td><td colspan="2">20 giugno</td><td>2013 A</td><td colspan="2">20 luglio</td><td>2013</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td colspan="2">8 dicembre</td><td>2006</td><td colspan="2">7 gennaio</td><td>2007</td></tr>
+<tr><td>Dominica</td><td colspan="2">17 maggio</td><td>2013 A</td><td colspan="2">16 giugno</td><td>2013</td></tr>
+<tr><td>Dominicana, Repubblica</td><td colspan="2">10 dicembre</td><td>2007</td><td colspan="2">9 gennaio</td><td>2008</td></tr>
+<tr><td>Ecuador\*</td><td colspan="2">17 settembre</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Egitto</td><td colspan="2">1° marzo</td><td>2005 A</td><td colspan="2">31 marzo</td><td>2005</td></tr>
+<tr><td>El Salvador\*</td><td colspan="2">18 marzo</td><td>2004</td><td colspan="2">17 aprile</td><td>2004</td></tr>
+<tr><td>Estonia\*\*</td><td colspan="2">12 maggio</td><td>2004</td><td colspan="2">11 giugno</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td colspan="2">24 settembre</td><td>2012</td><td colspan="2">24 ottobre</td><td>2012</td></tr>
+<tr><td>Etiopia\*</td><td colspan="2">22 giugno</td><td>2012 A</td><td colspan="2">22 luglio</td><td>2012</td></tr>
+<tr><td>Figi\*</td><td colspan="2">19 settembre</td><td>2017 A</td><td colspan="2">19 ottobre</td><td>2017</td></tr>
+<tr><td>Filippine</td><td colspan="2">28 maggio</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Finlandia\*\*</td><td colspan="2">7 settembre</td><td>2006</td><td colspan="2">7 ottobre</td><td>2006</td></tr>
+<tr><td>Francia</td><td colspan="2">29 ottobre</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Gabon</td><td colspan="2">10 maggio</td><td>2019 A</td><td colspan="2">9 giugno</td><td>2019</td></tr>
+<tr><td>Gambia</td><td colspan="2">5 maggio</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Georgia</td><td colspan="2">5 settembre</td><td>2006</td><td colspan="2">5 ottobre</td><td>2006</td></tr>
+<tr><td>Germania\*\*</td><td colspan="2">14 giugno</td><td>2006</td><td colspan="2">14 luglio</td><td>2006</td></tr>
+<tr><td>Ghana</td><td colspan="2">21 agosto</td><td>2012 A</td><td colspan="2">20 settembre</td><td>2012</td></tr>
+<tr><td>Giamaica</td><td colspan="2">29 settembre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Giappone</td><td colspan="2">11 luglio</td><td>2017</td><td colspan="2">10 agosto</td><td>2017</td></tr>
+<tr><td>Gibuti</td><td colspan="2">20 aprile</td><td>2005 A</td><td colspan="2">20 maggio</td><td>2005</td></tr>
+<tr><td>Grecia\* \*\*</td><td colspan="2">11 gennaio</td><td>2011</td><td colspan="2">10 febbraio</td><td>2011</td></tr>
+<tr><td>Grenada</td><td colspan="2">21 maggio</td><td>2004 A</td><td colspan="2">20 giugno</td><td>2004</td></tr>
+<tr><td>Guatemala</td><td colspan="2">1° aprile</td><td>2004 A</td><td colspan="2">1° maggio</td><td>2004</td></tr>
+<tr><td>Guinea</td><td colspan="2">8 giugno</td><td>2005 A</td><td colspan="2">8 luglio</td><td>2005</td></tr>
+<tr><td>Guyana</td><td colspan="2">16 aprile</td><td>2008 A</td><td colspan="2">16 maggio</td><td>2008</td></tr>
+<tr><td>Haiti</td><td colspan="2">19 aprile</td><td>2011</td><td colspan="2">19 maggio</td><td>2011</td></tr>
+<tr><td>Honduras</td><td colspan="2">18 novembre</td><td>2008 A</td><td colspan="2">18 dicembre</td><td>2008</td></tr>
+<tr><td>India</td><td colspan="2">5 maggio</td><td>2011</td><td colspan="2">4 giugno</td><td>2011</td></tr>
+<tr><td>Indonesia\*</td><td colspan="2">28 settembre</td><td>2009</td><td colspan="2">28 ottobre</td><td>2009</td></tr>
+<tr><td>Iraq</td><td colspan="2">9 febbraio</td><td>2009 A</td><td colspan="2">11 marzo</td><td>2009</td></tr>
+<tr><td>Italia\*\*</td><td colspan="2">2 agosto</td><td>2006</td><td colspan="2">1° settembre</td><td>2006</td></tr>
+<tr><td>Kazakistan</td><td colspan="2">31 luglio</td><td>2008 A</td><td colspan="2">30 agosto</td><td>2008</td></tr>
+<tr><td>Kenya</td><td colspan="2">5 gennaio</td><td>2005 A</td><td colspan="2">4 febbraio</td><td>2005</td></tr>
+<tr><td>Kirghizistan</td><td colspan="2">2 ottobre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Kiribati</td><td colspan="2">15 settembre</td><td>2005 A</td><td colspan="2">15 ottobre</td><td>2005</td></tr>
+<tr><td>Kuwait</td><td colspan="2">12 maggio</td><td>2006 A</td><td colspan="2">11 giugno</td><td>2006</td></tr>
+<tr><td>Laos\*</td><td colspan="2">26 settembre</td><td>2003 A</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Lesotho</td><td colspan="2">24 settembre</td><td>2004</td><td colspan="2">24 ottobre</td><td>2004</td></tr>
+<tr><td>Lettonia</td><td colspan="2">23 aprile</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Libano</td><td colspan="2">5 ottobre</td><td>2005</td><td colspan="2">4 novembre</td><td>2005</td></tr>
+<tr><td>Liberia</td><td colspan="2">22 settembre</td><td>2004 A</td><td colspan="2">22 ottobre</td><td>2004</td></tr>
+<tr><td>Libia</td><td colspan="2">24 settembre</td><td>2004</td><td colspan="2">24 ottobre</td><td>2004</td></tr>
+<tr><td>Liechtenstein</td><td colspan="2">20 febbraio</td><td>2008</td><td colspan="2">21 marzo</td><td>2008</td></tr>
+<tr><td>Lituania\*\*</td><td colspan="2">12 maggio</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Lussemburgo</td><td colspan="2">24 settembre</td><td>2012</td><td colspan="2">24 ottobre</td><td>2012</td></tr>
+<tr><td>Macedonia del Nord</td><td colspan="2">12 gennaio</td><td>2005</td><td colspan="2">11 febbraio</td><td>2005</td></tr>
+<tr><td>Madagascar</td><td colspan="2">15 settembre</td><td>2005</td><td colspan="2">15 ottobre</td><td>2005</td></tr>
+<tr><td>Malawi\*</td><td colspan="2">17 marzo</td><td>2005 A</td><td colspan="2">16 aprile</td><td>2005</td></tr>
+<tr><td>Mali</td><td colspan="2">12 aprile</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Malta</td><td colspan="2">24 settembre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Mauritania</td><td colspan="2">22 luglio</td><td>2005 A</td><td colspan="2">21 agosto</td><td>2005</td></tr>
+<tr><td>Maurizio</td><td colspan="2">24 settembre</td><td>2003 A</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Messico\*\*</td><td colspan="2">4 marzo</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Moldova\*</td><td colspan="2">16 settembre</td><td>2005</td><td colspan="2">16 ottobre</td><td>2005</td></tr>
+<tr><td>Monaco</td><td colspan="2">5 giugno</td><td>2001</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Mongolia</td><td colspan="2">27 giugno</td><td>2008 A</td><td colspan="2">27 luglio</td><td>2008</td></tr>
+<tr><td>Montenegro</td><td colspan="2">23 ottobre</td><td>2006 S</td><td colspan="2">3 giugno</td><td>2006</td></tr>
+<tr><td>Mozambico</td><td colspan="2">20 settembre</td><td>2006</td><td colspan="2">20 ottobre</td><td>2006</td></tr>
+<tr><td>Myanmar\*</td><td colspan="2">30 marzo</td><td>2004 A</td><td colspan="2">29 aprile</td><td>2004</td></tr>
+<tr><td>Namibia</td><td colspan="2">16 agosto</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Nauru</td><td colspan="2">12 luglio</td><td>2012</td><td colspan="2">11 agosto</td><td>2012</td></tr>
+<tr><td>Nicaragua</td><td colspan="2">15 febbraio</td><td>2006 A</td><td colspan="2">17 marzo</td><td>2006</td></tr>
+<tr><td>Niger</td><td colspan="2">18 marzo</td><td>2009 A</td><td colspan="2">17 aprile</td><td>2009</td></tr>
+<tr><td>Nigeria</td><td colspan="2">27 settembre</td><td>2001</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Norvegia\*\*</td><td colspan="2">23 settembre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Nuova Zelanda <sup>b</sup></td><td colspan="2">19 luglio</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Oman</td><td colspan="2">13 maggio</td><td>2005 A</td><td colspan="2">12 giugno</td><td>2005</td></tr>
+<tr><td>Paesi Bassi\*\* <sup>c</sup></td><td colspan="2">27 luglio</td><td>2005</td><td colspan="2">26 agosto</td><td>2005</td></tr>
+<tr><td>Aruba</td><td colspan="2">18 gennaio</td><td>2007</td><td colspan="2">18 gennaio</td><td>2007</td></tr>
+<tr><td>Curaçao</td><td colspan="2">13 giugno</td><td>2024</td><td colspan="2">13 giugno</td><td>2024</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td colspan="2">10 ottobre</td><td>2010</td><td colspan="2">10 ottobre</td><td>2010</td></tr>
+<tr><td>Palau</td><td colspan="2">27 maggio</td><td>2019 A</td><td colspan="2">26 giugno</td><td>2019</td></tr>
+<tr><td>Panama</td><td colspan="2">18 agosto</td><td>2004</td><td colspan="2">17 settembre</td><td>2004</td></tr>
+<tr><td>Paraguay</td><td colspan="2">23 settembre</td><td>2008 A</td><td colspan="2">23 ottobre</td><td>2008</td></tr>
+<tr><td>Perù</td><td colspan="2">23 gennaio</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Polonia\*\*</td><td colspan="2">26 settembre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Portogallo\*\*</td><td colspan="2">10 maggio</td><td>2004</td><td colspan="2">9 giugno</td><td>2004</td></tr>
+<tr><td>Regno Unito</td><td colspan="2">9 febbraio</td><td>2006</td><td colspan="2">11 marzo</td><td>2006</td></tr>
+<tr><td>Rep. Centrafricana</td><td colspan="2">6 ottobre</td><td>2006 A</td><td colspan="2">5 novembre</td><td>2006</td></tr>
+<tr><td>Romania\*\*</td><td colspan="2">4 dicembre</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Ruanda</td><td colspan="2">4 ottobre</td><td>2006</td><td colspan="2">3 novembre</td><td>2006</td></tr>
+<tr><td>Russia</td><td colspan="2">26 maggio</td><td>2004</td><td colspan="2">25 giugno</td><td>2004</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td colspan="2">21 maggio</td><td>2004 A</td><td colspan="2">20 giugno</td><td>2004</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td colspan="2">29 ottobre</td><td>2010</td><td colspan="2">28 novembre</td><td>2010</td></tr>
+<tr><td>San Marino</td><td colspan="2">20 luglio</td><td>2010</td><td colspan="2">19 agosto</td><td>2010</td></tr>
+<tr><td>São Tomé e Príncipe</td><td colspan="2">12 aprile</td><td>2006 A</td><td colspan="2">12 maggio</td><td>2006</td></tr>
+<tr><td>Seicelle</td><td colspan="2">22 giugno</td><td>2004</td><td colspan="2">22 luglio</td><td>2004</td></tr>
+<tr><td>Senegal</td><td colspan="2">27 ottobre</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Serbia</td><td colspan="2">6 settembre</td><td>2001</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Sierra Leone</td><td colspan="2">12 agosto</td><td>2014</td><td colspan="2">11 settembre</td><td>2014</td></tr>
+<tr><td>Siria\*</td><td colspan="2">8 aprile</td><td>2009</td><td colspan="2">8 maggio</td><td>2009</td></tr>
+<tr><td>Slovacchia\*\*</td><td colspan="2">21 settembre</td><td>2004</td><td colspan="2">21 ottobre</td><td>2004</td></tr>
+<tr><td>Slovenia\*\*</td><td colspan="2">21 maggio</td><td>2004</td><td colspan="2">20 giugno</td><td>2004</td></tr>
+<tr><td>Spagna\*\*</td><td colspan="2">1° marzo</td><td>2002</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Stati Uniti\*</td><td colspan="2">3 novembre</td><td>2005</td><td colspan="2">3 dicembre</td><td>2005</td></tr>
+<tr><td>Sudafrica\*</td><td colspan="2">20 febbraio</td><td>2004</td><td colspan="2">21 marzo</td><td>2004</td></tr>
+<tr><td>Sudan\*</td><td colspan="2">9 ottobre</td><td>2018</td><td colspan="2">8 novembre</td><td>2018</td></tr>
+<tr><td>Suriname</td><td colspan="2">25 maggio</td><td>2007 A</td><td colspan="2">24 giugno</td><td>2007</td></tr>
+<tr><td>Svezia\*\*</td><td colspan="2">6 settembre</td><td>2006</td><td colspan="2">6 ottobre</td><td>2006</td></tr>
+<tr><td>Svizzera</td><td colspan="2">27 ottobre</td><td>2006</td><td colspan="2">26 novembre</td><td>2006</td></tr>
+<tr><td>Tagikistan</td><td colspan="2">8 luglio</td><td>2002 A</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Tanzania</td><td colspan="2">24 maggio</td><td>2006</td><td colspan="2">23 giugno</td><td>2006</td></tr>
+<tr><td>Timor–Leste</td><td colspan="2">9 novembre</td><td>2009 A</td><td colspan="2">9 dicembre</td><td>2009</td></tr>
+<tr><td>Togo</td><td colspan="2">28 settembre</td><td>2010</td><td colspan="2">28 ottobre</td><td>2010</td></tr>
+<tr><td>Trinidad e Tobago</td><td colspan="2">6 novembre</td><td>2007</td><td colspan="2">6 dicembre</td><td>2007</td></tr>
+<tr><td>Tunisia\*</td><td colspan="2">14 luglio</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Turchia</td><td colspan="2">25 marzo</td><td>2003</td><td colspan="2">28 gennaio</td><td>2004</td></tr>
+<tr><td>Turkmenistan</td><td colspan="2">28 marzo</td><td>2005 A</td><td colspan="2">27 aprile</td><td>2005</td></tr>
+<tr><td>Ucraina\*</td><td colspan="2">21 maggio</td><td>2004</td><td colspan="2">20 giugno</td><td>2004</td></tr>
+<tr><td>Uganda</td><td colspan="2">27 marzo</td><td>2024</td><td colspan="2">26 aprile</td><td>2024</td></tr>
+<tr><td>Ungheria\*\*</td><td colspan="2">22 dicembre</td><td>2006</td><td colspan="2">21 gennaio</td><td>2007</td></tr>
+<tr><td>[tab] Unione europea\*</td><td colspan="2">6 settembre</td><td>2006</td><td colspan="2">6 ottobre</td><td>2006</td></tr>
+<tr><td>Uruguay</td><td colspan="2">4 marzo</td><td>2005</td><td colspan="2">3 aprile</td><td>2005</td></tr>
+<tr><td>Venezuela\*</td><td colspan="2">19 aprile</td><td>2005</td><td colspan="2">19 maggio</td><td>2005</td></tr>
+<tr><td>Zambia</td><td colspan="2">24 aprile</td><td>2005 A</td><td colspan="2">24 maggio</td><td>2005</td></tr>
+<tr><td colspan="7">\* Riserve e dichiarazioni. \*\* Obiezioni. Le \* del campo d’applicazione qui sopra non comprendono le notifiche concernenti le autorità designate dagli Stati Parte ai sensi dell’art. 8 cpv. 6. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="7"><sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
+<tr><td colspan="7"><sup>b</sup> Il Prot. non vale per Tokelau.</td></tr>
+<tr><td colspan="7"><sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), 405; [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104); [2024 289](https://fedlex.data.admin.ch/eli/oc/2024/289). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Designazione dell’autorità Svizzera
 
