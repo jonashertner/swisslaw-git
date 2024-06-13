@@ -4,26 +4,28 @@ number: "170.502"
 title: Verordnung über die Herausgabe des Amtsblattes des Kantons Schaffhausen und weiterer offizieller Drucksachen
 language: de
 version: 2024-01-01
+corrected: 2024-06-14
 version_adopted: 2023-11-21
 adopted: 2023-11-21
 in_force: 2024-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.502"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1213/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/160/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die Herausgabe des Amtsblattes des Kantons Schaffhausen und weiterer offizieller Drucksachen
 
-Vom 21.11.2023 (Stand 01.01.2024)
+vom 21. November 2023
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 47 Abs. 1 der Verfassung des Kantons Schaffhausen vom 17. Juni 2002, Art. 28 Abs. 1 des Gesetzes über den Kantonsrat vom 20. Mai 1996 sowie Art. 17 des Gesetzes über die Organisation der Regierungs- und Verwaltungstätigkeit vom 18. Februar 1985,
+gestützt auf Art. 47 Abs. 1 der Verfassung des Kantons Schaffhausen vom 17. Juni 2002., Art. 28 Abs. 1 des Gesetzes über den Kantonsrat vom 20. Mai 1996 sowie Art. 17 des Gesetzes über die Organisation der Regierungs- und Verwaltungstätigkeit vom 18. Februar 1985,
 
-beschliesst:
+verordnet:
 
-## 1 Amtsblatt
+## I. Amtsblatt
 
 #### § 1
 
@@ -46,6 +48,8 @@ beschliesst:
 <sup>4</sup> Die Einsichtnahme im Internet ist kostenlos.
 
 <sup>5</sup> Das Amtsblatt wird auf der vom Bund betriebenen Publikationsplattform gemäss Art. 5 Abs. 3 der eidgenössischen Verordnung vom 15. Februar 2006 über das Schweizerische Handelsamtsblatt (Verordnung SHAB, VSHAB) veröffentlicht.
+
+Amtsblatt 2023, S. 2014
 
 #### § 3
 
@@ -71,7 +75,7 @@ beschliesst:
 
 **Datensicherheit**
 
-<sup>1</sup> Die Daten des Amtsblatts werden mit einer elektronischen Signatur oder einem elektronischen Siegel gemäss Art. 8 Abs. 2 VSHAB versehen.
+<sup>1</sup> Die Daten des Amtsblatts werden mit einer elektronischen Signatur oder einem elektronischen Siegel gemäss Artikel 8 Absatz 2 VSHAB versehen.
 
 <sup>2</sup> Die Staatskanzlei bewahrt die Daten der veröffentlichten Meldungen, die ihr der Plattformbetreiber regelmässig zustellt, an einem sicheren Ort auf.
 
@@ -79,7 +83,7 @@ beschliesst:
 
 **Publikationsgebühr**
 
-<sup>1</sup> Die Publikationsgebühr beträgt Fr. 30.00 pro Meldung.
+<sup>1</sup> Die Publikationsgebühr beträgt 30 Franken pro Meldung.
 
 <sup>2</sup> Sie wird erhoben bei den Meldestellen gemäss § 3 Abs. 1. Bei kantonalen Behörden und Verwaltungsstellen wird die Publikationsgebühr nur erhoben, wenn diese die Publikationsgebühr Dritten weiter verrechnen können.
 
@@ -95,9 +99,9 @@ beschliesst:
 
 **Bestellung gedruckte Fassung**
 
-<sup>1</sup> Personen, die keinen Zugang zum Internet haben, können auf Wunsch bei der Staatskanzlei einen Ausdruck des Amtsblattes zum Selbstkostenpreis beziehen. Der Versand erfolgt jeweils am Freitag.
+Personen, die keinen Zugang zum Internet haben, können auf Wunsch bei der Staatskanzlei einen Ausdruck des Amtsblattes zum Selbstkostenpreis beziehen. Der Versand erfolgt jeweils am Freitag.
 
-## 2 Drucksachen
+## II. Drucksachen
 
 #### § 9
 
@@ -114,15 +118,20 @@ beschliesst:
 <sup>1</sup> An folgende Amtsstellen und Behördenmitglieder ausserhalb der kantonalen Verwaltung wird das Schaffhauser Rechtsbuch unentgeltlich in je einem Exemplar abgegeben:
 
 - 1\. die Mitglieder und Ersatzrichter des Obergerichtes
+
 - 2\. die Mitglieder des Kantonsgerichtes
+
 - 3\. die Gerichtskanzleien
+
 - 4\. die Gemeinderatskanzleien
-- 5\. die Betreibungsämter und das Konkursamt
+
+- 5\. die Betreibungsämter und das Konkursamt.
 
 <sup>2</sup> An folgende Amtsstellen und Behördenmitglieder ausserhalb der kantonalen Verwaltung wird nach Wunsch das Schaffhauser Rechtsbuch zu reduziertem Preis abgegeben:
 
 - 1\. die Mitglieder des Kantonsrates
-- 2\. die Mitglieder des Erziehungsrates
+
+- 2\. die Mitglieder des Erziehungsrates.
 
 <sup>3</sup> Die Rechtsbuchnachträge werden den Mitgliedern des Kantonsrates und des Erziehungsrates unentgeltlich abgegeben.
 
@@ -130,13 +139,13 @@ beschliesst:
 
 **Preise Amtsdruckschriften**
 
-<sup>1</sup> Die Preise der Amtsdruckschriften werden von der Staatskanzlei festgesetzt. Sie sollen grundsätzlich kostendeckend sein.
+Die Preise der Amtsdruckschriften werden von der Staatskanzlei festgesetzt. Sie sollen grundsätzlich kostendeckend sein.
 
 #### § 12
 
 **Zuständigkeit**
 
-<sup>1</sup> Über die Anspruchsberechtigung in besonderen Fällen entscheidet die Staatskanzlei; ebenso über die Abgabe auf Gegenseitigkeit und für wissenschaftliche Arbeiten.
+Über die Anspruchsberechtigung in besonderen Fällen entscheidet die Staatskanzlei; ebenso über die Abgabe auf Gegenseitigkeit und für wissenschaftliche Arbeiten.
 
 #### § 13
 
@@ -146,8 +155,8 @@ beschliesst:
 
 <sup>2</sup> Sie ersetzt die Verordnung betreffend die Bekanntmachungen im Amtsblatt vom 3. Dezember 1960 und die Verordnung über die Abgabe offizieller Drucksachen vom 17. Januar 1978.
 
-<sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^13-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^13-1]: Amtsblatt 2023, S. 2014.
+Fussnoten:
 
-Abl. 2023, S. 2014
+- 1) Amtsblatt 2023, S. 2014.
