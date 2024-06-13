@@ -3,20 +3,19 @@ canton: ZG
 number: "153.719"
 title: Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Kindes- und Erwachsenenschutz
 language: de
-version: 2019-01-05
-valid_until: 2024-06-13
-version_adopted: 2018-12-14
+version: 2024-06-14
+version_adopted: 2024-06-07
 adopted: 2013-01-24
 in_force: 2013-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.719"
-pdf: "https://bgs.zg.ch/api/de/versions/1921/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern an das Amt für Kindes- und Erwachsenenschutz
 
-Vom 24. Januar 2013 (Stand 5. Januar 2019)
+Vom 24. Januar 2013 (Stand 14. Juni 2024)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -35,18 +34,19 @@ verfügt:
 
 - a) Beratung adoptierter Personen bei der Auskunftssuche nach den Personalien der leiblichen Eltern (Art. 268c Abs. 3 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 [ZGB][^1-2]);
 - b) Mitwirkung bei der Abklärung der Bewilligungsvoraussetzungen und bei der Aufsicht im Rahmen der Adoptivkindervermittlung (Art. 269c Abs. 3 ZGB);
-- c) Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen vom 19. Oktober 1996 (HKsÜ)[^1-3] sowie das Haager Erwachsenenschutzübereinkommen vom 13. Januar 2000 (HEsÜ)[^1-4] und als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführungen und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen vom 21. Dezember 2007 [BG-KKE][^1-5]);
-- d) Zuständigkeit für die Aufnahme eines Pflegekindes zum Zweck der späteren Adoption (Art. 316 Abs. 1<sup>bis</sup> ZGB);
-- e) Verbindungsstelle zur kantonalen Migrationsbehörde (Art. 8 der Verordnung über die Adoption vom 29. Juni 2011 [Adoptionsverordnung, AdoV][^1-6]);
-- f) Erstellung von Mustern für Pflegeverträge und Formulare für Gesuche und Meldungen, Erlass von Richtlinien für die Festsetzung von Pflegegeldern und Herausgabe von Merkblättern über die Rechte und Pflichten von Eltern und Pflegeeltern (§ 4 Abs. 3 PAKV[^1-7]).
+- c) Tätigkeit als Zentrale Behörde für das Haager Kindesschutzübereinkommen vom 19. Oktober 1996 (HKsÜ)[^1-3], das Haager Erwachsenenschutzübereinkommen vom 13. Januar 2000 (HEsÜ)[^1-4], das Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen vom 22. Juni 2001 (BG-HAÜ)[^1-5] sowie als Vollzugsbehörde für Rückführungen bei Kindesentführungen (Art. 2 und 12 des Bundesgesetzes über internationale Kindesentführungen und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen vom 21. Dezember 2007 [BG-KKE][^1-6]);
+- d) Zuständigkeit für die Aufnahme eines Pflegekindes zum Zweck der späteren Adoption (Art. 316 Abs. 1<sup>bis</sup> ZGB) sowie das Verfahren bzw. Ausstellen der Eignungsbescheinigung zur Adoption und der Fortsetzung des Adoptionsverfahrens (Matching Entscheid);
+- e) Verbindungsstelle zur kantonalen Migrationsbehörde (Art. 8 der Verordnung über die Adoption vom 29. Juni 2011 [Adoptionsverordnung, AdoV][^1-7]);
+- f) Erstellung von Mustern für Pflegeverträge und Formulare für Gesuche und Meldungen, Erlass von Richtlinien für die Festsetzung von Pflegegeldern und Herausgabe von Merkblättern über die Rechte und Pflichten von Eltern und Pflegeeltern (§ 4 Abs. 3 PAKV[^1-8]).
 
 [^1-1]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
 [^1-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 [^1-3]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
 [^1-4]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
-[^1-5]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
-[^1-6]: SR [211.221.36](https://db.clex.ch/link/Bund/211.221.36/de)
-[^1-7]: BGS [213.41](https://bgs.zg.ch/data/213.41/de)
+[^1-5]: SR [211.221.31](https://db.clex.ch/link/Bund/211.221.31/de)
+[^1-6]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
+[^1-7]: SR [211.221.36](https://db.clex.ch/link/Bund/211.221.36/de)
+[^1-8]: BGS [213.41](https://bgs.zg.ch/data/213.41/de)
 
 #### § 2
 
