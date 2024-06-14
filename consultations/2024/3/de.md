@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Stromversorgungsgesetzes (Anforderungen an systemrelevante Unternehmen)
 document: Vernehmlassungsvorlage
 language: de

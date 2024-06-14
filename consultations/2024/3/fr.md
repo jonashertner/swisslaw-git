@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la loi sur l’approvisionnement en électricité (exigences imposées aux entreprises d’importance systémique)
 document: Projet mis en consultation
 language: fr

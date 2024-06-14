@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sull’approvvigionamento elettrico (requisiti per le imprese elettriche di rilevanza sistemica)
 document: Progetto posto in consultazione
 language: it
