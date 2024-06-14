@@ -4,26 +4,24 @@ number: "343.110"
 title: Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen
 language: de
 version: 2007-01-01
+corrected: 2024-06-15
 version_adopted: 2004-10-29
 adopted: 2004-10-29
 in_force: 2007-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/343.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1242/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/33/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen
 
-Vom 29.10.2004 (Stand 01.01.2007)
+vom 29. Oktober 2004
 
-Die Kantone Zürich, Glarus, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden und Thurgau
+Die Kantone Zürich, Glarus, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden und Thurgau schliessen sich zum ostschweizerischen Strafvollzugskonkordat zusammen mit dem Ziel, die Aufgaben bei der Planung, beim Bau und beim Betrieb der Vollzugseinrichtungen zu verteilen und zu koordinieren, einen grundrechtskonformen, effizienten und kostengünstigen Vollzug zu ermöglichen sowie den Vollzug zu vereinheitlichen, damit die Vollzugsziele bestmöglich erreicht werden können.
 
-mit dem Ziel, die Aufgaben bei der Planung, beim Bau und beim Betrieb der Vollzugseinrichtungen zu verteilen und zu koordinieren, einen grundrechtskonformen, effizienten und kostengünstigen Vollzug zu ermöglichen sowie den Vollzug zu vereinheitlichen, damit die Vollzugsziele bestmöglich erreicht werden können,
-
-beschliessen:
-
-## 1 Einleitung
+### I. Einleitung
 
 #### Art. 1
 
@@ -31,12 +29,15 @@ beschliessen:
 
 <sup>1</sup> Das Konkordat findet Anwendung auf den Vollzug:
 
-- a) der in den Konkordatskantonen ausgesprochenen unbedingten Strafen sowie der stationären therapeutischen Massnahmen und der Verwahrungen gegenüber erwachsenen Personen
-- b) von Sanktionen gegenüber Erwachsenen und Jugendlichen, soweit der Vollzug in Vollzugseinrichtungen durchgeführt wird, die dem gemeinsamen Vollzug dienen (Konkordatsanstalten)
+- a) der in den Konkordatskantonen ausgesprochenen unbedingten Strafen sowie der stationären therapeutischen Massnahmen und der Verwahrungen gegenüber erwachsenen Personen;
+
+- b) von Sanktionen gegenüber Erwachsenen und Jugendlichen, soweit der Vollzug in Vollzugseinrichtungen durchgeführt wird, die dem gemeinsamen Vollzug dienen (Konkordatsanstalten).
 
 <sup>2</sup> Die beteiligten Kantone informieren sich gegenseitig über ihre Planungen und Bauten im gesamten Bereich des Freiheitsentzugs und stimmen die Angebote soweit möglich und zweckmässig aufeinander ab.
 
-## 2 Organisation
+Amtsblatt 2006, S. 891
+
+### II. Organisation
 
 #### Art. 2
 
@@ -46,13 +47,19 @@ beschliessen:
 
 <sup>2</sup> Die Strafvollzugskommission:
 
-- a) übt die Aufsicht über die Anwendung und Auslegung des Konkordats aus und entscheidet in Streitfällen
-- b) bestellt die notwendigen Organe
-- c) erlässt Richtlinien zur Zusammenarbeit im Vollzugsbereich und zur Ausgestaltung des Vollzugs, die mit Zustimmung aller Beteiligten als verbindlich erklärt werden können
-- d) entscheidet mit Zustimmung der Standortkantone, welche Vollzugseinrichtungen als Konkordatsanstalten gemeinsame Vollzugsaufgaben erfüllen, und plant das notwendige Angebot an Vollzugsplätzen
-- e) legt die Kostgelder für die Konkordatsanstalten fest
-- f) kann privat geführten Einrichtungen die Bewilligung erteilen, Strafen in Form der Halbgefangenschaft und des Arbeitsexternats, stationäre Behandlungen von psychisch gestörten und von Suchtstoffen oder in anderer Weise abhängigen Tätern, Massnahmen für junge Erwachsene sowie Sanktionen des Jugendstrafgesetzes zu vollziehen
-- g) nimmt Stellung zu Gesetzesvorlagen oder Berichten des Bundes oder zu internationalen Verträgen oder Berichten internationaler Organisationen
+- a) übt die Aufsicht über die Anwendung und Auslegung des Konkordats aus und entscheidet in Streitfällen;
+
+- b) bestellt die notwendigen Organe;
+
+- c) erlässt Richtlinien zur Zusammenarbeit im Vollzugsbereich und zur Ausgestaltung des Vollzugs, die mit Zustimmung aller Beteiligten als verbindlich erklärt werden können;
+
+- d) entscheidet mit Zustimmung der Standortkantone, welche Vollzugseinrichtungen als Konkordatsanstalten gemeinsame Vollzugsaufgaben erfüllen, und plant das notwendige Angebot an Vollzugsplätzen;
+
+- e) legt die Kostgelder für die Konkordatsanstalten fest;
+
+- f) kann privat geführten Einrichtungen die Bewilligung erteilen, Strafen in Form der Halbgefangenschaft und des Arbeitsexternats, stationäre Behandlungen von psychisch gestörten und von Suchtstoffen oder in anderer Weise abhängigen Tätern, Massnahmen für junge Erwachsene sowie Sanktionen des Jugendstrafgesetzes zu vollziehen;
+
+- g) nimmt Stellung zu Gesetzesvorlagen oder Berichten des Bundes oder zu internationalen Verträgen oder Berichten internationaler Organisationen.
 
 <sup>3</sup> Die Strafvollzugskommission tritt mindestens zweimal im Kalenderjahr zusammen. Sie wählt aus ihrer Mitte die Präsidentin oder den Präsidenten und deren Stellvertretung. Entscheide werden mit einfachem Stimmenmehr getroffen. Jeder Kanton hat eine Stimme. Bei Stimmengleichheit steht der Präsidentin oder dem Präsidenten der Stichentscheid zu. Im Übrigen ordnet die Strafvollzugskommission ihr Verfahren selbst.
 
@@ -64,11 +71,15 @@ beschliessen:
 
 <sup>2</sup> Die Zentralstelle:
 
-- a) erkennt und analysiert kantonsübergreifende Entwicklungen im Bereich des Straf- und Massnahmenvollzugs, stellt der Strafvollzugskommission Antrag und vollzieht deren Beschlüsse
-- b) stellt die Vernetzung unter den Konkordatsgremien sicher
-- c) nimmt Anträge der Fachkonferenzen auf und bearbeitet sie
-- d) fördert die Zusammenarbeit zwischen den Konkordaten
-- e) stellt den Kantonen Angaben zu, die diese zur Erfüllung ihrer Aufgaben benötigen, und gibt Empfehlungen über die Anwendung und Auslegung des Konkordats und der Richtlinien ab
+- a) erkennt und analysiert kantonsübergreifende Entwicklungen im Bereich des Straf- und Massnahmenvollzugs, stellt der Strafvollzugskommission Antrag und vollzieht deren Beschlüsse;
+
+- b) stellt die Vernetzung unter den Konkordatsgremien sicher;
+
+- c) nimmt Anträge der Fachkonferenzen auf und bearbeitet sie;
+
+- d) fördert die Zusammenarbeit zwischen den Konkordaten;
+
+- e) stellt den Kantonen Angaben zu, die diese zur Erfüllung ihrer Aufgaben benötigen, und gibt Empfehlungen über die Anwendung und Auslegung des Konkordats und der Richtlinien ab.
 
 <sup>3</sup> Im Übrigen regelt die Strafvollzugskommission Aufgaben und Organisation der Zentralstelle mit Reglement.
 
@@ -80,10 +91,13 @@ beschliessen:
 
 <sup>2</sup> Das Konkordatssekretariat:
 
-- a) leitet die Zentralstelle und nimmt nach Möglichkeit an den Sitzungen der Fachkonferenzen teil
-- b) bereitet die Sitzungen der Strafvollzugskommission vor
-- c) orientiert die Kantone über wichtige Neuerungen im Vollzugsbereich, berät sie in einzelnen Vollzugsfällen und gibt im Interesse einer gleichmässigen Belegung der Konkordatsanstalten Empfehlungen ab
-- d) führt alle Aufgaben aus, die nicht einem anderen Organ zugewiesen sind
+- a) leitet die Zentralstelle und nimmt nach Möglichkeit an den Sitzungen der Fachkonferenzen teil;
+
+- b) bereitet die Sitzungen der Strafvollzugskommission vor;
+
+- c) orientiert die Kantone über wichtige Neuerungen im Vollzugsbereich, berät sie in einzelnen Vollzugsfällen und gibt im Interesse einer gleichmässigen Belegung der Konkordatsanstalten Empfehlungen ab;
+
+- d) führt alle Aufgaben aus, die nicht einem anderen Organ zugewiesen sind.
 
 <sup>3</sup> Die Kosten des Konkordatssekretariates tragen die beteiligten Kantone im Verhältnis der Einwohnerzahl gemäss der jeweils letzten eidgenössischen Volkszählung. Die Strafvollzugskommission kann einen Grundbeitrag festlegen.
 
@@ -93,9 +107,11 @@ beschliessen:
 
 <sup>1</sup> Es bestehen Fachkonferenzen der:
 
-- a) Anstaltsleiter
-- b) Einweisungs- und Vollzugsbehörden
-- c) Bewährungshilfe
+- a) Anstaltsleiter;
+
+- b) Einweisungs- und Vollzugsbehörden;
+
+- c) Bewährungshilfe.
 
 <sup>2</sup> Die Fachkonferenzen dienen dem interkantonalen fachspezifischen Erfahrungs- und Informationsaustausch. Sie erkennen Entwicklungen und Tendenzen im Bereich des Straf- und Massnahmenvollzuges sowie des Anstalts- und Gefängniswesens und stellen der Zentralstelle Antrag zuhanden der Strafvollzugskommission.
 
@@ -109,12 +125,13 @@ beschliessen:
 
 <sup>2</sup> Die Fachkommission beurteilt auf Antrag des für den Vollzug zuständigen Kantons die Gefährlichkeit von Straftätern und Straftäterinnen und gibt Empfehlungen ab:
 
-- a) in den vom Bundesrecht vorgeschriebenen Fällen
-- b) falls die Gemeingefährlichkeit eines Straftäters oder einer Straftäterin von der Vollzugsbehörde nicht eindeutig beantwortet werden kann, Zweifel hinsichtlich der zu treffenden Massnahme bestehen oder trotz Bejahung der Gemeingefährlichkeit eine Vollzugslockerung in Erwägung gezogen wird
+- a) in den vom Bundesrecht vorgeschriebenen Fällen;
+
+- b) falls die Gemeingefährlichkeit eines Straftäters oder einer Straftäterin von der Vollzugsbehörde nicht eindeutig beantwortet werden kann, Zweifel hinsichtlich der zu treffenden Massnahme bestehen oder trotz Bejahung der Gemeingefährlichkeit eine Vollzugslockerung in Erwägung gezogen wird.
 
 <sup>3</sup> Im Übrigen regelt die Strafvollzugskommission Aufgaben und Organisation der Fachkommission mit Reglement. Die Kosten der Beurteilung trägt der für den Vollzug zuständige Kanton.
 
-## 3 Konkordatsanstalten
+### III. Konkordatsanstalten
 
 #### Art. 7
 
@@ -122,20 +139,19 @@ beschliessen:
 
 <sup>1</sup> Die beteiligten Kantone verpflichten sich unter dem Vorbehalt der Bewilligung der erforderlichen Kredite durch die nach kantonalem Recht zuständigen Instanzen folgende Vollzugseinrichtungen für den gemeinsamen Vollzug der Freiheitsstrafen, der freiheitsentziehenden Massnahmen sowie der Unterbringung von Jugendlichen und des jugendstrafrechtlichen Freiheitsentzugs bereitzustellen, auszubauen und zu führen:
 
-- a) Kanton Zürich:
-  - 1\. Strafanstalt Pöschwies (geschlossener Vollzug)
-  - 2\. Zweigstellen der Strafanstalt Pöschwies (offener Vollzug)
-  - 3\. Massnahmenzentrum Uitikon (Massnahmen für junge Erwachsene sowie Schutzmassnahmen und Freiheitsentzug für Jugendliche)
-- b) Kanton Appenzell A.Rh.:
-  - 1\. Strafanstalt Gmünden (offener Vollzug)
-- c) Kanton St. Gallen:
-  - 1\. Strafanstalt Saxerriet (offener Vollzug)
-  - 2\. Massnahmenzentrum Bitzi (Massnahmenvollzug,insbesondere Behandlung von psychischen Störungen und Suchtbehandlung)
-- d) Kanton Graubünden:
-  - 1\. Strafanstalt Sennhof (geschlossener Vollzug)
-  - 2\. Anstalt Realta (offener Vollzug)
-- e) Kanton Thurgau:
-  - 1\. Massnahmenzentrum für junge Erwachsene Kalchrain (Massnahmen für junge Erwachsene sowie Schutzmassnahmen und Freiheitsentzug für Jugendliche)
+Kanton Zürich Strafanstalt Pöschwies (geschlossener Vollzug) Zweigstellen der Strafanstalt Pöschwies
+
+(offener Vollzug)
+
+Massnahmenzentrum Uitikon (Massnahmen für junge Erwachsene sowie Schutzmassnahmen und Freiheitsentzug für Jugendliche)
+
+Kanton Appenzell A.Rh. Strafanstalt Gmünden (offener Vollzug) Kanton St. Gallen Strafanstalt Saxerriet (offener Vollzug) Massnahmenzentrum Bitzi (Massnahmenvollzug,insbesondere Behandlung von psychischen Störungen und Suchtbe-
+
+handlung)
+
+Kanton Graubünden Strafanstalt Sennhof (geschlossener Vollzug) Anstalt Realta (offener Vollzug)
+
+Kanton Thurgau Massnahmenzentrum für junge Erwachsene Kalchrain (Massnahmen für junge Erwachsene sowie Schutzmassnahmen und Freiheitsentzug für Jugendliche)
 
 <sup>2</sup> Die Strafvollzugskommission kann auf Antrag des Standortkantons weiteren Vollzugseinrichtungen gemeinsame Vollzugsaufgaben übertragen, sofern die Vollzugseinrichtung die in diesem Konkordat und den Richtlinien aufgestellten Anforderungen und Regeln einhält.
 
@@ -145,12 +161,13 @@ beschliessen:
 
 **Personal**
 
-<sup>1</sup> Damit der gesetzliche Vollzugsauftrag erfüllt und die Vollzugsgrundsätze eingehalten werden können, sorgen die beteiligten Kantone für:
+Damit der gesetzliche Vollzugsauftrag erfüllt und die Vollzugsgrundsätze eingehalten werden können, sorgen die beteiligten Kantone für:
 
-- a) die Anstellung einer ausreichenden Zahl geeigneter Mitarbeiterinnen und Mitarbeiter in den Vollzugseinrichtungen
-- b) die gemeinsame Aus-, Fort- und Weiterbildung des Personals
+- a) die Anstellung einer ausreichenden Zahl geeigneter Mitarbeiterinnen und Mitarbeiter in den Vollzugseinrichtungen;
 
-## 4 Durchführung der Vollzüge
+- b) die gemeinsame Aus-, Fort- und Weiterbildung des Personals.
+
+### IV. Durchführung der Vollzüge
 
 #### Art. 9
 
@@ -162,10 +179,13 @@ beschliessen:
 
 <sup>3</sup> Vorbehalten bleiben:
 
-- a) der Vollzug von Freiheitsstrafen in einem Gefängnis des für den Vollzug zuständigen Kantons, wenn die betroffene Person aus zeitlichen oder persönlichen Gründen nicht in eine Konkordatsanstalt eingewiesen werden kann
-- b) der Vollzug in Form der Halbgefangenschaft oder im Rahmen des Wohn- und Arbeitsexternats
-- c) die Abtretung des Vollzugs an einen Kanton, der dem Konkordat nicht angehört
-- d) die Einweisung in eine Vollzugseinrichtung ausserhalb des Konkordats im Einzelfall aus Sicherheitsgründen, zur Optimierung der Insassenzusammensetzung oder wenn die Wiedereingliederung auf Grund der Beschäftigungs- oder Ausbildungssituation oder mit Rücksicht auf das familiäre Umfeld dadurch erleichtert wird. Soweit der einweisende Kanton für Entscheide zuständig ist, wendet er dieses Konkordat und die Richtlinien der Strafvollzugskommission an
+- a) der Vollzug von Freiheitsstrafen in einem Gefängnis des für den Vollzug zuständigen Kantons, wenn die betroffene Person aus zeitlichen oder persönlichen Gründen nicht in eine Konkordatsanstalt eingewiesen werden kann;
+
+- b) der Vollzug in Form der Halbgefangenschaft oder im Rahmen des Wohn- und Arbeitsexternats;
+
+- c) die Abtretung des Vollzugs an einen Kanton, der dem Konkordat nicht angehört;
+
+- d) die Einweisung in eine Vollzugseinrichtung ausserhalb des Konkordats im Einzelfall aus Sicherheitsgründen, zur Optimierung der Insassenzusammensetzung oder wenn die Wiedereingliederung auf Grund der Beschäftigungs- oder Ausbildungssituation oder mit Rücksicht auf das familiäre Umfeld dadurch erleichtert wird. Soweit der einweisende Kanton für Entscheide zuständig ist, wendet er dieses Konkordat und die Richtlinien der Strafvollzugskommission an.
 
 #### Art. 10
 
@@ -173,16 +193,21 @@ beschliessen:
 
 <sup>1</sup> Der einweisende Kanton:
 
-- a) bestimmt im Einzelfall die geeignete Vollzugseinrichtung
-- b) koordiniert die Planung des gesamten Vollzugs einschliesslich der Probezeit nach der Entlassung aus der Vollzugseinrichtung; er stellt der Vollzugseinrichtung, der Bewährungshilfe und den anderen am Vollzug beteiligten Stellen die zur Aufgabenerfüllung erforderlichen Informationen und Unterlagen zu
-- c) entscheidet über Vollzugsöffnungen wie die Bewilligung von Urlaub, die Verlegung in den offenen Vollzug, den Vollzug in Form des Arbeits- sowie des Wohn- und Arbeitsexternats, die bedingte Entlassung sowie die Unterbrechung des Vollzugs. Er kann die Kompetenz für die Bewilligung von Urlaub sowie des Wohn- und Arbeitsexternats der Leitung der Vollzugseinrichtung delegieren
+- a) bestimmt im Einzelfall die geeignete Vollzugseinrichtung;
+
+- b) koordiniert die Planung des gesamten Vollzugs einschliesslich der Probezeit nach der Entlassung aus der Vollzugseinrichtung; er stellt der Vollzugseinrichtung, der Bewährungshilfe und den anderen am Vollzug beteiligten Stellen die zur Aufgabenerfüllung erforderlichen Informationen und Unterlagen zu;
+
+- c) entscheidet über Vollzugsöffnungen wie die Bewilligung von Urlaub, die Verlegung in den offenen Vollzug, den Vollzug in Form des Arbeits- sowie des Wohn- und Arbeitsexternats, die bedingte Entlassung sowie die Unterbrechung des Vollzugs. Er kann die Kompetenz für die Bewilligung von Urlaub sowie des Wohn- und Arbeitsexternats der Leitung der Vollzugseinrichtung delegieren.
 
 <sup>2</sup> Die Vollzugseinrichtung:
 
-- 1\. übernimmt die zugewiesenen Personen im Rahmen ihrer Aufnahmefähigkeit und entlässt sie nach den Anordnungen des einweisenden Kantons
-- 2\. erstellt innerhalb der Vorgaben des einweisenden Kantons zusammen mit der eingewiesenen Person den Vollzugsplan
-- 3\. bezieht die Bewährungshilfe oder Fachstellen bei Bedarf mit ein, insbesondere bei der Vorbereitung der Entlassung
-- 4\. erstattet dem einweisenden Kanton Bericht, wenn er es verlangt, bei besonderen Vorkommnissen wie schweren Disziplinarverstössen, Unfall oder Tod der eingewiesenen Person und mit der Überweisung von Gesuchen
+- 1\. übernimmt die zugewiesenen Personen im Rahmen ihrer Aufnahmefähigkeit und entlässt sie nach den Anordnungen des einweisenden Kantons;
+
+- 2\. erstellt innerhalb der Vorgaben des einweisenden Kantons zusammen mit der eingewiesenen Person den Vollzugsplan;
+
+- 3\. bezieht die Bewährungshilfe oder Fachstellen bei Bedarf mit ein, insbesondere bei der Vorbereitung der Entlassung;
+
+- 4\. erstattet dem einweisenden Kanton Bericht, wenn er es verlangt, bei besonderen Vorkommnissen wie schweren Disziplinarverstössen, Unfall oder Tod der eingewiesenen Person und mit der Überweisung von Gesuchen.
 
 #### Art. 11
 
@@ -212,19 +237,21 @@ beschliessen:
 
 **Kostenbeteiligung**
 
-<sup>1</sup> Die eingewiesene Person:
+Die eingewiesene Person:
 
-- a) bezahlt persönliche Anschaffungen, insbesondere Raucherwaren, Genussmittel, Toilettenartikel und Zeitungsabonnemente, die Urlaubskosten sowie die Gebühren für die Benützung von Radio-, Fernseh- und Telefonanlagen zulasten ihres Arbeitsentgeltes
-- b) wird an den Kosten der Halbgefangenschaft, des Arbeitsexternats sowie des Wohn- und Arbeitsexternats angemessen beteiligt
-- c) trägt die Kosten für Sozialversicherungsbeiträge, besondere Weiterbildungsmassnahmen und die Heimschaffung, soweit es ihr möglich und zumutbar ist
+- a) bezahlt persönliche Anschaffungen, insbesondere Raucherwaren, Genussmittel, Toilettenartikel und Zeitungsabonnemente, die Urlaubskosten sowie die Gebühren für die Benützung von Radio-, Fernseh- und Telefonanlagen zulasten ihres Arbeitsentgeltes;
 
-## 5 Schlussbestimmungen
+- b) wird an den Kosten der Halbgefangenschaft, des Arbeitsexternats sowie des Wohn- und Arbeitsexternats angemessen beteiligt;
+
+- c) trägt die Kosten für Sozialversicherungsbeiträge, besondere Weiterbildungsmassnahmen und die Heimschaffung, soweit es ihr möglich und zumutbar ist.
+
+### V. Schlussbestimmungen
 
 #### Art. 15
 
 **Vereinbarungen mit andern Konkordaten und Kantonen**
 
-<sup>1</sup> Die Strafvollzugskommission trifft die notwendigen Vereinbarungen mit andern Konkordaten, insbesondere in Bezug auf die Unterbringung von Frauen und von kranken Gefangenen.
+<sup>1</sup> Die Strafvollzugskommission trifft die notwendigen Vereinbarungen mit andern Konkordaten, insbesondere in bezug auf die Unterbringung von Frauen und von kranken Gefangenen.
 
 <sup>2</sup> Generelle Vereinbarungen einzelner Kantone mit anderen Kantonen oder Konkordaten bedürfen der Genehmigung der Strafvollzugskommission.
 
@@ -240,14 +267,14 @@ beschliessen:
 
 **Aufhebung der bisherigen Vereinbarung**
 
-<sup>1</sup> Die Vereinbarung vom 31. März 1976 wird aufgehoben.
+Die Vereinbarung vom 31. März 1976 wird aufgehoben.
 
 #### Art. 18
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Strafvollzugskommission bestimmt das Inkrafttreten[^18-1] dieses Konkordats.
+Die Strafvollzugskommission bestimmt das Inkrafttreten <sup>1)</sup> dieses Konkordats.
 
-[^18-1]: In Kraft getreten am 1. Januar 2007 (Amtsblatt 2007, S. 154).
+Fussnoten:
 
-Abl. 2006, S. 891
+- 1) In Kraft getreten am 1. Januar 2007 (Amtsblatt 2007, S. 154).
