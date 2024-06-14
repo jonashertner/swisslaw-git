@@ -4,32 +4,30 @@ number: "354.211"
 title: Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Stadtrat Schaffhausen über die Zusammenarbeit zwischen der Schaffhauser Polizei und der Verwaltungspolizei Schaffhausen (Zusammenarbeitsvereinbarung)
 language: de
 version: 2001-01-01
+corrected: 2024-06-15
 version_adopted: 2000-12-19
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.211"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1246/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/67/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Stadtrat Schaffhausen über die Zusammenarbeit zwischen der Schaffhauser Polizei und der Verwaltungspolizei Schaffhausen (Zusammenarbeitsvereinbarung)
 
-Vom 19.12.2000 (Stand 01.01.2001)
+vom 19. Dezember 2000
 
-Der Regierungsrat des Kantons Schaffhausen und der Stadtrat Schaffhausen,
+gestützt auf Art. 66 der Kantonsverfassung, Art. 4 des Organisationsgesetzes, Art. 5 des Gemeindegesetzes und Art. 10 des Polizeiorganisationsgesetzes sowie Art. 2 Abs. 1 und 3 der Polizeiverordnung der Stadt Schaffhausen vom 23. August 1983 treffen der Regierungsrat des Kantons Schaffhausen und der Stadtrat Schaffhausen folgende Übereinkunft:
 
-gestützt auf Art. 66 der Kantonsverfassung, Art. 4 des Organisationsgesetzes, Art. 5 des Gemeindegesetzes und Art. 10 des Polizeiorganisationsgesetzes sowie Art. 2 Abs. 1 und 3 der Polizeiverordnung der Stadt Schaffhausen vom 23. August 1983,
-
-beschliessen:
-
-## 1 Allgemeines
+## I. Allgemeines
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Zur Optimierung der polizeilichen Aufgabenerfüllung sollen Aktivitäten der Schaffhauser Polizei und der Verwaltungspolizei Schaffhausen koordiniert werden und bei Bedarf Leistungen gegenseitig bezogen oder übertragen werden können.
+Zur Optimierung der polizeilichen Aufgabenerfüllung sollen Aktivitäten der Schaffhauser Polizei und der Verwaltungspolizei Schaffhausen koordiniert werden und bei Bedarf Leistungen gegenseitig bezogen oder übertragen werden können.
 
 #### Art. 2
 
@@ -41,7 +39,9 @@ beschliessen:
 
 <sup>3</sup> Leistungen in der Kompetenz eines Vertragspartners können im Rahmen der Gesetzgebung und nach Massgabe der polizeilichen Bedürfnisse vom anderen Vertragspartner bezogen oder an diesen übertragen werden.
 
-## 2 Bezug und Übertragung von Leistungen
+Amtsblatt 2001, S. 85.
+
+## II. Bezug und Übertragung von Leistungen
 
 #### Art. 3
 
@@ -53,25 +53,29 @@ beschliessen:
 
 <sup>3</sup> Bereichsregelungen enthalten mindestens Vorschriften über:
 
-- a) Art und Umfang der Leistungen
-- b) die Finanzierung
-- c) die Auflösung
+- a) Art und Umfang der Leistungen;
+
+- b) die Finanzierung;
+
+- c) die Auflösung.
 
 #### Art. 4
 
 **Nicht geregelte Leistungen**
 
-<sup>1</sup> Für den Bezug von Leistungen, die nicht in Anhängen geregelt werden, gilt Folgendes:
+Für den Bezug von Leistungen, die nicht in Anhängen geregelt werden, gilt Folgendes:
 
-- a) Die Leistungen können einzelfallweise nach Absprache bezogen werden durch die Kommandomitglieder der Schaffhauser Polizei und die Leitung der Verwaltungspolizei Schaffhausen
-- b) Anfragen sind zu richten bei der Schaffhauser Polizei an die Kommandomitglieder, bei der Verwaltungspolizei Schaffhausen an die Leitung
-- c) Die Leistungen werden abgegolten durch einen Stundenansatz von Fr. 70.00 und Entschädigung der Auslagen. Der Stundenansatz kann durch die zuständigen Stellen gemäss Art. 5 angepasst werden
+- a) Die Leistungen können einzelfallweise nach Absprache bezogen werden durch die Kommandomitglieder der Schaffhauser Polizei und die Leitung der Verwaltungspolizei Schaffhausen;
+
+- b) Anfragen sind zu richten bei der Schaffhauser Polizei an die Kommandomitglieder, bei der Verwaltungspolizei Schaffhausen an die Leitung;
+
+- c) Die Leistungen werden abgegolten durch einen Stundenansatz von Fr. 70.-- und Entschädigung der Auslagen. Der Stundenansatz kann durch die zuständigen Stellen gemäss Art. 5 angepasst werden.
 
 #### Art. 5
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Abschluss und die Änderung von Bereichsregelungen sowie die Anpassung der Ansätze gemäss Art. 4 lit. c stehen dem zuständigen Departement und dem zuständigen Referat zu.
+Der Abschluss und die Änderung von Bereichsregelungen sowie die Anpassung der Ansätze gemäss Art. 4 lit. c stehen dem zuständigen Departement und dem zuständigen Referat zu.
 
 #### Art. 6
 
@@ -83,15 +87,15 @@ beschliessen:
 
 <sup>3</sup> Die Vertragspartner liefern sich gegenseitig alle notwendigen Angaben.
 
-## 3 Rechtsschutz
+## III. Rechtsschutz
 
 #### Art. 7
 
 **Rechtsschutz**
 
-<sup>1</sup> Lassen sich Streitigkeiten über Rechte und Pflichten aus dieser Vereinbarung nicht gütlich beilegen, so ist das Obergericht als Schiedsgericht anzurufen. Das verwaltungsgerichtliche Verfahren ist sinngemäss anzuwenden.
+Lassen sich Streitigkeiten über Rechte und Pflichten aus dieser Vereinbarung nicht gütlich beilegen, so ist das Obergericht als Schiedsgericht anzurufen. Das verwaltungsgerichtliche Verfahren ist sinngemäss anzuwenden.
 
-## 4 Schlussbestimmungen
+## IV. Schlussbestimmungen
 
 #### Art. 8
 
@@ -111,10 +115,10 @@ beschliessen:
 
 <sup>1</sup> Diese Vereinbarung tritt auf den 1. Januar 2001 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>3</sup> Mit dem Inkrafttreten der vorliegenden Vereinbarung wird die Vereinbarung betreffend die Zusammenarbeit zwischen der Kantons- und der Stadtpolizei Schaffhausen vom 15. August 1989 aufgehoben.
 
-[^9-1]: Amtsblatt 2001, S. 85.
+Fussnoten:
 
-Abl. 2001, S. 85
+- 1) Amtsblatt 2001, S. 85.
