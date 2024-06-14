@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2024-01-01
+version: 2024-06-15
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240615/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240615-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2024)
+vom 18. Mai 2005 (Stand am 15. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -417,7 +417,7 @@ Für Biozidprodukte gibt es folgende Zulassungsarten:
 [^8-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^8-6]: Berichtigung vom 24. Sept. 2019 ([AS 2019 3037](https://fedlex.data.admin.ch/eli/oc/2019/553)).
 [^8-7]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^8-8]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^8-8]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^8-9]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^8-10]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^8-11]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -2043,7 +2043,7 @@ Ergibt die Kontrolle, dass Verstösse gegen die in Artikel 58 Absatz 2 genannten
 Soweit der Vollzug des Gesundheitsschutzes betroffen ist, ist die Übertragung eingeschränkt auf:
 
 - a. die analytische Überprüfung von Stichproben (Art. 53 Abs. 1 Bst. c);
-- [tab] b.[^60-1] die Prüfung von Gesuchen auf Vollständigkeit nach Artikel 16 Absatz 2 und die Bewertung der Unterlagen nach Artikel 17.
+- b.[^60-1] die Prüfung von Gesuchen auf Vollständigkeit nach Artikel 16 Absatz 2 und die Bewertung der Unterlagen nach Artikel 17.
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
@@ -2171,8 +2171,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 9. Aug. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Bereinigt gemäss Ziff. II der V des BAG vom 5. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Unionsliste der genehmigten Wirkstoffe gilt in der Fassung vom 1. Oktober 2023.
+[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 7. Mai 2024, in Kraft seit 15. Juni 2024 ([AS 2024 211](https://fedlex.data.admin.ch/eli/oc/2024/211)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/211](https://fedlex.data.admin.ch/eli/oc/2024/211) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Die Unionsliste der genehmigten Wirkstoffe gilt in der Fassung vom 15. Juni 2024.
 
 Anhang 3[^t-3]
 

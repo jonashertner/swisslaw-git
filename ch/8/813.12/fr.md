@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2024-01-01
+version: 2024-06-15
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240615/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240615-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
+du 18 mai 2005 (État le 15 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -2165,8 +2165,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 9 août 2022 ([RO 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Mise à jour par le ch. II de l’O de l’OFSP du 5 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> octobre 2023.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 7 mai 2024, en vigueur depuis le 15 juin 2024 ([RO 2024 211](https://fedlex.data.admin.ch/eli/oc/2024/211)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/211](https://fedlex.data.admin.ch/eli/oc/2024/211) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 15 juin 2024.
 
 Annexe 3[^t-3]
 
@@ -2577,7 +2577,7 @@ Annexe 10[^t-12]
 
 [^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour par le ch. II de l’O du 5 juin 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) et le ch. II al. 2 de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-### Groupe 1:Désinfectants
+### Groupe 1: Désinfectants
 
 Ces types de produits ne comprennent pas les produits nettoyants qui ne sont pas destinés à avoir un effet biocide, notamment la lessive liquide, la lessive en poudre et les produits similaires.
 
@@ -2600,7 +2600,7 @@ Les produits de cette catégorie sont des produits biocides utilisés pour l’h
 
 Produits utilisés pour désinfecter l’eau potable destinée aux hommes et aux animaux.
 
-### Groupe 2:Produits de protection
+### Groupe 2: Produits de protection
 
 Sauf indication contraire, ces types de produits ne concernent que des produits visant à prévenir le développement microbien et le développement des algues.
 
@@ -2636,7 +2636,7 @@ Produits utilisés pour prévenir ou lutter contre la formation de moisissures s
 
 Produits utilisés pour protéger les fluides utilisés pour le travail ou la coupe du métal, du verre ou d’autres matériaux contre les altérations microbiennes.
 
-### Groupe 3:Produits antiparasitaires
+### Groupe 3: Produits antiparasitaires
 
 - *Type de produits 14:* Rodenticides
 
@@ -2666,7 +2666,7 @@ Produits utilisés pour lutter contre les organismes nuisibles (qu’il s’agis
 
 Produits utilisés pour lutter contre les vertébrés autres que ceux déjà couverts par les autres types de produits de ce groupe, par d’autres moyens qu’en les repoussant ou en les attirant.
 
-### Groupe 4:Autres produits biocides
+### Groupe 4: Autres produits biocides
 
 - *Type de produits 21:* Produits antisalissure
 

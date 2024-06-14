@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente l'immissione sul mercato e l'ut
 short: OBioc
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: it
-version: 2024-01-01
+version: 2024-06-15
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240615/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240615-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/it"
 
 (Ordinanza sui biocidi, OBioc)
 
-del 18 maggio 2005 (Stato 1° gennaio 2024)
+del 18 maggio 2005 (Stato 15 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -177,7 +177,7 @@ I seguenti termini vanno intesi ai sensi dell’articolo 2 dell’ordinanza del 
 
 <sup>4bis</sup> Laddove la presente ordinanza rinvia a disposizioni del regolamento (UE) n. 528/2012, che, a loro volta, rinviano ad altre disposizioni del diritto dell’UE, al posto di queste ultime si applica il diritto svizzero secondo l’allegato 3 numero 2.[^2-14]
 
-- [tab] <sup>5</sup> Per il rimanente, nella presente ordinanza si utilizzano ai sensi della LPChim i termini utilizzati in maniera divergente nelle leggi che reggono la presente ordinanza.
+<sup>5</sup> Per il rimanente, nella presente ordinanza si utilizzano ai sensi della LPChim i termini utilizzati in maniera divergente nelle leggi che reggono la presente ordinanza.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 15 lug. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -218,7 +218,7 @@ L’obiettivo è che le concentrazioni misurate nelle acque dei principi attivi 
 
 <sup>3</sup> L’UFAM determina sulla base di indicatori in che misura l’obiettivo è stato realizzato.
 
-- [tab] <sup>4</sup> A tal fine calcola annualmente per ciascun principio attivo di cui al capoverso 1, con i dati misurati disponibili, il rapporto tra il numero delle acque analizzate nelle quali è stato misurato un superamento e il numero complessivo delle acque analizzate.
+<sup>4</sup> A tal fine calcola annualmente per ciascun principio attivo di cui al capoverso 1, con i dati misurati disponibili, il rapporto tra il numero delle acque analizzate nelle quali è stato misurato un superamento e il numero complessivo delle acque analizzate.
 
 [^2a-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
@@ -455,7 +455,7 @@ L’UFSP, d’intesa con l’UFAM e la SECO, adegua:[^10-2]
 - a. gli allegati 1–3;
 - b. il rimando di cui all’articolo 7 capoverso 1 lettera b all’elenco dei principi attivi notificati.
 
-[^10-1]: Abrogato dal n. I dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 ### Sezione 2*a*: Condizioni per le omologazioni O<sub>E</sub> e O<sub>nE</sub> e disposizioni particolari per le famiglie di biocidi
@@ -2057,7 +2057,7 @@ Per la trasmissione di dati relativi a biocidi si applicano per analogia gli art
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Tit. introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 15 lug. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^chap8-sec1-1]: Introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 15 lug. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
 #### Art. 62
 
@@ -2121,7 +2121,9 @@ Gli articoli trattati secondo il capoverso 1 possono essere per la prima volta i
 [^chap8-sec2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^chap8-sec2-2]: Nuovo testo giusta l’all. n. 1 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
-**Art. 62**e Disposizione transitoria della modifica del 18 novembre 2020
+#### Art. 62e
+
+**Disposizione transitoria della modifica del 18 novembre 2020**
 
 I seguenti biocidi possono ancora essere immessi sul mercato senza indicazione dell’UFI secondo l’articolo 14*a* al più tardi fino al 31 dicembre 2025, se non dispongono di un UFI al 1° gennaio 2022:
 
@@ -2162,8 +2164,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFSP del 9 ago. 2022 ([RU 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Aggiornao dal n. II dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° ott. 2023.
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFSP del 7 mag. 2024, in vigore dal 15 giu. 2024 ([RU 2024 211](https://fedlex.data.admin.ch/eli/oc/2024/211)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/211](https://fedlex.data.admin.ch/eli/oc/2024/211) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 15 giu. 2024.
 
 Allegato 3[^t-3]
 
@@ -2578,28 +2580,22 @@ Allegato 10[^t-12]
 
 Da tali tipi di prodotto sono esclusi i prodotti di pulizia non destinati ad avere effetti biocidi, compresi i detersivi liquidi e in polvere e prodotti analoghi.
 
-*Tipo di prodotto 1:* Biocidi per l’igiene umana
+- *Tipo di prodotto 1:* Biocidi per l’igiene umana
 
 I prodotti di questo gruppo sono biocidi usati per l’igiene umana, applicati sulla pelle o sul cuoio capelluto o a contatto con essi, allo scopo principale di disinfettare la pelle o il cuoio capelluto.
 
-*Tipo di prodotto 2:* Disinfettanti e alghicidi non destinati all’applicazione diretta sull’uomo o sugli animali
-
+- *Tipo di prodotto 2:* Disinfettanti e alghicidi non destinati all’applicazione diretta sull’uomo o sugli animali
 - a. Prodotti usati per la disinfezione di superfici, materiali, attrezzature e mobilio non utilizzati in contatto diretto con alimenti destinati al consumo umano o animale. I settori di impiego comprendono, tra l’altro, piscine, acquari, acque di balneazione e altre; sistemi di condizionamento e muri e pavimenti in aree private, pubbliche e industriali e in altre aree per attività professionali.
 - b. Prodotti usati per la disinfezione dell’aria, dell’acqua non utilizzata per il consumo umano animale, dei gabinetti chimici, delle acque di scarico, dei rifiuti di ospedali e del suolo.
 - c. Prodotti usati come alghicidi per il trattamento di piscine, acquari e altre acque e per la riparazione di materiali da costruzione.
 - d. Prodotti usati per essere incorporati in tessili, tessuti, maschere, vernici e altri articoli o materiali allo scopo di produrre articoli trattati con proprietà disinfettanti.
-
-*Tipo di prodotto 3:* Biocidi per l’igiene veterinaria
-
+- *Tipo di prodotto 3:* Biocidi per l’igiene veterinaria
 - a. Prodotti usati per l’igiene veterinaria quali disinfettanti, saponi disinfettanti, prodotti per l’igiene orale o corporale o con funzione antimicrobica.
 - b. Prodotti usati per disinfettare i materiali e le superfici associati al ricovero o al trasporto degli animali.
-
-*Tipo di prodotto 4:* Biocidi per il settore dell’alimentazione umana e animale
-
+- *Tipo di prodotto 4:* Biocidi per il settore dell’alimentazione umana e animale
 - a. Prodotti usati per la disinfezione di attrezzature, contenitori, utensili per il consumo, superfici o tubazioni utilizzati per la produzione, il trasporto, la conservazione o il consumo di alimenti o mangimi o per bevande (compresa l’acqua potabile) destinati al consumo umano o animale.
 - b. Prodotti usati per l’assorbimento in materiali che possono entrare in contatto con i prodotti alimentari.
-
-*Tipo di prodotto 5:* Disinfettanti per l’acqua potabile
+- *Tipo di prodotto 5:* Disinfettanti per l’acqua potabile
 
 Prodotti usati per la disinfezione dell’acqua potabile per il consumo umano e animale.
 
@@ -2607,78 +2603,74 @@ Prodotti usati per la disinfezione dell’acqua potabile per il consumo umano e 
 
 Salvo disposizioni contrarie, questi tipi di prodotti includono solo i prodotti per prevenire lo sviluppo microbico e algale.
 
-*Tipo di prodotto 6:* Preservanti per i prodotti durante lo stoccaggio
-
+- *Tipo di prodotto 6:* Preservanti per i prodotti durante lo stoccaggio
 - a. Prodotti usati per la preservazione di prodotti fabbricati, esclusi gli alimenti destinati al consumo umano o animale, i cosmetici o i medicinali o i dispositivi medici mediante il controllo del deterioramento microbico, per assicurarne la conservabilità;
 - b. prodotti usati come preservanti per lo stoccaggio o l’uso di esche rodenticide, insetticide o di altro tipo.
-
-*Tipo di prodotto 7:* Preservanti per pellicole
+- *Tipo di prodotto 7:* Preservanti per pellicole
 
 Prodotti usati per la preservazione di pellicole o rivestimenti mediante il controllo del deterioramento microbico o della crescita algale al fine di conservare le proprietà originarie della superficie di materiali e oggetti quali pitture, materie plastiche, materiali usati per sigillare, adesivi murali, leganti, carta, oggetti d’arte.
 
-*Tipo di prodotto 8:* Preservanti del legno
+- *Tipo di prodotto 8:* Preservanti del legno
 
 Prodotti usati per la preservazione del legno, sin da quando è tagliato e lavorato, o dei prodotti in legno mediante il controllo degli organismi che distruggono o alterano l’aspetto del legno, compresi gli insetti.
 
 Questo tipo di prodotto comprende prodotti ad azione sia preventiva che curativa.
 
-*Tipo di prodotto 9:* Preservanti per fibre, cuoio, gomma e materiali polimerizzati
-
+- *Tipo di prodotto 9:* Preservanti per fibre, cuoio, gomma e materiali polimerizzati
 - a. Prodotti usati per la preservazione di materiali fibrosi o polimerizzati quali cuoio, gomma, carta o prodotti tessili, mediante il controllo del deterioramento microbiologico;
 - b. questo tipo di prodotto comprende le sostanze che contrastano il deposito di microorganismi sulla superficie dei materiali e quindi inibiscono o precludono lo sviluppo di odori sgradevoli o presentano altri tipi di vantaggi.
-
-*Tipo di prodotto 10:* Preservanti per i materiali da costruzione
+- *Tipo di prodotto 10:* Preservanti per i materiali da costruzione
 
 Prodotti usati per la preservazione dei lavori in muratura, di materiali compositi o di altri materiali da costruzione diversi dal legno mediante controllo degli attacchi microbiologici e algali.
 
-*Tipo di prodotto 11:* Preservanti per liquidi nei sistemi di raffreddamento e trattamento industriale
+- *Tipo di prodotto 11:* Preservanti per liquidi nei sistemi di raffreddamento e trattamento industriale
 
 Prodotti usati per la preservazione dell’acqua o di altri liquidi usati nei sistemi di raffreddamento e trattamento industriale mediante il controllo degli organismi nocivi quali microrganismi, alghe e molluschi. Sono esclusi i prodotti usati per la disinfezione dell’acqua potabile o dell’acqua per le piscine.
 
-*Tipo di prodotto 12:* Preservanti contro la formazione di sostanze viscide (slimicidi)
+- *Tipo di prodotto 12:* Preservanti contro la formazione di sostanze viscide (slimicidi)
 
 Prodotti usati per la prevenzione o per il controllo della formazione di sostanze viscide su materiali, attrezzature e strutture utilizzati in procedimenti industriali, ad esempio su legno e pasta per carta nonché su strati sabbiosi porosi nell’estrazione del petrolio.
 
-*Tipo di prodotto 13:* Preservanti per i fluidi utilizzati nella lavorazione o il taglio
+- *Tipo di prodotto 13:* Preservanti per i fluidi utilizzati nella lavorazione o il taglio
 
 Prodotti usati per controllare il deterioramento microbico nei fluidi utilizzati nella lavorazione o il taglio di metalli, vetro o altri materiali.
 
 ### Gruppo 3: Controllo degli animali nocivi
 
-*Tipo di prodotto 14:* Rodenticidi
+- *Tipo di prodotto 14:* Rodenticidi
 
 Prodotti usati per il controllo di ratti, topi o altri roditori, senza respingerli né attirarli.
 
-*Tipo di prodotto 15:* Avicidi
+- *Tipo di prodotto 15:* Avicidi
 
 Prodotti usati per il controllo degli uccelli, senza respingerli né attirarli.
 
-*Tipo di prodotto 16:* Molluschicidi, vermicidi e prodotti destinati al controllo di altri invertebrati
+- *Tipo di prodotto 16:* Molluschicidi, vermicidi e prodotti destinati al controllo di altri invertebrati
 
 Prodotti usati per il controllo di molluschi, vermi e invertebrati, non contemplati in altri tipi di prodotti, senza respingerli né attirarli.
 
-*Tipo di prodotto 17:* Pescicidi
+- *Tipo di prodotto 17:* Pescicidi
 
 Prodotti usati per il controllo dei pesci, senza respingerli né attirarli.
 
-*Tipo di prodotto 18:* Insetticidi, acaricidi e prodotti destinati al controllo degli altri artropodi
+- *Tipo di prodotto 18:* Insetticidi, acaricidi e prodotti destinati al controllo degli altri artropodi
 
 Prodotti usati per il controllo degli artropodi (ad esempio insetti, aracnidi e crostacei), senza respingerli né attirarli.
 
-*Tipo di prodotto 19:* Repellenti e attrattivi
+- *Tipo di prodotto 19:* Repellenti e attrattivi
 
 Prodotti usati per controllare organismi nocivi (invertebrati come le pulci, vertebrati come uccelli, pesci e roditori), respingendoli o attirandoli, compresi i prodotti usati per l’igiene umana e veterinaria, direttamente sulla pelle o indirettamente nell’ambiente dell’uomo o degli animali.
 
-*Tipo di prodotto 20:* Controllo di altri vertebrati
+- *Tipo di prodotto 20:* Controllo di altri vertebrati
 
 Prodotti usati per il controllo di vertebrati diversi da quelli contemplati dagli altri tipi di prodotto del presente gruppo, senza respingerli né attirarli.
 
 ### Gruppo 4: Altri biocidi
 
-*Tipo di prodotto 21:* Prodotti antincrostazione
+- *Tipo di prodotto 21:* Prodotti antincrostazione
 
 Prodotti usati per controllare la formazione e la fissazione di organismi incrostanti (microrganismi e forme superiori di specie vegetali o animali) su imbarcazioni, attrezzature per l’acquacoltura o altre strutture usate nell’acqua.
 
-*Tipo di prodotto 22:* Fluidi usati nell’imbalsamazione e nella tassidermia
+- *Tipo di prodotto 22:* Fluidi usati nell’imbalsamazione e nella tassidermia
 
 Prodotti usati per la disinfezione e la preservazione di cadaveri umani o di animali o di loro parti.
