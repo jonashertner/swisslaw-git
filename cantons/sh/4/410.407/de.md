@@ -4,18 +4,20 @@ number: "410.407"
 title: Verordnung über die Intensivweiterbildung der Lehrpersonen
 language: de
 version: 2021-08-01
+corrected: 2024-06-15
 version_adopted: 2021-07-06
 adopted: 2021-07-06
 in_force: 2021-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.407"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1259/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/32/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die Intensivweiterbildung der Lehrpersonen
 
-Vom 06.07.2021 (Stand 01.08.2021)
+vom 6. Juli 2021
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -29,20 +31,25 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung regelt die Intensivweiterbildung der Lehrpersonen an den öffentlichen Schulen der Primar- und Sekundarstufe I.
 
-<sup>2</sup> Die Intensivweiterbildung erfolgt durch den Besuch eines Vollzeitkurses Langzeitweiterbildung oder durch ein Wirtschaftspraktikum im Rahmen des Projekts «Lehrpersonen in die Wirtschaft». Sie ermöglicht es, sich mit beruflichen Themen vertieft zu befassen.
+<sup>2</sup> Die Intensivweiterbildung erfolgt durch den Besuch eines Vollzeitkurses Langzeitweiterbildung oder durch ein Wirtschaftspraktikum im Rahmen des Projekts "Lehrpersonen in die Wirtschaft". Sie ermöglicht es, sich mit beruflichen Themen vertieft zu befassen.
 
 #### § 2
 
 **Zweck**
 
-<sup>1</sup> Die Intensivweiterbildung soll den Lehrpersonen nach einer längeren Zeit der beruflichen Aktivität ermöglichen:
+Die Intensivweiterbildung soll den Lehrpersonen nach einer längeren Zeit der beruflichen Aktivität ermöglichen,
 
-- a) sich mit ihrer Tätigkeit kritisch auseinanderzusetzen
-- b) sich mit persönlichkeitsbildenden und berufsspezifischen Fragen zu beschäftigen
-- c) pädagogische, didaktische und fachliche Kompetenzen zu überprüfen und in ausgewählten ausserschulischen Arbeitsfeldern Erfahrungen zu sammeln
-- d) neue Kräfte, Ideen und Anregungen zu sammeln
-- e) sich zusammen mit Kolleginnen und Kollegen beruflich und persönlich weiterzubilden
-- f) die Fortsetzung der Berufstätigkeit mit neuen Handlungsperspektiven vorzubereiten
+- a) sich mit ihrer Tätigkeit kritisch auseinanderzusetzen;
+
+- b) sich mit persönlichkeitsbildenden und berufsspezifischen Fragen zu beschäftigen;
+
+- c) pädagogische, didaktische und fachliche Kompetenzen zu überprüfen und in ausgewählten ausserschulischen Arbeitsfeldern Erfahrungen zu sammeln;
+
+- d) neue Kräfte, Ideen und Anregungen zu sammeln;
+
+- e) sich zusammen mit Kolleginnen und Kollegen beruflich und persönlich weiterzubilden;
+
+Amtsblatt 2021, S. 1301 f) die Fortsetzung der Berufstätigkeit mit neuen Handlungsperspektiven vorzubereiten.
 
 #### § 3
 
@@ -50,9 +57,11 @@ verordnet:
 
 <sup>1</sup> Die Mindestvoraussetzungen für die Absolvierung einer Intensivweiterbildung sind kumulativ:
 
-- a) Mindestens zehn Jahre Lehrtätigkeit im Kanton Schaffhausen für den Besuch eines Vollzeitkurses Langzeitweiterbildung bzw. fünf Jahre Lehrtätigkeit im Kanton Schaffhausen für den Besuch eines Wirtschaftspraktikums
-- b) Nachweis der freiwilligen Weiterbildung während der vorhergehenden fünf Jahre
-- c) Platz in einem Angebot für einen Vollzeitkurs Langzeitweiterbildung einer Pädagogischen Hochschule oder einem gleichwertigen Programm einer anerkannten Weiterbildungsinstitution bzw. Platz an einem Wirtschaftspraktikum im Rahmen des Projekts «Lehrpersonen in die Wirtschaft»
+- a) Mindestens zehn Jahre Lehrtätigkeit im Kanton Schaffhausen für den Besuch eines Vollzeitkurses Langzeitweiterbildung bzw. fünf Jahre Lehrtätigkeit im Kanton Schaffhausen für den Besuch eines Wirtschaftspraktikums;
+
+- b) Nachweis der freiwilligen Weiterbildung während der vorhergehenden fünf Jahre;
+
+- c) Platz in einem Angebot für einen Vollzeitkurs Langzeitweiterbildung einer Pädagogischen Hochschule oder einem gleichwertigen Programm einer anerkannten Weiterbildungsinstitution bzw. Platz an einem Wirtschaftspraktikum im Rahmen des Projekts "Lehrpersonen in die Wirtschaft".
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Gewährung einer Intensivweiterbildung.
 
@@ -92,7 +101,7 @@ verordnet:
 
 **Berichterstattung**
 
-<sup>1</sup> Am Ende der Intensivweiterbildung ist der Schulbehörde bzw. Schulleitung zuhanden der Dienststelle Primar- und Sekundarstufe I ein schriftlicher Schlussbericht einzureichen.
+Am Ende der Intensivweiterbildung ist der Schulbehörde bzw. Schulleitung zuhanden der Dienststelle Primar- und Sekundarstufe I ein schriftlicher Schlussbericht einzureichen.
 
 #### § 9
 
@@ -104,6 +113,6 @@ verordnet:
 
 <sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^9-1]: Amtsblatt 2021, S. 1301.
+Fussnoten:
 
-Abl. 2021, S. 1301
+[^9-1]: Amtsblatt 2021, S. 1301.
