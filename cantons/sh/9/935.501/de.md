@@ -1,34 +1,32 @@
 ---
 canton: SH
 number: "935.501"
-title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
+title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele vom 8. März 2021
 short: Verordnung EG BGS
 language: de
 version: 2024-01-01
+corrected: 2024-06-16
 version_adopted: 2024-01-09
 adopted: 2021-06-15
 in_force: 2021-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.501"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1322/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/293/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
+# Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele vom 8. März 2021 (Verordnung EG BGS)
 
-(Verordnung EG BGS)
-
-Vom 15.06.2021 (Stand 01.01.2024)
+vom 15. Juni 2021
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-in Ausführung von Art. 5 Abs. 2, Art. 8, Art. 13 Abs. 3, Art. 18 Abs. 3 und Art. 21 des Einführungsgesetzes zum Bundesgesetz über Geldspiele vom 8. März 2021[^ingress-1],
+in Ausführung von Art. 5 Abs. 2, Art. 8, Art. 13 Abs. 3, Art. 18 Abs. 3 und Art. 21 des Einführungsgesetzes zum Bundesgesetz über Geldspiele vom 8. März 2021 <sup>1)</sup>,
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [935.500](https://rechtsbuch.sh.ch/data/935.500/de).
-
-## 1 Vollzug
+### A. Vollzug
 
 #### § 1
 
@@ -40,50 +38,49 @@ beschliesst:
 
 <sup>3</sup> Das Sekretariat des Departements des Innern ist kantonale Aufsichts- und Vollzugsbehörde für Kleinspiele.
 
-## 2 Kleinspiele
+### B. Kleinspiele
 
 #### § 2
 
 **Bewilligung für Kleinspiele**
 
-<sup>1</sup> Gesuche um eine Bewilligung für die Durchführung von Kleinspielen sind spätestens drei Monate vor deren geplanter Durchführung beim Sekretariat des Departements des Innern mit den notwendigen Unterlagen einzureichen.
+Gesuche um eine Bewilligung für die Durchführung von Kleinspielen sind spätestens drei Monate vor deren geplanter Durchführung beim Sekretariat des Departements des Innern mit den notwendigen Unterlagen einzureichen.
+
+Amtsblatt 2021, S. 1209
 
 #### § 3
 
 **Information der Gemeinde**
 
-<sup>1</sup> Die Gemeinde, in welcher ein Kleinspiel durchgeführt werden soll, ist über die Erteilung einer Bewilligung für die Durchführung eines Kleinspiels zu informieren.
+Die Gemeinde, in welcher ein Kleinspiel durchgeführt werden soll, ist über die Erteilung einer Bewilligung für die Durchführung eines Kleinspiels zu informieren.
 
-## 3 Spiellokale
+### C. Spiellokale
 
 #### § 4
 
 **Bewilligung für Spiellokale**
 
-<sup>1</sup> Gesuche gestützt auf Art. 14 EG BGS sind spätestens einen Monat vor der geplanten Neu- oder Wiedereröffnung eines Spiellokals beim Interkantonalen Labor mit den notwendigen Unterlagen einzureichen.
+Gesuche gestützt auf Art. 14 EG BGS sind spätestens einen Monat vor der geplanten Neu- oder Wiedereröffnung eines Spiellokals beim Interkantonalen Labor mit den notwendigen Unterlagen einzureichen.
 
 #### § 5
 
 **Standort neuer Spiellokale**
 
-<sup>1</sup> Zur Frage des Standortes von neuen Spiellokalen holt das Interkantonale Labor die Stellungnahme des Gemeinderates ein.
+Zur Frage des Standortes von neuen Spiellokalen holt das Interkantonale Labor die Stellungnahme des Gemeinderates ein.
 
 #### § 6
 
 **Öffnungszeiten der Spiellokale**
 
-<sup>1</sup> Die Spiellokale dürfen von 10 Uhr bis Wirtschaftsschluss[^6-1] geöffnet sein; an hohen Feiertagen sind sie geschlossen zu halten[^6-2].
-
-[^6-1]: SHR [935.100](https://rechtsbuch.sh.ch/data/935.100/de), Art. 19.
-[^6-2]: SHR [900.200](https://rechtsbuch.sh.ch/data/900.200/de), Art. 2.
+Die Spiellokale dürfen von 10 Uhr bis Wirtschaftsschluss <sup>2)</sup> geöffnet sein; an hohen Feiertagen sind sie geschlossen zu halten <sup>3)</sup>.
 
 #### § 7
 
 **Aufsicht in Spiellokalen**
 
-<sup>1</sup> Der Betriebsleiter bzw. die Betriebsleiterin des Spiellokals ist verantwortlich für die Aufsicht im Spiellokal.
+Der Betriebsleiter bzw. die Betriebsleiterin des Spiellokals ist verantwortlich für die Aufsicht im Spiellokal.
 
-## 4 Abgaben
+### D. Abgaben
 
 #### § 8
 
@@ -99,32 +96,29 @@ beschliesst:
 
 **Spielbankenabgabe**
 
-<sup>1</sup> Das Sekretariat des Departements des Innern fordert jährlich beim Bund die kantonale Spielbankenabgabe ein.
+Das Sekretariat des Departements des Innern fordert jährlich beim Bund die kantonale Spielbankenabgabe ein.
 
 #### § 10
 
-**…**
+<sup>7)</sup>
 
-## 5 Verwendung des kantonalen Anteils am Swisslos-Gewinn
+### E. Verwendung des kantonalen Anteils am Swisslos-Gewinn
 
 #### § 11
 
 **Verwendung des kantonalen Anteils am Swisslos-Gewinn**
 
-<sup>1</sup> Die Verwendung des kantonalen Anteils am Reingewinn der Swisslos und das Verfahren für die Ausrichtung von Beiträgen aus diesen Erträgen richten sich nach der Lotteriegewinnfonds-Verordnung[^11-1] und der Swisslos-Sportfonds-Verordnung[^11-2].
+Die Verwendung des kantonalen Anteils am Reingewinn der Swisslos und das Verfahren für die Ausrichtung von Beiträgen aus diesen Erträgen richten sich nach der Lotteriegewinnfonds-Verordnung <sup>4)</sup> und der Swisslos-Sportfonds-Verordnung <sup>5)</sup>.
 
-[^11-1]: SHR [935.521](https://rechtsbuch.sh.ch/data/935.521/de).
-[^11-2]: SHR [415.101](https://rechtsbuch.sh.ch/data/415.101/de).
-
-## 6 Schlussbestimmungen
+### F. Schlussbestimmungen
 
 #### § 12
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung wird aufgehoben:
+Mit dem Inkrafttreten dieser Verordnung wird aufgehoben:
 
-- a) die Verordnung zum Gesetz über die Spielautomaten, die Spiellokale und die Kursaalabgabe (Spielbetriebsverordnung; SpBV) vom 21. Januar 2002
+- die Verordnung zum Gesetz über die Spielautomaten, die Spiellokale und die Kursaalabgabe (Spielbetriebsverordnung; SpBV) vom 21. Januar 2002 (SHR 935.501).
 
 #### § 13
 
@@ -132,8 +126,8 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juli 2021 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^13-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>6)</sup> und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
 
-[^13-1]: Amtsblatt 2021, S. 1209.
+**1) 2) 3) 4) 5) 6) 7)**
 
-Abl. 2021, S. 1209
+SHR 935.500. SHR 935.100, Art. 19. SHR 900.200, Art. 2. SHR 935.521. SHR 415.101. Amtsblatt 2021, S. 1209. Aufgehoben durch RRB vom 9. Januar 2024, in Kraft getreten am 1. Januar 2024 (Amtsblatt vom 12. Januar 2024, S. 12).
