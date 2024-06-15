@@ -4,26 +4,28 @@ number: "211.440"
 title: Dekret über die amtliche Vermessung
 language: de
 version: 2014-01-01
+corrected: 2024-06-16
 version_adopted: 2013-12-03
 adopted: 1998-08-31
 in_force: 1999-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.440"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1272/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/105/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Dekret über die amtliche Vermessung
 
-Vom 31.08.1998 (Stand 01.01.2014)
+vom 31. August 1998
 
 Der Grosse Rat des Kantons Schaffhausen,
 
-in Ausführung von Art. 161 ff. des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches und der eidgenössischen Erlasse über die amtliche Vermessung,
+in Ausführung von Art. 161ff. des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches und der eidgenössischen Erlasse über die amtliche Vermessung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -33,27 +35,35 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann den Inhalt erweitern.
 
-<sup>3</sup> Die Einwohnergemeinden können den Inhalt der amtlichen Vermessung mit Zustimmung des kantonalen Amtes für Geoinformation auf eigene Kosten erweitern oder weitergehende Anforderungen an die Vermessung stellen.
+<sup>3</sup> Die Einwohnergemeinden können den Inhalt der amtlichen Vermessung mit Zustimmung des kantonalen Amtes für Geoinformation[^1-1] auf eigene Kosten erweitern oder weitergehende Anforderungen an die Vermessung stellen.
+
+[^1-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
 
 #### § 2
 
-**Amt für Geoinformation**
+**Amt für Geoinformation 7)**
 
-<sup>1</sup> Das kantonale Amt für Geoinformation ist für die Vermessungsaufsicht zuständig und erlässt die notwendigen technischen und administrativen Weisungen.
+<sup>1</sup> Das kantonale Amt für Geoinformation[^2-1] ist für die Vermessungsaufsicht zuständig und erlässt die notwendigen technischen und administrativen Weisungen.
 
 <sup>2</sup> Ihm obliegen insbesondere:
 
-- a) Die Koordination bei der Erstellung und Nutzung von raumbezogenen Datenbeständen
-- b) die Nachführung und der Unterhalt der Bestandteile der amtlichen Vermessung
-- c) der Unterhalt der Landes- und Kantonsgrenze
+- a) Die Koordination bei der Erstellung und Nutzung von raumbezogenen Datenbeständen;
+
+- b) die Nachführung und der Unterhalt der Bestandteile der amtlichen Vermessung;
+
+- c) der Unterhalt der Landes- und Kantonsgrenze.
+
+Amtsblatt 1999, S. 483.
+
+[^2-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
 
 #### § 3
 
 **Arbeitsvergabe**
 
-<sup>1</sup> Die Vergabe von Arbeiten in der amtlichen Vermessung an Dritte erfolgt durch das zuständige Departement nach der kantonalen Submissionsverordnung. Die betroffene Einwohnergemeinde ist, falls sie kostenpflichtig ist, vorgängig anzuhören.
+Die Vergabe von Arbeiten in der amtlichen Vermessung an Dritte erfolgt durch das zuständige Departement nach der kantonalen Submissionsverordnung. Die betroffene Einwohnergemeinde ist, falls sie kostenpflichtig ist, vorgängig anzuhören.
 
-## 2 Vermarkung
+### II. Vermarkung
 
 #### § 4
 
@@ -71,29 +81,33 @@ beschliesst:
 
 **Ersterhebung: Öffentliche Auflage**
 
-<sup>1</sup> Bei Ersterhebungen ist vor der Vermarkung die im Gelände markierte Feststellung der Grenzen während 30 Tagen öffentlich aufzulegen.
+Bei Ersterhebungen ist vor der Vermarkung die im Gelände markierte Feststellung der Grenzen während 30 Tagen öffentlich aufzulegen.
 
 #### § 6
 
 **Ersterhebung: Einsprachen**
 
-<sup>1</sup> Innerhalb der Auflagefrist kann beim kantonalen Amt für Geoinformation Einsprache gegen die Grenzfeststellung erhoben werden.
+Innerhalb der Auflagefrist kann beim kantonalen Amt für Geoinformation[^6-1] Einsprache gegen die Grenzfeststellung erhoben werden.
+
+[^6-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
 
 #### § 7
 
 **Verlauf der Gemeindegrenze**
 
-<sup>1</sup> Die Gemeindegrenze soll den Grundstücksgrenzen folgen. Bei Verlegungen werden die Kosten von den beiden Einwohnergemeinden je zur Hälfte getragen. Über Anstände entscheidet der Regierungsrat.
+Die Gemeindegrenze soll den Grundstücksgrenzen folgen. Bei Verlegungen werden die Kosten von den beiden Einwohnergemeinden je zur Hälfte getragen. Über Anstände entscheidet der Regierungsrat.
 
 #### § 8
 
 **Landes- und Kantonsgrenzen**
 
-<sup>1</sup> Bei Landes- und Kantonsgrenzen ist die Sicht zwischen benachbarten Grenzzeichen offenzuhalten. Die Durchführung obliegt den angrenzenden Einwohnergemeinden.
+Bei Landes- und Kantonsgrenzen ist die Sicht zwischen benachbarten Grenzzeichen offenzuhalten. Die Durchführung obliegt den angrenzenden Einwohnergemeinden.
+
+[^8-1]: Aufgehoben durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
 
 #### § 9
 
-**…**
+[^8-1]
 
 #### § 10
 
@@ -101,7 +115,7 @@ beschliesst:
 
 <sup>1</sup> Fixpunktzeichen werden zu Lasten des Kantons verlegt, wenn die Grundeigentümerinnen und Grundeigentümer ein berechtigtes Interesse nachweisen.
 
-<sup>2</sup> Die Kosten für Verlegungen infolge Bauvorhaben, die der Öffentlichkeit dienen, gehen zu Lasten der Bauherrschaft.
+<sup>2</sup> Die Kosten für Verlegungen infolge Bauvorhaben, die der Oeffentlichkeit dienen, gehen zu Lasten der Bauherrschaft.
 
 #### § 11
 
@@ -111,45 +125,52 @@ beschliesst:
 
 <sup>2</sup> Wiederherstellungskosten tragen die Verursacherinnen und Verursacher. Können diese nicht ermittelt werden, gehen die Kosten der Wiederherstellung von Grenzzeichen zulasten der Grundeigentümerinnen und Grundeigentümer, diejenigen der Wiederherstellung von Fixpunktzeichen zulasten des Kantons.
 
-## 3 Amtliche Vermessung
+### III. Amtliche Vermessung
 
 #### § 12
 
 **Vermessungsprogramm**
 
-<sup>1</sup> Der Regierungsrat schliesst mit dem Bund die mehrjährigen Programmvereinbarungen ab, das kantonale Amt für Geoinformation die jährlichen Leistungsvereinbarungen.
+<sup>1</sup> Der Regierungsrat schliesst mit dem Bund die mehrjährigen Programmvereinbarungen ab, das kantonale Amt für Geoinformation[^12-1] die jährlichen Leistungsvereinbarungen.[^12-2]
 
 <sup>2</sup> Die Realisierung der amtlichen Vermessung richtet sich nach den jährlichen Voranschlägen.
 
 <sup>3</sup> Das zuständige Departement ordnet nach Anhören der Einwohnergemeinden die Ausführung der einzelnen Vermessungen an.
 
+[^12-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
+[^12-2]: Fassung gemäss G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
+
 #### § 13
 
 **Verifikation**
 
-<sup>1</sup> Die Verifikation der Arbeiten sowie deren Abrechnung mit dem Bund erfolgen durch das kantonale Amt für Geoinformation.
+Die Verifikation der Arbeiten sowie deren Abrechnung mit dem Bund erfolgen durch das kantonale Amt für Geoinformation[^13-1].
+
+[^13-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
 
 #### § 14
 
 **Öffentliche Auflagen**
 
-<sup>1</sup> Die öffentliche Auflage der Ersterhebung und der Erneuerung richtet sich nach Art. 28 der Verordnung des Bundesrates über die amtliche Vermessung[^14-1].
+Die öffentliche Auflage der Ersterhebung und der Erneuerung richtet sich nach Art. 28 der Verordnung des Bundesrates über die amtliche Vermessung[^14-1].
 
-[^14-1]: SR [211.432.2](http://db.clex.ch/link/Bund/211.432.2/de).
+[^14-1]: SR 211.432.2
 
 #### § 15
 
 **Einsprachen**
 
-<sup>1</sup> Innerhalb der Auflagefrist kann beim kantonalen Amt für Geoinformation Einsprache gegen die Grenzziehung in der Vermessung erhoben werden.
+Innerhalb der Auflagefrist kann beim kantonalen Amt für Geoinformation[^15-1] Einsprache gegen die Grenzziehung in der Vermessung erhoben werden.
+
+[^15-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
 
 #### § 16
 
 **Genehmigung**
 
-<sup>1</sup> Der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus dem Grunddatensatz unterliegen der Genehmigung durch den Regierungsrat.
+Der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus dem Grunddatensatz unterliegen der Genehmigung durch den Regierungsrat.
 
-## 4 Kostenanteil des Kantons
+### IV. Kostenanteil des Kantons
 
 #### § 17
 
@@ -157,8 +178,11 @@ beschliesst:
 
 <sup>1</sup> Von den Kosten, die bei vorschriftsgemässer und wirtschaftlicher Erfüllung der Aufgaben für die amtliche Vermessung entstanden sind trägt der Kanton für Ersterhebungen und Erneuerungen von:
 
-- a) überbauten Gebieten und Bauzonen: — 15%
-- b) Land- und Forstwirtschaftsgebieten: — 25%
+- a) überbauten Gebieten und Bauzonen: 15%;
+
+**25%;**
+
+- b) Land- und Forstwirtschaftsgebieten:
 
 <sup>2</sup> Der Regierungsrat kann für ausserordentliche Verhältnisse eine besondere Regelung treffen.
 
@@ -172,49 +196,51 @@ beschliesst:
 
 <sup>3</sup> Das zuständige Departement ordnet nach der Verifikation der Arbeiten die Auszahlung der zugesicherten Kostenanteile an. Aufgrund der geleisteten Arbeiten und der zur Verfügung stehenden Mittel können Teilzahlungen ausgerichtet werden.
 
-## 5 Verwaltung, Nachführung und Abgabe der Daten und Auszüge
+### V. Verwaltung, Nachführung und Abgabe der Daten und Auszüge
 
 #### § 19
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Daten der amtlichen Vermessung werden durch das kantonale Amt für Geoinformation verwaltet, nachgeführt und abgegeben.
+<sup>1</sup> Die Daten der amtlichen Vermessung werden durch das kantonale Amt für Geoinformation[^19-1] verwaltet, nachgeführt und abgegeben.
 
-<sup>2</sup> Pläne, Daten, Auszüge und Auswertungen dürfen von den Bezügerinnen und Bezügern nur im Rahmen der Bestimmungen betreffend Geoinformation an Dritte weitergegeben werden.
+<sup>2</sup> Pläne, Daten, Auszüge und Auswertungen dürfen von den Bezügerinnen und Bezügern nur im Rahmen der Bestimmungen betreffend Geoinformation an Dritte weitergegeben werden.[^19-2]
 
-<sup>3</sup> Die Ausstellung beglaubigter Auszüge durch das kantonale Amt für Geoinformation richtet sich nach den einschlägigen Bestimmungen des Bundesgesetzes über die Geoinformation sowie der Verordnung über die amtliche Vermessung.
+<sup>3</sup> Die Ausstellung beglaubigter Auszüge durch das kantonale Amt für Geoinformation[^19-1] richtet sich nach den einschlägigen Bestimmungen des Bundesgesetzes über die Geoinformation sowie der Verordnung über die amtliche Vermessung.[^19-3]
+
+[^19-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
+[^19-2]: Fassung gemäss G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
+[^19-3]: Eingefügt durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
 
 #### § 20
 
 **Periodische Nachführung**
 
-<sup>1</sup> Die periodische Nachführung richtet sich nach Notwendigkeit und Wirtschaftlichkeit.
+Die periodische Nachführung richtet sich nach Notwendigkeit und Wirtschaftlichkeit.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. Übergangs- und Schlussbestimmungen
 
 #### § 21
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat kann ergänzende Vorschriften erlassen.
+Der Regierungsrat kann ergänzende Vorschriften erlassen.
 
 #### § 22
 
 **Laufende Vorhaben**
 
-<sup>1</sup> Dieses Dekret ist auf alle Vermessungsvorhaben anwendbar, deren Anerkennung durch den Bund nach dem 1. Januar 1997 erfolgte.
+Dieses Dekret ist auf alle Vermessungsvorhaben anwendbar, deren Anerkennung durch den Bund nach dem 1. Januar 1997 erfolgte.
 
 #### § 23
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Dekret tritt mit dem Inkrafttreten der Änderung des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 31. August 1998 in Kraft[^23-1].
+<sup>1</sup> Dieses Dekret tritt mit dem Inkrafttreten der Änderung des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 31. August 1998 in Kraft.[^23-1]
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^23-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-<sup>3</sup> Es ersetzt das Dekret über die Durchführung der Grundbuchvermessung und die Einführung des eidgenössischen Grundbuches vom 22. August 1949.
+<sup>3</sup> Es ersetzt das Dekret über die Durchführung der Grundbuchvermessung und die Einführung des eidgenössischen Grundbuches vom 22. August 1949. Fussnoten:
 
 [^23-1]: In Kraft getreten am 1. April 1999 (Amtsblatt 1999, S. 480).
 [^23-2]: Amtsblatt 1999, S. 483.
-
-Abl. 1999, S. 483
