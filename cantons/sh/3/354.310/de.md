@@ -4,27 +4,30 @@ number: "354.310"
 title: Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit
 language: de
 version: 1976-10-25
+corrected: 2024-06-17
 version_adopted: 1976-01-21
 adopted: 1976-01-21
 in_force: 1976-10-25
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.310"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1435/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/93/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit
 
-Vom 21.01.1976 (Stand 25.10.1976)
+vom 21. Januar 1976
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Vereinbarung bezweckt die Regelung der Zusammenarbeit und der gegenseitigen Hilfeleistung der beteiligten Kantone:
+Die Vereinbarung bezweckt die Regelung der Zusammenarbeit und der gegenseitigen Hilfeleistung der beteiligten Kantone:
 
-- a) bei gemeinsamen Kontrollen verkehrs- und kriminalpolizeilicher Art
-- b) bei ausserordentlichen Ereignissen, Katastrophen, Terrorakten, Geiselnahmen, Gewaltverbrechen und dergleichen
+- a) bei gemeinsamen Kontrollen verkehrs- und kriminalpolizeilicher Art;
+
+- b) bei ausserordentlichen Ereignissen, Katastrophen, Terrorakten, Geiselnahmen, Gewaltverbrechen und dergleichen.
 
 #### Art. 2
 
@@ -40,13 +43,17 @@ Vom 21.01.1976 (Stand 25.10.1976)
 
 **Gemeinsame Kontrollen**
 
-<sup>1</sup> Gemeinsame Kontrollen finden im Einvernehmen der beteiligten Kantone statt.
+Gemeinsame Kontrollen finden im Einvernehmen der beteiligten Kantone statt.
 
 #### Art. 4
 
 **Leitung**
 
-<sup>1</sup> Die eigenen wie die ausserkantonalen Polizeikräfte stehen unter der Leitung des Polizeikommandos des Einsatzkantons. Erstreckt sich der Einsatz über mehrere der Vereinbarung angehörende Kantone, bestimmen die beteiligten Polizeikommandanten den Leiter.
+Die eigenen wie die ausserkantonalen Polizeikräfte stehen unter der Leitung des Polizeikommandos des Einsatzkantons. Erstreckt
+
+Amtsblatt 1977, S. 625; Rechtsbuch 1964, Nr. 307a.
+
+sich der Einsatz über mehrere der Vereinbarung angehörende Kantone, bestimmen die beteiligten Polizeikommandanten den Leiter.
 
 #### Art. 5
 
@@ -88,16 +95,18 @@ Vom 21.01.1976 (Stand 25.10.1976)
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufsicht, die Beschlussfassung grundsätzlicher Art über die Zusammenarbeit und Hilfeleistung sowie die Schlichtung von Anständen, die sich aus der Ausführung der Vereinbarung ergeben, obliegen den Polizeidirektoren der beteiligten Kantone.
+Die Aufsicht, die Beschlussfassung grundsätzlicher Art über die Zusammenarbeit und Hilfeleistung sowie die Schlichtung von Anständen, die sich aus der Ausführung der Vereinbarung ergeben, obliegen den Polizeidirektoren der beteiligten Kantone.
 
 #### Art. 10
 
-**Dauer der Vereinbarung, Kündigung**
+**Dauer der Kündigung**
 
-<sup>1</sup> Die Vereinbarung gilt auf unbeschränkte Dauer[^10-1].
+<sup>1</sup> Die Vereinbarung gilt auf unbeschränkte Dauer.
 
-<sup>2</sup> Der Austritt eines Kantons ist unter Einhaltung einer einjährigen Frist auf Ende eines Jahres möglich. Die verbleibenden Kantone entscheiden über die Weiterführung der Vereinbarung.
+<sup>2</sup> Der Austritt eines Kantons ist unter Einhaltung einer einjährigen <sup>Vereinbarung,</sup> Frist auf Ende eines Jahres möglich. Die verbleibenden Kantone entscheiden über die Weiterführung der Vereinbarung.
 
-[^10-1]: Beitritt des Kantons Schaffhausen durch GRB vom 25. Oktober 1976 (Amtsblatt 1977, S. 625); vom Bundesrat genehmigt am 9. Februar 1997.
+Beitritt des Kantons Schaffhausen durch GRB vom 25. Oktober 1976 (Amtsblatt 1977, S. 625).
 
-Abl. 1977, S. 625
+Dem Konkordat sind bis 31. Dezember 1977 folgende Kantone beigetreten: Glarus, Schaffhausen, Appenzell A. Rh., Appenzell I. Rh., St. Gallen, Graubünden und Thurgau.
+
+Vom Bundesrat genehmigt am 9. Februar 1997.
