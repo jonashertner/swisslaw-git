@@ -5,38 +5,38 @@ title: Verordnung des Hochschulrates betreffend die Hochschul- und Disziplinaror
 short: Hochschul- und Disziplinarordnung
 language: de
 version: 2023-02-01
+corrected: 2024-06-17
 version_adopted: 2023-01-16
 adopted: 2020-08-24
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.203"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1337/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/452/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung des Hochschulrates betreffend die Hochschul- und Disziplinarordnung für Studierende der Pädagogischen Hochschule Schaffhausen
+# Verordnung des Hochschulrates betreffend die Hochschul- und Disziplinarordnung für Studierende der Pädagogischen Hochschule Schaffhausen (Hochschul- und Disziplinarordnung)
 
-(Hochschul- und Disziplinarordnung)
-
-Vom 24.08.2020 (Stand 01.02.2023)
+vom 24. August 2020
 
 Der Hochschulrat der Pädagogischen Hochschule Schaffhausen,
 
 gestützt auf Art. 31 f. des Hochschulgesetzes vom 2. Dezember 2019,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmung
+### I. Allgemeine Bestimmung
 
 #### § 1
 
 **Regelungsbereich**
 
-<sup>1</sup> Die Hochschul- und Disziplinarordnung regelt insbesondere die Rechte und Pflichten der Studierenden an der Pädagogischen Hochschule Schaffhausen (PHSH) sowie das Disziplinarwesen.
+Die Hochschul- und Disziplinarordnung regelt insbesondere die Rechte und Pflichten der Studierenden an der Pädagogischen Hochschule Schaffhausen (PHSH) sowie das Disziplinarwesen.
 
-## 2 Rechte und Pflichten
+### II. Rechte und Pflichten
 
-### 2.1 Information und Auskunft
+### A. Information und Auskunft
 
 #### § 2
 
@@ -44,7 +44,13 @@ beschliesst:
 
 <sup>1</sup> Die Studierenden werden über alle für sie relevanten Belange ihres Studiums informiert.
 
-<sup>2–3</sup> …
+<sup>2</sup> …[^2-1]
+
+<sup>3</sup> …[^2-1]
+
+Amtsblatt 2020, S. 1459
+
+[^2-1]: Aufgehoben durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 174).
 
 #### § 3
 
@@ -54,7 +60,7 @@ beschliesst:
 
 <sup>2</sup> Wenn möglich sollen Anliegen unter den Beteiligten direkt besprochen und geregelt werden.
 
-### 2.2 Meinungsäusserung
+### B. Meinungsäusserung
 
 #### § 4
 
@@ -74,7 +80,7 @@ beschliesst:
 
 <sup>3</sup> Der Hauptredaktor bzw. die Hauptredaktorin muss sich mit seiner bzw. ihrer Unterschrift gegenüber dem Rektor bzw. der Rektorin verpflichten, die Regeln des journalistischen Anstandes einzuhalten.
 
-### 2.3 Studierendenforum und weitere Vereine
+### C. Studierendenforum und weitere Vereine
 
 #### § 6
 
@@ -88,15 +94,17 @@ beschliesst:
 
 <sup>4</sup> Die Versammlungen des Studierendenforums finden in der unterrichtsfreien Zeit statt.
 
-<sup>5</sup> Der Mitgliederbeitrag beträgt Fr. 5.00 pro Jahr und wird durch die PHSH erhoben.
+<sup>5</sup> Der Mitgliederbeitrag beträgt Fr. 5.-- pro Jahr und wird durch die PHSH erhoben.
 
 #### § 7
 
 **Vorstand**
 
-<sup>1</sup> Jeder Studienjahrgang wählt zwei Vertreter bzw. Vertreterinnen. Einer bzw. eine vertritt die Studierenden der Studiengänge Primarstufe Schuljahre 1 bis 5, einer bzw. eine den Studiengang Primarstufe Schuljahre 3 bis 8.
+<sup>1</sup> Jeder Studienjahrgang wählt zwei Vertreter bzw. Vertreterinnen. Einer bzw. eine vertritt die Studierenden der Studiengänge Primarstufe Schuljahre 1 bis 5, einer bzw. eine den Studiengang Primarstufe Schuljahre 3 bis 8.[^7-1]
 
-<sup>2</sup> Die Studiengangvertreter bzw. ‑vertreterinnen bilden den Vorstand des Studierendenforums.
+<sup>2</sup> Die Studiengangvertreter bzw. -vertreterinnen bilden den Vorstand des Studierendenforums.
+
+[^7-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 174).
 
 #### § 8
 
@@ -120,40 +128,51 @@ beschliesst:
 
 **Weitere Vereine**
 
-<sup>1</sup> Vereine von Studierenden, die in ihrem Namen die Bezeichnung der PHSH führen, haben der Hochschulleitung die Statuten bzw. Statutenänderungen zur Genehmigung zu unterbreiten und die Zusammensetzung des Vorstandes bekannt zu geben.
+Vereine von Studierenden, die in ihrem Namen die Bezeichnung der PHSH führen, haben der Hochschulleitung die Statuten bzw. Statutenänderungen zur Genehmigung zu unterbreiten und die Zusammensetzung des Vorstandes bekannt zu geben.
 
-### 2.4 Finanzielle Unterstützung
+### D. Finanzielle Unterstützung
+
+[^hDFinanzielleUnter-1]: Aufgehoben durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 174).
 
 #### § 11
 
-**…**
+[^hDFinanzielleUnter-1]
 
-## 3 Disziplinarwesen
+### III. Disziplinarwesen
 
 #### § 12
 
 **Disziplinarverstösse**
 
-<sup>1</sup> Ein Disziplinarverstoss liegt namentlich vor, wenn:
+Ein Disziplinarverstoss liegt namentlich vor, wenn:
 
-- a) gegen Weisungen und Bestimmungen der PHSH verstossen wird
-- b) Veranstaltungen gestört werden oder der Betrieb der PHSH anderweitig beeinträchtigt wird
-- c) Studierende sich bei Leistungskontrollen unredlich verhalten oder wenn fremde Arbeitsergebnisse verwendet werden
-- d) Ausweisschriften oder Vergünstigungen missbraucht werden
-- e) elektronische Daten missbraucht werden oder unbefugt in ein fremdes Datenverarbeitungssystem eingedrungen wird
-- f) Studierende sich anderweitig schwerwiegend treuwidrig verhalten
+- a) gegen Weisungen und Bestimmungen der PHSH verstossen wird;
+
+- b) Veranstaltungen gestört werden oder der Betrieb der PHSH anderweitig beeinträchtigt wird;
+
+- c) Studierende sich bei Leistungskontrollen unredlich verhalten oder wenn fremde Arbeitsergebnisse verwendet werden;
+
+- d) Ausweisschriften oder Vergünstigungen missbraucht werden;
+
+- e) elektronische Daten missbraucht werden oder unbefugt in ein fremdes Datenverarbeitungssystem eingedrungen wird;
+
+- f) Studierende sich anderweitig schwerwiegend treuwidrig verhalten.
 
 #### § 13
 
-**Disziplinarmassnahmen und ‑kompetenzen**
+**Disziplinarmassnahmen und -kompetenzen**
 
 <sup>1</sup> Verstösse i.S.v. § 12 dieser Verordnung können durch folgende Massnahmen geahndet werden:
 
-- 1\. durch die unterrichtende Person: Wegweisung aus dem Unterricht
+- 1\. durch die unterrichtende Person: Wegweisung aus dem Unterricht;
+
 - 2\. durch die Hochschulleitung:
-  - a) schriftlicher Verweis
-  - b) befristeter Ausschluss aus bestimmten Lehrveranstaltungen oder Modulen
-  - c) befristeter oder definitiver Ausschluss aus der PHSH
+
+- a) schriftlicher Verweis;
+
+- b) befristeter Ausschluss aus bestimmten Lehrveranstaltungen oder Modulen;
+
+- c) befristeter oder definitiver Ausschluss aus der PHSH.
 
 <sup>2</sup> Die Hochschulleitung kann die Konferenz des wissenschaftlichen Personals bei der Prüfung einer Massnahme gemäss § 13 Abs. 1 Ziff. 2 lit. b und c dieser Verordnung einbeziehen.
 
@@ -167,7 +186,7 @@ beschliesst:
 
 <sup>3</sup> Bei einem schweren Disziplinarverstoss kann der bzw. die Studierende bis zum Entscheid gemäss Abs. 2 vorläufig vom Unterricht weggewiesen werden.
 
-## 4 Rechtspflege
+### IV. Rechtspflege
 
 #### § 15
 
@@ -177,7 +196,11 @@ beschliesst:
 
 <sup>2</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz).
 
-## 5 Schluss- und Übergangsbestimmungen
+[^15-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 174).
+
+### V. Schluss- und Übergangsbestimmungen
+
+[^15-1]
 
 #### § 16
 
@@ -188,11 +211,12 @@ beschliesst:
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^16-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
 [^16-1]: Amtsblatt 2020, S. 1459.
+[^16-2]: Eingefügt durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 174).
 
 #### § 17
 
-**Übergangsbestimmung**
+**Übergangsbestimmung**[^16-2]
 
-<sup>1</sup> Für Studierende, die am 1. Februar 2023 an der PHSH eingeschrieben sind, gilt die bisherige Regelung von § 11 weiterhin, maximal bis zum 31. August 2025.
+Für Studierende, die am 1. Februar 2023 an der PHSH eingeschrieben sind, gilt die bisherige Regelung von § 11 weiterhin, maximal bis zum 31. August 2025.
 
-Abl. 2020, S. 1459
+Fussnoten:
