@@ -4,37 +4,36 @@ number: "741.013"
 title: "Vereinbarung zwischen den Kantonen Zürich und Schaffhausen über die Ausübung der Polizeidienste auf der Nationalstrasse 4 (N4), Schaffhausen-Winterthur, Abschnitt Flurlingen"
 language: de
 version: 2001-01-01
+corrected: 2024-06-17
 version_adopted: 2001-01-03
 adopted: 1995-02-08
 in_force: 1996-08-15
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/741.013"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1365/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/300/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vereinbarung zwischen den Kantonen Zürich und Schaffhausen über die Ausübung der Polizeidienste auf der Nationalstrasse 4 (N4), Schaffhausen-Winterthur, Abschnitt Flurlingen
+# Vereinbarung zwischen den Kantonen Zürich und Schaffhausen über die Ausübung der Polizeidienste auf der Nationalstrasse 4 (N, Schaffhausen-Winterthur, Abschnitt Flurlingen
 
-Vom 08.02.1995 (Stand 01.01.2001)
+vom 8. Februar 1995[^t-1]
 
-Der Regierungsrat des Kantons Zürich und der Regierungsrat des Kantons Schaffhausen,
+Der Regierungsrat des Kantons Zürich und der Regierungsrat des Kantons Schaffhausen vereinbaren, gestützt auf Art. 57a des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr[^t-2] sowie Art. 4 Abs. 1 des Bundesgesetzes vom 24. Juni 1970 über Ordnungsbussen im Strassenverkehr[^t-3].
 
-gestützt auf Art. 57a des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr[^ingress-1] sowie Art. 4 Abs. 1 des Bundesgesetzes vom 24. Juni 1970 über Ordnungsbussen im Strassenverkehr[^ingress-2],
+[^t-1]: Inkrafttreten vorgesehen auf den 15. August 1996.
+[^t-2]: SR 741.01.
+[^t-3]: SR 741.03.
 
-beschliessen:
-
-[^ingress-1]: SR [741.01](http://db.clex.ch/link/Bund/741.01/de).
-[^ingress-2]: SR 741.03.
-
-## 1 Gegenstand
+### I. Gegenstand
 
 #### Art. 1
 
 **Verantwortlichkeit der Polizei Schaffhausen**
 
-<sup>1</sup> Auf dem zürcherischen Teilstück der N4 zwischen der Kantonsgrenze beim Rhein und der Hirnisgrabenbrücke (bis und exklusive Rastplatz Buchhalde) werden der Verkehrs-, Ordnungs- und Sicherheitsdienst, die polizeiliche Fahndung sowie in kriminalpolizeilicher Hinsicht die unaufschiebbaren Massnahmen von der Kantons- und Stadtpolizei Schaffhausen, nachfolgend Polizei Schaffhausen genannt, ausgeübt.
+Auf dem zürcherischen Teilstück der N4 zwischen der Kantonsgrenze beim Rhein und der Hirnisgrabenbrücke (bis und exklusive Rastplatz Buchhalde) werden der Verkehrs-, Ordnungs- und Sicherheitsdienst, die polizeiliche Fahndung sowie in kriminalpolizeilicher Hinsicht die unaufschiebbaren Massnahmen von der Kantons- und Stadtpolizei Schaffhausen, nachfolgend Polizei Schaffhausen genannt, ausgeübt.
 
-## 2 Zuständigkeit
+### II. Zuständigkeit
 
 #### Art. 2
 
@@ -43,6 +42,8 @@ beschliessen:
 <sup>1</sup> In den nachfolgenden Bestimmungen wird der Kanton Schaffhausen als Stammkanton, der Kanton Zürich als Gebietskanton bezeichnet.
 
 <sup>2</sup> Auf dem in Art. 1 genannten Teilstück hat die Polizei Schaffhausen die gleichen Rechte und Pflichten gegenüber den Verkehrsteilnehmern wie die Polizeiorgane des Gebietskantons.
+
+Amtsblatt 1995, S. 1487; Rechtsbuch 1964, Nr. 295a.
 
 #### Art. 3
 
@@ -54,29 +55,35 @@ beschliessen:
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen des Schweizerischen Strafgesetzbuches über die Nacheile (Art. 356 StGB[^3-1]).
 
-[^3-1]: SR [311.0](http://db.clex.ch/link/Bund/311.0/de).
+[^3-1]: SR 311.0.
 
 #### Art. 4
 
-**Sachliche Zuständigkeit: Verkehrspolizei**
+**Sachliche Zuständigkeit a) Verkehrspolizei**
 
 <sup>1</sup> Die Polizei Schaffhausen besorgt im Gebietskanton im Rahmen ihrer örtlichen Zuständigkeit folgende Aufgaben:
 
-- a) Überwachung und Kontrolle des Verkehrs, der Verkehrsteilnehmer und der Fahrzeuge
-- b) Anordnung der zur Wahrung der Verkehrssicherheit und zur Aufrechterhaltung des Verkehrs notwendigen Massnahmen, namentlich Verkehrsumleitungen und vorübergehende Verkehrsbeschränkungen
-- c) Überwachung des Strassenzustandes und Aufsicht über die Einrichtungen der Nationalstrasse
-- d) Tatbestandsaufnahme bei Verkehrsunfällen unter Vorbehalt des Beizugs der Untersuchungsbehörden des Gebietskantons
-- e) Erstellung der Tatbestands- und Anzeigerapporte sowie Erstattung der administrativpolizeilichen Meldungen an die zuständige Behörde des Gebietskantons
-- f) Abnahme von Bussendepositen im ordentlichen Verfahren nach den im Gebietskanton geltenden Bestimmungen
-- g) Erhebung von Ordnungsbussen nach den Vorschriften des Stammkantons
+- a) Überwachung und Kontrolle des Verkehrs, der Verkehrsteilnehmer und der Fahrzeuge;
+
+- b) Anordnung der zur Wahrung der Verkehrssicherheit und zur Aufrechterhaltung des Verkehrs notwendigen Massnahmen, namentlich Verkehrsumleitungen und vorübergehende Verkehrsbeschränkungen;
+
+- c) Überwachung des Strassenzustandes und Aufsicht über die Einrichtungen der Nationalstrasse;
+
+- d) Tatbestandsaufnahme bei Verkehrsunfällen unter Vorbehalt des Beizugs der Untersuchungsbehörden des Gebietskantons;
+
+- e) Erstellung der Tatbestands- und Anzeigerapporte sowie Erstattung der administrativpolizeilichen Meldungen an die zuständige Behörde des Gebietskantons;
+
+- f) Abnahme von Bussendepositen im ordentlichen Verfahren nach den im Gebietskanton geltenden Bestimmungen;
+
+- g) Erhebung von Ordnungsbussen nach den Vorschriften des Stammkantons.
 
 <sup>2</sup> Verfügung und Veröffentlichung von Verkehrsanordnungen und Verkehrsbeschränkungen sind Sache des Gebietskantons.
 
 #### Art. 5
 
-**Sachliche Zuständigkeit: Kriminalpolizei**
+**b) Kriminalpolizei**
 
-<sup>1</sup> Der Polizei Schaffhausen obliegen die polizeiliche Fahndung sowie bei Straftaten jeder Art die unaufschiebbaren Massnahmen, die auf dem in Art. 1 genannten Teilstück vorzunehmen sind.
+<sup>1</sup> Der Polizei Schaffhausen obliegen die polizeiliche Fahndung sowie bei Straftaten jeder Art die unaufschiebbaren Massnahmen, die auf dem in Artikel 1 genannten Teilstück vorzunehmen sind.
 
 <sup>2</sup> Personen, die bei strafbaren Handlungen auf frischer Tat ertappt oder deren Verübung verdächtigt werden, zur Verhaftung ausgeschrieben sind oder deren Festnahme auf andere Weise angeordnet worden ist, sind von der Polizei Schaffhausen den Strafuntersuchungsbehörden des Gebietskantons zuzuführen.
 
@@ -98,15 +105,15 @@ beschliessen:
 
 **Rettungswesen**
 
-<sup>1</sup> Die Polizeikommandos des Stamm- und des Gebietskantons regeln den Einsatz des Feuerwehr- und Sanitätsdienstes.
+Die Polizeikommandos des Stamm- und des Gebietskantons regeln den Einsatz des Feuerwehr- und Sanitätsdienstes.
 
-## 3 Stellung der Angehörigen der Polizei Schaffhausen
+### III. Stellung der Angehörigen der Polizei Schaffhausen
 
 #### Art. 8
 
 **Dienstverhältnis**
 
-<sup>1</sup> Das Dienstverhältnis der Angehörigen der Polizei Schaffhausen untersteht der Gesetzgebung des Stammkantons. Sie tragen dessen Uniform, Zeichen und Waffen.
+Das Dienstverhältnis der Angehörigen der Polizei Schaffhausen untersteht der Gesetzgebung des Stammkantons. Sie tragen dessen Uniform, Zeichen und Waffen.
 
 #### Art. 9
 
@@ -120,7 +127,7 @@ beschliessen:
 
 **Disziplinargewalt**
 
-<sup>1</sup> Die Angehörigen der Polizei Schaffhausen unterstehen der Disziplinargewalt des Stammkantons. Disziplinarfehler, die im Gebietskanton begangen wurden, sind den Vorgesetzten der Fehlbaren zu melden.
+Die Angehörigen der Polizei Schaffhausen unterstehen der Disziplinargewalt des Stammkantons. Disziplinarfehler, die im Gebietskanton begangen wurden, sind den Vorgesetzten der Fehlbaren zu melden.
 
 #### Art. 11
 
@@ -138,9 +145,9 @@ beschliessen:
 
 **Beistand**
 
-<sup>1</sup> Haben sich Angehörige der Polizei Schaffhausen wegen ihres Verhaltens beim Dienst im Gebietskanton in einem straf- oder zivilrechtlichen Verfahren zu verantworten, so leisten ihnen die Behörden dieses Kantons in gleichem Masse Beistand, wie sie ihn in ihrem Stammkanton erhalten, und nicht weniger, als den Angehörigen der Kantonspolizei des Gebietskantons.
+Haben sich Angehörige der Polizei Schaffhausen wegen ihres Verhaltens beim Dienst im Gebietskanton in einem straf- oder zivilrechtlichen Verfahren zu verantworten, so leisten ihnen die Behörden dieses Kantons in gleichem Masse Beistand, wie sie ihn in ihrem Stammkanton erhalten, und nicht weniger, als den Angehörigen der Kantonspolizei des Gebietskantons.
 
-## 4 Kostenregelung
+### IV. Kostenregelung
 
 #### Art. 13
 
@@ -154,25 +161,27 @@ beschliessen:
 
 <sup>4</sup> Die beiden Vetragskantone verpflichten sich rückwirkend bis zur letzten Abrechnung zu einer angemessenen Anpassung der Kostenregelung, sofern der Kostenaufwand der Autobahnpolizei auf dem Teilabschnitt des Gebietskantons sich als wesentlich höher oder niedriger erweisen sollte als auf dem übrigen Teilabschnitt.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### Art. 14
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug dieser Vereinbarung obliegt der Polizeidirektion des Kantons Zürich und dem Finanzdepartement des Kantons Schaffhausen.
+Der Vollzug dieser Vereinbarung obliegt der Polizeidirektion des Kantons Zürich und dem Finanzdepartement[^14-1] des Kantons Schaffhausen.
+
+[^14-1]: Fassung gemäss V vom 3. Januar 2001, in Kraft getreten am 1. Januar 2001 (Amtsblatt 2001, S. 68).
 
 #### Art. 15
 
 **Anstände**
 
-<sup>1</sup> Anstände zwischen den Vertragskantonen aus der Anwendung dieser Vereinbarung sind einem Schiedsgericht zu unterbreiten. Beide Kantonsregierungen bezeichnen einen Vertreter und diese einen Obmann. Können sie sich nicht einigen, bestimmen die Kantonsregierungen den Obmann.
+Anstände zwischen den Vertragskantonen aus der Anwendung dieser Vereinbarung sind einem Schiedsgericht zu unterbreiten. Beide Kantonsregierungen bezeichnen einen Vertreter und diese einen Obmann. Können sie sich nicht einigen, bestimmen die Kantonsregierungen den Obmann.
 
 #### Art. 16
 
 **Unterhaltsdienst**
 
-<sup>1</sup> Die Koordination des betrieblichen und baulichen Unterhaltsdienstes wird in einer separaten Vereinbarung der zuständigen Behörden der Vertragskantone geregelt.
+Die Koordination des betrieblichen und baulichen Unterhaltsdienstes wird in einer separaten Vereinbarung der zuständigen Behörden der Vertragskantone geregelt.
 
 #### Art. 17
 
@@ -188,9 +197,10 @@ beschliessen:
 
 **Genehmigung durch den Bundesrat**
 
-<sup>1</sup> Diese Vereinbarung wird gemäss Art. 7 Abs. 2 der Bundesverfassung[^18-1] vom Regierungsrat des Kantons Schaffhausen dem Bundesrat zur Genehmigung unterbreitet[^18-2].
+Diese Vereinbarung wird gemäss Art. 7 Abs. 2 der Bundesverfassung[^18-1] vom Regierungsrat des Kantons Schaffhausen dem Bundesrat zur Genehmigung unterbreitet.
 
-[^18-1]: BS 1 3
-[^18-2]: Vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 28. Juli 1995 (Amtsblatt 1995, S. 1487).
+Vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 28. Juli 1995 (Amtsblatt 1995, S. 1487).
 
-Abl. 1995, S. 1487
+Fussnoten:
+
+[^18-1]: SR 101.
