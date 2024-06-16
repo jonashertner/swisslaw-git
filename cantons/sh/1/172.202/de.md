@@ -5,33 +5,32 @@ title: Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwal
 short: VERV
 language: de
 version: 2014-01-01
-valid_until: 2026-03-14
+corrected: 2024-06-17
 version_adopted: 2013-11-19
 adopted: 2013-11-19
 in_force: 2014-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.202"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1421/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/394/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden
+# Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden (VERV)
 
-(VERV)
-
-Vom 19.11.2013 (Stand 01.01.2014)
+vom 19. November 2013
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 3a des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 20. September 1971[^ingress-1],
+gestützt auf Art. 3a des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 20. September 1971[^t-1],
 
 verordnet:
 
-[^ingress-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^t-1]: SHR 172.200.
 
-## 1 Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
-#### Art. 1
+#### § 1
 
 **Gegenstand und Geltungsbereich**
 
@@ -39,9 +38,9 @@ verordnet:
 
 <sup>2</sup> Für das Verfahren vor Gemeindebehörden gilt diese Verordnung, wenn die Gemeinde den elektronischen Verkehr ausdrücklich vorsieht.
 
-[^1-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^1-1]: SHR 172.200.
 
-#### Art. 2
+#### § 2
 
 **Zustellplattform**
 
@@ -49,9 +48,11 @@ verordnet:
 
 <sup>2</sup> Die Zustellplattform muss nach Art. 3 der Verordnung des Bundesrates über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren[^2-1] anerkannt sein.
 
-[^2-1]: SR [272.1](http://db.clex.ch/link/Bund/272.1/de).
+Amtsblatt 2013, S. 1719
 
-#### Art. 3
+[^2-1]: SR 272.1.
+
+#### § 3
 
 **Signatur**
 
@@ -59,9 +60,9 @@ verordnet:
 
 <sup>2</sup> Sie muss auf einem qualifizierten Zertifikat eines anerkannten Anbieters von Zertifizierungsdiensten nach dem Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur (ZertES)[^3-1] beruhen.
 
-[^3-1]: SR [943.03](http://db.clex.ch/link/Bund/943.03/de).
+[^3-1]: SR 943.03.
 
-#### Art. 4
+#### § 4
 
 **Format**
 
@@ -69,21 +70,21 @@ verordnet:
 
 <sup>2</sup> Die Behörde kann die Formatgrösse von Eingaben beschränken und bei Bedarf verlangen, dass Eingaben oder Beilagen in Papierform nachgereicht werden.
 
-## 2 Eingaben an eine Behörde
+## II. Eingaben an eine Behörde
 
-#### Art. 5
+#### § 5
 
 **Zustelladresse**
 
-<sup>1</sup> Eingaben an eine Behörde sind an die Adresse auf der von ihr verwendeten Zustellplattform zu senden.
+Eingaben an eine Behörde sind an die Adresse auf der von ihr verwendeten Zustellplattform zu senden.
 
-#### Art. 6
+#### § 6
 
 **Zertifikat**
 
-<sup>1</sup> Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder im Verzeichnis der anerkannten Anbieter gemäss ZertES aufgeführt noch auf der von der Behörde verwendeten Zustellplattform zugänglich, so muss es der Sendung beigefügt werden.
+Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder im Verzeichnis der anerkannten Anbieter gemäss ZertES aufgeführt noch auf der von der Behörde verwendeten Zustellplattform zugänglich, so muss es der Sendung beigefügt werden.
 
-#### Art. 7
+#### § 7
 
 **Signaturprüfung und Papierausdruck**
 
@@ -91,15 +92,15 @@ verordnet:
 
 <sup>2</sup> Sie fügt dem Papierausdruck das Ergebnis der Signaturprüfung bei sowie eine Bestätigung, dass der Ausdruck den Inhalt der elektronischen Eingabe korrekt wiedergibt.
 
-#### Art. 8
+#### § 8
 
 **Fristwahrung**
 
-<sup>1</sup> Der Fristenlauf gemäss Art. 9 Abs. 2 VRG ist gewahrt, wenn die Zustellplattform den Empfang vor Ablauf der Frist bestätigt hat.
+Der Fristenlauf gemäss Art. 9 Abs. 2 VRG ist gewahrt, wenn die Zustellplattform den Empfang vor Ablauf der Frist bestätigt hat.
 
-## 3 Zustellung durch eine Behörde
+## III. Zustellung durch eine Behörde
 
-#### Art. 9
+#### § 9
 
 **Zustimmung**
 
@@ -109,13 +110,13 @@ verordnet:
 
 <sup>3</sup> Zustimmung und Widerruf müssen schriftlich erfolgen; sie können auch mündlich zu Protokoll gegeben werden. Eine elektronische Eingabe gilt als Zustimmung für elektronische Zustellungen durch die Behörde im konkreten Verfahren.
 
-#### Art. 10
+#### § 10
 
 **Modalitäten**
 
-<sup>1</sup> Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat die Zustellplattform zu bezeichnen und sich dort eintragen zu lassen.
+Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat die Zustellplattform zu bezeichnen und sich dort eintragen zu lassen.
 
-#### Art. 11
+#### § 11
 
 **Zeitpunkt der Zustellung**
 
@@ -123,9 +124,9 @@ verordnet:
 
 <sup>2</sup> Eine Zustellung, die nicht heruntergeladen wird, gilt am siebten Tag nach der Bereitstellung als zugestellt.
 
-## 4 Schlussbestimmungen
+## IV. Schlussbestimmungen
 
-#### Art. 12
+#### § 12
 
 **Inkrafttreten**
 
@@ -133,6 +134,6 @@ verordnet:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^12-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^12-1]: Amtsblatt 2013, S. 1719.
+Fussnoten:
 
-Abl. 2013, S. 1719
+[^12-1]: Amtsblatt 2013, S. 1719.
