@@ -4,30 +4,32 @@ number: "160.200"
 title: Gesetz über die Durchführung von Wahlen ohne Wahlgang (stille Wahlen)
 language: de
 version: 2000-02-01
+corrected: 2024-06-17
 version_adopted: 1998-08-17
 adopted: 1956-11-19
 in_force: 1957-03-03
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.200"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1419/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/28/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Gesetz über die Durchführung von Wahlen ohne Wahlgang (stille Wahlen)
 
-Vom 19.11.1956 (Stand 01.02.2000)
+vom 19. November 1956
 
 Der Grosse Rat des Kantons Schaffhausen,
 
-in Anwendung von Art. 27 Abs. 3 der Kantonsverfassung[^ingress-1],
+in Anwendung von Art. 27 Abs. 3 der Kantonsverfassung[^t-1],
 
-beschliesst:
+beschliesst als Gesetz:
 
-[^ingress-1]: SHR [101.000](https://rechtsbuch.sh.ch/data/101.000/de).
+[^t-1]: SHR 101.000.
 
 #### Art. 1
 
-<sup>1</sup> Sofern bei Bezirkswahlen die Zahl der vorgeschlagenen wählbaren Kandidaten derjenigen der zu Wählenden entspricht, werden die Vorgeschlagenen unter den nachstehenden Voraussetzungen ohne Wahlgang als gewählt erklärt.
+Sofern bei Bezirkswahlen die Zahl der vorgeschlagenen wählbaren Kandidaten derjenigen der zu Wählenden entspricht, werden die Vorgeschlagenen unter den nachstehenden Voraussetzungen ohne Wahlgang als gewählt erklärt.
 
 #### Art. 2
 
@@ -39,6 +41,8 @@ beschliesst:
 
 <sup>4</sup> Die Frist ist eingehalten, wenn die Vorschläge am letzten Tag der ausschreibenden Stelle oder der schweizerischen Post übergeben werden.
 
+Amtsblatt 1957, S. 349; Rechtsbuch 1964, Nr. 4.
+
 #### Art. 3
 
 <sup>1</sup> Jeder Wahlvorschlag muss von mindestens 15 Stimmberechtigten des Wahlkreises unterzeichnet sein. Dem Vorschlag ist eine Erklärung der Kandidaten, eine allfällige Wahl anzunehmen, beizufügen.
@@ -47,7 +51,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Gehen rechtzeitig gleichviele Vorschläge ein als Kandidaten zu wählen sind, so werden die Namen der Vorgeschlagenen, nach Feststellung ihrer Wählbarkeit, in den amtlichen Publikationsorganen oder in ortsüblicher Weise bekanntgegeben.
+Gehen rechtzeitig gleichviele Vorschläge ein als Kandidaten zu wählen sind, so werden die Namen der Vorgeschlagenen, nach Feststellung ihrer Wählbarkeit, in den amtlichen Publikationsorganen oder in ortsüblicher Weise bekanntgegeben.
 
 #### Art. 5
 
@@ -57,16 +61,18 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> Gehen auf die erste Ausschreibung keine, weniger oder mehr Vorschläge ein oder wird die Nachfrist zur Bezeichnung weiterer Kandidaten benützt, so ist das ordentliche Wahlverfahren durchzuführen, wobei der Wähler an keine Vorschläge gebunden ist.
+Gehen auf die erste Ausschreibung keine, weniger oder mehr Vorschläge ein oder wird die Nachfrist zur Bezeichnung weiterer Kandidaten benützt, so ist das ordentliche Wahlverfahren durchzuführen, wobei der Wähler an keine Vorschläge gebunden ist.
+
+[^6-1]: Fassung gemäss G vom 17. August 1998, in Kraft getreten am 1. Februar 2000 (Amtsblatt 1999, S. 1123).
 
 #### Art. 7
 
-<sup>1</sup> Die Gemeinden können durch die Gemeindeverfassung auch für bestimmte Gemeindewahlen die Wahl ohne Wahlgang nach den Vorschriften dieses Gesetzes einführen.
+[^6-1]
+
+Die Gemeinden können durch die Gemeindeverfassung auch für bestimmte Gemeindewahlen die Wahl ohne Wahlgang nach den Vorschriften dieses Gesetzes einführen.
 
 #### Art. 8
 
-<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch das Volk in Kraft[^8-1].
+Dieses Gesetz tritt mit der Annahme durch das Volk in Kraft.[^8-1] Fussnoten:
 
 [^8-1]: In Kraft getreten am 3. März 1957 (Amtsblatt 1957, S. 352).
-
-Abl. 1957, S. 349
