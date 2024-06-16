@@ -4,26 +4,28 @@ number: "211.231"
 title: Erbschaftsverordnung
 language: de
 version: 2016-05-01
+corrected: 2024-06-17
 version_adopted: 2016-02-16
 adopted: 2016-02-16
 in_force: 2016-05-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.231"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1466/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/214/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Erbschaftsverordnung
 
-Vom 16.02.2016 (Stand 01.05.2016)
+vom 16. Februar 2016
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 in Ausführung von Art. 70 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911,
 
-beschliesst:
+verordnet:
 
-## 1 Behörden
+## I. Behörden
 
 #### § 1
 
@@ -43,27 +45,35 @@ beschliesst:
 
 <sup>2</sup> Zudem leitet er die Verhandlungen und Aussprachen mit den Erben oder Erbenvertretern, wobei er sich dabei auch durch ein Mitglied der Behörde oder einen Mitarbeitenden des Erbschaftsamtes vertreten lassen kann.
 
+Amtsblatt 2016, S. 285
+
 #### § 3
 
 **Erbschaftsschreiber**
 
 <sup>1</sup> Der Erbschaftsschreiber hat folgende Aufgaben:
 
-- a) Leitung des Erbschaftsamtes
-- b) Führung des Protokolls der Erbschaftsbehörde und bei Erbenkonferenzen
-- c) Beurkundungen gemäss Art. 21 Ziff. 2 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch
+- a) Leitung des Erbschaftsamtes;
+
+- b) Führung des Protokolls der Erbschaftsbehörde und bei Erbenkonferenzen;
+
+- c) Beurkundungen gemäss Art. 21 Ziff. 2 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch.
 
 <sup>2</sup> Zudem führt er das Manual, in welches die bei der Erbschaftsbehörde eingehenden Geschäfte und deren Erledigung chronologisch einzutragen sind, sowie folgende Verzeichnisse:
 
-- a) Verzeichnis über die Inventuren und Teilungen
-- b) Verzeichnis über die Vermögensherausgaben (Erbvorbezüge und Schenkungen)
-- c) Verzeichnis über die Staatsgebühren in Nachlassfällen
-- d) Verzeichnis der Urschriften (öffentliche letztwillige Verfügungen, Ehe-, Vermögens- und Erbverträge)
-- e) Verzeichnis der in der Schirmlade zur Eröffnung hinterlegten Urkunden (letztwillige Verfügungen, Ehe-, Vermögens- und Erbverträge)
+- a) Verzeichnis über die Inventuren und Teilungen;
+
+- b) Verzeichnis über die Vermögensherausgaben (Erbvorbezüge und Schenkungen);
+
+- c) Verzeichnis über die Staatsgebühren in Nachlassfällen;
+
+- d) Verzeichnis der Urschriften (öffentliche letztwillige Verfügungen, Ehe-, Vermögens- und Erbverträge);
+
+- e) Verzeichnis der in der Schirmlade zur Eröffnung hinterlegten Urkunden (letztwillige Verfügungen, Ehe-, Vermögens- und Erbverträge).
 
 <sup>3</sup> Die Aufgaben des Erbschaftsschreibers können im Einvernehmen mit der Erbschaftsbehörde Mitarbeitenden des Erbschaftsamtes übertragen werden. Der Aufsichtsbehörde sind die Personen zu melden, welche Beurkundungen vornehmen.
 
-## 2 Allgemeine Bestimmungen
+## II. Allgemeine Bestimmungen
 
 #### § 4
 
@@ -89,13 +99,13 @@ beschliesst:
 
 **Vertretung der Erben**
 
-<sup>1</sup> Wenn der überlebende Ehegatte mit eigenen minderjährigen Kindern an der Erbengemeinschaft beteiligt ist oder wenn mutmassliche Erben unbekannt abwesend sind, hat die Kindes- und Erwachsenenschutzbehörde eine Beistandschaft anzuordnen oder die Angelegenheit selber zu regeln (Art. 306, 390, 392 ZGB).
+Wenn der überlebende Ehegatte mit eigenen minderjährigen Kindern an der Erbengemeinschaft beteiligt ist oder wenn mutmassliche Erben unbekannt abwesend sind, hat die Kindes- und Erwachsenenschutzbehörde eine Beistandschaft anzuordnen oder die Angelegenheit selber zu regeln (Art. 306, 390, 392 ZGB).
 
 #### § 7
 
 **Information der Erben**
 
-<sup>1</sup> Das Erbschaftsamt informiert die Erben oder den Vertreter der Erben über die Abwicklung des Nachlasses, insbesondere auch über die Möglichkeit, innert angemessenem Zeitrahmen die Aufnahme eines amtlichen Inventars zu verlangen.
+Das Erbschaftsamt informiert die Erben oder den Vertreter der Erben über die Abwicklung des Nachlasses, insbesondere auch über die Möglichkeit, innert angemessenem Zeitrahmen die Aufnahme eines amtlichen Inventars zu verlangen.
 
 #### § 8
 
@@ -117,7 +127,7 @@ beschliesst:
 
 <sup>3</sup> Kommt der Teilungsvertrag im Sinne von Art. 86 EG ZGB nicht zustande, so beschliesst die Erbschaftsbehörde die Einstellung des Verfahrens.
 
-## 3 Siegelung
+## III. Siegelung
 
 #### § 10
 
@@ -127,17 +137,23 @@ beschliesst:
 
 <sup>2</sup> Sie wird in folgenden Fällen vorgenommen:
 
-- a) wenn die Erben unbekannt sind
-- b) wenn das Erbe streitig ist
-- c) wenn Gefahr besteht, dass Nachlassgegenstände beiseitegeschafft werden
-- d) auf Verlangen eines Erben
-- e) auf Verlangen eines Gläubigers
+- wenn die Erben unbekannt sind;
+
+- wenn das Erbe streitig ist;
+
+- wenn Gefahr besteht, dass Nachlassgegenstände beiseitegeschafft werden;
+
+- auf Verlangen eines Erben;
+
+- auf Verlangen eines Gläubigers.
+
+**Mitteilung**
 
 <sup>3</sup> Ist die Wohnung des Erblassers unbewohnt, so kann die ganze Wohnung unter Siegel gelegt werden; unter Umständen genügt die Versiegelung einzelner Zimmer. Einzelne Behältnisse können nur versiegelt werden, wenn sie abschliessbar sind. Bares Geld, Sparhefte, Wertpapiere, Schmuck und andere wertvolle Gegenstände sind vor der Siegelung in amtliche Verwahrung zu nehmen. Im Übrigen richtet sich die Siegelung nach den örtlichen Verhältnissen.
 
 <sup>4</sup> Über die Siegelung ist ein Protokoll zu erstellen.
 
-## 4 Verfügungen von Todes wegen
+## IV. Verfügungen von Todes wegen
 
 #### § 11
 
@@ -161,15 +177,13 @@ beschliesst:
 
 #### § 13
 
-**Mitteilung**
-
 <sup>1</sup> Alle gesetzlichen und eingesetzten Erben sowie der Willensvollstrecker erhalten auf Kosten der Erbschaft beglaubigte Kopien der Verfügungen von Todes wegen und der Ehe- und Vermögensverträge, soweit diese sie angehen. Die Auftragserteilung an den Willensvollstrecker erfolgt gemäss Art. 517 Abs. 2 ZGB.
 
 <sup>2</sup> Vermächtnisnehmer erhalten schriftlich Mitteilung, soweit es sie angeht.
 
 <sup>3</sup> Letztwillige Verfügungen, Erbverträge sowie Ehe- und Vermögensverträge werden im Original dem amtlichen Inventar, dem Teilungsvertrag respektive dem Inventarfragebogen beigefügt.
 
-## 5 Vereinfachtes Verfahren mit Inventarfragebogen
+## V. Vereinfachtes Verfahren mit Inventarfragebogen
 
 #### § 14
 
@@ -189,28 +203,49 @@ beschliesst:
 
 <sup>3</sup> Der Inventarfragebogen enthält folgende Angaben:
 
-- a) die Personalien des Erblassers
-- b) die Personalien des Ehegatten und der unter elterlicher Sorge stehenden Kinder
-- c) das Datum der Eheschliessung
-- d) den Güterstand
-- e) das Datum des Todestages
-- f) die Angaben über das Vorhandensein von Verfügungen von Todes wegen und Ehe-/ Erbverträgen sowie die Personalien der Erben und der Vermächtnisnehmer, soweit diese bekannt sind
+- a) die Personalien des Erblassers;
+
+- b) die Personalien des Ehegatten und der unter elterlicher Sorge stehenden Kinder;
+
+- c) das Datum der Eheschliessung;
+
+- d) den Güterstand;
+
+- e) das Datum des Todestages;
+
+- f) die Angaben über das Vorhandensein von Verfügungen von Todes wegen und Ehe-/ Erbverträgen sowie die Personalien der Erben und der Vermächtnisnehmer, soweit diese bekannt sind;
+
 - g) die Aktiven:
-  - 1\. Grundeigentum
-  - 2\. Wertschriften und sonstige Kapitalanlagen
-  - 3\. Anteile am Vermögen von in- und ausländischen Personengesellschaften wie Kollektiv-, Kommandit- und einfachen Gesellschaften oder Gemeinderschaften
-  - 4\. Anteile an Einzelfirmen
-  - 5\. Barschaft, Banknoten, Gold und andere Edelmetalle, Guthaben
-  - 6\. übrige Vermögensgegenstände (Fahrzeuge, Sammlungen, Schmuck, Kunstgegenstände)
-  - 7\. Lebens-, Renten- und Unfallversicherungspolicen
-  - 8\. Anteile an unverteilten Erbschaften (Erbengemeinschaften und anderen Vermögensmassen)
-  - 9\. Vorempfänge und Schenkungen
-  - 10\. Vermögen minderjähriger Kinder
+
+- Grundeigentum;
+
+- Wertschriften und sonstige Kapitalanlagen;
+
+- Anteile am Vermögen von in- und ausländischen Personengesellschaften wie Kollektiv-, Kommandit- und einfachen Gesellschaften oder Gemeinderschaften;
+
+- Anteile an Einzelfirmen;
+
+- Barschaft, Banknoten, Gold und andere Edelmetalle, Guthaben;
+
+- übrige Vermögensgegenstände (Fahrzeuge, Sammlungen, Schmuck, Kunstgegenstände);
+
+- Lebens-, Renten- und Unfallversicherungspolicen;
+
+- Anteile an unverteilten Erbschaften (Erbengemeinschaften und anderen Vermögensmassen);
+
+- Vorempfänge und Schenkungen;
+
+- Vermögen minderjähriger Kinder;
+
 - h) die Passiven:
-  - 1\. Grundpfandschulden
-  - 2\. Geschäftsschulden
-  - 3\. andere Schulden (auch Ansprüche Dritter, Nutzniessungsvermögen, Forderungen der Kinder und Grosskinder (Lidlohn)
-  - 4\. Todesfallkosten
+
+- Grundpfandschulden;
+
+- Geschäftsschulden;
+
+- andere Schulden (auch Ansprüche Dritter, Nutzniessungsvermögen, Forderungen der Kinder und Grosskinder (Lidlohn);
+
+- Todesfallkosten.
 
 <sup>4</sup> Der Inventarfragebogen ist wahrheitsgetreu auszufüllen und zusammen mit den Beilagen dem Erbschaftsamt in der Regel innerhalb zweier Monate seit der Aufforderung zur Einreichung zurückzusenden.
 
@@ -228,7 +263,7 @@ beschliesst:
 
 <sup>3</sup> Das Erbschaftsamt reicht den Inventarfragebogen mit allen Beilagen dem Amt für Justiz und Gemeinden zur Genehmigung ein.
 
-## 6 Amtliches Inventar
+## VI. Amtliches Inventar
 
 #### § 17
 
@@ -278,30 +313,49 @@ beschliesst:
 
 <sup>2</sup> Im Vorbericht sind aufzuführen:
 
-- 1\. Die Namen der Inventarbeamten und der Erben, welche der Inventaraufnahme beigewohnt haben
-- 2\. der genaue Wortlaut oder eine inhaltliche Zusammenfassung von Ehe- und Vermögensverträgen und von letztwilligen Verfügungen und Erbverträgen, die beiden Letzteren mit dem Datum der amtlichen Eröffnung
-- 3\. das Datum einer allfälligen Siegelung und Entsiegelung mit der Feststellung, ob das Siegel bei der Inventaraufnahme unversehrt war
+- 1\. Die Namen der Inventarbeamten und der Erben, welche der Inventaraufnahme beigewohnt haben;
+
+- 2\. der genaue Wortlaut oder eine inhaltliche Zusammenfassung von Ehe- und Vermögensverträgen und von letztwilligen Verfügungen und Erbverträgen, die beiden Letzteren mit dem Datum der amtlichen Eröffnung;
+
+- 3\. das Datum einer allfälligen Siegelung und Entsiegelung mit der Feststellung, ob das Siegel bei der Inventaraufnahme unversehrt war.
 
 <sup>3</sup> Im Inventar sind aufzuführen:
 
 - 1\. Aktiven:
-  - a) Grundeigentum
-  - b) Wertschriften und sonstige Kapitalanlagen
-  - c) Anteile am Vermögen von in- und ausländischen Personengesellschaften wie Kollektiv-, Kommandit- und einfachen Gesellschaften oder Gemeinderschaften
-  - d) Anteile an Einzelfirmen
-  - e) Barschaft, Banknoten, Gold und andere Edelmetalle, Guthaben
-  - f) übrige Vermögensgegenstände (Fahrzeuge, Sammlungen, Schmuck, Kunstgegenstände)
-  - g) Lebens-, Renten- und Unfallversicherungspolicen
-  - h) Anteile an unverteilten Erbschaften (Erbengemeinschaften und anderen Vermögensmassen)
-  - i) Vorempfänge und Schenkungen (pro memoria)
-  - j) Vermögen minderjähriger Kinder (pro memoria)
+
+- Grundeigentum;
+
+- Wertschriften und sonstige Kapitalanlagen;
+
+- Anteile am Vermögen von in- und ausländischen Personengesellschaften wie Kollektiv-, Kommandit- und einfachen Gesellschaften oder Gemeinderschaften;
+
+- Anteile an Einzelfirmen;
+
+- Barschaft, Banknoten, Gold und andere Edelmetalle, Guthaben;
+
+- übrige Vermögensgegenstände (Fahrzeuge, Sammlungen, Schmuck, Kunstgegenstände);
+
+- Lebens-, Renten- und Unfallversicherungspolicen;
+
+- Anteile an unverteilten Erbschaften (Erbengemeinschaften und anderen Vermögensmassen);
+
+- Vorempfänge und Schenkungen (pro memoria);
+
+- Vermögen minderjähriger Kinder (pro memoria).
+
 - 2\. Passiven:
-  - a) Grundpfandschulden
-  - b) Geschäftsschulden
-  - c) andere Schulden (auch Ansprüche Dritter, Nutzniessungsvermögen, Forderungen der Kinder und Grosskinder [Lidlohn])
-  - d) Todesfallkosten
+
+- Grundpfandschulden;
+
+- Geschäftsschulden;
+
+- andere Schulden (auch Ansprüche Dritter, Nutzniessungsvermögen, Forderungen der Kinder und Grosskinder [Lidlohn]);
+
+- Todesfallkosten.
+
 - 3\. Vermögensausscheidung:
-  - 1\. Festlegung der Güterrechtsansprüche der Ehegatten oder der eingetragenen Partner
+
+- Festlegung der Güterrechtsansprüche der Ehegatten oder der eingetragenen Partner.
 
 #### § 22
 
@@ -319,15 +373,15 @@ beschliesst:
 
 **Frist für die Ausschlagung der Erbschaft**
 
-<sup>1</sup> Die Frist für die Ausschlagung richtet sich nach dem ZGB.
+Die Frist für die Ausschlagung richtet sich nach dem ZGB.
 
 #### § 24
 
 **Inventar und Teilungsvertrag ohne separate Zustellung des Inventars**
 
-<sup>1</sup> Sofern sämtliche Erben bei der Inventaraufnahme die Annahme der Erbschaft erklären und die amtliche Mitwirkung bei der Teilung verlangt wird, kann die Zustellung des Inventars unterbleiben. Die Erben erhalten in diesem Fall unmittelbar einen Entwurf eines Teilungsvertrages gemäss § 27.
+Sofern sämtliche Erben bei der Inventaraufnahme die Annahme der Erbschaft erklären und die amtliche Mitwirkung bei der Teilung verlangt wird, kann die Zustellung des Inventars unterbleiben. Die Erben erhalten in diesem Fall unmittelbar einen Entwurf eines Teilungsvertrages gemäss § 27.
 
-## 7 Teilung
+## VII. Teilung
 
 #### § 25
 
@@ -357,23 +411,39 @@ beschliesst:
 
 <sup>1</sup> Der Erbteilungsvertrag setzt sich zusammen aus:
 
-- 1\. Der Erbenbescheinigung, welche enthalten muss:
-  - a) einen Hinweis auf die Zivilstandsdokumente
-  - b) Angaben über Verfügungen von Todes wegen, soweit sie die Erbfolge betreffen, und deren Eröffnung, gegebenenfalls den Hinweis, dass keine Verfügungen von Todes wegen vorliegen
-  - c) die genauen Personalien des Erblassers einschliesslich Wohnsitz und Zeitpunkt seines Todes
-  - d) die genauen Personalien aller gesetzlichen und eingesetzten Erben
-  - e) die Feststellung, dass die aufgeführten Personen die einzigen Erben des Erblassers sind, unter Vorbehalt der Erbschaftsklage bei gesetzlichen Erben beziehungsweise der Erbschaftsklage, Ungültigkeitsklage und Herabsetzungsklage bei eingesetzten Erben
-- 2\. dem Vorbericht gemäss § 21, ergänzt mit:
-  - a) der Erklärung, wer die Anmeldung zum Grundbucheintrag vornimmt
-  - b) wichtigen Vereinbarungen der Erben
-- 3\. dem Inventar, bestehend aus Aktiven und Passiven und der Ermittlung des Reinvermögens
-- 4\. der Vermögensausscheidung, d.h. der güterrechtlichen Ausscheidung des ehelichen oder partnerschaftlichen Vermögens nach dem geltenden Güterstand
-- 5\. der Teilung:
-  - a) nach den Vereinbarungen der Erben
-  - b) gemäss den testamentarischen oder erbvertraglichen Bestimmungen
-  - c) im Sinne der erbrechtlichen Bestimmungen des ZGB
-- 6\. der Veranlagung der Erbschaftssteuer
-- 7\. der Zuweisung der einzelnen Erbschaftssachen
+- 1\. Der Erbenbescheinigung, welche enthalten muss
+
+- einen Hinweis auf die Zivilstandsdokumente;
+
+- Angaben über Verfügungen von Todes wegen, soweit sie die Erbfolge betreffen, und deren Eröffnung, gegebenenfalls den Hinweis, dass keine Verfügungen von Todes wegen vorliegen;
+
+- die genauen Personalien des Erblassers einschliesslich Wohnsitz und Zeitpunkt seines Todes;
+
+- die genauen Personalien aller gesetzlichen und eingesetzten Erben;
+
+- die Feststellung, dass die aufgeführten Personen die einzigen Erben des Erblassers sind, unter Vorbehalt der Erbschaftsklage bei gesetzlichen Erben beziehungsweise der Erbschaftsklage, Ungültigkeitsklage und Herabsetzungsklage bei eingesetzten Erben.
+
+- 2\. dem Vorbericht gemäss § 21, ergänzt mit
+
+- der Erklärung, wer die Anmeldung zum Grundbucheintrag vornimmt;
+
+- wichtigen Vereinbarungen der Erben;
+
+- 3\. dem Inventar, bestehend aus Aktiven und Passiven und der Ermittlung des Reinvermögens;
+
+- 4\. der Vermögensausscheidung, d.h. der güterrechtlichen Ausscheidung des ehelichen oder partnerschaftlichen Vermögens nach dem geltenden Güterstand;
+
+- 5\. der Teilung
+
+- nach den Vereinbarungen der Erben;
+
+- gemäss den testamentarischen oder erbvertraglichen Bestimmungen;
+
+- im Sinne der erbrechtlichen Bestimmungen des ZGB;
+
+- 6\. der Veranlagung der Erbschaftssteuer;
+
+- 7\. der Zuweisung der einzelnen Erbschaftssachen.
 
 <sup>2</sup> Liegt im Sinne von Art. 84 Abs. 1 EG ZGB kein amtliches Inventar vor, so enthält der Teilungsvertrag die Angaben, die der Behörde bekannt sind.
 
@@ -403,7 +473,7 @@ beschliesst:
 
 **Einstellung des Teilungsverfahrens**
 
-<sup>1</sup> Kommt ein Teilungsvertrag im Sinne von Art. 86 EG zum ZGB nicht zustande, beschliesst die Erbschaftsbehörde die Einstellung des Verfahrens. Den Erben und dem Amt für Justiz und Gemeinden ist davon Mitteilung zu machen.
+Kommt ein Teilungsvertrag im Sinne von Art. 86 EG zum ZGB nicht zustande, beschliesst die Erbschaftsbehörde die Einstellung des Verfahrens. Den Erben und dem Amt für Justiz und Gemeinden ist davon Mitteilung zu machen.
 
 #### § 31
 
@@ -419,15 +489,15 @@ beschliesst:
 
 **Mitteilung an die Steuerbehörde**
 
-<sup>1</sup> Nach Prüfung des Teilungsvertrages durch das Amt für Justiz und Gemeinden stellt das Erbschaftsamt der Steuerverwaltung Kopien der Vermögenszuweisungen zu.
+Nach Prüfung des Teilungsvertrages durch das Amt für Justiz und Gemeinden stellt das Erbschaftsamt der Steuerverwaltung Kopien der Vermögenszuweisungen zu.
 
-## 8 Zuständige kantonale Behörden
+## VIII. Zuständige kantonale Behörden
 
 #### § 33
 
 **Aufsichtsbehörde**
 
-<sup>1</sup> Die Aufsicht über die Inventuren und Teilungen liegt beim Volkswirtschaftsdepartement.
+Die Aufsicht über die Inventuren und Teilungen liegt beim Volkswirtschaftsdepartement.
 
 #### § 34
 
@@ -435,25 +505,27 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Justiz und Gemeinden berät die Erbschaftsämter.
 
-<sup>2</sup> Es überprüft:
+<sup>2</sup> Es überprüft a) die amtlichen Erbschaftsinventare;
 
-- a) die amtlichen Erbschaftsinventare
-- b) die Inventarfragebogen
-- c) die amtlich durchgeführten Erbteilungen
+- b) die Inventarfragebogen;
+
+- c) die amtlich durchgeführten Erbteilungen.
 
 <sup>3</sup> Es führt folgende Verzeichnisse:
 
-- a) das Verzeichnis der Todesmitteilungen (mit der Erledigung der Nachlassfälle)
-- b) das Verzeichnis der Staatsgebühren
-- c) das Verzeichnis der Erbschaftssteuern
+- a) das Verzeichnis der Todesmitteilungen (mit der Erledigung der Nachlassfälle);
+
+- b) das Verzeichnis der Staatsgebühren;
+
+- c) das Verzeichnis der Erbschaftssteuern.
 
 #### § 35
 
 **Abrechnung und Berichte**
 
-<sup>1</sup> Das Amt für Justiz und Gemeinden erstattet der kantonalen Steuerverwaltung in Zusammenarbeit mit den Erbschaftsämtern jährlich einen Bericht über die fälligen Staatsgebühren und Erbschaftssteuern.
+Das Amt für Justiz und Gemeinden erstattet der kantonalen Steuerverwaltung in Zusammenarbeit mit den Erbschaftsämtern jährlich einen Bericht über die fälligen Staatsgebühren und Erbschaftssteuern.
 
-## 9 Schlussbestimmungen
+## IX. Schlussbestimmungen
 
 #### § 36
 
@@ -469,8 +541,8 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2016 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^37-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^37-1]: Amtsblatt 2016, S. 285.
+Fussnoten:
 
-Abl. 2016, S. 285
+- 1) Amtsblatt 2016, S. 285.
