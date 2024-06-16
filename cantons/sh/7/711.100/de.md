@@ -4,28 +4,30 @@ number: "711.100"
 title: Enteignungsgesetz für den Kanton Schaffhausen
 language: de
 version: 2019-01-01
+corrected: 2024-06-17
 version_adopted: 2018-07-02
 adopted: 1964-12-21
 in_force: 1965-04-04
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/711.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1358/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/321/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Enteignungsgesetz für den Kanton Schaffhausen
 
-Vom 21.12.1964 (Stand 01.01.2019)
+vom 21. Dezember 1964
 
 Der Grosse Rat,
 
-gestützt auf Art. 19 der Kantonsverfassung vom 24. März 1876[^ingress-1],
+gestützt auf Art. 19 der Kantonsverfassung vom 24. März 1876[^t-1],
 
-beschliesst:
+beschliesst als Gesetz:
 
-[^ingress-1]: SHR [101.000](https://rechtsbuch.sh.ch/data/101.000/de).
+[^t-1]: SHR 101.000.
 
-## 1 Das Enteignungsrecht
+### I. Das Enteignungsrecht
 
 #### Art. 1
 
@@ -43,20 +45,23 @@ beschliesst:
 
 <sup>2</sup> Zur Ausübung des Enteignungsrechtes bedarf es, soweit nicht die Gesetzgebung dieses Recht bereits in sich schliesst, eines Beschlusses des Regierungsrates.
 
+Amtsblatt 1965, S. 373; Rechtsbuch 1964, Nr. 311.
+
 #### Art. 3
 
 **Umfang**
 
-<sup>1</sup> Das Enteignungsrecht kann in Anspruch genommen werden:
+Das Enteignungsrecht kann in Anspruch genommen werden a) für die Erstellung, die Veränderung, den Unterhalt, den Betrieb und für die Erweiterung eines Werkes;
 
-- a) für die Erstellung, die Veränderung, den Unterhalt, den Betrieb und für die Erweiterung eines Werkes
-- b) für den Bezug der erforderlichen Baustoffe, wenn sie sonst nur zu sehr erschwerenden Bedingungen erhältlich sind
-- c) für die Herbeischaffung der Baustoffe, für die Ablagerung von Material und für die Errichtung von Installationsplätzen
-- d) für Vorkehren, die zum Ersatz enteigneter Rechte oder zur Wahrung der öffentlichen Interessen erforderlich sind
+- b) für den Bezug der erforderlichen Baustoffe, wenn sie sonst nur zu sehr erschwerenden Bedingungen erhältlich sind;
+
+- c) für die Herbeischaffung der Baustoffe, für die Ablagerung von Material und für die Errichtung von Installationsplätzen;
+
+- d) für Vorkehren, die zum Ersatz enteigneter Rechte oder zur Wahrung der öffentlichen Interessen erforderlich sind.
 
 #### Art. 4
 
-**Beschränkungen: zeitliche**
+**Beschränkungen: 1. zeitliche**
 
 <sup>1</sup> Eine vorübergehende Enteignung darf sich höchstens auf die Dauer von fünf Jahren erstrecken, wenn nicht durch Gesetz etwas anderes bestimmt ist. Die Frist beginnt mit der Einweisung in den Besitz und endigt auf alle Fälle drei Monate nach Vollendung des Werkes.
 
@@ -64,7 +69,7 @@ beschliesst:
 
 #### Art. 5
 
-**Beschränkungen: Bestandteile und Zugehör**
+**2. Bestandteile und Zugehör**
 
 <sup>1</sup> Auf Verlangen des Enteigneten sind Bestandteile und Zugehör von der Enteignung auszunehmen, sofern sie für das Unternehmen des Enteigners nicht notwendig sind und ohne unverhältnismässige Kosten abgetrennt werden können.
 
@@ -72,7 +77,7 @@ beschliesst:
 
 #### Art. 6
 
-**Ausdehnung: auf Begehren des Enteigneten**
+**Ausdehnung 1. auf Begehren des Enteigneten**
 
 <sup>1</sup> Wird von einem Grundstück oder mehreren wirtschaftlich zusammengehörigen Grundstücken nur ein Teil in Anspruch genommen und dadurch die bestimmungsgemässe Verwendung des verbleibenden Teiles verunmöglicht oder unverhältnismässig erschwert, so kann der Enteignete die Enteignung des Ganzen verlangen.
 
@@ -82,7 +87,7 @@ beschliesst:
 
 #### Art. 7
 
-**Ausdehnung: auf Begehren des Enteigners**
+**2. auf Begehren des Enteigners**
 
 <sup>1</sup> Der Enteigner kann die Enteignung des Ganzen verlangen, wenn bei Teilenteignung die Entschädigung für die Wertverminderung des Restes mehr als die Hälfte seines Wertes beträgt.
 
@@ -100,17 +105,21 @@ beschliesst:
 
 <sup>3</sup> Die im Grundbuch eingetragene Verfügungsbeschränkung kann der Enteignete gegen Vorweisung der Verzichterklärung löschen lassen.
 
-## 2 Das Rückforderungsrecht
+### II. Das Rückforderungsrecht
+
+[^hIIDasRückforderun-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 9
 
-**Grundsatz**
+**Grundsatz**[^hIIDasRückforderun-1]
 
-<sup>1</sup> Der Enteignete, der nicht ausdrücklich durch schriftliche Erklärung darauf verzichtet hat, kann die Rückübertragung eines enteigneten Rechtes verlangen:
+<sup>1</sup> Der Enteignete, der nicht ausdrücklich durch schriftliche Erklärung darauf verzichtet hat, kann die Rückübertragung eines enteigneten Rechtes verlangen,
 
-- a) wenn es innert drei Jahren seit dem Erwerb durch den Enteigner nicht zu dem Zweck verwendet wird, für den es enteignet worden ist; die Schätzungskommission kann diese Frist aus wichtigen Gründen zweimal um je längstens zwei Jahre erstrecken
-- b) wenn es, ohne eine Verwendung zu einem öffentlichen Zweck erhalten zu haben, veräussert werden soll
-- c) wenn es zu einem Zweck verwendet werden soll, für den das Enteignungsrecht nicht erteilt worden ist
+- a) wenn es innert drei Jahren seit dem Erwerb durch den Enteigner nicht zu dem Zweck verwendet wird, für den es enteignet worden ist; die Schätzungskommission kann diese Frist aus wichtigen Gründen zweimal um je längstens zwei Jahre erstrecken;
+
+- b) wenn es, ohne eine Verwendung zu einem öffentlichen Zweck erhalten zu haben, veräussert werden soll;
+
+- c) wenn es zu einem Zweck verwendet werden soll, für den das Enteignungsrecht nicht erteilt worden ist.
 
 <sup>2</sup> Das Rückforderungsrecht ist beim Enteigner geltend zu machen. Es kann vom früheren Eigentümer des enteigneten Rechtes oder seinen Rechtsnachfolgern ausgeübt werden.
 
@@ -124,7 +133,7 @@ beschliesst:
 
 <sup>2</sup> Können sich die Parteien über die Höhe der Gegenleistung nicht verständigen, so entscheidet die Schätzungskommission.
 
-## 3 Die Entschädigung
+### III. Die Entschädigung
 
 #### Art. 11
 
@@ -134,9 +143,11 @@ beschliesst:
 
 <sup>2</sup> Die Entschädigung ist in der Regel in Geld zu leisten. Mit Zustimmung des Enteigneten kann anstelle der Geldleistung ganz oder teilweise eine Sachleistung treten.
 
-<sup>3</sup> Trifft die Enteignung jemanden, der zur Berufsausübung auf das zu enteignende Grundstück angewiesen ist, so soll nach Möglichkeit Realersatz geleistet werden.
+<sup>3</sup> Trifft die Enteignung jemanden, der zur Berufsausübung auf das zu enteignende Grundstück angewiesen ist, so soll nach Möglichkeit Realersatz geleistet werden.[^11-1]
 
-<sup>4</sup> Ein Ersatzgrundstück darf indessen nur zugewiesen werden, wenn die Grundpfandgläubiger, deren Rechte nicht abgelöst werden, es als Pfand annehmen.
+<sup>4</sup> Ein Ersatzgrundstück darf indessen nur zugewiesen werden, wenn die Grundpfandgläubiger, deren Rechte nicht abgelöst werden, es als Pfand annehmen.[^11-1]
+
+[^11-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 12
 
@@ -146,13 +157,17 @@ beschliesst:
 
 <sup>2</sup> Demnach sind zu vergüten:
 
-- a) der volle Verkehrswert des enteigneten Rechtes
-- b) der Minderwert, der entsteht, wenn von einem Grundstück oder von mehreren zusammenhängenden Grundstücken nur ein Teil in Anspruch genommen wird
-- c) alle weiteren den Enteigneten treffenden Nachteile, die sich nach dem gewöhnlichen Lauf der Dinge als Folge der Enteignung voraussehen lassen
+- a) der volle Verkehrswert des enteigneten Rechtes;
+
+- b) der Minderwert, der entsteht, wenn von einem Grundstück oder von mehreren zusammenhängenden Grundstücken nur ein Teil in Anspruch genommen wird;
+
+- c) alle weiteren den Enteigneten treffenden Nachteile, die sich nach dem gewöhnlichen Lauf der Dinge als Folge der Enteignung voraussehen lassen.
 
 <sup>3</sup> Lässt sich der Nachteil bei Anordnung des Entzuges oder Beschränkung eines Rechtes nicht feststellen, so kann auf Begehren des Enteigners, des Enteigneten oder von Amtes wegen der Entscheid bis zur Vollendung des Werkes ausgesetzt werden, allenfalls unter Anordnung einer angemessenen Sicherstellung.
 
-<sup>4</sup> Für die Ermittlung der Entschädigung sind in der Regel die Verhältnisse im Zeitpunkt des Entscheides der Schätzungskommission massgebend.
+<sup>4</sup> Für die Ermittlung der Entschädigung sind in der Regel die Verhältnisse im Zeitpunkt des Entscheides der Schätzungskommission massgebend.[^12-1]
+
+[^12-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 13
 
@@ -180,7 +195,7 @@ beschliesst:
 
 <sup>2</sup> Die Nutzniessungsberechtigten können ausserdem selbständig Ersatz für den Schaden verlangen, der ihnen aus dem Entzug des Nutzniessungsgegenstandes erwächst.
 
-## 4 Das Enteignungsverfahren
+### IV. Das Enteignungsverfahren
 
 #### Art. 16
 
@@ -188,19 +203,21 @@ beschliesst:
 
 <sup>1</sup> Handlungen, die zur Vorbereitung eines Werkes, für das die Enteignung beansprucht werden kann, unumgänglich notwendig sind, wie Begehungen, Planaufnahmen, Bodenproben, Aussteckungen und Vermessungen, hat jeder Eigentümer nach rechtzeitiger Benachrichtigung auf seinem Grundstück zu dulden. Der Enteigner hat vollen Schadenersatz zu leisten.
 
-<sup>2</sup> Schadenersatzklagen werden durch die Schätzungskommission beurteilt. Allfällige Forderungen sind bei der Schätzungskommission direkt einzureichen. Sie verjähren innert Jahresfrist seit Kenntnis des Schadens, spätestens aber nach Ablauf von fünf Jahren seit dem schädigenden Ereignis.
+<sup>2</sup> Schadenersatzklagen werden durch die Schätzungskommission beurteilt. Allfällige Forderungen sind bei der Schätzungskommission direkt einzureichen. Sie verjähren innert Jahresfrist seit Kenntnis des Schadens, spätestens aber nach Ablauf von fünf Jahren seit dem schädigenden Ereignis.[^16-1]
+
+[^16-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 17
 
 **Enteignungsplan**
 
-<sup>1</sup> Der Enteigner hat einen Enteignungsplan und eine Grunderwerbstabelle zu erstellen, aus denen die zu enteignenden Grundstücke mit Angabe ihrer Eigentümer, des Flächemasses sowie der aus dem Grundbuch ersichtlichen und zu enteignenden beschränkten dinglichen Rechte verzeichnet sind.
+Der Enteigner hat einen Enteignungsplan und eine Grunderwerbstabelle zu erstellen, aus denen die zu enteignenden Grundstücke mit Angabe ihrer Eigentümer, des Flächemasses sowie der aus dem Grundbuch ersichtlichen und zu enteignenden beschränkten dinglichen Rechte verzeichnet sind.
 
 #### Art. 18
 
 **Enteignungsbegehren**
 
-<sup>1</sup> Das Enteignungsbegehren ist beim Präsidenten der Schätzungskommission einzureichen.
+Das Enteignungsbegehren ist beim Präsidenten der Schätzungskommission einzureichen.
 
 #### Art. 19
 
@@ -214,12 +231,15 @@ beschliesst:
 
 **Abgekürztes Verfahren**
 
-<sup>1</sup> Sofern die von der Enteignung Betroffenen genau bestimmt werden können, kann mit Bewilligung des Präsidenten der Schätzungskommission die öffentliche Planauflage durch eine persönliche Anzeige ersetzt werden:
+Sofern die von der Enteignung Betroffenen genau bestimmt werden können, kann mit Bewilligung des Präsidenten der Schätzungskommission die öffentliche Planauflage durch eine persönliche Anzeige ersetzt werden:
 
-- a) wenn die Enteignung nur vorübergehend ist oder verhältnismässig wenige Enteignete betrifft
-- b) wenn sie durch unwesentliche Veränderungen oder Erweiterungen oder den Unterhalt oder Betrieb eines bestehenden öffentlichen Werkes veranlasst wird
-- c) wenn sie durch nachträgliche Abänderungen des Planes ausgedehnt wird oder für einzelne davon Betroffene sich anders gestaltet
-- d) wenn es sich um die Erneuerung befristeter Rechte handelt
+- a) wenn die Enteignung nur vorübergehend ist oder verhältnismässig wenige Enteignete betrifft;
+
+- b) wenn sie durch unwesentliche Veränderungen oder Erweiterungen oder den Unterhalt oder Betrieb eines bestehenden öffentlichen Werkes veranlasst wird;
+
+- c) wenn sie durch nachträgliche Abänderungen des Planes ausgedehnt wird oder für einzelne davon Betroffene sich anders gestaltet;
+
+- d) wenn es sich um die Erneuerung befristeter Rechte handelt.
 
 #### Art. 21
 
@@ -235,10 +255,13 @@ beschliesst:
 
 <sup>1</sup> Innert der Auflagefrist von 30 Tagen sind beim Präsidenten der Schätzungskommission schriftlich anzumelden:
 
-- a) Einsprachen gegen das Ausmass der Enteignung
-- b) die Schadenersatzforderung für die Enteignung oder Einräumung von Rechten, für Minderwert und für den aus der Enteignung sonst entstehenden Schaden, auch wenn das Recht zur Enteignung bestritten wird. Dabei ist anzugeben, ob Entschädigung in Geld und in welcher Höhe verlangt wird
-- c) die Begehren um Ausdehnung der Enteignung
-- d) die Begehren von Sachleistung
+- a) Einsprachen gegen das Ausmass der Enteignung;
+
+- b) die Schadenersatzforderung für die Enteignung oder Einräumung von Rechten, für Minderwert und für den aus der Enteignung sonst entstehenden Schaden, auch wenn das Recht zur Enteignung bestritten wird. Dabei ist anzugeben, ob Entschädigung in Geld und in welcher Höhe verlangt wird;
+
+- c) die Begehren um Ausdehnung der Enteignung;
+
+- d) die Begehren von Sachleistung.
 
 <sup>2</sup> Erstreckt sich die Enteignung auf eine grössere Zahl von Gemeinde, so kann der Präsident der Schätzungskommission die Eingabefrist bis auf 60 Tage verlängern, wenn es für die gemeinschaftliche Wahrung der Rechte und Interessen der Enteigneten angezeigt erscheint.
 
@@ -250,11 +273,13 @@ beschliesst:
 
 <sup>1</sup> Enschädigungsforderungen können auch nach Ablauf der Eingabefrist und nach Durchführung des Schätzungsverfahrens noch geltend gemacht werden:
 
-- a) wenn ein Berechtigter den Nachweis leistet, dass ihm oder seinem Vertreter die Geltendmachung seiner Ansprüche wegen unverschuldeter Hindernisse unmöglich war
-- b) wenn der Bestand eines Rechtes dem Berechtigten nachweislich erst später zur Kenntnis gelangt oder wenn vom Enteigner entgegen dem aufgelegten Plan und Verzeichnis ein Recht in Anspruch genommen oder geschmälert wird
-- c) wenn eine im Zeitpunkt der Planauflage nicht oder nicht nach ihrem Umfang vorherzusehende Schädigung des Enteigneten sich erst beim Bau oder nach Erstellung des Werkes oder als Folge seines Gebrauches einstellt
+- a) wenn ein Berechtigter den Nachweis leistet, dass ihm oder seinem Vertreter die Geltendmachung seiner Ansprüche wegen unverschuldeter Hindernisse unmöglich war;
 
-<sup>2</sup> Im Übrigen gelten die Entschädigungsforderungen als verwirkt, wenn sie nicht innert 30 Tagen, seitdem der Forderungsberechtigte vom Bestande oder von der Inanspruchnahme oder von der Schädigung Kenntnis erhielt, beim Präsidenten der Schätzungskommission geltend gemacht worden sind. Im Falle von lit. a beginnt die Frist mit dem Wegfall des die Anmeldung hindernden Grundes zu laufen.
+- b) wenn der Bestand eines Rechtes dem Berechtigten nachweislich erst später zur Kenntnis gelangt oder wenn vom Enteigner entgegen dem aufgelegten Plan und Verzeichnis ein Recht in Anspruch genommen oder geschmälert wird;
+
+- c) wenn eine im Zeitpunkt der Planauflage nicht oder nicht nach ihrem Umfang vorherzusehende Schädigung des Enteigneten sich erst beim Bau oder nach Erstellung des Werkes oder als Folge seines Gebrauches einstellt.
+
+<sup>2</sup> Im übrigen gelten die Entschädigungsforderungen als verwirkt, wenn sie nicht innert 30 Tagen, seitdem der Forderungsberechtigte vom Bestande oder von der Inanspruchnahme oder von der Schädigung Kenntnis erhielt, beim Präsidenten der Schätzungskommission geltend gemacht worden sind. Im Falle von lit. a beginnt die Frist mit dem Wegfall des die Anmeldung hindernden Grundes zu laufen.
 
 #### Art. 24
 
@@ -296,21 +321,25 @@ beschliesst:
 
 <sup>2</sup> Die Verständigung ist auch für die dadurch zu Verlust kommenden Grundpfand-, Grundlast- und Nutzniessungsberechtigten verbindlich, sofern sie ihnen persönlich durch Anzeige des Präsidenten der Schätzungskommission zur Kenntnis gebracht worden ist und die Berechtigten nicht bei ihm innert 30 Tagen die Durchführung des Schätzungsverfahrens verlangt haben.
 
-## 5 Die kantonale Schätzungskommission für Enteignungen
+### V. Die kantonale Schätzungskommission für Enteignungen
 
 #### Art. 29
 
-**Konstituierung der Schätzungskommission**
+<sup>11)</sup>
 
-<sup>1</sup> Die Konstituierung der Schätzungskommission wird im Justizgesetz[^29-1] geregelt.
+**Konstituierung der Schätzungskommission 11)**
 
-[^29-1]: SHR [173.200](https://rechtsbuch.sh.ch/data/173.200/de).
+Die Konstituierung der Schätzungskommission wird im Justizgesetz <sup>12)</sup> geregelt.
 
-#### Art. 30–31
+#### Art. 30
 
-**…**
+<sup>13)</sup>
 
-## 6 Das Schätzungsverfahren
+#### Art. 31
+
+<sup>13)</sup>
+
+### VI. Das Schätzungsverfahren
 
 #### Art. 32
 
@@ -320,10 +349,13 @@ beschliesst:
 
 <sup>2</sup> Der Präsident der Schätzungskommission oder die Schätzungskommission können von Amtes wegen alle zur Ermittlung der Entschädigung erforderlichen Erhebungen vornehmen, insbesondere:
 
-- a) die Vorlegung von Urkunden anordnen
-- b) amtliche Berichte einholen
-- c) in die öffentlichen Bücher Einsicht nehmen
-- d) Zeugen und Sachverständige zur Verhandlung vorladen
+- a) die Vorlegung von Urkunden anordnen;
+
+- b) amtliche Berichte einholen;
+
+- c) in die öffentlichen Bücher Einsicht nehmen;
+
+- d) Zeugen und Sachverständige zur Verhandlung vorladen.
 
 <sup>3</sup> Vom Beizug eines Sachverständigen ist den Parteien ohne Verzug Kenntnis zu geben mit dem Hinweis, dass Ablehnungsgründe innert 10 Tagen geltend zu machen sind.
 
@@ -361,43 +393,55 @@ beschliesst:
 
 <sup>1</sup> In ihrem Entscheid ist die Schätzungskommission nicht an die Anträge der Parteien gebunden.
 
-<sup>2</sup> Der Entscheid hat die gleiche Wirkung wie ein gerichtliches Urteil. Er soll enthalten:
+<sup>2</sup> Der Entscheid hat die gleiche Wirkung wie ein gerichtliches Urteil. Er soll enthalten.
 
-- a) die Namen der Personen, die an der Erledigung des Streites teilgenommen haben
-- b) die genaue Bezeichnung des Gegenstandes der Enteignung
-- c) die Anträge und Anerkennungen der Parteien
-- d) eine kurze Darstellung des Streitfalles und, soweit notwendig, die Parteivorbringen
-- e) die Begründung, wobei die in Art. 12 aufgezählten verschiedenen Bestandteile der Entschädigung auseinanderzuhalten sind
-- f) die Rechtsmittelbelehrung
+- a) die Namen der Personen, die an der Erledigung des Streites teilgenommen haben;
+
+- b) die genaue Bezeichnung des Gegenstandes der Enteignung;
+
+- c) die Anträge und Anerkennungen der Parteien;
+
+- d) eine kurze Darstellung des Streitfalles und, soweit notwendig, die Parteivorbringen;
+
+- e) die Begründung, wobei die in Art. 12 aufgezählten verschiedenen Bestandteile der Entschädigung auseinanderzuhalten sind;
+
+- f) die Rechtsmittelbelehrung.
+
+[^36-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 37
 
-**Rechtsmittel**
+**Rechtsmittel**[^36-1]
 
-<sup>1</sup> Gegen Schätzungsentscheide sind folgende Rechtsmittel zulässig:
+Gegen Schätzungsentscheide sind folgende Rechtsmittel zulässig:
 
-- a) der Rekurs an das Obergericht gemäss Abschnitt 7
-- b) die Revision in sinngemässer Anwendung von Art. 328 ff. der Schweizerischen Zivilprozessordnung[^37-1]
+- a) der Rekurs an das Obergericht gemäss Abschnitt VII;
 
-[^37-1]: SR [272](http://db.clex.ch/link/Bund/272/de).
+- b) die Revision in sinngemässer Anwendung von Art. 328 ff. der Schweizerischen Zivilprozessordnung <sup>14)</sup>. <sup>11)</sup>
+
+[^37-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 38
 
-**Gebühren und Auslagen**
+**Gebühren und Auslagen**[^37-1]
 
 <sup>1</sup> Die Gebühren und Auslagen im Verfahren von der Schätzungskommission trägt in der Regel der Enteigner.
 
 <sup>2</sup> Sie können ganz oder teilweise dem Enteigneten auferlegt werden:
 
-- a) bei offensichtlich missbräuchlichen Begehren
-- b) bei offensichtlich übersetzten Forderungen
-- c) bei nachträglichen Entschädigungsforderungen gemäss Art. 23, sofern die Voraussetzungen zur nachträglichen Geltendmachung offensichtlich fehlen
+- a) bei offensichtlich missbräuchlichen Begehren;
+
+- b) bei offensichtlich übersetzten Forderungen;
+
+- c) bei nachträglichen Entschädigungsforderungen gemäss Art. 23, sofern die Voraussetzungen zur nachträglichen Geltendmachung offensichtlich fehlen.
 
 <sup>3</sup> Über die Gebührenansätze erlässt der Regierungsrat eine Verordnung.
 
+[^38-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 38a
 
-**Parteientschädigung**
+**Parteientschädigung**[^38-1]
 
 <sup>1</sup> Der Enteigner hat dem Enteigneten für die notwendigen aussergerichtlichen Kosten im Verfahren vor der Schätzungskommission eine angemessene Parteientschädigung zu bezahlen.
 
@@ -405,15 +449,21 @@ beschliesst:
 
 <sup>3</sup> Unter den Voraussetzungen von Art. 38 Abs. 2 kann der Enteignete zudem zur Bezahlung einer Parteientschädigung an den Enteigner verhalten werden.
 
-#### Art. 39
+#### Art 39
 
-**…**
+<sup>13)</sup>
 
-## 7 Rekursverfahren
+[^Art39-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
+### VII. Rekursverfahren
+
+[^Art39-1]
+
+[^hVIIRekursverfahren-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 40
 
-**Frist und Rekursgründe**
+**Frist und Rekursgründe**[^hVIIRekursverfahren-1]
 
 <sup>1</sup> Die Entscheide der Schätzungskommission und ihres Präsidenten können innert 30 Tagen von der Zustellung an durch Rekurs an das Obergericht als Verwaltungsgericht weitergezogen werden.
 
@@ -421,9 +471,11 @@ beschliesst:
 
 <sup>3</sup> Mit dem Rekurs können alle Mängel des Verfahrens und des angefochtenen Entscheides gerügt werden. Das Obergericht prüft auch die Angemessenheit des Entscheides.
 
+[^40-1]: Fassung gemäss G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 41
 
-**Berechtigte; Anschluss**
+**Berechtigte; Anschluss**[^40-1]
 
 <sup>1</sup> Zum Rekurs sind neben den Hauptparteien auch die Grundpfandgläubiger, Grundlastberechtigten und Nutzniesser als Nebenparteien berechtigt, soweit sie sich am Verfahren beteiligt haben oder infolge des Entscheides zu Verlust gekommen sind.
 
@@ -431,13 +483,15 @@ beschliesst:
 
 #### Art. 42
 
+<sup>11)</sup>
+
 **Verfahren**
 
-<sup>1</sup> Im Übrigen sind die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss Verwaltungsrechtspflegegesetz[^42-1] auf das Rekursverfahren ergänzend anwendbar.
+Im Übrigen sind die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss Verwaltungsrechtspflegegesetz[^42-1] auf das Rekursverfahren ergänzend anwendbar.
 
-[^42-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^42-1]: SHR 172.200.
 
-## 8 Vollzug der Enteignung
+### VIII. Vollzug der Enteignung
 
 #### Art. 43
 
@@ -475,52 +529,66 @@ beschliesst:
 
 <sup>3</sup> Können sich die in Betracht fallenden Berechtigten über die Verteilung nicht innert 30 Tagen seit Bekanntgabe der Zahlung einigen, so entwirft das Grundbuchamt einen Verteilungsplan, der unter Anzeige an die Beteiligten während 30 Tagen zur Einsicht aufzulegen ist. Während dieser Frist kann er von jedem Beteiligten angefochten werden. Für das Verfahren gelten sinngemäss Art. 250 des Bundesgesetzes über Schuldbetreibung und Konkurs[^46-1] sowie die Vorschriften über das beschleunigte Verfahren der Zivilprozessordnung[^46-2].
 
-[^46-1]: SR [281.1](http://db.clex.ch/link/Bund/281.1/de).
-[^46-2]: heute: Schweizerische Zivilprozessordnung, SR [272](http://db.clex.ch/link/Bund/272/de).
+[^46-1]: SR 281.1.
+[^46-2]: SHR 273.100.
 
 #### Art. 47
 
 **Vorzeitige Besitzeseinweisung**
 
-<sup>1</sup> Die Schätzungskommission kann, sobald sie den Augenschein vorgenommen und den Enteigneten angehört hat, den Enteigner schon vor dem Entscheid und vor der Bezahlung der Entschädigung zur Besitzergreifung oder zur Ausübung des Rechtes ermächtigen, wenn nachgewiesen wird, dass sonst die Ausführung des Werkes ungebührlich verzögert würde oder für die Ausführung andere Nachteile entstehen müssten.
+Die Schätzungskommission kann, sobald sie den Augenschein vorgenommen und den Enteigneten angehört hat, den Enteigner schon vor dem Entscheid und vor der Bezahlung der Entschädigung zur Besitzergreifung oder zur Ausübung des Rechtes ermächtigen, wenn nachgewiesen wird, dass sonst die Ausführung des Werkes ungebührlich verzögert würde oder für die Ausführung andere Nachteile entstehen müssten.
 
-## 8a Das Verfahren bei materieller Enteignung
+[^47-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
+### VIIIa. Das Verfahren bei materieller Enteignung
+
+[^47-1]
+
+[^hVIIIaDasVerfahren-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 47a
 
-**Träger der Entschädigungspflicht; Rückgriff**
+**Träger der Entschädigungspflicht; Rückgriff**[^hVIIIaDasVerfahren-1]
 
-<sup>1</sup> Entschädigungspflichtig ist das Gemeinwesen, das die Eigentumsbeschränkung erlassen hat. Vorbehalten bleibt Art. 6 Abs. 4 Mehrwertausgleichsgesetz.
+<sup>1</sup> Entschädigungspflichtig ist das Gemeinwesen, das die Eigentumsbeschränkung erlassen hat. Vorbehalten bleibt Art. 6 Abs. 4 Mehrwertausgleichsgesetz. <sup>15)</sup>
 
 <sup>2</sup> Das entschädigungspflichtige Gemeinwesen kann verlangen, dass ihm andere Gemeinwesen oder öffentliche Organisationen nach Massgabe ihres Interesses und ihrer finanziellen Lage einen Beitrag leisten. Sie sind zum Verfahren beizuladen. Im Streitfall entscheidet die Schätzungskommission über die Beitragsbegehren.
 
+[^47a-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47b
 
-**Schätzungsverfahren**
+**Schätzungsverfahren**[^47a-1]
 
-<sup>1</sup> Zur Einleitung des Verfahrens sind sowohl der von der Eigentumsbeschränkung Betroffene als auch das entschädigungspflichtige oder das die Eigentumsbeschränkung erlassende Gemeinwesen berechtigt.
+<sup>1</sup> Zur Einleitung des Verfahrens sind sowohl der von der Eigentumsbeschränkung Betroffene als auch das entschädigungspflichtige oder das die Eigentumsbeschränkung erlassende Gemeinwesen berechtigt. <sup>15)</sup>
 
 <sup>2</sup> Kann in der Einigungsverhandlung keine gütliche Einigung erzielt werden, so entscheidet die Schätzungskommission über das Bestehen einer Entschädigungspflicht und über die Höhe der Entschädigung.
 
+[^47b-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47c
 
-**Verwirkung**
+**Verwirkung**[^47b-1]
 
 <sup>1</sup> Entschädigungsforderungen gelten als verwirkt, sofern sie nicht innert zehn Jahren seit Inkrafttreten der Eigentumsbeschränkung beim Präsidenten der Schätzungskommission schriftlich geltend gemacht worden sind.
 
 <sup>2</sup> Das Gemeinwesen kann das Bestehen oder Nichtbestehen einer Entschädigungspflicht sowie die Höhe der Entschädigung von sich aus feststellen lassen.
 
+[^47c-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47d
 
-**Bemessungszeitpunkt**
+**Bemessungszeitpunkt**[^47c-1]
 
-<sup>1</sup> Für die Entschädigungspflicht und die Bemessung der Entschädigung sind in der Regel die Verhältnisse bei Inkrafttreten der Eigentumsbeschränkung massgebend.
+Für die Entschädigungspflicht und die Bemessung der Entschädigung sind in der Regel die Verhältnisse bei Inkrafttreten der Eigentumsbeschränkung massgebend.
+
+[^47d-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 47e
 
-**Ausdehnung**
+**Ausdehnung**[^47d-1]
 
-<sup>1</sup> Beträgt die zu leistende Entschädigung mehr als zwei Drittel des Wertes, der für die betreffende Grundstücksfläche im Falle der formellen Enteignung bezahlt werden müsste, kann der Grundeigentümer die Übernahme der betreffenden Fläche verlangen.
+<sup>1</sup> Beträgt die zu leistende Entschädigung mehr als zwei Drittel des Wertes, der für die betreffende Grundstücksfläche im Falle der formellen Enteignung bezahlt werden müsste, kann der Grundeigentümer die Übernahme der betreffenden Fläche verlangen. <sup>9)</sup>
 
 <sup>2</sup> Das Gemeinwesen kann seinerseits die Übernahme verlangen, wenn die Entschädigung für die materielle Enteignung mindestens vier Fünftel derjenigen beträgt, die es im Falle der formellen Enteignung zahlen müsste, und soweit der Übernahme nicht wesentliche private Interessen entgegenstehen.
 
@@ -528,17 +596,21 @@ beschliesst:
 
 <sup>4</sup> Die Schätzungskommission hat sowohl die bei materieller wie die bei formeller Enteignung zu leistende Entschädigung festzusetzen. Innert 60 Tagen nach Rechtskraft dieser doppelten Schätzung hat die Partei, die das Begehren um formelle Enteignung stellte, zu erklären, ob sie an ihm festhält. Hierauf entscheidet die Schätzungskommission.
 
+[^47e-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47f
 
-**Verzicht**
+**Verzicht**[^47e-1]
 
 <sup>1</sup> Das Gemeinwesen hat sich innert sechs Monaten seit der rechtskräftigen Festsetzung der Entschädigung darüber zu entscheiden, ob es die Entschädigung bezahlen oder die Eigentumsbeschränkung wieder aufheben will.
 
 <sup>2</sup> Der Präsident der kantonalen Behörde, die als letzte entschieden hat, kann die Frist aus wichtigen Gründen um höchstens ein Jahr verlängern.
 
+[^47f-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47g
 
-**Rückerstattungspflicht**
+**Rückerstattungspflicht**[^47f-1]
 
 <sup>1</sup> Entschädigungen können vom Gemeinwesen innert zehn Jahren seit ihrer Bezahlung ganz oder teilweise zurückverlangt werden, wenn die Eigentumgsbeschränkung nachträglich aufgehoben oder erheblich gemildert wird oder ihre die Entschädigungspflicht begründete Wirkung entfällt. Bei Handänderungen geht die Rückerstattungspflicht auf den neuen Eigentümer über.
 
@@ -546,33 +618,41 @@ beschliesst:
 
 <sup>3</sup> Streitigkeiten über die Rückerstattung und die Herabsetzung entscheidet die Schätzungskommission.
 
+[^47g-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123); vom Bundesrat genehmigt am 18. Januar 1985.
+
 #### Art. 47h
 
-**Anmerkung im Grundbuch**
+**Anmerkung im Grundbuch**[^47g-1]
 
-<sup>1</sup> Die Rückerstattungspflicht und die infolge von Eigentumsbeschränkungen ausbezahlten Entschädigungen sind durch das Gemeinwesen im Grundbuch anmerken zu lassen. Andernfalls verliert das Gemeinwesen den Rückerstattungsanspruch gegenüber dem gutgläubigen Erwerber.
+Die Rückerstattungspflicht und die infolge von Eigentumsbeschränkungen ausbezahlten Entschädigungen sind durch das Gemeinwesen im Grundbuch anmerken zu lassen. Andernfalls verliert das Gemeinwesen den Rückerstattungsanspruch gegenüber dem gutgläubigen Erwerber.
+
+[^47h-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 47i
 
-**Verzinsung**
+**Verzinsung**[^47h-1]
 
-<sup>1</sup> Die rechtskräftig oder durch Vereinbarung festgesetzte Entschädigung ist vom Zeitpunkt an, an dem sie erstmals schriftlich geltend gemacht worden ist, zu fünf Prozent zu verzinsen.
+Die rechtskräftig oder durch Vereinbarung festgesetzte Entschädigung ist vom Zeitpunkt an, an dem sie erstmals schriftlich geltend gemacht worden ist, zu fünf Prozent zu verzinsen.
+
+[^47i-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
 
 #### Art. 47k
 
-**Verfahrenskosten und Parteientschädigung**
+**Verfahrenskosten und Parteientschädigung**[^47i-1]
 
 <sup>1</sup> Wird eine materielle Enteignung verneint, so entscheidet die Schätzungskommission über die Zuteilung der Kosten und die Zusprechung einer Parteientschädigung nach freiem Ermessen. In der Regel ist die unterliegende Partei kosten- und entschädigungspflichtig.
 
 <sup>2</sup> Dem obsiegenden Gemeinwesen wird in der Regel keine Parteientschädigung zugesprochen.
 
+[^47k-1]: Eingefügt durch G vom 4. Juni 1984, in Kraft getreten am 1. März 1985 (Amtsblatt 1985, S. 123).
+
 #### Art. 47l
 
-**Subsidiäres Recht**
+**Subsidiäres Recht**[^47k-1]
 
-<sup>1</sup> Im Übrigen gelten sinngemäss die Vorschriften der anderen Abschnitte dieses Gesetzes.
+Im übrigen gelten sinngemäss die Vorschriften der anderen Abschnitte dieses Gesetzes.
 
-## 9 Schlussbestimmung
+### IX. Schlussbestimmung
 
 #### Art. 48
 
@@ -582,6 +662,18 @@ beschliesst:
 
 <sup>2</sup> Mit dem Inkrafttreten dieses Gesetz wird das Expropriationsgesetz vom 18. Dezember 1874 aufgehoben.
 
-[^48-1]: In Kraft getreten am 4. April 1965 (Amtsblatt 1965, S. 373).
+Fussnoten:
 
-Abl. 1965, S. 373
+- 9) Fassung gemäss G vom 1. Dezember 1997, in Kraft getreten am 1. Januar 1999 (Amtsblatt 1998, S. 1611).
+
+- 11) Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+
+- 12) SHR 173.200.
+
+- 13) Aufgehoben druch G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+
+- 14) SR 272.
+
+- 15) Fassung gemäss G vom 2. Juli 2018, in Kraft getreten am 1. Januar 2019 (Amtsblatt 2018, S. 1147, S. 2126).
+
+[^48-1]: In Kraft getreten am 4. April 1965 (Amtsblatt 1965, S. 373).
