@@ -1,36 +1,36 @@
 ---
 canton: SH
 number: "860.101"
-title: Verordnung betreffend die Ausrichtung von Betreuungsgutschriften zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter
+title: Verordnung betreffend die Ausrichtung von Betreuungsgutschriften zur Förderung der familiener-gänzenden Kinderbetreuung im Vorschulalter
 short: Betreuungsgutschriftenverordnung
 language: de
 version: 2024-03-01
+corrected: 2024-06-17
 version_adopted: 2024-02-13
 adopted: 2021-01-29
 in_force: 2021-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/860.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1395/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/442/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung betreffend die Ausrichtung von Betreuungsgutschriften zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter
+# Verordnung betreffend die Ausrichtung von Betreuungsgutschriften zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter (Betreuungsgutschriftenverordnung)
 
-(Betreuungsgutschriftenverordnung)
-
-Vom 29.01.2021 (Stand 01.03.2024)
+vom 29. Januar 2021
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 4 Abs. 1 des Gesetzes zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter vom 26. Oktober 2020,
 
-beschliesst:
+verordnet:
 
 #### § 1
 
 **Regelungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Auszahlung von Betreuungsgutschriften für Erziehungsberechtigte, deren Kinder im Vorschulalter eine bewilligte bzw. gemeldete Betreuungseinrichtung (Kinderkrippe, Kindertagesstätte oder Tagesfamilie) besuchen.
+Diese Verordnung regelt die Auszahlung von Betreuungsgutschriften für Erziehungsberechtigte, deren Kinder im Vorschulalter eine bewilligte bzw. gemeldete Betreuungseinrichtung (Kinderkrippe, Kindertagesstätte oder Tagesfamilie) besuchen.
 
 #### § 2
 
@@ -38,11 +38,15 @@ beschliesst:
 
 <sup>1</sup> Für die Ausrichtung von Betreuungsgutschriften müssen folgende Voraussetzungen kumulativ gegeben sein:
 
-- a) Das Kind, für welches Betreuungsgutschriften ausbezahlt werden sollen, muss die Betreuungseinrichtung mindestens zwei halbe Tage pro Woche besuchen
-- b) Das Kind sowie eine erziehungsberechtigte Person müssen Wohnsitz im Kanton Schaffhausen haben
-- c) Die erziehungsberechtigten Personen, welche die Obhut über das Kind haben, müssen erwerbstätig sein
+- a) Das Kind, für welches Betreuungsgutschriften ausbezahlt werden sollen, muss die Betreuungseinrichtung mindestens zwei halbe Tage pro Woche besuchen;
 
-<sup>2</sup> Erziehungsberechtigte Personen, welche finanzielle Leistungen der Arbeitslosenversicherung beziehen oder aufgrund einer von der Invalidenversicherung anerkannten Invalidität eine Kinderbetreuung benötigen oder sich in einer Ausbildung oder in einer Eingliederungsmassnahme einer Sozialversicherung befinden, sind Personen gemäss Abs. 1 lit. c gleichgestellt.
+- b) Das Kind sowie eine erziehungsberechtigte Person müssen Wohnsitz im Kanton Schaffhausen haben;
+
+- c) Die erziehungsberechtigten Personen, welche die Obhut über das Kind haben, müssen erwerbstätig sein.
+
+<sup>2</sup> Erziehungsberechtigte Personen, welche finanzielle Leistungen der Arbeitslosenversicherung beziehen oder aufgrund einer von der Invalidenversicherung anerkannten Invalidität eine Kinderbetreuung
+
+Amtsblatt 2021, S. 225. benötigen oder sich in einer Ausbildung oder in einer Eingliederungsmassnahme einer Sozialversicherung befinden, sind Personen gemäss Abs. 1 lit. c gleichgestellt.
 
 <sup>3</sup> Die entsprechenden Nachweise müssen spätestens im Zeitpunkt der ersten Rechnungsstellung bei der Betreuungseinrichtung vorliegen.
 
@@ -58,35 +62,39 @@ beschliesst:
 
 **Abrechnung**
 
-<sup>1</sup> Die Auszahlung der Betreuungsgutschriften an die Betreuungseinrichtungen erfolgt grundsätzlich gegen monatliche Abrechnung an die Dienststelle Familie und Jugend. Diese stellt ein entsprechendes Abrechnungsformular zur Verfügung. Die Betreuungseinrichtungen können eine quartalsweise oder halbjährliche Auszahlung verlangen.
+<sup>1</sup> Die Auszahlung der Betreuungsgutschriften an die Betreuungseinrichtungen erfolgt grundsätzlich gegen monatliche Abrechnung an die Dienststelle Familie und Jugend. Diese stellt ein entsprechendes Abrechnungsformular zur Verfügung. Die Betreuungseinrichtungen können eine quartalsweise oder halbjährliche Auszahlung verlangen. <sup>3)</sup>
 
 <sup>2</sup> Die Abrechnungen müssen folgende Angaben enthalten:
 
-- a) Vor-, Nachname und Geburtsdatum des Kindes
-- b) Anzahl gebuchte bzw. verrechnete Halbtage
-- c) Betreuungsleistungen der Erziehungsberechtigten pro Halbtag mit und ohne Abzug der Betreuungsgutschrift
+- a) Vor-, Nachname und Geburtsdatum des Kindes;
 
-<sup>3</sup> Bei ausserkantonalen Betreuungseinrichtungen erfolgt die Auszahlung der Betreuungsgutschriften direkt an die Erziehungsberechtigten. Diese haben der Dienststelle Familie und Jugend die Abrechnung, zusammen mit den erforderlichen Nachweisen gemäss § 2 Abs. 1 lit. a und c dieser Verordnung, einzureichen.
+- b) Anzahl gebuchte bzw. verrechnete Halbtage;
 
-<sup>4</sup> Abrechnungen für das vorangegangene Rechnungsjahr müssen jeweils bis spätestens am 15. Januar des Folgejahres der Dienststelle Familie und Jugend vorliegen.
+- c) Betreuungsleistungen der Erziehungsberechtigten pro Halbtag mit und ohne Abzug der Betreuungsgutschrift.
+
+<sup>3</sup> Bei ausserkantonalen Betreuungseinrichtungen erfolgt die Auszahlung der Betreuungsgutschriften direkt an die Erziehungsberechtigten. Diese haben der Dienststelle Familie und Jugend die Abrechnung, zusammen mit den erforderlichen Nachweisen gemäss § 2 Abs. 1 lit. a und c dieser Verordnung, einzureichen. <sup>3)</sup>
+
+<sup>4</sup> Abrechnungen für das vorangegangene Rechnungsjahr müssen jeweils bis spätestens am 15. Januar des Folgejahres der Dienststelle Familie und Jugend vorliegen. <sup>3)</sup>
 
 #### § 5
 
 **Rechte und Pflichten**
 
-<sup>1</sup> Die zuständige Fachperson der Dienststelle Familie und Jugend überprüft die Bezugsvoraussetzungen und ist befugt, die dafür notwendigen Nachweise bei den Betreuungseinrichtungen oder den Erziehungsberechtigten einzufordern.
+<sup>1</sup> Die zuständige Fachperson der Dienststelle Familie und Jugend überprüft die Bezugsvoraussetzungen und ist befugt, die dafür notwendigen Nachweise bei den Betreuungseinrichtungen oder den Erziehungsberechtigten einzufordern. <sup>3)</sup>
 
 <sup>2</sup> Die Betreuungseinrichtungen sind verpflichtet, die Beitragsleistungen in den Rechnungen an die Erziehungsberechtigten um die entsprechenden Betreuungsgutschriften zu reduzieren.
 
-<sup>3</sup> Die Erziehungsberechtigten sind verpflichtet, die zur Überprüfung der Bezugsvoraussetzungen notwendigen Nachweise bei der Betreuungseinrichtung rechtzeitig einzureichen. Sie haben Änderungen, durch welche eine Bezugsvoraussetzung in Art. 2 des Gesetzes zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter oder in § 2 dieser Verordnung nicht mehr erfüllt ist, umgehend der Betreuungseinrichtung oder der zuständigen Fachperson der Dienststelle Familie und Jugend zu melden.
+<sup>3</sup> Die Erziehungsberechtigten sind verpflichtet, die zur Überprüfung der Bezugsvoraussetzungen notwendigen Nachweise bei der Betreuungseinrichtung rechtzeitig einzureichen. Sie haben Änderungen, durch welche eine Bezugsvoraussetzung in Art. 2 des Gesetzes zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter oder in § 2 dieser Verordnung nicht mehr erfüllt ist, umgehend der Betreuungseinrichtung oder der zuständigen Fachperson der Dienststelle Familie und Jugend zu melden. <sup>3)</sup>
 
 <sup>4</sup> Unrechtmässig bezogene Betreuungsgutschriften sind zurückzuerstatten.
 
 #### § 6
 
+<sup>2)</sup>
+
 **Entschädigung**
 
-<sup>1</sup> Die innerkantonalen Betreuungseinrichtungen erhalten eine monatliche Entschädigung von Fr. 12.00 pro Kind, für welches Betreuungsgutschriften ausgerichtet werden. Pro Monat werden mindestens Fr. 20.00 durch den Kanton ausbezahlt.
+Die innerkantonalen Betreuungseinrichtungen erhalten eine monatliche Entschädigung von Fr. 12.-- pro Kind, für welches Betreuungsgutschriften ausgerichtet werden. Pro Monat werden mindestens Fr. 20.-- durch den Kanton ausbezahlt.
 
 #### § 7
 
@@ -94,8 +102,14 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Januar 2021 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^7-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^7-1]: Amtsblatt 2021, S. 225.
+Fussnoten:
 
-Abl. 2021, S. 225
+- 1) Amtsblatt 2021, S. 225.
+
+- 2) Fassung gemäss RRB vom 31. Mai 2022, in Kraft getreten am
+
+\1. Januar 2021 (Amtsblatt 2022, S. 1014, S. 1259).
+
+- 3) Fassung gemäss RRB vom 13. Februar 2024, in Kraft getreten am 1. März 2024 (Amtsblatt vom 16. Februar 2024, S. 11).
