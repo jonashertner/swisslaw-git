@@ -5,30 +5,30 @@ title: Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behör
 short: Haftungsgesetz
 language: de
 version: 2013-01-01
+corrected: 2024-06-17
 version_adopted: 2011-11-21
 adopted: 1985-09-23
 in_force: 1987-03-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.300"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1433/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/134/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer
+# Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer (Haftungsgesetz)
 
-(Haftungsgesetz)
+vom 23. September 1985
 
-Vom 23.09.1985 (Stand 01.01.2013)
+Der Grosse Rat des Kantons Schaffhausen
 
-Der Grosse Rat des Kantons Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Geltungsbereich
+### I. Geltungsbereich
 
 #### Art. 1
 
-**Geltungsbereich**
+**1. Geltungsbereich**
 
 <sup>1</sup> Dieses Gesetz gilt für den Staat, für die Mitglieder seiner Behörden sowie die in seinem Dienst stehenden Personen.
 
@@ -38,26 +38,31 @@ beschliesst:
 
 #### Art. 2
 
-**Vorbehalt anderer gesetzlicher Bestimmungen**
+**2. Vorbehalt anderer gesetzlicher Bestimmungen**
 
-<sup>1</sup> Dieses Gesetz findet keine Anwendung, soweit die Haftung des Staates und der Arbeitnehmer durch Bundesrecht oder andere kantonale Gesetze geregelt ist.
+Dieses Gesetz findet keine Anwendung, soweit die Haftung des Staates und der Arbeitnehmer durch Bundesrecht oder andere kantonale Gesetze geregelt ist.
+
+[^2-1]: Eingefügt durch G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 121, S. 900).
 
 #### Art. 2a
 
-**Private**
+**3. Private**[^2-1]
 
 <sup>1</sup> Dieses Gesetz findet auf Private keine Anwendung.
 
-<sup>2</sup> Wenn Privaten öffentlich-rechtliche Aufgaben in selbständiger Erwerbstätigkeit übertragen wurden, haftet die beauftragende Körperschaft oder Anstalt subsidiär, soweit jene:
+<sup>2</sup> Wenn Privaten öffentlich-rechtliche Aufgaben in selbständiger Erwerbstätigkeit übertragen wurden, haftet die beauftragende Körperschaft oder Anstalt subsidiär, soweit jene
 
-- a) die für den verursachten Schaden geschuldete Entschädigung nicht zu leisten vermögen
-- b) mangels Verschulden zur Schadenleistung nicht verpflichtet werden können
+Amtsblatt 1987, S. 87; Rechtsbuch 1964, Nr. 9i.
 
-## 2 Haftung für Schädigung Dritter
+- a) die für den verursachten Schaden geschuldete Entschädigung nicht zu leisten vermögen;
+
+- b) mangels Verschulden zur Schadenleistung nicht verpflichtet werden können.
+
+### II. Haftung für Schädigung Dritter
 
 #### Art. 3
 
-**Widerrechtliche Schädigung: Haftung**
+**1. Widerrechtliche Schädigung a) Haftung**
 
 <sup>1</sup> Der Staat haftet für den Schaden, den ein Arbeitnehmer in Ausübung amtlicher Verrichtung einem Dritten widerrechtlich zufügt; dem Geschädigten steht gegen den Arbeitnehmer kein Anspruch zu.
 
@@ -67,27 +72,30 @@ beschliesst:
 
 #### Art. 4
 
-**Widerrechtliche Schädigung: Herabsetzungsgründe**
+**b) Herabsetzungsgründe**
 
-<sup>1</sup> Hat der Geschädigte in die schädigende Handlung eingewilligt oder haben Umstände, für die er einstehen muss, auf Entstehung oder Verschlimmerung des Schadens eingewirkt, so entfällt die Ersatzpflicht teilweise oder ganz.
+Hat der Geschädigte in die schädigende Handlung eingewilligt oder haben Umstände, für die er einstehen muss, auf Entstehung oder Verschlimmerung des Schadens eingewirkt, so entfällt die Ersatzpflicht teilweise oder ganz.
 
 #### Art. 5
 
-**Widerrechtliche Schädigung: Genugtuung**
+**c) Genugtuung**
 
 <sup>1</sup> Bei Tötung oder Körperverletzung kann unter Würdigung der besonderen Umstände dem Verletzten oder den Angehörigen des Getöteten eine angemessene Geldsumme als Genugtuung zugesprochen werden.
 
-<sup>2</sup> …
+<sup>2</sup> ...[^5-1]
+
+[^5-1]: Aufgehoben durch G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 121, S. 900).
+[^5-2]: Eingefügt durch G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 121, S. 900).
 
 #### Art. 5a
 
-**Verletzung in den persönlichen Verhältnissen**
+**1a. Verletzung in den persönlichen Verhältnissen**[^5-2]
 
-<sup>1</sup> Wer in seiner Persönlichkeit widerrechtlich verletzt wird, hat Anspruch auf Feststellung der Verletzung, auf Schadenersatz und, sofern die Schwere der Verletzung es rechtfertigt und diese nicht anders wieder gutgemacht worden ist, auch auf Genugtuung.
+Wer in seiner Persönlichkeit widerrechtlich verletzt wird, hat Anspruch auf Feststellung der Verletzung, auf Schadenersatz und, sofern die Schwere der Verletzung es rechtfertigt und diese nicht anders wieder gutgemacht worden ist, auch auf Genugtuung.
 
 #### Art. 6
 
-**Schädigung aus rechtmässiger Tätigkeit**
+**2. Schädigung aus rechtmässiger Tätigkeit**
 
 <sup>1</sup> Für Schaden, der jemandem durch rechtmässige Tätigkeit eines Arbeitnehmers entsteht, haftet der Staat nur, wenn dies in einem Gesetz vorgesehen ist.
 
@@ -95,17 +103,17 @@ beschliesst:
 
 #### Art. 7
 
-**Haftung mehrerer Gemeinwesen**
+**3. Haftung mehrerer Gemeinwesen**
 
 <sup>1</sup> Für Schaden, der jemandem durch die Tätigkeit eines von mehreren Gemeinwesen besoldeten Arbeitnehmers entstanden ist, haftet jenes Gemeinwesens, das ihn gewählt oder ernannt hat. Erfolgte die Wahl durch Vertreter mehrerer Gemeinwesen, so haften diese solidarisch.
 
 <sup>2</sup> Rückgriffsansprüche gegen ein anderes Gemeinwesen bleiben vorbehalten.
 
-## 3 Haftung des Arbeitnehmers gegenüber dem Staat
+### III. Haftung des Arbeitnehmers gegenüber dem Staat
 
 #### Art. 8
 
-**Haftung für direkte Schädigung des Staates**
+**1. Haftung für direkte Schädigung des Staates**
 
 <sup>1</sup> Der Arbeitnehmer haftet dem Staat für den Schaden, den er ihm durch vorsätzliche oder grobfahrlässige Verletzung seiner Dienstpflichten zufügt.
 
@@ -113,7 +121,7 @@ beschliesst:
 
 #### Art. 9
 
-**Rückgriff**
+**2. Rückgriff**
 
 <sup>1</sup> Hat der Staat einem Geschädigten aufgrund dieses oder eines anderen Gesetzes Ersatz leisten müssen, so nimmt er ganz oder teilweise Rückgriff auf den Arbeitnehmer, der den Schaden vorsätzlich oder grobfahrlässig verschuldet hat.
 
@@ -121,7 +129,7 @@ beschliesst:
 
 #### Art. 10
 
-**Benachrichtigung und Nebenintervention**
+**3. Benachrichtigung und Nebenintervention**
 
 <sup>1</sup> Der Staat hat den Arbeitnehmer, gegen den ein Rückgriff in Frage kommen kann, zu benachrichtigen, sobald ein Geschädigter vom Staat aussergerichtlich Schadenersatz verlangt und sobald eine Klage anhängig gemacht worden ist.
 
@@ -129,7 +137,7 @@ beschliesst:
 
 #### Art. 11
 
-**Deckung des Schadens**
+**4. Deckung des Schadens**
 
 <sup>1</sup> Ansprüche auf Besoldung, auf Leistungen aus Versicherungseinrichtungen sowie auf ähnliche Vergütungen können mit Schadenersatzforderungen verrechnet werden, soweit sie nicht der Zwangsvollstreckung entzogen sind.
 
@@ -137,49 +145,59 @@ beschliesst:
 
 #### Art. 12
 
-**Geltendmachung**
+**5. Geltendmachung**
 
-<sup>1</sup> Schadenersatz- oder Rückgriffsanspüche werden geltend gemacht:
+Schadenersatz- oder Rückgriffsanspüche werden geltend gemacht:
 
-- a) durch den Grossen Rat gegen Mitglieder des Grossen Rates, des Regierungsrates, des Erziehungsrates und des Obergerichtes
-- b) durch den Einwohnerrat gegen Mitglieder des Einwohnerrates
-- c) durch den Regierungsrat gegen Mitglieder des Gemeinderates und die oberste Verwaltungsbehörde öffentlich-rechtlicher Körperschaften oder Anstalten, soweit diese in ihren Organisationsordnungen nicht etwas anderes bestimmen
-- d) durch die Kindes- und Erwachsenenschutzbehörde gegen Beistände
-- e) durch die zuständige Aufsichtsbehörde in allen übrigen Fällen
+- a) durch den Grossen Rat gegen Mitglieder des Grossen Rates, des Regierungsrates, des Erziehungsrates und des Obergerichtes;
+
+- b) durch den Einwohnerrat gegen Mitglieder des Einwohnerrates;
+
+- c) durch den Regierungsrat gegen Mitglieder des Gemeinderates und die oberste Verwaltungsbehörde öffentlich-rechtlicher Körperschaften oder Anstalten, soweit diese in ihren Organisationsordnungen nicht etwas anderes bestimmen;
+
+- d) durch die Kindes- und Erwachsenenschutzbehörde gegen Beistände;[^12-1]
+
+- e) durch die zuständige Aufsichtsbehörde in allen übrigen Fällen.[^12-2]
+
+[^12-1]: Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^12-2]: Eingefügt durch G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+[^12-3]: Eingefügt durch G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 121, S. 900).
 
 #### Art. 12a
 
-**Schädigung durch Private**
+**6. Schädigung durch Private**[^12-3]
 
-<sup>1</sup> Hat der Staat einem geschädigten Dritten aufgrund dieses oder eines anderen Gesetzes für Schaden aus widerrechtlicher Verrichtung von Privaten Ersatz leisten müssen, so steht ihm der Rückgriff auf die Privaten zu, die den Schaden verursacht haben. Der Rückgriff erfolgt nach Bundeszivilrecht; Art. 10 gilt sinngemäss.
+Hat der Staat einem geschädigten Dritten aufgrund dieses oder eines anderen Gesetzes für Schaden aus widerrechtlicher Verrichtung von Privaten Ersatz leisten müssen, so steht ihm der Rückgriff auf die Privaten zu, die den Schaden verursacht haben. Der Rückgriff erfolgt nach Bundeszivilrecht; Art. 10 gilt sinngemäss.
 
-## 4 Zuständigkeit und Verfahren
+### IV. Zuständigkeit und Verfahren
 
 #### Art. 13
 
-**Zuständigkeit: Ansprüche gegen den Staat**
+**1. Zuständigkeit a) Ansprüche gegen den Staat**
 
-<sup>1</sup> Die kantonalen Zivilgerichte entscheiden über Ansprüche gegenüber dem Staat. Die Bestimmungen der Schweizerischen Zivilprozessordnung[^13-1] sind dabei sinngemäss anwendbar.
+<sup>1</sup> Die kantonalen Zivilgerichte entscheiden über Ansprüche gegenüber dem Staat. Die Bestimmungen der Schweizerischen Zivilprozessordnung[^13-1] sind dabei sinngemäss anwendbar.[^13-2]
 
 <sup>2</sup> Das Bundesgericht beurteilt Ansprüche Dritter gegenüber dem Staat, die mit widerrechtlichem Verhalten des Obergerichtes begründet werden.
 
-[^13-1]: SR [272](http://db.clex.ch/link/Bund/272/de).
+[^13-1]: SR 272.
+[^13-2]: Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
 
 #### Art. 14
 
-**Zuständigkeit: Ansprüche gegen Arbeitnehmer**
+**b) Ansprüche gegen Arbeitnehmer**
 
 <sup>1</sup> Schadenersatz- und Rückgriffsansprüche gegen Arbeitnehmer werden in einer schriftlichen und begründeten Verfügung durch die zur Geltendmachung zuständige Behörde festgesetzt, soweit nicht das Bundesgericht zuständig ist.
 
 <sup>2</sup> Gegen die Verfügung kann innert 20 Tagen, von der Mitteilung an gerechnet, schriftlich Rekurs an das Obergericht als Verwaltungsgericht erhoben werden. Mit dem Rekurs können alle Mängel des Verfahrens und des angefochtenen Entscheides gerügt werden; das Obergericht prüft auch die Angemessenheit des Entscheides. Die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss dem Gesetz über den Rechtsschutz in Verwaltungssachen[^14-1] sind sinngemäss anwendbar.
 
-<sup>3</sup> Die Rechtspflegekommission für die Justizverwaltung beurteilt Ansprüche des Staates gegenüber Mitgliedern des Obergerichts und Ansprüche, die vom Obergericht geltend gemacht werden.
+<sup>3</sup> Die Rechtspflegekommission für die Justizverwaltung beurteilt Ansprüche des Staates gegenüber Mitgliedern des Obergerichts und Ansprüche, die vom Obergericht geltend gemacht werden.[^14-2]
 
-[^14-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^14-1]: SHR 172.200.
+[^14-2]: Fassung gemäss G vom 20. März 2006, in Kraft getreten am 1. Juli 2006 (Amtsblatt 2006, S. 395, S. 848).
 
 #### Art. 15
 
-**Verfahren: Grundsatz**
+**2. Verfahren a) Grundsatz**
 
 <sup>1</sup> Die Rechtmässigkeit formell rechtskräftiger Entscheide und Urteile darf nicht überprüft werden.
 
@@ -187,27 +205,29 @@ beschliesst:
 
 #### Art. 16
 
-**Verfahren: Vorverfahren bei Ansprüchen gegen den Staat**
+**b) Vorverfahren bei Ansprüchen gegen den Staat**
 
 <sup>1</sup> Ansprüche gegen den Staat sind zunächst in einem Vorverfahren geltend zu machen.
 
 <sup>2</sup> Begehren auf Schadenersatz und Genugtuung sind schriftlich einzureichen:
 
-- a) dem Regierungsrat bei Ansprüchen gegen den Staat
-- b) dem Gemeinderat bei Ansprüchen gegen die Gemeinde
-- c) dem obersten zur Vertretung befugten Organ bei Ansprüchen gegen Organisationen des kantonalen öffentlichen Rechtes mit eigener Rechtspersönlichkeit
+- a) dem Regierungsrat bei Ansprüchen gegen den Staat;
+
+- b) dem Gemeinderat bei Ansprüchen gegen die Gemeinde;
+
+- c) dem obersten zur Vertretung befugten Organ bei Ansprüchen gegen Organisationen des kantonalen öffentlichen Rechtes mit eigener Rechtspersönlichkeit.
 
 <sup>3</sup> Bestreitet die angegangene Behörde den Anspruch ganz oder teilweise, weist sie den Geschädigten auf Art. 17 und 18 Abs. 2 hin und gibt ihm bekannt, wer den Arbeitnehmer gewählt oder ernannt hat.
 
 #### Art. 17
 
-**Verfahren: Klage**
+**c) Klage**
 
-<sup>1</sup> Die Klage kann beim zuständigen Gericht direkt erhoben werden, wenn die zuständige Behörde zum Anspruch innert drei Monaten seit seiner schriftlichen Geltendmachung nicht oder ablehnend Stellung genommen hat.
+Die Klage kann beim zuständigen Gericht direkt erhoben werden, wenn die zuständige Behörde zum Anspruch innert drei Monaten seit seiner schriftlichen Geltendmachung nicht oder ablehnend Stellung genommen hat.
 
 #### Art. 18
 
-**Verwirkung: Verwirkung von Ansprüchen Dritter gegen den Staat**
+**3. Verwirkung a) Verwirkung von Ansprüchen Dritter gegen den Staat**
 
 <sup>1</sup> Die Haftung des Staates erlischt, wenn der Geschädigte sein Begehren auf Schadenersatz oder Genugtuung nicht innert einem Jahr seit Kenntnis des Schadens, auf alle Fälle aber nach zehn Jahren vom schädigenden Ereignis an gerechnet, bei der zuständigen Behörde einreicht.
 
@@ -215,65 +235,82 @@ beschliesst:
 
 #### Art. 19
 
-**Verwirkung: Verwirkung von Ansprüchen des Staates gegen Arbeitnehmer**
+**b) Verwirkung von Ansprüchen des Staates gegen Arbeitnehmer**
 
-<sup>1</sup> Die Haftung des Arbeitnehmers gegenüber dem Staat erlischt, wenn dieser den Schadenersatzanspruch nicht innert einem Jahr seit Kenntnis des Schadens oder den Rückgriff nicht innert einem Jahr seit der Anerkennung oder der gerichtlichen Feststellung seiner Schadenersatzpflicht verfügt beziehungsweise beim Bundesgericht geltend macht, auf alle Fälle nach zehn Jahren seit der letzten schädigenden Handlung des Arbeitnehmers.
+Die Haftung des Arbeitnehmers gegenüber dem Staat erlischt, wenn dieser den Schadenersatzanspruch nicht innert einem Jahr seit Kenntnis des Schadens oder den Rückgriff nicht innert einem Jahr seit der Anerkennung oder der gerichtlichen Feststellung seiner Schadenersatzpflicht verfügt beziehungsweise beim Bundesgericht geltend macht, auf alle Fälle nach zehn Jahren seit der letzten schädigenden Handlung des Arbeitnehmers.
 
 #### Art. 20
 
-**Verwirkung: Ruhen der Fristen**
+**c) Ruhen der Fristen**
 
-<sup>1</sup> Die Fristen gemäss Art. 18 und 19 ruhen, solange ein Strafverfahren oder eine Disziplinaruntersuchung wegen des nämlichen Tatbestandes durchgeführt wird.
+Die Fristen gemäss Art. 18 und 19 ruhen, solange ein Strafverfahren oder eine Disziplinaruntersuchung wegen des nämlichen Tatbestandes durchgeführt wird.
 
 #### Art. 21
 
-**Verwirkung: Verjährung**
+**d) Verjährung**
 
-<sup>1</sup> Die Verjährungsfrist beträgt 10 Jahre.
+Die Verjährungsfrist beträgt 10 Jahre.
 
-## 5 Ergänzendes Recht
+### V. Ergänzendes Recht
 
 #### Art. 22
 
 **Obligationenrecht**
 
-<sup>1</sup> Soweit dieses Gesetz keine eigenen Regeln aufstellt, sind die Bestimmungen des Schweizerischen Obligationenrechts ergänzend anwendbar.
+Soweit dieses Gesetz keine eigenen Regeln aufstellt, sind die Bestimmungen des Schweizerischen Obligationenrechts ergänzend anwendbar.
 
-## 6 Schlussbestimmungen
+### VI. Schlussbestimmungen
 
 #### Art. 23
 
-**Änderung bisherigen Rechts[^23-1]**
+**1. Änderung bisherigen Rechts**
 
-[^23-1]: Gegenstandslos.
+Die nachstehenden Gesetze werden wie folgt geändert:
+
+- a) Art. 148 Abs. 1 lit c der Zivilprozessordnung für den Kanton Schaffhausen vom 3. September 1951[^23-1] wird wie folgt ergänzt:
+
+- 18\. Klagen des Geschädigten gemäss Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer (Haftungsgesetz) vom 23. September 1985.
+
+- b) Art. 184 des Gesetzes über das Gemeindewesen für den Kanton Schaffhausen (Gemeindegesetz) vom 9. Juli 1892[^23-2] wird aufgehoben und durch folgende Bestimmung ersetzt:
+
+Verantwortlichkeit Die Behörden, Beamten und Angestellten, seien sie vollamtlich, nebenamtlich, ständig oder vorübergehend im Dienste der Gemeinde tätig, sind für ihre Amtshandlungen strafrechtlich, disziplinarisch und vermögensrechtlich verantwortlich. Die vermögensrechtliche Verantwortung richtet sich nach dem Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer (Haftungsgesetz) vom 23. September 1985.
+
+- c) Art. 40 Abs. 1 und 3 des Gesetzes über die Dienstverhältnisse des Staatspersonals (Personalgesetz) vom 26. Oktober 1970[^23-3] werden aufgehoben, und Abs. 1 wird durch folgende Bestimmung ersetzt:
+
+Für die vermögensrechtliche Verantwortung der Arbeitnehmer gelten die Vorschriften des Gesetzes über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer (Haftungsgesetz) vom 23. September 1985.
+
+[^23-1]: SHR 273.100.
+[^23-2]: SHR 120.100.
+[^23-3]: SHR 180.100.
 
 #### Art. 24
 
-**Aufhebung bisherigen Rechts**
+**2.Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes werden aufgehoben:
+Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes werden aufgehoben:
 
-- a) Art. 141 bis Art. 143 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juli 1911[^24-1]
-- b) die Verordnung über die von Beamten und Angestellten der Gemeinden gegenüber der Gemeinde und dem Staat zu leistenden Amtskautionen vom 29. April 1885
+- a) Art. 141 bis Art. 143 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juli 1911;[^24-1]
 
-[^24-1]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de)
+- b) die Verordnung über die von Beamten und Angestellten der Gemeinden gegenüber der Gemeinde und dem Staat zu leistenden Amtskautionen vom 29. April 1885.
+
+[^24-1]: SHR 210.100.
 
 #### Art. 25
 
-**Übergangsbestimmungen**
+**3. Übergangsbestimmungen**
 
-<sup>1</sup> Vor dem Inkrafttreten dieses Gesetzes verursachte Schäden werden nach bisherigem Recht beurteilt.
+Vor dem Inkrafttreten dieses Gesetzes verursachte Schäden werden nach bisherigem Recht beurteilt.
 
 #### Art. 26
 
-**Inkrafttreten**
+**4. Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz wird nach der Annahme durch das Volk sowie nach der Genehmigung von Art. 13 Abs. 2 und Art. 14 Abs. 3 durch die Bundesversammlung[^26-1] vom Regierungsrat in Kraft gesetzt[^26-2].
+<sup>1</sup> Dieses Gesetz wird nach der Annahme durch das Volk sowie nach der Genehmigung von Art. 13 Abs. 2 und Art. 14 Abs. 3 durch die Bundesversammlung[^26-1] vom Regierungsrat in Kraft gesetzt.[^26-2]
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^26-3] und in die kantonale Gesetzessammlung aufzunehmen.
+
+Fussnoten:
 
 [^26-1]: Genehmigt durch Bundesbeschluss vom 18. Dezember 1986.
 [^26-2]: In Kraft getreten am 1. März 1987, (Amtsblatt 1987, S. 87).
 [^26-3]: Amtsblatt 1987, S. 87.
-
-Abl. 1987, S. 87
