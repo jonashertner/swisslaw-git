@@ -3,24 +3,24 @@ sr: "0.274.132"
 title: Übereinkommen vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: de
-version: 2021-02-19
+version: 2024-06-17
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20210219/de/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20210219-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20210219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20240617/de/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20240617-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20240617/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 
-AS **1994** 2824, **1995** 1085; BBl **1993** III 1261
+AS **1994** 2824; **1995** 1085; BBl **1993** III 1261
 
 Übersetzung
 
 Abgeschlossen in Den Haag am 18. März 1970 Von der Bundesversammlung genehmigt am 9. Juni 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 2. November 1994 Inkrafttreten für die Schweiz am 1. Januar 1995
 
-(Stand am 19. Februar 2021)
+(Stand am 17. Juni 2024)
 
 [^t-1]: Art. 2 Abs. 1 des BB vom 9. Juni 1994 ([AS 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -343,7 +343,7 @@ Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag am 18. März 1970 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung der Niederlande hinterlegt und von der jedem auf der Elften Tagung der Haager Konferenz für Internationales Privatrecht vertretenen Staat auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
 
-Geltungsbereich am 19. Februar 2021[^t-2]
+Geltungsbereich am 17. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -366,6 +366,7 @@ Geltungsbereich am 19. Februar 2021[^t-2]
 <tr><td>Estland\* <sup>a</sup></td><td>2. Februar</td><td>1996 B</td><td>11. Juli</td><td>1998</td></tr>
 <tr><td>Finnland\*</td><td>7. April</td><td>1976</td><td>6. Juni</td><td>1976</td></tr>
 <tr><td>Frankreich\*</td><td>7. August</td><td>1974</td><td>6. Oktober</td><td>1974</td></tr>
+<tr><td>Georgien\* <sup>a</sup></td><td>31. Mai</td><td>2021 B</td><td>20. August</td><td>2022</td></tr>
 <tr><td>Griechenland\*</td><td>18. Januar</td><td>2005</td><td>19. März</td><td>2005</td></tr>
 <tr><td>Indien\* <sup>a</sup></td><td>7. Februar</td><td>2007 B</td><td>23. November</td><td>2009</td></tr>
 <tr><td>Island\* <sup>a</sup></td><td>10. November</td><td>2008 B</td><td>23. November</td><td>2009</td></tr>
@@ -385,6 +386,7 @@ Geltungsbereich am 19. Februar 2021[^t-2]
 <tr><td>Mexiko\* <sup>a</sup></td><td>27. Juli</td><td>1989 B</td><td>13. Januar</td><td>1995</td></tr>
 <tr><td>Monaco\* <sup>a</sup></td><td>17. Januar</td><td>1986 B</td><td>13. Januar</td><td>1995</td></tr>
 <tr><td>Montenegro\* <sup>a</sup></td><td>16. Januar</td><td>2012 B</td><td>19. Mai</td><td>2015</td></tr>
+<tr><td>Nicaragua\* <sup>a</sup></td><td>27. Februar</td><td>2019 B</td><td>20. August</td><td>2022</td></tr>
 <tr><td>Niederlande\*</td><td>8. April</td><td>1981</td><td>7. Juni</td><td>1981</td></tr>
 <tr><td>Aruba\*</td><td>28. Mai</td><td>1986</td><td>27. Juli</td><td>1986</td></tr>
 <tr><td>Nordmazedonien\* <sup>a</sup></td><td>19. März</td><td>2009 B</td><td>2. November</td><td>2020</td></tr>
@@ -421,11 +423,12 @@ Geltungsbereich am 19. Februar 2021[^t-2]
 <tr><td>Insel Man\*</td><td>16. April</td><td>1980 B</td><td>15. Juni</td><td>1980</td></tr>
 <tr><td>Jersey\*</td><td>6. Januar</td><td>1987 B</td><td>7. März</td><td>1987</td></tr>
 <tr><td>Kaimaninseln\*</td><td>16. September</td><td>1980 B</td><td>15. November</td><td>1980</td></tr>
+<tr><td>Vietnam\* <sup>a</sup></td><td>4. März</td><td>2020 B</td><td>20. August</td><td>2022</td></tr>
 <tr><td>Zypern\* <sup>a</sup></td><td>13. Januar</td><td>1983 B</td><td>13. Januar</td><td>1995</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: [www.hcch.net](http://www.hcch.net) &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Der Beitritt unterliegt dem Annahmeverfahren. Das Datum des Inkrafttretens ist jenes zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet. <sup>b</sup> Bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreiches in Hong Kong anwendbar. Seit dem 1. Juli 1997 bildet Hong Kong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abkommen, welche vor der Rückgabe an die Volksrepublik China in Hong Kong anwendbar waren, auch in der SAR anwendbar. <sup>c</sup> Auf Grund einer Erklärung der Volksrepublik China vom 16. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html](https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Datum des Inkrafttretens ist jenes zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet. <sup>b</sup> Bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreiches in Hong Kong anwendbar. Seit dem 1. Juli 1997 bildet Hong Kong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abkommen, welche vor der Rückgabe an die Volksrepublik China in Hong Kong anwendbar waren, auch in der SAR anwendbar. <sup>c</sup> Auf Grund einer Erklärung der Volksrepublik China vom 16. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1994 2824](https://fedlex.data.admin.ch/eli/oc/1994/2824_2824_2824); [2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212); [2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1994 2824](https://fedlex.data.admin.ch/eli/oc/1994/2824_2824_2824); [2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212); [2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [AS 2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103); [2024 288](https://fedlex.data.admin.ch/eli/oc/2024/288). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
@@ -464,7 +467,7 @@ Liste der schweizerischen Behörden[^t-3]
 
 a) kantonale Zentralbehörden
 
-Eine aktualisierte Liste der kantonalen Zentralbehörden mit den vollständigen Adressen ist im Internet an folgender Adresse abrufbar: https://www.rhf.admin.ch &gt; Zivilrecht &gt; Behörden &gt; Liste der kantonalen Zentralbehörden
+Eine aktualisierte Liste der kantonalen Zentralbehörden mit den vollständigen Adressen ist im Internet an folgender Adresse abrufbar: [https://www.rhf.admin.ch](https://www.rhf.admin.ch) &gt; Zivilrecht &gt; Behörden &gt; Liste der kantonalen Zentralbehörden
 
 Die örtlich zuständige schweizerische Behörde kann im Internet auf der Orts- und Gerichtsdatenbank Schweiz ermittelt werden: www.elorge.admin.ch
 

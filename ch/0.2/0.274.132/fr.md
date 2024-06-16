@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: "Convention du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile ou commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: fr
-version: 2021-02-19
+version: 2024-06-17
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20210219/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20210219-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20210219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20240617/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20240617-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20240617/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à La Haye le 18 mars 1970 Approuvée par l’Assemblée fédérale le 9 juin 1994[^t-1] Instrument de ratification déposé par la Suisse le 2 novembre 1994 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1995
 
-(État le 19 février 2021)
+(État le 17 juin 2024)
 
 [^t-1]: Art. 2 al. 1 de l’ AF du 9 juin 1994 ([RO 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -343,7 +343,7 @@ Le Ministère des Affaires Étrangères des Pays-Bas notifiera aux États visés
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé la présente Convention. Fait à La Haye, le 18 mars 1970, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Gouvernement des Pays-Bas et dont une copie certifiée conforme sera remise, par la voie diplomatique, à chacun des États représentés à la Onzième session de la Conférence de La Haye de droit international privé. (Suivent les signatures)
 
-Champ d’application le 19 février 2021[^t-2]
+Champ d’application le 17 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -364,9 +364,9 @@ Champ d’application le 19 février 2021[^t-2]
 <tr><td>Macao\* <sup>c</sup></td><td>16 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre\* <sup>a</sup></td><td>13 janvier</td><td>1983 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Colombie<sup>a</sup></td><td>13 janvier</td><td>2012 A</td><td>19 mai</td><td>2015</td></tr>
+<tr><td>Corée (Sud)\* <sup>a</sup></td><td>14 décembre</td><td>2009 A</td><td>22 novembre</td><td>2011</td></tr>
 <tr><td>Costa Rica <sup>a</sup></td><td>16 mars</td><td>2016 A</td><td>31 janvier</td><td>2017</td></tr>
 <tr><td>Croatie\* <sup>a</sup></td><td>1<sup>er</sup> octobre</td><td>2009 A</td><td>22 novembre</td><td>2011</td></tr>
-<tr><td>Corée (Sud)\* <sup>a</sup></td><td>14 décembre</td><td>2009 A</td><td>22 novembre</td><td>2011</td></tr>
 <tr><td>Danemark\*</td><td>20 juin</td><td>1972</td><td>7 octobre</td><td>1972</td></tr>
 <tr><td>Espagne\*</td><td>22 mai</td><td>1987</td><td>21 juillet</td><td>1987</td></tr>
 <tr><td>Estonie\* <sup>a</sup></td><td>2 février</td><td>1996 A</td><td>11 juillet</td><td>1998</td></tr>
@@ -376,6 +376,7 @@ Champ d’application le 19 février 2021[^t-2]
 <tr><td>Porto Rico</td><td>9 février</td><td>1973 A</td><td>10 avril</td><td>1973</td></tr>
 <tr><td>Finlande\*</td><td>7 avril</td><td>1976</td><td>6 juin</td><td>1976</td></tr>
 <tr><td>France\*</td><td>7 août</td><td>1974</td><td>6 octobre</td><td>1974</td></tr>
+<tr><td>Géorgie\* <sup>a</sup></td><td>31 mai</td><td>2021 A</td><td>20 août</td><td>2022</td></tr>
 <tr><td>Grèce\*</td><td>18 janvier</td><td>2005</td><td>19 mars</td><td>2005</td></tr>
 <tr><td>Hongrie\* <sup>a</sup></td><td>13 juillet</td><td>2004 A</td><td>11 novembre</td><td>2005</td></tr>
 <tr><td>Inde\* <sup>a</sup></td><td>7 février</td><td>2007 A</td><td>23 novembre</td><td>2009</td></tr>
@@ -394,6 +395,7 @@ Champ d’application le 19 février 2021[^t-2]
 <tr><td>Mexique\* <sup>a</sup></td><td>27 juillet</td><td>1989 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Monaco\* <sup>a</sup></td><td>17 janvier</td><td>1986 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Monténégro<sup>\* a</sup></td><td>16 janvier</td><td>2012 A</td><td>19 mai</td><td>2015</td></tr>
+<tr><td>Nicaragua\* <sup>a</sup></td><td>27 février</td><td>2019 A</td><td>20 août</td><td>2022</td></tr>
 <tr><td>Norvège\*</td><td>3 août</td><td>1972</td><td>7 octobre</td><td>1972</td></tr>
 <tr><td>Pays-Bas\*</td><td>8 avril</td><td>1981</td><td>7 juin</td><td>1981</td></tr>
 <tr><td>Aruba\*</td><td>28 mai</td><td>1986</td><td>27 juillet</td><td>1986</td></tr>
@@ -422,10 +424,11 @@ Champ d’application le 19 février 2021[^t-2]
 <tr><td>Turquie\*</td><td>13 août</td><td>2004</td><td>12 octobre</td><td>2004</td></tr>
 <tr><td>Ukraine\* <sup>a</sup></td><td>1<sup>er</sup> février</td><td>2001 A</td><td>12 mars</td><td>2002</td></tr>
 <tr><td>Venezuela\* <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1993 A</td><td>11 juillet</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: [www.hcch.net](http://www.hcch.net) &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’adhésion est soumise à une procédure d’acceptation. La date d’entrée en vigueur est celle entre la Suisse et cet État partie ou ce territoire. <sup>b</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique due 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS. <sup>c</sup> Suite à une déclaration de la République populaire de Chine du 16 déc. 1999, la convention est applicable à la Région administrative spéciale de Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td>Vietnam\* <sup>a</sup></td><td>4 mars</td><td>2020 A</td><td>20 août</td><td>2022</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html](https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’adhésion est soumise à une procédure d’acceptation. La date d’entrée en vigueur est celle entre la Suisse et cet État partie ou ce territoire. <sup>b</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique due 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS. <sup>c</sup> Suite à une déclaration de la République populaire de Chine du 16 déc. 1999, la convention est applicable à la Région administrative spéciale de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212);[2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-2]: [RO 1994 2824](https://fedlex.data.admin.ch/eli/oc/1994/2824_2824_2824); [2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212); [2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103); [2024 288](https://fedlex.data.admin.ch/eli/oc/2024/288). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 Réserves et déclarations
 
@@ -468,9 +471,9 @@ Conformément à l’art. 23, la Suisse déclare que les commissions rogatoires 
 
 a) Autorités centrales cantonales
 
-Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: https://www.rhf.admin.ch &gt; Droit civil &gt; autorités &gt; Liste des autorités centrales cantonales
+Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: [www.rhf.admin.ch](http://www.rhf.admin.ch) &gt; Droit civil &gt; autorités &gt; Liste des autorités centrales cantonales
 
-Pour déterminer l’autorité centrale compétente à raison du lieu, on peut consulter en ligne la banque de données des localités et tribunaux suisses à l’adresse suivante: www.elorge.admin.ch
+Pour déterminer l’autorité centrale compétente à raison du lieu, on peut consulter en ligne la banque de données des localités et tribunaux suisses à l’adresse suivante: [www.elorge.admin.ch](http://www.elorge.admin.ch)
 
 b) Autorités fédérales
 

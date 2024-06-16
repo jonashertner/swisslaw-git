@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: "Convenzione del 18 marzo 1970 sull'assunzione all'estero delle prove in materia civile o commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: it
-version: 2021-02-19
+version: 2024-06-17
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20210219/it/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20210219-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20210219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20240617/it/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20240617-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20240617/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1994** 2824, **1995** 1085; FF **1993** III 1005
 
 Traduzione
 
-Conclusa all’Aja il 18 marzo 1970
+Conclusa all’Aja il 18 marzo 1970 Approvata dall’Assemblea federale il 9 giugno 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 2 novembre 1994 Entrata in vigore per la Svizzera il 1° gennaio 1995
 
-Approvata dall’Assemblea federale il 9 giugno 1994[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 2 novembre 1994
-
-Entrata in vigore per la Svizzera il 1° gennaio 1995
-
-(Stato 19 febbraio 2021)
+(Stato 17 giugno 2024)
 
 [^t-1]: Art. 2 cpv. 1 del DF del 9 giu. 1994 ([RU 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807)).
 
@@ -349,7 +343,7 @@ Il Ministero degli Affari Esteri dei Paesi Bassi notificherà agli Stati previst
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aja, il 18 marzo 1970, in francese ed in inglese, i due testi facenti ugualmente fede, in un unico esemplare che verrà depositato negli archivi del Governo dei Paesi Bassi e di cui una copia certificata conforme sarà inviata, per via diplomatica, a ciascuno degli Stati rappresentati all’Undicesima sessione della Conferenza dell’Aja sul diritto internazionale privato. (Seguono le firme)
 
-Campo d’applicazione il 19 febbraio 2021[^t-2]
+Campo d’applicazione il 17 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -376,6 +370,7 @@ Campo d’applicazione il 19 febbraio 2021[^t-2]
 <tr><td>Estonia\* <sup>a</sup></td><td>2 febbraio</td><td>1996 A</td><td>11 luglio</td><td>1998</td></tr>
 <tr><td>Finlandia\*</td><td>7 aprile</td><td>1976</td><td>6 giugno</td><td>1976</td></tr>
 <tr><td>Francia\*</td><td>7 agosto</td><td>1974</td><td>6 ottobre</td><td>1974</td></tr>
+<tr><td>Georgia\* <sup>a</sup></td><td>31 maggio</td><td>2021 A</td><td>20 agosto</td><td>2022</td></tr>
 <tr><td>Germania\*</td><td>27 aprile</td><td>1979</td><td>26 giugno</td><td>1979</td></tr>
 <tr><td>Grecia\*</td><td>18 gennaio</td><td>2005</td><td>19 marzo</td><td>2005</td></tr>
 <tr><td>India\* <sup>a</sup></td><td>7 febbraio</td><td>2007 A</td><td>23 novembre</td><td>2009</td></tr>
@@ -394,6 +389,7 @@ Campo d’applicazione il 19 febbraio 2021[^t-2]
 <tr><td>Messico\* <sup>a</sup></td><td>27 luglio</td><td>1989 A</td><td>13 gennaio</td><td>1995</td></tr>
 <tr><td>Monaco\* <sup>a</sup></td><td>17 gennaio</td><td>1986 A</td><td>13 gennaio</td><td>1995</td></tr>
 <tr><td>Montenegro\* <sup>a</sup></td><td>16 gennaio</td><td>2012 A</td><td>19 maggio</td><td>2015</td></tr>
+<tr><td>Nicaragua\* <sup>a</sup></td><td>27 febbraio</td><td>2019 A</td><td>20 agosto</td><td>2022</td></tr>
 <tr><td>Norvegia\*</td><td>3 agosto</td><td>1972</td><td>7 ottobre</td><td>1972</td></tr>
 <tr><td>Paesi Bassi\*</td><td>8 aprile</td><td>1981</td><td>7 giugno</td><td>1981</td></tr>
 <tr><td>Aruba\*</td><td>28 maggio</td><td>1986</td><td>27 luglio</td><td>1986</td></tr>
@@ -428,10 +424,11 @@ Campo d’applicazione il 19 febbraio 2021[^t-2]
 <tr><td>Ucraina\* <sup>a</sup></td><td>1° febbraio</td><td>2001 A</td><td>12 marzo</td><td>2002</td></tr>
 <tr><td>Ungheria\* <sup>a</sup></td><td>13 luglio</td><td>2004 A</td><td>11 novembre</td><td>2005</td></tr>
 <tr><td>Venezuela\* <sup>a</sup></td><td>1° novembre</td><td>1993 A</td><td>11 luglio</td><td>1998</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: [www.hcch.net](http://www.hcch.net) &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’adesione è sottoposta a una procedura d’accettazione. La data d’entrata in vigore è quella tra la Svizzera e questo Stato parte o questo territorio. <sup>b</sup> Fino al 30 giu. 1997, la Conv. era applicabile ad Hong Kong in base a une dichiarazione d’estensione territoriale della Gran Bretagna. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione sino-britannica del 19 dic. 1984, gli accordi che erano applicabili ad Hong Kong prima della sua retrocessione alle Repubblica Popolare Cinese restano applicabili alla RAS. <sup>c</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 16 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
+<tr><td>Vietnam\* <sup>a</sup></td><td>4 marzo</td><td>2020 A</td><td>20 agosto</td><td>2022</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo in inglese può essere consultato sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html](https://treatydatabase.overheid.nl/en/Treaty/Details/002883.html) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’adesione è sottoposta a una procedura d’accettazione. La data d’entrata in vigore è quella tra la Svizzera e questo Stato parte o questo territorio. <sup>b</sup> Fino al 30 giu. 1997, la Conv. era applicabile ad Hong Kong in base a une dichiarazione d’estensione territoriale della Gran Bretagna. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione sino-britannica del 19 dic. 1984, gli accordi che erano applicabili ad Hong Kong prima della sua retrocessione alle Repubblica Popolare Cinese restano applicabili alla RAS. <sup>c</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 16 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 1994 2824](https://fedlex.data.admin.ch/eli/oc/1994/2824_2824_2824); [2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212); [2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-2]: [RU 1994 2824](https://fedlex.data.admin.ch/eli/oc/1994/2824_2824_2824); [2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212); [2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103); [2024 288](https://fedlex.data.admin.ch/eli/oc/2024/288). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 
@@ -474,11 +471,11 @@ Conformemente all’articolo 23, la Svizzera dichiara che le rogatorie aventi pe
 
 a) Autorità centrali cantonali
 
-Una lista aggiornata delle autorità centrali cantonali con gli indirizzi completi può essere consultata all’indirizzo seguente: https://www.rhf.admin.ch &gt; Diritto civile &gt; autorità &gt; Lista delle autorità centrali cantonali
+Una lista aggiornata delle autorità centrali cantonali con gli indirizzi completi può essere consultata all’indirizzo seguente: [www.rhf.admin.ch](http://www.rhf.admin.ch) &gt; Diritto civile &gt; autorità &gt; Lista delle autorità centrali cantonali
 
 Per determinare l’autorità svizzera competente per luogo si può consultare la banca dati delle località e dei tribunali svizzeri all’indirizzo seguente:
 
-www.elorge.admin.ch
+[www.elorge.admin.ch](http://www.elorge.admin.ch)
 
 b) Autorità federali
 
