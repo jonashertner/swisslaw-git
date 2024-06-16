@@ -4,26 +4,28 @@ number: "410.112"
 title: Verordnung des Erziehungsrates betreffend private Schulen und privater Unterricht
 language: de
 version: 2023-04-01
+corrected: 2024-06-17
 version_adopted: 2023-03-28
 adopted: 2023-03-28
 in_force: 2023-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.112"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1476/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/467/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung des Erziehungsrates betreffend private Schulen und privater Unterricht
 
-Vom 28.03.2023 (Stand 01.04.2023)
+vom 28. März 2023
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 14a ff. des Schulgesetzes vom 27. April 1981,
 
-beschliesst:
+verordnet:
 
-## 1 Grundsätzliches
+### I. Grundsätzliches
 
 #### § 1
 
@@ -39,9 +41,11 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Das kantonale Schulinspektorat erstattet dem Erziehungsrat jährlich Bericht über die aktuelle Situation in den privaten Schulen sowie über die Gesuche und die Verläufe beim privaten Unterricht und vorübergehenden privaten Unterricht.
+Das kantonale Schulinspektorat erstattet dem Erziehungsrat jährlich Bericht über die aktuelle Situation in den privaten Schulen sowie über die Gesuche und die Verläufe beim privaten Unterricht und vorübergehenden privaten Unterricht.
 
-## 2 Private Schulen
+Amtsblatt 2023, S. 584
+
+### II. Private Schulen
 
 #### § 3
 
@@ -53,17 +57,27 @@ beschliesst:
 
 <sup>3</sup> Das Gesuch muss folgende Angaben enthalten:
 
-- a) Angaben zur Trägerschaft, weltanschaulichen Ausrichtung und Rechtsform der Schule
-- b) Pädagogisches Konzept mit Hinweis auf die Bildungsziele und Angaben zur Förderung und Beurteilung der Schülerinnen und Schüler
-- c) Angaben zum geplanten Schulangebot und zur geplanten Grösse der Schule, zur Schul- und Unterrichtsorganisation sowie zu den Aufnahmebedingungen
-- d) Angaben zum sonderpädagogischen Grundangebot
-- e) Angaben zur Qualitätssicherung
-- f) Angaben zu den Leitungspersonen der privaten Schule und zum geplanten Lehrkörper
-- g) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem für sämtliche Leitungspersonen
-- h) Nennung von Lehrdiplomen oder Ausbildungsabschlüssen, welche neben den von der EDK anerkannten Lehrdiplomen zugelassen werden sollen
-- i) Businessplan mit Finanzierungsnachweis
-- j) Angaben zum Standort der Schule und zu den Schulräumlichkeiten, zu Spiel- und Pausenplätzen und weiteren Einrichtungen
-- k) Bestätigung der Zonenkonformität durch die Standortgemeinde sowie Bestätigung der Erfüllung von baulichen und feuerpolizeilichen Sicherheitsvorschriften
+- a) Angaben zur Trägerschaft, weltanschaulichen Ausrichtung und Rechtsform der Schule;
+
+- b) Pädagogisches Konzept mit Hinweis auf die Bildungsziele und Angaben zur Förderung und Beurteilung der Schülerinnen und Schüler;
+
+- c) Angaben zum geplanten Schulangebot und zur geplanten Grösse der Schule, zur Schul- und Unterrichtsorganisation sowie zu den Aufnahmebedingungen;
+
+- d) Angaben zum sonderpädagogischen Grundangebot;
+
+- e) Angaben zur Qualitätssicherung;
+
+- f) Angaben zu den Leitungspersonen der privaten Schule und zum geplanten Lehrkörper;
+
+- g) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem für sämtliche Leitungspersonen;
+
+- h) Nennung von Lehrdiplomen oder Ausbildungsabschlüssen, welche neben den von der EDK anerkannten Lehrdiplomen zugelassen werden sollen;
+
+- i) Businessplan mit Finanzierungsnachweis;
+
+- j) Angaben zum Standort der Schule und zu den Schulräumlichkeiten, zu Spiel- und Pausenplätzen und weiteren Einrichtungen;
+
+- k) Bestätigung der Zonenkonformität durch die Standortgemeinde sowie Bestätigung der Erfüllung von baulichen und feuerpolizeilichen Sicherheitsvorschriften.
 
 <sup>4</sup> Der zuständige Schulinspektor bzw. die zuständige Schulinspektorin prüft die eingegangenen Unterlagen. Er bzw. sie kann weitere Belege und sachdienliche Auskünfte verlangen.
 
@@ -99,12 +113,17 @@ beschliesst:
 
 <sup>1</sup> Die private Schule führt ein Verzeichnis mit folgenden Angaben:
 
-- a) Anzahl geführter Klassen
-- b) Anzahl Kinder pro Klasse
-- c) Namen aller Leitungspersonen
-- d) Name und Ausbildungsabschluss jeder Lehrperson
-- e) Namen aller weiteren am Unterricht beteiligten Personen
-- f) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem von allen Lehrpersonen und weiteren am Unterricht beteiligten Personen
+- a) Anzahl geführter Klassen;
+
+- b) Anzahl Kinder pro Klasse;
+
+- c) Namen aller Leitungspersonen;
+
+- d) Name und Ausbildungsabschluss jeder Lehrperson;
+
+- e) Namen aller weiteren am Unterricht beteiligten Personen;
+
+- f) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem von allen Lehrpersonen und weiteren am Unterricht beteiligten Personen.
 
 <sup>2</sup> Die Angaben gemäss Abs. 1 lit. a bis e sind dem zuständigen Schulinspektor bzw. der zuständigen Schulinspektorin jeweils vor Beginn jedes Schuljahres oder auf Verlangen hin zuzustellen.
 
@@ -126,9 +145,11 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung wird auf Antrag des zuständigen Schulinspektors bzw. der zuständigen Schulinspektorin entzogen, wenn alternativ:
 
-- a) eine oder mehrere Bewilligungsvoraussetzungen nicht mehr erfüllt sind
-- b) angeordnete Massnahmen erfolglos bleiben bzw. nicht umgesetzt oder Auflagen nicht erfüllt werden
-- c) schwerwiegende Mängel oder Missstände festgestellt werden, wodurch das Wohl oder die Sicherheit der Kinder akut gefährdet ist
+- a) eine oder mehrere Bewilligungsvoraussetzungen nicht mehr erfüllt sind;
+
+- b) angeordnete Massnahmen erfolglos bleiben bzw. nicht umgesetzt oder Auflagen nicht erfüllt werden;
+
+- c) schwerwiegende Mängel oder Missstände festgestellt werden, wodurch das Wohl oder die Sicherheit der Kinder akut gefährdet ist.
 
 <sup>2</sup> Der Erziehungsrat trifft die zur Schliessung der privaten Schule erforderlichen Anordnungen.
 
@@ -138,11 +159,9 @@ beschliesst:
 
 <sup>1</sup> Wechselt ein Kind aus einer privaten Schule in die öffentliche Schule, erfolgt die Schulhaus- und Klassenzuteilung in der Regel durch die zuständige Gemeinde. Abs. 2 bleibt vorbehalten.
 
-<sup>2</sup> Bei Kindern, welche mit dem Schulstoff der Sekundarstufe I unterrichtet wurden, finden die Bestimmungen der Verordnung des Erziehungsrates über Zeugnisse und Beförderung der Schülerinnen und Schüler an der Primar- und Sekundarstufe I (Promotionsordnung Primar- und Sekundarstufe I)[^10-1] Anwendung.
+<sup>2</sup> Bei Kindern, welche mit dem Schulstoff der Sekundarstufe I unterrichtet wurden, finden die Bestimmungen der Verordnung des Erziehungsrates über Zeugnisse und Beförderung der Schülerinnen und Schüler an der Primar- und Sekundarstufe I (Promotionsordnung Primar- und Sekundarstufe I) <sup>1)</sup> Anwendung.
 
-[^10-1]: SHR [411.102](https://rechtsbuch.sh.ch/data/411.102/de).
-
-## 3 Privater Unterricht
+### III. Privater Unterricht
 
 #### § 11
 
@@ -152,15 +171,23 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch muss alle sachdienlichen, mindestens aber folgende Angaben und Unterlagen enthalten:
 
-- a) Beweggründe
-- b) Name und Geburtsdatum der Kinder, welche privat unterrichtet werden sollen
-- c) Namen und EDK-anerkannte Lehrdiplome aller unterrichtenden Personen
-- d) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem aller unterrichtenden Personen, mit Ausnahme der Erziehungsberechtigten
-- e) Jahresplanung (fachliche und überfachliche Kompetenzen) gemäss geltendem Lehrplan
-- f) Angaben zu den Unterrichtszeiten. Der Unterricht umfasst im 1. und 2. Zyklus mindestens 80%, im 3. Zyklus mindestens 70% der Anzahl Wochenlektionen gemäss Richtlinien zur Gestaltung der Stundenpläne. Der Unterricht findet mindestens an vier Tagen pro Woche statt
-- g) Angaben zur Beurteilung der Kinder
-- h) Lehrmittelliste
-- i) Angaben zu den Räumlichkeiten, in welchen der Unterricht stattfinden soll
+- a) Beweggründe;
+
+- b) Name und Geburtsdatum der Kinder, welche privat unterrichtet werden sollen;
+
+- c) Namen und EDK-anerkannte Lehrdiplome aller unterrichtenden Personen;
+
+- d) Privatauszug und Sonderprivatauszug aus dem Strafregister-Informationssystem aller unterrichtenden Personen, mit Ausnahme der Erziehungsberechtigten;
+
+- e) Jahresplanung (fachliche und überfachliche Kompetenzen) gemäss geltendem Lehrplan;
+
+- f) Angaben zu den Unterrichtszeiten. Der Unterricht umfasst im 1. und 2. Zyklus mindestens 80%, im 3. Zyklus mindestens 70% der Anzahl Wochenlektionen gemäss Richtlinien zur Gestaltung der Stundenpläne. Der Unterricht findet mindestens an vier Tagen pro Woche statt;
+
+- g) Angaben zur Beurteilung der Kinder;
+
+- h) Lehrmittelliste;
+
+- i) Angaben zu den Räumlichkeiten, in welchen der Unterricht stattfinden soll.
 
 <sup>3</sup> Das kantonale Schulinspektorat stellt die entsprechenden Gesuchformulare zur Verfügung.
 
@@ -198,11 +225,13 @@ beschliesst:
 
 **Entzug der Bewilligung**
 
-<sup>1</sup> Die Bewilligung wird entzogen, wenn alternativ:
+Die Bewilligung wird entzogen, wenn alternativ:
 
-- a) eine oder mehrere Bewilligungsvoraussetzungen nicht mehr erfüllt sind
-- b) angeordnete Massnahmen erfolglos bleiben bzw. nicht umgesetzt oder Auflagen nicht erfüllt werden
-- c) schwerwiegende Mängel oder Missstände festgestellt werden, wodurch das Wohl oder die Sicherheit der Kinder akut gefährdet ist
+- a) eine oder mehrere Bewilligungsvoraussetzungen nicht mehr erfüllt sind;
+
+- b) angeordnete Massnahmen erfolglos bleiben bzw. nicht umgesetzt oder Auflagen nicht erfüllt werden;
+
+- c) schwerwiegende Mängel oder Missstände festgestellt werden, wodurch das Wohl oder die Sicherheit der Kinder akut gefährdet ist.
 
 #### § 16
 
@@ -212,9 +241,9 @@ beschliesst:
 
 <sup>2</sup> Bei Kindern, welche mit dem Schulstoff der Sekundarstufe I unterrichtet wurden, finden die Bestimmungen gemäss der Promotionsordnung Primar- und Sekundarstufe I[^16-1] Anwendung.
 
-[^16-1]: SHR [411.102](https://rechtsbuch.sh.ch/data/411.102/de).
+[^16-1]: SHR 411.102.
 
-## 4 Vorübergehender privater Unterricht
+### IV. Vorübergehender privater Unterricht
 
 #### § 17
 
@@ -224,11 +253,15 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch muss alle sachdienlichen, mindestens aber folgende Angaben und Unterlagen enthalten:
 
-- a) Beweggründe
-- b) Name und Geburtsdatum der Kinder, welche vorübergehend privat unterrichtet werden sollen
-- c) Dauer des vorübergehenden privaten Unterrichts
-- d) Namen und Angaben zu allen unterrichtenden Personen
-- e) Detaillierte Unterrichtsplanung (fachliche und überfachliche Kompetenzen) gemäss geltendem Lehrplan. Die Planung ist mit den Lehrpersonen der Kinder abzusprechen
+- a) Beweggründe;
+
+- b) Name und Geburtsdatum der Kinder, welche vorübergehend privat unterrichtet werden sollen;
+
+- c) Dauer des vorübergehenden privaten Unterrichts;
+
+- d) Namen und Angaben zu allen unterrichtenden Personen;
+
+- e) Detaillierte Unterrichtsplanung (fachliche und überfachliche Kompetenzen) gemäss geltendem Lehrplan. Die Planung ist mit den Lehrpersonen der Kinder abzusprechen.
 
 <sup>3</sup> Das kantonale Schulinspektorat stellt das entsprechende Gesuchformular zur Verfügung.
 
@@ -244,9 +277,9 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Erziehungsberechtigten erstatten dem zuständigen Schulinspektor bzw. der zuständigen Schulinspektorin innert einem Monat nach Beendigung des vorübergehenden privaten Unterrichts einen Bericht über die Durchführung und den Verlauf des Unterrichts.
+Die Erziehungsberechtigten erstatten dem zuständigen Schulinspektor bzw. der zuständigen Schulinspektorin innert einem Monat nach Beendigung des vorübergehenden privaten Unterrichts einen Bericht über die Durchführung und den Verlauf des Unterrichts.
 
-## 5 Schlussbestimmung
+### V. Schlussbestimmung
 
 #### § 20
 
@@ -256,6 +289,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^20-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^20-1]: Amtsblatt 2023, S. 584.
+Fussnoten:
 
-Abl. 2023, S. 584
+[^20-1]: Amtsblatt 2023, S. 584.
