@@ -5,28 +5,28 @@ title: Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte
 short: ViCLAS-Konkordat
 language: de
 version: 2012-11-01
+corrected: 2024-06-17
 version_adopted: 2009-04-02
 adopted: 2009-04-02
 in_force: 2012-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.430"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1475/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/384/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten
+# Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009 (ViCLAS-Konkordat)
 
-(ViCLAS-Konkordat)
+Die Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) verabschiedet in Ausführung von Art. 56 sowie
 
-Vom 02.04.2009 (Stand 01.11.2012)
+#### Art. 57
 
-Die Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD),
+**der Bundesverfassung folgende interkantonale Vereinba-**
 
-in Ausführung von Art. 56 sowie Art. 57 der Bundesverfassung,
+rung (bzw. folgenden Konkordatstext):
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+- 1\. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -35,15 +35,18 @@ beschliesst:
 <sup>1</sup> Die interkantonale Vereinbarung (bzw. das Konkordat; nachstehend: Vereinbarung) bezweckt die effiziente Bekämpfung der (seriellen) Gewalt- und Sexualkriminalität durch interkantonale Zusammenarbeit, indem insbesondere:
 
 - a) die rechtliche Grundlage für den kantonsübergreifenden Einsatz des Analyseinstrumentes ViCLAS zur Verhinderung und Aufklärung von Delikten gegen die physische und sexuelle Integrität geschaffen und
-- b) die überkantonale Zusammenführung und Auswertung kantonaler Ermittlungsergebnisse und Strafverfahren ermöglicht wird
 
-<sup>2</sup> Diese Vereinbarung regelt, unter welchen Voraussetzungen ViCLAS durch die der Vereinbarung angeschlossenen Kantone sowie dem Fürstentum Liechtenstein eingesetzt wird.
+- b) die überkantonale Zusammenführung und Auswertung kantonaler Ermittlungsergebnisse und Strafverfahren ermöglicht wird.
+
+<sup>2</sup> Diese Vereinbarung regelt, unter welchen Voraussetzungen ViC-LAS durch die der Vereinbarung angeschlossenen Kantone sowie dem Fürstentum Liechtenstein eingesetzt wird.
 
 #### Art. 2
 
 **Begriff**
 
-<sup>1</sup> ViCLAS (Violent Crime Linkage Analysis System) ist ein auf bestehenden Ermittlungsergebnissen basierendes Analysesystem für Gewalt- und Sexualdelikte, das die Grundlage für neue Ermittlungsansätze (Tat-Täter-Zusammenhänge beziehungsweise Tat-Tat-Zusammenhänge) bildet. Es dient dazu, deliktspezifische Informationen sprachunabhängig auswertbar zu machen.
+ViCLAS (Violent Crime Linkage Analysis System) ist ein auf bestehenden Ermittlungsergebnissen basierendes Analysesystem für Gewalt- und Sexualdelikte, das die Grundlage für neue Ermittlungsansätze (Tat-Täter-Zusammenhänge beziehungsweise Tat-Tat-Zusammenhänge) bildet. Es dient dazu, deliktspezifische Informationen sprachunabhängig auswertbar zu machen.
+
+Amtsblatt 2012, S. 137
 
 #### Art. 3
 
@@ -53,16 +56,19 @@ beschliesst:
 
 <sup>2</sup> Mit ViCLAS werden Verhaltensweisen und / oder Umstände erfasst, welche in Zusammenhang mit Delikten gegen die physische bzw. sexuelle Integrität stehen bzw. darauf hindeuten oder sexuell motiviert sind und sich für eine Analyse und Recherche in ViCLAS eignen. Dies beinhaltet insbesondere:
 
-- a) Tötungsdelikte (inkl. Versuche)
-- b) Straftaten gegen die sexuelle Selbstbestimmung (inkl. Versuche und Antragsdelikte)
-- c) Vermisstenfälle, wenn die Gesamtumstände auf ein Verbrechen hindeuten
-- d) verdächtiges Ansprechen von Kindern und Jugendlichen, wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist
-- e) Entführungen (ohne elterliche Kindesentführung und ohne Entziehen von Unmündigen durch Inhaber der elterlichen Gewalt)
-- f) Tierquälerei im Sinn von Art. 26 Abs. 1 Bst. a und b des Tierschutzgesetzes vom 16. Dezember 2005 (Stand 1. September 2008; TSchG)[^3-1] wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist
+- a) Tötungsdelikte (inkl. Versuche),
 
-[^3-1]: SR [455](http://db.clex.ch/link/Bund/455/de).
+- b) Straftaten gegen die sexuelle Selbstbestimmung (inkl. Versuche und Antragsdelikte),
 
-## 2 Organisation, Zuständigkeiten
+- c) Vermisstenfälle, wenn die Gesamtumstände auf ein Verbrechen hindeuten,
+
+- d) verdächtiges Ansprechen von Kindern und Jugendlichen, wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist,
+
+- e) Entführungen (ohne elterliche Kindesentführung und ohne Entziehen von Unmündigen durch Inhaber der elterlichen Gewalt),
+
+- f) Tierquälerei im Sinn von Art. 26 Abs. 1 Buchstaben a und b des Tierschutzgesetzes vom 16. Dezember 2005 (Stand 1. September 2008; TSchG) <sup>1)</sup> wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist.
+
+- 2\. Organisation, Zuständigkeiten
 
 #### Art. 4
 
@@ -72,16 +78,23 @@ beschliesst:
 
 <sup>2</sup> In ViCLAS werden standardmässig alle verfügbaren ermittlungsrelevanten Informationen zu den nachfolgenden Bereichen aufgenommen:
 
-- a) Angaben über die Täterschaft und ihre Lebenssituation
-- b) Angaben über die Opfer und deren Lebenssituation
-- c) Angaben über Täter-Opferbeziehung
-- d) Angaben zur Tat und zur Vorgehensweise der Täterschaft
-- e) Angaben zu Verletzungen und Todesursachen
-- f) Angaben über die Tatorte
-- g) Art der verwendeten Waffen und Gegenstände
-- h) Angaben zu Fahrzeugen, die in einem Zusammenhang mit der Tat und / oder der Täterschaft stehen
+- a) Angaben über die Täterschaft und ihre Lebenssituation,
 
-<sup>3</sup> Abs. 2 ist ebenso anwendbar auf polizeilich ermittelte, jedoch nicht oder noch nicht gerichtlich beurteilte Daten.
+- b) Angaben über die Opfer und deren Lebenssituation,
+
+- c) Angaben über Täter-Opferbeziehung,
+
+- d) Angaben zur Tat und zur Vorgehensweise der Täterschaft,
+
+- e) Angaben zu Verletzungen und Todesursachen,
+
+- f) Angaben über die Tatorte,
+
+- g) Art der verwendeten Waffen und Gegenstände,
+
+- h) Angaben zu Fahrzeugen, die in einem Zusammenhang mit der Tat und / oder der Täterschaft stehen.
+
+<sup>3</sup> Absatz 2 ist ebenso anwendbar auf polizeilich ermittelte, jedoch nicht oder noch nicht gerichtlich beurteilte Daten.
 
 #### Art. 5
 
@@ -95,7 +108,7 @@ beschliesst:
 
 <sup>4</sup> Die strategische Leitung von ViCLAS wird durch den Lenkungsausschuss ViCLAS wahrgenommen. Diesem gehören der Chef bzw. Chefin der Kriminalabteilung der Zentralstelle (Vorsitz) und die Chefs bzw. Chefinnen der Kriminalpolizeien der 5 Aussenstellen an. Der Lenkungsausschuss ist der Konferenz der kantonalen Polizeikommandanten (KKPKS) rechenschaftspflichtig. Diese übt die Aufsicht über die Einhaltung der Vereinbarung aus.
 
-## 3 Betrieb und Datenschutz
+- 3\. Betrieb und Datenschutz
 
 #### Art. 6
 
@@ -109,9 +122,7 @@ beschliesst:
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Das Datenbearbeitungssystem wird von der Kantonspolizei Bern für die ganze Schweiz betrieben. Der Betrieb des Analysesystems ViCLAS wird mit der Betriebsbewilligung des Regierungsrates des Kantons Bern gemäss Art. 52 Abs. 5 des Polizeigesetzes des Kantons Bern vom 8. Juni 1997 (PolG)[^7-1] geregelt.
-
-[^7-1]: BSG 551.5.
+Das Datenbearbeitungssystem wird von der Kantonspolizei Bern für die ganze Schweiz betrieben. Der Betrieb des Analysesystems ViCLAS wird mit der Betriebsbewilligung des Regierungsrates des Kantons Bern gemäss Art. 52 Abs. 5 des Polizeigesetzes des Kantons Bern vom 8. Juni 1997 (PolG) <sup>2)</sup> geregelt.
 
 #### Art. 8
 
@@ -121,24 +132,23 @@ beschliesst:
 
 <sup>2</sup> Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
-- a) Die Aussenstellen können ihre eigenen Daten mutieren und haben ein Leserecht für die Daten der anderen Aussenstellen sowie der Zentralstelle
-- b) Das Recht, den ganzen Datensatz, d.h. auch die Daten der fünf ViCLAS-Aussenstellen zu mutieren, kommt ausschliesslich der Zentralstelle zu
-- c) Die Löschung erfolgt durch die Zentralstelle
+- a) Die Aussenstellen können ihre eigenen Daten mutieren und haben ein Leserecht für die Daten der anderen Aussenstellen sowie der Zentralstelle.
+
+- b) Das Recht, den ganzen Datensatz, d.h. auch die Daten der fünf ViCLAS-Aussenstellen zu mutieren, kommt ausschliesslich der Zentralstelle zu.
+
+- c) Die Löschung erfolgt durch die Zentralstelle.
 
 #### Art. 9
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Verantwortung für die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit liegt beim Polizeikommandanten beziehungsweise bei der Polizeikommandantin des Kantons Bern. Die ViCLAS-Mitarbeiter und ‑Mitarbeiterinnen der Zentralstelle sowie der Aussenstellen sind daneben auch persönlich für die Einhaltung der Anliegen und Vorgaben des Datenschutzes verantwortlich.
+Die Verantwortung für die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit liegt beim Polizeikommandanten beziehungsweise bei der Polizeikommandantin des Kantons Bern. Die ViCLAS-Mitarbeiter und -Mitarbeiterinnen der Zentralstelle sowie der Aussenstellen sind daneben auch persönlich für die Einhaltung der Anliegen und Vorgaben des Datenschutzes verantwortlich.
 
 #### Art. 10
 
 **Akteneinsichtsrecht**
 
-<sup>1</sup> Verlangt eine Person nach Massgabe des anwendbaren kantonalen Datenschutzrechts Auskunft oder Einsicht in die von der Polizei über sie bearbeiteten Daten, ist die zuständige kantonale Polizeibehörde zur Weiterleitung des Gesuchs als Teilgesuch an die zuständige Aussenstelle verpflichtet, wenn:
-
-- a) sich aus den bearbeiteten Daten Anhaltspunkte für einen ViCLAS-Eintrag ergeben oder
-- b) der Gesuchsteller oder die Gesuchstellerin dies verlangt
+<sup>1</sup> Verlangt eine Person nach Massgabe des anwendbaren kantonalen Datenschutzrechts Auskunft oder Einsicht in die von der Polizei über sie bearbeiteten Daten, ist die zuständige kantonale Polizeibehörde zur Weiterleitung des Gesuchs als Teilgesuch an die zuständige Aussenstelle verpflichtet, wenn a) sich aus den bearbeiteten Daten Anhaltspunkte für einen Vi-CLAS-Eintrag ergeben oder b) der Gesuchsteller oder die Gesuchstellerin dies verlangt.
 
 <sup>2</sup> Es ist zulässig, Gesuche um Auskunft und Einsicht unmittelbar an die Aussenstelle oder die Zentralstelle zu richten.
 
@@ -158,11 +168,9 @@ beschliesst:
 
 **Verfahren und Rechtsschutz**
 
-<sup>1</sup> Die im Zusammenhang mit ViCLAS stehenden Auskunfts- und Berichtigungsgesuche sowie alle anderen im Zusammenhang mit der vorliegenden Vereinbarung stehenden datenschutzrechtlichen Ansprüche richten sich – soweit diese Vereinbarung keine abweichenden Regelungen enthält – nach dem Datenschutzgesetz des Kantons Bern vom 19. Februar 1986 (KDSG)[^12-1].
+<sup>1</sup> Die im Zusammenhang mit ViCLAS stehenden Auskunfts- und Berichtigungsgesuche sowie alle anderen im Zusammenhang mit der vorliegenden Vereinbarung stehenden datenschutzrechtlichen Ansprüche richten sich – soweit diese Vereinbarung keine abweichenden Regelungen enthält – nach dem Datenschutzgesetz des Kantons Bern vom 19. Februar 1986 (KDSG) <sup>3)</sup>.
 
 <sup>2</sup> Zuständige Datenaufsichtsstelle ist die Datenaufsichtsstelle des Kantons Bern.
-
-[^12-1]: BSG [152.04](http://db.clex.ch/link/BE/152.04/de).
 
 #### Art. 13
 
@@ -170,20 +178,27 @@ beschliesst:
 
 <sup>1</sup> Die in ViCLAS erfassten Datensätze werden gemäss den nachfolgenden Fristen gelöscht:
 
-- a) Die Datensätze werden im Analysesystem grundsätzlich 40 Jahre ab Eingabe gespeichert. Die Daten werden nach dieser Frist oder nach Ableben der Tatbeteiligten gelöscht
-- b) Die Frist kann in Fällen erheblicher Wiederholungsgefahr und in Absprache mit der betroffenen Polizei auf Antrag der Zentralstelle durch die zuständige richterliche Behörde des betreffenden Kantons um jeweils fünf Jahre verlängert werden
-- c) Bei Wiederholungstätern ist für den Beginn des Fristenlaufs das letzte im Analysesystem erfasste Delikt massgebend
-- d) Der Fristenlauf steht still während dem Vollzug einer Freiheitsstrafe oder einer stationären Massnahme
+- a) Die Datensätze werden im Analysesystem grundsätzlich 40 Jahre ab Eingabe gespeichert. Die Daten werden nach dieser Frist oder nach Ableben der Tatbeteiligten gelöscht.
+
+- b) Die Frist kann in Fällen erheblicher Wiederholungsgefahr und in Absprache mit der betroffenen Polizei auf Antrag der Zentralstelle durch die zuständige richterliche Behörde des betreffenden Kantons um jeweils fünf Jahre verlängert werden.
+
+- c) Bei Wiederholungstätern ist für den Beginn des Fristenlaufs das letzte im Analysesystem erfasste Delikt massgebend.
+
+- d) Der Fristenlauf steht still während dem Vollzug einer Freiheitsstrafe oder einer stationären Massnahme.
+
 - e) Die gespeicherten Datensätze über die (mutmassliche) Täterschaft sind von Amtes wegen zu löschen:
-  - 1\. unter Vorbehalt von Buchstabe f nach einem Freispruch bezüglich der Daten, welche diesen Freispruch betreffen oder
-  - 2\. sobald gegen einen (mutmasslich) Tatbeteiligten ein Verdacht definitiv ausgeräumt ist
-- f) Erfolgte ein Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters, so wird bezüglich der Datenlöschung gemäss den Grundsätzen von Buchstaben a bis d vorgegangen
+
+- unter Vorbehalt von Buchstabe f nach einem Freispruch bezüglich der Daten, welche diesen Freispruch betreffen, oder
+
+- sobald gegen einen (mutmasslich) Tatbeteiligten ein Verdacht definitiv ausgeräumt ist.
+
+- f) Erfolgte ein Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters, so wird bezüglich der Datenlöschung gemäss den Grundsätzen von Buchstaben a bis d vorgegangen.
 
 <sup>2</sup> Für Daten von Opfern und bei Registrierungen nach Art. 3 Abs. 2 Buchstabe d überprüft die Zentralstelle auf Gesuch hin unabhängig von den festgelegten Fristen, ob die vorhandenen Daten noch benötigt werden. Alle nicht mehr benötigten Daten werden im Analysesystem gelöscht. Daten von Opfern können auf Gesuch anonymisiert werden.
 
 <sup>3</sup> Die Behörden, die für die Meldung der löschungspflichtigen Daten beziehungsweise des Friststillstands während des Vollzugs einer Freiheitsstrafe oder einer Massnahme zuständig sind, werden durch das kantonale Recht bestimmt.
 
-## 4 Finanzierung
+- 4\. Finanzierung
 
 #### Art. 14
 
@@ -195,19 +210,17 @@ beschliesst:
 
 <sup>3</sup> Anfallende Lizenzkosten sowie vom Lenkungsausschuss beschlossene Ausgaben für systembedingte Erneuerungen und Anschaffungen werden auf die Vereinbarungspartner proportional zur Einwohnerzahl aufgeteilt.
 
-## 5 Schlussbestimmungen
+- 5\. Schlussbestimmungen
 
 #### Art. 15
 
 **Beitritt und Kündigung**
 
-<sup>1</sup> Jeder Kanton kann der Vereinbarung jederzeit beitreten[^15-1]. Der Beitritt wird sofort wirksam.
+<sup>1</sup> Jeder Kanton kann der Vereinbarung jederzeit beitreten. Der Beitritt wird sofort wirksam.
 
 <sup>2</sup> Jeder Vertragspartner kann seine Mitgliedschaft unter Einhaltung einer Frist von sechs Monaten auf das Ende eines Kalenderjahres kündigen. Ein Austritt hat keinen Einfluss auf den bis dahin eingegebenen Datenbestand.
 
 <sup>3</sup> Das Beitrittsgesuch sowie die Kündigung sind an die KKJPD zu richten.
-
-[^15-1]: Beitritt des Kantons Schaffhausen durch KRB vom 23. Januar 2012 (Amtsblatt 2012, S. 136; in Kraft getreten am 1. November 2012 (Amtsblatt 2012, S. 1579).
 
 #### Art. 16
 
@@ -221,23 +234,21 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Vereinbarung tritt in Kraft[^17-1], sobald ihm der Kanton Bern sowie mindestens zwei weitere Kantone beigetreten sind.
+<sup>1</sup> Die Vereinbarung tritt in Kraft <sup>5)</sup>, sobald ihm der Kanton Bern sowie mindestens zwei weitere Kantone beigetreten sind.
 
 <sup>2</sup> Änderungen der Vereinbarung bedürfen der Zustimmung aller Vertragspartner.
-
-[^17-1]: In Kraft getreten am 1. Mai 2010.
 
 #### Art. 18
 
 **Notifikation an den Bund**
 
-<sup>1</sup> Das Generalsekretariat der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD) informiert die Bundeskanzlei über die vorliegende Vereinbarung. Das Verfahren richtet sich nach Art. 27o RVOV (SR [172.010.1](http://db.clex.ch/link/Bund/172.010.1/de)).
+Das Generalsekretariat der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) informiert die Bundeskanzlei über die vorliegende Vereinbarung. Das Verfahren richtet sich nach Art. 27o RVOV (SR 172.010.1).
 
 #### Art. 19
 
 **Fürstentum Liechtenstein**
 
-<sup>1</sup> Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der anderen Vereinbarungspartner zu.
+Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der anderen Vereinbarungspartner zu.
 
 #### Art. 20
 
@@ -247,13 +258,11 @@ beschliesst:
 
 <sup>2</sup> Schiedsgerichtsinstanz ist der Vorstand der KKJPD.
 
-<sup>3</sup> Die Bestimmungen des Konkordats über die Schiedsgerichtsbarkeit vom 27. März 1969[^20-1] finden Anwendung.
+<sup>3</sup> Die Bestimmungen des Konkordats über die Schiedsgerichtsbarkeit vom 27. März 1969 <sup>4)</sup> finden Anwendung.
 
 <sup>4</sup> Das Schiedsgericht entscheidet endgültig.
 
 <sup>5</sup> Für besondere Fälle kann es ein unabhängiges Schiedsgericht einsetzen.
-
-[^20-1]: BSG 279.2.
 
 #### Art. 21
 
@@ -269,4 +278,14 @@ beschliesst:
 
 <sup>5</sup> Daten von Vorkommnissen nach Art. 3, welche sich vor Inkrafttreten dieser Vereinbarung ereignet haben, dürften nur dann neu erfasst werden, sofern diese den in dieser Vereinbarung aufgestellten Grundsätzen nicht widersprechen.
 
-Abl. 2012, S. 137, 1579
+Fussnoten:
+
+- 1) SR 455.
+
+- 2) BSG 551.5.
+
+- 3) BSG 152.04.
+
+- 4) BSG 279.2.
+
+- 5) In Kraft getreten am 1. Mai 2010.
