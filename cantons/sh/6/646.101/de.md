@@ -1,29 +1,31 @@
 ---
 canton: SH
 number: "646.101"
-title: Verordnung zum Gesetz über die Besteuerung von Wasserfahrzeugen
+title: Verordnung zum Gesetz vom 24. Juni 1985 über die Besteuerung von Wasserfahrzeugen
 language: de
 version: 1986-02-21
+corrected: 2024-06-17
 version_adopted: 1986-02-18
 adopted: 1986-02-18
 in_force: 1986-02-21
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/646.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1411/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/194/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Gesetz über die Besteuerung von Wasserfahrzeugen
+# Verordnung zum Gesetz vom 24. Juni 1985 über die Besteuerung von Wasserfahrzeugen
 
-Vom 18.02.1986 (Stand 21.02.1986)
+vom 18. Februar 1986
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 7 des Gesetzes über die Besteuerung von Wasserfahrzeugen vom 24. Juni 1985[^ingress-1],
+gestützt auf Art. 7 des Gesetzes über die Besteuerung von Wasserfahrzeugen vom 24. Juni 1985[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [646.100](https://rechtsbuch.sh.ch/data/646.100/de).
+[^t-1]: SHR 646.100.
 
 #### § 1
 
@@ -41,7 +43,11 @@ beschliesst:
 
 #### § 3
 
-<sup>1</sup> Als Ausweis für die bezahlte Steuer werden für die Steuerperiode zwei Vignetten abgegeben. Diese dürfen nur für das entsprechende Wasserfahrzeug verwendet werden und sind beidseitig am Bug vor der Kontrollnummer anzubringen.
+Als Ausweis für die bezahlte Steuer werden für die Steuerperiode zwei Vignetten abgegeben. Diese dürfen nur für das entsprechende Wasser-
+
+Amtsblatt 1986, S. 167; Rechtsbuch 1964, Nr. 301a.
+
+fahrzeug verwendet werden und sind beidseitig am Bug vor der Kontrollnummer anzubringen.
 
 #### § 4
 
@@ -53,25 +59,26 @@ beschliesst:
 
 #### § 5
 
-<sup>1</sup> Die kantonale Schiffahrtskontrolle ist zuständig für:
+Die kantonale Schiffahrtskontrolle ist zuständig für:
 
-- a) Steuerveranlagung und Steuerbezug
-- b) Verfügungen betreffend Nachzahlung und Rückerstattung von Steuern
+- a) Steuerveranlagung und Steuerbezug;
+
+- b) Verfügungen betreffend Nachzahlung und Rückerstattung von Steuern.
 
 #### § 6
 
-<sup>1</sup> Das Rekursverfahren gegen Verfügungen der kantonalen Schiffahrtskontrolle richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen[^6-1].
+Das Rekursverfahren gegen Verfügungen der kantonalen Schiffahrtskontrolle richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen.[^6-1]
 
-[^6-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^6-1]: SHR 172.200.
 
 #### § 7
 
-<sup>1</sup> Ansprüche auf Nachzahlung oder Rückerstattung von Wasserfahrzeugsteuern sind verjährt, wenn sie nicht innerhalb von fünf Jahren nach Entstehen des Anspruchs geltend gemacht werden.
+Ansprüche auf Nachzahlung oder Rückerstattung von Wasserfahrzeugsteuern sind verjährt, wenn sie nicht innerhalb von fünf Jahren nach Entstehen des Anspruchs geltend gemacht werden.
 
 #### § 8
 
-<sup>1</sup> Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft[^8-1] und ist in die kantonale Gesetzessammlung aufzunehmen.
+Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft[^8-1] und ist in die kantonale Gesetzessammlung aufzunehmen.
+
+Fussnoten:
 
 [^8-1]: In Kraft getreten am 21. Februar 1986 (Amtsblatt 1986, S. 167).
-
-Abl. 1986, S. 167
