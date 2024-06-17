@@ -5,26 +5,26 @@ title: Gesetz über die öffentliche Sozialhilfe und soziale Einrichtungen
 short: SHEG
 language: de
 version: 2018-07-01
+corrected: 2024-06-18
 version_adopted: 2018-01-22
 adopted: 2013-10-28
 in_force: 2014-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/850.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1705/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/90/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die öffentliche Sozialhilfe und soziale Einrichtungen
+# Gesetz über die öffentliche Sozialhilfe und soziale Einrichtungen (SHEG)
 
-(SHEG)
+vom 28. Oktober 2013
 
-Vom 28.10.2013 (Stand 01.07.2018)
+Der Kantonsrat Schaffhausen
 
-Der Kantonsrat Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -44,19 +44,21 @@ beschliesst:
 
 <sup>2</sup> Ihr Ziel ist es, um Hilfe nachsuchende Personen zu wirtschaftlicher und persönlicher Selbständigkeit zu verhelfen und deren Integration zu fördern.
 
+Amtsblatt 2013, S. 1581
+
 #### Art. 3
 
 **Zweck der Einrichtungen für erwachsene Menschen mit Behinderung**
 
-<sup>1</sup> Den erwachsenen Menschen mit Behinderung sind in Ausführung des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^3-1] bedarfsgerechte Wohn- und Leistungsangebote bereit zu stellen.
+Den erwachsenen Menschen mit Behinderung sind in Ausführung des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^3-1] bedarfsgerechte Wohn- und Leistungsangebote bereit zu stellen.
 
-[^3-1]: SR [831.26](http://db.clex.ch/link/Bund/831.26/de).
+[^3-1]: SR 831.26.
 
 #### Art. 4
 
 **Subsidiarität**
 
-<sup>1</sup> Leistungen der öffentlichen Sozialhilfe werden gewährt, wenn die um Hilfe nachsuchende Person sich nicht aus eigener Kraft aus ihrer Notlage heraushelfen kann und Leistungen Dritter nicht oder nicht rechtzeitig verfügbar sind.
+Leistungen der öffentlichen Sozialhilfe werden gewährt, wenn die um Hilfe nachsuchende Person sich nicht aus eigener Kraft aus ihrer Notlage heraushelfen kann und Leistungen Dritter nicht oder nicht rechtzeitig verfügbar sind.
 
 #### Art. 5
 
@@ -86,9 +88,9 @@ beschliesst:
 
 **Anzeigepflicht**
 
-<sup>1</sup> Die Sozialhilfebehörden und ihre Mitarbeitenden sind zur Strafanzeige verpflichtet, wenn ihnen in ihrer amtlichen Stellung eine schwerwiegende Straftat bekannt wird.
+Die Sozialhilfebehörden und ihre Mitarbeitenden sind zur Strafanzeige verpflichtet, wenn ihnen in ihrer amtlichen Stellung eine schwerwiegende Straftat bekannt wird.
 
-## 2 Zuständigkeiten
+### II. Zuständigkeiten
 
 #### Art. 8
 
@@ -100,9 +102,10 @@ beschliesst:
 
 <sup>3</sup> Soweit dieses Gesetz nichts anderes vorschreibt, gelten für die innerkantonale Zuständigkeit die Bestimmungen des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG)[^8-1] und allfälliger Konkordate oder deren Nachfolgeregelungen sinngemäss.
 
-<sup>4</sup> Ist der Vollzug einer durch KESB-Beschluss verfügten Massnahme aufgrund fehlender Zusprechung von Leistungen der öffentlichen Sozialhilfe gefährdet, obliegt die Zusprechung von Leistungen der Sozialhilfe bis zur Klärung der Zuständigkeit dem Kanton.
+<sup>4</sup> Ist der Vollzug einer durch KESB-Beschluss verfügten Massnahme aufgrund fehlender Zusprechung von Leistungen der öffentlichen Sozialhilfe gefährdet, obliegt die Zusprechung von Leistungen der Sozialhilfe bis zur Klärung der Zuständigkeit dem Kanton.[^8-2]
 
-[^8-1]: SR [851.1](http://db.clex.ch/link/Bund/851.1/de).
+[^8-1]: SR 851.1.
+[^8-2]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 9
 
@@ -120,7 +123,7 @@ beschliesst:
 
 <sup>1</sup> Die Sozialhilfebehörden dürfen eine um Leistungen der öffentlichen Sozialhilfe nachsuchende Person nicht veranlassen, aus der Gemeinde wegzuziehen.
 
-<sup>2</sup> Bei Widerhandlung gegen dieses Verbot bleibt der Wohnsitz so lange bestehen, als er ohne den behördlichen Einfluss voraussichtlich nicht verlassen worden wäre, längstens aber während fünf Jahren. Der Regierungsrat kann die fehlbare Gemeinde zum Ersatz sämtlicher Kosten verpflichten, welche anderen Gemeinden durch die Abschiebung entstanden sind, sowie die fehlbaren Behördenmitglieder mit Geldbussen bis zu Fr. 5'000.00 bestrafen.
+<sup>2</sup> Bei Widerhandlung gegen dieses Verbot bleibt der Wohnsitz so lange bestehen, als er ohne den behördlichen Einfluss voraussichtlich nicht verlassen worden wäre, längstens aber während fünf Jahren. Der Regierungsrat kann die fehlbare Gemeinde zum Ersatz sämtlicher Kosten verpflichten, welche anderen Gemeinden durch die Abschiebung entstanden sind, sowie die fehlbaren Behördenmitglieder mit Geldbussen bis zu Fr. 5'000.- bestrafen.
 
 <sup>3</sup> Für Ausländerinnen und Ausländer sind die Bestimmungen über den Widerruf von Anwesenheitsbewilligungen sowie über die Aus- oder Wegweisung und die Heimschaffung vorbehalten.
 
@@ -136,7 +139,7 @@ beschliesst:
 
 **Einrichtungen für erwachsene Menschen mit Behinderung**
 
-<sup>1</sup> Der Kanton ist für die bedarfsgerechte Bereitstellung von Wohnangeboten und von Leistungsangeboten zur Förderung der Eingliederung von erwachsenen Menschen mit Behinderung zuständig. Er schliesst dazu Verträge mit geeigneten Leistungsanbietern ab und unterstützt deren Betrieb mit finanziellen Beiträgen.
+Der Kanton ist für die bedarfsgerechte Bereitstellung von Wohnangeboten und von Leistungsangeboten zur Förderung der Eingliederung von erwachsenen Menschen mit Behinderung zuständig. Er schliesst dazu Verträge mit geeigneten Leistungsanbietern ab und unterstützt deren Betrieb mit finanziellen Beiträgen.
 
 #### Art. 13
 
@@ -146,7 +149,7 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmungen von Art. 11 dieses Gesetzes gelten sinngemäss.
 
-## 3 Organisation und Aufgaben
+### III. Organisation und Aufgaben
 
 #### Art. 14
 
@@ -156,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Die Sozialhilfebehörde ist Anlauf-, Abklärungs- und Beratungsstelle für um Hilfe ansuchende Personen. Sie erfüllt sämtliche in die Zuständigkeit der Gemeinden fallenden Aufgaben der öffentlichen Sozialhilfe wie die Durchführung von materieller Hilfe oder die Gewährung persönlicher Hilfe, soweit nicht andere Beratungsstellen oder Spezialdienste zuständig sind.
 
-[^14-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
+[^14-1]: SHR 120.100.
 
 #### Art. 15
 
@@ -182,7 +185,7 @@ beschliesst:
 
 **Delegation**
 
-<sup>1</sup> Die mit dem Vollzug der öffentlichen Sozialhilfe betrauten Organe können zur Erfüllung ihrer staatlichen Aufgabe mit privaten und öffentlichen Beratungsstellen zusammenarbeiten und im Rahmen von Leistungsvereinbarungen Aufgaben an diese delegieren.
+Die mit dem Vollzug der öffentlichen Sozialhilfe betrauten Organe können zur Erfüllung ihrer staatlichen Aufgabe mit privaten und öffentlichen Beratungsstellen zusammenarbeiten und im Rahmen von Leistungsvereinbarungen Aufgaben an diese delegieren.
 
 #### Art. 18
 
@@ -190,8 +193,9 @@ beschliesst:
 
 <sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Organe können die Polizei oder fachlich qualifizierte Dritte mit Abklärungen über die hilfesuchende Person und ihre wirtschaftliche Situation betrauen, wenn:
 
-- a) ein begründeter Verdacht auf unrechtmässig bezogene Sozialhilfe besteht und
-- b) die Sozialhilfebehörde die eigenen Möglichkeiten zur Ermittlung des Sachverhalts ausgeschöpft hat
+- a) ein begründeter Verdacht auf unrechtmässig bezogene Sozialhilfe besteht, und
+
+- b) die Sozialhilfebehörde die eigenen Möglichkeiten zur Ermittlung des Sachverhalts ausgeschöpft hat.
 
 <sup>2</sup> Die Abklärungen müssen verhältnismässig sein und dem Zweck entsprechen. Die Abklärungen können auch auf Personen ausgedehnt werden, die im gleichen Haushalt leben wie die Person, die Sozialhilfeleistungen bezieht, oder die ihr gegenüber eine Unterhaltspflicht haben.
 
@@ -205,9 +209,9 @@ beschliesst:
 
 <sup>2</sup> Die Kosten einer Sozialhilfeinspektion trägt die Sozialhilfebehörde.
 
-## 4 Öffentliche Sozialhilfe
+### IV. Öffentliche Sozialhilfe
 
-### 4.1 Allgemeines
+- 1\. Allgemeines
 
 #### Art. 20
 
@@ -235,7 +239,7 @@ beschliesst:
 
 <sup>2</sup> Die Sozialhilfebehörde stellt unter Mitwirkung der zu unterstützenden Person die erheblichen Tatsachen fest.
 
-### 4.2 Persönliche und materielle Hilfe
+- 2\. Persönliche und materielle Hilfe
 
 #### Art. 23
 
@@ -247,15 +251,17 @@ beschliesst:
 
 <sup>3</sup> Zur persönlichen Hilfe gehören insbesondere:
 
-- a) die Beratung und Betreuung
-- b) die Vermittlung von Spezialberatung und ‑betreuung
-- c) die Einkommensverwaltung
+- a) die Beratung und Betreuung;
+
+- b) die Vermittlung von Spezialberatung und -betreuung;
+
+- c) die Einkommensverwaltung.
 
 #### Art. 24
 
 **Erbringung von Leistung**
 
-<sup>1</sup> Im Rahmen der persönlichen Hilfe kann die Sozialhilfebehörde für Hilfesuchende jene Beiträge und Leistungen geltend machen, auf die sie einen Rechtsanspruch haben, soweit hierfür nicht eine andere Stelle zuständig ist.
+Im Rahmen der persönlichen Hilfe kann die Sozialhilfebehörde für Hilfesuchende jene Beiträge und Leistungen geltend machen, auf die sie einen Rechtsanspruch haben, soweit hierfür nicht eine andere Stelle zuständig ist.
 
 #### Art. 25
 
@@ -271,7 +277,7 @@ beschliesst:
 
 <sup>5</sup> Bei fehlender Aufenthaltsbewilligung wird grundsätzlich Nothilfe gewährt.
 
-### 4.3 Pflichten der zu unterstützenden Person
+- 3\. Pflichten der zu unterstützenden Person
 
 #### Art. 26
 
@@ -283,7 +289,7 @@ beschliesst:
 
 <sup>3</sup> Sie haben ferner alles zur Vermeidung, Behebung oder Verminderung der Bedürftigkeit Erforderliche vorzukehren.
 
-<sup>4</sup> Wer diesen Pflichten zuwiderhandelt, dem können die Leistungen unter Berücksichtigung der persönlichen Situation sowie der Grösse des Verschuldens um höchstens 30% des Grundbedarfs gekürzt werden. In schwerwiegenden Fällen kann die materielle Hilfe ganz verweigert werden. Vor Ausfällung der Sanktion ist der säumigen Person in jedem Fall das rechtliche Gehör einzuräumen.
+<sup>4</sup> Wer diesen Pflichten zuwiderhandelt, dem können die Leistungen unter Berücksichtigung der persönlichen Situation sowie der Grösse des Verschuldens um höchstens 30 % des Grundbedarfs gekürzt werden. In schwerwiegenden Fällen kann die materielle Hilfe ganz verweigert werden. Vor Ausfällung der Sanktion ist der säumigen Person in jedem Fall das rechtliche Gehör einzuräumen.
 
 <sup>5</sup> Die Sozialhilfebehörde entscheidet aufgrund der Akten. Wird die Zusprechung einer Leistung mit Auflagen und Weisungen verbunden, sind die Auflagen und Weisungen unter Androhung der Folgen bei Missachtung in der Verfügung aufzuführen.
 
@@ -327,7 +333,7 @@ beschliesst:
 
 <sup>4</sup> An die Kosten von Aufenthalten Minderjähriger in Heimen oder ähnlichen Einrichtungen haben die Eltern nach Massgabe ihrer wirtschaftlichen Verhältnisse mindestens jenen Beitrag zu entrichten, der den Lebenshaltungskosten des Kindes im elterlichen Haushalt entspricht.
 
-[^30-1]: SR [210](http://db.clex.ch/link/Bund/210/de).
+[^30-1]: SR 210.
 
 #### Art. 31
 
@@ -339,11 +345,13 @@ beschliesst:
 
 <sup>3</sup> Besitzt eine zu unterstützende Person Vermögenswerte, deren Realisierung nicht möglich oder nicht zumutbar ist, so kann als Bedingung für die materielle Hilfe eine Rückerstattungsverpflichtung, wenn möglich unter grundpfandrechtlicher Sicherstellung, verlangt werden. Darin verpflichtet sich die unterstützte Person, Leistungen ganz oder teilweise zurückzuerstatten, wenn die Vermögenswerte realisierbar werden.
 
-<sup>3<sup>bis</sup></sup> Der Rückerstattungsanspruch erstreckt sich auf Leistungen, welche die unterstützte Person für sich selbst, für ihren Ehegatten während der Ehe, für ihre eingetragene Partnerin oder ihren eingetragenen Partner während der Dauer der eingetragenen Partnerschaft und für ihre Kinder während ihrer Unmündigkeit erhalten hat.
+<sup>3bis</sup> Der Rückerstattungsanspruch erstreckt sich auf Leistungen, welche die unterstützte Person für sich selbst, für ihren Ehegatten während der Ehe, für ihre eingetragene Partnerin oder ihren eingetragenen Partner während der Dauer der eingetragenen Partnerschaft und für ihre Kinder während ihrer Unmündigkeit erhalten hat.[^31-1]
 
-<sup>4</sup> Die Rückerstattungsforderung ist unverzinslich, ausgenommen bei ungerechtfertigtem Bezug. Sie verjährt fünf Jahre, nachdem die Sozialhilfebehörde von ihrem Entstehen Kenntnis erhalten hat. Sie erlischt jedoch endgültig nach 20 Jahren, vom Zeitpunkt der letzten bezogenen Hilfe an gerechnet; ausgenommen sind Leistungen gemäss Abs. 3. Rückerstattungsforderungen, für die ein Grundpfand eingetragen ist, unterliegen keiner Verjährung.
+<sup>4</sup> Die Rückerstattungsforderung ist unverzinslich, ausgenommen bei ungerechtfertigtem Bezug. Sie verjährt fünf Jahre, nachdem die Sozialhilfebehörde von ihrem Entstehen Kenntnis erhalten hat. Sie erlischt jedoch endgültig nach 20 Jahren, vom Zeitpunkt der letzten bezogenen Hilfe an gerechnet; ausgenommen sind Leistungen gemäss Absatz 3. Rückerstattungsforderungen, für die ein Grundpfand eingetragen ist, unterliegen keiner Verjährung.
 
-### 4.4 Verfahren
+- 4\. Verfahren
+
+[^31-1]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 32
 
@@ -353,21 +361,23 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch um materielle oder persönliche Sozialhilfe kann formlos gestellt werden.
 
+[^32-1]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+
 #### Art. 32a
 
-**Rechtshilfe**
+**Rechtshilfe 14)**[^32-1]
 
-<sup>1</sup> Die Gemeinden leisten Rechtshilfe, insbesondere bei:
+Die Gemeinden leisten Rechtshilfe, insbesondere bei a) Abklärungen über Art und Ausmass der persönlichen Sozialhilfe;
 
-- a) Abklärungen über Art und Ausmass der persönlichen Sozialhilfe
-- b) Rückerstattungsverfahren
-- c) Geltendmachung von Verwandtenunterstützung
+- b) Rückerstattungsverfahren;
+
+- c) Geltendmachung von Verwandtenunterstützung.
 
 #### Art. 33
 
 **Verfügung**
 
-<sup>1</sup> Entscheidungen der mit dem Vollzug dieses Gesetzes betrauten erstinstanzlichen Organe sind schriftlich mit kurzer Begründung und einer Rechtsmittelbelehrung zu eröffnen.
+Entscheidungen der mit dem Vollzug dieses Gesetzes betrauten erstinstanzlichen Organe sind schriftlich mit kurzer Begründung und einer Rechtsmittelbelehrung zu eröffnen.
 
 #### Art. 34
 
@@ -375,77 +385,91 @@ beschliesst:
 
 <sup>1</sup> Das zuständige Departement entscheidet über alle Rekurse und Beschwerden in Sozialhilfeangelegenheiten, die bereits von einer untergeordneten Behörde beurteilt worden sind, in letzter Instanz. Vorbehalten bleibt die Verwaltungsgerichtsbeschwerde an das Obergericht.
 
-<sup>1<sup>bis</sup></sup> Das zuständige Departement entscheidet bei negativen Kompetenzstreitigkeiten der Gemeinden in letzter Instanz. Vorbehalten bleibt die Verwaltungsgerichtsbeschwerde an das Obergericht.
+<sup>1</sup> <sup>bis</sup> Das zuständige Departement entscheidet bei negativen Kompetenzstreitigkeiten der Gemeinden in letzter Instanz. Vorbehalten bleibt die Verwaltungsgerichtsbeschwerde an das Obergericht.[^34-1]
 
 <sup>2</sup> Fälle, die das zuständige Departement erstinstanzlich behandelt hat, können an den Regierungsrat weitergezogen werden.
 
-<sup>3</sup> Im Übrigen finden die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss dem Gesetz über den Rechtsschutz in Verwaltungssachen[^34-1] entsprechende Anwendung, soweit sich nicht aus dem Bundesrecht und den Vorschriften dieses Gesetzes Abweichungen ergeben.
+<sup>3</sup> Im Übrigen finden die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss dem Gesetz über den Rechtsschutz in Verwaltungssachen[^34-2] entsprechende Anwendung, soweit sich nicht aus dem Bundesrecht und den Vorschriften dieses Gesetzes Abweichungen ergeben.
 
-[^34-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+- 5\. Finanzierung
 
-### 4.5 Finanzierung
+[^34-1]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^34-2]: SHR 172.200.
 
 #### Art. 35
 
 **Grundsatz**
 
-<sup>1</sup> Die Gemeinden tragen unter Vorbehalt des Kantonsbeitrags die materiellen Hilfeleistungen, die sie gemäss Art. 8 Abs. 1, 2 und 3 sowie Art. 25 dieses Gesetzes ausrichten oder einer Aufenthaltsgemeinde zu vergüten haben.
+<sup>1</sup> Die Gemeinden tragen unter Vorbehalt des Kantonsbeitrags die materiellen Hilfeleistungen, die sie gemäss Art. 8 Abs. 1, 2 und 3 sowie Art. 25 dieses Gesetzes ausrichten oder einer Aufenthaltsgemeinde zu vergüten haben.[^35-1]
 
 <sup>2</sup> Sie tragen unter Vorbehalt des Kantonsbeitrages die Kosten gemäss Art. 11 dieses Gesetzes.
 
 <sup>3</sup> Soweit die Bundesbeiträge die Kosten im Asylbereich nicht decken, kann der Kanton diese unter Vorbehalt des Kantonsbeitrages analog Art. 38 dieses Gesetzes den Gemeinden in Rechnung stellen.
 
-<sup>4</sup> Die Kosten für durch KESB-Beschluss verfügte Massnahmen werden je zur Hälfte von den Gemeinden und dem Kanton getragen.
+<sup>4</sup> Die Kosten für durch KESB-Beschluss verfügte Massnahmen werden je zur Hälfte von den Gemeinden und dem Kanton getragen.[^35-2]
+
+[^35-1]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^35-2]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 36
 
 **Kantonsbeitrag**
 
-<sup>1</sup> Der Kanton richtet den Gemeinden Beiträge von 25 Prozent an die Sozialhilfekosten gemäss Art. 35 Abs. 1–3 aus, wenn sie:
+<sup>1</sup> Der Kanton richtet den Gemeinden Beiträge von 25 Prozent an die Sozialhilfekosten gemäss Art. 35 Abs. 1 - 3 aus, wenn sie[^36-1] a) die festgelegten Minimalstandards für die Qualitätssicherung in der Sozialhilfe, insbesondere zur Vermeidung von längerdauernder Beanspruchung der Sozialhilfe, einhalten, und b) die möglichen der Sozialhilfe vorgehenden Leistungen sowie die Rückerstattungen rechtzeitig in Anspruch nehmen oder beantragen.
 
-- a) die festgelegten Minimalstandards für die Qualitätssicherung in der Sozialhilfe, insbesondere zur Vermeidung von längerdauernder Beanspruchung der Sozialhilfe, einhalten und
-- b) die möglichen der Sozialhilfe vorgehenden Leistungen sowie die Rückerstattungen rechtzeitig in Anspruch nehmen oder beantragen
+<sup>2</sup> Bei Kosten für durch KESB-Beschluss verfügte Massnahmen gemäss Art. 35 Abs. 4 beträgt der Beitrag des Kantons 50 Prozent.[^36-1]
 
-<sup>2</sup> Bei Kosten für durch KESB-Beschluss verfügte Massnahmen gemäss Art. 35 Abs. 4 beträgt der Beitrag des Kantons 50 Prozent.
+<sup>3</sup> Das Nähere regelt der Regierungsrat.[^36-2]
 
-<sup>3</sup> Das Nähere regelt der Regierungsrat.
+[^36-1]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^36-2]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 37
 
 **Erstattung**
 
-<sup>1–3</sup> …
+<sup>1</sup> …[^37-1]
 
-<sup>4</sup> Die Leistungen der öffentlichen Sozialhilfe an Schweizer Bürgerinnen und Bürger ohne Unterstützungswohnsitz, an Ausländerinnen und Ausländer ohne Unterstützungswohnsitz im Kanton und an vorläufig aufgenommene Ausländerinnen und Ausländer mit über sieben Jahren Wohnsitz in der Schweiz werden in die Berechnung nach Art. 38 aufgenommen.
+<sup>2</sup> …[^37-1]
 
-<sup>4<sup>bis</sup></sup> Die Leistungen der öffentlichen Sozialhilfe an anerkannte Flüchtlinge mit über fünf Jahren Unterstützungswohnsitz in der Schweiz und an vorläufig aufgenommene Flüchtlinge mit über sieben Jahren Unterstützungswohnsitz in der Schweiz werden bis zum zehnten Jahr Unterstützungswohnsitz in der Schweiz in die Berechnung nach Art. 38 aufgenommen.
+<sup>3</sup> …[^37-1]
 
-<sup>5</sup> …
+<sup>4</sup> Die Leistungen der öffentlichen Sozialhilfe an Schweizer Bürgerinnen und Bürger ohne Unterstützungswohnsitz, an Ausländerinnen und Ausländer ohne Unterstützungswohnsitz im Kanton und an vorläufig aufgenommene Ausländerinnen und Ausländer mit über sieben Jahren Wohnsitz in der Schweiz werden in die Berechnung nach Art. 38 aufgenommen.[^37-2]
 
-<sup>6</sup> Die Wohnsitzgemeinde vergütet der Aufenthaltsgemeinde, die eine bedürftige Person im Notfall unterstützt, die Kosten der notwendigen und der in ihrem Auftrag ausgerichteten weiteren Unterstützung sowie die Kosten für die Rückkehr an den Wohnort.
+<sup>4</sup> <sup>bis</sup> Die Leistungen der öffentlichen Sozialhilfe an anerkannte Flüchtlinge mit über fünf Jahren Unterstützungswohnsitz in der Schweiz und an vorläufig aufgenommene Flüchtlinge mit über sieben Jahren Unterstützungswohnsitz in der Schweiz werden bis zum zehnten Jahr Unterstützungswohnsitz in der Schweiz in die Berechnung nach Art. 38 aufgenommen.[^37-3]
+
+<sup>5</sup> …[^37-1]
+
+<sup>6</sup> Die Wohnsitzgemeinde vergütet der Aufenthaltsgemeinde, die eine bedürftige Person im Notfall unterstützt, die Kosten der notwendigen und der in ihrem Auftrag ausgerichteten weiteren Unterstützung sowie die Kosten für die Rückkehr an den Wohnort.[^37-2]
+
+[^37-1]: Aufgehoben durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^37-2]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^37-3]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 38
 
 **Verteilung der Sozialhilfekosten**
 
-<sup>1</sup> Folgende Kosten werden den Gemeinden nach Abzug des Kantonsbeitrages von 25 Prozent aufgrund der Einwohnerzahl in Rechnung gestellt:
+<sup>1</sup> Folgende Kosten werden den Gemeinden nach Abzug des Kantonsbeitrages von 25 Prozent aufgrund der Einwohnerzahl in Rechnung gestellt:[^38-1] a) die Kosten der Spezialdienste gemäss Art. 11;
 
-- a) die Kosten der Spezialdienste gemäss Art. 11
-- b) die Kosten nach Art. 37 Abs. 4 und Abs. 4<sup>bis</sup> dieses Gesetzes
-- c) allfällige Defizite gemäss Art. 35 Abs. 3 dieses Gesetzes
-- d) Betriebsbeiträge gemäss Art. 54 Abs. 1 dieses Gesetzes
+- b) die Kosten nach Art. 37 Abs. 4 und Abs. 4<sup>bis</sup> dieses Gesetzes;[^38-1]
 
-<sup>2</sup> Die Kosten einer durch KESB-Beschluss verfügten Massnahme werden den Gemeinden nach Abzug des Kantonsbeitrags von 50 Prozent aufgrund der Einwohnerzahl in Rechnung gestellt.
+- c) allfällige Defizite gemäss Art. 35 Abs. 3 dieses Gesetzes;
+
+- d) Betriebsbeiträge gemäss Art. 54 Abs. 1 dieses Gesetzes.
+
+<sup>2</sup> Die Kosten einer durch KESB-Beschluss verfügten Massnahme werden den Gemeinden nach Abzug des Kantonsbeitrags von 50 Prozent aufgrund der Einwohnerzahl in Rechnung gestellt.[^38-2]
+
+[^38-1]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+[^38-2]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 39
 
 **Fonds für die Betreuung und Unterstützung von Personen im Asyl- und Flüchtlingswesen**
 
-<sup>1</sup> Die kantonalen Ausgaben für die Betreuung und Unterstützung von Personen im Asyl- und Flüchtlingswesen werden durch die zu diesem Zweck geleisteten Beiträge des Bundes finanziert. Übersteigen die Bundesbeiträge die Ausgaben, wird der Überschuss in den Ausgleichsfonds Asyl- und Flüchtlingswesen eingelegt; decken die Bundesleistungen die Ausgaben nicht, wird der Fehlbetrag soweit möglich dem Ausgleichsfonds entnommen.
+Die kantonalen Ausgaben für die Betreuung und Unterstützung von Personen im Asyl- und Flüchtlingswesen werden durch die zu diesem Zweck geleisteten Beiträge des Bundes finanziert. Übersteigen die Bundesbeiträge die Ausgaben, wird der Überschuss in den Ausgleichsfonds Asyl- und Flüchtlingswesen eingelegt; decken die Bundesleistungen die Ausgaben nicht, wird der Fehlbetrag soweit möglich dem Ausgleichsfonds entnommen.
 
-## 5 Soziale Einrichtungen
-
-### 5.1 Allgemeines
+### V. Soziale Einrichtungen 1. Allgemeines
 
 #### Art. 40
 
@@ -453,16 +477,17 @@ beschliesst:
 
 <sup>1</sup> Als soziale Einrichtungen im Sinne dieses Gesetzes gelten:
 
-- a) Einrichtungen für erwachsene Menschen mit Behinderung
-- b) Einrichtungen für Personen, die sich in einer besonderen Notlage befinden wie Notunterkünfte und Frauenhäuser, soweit keine anderweitigen Gesetze zum Zuge kommen
+- a) Einrichtungen für erwachsene Menschen mit Behinderung.
+
+- b) Einrichtungen für Personen, die sich in einer besonderen Notlage befinden wie Notunterkünfte und Frauenhäuser, soweit keine anderweitigen Gesetze zum Zuge kommen.
 
 <sup>2</sup> Keine sozialen Institutionen im Sinne dieses Gesetzes sind Spitäler im Sinne des kantonalen Spitalgesetzes[^40-1], Heime im Sinne des kantonalen Altersbetreuungs- und Pflegegesetzes[^40-2], ambulante Leistungserbringer im Sinne des kantonalen Gesundheitsgesetzes[^40-3], Einrichtungen des Straf- und Massnahmenvollzugs gemäss Schweizerischem Strafgesetzbuch[^40-4], Kinder- und Erwachseneneinrichtungen gemäss der Kantonalen Pflegekinderverordnung[^40-5] sowie Einrichtungen der Sonderschulung.
 
-[^40-1]: SHR [813.100](https://rechtsbuch.sh.ch/data/813.100/de).
-[^40-2]: SHR [813.500](https://rechtsbuch.sh.ch/data/813.500/de).
-[^40-3]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
-[^40-4]: SHR [311.0](https://rechtsbuch.sh.ch/data/311.0/de).
-[^40-5]: SHR [211.224](https://rechtsbuch.sh.ch/data/211.224/de).
+[^40-1]: SHR 813.100.
+[^40-2]: SHR 813.500.
+[^40-3]: SHR 810.100.
+[^40-4]: SHR 311.0.
+[^40-5]: SHR 211.224.
 
 #### Art. 41
 
@@ -474,11 +499,12 @@ beschliesst:
 
 <sup>3</sup> Das zuständige Departement kann Ausnahmen bewilligen und einzelnen Personen oder Personengruppen Zugang zu Einrichtungen für erwachsene Menschen mit Behinderung nach den entsprechenden Grundsätzen gewähren.
 
-<sup>4</sup> Soweit geeignete Angebote nicht durch Einrichtungen für erwachsene Menschen mit Behinderung im Sinne dieses Gesetzes verfügbar sind, kann das zuständige Departement im Interesse der bzw. des Betroffenen in Einzelfällen andere Leistungserbringer berücksichtigen.
+<sup>4</sup> Soweit geeignete Angebote nicht durch Einrichtungen für erwachsene Menschen mit Behinderung im Sinne dieses Gesetzes verfügbar sind, kann das zuständige Departement im Interesse der bzw. des Betroffenen in Einzelfällen andere Leistungserbringer berücksichtigen.[^41-2] 2. Einrichtungen für erwachsene Menschen mit
 
-[^41-1]: SR [830.1](http://db.clex.ch/link/Bund/830.1/de).
+[^41-1]: SR 830.1.
+[^41-2]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
-### 5.2 Einrichtungen für erwachsene Menschen mit Behinderung
+### Behinderung
 
 #### Art. 42
 
@@ -496,14 +522,19 @@ beschliesst:
 
 <sup>1</sup> Der Betrieb von Einrichtungen für erwachsene Menschen mit Behinderung bedarf einer Bewilligung des zuständigen Departementes.
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn die Voraussetzungen von Art. 5 Abs. 1 IFEG erfüllt sind. Erforderlich ist insbesondere, dass:
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die Voraussetzungen von Art 5 Abs. 1 IFEG erfüllt sind. Erforderlich ist insbesondere, dass:
 
-- a) die Leiterin oder der Leiter der Einrichtung beruflich und fachlich geeignet ist
-- b) genügend geeignetes Personal vorhanden ist
-- c) die Unterbringung und Betreuung den Bedürfnissen der betreuten Personen entspricht
-- d) die baulichen und betrieblichen Einrichtungen der Zweckbestimmung der Einrichtung genügen und alle behördlichen Auflagen erfüllen
-- e) eine ausreichende Finanzierung nachgewiesen ist
-- f) das Angebot der Einrichtung der kantonalen Bedarfs- und der Angebotsplanung entspricht
+- a) die Leiterin oder der Leiter der Einrichtung beruflich und fachlich geeignet ist;
+
+- b) genügend geeignetes Personal vorhanden ist;
+
+- c) die Unterbringung und Betreuung den Bedürfnissen der betreuten Personen entspricht;
+
+- d) die baulichen und betrieblichen Einrichtungen der Zweckbestimmung der Einrichtung genügen und alle behördlichen Auflagen erfüllen;
+
+- e) eine ausreichende Finanzierung nachgewiesen ist;
+
+- f) das Angebot der Einrichtung der kantonalen Bedarfs- und der Angebotsplanung entspricht.
 
 <sup>3</sup> Das zuständige Departement legt fest, welche Angaben die Betriebsbewilligungsgesuche enthalten müssen und regelt das Nähere zum Verfahren.
 
@@ -517,9 +548,11 @@ beschliesst:
 
 <sup>1</sup> Die Betriebsbewilligung kann vom zuständigen Departement entzogen werden, wenn:
 
-- a) die Voraussetzungen für die Erteilung der Bewilligung nicht mehr erfüllt sind
-- b) Auflagen nicht erfüllt werden
-- c) schwerwiegende Mängel in der Betriebsführung festgestellt wurden
+- a) die Voraussetzungen für die Erteilung der Bewilligung nicht mehr erfüllt sind;
+
+- b) Auflagen nicht erfüllt werden;
+
+- c) schwerwiegende Mängel in der Betriebsführung festgestellt wurden.
 
 <sup>2</sup> Besteht oder droht unmittelbar ernsthafte Gefahr für erwachsene Menschen mit Behinderung, kann das zuständige Departement Massnahmen bis zur sofortigen Schliessung einer Einrichtung verfügen.
 
@@ -539,9 +572,11 @@ beschliesst:
 
 <sup>2</sup> Weiter erlässt es die für die Umsetzung des Konzeptes zur Förderung der Eingliederung von erwachsenen Menschen mit Behinderung nach Art. 10 IFEG nötigen Richtlinien.
 
+[^46-1]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+
 #### Art. 46a
 
-**Datenerhebung**
+**Datenerhebung 14)**[^46-1]
 
 <sup>1</sup> Die Einrichtungen führen für jede von ihnen betreute Person eine Klientendokumentation. Diese enthält insbesondere Angaben über die Versichertennummer nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (Versichertennummer), den Rentenanspruch, die Einstufung der Hilflosigkeit, die Art der Behinderung sowie den individuellen Betreuungsbedarf.
 
@@ -559,27 +594,29 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Der Kanton beteiligt sich an den Kosten gemäss Art. 7 IFEG. Das Nähere regelt der Regierungsrat.
+Der Kanton beteiligt sich an den Kosten gemäss Art. 7 IFEG. Das Nähere regelt der Regierungsrat.
 
 #### Art. 49
 
 **Betriebsbeiträge**
 
-<sup>1</sup> Der Kanton leistet an anerkannte Einrichtungen, mit denen er eine Leistungsvereinbarung getroffen hat, gemäss IFEG Betriebsbeiträge. Die Betriebsbeiträge sind in der Regel nach individuellem Betreuungsbedarf gestufte, leistungsbezogene Pauschalen; Überschüsse bzw. Defizite werden gemäss kantonalen Vorgaben über Schwankungsreserven getragen.
+<sup>1</sup> Der Kanton leistet an anerkannte Einrichtungen, mit denen er eine Leistungsvereinbarung getroffen hat, gemäss IFEG Betriebsbeiträge. Die Betriebsbeiträge sind in der Regel nach individuellem Betreuungsbedarf gestufte, leistungsbezogene Pauschalen; Überschüsse bzw. Defizite werden gemäss kantonalen Vorgaben über Schwankungsreserven getragen.[^49-1]
 
-<sup>2</sup> Die Höhe der Betriebsbeiträge ist so zu gestalten, dass keine Person mit Betreuungsbedarf mit Wohnsitz im Kanton wegen des Aufenthalts in einer solchen Einrichtung Sozialhilfe benötigt.
+<sup>2</sup> Die Höhe der Betriebsbeiträge ist so zu gestalten, dass keine Person mit Betreuungsbedarf mit Wohnsitz im Kanton wegen des Aufenthalts in einer solchen Einrichtung Sozialhilfe benötigt.[^49-1]
 
 <sup>3</sup> Der Kanton gewährt erwachsenen Menschen mit Behinderung mit Wohnsitz im Kanton, welche gemäss Art. 7 Abs. 2 IFEG in einer anerkannten ausserkantonalen Einrichtung betreut werden, Beiträge mindestens in dem Ausmass, dass sie wegen des Aufenthaltes keine Sozialhilfe benötigen.
 
+[^49-1]: Fassung gemäss G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
+
 #### Art. 50
 
-**Investitionsbeiträge**
+**Investitionsbeiträge**[^49-1]
 
 <sup>1</sup> Der Kanton kann an anerkannte Einrichtungen für Menschen mit Behinderung Investitionsbeiträge an die Projektkosten sowie für den Erwerb, den Bau, den Um- oder Ausbau, die Erneuerung und die Ausstattung gewähren.
 
-<sup>2</sup> Investitionsbeiträge über Fr. 1'000'000.00 unterliegen der Genehmigung des Kantonsrats.
+<sup>2</sup> Investitionsbeiträge über 1 Mio. Franken unterliegen der Genehmigung des Kantonsrats.
 
-### 5.3 Andere soziale Einrichtungen
+- 3\. Andere soziale Einrichtungen
 
 #### Art. 51
 
@@ -589,8 +626,9 @@ beschliesst:
 
 <sup>2</sup> Eine Bewilligung wird erteilt, wenn:
 
-- a) die leitende Person über einen guten Leumund verfügt und für eine fachgerechte Betreuung Gewähr bietet
-- b) die soziale Einrichtung ausreichende finanzielle Grundlagen aufweist
+- a) die leitende Person über einen guten Leumund verfügt und für eine fachgerechte Betreuung Gewähr bietet;
+
+- b) die soziale Einrichtung ausreichende finanzielle Grundlagen aufweist.
 
 <sup>3</sup> Das zuständige Departement legt fest, welche Angaben die Betriebsbewilligungsgesuche enthalten müssen und regelt das Nähere des Verfahrens.
 
@@ -606,7 +644,7 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Die anderen sozialen Einrichtungen decken grundsätzlich die Betriebskosten aus den Beiträgen der anspruchsberechtigten Person, der gesetzlich Verpflichteten, deren Versicherer oder Dritter.
+Die anderen sozialen Einrichtungen decken grundsätzlich die Betriebskosten aus den Beiträgen der anspruchsberechtigten Person, der gesetzlich Verpflichteten, deren Versicherer oder Dritter.
 
 #### Art. 54
 
@@ -614,7 +652,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann Beiträge an den Betrieb von anderen sozialen Einrichtungen ausrichten. Diese Beiträge werden in die Berechnung gemäss Art. 38 aufgenommen.
 
-<sup>2</sup> Der Regierungsrat entscheidet über einmalige Betriebsbeiträge bis Fr. 500'000.00 bzw. wiederkehrende Beiträge, welche Fr. 100'000.00 pro Jahr nicht überschreiten.
+<sup>2</sup> Der Regierungsrat entscheidet über einmalige Betriebsbeiträge bis Fr. 500'000.- bzw. wiederkehrende Beiträge, welche Fr. 100'000.- pro Jahr nicht überschreiten.
 
 <sup>3</sup> In den übrigen Fällen entscheidet der Kantonsrat.
 
@@ -624,9 +662,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann Investitionsbeiträge an den Erwerb, den Bau, den Um- oder Ausbau, die Erneuerung und die Ausstattung leisten.
 
-<sup>2</sup> Der Regierungsrat entscheidet über Beiträge bis Fr. 500'000.00. In den übrigen Fällen entscheidet der Kantonsrat.
+<sup>2</sup> Der Regierungsrat entscheidet über Beiträge bis Fr. 500'000.-. In den übrigen Fällen entscheidet der Kantonsrat.
 
-### 5.4 Gemeinsame Bestimmungen
+- 4\. Gemeinsame Bestimmungen
 
 #### Art. 56
 
@@ -634,8 +672,9 @@ beschliesst:
 
 <sup>1</sup> Beiträge nach der Interkantonalen Vereinbarung für soziale Einrichtungen IVSE erhalten:
 
-- a) Heime und Einrichtungen ausserhalb des Kantons für Schaffhauser Betreuungsbedürftige im Sinne der IVSE
-- b) Heime und Einrichtungen im Kanton Schaffhausen für ausserkantonale Betreuungsbedürftige im Umfang der Vergütungen anderer Kantone
+- a) Heime und Einrichtungen ausserhalb des Kantons für Schaffhauser Betreuungsbedürftige im Sinne der IVSE;
+
+- b) Heime und Einrichtungen im Kanton Schaffhausen für ausserkantonale Betreuungsbedürftige im Umfang der Vergütungen anderer Kantone.
 
 <sup>2</sup> Das Nähere regelt der Regierungsrat.
 
@@ -647,29 +686,33 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat fordert unrechtmässig bezogene oder zweckentfremdete Beiträge mit Zinsen zurück. Der Rückforderungsanspruch verjährt 25 Jahre nach Ausrichtung der Beiträge.
 
-## 6 Strafbestimmung
+### VI. Strafbestimmung
+
+[^hVIStrafbestimmung-1]: Aufgehoben durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 58
 
-**…**
+[^hVIStrafbestimmung-1]
 
-## 7 Schlussbestimmungen
+### VII. Schlussbestimmungen
 
 #### Art. 59
 
 **Übergangsfrist**
 
-<sup>1</sup> Bestehende Einrichtungen, die nach diesem Gesetz bewilligungspflichtig sind, gelten mit Inkrafttreten dieses Gesetzes als bewilligt. Das zuständige Departement kann von diesen Einrichtungen ergänzende Unterlagen verlangen.
+Bestehende Einrichtungen, die nach diesem Gesetz bewilligungspflichtig sind, gelten mit Inkrafttreten dieses Gesetzes als bewilligt. Das zuständige Departement kann von diesen Einrichtungen ergänzende Unterlagen verlangen.
 
 #### Art. 60
 
 **Einlage in Ausgleichsfonds Asyl- und Flüchtlingswesen**
 
-<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes vorhandenen Überschüsse aus Bundesleistungen für das Asyl- und Flüchtlingswesen werden in den Ausgleichsfonds gemäss Art. 39 dieses Gesetzes eingelegt.
+Die beim Inkrafttreten dieses Gesetzes vorhandenen Überschüsse aus Bundesleistungen für das Asyl- und Flüchtlingswesen werden in den Ausgleichsfonds gemäss Art. 39 dieses Gesetzes eingelegt.
+
+[^60-1]: Eingefügt durch G vom 22. Januar 2018, in Kraft getreten am 1. Juli 2018 (Amtsblatt 2018, S. 145, S. 1100).
 
 #### Art. 60a
 
-**Übergangsbestimmung betreffend Abschaffung Art. 37 Abs. 1–3**
+**Übergangsbestimmung betreffend Abschaffung Art. 37 Abs. 1 - 3 14)**[^60-1]
 
 <sup>1</sup> Gesuche um Verrechnung nach Art. 37 Abs. 1, 2 und 3 dieses Gesetzes können nach dem Inkrafttreten der Aufhebung dieser Bestimmungen nicht mehr gestellt werden. Abrechnungen der Gemeinden, die nach diesem Datum vorgelegt werden, muss die Heimatgemeinde nicht mehr beachten.
 
@@ -685,11 +728,11 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem Referendum.
 
-<sup>2</sup> Dieses Gesetz tritt am 1. Januar 2014 in Kraft[^61-1].
+<sup>2</sup> Dieses Gesetz tritt am 1. Januar 2014 in Kraft[^61-1] .
 
 <sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^61-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^61-1]: Amtsblatt 2014, S. 280.
 [^61-2]: Amtsblatt 2013, S. 1581.
-
-Abl. 2013, S. 1581, 2014 S. 280
