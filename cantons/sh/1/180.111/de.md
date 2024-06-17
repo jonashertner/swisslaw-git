@@ -5,29 +5,28 @@ title: Verordnung über die Arbeitsverhältnisse des Staatspersonals
 short: Personalverordnung
 language: de
 version: 2024-01-01
-valid_until: 2025-12-31
+corrected: 2024-06-18
 version_adopted: 2023-12-12
 adopted: 2004-12-14
 in_force: 2005-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1712/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/221/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Arbeitsverhältnisse des Staatspersonals
+# Verordnung über die Arbeitsverhältnisse des Staatspersonals (Personalverordnung)
 
-(Personalverordnung)
-
-Vom 14.12.2004 (Stand 01.01.2024)
+vom 14. Dezember 2004
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 1 Abs. 4 lit. c, 3 Abs. 3, 5 Abs. 2, 6 Abs. 3 und 4, 8 Abs. 2 und 3, 9 Abs. 2 lit. d, 11 Abs. 2 und 3, 17 Abs. 1, 22 Abs. 5, 23, 24 Abs. 6, 25 Abs. 6, 26 Abs. 3, 27 Abs. 7, 28 Abs. 3, 29 Abs. 2, 31, 32, 33, 35, 38 Abs. 4, 39 Abs. 4, 40 Abs. 3, 43 Abs. 4, 44 Abs. 1 und 2 sowie Art. 47 Abs. 6 des Personalgesetzes vom 3. Mai 2004,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+## 1. Abschnitt: Allgemeine Bestimmungen
 
 #### § 1
 
@@ -45,12 +44,15 @@ beschliesst:
 
 **Ausnahmen**
 
-<sup>1</sup> Dieser Verordnung nicht unterstellt sind:
+<sup>1</sup> Dieser Verordnung nicht unterstellt sind a) Jugendliche bis zum vollendeten 18. Altersjahr;
 
-- a) Jugendliche bis zum vollendeten 18. Altersjahr
-- b) Lernende gemäss dem Bundesgesetz über die Berufsbildung und weitere in Ausbildung oder in einem Praktikum stehende Personen
-- c) Aushilfskräfte
-- d) nebenberufliches Personal ohne öffentliche Funktionen
+Amtsblatt 2004, S. 1851.
+
+- b) Lernende gemäss dem Bundesgesetz über die Berufsbildung und weitere in Ausbildung oder in einem Praktikum stehende Personen;
+
+- c) Aushilfskräfte;
+
+- d) nebenberufliches Personal ohne öffentliche Funktionen.
 
 <sup>2</sup> Ihre Belange werden nach Massgabe des Obligationenrechtes geregelt. Bestimmungen über das öffentlich-rechtliche Arbeitsverhältnis können für anwendbar erklärt werden.
 
@@ -62,7 +64,7 @@ beschliesst:
 
 **Subsidiäre Geltung des Obligationenrechtes**
 
-<sup>1</sup> Soweit das kantonale Recht keine Regelung enthält, gelten für das Arbeitsverhältnis sinngemäss die einschlägigen Bestimmungen des Obligationenrechtes.
+Soweit das kantonale Recht keine Regelung enthält, gelten für das Arbeitsverhältnis sinngemäss die einschlägigen Bestimmungen des Obligationenrechtes.
 
 #### § 4
 
@@ -106,7 +108,7 @@ beschliesst:
 
 <sup>4</sup> Die Personalkommission und die Personalverbände werden rechtzeitig über geplante wichtige Änderungen des Personal- und Lohnrechtes oder der betrieblichen Organisation informiert und erhalten Gelegenheit zur Stellungnahme.
 
-## 2 Entstehung und Beendigung des Arbeitsverhältnisses
+## 2. Abschnitt: Entstehung und Beendigung des Arbeitsverhältnisses
 
 #### § 8
 
@@ -132,12 +134,9 @@ beschliesst:
 
 **Anstellungsbefugnis**
 
-<sup>1</sup> Der Regierungsrat ist zuständig für die Anstellung der Mitarbeiterinnen und Mitarbeiter der Verwaltung in den Lohnbändern 10 bis 17 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben.
+<sup>1</sup> Der Regierungsrat ist zuständig für die Anstellung der Mitarbeiterinnen und Mitarbeiter der Verwaltung in den Lohnbändern 10 bis 17 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben. <sup>2)</sup>
 
-<sup>2</sup> Das zuständige Departement bzw. die Staatskanzlei stellt im Einvernehmen mit dem Personalamt an:
-
-- a) Mitarbeiterinnen und Mitarbeiter in den Lohnbändern 1 bis 9
-- b) Aushilfskräfte und nebenberufliches Personal ohne öffentliche Funktionen
+<sup>2</sup> Das zuständige Departement bzw. die Staatskanzlei stellt im Einvernehmen mit dem Personalamt an a) Mitarbeiterinnen und Mitarbeiter in den Lohnbändern 1 bis 9; <sup>2)</sup> b) Aushilfskräfte und nebenberufliches Personal ohne öffentliche Funktionen.
 
 <sup>3</sup> Vorbehalten bleiben besondere Regelungen, insbesondere für Lehrpersonen, für die Gerichte sowie die Anstalten in den Organisationserlassen und für WoV-Dienststellen in den entsprechenden Regelungen.
 
@@ -159,14 +158,21 @@ beschliesst:
 
 <sup>2</sup> Der Arbeitsvertrag enthält mindestens folgende Angaben:
 
-- a) die Vertragsparteien
-- b) den Beginn und die Dauer des Arbeitsverhältnisses
-- c) die Funktion beziehungsweise den Arbeitsbereich
-- d) die Dienststelle
-- e) die Dauer der Probezeit
-- f) den Beschäftigungsgrad
-- g) den Lohn
-- h) die Kündigungsfristen
+- a) die Vertragsparteien;
+
+- b) den Beginn und die Dauer des Arbeitsverhältnisses;
+
+- c) die Funktion beziehungsweise den Arbeitsbereich;
+
+- d) die Dienststelle;
+
+- e) die Dauer der Probezeit;
+
+- f) den Beschäftigungsgrad;
+
+- g) den Lohn;
+
+- h) die Kündigungsfristen.
 
 <sup>3</sup> Rechte und Pflichten richten sich im Übrigen nach dem kantonalen Recht.
 
@@ -182,24 +188,23 @@ beschliesst:
 
 <sup>2</sup> In begründeten Fällen kann im Arbeitsvertrag auf eine Probezeit verzichtet werden, eine kürzere oder eine längere Probezeit bis zu sechs Monaten vereinbart werden.
 
-<sup>3</sup> Bei der Übernahme einer anderen Funktion beim Kanton gilt grundsätzlich keine Probezeit. Aus besonderen Gründen kann eine Probezeit vereinbart werden.
+<sup>3</sup> Bei der Übernahme einer anderen Funktion beim Kanton gilt grundsätzlich keine Probezeit. Aus besonderen Gründen kann eine Probezeit vereinbart werden. <sup>2)</sup>
 
-<sup>4</sup> Die vereinbarte Probezeit kann im Einvernehmen nachträglich bis auf gesamthaft sechs Monate verlängert werden.
+<sup>4</sup> Die vereinbarte Probezeit kann im Einvernehmen nachträglich bis auf gesamthaft sechs Monate verlängert werden. <sup>2)</sup>
 
-<sup>5</sup> Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht, wird die Probezeit entsprechend verlängert.
+<sup>5</sup> Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht, wird die Probezeit entsprechend verlängert. <sup>2)</sup>
 
-<sup>6</sup> Vorbehalten bleiben besondere Regelungen.
+<sup>6</sup> Vorbehalten bleiben besondere Regelungen. <sup>2)</sup>
 
 #### § 14
 
-**Kündigungsfristen und ‑termine; Freistellung**
+**Kündigungsfristen und - termine; Freistellung**
 
-<sup>1</sup> In der Probezeit kann das Arbeitsverhältnis jederzeit mit einer Frist von sieben Tagen gekündigt werden, soweit im Arbeitsvertrag keine längere Frist bis höchstens 30 Tage vereinbart worden ist. Wird die Probezeit verlängert, beträgt die Kündigungsfrist während der Verlängerung 30 Tage. Die Kündigungsfrist beträgt auch 30 Tage, wenn bei der Übernahme einer anderen Funktion eine Probezeit vereinbart wird.
+<sup>1</sup> In der Probezeit kann das Arbeitsverhältnis jederzeit mit einer Frist von sieben Tagen gekündigt werden, soweit im Arbeitsvertrag keine längere Frist bis höchstens 30 Tage vereinbart worden ist. Wird die Probezeit verlängert, beträgt die Kündigungsfrist während der Verlängerung 30 Tage. Die Kündigungsfrist beträgt auch 30 Tage, wenn bei der Übernahme einer anderen Funktion eine Probezeit vereinbart wird. <sup>2)</sup>
 
-<sup>2</sup> Nach Ablauf der Probezeit kann das Arbeitsverhältnis unter Einhaltung der folgenden Fristen gekündigt werden:
+<sup>2</sup> Nach Ablauf der Probezeit kann das Arbeitsverhältnis unter Einhaltung der folgenden Fristen gekündigt werden <sup>2)</sup> a) bei Mitarbeiterinnen und Mitarbeitern in den Lohnbändern 1 bis 11 und Personen, die keinem Lohnband zugeordnet sind, im ersten Dienstjahr zwei Monate, ab dem zweiten Jahr drei Monate; im Arbeitsvertrag kann eine längere Frist bis höchstens sechs Monate vereinbart werden;
 
-- a) bei Mitarbeiterinnen und Mitarbeitern in den Lohnbändern 1 bis 11 und Personen, die keinem Lohnband zugeordnet sind, im ersten Dienstjahr zwei Monate, ab dem zweiten Jahr drei Monate; im Arbeitsvertrag kann eine längere Frist bis höchstens sechs Monate vereinbart werden
-- b) bei Mitarbeiterinnen und Mitarbeitern in den Lohnbändern 12 bis 17 sechs Monate; im Arbeitsvertrag kann eine kürzere Frist bis zu den Grenzen von lit. a vereinbart werden
+- b) bei Mitarbeiterinnen und Mitarbeitern in den Lohnbändern 12 bis 17 sechs Monate; im Arbeitsvertrag kann eine kürzere Frist bis zu den Grenzen von lit. a vereinbart werden.
 
 <sup>3</sup> Die Kündigung nach Ablauf der Probezeit kann jeweils auf Ende eines Monats erfolgen, sofern kein anderer Termin vereinbart worden ist.
 
@@ -245,11 +250,11 @@ beschliesst:
 
 **Vorzeitige Pensionierung**
 
-<sup>1</sup> Der Regierungsrat regelt eine Übergangsrente für Mitarbeiterinnen und Mitarbeiter, die eine bestimmte Zeit vor Erreichen des AHV Referenzalters in den Ruhestand treten.
+<sup>1</sup> Der Regierungsrat regelt eine Übergangsrente für Mitarbeiterinnen und Mitarbeiter, die eine bestimmte Zeit vor Erreichen des AHV Referenzalters in den Ruhestand treten. <sup>23)</sup>
 
 <sup>2</sup> Die Anstellungsbehörde kann Mitarbeiterinnen und Mitarbeiter vorzeitig in den Ruhestand versetzen, sofern sie Anspruch auf eine Übergangsrente nach Abs. 1 haben.
 
-<sup>3</sup> Eine allfällige Abfindung gemäss § 18 wird um die Übergangsrente gekürzt.
+<sup>3</sup> Eine allfällige Abfindung gemäss § 18 wird um die Übergangsrente gekürzt. <sup>13)</sup>
 
 #### § 18
 
@@ -259,13 +264,15 @@ beschliesst:
 
 <sup>2</sup> Die Anstellungsbehörde kann in begründeten Einzelfällen im Einvernehmen mit dem Personalamt ab dem vollendeten 40. Altersjahr eine Abfindung entrichten. Im Übrigen richten sich die Voraussetzungen und Leistungen nach Abs. 1.
 
-<sup>3</sup> Die Abfindung wird um jenen Betrag gekürzt, um den sie zusammen mit allfälligem Erwerbseinkommen und Sozialleistungen den zuletzt bezogenen Grundlohn zuzüglich Sozialzulagen übersteigt. Sie fällt dahin, wenn die betroffene Mitarbeiterin oder der Mitarbeiter:
+<sup>3</sup> Die Abfindung wird um jenen Betrag gekürzt, um den sie zusammen mit allfälligem Erwerbseinkommen und Sozialleistungen den zuletzt bezogenen Grundlohn zuzüglich Sozialzulagen übersteigt.
 
-- a) eine angebotene zumutbare Anstellung nicht annimmt
-- b) bei der Stellensuche die zumutbaren Anstrengungen nicht unternimmt
-- c) das Rücktrittsalter gemäss den Bestimmungen über die Pensionskasse erreicht hat
+Sie fällt dahin, wenn die betroffene Mitarbeiterin oder der Mitarbeiter a) eine angebotene zumutbare Anstellung nicht annimmt;
 
-<sup>4</sup> Der Barwert der Abfindung wird auf Wunsch der Mitarbeiterin oder des Mitarbeiters vom Arbeitgeber gemäss Art. 24 des Vorsorgereglementes der Kantonalen Pensionskasse als Einlage auf das persönliche Altersguthaben bei der Kantonalen Pensionskasse einbezahlt. Die Höhe dieses Barwertes wird mit dem Zinssatz der Altersguthaben der Aktiv-Versicherten der Kantonalen Pensionskasse berechnet.
+- b) bei der Stellensuche die zumutbaren Anstrengungen nicht unternimmt;
+
+- c) das Rücktrittsalter gemäss den Bestimmungen über die Pensionskasse erreicht hat.
+
+<sup>4</sup> Der Barwert der Abfindung wird auf Wunsch der Mitarbeiterin oder des Mitarbeiters vom Arbeitgeber gemäss Art. 24 des Vorsorgereglementes der Kantonalen Pensionskasse als Einlage auf das persönliche Altersguthaben bei der Kantonalen Pensionskasse einbezahlt. Die Höhe dieses Barwertes wird mit dem Zinssatz der Altersguthaben der Aktiv-Versicherten der Kantonalen Pensionskasse berechnet. <sup>14)</sup>
 
 <sup>5</sup> Kommt es wegen Stellenabbau zur Kündigung einer grösseren Zahl von Arbeitsverhältnissen, können in einem Sozialplan zusätzliche oder andere Leistungen vorgesehen werden.
 
@@ -273,17 +280,15 @@ beschliesst:
 
 **Lohnzahlung im Todesfall**
 
-<sup>1</sup> Der Arbeitgeber entrichtet ohne Anrechnung von Versicherungsleistungen den vollen Lohn für den laufenden Monat und die vier dem Todesmonat folgenden Monate, wenn die Mitarbeiterin oder der Mitarbeiter folgende Personen hinterlässt:
+<sup>1</sup> Der Arbeitgeber entrichtet ohne Anrechnung von Versicherungsleistungen den vollen Lohn für den laufenden Monat und die vier dem Todesmonat folgenden Monate, wenn die Mitarbeiterin oder der Mitarbeiter folgende Personen hinterlässt <sup>2)</sup> a) die Ehegattin, eingetragene Partnerin oder ständige Lebenspartnerin bzw. den Ehegatten, eingetragenen Partner oder ständigen Lebenspartner; <sup>6)</sup> b) Kinder, für die ein Anspruch auf Kinder- oder Ausbildungszulage besteht;
 
-- a) die Ehegattin, eingetragene Partnerin oder ständige Lebenspartnerin bzw. den Ehegatten, eingetragenen Partner oder ständigen Lebenspartner
-- b) Kinder, für die ein Anspruch auf Kinder- oder Ausbildungszulage besteht
-- c) andere Personen, gegenüber denen die Mitarbeiterin oder der Mitarbeiter eine steuerlich abzugsfähige Unterstützungspflicht erfüllt hat
+- c) andere Personen, gegenüber denen die Mitarbeiterin oder der Mitarbeiter eine steuerlich abzugsfähige Unterstützungspflicht erfüllt hat.
 
 <sup>2</sup> Unter mehreren anspruchsberechtigten Personen wird die Lohnzahlung in der Regel zu gleichen Teilen aufgeteilt.
 
 <sup>3</sup> Bei Mitarbeiterinnen und Mitarbeitern im Stundenlohn ist für die Berechnung der in den letzten zwölf Monaten bezogene Lohn massgebend.
 
-## 3 Allgemeine Rechte und Pflichten im Arbeitsverhältnis
+## 3. Abschnitt: Allgemeine Rechte und Pflichten im Arbeitsverhältnis
 
 #### § 20
 
@@ -310,6 +315,8 @@ beschliesst:
 <sup>6</sup> Für die Gerichte sowie die Anstalten gelten diese Bestimmungen sinngemäss.
 
 #### § 22
+
+<sup>11)</sup>
 
 **Vorschlagswesen**
 
@@ -369,11 +376,11 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung wird von der Dienststellenleiterin oder dem Dienststellenleiter, für diese durch die Departementsvorsteherin oder den Departementsvorsteher, im Einvernehmen mit dem zuständigen Personaldienst erteilt. Zweifelhafte Fälle sind der Anstellungsbehörde vorzulegen.
 
-<sup>3</sup> Eine Nebenerwerbstätigkeit kann verweigert oder eingeschränkt werden, wenn die Erfüllung der Dienstpflichten beeinträchtigt wird, insbesondere wenn:
+<sup>3</sup> Eine Nebenerwerbstätigkeit kann verweigert oder eingeschränkt werden, wenn die Erfüllung der Dienstpflichten beeinträchtigt wird, insbesondere wenn a) die Gefahr eines Interessenskonfliktes besteht;
 
-- a) die Gefahr eines Interessenskonfliktes besteht
-- b) die Nebenerwerbstätigkeit die Mitarbeiterin oder den Mitarbeiter in einem Umfang beansprucht, welcher die Leistungsfähigkeit für den Kanton erheblich vermindert
-- c) für die Nebenerwerbstätigkeit Arbeitszeit in Anspruch genommen wird
+- b) die Nebenerwerbstätigkeit die Mitarbeiterin oder den Mitarbeiter in einem Umfang beansprucht, welcher die Leistungsfähigkeit für den Kanton erheblich vermindert;
+
+- c) für die Nebenerwerbstätigkeit Arbeitszeit in Anspruch genommen wird.
 
 <sup>4</sup> Die Bewilligung kann mit Auflagen verbunden werden. Sie regelt die Nutzung und Kompensation von Arbeitszeit und die Verwendung von Nebeneinnahmen.
 
@@ -385,7 +392,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde ist frühzeitig vor der geplanten Übernahme eines öffentlichen Amtes zu informieren.
 
-<sup>2</sup> Die Übernahme bedarf einer Bewilligung der Anstellungsbehörde im Einvernehmen mit dem zuständigen Personaldienst, wenn die Gefahr eines Interessenskonfliktes besteht oder die Abwesenheit während der ordentlichen Arbeitszeit bei einem Vollpensum mehr als 15 Tage im Kalenderjahr beträgt. Die 15 Tage übersteigende Abwesenheit vom Arbeitsplatz ist zu kompensieren, oder der Lohn ist entsprechend zu reduzieren. Für Teilzeitbeschäftigte bestimmt sich die Grenze anteilmässig. Soweit der Regierungsrat Anstellungsbehörde ist, wird die Bewilligung durch die Departementsvorsteherin oder den Departementsvorsteher im Einvernehmen mit dem zuständigen Personaldienst erteilt.
+<sup>2</sup> Die Übernahme bedarf einer Bewilligung der Anstellungsbehörde im Einvernehmen mit dem zuständigen Personaldienst, wenn die Gefahr eines Interessenskonfliktes besteht oder die Abwesenheit während der ordentlichen Arbeitszeit bei einem Vollpensum mehr als 15 Tage im Kalenderjahr beträgt. Die 15 Tage übersteigende Abwesenheit vom Arbeitsplatz ist zu kompensieren, oder der Lohn ist entsprechend zu reduzieren. Für Teilzeitbeschäftigte bestimmt sich die Grenze anteilmässig. Soweit der Regierungsrat Anstellungsbehörde ist, wird die Bewilligung durch die Departementsvorsteherin oder den Departementsvorsteher im Einvernehmen mit dem zuständigen Personaldienst erteilt. <sup>2)</sup>
 
 #### § 30
 
@@ -395,11 +402,13 @@ beschliesst:
 
 <sup>2</sup> Zur Deckung von Schäden aus der Amtsführung von Mitarbeiterinnen und Mitarbeitern kann der Regierungsrat auf Kosten des Kantons Versicherungen abschliessen.
 
-## 4 Arbeitszeit, Überzeit, Feiertage, Ferien und Urlaub
+## 4. Abschnitt: Arbeitszeit, Überzeit, Feiertage, Ferien und Urlaub
 
 #### § 31
 
-**Arbeitszeit**
+<sup>8)</sup>
+
+**Arbeitszeit 8)**
 
 <sup>1</sup> Die wöchentliche Sollarbeitszeit der vollamtlichen Mitarbeiterinnen und Mitarbeiter beträgt 42 Stunden. Soweit es der Dienstbetrieb zulässt, kann täglich eine bezahlte Pause von maximal 15 Minuten im Arbeitsumfeld erfolgen. Pausen sind im Übrigen unbezahlt.
 
@@ -409,9 +418,11 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat legt jährlich auf Antrag des Finanzdepartementes zusätzliche Freitage fest, welche durch tägliche Mehrarbeit kompensiert werden.
 
-<sup>5</sup> Vorbehalten bleiben besondere Arbeitszeitmodelle oder Weisungen über die Arbeitszeit mit Zustimmung des zuständigen Departementes bzw. des Obergerichtes oder der Staatskanzlei für bestimmte Bereiche oder Personenkategorien, insbesondere für 24-Stunden-Betriebe und Lehrpersonen. Die selbständigen öffentlichrechtlichen Anstalten können eigene Modelle vorsehen. Diese sollen sich soweit als möglich an den allgemeinen Regelungen orientieren.
+<sup>5</sup> Vorbehalten bleiben besondere Arbeitszeitmodelle oder Weisungen über die Arbeitszeit mit Zustimmung des zuständigen Departementes bzw. des Obergerichtes oder der Staatskanzlei für bestimmte Bereiche oder Personenkategorien, insbesondere für 24- Stunden-Betriebe und Lehrpersonen. Die selbständigen öffentlichrechtlichen Anstalten können eigene Modelle vorsehen. Diese sollen sich soweit als möglich an den allgemeinen Regelungen orientieren.
 
 #### § 31a
+
+<sup>9)</sup>
 
 **Teilzeitarbeit**
 
@@ -421,17 +432,21 @@ beschliesst:
 
 #### § 31b
 
+<sup>9)</sup>
+
 **Jobsharing**
 
 <sup>1</sup> Eine Stelle kann auf zwei oder mehr Personen aufgeteilt werden, welche für die Aufgabenerfüllung gemeinsam verantwortlich sind.
 
-<sup>2</sup> Die Anstellungsbehörde entscheidet, ob eine Stelle im Jobsharing besetzt wird. Zu berücksichtigen sind insbesondere die Arbeitsabläufe und ‑inhalte, der Informationsfluss unter den Beteiligten, die Möglichkeit zur gemeinsamen Wahrnehmung von Verantwortung und Kompetenzen sowie die Eignung der in Frage kommenden Personen.
+<sup>2</sup> Die Anstellungsbehörde entscheidet, ob eine Stelle im Jobsharing besetzt wird. Zu berücksichtigen sind insbesondere die Arbeitsabläufe und -inhalte, der Informationsfluss unter den Beteiligten, die Möglichkeit zur gemeinsamen Wahrnehmung von Verantwortung und Kompetenzen sowie die Eignung der in Frage kommenden Personen.
 
 <sup>3</sup> Es werden separate, voneinander unabhängige Arbeitsverhältnisse begründet. Diese sind personalrechtlich den teilzeitlichen Arbeitsverhältnissen gleichgestellt.
 
 <sup>4</sup> In einer Zusatzvereinbarung sind insbesondere zu regeln: Arbeitszeiten, Arbeitsplatz, Aufgabenteilung mit gemeinsamer oder getrennter Verantwortung, Stellvertretung sowie Voraussetzungen zur Beendigung des Jobsharing.
 
 #### § 31c
+
+<sup>9)</sup>
 
 **Telearbeit**
 
@@ -443,17 +458,19 @@ beschliesst:
 
 #### § 32
 
-**Ansprechzeiten**
+<sup>8)</sup>
+
+**Ansprechzeiten 8)**
 
 <sup>1</sup> Die Dienststellen legen Ansprechzeiten fest, während der sie erreichbar sein sollen. Während dieser Zeiten ist die Auskunfts- und Funktionsbereitschaft für die Öffentlichkeit und den internen Betrieb sicherzustellen. Die Ansprechzeiten beziehen sich nicht auf einzelne Personen, sondern auf die Dienststelle.
 
-<sup>2</sup> Die Ansprechzeiten der Dienststellen sind in der Regel mindestens Montag bis Freitag von 8:00 bis 11:30 Uhr und von 14:00 bis 17:00 Uhr.
+<sup>2</sup> Die Ansprechzeiten der Dienststellen sind in der Regel mindestens Montag bis Freitag von 8.00 bis 11.30 Uhr und von 14.00 bis 17.00 Uhr.
 
-<sup>3</sup> Vor Feiertagen sind die Büros und Schalter ab 16:00 Uhr geschlossen.
+<sup>3</sup> Vor Feiertagen sind die Büros und Schalter ab 16.00 Uhr geschlossen.
 
 <sup>4</sup> Im Interesse der Öffentlichkeit und der Kundinnen und Kunden oder aus betrieblichen Gründen können die Dienststellen mit Zustimmung des Departementes bzw. des Obergerichtes oder der Staatskanzlei zusätzliche Ansprechzeiten festlegen.
 
-<sup>5</sup> Reduktionen der Ansprechzeiten gemäss Abs. 2 bedürfen der Genehmigung des Regierungsrates bzw. des Obergerichtes.
+<sup>5</sup> Reduktionen der Ansprechzeiten gemäss Absatz 2 bedürfen der Genehmigung des Regierungsrates bzw. des Obergerichtes.
 
 <sup>6</sup> Die Ansprechzeiten sind in geeigneter Form bekannt zu machen.
 
@@ -463,13 +480,15 @@ beschliesst:
 
 <sup>1</sup> Als Feiertage gelten Neujahr, Berchtoldstag, Karfreitag, Ostermontag, 1. Mai, Auffahrt, Pfingstmontag, 1. August, Weihnachtstag und Stephanstag.
 
-<sup>2</sup> Für die Tage vor hohen Feiertagen gemäss Art. 2 des Ruhetagsgesetzes (Karfreitag und Weihnachtstag) erhalten Vollzeitbeschäftigte eine Zeitgutschrift von zwei Stunden. Davon ausgenommen sind Samstage und Sonntage. Teilzeitbeschäftigten wird die Zeit anteilmässig gewährt.
+<sup>2</sup> Für die Tage vor hohen Feiertagen gemäss Art. 2 des Ruhetagsgesetzes (Karfreitag und Weihnachtstag) erhalten Vollzeitbeschäftigte eine Zeitgutschrift von zwei Stunden. Davon ausgenommen sind Samstage und Sonntage. Teilzeitbeschäftigten wird die Zeit anteilmässig gewährt. <sup>15)</sup>
 
 <sup>3</sup> Feiertage, die in die Ferien fallen, können nachbezogen werden. Dagegen können sie bei Krankheit, Unfall oder Urlaub nicht geltend gemacht werden.
 
 <sup>4</sup> Vorbehalten bleiben besondere Regelungen.
 
 #### § 34
+
+<sup>8)</sup>
 
 **Überstundenarbeit**
 
@@ -479,7 +498,7 @@ beschliesst:
 
 <sup>3</sup> Es werden höchstens 180 Überstunden im Kalenderjahr vergütet.
 
-<sup>4</sup> …
+<sup>4</sup> … <sup>24)</sup>
 
 <sup>5</sup> Die von teilzeitbeschäftigten Mitarbeiterinnen und Mitarbeitern geleistete Mehrarbeit bis zu einem vollen Arbeitspensum gibt keinen Anspruch auf Überstundenentschädigung.
 
@@ -487,11 +506,7 @@ beschliesst:
 
 **Ferienanspruch**
 
-<sup>1</sup> Der jährliche Ferienanspruch der vollamtlichen Mitarbeiterinnen und Mitarbeiter beträgt:
-
-- a) 24 Tage bis zum Kalenderjahr, in dem das 49. Altersjahr vollendet wird
-- b) 28 Tage vom Kalenderjahr an, in dem das 50. Altersjahr vollendet wird
-- c) 32 Tage vom Kalenderjahr an, in dem das 60. Altersjahr vollendet wird
+<sup>1</sup> Der jährliche Ferienanspruch der vollamtlichen Mitarbeiterinnen und Mitarbeiter beträgt a) 24 Tage bis zum Kalenderjahr, in dem das 49. Altersjahr vollendet wird; <sup>7)</sup> b) 28 Tage vom Kalenderjahr an, in dem das 50. Altersjahr vollendet wird; <sup>7)</sup> c) 32 Tage vom Kalenderjahr an, in dem das 60. Altersjahr vollendet wird.
 
 <sup>2</sup> Die Ferien sollen der Erholung dienen und sind in der Regel zusammenhängend und im Verlauf des betreffenden Dienstjahres zu beziehen. Im Kalenderjahr nicht bezogene Ferien müssen spätestens im ersten Viertel des folgenden Jahres nachgeholt werden. Die Vorgesetzten legen den Zeitpunkt der Ferien im Einvernehmen mit den Mitarbeiterinnen und Mitarbeitern fest, wobei auf die Interessen des Arbeitgebers Rücksicht zu nehmen ist.
 
@@ -507,29 +522,33 @@ beschliesst:
 
 <sup>2</sup> Ordnungsgemäss durch ärztliches Zeugnis gemeldete Krankheit oder Unfall unterbricht die Ferien, wenn der Erholungszweck vereitelt wird.
 
-<sup>3</sup> Übersteigt die Abwesenheit infolge von Militärdienst oder anderen Dienstleistungen, bezahltem Urlaub (ausgenommen Schwangerschafts- bzw. Mutterschafts-, Vaterschafts-, Adoptions- oder Betreuungsurlaub für gesundheitlich schwer beeinträchtigte Kinder), Krankheit, Unfall oder Schwangerschaft im Kalenderjahr drei Monate oder dauert sie zusammenhängend mehr als drei Monate, so reduziert sich der Ferienanspruch für jeden weiteren ganzen Monat Abwesenheit um je einen Zwölftel.
+<sup>3</sup> Übersteigt die Abwesenheit infolge von Militärdienst oder anderen Dienstleistungen, bezahltem Urlaub (ausgenommen Schwangerschafts- bzw. Mutterschafts-, Vaterschafts-, Adoptions- oder Betreuungsurlaub für gesundheitlich schwer beeinträchtigte Kinder), Krankheit, Unfall oder Schwangerschaft im Kalenderjahr drei Monate oder dauert sie zusammenhängend mehr als drei Monate, so reduziert sich der Ferienanspruch für jeden weiteren ganzen Monat Abwesenheit um je einen Zwölftel. <sup>21)</sup>
 
 #### § 37
 
-**Finanzielle Abgeltung für nicht bezogene Ferien und Verrechnung zuviel bezogener Ferien**
+**Finanzielle Abgeltung für nicht bezogene Ferien und Verrechnung zuviel bezogener Ferien 2)**
 
-<sup>1</sup> Eine finanzielle Abgeltung der Ferien ist nur möglich, wenn die Ferien aus dienstlichen Gründen oder wegen Krankheit oder Unfall bis zum Zeitpunkt des Austritts aus dem Staatsdienst nicht mehr bezogen werden können. Im Falle einer unbefristeten Pensenreduktion um mehr als 30% werden die Ferien aus dem entfallenden Teil ausbezahlt. Endet das Arbeitsverhältnis infolge Todesfall, werden Ferien nicht abgegolten.
+<sup>1</sup> Eine finanzielle Abgeltung der Ferien ist nur möglich, wenn die Ferien aus dienstlichen Gründen oder wegen Krankheit oder Unfall bis zum Zeitpunkt des Austritts aus dem Staatsdienst nicht mehr bezogen werden können. Im Falle einer unbefristeten Pensenreduktion um mehr als 30 % werden die Ferien aus dem entfallenden Teil ausbezahlt. Endet das Arbeitsverhältnis infolge Todesfall, werden Ferien nicht abgegolten. <sup>23)</sup>
 
 <sup>2</sup> Der Ferienanspruch ist mit der Lohnzahlung bei Krankheit oder Unfall vollumfänglich abgegolten, wenn im Anschluss an die Lohnzahlung das Arbeitsverhältnis aus diesen Gründen aufgelöst wird.
 
-<sup>3</sup> Zuviel bezogene Ferien werden auf das Ende des Arbeitsverhältnisses mit dem Lohn verrechnet.
+<sup>3</sup> Zuviel bezogene Ferien werden auf das Ende des Arbeitsverhältnisses mit dem Lohn verrechnet. <sup>3)</sup>
 
 #### § 37a
 
-**Einmalige Auszahlung von hohen Feriensaldi**
+<sup>25)</sup>
+
+**Einmalige Auszahlung von hohen Feriensaldi 25)**
 
 <sup>1</sup> Bestehende Feriensaldi sind nach Möglichkeit bis Ende 2026 abzubauen. Die Vorgesetzten streben mit den Mitarbeitenden einen entsprechenden Abbauplan an.
 
 <sup>2</sup> Verbleibende Feriensaldi, welche den jährlichen Ferienanspruch gemäss § 35 übersteigen, werden bis spätestens Februar 2027 wie folgt ausbezahlt:
 
-- a) Saldi unter 50 Tage werden einmalig ausbezahlt
-- b) Bei Saldi von 50 oder mehr Tagen kann die Auszahlung auf zwei Jahre verteilt werden. Eine einmalige Auszahlung ist ebenfalls möglich
-- c) Bei Saldi von 90 oder mehr Tagen kann die Auszahlung auf drei Jahre verteilt werden. Eine einmalige Auszahlung ist ebenfalls möglich
+- a) Saldi unter 50 Tage werden einmalig ausbezahlt.
+
+- b) Bei Saldi von 50 oder mehr Tagen kann die Auszahlung auf zwei Jahre verteilt werden. Eine einmalige Auszahlung ist ebenfalls möglich.
+
+- c) Bei Saldi von 90 oder mehr Tagen kann die Auszahlung auf drei Jahre verteilt werden. Eine einmalige Auszahlung ist ebenfalls möglich.
 
 <sup>3</sup> Die Einzelheiten einer Auszahlung sind mit den Vorgesetzten zu klären. Das Personalamt ist frühzeitig über den Auszahlungszeitpunkt zu informieren.
 
@@ -545,18 +564,19 @@ beschliesst:
 
 **Urlaub**
 
-<sup>1</sup> Zuständig für die Bewilligung von ganz oder teilweise bezahltem Urlaub für Weiterbildung oder andere im Interesse des Kantons liegende ausserdienstliche Tätigkeiten sind:
+<sup>1</sup> Zuständig für die Bewilligung von ganz oder teilweise bezahltem Urlaub für Weiterbildung oder andere im Interesse des Kantons liegende ausserdienstliche Tätigkeiten sind a) die Dienststellenleiterin oder der Dienststellenleiter in Absprache mit dem Personalamt bis fünf Tage;
 
-- a) die Dienststellenleiterin oder der Dienststellenleiter in Absprache mit dem Personalamt bis fünf Tage
-- b) das zuständige Departement bzw. die Staatskanzlei in Absprache mit dem Personalamt und die Gerichtspräsidentin oder der Gerichtspräsident für sechs bis 19 Tage
-- c) der Regierungsrat, wenn der bezahlte Urlaub länger als 19 Tage dauert
-- d) die Krankenanstalten
+- b) das zuständige Departement bzw. die Staatskanzlei in Absprache mit dem Personalamt und die Gerichtspräsidentin oder der Gerichtspräsident für sechs bis 19 Tage;
 
-<sup>2</sup> Zuständig für die Bewilligung von unbezahltem Urlaub sind:
+- c) der Regierungsrat, wenn der bezahlte Urlaub länger als 19 Tage dauert;
 
-- a) die Dienststellenleiterin oder der Dienststellenleiter und die Gerichtspräsidentin oder der Gerichtspräsident bis vier Monate
-- b) die Anstellungsbehörde, wenn der unbezahlte Urlaub länger als vier Monate dauert
-- c) die Krankenanstalten
+- d) die Krankenanstalten.
+
+<sup>2</sup> Zuständig für die Bewilligung von unbezahltem Urlaub sind a) die Dienststellenleiterin oder der Dienststellenleiter und die Gerichtspräsidentin oder der Gerichtspräsident bis vier Monate;
+
+- b) die Anstellungsbehörde, wenn der unbezahlte Urlaub länger als vier Monate dauert;
+
+- c) die Krankenanstalten.
 
 <sup>3</sup> Durch den Urlaub erfährt das Arbeitsverhältnis keinen Unterbruch. Den Personaldiensten ist die Dauer des Urlaubs mitzuteilen. Während eines unbezahlten Urlaubes ruhen die gegenseitigen Pflichten aus dem Arbeitsverhältnis.
 
@@ -564,9 +584,11 @@ beschliesst:
 
 <sup>5</sup> Während eines unbezahlten Urlaubes läuft die Versicherung bei der Kantonalen Pensionskasse nach Wahl der Mitarbeiterin oder des Mitarbeiters unverändert oder nur als Risikoversicherung weiter. Die unbezahlt beurlaubte Person bezahlt für die Zeit des Urlaubes sowohl die persönliche Prämie wie auch die Arbeitgeberprämie und allfällige Einkaufsleistungen an die Pensionskasse. Ebenso ist sie für den rechtzeitigen Abschluss der Abredeversicherung gemäss Bundesgesetz über die Unfallversicherung zuständig und hat für die Prämien aufzukommen.
 
-<sup>6</sup> Hat das Arbeitsverhältnis vor Beginn des Urlaubes mindestens fünf Jahre gedauert, so übernimmt der Arbeitgeber die Arbeitgeberprämien an die Pensionskasse für längstens sechs Monate. Bei Nichtwiederaufnahme der Arbeit müssen die Beiträge durch die Mitarbeiterin oder den Mitarbeiter zurückerstattet werden. Der Regierungsrat kann in besonderen Fällen vorsehen, während eines unbezahlten Urlaubes bis sechs Monate oder darüber die Arbeitgeber- wie auch die Arbeitnehmerprämien an die Pensionskasse zu übernehmen.
+<sup>6</sup> Hat das Arbeitsverhältnis vor Beginn des Urlaubes mindestens fünf Jahre gedauert, so übernimmt der Arbeitgeber die Arbeitgeberprämien an die Pensionskasse für längstens sechs Monate. Bei Nichtwiederaufnahme der Arbeit müssen die Beiträge durch die Mitarbeiterin oder den Mitarbeiter zurückerstattet werden. Der Regierungsrat kann in besonderen Fällen vorsehen, während eines unbezahlten Urlaubes bis sechs Monate oder darüber die Arbeitgeber- wie auch die Arbeitnehmerprämien an die Pensionskasse zu übernehmen. <sup>14)</sup>
 
 #### § 39a
+
+<sup>10)</sup>
 
 **Auszeit**
 
@@ -582,20 +604,11 @@ beschliesst:
 
 **Kurzurlaub**
 
-<sup>1</sup> Ohne Anrechnung an die Ferien und ohne Lohnkürzung wird durch die Dienststellenleiterin oder den Dienststellenleiter Urlaub gewährt bei:
+<sup>1</sup> Ohne Anrechnung an die Ferien und ohne Lohnkürzung wird durch die Dienststellenleiterin oder den Dienststellenleiter Urlaub gewährt bei a) Tod der Lebensgefährtin oder des Lebensgefährten und von eigenen Kindern b) Tod eines Elternteils c) Tod von Grosseltern, Geschwistern und Schwiegereltern 1 Tag d) <sup>6)</sup> eigener Heirat oder Eintragung der Partnerschaft Heirat oder Eintragung der Partnerschaft der eigenen Kinder, von Geschwistern oder eines Elternteils e) … <sup>17)</sup> f) Umzug mit eigenem Haushalt (möblierte Zimmer gelten nicht als Haushalt) sowie Mithilfe beim Umzug der Eltern, die in Hausgemeinschaft leben g) militärischer Rekrutierung, Inspektion und Abgabe h) aktiver Teilnahme an einem eidgenössischen Fest i) Teilnahme als Abgeordnete oder Abgeordneter an gesamtschweizerischen Tagungen von Berufsverbänden und Gewerkschaften bis zu 3 Tage im Jahr j) Teilnahme an Bildungsveranstaltungen der im Arbeitsverhältnis zum Kanton stehenden Mitglieder der Personalkommission im Zusammenhang mit dieser Tätigkeit;
 
-- a) Tod der Lebensgefährtin oder des Lebensgefährten und von eigenen Kindern: 3 Tage
-- b) Tod eines Elternteils: 2 Tage
-- c) Tod von Grosseltern, Geschwistern und Schwiegereltern: 1 Tag
-- d) eigener Heirat oder Eintragung der Partnerschaft: 2 Tage
-  - 1\. Heirat oder Eintragung der Partnerschaft der eigenen Kinder, von Geschwistern oder eines Elternteils: 1 Tag
-- e) …
-- f) Umzug mit eigenem Haushalt (möblierte Zimmer gelten nicht als Haushalt) sowie Mithilfe beim Umzug der Eltern, die in Hausgemeinschaft leben: 1 Tag
-- g) militärischer Rekrutierung, Inspektion und Abgabe: bis zu 3 Tage
-- h) aktiver Teilnahme an einem eidgenössischen Fest: 1 Tag im Jahr
-- i) Teilnahme als Abgeordnete oder Abgeordneter an gesamtschweizerischen Tagungen von Berufsverbänden und Gewerkschaften: bis zu 3 Tage im Jahr
-- j) Teilnahme an Bildungsveranstaltungen der im Arbeitsverhältnis zum Kanton stehenden Mitglieder der Personalkommission im Zusammenhang mit dieser Tätigkeit: bis zu 3 Tage im Jahr
-- k) notwendiger Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung: höchstens 3 Tage pro Ereignis und 10 Tage pro Jahr
+**bis zu 3 Tage im Jahr**
+
+- k) <sup>19)</sup> notwendiger Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung höchstens 3 Tage pro Ereignis und 10 Tage pro Jahr
 
 <sup>2</sup> Fallen diese Ereignisse in die Zeit von Krankheit, Unfall oder Urlaub, besteht kein Anspruch auf ausserordentlichen Urlaub.
 
@@ -605,15 +618,27 @@ beschliesst:
 
 <sup>5</sup> Urlaub für die Dienststellenleiterin oder den Dienststellenleiter wird durch die Departementsvorsteherin oder den Departementsvorsteher gewährt.
 
-## 5 Arbeitsverhinderung, Krankheit und Unfall, Schwangerschaft, Vaterschaft
+**3 Tage 2 Tage**
+
+## 5. Abschnitt: Arbeitsverhinderung, Krankheit und Unfall, Schwangerschaft, Vaterschaft <sup>16)</sup>
 
 #### § 41
+
+**2 Tage**
+
+**1 Tag**
 
 **Arbeitsverhinderung**
 
 <sup>1</sup> Krankheit, Unfall oder sonstige Arbeitsverhinderung ist der vorgesetzten Stelle sofort mitzuteilen. Dauert die Abwesenheit bei Krankheit mehr als fünf und bei Unfall mehr als zwei Arbeitstage, ist der vorgesetzten Stelle unaufgefordert ein Arztzeugnis zuzustellen. Diese kann in begründeten Fällen früher ein Arztzeugnis verlangen.
 
+**1 Tag**
+
+**bis zu 3 Tage**
+
 <sup>2</sup> Das Arztzeugnis soll sich zur Ursache (Krankheit, Unfall oder Schwangerschaft), zum Grad und zur voraussichtlichen Dauer der Arbeitsunfähigkeit äussern. Auf Anfrage soll es auch Angaben enthalten, ob und gegebenenfalls welche anderen Aufgaben die Mitarbeiterin oder der Mitarbeiter übernehmen kann.
+
+**1 Tag im Jahr**
 
 <sup>3</sup> Die vorgesetzte Stelle ist fortlaufend über die voraussichtliche Wiederaufnahme der Arbeit zu orientieren und über die definitive Arbeitsaufnahme in Kenntnis zu setzen. Bei längeren Absenzen sind in der Regel monatlich Arztzeugnisse einzureichen.
 
@@ -645,10 +670,9 @@ beschliesst:
 
 <sup>3</sup> Besitzt die Mitarbeiterin oder der Mitarbeiter gegenüber einer staatlich anerkannten Sozialversicherung einen gesetzlichen Anspruch auf ein Krankengeld, eine Invalidenrente oder dergleichen, so werden diese Versicherungsleistungen mit dem Lohn verrechnet. Sie sind dem Personaldienst unverzüglich bei Ankündigung oder Vollzug zu melden. Von der Verrechnung ausgenommen sind Leistungen, welche die Mitarbeiterin oder der Mitarbeiter mehrheitlich selbst finanziert.
 
-<sup>4</sup> Die Lohnzahlung kann in Absprache mit dem Personalamt gekürzt werden, wenn:
+<sup>4</sup> Die Lohnzahlung kann in Absprache mit dem Personalamt gekürzt werden, wenn a) sich die Mitarbeiterin oder der Mitarbeiter den von den zuständigen Stellen angeordneten medizinischen und organisatorischen Massnahmen widersetzt;
 
-- a) sich die Mitarbeiterin oder der Mitarbeiter den von den zuständigen Stellen angeordneten medizinischen und organisatorischen Massnahmen widersetzt
-- b) die Mitarbeiterin oder der Mitarbeiter den Unfall oder die Krankheit, welche die Arbeitsverhinderung verursachte, grob verschuldet herbeigeführt hat
+- b) die Mitarbeiterin oder der Mitarbeiter den Unfall oder die Krankheit, welche die Arbeitsverhinderung verursachte, grob verschuldet herbeigeführt hat.
 
 <sup>5</sup> Ist ein Dritter für die Krankheit oder den Unfall der Mitarbeiterin oder dem Mitarbeiter gegenüber schadenersatzpflichtig, so geht der Anspruch der geschädigten Person bis zur Höhe der erbrachten Leistungen an den Kanton über. Die Mitarbeiterin oder der Mitarbeiter hat bei der Geltendmachung der Forderung mitzuwirken.
 
@@ -656,11 +680,11 @@ beschliesst:
 
 **Lohnzahlung bei Schwangerschaft und Mutterschaft**
 
-<sup>1</sup> Mitarbeiterinnen haben bei Schwangerschaft und Mutterschaft Anspruch auf einen bezahlten Urlaub von vier Monaten, sofern das Arbeitsverhältnis bis zur Niederkunft über neun Monate gedauert hat. Hat das Arbeitsverhältnis weniger als neun Monate gedauert, besteht Anspruch auf zwei Monate Lohnzahlung und Leistungen im Ausmass der Mutterschaftsentschädigung gemäss EO. Die Berechnung der Leistungen richtet sich nach § 43 bzw. der EO. Der Arbeitgeber bevorschusst die Taggeldleistungen der EO. Diese fallen dem Arbeitgeber zu.
+<sup>1</sup> Mitarbeiterinnen haben bei Schwangerschaft und Mutterschaft Anspruch auf einen bezahlten Urlaub von vier Monaten, sofern das Arbeitsverhältnis bis zur Niederkunft über neun Monate gedauert hat. Hat das Arbeitsverhältnis weniger als neun Monate gedauert, besteht Anspruch auf zwei Monate Lohnzahlung und Leistungen im Ausmass der Mutterschaftsentschädigung gemäss EO. Die Berechnung der Leistungen richtet sich nach § 43 bzw. der EO. Der Arbeitgeber bevorschusst die Taggeldleistungen der EO. Diese fallen dem Arbeitgeber zu. <sup>2)</sup>
 
-<sup>1<sup>bis</sup></sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung gemäss EO.
+<sup>1bis</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung gemäss EO. <sup>20)</sup>
 
-<sup>2</sup> Der bezahlte Schwangerschafts- bzw. Mutterschaftsurlaub beginnt zwei Wochen vor dem Tag der Niederkunft. Die Vorgesetzte oder der Vorgesetzte kann der Mitarbeiterin ausnahmsweise gestatten, bis längstens zur Niederkunft zu arbeiten. Die Krankenanstalten und das Erziehungsdepartement für Lehrpersonen legen den Beginn des bezahlten Schwangerschafts- bzw. Mutterschaftsurlaubes in eigener Kompetenz fest.
+<sup>2</sup> Der bezahlte Schwangerschafts- bzw. Mutterschaftsurlaub beginnt zwei Wochen vor dem Tag der Niederkunft. Die Vorgesetzte oder der Vorgesetzte kann der Mitarbeiterin ausnahmsweise gestatten, bis längstens zur Niederkunft zu arbeiten. Die Krankenanstalten und das Erziehungsdepartement für Lehrpersonen legen den Beginn des bezahlten Schwangerschafts- bzw. Mutterschaftsurlaubes in eigener Kompetenz fest.<sup>16)</sup>
 
 <sup>3</sup> Freie Tage, die in die Zeit des Schwangerschafts- bzw. Mutterschaftsurlaubes fallen, können nicht nachbezogen werden.
 
@@ -669,6 +693,8 @@ beschliesst:
 <sup>5</sup> Bei Wiederaufnahme der Arbeit vor Ablauf des bezahlten Schwangerschafts- bzw. Mutterschaftsurlaubes erlischt von diesem Zeitpunkt an der Anspruch auf die Lohnfortzahlung gemäss Abs. 1. Ausgenommen bleiben kurze, freiwillige bezahlte Einsätze im Interesse des Arbeitgebers.
 
 #### § 44a
+
+<sup>18)</sup>
 
 **Vaterschaftsurlaub**
 
@@ -682,9 +708,11 @@ beschliesst:
 
 #### § 44b
 
+<sup>20)</sup>
+
 **Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes**
 
-<sup>1</sup> Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16i–16m EOG, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
+<sup>1</sup> Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16i-16m EOG, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
 
 <sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
 
@@ -698,9 +726,11 @@ beschliesst:
 
 #### § 44c
 
+<sup>22)</sup>
+
 **Adoptionsurlaub**
 
-<sup>1</sup> Wer eine Adoptionsentschädigung gemäss Art. 16t–16x EOG bekommt, hat analog zum EOG Anspruch auf einen bezahlten Urlaub von höchstens zwei Wochen (zehn Arbeitstagen).
+<sup>1</sup> Wer eine Adoptionsentschädigung gemäss Art. 16t - 16x EOG bekommt, hat analog zum EOG Anspruch auf einen bezahlten Urlaub von höchstens zwei Wochen (zehn Arbeitstagen).
 
 <sup>2</sup> Dieser Urlaub ist binnen eines Jahres nach der Aufnahme des Kindes wochen- oder tageweise zu beziehen.
 
@@ -740,11 +770,11 @@ beschliesst:
 
 <sup>2</sup> Es kann Zusatzversicherungen abschliessen oder anbieten.
 
-<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter tragen die Hälfte der Prämien für die Nichtberufsunfallversicherung gemäss dem jeweils tiefsten Ansatz der eingesetzten Versicherer.
+<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter tragen die Hälfte der Prämien für die Nichtberufsunfallversicherung gemäss dem jeweils tiefsten Ansatz der eingesetzten Versicherer. <sup>12)</sup>
 
 <sup>4</sup> Vorbehalten bleiben besondere Regelungen in den Krankenanstalten mit Zustimmung des Regierungsrates.
 
-## 6 Weiterbildung
+## 6. Abschnitt: Weiterbildung
 
 #### § 48
 
@@ -754,11 +784,15 @@ beschliesst:
 
 <sup>2</sup> Das Personalamt sowie die Anstalten veröffentlichen regelmässig Weiterbildungsangebote.
 
-<sup>3</sup> Liegt die Weiterbildung im Interesse des Arbeitgebers, hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf angemessenen Urlaub und auf vollständige oder teilweise Vergütung der Kosten. Die Höhe der Kostenbeteiligung (Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung) richtet sich nach dem Interesse des Arbeitgebers an der Weiterbildung der Mitarbeiterin oder des Mitarbeiters. Folgende Interessengrade sind zu unterscheiden:
+<sup>3</sup> Liegt die Weiterbildung im Interesse des Arbeitgebers, hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf angemessenen Urlaub und auf vollständige oder teilweise Vergütung der Kosten. Die Höhe der Kostenbeteiligung (Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung) richtet sich nach dem Interesse des Arbeitgebers an der Weiterbildung der Mitarbeiterin oder des Mitarbeiters. Folgende Interessengrade sind zu unterscheiden;
 
-- a) Interessengrad 1: Weiterbildung im überwiegenden Interesse des Arbeitgebers
-- b) Interessengrad 2: Weiterbildung im beiderseitigen Interesse von Arbeitgeber und Mitarbeiterin oder Mitarbeiter
-- c) Interessengrad 3: Weiterbildung im vorwiegend oder ausschliesslich privaten Interesse der Mitarbeiterin oder des Mitarbeiters
+- Interessengrad 1: Weiterbildung im überwiegenden Interes-
+
+se des Arbeitgebers;
+
+- Interessengrad 2: Weiterbildung im beiderseitigen Interesse von Arbeitgeber und Mitarbeiterin oder Mitarbeiter;
+
+- Interessengrad 3: Weiterbildung im vorwiegend oder ausschliesslich privaten Interesse der Mitarbeiterin oder des Mitarbeiters.
 
 <sup>4</sup> Der Besuch von externen Weiterbildungsveranstaltungen während der Arbeitszeit ist von der dafür zuständigen Vorgesetzten oder dem Vorgesetzten zu bewilligen.
 
@@ -768,11 +802,17 @@ beschliesst:
 
 <sup>1</sup> Die Übernahme der Kosten wird nach folgendem Schema berechnet:
 
-<table>
-<tr><th>Kosten</th><th>Interessengrad 1</th><th>Interessengrad 2</th><th>Interessengrad 3</th></tr>
-<tr><td>Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung</td><td>Bis zu 100%</td><td>Bis zu 50%</td><td>–</td></tr>
-<tr><td>Lohnzahlung</td><td>Bis zu 100%</td><td>Bis zu 100%</td><td>unbezahlter Urlaub</td></tr>
-</table>
+Interessengrad:
+
+**3**
+
+1 2
+
+### Kosten: bis zu bis zu
+
+Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung 100 % 50 % Lohnzahlung 100 % 100 % Urlaub
+
+**- unbezahlter**
 
 <sup>2</sup> Über die Höhe der Kostenbeteiligung entscheidet die Dienststelle im Einvernehmen mit dem Personaldienst.
 
@@ -782,7 +822,7 @@ beschliesst:
 
 **Rückzahlungspflicht**
 
-<sup>1</sup> Übersteigt der Beitrag des Arbeitgebers an die Kosten der Weiterbildung (Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung) Fr. 4'000.00 oder werden während des Urlaubs Lohn und Arbeitgeberbeiträge an Sozialversicherungen einschliesslich Pensionskasse bezahlt, so ist die Mitarbeiterin oder der Mitarbeiter unter den nachfolgenden Voraussetzungen zur Rückzahlung verpflichtet.
+<sup>1</sup> Übersteigt der Beitrag des Arbeitgebers an die Kosten der Weiterbildung (Kurs- und Reisekosten, Kosten für Unterkunft und Verpflegung) Fr. 4'000.-- oder werden während des Urlaubs Lohn und Arbeitgeberbeiträge an Sozialversicherungen einschliesslich Pensionskasse bezahlt, so ist die Mitarbeiterin oder der Mitarbeiter unter den nachfolgenden Voraussetzungen zur Rückzahlung verpflichtet.
 
 <sup>2</sup> Die Rückzahlungspflicht entsteht, wenn die Mitarbeiterin oder der Mitarbeiter den Staatsdienst innert zwei Jahren nach Beendigung der Weiterbildung oder des Urlaubs aus eigenem Antrieb verlässt. Der rückzahlbare Betrag entspricht den Leistungen des Arbeitgebers und wird innerhalb der Zweijahresfrist anteilsmässig nach der Dauer der verbliebenen Dienstzeit reduziert. Keine Rückzahlungspflicht besteht, wenn die Mitarbeiterin oder der Mitarbeiter den Staatsdienst verlässt, nachdem eine im überwiegenden Interesse des Arbeitgebers liegende Weiterbildung mit formellem Abschluss nicht bestanden wurde. Vorbehalten bleibt Abs. 3.
 
@@ -792,7 +832,7 @@ beschliesst:
 
 <sup>5</sup> Vorbehalten bleiben besondere Regelungen des Regierungsrates sowie der Krankenanstalten mit Zustimmung der Departementsvorsteherin oder des Departementsvorstehers.
 
-## 7 Schlussbestimmungen
+## 7. Abschnitt: Schlussbestimmungen
 
 #### § 51
 
@@ -808,24 +848,60 @@ beschliesst:
 
 <sup>2</sup> Alle mit ihr in Widerspruch stehenden Bestimmungen sind aufgehoben.
 
-<sup>3</sup> Sie ersetzt insbesondere die gleichlautende Verordnung vom 24. Februar 1987.
+<sup>3</sup> Sie ersetzt insbesondere die gleichlautende Verordnung vom 24. Februar 1987. ... <sup>4)</sup>
 
 <sup>4</sup> Vom neuen Recht redaktionell abweichende personalrechtliche Bestimmungen und Bezeichnungen in weiteren Erlassen sind bis zu einer allfälligen Anpassung im Sinne des neuen Rechtes auszulegen.
 
-<sup>5</sup> Diese Verordnung ist im Amtsblatt zu veröffentlichen[^52-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>5</sup> Diese Verordnung ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^52-1]: Amtsblatt 2004, S. 1851.
+Fussnoten:
 
-#### § T1
+- 1) Amtsblatt 2004, S. 1851.
 
-**Übergangsbestimmung zur Änderung vom 31. August 2010**
+- 2) Fassung gemäss RRB vom 27. September 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1259).
 
-<sup>1</sup> Für Urlaube gemäss § 39a werden die bisherigen Dienstjahre angerechnet. Ein Bezug im ersten Jahr nach Inkrafttreten kann nicht garantiert werden.
+- 3) Eingefügt durch RRB vom 27. September 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1259).
 
-#### § T2
+- 4) Aufgehoben durch RRB vom 27. September 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1259).
 
-**Übergangsbestimmung zur Änderung vom 12. Dezember 2023**
+- 5) Fassung gemäss RRB vom 28. November 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1641).
 
-<sup>1</sup> § 37a ist befristet bis Ende 2026 bzw. bis zum letztmöglichen Auszahlungszeitpunkt im Februar 2027.
+- 6) Fassung gemäss RRB vom 5. Dezember 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1687).
 
-Abl. 2004, S. 1851
+- 7) Fassung gemäss RRB vom 27. November 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1771).
+
+- 8) Fassung gemäss RRB vom 31. August 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1755).
+
+- 9) Eingefügt durch RRB vom 31. August 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1755).
+
+- 10) Eingefügt durch RRB vom 31. August 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1755). Für Urlaube gemäss § 39a werden die bisherigen Dienstjahre angerechnet. Ein Bezug im ersten Jahr nach Inkrafttreten kann nicht garantiert werden.
+
+- 11) Fassung gemäss RRB vom 22. Mai 2012, in Kraft getreten am 1. August 2012 (Amtsblatt 2012, S. 775).
+
+- 12) Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1799).
+
+- 13) Eingefügt durch RRB vom 17. Februar 2015, in Kraft getreten am 1. April 2015 (Amtsblatt 2015, S. 423).
+
+- 14) Fassung gemäss RRB vom 17. Februar 2015, in Kraft getreten am 1. April 2015 (Amtsblatt 2015, S. 423).
+
+- 15) Fassung gemäss RRB vom 8. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1278).
+
+- 16) Fassung gemäss RRB vom 8. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2167).
+
+- 17) Aufgehoben durch RRB vom 8. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2167).
+
+- 18) Eingefügt durch RRB vom 8. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2167).
+
+- 19) Fassung gemäss RRB vom 22. Juni 2021, in Kraft getreten am 1. Juli 2021 (Amtsblatt 2021, S. 1214).
+
+- 20) Eingefügt durch RRB vom 22. Juni 2021, in Kraft getreten am 1. Juli 2021 (Amtsblatt 2021, S. 1214).
+
+- 21) Fassung gemäss RRB vom 6. Dezember 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 2224).
+
+- 22) Eingefügt durch RRB vom 6. Dezember 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 2224).
+
+- 23) Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2235).
+
+- 24) Aufgehoben durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2235).
+
+- 25) Eingefügt durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2235); befristet bis Ende 2026 bzw. bis zum letztmöglichen Auszahlungszeitpunkt im Februar 2027.
