@@ -3,11 +3,11 @@ sr: "0.142.115.981"
 title: Traité du 9 février 1920 concernant le Spitzberg (Norvège) (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/41/464_470_450"
 language: fr
-version: 2019-03-08
+version: 2024-06-18
 adopted: 1920-02-09
 in_force: 1925-06-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20190308/fr/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20190308-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20190308/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20240618/fr/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20240618-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20240618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,9 +20,9 @@ Texte original
 
 Conclu à Paris le 9 février 1920 Instrument d’adhésion déposé par la Suisse le 30 juin 1925 Entré en vigueur pour la Suisse le 14 août 1925
 
-(Etat le 8 mars 2019)
+(État le 18 juin 2024)
 
-Le Président des Etats‑Unis d’Amérique, Sa Majesté le Roi de Grande-Bretagne et d’Irlande et des Territoires britanniques au delà des Mers, Empereur des Indes, Sa Majesté le Roi de Danemark, le Président de la République française, Sa Majesté le Roi d’Italie, Sa Majesté l’Empereur du Japon, Sa Majesté le Roi de Norvège, Sa Majesté la Reine des Pays‑Bas, Sa Majesté le Roi de Suède,
+Le Président des États‑Unis d’Amérique, Sa Majesté le Roi de Grande-Bretagne et d’Irlande et des Territoires britanniques au delà des Mers, Empereur des Indes, Sa Majesté le Roi de Danemark, le Président de la République française, Sa Majesté le Roi d’Italie, Sa Majesté l’Empereur du Japon, Sa Majesté le Roi de Norvège, Sa Majesté la Reine des Pays‑Bas, Sa Majesté le Roi de Suède,
 
 désireux, en reconnaissant la souveraineté de la Norvège sur l’archipel du Spitzberg, y compris l’île aux Ours, de voir ces régions pourvues d’un régime équitable propre à en assurer la mise en valeur et l’utilisation pacifique,
 
@@ -42,7 +42,7 @@ Les navires et ressortissants de toutes les Hautes Parties Contractantes seront 
 
 Il appartiendra à la Norvège de maintenir, prendre ou édicter les mesures propres à assurer la conservation et, s’il y a lieu, la reconstitution de la faune et de la flore dans lesdites régions et leurs eaux territoriales, étant entendu que ces mesures devront toujours être également applicables aux ressortissants de toutes les Hautes Parties Contractantes sans exemptions, privilèges et faveurs quelconques, directs ou indirects, au profit de l’une quelconque d’entre elles.
 
-Les occupants dont les droits seront reconnus selon les termes des art. 6 et 7 jouiront du droit exclusif de chasse sur leurs fonds de terre: 1° à proximité des habitations, des maisons, des magasins, des usines, des installations aménagées aux fins de l’exploitation du fonds de terre, dans les conditions fixées par les règlements de la police locale; 2° dans un rayon de 10 kilomètres autour du siège principal des entreprises ou exploitations; et dans les deux cas sous réserve de l’observation des règlements édictés par le gouvernement norvégien dans les conditions énoncées au présent article.
+Les occupants dont les droits seront reconnus selon les termes des art. 6 et 7 jouiront du droit exclusif de chasse sur leurs fonds de terre: 1° à proximité des habitations, des maisons, des magasins, des usines, des installations aménagées aux fins de l’exploitation du fonds de terre, dans les conditions fixées par les règlements de la police locale; 2° dans un rayon de 10 kilomètres autour du siège principal des entreprises ou exploitations, et dans les deux cas sous réserve de l’observation des règlements édictés par le gouvernement norvégien dans les conditions énoncées au présent article.
 
 #### Art. 3
 
@@ -84,7 +84,7 @@ Il ne pourra être effectué d’expropriation que pour cause d’utilité publi
 
 #### Art. 8
 
-La Norvège s’engage à pourvoir les régions visées à l’article premier d’un régime minier qui, notamment au point de vue des impôts, taxes ou redevances de toutes natures, des conditions générales et particulières du travail, devra exclure tous privilèges, monopoles ou faveurs tant au profit de l’Etat qu’au profit des ressortissants d’une des Hautes Parties Contractantes, y compris la Norvège, et assurer au personnel salarié de toute catégorie les garanties de salaires et de protection nécessaires à leur bien‑être physique, moral et intellectuel.
+La Norvège s’engage à pourvoir les régions visées à l’article premier d’un régime minier qui, notamment au point de vue des impôts, taxes ou redevances de toutes natures, des conditions générales et particulières du travail, devra exclure tous privilèges, monopoles ou faveurs tant au profit de l’État qu’au profit des ressortissants d’une des Hautes Parties Contractantes, y compris la Norvège, et assurer au personnel salarié de toute catégorie les garanties de salaires et de protection nécessaires à leur bien‑être physique, moral et intellectuel.
 
 Les impôts, taxes et droits qui seront perçus devront être exclusivement consacrés auxdites régions et ne pourront être établis que dans la mesure où ils seront justifiés par leur objet.
 
@@ -126,7 +126,7 @@ Annexe
 
 <sup>4.</sup> Le Commissaire pourra requérir des réclamants la production de tous autres documents, actes ou informations qu’il jugerait nécessaires.
 
-<sup>5.</sup> Le Commissaire examinera les revendications ainsi notifiées. A cette fin, il pourra recourir à telle assistance technique qu’il jugerait nécessaire et, le cas échéant, faire procéder à une enquête sur place.
+<sup>5.</sup> Le Commissaire examinera les revendications ainsi notifiées. À cette fin, il pourra recourir à telle assistance technique qu’il jugerait nécessaire et, le cas échéant, faire procéder à une enquête sur place.
 
 <sup>6.</sup> La rémunération du Commissaire sera fixée d’un commun accord par le Gouvernement danois et les autres Gouvernements intéressés. Le Commissaire fixera lui‑même la rémunération des adjoints‑qu’il jugera nécessaire d’employer.
 
@@ -174,7 +174,7 @@ Dans l’examen des revendications, le Tribunal devra prendre en considération:
 
   - 1) La date à laquelle le terrain revendiqué a été occupé pour la première fois par le réclamant ou ses auteurs;
   - 2) La date à laquelle la revendication a été notifiée au Gouvernement du réclamant;
-  - 3) La mesure dans laquelle le réclamant ou ses auteurs ont développé et exploité le terrain revendiqué par le réclamant. A cet égard, le Tribunal devra tenir compte des circonstances ou des entraves qui, par suite de l’existence de l’état de guerre de 1914 à 1919, ont pu empêcher les réclamants de poursuivre leur réclamation.
+  - 3) La mesure dans laquelle le réclamant ou ses auteurs ont développé et exploité le terrain revendiqué par le réclamant. À cet égard, le Tribunal devra tenir compte des circonstances ou des entraves qui, par suite de l’existence de l’état de guerre de 1914 à 1919, ont pu empêcher les réclamants de poursuivre leur réclamation.
 
 <sup>10.</sup> Toutes les dépenses du Tribunal seront partagées entre les réclamants dans la proportion fixée par le Tribunal. Dans le cas où le montant des sommes déposées selon les stipulations de l’al. 6 viendrait à dépasser celui des frais du Tribunal, le solde en serait remboursé aux personnes dont les réclamations ont été admises, et cela dans la proportion jugée équitable par le Tribunal.
 
@@ -186,10 +186,10 @@ Le Gouvernement norvégien, dans un délai de trois mois après qu’il aura re�
 
 Toute réclamation qui n’aura pas été notifiée au Commissaire conformément à l’al. 1 du par. 1 ou qui, n’ayant pas été admise par lui, n’aura pas été soumise au Tribunal conformément au par. 2, sera considérée comme définitivement éteinte.
 
-Champ d’application le 8 mars 2019**[^t-1]**
+Champ d’application le 18 juin 2024[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entreé en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entreé en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>23 novembre</td><td>1925 A</td><td>23 novembre</td><td>1925</td></tr>
 <tr><td>Afrique du Sud</td><td>29 décembre</td><td>1923</td><td>14 août</td><td>1925</td></tr>
 <tr><td>Albanie</td><td>29 avril</td><td>1930 A</td><td>29 avril</td><td>1930</td></tr>
@@ -206,10 +206,10 @@ Champ d’application le 8 mars 2019**[^t-1]**
 <tr><td>Corée (Nord)</td><td>16 mars</td><td>2016 A</td><td>16 mars</td><td>2016</td></tr>
 <tr><td>Corée (Sud)</td><td>7 septembre</td><td>2012 A</td><td>7 septembre</td><td>2012</td></tr>
 <tr><td>Danemark</td><td>24 janvier</td><td>1924</td><td>14 août</td><td>1925</td></tr>
-<tr><td>Egypte</td><td>13 septembre</td><td>1925 A</td><td>13 septembre</td><td>1925</td></tr>
+<tr><td>Égypte</td><td>13 septembre</td><td>1925 A</td><td>13 septembre</td><td>1925</td></tr>
 <tr><td>Espagne</td><td>12 novembre</td><td>1925 A</td><td>12 novembre</td><td>1925</td></tr>
 <tr><td>Estonie</td><td>7 avril</td><td>1930 A</td><td>7 avril</td><td>1930</td></tr>
-<tr><td>Etats-Unis</td><td>2 avril</td><td>1924</td><td>14 août</td><td>1925</td></tr>
+<tr><td>États-Unis</td><td>2 avril</td><td>1924</td><td>14 août</td><td>1925</td></tr>
 <tr><td>Finlande</td><td>12 août</td><td>1925 A</td><td>14 août</td><td>1925</td></tr>
 <tr><td>France</td><td>6 septembre</td><td>1924</td><td>14 août</td><td>1925</td></tr>
 <tr><td>Grèce</td><td>21 octobre</td><td>1925 A</td><td>21 octobre</td><td>1925</td></tr>
@@ -235,7 +235,8 @@ Champ d’application le 8 mars 2019**[^t-1]**
 <tr><td>Slovaquie</td><td>21 février</td><td>2017 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Suède</td><td>15 septembre</td><td>1924</td><td>14 août</td><td>1925</td></tr>
 <tr><td>Suisse</td><td>30 juin</td><td>1925 A</td><td>14 août</td><td>1925</td></tr>
+<tr><td>Turquie</td><td>11 avril</td><td>2024 A</td><td>11 avril</td><td>2024</td></tr>
 <tr><td>Venezuela</td><td>8 février</td><td>1928 A</td><td>8 février</td><td>1928</td></tr>
 </table>
 
-[^t-1]: [RO 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826), [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295), [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54), [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318), [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209), [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826); [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295); [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54); [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318); [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209); [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169); [2024 286](https://fedlex.data.admin.ch/eli/oc/2024/286). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

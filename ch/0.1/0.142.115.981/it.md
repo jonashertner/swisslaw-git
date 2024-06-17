@@ -3,11 +3,11 @@ sr: "0.142.115.981"
 title: Trattato del 9 febbraio 1920 concernente lo Spitzberg (Norvegia) (con Annesso)
 eli: "https://fedlex.data.admin.ch/eli/cc/41/464_470_450"
 language: it
-version: 2019-03-08
+version: 2024-06-18
 adopted: 1920-02-09
 in_force: 1925-06-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20190308/it/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20190308-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20190308/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20240618/it/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20240618-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20240618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ CS **11** 678
 
 Traduzione
 
-Conchiuso a Parigi il 9 febbraio 1920
+Conchiuso a Parigi il 9 febbraio 1920 Istrumento d’adesione depositato dalla Svizzera il 30 giugno 1925 Entrato in vigore per la Svizzera il 14 agosto 1925
 
-Istrumento d’adesione depositato dalla Svizzera il 30 giugno 1925
-
-Entrato in vigore per la Svizzera il 14 agosto 1925
-
-(Stato 8 marzo 2019)
+(Stato 18 giugno 2024)
 
 Il Presidente degli Stati Uniti d’America, Sua Maestà il Re di Gran Bretagna e Irlanda e dei Territori Britannici di là dai Mari, Imperatore delle Indie, Sua Maestà il Re di Danimarca, il Presidente della Repubblica Francese, Sua Maestà il Re d’Italia, Sua Maestà l’Imperatore del Giappone, Sua Maestà il Re di Norvegia, Sua Maestà la Regina dei Paesi Bassi, Sua Maestà il Re di Svezia,
 
@@ -190,10 +186,10 @@ Il Governo norvegese, in un termine di tre mesi da che avrà ricevuto una decisi
 
 Ogni reclamo che non sarà stato notificato al Commissario conformemente al paragrafo primo numero 1°, o che, non essendo stato ammesso da lui, non sarà stato sottoposto al Tribunale in conformità al paragrafo 2, sarà considerato come definitivamente estinto.
 
-Campo d’applicazione l’8 marzo 2019**[^t-1]**
+Campo d’applicazione il 18 giugno 2024[^t-1]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>23 novembre</td><td>1925 A</td><td>23 novembre</td><td>1925</td></tr>
 <tr><td>Albania</td><td>29 aprile</td><td>1930 A</td><td>29 aprile</td><td>1930</td></tr>
 <tr><td>Arabia Saudita</td><td>14 agosto</td><td>1925 A</td><td>14 agosto</td><td>1925</td></tr>
@@ -238,8 +234,9 @@ Campo d’applicazione l’8 marzo 2019**[^t-1]**
 <tr><td>Sudafrica</td><td>29 dicembre</td><td>1923</td><td>14 agosto</td><td>1925</td></tr>
 <tr><td>Svezia</td><td>15 settembre</td><td>1924</td><td>14 agosto</td><td>1925</td></tr>
 <tr><td>Svizzera</td><td>30 giugno</td><td>1925 A</td><td>14 agosto</td><td>1925</td></tr>
+<tr><td>Turchia</td><td>11 aprile</td><td>2024 A</td><td>11 aprile</td><td>2024</td></tr>
 <tr><td>Ungheria</td><td>29 ottobre</td><td>1927 A</td><td>29 ottobre</td><td>1927</td></tr>
 <tr><td>Venezuela</td><td>8 febbraio</td><td>1928 A</td><td>8 febbraio</td><td>1928</td></tr>
 </table>
 
-[^t-1]: [RU 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826), [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295), [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54), [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318), [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209)e [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169). Una versione del campo di applicazione aggiornata è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826); [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295); [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54); [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318); [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209); [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169); [2024 286](https://fedlex.data.admin.ch/eli/oc/2024/286)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

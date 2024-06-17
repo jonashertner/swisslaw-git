@@ -3,11 +3,11 @@ sr: "0.142.115.981"
 title: Vertrag vom 9. Februar 1920 über Spitzbergen (mit Beilage)
 eli: "https://fedlex.data.admin.ch/eli/cc/41/464_470_450"
 language: de
-version: 2019-03-08
+version: 2024-06-18
 adopted: 1920-02-09
 in_force: 1925-06-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20190308/de/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20190308-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20190308/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/41/464_470_450/20240618/de/xml/fedlex-data-admin-ch-eli-cc-41-464_470_450-20240618-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/41/464_470_450/20240618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 30. Juni 1925
 
 In Kraft getreten für die Schweiz am 14. August 1925
 
-(Stand am 8. März 2019)
+(Stand am 18. Juni 2024)
 
 Der Präsident der Vereinigten Staaten von Amerika; Seine Majestät der König von Grossbritannien und Irland und der Überseeischen Britischen Lande, Kaiser von Indien; Seine Majestät der König von Dänemark; der Präsident der Französischen Republik; Seine Majestät der König von Italien; Seine Majestät der Kaiser von Japan; Seine Majestät der König von Norwegen; Ihre Majestät die Königin der Niederlande; Seine Majestät der König von Schweden,
 
@@ -68,7 +68,7 @@ Alle öffentlichen drahtlosen Telegraphenstationen, die durch die Norwegische Re
 
 Unter Vorbehalt der internationalen Verpflichtungen, die sich aus einem Kriegszustand ergeben können, dürfen Eigentümer von Grundstücken jederzeit für ihren eigenen Gebrauch drahtlose Telegraphenanlagen errichten und benutzen, die in Privatangelegenheiten mit festen oder beweglichen Stationen – darunter auch mit solchen an Bord von Schiffen und Luftfahrzeugen – frei verkehren dürfen.
 
-[^4-1]: [AS **39** 98. [AS 50 774](https://fedlex.data.admin.ch/eli/oc/50/774_802_866)]. Heute: Internationaler Fernmeldevertrag vom 25. Okt. 1973 ([AS 1976 993](https://fedlex.data.admin.ch/eli/oc/1976/993_994_994)) und vom 6. Nov. 1982 ([SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)), sowie die Konstitution und die Konvention der Internationalen Fernmeldeunion vom 22. Dez. 1992 ([SR 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)**/02**).
+[^4-1]: [AS **39** 98. [AS 50 774](https://fedlex.data.admin.ch/eli/oc/50/774_802_866)]. Heute: Internationaler Fernmeldevertrag vom 25. Okt. 1973 ([AS 1976 993](https://fedlex.data.admin.ch/eli/oc/1976/993_994_994)) und vom 6. Nov. 1982 ([SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)), sowie die Konstitution und die Konvention der Internationalen Fernmeldeunion vom 22. Dez. 1992 ([SR 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255), [0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)).
 
 #### Art. 5
 
@@ -192,7 +192,7 @@ Binnen drei Monaten nach Empfang eines Beschlusses trifft die Norwegische Regier
 
 Jede Forderung, die nicht gemäss Ziffer 1 des Paragraphen 1 beim Kommissar angemeldet oder, wenn er sie nicht anerkannt hat, gemäss Paragraph 2 dem Gerichtshof überwiesen worden ist, gilt als endgültig erloschen.
 
-Geltungsbereich am 8. März 2019**[^t-1]**
+Geltungsbereich am 18. Juni 2024[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -238,10 +238,11 @@ Geltungsbereich am 8. März 2019**[^t-1]**
 <tr><td>Spanien</td><td>12. November</td><td>1925 B</td><td>12. November</td><td>1925</td></tr>
 <tr><td>Südafrika</td><td>29. Dezember</td><td>1923</td><td>14. August</td><td>1925</td></tr>
 <tr><td>Tschechische Republik</td><td>21. Juni</td><td>2006 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Türkei</td><td>11. April</td><td>2024 B</td><td>11. April</td><td>2024</td></tr>
 <tr><td>Ungarn</td><td>29. Oktober</td><td>1927 B</td><td>29. Oktober</td><td>1927</td></tr>
 <tr><td>Venezuela</td><td>8. Februar</td><td>1928 B</td><td>8. Februar</td><td>1928</td></tr>
 <tr><td>Vereinigte Staaten</td><td>2. April</td><td>1924</td><td>4. August</td><td>1925</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>29. Dezember</td><td>1923</td><td>14. August</td><td>1925</td></tr>
 </table>
 
-[^t-1]: [AS 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826), [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295), [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54), [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318), [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209), [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1974 1826](https://fedlex.data.admin.ch/eli/oc/1974/1826_1826_1826); [1977 1295](https://fedlex.data.admin.ch/eli/oc/1977/1295_1295_1295); [2001 264](https://fedlex.data.admin.ch/eli/oc/2001/54); [2010 2257](https://fedlex.data.admin.ch/eli/oc/2010/318); [2015 1069](https://fedlex.data.admin.ch/eli/oc/2015/209); [2019 943](https://fedlex.data.admin.ch/eli/oc/2019/169); [2024 286](https://fedlex.data.admin.ch/eli/oc/2024/286). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
