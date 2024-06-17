@@ -4,23 +4,24 @@ number: "101.000"
 title: Verfassung des Kantons Schaffhausen
 language: de
 version: 2020-02-09
-valid_until: 2024-11-23
+corrected: 2024-06-18
 version_adopted: 2020-02-09
 adopted: 2002-06-17
 in_force: 2003-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/101.000"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1616/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/53/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verfassung des Kantons Schaffhausen
 
-Vom 17.06.2002 (Stand 09.02.2020)
+vom 17. Juni 2002
 
 In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons Schaffhausen folgende Verfassung:
 
-## 1 Allgemeine Grundsätze
+### 1 Allgemeine Grundsätze
 
 #### Art. 1
 
@@ -34,7 +35,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Demokratische Grundordnung**
 
-<sup>1</sup> Die Staatsgewalt beruht auf dem Volk. Sie wird durch die Stimmberechtigten und die Behörden ausgeübt.
+Die Staatsgewalt beruht auf dem Volk. Sie wird durch die Stimmberechtigten und die Behörden ausgeübt.
 
 #### Art. 3
 
@@ -58,7 +59,9 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Bürgerrecht**
 
-<sup>1</sup> Das Gesetz regelt Erwerb und Verlust des Kantons- und Gemeindebürgerrechts.
+Das Gesetz regelt Erwerb und Verlust des Kantons- und Gemeindebürgerrechts.
+
+Amtsblatt 2002, S. 1975.
 
 #### Art. 6
 
@@ -84,15 +87,15 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Gewaltenteilung**
 
-<sup>1</sup> Der Aufbau des Staates und die Ausübung staatlicher Macht richten sich nach dem Grundsatz der Gewaltenteilung.
+Der Aufbau des Staates und die Ausübung staatlicher Macht richten sich nach dem Grundsatz der Gewaltenteilung.
 
 #### Art. 9
 
 **Nachhaltigkeit**
 
-<sup>1</sup> Staatliches Handeln hat sich auf eine ökologische, wirtschaftliche und soziale Entwicklung auszurichten, welche die Bedürfnisse heutiger wie auch zukünftiger Generationen berücksichtigt.
+Staatliches Handeln hat sich auf eine ökologische, wirtschaftliche und soziale Entwicklung auszurichten, welche die Bedürfnisse heutiger wie auch zukünftiger Generationen berücksichtigt.
 
-## 2 Grundrechte, Sozialziele
+### 2 Grundrechte, Sozialziele
 
 ### 2.1 Grundrechte
 
@@ -100,7 +103,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Menschenwürde**
 
-<sup>1</sup> Die Würde des Menschen ist zu achten und zu schützen. Sie bildet die Grundlage der gesamten Rechtsordnung.
+Die Würde des Menschen ist zu achten und zu schützen. Sie bildet die Grundlage der gesamten Rechtsordnung.
 
 #### Art. 11
 
@@ -116,18 +119,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Freiheitsrechte**
 
-<sup>1</sup> Die Freiheitsrechte sind gewährleistet, insbesondere:
-
-- a) die persönliche Freiheit
-- b) der Schutz der Privatsphäre
-- c) das Recht auf Ehe und Familie oder auf eine andere Form des Zusammenlebens
-- d) die Glaubens- und Gewissensfreiheit
-- e) die Meinungs-, Informations- und Medienfreiheit
-- f) die Freiheit von Unterricht, Lehre und Forschung
-- g) die Freiheit des künstlerischen Ausdrucks
-- h) die Vereinigungs-, Versammlungs- und Koalitionsfreiheit
-- i) die Niederlassungsfreiheit
-- j) die Wirtschaftsfreiheit
+<sup>1</sup> Die Freiheitsrechte sind gewährleistet, insbesondere a) die persönliche Freiheit b) der Schutz der Privatsphäre c) das Recht auf Ehe und Familie oder auf eine andere Form des Zusammenlebens d) die Glaubens- und Gewissensfreiheit e) die Meinungs-, Informations- und Medienfreiheit f) die Freiheit von Unterricht, Lehre und Forschung g) die Freiheit des künstlerischen Ausdrucks h) die Vereinigungs-, Versammlungs- und Koalitionsfreiheit i) die Niederlassungsfreiheit j) die Wirtschaftsfreiheit.
 
 <sup>2</sup> Das Eigentum ist gewährleistet.
 
@@ -135,13 +127,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Recht auf Hilfe in Notlagen**
 
-<sup>1</sup> Wer Notlagen nicht aus eigener Kraft bewältigen kann, hat Anspruch auf die für ein menschenwürdiges Dasein unerlässliche Hilfe.
+Wer Notlagen nicht aus eigener Kraft bewältigen kann, hat Anspruch auf die für ein menschenwürdiges Dasein unerlässliche Hilfe.
 
 #### Art. 14
 
 **Schutz der Kinder und Jugendlichen**
 
-<sup>1</sup> Kinder und Jugendliche haben Anspruch auf Schutz und Fürsorge.
+Kinder und Jugendliche haben Anspruch auf Schutz und Fürsorge.
 
 #### Art. 15
 
@@ -155,7 +147,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Opferhilfe**
 
-<sup>1</sup> Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt worden sind, haben Anspruch auf Hilfe und, sofern sie durch die Straftat in wirtschaftliche Schwierigkeiten geraten sind, auf angemessene Entschädigung.
+Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt worden sind, haben Anspruch auf Hilfe und, sofern sie durch die Straftat in wirtschaftliche Schwierigkeiten geraten sind, auf angemessene Entschädigung.
 
 #### Art. 17
 
@@ -163,7 +155,9 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch ein kantonales Gericht. Ausgenommen ist die Anfechtung von Verfassungsbestimmungen und Gesetzen sowie von Entscheiden des Kantonsrates, soweit das Bundesrecht nicht einen gerichtlichen Rechtsschutz auf kantonaler Ebene vorschreibt.
 
-<sup>2</sup> …
+<sup>2</sup> …[^17-1]
+
+[^17-1]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 18
 
@@ -203,15 +197,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Sozialziele**
 
-<sup>1</sup> Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass:
-
-- a) jede Person an der sozialen Sicherheit teilhat
-- b) jede Person die für ihre Gesundheit notwendige Pflege erhält
-- c) Familien als Gemeinschaften von Erwachsenen und Kindern geschützt und gefördert werden
-- d) Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können
-- e) Wohnungssuchende für sich und ihre Familie eine angemessene Wohnung zu tragbaren Bedingungen finden können
-- f) Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können
-- g) Kinder und Jugendliche in ihrer Entwicklung zu selbständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden
+<sup>1</sup> Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass a) jede Person an der sozialen Sicherheit teilhat b) jede Person die für ihre Gesundheit notwendige Pflege erhält c) Familien als Gemeinschaften von Erwachsenen und Kindern geschützt und gefördert werden d) Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können e) Wohnungssuchende für sich und ihre Familie eine angemessene Wohnung zu tragbaren Bedingungen finden können f) Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können g) Kinder und Jugendliche in ihrer Entwicklung zu selbständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden.
 
 <sup>2</sup> Kanton und Gemeinden setzen sich dafür ein, dass jede Person gegen die wirtschaftlichen Folgen von Alter, Invalidität, Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Verwaisung und Verwitwung gesichert ist.
 
@@ -219,7 +205,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>4</sup> Aus den Sozialzielen können keine unmittelbaren Ansprüche auf staatliche Leistungen abgeleitet werden.
 
-## 3 Volksrechte
+### 3 Volksrechte
 
 ### 3.1 Stimm- und Wahlrecht
 
@@ -239,11 +225,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Volkswahlen**
 
-<sup>1</sup> Die Stimmberechtigten wählen:
-
-- a) den Kantonsrat
-- b) den Regierungsrat
-- c) die Schaffhauser Mitglieder des Ständerates und des Nationalrates
+Die Stimmberechtigten wählen a) den Kantonsrat b) den Regierungsrat c) die Schaffhauser Mitglieder des Ständerates und des Nationalrates.
 
 #### Art. 25
 
@@ -251,11 +233,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Kantonsrat wird nach dem Verhältniswahlverfahren gewählt.
 
-<sup>2</sup> Die Zuteilung der Sitze an die politischen Gruppierungen erfolgt entsprechend deren Wählerstärke im Kanton.
+<sup>2</sup> Die Zuteilung der Sitze an die politischen Gruppierungen erfolgt entsprechend deren Wählerstärke im Kanton.[^25-1]
 
 <sup>3</sup> Die Einteilung der Wahlkreise wird durch den Kantonsrat vorgenommen. Die Sitze werden nach Massgabe der Wohnbevölkerung auf die Wahlkreise verteilt. Jedem Wahlkreis wird mindestens ein Sitz zugeteilt.
 
 <sup>4</sup> Bei den anderen kantonalen Wahlen gilt das Mehrheitswahlverfahren.
+
+[^25-1]: Fassung gemäss KRB vom 29. Oktober 2007, in Kraft getreten am 1. Mai 2008 (Amtsblatt 2008, S. 531, S. 532); von der Bundesversammlung genehmigt am 1. Dezember 2008 (Ständerat) und 18. Dezember 2008 (Nationalrat).
 
 #### Art. 26
 
@@ -273,12 +257,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Gegenstand, Form**
 
-<sup>1</sup> Mit einer Volksinitiative können 1'000 Stimmberechtigte das Begehren stellen auf:
-
-- a) Total- oder Teilrevision der Verfassung
-- b) Erlass, Änderung oder Aufhebung eines Gesetzes
-- c) Kündigung oder Aufnahme von Verhandlungen über Abschluss oder Änderung eines internationalen oder interkantonalen Vertrages, soweit er der Volksabstimmung untersteht
-- d) Einreichen einer Standesinitiative
+<sup>1</sup> Mit einer Volksinitiative können 1'000 Stimmberechtigte das Begehren stellen auf a) Total- oder Teilrevision der Verfassung b) Erlass, Änderung oder Aufhebung eines Gesetzes c) Kündigung oder Aufnahme von Verhandlungen über Abschluss oder Änderung eines internationalen oder interkantonalen Vertrages, soweit er der Volksabstimmung untersteht d) Einreichen einer Standesinitiative.
 
 <sup>2</sup> Das Begehren kann als allgemeine Anregung oder, sofern nicht die Totalrevision der Verfassung verlangt wird, als ausgearbeiteter Entwurf eingereicht werden.
 
@@ -288,11 +267,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Regierungsrat entscheidet über das Zustandekommen der Volksinitiative.
 
-<sup>2</sup> Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie:
-
-- a) gegen übergeordnetes Recht verstösst
-- b) undurchführbar ist
-- c) die Einheit der Form oder der Materie verletzt
+<sup>2</sup> Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie a) gegen übergeordnetes Recht verstösst b) undurchführbar ist c) die Einheit der Form oder der Materie verletzt.
 
 <sup>3</sup> Bei einer allgemeinen Anregung bestimmt der Kantonsrat abschliessend darüber, in welcher Erlassform sie ausgearbeitet wird.
 
@@ -330,32 +305,17 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Obligatorische Volksabstimmung**
 
-<sup>1</sup> Die Stimmberechtigten entscheiden obligatorisch über:
-
-- a) Verfassungsänderungen
-- b) internationale und interkantonale Verträge, die unmittelbar anwendbar sind und nicht mit der Verfassung übereinstimmen
-- c) Gesetze, die nicht der fakultativen Volksabstimmung unterstellt sind
-- d) Volksinitiativen
-- e) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 3'000'000.00 und über neue jährlich wiederkehrende Ausgaben von mehr als Fr. 500'000.00
-- f) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes bezüglich des Baus von Kernkraftwerken, Aufbereitungsanlagen für Kernbrennstoffe oder Lagerstätten für radioaktive Rückstände auf dem Gebiet des Kantons Schaffhausen und der angrenzenden Kantone
-- g) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes über die Aufnahme von neuen Nationalstrassen ins Nationalstrassennetz
-- h) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt
-- i) Beschlüsse, welche der Kantonsrat von sich aus zur Abstimmung bringen will
+Die Stimmberechtigten entscheiden obligatorisch über a) Verfassungsänderungen b) internationale und interkantonale Verträge, die unmittelbar anwendbar sind und nicht mit der Verfassung übereinstimmen c) Gesetze, die nicht der fakultativen Volksabstimmung unterstellt sind d) Volksinitiativen e) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als 3 Mio. Franken und über neue jährlich wiederkehrende Ausgaben von mehr als 500'000 Franken f) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes bezüglich des Baus von Kernkraftwerken, Aufbereitungsanlagen für Kernbrennstoffe oder Lagerstätten für radioaktive Rückstände auf dem Gebiet des Kantons Schaffhausen und der angrenzenden Kantone g) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes über die Aufnahme von neuen Nationalstrassen ins Nationalstrassennetz h) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt i) Beschlüsse, welche der Kantonsrat von sich aus zur Abstimmung bringen will.
 
 #### Art. 33
 
 **Fakultative Volksabstimmung**
 
-<sup>1</sup> Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden:
-
-- a) Gesetze, denen mindestens 4/5 der anwesenden Mitglieder des Kantonsrates zugestimmt haben
-- b) unmittelbar anwendbare internationale und interkantonale Verträge mit gesetzgebendem Charakter
-- c) der Voranschlag bei einer Änderung des Steuerfusses
-- d) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 1'000'000.00 und über neue jährlich wiederkehrende Ausgaben von mehr als Fr. 100'000.00
-- e) Grundsatzbeschlüsse des Kantonsrates
-- f) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt
+<sup>1</sup> Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden a) Gesetze, denen mindestens[^33-1]/5 der anwesenden Mitglieder des Kantonsrates zugestimmt haben b) unmittelbar anwendbare internationale und interkantonale Verträge mit gesetzgebendem Charakter c) der Voranschlag bei einer Änderung des Steuerfusses d) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als 1 Mio. Franken und über neue jährlich wiederkehrende Ausgaben von mehr als 100'000 Franken e) Grundsatzbeschlüsse des Kantonsrates f) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt.
 
 <sup>2</sup> Das Referendum ist zustande gekommen, wenn innert 90 Tagen seit der Veröffentlichung des Beschlusses 1'000 Stimmberechtigte die Volksabstimmung verlangen. Für Abs. 1 lit. c gilt eine Frist von 30 Tagen.
+
+[^33-1]: Fassung gemäss KRB vom 17. Mai 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1798, S. 1824); von der Bundesversammlung genehmigt am 5. Oktober 2005 (Ständerat) und 6. Oktober 2005 (Nationalrat).
 
 #### Art. 34
 
@@ -379,21 +339,27 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Vernehmlassungen**
 
-<sup>1</sup> Jede Person hat das Recht, im Rahmen von Vernehmlassungen zu kantonalen Verfassungs- und Gesetzesentwürfen sowie zu weiteren kantonalen Vorhaben von allgemeiner Tragweite Stellung zu nehmen.
+Jede Person hat das Recht, im Rahmen von Vernehmlassungen zu kantonalen Verfassungs- und Gesetzesentwürfen sowie zu weiteren kantonalen Vorhaben von allgemeiner Tragweite Stellung zu nehmen.
 
 #### Art. 37
 
 **Politische Parteien**
 
-<sup>1</sup> Die politischen Parteien wirken bei der Meinungs- und Willensbildung der Stimmberechtigten mit.
+Die politischen Parteien wirken bei der Meinungs- und Willensbildung der Stimmberechtigten mit.
+
+[^37-1]: Fassung gemäss Volksabstimmung vom 9. Februar 2020, in Kraft getreten am 9. Februar 2020 (Amtsblatt 2022, S. 1769). von der Bundesversammlung genehmigt am 15. September 2021 (Ständerat) und 21. September 2021 (Nationalrat).
 
 #### Art. 37a
 
+[^37-1]
+
 <sup>1</sup> Natürliche und juristische Personen, wie alle Parteien und sonstigen politischen Gruppierungen, Kampagnenkomitees, Lobbyorganisationen und sonstige Organisationen, die sich an Abstimmungskämpfen sowie an Wahlen beteiligen, die in die Kompetenz von Kanton und Gemeinden fallen, müssen ihre Finanzen offenlegen. Unter die Offenlegungspflichten fallen insbesondere:
 
-- a) Das Globalbudget für den betreffenden Wahl- oder Abstimmungskampf
-- b) Die Namen der juristischen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags
-- c) Die Namen der natürlichen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags. Ausgenommen sind Spenderinnen und Spender, deren Zuwendung insgesamt Fr. 3'000.00 pro Kalenderjahr nicht übersteigt
+- a) Das Globalbudget für den betreffenden Wahl- oder Abstimmungskampf.
+
+- b) Die Namen der juristischen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags.
+
+- c) Die Namen der natürlichen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags. Ausgenommen sind Spenderinnen und Spender, deren Zuwendung insgesamt CHF 3‘000.- pro Kalenderjahr nicht übersteigt.
 
 <sup>2</sup> Alle Kandidierenden für alle öffentlichen Ämter auf kantonaler und für Exekutiven und Legislativen auf kommunaler Ebene legen ihre Interessenbindungen bei der Anmeldung ihrer Kandidatur offen.
 
@@ -401,11 +367,11 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>4</sup> Die kantonale Verwaltung oder eine unabhängige Stelle überprüfen die Richtigkeit der Angaben gemäss Abs. 1, 2 und 3 und erstellen ein öffentliches Register, einsehbar auf der Internetseite/Homepage des Kantons Schaffhausen.
 
-<sup>5</sup> Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen und sonstigen Organisationen gegen die Verpflichtungen von Abs. 1–3 dieses Verfassungsartikels werden mit Busse sanktioniert.
+<sup>5</sup> Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen und sonstigen Organisationen gegen die Verpflichtungen von Abs. 1-3 dieses Verfassungsartikels werden mit Busse sanktioniert.
 
 <sup>6</sup> Das Gesetz regelt die Einzelheiten. Es trägt namentlich dem Schutz von Berufsgeheimnissen Rechnung.
 
-## 4 Behörden
+### 4 Behörden
 
 ### 4.1 Grundsätze
 
@@ -429,43 +395,44 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Wählbarkeit**
 
-<sup>1</sup> In den Kantonsrat, den Regierungsrat und den Ständerat sind alle im Kanton stimmberechtigten Schweizerinnen und Schweizer wählbar.
+<sup>1</sup> In den Kantonsrat, den Regierungsrat und den Ständerat sind alle im Kanton stimmberechtigten Schweizerinnen und Schweizer wählbar.[^40-1]
 
-<sup>1<sup>bis</sup></sup> In das Obergericht und das Kantonsgericht sind alle mündigen Schweizerinnen und Schweizer wählbar. Sie müssen ab Amtsantritt im Kanton Schaffhausen Wohnsitz haben.
+<sup>1</sup> <sup>bis</sup> In das Obergericht und das Kantonsgericht sind alle mündigen Schweizerinnen und Schweizer wählbar. Sie müssen ab Amtsantritt im Kanton Schaffhausen Wohnsitz haben.[^40-2]
 
 <sup>2</sup> Das Gesetz regelt die Wählbarkeit der übrigen Behördenmitglieder sowie des Personals der kantonalen Verwaltung und der Rechtspflegebehörden. Es kann für Rechtspflegebehörden zusätzliche Anforderungen stellen.
+
+[^40-1]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Mai 2010 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
+[^40-2]: Eingefügt durch KRB vom 9. November 2009, in Kraft getreten am 1. Mai 2010 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 41
 
 **Amtsdauer**
 
-<sup>1</sup> Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden und der Gemeindebehörden werden auf die Dauer von vier Jahren gewählt. Sie üben ihre Funktion bis zum Amtsantritt der neuen Organe weiter aus.
+Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden und der Gemeindebehörden werden auf die Dauer von vier Jahren gewählt. Sie üben ihre Funktion bis zum Amtsantritt der neuen Organe weiter aus.
 
 #### Art. 42
 
 **Unvereinbare Ämter**
 
-<sup>1</sup> Niemand darf gleichzeitig angehören:
-
-- a) dem Kantonsrat, dem Regierungsrat und einer kantonalen Rechtspflegebehörde
-- b) dem Regierungsrat, dem Nationalrat und dem Ständerat
-- c) dem Regierungsrat und einer Gemeindebehörde
+<sup>1</sup> Niemand darf gleichzeitig angehören a) dem Kantonsrat, dem Regierungsrat und einer kantonalen Rechtspflegebehörde b) dem Regierungsrat, dem Nationalrat und dem Ständerat c) dem Regierungsrat und einer Gemeindebehörde.
 
 <sup>2</sup> Angehörige der kantonalen Verwaltung können nicht Mitglied einer Rechtspflegebehörde sein. Angehörige der kantonalen Verwaltung, die dem Regierungsrat oder einem seiner Mitglieder direkt unterstellt sind, können auch nicht im Kantonsrat Einsitz nehmen.
 
 <sup>3</sup> Das Gesetz kann für einzelne Behörden weitere Unvereinbarkeiten festlegen.
 
+[^42-1]: Eingefügt durch KRB vom 3. Juli 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1547, S. 1549); von der Bundesversammlung genehmigt am 3. März 2008 (Ständerat) und 6. März 2008 (Nationalrat).
+
 #### Art. 43
 
-**Persönliche Unvereinbarkeit**
+**Persönliche Unvereinbarkeit**[^42-1]
 
-<sup>1</sup> Der gleichen Behörde dürfen mit Ausnahme des Kantonsrates, der Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister.
+Der gleichen Behörde dürfen mit Ausnahme des Kantonsrates, der Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister.
 
 #### Art. 44
 
 **Verpflichtung auf Verfassung und Gesetz**
 
-<sup>1</sup> Behördenmitglieder werden vor Amtsantritt auf Verfassung und Gesetz verpflichtet.
+Behördenmitglieder werden vor Amtsantritt auf Verfassung und Gesetz verpflichtet.
 
 #### Art. 45
 
@@ -525,14 +492,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Vorbehalt des Gesetzes**
 
-<sup>1</sup> Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über:
-
-- a) die Volksrechte
-- b) Einschränkungen verfassungsmässiger Rechte
-- c) die Rechte und Pflichten von Personen
-- d) den Gegenstand und die Bemessung von Abgaben sowie den Kreis der Abgabenpflichtigen
-- e) die Aufgaben und die Leistungen des Kantons
-- f) die Organisation und das Verfahren der Behörden
+Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über a) die Volksrechte b) Einschränkungen verfassungsmässiger Rechte c) die Rechte und Pflichten von Personen d) den Gegenstand und die Bemessung von Abgaben sowie den Kreis der Abgabenpflichtigen e) die Aufgaben und die Leistungen des Kantons f) die Organisation und das Verfahren der Behörden.
 
 #### Art. 51
 
@@ -550,11 +510,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Stellung, Zusammensetzung**
 
-<sup>1</sup> Der aus 60 Mitgliedern bestehende Kantonsrat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus.
+<sup>1</sup> Der aus 60 Mitgliedern bestehende Kantonsrat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus.[^52-1]
 
 <sup>2</sup> Er ist die gesetzgebende Behörde und übt die Oberaufsicht über die staatlichen Organe des Kantons aus.
 
 <sup>3</sup> Durch Verfassung und Gesetz können ihm wichtige Verwaltungsentscheide übertragen werden.
+
+[^52-1]: Fassung gemäss Volksabstimmung vom 29. August 2004, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2007, S. 1599, S. 1600); von der Bundesversammlung genehmigt am 5. Oktober 2005 (Ständerat) und 6. Oktober 2005 (Nationalrat).
 
 #### Art. 53
 
@@ -582,34 +544,23 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Kantonsrat übt die Oberaufsicht über den Regierungsrat, die Verwaltung und die anderen Träger öffentlicher Aufgaben sowie über die Gerichtsbehörden aus. Das Gesetz bestimmt die zur Ausübung der Oberaufsicht notwendigen Auskunftsrechte und Untersuchungsbefugnisse.
 
-<sup>2</sup> Der Kantonsrat prüft und genehmigt die Rechenschaftsberichte des Regierungsrates, des Obergerichts sowie der Rechtspflegekommission für die Justizverwaltung.
+<sup>2</sup> Der Kantonsrat prüft und genehmigt die Rechenschaftsberichte des Regierungsrates, des Obergerichts sowie der Rechtspflegekommission für die Justizverwaltung.[^55-1]
 
 <sup>3</sup> Er kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler Massnahmen sorgen.
+
+[^55-1]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 56
 
 **Finanzbefugnisse**
 
-<sup>1</sup> Der Kantonsrat beschliesst über:
-
-- a) den Voranschlag
-- b) die Genehmigung der Kantonsrechnung
-- c) die Festsetzung kantonaler Steuern und Abgaben im Rahmen der gesetzlichen Vorschriften
-- d) Ausgaben, soweit sie nicht in die Kompetenz des Regierungsrates fallen, unter Vorbehalt von Art. 32 und 33
+Der Kantonsrat beschliesst über a) den Voranschlag b) die Genehmigung der Kantonsrechnung c) die Festsetzung kantonaler Steuern und Abgaben im Rahmen der gesetzlichen Vorschriften d) Ausgaben, soweit sie nicht in die Kompetenz des Regierungsrates fallen, unter Vorbehalt von Art. 32 und 33.
 
 #### Art. 57
 
 **Weitere Befugnisse und Aufgaben**
 
-<sup>1</sup> Der Kantonsrat:
-
-- a) beschliesst über die Gegenstände, die der Volksabstimmung unterliegen, ausser dem Begehren auf Abberufung des Kantonsrates
-- b) entscheidet über die Ergreifung des fakultativen Referendums zusammen mit anderen Kantonen und über die Einreichung einer Standesinitiative auf Bundesebene
-- c) nimmt die ihm durch Verfassung und Gesetz übertragenen Wahlen vor
-- d) beschliesst über Amnestie und Begnadigung
-- e) erteilt das Kantonsbürgerrecht, soweit dies nicht durch das Gesetz einer anderen Stelle übertragen wird
-- f) behandelt die an ihn gerichteten Petitionen und Beschwerden
-- g) entscheidet über Verleihung, Änderung, Erneuerung und Übertragung wichtiger Konzessionen
+<sup>1</sup> Der Kantonsrat a) beschliesst über die Gegenstände, die der Volksabstimmung unterliegen, ausser dem Begehren auf Abberufung des Kantonsrates b) entscheidet über die Ergreifung des fakultativen Referendums zusammen mit anderen Kantonen und über die Einreichung einer Standesinitiative auf Bundesebene c) nimmt die ihm durch Verfassung und Gesetz übertragenen Wahlen vor d) beschliesst über Amnestie und Begnadigung e) erteilt das Kantonsbürgerrecht, soweit dies nicht durch das Gesetz einer anderen Stelle übertragen wird f) behandelt die an ihn gerichteten Petitionen und Beschwerden g) entscheidet über Verleihung, Änderung, Erneuerung und Übertragung wichtiger Konzessionen.
 
 <sup>2</sup> Durch Gesetz können ihm weitere Aufgaben übertragen werden.
 
@@ -649,7 +600,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit ausüben. In Erwerbsunternehmen können sie nur in Vertretung des Kantons tätig sein.
+Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit ausüben. In Erwerbsunternehmen können sie nur in Vertretung des Kantons tätig sein.
 
 #### Art. 62
 
@@ -699,10 +650,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Er verabschiedet Voranschlag und Kantonsrechnung zuhanden des Kantonsrates.
 
-<sup>3</sup> Er beschliesst über:
-
-- a) neue einmalige Ausgaben bis Fr. 100'000.00 und neue jährlich wiederkehrende Ausgaben bis Fr. 20'000.00
-- b) Verfügungsgeschäfte über Liegenschaften des Finanzvermögens bis Fr. 1'000'000.00
+<sup>3</sup> Er beschliesst über a) neue einmalige Ausgaben bis 100'000 Franken und neue jährlich wiederkehrende Ausgaben bis 20'000 Franken b) Verfügungsgeschäfte über Liegenschaften des Finanzvermögens bis 1 Mio. Franken.
 
 <sup>4</sup> Er nimmt die erforderlichen Darlehen und Anleihen auf.
 
@@ -710,17 +658,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Weitere Befugnisse und Aufgaben**
 
-<sup>1</sup> Der Regierungsrat:
-
-- a) vertritt den Kanton nach aussen und innen
-- b) trägt die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit
-- c) bereitet die Geschäfte des Kantonsrates vor, soweit dieser sie nicht allein bearbeiten will
-- d) veröffentlicht die kantonalen Erlasse
-- e) sorgt für den Vollzug der Erlasse von Bund und Kanton, der Beschlüsse des Kantonsrates und der rechtskräftigen Urteile
-- f) übt nach Gesetz die Aufsicht über die Gemeinden aus
-- g) verabschiedet Vernehmlassungen an Bundesbehörden
-- h) entscheidet über Verwaltungsstreitigkeiten, soweit Verfassung und Gesetz dies vorsehen
-- i) erfüllt alle weiteren Aufgaben, die ihm durch Verfassung und Gesetz übertragen werden
+Der Regierungsrat a) vertritt den Kanton nach aussen und innen b) trägt die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit c) bereitet die Geschäfte des Kantonsrates vor, soweit dieser sie nicht allein bearbeiten will d) veröffentlicht die kantonalen Erlasse e) sorgt für den Vollzug der Erlasse von Bund und Kanton, der Beschlüsse des Kantonsrates und der rechtskräftigen Urteile f) übt nach Gesetz die Aufsicht über die Gemeinden aus g) verabschiedet Vernehmlassungen an Bundesbehörden h) entscheidet über Verwaltungsstreitigkeiten, soweit Verfassung und Gesetz dies vorsehen i) erfüllt alle weiteren Aufgaben, die ihm durch Verfassung und Gesetz übertragen werden.
 
 #### Art. 68
 
@@ -748,7 +686,9 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Regierungsrat kann seine Entscheidungsbefugnisse auf andere Organe übertragen, wenn ihn das Gesetz dazu ermächtigt. Befugnisse der Departemente darf er ohne Ermächtigung im Gesetz durch Verordnung an nachgeordnete Dienststellen übertragen.
 
-<sup>2</sup> Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen bleibt vorbehalten; ausgenommen sind insbesondere Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft.
+<sup>2</sup> Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen bleibt vorbehalten; ausgenommen sind insbesondere Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft.[^70-1]
+
+[^70-1]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 ### 4.6 Rechtspflegebehörden
 
@@ -768,9 +708,12 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Die Rechtspflegebehörden und ihre Verfahren sind durch Gesetz übersichtlich und einfach einzurichten.
 
-<sup>2</sup> Das Gesetz kann für einzelne Gebiete besondere Rechtspflegeinstanzen und den Einsatz von Fachrichterinnen und Fachrichtern vorsehen.
+<sup>2</sup> Das Gesetz kann für einzelne Gebiete besondere Rechtspflegeinstanzen und den Einsatz von Fachrichterinnen und Fachrichtern vorsehen.[^72-1]
 
-<sup>3</sup> …
+<sup>3</sup> …[^72-2]
+
+[^72-1]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
+[^72-2]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 73
 
@@ -778,7 +721,9 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Kantonsrat wählt die Mitglieder und Ersatzmitglieder der Gerichte sowie der weiteren Rechtspflegebehörden, soweit Verfassung und Gesetz dies vorsehen.
 
-<sup>2</sup> Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und Mitarbeiter werden durch das Obergericht beziehungsweise das Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren.
+<sup>2</sup> Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und Mitarbeiter werden durch das Obergericht beziehungsweise das Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren.[^73-1]
+
+[^73-1]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 74
 
@@ -790,15 +735,25 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 #### Art. 75
 
+<sup>1</sup> …[^75-1]
+
+<sup>2</sup> …[^75-2]
+
+[^75-1]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Mai 2010 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
+[^75-2]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
+
 #### Art. 76
 
 **Strafverfolgungsbehörden**
 
-<sup>1</sup> …
+<sup>1</sup> …[^76-1]
 
-<sup>2</sup> Unter dem Vorbehalt des Weiterzugs an ein Gericht kann das Gesetz die Ahndung von Übertretungen mit Busse auch Verwaltungsbehörden von Kanton und Gemeinden zuweisen.
+<sup>2</sup> Unter dem Vorbehalt des Weiterzugs an ein Gericht kann das Gesetz die Ahndung von Übertretungen mit Busse auch Verwaltungsbehörden von Kanton und Gemeinden zuweisen.[^76-2]
 
 <sup>3</sup> Strafverfolgungsbehörden mit vorwiegend nichtrichterlicher Funktion können der Aufsicht des Regierungsrates unterstellt werden.
+
+[^76-1]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
+[^76-2]: Fassung gemäss KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 77
 
@@ -806,7 +761,9 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Das Kantonsgericht beurteilt die ihm durch das Gesetz zur erstinstanzlichen oder endgültigen Behandlung zugewiesenen Zivil- und Strafsachen.
 
-<sup>2</sup> …
+<sup>2</sup> …[^77-1]
+
+[^77-1]: Aufgehoben durch KRB vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 547); von der Bundesversammlung genehmigt am 28. Februar 2011 (Ständerat) und 2. März 2011 (Nationalrat).
 
 #### Art. 78
 
@@ -816,11 +773,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Es entscheidet staats- und verwaltungsrechtliche Streitigkeiten nach Massgabe von Verfassung und Gesetzgebung sowie Zuständigkeitskonflikte zwischen Verwaltungs- und Rechtspflegebehörden.
 
-<sup>3</sup> Es ist Aufsichtsbehörde über alle Gerichte des Kantons und die weiteren Rechtspflegebehörden, welche das Gesetz seiner Aufsicht unterstellt.
+<sup>3</sup> Es ist Aufsichtsbehörde über alle Gerichte des Kantons und die weiteren Rechtspflegebehörden, welche das Gesetz seiner Aufsicht unterstellt.[^78-1]
 
-<sup>4</sup> Soweit gesetzliche Vorschriften fehlen oder eine gesetzliche Ermächtigung besteht, erlässt das Obergericht die notwendigen Verordnungen zur Ausübung der richterlichen Tätigkeit.
+<sup>4</sup> Soweit gesetzliche Vorschriften fehlen oder eine gesetzliche Ermächtigung besteht, erlässt das Obergericht die notwendigen Verordnungen zur Ausübung der richterlichen Tätigkeit[^78-1]
 
-## 5 Öffentliche Aufgaben
+[^78-1]: Fassung gemäss KRB vom 17. Mai 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1798, S. 1824); von der Bundesversammlung genehmigt am 5. Oktober 2005 (Ständerat) und 6. Oktober 2005 (Nationalrat).
+
+### 5 Öffentliche Aufgaben
 
 ### 5.1 Allgemeines
 
@@ -830,11 +789,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>1</sup> Der Kanton orientiert sich bei der Erfüllung seiner Aufgaben an den Bedürfnissen und am Wohlergehen aller.
 
-<sup>2</sup> Der Kanton erfüllt eine Aufgabe nur:
-
-- a) wenn das private Angebot nicht ausreicht oder
-- b) wenn die Gemeinden sie nicht wirtschaftlich und wirksam erfüllen können oder
-- c) wenn die Wahrung eines öffentlichen Interesses dies erfordert
+<sup>2</sup> Der Kanton erfüllt eine Aufgabe nur a) wenn das private Angebot nicht ausreicht oder b) wenn die Gemeinden sie nicht wirtschaftlich und wirksam erfüllen können oder c) wenn die Wahrung eines öffentlichen Interesses dies erfordert.
 
 <sup>3</sup> Aufgaben sind regelmässig daraufhin zu prüfen, ob sie notwendig und finanzierbar sind und ob ihre Erfüllung wirtschaftlich und wirksam ist.
 
@@ -846,13 +801,15 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Öffentlicher Friede und Sicherheit**
 
-<sup>1</sup> Kanton und Gemeinden sorgen für die öffentliche Sicherheit und schützen das Recht. Sie sichern den öffentlichen Frieden.
+Kanton und Gemeinden sorgen für die öffentliche Sicherheit und schützen das Recht. Sie sichern den öffentlichen Frieden.
 
 ### 5.3 Lebensraum
 
 #### Art. 81
 
 **Umwelt, Naturschutz**
+
+**Grundsatz**
 
 <sup>1</sup> Kanton und Gemeinden sorgen für den Schutz der Menschen und der natürlichen Umwelt vor schädlichen oder lästigen Einwirkungen. Sie sorgen für eine dauerhafte Erhaltung der natürlichen Lebensgrundlagen und der Artenvielfalt.
 
@@ -892,8 +849,6 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 #### Art. 85
 
-**Grundsatz**
-
 <sup>1</sup> Kanton und Gemeinden sorgen zusammen mit öffentlichen und privaten Institutionen dafür, materielle und persönliche Notlagen von Menschen abzuwenden, zu lindern oder zu beheben. Sie fördern Vorsorge, Selbsthilfe und Eigeninitiative.
 
 <sup>2</sup> Sie unterstützen Massnahmen zur gesellschaftlichen Integration.
@@ -924,7 +879,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Ziele**
 
-<sup>1</sup> Erziehung und Bildung haben zum Ziel, die Entwicklung zu selbstverantwortlichen Persönlichkeiten, den Willen zur sozialen Gerechtigkeit und die Verantwortung für die Umwelt zu fördern.
+Erziehung und Bildung haben zum Ziel, die Entwicklung zu selbstverantwortlichen Persönlichkeiten, den Willen zur sozialen Gerechtigkeit und die Verantwortung für die Umwelt zu fördern.
 
 #### Art. 89
 
@@ -950,19 +905,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Kultur, Heimatschutz**
 
-<sup>1</sup> Kanton und Gemeinden:
-
-- a) fördern das aktuelle kulturelle Schaffen und die Pflege des Brauchtums
-- b) erhalten und pflegen Kulturgüter, Denkmäler und schützenswerte Ortsbilder
-- c) erleichtern den Zugang zum kulturellen Leben
-- d) fördern die kulturellen Beziehungen zwischen verschiedenen Volksgruppen, unter den Kantonen und mit dem Ausland
-- e) unterstützen kulturelle Einrichtungen
+Kanton und Gemeinden a) fördern das aktuelle kulturelle Schaffen und die Pflege des Brauchtums b) erhalten und pflegen Kulturgüter, Denkmäler und schützenswerte Ortsbilder c) erleichtern den Zugang zum kulturellen Leben d) fördern die kulturellen Beziehungen zwischen verschiedenen Volksgruppen, unter den Kantonen und mit dem Ausland e) unterstützen kulturelle Einrichtungen.
 
 #### Art. 92
 
 **Freizeitgestaltung**
 
-<sup>1</sup> Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, insbesondere die Jugendarbeit und den Sport.
+Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, insbesondere die Jugendarbeit und den Sport.
 
 ### 5.7 Wirtschaft
 
@@ -970,13 +919,13 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Grundsatz**
 
-<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine leistungsfähige Wirtschaft.
+Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine leistungsfähige Wirtschaft.
 
 #### Art. 94
 
 **Kantonalbank**
 
-<sup>1</sup> Der Kanton kann im Interesse der regionalen Volkswirtschaft eine Bank führen oder sich an einer solchen beteiligen.
+Der Kanton kann im Interesse der regionalen Volkswirtschaft eine Bank führen oder sich an einer solchen beteiligen.
 
 #### Art. 95
 
@@ -986,7 +935,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Er kann die Nutzungsrechte Gemeinden oder Privaten übertragen.
 
-## 6 Finanzordnung
+### 6 Finanzordnung
 
 #### Art. 96
 
@@ -1010,12 +959,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Mittelbeschaffung**
 
-<sup>1</sup> Der Kanton beschafft sich seine Mittel insbesondere:
-
-- a) durch Erheben von Steuern und anderen Abgaben
-- b) aus den Erträgen seines Vermögens
-- c) aus Leistungen des Bundes und Dritter
-- d) durch die Aufnahme von Darlehen und Anleihen
+Der Kanton beschafft sich seine Mittel insbesondere a) durch Erheben von Steuern und anderen Abgaben b) aus den Erträgen seines Vermögens c) aus Leistungen des Bundes und Dritter d) durch die Aufnahme von Darlehen und Anleihen.
 
 #### Art. 99
 
@@ -1041,7 +985,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Die Wahl der Leiterin oder des Leiters der Finanzkontrolle erfolgt auf Vorschlag des Regierungsrates durch den Kantonsrat.
 
-## 7 Gemeinden
+### 7 Gemeinden
 
 #### Art. 102
 
@@ -1051,7 +995,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Sie erfüllen alle öffentlichen Aufgaben, für die nicht der Bund oder der Kanton zuständig sind.
 
-<sup>3</sup> Die Grundsätze der Art. 38 bis 48 gelten auch für die Organe der Gemeinden, soweit sie sich nicht nur auf kantonale Behörden beziehen.
+<sup>3</sup> Die Grundsätze der Artikel 38 bis 48 gelten auch für die Organe der Gemeinden, soweit sie sich nicht nur auf kantonale Behörden beziehen.
 
 <sup>4</sup> Das Gesetz kann Mindestanforderungen festlegen, die die Gemeinden bei der Erfüllung ihrer Aufgaben einzuhalten haben.
 
@@ -1075,7 +1019,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Gemeindeautonomie**
 
-<sup>1</sup> Die Gemeinden sind im Rahmen von Verfassung und Gesetz befugt, sich selbst zu organisieren, ihre Behörden zu wählen, ihre Aufgaben nach eigenem Ermessen zu erfüllen, die erforderlichen Abgaben zu erheben und ihre öffentlichen Sachen selbständig zu verwalten.
+Die Gemeinden sind im Rahmen von Verfassung und Gesetz befugt, sich selbst zu organisieren, ihre Behörden zu wählen, ihre Aufgaben nach eigenem Ermessen zu erfüllen, die erforderlichen Abgaben zu erheben und ihre öffentlichen Sachen selbständig zu verwalten.
 
 #### Art. 106
 
@@ -1099,15 +1043,15 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>3</sup> Im Streitfall entscheidet das Obergericht.
 
-## 8 Kirchen und Religionsgemeinschaften
+### 8 Kirchen und Religionsgemeinschaften
 
 #### Art. 108
 
-**Öffentlich-rechtliche Anerkennung**
+**Öffentlichrechtliche Anerkennung**
 
 <sup>1</sup> Die evangelisch-reformierte, die römisch-katholische und die christkatholische Kirche sind als öffentlich-rechtliche Körperschaften mit eigener Rechtspersönlichkeit anerkannt.
 
-<sup>2</sup> Der Kantonsrat kann weitere Religionsgemeinschaften öffentlich-rechtlich anerkennen. Die Voraussetzungen und Auswirkungen der öffentlich-rechtlichen Anerkennung richten sich sinngemäss nach Art. 109 bis 113.
+<sup>2</sup> Der Kantonsrat kann weitere Religionsgemeinschaften öffentlichrechtlich anerkennen. Die Voraussetzungen und Auswirkungen der öffentlich-rechtlichen Anerkennung richten sich sinngemäss nach Art. 109 bis 113.
 
 #### Art. 109
 
@@ -1151,7 +1095,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>2</sup> Entscheide der obersten kirchlichen Rechtsschutzinstanzen können beim Obergericht angefochten werden.
 
-## 9 Revision der Kantonsverfassung
+### 9 Revision der Kantonsverfassung
 
 #### Art. 114
 
@@ -1165,7 +1109,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Teilrevision**
 
-<sup>1</sup> Mit einer Teilrevision können einzelne oder sachlich zusammenhängende Verfassungsbestimmungen geändert werden.
+Mit einer Teilrevision können einzelne oder sachlich zusammenhängende Verfassungsbestimmungen geändert werden.
 
 #### Art. 116
 
@@ -1177,7 +1121,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 <sup>3</sup> Wird der Verfassungsentwurf nicht angenommen, so arbeitet der mit der Revision beauftragte Rat einen zweiten Entwurf aus. Wird auch dieser von den Stimmberechtigten verworfen, fällt der Revisionsbeschluss dahin.
 
-## 10 Übergangs- und Schlussbestimmungen
+### 10 Übergangs- und Schlussbestimmungen
 
 #### Art. 117
 
@@ -1194,7 +1138,7 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Aufhebung des bisherigen Rechts**
 
-<sup>1</sup> Bestimmungen im bisherigen Recht, welche dieser Verfassung widersprechen, sind aufgehoben.
+Bestimmungen im bisherigen Recht, welche dieser Verfassung widersprechen, sind aufgehoben.
 
 #### Art. 119
 
@@ -1232,8 +1176,10 @@ In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons S
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Verfassung ist im Amtsblatt zu veröffentlichen[^123-1] und in die kantonale Gesetzessammlung aufzunehmen.
+Die Verfassung ist im Amtsblatt zu veröffentlichen[^123-1] und in die kantonale Gesetzessammlung aufzunehmen.
+
+Von der Bundesversammlung genehmigt am 15. September 2003 (Ständerat) und 24. September 2003 (Nationalrat)
+
+Fussnoten:
 
 [^123-1]: Amtsblatt 2002, S. 1975.
-
-Abl. 2002, S. 1974
