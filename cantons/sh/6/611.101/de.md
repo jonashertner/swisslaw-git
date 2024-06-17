@@ -4,26 +4,28 @@ number: "611.101"
 title: Vereinbarung betreffend die Zusammenführung der Finanzkontrolle des Kantons Schaffhausen und der Finanzkontrolle der Stadt Schaffhausen
 language: de
 version: 2015-09-01
+corrected: 2024-06-18
 version_adopted: 2015-09-01
 adopted: 2000-11-07
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1690/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/3/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung betreffend die Zusammenführung der Finanzkontrolle des Kantons Schaffhausen und der Finanzkontrolle der Stadt Schaffhausen
 
-Vom 07.11.2000 (Stand 01.09.2015)
+vom 7. November 2000
 
 Der Regierungsrat des Kantons Schaffhausen und der Stadtrat der Stadt Schaffhausen,
 
 gestützt auf Art. 66 und Art. 92 Abs. 2 der Kantonsverfassung, Art. 4 des Organisationsgesetzes und Art. 28 der Verfassung der Einwohnergemeinde Schaffhausen,
 
-beschliessen:
+treffen die folgende Vereinbarung:
 
-## 1 Allgemeines
+## I. Allgemeines
 
 #### Art. 1
 
@@ -37,19 +39,19 @@ beschliessen:
 
 **Gegenseitige Orientierungspflicht**
 
-<sup>1</sup> Regierungsrat und Stadtrat fassen keine Beschlüsse, welche die Finanzkontrolle betreffen, bevor die andere Behörde orientiert ist.
+Regierungsrat und Stadtrat fassen keine Beschlüsse, welche die Finanzkontrolle betreffen, bevor die andere Behörde orientiert ist.
 
-## 2 Organisatorisches
+Amtsblatt 2001, S.17.
 
-### 2.1 Allgemeine Bestimmung
+## II. Organisatorisches
+
+- 1\. Allgemeine Bestimmung
 
 #### Art. 3
 
 **Amtsräume**
 
-<sup>1</sup> Die Büros befinden sich in einem Verwaltungsgebäude der kantonalen oder städtischen Verwaltung[^3-1].
-
-[^3-1]: Der Regierungsrat hat am 1. September 2015 und der Stadtrat Schaffhausen hat am 25. August 2015 einer Abweichung dieser Vorgabe zugestimmt.
+Die Büros befinden sich in einem Verwaltungsgebäude der kantonalen oder städtischen Verwaltung. <sup>2)</sup>
 
 #### Art. 4
 
@@ -71,7 +73,7 @@ beschliessen:
 
 <sup>4</sup> Alle der Finanzkontrolle bisher übertragenen zusätzlichen Aufgaben sowie die Belegkontrolle werden bis spätestens Ende 2001 anderen Dienststellen zugeteilt.
 
-### 2.2 Leitung und Unterstellung der Dienststelle
+- 2\. Leitung und Unterstellung der Dienststelle
 
 #### Art. 6
 
@@ -83,7 +85,7 @@ beschliessen:
 
 <sup>3</sup> Als erster Chef wird der bisherige Leiter der städtischen Finanzkontrolle bestimmt.
 
-### 2.3 Finanzielles
+- 3\. Finanzielles
 
 #### Art. 7
 
@@ -99,7 +101,7 @@ beschliessen:
 
 <sup>5</sup> Der Vorsteher des Finanzdepartementes und die Finanzreferentin der Stadt Schaffhausen sprechen sich über die Budgetierung beziehungsweise Verrechnung ab.
 
-## 3 Personal
+## III. Personal
 
 #### Art. 8
 
@@ -111,7 +113,7 @@ beschliessen:
 
 <sup>3</sup> Der Vorsteher des Finanzdepartementes holt bei allen Personalmassnahmen die Meinungsäusserung der Finanzreferentin der Stadt Schaffhausen ein.
 
-## 4 Schlussbestimmungen
+## IV. Schlussbestimmungen
 
 #### Art. 9
 
@@ -119,7 +121,7 @@ beschliessen:
 
 <sup>1</sup> Die vorliegende Vereinbarung kann unter Beachtung einer einjährigen Kündigungsfrist auf das Ende einer Amtsperiode gekündigt werden.
 
-<sup>2</sup> In der Amtsperiode 2001–2004 sollten die gesetzlichen Grundlagen für eine gemeinsame Finanzkontrolle geschaffen werden.
+<sup>2</sup> In der Amtsperiode 2001 - 2004 sollten die gesetzlichen Grundlagen für eine gemeinsame Finanzkontrolle geschaffen werden.
 
 #### Art. 10
 
@@ -127,8 +129,10 @@ beschliessen:
 
 <sup>1</sup> Diese Vereinbarung tritt am 1. Januar 2001 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^10-1], in die kantonale Gesetzessammlung und in die städtische Erlasssammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup>, in die kantonale Gesetzessammlung und in die städtische Erlasssammlung aufzunehmen.
 
-[^10-1]: Amtsblatt 2001, S. 17.
+Fussnoten:
 
-Abl. 2001, S.17
+- 1) Amtsblatt 2001, S. 17.
+
+- 2) Der Regierungsrat hat am 1. September 2015 und der Stadtrat Schaffhausen hat am 25. August 2015 einer Abweichung dieser Vorgabe zugestimmt.
