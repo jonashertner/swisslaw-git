@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accordo concernente misure di solidarietà volte a garantire la sicurezza dell’approvvigionamento di gas tra la Svizzera, la Germania e l’Italia"
 document: Progetto posto in consultazione-4
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Abkommen über Solidaritätsmassnahmen zur Gewährleistung der sicheren Gasversorgung zwischen der Schweiz, Deutschland und Italien"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accord entre la Suisse, l’Allemagne et l’Italie concernant des mesures de solidarité visant à assurer la sécurité de l’approvisionnement en gaz"
 document: Projet mis en consultation-4
 language: fr
