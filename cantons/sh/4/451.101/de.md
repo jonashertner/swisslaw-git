@@ -5,68 +5,68 @@ title: Verordnung über den Naturschutz
 short: Naturschutzverordnung
 language: de
 version: 2021-01-01
+corrected: 2024-06-18
 version_adopted: 2020-11-24
 adopted: 1979-03-06
 in_force: 1979-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/451.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1686/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/249/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über den Naturschutz
+# Verordnung über den Naturschutz (Naturschutzverordnung)
 
-(Naturschutzverordnung)
-
-Vom 06.03.1979 (Stand 01.01.2021)
+vom 6. März 1979
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 5 und 13 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen vom 12. Februar 1968[^ingress-1],
+gestützt auf Art. 5 und 13 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen vom 12. Februar 1968 <sup>1)</sup>,
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [451.100](https://rechtsbuch.sh.ch/data/451.100/de).
-
-## 1 Allgemeine Schutzvorschriften
+### I. Allgemeine Schutzvorschriften
 
 #### § 1
 
-**Zweck und Geltungsbereich**
+**I. Zweck und Geltungsbereich**
 
 <sup>1</sup> Diese Verordnung bezweckt, freilebende Tier- und wildwachsende Pflanzenarten zu schonen und vor dem Aussterben zu bewahren.
 
 <sup>2</sup> Dieser Zweck ist namentlich durch die Bekämpfung schädlicher Einwirkungen, durch die Erhaltung genügend grosser Lebensräume (Biotope) und durch andere geeignete Massnahmen anzustreben.
 
-<sup>3</sup> Die Vorschriften über Jagd und Vogelschutz sowie die Fischereigesetzgebung bleiben vorbehalten. Bei sich widersprechenden Bestimmungen nehmen die für die Jagd und die Fischerei zuständigen kantonalen Behörden Rücksprache mit dem Planungs- und Naturschutzamt.
+<sup>3</sup> Die Vorschriften über Jagd und Vogelschutz sowie die Fischereigesetzgebung bleiben vorbehalten. Bei sich widersprechenden Bestimmungen nehmen die für die Jagd und die Fischerei zuständigen kantonalen Behörden Rücksprache mit dem Planungs- und Naturschutzamt. <sup>18)</sup>
 
 #### § 2
 
-**Allgemeine Schutzbestimmungen: Biotope und Reservate: Erhaltung und Pflege**
+**II. Allgemeine Schutzbestimmungen 1. Biotope und Reservate a) Erhaltung und Pflege**
 
 <sup>1</sup> Nahrungsquellen, Brut- und Nistgelegenheiten wie Tümpel, Riede, Sumpfgebiete, Wacholderheiden, Trockenwiesen, Hecken und Feldgehölze sowie Reservate sind in genügendem Umfang zu erhalten.
 
+Amtsblatt 1979, S. 259; Rechtsbuch 1964, Nr. 252.
+
 <sup>2</sup> Das Naturschutzamt fördert die Errichtung und Pflege von Biotopen und Reservaten.
 
-<sup>3</sup> Zu diesem Zweck kann es Richtlinien über die Pflege von Reservaten aufstellen und den Gemeinden oder dem Regierungsrat vorschlagen, Schutzverfügungen im Sinne der Art. 6 und 7 des Natur- und Heimatschutzgesetzes[^2-1] zu erlassen.
-
-[^2-1]: SHR [451.100](https://rechtsbuch.sh.ch/data/451.100/de).
+<sup>3</sup> Zu diesem Zweck kann es Richtlinien über die Pflege von Reservaten aufstellen und den Gemeinden oder dem Regierungsrat vorschlagen, Schutzverfügungen im Sinne der Art. 6 und 7 des Natur- und Heimatschutzgesetzes <sup>1)</sup> zu erlassen.
 
 #### § 2a
+
+<sup>19)</sup>
 
 <sup>1</sup> Das Planungs- und Naturschutzamt kann bei Biotopen und ökologischen Ausgleichsflächen von nationaler und kantonaler Bedeutung die fachgerechte Pflege mit Bewirtschaftungsverträgen sicherstellen.
 
 <sup>2</sup> Der Pflegeaufwand und die Ertragsausfälle werden im Rahmen der vom Regierungsrat bewilligten Kredite mit Beiträgen aus dem Natur- und Heimatschutzfonds abgegolten (NHG-Beiträge).
 
-<sup>3</sup> Werden für die Vertragsflächen gleichzeitig Qualitätsbeiträge für Biodiversitäts-Förderflächen gemäss Verordnung über die Direktzahlungen an die Landwirtschaft vom 23. Oktober 2013 (SR [910.13](http://db.clex.ch/link/Bund/910.13/de)) ausgerichtet, wird nur die im Bewirtschaftungsvertrag vereinbarte ökologische Mehrleistung mit NHG-Beiträgen abgegolten.
+<sup>3</sup> Werden für die Vertragsflächen gleichzeitig Qualitätsbeiträge für Biodiversitäts-Förderflächen gemäss Verordnung über die Direktzahlungen an die Landwirtschaft vom 23. Oktober 2013 (SR 910.13) ausgerichtet, wird nur die im Bewirtschaftungsvertrag vereinbarte ökologische Mehrleistung mit NHG-Beiträgen abgegolten.
 
 <sup>4</sup> Der Regierungsrat erlässt Richtlinien zur Abgeltung der fachgerechten Pflege von Biotopen und ökologischen Ausgleichsflächen und regelt den Vollzug.
 
 #### § 3
 
-**Allgemeine Schutzbestimmungen: Biotope und Reservate: Veränderungen an Biotopen**
+**b) Veränderungen an Biotopen**
 
-<sup>1</sup> Grundlegende Veränderungen an Biotopen dürfen nur mit einer Bewilligung des Planungs- und Naturschutzamtes vorgenommen werden.
+<sup>1</sup> Grundlegende Veränderungen an Biotopen dürfen nur mit einer Bewilligung des Planungs- und Naturschutzamtes vorgenommen werden. <sup>13)</sup>
 
 <sup>2</sup> Die Bewilligung ist zu verweigern, wenn das Interesse an der Erhaltung des Ökosystems dasjenige an der Veränderung überwiegt.
 
@@ -74,17 +74,17 @@ beschliesst:
 
 #### § 4
 
-**Allgemeine Schutzbestimmungen: Ufervegetation**
+**2. Ufervegetation**
 
 <sup>1</sup> Die Ufer sind den Tieren und Pflanzen als möglichst störungsfreier Lebensraum zu erhalten.
 
-<sup>2</sup> Die Beseitigung der Ufervegetation durch Rodungen oder Überschüttungen sowie Uferverbauungen bedürfen einer Bewilligung des Baudepartementes.
+<sup>2</sup> Die Beseitigung der Ufervegetation durch Rodungen oder Überschüttungen sowie Uferverbauungen bedürfen einer Bewilligung des Baudepartementes <sup>2)</sup>.
 
 <sup>3</sup> Die Bewilligung ist zu verweigern, wenn das Interesse an der Erhaltung der Ufervegetation dasjenige an der Verbauung oder Beseitigung überwiegt.
 
 #### § 5
 
-**Allgemeine Schutzbestimmungen: Abbrennverbot**
+**3. Abbrennverbot**
 
 <sup>1</sup> Das Abbrennen von Schilf ist verboten.
 
@@ -92,7 +92,7 @@ beschliesst:
 
 #### § 6
 
-**Allgemeine Schutzbestimmungen: Verwendung von Giftstoffen**
+**4. Verwendung von Giftstoffen**
 
 <sup>1</sup> Die Schädlingsbekämpfung mit Giftstoffen und andere Verwendungen chemischer Stoffe und Erzeugnisse, welche schützenswerte Tiere und Pflanzen nachweislich gefährden, ist untersagt.
 
@@ -100,19 +100,17 @@ beschliesst:
 
 #### § 7
 
-**Allgemeine Schutzbestimmungen: Erratische Blöcke usw.**
+**5. Erratische Blöcke usw.**
 
 <sup>1</sup> Erratische Blöcke (Findlinge) sowie Versteinerungen und Mineralien von erheblichem wissenschaftlichem Wert sind geschützte Naturdenkmäler.
 
 <sup>2</sup> Der Fund solcher Gegenstände ist dem Naturschutzamt zu melden, das sie aufnimmt und darüber entscheidet, ob sie am Ort belassen oder dem Naturhistorischen Museum überwiesen werden sollen.
 
-<sup>3</sup> Alle Funde dieser Art gehen ohne weiteres in das Eigentum des Kantons über und sind im Sinne von Art. 724 ZGB[^7-1] zu vergüten.
-
-[^7-1]: SR [210](http://db.clex.ch/link/Bund/210/de).
+<sup>3</sup> Alle Funde dieser Art gehen ohne weiteres in das Eigentum des Kantons über und sind im Sinne von Art. 724 ZGB <sup>3)</sup> zu vergüten.
 
 #### § 8
 
-**Allgemeine Schutzbestimmungen: Geologische Aufschlüsse**
+**6. Geologische Aufschlüsse**
 
 <sup>1</sup> Geologische Aufschlüsse von erheblichem wissenschaftlichem Wert in Kiesgruben und Steinbrüchen sind geschützte Naturdenkmäler.
 
@@ -120,58 +118,83 @@ beschliesst:
 
 #### § 9
 
-**Bewilligungspflicht: Sammeln zu Erwerbszwecken**
+<sup>13)</sup>
 
-<sup>1</sup> Das Sammeln wildwachsender Pflanzen und Fangen freilebender Tiere zu Erwerbszwecken bedarf, auch bei nicht geschützten Arten, einer Bewilligung des Planungs- und Naturschutzamtes.
+**III. Bewilligungspflicht 1. Sammeln zu Erwerbszwecken**
+
+Das Sammeln wildwachsender Pflanzen und Fangen freilebender Tiere zu Erwerbszwecken bedarf, auch bei nicht geschützten Arten, einer Bewilligung des Planungs- und Naturschutzamtes.
 
 #### § 10
 
-**Bewilligungspflicht: Sammeln zu wissenschaftlichen sowie zu Lehr- und Heilzwecken**
+<sup>13)</sup>
 
-<sup>1</sup> Das Sammeln und Ausgraben geschützter Pflanzen und das Fangen geschützter Tiere zu Lehr- und Heilzwecken sowie für nachweisbar ernsthafte wissenschaftliche Verwendung kann ausnahmsweise in begrenzter Zahl und beschränkt für ein bestimmtes Gebiet und eine bestimmte Zeit vom Planungs- und Naturschutzamt bewilligt werden.
+**2. Sammeln zu wissenschaftlichen sowie zu Lehr- und Heilzwecken**
+
+Das Sammeln und Ausgraben geschützter Pflanzen und das Fangen geschützter Tiere zu Lehr- und Heilzwecken sowie für nachweisbar ernsthafte wissenschaftliche Verwendung kann ausnahmsweise in begrenzter Zahl und beschränkt für ein bestimmtes Gebiet und eine bestimmte Zeit vom Planungs- und Naturschutzamt bewilligt werden.
 
 #### § 10a
 
-<sup>1</sup> Den Lehrkräften an öffentlichen und privaten Schulen ist für Forschungs- und Lehrzwecke der Fang und die Haltung einer kleinen Zahl der folgenden geschützten Tierarten ohne besondere Bewilligung gestattet: Laich und Kaulquappen des Grasfrosches, des Wasserfrosches (gesamter Grünfrosch-Komplex) und der Erdkröte; Bergmolch; Raupen und Puppen des Tagpfauenauges, des Admirals und des Schwalbenschwanzes; Larve der Ameisenjungfer (Ameisenlöwe).
+<sup>4)</sup>
+
+<sup>1</sup> Den Lehrkräften an öffentlichen und privaten Schulen ist für Forschungs- und Lehrzwecke der Fang und die Haltung einer kleinen Zahl der folgenden geschützten Tierarten ohne besondere Bewilligung gestattet:
+
+Laich und Kaulquappen des Grasfrosches, des Wasserfrosches (gesamter Grünfrosch-Komplex) und der Erdkröte; Bergmolch; Raupen und Puppen des Tagpfauenauges, des Admirals und des Schwalbenschwanzes; Larve der Ameisenjungfer (Ameisenlöwe).
 
 <sup>2</sup> Durch die Entnahme dieser Arten darf der Bestand am Fangort nicht gefährdet werden. Besondere Bestimmungen in Naturschutzgebieten bleiben vorbehalten.
 
 #### § 10b
 
-<sup>1</sup> Das Ansiedeln von einheimischen Tier- und Pflanzenarten, die nach der Natur- und Heimatschutzgesetzgebung des Bundes oder der kantonalen Naturschutzverordnung geschützt sind, bedarf einer Bewilligung des Planungs- und Naturschutzamtes. Von der Bewilligungspflicht ausgenommen sind Betriebe der Land- und Forstwirtschaft und die Ansiedlung von Pflanzen in Gärten und Parkanlagen.
+<sup>19)</sup>
+
+Das Ansiedeln von einheimischen Tier- und Pflanzenarten, die nach der Natur- und Heimatschutzgesetzgebung des Bundes oder der kantonalen Naturschutzverordnung geschützt sind, bedarf einer Bewilligung des Planungs- und Naturschutzamtes. Von der Bewilligungspflicht ausgenommen sind Betriebe der Land- und Forstwirtschaft und die Ansiedlung von Pflanzen in Gärten und Parkanlagen.
 
 #### § 11
 
-**Bewilligungspflicht: Ansiedeln fremder Tier- und Pflanzenarten**
+**3. Ansiedeln fremder Tier- und Pflanzenarten**
 
 <sup>1</sup> Das Ansiedeln landes- und standortsfremder Tier- und Pflanzenarten bedarf einer Bewilligung des Bundesrates.
 
 <sup>2</sup> Gehege, Gärten und Parkanlagen sowie die Betriebe der Land- und Forstwirtschaft sind ausgenommen.
 
-<sup>3</sup> Gesuche für die Bewilligung zur Ansiedlung fremder Tier- und Pflanzenarten sind an das Planungs- und Naturschutzamt zu richten.
+<sup>3</sup> Gesuche für die Bewilligung zur Ansiedlung fremder Tier- und Pflanzenarten sind an das Planungs- und Naturschutzamt zu richten. <sup>13)</sup>
 
-## 1a Vorschriften für das BLN-Gebiet Randen
+### Ia. Vorschriften für das BLN-Gebiet Randen <sup>5)</sup>
 
 #### § 11a
 
+<sup>6)</sup>
+
 **Geltungsbereich**
 
-<sup>1</sup> Die als BLN-Gebiet «Randen» bezeichnete Landschaft umfasst den Perimeter des Objektes Nr. 1102 des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung (BLN). Es betrifft die folgenden Gemeinden:
+<sup>1</sup> Die als BLN-Gebiet «Randen» bezeichnete Landschaft umfasst den Perimeter des Objektes Nr. 1102 des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung (BLN).
 
-- a) Bargen (gesamtes Gemeindegebiet): 827 ha
-- b) Beggingen (Teilgebiet): 680 ha
-- c) Beringen (Teilgebiet): 810 ha
-- d) Gächlingen (Teilgebiet): 165 ha
-- e) …
-- f) Löhningen (Teilgebiet): 274 ha
-- g) Merishausen (gesamtes Gemeindegebiet): 1'755 ha
-- h) Schaffhausen (Teilgebiet sowie gesamtes Gebiet der früheren Gemeinde Hemmental): 2'054 ha
-- i) Schleitheim (Teilgebiet): 400 ha
-- j) Siblingen (Teilgebiet): 548 ha
+Es betrifft die folgenden Gemeinden:
 
-<sup>2</sup> Die Grenzen des BLN-Gebietes Randen und die Bezeichnung des Bereiches des Engeren Randenschutzgebietes (ERS) sind in der Karte im Anhang 3 dieser Verordnung eingetragen. Die Abgrenzung ist nicht parzellenscharf; im Zweifelsfall entscheidet das Baudepartement.
+**827 ha**
+
+Bargen (gesamtes Gemeindegebiet) Beggingen (Teilgebiet) Beringen (Teilgebiet) Gächlingen (Teilgebiet) … <sup>16)</sup> Löhningen (Teilgebiet) Merishausen (gesamtes Gemeindegebiet) Schaffhausen <sup>17)</sup> (Teilgebiet sowie gesamtes Gebiet der früheren Gemeinde Hemmental) Schleitheim (Teilgebiet Siblingen (Teilgebiet)
+
+**680 ha**
+
+**810 ha**
+
+**165 ha**
+
+**274 ha**
+
+**1'755 ha**
+
+**2’054 ha**
+
+**400 ha**
+
+**548 ha**
+
+<sup>2</sup> Die Grenzen des BLN-Gebietes Randen und die Bezeichnung des Bereiches des Engeren Randenschutzgebietes (ERS) sind in der Karte im Anhang III dieser Verordnung eingetragen. Die Abgrenzung ist nicht parzellenscharf; im Zweifelsfall entscheidet das Baudepartement.
 
 #### § 11b
+
+<sup>6)</sup>
 
 **Schutz von Lebensräumen**
 
@@ -185,30 +208,35 @@ beschliesst:
 
 #### § 11c
 
+<sup>6)</sup>
+
 **Besondere Bestimmungen**
 
-<sup>1</sup> Es ist nicht gestattet:
+Es ist nicht gestattet:
 
-- a) ausserhalb von Bauzonen Reklameanlagen zu erstellen
-- b) Motorsport zu betreiben
-- c) im ERS Modellmotorsport zu betreiben
+- a) ausserhalb von Bauzonen Reklameanlagen zu erstellen;
 
-## 2 Schutz der Tiere
+- b) Motorsport zu betreiben;
+
+- c) im ERS Modellmotorsport zu betreiben.
+
+### II. Schutz der Tiere
 
 #### § 12
 
-**Allgemeines Verbot**
+**I. Allgemeines Verbot**
 
-<sup>1</sup> Es ist verboten, die im Anhang 1 aufgeführten freilebenden Tiere mutwillig oder zum Zwecke der Verfütterung oder des Erwerbs:
+<sup>1</sup> Es ist verboten, die im Anhang I aufgeführten freilebenden Tiere mutwillig oder zum Zwecke der Verfütterung oder des Erwerbs:
 
-- a) zu töten oder zum Zwecke der Aneignung zu fangen sowie ihre Eier, Larven, Puppen, Nester oder Brutstätten zu beschädigen, zu zerstören oder wegzunehmen
-- b) lebend oder tot, einschliesslich der Eier, Larven, Puppen und Nester mitzuführen, zu versenden, feilzuhalten, auszuführen, andern zu überlassen, zu erwerben, in Gewahrsam zu nehmen oder bei solchen Handlungen mitzuwirken
+- a) zu töten oder zum Zwecke der Aneignung zu fangen sowie ihre Eier, Larven, Puppen, Nester oder Brutstätten zu beschädigen, zu zerstören oder wegzunehmen;
 
-<sup>2</sup> Vorbehalten bleiben Bewilligungen nach § 10 und § 10a sowie die Bestimmungen in Art. 20 Abs. 2 der Verordnung des Bundesrates über den Natur- und Heimatschutz vom 16. Januar 1991 über die national geschützten Tierarten gemäss deren Anhang 3.
+- b) lebend oder tot, einschliesslich der Eier, Larven, Puppen und Nester mitzuführen, zu versenden, feilzuhalten, auszuführen, andern zu überlassen, zu erwerben, in Gewahrsam zu nehmen oder bei solchen Handlungen mitzuwirken.
+
+<sup>2</sup> Vorbehalten bleiben Bewilligungen nach § 10 und §10a sowie die Bestimmungen in Art. 20 Abs. 2 der Verordnung des Bundesrates über den Natur- und Heimatschutz vom 16. Januar 1991 über die national geschützten Tierarten gemäss deren Anhang 3. <sup>18)</sup>
 
 #### § 13
 
-**Besondere Schutzbestimmungen: Hunde im Wald**
+**II. Besondere Schutzbestim mungen 1. Hunde im Wald**
 
 <sup>1</sup> Im Wald und in dessen unmittelbarer Nähe sind Hunde bei Fuss zu halten.
 
@@ -218,13 +246,13 @@ beschliesst:
 
 #### § 14
 
-**Besondere Schutzbestimmungen: Ameisenhaufen**
+**2. Ameisenhaufen**
 
-<sup>1</sup> Das Zerstören von Ameisenhaufen im Walde ist verboten.
+Das Zerstören von Ameisenhaufen im Walde ist verboten.
 
 #### § 15
 
-**Besondere Schutzbestimmungen: Strassen**
+**3. Strassen**
 
 <sup>1</sup> Strassenstrecken, die für freilebende Tiere eine besondere Gefahrenquelle darstellen, sind mit geeigneten Schutzvorkehrungen zu versehen.
 
@@ -232,39 +260,39 @@ beschliesst:
 
 #### § 16
 
-**Besondere Schutzbestimmungen: Pflegestellen**
+**4. Pflegestellen**
 
-<sup>1</sup> Das Planungs- und Naturschutzamt vermittelt Pflegestellen für die Heilung freilebender kranker und verletzter Tiere sowie für verlassene Jungtiere.
+<sup>1</sup> Das Planungs- und Naturschutzamt vermittelt Pflegestellen für die Heilung freilebender kranker und verletzter Tiere sowie für verlassene Jungtiere. <sup>13)</sup>
 
 <sup>2</sup> Verletzte jagdbare Tiere sind dem örtlichen Jagdpächter zu melden.
 
 #### § 17
 
-**Besondere Schutzbestimmungen: Kontrolle der Präparatoren**
+**5. Kontrolle der Präparatoren**
 
 <sup>1</sup> Die Präparatoren sind verpflichtet, über die ihnen eingelieferten Tiere, den Herkunftsort und das Überbringungsdatum sowie über die Überbringer und allfälligen Eigentümer ein Verzeichnis zu führen.
 
-<sup>2</sup> Das Verzeichnis ist dem Planungs- und Naturschutzamt auf Verlangen vorzulegen.
+<sup>2</sup> Das Verzeichnis ist dem Planungs- und Naturschutzamt auf Verlangen vorzulegen. <sup>13)</sup>
 
 <sup>3</sup> Dem Naturschutzbeamten ist zudem der Zutritt zu den Geschäfts-, Werk- und Lagerräumen zu gestatten.
 
-## 3 Schutz der Pflanzen
+### III. Schutz der Pflanzen
 
 #### § 18
 
-**Allgemeines Verbot**
+**I. Allgemeines Verbot**
 
-<sup>1</sup> Die im Anhang 2 aufgeführten wildwachsenden Pflanzen dürfen weder gepflückt noch ausgegraben, ausgerissen, eingepflanzt, transportiert, feilgeboten, verkauft oder gekauft werden.
+<sup>1</sup> Die im Anhang II aufgeführten wildwachsenden Pflanzen dürfen weder gepflückt noch ausgegraben, ausgerissen, eingepflanzt, transportiert, feilgeboten, verkauft oder gekauft werden.
 
-<sup>2</sup> Vorbehalten bleiben eine Bewilligung nach § 10 sowie die Bestimmungen in Art 20 Abs. 1 der Verordnung des Bundesrates über den Natur- und Heimatschutz vom 16. Januar 1991 über die national geschützten Pflanzenarten gemäss deren Anhang 2.
+<sup>2</sup> Vorbehalten bleiben eine Bewilligung nach § 10 sowie die Bestimmungen in Art 20 Abs. 1 der Verordnung des Bundesrates über den Natur- und Heimatschutz vom 16. Januar 1991 über die national geschützten Pflanzenarten gemäss deren Anhang 2. <sup>18)</sup>
 
-<sup>3</sup> Das Planungs- und Naturschutzamt kann in besonderen Fällen das Einpflanzen geschützter wildwachsender Pflanzen gestatten. Die Pflanzstellen sind zu registrieren.
+<sup>3</sup> Das Planungs- und Naturschutzamt kann in besonderen Fällen das Einpflanzen geschützter wildwachsender Pflanzen gestatten. Die Pflanzstellen sind zu registrieren. <sup>13)</sup>
 
 #### § 19
 
-**Besondere Bestimmungen: Bäume und Hecken**
+**II. Besondere Bestimmungen 1. Bäume und Hecken**
 
-<sup>1</sup> Wildwachsende Hecken und Strauchgruppen sowie markante Bäume und Baumgruppen sind geschützt und dürfen nur mit Bewilligung des Planungs- und Naturschutzamtes entfernt werden.
+<sup>1</sup> Wildwachsende Hecken und Strauchgruppen sowie markante Bäume und Baumgruppen sind geschützt und dürfen nur mit Bewilligung des Planungs- und Naturschutzamtes entfernt werden. <sup>13)</sup>
 
 <sup>2</sup> Die Bewilligung ist zu verweigern, wenn das allgemeine Interesse an ihrer Erhaltung überwiegt.
 
@@ -272,7 +300,7 @@ beschliesst:
 
 #### § 20
 
-**Besondere Bestimmungen: Kätzchen tragende Zweige**
+**2. Kätzchen tragende Zweige**
 
 <sup>1</sup> Wildwachsende, Kätzchen tragende Weiden-, Pappel-, Haselnuss-, Birken- und Erlenzweige dürfen nicht massenhaft gepflückt werden.
 
@@ -280,53 +308,57 @@ beschliesst:
 
 #### § 21
 
-**Besondere Bestimmungen: Pilze und Beeren**
+**3. Pilze und Beeren**
 
-<sup>1</sup> Der Regierungsrat kann das Sammeln bestimmter Arten von Pilzen, Beeren, Tee- und Heilkräutern, soweit sie nicht ohnehin geschützt sind, in bestimmten Gebieten zeitlich beschränkt verbieten.
+Der Regierungsrat kann das Sammeln bestimmter Arten von Pilzen, Beeren, Tee- und Heilkräutern, soweit sie nicht ohnehin geschützt sind, in bestimmten Gebieten zeitlich beschränkt verbieten.
 
-## 4 Organisation und Vollzug
+### IV. Organisation und Vollzug
 
 #### § 22
 
-**Baudepartement**
+<sup>15)</sup>
+
+**I. Baudepartement**
 
 <sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Baudepartement.
 
-<sup>2</sup> Das Planungs- und Naturschutzamt ist unter Vorbehalt der Genehmigung des Vorstehers des Baudepartementes und des Regierungsrates zuständig, Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund im Bereich der Natur- und Landschaftsgesetzgebung auszuarbeiten.
+<sup>2</sup> Das Planungs- und Naturschutzamt ist unter Vorbehalt der Genehmigung des Vorstehers des Baudepartementes und des Regierungsrates zuständig, Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund im Bereich der Natur- und Landschaftsgesetzgebung auszuarbeiten.<sup>20)</sup>
 
 #### § 23
 
-**Kantonale Natur- und Heimatschutzkommission**
+**II. Kantonale Natur- und Heimatschutzkommission**
 
-<sup>1</sup> Der Kantonalen Natur- und Heimatschutzkommission sind alle Fragen aus dem Gebiet des Naturschutzes, die ein spezielles Fachwissen erfordern oder sonst von besonderer Bedeutung sind, wie namentlich die Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund, Veränderungen an Biotopen (§ 2) oder die Beseitigung der Ufervegetation (§ 4), zur Stellungnahme zu unterbreiten.
+<sup>1</sup> Der Kantonalen Natur- und Heimatschutzkommission sind alle Fragen aus dem Gebiet des Naturschutzes, die ein spezielles Fachwissen erfordern oder sonst von besonderer Bedeutung sind, wie namentlich die Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund, Veränderungen an Biotopen (§ 2) oder die Beseitigung der Ufervegetation (§ 4), zur Stellungnahme zu unterbreiten. <sup>15)</sup>
 
-<sup>2</sup> Der Rechtsdienst des Baudepartementes führt das Sekretariat der Natur- und Heimatschutzkommission.
+<sup>2</sup> Der Rechtsdienst des Baudepartementes <sup>2)</sup> führt das Sekretariat der Natur- und Heimatschutzkommission.
 
 <sup>3</sup> Der Sekretär hat in den Sitzungen der Kommission beratende Stimme.
 
 #### § 24
 
-**Planungs- und Naturschutzamt**
+<sup>15)</sup>
+
+**III. Planungs- und Naturschutzamt 13)**
 
 <sup>1</sup> Über die in dieser Verordnung ausdrücklich erwähnten Aufgaben hinaus berät das Planungs- und Naturschutzamt die Gemeinden bei der Erfüllung von Aufgaben des Naturschutzes und wirkt auf die Verbreitung des Naturschutzgedankens in der Bevölkerung hin.
 
-<sup>2</sup> Das Planungs- und Naturschutzamt ist zuständig für die fachgerechte Planung und die Vernetzung der Schutzgebiete von nationaler und kantonaler Bedeutung.
+<sup>2</sup> Das Planungs- und Naturschutzamt ist zuständig für die fachgerechte Planung und die Vernetzung der Schutzgebiete von nationaler und kantonaler Bedeutung.<sup>20)</sup>
 
 #### § 25
 
-**Naturschutzwacht**
+**IV. Naturschutzwacht**
 
 <sup>1</sup> Die Organe der Kantons- und Gemeindepolizei, der kantonale Naturschutzbeamte, das Staats- und Gemeindeforstpersonal, die Gemeindeflurhüter, die Jagd- und Fischereiaufseher sowie die freiwilligen Naturschutzwächter bilden zusammen die Naturschutzwacht.
 
-<sup>2</sup> Die Rechte und Pflichten der freiwilligen Nautrschutzwächter werden vom Baudepartement in einem Reglement niedergelegt.
+<sup>2</sup> Die Rechte und Pflichten der freiwilligen Nautrschutzwächter werden vom Baudepartement <sup>2)</sup> in einem Reglement niedergelegt.
 
-## 5 Straf- und Schlussbestimmungen
+### V. Straf- und Schlussbestimmungen
 
 #### § 26
 
-**Widerhandlungen: Bestrafung**
+**I. Widerhandlungen 1. Bestrafung**
 
-<sup>1</sup> Widerhandlungen gegen diese Verordnung werden von der zuständigen kantonalen Behörde mit Busse bis zu Fr. 5'000.00 bestraft.
+<sup>1</sup> Widerhandlungen gegen diese Verordnung werden von der zuständigen kantonalen Behörde mit Busse bis zu Fr. 5'000.-- bestraft. <sup>14)</sup>
 
 <sup>2</sup> In leichten Fällen kann eine Verwarnung ausgesprochen werden.
 
@@ -334,135 +366,196 @@ beschliesst:
 
 #### § 27
 
-**Widerhandlungen: Wiederherstellung**
+<sup>13)</sup>
 
-<sup>1</sup> Unabhängig von der Bestrafung kann das Planungs- und Naturschutzamt die Wiederherstellung des früheren Zustandes verlangen und im Widersetzungsfall die notwendigen Massnahmen auf Kosten des Zuwiderhandelnden durchführen lassen.
+**2. Wiederherstellung**
+
+Unabhängig von der Bestrafung kann das Planungs- und Naturschutzamt die Wiederherstellung des früheren Zustandes verlangen und im Widersetzungsfall die notwendigen Massnahmen auf Kosten des Zuwiderhandelnden durchführen lassen.
 
 #### § 28
 
-**Widerhandlungen: Beschlagnahme**
+**3. Beschlagnahme**
 
 <sup>1</sup> Die Organe der Naturschutzwacht sind berechtigt, sich von verdächtigen Personen den Inhalt ihrer Fahrzeuge, Rucksäcke oder anderer zum Versteck geeigneter Behälter vorzeigen zu lassen.
 
-<sup>2</sup> Sie haben widerrechtlich angeeignete Tiere und Pflanzen zu beschlagnahmen und unmittelbar die Kantonspolizei darüber in Kenntnis zu setzen.
+<sup>2</sup> Sie haben widerrechtlich angeeignete Tiere und Pflanzen zu beschlagnahmen und unmittelbar die Kantonspolizei <sup>2)</sup> darüber in Kenntnis zu setzen.
 
 #### § 29
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+**II. Inkrafttreten, Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Diese Verordnung tritt am 1. April 1979 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^29-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>1</sup> Diese Verordnung tritt am 1. April 1979 in Kraft. Sie ist im Amtsblatt zu veröffentlichen <sup>8)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>2</sup> Mit dem Inkrafttreten werden die Verordnung des Regierungsrates des Kantons Schaffhausen über Naturschutz vom 21. Mai 1946 und der Beschluss des Regierungsrates des Kantons Schaffhausen über den Schutz der Weinbergschnecke, der Maler- oder Flussmuschel und der Teichmuschel vom 27. April 1971 aufgehoben.
 
-[^29-1]: Amtsblatt 1979, S. 259.
+### Anhang I: <sup>18)</sup> Kantonal geschützte freilebende Tiere
 
-## A1 Anhang 1: Kantonal geschützte freilebende Tiere
+Ergänzung zu den national geschützten Tieren gemäss Anhang 3 der Verordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (SR 451.1) und Art. 7 ff. des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel vom 20 Juni 1986 (SR 922.0)
 
-#### § A1-1
+wissenschaftlicher Name deutscher Name
 
-<sup>1</sup> Ergänzung zu den national geschützten Tieren gemäss Anhang 3 der Verordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (SR [451.1](http://db.clex.ch/link/Bund/451.1/de)) und Art. 7 ff. des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel vom 20. Juni 1986 (SR [922.0](http://db.clex.ch/link/Bund/922.0/de)):
+Martes martes Baum- oder Edelmarder Mustela ermi- Hermelin oder Grosses Wiesel, Mausnea, Mustela nivalis wiesel
 
-<table>
-<tr><th>Wissenschaftlicher Name</th><th>Deutscher Name</th></tr>
-<tr><td>Martes martes</td><td>Baum- oder Edelmarder</td></tr>
-<tr><td>Mustela erminea, Mustela nivalis</td><td>Hermelin oder Grosses Wiesel, Mauswiesel</td></tr>
-<tr><td>Glis glis, Eliomys quercinus, Muscardinus avellanarius</td><td>Bilche (Siebenschläfer, Gartenschläfer, Haselmaus)</td></tr>
-<tr><td>Castor fiber</td><td>Biber</td></tr>
-<tr><td>Erinaceus europaeus</td><td></td></tr>
-<tr><td>Familie Soricidae</td><td>alle Spitzmausarten</td></tr>
-<tr><td></td><td>sämtliche nicht jagdbaren Vogelarten, die in der Schweiz als Stand-, Strich-, Nist- oder Zugvögel oder als Wintergäste frei vorkommen</td></tr>
-<tr><td>Corvus corax</td><td>Kolkrabe</td></tr>
-<tr><td>Familie Scolopacidae</td><td>Schnepfen und Bekassinen</td></tr>
-<tr><td>Helix pomatia</td><td>Weinbergschnecke</td></tr>
-<tr><td>Bulgarica cana</td><td>Graue Schliessmundschnecke</td></tr>
-<tr><td>Bythiospeum sterkianum</td><td>Sterkis Brunnenschnecke</td></tr>
-<tr><td>Gattung Anodonta</td><td>Flache Teichmuschel, Grosse Teichmuschel</td></tr>
-<tr><td>Ordnung Odonata</td><td>alle Libellenarten</td></tr>
-<tr><td>Myrmeleontidae</td><td>Ameisenlöwen respektive Ameisenjungfern</td></tr>
-<tr><td>Familie Carabidae</td><td>alle Laufkäferarten</td></tr>
-<tr><td>Familie Lampyridae</td><td>alle Leuchtkäferarten</td></tr>
-<tr><td>Familie Sphingidae</td><td>Alle Schwärmerarten</td></tr>
-<tr><td>Unterfamilie Catocalinae</td><td>alle Ordensbandarten</td></tr>
-<tr><td>Nymphalis antiopa</td><td>Trauermantel</td></tr>
-<tr><td>Iphiclides podalirius</td><td>Segelfalter</td></tr>
-<tr><td>Pyrgus alveus, Pyrgus armoricanus, Spialia sertorius</td><td>Sonnenröschen-Würfelfalter, Zweibrütiger Würfelfalter, Roter Würfelfalter</td></tr>
-<tr><td>Gattungen Glaucopsyche, Maculinea, Polyommatus,Pseudophilotes, Cupido</td><td>alle Bläulingarten dieser Gattungen</td></tr>
-<tr><td>Lycaena hippothoe, Lycaena virgaureae</td><td>Kleiner Ampherfeuerfalter, Dukatenfalter</td></tr>
-<tr><td>Boloria selene, Boloria dia</td><td>Braunfleckiger Perlmutterfalter, Hainveilchenpermutterfalter</td></tr>
-<tr><td>Hipparchia semele</td><td>Ockerbindiger Samtfalter</td></tr>
-<tr><td>Hyponephele lycaon</td><td>Kleines Ochsenauge</td></tr>
-<tr><td>alle Melitaea-Arten, Hamearis lucina</td><td>alle Scheckenfalterarten der Gattung Melitaea, Frühlingsscheckenfalter</td></tr>
-<tr><td>Familie Zygaenidae</td><td>alle Widderchenarten</td></tr>
-<tr><td>Limentis reducta</td><td>Blauschwarzer Eisvogel</td></tr>
-<tr><td>Coenonympha glycerion, Coenonympha arcania</td><td>Rotbraunes Wiesenvögelchen, Perlgrasfalter</td></tr>
-<tr><td>Satyrium ilicis, Satyrium pruni</td><td>Brauner Eichenzipfelfalter, Pflaumen-Zipfelfalter</td></tr>
-<tr><td>Thymelicus acteon, Carcharodus alceae</td><td>Mattscheckiger Braundickkopffalter, Malven-Dickkopffalter</td></tr>
-<tr><td>Apatura ilia, Apatura iris</td><td>Kleiner Schillerfalter, Grosser Schillerfalter</td></tr>
-<tr><td>Aporia crataegi, Pieris mannii</td><td>Baumweissling, Karstweissling</td></tr>
-<tr><td>Brenthis ino</td><td>Violetter Silberfalter</td></tr>
-<tr><td>Erebia medusa</td><td>Rundaugenmohrenfalter</td></tr>
-<tr><td>Pholidoptera aptera</td><td>Alpenstrauchschrecke</td></tr>
-<tr><td>Metrioptera bicolor</td><td>Zweifarbige Beissschrecke</td></tr>
-<tr><td>Chorthippus montanus</td><td>Sumpfgrashüpfer</td></tr>
-</table>
+Glis glis, Eliomys quercinus, Bilche (Siebenschläfer, Gartenschläfer, Muscardinus avellanarius Haselmaus)
 
-## A2 Anhang 2: Kantonal geschützte wildwachsende Pflanzen
+Castor fiber Biber
 
-#### § A2-1
+Erinaceus europaeus
 
-<sup>1</sup> Ergänzung zu den national geschützten Pflanzen gemäss Anhang 2 der Verordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (SR [451.1](http://db.clex.ch/link/Bund/451.1/de)):
+Familie Soricidae alle Spitzmausarten
 
-<table>
-<tr><th>Wissenschaftlicher Name</th><th>Deutscher Name</th></tr>
-<tr><td>Polystichum aculeatum</td><td>Gelappter Schildfarn</td></tr>
-<tr><td>Typha angustifolia</td><td>Schmalblättriger Rohrkolben</td></tr>
-<tr><td>Gattung Eriophorum</td><td>Wollgras</td></tr>
-<tr><td>Bromus grossus</td><td>Dickährige Trespe</td></tr>
-<tr><td>Anthericum liliago</td><td>Astlose Graslilie</td></tr>
-<tr><td>Muscari botryoides, Muscari comosum</td><td>Bisamhyazinthe, Schopfige Traubenhyazinthe</td></tr>
-<tr><td>Leucojum vernum</td><td>Märzenglöckchen</td></tr>
-<tr><td>Aristolochia clematitis</td><td>Gewöhnliche Osterluzei</td></tr>
-<tr><td>Gattung Dianthus</td><td>alle Nelkenarten</td></tr>
-<tr><td>Gattung Aconitum</td><td>Gelber Eisenhut und Blauer Eisenhut</td></tr>
-<tr><td>Trollius europaeus</td><td>Trollblume</td></tr>
-<tr><td>Gattung Thalictrum</td><td>Wiesenrautenarten</td></tr>
-<tr><td>Gattung Adonis</td><td>alle Adonisarten</td></tr>
-<tr><td>Aruncus silvester</td><td>Geissbart</td></tr>
-<tr><td>Potentilla alba, Potentilla praecox</td><td>Weisses Fingerkraut, Frühblühendes Fingerkraut</td></tr>
-<tr><td>Gattung Rosa</td><td>alle Wildrosenarten (Sammeln von Hagebutten gestattet)</td></tr>
-<tr><td>Daphne mezereum</td><td>Seidelbast</td></tr>
-<tr><td>Astrantia major</td><td>Grosse Sterndolde</td></tr>
-<tr><td>Gattung Pyrola</td><td>alle Wintergrünarten</td></tr>
-<tr><td>Primula farinosa</td><td>Mehlprimel</td></tr>
-<tr><td>Familie Gentianaceae</td><td>alle Enzianarten</td></tr>
-<tr><td>Gattung Lithospermum, Buglossoides</td><td>Steinsamen</td></tr>
-<tr><td>Gattung Digitalis</td><td>alle Fingerhutarten</td></tr>
-<tr><td>Carlina acaulis</td><td>Silberdistel</td></tr>
-<tr><td>Carlina vulgaris</td><td>Golddistel</td></tr>
-<tr><td>Doronicum pardalianches</td><td>Kriechende Gemswurz</td></tr>
-<tr><td>Inula hirta</td><td>Rauher Alant</td></tr>
-<tr><td>Aster linosyris</td><td>Goldschopf-Aster</td></tr>
-<tr><td>Antennaria dioica</td><td>Katzenpfötchen</td></tr>
-<tr><td>Allium rotundum, Allium suaveolens</td><td>Kugellauch, Wohlriechender Lauch</td></tr>
-<tr><td>Gattung Gagea</td><td>alle Gelbsternarten</td></tr>
-<tr><td>Teucrium scordium</td><td>Lauchgamander</td></tr>
-<tr><td>Falcaria vulgaris</td><td>Sicheldolde</td></tr>
-<tr><td>Asperula tinctoria</td><td>Färberwaldmeister</td></tr>
-<tr><td>Rhamnus saxatilis</td><td>Felsenkreuzdorn</td></tr>
-<tr><td>Rumex aquaticus</td><td>Wasserampfer</td></tr>
-<tr><td>Gattung Orobanche</td><td>alle Sommerwurzarten</td></tr>
-<tr><td>Prunella laciniata</td><td></td></tr>
-<tr><td>Saxifraga granulata</td><td>Knöllchensteinbrech</td></tr>
-<tr><td>Najas flexilis</td><td>Biegsames Nixenkraut</td></tr>
-<tr><td>Fissidens grandifrons</td><td>Grosses Spaltzahnmoos</td></tr>
-<tr><td>Buxbaumia viridis</td><td>Grünes Koboldmoos</td></tr>
-<tr><td>Rhodoplax schinzii</td><td>Schinz' Grünalge</td></tr>
-</table>
+sämtliche nicht jagdbaren Vogelarten, die in der Schweiz als Stand-, Strich-, Nist- oder Zugvögel oder als Wintergäste frei vorkommen
 
-## A3 Anhang 3: Karte BLN-Gebiet Randen
+Corvus corax Kolkrabe
 
-#### § A3-1
+Familie Scolopacidae Schnepfen und Bekassinen
 
-<sup>1</sup> Karte BLN-Gebiet Randen:
+Helix pomatia Weinbergschnecke
 
-Abl. 1979, S. 259
+Bulgarica cana Graue Schliessmundschnecke
+
+Bythiospeum sterkianum Sterkis Brunnenschnecke Gattung Anodonta Flache Teichmuschel, Grosse Teichmuschel Ordnung Odonata alle Libellenarten Myrmeleontidae Ameisenlöwen respektive Ameisenjungfern Familie Carabidae alle Laufkäferarten
+
+Familie Lampyridae alle Leuchtkäferarten
+
+Familie Sphingidae Alle Schwärmerarten
+
+Unterfamilie Catocalinae alle Ordensbandarten
+
+Nymphalis antiopa Trauermantel Iphiclides podalirius Segelfalter
+
+Pyrgus alveus, Pyrgus armori- Sonnenröschen-Würfelfalter, Zweibrücanus, Spialia sertorius tiger Würfelfalter, Roter Würfelfalter
+
+Gattungen Glaucopsyche, Maculinea, Polyomma- alle Bläulingarten dieser Gattungen tus,Pseudophilotes, Cupido Lycaena hippothoe, Lycaena Kleiner Ampherfeuerfalter, Dukatenfalvirgaureae ter Boloria selene, Boloria dia Braunfleckiger Perlmutterfalter, Hainveilchenpermutterfalter Hipparchia semele Ockerbindiger Samtfalter
+
+Hyponephele lycaon Kleines Ochsenauge
+
+alle Melitaea-Arten, Hamearis alle Scheckenfalterarten der Gattung lucina Melitaea, Frühlingsscheckenfalter
+
+Familie Zygaenidae alle Widderchenarten
+
+Limentis reducta Blauschwarzer Eisvogel Coenonympha glycerion, Rotbraunes Wiesenvögelchen, Perl-Coenonympha arcania grasfalter Satyrium ilicis, Satyrium pruni Brauner Eichenzipfelfalter, Pflaumen-Zipfelfalter Thymelicus acteon, Carcharo- Mattscheckiger Braundickkopffalter, dus alceae Malven-Dickkopffalter Apatura ilia, Apatura iris Kleiner Schillerfalter, Grosser Schiller-
+
+falter
+
+Aporia crataegi, Pieris mannii Baumweissling, Karstweissling
+
+Brenthis ino Violetter Silberfalter
+
+Erebia medusa Rundaugenmohrenfalter
+
+Pholidoptera aptera Alpenstrauchschrecke
+
+Metrioptera bicolor Zweifarbige Beissschrecke
+
+Chorthippus montanus Sumpfgrashüpfer
+
+### Anhang II: <sup>18)</sup> Kantonal geschützte wildwachsende Pflanzen
+
+Ergänzung zu den national geschützten Pflanzen gemäss Anhang 2 der Verordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (SR 451.1)
+
+wissenschaftlicher Name deutscher Name
+
+Polystichum aculeatum Gelappter Schildfarn
+
+Typha angustifolia Schmalblättriger Rohrkolben
+
+Gattung Eriophorum Wollgras
+
+Bromus grossus Dickährige Trespe
+
+Anthericum liliago Astlose Graslilie Muscari botryoides, Muscari Bisamhyazinthe, Schopfige Traubencomosum hyazinthe Leucojum vernum Märzenglöckchen
+
+Aristolochia clematitis Gewöhnliche Osterluzei
+
+Gattung Dianthus alle Nelkenarten
+
+Gattung Aconitum Gelber Eisenhut und Blauer Eisenhut
+
+Trollius europaeus Trollblume
+
+Gattung Thalictrum Wiesenrautenarten
+
+Gattung Adonis alle Adonisarten
+
+Aruncus silvester Geissbart Potentilla alba, Potentilla Weisses Fingerkraut, Frühblühendes praecox Fingerkraut Gattung Rosa alle Wildrosenarten (Sammeln von Hagebutten gestattet) Daphne mezereum Seidelbast
+
+Astrantia major Grosse Sterndolde
+
+Gattung Pyrola alle Wintergrünarten
+
+Primula farinosa Mehlprimel
+
+Familie Gentianaceae alle Enzianarten Gattung Lithospermum, Steinsamen Buglossoides Gattung Digitalis alle Fingerhutarten
+
+Carlina acaulis Silberdistel
+
+Carlina vulgaris Golddistel
+
+Doronicum pardalianches Kriechende Gemswurz
+
+Inula hirta Rauher Alant
+
+Aster linosyris Goldschopf-Aster
+
+Antennaria dioica Katzenpfötchen
+
+Allium rotundum, Allium suaveo- Kugellauch, Wohlriechender Lauch lens Gattung Gagea alle Gelbsternarten
+
+Teucrium scordium Lauchgamander Falcaria vulgaris Sicheldolde
+
+Asperula tinctoria Färberwaldmeister
+
+Rhamnus saxatilis Felsenkreuzdorn
+
+Rumex aquaticus Wasserampfer
+
+Gattung Orobanche alle Sommerwurzarten
+
+Prunella laciniata
+
+Saxifraga granulata Knöllchensteinbrech
+
+Najas flexilis Biegsames Nixenkraut
+
+Fissidens grandifrons Grosses Spaltzahnmoos
+
+Buxbaumia viridis Grünes Koboldmoos
+
+Rhodoplax schinzii Schinz' Grünalge
+
+### Anhang III:
+
+Fussnoten:
+
+- 1) SHR 451.100.
+
+- 2) Fassung gemäss V vom 9. Dezember 1986, in Kraft getreten am 1. Januar 1987 (Amtsblatt 1986, S. 1043).
+
+- 3) SR 210.
+
+- 4) Eingefügt durch RRB vom 20. Januar 1998, in Kraft getreten am 1. Februar 1998 (Amtsblatt 1998, S. 178).
+
+- 5) Eingefügt durch RRB vom 26. März 1991, in Kraft getreten am 1. September 1991 (Amtsblatt 1991, S. 405).
+
+- 6) Fassung gemäss RRB vom 10. Mai 1994, in Kraft getreten am 1. Juni 1994 (Amtsblatt 1994, S. 589).
+
+- 8) Amtsblatt 1979, S. 259.
+
+- 12) Vgl. Art. 23 der Vollziehungsverordnung zum Bundesgesetz über den Natur- und Heimatschutz vom 27. Dezember 1966 (SR 451.1).
+
+- 13) Fassung gemäss RRB vom 17. Dezember 2002, in Kraft getreten am 1. Januar 2003 (Amtsblatt 2002, S. 2015).
+
+- 14) Fassung gemäss V vom 19. Dezember 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1851).
+
+- 15) Fassung gemäss RRB vom 27. November 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1805).
+
+- 16) Aufgehoben durch RRB vom 2. Dezember 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1783).
+
+- 17) Fassung gemäss RRB vom 2. Dezember 2008, in Kraft getreten am 1. Januar 2009 (Amtsblatt 2008, S. 1783).
+
+- 18) Fassung gemäss RRB vom 10. März 2015, in Kraft getreten am 1. April 2015 (Amtsblatt 2015, S. 334).
+
+- 19) Eingefügt durch RRB vom 10. März 2015, in Kraft getreten am 1. April 2015 (Amtsblatt 2015, S. 334).
+
+- 20) Fassung gemäss RRB vom 24. November 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2062).
