@@ -1,25 +1,27 @@
 ---
 canton: SH
 number: "721.113"
-title: "Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil."
+title: "Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil"
 language: de
 version: 2001-09-18
+corrected: 2024-06-18
 version_adopted: 2001-09-18
 adopted: 2001-09-18
 in_force: 2001-09-18
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/721.113"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1696/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/266/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil.
+# Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil
 
-Vom 18.09.2001 (Stand 18.09.2001)
+## Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil.
 
-Die Regierungen der Kantone Schaffhausen und Zürich
+vom 22. August / 18. September 2001
 
-beschliessen:
+Die Regierungen der Kantone Schaffhausen und Zürich vereinbaren was folgt:
 
 #### Art. 1
 
@@ -33,13 +35,15 @@ beschliessen:
 
 <sup>2</sup> Für die Verantwortlichkeit der Verbandsorgane und, soweit nichts anderes vereinbart, für die Besorgung der Verbandsangelegenheiten sind die gemeinderechtlichen Vorschriften des Kantons Zürich massgebend.
 
+Amtsblatt 2002, S. 236.
+
 #### Art. 3
 
-<sup>1</sup> Für den Bau, Bestand und Betrieb der gemeinsamen Anlagen sowie der gemeindeeigenen Wasserversorgungsanlagen findet, soweit der Verbandsvertrag keine Vorschriften enthält, das Recht der gelegenen Sache Anwendung.
+Für den Bau, Bestand und Betrieb der gemeinsamen Anlagen sowie der gemeindeeigenen Wasserversorgungsanlagen findet, soweit der Verbandsvertrag keine Vorschriften enthält, das Recht der gelegenen Sache Anwendung.
 
 #### Art. 4
 
-<sup>1</sup> Anstände zwischen den einzelnen Verbandsgemeinden und Privaten werden von den zuständigen kantonalen Instanzen der beteiligten Gemeinden entschieden.
+Anstände zwischen den einzelnen Verbandsgemeinden und Privaten werden von den zuständigen kantonalen Instanzen der beteiligten Gemeinden entschieden.
 
 #### Art. 5
 
@@ -51,7 +55,7 @@ beschliessen:
 
 #### Art. 6
 
-<sup>1</sup> Die Zuständigkeit der Gerichts- und Verwaltungsbehörden der Vertragskantone in zivilrechtlichen Streitigkeiten sowie in Anständen, bei welchen einer Gemeinde oder dem Verband lediglich die Rechtsstellung eines Privaten zukommt, bleibt vorbehalten.
+Die Zuständigkeit der Gerichts- und Verwaltungsbehörden der Vertragskantone in zivilrechtlichen Streitigkeiten sowie in Anständen, bei welchen einer Gemeinde oder dem Verband lediglich die Rechtsstellung eines Privaten zukommt, bleibt vorbehalten.
 
 #### Art. 7
 
@@ -61,10 +65,8 @@ beschliessen:
 
 #### Art. 8
 
-<sup>1</sup> Die Anpassung dieses Staatsvertrages an zukünftige Rechtsänderungen bleibt vorbehalten. Die Vertragskantone setzen sich darüber ins Einvernehmen.
+Die Anpassung dieses Staatsvertrages an zukünftige Rechtsänderungen bleibt vorbehalten. Die Vertragskantone setzen sich darüber ins Einvernehmen..
 
 #### Art. 9
 
-<sup>1</sup> Dieser Staatsvertrag tritt mit seiner Unterzeichnung in Kraft.
-
-Abl. 2002, S. 236
+Dieser Staatsvertrag tritt mit seiner Unterzeichnung in Kraft.
