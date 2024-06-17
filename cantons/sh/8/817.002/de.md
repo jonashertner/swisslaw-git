@@ -5,38 +5,38 @@ title: Vereinbarung betreffend das Interkantonale Labor
 short: IKLV
 language: de
 version: 2023-01-01
+corrected: 2024-06-18
 version_adopted: 2022-04-13
 adopted: 2022-04-13
 in_force: 2023-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.002"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1647/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/106/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vereinbarung betreffend das Interkantonale Labor
+# Vereinbarung betreffend das Interkantonale Labor (IKLV)
 
-(IKLV)
-
-Vom 13.04.2022 (Stand 01.01.2023)
+vom 13. April 2022
 
 Die Regierungen der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden und Schaffhausen,
 
-gestützt auf Art. 10 der Verordnung über die Lebensmittelkontrolle vom 9. September 1996 (LKV)[^ingress-1], Art. 2 Abs. 2 der Verordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 3. Oktober 1995 (LGV)[^ingress-2], sowie Art. 4 des Gesetzes über die Einführung des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 10. Mai 2021 (EG LMG)[^ingress-3],
+gestützt auf Art. 10 der Verordnung über die Lebensmittelkontrolle vom 9. September 1996 (LKV)[^t-1], Art. 2 Abs. 2 der Verordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 3. Oktober 1995 (LGV)[^t-2], sowie Art. 4 des Gesetzes über die Einführung des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 10. Mai 2021 (EG LMG)[^t-3],
 
-beschliessen:
+vereinbaren:
 
-[^ingress-1]: SHR [817.100](https://rechtsbuch.sh.ch/data/817.100/de).
-[^ingress-2]: GS [817.010](http://db.clex.ch/link/AI/817.010/de).
-[^ingress-3]: bGS [815.11](http://db.clex.ch/link/AR/815.11/de).
+[^t-1]: bGS 815.11.
+[^t-2]: GS 817.010.
+[^t-3]: SHR 817.100.
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Name und Sitz**
 
-<sup>1</sup> Unter dem Namen «Interkantonales Labor» errichten die Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden und Schaffhausen (Partnerkantone) eine unselbständige öffentlich-rechtliche Anstalt mit Sitz und Laborbetrieb in Schaffhausen.
+<sup>1</sup> Unter dem Namen "Interkantonales Labor" errichten die Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden und Schaffhausen (Partnerkantone) eine unselbständige öffentlich-rechtliche Anstalt mit Sitz und Laborbetrieb in Schaffhausen.
 
 <sup>2</sup> Das Interkantonale Labor betreibt mindestens eine Zweigstelle in einem weiteren Partnerkanton.
 
@@ -46,21 +46,25 @@ beschliessen:
 
 <sup>1</sup> Das Interkantonale Labor vollzieht das eidgenössische Lebensmittel- und Gebrauchsgegenständerecht für die Partnerkantone, soweit der Vollzug der Kantonschemikerin oder dem Kantonschemiker obliegt (Lebensmittelkontrolle), sowie für den Kanton Schaffhausen das eidgenössische Umweltschutz-, Gewässerschutz- und Chemikalienrecht.
 
+Amtsblatt 2022, S. 836
+
 <sup>2</sup> Das Interkantonale Labor kann für die Partnerkantone weitere, sachverwandte Bereiche vollziehen. Ergeben sich daraus Änderungen der Globalbeiträge, so müssen die von der Änderung betroffenen Partnerkantone zustimmen.
 
-<sup>3</sup> Die einzelnen Aufgaben werden jährlich in Leistungsaufträgen mit den Partnerkantonen festgelegt.
+<sup>3</sup> Die einzelnen Aufgaben werden jährlich in Leistungsaufträgen mit den Partnerkantonen festgelegt
 
-## 2 Organisation
+### II. Organisation
 
 #### Art. 3
 
 **Organe**
 
-<sup>1</sup> Die Organe des Interkantonalen Labors sind:
+Die Organe des Interkantonalen Labors sind:
 
-- a) die Aufsichtskommission
-- b) die Geschäftsleitung
-- c) die Revisionsstelle
+- a) die Aufsichtskommission;
+
+- b) die Geschäftsleitung;
+
+- c) die Revisionsstelle.
 
 #### Art. 4
 
@@ -70,12 +74,17 @@ beschliessen:
 
 <sup>2</sup> Die Aufsichtskommission:
 
-- a) genehmigt den jährlichen Leistungsauftrag, einschliesslich Budget
-- b) wählt die Geschäftsleitung und bestimmt deren Vorsitz
-- c) überwacht die Geschäftsleitung
-- d) genehmigt den Geschäftsbericht, einschliesslich Jahresrechnung
-- e) wählt die Revisionsstelle
-- f) erlässt die notwendigen Reglemente zur Konkretisierung der vorliegenden Vereinbarung, namentlich in den Bereichen Organisation, Personal und Finanzen
+- a) genehmigt den jährlichen Leistungsauftrag, einschliesslich Budget;
+
+- b) wählt die Geschäftsleitung und bestimmt deren Vorsitz;
+
+- c) überwacht die Geschäftsleitung;
+
+- d) genehmigt den Geschäftsbericht, einschliesslich Jahresrechnung;
+
+- e) wählt die Revisionsstelle;
+
+- f) erlässt die notwendigen Reglemente zur Konkretisierung der vorliegenden Vereinbarung, namentlich in den Bereichen Organisation, Personal und Finanzen.
 
 <sup>3</sup> Die Aufsichtskommission tritt mindestens einmal pro Jahr zusammen. Sie ist beschlussfähig, wenn alle drei Regierungsmitglieder oder ihre regierungsrätliche Stellvertretung anwesend sind. Für Beschlüsse ist Zustimmung durch zwei Regierungsvertretungen erforderlich. Die Wahlen nach Abs. 2 lit. b und e setzen Einstimmigkeit voraus.
 
@@ -89,14 +98,15 @@ beschliessen:
 
 <sup>3</sup> Die Geschäftsleitung:
 
-- a) ist für die Erfüllung des Leistungsauftrages sowie für die Einhaltung des Budgets verantwortlich
-- b) erstellt den Geschäftsbericht und erteilt der Aufsichtskommission auf Wunsch weitere Auskünfte
-- c) ist besorgt um eine optimale Nutzung der Räumlichkeiten und um die Instandhaltung der Einrichtungen
+- a) ist für die Erfüllung des Leistungsauftrages sowie für die Einhaltung des Budgets verantwortlich;
 
-<sup>4</sup> Die vorsitzende Person der Geschäftsleitung:
+- b) erstellt den Geschäftsbericht und erteilt der Aufsichtskommission auf Wunsch weitere Auskünfte;
 
-- a) nimmt an den Sitzungen der Aufsichtskommission mit beratender Stimme teil
-- b) führt das Personal des Interkantonalen Labors
+- c) ist besorgt um eine optimale Nutzung der Räumlichkeiten und um die Instandhaltung der Einrichtungen.
+
+<sup>4</sup> Die vorsitzende Person der Geschäftsleitung a) nimmt an den Sitzungen der Aufsichtskommission mit beratender Stimme teil;
+
+- b) führt das Personal des Interkantonalen Labors.
 
 #### Art. 6
 
@@ -106,13 +116,13 @@ beschliessen:
 
 <sup>2</sup> Die Revisionsstelle prüft die Rechnung des Interkantonalen Labors. Sie erstattet der Aufsichtskommission Bericht.
 
-## 3 Personal und Vollzug
+### III. Personal und Vollzug
 
 #### Art. 7
 
 **Personal**
 
-<sup>1</sup> Das Personal untersteht dem Personalrecht desjenigen Kantons, in dem der Schwerpunkt ihrer Tätigkeit liegt. Subsidiär gelten die Reglemente der Aufsichtskommission gemäss Art. 4 Abs. 2 lit. f.
+Das Personal untersteht dem Personalrecht desjenigen Kantons, in dem der Schwerpunkt ihrer Tätigkeit liegt. Subsidiär gelten die Reglemente der Aufsichtskommission gemäss Art. 4 Abs. 2 lit. f.
 
 #### Art. 8
 
@@ -132,7 +142,7 @@ beschliessen:
 
 <sup>2</sup> Die Datenbearbeitung durch das Interkantonale Labor richtet sich nach dem Recht desjenigen Partnerkantons, welches nach dem Territorialitätsprinzip zur Anwendung gelangt.
 
-## 4 Finanzhaushalt
+### IV. Finanzhaushalt
 
 #### Art. 10
 
@@ -164,13 +174,13 @@ beschliessen:
 
 <sup>2</sup> Für privatwirtschaftliche Dienstleistungen werden Marktpreise erhoben.
 
-## 5 Aufsicht und Haftung
+### V. Aufsicht und Haftung
 
 #### Art. 13
 
 **Aufsicht**
 
-<sup>1</sup> Die Tätigkeit des Interkantonalen Labors untersteht den für die Oberaufsicht zuständigen parlamentarischen Kommissionen der Partnerkantone.
+Die Tätigkeit des Interkantonalen Labors untersteht den für die Oberaufsicht zuständigen parlamentarischen Kommissionen der Partnerkantone.
 
 #### Art. 14
 
@@ -180,7 +190,7 @@ beschliessen:
 
 <sup>2</sup> Im Innenverhältnis der Lebensmittelkontrolle werden die Verbindlichkeiten nach Massgabe der Einwohnerzahlen unter den Partnerkantonen aufgeteilt.
 
-## 6 Schlussbestimmungen
+### VI. Schlussbestimmungen
 
 #### Art. 15
 
@@ -196,7 +206,7 @@ beschliessen:
 
 **Aufhebungen bisheriger Vereinbarungen**
 
-<sup>1</sup> Mit dem Inkrafttreten der vorliegenden Vereinbarung wird die Vereinbarung vom 15. Dezember 2009 über eine gemeinsame Lebensmittelkontrolle der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus und Schaffhausen aufgehoben.
+Mit dem Inkrafttreten der vorliegenden Vereinbarung wird die Vereinbarung vom 15. Dezember 2009 über eine gemeinsame Lebensmittelkontrolle der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus und Schaffhausen aufgehoben.
 
 #### Art. 17
 
@@ -206,4 +216,4 @@ beschliessen:
 
 <sup>2</sup> Die Aufsichtskommission bringt die Vereinbarung dem Bund zur Kenntnis.
 
-Abl. 2022, S. 836
+Fussnoten:
