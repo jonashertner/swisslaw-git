@@ -4,22 +4,24 @@ number: "725.102"
 title: Rahmenvertrag zwischen dem Kanton Schaffhausen und der Stadt Schaffhausen über das Kompetenzzentrum «Tiefbau Schaffhausen»
 language: de
 version: 2018-01-01
+corrected: 2024-06-18
 version_adopted: 2015-08-04
 adopted: 2015-08-04
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/725.102"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1698/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/411/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Rahmenvertrag zwischen dem Kanton Schaffhausen und der Stadt Schaffhausen über das Kompetenzzentrum «Tiefbau Schaffhausen»
 
-Vom 04.08.2015 (Stand 01.01.2018)
+vom 4. August 2015
 
 Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegesetzes schliessen der Kanton Schaffhausen (Kanton) und die Einwohnergemeinde Schaffhausen (Stadt) den folgenden Vertrag:
 
-## 1 Allgemeines
+## I. Allgemeines
 
 #### Art. 1
 
@@ -37,31 +39,33 @@ Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegeset
 
 <sup>2</sup> Die Kompetenzen der Parlamente und des Volkes der beiden Gemeinwesen werden durch den vorliegenden Vertrag nicht eingeschränkt.
 
+Amtsblatt 2017, S. 2055
+
 #### Art. 3
 
 **Organisation**
 
-<sup>1</sup> Das Kompetenzzentrum «Tiefbau Schaffhausen» ist die Dienststelle «Tiefbauamt» des Baudepartementes des Kantons Schaffhausen.
+Das Kompetenzzentrum «Tiefbau Schaffhausen» ist die Dienststelle «Tiefbauamt» des Baudepartementes des Kantons Schaffhausen.
 
 #### Art. 4
 
 **Infrastruktur**
 
-<sup>1</sup> Die bestehende, im Eigentum des Kantons stehende Infrastruktur auf dem Areal «Schweizersbild, Schaffhausen» wird durch das kantonale Tiefbauamt baulich erweitert und in der Folge als Kompetenzzentrum «Tiefbau Schaffhausen» betrieben.
+Die bestehende, im Eigentum des Kantons stehende Infrastruktur auf dem Areal «Schweizersbild, Schaffhausen» wird durch das kantonale Tiefbauamt baulich erweitert und in der Folge als Kompetenzzentrum «Tiefbau Schaffhausen» betrieben.
 
 #### Art. 5
 
 **Struktur Rahmenvertrag**
 
-<sup>1</sup> Der vorliegende Rahmenvertrag bildet die Grundlage für alle weiteren Vereinbarungen (Anhänge), welche dem Rahmenvertrag unterstellt werden.
+Der vorliegende Rahmenvertrag bildet die Grundlage für alle weiteren Vereinbarungen (Anhänge), welche dem Rahmenvertrag unterstellt werden.
 
 #### Art. 6
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Abschluss und die Änderung von Anhängen zu diesem Rahmenvertrag stehen unter Einbezug des Finanzdepartements bzw. ‑referats dem zuständigen Departement und dem zuständigen Referat zu.
+Der Abschluss und die Änderung von Anhängen zu diesem Rahmenvertrag stehen unter Einbezug des Finanzdepartements bzw. - referats dem zuständigen Departement und dem zuständigen Referat zu.
 
-## 2 Übertragung von Leistungen
+### II. Übertragung von Leistungen
 
 #### Art. 7
 
@@ -71,28 +75,33 @@ Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegeset
 
 <sup>2</sup> Die Anhänge enthalten mindestens Vorschriften über:
 
-- a) die Art und den Umfang der Leistungen
-- b) die Vergütung
-- c) die Überprüfung und Änderung bestellter Leistungen
-- d) die Abläufe und die Entscheidungsprozesse
+- a) die Art und den Umfang der Leistungen;
+
+- b) die Vergütung;
+
+- c) die Überprüfung und Änderung bestellter Leistungen;
+
+- d) die Abläufe und die Entscheidungsprozesse.
 
 #### Art. 8
 
 **Vergütung**
 
-<sup>1</sup> Die Stadt Schaffhausen entrichtet dem Kompetenzzentrum «Tiefbau Schaffhausen» eine Vergütung für die vereinbarten Leistungen. Die Vergütung wird anhand einer Vollkostenrechnung – insbesondere unter Berücksichtigung des Personal- und Sachaufwandes sowie je eines Anteils am Overhead und an der Infrastrukturnutzung – ermittelt.
+Die Stadt Schaffhausen entrichtet dem Kompetenzzentrum «Tiefbau Schaffhausen» eine Vergütung für die vereinbarten Leistungen. Die Vergütung wird anhand einer Vollkostenrechnung – insbesondere unter Berücksichtigung des Personal- und Sachaufwandes sowie je eines Anteils am Overhead und an der Infrastrukturnutzung – ermittelt.
 
 #### Art. 9
 
 **Minimaler Leistungsbezug**
 
-<sup>1</sup> Die Stadt Schaffhausen bezieht beim Kompetenzzentrum «Tiefbau Schaffhausen» während der ersten 3 Jahre nach der Leistungsübertragung eine minimale Anzahl Arbeitsstunden. Falls die Stundenanzahl nicht erreicht wird, wird die Differenz mit Fr. 100.00 pro Stunde vergütet. Der minimale Leistungsumfang beträgt:
+Die Stadt Schaffhausen bezieht beim Kompetenzzentrum «Tiefbau Schaffhausen» während der ersten 3 Jahre nach der Leistungsübertragung eine minimale Anzahl Arbeitsstunden. Falls die Stundenanzahl nicht erreicht wird, wird die Differenz mit Fr. 100.- pro Stunde vergütet. Der minimale Leistungsumfang beträgt:
 
-- a) im 1. Jahr: Anzahl vom Kanton zu übernehmende Vollzeitpensen multipliziert mit 1'400 operativen Stunden
-- b) im 2. Jahr: 90% der minimalen Stundenzahl des 1. Jahres
-- c) im 3. Jahr: 80% der minimalen Stundenzahl des 1. Jahres
+- a) im 1. Jahr: Anzahl vom Kanton zu übernehmende Vollzeitpensen multipliziert mit 1'400 operativen Stunden;
 
-## 3 Übertragung von Mobilien und Geräten
+- b) im 2. Jahr: 90% der minimalen Stundenzahl des 1. Jahres;
+
+- c) im 3. Jahr: 80% der minimalen Stundenzahl des 1. Jahres.
+
+### III. Übertragung von Mobilien und Geräten
 
 #### Art. 10
 
@@ -102,7 +111,7 @@ Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegeset
 
 <sup>2</sup> Die Mobilien und Geräte werden zum Verkehrswert im Zeitpunkt der Übernahme vergütet.
 
-## 4 Personal
+### IV. Personal
 
 #### Art. 11
 
@@ -116,15 +125,17 @@ Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegeset
 
 <sup>4</sup> Die zuletzt bezogene Grundbesoldung bleibt beim Übertritt gewährleistet. Vorbehalten bleiben Änderungen des kantonalen Rechts.
 
-## 5 Streitigkeiten
+### V. Streitigkeiten
 
 #### Art. 12
 
 **Rechtsschutz**
 
-<sup>1</sup> Lassen sich Streitigkeiten über Rechte und Pflichten aus dieser Vereinbarung nicht gütlich beilegen, entscheidet gemäss Art. 107 Abs. 3 KV/SH das Obergericht des Kantons Schaffhausen.
+Lassen sich Streitigkeiten über Rechte und Pflichten aus dieser Vereinbarung nicht gütlich beilegen, entscheidet gemäss Art. 107 Abs.
 
-## 6 Schlussbestimmungen
+3 KV/SH das Obergericht des Kantons Schaffhausen.
+
+### VI. Schlussbestimmungen
 
 #### Art. 13
 
@@ -144,7 +155,7 @@ Gestützt auf Art. 107 Abs. 1 der Kantonsverfassung und Art. 5 des Gemeindegeset
 
 <sup>2</sup> Der Rahmenvertrag ist im Amtsblatt zu veröffentlichen[^14-2] und in die kantonale Gesetzessammlung sowie in die städtische Erlasssammlung aufzunehmen.
 
+Fussnoten:
+
 [^14-1]: In Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 2059).
 [^14-2]: Amtsblatt 2017, S. 2055.
-
-Abl. 2017, S. 2055
