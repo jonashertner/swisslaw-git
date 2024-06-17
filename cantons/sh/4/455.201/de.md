@@ -5,30 +5,30 @@ title: Verordnung zum Gesetz über das Halten von Hunden
 short: Hundeverordnung
 language: de
 version: 2017-01-01
+corrected: 2024-06-18
 version_adopted: 2016-11-22
 adopted: 2009-03-10
 in_force: 2009-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/455.201"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1633/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/361/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Gesetz über das Halten von Hunden
+# Verordnung zum Gesetz über das Halten von Hunden (Hundeverordnung)
 
-(Hundeverordnung)
-
-Vom 10.03.2009 (Stand 01.01.2017)
+vom 10. März 2009
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 26 Abs. 1 des kantonalen Gesetzes über das Halten von Hunden vom 27. Oktober 2008[^ingress-1],
+gestützt auf Art. 26 Abs. 1 des kantonalen Gesetzes über das Halten von Hunden vom 27. Oktober 2008[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [455.200](https://rechtsbuch.sh.ch/data/455.200/de).
+[^t-1]: SHR 455.200.
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -42,11 +42,13 @@ beschliesst:
 
 **Prävention / Findel- und Verzichtstiere**
 
-<sup>1</sup> Das Veterinäramt sorgt für die Umsetzung der präventiven Massnahmen gemäss Art. 6 Abs. 1–3 des Gesetzes.
+<sup>1</sup> Das Veterinäramt sorgt für die Umsetzung der präventiven Massnahmen gemäss Art. 6 Abs. 1 - 3 des Gesetzes.
 
 <sup>2</sup> Das Departement des Innern ist im Rahmen der Voranschläge ermächtigt, mit Organisationen gemäss Art. 6 Abs. 4 des Gesetzes Leistungsvereinbarungen über Beiträge für den Unterhalt von Findel- und Verzichtstieren abzuschliessen.
 
-## 2 Voraussetzung für das Halten von Hunden mit erhöhtem Gefährdungspotential
+Amtsblatt 2009, S. 391
+
+### II. Voraussetzung für das Halten von Hunden mit erhöhtem Gefährdungspotential
 
 #### § 3
 
@@ -54,22 +56,37 @@ beschliesst:
 
 <sup>1</sup> Als Hunde mit erhöhtem Gefährdungspotential gelten reinrassige Hunde und Mischlingshunde der folgenden Rassentypen:
 
-- a) American Staffordshire Terrier
-- b) Bullterrier
-- c) Staffordshire Bullterrier
-- d) American Pitbull
-- e) Cane corso
-- f) Dobermann
-- g) Dogo Argentino
-- h) Fila Brasileiro
-- i) Mastiff
-- j) Mastín Español
-- k) Mastino Napoletano
-- l) Presa Canario (Dogo Canario)
-- m) Rottweiler
-- n) Tosa
+- a) American Staffordshire Terrier,
+
+- b) Bullterrier,
+
+- c) Staffordshire Bullterrier,
+
+- d) American Pitbull.
+
+- e) Cane corso,[^3-1]
+
+- f) Dobermann,[^3-1]
+
+- g) Dogo Argentino,[^3-1]
+
+- h) Fila Brasileiro,[^3-1]
+
+- i) Mastiff,[^3-1]
+
+- j) Mastín Español,[^3-1]
+
+- k) Mastino Napoletano,[^3-1]
+
+- l) Presa Canario (Dogo Canario),[^3-1]
+
+- m) Rottweiler,[^3-1]
+
+- n) Tosa.[^3-1]
 
 <sup>2</sup> In Zweifelsfällen entscheidet das Veterinäramt auf Grund der Abstammungsnachweise, des äusseren Erscheinungsbildes und von Wachstumsmerkmalen.
+
+[^3-1]: Fassung gemäss RRB vom 2. September 2009, in Kraft getreten am 1. Oktober 2009 (Amtsblatt 2009, S. 1315). Wer beim Inkrafttreten der Änderung vom 2. September 2009 Wohnsitz im Kanton Schaffhausen hat und einen Hund gemäss § 3 Abs. 1 lit. e - n hält, muss innerhalb von drei Monaten nach Inkrafttreten dieser Änderung bei der zuständigen kantonalen Behörde ein Gesuch um Erteilung einer Haltungsbewilligung gemäss Art. 9 des Gesetzes einreichen. Für Hunde gemäss § 3 Abs. 1 lit. e - n, die bei Inkrafttreten dieser Änderung gehalten werden, entscheidet die zuständige kantonale Behörde im Rahmen der Bewilligungserteilung über die Notwendigkeit einer Ausbildung nach Art. 8 des Gesetzes.
 
 #### § 4
 
@@ -99,13 +116,15 @@ beschliesst:
 
 **Änderungen**
 
-<sup>1</sup> Änderungen, wie Adress- und Namensänderungen, Abgabe und Tod des Hundes, sowie Änderungen der Bewilligungsvoraussetzungen sind dem Veterinäramt zu melden.
+Änderungen, wie Adress- und Namensänderungen, Abgabe und Tod des Hundes, sowie Änderungen der Bewilligungsvoraussetzungen sind dem Veterinäramt zu melden.
 
-## 3 Registrierung
+### III. Registrierung
+
+[^hIIIRegistrierung-1]: Fassung gemäss RRB vom 22. November 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1867, S. 1901).
 
 #### § 7
 
-**Registrierung**
+**Registrierung**[^hIIIRegistrierung-1]
 
 <sup>1</sup> Hunde sind gemäss den einschlägigen Bestimmungen der eidgenössischen Tierseuchengesetzgebung zu registrieren.
 
@@ -113,31 +132,33 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden verifizieren und erfassen die Meldungen der Tierhalterinnen und Tierhalter gemäss Art. 22 des Gesetzes zuhanden der zentralen Datenbank.
 
-## 4 Abgabe und Gebühren
+### IV. Abgabe und Gebühren
 
 #### § 8
 
 **Kantonsbeitrag aus der Hundeabgabe**
 
-<sup>1</sup> Der Beitrag nach Art. 23 Abs. 5 des Gesetzes beträgt Fr. 30.00. Für Hunde gemäss Art. 23 Abs. 4 des Gesetzes beträgt er die Hälfte.
+<sup>1</sup> Der Beitrag nach Art. 23 Abs. 5 des Gesetzes beträgt Fr. 30.-. Für Hunde gemäss Art. 23 Abs. 4 des Gesetzes beträgt er die Hälfte.[^8-1]
 
 <sup>2</sup> Die Beiträge sind dem Veterinäramt zusammen mit einer Abrechnung jeweils per 30. September mit zu überweisen. Das Veterinäramt ist berechtigt, Einsicht in die Hundekontrolle zu nehmen.
+
+[^8-1]: Fassung gemäss RRB vom 9. Dezember 2014, in Kraft getreten am 1. Januar 2015 (Amtsblatt 2014, S. 1815).
 
 #### § 9
 
 **Gebühren**
 
-<sup>1</sup> Für behördliche Tätigkeiten und Bewilligungen im Zusammenhang mit dem Vollzug des Gesetzes werden Gebühren gemäss Verwaltungsgebührenverordnung[^9-1] erhoben.
+Für behördliche Tätigkeiten und Bewilligungen im Zusammenhang mit dem Vollzug des Gesetzes werden Gebühren gemäss Verwaltungsgebührenverordnung[^9-1] erhoben.
 
-[^9-1]: SHR [172.201](https://rechtsbuch.sh.ch/data/172.201/de).
+[^9-1]: SHR 172.201.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### § 10
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung wird die Verordnung zum Gesetz über das Halten von Hunden vom 16. Oktober 1984 aufgehoben.
+Mit dem Inkrafttreten dieser Verordnung wird die Verordnung zum Gesetz über das Halten von Hunden vom 16. Oktober 1984 aufgehoben.
 
 #### § 11
 
@@ -149,17 +170,6 @@ beschliesst:
 
 <sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^11-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^11-1]: Amtsblatt 2009, S. 391.
-
-#### § T1
-
-**Übergangsbestimmung zur Änderung vom 2. September 2009**
-
-<sup>1</sup> Wer beim Inkrafttreten der Änderung vom 2. September 2009 Wohnsitz im Kanton Schaffhausen hat und einen Hund gemäss § 3 Abs. 1 lit. e–n hält, muss innerhalb von drei Monaten nach Inkrafttreten dieser Änderung bei der zuständigen kantonalen Behörde ein Gesuch um Erteilung einer Haltungsbewilligung gemäss Art. 9 des Gesetzes[^T1-1] einreichen.
-
-<sup>2</sup> Für Hunde gemäss § 3 Abs. 1 lit. e–n, die bei Inkrafttreten dieser Änderung gehalten werden, entscheidet die zuständige kantonale Behörde im Rahmen der Bewilligungserteilung über die Notwendigkeit einer Ausbildung nach Art. 8 des Gesetzes[^T1-2].
-
-[^T1-1]: SHR [455.200](https://rechtsbuch.sh.ch/data/455.200/de).
-[^T1-2]: SHR [455.200](https://rechtsbuch.sh.ch/data/455.200/de).
-
-Abl. 2009, S. 391
