@@ -5,30 +5,30 @@ title: "Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftl
 short: Personalverordnung PHSH
 language: de
 version: 2020-08-01
+corrected: 2024-06-18
 version_adopted: 2020-08-18
 adopted: 2020-08-18
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.202"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1502/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/453/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden der Pädagogischen Hochschule Schaffhausen
+# Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden der Pädagogischen Hochschule Schaffhausen (Personalverordnung PHSH)
 
-(Personalverordnung PHSH)
-
-Vom 18.08.2020 (Stand 01.08.2020)
+vom 18. August 2020
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 12 Abs. 2 lit. e und Art. 27 Abs. 2 des Hochschulgesetzes vom 2. Dezember 2019[^ingress-1],
+gestützt auf Art. 12 Abs. 2 lit. e und Art. 27 Abs. 2 des Hochschulgesetzes vom 2. Dezember 2019[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [414.200](https://rechtsbuch.sh.ch/data/414.200/de).
+[^t-1]: SHR 414.200.
 
-## 1 Allgemeines
+### I. Allgemeines
 
 #### § 1
 
@@ -44,18 +44,21 @@ beschliesst:
 
 **Hochschuljahr**
 
-<sup>1</sup> Das Hochschuljahr dauert vom 1. August bis am 31. Juli. Das Herbstsemester dauert vom 1. August bis am 31. Januar, das Frühlingssemester vom 1. Februar bis am 31. Juli.
+Das Hochschuljahr dauert vom 1. August bis am 31. Juli. Das Herbstsemester dauert vom 1. August bis am 31. Januar, das Frühlingssemester vom 1. Februar bis am 31. Juli.
 
-## 2 Entstehung und Beendigung des Arbeitsverhältnisses
+Amtsblatt 2020, S. 1361
+
+### II. Entstehung und Beendigung des Arbeitsverhältnisses
 
 #### § 3
 
 **Anstellungsarten**
 
-<sup>1</sup> Es werden folgende Anstellungsarten unterschieden:
+Es werden folgende Anstellungsarten unterschieden:
 
-- a) befristete Anstellung als DWA
-- b) unbefristete Anstellung als DWA
+- a) befristete Anstellung als DWA;
+
+- b) unbefristete Anstellung als DWA.
 
 #### § 4
 
@@ -65,9 +68,11 @@ beschliesst:
 
 <sup>2</sup> In begründeten Ausnahmefällen ist keine Veröffentlichung erforderlich, insbesondere wenn:
 
-- a) die Anstellung für weniger als ein halbes Jahr erfolgen soll
-- b) die Stelle kurzfristig besetzt werden muss
-- c) die Stelle durch Berufung besetzt wird
+- a) die Anstellung für weniger als ein halbes Jahr erfolgen soll;
+
+- b) die Stelle kurzfristig besetzt werden muss;
+
+- c) die Stelle durch Berufung besetzt wird.
 
 <sup>3</sup> Eine Stelle, die infolge von Krankheit oder Unfall der stelleninhabenden DWA vakant ist, kann in der Regel erst nach Ablauf der Lohnzahlungspflicht wieder definitiv besetzt werden.
 
@@ -75,7 +80,7 @@ beschliesst:
 
 **Anstellungsbefugnis**
 
-<sup>1</sup> Für die Anstellung der DWA ist die Hochschulleitung zuständig.
+Für die Anstellung der DWA ist die Hochschulleitung zuständig.
 
 #### § 6
 
@@ -97,7 +102,7 @@ beschliesst:
 
 <sup>2</sup> Die Hochschulleitung kann Anstellungen über die Altersgrenze hinaus bewilligen.
 
-## 3 Rechte und Pflichten im Arbeitsverhältnis
+### III. Rechte und Pflichten im Arbeitsverhältnis
 
 #### § 8
 
@@ -115,7 +120,7 @@ beschliesst:
 
 <sup>6</sup> Die Hochschulleitung legt die Einzelheiten insbesondere die Beurteilungsfelder und die Beurteilungsinstrumente der Personalgespräche und der vertieften Beurteilung in einem Reglement fest.
 
-[^8-1]: SHR [180.101](https://rechtsbuch.sh.ch/data/180.101/de).
+[^8-1]: SHR 180.101.
 
 #### § 9
 
@@ -123,11 +128,15 @@ beschliesst:
 
 <sup>1</sup> Als Präsenzverpflichtung gelten Verpflichtungen, bei denen die DWA vor Ort anwesend sein müssen. Darunter fallen insbesondere:
 
-- a) Lehrveranstaltungen
-- b) Beratungs- und Begleitungstätigkeit
-- c) Konferenzen
-- d) Kolloquien
-- e) Sitzungen in Fachbereichs-, Stufen- und Projektgruppen
+- a) Lehrveranstaltungen;
+
+- b) Beratungs- und Begleitungstätigkeit;
+
+- c) Konferenzen;
+
+- d) Kolloquien;
+
+- e) Sitzungen in Fachbereichs-, Stufen- und Projektgruppen.
 
 <sup>2</sup> Die Präsenzverpflichtung wird für die DWA individuell festgelegt.
 
@@ -135,11 +144,13 @@ beschliesst:
 
 **Arbeitszeit**
 
-<sup>1</sup> Die Anstellung der DWA basiert auf einer Jahresarbeitszeit und beträgt bei einem Beschäftigungsgrad von 100%:
+<sup>1</sup> Die Anstellung der DWA basiert auf einer Jahresarbeitszeit und beträgt bei einem Beschäftigungsgrad von 100 %:
 
-- a) bis zum 50. Altersjahr: 1915 Stunden
-- b) ab dem vollendeten 50. Altersjahr: 1839 Stunden
-- c) ab dem vollendeten 60. Altersjahr: 1820 Stunden
+- a) bis zum 50. Altersjahr: 1915 Stunden;
+
+- b) ab dem vollendeten 50. Altersjahr: 1839 Stunden;
+
+- c) ab dem vollendeten 60. Altersjahr: 1820 Stunden.
 
 <sup>2</sup> Die Reduktion der Jahresarbeitszeit bei den DWA erfolgt per 1. August bzw. 1. Februar, nachdem die jeweilige Altersgrenze erreicht wurde.
 
@@ -151,7 +162,7 @@ beschliesst:
 
 **Überpensum**
 
-<sup>1</sup> Eine Anstellung an der PHSH, welche dazu führt, dass die Jahresarbeitszeit gemäss § 10 Abs. 1 dieser Verordnung überschritten wird, bedarf einer Bewilligung durch die Hochschulleitung. Die Jahresarbeitszeit darf maximal um 10% überschritten werden.
+<sup>1</sup> Eine Anstellung an der PHSH, welche dazu führt, dass die Jahresarbeitszeit gemäss § 10 Abs. 1 dieser Verordnung überschritten wird, bedarf einer Bewilligung durch die Hochschulleitung. Die Jahresarbeitszeit darf maximal um 10 % überschritten werden.
 
 <sup>2</sup> Die zusätzlich vereinbarten und effektiv erbrachten Stunden sind in der Regel im folgenden Semester oder Hochschuljahr zu kompensieren. Im Ausnahmefall kann eine Pauschalvergütung erfolgen.
 
@@ -163,7 +174,7 @@ beschliesst:
 
 **Umwandlung 13. Monatsrate**
 
-<sup>1</sup> Eine Umwandlung der 13. Monatsrate in eine Reduktion der Jahresarbeitszeit ist ausgeschlossen.
+Eine Umwandlung der 13. Monatsrate in eine Reduktion der Jahresarbeitszeit ist ausgeschlossen.
 
 #### § 13
 
@@ -201,7 +212,7 @@ beschliesst:
 
 <sup>5</sup> Die Einzelheiten regelt die Hochschulleitung in einem Reglement.
 
-[^15-1]: SR [832.20](http://db.clex.ch/link/Bund/832.20/de).
+[^15-1]: SR 820.20.
 
 #### § 16
 
@@ -211,7 +222,7 @@ beschliesst:
 
 <sup>2</sup> Die Einzelheiten, insbesondere die Rahmenbedingungen und die Kostenbeteiligung, regelt die Hochschulleitung in einem Reglement.
 
-## 4 Schlussbestimmungen
+### IV. Schlussbestimmungen
 
 #### § 17
 
@@ -221,7 +232,7 @@ beschliesst:
 
 <sup>2</sup> Die Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden erhalten einen neuen Arbeitsvertrag.
 
-<sup>3</sup> Für Dozierende, welche im letzten Hochschuljahr vor der Überführung bereits eine Altersentlastung hatten und deren Pensum ab dem 1. August 2020 mindestens 50% beträgt, wird die Altersentlastung weiterhin nach altem Recht berechnet.
+<sup>3</sup> Für Dozierende, welche im letzten Hochschuljahr vor der Überführung bereits eine Altersentlastung hatten und deren Pensum ab dem 1. August 2020 mindestens 50 % beträgt, wird die Altersentlastung weiterhin nach altem Recht berechnet.
 
 #### § 18
 
@@ -233,6 +244,6 @@ beschliesst:
 
 <sup>3</sup> Sie ist im Amtsblatt zu veröffentlichen[^18-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^18-1]: Amtsblatt 2020, S. 1361.
+Fussnoten:
 
-Abl. 2020, S. 1361
+[^18-1]: Amtsblatt 2020, S. 1361.
