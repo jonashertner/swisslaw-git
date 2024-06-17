@@ -5,27 +5,26 @@ title: Gesundheitsgesetz
 short: GesG
 language: de
 version: 2017-01-01
-valid_until: 2024-12-31
+corrected: 2024-06-18
 version_adopted: 2016-08-22
 adopted: 2012-05-21
 in_force: 2013-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/810.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1602/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/17/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesundheitsgesetz
+# Gesundheitsgesetz (GesG)
 
-(GesG)
+vom 21. Mai 2012
 
-Vom 21.05.2012 (Stand 01.01.2017)
+Der Kantonsrat Schaffhausen
 
-Der Kantonsrat Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Zuständigkeit des Kantons**
 
-<sup>1</sup> Der Kanton nimmt alle nötigen öffentlichen Aufgaben im Bereich des Gesundheitswesens wahr, soweit nach eidgenössischem und kantonalem Recht keine anderen Zuständigkeiten festgelegt sind.
+Der Kanton nimmt alle nötigen öffentlichen Aufgaben im Bereich des Gesundheitswesens wahr, soweit nach eidgenössischem und kantonalem Recht keine anderen Zuständigkeiten festgelegt sind.
 
 #### Art. 3
 
@@ -50,6 +49,8 @@ beschliesst:
 <sup>2</sup> Er bezeichnet das für das Gesundheitswesen zuständige Departement und die kantonalen Organe des Gesundheitswesens und legt deren Aufgaben fest.
 
 <sup>3</sup> Er bezeichnet die Fachstellen, die von Bundesrechts wegen vorgeschrieben und zur Umsetzung der Bundesgesetzgebung notwendig sind.
+
+Amtsblatt 2012, S. 1929
 
 #### Art. 4
 
@@ -67,38 +68,41 @@ beschliesst:
 
 <sup>2</sup> Entscheide ausserkantonaler Ethikkommissionen können anerkannt werden.
 
-## 2 Gesundheitsberufe
+### II. Gesundheitsberufe
 
 #### Art. 6
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Eine Bewilligung des zuständigen Departements benötigt, wer fachlich eigenverantwortlich und berufsmässig oder im Einzelfall gegen Entgelt:
+<sup>1</sup> Eine Bewilligung des zuständigen Departements benötigt, wer fachlich eigenverantwortlich und berufsmässig oder im Einzelfall gegen Entgelt a) Krankheiten, Verletzungen, sonstige gesundheitliche Beeinträchtigungen oder Schwangerschaften nach den Erkenntnissen der anerkannten Wissenschaften oder im Rahmen wissenschaftlicher Forschung feststellt oder behandelt,
 
-- a) Krankheiten, Verletzungen, sonstige gesundheitliche Beeinträchtigungen oder Schwangerschaften nach den Erkenntnissen der anerkannten Wissenschaften oder im Rahmen wissenschaftlicher Forschung feststellt oder behandelt
-- b) sich in einem Beruf betätigt, den die Krankenversicherungsgesetzgebung zur Gruppe der Leistungserbringer zählt
-- c) Verrichtungen zur Veränderung der Empfängnis- und Zeugungsfähigkeit vornimmt
-- d) an Kranken, Verletzten, gesundheitlich anderweitig Beeinträchtigten oder Schwangeren oder im Rahmen der Gesundheitsförderung und Prävention instrumentale Eingriffe in den Körperöffnungen oder körperverletzend unter der Haut oder Manipulationen an der Wirbelsäule vornimmt
-- e) Heilmittel abgibt, deren Abgabe nach Bundesrecht bewilligungspflichtig ist
-- f) eine Tätigkeit ausübt, welche unter einem eidgenössisch anerkannten Diplom der Komplementär- und Alternativmedizin geregelt ist
-- g) eine nichtärztliche psychotherapeutische Tätigkeit ausübt
+- b) sich in einem Beruf betätigt, den die Krankenversicherungsgesetzgebung zur Gruppe der Leistungserbringer zählt,
 
-<sup>2</sup> Der Regierungsrat kann Personen, die als Angestellte von Medizinalpersonen im Sinne des Medizinalberufegesetzes[^6-1] oder in einer Institution des Gesundheitswesens gemäss Art. 19 dieses Gesetzes tätig sind, von der Bewilligungspflicht ausnehmen, wenn eine angemessene Überwachung der Tätigkeit durch eine vorgesetzte Person mit entsprechender Berufszulassung gesichert ist.
+- c) Verrichtungen zur Veränderung der Empfängnis- und Zeugungsfähigkeit vornimmt,
+
+- d) an Kranken, Verletzten, gesundheitlich anderweitig Beeinträchtigten oder Schwangeren oder im Rahmen der Gesundheitsförderung und Prävention instrumentale Eingriffe in den Körperöffnungen oder körperverletzend unter der Haut oder Manipulationen an der Wirbelsäule vornimmt,
+
+- e) Heilmittel abgibt, deren Abgabe nach Bundesrecht bewilligungspflichtig ist,
+
+- f) eine Tätigkeit ausübt, welche unter einem eidgenössisch anerkannten Diplom der Komplementär- und Alternativmedizin geregelt ist,
+
+- g) eine nichtärztliche psychotherapeutische Tätigkeit ausübt.
+
+<sup>2</sup> Der Regierungsrat kann Personen, die als Angestellte von Medizinalpersonen im Sinne des Medizinalberufegesetzes <sup>1)</sup> oder in einer Institution des Gesundheitswesens gemäss Art. 19 dieses Gesetzes tätig sind, von der Bewilligungspflicht ausnehmen, wenn eine angemessene Überwachung der Tätigkeit durch eine vorgesetzte Person mit entsprechender Berufszulassung gesichert ist.
 
 <sup>3</sup> Für ungefährliche Eingriffsarten kann der Regierungsrat die Bewilligungspflicht nach lit. d aufheben.
-
-[^6-1]: SR [811.11](http://db.clex.ch/link/Bund/811.11/de).
 
 #### Art. 7
 
 **Erteilung der Bewilligung**
 
-<sup>1</sup> Das zuständige Departement erteilt die Bewilligung, wenn die gesuchstellende Person:
+<sup>1</sup> Das zuständige Departement erteilt die Bewilligung, wenn die gesuchstellende Person a) die von der Gesetzgebung verlangten fachlichen Anforderungen erfüllt,
 
-- a) die von der Gesetzgebung verlangten fachlichen Anforderungen erfüllt
-- b) handlungsfähig und vertrauenswürdig ist
+- b) handlungsfähig und vertrauenswürdig ist,
+
 - c) physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet und
-- d) die erforderlichen Räumlichkeiten und die nötige Infrastruktur vorhanden sind
+
+- d) die erforderlichen Räumlichkeiten und die nötige Infrastruktur vorhanden sind.
 
 <sup>2</sup> Bewilligungen können mit Auflagen und Einschränkungen verbunden werden.
 
@@ -108,11 +112,13 @@ beschliesst:
 
 **Entzug der Bewilligung**
 
-<sup>1</sup> Die Bewilligung wird entzogen:
+<sup>1</sup> Die Bewilligung wird entzogen,
 
-- a) wenn die Voraussetzungen für deren Erteilung weggefallen sind
-- b) wenn nachträglich Tatsachen bekannt werden, aufgrund derer die Bewilligung hätte verweigert werden müssen
-- c) wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber wiederholt oder schwerwiegend gegen Vorschriften dieses Gesetzes oder der darauf gestützten Ausführungsbestimmungen verstossen hat, insbesondere Berufspflichten verletzt hat
+- a) wenn die Voraussetzungen für deren Erteilung weggefallen sind,
+
+- b) wenn nachträglich Tatsachen bekannt werden, aufgrund derer die Bewilligung hätte verweigert werden müssen,
+
+- c) wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber wiederholt oder schwerwiegend gegen Vorschriften dieses Gesetzes oder der darauf gestützten Ausführungsbestimmungen verstossen hat, insbesondere Berufspflichten verletzt hat.
 
 <sup>2</sup> Der Entzug kann für die ganze oder einen Teil der Berufstätigkeit und auf bestimmte oder unbestimmte Zeit verfügt werden.
 
@@ -120,24 +126,31 @@ beschliesst:
 
 **Erlöschen der Bewilligung**
 
-<sup>1</sup> Die Bewilligung erlischt:
+Die Bewilligung erlischt:
 
-- a) wenn die Praxis nicht innert einer bestimmten Zeit nach der Bewilligungserteilung eröffnet wird
-- b) wenn die bewilligte Tätigkeit während einer bestimmten Zeit nicht ausgeübt wird
-- c) mit dem Tod der Bewilligungsinhaberin oder des Bewilligungsinhabers
-- d) mit der Aufgabe der Berufstätigkeit oder der Aufgabe der Leitungsfunktion in einer Organisation
-- e) mit der schriftlichen Verzichtserklärung gegenüber dem zuständigen Departement
-- f) mit dem Ablauf einer Befristung
-- g) wenn eine Bewilligung in einem anderen Kanton wegen wiederholter oder schwerwiegender Verstösse gegen die Berufspflichten widerrufen worden ist
+- a) wenn die Praxis nicht innert einer bestimmten Zeit nach der Bewilligungserteilung eröffnet wird,
+
+- b) wenn die bewilligte Tätigkeit während einer bestimmten Zeit nicht ausgeübt wird,
+
+- c) mit dem Tod der Bewilligungsinhaberin oder des Bewilligungsinhabers,
+
+- d) mit der Aufgabe der Berufstätigkeit oder der Aufgabe der Leitungsfunktion in einer Organisation,
+
+- e) mit der schriftlichen Verzichtserklärung gegenüber dem zuständigen Departement,
+
+- f) mit dem Ablauf einer Befristung,
+
+- g) wenn eine Bewilligung in einem anderen Kanton wegen wiederholter oder schwerwiegender Verstösse gegen die Berufspflichten widerrufen worden ist.
 
 #### Art. 10
 
 **Eingeschränkte Bewilligung**
 
-<sup>1</sup> Personen, die mehrere Jahre in einem bewilligungspflichtigen Gesundheitsberuf eigenverantwortlich tätig waren, können nach Aufgabe der Berufstätigkeit eine eingeschränkte Berufsausübungsbewilligung beantragen. Diese berechtigt insbesondere zu folgenden Tätigkeiten im angestammten Bereich:
+Personen, die mehrere Jahre in einem bewilligungspflichtigen Gesundheitsberuf eigenverantwortlich tätig waren, können nach Aufgabe der Berufstätigkeit eine eingeschränkte Berufsausübungsbewilligung beantragen. Diese berechtigt insbesondere zu folgenden Tätigkeiten im angestammten Bereich:
 
 - a) Stellvertretung
-- b) unentgeltliche Behandlung von Angehörigen und nahestehenden Personen
+
+- b) unentgeltliche Behandlung von Angehörigen und nahestehenden Personen.
 
 #### Art. 11
 
@@ -161,14 +174,21 @@ beschliesst:
 
 <sup>1</sup> Personen, die in einem bewilligungspflichtigen Bereich tätig sind, halten sich an folgende Berufspflichten:
 
-- a) Sie üben ihren Beruf sorgfältig und gewissenhaft aus und halten sich an die Kompetenzen, die sie im Rahmen ihrer Aus-, Weiter- und Fortbildung erworben haben
-- b) Sie vertiefen, erweitern und verbessern ihre beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch regelmässige Fortbildung
-- c) Sie wahren die Rechte der Patientinnen und Patienten
-- d) Sie machen nur Werbung, die objektiv und weder irreführend noch aufdringlich ist
-- e) Sie wahren bei der Zusammenarbeit mit Angehörigen anderer Gesundheitsberufe die Interessen der Patientinnen und Patienten und handeln unabhängig von eigenen finanziellen Vorteilen
-- f) Sie wahren das Berufsgeheimnis nach Massgabe der einschlägigen Vorschriften
-- g) Sie leisten in dringenden Fällen Beistand und wirken nach Massgabe von Art. 24 dieses Gesetzes beim Notfalldienst mit
-- h) Sie schliessen eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfanges der mit ihrer Tätigkeit verbundenen Risiken ab oder erbringen eine andere gleichwertige Sicherheit
+- a) Sie üben ihren Beruf sorgfältig und gewissenhaft aus und halten sich an die Kompetenzen, die sie im Rahmen ihrer Aus-, Weiter- und Fortbildung erworben haben.
+
+- b) Sie vertiefen, erweitern und verbessern ihre beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch regelmässige Fortbildung.
+
+- c) Sie wahren die Rechte der Patientinnen und Patienten.
+
+- d) Sie machen nur Werbung, die objektiv und weder irreführend noch aufdringlich ist.
+
+- e) Sie wahren bei der Zusammenarbeit mit Angehörigen anderer Gesundheitsberufe die Interessen der Patientinnen und Patienten und handeln unabhängig von eigenen finanziellen Vorteilen.
+
+- f) Sie wahren das Berufsgeheimnis nach Massgabe der einschlägigen Vorschriften.
+
+- g) Sie leisten in dringenden Fällen Beistand und wirken nach Massgabe von Art. 24 dieses Gesetzes beim Notfalldienst mit.
+
+- h) Sie schliessen eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfanges der mit ihrer Tätigkeit verbundenen Risiken ab oder erbringen eine andere gleichwertige Sicherheit.
 
 <sup>2</sup> Vorbehalten sind weitere, nach der Bundesgesetzgebung auferlegte Berufspflichten.
 
@@ -190,11 +210,15 @@ beschliesst:
 
 <sup>2</sup> Personen, die zur Verschwiegenheit verpflichtet sind, sind von der Schweigepflicht befreit:
 
-- a) mit Einwilligung der oder des Berechtigten
-- b) mit schriftlicher Bewilligung des zuständigen Departements
-- c) in Bezug auf Wahrnehmungen, die auf ein verübtes oder drohendes Verbrechen oder Vergehen gegen die öffentliche Gesundheit, gegen Leib und Leben oder gegen die sexuelle Integrität schliessen lassen, gegenüber den Strafverfolgungsbehörden
-- d) soweit sie aufgrund einer gesetzlichen Bestimmung zu einer Anzeige oder Meldung verpflichtet sind
-- e) in Bezug auf Angaben, die der Durchsetzung von Forderungen aus dem Behandlungsverhältnis dienen, gegenüber einer zur Eintreibung der Forderungen beauftragten Stelle und gegenüber den gesetzlich vorgesehenen Instanzen
+- a) mit Einwilligung der oder des Berechtigten,
+
+- b) mit schriftlicher Bewilligung des zuständigen Departements,
+
+- c) in Bezug auf Wahrnehmungen, die auf ein verübtes oder drohendes Verbrechen oder Vergehen gegen die öffentliche Gesundheit, gegen Leib und Leben oder gegen die sexuelle Integrität schliessen lassen, gegenüber den Strafverfolgungsbehörden,
+
+- d) soweit sie aufgrund einer gesetzlichen Bestimmung zu einer Anzeige oder Meldung verpflichtet sind;
+
+- e) in Bezug auf Angaben, die der Durchsetzung von Forderungen aus dem Behandlungsverhältnis dienen, gegenüber einer zur Eintreibung der Forderungen beauftragten Stelle und gegenüber den gesetzlich vorgesehenen Instanzen.
 
 #### Art. 16
 
@@ -222,9 +246,9 @@ beschliesst:
 
 **Einschränkung der Heiltätigkeit**
 
-<sup>1</sup> Der Regierungsrat kann durch Verordnung festlegen, dass die Behandlung bestimmter Krankheiten, insbesondere Infektionskrankheiten, bestimmten Berufsgruppen vorbehalten bleibt.
+Der Regierungsrat kann durch Verordnung festlegen, dass die Behandlung bestimmter Krankheiten, insbesondere Infektionskrankheiten, bestimmten Berufsgruppen vorbehalten bleibt.
 
-## 3 Institutionen des Gesundheitswesens
+### III. Institutionen des Gesundheitswesens
 
 #### Art. 19
 
@@ -238,23 +262,23 @@ beschliesst:
 
 **Erteilung und Entzug der Bewilligung**
 
-<sup>1</sup> Die Bewilligung wird erteilt, wenn:
+<sup>1</sup> Die Bewilligung wird erteilt, wenn a) der Tätigkeitsbereich in örtlicher, zeitlicher, sachlicher und personeller Hinsicht festgelegt ist,
 
-- a) der Tätigkeitsbereich in örtlicher, zeitlicher, sachlicher und personeller Hinsicht festgelegt ist
-- b) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind
-- c) das erforderliche Fachpersonal verfügbar ist
-- d) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist
+- b) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind,
+
+- c) das erforderliche Fachpersonal verfügbar ist,
+
+- d) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist,
+
 - e) das mit der Geschäftsführung betraute Personal über die nötigen fachlichen und persönlichen Qualifikationen verfügt und
-- f) die für die Tätigkeiten im Sinne von Art. 6 dieses Gesetzes verantwortlichen Personen über eine Berufsausübungsbewilligung im Sinne von Art. 7 dieses Gesetzes verfügen
+
+- f) die für die Tätigkeiten im Sinne von Art. 6 dieses Gesetzes verantwortlichen Personen über eine Berufsausübungsbewilligung im Sinne von Art. 7 dieses Gesetzes verfügen.
 
 <sup>2</sup> Für den Entzug und das Erlöschen der Bewilligung gelten die Bestimmungen über die Gesundheitsberufe sinngemäss.
 
-<sup>3</sup> Für Spitäler und Heime gelten die Bestimmungen des Spitalgesetzes[^20-1] bzw. des Altersbetreuungs- und Pflegegesetzes[^20-2].
+<sup>3</sup> Für Spitäler und Heime gelten die Bestimmungen des Spitalgesetzes <sup>2)</sup> bzw. des Altersbetreuungs- und Pflegegesetzes <sup>3)</sup>.
 
-[^20-1]: SHR [813.100](https://rechtsbuch.sh.ch/data/813.100/de).
-[^20-2]: SHR [813.500](https://rechtsbuch.sh.ch/data/813.500/de).
-
-## 4 Heilmittel
+### IV. Heilmittel
 
 #### Art. 21
 
@@ -278,7 +302,7 @@ beschliesst:
 
 <sup>5</sup> Den Patientinnen und Patienten ist auf deren Wunsch ein Rezept auszustellen, das den Bezug der Heilmittel in einer Apotheke ermöglicht. Sie sind darüber in geeigneter Weise zu informieren.
 
-## 5 Versorgungssicherung
+### V. Versorgungssicherung
 
 #### Art. 23
 
@@ -300,13 +324,13 @@ beschliesst:
 
 <sup>3</sup> Der Kanton kann Beiträge an die Infrastruktur-Kosten und Vorhalteleistungen sowie an die übrigen nicht anderweitig finanzierbaren Kosten des Notfalldienstes leisten.
 
-<sup>4</sup> Wer keinen Notfalldienst leistet, kann zur Zahlung einer Ersatzabgabe herangezogen werden. Die Abgabe beträgt höchstens 5% des aus der bewilligungspflichtigen Tätigkeit erzielten Einkommens. Sie wird für Beiträge an Vorhalteleistungen gemäss Abs. 3 verwendet.
+<sup>4</sup> Wer keinen Notfalldienst leistet, kann zur Zahlung einer Ersatzabgabe herangezogen werden. Die Abgabe beträgt höchstens 5 % des aus der bewilligungspflichtigen Tätigkeit erzielten Einkommens. Sie wird für Beiträge an Vorhalteleistungen gemäss Abs. 3 verwendet.
 
 #### Art. 25
 
 **Rettungsdienst**
 
-<sup>1</sup> Der Kanton stellt durch Leistungsauftrag an die Spitäler Schaffhausen oder an Dritte einen bedarfsgerechten sanitätsdienstlichen Rettungsdienst sicher.
+Der Kanton stellt durch Leistungsauftrag an die Spitäler Schaffhausen oder an Dritte einen bedarfsgerechten sanitätsdienstlichen Rettungsdienst sicher.
 
 #### Art. 26
 
@@ -318,19 +342,21 @@ beschliesst:
 
 #### Art. 27
 
+<sup>12)</sup>
+
 **Sanitätsdienst bei ausserordentlichen Ereignissen**
 
-<sup>1</sup> Für die Vorbereitung und Sicherstellung der Gesundheitsversorgung bei bevölkerungsschutzrelevanten Ereignissen gelten die spezialgesetzlichen Regelungen des Bundes und des Kantons, insbesondere des kantonalen Bevölkerungsschutzgesetzes.
+Für die Vorbereitung und Sicherstellung der Gesundheitsversorgung bei bevölkerungsschutzrelevanten Ereignissen gelten die spezialgesetzlichen Regelungen des Bundes und des Kantons, insbesondere des kantonalen Bevölkerungsschutzgesetzes.
 
 #### Art. 28
 
 **Schulärztlicher Dienst, Schulzahnklinik**
 
-<sup>1</sup> Der Kanton richtet für alle Schulen einen schulärztlichen Dienst und eine Schulzahnklinik ein. Der Anspruch auf Behandlung in der Schulzahnklinik besteht während der Dauer der Schulpflicht.
+<sup>1</sup> Der Kanton richtet für alle Schulen einen schulärztlichen Dienst und eine Schulzahnklinik ein. Der Anspruch auf Behandlung in der Schulzahnklinik besteht während der Dauer der Schulpflicht. <sup>11)</sup>
 
 <sup>2</sup> Der Regierungsrat regelt die Aufgaben und die Organisation des schulärztlichen Dienstes und der Schulzahnklinik.
 
-## 6 Gesundheitsförderung und Prävention
+### VI. Gesundheitsförderung und Prävention
 
 #### Art. 29
 
@@ -366,9 +392,9 @@ beschliesst:
 
 **Schutz vor Passivrauchen**
 
-<sup>1</sup> Der Schutz vor Passivrauchen richtet sich nach den Bestimmungen des Bundesrechts.
+Der Schutz vor Passivrauchen richtet sich nach den Bestimmungen des Bundesrechts.
 
-## 7 Bekämpfung übertragbarer Krankheiten
+### VII. Bekämpfung übertragbarer Krankheiten
 
 #### Art. 33
 
@@ -392,7 +418,7 @@ beschliesst:
 
 <sup>3</sup> Öffentliche Impfungen sind unentgeltlich, soweit keine abweichenden bundesrechtlichen Regelungen zum Tragen kommen (insbesondere Finanzierung im Rahmen der sozialen Krankenversicherung).
 
-## 8 Patientenrechte
+### VIII. Patientenrechte
 
 #### Art. 35
 
@@ -406,11 +432,11 @@ beschliesst:
 
 **Behandlungsanspruch**
 
-<sup>1</sup> Jede Person hat unabhängig von ihrer wirtschaftlichen und sozialen Lage im Rahmen des Leistungsangebots und der betrieblichen Möglichkeiten des betreffenden Leistungsanbieters Anspruch:
+<sup>1</sup> Jede Person hat unabhängig von ihrer wirtschaftlichen und sozialen Lage im Rahmen des Leistungsangebots und der betrieblichen Möglichkeiten des betreffenden Leistungsanbieters Anspruch a) auf jene Behandlung, die aufgrund des Gesundheitszustandes nach den anerkannten medizinischen Grundsätzen angezeigt, verhältnismässig und ethisch vertretbar ist, unter Einschluss einer bedarfsgerechten palliativen Pflege in der letzten Lebensphase,
 
-- a) auf jene Behandlung, die aufgrund des Gesundheitszustandes nach den anerkannten medizinischen Grundsätzen angezeigt, verhältnismässig und ethisch vertretbar ist, unter Einschluss einer bedarfsgerechten palliativen Pflege in der letzten Lebensphase
-- b) auf angemessene, die Menschenwürde und das Selbstbestimmungsrecht achtende Information, Beratung, Betreuung und Fürsorge
-- c) auf Rücksichtnahme und Schutz der Persönlichkeit
+- b) auf angemessene, die Menschenwürde und das Selbstbestimmungsrecht achtende Information, Beratung, Betreuung und Fürsorge,
+
+- c) auf Rücksichtnahme und Schutz der Persönlichkeit.
 
 <sup>2</sup> Kann eine medizinisch indizierte Leistung mit den verfügbaren Mitteln nicht bzw. nicht in der erforderlichen Qualität erbracht werden, ist die zu behandelnde Person in eine geeignete Institution zu verlegen bzw. einem geeigneten Leistungserbringer zuzuführen.
 
@@ -426,13 +452,11 @@ beschliesst:
 
 **Patienteninformation**
 
-<sup>1</sup> Die behandelnde Ärztin oder der behandelnde Arzt informiert die betroffene Person und bei einer fürsorgerischen Unterbringung auch die Vertrauensperson über alle Umstände, die im Hinblick auf die in Aussicht genommenen medizinischen Massnahmen wesentlich sind, insbesondere über deren Gründe, Zweck, Art, Modalitäten, Risiken und Nebenwirkungen, über Folgen des Unterlassens der Behandlung, über allfällige alternative Behandlungsmöglichkeiten sowie über die finanziellen Konsequenzen. Bei urteilsunfähigen Personen sind auch die vertretungsberechtigten Personen zu informieren (Art. 377 ZGB[^38-1]).
+<sup>1</sup> Die behandelnde Ärztin oder der behandelnde Arzt informiert die betroffene Person und bei einer fürsorgerischen Unterbringung auch die Vertrauensperson über alle Umstände, die im Hinblick auf die in Aussicht genommenen medizinischen Massnahmen wesentlich sind, insbesondere über deren Gründe, Zweck, Art, Modalitäten, Risiken und Nebenwirkungen, über Folgen des Unterlassens der Behandlung, über allfällige alternative Behandlungsmöglichkeiten sowie über die finanziellen Konsequenzen. Bei urteilsunfähigen Personen sind auch die vertretungsberechtigten Personen zu informieren (Art. 377 ZGB <sup>5)</sup>).
 
 <sup>2</sup> Die Information kann ausnahmsweise eingeschränkt werden, wenn vorauszusehen ist, dass sie die Patientin oder den Patienten übermässig belastet oder den Krankheitsverlauf ungünstig beeinflusst. Besteht die Patientin oder der Patient hingegen auf einer umfassenden Information, ist diese zu erteilen.
 
 <sup>3</sup> Die Information darf ganz unterbleiben, wenn der Verzicht dokumentiert ist.
-
-[^38-1]: SR [210](http://db.clex.ch/link/Bund/210/de).
 
 #### Art. 39
 
@@ -480,21 +504,15 @@ beschliesst:
 
 **Behandlungen ohne Zustimmung der betroffenen Person**
 
-<sup>1</sup> Behandlungen ohne Zustimmung der betroffenen Personen, die in eine Behandlungseinrichtung eingewiesen worden sind, insbesondere nach den Bestimmungen des Zivilgesetzbuches über die fürsorgerische Unterbringung oder nach den Bestimmungen des Strafgesetzbuches[^43-1] über Massnahmen, richten sich nach den Bestimmungen des ZGB (Art. 433 ff.) und den Bestimmungen des EG ZGB[^43-2].
+<sup>1</sup> Behandlungen ohne Zustimmung der betroffenen Personen, die in eine Behandlungseinrichtung eingewiesen worden sind, insbesondere nach den Bestimmungen des Zivilgesetzbuches über die fürsorgerische Unterbringung oder nach den Bestimmungen des Strafgesetzbuches <sup>6)</sup> über Massnahmen, richten sich nach den Bestimmungen des ZGB (Art. 433 ff.) und den Bestimmungen des EG ZGB <sup>7)</sup>.
 
 <sup>2</sup> Verweigert eine Patientin oder ein Patient im weiteren Verlauf des Aufenthaltes jegliche Behandlung, ist die einweisende Behörde zu informieren.
-
-[^43-1]: SR [311.0](http://db.clex.ch/link/Bund/311.0/de).
-[^43-2]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de).
 
 #### Art. 44
 
 **Anwendung physischen Zwangs**
 
-<sup>1</sup> Die Anwendung physischen Zwangs ist ausnahmsweise zulässig:
-
-- a) zur Durchführung einer Behandlung ohne Zustimmung der betroffenen Person nach Art. 43 dieses Gesetzes oder
-- b) wenn die Anwendung physischen Zwangs unerlässlich ist, um eine unmittelbare schwere Gefährdung des Lebens oder der Gesundheit von Patientinnen und Patienten oder von Dritten abzuwenden
+<sup>1</sup> Die Anwendung physischen Zwangs ist ausnahmsweise zulässig a) zur Durchführung einer Behandlung ohne Zustimmung der betroffenen Person nach Art. 43 dieses Gesetzes oder b) wenn die Anwendung physischen Zwangs unerlässlich ist, um eine unmittelbare schwere Gefährdung des Lebens oder der Gesundheit von Patientinnen und Patienten oder von Dritten abzuwenden.
 
 <sup>2</sup> Die Anwendung physischen Zwangs hat zu unterbleiben, sofern sich dies durch geeignete Massnahmen vermeiden lässt.
 
@@ -504,10 +522,11 @@ beschliesst:
 
 **Andere Freiheitsbeschränkungen**
 
-<sup>1</sup> Andere wesentliche Beschränkungen der persönlichen Freiheit, insbesondere der Bewegungsfreiheit, sind zulässig, wenn dies notwendig und unvermeidlich ist:
+<sup>1</sup> Andere wesentliche Beschränkungen der persönlichen Freiheit, insbesondere der Bewegungsfreiheit, sind zulässig, wenn dies notwendig und unvermeidlich ist,
 
 - a) um eine ernsthafte Gefahr für Leib und Leben oder die körperliche Integrität der betroffenen Person oder Dritter abzuwenden oder
-- b) um eine schwerwiegende Störung des Gemeinschaftslebens zu beseitigen bzw. einen geordneten Betrieb der Behandlungseinrichtung sicherzustellen
+
+- b) um eine schwerwiegende Störung des Gemeinschaftslebens zu beseitigen bzw. einen geordneten Betrieb der Behandlungseinrichtung sicherzustellen.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen der Epidemiengesetzgebung.
 
@@ -515,7 +534,7 @@ beschliesst:
 
 **Therapeutische Begleitung**
 
-<sup>1</sup> Sofern und sobald es der Zustand der Patientinnen und Patienten erlaubt, haben diese Anspruch auf Besprechung und Nachbesprechung der angeordneten freiheitsbeschränkenden Massnahmen.
+Sofern und sobald es der Zustand der Patientinnen und Patienten erlaubt, haben diese Anspruch auf Besprechung und Nachbesprechung der angeordneten freiheitsbeschränkenden Massnahmen.
 
 #### Art. 47
 
@@ -525,37 +544,39 @@ beschliesst:
 
 <sup>2</sup> Die richterliche Überprüfung von Behandlungen ohne Zustimmung und anderen Freiheitsbeschränkungen richtet sich nach den Bestimmungen über den Erwachsenenschutz (Art. 439 ZGB).
 
-## 9 Gebühren, Rechtsschutz, Strafbestimmungen
+### IX. Gebühren, Rechtsschutz, Strafbestimmungen
 
 #### Art. 48
 
 **Gebühren**
 
-<sup>1</sup> Für behördliche Verrichtungen wie Erteilung von Bewilligungen, Inspektionen, Kontrollen und weitere Dienstleistungen können die Vollzugsorgane nach Aufwand zu bemessende Gebühren erheben, sofern keine festen Ansätze vorgesehen sind.
+Für behördliche Verrichtungen wie Erteilung von Bewilligungen, Inspektionen, Kontrollen und weitere Dienstleistungen können die Vollzugsorgane nach Aufwand zu bemessende Gebühren erheben, sofern keine festen Ansätze vorgesehen sind.
 
 #### Art. 49
 
-**Rechtsschutz**
-
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (VRG)[^49-1], sofern dieses Gesetz oder andere Erlasse des kantonalen Rechts nichts Abweichendes festlegen.
+<sup>1</sup> Der Rechtsschutz richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (VRG) <sup>8)</sup>, sofern dieses Gesetz oder andere Erlasse des kantonalen Rechts nichts Abweichendes festlegen.
 
 <sup>2</sup> Gegen Verfügungen der zuständigen Vollzugsorgane über die Beanstandung von Proben oder die Beschlagnahmung von Proben kann beim Departement des Innern innert 20 Tagen Einsprache erhoben werden. Der weitere Rechtsschutz richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (VRG).
-
-[^49-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 50
 
 **Strafbestimmungen**
 
-<sup>1</sup> Mit Busse bis Fr. 10'000.00 wird bestraft:
+<sup>1</sup> Mit Busse bis Fr. 10'000.- wird bestraft,
 
-- a) wer ohne Bewilligung eine nach diesem Gesetz bewilligungspflichtige Tätigkeit ausübt oder Personen im Anstellungsverhältnis beschäftigt
-- b) wer als Bewilligungsinhaberin oder Bewilligungsinhaber ihre oder seine Befugnisse überschreitet
-- c) wer als Bewilligungsinhaberin oder Bewilligungsinhaber die Berufspflichten verletzt
-- d) wer ohne Bewilligung eine nach diesem Gesetz bewilligungspflichtige Institution des Gesundheitswesens betreibt
-- e) wer das Verkaufsverbot für Tabak missachtet
-- f) wer ohne Bewilligung Heilmittel direkt abgibt
-- g) wer anderen Vorschriften dieses Gesetzes oder der darauf gestützten Verordnungen zuwiderhandelt
+- a) wer ohne Bewilligung eine nach diesem Gesetz bewilligungspflichtige Tätigkeit ausübt oder Personen im Anstellungsverhältnis beschäftigt,
+
+- b) wer als Bewilligungsinhaberin oder Bewilligungsinhaber ihre oder seine Befugnisse überschreitet,
+
+- c) wer als Bewilligungsinhaberin oder Bewilligungsinhaber die Berufspflichten verletzt,
+
+- d) wer ohne Bewilligung eine nach diesem Gesetz bewilligungspflichtige Institution des Gesundheitswesens betreibt,
+
+- e) wer das Verkaufsverbot für Tabak missachtet,
+
+- f) wer ohne Bewilligung Heilmittel direkt abgibt,
+
+- g) wer anderen Vorschriften dieses Gesetzes oder der darauf gestützten Verordnungen zuwiderhandelt.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -563,17 +584,19 @@ beschliesst:
 
 <sup>4</sup> Die Schaffhauser Polizei steht den Vollzugsorganen zur Ermittlung von Straftaten und zur Durchsetzung rechtskräftiger Anordnungen zur Verfügung.
 
-## 10 Übergangs- und Schlussbestimmungen
+### X. Übergangs- und Schlussbestimmungen
 
 #### Art. 51
 
+**Rechtsschutz**
+
 **Vollziehungsverordnung**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
 
 #### Art. 52
 
-**Übergangsbestimmungen: Gesundheitsberufe im Allgemeinen**
+**Übergangsbestimmungen a) Gesundheitsberufe im Allgemeinen**
 
 <sup>1</sup> Nach bisherigem Recht erteilte Bewilligungen bleiben gültig, sofern die Tätigkeit nach diesem Gesetz weiterhin bewilligungspflichtig ist.
 
@@ -591,35 +614,61 @@ beschliesst:
 
 #### Art. 53
 
-**Übergangsbestimmungen: Komplementär- und Alternativmedizin**
+**b) Komplementär- und Alternativmedizin**
 
-<sup>1</sup> Bis zur Schaffung eidgenössisch anerkannter Diplome der Komplementär- und Alternativmedizin kann der Regierungsrat Tätigkeiten der Komplementär- und Alternativmedizin der Bewilligungspflicht unterstellen und die Bewilligungsvoraussetzungen festlegen.
+Bis zur Schaffung eidgenössisch anerkannter Diplome der Komplementär- und Alternativmedizin kann der Regierungsrat Tätigkeiten der Komplementär- und Alternativmedizin der Bewilligungspflicht unterstellen und die Bewilligungsvoraussetzungen festlegen.
 
 #### Art. 54
 
-**Übergangsbestimmungen: Privatapotheken**
+**c) Privatapotheken**
 
-<sup>1</sup> Für Ärztinnen und Ärzte in den Gemeinden Schaffhausen und Neuhausen am Rheinfall gilt die altrechtliche Bestimmung von Art. 17 Abs. 2 des Gesundheitsgesetzes vom 19. Oktober 1970 während einer Übergangsfrist von fünf Jahren nach Inkraftsetzung dieses Gesetzes.
+Für Ärztinnen und Ärzte in den Gemeinden Schaffhausen und Neuhausen am Rheinfall gilt die altrechtliche Bestimmung von Art.
+
+17 Abs. 2 des Gesundheitsgesetzes vom 19. Oktober 1970 während einer Übergangsfrist von fünf Jahren nach Inkraftsetzung dieses Gesetzes.
 
 #### Art. 55
 
-**Übergangsbestimmungen: Verkauf von Tabakwaren über Automaten**
+**d) Verkauf von Tabakwaren über Automaten**
 
-<sup>1</sup> Bereits aufgestellte Automaten für den Verkauf von Tabakwaren, die den Anforderungen von Art. 31 Abs. 2 dieses Gesetzes nicht genügen, sind innert 12 Monaten ab Inkrafttreten dieses Gesetzes ausser Betrieb zu setzen.
+Bereits aufgestellte Automaten für den Verkauf von Tabakwaren, die den Anforderungen von Art. 31 Abs. 2 dieses Gesetzes nicht genügen, sind innert 12 Monaten ab Inkrafttreten dieses Gesetzes ausser Betrieb zu setzen.
 
 #### Art. 56
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird aufgehoben:
+Mit dem Inkrafttreten dieses Gesetzes wird aufgehoben:
 
-- a) Gesundheitsgesetz vom 19. Oktober 1970
+- Gesundheitsgesetz vom 19. Oktober 1970
 
 #### Art. 57
 
-**Änderung bisherigen Rechts[^57-1]**
+**Änderung bisherigen Rechts**
 
-[^57-1]: Gegenstandslos.
+<sup>1</sup> Das Spitalgesetz vom 22. November 2004 (SHR 813.100) wird wie folgt geändert:
+
+#### Art. 3
+
+**Abs. 2 lit. f (neu)**
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn f) die für die Tätigkeiten nach Art. 6 des Gesundheitsgesetzes verantwortlichen Personen über eine Berufsausübungsbewilligung im Sinne von Art. 7 des Gesundheitsgesetzes verfügen.
+
+#### Art. 29
+
+In Bezug auf die Rechte der Patienten gelten die Bestimmungen gemäss Art. 35 ff. des Gesundheitsgesetzes.
+
+<sup>2</sup> Das Schulgesetz vom 27. April 1982 (SHR 410.100) wird wie folgt geändert:
+
+#### Art. 11
+
+**Aufgehoben**
+
+<sup>3</sup> Das Gastgewerbegesetz vom 13. Dezember 2004 (SHR 935.100) wird wie folgt geändert:
+
+#### Art. 8
+
+**Abs. 2**
+
+<sup>2</sup> In Gastwirtschaftsbetrieben richtet sich das Rauchen nach den Bestimmungen des Bundesgesetzes über den Schutz vor Passivrauchen.
 
 #### Art. 58
 
@@ -627,11 +676,34 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten[^58-1].
+<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten <sup>9)</sup>.
 
-<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^58-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen <sup>10)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^58-1]: In Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1948).
-[^58-2]: Amtsblatt 2012, S. 1929.
+Fussnoten:
 
-Abl. 2012, S. 1929
+**1) 2) 3) 5) 6) 7) 8) 9)**
+
+SR 811.11.
+
+SHR 813.100.
+
+SHR 813.500.
+
+SR 210.
+
+SR 311.0.
+
+SHR 210.100.
+
+SHR 172.200.
+
+In Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1948).
+
+**10) 11)**
+
+Amtsblatt 2012, S. 1929.
+
+**12)**
+
+Fassung gemäss KRB vom 20. Januar 2014, in Kraft getreten am 1. August 2014 (Amtsblatt 2014, S. 131, S. 856). Fassung gemäss G vom 22. August 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1307, S. 1899).
