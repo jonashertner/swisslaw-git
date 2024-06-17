@@ -4,32 +4,34 @@ number: "410.305"
 title: Verordnung über den schulischen Sozialdienst des Kantons Schaffhausen
 language: de
 version: 2024-03-01
+corrected: 2024-06-18
 version_adopted: 2024-02-13
 adopted: 2015-06-30
 in_force: 2015-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.305"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1542/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/400/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über den schulischen Sozialdienst des Kantons Schaffhausen
 
-Vom 30.06.2015 (Stand 01.03.2024)
+vom 30. Juni 2015
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 12 Abs. 3 des Schulgesetzes vom 27. April 1981,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
 **Organisation**
 
-<sup>1</sup> Der kantonale schulische Sozialdienst gehört der Dienststelle Familie und Jugend des Erziehungsdepartements an.
+<sup>1</sup> Der kantonale schulische Sozialdienst gehört der Dienststelle Familie und Jugend des Erziehungsdepartements an. <sup>2)</sup>
 
 <sup>2</sup> Die interne Organisation und Aufgabenzuweisung sowie die internen Abläufe sind im Organigramm des kantonalen schulischen Sozialdienstes festgehalten. Dieses wird vom Erziehungsdepartement genehmigt.
 
@@ -41,7 +43,9 @@ beschliesst:
 
 <sup>2</sup> Werden von einzelnen oder mehreren Mitarbeitenden des kantonalen schulischen Sozialdienstes Aufgaben, die nicht zwingend vom kantonalen schulischen Sozialdienst wahrzunehmen sind, übernommen (insbesondere die Mandatsführung bei Kindesschutzmassnahmen), ist die erbrachte Leistung dem kantonalen schulischen Sozialdienst abzugelten.
 
-## 2 Aufgaben
+Amtsblatt 2015, S. 957
+
+### II. Aufgaben
 
 #### § 3
 
@@ -51,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Er koordiniert seine Arbeit mit diesen und vermittelt sie bei Bedarf an die Ratsuchenden.
 
-<sup>3</sup> Er bietet insbesondere die Dienstleistungen gemäss den §§ 4-8 an.
+<sup>3</sup> Er bietet insbesondere die Dienstleistungen gemäss den §§ 4 - 8 an.
 
 #### § 4
 
@@ -59,13 +63,15 @@ beschliesst:
 
 <sup>1</sup> Bei der Abklärung und Umsetzung von durch die zuständige Stelle angeordneten Sonderschulmassnahmen steht der kantonale schulische Sozialdienst in folgenden Situationen beratend, vermittelnd und ausführend zur Verfügung:
 
-- a) Ausserkantonale Platzierungen
-- b) Fälle mit hohem Bedarf an Begleitung
+- a) Ausserkantonale Platzierungen;
+
+- b) Fälle mit hohem Bedarf an Begleitung.
 
 <sup>2</sup> Insbesondere kommen ihm dabei folgende Aufgaben zu:
 
-- a) Beratung, Vorbereitung, Betreuung und Begleitung der Erziehungsberechtigten und des Schülers bzw. der Schülerin
-- b) Beratung und Vorbereitung aller Beteiligten auf die Rückkehr ins Elternhaus bzw. in die Regelklasse oder auf den Einstieg in eine Berufsausbildung nach Beendigung der Sonderschulung
+- a) Beratung, Vorbereitung, Betreuung und Begleitung der Erziehungsberechtigten und des Schülers bzw. der Schülerin;
+
+- b) Beratung und Vorbereitung aller Beteiligten auf die Rückkehr ins Elternhaus bzw. in die Regelklasse oder auf den Einstieg in eine Berufsausbildung nach Beendigung der Sonderschulung.
 
 #### § 5
 
@@ -81,7 +87,7 @@ beschliesst:
 
 <sup>1</sup> Der kantonale schulische Sozialdienst führt eine Vermittlungs- und Koordinationsstelle für die Frühe Förderung gemäss den kantonalen Leitlinien.
 
-<sup>2</sup> Sie entwickelt und begleitet bei Bedarf familienunterstützende und ‑ergänzende Angebote und Projekte.
+<sup>2</sup> Sie entwickelt und begleitet bei Bedarf familienunterstützende und -ergänzende Angebote und Projekte.
 
 <sup>3</sup> Sie bietet ein niederschwelliges Beratungsangebot für Kinder, Jugendliche und ihre Bezugspersonen an.
 
@@ -89,12 +95,15 @@ beschliesst:
 
 **Jugend- und Familienberatung**
 
-<sup>1</sup> Als Jugend- und Familienberatungsstelle des Kantons berät und unterstützt der kantonale schulische Sozialdienst Schulen, Erziehungsberechtigte, Kinder und Jugendliche bei:
+Als Jugend- und Familienberatungsstelle des Kantons berät und unterstützt der kantonale schulische Sozialdienst Schulen, Erziehungsberechtigte, Kinder und Jugendliche bei:
 
-- a) allgemeinen Erziehungs- und Schulfragen
-- b) familiären Problemen mit Auswirkungen auf schulpflichtige Kinder und Jugendliche
-- c) der Suche nach geeigneten familienergänzenden Betreuungsmöglichkeiten
-- d) finanziellen Fragestellungen
+- a) allgemeinen Erziehungs- und Schulfragen;
+
+- b) familiären Problemen mit Auswirkungen auf schulpflichtige Kinder und Jugendliche;
+
+- c) der Suche nach geeigneten familienergänzenden Betreuungsmöglichkeiten;
+
+- d) finanziellen Fragestellungen.
 
 #### § 8
 
@@ -108,7 +117,7 @@ beschliesst:
 
 <sup>4</sup> Es besteht keine Verpflichtung des kantonalen schulischen Sozialdienstes, die Mandatsführung bei Kindesschutzmassnahmen zu übernehmen.
 
-## 3 Schlussbestimmung
+### III. Schlussbestimmung
 
 #### § 9
 
@@ -116,8 +125,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. August 2015 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^9-1] und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
 
 [^9-1]: Amtsblatt 2015, S. 957.
 
-Abl. 2015, S. 957
+## Weitere Fussnoten
+
+- [2] Fassung gemäss RRB vom 13. Februar 2024, in Kraft getreten am 1. März 2024 (Amtsblatt vom 16. Februar 2024, S. 11).
