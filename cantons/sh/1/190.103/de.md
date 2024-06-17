@@ -4,531 +4,613 @@ number: "190.103"
 title: Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
 language: de
 version: 1998-09-03
+corrected: 2024-06-18
 version_adopted: 1997-03-19
 adopted: 1964-11-23
 in_force: 1967-10-04
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/190.103"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1555/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/629/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
+# Vertrag
 
-Vom 23.11.1964 (Stand 03.09.1998)
+zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet
 
-Der Schweizerische Bundesrat und der Präsident der Bundesrepublik Deutschland,
+Abgeschlossen am 23. November 1964 Von der Bundesversammlung genehmigt am 16. Dezember 19651 Ratifikationsurkunden ausgetauscht am 4. September 1967 In Kraft getreten am 4. Oktober 1967 (Stand am 3. September 1998)
 
-von dem Wunsche geleitet, die sich aus der besonderen geographischen Lage der Gemeinde Büsingen am Hochrhein ergebenden Beziehungen zur Schweizerischen Eidgenossenschaft den beiderseitigen Interessen anzupassen, sind übereingekommen, einen Vertrag über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet zu schliessen,
+Der Schweizerische Bundesrat und der Präsident der Bundesrepublik Deutschland v on dem Wunsche geleitet, die sich aus der besonderen geographischen Lage der Gemeinde Büsingen am Hochrhein ergebenden Beziehungen zur Schweizerischen Eidgenossenschaft den beiderseitigen Interessen anzupassen, sind übereingekommen, einen Vertrag über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet zu schliessen.
 
-beschliessen:
+Sie haben zu diesem Zweck zu ihren Bevollmächtigten ernannt:
 
-## 1 Zollanschluss und Anwendung schweizerischen Rechts
+(Es folgen die Namen der Bevollmächtigten) die nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten folgendes vereinbart haben:
 
-### 1.1 Allgemeine Regelung
+I. Teil Zollanschluss und Anwendung schweizerischen Rechts
+
+### 1. Abschnitt
+
+Allgemeine Regelung
 
 #### Art. 1
 
-<sup>1</sup> Das von der Schweiz umgebene Gebiet der Gemeinde Büsingen am Hochrhein, im folgenden «Büsingen» genannt, das vom deutschen Zollgebiet ausgeschlossen bleibt, wird unbeschadet der politischen Zugehörigkeit zur Bundesrepublik Deutschland dem schweizerischen Zollgebiet angeschlossen.
+Das von der Schweiz umgebene Gebiet der Gemeinde Büsingen am Hochrhein, im folgenden «Büsingen» genannt, das vom deutschen Zollgebiet ausgeschlossen bleibt, wird unbeschadet der politischen Zugehörigkeit zur Bundesrepublik Deutschland dem schweizerischen Zollgebiet angeschlossen.
 
-#### Art. 2
+AS 1967 1211; BBl 1965 II 1125 (1) In Büsingen finden, soweit im folgenden nicht Sonderregelungen vorgesehen sind, die schweizerischen (eidgenössischen und kantonalen) Rechts- und Verwaltungsvorschriften Anwendung, die sich auf folgende Gegenstände beziehen:
 
-<sup>1</sup> In Büsingen finden, soweit im folgenden nicht Sonderregelungen vorgesehen sind, die schweizerischen (eidgenössischen und kantonalen) Rechts- und Verwaltungsvorschriften Anwendung, die sich auf folgende Gegenstände beziehen:
+**Art. 2**
 
-- a) Zölle
-- b) Ein-, Aus- und Durchfuhr von Waren
-- c) aus dem Bereich der Landwirtschaft:
-  - 1\. Brotgetreidewirtschaft
-  - 2\. Erhaltung des Ackerbaus und Anpassung der landwirtschaftlichen Produktion an die Absatzmöglichkeiten, ausgenommen Pflanzenzüchtung, Saatgutproduktion und Zuckerrüben
-  - 3\. Tierzucht
-  - 4\. Verwertung, Abnahme und Preise landwirtschaftlicher Erzeugnisse sowie sonstige Vergünstigungen
-  - 5\. Milch und Milchprodukte
-  - 6\. Geflügelhaltung und Eierwirtschaft
-  - 7\. Dünge- und Futtermittel, Sämereien, Pflanzenschutz- und Unkrautvertilgungsmittel sowie sonstige landwirtschaftliche Hilfsstoffe
-  - 8\. landwirtschaftlicher Pflanzenschutz, ausgenommen staatliche Kostenbeteiligung im Zusammenhang mit Hagel- und anderen Elementarschäden
-  - 9\. forstliches Saatgut und Forstpflanzen
-  - 10\. Kartoffelverwertung
-  - 11\. Tierseuchenbekämpfung
-  - 12\. Treibstoffvergünstigung für die Landwirtschaft
-  - 13\. Agrarstatistik
-- d) aus dem Bereich des Gesundheitswesens:
-  - 1\. Grenzsanitätsdienst
-  - 2\. Leichentransporte, ausgenommen solche innerhalb einer Gemeinde
-  - 3\. Arzneimittelwesen und Heilmittelverkehr
-  - 4\. Sera und Impfstoffe
-  - 5\. Arsenderivate
-  - 6\. Verkehr mit Giften
-  - 7\. Betäubungsmittelwesen
-  - 8\. Lebensmittel und Gebrauchsgegenstände
-  - 9\. Absinth und anisierte Getränke
-  - 10\. Kunstwein und Kunstmost
-- e) wirtschaftliche Kriegsvorsorge und Kriegswirtschaft (Versorgung der Zivilbevölkerung im Notstandsfall)
-- f) technische Kontrolle von Erzeugnissen der Uhrenindustrie
-- g) Umsatzsteuer
-- h) fiskalische Belastung des Tabaks
-- i) Steuern auf Bier und sonstigen Getränken, soweit in beiden Vertragsstaaten der Bund für die Gesetzgebung zuständig ist
-- k) gebrannte Wasser (Branntwein)
-- l) Steuern auf Erdöl, andere Mineralöle, Erdgas und die bei ihrer Verarbeitung gewonnenen Produkte sowie auf Treibstoffe aus anderen Ausgangsstoffen» sowie ein neuer Buchstabe
-- m) Einfuhr, Lieferung und Eigengebrauch von Automobilen im Sinne des schweizerischen Automobilsteuergesetzes[^2-1]
-- n) Kontrolle des Verkehrs mit Edelmetallen und Edelmetallwaren
-- o) Statistik des grenzüberschreitenden Warenverkehrs
-- p) staatsgefährliches Propagandamaterial
-- q) Herstellung von Münzen (einschliesslich Goldmünzen), die den schweizerischen Münzen in Gepräge, Gewicht oder Grösse gleich oder ähnlich sind
+**a. b. c.**
 
-<sup>1.1</sup> Die für diese Gegenstände in der Bundesrepublik Deutschland geltenden Rechts- und Verwaltungsvorschriften finden in Büsingen keine Anwendung.
+Zölle;
 
-<sup>2</sup> Soweit nach Abs. 1 schweizerisches Recht Anwendung findet und im folgenden nichts anderes bestimmt ist, steht Büsingen Schaffhauser Gebiet gleich und kommt der Gemeinde Büsingen am Hochrhein die gleiche Rechtsstellung wie einer Gemeinde des Kantons Schaffhausen zu.
+Ein-, Aus- und Durchfuhr von Waren;
 
-<sup>3</sup> Soweit nach den in Abs. 1 für anwendbar erklärten schweizerischen Rechts- und Verwaltungsvorschriften die Anwendung dieser Vorschriften oder die Erteilung von Bewilligungen an das Vorliegen von rechtlichen Voraussetzungen gebunden ist, die die Einwohner von Büsingen nicht erfüllen können, gelten diese Voraussetzungen als erfüllt, wenn sie nach den deutschen Rechtsvorschriften vorliegen oder nicht erforderlich sind.
+aus dem Bereich der Landwirtschaft:
 
-<sup>4</sup> Soweit nach Abs. 1 schweizerisches Recht Anwendung findet und im Folgenden nichts anderes bestimmt ist, wird es von schweizerischen Behörden vollzogen. Personen, die von den in Büsingen anzuwendenden schweizerischen Rechts- und Verwaltungsvorschriften oder durch den Vollzug solcher Vorschriften betroffen werden, stehen in bezug auf Rechtsbehelfe und Rechtsschutzinstanzen den schweizerischen Einwohnern des übrigen schweizerischen Zollgebietes gleich.
+- 1\. Brotgetreidewirtschaft;
 
-[^2-1]: SR [641.51](http://db.clex.ch/link/Bund/641.51/de).
+- 2\. Erhaltung des Ackerbaus und Anpassung der landwirtschaftlichen Produktion an die Absatzmöglichkeiten, ausgenommen Pflanzenzüchtung, Saatgutproduktion und Zuckerrüben;
+
+- 3\. Tierzucht;
+
+- 4\. Verwertung, Abnahme und Preise landwirtschaftlicher Erzeugnisse sowie sonstige Vergünstigungen;
+
+- 5\. Milch und Milchprodukte;
+
+- 6\. Geflügelhaltung und Eierwirtschaft;
+
+- 7\. Dünge- und Futtermittel, Sämereien, Pflanzenschutz- und Unkrautvertilgungsmittel sowie sonstige landwirtschaftliche Hilfsstoffe;
+
+- 8\. landwirtschaftlicher Pflanzenschutz, ausgenommen staatliche Kostenbeteiligung im Zusammenhang mit Hagel- und anderen Elementarschäden;
+
+- 9\. forstliches Saatgut und Forstpflanzen;
+
+- 10\. Kartoffelverwertung;
+
+- 11\. Tierseuchenbekämpfung;
+
+- 12\. Treibstoffvergünstigung für die Landwirtschaft;
+
+13.[^1-1] Agrarstatistik;
+
+**d.**
+
+aus dem Bereich des Gesundheitswesens:
+
+- 1\. Grenzsanitätsdienst;
+
+- 2\. Leichentransporte, ausgenommen solche innerhalb einer Gemeinde;
+
+- 3\. Arzneimittelwesen und Heilmittelverkehr;
+
+- 4\. Sera und Impfstoffe;
+
+- 5\. Arsenderivate;
+
+- 6\. Verkehr mit Giften;
+
+- 7\. Betäubungsmittelwesen;
+
+- 8\. Lebensmittel und Gebrauchsgegenstände;
+
+- 9\. Absinth und anisierte Getränke;
+
+- 10\. Kunstwein und Kunstmost;
+
+**e.**
+
+wirtschaftliche Kriegsvorsorge und Kriegswirtschaft (Versorgung der Zivilbevölkerung im Notstandsfall);
+
+- f. technische Kontrolle von Erzeugnissen der Uhrenindustrie;
+
+- g. Umsatzsteuer[^1-2];
+
+- h. fiskalische Belastung des Tabaks;
+
+- i. Steuern auf Bier und sonstigen Getränken, soweit in beiden Vertragsstaaten der Bund für die Gesetzgebung zuständig ist;
+
+- k. gebrannte Wasser (Branntwein);
+
+l.[^1-3] Steuern auf Erdöl, andere Mineralöle, Erdgas und die bei ihrer Verarbeitung gewonnenen Produkte sowie auf Treibstoffe aus anderen Ausgangsstoffen» sowie ein neuer Buchstabe;
+
+m.[^1-4] Einfuhr, Lieferung und Eigengebrauch von Automobilen im Sinne des schweizerischen Automobilsteuergesetzes[^1-5];
+
+n.[^1-6] Kontrolle des Verkehrs mit Edelmetallen und Edelmetallwaren;
+
+o.[^1-7] Statistik des grenzüberschreitenden Warenverkehrs;
+
+p.[^1-8] staatsgefährliches Propagandamaterial;
+
+q.[^1-9] Herstellung von Münzen (einschliesslich Goldmünzen), die den schweizerischen Münzen in Gepräge, Gewicht oder Grösse gleich oder ähnlich sind. Die für diese Gegenstände in der Bundesrepublik Deutschland geltenden Rechts- und Verwaltungsvorschriften finden in Büsingen keine Anwendung.
+
+(2) Soweit nach Absatz 1 schweizerisches Recht Anwendung findet und im folgenden nichts anderes bestimmt ist, steht Büsingen Schaffhauser Gebiet gleich und kommt der Gemeinde Büsingen am Hochrhein die gleiche Rechtsstellung wie einer Gemeinde des Kantons Schaffhausen zu.
+
+(3) Soweit nach den in Absatz 1 für anwendbar erklärten schweizerischen Rechts- und Verwaltungsvorschriften die Anwendung dieser Vorschriften oder die Erteilung von Bewilligungen an das Vorliegen von rechtlichen Voraussetzungen gebunden ist, die die Einwohner von Büsingen nicht erfüllen können, gelten diese Voraussetzungen als erfüllt, wenn sie nach den deutschen Rechtsvorschriften vorliegen oder nicht erforderlich sind.
+
+(4) Soweit nach Absatz 1 schweizerisches Recht Anwendung findet und im folgenden nichts anderes bestimmt ist, wird es von schweizerischen Behörden vollzogen. Personen, die von den in Büsingen anzuwendenden schweizerischen Rechts- und Verwaltungsvorschriften oder durch den Vollzug solcher Vorschriften betroffen werden, stehen in bezug auf Rechtsbehelfe und Rechtsschutzinstanzen den schweizerischen Einwohnern des übrigen schweizerischen Zollgebietes gleich.
+
+[^1-1]: Eingefügt durch Art. 1 des Abk. vom 19. März 1997, in Kraft seit 3. Sept. 1998 (AS 2001 1629).
+[^1-2]: Wort gemäss Art. 2 des Abk. vom 19. März 1997, in Kraft seit 3. Sept. 1998 (AS 2001 1629). Diese Änd. ist im ganzen Vertrag berücksichtigt.
+[^1-3]: Eingefügt durch Art. 3 des Abk. vom 19. März 1997, in Kraft seit 3. Sept. 1998 (AS 2001 1629).
+[^1-4]: Eingefügt durch Art. 3 des Abk. vom 19. März 1997, in Kraft seit 3. Sept. 1998 (AS 2001 1629).
+[^1-5]: SR 641.51
+[^1-6]: Ursprünglich Bst. l.
+[^1-7]: Ursprünglich Bst. m.
+[^1-8]: Ursprünglich Bst. n.
+[^1-9]: Ursprünglich Bst. o.
 
 #### Art. 3
 
-<sup>1</sup> Forderungen, die von schweizerischen Behörden auf Grund der in Art. 2 Abs. 1 genannten Vorschriften gegen Einwohner von Büsingen erhoben werden, werden auf Ersuchen der zuständigen schweizerischen Behörde von dem für Büsingen zuständigen deutschen Finanzamt nach den für die Beitreibung von Abgabenforderungen massgebenden deutschen Vorschriften beigetrieben.
+(1) Forderungen, die von schweizerischen Behörden auf Grund der in Artikel 2 Absatz 1 genannten Vorschriften gegen Einwohner von Büsingen erhoben werden, werden auf Ersuchen der zuständigen schweizerischen Behörde von dem für Büsingen zuständigen deutschen Finanzamt nach den für die Beitreibung von Abgabenforderungen massgebenden deutschen Vorschriften beigetrieben.
 
-<sup>2</sup> Grundlage für die Beitreibung in Gegenstände, an denen ein Zollpfandrecht nicht besteht, bildet die rechtskräftige und vollstreckbare Entscheidung der zuständigen schweizerischen Behörde. Auf der Entscheidung müssen die Zuständigkeit der entscheidenden Behörde, die Rechtskraft und die Vollstreckbarkeit von der gemäss Schlussprotokoll zu bezeichnenden schweizerischen Behörde bescheinigt sein.
+(2) Grundlage für die Beitreibung in Gegenstände, an denen ein Zollpfandrecht nicht besteht, bildet die rechtskräftige und vollstreckbare Entscheidung der zuständigen schweizerischen Behörde. Auf der Entscheidung müssen die Zuständigkeit der entscheidenden Behörde, die Rechtskraft und die Vollstreckbarkeit von der gemäss Schlussprotokoll zu bezeichnenden schweizerischen Behörde bescheinigt sein. (3) Die schweizerische Entscheidung unterliegt nicht der sachlichen Nachprüfung durch die deutschen Behörden. Stellen diese jedoch fest, dass die Entscheidung offensichtlich Unrichtigkeiten enthält, so können sie die Entscheidung der schweizerischen Behörde zurückgeben. Diese entscheidet endgültig und verbindlich über die Berichtigung.
 
-<sup>3</sup> Die schweizerische Entscheidung unterliegt nicht der sachlichen Nachprüfung durch die deutschen Behörden. Stellen diese jedoch fest, dass die Entscheidung offensichtlich Unrichtigkeiten enthält, so können sie die Entscheidung der schweizerischen Behörde zurückgeben. Diese entscheidet endgültig und verbindlich über die Berichtigung.
+(4) Einwendungen des Vollstreckungsschuldners gegen den Anspruch, dessen Erfüllung erzwungen werden soll, sind ausserhalb des Zwangsverfahrens vor der zuständigen schweizerischen Behörde zu verfolgen. Die Zwangsvollstreckung wird dadurch n icht aufgehalten, solange nicht die schweizerische Behörde um die Einstellung ersucht.
 
-<sup>4</sup> Einwendungen des Vollstreckungsschuldners gegen den Anspruch, dessen Erfüllung erzwungen werden soll, sind ausserhalb des Zwangsverfahrens vor der zuständigen schweizerischen Behörde zu verfolgen. Die Zwangsvollstreckung wird dadurch nicht aufgehalten, solange nicht die schweizerische Behörde um die Einstellung ersucht.
+(5) Die in Absatz 1 genannten Ansprüche schweizerischer Behörden stehen bei der Z wangsvollstreckung und im Konkurs entsprechenden Ansprüchen deutscher Behörden gleich.
 
-<sup>5</sup> Die in Abs. 1 genannten Ansprüche schweizerischer Behörden stehen bei der Zwangsvollstreckung und im Konkurs entsprechenden Ansprüchen deutscher Behörden gleich.
+(6) Besitzt ein Einwohner von Büsingen Vermögenswerte in der Schweiz, so kann d ie schweizerische Behörde gegen ihn wegen Forderungen gemäss Absatz 1 die Beitreibung (Betreibung) auch in der Schweiz nach schweizerischem Recht vornehmen. Hierbei gilt die Stadt Schaffhausen als Betreibungsort.
 
-<sup>6</sup> Besitzt ein Einwohner von Büsingen Vermögenswerte in der Schweiz, so kann die schweizerische Behörde gegen ihn wegen Forderungen gemäss Abs. 1 die Beitreibung (Betreibung) auch in der Schweiz nach schweizerischem Recht vornehmen. Hierbei gilt die Stadt Schaffhausen als Betreibungsort.
-
-### 1.2 Sonderregelungen
+### 2. Abschnitt Sonderregelungen
 
 #### Art. 4
 
-<sup>1</sup> Soll ein Gegenstand, an dem das schweizerische Zollpfandrecht besteht, dem Inhaber ohne seine Einwilligung weggenommen werden, so hat der ausführende schweizerische Zollbeamte einen deutschen Zollbeamten hinzuzuziehen, der darüber zu wachen hat, dass sich die Massnahme nicht von ihrem Zweck entfernt.
+Soll ein Gegenstand, an dem das schweizerische Zollpfandrecht besteht, dem Inhaber ohne seine Einwilligung weggenommen werden, so hat der ausführende schweizerische Zollbeamte einen deutschen Zollbeamten hinzuzuziehen, der darüber zu wachen hat, dass sich die Massnahme nicht von ihrem Zweck entfernt.
 
 #### Art. 5
 
-<sup>1</sup> Folgende aus dem deutschen Zollgebiet nach Büsingen verbrachten und von Büsingen in das deutsche Zollgebiet zurückgebrachten Waren, die aus dem freien deutschen Verkehr stammen, sind von schweizerischen Ein- und Ausgangsabgaben einschliesslich Umsatzsteuer sowie von wirtschaftlichen Ein- und Ausfuhrverboten und ‑beschränkungen befreit:
+(1) Folgende aus dem deutschen Zollgebiet nach Büsingen verbrachten und von Büsingen in das deutsche Zollgebiet zurückgebrachten Waren, die aus dem freien deutschen Verkehr stammen, sind von schweizerischen Ein- und Ausgangsabgaben einschliesslich Umsatzsteuer sowie von wirtschaftlichen Ein- und Ausfuhrverboten und -beschränkungen befreit:
 
-- 1\. Waren, die deutsche Bundes-, Landes- und Kreisbehörden zur Erfüllung ihrer öffentlichen Aufgaben in Büsingen benötigen, ausgenommen Lebensmittel, Genussmittel, Getränke und Futtermittel
-- 2\. amtliche Vordrucke (Formulare), Gesetzesblätter und Literatur, die die Gemeinde Büsingen am Hochrhein zur Erfüllung ihrer öffentlichen Aufgaben benötigt
-- 3\. Lehr- und Lernmittel für öffentliche Schulen, soweit ihre besondere Art von den deutschen Schulbehörden vorgeschrieben ist
-- 4\. andere Waren, welche die Gemeinde Büsingen am Hochrhein zur Erfüllung ihrer öffentlichen Aufgaben benötigt, sofern sie für diese Waren von einer deutschen öffentlich-rechtlichen Körperschaft ausserhalb von Büsingen einen Zuschuss erhält oder diese Waren auf Weisung ihrer zuständigen Aufsichtsbehörde im deutschen Zollgebiet beschaffen muss
+- 1\. Waren, die deutsche Bundes-, Landes- und Kreisbehörden zur Erfüllung ihrer öffentlichen Aufgaben in Büsingen benötigen, ausgenommen Lebensmittel, Genussmittel, Getränke und Futtermittel;
 
-<sup>2</sup> Von schweizerischen Eingangsabgaben und wirtschaftlichen Einfuhrverboten und ‑beschränkungen sind befreit Waren, die zum Pfandverkauf von deutschen Behörden oder Gerichtsvollziehern aus Büsingen in das deutsche Zollgebiet verbracht worden sind und unverkauft nach Büsingen zurückgebracht werden. Entrichtete schweizerische Ausgangsabgaben werden zurückerstattet. Die Erfüllung der Voraussetzungen ist durch amtliche Bescheinigung nachzuweisen.
+- 2\. amtliche Vordrucke (Formulare), Gesetzesblätter und Literatur, die die Gemeinde Büsingen am Hochrhein zur Erfüllung ihrer öffentlichen Aufgaben benötigt;
+
+- 3\. Lehr- und Lernmittel für öffentliche Schulen, soweit ihre besondere Art von den deutschen Schulbehörden vorgeschrieben ist;
+
+- 4\. andere Waren, welche die Gemeinde Büsingen am Hochrhein zur Erfüllung ihrer öffentlichen Aufgaben benötigt, sofern sie für diese Waren von einer deutschen öffentlich-rechtlichen Körperschaft ausserhalb von Büsingen einen Zuschuss erhält oder diese Waren auf Weisung ihrer zuständigen Aufsichtsbehörde im deutschen Zollgebiet beschaffen muss.
+
+(2) Von schweizerischen Eingangsabgaben und wirtschaftlichen Einfuhrverboten und -beschränkungen sind befreit Waren, die zum Pfandverkauf von deutschen Behörden oder Gerichtsvollziehern aus Büsingen in das deutsche Zollgebiet verbracht worden sind und unverkauft nach Büsingen zurückgebracht werden. Entrichtete schweizerische Ausgangsabgaben werden zurückerstattet. Die Erfüllung der Voraussetzungen ist durch amtliche Bescheinigung nachzuweisen.
 
 #### Art. 6
 
-<sup>1</sup> Die zuständige schweizerische Behörde erteilt für Büsingen die Milchverkaufsbewilligung ohne Berücksichtigung der Bedürfnisfrage.
+Die zuständige schweizerische Behörde erteilt für Büsingen die Milchverkaufsbewilligung ohne Berücksichtigung der Bedürfnisfrage.
 
 #### Art. 7
 
-<sup>1</sup> Die Errichtung neuer Geflügelhöfe und Geflügelfarmen mit 150 oder mehr ausgewachsenen Tieren oder die Erweiterung solcher Geflügelhöfe und Geflügelfarmen bedarf einer Bewilligung durch die zuständige schweizerische Behörde. Die Bewilligung kann nur aus Gründen des allgemeinen Wohls, insbesondere wenn die Errichtung oder Erweiterung den schweizerischen Markt gefährden würde, verweigert oder mit Auflagen verbunden werden.
+Die Errichtung neuer Geflügelhöfe und Geflügelfarmen mit 150 oder mehr ausgewachsenen Tieren oder die Erweiterung solcher Geflügelhöfe und Geflügelfarmen bedarf einer Bewilligung durch die zuständige schweizerische Behörde. Die Bewilligung kann nur aus Gründen des allgemeinen Wohls, insbesondere wenn die Errichtung oder Erweiterung den schweizerischen Markt gefährden würde, verweigert oder mit Auflagen verbunden werden.
 
 #### Art. 8
 
-<sup>1</sup> Die gemäss den Bestimmungen der schweizerischen Alkoholgesetzgebung betreffend die Kartoffelverwertung für die Übernahme in Betracht kommende Menge wird in dem Sinne begrenzt, dass nicht mehr Kartoffeln aus Büsingen in die Überschussverwertung einzubeziehen sind, als dies der Ablieferung aus Gemeinden des Kantons Schaffhausen mit ähnlichen Produktionsverhältnissen entspricht. Die zuständigen schweizerischen Behörden sind berechtigt, eine dementsprechende Höchstmenge festzusetzen.
+Die gemäss den Bestimmungen der schweizerischen Alkoholgesetzgebung betreffend die Kartoffelverwertung für die Übernahme in Betracht kommende Menge wird in dem Sinne begrenzt, dass nicht mehr Kartoffeln aus Büsingen in die Überschussverwertung einzubeziehen sind, als dies der Ablieferung aus Gemeinden des Kantons Schaffhausen mit ähnlichen Produktionsverhältnissen entspricht. Die zuständigen schweizerischen Behörden sind berechtigt, eine dementsprechende Höchstmenge festzusetzen.
 
 #### Art. 9
 
-<sup>1</sup> Die Erteilung der Erlaubnis zur Herstellung von Arzneimitteln, eingeschlossen Sera und Impfstoffe, ausserhalb der Apotheken richtet sich nur nach deutschem Recht. In Bezug auf den Einzelhandel mit Arzneimitteln ausserhalb der Apotheken findet das deutsche Recht Anwendung, soweit es strengere Bestimmungen enthält.
+Die Erteilung der Erlaubnis zur Herstellung von Arzneimitteln, eingeschlossen Sera und Impfstoffe, ausserhalb der Apotheken richtet sich nur nach deutschem Recht. In bezug auf den Einzelhandel mit Arzneimitteln ausserhalb der Apotheken findet das deutsche Recht Anwendung, soweit es strengere Bestimmungen enthält.
 
 #### Art. 10
 
-<sup>1</sup> Die nach deutschem Recht in Büsingen zur Berufsausübung zugelassenen Personen stehen hinsichtlich der Anwendung der schweizerischen Betäubungsmittelgesetzgebung den nach schweizerischem Recht zugelassenen Personen gleich.
+Die nach deutschem Recht in Büsingen zur Berufsausübung zugelassenen Personen stehen hinsichtlich der Anwendung der schweizerischen Betäubungsmittelgesetzgebung den nach schweizerischem Recht zugelassenen Personen gleich.
 
 #### Art. 11
 
-<sup>1</sup> Den bei einem in der Schweiz konzessionierten Lohnbrenner im Brennauftrag hergestellten Branntwein erhalten Einwohner von Büsingen, die Stoffbesitzer sind, zu ihrer Verfügung, nachdem sie die durch die schweizerische Alkoholverwaltung festzusetzende Steuer entrichtet haben.
+(1) Den bei einem in der Schweiz konzessionierten Lohnbrenner im Brennauftrag hergestellten Branntwein erhalten Einwohner von Büsingen, die Stoffbesitzer sind, zu ihrer Verfügung, nachdem sie die durch die schweizerische Alkoholverwaltung festzusetzende Steuer entrichtet haben.
 
-<sup>2</sup> Dem Produzenten, der als Landwirt einen Landwirtschaftsbetrieb führt und ausschliesslich Eigengewächs oder selbstgesammeltes Wildgewächs brennen lässt, wird für den Haushalt und den Landwirtschaftsbetrieb ein steuerfreier Eigenbedarf von zehn Litern (grössere Betriebe zwanzig Liter) Branntwein pauschal zugebilligt und bei der Steuerfestsetzung in Abzug gebracht.
+(2) Dem Produzenten, der als Landwirt einen Landwirtschaftsbetrieb führt und ausschliesslich Eigengewächs oder selbstgesammeltes Wildgewächs brennen lässt, wird für den Haushalt und den Landwirtschaftsbetrieb ein steuerfreier Eigenbedarf von zehn Litern (grössere Betriebe zwanzig Liter) Branntwein pauschal zugebilligt und bei der Steuerfestsetzung in Abzug gebracht.
 
-<sup>3</sup> In Büsingen werden die Funktionen der örtlichen Brennereiaufsichtsstellen durch die Brennereiaufsichtsstelle der Stadt Schaffhausen ausgeübt.
+(3) In Büsingen werden die Funktionen der örtlichen Brennereiaufsichtsstellen durch die Brennereiaufsichtsstelle der Stadt Schaffhausen ausgeübt.
 
 #### Art. 12
 
-<sup>1</sup> Personen, die ihren Wohnsitz in der Schweiz haben, sind in Büsingen zum Erwerb von Waffen, für die ein Waffenerwerbsschein erforderlich ist, nicht berechtigt, auch wenn sie einen Waffenerwerbsschein besitzen. Solche Waffen dürfen an sie nicht abgegeben werden.
+Personen, die ihren Wohnsitz in der Schweiz haben, sind in Büsingen zum Erwerb von Waffen, für die ein Waffenerwerbsschein erforderlich ist, nicht berechtigt, auch wenn sie einen Waffenerwerbsschein besitzen. Solche Waffen dürfen an sie nicht abgegeben werden.
 
 #### Art. 13
 
-<sup>1</sup> Eine Erlaubnis für die Herstellung von Pulver und Sprengstoffen, die nicht unter das Kriegswaffenkontrollgesetz fallen, berechtigt in Büsingen nur zur Herstellung dieser Erzeugnisse für den dortigen Bedarf. Eine Erlaubnis für den Vertrieb dieser Erzeugnisse berechtigt nur zur Abgabe für die Verwendung in Büsingen.
+Eine Erlaubnis für die Herstellung von Pulver und Sprengstoffen, die nicht unter das Kriegswaffenkontrollgesetz fallen, berechtigt in Büsingen nur zur Herstellung dieser Erzeugnisse für den dortigen Bedarf. Eine Erlaubnis für den Vertrieb dieser Erzeugnisse berechtigt nur zur Abgabe für die Verwendung in Büsingen.
 
 #### Art. 14
 
-<sup>1</sup> Eine Zuwiderhandlung auf den in Art. 2 Abs. 1 genannten Sachgebieten wird auch dann nach schweizerischem Recht beurteilt, wenn der massgebende Straftatbestand dem Schweizerischen Strafgesetzbuch[^14-1] zu entnehmen ist; sie ist nur nach schweizerischem Recht strafbar, auch soweit sie zugleich eine strafbare Handlung nach dem deutschen Strafgesetzbuch darstellt.
+(1) Eine Zuwiderhandlung auf den in Artikel 2 Absatz 1 genannten Sachgebieten wird auch dann nach schweizerischem Recht beurteilt, wenn der massgebende Straftatbestand dem Schweizerischen Strafgesetzbuch[^14-1] zu entnehmen ist; sie ist nur nach schweizerischem Recht strafbar, auch soweit sie zugleich eine strafbare Handlung nach dem deutschen Strafgesetzbuch darstellt.
 
-<sup>2</sup> Für die Gesamtstrafenbildung stehen schweizerische und deutsche Entscheidungen einander gleich. Die schweizerischen Behörden vollstrecken die von schweizerischen, die deutschen Behörden die von deutschen Gerichten verhängten Strafen. Jedoch darf in dem Staat, in dem zuletzt die Vollstreckung durchgeführt wird, nur der sich aus der Gesamtstrafenentscheidung ergebende Strafrest vollstreckt werden; eine bedingt erlassene oder bedingt ausgesetzte Strafe steht insoweit einer vollstreckten Strafe gleich.
+(2) Für die Gesamtstrafenbildung stehen schweizerische und deutsche Entscheidungen einander gleich. Die schweizerischen Behörden vollstrecken die von schweizerischen, die deutschen Behörden die von deutschen Gerichten verhängten Strafen. Jedoch darf in dem Staat, in dem zuletzt die Vollstreckung durchgeführt wird, nur der sich aus der Gesamtstrafenentscheidung ergebende Strafrest vollstreckt werden; eine bedingt erlassene oder bedingt ausgesetzte Strafe steht insoweit einer vollstreckten Strafe gleich.
 
-[^14-1]: SR [311.0](http://db.clex.ch/link/Bund/311.0/de).
+[^14-1]: SR 311.0
 
 #### Art. 15
 
-<sup>1</sup> Für in Büsingen von schweizerischen Behörden vorzunehmende Strafverfolgungshandlungen gelten die folgenden Besonderheiten:
+(1) Für in Büsingen von schweizerischen Behörden vorzunehmende Strafverfolgungshandlungen gelten die folgenden Besonderheiten:
 
-- a) Der wegen des Verdachts einer strafbaren Handlung Festgenommene ist spätestens am Tage nach der Festnahme dem zum Erlass von Haftbefehlen zuständigen Richter von Schaffhausen vorzuführen, der ihm die Gründe der Festnahme mitzuteilen, ihn zu vernehmen und ihm Gelegenheit zu Einwendungen zu geben und der hierauf unverzüglich einen mit Gründen versehenen schriftlichen Haftbefehl zu erlassen oder die Freilassung anzuordnen hat. Gegen die Verhaftung oder die Verweigerung der Haftentlassung ist gemäss der Strafprozessordnung für den Kanton Schaffhausen die Beschwerde an das Obergericht gegeben. Von jeder richterlichen Entscheidung über die Anordnung oder Fortdauer einer Haft ist unverzüglich ein Angehöriger des Festgehaltenen oder eine Person seines Vertrauens zu benachrichtigen. Die Verhaftung eines Deutschen ist dem Landratsamt Konstanz innerhalb 24 Stunden mitzuteilen
-- b) Die Durchsuchung einer Wohnung darf nur durch den nach Schaffhauser Recht zuständigen Richter angeordnet werden; ist Gefahr im Verzug, so darf eine Wohnung von den zuständigen Beamten auch ohne richterlichen Befehl durchsucht werden. Zu jeder Durchsuchung einer Wohnung ist ein deutscher Beamter beizuziehen, der darüber wacht, dass sich die Massnahme nicht von ihrem Zweck entfernt
-- c) Obliegt die Untersuchung nicht einer richterlichen Behörde, so darf der untersuchende Beamte Papiere und Handelsbücher nur einsehen, wenn und soweit ihm ein besonderes gesetzliches Nachschaurecht zusteht oder wenn es der Inhaber genehmigt. Auf Verlangen des Inhabers hat der Beamte die Papiere und Handelsbücher, deren Durchsicht er für geboten hält, in Gegenwart des Inhabers oder seines Vertreters mit dem Amtssiegel in einem Umschlag zu verschliessen und dem nach Schaffhauser Recht zuständigen Richter abzuliefern. Dieser hat Papiere und Handelsbücher, die für die Untersuchung Bedeutung haben, der untersuchenden Behörde auszuhändigen oder mitzuteilen, soweit nicht gesetzliche Hinderungsgründe bestehen
-- d) Will der zuständige schweizerische Beamte einen Gegenstand, der beschlagnahmt werden soll oder beschlagnahmt worden ist, dem Inhaber ohne seine Einwilligung wegnehmen, so hat der Beamte einen deutschen Beamten beizuziehen, der darüber wacht, dass sich die Massnahme nicht von ihrem Zweck entfernt
+- a. Der wegen des Verdachts einer strafbaren Handlung Festgenommene ist spätestens am Tage nach der Festnahme dem zum Erlass von Haftbefehlen zuständigen Richter von Schaffhausen vorzuführen, der ihm die Gründe der Festnahme mitzuteilen, ihn zu vernehmen und ihm Gelegenheit zu Einwendungen zu geben und der hierauf unverzüglich einen mit Gründen versehenen schriftlichen Haftbefehl zu erlassen oder die Freilassung anzuordnen hat. Gegen die Verhaftung oder die Verweigerung der Haftentlassung ist gemäss der Strafprozessordnung für den Kanton Schaffhausen die Beschwerde an das Obergericht gegeben.
 
-<sup>2</sup> Ist der nach Abs. 1 lit. b oder d beizuziehende deutsche Beamte der Auffassung, dass eine nach diesen Absätzen getroffene Massnahme des untersuchenden schweizerischen Beamten sich von ihrem Zweck entfernt, so entscheidet der Verhörrichter in Schaffhausen im Einvernehmen mit dem Landrat in Konstanz. Sichergestellte Gegenstände sind bis zu dieser Entscheidung auf dem Bürgermeisteramt in Büsingen zu hinterlegen.
+Von jeder richterlichen Entscheidung über die Anordnung oder Fortdauer einer Haft ist unverzüglich ein Angehöriger des Festgehaltenen oder eine Person seines Vertrauens zu benachrichtigen.
 
-<sup>3</sup> Kann nach dem schweizerischen Recht eine Strafverfügung der Verwaltung nur mit Verwaltungsbeschwerde angefochten werden, so hat der Betroffene, wenn er Einwohner von Büsingen ist und die Zuwiderhandlung in Büsingen begangen hat, das Recht, gegen die Strafverfügung des zuständigen Departements gemäss Art. 300 ff. des Bundesgesetzes über die Bundesstrafrechtspflege[^15-1] die gerichtliche Beurteilung anzurufen; der Gerichtsstand ist bei den für Schaffhausen zuständigen Gerichten begründet.
+Die Verhaftung eines Deutschen ist dem Landratsamt Konstanz innerhalb 24 Stunden mitzuteilen.
 
-<sup>4</sup> Hinsichtlich der Wiedergutmachung von zu Unrecht erlittenen Nachteilen finden die Bestimmungen des schweizerischen Rechts in gleicher Weise Anwendung wie in der Schweiz.
+- b. Die Durchsuchung einer Wohnung darf nur durch den nach Schaffhauser Recht zuständigen Richter angeordnet werden; ist Gefahr im Verzug, so darf eine Wohnung von den zuständigen Beamten auch ohne richterlichen Befehl durchsucht werden.
 
-[^15-1]: SR 312.0. Die Art. 279–326 wurden aufgehoben. Siehe heute das VStrR (SR [313.0](http://db.clex.ch/link/Bund/313.0/de)).
+Zu jeder Durchsuchung einer Wohnung ist ein deutscher Beamter beizuziehen, der darüber wacht, dass sich die Massnahme nicht von ihrem Zweck entfernt.
 
-## 2 Grenzübertritt; fremdenpolizeiliche, arbeitsrechtliche und gewerberechtliche Regelungen
+- c. Obliegt die Untersuchung nicht einer richterlichen Behörde, so darf der untersuchende Beamte Papiere und Handelsbücher nur einsehen, wenn und soweit ihm ein besonderes gesetzliches Nachschaurecht zusteht oder wenn es der Inhaber genehmigt. Auf Verlangen des Inhabers hat der Beamte die Papiere und Handelsbücher, deren Durchsicht er für geboten hält, in Gegenwart des Inhabers oder seines Vertreters mit dem Amtssiegel in einem Umschlag zu verschliessen und dem nach Schaffhauser Recht zuständigen Richter abzuliefern. Dieser hat Papiere und Handelsbücher, die für die Untersuchung Bedeutung haben, der untersuchenden Behörde auszuhändigen oder mitzuteilen, soweit nicht gesetzliche Hinderungsgründe bestehen.
+
+- d. Will der zuständige schweizerische Beamte einen Gegenstand, der beschlagnahmt werden soll oder beschlagnahmt worden ist, dem Inhaber ohne seine Einwilligung wegnehmen, so hat der Beamte einen deutschen Beamten beizuziehen, der darüber wacht, dass sich die Massnahme nicht von ihrem Zweck entfernt.
+
+(2) Ist der nach Absatz 1 Buchstabe b oder d beizuziehende deutsche Beamte der Auffassung, dass eine nach diesen Absätzen getroffene Massnahme des untersuchenden schweizerischen Beamten sich von ihrem Zweck entfernt, so entscheidet der Verhörrichter in Schaffhausen im Einvernehmen mit dem Landrat in Konstanz. Sichergestellte Gegenstände sind bis zu dieser Entscheidung auf dem Bürgermeisteramt in Büsingen zu hinterlegen.
+
+(3) Kann nach dem schweizerischen Recht eine Strafverfügung der Verwaltung nur mit Verwaltungsbeschwerde angefochten werden, so hat der Betroffene, wenn er Einwohner von Büsingen ist und die Zuwiderhandlung in Büsingen begangen hat, das Recht, gegen die Strafverfügung des zuständigen Departements gemäss Artikel 300 ff. des Bundesgesetzes über die Bundesstrafrechtspflege[^15-1] die gerichtliche Beurteilung anzurufen; der Gerichtsstand ist bei den für Schaffhausen zuständigen Gerichten begründet.
+
+(4) Hinsichtlich der Wiedergutmachung von zu Unrecht erlittenen Nachteilen finden die Bestimmungen des schweizerischen Rechts in gleicher Weise Anwendung wie in der Schweiz.
+
+[^15-1]: SR 312.0. Die Art. 279–326 wurden aufgehoben. Siehe heute das VStrR (SR 313.0).
+
+### II. Teil Grenzübertritt; fremdenpolizeiliche, arbeitsrechtliche und
+
+gewerberechtliche Regelungen
 
 #### Art. 16
 
-<sup>1</sup> Im Verkehr zwischen Büsingen und der Schweiz ist für Deutsche und Schweizerbürger ein Grenzübertrittspapier nicht erforderlich. Eine Grenzabfertigung findet nicht statt.
+(1) Im Verkehr zwischen Büsingen und der Schweiz ist für Deutsche und Schweizerbürger ein Grenzübertrittspapier nicht erforderlich. Eine Grenzabfertigung findet nicht statt.
 
-<sup>2</sup> Das Recht auf die Durchführung polizeilicher Kontrollen bleibt unberührt.
+(2) Das Recht auf die Durchführung polizeilicher Kontrollen bleibt unberührt.
 
 #### Art. 17
 
-<sup>1</sup> Deutsche, die die Voraussetzungen von Art. 19 Abs. 1 erfüllen, sind bei Arbeitsaufnahme in dem in Art. 19 bezeichneten schweizerischen Gebiet der schweizerischen grenzsanitarischen Überwachung nicht unterworfen. Desgleichen sind Deutsche, die sich aus dem übrigen Gebiet der Bundesrepublik Deutschland zur Arbeit nach Büsingen begeben, deswegen keiner schweizerischen grenzsanitarischen Überwachung unterworfen.
+(1) Deutsche, die die Voraussetzungen von Artikel 19 Absatz 1 erfüllen, sind bei Arbeitsaufnahme in dem in Artikel 19 bezeichneten schweizerischen Gebiet der schweizerischen grenzsanitarischen Überwachung nicht unterworfen. Desgleichen sind Deutsche, die sich aus dem übrigen Gebiet der Bundesrepublik Deutschland zur Arbeit nach Büsingen begeben, deswegen keiner schweizerischen grenzsanitarischen Überwachung unterworfen.
 
-<sup>2</sup> Deutsche mit Wohnsitz in Büsingen sind hinsichtlich der grenzsanitarischen Überwachung an der schweizerisch-deutschen Zollgrenze Schweizerbürgern mit Wohnsitz in der Schweiz gleichgestellt.
+(2) Deutsche mit Wohnsitz in Büsingen sind hinsichtlich der grenzsanitarischen Überwachung an der schweizerisch-deutschen Zollgrenze Schweizerbürgern mit Wohnsitz in der Schweiz gleichgestellt.
 
 #### Art. 18
 
-<sup>1</sup> Drittausländer, die für ihren Aufenthalt im Bundesgebiet eine Aufenthaltserlaubnis benötigen, bedürfen einer zusätzlichen Aufenthaltserlaubnis für den Aufenthalt in Büsingen, die das Landratsamt Konstanz nach Anhörung der zuständigen schweizerischen Behörden erteilt.
+Drittausländer, die für ihren Aufenthalt im Bundesgebiet eine Aufenthaltserlaubnis benötigen, bedürfen einer zusätzlichen Aufenthaltserlaubnis für den Aufenthalt in Büsingen, die das Landratsamt Konstanz nach Anhörung der zuständigen schweizerischen Behörden erteilt.
 
 #### Art. 19
 
-<sup>1</sup> Die in diesem Vertrag vorgesehenen fremdenpolizeilichen, arbeitsrechtlichen und gewerblichen Vergünstigungen stehen Deutschen, die die nachfolgenden Voraussetzungen erfüllen, im Kanton Schaffhausen sowie in den in der Anlage zu diesem Vertrag bezeichneten Gebieten der Kantone Thurgau und Zürich zu:
+(1) Die in diesem Vertrag vorgesehenen fremdenpolizeilichen, arbeitsrechtlichen und gewerblichen Vergünstigungen stehen Deutschen, die die nachfolgenden Voraussetzungen erfüllen, im Kanton Schaffhausen sowie in den in der Anlage zu diesem Vertrag bezeichneten Gebieten der Kantone Thurgau und Zürich zu.
 
-- a) Die Vergünstigungen werden allen Deutschen gewährt, die am 1. Januar 1963 in Büsingen Wohnsitz und Aufenthalt hatten und seither ununterbrochen beibehalten haben
-- b) Deutsche, die nach dem 1. Januar 1963 in Büsingen Wohnsitz und Aufenthalt genommen haben oder nehmen, erwerben den Anspruch auf die Vergünstigungen nach einem ununterbrochenen Aufenthalt in Büsingen von 10 Jahren. Beim unmittelbaren Zuzug eines Deutschen aus dem in Satz 1 bezeichneten schweizerischen Gebiet nach Büsingen wird die Zeit seines ununterbrochenen Aufenthaltes in diesem Gebiet auf die Wartefrist angerechnet, sofern er nicht fremdenpolizeilich aus der Schweiz weggewiesen worden ist oder die Voraussetzungen für eine solche Massnahme bei seinem Wegzug aus der Schweiz vorgelegen haben
-- c) Der Aufenthalt wird nicht als unterbrochen angesehen, wenn Büsingen zu einem seiner Natur nach vorübergehenden Zweck (z.B. Studium, Ausbildung, Wehrdienst) verlassen wird
-- d) Deutsche und deren Ehegatten sowie die im gemeinsamen Haushalt lebenden minderjährigen Kinder (einschliesslich Pflege- und Adoptivkinder) erlangen die Vergünstigungen ohne Wartezeit, wenn sie in Büsingen Wohnsitz und Aufenthalt nehmen, um:
-  - 1\. die eheliche Gemeinschaft mit einem in Büsingen wohnhaften Deutschen aufzunehmen
-  - 2\. auf einem durch Erbgang zufallenden Grundstück zu wohnen
-  - 3\. einen Erwerbsbetrieb weiterzuführen, den sie von in Büsingen wohnhaften Verwandten übernommen haben oder der ihnen durch Erbgang zugefallen ist
-  - 4\. den Erwerbsbetrieb eines nach Buchstaben a und b begünstigten Deutschen zu übernehmen und weiterzuführen, der diesen aus persönlichen Gründen nicht weiter betreiben kann, es sei denn, dass der bisherige Inhaber ein gleichwertiges Angebot eines begünstigten Deutschen ausgeschlagen hat
+- a. Die Vergünstigungen werden allen Deutschen gewährt, die am 1. Januar 1963 in Büsingen Wohnsitz und Aufenthalt hatten und seither ununterbrochen beibehalten haben.
 
-<sup>1.1</sup> Bei Zuzug aus anderen als den in den Ziff. 1 bis 3 erwähnten familiären Gründen wird die Zuerkennung der Vergünstigungen ohne Wartezeit oder vor deren Ablauf wohlwollend geprüft.
+- b. Deutsche, die nach dem 1. Januar 1963 in Büsingen Wohnsitz und Aufenthalt genommen haben oder nehmen, erwerben den Anspruch auf die Vergünstigungen nach einem ununterbrochenen Aufenthalt in Büsingen von 10 Jahren. Beim unmittelbaren Zuzug eines Deutschen aus dem in Satz 1 bezeichneten schweizerischen Gebiet nach Büsingen wird die Zeit seines ununterbrochenen Aufenthaltes in diesem Gebiet auf die Wartefrist angerechnet, sofern er nicht fremdenpolizeilich aus der Schweiz weggewiesen worden ist oder die Voraussetzungen für eine solche Massnahme bei seinem Wegzug aus der Schweiz vorgelegen haben.
 
-<sup>2</sup> Schweizerbürger erhalten in Büsingen diese Vergünstigungen, wenn sie in dem in Abs. 1 bezeichneten schweizerischen Gebiet Wohnsitz und Aufenthalt haben. Abs. 1 Buchstaben a bis d gelten entsprechend, wobei anstelle des Gebietes von Büsingen das in Abs. 1 bezeichnete schweizerische Gebiet tritt.
+- c. Der Aufenthalt wird nicht als unterbrochen angesehen, wenn Büsingen zu einem seiner Natur nach vorübergehenden Zweck (z. B. Studium, Ausbildung, Wehrdienst) verlassen wird.
+
+- d. Deutsche und deren Ehegatten sowie die im gemeinsamen Haushalt lebenden minderjährigen Kinder (einschliesslich Pflege- und Adoptivkinder) erlangen die Vergünstigungen ohne Wartezeit, wenn sie in Büsingen Wohnsitz und Aufenthalt nehmen, um
+
+- 1\. die eheliche Gemeinschaft mit einem in Büsingen wohnhaften Deutschen aufzunehmen;
+
+- 2\. auf einem durch Erbgang zufallenden Grundstück zu wohnen;
+
+- 3\. einen Erwerbsbetrieb weiterzuführen, den sie von in Büsingen wohnhaften Verwandten übernommen haben oder der ihnen durch Erbgang zugefallen ist;
+
+- 4\. den Erwerbsbetrieb eines nach Buchstaben a und b begünstigten Deutschen zu übernehmen und weiterzuführen, der diesen aus persönlichen Gründen nicht weiter betreiben kann, es sei denn, dass der bisherige Inhaber ein gleichwertiges Angebot eines begünstigten Deutschen ausgeschlagen hat.
+
+Bei Zuzug aus anderen als den in den Ziffern 1 bis 3 erwähnten familiären Gründen wird die Zuerkennung der Vergünstigungen ohne Wartezeit oder vor deren Ablauf wohlwollend geprüft.
+
+(2) Schweizerbürger erhalten in Büsingen diese Vergünstigungen, wenn sie in dem in Absatz 1 bezeichneten schweizerischen Gebiet Wohnsitz und Aufenthalt haben. Absatz 1 Buchstaben a bis d gelten entsprechend, wobei anstelle des Gebietes von Büsingen das in Absatz 1 bezeichnete schweizerische Gebiet tritt.
 
 #### Art. 20
 
-<sup>1</sup>
+(1) a. Deutsche, die die Voraussetzungen des Artikels 19 Absatz 1 erfüllen, erhalten auf Gesuch hin die fremdenpolizeiliche Bewilligung, in dem in Artikel 19 bezeichneten schweizerischen Gebiet unter den gleichen Voraussetzungen wie Schweizerbürger als Arbeitnehmer tätig zu sein. Berufe, die von Gesetzes wegen Schweizerbürgern vorbehalten sind, bleiben ausgenommen.
 
-- a) Deutsche, die die Voraussetzungen des Art. 19 Abs. 1 erfüllen, erhalten auf Gesuch hin die fremdenpolizeiliche Bewilligung, in dem in Art. 19 bezeichneten schweizerischen Gebiet unter den gleichen Voraussetzungen wie Schweizerbürger als Arbeitnehmer tätig zu sein. Berufe, die von Gesetzes wegen Schweizerbürgern vorbehalten sind, bleiben ausgenommen
-- b) Sie werden in gleicher Weise wie Schweizerbürger zu Lehrstellen in jedem Beruf, soweit er nicht von Gesetzes wegen Schweizerbürgern vorbehalten ist, zugelassen und erhalten die erforderliche fremdenpolizeiliche Bewilligung
-- c) Die öffentliche Stellenvermittlung steht ihnen im Rahmen ihrer Sonderstellung in gleicher Weise wie Schweizerbürgern offen. Die Möglichkeit, sich selbst eine Arbeitsstelle zu suchen, wird hierdurch nicht berührt
+- b. Sie werden in gleicher Weise wie Schweizerbürger zu Lehrstellen in jedem Beruf, soweit er nicht von Gesetzes wegen Schweizerbürgern vorbehalten ist, zugelassen und erhalten die erforderliche fremdenpolizeiliche Bewilligung.
 
-<sup>2</sup> Schweizerbürger, die die Voraussetzungen des Art. 19 Abs. 2 erfüllen, erhalten für die Ausübung einer unselbständigen Tätigkeit in Büsingen die gleichen Vergünstigungen, die Deutschen mit Wohnsitz und Aufenthalt in Büsingen unter den Voraussetzungen des Art. 19 Abs. 1 für eine entsprechende Tätigkeit in der Schweiz eingeräumt werden. Berufe, die von Gesetzes wegen Deutschen vorbehalten sind, bleiben ausgenommen.
+- c. Die öffentliche Stellenvermittlung steht ihnen im Rahmen ihrer Sonderstellung in gleicher Weise wie Schweizerbürgern offen. Die Möglichkeit, sich
 
-<sup>3</sup>
+selbst eine Arbeitsstelle zu suchen, wird hierdurch nicht berührt.
 
-- a) Die Bewilligung wird für fünf Jahre erteilt. Nach Ablauf der Geltungsdauer wird sie auf Antrag jeweils um die gleiche Dauer verlängert
-- b) Die Erteilung oder Verlängerung der Arbeitsbewilligung kann verweigert, eine erteilte Bewilligung kann widerrufen werden, wenn:
-  - 1\. nach schweizerischem Recht oder für schweizerische Grenzgänger in Büsingen nach deutschem Recht die Voraussetzungen für den Erlass einer Ausweisungsverfügung oder einer Einreisesperre erfüllt sind
-  - 2\. Die Bewilligung durch falsche Angaben über für die Bewilligung massgebliche Tatsachen erschlichen wurde
+(2) Schweizerbürger, die die Voraussetzungen des Artikels 19 Absatz 2 erfüllen, erhalten für die Ausübung einer unselbständigen Tätigkeit in Büsingen die gleichen Vergünstigungen, die Deutschen mit Wohnsitz und Aufenthalt in Büsingen unter den Voraussetzungen des Artikels 19 Absatz 1 für eine entsprechende Tätigkeit in der Schweiz eingeräumt werden. Berufe, die von Gesetzes wegen Deutschen vorbehalten sind, bleiben ausgenommen.
+
+(3) a. Die Bewilligung wird für fünf Jahre erteilt. Nach Ablauf der Geltungsdauer wird sie auf Antrag jeweils um die gleiche Dauer verlängert.
+
+- b. Die Erteilung oder Verlängerung der Arbeitsbewilligung kann verweigert, eine erteilte Bewilligung kann widerrufen werden, wenn
+
+- 1\. nach schweizerischem Recht oder für schweizerische Grenzgänger in Büsingen nach deutschem Recht die Voraussetzungen für den Erlass einer Ausweisungsverfügung oder einer Einreisesperre erfüllt sind;
+
+- 2\. Die Bewilligung durch falsche Angaben über für die Bewilligung massgebliche Tatsachen erschlichen wurde.
 
 #### Art. 21
 
-<sup>1</sup> In Büsingen wohnende, in der Schweiz erwerbstätige Arbeitnehmer sind in bezug auf die nach den eidgenössischen und kantonalen Gesetzgebungen gewährten Familienzulagen den in der Schweiz wohnenden Arbeitnehmern gleichgestellt.
+(1) In Büsingen wohnende, in der Schweiz erwerbstätige Arbeitnehmer sind in bezug auf die nach den eidgenössischen und kantonalen Gesetzgebungen gewährten Familienzulagen den in der Schweiz wohnenden Arbeitnehmern gleichgestellt.
 
-<sup>2</sup> In der Schweiz wohnende, in Büsingen erwerbstätige Arbeitnehmer sind in bezug auf die nach der deutschen Kindergeldgesetzgebung zu gewährenden Leistungen den in Büsingen wohnenden Arbeitnehmern gleichgestellt.
+(2) In der Schweiz wohnende, in Büsingen erwerbstätige Arbeitnehmer sind in bezug auf die nach der deutschen Kindergeldgesetzgebung zu gewährenden Leistungen den in Büsingen wohnenden Arbeitnehmern gleichgestellt.
 
 #### Art. 22
 
-<sup>1</sup>
+(1) a. Deutsche, die in Büsingen eine selbständige Erwerbstätigkeit befugt ausüben und die Voraussetzungen des Artikels 19 Absatz 1 erfüllen, erhalten auf Gesuch hin die fremdenpolizeiliche Bewilligung, in dem in Artikel 19 bezeichneten schweizerischen Gebiet ihre Erwerbstätigkeit ohne Begründung einer gewerblichen Niederlassung unter den für Schweizerbürger geltenden Voraussetzungen auszuüben. Erwerbstätigkeiten, die von Gesetzes wegen Schweizerbürgern vorbehalten sind, bleiben ausgenommen.
 
-- a) Deutsche, die in Büsingen eine selbständige Erwerbstätigkeit befugt ausüben und die Voraussetzungen des Art. 19 Abs. 1 erfüllen, erhalten auf Gesuch hin die fremdenpolizeiliche Bewilligung, in dem in Art. 19 bezeichneten schweizerischen Gebiet ihre Erwerbstätigkeit ohne Begründung einer gewerblichen Niederlassung unter den für Schweizerbürger geltenden Voraussetzungen auszuüben. Erwerbstätigkeiten, die von Gesetzes wegen Schweizerbürgern vorbehalten sind, bleiben ausgenommen
-- b) Die Bewilligung erhalten auch ihre Arbeitnehmer und die im Unternehmen mitarbeitenden Familienangehörigen, sofern sie die Voraussetzungen des Art. 19 Abs. 1 erfüllen. Auch wenn diese Voraussetzungen nicht vorliegen, wird die Bewilligung erteilt, sofern nicht schwerwiegende Gründe entgegenstehen
-- c) Der Ausübung einer selbständigen Erwerbstätigkeit gemäss lit. a ist gleichgestellt die Tätigkeit für juristische Personen, Handelsgesellschaften sowie für alle anderen Gesellschaften, für Genossenschaften und sonstige Vereinigungen mit Sitz in Büsingen, an denen Personen, die die Voraussetzungen des Art. 19 Abs. 1 erfüllen, ein überwiegendes wirtschaftliches Interesse haben
-- d) Die Bewilligung gemäss den Buchstaben a bis c wird für fünf Jahre erteilt. Nach Ablauf der Geltungsdauer wird sie auf Gesuch hin jeweils um die gleiche Dauer verlängert
-- e) Die Bewilligung gemäss den Buchstaben a bis c kann verweigert oder widerrufen werden, wenn die Sonderstellung von Büsingen missbräuchlich ausgenutzt wird
+- b. Die Bewilligung erhalten auch ihre Arbeitnehmer und die im Unternehmen mitarbeitenden Familienangehörigen, sofern sie die Voraussetzungen des Artikels 19 Absatz 1 erfüllen. Auch wenn diese Voraussetzungen nicht vorliegen, wird die Bewilligung erteilt, sofern nicht schwerwiegende Gründe entgegenstehen.
 
-<sup>2</sup>
+- c. Der Ausübung einer selbständigen Erwerbstätigkeit gemäss Buchstabe a ist gleichgestellt die Tätigkeit für juristische Personen, Handelsgesellschaften sowie für alle anderen Gesellschaften, für Genossenschaften und sonstige Vereinigungen mit Sitz in Büsingen, an denen Personen, die die Voraussetzungen des Artikels 19 Absatz 1 erfüllen, ein überwiegendes wirtschaftliches Interesse haben.
 
-- a) Schweizerbürger, die in dem in Art. 19 bezeichneten Gebiet eine selbständige Erwerbstätigkeit befugt ausüben und die Voraussetzungen des Art. 19 Abs. 2 erfüllen, werden zur Ausübung ihrer Erwerbstätigkeit in Büsingen ohne Begründung einer gewerblichen Niederlassung unter den für Deutsche geltenden Voraussetzungen zugelassen. Der Beginn einer Erwerbstätigkeit ist dem Bürgermeisteramt in Büsingen anzuzeigen. Erwerbstätigkeiten, die Deutschen von Gesetzes wegen vorbehalten sind, bleiben ausgenommen
-- b) Die Arbeitserlaubnis erhalten auch ihre Arbeitnehmer und die im Unternehmen mitarbeitenden Familienangehörigen, sofern sie die Voraussetzungen des Art. 19 Abs. 2 erfüllen. Auch wenn diese Voraussetzungen nicht vorliegen, wird die Arbeitserlaubnis erteilt, sofern nicht schwerwiegende Gründe entgegenstehen
-- c) Der Ausübung einer selbständigen Erwerbstätigkeit gemäss lit. a ist gleichgestellt die Tätigkeit juristischer Personen, Handelsgesellschaften sowie aller anderen Gesellschaften, Genossenschaften und sonstiger Vereinigungen mit Sitz in dem in Art. 19 bezeichneten schweizerischen Gebiet, an denen solche Personen ein überwiegendes wirtschaftliches Interesse haben, die die Voraussetzungen des Art. 19 Abs. 2 erfüllen
-- d) Die Anzeige gemäss lit. a berechtigt ohne besondere gewerberechtliche Erlaubnis zur Ausübung der gewerblichen Tätigkeit in Büsingen für die Dauer von fünf Jahren nach Erstattung der Anzeige. Die Anzeige ist nach Ablauf dieses Zeitraumes zu wiederholen, wenn die Tätigkeit in Büsingen fortgesetzt werden soll
-- e) Die Ausübung einer selbständigen Erwerbstätigkeit kann untersagt werden, wenn die Vergünstigungen missbräuchlich ausgenutzt werden
+- d. Die Bewilligung gemäss den Buchstaben a bis c wird für fünf Jahre erteilt. Nach Ablauf der Geltungsdauer wird sie auf Gesuch hin jeweils um die gleiche Dauer verlängert.
+
+- e. Die Bewilligung gemäss den Buchstaben a bis c kann verweigert oder widerrufen werden, wenn die Sonderstellung von Büsingen missbräuchlich ausgenutzt wird.
+
+(2) a. Schweizerbürger, die in dem in Artikel 19 bezeichneten Gebiet eine selbständige Erwerbstätigkeit befugt ausüben und die Voraussetzungen des Artikels 19 Absatz 2 erfüllen, werden zur Ausübung ihrer Erwerbstätigkeit in Büsingen ohne Begründung einer gewerblichen Niederlassung unter den für Deutsche geltenden Voraussetzungen zugelassen. Der Beginn einer Erwerbstätigkeit ist dem Bürgermeisteramt in Büsingen anzuzeigen. Erwerbstätigkeiten, die Deutschen von Gesetzes wegen vorbehalten sind, bleiben ausgenommen.
+
+- b. Die Arbeitserlaubnis erhalten auch ihre Arbeitnehmer und die im Unternehmen mitarbeitenden Familienangehörigen, sofern sie die Voraussetzungen des Artikels 19 Absatz 2 erfüllen. Auch wenn diese Voraussetzungen nicht vorliegen, wird die Arbeitserlaubnis erteilt, sofern nicht schwerwiegende Gründe entgegenstehen.
+
+- c. Der Ausübung einer selbständigen Erwerbstätigkeit gemäss Buchstabe a ist gleichgestellt die Tätigkeit juristischer Personen, Handelsgesellschaften sowie aller anderen Gesellschaften, Genossenschaften und sonstiger Vereinigungen mit Sitz in dem in Artikel 19 bezeichneten schweizerischen Gebiet, an denen solche Personen ein überwiegendes wirtschaftliches Interesse haben, die die Voraussetzungen des Artikels 19 Absatz 2 erfüllen.
+
+- d. Die Anzeige gemäss Buchstabe a berechtigt ohne besondere gewerberechtliche Erlaubnis zur Ausübung der gewerblichen Tätigkeit in Büsingen für die Dauer von fünf Jahren nach Erstattung der Anzeige. Die Anzeige ist nach Ablauf dieses Zeitraumes zu wiederholen, wenn die Tätigkeit in Büsingen fortgesetzt werden soll.
+
+- e. Die Ausübung einer selbständigen Erwerbstätigkeit kann untersagt werden, wenn die Vergünstigungen missbräuchlich ausgenutzt werden.
 
 #### Art. 23
 
-<sup>1</sup> Motorfahrzeuge und Anhänger mit Standort in Büsingen erhalten deutsche Kennzeichen mit einem besonderen, den Standort Büsingen anzeigenden Merkmal. Die zuständige deutsche Zulassungsstelle unterrichtet die Zollkreisdirektion Schaffhausen über jede Zulassung eines solchen Fahrzeuges.
+(1) Motorfahrzeuge und Anhänger mit Standort in Büsingen erhalten deutsche Kennzeichen mit einem besonderen, den Standort Büsingen anzeigenden Merkmal. Die zuständige deutsche Zulassungsstelle unterrichtet die Zollkreisdirektion Schaffhausen über jede Zulassung eines solchen Fahrzeuges.
 
-<sup>2</sup> Motorfahrzeuge und Anhänger mit Standort in Büsingen sind für den Verkehr nach, von und in der Schweiz den schweizerischen Fahrzeugen gleichgestellt. Motorfahrzeuge und Anhänger des gewerbsmässigen Personen- und Güterverkehrs mit Standort in Büsingen, die Personen gehören, welche die Voraussetzungen des Art. 19 Abs. 1 erfüllen, erhalten durch die zuständigen Behörden des Kantons Schaffhausen die Bewilligung zum Verkehr in der Schweiz. Diese Bewilligung kann verweigert werden, wenn der Bestand an solchen Fahrzeugen in Büsingen sich unverhältnismässig erhöhen oder wenn die Sonderstellung von Büsingen missbräuchlich ausgenutzt würde.
+(2) Motorfahrzeuge und Anhänger mit Standort in Büsingen sind für den Verkehr nach, von und in der Schweiz den schweizerischen Fahrzeugen gleichgestellt. Motorfahrzeuge und Anhänger des gewerbsmässigen Personen- und Güterverkehrs mit Standort in Büsingen, die Personen gehören, welche die Voraussetzungen des Artikels 19 Absatz 1 erfüllen, erhalten durch die zuständigen Behörden des Kantons Schaffhausen die Bewilligung zum Verkehr in der Schweiz. Diese Bewilligung kann verweigert werden, wenn der Bestand an solchen Fahrzeugen in Büsingen sich unverhältnismässig erhöhen oder wenn die Sonderstellung von Büsingen missbräuchlich ausgenutzt würde.
 
-<sup>3</sup> Bestehende und zukünftige schweizerisch-deutsche Vereinbarungen über den grenzüberschreitenden Personen- und Güterverkehr gelten, mit Ausnahme von Bestimmungen über den Linienverkehr – einschliesslich Ferienziel-Reiseverkehr (Pendelverkehr) – , soweit nichts anderes bestimmt ist, nicht für Beförderungen zwischen der Bundesrepublik Deutschland und Büsingen auf den Strassen Büsingen–Neudörflingen–Randegg und Büsingen–Dörflingen / Loog–Gailingen sowie auf dem Rhein.
+(3) Bestehende und zukünftige schweizerisch-deutsche Vereinbarungen über den grenzüberschreitenden Personen- und Güterverkehr gelten, mit Ausnahme von Bestimmungen über den Linienverkehr – einschliesslich Ferienziel-Reiseverkehr (Pendelverkehr) –, soweit nichts anderes bestimmt ist, nicht für Beförderungen zwischen der Bundesrepublik Deutschland und Büsingen auf den Strassen Büsingen–Neudörflingen–Randegg und Büsingen–Dörflingen/Loog–Gailingen sowie auf dem Rhein.
 
-## 3 Verfolgung wegen Zuwiderhandlungen auf den nicht in Art. 2 aufgeführten Sachgebieten: Rechtshilfe
+### III. Teil Verfolgung wegen Zuwiderhandlungen auf den nicht in Artikel 2
+
+aufgeführten Sachgebieten: Rechtshilfe
 
 #### Art. 24
 
-<sup>1</sup> Die Strafhoheit der Vertragsstaaten, insbesondere hinsichtlich der auf ihrem Gebiet begangenen strafbaren Handlungen, bleibt grundsätzlich unberührt.
+(1) Die Strafhoheit der Vertragsstaaten, insbesondere hinsichtlich der auf ihrem Gebiet begangenen strafbaren Handlungen, bleibt grundsätzlich unberührt.
 
-<sup>2</sup> Für Handlungen eines Einwohners der Schweiz, die in Büsingen begangen werden und nach den dort anwendbaren deutschen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist.
+(2) Für Handlungen eines Einwohners der Schweiz, die in Büsingen begangen werden und nach den dort anwendbaren deutschen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist.
 
-<sup>3</sup> Für Handlungen eines Einwohners von Büsingen, die in der Schweiz begangen werden und nach schweizerischen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Bundesrepublik Deutschland stellvertretend das deutsche Strafrecht, sofern es nicht ohnehin anwendbar ist.
+(3) Für Handlungen eines Einwohners von Büsingen, die in der Schweiz begangen werden und nach schweizerischen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Bundesrepublik Deutschland stellvertretend das deutsche Strafrecht, sofern es nicht ohnehin anwendbar ist.
 
-<sup>4</sup> Für Handlungen eines Einwohners von Büsingen schweizerischer Staatsangehörigkeit, die in der Bundesrepublik Deutschland begangen werden und nach den deutschen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist.
+(4) Für Handlungen eines Einwohners von Büsingen schweizerischer Staatsangehörigkeit, die in der Bundesrepublik Deutschland begangen werden und nach den deutschen Vorschriften geahndet werden können, gilt bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist. (5) Für Handlungen eines Schweizerbürgers, die in der Bundesrepublik Deutschland begangen werden und nach den deutschen Vorschriften geahndet werden können, gilt, wenn der Beschuldigte, ohne Einwohner von Büsingen zu sein, dort festgenommen wird, bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist.
 
-<sup>5</sup> Für Handlungen eines Schweizerbürgers, die in der Bundesrepublik Deutschland begangen werden und nach den deutschen Vorschriften geahndet werden können, gilt, wenn der Beschuldigte, ohne Einwohner von Büsingen zu sein, dort festgenommen wird, bei einer Verfolgung in der Schweiz stellvertretend das schweizerische Strafrecht, sofern es nicht ohnehin anwendbar ist.
-
-<sup>6</sup> Ausgenommen von den Bestimmungen der Abs. 2 bis 5 sind Handlungen militärischen, fiskalischen oder vorwiegend politischen Charakters.
+(6) Ausgenommen von den Bestimmungen der Absätze 2 bis 5 sind Handlungen militärischen, fiskalischen oder vorwiegend politischen Charakters.
 
 #### Art. 25
 
-<sup>1</sup> Jeder Vertragsstaat ist verpflichtet, soweit nach Art. 24 stellvertretend sein Strafrecht gilt, auf Ersuchen des anderen Vertragsstaates die auf dessen Gebiet begangenen Zuwiderhandlungen nach Massgabe seiner Gesetze zu verfolgen, wenn der Täter zur Zeit der Stellung des Ersuchens sich im Gebiet des ersuchten Staates dauernd aufhält, sich der Strafgewalt des ersuchenden Staates nicht unterzieht und nicht ausgeliefert wird.
+(1) Jeder Vertragsstaat ist verpflichtet, soweit nach Artikel 24 stellvertretend sein Strafrecht gilt, auf Ersuchen des anderen Vertragsstaates die auf dessen Gebiet begangenen Zuwiderhandlungen nach Massgabe seiner Gesetze zu verfolgen, wenn der Täter zur Zeit der Stellung des Ersuchens sich im Gebiet des ersuchten Staates dauernd aufhält, sich der Strafgewalt des ersuchenden Staates nicht unterzieht und nicht ausgeliefert wird.
 
-<sup>2</sup> Soweit nach Art. 24 stellvertretend schweizerisches Strafrecht gilt, besteht für die Schweiz die Verpflichtung zur Übernahme der Strafverfolgung von Schweizerbürgern, die nicht zugleich Deutsche sind, auch dann, wenn der Beschuldigte sich in Büsingen aufhält. Eines förmlichen Übernahmeersuchens bedarf es in diesem Falle nicht.
+(2) Soweit nach Artikel 24 stellvertretend schweizerisches Strafrecht gilt, besteht für die Schweiz die Verpflichtung zur Übernahme der Strafverfolgung von Schweizerbürgern, die nicht zugleich Deutsche sind, auch dann, wenn der Beschuldigte sich in Büsingen aufhält. Eines förmlichen Übernahmeersuchens bedarf es in diesem Falle nicht.
 
-<sup>3</sup> Ist der Beschuldigte ein Einwohner von Büsingen, der Schweizerbürger ist, ohne Deutscher zu sein, und ist für die Tat nicht allein Geldstrafe oder Geldbusse angedroht, so ist die Bundesrepublik Deutschland nicht verpflichtet, die Strafverfolgung nach Abs. 1 zu übernehmen.
+(3) Ist der Beschuldigte ein Einwohner von Büsingen, der Schweizerbürger ist, ohne Deutscher zu sein, und ist für die Tat nicht allein Geldstrafe oder Geldbusse angedroht, so ist die Bundesrepublik Deutschland nicht verpflichtet, die Strafverfolgung nach Absatz 1 zu übernehmen.
 
-<sup>4</sup> Dem Ersuchen werden die Akten in Unterschrift oder beglaubigter Abschrift, etwaige Beweisgegenstände und eine Darstellung des Sachverhalts beigefügt, ferner eine Abschrift der Bestimmungen, die nach dem Recht des ersuchenden Staates auf die Tat anzuwenden wären.
+(4) Dem Ersuchen werden die Akten in Unterschrift oder beglaubigter Abschrift, etwaige Beweisgegenstände und eine Darstellung des Sachverhalts beigefügt, ferner eine Abschrift der Bestimmungen, die nach dem Recht des ersuchenden Staates auf die Tat anzuwenden wären.
 
-<sup>5</sup> Das Ersuchen kann unmittelbar von der Strafverfolgungsbehörde des einen Vertragsstaates an die Strafverfolgungsbehörde des anderen Vertragsstaates gerichtet werden. Ist die ersuchte Behörde nicht zuständig, so leitet sie das Ersuchen an die zuständige Stelle weiter und verständigt hiervon die ersuchende Behörde.
+(5) Das Ersuchen kann unmittelbar von der Strafverfolgungsbehörde des einen Vertragsstaates an die Strafverfolgungsbehörde des anderen Vertragsstaates gerichtet werden. Ist die ersuchte Behörde nicht zuständig, so leitet sie das Ersuchen an die zuständige Stelle weiter und verständigt hiervon die ersuchende Behörde.
 
-<sup>6</sup> Die ersuchte Strafverfolgungsbehörde teilt der ersuchenden Behörde sobald wie möglich das von ihr Veranlasste mit und übermittelt ihr zu gegebener Zeit eine Ausfertigung oder beglaubigte Abschrift der abschliessenden Entscheidung. Die überlassenen Gegenstände werden nach Abschluss des Verfahrens der ersuchenden Behörde zurückgegeben, sofern nicht darauf verzichtet wird.
+(6) Die ersuchte Strafverfolgungsbehörde teilt der ersuchenden Behörde sobald wie möglich das von ihr Veranlasste mit und übermittelt ihr zu gegebener Zeit eine Ausfertigung oder beglaubigte Abschrift der abschliessenden Entscheidung. Die überlassenen Gegenstände werden nach Abschluss des Verfahrens der ersuchenden Behörde zurückgegeben, sofern nicht darauf verzichtet wird.
 
-<sup>7</sup> Die nach Art. 24 Abs. 2 bis 5 stellvertretend ergehenden Entscheidungen des einen Vertragsstaates stehen den Entscheidungen des anderen Vertragsstaates gleich. Art. 14 Abs. 2 ist entsprechend anwendbar.
+(7) Die nach Artikel 24 Absätze 2 bis 5 stellvertretend ergehenden Entscheidungen des einen Vertragsstaates stehen den Entscheidungen des anderen Vertragsstaates gleich. Artikel 14 Absatz 2 ist entsprechend anwendbar.
 
-<sup>8</sup> Kosten, die in einem auf Grund der Bestimmungen dieses Artikels durchgeführten Verfahren entstehen, werden nicht erstattet.
+(8) Kosten, die in einem auf Grund der Bestimmungen dieses Artikels durchgeführten Verfahren entstehen, werden nicht erstattet.
 
 #### Art. 26
 
-<sup>1</sup> Leistet ein Zeuge, der sich in Büsingen aufhält, in einem im Rahmen dieses Teils durchgeführten Verfahren einer ordnungsgemässen Vorladung der schweizerischen Behörde keine Folge, so kann diese Behörde das für Büsingen zuständige Amtsgericht ersuchen, die nach der deutschen Strafprozessordnung in Betracht kommenden Massnahmen anzuordnen. Ordnet das Amtsgericht die Vorführung des Zeugen an, so veranlasst es dessen Überstellung an die schweizerische Behörde.
+(1) Leistet ein Zeuge, der sich in Büsingen aufhält, in einem im Rahmen dieses Teils durchgeführten Verfahren einer ordnungsgemässen Vorladung der schweizerischen Behörde keine Folge, so kann diese Behörde das für Büsingen zuständige Amtsgericht ersuchen, die nach der deutschen Strafprozessordnung in Betracht kommenden Massnahmen anzuordnen. Ordnet das Amtsgericht die Vorführung des Zeugen an, so veranlasst es dessen Überstellung an die schweizerische Behörde.
 
-<sup>2</sup> Kein Zeuge oder Sachverständiger, gleich welcher Staatsangehörigkeit, der in einem im Rahmen dieses Teiles durchgeführten Verfahren nach Vorladung vor der schweizerischen Behörde erscheint, darf von den schweizerischen Behörden wegen Handlungen oder Verurteilungen oder aus anderen, von seiner Ausreise aus dem deutschen Hoheitsgebiet eingetretenen Gründen verfolgt, in Haft gehalten oder einer sonstigen Beschränkung seiner persönlichen Freiheit unterworfen werden.
+(2) Kein Zeuge oder Sachverständiger, gleich welcher Staatsangehörigkeit, der in einem im Rahmen dieses Teiles durchgeführten Verfahren nach Vorladung vor der schweizerischen Behörde erscheint, darf von den schweizerischen Behörden wegen Handlungen oder Verurteilungen oder aus anderen, von seiner Ausreise aus dem deutschen Hoheitsgebiet eingetretenen Gründen verfolgt, in Haft gehalten oder einer sonstigen Beschränkung seiner persönlichen Freiheit unterworfen werden.
 
-<sup>3</sup> Der Schutz nach Abs. 2 endet drei Tage nach der Entlassung durch die schweizerische Behörde, sofern der Zeuge oder Sachverständige die Möglichkeit gehabt hat, das schweizerische Hoheitsgebiet zu verlassen.
+(3) Der Schutz nach Absatz 2 endet drei Tage nach der Entlassung durch die schweizerische Behörde, sofern der Zeuge oder Sachverständige die Möglichkeit gehabt hat, das schweizerische Hoheitsgebiet zu verlassen.
 
 #### Art. 27
 
-<sup>1</sup> Schweizerbürger, die nicht zugleich Deutsche sind und die wegen einer nach deutschem Recht strafbaren, nicht politischen Handlung in Büsingen von deutschen Beamten festgenommen worden sind, werden unter schriftlicher Mitteilung des die Festnahme begründenden Sachverhalts den schweizerischen Behörden übergeben.
-
-<sup>2</sup> Personen, die nicht Deutsche sind, können auf Grund eines Haftbefehls der zuständigen schweizerischen Behörden wegen einer nicht politischen, auch nach deutschem Recht strafbaren Handlung von der Polizei des Kantons Schaffhausen in Büsingen verhaftet und auf schweizerisches Gebiet gebracht werden. Die schweizerische Polizei hat in diesem Fall einen deutschen Beamten beizuziehen, der darüber wacht, dass die vertraglichen Voraussetzungen beachtet werden.
+(1) Schweizerbürger, die nicht zugleich Deutsche sind und die wegen einer nach deutschem Recht strafbaren, nicht politischen Handlung in Büsingen von deutschen Beamten festgenommen worden sind, werden unter schriftlicher Mitteilung des die Festnahme begründenden Sachverhalts den schweizerischen Behörden übergeben. (2) Personen, die nicht Deutsche sind, können auf Grund eines Haftbefehls der zuständigen schweizerischen Behörden wegen einer nicht politischen, auch nach deutschem Recht strafbaren Handlung von der Polizei des Kantons Schaffhausen in Büsingen verhaftet und auf schweizerisches Gebiet gebracht werden. Die schweizerische Polizei hat in diesem Fall einen deutschen Beamten beizuziehen, der darüber wacht, dass die vertraglichen Voraussetzungen beachtet werden.
 
 #### Art. 28
 
-<sup>1</sup> Ist wegen einer der in Art. 24 Abs. 2 bis 5 erwähnten Handlungen von den zuständigen Behörden eines Vertragsstaates eine Verfolgung durchgeführt worden, so sehen die Behörden des anderen Vertragsstaates von weiteren Verfolgungs- und Vollstreckungsmassnahmen wegen derselben Handlung gegen denselben Täter ab:
+(1) Ist wegen einer der in Artikel 24 Absätze 2 bis 5 erwähnten Handlungen von den zuständigen Behörden eines Vertragsstaates eine Verfolgung durchgeführt worden, so sehen die Behörden des anderen Vertragsstaates von weiteren Verfolgungs- und Vollstreckungsmassnahmen wegen derselben Handlung gegen denselben Täter ab,
 
-- a) wenn aus materiell-rechtlichen Gründen das Verfahren rechtskräftig eingestellt oder die Eröffnung des Hauptverfahrens rechtskräftig abgelehnt worden ist
-- b) wenn er rechtskräftig freigesprochen worden ist
-- c) wenn die gegen ihn verhängte Sanktion vollstreckt, erlassen oder verjährt ist
-- d) solange der Vollzug der Sanktion aufgeschoben (die Vollstreckung der Sanktion zur Bewährung ausgesetzt) oder der Täter bedingt entlassen ist
+- a. wenn aus materiell-rechtlichen Gründen das Verfahren rechtskräftig eingestellt oder die Eröffnung des Hauptverfahrens rechtskräftig abgelehnt worden ist;
 
-<sup>2</sup> Wird der Täter, der im Gebiet des einen Vertragsstaates rechtskräftig verurteilt worden ist, jedoch nicht die ganze Strafe verbüsst oder bezahlt hat, wegen derselben Handlung im Gebiet des anderen Vertragsstaates erneut bestraft, so ist die auf Grund des ersten Urteils vollstreckte Strafe auf die zu erkennende Strafe anzurechnen. Entsprechendes gilt sinngemäss für Sanktionen anderer Art.
+- b. wenn er rechtskräftig freigesprochen worden ist;
+
+- c. wenn die gegen ihn verhängte Sanktion vollstreckt, erlassen oder verjährt ist;
+
+- d. solange der Vollzug der Sanktion aufgeschoben (die Vollstreckung der Sank-
+
+tion zur Bewährung ausgesetzt) oder der Täter bedingt entlassen ist.
+
+(2) Wird der Täter, der im Gebiet des einen Vertragsstaates rechtskräftig verurteilt worden ist, jedoch nicht die ganze Strafe verbüsst oder bezahlt hat, wegen derselben Handlung im Gebiet des anderen Vertragsstaates erneut bestraft, so ist die auf Grund des ersten Urteils vollstreckte Strafe auf die zu erkennende Strafe anzurechnen. Entsprechendes gilt sinngemäss für Sanktionen anderer Art.
 
 #### Art. 29
 
-<sup>1</sup> Personen, die nicht Schweizerbürger sind und von deutschen Behörden wegen einer nach deutschem Recht strafbaren Handlung oder auf Grund eines deutschen Vorführungsbefehls oder eines deutschen Haftbefehls festgenommen worden sind, dürfen von deutschen Beamten ohne weiteres auf der Strasse zwischen Büsingen und Gailingen durch das schweizerische Gebiet durchgeführt werden. Personen, die neben der deutschen auch die schweizerische Staatsangehörigkeit besitzen, sind nicht Schweizerbürger im Sinne dieser Bestimmung.
+Personen, die nicht Schweizerbürger sind und von deutschen Behörden wegen einer nach deutschem Recht strafbaren Handlung oder auf Grund eines deutschen Vorführungsbefehls oder eines deutschen Haftbefehls festgenommen worden sind, dürfen von deutschen Beamten ohne weiteres auf der Strasse zwischen Büsingen und Gailingen durch das schweizerische Gebiet durchgeführt werden. Personen, die neben der deutschen auch die schweizerische Staatsangehörigkeit besitzen, sind nicht Schweizerbürger im Sinne dieser Bestimmung.
 
 #### Art. 30
 
-<sup>1</sup> Rechts- oder Amtshilfeersuchen der zuständigen Behörden eines Vertragsstaates in Verfahren, die auf Grund des Art. 25 durchgeführt werden, sind von den Behörden des anderen Vertragsstaates so zu erledigen, wie wenn sie von den entsprechenden eigenen Behörden gestellt worden wären.
+Rechts- oder Amtshilfeersuchen der zuständigen Behörden eines Vertragsstaates in Verfahren, die auf Grund des Artikels 25 durchgeführt werden, sind von den Behörden des anderen Vertragsstaates so zu erledigen, wie wenn sie von den entsprechenden eigenen Behörden gestellt worden wären.
 
-## 4 Besondere Rechte und Pflichten der Behörden und ihrer Angehörigen
+### IV. Teil Besondere Rechte und Pflichten der Behörden und ihrer Angehörigen
 
 #### Art. 31
 
-<sup>1</sup> Schweizerische Beamte, die in Anwendung dieses Vertrages in Büsingen tätig werden, dürfen dabei ihre Dienstkleidung tragen und ihre Dienstausrüstung (Dienstwaffen, Munition, Dienstfahrzeuge, Nachrichtengeräte und Diensthunde) mit sich führen, sofern dies aus Gründen des Dienstbetriebes erforderlich ist.
+(1) Schweizerische Beamte, die in Anwendung dieses Vertrages in Büsingen tätig werden, dürfen dabei ihre Dienstkleidung tragen und ihre Dienstausrüstung (Dienstwaffen, Munition, Dienstfahrzeuge, Nachrichtengeräte und Diensthunde) mit sich führen, sofern dies aus Gründen des Dienstbetriebes erforderlich ist.
 
-<sup>2</sup> Der Aufenthalt in Büsingen hat sich auf die für die dienstliche Verrichtung notwendige Zeit zu beschränken.
+(2) Der Aufenthalt in Büsingen hat sich auf die für die dienstliche Verrichtung notwendige Zeit zu beschränken.
 
-<sup>3</sup> Als Ausweis für den Grenzübertritt und das Tätigwerden in Büsingen gilt der Dienstausweis.
+(3) Als Ausweis für den Grenzübertritt und das Tätigwerden in Büsingen gilt der Dienstausweis.
 
-<sup>4</sup> Die Zahl der gleichzeitig in Büsingen anwesenden schweizerischen uniformierten und bewaffneten Beamten darf zehn nicht übersteigen.
+(4) Die Zahl der gleichzeitig in Büsingen anwesenden schweizerischen uniformierten und bewaffneten Beamten darf zehn nicht übersteigen.
 
 #### Art. 32
 
-<sup>1</sup> Deutschen Beamten, die in Büsingen Dienstobliegenheiten zu erfüllen haben, ist gestattet, jederzeit einzeln oder in Gruppen von höchstens zehn Mann die Strecken Büsingen–Neudörflingen–Randegg sowie Büsingen–Dörflingen / Loog–Gailingen zu benützen, um sich nach Büsingen zu begeben.
+(1) Deutschen Beamten, die in Büsingen Dienstobliegenheiten zu erfüllen haben, ist gestattet, jederzeit einzeln oder in Gruppen von höchstens zehn Mann die Strecken Büsingen–Neudörflingen–Randegg sowie Büsingen–Dörflingen/Loog–Gailingen zu benützen, um sich nach Büsingen zu begeben.
 
-<sup>2</sup> Sie dürfen dabei ihre Dienstkleidung tragen und ihre Dienstausrüstung (Dienstwaffen, Munition, Dienstfahrzeuge, Nachrichtengeräte und Diensthunde) mit sich führen, sofern dies aus Gründen des Dienstbetriebes erforderlich ist.
+(2) Sie dürfen dabei ihre Dienstkleidung tragen und ihre Dienstausrüstung (Dienstwaffen, Munition, Dienstfahrzeuge, Nachrichtengeräte und Diensthunde) mit sich führen, sofern dies aus Gründen des Dienstbetriebes erforderlich ist.
 
-<sup>3</sup> Sie haben sich auf schweizerischem Gebiet jeder Amtshandlung zu enthalten. Unberührt bleibt Art. 29.
+(3) Sie haben sich auf schweizerischem Gebiet jeder Amtshandlung zu enthalten. Unberührt bleibt Artikel 29.
 
-<sup>4</sup> Der Aufenthalt auf schweizerischem Gebiet hat sich auf die für den Durchgang nötige Zeit zu beschränken.
+(4) Der Aufenthalt auf schweizerischem Gebiet hat sich auf die für den Durchgang nötige Zeit zu beschränken.
 
-<sup>5</sup> Als Ausweis für den Grenzübertritt gilt der Dienstausweis.
+(5) Als Ausweis für den Grenzübertritt gilt der Dienstausweis.
 
-<sup>6</sup> Auf einer der bestimmten Durchgangsstrecken dürfen sich gleichzeitig höchstens zehn deutsche uniformierte und bewaffnete Bedienstete befinden.
+(6) Auf einer der bestimmten Durchgangsstrecken dürfen sich gleichzeitig höchstens zehn deutsche uniformierte und bewaffnete Bedienstete befinden.
 
-<sup>7</sup> Die Zahl der gleichzeitig in Büsingen anwesenden deutschen uniformierten Exekutivorgane darf nicht mehr als 3 pro 100 Einwohner betragen.
+(7) Die Zahl der gleichzeitig in Büsingen anwesenden deutschen uniformierten Exekutivorgane darf nicht mehr als 3 pro 100 Einwohner betragen.
 
 #### Art. 33
 
-<sup>1</sup> Die Behörden jedes Vertragsstaates gewähren den Beamten des anderen Staates bei der Ausübung ihrer Befugnisse auf ihrem Gebiet im Rahmen dieses Vertrages den gleichen Schutz und Beistand wie den entsprechenden eigenen Beamten.
+Die Behörden jedes Vertragsstaates gewähren den Beamten des anderen Staates bei der Ausübung ihrer Befugnisse auf ihrem Gebiet im Rahmen dieses Vertrages den gleichen Schutz und Beistand wie den entsprechenden eigenen Beamten.
 
 #### Art. 34
 
-<sup>1</sup> In einem im Rahmen dieses Vertrages durchgeführten Strafverfahren gelten die Strafbestimmungen des einen Vertragsstaates auch für Handlungen, die gegen entsprechende Einrichtungen oder Massnahmen der öffentlichen Gewalt oder der Rechtspflege des anderen Staates oder gegenüber dessen Beamten begangen werden, soweit diese in Ausübung ihrer Befugnisse nach diesem Vertrag gehandelt haben. Art. 28 ist entsprechend anwendbar.
+In einem im Rahmen dieses Vertrages durchgeführten Strafverfahren gelten die Strafbestimmungen des einen Vertragsstaates auch für Handlungen, die gegen entsprechende Einrichtungen oder Massnahmen der öffentlichen Gewalt oder der Rechtspflege des anderen Staates oder gegenüber dessen Beamten begangen werden, soweit diese in Ausübung ihrer Befugnisse nach diesem Vertrag gehandelt haben. Artikel 28 ist entsprechend anwendbar.
 
 #### Art. 35
 
-<sup>1</sup> Hinsichtlich der Ansprüche wegen Schäden, die sich aus Amtshandlungen im Zusammenhang mit der Durchführung dieses Vertrages ergeben, sowie bei ihrer Geltendmachung stehen die Angehörigen des einen Vertragsstaates denen des anderen Vertragsstaates gleich.
+(1) Hinsichtlich der Ansprüche wegen Schäden, die sich aus Amtshandlungen im Zusammenhang mit der Durchführung dieses Vertrages ergeben, sowie bei ihrer Geltendmachung stehen die Angehörigen des einen Vertragsstaates denen des anderen Vertragsstaates gleich.
 
-<sup>2</sup> Die Haftung für einen Schaden, den ein Beamter des einen Vertragsstaates in Ausübung seines Dienstes im Gebiet des anderen Vertragsstaates verursacht, bestimmt sich in gleicher Weise wie wenn die schädigende Handlung oder Unterlassung am Dienstort dieses Beamten begangen worden wäre.
+(2) Die Haftung für einen Schaden, den ein Beamter des einen Vertragsstaates in Ausübung seines Dienstes im Gebiet des anderen Vertragsstaates verursacht, bestimmt sich in gleicher Weise wie wenn die schädigende Handlung oder Unterlassung am Dienstort dieses Beamten begangen worden wäre.
 
 #### Art. 36
 
-<sup>1</sup> Die schweizerischen Behörden können, soweit sie auf Grund dieses Vertrages ein Verwaltungs- oder ein Strafverfahren durchführen, die in diesem Verfahren ausgehenden Schriftstücke mit jedem nach schweizerischem Recht zulässigen Inhalt auch durch die Deutsche Bundespost in Büsingen rechtswirksam zustellen.
+Die schweizerischen Behörden können, soweit sie auf Grund dieses Vertrages ein Verwaltungs- oder ein Strafverfahren durchführen, die in diesem Verfahren ausgehenden Schriftstücke mit jedem nach schweizerischem Recht zulässigen Inhalt auch durch die Deutsche Bundespost in Büsingen rechtswirksam zustellen.
 
 #### Art. 37
 
-<sup>1</sup> Der schriftliche Verkehr zwischen den schweizerischen und deutschen Behörden kann unmittelbar und ohne Inanspruchnahme des diplomatischen Weges erfolgen, sofern er die Anwendung des vorliegenden Vertrages betrifft und nicht politische oder grundsätzliche Fragen berührt.
+Der schriftliche Verkehr zwischen den schweizerischen und deutschen Behörden kann u nmittelbar und ohne Inanspruchnahme des diplomatischen Weges erfolgen, sofern er die Anwendung des vorliegenden Vertrages betrifft und nicht politische oder grundsätzliche Fragen berührt.
 
 #### Art. 38
 
-<sup>1</sup> Wer in amtlicher oder beruflicher Eigenschaft in einem auf Grund dieses Vertrages durchgeführten Verfahren mitwirkt oder mitgewirkt hat, hat Schriftstücke, Tatsachen und Vorgänge, die ihm bei oder gelegentlich dieses Verfahrens bekanntwerden oder bekanntgeworden sind, nach dem Recht seines Heimatstaates geheimzuhalten.
+Wer in amtlicher oder beruflicher Eigenschaft in einem auf Grund dieses Vertrages durchgeführten Verfahren mitwirkt oder mitgewirkt hat, hat Schriftstücke, Tatsachen und Vorgänge, die ihm bei oder gelegentlich dieses Verfahrens bekanntwerden oder bekanntgeworden sind, nach dem Recht seines Heimatstaates geheimzuhalten.
 
-## 5 Schlussbestimmungen
+### V. Teil Schlussbestimmungen
 
 #### Art. 39
 
-<sup>1</sup> Das Recht der Vertragsstaaten, den Grenzübertritt und den Aufenthalt nach Massgabe der geltenden Gesetze durch persönliche Einreise- und Aufenthaltsverbote zu versagen, bleibt unberührt.
+Das Recht der Vertragsstaaten, den Grenzübertritt und den Aufenthalt nach Massgabe der geltenden Gesetze durch persönliche Einreise- und Aufenthaltsverbote zu versagen, bleibt unberührt.
 
 #### Art. 40
 
-<sup>1</sup> Für die Geltung der nach Art. 2 Abs. 1 anwendbaren schweizerischen Rechtsvorschriften in Büsingen ist deren Veröffentlichung in der Sammlung der eidgenössischen Gesetze und in der Gesetzessammlung für den Kanton Schaffhausen massgebend. Diese Veröffentlichung gilt als Verkündung im Sinne des deutschen Rechts. Die in Satz 1 genannten Gesetzessammlungen werden der Gemeinde Büsingen am Hochrhein durch die Schweizerische Bundeskanzlei und die Staatskanzlei des Kantons Schaffhausen in gleicher Weise wie den eigenen Behörden zugestellt.
+Für die Geltung der nach Artikel 2 Absatz 1 anwendbaren schweizerischen Rechtsvorschriften in Büsingen ist deren Veröffentlichung in der Sammlung der eidgenössischen Gesetze und in der Gesetzessammlung für den Kanton Schaffhausen massgebend. Diese Veröffentlichung gilt als Verkündung im Sinne des deutschen Rechts. Die in Satz 1 genannten Gesetzessammlungen werden der Gemeinde Büsingen am Hochrhein durch die Schweizerische Bundeskanzlei und die Staatskanzlei des Kantons Schaffhausen in gleicher Weise wie den eigenen Behörden zugestellt.
 
 #### Art. 41
 
-<sup>1</sup> Die Vertragsstaaten errichten hiermit eine Gemischte schweizerisch-deutsche Kommission mit der Aufgabe:
+(1) Die Vertragsstaaten errichten hiermit eine Gemischte schweizerisch-deutsche Kommission mit der Aufgabe,
 
-- a) Fragen zu erörtern, die sich im Zusammenhang mit der Durchführung dieses Vertrages ergeben
-- b) den beiden Regierungen Empfehlungen, auch über etwaige Abänderungen dieses Vertrages, zu unterbreiten
-- c) zur Beseitigung von Schwierigkeiten den zuständigen Behörden geeignete Massnahmen zu empfehlen
+- a. Fragen zu erörtern, die sich im Zusammenhang mit der Durchführung dieses Vertrages ergeben;
 
-<sup>2</sup> Die Kommission besteht aus fünf schweizerischen und fünf deutschen Mitgliedern, die sich von Sachverständigen begleiten lassen können. Die Regierung jedes Vertragsstaates bestellt ein Mitglied ihrer Delegation zu deren Vorsitzenden. Jeder Delegationsvorsitzende kann die Kommission durch Ersuchen an den Vorsitzenden der anderen Delegation zu einer Sitzung einberufen, die auf seinen Wunsch spätestens innerhalb eines Monats nach Zugang dieses Ersuchens stattfinden muss.
+- b. den beiden Regierungen Empfehlungen, auch über etwaige Abänderungen dieses Vertrages, zu unterbreiten;
 
-<sup>3</sup> Die Kommission kann sich eine Verfahrensordnung geben.
+- c. zur Beseitigung von Schwierigkeiten den zuständigen Behörden geeignete Massnahmen zu empfehlen.
+
+(2) Die Kommission besteht aus fünf schweizerischen und fünf deutschen Mitgliedern, die sich von Sachverständigen begleiten lassen können. Die Regierung jedes Vertragsstaates bestellt ein Mitglied ihrer Delegation zu deren Vorsitzenden. Jeder Delegationsvorsitzende kann die Kommission durch Ersuchen an den Vorsitzenden der anderen Delegation zu einer Sitzung einberufen, die auf seinen Wunsch spätestens innerhalb eines Monats nach Zugang dieses Ersuchens stattfinden muss.
+
+(3) Die Kommission kann sich eine Verfahrensordnung geben.
 
 #### Art. 42
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Vertrages tritt die Übereinkunft vom 21. September 1895[^42-1] zwischen der Schweiz und dem Deutschen Reich betreffend die Gemeinde Büsingen ausser Kraft.
+Mit dem Inkrafttreten dieses Vertrages tritt die Übereinkunft vom 21. September 1895[^42-1] zwischen der Schweiz und dem Deutschen Reich betreffend die Gemeinde Büsingen ausser Kraft.
 
-[^42-1]: BS 12 732.
+[^42-1]: [BS 12 732]
 
 #### Art. 43
 
-<sup>1</sup> Dieser Vertrag gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber dem Schweizerischen Bundesrat innerhalb von drei Monaten nach Inkrafttreten des Vertrages eine gegenteilige Erklärung abgibt.
+Dieser Vertrag gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber dem Schweizerischen Bundesrat innerhalb von drei Monaten nach Inkrafttreten des Vertrages eine gegenteilige Erklärung abgibt.
 
 #### Art. 44
 
-<sup>1</sup> Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden sollen sobald wie möglich in Bern ausgetauscht werden.
+(1) Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden sollen sobald wie möglich in Bern ausgetauscht werden.
 
-<sup>2</sup> Dieser Vertrag tritt einen Monat nach Austausch der Ratifikationsurkunden in Kraft.
+(2) Dieser Vertrag tritt einen Monat nach Austausch der Ratifikationsurkunden in Kraft.
 
-<sup>3</sup> Dieser Vertrag gilt zunächst für zwölf Jahre. Nach Ablauf dieser Frist gilt er für unbestimmte Zeit weiter; jeder Vertragsstaat hat jedoch das Recht, ihn mit einer Frist von zwei Jahren zu kündigen.
+(3) Dieser Vertrag gilt zunächst für zwölf Jahre. Nach Ablauf dieser Frist gilt er für unbestimmte Zeit weiter; jeder Vertragsstaat hat jedoch das Recht, ihn mit einer Frist von zwei Jahren zu kündigen.
 
-## A1 Anhang 1: Schlussprotokoll
+Zu Urkund dessen haben die Bevollmächtigten diesen Vertrag unterzeichnet und mit ihren Siegeln versehen.
 
-#### Art. A1-0
+Geschehen zu Freiburg im Breisgau am 23. November 1964 in zwei Urschriften in deutscher Sprache.
 
-<sup>1</sup> Bei der Unterzeichnung des heute zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland abgeschlossenen Vertrages über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet haben die unterzeichneten Bevollmächtigten folgende übereinstimmenden Erklärungen abgegeben, welche einen integrierenden Bestandteil des Vertrages bilden:
+Für die Für die Schweizerische Eidgenossenschaft: Bundesrepublik Deutschland:
 
-#### Art. A1-1
+Bindschedler G. v. Haeften
 
-**Begriffsbestimmung**
+### Schlussprotokoll
 
-<sup>1</sup> Es besteht Einverständnis darüber, dass im Rahmen dieses Vertrages sinngemäss zu verstehen ist unter:
+Bei der Unterzeichnung des heute zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland abgeschlossenen Vertrages über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet haben die unterzeichneten Bevollmächtigten folgende übereinstimmenden Erklärungen abgegeben, welche einen integrierenden Bestandteil des Vertrages bilden:
 
-- a) «Behörden»: Behörden und Stellen der öffentlichen Verwaltung und der Rechtspflege sowie ausserhalb der öffentlichen Verwaltung stehende Organisationen, soweit sie mit öffentlich-rechtlichen Aufgaben betraut sind
-- b) «Beamte»: Personen, soweit ihnen die Ausübung eines öffentlichen Amtes der Verwaltung oder der Rechtspflege übertragen ist
-- c) Behörden oder Beamte «eines Vertragsstaates»: die Behörden oder Beamten sowohl des Bundes als auch der Länder oder Kantone, Bezirke, Kreise und Gemeinden sowie die unter lit. a erwähnten Organisationen mit Sitz in einem Vertragsstaat und deren Angehörige
+- 1\. Begriffsbestimmung Es besteht Einverständnis darüber, dass im Rahmen dieses Vertrages sinngemäss zu verstehen ist unter:
 
-#### Art. A1-2
+- a. «Behörden»: Behörden und Stellen der öffentlichen Verwaltung und der Rechtspflege sowie ausserhalb der öffentlichen Verwaltung stehende Organi-
 
-**Zu Art. 2 Abs. 1 lit. n**
+sationen, soweit sie mit öffentlich-rechtlichen Aufgaben betraut sind;
 
-<sup>1</sup> Diese Bestimmung schliesst die deutschen Staatsschutzvorschriften und ihre Anwendung durch die deutschen Behörden nicht aus. Richtet sich das Propagandamaterial ausschliesslich gegen die Schweizerische Eidgenossenschaft, so werden nur die schweizerischen Behörden tätig.
+- b. «Beamte»: Personen, soweit ihnen die Ausübung eines öffentlichen Amtes der Verwaltung oder der Rechtspflege übertragen ist;
 
-#### Art. A1-3
+- c. Behörden oder Beamte «eines Vertragsstaates»: die Behörden oder Beamten sowohl des Bundes als auch der Länder oder Kantone, Bezirke, Kreise und Gemeinden sowie die unter Buchstabe a erwähnten Organisationen mit Sitz in einem Vertragsstaat und deren Angehörige.
 
-**Zu Art. 3 Abs. 2**
+- 2\. Zu Artikel 2 Absatz 1 Buchstabe n Diese Bestimmung schliesst die deutschen Staatsschutzvorschriften und ihre Anwendung durch die deutschen Behörden nicht aus. Richtet sich das Propagandamaterial ausschliesslich gegen die Schweizerische Eidgenossenschaft, so werden nur die schweizerischen Behörden tätig.
 
-<sup>1</sup> Bezüglich der Beitreibung in Gegenstände, an denen ein Zollpfandrecht nicht besteht, wird bei Inkrafttreten dieses Vertrages ein Verzeichnis der bescheinigenden schweizerischen Behörden übergeben.
+- 3\. Zu Artikel 3 Absatz 2 Bezüglich der Beitreibung in Gegenstände, an denen ein Zollpfandrecht nicht besteht, wird bei Inkrafttreten dieses Vertrages ein Verzeichnis der bescheinigenden schweizerischen Behörden übergeben.
 
-#### Art. A1-4
+- 4\. Zu Artikel 19 Absatz 1 Buchstabe d Ziffer 4 Der Veräusserung aus persönlichen Gründen ist gleichgestellt die Verwertung im Wege der Zwangsvollstreckung oder des Konkurses.
 
-**Zu Art. 19 Abs. 1 lit. d Ziffer 4**
+- 5\. Zu Artikel 22
 
-<sup>1</sup> Der Veräusserung aus persönlichen Gründen ist gleichgestellt die Verwertung im Wege der Zwangsvollstreckung oder des Konkurses.
+- a. Ein überwiegendes wirtschaftliches Interesse im Sinne der Buchstaben c der Absätze 1 und 2 ist insbesondere anzunehmen, wenn
 
-#### Art. A1-5
+- aa. bei Personengesellschaften oder Genossenschaften Angehörige des begünstigten Personenkreises gemäss Artikel 19 die Mehrzahl der Mitglieder stellen;
 
-**Zu Art. 22**
+- bb. bei Kapitalgesellschaften die Mehrheit der Kapitalanteile den Angehöri-
 
-<sup>1</sup>
+gen des begünstigten Personenkreises gemäss Artikel 19 gehört.
 
-- a) Ein überwiegendes wirtschaftliches Interesse im Sinne der lit. c der Abs. 1 und 2 ist insbesondere anzunehmen, wenn:
-  - 1\. bei Personengesellschaften oder Genossenschaften Angehörige des begünstigten Personenkreises gemäss Art. 19 die Mehrzahl der Mitglieder stellen
-  - 2\. bei Kapitalgesellschaften die Mehrheit der Kapitalanteile den Angehörigen des begünstigten Personenkreises gemäss Art. 19 gehört
-  - 3\. Indessen kann ein überwiegendes wirtschaftliches Interesse nicht angenommen werden, wenn auf eine unter die Buchstaben aa oder bb fallende Vereinigung ein beherrschender Einfluss von Personen ausgeübt wird, die nicht zu dem begünstigten Personenkreis gemäss Art. 19 gehören
-- b) Es besteht Einverständnis darüber, dass die Worte: «… unter den für Schweizerbürger geltenden Voraussetzungen …» (Abs. 1 lit. a) und die Worte «… unter den für Deutsche geltenden Voraussetzungen …» (Abs. 2 lit. a) sich nicht auf Vorschriften über die Zulassung, sondern nur auf Vorschriften über die Ausübung einer selbständigen Erwerbstätigkeit beziehen
+Indessen kann ein überwiegendes wirtschaftliches Interesse nicht angenommen werden, wenn auf eine unter die Buchstaben aa oder bb fallende Vereinigung ein beherrschender Einfluss von Personen ausgeübt wird, die nicht zu dem begünstigten Personenkreis gemäss Artikel 19 gehören.
 
-#### Art. A1-6
+- b. Es besteht Einverständnis darüber, dass die Worte: «… unter den für Schweizerbürger geltenden Voraussetzungen …» (Absatz 1 Buchstabe a) und die Worte «… unter den für Deutsche geltenden Voraussetzungen …» (Absatz 2 Buchstabe a) sich nicht auf Vorschriften über die Zulassung, sondern nur auf Vorschriften über die Ausübung einer selbständigen Erwerbstätigkeit beziehen.
 
-**Zu Art. 40**
+- 6\. Zu Artikel 40
 
-<sup>1</sup>
+- a. Das Eidgenössische Politische Departement[^hSchlussprotokoll-1] wird bei Inkrafttreten dieses Vertrages dem Auswärtigen Amt zum Zweck der Unterrichtung eine Liste der nach diesem Vertrag in Büsingen anzuwendenden Rechtsvorschriften übermitteln, die vom Inkrafttreten dieses Vertrages an in Büsingen Anwendung finden werden. Entsprechende Mitteilungen über später in Kraft tretende schweizerische Rechtsvorschriften werden in gleicher Weise gemacht werden.
 
-- a) Das Eidgenössische Politische Departement[^A16-1] wird bei Inkrafttreten dieses Vertrages dem Auswärtigen Amt zum Zweck der Unterrichtung eine Liste der nach diesem Vertrag in Büsingen anzuwendenden Rechtsvorschriften übermitteln, die vom Inkrafttreten dieses Vertrages an in Büsingen Anwendung finden werden. Entsprechende Mitteilungen über später in Kraft tretende schweizerische Rechtsvorschriften werden in gleicher Weise gemacht werden
-- b) Das Eidgenössische Politische Departement[^A16-2] wird der Gemeinde Büsingen am Hochrhein auf Anfrage hin jederzeit Auskunft darüber erteilen, ob ein bestimmter eidgenössischer oder kantonaler Erlass in Büsingen Anwendung findet
+- b. Das Eidgenössische Politische Departement[^hSchlussprotokoll-2] wird der Gemeinde Büsingen am Hochrhein auf Anfrage hin jederzeit Auskunft darüber erteilen, ob ein bestimmter eidgenössischer oder kantonaler Erlass in Büsingen Anwendung findet.
 
-[^A16-1]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
-[^A16-2]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
+- 7\. Gesundheitswesen
 
-#### Art. A1-7
+- a. Seuchenbekämpfung:
 
-**Gesundheitswesen**
+Die nach den deutschen Vorschriften zu erstattenden Meldungen sind von den zur Meldung verpflichteten Personen auch den zuständigen Behörden in Schaffhausen zu übermitteln. Schweizerische Ärzte, die in Büsingen behandeln, haben ein Doppel ihrer Meldungen dem Staatlichen Gesundheitsamt in Konstanz zu übersenden.
 
-<sup>1</sup>
+- b. …[^hSchlussprotokoll-3]
 
-- a) Seuchenbekämpfung: Die nach den deutschen Vorschriften zu erstattenden Meldungen sind von den zur Meldung verpflichteten Personen auch den zuständigen Behörden in Schaffhausen zu übermitteln. Schweizerische Ärzte, die in Büsingen behandeln, haben ein Doppel ihrer Meldungen dem Staatlichen Gesundheitsamt in Konstanz zu übersenden
-- b) …
+- 8\. Gewerbliche Wirtschaft
 
-#### Art. A1-8
+- a. Vorbehaltlich der in Artikel 2 Absatz 1 aufgeführten Gegenstände finden in Büsingen die in der Bundesrepublik Deutschland geltenden Rechtsvorschriften über die Kontrolle von Kriegswaffen Anwendung.
 
-**Gewerbliche Wirtschaft**
+- b. Es wird nicht genehmigt werden, dass Pulver und Sprengstoffe, die unter das Kriegswaffenkontrollgesetz fallen, in Büsingen hergestellt werden, es sei denn, das Eidgenössische Politische Departement[^hSchlussprotokoll-4] erkläre, dass gegen die Erteilung der Genehmigung keine Bedenken bestehen.
 
-<sup>1</sup>
+- 9\. Stempelabgaben Für den Fall, dass in einem der beiden Vertragsstaaten die steuerliche Belastung durch gesetzliche Massnahmen so geändert wird, dass hierdurch im Verhältnis zwischen Büsingen und der Schweiz eine Verzerrung der Wettbewerbsverhältnisse mit erheblichen wirtschaftlichen Nachteilen für das eine oder andere dieser beiden Gebiete entsteht, sowie für den Fall, dass der Status von Büsingen zu Steuerumgehungen missbraucht werden sollte, erklären sich die Regierungen der Vertragsstaaten bereit, Verhandlungen darüber aufzunehmen, wie diese Nachteile oder die Möglichkeit solcher Steuerumgehungen beseitigt werden können. Dies gilt nicht für Steuern, die in Artikel 2 dieses Vertrages oder in dem jeweils zwischen den Vertragsstaaten geltenden Abkommen zur Vermeidung der Doppelbesteuerung genannt sind.
 
-- a) Vorbehaltlich der in Art. 2 Abs. 1 aufgeführten Gegenstände finden in Büsingen die in der Bundesrepublik Deutschland geltenden Rechtsvorschriften über die Kontrolle von Kriegswaffen Anwendung
-- b) Es wird nicht genehmigt werden, dass Pulver und Sprengstoffe, die unter das Kriegswaffenkontrollgesetz fallen, in Büsingen hergestellt werden, es sei denn, das Eidgenössische Politische Departement[^A18-1] erkläre, dass gegen die Erteilung der Genehmigung keine Bedenken bestehen
+- 10\. Forstwirtschaftlicher Pflanzenschutz
 
-[^A18-1]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
+- a. Werden Massnahmen auf dem Gebiet des forstwirtschaftlichen Pflanzenschutzes notwendig, so haben sich die zuständigen schweizerischen und deutschen Behörden unverzüglich und unmittelbar über die zu ergreifenden Massnahmen in Verbindung zu setzen und diese abzustimmen.
 
-#### Art. A1-9
+- b. Ist sofortiges Handeln zur Abwendung einer unmittelbaren Gefahr unerlässlich, so können die zuständigen schweizerischen Behörden die notwendigen Bekämpfungsmassnahmen nach Unterrichtung der zuständigen deutschen Behörden auch für Büsingen anordnen.
 
-**Stempelabgaben**
+- 11\. Spielbank Eine Konzession für den Betrieb einer Spielbank in Büsingen wird nicht erteilt werd en.
 
-<sup>1</sup> Für den Fall, dass in einem der beiden Vertragsstaaten die steuerliche Belastung durch gesetzliche Massnahmen so geändert wird, dass hierdurch im Verhältnis zwischen Büsingen und der Schweiz eine Verzerrung der Wettbewerbsverhältnisse mit erheblichen wirtschaftlichen Nachteilen für das eine oder andere dieser beiden Gebiete entsteht, sowie für den Fall, dass der Status von Büsingen zu Steuerumgehungen missbraucht werden sollte, erklären sich die Regierungen der Vertragsstaaten bereit, Verhandlungen darüber aufzunehmen, wie diese Nachteile oder die Möglichkeit solcher Steuerumgehungen beseitigt werden können. Dies gilt nicht für Steuern, die in Art. 2 dieses Vertrages oder in dem jeweils zwischen den Vertragsstaaten geltenden Abkommen zur Vermeidung der Doppelbesteuerung genannt sind.
+Geschehen zu Freiburg im Breisgau am 23. November 1964 in zwei Urschriften in deutscher Sprache.
 
-#### Art. A1-10
+Für die Für die Schweizerische Eidgenossenschaft: Bundesrepublik Deutschland:
 
-**Forstwirtschaftlicher Pflanzenschutz**
+Bindschedler G. v. Haeften
 
-<sup>1</sup>
+[^hSchlussprotokoll-1]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
+[^hSchlussprotokoll-2]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
+[^hSchlussprotokoll-3]: Gestrichen durch Art. 4 des Abk. vom 19. März 1997 (AS 2001 1629).
+[^hSchlussprotokoll-4]: Heute: Eidgenössisches Departement für auswärtige Angelegenheiten (unveröffentlichter BRB vom 19. Dez. 1977).
+[^hSchlussprotokoll-5]: Fassung gemäss Briefwechsel vom 15. Dez. 1994/ 28. Febr. 1995 (AS 2001 1411 1694).
 
-- a) Werden Massnahmen auf dem Gebiet des forstwirtschaftlichen Pflanzenschutzes notwendig, so haben sich die zuständigen schweizerischen und deutschen Behörden unverzüglich und unmittelbar über die zu ergreifenden Massnahmen in Verbindung zu setzen und diese abzustimmen
-- b) Ist sofortiges Handeln zur Abwendung einer unmittelbaren Gefahr unerlässlich, so können die zuständigen schweizerischen Behörden die notwendigen Bekämpfungsmassnahmen nach Unterrichtung der zuständigen deutschen Behörden auch für Büsingen anordnen
+### Anlage zu Artikel 19
 
-#### Art. A1-11
+[^hSchlussprotokoll-5]
 
-**Spielbank**
+Schweizerische Gemeinden, in denen Deutsche, die in Büsingen Wohnsitz und Aufenthalt haben, gemäss diesem Vertrag fremdenpolizeiliche, arbeitsrechtliche und gewerbliche Vergünstigungen erhalten:
 
-<sup>1</sup> Eine Konzession für den Betrieb einer Spielbank in Büsingen wird nicht erteilt werden.
+### Kanton Schaffhausen:
 
-## A2 Anhang 2: Anlage zu Art. 19
+alle Gemeinden
 
-#### Art. A2-1
+### Kanton Thurgau:
 
-<sup>1</sup> Schweizerische Gemeinden, in denen Deutsche, die in Büsingen Wohnsitz und Aufenthalt haben, gemäss diesem Vertrag fremdenpolizeiliche, arbeitsrechtliche und gewerbliche Vergünstigungen erhalten:
+alle Gemeinden
 
-- a) Kanton Schaffhausen: alle Gemeinden
-- b) Kanton Thurgau: alle Gemeinden
-- c) Kanton Zürich: alle Gemeinden mit Ausnahme der Gemeinden in den Bezirken Horgen und Affoltern
+### Kanton Zürich:
 
-AS 1967 1210
+alle Gemeinden mit Ausnahme der Gemeinden in den Bezirken Horgen und Affoltern
+
+## Weitere Fussnoten
+
+- [1] AS 1967 1210
