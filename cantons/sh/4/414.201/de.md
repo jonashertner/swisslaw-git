@@ -4,32 +4,34 @@ number: "414.201"
 title: Verordnung über die Pädagogische Hochschule Schaffhausen
 language: de
 version: 2023-01-01
+corrected: 2024-06-18
 version_adopted: 2022-12-13
 adopted: 2020-08-18
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.201"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1544/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/454/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die Pädagogische Hochschule Schaffhausen
 
-Vom 18.08.2020 (Stand 01.01.2023)
+vom 18. August 2020
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 12, Art. 15 Abs. 2 lit. m und Art. 23 des Hochschulgesetzes vom 2. Dezember 2019[^ingress-1],
+gestützt auf Art. 12, Art. 15 Abs. 2 lit. m und Art. 23 des Hochschulgesetzes vom 2. Dezember 2019[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [414.200](https://rechtsbuch.sh.ch/data/414.200/de).
+[^t-1]: SHR 414.200.
 
-## 1 Auftrag
+### I. Auftrag
 
 #### § 1
 
-**Leistungsbereich Ausbildung: Allgemeines**
+**Leistungsbereich Ausbildung a) Allgemeines**
 
 <sup>1</sup> Die Pädagogische Hochschule Schaffhausen (PHSH) bildet in Verbindung von Wissenschaft und Praxis Lehrpersonen für die Primarstufe aus.
 
@@ -39,24 +41,31 @@ beschliesst:
 
 #### § 2
 
-**Leistungsbereich Ausbildung: Angebot Studiengänge**
+**b) Angebot Studiengänge**
 
 <sup>1</sup> Die PHSH bietet die folgenden Studiengänge mit Lehrdiplom und Bachelorabschluss an:
 
-- a) …
-- b) Primarstufe Schuljahre 1 bis 5
-- c) Primarstufe Schuljahre 3 bis 8
+- a) …[^2-1]
+
+- b) Primarstufe Schuljahre 1 bis 5;
+
+- c) Primarstufe Schuljahre 3 bis 8.
 
 <sup>2</sup> Ein Studiengang dauert in der Regel sechs Semester.
 
+Amtsblatt 2020, S. 1355
+
+[^2-1]: Aufgehoben durch RRB vom 13. Dezember 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 2318).
+
 #### § 3
 
-**Leistungsbereich Ausbildung: Erweiterung Lehrbefähigung**
+**c) Erweiterung Lehrbefähigung**
 
 <sup>1</sup> Die PHSH bietet Erweiterungsstudiengänge an für:
 
-- a) zusätzliche Fächer der Primarstufe
-- b) weitere Schuljahre an der Primarstufe
+- a) zusätzliche Fächer der Primarstufe;
+
+- b) weitere Schuljahre an der Primarstufe.
 
 <sup>2</sup> Diese werden mit einem Erweiterungsdiplom bescheinigt, welches ein bereits erworbenes EDK-anerkanntes Lehrdiplom der Primarstufe ergänzt.
 
@@ -92,7 +101,7 @@ beschliesst:
 
 <sup>2</sup> Der Hochschulrat berichtet dem Kantonsrat und dem Regierungsrat jährlich im Rahmen des Geschäftsberichts über die Leistungsergebnisse.
 
-## 2 Räumlichkeiten und Infrastruktur
+### II. Räumlichkeiten und Infrastruktur
 
 #### § 8
 
@@ -102,7 +111,7 @@ beschliesst:
 
 <sup>2</sup> Das entsprechende Reglement soll einen für alle Beteiligten förderlichen Hochschulbetrieb sicherstellen.
 
-## 3 Angehörige der Pädagogischen Hochschule Schaffhausen
+### III. Angehörige der Pädagogischen Hochschule Schaffhausen
 
 #### § 9
 
@@ -136,7 +145,7 @@ beschliesst:
 
 <sup>2</sup> Die Studierenden werden zu spezifischen Fragen des Studiums und der Weiterentwicklung der PHSH einbezogen.
 
-## 4 Finanzielles
+### IV. Finanzielles
 
 #### § 12
 
@@ -162,7 +171,7 @@ beschliesst:
 
 **Kriterien der Bewirtschaftung**
 
-<sup>1</sup> Die Finanz- und Liquiditätsbewirtschaftung ist nach wirtschaftlichen Kriterien vorzunehmen.
+Die Finanz- und Liquiditätsbewirtschaftung ist nach wirtschaftlichen Kriterien vorzunehmen.
 
 #### § 15
 
@@ -176,38 +185,63 @@ beschliesst:
 
 **Auszahlung der Globalbeiträge**
 
-<sup>1</sup> Der Kanton richtet die jährlichen Globalbeiträge jeweils zu 100% auf Jahresbeginn aus.
+Der Kanton richtet die jährlichen Globalbeiträge jeweils zu 100 % auf Jahresbeginn aus.
 
 #### § 17
 
-**Gebühren im Leistungsbereich Ausbildung**
+**Gebühren im Leistungsbe-**
 
 <sup>1</sup> Für die Gebühren im Rahmen der Aufnahme zum Studium gelten folgende Gebührenrahmen:
 
-- a) Einschreibegebühr: — Fr. 100.00 bis Fr. 200.00
-- b) Gebühr für Eignungsabklärung als Zulassungsvoraussetzung: — Fr. 200.00 bis Fr. 300.00
-- c) Gebühr für die Deutschprüfung von fremdsprachigen Bewerberinnen und Bewerbern: — Fr. 200.00 bis Fr. 300.00
-- d) Wechsel von einer anderen Pädagogischen Hochschule in einen laufenden Studiengang: — Fr. 100.00 bis Fr. 300.00
+**Fr. 100.-- bis Fr. 200.-- reich Ausbil-**
+
+**dung**
+
+- a) Einschreibegebühr
+
+**Fr. 200.-- bis Fr. 300.--**
+
+- b) Gebühr für Eignungsabklärung als Zulassungsvoraussetzung
+
+- c) Gebühr für die Deutschprüfung von fremdsprachigen Bewerberinnen und Bewerbern
+
+**Fr. 200.-- bis Fr. 300.--**
+
+- d) Wechsel von einer anderen Pädagogischen Hochschule in einen laufenden Studiengang
+
+**Fr. 100.-- bis Fr. 300.--**
 
 <sup>2</sup> Für die Gebühren während des Studiums gelten folgende Gebührenrahmen:
 
-- a) Studiensemestergebühr: — Fr. 650.00 bis Fr. 800.00
-- b) Gebühr für Diplomprüfungen: — Fr. 250.00 bis Fr. 400.00
-- c) Gebühr für die Wiederholung von Modulen: — Fr. 100.00 bis Fr. 200.00
-- d) Gebühr für die Wiederholung von Praxisphasen: — Fr. 300.00 bis Fr. 400.00
-- e) Gebühren für die Wiederholung von Diplomprüfungen: — Fr. 150.00 bis Fr. 400.00
+**Fr. 650.-- bis Fr. 800.-- Fr. 250.-- bis Fr. 400.--**
 
-<sup>3</sup> Ausländische Studierende, die ihren Wohnsitz im Ausland haben oder ihren Wohnsitz weniger als zwei Jahre vor Studienbeginn in die Schweiz verlegt haben, bezahlen zusätzliche Studiensemestergebühren bis maximal Fr. 700.00.
+- a) Studiensemestergebühr
 
-<sup>4</sup> Für administrative Dienstleistungen werden Gebühren von maximal Fr. 200.00 erhoben.
+- b) Gebühr für Diplomprüfungen
 
-<sup>5</sup> Die Kosten für freiwilligen Instrumentalunterricht betragen pro Semester max. Fr. 400.00.
+**Fr. 100.-- bis Fr. 200.--**
 
-<sup>6</sup> Die Gebühren für Hörerinnen und Hörer betragen pro Semester maximal Fr. 600.00.
+- c) Gebühr für die Wiederholung von Modulen
+
+**Fr. 300.-- bis Fr. 400.--**
+
+- d) Gebühr für die Wiederholung von Praxisphasen
+
+**Fr. 150.-- bis Fr. 400.--**
+
+- e) Gebühren für die Wiederholung von Diplomprüfungen
+
+<sup>3</sup> Ausländische Studierende, die ihren Wohnsitz im Ausland haben oder ihren Wohnsitz weniger als zwei Jahre vor Studienbeginn in die Schweiz verlegt haben, bezahlen zusätzliche Studiensemestergebühren bis maximal Fr. 700.--.
+
+<sup>4</sup> Für administrative Dienstleistungen werden Gebühren von maximal Fr. 200.-- erhoben.
+
+<sup>5</sup> Die Kosten für freiwilligen Instrumentalunterricht betragen pro Semester max. Fr. 400.--.
+
+<sup>6</sup> Die Gebühren für Hörerinnen und Hörer betragen pro Semester maximal 600.--.
 
 <sup>7</sup> Die jeweils konkrete Gebühr wird vom Hochschulrat in einem Gebührenreglement festgelegt.
 
-<sup>8</sup> Die Kosten für Lehrmittel, persönliche Unterrichtsmaterialien und ‑utensilien sowie Reise-, Verpflegungs- und Übernachtungskosten oder Kosten für Eintritte bzw. die Benützung sozialer, kultureller und sportlicher Einrichtungen sind von den Studierenden selbst zu tragen. Ebenfalls müssen die Studierenden die Kosten für Kurse und Angebote von externen Anbietern selbst tragen (Sprachkurse, Kurse Rettungsschwimmen, Schneesportmodul etc.).
+<sup>8</sup> Die Kosten für Lehrmittel, persönliche Unterrichtsmaterialien und - utensilien sowie Reise-, Verpflegungs- und Übernachtungskosten oder Kosten für Eintritte bzw. die Benützung sozialer, kultureller und sportlicher Einrichtungen sind von den Studierenden selbst zu tragen. Ebenfalls müssen die Studierenden die Kosten für Kurse und Angebote von externen Anbietern selbst tragen (Sprachkurse, Kurse Rettungsschwimmen, Schneesportmodul etc.).
 
 <sup>9</sup> Es erfolgt grundsätzlich keine Rückerstattung bereits erhobener Gebühren.
 
@@ -223,7 +257,7 @@ beschliesst:
 
 <sup>3</sup> Es erfolgt keine Rückerstattung bereits erhobener Gebühren.
 
-## 5 Schlussbestimmung
+### V. Schlussbestimmung
 
 #### § 19
 
@@ -233,6 +267,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^19-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^19-1]: Amtsblatt 2020, S. 1355.
+Fussnoten:
 
-Abl. 2020, S. 1355
+[^19-1]: Amtsblatt 2020, S. 1355.
