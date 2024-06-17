@@ -5,36 +5,35 @@ title: Zivilschutzgesetz
 short: ZSG
 language: de
 version: 2017-01-01
-valid_until: 2025-12-31
+corrected: 2024-06-18
 version_adopted: 2016-08-22
 adopted: 2016-08-22
 in_force: 2017-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/520.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1635/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/405/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Zivilschutzgesetz
+# Zivilschutzgesetz (ZSG)
 
-(ZSG)
+vom 22. August 2016
 
-Vom 22.08.2016 (Stand 01.01.2017)
+Der Kantonsrat Schaffhausen
 
-Der Kantonsrat Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+## A. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Erfüllung der dem Zivilschutz im Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz (BZG)[^1-1] und im kantonalen Bevölkerungsschutzgesetz (BevSG)[^1-2] übertragenen Aufgaben sowie die Finanzierung dieser Aufgaben.
+Dieses Gesetz regelt die Erfüllung der dem Zivilschutz im Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz (BZG)[^1-1] und im kantonalen Bevölkerungsschutzgesetz (BevSG)[^1-2] übertragenen Aufgaben sowie die Finanzierung dieser Aufgaben.
 
-[^1-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
-[^1-2]: SHR [500.100](https://rechtsbuch.sh.ch/data/500.100/de).
+[^1-1]: SR 520.1.
+[^1-2]: SHR 500.100.
 
 #### Art. 2
 
@@ -46,7 +45,7 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden unterstützen den Kanton und erfüllen die Aufgaben, die ihnen dieses Gesetz überträgt.
 
-## 2 Organisation des Zivilschutzes
+## B. Organisation des Zivilschutzes
 
 #### Art. 3
 
@@ -56,11 +55,15 @@ beschliesst:
 
 <sup>2</sup> Soweit nach eidgenössischem oder kantonalem Recht keine besonderen Zuständigkeiten festgelegt sind, erfüllt die Zivilschutzorganisation im Zusammenhang mit bevölkerungsschutzrelevanten Ereignissen:
 
-- a) Leistungen bei Elementarschäden
-- b) die Bereitstellung der Schutzinfrastruktur
-- c) die Betreuung schutzsuchender und obdachloser Personen
-- d) den Schutz der Kulturgüter
-- e) die Unterstützung der anderen Partnerorganisationen und der zivilen Führungsorgane
+Amtsblatt 2016, S. 1301, S. 1900 a) Leistungen bei Elementarschäden;
+
+- b) die Bereitstellung der Schutzinfrastruktur;
+
+- c) die Betreuung schutzsuchender und obdachloser Personen;
+
+- d) den Schutz der Kulturgüter;
+
+- e) die Unterstützung der anderen Partnerorganisationen und der zivilen Führungsorgane.
 
 <sup>3</sup> Sie leistet Instandstellungsarbeiten und Einsätze zugunsten der Gemeinschaft.
 
@@ -108,13 +111,15 @@ beschliesst:
 
 <sup>2</sup> Die Zivilschutzstelle ist verantwortlich für:
 
-- a) die Einteilung der Schutzdienstpflichtigen in die Formationen und deren Aufgebot zur Ausbildung und für Zivilschutzeinsätze
-- b) die Personalkontrollführung
-- c) das Disziplinarstrafwesen
+- a) die Einteilung der Schutzdienstpflichtigen in die Formationen und deren Aufgebot zur Ausbildung und für Zivilschutzeinsätze;
+
+- b) die Personalkontrollführung;
+
+- c) das Disziplinarstrafwesen.
 
 <sup>3</sup> Sie unterstützt die Zivilschutzorganisation bei der Besorgung der administrativen Belange.
 
-## 3 Schutzbauten und Kulturgüterschutz
+## C. Schutzbauten und Kulturgüterschutz
 
 #### Art. 9
 
@@ -138,7 +143,7 @@ beschliesst:
 
 <sup>2</sup> Die Sicherstellung des Kulturgüterschutzes obliegt der Zivilschutzorganisation. Diese überwacht den Vollzug des Bundesrechts und beantragt bei den zuständigen kantonalen oder kommunalen Instanzen die notwendigen Massnahmen. Darunter fällt insbesondere die Erstellung der erforderlichen Schutzräume für bewegliche Kulturgüter.
 
-## 4 Kostentragung
+## D. Kostentragung
 
 #### Art. 11
 
@@ -170,33 +175,33 @@ beschliesst:
 
 **Ersatzbeiträge**
 
-<sup>1</sup> Im Falle einer Dispensation von der Schutzraumpflicht werden von der zuständigen kantonalen Behörde Ersatzbeiträge erhoben, verwaltet und gemäss dem Bundesgesetz über den Bevölkerungsschutz und Zivilschutz eingesetzt.
+Im Falle einer Dispensation von der Schutzraumpflicht werden von der zuständigen kantonalen Behörde Ersatzbeiträge erhoben, verwaltet und gemäss dem Bundesgesetz über den Bevölkerungsschutz und Zivilschutz eingesetzt.
 
-## 5 Schadenersatzansprüche und Strafverfolgung
+## E. Schadenersatzansprüche und Strafverfolgung
 
 #### Art. 15
 
 **Vermögensrechtliche Ansprüche**
 
-<sup>1</sup> Das zuständige Departement entscheidet über Schadenersatzansprüche und Rückgriffsforderungen im Sinne von Art. 67 Abs. 1 BZG. Dessen Entscheid kann an die zuständige Stelle des Bundes weitergezogen werden.
+Das zuständige Departement entscheidet über Schadenersatzansprüche und Rückgriffsforderungen im Sinne von Art. 67 Abs. 1 BZG. Dessen Entscheid kann an die zuständige Stelle des Bundes weitergezogen werden.
 
 #### Art. 16
 
 **Strafverfolgung**
 
-<sup>1</sup> Strafverfolgung von Widerhandlungen gegen die gesetzlichen Bestimmungen im Bereich des Zivilschutzes richten sich nach Art. 68 ff. BZG.
+<sup>1</sup> Strafverfolgung von Widerhandlungen gegen die gesetzlichen Bestimmungen im Bereich des Zivilschutzes richten sich nach Art. 68 ff. BZG
 
 <sup>2</sup> In leichten Fällen kann auf die Einleitung eines Strafverfahrens verzichten und eine Verwarnung durch die zuständige kantonale Behörde ausgesprochen werden.
 
-## 6 Schlussbestimmungen
+## F. Schlussbestimmungen
 
 #### Art. 17
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird Art. 2 Abs. 2 lit. h des Gemeindegesetzes vom 17. August 1998[^17-1] aufgehoben.
+Mit dem Inkrafttreten dieses Gesetzes wird Art. 2 Abs. 2 lit. h des Gemeindegesetzes vom 17. August 1998[^17-1] aufgehoben.
 
-[^17-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
+[^17-1]: SHR 120.100.
 
 #### Art. 18
 
@@ -206,9 +211,7 @@ beschliesst:
 
 <sup>2</sup> Es tritt zusammen mit dem kantonalen Bevölkerungsschutzgesetz (BevSG) in Kraft. Der Regierungsrat bestimmt das Inkrafttreten[^18-1].
 
-<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^18-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^18-2] und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
 
 [^18-1]: In Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1900).
 [^18-2]: Amtsblatt 2016, S. 1301.
-
-Abl. 2016, S. 1301, S. 1900
