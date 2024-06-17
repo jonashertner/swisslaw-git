@@ -4,116 +4,151 @@ number: "410.409"
 title: "Verordnung betreffend die Beurteilung der Lehrpersonen an Kindergärten, Primar- und Orientierungsschulen"
 language: de
 version: 2017-08-01
+corrected: 2024-06-18
 version_adopted: 2017-06-20
 adopted: 1997-12-16
 in_force: 1998-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.409"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1679/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/36/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung betreffend die Beurteilung der Lehrpersonen an Kindergärten, Primar- und Orientierungsschulen
 
-Vom 16.12.1997 (Stand 01.08.2017)
+vom 16. Dezember 1997[^t-1]
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 22 Abs. 5 des Personalgesetzes vom 3. Mai 2004 und § 14 der Lehrerverordnung vom 25. Oktober 2005,
+gestützt auf Art. 22 Abs. 5 des Personalgesetzes vom 3. Mai 2004 und § 14 der Lehrerverordnung vom 25. Oktober 2005,[^t-1]
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
+
+### I. Allgemeine Bestimmungen
+
+[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 1
 
-**Geltungsbereich**
+**Geltungsbereich**[^hIAllgemeineBestim-1]
 
-<sup>1</sup> Diese Verordnung gilt für Lehrpersonen an öffentlichen Kindergärten, Primar- und Orientierungsschulen.
+Diese Verordnung gilt für Lehrpersonen an öffentlichen Kindergärten, Primar- und Orientierungsschulen.
 
 #### § 2
 
 **Zweck, Zielsetzung**
 
-<sup>1</sup> Die Beurteilung der Lehrpersonen dient dem Ziel der Erhaltung und Förderung der Qualität der Schule. Sie schafft Transparenz, wie die Leistung der Lehrpersonen bewertet wird.
+<sup>1</sup> Die Beurteilung der Lehrpersonen dient dem Ziel der Erhaltung und Förderung der Qualität der Schule. Sie schafft Transparenz, wie die Leistung der Lehrpersonen bewertet wird.[^2-1]
 
 <sup>2</sup> Die Beurteilung umfasst insbesondere die Unterrichtstätigkeit, das Engagement und das Verhalten in der Schule.
 
-<sup>3</sup> Als Instrument der Qualitätssicherung führt sie zu einem regelmässigen Kontakt zwischen beurteilender Instanz und Lehrperson. Damit sollen die Zusammenarbeit und das gegenseitige Verständnis gefördert werden.
+<sup>3</sup> Als Instrument der Qualitätssicherung führt sie zu einem regelmässigen Kontakt zwischen beurteilender Instanz und Lehrperson. Damit sollen die Zusammenarbeit und das gegenseitige Verständnis gefördert werden.[^2-1]
+
+Amtsblatt 1998, S. 23.
+
+[^2-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 3
 
 **Verantwortlichkeit; Anspruch auf Unterstützung**
 
-<sup>1</sup> Die Schulbehörde bzw. Schulleitung ist grundsätzlich für die Beurteilung der Lehrpersonen der Gemeinde bzw. des Schulkreises verantwortlich.
+<sup>1</sup> Die Schulbehörde bzw. Schulleitung ist grundsätzlich für die Beurteilung der Lehrpersonen der Gemeinde bzw. des Schulkreises verantwortlich.[^3-1]
 
-<sup>2</sup> Die Schulbehörde bzw. Schulleitung hat Anspruch auf Unterstützung durch die Schulinspektoren und Schulinspektorinnen. Diese sind auf jeden Fall beizuziehen, wenn eine Entlassung, eine Lohnkürzung oder die Nichtgewährung einer Lohnerhöhung erwogen wird.
+<sup>2</sup> Die Schulbehörde bzw. Schulleitung hat Anspruch auf Unterstützung durch die Schulinspektoren und Schulinspektorinnen.[^3-1] Diese sind auf jeden Fall beizuziehen, wenn eine Entlassung, eine Lohnkürzung oder die Nichtgewährung einer Lohnerhöhung erwogen wird.[^3-2]
 
-<sup>3</sup> Das Erziehungsdepartement sorgt für die Schulung und Weiterbildung der Schulbehörden und der Schulleitungen.
+<sup>3</sup> Das Erziehungsdepartement sorgt für die Schulung und Weiterbildung der Schulbehörden und der Schulleitungen.[^3-1]
+
+[^3-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
+[^3-2]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 4
 
-**Regelung der Beurteilung**
+**Regelung der Beurteilung**[^3-2]
 
 <sup>1</sup> Lehrpersonen mit einem Wochenpensum von wenigstens zwölf Lektionen (Konferenzpflicht) werden regelmässig besucht und anlässlich eines Gesprächs beurteilt.
 
-<sup>2</sup> Bei nicht konferenzpflichtigen Lehrpersonen wird die Beurteilung durch die Schulbehörde bzw. Schulleitung geregelt.
+<sup>2</sup> Bei nicht konferenzpflichtigen Lehrpersonen wird die Beurteilung durch die Schulbehörde bzw. Schulleitung geregelt.[^4-1]
+
+[^4-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
 
 #### § 5
 
 **Auswirkungen der Beurteilung**
 
-<sup>1</sup> Auswirkungen der Beurteilung können sein:
+Auswirkungen der Beurteilung können sein:
 
-- a) Gewährung einer Lohnerhöhung im Rahmen der zur Verfügung stehenden Lohnsumme
-- b) Nichtgewährung einer Lohnerhöhung unabhängig von der zur Verfügung stehenden Lohnsumme
-- c) Lohnkürzung
-- d) Auflösung des Arbeitsverhältnisses
-- e) Einleitung von Fördermassnahmen
+- a) Gewährung einer Lohnerhöhung im Rahmen der zur Verfügung stehenden Lohnsumme;[^5-1]
+
+- b) Nichtgewährung einer Lohnerhöhung unabhängig von der zur Verfügung stehenden Lohnsumme;[^5-1]
+
+- c) Lohnkürzung;[^5-1]
+
+- d) Auflösung des Arbeitsverhältnisses;[^5-1]
+
+- e) Einleitung von Fördermassnahmen.
+
+[^5-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 6
 
 **Zuständigkeit für die Umsetzung der Auswirkungen**
 
-<sup>1</sup> Zuständig für die Verfügung der Auswirkungen gemäss § 5 lit. a–c ist das Erziehungsdepartement auf Antrag der Schulbehörde bzw. Schulleitung.
+<sup>1</sup> Zuständig für die Verfügung der Auswirkungen gemäss § 5 lit. a-c ist das Erziehungsdepartement auf Antrag der Schulbehörde bzw. Schulleitung.[^6-1]
 
-<sup>2</sup> Zuständig für die Auflösung des Arbeitsverhältnisses von Lehrpersonen ist das Erziehungsdepartement zusammen mit der Schulbehörde bzw. Schulleitung.
+<sup>2</sup> Zuständig für die Auflösung des Arbeitsverhältnisses von Lehrpersonen ist das Erziehungsdepartement zusammen mit der Schulbehörde bzw. Schulleitung.[^6-1]
 
-<sup>3</sup> …
+<sup>3</sup> ...[^6-2]
 
-<sup>4</sup> Zuständig für die Einleitung von Fördermassnahmen ist die Schulbehörde bzw. Schulleitung in Zusammenarbeit mit dem Schulinspektorat.
+<sup>4</sup> Zuständig für die Einleitung von Fördermassnahmen ist die Schulbehörde bzw. Schulleitung in Zusammenarbeit mit dem Schulinspektorat.[^6-1]
 
-## 2 Praktische Umsetzung der Beurteilung
+[^6-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
+[^6-2]: Aufgehoben durch RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
+
+### II. Praktische Umsetzung der Beurteilung
+
+[^hIIPraktischeUmset-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
 
 #### § 7
 
-**Art der Zusammenarbeit**
+**Art der Zusammenarbeit**[^hIIPraktischeUmset-1]
 
-<sup>1</sup> Über die Art der Zusammenarbeit bei der Beurteilung der Lehrpersonen entscheiden die Schulbehörden bzw. die Schulleitung und die zuständigen Schulinspektoren und Schulinspektorinnen gemeinsam.
+Über die Art der Zusammenarbeit bei der Beurteilung der Lehrpersonen entscheiden die Schulbehörden bzw. die Schulleitung und die zuständigen Schulinspektoren und Schulinspektorinnen gemeinsam.
+
+[^7-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 8
 
-**Neu angestellte Lehrpersonen und Wiedereinsteigende**
+**Neu angestellte Lehrpersonen und Wiedereinsteigende 2)**[^7-1]
 
-<sup>1</sup> Mit Zweijahresvertrag neu angestellte Lehrpersonen werden von der Schulbehörde bzw. Schulleitung im Laufe der Vertragsdauer beurteilt. Der Schulinspektor bzw. die Schulinspektorin erstellt im Laufe des zweiten Anstellungsjahres zuhanden der Schulbehörde bzw. Schulleitung einen Bericht.
+<sup>1</sup> Mit Zweijahresvertrag neu angestellte Lehrpersonen werden von der Schulbehörde bzw. Schulleitung im Laufe der Vertragsdauer beurteilt. Der Schulinspektor bzw. die Schulinspektorin erstellt im Laufe des zweiten Anstellungsjahres zuhanden der Schulbehörde bzw. Schulleitung einen Bericht.[^8-1]
 
 <sup>2</sup> Eine Weiterbeschäftigung ist nur nach einer Beurteilung mit Auswirkung gemäss § 5 lit. a dieser Verordnung möglich.
 
+[^8-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
+[^8-2]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
+
 #### § 9
 
-**Unbefristet angestellte Lehrpersonen**
+**Unbefristet angestellte Lehrpersonen 2)**[^8-2]
 
-<sup>1</sup> Unbefristet angestellte Lehrpersonen werden mindestens einmal innerhalb von vier Jahren beurteilt.
+Unbefristet angestellte Lehrpersonen werden mindestens einmal innerhalb von vier Jahren beurteilt.
+
+[^9-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 10
 
-**Befristet angestellte Lehrpersonen**
+**Befristet angestellte Lehrpersonen 2)**[^9-1]
 
-<sup>1</sup> Bei über längere Zeit befristet angestellten Lehrpersonen gilt nach zweijähriger zufriedenstellender Unterrichtstätigkeit der gleiche Beurteilungsrhythmus wie bei unbefristet angestellten Lehrpersonen.
+Bei über längere Zeit befristet angestellten Lehrpersonen gilt nach zweijähriger zufriedenstellender Unterrichtstätigkeit der gleiche Beurteilungsrhythmus wie bei unbefristet angestellten Lehrpersonen.
+
+[^10-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
 
 #### § 11
 
-**Zusätzliche Beurteilungen**
+**Zusätzliche Beurteilungen**[^10-1]
 
 <sup>1</sup> Wenn es die Schulbehörde bzw. Schulleitung als notwendig erachtet, kann sie zusätzliche Beurteilungen vornehmen.
 
@@ -123,20 +158,27 @@ beschliesst:
 
 **Gewichtung durch die Schulbehörde**
 
-<sup>1</sup> Die Schulbehörde legt die Gewichtung der Beurteilungsfelder und die Beurteilungsinstrumente fest.
+Die Schulbehörde legt die Gewichtung der Beurteilungsfelder und die Beurteilungsinstrumente fest.
+
+[^12-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 13
 
-**Beurteilungsfelder**
+**Beurteilungsfelder**[^12-1]
 
-<sup>1</sup> Als Beurteilungsfelder sind insbesondere einzubeziehen:
+Als Beurteilungsfelder sind insbesondere einzubeziehen:
 
-- a) die Unterrichtstätigkeit
-- b) die Zusammenarbeit im Lehrerteam, mit Eltern und Behörden
-- c) der Einsatz für die Schule als Ganzes und für deren Entwicklung
-- d) der Umgang mit Problemen und schwierigen Situationen
-- e) die Weiterbildungstätigkeit
-- f) die Erreichung und Umsetzung der Zielvereinbarungen
+- die Unterrichtstätigkeit;
+
+- die Zusammenarbeit im Lehrerteam, mit Eltern und Behörden;
+
+- der Einsatz für die Schule als Ganzes und für deren Entwicklung;
+
+- der Umgang mit Problemen und schwierigen Situationen;
+
+- die Weiterbildungstätigkeit;
+
+- die Erreichung und Umsetzung der Zielvereinbarungen.
 
 #### § 14
 
@@ -144,25 +186,33 @@ beschliesst:
 
 <sup>1</sup> Als Beurteilungsinstrumente sind insbesondere einzubeziehen:
 
-- a) die Besuchsberichte
-- b) die Feststellungen der Schulbehörden bzw. Schulleitung
-- c) die Bilanz der Zielvereinbarungen
-- d) die Bilanz nach Fördermassnahmen
+- die Besuchsberichte;
 
-<sup>2</sup> Weitere mögliche Beurteilungsinstrumente sind:
+- die Feststellungen der Schulbehörden bzw. Schulleitung;[^14-1]
 
-- a) die Selbstbeurteilung der Lehrpersonen
-- b) die Rückmeldungen von Eltern und Schülern und Schülerinnen
+- die Bilanz der Zielvereinbarungen;
+
+- die Bilanz nach Fördermassnahmen.
+
+<sup>2</sup> Weitere mögliche Beurteilungsinstrumente sind:[^14-2] - die Selbstbeurteilung der Lehrpersonen;
+
+- die Rückmeldungen von Eltern und Schülern und Schülerinnen.
+
+[^14-1]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
+[^14-2]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 15
 
 **Berichterstattung**
 
-<sup>1</sup> Bei allen Unterrichtsbesuchen wird ein Besuchsbericht erstellt, der in Kopie an die Lehrperson abgegeben wird.
+Bei allen Unterrichtsbesuchen wird ein Besuchsbericht erstellt, der in Kopie an die Lehrperson abgegeben wird.[^15-1]
+
+[^15-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
+[^15-2]: Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1013).
 
 #### § 16
 
-**Formulare, Organisation**
+**Formulare, Organisation**[^15-2]
 
 <sup>1</sup> Das Erziehungsdepartement stellt den Schulbehörden bzw. Schulleitungen Formulare zur Berichterstattung über die Unterrichtsbesuche zur Verfügung.
 
@@ -170,29 +220,35 @@ beschliesst:
 
 <sup>3</sup> Die Schulbehörden bzw. Schulleitungen regeln die Organisation der Beurteilung ihrer Lehrerschaft selbst.
 
+[^16-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
+
 #### § 17
 
-**Massnahmen bei Feststellung von Mängeln**
+**Massnahmen bei Feststellung von Mängeln**[^16-1]
 
 <sup>1</sup> Bei der Feststellung von Mängeln stehen zu deren Behebung in der Regel Fördermassnahmen im Vordergrund. Die Nichtgewährung einer Lohnerhöhung ist möglich. Die Lehrperson wird nach Abschluss der Fördermassnahmen erneut beurteilt.
 
 <sup>2</sup> Werden weiterhin Mängel festgestellt, können erneut Fördermassnahmen angeordnet werden. In diesem Falle kann keine Lohnerhöhung gewährt werden. Eine Lohnkürzung oder allenfalls eine Entlassung gemäss § 5 dieser Verordnung sind möglich.
 
-## 3 Rechtspflege
+### III. Rechtspflege
+
+[^hIIIRechtspflege-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 18
 
-**Vermittlungsgespräch**
+**Vermittlungsgespräch**[^hIIIRechtspflege-1]
 
-<sup>1</sup> Ist eine Lehrperson mit der Beurteilung oder den festgelegten Massnahmen nicht einverstanden, kann sie innert zwanzig Tagen beim Erziehungsdepartement ein Gespräch verlangen.
+Ist eine Lehrperson mit der Beurteilung oder den festgelegten Massnahmen nicht einverstanden, kann sie innert zwanzig Tagen beim Erziehungsdepartement ein Gespräch verlangen.
+
+[^18-1]: Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1439).
 
 #### § 19
 
-**Rechtsmittel**
+**Rechtsmittel**[^18-1]
 
-<sup>1</sup> Gegen die Nichtgewährung einer Lohnerhöhung im Sinne dieser Verordnung, die Lohnkürzung sowie gegen die verfügte Auflösung des Arbeitsverhältnisses kann beim Regierungsrat Rekurs erhoben werden.
+Gegen die Nichtgewährung einer Lohnerhöhung im Sinne dieser Verordnung, die Lohnkürzung sowie gegen die verfügte Auflösung des Arbeitsverhältnisses kann beim Regierungsrat Rekurs erhoben werden.
 
-## 4 Schlussbestimmungen
+### IV. Schlussbestimmungen
 
 #### § 20
 
@@ -202,6 +258,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^20-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^20-1]: Amtsblatt 1998, S. 23.
+Fussnoten:
 
-Abl. 1998, S. 23
+[^20-1]: Amtsblatt 1998, S. 23.
