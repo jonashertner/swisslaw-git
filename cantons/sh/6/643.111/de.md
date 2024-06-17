@@ -1,59 +1,63 @@
 ---
 canton: SH
 number: "643.111"
-title: Verordnung zum Gesetz über die Erbschafts- und Schenkungssteuer
+title: Verordnung zum Gesetz vom 13. Dezember 1976 über die Erbschafts- und Schenkungssteuer
 language: de
 version: 2010-01-01
+corrected: 2024-06-18
 version_adopted: 2009-12-08
 adopted: 1977-11-01
 in_force: 1977-12-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/643.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1694/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/100/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Gesetz über die Erbschafts- und Schenkungssteuer
+# Verordnung zum Gesetz vom 13. Dezember 1976 über die Erbschafts- und Schenkungssteuer
 
-Vom 01.11.1977 (Stand 01.01.2010)
+vom 1. November 1977
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-in Ausführung von Art. 29 des Gesetzes über die Erbschafts- und Schenkungssteuer[^ingress-1],
+in Ausführung von Art. 29 des Gesetzes über die Erbschafts- und Schenkungssteuer <sup>1)</sup>,
 
 beschliesst:
 
-[^ingress-1]: SHR [643.100](https://rechtsbuch.sh.ch/data/643.100/de).
-
-## 1 Steuerpflicht
+### I. Steuerpflicht
 
 #### § 1
 
-**…**
+<sup>17)</sup>
 
 #### § 2
 
 **Art. 3 Abs. 1 lit. c ErbStG**
 
-<sup>1</sup> Unter Art. 3 Abs. 1 lit. c fallen auch die staatlich anerkannten Kirchgemeinden und ihre Anstalten.
+Unter Art. 3 Abs. 1 lit. c fallen auch die staatlich anerkannten Kirchgemeinden und ihre Anstalten.
 
 #### § 3
 
 **Art. 3 Abs. 1 lit. d ErbStG**
 
-<sup>1</sup> Betriebsstätten sind insbesondere Zweigniederlassungen, Fabrikationsstätten, Werkstätten, Einkaufs- und Verkaufsstellen, ständige Vertretungen und Einrichtungen zur Ausführung von Werken des Hoch-, Tief- oder Strassenbaues, wenn diese Einrichtungen länger als 12 Monate bestehen.
+Betriebsstätten sind insbesondere Zweigniederlassungen, Fabrikationsstätten, Werkstätten, Einkaufs- und Verkaufsstellen, ständige Vertretungen und Einrichtungen zur Ausführung von Werken des Hoch-, Tief- oder Strassenbaues, wenn diese Einrichtungen länger als 12 Monate bestehen.
 
 #### § 4
 
+<sup>18)</sup>
+
 **Art.3 Abs. 1 lit. e ErbStG**
 
-<sup>1</sup> Die kantonale Steuerverwaltung führt eine Liste der von der Steuer befreiten Institutionen im Kanton Schaffhausen als Richtlinie für die Veranlagungsinstanzen.
+Die kantonale Steuerverwaltung führt eine Liste der von der Steuer befreiten Institutionen im Kanton Schaffhausen als Richtlinie für die Veranlagungsinstanzen.
+
+Amtsblatt 1977, S. 1453; Rechtsbuch 1964, Nr. 41a.
 
 #### § 5
 
 **Art. 3 Abs. 1 lit. f ErbStG**
 
-<sup>1</sup> Die Steuerbefreiung der Ehegatten bezieht sich ausschliesslich auf die gegenseitige Beerbung und Schenkungen. Voraussetzung ist eine rechtsgültig bestehende Ehe.
+Die Steuerbefreiung der Ehegatten bezieht sich ausschliesslich auf die gegenseitige Beerbung und Schenkungen. Voraussetzung ist eine rechtsgültig bestehende Ehe.
 
 #### § 6
 
@@ -75,69 +79,69 @@ beschliesst:
 
 **Art. 4 Abs. 2 ErbStG**
 
-<sup>1</sup> Der Steueranspruch entsteht auch für das Nutzniessungsvermögen im Zeitpunkt der Errichtung der Nutzniessung.
+Der Steueranspruch entsteht auch für das Nutzniessungsvermögen im Zeitpunkt der Errichtung der Nutzniessung.
 
 #### § 9
 
 **Art. 5 Abs. 2 lit. b und c ErbStG**
 
-<sup>1</sup> Der Wegfall einer Nutzniessung oder einer anderen Belastung durch den Tod des Berechtigten bedeutet keinen Erbanfall.
+Der Wegfall einer Nutzniessung oder einer anderen Belastung durch den Tod des Berechtigten bedeutet keinen Erbanfall.
 
 #### § 10
 
 **Art. 5 Abs. 2 lit. d ErbStG**
 
-<sup>1</sup> Zu besteuern sind Zuwendungen von Versicherungsleistungen durch versicherungsvertragliche Begünstigung (VVG Art. 76 ff.[^10-1]) und Leistungen aus Personen- und Sachversicherungen. Ansprüche aus Versorgerschaden und Genugtuung sind nicht erbschaftssteuerpflichtig.
-
-[^10-1]: SR [221.229.1](http://db.clex.ch/link/Bund/221.229.1/de).
+Zu besteuern sind Zuwendungen von Versicherungsleistungen durch versicherungsvertragliche Begünstigung (VVG Art. 76 ff. <sup>5)</sup>) und Leistungen aus Personen- und Sachversicherungen. Ansprüche aus Versorgerschaden und Genugtuung sind nicht erbschaftssteuerpflichtig.
 
 #### § 10a
 
-**…**
+<sup>16)</sup>
 
 #### § 11
 
 **Art. 7 lit. a ErbStG**
 
-<sup>1</sup> Zuwendungen, die im Zusammenhang mit einem früheren Arbeitsverhältnis stehen, unterliegen nur so weit der Erbschafts- und Schenkungssteuer, wie sie nicht der Einkommenssteuer unterliegen.
+Zuwendungen, die im Zusammenhang mit einem früheren Arbeitsverhältnis stehen, unterliegen nur so weit der Erbschafts- und Schenkungssteuer, wie sie nicht der Einkommenssteuer unterliegen.
 
 #### § 12
 
+<sup>18)</sup>
+
 **Art. 7 lit. d ErbStG**
 
-<sup>1</sup> Der steuerfreie Hausrat umfasst die übliche Ausstattung der Wohnung sowie die Fahrhabe im Sinne von Art. 44 Abs. 2 StG[^12-1]. Edelmetalle, Sammlungen, Kunst- und Schmuckgegenstände usw. gehören nicht zur üblichen Ausstattung und sind nicht steuerfrei.
-
-[^12-1]: SHR [641.100](https://rechtsbuch.sh.ch/data/641.100/de).
+Der steuerfreie Hausrat umfasst die übliche Ausstattung der Wohnung sowie die Fahrhabe im Sinne von Art. 44 Abs. 2 StG <sup>19)</sup>. Edelmetalle, Sammlungen, Kunst- und Schmuckgegenstände usw. gehören nicht zur üblichen Ausstattung und sind nicht steuerfrei.
 
 #### § 13
 
 **Art. 7 lit. e ErbStG**
 
-<sup>1</sup> Bei der Beurteilung des üblichen Masses sind die persönlichen Verhältnisse des Erblassers oder Schenkers und seiner Familie, die Zahl der Kinder und deren allgemeine Ausbildung, das Vermögen und das Einkommen zur Zeit der Zuwendung zu berücksichtigen.
+Bei der Beurteilung des üblichen Masses sind die persönlichen Verhältnisse des Erblassers oder Schenkers und seiner Familie, die Zahl der Kinder und deren allgemeine Ausbildung, das Vermögen und das Einkommen zur Zeit der Zuwendung zu berücksichtigen.
 
 #### § 14
 
 **Art. 7 lit. f ErbStG**
 
-<sup>1</sup> Massgebend für die Beurteilung, ob sich der Schuldner in einer Notlage befunden hat, ist der Zeitpunkt der Schenkung.
+Massgebend für die Beurteilung, ob sich der Schuldner in einer Notlage befunden hat, ist der Zeitpunkt der Schenkung.
 
-## 2 Steuerbemessung
+### II. Steuerbemessung
 
 #### § 15
 
 **Art. 8 lit. e ErbStG**
 
-<sup>1</sup> Die Wirkung der Verschollenerklärung richtet sich nach Art. 38 Abs. 2 ZGB.
+Die Wirkung der Verschollenerklärung richtet sich nach Art. 38 Abs.
+
+2 ZGB.
 
 #### § 16
+
+<sup>2)</sup>
 
 **Art. 9 Abs. 1 und 6 ErbStG**
 
 <sup>1</sup> Verkehrswert ist der Wert, welcher bei einer Veräusserung durch Versteigerung oder Freihandverkauf erzielt wird.
 
-<sup>2</sup> Als Ertrags- oder Verkehrswert von Grundstücken gilt der vom Amt für Grundstückschätzungen gestützt auf die Verordnung über die Bewertung von Grundstücken[^16-1] ermittelte Wert.
-
-[^16-1]: SHR [641.301](https://rechtsbuch.sh.ch/data/641.301/de).
+<sup>2</sup> Als Ertrags- oder Verkehrswert von Grundstücken gilt der vom Amt für Grundstückschätzungen gestützt auf die Verordnung über die Bewertung von Grundstücken <sup>8)</sup> ermittelte Wert.
 
 #### § 17
 
@@ -145,9 +149,11 @@ beschliesst:
 
 <sup>1</sup> Für die Bewertung der Wertpapiere ist der tiefste Kurswert zur Zeit der Eröffnung des Erbganges oder zum Zeitpunkt der Schenkung massgebend.
 
-<sup>2</sup> …
+<sup>2</sup> ... <sup>9)</sup>
 
 #### § 18
+
+<sup>2)</sup>
 
 **Art. 9 Abs. 3 ErbStG**
 
@@ -155,29 +161,31 @@ beschliesst:
 
 <sup>2</sup> Steht die Nutzniessung mehreren Personen zu, so wird auf die längste Lebenserwartung abgestellt.
 
-<sup>3</sup> Die Kapitalisierung erfolgt zum Zinssatz von 3.5 Prozent.
+<sup>3</sup> Die Kapitalisierung erfolgt zum Zinssatz von 3,5 Prozent. <sup>14)</sup>
 
 #### § 19
 
 **Art. 9 Abs.4 ErbStG**
 
-<sup>1</sup> Die Steuerpflicht des Eigentümers des Vermögens, an dem eine Nutzniessung zugunsten des überlebenden Ehegatten eingeräumt ist, besteht nur für die Differenz zwischen dem Nutzniessungsvermögen und dem kapitalisierten Wert der Nutzniessung.
+Die Steuerpflicht des Eigentümers des Vermögens, an dem eine Nutzniessung zugunsten des überlebenden Ehegatten eingeräumt ist, besteht nur für die Differenz zwischen dem Nutzniessungsvermögen und dem kapitalisierten Wert der Nutzniessung.
 
 #### § 20
 
 **Art. 9 Abs. 5 ErbStG**
 
-<sup>1</sup> Diese Zuwendungen beziehen sich auf Versicherungsleistungen nach Art. 5 Abs. 2 lit. d dieses Gesetzes.
+Diese Zuwendungen beziehen sich auf Versicherungsleistungen nach Art. 5 Abs. 2 lit. d dieses Gesetzes.
 
-## 3 Steuerberechnung
+### III. Steuerberechnung
 
 #### § 21
 
+<sup>2)</sup>
+
 **Art. 12 ErbStG**
 
-<sup>1</sup> Zuwendungen an Familienstiftungen werden zu dem für alle übrigen Erbschafts- und Schenkungsempfänger geltenden Steuersatz (Art. 12 ErbStG) besteuert. Das gleiche gilt für Zuwendungen aus Familienstiftungen; vorbehalten bleiben die Art. 7 lit. b und lit. e ErbStG.
+Zuwendungen an Familienstiftungen werden zu dem für alle übrigen Erbschafts- und Schenkungsempfänger geltenden Steuersatz (Art. 12 ErbStG) besteuert. Das gleiche gilt für Zuwendungen aus Familienstiftungen; vorbehalten bleiben die Art. 7 lit. b und lit. e ErbStG.
 
-## 4 Steuerveranlagung
+### IV. Steuerveranlagung
 
 #### § 22
 
@@ -203,37 +211,45 @@ beschliesst:
 
 **Art. 16 ErbStG**
 
-<sup>1</sup> Im Erbfall wird das Veranlagungsverfahren mit der Inventaraufnahme, im Schenkungsfall mit der Aufforderung zur Einreichung einer Steuererklärung oder der ersten Handlung zur Feststellung der Steuerforderung eingeleitet.
+Im Erbfall wird das Veranlagungsverfahren mit der Inventaraufnahme, im Schenkungsfall mit der Aufforderung zur Einreichung einer Steuererklärung oder der ersten Handlung zur Feststellung der Steuerforderung eingeleitet.
 
 #### § 25
 
+<sup>13)</sup>
+
 **Art. 17 Abs. 2 ErbStG**
 
-<sup>1</sup> Das Finanzdepartement kann Weisungen betreffend Veranlagung und Steuerbezug sowie das Volkswirtschaftsdepartement betreffend Inventur und Teilungen erlassen.
+Das Finanzdepartement kann Weisungen betreffend Veranlagung und Steuerbezug sowie das Volkswirtschaftsdepartement betreffend Inventur und Teilungen erlassen.
 
 #### § 26
 
+<sup>2)</sup>
+
 **Art. 19 Abs. 2 ErbStG**
 
-<sup>1</sup> Die Erteilung der Vollmacht zur Entgegennahme der Erbschafts- oder Schenkungssteuerrechnung hat schriftlich zu erfolgen.
+Die Erteilung der Vollmacht zur Entgegennahme der Erbschafts- oder Schenkungssteuerrechnung hat schriftlich zu erfolgen.
 
 #### § 27
 
+<sup>10)</sup>
+
 **Art. 20 ErbStG**
 
-<sup>1</sup> Einsprachen sind von der Kanzlei der Erbschaftsbehörde innert 20 Tagen mit einer Vernehmlassung dem Volkswirtschaftsdepartement zuzustellen, zur Weiterleitung an die kantonale Steuerkommission zum Entscheid.
+Einsprachen sind von der Kanzlei der Erbschaftsbehörde innert 20 Tagen mit einer Vernehmlassung dem Volkswirtschaftsdepartement <sup>13)</sup> zuzustellen, zur Weiterleitung an die kantonale Steuerkommission zum Entscheid.
 
-## 5 Steuerbezug
+### V. Steuerbezug
 
 #### § 28
 
+<sup>2)</sup>
+
 **Art. 22 ErbStG**
 
-<sup>1</sup> Der Verzugs- und Vergütungszins richtet sich nach dem im Zeitpunkt der Veranlagung geltenden Verzugs- und Vergütungszins für die direkten Steuern[^28-1].
-
-[^28-1]: SHR [641.112](https://rechtsbuch.sh.ch/data/641.112/de).
+Der Verzugs- und Vergütungszins richtet sich nach dem im Zeitpunkt der Veranlagung geltenden Verzugs- und Vergütungszins für die direkten Steuern <sup>11)</sup>.
 
 #### § 29
+
+<sup>15)</sup>
 
 **Art. 21 ErbStG**
 
@@ -243,21 +259,23 @@ beschliesst:
 
 #### § 30
 
+<sup>18)</sup>
+
 **Art. 27 ErbStG**
 
-<sup>1</sup> Art. 186 des Gesetzes über die direkten Steuern[^30-1] findet sinngemäss Anwendung.
+Art. 186 des Gesetzes über die direkten Steuern <sup>19)</sup> findet sinngemäss Anwendung.
 
-[^30-1]: SHR [641.100](https://rechtsbuch.sh.ch/data/641.100/de).
-
-## 6 Schluss- und Übergangsbestimmungen
+### VI. Schluss- und Übergangsbestimmungen
 
 #### § 31
 
 **Art. 30 ErbStG**
 
-<sup>1</sup> Der Zeitpunkt der Eröffnung des Erbganges (Art. 537 ZGB) bestimmt die Anwendung des Gesetzes.
+Der Zeitpunkt der Eröffnung des Erbganges (Art. 537 ZGB) bestimmt die Anwendung des Gesetzes.
 
 #### § 32
+
+<sup>2)</sup>
 
 **Art. 30 Abs. 2 ErbStG**
 
@@ -271,8 +289,36 @@ beschliesst:
 
 <sup>1</sup> Das Gesetz über die Erbschafts- und Schenkungssteuer vom 13. Dezember 1976 und diese Verordnung treten am 1. Dezember 1977 in Kraft.
 
-<sup>2</sup> Diese Verordnung ist im Amtsblatt zu veröffentlichen[^33-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Diese Verordnung ist im Amtsblatt zu veröffentlichen <sup>12)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^33-1]: Amtsblatt 1977, S. 1453.
+Fussnoten:
 
-Abl. 1977, S. 1453
+- 1) SHR 643.100.
+
+- 2) Fassung gemäss RRB vom 14. Januar 1992, in Kraft getreten am 16. Dezember 1991 (Amtsblatt 1992, S. 85).
+
+- 5) SR 221.229.1.
+
+- 8) SHR 641.301.
+
+- 9) Aufgehoben durch RRB vom 14. Januar 1992, in Kraft getreten am 16. Dezember 1991 (Amtsblatt 1992, S. 85).
+
+- 10) Fassung gemäss RRB vom 13. September 1994, in Kraft getreten am 1. Januar 1995 (Amtsblatt 1994, S. 1639).
+
+- 11) SHR 641.112.
+
+- 12) Amtsblatt 1977, S. 1453.
+
+- 13) Fassung gemäss V vom 3. Januar 2001, in Kraft getreten am 1. Januar 2001 (Amtsblatt 2001, S. 68).
+
+- 14) Fassung gemäss RRB vom 12. Februar 2002, in Kraft getreten am 1. März 2002 (Amtsblatt 2002, S. 239).
+
+- 15) Fassung gemäss RRB vom 6. Januar 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 29).
+
+- 16) Aufgehoben durch RRB vom 26. April 2005, in Kraft getreten am 1. Mai 2005 (Amtsblatt 2005, S. 593).
+
+- 17) Aufgehoben durch RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1839).
+
+- 18) Fassung gemäss RRB vom 8. Dezember 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1839).
+
+- 19) SHR 641.100.
