@@ -1,47 +1,43 @@
 ---
 canton: SH
 number: "132.320"
-title: "Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug über die Reorganisation und neue Umschreibung des Bistums Basel (Übersetzung)"
+title: "Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug über die Reorganisation und neue Umschreibung des Bistums Basel"
 language: de
 version: 1828-03-26
+corrected: 2024-06-18
 version_adopted: 1828-03-26
 adopted: 1828-03-26
 in_force: 1828-03-26
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/132.320"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1610/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/25/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug über die Reorganisation und neue Umschreibung des Bistums Basel (Übersetzung)
+# Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug über die Reorganisation und neue Umschreibung des Bistums Basel
 
-Vom 26.03.1828 (Stand 26.03.1828)[^t-1]
+vom 26. März 1828
+
+Übersetzung <sup>1)</sup>
 
 Übereinkunft wegen der Wiederherstellung und neuen Umschreibung des Bisthums Basel.
 
-Da die Übereinkunft vom 12. Märzmonat 1827, betreffend die Wiederherstellung und neue Umschreibung des Bisthums Basel, nicht von sämmtlichen Kantonen die Genehmigung erhalten hat, Namens welcher sie abgeschlossen worden war, – so haben die hohen Stände Luzern, Bern, Solothurn und Zug, durch die Überzeugung der dringenden Nothwendigkeit geleitet, dass dem provisorischen Zustande ein Ende gemacht werde, in welchem sich die Bisthumsangelegenheiten befinden, sich entschlossen, in so weit es sie beschlägt, der obenerwähnten Übereinkunft, unter den durch die veränderten Umstände nothwendig gewordenen Abänderungen, Folge zu geben; zu welchem Ende sie die Unterhandlungen wieder haben erneuern lassen.
+Da die Übereinkunft vom 12. Märzmonat 1827, betreffend die Wiederherstellung und neue Umschreibung des Bisthums Basel, nicht von sämmtlichen Kantonen die Genehmigung erhalten hat, Namens welcher sie abgeschlossen worden war, - so haben die hohen Stände Luzern, Bern, Solothurn und Zug, durch die Überzeugung der dringenden Nothwendigkeit geleitet, dass dem provisorischen Zustande ein Ende gemacht werde, in welchem sich die Bisthumsangelegenheiten befinden, sich entschlossen, in so weit es sie beschlägt, der obenerwähnten Übereinkunft, unter den durch die veränderten Umstände nothwendig gewordenen Abänderungen, Folge zu geben; zu welchem Ende sie die Unterhandlungen wieder haben erneuern lassen.
 
-zwischen
+zwischen Herrn Pascal Gizzi, apostolischem Internuntius bei der Schweizerischen Eidgenossenschaft, als von Seite Seiner Heiligkeit, Papst Leo XII., mit dieser Unterhandlung beauftragt, und Seiner Exzellenz Herrn Joseph Karl Amrhyn, Schultheiss der Stadt und Republik Luzern, und Herrn Ludwig von Roll, Staatsrath der Republik Solothurn, als von den Kantonen ermächtigten Kommissarien, welche hierauf, vermöge ihrer frühern in der Zeit ausgewechselten Vollmachten, unter Vorbehalt der Genehmigung ihrer Hohen Kommittenten, über nachstehende Grundlagen übereingekommen sind,
 
-Herrn Pascal Gizzi, apostolischem Internuntius bei der Schweizerischen Eidgenossenschaft, als von Seite Seiner Heiligkeit, Papst Leo XII., mit dieser Unterhandlung beauftragt,
-
-und
-
-Seiner Exzellenz Herrn Joseph Karl Amrhyn, Schultheiss der Stadt und Republik Luzern, und Herrn Ludwig von Roll, Staatsrath der Republik Solothurn, als von den Kantonen ermächtigten Kommissarien,
-
-welche hierauf, vermöge ihrer frühern in der Zeit ausgewechselten Vollmachten, unter Vorbehalt der Genehmigung ihrer Hohen Kommittenten, über nachstehende Grundlagen übereingekommen sind,
+Amtsblatt 1978, S. 731; Rechtsbuch 1964, Nr. 15d.
 
 als:
 
-[^t-1]: Verbindlich ist der französische Text. Die Übersetzung wurde Ulrich Lampert, Kirche und Staat in der Schweiz, Band 3, Freiburg 1939, S. 63 ff., entnommen.
-
 #### Art. 1
 
-<sup>1</sup> Die katholische Bevölkerung der Kantone Luzern, Solothurn, und desjenigen Gebietsheils des Kantons Bern, welcher demselben durch die Wiener Kongressakte abgetreten worden, so wie diejenige des Kantons Zug, wird künftighin das Bisthum Basel bilden.
+Die katholische Bevölkerung der Kantone Luzern, Solothurn, und desjenigen Gebietsheils des Kantons Bern, welcher demselben durch die Wiener Kongressakte abgetreten worden, so wie diejenige des Kantons Zug, wird künftighin das Bisthum Basel bilden.
 
 #### Art. 2
 
-<sup>1</sup> Die Residenz des Bischofs und des Domkapitels wird nach der Stadt Solothurn versetzt. Als Folge davon wird die dortige Stiftskirche von St. Urs und Viktor, mit Beibehaltung ihrer bisherigen Eigenschaft einer Pfarrkirche, zur Kathedralkirche und das dasige Kollegiatstift zum Domstifte des Bisthums Basel erhoben werden.
+Die Residenz des Bischofs und des Domkapitels wird nach der Stadt Solothurn versetzt. Als Folge davon wird die dortige Stiftskirche von St. Urs und Viktor, mit Beibehaltung ihrer bisherigen Eigenschaft einer Pfarrkirche, zur Kathedralkirche und das dasige Kollegiatstift zum Domstifte des Bisthums Basel erhoben werden.
 
 #### Art. 3
 
@@ -55,19 +51,19 @@ als:
 
 #### Art. 4
 
-<sup>1</sup> Die in dem vorstehenden Artikel benannten 10 Domherren bilden den geistlichen Rath des Bischofs.
+Die in dem vorstehenden Artikel benannten 10 Domherren bilden den geistlichen Rath des Bischofs.
 
 #### Art. 5
 
-<sup>1</sup> Denselben steht – im Falle der Erledigung des bischöflichen Stuhls – das Recht zu, nach der Vorschrift des zwölften Artikels den Bischof zu wählen.
+Denselben steht - im Falle der Erledigung des bischöflichen Stuhls - das Recht zu, nach der Vorschrift des zwölften Artikels den Bischof zu wählen.
 
 #### Art. 6
 
-<sup>1</sup> Von den Kaplänen am Kollegiatstifte von St. Urs und Viktor werden 10 dem Domkapitel zum Behuf des Gottesdienstes und anderer kirchlicher Verrichtungen beigegeben.
+Von den Kaplänen am Kollegiatstifte von St. Urs und Viktor werden 10 dem Domkapitel zum Behuf des Gottesdienstes und anderer kirchlicher Verrichtungen beigegeben.
 
 #### Art. 7
 
-<sup>1</sup> Durch die Fabrica des nämlichen Kollegiatstiftes, deren jährliches Einkommen beiläufig Fr. 2'000.00 betragen mag, werden der Kirchenschmuck, die Verzierungen, und alle übrigen, zum Gottesdienste nöthigen Gerätheschaften, geliefert und unterhalten.
+<sup>1</sup> Durch die Fabrica des nämlichen Kollegiatstiftes, deren jährliches Einkommen beiläufig 2000 Franken betragen mag, werden der Kirchenschmuck, die Verzierungen, und alle übrigen, zum Gottesdienste nöthigen Gerätheschaften, geliefert und unterhalten.
 
 <sup>2</sup> Damit für diese Gegenstände noch angemessener Fürsorge getroffen werden könne, sind die während der Erledigung des bischöflichen Stuhls fliessenden Einkünfte der bischöflichen Tafel der nämlichen Fabrica angewiesen.
 
@@ -81,21 +77,21 @@ als:
 
 #### Art. 9
 
-<sup>1</sup> Die Einkünfte des Bischofs sind auf Fr. 8'000.00 festgesetzt.
+<sup>1</sup> Die Einkünfte des Bischofs sind auf 8000 Schweizerfranken festgesetzt.
 
 <sup>2</sup> Dem Domprobst sind die Einkünfte des Probstes an dem Kollegiatstifte von St. Urs und Viktor angewiesen.
 
-<sup>3</sup> Der Domdechant erhält zu den Einkünften seiner Chorpfründe eine jährlige Zulage von Fr. 800.00.
+<sup>3</sup> Der Domdechant erhält zu den Einkünften seiner Chorpfründe eine jährlige Zulage von 800 Franken.
 
-<sup>4</sup> Die jährlichen Einkünfte für jeden zur Residenz verpflichteten Domherrn der Kantone Luzern und Bern sind auf Fr. 2'000.00 festgesetzt.
+<sup>4</sup> Die jährlichen Einkünfte für jeden zur Residenz verpflichteten Domherrn der Kantone Luzern und Bern sind auf 2000 Franken festgesetzt.
 
 <sup>5</sup> Die Domherren, so wie die Kapläne von Solothurn und ihre Nachfolger, verbleiben im vollen Genusse ihrer, dem Kollegiatstifte von St. Urs und Viktor angehörenden Pfründen.
 
-<sup>6</sup> Hinsichtlich der nicht residirenden Domherren verpflichten sich die Regierungen, einem jeden von ihnen eine jährliche Summe von Fr. 300.00 verabfolgen zu lassen.
+<sup>6</sup> Hinsichtlich der nicht residirenden Domherren verpflichten sich die Regierungen, einem jeden von ihnen eine jährliche Summe von 300 Franken verabfolgen zu lassen.
 
 #### Art. 10
 
-<sup>1</sup> Ausser den oben bestimmten Einkünften werden dem Bischof und den zur Residenz verpflichteten Domherren ihrer Würde angemessene Wohnungen angewiesen.
+Ausser den oben bestimmten Einkünften werden dem Bischof und den zur Residenz verpflichteten Domherren ihrer Würde angemessene Wohnungen angewiesen.
 
 #### Art. 11
 
@@ -133,26 +129,71 @@ als:
 
 #### Art. 14
 
-<sup>1</sup> Der Bischof wird in die Hände der Abgeordneten der Kantone, welche das Bisthum Basel bilden, folgenden Eid leisten:
+Der Bischof wird in die Hände der Abgeordneten der Kantone, welche das Bisthum Basel bilden, folgenden Eid leisten:
 
-<sup>2</sup> ...[^14-1]
-
-[^14-1]: Ersetzt durch die feierliche Erklärung gemäss Art. 4 der Zusatzvereinbarung vom 2. Mai 1978.
+... <sup>2)</sup>
 
 #### Art. 15
 
-<sup>1</sup> Es wird hier die feierliche Versicherung gegeben, dass, wenn früher oder später, und unter welchen Verumständungen es geschehe, der Sitz des Bischofs und des Domkapitels ausser die Stadt Solothurn verlegt werden sollte, alsdann das Stift zu St. Urs und Viktor wieder gänzlich auf den gleichen Fuss werde hergestellt werden, auf dem es sich zur Zeit seiner Erhebung zum Domkapitel befunden hatte.
+Es wird hier die feierliche Versicherung gegeben, dass, wenn früher oder später, und unter welchen Verumständungen es geschehe, der Sitz des Bischofs und des Domkapitels ausser die Stadt Solothurn verlegt werden sollte, alsdann das Stift zu St. Urs und Viktor wieder gänzlich auf den gleichen Fuss werde hergestellt werden, auf dem es sich zur Zeit seiner Erhebung zum Domkapitel befunden hatte.
 
 #### Art. 16
 
 <sup>1</sup> Der Beitritt zur neuen Umschreibung des Bisthums Basel ist den Kantonen Basel und Aargau für den Theil ihrer katholischen Bevölkerung, der in demselben nicht schon einbegriffen ist, so wie dem Kanton Thurgau, nach den durch obigen Vertrag festgesetzten Grundlagen, vorbehalten und zugesichert.
 
-<sup>2</sup> Im Falle, dass einer oder der andere der genannten Kantone beitreten würde, so wird die bischöfliche Tafel bis auf das Maximum von Fr. 10'000.00, und zwar nach dem Maassstabe der einverleibten katholischen Bevölkerung des beitretenden Kantons, vermehrt.
+<sup>2</sup> Im Falle, dass einer oder der andere der genannten Kantone beitreten würde, so wird die bischöfliche Tafel bis auf das Maximum von 10'000 Schweizerfranken, und zwar nach dem Maassstabe der einverleibten katholischen Bevölkerung des beitretenden Kantons, vermehrt.
 
-<sup>3</sup> Wenn die Vereinigung aller oben erwähnten Kantone Statt finden sollte, so soll die Diözese mit einem Weihbischofe versehen werden, welchen der Bischof wählen wird, und dem die Diözesan-Kantone ein jährliches Einkommen von Fr. 2'000.00 zusichern werden.
+<sup>3</sup> Wenn die Vereinigung aller oben erwähnten Kantone Statt finden sollte, so soll die Diözese mit einem Weihbischofe versehen werden, welchen der Bischof wählen wird, und dem die Diözesan-Kantone ein jährliches Einkommen von 2'000 Schweizerfranken zusichern werden.
 
 <sup>4</sup> Jede weitere Anordnung in Bezug auf den Beitritt der mehrbenannten Kantone ist einer späteren Übereinkunft vobehalten.
 
 <sup>5</sup> Die Ratifikation der gegenwärtigen Übereinkunft, welche im Doppel ausgefertigt und besiegelt worden ist, sollen sobald immer möglich ausgewechselt werden.
 
-Abl. 1978, S. 731
+## Zusatzvereinbarung zwischen dem Schweizerischen Bundesrat und dem Heiligen Stuhl über die Organisation des Bistums Basel
+
+vom 2. Mai 1978
+
+Übersetzung des französischen Originaltextes Der Schweizerische Bundesrat in seinem eigenen Namen und im Namen der Kantone Luzern, Bern, Solothurn, Zug Aargau, Thurgau und Basel-Landschaft und der Heilige Stuhl im Hinblick auf die Übereinkunft vom 26. März 1828 zwischen den Hohen Ständen Luzern, Bern Solothurn und Zug und dem Heiligen Stuhl betreffend die Wiederherstellung und neue Umschreibung des Bistums Basel, in Anbetracht der Übereinkunft vom 2. Dezember 1828 zwischen dem Regierungsrat von Aargau und dem Apostolischen Nuntius über den Beitritt des hohen Standes Aargau zum neu errichteten Bistum Basel, in Anbetracht der Übereinkunft vom 11. April 1829 zwischen dem Regierungsrat von Thurgau und dem Apostolischen Nuntius über den Beitritt des Hohen Standes Thurgau zum neu errichteten Bistum Basel, in Anbetracht der Beitrittserklärung des grossen Rats des Kantons Basel vom 6. Oktober 1829 zur vorerwähnten Übereinkunft vom 26. März 1828 für die katholischen Gemeinden des Bezirks Birseck, in Anbetracht der Übereinkunft vom 11. Juni 1864 zwischen dem Präsidenten des Regierungsrats des Kantons Bern und dem Geschäftsträger des Heiligen Stuhls betreffend die Einverleibung des alten Kantonsteils Bern in das Bistum Basel, gestützt auf die Beschlüsse des Grossen Rats des Kantons Basel-Stadt und des Grossen Rats des Kantons Schaffhausen über die Einwilligung zum Anschluss ihres Kantons an das Bistum Basel und den Vollzug des Beitritts der beiden Kantone zur Übereinkunft von 1828, vom Wunsche geleitet, die vorerwähnte Übereinkunft vom 26. März 1828 den neuen Verhältnissen anzupassen, sind übereingekommen, eine Zusatzvereinbarung zu schliessen, und haben zu diesem Zweck zu ihren jeweiligen Bevollmächtigten ernannt:
+
+Der Schweizerische Bundesrat Herrn Botschafter Emanuael Diez, Chef der Direktion für Völkerrecht des Eidgenössischen Politischen Departements, und Herrn Dr. Alfred Wyser, Regierungsrat des Kantons Solothurn, Der Heilige Stuhl Seine Exzellenz Msgr. Ambrogio Marchioni, Titular-Erzbischof von Severiana, Apostolischen Nuntius in der Schweiz, welche nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten folgendes vereinbart haben:
+
+#### Art. 1
+
+Die katholische Bevölkerung der Kantone Basel-Stadt und Schaffhausen wird in das Bistum Basel eingegliedert, desgleichen die katholische Bevölkerung des ganzen Kantons Basel-Landschaft.
+
+#### Art. 2
+
+- a) Für die Kantone Basel-Landschaft, Basel-Stadt und Schaffhausen wird je ein nichtresidierender Domherr ernannt.
+
+- b) Die Ernennung des nichtresidierenden Domherrn in das Domkapitel geschieht nach dem in Artikel 12 der Übereinkunft vom 26. März 1828 für den Kanton Bern vorgesehenen Verfahren. Alle diese für den Kanton Bern geltenden Verfahrensvorschriften sind auch auf die Kantone Basel-Landschaft, Basel-Stadt und Schaffhausen anwendbar.
+
+#### Art. 3
+
+- a) Die Kantone Basel-Landschaft, Basel-Stadt und Schaffhausen kommen in den Genuss aller in der Übereinkunft vom 26. März 1828 den andern vertragsschliessenden Kantone gewährten Rechte und Vortei-
+
+- le. Sie erfüllen alle für die anderen Kantone festgelegten Pflichten und Verbindlichkeiten.
+
+- b) Jeder nichtunterzeichnende Kanton, welcher im Gebiet der kirchlichen Umschreibung des Bistums Basel gelegen ist, kann der durch diese Zusatzvereinbarung geänderten Übereinkunft vom 26. März 1828 beitreten.
+
+#### Art. 4
+
+<sup>1</sup> Der vom Bischof des Bistums nach dem Wortlaut von Art. 14 der Übereinkunft vom 26. März 1828 zu leistende Eid wird durch die folgende feierliche Erklärung ersetzt:
+
+<sup>2</sup> "Vor den Vertretern der Kantone, die das Bistum Basel bilden, verspreche ich, wie es einem Bischof geziemt, dass ich der Schweizerischen Eidgenossenschaft und diesen Kantonen die Treue halten werde. Ich verspreche, alles in meiner Macht Stehende zu tun, um in meiner Diözese das gute Einvernehmen zwischen der Römisch-katholischen Kirche und dem Staat sowie den religiösen Frieden und das Wohl des Schweizervolkes zu fördern."
+
+#### Art. 5
+
+<sup>1</sup> Diese Zusatzvereinbarung bedarf der Ratifikation; die Ratifikationsurkunden sollen sobald wie möglich in Bern ausgetauscht werden. Sie tritt am Tage des Austausches der Ratifikationsurkunden in Kraft.
+
+<sup>2</sup> Zu Urkund dessen haben die genannten Bevollmächtigten die Zusatzvereinbarung unterschrieben.
+
+<sup>3</sup> Geschehen zu Bern am 2. Mai 1978 in zwei Originalausfertigungen in französischer Sprache.
+
+Ratifiziert am 19. Juli 1978
+
+Fussnoten:
+
+## Weitere Fussnoten
+
+- [1] Verbindlich ist der französische Text. Die Übersetzung wurde Ulrich Lampert, Kirche und Staat in der Schweiz, Band 3, Freiburg 1939, S. 63 ff., entnommen.
+- [2] Ersetzt durch die feierliche Erklärung gemäss Art. 4 der Zusatzvereinbarung vom 2. Mai 1978.
