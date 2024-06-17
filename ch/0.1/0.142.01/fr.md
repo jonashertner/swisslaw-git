@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: "Constitution du 19 octobre 1953 de l'Organisation internationale pour les migrations"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: fr
-version: 2024-04-03
+version: 2024-06-18
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240403/fr/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240403-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240403/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240618/fr/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240618-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Amendements approuvés par l’Assemblée fédérale le 29 septembre 1988[^t-3]
 
 Acceptés par la Suisse le 2 décembre 1988 et entrés en vigueur le 14 novembre 1989
 
-(État le 3 avril 2024)
+(État le 18 juin 2024)
 
 [^t-1]: Anciennement: Constitution du Comité intergouvernemental pour les migrations européennes.
 [^t-2]: [RO 1972 171](https://fedlex.data.admin.ch/eli/oc/1972/166_171_171)
@@ -341,7 +341,7 @@ Les gouvernements membres du Comité intergouvernemental pour les migrations eur
 
 Les textes français, anglais et espagnol de la présente Constitution sont considérés comme également authentiques.
 
-Champ d’application le 3 avril 2024[^t-4]
+Champ d’application le 18 juin 2024[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -482,6 +482,7 @@ Champ d’application le 3 avril 2024[^t-4]
 <tr><td>Russie</td><td>19 avril</td><td>2021</td><td>19 avril</td><td>2021</td></tr>
 <tr><td>Rwanda</td><td>2 décembre</td><td>2002</td><td>2 décembre</td><td>2002</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
+<tr><td>Saint-Siège</td><td>5 décembre</td><td>2011</td><td>5 décembre</td><td>2011</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>27 novembre</td><td>2012</td><td>27 novembre</td><td>2012</td></tr>
 <tr><td>Sainte-Lucie</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
 <tr><td>Samoa</td><td>25 novembre</td><td>2014</td><td>25 novembre</td><td>2014</td></tr>
@@ -508,6 +509,7 @@ Champ d’application le 3 avril 2024[^t-4]
 <tr><td>Tonga</td><td>5 décembre</td><td>2016</td><td>5 décembre</td><td>2016</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>29 juin</td><td>2009</td><td>29 juin</td><td>2009</td></tr>
 <tr><td>Tunisie</td><td>3 juin</td><td>1999</td><td>3 juin</td><td>1999</td></tr>
+<tr><td>Turkménistan</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2013</td></tr>
 <tr><td>Turquie</td><td>30 novembre</td><td>2004</td><td>30 novembre</td><td>2004</td></tr>
 <tr><td>Tuvalu</td><td>30 juin</td><td>2016</td><td>30 juin</td><td>2016</td></tr>
 <tr><td>Ukraine</td><td>27 novembre</td><td>2001</td><td>27 novembre</td><td>2001</td></tr>
@@ -520,4 +522,4 @@ Champ d’application le 3 avril 2024[^t-4]
 <tr><td>Zimbabwe</td><td>2 décembre</td><td>2002</td><td>2 décembre</td><td>2002</td></tr>
 </table>
 
-[^t-4]: [RO 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-4]: [RO 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143), [285](https://fedlex.data.admin.ch/eli/oc/2024/285). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

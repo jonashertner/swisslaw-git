@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: "Costituzione del 19 ottobre 1953 dell'Organizzazione internazionale per le migrazioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: it
-version: 2024-04-03
+version: 2024-06-18
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240403/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240403-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240403/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240618/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240618-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **1989** 2488; FF **1988** I 1237[^t-1]
 
 Traduzione
 
-Accettata il 19 ottobre 1953[^t-2] ed emendata il 20 maggio 1987
+Accettata il 19 ottobre 1953[^t-2] ed emendata il 20 maggio 1987 Emendamenti approvati dall’Assemblea federale il 29 settembre 1988[^t-3] Accettati dalla Svizzera il 2 dicembre 1988 ed entrati in vigore il 14 novembre 1989
 
-Emendamenti approvati dall’Assemblea federale il 29 settembre 1988[^t-3]
-
-accettati dalla Svizzera il 2 dicembre 1988 ed entrati in vigore il 14 novembre 1989
-
-(Stato 3 aprile 2024)
+(Stato 18 giugno 2024)
 
 [^t-1]: In origine «Costituzione del Comitato intergovernativo per le migrazioni europee».
 [^t-2]: RU **1972** 172
@@ -343,10 +339,10 @@ I Governi membri del comitato intergovernativo per le migrazioni europee i quali
 
 I testi francese, inglese e spagnolo della presente Costituzione sono considerati come ugualmente autentici.
 
-Campo d’applicazione il 3 aprile 2024[^t-4]
+Campo d’applicazione il 18 giugno 2024[^t-4]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Accettazione Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Accettazione Adesione (A) Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>4 giugno</td><td>2004</td><td>4 giugno</td><td>2004</td></tr>
 <tr><td>Albania</td><td>26 maggio</td><td>1993</td><td>26 maggio</td><td>1993</td></tr>
 <tr><td>Algeria</td><td>7 giugno</td><td>2000</td><td>7 giugno</td><td>2000</td></tr>
@@ -482,6 +478,7 @@ Campo d’applicazione il 3 aprile 2024[^t-4]
 <tr><td>Salomone, Isole</td><td>30 giugno</td><td>2016</td><td>30 giugno</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>25 novembre</td><td>2014</td><td>25 novembre</td><td>2014</td></tr>
 <tr><td>Santa Lucia</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
+<tr><td>Santa Sede</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
 <tr><td>Seicelle</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Senegal</td><td>29 novembre</td><td>1994</td><td>29 novembre</td><td>1994</td></tr>
@@ -508,6 +505,7 @@ Campo d’applicazione il 3 aprile 2024[^t-4]
 <tr><td>Trinidad e Tobago</td><td>29 giugno</td><td>2009</td><td>29 giugno</td><td>2009</td></tr>
 <tr><td>Tunisia</td><td>3 giugno</td><td>1999</td><td>3 giugno</td><td>1999</td></tr>
 <tr><td>Turchia</td><td>30 novembre</td><td>2004</td><td>30 novembre</td><td>2004</td></tr>
+<tr><td>Turkmenistan</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2013</td></tr>
 <tr><td>Tuvalu</td><td>30 giugno</td><td>2016</td><td>30 giugno</td><td>2016</td></tr>
 <tr><td>Ucraina</td><td>27 novembre</td><td>2001</td><td>27 novembre</td><td>2001</td></tr>
 <tr><td>Uganda</td><td>27 maggio</td><td>1992</td><td>27 maggio</td><td>1992</td></tr>
@@ -522,4 +520,4 @@ Campo d’applicazione il 3 aprile 2024[^t-4]
 <tr><td>Zimbabwe</td><td>2 dicembre</td><td>2002</td><td>2 dicembre</td><td>2002</td></tr>
 </table>
 
-[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344);[2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143), [285](https://fedlex.data.admin.ch/eli/oc/2024/285). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

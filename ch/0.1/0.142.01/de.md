@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: Satzung vom 19. Oktober 1953 der Internationalen Organisation für Migrationen
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: de
-version: 2024-04-03
+version: 2024-06-18
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240403/de/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240403-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240403/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20240618/de/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20240618-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20240618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1989** 2488; BBl **1988** I 1489[^t-1]
 
 Angenommen am 19. Oktober 1953[^t-2] und geändert am 20. Mai 1987 Änderungen genehmigt von der Bundesversammlung am 29. September 1988[^t-3], angenommen von der Schweiz am 2. Dezember 1988 und in Kraft getreten am 14. November 1989
 
-(Stand am 3. April 2024)
+(Stand am 18. Juni 2024)
 
 [^t-1]: Ursprünglich: Gründungsakte des Zwischenstaatlichen Komitees für Europäische Auswanderung.
 [^t-2]: [AS 1972 166](https://fedlex.data.admin.ch/eli/oc/1972/166_171_171)
@@ -337,7 +337,7 @@ Die Mitgliedsregierungen des Zwischenstaatlichen Komitees für Europäische Ausw
 
 Der französische, englische und spanische Wortlaut dieser Satzung ist gleichermassen verbindlich.
 
-Geltungsbereich am 3. April 2024[^t-4]
+Geltungsbereich am 18. Juni 2024[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Annahme Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -394,6 +394,7 @@ Geltungsbereich am 3. April 2024[^t-4]
 <tr><td>Guinea-Bissau</td><td>23. November</td><td>1998</td><td>23. November</td><td>1998</td></tr>
 <tr><td>Guyana</td><td>5. Dezember</td><td>2011</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Haiti</td><td>28. November</td><td>1995</td><td>28. November</td><td>1995</td></tr>
+<tr><td>Heiliger Stuhl</td><td>5. Dezember</td><td>2011</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Honduras</td><td>13. November</td><td>1967</td><td>13. November</td><td>1967</td></tr>
 <tr><td>Indien</td><td>18. Juni</td><td>2008</td><td>18. Juni</td><td>2008</td></tr>
 <tr><td>Iran</td><td>27. November</td><td>2001</td><td>27. November</td><td>2001</td></tr>
@@ -501,6 +502,7 @@ Geltungsbereich am 3. April 2024[^t-4]
 <tr><td>Tschechische Republik</td><td>28. November</td><td>1995</td><td>28. November</td><td>1995</td></tr>
 <tr><td>Tunesien</td><td>3. Juni</td><td>1999</td><td>3. Juni</td><td>1999</td></tr>
 <tr><td>Türkei</td><td>30. November</td><td>2004</td><td>30. November</td><td>2004</td></tr>
+<tr><td>Turkmenistan</td><td>26. November</td><td>2013</td><td>26. November</td><td>2013</td></tr>
 <tr><td>Tuvalu</td><td>30. Juni</td><td>2016</td><td>30. Juni</td><td>2016</td></tr>
 <tr><td>Uganda</td><td>27. Mai</td><td>1992</td><td>27. Mai</td><td>1992</td></tr>
 <tr><td>Ukraine</td><td>27. November</td><td>2001</td><td>27. November</td><td>2001</td></tr>
@@ -516,4 +518,4 @@ Geltungsbereich am 3. April 2024[^t-4]
 <tr><td>Zypern</td><td>28. Mai</td><td>1974</td><td>28. Mai</td><td>1974</td></tr>
 </table>
 
-[^t-4]: [AS 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267); [2024 143](https://fedlex.data.admin.ch/eli/oc/2024/143), [285](https://fedlex.data.admin.ch/eli/oc/2024/285). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
