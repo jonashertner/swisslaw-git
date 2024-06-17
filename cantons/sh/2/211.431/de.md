@@ -4,28 +4,30 @@ number: "211.431"
 title: Grundbuchverordnung
 language: de
 version: 2014-01-01
+corrected: 2024-06-18
 version_adopted: 2013-12-03
 adopted: 1999-03-30
 in_force: 1999-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.431"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1669/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/231/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Grundbuchverordnung
 
-Vom 30.03.1999 (Stand 01.01.2014)
+vom 30. März 1999
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 128 ff. des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches sowie die entsprechenden bundesrechtlichen Bestimmungen,
 
-beschliesst:
+verordnet:
 
-## 1 Vorschriften über die Führung der Grundbucheinrichtungen
+## Erster Abschnitt: Vorschriften über die Führung der Grundbucheinrichtungen
 
-### 1.1 Anwendbare Vorschriften
+### A. Anwendbare Vorschriften
 
 #### § 1
 
@@ -33,19 +35,21 @@ beschliesst:
 
 <sup>1</sup> Das Grundbuch wird nach den Vorschriften des eidgenössischen Grundbuchrechtes und den ergänzenden kantonalen Bestimmungen geführt.
 
-<sup>2</sup> Bis zum Inkrafttreten des eidgenössischen Grundbuchs gilt das kantonale Grundbuch, bestehend aus Hauptbuch, Servitutenprotokoll, Pfandprotokoll, Tagebuch und Belegen. Die Eintragungen und Löschungen haben in Bezug auf Entstehung, Änderung oder Untergang von dinglichen Rechten an Grundstücken Grundbuchwirkung. Für das kantonale Grundbuch sind die Vorschriften des eidgenössischen Grundbuchrechtes anzuwenden.
+<sup>2</sup> Bis zum Inkrafttreten des eidgenössischen Grundbuchs gilt das kantonale Grundbuch, bestehend aus Hauptbuch, Servitutenprotokoll, Pfandprotokoll, Tagebuch und Belegen. Die Eintragungen und Löschungen haben in Bezug auf Entstehung, Aenderung oder Untergang von dinglichen Rechten an Grundstücken Grundbuchwirkung. Für das kantonale Grundbuch sind die Vorschriften des eidgenössischen Grundbuchrechtes anzuwenden.
 
-### 1.2 Führung mit elektronischer Datenverarbeitung
+Amtsblatt 1999, S. 515.
+
+### B. Führung mit elektronischer Datenverarbeitung
 
 #### § 2
 
-**Führung**
+**I. Führung**
 
-<sup>1</sup> Das Grundbuch wird mit elektronischer Datenverarbeitung geführt (EDV-Grundbuch).
+Das Grundbuch wird mit elektronischer Datenverarbeitung geführt (EDV-Grundbuch).
 
 #### § 3
 
-**Personendaten**
+**II. Personendaten**
 
 <sup>1</sup> Die Personendaten, welche in jedem Fall mindestens in den Anmeldungsbelegen enthalten sein müssen (Art. 13a Abs. 1 der Verordnung des Bundesrates betreffend das Grundbuch [GBV]), werden elektronisch gespeichert.
 
@@ -53,45 +57,49 @@ beschliesst:
 
 #### § 4
 
-**Miteigentumsanteile**
+**III. Miteigentumsanteile**
 
-<sup>1</sup> Besteht Miteigentum an einem Grundstück und sind die Miteigentümer Ehegatten bzw. eingetragene Partnerinnen oder Partner, oder handelt es sich um Autoabstellplätze und dergleichen, bestimmt das Grundbuchamt im Sinne von Art. 111c Abs. 2 GBV, ob die Anteile als Grundstücke ins Grundbuch aufgenommen werden.
+Besteht Miteigentum an einem Grundstück und sind die Miteigentümer Ehegatten bzw. eingetragene Partnerinnen oder Partner, oder handelt es sich um Autoabstellplätze und dergleichen, bestimmt das Grundbuchamt im Sinne von Art. 111c Abs. 2 GBV, ob die Anteile als Grundstücke ins Grundbuch aufgenommen werden.[^4-1]
+
+[^4-1]: Fassung gemäss RRB vom 5. Dezember 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 1687).
 
 #### § 5
 
-**Datenbezug durch das Grundbuchamt**
+**IV. Datenbezug durch das Grundbuchamt**
 
-<sup>1</sup> Das Grundbuchamt kann auf dem Weg der elektronischen Übermittlung Daten von andern Informationssystemen benützen.
+<sup>1</sup> Das Grundbuchamt kann auf dem Weg der elektronischen Uebermittlung Daten von andern Informationssystemen benützen.
 
 <sup>2</sup> Die Benützung hat im Rahmen der gesetzlichen Möglichkeiten und soweit sie der Erfüllung der Aufgaben des Grundbuchamtes dient zu erfolgen.
 
 #### § 6
 
-**Datenzugriff durch Dritte**
+**V. Datenzugriff durch Dritte**
 
-<sup>1</sup> Das Grundbuchamt gewährt dem Amt für Geoinformation direkten Zugriff auf Daten des Hauptbuchs, welche zur Erfüllung dieser Aufgabe benötigt werden.
+<sup>1</sup> Das Grundbuchamt gewährt dem Amt für Geoinformation[^6-1] direkten Zugriff auf Daten des Hauptbuchs, welche zur Erfüllung dieser Aufgabe benötigt werden.
 
 <sup>2</sup> Der Regierungsrat kann im Rahmen der bundesrechtlichen Bestimmungen weiteren Personen und Behörden einen direkten oder mittelbaren Zugriff gewähren. Er hört dabei zuvor das Grundbuchamt und die Datenschutzbeauftragte oder den Datenschutzbeauftragten an.
 
+[^6-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
+
 #### § 7
 
-**Datenschutz und Datensicherheit**
+**VI. Datenschutz und Datensicherheit**
 
-<sup>1</sup> Für Datenschutz und Datensicherheit sind die Bestimmungen der GBV, das kantonale Datenschutzgesetz und die vom Regierungsrat genehmigten Konzepte massgebend.
+Für Datenschutz und Datensicherheit sind die Bestimmungen der GBV, das kantonale Datenschutzgesetz und die vom Regierungsrat genehmigten Konzepte massgebend.
 
-### 1.3 Hauptbuch, Hilfsregister und Kontrollen
+### C. Hauptbuch, Hilfsregister und Kontrollen
 
 #### § 8
 
-**Validierung**
+**I. Validierung**
 
-<sup>1</sup> Alle Einträge im Hauptbuch sowie in den Hilfsregistern und Kontrollen sind durch den Grundbuchverwalter bzw. die Grundbuchverwalterin oder dessen bzw. deren Stellvertreter oder Stellvertreterin zu validieren.
+Alle Einträge im Hauptbuch sowie in den Hilfsregistern und Kontrollen sind durch den Grundbuchverwalter bzw. die Grundbuchverwalterin oder dessen bzw. deren Stellvertreter oder Stellvertreterin zu validieren.
 
 #### § 9
 
-**Vom Bundesrecht vorgeschriebene Hilfsregister: Eigentümerregister**
+**II Vom Bundesrecht vorgeschriebene Hilfsregister 1. Eigentümerregister**
 
-<sup>1</sup> Das Eigentümerregister wird elektronisch geführt und ist Bestandteil des EDV-Grundbuchs.
+Das Eigentümerregister wird elektronisch geführt und ist Bestandteil des EDV-Grundbuchs.
 
 #### § 10
 
@@ -101,34 +109,39 @@ beschliesst:
 
 #### § 11
 
-**Kantonale Hilfsregister und Kontrollen: Arten**
+**III. Kantonale Hilfsregister und Kontrollen 1. Arten**
 
 <sup>1</sup> Ausser den vom Bundesrecht vorgeschriebenen werden folgende Hilfsregister und Kontrollen geführt:
 
 - a) Register über Personenrechte (§ 12)
+
 - b) Servitutenregister (§ 13)
+
 - c) Pfandregister (§ 14)
+
 - d) Pfandtitelkontrolle (§ 15)
+
 - e) Messurkundenkontrolle (§ 16)
-- f) Sammlung der Doppel der Anzeigen an die Pfandrechtsgläubiger bzw. ‑gläubigerinnen (§ 17)
+
+- f) Sammlung der Doppel der Anzeigen an die Pfandrechtsgläubiger bzw. –gläubigerinnen (§ 17).
 
 <sup>2</sup> Diese Register können auch elektronisch geführt werden.
 
 #### § 12
 
-**Kantonale Hilfsregister und Kontrollen: Register über Personenrechte**
+**2. Register über Personenrechte**
 
-<sup>1</sup> Im Register über Personenrechte sind für jede beteiligte Person die Rechte aus Dienstbarkeiten, Grundlasten, Vormerkungen und Grundpfandrechten sowie die durch sie abgegebenen Grundbuch- und Geschäftsfallanmeldungen ersichtlich.
+Im Register über Personenrechte sind für jede beteiligte Person die Rechte aus Dienstbarkeiten, Grundlasten, Vormerkungen und Grundpfandrechten sowie die durch sie abgegebenen Grundbuch- und Geschäftsfallanmeldungen ersichtlich.
 
 #### § 13
 
-**Kantonale Hilfsregister und Kontrollen: Servitutenregister**
+**3. Servitutenregister**
 
-<sup>1</sup> Die Dienstbarkeiten und Grundlasten werden in ihrem vollständigen Wortlaut in das Servitutenregister eingetragen. Jeder Eintrag erfolgt auf besonderem Blatt.
+Die Dienstbarkeiten und Grundlasten werden in ihrem vollständigen Wortlaut in das Servitutenregister eingetragen. Jeder Eintrag erfolgt auf besonderem Blatt.
 
 #### § 14
 
-**Kantonale Hilfsregister und Kontrollen: Pfandregister**
+**4. Pfandregister**
 
 <sup>1</sup> Die Grundpfandrechte werden in das Pfandregister eingetragen. Der Eintrag kann sich auf die wesentlichen Punkte beschränken. Jeder Eintrag erfolgt auf besonderem Blatt.
 
@@ -136,7 +149,7 @@ beschliesst:
 
 #### § 15
 
-**Kantonale Hilfsregister und Kontrollen: Pfandtitelkontrolle**
+**5. Pfandtitelkontrolle**
 
 <sup>1</sup> Sämtliche beim Grundbuchamt eingehenden sowie die neu errichteten Pfandtitel werden nach Nummern geordnet in die Pfandtitelkontrolle eingetragen. Die Nummerierung hat pro Kalenderjahr zu erfolgen. Die Löschungen sowie die Aushändigungen der Pfandtitel müssen ersichtlich sein.
 
@@ -144,23 +157,23 @@ beschliesst:
 
 #### § 16
 
-**Kantonale Hilfsregister und Kontrollen: Messurkundenkontrolle**
+**6. Messurkundenkontrolle**
 
-<sup>1</sup> Sämtliche beim Grundbuchamt eingehenden, durch den Grundbuchgeometer bzw. die Grundbuchgeometerin ausgestellten Messurkunden werden in der Messurkundenkontrolle eingetragen.
+Sämtliche beim Grundbuchamt eingehenden, durch den Grundbuchgeometer bzw. die Grundbuchgeometerin ausgestellten Messurkunden werden in der Messurkundenkontrolle eingetragen.
 
 #### § 17
 
-**Kantonale Hilfsregister und Kontrollen: Sammlung der Doppel der Anzeigen an die Pfandrechtsgläubiger bzw. ‑gläubigerinnen**
+**7. Sammlung der Doppel der Anzeigen an die Pfandrechtsgläubiger bzw. – Gläubigerinnen**
 
-<sup>1</sup> Die von den Pfandrechtsgläubigern bzw. ‑gläubigerinnen unterzeichneten Doppel der Schuldübernahme- bzw. Schuldübergangsanzeigen sind, nach den Ordnungsnummern geordnet, aufzubewahren. Beim Geschäft ist auf die Ordnungsnummer der Anzeigen hinzuweisen; die Nummerierung hat pro Kalenderjahr zu erfolgen.
+<sup>1</sup> Die von den Pfandrechtsgläubigern bzw. -gläubigerinnen unterzeichneten Doppel der Schuldübernahme- bzw. Schuldübergangsanzeigen sind, nach den Ordnungsnummern geordnet, aufzubewahren. Beim Geschäft ist auf die Ordnungsnummer der Anzeigen hinzuweisen; die Nummerierung hat pro Kalenderjahr zu erfolgen.
 
-<sup>2</sup> Über die ausstehenden Anzeigendoppel ist Kontrolle zu führen.
+<sup>2</sup> Ueber die ausstehenden Anzeigendoppel ist Kontrolle zu führen.
 
-### 1.4 Belege
+### D. Belege
 
 #### § 18
 
-**Aufbewahrung**
+**I. Aufbewahrung**
 
 <sup>1</sup> Die Belege können als Gesamtdokumente oder als Haupt- und Nebenakten kantons- oder gemeindeweise aufbewahrt werden. Die Bestimmung als Haupt- und Nebenakten erfolgt nach Bedeutung der Dokumente.
 
@@ -168,48 +181,53 @@ beschliesst:
 
 #### § 19
 
-**Hauptakten: Schriftliche Anmeldung**
+**II. Hauptakten 1. Schriftliche Anmeldung**
 
-<sup>1</sup> Die öffentlichen Urkunden über die Begründung, Änderung und Aufhebung dinglicher Rechte an Grundstücken bilden zusammen mit den übrigen Belegen über den Rechtsgrundausweis und das Verfügungsrecht die Hauptakten und sind ab einem durch das Grundbuchamt zu bestimmenden Zeitpunkt nach Tagebuch-Nummern geordnet einzubinden.
+Die öffentlichen Urkunden über die Begründung, Aenderung und Aufhebung dinglicher Rechte an Grundstücken bilden zusammen mit den übrigen Belegen über den Rechtsgrundausweis und das Verfügungsrecht die Hauptakten und sind ab einem durch das Grundbuchamt zu bestimmenden Zeitpunkt nach Tagebuch-Nummern geordnet einzubinden.
 
 #### § 20
 
-**Hauptakten: Telefonische Anmeldung**
+**2. Telefonische Anmeldung**
 
-<sup>1</sup> Wird die Grundbuchanmeldung im Sinne von Art. 13 Abs. 4 GBV telefonisch übermittelt, sind der Name der anrufenden Person, die Bezeichnung der Behörde oder des Gerichts und der Inhalt der Grundbuchanmeldung unverzüglich zu protokollieren. Dieses Protokoll, bei elektronischer Übermittlung der entsprechende Ausdruck, ist zu den Anmeldungsbelegen zu legen.
+Wird die Grundbuchanmeldung im Sinne von Art. 13 Abs. 4 GBV telefonisch übermittelt, sind der Name der anrufenden Person, die Bezeichnung der Behörde oder des Gerichts und der Inhalt der Grundbuchanmeldung unverzüglich zu protokollieren. Dieses Protokoll, bei elektronischer Uebermittlung der entsprechende Ausdruck, ist zu den Anmeldungsbelegen zu legen.
 
 #### § 21
 
-**Nebenakten**
+**III. Nebenakten**
 
-<sup>1</sup> Bei separater Aufbewahrung von Nebenakten ist im Hauptbeleg ein Nebenaktenverzeichnis anzubringen.
+Bei separater Aufbewahrung von Nebenakten ist im Hauptbeleg ein Nebenaktenverzeichnis anzubringen.
 
-### 1.5 Pfandtitel
+### E. Pfandtitel
 
 #### § 22
 
 **Aufbewahrung entkräfteter Pfandtitel**
 
-<sup>1</sup> Entkräftete Pfandtitel sind nach erfolgter Validierung zu vernichten, sofern der Grundeigentümer bzw. die Grundeigentümerin keine Aushändigung an ihn verlangt. Von Namenschuldbriefen werden die Bogen mit Übertragungsvermerken bei den Belegen aufbewahrt.
+<sup>1</sup> Entkräftete Pfandtitel sind nach erfolgter Validierung zu vernichten, sofern der Grundeigentümer bzw. die Grundeigentümerin keine Aushändigung an ihn verlangt. Von Namenschuldbriefen werden die Bogen mit Uebertragungsvermerken bei den Belegen aufbewahrt.
 
-<sup>2</sup> Verlangt der Grundeigentümer bzw. die Grundeigentümerin die Aushändigung eines entkräfteten Namentitels, der Übertragungsvermerke enthält, ist vom Bogen mit den Übertragungsvermerken eine Kopie zu den Belegen zu legen.
+<sup>2</sup> Verlangt der Grundeigentümer bzw. die Grundeigentümerin die Aushändigung eines entkräfteten Namentitels, der Uebertragungsvermerke enthält, ist vom Bogen mit den Uebertragungsvermerken eine Kopie zu den Belegen zu legen.
 
-### 1.6 Veröffentlichung der Eigentumsübertragung an Grundstücken
+### F. Veröffentlichung der Eigentumsübertragung an Grundstücken
 
 #### § 23
 
 **Ausnahmen**
 
-<sup>1</sup> Im Sinne von Art. 970a Abs. 3 ZGB sind die folgenden Erwerbsfälle nicht zu veröffentlichen:
+Im Sinne von Art. 970a Abs. 3 ZGB sind die folgenden Erwerbsfälle nicht zu veröffentlichen:
 
-- a) Grundstückflächen bis zu 50 m² ohne Gebäude, in der Bauzone
-- b) Grundstückflächen bis zu 500 m² ohne Gebäude, ausserhalb der Bauzone
-- c) Grundstückflächen bis zu 200 m² ohne Gebäude, für die Erstellung oder Erweiterung eines öffentlichen Werkes (Strasse, Bahn, Gewässer usw.)
-- d) im Güterzusammenlegungs-, Quartierplan- oder Grenzbereinigungsverfahren
-- e) Mit- oder Gesamteigentumsanteile von höchstens 15% bei Übertragungen an Beteiligte
-- f) kleine Einheiten im Stockwerkeigentum, wie Garageboxen, Abstell- und Bastelräume, sowie Wertquotenänderungen von höchstens 15% an der bisherigen Quote der abgebenden Einheit
+- a) Grundstückflächen bis zu 50 m2 ohne Gebäude, in der Bauzone;
 
-### 1.7 Mitteilungen
+- b) Grundstückflächen bis zu 500 m2 ohne Gebäude, ausserhalb der Bauzone;
+
+- c) Grundstückflächen bis zu 200 m2 ohne Gebäude, für die Erstellung oder Erweiterung eines öffentlichen Werkes (Strasse, Bahn, Gewässer usw.);
+
+- d) im Güterzusammenlegungs-, Quartierplan- oder Grenzbereinigungsverfahren;
+
+- e) Mit- oder Gesamteigentumsanteile von höchstens 15 % bei Uebertragungen an Beteiligte;
+
+- f) kleine Einheiten im Stockwerkeigentum, wie Garageboxen, Abstell- und Bastelräume, sowie Wertquotenänderungen von höchstens 15 % an der bisherigen Quote der abgebenden Einheit.
+
+### G. Mitteilungen
 
 #### § 24
 
@@ -217,78 +235,89 @@ beschliesst:
 
 <sup>1</sup> Mitteilungen über Rechtsgeschäfte an andere Amtsstellen haben unter Berücksichtigung der nachgewiesenen Interessen nach Absprache zu erfolgen.
 
-<sup>2</sup> Vollzogene Änderungen aus Messurkunden sind dem Grundbuchgeometer bzw. der Grundbuchgeometerin zu bestätigen.
+<sup>2</sup> Vollzogene Aenderungen aus Messurkunden sind dem Grundbuchgeometer bzw. der Grundbuchgeometerin zu bestätigen.
 
-### 1.8 Archivierung
+### H. Archivierung
 
 #### § 25
 
-**Aufbewahrungsfristen**
+**I. Aufbewahrungsfristen**
 
-<sup>1</sup> Die folgenden Akten sind während der bezeichneten Dauer aufzubewahren:
+Die folgenden Akten sind während der bezeichneten Dauer aufzubewahren:
 
-- a) Hauptakten: — unbeschränkt
-- b) Nebenakten: — 30 Jahre
-- c) Schuldbrief-Empfangsscheine: — 30 Jahre
-- d) Doppel der Anzeigen an die Pfandrechtsgläubiger: — 10 Jahre
+**unbeschränkt**
+
+- a) Hauptakten:
+
+**30 Jahre 30 Jahre**
+
+- b) Nebenakten:
+
+- c) Schuldbrief-Empfangsscheine:
+
+- d) Doppel der Anzeigen an die Pfandrechtsgläubi- 10 Jahre ger:
 
 #### § 26
 
-**Sicherung**
+**II. Sicherung**
 
-<sup>1</sup> Alle nicht im EDV-Grundbuch enthaltenen Hilfsregister sind periodisch zu sichern.
+Alle nicht im EDV-Grundbuch enthaltenen Hilfsregister sind periodisch zu sichern.
 
-### 1.9 Besondere Rechtsverhältnisse
+### I. Besondere Rechtsverhältnisse
+
+[^hIBesondereRechtsv-1]: Fassung gemäss RRB vom 21. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1881).
 
 #### § 27
 
-**Grundbuchsperre**
+**I. Grundbuchsperre**[^hIBesondereRechtsv-1]
 
-<sup>1</sup> Von Strafverfolgungs- und Gerichtsbehörden erlassene Grundbuchsperren sind im Grundbuch anzumerken.
+Von Strafverfolgungs- und Gerichtsbehörden erlassene Grundbuchsperren sind im Grundbuch anzumerken.
 
 #### § 28
 
-**Gesetzliche Pfandrechte des kantonalen Rechtes**
+**II. Gesetzliche Pfandrechte des kantonalen Rechtes**
 
-<sup>1</sup> Bei der Eintragung von gesetzlichen Pfandrechten des kantonalen Rechtes sind die Bestimmungen der GBV über die Eintragung der Pfandrechte für Bodenverbesserungen sinngemäss anzuwenden.
+Bei der Eintragung von gesetzlichen Pfandrechten des kantonalen Rechtes sind die Bestimmungen der GBV über die Eintragung der Pfandrechte für Bodenverbesserungen sinngemäss anzuwenden.
 
 #### § 29
 
-**Stockwerkeigentum; Bestätigung über die Abgeschlossenheit der Sonderrechtsräume**
+**III. Stockwerkeigentum; Bestätigung über die Abgeschlossenheit der Sonderrechtsräume**
 
-<sup>1</sup> Der Gemeinderat oder die von ihm ermächtigte Stelle am Orte der gelegenen Sache ist die zuständige Behörde zur Ausstellung der amtlichen Bestätigung, wonach die zu Sonderrecht ausgeschiedenen Räume einer im Stockwerkeigentum stehenden Baute ganze in sich abgeschlossene Raumeinheiten mit eigenem Zugange sind (Art. 33b Abs. 2 und 33c Abs. 3 GBV).
+Der Gemeinderat oder die von ihm ermächtigte Stelle am Orte der gelegenen Sache ist die zuständige Behörde zur Ausstellung der amtlichen Bestätigung, wonach die zu Sonderrecht ausgeschiedenen Räume einer im Stockwerkeigentum stehenden Baute ganze in sich abgeschlossene Raumeinheiten mit eigenem Zugange sind (Art. 33b Abs. 2 und 33c Abs. 3 GBV).
 
 #### § 30
 
-**Freiwillige öffentliche Versteigerung von Grundstücken; Rechtsgrundausweis**
+**IV. Freiwillige öffentliche Versteigerung von Grundstücken; Rechtsgrundausweis**
 
-<sup>1</sup> Den Ausweis über den Rechtsgrund für die Eigentumsübertragung zufolge freiwilliger öffentlicher Versteigerung von Grundstücken bildet das Protokoll gemäss Art. 139 Abs. 3 Einführungsgesetz zum Zivilgesetzbuch.
+Den Ausweis über den Rechtsgrund für die Eigentumsübertragung zufolge freiwilliger öffentlicher Versteigerung von Grundstücken bildet das Protokoll gemäss Art. 139 Abs. 3 Einführungsgesetz zum Zivilgesetzbuch.
 
-## 2 Einführung des eidgenössischen Grundbuchs
+## Zweiter Abschnitt: Einführung des eidgenössischen Grundbuchs
 
-### 2.1 Bereinigungsverfahren
+### A. Bereinigungsverfahren
 
 #### § 31
 
-**Grundsatz / Organe**
+**I. Grundsatz / Organe**
 
 <sup>1</sup> Vor der Anlage des eidgenössischen Grundbuchs sind die Einträge im kantonalen Grundbuch (Eigentum, Dienstbarkeiten, Grundlasten, Grundpfandrechte, Vor- und Anmerkungen usw.) und die Anmeldungen noch nicht eingetragener Rechte nach den geltenden gesetzlichen und den nachstehenden Bestimmungen zu bereinigen.
 
 <sup>2</sup> Alle nach 60 Tagen seit dem Inkrafttreten des eidgenössischen Grundbuchs nicht eingetragenen dinglichen Rechte gelten als aufgehoben (Art. 44 Abs. 2 SchlT zum ZGB).
 
-<sup>3</sup> Die Bereinigung erfolgt durch das Grundbuchamt. Die Organe der Gemeinde und das Amt für Geoinformation haben bei der Bereinigung mitzuwirken.
+<sup>3</sup> Die Bereinigung erfolgt durch das Grundbuchamt. Die Organe der Gemeinde und das Amt für Geoinformation[^31-1] haben bei der Bereinigung mitzuwirken.
 
 <sup>4</sup> Protokolle des Grundbuchamtes oder der Gemeindeorgane über Bereinigungsverhandlungen gelten als öffentliche Urkunden.
 
+[^31-1]: Fassung gemäss RRB vom 3. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1801).
+
 #### § 32
 
-**Zweck**
+**II. Zweck**
 
-<sup>1</sup> Im Bereinigungsverfahren werden mit den Grundeigentümern bzw. Grundeigentümerinnen sowie weiteren Beteiligten Verhandlungen geführt, mit dem Zweck der Anerkennung der bereinigten Einträge.
+Im Bereinigungsverfahren werden mit den Grundeigentümern bzw. Grundeigentümerinnen sowie weiteren Beteiligten Verhandlungen geführt, mit dem Zweck der Anerkennung der bereinigten Einträge.
 
 #### § 33
 
-**Mitwirkungspflicht / Vertretung**
+**III. Mitwirkungspflicht / Vertretung**
 
 <sup>1</sup> Im Bereinigungsverfahren sind die Grundeigentümer bzw. Grundeigentümerinnen und die weiteren Beteiligten zur Mitwirkung verpflichtet.
 
@@ -296,67 +325,67 @@ beschliesst:
 
 #### § 34
 
-**Publikationen**
+**IV. Publikationen**
 
-<sup>1</sup> Öffentliche Publikationen erfolgen im kantonalen Amtsblatt.
+Oeffentliche Publikationen erfolgen im kantonalen Amtsblatt.
 
-### 2.2 Bereinigung bestehender Einträge
+### B. Bereinigung bestehender Einträge
 
 #### § 35
 
-**Eigentumsverhältnisse**
+**I. Eigentumsverhältnisse**
 
-<sup>1</sup> Im Bereinigungsverfahren sind die Eigentumsverhältnisse und die Eigentümerbezeichnungen zu überprüfen und allenfalls zu ergänzen.
+Im Bereinigungsverfahren sind die Eigentumsverhältnisse und die Eigentümerbezeichnungen zu überprüfen und allenfalls zu ergänzen.
 
 #### § 36
 
-**Umgewandeltes altrechtliches Stockwerkeigentum**
+**II. Umgewandeltes altrechtliches Stockwerkeigentum**
 
-<sup>1</sup> Altrechtliches Stockwerkeigentum, das in Miteigentum mit Dienstbarkeitsberechtigung umgewandelt und in dieser Form eingetragen worden ist, wird nach Art. 20<sup>ter</sup> SchlT zum ZGB den Vorschriften des ZGB über das Stockwerkeigentum unterstellt.
+<sup>1</sup> Altrechtliches Stockwerkeigentum, das in Miteigentum mit Dienstbarkeitsberechtigung umgewandelt und in dieser Form eingetragen worden ist, wird nach Artikel 20ter SchlT zum ZGB den Vorschriften des ZGB über das Stockwerkeigentum unterstellt.
 
-<sup>2</sup> Die Unterstellung wird im Einzelfall rechtswirksam, wenn die Eintragung im Hauptbuch entsprechend geändert worden ist (Art. 20<sup>ter</sup> Abs. 2 SchlT zum ZGB).
+<sup>2</sup> Die Unterstellung wird im Einzelfall rechtswirksam, wenn die Eintragung im Hauptbuch entsprechend geändert worden ist (Art. 20ter Abs. 2 SchlT zum ZGB).
 
-<sup>3</sup> Solches Stockwerkeigentum ist im Hauptbuch als «Stockwerkeigentum nach Art. 20<sup>ter</sup> SchlT zum ZGB» zu bezeichnen.
+<sup>3</sup> Solches Stockwerkeigentum ist im Hauptbuch als "Stockwerkeigentum nach Artikel 20ter SchlT zum ZGB" zu bezeichnen.
 
 #### § 37
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Grundsatz**
+**III. Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen 1. Grundsatz**
 
 <sup>1</sup> Mit der Bereinigung sollen die bisherigen Einträge in eine den tatsächlichen Verhältnissen und den geltenden gesetzlichen Bestimmungen entsprechende Form gebracht werden.
 
-<sup>2</sup> Das Grundbuchamt bestimmt:
+<sup>2</sup> Das Grundbuchamt bestimmt - Einträge, die nicht zu bereinigen sind;
 
-- a) Einträge, die nicht zu bereinigen sind
-- b) Einträge, Vermerke und Ansprüche, die zu bereinigen sind und einer Vereinbarung bedürfen
-- c) unzulässige und offensichtlich bedeutungslose Einträge, die zu löschen sind
+- Einträge, Vermerke und Ansprüche, die zu bereinigen sind und einer Vereinbarung bedürfen;
+
+- unzulässige und offensichtlich bedeutungslose Einträge, die zu löschen sind.
 
 #### § 38
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Unveränderte Einträge**
+**2. Unveränderte Einträge**
 
-<sup>1</sup> Einträge, die keiner Änderung bedürfen, und solche, die ohne materielle Änderung neu gefasst werden, behalten ihr Entstehungs- bzw. Eintragungsdatum.
+Einträge, die keiner Aenderung bedürfen, und solche, die ohne materielle Aenderung neu gefasst werden, behalten ihr Entstehungs- bzw. Eintragungsdatum.
 
 #### § 39
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Änderung von Einträgen**
+**3. Aenderung von Einträgen**
 
-<sup>1</sup> Über die Einträge, die nicht von Amtes wegen durch das Grundbuchamt bereinigt werden können, sind die Grundeigentümer bzw. Grundeigentümerinnen und weitere Beteiligte zur Bereinigung einzuvernehmen. Das Ergebnis der Einvernahme ist in einem Protokoll festzuhalten.
+Über die Einträge, die nicht von Amtes wegen durch das Grundbuchamt bereinigt werden können, sind die Grundeigentümer bzw. Grundeigentümerinnen und weitere Beteiligte zur Bereinigung einzuvernehmen. Das Ergebnis der Einvernahme ist in einem Protokoll festzuhalten.
 
 #### § 40
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Löschung von Einträgen**
+**4. Löschung von Einträgen**
 
-<sup>1</sup> Einträge, die unzweifelhaft untergegangen sind, sowie unzulässige und offensichtlich bedeutungslos gewordene Einträge sind von Amtes wegen zu löschen.
+Einträge, die unzweifelhaft untergegangen sind, sowie unzulässige und offensichtlich bedeutungslos gewordene Einträge sind von Amtes wegen zu löschen.
 
 #### § 41
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Anmerkung nicht eintragungsfähiger Rechte**
+**5. Anmerkung nicht eintragungsfähiger Rechte**
 
-<sup>1</sup> Eingetragene dingliche Rechte des kantonalen Rechts, die nicht bedeutungslos, aber nach den geltenden gesetzlichen Bestimmungen nicht mehr eintragungsfähig sind und nicht auf dem Wege der Vereinbarung oder durch Verfügung des Richters in eine eintragungsfähige Form gebracht werden können, sind im Grundbuch anzumerken.
+Eingetragene dingliche Rechte des kantonalen Rechts, die nicht bedeutungslos, aber nach den geltenden gesetzlichen Bestimmungen nicht mehr eintragungsfähig sind und nicht auf dem Wege der Vereinbarung oder durch Verfügung des Richters in eine eintragungsfähige Form gebracht werden können, sind im Grundbuch anzumerken.
 
 #### § 42
 
-**Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen: Auflage / Einsprachen**
+**6. Auflage / Einsprachen**
 
 <sup>1</sup> Die bereinigten Einträge sind während einer Frist von 30 Tagen öffentlich aufzulegen.
 
@@ -366,7 +395,7 @@ beschliesst:
 
 #### § 43
 
-**Grundpfandrechte: Eintrag der Bereinigungsergebnisse und Rangverhältnisse**
+**IV. Grundpfandrechte 1. Eintrag der Bereinigungsergebnisse und Rangverhältnisse**
 
 <sup>1</sup> Den Grundpfandgläubigern bzw. Grundpfandgläubigerinnen bzw. den dem Grundbuchamt bekannten, aus dem Pfandrecht berechtigten Personen sind die Bereinigungsergebnisse (Eigentum, die den Pfandrechten vorgehenden Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen, Änderungen im Liegenschaftsbeschrieb usw.) zur Kenntnis zu bringen.
 
@@ -376,7 +405,7 @@ beschliesst:
 
 #### § 44
 
-**Grundpfandrechte: Neuerrichtung / Neuausstellung**
+**2. Neuerrichtung / Neuausstellung**
 
 <sup>1</sup> Anstelle von Pfandtiteln, die schadhaft, unleserlich oder unübersichtlich geworden sind, ist im Einverständnis der Beteiligten deren Neuerrichtung mit neuem Datum und bisheriger Pfandstelle zu veranlassen.
 
@@ -384,15 +413,15 @@ beschliesst:
 
 #### § 45
 
-**Grundpfandrechte: Kraftloserklärung**
+**3. Kraftloserklärung**
 
-<sup>1</sup> Werden Pfandtitel vermisst oder nicht beigebracht, sind die dazu Berechtigten zur Einleitung des Kraftloserklärungsverfahrens gemäss Art. 870 oder 871 ZGB aufzufordern.
+Werden Pfandtitel vermisst oder nicht beigebracht, sind die dazu Berechtigten zur Einleitung des Kraftloserklärungsverfahrens gemäss Art. 870 oder 871 ZGB aufzufordern.
 
-### 2.3 Anmeldung noch nicht eingetragener Rechte
+### C. Anmeldung noch nicht eingetragener Rechte
 
 #### § 46
 
-**Aufruf**
+**I. Aufruf**
 
 <sup>1</sup> Durch öffentliche Publikation fordert das Grundbuchamt die Beteiligten auf, innert 30 Tagen allfällig bestehende, aber noch nicht eingetragene Rechte an Grundstücken zur Eintragung sowie bereits eingetragene, aber tatsächlich untergegangene Rechte zur Löschung anzumelden.
 
@@ -400,20 +429,23 @@ beschliesst:
 
 #### § 47
 
-**Eingabe der Anmeldung**
+**II. Eingabe der Anmeldung**
 
 <sup>1</sup> Die Anmeldung, welche schriftlich einzureichen ist, hat folgende Angaben zu enthalten:
 
-- a) Belastete oder berechtigte Grundstücke bzw. berechtigte Personen
-- b) Genaue Bezeichnung und Umschreibung des beanspruchten Rechts
-- c) Rechtstitel, auf den sich der einzelne Anspruch stützt, bzw. Angabe, seit wann das Recht nachweisbar ausgeübt wird
-- d) Gesamtwert für Grundlasten
+- Belastete oder berechtigte Grundstücke bzw. berechtigte Personen;
+
+- Genaue Bezeichnung und Umschreibung des beanspruchten Rechts;
+
+- Rechtstitel, auf den sich der einzelne Anspruch stützt, bzw. Angabe, seit wann das Recht nachweisbar ausgeübt wird;
+
+- Gesamtwert für Grundlasten.
 
 <sup>2</sup> Die Anmeldungen sowie deren Erledigungen sind in einem Protokoll zu verzeichnen.
 
 #### § 48
 
-**Behandlung der Anmeldungen**
+**III. Behandlung der Anmeldungen**
 
 <sup>1</sup> Die Anmeldungen zur Eintragung von Rechten sind im kantonalen Grundbuch als vorläufige Eintragungen vorzumerken.
 
@@ -421,7 +453,7 @@ beschliesst:
 
 <sup>3</sup> Können bestrittene Rechte nicht durch Vermittlung des Grundbuchamtes oder unter Mitwirkung des Gemeinderates auf gütlichem Wege erledigt werden, sind die Parteien gemäss § 49 an den Richter zu verweisen.
 
-### 2.4 Gerichtliche Beurteilung
+### D. Gerichtliche Beurteilung
 
 #### § 49
 
@@ -431,21 +463,23 @@ beschliesst:
 
 <sup>2</sup> Die Klägerrolle ist zuzuweisen:
 
-- a) jedem Ansprecher bzw. jeder Ansprecherin, der bzw. die ein nicht eingetragenes Recht geltend macht oder die Änderung eines Eintrages beantragt
-- b) dem Grundeigentümer bzw. der Grundeigentümerin, wenn er bzw. sie ein eingetragenes Recht ganz oder teilweise bestreitet
-- c) dem bzw. der Berechtigten, wenn beide Parteien oder das Grundbuchamt im Bereinigungsverfahren die Änderung eines eingetragenen Rechtes verlangen oder wenn über den Gesamtwert einer Grundlast, der für deren Eintragung Voraussetzung ist, keine Verständigung erzielt werden kann
+- a) jedem Ansprecher bzw. jeder Ansprecherin, der bzw. die ein nicht eingetragenes Recht geltend macht oder die Aenderung eines Eintrages beantragt;
 
-### 2.5 Anlage des eidgenössischen Grundbuchs
+- b) dem Grundeigentümer bzw. der Grundeigentümerin, wenn er bzw. sie ein eingetragenes Recht ganz oder teilweise bestreitet;
+
+- c) dem bzw. der Berechtigten, wenn beide Parteien oder das Grundbuchamt im Bereinigungsverfahren die Aenderung eines eingetragenen Rechtes verlangen oder wenn über den Gesamtwert einer Grundlast, der für deren Eintragung Voraussetzung ist, keine Verständigung erzielt werden kann.
+
+### E. Anlage des eidgenössischen Grundbuchs
 
 #### § 50
 
-**Beginn der Anlage**
+**I. Beginn der Anlage**
 
-<sup>1</sup> Nach Durchführung des Bereinigungsverfahrens erfolgt aufgrund der Einträge im kantonalen Grundbuch und der Belege die Anlage des eidgenössischen Grundbuchs.
+Nach Durchführung des Bereinigungsverfahrens erfolgt aufgrund der Einträge im kantonalen Grundbuch und der Belege die Anlage des eidgenössischen Grundbuchs.
 
 #### § 51
 
-**Offene Rechtsverhältnisse**
+**II. Offene Rechtsverhältnisse**
 
 <sup>1</sup> Die noch streitigen dinglichen Rechte bleiben bzw. werden von Amtes wegen durch eine vorläufige Eintragung (Art. 961 ZGB) gesichert.
 
@@ -453,20 +487,21 @@ beschliesst:
 
 #### § 52
 
-**Schlussaufruf**
+**III. Schlussaufruf**
 
-<sup>1</sup> Der Abschluss des Bereinigungsverfahrens ist durch das Grundbuchamt öffentlich zu publizieren. Im Aufruf ist darauf hinzuweisen, dass:
+<sup>1</sup> Der Abschluss des Bereinigungsverfahrens ist durch das Grundbuchamt öffentlich zu publizieren. Im Aufruf ist darauf hinzuweisen, dass a) das bereinigte Grundbuch während 30 Tagen zur öffentlichen Einsicht aufliegt;
 
-- a) das bereinigte Grundbuch während 30 Tagen zur öffentlichen Einsicht aufliegt
-- b) innert der Auflagefrist beim Grundbuchamt Einwendungen wegen Mängeln oder Unrichtigkeiten erhoben werden können
-- c) eintragungsbedürftige, im Grundbuch nicht eingetragene dingliche Rechte nach 60 Tagen seit dem Inkrafttreten des eidgenössischen Grundbuchs aufgehoben sind
-- d) auf bereits bereinigte Einträge und behandelte Anmeldungen nicht mehr eingetreten wird
+- b) innert der Auflagefrist beim Grundbuchamt Einwendungen wegen Mängeln oder Unrichtigkeiten erhoben werden können;
+
+- c) eintragungsbedürftige, im Grundbuch nicht eingetragene dingliche Rechte nach 60 Tagen seit dem Inkrafttreten des eidgenössischen Grundbuchs aufgehoben sind;
+
+- d) auf bereits bereinigte Einträge und behandelte Anmeldungen nicht mehr eingetreten wird.
 
 <sup>2</sup> Neue Ansprüche sind nach den vorstehenden Bestimmungen zu bereinigen.
 
 #### § 53
 
-**Rechtskraft / Publikation**
+**IV. Rechtskraft / Publikation**
 
 <sup>1</sup> Nach vollständiger Anlage beschliesst der Regierungsrat, von welchem Zeitpunkt an das Grundbuch mit der Wirkung des Schweizerischen Zivilgesetzbuches in Kraft tritt (Art. 973 ZGB).
 
@@ -474,27 +509,30 @@ beschliesst:
 
 <sup>3</sup> Der Beschluss ist durch das Grundbuchamt zu veröffentlichen.
 
-## 3 Schlussbestimmungen
+## Dritter Abschnitt: Schlussbestimmungen
 
 #### § 54
 
-**Aufhebung früherer Erlasse**
+**I. Aufhebung früherer Erlasse**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
+Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
 
-- a) Verordnung über die Grundbuchgeschäfte vom 15. Januar 1913
-- b) Verordnung über die Veröffentlichung der Eigentumsübertragungen an Grundstücken vom 14. Dezember 1993
-- c) Verordnung über die Führung des Grundbuchs mit elektronischer Datenverarbeitung vom 5. Dezember 1995
+- Verordnung über die Grundbuchgeschäfte vom 15. Januar 1913;
+
+- Verordnung über die Veröffentlichung der Eigentumsübertragungen an Grundstücken vom 14. Dezember 1993;
+
+- Verordnung über die Führung des Grundbuchs mit elektronischer Datenverarbeitung vom 5. Dezember 1995.
 
 #### § 55
 
-**Inkrafttreten**
+**II. Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund[^55-1] am 1. April 1999 in Kraft.
+<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund am 1. April 1999 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^55-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^55-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^55-1]: Vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 13. Juli 1999.
-[^55-2]: Amtsblatt 1999, S. 515.
+Vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 13. Juli 1999.
 
-Abl. 1999, S. 515
+Fussnoten:
+
+[^55-1]: Amtsblatt 1999, S. 515.
