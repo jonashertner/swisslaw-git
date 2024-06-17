@@ -4,26 +4,26 @@ number: "160.101"
 title: Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer
 language: de
 version: 2010-05-01
+corrected: 2024-06-18
 version_adopted: 2010-04-06
 adopted: 2010-04-06
 in_force: 2010-05-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1618/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/371/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer
 
-Vom 06.04.2010 (Stand 01.05.2010)
+vom 6. April 2010
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 13<sup>bis</sup> Abs. 2 und 15<sup>bis</sup> des Gesetzes über die vom Volke vorzunehmenden Abstimmungen und Wahlen sowie über die Ausübung der Volksrechte (Wahlgesetz)[^ingress-1],
+gestützt auf Art. 13<sup>bis</sup> Abs. 2 und 15<sup>bis</sup> des Gesetzes über die vom Volke vorzunehmenden Abstimmungen und Wahlen sowie über die Ausübung der Volksrechte (Wahlgesetz) <sup>1)</sup>,
 
-beschliesst:
-
-[^ingress-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
+verordnet:
 
 #### § 1
 
@@ -33,10 +33,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat beschliesst über die Durchführung von Versuchen mit elektronischer Stimmabgabe.
 
-<sup>3</sup> Er legt das Verfahren nach Massgabe der Bestimmungen der Bundesgesetzgebung[^1-1] fest und holt beim Bundesrat die Genehmigung[^1-2] ein.
-
-[^1-1]: Art. 8a des BG über die politischen Rechte vom 17. Dezember 1976 (SR [161.1](http://db.clex.ch/link/Bund/161.1/de)); Art. 27a ff. der V über die politischen Rechte vom 24. Mai 1978 (SR [161.11](http://db.clex.ch/link/Bund/161.11/de)).
-[^1-2]: Art. 27b und 27c der V über die politischen Rechte vom 24. Mai 1978 (SR [161.11](http://db.clex.ch/link/Bund/161.11/de)).
+<sup>3</sup> Er legt das Verfahren nach Massgabe der Bestimmungen der Bundesgesetzgebung <sup>2)</sup> fest und holt beim Bundesrat die Genehmigung <sup>3)</sup> ein.
 
 #### § 2
 
@@ -44,9 +41,9 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei überwacht den Ablauf der elektronischen Stimmabgabe und ist verantwortlich für die Entschlüsselung der elektronisch abgegebenen Stimmen. Sie stellt in Zusammenarbeit mit den Gemeinden insbesondere sicher, dass die doppelte Stimmabgabe ausgeschlossen ist.
 
-<sup>2</sup> Sie leitet das Verfahren der Plausibilisierung[^2-1] der elektronischen Ergebnisse.
+<sup>2</sup> Sie leitet das Verfahren der Plausibilisierung <sup>4)</sup> der elektronischen Ergebnisse.
 
-[^2-1]: Art. 27n<sup>bis</sup> der V über die politischen Rechte vom 24. Mai 1978 (SR [161.11](http://db.clex.ch/link/Bund/161.11/de)).
+Amtsblatt 2010, S. 523
 
 #### § 3
 
@@ -78,8 +75,16 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2010 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^6-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>5)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^6-1]: Amtsblatt 2010, S. 523; von der Bundeskanzlei genehmigt am 14. April 2010.
+Fussnoten:
 
-Abl. 2010, S. 523
+- 1) SHR 160.100.
+
+- 2) Art. 8a des BG über die politischen Rechte vom 17. Dezember 1976 (SR 161.1); Art. 27a ff. der V über die politischen Rechte vom 24. Mai 1978 (SR 161.11).
+
+- 3) Art. 27b und 27c der V über die politischen Rechte vom 24. Mai 1978 (SR 161.11).
+
+- 4) Art. 27n<sup>bis</sup> der V über die politischen Rechte vom 24. Mai 1978 (SR 161.11).
+
+- 5) Amtsblatt 2010, S. 523; von der Bundeskanzlei genehmigt am 14. April 2010.
