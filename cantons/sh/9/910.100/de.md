@@ -5,27 +5,26 @@ title: Gesetz über die Förderung der Landwirtschaft
 short: kantonales Landwirtschaftsgesetz
 language: de
 version: 2024-01-01
-valid_until: 2026-03-31
+corrected: 2024-06-18
 version_adopted: 2023-09-25
 adopted: 1999-11-29
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/910.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1707/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/302/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Förderung der Landwirtschaft
+# Gesetz über die Förderung der Landwirtschaft (kantonales Landwirtschaftsgesetz)
 
-(kantonales Landwirtschaftsgesetz)
+vom 29. November 1999
 
-Vom 29.11.1999 (Stand 01.01.2024)
+Der Grosse Rat des Kantons Schaffhausen
 
-Der Grosse Rat des Kantons Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -45,17 +44,19 @@ beschliesst:
 
 <sup>2</sup> Öffentliche und private Interessen sind gegeneinander abzuwägen. Nach Möglichkeit sind einvernehmliche Lösungen zu treffen.
 
+Amtsblatt 2000, S. 1543.
+
 #### Art. 3
 
 **Geltungsbereich**
 
-<sup>1</sup> Das Gesetz gilt für die Landwirtschaft im Sinne der Bundesgesetzgebung.
+Das Gesetz gilt für die Landwirtschaft im Sinne der Bundesgesetzgebung.
 
 #### Art. 4
 
 **Verhältnis zum Bundesrecht**
 
-<sup>1</sup> Das Gesetz ergänzt die Bundesgesetzgebung über die Landwirtschaft und regelt den Vollzug, soweit der Kanton dafür zuständig ist.
+Das Gesetz ergänzt die Bundesgesetzgebung über die Landwirtschaft und regelt den Vollzug, soweit der Kanton dafür zuständig ist.
 
 #### Art. 5
 
@@ -63,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden unterstützen den Kanton bei der Förderung der Landwirtschaft durch amtliche Mitwirkung und finanzielle Beiträge an Bodenverbesserungen.
 
-<sup>2...</sup> …
+<sup>2</sup> ... <sup>3)</sup>
 
 #### Art. 6
 
@@ -87,15 +88,15 @@ beschliesst:
 
 <sup>5</sup> Die Betroffenen sind verpflichtet, den Vollzugsorganen Auskunft zu erteilen und ihnen Zutritt zu ihren Betriebsstätten zu gewähren.
 
-## 2 Wirtschaftliche Grundlagen
+## II. Wirtschaftliche Grundlagen
 
-### 2.1 Allgemeines
+- 1\. Allgemeines
 
 #### Art. 8
 
 **Grundsatz**
 
-<sup>1</sup> Die Massnahmen dieses Abschnittes bezwecken die umweltgerechte Nutzung des Bodens, der im Gesamtinteresse landwirtschaftlichen Zwecken dienen soll.
+Die Massnahmen dieses Abschnittes bezwecken die umweltgerechte Nutzung des Bodens, der im Gesamtinteresse landwirtschaftlichen Zwecken dienen soll.
 
 #### Art. 9
 
@@ -105,7 +106,7 @@ beschliesst:
 
 <sup>2</sup> Zu diesem Zwecke regelt der Regierungsrat Strukturverbesserungen, kann Vorschriften über den Einsatz von landwirtschaftlichen Hilfsstoffen erlassen und koordiniert den Vollzug des eidgenössischen und des kantonalen Rechts über Schadstoffe im Boden sowie über die Bestimmungen der Stoffverordnung. Er kann insbesondere Bodenuntersuchungen und die Beratung zur Verbesserung der Bodenqualität unterstützen.
 
-### 2.2 Strukturverbesserungen
+- 2\. Strukturverbesserungen
 
 #### Art. 10
 
@@ -130,7 +131,8 @@ beschliesst:
 <sup>4</sup> Die Durchführung einer Güterzusammenlegung ist beschlossen, wenn:
 
 - a) die Mehrheit der beteiligten Grundeigentümerinnen und Grundeigentümer, denen zugleich mehr als die Hälfte des beanspruchten Bodens gehört, zustimmt oder
-- b) die Eigentümerinnen und Eigentümer von wenigstens zwei Dritteln der einbezogenen Fläche zustimmen
+
+- b) die Eigentümerinnen und Eigentümer von wenigstens zwei Dritteln der einbezogenen Fläche zustimmen.
 
 <sup>5</sup> An der Beschlussfassung nicht mitwirkende Grundeigentümerinnen und Grundeigentümer gelten als zustimmend.
 
@@ -152,16 +154,19 @@ beschliesst:
 
 **Kantonsbeiträge an Bodenverbesserungen**
 
-<sup>1</sup> An die Kosten von Bodenverbesserungsmassnahmen, soweit vom Bund unterstützt, leisten Kanton und Gemeinden Beiträge bis zum Höchstansatz von 40%.
+<sup>1</sup> An die Kosten von Bodenverbesserungsmassnahmen, soweit vom Bund unterstützt, leisten Kanton und Gemeinden Beiträge bis zum Höchstansatz von 40 %.
 
 <sup>2</sup> Ausgenommen sind neue Projekte zur Regelung des Bodenwasserhaushaltes und neue Weganlagen.
 
 <sup>3</sup> Die Höhe der Beiträge wird abgestuft nach:
 
-- a) dem öffentlichen Interesse an der Massnahme
-- b) der Wirtschaftlichkeit des Vorhabens
-- c) der Entwicklungsfähigkeit des Unternehmens oder Betriebes und der wirtschaftlichen Lage des Gesuchstellers
-- d) dem Schwierigkeitsgrad der Bewirtschaftungsverhältnisse
+- a) dem öffentlichen Interesse an der Massnahme;
+
+- b) der Wirtschaftlichkeit des Vorhabens;
+
+- c) der Entwicklungsfähigkeit des Unternehmens oder Betriebes und der wirtschaftlichen Lage des Gesuchstellers;
+
+- d) dem Schwierigkeitsgrad der Bewirtschaftungsverhältnisse.
 
 <sup>4</sup> Der Regierungsrat legt die Einzelheiten in der Verordnung fest.
 
@@ -177,22 +182,23 @@ beschliesst:
 
 **Kantonsbeiträge in besonderen Fällen**
 
-<sup>1</sup> In besonderen Fällen zur Verwirklichung ökologischer Ziele oder zur Abwehr von Gefahren, kann der Kanton Beiträge gewähren:
+In besonderen Fällen zur Verwirklichung ökologischer Ziele oder zur Abwehr von Gefahren, kann der Kanton Beiträge gewähren:
 
-- a) an Weganlagen und Projekte zur Regelung des Bodenwasserhaushaltes
-- b) an Massnahmen, an welche der Bund keine Beiträge leistet
+- a) an Weganlagen und Projekte zur Regelung des Bodenwasserhaushaltes;
+
+- b) an Massnahmen, an welche der Bund keine Beiträge leistet.
 
 #### Art. 16
 
 **Gemeindebeiträge an Bodenverbesserungen**
 
-<sup>1</sup> Die Gewährung eines Kantonsbeitrages setzt die Leistung eines angemessenen Beitrages der Gemeinde voraus. Je nach Interesse der Gemeinde beträgt dieser zwischen 5 und 40% des Kantonsbeitrages.
+<sup>1</sup> Die Gewährung eines Kantonsbeitrages setzt die Leistung eines angemessenen Beitrages der Gemeinde voraus. Je nach Interesse der Gemeinde beträgt dieser zwischen 5 und 40 % des Kantonsbeitrages.
 
 <sup>2</sup> Der Regierungsrat legt die Beitragsskala in der Verordnung fest.
 
 #### Art. 17
 
-**Güterzusammenlegung: Grundlage; Beizugsgebiet; öffentliche Auflage**
+**Güterzusammenlegung: a) Grundlage; Beizugsgebiet; öffentliche Auflage**
 
 <sup>1</sup> Eine aus öffentlichen Mitteln unterstützte Güterzusammenlegung setzt einen rechtskräftigen Zonenplan voraus.
 
@@ -204,21 +210,29 @@ beschliesst:
 
 <sup>5</sup> Im Rahmen der Durchführung einer Güterzusammenlegung sind während 30 Tagen öffentlich aufzulegen:
 
-- a) die Abgrenzung der Perimeter
-- b) das generelle Projekt mit der ökologischen Aufwertung
-- c) der Altbestand der Eigentumsverhältnisse
-- d) die Boden- und Bestandesbewertung
-- e) die Bauprojekte
-- f) der Neuzuteilungsentwurf
-- g) die Geldausgleichstabelle
-- h) die Baumschätzung
-- i) der Kostenverteiler
+- a) die Abgrenzung der Perimeter;
+
+- b) das generelle Projekt mit der ökologischen Aufwertung;
+
+- c) der Altbestand der Eigentumsverhältnisse;
+
+- d) die Boden- und Bestandesbewertung;
+
+- e) die Bauprojekte;
+
+- f) der Neuzuteilungsentwurf;
+
+- g) die Geldausgleichstabelle;
+
+- h) die Baumschätzung;
+
+- i) der Kostenverteiler.
 
 <sup>6</sup> Der Regierungsrat legt die Einzelheiten in der Verordnung fest.
 
 #### Art. 18
 
-**Güterzusammenlegung: Grundsätze für die Neuzuteilung**
+**b) Grundsätze für die Neuzuteilung**
 
 <sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer haben Anspruch auf neue Grundstücke, deren Wert im gleichen Verhältnis zum Gesamtwert des entsprechenden Nutzungsperimeters steht wie derjenige der eingeworfenen Grundstücke. Geringfügige Mehr- oder Minderzuteilungen dürfen in Geld ausgeglichen werden.
 
@@ -226,7 +240,7 @@ beschliesst:
 
 #### Art. 19
 
-**Güterzusammenlegung: Landabzug für Bauten und Anlagen**
+**c) Landabzug für Bauten und Anlagen**
 
 <sup>1</sup> Für gemeinschaftlich zu nutzende Bauten und Anlagen der Güterzusammenlegung haben die Grundeigentümerinnen und Grundeigentümer anteilmässig Land abzutreten.
 
@@ -236,7 +250,7 @@ beschliesst:
 
 **Übrige Bodenverbesserungen**
 
-<sup>1</sup> Für die übrigen Bodenverbesserungsprojekte gelten sinngemäss die gleichen Vorschriften wie für die Güterzusammenlegung.
+Für die übrigen Bodenverbesserungsprojekte gelten sinngemäss die gleichen Vorschriften wie für die Güterzusammenlegung.
 
 #### Art. 21
 
@@ -270,15 +284,21 @@ beschliesst:
 
 <sup>2</sup> Wird eine Güterkorporation gebildet, sind in einem Reglement mindestens zu regeln:
 
-- a) die im Eigentum der Güterkorporation stehenden Güter- und Waldstrassen und Meliorationswerke
-- b) die land- und forstwirtschaftlichen sowie die überbauten Grundstücke ausserhalb der Bauzone, deren Eigentümerinnen und Eigentümer Mitglieder der Güterkorporation sind (Korporationsgebiet)
-- c) die Aufgaben der Korporation
-- d) die Bezeichnung, Zusammensetzung und Wahl der Korporationsorgane
-- e) die Aufgaben der Korporationsorgane
-- f) die Finanzierung
-- g) die Haftung für die Verbindlichkeiten der Korporation
+- a) die im Eigentum der Güterkorporation stehenden Güter- und Waldstrassen und Meliorationswerke;
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen über die Gemeinden sinngemäss für die Güterkorporation.
+- b) die land- und forstwirtschaftlichen sowie die überbauten Grundstücke ausserhalb der Bauzone, deren Eigentümerinnen und Eigentümer Mitglieder der Güterkorporation sind (Korporationsgebiet);
+
+- c) die Aufgaben der Korporation;
+
+- d) die Bezeichnung, Zusammensetzung und Wahl der Korporationsorgane;
+
+- e) die Aufgaben der Korporationsorgane;
+
+- f) die Finanzierung;
+
+- g) die Haftung für die Verbindlichkeiten der Korporation.
+
+<sup>3</sup> Im übrigen gelten die Bestimmungen über die Gemeinden sinngemäss für die Güterkorporation.
 
 #### Art. 25
 
@@ -286,17 +306,15 @@ beschliesst:
 
 <sup>1</sup> Bei Bodenverbesserungsprojekten kann innert der Auflagefrist beim Unternehmen Einsprache erhoben werden.
 
-<sup>2</sup> Bei Güterzusammenlegungen können Verfügungen der zuständigen Organe innert 20 Tagen nach Mitteilung beim Landwirtschaftlichen Schiedsgericht mit Beschwerde angefochten werden.
+<sup>2</sup> Bei Güterzusammenlegungen können Verfügungen der zuständigen Organe innert 20 Tagen nach Mitteilung beim Landwirtschaftlichen Schiedsgericht mit Beschwerde angefochten werden. <sup>9)</sup>
 
-<sup>3</sup> Mit der Beschwerde können alle Mängel des Verfahrens und des angefochtenen Entscheids gerügt werden. In der Regel findet eine Beschwerdeverhandlung statt. Im Übrigen sind die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss Verwaltungsrechtspflegegesetz[^25-1] sinngemäss anwendbar.
+<sup>3</sup> Mit der Beschwerde können alle Mängel des Verfahrens und des angefochtenen Entscheids gerügt werden. In der Regel findet eine Beschwerdeverhandlung statt. Im Übrigen sind die Bestimmungen über das verwaltungsgerichtliche Verfahren gemäss Verwaltungsrechtspflegegesetz <sup>10)</sup> sinngemäss anwendbar. <sup>9)</sup>
 
 <sup>4</sup> Gegen schiedsgerichtliche Entscheide kann beim Obergericht als Verwaltungsgericht Beschwerde erhoben werden.
 
 <sup>5</sup> Bei den übrigen Bodenverbesserungsprojekten können Einspracheentscheide mittels Rekurs beim Regierungsrat angefochten werden. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen.
 
-[^25-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
-
-### 2.3 Investitionskredite, Betriebshilfe
+- 3\. Investitionskredite, Betriebshilfe
 
 #### Art. 26
 
@@ -306,39 +324,45 @@ beschliesst:
 
 <sup>2</sup> Die Durchführung der Massnahmen ist der Schaffhauser Bauernkreditkasse übertragen.
 
-<sup>3</sup> Die Einzelheiten werden im Dekret des Kantonsrates geregelt.
+<sup>3</sup> Die Einzelheiten werden im Dekret des Kantonsrates <sup>5)</sup> geregelt.
 
-### 2.4 Kantonale Darlehen und Beiträge
+- 4\. Kantonale Darlehen und Beiträge
 
 #### Art. 27
 
-**Darlehen: Grundsatz**
+**Darlehen: a) Grundsatz**
 
-<sup>1</sup> Zur Gewährung zinsloser oder zinsgünstiger Darlehen an Eigentümerinnen und Eigentümer oder Pächterinnen und Pächter landwirtschaftlicher Betriebe legt der Kantonsrat jährlich die zur Verfügung stehende Darlehenssumme fest.
+<sup>1</sup> Zur Gewährung zinsloser oder zinsgünstiger Darlehen an Eigentümerinnen und Eigentümer oder Pächterinnen und Pächter landwirtschaftlicher Betriebe legt der Kantonsrat <sup>5)</sup> jährlich die zur Verfügung stehende Darlehenssumme fest.
 
 <sup>2</sup> Die Ausrichtung und Rückforderung der Darlehen erfolgt nach den bundesgesetzlichen Bestimmungen über die Betriebshilfe durch die Schaffhauser Bauernkreditkasse.
 
 #### Art. 28
 
-**Darlehen: Zweck**
+**b) Zweck**
 
-<sup>1</sup> Darlehen bis zu 40% der anrechenbaren Kosten werden namentlich ausgerichtet für:
+Darlehen bis zu 40 % der anrechenbaren Kosten werden namentlich ausgerichtet für:
 
-- a) Einrichtungen und Maschinen, welche Produzentinnen und Produzenten in gemeinsamer Selbsthilfe anschaffen und die eine besonders umweltschonende Bewirtschaftung ermöglichen
-- b) die Umstellung von Landwirtschaftsbetrieben auf biologische Bewirtschaftung, sofern die dafür vorgesehenen Mittel der Betriebshilfe (Art. 26) ausgeschöpft sind
+- a) Einrichtungen und Maschinen, welche Produzentinnen und Produzenten in gemeinsamer Selbsthilfe anschaffen und die eine besonders umweltschonende Bewirtschaftung ermöglichen;
+
+- b) die Umstellung von Landwirtschaftsbetrieben auf biologische Bewirtschaftung, sofern die dafür vorgesehenen Mittel der Betriebshilfe (Art. 26) ausgeschöpft sind.
 
 #### Art. 29
 
 **Beiträge**
 
-<sup>1</sup> Um weitere umweltschonende Anliegen in der Landwirtschaft und besondere Bestrebungen in Randbereichen ohne Direktzahlungen zu fördern, kann der Kanton Beiträge ausrichten, namentlich an:
+Um weitere umweltschonende Anliegen in der Landwirtschaft und besondere Bestrebungen in Randbereichen ohne Direktzahlungen zu fördern, kann der Kanton Beiträge ausrichten, namentlich an:
 
-- a) besondere ökologische Leistungen
-- b) weitere Massnahmen, die besonders umweltschonenden Produktionsmethoden zum Durchbruch verhelfen
-- c) die Erneuerung von Reben in Steillagen
-- d) die Förderung des Anbaus von Hochstammobstbäumen
+- a) besondere ökologische Leistungen;
 
-### 2.5 Ursprungsbezeichnung, Produktequalität, Absatzförderung
+- b) weitere Massnahmen, die besonders umweltschonenden Produktionsmethoden zum Durchbruch verhelfen;
+
+- c) die Erneuerung von Reben in Steillagen;
+
+- d) die Förderung des Anbaus von Hochstammobstbäumen.
+
+- 5\. Ursprungsbezeichnung, Produktequalität,
+
+### Absatzförderung
 
 #### Art. 30
 
@@ -354,24 +378,23 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann absatzfördernde Massnahmen für in der Region umweltschonend produzierte Qualitätsprodukte der Landwirtschaft unterstützen.
 
-<sup>2</sup> Dies gilt insbesondere für Massnahmen in den Bereichen:
+<sup>2</sup> Dies gilt insbesondere für Massnahmen in den Bereichen a) Regionalmarketing;
 
-- a) Regionalmarketing
-- b) Öffentlichkeitsarbeit
+- b) Öffentlichkeitsarbeit.
 
 <sup>3</sup> Beiträge des Kantons werden nur ausgerichtet, wenn sich die interessierten Organisationen mit Beiträgen beteiligen.
 
 <sup>4</sup> Der Regierungsrat legt die Kriterien für die Gewährung von Beiträgen in der Verordnung fest.
 
-## 3 Bäuerlicher Grundbesitz
+## III. Bäuerlicher Grundbesitz
 
-### 3.1 Bäuerliches Bodenrecht
+### 1. Bäuerliches Bodenrecht
 
 #### Art. 32
 
 **Vorkaufsrecht von Körperschaften**
 
-<sup>1</sup> Der Kanton kann Körperschaften, die zum Zwecke von Bodenverbesserungen gegründet worden sind, das Vorkaufsrecht für die in ihrem Beizugsgebiet liegenden landwirtschaftlichen Grundstücke gewähren, sofern der Erwerb dem Zweck der Körperschaft dient.
+Der Kanton kann Körperschaften, die zum Zwecke von Bodenverbesserungen gegründet worden sind, das Vorkaufsrecht für die in ihrem Beizugsgebiet liegenden landwirtschaftlichen Grundstücke gewähren, sofern der Erwerb dem Zweck der Körperschaft dient.
 
 #### Art. 33
 
@@ -383,19 +406,17 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat bestimmt die Stelle, die für die Schätzung des Ertragswertes zuständig ist.
 
-### 3.2 Landwirtschaftliche Pacht
+- 2\. Landwirtschaftliche Pacht
 
 #### Art. 34
 
-**Vorpachtrecht**
-
-<sup>1</sup> Nachkommen des Verpächters oder der Verpächterin eines landwirtschaftlichen Gewerbes, welche dieses selber bewirtschaften wollen und dafür geeignet sind, steht das Vorpachtrecht nach Bundesrecht zu.
+Nachkommen des Verpächters oder der Verpächterin eines landwirtschaftlichen Gewerbes, welche dieses selber bewirtschaften wollen und dafür geeignet sind, steht das Vorpachtrecht nach Bundesrecht zu.
 
 #### Art. 35
 
 **Ortsüblicher Frühjahrs- oder Herbsttermin**
 
-<sup>1</sup> Der im Bundesrecht genannte ortsübliche Frühjahrs- oder Herbsttermin ist der 1. April und der 1. November.
+Der im Bundesrecht genannte ortsübliche Frühjahrs- oder Herbsttermin ist der 1. April und der 1. November.
 
 #### Art. 36
 
@@ -407,23 +428,27 @@ beschliesst:
 
 <sup>3</sup> Kantonale Beschwerdeinstanz ist der Regierungsrat.
 
-## 4 Tierzucht
+## IV. Tierzucht
 
 #### Art. 37
 
-**…**
+<sup>6)</sup>
 
 #### Art. 38
 
+<sup>7)</sup>
+
+**Vorpachtrecht**
+
 **Beiträge**
 
-<sup>1</sup> Der Kanton kann Beiträge an die Zucht von Bienen und von anderen vom Bund nicht geförderten Nutztiere leisten.
+Der Kanton kann Beiträge an die Zucht von Bienen und von anderen vom Bund nicht geförderten Nutztiere leisten.
 
-## 5 Pflanzenbau und Pflanzenschutz
+## V. Pflanzenbau und Pflanzenschutz
 
-### 5.1 Rebbau und Weinwirtschaft
+### A. Rebbau und Weinwirtschaft
 
-### 5.1.1 Allgemeines
+### 1. Allgemeines
 
 #### Art. 39
 
@@ -449,15 +474,15 @@ beschliesst:
 
 <sup>2</sup> Sie können diese Aufgaben auch der Rebbaugenossenschaft übertragen.
 
-### 5.1.2 Pflichten der Bewirtschaftenden
+- 2\. Pflichten der Bewirtschaftenden
 
 #### Art. 42
 
 **Obligatorischer Pflanzenschutz; Widerhandlung**
 
-<sup>1</sup> Wer Rebgrundstücke bewirtschaftet, ist verpflichtet, die Reben vor dem Befall von Krankheiten und Schädlingen so zu schützen, dass die benachbarten Rebgrundstücke weder gefährdet noch in Mitleidenschaft gezogen werden. Nötigenfalls kann die Rebbaugenossenschaft oder, wo diese fehlt, die Gemeinde nach Ablauf einer angemessenen Frist geeignete Massnahmen auf Kosten der Säumigen treffen.
+Wer Rebgrundstücke bewirtschaftet, ist verpflichtet, die Reben vor dem Befall von Krankheiten und Schädlingen so zu schützen, dass die benachbarten Rebgrundstücke weder gefährdet noch in Mitleidenschaft gezogen werden. Nötigenfalls kann die Rebbaugenossenschaft oder, wo diese fehlt, die Gemeinde nach Ablauf einer angemessenen Frist geeignete Massnahmen auf Kosten der Säumigen treffen.
 
-### 5.1.3 Organisation
+- 3\. Organisation
 
 #### Art. 43
 
@@ -467,8 +492,9 @@ beschliesst:
 
 <sup>2</sup> Sie stellt die Erhaltung der Rebberge und, sofern vorhanden, die Weiterführung gemeinsam erstellter Anlagen sicher. Sie ist berechtigt, in ihren Statuten Bestimmungen aufzustellen, namentlich über:
 
-- a) die Pflicht, in geschlossenen Reblagen Reben zu pflanzen
-- b) Bepflanzungsbeschränkungen
+- a) die Pflicht, in geschlossenen Reblagen Reben zu pflanzen;
+
+- b) Bepflanzungsbeschränkungen.
 
 #### Art. 44
 
@@ -480,32 +506,35 @@ beschliesst:
 
 #### Art. 45
 
-**Kantonale Rebbaukommission: Zusammensetzung**
+**Kantonale Rebbaukommission a) Zusammensetzung**
 
 <sup>1</sup> Das zuständige Departement ernennt nach Anhören der Branchenorganisation die kantonale Rebbaukommission. Darin sind Produktion, Kelterung und Handel angemessen vertreten.
 
-<sup>2</sup> Je ein Vertreter des Landwirtschaftsamtes sowie des Interkantonalen Labors nehmen von Amtes wegen mit beratender Stimme Einsitz.
+<sup>2</sup> Je ein Vertreter des Landwirtschaftsamtes sowie des Interkantonalen Labors <sup>8)</sup> nehmen von Amtes wegen mit beratender Stimme Einsitz.
 
 <sup>3</sup> Die Kommission konstituiert sich selber.
 
 #### Art. 46
 
-**Kantonale Rebbaukommission: Aufgaben**
+**b) Aufgaben**
 
-<sup>1</sup> Der kantonalen Rebbaukommission obliegen:
+Der kantonalen Rebbaukommission obliegen:
 
-- a) die Festlegung des natürlichen Mindestzuckergehaltes für Traubenmoste
-- b) die Festlegung der zulässigen Höchsterträge pro Flächeneinheit
-- c) die Regelung der Qualitätsbezahlung des Traubengutes
-- d) der Erlass eines Reglementes über die kontrollierten Ursprungsbezeichnungen und deren Anwendung unter Vorbehalt der Genehmigung durch das zuständige Departement
+- a) die Festlegung des natürlichen Mindestzuckergehaltes für Traubenmoste;
+
+- b) die Festlegung der zulässigen Höchsterträge pro Flächeneinheit;
+
+- c) die Regelung der Qualitätsbezahlung des Traubengutes;
+
+- d) der Erlass eines Reglementes über die kontrollierten Ursprungsbezeichnungen und deren Anwendung unter Vorbehalt der Genehmigung durch das zuständige Departement.
 
 #### Art. 47
 
 **Kennzeichnung**
 
-<sup>1</sup> Das zuständige Departement regelt nach Anhören der kantonalen Rebbaukommission und des Interkantonalen Labors die einheitlichen Produktionsgebiete und die Voraussetzungen für die kontrollierte Ursprungsbezeichnung.
+Das zuständige Departement regelt nach Anhören der kantonalen Rebbaukommission und des Interkantonalen Labors <sup>8)</sup> die einheitlichen Produktionsgebiete und die Voraussetzungen für die kontrollierte Ursprungsbezeichnung.
 
-### 5.1.4 Rebbaufonds, Versuchsanlagen
+- 4\. Rebbaufonds, Versuchsanlagen
 
 #### Art. 48
 
@@ -513,10 +542,13 @@ beschliesst:
 
 <sup>1</sup> Zur Förderung des Rebbaus besteht ein kantonaler Rebbaufonds. Er dient insbesondere zur Finanzierung von:
 
-- a) Betrieb und Unterhalt von Versuchsanlagen und Versuchen zur Förderung des umweltschonenden Rebbaues
-- b) Kellerversuchen
-- c) der Förderung der Qualitätsproduktion
-- d) Einführung und Unterstützung besonders umweltschonender Produktionsmethoden
+- a) Betrieb und Unterhalt von Versuchsanlagen und Versuchen zur Förderung des umweltschonenden Rebbaues;
+
+- b) Kellerversuchen;
+
+- c) der Förderung der Qualitätsproduktion;
+
+- d) Einführung und Unterstützung besonders umweltschonender Produktionsmethoden.
 
 <sup>2</sup> Das zuständige Departement legt nach Rücksprache mit der kantonalen Rebbaukommission die Verwendung der Mittel fest.
 
@@ -526,11 +558,13 @@ beschliesst:
 
 <sup>1</sup> Der kantonale Rebbaufonds wird geäufnet durch:
 
-- a) Beiträge der Rebbewirtschafterinnen und ‑bewirtschafter pro Are bewirtschafteten Reblandes
-- b) einen Beitrag der Gemeinde in Höhe von einem Fünftel der gesamten Beiträge der Rebbewirtschaftenden der Gemeinde
-- c) Zinsen
+- a) Beiträge der Rebbewirtschafterinnen und -bewirtschafter pro Are bewirtschafteten Reblandes;
 
-<sup>2</sup> Die Höhe der Beiträge wird vom Kantonsrat jährlich festgelegt.
+- b) einen Beitrag der Gemeinde in Höhe von einem Fünftel der gesamten Beiträge der Rebbewirtschaftenden der Gemeinde;
+
+- c) Zinsen.
+
+<sup>2</sup> Die Höhe der Beiträge wird vom Kantonsrat <sup>5)</sup> jährlich festgelegt.
 
 #### Art. 50
 
@@ -540,51 +574,57 @@ beschliesst:
 
 <sup>2</sup> Das Landwirtschaftsamt stellt den Gemeinden bzw. den Rebbauorganisationen Rechnung für den ihrer Rebfläche entsprechenden Betrag.
 
-### 5.2 Pflanzenschutz
+### B. Pflanzenschutz
 
 #### Art. 51
 
+<sup>11)</sup>
+
 **Schutz der Kulturpflanzen**
 
-<sup>1</sup> Der Kanton stellt den Schutz der Kulturpflanzen gegen gemeingefährliche Krankheiten und Schädlinge im Sinne der Vorschriften des Bundes sicher und achtet dabei auf die bestmögliche Schonung der Umwelt.
+Der Kanton stellt den Schutz der Kulturpflanzen gegen gemeingefährliche Krankheiten und Schädlinge im Sinne der Vorschriften des Bundes sicher und achtet dabei auf die bestmögliche Schonung der Umwelt.
 
 #### Art. 52
+
+<sup>11)</sup>
 
 **Gemeingefährliche Krankheiten und Schädlinge**
 
 <sup>1</sup> Der Regierungsrat kann Krankheiten und Schädlinge von lokaler Bedeutung als gemeingefährlich und ihre Bekämpfung obligatorisch erklären, soweit dafür nicht Vorschriften des Bundes gelten.
 
-<sup>2</sup> Eine solche Anordnung setzt grundsätzlich voraus, dass:
+<sup>2</sup> Eine solche Anordnung setzt grundsätzlich voraus, dass a) nach den Erhebungen des kantonalen Pflanzenschutzdienstes oder der eidgenössischen Forschungsanstalten ein gefährlicher Befall eingetreten oder zu erwarten ist,
 
-- a) nach den Erhebungen des kantonalen Pflanzenschutzdienstes oder der eidgenössischen Forschungsanstalten ein gefährlicher Befall eingetreten oder zu erwarten ist
 - b) der drohende Schaden volkswirtschaftlich von Bedeutung ist und
-- c) mit freiwilligen Massnahmen keine wirksame oder wirtschaftliche Bekämpfung möglich ist
+
+- c) mit freiwilligen Massnahmen keine wirksame oder wirtschaftliche Bekämpfung möglich ist.
 
 <sup>3</sup> Bekämpfungsmassnahmen können zudem obligatorisch erklärt werden, wenn damit die spätere grossflächige chemische Bekämpfung vermieden oder eingeschränkt werden kann.
 
 #### Art. 53
 
-**…**
+<sup>12)</sup>
 
-## 6 Landwirtschaftliche und bäuerlich-hauswirtschaftliche Berufsbildung
+## VI. Landwirtschaftliche und bäuerlichhauswirtschaftliche Berufsbildung
 
 #### Art. 54
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton gewährleistet die Berufsbildung im Bereich der Landwirtschaft, der bäuerlichen Hauswirtschaft und der landwirtschaftlichen Spezialberufe. Diese umfasst:
+Der Kanton gewährleistet die Berufsbildung im Bereich der Landwirtschaft, der bäuerlichen Hauswirtschaft und der landwirtschaftlichen Spezialberufe. Diese umfasst:
 
 - a) die Grundausbildung
+
 - b) die Weiterbildung
+
 - c) die Beratung
 
 #### Art. 55
 
 **Zusammenarbeit**
 
-<sup>1</sup> Der Regierungsrat ist befugt, für die landwirtschaftliche Berufsbildung mit in- und ausländischen Partnern Verträge abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
+Der Regierungsrat ist befugt, für die landwirtschaftliche Berufsbildung mit in- und ausländischen Partnern Verträge abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
 
-## 7 Verwaltungsmassnahmen
+## VII. Verwaltungsmassnahmen
 
 #### Art. 56
 
@@ -602,29 +642,52 @@ beschliesst:
 
 <sup>2</sup> Zu Unrecht bezogene Beiträge oder Vermögensvorteile sind unabhängig von der Anwendung der Strafbestimmungen zurückzuerstatten oder zu verrechnen.
 
-## 8 Übergangs- und Schlussbestimmungen
+## VIII. Übergangs- und Schlussbestimmungen
 
 #### Art. 58
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die nachstehenden Erlasse werden aufgehoben:
+Die nachstehenden Erlasse werden aufgehoben:
 
-- a) das Gesetz über die Einführung des Bundesgesetzes vom 3. Oktober 1951 über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes, Abschnitt: Bodenverbesserungen (Kantonales Meliorationsgesetz) vom 2. Juli 1956
-- b) das Gesetz über die obligatorische Viehversicherung (Viehversicherungsgesetz) vom 12. Dezember 1988
-- c) das Rebbaugesetz vom 18. Juni 1951; das Vermögen des bestehenden Rebbaufonds wird in den neuen Rebbaufonds überführt
-- d) das Gesetz über die Einführung des Bundesgesetzes vom 12. Juni 1951 über die Erhaltung des bäuerlichen Grundbesitzes vom 26. April 1954
-- e) das Dekret betreffend die Viehverpfändung vom 18. Januar 1912
+- a) das Gesetz über die Einführung des Bundesgesetzes vom 3. Oktober 1951 über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes, Abschnitt: Bodenverbesserungen (Kantonales Meliorationsgesetz) vom 2. Juli 1956;
+
+- b) das Gesetz über die obligatorische Viehversicherung (Viehversicherungsgesetz) vom 12. Dezember 1988;
+
+- c) das Rebbaugesetz vom 18. Juni 1951; das Vermögen des bestehenden Rebbaufonds wird in den neuen Rebbaufonds überführt;
+
+- d) das Gesetz über die Einführung des Bundesgesetzes vom 12. Juni 1951 über die Erhaltung des bäuerlichen Grundbesitzes vom 26. April 1954;
+
+- e) das Dekret betreffend die Viehverpfändung vom 18. Januar 1912.
 
 #### Art. 59
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft[^59-1].
+<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft. <sup>1)</sup>
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^59-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^59-1]: In Kraft getreten am 1. Januar 2001 (Amtsblatt 2000, S. 1542).
-[^59-2]: Amtsblatt 2000, S. 1543.
+Fussnoten:
 
-Abl. 2000, S. 1542
+- 1) In Kraft getreten am 1. Januar 2001 (Amtsblatt 2000, S. 1542).
+
+- 2) Amtsblatt 2000, S. 1543.
+
+- 3) Aufgehoben durch G vom 22. September 2003, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2003, S. 1387; 2004 S. 33).
+
+- 5) Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
+
+- 6) Aufgehoben durch G vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 817, S. 1800).
+
+- 7) Fassung gemäss G vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 817, S. 1800).
+
+- 8) Fassung gemäss RRB vom 11. Mai 2010, in Kraft getreten am 1. Juli 2010 (Amtsblatt 2010, S. 726).
+
+- 9) Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
+
+- 10) SHR 172.200.
+
+- 11) Fassung gemäss G vom 25. September 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 1685, Amtsblatt vom 12. Januar 2024, S. 12).
+
+- 12) Aufgehoben durch G vom 25. September 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 1685, Amtsblatt vom 12. Januar 2024, S. 12).
