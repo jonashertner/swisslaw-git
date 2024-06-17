@@ -4,26 +4,28 @@ number: "431.101"
 title: Verordnung über das Einwohnerregister
 language: de
 version: 2016-07-01
+corrected: 2024-06-18
 version_adopted: 2016-06-21
 adopted: 2013-07-02
 in_force: 2013-10-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/431.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1531/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/365/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über das Einwohnerregister
 
-Vom 02.07.2013 (Stand 01.07.2016)
+vom 2. Juli 2013
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 96a des Gemeindegesetzes vom 17. August 1998,
 
-beschliesst:
+verordnet:
 
-## 1 Einwohnerregister
+- 1\. Einwohnerregister
 
 #### § 1
 
@@ -41,25 +43,29 @@ beschliesst:
 
 <sup>2</sup> Änderungen im Personenstand gemäss Art. 39 ZGB dürfen nur aufgrund von Mitteilungen der zivilstandsamtlichen Behörden im Register eingetragen werden, Änderungen des Berufes nur, wenn es die betroffene Person verlangt.
 
+[^2-1]: Fassung gemäss RRB vom 21. Juni 2016, in Kraft getreten am 1. Juli 2016
+
 #### § 3
 
-**Meldepflicht der Kollektivhaushalte**
+**Meldepflicht der Kollektivhaushalte**[^2-1]
 
-<sup>1</sup> Die Leitung von Kollektivhaushalten gemäss Art. 2 der Registerharmonisierungsverordnung, insbesondere von Alters- und Pflegeheimen, Wohn- und Erziehungsheimen für Kinder und Jugendliche sowie Institutionen für behinderte Personen, meldet der zur Führung des Einwohnerregisters zuständigen Stelle alle ein- und austretenden Personen, welche sich mehr als drei Monate in der Institution aufhalten.
+Die Leitung von Kollektivhaushalten gemäss Art. 2 der Registerharmonisierungsverordnung, insbesondere von Alters- und Pflege-
+
+Amtsblatt 2013, S. 961 heimen, Wohn- und Erziehungsheimen für Kinder und Jugendliche sowie Institutionen für behinderte Personen, meldet der zur Führung des Einwohnerregisters zuständigen Stelle alle ein- und austretenden Personen, welche sich mehr als drei Monate in der Institution aufhalten.
 
 #### § 4
 
 **Heimatausweis**
 
-<sup>1</sup> Wer sich vorübergehend ausserhalb der Gemeinde, in der er niedergelassen ist, aufhalten will, kann bei der registerführenden Stelle die Ausstellung eines Heimatausweises verlangen.
+Wer sich vorübergehend ausserhalb der Gemeinde, in der er niedergelassen ist, aufhalten will, kann bei der registerführenden Stelle die Ausstellung eines Heimatausweises verlangen.
 
-## 2 Kantonale Personendatenplattform
+- 2\. Kantonale Personendatenplattform
 
 #### § 5
 
 **Koordinationsstelle**
 
-<sup>1</sup> Das Amt für Justiz und Gemeinden ist die gemäss Art. 9 des Registerharmonisierungsgesetzes (RHG) zuständige kantonale Koordinationsstelle.
+Das Amt für Justiz und Gemeinden ist die gemäss Art. 9 des Registerharmonisierungsgesetzes (RHG) zuständige kantonale Koordinationsstelle.
 
 #### § 6
 
@@ -73,23 +79,28 @@ beschliesst:
 
 <sup>4</sup> Die Berechtigung umfasst die Merkmale und Merkmalsausprägungen. Die Freigabe folgender Merkmale erfolgt jedoch nur aufgrund einer nachgewiesenen Rechtsgrundlage in einem Gesetz im formellen Sinn:
 
-- a) Versichertennummer (AHVN13)
-- b) Konfessionszugehörigkeit
-- c) Beschränkung der Handlungsfähigkeit
-- d) Stimm- und Wahlrecht
-- e) ZAR-/ZEMIS-Nummer
+- a) Versichertennummer (AHVN13);
 
-[^6-1]: SHR [173.200](https://rechtsbuch.sh.ch/data/173.200/de).
-[^6-2]: SHR [172.101](https://rechtsbuch.sh.ch/data/172.101/de).
+- b) Konfessionszugehörigkeit;
+
+- c) Beschränkung der Handlungsfähigkeit;
+
+- d) Stimm- und Wahlrecht;
+
+- e) ZAR-/ZEMIS-Nummer.
+
+[^6-1]: SHR 173.200.
+[^6-2]: SHR 172.101.
 
 #### § 7
 
 **Nutzung der Personendatenplattform im Sinne von Art. 89a Gemeindegesetz**
 
-<sup>1</sup> Wer verpflichtet ist, der Einwohnergemeinde eine Änderung des Wohn- oder Aufenthaltsortes sowie einen Umzug innerhalb der Gemeinde bekannt zu geben, hat seine Meldepflicht auch gegenüber folgenden Stellen erfüllt:
+Wer verpflichtet ist, der Einwohnergemeinde eine Änderung des Wohn- oder Aufenthaltsortes sowie einen Umzug innerhalb der Gemeinde bekannt zu geben, hat seine Meldepflicht auch gegenüber folgenden Stellen erfüllt:
 
-- a) kantonale Steuerverwaltung
-- b) Amt für Militär und Zivilschutz
+- a) kantonale Steuerverwaltung;
+
+- b) Amt für Militär und Zivilschutz.
 
 #### § 8
 
@@ -99,9 +110,11 @@ beschliesst:
 
 <sup>2</sup> Der Antrag enthält die Bezeichnung der Mutationsereignisse gemäss eCH-0020 sowie der benötigten Merkmale. Eine Liste mit den möglichen Mutationsereignissen kann beim Amt für Justiz und Gemeinden oder beim Informatikunternehmen von Kanton und Stadt Schaffhausen (KSD) bezogen werden. Weiter ist anzugeben, wie die Datenlieferungen erfolgen sollen. Es bestehen folgende Möglichkeiten:
 
-- a) Einzelabfragen
-- b) Meldungen anhand von Listen
-- c) automatische Überführung der Daten in ein bei der Dienststelle vorhandenes System
+- a) Einzelabfragen;
+
+- b) Meldungen anhand von Listen;
+
+- c) automatische Überführung der Daten in ein bei der Dienststelle vorhandenes System.
 
 <sup>3</sup> Ist eine gesetzliche Grundlage für die Aufgabenerfüllung nachgewiesen und die Stelle ins kantonale Informatiknetz integriert, erteilt das Amt für Justiz und Gemeinden der KSD den Auftrag zur personenbezogenen Freischaltung für die Merkmale und Merkmalsausprägungen. Die Freischaltung bei Personalwechsel innerhalb derselben kantonalen oder kommunalen Stelle erfolgt durch die KSD, die Freischaltung von Personen von Kirchgemeinden und zugeordneten Organisationen im Sinn von § 6 Abs. 3 und der Merkmale gemäss § 6 Abs. 4 jedoch nur im Einverständnis mit dem Amt für Justiz und Gemeinden.
 
@@ -111,7 +124,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Für den Bezug von Daten von der kantonalen Personendatenplattform werden keine Gebühren erhoben.
+Für den Bezug von Daten von der kantonalen Personendatenplattform werden keine Gebühren erhoben.
 
 #### § 10
 
@@ -135,19 +148,19 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Justiz und Gemeinden stellt das Verzeichnis auf Anfrage zu.
 
-## 3 Schlussbestimmungen
+- 3\. Schlussbestimmungen
 
 #### § 12
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über das Einwohnerregister vom 22. September 2009 aufgehoben.
+Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über das Einwohnerregister vom 22. September 2009 aufgehoben.
 
 #### § 13
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> § 7 tritt ein Jahr nach Inkrafttreten der Verordnung in Kraft.
+§ 7 tritt ein Jahr nach Inkrafttreten der Verordnung in Kraft.
 
 #### § 14
 
@@ -157,6 +170,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^14-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^14-1]: Amtsblatt 2013, S. 961.
+Fussnoten:
 
-Abl. 2013, S. 961
+[^14-1]: Amtsblatt 2013, S. 961.
