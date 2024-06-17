@@ -5,26 +5,32 @@ title: Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäl
 short: Weiterbildungsfinanzierungvereinbarung WFV
 language: de
 version: 2022-01-25
+corrected: 2024-06-18
 version_adopted: 2014-11-20
 adopted: 2014-11-20
 in_force: 2022-01-25
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.160"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1487/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/466/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen
+# Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen (Weiterbildungsfinanzierungvereinbarung WFV)
 
-(Weiterbildungsfinanzierungvereinbarung WFV)
+vom 20. November 2014 <sup>1)</sup>
 
-Vom 20.11.2014 (Stand 25.01.2022)
+Präambel
 
-Die Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren (GDK),
+In Erwägung dass
 
-in Erwägung dass die Versorgung der Bevölkerung mit Fachärzten langfristig gesichert werden muss, dass die Kantone beschlossen haben, sich verstärkt in der Weiterbildung zu engagieren und demgemäss auch die Spitäler mit anerkannten Weiterbildungsstätten von den Kantonen finanziell zu unterstützen und sich hieraus ergebende unterschiedliche Belastungen unter den Kantonen auszugleichen sind,
+− die Versorgung der Bevölkerung mit Fachärzten langfristig gesichert werden muss;
 
-beschliesst:
+− die Kantone beschlossen haben, sich verstärkt in der Weiterbildung zu engagieren;
+
+− demgemäss auch die Spitäler mit anerkannten Weiterbildungsstätten von den Kantonen finanziell zu unterstützen und sich hieraus ergebende unterschiedliche Belastungen unter den Kantonen auszugleichen sind;
+
+beschliesst die Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und – direktoren (GDK):
 
 #### Art. 1
 
@@ -34,11 +40,13 @@ beschliesst:
 
 <sup>2</sup> Sie regelt zudem den Ausgleich des unterschiedlichen Kostenaufwands der Kantone durch die Gewährung des Mindestbeitrags gemäss Abs. 1.
 
+Amtsblatt 2022, S. 2432
+
 #### Art. 2
 
 **Beiträge der Standortkantone**
 
-<sup>1</sup> Die Standortkantone richten den Spitälern pro Jahr und Ärztin und Arzt in Weiterbildung (Vollzeitäquivalent) pauschal Fr. 15'000.00 aus, sofern die betreffende Ärztin / der betreffende Arzt im Zeitpunkt der Erlangung des Universitätszulassungsausweises ihren/seinen Wohnsitz in einem der Vereinbarung beigetretenen Kanton hatte.
+<sup>1</sup> Die Standortkantone richten den Spitälern pro Jahr und Ärztin und Arzt in Weiterbildung (Vollzeitäquivalent) pauschal CHF 15‘000 aus, sofern die betreffende Ärztin/der betreffende Arzt im Zeitpunkt der Erlangung des Universitätszulassungsausweises ihren/seinen Wohnsitz in einem der Vereinbarung beigetretenen Kanton hatte.
 
 <sup>2</sup> Allfällige höhere Beiträge der Standortkantone oder Beiträge der Standortkantone für Ärztinnen und Ärzte, die im Zeitpunkt der Erlangung des Universitätszulassungsausweises ihren Wohnsitz nicht in einem der Vereinbarung beigetretenen Kanton hatten, werden unter den Kantonen nicht ausgeglichen.
 
@@ -50,13 +58,13 @@ beschliesst:
 
 **Anzahl der Ärztinnen und Ärzte in Weiterbildung**
 
-<sup>1</sup> Die Anzahl der Ärztinnen und Ärzte (Vollzeitäquivalente), für die den Spitälern Beiträge gewährt werden, richtet sich nach der Erhebung des Bundesamtes für Statistik (BFS). Vorbehalten bleiben Korrekturen gemäss Art. 2 Abs. 2 und aufgrund von Plausibilisierungen gemäss Art. 6 Abs. 2 lit. e.
+Die Anzahl der Ärztinnen und Ärzte (Vollzeitäquivalente), für die den Spitälern Beiträge gewährt werden, richtet sich nach der Erhebung des Bundesamtes für Statistik (BFS). Vorbehalten bleiben Korrekturen gemäss Art. 2 Abs. 2 und aufgrund von Plausibilisierungen gemäss Art. 6 Abs. 2 Bst. e.
 
 #### Art. 4
 
 **Standortkanton**
 
-<sup>1</sup> Standortkanton ist der Kanton, in dem das Spital liegt.
+Standortkanton ist der Kanton, in dem das Spital liegt.
 
 #### Art. 5
 
@@ -64,12 +72,17 @@ beschliesst:
 
 <sup>1</sup> Der Ausgleich unter den Kantonen wird in folgenden Schritten ermittelt:
 
-- 1\. Ermittlung der Beitragsleistungen gem. Art. 2 Abs. 1 pro Kanton
-- 2\. Summierung der Beitragsleistungen aller Vereinbarungskantone
-- 3\. Teilung der Summe durch die Bevölkerung der Vereinbarungskantone
-- 4\. Multiplikation des gemittelten pro Kopf-Beitrages eines jeden Vereinbarungskantons mit seiner Bevölkerung
-- 5\. Gegenüberstellung der Beitragsleistung eines jeden Vereinbarungskantons mit den gemittelten Werten
-- 6\. Die Differenz der Werte gemäss Schritt 5 bildet den vom Vereinbarungskanton als Ausgleich zu zahlenden bzw. zu beziehenden Beitrag
+- 1\. Ermittlung der Beitragsleistungen gem. Art. 2 Abs. 1 pro Kanton;
+
+- 2\. Summierung der Beitragsleistungen aller Vereinbarungskantone;
+
+- 3\. Teilung der Summe durch die Bevölkerung der Vereinbarungskantone;
+
+- 4\. Multiplikation des gemittelten pro Kopf-Beitrages eines jeden Vereinbarungskantons mit seiner Bevölkerung;
+
+- 5\. Gegenüberstellung der Beitragsleistung eines jeden Vereinbarungskantons mit den gemittelten Werten;
+
+- 6\. Die Differenz der Werte gemäss Schritt 5 bildet den vom Vereinbarungskanton als Ausgleich zu zahlenden bzw. zu beziehenden Beitrag.
 
 <sup>2</sup> Der Ausgleich erfolgt jährlich.
 
@@ -81,13 +94,19 @@ beschliesst:
 
 <sup>2</sup> Die Versammlung hat folgende Aufgaben:
 
-- a) Wahl des Vorsitzes
-- b) Erlass eines Geschäftsreglements
-- c) Bezeichnung der Geschäftsstelle
-- d) Anpassungen des Mindestbeitrags gemäss Art. 2 Abs. 4
-- e) Plausibilisierung der Vollzeitäquivalente gemäss Art. 3
-- f) Festlegung des Ausgleichs gemäss Art. 5
-- g) Jährliche Berichterstattung an die Vereinbarungskantone
+- a) Wahl des Vorsitzes;
+
+- b) Erlass eines Geschäftsreglements;
+
+- c) Bezeichnung der Geschäftsstelle;
+
+- d) Anpassungen des Mindestbeitrags gemäss Art. 2 Abs. 4;
+
+- e) Plausibilisierung der Vollzeitäquivalente gemäss Art. 3;
+
+- f) Festlegung des Ausgleichs gemäss Art. 5;
+
+- g) Jährliche Berichterstattung an die Vereinbarungskantone.
 
 <sup>3</sup> Die Beschlüsse der Versammlung erfordern Einstimmigkeit. Die Beschlüsse gemäss Abs. 2 lit. d, e und f gelten ab dem folgenden Jahr.
 
@@ -95,13 +114,13 @@ beschliesst:
 
 **Vollzugskosten**
 
-<sup>1</sup> Die Vollzugskosten dieser Vereinbarung werden von den Vereinbarungskantonen nach Massgabe der Bevölkerungszahl getragen.
+Die Vollzugskosten dieser Vereinbarung werden von den Vereinbarungskantonen nach Massgabe der Bevölkerungszahl getragen.
 
 #### Art. 8
 
 **Streitbeilegung**
 
-<sup>1</sup> Die Vereinbarungskantone verpflichten sich, vor Anrufung des Bundesgerichts das im Abschnitt 4 der IRV[^8-1] geregelte Streitbeilegungsverfahren anzuwenden.
+Die Vereinbarungskantone verpflichten sich, vor Anrufung des Bundesgerichts das im IV. Abschnitt der IRV[^8-1] geregelte Streitbeilegungsverfahren anzuwenden.
 
 [^8-1]: Rahmenvereinbarung für die Zusammenarbeit mit Lastenausgleich vom 24. Juni 2005 (IRV).
 
@@ -109,17 +128,13 @@ beschliesst:
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung wird mit der Mitteilung an die GDK wirksam[^9-1].
-
-[^9-1]: Beitritt des Kantons Schaffhausen durch KRB vom 30. November 2015, Amtsblatt 2015, S. 1891, S. 2432.
+Der Beitritt zu dieser Vereinbarung wird mit der Mitteilung an die GDK wirksam.
 
 #### Art. 10
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, wenn ihr mindestens 18 Kantone beigetreten sind[^10-1]. Sie ist dem Bund zur Kenntnis zu bringen.
-
-[^10-1]: In Kraft getreten am 25. Januar 2022.
+Diese Vereinbarung tritt in Kraft, wenn ihr mindestens 18 Kantone beigetreten sind. Sie ist dem Bund zur Kenntnis zu bringen.
 
 #### Art. 11
 
@@ -133,6 +148,22 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Die Vereinbarung gilt unbefristet.
+Die Vereinbarung gilt unbefristet.
 
-Abl. 2022, S. 2432
+Bern, 20. November 2014 Im Namen der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und –direktoren
+
+**Der Zentralsekretär Michael Jordi**
+
+Der Präsident
+
+### Philippe Perrenoud
+
+Regierungsrat
+
+In Kraft getreten am 25. Januar 2022.
+
+Fussnoten:
+
+## Weitere Fussnoten
+
+- [1] In Kraft seit 25. Januar 2022.
