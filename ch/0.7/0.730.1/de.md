@@ -3,11 +3,11 @@ sr: "0.730.1"
 title: Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/623_622_622"
 language: de
-version: 2020-07-08
+version: 2024-06-18
 adopted: 1974-11-18
 in_force: 1976-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20200708/de/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20200708-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20200708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20240618/de/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20240618-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20240618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Paris am 18. November 1974 Von der Bundesversammlung genehmigt am 12. März 1975[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 8. Dezember 1975 In Kraft getreten für die Schweiz am 19. Januar 1976
 
-(Stand am 8. Juli 2020)
+(Stand am 18. Juni 2024)
 
 [^t-1]: [AS 1976 621](https://fedlex.data.admin.ch/eli/oc/1976/621_621_621)
 
@@ -493,11 +493,14 @@ Die Agentur hat folgende Organe:
 
 - – einen Verwaltungsrat,
 - – einen Geschäftsführenden Ausschuss,
-- – Ständige Gruppen für
-- – Notstandsfragen
-- – den Ölmarkt
-- – langfristige Zusammenarbeit
-- – die Beziehungen zu Förderländern und zu anderen Verbraucherländern.
+- –
+
+  Ständige Gruppen für:
+
+  - – Notstandsfragen
+  - – den Ölmarkt
+  - – langfristige Zusammenarbeit
+  - – die Beziehungen zu Förderländern und zu anderen Verbraucherländern.
 
 <sup>2.</sup> Der Verwaltungsrat oder der Geschäftsführende Ausschuss kann mit Stimmenmehrheit jedes andere für die Durchführung des Programms erforderliche Organ einsetzen.
 
@@ -884,7 +887,7 @@ Die Ständige Gruppe für Notstandsfragen prüft und berichtet dem Geschäftsfü
 
 Die Berichte der Ständigen Gruppe für Notstandsfragen über die in dieser Anlage genannten Angelegenheiten werden dem Geschäftsführenden Ausschuss bis zum 1. April 1975 vorgelegt. Der Geschäftsführende Ausschuss unterbreitet dem Verwaltungsrat gegebenenfalls Vorschläge; dieser beschliesst darüber bis zum 1. Juli 1975 mit Stimmenmehrheit, sofern nicht Artikel 7 Absatz 2 dieser Anlage etwas anderes bestimmt.
 
-Geltungsbereich am 8. Juli 2020**[^t-2]**
+Geltungsbereich am 18. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -901,6 +904,7 @@ Geltungsbereich am 8. Juli 2020**[^t-2]**
 <tr><td>Japan</td><td>18. November</td><td>1974 U</td><td>19. Januar</td><td>1976</td></tr>
 <tr><td>Kanada</td><td>17. Dezember</td><td>1975</td><td>19. Januar</td><td>1976</td></tr>
 <tr><td>Korea (Süd-)</td><td>18. März</td><td>2002 B</td><td>28. März</td><td>2002</td></tr>
+<tr><td>Litauen</td><td>10. Februar</td><td>2022 B</td><td>20. Februar</td><td>2022</td></tr>
 <tr><td>Luxemburg</td><td>24. April</td><td>1975</td><td>19. Januar</td><td>1976</td></tr>
 <tr><td>Mexiko</td><td>7. Februar</td><td>2018 B</td><td>17. Februar</td><td>2018</td></tr>
 <tr><td>Neuseeland</td><td>29. Dezember</td><td>1976 B</td><td>8. Januar</td><td>1977</td></tr>
@@ -923,7 +927,7 @@ Geltungsbereich am 8. Juli 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1976 623](https://fedlex.data.admin.ch/eli/oc/1976/623_622_622), [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153), [1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378), [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152), [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659), [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164), [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499), [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486), [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1976 623](https://fedlex.data.admin.ch/eli/oc/1976/623_622_622); [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153); [1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378); [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152); [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659); [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164); [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499); [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486); [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605); [2024 292](https://fedlex.data.admin.ch/eli/oc/2024/292). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 

@@ -3,11 +3,11 @@ sr: "0.730.1"
 title: "Accord du 18 novembre 1974 relatif à un programme international de l'énergie (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/623_622_622"
 language: fr
-version: 2020-07-08
+version: 2024-06-18
 adopted: 1974-11-18
 in_force: 1976-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20200708/fr/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20200708-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20200708/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20240618/fr/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20240618-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20240618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 8 décembre 1975
 
 Entré en vigueur pour la Suisse le 19 janvier 1976
 
-(Etat le 8 juillet 2020)
+(État le 18 juin 2024)
 
 [^t-1]: [RO 1976 621](https://fedlex.data.admin.ch/eli/oc/1976/621_621_621)
 
@@ -507,11 +507,14 @@ L’Agence comprend les organes suivants:
 
 - – un Conseil de Direction
 - – un Comité de Gestion
-- – des Groupes Permanents sur
-- – les questions urgentes
-- – le marché pétrolier
-- – la coopération à long terme
-- – les relations avec les pays producteurs et les autres pays consommateurs.
+- –
+
+  des Groupes Permanents sur:
+
+  - – les questions urgentes
+  - – le marché pétrolier
+  - – la coopération à long terme
+  - – les relations avec les pays producteurs et les autres pays consommateurs.
 
 <sup>2.</sup> Le Conseil de Direction ou le Comité de Gestion, se prononçant à la majorité, peuvent créer tout autre organe nécessaire à la mise en œuvre du Programme.
 
@@ -920,7 +923,7 @@ Le Groupe Permanent sur les questions urgentes examinera tous les éléments des
 
 Les rapports du Groupe Permanent sur les questions urgentes, relatifs aux sujets mentionnés dans la présente Annexe, seront soumis au Comité de Gestion avant le 1<sup>er</sup> avril 1975. Le Comité de Gestion soumettra, le cas échéant, des propositions au Conseil de Direction qui, se prononçant à la majorité et le 1<sup>er</sup> juillet 1975 au plus tard, prendra une décision au sujet de ces propositions, sous réserve des dispositions de l’Art. 7, al. 2, de la présente Annexe.
 
-Champ d'application le 8 juillet 2020**[^t-2]**
+Champ d’application le 18 juin 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -941,6 +944,7 @@ Champ d'application le 8 juillet 2020**[^t-2]**
 <tr><td>Irlande</td><td>28 juillet</td><td>1975</td><td>19 janvier</td><td>1976</td></tr>
 <tr><td>Italie</td><td>3 février</td><td>1978</td><td>13 février</td><td>1978</td></tr>
 <tr><td>Japon</td><td>18 novembre</td><td>1974 Si</td><td>19 janvier</td><td>1976</td></tr>
+<tr><td>Lituanie</td><td>10 février</td><td>2022 A</td><td>20 février</td><td>2022</td></tr>
 <tr><td>Luxembourg</td><td>24 avril</td><td>1975</td><td>19 janvier</td><td>1976</td></tr>
 <tr><td>Mexique</td><td>7 février</td><td>2018 A</td><td>17 février</td><td>2018</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>29 décembre</td><td>1976 A</td><td>8 janvier</td><td>1977</td></tr>
@@ -955,10 +959,10 @@ Champ d'application le 8 juillet 2020**[^t-2]**
 <tr><td>Suède\*</td><td>18 décembre</td><td>1975</td><td>19 janvier</td><td>1976</td></tr>
 <tr><td>Suisse\*</td><td>8 décembre</td><td>1975</td><td>19 janvier</td><td>1976</td></tr>
 <tr><td>Turquie</td><td>24 avril</td><td>1981</td><td>4 mai</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au ROLes textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: [RO 1976 622](https://fedlex.data.admin.ch/eli/oc/1976/623_622_622)**,** [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153),[1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378), [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152), [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659), [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164), [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499), [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486), [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1976 622](https://fedlex.data.admin.ch/eli/oc/1976/623_622_622); [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153); [1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378); [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152); [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659); [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164); [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499); [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486); [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605); [2024 292](https://fedlex.data.admin.ch/eli/oc/2024/292). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclarations
 

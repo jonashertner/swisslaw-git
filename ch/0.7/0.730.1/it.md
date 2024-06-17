@@ -3,11 +3,11 @@ sr: "0.730.1"
 title: "Accordo del 18 novembre 1974 istitutivo di un programma internazionale dell'energia (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/623_622_622"
 language: it
-version: 2020-07-08
+version: 2024-06-18
 adopted: 1974-11-18
 in_force: 1976-01-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20200708/it/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20200708-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20200708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/623_622_622/20240618/it/xml/fedlex-data-admin-ch-eli-cc-1976-623_622_622-20240618-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/623_622_622/20240618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Traduzione
 
 Conchiuso a Parigi il 18 novembre 1974 Approvato dall’Assemblea federale il 12 marzo 1975[^t-1] Istrumenti di ratificazione depositati dalla Svizzera l’8 dicembre 1975 Entrato in vigore per la Svizzera il 19 gennaio 1976
 
-(Stato 8 luglio 2020)
+(Stato 18 giugno 2024)
 
 [^t-1]: RU **1976** 622; BBl 1975 I 749 ediz. ted. FF 1975 I 757 ediz. franc. RU **1975** 621
 
@@ -38,7 +38,7 @@ Decisi a ridurre la loro dipendenza dalle importazioni petrolifere attraverso sf
 
 Convinti che questi obiettivi possono essere raggiunti soltanto con sforzi comuni e continui nell’ambito di organismi efficienti;
 
-Manifestando l’intenzione che tali organismi siano creati nel quadro dell’Organizzazione per la Cooperazione e lo Sviluppo Economici;,
+Manifestando l’intenzione che tali organismi siano creati nel quadro dell’Organizzazione per la Cooperazione e lo Sviluppo Economici;
 
 Riconoscendo che altri Paesi Membri dell’Organizzazione per la Cooperazione e lo Sviluppo Economici possono manifestare l’intenzione di collaborare a tali sforzi;
 
@@ -510,11 +510,14 @@ L’Agenzia ha i seguenti organi:
 
 - – un Consiglio direttivo
 - – un Comitato di Gestione
-- – Gruppi Permanenti per
-- – problemi di emergenza
-- – mercatistica
-- – cooperazione a lungo termine
-- – relazioni con i Paesi produttori e altri Paesi consumatori.
+- –
+
+  Gruppi Permanenti per:
+
+  - – problemi di emergenza
+  - – mercatistica
+  - – cooperazione a lungo termine
+  - – relazioni con i Paesi produttori e altri Paesi consumatori.
 
 <sup>2.</sup> Il Consiglio direttivo o il Comitato di Gestione può decidere, a maggioranza, di istituire qualsiasi altro organo necessario per l’esecuzione del Programma.
 
@@ -914,7 +917,7 @@ Il Gruppo Permanente per i problemi di emergenza vaglierà gli elementi dei Capi
 
 I rapporti del Gruppo Permanente per i problemi di emergenza, relativi agli argomenti menzionati nel presente Allegato, saranno sottoposti al Comitato di Gestione entro il 1° aprile 1975. Il Comitato avanzerà, ove occorra, sue proposte al Consiglio direttivo il quale, a maggioranza, deciderà su queste proposte entro il 1° luglio 1975, fatto salvo quanto previsto nell’Articolo 7 paragrafo 2 del presente Allegato.
 
-Campo d’applicazione l’8 luglio 2020**[^t-2]**
+Campo d’applicazione il 18 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -933,6 +936,7 @@ Campo d’applicazione l’8 luglio 2020**[^t-2]**
 <tr><td>Grecia</td><td>15 luglio</td><td>1977 A</td><td>25 luglio</td><td>1977</td></tr>
 <tr><td>Irlanda</td><td>28 luglio</td><td>1975</td><td>19 gennaio</td><td>1976</td></tr>
 <tr><td>Italia</td><td>3 febbraio</td><td>1978</td><td>13 febbraio</td><td>1978</td></tr>
+<tr><td>Lituania</td><td>10 febbraio</td><td>2022 A</td><td>20 febbraio</td><td>2022</td></tr>
 <tr><td>Lussemburgo</td><td>24 aprile</td><td>1975</td><td>19 gennaio</td><td>1976</td></tr>
 <tr><td>Messico</td><td>7 febbraio</td><td>2018 A</td><td>17 febbraio</td><td>2018</td></tr>
 <tr><td>Nuova Zelanda</td><td>29 dicembre</td><td>1976 A</td><td>8 gennaio</td><td>1977</td></tr>
@@ -953,7 +957,7 @@ Campo d’applicazione l’8 luglio 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> L’Acc. s’applica unicamente al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1976 621](https://fedlex.data.admin.ch/eli/oc/1976/621_621_621), [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153), [1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378), [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152), [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659), [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164), [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499), [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486), [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1976 622](https://fedlex.data.admin.ch/eli/oc/1976/623_622_622); [1977 2153](https://fedlex.data.admin.ch/eli/oc/1977/2153_2153_2153); [1980 378](https://fedlex.data.admin.ch/eli/oc/1980/378_378_378); [1983 152](https://fedlex.data.admin.ch/eli/oc/1983/152_152_152); [2002 4104](https://fedlex.data.admin.ch/eli/oc/2002/659); [2008 667](https://fedlex.data.admin.ch/eli/oc/2008/164); [2011 3613](https://fedlex.data.admin.ch/eli/oc/2011/499); [2017 4077](https://fedlex.data.admin.ch/eli/oc/2017/486); [2020 3483](https://fedlex.data.admin.ch/eli/oc/2020/605); [2024 292](https://fedlex.data.admin.ch/eli/oc/2024/292). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazioni
 
