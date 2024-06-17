@@ -5,33 +5,30 @@ title: Normalarbeitsvertrag für Arbeitnehmende in der Landwirtschaft
 short: NAV LW
 language: de
 version: 2012-01-01
+corrected: 2024-06-18
 version_adopted: 2011-12-06
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/221.217"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1670/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/161/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Normalarbeitsvertrag für Arbeitnehmende in der Landwirtschaft
+# Normalarbeitsvertrag für Arbeitnehmende in der Landwirtschaft (NAV LW)
 
-(NAV LW)
-
-Vom 06.12.2011 (Stand 01.01.2012)
+vom 6. Dezember 2011
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 359 Abs. 2 des Schweizerischen Obligationenrechts (OR)[^ingress-1] und Art. 18 lit. b Ziff. 9 des Gesetzes über die Einführung des Zivilgesetzbuches[^ingress-2],
+gestützt auf Art. 359 Abs. 2 des Schweizerischen Obligationenrechts (OR) <sup>1)</sup> und Art. 18 lit. b Ziff. 9 des Gesetzes über die Einführung des Zivilgesetzbuches <sup>2)</sup>,
 
-beschliesst:
+erlässt folgenden Normalarbeitsvertrag:
 
-[^ingress-1]: SR [220](http://db.clex.ch/link/Bund/220/de).
-[^ingress-2]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de).
+### I. Allgemeine Bestimmungen
 
-## 1 Allgemeine Bestimmungen
-
-#### Art. 1
+#### § 1
 
 **Geltungsbereich**
 
@@ -39,35 +36,39 @@ beschliesst:
 
 <sup>2</sup> Ausgenommen sind Arbeitsverhältnisse mit Personen, die in folgender Beziehung zu den Arbeitgebenden stehen:
 
-- a) Ehepartnerin oder Ehepartner oder eingetragene Partnerin oder eingetragener Partner
-- b) Verwandte des Betriebsleiters oder der Betriebsleiterin in auf- und absteigender Linie
-- c) Schwiegersöhne und Schwiegertöchter des Betriebsleiters oder der Betriebsleiterin, die voraussichtlich den Betrieb zur Selbstbewirtschaftung übernehmen werden
+- a) Ehepartnerin oder Ehepartner oder eingetragene Partnerin oder eingetragener Partner;
+
+- b) Verwandte des Betriebsleiters oder der Betriebsleiterin in auf- und absteigender Linie;
+
+- c) Schwiegersöhne und Schwiegertöchter des Betriebsleiters oder der Betriebsleiterin, die voraussichtlich den Betrieb zur Selbstbewirtschaftung übernehmen werden.
 
 <sup>3</sup> Für Lehrverhältnisse gelten die nachfolgenden Bestimmungen nur, soweit der Lehrvertrag oder das Berufsbildungsrecht keine abweichenden Regelungen vorsehen.
 
 <sup>4</sup> Vorbehalten bleiben die zwingenden Vorschriften des Bundes und des kantonalen Rechts.
 
-#### Art. 2
+Amtsblatt 2011, S. 1687
+
+#### § 2
 
 **Abweichungen**
 
-<sup>1</sup> Abweichungen vom Normalarbeitsvertrag müssen, damit sie gültig sind, schriftlich vereinbart werden.
+Abweichungen vom Normalarbeitsvertrag müssen, damit sie gültig sind, schriftlich vereinbart werden.
 
-#### Art. 3
+#### § 3
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Soweit dieser Normalarbeitsvertrag keine Bestimmungen enthält und die Parteien keine zulässigen schriftlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des OR.
+Soweit dieser Normalarbeitsvertrag keine Bestimmungen enthält und die Parteien keine zulässigen schriftlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des OR.
 
-#### Art. 4
+#### § 4
 
 **Aushändigung des Normalarbeitsvertrages**
 
-<sup>1</sup> Die Arbeitgebenden haben den Arbeitnehmenden bei der Anstellung sowie bei jeder Änderung des Normalarbeitsvertrages ein Exemplar davon auszuhändigen.
+Die Arbeitgebenden haben den Arbeitnehmenden bei der Anstellung sowie bei jeder Änderung des Normalarbeitsvertrages ein Exemplar davon auszuhändigen.
 
-## 2 Probezeit und Kündigung
+### II. Probezeit und Kündigung
 
-#### Art. 5
+#### § 5
 
 **Probezeit**
 
@@ -75,7 +76,7 @@ beschliesst:
 
 <sup>2</sup> Wenn das Arbeitsverhältnis für nicht mehr als vier Monate eingegangen wird, beträgt die Probezeit zwei Wochen.
 
-#### Art. 6
+#### § 6
 
 **Kündigung und Kündigungstermin**
 
@@ -85,31 +86,35 @@ beschliesst:
 
 <sup>3</sup> Während der Probezeit ist die Kündigung jederzeit möglich, nach der Probezeit jeweils nur auf das Ende eines Monats.
 
-#### Art. 7
+#### § 7
 
 **Kündigungsfrist**
 
-<sup>1</sup> Während der Probezeit beträgt die Kündigungsfrist sieben Tage. Nach Ablauf der Probezeit beträgt sie:
+Während der Probezeit beträgt die Kündigungsfrist sieben Tage. Nach Ablauf der Probezeit beträgt sie:
 
-- a) im ersten Dienstjahr einen Monat
-- b) im zweiten bis fünften Dienstjahr zwei Monate
-- c) ab dem sechsten Dienstjahr drei Monate
+- a) im ersten Dienstjahr einen Monat;
 
-#### Art. 8
+- b) im zweiten bis fünften Dienstjahr zwei Monate;
+
+- c) ab dem sechsten Dienstjahr drei Monate.
+
+#### § 8
 
 **Kündigungsschutz**
 
 <sup>1</sup> Nach Ablauf der Probezeit dürfen Arbeitgebende das Arbeitsverhältnis insbesondere dann nicht kündigen, wenn Arbeitnehmende ohne eigenes Verschulden durch Krankheit oder Unfall ganz oder teilweise an der Arbeitsleistung verhindert sind, und zwar:
 
-- a) im ersten Dienstjahr: — während 30 Tagen
-- b) im zweiten bis fünften Dienstjahr: — während 90 Tagen
-- c) ab dem sechsten Dienstjahr: — während 180 Tagen
+- a) im ersten Dienstjahr während 30 Tagen;
+
+- b) im zweiten bis fünften Dienstjahr während 90 Tagen;
+
+- c) ab dem sechsten Dienstjahr während 180 Tagen.
 
 <sup>2</sup> Arbeitnehmerinnen darf während der Schwangerschaft und 16 Wochen nach der Geburt nicht gekündigt werden.
 
-<sup>3</sup> Im Weiteren gelten für den Kündigungsschutz die Art. 336 ff. OR.
+<sup>3</sup> Im Weiteren gelten für den Kündigungsschutz die Artikel 336 ff. OR.
 
-#### Art. 9
+#### § 9
 
 **Kündigung der Dienstwohnung**
 
@@ -117,9 +122,9 @@ beschliesst:
 
 <sup>2</sup> Besteht für die Dienstwohnung ein spezieller Mietvertrag oder überwiegen die mietrechtlichen Vertragselemente gegenüber den arbeitsrechtlichen, richten sich die Kündigungsfristen nach dem Mietrecht.
 
-## 3 Arbeits- und Ruhezeit, Pausen und Überstunden
+### III. Arbeits- und Ruhezeit, Pausen und Überstunden
 
-#### Art. 10
+#### § 10
 
 **Arbeitszeit**
 
@@ -129,7 +134,7 @@ beschliesst:
 
 <sup>3</sup> Sie kann vorgängig und schriftlich saisonal unterschiedlich festgelegt werden, sofern sie zwölf Stunden pro Tag und im Durchschnitt zehn Stunden pro Tag nicht überschreitet. Der Durchschnitt berechnet sich aufgrund der ganzen Dauer des Arbeitsverhältnisses, beim überjährigen Arbeitsverhältnis aufgrund des Kalenderjahrs.
 
-#### Art. 11
+#### § 11
 
 **Tägliche Ruhezeit**
 
@@ -137,7 +142,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann ausnahmsweise bis auf acht Stunden herabgesetzt werden, sofern die Dauer von zehn Stunden im Durchschnitt von zwei Wochen eingehalten wird.
 
-#### Art. 12
+#### § 12
 
 **Pausen**
 
@@ -145,7 +150,7 @@ beschliesst:
 
 <sup>2</sup> Bei einer Arbeitszeit von mehr als sechs Stunden pro Tag ist zudem eine Pause von einer Viertelstunde zu gewähren. Diese gilt als Arbeitszeit.
 
-#### Art. 13
+#### § 13
 
 **Überstunden**
 
@@ -157,7 +162,7 @@ beschliesst:
 
 <sup>4</sup> Bei befristeten Arbeitsverhältnissen muss die Kompensation oder die Abgeltung spätestens bei Beendigung des Arbeitsverhältnisses erfolgen.
 
-#### Art. 14
+#### § 14
 
 **Aus- und Weiterbildung**
 
@@ -167,9 +172,9 @@ beschliesst:
 
 <sup>3</sup> Im Übrigen besteht kein Anspruch der Arbeitnehmenden auf Anrechnung von Aus- und Weiterbildung als Arbeitszeit.
 
-## 4 Freie Tage, Ferien und Urlaub
+### IV. Freie Tage, Ferien und Urlaub
 
-#### Art. 15
+#### § 15
 
 **Freie Tage**
 
@@ -183,25 +188,23 @@ beschliesst:
 
 <sup>5</sup> Alle zwei Wochen muss mindestens ein ganzer Tag als Ruhetag bezogen werden, die übrigen Tage können innerhalb der kommenden drei Monate bezogen werden.
 
-#### Art. 16
+#### § 16
 
 **Auszahlung freier Tage**
 
-<sup>1</sup> Eine Auszahlung anstelle der Gewährung von freien Tagen ist unter Vorbehalt von § 15 Abs. 5 möglich bei der Auflösung des Arbeitsverhältnisses und bei befristeten Arbeitsverhältnissen von höchstens drei Monaten Dauer. Als Tageslohn gilt der 23.9 Teil des Monatslohns.
+Eine Auszahlung anstelle der Gewährung von freien Tagen ist unter Vorbehalt von § 15 Abs. 5 möglich bei der Auflösung des Arbeitsverhältnisses und bei befristeten Arbeitsverhältnissen von höchstens drei Monaten Dauer. Als Tageslohn gilt der 23.9 Teil des Monatslohns.
 
-#### Art. 17
+#### § 17
 
 **Sonntage und öffentliche Feiertage**
 
-<sup>1</sup> An Sonntagen und öffentlichen Feiertagen sind die Arbeiten auf das betrieblich notwendige Minimum zu beschränken. Öffentliche Feiertage sind die als öffentliche Ruhetage geltenden Feiertage im Sinne von Art. 1 Abs. 1 lit. b des Ruhetagsgesetzes[^17-1] (Neujahr, Karfreitag, Ostermontag, 1. Mai, Auffahrt, Pfingstmontag, 1. August, Weihnachtstag und Stephanstag).
+<sup>1</sup> An Sonntagen und öffentlichen Feiertagen sind die Arbeiten auf das betrieblich notwendige Minimum zu beschränken. Öffentliche Feiertage sind die als öffentliche Ruhetage geltenden Feiertage im Sinne von Art. 1 Abs. 1 lit. b des Ruhetagsgesetzes <sup>3)</sup> (Neujahr, Karfreitag, Ostermontag, 1. Mai, Auffahrt, Pfingstmontag, 1. August, Weihnachtstag und Stephanstag).
 
 <sup>2</sup> Diese Tage werden als freie Halbtage angerechnet, wenn die tägliche Arbeitszeit nur am Morgen oder nur am Abend anfällt und weniger als vier Stunden umfasst.
 
 <sup>3</sup> Öffentliche Feiertage, die in die Ferien fallen, gelten nicht als Ferientage.
 
-[^17-1]: SHR [900.200](https://rechtsbuch.sh.ch/data/900.200/de).
-
-#### Art. 18
+#### § 18
 
 **Ferien**
 
@@ -217,37 +220,39 @@ beschliesst:
 
 <sup>6</sup> Die Arbeitgebenden bestimmen den Zeitpunkt der Ferien. Sie nehmen dabei auf die Wünsche der Arbeitnehmenden Rücksicht.
 
-#### Art. 19
+#### § 19
 
 **Bezahlter Urlaub**
 
-<sup>1</sup> Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub:
+Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub:
 
-- a) von drei Tagen bei eigener Heirat, Eintragung der Partnerschaft, Tod des Ehegatten, Tod der eingetragenen Partnerin oder des eingetragenen Partners, Tod eines Nachkommen, Tod eines Elternteils
-- b) von zwei Tagen bei der Geburt eines eigenen Kindes
-- c) von einem Tag bei Taufe oder Heirat eines Kindes, Tod eines Geschwisters, Tod eines Schwiegerelternteils, Tod einer Schwägerin oder eines Schwagers, Wechsel der eigenen Wohnung
+- a) von drei Tagen bei eigener Heirat, Eintragung der Partnerschaft, Tod des Ehegatten, Tod der eingetragenen Partnerin oder des eingetragenen Partners, Tod eines Nachkommen, Tod eines Elternteils;
 
-#### Art. 20
+- b) von zwei Tagen bei der Geburt eines eigenen Kindes;
+
+- c) von einem Tag bei Taufe oder Heirat eines Kindes, Tod eines Geschwisters, Tod eines Schwiegerelternteils, Tod einer Schwägerin oder eines Schwagers, Wechsel der eigenen Wohnung.
+
+#### § 20
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Arbeitnehmerinnen haben nach der Geburt Anspruch auf einen Mutterschaftsurlaub von 14 Wochen.
+Arbeitnehmerinnen haben nach der Geburt Anspruch auf einen Mutterschaftsurlaub von 14 Wochen.
 
-#### Art. 21
+#### § 21
 
 **Verbot der Anrechnung**
 
-<sup>1</sup> Freie Tage, Ferien und Urlaub dürfen nicht aneinander angerechnet werden.
+Freie Tage, Ferien und Urlaub dürfen nicht aneinander angerechnet werden.
 
-#### Art. 22
+#### § 22
 
 **Unterkunft und Verpflegung**
 
-<sup>1</sup> Haben Arbeitnehmende Anspruch auf Unterkunft und Verpflegung bei ihren Arbeitgebenden, besteht dieser Anspruch auch an arbeitsfreien Tagen.
+Haben Arbeitnehmende Anspruch auf Unterkunft und Verpflegung bei ihren Arbeitgebenden, besteht dieser Anspruch auch an arbeitsfreien Tagen.
 
-## 5 Lohn und Dienstaltersgeschenk
+### V. Lohn und Dienstaltersgeschenk
 
-#### Art. 23
+#### § 23
 
 **Höhe des Lohnes**
 
@@ -257,13 +262,13 @@ beschliesst:
 
 <sup>3</sup> Frauen und Männer, die gleichwertige Arbeit leisten, haben Anspruch auf den gleichen Lohn.
 
-#### Art. 24
+#### § 24
 
 **Zulagen**
 
-<sup>1</sup> Familienzulagen sind zusätzlich zum vereinbarten Lohn auszurichten. Sie dürfen weder bei der Festsetzung des Lohnes berücksichtigt noch von diesem abgezogen werden.
+Familienzulagen sind zusätzlich zum vereinbarten Lohn auszurichten. Sie dürfen weder bei der Festsetzung des Lohnes berücksichtigt noch von diesem abgezogen werden.
 
-#### Art. 25
+#### § 25
 
 **Hausgemeinschaft**
 
@@ -271,7 +276,7 @@ beschliesst:
 
 <sup>2</sup> Die Werte richten sich nach den Ansätzen für Naturalbezüge der AHV.
 
-#### Art. 26
+#### § 26
 
 **Auszahlung des Lohns**
 
@@ -279,11 +284,13 @@ beschliesst:
 
 <sup>2</sup> Bei der Auszahlung ist eine schriftliche Lohnabrechnung zu übergeben mit folgenden Angaben:
 
-- a) Lohn des Monats mit allen Abzügen und Zuschlägen
-- b) geleistete und kompensierte Überstunden
-- c) bezogene Ferien und freie Tage
+- a) Lohn des Monats mit allen Abzügen und Zuschlägen;
 
-#### Art. 27
+- b) geleistete und kompensierte Überstunden;
+
+- c) bezogene Ferien und freie Tage.
+
+#### § 27
 
 **Lohnrückbehalt**
 
@@ -295,7 +302,7 @@ beschliesst:
 
 <sup>4</sup> Er ist nach den Bestimmungen über die Kaution gemäss Art. 330 OR zu verwalten.
 
-#### Art. 28
+#### § 28
 
 **Lohn bei Arbeitsverhinderung**
 
@@ -305,66 +312,67 @@ beschliesst:
 
 <sup>3</sup> Er beträgt:
 
-- a) im ersten und zweiten Dienstjahr ein Monat
-- b) vom dritten bis fünften Dienstjahr zwei Monate
-- c) vom sechsten bis zehnten Dienstjahr drei Monate
-- d) ab dem elften Dienstjahr vier Monate
+- a) im ersten und zweiten Dienstjahr ein Monat;
 
-#### Art. 29
+- b) vom dritten bis fünften Dienstjahr zwei Monate;
+
+- c) vom sechsten bis zehnten Dienstjahr drei Monate;
+
+- d) ab dem elften Dienstjahr vier Monate.
+
+#### § 29
 
 **Lohn bei Schwangerschaft und Mutterschaft**
 
 <sup>1</sup> Ist die Arbeitnehmende wegen Schwangerschaft an der Arbeitsleistung verhindert, hat der oder die Arbeitgebende den Lohn im Umfang gemäss § 28 Abs. 3 dieses Normalarbeitsvertrags zu entrichten.
 
-<sup>2</sup> Die Mutterschaftsentschädigung richtet sich nach dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz)[^29-1].
+<sup>2</sup> Die Mutterschaftsentschädigung richtet sich nach dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz) <sup>4)</sup>.
 
-[^29-1]: SR [834.1](http://db.clex.ch/link/Bund/834.1/de).
-
-#### Art. 30
+#### § 30
 
 **Anspruch der Arbeitgebenden**
 
-<sup>1</sup> Arbeitgebende haben Anspruch auf die Lohnausfallentschädigung aus einer Erwerbsausfallversicherung im Umfang der Lohnfortzahlungspflicht, sofern sie mindestens die Hälfte der Prämien bezahlt haben.
+Arbeitgebende haben Anspruch auf die Lohnausfallentschädigung aus einer Erwerbsausfallversicherung im Umfang der Lohnfortzahlungspflicht, sofern sie mindestens die Hälfte der Prämien bezahlt haben.
 
-#### Art. 31
+#### § 31
 
 **Dienstaltersgeschenk**
 
 <sup>1</sup> Arbeitnehmende haben Anspruch auf folgende Dienstaltersgeschenke:
 
-- a) nach fünf Dienstjahren ein Viertel des Monatslohns
-- b) nach zehn Dienstjahren die Hälfte des Monatslohns
-- c) nach 15 Dienstjahren drei Viertel des Monatslohns
-- d) nach 20 Dienstjahren ein Monatslohn
-- e) nach je fünf weiteren Dienstjahren ein Monatslohn
+- a) nach fünf Dienstjahren ein Viertel des Monatslohns;
+
+- b) nach zehn Dienstjahren die Hälfte des Monatslohns;
+
+- c) nach 15 Dienstjahren drei Viertel des Monatslohns;
+
+- d) nach 20 Dienstjahren ein Monatslohn;
+
+- e) nach je fünf weiteren Dienstjahren ein Monatslohn.
 
 <sup>2</sup> Sie können das Dienstaltersgeschenk ganz oder teilweise in der Form von Ferien beziehen. Dabei entspricht ein Monatslohn Ferien von 22 Arbeitstagen.
 
 <sup>3</sup> Wollen sie das Dienstaltersgeschenk ganz oder teilweise in der Form von Ferien beziehen, teilen sie dies den Arbeitgebenden rechtzeitig mit.
 
-## 6 Vorsorge
+### VI. Vorsorge
 
-#### Art. 32
+#### § 32
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die Arbeitgebenden haben die Arbeitnehmenden gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^32-1] einer Pensionskasse anzuschliessen. Mindestens die Hälfte der Prämie ist von den Arbeitgebenden zu übernehmen.
+Die Arbeitgebenden haben die Arbeitnehmenden gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge <sup>5)</sup> einer Pensionskasse anzuschliessen. Mindestens die Hälfte der Prämie ist von den Arbeitgebenden zu übernehmen.
 
-[^32-1]: SR [831.40](http://db.clex.ch/link/Bund/831.40/de).
-
-#### Art. 33
+#### § 33
 
 **Unfall**
 
-<sup>1</sup> Die Arbeitgebenden haben für die Arbeitnehmenden eine Unfallversicherung gemäss dem Bundesgesetz über die Unfallversicherung[^33-1] abzuschliessen.
+<sup>1</sup> Die Arbeitgebenden haben für die Arbeitnehmenden eine Unfallversicherung gemäss dem Bundesgesetz über die Unfallversicherung <sup>6)</sup> abzuschliessen.
 
 <sup>2</sup> Die Prämie für die Berufsunfallversicherung ist von den Arbeitgebenden zu übernehmen.
 
 <sup>3</sup> Die Prämie der Nichtberufsunfallversicherung ist von den Arbeitnehmenden zu übernehmen. Wird sie von den Arbeitgebenden einbezahlt, kann sie vom Lohn abgezogen werden.
 
-[^33-1]: SR [832.20](http://db.clex.ch/link/Bund/832.20/de).
-
-#### Art. 34
+#### § 34
 
 **Krankheit**
 
@@ -378,37 +386,41 @@ beschliesst:
 
 <sup>5</sup> Die Arbeitgebenden prüfen bei Vertragsabschluss und bei periodischen Kontrollen, ob sich die Arbeitnehmenden gemäss den Bestimmungen der Bundesgesetzgebung über die Krankenversicherung versichert haben. Unterlassen es die Arbeitnehmenden, sich zu versichern, haben die Arbeitgebenden der zuständigen Wohnsitzgemeinde Meldung zu machen.
 
-#### Art. 35
+#### § 35
 
 **Einhaltung der Versicherungspflicht**
 
-<sup>1</sup> Soweit die Arbeitgebenden ihrer Pflicht zur Versicherung der Arbeitnehmenden gegen die wirtschaftlichen Folgen von Krankheit, Mutterschaft und Unfall nicht nachkommen, haften sie für die unversicherten Risiken.
+Soweit die Arbeitgebenden ihrer Pflicht zur Versicherung der Arbeitnehmenden gegen die wirtschaftlichen Folgen von Krankheit, Mutterschaft und Unfall nicht nachkommen, haften sie für die unversicherten Risiken.
 
-#### Art. 36
+#### § 36
 
 **Abgangsentschädigung**
 
 <sup>1</sup> Arbeitnehmende, die mindestens 50 Jahre alt sind, haben Anspruch auf folgende Abgangsentschädigungen:
 
-- a) für 20 bis 25 Dienstjahre zwei Monatslöhne
-- b) für 26 bis 30 Dienstjahre drei Monatslöhne
-- c) für 31 bis 35 Dienstjahre vier Monatslöhne
-- d) für 36 bis 40 Dienstjahre fünf Monatslöhne
-- e) über 40 Dienstjahre sechs Monatslöhne
+- a) für 20 bis 25 Dienstjahre zwei Monatslöhne;
+
+- b) für 26 bis 30 Dienstjahre drei Monatslöhne;
+
+- c) für 31 bis 35 Dienstjahre vier Monatslöhne;
+
+- d) für 36 bis 40 Dienstjahre fünf Monatslöhne;
+
+- e) über 40 Dienstjahre sechs Monatslöhne.
 
 <sup>2</sup> Beziehen die Arbeitnehmenden Leistungen einer Personalvorsorgeeinrichtung, können diese von der Abgangsentschädigung abgezogen werden, soweit die Leistungen von den Arbeitgebenden finanziert worden sind (Arbeitgeberbeiträge).
 
 <sup>3</sup> Im Übrigen richtet sich die Pflicht der Arbeitgebenden zur Entrichtung einer Abgangsentschädigung, namentlich auch der Wegfall der Entschädigung infolge Ersatzleistungen, nach Art. 339b ff. OR.
 
-## 7 Gesundheitsschutz
+### VII. Gesundheitsschutz
 
-#### Art. 37
+#### § 37
 
 **Einsatz**
 
-<sup>1</sup> Die Arbeitgebenden setzen die Arbeitnehmenden ihren Fähigkeiten entsprechend und gemäss den Bedürfnissen des Betriebes ein.
+Die Arbeitgebenden setzen die Arbeitnehmenden ihren Fähigkeiten entsprechend und gemäss den Bedürfnissen des Betriebes ein.
 
-#### Art. 38
+#### § 38
 
 **Meldung der Arbeitsunfähigkeit**
 
@@ -418,7 +430,7 @@ beschliesst:
 
 <sup>3</sup> Die Arbeitgebenden behalten sich vor, vertrauensärztliche Untersuchungen anzuordnen. Die Arbeitnehmenden verpflichten sich, bei Anordnung einer vertrauensärztlichen Untersuchung die entsprechenden Untersuchungsmassnahmen durch die Vertrauensärztin oder den Vertrauensarzt zuzulassen.
 
-#### Art. 39
+#### § 39
 
 **Pflege und ärztliche Behandlung**
 
@@ -426,30 +438,25 @@ beschliesst:
 
 <sup>2</sup> Die gleichen Leistungen sind bei Schwangerschaft und Geburt zu gewähren.
 
-#### Art. 40
+#### § 40
 
 **Schutz für schwangere Frauen und stillende Mütter**
 
-<sup>1</sup> Für arbeitende schwangere Frauen und stillende Mütter gelten die Schutzbestimmungen in den Art. 35 bis 35b des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG)[^40-1] und den Art. 60 bis 66 der Verordnung 1 zum Arbeitsgesetz[^40-2], welche den Gesundheitsschutz, die Beschäftigung sowie die Ersatzarbeit und die Lohnfortzahlung bei Mutterschaft speziell regeln.
+Für arbeitende schwangere Frauen und stillende Mütter gelten die Schutzbestimmungen in den Artikeln 35 bis 35b des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG) <sup>7)</sup> und den Artikeln 60 bis 66 der Verordnung 1 zum Arbeitsgesetz <sup>8)</sup>, welche den Gesundheitsschutz, die Beschäftigung sowie die Ersatzarbeit und die Lohnfortzahlung bei Mutterschaft speziell regeln.
 
-[^40-1]: SR [822.11](http://db.clex.ch/link/Bund/822.11/de).
-[^40-2]: SR [822.111](http://db.clex.ch/link/Bund/822.111/de).
-
-#### Art. 41
+#### § 41
 
 **Schutz für Jugendliche**
 
-<sup>1</sup> Für jugendliche Arbeitnehmende sind die Schutzbestimmungen über das Mindestalter in Art. 30 des Arbeitsgesetzes und in der Verordnung 5 zum Arbeitsgesetz (Jugendarbeitsschutzverordnung, ArGV 5)[^41-1] anwendbar.
+Für jugendliche Arbeitnehmende sind die Schutzbestimmungen über das Mindestalter in Art. 30 des Arbeitsgesetzes und in der Verordnung 5 zum Arbeitsgesetz (Jugendarbeitsschutzverordnung, ArGV 5) <sup>9)</sup> anwendbar.
 
-[^41-1]: SR [822.115](http://db.clex.ch/link/Bund/822.115/de).
-
-#### Art. 42
+#### § 42
 
 **Schutz für Arbeitnehmende mit Familienpflichten**
 
-<sup>1</sup> Für Arbeitnehmende mit Familienpflichten sind die Schutzbestimmungen des Arbeitsgesetzes und der Verordnung 1 zum Arbeitsgesetz anwendbar.
+Für Arbeitnehmende mit Familienpflichten sind die Schutzbestimmungen des Arbeitsgesetzes und der Verordnung 1 zum Arbeitsgesetz anwendbar.
 
-#### Art. 43
+#### § 43
 
 **Arbeitssicherheit und Arbeitshygiene**
 
@@ -459,9 +466,9 @@ beschliesst:
 
 <sup>3</sup> Die Arbeitgebenden sind verpflichtet, die Vorschriften gemäss der EKAS-Richtlinie 6508 über den Beizug von Arbeitsärzten und anderen Spezialisten der Arbeitssicherheit zu erfüllen.
 
-## 8 Zeugnis, Haftung und Gerichtsstand
+### VIII. Zeugnis, Haftung und Gerichtsstand
 
-#### Art. 44
+#### § 44
 
 **Zeugnis**
 
@@ -469,7 +476,7 @@ beschliesst:
 
 <sup>2</sup> Auf besonderes Verlangen der Arbeitnehmenden hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
-#### Art. 45
+#### § 45
 
 **Haftung der Arbeitnehmenden**
 
@@ -477,15 +484,15 @@ beschliesst:
 
 <sup>2</sup> Sie melden verursachte Schäden sofort den Arbeitgebenden.
 
-#### Art. 46
+#### § 46
 
 **Gerichtsstand**
 
-<sup>1</sup> Klagen über Streitigkeiten aus dem Arbeitsverhältnis können entweder beim Gericht am Wohnsitz bzw. Sitz der beklagten Partei oder beim Gericht am Ort, an dem die Arbeitnehmenden gewöhnlich die Arbeit verrichten, eingereicht werden.
+Klagen über Streitigkeiten aus dem Arbeitsverhältnis können entweder beim Gericht am Wohnsitz bzw. Sitz der beklagten Partei oder beim Gericht am Ort, an dem die Arbeitnehmenden gewöhnlich die Arbeit verrichten, eingereicht werden.
 
-## 9 Übergangs- und Schlussbestimmungen
+### VIIII. Übergangs- und Schlussbestimmungen
 
-#### Art. 47
+#### § 47
 
 **Bestehende Arbeitsverhältnisse**
 
@@ -493,14 +500,32 @@ beschliesst:
 
 <sup>2</sup> Werden bestehende schriftliche Arbeitsverträge bis zum 30. September 2011 nicht erneuert, gilt der vorliegende Normalarbeitsvertrag.
 
-#### Art. 48
+#### § 48
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieser Normalarbeitsvertrag tritt am 1. Januar 2012 in Kraft. Er ist im Amtsblatt zu veröffentlichen[^48-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>1</sup> Dieser Normalarbeitsvertrag tritt am 1. Januar 2012 in Kraft. Er ist im Amtsblatt zu veröffentlichen <sup>10)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>2</sup> Er ersetzt den Normalarbeitsvertrag für landwirtschaftliche Arbeitnehmer vom 7. Januar 1986.
 
-[^48-1]: Amtsblatt 2011, S. 1687.
+Fussnoten:
 
-Abl. 2011, S. 1687
+- 1) SR 220.
+
+- 2) SHR 210.100.
+
+- 3) SHR 900.200.
+
+- 4) SR 834.1.
+
+- 5) SR 831.4.
+
+- 6) SR 832.2.
+
+- 7) SR 822.11.
+
+- 8) SR 822.111.
+
+- 9) SR 822.115.
+
+- 10) Amtsblatt 2011, S. 1687.
