@@ -3,24 +3,26 @@ sr: "0.747.322.2"
 title: "Convention internationale du 10 avril 1926 pour l'unification de certaines règles relatives aux privilèges et hypothèques maritimes (avec protocole de signature)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/751_769_665"
 language: fr
-version: 2012-05-13
+version: 2024-06-20
 adopted: 1926-04-10
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20120513/fr/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20120513-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20120513/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20240620/fr/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20240620-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20240620/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention Internationale pour l’unification de certaines règles relatives aux privilèges et hypothèques maritimes
 
+RO **1954** 769; FF **1953** III 781
+
 Texte original
 
 Conclueà Bruxelles le 10 avril 1926 Approuvée par l’Assemblée fédérale le 17 mars 1954[^t-1] Instrument d’adhésion déposé par la Suisse le 28 mai 1954 Entrée en vigueur pour la Suisse le 28 novembre 1954
 
-(Etat le 13 mai 2012)
+(État le 20 juin 2024)
 
-[^t-1]: RO **1954** 769; FF **1953** III 781 Ch. 1 de l’AF du 17 mars 1954 (RO **1954** 767)
+[^t-1]: Ch. 1 de l’AF du 17 mars 1954 ([RO 1954 767](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
 
 #### Art. 1
 
@@ -178,45 +180,33 @@ Fait à Bruxelles, en un seul exemplaire, le 10 avril 1926.
 
 (Suivent les signatures)
 
-Champ d’application le 13 mai 2012**[^t-2]**
+Champ d’application le 20 juin 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Algérie</td><td>13 avril</td><td>1964 A</td><td>13 octobre</td><td>1964</td></tr>
-<tr><td colspan="2">Argentine</td><td>19 avril</td><td>1961 A</td><td>19 octobre</td><td>1961</td></tr>
-<tr><td colspan="2">Belgique\*</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Brésil</td><td>28 avril</td><td>1931</td><td>28 octobre</td><td>1931</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
-<tr><td colspan="2">Cuba</td><td>21 novembre</td><td>1983 A</td><td>21 mai</td><td>1984</td></tr>
-<tr><td colspan="2">France</td><td>23 août</td><td>1935</td><td>23 février</td><td>1936</td></tr>
-<tr><td colspan="2">Haïti</td><td>19 mars</td><td>1965 A</td><td>19 septembre</td><td>1965</td></tr>
-<tr><td colspan="2">Hongrie</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Iran</td><td>8 septembre</td><td>1966 A</td><td>8 mars</td><td>1967</td></tr>
-<tr><td colspan="2">Italie\*</td><td>7 décembre</td><td>1949</td><td>7 juillet</td><td>1950</td></tr>
-<tr><td colspan="2">Liban</td><td>18 mars</td><td>1969 A</td><td>18 septembre</td><td>1969</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 août</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 juillet</td><td>1965 S</td><td>26 juin</td><td>1960</td></tr>
-<tr><td colspan="2">Monaco</td><td>15 mai</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
-<tr><td colspan="2">Pologne</td><td>26 octobre</td><td>1936</td><td>26 avril</td><td>1937</td></tr>
-<tr><td colspan="2">Roumanie</td><td>4 août</td><td>1937</td><td>4 février</td><td>1938</td></tr>
-<tr><td colspan="2">Suisse</td><td>28 mai</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
-<tr><td colspan="2">Syrie</td><td>14 février</td><td>1951 A</td><td>14 août</td><td>1951</td></tr>
-<tr><td colspan="2">Turquie</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Uruguay</td><td>15 septembre</td><td>1970 A</td><td>15 mars</td><td>1971</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations, voir ci-après.</td></tr>
+<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Algérie</td><td>13 avril</td><td>1964 A</td><td>13 octobre</td><td>1964</td></tr>
+<tr><td>Argentine</td><td>19 avril</td><td>1961 A</td><td>19 octobre</td><td>1961</td></tr>
+<tr><td>Belgique\*</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Brésil</td><td>28 avril</td><td>1931</td><td>28 octobre</td><td>1931</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
+<tr><td>Cuba</td><td>21 novembre</td><td>1983 A</td><td>21 mai</td><td>1984</td></tr>
+<tr><td>France</td><td>23 août</td><td>1935</td><td>23 février</td><td>1936</td></tr>
+<tr><td>Haïti</td><td>19 mars</td><td>1965 A</td><td>19 septembre</td><td>1965</td></tr>
+<tr><td>Hongrie</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Iran</td><td>8 septembre</td><td>1966 A</td><td>8 mars</td><td>1967</td></tr>
+<tr><td>Italie\*</td><td>7 décembre</td><td>1949</td><td>7 juillet</td><td>1950</td></tr>
+<tr><td>Liban</td><td>18 mars</td><td>1969 A</td><td>18 septembre</td><td>1969</td></tr>
+<tr><td>Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 août</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 juillet</td><td>1965 S</td><td>26 juin</td><td>1960</td></tr>
+<tr><td>Monaco</td><td>15 mai</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
+<tr><td>Pologne</td><td>26 octobre</td><td>1936</td><td>26 avril</td><td>1937</td></tr>
+<tr><td>Roumanie</td><td>4 août</td><td>1937</td><td>4 février</td><td>1938</td></tr>
+<tr><td>Saint-Marin</td><td>6 mai</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
+<tr><td>Suisse</td><td>28 mai</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
+<tr><td>Syrie</td><td>14 février</td><td>1951 A</td><td>14 août</td><td>1951</td></tr>
+<tr><td>Turquie</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
+<tr><td>Uruguay</td><td>15 septembre</td><td>1970 A</td><td>15 mars</td><td>1971</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français peuvent être consultés à l’adresse du site internet du Ministère des Affaires étrangères de Belgique: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1973 373](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375), [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529), [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526), [2014 239](https://fedlex.data.admin.ch/eli/oc/2014/36). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-
-Réserve et déclaration
-
-Belgique
-
-Lors de la ratification, la Belgique a déclaré conformément aux stipulations de l’art. 19 de la convention que la ratification ne vaut que pour la Belgique, à l’exclusion du Congo belge et du Ruanda‑Urundi, territoires sous mandat.
-
-Italie
-
-L’Etat italien se réserve le droit de ne pas conformer son droit interne à la convention sur les points où ce droit établit actuellement:
-
-- – l’extention des privilèges, dont il est question à l’art. 2 de la convention, également aux dépendances du navire, au lieu qu’aux seuls accessoires tels qu’ils sont indiqués à l’art. 4;
-- – la prise de rang, après la seconde catégorie de privilèges prévus par l’art. 2 de la convention, des privilèges qui couvrent les créances pour les sommes avancées par l’Administration de la Marine marchande ou de la Navigation intérieure, ou bien par l’Autorité consulaire, pour l’entretien et le rapatriement des membres de l’équipage.
+[^t-2]: [RO 1954 769](https://fedlex.data.admin.ch/eli/oc/1954/751_769_665); [1973 373](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375); [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529); [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526); [2014 239](https://fedlex.data.admin.ch/eli/oc/2014/36); [2024 311](https://fedlex.data.admin.ch/eli/oc/2024/311). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

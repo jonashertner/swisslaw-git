@@ -3,25 +3,26 @@ sr: "0.747.322.2"
 title: Internationales Übereinkommen vom 10. April 1926 zur einheitlichen Feststellung einzelner Regeln über Privilegien und Hypotheken an Seeschiffen (mit Schlussprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/751_769_665"
 language: de
-version: 2012-05-13
+version: 2024-06-20
 adopted: 1926-04-10
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20120513/de/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20120513-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20120513/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20240620/de/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20240620-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20240620/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen zur einheitlichen Feststellung einzelner Regeln über Privilegien und Hypotheken an Seeschiffen
 
-Übersetzung*[^t-1]*
+AS **195****4** 751; BBl **1953** III 749
 
-Abgeschlossen in Brüssel am 10. April 1926 Von der Bundesversammlung genehmigt am 17. März 1954[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
+Übersetzung
 
-(Stand am 13. Mai 2012)
+Abgeschlossen in Brüssel am 10. April 1926 Von der Bundesversammlung genehmigt am 17. März 1954[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
 
-[^t-1]: AS **1954** 751; BBl **1953** III 749 Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: Ziff. 1 des BB vom 17. März 1954 ([AS 1954 749](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+(Stand am 20. Juni 2024)
+
+[^t-1]: Ziff. 1 des BB vom 17. März 1954 ([AS 1954 749](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 #### Art. 1
 
@@ -179,7 +180,7 @@ Ausgefertigt in Brüssel, in einem Exemplar, am 10. April 1926
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. Mai 2012**[^t-3]**
+Geltungsbereich am 20. Juni 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -199,25 +200,13 @@ Geltungsbereich am 13. Mai 2012**[^t-3]**
 <tr><td colspan="2">Monaco</td><td>15. Mai</td><td>1931 B</td><td>15. November</td><td>1931</td></tr>
 <tr><td colspan="2">Polen</td><td>26. Oktober</td><td>1936</td><td>26. April</td><td>1937</td></tr>
 <tr><td colspan="2">Rumänien</td><td>4. August</td><td>1937</td><td>4. Februar</td><td>1938</td></tr>
+<tr><td colspan="2">San Marino</td><td>6. Mai</td><td>2021 B</td><td>6. November</td><td>2021</td></tr>
 <tr><td colspan="2">Schweiz</td><td>28. Mai</td><td>1954 B</td><td>28. November</td><td>1954</td></tr>
 <tr><td colspan="2">Syrien</td><td>14. Februar</td><td>1951 B</td><td>14. August</td><td>1951</td></tr>
 <tr><td colspan="2">Türkei</td><td>4. Juli</td><td>1955 B</td><td>4. Januar</td><td>1956</td></tr>
 <tr><td colspan="2">Ungarn</td><td>2. Juni</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td colspan="2">Uruguay</td><td>15. September</td><td>1970 B</td><td>15. März</td><td>1971</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen siehe hiernach.</td></tr>
+<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen Texte können auf der Internetseite des belgischen Aussenministeriums eingesehen werden: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire) oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
-
-[^t-3]: [AS 1973 375](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375), [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529), [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526)und [2014 239](https://fedlex.data.admin.ch/eli/oc/2014/36). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA www.eda.admin.ch/vertraege).
-
-Belgien
-
-Bei der Hinterlegung der Ratifikationsurkunde hat Belgien gemäss Artikel 19 des Übereinkommens erklärt, dass die Ratifikation nur für Belgien, unter Ausschluss von Belgisch Kongo und der Mandatgebiete Ruanda Urundi gültig sei.
-
-Italien
-
-Der italienische Staat behält sich das Recht vor, sein internes Recht in den Punkten dem Übereinkommen nicht anzupassen, wo dieses Recht folgendes bestimmt:
-
-- – die Ausdehnung der Privilegien, von denen in Artikel 2 des Übereinkommens die Rede ist, auf weiteres Zubehör des Schiffes als das in Artikel 4 erwähnte;
-- – die Einreihung nach der zweiten Privilegienkategorie gemäss Artikel 2 des Übereinkommens der Privilegien für Forderungen betreffend Vorschussbeträge der Verwaltungen der Handelsmarine oder der Binnenschifffahrt oder der Konsularbehörden für Unterhalt und Heimschaffung der Schiffsmannschaft.
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 1954 751](https://fedlex.data.admin.ch/eli/oc/1954/751_769_665); [1973 375](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375); [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529); [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526); [2014 239](https://fedlex.data.admin.ch/eli/oc/2014/36); [2024 311](https://fedlex.data.admin.ch/eli/oc/2024/311). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

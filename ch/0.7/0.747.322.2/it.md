@@ -3,25 +3,26 @@ sr: "0.747.322.2"
 title: "Convenzione internazionale del 10 aprile 1926 per l'unificazione di alcune regole relative ai privilegi e alle ipoteche navali (con Protocollo di firma)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/751_769_665"
 language: it
-version: 2012-05-13
+version: 2024-06-20
 adopted: 1926-04-10
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20120513/it/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20120513-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20120513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/751_769_665/20240620/it/xml/fedlex-data-admin-ch-eli-cc-1954-751_769_665-20240620-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/751_769_665/20240620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione internazionale per l’unificazione di alcune regole relative ai privilegi e alle ipoteche navali
 
-Traduzione*[^t-1]*
+RU **1954** 665; FF **1953** III pag. 781 ediz. franc., pag. 749 ediz. ted.
 
-Conchiusa a Bruxelles il 10 aprile 1926 Approvata dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
+Traduzione
 
-(Stato 13 maggio 2012)
+Conchiusa a Bruxelles il 10 aprile 1926 Approvata dall’Assemblea federale il 17 marzo 1954[^t-1] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
 
-[^t-1]: RU **1954** 665; FF **1953** III 781 ediz. franc., 749 ediz. ted. Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: DF del 17 marzo 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
+(Stato 20 giugno 2024)
+
+[^t-1]: DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 #### Art. 1
 
@@ -179,45 +180,33 @@ Fatto a Bruxelles, in un solo esemplare, il 10 aprile 1926.
 
 (Seguono le firme)
 
-Campo d’applicazione il 13 maggio 2012**[^t-3]**
+Campo d’applicazione il 20 giugno 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>13 aprile</td><td>1964 A</td><td>13 ottobre</td><td>1964</td></tr>
-<tr><td colspan="2">Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
-<tr><td colspan="2">Belgio\*</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Brasile</td><td>28 aprile</td><td>1931</td><td>28 ottobre</td><td>1931</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
-<tr><td colspan="2">Cuba</td><td>21 novembre</td><td>1983 A</td><td>21 maggio</td><td>1984</td></tr>
-<tr><td colspan="2">Francia</td><td>23 agosto</td><td>1935</td><td>23 febbraio</td><td>1936</td></tr>
-<tr><td colspan="2">Haiti</td><td>19 marzo</td><td>1965 A</td><td>19 settembre</td><td>1965</td></tr>
-<tr><td colspan="2">Iran</td><td>8 settembre</td><td>1966 A</td><td>8 marzo</td><td>1967</td></tr>
-<tr><td colspan="2">Italia\*</td><td>7 dicembre</td><td>1949</td><td>7 luglio</td><td>1950</td></tr>
-<tr><td colspan="2">Libano</td><td>18 marzo</td><td>1969 A</td><td>18 settembre</td><td>1969</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
-<tr><td colspan="2">Monaco</td><td>15 maggio</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
-<tr><td colspan="2">Polonia</td><td>26 ottobre</td><td>1936</td><td>26 aprile</td><td>1937</td></tr>
-<tr><td colspan="2">Romania</td><td>4 agosto</td><td>1937</td><td>4 febbraio</td><td>1938</td></tr>
-<tr><td colspan="2">Siria</td><td>14 febbraio</td><td>1951 A</td><td>14 agosto</td><td>1951</td></tr>
-<tr><td colspan="2">Svizzera</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
-<tr><td colspan="2">Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Ungheria</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Uruguay</td><td>15 settembre</td><td>1970 A</td><td>15 marzo</td><td>1971</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni, vedi qui appresso.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>13 aprile</td><td>1964 A</td><td>13 ottobre</td><td>1964</td></tr>
+<tr><td>Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
+<tr><td>Belgio\*</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Brasile</td><td>28 aprile</td><td>1931</td><td>28 ottobre</td><td>1931</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
+<tr><td>Cuba</td><td>21 novembre</td><td>1983 A</td><td>21 maggio</td><td>1984</td></tr>
+<tr><td>Francia</td><td>23 agosto</td><td>1935</td><td>23 febbraio</td><td>1936</td></tr>
+<tr><td>Haiti</td><td>19 marzo</td><td>1965 A</td><td>19 settembre</td><td>1965</td></tr>
+<tr><td>Iran</td><td>8 settembre</td><td>1966 A</td><td>8 marzo</td><td>1967</td></tr>
+<tr><td>Italia\*</td><td>7 dicembre</td><td>1949</td><td>7 luglio</td><td>1950</td></tr>
+<tr><td>Libano</td><td>18 marzo</td><td>1969 A</td><td>18 settembre</td><td>1969</td></tr>
+<tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
+<tr><td>Monaco</td><td>15 maggio</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
+<tr><td>Polonia</td><td>26 ottobre</td><td>1936</td><td>26 aprile</td><td>1937</td></tr>
+<tr><td>Romania</td><td>4 agosto</td><td>1937</td><td>4 febbraio</td><td>1938</td></tr>
+<tr><td>San Marino</td><td>6 maggio</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
+<tr><td>Siria</td><td>14 febbraio</td><td>1951 A</td><td>14 agosto</td><td>1951</td></tr>
+<tr><td>Svizzera</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
+<tr><td>Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Ungheria</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Uruguay</td><td>15 settembre</td><td>1970 A</td><td>15 marzo</td><td>1971</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi francesi possono essere consultati sul sito web del Ministero degli Affari Esteri belga: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire,](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire) o richiesti alla Direzione del Diritto Internazionale Pubblico (DDIP), Sezione Trattati Internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Riserva e dichiarazione
-
-[^t-3]: [RU 1973 375](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375), [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529), [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526)e 2014 239. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-
-Belgio
-
-All’atto della ratificazione, il Belgio ha dichiarato, giusta il disposto dell’articolo 19 della convenzione, che la ratificazione vale unicamente per il Belgio ad esclusione del Congo Belga e del Ruanda‑Urundi territori sotto mandato.
-
-Italia
-
-Lo Stato italiano si riserva la facoltà di non conformare il proprio diritto interno alla convenzione sui punti ove detto diritto stabilisce attualmente:
-
-- – l’estensione dei privilegi, di cui è menzione nell’articolo 2 della convenzione, anche agli annessi della nave, in luogo dei soli accessori quali sono indicati nell’articolo 4;
-- – il collocamento, in un grado immediatamente successivo alla seconda categoria di privilegi previsti nell’articolo 2 della convenzione, dei privilegi concernenti i crediti per le somme anticipate dall’Amministrazione, della Marina Mercantile o della Navigazione interna, oppure dall’Autorità consolare, per il mantenimento ed il rimpatrio dei membri dell’equipaggio.
+[^t-2]: [RU 1954 665](https://fedlex.data.admin.ch/eli/oc/1954/751_769_665); [1973 375](https://fedlex.data.admin.ch/eli/oc/1973/375_373_375); [1984 529](https://fedlex.data.admin.ch/eli/oc/1984/529_529_529); [2006 3343](https://fedlex.data.admin.ch/eli/oc/2006/526); [2014 239](https://fedlex.data.admin.ch/eli/oc/2014/36); [2024 311](https://fedlex.data.admin.ch/eli/oc/2024/311).
