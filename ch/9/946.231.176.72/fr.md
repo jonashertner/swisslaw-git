@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-06-04
+version: 2024-06-20
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240604/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240604-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240604/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240620/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240620-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240620/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 4 juin 2024)
+du 4 mars 2022 (État le 20 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -473,7 +473,7 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à la vente, à 
 - a.[^11-3] au transport de pétrole et de gaz naturel, y compris de produits pétroliers raffinés, depuis ou via la Fédération de Russie vers la Suisse ou l’EEE, ou
 - b. à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement.
 
-<sup>4</sup> Les interdictions prévues à l’al. 2 ne s’appliquent pas aux produits d’assurance et de réassurance en faveur d’une entreprise établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE concernant ses activités ne relevant pas du secteur énergétique russe.
+<sup>4</sup> …[^11-4]
 
 <sup>5</sup>
 
@@ -482,9 +482,13 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et, si les
 - a. si cela est nécessaire pour garantir l’approvisionnement énergétique de la Suisse ou d’un État membre de l’EEE en cas de pénurie grave, déclarée ou imminente, ou
 - b. si les biens ou services sont exclusivement destinés à l’usage d’entités détenues ou contrôlées, en totalité ou en partie, par une organisation établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE.
 
+<sup>6</sup> Il peut, après avoir consulté les services compétents du DFAE et, si les services financiers ou l’approvisionnement en énergie sont concernés, du DFF ou du DETEC, autoriser des dérogations aux interdictions prévues à l’al. 2 pour la fourniture de produits d’assurance et de réassurance en faveur d’une entreprise établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE concernant ses activités ne relevant pas du secteur énergétique russe.[^11-5]
+
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^11-2]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11-4]: Abrogé par le ch. I de l’O du 31 janv. 2024, avec effet au 20 juin 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11-5]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 20 juin 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 11a
 
@@ -2315,7 +2319,7 @@ Annexe 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), le ch. I al. 1 de l’O du DEFR du 21 mars 2024 ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)) et le ch. I de l’O du DEFR du 3 juin 2024, en vigueur depuis le 4 juin 2024 à 18 heures ([RO 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)).
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), le ch. II al. 1 de l’O du 15 fév. 2023 ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) et le ch. I des O du DEFR du 1<sup>er</sup> mars 2023 ([RO 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), du 19 avr. 2023 ([RO 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), du 6 juin 2023 ([RO 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), du 27 juin 2023 ([RO 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), le ch. II al. 1 de l’O du 16 août 2023 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)) et le ch. I des O du DEFR du 25 sept. 2023 ([RO 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), du 1<sup>er</sup> nov. 2023 ([RO 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), du 20 déc. 2023 ([RO 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), le ch. II al. 1 de l’O du 31 janv. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) et le ch. I de l’O du DEFR du 29 fév. 2024 ([RO 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) et le ch. I al. 1 de l’O du DEFR du 21 mars 2024 ([RO 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)) et le ch. I de l’O du DEFR du 3 juin 2024, en vigueur depuis le 4 juin 2024 à 18 heures ([RO 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)).
 [^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/246](https://fedlex.data.admin.ch/eli/oc/2024/246) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9

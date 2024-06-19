@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-06-04
+version: 2024-06-20
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240604/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240604-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240604/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240620/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240620-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240620/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 4. Juni 2024)
+vom 4. März 2022 (Stand am 20. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -477,7 +477,7 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für den Verkauf, die Liefer
 - a.[^11-3] den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus der oder durch die Russische Föderation in die Schweiz oder den EWR; oder
 - b. die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Mensch und Umwelt haben wird.
 
-<sup>4</sup> Die Verbote nach Absatz 2 gelten nicht für Versicherungen und Rückversicherungen zugunsten eines nach Schweizer Recht oder dem Recht eines EWR-Mitgliedsstaates gegründeten oder eingetragenen Unternehmens in Bezug auf dessen Tätigkeiten ausserhalb des russischen Energiesektors.
+<sup>4</sup> …[^11-4]
 
 <sup>5</sup>
 
@@ -486,9 +486,13 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Fin
 - a. dies notwendig ist, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedsstaates sicherzustellen; oder
 - b. die Güter oder Dienstleistungen für die ausschliessliche Nutzung durch Organisationen bestimmt sind, die sich im Eigentum oder unter der vollständigen oder teilweisen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedsstaates gegründeten oder eingetragenen Organisation befinden.
 
+<sup>6</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Finanzdienstleistungen oder Energieversorgung betroffen sind, des EFD oder des UVEK Ausnahmen von den Verboten nach Absatz 2 bewilligen für die Bereitstellung von Versicherungen und Rückversicherungen zugunsten eines nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen Unternehmens in Bezug auf dessen Tätigkeiten ausserhalb des russischen Energiesektors.[^11-5]
+
 [^11-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^11-2]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11-4]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 20. Juni 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11-5]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 20. Juni 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 11a
 

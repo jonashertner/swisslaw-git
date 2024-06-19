@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-06-04
+version: 2024-06-20
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240604/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240604-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240604/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240620/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240620-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 4 giugno 2024)
+del 4 marzo 2022 (Stato 20 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -474,7 +474,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano alla vendita, alla fornitur
 - a.[^11-3] per il trasporto di petrolio e gas naturale, compresi prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera o nello SEE; o
 - b. per la prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.
 
-<sup>4</sup> I divieti di cui al capoverso 2 non si applicano alle assicurazioni e riassicurazioni a favore di un’impresa costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE per quanto riguarda le sue attività al di fuori del settore energetico russo.
+<sup>4</sup> ...[^11-4]
 
 <sup>5</sup>
 
@@ -483,9 +483,13 @@ D’intesa con i servizi competenti del DFAE e, nel caso di servizi finanziari o
 - a. ciò è necessario per garantire l’approvvigionamento della Svizzera o di uno Stato membro dello SEE in caso di grave penuria imminente o esistente; o
 - b. i beni o i servizi sono destinati all’uso esclusivo di organizzazioni possedute o controllate, in tutto o in parte, da un’organizzazione costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE.
 
+<sup>6</sup> D’intesa con i servizi competenti del DFAE e, nel caso di servizi finanziari o di approvvigionamento energetico, del DFF o del DATEC, la SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per la fornitura di assicurazioni e riassicurazioni a favore di un’impresa costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE per quanto riguarda le sue attività al di fuori del settore energetico russo. [^11-5]
+
 [^11-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^11-2]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11-4]: Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11-5]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 11a
 
@@ -2320,7 +2324,7 @@ Allegato 8[^t-9]
 [^annex8-lvlu1-1]
 
 [^t-9]: Aggiornato dal n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dal n. I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dal n. II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dal n. I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dal n. II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dal n. I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dal n. II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dal n. I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)) e dal n. I dell’O del DEFR del 3 giu. 2024, in vigore dal 4 giu. 2024 alle 18.00 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/246](https://fedlex.data.admin.ch/eli/oc/2024/246) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. RS **946.231.176.72**
+[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/246](https://fedlex.data.admin.ch/eli/oc/2024/246) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -2330,7 +2334,7 @@ Allegato 9
 
 [^annex9-lvlu1-1]
 
-[^annex9-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex9-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 10
 
@@ -2340,7 +2344,7 @@ Allegato 10
 
 [^annex10-lvlu1-1]
 
-[^annex10-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex10-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11[^t-10]
 
@@ -2351,7 +2355,7 @@ Allegato 11[^t-10]
 [^annex11-lvlu1-1]
 
 [^t-10]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex11-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex11-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 12
 
@@ -2361,7 +2365,7 @@ Allegato 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex12-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 13
 
@@ -2371,7 +2375,7 @@ Allegato 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex13-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14[^t-11]
 
@@ -2382,7 +2386,7 @@ Allegato 14[^t-11]
 [^annex14-lvlu1-1]
 
 [^t-11]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex14-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex14-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15[^t-12]
 
@@ -2393,7 +2397,7 @@ Allegato 15[^t-12]
 [^annex15-lvlu1-1]
 
 [^t-12]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)) e dal n. II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^annex15-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex15-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 16[^t-13]
 
