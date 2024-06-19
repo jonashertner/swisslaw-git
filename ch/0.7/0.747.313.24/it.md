@@ -3,11 +3,11 @@ sr: "0.747.313.24"
 title: "Convenzione internazionale del 10 maggio 1952 per l'unificazione di alcune regole concernenti la competenza civile in materia di urto fra navi"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/719_775_783"
 language: it
-version: 2005-06-21
+version: 2024-06-20
 adopted: 1952-05-10
 in_force: 1955-09-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/719_775_783/20050621/it/xml/fedlex-data-admin-ch-eli-cc-1956-719_775_783-20050621-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/719_775_783/20050621/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/719_775_783/20240620/it/xml/fedlex-data-admin-ch-eli-cc-1956-719_775_783-20240620-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/719_775_783/20240620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1956/719_775_783/20050621/it"
 
 RU **1956** 783; FF **1953** III 749 ediz. ted. **1953** III 781
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Bruxelles il 10 maggio 1952 Approvata dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento di adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 14 settembre 1955
+Conchiusa a Bruxelles il 10 maggio 1952 Approvata dall’Assemblea federale il 17 marzo 1954[^t-1] Strumento di adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 14 settembre 1955
 
-(Stato 16 agosto 2005)
+(Stato 20 giugno 2024)
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: N. 7 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
+[^t-1]: N. 7 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
 
 Le Alte Parti contraenti,
 
@@ -130,75 +129,89 @@ Fatto a Bruxelles, in un solo esemplare, il 10 maggio 1952, nelle lingue frances
 
 (Seguono le firme)
 
-Campo d’applicazione il 21 giugno 2005
+Campo d’applicazione il 20 giugno 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>18 agosto</td><td>1964 A</td><td>18 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
-<tr><td colspan="2">Belgio</td><td>10 aprile</td><td>1961</td><td>10 ottobre</td><td>1961</td></tr>
-<tr><td colspan="2">Cambogia\*</td><td>12 novembre</td><td>1956 A</td><td>12 maggio</td><td>1957</td></tr>
-<tr><td colspan="2">[tab] Camerun</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
-<tr><td colspan="2">[tab] Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Hong Kong<sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="2">[tab] Macao<sup>b</sup></td><td>18 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Cipro</td><td>17 marzo</td><td>1994 A</td><td>17 settembre</td><td>1994</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
-<tr><td colspan="2">Costa Rica\*</td><td>13 luglio</td><td>1955 A</td><td>13 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Croazia</td><td>30 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Egitto</td><td>24 agosto</td><td>1955</td><td>24 febbraio</td><td>1956</td></tr>
-<tr><td colspan="2">Figi</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
-<tr><td colspan="2">Francia</td><td>25 maggio</td><td>1957</td><td>25 novembre</td><td>1957</td></tr>
-<tr><td colspan="2">[tab] Territori francesi d’oltremare</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
-<tr><td colspan="2">Germania</td><td>6 ottobre</td><td>1972</td><td>6 aprile</td><td>1973</td></tr>
-<tr><td colspan="2">Grecia</td><td>15 marzo</td><td>1965</td><td>15 settembre</td><td>1965</td></tr>
-<tr><td colspan="2">Irlanda</td><td>17 ottobre</td><td>1989 A</td><td>17 aprile</td><td>1990</td></tr>
-<tr><td colspan="2">Italia</td><td>9 novembre</td><td>1979</td><td>9 maggio</td><td>1980</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
-<tr><td colspan="2">Marocco</td><td>11 luglio</td><td>1990 A</td><td>11 gennaio</td><td>1991</td></tr>
-<tr><td colspan="2">Nigeria</td><td>7 novembre</td><td>1963 A</td><td>7 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Polonia</td><td>14 marzo</td><td>1986 A</td><td>14 settembre</td><td>1986</td></tr>
-<tr><td colspan="2">Portogallo</td><td>4 maggio</td><td>1957</td><td>4 novembre</td><td>1957</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>18 marzo</td><td>1958</td><td>18 settembre</td><td>1959</td></tr>
-<tr><td colspan="2">[tab] Anguilla</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">[tab] Bermuda</td><td>30 maggio</td><td>1963 A</td><td>30 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Gibilterra</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Guernesey</td><td>8 dicembre</td><td>1966 A</td><td>8 giugno</td><td>1967</td></tr>
-<tr><td colspan="2">[tab] Isola di Man</td><td>14 aprile</td><td>1993</td><td>14 ottobre</td><td>1993</td></tr>
-<tr><td colspan="2">[tab] Isole Caimane</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">[tab] Isole Falkland e dipendenze (Georgia del Sud e Isole Sandwich del Sud)</td><td>17 ottobre</td><td>1969 A</td><td>17 aprile</td><td>1970</td></tr>
-<tr><td colspan="2">[tab] Isole Turche e Caicos</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
-<tr><td colspan="2">[tab] Isole Vergini britanniche</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Montserrat</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">[tab] Sant’Elena</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Romania</td><td>28 novembre</td><td>1995 A</td><td>28 maggio</td><td>1996</td></tr>
-<tr><td colspan="2">Saint Lucia</td><td>21 marzo</td><td>1990 S</td><td>22 febbraio</td><td>1979</td></tr>
-<tr><td colspan="2">Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2001 S</td><td>28 ottobre</td><td>1979</td></tr>
-<tr><td colspan="2">Salomone, Isole</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
-<tr><td colspan="2">Santa Sede</td><td>10 agosto</td><td>1956</td><td>10 febbraio</td><td>1957</td></tr>
-<tr><td colspan="2">Serbia e Montenegro</td><td>14 marzo</td><td>1955</td><td>14 settembre</td><td>1955</td></tr>
-<tr><td colspan="2">Siria</td><td>1° agosto</td><td>1974 A</td><td>1° febbraio</td><td>1975</td></tr>
-<tr><td colspan="2">Spagna</td><td>8 dicembre</td><td>1953</td><td>14 settembre</td><td>1955</td></tr>
-<tr><td colspan="2">Svizzera</td><td>28 maggio</td><td>1954 A</td><td>14 settembre</td><td>1955</td></tr>
-<tr><td colspan="2">Togo</td><td>23 aprile</td><td>1958</td><td>23 ottobre</td><td>1958</td></tr>
-<tr><td colspan="2">Tonga</td><td>13 giugno</td><td>1978 A</td><td>13 dicembre</td><td>1978</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni, vedi qui appresso.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Dal 29 set. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Dal 23 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 18 ott. 1999, la Convenzione è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>18 agosto</td><td>1964 A</td><td>18 febbraio</td><td>1965</td></tr>
+<tr><td>Antigua e Barbuda</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
+<tr><td>Bahamas</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Belgio</td><td>10 aprile</td><td>1961</td><td>10 ottobre</td><td>1961</td></tr>
+<tr><td>Belize</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
+<tr><td>Benin</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Burkina Faso</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Cambogia<sup>\*</sup></td><td>12 novembre</td><td>1956 A</td><td>12 maggio</td><td>1957</td></tr>
+<tr><td>[tab] Camerun</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Ciad</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>[tab] Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Hong Kong <sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>[tab] Macao <sup>b</sup></td><td>18 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Cipro</td><td>17 marzo</td><td>1994 A</td><td>17 settembre</td><td>1994</td></tr>
+<tr><td>Comore</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
+<tr><td>Costa d’Avorio</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Costa Rica<sup>\*</sup></td><td>13 luglio</td><td>1955 A</td><td>13 gennaio</td><td>1956</td></tr>
+<tr><td>Croazia</td><td>30 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Dominica</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Egitto</td><td>24 agosto</td><td>1955</td><td>24 febbraio</td><td>1956</td></tr>
+<tr><td>Figi</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Francia</td><td>25 maggio</td><td>1957</td><td>25 novembre</td><td>1957</td></tr>
+<tr><td>[tab] Territori francesi d’oltremare</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Gabon</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Germania</td><td>6 ottobre</td><td>1972</td><td>6 aprile</td><td>1973</td></tr>
+<tr><td>Gibuti</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Grecia</td><td>15 marzo</td><td>1965</td><td>15 settembre</td><td>1965</td></tr>
+<tr><td>Grenada</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Guinea</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Guyana</td><td>29 marzo</td><td>1963 A</td><td>29 marzo</td><td>1963</td></tr>
+<tr><td>Irlanda</td><td>17 ottobre</td><td>1989 A</td><td>17 aprile</td><td>1990</td></tr>
+<tr><td>Italia</td><td>9 novembre</td><td>1979</td><td>9 maggio</td><td>1980</td></tr>
+<tr><td>Kiribati</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
+<tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
+<tr><td>Mali</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Marocco</td><td>11 luglio</td><td>1990 A</td><td>11 gennaio</td><td>1991</td></tr>
+<tr><td>Mauritania</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Maurizio</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
+<tr><td>Niger</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Nigeria</td><td>7 novembre</td><td>1963 A</td><td>7 maggio</td><td>1964</td></tr>
+<tr><td>Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 maggio</td><td>1968</td></tr>
+<tr><td>Polonia</td><td>14 marzo</td><td>1986 A</td><td>14 settembre</td><td>1986</td></tr>
+<tr><td>Portogallo</td><td>4 maggio</td><td>1957</td><td>4 novembre</td><td>1957</td></tr>
+<tr><td>Regno Unito</td><td>18 marzo</td><td>1958</td><td>18 settembre</td><td>1959</td></tr>
+<tr><td>[tab] Anguilla</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>[tab] Bermuda</td><td>30 maggio</td><td>1963 A</td><td>30 novembre</td><td>1963</td></tr>
+<tr><td>[tab] Gibilterra</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
+<tr><td>[tab] Guernesey</td><td>8 dicembre</td><td>1966 A</td><td>8 giugno</td><td>1967</td></tr>
+<tr><td>[tab] Isola di Man</td><td>14 aprile</td><td>1993</td><td>14 ottobre</td><td>1993</td></tr>
+<tr><td>[tab] Isole Caimane</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Isole Falkland e dipendenze (Georgia del Sud e Isole Sandwich del Sud)</td><td>17 ottobre</td><td>1969 A</td><td>17 aprile</td><td>1970</td></tr>
+<tr><td>[tab] Isole Turche e Caicos</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
+<tr><td>[tab] Isole Vergini britanniche</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
+<tr><td>[tab] Montserrat</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>[tab] Sant’Elena</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Rep. Centrafricana</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Romania</td><td>28 novembre</td><td>1995 A</td><td>28 maggio</td><td>1996</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Saint Lucia</td><td>21 marzo</td><td>1990 S</td><td>22 febbraio</td><td>1979</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2001 S</td><td>28 ottobre</td><td>1979</td></tr>
+<tr><td>Salomone, Isole</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
+<tr><td>Santa Sede</td><td>10 agosto</td><td>1956</td><td>10 febbraio</td><td>1957</td></tr>
+<tr><td>Senegal</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Serbia</td><td>14 marzo</td><td>1955</td><td>14 settembre</td><td>1955</td></tr>
+<tr><td>Seychelles</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
+<tr><td>Siria</td><td>1° agosto</td><td>1974 A</td><td>1° febbraio</td><td>1975</td></tr>
+<tr><td>Slovenia</td><td>13 ottobre</td><td>1993 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Spagna</td><td>8 dicembre</td><td>1953</td><td>14 settembre</td><td>1955</td></tr>
+<tr><td>Svizzera</td><td>28 maggio</td><td>1954 A</td><td>14 settembre</td><td>1955</td></tr>
+<tr><td>Togo</td><td>23 aprile</td><td>1958</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Tonga</td><td>13 giugno</td><td>1978 A</td><td>13 dicembre</td><td>1978</td></tr>
+<tr><td>Tuvalu</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in francese può essere consultato sul sito internet del Ministero degli affari esteri del Belgio: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), o oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Dal 29 set. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Dal 23 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 18 ott. 1999, la Convenzione è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
-## Riserve e dichiarazioni
-
-Cambogia
-
-In sostanza le stesse riserve del Costarica.
-
-Costarica
-
-Il Governo del Costarica, aderendo a detta convenzione, formula la riserva che l’azione civile per titolo di abbordaggio tra navi in mare o tra navi di mare e battelli di navigazione interna, potrà essere intentata unicamente davanti al tribunale della residenza abituale del convenuto o dello Stato di cui la nave batte bandiera.
-
-Di conseguenza, il Costarica, non riconosce obbligatorie le lettere b) e c) del primo paragrafo nell’articolo primo.
-
-Conformemente al Codice del diritto internazionale privato approvato dalla sesta Conferenza internazionale americana, tenutasi alla Avana (Cuba), il Governo del Costarica, accettando detta convenzione, formula l’espressa riserva che in alcun caso, rinuncerà alla propria competenza o giurisdizione per applicare la legge costaricana in materia d’urto tra navi avvenuto in altro mare o nelle acque territoriali a pregiudizio di una nave costaricana.
+[^t-2]: [RU 1956 783](https://fedlex.data.admin.ch/eli/oc/1956/719_775_783); [1973 373](https://fedlex.data.admin.ch/eli/oc/1973/373_371_373); [1982 1551](https://fedlex.data.admin.ch/eli/oc/1982/1551_1551_1551); [1987 1148](https://fedlex.data.admin.ch/eli/oc/1987/1148_1148_1148); [1989 433](https://fedlex.data.admin.ch/eli/oc/1989/433_433_433); [1990 1701](https://fedlex.data.admin.ch/eli/oc/1990/1701_1701_1701); [2005 3901](https://fedlex.data.admin.ch/eli/oc/2005/536); [2024 308](https://fedlex.data.admin.ch/eli/oc/2024/308). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
