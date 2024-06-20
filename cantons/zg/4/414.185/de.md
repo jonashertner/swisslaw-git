@@ -3,20 +3,19 @@ canton: ZG
 number: "414.185"
 title: Reglement über die Brückenangebote
 language: de
-version: 2021-06-05
-valid_until: 2024-06-20
-version_adopted: 2021-05-26
+version: 2024-06-21
+version_adopted: 2024-06-19
 adopted: 2017-03-15
 in_force: 2017-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.185"
-pdf: "https://bgs.zg.ch/api/de/versions/2235/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Brückenangebote
 
-Vom 15. März 2017 (Stand 5. Juni 2021)
+Vom 15. März 2017 (Stand 21. Juni 2024)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -67,9 +66,9 @@ verfügt:
 
 **Lehrplan**
 
-<sup>1</sup> Die Lerninhalte richten sich nach dem Rahmenlehrplan Brückenangebote Zentralschweiz.
+<sup>1</sup> Die Lerninhalte orientieren sich an den Zielen und Kompetenzbereichen des Lehrplans 21.
 
-<sup>2</sup> Der Lehrplan ist so ausgestaltet, dass er der Heterogenität der Lernenden gerecht wird.
+<sup>2</sup> …
 
 #### § 6
 
@@ -111,11 +110,11 @@ verfügt:
 
 **Aufnahme in das I-B-A**
 
-<sup>1</sup> Lernende der Sekundarstufe II können bis Ende März des laufenden Angebotsjahres aufgenommen werden. Nach Ablauf einer zweimonatigen Probezeit entscheidet das zuständige Mitglied der Angebotsleitung über die definitive Aufnahme gemäss den in § 11 genannten Kriterien.
+<sup>1</sup> Lernende der Sekundarstufe II können bis Ende März des laufenden Angebotsjahres aufgenommen werden.
 
 <sup>2</sup> Jugendliche der Sekundarstufe I können auf Antrag der betreffenden Gemeinde aufgenommen werden, sofern es die Platzverhältnisse zulassen. Der Eintritt kann jederzeit erfolgen.
 
-<sup>3</sup> Jugendliche aus dem Asyl- und Flüchtlingsbereich auf der Sekundarstufe I werden, nachdem die Gemeinde die Zuteilungsabklärung vorgenommen hat, auf deren Antrag ohne Erfüllen von Kriterien aufgenommen. Der Eintritt kann jederzeit erfolgen.
+<sup>3</sup> …
 
 <sup>4</sup> Migrantinnen und Migranten sowie Geflüchtete, die älter als 20 Jahre sind, können in das I-B-A-20+ aufgenommen werden. Sie müssen mindestens über das Sprachniveau B1 verfügen.
 
@@ -200,9 +199,7 @@ verfügt:
 
 <sup>1</sup> Die Brückenangebote arbeiten mit den Erziehungsberechtigten zusammen.
 
-<sup>2</sup> Die Rechte und Pflichten der Erziehungsberechtigten richten sich nach § 13 des Gesetzes über die kantonalen Schulen[^17-1].
-
-[^17-1]: BGS [414.11](https://bgs.zg.ch/data/414.11/de)
+<sup>2</sup> …
 
 #### § 18
 
@@ -211,7 +208,7 @@ verfügt:
 <sup>1</sup> Die Angebotsleitung ist berechtigt, für folgende Bereiche Beiträge zu verlangen:
 
 - a) Schulverlegung, Arbeits- und Projektwochen, Schulreisen, Studienreisen und Exkursionen;
-- b) Lernplaner, Fotokopien sowie Materialien und Unterlagen für einzelne Fächer;
+- b) Fotokopien sowie Materialien und Unterlagen für einzelne Fächer;
 - c) Veranstaltungsbesuche;
 - d) Kosten für zusätzliche Schulangebote.
 
