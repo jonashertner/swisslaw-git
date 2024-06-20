@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2024-02-01
+version: 2024-06-21
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240201/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240621/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240621-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Februar 2024)
+vom 11. August 1999 (Stand am 21. Juni 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -495,13 +495,16 @@ Das EJPD erlässt in einer Verordnung Bestimmungen über den Betrieb der Zentren
 
 **Dublin-Verfahren**[^20b-1]
 
-### (Art. 26*b* und 31 Abs. 1 Bst. b AsylG)
+### (Art. 26*b* und 31*a* Abs. 1 Bst. b AsylG)
+
+[^20b-2]
 
 <sup>1</sup> Zusätzlich zu den Verfahrensschritten gemäss Artikel 26 Absätze 2 und 4 AsylG wird während der Vorbereitungsphase anlässlich der Befragung nach Artikel 26 Absatz 3 AsylG das rechtliche Gehör zur Rückkehr in einen Dublin-Staat gewährt, wenn von dessen Zuständigkeit für das Asylverfahren ausgegangen werden kann.
 
 <sup>2</sup> Nach Abschluss der Vorbereitungsphase richtet sich das weitere Verfahren sinngemäss nach Artikel 20*c* Buchstaben g und h.
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^20b-2]: Berichtigung vom 21. Juni 2024 ([AS 2024 296](https://fedlex.data.admin.ch/eli/oc/2024/296)).
 
 #### Art. 20c
 

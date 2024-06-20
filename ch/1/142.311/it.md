@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2024-02-01
+version: 2024-06-21
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240201/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240621/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240621-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° febbraio 2024)
+dell’11 agosto 1999 (Stato 21 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -498,13 +498,16 @@ Il DFGP emana in un’ordinanza disposizioni sull’esercizio dei centri della C
 
 **Procedura Dublino**[^20b-1]
 
-### (art. 26*b* e 31 cpv. 1 lett. b LAsi)
+### (art. 26*b* e 31*a* cpv. 1 lett. b LAsi)
+
+[^20b-2]
 
 <sup>1</sup> In aggiunta alle fasi procedurali di cui all’articolo 26 capoversi 2 e 4 LAsi, nel quadro della fase preparatoria, durante l’interrogazione secondo l’articolo 26 capoverso 3 LAsi, al richiedente è concesso il diritto di essere sentito in merito al suo ritorno in uno Stato Dublino che si presume competente per l’esame della sua domanda d’asilo.
 
 <sup>2</sup> Le fasi procedurali successive alla fase preparatoria sono rette per analogia dall’articolo 20*c* lettere g e h.
 
 [^20b-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^20b-2]: Correzione del 21 giu. 2024 ([RU 2024 296](https://fedlex.data.admin.ch/eli/oc/2024/296)).
 
 #### Art. 20c
 

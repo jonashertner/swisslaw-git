@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2024-02-01
+version: 2024-06-21
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20240621/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20240621-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240621/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20240201/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> février 2024)
+du 11 août 1999 (État le 21 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -491,13 +491,16 @@ Le DFJP édicte dans une ordonnance des dispositions concernant l’exploitation
 
 **Procédure Dublin**[^20b-1]
 
-### (art. 26*b* et 31, al. 1, let. b, LAsi)
+### (art. 26*b* et 31*a*, al. 1, let. b, LAsi)
+
+[^20b-2]
 
 <sup>1</sup> Lors de l’audition pendant la phase préparatoire visée à l’art. 26, al. 3, LAsi, l’octroi au requérant du droit d’être entendu quant à son retour dans l’État Dublin présumé responsable de l’examen de sa demande d’asile s’ajoute aux étapes de procédure mentionnées à l’art. 26, al. 2 et 4, LAsi.
 
 <sup>2</sup> Lorsque la phase préparatoire est terminée, la suite de la procédure est régie par analogie par l’art. 20*c*, let. g et h.
 
 [^20b-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^20b-2]: Erratum du 21 juin 2024 ([RO 2024 296](https://fedlex.data.admin.ch/eli/oc/2024/296)).
 
 #### Art. 20c
 
