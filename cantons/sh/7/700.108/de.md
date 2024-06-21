@@ -5,132 +5,208 @@ title: Verordnung über die Gebühren im Baubewilligungsverfahren
 short: Baubewilligungsgebührenverordnung
 language: de
 version: 2003-04-01
+corrected: 2024-06-22
 version_adopted: 2003-02-25
 adopted: 1991-01-08
 in_force: 1991-01-18
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.108"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1721/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/280/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Gebühren im Baubewilligungsverfahren
+# Verordnung über die Gebühren im Baubewilligungsverfahren (Baubewilligungsgebührenverordnung)
 
-(Baubewilligungsgebührenverordnung)
-
-Vom 08.01.1991 (Stand 01.04.2003)
+vom 8. Januar 1991[^t-1]
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 83 BauG und Art. 13 des Gesetzes über den Rechtsschutz in Verwaltungssachen[^ingress-1],
+gestützt auf Art. 83 BauG[^t-2] und Art. 13 des Gesetzes über den Rechtsschutz in Verwaltungssachen[^t-3],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^t-1]: Fassung gemäss RRB vom 25. Februar 2003, in Kraft getreten am 1. April 2003 (Amtsblatt 2003, S. 294).
+[^t-2]: Fassung gemäss V vom 14. Dezember 1999, in Kraft getreten am 1. Januar 2000 (Amtsblatt 1999, S. 1833).
+[^t-3]: SHR 172.200.
 
 #### § 1
 
-<sup>1</sup> Für Bewilligungen und Verrichtungen im Baubewilligungsverfahren werden folgende Gebühren erhoben:
+Für Bewilligungen und Verrichtungen im Baubewilligungsverfahren werden folgende Gebühren erhoben:
 
-#### § 1.1
+### I. Baubewilligungen
 
-**Baubewilligungen**
+Fr.
 
-<sup>1</sup> Baubewilligungen:
+**1'000 - 25'000**
 
-- 1\. Gewerbliche und industrielle Neubauten: — Fr. 1'000.00–Fr. 25'000.00
-- 2\. Gewerbliche und industrielle Um- oder Erweiterungsbauten: — Fr. 500.00–Fr. 15'000.00
-- 3\. Landwirtschaftliche Bauten und Anlagen: — Fr. 100.00–Fr. 4'000.00
-- 4\. Wohnbauten: — Fr. 200.00–Fr. 3'500.00
-- 5\. Einstellhallen und Tiefgaragen:
-  - a) Grundgebühr: — Fr. 100.00
-  - b) pro Abstellfläche: — Fr. 15.00
-- 6\. Kleinanlagen, technische Installationen usw.: — Fr. 50.00–Fr. 1'500.00
-- 7\. Vorentscheide im Baubewilligungsverfahren (es sind die Tarife analog Ziffer 1.–6. anwendbar)
+- 1\. Gewerbliche und industrielle Neubauten
 
-#### § 1.2
+- 2\. Gewerbliche und industrielle Um- oder Erwei- 500 - 15'000 terungsbauten
 
-**Tankanlagen**
+**100 - 4'000 200 - 3'500**
 
-<sup>1</sup> Bewilligungen:
+- 3\. Landwirtschaftliche Bauten und Anlagen
 
-- 1\.1. Bewilligungen Tankanlagen, Gebinde- und Fasslager, inkl. Tankdokument:
-  - a) bis und mit 4'000 l: — Fr. 250.00
-  - b) bis und mit 50'000 l: — Fr. 500.00
-  - c) über 50'000 l: — Fr. 1'000.00
-  - d) über 500'000 l: — nach Aufwand
-  - e) Nachkontrolle bei Mängeln bei der Abnahme: — bis Fr. 500.00
-- 1\.2. Bewilligungen erdverlegte Tankanlagen:
-  - a) Zuschlag zur Gebühr Punkt 1.1., da erdverlegt: — Fr. 300.00
-- 1\.3. Bewilligungen erdverlegte Tankstellen:
-  - a) Zuschlag zur Gebühr 1.1., da erdverlegt und Tankstelle: — Fr. 600.00
-- 1\.4. Bewilligungen von Komponenten wie: Leckschutzeinrichtungen, Beschichtungen, Laminate, Folien, Kathodenschutzanlagen, Produkteleitungen etc. (nicht für Neuanlagen):
-  - a) Pro Bewilligung: — Fr. 100.00
-  - b) Produkteleitungen: Nach Aufwand, mindestens Fr. 100.00
-- 1\.5. Änderungen von Bewilligungen
-  - a) Je Änderung: — bis Fr. 100.00
+- 4\. Wohnbauten
 
-<sup>2</sup> Revisionen, Mangelbehebungen und Schadenfälle:
+**100 15**
 
-- 2\.1. Erfassung der Revisions-, Kontroll- und Funktionsprüfungsrapporte (Verrechnung an Revisions- oder Fachfirmen):
-  - a) Je Rapport: — Fr. 10.00
-- 2\.2. Mahnschreiben (Tankrevision, Funktionskontrollen, Mangelbehebungen etc.):
-  - a) 1. Mahnung: — kostenlos
-  - b) 2. Mahnung: — Fr. 100.00
-- 2\.3. Gebührenpflichtige Verfügung:
-  - a) Je Verfügung: — Fr. 100.00–Fr. 500.00
-- 2\.4. Bearbeitungsgebühr bei mangelhaft ausgefüllten Revisionsrapporten, Kontrollrapporten, Funktionsprüfungsprotokollen (Verrechnung an Revisions- und Fachfirmen):
-  - a) Je Rapport: — Fr. 30.00
-- 2\.5. Tankdokument (Ersatz):
-  - a) Pro Dokument: — Fr. 30.00
-- 2\.6. Bewilligung für Tankrevisionsfirmen:
-  - a) 1. Equipe: — Fr. 800.00
-  - b) Jede weitere Equipe: — Fr. 300.00
-- 2\.7. Gutachten, Expertisen und Berichterstattungen bei Schadenfällen:
-  - a) Pro Fall: Nach Aufwand
+- 5\. Einstellhallen und Tiefgaragen (cid:2) Grundgebühr (cid:2) pro Abstellfläche
 
-#### § 1.3
+**50 - 1'500**
 
-**Spezialfälle**
+- 6\. Kleinanlagen, technische Installationen usw.
 
-<sup>1</sup> Spezialfälle:
+- 7\. Vorentscheide im Baubewilligungsverfahren (es sind die Tarife analog Ziffer 1-6 anwendbar)
 
-- 1\. Ausnahmebewilligungen gemäss Art. 57 BauG: — Fr. 150.00–Fr. 10'000.00
-- 2\. Bewilligungen für Bauten und Anlagen in einer Entfernung von weniger als 100 m vom Wald: — Fr. 100.00–Fr. 1'000.00
-- 3\. Rodungsbewilligungen und entsprechende Anträge an den Bund: — Fr. 500.00–Fr. 10'000.00
-- 4\. Materialabbau: Ausbeutungsbewilligungen: — Fr. 500.00–Fr. 20'000.00
-- 5\. Bewilligungen für Bohrungen und Grundwasserabsenkungen: — Fr. 100.00–Fr. 5'000.00
-- 6\. Deponiebewilligungen: — Fr. 500.00–Fr. 15'000.00
-- 7\. Ist im Rahmen des Bewilligungsverfahrens oder des Planungsverfahrens eine Umweltverträglichkeitsprüfung durchzuführen, wird eine zusätzliche, nach zeitlichem Aufwand berechnete Gebühr erhoben
+Amtsblatt 1991 S. 60; Rechtsbuch 1964, Nr. 273a.
 
-#### § 1.4
+[^hIBaubewilligungen-1]: Fassung gemäss RRB vom 25. Februar 2003, in Kraft getreten am 1. April 2003 (Amtsblatt 2003, S. 294).
 
-**Strassen**
+### II. Tankanlagen
 
-<sup>1</sup> Strassen:
+[^hIBaubewilligungen-1]
 
-- 1\. Genehmigungen im Sinne von Art. 25 des Strassengesetzes: — Fr. 100.00–Fr. 2'000.00
-- 2\. Legen von Leitungen, Strassenaufbrüche: — Fr. 100.00–Fr. 3'000.00
+- 1\. Bewilligungen
 
-#### § 1.5
+1.1 Bewilligungen Tankanlagen, Gebinde- und Fasslager, inkl.
 
-**Kanalisationen**
+### Tankdokument
 
-<sup>1</sup> Kanalisationen:
+**250 500 1'000**
 
-- 1\. Genehmigung von privaten Kanalisationsleitungen: — Fr. 100.00–Fr. 1'500.00
-- 2\. Bewilligung zur Abwassereinleitung in Vorfluter: — Fr. 100.00–Fr. 3'000.00
-- 3\. Bewilligung zur Einleitung von Meteorwasser in öffentliche Gewässer: — Fr. 100.00–Fr. 3'000.00
+Fr. (cid:2) bis und mit 4’000 Liter (cid:2) bis und mit 50'000 Liter (cid:2) über 50'000 Liter (cid:2) über 500'000 Liter (cid:2) Nachkontrolle bei Mängeln bei der Abnahme
 
-#### § 1.6
+**nach Aufwand bis 500**
 
-**Einsatzkosten**
+1.2 Bewilligungen erdverlegte Tankanlagen
 
-<sup>1</sup> Die Verrechnung der Kosten für die Behebung von Unfällen mit wassergefährdenden Flüssigkeiten durch Bau-, Transport-, Spezial-Unternehmungen, Feuerwehren, Tiefbauamt, Polizei usw. erfolgt nach Aufwand.
+**300**
+
+- Zuschlag zur Gebühr Punkt 1.1, da erdverlegt
+
+1.3 Bewilligungen erdverlegte Tankstellen
+
+**600**
+
+- Zuschlag zur Gebühr 1.1, da erdverlegt und Tankstelle
+
+1.4 Bewilligungen von Komponenten wie:
+
+Leckschutzeinrichtungen, Beschichtungen, Laminate, Folien,
+
+### Kathodenschutzanlagen, Produkteleitungen etc. (nicht für Neuanlagen)
+
+**100 100**
+
+(cid:2) Pro Bewilligung (cid:2) Produkteleitungen Nach Aufwand, mindestens
+
+1.5 Änderungen von Bewilligungen
+
+**bis 100**
+
+(cid:2) Je Änderung
+
+- 2\. Revisionen, Mangelbehebungen und Schadenfälle
+
+2.1. Erfassung der Revisions-, Kontroll- und Funktionsprüfungsrapporte (Verrechnung an Revisions- oder Fachfirmen)
+
+**10**
+
+(cid:2) Je Rapport
+
+2.2 Mahnschreiben (Tankrevision, Funktionskontrollen, Mangelbehebungen etc.)
+
+**kostenlos 100**
+
+(cid:2) 1. Mahnung (cid:2) 2. Mahnung 2.3 Gebührenpflichtige Verfügung
+
+**100 bis 500**
+
+(cid:2) Je Verfügung
+
+2.4 Bearbeitungsgebühr bei mangelhaft ausgefüllten Revisionsrapporten, Kontrollrapporten, Funktionsprüfungsprotokollen (Verrechnung an Revisions- und Fachfirmen)
+
+**30**
+
+(cid:2) Je Rapport
+
+2.5 Tankdokument (Ersatz)
+
+**30**
+
+(cid:2) Pro Dokument
+
+2.6 Bewilligung für Tankrevisionsfirmen
+
+**800 300**
+
+(cid:2) 1. Equipe (cid:2) Jede weitere Equipe
+
+2.7 Gutachten, Expertisen und Berichterstattungen bei Schadenfällen
+
+**Nach Aufwand**
+
+(cid:2) Pro Fall
+
+### III. Spezialfälle
+
+Fr.
+
+- 1\. Ausnahmebewilligungen gemäss Art. 57 BauG[^hIIISpezialfälle-1]
+
+**150 - 10'000**
+
+- 2\. Bewilligungen für Bauten und Anlagen in einer Entfernung von weniger als 100 m vom Wald 100 - 1'000
+
+**500 - 10'000 500 - 20'000**
+
+- 3\. Rodungsbewilligungen und entsprechende Anträge an den Bund
+
+- 4\. Materialabbau: Ausbeutungsbewilligungen
+
+- 5\. Bewilligungen für Bohrungen und Grundwasserabsenkungen
+
+**100 - 5'000 500 - 15'000**
+
+- 6\. Deponiebewilligungen
+
+- 7\. Ist im Rahmen des Bewilligungsverfahrens oder des Planungsverfahrens eine Umweltverträglichkeitsprüfung durchzuführen, wird eine zusätzliche, nach zeitlichem Aufwand berechnete Gebühr erhoben.
+
+[^hIIISpezialfälle-1]: Fassung gemäss V vom 14. Dezember 1999, in Kraft getreten am 1. Januar 2000 (Amtsblatt 1999, S. 1833).
+
+### IV. Strassen
+
+Fr.
+
+**100 - 2'000 100 - 3'000**
+
+- 1\. Genehmigungen im Sinne von Art. 25 des Strassengesetzes
+
+- 2\. Legen von Leitungen, Strassenaufbrüche
+
+### V. Kanalisationen
+
+Fr.
+
+**100 - 1'500**
+
+- 1\. Genehmigung von privaten Kanalisationsleitungen
+
+- 2\. Bewilligung zur Abwassereinleitung in Vorfluter 100 - 3'000
+
+**100 - 3'000**
+
+- 3\. Bewilligung zur Einleitung von Meteorwasser in öffentliche Gewässer
+
+### VI. Einsatzkosten
+
+Die Verrechnung der Kosten für die Behebung von Unfällen mit wassergefährdenden Flüssigkeiten durch Bau-, Transport-, Spezial-Unternehmungen, Feuerwehren, Tiefbauamt, Polizei usw. erfolgt nach Aufwand.
 
 #### § 2
 
-<sup>1</sup> Barauslagen, wie Kosten für Gutachten, Sachverständige usw., sind der Bewilligungsbehörde zu ersetzen.
+Barauslagen, wie Kosten für Gutachten, Sachverständige usw., sind der Bewilligungsbehörde zu ersetzen.
 
 #### § 3
 
@@ -138,6 +214,6 @@ beschliesst:
 
 <sup>2</sup> Sie ersetzt die Verordnung über die Gebühren der Bau- und Forstdirektion im Baubewilligungsverfahren (Baubewilligungsgebührenverordnung) vom 10. Dezember 1985.
 
-[^3-1]: In Kraft getreten am 18. Januar 1991 (Amtsblatt 1991, S. 60).
+Fussnoten:
 
-Abl. 1991, S. 60
+[^3-1]: In Kraft getreten am 18. Januar 1991 (Amtsblatt 1991, S. 60).
