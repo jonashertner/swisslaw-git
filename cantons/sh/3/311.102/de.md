@@ -5,68 +5,106 @@ title: Kantonale Verordnung über das Ordnungsbussenverfahren
 short: KOBV
 language: de
 version: 2024-01-01
+corrected: 2024-06-24
 version_adopted: 2024-01-09
 adopted: 2019-10-22
 in_force: 2020-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/311.102"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1812/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/388/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Kantonale Verordnung über das Ordnungsbussenverfahren
+# Kantonale Verordnung über das Ordnungsbussenverfahren (KOBV)
 
-(KOBV)
-
-Vom 22.10.2019 (Stand 01.01.2024)
+vom 22. Oktober 2019
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 2 Abs. 1 des Ordnungsbussengesetzes vom 18. März 2016[^ingress-1],
+gestützt auf Art. 2 Abs. 1 des Ordnungsbussengesetzes vom 18. März 2016[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SR [314.1](http://db.clex.ch/link/Bund/314.1/de).
+[^t-1]: SR 314.1
 
 #### § 1
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das Ordnungsbussengesetz wird im Kanton Schaffhausen vollzogen:
+Das Ordnungsbussengesetz wird im Kanton Schaffhausen vollzogen:
 
 - a) durch die kantonalen Behörden gemäss folgender Aufgabenzuteilung:
-  - 1\. Departement des Innern: Ausländer- und Integrationsgesetz[^1-1]; Asylgesetz[^1-2]; BG gegen den unlauteren Wettbewerb[^1-3]; BG zum Schutz vor Passivrauchen[^1-4]; Jagdgesetz[^1-5]; BG über die Fischerei[^1-6]; Jagdgesetz in Wasser- und Zugvogelreservaten (Ziff. 12004, 12006, 12009, 12010)[^1-7]
-  - 2\. Baudepartement: BG über den Natur- und Heimatschutz[^1-8]
-  - 3\. Finanzdepartement (Schaffhauser Polizei): Strassenverkehrsgesetz[^1-9] (ausgenommen ruhender Verkehr); Waffengesetz[^1-10]; Nationalstrassenabgabegesetz[^1-11]; BG über die Binnenschifffahrt[^1-12]; Betäubungsmittelgesetz[^1-13]; Waldgesetz[^1-14]; BG über das Gewerbe der Reisenden[^1-15]; subsidiär in allen kantonalen und kommunalen Sachgebieten
-- b) durch die kommunalen Behörden auf ihrem Gemeindegebiet im kommunalen Aufgabenbereich:
-  - 1\. Strassenverkehrsgesetz[^1-16] im ruhenden Verkehr
-  - 2\. Umweltschutzgesetz[^1-17]
-  - 3\. in weiteren Bereichen des Strassenverkehrsrechts nach Vereinbarung mit dem Finanzdepartement
-- c) durch eidgenössische Behörden gemäss Art. 2 Abs. 2 des Ordnungsbussengesetzes sowie gemäss Vereinbarung mit dem Regierungsrat
 
-[^1-1]: SR [142.20](http://db.clex.ch/link/Bund/142.20/de).
-[^1-2]: SR [142.31](http://db.clex.ch/link/Bund/142.31/de).
-[^1-3]: SR [241](http://db.clex.ch/link/Bund/241/de).
-[^1-4]: SR [818.31](http://db.clex.ch/link/Bund/818.31/de).
-[^1-5]: SR [922.0](http://db.clex.ch/link/Bund/922.0/de).
-[^1-6]: SR [923.0](http://db.clex.ch/link/Bund/923.0/de).
-[^1-7]: SR [922.0](http://db.clex.ch/link/Bund/922.0/de).
-[^1-8]: SR [451](http://db.clex.ch/link/Bund/451/de).
-[^1-9]: SR [741.01](http://db.clex.ch/link/Bund/741.01/de).
-[^1-10]: SR [514.54](http://db.clex.ch/link/Bund/514.54/de).
-[^1-11]: SR [741.71](http://db.clex.ch/link/Bund/741.71/de).
-[^1-12]: SR [747.201](http://db.clex.ch/link/Bund/747.201/de).
-[^1-13]: SR [812.121](http://db.clex.ch/link/Bund/812.121/de).
-[^1-14]: SR [921.0](http://db.clex.ch/link/Bund/921.0/de).
-[^1-15]: SR [943.1](http://db.clex.ch/link/Bund/943.1/de).
-[^1-16]: SR [741.01](http://db.clex.ch/link/Bund/741.01/de).
-[^1-17]: SR [814.01](http://db.clex.ch/link/Bund/814.01/de).
+- 1\. Departement des Innern:
+
+- i. Ausländer- und Integrationsgesetz[^1-1]
+
+- ii. Asylgesetz[^1-2] iii. BG gegen den unlauteren Wettbewerb[^1-3]
+
+- iv. BG zum Schutz vor Passivrauchen[^1-4]
+
+- v. Jagdgesetz[^1-5]
+
+- vi. BG über die Fischerei[^1-6]
+
+vii. Jagdgesetz[^1-7] in Wasser- und Zugvogelreservaten
+
+(Ziff. 12004, 12006, 12009, 12010)[^1-8] 2. Baudepartement:
+
+- i. BG über den Natur- und Heimatschutz[^1-9]
+
+- ii. …[^1-10]
+
+- 3\. Finanzdepartement (Schaffhauser Polizei):
+
+- i. Strassenverkehrsgesetz[^1-11] (ausgenommen ruhender Verkehr)
+
+- ii. Waffengesetz[^1-12] iii. Nationalstrassenabgabegesetz[^1-13]
+
+Amtsblatt 2019, S. 1791.
+
+- iv. BG über die Binnenschifffahrt[^1-14]
+
+- v. Betäubungsmittelgesetz[^1-15]
+
+- vi. Waldgesetz[^1-16] vii. BG über das Gewerbe der Reisenden[^1-17] viii. subsidiär in allen kantonalen und kommunalen Sachgebieten;
+
+- b) durch die kommunalen Behörden auf ihrem Gemeindegebiet im kommunalen Aufgabenbereich:
+
+- i. Strassenverkehrsgesetz[^1-18] im ruhenden Verkehr
+
+- ii. Umweltschutzgesetz[^1-19] iii. in weiteren Bereichen des Strassenverkehrsrechts nach
+
+Vereinbarung mit dem Finanzdepartement;
+
+- c) durch eidgenössische Behörden gemäss Art. 2 Abs. 2 des Ordnungsbussengesetzes sowie gemäss Vereinbarung mit dem Regierungsrat.
+
+[^1-1]: SR 142.20
+[^1-2]: SR 142.31
+[^1-3]: SR 241
+[^1-4]: SR 818.31
+[^1-5]: SR 922.0
+[^1-6]: SR 923.0
+[^1-7]: SR 922.0
+[^1-8]: Eingefügt durch RRB vom 24. November 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2063).
+[^1-9]: SR 451
+[^1-10]: Aufgehoben durch RRB vom 24. November 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2063).
+[^1-11]: SR 741.01
+[^1-12]: SR 514.54
+[^1-13]: SR 741.71
+[^1-14]: SR 747.201
+[^1-15]: SR 812.121
+[^1-16]: SR 921.0
+[^1-17]: SR 943.1
+[^1-18]: SR 741.01
+[^1-19]: SR 814.01
 
 #### § 2
 
 **Ausweispflicht**
 
-<sup>1</sup> Die zur Ausstellung von Bussen ermächtigten Personen haben sich entsprechend auszuweisen.
+Die zur Ausstellung von Bussen ermächtigten Personen haben sich entsprechend auszuweisen.
 
 #### § 3
 
@@ -104,31 +142,35 @@ beschliesst:
 
 <sup>1</sup> Gemeinden und eidgenössische Behörden sind für die Bussenverarbeitung, die Rapportierung und die Einlagerung in ihrem Aufgabenbereich selber zuständig.
 
-<sup>2</sup> Sie können die Aufgaben nach Abs. 1 gesamthaft durch Vereinbarung mit dem Finanzdepartement der Schaffhauser Polizei übertragen.
+<sup>2</sup> Sie können die Aufgaben nach Absatz 1 gesamthaft durch Vereinbarung mit dem Finanzdepartement der Schaffhauser Polizei übertragen.
+
+[^6-1]: Fassung gemäss RRB vom 9. Januar 2024, in Kraft getreten am 1. Januar 2024 (Amtsblatt vom 12. Januar 2024, S. 13).
 
 #### § 7
 
-**Zuweisung der Bussen und Kosten**
+**Zuweisung der Bussen und Kosten**[^6-1]
 
-<sup>1</sup> Ordnungsbussen fallen dem Gemeinwesen zu, welches sie erhoben hat.
+Ordnungsbussen fallen dem Gemeinwesen zu, welches sie erhoben hat.
 
 #### § 8
 
 **Datenschutz**
 
-<sup>1</sup> Für die Bussenverarbeitung können die beteiligten Behörden der Schaffhauser Polizei Daten und Prozessinformationen bekannt geben.
+Für die Bussenverarbeitung können die beteiligten Behörden der Schaffhauser Polizei Daten und Prozessinformationen bekannt geben.
 
 #### § 9
 
-**Änderung bisherigen Rechts[^9-1]**
+**Änderung bisherigen Rechts**
 
-[^9-1]: Gegenstandslos.
+### Die Verordnung über den unmittelbaren Busseneinzug vom 1. Juli 2014 wird wie folgt geändert:
+
+§ 5 Verfahren Im Übrigen richtet sich das Verfahren des unmittelbaren Busseneinzuges, ausgenommen der Bestimmungen zur Bedenkfrist, zur Sicherstellung und Einziehung sowie der Haftung des Fahrzeughalters, sinngemäss nach den Bestimmungen des Ordnungsbussengesetzes vom 18. März 2016.
 
 #### § 10
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung über Ordnungsbussen im Strassenverkehr vom 19. Dezember 2000 und die Verordnung über das Ordnungsbussenverfahren bei Cannabiskonsum vom 20. August 2013 werden aufgehoben.
+Die Verordnung über Ordnungsbussen im Strassenverkehr vom 19. Dezember 2000 und die Verordnung über das Ordnungsbussenverfahren bei Cannabiskonsum vom 20. August 2013 werden aufgehoben.
 
 #### § 11
 
@@ -138,6 +180,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^11-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^11-1]: Amtsblatt 2019, S. 1791.
+Fussnoten:
 
-Abl. 2019, S. 1791
+[^11-1]: Amtsblatt 2019, S. 1791.
