@@ -4,12 +4,12 @@ number: "832.111"
 title: Verordnung über den Vollzug des Krankenversicherungsgesetzes
 language: de
 version: 2024-01-01
-corrected: 2024-04-17
+corrected: 2024-06-24
 version_adopted: 2024-04-02
 adopted: 1996-07-09
 in_force: 1996-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/50/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/484/pdf_file"
 text: pdf
 ---
 
@@ -191,9 +191,9 @@ Bei Personen, deren Ansprüche durch die Organe der Sozialhilfe direkt geltend g
 
 **Anrechenbares Einkommen**
 
-<sup>1</sup> Massgebend sind die definitiven Steuerwerte gemäss § 12 Abs. 1 des Dekretes für das zweite oder – bei deren Fehlen – das dritte dem Zahlungsjahr vorangehende Jahr. Liegen diese Daten zum Zeitpunkt der Antragserstellung nicht vor, so sind die letzten verfügbaren provisorischen Daten massgebend.
+<sup>1</sup> … <sup>42)</sup>
 
-<sup>2</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten ausbezahlt wurden oder deren Antrag aufgrund provisorischer Steuerdaten abgewiesen wurde, wird von Amtes wegen eine Neuberechnung vorgenommen und eine Rückforderung bzw. Nachzahlung veranlasst, wenn sich das anrechenbare Einkommen gemäss definitiver Veranlagung für das massgebliche Basisjahr gegenüber dem angerechneten provisorischen Wert um mehr als 25 Prozent, mindestens aber 5'000 Franken, erhöht bzw. reduziert.
+<sup>2</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten ausbezahlt wurden oder deren Antrag aufgrund provisorischer Steuerdaten abgewiesen wurde, wird von Amtes wegen eine Neuberechnung vorgenommen und eine Rückforderung bzw. Nachzahlung veranlasst, wenn sich das anrechenbare Einkommen gemäss definitiver Veranlagung für das massgebliche Basisjahr gegenüber dem angerechneten provisorischen Wert erhöht bzw. reduziert. <sup>43)</sup>
 
 #### § 14
 
@@ -516,3 +516,7 @@ Fussnoten:
 - 40) Fassung gemäss RRB vom 29. März 2022, in Kraft getreten am 1. Mai 2022 (Amtsblatt 2021, S. 614).
 
 - 41) Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2187).
+
+- 42) Aufgehoben durch RRB vom 2. April 2024, in Kraft getreten am 1. Januar 2024 (Amtsblatt vom 5. April 2024, S. 11).
+
+- 43) Fassung gemäss RRB vom 2. April 2024, in Kraft getreten am 1. Januar 2024 (Amtsblatt vom 5. April 2024, S. 11).
