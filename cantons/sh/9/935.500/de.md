@@ -5,64 +5,66 @@ title: Einführungsgesetz zum Bundesgesetz über Geldspiele
 short: EG BGS
 language: de
 version: 2024-01-01
+corrected: 2024-06-24
 version_adopted: 2023-09-25
 adopted: 2021-03-08
 in_force: 2021-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.500"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1806/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/271/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über Geldspiele
+# Einführungsgesetz zum Bundesgesetz über Geldspiele (EG BGS)
 
-(EG BGS)
-
-Vom 08.03.2021 (Stand 01.01.2024)
+vom 8. März 2021
 
 Der Kantonsrat Schaffhausen,
 
-gestützt auf Art. 106 Abs. 3 und 5 der Bundesverfassung[^ingress-1], Art. 28, Art. 41 Abs. 1 und Art. 122 des Bundesgesetzes über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS)[^ingress-2] und Art. 71 Abs. 6 der Verordnung über Geldspiele vom 7. November 2018 (Geldspielverordnung, VGS)[^ingress-3],
+gestützt auf Art. 106 Abs. 3 und 5 der Bundesverfassung[^t-1], Art. 28, Art. 41 Abs. 1 und Art. 122 des Bundesgesetzes über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS)[^t-2] und Art. 71 Abs. 6 der Verordnung über Geldspiele vom 7. November 2018 (Geldspielverordnung, VGS)[^t-3],
 
-beschliesst:
+beschliesst als Gesetz:
 
-[^ingress-1]: SR [101](http://db.clex.ch/link/Bund/101/de).
-[^ingress-2]: SR [935.51](http://db.clex.ch/link/Bund/935.51/de).
-[^ingress-3]: SR [935.511](http://db.clex.ch/link/Bund/935.511/de).
+[^t-1]: SR 101.
+[^t-2]: SR 935.51.
+[^t-3]: SR 935.511.
 
-## 1 Allgemeine Bestimmungen
+## A. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz stellt den Vollzug des Bundesgesetzes über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS) sicher. Es regelt die Gross- und Kleinspiele im Kanton Schaffhausen, die Geschicklichkeitsspielautomaten und Spiellokale und die Abgaben für Geschicklichkeitsspielautomaten, Spiellokale und Spielbanken.
+Dieses Gesetz stellt den Vollzug des Bundesgesetzes über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS) sicher. Es regelt die Gross- und Kleinspiele im Kanton Schaffhausen, die Geschicklichkeitsspielautomaten und Spiellokale und die Abgaben für Geschicklichkeitsspielautomaten, Spiellokale und Spielbanken.
 
 #### Art. 2
 
 **Begriffe**
 
-<sup>1</sup> Soweit das kantonale Recht nichts Abweichendes vorsieht, sind die im Geldspielgesetz enthaltenen Definitionen von Begriffen aus dem Geldspielbereich anwendbar.
+Soweit das kantonale Recht nichts Abweichendes vorsieht, sind die im Geldspielgesetz enthaltenen Definitionen von Begriffen aus dem Geldspielbereich anwendbar.
 
-## 2 Grossspiele
+## B. Grossspiele
 
 #### Art. 3
 
 **Zulässigkeit von Grossspielen**
 
-<sup>1</sup> Im Kanton Schaffhausen sind alle im Geldspielgesetz vorgesehenen Grossspiele (Lotterien, Sportwetten und Geschicklichkeitsspiele, die je automatisiert, interkantonal oder online durchgeführt werden) zulässig.
+Im Kanton Schaffhausen sind alle im Geldspielgesetz vorgesehenen Grossspiele (Lotterien, Sportwetten und Geschicklichkeitsspiele, die je automatisiert, interkantonal oder online durchgeführt werden) zulässig.
 
-## 3 Kleinspiele
+Amtsblatt 2021, S. 455, S. 1213.
+
+## C. Kleinspiele
 
 #### Art. 4
 
 **Zulässigkeit von Kleinspielen**
 
-<sup>1</sup> Im Kanton Schaffhausen sind alle im Geldspielgesetz vorgesehenen Kleinspiele (Kleinlotterien, lokale Sportwetten und kleine Pokerturniere) zulässig.
+Im Kanton Schaffhausen sind alle im Geldspielgesetz vorgesehenen Kleinspiele (Kleinlotterien, lokale Sportwetten und kleine Pokerturniere) zulässig.
 
 #### Art. 5
 
-**Bewilligungsvoraussetzungen und ‑verfahren**
+**Bewilligungsvoraussetzungen und -verfahren**
 
 <sup>1</sup> Die Bewilligungsvoraussetzungen von Kleinspielen richten sich nach Bundesrecht.
 
@@ -72,19 +74,19 @@ beschliesst:
 
 **Bedingungen und Auflagen**
 
-<sup>1</sup> Die Bewilligung zur Durchführung eines Kleinspiels kann mit Bedingungen und Auflagen verbunden werden.
+Die Bewilligung zur Durchführung eines Kleinspiels kann mit Bedingungen und Auflagen verbunden werden.
 
 #### Art. 7
 
 **Jugendschutz**
 
-<sup>1</sup> Das Mindestalter, welches zur Teilnahme an Kleinspielen berechtigt, liegt bei 18 Jahren.
+Das Mindestalter, welches zur Teilnahme an Kleinspielen berechtigt, liegt bei 18 Jahren.
 
 #### Art. 8
 
 **Aufsichts- und Vollzugsbehörde für Kleinspiele**
 
-<sup>1</sup> Der Regierungsrat bestimmt die kantonale Aufsichts- und Vollzugsbehörde für Kleinspiele im Sinne des Geldspielgesetzes, welche zuständig ist für die Bewilligung für die Durchführung von Kleinspielen und die Überwachung der Einhaltung der gesetzlichen Bestimmungen in Bezug auf Kleinspiele.
+Der Regierungsrat bestimmt die kantonale Aufsichts- und Vollzugsbehörde für Kleinspiele im Sinne des Geldspielgesetzes, welche zuständig ist für die Bewilligung für die Durchführung von Kleinspielen und die Überwachung der Einhaltung der gesetzlichen Bestimmungen in Bezug auf Kleinspiele.
 
 #### Art. 9
 
@@ -92,27 +94,27 @@ beschliesst:
 
 <sup>1</sup> Die Zulässigkeit der von Art. 41 Abs. 2 BGS erfassten Lotterien (Unterhaltungslotterien) richtet sich nach Bundesrecht.
 
-<sup>2</sup> Wer eine Unterhaltungslotterie durchführen will, deren Summe aller Einsätze Fr. 10'000.00 übersteigt, ist verpflichtet, dies der kantonalen Aufsichts- und Vollzugsbehörde für Kleinspiele mindestens 14 Tage vor der geplanten Durchführung der Unterhaltungslotterie zu melden.
+<sup>2</sup> Wer eine Unterhaltungslotterie durchführen will, deren Summe aller Einsätze Fr. 10'000.– übersteigt, ist verpflichtet, dies der kantonalen Aufsichts- und Vollzugsbehörde für Kleinspiele mindestens 14 Tage vor der geplanten Durchführung der Unterhaltungslotterie zu melden.
 
 <sup>3</sup> Auf Unterhaltungslotterien kommt Art. 7 nicht zur Anwendung.
 
-## 4 Geschicklichkeitsspielautomaten und Spiellokale
+## D. Geschicklichkeitsspielautomaten und Spiellokale
 
-### 4.1 Geschicklichkeitsspielautomaten
+### I. Geschicklichkeitsspielautomaten
 
 #### Art. 10
 
 **Zulässigkeit**
 
-<sup>1</sup> Die Zulässigkeit von Geschicklichkeitsspielautomaten richtet sich nach Bundesrecht.
+Die Zulässigkeit von Geschicklichkeitsspielautomaten richtet sich nach Bundesrecht.
 
-### 4.2 Spiellokale
+### II. Spiellokale
 
 #### Art. 11
 
 **Begriff**
 
-<sup>1</sup> Spiellokale sind Räumlichkeiten, in denen Geschicklichkeitsspielautomaten gewerbsmässig zum allgemeinen Gebrauch aufgestellt sind.
+Spiellokale sind Räumlichkeiten, in denen Geschicklichkeitsspielautomaten gewerbsmässig zum allgemeinen Gebrauch aufgestellt sind.
 
 #### Art. 12
 
@@ -174,7 +176,7 @@ beschliesst:
 
 <sup>4</sup> Die Kontrolle über die Einhaltung dieser Jugendschutzbestimmung obliegt der Schaffhauser Polizei.
 
-## 5 Abgaben
+## E. Abgaben
 
 #### Art. 18
 
@@ -186,7 +188,9 @@ beschliesst:
 
 <sup>3</sup> Veranlagung und Bezug der kantonalen Abgabe werden dem Bund übertragen. Die zuständige kantonale Behörde fordert die kantonale Spielbankenabgabe bei der zuständigen Bundesbehörde ein. Einzelheiten regelt der Regierungsrat durch Verordnung.
 
-<sup>4</sup> 20 Prozent der kantonalen Spielbankenabgabe werden dem Fonds für Suchtprophylaxe und Gesundheitsförderung zugewiesen.
+<sup>4</sup> 20 Prozent der kantonalen Spielbankenabgabe werden dem Fonds für Suchtprophylaxe und Gesundheitsförderung zugewiesen.[^18-1]
+
+[^18-1]: Fassung gemäss G vom 25. September 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 1682, Amtsblatt vom 12. Januar 2024, S. 13)
 
 #### Art. 19
 
@@ -194,11 +198,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton erhebt eine jährliche Abgabe pro Geschicklichkeitsspielautomat in folgendem Umfang:
 
-- a) Automat bis Fr. 1.00 Höchsteinsatz: — Fr. 1'000.00
-- b) Automat bis Fr. 2.00 Höchsteinsatz: — Fr. 2'000.00
-- c) Automat über Fr. 2.00 Höchsteinsatz: — Fr. 5'000.00
+- Automat bis 1 Fr. Höchsteinsatz: Fr. 1'000.–,
 
-<sup>2</sup> Der Kanton erhebt eine jährliche Abgabe für den Betrieb von Spiellokalen. Diese beträgt je nach Art und Grösse: Fr. 1'500.00 bis Fr. 2'000.00.
+- Automat bis 2 Fr. Höchsteinsatz: Fr. 2'000.–,
+
+- Automat über 2 Fr. Höchsteinsatz: Fr. 5'000.–.
+
+<sup>2</sup> Der Kanton erhebt eine jährliche Abgabe für den Betrieb von Spiellokalen. Diese beträgt je nach Art und Grösse: Fr. 1'500.– bis Fr. 2'000.–.
 
 <sup>3</sup> Subjekt der Abgabe ist der jeweilige Bewilligungsinhaber. Für ein angebrochenes Jahr werden die Abgaben pro rata berechnet. Angebrochene Monate werden voll angerechnet. Bei Bewilligungsentzug erfolgt keine Rückerstattung der Abgaben. Umgangene Abgaben sind nachzuzahlen.
 
@@ -206,7 +212,7 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat passt die Abgaben periodisch der Teuerung an.
 
-## 6 Strafbestimmung
+## F. Strafbestimmung
 
 #### Art. 20
 
@@ -218,23 +224,23 @@ beschliesst:
 
 <sup>3</sup> Das Verfahren richtet sich nach den Bestimmungen des EG StGB[^20-1]. Vorbehalten bleiben die Bestimmungen des Geldspielgesetzes (Art. 130 f. BGS).
 
-[^20-1]: SHR [311.100](https://rechtsbuch.sh.ch/data/311.100/de).
+[^20-1]: SHR 311.100.
 
-## 7 Schlussbestimmungen
+## G. Schlussbestimmungen
 
 #### Art. 21
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
 
 #### Art. 22
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird aufgehoben:
+Mit dem Inkrafttreten dieses Gesetzes wird aufgehoben:
 
-- a) das Gesetz über die Spielautomaten, die Spiellokale und die Kursaalabgabe vom 21. Januar 2002 (Spielbetriebsgesetz, SpBG)
+- das Gesetz über die Spielautomaten, die Spiellokale und die Kursaalabgabe vom 21. Januar 2002 (Spielbetriebsgesetz; SpBG; SHR 935.500).
 
 #### Art. 23
 
@@ -246,7 +252,7 @@ beschliesst:
 
 <sup>3</sup> Das Gesetz ist im Amtsblatt zu veröffentlichen[^23-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^23-1]: In Kraft getreten am 1. Juli 2021 (Amtsblatt 2021, S. 1213).
 [^23-2]: Amtsblatt 2021, S. 455.
-
-Abl. 2021, S. 455, S. 1213
