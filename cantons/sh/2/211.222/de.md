@@ -5,36 +5,36 @@ title: Verordnung über die Inkassohilfe und Bevorschussung von Unterhaltsbeitr�
 short: Alimentenbevorschussungsverordnung
 language: de
 version: 2017-01-01
+corrected: 2024-06-24
 version_adopted: 2016-09-27
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.222"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1745/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/252/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder
+# Verordnung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder (Alimentenbevorschussungsverordnung)
 
-(Alimentenbevorschussungsverordnung)
-
-Vom 14.12.2010 (Stand 01.01.2017)
+vom 14. Dezember 2010
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 39a, 42 und 42a des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^ingress-1],
+gestützt auf Art. 39a, 42 und 42a des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de).
+[^t-1]: SHR 210.100.
 
-## 1 Regelungsbereich
+### I. Regelungsbereich
 
 #### § 1
 
-<sup>1</sup> Diese Verordnung regelt die Zuständigkeit, das Verfahren und die Voraussetzungen für die Inkassohilfe für familienrechtliche Unterhaltsbeiträge und die Bevorschussung von Kinderalimenten.
+Diese Verordnung regelt die Zuständigkeit, das Verfahren und die Voraussetzungen für die Inkassohilfe für familienrechtliche Unterhaltsbeiträge und die Bevorschussung von Kinderalimenten.
 
-## 2 Inkassohilfe
+### II. Inkassohilfe
 
 #### § 2
 
@@ -44,29 +44,38 @@ beschliesst:
 
 <sup>2</sup> Die Inkassohilfe setzt erst nach erfolglosen eigenen Bemühungen der unterhaltsberechtigten Person zur Durchsetzung der Forderungen ein.
 
-[^2-1]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de).
+Amtsblatt 2010, S. 1809
+
+[^2-1]: SHR 210.100.
+[^2-2]: Fassung gemäss RRB vom 4. Dezember 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1817).
 
 #### § 3
 
+[^2-2]
+
 <sup>1</sup> Zuständig für die Inkassohilfe ist der Gemeinderat am zivilrechtlichen Wohnsitz der unterhaltsberechtigten Person.
 
-<sup>2</sup> Der Gemeinderat stellt sicher, dass er oder die mit der Inkassohilfe befassten Stellen über vertiefte Kenntnisse des Unterhaltsrechts verfügen und die bundesrechtlichen Anforderungen erfüllen.
+<sup>2</sup> Der Gemeinderat stellt sicher, dass er oder die mit der Inkassohilfe befassten Stellen über vertiefte Kenntnisse des Unterhaltsrechts verfügen und die bundesrechtlichen Anforderungen erfüllen.[^3-1]
 
-<sup>3</sup> Der Gemeinderat kann die Inkassohilfe delegieren und namentlich einer privaten Inkassostelle übertragen.
+<sup>3</sup> Der Gemeinderat kann die Inkassohilfe delegieren und namentlich einer privaten Inkassostelle übertragen.[^3-1]
 
-## 3 Gegenstand der Bevorschussung
+[^3-1]: Fassung gemäss RRB vom 27. September 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1518).
+
+### III. Gegenstand der Bevorschussung
 
 #### § 4
 
 **Unterhaltsbeitrag**
 
-<sup>1</sup> Gegenstand der Bevorschussung sind die nach Eingang des unterzeichneten Gesuchs und der nötigen Unterlagen fällig werdenden, laufenden Unterhaltsbeiträge für Kinder, welche:
+<sup>1</sup> Gegenstand der Bevorschussung sind die nach Eingang des unterzeichneten Gesuchs und der nötigen Unterlagen fällig werdenden, laufenden Unterhaltsbeiträge für Kinder, welche a) in einem gerichtlichen Entscheid über den Unterhalt von Kindern,
 
-- a) in einem gerichtlichen Entscheid über den Unterhalt von Kindern
-- b) in einer aussergerichtlichen durch die zuständige Kindesschutzbehörde genehmigten Unterhaltsverpflichtung oder
-- c) in einem ausländischen Rechtstitel aufgrund internationaler Vereinbarungen über den Unterhalt von Kindern festgelegt sind
+- b) in einer aussergerichtlichen durch die zuständige Kindesschutzbehörde genehmigten Unterhaltsverpflichtung oder[^4-1]
+
+- c) in einem ausländischen Rechtstitel aufgrund internationaler Vereinbarungen über den Unterhalt von Kindern festgelegt sind.
 
 <sup>2</sup> Kinderzulagen werden nicht bevorschusst.
+
+[^4-1]: Fassung gemäss RRB vom 4. Dezember 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1817).
 
 #### § 5
 
@@ -76,23 +85,25 @@ beschliesst:
 
 <sup>2</sup> Bevorschusste Unterhaltsbeiträge können nur vom verpflichteten Elternteil zurückgefordert werden.
 
-## 4 Voraussetzungen der Bevorschussung
+### IV. Voraussetzungen der Bevorschussung
 
 #### § 6
 
 **Verspätete Erfüllung**
 
-<sup>1</sup> Als nicht rechtzeitig erfüllt gilt die Unterhaltsverpflichtung, wenn die berechtigte Person die bis zum Gesuchseingang fälligen Unterhaltsbeiträge trotz angemessener Inkassoversuche nicht oder nicht vollständig beibringen konnte.
+Als nicht rechtzeitig erfüllt gilt die Unterhaltsverpflichtung, wenn die berechtigte Person die bis zum Gesuchseingang fälligen Unterhaltsbeiträge trotz angemessener Inkassoversuche nicht oder nicht vollständig beibringen konnte.
 
 #### § 7
 
 **Berechtigung**
 
-<sup>1</sup> Berechtigt zur Geltendmachung der Bevorschussung ist das Kind bzw. dessen gesetzlicher Vertreter, wenn:
+Berechtigt zur Geltendmachung der Bevorschussung ist das Kind bzw. dessen gesetzlicher Vertreter, wenn:
 
-- a) das Kind bzw. der Elternteil, unter dessen Obhut es steht, in einer Gemeinde des Kantons Schaffhausen seinen zivilrechtlichen Wohnsitz hat
+- a) das Kind bzw. der Elternteil, unter dessen Obhut es steht, in einer Gemeinde des Kantons Schaffhausen seinen zivilrechtlichen Wohnsitz hat,
+
 - b) das Kind seinen gewöhnlichen Aufenthalt nicht im Ausland hat und
-- c) die pflichtige Person nicht mit dem anderen Elternteil oder mit dem Kind im gleichen Haushalt lebt
+
+- c) die pflichtige Person nicht mit dem anderen Elternteil oder mit dem Kind im gleichen Haushalt lebt.
 
 #### § 8
 
@@ -111,51 +122,56 @@ beschliesst:
 <sup>1</sup> Der Anspruch auf Bevorschussung entfällt, wenn eine der folgenden Einkommens- und Vermögensgrenzen überschritten wird:
 
 - a) Beim nicht verpflichteten alleinstehenden Elternteil:
-  - 1\. Fr. 43'570.00 Bruttoeinkommen pro Jahr zuzüglich
-  - 2\. 20% des erarbeiteten jährlichen Bruttoeinkommens zuzüglich Fr. 7'170.00 für jedes von ihm unterhaltene Kind
-  - 3\. Fr. 44'980.00 Reinvermögen zuzüglich
-  - 4\. Fr. 11'250.00 für jedes von ihm unterhaltene Kind
-  - 5\. Von dem Fr. 22'490.00 übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet
-- b) Beim nicht verpflichteten Elternteil, welcher verheiratet ist, in stabilem Konkubinat oder eingetragener Partnerschaft lebt:
-  - 1\. Fr. 59'700.00 jährliches Bruttoeinkommen inklusive Einkommen des Partners zuzüglich
-  - 2\. Fr. 7'170.00 für jedes von ihm unterhaltene Kind zuzüglich
-  - 3\. Fr. 6'470.00 pro Kind des Partners, wenn es unter dessen Obhut steht, oder die effektiv geleisteten Unterhaltszahlungen an die Kinder, die nicht unter dessen Obhut stehen
-  - 4\. Fr. 101'190.00 Reinvermögen inklusive Vermögen des Partners zuzüglich
-  - 5\. Fr. 11'250.00 für jedes von ihm oder dem Partner unterhaltene Kind
-  - 6\. Von dem Fr. 44'980.00 übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet
+
+Fr. 43'570.-- Bruttoeinkommen pro Jahr zuzüglich 20 % des erarbeiteten jährlichen Bruttoeinkommens zuzüglich Fr. 7'170.-- für jedes von ihm unterhaltene Kind, Fr. 44'980.-- Reinvermögen zuzüglich Fr. 11'250.-- für jedes von ihm unterhaltene Kind.
+
+Von dem Fr. 22'490.-- übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet.
+
+- b) Beim nicht verpflichteten Elternteil, welcher verheiratet ist, in stabilem Konkubinat oder eingetragener Partnerschaft lebt: Fr. 59'700.-- jährliches Bruttoeinkommen inklusive Einkommen des Partners zuzüglich Fr. 7'170.-- für jedes von ihm unterhaltene Kind zuzüglich Fr. 6'470.-- pro Kind des Partners, wenn es unter dessen Obhut steht, oder die effektiv geleisteten Unterhaltszahlungen an die Kinder, die nicht unter dessen Obhut stehen;
+
+Fr. 101'190.-- Reinvermögen inklusive Vermögen des Partners zuzüglich Fr. 11'250.-- für jedes von ihm oder dem Partner unterhaltene Kind.
+
+Von dem Fr. 44'980.-- übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet.
+
 - c) Beim nicht verpflichteten in Wohn- und Wirtschaftgemeinschaft lebenden Elternteil:
-  - 1\. Fr. 27'550.00 Bruttoeinkommen zuzüglich
-  - 2\. 20% des erarbeiteten jährlichen Bruttoeinkommens zuzüglich
-  - 3\. Fr. 7'170.00 für jedes von ihm unterhaltene Kind
-  - 4\. Fr. 44'980.00 Reinvermögen zuzüglich
-  - 5\. Fr. 11'250.00 für jedes von ihm unterhaltene Kind
-  - 6\. Von dem Fr. 22'490.00 übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet
+
+Fr. 27'550.-- Bruttoeinkommen zuzüglich 20 % des erarbeiteten jährlichen Bruttoeinkommens zuzüglich Fr. 7'170.-- für jedes von ihm unterhaltene Kind;
+
+Fr. 44'980.-- Reinvermögen zuzüglich Fr. 11'250.-- für jedes von ihm unterhaltene Kind.
+
+Von dem Fr. 22'490.-- übersteigenden Reinvermögen wird 1/15 dem Einkommen zugerechnet.
+
 - d) Beim Kind:
-  - 1\. Fr. 16'870.00 Bruttoeinkommen
-  - 2\. Fr. 22'490.00 Reinvermögen
-  - 3\. Von dem Fr. 22'490.00 übersteigenden Reinvermögen wird 1/15 dem Einkommen angerechnet
 
-<sup>2</sup> Die oben stehenden Einkommens- und Vermögensgrenzen gelten für einen Stand des Landesindexes der Konsumentenpreise von 103.9 Punkten (Indexstand Oktober 2010; Basis Dezember 2005 = 100). Sie verändern sich per 1. Januar des folgenden Jahres aufgrund der Veränderung des Landesindexes der Konsumentenpreise des laufenden Jahres, sofern diese mindestens ein Prozent beträgt. Grundlage für die Berechnung bildet der Oktober-Index des laufenden Jahres. Das zuständige Departement teilt den Gemeinden jeweils die massgebenden Einkommens- und Vermögensgrenzen mit.
+Fr. 16'870.-- Bruttoeinkommen;
 
-<sup>3</sup> Zum Bruttoeinkommen gehören namentlich Erwerbseinkommen vor Abzug der Beiträge an die obligatorischen Sozialversicherungen, Kinderzulagen, Leistungen von privaten oder öffentlichrechtlichen Versicherungen, Vermögenserträge sowie erhältliche familienrechtliche Unterhaltsbeiträge ohne Kinderunterhaltsbeiträge, um deren Bevorschussung nachgesucht wird. Nicht zu berücksichtigen sind öffentliche Sozialhilfeleistungen, freiwillige Zuwendungen Dritter und Stipendien. Der Ausbildungslohn des minderjährigen unterhaltsberechtigten Kindes, welcher die Höhe von Fr. 400.00 pro Monat übersteigt, wird im übersteigenden Betrag zur Hälfte dem Bruttoeinkommen des nicht verpflichteten Elternteils angerechnet.
+Fr. 22'490.-- Reinvermögen.
+
+Von dem Fr. 22'490.-- übersteigenden Reinvermögen wird 1/15 dem Einkommen angerechnet.
+
+<sup>2</sup> Die oben stehenden Einkommens- und Vermögensgrenzen gelten für einen Stand des Landesindexes der Konsumentenpreise von 103,9 Punkten (Indexstand Oktober 2010; Basis Dezember 2005 = 100). Sie verändern sich per 1. Januar des folgenden Jahres aufgrund der Veränderung des Landesindexes der Konsumentenpreise des laufenden Jahres, sofern diese mindestens ein Prozent beträgt. Grundlage für die Berechnung bildet der Oktober-Index des laufenden Jahres. Das zuständige Departement teilt den Gemeinden jeweils die massgebenden Einkommens- und Vermögensgrenzen mit.
+
+<sup>3</sup> Zum Bruttoeinkommen gehören namentlich Erwerbseinkommen vor Abzug der Beiträge an die obligatorischen Sozialversicherungen, Kinderzulagen, Leistungen von privaten oder öffentlichrechtlichen Versicherungen, Vermögenserträge sowie erhältliche familienrechtliche Unterhaltsbeiträge ohne Kinderunterhaltsbeiträge, um deren Bevorschussung nachgesucht wird. Nicht zu berücksichtigen sind öffentliche Sozialhilfeleistungen, freiwillige Zuwendungen Dritter und Stipendien. Der Ausbildungslohn des minderjährigen unterhaltsberechtigten Kindes, welcher die Höhe von Fr. 400.-- pro Monat übersteigt, wird im übersteigenden Betrag zur Hälfte dem Bruttoeinkommen des nicht verpflichteten Elternteils angerechnet.
 
 #### § 10
 
 **Ausnahmen**
 
-<sup>1</sup> In begründeten Sonderfällen kann zugunsten der gesuchstellenden Person von § 9 abgewichen werden, namentlich wenn ausserordentliche finanzielle Verhältnisse (hoher Mietzins, Ausbildungs- oder Krankheitskosten, illiquide Vermögenswerte usw.) zu berücksichtigen sind.
+In begründeten Sonderfällen kann zugunsten der gesuchstellenden Person von § 9 abgewichen werden, namentlich wenn ausserordentliche finanzielle Verhältnisse (hoher Mietzins, Ausbildungs- oder Krankheitskosten, illiquide Vermögenswerte usw.) zu berücksichtigen sind.
 
 #### § 11
 
 **Verlust des Anspruchs**
 
-<sup>1</sup> Die Bevorschussung entfällt ganz oder teilweise in Fällen von Missbräuchen, insbesondere wenn:
+Die Bevorschussung entfällt ganz oder teilweise in Fällen von Missbräuchen, insbesondere wenn:
 
-- a) dem Kind zuzumuten ist, seinen Unterhalt voll oder teilweise aus eigenem Erwerb zu bestreiten
-- b) in einem Eheschutzverfahren oder in einem Beschluss betreffend vorsorgliche Massnahmen die Anweisung an den Schuldner des Pflichtigen zu Direktzahlungen (Art. 177 ZGB) durchgesetzt werden kann
-- c) die gesuchstellende Person absichtlich falsche Angaben macht
+- a) dem Kind zuzumuten ist, seinen Unterhalt voll oder teilweise aus eigenem Erwerb zu bestreiten;
 
-## 5 Umfang der Vorschussleistungen
+- b) in einem Eheschutzverfahren oder in einem Beschluss betreffend vorsorgliche Massnahmen die Anweisung an den Schuldner des Pflichtigen zu Direktzahlungen (Art. 177 ZGB) durchgesetzt werden kann;
+
+- c) die gesuchstellende Person absichtlich falsche Angaben macht.
+
+### V. Umfang der Vorschussleistungen
 
 #### § 12
 
@@ -165,21 +181,21 @@ beschliesst:
 
 <sup>2</sup> Die auf ein Jahr aufgerechneten Vorschüsse dürfen zusammen mit dem übrigen Einkommen den sich aus § 9 ergebenden Grenzbetrag nicht überschreiten.
 
-<sup>3</sup> Ein Anspruch auf Bevorschussung besteht nur, wenn der individuelle Anspruch der Haushaltseinheit mindestens Fr. 50.00 pro Monat beträgt.
+<sup>3</sup> Ein Anspruch auf Bevorschussung besteht nur, wenn der individuelle Anspruch der Haushaltseinheit mindestens Fr. 50.-- pro Monat beträgt.
 
 #### § 13
 
 **Fremdplatzierung**
 
-<sup>1</sup> Ist das Kind in einer Anstalt, einem Heim oder einer Pflegefamilie untergebracht, erfolgt die Bevorschussung innerhalb der in § 12 festgelegten Grenzen nur bis zum Betrag, der zur Deckung des Kostgeldes einschliesslich der erforderlichen Nebenauslagen notwendig ist.
+Ist das Kind in einer Anstalt, einem Heim oder einer Pflegefamilie untergebracht, erfolgt die Bevorschussung innerhalb der in § 12 festgelegten Grenzen nur bis zum Betrag, der zur Deckung des Kostgeldes einschliesslich der erforderlichen Nebenauslagen notwendig ist.
 
-## 6 Organisation und Verfahren
+### VI. Organisation und Verfahren
 
 #### § 14
 
 **Zuständige Stelle**
 
-<sup>1</sup> Wo die Gemeinden nichts Abweichendes bestimmen, obliegt die Durchführung der Bevorschussung der Inkassohilfestelle am zivilrechtlichen Wohnsitz des Kindes (Art. 42 EG ZGB).
+Wo die Gemeinden nichts Abweichendes bestimmen, obliegt die Durchführung der Bevorschussung der Inkassohilfestelle am zivilrechtlichen Wohnsitz des Kindes (Art. 42 EG ZGB).
 
 #### § 15
 
@@ -241,7 +257,7 @@ beschliesst:
 
 <sup>2</sup> Bezahlt die pflichtige Person bevorschusste Unterhaltsbeträge direkt an die berechtigte Person, sind diese Zahlungen an die bevorschusste Stelle zurückzuerstatten. Solange sie nicht zurückerstattet sind, entfällt der Anspruch auf weitere Vorschüsse.
 
-## 7 Übergangs- und Schlussbestimmungen
+### VII. Übergangs- und Schlussbestimmungen
 
 #### § 22
 
@@ -249,8 +265,6 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^22-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^22-1] und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
 
 [^22-1]: Amtsblatt 2010, S. 1809.
-
-Abl. 2010, S. 1809
