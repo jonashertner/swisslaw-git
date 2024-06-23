@@ -5,29 +5,28 @@ title: Verordnung über Registraturen und elektronische Datenverarbeitung bei de
 short: RegVO
 language: de
 version: 2018-01-01
-valid_until: 2026-05-31
+corrected: 2024-06-24
 version_adopted: 2017-12-05
 adopted: 2026-05-12
 in_force: 2026-06-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.112"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1750/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/154/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über Registraturen und elektronische Datenverarbeitung bei der Schaffhauser Polizei
+# Verordnung über Registraturen und elektronische Datenverarbeitung bei der Schaffhauser Polizei (RegVO)
 
-(RegVO)
-
-Vom 02.03.2004 (Stand 01.01.2018)
+vom 2. März 2004
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 23 Abs. 4 des Gesetzes über die Organisation des Polizeiwesens (Polizeiorganisationsgesetz) vom 21. Februar 2000 und Art. 14 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007,
+gestützt auf Art. 23 Abs. 4 des Gesetzes über die Organisation des Polizeiwesens (Polizeiorganisationsgesetz) vom 21. Februar 2000 und Art. 14 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007, <sup>8)</sup>
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -35,18 +34,17 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die elektronische Datenverarbeitung und das Registraturwesen durch die Schaffhauser Polizei (Polizei).
 
-<sup>2</sup> Soweit diese Verordnung keine spezielle Regelung enthält, gelten für das Bearbeiten von Personendaten die Bestimmungen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 7. März 1994[^1-1] sowie der Verordnung über den Schutz von Personendaten (Kantonale Datenschutzverordnung) vom 28. Februar 1995[^1-2].
+<sup>2</sup> Soweit diese Verordnung keine spezielle Regelung enthält, gelten für das Bearbeiten von Personendaten die Bestimmungen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 7. März 1994 <sup>3)</sup> sowie der Verordnung über den Schutz von Personendaten (Kantonale Datenschutzverordnung) vom 28. Februar 1995 <sup>4)</sup> .
 
 <sup>3</sup> Für die Bearbeitung von Daten in Bundessystemen gilt Bundesrecht. Die Polizei ist für den Vollzug zuständig.
-
-[^1-1]: SHR [174.100](https://rechtsbuch.sh.ch/data/174.100/de).
-[^1-2]: SHR [174.101](https://rechtsbuch.sh.ch/data/174.101/de).
 
 #### § 2
 
 **Erhebung und Bearbeitung von Daten**
 
-<sup>1</sup> Die Polizei ist befugt, die zur Ausübung ihrer Tätigkeit notwendigen Daten zu erheben, zu bearbeiten und darüber Registraturen anzulegen und zu führen. Sie kann hierfür die elektronische Datenverarbeitung einsetzen.
+<sup>1</sup> Die Polizei ist befugt, die zur Ausübung ihrer Tätigkeit notwendigen Daten zu erheben, zu bearbeiten und darüber Registraturen
+
+Amtsblatt 2004, S. 293. anzulegen und zu führen. Sie kann hierfür die elektronische Datenverarbeitung einsetzen.
 
 <sup>2</sup> Das Polizeikommando erlässt die nötigen Weisungen und führt eine Kontrolle über sämtliche Registraturen.
 
@@ -60,15 +58,17 @@ beschliesst:
 
 <sup>3</sup> Das Polizeikommando erteilt die Zugriffsberechtigungen und erlässt die nötigen Weisungen für den Datenzugriff sowie die Datensicherung.
 
-<sup>4</sup> Die Polizei kann Informationssysteme durch Dritte betreiben lassen. Sie muss durch Vereinbarung, Auflagen oder auf andere Weise sicherstellen, dass die Informationssicherheit gewährleistet ist.
+<sup>4</sup> Die Polizei kann Informationssysteme durch Dritte betreiben lassen. Sie muss durch Vereinbarung, Auflagen oder auf andere Weise sicherstellen, dass die Informationssicherheit gewährleistet ist. <sup>9)</sup>
 
 #### § 4
 
 **Richtigkeit der Daten**
 
-<sup>1</sup> Die Daten sind von den Bearbeitenden auf ihre Richtigkeit und Aktualität hin zu überprüfen.
+Die Daten sind von den Bearbeitenden auf ihre Richtigkeit und Aktualität hin zu überprüfen.
 
 #### § 4a
+
+<sup>7)</sup>
 
 **Nationaler Polizeiindex**
 
@@ -76,13 +76,13 @@ beschliesst:
 
 <sup>2</sup> Der Umfang der erfassten Daten richtet sich nach Art. 17 Abs. 3 BPI. Aus ermittlungstaktischen Gründen oder zum Schutz besonders sensibler Daten kann der Umfang der Datenweitergabe eingeschränkt werden.
 
-## 2 Tagesjournal
+### II. Tagesjournal
 
 #### § 5
 
-<sup>1</sup> Die Polizei führt mittels elektronischer Datenverarbeitung ein Tagesjournal.
+Die Polizei führt mittels elektronischer Datenverarbeitung ein Tagesjournal.
 
-## 3 Auftrags-, Pendenzen- und Geschäftskontrolle
+### III. Auftrags-, Pendenzen- und Geschäftskontrolle
 
 #### § 6
 
@@ -100,15 +100,19 @@ beschliesst:
 
 **Geschäftskontrolle**
 
-<sup>1</sup> Die Geschäftskontrolle enthält die Daten über alle bearbeiteten beziehungsweise erledigten Geschäfte. Sie bezweckt die Informationsbeschaffung zur Aufklärung von Straftaten. Dazu gehören unter anderem folgende Daten:
+Die Geschäftskontrolle enthält die Daten über alle bearbeiteten beziehungsweise erledigten Geschäfte. Sie bezweckt die Informationsbeschaffung zur Aufklärung von Straftaten. Dazu gehören unter anderem folgende Daten:
 
-- a) Grunddaten
-- b) Geschäftsdaten
-- c) erkennungsdienstliche Daten
-- d) Haftdaten
-- e) Fahndungsdaten
+- a) Grunddaten;
 
-## 4 Bezeichnung der gespeicherten Daten
+- b) Geschäftsdaten;
+
+- c) erkennungsdienstliche Daten;
+
+- d) Haftdaten;
+
+- e) Fahndungsdaten.
+
+### IV. Bezeichnung der gespeicherten Daten
 
 #### § 9
 
@@ -120,30 +124,49 @@ beschliesst:
 
 <sup>3</sup> In der Regel können folgende Grunddaten über natürliche Personen gespeichert werden:
 
-- a) Name, Vorname, Geburtsname
-- b) Genannt- und Spitznamen
-- c) Geburtsdatum und Geburtsort
-- d) Heimatort oder Heimatland; Ausländerstatus
-- e) Geschlecht
-- f) Ausweis
-- g) Namen und Vornamen der Eltern
-- h) Wohn- oder Aufenthaltsort, Adresse, Geschäftsadresse
-- i) Angaben der Kommunikationsmittel wie Telefon, Fax, E-Mail und Pager
-- j) Zivilstand, Geburtsdaten sowie Namen und Vornamen des Ehegatten und Angehöriger
-- k) Gesetzliche Vertreter
-- l) Beruf, Inhaberverhältnisse von Firmen
-- m) Militärische Einteilung
-- n) Verbindungen
-- o) Personen- und Fahndungshinweise
+- a) Name, Vorname, Geburtsname;
+
+- b) Genannt- und Spitznamen;
+
+- c) Geburtsdatum und Geburtsort;
+
+- d) Heimatort oder Heimatland; Ausländerstatus;
+
+- e) Geschlecht;
+
+- f) Ausweis;
+
+- g) Namen und Vornamen der Eltern;
+
+- h) Wohn- oder Aufenthaltsort, Adresse, Geschäftsadresse;
+
+- i) Angaben der Kommunikationsmittel wie Telefon, Fax, E-Mail und Pager;
+
+- j) Zivilstand, Geburtsdaten sowie Namen und Vornamen des Ehegatten und Angehöriger;
+
+- k) Gesetzliche Vertreter;
+
+- l) Beruf, Inhaberverhältnisse von Firmen;
+
+- m) Militärische Einteilung;
+
+- n) Verbindungen;
+
+- o) Personen- und Fahndungshinweise.
 
 <sup>4</sup> In der Regel können folgende Grunddaten über juristische Personen und andere Körperschaften und Anstalten gespeichert werden:
 
-- a) Name, Sitz, Verwaltungsdomizil und Form
-- b) Adressen, Angaben der Kommunikationsmittel
-- c) Daten über Inhaber, Vertreter und verantwortliche Personen
-- d) Angaben aus dem Handelsregister
-- e) Verbindungen
-- f) Personen- und Fahndungshinweise
+- a) Name, Sitz, Verwaltungsdomizil und Form;
+
+- b) Adressen, Angaben der Kommunikationsmittel;
+
+- c) Daten über Inhaber, Vertreter und verantwortliche Personen;
+
+- d) Angaben aus dem Handelsregister;
+
+- e) Verbindungen;
+
+- f) Personen- und Fahndungshinweise.
 
 <sup>5</sup> Angaben über die politische und religiöse Tätigkeit oder Gesinnung werden nicht gespeichert.
 
@@ -155,14 +178,21 @@ beschliesst:
 
 <sup>2</sup> Es können in der Regel folgende Angaben gespeichert werden:
 
-- a) Tatbestand, Art des Ereignisses
-- b) Tatvorgehen
-- c) Sachverhalt
-- d) Tatzusammenhang
-- e) Hinweise auf die Täterschaft
-- f) Spuren
-- g) getroffene oder zu treffende Massnahmen
-- h) Verfügungen und Registraturvermerke
+- a) Tatbestand, Art des Ereignisses;
+
+- b) Tatvorgehen;
+
+- c) Sachverhalt;
+
+- d) Tatzusammenhang;
+
+- e) Hinweise auf die Täterschaft;
+
+- f) Spuren;
+
+- g) getroffene oder zu treffende Massnahmen;
+
+- h) Verfügungen und Registraturvermerke.
 
 <sup>3</sup> Das Tatvorgehen bestimmt sich auf Grund des Polizeirapportes.
 
@@ -174,11 +204,16 @@ beschliesst:
 
 <sup>2</sup> In der Regel können folgende erkennungsdienstliche Daten gespeichert werden:
 
-- a) Abnahmestelle, Abnahmedatum und Abnahmegrund
-- b) Ausweisdaten
-- c) Fotodatum und Fotonummer
-- d) Signalement und besondere Merkmale
-- e) Profile auf bestimmte Tatvorgehen
+- a) Abnahmestelle, Abnahmedatum und Abnahmegrund;
+
+- b) Ausweisdaten;
+
+- c) Fotodatum und Fotonummer;
+
+- d) Signalement und besondere Merkmale;
+
+- e) Profile auf bestimmte Tatvorgehen;
+
 - f) Hinweise auf Fingerabdrücke, DNA-Profile, Schriftproben und Spurenvergleiche etc.
 
 #### § 12
@@ -189,10 +224,13 @@ beschliesst:
 
 <sup>2</sup> In der Regel können folgende Fahndungsdaten gespeichert werden:
 
-- a) Fahndungsauftrag und Fahndungsgrund
-- b) Fahndungshinweise
-- c) Auftraggeber
-- d) Ausschreibungsdaten und Verfalldaten
+- a) Fahndungsauftrag und Fahndungsgrund;
+
+- b) Fahndungshinweise;
+
+- c) Auftraggeber;
+
+- d) Ausschreibungsdaten und Verfalldaten.
 
 #### § 13
 
@@ -202,21 +240,21 @@ beschliesst:
 
 <sup>2</sup> In der Regel können folgende Haftdaten gespeichert werden:
 
-- a) Ein- und Austrittsdatum, Ort
-- b) Haftart, Grund, Delikt
-- c) Verfügungen und Registraturvermerke
+- a) Ein- und Austrittsdatum, Ort;
 
-## 5 Datensammlung gemäss Waffengesetzgebung
+- b) Haftart, Grund, Delikt;
+
+- c) Verfügungen und Registraturvermerke.
+
+### V. Datensammlung gemäss Waffengesetzgebung
 
 #### § 14
 
-<sup>1</sup> Die Polizei führt mittels elektronischer Datenverarbeitung eine Registratur über die von den kantonalen Behörden erteilten Bewilligungen im Bereich des Waffenrechtes gemäss dem Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz) vom 20. Juni 1997[^14-1].
+<sup>1</sup> Die Polizei führt mittels elektronischer Datenverarbeitung eine Registratur über die von den kantonalen Behörden erteilten Bewilligungen im Bereich des Waffenrechtes gemäss dem Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz) vom 20. Juni 1997 <sup>5)</sup> .
 
 <sup>2</sup> Das Register enthält die anhand der eidgenössischen Formulare erhobenen Personendaten sowie die Waffendaten.
 
-[^14-1]: SR [514.54](http://db.clex.ch/link/Bund/514.54/de).
-
-## 6 Weitere Datensammlungen und Registraturen
+### VI. Weitere Datensammlungen und Registraturen
 
 #### § 15
 
@@ -224,11 +262,11 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn die Registratur oder Datensammlung zur Erfüllung des polizeilichen Auftrages notwendig ist.
 
-## 7 Löschung von Daten
+### VII. Löschung von Daten
 
 #### § 16
 
-<sup>1</sup> Soweit diese Verordnung keine Regelung enthält, erlässt das Polizeikommando Weisungen über die Aufbewahrungsdauer von Daten.
+Soweit diese Verordnung keine Regelung enthält, erlässt das Polizeikommando Weisungen über die Aufbewahrungsdauer von Daten.
 
 #### § 17
 
@@ -252,13 +290,19 @@ beschliesst:
 
 <sup>1</sup> Geschäftsdaten werden wie folgt gelöscht:
 
-- a) nach 20 Jahren, soweit das Gesetz keine andere Regelung enthält
-- b) …
-- c) tatbestandsbezogene Daten mit bekannter Täterschaft nach 20 Jahren, sofern kein weiteres polizeiliches Interesse daran besteht
-- d) administrative Geschäftsdaten nach 10 Jahren
-- e) Geschäftsdaten von vermissten, nicht mehr aufgefundenen Personen mit dem 100. Altersjahr
+- a) nach 20 Jahren, soweit das Gesetz keine andere Regelung enthält;
+
+- b) …[^19-1]
+
+- c) tatbestandsbezogene Daten mit bekannter Täterschaft nach 20 Jahren, sofern kein weiteres polizeiliches Interesse daran besteht;
+
+- d) administrative Geschäftsdaten nach 10 Jahren;
+
+- e) Geschäftsdaten von vermissten, nicht mehr aufgefundenen Personen mit dem 100. Altersjahr.
 
 <sup>2</sup> Daten über Deliktsgut und Fundgut können so lange aufbewahrt werden, als ein polizeiliches Interesse daran besteht.
+
+[^19-1]: Aufgehoben durch RRB vom 5. Dezember 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 1935).
 
 #### § 20
 
@@ -268,7 +312,7 @@ beschliesst:
 
 <sup>2</sup> Haftdaten werden 10 Jahre nach der Entlassung aus der Haft gelöscht.
 
-## 8 Rechte der betroffenen Personen
+### VIII. Rechte der betroffenen Personen
 
 #### § 21
 
@@ -276,7 +320,7 @@ beschliesst:
 
 <sup>2</sup> Die Daten der Geschäftskontrolle können ungeachtet der Erledigung des Verfahrens nur dann vorzeitig gelöscht oder berichtigt werden, wenn ein Eintrag nicht mit dem entsprechenden Polizeirapport übereinstimmt oder der Betroffene beweisen kann, dass der Eintrag offensichtlich falsch ist.
 
-## 9 Schlussbestimmung
+### IX. Schlussbestimmung
 
 #### § 22
 
@@ -288,6 +332,15 @@ beschliesst:
 
 <sup>3</sup> Sie ersetzt die Verordnung über Registraturen bei der Kantonspolizei vom 18. Dezember 1990.
 
+Fussnoten:
+
 [^22-1]: Amtsblatt 2004, S. 293.
 
-Abl. 2004, S. 293
+## Weitere Fussnoten
+
+- [3] SHR 174.100.
+- [4] SHR 174.101.
+- [5] SR 514.54f.
+- [7] Eingefügt durch RRB vom 24. November 2009, in Kraft getreten am 1. Januar 2010 (Amtsblatt 2009, S. 1773).
+- [8] Fassung gemäss RRB vom 21. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1881).
+- [9] Eingefügt durch RRB vom 5. Dezember 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 1935).
