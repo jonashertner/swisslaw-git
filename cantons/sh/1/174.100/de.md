@@ -5,54 +5,70 @@ title: Gesetz über den Schutz von Personendaten
 short: Kantonales Datenschutzgesetz
 language: de
 version: 2021-12-01
+corrected: 2024-06-24
 version_adopted: 2021-06-14
 adopted: 1994-03-07
 in_force: 1995-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/174.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1810/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/51/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Schutz von Personendaten
+# Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz)
 
-(Kantonales Datenschutzgesetz)
+vom 7. März 1994
 
-Vom 07.03.1994 (Stand 01.12.2021)
+Der Grosse Rat des Kantons Schaffhausen
 
-Der Grosse Rat des Kantons Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Zweck, Begriffe und Geltungsbereich
+### I. Zweck, Begriffe und Geltungsbereich <sup>9)</sup>
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz dient dem Schutz der Grundrechte von Personen, über die öffentliche Organe Daten bearbeiten.
+Dieses Gesetz dient dem Schutz der Grundrechte von Personen, über die öffentliche Organe Daten bearbeiten.
 
 #### Art. 2
 
 **Begriffe**
 
-<sup>1</sup> Die folgenden Ausdrücke bedeuten:
+Die folgenden Ausdrücke bedeuten:
 
-- a) Personendaten (Daten): alle Angaben, die sich auf eine bestimmte oder bestimmbare Person beziehen
-- b) betroffene Personen: natürliche oder juristische Personen, über die Daten bearbeitet werden
-- c) öffentliche Organe: Behörden und Dienststellen des Kantons und der Gemeinden, öffentlich-rechtliche Körperschaften und Anstalten sowie Personen, soweit sie mit öffentlichen Aufgaben betraut sind
-- d) besonders schützenswerte Personendaten:
-  - 1\. Daten über die religiösen, weltanschaulichen, politischen oder gewerkschaftlichen Ansichten oder Tätigkeiten
-  - 2\. Daten über die Gesundheit, die Intimsphäre oder die ethnische Herkunft
-  - 3\. Daten über Massnahmen der sozialen Hilfe
-  - 4\. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen
-  - 5\. genetische Daten
-  - 6\. biometrische Daten
-- e) Profiling: die automatisierte Auswertung von Daten, um wesentliche persönliche Merkmale zu analysieren oder persönliche Entwicklungen vorherzusagen
-- f) Bearbeiten: jeder Umgang mit Daten, insbesondere das Beschaffen, Speichern, Aufbewahren, Verwenden, Verändern, Bekanntgeben, Archivieren, Löschen oder Vernichten von Daten
-- g) Bekanntgeben: das Zugänglichmachen von Personendaten, wie das Einsichtgewähren, Weitergeben oder Veröffentlichen
-- h) …
-- i) formelles Gesetz: kantonales Gesetz oder entsprechender, dem Referendum unterliegender Gemeindeerlass
+- a) Personendaten (Daten): alle Angaben, die sich auf eine bestimmte oder bestimmbare Person beziehen;
+
+- b) betroffene Personen: natürliche oder juristische Personen, über die Daten bearbeitet werden;
+
+- c) öffentliche Organe: Behörden und Dienststellen des Kantons und der Gemeinden, öffentlich-rechtliche Körperschaften und Anstalten sowie Personen, soweit sie mit öffentlichen Aufgaben betraut sind;
+
+- d) besonders schützenswerte Personendaten: <sup>14)</sup>
+
+- 1\. Daten über die religiösen, weltanschaulichen, politischen oder gewerkschaftlichen Ansichten oder Tätigkeiten,
+
+- 2\. Daten über die Gesundheit, die Intimsphäre oder die ethnische Herkunft,
+
+- 3\. Daten über Massnahmen der sozialen Hilfe,
+
+- 4\. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen,
+
+Amtsblatt 1995 S. 317; Rechtsbuch 1964, Nr. 7a.
+
+- 5\. genetische Daten,
+
+- 6\. biometrische Daten;
+
+- e) Profiling: die automatisierte Auswertung von Daten, um wesentliche persönliche Merkmale zu analysieren oder persönliche Entwicklungen vorherzusagen; <sup>14)</sup>
+
+- f) Bearbeiten: jeder Umgang mit Daten, insbesondere das Beschaffen, Speichern, Aufbewahren, Verwenden, Verändern, Bekanntgeben, Archivieren, Löschen oder Vernichten von Daten; <sup>14)</sup>
+
+- g) Bekanntgeben: das Zugänglichmachen von Personendaten, wie das Einsichtgewähren, Weitergeben oder Veröffentlichen;
+
+- h) … <sup>15)</sup>
+
+- i) formelles Gesetz: kantonales Gesetz oder entsprechender, dem Referendum unterliegender Gemeindeerlass.
 
 #### Art. 3
 
@@ -60,66 +76,69 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz gilt für das Bearbeiten von Personendaten durch öffentliche Organe, unabhängig von den dabei angewandten Mitteln und Verfahren.
 
-<sup>2</sup> Während hängigen Verfahren der Zivil-, Straf- und Verwaltungsrechtspflege richten sich die Rechte und Ansprüche der betroffenen Personen sowie die Einsichtsrechte Dritter nach dem anwendbaren Verfahrensrecht.
+<sup>2</sup> Während hängigen Verfahren der Zivil-, Straf- und Verwaltungsrechtspflege richten sich die Rechte und Ansprüche der betroffenen Personen sowie die Einsichtsrechte Dritter nach dem anwendbaren Verfahrensrecht. <sup>14)</sup>
 
 <sup>3</sup> Für das privatrechtliche Handeln öffentlicher Organe gelten die bundesrechtlichen Bestimmungen für das Bearbeiten von Personendaten durch private Personen.
 
-<sup>4</sup> Richterliche Behörden unterstehen nicht der Aufsichtsstelle gemäss Art. 23 ff.
+<sup>4</sup> Richterliche Behörden unterstehen nicht der Aufsichtsstelle gemäss Art. 23 ff. <sup>16)</sup>
 
-## 2 Allgemeine Datenschutzbestimmungen
+### II. Allgemeine Datenschutzbestimmungen <sup>9)</sup>
 
 #### Art. 4
 
-**Grundsätze**
+**Grundsätze 9)**
 
-<sup>1</sup> Personendaten dürfen bearbeitet werden, wenn:
+<sup>1</sup> Personendaten dürfen bearbeitet werden, wenn <sup>14)</sup> a) dafür eine gesetzliche Grundlage besteht, oder b) dies zur Erfüllung der gesetzlich umschriebenen Aufgaben geeignet und erforderlich ist oder c) die betroffene Person ausdrücklich zustimmt oder ihre Zustimmung nach den Umständen unzweifelhaft vorausgesetzt werden darf.
 
-- a) dafür eine gesetzliche Grundlage besteht oder
-- b) dies zur Erfüllung der gesetzlich umschriebenen Aufgaben geeignet und erforderlich ist oder
-- c) die betroffene Person ausdrücklich zustimmt oder ihre Zustimmung nach den Umständen unzweifelhaft vorausgesetzt werden darf
+<sup>2</sup> Das Bearbeiten von Personendaten hat nach Treu und Glauben zu erfolgen und muss verhältnismässig sein. <sup>9)</sup>
 
-<sup>2</sup> Das Bearbeiten von Personendaten hat nach Treu und Glauben zu erfolgen und muss verhältnismässig sein.
+<sup>3</sup> Personendaten müssen richtig und, soweit es der Zweck des Bearbeitens verlangt, vollständig sein. <sup>9)</sup>
 
-<sup>3</sup> Personendaten müssen richtig und, soweit es der Zweck des Bearbeitens verlangt, vollständig sein.
+<sup>4</sup> Die bearbeiteten Daten müssen zur Erreichung des Zwecks, zu dem sie bearbeitet werden, geeignet und erforderlich sein und dürfen nicht länger bearbeitet werden, als es zur Zweckerreichung erforderlich ist. <sup>9)</sup>
 
-<sup>4</sup> Die bearbeiteten Daten müssen zur Erreichung des Zwecks, zu dem sie bearbeitet werden, geeignet und erforderlich sein und dürfen nicht länger bearbeitet werden, als es zur Zweckerreichung erforderlich ist.
-
-<sup>5</sup> Personendaten dürfen nur zu dem Zweck bearbeitet werden, der bei der Beschaffung angegeben wurde, der aus den Umständen ersichtlich oder der gesetzlich vorgesehen ist.
+<sup>5</sup> Personendaten dürfen nur zu dem Zweck bearbeitet werden, der bei der Beschaffung angegeben wurde, der aus den Umständen ersichtlich oder der gesetzlich vorgesehen ist. <sup>10)</sup>
 
 #### Art. 5
 
-<sup>1</sup> Besonders schützenswerte Personendaten dürfen nur bearbeitet werden oder ein Profiling darf nur vorgenommen werden, wenn:
-
-- a) ein formelles Gesetz es ausdrücklich vorsieht oder es für eine in einem formellen Gesetz klar umschriebene Aufgabe unentbehrlich ist oder
-- b) die betroffene Person ausdrücklich zugestimmt hat oder ihre Zustimmung nach den Umständen unzweifelhaft vorausgesetzt werden darf
+Besonders schützenswerte Personendaten dürfen nur bearbeitet werden oder ein Profiling darf nur vorgenommen werden, wenn: <sup>14)</sup> a) ein formelles Gesetz es ausdrücklich vorsieht oder es für eine in einem formellen Gesetz klar umschriebene Aufgabe unentbehrlich ist oder b) die betroffene Person ausdrücklich zugestimmt hat oder ihre Zustimmung nach den Umständen unzweifelhaft vorausgesetzt werden darf. <sup>9)</sup>
 
 #### Art. 5a
 
-**Informationspflicht beim Beschaffen von Personendaten**
+<sup>14)</sup>
+
+**Informationspflicht beim Beschaffen von Personendaten 14)**
 
 <sup>1</sup> Das öffentliche Organ ist verpflichtet, die betroffene Person über die Beschaffung von Personendaten zu informieren; diese Informationspflicht gilt auch dann, wenn die Daten bei Dritten beschafft werden.
 
 <sup>2</sup> Der betroffenen Person sind mindestens mitzuteilen:
 
-- a) das verantwortliche öffentliche Organ samt Kontaktdaten
-- b) die Rechtsgrundlage und der Zweck des Bearbeitens
-- c) die Kategorien der Datenempfänger, wenn eine Datenbekanntgabe vorgesehen ist
-- d) die bearbeiteten Daten oder die Kategorien der bearbeiteten Daten
-- e) die Rechte der betroffenen Person
+- a) das verantwortliche öffentliche Organ samt Kontaktdaten;
+
+- b) die Rechtsgrundlage und der Zweck des Bearbeitens;
+
+- c) die Kategorien der Datenempfänger, wenn eine Datenbekanntgabe vorgesehen ist;
+
+- d) die bearbeiteten Daten oder die Kategorien der bearbeiteten Daten;
+
+- e) die Rechte der betroffenen Person.
 
 <sup>3</sup> Die Übermittlung der Informationen kann unter denselben Voraussetzungen eingeschränkt werden wie die Auskunft über die eigenen Daten (Art. 19).
 
 <sup>4</sup> Die Informationspflicht entfällt, wenn:
 
 - a) das Bearbeiten der Daten ausdrücklich durch das Gesetz vorgesehen ist oder
+
 - b) die Information nicht oder nur mit unverhältnismässigem Aufwand möglich ist oder
-- c) die betroffene Person bereits über die Informationen nach Abs. 2 verfügt
+
+- c) die betroffene Person bereits über die Informationen nach Abs. 2 verfügt.
 
 #### Art. 6
 
+<sup>14)</sup>
+
 **Verantwortung**
 
-<sup>1</sup> Für den Datenschutz ist jenes öffentliche Organ verantwortlich, das – alleine oder zusammen mit anderen – über den Zweck und die Mittel der Bearbeitung von Daten entscheidet.
+<sup>1</sup> Für den Datenschutz ist jenes öffentliche Organ verantwortlich, das - alleine oder zusammen mit anderen - über den Zweck und die Mittel der Bearbeitung von Daten entscheidet.
 
 <sup>2</sup> Bearbeiten mehrere öffentliche Organe Personendaten aus einem gemeinsamen Informationsbestand, ist ein öffentliches Organ zu bezeichnen, das die Hauptverantwortung für den Datenschutz trägt.
 
@@ -129,28 +148,31 @@ beschliesst:
 
 <sup>1</sup> Personendaten sind in der Regel bei der betroffenen Person selbst zu erheben.
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>15)</sup>
 
 #### Art. 8
 
-**Bekanntgabe: allgemein**
+**Bekanntgabe a) allgemein**
 
 <sup>1</sup> Personendaten dürfen von öffentlichen Organen bekanntgegeben werden, wenn:
 
-- a) dafür gesetzliche Grundlagen bestehen
-- b) der Empfänger die Daten zur Erfüllung seiner gesetzlichen Aufgaben benötigt
+- a) dafür gesetzliche Grundlagen bestehen;
+
+- b) der Empfänger die Daten zur Erfüllung seiner gesetzlichen Aufgaben benötigt;
+
 - c) die betroffene Person ausdrücklich zugestimmt hat oder ihre Zustimmung nach den Umständen vorausgesetzt werden darf oder
-- d) die betroffene Person ihre Daten allgemein zugänglich gemacht hat
+
+- d) die betroffene Person ihre Daten allgemein zugänglich gemacht hat.
 
 <sup>2</sup> Der Regierungsrat regelt die Bekanntgabe von Personendaten für Adressbücher und ähnliche Nachschlagewerke von allgemeinem Interesse.
 
-<sup>3</sup> Die Bekanntgabe von besonders schützenswerten Personendaten und Resultaten eines Profilings richtet sich nach Art. 5.
+<sup>3</sup> Die Bekanntgabe von besonders schützenswerten Personendaten und Resultaten eines Profilings richtet sich nach Art. 5. <sup>16)</sup>
 
 #### Art. 9
 
-**Bekanntgabe: durch die Führung des Einwohnerregisters**
+**b) durch die Führung des Einwohnerregisters 12)**
 
-<sup>1</sup> Die Stelle, die das Einwohnerregister führt, gibt einer privaten Person oder Organisation im Einzelfall auf Gesuch ohne Einschränkung Name, Vorname, Adresse, Datum von Zu- und Wegzug sowie Beruf einer Person bekannt.
+<sup>1</sup> Die Stelle, die das Einwohnerregister führt, gibt einer privaten Person oder Organisation im Einzelfall auf Gesuch ohne Einschränkung Name, Vorname, Adresse, Datum von Zu- und Wegzug sowie Beruf einer Person bekannt. <sup>12)</sup>
 
 <sup>2</sup> Zuzugsort und Wegzugsort, Geburtsdatum, Geschlecht, Zivilstand und Heimatort einer Person werden bekanntgegeben, wenn ein berechtigtes Interesse glaubhaft gemacht wird.
 
@@ -160,43 +182,51 @@ beschliesst:
 
 #### Art. 10
 
-**Bekanntgabe: Einschränkungen**
+**c) Einschränkungen**
 
-<sup>1</sup> Das öffentliche Organ lehnt die Bekanntgabe von Personendaten ab, schränkt sie ein oder verbindet sie mit Auflagen, wenn:
+Das öffentliche Organ lehnt die Bekanntgabe von Personendaten ab, schränkt sie ein oder verbindet sie mit Auflagen, wenn:
 
 - a) wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen einer betroffenen Person es verlangen oder
-- b) gesetzliche Geheimhaltungspflichten oder besondere Datenschutzvorschriften es verlangen
+
+- b) gesetzliche Geheimhaltungspflichten oder besondere Datenschutzvorschriften es verlangen.
 
 #### Art. 11
 
-**Bekanntgabe: Sperrung**
+**d) Sperrung**
 
 <sup>1</sup> Die betroffene Person kann vom öffentlichen Organ die Bekanntgabe ihrer Daten an private Personen und Organisationen sperren lassen.
 
 <sup>2</sup> Die Bekanntgabe ist trotz Sperrung zulässig, wenn:
 
 - a) das öffentliche Organ hiezu gesetzlich verpflichtet ist oder
-- b) der Gesuchsteller glaubhaft macht, dass ihn die Sperrung in der Verfolgung eigener Rechte gegenüber der betroffenen Person behindert
+
+- b) der Gesuchsteller glaubhaft macht, dass ihn die Sperrung in der Verfolgung eigener Rechte gegenüber der betroffenen Person behindert.
 
 #### Art. 11a
 
-**Bekanntgabe: Bekanntgabe an europäische Staaten**
+<sup>14)</sup>
 
-<sup>1</sup> Für die Bekanntgabe von Personendaten an ausländische Stellen der Europäischen Union sowie Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und des Übereinkommens des Europarates zum Schutz des Menschen bei der automatischen Verarbeitung von personenbezogenen Daten (SEV Nr. 108) gelten neben dem übergeordneten Recht und dem Staatsvertragsrecht die Bestimmungen gemäss Art. 8 ff. sinngemäss.
+**e) Bekanntgabe an europäische Staaten**
+
+Für die Bekanntgabe von Personendaten an ausländische Stellen der Europäischen Union sowie Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und des Übereinkommens des Europarates zum Schutz des Menschen bei der automatischen Verarbeitung von personenbezogenen Daten (SEV Nr. 108) gelten neben dem übergeordneten Recht und dem Staatsvertragsrecht die Bestimmungen gemäss Art. 8 ff. sinngemäss.
 
 #### Art. 11b
 
-**Bekanntgabe: Bekanntgabe von Personendaten an Drittstaaten**
+<sup>10)</sup>
 
-<sup>1</sup> An Drittstaaten dürfen Personendaten unter Vorbehalt von Art. 8 ff. nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gemäss Übereinkommen des Europarates zum Schutz des Menschen bei der automatischen Verarbeitung von personenbezogenen Daten (SEV Nr. 108) gewährleisten.
+**f) Bekanntgabe von Personendaten an Drittstaaten**
 
-<sup>2</sup> Die Angemessenheit des Datenschutzniveaus wird in Anlehnung an die Vorgaben des Bundes und unter Berücksichtigung aller Umstände beurteilt, die für die Datenübermittlung von Bedeutung sind.
+<sup>1</sup> An Drittstaaten dürfen Personendaten unter Vorbehalt von Art. 8 ff. nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gemäss Übereinkommen des Europarates zum Schutz des Menschen bei der automatischen Verarbeitung von personenbezogenen Daten (SEV Nr. 108) gewährleisten. <sup>14)</sup>
+
+<sup>2</sup> Die Angemessenheit des Datenschutzniveaus wird in Anlehnung an die Vorgaben des Bundes und unter Berücksichtigung aller Umstände beurteilt, die für die Datenübermittlung von Bedeutung sind. <sup>14)</sup>
 
 <sup>3</sup> Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten im Einzelfall bekannt gegeben werden, wenn:
 
-- a) die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein
-- b) die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen oder
-- c) die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht unerlässlich ist
+- a) die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein;
+
+- b) die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen; oder
+
+- c) die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht unerlässlich ist.
 
 <sup>4</sup> Die Übermittlung unterbleibt, soweit Grund zur Annahme besteht, dass sie gegen die schweizerische Rechtsordnung verstossen würde oder die Übermittlung der ordre public widerspricht.
 
@@ -208,24 +238,25 @@ beschliesst:
 
 <sup>1</sup> Personendaten dürfen für nicht personenbezogene Zwecke, wie die Statistik, Planung, Wissenschaft oder Forschung, bearbeitet werden, wenn:
 
-- a) die Daten anonymisiert werden, sobald es der Zweck des Bearbeitens erlaubt und
-- b) die Ergebnisse so veröffentlicht werden, dass die betreffenden Personen nicht bestimmbar sind
-- c) die Zustimmung des Datenschutzbeauftragten vorliegt
+- a) die Daten anonymisiert werden, sobald es der Zweck des Bearbeitens erlaubt, und
+
+- b) die Ergebnisse so veröffentlicht werden, dass die betreffenden Personen nicht bestimmbar sind;
+
+- c) die Zustimmung des Datenschutzbeauftragten vorliegt. <sup>10)</sup>
 
 <sup>2</sup> Das verantwortliche Organ darf Personendaten an private Personen oder Organisationen bekanntgeben, wenn zudem gewährleistet ist, dass die Personendaten nicht an Dritte weitergegeben werden und dass für die Datensicherheit gesorgt ist.
 
-<sup>3</sup> Bei der Datenbekanntgabe an Dritte ist eine Vereinbarung abzuschliessen. Es kann eine Konventionalstrafe vorgesehen werden für den Fall, dass die Datenschutzbestimmungen nicht eingehalten werden.
+<sup>3</sup> Bei der Datenbekanntgabe an Dritte ist eine Vereinbarung abzuschliessen. Es kann eine Konventionalstrafe vorgesehen werden für den Fall, dass die Datenschutzbestimmungen nicht eingehalten werden. <sup>9)</sup>
 
-<sup>4</sup> In diesen Fällen finden Art. 4 Abs. 4 sowie Art. 5 und 8 keine Anwendung.
+<sup>4</sup> In diesen Fällen finden Art. 4 Abs. 4 sowie Art. 5 und 8 keine Anwendung. <sup>10)</sup>
 
 #### Art. 13
 
+<sup>14)</sup>
+
 **Bearbeiten im Auftrag**
 
-<sup>1</sup> Das verantwortliche öffentliche Organ kann ein anderes öffentliches Organ oder Dritte mit dem Bearbeiten von Personendaten beauftragen, wenn:
-
-- a) der Übertragung keine rechtliche Bestimmung oder vertragliche Vereinbarung entgegensteht und
-- b) sichergestellt wird, dass die Daten nur so bearbeitet werden, wie es das verantwortliche öffentliche Organ tun dürfte
+<sup>1</sup> Das verantwortliche öffentliche Organ kann ein anderes öffentliches Organ oder Dritte mit dem Bearbeiten von Personendaten beauftragen, wenn a) der Übertragung keine rechtliche Bestimmung oder vertragliche Vereinbarung entgegensteht und b) sichergestellt wird, dass die Daten nur so bearbeitet werden, wie es das verantwortliche öffentliche Organ tun dürfte.
 
 <sup>2</sup> Der Datenschutz ist durch Vereinbarung, Auflagen oder auf andere Weise sicherzustellen. Der Regierungsrat regelt das Nähere durch Verordnung.
 
@@ -235,13 +266,15 @@ beschliesst:
 
 #### Art. 14
 
-**Informationssicherheit**
+**Informationssicherheit 14)**
 
 <sup>1</sup> Personendaten sind durch angemessene technische und organisatorische Massnahmen vor Verlust, Entwendung und unbefugtem Bearbeiten zu schützen.
 
-<sup>2</sup> Das öffentliche Organ muss nachweisen können, dass es die Datenschutzbestimmungen einhält. Der Regierungsrat regelt das Nähere durch Verordnung.
+<sup>2</sup> Das öffentliche Organ muss nachweisen können, dass es die Datenschutzbestimmungen einhält. Der Regierungsrat regelt das Nähere durch Verordnung. <sup>16)</sup>
 
 #### Art. 14a
+
+<sup>16)</sup>
 
 **Meldung von Datenschutzverletzungen**
 
@@ -257,6 +290,8 @@ beschliesst:
 
 #### Art. 14b
 
+<sup>16)</sup>
+
 **Datenschutz-Folgenabschätzung**
 
 <sup>1</sup> Beabsichtigt das öffentliche Organ eine Bearbeitung von Personendaten, die voraussichtlich ein erhöhtes Risiko für die Grundrechte der betroffenen Person mit sich bringt, führt es eine Datenschutz-Folgenabschätzung durch.
@@ -265,41 +300,55 @@ beschliesst:
 
 #### Art. 14c
 
+<sup>16)</sup>
+
 **Vorabkonsultation**
 
 <sup>1</sup> Ergibt sich aus der Datenschutz-Folgenabschätzung, dass die geplante Bearbeitung ein hohes Risiko für die Grundrechte der betroffenen Person zur Folge hat, so holt das öffentliche Organ vorgängig die Stellungnahme der Aufsichtsstelle ein.
 
 <sup>2</sup> Die Aufsichtsstelle teilt dem öffentlichen Organ innert angemessener Frist allfällige Einwände gegen die geplante Bearbeitung mit. Sie kann Massnahmen nach Art. 26 ergreifen.
 
-## 3
+### III. <sup>15)</sup>
 
-#### Art. 15–16a
+#### Art. 15
 
-**…**
+<sup>15)</sup>
+
+#### Art. 16
+
+<sup>15)</sup>
+
+#### Art. 16a
+
+<sup>15)</sup>
 
 #### Art. 17
 
 **Vernichtung und Archivierung**
 
-<sup>1</sup> Nicht mehr benötigte Personendaten sind zu vernichten. Vorbehalten bleiben die Vorschriften über die Archivierung[^17-1].
+<sup>1</sup> Nicht mehr benötigte Personendaten sind zu vernichten. Vorbehalten bleiben die Vorschriften über die Archivierung <sup>1)</sup>. <sup>14)</sup>
 
 <sup>2</sup> Der Regierungsrat erlässt Vorschriften über die kantonalen öffentlichen Archive. Diese gelten sinngemäss für die anderen Gemeinwesen, sofern diese nicht eigene Bestimmungen erlassen. Der Regierungsrat kann die Bearbeitung besonders schützenswerter Personendaten abweichend von Art. 5 regeln.
 
-<sup>3</sup> Die Vernichtung nicht mehr benötigter Personendaten ist aufzuschieben, solange berechtigter Grund zu der Annahme besteht, dass eine Löschung die schutzwürdigen Interessen der betroffenen Person beeinträchtigen würde.
-
-[^17-1]: SHR [172.301](https://rechtsbuch.sh.ch/data/172.301/de).
+<sup>3</sup> Die Vernichtung nicht mehr benötigter Personendaten ist aufzuschieben, solange berechtigter Grund zu der Annahme besteht, dass eine Löschung die schutzwürdigen Interessen der betroffenen Person beeinträchtigen würde. <sup>13)</sup>
 
 #### Art. 17a
 
+<sup>16)</sup>
+
 **Information der Empfänger von Personendaten**
 
-<sup>1</sup> Das öffentliche Organ informiert die Empfängerinnen und Empfänger von Personendaten über jede Berichtigung, Löschung oder Vernichtung von Personendaten sowie über Vermerke gemäss Art. 20 Abs. 3, sofern anzunehmen ist, dass die Daten durch die Empfängerinnen und Empfänger noch bearbeitet werden.
+<sup>1</sup> Das öffentliche Organ informiert die Empfängerinnen und Empfänger von Personendaten über jede Berichtigung, Löschung oder Vernichtung von Personendaten sowie über Vermerke gemäss Art.
+
+20 Abs. 3, sofern anzunehmen ist, dass die Daten durch die Empfängerinnen und Empfänger noch bearbeitet werden.
 
 <sup>2</sup> Von der Mitteilung kann abgesehen werden, soweit sie nur mit unverhältnismässigem Aufwand möglich ist.
 
 #### Art. 17b
 
-**Strafverfolgung und Justizvollzug: Register**
+<sup>16)</sup>
+
+**Strafverfolgung und Justizvollzug a) Register**
 
 <sup>1</sup> Die Polizei, die Staatsanwaltschaft und die Justizvollzugsbehörde führen öffentliche Register über die Datenbearbeitungstätigkeiten in ihren Zuständigkeitsbereichen.
 
@@ -307,46 +356,51 @@ beschliesst:
 
 #### Art. 17c
 
-**Strafverfolgung und Justizvollzug: Datenschutzberatung**
+<sup>16)</sup>
+
+**b) Datenschutzberatung**
 
 <sup>1</sup> Die Polizei, die Staatsanwaltschaft und die Justizvollzugsbehörde benennen innerhalb ihrer Organisation eine für den Datenschutz zuständige Person.
 
 <sup>2</sup> Diese hat folgende Aufgaben:
 
-- a) sie berät und unterstützt die Mitarbeitenden bei der Bearbeitung von Personendaten hinsichtlich der Einhaltung der Datenschutzvorschriften und der Datensicherheit
-- b) sie nimmt Datenschutz-Folgenabschätzungen gemäss Art. 14b vor
+- a) sie berät und unterstützt die Mitarbeitenden bei der Bearbeitung von Personendaten hinsichtlich der Einhaltung der Datenschutzvorschriften und der Datensicherheit;
+
+- b) sie nimmt Datenschutz-Folgenabschätzungen gemäss Art. 14b vor;
+
 - c) sie ist Ansprechperson der Aufsichtsstelle gemäss Art. 23 ff.
 
-## 4 Rechte der betroffenen Personen
+### IV. Rechte der betroffenen Personen
 
 #### Art. 18
 
-**Auskunftsrecht: Grundsatz der Transparenz und Informationsanspruch**
+<sup>9)</sup>
 
-<sup>1</sup> …
+**Auskunftsrecht; a) Grundsatz der Transparenz und Informationsanspruch 14)**
 
-<sup>2</sup> Jede Person erhält auf Verlangen in allgemein verständlicher Form Auskunft darüber, ob und wenn ja welche Daten über sie von einem öffentlichen Organ bearbeitet werden. Die Auskunft erfolgt in der Regel schriftlich. Sie enthält mindestens die Angaben nach Art. 5a Abs. 2 sowie Angaben über die Aufbewahrungsdauer und Herkunft der Daten. Auf Wunsch werden im Rahmen des Auskunftsrechts die Belege als Ausdruck, Kopie oder in elektronischer Form abgegeben.
+<sup>1</sup> … <sup>15)</sup>
 
-<sup>2<sup>bis</sup></sup> Von der Auskunftspflicht ausgenommen sind Daten, die ausschliesslich als persönliche Arbeitsmittel dienen, namentlich persönliche Notizen.
+<sup>2</sup> Jede Person erhält auf Verlangen in allgemein verständlicher Form Auskunft darüber, ob und wenn ja welche Daten über sie von einem öffentlichen Organ bearbeitet werden. Die Auskunft erfolgt in der Regel schriftlich. Sie enthält mindestens die Angaben nach Art. 5a Abs. 2 sowie Angaben über die Aufbewahrungsdauer und Herkunft der Daten. Auf Wunsch werden im Rahmen des Auskunftsrechts die Belege als Ausdruck, Kopie oder in elektronischer Form abgegeben. <sup>14)</sup>
 
-<sup>3</sup> Die Auskunft erfolgt in der Regel kostenlos. Eine angemessene Gebühr kann unter vorgängiger Bekanntgabe der Höhe verlangt werden, wenn:
+<sup>2bis</sup> Von der Auskunftspflicht ausgenommen sind Daten, die ausschliesslich als persönliche Arbeitsmittel dienen, namentlich persönliche Notizen. <sup>16)</sup>
 
-- a) zum Schutz berechtigter Interessen Dritter administrativ aufwendige Massnahmen zu treffen sind
-- b) der Antrag rechtsmissbräuchlich ist, namentlich bei exzessiven Anträgen in derselben Angelegenheit
+<sup>3</sup> Die Auskunft erfolgt in der Regel kostenlos. Eine angemessene Gebühr kann unter vorgängiger Bekanntgabe der Höhe verlangt werden, wenn: <sup>14)</sup> a) zum Schutz berechtigter Interessen Dritter administrativ aufwendige Massnahmen zu treffen sind;
+
+- b) der Antrag rechtsmissbräuchlich ist, namentlich bei exzessiven Anträgen in derselben Angelegenheit.
 
 #### Art. 19
 
-**Auskunftsrecht: Einschränkung**
+**b) Einschränkung**
 
 <sup>1</sup> Die Auskunft kann aufgeschoben, eingeschränkt oder verweigert werden, wenn eine gesetzliche Bestimmung, überwiegende öffentliche oder schutzwürdige Interessen von Dritten dies erfordern.
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>15)</sup>
 
 #### Art. 20
 
 **Berichtigung**
 
-<sup>1</sup> Unrichtige Personendaten sind auf Verlangen kostenlos innert einer angemessenen Frist zu berichtigen.
+<sup>1</sup> Unrichtige Personendaten sind auf Verlangen kostenlos innert einer angemessenen Frist zu berichtigen. <sup>14)</sup>
 
 <sup>2</sup> Bestreitet das verantwortliche Organ die Unrichtigkeit, obliegt ihm der Beweis für die Richtigkeit der Personendaten, wenn der Gegenbeweis dem Gesuchsteller nicht ohne weiteres zumutbar ist.
 
@@ -356,11 +410,11 @@ beschliesst:
 
 **Unterlassungsanspruch und andere Rechte**
 
-<sup>1</sup> Wer ein schutzwürdiges Interesse dartut, kann vom verantwortlichen Organ verlangen, dass es:
+Wer ein schutzwürdiges Interesse dartut, kann vom verantwortlichen Organ verlangen, dass es a) ein widerrechtliches Bearbeiten von Personendaten unterlässt;
 
-- a) ein widerrechtliches Bearbeiten von Personendaten unterlässt
-- b) Personendaten, die widerrechtlich erhoben, aufbewahrt oder verwendet worden sind, vernichtet oder sonstwie die Folgen des widerrechtlichen Bearbeitens beseitigt werden
-- c) die Widerrechtlichkeit des Bearbeitens feststellt
+- b) Personendaten, die widerrechtlich erhoben, aufbewahrt oder verwendet worden sind, vernichtet oder sonstwie die Folgen des widerrechtlichen Bearbeitens beseitigt werden;
+
+- c) die Widerrechtlichkeit des Bearbeitens feststellt.
 
 #### Art. 22
 
@@ -368,58 +422,61 @@ beschliesst:
 
 <sup>1</sup> Entspricht ein Organ einem Begehren aufgrund dieses Gesetzes nicht, erlässt es einen begründeten Entscheid.
 
-<sup>2</sup> Gegen diese Entscheide kann innert 20 Tagen Rekurs gemäss Art. 16 ff. des Gesetzes über den Rechtsschutz in Verwaltungssachen[^22-1] erhoben werden. Für die öffentlich-rechtlich anerkannten kirchlichen Körperschaften und ihre Anstalten gelten deren Organisationsbestimmungen.
+<sup>2</sup> Gegen diese Entscheide kann innert 20 Tagen Rekurs gemäss Art. 16ff. des Gesetzes über den Rechtsschutz in Verwaltungssachen <sup>2)</sup> erhoben werden. Für die öffentlich-rechtlich anerkannten kirchlichen Körperschaften und ihre Anstalten gelten deren Organisationsbestimmungen.
 
-[^22-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
-
-## 5 Aufsicht
+### V. Aufsicht
 
 #### Art. 23
 
-**Aufsichtsstelle: Kanton**
+<sup>9)</sup>
+
+**Aufsichtsstelle a) Kanton**
 
 <sup>1</sup> Der Regierungsrat wählt als verwaltungsunabhängige Aufsichtsstelle eine kantonale Datenschutzbeauftragte oder einen kantonalen Datenschutzbeauftragten mit entsprechender fachlicher Qualifikation für eine Amtsdauer von vier Jahren.
 
-<sup>1<sup>bis</sup></sup> Der oder die kantonale Datenschutzbeauftragte darf kein anderes öffentliches Amt und keine Funktion ausüben, welche Interessenkonflikte befürchten lässt.
+<sup>1bis</sup> Der oder die kantonale Datenschutzbeauftragte darf kein anderes öffentliches Amt und keine Funktion ausüben, welche Interessenkonflikte befürchten lässt. <sup>16)</sup>
 
-<sup>2</sup> Eine Abberufung ist nur zulässig bei:
-
-- a) vorsätzlicher oder grobfährlässiger Verletzung der Amtspflichten in schwerer Weise oder
-- b) dauerndem Verlust der Amtsfähigkeit
+<sup>2</sup> Eine Abberufung ist nur zulässig bei: <sup>14)</sup> a) vorsätzlicher oder grobfährlässiger Verletzung der Amtspflichten in schwerer Weise; oder b) dauerndem Verlust der Amtsfähigkeit.
 
 <sup>3</sup> Die Aufsichtsstelle erfüllt ihre Aufgaben in völliger Unabhängigkeit; sie verfügt über ein eigenes Budget.
 
-<sup>3<sup>bis</sup></sup> Die Wahlbehörde kann bei Bedarf Kooperationen mit Aufsichtsstellen anderer Kantone oder die Anstellung von Fachpersonal genehmigen.
+<sup>3bis</sup> Die Wahlbehörde kann bei Bedarf Kooperationen mit Aufsichtsstellen anderer Kantone oder die Anstellung von Fachpersonal genehmigen. <sup>16)</sup>
 
 <sup>4</sup> Vorbehältlich der nachfolgenden Bestimmungen wird das Nähere in einer Verordnung festgelegt.
 
 #### Art. 24
 
-**Aufsichtsstelle: Gemeinden und öffentliche Einrichtungen**
+**b) Gemeinden und öffentliche Einrichtungen**
 
-<sup>1</sup> Der Regierungsrat kann die Gemeinden und öffentlichen Einrichtungen ermächtigen, eine eigene Aufsichtsstelle einzurichten. Besteht keine solche, ist die kantonale Aufsichtsstelle zuständig.
+Der Regierungsrat kann die Gemeinden und öffentlichen Einrichtungen ermächtigen, eine eigene Aufsichtsstelle einzurichten. Besteht keine solche, ist die kantonale Aufsichtsstelle zuständig.
 
 #### Art. 25
 
 **Aufgaben**
 
-<sup>1</sup> Die Aufsichtsstelle:
+<sup>1</sup> Die Aufsichtsstelle a) überwacht die Einhaltung der Datenschutzvorschriften;
 
-- a) überwacht die Einhaltung der Datenschutzvorschriften
-- b) erteilt den betroffenen Personen Auskunft über ihre Rechte
-- c) vermittelt zwischen verantwortlichen Organen und betroffenen Personen
-- d) behandelt Eingaben von betroffenen Personen und gibt Empfehlungen gemäss Art. 26 Abs. 2 ab
-- e) berät die verantwortlichen Organe in Fragen des Datenschutzes und der Datensicherheit, nimmt Stellung zu Erlassen, die für den Datenschutz erheblich sind und ist nach eigenem Ermessen berechtigt, diese Stellungnahmen zu veröffentlichen
-- f) arbeitet zur Erfüllung der Kontrollaufgabe mit den Kontrollorganen der anderen Kantone, des Bundes und des Auslandes zusammen
-- g) ist kantonales Kontrollorgan bei der bundesrechtlichen Aufgabenerfüllung im Sinne der Bundesdatenschutzgesetzgebung[^25-1]
-- h) sensibilisiert die öffentlichen Organe für ihre datenschutzrechtlichen Pflichten und die Öffentlichkeit für die Anliegen des Datenschutzes
-- i) verfolgt die für den Schutz von Personendaten massgeblichen Entwicklungen
+- b) erteilt den betroffenen Personen Auskunft über ihre Rechte;
+
+- c) vermittelt zwischen verantwortlichen Organen und betroffenen Personen;
+
+- d) behandelt Eingaben von betroffenen Personen und gibt Empfehlungen gemäss Art. 26 Abs. 2 ab; <sup>9)</sup>
+
+- e) berät die verantwortlichen Organe in Fragen des Datenschutzes und der Datensicherheit, nimmt Stellung zu Erlassen, die für den Datenschutz erheblich sind und ist nach eigenem Ermessen berechtigt, diese Stellungnahmen zu veröffentlichen; <sup>10)</sup>
+
+- f) arbeitet zur Erfüllung der Kontrollaufgabe mit den Kontrollorganen der anderen Kantone, des Bundes und des Auslandes zusammen; <sup>10)</sup>
+
+- g) ist kantonales Kontrollorgan bei der bundesrechtlichen Aufgabenerfüllung im Sinne der Bundesdatenschutzgesetzgebung <sup>11)</sup>; <sup>10)</sup>
+
+- h) sensibilisiert die öffentlichen Organe für ihre datenschutzrechtlichen Pflichten und die Öffentlichkeit für die Anliegen des Datenschutzes; <sup>16)</sup>
+
+- i) verfolgt die für den Schutz von Personendaten massgeblichen Entwicklungen. <sup>16)</sup>
 
 <sup>2</sup> Über ihre Tätigkeit erstattet sie dem Wahlorgan jährlich oder nach Bedarf Bericht. Diese Berichte werden unverändert veröffentlicht.
 
-[^25-1]: SR [235.1](http://db.clex.ch/link/Bund/235.1/de).
-
 #### Art. 26
+
+<sup>9)</sup>
 
 **Befugnisse**
 
@@ -429,13 +486,15 @@ beschliesst:
 
 <sup>3</sup> Das verantwortliche Organ nimmt innert 30 Tagen zur Empfehlung Stellung. Diese ist an keine Form gebunden. Lehnt es die Empfehlung teilweise oder vollständig ab, so kann die Aufsichtsstelle eine Empfehlung in der Form einer begründeten Verfügung erlassen.
 
-<sup>4</sup> Die Aufsichtsstelle kann zudem:
+<sup>4</sup> Die Aufsichtsstelle kann zudem a) ein vorläufiges Verbot einer Datenverarbeitung anordnen;
 
-- a) ein vorläufiges Verbot einer Datenverarbeitung anordnen
-- b) die Sperrung, Löschung oder Vernichtung von Daten anordnen
-- c) dem Regierungsrat oder dem Kantonsrat über datenschutzrelevante Mängel oder bei Verletzung von datenschutzrechtlichen Vorschriften Bericht erstatten
+- b) die Sperrung, Löschung oder Vernichtung von Daten anordnen;
+
+- c) dem Regierungsrat oder dem Kantonsrat über datenschutzrelevante Mängel oder bei Verletzung von datenschutzrechtlichen Vorschriften Bericht erstatten.
 
 #### Art. 26a
+
+<sup>10)</sup>
 
 **Rechtsmittel**
 
@@ -447,9 +506,11 @@ beschliesst:
 
 #### Art. 26b
 
+<sup>10)</sup>
+
 **Beschwerde- und Anzeigebefugnis**
 
-<sup>1</sup> Stellt die Aufsichtsstelle grobe Verletzungen von Datenschutzvorschriften durch ein öffentliches Organ fest, so erhebt sie Aufsichtsbeschwerde gemäss Art. 30 f. des Verwaltungsrechtspflegegesetzes.
+<sup>1</sup> Stellt die Aufsichtsstelle grobe Verletzungen von Datenschutzvorschriften durch ein öffentliches Organ fest, so erhebt sie Aufsichtsbeschwerde gemäss Art. 30 f. des Verwaltungsrechtspflegegesetzes. <sup>14)</sup>
 
 <sup>2</sup> Ergeben sich Hinweise auf eine strafbare Handlung, meldet die Aufsichtsstelle dies den Strafverfolgungsbehörden.
 
@@ -459,35 +520,33 @@ beschliesst:
 
 <sup>1</sup> Die bei der Aufsichtsstelle tätigen Personen sind hinsichtlich Personendaten, die sie bei ihrer Tätigkeit zur Kenntnis nehmen, zur gleichen Verschwiegenheit verpflichtet wie das bearbeitende Organ.
 
-<sup>2</sup> Im Übrigen sind sie zur Verschwiegenheit verpflichtet, wenn die Natur der Angelegenheit oder besondere Geheimhaltungsvorschriften es erfordern.
+<sup>2</sup> Im übrigen sind sie zur Verschwiegenheit verpflichtet, wenn die Natur der Angelegenheit oder besondere Geheimhaltungsvorschriften es erfordern.
 
 <sup>3</sup> Die Schweigepflicht gilt auch nach Beendigung des Amts- oder Dienstverhältnisses.
 
-## 6 Straf- und Schlussbestimmungen
+### VI. Straf- und Schlussbestimmungen
 
 #### Art. 28
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer als beauftragte Person für das Bearbeiten von Persondendaten gemäss Art. 13 ohne anderslautende ausdrückliche Ermächtigung des auftraggebenden Organs Personendaten für sich oder andere verwendet oder anderen bekanntgibt, wird mit Busse bestraft.
+Wer als beauftragte Person für das Bearbeiten von Persondendaten gemäss Art. 13 ohne anderslautende ausdrückliche Ermächtigung des auftraggebenden Organs Personendaten für sich oder andere verwendet oder anderen bekanntgibt, wird mit Busse <sup>8)</sup> bestraft.
 
 #### Art. 29
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Der Art. 169 des Gesetzes über das Gemeindewesen für den Kanton Schaffhausen (Gemeindegesetz) vom 9. Juli 1892[^29-1] wird aufgehoben.
-
-[^29-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
+Der Art. 169 des Gesetzes über das Gemeindewesen für den Kanton Schaffhausen (Gemeindegesetz) vom 9. Juli 1892 <sup>4)</sup> wird aufgehoben.
 
 #### Art. 30
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Innert einem Jahr nach Inkrafttreten dieses Gesetzes haben die verantwortlichen Organe für bestehende Datensammlungen:
+<sup>1</sup> Innert einem Jahr nach Inkrafttreten dieses Gesetzes haben die verantwortlichen Organe für bestehende Datensammlungen a) die Registrierung vorzunehmen;
 
-- a) die Registrierung vorzunehmen
-- b) den Zeitpunkt für die Vernichtung der Daten festzulegen
-- c) die Massnahmen zur Datensicherung zu ergreifen
+- b) den Zeitpunkt für die Vernichtung der Daten festzulegen;
+
+- c) die Massnahmen zur Datensicherung zu ergreifen.
 
 <sup>2</sup> Auf begründetes Gesuch hin kann der Regierungsrat diese Übergangsfrist um höchstens ein Jahr verlängern.
 
@@ -495,11 +554,36 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^31-1].
+<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft <sup>5)</sup>.
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^31-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>6)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^31-1]: In Kraft getreten am 1. April 1995.
-[^31-2]: Amtsblatt 1995, S. 317.
+Fussnoten:
 
-Abl. 1995 S. 317
+- 1) SHR 172.301.
+
+- 2) SHR 172.200.
+
+- 4) SHR 120.100.
+
+- 5) In Kraft getreten am 1. April 1995.
+
+- 6) Amtsblatt 1995, S. 317.
+
+- 8) Fassung gemäss G vom 3. Juli 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 913, S. 1545).
+
+- 9) Fassung gemäss G vom 7. Mai 2007, in Kraft getreten am 1. September 2007 (Amtsblatt 2007, S. 677, S. 1194).
+
+- 10) Eingefügt durch G vom 7. Mai 2007, in Kraft getreten am 1. September 2007 (Amtsblatt 2007, S. 677, S. 1194).
+
+- 11) SR 235.1.
+
+- 12) Fassung gemäss G vom 27. Oktober 2008, in Kraft getreten am 1. April 2009 (Amtsblatt 2008, S. 1591, 2009, S. 290).
+
+- 13) Eingefügt durch G vom 2. April 2012, in Kraft getreten am 1. Novlember 2012 (Amtsblatt 2012, S. 493, S. 1580).
+
+- 14) Fassung gemäss G vom 14. Juni 2021, in Kraft getreten am 1. Dezember 2021 (Amtsblatt 2021, S. 1091, S. 2130).
+
+- 15) Aufgehoben durch G vom 14. Juni 2021, in Kraft getreten am 1. Dezember 2021 (Amtsblatt 2021, S. 1091, S. 2130).
+
+- 16) Eingefügt durch G vom 14. Juni 2021, in Kraft getreten am 1. Dezember 2021 (Amtsblatt 2021, S. 1091, S. 2130).
