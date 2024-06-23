@@ -4,34 +4,36 @@ number: "341.202"
 title: Hausordnung für das kantonale Gefängnis
 language: de
 version: 2011-01-01
+corrected: 2024-06-24
 version_adopted: 2010-12-21
 adopted: 2007-11-16
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/341.202"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1749/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/212/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Hausordnung für das kantonale Gefängnis
 
-Vom 16.11.2007 (Stand 01.01.2011)
+vom 16. November 2007
 
 Das Volkswirtschaftsdepartement,
 
 gestützt auf § 56 der Justizvollzugsverordnung (JVV) vom 19. Dezember 2006,
 
-beschliesst:
+verordnet:
 
-## 1 Geschlossener Strafvollzug und Freiheitsentzug im Bereich des Jugendstrafrechts
+### I. Geschlossener Strafvollzug und Freiheitsentzug im Bereich des Jugendstrafrechts
 
-### 1.1 Aufnahme und Entlassung
+### A. Aufnahme und Entlassung
 
 #### § 1
 
 **Aufnahme**
 
-<sup>1</sup> Beim Eintrittsgespräch orientiert die Gefängnisverwaltung die eingewiesene Person über ihre Rechte und Pflichten und gibt die Hausordnung, die Justizvollzugsverordnung und allfällige Merkblätter ab.
+Beim Eintrittsgespräch orientiert die Gefängnisverwaltung die eingewiesene Person über ihre Rechte und Pflichten und gibt die Hausordnung, die Justizvollzugsverordnung und allfällige Merkblätter ab.
 
 #### § 2
 
@@ -41,13 +43,15 @@ beschliesst:
 
 <sup>2</sup> Mitgebrachte Gegenstände werden in die Zelle gegeben, sofern dadurch Sicherheit und Ordnung im Gefängnis nicht beeinträchtigt sind.
 
+Amtsblatt 2007, S.1713
+
 #### § 3
 
 **Entlassung**
 
-<sup>1</sup> Die Entlassung erfolgt nach Ablauf der Strafdauer oder gestützt auf eine Verfügung der Vollzugsbehörde durch die Gefängnisverwaltung. Das Gesuch um bedingte Entlassung hat die eingewiesene Person bei der Gefängnisverwaltung frühzeitig, in der Regel 1 Monat vor dem voraussichtlichen Entlassungstermin, schriftlich einzureichen. Erfolgt kein Gesuch, stellt die Gefängnisverwaltung den Antrag zuhanden der Vollzugsbehörde von Amtes wegen. Es kann schriftlich auf einen Antrag verzichtet werden.
+Die Entlassung erfolgt nach Ablauf der Strafdauer oder gestützt auf eine Verfügung der Vollzugsbehörde durch die Gefängnisverwaltung. Das Gesuch um bedingte Entlassung hat die eingewiesene Person bei der Gefängnisverwaltung frühzeitig, in der Regel 1 Monat vor dem voraussichtlichen Entlassungstermin, schriftlich einzureichen. Erfolgt kein Gesuch, stellt die Gefängnisverwaltung den Antrag zuhanden der Vollzugsbehörde von Amtes wegen. Es kann schriftlich auf einen Antrag verzichtet werden.
 
-### 1.2 Unterbringung
+### B. Unterbringung
 
 #### § 4
 
@@ -89,11 +93,13 @@ beschliesst:
 
 <sup>2</sup> Sie kann geeignete Sicherungsmassnahmen treffen, wie:
 
-- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist
-- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien
-- c) Unterbringung in einer hierfür eingerichteten Zelle
+- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist;
 
-### 1.3 Tagesordnung und Arbeit
+- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien;
+
+- c) Unterbringung in einer hierfür eingerichteten Zelle.
+
+### C. Tagesordnung und Arbeit
 
 #### § 8
 
@@ -101,11 +107,13 @@ beschliesst:
 
 <sup>1</sup> In der Regel gilt folgende Tagesordnung:
 
-- a) 06:15: Tagwache, Körperpflege, Frühstück, Zellenordnung
-- b) 07:00: Arbeitsbeginn respektive Spaziergang
-- c) 11:30: Mittagessen
-- d) 13:30: Arbeitsbeginn
-- e) 17:00: Nachtessen
+06.15 Tagwache, Körperpflege, Frühstück, Zellenordnung; 07.00 Arbeitsbeginn respektive Spaziergang;
+
+11.30 Mittagessen;
+
+13.30 Arbeitsbeginn;
+
+17.00 Nachtessen.
 
 <sup>2</sup> An den Wochenenden und an allgemeinen Feiertagen können sich die Zeiten verschieben.
 
@@ -119,7 +127,7 @@ beschliesst:
 
 <sup>3</sup> Die Betriebs- und Unfallverhütungsvorschriften sind einzuhalten.
 
-### 1.4 Freizeit
+### D. Freizeit
 
 #### § 10
 
@@ -131,9 +139,11 @@ beschliesst:
 
 <sup>3</sup> Die eingewiesenen Personen haben die Anweisungen der Gefängnisverwaltung zu befolgen. Insbesondere sind untersagt:
 
-- a) das Herumwerfen von Gegenständen
-- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs
-- c) das Betreten des Arbeitsbereichs
+- a) das Herumwerfen von Gegenständen;
+
+- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs;
+
+- c) das Betreten des Arbeitsbereichs.
 
 <sup>4</sup> Bei Nichtbefolgen der Anweisungen kann der Spaziergang abgebrochen werden.
 
@@ -167,15 +177,15 @@ beschliesst:
 
 **Hobbys**
 
-<sup>1</sup> Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
+Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
 
 #### § 15
 
 **Ausgang und Urlaub**
 
-<sup>1</sup> Gesuche sind unter Verwendung des Formulars bei der Gefängnisverwaltung frühzeitig, in der Regel 14 Tage vorher, schriftlich einzureichen. Unvollständige Gesuche werden zurückgewiesen.
+Gesuche sind unter Verwendung des Formulars bei der Gefängnisverwaltung frühzeitig, in der Regel 14 Tage vorher, schriftlich einzureichen. Unvollständige Gesuche werden zurückgewiesen.
 
-### 1.5 Post, Telefon und Besuche
+### E. Post, Telefon und Besuche
 
 #### § 16
 
@@ -205,7 +215,7 @@ beschliesst:
 
 **Stimm- und Wahlrecht**
 
-<sup>1</sup> Die eingewiesenen Personen können auf Wunsch das Stimm- und Wahlrecht auf schriftlichem Weg ausüben. Die Stimm- und Wahlunterlagen sind von der eingewiesenen Person selbst rechtzeitig anzufordern.
+Die eingewiesenen Personen können auf Wunsch das Stimm- und Wahlrecht auf schriftlichem Weg ausüben. Die Stimm- und Wahlunterlagen sind von der eingewiesenen Person selbst rechtzeitig anzufordern.
 
 #### § 19
 
@@ -219,7 +229,7 @@ beschliesst:
 
 <sup>4</sup> Über Lockerungen bei Jugendlichen entscheidet die Gefängnisverwaltung.
 
-### 1.6 Einkäufe und Verpflegung
+### F. Einkäufe und Verpflegung
 
 #### § 20
 
@@ -251,13 +261,13 @@ beschliesst:
 
 <sup>3</sup> Bei Nichteinhaltung dieser Sicherheitsbestimmung werden die Rauchwaren eingezogen und nur noch für den Spaziergang abgegeben.
 
-### 1.7 Gesundheit und Betreuung
+### G. Gesundheit und Betreuung
 
 #### § 23
 
 **Körperpflege**
 
-<sup>1</sup> Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
+Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
 
 #### § 24
 
@@ -273,7 +283,7 @@ beschliesst:
 
 **Seelsorge**
 
-<sup>1</sup> Die Gefängnisseelsorgerinnen und ‑seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
+<sup>1</sup> Die Gefängnisseelsorgerinnen und -seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
 
 <sup>2</sup> Der Wunsch auf Aussprache mit der Seelsorgerin bzw. dem Seelsorger ist an die Gefängnisverwaltung zu richten. Sie dürfen nicht Übermittler von Nachrichten zwischen den eingewiesenen Personen und Drittpersonen sein.
 
@@ -291,25 +301,27 @@ beschliesst:
 
 **Aussprache mit der Gefängnisleitung**
 
-<sup>1</sup> Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
+Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
 
-## 2 Polizeihaft (vorläufige Festnahme), Untersuchungshaft, Sicherheitshaft und Auslieferungshaft
+### II. Polizeihaft (vorläufige Festnahme), Untersuchungshaft, Sicherheitshaft und Auslieferungshaft <sup>3)</sup>
 
-### 2.1 Zuständigkeitsordnung
+### A. Zuständigkeitsordnung
 
 #### § 28
 
 **Zuständigkeit der Gefängnisverwaltung**
 
-<sup>1</sup> Sofern durch eine Anordnung der Verfahrensleitung die Sicherheit des Gefängnisbetriebs gefährdet ist, nimmt die Gefängnisverwaltung mit der Verfahrensleitung Rücksprache.
+Sofern durch eine Anordnung der Verfahrensleitung die Sicherheit des Gefängnisbetriebs gefährdet ist, nimmt die Gefängnisverwaltung mit der Verfahrensleitung Rücksprache.
 
-### 2.2 Aufnahme und Entlassung
+### B. Aufnahme und Entlassung
 
 #### § 29
 
 **Aufnahme**
 
 <sup>1</sup> Vor dem Eintritt ins Gefängnis erfolgt eine gründliche Durchsuchung durch die Polizei.
+
+**Zellenordnung**
 
 <sup>2</sup> Beim Eintrittsgespräch orientiert die Gefängnisverwaltung die eingewiesene Person über ihre Rechte und Pflichten und gibt die Hausordnung, die Justizvollzugsverordnung und allfällige Merkblätter ab.
 
@@ -325,9 +337,9 @@ beschliesst:
 
 **Entlassung**
 
-<sup>1</sup> Die Entlassung erfolgt gestützt auf eine Verfügung der Verfahrensleitung durch die Polizei.
+Die Entlassung erfolgt gestützt auf eine Verfügung der Verfahrensleitung durch die Polizei.
 
-### 2.3 Unterbringung
+### C. Unterbringung
 
 #### § 32
 
@@ -342,8 +354,6 @@ beschliesst:
 <sup>4</sup> Die Kosten des Ersatzes von mutwillig beschädigten Wäsche- und Kleidungsstücken werden der fehlbaren Person belastet.
 
 #### § 33
-
-**Zellenordnung**
 
 <sup>1</sup> Die eingewiesene Person ist zur Aufrechterhaltung einer guten Ordnung in der Zelle verpflichtet. Das Verkleben und Beschreiben von Zellenwänden und Mobiliar ist, ausser der dafür vorgesehenen Fläche, untersagt. Die Gefängnisverwaltung entscheidet über Art und Umfang der Ausschmückung von Zellen durch die eingewiesene Person. Verunreinigungen und Beschädigungen sind unverzüglich zu melden. Vorsätzliche Beschädigungen werden der eingewiesenen Person belastet.
 
@@ -363,11 +373,13 @@ beschliesst:
 
 <sup>2</sup> Sie können geeignete Sicherungsmassnahmen treffen, wie:
 
-- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist
-- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien
-- c) Unterbringung in einer hierfür eingerichteten Zelle
+- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist;
 
-### 2.4 Tagesordnung und Arbeit
+- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien;
+
+- c) Unterbringung in einer hierfür eingerichteten Zelle.
+
+### D. Tagesordnung und Arbeit
 
 #### § 35
 
@@ -375,11 +387,13 @@ beschliesst:
 
 <sup>1</sup> In der Regel gilt folgende Tagesordnung:
 
-- a) 06:15: Tagwache, Körperpflege, Frühstück, Zellenordnung
-- b) 07:00: Arbeitsbeginn respektive Spaziergang
-- c) 11:30: Mittagessen
-- d) 13:30: Arbeitsbeginn
-- e) 17:00: Nachtessen
+06.15 Tagwache, Körperpflege, Frühstück, Zellenordnung; 07.00 Arbeitsbeginn respektive Spaziergang;
+
+11.30 Mittagessen;
+
+13.30 Arbeitsbeginn;
+
+17.00 Nachtessen.
 
 <sup>2</sup> An den Wochenenden und an allgemeinen Feiertagen können sich die Zeiten verschieben.
 
@@ -393,7 +407,7 @@ beschliesst:
 
 <sup>3</sup> Die Betriebs- und Unfallverhütungsvorschriften sind einzuhalten.
 
-### 2.5 Freizeit
+### E. Freizeit
 
 #### § 37
 
@@ -403,9 +417,11 @@ beschliesst:
 
 <sup>2</sup> Die eingewiesenen Personen haben die Anweisungen der Gefängnisverwaltung zu befolgen. Insbesondere sind untersagt:
 
-- a) das Herumwerfen von Gegenständen
-- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs
-- c) das Betreten des Arbeitsbereichs
+- a) das Herumwerfen von Gegenständen;
+
+- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs;
+
+- c) das Betreten des Arbeitsbereichs.
 
 <sup>3</sup> Bei Nichtbefolgen der Anweisungen kann der Spaziergang abgebrochen werden.
 
@@ -413,7 +429,7 @@ beschliesst:
 
 **Spiel und Sport**
 
-<sup>1</sup> Die Gefängnisverwaltung stellt den eingewiesenen Personen nach Möglichkeit Spiel- und Sportgeräte zur Verfügung.
+Die Gefängnisverwaltung stellt den eingewiesenen Personen nach Möglichkeit Spiel- und Sportgeräte zur Verfügung.
 
 #### § 39
 
@@ -437,9 +453,9 @@ beschliesst:
 
 **Hobbys**
 
-<sup>1</sup> Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
+Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
 
-### 2.6 Post, Telefon und Besuche
+### F. Post, Telefon und Besuche
 
 #### § 42
 
@@ -467,7 +483,7 @@ beschliesst:
 
 **Stimm- und Wahlrecht**
 
-<sup>1</sup> Die eingewiesenen Personen können auf Wunsch das Stimm- und Wahlrecht auf schriftlichem Weg ausüben. Die Stimm- und Wahlunterlagen sind von der eingewiesenen Person selbst rechtzeitig anzufordern.
+Die eingewiesenen Personen können auf Wunsch das Stimm- und Wahlrecht auf schriftlichem Weg ausüben. Die Stimm- und Wahlunterlagen sind von der eingewiesenen Person selbst rechtzeitig anzufordern.
 
 #### § 45
 
@@ -481,7 +497,7 @@ beschliesst:
 
 <sup>4</sup> Über Lockerungen bei Jugendlichen entscheidet die Gefängnisverwaltung.
 
-### 2.7 Einkäufe und Verpflegung
+### G. Einkäufe und Verpflegung
 
 #### § 46
 
@@ -513,13 +529,13 @@ beschliesst:
 
 <sup>3</sup> Bei Nichteinhaltung dieser Sicherheitsbestimmung werden die Raucherwaren eingezogen und nur noch für den Spaziergang abgegeben.
 
-### 2.8 Gesundheit und Betreuung
+### H. Gesundheit und Betreuung
 
 #### § 49
 
 **Körperpflege**
 
-<sup>1</sup> Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
+Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
 
 #### § 50
 
@@ -535,7 +551,7 @@ beschliesst:
 
 **Seelsorge**
 
-<sup>1</sup> Die Gefängnisseelsorgerinnen und ‑seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Über die Zulassung weiterer Seelsorgerinnen und Seelsorger entscheidet die Verfahrensleitung.
+<sup>1</sup> Die Gefängnisseelsorgerinnen und -seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Über die Zulassung weiterer Seelsorgerinnen und Seelsorger entscheidet die Verfahrensleitung.
 
 <sup>2</sup> Der Wunsch auf Aussprache mit der Seelsorgerin bzw. dem Seelsorger ist an die Gefängnisverwaltung zu richten. Sie dürfen nicht Übermittler von Nachrichten zwischen den eingewiesenen Personen und Drittpersonen sein.
 
@@ -553,11 +569,11 @@ beschliesst:
 
 **Aussprache mit der Gefängnisleitung**
 
-<sup>1</sup> Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
+Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
 
-## 3 Halbgefangenschaft und Arbeitsexternat
+### III. Halbgefangenschaft und Arbeitsexternat
 
-### 3.1 Aufnahme und Entlassung
+### A. Aufnahme und Entlassung
 
 #### § 54
 
@@ -579,9 +595,9 @@ beschliesst:
 
 **Entlassung**
 
-<sup>1</sup> Die Entlassung erfolgt nach Ablauf der Strafdauer oder gestützt auf eine Verfügung der Vollzugsbehörde durch die Gefängnisverwaltung. Das Gesuch um bedingte Entlassung hat die eingewiesene Person bei der Gefängnisverwaltung frühzeitig, in der Regel 1 Monat vor dem voraussichtlichen Entlassungstermin, schriftlich einzureichen. Erfolgt kein Gesuch, stellt die Gefängnisverwaltung den Antrag zuhanden der Vollzugsbehörde von Amtes wegen. Es kann schriftlich auf einen Antrag verzichtet werden.
+Die Entlassung erfolgt nach Ablauf der Strafdauer oder gestützt auf eine Verfügung der Vollzugsbehörde durch die Gefängnisverwaltung. Das Gesuch um bedingte Entlassung hat die eingewiesene Person bei der Gefängnisverwaltung frühzeitig, in der Regel 1 Monat vor dem voraussichtlichen Entlassungstermin, schriftlich einzureichen. Erfolgt kein Gesuch, stellt die Gefängnisverwaltung den Antrag zuhanden der Vollzugsbehörde von Amtes wegen. Es kann schriftlich auf einen Antrag verzichtet werden.
 
-### 3.2 Unterbringung
+### B. Unterbringung
 
 #### § 57
 
@@ -621,22 +637,25 @@ beschliesst:
 
 <sup>2</sup> Sie kann geeignete Sicherungsmassnahmen treffen, wie:
 
-- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist
-- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien
-- c) Unterbringung in einer hierfür eingerichteten Zelle
+- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist;
 
-### 3.3 Tagesordnung und Arbeit
+- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien;
+
+- c) Unterbringung in einer hierfür eingerichteten Zelle.
+
+### C. Tagesordnung und Arbeit
 
 #### § 61
 
 **Tagesordnung**
 
-<sup>1</sup> Die Tagesordnung richtet sich nach den Arbeitszeiten der Arbeitsstelle und wird nach Absprache durch die Gefängnisverwaltung festgelegt. In der Regel gilt:
+Die Tagesordnung richtet sich nach den Arbeitszeiten der Arbeitsstelle und wird nach Absprache durch die Gefängnisverwaltung festgelegt. In der Regel gilt:
 
-- a) 06:10: Austritt zur Arbeit
-- b) 18:10: Rückkehr ins Gefängnis
+06.10 Austritt zur Arbeit;
 
-### 3.4 Freizeit
+18.10 Rückkehr ins Gefängnis.
+
+### D. Freizeit
 
 #### § 62
 
@@ -646,9 +665,11 @@ beschliesst:
 
 <sup>2</sup> Die eingewiesenen Personen haben die Anweisungen der Gefängnisverwaltung zu befolgen. Insbesondere sind untersagt:
 
-- a) das Herumwerfen von Gegenständen
-- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs
-- c) das Betreten des Arbeitsbereichs
+- a) das Herumwerfen von Gegenständen;
+
+- b) die Kontaktaufnahme über die Zellenfenster während des Spaziergangs;
+
+- c) das Betreten des Arbeitsbereichs.
 
 <sup>3</sup> Bei Nichtbefolgen der Anweisungen kann der Spaziergang abgebrochen werden. Bei wiederholten Zuwiderhandlungen kann die Gefängnisverwaltung bei der Vollzugsbehörde Antrag auf Abbruch der Halbgefangenschaft oder des Arbeitsexternats stellen.
 
@@ -656,13 +677,13 @@ beschliesst:
 
 **Spiel und Sport**
 
-<sup>1</sup> Die Teilnahme an den von der Gefängnisverwaltung organisierten Freizeitprogrammen und Veranstaltungen steht den ausserhalb des Gefängnisses tätigen Personen nicht zu. Über allfällige Ausnahmen entscheidet die Gefängnisverwaltung.
+Die Teilnahme an den von der Gefängnisverwaltung organisierten Freizeitprogrammen und Veranstaltungen steht den ausserhalb des Gefängnisses tätigen Personen nicht zu. Über allfällige Ausnahmen entscheidet die Gefängnisverwaltung.
 
 #### § 64
 
 **Bücher, Zeitungen und Zeitschriften**
 
-<sup>1</sup> Die eingewiesenen Personen können auf eigene Kosten Medien abonnieren. Diese müssen ihnen vom Verlag direkt zugestellt werden.
+Die eingewiesenen Personen können auf eigene Kosten Medien abonnieren. Diese müssen ihnen vom Verlag direkt zugestellt werden.
 
 #### § 65
 
@@ -678,15 +699,15 @@ beschliesst:
 
 **Hobbys**
 
-<sup>1</sup> Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
+Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
 
 #### § 67
 
 **Ausgang und Urlaub**
 
-<sup>1</sup> Gesuche sind unter Verwendung des Formulars bei der Gefängnisverwaltung frühzeitig, in der Regel 14 Tage vorher, schriftlich einzureichen. Unvollständige Gesuche werden zurückgewiesen.
+Gesuche sind unter Verwendung des Formulars bei der Gefängnisverwaltung frühzeitig, in der Regel 14 Tage vorher, schriftlich einzureichen. Unvollständige Gesuche werden zurückgewiesen.
 
-### 3.5 Post, Telefon und Besuche
+### E. Post, Telefon und Besuche
 
 #### § 68
 
@@ -700,9 +721,9 @@ beschliesst:
 
 **Besuche**
 
-<sup>1</sup> Besuche werden im Rahmen der organisatorischen Möglichkeiten gestattet.
+Besuche werden im Rahmen der organisatorischen Möglichkeiten gestattet.
 
-### 3.6 Einkäufe und Verpflegung
+### F. Einkäufe und Verpflegung
 
 #### § 70
 
@@ -730,13 +751,13 @@ beschliesst:
 
 <sup>3</sup> Bei Nichteinhaltung dieser Sicherheitsbestimmung werden die Rauchwaren eingezogen und nur noch für den Spaziergang abgegeben.
 
-### 3.7 Gesundheit und Betreuung
+### G. Gesundheit und Betreuung
 
 #### § 73
 
 **Körperpflege**
 
-<sup>1</sup> Eingewiesene Personen können täglich duschen.
+Eingewiesene Personen können täglich duschen.
 
 #### § 74
 
@@ -750,7 +771,7 @@ beschliesst:
 
 **Seelsorge**
 
-<sup>1</sup> Die Gefängnisseelsorgerinnen und ‑seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
+<sup>1</sup> Die Gefängnisseelsorgerinnen und -seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
 
 <sup>2</sup> Der Wunsch auf Aussprache mit der Seelsorgerin bzw. dem Seelsorger ist an die Gefängnisverwaltung zu richten. Sie dürfen nicht Übermittler von Nachrichten zwischen den eingewiesenen Personen und Drittpersonen sein.
 
@@ -758,7 +779,9 @@ beschliesst:
 
 **Sozialdienst**
 
-<sup>1</sup> Eingewiesene Personen können sich mit dem Sozialdienst (Art. 96 StGB) in Verbindung setzen.
+<sup>1</sup> Eingewiesene Personen können sich mit dem Sozialdienst (Art.
+
+96 StGB) in Verbindung setzen.
 
 <sup>2</sup> Für Fragen, welche den Gefängnisbetrieb betreffen, ist der Sozialdienst nicht zuständig.
 
@@ -766,11 +789,11 @@ beschliesst:
 
 **Aussprache mit der Gefängnisleitung**
 
-<sup>1</sup> Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
+Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
 
-## 4 Haft gestützt auf das Ausländerrecht
+### IV. Haft gestützt auf das Ausländerrecht
 
-### 4.1 Aufnahme und Entlassung
+### A. Aufnahme und Entlassung
 
 #### § 78
 
@@ -790,11 +813,13 @@ beschliesst:
 
 #### § 80
 
+<sup>2)</sup>
+
 **Entlassung**
 
-<sup>1</sup> Die Entlassung erfolgt gestützt auf eine Verfügung der zuständigen Behörde, in der Regel des Migrationsamtes und Passbüros, durch die Polizei.
+Die Entlassung erfolgt gestützt auf eine Verfügung der zuständigen Behörde, in der Regel des Migrationsamtes und Passbüros, durch die Polizei.
 
-### 4.2 Unterbringung
+### B. Unterbringung
 
 #### § 81
 
@@ -812,7 +837,7 @@ beschliesst:
 
 **Zuteilung der Zelle**
 
-<sup>1</sup> Der Wunsch nach Unterbringung in einer Doppelzelle mit einer Person in derselben Vollzugsart wird berücksichtigt, sofern freie Zellen zur Verfügung stehen und der Gefängnisbetrieb sowie der Vollzugszweck nicht gestört respektive gefährdet sind.
+Der Wunsch nach Unterbringung in einer Doppelzelle mit einer Person in derselben Vollzugsart wird berücksichtigt, sofern freie Zellen zur Verfügung stehen und der Gefängnisbetrieb sowie der Vollzugszweck nicht gestört respektive gefährdet sind.
 
 #### § 83
 
@@ -836,11 +861,13 @@ beschliesst:
 
 <sup>2</sup> Sie kann geeignete Sicherungsmassnahmen treffen, wie:
 
-- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist
-- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien
-- c) Unterbringung in einer hierfür eingerichteten Zelle
+- a) Entzug von Einrichtungs- und Gebrauchsgegenständen oder Kleidungsstücken, deren Missbrauch zu befürchten ist;
 
-### 4.3 Tagesordnung und Arbeit
+- b) Beschränkung oder vorübergehender Entzug der Bewegung im Freien;
+
+- c) Unterbringung in einer hierfür eingerichteten Zelle.
+
+### C. Tagesordnung und Arbeit
 
 #### § 85
 
@@ -848,11 +875,7 @@ beschliesst:
 
 <sup>1</sup> In der Regel gilt folgende Tagesordnung:
 
-- a) 06:15: Tagwache, Körperpflege, Frühstück, Zellenordnung
-- b) 07:00: Spaziergang für eingewiesene Personen in Einzelhaft
-- c) 10:30: Spaziergang für eingewiesene Personen in Gemeinschaftshaft
-- d) 11:30: Mittagessen
-- e) 17:00: Nachtessen
+06.15 Tagwache, Körperpflege, Frühstück, Zellenordnung 07.00 Spaziergang für eingewiesene Personen in Einzelhaft 10.30 Spaziergang für eingewiesene Personen in Gemeinschaftshaft 11.30 Mittagessen 17.00 Nachtessen.
 
 <sup>2</sup> An den Wochenenden und an allgemeinen Feiertagen können sich die Zeiten verschieben.
 
@@ -866,7 +889,7 @@ beschliesst:
 
 <sup>3</sup> Die Betriebs- und Unfallverhütungsvorschriften sind einzuhalten.
 
-### 4.4 Freizeit
+### D. Freizeit
 
 #### § 87
 
@@ -878,9 +901,11 @@ beschliesst:
 
 <sup>3</sup> Die eingewiesenen Personen haben die Anweisungen der Gefängnisverwaltung zu befolgen. Insbesondere sind untersagt:
 
-- a) das Herumwerfen von Gegenständen
-- b) die Kontaktaufnahme über die Zellenfenster während des Spazierganges
-- c) das Betreten des Arbeitsbereichs
+- a) das Herumwerfen von Gegenständen;
+
+- b) die Kontaktaufnahme über die Zellenfenster während des Spazierganges;
+
+- c) das Betreten des Arbeitsbereichs.
 
 <sup>4</sup> Bei Nichtbefolgen der Anweisungen kann der Spaziergang abgebrochen werden.
 
@@ -888,7 +913,7 @@ beschliesst:
 
 **Spiel und Sport**
 
-<sup>1</sup> Aufenthalt sowie Spiel und Sport in Gruppenräumen ist möglich, sofern dadurch Sicherheit und Ordnung nicht verletzt werden.
+Aufenthalt sowie Spiel und Sport in Gruppenräumen ist möglich, sofern dadurch Sicherheit und Ordnung nicht verletzt werden.
 
 #### § 89
 
@@ -912,9 +937,9 @@ beschliesst:
 
 **Hobbys**
 
-<sup>1</sup> Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
+Freizeitbeschäftigungen werden in der Zelle bewilligt, soweit dadurch Sicherheit und Ordnung nicht gefährdet sind. Missbräuchliche Verwendung der abgegebenen Gegenstände wird mit Entzug geahndet.
 
-### 4.5 Post, Telefon und Besuche
+### E. Post, Telefon und Besuche
 
 #### § 92
 
@@ -952,7 +977,7 @@ beschliesst:
 
 <sup>4</sup> Über Lockerungen bei Jugendlichen entscheidet die Gefängnisverwaltung.
 
-### 4.6 Einkäufe und Verpflegung
+### F. Einkäufe und Verpflegung
 
 #### § 95
 
@@ -984,13 +1009,13 @@ beschliesst:
 
 <sup>3</sup> Bei Nichteinhaltung dieser Sicherheitsbestimmung werden die Rauchwaren eingezogen und nur noch für den Spaziergang abgegeben.
 
-### 4.7 Gesundheit und Betreuung
+### G. Gesundheit und Betreuung
 
 #### § 98
 
 **Körperpflege**
 
-<sup>1</sup> Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
+Eingewiesene Personen haben jede Woche mindestens zweimal zu duschen. Bei schwerer oder staubiger Arbeit und nach dem Turnen besteht zusätzliche Gelegenheit zum Duschen.
 
 #### § 99
 
@@ -1006,7 +1031,7 @@ beschliesst:
 
 **Seelsorge**
 
-<sup>1</sup> Die Gefängnisseelsorgerinnen und ‑seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
+<sup>1</sup> Die Gefängnisseelsorgerinnen und -seelsorger betreuen auf Wunsch auch eingewiesene Personen anderer Religionsgemeinschaften. Die Gefängnisverwaltung lässt weitere Seelsorgerinnen und Seelsorger zu, sofern Sicherheit und Ordnung nicht gefährdet sind.
 
 <sup>2</sup> Der Wunsch auf Aussprache mit der Seelsorgerin bzw. dem Seelsorger ist an die Gefängnisverwaltung zu richten. Sie dürfen nicht Übermittler von Nachrichten zwischen den eingewiesenen Personen und Drittpersonen sein.
 
@@ -1024,9 +1049,9 @@ beschliesst:
 
 **Aussprache mit der Gefängnisleitung**
 
-<sup>1</sup> Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
+Eingewiesene Personen, die der Gefängnisleitung ein Anliegen vorbringen möchten, melden ihr dies per Hausbrief und unter Angaben von Gründen. In dringlichen Fällen kann jederzeit durch eine Meldung bei der Gefängnisverwaltung um eine Besprechung ersucht werden.
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### § 103
 
@@ -1034,8 +1059,12 @@ beschliesst:
 
 <sup>1</sup> Diese Hausordnung tritt auf den 1. Januar 2008 in Kraft. Sie ersetzt die Hausordnung für das kantonale Gefängnis vom 1. September 1988.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^103-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^103-1]: Amtsblatt 2007, S. 1713.
+Fussnoten:
 
-Abl. 2007, S.1713
+- 1) Amtsblatt 2007, S. 1713.
+
+- 2) Fassung gemäss RRB vom 2. September 2009, in Kraft getreten am 1. März 2010 (Amtsblatt 2009, S. 1807).
+
+- 3) Fassung gemäss RRB vom 21. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1881).
