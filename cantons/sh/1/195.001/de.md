@@ -4,22 +4,24 @@ number: "195.001"
 title: Vereinbarung über die Konferenz der Kantonsregierungen
 language: de
 version: 2006-03-24
+corrected: 2024-06-24
 version_adopted: 2006-03-24
 adopted: 1993-10-08
 in_force: 1993-11-08
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/195.001"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1811/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/244/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über die Konferenz der Kantonsregierungen
 
-Vom 08.10.1993 (Stand 24.03.2006)
+vom 8. Oktober 1993
 
-Die Regierungen der Kantone Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf und Jura,
+Die Regierungen der Kantone Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf und Jura
 
-beschliessen:
+schliessen folgende Vereinbarung ab:
 
 #### Art. 1
 
@@ -27,13 +29,15 @@ beschliessen:
 
 <sup>1</sup> Die Regierungen der Kantone richten eine ständige «Konferenz der Kantonsregierungen» ein.
 
-<sup>2</sup> Diese bezweckt, die Zusammenarbeit unter den Kantonen in ihrem Zuständigkeitsbereich zu fördern und in kantonsrelevanten Angelegenheiten des Bundes die erforderliche Koordination und Information der Kantone sicherzustellen, insbesondere in Fragen:
+<sup>2</sup> Diese bezweckt, die Zusammenarbeit unter den Kantonen in ihrem Zuständigkeitsbereich zu fördern und in kantonsrelevanten Angelegenheiten des Bundes die erforderliche Koordination und Information der Kantone sicherzustellen, insbesondere in Fragen - der Erneuerung und Weiterentwicklung des Föderalismus;
 
-- a) der Erneuerung und Weiterentwicklung des Föderalismus
-- b) der Aufgabenteilung zwischen Bund und Kantonen
-- c) der Willensbildung und Entscheidungsvorbereitung im Bund
-- d) des Vollzugs von Bundesaufgaben durch die Kantone
-- e) der Aussen- und Integrationspolitik
+- der Aufgabenteilung zwischen Bund und Kantonen;
+
+- der Willensbildung und Entscheidungsvorbereitung im Bund;
+
+- des Vollzugs von Bundesaufgaben durch die Kantone;
+
+- der Aussen- und Integrationspolitik.
 
 #### Art. 2
 
@@ -44,6 +48,8 @@ beschliessen:
 <sup>2</sup> Jede Kantonsregierung hat Anspruch auf einen Sitz in der Konferenz. Wahl und Amtsdauer sind Sache der Kantonsregierungen.
 
 <sup>3</sup> Die Kantonsregierungen können unter Wahrung der Stimmengleichheit zusätzliche Regierungsvertreter in die Konferenz entsenden. Die Vertreter der Kantone können sich ausnahmsweise von Mitarbeitern oder von Experten begleiten lassen.
+
+Amtsblatt 1993, S. 1205; Rechtsbuch 1964, Nr. 9c.
 
 #### Art. 3
 
@@ -59,65 +65,63 @@ beschliessen:
 
 **Zusammenarbeit mit den Direktorenkonferenzen**
 
-<sup>1</sup> Die Konferenz der Kantonsregierungen arbeitet mit den Direktorenkonferenzen und mit den übrigen interkantonalen Konferenzen zusammen.
+Die Konferenz der Kantonsregierungen arbeitet mit den Direktorenkonferenzen und mit den übrigen interkantonalen Konferenzen zusammen.
 
 #### Art. 5
 
+<sup>2)</sup>
+
 **Organe**
 
-<sup>1</sup> Die Konferenz der Kantonsregierungen verfügt über folgende Organe:
+Die Konferenz der Kantonsregierungen verfügt über folgende Organe - die Plenarkonferenz, bestehend aus den Regierungsvertretern aller Kantone;
 
-- a) die Plenarkonferenz, bestehend aus den Regierungsvertretern aller Kantone
-- b) den Leitenden Ausschuss, bestehend aus neun bis elf Mitgliedern
-- c) ein ständiges Sekretariat, das dem Leitenden Ausschuss untersteht
+- den Leitenden Ausschuss, bestehend aus neun bis elf Mitgliedern;
 
-## 1 Plenarkonferenz
+- ein ständiges Sekretariat, das dem Leitenden Ausschuss untersteht.
 
 #### Art. 6
 
-**Aufgaben**
+**I. Plenarkonferenz**
 
-<sup>1</sup> Die Plenarkonferenz wählt für eine Amtsdauer von zwei Jahren (mit der Möglichkeit einer Wiederwahl):
+**1. Aufgaben**
 
-- b) den Präsidenten
-- a) den Leitenden Ausschuss
+<sup>1</sup> Die Plenarkonferenz wählt für eine Amtsdauer von zwei Jahren (mit der Möglichkeit einer Wiederwahl) - den Präsidenten;
+
+- den Leitenden Ausschuss.
 
 <sup>2</sup> Sie bezeichnet das Sekretariat.
 
-<sup>3</sup> Sie fasst im Übrigen alle Beschlüsse, die nicht einem anderen Organ zugewiesen sind.
+<sup>3</sup> Sie fasst im übrigen alle Beschlüsse, die nicht einem anderen Organ zugewiesen sind.
 
 #### Art. 7
 
-**Ordentliche Sitzungen**
+**2. Ordentliche Sitzungen**
 
 <sup>1</sup> Die Plenarkonferenz tritt jährlich zu zwei ordentlichen Sitzungen zusammen. Die Sitzungstermine werden von der Plenarkonferenz im voraus festgelegt.
 
-<sup>2</sup> Die Mitglieder der Konferenz werden mindestens zehn Tage im Voraus schriftlich zu den Sitzungen eingeladen.
+<sup>2</sup> Die Mitglieder der Konferenz werden mindestens zehn Tage im voraus schriftlich zu den Sitzungen eingeladen.
 
-<sup>3</sup> Geschäfte zuhanden der Traktandenliste können anhängig machen:
+<sup>3</sup> Geschäfte zuhanden der Traktandenliste können anhängig machen - der Leitende Ausschuss;
 
-- a) der Leitende Ausschuss
-- b) jede Kantonsregierung
-- c) die Direktorenkonferenzen
+- jede Kantonsregierung;
+
+- die Direktorenkonferenzen.
 
 #### Art. 8
 
-**Ausserordentliche Sitzungen**
+**3. Ausserordentliche Sitzungen**
 
-<sup>1</sup> Die Plenarkonferenz wird zu ausserordentlichen Sitzungen durch den Präsidenten einberufen auf Verlangen:
+<sup>1</sup> Die Plenarkonferenz wird zu ausserordentlichen Sitzungen durch den Präsidenten einberufen auf Verlangen - des Leitenden Ausschusses oder - von mindestens drei Kantonen.
 
-- a) des Leitenden Ausschusses oder
-- b) von mindestens drei Kantonen
+<sup>2</sup> Bei besonderer zeitlicher Dringlichkeit können - die Einladungsfrist gemäss Art. 7 Abs. 2 verkürzt werden;
 
-<sup>2</sup> Bei besonderer zeitlicher Dringlichkeit können:
+- die Form der Einladung vereinfacht werden;
 
-- a) die Einladungsfrist gemäss Art. 7 Abs. 2 verkürzt werden
-- b) die Form der Einladung vereinfacht werden
-- c) Beschlüsse auf dem Zirkulationsweg gefasst werden, wobei Art. 9 und 10 sinngemäss anzuwenden sind
+- Beschlüsse auf dem Zirkulationsweg gefasst werden, wobei Art. 9 und 10 sinngemäss anzuwenden sind.
 
 #### Art. 9
 
-**Beratung und Beschlussfassung**
+**4. Beratung und Beschlussfassung**
 
 <sup>1</sup> Die Plenarkonferenz ist beschlussfähig, wenn die Vertreter von mindestens achtzehn Kantonsregierungen anwesend sind.
 
@@ -127,17 +131,17 @@ beschliessen:
 
 #### Art. 10
 
-**Stellungnahmen**
+**5. Stellungnahmen**
 
 <sup>1</sup> Fasst die Plenarkonferenz einen Beschluss mit den Stimmen von achtzehn Kantonsregierungen, so gilt dieser als Stellungnahme der Konferenz der Kantonsregierungen.
 
 <sup>2</sup> Das Recht der Kantone auf eigene Stellungnahmen bleibt gewahrt.
 
-## 2 Leitender Ausschuss
-
 #### Art. 11
 
-**Aufgaben**
+**II. Leitender Ausschuss**
+
+**1. Aufgaben**
 
 <sup>1</sup> Der Leitende Ausschuss ist das oberste Exekutiv- und Führungsorgan der Konferenz der Kantonsregierungen. Er behandelt die laufenden Geschäfte und bereitet die Sitzungen der Plenarkonferenz vor.
 
@@ -145,13 +149,13 @@ beschliessen:
 
 #### Art. 12
 
-**Sitzungen**
+**2. Sitzungen**
 
-<sup>1</sup> Der Präsident beruft den Leitenden Ausschuss ein, so oft es die Geschäfte erfordern oder wenn es ein Mitglied verlangt.
-
-## 3 Sekretariat
+Der Präsident beruft den Leitenden Ausschuss ein, so oft es die Geschäfte erfordern oder wenn es ein Mitglied verlangt.
 
 #### Art. 13
+
+**III. Sekretariat**
 
 <sup>1</sup> Das Sekretariat ist für die Vorbereitung der Sitzungen der Plenarkonferenz und des Leitenden Ausschusses sowie für die Protokollführung verantwortlich.
 
@@ -161,13 +165,13 @@ beschliessen:
 
 **Finanzierung**
 
-<sup>1</sup> Die Kosten der Konferenz der Kantonsregierungen werden entsprechend der Einwohnerzahl von den Kantonen getragen.
+Die Kosten der Konferenz der Kantonsregierungen werden entsprechend der Einwohnerzahl von den Kantonen getragen.
 
 #### Art. 15
 
 **Inkraftreten**
 
-<sup>1</sup> Diese Vereinbarung tritt einen Monat nach dem Tag in Kraft, an dem alle Kantonsregierungen schriftlich die Zustimmung zur Vereinbarung erklärt haben[^15-1]. Depositarstelle ist der Regierungsrat des Kantons Bern.
+Diese Vereinbarung tritt einen Monat nach dem Tag in Kraft, an dem alle Kantonsregierungen schriftlich die Zustimmung zur Vereinbarung erklärt haben[^15-1]. Depositarstelle ist der Regierungsrat des Kantons Bern.
 
 [^15-1]: In Kraft getreten am 8. November 1993 (Amtsblatt 1993, S. 1206).
 
@@ -175,7 +179,7 @@ beschliessen:
 
 **Mitteilung an den Bundesrat**
 
-<sup>1</sup> Unmittelbar nach Vorliegen aller schriftlichen Mitteilungen über die Zustimmung bringt der Regierungsrat des Kantons Bern die Vereinbarung dem Bundesrat zur Kenntnis.
+Unmittelbar nach Vorliegen aller schriftlichen Mitteilungen über die Zustimmung bringt der Regierungsrat des Kantons Bern die Vereinbarung dem Bundesrat zur Kenntnis.
 
 #### Art. 17
 
@@ -193,4 +197,8 @@ beschliessen:
 
 <sup>2</sup> Die Kantonsregierungen sorgen für eine angemessene Veröffentlichung der Vereinbarung.
 
-Abl. 1993, S. 1205
+Fussnoten:
+
+## Weitere Fussnoten
+
+- [2] Fassung gemäss B der Plenarversammlung der Konferenz der Kantonsregierungen vom 24. März 2006.
