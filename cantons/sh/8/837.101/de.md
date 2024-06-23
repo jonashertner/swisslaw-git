@@ -4,51 +4,56 @@ number: "837.101"
 title: Verordnung zum Arbeitslosenhilfegesetz
 language: de
 version: 2011-08-01
-valid_until: 2026-07-31
+corrected: 2024-06-24
 version_adopted: 2011-07-05
 adopted: 1997-10-07
 in_force: 1997-10-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1831/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/191/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung zum Arbeitslosenhilfegesetz
 
-Vom 07.10.1997 (Stand 01.08.2011)
+vom 7. Oktober 1997
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf das Arbeitslosenhilfegesetz (AHG) vom 17. Februar 1997,
 
-beschliesst:
+verordnet:
 
-## 1 Individuelle und kollektive Leistungen
+### I. Individuelle und kollektive Leistungen
 
 #### § 1
 
 **Individuelle Umschulung, Weiterbildung und Eingliederung**
 
-<sup>1</sup> Individuelle Leistungen können nur gewährt werden, wenn die Vermittlungsfähigkeit einer arbeitslosen Person dadurch wesentlich verbessert wird.
+<sup>1</sup> Individuelle Leistungen können nur gewährt werden, wenn die Vermittlungsfähigkeit einer arbeitslosen Person dadurch wesentlich verbessert wird. <sup>5)</sup>
 
 <sup>2</sup> Als individuelle Leistungen gelten insbesondere Umschulungen, Weiterbildungen, Praktika, Einarbeitungszuschüsse und Ausbildungszuschüsse.
 
 <sup>3</sup> In der Regel werden Leistungen bis zu dem in der obligatorischen Arbeitslosenversicherung festgelegten Umfang ausgerichtet. Die Beiträge sind so festzulegen, dass sie den wirtschaftlich notwendigen Bedarf nicht übersteigen und eine angemessene Selbstbeteiligung mit einschliessen.
 
-<sup>4</sup> Anträge sind rechtzeitig, mindestens jedoch zehn Tage vor Beginn der individuellen Leistungen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt einzureichen.
+<sup>4</sup> Anträge sind rechtzeitig, mindestens jedoch zehn Tage vor Beginn der individuellen Leistungen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt <sup>2)</sup> einzureichen.
+
+Amtsblatt 1997, S. 1343.
 
 #### § 2
 
-**Kollektive Beratungs-, Umschulungs-, Weiterbildungs-und Eingliederungsmassnahmen**
+**Kollektive Beratungs-, Umschulungs-, Weiterbildungs- und Eingliederungsmassnahmen**
 
 <sup>1</sup> Kollektive Massnahmen müssen die Vermittlungsfähigkeit der arbeitslosen Personen verbessern.
 
 <sup>2</sup> Für Voraussetzungen, Art und Umfang dieser Massnahmen sowie das Verfahren gelten die Bestimmungen der obligatorischen Arbeitslosenversicherung sinngemäss.
 
-<sup>3</sup> Anträge sind rechtzeitig, mindestens jedoch einen Monat vor Beginn der kollektiven Massnahmen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt einzureichen.
+<sup>3</sup> Anträge sind rechtzeitig, mindestens jedoch einen Monat vor Beginn der kollektiven Massnahmen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt <sup>2)</sup> einzureichen.
 
 #### § 2a
+
+<sup>6)</sup>
 
 **Spezielle Anspruchsvoraussetzungen**
 
@@ -60,13 +65,13 @@ beschliesst:
 
 **Abgrenzung gegenüber Stipendien**
 
-<sup>1</sup> Leistungen gemäss Art. 3 und 4 des Gesetzes sind ausgeschlossen, wenn Massnahmen über Stipendien finanziert werden können, insbesondere der zweite Bildungsweg, eine Technikums- oder Universitätsausbildung sowie die Fortsetzung der angestammten beruflichen Ausbildung.
+Leistungen gemäss Art. 3 und 4 des Gesetzes sind ausgeschlossen, wenn Massnahmen über Stipendien finanziert werden können, insbesondere der zweite Bildungsweg, eine Technikums- oder Universitätsausbildung sowie die Fortsetzung der angestammten beruflichen Ausbildung.
 
 #### § 4
 
 **Anstellungsprogramme**
 
-<sup>1</sup> In Anstellungsprogramme können nur arbeitslose Personen in wirtschaftlich bescheidenen Verhältnissen aufgenommen werden, wenn deren Vermittlungsfähigkeit dadurch wesentlich verbessert wird. Individuelle und kollektive Massnahmen gemäss Art. 3 und Art. 4 des Gesetzes gehen den Anstellungsprogrammen vor.
+<sup>1</sup> In Anstellungsprogramme können nur arbeitslose Personen in wirtschaftlich bescheidenen Verhältnissen aufgenommen werden, wenn deren Vermittlungsfähigkeit dadurch wesentlich verbessert wird. Individuelle und kollektive Massnahmen gemäss Art. 3 und Art. 4 des Gesetzes gehen den Anstellungsprogrammen vor. <sup>5)</sup>
 
 <sup>2</sup> Die Programme dauern in der Regel höchstens ein Jahr.
 
@@ -74,32 +79,39 @@ beschliesst:
 
 <sup>4</sup> Zudem können dem Träger für die Projektierung und Durchführung von Anstellungsprogrammen weitere Beiträge gewährt werden, höchstens jedoch im Umfang der in der obligatorischen Arbeitslosenversicherung vorgesehenen anrechenbaren Kosten für Beschäftigungsprogramme.
 
-<sup>5</sup> Anträge sind rechtzeitig, mindestens jedoch einen Monat vor der Durchführung von Anstellungsprogrammen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt einzureichen.
+<sup>5</sup> Anträge sind rechtzeitig, mindestens jedoch einen Monat vor der Durchführung von Anstellungsprogrammen, begründet und mit den notwendigen Unterlagen beim kantonalen Arbeitsamt <sup>2)</sup> einzureichen.
 
 #### § 5
 
+<sup>5)</sup>
+
 **Rahmenfrist**
 
-<sup>1</sup> Die Rahmenfrist für den Bezug von Leistungen gemäss Art. 3, 4 und 5 des Gesetzes entspricht der um zwei Jahre verlängerten Rahmenfrist für den Leistungsbezug nach der obligatorischen Arbeitslosenversicherung. Arbeitslosen Personen, deren Bezugsberechtigung bei der obligatorischen Arbeitslosenversicherung erschöpft ist, werden solche gleichartigen Leistungen in der Regel nur einmal innerhalb der Rahmenfrist gewährt.
+Die Rahmenfrist für den Bezug von Leistungen gemäss Art. 3, 4 und 5 des Gesetzes entspricht der um zwei Jahre verlängerten Rahmenfrist für den Leistungsbezug nach der obligatorischen Arbeitslosenversicherung. Arbeitslosen Personen, deren Bezugsberechtigung bei der obligatorischen Arbeitslosenversicherung erschöpft ist, werden solche gleichartigen Leistungen in der Regel nur einmal innerhalb der Rahmenfrist gewährt.
 
 #### § 5a
+
+<sup>6)</sup>
 
 **Wirtschaftlich bescheidene Verhältnisse**
 
 <sup>1</sup> Wirtschaftlich bescheidene Verhältnisse liegen vor, wenn das anrechenbare Einkommen zusammen mit dem anrechenbaren Teil des Vermögens weniger als 35 Prozent des Höchstbetrags des versicherten Verdienstes nach Art. 23 Abs. 1 AVIG beträgt. Dieser Prozentsatz erhöht sich:
 
-- a) um 10 Prozent, wenn die arbeitslose Person verheiratet oder in eingetragener Partnerschaft ist
-- b) um 10 Prozent für das erste Kind und 5 Prozent für jedes weitere Kind, für das eine Unterhaltspflicht im Sinne der arbeitslosenversicherungsrechtlichen Bestimmungen besteht, höchstens aber um 30 Prozent
+- a) um 10 Prozent, wenn die arbeitslose Person verheiratet oder in eingetragener Partnerschaft ist;
+
+- b) um 10 Prozent für das erste Kind und 5 Prozent für jedes weitere Kind, für das eine Unterhaltspflicht im Sinne der arbeitslosenversicherungsrechtlichen Bestimmungen besteht, höchstens aber um 30 Prozent.
 
 <sup>2</sup> Das anrechenbare Einkommen und der anrechenbare Teil des Vermögens werden grundsätzlich aufgrund der Einkommens- und Vermögensverhältnisse der letzten zwölf Monate vor Antragsstellung auf Arbeitslosenhilfe berechnet. Anrechenbar sind:
 
-- a) das Einkommen der versicherten Person
-- b) 10 Prozent des Vermögens der versicherten Person
+- a) das Einkommen der versicherten Person;
+
+- b) 10 Prozent des Vermögens der versicherten Person.
 
 <sup>3</sup> Als anrechenbares Einkommen gilt das Einkommen aus unselbständiger sowie selbständiger Erwerbstätigkeit im Sinne der AHV-Gesetzgebung, korrigiert um die nachfolgenden Elemente:
 
-- a) Aufrechnung allfälliger weiterer finanzieller Zuflüsse
-- b) Abzug allfälliger familienrechtlicher Unterhaltsbeiträge sowie weiterer wiederkehrender finanzieller Aufwendungen im Zusammenhang mit Immobilien
+- a) Aufrechnung allfälliger weiterer finanzieller Zuflüsse;
+
+- b) Abzug allfälliger familienrechtlicher Unterhaltsbeiträge sowie weiterer wiederkehrender finanzieller Aufwendungen im Zusammenhang mit Immobilien.
 
 <sup>4</sup> Bei der Bestimmung des anrechenbaren Teils des Vermögens werden nur Grundpfandschulden als Abzüge berücksichtigt.
 
@@ -109,23 +121,27 @@ beschliesst:
 
 #### § 6
 
-**Anschlusstaggelder: Bemessung**
+**Anschlusstaggelder: a) Bemessung**
 
 <sup>1</sup> Die Anschlusstaggelder betragen 90% des zuletzt bezogenen Taggeldes der obligatorischen Arbeitslosenversicherung. Die anspruchsberechtigte Person erhält zudem einen Zuschlag, der den auf den Tag umgerechneten gesetzlichen Kinder- und Ausbildungszulagen entspricht, auf die sie Anspruch hätte, wenn sie in einem Arbeitsverhältnis stünde. Dieser Zuschlag wird nur ausbezahlt, soweit diese Zulagen während der Arbeitslosigkeit nicht ausgerichtet werden.
 
-<sup>2</sup> Die Anschlusstaggelder werden gekürzt, soweit sie zusammen mit dem anrechenbaren Einkommen sowie dem anrechenbaren Teil des Vermögens den in § 5a Abs. 1 festgelegten Grenzbetrag für wirtschaftlich bescheidene Verhältnisse übersteigen.
+<sup>2</sup> Die Anschlusstaggelder werden gekürzt, soweit sie zusammen mit dem anrechenbaren Einkommen sowie dem anrechenbaren Teil des Vermögens den in § 5a Abs. 1 festgelegten Grenzbetrag für wirtschaftlich bescheidene Verhältnisse übersteigen. <sup>5)</sup>
 
-<sup>3</sup> …
+<sup>3</sup> … <sup>7)</sup>
 
 <sup>4</sup> Anspruchsberechtigte Personen haben bei einer vorübergehenden Beschäftigung Anspruch auf die Differenz zwischen dem erzielten Einkommen und den Anschlusstaggeldern. Die Berechnung und Auszahlung der Anschlusstaggelder erfolgt ansonsten sinngemäss nach den Bestimmungen der obligatorischen Arbeitslosenversicherung ohne Abzug von Sozialversicherungsbeiträgen.
 
 #### § 7
 
-**Anschlusstaggelder: Rahmenfrist und Bezugsdauer**
+**b) Rahmenfrist und Bezugsdauer**
 
-<sup>1</sup> Die Rahmenfrist für den Bezug von Anschlusstaggeldern entspricht der um zwei Jahre verlängerten Rahmenfrist für den Leistungsbezug nach der obligatorischen Arbeitslosenversicherung. Anschlusstaggelder werden innerhalb dieser Rahmenfrist gemäss Art. 6 des Gesetzes ausgerichtet.
+<sup>1</sup> Die Rahmenfrist für den Bezug von Anschlusstaggeldern entspricht der um zwei Jahre verlängerten Rahmenfrist für den Leistungsbezug nach der obligatorischen Arbeitslosenversicherung.
 
-<sup>2</sup> Ist die anspruchsberechtigte Person wegen Krankheit, Unfall oder Mutterschaft nicht oder nur vermindert arbeits- und vermittlungsfähig, können für diese Zeit Anschlusstaggelder im Rahmen von Art. 28 Abs. 1 AVIG ausbezahlt werden. Die Arbeits- und Vermittlungsunfähigkeit muss innert einer Woche seit deren Beginn dem kantonalen Arbeitsamt gemeldet werden.
+Anschlusstaggelder werden innerhalb dieser Rahmenfrist gemäss Art. 6 des Gesetzes ausgerichtet.
+
+<sup>2</sup> Ist die anspruchsberechtigte Person wegen Krankheit, Unfall oder Mutterschaft nicht oder nur vermindert arbeits- und vermittlungsfähig, können für diese Zeit Anschlusstaggelder im Rahmen von Art.
+
+28 Abs. 1 AVIG ausbezahlt werden. Die Arbeits- und Vermittlungsunfähigkeit muss innert einer Woche seit deren Beginn dem kantonalen Arbeitsamt <sup>2)</sup> gemeldet werden.
 
 <sup>3</sup> Leistet eine anspruchsberechtigte Person schweizerischen Militär-, Zivilschutz- oder Zivildienst, ausgenommen Rekrutenschule und Beförderungsdienste, und ist ihre Erwerbsausfallentschädigung geringer als die Anschlusstaggelder, die sie ohne Dienstleistung beziehen könnte, so wird ihr die Differenz im Rahmen des Höchstanspruchs ausgerichtet.
 
@@ -133,19 +149,19 @@ beschliesst:
 
 #### § 8
 
-**Anschlusstaggelder: Kontrollvorschriften und Pflichten**
+**c) Kontrollvorschriften und Pflichten**
 
 <sup>1</sup> Anträge für Anschlusstaggelder sind auf dem dafür vorgesehenen Formular bei der kantonalen Arbeitslosenkasse einzureichen.
 
-<sup>2</sup> Das kantonale Arbeitsamt macht die anspruchsberechtigten Personen auf die Möglichkeit des Bezugs von Anschlusstaggeldern rechtzeitig aufmerksam.
+<sup>2</sup> Das kantonale Arbeitsamt <sup>2)</sup> macht die anspruchsberechtigten Personen auf die Möglichkeit des Bezugs von Anschlusstaggeldern rechtzeitig aufmerksam.
 
 <sup>3</sup> Für den Bezug von Anschlusstaggeldern gelten die gleichen Kontrollvorschriften und Pflichten wie in der obligatorischen Arbeitslosenversicherung.
 
-<sup>4</sup> Das kantonale Arbeitsamt kann in begründeten Einzelfällen die anspruchsberechtigte Person von einzelnen Pflichten entbinden.
+<sup>4</sup> Das kantonale Arbeitsamt <sup>2)</sup> kann in begründeten Einzelfällen die anspruchsberechtigte Person von einzelnen Pflichten entbinden.
 
 #### § 9
 
-**Anschlusstaggelder: Einstellung in der Anspruchsberechtigung**
+**d) Einstellung in der Anspruchsberechtigung**
 
 <sup>1</sup> Die Einstellung in der Anspruchsberechtigung erfolgt nach den Bestimmungen der obligatorischen Arbeitslosenversicherung.
 
@@ -155,7 +171,7 @@ beschliesst:
 
 **Anspruch bei Wegfall der Karenzfrist**
 
-<sup>1</sup> Arbeitslosen Personen, die seit weniger als einem Jahr im Kanton Schaffhausen Wohnsitz haben, aufgrund von Art. 2 Abs. 1 des Gesetzes aber einen Anspruch geltend machen können, werden die im früheren Wohnsitzkanton bezogenen Arbeitslosenhilfeleistungen angerechnet.
+Arbeitslosen Personen, die seit weniger als einem Jahr im Kanton Schaffhausen Wohnsitz haben, aufgrund von Art. 2 Abs. 1 des Gesetzes aber einen Anspruch geltend machen können, werden die im früheren Wohnsitzkanton bezogenen Arbeitslosenhilfeleistungen angerechnet.
 
 #### § 11
 
@@ -167,11 +183,11 @@ beschliesst:
 
 <sup>3</sup> Für die Beurteilung, ob ein Härtefall vorliegt, ist die persönliche, familiäre und wirtschaftliche Situation der arbeitslosen Person zu berücksichtigen.
 
-## 2 Organisation und Durchführung
+### II. Organisation und Durchführung
 
 #### § 12
 
-**Kantonale Arbeitslosenkasse: Leitung**
+**Kantonale Arbeitslosenkasse: a) Leitung**
 
 <sup>1</sup> Für die Führung der kantonalen Arbeitslosenkasse verantwortlich im Sinne von Art. 103 der Verordnung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIV) ist die Leitung der kantonalen AHV-Ausgleichskasse.
 
@@ -181,63 +197,75 @@ beschliesst:
 
 #### § 13
 
-**Kantonale Arbeitslosenkasse: Aufgaben**
+**b) Aufgaben**
 
 <sup>1</sup> Die kantonale Arbeitslosenkasse erfüllt alle Aufgaben, die ihr durch das AVIG sowie weitere Erlasse des Bundes zugewiesen werden. Im Bereich der kantonalen Arbeitslosenhilfe obliegen ihr insbesondere folgende Aufgaben:
 
-- a) der Bezug der Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer
-- b) die Abrechnung mit dem Kanton und den Gemeinden
-- c) die Verwaltung des Sozialfonds
-- d) die Einstellung in der Anspruchsberechtigung, soweit diese Befugnis nicht dem kantonalen Arbeitsamt zusteht
-- e) die Berechnung und Auszahlung der Leistungen
-- f) der Erlass von Verfügungen
-- g) das Erstellen von Jahresbericht und Jahresrechnung
+- a) der Bezug der Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer;
 
-<sup>2</sup> Die kantonale Arbeitslosenkasse unterbreitet einen Fall dem kantonalen Arbeitsamt zum Entscheid, wenn Zweifel bestehen:
+- b) die Abrechnung mit dem Kanton und den Gemeinden;
 
-- a) ob die Anspruchsvoraussetzungen erfüllt sind
-- b) ob, für wie viele Tage oder auf welchen Zeitpunkt eine anspruchsberechtigte Person in der Anspruchsberechtigung eingestellt werden muss
+- c) die Verwaltung des Sozialfonds;
+
+- d) die Einstellung in der Anspruchsberechtigung, soweit diese Befugnis nicht dem kantonalen Arbeitsamt <sup>2)</sup> zusteht;
+
+- e) die Berechnung und Auszahlung der Leistungen;
+
+- f) der Erlass von Verfügungen;
+
+- g) das Erstellen von Jahresbericht und Jahresrechnung.
+
+<sup>2</sup> Die kantonale Arbeitslosenkasse unterbreitet einen Fall dem kantonalen Arbeitsamt <sup>2)</sup> zum Entscheid, wenn Zweifel bestehen:
+
+- a) ob die Anspruchsvoraussetzungen erfüllt sind;
+
+- b) ob, für wie viele Tage oder auf welchen Zeitpunkt eine anspruchsberechtigte Person in der Anspruchsberechtigung eingestellt werden muss.
 
 #### § 14
 
-**Kantonale Arbeitslosenkasse: Aufsicht**
+**c) Aufsicht**
 
-<sup>1</sup> Kantonale Aufsichtsbehörde der kantonalen Arbeitslosenkasse ist das Departement des Innern; vorbehalten bleiben die Befugnisse des Regierungsrates nach Abs. 3.
+<sup>1</sup> Kantonale Aufsichtsbehörde der kantonalen Arbeitslosenkasse ist das Departement des Innern <sup>2)</sup>; vorbehalten bleiben die Befugnisse des Regierungsrates nach Abs. 3.
 
-<sup>2</sup> Dem Departement des Innern obliegt insbesondere:
+<sup>2</sup> Dem Departement des Innern <sup>2)</sup> obliegt insbesondere:
 
-- a) die Genehmigung der internen Organisation und des Reglements
-- b) die Vereinbarung mit der AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
-- c) die Genehmigung von Jahresrechnung und Jahresbericht der AHV-Ausgleichskasse betreffend die Durchführung des Gesetzes
+- a) die Genehmigung der internen Organisation und des Reglements;
+
+- b) die Vereinbarung mit der AHV-Ausgleichskasse über die Deckung der Verwaltungskosten;
+
+- c) die Genehmigung von Jahresrechnung und Jahresbericht der AHV-Ausgleichskasse betreffend die Durchführung des Gesetzes.
 
 <sup>3</sup> Dem Regierungsrat obliegt:
 
-- a) die Festlegung des Satzes für die Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer gemäss Art. 17 Abs. 1 lit. d des Gesetzes
-- b) die Bestimmung über die Verwendung des Vermögens des Sozialfonds
-- c) die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen
+- a) die Festlegung des Satzes für die Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer gemäss Art. 17 Abs. 1 lit. d des Gesetzes;
 
-<sup>4</sup> Die Buchhaltung und Geschäftsführung der kantonalen Arbeitslosenkasse betreffend die kantonale Arbeitslosenhilfe wird jährlich von einer unabhängigen Revisionsstelle geprüft, die auch für die Revision der AHV-Ausgleichskasse zuständig ist. Diese stellt den Bericht dem Departement des Innern zu.
+- b) die Bestimmung über die Verwendung des Vermögens des Sozialfonds;
+
+- c) die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen.
+
+<sup>4</sup> Die Buchhaltung und Geschäftsführung der kantonalen Arbeitslosenkasse betreffend die kantonale Arbeitslosenhilfe wird jährlich von einer unabhängigen Revisionsstelle geprüft, die auch für die Revision der AHV-Ausgleichskasse zuständig ist. Diese stellt den Bericht dem Departement des Innern <sup>2)</sup> zu.
 
 #### § 15
 
-**Kantonale Amtsstelle: Aufgaben**
+**Kantonale Amtsstelle: a) Aufgaben**
 
-<sup>1</sup> Das kantonale Arbeitsamt als kantonale Amtsstelle im Sinne von Art. 85 AVIG erfüllt alle Aufgaben, die ihm durch das AVIG zugewiesen werden. Es kann dazu weitere Amtsstellen oder Private beiziehen.
+<sup>1</sup> Das kantonale Arbeitsamt <sup>2)</sup> als kantonale Amtsstelle im Sinne von Art. 85 AVIG erfüllt alle Aufgaben, die ihm durch das AVIG zugewiesen werden. Es kann dazu weitere Amtsstellen oder Private beiziehen.
 
 <sup>2</sup> Ob eine Aufgabe von der kantonalen Arbeitslosenkasse oder von der kantonalen Amtsstelle wahrgenommen wird, bestimmt sich in der Regel gemäss der Aufgabenzuteilung in der obligatorischen Arbeitslosenversicherung.
 
-<sup>3</sup> Für die Zusprache von Leistungen und Beiträgen gemäss Art. 3, 4, 5 und 7 des Gesetzes im Rahmen des Budgets ist die gemeinsame Zustimmung der kantonalen Arbeitslosenkasse und der kantonalen Amtsstelle erforderlich. Bestehen unterschiedliche Auffassungen, entscheidet der Regierungsrat.
+<sup>3</sup> Für die Zusprache von Leistungen und Beiträgen gemäss Art. 3, 4, 5 und 7 des Gesetzes im Rahmen des Budgets ist die gemeinsame Zustimmung der kantonalen Arbeitslosenkasse und der kantonalen Amtsstelle erforderlich. Bestehen unterschiedliche Auffassungen, entscheidet der Regierungsrat. <sup>5)</sup>
 
 #### § 16
 
-**Kantonale Amtsstelle: Aufsicht**
+**b) Aufsicht**
 
 <sup>1</sup> Kantonale Aufsichtsbehörde der kantonalen Amtsstelle ist das Volkswirtschaftsdepartement; vorbehalten bleibt die Befugnis des Regierungsrates nach Abs. 3.
 
 <sup>2</sup> Dem Volkswirtschaftsdepartement obliegt insbesondere:
 
-- a) die Vereinbarung mit Gemeinden über die Delegation von Aufgaben an die kantonale Amtsstelle
-- b) die Vereinbarung mit der kantonalen Amtsstelle über die Deckung der Verwaltungskosten
+- a) die Vereinbarung mit Gemeinden über die Delegation von Aufgaben an die kantonale Amtsstelle;
+
+- b) die Vereinbarung mit der kantonalen Amtsstelle über die Deckung der Verwaltungskosten.
 
 <sup>3</sup> Dem Regierungsrat obliegt die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen.
 
@@ -245,36 +273,45 @@ beschliesst:
 
 **Tripartite Kommission**
 
-<sup>1</sup> Die Tripartite Kommission kann als Konsultativorgan beigezogen werden:
+Die Tripartite Kommission kann als Konsultativorgan beigezogen werden:
 
-- a) für den Erlass von Richtlinien
-- b) bei grundsätzlichen oder schwierigen Entscheiden
-- c) bei der Zuteilung der bewilligten Mittel gemäss Art. 21 des Gesetzes an kollektive Massnahmen gemäss Art. 4 oder an Anstellungsprogramme gemäss Art. 5 des Gesetzes
-- d) bei kollektiven Massnahmen, die Kosten von mehr als Fr. 50'000.00 Franken verursachen
-- e) bei der Festlegung der Voraussetzungen, der Art und des Umfangs sowie der Bedingungen bei Anstellungsprogrammen
-- f) beim Entscheid, welche Anstellungsprogramme in welchem Umfange unterstützt werden
+- a) für den Erlass von Richtlinien;
+
+- b) bei grundsätzlichen oder schwierigen Entscheiden;
+
+- c) bei der Zuteilung der bewilligten Mittel gemäss Art. 21 des Gesetzes an kollektive Massnahmen gemäss Art. 4 oder an Anstellungsprogramme gemäss Art. 5 des Gesetzes;
+
+- d) bei kollektiven Massnahmen, die Kosten von mehr als 50’000 Franken verursachen;
+
+- e) bei der Festlegung der Voraussetzungen, der Art und des Umfangs sowie der Bedingungen bei Anstellungsprogrammen;
+
+- f) beim Entscheid, welche Anstellungsprogramme in welchem Umfange unterstützt werden.
 
 #### § 18
 
 **Geschäftsjahr**
 
-<sup>1</sup> Als Geschäftsjahr gilt das Kalenderjahr.
+Als Geschäftsjahr gilt das Kalenderjahr.
+
+[^18-1]: Aufgehoben durch RRB vom 5. Juli 2011, in Kraft getreten am 1. August 2011, (Amtsblatt 2011, S. 899).
 
 #### § 19
 
-**…**
+[^18-1]
+
+[^19-1]: Fassung gemäss RRB vom 5. Juli 2011, in Kraft getreten am 1. August 2011, (Amtsblatt 2011, S. 899).
 
 #### § 20
 
-**Auskunfts- und Schweigepflicht**
+**Auskunfts- und Schweigepflicht**[^19-1]
 
 <sup>1</sup> Organe, die mit der Durchführung, der Kontrolle oder der Beaufsichtigung des Gesetzes betraut sind, dürfen Daten nach Massgabe von Art. 97a AVIG bekannt geben.
 
 <sup>2</sup> Im Übrigen gelten die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^20-1] sowie des AVIG betreffend Auskunfts- und Schweigepflicht.
 
-[^20-1]: SR [830.1](http://db.clex.ch/link/Bund/830.1/de).
+[^20-1]: SR 830.1.
 
-## 3 Finanzierung
+### III. Finanzierung
 
 #### § 21
 
@@ -296,52 +333,85 @@ beschliesst:
 
 <sup>4</sup> Soweit nichts anderes bestimmt ist, gilt für den Bereich der Beiträge die AHV-Gesetzgebung sinngemäss.
 
-## 4 Schlussbestimmungen
+### IV. Schlussbestimmungen
 
-#### § 23–24
+[^hIVSchlussbestimmun-1]: Aufgehoben durch V vom 14. Dezember 1999, in Kraft getreten am 1. Januar 2000 (Amtsblatt 1999, S. 1833).
 
-**…**
+#### § 23
+
+[^hIVSchlussbestimmun-1]
+
+[^23-1]: Aufgehoben durch RRB vom 5. Juli 2011, in Kraft getreten am 1. August 2011, (Amtsblatt 2011, S. 899).
+
+#### § 24
+
+[^23-1]
 
 #### § 25
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund[^25-1] rückwirkend auf den 1. Oktober 1997 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^25-2] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund rückwirkend auf den 1. Oktober 1997 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^25-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>2</sup> Sie ersetzt die Verordnung des Regierungsrates des Kantons Schaffhausen zum Gesetz über die Arbeitslosenversicherung, Arbeitslosenfürsorge und über Präventivmassnahmen vom 28. November 1983.
 
-[^25-1]: Vom Eidgenössischen Volkswirtschaftsdepartement genehmigt am 5. November 1997.
-[^25-2]: Amtsblatt 1997, S. 1343.
+Vom Eidgenössischen Volkswirtschaftsdepartement genehmigt am 5. November 1997.
 
-## A1 Anhang 1: Einkommens- und Vermögenspositionen zur Bestimung des anrechenbaren Einkommens sowie des anrechenbaren Teils des Vermögens
+Fussnoten:
 
-#### § A1-1
+**Anhang 6)**
 
-<sup>1</sup> Einkommens- und Vermögenspositionen zur Bestimung des anrechenbaren Einkommens sowie des anrechenbaren Teils des Vermögens:
+[^25-1]: Amtsblatt 1997, S. 1343.
 
-- 1\. Einkommen
-  - 1\.01 Einkommen aus unselbständigem Erwerb
-  - 1\.02 Einkommen aus selbständigem Erwerb
-  - 1\.03 Einkommen aus Nebenerwerb
-  - 1\.04 Taggelder der Arbeitslosenkasse/Arbeitslosenhilfe
-  - 1\.05 Ersatzeinkommen (Taggelder aus Invaliden-, Kranken-, Unfall- und Hafpflichtversicherungen, Erwerbsausfallentschädigungen / Ergänzungsleistungen / Mutterschaftsentschädigungen
-  - 1\.06 Pensionen / Renten (Pensionen / Alters- und Hinterbliebenenrenten / Leibrenten, Invalidenrenten und Renten aus Versicherungsvetrag / SUVA-Renten
-  - 1\.07 Kantonale Sozialzulagen (Erwerbsersatzleistungen für Eltern, Krankenkassenprämienverbilligungen)
-  - 1\.08 Allimenten / Unterhaltsbeiträge
-  - 1\.09 Kinder- / Ausbildungszulagen
-  - 1\.10 Zinserträge (Sparhefte / Wertschriften / Kapitalanlagen)
-  - 1\.11 Erbschaften
-  - 1\.12 Einkommen aus Grundeigentum (Eigenmietwert bei Wohneigentum/Liegenschaftserträge)
-  - 1\.13 Übriges Einkommen (Toto-Lottogewinne / Lotteriegewinne)
-- 2\. Abzüge Einkommen
-  - 2\.01 Familienrechtliche Unterhaltsbeiträge (Alimente etc., Entschädigungen an den getrennt lebenden Ehepartner)
-  - 2\.02 Schuldzinsen / dauernde Lasten (Hypothekarzinsen, Gebäudeunterhaltskosten)
-- 3\. Vermögen
-  - 3\.01 Sparguthaben (Sparhefte, Postkontoguthaben, Bargeld / Gold / Edelmetalle, sonstige Kapitalanlagen)
-  - 3\.02 Rückkaufsfähige Lebens- und Rentenversicherungen
-  - 3\.03 Sonstige Vermögenswerte (z.B. unverteilte Erbschaften)
-  - 3\.04 Grundeigentum/Liegenschaften (In- und Ausland)
-- 4\. Abzüge Vermögen
-  - 4\.01 Grundpfandschulden / Hypothekarschulden
+### Einkommens- und Vermögenspositionen zur Bestimung
 
-Abl. 1997, S. 1343
+des anrechenbaren Einkommens sowie des anrechenbaren Teils des Vermögens
+
+- 1\. Einkommen 1.01 Einkommen aus unselbständigem Erwerb
+
+1.02 Einkommen aus selbständigem Erwerb
+
+1.03 Einkommen aus Nebenerwerb
+
+1.04 Taggelder der Arbeitslosenkasse/Arbeitslosenhilfe
+
+1.05 Ersatzeinkommen Taggelder aus Invaliden-, Kranken-, Unfall- und Hafpflichtversicherungen Erwerbsausfallentschädigungen/Ergänzungsleistungen/Mutterschaftsentschädigungen
+
+1.06 Pensionen/Renten Pensionen/Alters- und Hinterbliebenenrenten/Leibrenten Invalidenrenten und Renten aus Versicherungsvetrag/- SUVA-Renten
+
+1.07 Kantonale Sozialzulagen
+
+Erwerbsersatzleistungen für Eltern
+
+Krankenkassenprämienverbilligungen
+
+1.08 Allimenten/Unterhaltsbeiträge
+
+1.09 Kinder-/Ausbildungszulagen
+
+1.10 Zinserträge Sparhefte/Wertschriften/Kapitalanlagen
+
+1.11 Erbschaften 1.12 Einkommen aus Grundeigentum Eigenmietwert bei Wohneigentum/Liegenschaftserträge
+
+1.13 Übriges Einkommen Toto-Lottogewinne/Lotteriegewinne
+
+- 2\. Abzüge Einkommen 2.01 Familienrechtliche Unterhaltsbeiträge Alimente etc.
+
+Entschädigungen an den getrennt lebenden Ehepartner
+
+2.02 Schuldzinsen/dauernde Lasten Hypothekarzinsen Gebäudeunterhaltskosten
+
+- 3\. Vermögen 3.01 Sparguthaben Sparhefte Postkontoguthaben Bargeld/Gold/Edelmetalle sonstige Kapitalanlagen
+
+3.02 Rückkaufsfähige Lebens- und Rentenversicherungen
+
+3.03 Sonstige Vermögenswerte z.B. unverteilte Erbschaften
+
+3.04 Grundeigentum/Liegenschaften (In- und Ausland)
+
+- 4\. Abzüge Vermögen 4.01 Grundpfandschulden/Hypothekarschulden
+
+## Weitere Fussnoten
+
+- [2] Fassung gemäss V vom 14. Dezember 1999, in Kraft getreten am 1. Januar 2000 (Amtsblatt 1999, S. 1833).
+- [6] Eingefügt durch RRB vom 5. Juli 2011, in Kraft getreten am 1. August 2011, (Amtsblatt 2011, S. 899).
