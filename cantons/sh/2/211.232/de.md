@@ -4,32 +4,34 @@ number: "211.232"
 title: Erbschaftsgebührenverordnung
 language: de
 version: 2016-05-01
+corrected: 2024-06-24
 version_adopted: 2016-02-16
 adopted: 2016-02-16
 in_force: 2016-05-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.232"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1746/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/143/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Erbschaftsgebührenverordnung
 
-Vom 16.02.2016 (Stand 01.05.2016)
+vom 16. Februar 2016
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 in Ausführung von Art. 163 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911,
 
-beschliesst:
+verordnet:
 
-## 1 Allgemeine Bestimmungen
+## A. Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Gebühren im Erbschaftswesen, soweit nicht besondere eidgenössische oder kantonale Vorschriften in Gesetzen, Dekreten oder Verordnungen bestehen.
+Diese Verordnung regelt die Gebühren im Erbschaftswesen, soweit nicht besondere eidgenössische oder kantonale Vorschriften in Gesetzen, Dekreten oder Verordnungen bestehen.
 
 #### § 2
 
@@ -47,6 +49,8 @@ beschliesst:
 
 <sup>1</sup> Barauslagen für übliche Telefon- und Portospesen, Fotokopien und Briefpapier sind in der Gebühr enthalten.
 
+Amtsblatt 2016, S. 299
+
 <sup>2</sup> Grössere Barauslagen wie die Kosten für eingeschriebene Briefe, Zivilstandsdokumente, Grundbuchauszüge, Reisespesen, die Auslagen für den Erbenruf wie auch die Kosten des Konkursamtes können in Rechnung gestellt werden.
 
 #### § 4
@@ -57,7 +61,7 @@ beschliesst:
 
 <sup>2</sup> Die durch die kantonalen Amtsstellen selbst vorgenommenen Beurkundungen fallen in die Staatskasse.
 
-## 2 Nachlassverfahren
+## B. Nachlassverfahren
 
 #### § 5
 
@@ -65,131 +69,169 @@ beschliesst:
 
 <sup>1</sup> Für die Aufnahme des amtlichen Inventars inklusive einer allfälligen güterrechtlichen Auseinandersetzung wird folgende Gebühr erhoben:
 
-- a) Grundgebühr: — Fr. 700.00
-- b) Zuschlag auf dem inventarisierten Reinvermögen: — 2‰
+**700 Fr. 2 ‰**
+
+- a) Grundgebühr:
+
+- b) Zuschlag auf dem inventarisierten Reinvermögen:
 
 <sup>2</sup> Für die Erbteilung wird folgende Gebühr erhoben:
 
-- a) Grundgebühr: — Fr. 350.00
-- b) Zuschlag auf dem inventarisierten Reinvermögen: — 2‰
+**350 Fr. 2 ‰**
 
-<sup>3</sup> Die Gebühr darf den Betrag von Fr. 10'000.00 nicht übersteigen.
+- a) Grundgebühr:
+
+- b) Zuschlag auf dem inventarisierten Reinvermögen:
+
+<sup>3</sup> Die Gebühr darf den Betrag von 10'000 Fr. nicht übersteigen.
 
 <sup>4</sup> Entfällt das Interesse an der Aufnahme eines amtlichen Inventars vor dessen Zustellung an die Erben zur Unterschrift, so kommen die Gebührenansätze nach § 7 zur Anwendung. Bereits getätigter Aufwand der Behörden wird im Rahmen der nachstehenden Gebühren in Rechnung gestellt.
 
 #### § 6
 
-**Amtliches Inventar zufolge Erbschaftssteuern**
+**Amtliches Inventar zufolge Erbschafts-**
 
 <sup>1</sup> Bei der Aufnahme des amtlichen Inventars einzig zum Zweck der Erhebung von Erbschaftssteuern wird folgende Gebühr erhoben:
 
-- a) Grundgebühr: — Fr. 350.00
-- b) Zuschlag auf dem inventarisierten Reinvermögen: — 1‰
+**350 Fr.**
 
-<sup>2</sup> Die Gebühr darf den Betrag von Fr. 2'000.00 nicht übersteigen.
+**steuern**
+
+- a) Grundgebühr:
+
+**1 ‰**
+
+- b) Zuschlag auf dem inventarisierten Reinvermögen:
+
+<sup>2</sup> Die Gebühr darf den Betrag von 2'000 Fr. nicht übersteigen.
 
 #### § 7
 
 **Vereinfachtes Verfahren mit Inventarfragebogen**
 
-<sup>1</sup> Entfällt die Gebühr für die amtliche Inventaraufnahme, so wird eine Grundgebühr von Fr. 350.00 erhoben.
+Entfällt die Gebühr für die amtliche Inventaraufnahme, so wird eine Grundgebühr von 350 Fr. erhoben.
 
 #### § 8
 
 **Staatsgebühr**
 
-<sup>1</sup> Die Staatsgebühr beträgt 40% der Gebühr nach § 5–§ 7.
+Die Staatsgebühr beträgt 40 % der Gebühr nach § 5 – § 7.
 
 #### § 9
 
-**Siegelung**
+**250 Fr. Siegelung 150 Fr.**
 
-<sup>1</sup> Siegelung:
+- a) Erstmalige Siegelung:
 
-- a) Erstmalige Siegelung: — Fr. 250.00
-- b) Öffnung und Nachsiegelung: — Fr. 150.00
-- c) zusätzlich pro Amtsperson und angefangene Stunde: — Fr. 75.00
+- b) Öffnung und Nachsiegelung:
+
+- c) zusätzlich pro Amtsperson und angefangene Stunde: 75 Fr.
 
 #### § 10
 
-**Öffentliches Inventar**
+**Öffentliches 500 Fr. Inventar**
 
-<sup>1</sup> Öffentliches Inventar:
+- a) Durchführung des öffentlichen Inventars mit Rechnungsruf:
 
-- a) Durchführung des öffentlichen Inventarsmit Rechnungsruf: — Fr. 500.00
-- b) Publikationskosten gelten als Barauslagen
+- b) Publikationskosten gelten als Barauslagen.
 
 #### § 11
 
-**Versteigerung**
+**500 Fr. Versteigerung**
 
-<sup>1</sup> Versteigerung:
+- a) Pro Versteigerung:
 
-- a) Pro Versteigerung: — Fr. 500.00
-- b) Die Kosten der öffentlichen Versteigerung gelten als Barauslagen
+- b) Die Kosten der öffentlichen Versteigerung gelten als Barauslagen.
 
 #### § 12
 
-**Amtliche Liquidation**
+**250 Fr. Amtliche 3 % Liquidation**
 
-<sup>1</sup> Amtliche Liquidation:
+- a) Grundgebühr:
 
-- a) Grundgebühr: — Fr. 250.00
-- b) Zuschlag auf dem Nachlassvermögen: — 3%
+- b) Zuschlag auf dem Nachlassvermögen:
 
 #### § 13
 
-**Verfügungen von Todes wegen und Eheverträge**
+**Verfügungen von Todes wegen und Eheverträge 50 Fr.**
 
 <sup>1</sup> Verfügungen von Todes wegen werden nur auf ausdrücklichen Wunsch der Berechtigten in deren Anwesenheit eröffnet. Sie erhalten in jedem Fall eine Abschrift. Dabei gelten folgende Gebühren:
 
-- a) Eröffnung (pro Verfügung): — Fr. 50.00
+- a) Eröffnung (pro Verfügung):
+
+**pro Empfänger 50 Fr.**
+
 - b) Zustellung der Abschrift der eröffneten Verfügung:
-  - 1\. pro Empfänger: — Fr. 50.00
-  - 2\. insgesamt maximal: — Fr. 100.00
+
+insgesamt maximal 100 Fr.
 
 <sup>2</sup> Dies gilt sinngemäss für die Bekanntgabe und die Mitteilung von Eheverträgen.
 
 #### § 14
 
-**Bescheinigungen, Ernennungsurkunden, Auszüge**
+**Bescheinigun-**
 
-<sup>1</sup> Bescheinigungen, Ernennungsurkunden, Auszüge:
+**250 Fr.**
 
-- a) Erbenbescheinigung (erstmalig): — Fr. 250.00
-- b) übrige Bescheinigungen und Ernennungsurkunden (erstmalig): — Fr. 100.00
-- c) nochmalige Ausstellung zu einem späteren Zeitpunkt: — Fr. 50.00
-- d) Auszüge an Dritte, pro Seite: — Fr. 10.00
+- a) Erbenbescheinigung (erstmalig):
+
+**gen, Ernennungsurkunden,**
+
+**100 Fr.**
+
+- b) übrige Bescheinigungen und Ernennungsurkunden (erstmalig):
+
+**Auszüge**
+
+- c) nochmalige Ausstellung zu einem späteren Zeitpunkt: 50 Fr.
+
+**10 Fr.**
+
+- d) Auszüge an Dritte, pro Seite:
 
 #### § 15
 
-**Anmeldung in das Grundbuch**
+**Anmeldung in**
 
-<sup>1</sup> Anmeldung in das Grundbuch:
+**50 Fr.**
 
-- a) Anmeldung in das Grundbuch: — Fr. 50.00
-- b) Die Gebühren des Grundbuchamtes gelten als Barauslagen
+- a) Anmeldung in das Grundbuch:
+
+**das Grundbuch**
+
+- b) Die Gebühren des Grundbuchamtes gelten als Barauslagen.
 
 #### § 16
 
 **Besonderer Aufwand**
 
-<sup>1</sup> Besonderer Aufwand kann in Rechnung gestellt werden. Die Stundenansätze gelten pro angefangene Stunde. Es gelten folgende Ansätze:
+Besonderer Aufwand kann in Rechnung gestellt werden. Die Stundenansätze gelten pro angefangene Stunde. Es gelten folgende Ansätze:
 
-- a) Erbenkonferenzen: — Fr. 200.00
-- b) Willensvollstreckermandate, Vermögensverwaltung: Fr. 100.00–Fr. 150.00, zuzüglich Zuschlag auf dem Nachlassvermögen: 1%–3%
-- c) Rechtsauskünfte auf Begehren der Erben: — Fr. 150.00
-- d) Besonderer, nicht anderweitig abgedeckter Aufwand: — Fr. 150.00
+**200 Fr.**
+
+- a) Erbenkonferenzen:
+
+**100 Fr. – 150 Fr.**
+
+- b) Willensvollstreckermandate, Vermögensverwaltung:
+
+zuzüglich Zuschlag auf dem Nachlassvermögen: 1 % – 3 % c) Rechtsauskünfte auf Begehren der Erben:
+
+**150 Fr.**
+
+- d) Besonderer, nicht anderweitig abgedeckter Aufwand: 150 Fr.
 
 #### § 17
 
-**Beschlüsse der Erbschaftsbehörde**
+**Beschlüsse der**
 
-<sup>1</sup> Beschlüsse der Erbschaftsbehörde:
+**150 Fr. – 1'500 Fr.**
 
-- a) Beschlussgebühr: — Fr. 150.00–Fr. 1'500.00
+Beschlussgebühr:
 
-## 3 Beurkundungen
+**Erbschaftsbehörde**
+
+## C. Beurkundungen
 
 #### § 18
 
@@ -197,27 +239,29 @@ beschliesst:
 
 <sup>1</sup> Die Beratung, Errichtung und Aufhebung von Ehe- und Vermögensverträgen, letztwilligen Verfügungen und Erbverträgen sowie die Prüfung eingereichter Verträge und Verfügungen ist kostenpflichtig.
 
-<sup>2</sup> Die Gebühr beträgt pro angefangene Stunde Fr. 250.00, wobei eine summarische Erstberatung am Telefon oder in den Amtsräumen kostenlos erteilt wird.
+<sup>2</sup> Die Gebühr beträgt pro angefangene Stunde 250 Fr., wobei eine summarische Erstberatung am Telefon oder in den Amtsräumen kostenlos erteilt wird.
 
-<sup>3</sup> Die Kunden sind auf die ungefähren Kosten hinzuweisen. Wird der Betrag von Fr. 2'000.00 überschritten, sind die Kunden zu informieren.
+<sup>3</sup> Die Kunden sind auf die ungefähren Kosten hinzuweisen. Wird der Betrag von 2'000 Fr. überschritten, sind die Kunden zu informieren.
 
 #### § 19
 
 **Beurkundung**
 
-<sup>1</sup> Beurkundung vorstehender Verträge und Verfügungen: Fr. 350.00.
+<sup>1</sup> Beurkundung vorstehender Verträge und Verfügungen: 350 Fr.
 
-<sup>2</sup> Zuschlag für Auswärtsberatungen und Auswärtsbeurkundungen (pro Gang): Fr. 150.00.
+<sup>2</sup> Zuschlag für Auswärtsberatungen und Auswärtsbeurkundungen (pro Gang):
 
 #### § 20
 
-**Depotgebühren**
+**150 Fr.**
 
-<sup>1</sup> Depotgebühren für Ehe-, Vermögens- und Erbverträge, letztwillige Verfügungen und andere Urkunden, pro Urkunde: Fr. 150.00.
+**Depotgebühren 150 Fr.**
+
+<sup>1</sup> Depotgebühren für Ehe-, Vermögens- und Erbverträge, letztwillige Verfügungen und andere Urkunden, pro Urkunde:
 
 <sup>2</sup> Für Zweithinterlegung und Nachträge werden keine Gebühren verlangt.
 
-## 4 Schlussbestimmungen
+## D. Schlussbestimmungen
 
 #### § 21
 
@@ -231,6 +275,6 @@ beschliesst:
 
 <sup>4</sup> Sie ist im Amtsblatt zu veröffentlichen[^21-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^21-1]: Amtsblatt 2016, S. 299.
+Fussnoten:
 
-Abl. 2016, S. 299
+[^21-1]: Amtsblatt 2016, S. 299.
