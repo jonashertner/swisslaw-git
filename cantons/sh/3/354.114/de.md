@@ -4,36 +4,34 @@ number: "354.114"
 title: Vereinbarung über die Errichtung und den Betrieb einer Ostschweizer Polizeischule in Amriswil
 language: de
 version: 2006-01-01
+corrected: 2024-06-24
 version_adopted: 2005-04-01
 adopted: 2005-04-01
 in_force: 2006-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.114"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1752/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/262/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über die Errichtung und den Betrieb einer Ostschweizer Polizeischule in Amriswil
 
-Vom 01.04.2005 (Stand 01.01.2006)
+vom 1. April 2005
 
-Die Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Schaffhausen, St. Gallen und Thurgau, das Fürstentum Liechtenstein sowie die Städte Chur und St. Gallen,
+In Anlehnung an die interkantonale Vereinbarung über die polizeiliche Zusammenarbeit vom 21. Januar 1976 vereinbaren die Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Schaffhausen, St. Gallen und Thurgau, das Fürstentum Liechtenstein sowie die Städte Chur und St. Gallen:
 
-in Anlehnung an die interkantonale Vereinbarung über die polizeiliche Zusammenarbeit vom 21. Januar 1976,
-
-beschliessen:
-
-## 1 Allgemeines
+### I. ALLGEMEINES
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Diese Vereinbarung regelt die Zusammenarbeit der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Schaffhausen, St. Gallen und Thurgau sowie des Fürstentums Liechtenstein und der Städte Chur und St. Gallen für die Errichtung und den Betrieb einer gemeinsamen Ostschweizer Polizeischule.
+Diese Vereinbarung regelt die Zusammenarbeit der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Schaffhausen, St. Gallen und Thurgau sowie des Fürstentums Liechtenstein und der Städte Chur und St. Gallen für die Errichtung und den Betrieb einer gemeinsamen Ostschweizer Polizeischule.
 
 #### Art. 2
 
-**Ausbildungsangebot und Verpflichtung**
+**Ausbildungsangebot und - verpflichtung**
 
 <sup>1</sup> Die Ostschweizer Polizeischule stellt die Grundausbildung der Polizistinnen und Polizisten der Vertragsparteien zur Erlangung des eidgenössischen Fachausweises als Polizistin oder Polizist sicher.
 
@@ -47,35 +45,41 @@ beschliessen:
 
 <sup>1</sup> Der Kanton Thurgau führt die Ostschweizer Polizeischule mit Standort Amriswil im Auftrage der übrigen Vertragsparteien.
 
+Amtsblatt 2006, S. 555.
+
 <sup>2</sup> Die Ostschweizer Polizeischule ist eine Abteilung der Kantonspolizei Thurgau. Sie erhält einen Leistungsauftrag mit Globalbudget mit jährlicher Verbindlichkeit.
 
-## 2 Zuständigkeiten
+### II. ZUSTÄNDIGKEITEN
 
 #### Art. 4
 
-**Konferenz der Justiz- und Polizeidirektorinnen und ‑direktoren**
+**Konferenz der Justiz- und Polizeidirektorinnen und - direktoren**
 
-<sup>1</sup> Die Konferenz der für die Polizei zuständigen Direktorinnen und Direktoren der Vertragsparteien:
+<sup>1</sup> Die Konferenz der für die Polizei zuständigen Direktorinnen und Direktoren der Vertragsparteien 1. bestimmt die strategische Ausrichtung der Ostschweizer Polizeischule,
 
-- 1\. bestimmt die strategische Ausrichtung der Ostschweizer Polizeischule
-- 2\. genehmigt die Ernennung der Schuldirektorin oder des Schuldirektors
-- 3\. genehmigt den jährlichen Leistungsauftrag und verabschiedet das Globalbudget zuhanden der zuständigen Behörden der Vertragsparteien
-- 4\. genehmigt den Geschäftsbericht und die Jahresrechnung
-- 5\. nimmt den jährlichen Revisionsbericht zur Kenntnis
+- 2\. genehmigt die Ernennung der Schuldirektorin oder des Schuldirektors,
+
+- 3\. genehmigt den jährlichen Leistungsauftrag und verabschiedet das Globalbudget zuhanden der zuständigen Behörden der Vertragsparteien,
+
+- 4\. genehmigt den Geschäftsbericht und die Jahresrechnung,
+
+- 5\. nimmt den jährlichen Revisionsbericht zur Kenntnis.
 
 <sup>2</sup> Jede Vertragspartei verfügt über eine Stimme.
 
 #### Art. 5
 
-**Konferenz der Polizeikommandantinnen und ‑kommandanten**
+**Konferenz der Polizeikommandantinnen und - kommandanten**
 
-<sup>1</sup> Die Konferenz der Polizeikommandantinnen und ‑kommandanten der Vertragsparteien:
+Die Konferenz der Polizeikommandantinnen und -kommandanten der Vertragsparteien 1. regelt den Lehrplan, den Schulbetrieb, das Prüfungswesen und die Erteilung des Diploms,
 
-- 1\. regelt den Lehrplan, den Schulbetrieb, das Prüfungswesen und die Erteilung des Diploms
-- 2\. genehmigt die Anstellung bzw. die Beschäftigung des haupt- und nebenamtlichen Lehrpersonals der Ostschweizer Polizeischule
-- 3\. bestimmt die Kontingente an Ausbildungsplätzen für die einzelnen Polizeikorps
-- 4\. legt das Anforderungsprofil für die Auszubildenden fest
-- 5\. prüft den Leistungsauftrag, das Globalbudget, den Geschäftsbericht und die Jahresrechnung zuhanden der Konferenz der Justiz- und Polizeidirektorinnen und ‑direktoren
+- 2\. genehmigt die Anstellung bzw. die Beschäftigung des haupt- und nebenamtlichen Lehrpersonals der Ostschweizer Polizeischule,
+
+- 3\. bestimmt die Kontingente an Ausbildungsplätzen für die einzelnen Polizeikorps,
+
+- 4\. legt das Anforderungsprofil für die Auszubildenden fest,
+
+- 5\. prüft den Leistungsauftrag, das Globalbudget, den Geschäftsbericht und die Jahresrechnung zuhanden der Konferenz der Justiz- und Polizeidirektorinnen und -direktoren.
 
 #### Art. 6
 
@@ -83,20 +87,21 @@ beschliessen:
 
 <sup>1</sup> Die Ostschweizer Polizeischule wird durch eine Schuldirektorin oder einen Schuldirektor geleitet.
 
-<sup>2</sup> Die Schuldirektorin oder der Schuldirektor:
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor 1. führt die Ostschweizer Polizeischule,
 
-- 1\. führt die Ostschweizer Polizeischule
-- 2\. bereitet den Leistungsauftrag, das Globalbudget, den Geschäftsbericht und die Rechnung vor
-- 3\. entscheidet über alle für die Erfüllung der Aufgaben im Rahmen des Ausbildungsangebotes notwendigen Fragen, soweit nicht ein anderes Gremium gemäss dieser Vereinbarung zuständig ist
-- 4\. ist ermächtigt, über die im Globalbudget bewilligten Mittel zu verfügen
+- 2\. bereitet den Leistungsauftrag, das Globalbudget, den Geschäftsbericht und die Rechnung vor,
+
+- 3\. entscheidet über alle für die Erfüllung der Aufgaben im Rahmen des Ausbildungsangebotes notwendigen Fragen, soweit nicht ein anderes Gremium gemäss dieser Vereinbarung zuständig ist,
+
+- 4\. ist ermächtigt, über die im Globalbudget bewilligten Mittel zu verfügen.
 
 #### Art. 7
 
 **Finanzkontrolle**
 
-<sup>1</sup> Die Finanzkontrolle des Kantons Thurgau überprüft das gesamte Rechnungswesen im Rahmen der Finanzhaushaltsgesetzgebung des Kantons Thurgau und erstattet ihren jährlichen Revisionsbericht zuhanden der Konferenz der Justiz- und Polizeidirektorinnen und ‑direktoren.
+Die Finanzkontrolle des Kantons Thurgau überprüft das gesamte Rechnungswesen im Rahmen der Finanzhaushaltsgesetzgebung des Kantons Thurgau und erstattet ihren jährlichen Revisionsbericht zuhanden der Konferenz der Justiz- und Polizeidirektorinnen und -direktoren.
 
-## 3 Personal
+### III. PERSONAL
 
 #### Art. 8
 
@@ -112,11 +117,11 @@ beschliessen:
 
 <sup>1</sup> Die Vertragsparteien sind verpflichtet, der Ostschweizer Polizeischule qualifiziertes Ausbildungspersonal im Nebenamt zur Verfügung zu stellen.
 
-<sup>2</sup> Für die geleistete Lehrtätigkeit wird den betreffenden Vertragsparteien ein Betrag von im Zeitpunkt des Vertragsabschlusses 130 Franken pro Lektion entrichtet. Dieser Satz entspricht dem Punktestand des Landesindexes der Konsumentenpreise im Zeitpunkt des Inkrafttretens der Vereinbarung (Indexreihe Mai 2000 = 100). Eine Anpassung dieses Betrages erfolgt bei einer Zunahme der Teuerung um 5%.
+<sup>2</sup> Für die geleistete Lehrtätigkeit wird den betreffenden Vertragsparteien ein Betrag von im Zeitpunkt des Vertragsabschlusses 130 Franken pro Lektion entrichtet. Dieser Satz entspricht dem Punktestand des Landesindexes der Konsumentenpreise im Zeitpunkt des Inkrafttretens der Vereinbarung (Indexreihe Mai 2000 = 100). Eine Anpassung dieses Betrages erfolgt bei einer Zunahme der Teuerung um 5 %.
 
 <sup>3</sup> Für die Anstellungsverhältnisse des nebenamtlichen Schulpersonals gilt das Personalrecht der entsprechenden Vertragsparteien.
 
-## 4 Auszubildende
+### IV. AUSZUBILDENDE
 
 #### Art. 10
 
@@ -148,15 +153,15 @@ beschliessen:
 
 **Rechtsmittel**
 
-<sup>1</sup> Rechtsmittel gegen Entscheide im Zusammenhang mit dem Prüfungswesen sind an die zuständige Stelle der jeweiligen Vertragspartei zu richten.
+Rechtsmittel gegen Entscheide im Zusammenhang mit dem Prüfungswesen sind an die zuständige Stelle der jeweiligen Vertragspartei zu richten.
 
-## 5 Finanz- und Rechnungswesen
+### V. FINANZ- UND RECHNUNGSWESEN
 
 #### Art. 14
 
 **Allgemeine Finanzierung**
 
-<sup>1</sup> Die Ostschweizer Polizeischule wird durch Beiträge und Schulgelder der Vertragsparteien und durch Schul- und Kursgelder Dritter finanziert.
+Die Ostschweizer Polizeischule wird durch Beiträge und Schulgelder der Vertragsparteien und durch Schul- und Kursgelder Dritter finanziert.
 
 #### Art. 15
 
@@ -164,7 +169,7 @@ beschliessen:
 
 <sup>1</sup> Die Haushalts- und Rechnungsführung der Ostschweizer Polizeischule erfolgt gemäss der Finanzhaushaltsgesetzgebung des Kantons Thurgau.
 
-<sup>2</sup> Die Schulleitung erstellt jährlich den Leistungsauftrag und das Globalbudget sowie den Geschäftsbericht und die Rechnung zuhanden der Konferenz der Polizeikommandantinnen und ‑kommandanten.
+<sup>2</sup> Die Schulleitung erstellt jährlich den Leistungsauftrag und das Globalbudget sowie den Geschäftsbericht und die Rechnung zuhanden der Konferenz der Polizeikommandantinnen und - kommandanten.
 
 <sup>3</sup> Diese Konferenz stellt die finanzielle Führung unter Berücksichtigung der Leistungs- und Wirkungsorientierung mittels Controlling-Mechanismen sicher.
 
@@ -178,7 +183,7 @@ beschliessen:
 
 <sup>2</sup> Den Vertragsparteien werden die Kosten für die Grundausbildung und allfällige Weiterbildungen und Lehrgänge für besondere Dienste in Form eines jährlichen Sockelbeitrages und eines pro auszubildende Person berechneten Schulgeldes in Rechnung gestellt.
 
-<sup>3</sup> Der Sockelbeitrag beträgt 30% der Betriebskosten (Summe der Fixkosten und der sprungfixen Kosten). Dieser Sockelbeitrag wird den einzelnen Vertragsparteien je zur Hälfte entsprechend ihrer Korpsgrösse im Verhältnis zur Gesamtkorpsgrösse aller Vertragsparteien (relative Korpsgrösse) und ihrer Einwohnerzahl im Verhältnis zur Gesamteinwohnerzahl aller Vertragsparteien (relative Einwohnerzahl) verrechnet. Die restlichen Betriebskosten im Sinne von Abs. 1 werden den Vertragsparteien aufgrund der Anzahl Auszubildenden in Rechnung gestellt.
+<sup>3</sup> Der Sockelbeitrag beträgt 30 % der Betriebskosten (Summe der Fixkosten und der sprungfixen Kosten). Dieser Sockelbeitrag wird den einzelnen Vertragsparteien je zur Hälfte entsprechend ihrer Korpsgrösse im Verhältnis zur Gesamtkorpsgrösse aller Vertragsparteien (relative Korpsgrösse) und ihrer Einwohnerzahl im Verhältnis zur Gesamteinwohnerzahl aller Vertragsparteien (relative Einwohnerzahl) verrechnet. Die restlichen Betriebskosten im Sinne von Absatz 1 werden den Vertragsparteien aufgrund der Anzahl Auszubildenden in Rechnung gestellt.
 
 <sup>4</sup> Für die Korpsgrösse, die sich nach der Anzahl vereidigter Korpsangehöriger bestimmt, und die Einwohnerzahl ist jeweils der 1. Januar massgebend. Für die Berechnung der Einwohnerzahl ist bei einem kantonalen Korps die Einwohnerzahl einer Stadt mit eigenem Korps in Abzug zu bringen.
 
@@ -188,13 +193,13 @@ beschliessen:
 
 **Abrechnungsmodalitäten**
 
-<sup>1</sup> Die Rechnungsstellung für den Sockelbeitrag erfolgt unter Vorbehalt von Abs. 2 jeweils per 31. Januar des laufenden Ausbildungsjahres. Für das Schulgeld können aconto-Zahlungen verlangt werden. Die Ermittlung des definitiven Schulgeldes pro auszubildende Person sowie die Rechnungsstellung desselben erfolgt per 30. November nach Beendigung des Ausbildungsjahres. Diese Rechnung ist zugleich die Schlussabrechnung des vorangegangenen Ausbildungsjahres.
+<sup>1</sup> Die Rechnungsstellung für den Sockelbeitrag erfolgt unter Vorbehalt von Absatz 2 jeweils per 31. Januar des laufenden Ausbildungsjahres. Für das Schulgeld können aconto-Zahlungen verlangt werden. Die Ermittlung des definitiven Schulgeldes pro auszubildende Person sowie die Rechnungsstellung desselben erfolgt per 30. November nach Beendigung des Ausbildungsjahres. Diese Rechnung ist zugleich die Schlussabrechnung des vorangegangenen Ausbildungsjahres.
 
 <sup>2</sup> Die Festlegung des Sockelbeitrages für das erste Jahr erfolgt nach einer Planerfolgsrechnung. Die Rechnungsstellung für den Sockelbeitrag für das erste Jahr erfolgt per 30. April.
 
 <sup>3</sup> Lehrgänge und Kurse sowie anderweitige Leistungen für Dritte werden vor Ausbildungsbeginn in Rechnung gestellt.
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 18
 
@@ -228,8 +233,6 @@ beschliessen:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt am 1. Januar 2006 in Kraft[^21-1].
+Diese Vereinbarung tritt am 1. Januar 2006 in Kraft.
 
-[^21-1]: Beitritt des Kantons Schaffhausen durch RRB vom 24. Mai 2005 (Amtsblatt 2006, S. 555).
-
-Abl. 2006, S. 555
+Der Kanton Schaffhausen ist der Vereinbarung mit RRB vom 24. Mai 2005 beigetreten.
