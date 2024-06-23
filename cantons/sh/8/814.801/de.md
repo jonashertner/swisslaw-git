@@ -4,36 +4,38 @@ number: "814.801"
 title: Kantonale Chemikalienverordnung
 language: de
 version: 2016-07-01
+corrected: 2024-06-24
 version_adopted: 2016-07-05
 adopted: 2008-04-22
 in_force: 2008-05-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.801"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1794/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/227/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Kantonale Chemikalienverordnung
 
-Vom 22.04.2008 (Stand 01.07.2016)
+vom 22. April 2008
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-in Ausführung des Bundesgesetzes vom 15. Dezember 2000 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz; ChemG)[^ingress-1], der Verordnung vom 18. Mai 2005 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikalienverordnung, ChemV)[^ingress-2], der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgang mit Biozidprodukten (Biozidprodukteverordnung, VBP)[^ingress-3], des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (USG)[^ingress-4], der Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zubereitungen und Gegenständen (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)[^ingress-5], der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von Pflanzenschutzmitteln (Pflanzenschutzmittelverordnung, PSMV)[^ingress-6], der Verordnung vom 10. Januar 2001 über das Inverkehrbringen von Düngern (Dünger-Verordnung, DüV)[^ingress-7], des Strassengesetzes vom 18. Februar 1980[^ingress-8] 8) sowie gestützt auf Art. 38 des Einführungsgesetzes zum Umweltschutzgesetz vom 22. Januar 2007 (EG USG)[^ingress-9],
+in Ausführung des Bundesgesetzes vom 15. Dezember 2000 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz; ChemG)[^t-1], der Verordnung vom 18. Mai 2005 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikalienverordnung, ChemV)[^t-2], der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgang mit Biozidprodukten (Biozidprodukteverordnung, VBP)[^t-3], des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (USG)[^t-4], der Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zubereitungen und Gegenständen (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)[^t-5], der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von Pflanzenschutzmitteln (Pflanzenschutzmittelverordnung, PSMV)[^t-6], der Verordnung vom 10. Januar 2001 über das Inverkehrbringen von Düngern (Dünger-Verordnung, DüV)[^t-7], des Strassengesetzes vom 18. Februar 1980[^t-8] sowie gestützt auf Art. 38 des Einführungsgesetzes zum Umweltschutzgesetz vom 22. Januar 2007 (EG USG)[^t-9],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SR [813.1](http://db.clex.ch/link/Bund/813.1/de).
-[^ingress-2]: SR [813.11](http://db.clex.ch/link/Bund/813.11/de).
-[^ingress-3]: SR [813.12](http://db.clex.ch/link/Bund/813.12/de).
-[^ingress-4]: SR [814.01](http://db.clex.ch/link/Bund/814.01/de).
-[^ingress-5]: SR [814.81](http://db.clex.ch/link/Bund/814.81/de).
-[^ingress-6]: SR [916.161](http://db.clex.ch/link/Bund/916.161/de).
-[^ingress-7]: SR [916.171](http://db.clex.ch/link/Bund/916.171/de).
-[^ingress-8]: SHR [725.100](https://rechtsbuch.sh.ch/data/725.100/de).
-[^ingress-9]: SHR [814.100](https://rechtsbuch.sh.ch/data/814.100/de).
+[^t-1]: SR 813.1.
+[^t-2]: SR 813.11.
+[^t-3]: SR 813.12.
+[^t-4]: SR 814.01.
+[^t-5]: SR 814.81.
+[^t-6]: SR 916.161.
+[^t-7]: SR 916.171.
+[^t-8]: SHR 725.100.
+[^t-9]: SHR 814.100.
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### § 1
 
@@ -43,40 +45,43 @@ beschliesst:
 
 <sup>2</sup> Diese Verordnung gilt nicht für Heilmittel im Sinne von Art. 4 des Heilmittelgesetzes[^1-1] und für radioaktive Stoffe in Bezug auf die Wirkung ihrer Strahlung (Art. 3 USG).
 
+Amtsblatt 2008, S. 539
+
 <sup>3</sup> Vorbehalten bleiben die besonderen Bestimmungen über Chemikalien im Rahmen des Katastrophenschutzes nach Art. 10 USG, über den Transport von Chemikalien im Post-, Eisenbahn-, Strassen-, Luft- und Schiffsverkehr, über die Emissionsbegrenzung bei Anlagen, die Luftverunreinigungen verursachen, und über Abwassereinleitungen.
 
-[^1-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
+[^1-1]: SR 812.21.
 
 #### § 2
 
 **Begriffe**
 
-<sup>1</sup> Stoffe und Zubereitungen im Sinne von Art. 4 ChemG werden in dieser Verordnung als Chemikalien bezeichnet.
+Stoffe und Zubereitungen im Sinne von Art. 4 ChemG werden in dieser Verordnung als Chemikalien bezeichnet.
 
 #### § 3
 
 **Zusammenarbeit**
 
-<sup>1</sup> Die zuständige Behörde bzw. die federführende Fachstelle sorgt für die Zusammenarbeit der gemäss Umweltschutzorganisation des Kantons mitwirkungspflichtigen Fachstellen.
+Die zuständige Behörde bzw. die federführende Fachstelle sorgt für die Zusammenarbeit der gemäss Umweltschutzorganisation des Kantons mitwirkungspflichtigen Fachstellen.
 
 #### § 4
 
 **Information und Beratung**
 
-<sup>1</sup> Die Vollzugsbehörden sind in ihrem Bereich für Information und Beratung zuständig.
+Die Vollzugsbehörden sind in ihrem Bereich für Information und Beratung zuständig.
 
-## 2 Zuständigkeiten
+### II. Zuständigkeiten
 
 #### § 5
 
 **Zuständigkeit von Kanton und Gemeinden**
 
-<sup>1</sup> Der Vollzug der in § 1 aufgeführten Erlasse ist grundsätzlich Aufgabe des Kantons. Zuständig ist das Interkantonale Labor, sofern diese Verordnung oder andere Erlasse des kantonalen Rechts nichts Abweichendes festlegen.
+<sup>1</sup> Der Vollzug der in § 1 aufgeführten Erlasse ist grundsätzlich Aufgabe des Kantons. Zuständig ist das Interkantonale Labor[^5-1], sofern diese Verordnung oder andere Erlasse des kantonalen Rechts nichts Abweichendes festlegen.
 
-<sup>2</sup> Die Gemeinden:
+<sup>2</sup> Die Gemeinden a) sorgen in Zusammenarbeit mit dem Interkantonalen Labor[^5-1] für die Sammlung von Chemikalien aus Haushalten und Kleingewerbe und führen sie einer geeigneten Behandlung zu (Art. 37 Abs. 2 EG USG),
 
-- a) sorgen in Zusammenarbeit mit dem Interkantonalen Labor für die Sammlung von Chemikalien aus Haushalten und Kleingewerbe und führen sie einer geeigneten Behandlung zu (Art. 37 Abs. 2 EG USG)
-- b) sind für Kontrollen gemäss § 11 Abs. 3 zuständig
+- b) sind für Kontrollen gemäss § 11 Abs. 3 zuständig.
+
+[^5-1]: Fassung gemäss RRB vom 11. Mai 2010, in Kraft getreten am 1. Juli 2010 (Amtsblatt 2010, S. 726).
 
 #### § 6
 
@@ -86,13 +91,15 @@ beschliesst:
 
 <sup>2</sup> Das Departement des Innern kann Weisungen für den umweltschonenden Umgang mit Chemikalien in den verschiedenen Verwaltungsbereichen erlassen.
 
+[^6-1]: Fassung gemäss RRB vom 5. Juli 2016, in Kraft getreten am 1. Juli 2016, (Amtsblatt 2016, S. 1019).
+
 #### § 7
 
-**Kantonsapothekerin / Kantonsapotheker und Kantonstierärztin / Kantonstierarzt**
+**Kantonsapothekerin / Kantonsapotheker und Kantonstierärztin / Kantonstierarzt**[^6-1]
 
-<sup>1</sup> Die Kantonale Heilmittelkontrolle kontrolliert den Verkehr mit Chemikalien bei Detailhandelsgeschäften im Sinne der HMV (SHR [812.201](https://rechtsbuch.sh.ch/data/812.201/de)).
+<sup>1</sup> Die Kantonale Heilmittelkontrolle kontrolliert den Verkehr mit Chemikalien bei Detailhandelsgeschäften im Sinne der HMV (SHR 812.201).
 
-<sup>2</sup> Das Veterinäramt kontrolliert den Verkehr mit Chemikalien bei tierärztlichen Praxisapotheken und Abgabestellen wie Zoo- oder Imkerfachgeschäfte im Sinne der HMV (SHR [812.201](https://rechtsbuch.sh.ch/data/812.201/de)).
+<sup>2</sup> Das Veterinäramt kontrolliert den Verkehr mit Chemikalien bei tierärztlichen Praxisapotheken und Abgabestellen wie Zoo- oder Imkerfachgeschäfte im Sinne der HMV (SHR 812.201).
 
 #### § 8
 
@@ -100,7 +107,7 @@ beschliesst:
 
 <sup>1</sup> Das Kantonsforstamt überwacht die Bestimmungen über den Einsatz von Pflanzenschutzmitteln sowie Düngern und Zusätzen im Wald nach Anhang 2.5 und Anhang 2.6 ChemRRV.
 
-<sup>2</sup> Es erteilt Bewilligungen für die Anwendung von Pflanzenschutzmitteln im Wald nach Anhang 2.5 Ziff. 1.2 Abs. 3 ChemRRV.
+<sup>2</sup> Es erteilt Bewilligungen für die Anwendung von Pflanzenschutzmitteln im Wald nach Anhang 2.5 Ziffer 1.2 Abs. 3 ChemRRV.
 
 <sup>3</sup> Es ist zuständig für die Information und Beratung im Bereich der Waldwirtschaft.
 
@@ -108,7 +115,9 @@ beschliesst:
 
 **Arbeitsinspektorat**
 
-<sup>1</sup> Arbeitsinspektorat und Interkantonales Labor informieren sich gegenseitig über Wahrnehmungen, welche die Arbeitssicherheit oder den Gesundheitsschutz betreffen (§ 12 Abs. 1 lit. j).
+Arbeitsinspektorat und Interkantonales Labor[^9-1] informieren sich gegenseitig über Wahrnehmungen, welche die Arbeitssicherheit oder den Gesundheitsschutz betreffen (§ 12 Abs. 1 lit. j).
+
+[^9-1]: Fassung gemäss RRB vom 11. Mai 2010, in Kraft getreten am 1. Juli 2010 (Amtsblatt 2010, S. 726).
 
 #### § 10
 
@@ -120,8 +129,8 @@ beschliesst:
 
 <sup>3</sup> Es ist zuständig für die Information und Beratung im Bereich der Landwirtschaft (Art. 20 ChemRRV).
 
-[^10-1]: SR [814.20](http://db.clex.ch/link/Bund/814.20/de).
-[^10-2]: SR [814.201](http://db.clex.ch/link/Bund/814.201/de).
+[^10-1]: SR 814.20.
+[^10-2]: SR 814.201.
 
 #### § 11
 
@@ -135,40 +144,59 @@ beschliesst:
 
 #### § 12
 
-**Vollzugsaufgaben des Interkantonalen Labors**
+**Vollzugsaufgaben des Interkantonalen Labors 14)**
 
-<sup>1</sup> Das Interkantonale Labor:
+<sup>1</sup> Das Interkantonale Labor[^12-1] a) informiert und berät Private und Gemeinden über Fragen im Zusammenhang mit dem umweltgerechten Umgang mit Chemikalien, sofern keine andere Fachstelle zuständig ist (Art. 28 Abs. 3 ChemG).
 
-- a) informiert und berät Private und Gemeinden über Fragen im Zusammenhang mit dem umweltgerechten Umgang mit Chemikalien, sofern keine andere Fachstelle zuständig ist (Art. 28 Abs. 3 ChemG)
-- b) überwacht und kontrolliert in seinem Zuständigkeitsbereich den Umgang mit Chemikalien und trifft die notwendigen Massnahmen (Art. 42 ChemG, Art. 103 ChemV und Art. 18 Abs. 2 ChemRRV)
-- c) erlässt Verfügungen (Art. 102 ChemV und Art. 19 ChemRRV) und bereitet die in die Zuständigkeit des Departements des Innern (§ 6 Abs. 2) fallenden Massnahmen vor
-- d) erteilt und entzieht die vom Bundesrecht vorgeschriebenen Bewilligungen und informiert die zuständigen Behörden über Veränderungen bei den Bewilligungsinhaberinnen und Bewilligungsinhabern, sofern keine andere Fachstelle zuständig ist (Art. 24 ChemG)
-- e) erhebt die Umweltbelastung mit Chemikalien und führt die vom Bundesrecht vorgeschriebenen Verzeichnisse
-- f) überprüft im Bedarfsfall die Zusammensetzung von Chemikalien sowie die Kennzeichnung, die Sicherheitsdatenblätter und die anderen vorgeschriebenen Hinweise
-- g) kontrolliert anhand von Stichproben sowie auf Ersuchen der zuständigen Bundesämter (Art. 100 und 101 ChemV und Art. 18 Abs. 1 ChemRRV)
-- h) vollzieht die Verfügungen der Bundesbehörden, sofern diese den Kanton mit dem Vollzug beauftragen (Art. 31 Abs. 2 ChemG)
-- i) teilt den zuständigen Bundesbehörden die nach dem Chemikaliengesetz erhobenen Daten mit (Art. 45 Abs. 4 ChemG)
-- j) informiert das Arbeitsinspektorat über Wahrnehmungen, welche die Arbeitssicherheit oder den Gesundheitsschutz betreffen (§ 9)
+- b) überwacht und kontrolliert in seinem Zuständigkeitsbereich den Umgang mit Chemikalien und trifft die notwendigen Massnahmen (Art. 42 ChemG, Art. 103 ChemV und Art. 18 Abs. 2 ChemRRV);
+
+- c) erlässt Verfügungen (Art. 102 ChemV und Art. 19 ChemRRV) und bereitet die in die Zuständigkeit des Departements des Innern (§ 6 Abs. 2) fallenden Massnahmen vor;
+
+- d) erteilt und entzieht die vom Bundesrecht vorgeschriebenen Bewilligungen und informiert die zuständigen Behörden über Veränderungen bei den Bewilligungsinhaberinnen und Bewilligungsinhabern, sofern keine andere Fachstelle zuständig ist (Art. 24 ChemG);
+
+- e) erhebt die Umweltbelastung mit Chemikalien und führt die vom Bundesrecht vorgeschriebenen Verzeichnisse;
+
+- f) überprüft im Bedarfsfall die Zusammensetzung von Chemikalien sowie die Kennzeichnung, die Sicherheitsdatenblätter und die anderen vorgeschriebenen Hinweise;
+
+- g) kontrolliert anhand von Stichproben sowie auf Ersuchen der zuständigen Bundesämter (Art. 100 und 101 ChemV und Art. 18 Abs. 1 ChemRRV);
+
+- h) vollzieht die Verfügungen der Bundesbehörden, sofern diese den Kanton mit dem Vollzug beauftragen (Art. 31 Abs. 2 ChemG);
+
+- i) teilt den zuständigen Bundesbehörden die nach dem Chemikaliengesetz erhobenen Daten mit (Art. 45 Abs. 4 ChemG);
+
+- j) informiert das Arbeitsinspektorat über Wahrnehmungen, welche die Arbeitssicherheit oder den Gesundheitsschutz betreffen (§ 9).
 
 <sup>2</sup> Es kann ausführende Anordnungen über den Vollzug, namentlich über Kontrollen, erlassen.
 
 <sup>3</sup> Es kann geeignete Private oder öffentlich-rechtliche Körperschaften im Bereich der Chemikaliengesetzgebung mit Kontroll- und Überwachungsaufgaben beauftragen.
 
-## 3 Schlussbestimmungen
+[^12-1]: Fassung gemäss RRB vom 11. Mai 2010, in Kraft getreten am 1. Juli 2010 (Amtsblatt 2010, S. 726).
+
+### III. Schlussbestimmungen
 
 #### § 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung wird aufgehoben:
+Mit dem Inkrafttreten dieser Verordnung wird aufgehoben:
 
-- a) Verordnung zu den eidgenössischen Erlassen über Gifte, Bodenschutz, umweltgefährdende Stoffe und Sonderabfälle vom 15. November 1998
+- Verordnung zu den eidgenössischen Erlassen über Gifte, Bodenschutz, umweltgefährdende Stoffe und Sonderabfälle vom 15. November 1998
 
 #### § 14
 
-**Änderung bisherigen Rechts[^14-1]**
+**Änderung bisherigen Rechts**
 
-[^14-1]: Gegenstandslos.
+<sup>1</sup> …[^14-1]
+
+<sup>2</sup> Die Kantonale Waldverordnung vom 25. November 1997 (SHR 921.101) wird wie folgt geändert:
+
+[^14-1]: Aufgehoben durch RRB vom 5. Juli 2016, in Kraft getreten am 1. Juli 2016 (Amtsblatt 2016, S. 1019).
+
+#### § 12
+
+<sup>1</sup> Die Verwendung umweltgefährdender Stoffe richtet sich nach den Bestimmungen der ChemRRV.
+
+<sup>2</sup> Das Kantonsforstamt erteilt Bewilligungen für die Anwendung von Pflanzenschutzmitteln im Wald nach Anhang 2.5 Ziffer 1.2 Abs. 3 ChemRRV.
 
 #### § 15
 
@@ -178,6 +206,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^15-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^15-1]: Amtsblatt 2008, S. 539.
+Fussnoten:
 
-Abl. 2008, S. 539
+[^15-1]: Amtsblatt 2008, S. 539.
