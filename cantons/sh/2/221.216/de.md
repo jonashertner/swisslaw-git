@@ -5,39 +5,37 @@ title: Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmende
 short: NAV HW SH
 language: de
 version: 2021-07-01
+corrected: 2024-06-24
 version_adopted: 2021-06-15
 adopted: 2021-06-15
 in_force: 2021-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/221.216"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1747/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/35/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmende
+# Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmende (NAV HW SH)
 
-(NAV HW SH)
-
-Vom 15.06.2021 (Stand 01.07.2021)
+vom 15. Juni 2021
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 359 Abs. 2 des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR)[^ingress-1] und Art. 18 lit. b Ziff. 9 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911[^ingress-2],
+gestützt auf Art. 359 Abs. 2 des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR)[^t-1] und Art. 18 lit. b Ziff. 9 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Juni 1911[^t-2], erlässt folgenden Normalarbeitsvertrag (NAV):
 
-beschliesst:
+[^t-1]: SR 220.
+[^t-2]: SHR 210.100.
 
-[^ingress-1]: SR [220](http://db.clex.ch/link/Bund/220/de).
-[^ingress-2]: SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de).
+## I. Allgemeiner Teil
 
-## 1 Allgemeiner Teil
-
-### 1.1 Allgemeine Bestimmungen
+- 1\. Allgemeine Bestimmungen
 
 #### § 1
 
 **Räumlicher Geltungsbereich**
 
-<sup>1</sup> Der vorliegende Normalarbeitsvertrag gilt für das ganze Gebiet des Kantons Schaffhausen.
+Der vorliegende Normalarbeitsvertrag gilt für das ganze Gebiet des Kantons Schaffhausen.
 
 #### § 2
 
@@ -46,6 +44,8 @@ beschliesst:
 <sup>1</sup> Dieser Normalarbeitsvertrag gilt für alle bestehenden und neu zu begründenden Arbeitsverhältnisse zwischen Arbeitgebenden und Arbeitnehmenden, die voll- oder teilzeitig, ausschliesslich oder überwiegend hauswirtschaftliche Arbeiten in einem privaten Haushalt verrichten, gleichgültig, ob sie bei den Arbeitgebenden wohnen oder auswärts.
 
 <sup>2</sup> Dieser Normalarbeitsvertrag gilt insbesondere auch für hauswirtschaftliche Praktika und Aupair-Verhältnisse.
+
+Amtsblatt 2021, S. 1187
 
 #### § 3
 
@@ -61,17 +61,23 @@ beschliesst:
 
 <sup>1</sup> Dieser Normalarbeitsvertrag gilt nicht für Arbeitsverhältnisse zwischen Personen, die zueinander in einer der folgenden Beziehungen stehen:
 
-- a) Ehegattinnen und Ehegatten
-- b) eingetragene Partnerinnen und eingetragene Partner
-- c) Verwandte in auf- und absteigender Linie sowie deren Ehegattinnen oder Ehegatten oder deren eingetragene Partnerinnenoder eingetragene Partner
-- d) Konkubinatspartnerinnen und Konkubinatspartner
+- a) Ehegattinnen und Ehegatten;
+
+- b) eingetragene Partnerinnen und eingetragene Partner;
+
+- c) Verwandte in auf- und absteigender Linie sowie deren Ehegattinnen oder Ehegatten oder deren eingetragene Partnerinnen oder eingetragene Partner;
+
+- d) Konkubinatspartnerinnen und Konkubinatspartner.
 
 <sup>2</sup> Dieser Normalarbeitsvertrag gilt ausserdem nicht für:
 
-- a) landwirtschaftliche Arbeitsverhältnisse, es sei denn, es handelt sich um eine 24-Stunden-Betreuung
-- b) Personen in hauswirtschaftlichen Lehrverhältnissen
-- c) hauswirtschaftliche Arbeitsverhältnisse, die dem öffentlichen Recht oder einem besonderen Normalarbeitsvertrag unterstellt sind
-- d) Arbeitnehmende, die einem Gesamtarbeitsvertrag (GAV) unterstehen, bezüglich der darin geregelten Punkte. Für die im GAV nicht geregelten Punkte kommt dieser Normalarbeitsvertrag ergänzend zur Anwendung
+- a) landwirtschaftliche Arbeitsverhältnisse, es sei denn, es handelt sich um eine 24-Stunden-Betreuung;
+
+- b) Personen in hauswirtschaftlichen Lehrverhältnissen;
+
+- c) hauswirtschaftliche Arbeitsverhältnisse, die dem öffentlichen Recht oder einem besonderen Normalarbeitsvertrag unterstellt sind;
+
+- d) Arbeitnehmende, die einem Gesamtarbeitsvertrag (GAV) unterstehen, bezüglich der darin geregelten Punkte. Für die im GAV nicht geregelten Punkte kommt dieser Normalarbeitsvertrag ergänzend zur Anwendung.
 
 #### § 5
 
@@ -79,24 +85,29 @@ beschliesst:
 
 <sup>1</sup> Als hauswirtschaftliche Arbeiten gelten insbesondere:
 
-- a) Reinigungsarbeiten
-- b) Besorgung der Wäsche
-- c) Einkaufen
-- d) Kochen
-- e) Mithilfe bei der Betreuung von Kindern, Betagten und Kranken
-- f) Unterstützung von Betagten und Kranken in der Alltagsbewältigung
+- a) Reinigungsarbeiten;
+
+- b) Besorgung der Wäsche;
+
+- c) Einkaufen;
+
+- d) Kochen;
+
+- e) Mithilfe bei der Betreuung von Kindern, Betagten und Kranken;
+
+- f) Unterstützung von Betagten und Kranken in der Alltagsbewältigung.
 
 <sup>2</sup> Ärztliche oder medizinische Pflege im Sinne der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung vom 29. September 1995 (Krankenpflege-Leistungsverordnung, KLV)[^5-1] gelten nicht als hauswirtschaftliche Arbeiten.
 
-[^5-1]: SR [832.112.31](http://db.clex.ch/link/Bund/832.112.31/de).
+- 2\. Schutzbestimmungen
 
-### 1.2 Schutzbestimmungen
+[^5-1]: SR 832.112.31.
 
 #### § 6
 
 **Persönlichkeitsschutz**
 
-<sup>1</sup> Die Arbeitgebenden haben die Persönlichkeit der Arbeitnehmenden zu achten und zu schützen.
+Die Arbeitgebenden haben die Persönlichkeit der Arbeitnehmenden zu achten und zu schützen.
 
 #### § 7
 
@@ -114,10 +125,10 @@ beschliesst:
 
 <sup>2</sup> Für schwangere Frauen und stillende Mütter gelten die Schutzbestimmungen des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel vom 13. März 1964 (Arbeitsgesetz, ArG)[^8-1], der Verordnung 1 zum Arbeitsgesetz vom 10. Mai 2000 (ArGV 1)[^8-2], der Verordnung 3 zum Arbeitsgesetz vom 18. August 1993 (ArGV 3, Gesundheitsschutz)[^8-3] sowie der Verordnung des WBF über gefährliche und beschwerliche Arbeiten bei Schwangerschaft und Mutterschaft vom 20. März 2001 (Mutterschutzverordnung)[^8-4] analog.
 
-[^8-1]: SR [822.11](http://db.clex.ch/link/Bund/822.11/de).
-[^8-2]: SR [822.111](http://db.clex.ch/link/Bund/822.111/de).
-[^8-3]: SR [822.113](http://db.clex.ch/link/Bund/822.113/de).
-[^8-4]: SR [822.111.52](http://db.clex.ch/link/Bund/822.111.52/de).
+[^8-1]: SR 822.11.
+[^8-2]: SR 822.111.
+[^8-3]: SR 822.113.
+[^8-4]: SR 822.111.52.
 
 #### § 9
 
@@ -127,10 +138,10 @@ beschliesst:
 
 <sup>2</sup> Für jugendliche Arbeitnehmende gelten die Schutzbestimmungen des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel vom 13. März 1964 (Arbeitsgesetz, ArG)[^9-1] und der Verordnung 5 zum Arbeitsgesetz vom 28. September 2007 (ArGV 5, Jugendarbeitsschutzverordnung)[^9-2] analog.
 
-[^9-1]: SR [822.11](http://db.clex.ch/link/Bund/822.11/de).
-[^9-2]: SR [822.115](http://db.clex.ch/link/Bund/822.115/de).
+- 3\. Arbeitsbedingungen
 
-### 1.3 Arbeitsbedingungen
+[^9-1]: SR 822.11.
+[^9-2]: SR 822.115.
 
 #### § 10
 
@@ -138,7 +149,7 @@ beschliesst:
 
 <sup>1</sup> Die wöchentliche Arbeitszeit darf für Hausangestellte 42 Stunden und für Aupair-Angestellte 25 Stunden nicht überschreiten.
 
-<sup>2</sup> Die tägliche Arbeitszeit beträgt höchstens 9 Stunden und endet in der Regel spätestens um 20:00 Uhr.
+<sup>2</sup> Die tägliche Arbeitszeit beträgt höchstens 9 Stunden und endet in der Regel spätestens um 20.00 Uhr.
 
 <sup>3</sup> Die wöchentliche Höchstarbeitszeit beträgt 45 Stunden.
 
@@ -155,7 +166,8 @@ beschliesst:
 <sup>2</sup> Die Arbeitszeit ist durch Pausen von folgender Mindestdauer zu unterbrechen:
 
 - a) eine Viertelstunde bei einer täglichen Arbeitszeit von mehr als fünfeinhalb Stunden
-- b) oder eine halbe Stunde bei einer täglichen Arbeitszeit von mehr als sieben Stunden
+
+- b) oder eine halbe Stunde bei einer täglichen Arbeitszeit von mehr als sieben Stunden.
 
 #### § 12
 
@@ -179,11 +191,11 @@ beschliesst:
 
 <sup>3</sup> Überstunden sind innert 14 Wochen mit Freizeit von mindestens gleicher Dauer zu kompensieren. Endet das Arbeitsverhältnis vor Ablauf der 14 Wochen, erfolgt die Kompensation innerhalb der Vertragsdauer. Der Zeitpunkt der Kompensation wird gegenseitig vereinbart.
 
-<sup>4</sup> Die Arbeitgebenden haben, sofern die Arbeitnehmenden nicht mit der Ausgleichung der Überstunden durch Freizeit von mindestens gleicher Dauer einverstanden sind, für die Überstundenarbeit Lohn zu entrichten, der sich nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 25% bemisst.
+<sup>4</sup> Die Arbeitgebenden haben, sofern die Arbeitnehmenden nicht mit der Ausgleichung der Überstunden durch Freizeit von mindestens gleicher Dauer einverstanden sind, für die Überstundenarbeit Lohn zu entrichten, der sich nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 25 % bemisst.
 
 <sup>5</sup> Bei jugendlichen Arbeitnehmenden ist die Überstundenarbeit durch entsprechende Freizeit auszugleichen.
 
-<sup>6</sup> Abs. 5 ist für Arbeitsverhältnisse in der 24-Stunden-Betreuung nicht anwendbar.
+<sup>6</sup> Absatz 5 ist für Arbeitsverhältnisse in der 24-Stunden-Betreuung nicht anwendbar.
 
 #### § 14
 
@@ -191,7 +203,7 @@ beschliesst:
 
 <sup>1</sup> Als Überzeit gelten diejenigen Stunden, die die wöchentliche Höchstarbeitszeit von 45 Stunden übersteigen.
 
-<sup>2</sup> Überzeit ist von den Arbeitgebenden mit einem Zuschlag von 25% zum Normallohn (ohne Abzüge für Naturallohn) zu entrichten.
+<sup>2</sup> Überzeit ist von den Arbeitgebenden mit einem Zuschlag von 25 % zum Normallohn (ohne Abzüge für Naturallohn) zu entrichten.
 
 <sup>3</sup> Wird Überzeit mit dem Einverständnis der Arbeitnehmenden innert 14 Wochen mit Freizeit von mindestens gleicher Dauer ausgeglichen, so ist kein Zuschlag auszurichten.
 
@@ -199,13 +211,13 @@ beschliesst:
 
 **Nachtarbeit, Arbeit an Sonn- und Feiertagen**
 
-<sup>1</sup> Während dem Nachtzeitraum zwischen 23:00 und 06:00 Uhr besteht Nachtruhe und es wird keine aktive Arbeitszeit geplant.
+<sup>1</sup> Während dem Nachtzeitraum zwischen 23.00 und 06.00 Uhr besteht Nachtruhe und es wird keine aktive Arbeitszeit geplant.
 
 <sup>2</sup> Nachtarbeit ist nur in Ausnahmefällen und nur mit dem Einverständnis der Arbeitnehmenden zulässig.
 
-<sup>3</sup> Nachtarbeit ist nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 25% zu entrichten.
+<sup>3</sup> Nachtarbeit ist nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 25 % zu entrichten.
 
-<sup>4</sup> An Sonn- und Feiertagen ist die Arbeit auf das dringend Notwendige zu beschränken. Der zu entrichtende Lohn bemisst sich nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 50%.
+<sup>4</sup> An Sonn- und Feiertagen ist die Arbeit auf das dringend Notwendige zu beschränken. Der zu entrichtende Lohn bemisst sich nach dem Normallohn (ohne Abzüge für Naturallohn) samt einem Zuschlag von 50 %.
 
 <sup>5</sup> Arbeitgebende dürfen jugendliche Arbeitnehmende während der Nacht und an Sonn- und Feiertagen nicht beschäftigen.
 
@@ -235,9 +247,9 @@ beschliesst:
 
 <sup>5</sup> Im gegenseitigen Einverständnis können ausnahmsweise ganze freie Tage in Halbtage aufgeteilt werden.
 
-<sup>6</sup> Ein freier Halbtag gilt als gewährt, wenn der ganze Vormittag von 06:00 bis 14:00 Uhr oder der ganze Nachmittag von 12:00 bis 20:00 Uhr arbeitsfrei bleibt.
+<sup>6</sup> Ein freier Halbtag gilt als gewährt, wenn der ganze Vormittag von 06.00 bis 14.00 Uhr oder der ganze Nachmittag von 12.00 bis 20.00 Uhr arbeitsfrei bleibt.
 
-<sup>7</sup> Die Abs. 1, 4 und 5 sind für Arbeitsverhältnisse in der 24-Stunden-Betreuung nicht anwendbar. Hier gilt die ergänzende Regelung in § 47.
+<sup>7</sup> Die Absätze 1, 4 und 5 sind für Arbeitsverhältnisse in der 24-Stunden-Betreuung nicht anwendbar. Hier gilt die ergänzende Regelung in § 47.
 
 #### § 18
 
@@ -263,14 +275,19 @@ beschliesst:
 
 **Urlaub**
 
-<sup>1</sup> Die Arbeitnehmenden haben bei folgenden Ereignissen Anspruch auf bezahlte Urlaubstage, die nicht an die Ferien oder Freizeit angerechnet werden:
+Die Arbeitnehmenden haben bei folgenden Ereignissen Anspruch auf bezahlte Urlaubstage, die nicht an die Ferien oder Freizeit angerechnet werden:
 
-- a) eigene Hochzeit oder Eintragung der eigenen Partnerschaft: — 3 Tage
-- b) Geburt eigener Kinder: — 3 Tage
-- c) Tod des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, eines eigenen Kindes oder Adoptivkindes: — 3 Tage
-- d) Tod eines Elternteils: — 2 Tage
-- e) Tod von Geschwistern, Schwiegereltern, Schwager, Schwägerin oder Grosseltern: — 1 Tag
-- f) Umzug des eigenen Haushaltes: — 1 Tag
+- a) eigene Hochzeit oder Eintragung der eigenen Partnerschaft 3 Tage;
+
+- b) Geburt eigener Kinder 3 Tage;
+
+- c) Tod des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, eines eigenen Kindes oder Adoptivkindes 3 Tage;
+
+- d) Tod eines Elternteils 2 Tage;
+
+- e) Tod von Geschwistern, Schwiegereltern, Schwager, Schwägerin oder Grosseltern 1 Tag;
+
+- f) Umzug des eigenen Haushaltes 1 Tag.
 
 #### § 21
 
@@ -278,10 +295,13 @@ beschliesst:
 
 <sup>1</sup> Die Arbeitnehmenden haben Anspruch auf folgende bezahlte Ferien:
 
-- a) bis zum vollendeten 20. Altersjahr: — 5 Wochen
-- b) zwischen dem vollendeten 20. Altersjahr und vollendeten 50. Altersjahr: — 4 Wochen
-- c) nach dem vollendeten 50. Altersjahr: — 5 Wochen
-- d) nach dem vollendeten 60. Altersjahr: — 6 Wochen
+- a) bis zum vollendeten 20. Altersjahr 5 Wochen;
+
+- b) zwischen dem vollendeten 20. Altersjahr und vollendeten 50. Altersjahr 4 Wochen;
+
+- c) nach dem vollendeten 50. Altersjahr 5 Wochen;
+
+- d) nach dem vollendeten 60. Altersjahr 6 Wochen.
 
 <sup>2</sup> Vom gesamten Ferienanspruch müssen mindestens zwei Ferienwochen zusammenhängend gewährt werden.
 
@@ -293,7 +313,7 @@ beschliesst:
 
 <sup>6</sup> Die Zeit, während der sich die Arbeitnehmenden mit den Arbeitgebenden auf Reisen oder in den Ferien befinden, gilt nicht als Ferien, wenn die Arbeitnehmenden auch während dieser Zeit für die Arbeitgebenden hauswirtschaftliche Arbeiten besorgen.
 
-### 1.4 Lohn
+- 4\. Lohn
 
 #### § 22
 
@@ -303,7 +323,7 @@ beschliesst:
 
 <sup>2</sup> Das Arbeitspensum ist vor Antritt der Stelle schriftlich zu vereinbaren. Es gilt dasselbe für den Grundlohn, welcher mindestens einmal pro Jahr unter Berücksichtigung der Leistungen, der Dienstjahre und einer allfälligen Teuerung zu überprüfen ist.
 
-[^22-1]: SR [221.215.329.4](http://db.clex.ch/link/Bund/221.215.329.4/de).
+[^22-1]: SR 221.215.329.4.
 
 #### § 23
 
@@ -313,9 +333,11 @@ beschliesst:
 
 <sup>2</sup> Wohnen die Arbeitnehmenden bei den Arbeitgebenden oder in Hausgemeinschaft mit der zu betreuenden Person, so haben sie Anspruch auf:
 
-- a) ein abschliessbares Einzelzimmer. Dieses muss den hygienischen Anforderungen entsprechen, mit Tageslicht und künstlichem Licht gut beleuchtet, gut geheizt und belüftet sowie ausreichend möbliert (u.a. mit Bett, Tisch, Stuhl und Kleiderschrank oder Kommode) und geräumig sein, um auch die eventuell vereinbarte Präsenzzeit und die Freizeit darin verbringen zu können
-- b) uneingeschränkten Zugang zu sanitären Einrichtungen, die gemeinsam oder privat genutzt werden, sowie auf Mitbenützung der Waschküche
-- c) unlimitierten und kostenlosen Internetzugang, bei welchem die Privatsphäre der Arbeitnehmenden geschützt bleibt. Die Arbeitnehmenden und die Arbeitgebenden sind zu einem sorgfältigen Umgang angehalten
+- a) ein abschliessbares Einzelzimmer. Dieses muss den hygienischen Anforderungen entsprechen, mit Tageslicht und künstlichem Licht gut beleuchtet, gut geheizt und belüftet sowie ausreichend möbliert (u.a. mit Bett, Tisch, Stuhl und Kleiderschrank oder Kommode) und geräumig sein, um auch die eventuell vereinbarte Präsenzzeit und die Freizeit darin verbringen zu können;
+
+- b) uneingeschränkten Zugang zu sanitären Einrichtungen, die gemeinsam oder privat genutzt werden, sowie auf Mitbenützung der Waschküche;
+
+- c) unlimitierten und kostenlosen Internetzugang, bei welchem die Privatsphäre der Arbeitnehmenden geschützt bleibt. Die Arbeitnehmenden und die Arbeitgebenden sind zu einem sorgfältigen Umgang angehalten.
 
 <sup>3</sup> Ohne eine anderslautende Abrede endet der Anspruch auf das Einzelzimmer mit Ablauf des Arbeitsverhältnisses.
 
@@ -327,13 +349,13 @@ beschliesst:
 
 <sup>7</sup> Die Arbeitnehmenden haben Anspruch auf eine gesunde und ausreichende Verpflegung. Die Arbeitnehmenden können verlangen, das eigene Essen selbst zubereiten zu dürfen. Sie haben dafür Anspruch auf Mitbenützung der Küche und der Küchenutensilien.
 
-[^23-1]: SR [831.101](http://db.clex.ch/link/Bund/831.101/de).
+[^23-1]: SR 831.101.
 
 #### § 24
 
 **Stundenlohn**
 
-<sup>1</sup> Teilzeitbeschäftigte Arbeitnehmende sind wenn immer möglich im Monatslohn anzustellen. Ist dies aufgrund starken Pensumsschwankungen nicht möglich, können diese auch im Stundenlohn beschäftigt werden.
+Teilzeitbeschäftigte Arbeitnehmende sind wenn immer möglich im Monatslohn anzustellen. Ist dies aufgrund starken Pensumsschwankungen nicht möglich, können diese auch im Stundenlohn beschäftigt werden.
 
 #### § 25
 
@@ -343,13 +365,15 @@ beschliesst:
 
 <sup>2</sup> Die Arbeitnehmenden haben auch während der Ferien und Feiertage Anspruch auf den üblichen Naturallohn.
 
-<sup>3</sup> Für Angestellte im Stundenlohn wird der auf die Ferienzeit und Feiertage entfallende Lohnanspruch zusammen mit dem Stundenlohn ausbezahlt. Feiertage können zusätzlich vergütet werden. Dies muss im Arbeitsvertrag sowie schriftlich in jeder einzelnen Lohnabrechnung ausgewiesen und das Feriengeld und Feiertaggeld separat aufgeführt werden. Der Ferienzuschlag in Prozent berechnet sich wie folgt: Anzahl Ferientage / (260 - Anzahl Ferientage).
+<sup>3</sup> Für Angestellte im Stundenlohn wird der auf die Ferienzeit und Feiertage entfallende Lohnanspruch zusammen mit dem Stundenlohn ausbezahlt. Feiertage können zusätzlich vergütet werden. Dies muss im Arbeitsvertrag sowie schriftlich in jeder einzelnen Lohnabrechnung ausgewiesen und das Feriengeld und Feiertaggeld separat aufgeführt werden. Der Ferienzuschlag in Prozent berechnet sich wie folgt: Anzahl Ferientage / (260 – Anzahl Ferientage).
 
 <sup>4</sup> Der Zuschlag für das Feriengeld beträgt:
 
-- a) bei 4 Wochen Ferien 8.33% des Stundenlohnes
-- b) bei 5 Wochen Ferien 10.64% des Stundenlohnes
-- c) bei 6 Wochen Ferien 13.04% des Stundenlohnes
+- a) bei 4 Wochen Ferien 8,33 % des Stundenlohnes;
+
+- b) bei 5 Wochen Ferien 10,64 % des Stundenlohnes;
+
+- c) bei 6 Wochen Ferien 13.04 % des Stundenlohnes.
 
 #### § 26
 
@@ -363,7 +387,7 @@ beschliesst:
 
 <sup>4</sup> In der Lohnabrechnung sind der Lohn sowie allfällige Lohnzuschläge und Lohnabzüge ersichtlich.
 
-### 1.5 Leistungen bei Verhinderung
+- 5\. Leistungen bei Verhinderung
 
 #### § 27
 
@@ -379,8 +403,9 @@ beschliesst:
 
 <sup>1</sup> Werden Arbeitnehmende aus Gründen, die in ihrer Person liegen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne ihr Verschulden an der Arbeitsleistung verhindert, so haben die Arbeitnehmenden, sofern das Arbeitsverhältnis für eine unbestimmte Zeit oder für mehr als drei Monate eingegangen worden ist und die Lohnzahlungspflicht nicht besonders geregelt ist, innerhalb von 12 Monaten in folgendem Umfang Anspruch auf Lohnfortzahlung:
 
-- a) im 1. Dienstjahr für die Dauer eines Monates
-- b) mit jedem zusätzlichen Dienstjahr zwei weitere Wochen bis höchstens vier Monate
+- a) im 1. Dienstjahr für die Dauer eines Monates;
+
+- b) mit jedem zusätzlichen Dienstjahr zwei weitere Wochen bis höchstens vier Monate.
 
 <sup>2</sup> Eine allfällig ausbezahlte Lohnausfallentschädigung steht für die Dauer der Lohnfortzahlung den Arbeitgebenden zu.
 
@@ -390,7 +415,7 @@ beschliesst:
 
 <sup>5</sup> Für Arbeitsverhältnisse in der 24-Stunden-Betreuung ist § 55 anwendbar.
 
-### 1.6 Versicherungen
+- 6\. Versicherungen
 
 #### § 29
 
@@ -412,7 +437,7 @@ beschliesst:
 
 <sup>4</sup> Die Kosten für die obligatorische Krankenpflegeversicherung sind von den Arbeitnehmenden zu tragen.
 
-[^30-1]: SR [832.10](http://db.clex.ch/link/Bund/832.10/de).
+[^30-1]: SR 832.10.
 
 #### § 31
 
@@ -424,15 +449,15 @@ beschliesst:
 
 <sup>3</sup> Bei Schwangerschaft und Niederkunft werden die gleichen Leistungen wie bei Krankheit versichert, sofern die Arbeitnehmenden bis zum Tag der Niederkunft während wenigstens 270 Tagen versichert gewesen waren.
 
-<sup>4</sup> Vereinbaren die Arbeitgebenden eine Aufschubzeit des Leistungsbeginnes des Taggeldes, so bleiben sie während der Aufschubzeit zur Lohnfortzahlung im Umfang von 80% des Bruttolohnes verpflichtet.
+<sup>4</sup> Vereinbaren die Arbeitgebenden eine Aufschubzeit des Leistungsbeginnes des Taggeldes, so bleiben sie während der Aufschubzeit zur Lohnfortzahlung im Umfang von 80 % des Bruttolohnes verpflichtet.
 
 <sup>5</sup> Leben die Arbeitnehmenden in Hausgemeinschaft mit den Arbeitgebenden und erhalten Naturallohnleistungen, so können die Arbeitgebenden die entsprechenden Beträge nach den Ansätzen der Verordnung über die Alters- und Hinterlassenenversicherung vom 31. Oktober 1947 (AHVV)[^31-1] vom Krankentaggeld in Abzug bringen.
 
 <sup>6</sup> Fehlt der Versicherungsschutz, so haften die Arbeitgebenden den Arbeitnehmenden in dem Umfang, als diese bei bestehendem Versicherungsschutz Leistungen erhielten.
 
-<sup>7</sup> Beschäftigen Arbeitgebende teilzeitbeschäftigte hauswirtschaftliche Arbeitnehmende mit einem Beschäftigungsgrad von unter 50%, finden die Vorschriften über die Krankentaggeldversicherung keine Anwendung.
+<sup>7</sup> Beschäftigen Arbeitgebende teilzeitbeschäftigte hauswirtschaftliche Arbeitnehmende mit einem Beschäftigungsgrad von unter 50 %, finden die Vorschriften über die Krankentaggeldversicherung keine Anwendung.
 
-[^31-1]: SR [831.101](http://db.clex.ch/link/Bund/831.101/de).
+[^31-1]: SR 831.101.
 
 #### § 32
 
@@ -444,9 +469,9 @@ beschliesst:
 
 <sup>3</sup> Die Arbeitnehmenden tragen die Kosten für die Versicherung für Nichtberufsunfälle.
 
-<sup>4</sup> Die Arbeitgebenden haben Arbeitnehmende, die nicht mindestens 8 Stunden pro Woche arbeiten, nur gegen Berufsunfälle und ‑krankheiten zu versichern.
+<sup>4</sup> Die Arbeitgebenden haben Arbeitnehmende, die nicht mindestens 8 Stunden pro Woche arbeiten, nur gegen Berufsunfälle und -krankheiten zu versichern.
 
-[^32-1]: SR [832.20](http://db.clex.ch/link/Bund/832.20/de).
+[^32-1]: SR 832.20.
 
 #### § 33
 
@@ -456,7 +481,7 @@ beschliesst:
 
 <sup>2</sup> Bei Arbeitnehmenden, welche nicht von Abs. 1 erfasst werden, richtet sich die Lohnfortzahlung nach der Regelung über die unverschuldete Arbeitsverhinderung.
 
-[^33-1]: SR [834.1](http://db.clex.ch/link/Bund/834.1/de).
+[^33-1]: SR 834.1.
 
 #### § 34
 
@@ -466,9 +491,9 @@ beschliesst:
 
 <sup>2</sup> Der Beitrag der Arbeitgebenden für die berufliche Vorsorge gemäss BVG muss mindestens gleich hoch sein wie jener der Arbeitnehmenden.
 
-[^34-1]: SR [831.40](http://db.clex.ch/link/Bund/831.40/de).
+- 7\. Weisungsbefugnis und Haftung
 
-### 1.7 Weisungsbefugnis und Haftung
+[^34-1]: SR 831.40.
 
 #### § 35
 
@@ -490,7 +515,7 @@ beschliesst:
 
 <sup>3</sup> Das Mass der Sorgfalt, für das die Arbeitnehmenden einzustehen haben, bestimmt sich nach dem einzelnen Arbeitsverhältnis, unter Berücksichtigung des Berufsrisikos, des Bildungsgrades oder der Fachkenntnisse, die zu der Arbeit verlangt werden, sowie der Fähigkeiten und Eigenschaften der Arbeitnehmenden, die die Arbeitgebenden gekannt hatten oder hätten kennen sollen.
 
-### 1.8 Beendigung des Arbeitsverhältnisses
+- 8\. Beendigung des Arbeitsverhältnisses
 
 #### § 37
 
@@ -512,7 +537,7 @@ beschliesst:
 
 #### § 39
 
-**Fristlose Kündigung**
+**Fristlos Kündigung**
 
 <sup>1</sup> Aus wichtigen Gründen können die Arbeitgebenden und die Arbeitnehmenden jederzeit das Arbeitsverhältnis fristlos auflösen.
 
@@ -524,12 +549,15 @@ beschliesst:
 
 <sup>1</sup> Nach Ablauf der Probezeit dürfen die Arbeitgebenden das Arbeitsverhältnis nicht kündigen:
 
-- a) während die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet, sowie, sofern die Dienstleistung mehr als elf Tage dauert, während vier Wochen vorher und nachher
-- b) während die Arbeitnehmenden ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert sind, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen
-- c) während der Schwangerschaft und in den 16 Wochen nach der Niederkunft
-- d) während die Arbeitnehmenden mit Zustimmung der Arbeitgebenden an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnehmen
+- a) während die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet, sowie, sofern die Dienstleistung mehr als elf Tage dauert, während vier Wochen vorher und nachher;
 
-<sup>2</sup> Die Kündigung, die während einer der in Abs. 1 festgesetzten Sperrfristen ausgesprochen wird, ist nichtig. Ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
+- b) während die Arbeitnehmenden ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert sind, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen;
+
+- c) während der Schwangerschaft und in den 16 Wochen nach der Niederkunft;
+
+- d) während die Arbeitnehmenden mit Zustimmung der Arbeitgebenden an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnehmen.
+
+<sup>2</sup> Die Kündigung, die während einer der in Absatz 1 festgesetzten Sperrfristen ausgesprochen wird, ist nichtig. Ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
 
 <sup>3</sup> Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie das Ende eines Monates und fällt dieser nicht mit dem Ende der fortgesetzten Kündigungsfrist zusammen, so verlängert sich diese bis zum nächstfolgenden Endtermin.
 
@@ -557,15 +585,17 @@ beschliesst:
 
 <sup>1</sup> Bei Auflösung des Dienstverhältnisses haben Arbeitnehmende, die über 50 Jahre alt sind, mindestens 20 Dienstjahre bei denselben Arbeitgebenden aufweisen und nicht der obligatorischen beruflichen Vorsorge unterstehen, Anspruch auf folgende Abgangsentschädigung:
 
-- a) für 20 bis 25 Dienstjahre: — zwei Bruttolöhne
-- b) für 26 bis 30 Dienstjahre: — drei Bruttolöhne
-- c) für 31 bis 35 Dienstjahre: — vier Bruttolöhne
-- d) für 36 bis 40 Dienstjahre: — fünf Bruttolöhne
-- e) über 40 Dienstjahre: — sechs Bruttolöhne
+- a) für 20 bis 25 Dienstjahre zwei Bruttolöhne;
 
-<sup>2</sup> Im Übrigen richtet sich die Pflicht der Arbeitgebenden zur Entrichtung einer Abgangsentschädigung, namentlich auch der Wegfall der Entschädigung infolge Ersatzleistungen, nach Art. 339b ff. des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR)[^43-1].
+- b) für 26 bis 30 Dienstjahre drei Bruttolöhne;
 
-[^43-1]: SR [220](http://db.clex.ch/link/Bund/220/de).
+- c) für 31 bis 35 Dienstjahre vier Bruttolöhne;
+
+- d) für 36 bis 40 Dienstjahre fünf Bruttolöhne;
+
+- e) über 40 Dienstjahre sechs Bruttolöhne.
+
+<sup>2</sup> Im Übrigen richtet sich die Pflicht der Arbeitgebenden zur Entrichtung einer Abgangsentschädigung, namentlich auch der Wegfall der Entschädigung infolge Ersatzleistungen, nach Art. 339b ff. des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR) 1).
 
 #### § 44
 
@@ -575,9 +605,9 @@ beschliesst:
 
 <sup>2</sup> Auf besonderes Verlangen der Arbeitnehmenden hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
-## 2 Besondere Bestimmungen für die 24-Stunden-Betreuung
+## II. Besondere Bestimmungen für die 24-Stunden-Betreuung
 
-### 2.1 Arbeitsbedingungen
+### 1. Arbeitsbedingungen
 
 #### § 45
 
@@ -613,7 +643,7 @@ beschliesst:
 
 <sup>2</sup> Während der wöchentlichen Freizeit dürfen die Arbeitnehmenden das Haus verlassen und stehen der zu betreuenden Person nicht zur Verfügung.
 
-<sup>3</sup> Im Übrigen sind die Abs. 2, 3 und 6 von § 17 anwendbar.
+<sup>3</sup> Im Übrigen sind die Absätze 2, 3 und 6 von § 17 anwendbar.
 
 #### § 48
 
@@ -633,7 +663,7 @@ beschliesst:
 
 <sup>3</sup> Die Arbeitnehmenden haben jederzeit das Recht, die Unterlagen der Arbeitszeiterfassung einzusehen und erhalten jeweils zusammen mit der Lohnabrechnung eine Kopie der aktuellen Arbeitszeitdokumentation.
 
-### 2.2 Lohn und Abzüge, Reisekosten
+- 2\. Lohn und Abzüge, Reisekosten
 
 #### § 50
 
@@ -641,9 +671,11 @@ beschliesst:
 
 <sup>1</sup> Die Präsenzzeit am Tag wie in der Nacht ist wie folgt zu entlöhnen:
 
-- a) im Umfang von 25% der Vergütung für die aktive Arbeitszeit, aber mindestens Fr. 5.00 pro Stunde, falls es pro Woche bis zu maximal drei nächtlichen Einsätzen im Durchschnitt kommt
-- b) im Umfang von 35% der Vergütung für die aktive Arbeitszeit, aber mindestens Fr. 7.00 pro Stunde, falls es zu mehr als drei Einsätzen pro Woche, jedoch maximal zu einem Einsatz pro Nacht im Durchschnitt kommt
-- c) im Umfang von 50% der Vergütung für die aktive Arbeitszeit, aber mindestens Fr. 10.00 pro Stunde, falls es zu mehr als einem Einsatz pro Nacht im Durchschnitt kommt
+- a) im Umfang von 25 % der Vergütung für die aktive Arbeitszeit, aber mindestens CHF 5.00 pro Stunde, falls es pro Woche bis zu maximal drei nächtlichen Einsätzen im Durchschnitt kommt;
+
+- b) im Umfang von 35 % der Vergütung für die aktive Arbeitszeit, aber mindestens CHF 7.00 pro Stunde, falls es zu mehr als drei Einsätzen pro Woche, jedoch maximal zu einem Einsatz pro Nacht im Durchschnitt kommt;
+
+- c) im Umfang von 50 % der Vergütung für die aktive Arbeitszeit, aber mindestens CHF 10.00 pro Stunde, falls es zu mehr als einem Einsatz pro Nacht im Durchschnitt kommt.
 
 <sup>2</sup> Für die Wahl des anwendbaren Ansatzes ist die Anzahl der effektiv geleisteten nächtlichen Einsätze massgebend. Als Berechnungsperiode gilt der jeweilige Monat.
 
@@ -661,9 +693,9 @@ beschliesst:
 
 **Abzüge für Naturallohn**
 
-<sup>1</sup> Für tatsächlich erbrachte und ausgewiesene Unterkunft und Verpflegung können maximal die in Art. 11 der Verordnung über die Alters- und Hinterlassenenversicherung vom 31. Oktober 1947 (AHVV)[^52-1] festgelegten Ansätze in Abzug gebracht werden.
+Für tatsächlich erbrachte und ausgewiesene Unterkunft und Verpflegung können maximal die in Art. 11 der Verordnung über die Alters- und Hinterlassenenversicherung vom 31. Oktober 1947 (AHVV)[^52-1] festgelegten Ansätze in Abzug gebracht werden.
 
-[^52-1]: SR [831.101](http://db.clex.ch/link/Bund/831.101/de).
+[^52-1]: SR 831.101.
 
 #### § 53
 
@@ -671,15 +703,15 @@ beschliesst:
 
 <sup>1</sup> Der Kündigungsschutz zu Unzeit ist auch während der Probezeit anwendbar.
 
-<sup>2</sup> Im Übrigen sind die §§ 37–40 anwendbar.
+<sup>2</sup> Im Übrigen sind die §§ 37-40 anwendbar.
 
 #### § 54
 
 **Reisekosten**
 
-<sup>1</sup> Die Kosten für die erstmalige Hin- und Rückreise zwischen Wohn- und Einsatzort nach den vereinbarten Modalitäten und dem abgemachten Transportmittel sind durch die Arbeitgebenden zu bezahlen. Sie dürfen nicht vom Lohn in Abzug gebracht werden.
+Die Kosten für die erstmalige Hin- und Rückreise zwischen Wohn- und Einsatzort nach den vereinbarten Modalitäten und dem abgemachten Transportmittel sind durch die Arbeitgebenden zu bezahlen. Sie dürfen nicht vom Lohn in Abzug gebracht werden.
 
-### 2.3 Leistungen bei Verhinderung
+- 3\. Leistungen bei Verhinderung
 
 #### § 55
 
@@ -689,15 +721,15 @@ beschliesst:
 
 <sup>2</sup> Im Übrigen ist § 28 anwendbar.
 
-### 2.4 Beendigung des Arbeitsverhältnisses
+- 4\. Beendigung des Arbeitsverhältnisses
 
 #### § 56
 
 **Tod oder Heimeinweisung der betreuten Person**
 
-<sup>1</sup> Für Arbeitnehmende, die angestellt sind, um Betreuungsaufgaben zu erfüllen und die in Hausgemeinschaft mit der betreuten Person leben, kann bei Tod oder einer Heimeinweisung der betreuten Person das angetretene Arbeitsverhältnis nach frühestens 30 Tagen seit diesem Ereignis aufgelöst werden.
+Für Arbeitnehmende, die angestellt sind, um Betreuungsaufgaben zu erfüllen und die in Hausgemeinschaft mit der betreuten Person leben, kann bei Tod oder einer Heimeinweisung der betreuten Person das angetretene Arbeitsverhältnis nach frühestens 30 Tagen seit diesem Ereignis aufgelöst werden.
 
-### 2.5 Besondere Pflichten der Arbeitgebenden
+- 5\. Besondere Pflichten der Arbeitgebenden
 
 #### § 57
 
@@ -707,13 +739,13 @@ beschliesst:
 
 <sup>2</sup> Das hierfür zu verwendende Meldeformular kann auf der Internetseite des Kantons Schaffhausen (www.sh.ch) bezogen werden und ist vollständig ausgefüllt und unterschrieben beim Arbeitsinspektorat des Kantons Schaffhausen einzureichen.
 
-## 3 Schlussbestimmungen
+## III. Schlussbestimmungen
 
 #### § 58
 
 **Abgabepflichten**
 
-<sup>1</sup> Die Arbeitgebenden haben den Arbeitnehmenden vor Beginn des Arbeitsverhältnisses ein Exemplar dieses Normalarbeitsvertrages sowie des Arbeitsvertrages auszuhändigen.
+Die Arbeitgebenden haben den Arbeitnehmenden vor Beginn des Arbeitsverhältnisses ein Exemplar dieses Normalarbeitsvertrages sowie des Arbeitsvertrages auszuhändigen.
 
 #### § 59
 
@@ -731,10 +763,9 @@ beschliesst:
 
 <sup>1</sup> Die zwingenden und ergänzenden Vorschriften des Bundes und des kantonalen Rechts bleiben vorbehalten.
 
-<sup>2</sup> Soweit dieser Normalarbeitsvertrag keine Bestimmungen enthält und die Parteien keine zulässigen schriftlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR)[^60-1] und des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih vom 6. Oktober 1989 (Arbeitsvermittlungsgesetz, AVG)[^60-2].
+<sup>2</sup> Soweit dieser Normalarbeitsvertrag keine Bestimmungen enthält und die Parteien keine zulässigen schriftlichen Abreden getroffen haben, gelten die einschlägigen gesetzlichen Bestimmungen, insbesondere diejenigen des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches vom 30. März 1911 (Obligationenrecht, OR) 1) und des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih vom 6. Oktober 1989 (Arbeitsvermittlungsgesetz, AVG)[^60-1].
 
-[^60-1]: SR [220](http://db.clex.ch/link/Bund/220/de).
-[^60-2]: SR [823.11](http://db.clex.ch/link/Bund/823.11/de).
+[^60-1]: SR 823.11.
 
 #### § 61
 
@@ -742,8 +773,6 @@ beschliesst:
 
 <sup>1</sup> Dieser Normalarbeitsvertrag tritt am 1. Juli 2021 in Kraft. Er ist im Amtsblatt zu veröffentlichen[^61-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-<sup>2</sup> Der Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer vom 16. März 1993 wird aufgehoben.
+<sup>2</sup> Der Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmerinnen und Arbeitnehmer vom 16. März 1993 wird aufgehoben. Fussnoten:
 
 [^61-1]: Amtsblatt 2021, S. 1187.
-
-Abl. 2021, S. 1187
