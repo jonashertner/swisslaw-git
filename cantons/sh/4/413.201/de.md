@@ -5,54 +5,54 @@ title: "Verordnung des Erziehungsrates über Aufnahme, Promotionen und Zeugnisse
 short: Promotions- und Maturitätsverordnung
 language: de
 version: 2022-08-01
-valid_until: 2026-07-31
+corrected: 2024-06-24
 version_adopted: 2022-06-22
 adopted: 1996-12-12
 in_force: 1997-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.201"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1836/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/213/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung des Erziehungsrates über Aufnahme, Promotionen und Zeugnisse der Schülerinnen und Schüler der Maturitätsschule sowie über die Maturitätsprüfungen an der Kantonsschule Schaffhausen
+# Verordnung des Erziehungsrates über Aufnahme, Promotionen und Zeugnisse der Schülerinnen und Schüler der Maturitätsschule sowie über die Maturitätsprüfungen an der Kantonsschule Schaffhausen (Promotions- und Maturitätsverordnung)
 
-(Promotions- und Maturitätsverordnung)
-
-Vom 12.12.1996 (Stand 01.08.2022)
+vom 12. Dezember 1996
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
-gestützt auf §§ 17, 20 und 54 Abs. 1 lit. a des kantonalen Schuldekrets vom 27. April 1981[^ingress-1] sowie auf das Maturitäts-Anerkennungsreglement (MAR) der schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 16. Januar 1995[^ingress-2],
+gestützt auf §§ 17, 20 und 54 Abs. 1 lit. a des kantonalen Schuldekrets vom 27. April 1981 <sup>1)</sup> sowie auf das Maturitäts-Anerkennungsreglement (MAR) der schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 16. Januar 1995 <sup>2)</sup>,
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [410.110](https://rechtsbuch.sh.ch/data/410.110/de).
-[^ingress-2]: SHR [413.001](https://rechtsbuch.sh.ch/data/413.001/de).
+### I. Aufnahme und Austritt
 
-## 1 Aufnahme und Austritt
-
-### 1.1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### § 1
 
+<sup>22)</sup>
+
 **Aufnahmeprüfung**
 
-<sup>1</sup> Die Aufnahme der Schülerinnen und Schüler erfolgt nur auf Beginn eines neuen Schuljahres. Alle angemeldeten Schülerinnen und Schüler müssen eine Aufnahmeprüfung absolvieren. Vorbehalten bleiben Aufnahmen gemäss § 5 und §§ 13–18.
+Die Aufnahme der Schülerinnen und Schüler erfolgt nur auf Beginn eines neuen Schuljahres. Alle angemeldeten Schülerinnen und Schüler müssen eine Aufnahmeprüfung absolvieren. Vorbehalten bleiben Aufnahmen gemäss § 5 und §§ 13 - 18.
 
 #### § 2
 
 **Anmeldung**
 
-<sup>1</sup> Die Anmeldung zur Aufnahmeprüfung muss die Noten des letzten Zeugnisses in den Prüfungsfächern enthalten, ergänzt mit einer umfassenden Beurteilung der Eignung der Schülerinnen und Schüler für die Maturitätsschule sowie einer begründeten Stellungnahme («empfohlen» oder «nicht empfohlen») der Klassenlehrerin oder des Klassenlehrers. Die Meinung der anderen Fachlehrerinnen und Fachlehrer muss darin miteinbezogen sein.
+<sup>1</sup> Die Anmeldung zur Aufnahmeprüfung muss die Noten des letzten Zeugnisses in den Prüfungsfächern enthalten, ergänzt mit einer umfassenden Beurteilung der Eignung der Schülerinnen und Schü-
 
-<sup>2</sup> Nur in besonderen Fällen darf eine Schülerin oder ein Schüler als «noch nicht beurteilbar» qualifiziert werden.
+Amtsblatt 1996, S. 1855 ler für die Maturitätsschule sowie einer begründeten Stellungnahme ("empfohlen" oder "nicht empfohlen") der Klassenlehrerin oder des Klassenlehrers. Die Meinung der anderen Fachlehrerinnen und Fachlehrer muss darin miteinbezogen sein.
+
+<sup>2</sup> Nur in besonderen Fällen darf eine Schülerin oder ein Schüler als "noch nicht beurteilbar" qualifiziert werden.
 
 #### § 3
 
 **Alter**
 
-<sup>1</sup> Schülerinnen und Schüler, die mehr als zwei Jahre älter sind als diejenigen des entsprechenden Schülerjahrganges, werden nur mit Zustimmung der Schulleitung zur Aufnahmeprüfung zugelassen (§ 17 Abs. 1 Schuldekret). Sie müssen ihrer Anmeldung ein begründetes Gesuch beilegen.
+Schülerinnen und Schüler, die mehr als zwei Jahre älter sind als diejenigen des entsprechenden Schülerjahrganges, werden nur mit Zustimmung der Schulleitung zur Aufnahmeprüfung zugelassen (§ 17 Abs. 1 Schuldekret). Sie müssen ihrer Anmeldung ein begründetes Gesuch beilegen.
 
 #### § 4
 
@@ -68,18 +68,23 @@ beschliesst:
 
 <sup>1</sup> Schülerinnen und Schüler aus anderen schweizerischen Mittelschulen, welche mit einer eidgenössischen anerkannten Maturität abschliessen, können jederzeit prüfungsfrei eintreten.
 
-<sup>2</sup> Die genauen Übertrittsbedingungen – auch aus allen übrigen Mittelschulen – werden von der Schulleitung festgelegt.
+<sup>2</sup> Die genauen Übertrittsbedingungen – auch aus allen übrigen Mittelschulen – werden von der Schulleitung festgelegt. <sup>28)</sup>
 
 #### § 6
 
-**Vorzeitiger freiwilliger Austritt**
+<sup>28)</sup>
+
+**Vorzeitiger freiwilliger Austritt 28)**
 
 <sup>1</sup> Nach Erfüllung der obligatorischen Schulzeit ist ein vorzeitiger freiwilliger Austritt aus der Schule jederzeit möglich. Er erfolgt gestützt auf die schriftliche Mitteilung:
 
-- a) der noch nicht volljährigen Schülerin bzw. des noch nicht volljährigen Schülers und der erziehungsberechtigten Person oder
-- b) der volljährigen Schülerin bzw. des volljährigen Schülers
+- a) der noch nicht volljährigen Schülerin bzw. des noch nicht volljährigen Schülers und der erziehungsberechtigten Person; oder
+
+- b) der volljährigen Schülerin bzw. des volljährigen Schülers.
 
 #### § 6a
+
+<sup>28)</sup>
 
 **Förderprogramm Sport und Kultur**
 
@@ -89,27 +94,31 @@ beschliesst:
 
 #### § 6b
 
+<sup>17)</sup>
+
 **Zweisprachige Maturität**
 
 <sup>1</sup> Über die Aufnahme in Ausbildungsgänge, die zu einer zweisprachigen Maturität führen (Immersionsunterricht und Maturité bilingue), entscheidet die Schulleitung.
 
 <sup>2</sup> Das Nähere betreffend diese beiden Ausbildungsgänge regelt die Schulleitung durch Reglement.
 
-### 1.2 Aufnahme in die erste Klasse
+### B. Aufnahme in die erste Klasse
 
 #### § 7
 
 **Voraussetzungen**
 
-<sup>1</sup> Voraussetzung für den Eintritt in die erste Klasse ist die erfolgreiche Absolvierung der 2. Klasse der Sekundarschule.
+<sup>1</sup> Voraussetzung für den Eintritt in die erste Klasse ist die erfolgreiche Absolvierung der 2. Klasse der Sekundarschule. <sup>26)</sup>
 
 <sup>2</sup> Kandidatinnen und Kandidaten mit anderen Bildungsgängen müssen eine entsprechende Vorbildung nachweisen.
 
 #### § 8
 
+<sup>10)</sup>
+
 **Prüfungsfächer**
 
-<sup>1</sup> Die Prüfungsfächer sind Deutsch und Mathematik.
+<sup>1</sup> Die Prüfungsfächer sind Deutsch und Mathematik. <sup>26)</sup>
 
 <sup>2</sup> Es wird schriftlich geprüft.
 
@@ -127,41 +136,47 @@ beschliesst:
 
 **Durchführung und Vorbereitung**
 
-<sup>1</sup> Die Prüfung wird von der Kantonsschule durchgeführt. Zur Vorbereitung der Prüfungsaufgaben werden Lehrkräfte der Sekundarschule beigezogen.
+Die Prüfung wird von der Kantonsschule durchgeführt. Zur Vorbereitung der Prüfungsaufgaben werden Lehrkräfte der Sekundarschule beigezogen.
 
 #### § 11
 
 **Aufnahme**
 
-<sup>1</sup> Provisorische Aufnahme erfolgt, wenn die Notensumme der Prüfungsfächer mindestens 8 beträgt.
+<sup>1</sup> Provisorische Aufnahme erfolgt, wenn die Notensumme der Prüfungsfächer mindestens 8 beträgt. <sup>26)</sup>
 
-<sup>2</sup> Bei Nichterreichen dieser Notensumme erfolgt die provisorische Aufnahme durch Beschluss der Prüfungskonferenz auf Antrag der Klassenlehrerin oder des Klassenlehrers. Das Antragsrecht besteht nur, wenn die Schülerin oder der Schüler auf dem Anmeldeblatt empfohlen oder mit zureichender Begründung als noch nicht beurteilbar qualifiziert worden ist. Auf dem Anmeldeblatt empfohlen werden sollen nur Schülerinnen und Schüler, welche die Klassenlehrerin oder der Klassenlehrer aufgrund ihrer bisherigen Leistungen für die Maturitätsschule geeignet hält. Stellt der Klassenlehrer oder die Klassenlehrerin keinen Antrag auf provisorische Aufnahme, obwohl die Schülerin oder der Schüler auf dem Anmeldeblatt empfohlen worden ist, so hat er oder sie dies an der Prüfungskonferenz zu begründen.
+<sup>2</sup> Bei Nichterreichen dieser Notensumme erfolgt die provisorische Aufnahme durch Beschluss der Prüfungskonferenz auf Antrag der Klassenlehrerin oder des Klassenlehrers. Das Antragsrecht besteht nur, wenn die Schülerin oder der Schüler auf dem Anmeldeblatt empfohlen oder mit zureichender Begründung als noch nicht beurteilbar qualifiziert worden ist. Auf dem Anmeldeblatt empfohlen werden sollen nur Schülerinnen und Schüler, welche die Klassenlehrerin oder der Klassenlehrer aufgrund ihrer bisherigen Leistungen für die Maturitätsschule geeignet hält. Stellt der Klassenlehrer oder die Klassenlehrerin keinen Antrag auf provisorische Aufnahme, obwohl die Schülerin oder der Schüler auf dem Anmeldeblatt empfohlen worden ist, so hat er oder sie dies an der Prüfungskonferenz zu begründen. <sup>13)</sup>
 
-<sup>3</sup> Die Aspekte der Mündlichkeit können im Antrag der Klassenlehrerin oder des Klassenlehrers erwähnt werden und sind angemessen zu berücksichtigen.
+<sup>3</sup> Die Aspekte der Mündlichkeit können im Antrag der Klassenlehrerin oder des Klassenlehrers erwähnt werden und sind angemessen zu berücksichtigen. <sup>26)</sup>
 
 #### § 12
+
+<sup>9)</sup>
 
 **Probezeit**
 
 <sup>1</sup> Die Probezeit dauert höchstens ein Semester und verläuft in zwei Phasen.
 
-<sup>2</sup> Nach 11 bis 13 Schulwochen erfolgt die erste Promotion. Die Schulleitung bestimmt die Dauer dieser ersten Phase. Erreicht eine Schülerin oder ein Schüler in den Aufnahmeprüfungsfächern Deutsch und Mathematik nicht mindestens eine Notensumme von 8 Punkten, so gilt die Probezeit als nicht bestanden und die Maturitätsschule muss verlassen werden. Bei einer günstigen Prognose kann die Promotionskonferenz auf Antrag einer Fachlehrerin oder eines Fachlehrers jedoch den weiteren Verbleib in der Probezeit beschliessen.
+<sup>2</sup> Nach 11 bis 13 Schulwochen erfolgt die erste Promotion. Die Schulleitung bestimmt die Dauer dieser ersten Phase. Erreicht eine Schülerin oder ein Schüler in den Aufnahmeprüfungsfächern Deutsch und Mathematik nicht mindestens eine Notensumme von 8 Punkten, so gilt die Probezeit als nicht bestanden und die Maturitätsschule muss verlassen werden. Bei einer günstigen Prognose kann die Promotionskonferenz auf Antrag einer Fachlehrerin oder eines Fachlehrers jedoch den weiteren Verbleib in der Probezeit beschliessen. <sup>28)</sup>
 
 <sup>3</sup> Auf Ende des ersten Semesters entscheidet die Promotionskonferenz über die definitive Aufnahme oder Abweisung nach den ordentlichen Promotionsbedingungen (§ 23 und § 24).
 
-<sup>4</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz der Schulleitung empfehlen, die Probezeit für einzelne Schülerinnen und Schüler zu verlängern. Die Schulleitung entscheidet und bestimmt die Dauer der Verlängerung.
+<sup>4</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz der Schulleitung empfehlen, die Probezeit für einzelne Schülerinnen und Schüler zu verlängern. Die Schulleitung entscheidet und bestimmt die Dauer der Verlängerung. <sup>28)</sup>
 
-### 1.3 Aufnahme in die zweite Klasse
+### C. Aufnahme in die zweite Klasse
 
 #### § 13
 
+<sup>22)</sup>
+
 **Voraussetzungen**
 
-<sup>1</sup> Bei entsprechender Vorbildung kann eine Aufnahme in die 2. Klasse der Maturitätsschule erfolgen. Bei dieser Aufnahme entscheidet die Schulleitung aufgrund der Zeugnisse und Empfehlungen der bisher besuchten Schulen und / oder Ausbildungsinstitutionen, ob die Schülerin bzw. der Schüler zur Prüfung zugelassen wird.
+Bei entsprechender Vorbildung kann eine Aufnahme in die 2. Klasse der Maturitätsschule erfolgen. Bei dieser Aufnahme entscheidet die Schulleitung aufgrund der Zeugnisse und Empfehlungen der bisher besuchten Schulen und / oder Ausbildungsinstitutionen, ob die Schülerin bzw. der Schüler zur Prüfung zugelassen wird.
 
 #### § 14
 
-**Prüfungsfächer, Prüfungsstoff und Prüfungstermin**
+<sup>22)</sup>
+
+**Prüfungsfächer, Prüfungsstoff und Prüfungstermin 22)**
 
 <sup>1</sup> Die Prüfung erstreckt sich auf die Fächer, in denen aufgrund der Vorbildung Stofflücken vorhanden sind. Verlangt wird die Beherrschung des Lehrstoffes der 1. Klasse der Maturitätsschule des entsprechenden Ausbildungsprofils.
 
@@ -173,7 +188,7 @@ beschliesst:
 
 **Vorbereitung und Durchführung**
 
-<sup>1</sup> Die Prüfung wird von Lehrkräften der Kantonsschule vorbereitet und durchgeführt.
+Die Prüfung wird von Lehrkräften der Kantonsschule vorbereitet und durchgeführt.
 
 #### § 16
 
@@ -181,11 +196,13 @@ beschliesst:
 
 <sup>1</sup> Provisorische Aufnahme erfolgt, wenn die Durchschnittsnote in den Prüfungsfächern mindestens 4 beträgt. Bei Prüfungsversagen kann die Prüfungskonferenz die provisorische Aufnahme auf begründeten Antrag der Schulleitung hin beschliessen.
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>23)</sup>
 
 #### § 17
 
-**Aufnahme aus der FMS**
+<sup>22)</sup>
+
+**Aufnahme aus der FMS 14)**
 
 <sup>1</sup> Für Schülerinnen und Schüler aus der FMS besteht die Möglichkeit eines Übertritts in die 2. Klasse der Maturitätsschule. Zur Prüfung zugelassen wird, wer am Ende der FMS-Probezeit in den Promotionsfächern einen Notendurchschnitt von mindestens 5 erreicht.
 
@@ -207,9 +224,9 @@ beschliesst:
 
 <sup>1</sup> Das Provisorium dauert ein Semester. Die Promotionskonferenz entscheidet nach den ordentlichen Promotionsbestimmungen über definitive Aufnahme oder Remotion.
 
-<sup>2</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz das Provisorium für einzelne Schülerinnen und Schüler verlängern. Die Schulleitung bestimmt die Dauer der Verlängerung.
+<sup>2</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz das Provisorium für einzelne Schülerinnen und Schüler verlängern. Die Schulleitung bestimmt die Dauer der Verlängerung <sup>22)</sup>. <sup>6)</sup>
 
-### 1.4 Hospitantinnen und Hospitanten
+### D. Hospitantinnen und Hospitanten <sup>5)</sup>
 
 #### § 19
 
@@ -221,9 +238,9 @@ beschliesst:
 
 #### § 20
 
-**…**
+<sup>7)</sup>
 
-## 2 Übertritt innerhalb der Maturitätsschule
+### II. Übertritt innerhalb der Maturitätsschule
 
 #### § 21
 
@@ -239,34 +256,33 @@ beschliesst:
 
 <sup>5</sup> Über den Übertritt gemäss Abs. 1 bis 4 entscheidet die Prüfungskonferenz.
 
-<sup>6</sup> Über den Wechsel des Schwerpunktfachs und über den Übertritt in ein anderes Ausbildungsprofil nach einer Remotion entscheidet die Schulleitung.
+<sup>6</sup> Über den Wechsel des Schwerpunktfachs und über den Übertritt in ein anderes Ausbildungsprofil nach einer Remotion entscheidet die Schulleitung. <sup>28)</sup>
 
-## 3 Zeugnisse und Promotion
+### III. Zeugnisse und Promotion
 
 #### § 22
 
 **Zeugnisse, Noten**
 
-<sup>1</sup> Am Ende der Probezeit, am Ende jedes Schuljahres und in der Mitte der 2. Klasse wird je ein Zeugnis ausgestellt. Schülerinnen und Schüler, die am Ende der 2. Klasse nur provisorisch promoviert werden konnten, erhalten auch in der Mitte der 3. Klasse ein Zeugnis. Das Zeugnis am Schluss der 3. Klasse beurteilt aber in jedem Fall die Leistungen über das ganze Schuljahr.
+<sup>1</sup> Am Ende der Probezeit, am Ende jedes Schuljahres und in der Mitte der 2. Klasse wird je ein Zeugnis ausgestellt. Schülerinnen und Schüler, die am Ende der 2. Klasse nur provisorisch promoviert werden konnten, erhalten auch in der Mitte der 3. Klasse ein Zeugnis. Das Zeugnis am Schluss der 3. Klasse beurteilt aber in jedem Fall die Leistungen über das ganze Schuljahr. <sup>5)</sup>
 
 <sup>2</sup> Die Leistungen werden in ganzen und halben Noten ausgedrückt. 6 ist die höchste und 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
 #### § 23
 
+<sup>14)</sup>
+
 **Promotionsfächer**
 
-<sup>1</sup> Promotionsfächer sind die Grundlagenfächer, nämlich: Deutsch, Französisch, die 2. Fremdsprache (Latein oder Englisch), Mathematik, Physik, Biologie, Chemie, Geschichte / Staatskunde, Geographie / Geologie, Bildnerisches Gestalten, Musik.
+<sup>1</sup> Promotionsfächer sind die Grundlagenfächer, nämlich: Deutsch, Französisch, die 2. Fremdsprache (Latein oder Englisch), Mathematik, Physik, Biologie, Chemie, Geschichte/Staatskunde, Geographie/Geologie, Bildnerisches Gestalten, Musik.
 
-<sup>2</sup> Weitere Promotionsfächer sind: Englisch in der 1. Klasse des Ausbildungsprofils S, Sport (ab dem 2. Semester der 1. Klasse), Einführung in Wirtschaft und Recht, Informatik, das Schwerpunktfach und das Ergänzungsfach.
+<sup>2</sup> Weitere Promotionsfächer sind: Englisch in der 1. Klasse des Ausbildungsprofils S, Sport (ab dem 2. Semester der 1. Klasse), Einführung in Wirtschaft und Recht, Informatik, das Schwerpunktfach und das Ergänzungsfach. <sup>27)</sup>
 
 #### § 24
 
 **Promotionsbedingungen**
 
-<sup>1</sup> Eine Schülerin oder ein Schüler der Maturitätsschule wird definitiv promoviert, wenn:
-
-- a) in den Promotionsfächern die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
-- b) nicht mehr als vier Noten unter 4 erteilt wurden
+Eine Schülerin oder ein Schüler der Maturitätsschule wird definitiv promoviert, wenn a) in den Promotionsfächern die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und b) nicht mehr als vier Noten unter 4 erteilt wurden. <sup>14)</sup>
 
 #### § 25
 
@@ -278,13 +294,13 @@ beschliesst:
 
 <sup>3</sup> Am Ende der 3. Klasse kann aufgrund der ordentlichen Promotionsbedingungen nur eine definitive Promotion oder eine Remotion erfolgen.
 
-<sup>4</sup> Das Zeugnis am Ende der 4. Klasse hat keine Promotionswirkung. Die Promotionskonferenz bestätigt die Noten auf dem Zirkularweg.
+<sup>4</sup> Das Zeugnis am Ende der 4. Klasse hat keine Promotionswirkung. Die Promotionskonferenz bestätigt die Noten auf dem Zirkularweg. <sup>18)</sup>
 
-<sup>5</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz der Schulleitung empfehlen, das Provisorium für einzelne Schülerinnen und Schüler zu verlängern. Die Schulleitung entscheidet und bestimmt die Dauer der Verlängerung.
+<sup>5</sup> In Berücksichtigung ausserordentlicher Umstände kann die Promotionskonferenz der Schulleitung empfehlen, das Provisorium für einzelne Schülerinnen und Schüler zu verlängern. Die Schulleitung entscheidet und bestimmt die Dauer der Verlängerung. <sup>28)</sup>
 
-<sup>6</sup> Eine freiwillige Repetition zählt als Remotion.
+<sup>6</sup> Eine freiwillige Repetition zählt als Remotion. <sup>6)</sup>
 
-<sup>7</sup> Wird bei Absolvierenden des Förderprogramms Sport und Kultur ein Schuljahr auf zwei Jahre aufgeteilt, so erfolgt die Promotion nach den ordentlichen Promotionsbedingungen dann, wenn das ganze Schuljahr absolviert ist.
+<sup>7</sup> Wird bei Absolvierenden des Förderprogramms Sport und Kultur ein Schuljahr auf zwei Jahre aufgeteilt, so erfolgt die Promotion nach den ordentlichen Promotionsbedingungen dann, wenn das ganze Schuljahr absolviert ist. <sup>12)</sup>
 
 #### § 26
 
@@ -298,7 +314,7 @@ beschliesst:
 
 **Repetition**
 
-<sup>1</sup> Repetentinnen und Repetenten werden nur provisorisch in eine entsprechend tiefere Klasse aufgenommen.
+Repetentinnen und Repetenten werden nur provisorisch in eine entsprechend tiefere Klasse aufgenommen.
 
 #### § 28
 
@@ -312,11 +328,13 @@ beschliesst:
 
 **Bemerkungen im Zeugnis**
 
-<sup>1</sup> Unter der Rubrik «Bemerkungen» können im Zeugnis Eintragungen über die Absenzen und das Betragen der Schülerin oder des Schülers gemacht werden.
+<sup>1</sup> Unter der Rubrik "Bemerkungen" können im Zeugnis Eintragungen über die Absenzen und das Betragen der Schülerin oder des Schülers gemacht werden.
 
-<sup>2</sup> Ist das Betragen einer Schülerin oder eines Schülers zu beanstanden, können im Zeugnis die Bemerkungen «Betragen nicht immer befriedigend» oder «Betragen unbefriedigend» eingetragen werden. Diese Zensuren bedürfen eines Beschlusses der Promotionskonferenz.
+<sup>2</sup> Ist das Betragen einer Schülerin oder eines Schülers zu beanstanden, können im Zeugnis die Bemerkungen "Betragen nicht immer befriedigend" oder "Betragen unbefriedigend" eingetragen werden. Diese Zensuren bedürfen eines Beschlusses der Promotionskonferenz.
 
 #### § 29a
+
+<sup>28)</sup>
 
 **Ausschluss aus dem Förderprogramm Sport und Kultur**
 
@@ -324,19 +342,27 @@ beschliesst:
 
 <sup>2</sup> Näheres regelt die Schulleitung in einem Reglement.
 
-## 4 Beurteilung der Leistungen in der Maturaarbeit, in den kantonalen Wahlfächern und in den Freifächern
+### IV. Beurteilung der Leistungen in der Maturaarbeit, in den kantonalen Wahlfächern und in den Freifächern
 
 #### § 30
 
+<sup>8)</sup>
+
 **Maturaarbeit**
 
-<sup>1</sup> Die Maturaarbeit ist eine grössere, eigenständige, schriftliche oder schriftlich kommentierte Arbeit, die am Schluss mündlich präsentiert wird.
+<sup>1</sup> Die Maturaarbeit ist eine grössere, eigenständige, schriftliche oder schriftlich kommentierte Arbeit, die am Schluss mündlich präsentiert wird. <sup>28)</sup>
 
-<sup>1<sup>bis</sup></sup> Die Kantonsschulkonferenz erlässt Richtlinien zur Organisation und zu den Anforderungen an die Maturitätsarbeit.
+<sup>1bis</sup> Die Kantonsschulkonferenz erlässt Richtlinien zur Organisation und zu den Anforderungen an die Maturitätsarbeit. <sup>29)</sup>
 
-<sup>2–4</sup> …
+<sup>2</sup> … <sup>15)</sup>
+
+<sup>3</sup> … <sup>30)</sup>
+
+<sup>4</sup> … <sup>30)</sup>
 
 #### § 30a
+
+<sup>29)</sup>
 
 **Unredlichkeit bei der Maturaarbeit**
 
@@ -346,25 +372,33 @@ beschliesst:
 
 #### § 31
 
-**Kantonale Wahlfächer**
+<sup>24)</sup>
 
-<sup>1</sup> Im obligatorisch zu belegenden kantonalen Wahlfach wird im Zeugnis eine Note gesetzt.
+**Kantonale Wahlfächer 24)**
+
+Im obligatorisch zu belegenden kantonalen Wahlfach wird im Zeugnis eine Note gesetzt.
 
 #### § 32
 
+<sup>10)</sup>
+
 **Freifächer**
 
-<sup>1</sup> In den sprachlichen Freifächern und im Fach Instrument werden Noten erteilt. In allen übrigen Freifächern wird der Vermerk «besucht» ins Zeugnis eingetragen.
+In den sprachlichen Freifächern und im Fach Instrument werden Noten erteilt. In allen übrigen Freifächern wird der Vermerk „besucht“ ins Zeugnis eingetragen.
 
-## 5 Maturitätsprüfung
+### V. Maturitätsprüfung
 
 #### § 33
 
+<sup>28)</sup>
+
 **Zulassung**
 
-<sup>1</sup> Zur Maturitätsprüfung sind diejenigen Schülerinnen und Schüler zugelassen, welche das letzte Jahr vor der Maturitätsprüfung an der Kantonsschule Schaffhausen absolviert haben.
+Zur Maturitätsprüfung sind diejenigen Schülerinnen und Schüler zugelassen, welche das letzte Jahr vor der Maturitätsprüfung an der Kantonsschule Schaffhausen absolviert haben.
 
 #### § 34
+
+<sup>28)</sup>
 
 **Maturitätsprüfungskommission**
 
@@ -376,17 +410,19 @@ beschliesst:
 
 **Maturitätsfächer**
 
-<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit bilden die Maturitätsfächer.
+<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit bilden die Maturitätsfächer. <sup>14)</sup>
 
-<sup>2</sup> Grundlagenfächer sind: Deutsch, Französisch, Latein oder Englisch, Mathematik, Physik, Biologie, Chemie, Geschichte / Staatskunde, Geographie / Geologie und Bildnerisches Gestalten oder Musik.
+<sup>2</sup> Grundlagenfächer sind: Deutsch, Französisch, Latein oder Englisch, Mathematik, Physik, Biologie, Chemie, Geschichte/Staatskunde, Geographie/Geologie und Bildnerisches Gestalten oder Musik. <sup>14)</sup>
 
 <sup>3</sup> Das Schwerpunktfach und das Ergänzungsfach werden von den Schülerinnen oder Schülern im Rahmen der Stundentafeln frei gewählt.
 
 #### § 35a
 
+<sup>16)</sup>
+
 **Weitere obligatorische Fächer**
 
-<sup>1</sup> Weitere obligatorische Fächer sind: Einführung in Wirtschaft und Recht, Informatik und Sport.
+Weitere obligatorische Fächer sind: Einführung in Wirtschaft und Recht, Informatik und Sport.
 
 #### § 36
 
@@ -402,9 +438,11 @@ beschliesst:
 
 #### § 37
 
+<sup>28)</sup>
+
 **Vorbereitung und Durchführung**
 
-<sup>1</sup> Die Prüfung wird in der Regel von der Lehrperson vorbereitet und abgenommen, die im letzten Schuljahr das betreffende Fach unterrichtet hat. Die prüfende Lehrperson und eine Expertin oder ein Experte beurteilen die Leistungen der Kandidatinnen und der Kandidaten gemeinsam.
+Die Prüfung wird in der Regel von der Lehrperson vorbereitet und abgenommen, die im letzten Schuljahr das betreffende Fach unterrichtet hat. Die prüfende Lehrperson und eine Expertin oder ein Experte beurteilen die Leistungen der Kandidatinnen und der Kandidaten gemeinsam.
 
 #### § 38
 
@@ -412,9 +450,11 @@ beschliesst:
 
 <sup>1</sup> Die Prüfung erstreckt sich im Wesentlichen über den Unterrichtsstoff der letzten beiden Jahre.
 
-<sup>2</sup> Eine mündliche oder praktische Prüfung (Instrument) dauert mindestens 15 Minuten, eine schriftliche Arbeit höchstens 4 Stunden. Die Dauer wird von der Schulleitung festgelegt.
+<sup>2</sup> Eine mündliche oder praktische Prüfung (Instrument) dauert mindestens 15 Minuten, eine schriftliche Arbeit höchstens 4 Stunden. Die Dauer wird von der Schulleitung festgelegt. <sup>28)</sup>
 
 #### § 39
+
+<sup>28)</sup>
 
 **Hilfsmittel**
 
@@ -426,42 +466,45 @@ beschliesst:
 
 **Erfahrungsnoten, Maturitätsnoten**
 
-<sup>1</sup> Vor Beginn der Prüfung wird für jedes Maturitätsfach aufgrund der Leistungen im letzten Ausbildungsjahr die Erfahrungsnote festgestellt.
+<sup>1</sup> Vor Beginn der Prüfung wird für jedes Maturitätsfach aufgrund der Leistungen im letzten Ausbildungsjahr die Erfahrungsnote festgestellt. … <sup>15)</sup>
 
-<sup>2</sup> Die Maturitätsnote ergibt sich als Durchschnitt aus der Erfahrungs- und der Prüfungsnote. In Fächern, in denen nicht geprüft wird, ist die mathematisch gerundete Erfahrungsnote die Maturitätsnote.
+<sup>2</sup> Die Maturitätsnote ergibt sich als Durchschnitt aus der Erfahrungs- und der Prüfungsnote. In Fächern, in denen nicht geprüft wird, ist die mathematisch gerundete Erfahrungsnote die Maturitätsnote. <sup>5)</sup>
 
 <sup>3</sup> Die Prüfungsnoten und die Maturitätsnoten werden in ganzen oder halben Zahlen ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
-<sup>4</sup> Liegt die Maturitätsnote eines Prüfungsfaches genau in der Mitte zwischen zwei möglichen Schlussnoten, beantragt die prüfende Lehrperson in Absprache mit der Expertin bzw. dem Experten die Schlussnote bei der Maturitätsprüfungskonferenz.
+<sup>4</sup> Liegt die Maturitätsnote eines Prüfungsfaches genau in der Mitte zwischen zwei möglichen Schlussnoten, beantragt die prüfende Lehrperson in Absprache mit der Expertin bzw. dem Experten die Schlussnote bei der Maturitätsprüfungskonferenz. <sup>28)</sup>
 
 #### § 41
 
 **Bestehensnormen**
 
-<sup>1</sup> Die Maturität ist bestanden, wenn in den Maturitätsfächern:
-
-- a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
-- b) nicht mehr als vier Noten unter 4 erteilt wurden
+Die Maturität ist bestanden, wenn in den Maturitätsfächern: <sup>14)</sup> a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und b) nicht mehr als vier Noten unter 4 erteilt wurden. <sup>14)</sup>
 
 #### § 41a
+
+<sup>29)</sup>
 
 **Maturitätsprüfungskonferenz**
 
 <sup>1</sup> Die Maturitätsprüfungskonferenz besteht aus:
 
-- a) einem Schulleitungsmitglied, das die Konferenz mit beratender Stimme leitet
-- b) allen prüfenden Lehrpersonen
+- a) einem Schulleitungsmitglied, das die Konferenz mit beratender Stimme leitet;
+
+- b) allen prüfenden Lehrpersonen.
 
 <sup>2</sup> Die Maturitätsprüfungskonferenz hat folgende Aufgaben:
 
-- a) Sie entscheidet über die Notengebung in Fällen gemäss § 40 Abs. 4 dieser Verordnung
-- b) Sie entscheidet Fälle, welche die Bestehensnormen gemäss § 41 dieser Verordnung nicht erfüllen und beschliesst über die Anhebung einer Schlussnote auf Antrag der prüfenden Lehrperson des entsprechenden Fachs nach Konsultation der beteiligten Expertin bzw. des beteiligten Experten
+- a) Sie entscheidet über die Notengebung in Fällen gemäss § 40 Abs. 4 dieser Verordnung.
+
+- b) Sie entscheidet Fälle, welche die Bestehensnormen gemäss § 41 dieser Verordnung nicht erfüllen und beschliesst über die Anhebung einer Schlussnote auf Antrag der prüfenden Lehrperson des entsprechenden Fachs nach Konsultation der beteiligten Expertin bzw. des beteiligten Experten.
 
 <sup>3</sup> Die Entscheide werden von der Sitzungsleiterin bzw. vom Sitzungsleiter im Namen der Maturitätsprüfungskonferenz unterzeichnet. Die Leiterin bzw. der Leiter der Administration schreibt das Protokoll.
 
 #### § 42
 
-**Unredlichkeit bei der Maturitätsprüfung**
+<sup>28)</sup>
+
+**Unredlichkeit bei der Maturitätsprüfung 28)**
 
 <sup>1</sup> Unredlichkeiten, insbesondere die Mitnahme oder Verwendung unerlaubter Hilfsmittel sowie Verstösse gegen die Prüfungsanweisungen, oder der Versuch zur Begehung einer Unredlichkeit haben in der Regel den Ausschluss von der Maturitätsprüfung zur Folge. Bei Ausschluss gilt die Maturität als nicht bestanden. Die Schulleitung entscheidet nach vorgängiger Anhörung der betroffenen Person.
 
@@ -469,57 +512,73 @@ beschliesst:
 
 #### § 43
 
-**Wiederholung der Maturitätsprüfung**
+<sup>28)</sup>
 
-<sup>1</sup> Zur Erlangung des Maturitätsausweises sind zwei Versuche zulässig. Das Schuljahr vor der Maturitätsprüfung, die Maturaarbeit und die Maturitätsprüfung sind zu wiederholen.
+**Wiederholung der Maturitätsprüfung 28)**
+
+Zur Erlangung des Maturitätsausweises sind zwei Versuche zulässig. Das Schuljahr vor der Maturitätsprüfung, die Maturaarbeit und die Maturitätsprüfung sind zu wiederholen.
 
 #### § 44
 
 **Maturitätsausweis**
 
-<sup>1</sup> Der Maturitätsausweis enthält:
+Der Maturitätsausweis enthält:
 
-- a) die Aufschrift «Schweizerische Eidgenossenschaft» sowie den Untertitel «Kanton Schaffhausen»; darunter der Vermerk: «Maturitätsausweis, ausgestellt nach dem Erlass des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 17. Februar 1995»
-- b) Kantonsschule Schaffhausen
-- c) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers
-- d) die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat
-- e) die Maturitätsnoten der Maturitätsfächer nach § 35
-- f) das Thema und die Note der Maturaarbeit
-- g) die Note im Fach Sport
-- h) …
-- i) die Unterschrift des Rektors und des Vorstehers des Erziehungsdepartementes
+- a) die Aufschrift "Schweizerische Eidgenossenschaft" sowie den Untertitel "Kanton Schaffhausen"; darunter der Vermerk: "Maturitätsausweis, ausgestellt nach dem Erlass des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/17. Februar 1995";
 
-## 5a Besondere Fälle
+- b) Kantonsschule Schaffhausen;
+
+- c) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
+
+- d) die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat;
+
+- e) die Maturitätsnoten der Maturitätsfächer nach § 35;
+
+- f) das Thema und die Note der Maturaarbeit; <sup>14)</sup>
+
+- g) die Note im Fach Sport;
+
+- h) … <sup>25)</sup>
+
+- i) die Unterschrift des Rektors und des Vorstehers des Erziehungsdepartementes. <sup>21)</sup>
+
+[^44-1]: Eingefügt durch ERB vom 24. Oktober 2001, in Kraft getreten am 1. Januar 2002 (Amtsblatt 2001, S. 1635).
+
+### Va. Besondere Fälle
+
+[^44-1]
 
 #### § 44a
 
+<sup>28)</sup>
+
 **Nicht geregelte Fälle**
 
-<sup>1</sup> In allen nicht geregelten Fällen entscheidet die Schulleitung.
+In allen nicht geregelten Fällen entscheidet die Schulleitung.
 
-## 6 Rekurswesen
+### VI. Rekurswesen
 
 #### § 45
 
 **Instanzen, Fristen, Verfahren**
 
-<sup>1</sup> Gegen Entscheide der Schulleitung, der Aufnahmeprüfungskonferenz, der Promotionskonferenz und der Maturitätsprüfungskonferenz kann bei der Aufsichtskommission Rekurs erhoben werden.
+<sup>1</sup> Gegen Entscheide der Schulleitung, der Aufnahmeprüfungskonferenz, der Promotionskonferenz und der Maturitätsprüfungskonferenz kann bei der Aufsichtskommission Rekurs erhoben werden. <sup>28)</sup>
 
-<sup>2</sup> Gegen Entscheide der Aufsichtskommission kann beim Erziehungsrat Rekurs erhoben werden.
+<sup>2</sup> Gegen Entscheide der Aufsichtskommission kann beim Erziehungsrat Rekurs erhoben werden. <sup>28)</sup>
 
 <sup>3</sup> Die Frist für sämtliche Rekurse beträgt 20 Tage, sofern nicht in besonders dringlichen Fällen die anordnende Behörde die Frist abkürzt.
 
 <sup>4</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen[^45-1].
 
-[^45-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^45-1]: SHR 172.200.
 
 #### § 46
 
 **Eröffnung und Rechtsmittelbelehrung**
 
-<sup>1</sup> Sämtliche Entscheide müssen den Betroffenen unter Bekanntgabe der Gründe mit einer Rechtsmittelbelehrung schriftlich zugestellt werden.
+Sämtliche Entscheide müssen den Betroffenen unter Bekanntgabe der Gründe mit einer Rechtsmittelbelehrung schriftlich zugestellt werden.
 
-## 7 Schlussbestimmungen
+### VII. Schlussbestimmungen
 
 #### § 47
 
@@ -527,14 +586,15 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 1997 in Kraft. Sie ist im Amtsblatt zu veröffentlichen[^47-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-<sup>2</sup> Sie ersetzt:
+<sup>2</sup> Sie ersetzt a) die Verordnung über Aufnahme, Zeugnisse und Promotion der Schüler der Mittelschule vom 26. Januar 1984;
 
-- a) die Verordnung über Aufnahme, Zeugnisse und Promotion der Schüler der Mittelschule vom 26. Januar 1984
-- b) die Verordnung über die Maturitätsprüfung an der Kantonsschule Schaffhausen vom 26. Januar 1984
+- b) die Verordnung über die Maturitätsprüfung an der Kantonsschule Schaffhausen vom 26. Januar 1984.
 
 [^47-1]: Amtsblatt 1996, S. 1855.
 
 #### § 48
+
+<sup>14)</sup>
 
 **Übergangsbestimmung**
 
@@ -542,4 +602,47 @@ beschliesst:
 
 <sup>2</sup> Für Schülerinnen und Schüler, welche im Schuljahr 2008/2009 die 2., 3. oder 4. Klasse der Maturitätsschule absolvieren, gelten bis und mit Abschluss der Maturitätsschule weiterhin die bis 31. Juli 2008 gültigen Bestimmungen dieser Verordnung.
 
-Abl. 1996, S. 1855
+Fussnoten:
+
+- 13) Fassung gemäss ERB vom 12. Dezember 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2008, S. 29).
+
+- 14) Fassung gemäss ERB vom 9. April 2008, in Kraft getreten am 1. August 2008 (Amtsblatt 2008, S. 497).
+
+- 15) Aufgehoben durch ERB vom 9. April 2008, in Kraft getreten am 1. August 2008 (Amtsblatt 2008, S. 497).
+
+- 16) Eingefügt durch ERB vom 9. April 2008, in Kraft getreten am 1. August 2008 (Amtsblatt 2008, S. 497).
+
+- 17) Eingefügt durch ERB vom 22. Oktober 2008, in Kraft getreten am 1. August 2009 (Amtsblatt 2008, S. 1781).
+
+- 18) Fassung gemäss ERB vom 26. Januar 2011, in Kraft getreten am 1. Februar 2011 (Amtsblatt 2011, S. 147).
+
+- 21) Eingefügt durch ERB vom 23. Juli 2014, in Kraft getreten am 1. August 2014 (Amtsblatt 2014, S. 1130).
+
+- 22) Fassung gemäss ERB vom 5. Juli 2017, in Kraft getreten am 1. August 2018 (Amtsblatt 2017, S. 1145).
+
+- 23) Aufgehoben durch ERB vom 5. Juli 2017, in Kraft getreten am 1. August 2018 (Amtsblatt 2017, S. 1145).
+
+- 24) Fassung gemäss ERB vom 7. November 2017, in Kraft getreten am 1. August 2018 (Amtsblatt 2017, S. 1819)
+
+- 25) Aufgehoben durch ERB vom 7. November 2017, in Kraft getreten am 1. August 2018 (Amtsblatt 2017, S. 1819).
+
+- 26) Fassung gemäss ERB vom 23. Januar 2019, in Kraft getreten am 1. Februar 2020 (Amtsblatt 2019, S. 190).
+
+- 27) Fassung gemäss ERB vom 23. Juni 2021, in Kraft getreten am 1. August 2022 (Amtsblatt 2022, S. 723).
+
+- 28) Fassung gemäss ERB vom 22. Juni 2022, in Kraft getreten am 1. August 2022 (Amtsblatt 2022, S. 1335).
+
+- 29) Eingefügt durch ERB vom 22. Juni 2022, in Kraft getreten am 1. August 2022 (Amtsblatt 2022, S. 1335).
+
+- 30) Aufgehoben durch ERB vom 22. Juni 2022, in Kraft getreten am 1. August 2022 (Amtsblatt 2022, S. 1335).
+
+## Weitere Fussnoten
+
+- [1] SHR 410.110.
+- [2] SHR 413.001.
+- [5] Fassung gemäss ERB vom 24. Oktober 2001, in Kraft getreten am 1. Januar 2002 (Amtsblatt 2001, S. 1635).
+- [7] Aufgehoben durch ERB vom 24. Oktober 2001, in Kraft getreten am 1. Januar 2002 (Amtsblatt 2001, S. 1635).
+- [8] Fassung gemäss ERB vom 21. November 2001, in Kraft getreten am 1. Januar 2002 (Amtsblatt 2001, S. 1789).
+- [9] Fassung gemäss ERB vom 17. Dezember 2003, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2003, S. 1885).
+- [10] Fassung gemäss ERB vom 11. Mai 2005, in Kraft getreten am 1. August 2005 (Amtsblatt 2005, S. 678).
+- [12] Eingefügt durch ERB vom 7. März 2007, in Kraft getreten am 8. März 2007 (Amtsblatt 2007, S. 399).
