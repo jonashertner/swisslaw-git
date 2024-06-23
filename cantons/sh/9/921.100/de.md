@@ -4,50 +4,56 @@ number: "921.100"
 title: Kantonales Waldgesetz
 language: de
 version: 2014-01-01
+corrected: 2024-06-24
 version_adopted: 2012-07-02
 adopted: 1997-02-17
 in_force: 1998-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/921.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1801/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/285/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Kantonales Waldgesetz
 
-Vom 17.02.1997 (Stand 01.01.2014)
+vom 17. Februar 1997
 
 Der Grosse Rat des Kantons Schaffhausen,
 
 gestützt auf das Bundesgesetz über den Wald vom 4. Oktober 1991 (Waldgesetz, WaG),
 
-beschliesst:
+beschliesst als Gesetz:
 
-## 1 Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz regelt den Vollzug der Bundesgesetzgebung über den Wald.
+Dieses Gesetz regelt den Vollzug der Bundesgesetzgebung über den Wald.
 
 #### Art. 2
 
 **Begriff des Waldes; quantitative Minimalerfordernisse**
 
-<sup>1</sup> Eine mit Waldbäumen und Waldsträuchern bestockte Fläche gilt als Wald, wenn sie folgende quantitativen Minimalerfordernisse aufweist:
+Eine mit Waldbäumen und Waldsträuchern bestockte Fläche gilt als Wald, wenn sie folgende quantitativen Minimalerfordernisse aufweist:
 
-- a) 800 m² Fläche mit Einschluss eines 2 m breiten Waldsaumes
-- b) 12 m Breite mit Einschluss eines je 2 m breiten Waldsaumes
-- c) auf Einwuchsflächen ein Alter der Bestockung von 20 Jahren
+- a) 800 m<sup>2</sup> Fläche mit Einschluss eines 2 m breiten Waldsaumes;
 
-## 2 Rodung und Waldfeststellung
+- b) 12 m Breite mit Einschluss eines je 2 m breiten Waldsaumes;
+
+- c) auf Einwuchsflächen ein Alter der Bestockung von 20 Jahren.
+
+### II. Rodung und Waldfeststellung
 
 #### Art. 3
 
 **Zuständige Behörde**
 
-<sup>1</sup> Das vom Regierungsrat bezeichnete Departement (im folgenden Departement) ist die zuständige Behörde für Ausnahmebewilligungen für Rodungen sowie für Waldfeststellungen, soweit nicht der Bund zuständig ist (Art. 6 WaG).
+Das vom Regierungsrat bezeichnete Departement (im folgenden Departement) ist die zuständige Behörde für Ausnahmebewilligungen für Rodungen sowie für Waldfeststellungen, soweit nicht der Bund zuständig ist (Art. 6 WaG).
+
+Amtsblatt 1997, S. 1597.
 
 #### Art. 4
 
@@ -55,7 +61,9 @@ beschliesst:
 
 <sup>1</sup> Die Einleitung und Durchführung des Rodungsverfahrens richtet sich nach den baurechtlichen Vorschriften über die Verfahrenskoordination.
 
-<sup>2</sup> Das Rodungsgesuch ist beim Gemeinderat einzureichen, durch die Gemeinde im Amtsblatt auszuschreiben und, wenn möglich mit den übrigen Gesuchsunterlagen des Werkes, für das gerodet werden soll, während 30 Tagen öffentlich aufzulegen.
+<sup>2</sup> Das Rodungsgesuch ist beim Gemeinderat einzureichen, durch die Gemeinde im Amtsblatt auszuschreiben und, wenn möglich mit den übrigen Gesuchsunterlagen des Werkes, für das gerodet werden soll, während 30 Tagen öffentlich aufzulegen.[^4-1]
+
+[^4-1]: Fassung gemäss G vom 16. August 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1199, S. 1880).
 
 #### Art. 5
 
@@ -69,13 +77,13 @@ beschliesst:
 
 **Verwirkung des Rekursrechts**
 
-<sup>1</sup> Wer nicht innert der Auflagefrist den Rodungsentscheid verlangt oder Einwendungen erhebt, verwirkt das Rekursrecht.
+Wer nicht innert der Auflagefrist den Rodungsentscheid verlangt oder Einwendungen erhebt, verwirkt das Rekursrecht.
 
 #### Art. 7
 
 **Rodungsentscheid**
 
-<sup>1</sup> Der Gemeinderat hat das Rodungsgesuch mit seinem Antrag zusammen mit den Einwendungen, den Zustellungsbegehren und einer allfälligen Stellungnahme der Gesuchstellerin oder des Gesuchstellers innert zwei Monaten seit der öffentlichen Auflage an das Departement weiterzuleiten. Dieses berücksichtigt im kurz zu begründenden Entscheid die wesentlichen Vorbringen der Verfahrensbeteiligten.
+Der Gemeinderat hat das Rodungsgesuch mit seinem Antrag zusammen mit den Einwendungen, den Zustellungsbegehren und einer allfälligen Stellungnahme der Gesuchstellerin oder des Gesuchstellers innert zwei Monaten seit der öffentlichen Auflage an das Departement weiterzuleiten. Dieses berücksichtigt im kurz zu begründenden Entscheid die wesentlichen Vorbringen der Verfahrensbeteiligten.
 
 #### Art. 8
 
@@ -93,9 +101,11 @@ beschliesst:
 
 <sup>1</sup> Das Departement entscheidet über den Vorteilsausgleich.
 
-<sup>2</sup> Gegen den Entscheid des Departementes kann innert 30 Tagen die Kommission für Enteignungen, Gebäudeversicherung und Brandschutz angerufen werden.
+<sup>2</sup> Gegen den Entscheid des Departementes kann innert 30 Tagen die Kommission für Enteignungen, Gebäudeversicherung und Brandschutz[^9-1] angerufen werden.
 
 <sup>3</sup> Das Verfahren richtet sich nach den Bestimmungen des kantonalen Enteignungsgesetzes.
+
+[^9-1]: Fassung gemäss G vom 9. November 2009, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 546, S. 549).
 
 #### Art. 10
 
@@ -113,9 +123,11 @@ beschliesst:
 
 <sup>1</sup> Das Waldfeststellungsgesuch ist mit dem Nachweis eines schutzwürdigen Interesses dem Kantonsforstamt einzureichen.
 
-<sup>2</sup> Das Kantonsforstamt legt das Waldfeststellungsgesuch während 30 Tagen in den betroffenen Gemeinden öffentlich auf.
+<sup>2</sup> Das Kantonsforstamt legt das Waldfeststellungsgesuch während 30 Tagen in den betroffenen Gemeinden öffentlich auf.[^11-1]
 
 <sup>3</sup> Die Gemeinde weist die betroffenen Grundeigentümerinnen und Grundeigentümer mit eingeschriebenem Brief auf die Auflage hin. Die Auflage ist im Amtsblatt auszuschreiben.
+
+[^11-1]: Fassung gemäss G vom 16. August 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1199, S. 1880).
 
 #### Art. 12
 
@@ -129,7 +141,7 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Das Departement leitet Einwendungen an die Gesuchstellerin oder den Gesuchsteller weiter und setzt eine Frist zur Stellungnahme an. Vor seinem Entscheid hört es die betroffene Gemeinde an.
+Das Departement leitet Einwendungen an die Gesuchstellerin oder den Gesuchsteller weiter und setzt eine Frist zur Stellungnahme an. Vor seinem Entscheid hört es die betroffene Gemeinde an.
 
 #### Art. 14
 
@@ -139,7 +151,7 @@ beschliesst:
 
 <sup>2</sup> Zum Rekurs ist berechtigt, wer durch die angefochtene Anordnung berührt ist und ein schutzwürdiges Interesse an ihrer Aufhebung oder Änderung hat.
 
-## 3 Betreten und Befahren des Waldes
+### III. Betreten und Befahren des Waldes
 
 #### Art. 15
 
@@ -149,11 +161,15 @@ beschliesst:
 
 <sup>2</sup> Einzäunungen und andere Zutrittsbeschränkungen sind gestattet:
 
-- a) zum Schutz von Jungwuchsflächen
-- b) zum Schutz von Pflanzen und wildlebenden Tieren
-- c) zum Schutz von öffentlichen Bauten und Anlagen
-- d) zur Abwehr von Gefahren
-- e) aus anderen wichtigen Gründen
+- a) zum Schutz von Jungwuchsflächen;
+
+- b) zum Schutz von Pflanzen und wildlebenden Tieren;
+
+- c) zum Schutz von öffentlichen Bauten und Anlagen;
+
+- d) zur Abwehr von Gefahren;
+
+- e) aus anderen wichtigen Gründen.
 
 #### Art. 16
 
@@ -173,13 +189,17 @@ beschliesst:
 
 <sup>1</sup> Waldstrassen dürfen nur mit Motorfahrzeugen befahren werden:
 
-- a) zu forstlichen Zwecken
-- b) für militärische und andere öffentliche Aufgaben (Art. 15 Abs. 1 WaG)
-- c) zu jagdlichen und landwirtschaftlichen Zwecken sowie zur Pflege der Naturschutzgebiete
+- a) zu forstlichen Zwecken;
+
+- b) für militärische und andere öffentliche Aufgaben (Art. 15 Abs.
+
+1 WaG);
+
+- c) zu jagdlichen und landwirtschaftlichen Zwecken sowie zur Pflege der Naturschutzgebiete.
 
 <sup>2</sup> Die Gemeinden können zulassen, dass Waldstrassen zu weiteren Zwecken befahren werden dürfen, wenn nicht die Walderhaltung oder andere öffentliche Interessen dagegen sprechen.
 
-<sup>3</sup> Waldstrassen im Sinne dieses Gesetzes sind Strassen, die durch den Wald führen, eine Fahrbahnbreite von höchstens 3.5 m aufweisen und vornehmlich der Pflege und Nutzung des Waldes dienen.
+<sup>3</sup> Waldstrassen im Sinne dieses Gesetzes sind Strassen, die durch den Wald führen, eine Fahrbahnbreite von höchstens 3,5 m aufweisen und vornehmlich der Pflege und Nutzung des Waldes dienen.
 
 #### Art. 18
 
@@ -189,7 +209,7 @@ beschliesst:
 
 <sup>2</sup> Aus wichtigen Gründen können die Gemeinden Ausnahmen vom Fahrverbot bewilligen.
 
-## 4 Schutz vor anderen Beeinträchtigungen
+### V. Schutz vor anderen Beeinträchtigungen
 
 #### Art. 19
 
@@ -211,9 +231,9 @@ beschliesst:
 
 **Schutz vor Naturereignissen**
 
-<sup>1</sup> Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, ordnet der Regierungsrat die Sicherung von Rutsch-, Erosions- und Steinschlaggebieten an.
+Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, ordnet der Regierungsrat die Sicherung von Rutsch-, Erosions- und Steinschlaggebieten an.
 
-## 5 Pflege und Nutzung des Waldes
+### V. Pflege und Nutzung des Waldes
 
 #### Art. 22
 
@@ -251,7 +271,9 @@ beschliesst:
 
 <sup>2</sup> Sie nehmen Anregungen und Einwände entgegen, prüfen diese bei der weiteren Bearbeitung und beantworten sie in geeigneter Form.
 
-<sup>3</sup> Zugang und Nutzung zu den Daten der forstlichen Planung richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.
+<sup>3</sup> Zugang und Nutzung zu den Daten der forstlichen Planung richtet sich nach den Vorschriften der Geoinformationsgesetzgebung.[^25-1]
+
+[^25-1]: Eingefügt durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
 
 #### Art. 26
 
@@ -275,7 +297,7 @@ beschliesst:
 
 **Minimale Pflege**
 
-<sup>1</sup> Wo die Erhaltung der Schutzfunktionen des Waldes Massnahmen erfordert, ordnet das Departement eine minimale Pflege an.
+Wo die Erhaltung der Schutzfunktionen des Waldes Massnahmen erfordert, ordnet das Departement eine minimale Pflege an.
 
 #### Art. 29
 
@@ -285,7 +307,7 @@ beschliesst:
 
 <sup>2</sup> Im öffentlichen Wald ist für das Anzeichnen der zur Nutzung vorgesehenen Bäume die zuständige Försterin oder der zuständige Förster verantwortlich.
 
-<sup>3</sup> Im Privatwald erfordern Holznutzungen mit einem Holzanfall von jährlich mehr als 30 m³ eine Bewilligung der zuständigen Försterin oder des zuständigen Försters. Die Bewilligung kann an Bedingungen und Auflagen geknüpft werden.
+<sup>3</sup> Im Privatwald erfordern Holznutzungen mit einem Holzanfall von jährlich mehr als 30 m<sup>3</sup> eine Bewilligung der zuständigen Försterin oder des zuständigen Försters. Die Bewilligung kann an Bedingungen und Auflagen geknüpft werden.
 
 <sup>4</sup> Holznutzungen auf isolierten Waldflächen, die kleiner sind als eine Hektare, erfordern in jedem Fall eine Bewilligung der zuständigen Försterin oder des zuständigen Försters.
 
@@ -325,7 +347,7 @@ beschliesst:
 
 <sup>2</sup> Die Regulierung des Wildbestandes erfolgt nach der Jagdgesetzgebung.
 
-## 6 Ausbildung, Beratung und Erhebungen
+### VI. Ausbildung, Beratung und Erhebungen
 
 #### Art. 34
 
@@ -333,12 +355,17 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sorgt:
 
-- a) für die Ausbildung der Försterinnen und Förster
-- b) in Zusammenarbeit mit den Berufsverbänden für die höhere Fachprüfung der Forstwart-Meisterinnen und ‑Meister und die Berufsprüfung der Forstwart-Vorarbeiterinnen und ‑Vorarbeiter
-- c) in Zusammenarbeit mit den Lehrbetrieben und der Berufsschule für die Ausbildung der Forstwartinnen und Forstwarte
-- d) in Zusammenarbeit mit den Berufsverbänden sowie den forstlichen Organisationen und Institutionen für die Ausbildung der Waldarbeiterinnen und Waldarbeiter
-- e) in Zusammenarbeit mit den Berufsverbänden sowie den forstlichen Organisationen und Institutionen für die Fortbildung des Forstpersonals
-- f) in Zusammenarbeit mit den forstlichen Organisationen für die Weiterbildung der Waldeigentümerinnen und Waldeigentümer
+- a) für die Ausbildung der Försterinnen und Förster;
+
+- b) in Zusammenarbeit mit den Berufsverbänden für die höhere Fachprüfung der Forstwart-Meisterinnen und -Meister und die Berufsprüfung der Forstwart-Vorarbeiterinnen und -Vorarbeiter;
+
+- c) in Zusammenarbeit mit den Lehrbetrieben und der Berufsschule für die Ausbildung der Forstwartinnen und Forstwarte;
+
+- d) in Zusammenarbeit mit den Berufsverbänden sowie den forstlichen Organisationen und Institutionen für die Ausbildung der Waldarbeiterinnen und Waldarbeiter;
+
+- e) in Zusammenarbeit mit den Berufsverbänden sowie den forstlichen Organisationen und Institutionen für die Fortbildung des Forstpersonals;
+
+- f) in Zusammenarbeit mit den forstlichen Organisationen für die Weiterbildung der Waldeigentümerinnen und Waldeigentümer.
 
 <sup>2</sup> Der Regierungsrat ist zum Abschluss von interkantonalen Vereinbarungen über die Aus- und Fortbildung des Forstpersonals ermächtigt.
 
@@ -346,7 +373,7 @@ beschliesst:
 
 **Beratung**
 
-<sup>1</sup> Die Beratung der Waldeigentümerinnen und Waldeigentümer durch den zuständigen Forstdienst zu Fragen der Pflege und Nutzung des Waldes ist in der Regel kostenlos.
+Die Beratung der Waldeigentümerinnen und Waldeigentümer durch den zuständigen Forstdienst zu Fragen der Pflege und Nutzung des Waldes ist in der Regel kostenlos.
 
 #### Art. 36
 
@@ -356,13 +383,13 @@ beschliesst:
 
 <sup>2</sup> Die Vorschriften von Art. 33 des Bundesgesetzes über den Wald sind sinngemäss anwendbar.
 
-## 7 Finanzierung
+### VII. Finanzierung
 
 #### Art. 37
 
 **Grundsätze**
 
-<sup>1</sup> Der Kanton richtet Abgeltungen und Finanzhilfen nur aus, wenn die Massnahmen der forstlichen Planung entsprechen, notwendig und zweckmässig sind und den technischen, wirtschaftlichen und ökologischen Anforderungen genügen.
+Der Kanton richtet Abgeltungen und Finanzhilfen nur aus, wenn die Massnahmen der forstlichen Planung entsprechen, notwendig und zweckmässig sind und den technischen, wirtschaftlichen und ökologischen Anforderungen genügen.
 
 #### Art. 38
 
@@ -370,54 +397,63 @@ beschliesst:
 
 <sup>1</sup> Der Kanton leistet Abgeltungen an:
 
-- a) Massnahmen, die kantonal angeordnet werden
-- b) die Aus- und Fortbildung des Forstpersonals
+- a) Massnahmen, die kantonal angeordnet werden;
+
+- b) die Aus- und Fortbildung des Forstpersonals.
 
 <sup>2</sup> Als Abgeltung für die gemeinwirtschaftlichen Leistungen des Waldes leistet der Kanton zusätzlich Beiträge an:
 
-- a) Massnahmen der Jungwaldpflege
-- b) Massnahmen zur Förderung der weiteren Waldfunktionen
+- a) Massnahmen der Jungwaldpflege;
+
+- b) Massnahmen zur Förderung der weiteren Waldfunktionen.
 
 #### Art. 39
 
 **Finanzhilfen**
 
-<sup>1</sup> Der Kanton kann Finanzhilfen leisten an:
+Der Kanton kann Finanzhilfen leisten an:
 
-- a) Massnahmen gemäss Art. 38 Abs. 2 und 3 des Bundesgesetzes über den Wald
-- b) die forstliche Weiterbildung der Waldeigentümerinnen und Waldeigentümer
-- c) Organisationen und Institutionen, die Massnahmen zur langfristigen Sicherstellung der Waldfunktionen ergreifen
-- d) den Bau von Anlagen zur Verwendung von einheimischem Waldholz mit einer thermischen Leistung von mindestens 250 kW
+- a) Massnahmen gemäss Art. 38 Abs. 2 und 3 des Bundesgesetzes über den Wald;
+
+- b) die forstliche Weiterbildung der Waldeigentümerinnen und Waldeigentümer;
+
+- c) Organisationen und Institutionen, die Massnahmen zur langfristigen Sicherstellung der Waldfunktionen ergreifen;
+
+- d) den Bau von Anlagen zur Verwendung von einheimischem Waldholz mit einer thermischen Leistung von mindestens 250 kW.
+
+[^39-1]: Eingefügt durch G vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 817, S. 1800).
 
 #### Art. 39b
 
-**Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund**
+**Programmbeziehungsweise Leistungsvereinbarungen mit dem Bund**[^39-1]
 
-<sup>1</sup> Der Kanton leistet überdies Abgeltungen und Finanzhilfen aufgrund von Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund. Der Regierungsrat ist zuständig für den Abschluss von Programm- beziehungsweise Leistungsvereinbarungen im Sinne der Art. 36–38 des Bundesgesetzes über den Wald.
+Der Kanton leistet überdies Abgeltungen und Finanzhilfen aufgrund von Programm- beziehungsweise Leistungsvereinbarungen mit dem Bund. Der Regierungsrat ist zuständig für den Abschluss von Programm- beziehungsweise Leistungsvereinbarungen im Sinne der Art. 36–38 des Bundesgesetzes über den Wald.
 
 #### Art. 40
 
 **Beitragshöhe**
 
-<sup>1</sup> An die anrechenbaren Kosten von Massnahmen gemäss Art. 38 und 39 leistet der Kanton Abgeltungen bis zu 100 Prozent und Finanzhilfen bis zu 60 Prozent.
+<sup>1</sup> An die anrechenbaren Kosten von Massnahmen gemäss Art. 38 und 39 leistet der Kanton Abgeltungen bis zu 100 Prozent und Finanzhilfen bis zu 60 Prozent.[^40-1]
 
 <sup>2</sup> Die Beiträge werden abgestuft nach der wirtschaftlichen Leistungsfähigkeit der Empfängerin oder des Empfängers und dem Gewicht des öffentlichen Interesses an der Massnahme.
 
 <sup>3</sup> Der Regierungsrat legt den Rahmen für die Ausrichtung von Beiträgen fest und erlässt die erforderlichen Vorschriften.
 
-## 8 Organisation und Vollzug
+[^40-1]: Fassung gemäss G vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 817, S. 1800).
+
+### VIII. Organisation und Vollzug
 
 #### Art. 41
 
 **Vollzug**
 
-<sup>1</sup> Das Departement vollzieht die Waldgesetzgebung, soweit durch Gesetz oder Verordnung nichts anderes bestimmt ist.
+Das Departement vollzieht die Waldgesetzgebung, soweit durch Gesetz oder Verordnung nichts anderes bestimmt ist.
 
 #### Art. 42
 
 **Forstkreise**
 
-<sup>1</sup> Der Regierungsrat bestimmt die Forstkreise und regelt ihre Organisation und Aufgaben.
+Der Regierungsrat bestimmt die Forstkreise und regelt ihre Organisation und Aufgaben.
 
 #### Art. 43
 
@@ -437,37 +473,57 @@ beschliesst:
 
 <sup>2</sup> Der kantonale Forstdienst erfüllt insbesondere folgende Aufgaben:
 
-- a) Aufsicht über die Walderhaltung
-- b) Erfassung des Waldzustandes
-- c) Aufsicht über die Forstreviere
-- d) Beratung der öffentlichen Waldeigentümer
-- e) Aus- und Fortbildung des Forstpersonals und forstliche Weiterbildung der Waldeigentümerinnen und Waldeigentümer in Zusammenarbeit mit forstlichen Organisationen und den Berufsverbänden
-- f) Öffentlichkeitsarbeit
-- g) Führung eines Forstbetriebes, der den Kantonswald umfasst
+- a) Aufsicht über die Walderhaltung;
+
+- b) Erfassung des Waldzustandes;
+
+- c) Aufsicht über die Forstreviere;
+
+- d) Beratung der öffentlichen Waldeigentümer;
+
+- e) Aus- und Fortbildung des Forstpersonals und forstliche Weiterbildung der Waldeigentümerinnen und Waldeigentümer in Zusammenarbeit mit forstlichen Organisationen und den Berufsverbänden;
+
+- f) Öffentlichkeitsarbeit;
+
+- g) Führung eines Forstbetriebes, der den Kantonswald umfasst.
 
 #### Art. 45
 
 **Aufgabe der Försterinnen und Förster**
 
-<sup>1</sup> Försterinnen und Förster erfüllen insbesondere folgende Aufgaben:
+Försterinnen und Förster erfüllen insbesondere folgende Aufgaben:
 
-- a) Vollzug der forstlichen Planung
-- b) Beratung der Privatwaldeigentümerinnen und Privatwaldeigentümer
-- c) Mitwirkung beim Vollzug waldgesetzlicher Vorschriften
+- a) Vollzug der forstlichen Planung;
 
-## 9 Schlussbestimmungen
+- b) Beratung der Privatwaldeigentümerinnen und Privatwaldeigentümer;
+
+- c) Mitwirkung beim Vollzug waldgesetzlicher Vorschriften.
+
+### IX. Schlussbestimmungen
 
 #### Art. 46
 
-**Änderung bisherigen Rechts[^46-1]**
+**Änderung bisherigen Rechts**
 
-[^46-1]: Gegenstandslos.
+Das Gesetz über die Einführung des Bundesgesetzes vom 3. Oktober 1951 über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes, Abschnitt: Bodenverbesserung (Kantonales Meliorationsgesetz) vom 2. Juli 1956 wird wie folgt geändert:
+
+### Ingress
+
+in Vollzug von Art. 118 des Bundesgesetzes über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes (Landwirtschaftsgesetz) vom 3. Oktober 1951 (LG) und gestützt auf Art. 56 der Kantonsverfassung
+
+#### Art. 3
+
+**Abs. 1 lit. a**
+
+An die subventionsberechtigten Ausführungskosten werden folgende Kantonsbeiträge ausgerichtet:
+
+- a) Gesamtmeliorationen (Güterzusammenlegungen einschliesslich Entwässerungen, Bewässerungen usw.) 35 - 40 %
 
 #### Art. 47
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Forstgesetz für den Kanton Schaffhausen vom 16. Dezember 1904 wird aufgehoben.
+Das Forstgesetz für den Kanton Schaffhausen vom 16. Dezember 1904 wird aufgehoben.
 
 #### Art. 48
 
@@ -481,12 +537,13 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^49-1][^49-2].
+<sup>1</sup> Dieses Gesetz tritt nach der Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^49-1].
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^49-3] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^49-2] und in die kantonale Gesetzessammlung aufzunehmen.
+
+Vom Eidgenössischen Volkswirtschaftsdepartement genehmigt am 30. Dezember 1997.
+
+Fussnoten:
 
 [^49-1]: In Kraft getreten am 1. Januar 1998 (Amtsblatt 1997, S. 1610).
-[^49-2]: Vom Eidgenössischen Volkswirtschaftsdepartement genehmigt am 30. Dezember 1997.
-[^49-3]: Amtsblatt 1997, S. 1597.
-
-Abl. 1997, S. 1597
+[^49-2]: Amtsblatt 1997, S. 1597.
