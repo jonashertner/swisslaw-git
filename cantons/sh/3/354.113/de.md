@@ -4,20 +4,22 @@ number: "354.113"
 title: "Verwaltungsvereinbarung zwischen dem Kanton Schaffhausen und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement bzw. die Oberzolldirektion über die Zusammenarbeit zwischen der Schaffhauser Polizei und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung"
 language: de
 version: 2008-06-01
+corrected: 2024-06-24
 version_adopted: 2008-05-13
 adopted: 2008-05-13
 in_force: 2008-06-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.113"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1739/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/38/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verwaltungsvereinbarung zwischen dem Kanton Schaffhausen und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement bzw. die Oberzolldirektion über die Zusammenarbeit zwischen der Schaffhauser Polizei und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung
 
-Vom 13.05.2008 (Stand 01.06.2008)
+vom 22. April / 13. Mai 2008
 
-## 1 Allgemeiner Teil: Grundsätze der Zusammenarbeit
+## A Allgemeiner Teil: Grundsätze der Zusammenarbeit
 
 #### Art. 1
 
@@ -33,7 +35,9 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 <sup>1</sup> Die Führungsverantwortung für polizeiliche Aufgaben im Landesinnern liegt beim Kanton Schaffhausen. Das GWK trägt die Führungsverantwortung für die ihm durch Bundesrecht zugewiesenen Aufgaben.
 
-<sup>2</sup> Die Schaffhauser Polizei und das GWK tragen die Einsatzverantwortung für ihre Angehörigen. Abweichende Regelungen in Bezug auf einzelne Einsätze, Aufgaben oder Personen legen die zuständigen Vorgesetzten beider Seiten im gegenseitigen Einvernehmen fest.
+<sup>2</sup> Die Schaffhauser Polizei und das GWK tragen die Einsatzverantwortung für ihre Angehörigen. Abweichende Regelungen in Bezug auf einzelne Einsätze, Aufgaben oder Personen legen die zustän-
+
+Amtsblatt 2008, S. 881 digen Vorgesetzten beider Seiten im gegenseitigen Einvernehmen fest.
 
 <sup>3</sup> Das GWK führt die ihm durch den Kanton Schaffhausen übertragenen Aufgaben im Grenzraum gemäss Art. 10 nach den definierten Abläufen selbständig aus.
 
@@ -41,18 +45,27 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 **Rechtliche Grundlagen**
 
-<sup>1</sup> Die Angehörigen der Schaffhauser Polizei und des GWK richten sich bei der Erfüllung ihrer gemeinsamen Aufgaben nach dem massgebenden Recht des Bundes und des Kantons. Zum Zeitpunkt des Abschlusses der Vereinbarung fallen darunter insbesondere die folgenden Bestimmungen:
+Die Angehörigen der Schaffhauser Polizei und des GWK richten sich bei der Erfüllung ihrer gemeinsamen Aufgaben nach dem massgebenden Recht des Bundes und des Kantons. Zum Zeitpunkt des Abschlusses der Vereinbarung fallen darunter insbesondere die folgenden Bestimmungen:
 
-- a) Bundesbeschluss vom 17. Dezember 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin (BBL 2005 S. 7149; Art 1 Abs. 3)
-- b) Zollgesetz (ZG) vom 18. März 2005 (SR [631.0](http://db.clex.ch/link/Bund/631.0/de); Art. 3, Art. 96, 97 und 100 ff)
-- c) Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG; BBl 2005 S. 7365)
-- d) Asylgesetz (AsylG) vom 26. Juni 1998 (SR [142.31](http://db.clex.ch/link/Bund/142.31/de))
-- e) Bundesgesetz vom 14. März 1958 über die Verantwortlichkeit des Bundes sowie seiner Behördemitglieder und Beamten (Verantwortlichkeitsgesetz VG; SR [170.32](http://db.clex.ch/link/Bund/170.32/de))
-- f) Ordnungsbussengesetz (OBG) vom 24. Juni 1970 (SR 741.03)
-- g) Strassenverkehrsgesetz (SVG) vom 19. Dezember 1958 (SR [741.01](http://db.clex.ch/link/Bund/741.01/de))
-- h) Verfassung des Kantons Schaffhausen (KV) vom 17. Juni 2002 (SHR [101.000](https://rechtsbuch.sh.ch/data/101.000/de), Art. 65 Abs. 4)
-- i) Gesetz über die Organisation des Polizeiwesens (Polizeiorganisationsgesetz) vom 21. Februar 2000 (SHR [354.100](https://rechtsbuch.sh.ch/data/354.100/de), Art. 12 Abs. 2)
-- j) Strafprozessordnung des Kantons Schaffhausen vom 15. Dezember 1986 (SHR [320.100](https://rechtsbuch.sh.ch/data/320.100/de))
+- Bundesbeschluss vom 17. Dezember 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin (BBL 2005 S. 7149; Artikel 1 Absatz 3)
+
+- Zollgesetz (ZG) vom 18. März 2005 (SR 631.0; Art. 3, Art. 96, 97 und 100 ff).
+
+- Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG; BBl 2005 S. 7365)
+
+- Asylgesetz (AsylG) vom 26. Juni 1998 (SR 142.31)
+
+- Bundesgesetz vom 14. März 1958 über die Verantwortlichkeit des Bundes sowie seiner Behördemitglieder und Beamten (Verantwortlichkeitsgesetz VG; SR 170.32)
+
+- Ordnungsbussengesetz (OBG) vom 24. Juni 1970 (SR 741.03)
+
+- Strassenverkehrsgesetz (SVG) vom 19. Dezember 1958 (SR 741.01)
+
+- Verfassung des Kantons Schaffhausen (KV) vom 17. Juni 2002 (SHR 101.000, Art. 65 Abs. 4);
+
+- Gesetz über die Organisation des Polizeiwesens (Polizeiorganisationsgesetz) vom 21. Februar 2000 (SHR 354.100, Art. 12 Abs. 2)
+
+- Strafprozessordnung des Kantons Schaffhausen vom 15. Dezember 1986 (SHR 320.100)
 
 #### Art. 4
 
@@ -60,7 +73,7 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 <sup>1</sup> Die Schaffhauser Polizei und das GWK tauschen Lageanalysen und Erkenntnisse aus, die für die Erfüllung der gemeinsamen Aufgaben im Bereich der inneren Sicherheit von Belang sind.
 
-<sup>2</sup> Das Kommando der Schaffhauser Polizei und das Regionenkommando Schaffhausen / Thurgau des GWK koordinieren die Schwergewichte bei der Einsatzplanung bei Verkehrs-, Personen- und Zollkontrollen.
+<sup>2</sup> Das Kommando der Schaffhauser Polizei und das Regionenkommando Schaffhausen/Thurgau des GWK koordinieren die Schwergewichte bei der Einsatzplanung bei Verkehrs-, Personen- und Zollkontrollen.
 
 <sup>3</sup> Zur Sicherstellung des Informationsaustausches und der Koordination der Einsatzschwergewichte finden regelmässige gemeinsame Treffen statt. Zusätzlich betreiben die Schaffhauser Polizei und das GWK ein Verbindungsbüro, welches der gegenseitigen Qualitätskontrolle dient und für die Beantwortung allfälliger Fragen im Rahmen der Zusammenarbeit zuständig ist.
 
@@ -70,25 +83,25 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 **Mobile Kontrollen und gemeinsame Aktionen**
 
-<sup>1</sup> Die Schaffhauser Polizei und das GWK können für gemeinsame Aktionen gemischte Teams einsetzen, welche die Aufgaben beider Seiten gemeinsam erfüllen.
+Die Schaffhauser Polizei und das GWK können für gemeinsame Aktionen gemischte Teams einsetzen, welche die Aufgaben beider Seiten gemeinsam erfüllen.
 
 #### Art. 6
 
 **Gegenseitige Unterstützung**
 
-<sup>1</sup> Die Schaffhauser Polizei und das GWK unterstützen sich gegenseitig bei der Erfüllung ihrer Aufgaben. Die Einsätze erfolgen nach dem Grundsatz der Zweckmässigkeit.
+Die Schaffhauser Polizei und das GWK unterstützen sich gegenseitig bei der Erfüllung ihrer Aufgaben. Die Einsätze erfolgen nach dem Grundsatz der Zweckmässigkeit.
 
 #### Art. 7
 
 **Nutzung des Funknetzes Polycom**
 
-<sup>1</sup> Die Schaffhauser Polizei und das GWK nutzen für die Kommunikation zwischen ihren Einsatzkräften wenn möglich das Funknetz Polycom.
+Die Schaffhauser Polizei und das GWK nutzen für die Kommunikation zwischen ihren Einsatzkräften wenn möglich das Funknetz Polycom.
 
 #### Art. 8
 
 **Ausbildung**
 
-<sup>1</sup> Wo dies sinnvoll ist und den Bedürfnissen entspricht, werden Ausbildungsmassnahmen gemeinsam durchgeführt.
+Wo dies sinnvoll ist und den Bedürfnissen entspricht, werden Ausbildungsmassnahmen gemeinsam durchgeführt.
 
 #### Art. 9
 
@@ -104,19 +117,19 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 **Einsatzraum des GWK**
 
-<sup>1</sup> Der Einsatzraum des GWK für die Wahrnehmung polizeilicher Aufgaben umfasst die Grenzübergänge, das Zwischengelände (grüne Grenze) sowie im mobilen Einsatz das gesamte Kantonsgebiet (Grenzraum), sofern die Kontrolltätigkeit einen Zusammenhang zu einem Grenzübertritt aufweist oder im Rahmen der Aufgaben des GWK gemäss Zollgesetz vom 18. März 2005 stattfindet.
+Der Einsatzraum des GWK für die Wahrnehmung polizeilicher Aufgaben umfasst die Grenzübergänge, das Zwischengelände (grüne Grenze) sowie im mobilen Einsatz das gesamte Kantonsgebiet (Grenzraum), sofern die Kontrolltätigkeit einen Zusammenhang zu einem Grenzübertritt aufweist oder im Rahmen der Aufgaben des GWK gemäss Zollgesetz vom 18. März 2005 stattfindet.
 
 #### Art. 11
 
 **Grenzpolizeiliche Kontrollen im Bahnverkehr**
 
-<sup>1</sup> Das GWK nimmt die grenzpolizeilichen Kontrollen im internationalen Bahnverkehr (Regionalzüge und internationale Züge) wie bis anhin wahr. Es betreibt hierzu einen Grenzwachtposten im Bahnhof Schaffhausen.
+Das GWK nimmt die grenzpolizeilichen Kontrollen im internationalen Bahnverkehr (Regionalzüge und internationale Züge) wie bis anhin wahr. Es betreibt hierzu einen Grenzwachtposten im Bahnhof Schaffhausen.
 
 #### Art. 12
 
 **Alarmfahndung**
 
-<sup>1</sup> Im Fall einer Alarmfahndung besetzt das GWK die Posten gemäss Absprache mit der Schaffhauser Polizei.
+Im Fall einer Alarmfahndung besetzt das GWK die Posten gemäss Absprache mit der Schaffhauser Polizei.
 
 #### Art. 13
 
@@ -134,15 +147,15 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 <sup>2</sup> Die Zollorgane stellen sicher, dass die durch sie zugunsten des Kantons Schaffhausen erhobenen Bussen und Depositen an die dafür zuständige zentrale Stelle des Kantons überwiesen werden samt den für die Zuordnung der einzelnen Zahlungen notwendigen Angaben.
 
-## 2 Besonderer Teil: Bereiche der Zusammenarbeit
+## B Besonderer Teil: Bereiche der Zusammenarbeit
 
-### 2.1 Allgemeines
+### B.1 Allgemeines
 
 #### Art. 15
 
 **Systematik**
 
-<sup>1</sup> Teil 2 bezeichnet Aufgabenbereiche, welche der Kanton Schaffhausen dem GWK bzw. der Eidgenössischen Zollverwaltung (EZV) zur selbständigen Erledigung übertragen hat. Die Anhänge regeln die technischen Einzelheiten der Zusammenarbeit.
+<sup>1</sup> Teil B bezeichnet Aufgabenbereiche, welche der Kanton Schaffhausen dem GWK bzw. der Eidgenössischen Zollverwaltung (EZV) zur selbständigen Erledigung übertragen hat. Die Anhänge regeln die technischen Einzelheiten der Zusammenarbeit.
 
 <sup>2</sup> Die Schaffhauser Polizei und das GWK bzw. die EZV können die Anhänge im gegenseitigen Einvernehmen und nach Rücksprache mit der zuständigen Untersuchungsbehörde anpassen.
 
@@ -150,119 +163,149 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 **Zuständigkeit innerhalb der EZV**
 
-<sup>1</sup> Fällt eine Aufgabe innerhalb der EZV nicht nur in den Zuständigkeitsbereich des GWK, sondern auch des zivilen Teils der Zollverwaltung, so wird dies nachfolgend durch den Vermerk «(EZV)» bezeichnet.
+Fällt eine Aufgabe innerhalb der EZV nicht nur in den Zuständigkeitsbereich des GWK, sondern auch des zivilen Teils der Zollverwaltung, so wird dies nachfolgend durch den Vermerk „(EZV)“ bezeichnet.
 
 #### Art. 17
 
 **Befugnisse der Angehörigen des GWK**
 
-<sup>1</sup> Beim Einsatz in gemischten Teams dürfen die Angehörigen des GWK dieselben polizeilichen Aufgaben ausüben wie die Angehörigen der Schaffhauser Polizei. Sie verfügen dabei über die gleichen Befugnisse. Das kantonale Recht bleibt vorbehalten.
+Beim Einsatz in gemischten Teams dürfen die Angehörigen des GWK dieselben polizeilichen Aufgaben ausüben wie die Angehörigen der Schaffhauser Polizei. Sie verfügen dabei über die gleichen Befugnisse. Das kantonale Recht bleibt vorbehalten.
 
 #### Art. 18
 
 **Weisungen der Untersuchungsbehörden**
 
-<sup>1</sup> Für die Umsetzung und Erledigung der in dieser Vereinbarung geregelten Tatbestände erlassen die zuständigen Untersuchungsbehörden in Zusammenarbeit mit dem GWK soweit notwendig entsprechende Weisungen.
+Für die Umsetzung und Erledigung der in dieser Vereinbarung geregelten Tatbestände erlassen die zuständigen Untersuchungsbehörden in Zusammenarbeit mit dem GWK soweit notwendig entsprechende Weisungen.
 
-### 2.2 Selbständige Erledigung durch die Grenzwache
+### B.2 Selbständige Erledigung durch die Grenzwache
 
 #### Art. 19
 
-**Personen- , Sach- und Fahrzeugfahndung**
+**Anhang 1 Personen- , Anhang 2 Sach- und**
 
-<sup>1</sup> Amtshilfe im Busseninkasso: Anhang 1.
+- 1\. Amtshilfe im Busseninkasso
 
-<sup>2</sup> Aufenthaltsnachforschung: Anhang 2.
+**Fahrzeug-**
 
-<sup>3</sup> Fernhaltemassnahmen: Anhang 3.
+- 2\. Aufenthaltsnachforschung
 
-<sup>4</sup> Eröffnung Einreisesperre: Anhang 4.
+**Anhang 3 fahndung Anhang 4**
+
+- 3\. Fernhaltemassnahmen
+
+- 4\. Eröffnung Einreisesperre
 
 #### Art. 20
 
 **Widerhandlungen AuG**
 
-<sup>1</sup> Rechtswidrige Ein- und Ausreise, rechtswidriger Aufenthalt: Anhang 5.
+**Anhang 5 Anhang 6 Anhang 7**
 
-<sup>2</sup> Schwarzarbeit: Anhang 6.
+- 1\. Rechtswidrige Ein- und Ausreise, rechtswidriger Aufenthalt
 
-<sup>3</sup> Schleppertätigkeit: Anhang 7.
+- 2\. Schwarzarbeit
 
-<sup>4</sup> Stellenantritt ohne Bewilligung bzw. Ausreisekontrolle bei Personen mit geregeltem Aufenthalt in der EU: Anhang 8.
+- 3\. Schleppertätigkeit
 
-<sup>5</sup> Gefälschte, verfälschte oder nicht zustehende Ausweise (EZV): Anhang 9.
+- 4\. Stellenantritt ohne Bewilligung bzw. Ausreisekon trolle bei Personen mit geregeltem Aufenthalt in der EU
 
-<sup>6</sup> Ein- und Ausreise mit Ausweis N, F und S: Anhang 10.
+**Anhang 8**
 
-<sup>7</sup> Rücküberstellung/Rückübernahme von Personen : Anhang 11.
+**Anhang 9 Anhang 10**
 
-<sup>8</sup> Formlose Wegweisung: Anhang 11a.
+- 5\. Gefälschte, verfälschte oder nicht zustehende Ausweise (EZV)
+
+- 6\. Ein- und Ausreise mit Ausweis N, F und S
+
+- 7\. Rücküberstellung/Rückübernahme von Personen Anhang 11
+
+**Anhang 11a**
+
+- 8\. Formlose Wegweisung
 
 #### Art. 21
 
-**Widerhandlung gegen das BetmG (EZV)**
-
-<sup>1</sup> Kleinstmengen von Betäubungsmitteln: Anhang 12.
+**Kleinstmengen von Betäubungsmitteln**
 
 #### Art. 22
 
-**Widerhandlung gegen die Waffengesetzgebung (EZV)**
+**Widerhandlung gegen die**
 
-<sup>1</sup> Ein- und Ausfuhr sowie Tragen von Waffen und Waffenbestandteilen: Anhang 13.
+**Anhang 13**
 
-<sup>2</sup> Ein- und Ausfuhr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver: Anhang 14.
+Ein- und Ausfuhr sowie Tragen von Waffen und Waf fenbestandteilen Ein- und Ausfuhr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver
 
 #### Art. 23
 
-**Strassenverkehrsrecht (EZV)**
+**Waffengesetzgebung (EZV)**
 
-<sup>1</sup> SVG; Fahren in angetrunkenem Zustand und / oder unter Drogeneinfluss: Anhang 15.
+**Anhang 14**
 
-<sup>2</sup> SVG; Fahren ohne den erforderlichen Schweizer Führerausweis; Fahren ohne Führerausweis: Anhang 16.
+**Strassenverkehrsrecht**
 
-<sup>3</sup> SVG; Nichteinhalten der Arbeits- und Ruhezeit Verordnung: Anhang 17.
+**Anhang 15**
 
-<sup>4</sup> Abgelaufene Kontrollschilder an Fahrzeugen mit provisorischer Immatrikulation der Schweiz oder des Fürstentums Liechtenstein: Anhang 18.
+- 1\. SVG; Fahren in angetrunkenem Zustand und/ oder unter Drogeneinfluss
 
-<sup>5</sup> Widerhandlungen gegen Art. 22 SDR (Gefahrengut): Anhang 19.
+**(EZV)**
 
-<sup>6</sup> Sonntags- und Nachtfahrverbot: Anhang 20.
+**Anhang 16**
 
-<sup>7</sup> SVG; Übermasse und Übergewichte (Länge, Höhe, Breite, Gewicht): Anhang 21.
+- 2\. SVG; Fahren ohne den erforderlichen Schweizer Führerausweis; Fahren ohne Führerausweis
 
-<sup>8</sup> Radarwarngeräte: Anhang 22.
+**Anhang 17**
 
-<sup>9</sup> Ordnungsbussen: Anhang 23.
+- 3\. SVG; Nichteinhalten der Arbeits- und Ruhezeit Ver ordnung
+
+- 4\. Abgelaufene Kontrollschilder an Fahrzeugen mit provisorischer Immatrikulation der Schweiz oder des Fürstentums Liechtenstein
+
+**Anhang 18**
+
+**Anhang 19 Anhang 20**
+
+- 5\. Widerhandlungen gegen Artikel 22 SDR (Gefahrengut)
+
+- 6\. Sonntags- und Nachtfahrverbot
+
+**Anhang 21 Anhang 22 Anhang 23**
+
+- 7\. SVG; Übermasse und Übergewichte (Länge, Höhe, Breite, Gewicht)
+
+- 8\. Radarwarngeräte
+
+- 9\. Ordnungsbussen
 
 #### Art. 24
 
 **Verschiedene Bereiche (EZV)**
 
-<sup>1</sup> Pilz- und Pflanzenschutz: Vollzug eidgenössischer und kantonaler Gesetze.
+- 1\. Pilz- und Pflanzenschutz;
 
-<sup>2</sup> Jagd- und Fischereigesetzgebung: Vollzug eidgenössischer und kantonaler Gesetze.
+Vollzug eidgenössischer und kantonaler Gesetze 2. Jagd- und Fischereigesetzgebung;
 
-<sup>3</sup> Schifffahrtspolizeiliche Vorschriften: Vollzug eidgenössischer und kantonaler Gesetze.
+Vollzug eidgenössischer und kantonaler Gesetze 3. Schifffahrtspolizeiliche Vorschriften;
 
-### 2.3 Verfahren
+Vollzug eidgenössischer und kantonaler Gesetze
+
+### B.3 Verfahren
 
 #### Art. 25
 
 **Übergabe von Personen oder Waren an die Polizei**
 
-<sup>1</sup> In der Regel erfolgt die Übergabe von Personen oder Waren an die Polizei bei einer Dienststelle des GWK.
+In der Regel erfolgt die Übergabe von Personen oder Waren an die Polizei bei einer Dienststelle des GWK.
 
 #### Art. 26
 
 **Rapportierung**
 
-<sup>1</sup> Das GWK bzw. die EZV rapportieren rechtsgenügend nach ihrem System.
+Das GWK bzw. die EZV rapportieren rechtsgenügend nach ihrem System.
 
 #### Art. 27
 
 **Information der Öffentlichkeit**
 
-<sup>1</sup> Bei Ereignissen, in welche beide Partner involviert sind, wird das Vorgehen bezüglich Medieninformation zwischen den Informationsverantwortlichen gegenseitig abgesprochen.
+Bei Ereignissen, in welche beide Partner involviert sind, wird das Vorgehen bezüglich Medieninformation zwischen den Informationsverantwortlichen gegenseitig abgesprochen.
 
 #### Art. 28
 
@@ -270,14 +313,10 @@ Vom 13.05.2008 (Stand 01.06.2008)
 
 <sup>1</sup> Diese Vereinbarung tritt am 1. Juni 2008 in Kraft.
 
-<sup>2</sup> Die Vereinbarung ist zu veröffentlichen[^28-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Die Vereinbarung ist zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^28-1]: Amtsblatt 2004, S. 293.
+Fussnoten:
 
-## A1 Anhänge 1–23
+- 1) Amtsblatt 2008, S. 881
 
-#### Art. A1-1
-
-<sup>1</sup> Die Anhänge können bei der Schaffhauser Polizei, Chef Zentrale Dienste Sicherheitspolizei, Beckenstube 1, 8200 Schaffhausen, eingesehen werden.
-
-Abl. 2008, S. 881
+Die Anhänge können bei der Schaffhauser Polizei, Chef Zentrale Dienste Sicherheitspolizei, Beckenstube 1, 8200 Schaffhausen, eingesehen werden.
