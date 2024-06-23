@@ -4,41 +4,44 @@ number: "813.100"
 title: Spitalgesetz
 language: de
 version: 2021-03-01
-valid_until: 2025-12-31
+corrected: 2024-06-24
 version_adopted: 2020-10-26
 adopted: 2004-11-22
 in_force: 2006-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1784/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/168/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Spitalgesetz
 
-Vom 22.11.2004 (Stand 01.03.2021)
+vom 22. November 2004
 
 Der Kantonsrat Schaffhausen
 
-Beschliesst:
+beschliesst als Gesetz:
 
-## 1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt, für die Bevölkerung des Kantons Schaffhausen eine bedarfsgerechte, qualitativ gute Spitalversorgung zu tragbaren Kosten sicherzustellen.
+Dieses Gesetz bezweckt, für die Bevölkerung des Kantons Schaffhausen eine bedarfsgerechte, qualitativ gute Spitalversorgung zu tragbaren Kosten sicherzustellen.
 
 #### Art. 2
 
 **Definition**
 
-<sup>1</sup> Die Spitalversorgung umfasst die folgenden Leistungen:
+Die Spitalversorgung umfasst die folgenden Leistungen:
 
-- a) stationäre Abklärung, Behandlung, Rehabilitation und Pflege von körperlich und psychisch Kranken
-- b) ambulante und teilstationäre medizinische Leistungen, soweit sie eine Spital-Infrastruktur erfordern bzw. unter Nutzung der Spital-Infrastruktur erbracht werden
-- c) weitere Leistungen, die den Spitälern durch Gesetz, Dekret oder durch Leistungsaufträge des Kantons übertragen werden (z.B. sanitätsdienstliches Rettungswesen, Aus-, Weiter- und Fortbildung, Beratungs- und Koordinationsdienste)
+- a) stationäre Abklärung, Behandlung, Rehabilitation und Pflege von körperlich und psychisch Kranken;
+
+- b) ambulante und teilstationäre medizinische Leistungen, soweit sie eine Spital-Infrastruktur erfordern bzw. unter Nutzung der Spital-Infrastruktur erbracht werden;
+
+- c) weitere Leistungen, die den Spitälern durch Gesetz, Dekret oder durch Leistungsaufträge des Kantons übertragen werden (z.B. sanitätsdienstliches Rettungswesen, Aus-, Weiter- und Fortbildung, Beratungs- und Koordinationsdienste).
 
 #### Art. 3
 
@@ -46,16 +49,23 @@ Beschliesst:
 
 <sup>1</sup> Der Betrieb von Spitälern auf dem Gebiet des Kantons Schaffhausen bedarf einer Bewilligung des zuständigen Departements.
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn:
+<sup>2</sup> Die Bewilligung wird erteilt, wenn a) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind;
 
-- a) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind
-- b) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist
-- c) eine ausreichende ärztliche Versorgung gewährleistet ist
-- d) das erforderliche weitere Fachpersonal verfügbar ist
-- e) eine zweckentsprechende pharmazeutische Versorgung gewährleistet ist
-- f) die für die Tätigkeiten nach Art. 6 des Gesundheitsgesetzes verantwortlichen Personen über eine Berufsausübungsbewilligung im Sinne von Art. 7 des Gesundheitsgesetzes verfügen
+- b) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist;
+
+Amtsblatt 2005, S. 1763.
+
+- c) eine ausreichende ärztliche Versorgung gewährleistet ist;
+
+- d) das erforderliche weitere Fachpersonal verfügbar ist;
+
+- e) eine zweckentsprechende pharmazeutische Versorgung gewährleistet ist;
+
+- f) die für die Tätigkeiten nach Art. 6 des Gesundheitsgesetzes verantwortlichen Personen über eine Berufsausübungsbewilligung im Sinne von Art. 7 des Gesundheitsgesetzes verfügen.[^3-1]
 
 <sup>3</sup> Die Bewilligung kann entzogen werden, wenn eine Voraussetzung für die Erteilung der Bewilligung nicht mehr gegeben ist.
+
+[^3-1]: Eingefügt durch G vom 21. Mai 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1929, S. 1948).
 
 #### Art. 4
 
@@ -63,9 +73,11 @@ Beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt dem Kantonsrat einmal pro Legislaturperiode einen Bericht betreffend den Stand der Spitalplanung zur Genehmigung vor. Der Bericht bezeichnet und umschreibt insbesondere:
 
-- a) den aktuellen Stand der Spitalversorgung der Kantonsbevölkerung
-- b) die absehbaren Veränderungen des Bedarfs und der Angebote
-- c) die Entwicklungsziele für das Spitalangebot
+- a) den aktuellen Stand der Spitalversorgung der Kantonsbevölkerung;
+
+- b) die absehbaren Veränderungen des Bedarfs und der Angebote;
+
+- c) die Entwicklungsziele für das Spitalangebot.
 
 <sup>2</sup> Die Planung beinhaltet eine Evaluation der beanspruchten bzw. in Frage kommenden Leistungsanbieter. Dabei sind insbesondere die Versorgungsqualität für die Gesamtheit der Kantonsbevölkerung, die Wirtschaftlichkeit sowie die Erreichbarkeit zu berücksichtigen. Der Koordination mit den Planungen anderer Kantone und Regionen ist die nötige Beachtung zu schenken.
 
@@ -89,15 +101,15 @@ Beschliesst:
 
 <sup>2</sup> Anstelle oder in Ergänzung von Verträgen mit einzelnen Spitälern können Verträge mit Kantonen oder anderen Spitalträgern abgeschlossen werden.
 
-## 2 Kantonale Spitäler Schaffhausen
+### B. Kantonale Spitäler Schaffhausen
 
-### 2.1 Grundlagen
+### I. Grundlagen
 
 #### Art. 7
 
 **Betriebsgesellschaft**
 
-<sup>1</sup> Unter dem Namen «Spitäler Schaffhausen» besteht eine Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Schaffhausen.
+<sup>1</sup> Unter dem Namen "Spitäler Schaffhausen" besteht eine Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Schaffhausen.
 
 <sup>2</sup> In den Spitälern Schaffhausen sind die vorbestehenden kantonalen Krankenanstalten (Kantonsspital – Akutmedizin und Geriatrie, Kantonale Psychiatrische Dienste Schaffhausen) zusammengefasst.
 
@@ -129,13 +141,13 @@ Beschliesst:
 
 **Beteiligungen, Auslagerungen**
 
-<sup>1</sup> Die Spitäler Schaffhausen können:
+Die Spitäler Schaffhausen können a) mit anderen Leistungserbringern gemeinsame Dienstleistungsbetriebe führen;
 
-- a) mit anderen Leistungserbringern gemeinsame Dienstleistungsbetriebe führen
-- b) spezielle Betriebsbereiche, die in erheblichem Ausmass Leistungen zugunsten Dritter erbringen und organisatorisch klar abgrenzbar sind, in rechtlich eigenständige Einheiten überführen
-- c) sich an anderen Unternehmen beteiligen, soweit dies für die Erfüllung des kantonalen Leistungsauftrages sinnvoll ist
+- b) spezielle Betriebsbereiche, die in erheblichem Ausmass Leistungen zugunsten Dritter erbringen und organisatorisch klar abgrenzbar sind, in rechtlich eigenständige Einheiten überführen;
 
-### 2.2 Organisation
+- c) sich an anderen Unternehmen beteiligen, soweit dies für die Erfüllung des kantonalen Leistungsauftrages sinnvoll ist.
+
+### II. Organisation
 
 #### Art. 11
 
@@ -143,19 +155,29 @@ Beschliesst:
 
 <sup>1</sup> Dem Kantonsrat obliegen folgende Aufgaben:
 
-- a) Ausübung der Oberaufsicht
-- b) Beschlussfassung über den Globalkredit
-- c) Bewilligung weiterer Staatsleistungen
-- d) Genehmigung der Auslagerung von Betriebsbereichen im Sinne von Art. 10 lit. b
-- e) Genehmigung von Geschäftsbericht und Jahresrechnung, mit Beschlussfassung über die Gewinnverwendung bzw. den Verlustvortrag
-- f) Entlastung des Spitalrates
-- g) Festlegung des Dotationskapitals
-- h) Genehmigung der Übertragung von Liegenschaften im Baurecht an die Spitäler
-- i) Genehmigung von Kreditaufnahmen durch die Spitäler, welche die Kompetenz des Spitalrates gemäss Art. 14 Abs. 2 lit. m übersteigen
+- a) Ausübung der Oberaufsicht;
+
+- b) Beschlussfassung über den Globalkredit;
+
+- c) Bewilligung weiterer Staatsleistungen;
+
+- d) Genehmigung der Auslagerung von Betriebsbereichen im Sinne von Art. 10 lit. b;
+
+- e) Genehmigung von Geschäftsbericht und Jahresrechnung, mit Beschlussfassung über die Gewinnverwendung bzw. den Verlustvortrag;
+
+- f) Entlastung des Spitalrates;
+
+- g) Festlegung des Dotationskapitals;[^11-1]
+
+- h) Genehmigung der Übertragung von Liegenschaften im Baurecht an die Spitäler;[^11-1]
+
+- i) Genehmigung von Kreditaufnahmen durch die Spitäler, welche die Kompetenz des Spitalrates gemäss Art. 14 Abs. 2 lit. m übersteigen.[^11-1]
 
 <sup>2</sup> Der Kantonsrat bestellt aus seinen Reihen eine ständige Kommission, welche die Geschäfte gemäss Abs. 1 vorberät sowie die Wahl und die Entlassung des Präsidenten bzw. der Präsidentin und der weiteren Mitglieder des Spitalrates vorbereitet.
 
 <sup>3</sup> Die Kommission prüft die vom Regierungsrat mit den Spitälern Schaffhausen ausgehandelten Rahmen- und Jahreskontrakte. Sie erstattet dem Kantonsrat im Rahmen der Budgetberatung Bericht und kann Anträge stellen.
+
+[^11-1]: Eingefügt durch G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
 
 #### Art. 12
 
@@ -163,29 +185,44 @@ Beschliesst:
 
 <sup>1</sup> Dem Regierungsrat obliegen folgende Aufgaben:
 
-- a) Berichterstattung und Antragstellung an den Kantonsrat in den in dessen Zuständigkeit fallenden Belangen gemäss Art. 11 Abs. 1
-- b) Wahl und Entlassung des Präsidenten bzw. der Präsidentin und der weiteren Mitglieder des Spitalrates auf Antrag der zuständigen Kommission
-- c) Festlegung der Entschädigung der Mitglieder des Spitalrates
-- d) Wahl der Revisionsstelle
-- e) Genehmigung der Rahmen- und Jahreskontrakte gemäss Art. 9 dieses Gesetzes
-- f) Genehmigung von Tarifverträgen bzw. Tariffestsetzung im Rahmen der obligatorischen Krankenversicherung
-- g) Abschluss von Vereinbarungen mit ausserkantonalen Hoheitsträgern über die Zuweisung von Patientinnen und Patienten
-- h) Genehmigung des Personalreglementes sowie allfälliger Gesamtarbeitsverträge
-- i) Genehmigung von Kooperationen und Beteiligungen im Sinne von Art. 10 lit. a und lit. c dieses Gesetzes
-- j) Erlass von Rahmenvorgaben für die Besoldung des vom Spitalrat angestellten Kaderpersonals sowie für die Honorierung der Ärzteschaft
-- k) Abschluss von Baurechtsverträgen für Liegenschaften, die den Spitälern übertragen werden
+- a) Berichterstattung und Antragstellung an den Kantonsrat in den in dessen Zuständigkeit fallenden Belangen gemäss Art. 11 Abs. 1;[^12-1]
+
+- b) Wahl und Entlassung des Präsidenten bzw. der Präsidentin und der weiteren Mitglieder des Spitalrates auf Antrag der zuständigen Kommission;
+
+- c) Festlegung der Entschädigung der Mitglieder des Spitalrates;
+
+- d) Wahl der Revisionsstelle;
+
+- e) Genehmigung der Rahmen- und Jahreskontrakte gemäss Art. 9 dieses Gesetzes;
+
+- f) Genehmigung von Tarifverträgen bzw. Tariffestsetzung im Rahmen der obligatorischen Krankenversicherung;
+
+- g) Abschluss von Vereinbarungen mit ausserkantonalen Hoheitsträgern über die Zuweisung von Patientinnen und Patienten;
+
+- h) Genehmigung des Personalreglementes sowie allfälliger Gesamtarbeitsverträge;
+
+- i) Genehmigung von Kooperationen und Beteiligungen im Sinne von Art. 10 lit. a und lit. c dieses Gesetzes;
+
+- j) Erlass von Rahmenvorgaben für die Besoldung des vom Spitalrat angestellten Kaderpersonals sowie für die Honorierung der Ärzteschaft;
+
+- k) Abschluss von Baurechtsverträgen für Liegenschaften, die den Spitälern übertragen werden.[^12-2]
 
 <sup>2</sup> Der Regierungsrat bezeichnet das Departement, das die Geschäfte gemäss Abs. 1 vorbereitet, die erforderlichen direkten Kontakte zu den Spitälern Schaffhausen pflegt und die Umsetzung der Rahmen- und Jahreskontrakte in Bezug auf die Leistungen, die Qualität und die Wirtschaftlichkeit kontrolliert.
+
+[^12-1]: Fassung gemäss G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
+[^12-2]: Eingefügt durch G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
 
 #### Art. 13
 
 **Spitalrat, Zusammensetzung und Wahl**
 
-<sup>1</sup> Der Spitalrat besteht aus fünf bis höchstens sieben nach fachlichen Kriterien ausgewählten Mitgliedern.
+<sup>1</sup> Der Spitalrat besteht aus fünf bis höchstens sieben nach fachlichen Kriterien ausgewählten Mitgliedern.[^13-1]
 
 <sup>2</sup> Der Vorsteher bzw. die Vorsteherin des für das Gesundheitswesen zuständigen Departementes des Regierungsrates gehört dem Spitalrat von Amtes wegen als Mitglied an.
 
 <sup>3</sup> Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich.
+
+[^13-1]: Fassung gemäss G vom 26. Oktober 2020, in Kraft getreten am 1. März 2021 (Amtsblatt 2020, S. 1892, Amtsblatt 2021, S. 323).
 
 #### Art. 14
 
@@ -195,23 +232,35 @@ Beschliesst:
 
 <sup>2</sup> Er ist verantwortlich für den Abschluss der Rahmen- und Jahreskontrakte mit dem Kanton und für die Erfüllung der darin vereinbarten staatlichen Leistungsaufträge.
 
-<sup>3</sup> Im Weiteren ist er zuständig für:
+<sup>3</sup> Im Weiteren ist er zuständig für a) den Antrag zum Budget und zu weiteren Staatsleistungen an den Regierungsrat;
 
-- a) den Antrag zum Budget und zu weiteren Staatsleistungen an den Regierungsrat
-- b) die Verabschiedung von Geschäftsbericht und Rechnung zuhanden des Regierungsrates
-- c) die periodische Berichterstattung über die Erfüllung des staatlichen Leistungsauftrages und die Verwendung der Mittel (Reporting) gegenüber dem zuständigen Departement
-- d) die Festlegung der Organisation
-- e) die Ernennung und Abberufung der mit der Geschäftsführung betrauten Personen
-- f) die Ernennung und Abberufung der Bereichsleitungen, die der Spital- bzw. Geschäftsleitung direkt unterstellt sind
-- g) die Aufsicht über die mit der Geschäftsprüfung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Reglemente und Weisungen
-- h) die Ausgestaltung des Rechnungswesens im Rahmen der Vorgaben gemäss Art. 22 sowie des internen Controllings und der Finanzplanung
-- i) die Festlegung der Geschäftstätigkeiten im Bereich der weiteren Aufgaben gemäss Art. 8 Abs. 4 dieses Gesetzes
-- j) den Erlass einer Tarifordnung und den Abschluss von Tarifverträgen
-- k) die Erstellung des Entwicklungs- und Finanzplans
-- l) die Antragstellung an den Regierungsrat zum Erlass des Personalreglementes und zum Abschluss von Gesamtarbeitsverträgen sowie zum Erlass der Rahmenvorgaben für die Besoldung und Honorierung von Kaderpersonal und Ärzteschaft
-- m) die Aufnahme von Krediten zur Finanzierung von Betrieb und Investitionen, soweit die Summe der langfristigen Verbindlichkeiten das Doppelte des Eigenkapitals nicht übersteigt
+- b) die Verabschiedung von Geschäftsbericht und Rechnung zuhanden des Regierungsrates;
+
+- c) die periodische Berichterstattung über die Erfüllung des staatlichen Leistungsauftrages und die Verwendung der Mittel (Reporting) gegenüber dem zuständigen Departement;
+
+- d) die Festlegung der Organisation;
+
+- e) die Ernennung und Abberufung der mit der Geschäftsführung betrauten Personen;
+
+- f) die Ernennung und Abberufung der Bereichsleitungen, die der Spital- bzw. Geschäftsleitung direkt unterstellt sind;
+
+- g) die Aufsicht über die mit der Geschäftsprüfung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Reglemente und Weisungen;
+
+- h) die Ausgestaltung des Rechnungswesens im Rahmen der Vorgaben gemäss Art. 22 sowie des internen Controllings und der Finanzplanung;
+
+- i) die Festlegung der Geschäftstätigkeiten im Bereich der weiteren Aufgaben gemäss Art. 8 Abs. 4 dieses Gesetzes;
+
+- j) den Erlass einer Tarifordnung und den Abschluss von Tarifverträgen;
+
+- k) die Erstellung des Entwicklungs- und Finanzplans;
+
+- l) die Antragstellung an den Regierungsrat zum Erlass des Personalreglementes und zum Abschluss von Gesamtarbeitsverträgen sowie zum Erlass der Rahmenvorgaben für die Besoldung und Honorierung von Kaderpersonal und Ärzteschaft;
+
+- m) die Aufnahme von Krediten zur Finanzierung von Betrieb und Investitionen, soweit die Summe der langfristigen Verbindlichkeiten das Doppelte des Eigenkapitals nicht übersteigt.[^14-1]
 
 <sup>4</sup> Im Weiteren gelten für die Aufgaben des Spitalrates die Bestimmungen von Art. 707 ff. des Obligationenrechts sinngemäss.
+
+[^14-1]: Eingefügt durch G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
 
 #### Art. 15
 
@@ -233,7 +282,7 @@ Beschliesst:
 
 <sup>3</sup> Zuhanden des Regierungsrates und des Kantonsrates erstattet die Revisionsstelle einen Bestätigungsbericht über die Prüfung der Jahresrechnung sowie die Einhaltung der gesetzlichen Vorschriften. Sie empfiehlt Abnahme mit oder ohne Einschränkung oder Rückweisung der Jahresrechnung.
 
-### 2.3 Personal
+### III. Personal
 
 #### Art. 17
 
@@ -249,25 +298,31 @@ Beschliesst:
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die berufliche Vorsorge des Personals wird grundsätzlich im Rahmen der Pensionskasse Schaffhausen PKSH sichergestellt.
+<sup>1</sup> Die berufliche Vorsorge des Personals wird grundsätzlich im Rahmen der Pensionskasse Schaffhausen PKSH[^18-1] sichergestellt.
 
 <sup>2</sup> Bei Ärztinnen und Ärzten mit befristeter oder teilzeitlicher Anstellung kann die Vorsorge anderweitig gesichert werden.
 
-<sup>3</sup> Einkommensteile des vom Spitalrat angestellten Kaderpersonals und der Ärzteschaft, die bei der Pensionskasse Schaffhausen PKSH nicht versicherbar sind, können im Rahmen der bundesrechtlichen Vorgaben anderweitig versichert werden.
+<sup>3</sup> Einkommensteile des vom Spitalrat angestellten Kaderpersonals und der Ärzteschaft, die bei der Pensionskasse Schaffhausen PKSH[^18-1] nicht versicherbar sind, können im Rahmen der bundesrechtlichen Vorgaben anderweitig versichert werden.
 
-### 2.4 Finanzen
+[^18-1]: Fassung gemäss G vom 25. Januar 2016, in Kraft getreten am 1. Juli 2016 (Amtsblatt 2016, S. 169, S. 723).
+
+### IV. Finanzen
+
+[^hIVFinanzen-1]: Fassung gemäss G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
 
 #### Art. 19
 
-**Dotationskapital**
+**Dotationskapital 12)**[^hIVFinanzen-1]
 
 <sup>1</sup> Der Kanton stellt den Spitälern Schaffhausen das erforderliche Dotationskapital zur Verfügung.
 
 <sup>2</sup> Investitionsentscheide haben der langfristigen Sicherung des Dotationskapitals Rechnung zu tragen.
 
+[^19-1]: Fassung gemäss G vom 14. September 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1282, Amtsblatt 2016, S. 452).
+
 #### Art. 20
 
-**Immobilien**
+**Immobilien**[^19-1]
 
 <sup>1</sup> Der Kanton stellt den Spitälern Schaffhausen die betriebsnotwendigen Liegenschaften im Mietverhältnis oder im Baurecht zur Verfügung.
 
@@ -283,13 +338,13 @@ Beschliesst:
 
 **Mobilien, medizinische Einrichtungen**
 
-<sup>1</sup> Beschaffung, Unterhalt und Ersatz der Mobilien sowie der medizinischen Apparate, Anlagen und Einrichtungen sind Sache der Spitäler Schaffhausen.
+Beschaffung, Unterhalt und Ersatz der Mobilien sowie der medizinischen Apparate, Anlagen und Einrichtungen sind Sache der Spitäler Schaffhausen.
 
 #### Art. 22
 
 **Rechnungsführung**
 
-<sup>1</sup> Die Spitäler Schaffhausen führen eine Finanzbuchhaltung und eine Kostenrechnung nach den im schweizerischen Spitalwesen üblichen Grundsätzen sowie nach den Vorgaben der Bundesgesetzgebung über die Krankenversicherung.
+Die Spitäler Schaffhausen führen eine Finanzbuchhaltung und eine Kostenrechnung nach den im schweizerischen Spitalwesen üblichen Grundsätzen sowie nach den Vorgaben der Bundesgesetzgebung über die Krankenversicherung.
 
 #### Art. 23
 
@@ -301,7 +356,7 @@ Beschliesst:
 
 <sup>3</sup> Für andere Leistungen sind in der Regel kostendeckende Preise zu verrechnen, soweit in den Kontrakten gemäss Art. 9 und Art. 10 nichts anderes vereinbart ist.
 
-<sup>4</sup> Für die Behandlung von Privatpatientinnen und ‑patienten sowie für Leistungen ausserhalb des kantonalen Leistungsauftrages werden marktgerechte Preise unter Einschluss angemessener Deckungsbeiträge verrechnet.
+<sup>4</sup> Für die Behandlung von Privatpatientinnen und -patienten sowie für Leistungen ausserhalb des kantonalen Leistungsauftrages werden marktgerechte Preise unter Einschluss angemessener Deckungsbeiträge verrechnet.
 
 #### Art. 24
 
@@ -327,29 +382,30 @@ Beschliesst:
 
 **Steuerfreiheit**
 
-<sup>1</sup> Die Spitäler Schaffhausen sind von allen kantonalen und kommunalen Einkommens- und Vermögenssteuern befreit.
+Die Spitäler Schaffhausen sind von allen kantonalen und kommunalen Einkommens- und Vermögenssteuern befreit.
 
-### 2.5 Rechtspflege, Haftung, Patientenrechte
+### V. Rechtspflege, Haftung, Patientenrechte
 
 #### Art. 27
 
 **Rechtsbeziehungen gegenüber Dritten**
 
-<sup>1</sup> Die Rechtsbeziehungen der Spitäler Schaffhausen gegenüber privaten Dritten richten sich grundsätzlich nach dem Privatrecht. Vorbehalten bleiben hoheitliche Tätigkeiten, die den Spitälern Schaffhausen durch die Gesetzgebung übertragen werden.
+Die Rechtsbeziehungen der Spitäler Schaffhausen gegenüber privaten Dritten richten sich grundsätzlich nach dem Privatrecht. Vorbehalten bleiben hoheitliche Tätigkeiten, die den Spitälern Schaffhausen durch die Gesetzgebung übertragen werden.
 
 #### Art. 28
 
 **Haftung**
 
-<sup>1</sup> Die Haftung der Betriebsgesellschaft, ihrer Organe und ihres Personals richtet sich nach dem Haftungsgesetz[^28-1].
+Die Haftung der Betriebsgesellschaft, ihrer Organe und ihres Personals richtet sich nach dem Haftungsgesetz[^28-1] .
 
-[^28-1]: SHR [170.300](https://rechtsbuch.sh.ch/data/170.300/de).
+[^28-1]: SHR 170.300.
+[^28-2]: Fassung gemäss G vom 21. Mai 2012, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2012, S. 1929, S. 1948).
 
 #### Art. 29
 
-**Patientenrechte**
+**Patientenrechte**[^28-2]
 
-<sup>1</sup> In Bezug auf die Rechte der Patienten gelten die Bestimmungen gemäss Art. 35 ff. des Gesundheitsgesetzes.
+In Bezug auf die Rechte der Patienten gelten die Bestimmungen gemäss Art. 35 ff. des Gesundheitsgesetzes.
 
 #### Art. 30
 
@@ -361,21 +417,55 @@ Beschliesst:
 
 <sup>3</sup> Auf die Verfahren sind die Bestimmungen des Verwaltungsrechtspflegegesetzes[^30-1] anwendbar.
 
-[^30-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^30-1]: SHR 172.200.
 
-## 3 Übergangs- und Schlussbestimmungen
+### C. Übergangs- und Schlussbestimmungen
 
 #### Art. 31
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
 
 #### Art. 32
 
-**Änderungen bisherigen Rechts[^32-1]**
+**Änderungen bisherigen Rechts**
 
-[^32-1]: Gegenstandslos.
+<sup>1</sup> Art. 28 und Art. 29 des Gesundheitsgesetzes vom 19. Oktober 1970[^32-1] sowie die darauf gestützten Organisations- und Taxdekrete des Kantonsspitals, des kantonalen Psychiatriezentrums und des kantonalen Pflegezentrums[^32-2] werden aufgehoben.
+
+<sup>2</sup> Das Altersbetreuungs- und Pflegegesetz vom 21. August 1995[^32-3] wird wie folgt geändert.
+
+[^32-1]: SHR 810.100.
+[^32-2]: SHR 813.110 ff.
+[^32-3]: SHR 813.500.
+
+#### Art. 2
+
+### Spitäler Schaffhausen
+
+<sup>1</sup> Die Spitäler Schaffhausen übernehmen die stationäre Betreuung von Pflegebedürftigen und Psychogeriatriepatienten, die aufgrund der Art und Schwere ihrer Erkrankung in anderen Institutionen nicht angemessen betreut werden können.
+
+<sup>2</sup> Sie widmen sich auch der Untersuchung, Behandlung und Rehabilitation von Alterskranken mit dem Ziel, eine dauernde Pflegebedürftigkeit zu vermeiden.
+
+<sup>3</sup> Sie unterstützen und ergänzen die kommunalen und privaten Institutionen der Altersbetreuung und der Langzeitpflege.
+
+#### Art. 3
+
+**Aufgehoben**
+
+<sup>3</sup> Die Geschäftsordnung des Kantonsrates vom 20. Dezember 1999[^3_2-1] wird wie folgt geändert.
+
+[^3_2-1]: SHR 171.110.
+
+#### § 10
+
+**Abs. 2 Ziffer 1**
+
+<sup>2</sup> Daneben wählt der Kantonsrat für die Amtsdauer folgende weitere ständige Kommissionen:
+
+- 1\. die Gesundheitskommission (7 Mitglieder) für die Wahrnehmung der Aufgaben gemäss Art. 11 Abs. 2 und 3 des Spitalgesetzes vom 22. November 2004 sowie die Vorberatung anderer Geschäfte im Bereich des Ge-
+
+sundheitswesens, die ihr der Kantonsrat zuweist.
 
 #### Art. 33
 
@@ -399,7 +489,7 @@ Beschliesst:
 
 <sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^34-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^34-1]: In Kraft getreten am 1. Januar 2006 (Amtsblatt 2005, S. 1775).
 [^34-2]: Amtsblatt 2005, S. 1763.
-
-Abl. 2005, S. 1763
