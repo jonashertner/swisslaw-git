@@ -5,28 +5,28 @@ title: Dekret über die Erteilung von Stipendien und Studiendarlehen
 short: Stipendiendekret
 language: de
 version: 2018-02-28
+corrected: 2024-06-24
 version_adopted: 2018-02-19
 adopted: 2018-02-19
 in_force: 2018-02-28
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/416.010"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1768/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/147/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Dekret über die Erteilung von Stipendien und Studiendarlehen
+# Dekret über die Erteilung von Stipendien und Studiendarlehen (Stipendiendekret)
 
-(Stipendiendekret)
-
-Vom 19.02.2018 (Stand 28.02.2018)
+vom 19. Februar 2018
 
 Der Kantonsrat Schaffhausen,
 
-gestützt auf Art. 89 des Schulgesetzes vom 27. April 1981 (SHR [410.100](https://rechtsbuch.sh.ch/data/410.100/de)) und in Ausführung der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009 (Stipendien-Konkordat),
+gestützt auf Art. 89 des Schulgesetzes vom 27. April 1981 (SHR 410.100) und in Ausführung der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009 (Stipendien-Konkordat),
 
-beschliesst:
+beschliesst als Dekret:
 
-## 1 Allgemeines
+### I. Allgemeines
 
 #### § 1
 
@@ -40,9 +40,11 @@ beschliesst:
 
 **Subsidiarität der Leistung**
 
-<sup>1</sup> Ausbildungsbeiträge werden ausgerichtet, wenn die finanzielle Leistungsfähigkeit der betroffenen Person, ihrer Eltern und anderer gesetzlich Verpflichteter oder die entsprechenden Leistungen anderer Dritter nicht ausreichen.
+Ausbildungsbeiträge werden ausgerichtet, wenn die finanzielle Leistungsfähigkeit der betroffenen Person, ihrer Eltern und anderer gesetzlich Verpflichteter oder die entsprechenden Leistungen anderer Dritter nicht ausreichen.
 
-## 2 Voraussetzungen
+Amtsblatt 2018, S. 319
+
+### II. Voraussetzungen
 
 #### § 3
 
@@ -50,11 +52,15 @@ beschliesst:
 
 <sup>1</sup> Beitragsberechtigte Personen sind:
 
-- a) Schweizer Bürger und Bürgerinnen mit stipendienrechtlichem Wohnsitz im Kanton Schaffhausen
-- b) Schaffhauser Kantonsbürger und ‑bürgerinnen, deren Eltern im Ausland leben oder die elternlos im Ausland leben, für Ausbildungen in der Schweiz, sofern sie an ihrem ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht beitragsberechtigt sind
-- c) Personen mit ausländischem Bürgerrecht und stipendienrechtlichem Wohnsitz im Kanton Schaffhausen, die über eine Niederlassungsbewilligung verfügen oder seit fünf Jahren in der Schweiz aufenthaltsberechtigt sind und über eine Aufenthaltsbewilligung verfügen
-- d) in der Schweiz wohnhafte und von ihr anerkannte Flüchtlinge und Staatenlose mit zivilrechtlichem Wohnsitz im Kanton Schaffhausen, sofern sie dem Kanton Schaffhausen zur Betreuung zugewiesen sind
-- e) Bürgerinnen und Bürger von EU-/EFTA-Mitgliedstaaten mit stipendienrechtlichem Wohnsitz im Kanton Schaffhausen sind den Schweizer Bürgerinnen und Bürgern gleichgestellt
+- a) Schweizer Bürger und Bürgerinnen mit stipendienrechtlichem Wohnsitz im Kanton Schaffhausen;
+
+- b) Schaffhauser Kantonsbürger und -bürgerinnen, deren Eltern im Ausland leben oder die elternlos im Ausland leben, für Ausbildungen in der Schweiz, sofern sie an ihrem ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht beitragsberechtigt sind;
+
+- c) Personen mit ausländischem Bürgerrecht und stipendienrechtlichem Wohnsitz im Kanton Schaffhausen, die über eine Niederlassungsbewilligung verfügen oder seit fünf Jahren in der Schweiz aufenthaltsberechtigt sind und über eine Aufenthaltsbewilligung verfügen;
+
+- d) in der Schweiz wohnhafte und von ihr anerkannte Flüchtlinge und Staatenlose mit zivilrechtlichem Wohnsitz im Kanton Schaffhausen, sofern sie dem Kanton Schaffhausen zur Betreuung zugewiesen sind;
+
+- e) Bürgerinnen und Bürger von EU-/EFTA-Mitgliedstaaten mit stipendienrechtlichem Wohnsitz im Kanton Schaffhausen sind den Schweizer Bürgerinnen und Bürgern gleichgestellt.
 
 <sup>2</sup> Personen, die sich ausschliesslich zu Ausbildungszwecken im Kanton Schaffhausen aufhalten, sind nicht beitragsberechtigt.
 
@@ -62,10 +68,9 @@ beschliesst:
 
 **Stipendienrechtlicher Wohnsitz**
 
-<sup>1</sup> Als stipendienrechtlicher Wohnsitz gilt:
+<sup>1</sup> Als stipendienrechtlicher Wohnsitz gilt a) unter Vorbehalt von lit. b der zivilrechtliche Wohnsitz der Eltern oder der Sitz der zuletzt zuständigen Kindes- und Erwachsenenschutzbehörde;
 
-- a) unter Vorbehalt von lit. b der zivilrechtliche Wohnsitz der Eltern oder der Sitz der zuletzt zuständigen Kindes- und Erwachsenenschutzbehörde
-- b) der Wohnortskanton für volljährige Personen, die nach Abschluss einer ersten berufsbefähigenden Ausbildung und vor Beginn der Ausbildung, für die sie Stipendien oder Studiendarlehen beanspruchen, während mindestens zwei Jahren in diesem Kanton wohnhaft und dort aufgrund eigener Erwerbstätigkeit finanziell unabhängig waren
+- b) der Wohnortskanton für volljährige Personen, die nach Abschluss einer ersten berufsbefähigenden Ausbildung und vor Beginn der Ausbildung, für die sie Stipendien oder Studiendarlehen beanspruchen, während mindestens zwei Jahren in diesem Kanton wohnhaft und dort aufgrund eigener Erwerbstätigkeit finanziell unabhängig waren.
 
 <sup>2</sup> Bei Eltern mit zivilrechtlichem Wohnsitz in verschiedenen Kantonen ist der Wohnsitz des oder der bisherigen oder des letzten Inhabers oder der letzten Inhaberin der elterlichen Sorge massgebend oder, bei gemeinsamer elterlicher Sorge, der Wohnsitz desjenigen Elternteils, unter dessen Obhut die Person in Ausbildung hauptsächlich steht oder zuletzt stand. Begründen die Eltern ihren Wohnsitz in verschiedenen Kantonen erst nach Volljährigkeit der Gesuchstellerin oder des Gesuchstellers, ist der Kanton desjenigen Elternteils zuständig, bei welchem sich diese hauptsächlich aufhält.
 
@@ -85,15 +90,17 @@ beschliesst:
 
 **Beitragsberechtigte Ausbildungen**
 
-<sup>1</sup> Beitragsberechtigt sind zumindest folgende Lehr- und Studienangebote, wenn sie gemäss Art. 9 des Stipendien-Konkordates anerkannt sind:
+<sup>1</sup> Beitragsberechtigt sind zumindest folgende Lehr- und Studienangebote, wenn sie gemäss Artikel 9 des Stipendien-Konkordates anerkannt sind:
 
-- a) die für das angestrebte Berufsziel verlangte Ausbildung auf der Sekundarstufe II und auf der Tertiärstufe
-- b) die für die Ausbildung obligatorischen studienvorbereitenden Massnahmen auf der Sekundarstufe II und auf der Tertiärstufe sowie Passerellen- und Brückenangebote
+- a) die für das angestrebte Berufsziel verlangte Ausbildung auf der Sekundarstufe II und auf der Tertiärstufe;
+
+- b) die für die Ausbildung obligatorischen studienvorbereitenden Massnahmen auf der Sekundarstufe II und auf der Tertiärstufe sowie Passerellen- und Brückenangebote.
 
 <sup>2</sup> Die Beitragsberechtigung endet:
 
-- a) auf der Tertiärstufe A mit dem Abschluss eines Bachelor- oder eines darauf aufbauenden Masterstudiums
-- b) auf der Tertiärstufe B mit der eidgenössischen Berufsprüfung und der eidgenössischen höheren Fachprüfung sowie mit dem Diplom einer höheren Fachschule
+- a) auf der Tertiärstufe A mit dem Abschluss eines Bachelor- oder eines darauf aufbauenden Masterstudiums;
+
+- b) auf der Tertiärstufe B mit der eidgenössischen Berufsprüfung und der eidgenössischen höheren Fachprüfung sowie mit dem Diplom einer höheren Fachschule.
 
 <sup>3</sup> Ein Hochschulstudium, das auf einen Abschluss auf der Tertiärstufe B folgt, ist ebenfalls beitragsberechtigt.
 
@@ -101,10 +108,11 @@ beschliesst:
 
 **Nicht beitragsberechtigte Ausbildungen**
 
-<sup>1</sup> Keine Ausbildungsbeiträge werden ausgerichtet für:
+Keine Ausbildungsbeiträge werden ausgerichtet für:
 
-- a) Ausbildungen mit einer Dauer von weniger als zwölf Monaten sowie einer berufsbegleitenden Ausbildung, die umgerechnet weniger als drei Vollzeitmonate dauert
-- b) Ausbildungen auf Quartärstufe
+- a) Ausbildungen mit einer Dauer von weniger als zwölf Monaten sowie einer berufsbegleitenden Ausbildung, die umgerechnet weniger als drei Vollzeitmonate dauert;
+
+- b) Ausbildungen auf Quartärstufe.
 
 #### § 8
 
@@ -126,25 +134,25 @@ beschliesst:
 
 <sup>2</sup> Keinen Anspruch auf Ausbildungsbeiträge haben:
 
-- a) Absolventinnen und Absolventen von Hochschulen für ein zweites Hochschulstudium, sofern sie für das erste bereits Beiträge bezogen haben
-- b) Bewerberinnen und Bewerber, die bereits über zwei abgeschlossene Ausbildungen verfügen, ausgenommen bei Weiterbildung in besonderen Fällen
+- a) Absolventinnen und Absolventen von Hochschulen für ein zweites Hochschulstudium, sofern sie für das erste bereits Beiträge bezogen haben;
+
+- b) Bewerberinnen und Bewerber, die bereits über zwei abgeschlossene Ausbildungen verfügen, ausgenommen bei Weiterbildung in besonderen Fällen.
 
 #### § 10
 
 **Voraussetzungen in Bezug auf die Ausbildung**
 
-<sup>1</sup> Die Voraussetzung für die Beitragsberechtigung erfüllt, wer die Aufnahme- und Promotionsbestimmungen hinsichtlich des Ausbildungsganges nachweislich erfüllt.
+Die Voraussetzung für die Beitragsberechtigung erfüllt, wer die Aufnahme- und Promotionsbestimmungen hinsichtlich des Ausbildungsganges nachweislich erfüllt.
 
-## 3 Ausbildungsbeiträge
+### III. Ausbildungsbeiträge
 
 #### § 11
 
 **Form der Ausbildungsbeiträge und Alterslimite**
 
-<sup>1</sup> Ausbildungsbeiträge sind:
+<sup>1</sup> Ausbildungsbeiträge sind a) Stipendien: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und vorbehältlich den Bestimmungen von § 22 nicht zurückzuzahlen sind,
 
-- a) Stipendien: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und vorbehältlich den Bestimmungen von § 22 nicht zurückzuzahlen sind
-- b) Darlehen: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die zurückzuzahlen sind
+- b) Darlehen: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die zurückzuzahlen sind.
 
 <sup>2</sup> Für den Bezug von Ausbildungsbeiträgen ist grundsätzlich nur berechtigt, wer zu Beginn der Ausbildung das 35. Altersjahr noch nicht vollendet hat; bei Vorliegen besonderer Voraussetzungen kann von dieser Bestimmung abgewichen werden. Insbesondere sind Personen, die mindestens zehn Jahre unbezahlte Erziehungs- oder Betreuungsarbeit geleistet haben, bis zum 45. Altersjahr zum Bezug von Ausbildungsbeiträgen berechtigt.
 
@@ -172,20 +180,21 @@ beschliesst:
 
 **Ansätze für Ausbildungsbeiträge**
 
-<sup>1</sup> Stipendien betragen pro Jahr mindestens Fr. 500.00.
+<sup>1</sup> Stipendien betragen pro Jahr mindestens Fr. 500.-.
 
-<sup>2</sup> Die jährlichen Höchstansätze der Stipendien betragen:
+<sup>2</sup> Die jährlichen Höchstansätze der Stipendien betragen a) für ledige Personen in Ausbildungen auf der Sekundarstufe II Fr. 13'000.-;
 
-- a) für ledige Personen in Ausbildungen auf der Sekundarstufe II: — Fr. 13'000.00
-- b) für ledige Personen in Ausbildungen auf der Tertiärstufe: — Fr. 16'000.00
-- c) für Verheiratete oder in eingetragener Partnerschaft lebende gesuchstellende Personen bzw. Unterstützungspflichtige in Ausbildung auf allen Stufen: — Fr. 20'000.00
-- d) bei verheirateten oder in eingetragener Partnerschaft lebenden gesuchstellenden Personen, wenn sich beide Partner in einer anerkannten Ausbildung befinden, zusammen Fr. 32'000.00, sofern beide stipendienberechtigt sind
+- b) für ledige Personen in Ausbildungen auf der Tertiärstufe Fr. 16'000.-;
 
-<sup>3</sup> Die jährlichen Höchstansätze gemäss Abs. 2 erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um Fr. 4'000.00 pro Kind.
+- c) für Verheiratete oder in eingetragener Partnerschaft lebende gesuchstellende Personen bzw. Unterstützungspflichtige in Ausbildung auf allen Stufen Fr. 20'000.-;
+
+- d) bei verheirateten oder in eingetragener Partnerschaft lebenden gesuchstellenden Personen, wenn sich beide Partner in einer anerkannten Ausbildung befinden, zusammen Fr. 32'000.-, sofern beide stipendienberechtigt sind.
+
+<sup>3</sup> Die jährlichen Höchstansätze gemäss Absatz 2 erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um Fr. 4'000.- pro Kind.
 
 <sup>4</sup> Der Regierungsrat kann unter Vorbehalt der Bestimmungen des Stipendien-Konkordats die Höchstansätze an geänderte Verhältnisse anpassen. Die Höchstansätze werden von der Konferenz der Vereinbarungskantone an die Teuerung angepasst.
 
-<sup>5</sup> Die Darlehenssumme darf den Betrag von insgesamt Fr. 60'000.00 nicht überschreiten, wobei der jährliche Höchstansatz Fr. 12'000.00 beträgt.
+<sup>5</sup> Die Darlehenssumme darf den Betrag von insgesamt Fr. 60'000.- nicht überschreiten, wobei der jährliche Höchstansatz Fr. 12'000.- beträgt.
 
 #### § 15
 
@@ -195,7 +204,7 @@ beschliesst:
 
 <sup>2</sup> Wenn die Ausbildung aus sozialen, familiären oder gesundheitlichen Gründen als Teilzeitstudium absolviert werden muss, ist die beitragsberechtigte Studienzeit entsprechend zu verlängern.
 
-## 4 Bemessung der Ausbildungsbeiträge
+### IV. Bemessung der Ausbildungsbeiträge
 
 #### § 16
 
@@ -213,7 +222,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt die Berechnung des finanziellen Bedarfs unter Berücksichtigung der Grundsätze des Stipendien-Konkordates sowie der Ansätze gemäss § 14.
 
-## 5 Verfahren
+### V. Verfahren
 
 #### § 18
 
@@ -255,9 +264,11 @@ beschliesst:
 
 <sup>1</sup> Ausbildungsbeiträge können ganz oder teilweise zurückgefordert werden, wenn:
 
-- a) sie auf Grund unvollständiger oder wahrheitswidriger Angaben des Empfängers oder seiner Vertretung zu Unrecht bezogen wurden
+- a) sie auf Grund unvollständiger oder wahrheitswidriger Angaben des Empfängers oder seiner Vertretung zu Unrecht bezogen wurden,
+
 - b) sie zweckwidrig verwendet wurden oder
-- c) die Ausbildung ohne wichtigen Grund abgebrochen wurde
+
+- c) die Ausbildung ohne wichtigen Grund abgebrochen wurde.
 
 <sup>2</sup> Darlehen werden überdies zur Rückzahlung fällig, wenn die Voraussetzungen der Darlehensgewährung nicht mehr erfüllt sind.
 
@@ -271,13 +282,13 @@ beschliesst:
 
 <sup>3</sup> Im Übrigen richtet sich die Rechtspflege nach den Bestimmungen des Verwaltungsrechtspflegegesetzes.
 
-## 6 Schlussbestimmungen
+### VI. Schlussbestimmungen
 
 #### § 24
 
 **Übergangsrecht**
 
-<sup>1</sup> Hängige Gesuche werden nach neuem Recht beurteilt.
+Hängige Gesuche werden nach neuem Recht beurteilt.
 
 #### § 25
 
@@ -289,6 +300,6 @@ beschliesst:
 
 <sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^25-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^25-1]: Amtsblatt 2018, S. 319.
+Fussnoten:
 
-Abl. 2018, S. 319
+[^25-1]: Amtsblatt 2018, S. 319.
