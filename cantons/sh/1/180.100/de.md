@@ -5,27 +5,26 @@ title: Gesetz über das Arbeitsverhältnis des Staatspersonals
 short: Personalgesetz
 language: de
 version: 2016-07-01
-valid_until: 2025-12-31
+corrected: 2024-06-24
 version_adopted: 2016-01-25
 adopted: 2004-05-03
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1821/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/250/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Arbeitsverhältnis des Staatspersonals
+# Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalgesetz)
 
-(Personalgesetz)
+vom 3. Mai 2004
 
-Vom 03.05.2004 (Stand 01.07.2016)
+Der Kantonsrat Schaffhausen
 
-Der Kantonsrat Schaffhausen,
+beschliesst als Gesetz:
 
-beschliesst:
-
-## 1 Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -37,15 +36,17 @@ beschliesst:
 
 <sup>3</sup> Es gilt auch für die Mitglieder des Regierungsrates, soweit ihre Belange nicht durch den Kantonsrat geregelt werden.
 
-<sup>4</sup> Diesem Gesetz nicht unterstellt sind:
+<sup>4</sup> Diesem Gesetz nicht unterstellt sind a) Lernende gemäss dem Bundesgesetz über die Berufsbildung; mit ihnen wird ein Lehrvertrag nach dem Obligationenrecht (OR) abgeschlossen;
 
-- a) Lernende gemäss dem Bundesgesetz über die Berufsbildung; mit ihnen wird ein Lehrvertrag nach dem Obligationenrecht (OR) abgeschlossen
-- b) Personen, die gestützt auf Art. 3 Abs. 3 dieses Gesetzes oder besondere gesetzliche Regelungen nach OR angestellt werden
-- c) die Mitglieder von Kommissionen; soweit keine besonderen Bestimmungen bestehen, werden ihre Belange durch den Regierungsrat geregelt
+- b) Personen, die gestützt auf Art. 3 Abs. 3 dieses Gesetzes oder besondere gesetzliche Regelungen nach OR angestellt werden;
+
+- c) die Mitglieder von Kommissionen; soweit keine besonderen Bestimmungen bestehen, werden ihre Belange durch den Regierungsrat geregelt.
 
 <sup>5</sup> Mitarbeiterinnen oder Mitarbeiter im Sinne dieses Gesetzes sind Personen, die mit einem vollen oder teilweisen Pensum im Staatsdienst stehen, eingeschlossen die auf Amtsdauer gewählten Personen.
 
 <sup>6</sup> Das Gesetz gilt nach Massgabe des Gemeindegesetzes auch für die Mitarbeiterinnen und Mitarbeiter der Gemeinden und ihrer Institutionen.
+
+Amtsblatt 2004, S. 1825.
 
 #### Art. 2
 
@@ -81,7 +82,7 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen der Gesamtarbeitsverträge werden zu Bestandteilen der einzelnen Arbeitsverhältnisse.
 
-## 2 Entstehung und Beendigung des Arbeitsverhältnisses
+### 2. Abschnitt: Entstehung und Beendigung des Arbeitsverhältnisses
 
 #### Art. 5
 
@@ -129,22 +130,23 @@ beschliesst:
 
 **Beendigungsgründe**
 
-<sup>1</sup> Das Arbeitsverhältnis wird aufgelöst durch:
+<sup>1</sup> Das Arbeitsverhältnis wird aufgelöst durch a) Kündigung des Anstellungsverhältnisses (Art. 10, 11 und 13);
 
-- a) Kündigung des Anstellungsverhältnisses (Art. 10, 11 und 13)
-- b) Auflösung des Arbeitsverhältnisses auf Amtsdauer (Art. 14)
-- c) vorzeitigen Übertritt oder vorzeitige Versetzung in den Ruhestand nach den Bestimmungen über die Vorsorge (Art. 39)
+- b) Auflösung des Arbeitsverhältnisses auf Amtsdauer (Art. 14);
 
-<sup>2</sup> Das Arbeitsverhältnis endet ohne Kündigung:
+- c) vorzeitigen Übertritt oder vorzeitige Versetzung in den Ruhestand nach den Bestimmungen über die Vorsorge (Art. 39).
 
-- a) mit dem Ablauf der vereinbarten Dauer
-- b) mit dem Erreichen des ordentlichen AHV-Alters; die Anstellungsbehörde kann im Einvernehmen mit der betroffenen Person das Arbeitsverhältnis verlängern
-- c) mit dem Tod der Mitarbeiterin oder des Mitarbeiters
-- d) im Ausmass, in dem die Voraussetzungen für eine Invalidenrente der Pensionskasse erfüllt sind; der Regierungsrat regelt das Verfahren
+<sup>2</sup> Das Arbeitsverhältnis endet ohne Kündigung a) mit dem Ablauf der vereinbarten Dauer;
+
+- b) mit dem Erreichen des ordentlichen AHV-Alters; die Anstellungsbehörde kann im Einvernehmen mit der betroffenen Person das Arbeitsverhältnis verlängern; <sup>5)</sup>
+
+- c) mit dem Tod der Mitarbeiterin oder des Mitarbeiters;
+
+- d) im Ausmass, in dem die Voraussetzungen für eine Invalidenrente der Pensionskasse erfüllt sind; der Regierungsrat regelt das Verfahren.
 
 <sup>3</sup> Das Arbeitsverhältnis kann durch den Arbeitgeber oder im gegenseitigen Einvernehmen der Vertragsparteien umgestaltet werden (Art. 12).
 
-<sup>4</sup> Die Vertragsparteien können das Arbeitsverhältnis im gegenseitigen Einvernehmen abweichend von den Bestimmungen dieses Gesetzes beendigen. Vorbehalten bleibt eine Abfindung (Art. 17 Abs. 1).
+<sup>4</sup> Die Vertragsparteien können das Arbeitsverhältnis im gegenseitigen Einvernehmen abweichend von den Bestimmungen dieses Gesetzes beendigen. Vorbehalten bleibt eine Abfindung (Art.17 Abs. 1).
 
 <sup>5</sup> Vorbehalten bleiben besondere Bestimmungen, insbesondere für die vom Volk oder vom Kantonsrat gewählten Personen.
 
@@ -166,22 +168,27 @@ beschliesst:
 
 <sup>3</sup> Nach Ablauf der Probezeit beträgt die Kündigungsfrist zwei Monate, ab dem zweiten Dienstjahr drei Monate. Eine längere Frist kann vorgeschrieben oder vereinbart werden, höchstens aber sechs Monate. Die Kündigung kann jeweils auf das Ende eines Monats erfolgen, sofern kein anderer Termin vorgeschrieben ist oder vereinbart wurde.
 
-<sup>4</sup> Nach Ablauf der Probezeit kann der Arbeitgeber das Arbeitsverhältnis aus sachlichen Gründen kündigen. Vorbehalten bleibt die vorzeitige Versetzung in den Ruhestand (Art. 9 Abs. 1 lit. c). Als sachliche Gründe gelten insbesondere:
+<sup>4</sup> Nach Ablauf der Probezeit kann der Arbeitgeber das Arbeitsverhältnis aus sachlichen Gründen kündigen. Vorbehalten bleibt die vorzeitige Versetzung in den Ruhestand (Art. 9 Abs. 1 lit. c). Als sachliche Gründe gelten insbesondere a) schwere oder wiederholte Verletzung der Pflichten aus dem Arbeitsverhältnis;
 
-- a) schwere oder wiederholte Verletzung der Pflichten aus dem Arbeitsverhältnis
-- b) ungenügende Leistung oder ungenügendes Verhalten, die trotz Mahnung anhalten oder sich wiederholen
-- c) mangelnde Eignung oder Bereitschaft, vereinbarte Arbeit zu verrichten, oder mangelnde Bereitschaft, andere zumutbare Arbeit zu verrichten
-- d) wesentliche wirtschaftliche oder betriebliche Gründe, sofern der betroffenen Person keine andere zumutbare Stelle angeboten werden kann oder sie eine solche nicht annimmt
-- e) längerfristige erhebliche Verhinderung in der Aufgabenerfüllung; in diesem Fall kann das Arbeitsverhältnis auf das Ende der Lohnfortzahlung wegen Krankheit oder Unfall beendet werden
-- f) Begehung einer Straftat, die sich mit der Aufgabenerfüllung nicht vereinbaren lässt
-- g) wesentliche unwahre Angaben oder das Verschweigen wesentlicher Tatsachen bei der Anstellung
-- h) Wegfall oder Nichterfüllung einer Anstellungsbedingung
+- b) ungenügende Leistung oder ungenügendes Verhalten, die trotz Mahnung anhalten oder sich wiederholen;
+
+- c) mangelnde Eignung oder Bereitschaft, vereinbarte Arbeit zu verrichten, oder mangelnde Bereitschaft, andere zumutbare Arbeit zu verrichten;
+
+- d) wesentliche wirtschaftliche oder betriebliche Gründe, sofern der betroffenen Person keine andere zumutbare Stelle angeboten werden kann oder sie eine solche nicht annimmt;
+
+- e) längerfristige erhebliche Verhinderung in der Aufgabenerfüllung; in diesem Fall kann das Arbeitsverhältnis auf das Ende der Lohnfortzahlung wegen Krankheit oder Unfall beendet werden;
+
+- f) Begehung einer Straftat, die sich mit der Aufgabenerfüllung nicht vereinbaren lässt;
+
+- g) wesentliche unwahre Angaben oder das Verschweigen wesentlicher Tatsachen bei der Anstellung;
+
+- h) Wegfall oder Nichterfüllung einer Anstellungsbedingung.
 
 #### Art. 12
 
 **Umgestaltung des Arbeitsverhältnisses**
 
-<sup>1</sup> Das Arbeitsverhältnis kann vom Arbeitgeber aus sachlichen Gründen unter Einhaltung der Kündigungsfristen und ‑termine umgestaltet werden.
+<sup>1</sup> Das Arbeitsverhältnis kann vom Arbeitgeber aus sachlichen Gründen unter Einhaltung der Kündigungsfristen und -termine umgestaltet werden.
 
 <sup>2</sup> Im gegenseitigen Einvernehmen können die Vertragsparteien das Arbeitsverhältnis jederzeit umgestalten.
 
@@ -209,11 +216,11 @@ beschliesst:
 
 **Kündigungsschutz**
 
-<sup>1</sup> Die Kündigung durch den Arbeitgeber wird auf Antrag der Mitarbeiterin oder des Mitarbeiters aufgehoben, wenn sie:
+<sup>1</sup> Die Kündigung durch den Arbeitgeber wird auf Antrag der Mitarbeiterin oder des Mitarbeiters aufgehoben, wenn sie a) Folge der ordnungsgemässen Durchsetzung gesetzlicher oder behördlicher Erlasse durch die Mitarbeiterin oder den Mitarbeiter ist;
 
-- a) Folge der ordnungsgemässen Durchsetzung gesetzlicher oder behördlicher Erlasse durch die Mitarbeiterin oder den Mitarbeiter ist
-- b) ausschliesslich die Folge einer Neubesetzung der Anstellungs- oder Aufsichtsbehörde ist, soweit nicht für besondere Arbeitsverhältnisse etwas anderes vorgeschrieben oder im Arbeitsvertrag eine Ausnahme vorgesehen ist
-- c) missbräuchlich im Sinne des OR ist
+- b) ausschliesslich die Folge einer Neubesetzung der Anstellungs- oder Aufsichtsbehörde ist, soweit nicht für besondere Arbeitsverhältnisse etwas anderes vorgeschrieben oder im Arbeitsvertrag eine Ausnahme vorgesehen ist;
+
+- c) missbräuchlich im Sinne des OR ist.
 
 <sup>2</sup> Voraussetzungen und Wirkungen der Kündigung zur Unzeit richten sich nach den Bestimmungen des OR.
 
@@ -251,34 +258,41 @@ beschliesst:
 
 <sup>2</sup> Kommt es wegen Stellenabbau zur Kündigung einer grösseren Zahl von Arbeitsverhältnissen, legt der Regierungsrat unter Beizug der Personalverbände einen Sozialplan fest. Dieser regelt die Leistungen des Staates, wobei sie sich an der Abfindung orientieren. Er kann auch zusätzliche oder Leistungen anderer Art vorsehen.
 
-## 3 Rechte und Pflichten im Arbeitsverhältnis
+### 3. Abschnitt: Rechte und Pflichten im Arbeitsverhältnis
 
 #### Art. 18
 
 **Persönlichkeitsschutz**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben am Arbeitsplatz Anspruch auf Schutz der Gesundheit und auf Wahrung der persönlichen Integrität.
+Die Mitarbeiterinnen und Mitarbeiter haben am Arbeitsplatz Anspruch auf Schutz der Gesundheit und auf Wahrung der persönlichen Integrität.
 
 #### Art. 19
+
+<sup>1)</sup>
 
 **Lohn**
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben Anspruch auf einen angemessenen Lohn. Dieser richtet sich nach den Anforderungen und Belastungen der Funktion sowie der Leistung und Erfahrung und berücksichtigt den Arbeitsmarkt. Bei der Anstellung ist die nutzbringende Erfahrung angemessen zu berücksichtigen.
 
-<sup>2</sup> Der Kantonsrat beschliesst mit dem Voranschlag die auf Grund der zu erfüllenden Aufgaben und der bestehenden Verpflichtungen notwendige Lohnsumme. Werden die Aufgaben erweitert oder reduziert, sind die entsprechenden Mittel anzupassen. Der Kantons-rat berücksichtigt die Entwicklung der Lebenshaltungskosten, die Wirtschaftslage, die personal- und lohnpolitischen Zielsetzungen, die Kantonsfinanzen sowie die Verhältnisse auf dem Arbeitsmarkt. Für Leistungslohnanteile sind angemessene Mittel vorzusehen. Bei schlechter Wirtschaftslage und angespannten Kantonsfinanzen kann ganz oder teilweise darauf verzichtet werden.
+<sup>2</sup> Der Kantonsrat beschliesst mit dem Voranschlag die auf Grund der zu erfüllenden Aufgaben und der bestehenden Verpflichtungen notwendige Lohnsumme. Werden die Aufgaben erweitert oder reduziert, sind die entsprechenden Mittel anzupassen. Der Kantonsrat berücksichtigt die Entwicklung der Lebenshaltungskosten, die Wirtschaftslage, die personal- und lohnpolitischen Zielsetzungen, die Kantonsfinanzen sowie die Verhältnisse auf dem Arbeitsmarkt. Für Leistungslohnanteile sind angemessene Mittel vorzusehen. Bei schlechter Wirtschaftslage und angespannten Kantonsfinanzen kann ganz oder teilweise darauf verzichtet werden.
 
 <sup>3</sup> Der Regierungsrat entscheidet endgültig über die Verwendung der bewilligten Lohnsumme, insbesondere auch für leistungs- und teuerungsbedingte Lohnanpassungen.
 
-<sup>4</sup> Der Regierungsrat regelt die Grundsätze der Lohnfestlegung, insbesondere:
+<sup>4</sup> Der Regierungsrat regelt die Grundsätze der Lohnfestlegung, insbesondere a) die Lohnstruktur;
 
-- a) die Lohnstruktur
-- b) die Zuordnung der Funktionen in die Lohnstruktur
-- c) das Verfahren der Lohnentwicklung
-- d) das Verfahren der Funktionsbewertung
-- e) die Lohnfindung und ‑entwicklung bei Neuanstellungen und neuen Aufgaben
-- f) die Zuständigkeiten für die interne Mittelverteilung und die Lohnfestlegungen
-- g) die Funktionen, deren Lohn keinen Leistungsanteil enthält, und das Verfahren der Lohnentwicklung für dieselben
-- h) …
+- b) die Zuordnung der Funktionen in die Lohnstruktur;
+
+- c) das Verfahren der Lohnentwicklung;
+
+- d) das Verfahren der Funktionsbewertung;
+
+- e) die Lohnfindung und -entwicklung bei Neuanstellungen und neuen Aufgaben;
+
+- f) die Zuständigkeiten für die interne Mittelverteilung und die Lohnfestlegungen;
+
+- g) die Funktionen, deren Lohn keinen Leistungsanteil enthält, und das Verfahren der Lohnentwicklung für dieselben;
+
+- h) … <sup>6)</sup>
 
 <sup>5</sup> Die Festsetzung ihres Lohnes wird den Mitarbeiterinnen und Mitarbeitern schriftlich mitgeteilt.
 
@@ -286,30 +300,39 @@ beschliesst:
 
 #### Art. 20
 
+<sup>1)</sup>
+
 **Teuerungsausgleich**
 
-<sup>1</sup> Der Regierungsrat richtet den Mitarbeiterinnen und Mitarbeitern im Rahmen der vom Kantonsrat beschlossenen Lohnsumme einen angemessenen Teuerungsausgleich aus. Er regelt das Nähere.
+Der Regierungsrat richtet den Mitarbeiterinnen und Mitarbeitern im Rahmen der vom Kantonsrat beschlossenen Lohnsumme einen angemessenen Teuerungsausgleich aus. Er regelt das Nähere.
 
 #### Art. 21
 
+<sup>1)</sup>
+
 **Weitere finanzielle Massnahmen und Leistungen**
 
-<sup>1</sup> Der Regierungsrat regelt:
+<sup>1</sup> Der Regierungsrat regelt a) Zulagen und Entschädigungen für unregelmässige Arbeit oder zusätzliche Dienste;
 
-- a) Zulagen und Entschädigungen für unregelmässige Arbeit oder zusätzliche Dienste
-- b) Massnahmen und Leistungen zur Gewinnung, zur Erhaltung und zur Belohnung von Mitarbeiterinnen und Mitarbeitern
-- c) die Ausrichtung von Jubiläumsgaben für langjährige Mitarbeit
-- d) die Anrechnung von Naturalleistungen an den Lohn
-- e) den Ersatz von Auslagen und die Vergütung für Inkonvenienzen
-- f) die Ausrüstung mit den Geräten, der Dienstkleidung und weiterem Material, das zur Erfüllung der Aufgaben nötig ist
-- g) die Leistungen an Hinterbliebene bei Tod einer Mitarbeiterin oder eines Mitarbeiters
+- b) Massnahmen und Leistungen zur Gewinnung, zur Erhaltung und zur Belohnung von Mitarbeiterinnen und Mitarbeitern;
 
-<sup>2</sup> Er kann weitere Massnahmen und Leistungen vorsehen, insbesondere:
+- c) die Ausrichtung von Jubiläumsgaben für langjährige Mitarbeit;
 
-- a) Massnahmen zur Unterstützung von Mitarbeiterinnen und Mitarbeitern bei beruflicher Neuorientierung und Veränderungen
-- b) den Betrieb oder die Unterstützung von Einrichtungen zu Gunsten der Mitarbeiterinnen und Mitarbeiter
-- c) Vergünstigungen auf Leistungen und Erzeugnissen des Kantons
-- d) die private Benützung dienstlicher Einrichtungen
+- d) die Anrechnung von Naturalleistungen an den Lohn;
+
+- e) den Ersatz von Auslagen und die Vergütung für Inkonvenienzen;
+
+- f) die Ausrüstung mit den Geräten, der Dienstkleidung und weiterem Material, das zur Erfüllung der Aufgaben nötig ist;
+
+- g) die Leistungen an Hinterbliebene bei Tod einer Mitarbeiterin oder eines Mitarbeiters.
+
+<sup>2</sup> Er kann weitere Massnahmen und Leistungen vorsehen, insbesondere a) Massnahmen zur Unterstützung von Mitarbeiterinnen und Mitarbeitern bei beruflicher Neuorientierung und Veränderungen;
+
+- b) den Betrieb oder die Unterstützung von Einrichtungen zu Gunsten der Mitarbeiterinnen und Mitarbeiter;
+
+- c) Vergünstigungen auf Leistungen und Erzeugnissen des Kantons;
+
+- d) die private Benützung dienstlicher Einrichtungen.
 
 #### Art. 22
 
@@ -329,7 +352,7 @@ beschliesst:
 
 **Ferien**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben jährlich Anspruch auf mindestens vier Wochen und zwei Tage Ferien. Der Regierungsrat regelt das Nähere.
+Die Mitarbeiterinnen und Mitarbeiter haben jährlich Anspruch auf mindestens vier Wochen und zwei Tage Ferien. Der Regierungsrat regelt das Nähere.
 
 #### Art. 24
 
@@ -429,7 +452,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt die Arbeitszeit und ihre Einteilung sowie die Ruhe- und Freizeit.
 
-<sup>3</sup> Er fördert individuelle und flexible Arbeitszeitmodelle und ‑formen.
+<sup>3</sup> Er fördert individuelle und flexible Arbeitszeitmodelle und -formen.
 
 <sup>4</sup> Die Mitarbeiterinnen und Mitarbeiter können auch ausserhalb der ordentlichen Betriebszeit und über die Sollarbeitszeit hinaus in Anspruch genommen werden, wenn es die Aufgabe erfordert und soweit es ihnen zumutbar ist.
 
@@ -437,11 +460,13 @@ beschliesst:
 
 **Verpflichtungen des Personals**
 
-<sup>1</sup> Soweit es für die Aufgabenerfüllung notwendig ist, kann der Regierungsrat oder der Arbeitsvertrag für die Mitarbeiterinnen und Mitarbeiter die Verpflichtung vorsehen:
+<sup>1</sup> Soweit es für die Aufgabenerfüllung notwendig ist, kann der Regierungsrat oder der Arbeitsvertrag für die Mitarbeiterinnen und Mitarbeiter die Verpflichtung vorsehen,
 
-- a) an einem bestimmten Ort oder in einem bestimmten Gebiet zu wohnen oder eine zugewiesene Wohnung zu beziehen
-- b) den Arbeitsort in einer bestimmten Zeit erreichen zu können
-- c) bestimmte Geräte, Arbeitskleider oder Sicherheitsvorrichtungen zu verwenden
+- a) an einem bestimmten Ort oder in einem bestimmten Gebiet zu wohnen oder eine zugewiesene Wohnung zu beziehen;
+
+- b) den Arbeitsort in einer bestimmten Zeit erreichen zu können;
+
+- c) bestimmte Geräte, Arbeitskleider oder Sicherheitsvorrichtungen zu verwenden.
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter haben Einkommen aus der Tätigkeit zu Gunsten Dritter an den Arbeitgeber abzuliefern, soweit sie die betreffenden Aufgaben im Zusammenhang mit ihrem Arbeitsverhältnis übernommen haben. Der Regierungsrat oder der Arbeitsvertrag kann Ausnahmen vorsehen.
 
@@ -451,7 +476,7 @@ beschliesst:
 
 **Schranken des Streikrechtes**
 
-<sup>1</sup> Zur Gewährleistung der öffentlichen Sicherheit oder der Versorgung mit lebensnotwendigen Gütern und Dienstleistungen kann der Regierungsrat das Streikrecht für bestimmte Personalkategorien beschränken oder aufheben.
+Zur Gewährleistung der öffentlichen Sicherheit oder der Versorgung mit lebensnotwendigen Gütern und Dienstleistungen kann der Regierungsrat das Streikrecht für bestimmte Personalkategorien beschränken oder aufheben.
 
 #### Art. 34
 
@@ -465,7 +490,7 @@ beschliesst:
 
 **Ausserdienstliche Tätigkeiten**
 
-<sup>1</sup> Die Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern darf die Erfüllung der Aufgaben nicht nachteilig beeinflussen. Der Regierungsrat regelt das Nähere.
+Die Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern darf die Erfüllung der Aufgaben nicht nachteilig beeinflussen. Der Regierungsrat regelt das Nähere.
 
 #### Art. 36
 
@@ -479,9 +504,9 @@ beschliesst:
 
 **Vertrauensärztliche Untersuchung**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sowie Stellenbewerberinnen oder ‑bewerber können in begründeten Fällen zu einer vertrauensärztlichen Untersuchung verpflichtet werden.
+Die Mitarbeiterinnen und Mitarbeiter sowie Stellenbewerberinnen oder -bewerber können in begründeten Fällen zu einer vertrauensärztlichen Untersuchung verpflichtet werden.
 
-## 4 Massnahmen zu Gunsten des Personals
+### 4. Abschnitt: Massnahmen zu Gunsten des Personals
 
 #### Art. 38
 
@@ -493,23 +518,23 @@ beschliesst:
 
 <sup>3</sup> Mitarbeiterinnen haben bei Schwangerschaft und Niederkunft Anspruch auf vier Monate Lohnzahlung, sofern das Arbeitsverhältnis über neun Monate gedauert hat. Bei kürzerer Dauer besteht Anspruch auf zwei Monate Lohnzahlung.
 
-<sup>4</sup> Der Regierungsrat regelt das Nähere. Er regelt ausserdem:
+<sup>4</sup> Der Regierungsrat regelt das Nähere. Er regelt ausserdem a) die Lohnzahlung bei obligatorischen und freiwilligen Dienstleistungen sowie anderen Einsätzen ausserhalb des Arbeitsverhältnisses;
 
-- a) die Lohnzahlung bei obligatorischen und freiwilligen Dienstleistungen sowie anderen Einsätzen ausserhalb des Arbeitsverhältnisses
-- b) die Anrechnung der Leistungen obligatorischer Sozialversicherungen an den Lohn und weitere Leistungen
-- c) die Lohnzahlung bei selbstverschuldeter Arbeitsunfähigkeit
+- b) die Anrechnung der Leistungen obligatorischer Sozialversicherungen an den Lohn und weitere Leistungen;
+
+- c) die Lohnzahlung bei selbstverschuldeter Arbeitsunfähigkeit.
 
 #### Art. 39
 
 **Vorsorge**
 
-<sup>1</sup> Das Pensionskassengesetz regelt die Absicherung der Mitarbeiter und Mitarbeiterinnen gegen die wirtschaftlichen Folgen von Invalidität, Alter und Tod.
+<sup>1</sup> Das Pensionskassengesetz regelt die Absicherung der Mitarbeiter und Mitarbeiterinnen gegen die wirtschaftlichen Folgen von Invalidität, Alter und Tod. <sup>5)</sup>
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die innerhalb einer bestimmten Frist vor Erreichen des AHV-Rentenalters in den Ruhestand treten oder versetzt werden, erhalten eine Übergangsrente.
 
 <sup>3</sup> Es kann zudem vorgesehen werden, dass Mitarbeiterinnen und Mitarbeiter, die in den Ruhestand versetzt werden, bevor sie Anspruch auf eine Übergangsrente haben, während längstens fünf Jahren Übergangsleistungen erhalten.
 
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Leistungen des Arbeitgebers.
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Leistungen des Arbeitgebers. <sup>5)</sup>
 
 <sup>5</sup> Der Kantonsrat kann die Leistungen der Pensionskasse an die pensionierten kantonalen Mitarbeiterinnen und Mitarbeiter mit Teuerungszulagen ergänzen, sofern die Pensionskasse ohne Prämienerhöhung den vollen Teuerungsausgleich nicht gewährleisten kann.
 
@@ -523,7 +548,7 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere, insbesondere die Beteiligung des Kantons und der Mitarbeiterinnen und Mitarbeiter an den Prämien.
 
-## 5 Massnahmen zur Sicherung des Aufgabenvollzuges
+### 5. Abschnitt: Massnahmen zur Sicherung des Aufgabenvollzuges
 
 #### Art. 41
 
@@ -531,15 +556,19 @@ beschliesst:
 
 <sup>1</sup> Genügen Leistung oder Verhalten von Mitarbeiterinnen und Mitarbeitern den Anforderungen nicht oder werden Pflichten aus dem Arbeitsverhältnis verletzt, so trifft die Anstellungs- oder Aufsichtsbehörde die zur Sicherung des geordneten Aufgabenvollzuges erforderlichen Massnahmen.
 
-<sup>2</sup> Insbesondere kann sie:
+<sup>2</sup> Insbesondere kann sie a) eine Ermahnung aussprechen;
 
-- a) eine Ermahnung aussprechen
-- b) einen Verweis erteilen
-- c) eine Bewährungsfrist ansetzen
-- d) die Zuweisung anderer Aufgaben oder die Versetzung anordnen
-- e) eine Lohnkürzung vornehmen
-- f) die Auflösung des Arbeitsverhältnisses androhen
-- g) das Arbeitsverhältnis gemäss den entsprechenden Bestimmungen auflösen
+- b) einen Verweis erteilen;
+
+- c) eine Bewährungsfrist ansetzen;
+
+- d) die Zuweisung anderer Aufgaben oder die Versetzung anordnen;
+
+- e) eine Lohnkürzung vornehmen;
+
+- f) die Auflösung des Arbeitsverhältnisses androhen;
+
+- g) das Arbeitsverhältnis gemäss den entsprechenden Bestimmungen auflösen.
 
 <sup>3</sup> Massnahmen können miteinander verbunden werden.
 
@@ -549,15 +578,15 @@ beschliesst:
 
 <sup>1</sup> Die Ermahnung erfolgt mündlich nach Abklärung des Sachverhaltes und Anhörung der Betroffenen. Sie ist protokollarisch zusammen mit einer allfälligen Stellungnahme der Betroffenen festzuhalten. Die übrigen Massnahmen werden durch Verfügung im Verfahren nach Art. 16 Abs. 3 ff. angeordnet.
 
-<sup>2</sup> Die Anstellungs- oder Aufsichtsbehörde kann Mitarbeiterinnen und Mitarbeiter vorläufig freistellen und die Lohnzahlung ganz oder teilweise aussetzen, wenn:
+<sup>2</sup> Die Anstellungs- oder Aufsichtsbehörde kann Mitarbeiterinnen und Mitarbeiter vorläufig freistellen und die Lohnzahlung ganz oder teilweise aussetzen, wenn a) genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen;
 
-- a) genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen
-- b) wegen eines Verbrechens oder Vergehens ein Strafverfahren eingeleitet worden ist
-- c) erhebliche öffentliche Interessen oder eine Administrativuntersuchung dies erfordern
+- b) wegen eines Verbrechens oder Vergehens ein Strafverfahren eingeleitet worden ist;
+
+- c) erhebliche öffentliche Interessen oder eine Administrativuntersuchung dies erfordern.
 
 <sup>3</sup> Die Vorgesetzten können unaufschiebbare vorsorgliche Massnahmen treffen. Diese sind unverzüglich der Anstellungs- oder Aufsichtsbehörde zur Genehmigung zu unterbreiten. Im Rechtsmittelverfahren kann die instruierende Behörde die vorsorglichen Massnahmen anordnen.
 
-## 6 Vollzug und Ausführungsbestimmungen
+### 6. Abschnitt: Vollzug und Ausführungsbestimmungen
 
 #### Art. 43
 
@@ -583,23 +612,21 @@ beschliesst:
 
 <sup>4</sup> Die Gemeinden, für welche dieses Gesetz Anwendung findet, können die Zuständigkeit zum Erlass von Ausführungsbestimmungen in der Gemeindeverfassung oder einem allgemeinverbindlichen Reglement abweichend regeln.
 
-## 7 Schlussbestimmungen
+### 7. Abschnitt: Schlussbestimmungen
 
 #### Art. 45
 
 **Aufhebung bisherigen Rechtes**
 
-<sup>1</sup> Mit dem In-Kraft-Treten dieses Gesetzes werden alle ihm widersprechenden Bestimmungen aufgehoben, insbesondere das Gesetz über die Dienstverhältnisse des Staatspersonals (Personalgesetz) vom 26. Oktober 1970.
+Mit dem In-Kraft-Treten dieses Gesetzes werden alle ihm widersprechenden Bestimmungen aufgehoben, insbesondere das Gesetz über die Dienstverhältnisse des Staatspersonals (Personalgesetz) vom 26. Oktober 1970.
 
 #### Art. 46
 
 **Änderung bisherigen Rechtes**
 
-<sup>1</sup> Die im Anhang aufgeführten Gesetze und Dekrete werden geändert[^46-1].
+<sup>1</sup> Die im Anhang aufgeführten Gesetze und Dekrete werden geändert.
 
 <sup>2</sup> Der Regierungsrat kann abweichende personalrechtliche Bestimmungen und Bezeichnungen in weiteren Gesetzen und Dekreten im Sinne dieses Gesetzes auf dem Verordnungsweg redaktionell anpassen.
-
-[^46-1]: Gegenstandslos.
 
 #### Art. 47
 
@@ -631,7 +658,261 @@ beschliesst:
 
 <sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^48-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^48-1]: In Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1875).
 [^48-2]: Amtsblatt 2004, S. 1825.
 
-Abl. 2004, S. 1825
+### Anhang: Änderungen von Gesetzen und Dekreten
+
+im Zusammenhang mit der Totalrevision des Personalgesetzes (Art. 46)
+
+### 1. Gesetze
+
+- a) Gemeindegesetz vom 17. August 1998 In Art. 7 lit. b wird der Begriff «Beamtungen» ersetzt durch «auf Amtsdauer gewählte Personen».
+
+- b) Wahlgesetz vom 15. März 1904 Art. 52 und 65 werden aufgehoben.
+
+- c) Organisationsgesetz vom 18. Februar 1985 In Art. 10 Abs. 2 wird der Begriff «Beamte» ersetzt durch „Mitarbeiter“.
+
+In Art. 36 Abs. 2 wird der Begriff «weitere Chefbeamte und Sachbearbeiter» ersetzt durch «Mitarbeiter».
+
+- d) Gesetz über den Schutz von Personendaten vom 7.
+
+### März 1994
+
+#### Art. 23
+
+**Satz 1**
+
+Der Regierungsrat ernennt als verwaltungsunabhängige Aufsichtsstelle eine kantonale Datenschutzbeauftragte oder einen kantonalen Datenschutzbeauftragten.
+
+- e) Zivilprozessordnung für den Kanton Schaffhausen vom
+
+### 3. September 1951
+
+In Art. 153 Abs. 3 wird der Begriff «ein Vermittlungsbeamter» ersetzt durch «vermittelnd tätig».
+
+In Art. 203 Ziff. 1 wird der Begriff «Staats- und Gemeindebeamte» ersetzt durch «Personen im Dienst des Kantons oder der Gemeinden».
+
+In Art. 236 Ziff. 2 wird der Begriff «dem zuständigen Beamten» ersetzt durch «der zuständigen Person».
+
+- f) Einführungsgesetz zum Bundesgesetz über Schuld-
+
+betreibung und Konkurs vom 23. August 1976
+
+#### Art. 2
+
+**Abs. 1**
+
+Die Aufsichtsbehörde wählt die Betreibungsbeamten und stellt das für die Betreibungsämter erforderliche Personal an.
+
+#### Art. 5
+
+**Abs. 1**
+
+Die Aufsichtsbehörde wählt den Konkursbeamten und seinen Stellvertreter und stellt das für das kantonale Konkursamt erforderliche Personal an.
+
+- g) Strafprozessordnung für den Kanton Schaffhausen vom
+
+### 15. Dezember 1986
+
+In den Art. 12 Abs. 1, 30 Abs. 1 und 2, 79 Abs. 1 und 3, 80 Abs. 3, 81 Abs. 1, 89 Abs. 2, 90 Abs. 1 lit. a, 114 Abs. 1 und Art. 206 Abs. 1 werden die Begriffe «Beamte» oder «Beamten» ersetzt durch «Mitarbeiter».
+
+#### Art. 18
+
+**Abs. 1 Satz 1**
+
+Die Staatsanwaltschaft und das Verkehrsstrafamt stehen in administrativer und personalrechtlicher Hinsicht unter der Aufsicht des Regierungsrates.
+
+In Art. 28 Ingress und Text sowie Art. 63 Abs. 1 wird der Begriff «Beamten und Angestellten» ersetzt durch «Mitarbeiter» bzw. «Mitarbeitern».
+
+In Art. 142 Abs. 2 wird der Begriff «einen Polizeibeamten» ersetzt durch «die Polizei».
+
+In Art. 184 Abs. 2 und Art. 85 Abs. 2 wird der Begriff «Beamten» ersetzt durch «Personen».
+
+#### Art. 332
+
+**Abs. 3**
+
+Wenn nötig, veranlasst es die Einleitung von Massnahmen nach den Bestimmungen des Personalgesetzes oder eines Strafverfahrens.
+
+- h) Gesetz über die Jugendstrafrechtspflege vom 22. April
+
+### 1974
+
+#### Art. 4
+
+**Abs. 3**
+
+Das Obergericht stellt das Fürsorge- und Kanzleipersonal an.
+
+In Art. 19 Abs. 3 wird der Begriff «Polizeibeamte oder –beamtinnen» ersetzt durch «Angehörige der Polizei».
+
+- i) Polizeiorganisationsgesetz vom 21. Februar 2000 In Art. 3 Abs. 2 wird der Begriff «Polizeibeamtinnen und Polizeibeamte» ersetzt durch «Angehörige der Polizei».
+
+In Art. 17 Abs. 1 wird der Begriff «Kommandantenwahl» ersetzt durch «Ernennung der Kommandantin oder des Kommandanten».
+
+#### Art. 21
+
+**Ausweispflicht**
+
+<sup>1</sup> Angehörige der Polizei in Zivil legitimieren sich vor jeder Amtshandlung mit dem Polizeiausweis, sofern die Umstände dies zulassen.
+
+<sup>2</sup> Wer polizeilich angehalten wird, kann von Angehörigen der Polizei in Uniform die Nennung des Namens und der Dienststelle verlangen. Diese sind zur Auskunft verpflichtet, sofern die Umstände es zulassen.
+
+- j) Schulgesetz vom 27. April 1981
+
+#### Art. 56
+
+**, 57, 59 und 68 werden aufgehoben**
+
+#### Art. 58
+
+**Besetzung der Lehrstellen**
+
+Voraussetzungen, Zuständigkeiten und Verfahren der Stellenbesetzung werden durch Verordnung des Regierungsrates geregelt, soweit sie nicht durch Dekret geregelt sind.
+
+#### Art. 79
+
+**Abs. 1**
+
+Die Besoldungen der Lehrer werden vom Kanton festgesetzt.
+
+In Art. 79 Abs. 4 und Art. 92 Abs. 1 werden die Begriffe «Ansätzen des kantonalen Besoldungsdekrets» und «Besoldungsdekrets des Kantons» ersetzt durch «kantonalen Ansätzen».
+
+- k) Einführungsgesetz zum Berufsbildungsgesetz vom 28.
+
+### März 1983
+
+In Art. 23 wird der Begriff «des Besoldungsdekretes» ersetzt durch «die kantonalen Bestimmungen über die Besoldung».
+
+In Art. 24 Marginalie und Abs. 1 wird der Begriff «Wahl» ersetzt durch «Anstellung».
+
+- l) Finanzhaushaltgesetz vom 26. Juni 1989 In Art. 40 wird der Begriff «Beamten und Angestellten» ersetzt durch «Mitarbeiter».
+
+- m) Gesundheitsgesetz vom 19. Oktober 1970 In Art. 41 Abs. 2 wird der Begriff «Der Bestattungsbeamte» ersetzt durch «Die für die Bestattung verantwortliche Person».
+
+- n) Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung vom 11. April 1994 In Art. 4 Abs. 2 lit. b und c wird der Begriff «Wahl» ersetzt durch «Ernennung».
+
+In Art. 7 Abs. 1 wird der Begriff «gewählt» ersetzt durch «ernannt».
+
+#### Art. 7
+
+**Abs. 2 Satz 2**
+
+In diesen Fällen wird die Leitung durch diejenige Gemeinde ernannt, in der die Zweigstelle ihren Sitz hat.
+
+In Art. 9 Abs. 2 lit. a und b wird der Begriff «Beamte und Angestellte» ersetzt durch «Mitarbeiterinnen und Mitarbeiter».
+
+- o) Gesetz über die Schaffhauser Kantonalbank vom 31.
+
+### Januar 1983
+
+In Art. 18 Abs. 3 Ziff. 3 wird der Begriff «Steuerbeamte» ersetzt durch «Mitarbeiter der Steuerbehörden».
+
+- 2\. Dekrete
+
+- a) Dekret betreffend das Kanzleiwesen der Gerichte vom
+
+### 30. September 1929
+
+In § 2 und § 7 Abs. 1 werden die Begriffe «als Beamten» bzw. «als Beamtem» und «als Angestellten» gestrichen.
+
+In § 11 Abs. 1 wird der Begriff «der Beamten und Angestellten der Gerichtskanzleien» ersetzt durch «des Kanzleipersonals».
+
+#### § 4
+
+Das Kantonsgericht stellt das Personal seiner Kanzlei an und nimmt es in Pflicht.
+
+#### § 8
+
+Das Obergericht stellt das Personal seiner Kanzlei an und nimmt es in Pflicht.
+
+- b) Dekret über die Organisation des Obergerichtes vom 4.
+
+### Dezember 1978
+
+In § 2 Abs. 1 Ziff. 4 wird der Begriff «Disziplinarverfahren» ersetzt durch «Verfahren zur Sicherstellung des Aufgabenvollzuges».
+
+- c) Dekret über Besoldung, Ferien und berufliche Vorsorge des Regierungsrates des Kantons Schaffhausen vom
+
+### 31. August 1998
+
+### Titel
+
+Dekret über das Dienstverhältnis und die berufliche Vorsorge des Regierungsrates des Kantons Schaffhausen
+
+### Ingress
+
+Der Kantonsrat Schaffhausen, gestützt auf Art. 1 Abs. 3 und 19 Abs. 7 des Personalgesetzes, beschliesst als Dekret:
+
+### Titel I.
+
+Allgemeines, Besoldung und Ferien
+
+#### § 1
+
+**Geltung des Personalgesetzes**
+
+<sup>1</sup> Für die Mitglieder des Regierungsrates gilt das Personalgesetz sinngemäss, soweit es mit ihrer Stellung vereinbar ist und keine besonderen Bestimmungen bestehen.
+
+<sup>2</sup> Nicht anwendbar sind insbesondere die Art. 22, 41 und 42 des Personalgesetzes.
+
+<sup>3</sup> Die Auflösung des Arbeitsverhältnisses vor Ablauf der Amtsdauer richtet sich nach den Bestimmungen der Kantonsverfassung über die Abberufung.
+
+#### § 2
+
+**Besoldung**
+
+<sup>1</sup> Die Jahresbesoldung der Mitglieder des Regierungsrates beträgt 120 % des Maximums des obersten Lohnbandes für das Staatspersonal.
+
+<sup>2</sup> Entspricht dem bisherigen § 1 Abs. 2
+
+<sup>3</sup> Entspricht dem bisherigen § 1 Abs. 3
+
+<sup>4</sup> Die versicherte Jahresbesoldung im Sinne dieses Dekretes beträgt 98 % der Besoldung gemäss Abs. 1.
+
+#### § 3
+
+**Kinderzulagen und Jubiläumsgabe**
+
+<sup>1</sup> Entspricht dem bisherigen § 2 Abs. 1
+
+<sup>2</sup> Mitglieder des Regierungsrates erhalten keine Jubiläumsgabe.
+
+Der bisherige § 3 wird zu § 4 Nebenämter
+
+Der bisherige § 4 wird zu § 5 Ferien
+
+- d) Schuldekret vom 27. April 1981
+
+#### §§ 37 bis
+
+**43 werden aufgehoben.**
+
+#### § 55
+
+**Abs. 2 lit. g**
+
+Die Schulbehörde hat im Wesentlichen folgende Aufgaben und Befugnisse:
+
+- g) sie rekrutiert die Lehrer und stellt sie zusammen mit dem Erziehungsdepartement an; die Einzelheiten der Zusammenarbeit werden vom Regierungsrat geregelt;
+
+#### § 60
+
+**Ernennung**
+
+Die Inspektoren werden, auf Vorschlag des Erziehungsrates, durch den Regierungsrat ernannt.
+
+In § 61 wird der Begriff «Besoldungsdekret des Kantons» ersetzt durch «kantonalen Ansätzen».
+
+- e) Dekret über die Prämien und Feuerschutzbeiträge der kantonalen Gebäudeversicherung vom 14. Januar 1974
+
+In § 15 Abs. 3 wird der Begriff «Feuerpolizeibeamten» ersetzt durch «Angehörige der Feuerpolizei».
+
+## Weitere Fussnoten
+
+- [1] In Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1270).
+- [5] Fassung gemäss G vom 25. Januar 2016, in Kraft getreten am 1. Juli 2016 (Amtsblatt 2016, S. 169, S. 723).
+- [6] Aufgehoben durch G vom 25. Januar 2016, in Kraft getreten am 1. Juli 2016 (Amtsblatt 2016, S. 169, S. 723).
