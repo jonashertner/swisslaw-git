@@ -4,46 +4,46 @@ number: "821.401"
 title: Verordnung betreffend das kantonale Einigungsamt
 language: de
 version: 2017-01-01
+corrected: 2024-06-24
 version_adopted: 2016-10-18
 adopted: 1926-05-26
 in_force: 1927-01-21
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/821.401"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1727/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/181/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung betreffend das kantonale Einigungsamt
 
-Vom 26.05.1926 (Stand 01.01.2017)
+vom 26. Mai 1926
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-in Ausführung von Art. 30 bis 35 des BG betreffend die Arbeit in den Fabriken vom 18. Juni 1914[^ingress-1],
+in Ausführung von Art. 30 bis 35 des BG betreffend die Arbeit in den Fabriken vom 18. Juni 1914 <sup>1)</sup>,
 
-beschliesst:
+verordnet, was folgt:
 
-[^ingress-1]: SR [821.41](http://db.clex.ch/link/Bund/821.41/de).
-
-## 1 Allgemeine Bestimmungen
+### Allgemeine Bestimmungen
 
 #### § 1
 
-<sup>1</sup> Zwecks Vermittlung von Kollektivstreitigkeiten zwischen Arbeitgebern und Arbeitnehmenden über das Arbeitsverhältnis sowie über die Auslegung und Ausführung von Gesamtarbeits- und Normalarbeitsverträgen wird ein ständiges kantonales Einigungsamt geschaffen.
+<sup>1</sup> Zwecks Vermittlung von Kollektivstreitigkeiten zwischen Arbeitgebern und Arbeitnehmenden über das Arbeitsverhältnis sowie über die Auslegung und Ausführung von Gesamtarbeits- und Normalarbeitsverträgen wird ein ständiges kantonales Einigungsamt geschaffen. <sup>8)</sup>
 
-<sup>2</sup> Dieses ist auf Anrufen auch bereit zur Mitwirkung bei der Begutachtung von Gesamtarbeitsverträgen, deren Allgemeinverbindlicherklärung verlangt wird sowie der Abfassung von Normalarbeitsverträgen im Sinne von Art. 359 und 360 OR[^1-1].
+<sup>2</sup> Dieses ist auf Anrufen auch bereit zur Mitwirkung bei der Begutachtung von Gesamtarbeitsverträgen, deren Allgemeinverbindlicherklärung verlangt wird sowie der Abfassung von Normalarbeitsverträgen im Sinne von Art. 359 und 360 OR <sup>7)</sup>. <sup>8)</sup>
 
-<sup>3</sup> …
+<sup>3</sup> … <sup>9)</sup>
 
-<sup>4</sup> Das Einigungsamt untersteht der Aufsicht des Volkswirtschaftsdepartementes und des Regierungsrates.
-
-[^1-1]: SR [220](http://db.clex.ch/link/Bund/220/de).
+<sup>4</sup> Das Einigungsamt untersteht der Aufsicht des Volkswirtschaftsdepartementes <sup>2)</sup> und des Regierungsrates.
 
 #### § 2
 
-<sup>1</sup> Als Kollektivstreitigkeiten gelten Streitigkeiten zwischen wenigstens einem Inhaber eines im Kanton Schaffhausen gelegenen Betriebes und mindestens fünf seiner Arbeitnehmenden über ihr Arbeitsverhältnis.
+<sup>1</sup> Als Kollektivstreitigkeiten gelten Streitigkeiten zwischen wenigstens einem Inhaber eines im Kanton Schaffhausen gelegenen Betriebes und mindestens fünf seiner Arbeitnehmenden über ihr Arbeitsverhältnis. <sup>8)</sup>
 
-<sup>2</sup> Ist die Zahl der von einer Streitigkeit berührten Arbeitnehmenden kleiner als fünf, so kann trotzdem nach dem Ermessen des Präsidenten ein Einigungsverfahren durchgeführt werden, entweder vor dem Präsidenten oder vor dem Einigungsamt.
+<sup>2</sup> Ist die Zahl der von einer Streitigkeit berührten Arbeitnehmenden kleiner als fünf, so kann trotzdem nach dem Ermessen des Präsi-
+
+Rechtsbuch 1964, Nr. 195. denten ein Einigungsverfahren durchgeführt werden, entweder vor dem Präsidenten oder vor dem Einigungsamt. <sup>8)</sup>
 
 <sup>3</sup> Das Einigungsamt behandelt auch Streitigkeiten anderer Natur, wenn es von beiden Parteien hierfür angerufen wird. In diesem Fall haben vom Einigungsamt erzielte Vergleiche und ausgefällte Schiedssprüche rechtsverbindliche Kraft.
 
@@ -61,47 +61,51 @@ beschliesst:
 
 <sup>1</sup> Vom Ausbruch von Kollektivstreitigkeiten, welche sich über die Grenzen des Kantons Schaffhausen hinaus erstrecken, haben die im Kanton wohnenden Beteiligten dem Regierungsrat Kenntnis zu geben.
 
-<sup>2</sup> …
+<sup>2</sup> .... <sup>3)</sup>
 
-## 2 Organisation
+### Organisation
 
 #### § 5
 
-<sup>1</sup> Das Einigungsamt besteht aus einem neutralen Vorsitzenden, je zwei Beisitzern aus Kreisen der Arbeitgeber und der Arbeitnehmer und der Kanzlei. Die Kanzlei wird durch das Arbeitsamt geführt.
+<sup>1</sup> Das Einigungsamt besteht aus einem neutralen Vorsitzenden, je zwei Beisitzern aus Kreisen der Arbeitgeber und der Arbeitnehmer und der Kanzlei. Die Kanzlei wird durch das Arbeitsamt geführt. <sup>8)</sup>
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>9)</sup>
 
-<sup>3</sup> Die Wahl der Mitglieder des Einigungsamtes und deren Stellvertretung erfolgt durch den Regierungsrat je für eine Amtsdauer. Für den Vorsitzenden wird eine Stellvertretung, für die Beisitzer werden je zwei Stellvertretungen gewählt.
+<sup>3</sup> Die Wahl der Mitglieder des Einigungsamtes und deren Stellvertretung erfolgt durch den Regierungsrat je für eine Amtsdauer. Für den Vorsitzenden wird eine Stellvertretung, für die Beisitzer werden je zwei Stellvertretungen gewählt. <sup>8)</sup>
 
 #### § 6
 
-<sup>1–2</sup> …
+<sup>1</sup> … <sup>6)</sup>
 
-<sup>3</sup> Die Wahl der Beisitzer erfolgt nach unverbindlichen Vorschlägen der wichtigeren Berufs- und Interessengruppen.
+<sup>2</sup> … <sup>6)</sup>
+
+<sup>3</sup> Die Wahl der Beisitzer erfolgt nach unverbindlichen Vorschlägen der wichtigeren Berufs- und Interessengruppen. <sup>8)</sup>
 
 #### § 7
 
-<sup>1</sup> Der Vorsitzende bezeichnet Zeit und Ort der Verhandlung.
+<sup>8)</sup>
+
+Der Vorsitzende bezeichnet Zeit und Ort der Verhandlung.
 
 #### § 8
 
 <sup>1</sup> Beim Vermittlungs- und Schiedsverfahren besteht das Einigungsamt aus einem ständigen Mitglied als Vorsitzendem (in der Regel der Präsident) und je einem Arbeitgeber und Arbeitnehmer als Beisitzer.
 
-<sup>2</sup> Lässt die besondere Natur eines Falles es als angezeigt erscheinen, so kann der Vorsitzende von sich aus oder auf begründetes Begehren einer Partei weitere Sachverständige beiziehen.
+<sup>2</sup> Lässt die besondere Natur eines Falles es als angezeigt erscheinen, so kann der Vorsitzende von sich aus oder auf begründetes Begehren einer Partei weitere Sachverständige beiziehen. <sup>8)</sup>
 
 #### § 9
 
+<sup>8)</sup>
+
 <sup>1</sup> Die Kommissionsmitglieder erhalten, soweit es sich nicht um kantonal besoldete Personen handelt, vom Kanton Sitzungsgelder und Reiseentschädigungen.
 
-<sup>2</sup> Die Ansätze entsprechen denjenigen gemäss Beschluss des Kantonsrates Schaffhausen über das Sitzungsgeld für die Mitglieder des Kantonsrates, des Büros und der Kommissionen[^9-1].
-
-[^9-1]: SHR [171.111](https://rechtsbuch.sh.ch/data/171.111/de).
+<sup>2</sup> Die Ansätze entsprechen denjenigen gemäss Beschluss des Kantonsrates Schaffhausen über das Sitzungsgeld für die Mitglieder des Kantonsrates, des Büros und der Kommissionen. <sup>10)</sup>
 
 #### § 10
 
-**…**
+<sup>9)</sup>
 
-## 3 Verfahren
+### Verfahren
 
 #### § 11
 
@@ -111,7 +115,7 @@ beschliesst:
 
 #### § 12
 
-<sup>1</sup> Der Ausbruch einer Kollektivstreitigkeit ist dem Präsidenten des Einigungsamtes umgehend unter genauer Angabe der Parteien und des Streitgegenstandes anzuzeigen, sobald direkte Verständigungsversuche unter den Parteien oder die Bemühungen einer vereinbarten freiwilligen, beruflichen Einigungsstelle gescheitert sind.
+Der Ausbruch einer Kollektivstreitigkeit ist dem Präsidenten des Einigungsamtes umgehend unter genauer Angabe der Parteien und des Streitgegenstandes anzuzeigen, sobald direkte Verständigungsversuche unter den Parteien oder die Bemühungen einer vereinbarten freiwilligen, beruflichen Einigungsstelle gescheitert sind.
 
 #### § 13
 
@@ -127,17 +131,17 @@ beschliesst:
 
 #### § 15
 
-<sup>1</sup> Das Einigungsamt handelt im Rahmen dieser Verordnung nach freiem Ermessen. Es ist nicht an die Parteibegehren gebunden. Das Verfahren soll so rasch und einfach sein, als es die Sachlage gestattet.
+Das Einigungsamt handelt im Rahmen dieser Verordnung nach freiem Ermessen. Es ist nicht an die Parteibegehren gebunden. Das Verfahren soll so rasch und einfach sein, als es die Sachlage gestattet.
 
 #### § 16
 
-<sup>1</sup> Der Vorsitzende des Einigungsamtes kann den Parteien sofort nach Eingang der Anzeige eine kurze Frist ansetzen zur allfälligen Ergänzung der Anzeige über Parteien, Forderungen und Anerbieten und zur Bezeichnung der mit den nötigen Vollmachten und Instruktionen versehenen Parteivertreter. Der Vorsitzende bestimmt die Zahl der Parteivertreter.
+Der Vorsitzende des Einigungsamtes kann den Parteien sofort nach Eingang der Anzeige eine kurze Frist ansetzen zur allfälligen Ergänzung der Anzeige über Parteien, Forderungen und Anerbieten und zur Bezeichnung der mit den nötigen Vollmachten und Instruktionen versehenen Parteivertreter. Der Vorsitzende bestimmt die Zahl der Parteivertreter.
 
 #### § 17
 
 <sup>1</sup> Als Parteivertreter können die Arbeitgeber Direktoren und andere Angestellte bezeichnen. Ebenso können beide Parteien leitende Personen der Berufsverbände beiziehen.
 
-<sup>2</sup> …
+<sup>2</sup> … <sup>6)</sup>
 
 <sup>3</sup> Die Vertretung oder Verbeiständung einer Partei durch einen Anwalt ist ausgeschlossen.
 
@@ -145,11 +149,9 @@ beschliesst:
 
 #### § 18
 
-<sup>1</sup> Bezüglich Ausstands- oder Ablehnungsgründe sind massgebend die Bestimmungen der Zivilprozessordnung[^18-1].
+<sup>1</sup> Bezüglich Ausstands- oder Ablehnungsgründe sind massgebend die Bestimmungen der Zivilprozessordnung <sup>11)</sup>. <sup>8)</sup>
 
 <sup>2</sup> Über Einsprachen gegen die Mitwirkung ständiger Mitglieder entscheidet der Regierungsrat, über solche gegen Beisitzer der Vorsitzende und über solche gegen Parteivertreter das Einigungsamt.
-
-[^18-1]: SR [272](http://db.clex.ch/link/Bund/272/de).
 
 #### § 19
 
@@ -157,12 +159,9 @@ beschliesst:
 
 <sup>2</sup> Dieses Recht erstreckt sich indes nur so weit, als die Abklärung des im Streite liegenden Arbeitsverhältnisses es erfordert. Die Parteien können verlangen, dass die Einsicht in Bücher und Urkunden an den Vorsitzenden oder ein ständiges Mitglied des Einigungsamtes delegiert wird.
 
-<sup>3</sup> Für die Zeugeneinvernahme gelten die Vorschriften der Zivilprozessordnung[^19-1] und des Strafgesetzbuches[^19-2].
+<sup>3</sup> Für die Zeugeneinvernahme gelten die Vorschriften der Zivilprozessordnung <sup>11)</sup> und des Strafgesetzbuches <sup>12)</sup>. <sup>8)</sup>
 
 <sup>4</sup> Diese Bestimmungen haben keine Gültigkeit für die in § 3 vorgesehenen privaten Einigungsstellen.
-
-[^19-1]: SR [272](http://db.clex.ch/link/Bund/272/de).
-[^19-2]: SR [311.0](http://db.clex.ch/link/Bund/311.0/de).
 
 #### § 20
 
@@ -180,7 +179,9 @@ beschliesst:
 
 #### § 22
 
-<sup>1</sup> Die Mitglieder des Einigungsamtes und die Kanzlei, ebenso die Beisitzer haben die Verhältnisse, welche in den nicht öffentlichen Verhandlungen oder aus der Einsicht der Akten oder Urkunden zu ihrer Kenntnis gelangen, als Amtsgeheimnis zu behandeln.
+<sup>8)</sup>
+
+Die Mitglieder des Einigungsamtes und die Kanzlei, ebenso die Beisitzer haben die Verhältnisse, welche in den nicht öffentlichen Verhandlungen oder aus der Einsicht der Akten oder Urkunden zu ihrer Kenntnis gelangen, als Amtsgeheimnis zu behandeln.
 
 #### § 23
 
@@ -188,7 +189,7 @@ beschliesst:
 
 <sup>2</sup> Sämtliche Mitglieder des Einigungsamtes sind zur Stimmabgabe verpflichtet. Die Beschlüsse werden mit Mehrheit, eventuell mit Stichentscheid des Präsidenten gefasst.
 
-<sup>3</sup> …
+<sup>3</sup> … <sup>9)</sup>
 
 #### § 24
 
@@ -204,13 +205,13 @@ beschliesst:
 
 <sup>1</sup> Sind die Vermittlungsverhandlungen endgültig als gescheitert anzusehen, so werden die Parteien unter Ansetzung einer kurzen Frist zu einer Erklärung darüber veranlasst, ob sie sich einem Schiedsspruch des Einigungsamtes unterziehen wollen.
 
-<sup>2</sup> Sind beide Parteien hierzu bereit, so wird sofort das schiedsgerichtliche Verfahren eingeleitet.
+<sup>2</sup> Sind beide Parteien hierzu bereit, so wird sofort das schiedsgerichtliche Verfahren eingeleitet. <sup>8)</sup>
 
 <sup>3</sup> Verlangt nur eine oder gar keine Partei einen Schiedsspruch, so wird das Verfahren unter Vorbehalt der §§ 24 Abs. 4 und 26 geschlossen, und es kann eine kurzgefasste Bekanntmachung über den Verlauf der Verhandlungen im Amtsblatt veröffentlicht werden.
 
 #### § 26
 
-<sup>1</sup> Über das Ergebnis der Verhandlungen ist dem Regierungsrat Bericht zu erstatten. Dieser kann auch nach Schluss des Verfahrens noch die Fällung eines Entscheides verlangen.
+Über das Ergebnis der Verhandlungen ist dem Regierungsrat Bericht zu erstatten. Dieser kann auch nach Schluss des Verfahrens noch die Fällung eines Entscheides verlangen.
 
 #### § 27
 
@@ -222,7 +223,7 @@ beschliesst:
 
 #### § 28
 
-<sup>1</sup> Jeder Schiedsspruch ist den Parteien und dem Regierungsrate mit Begründung schriftlich mitzuteilen und auf Verlangen des letzteren im Amtsblatt zu publizieren.
+Jeder Schiedsspruch ist den Parteien und dem Regierungsrate mit Begründung schriftlich mitzuteilen und auf Verlangen des letzteren im Amtsblatt zu publizieren.
 
 #### § 29
 
@@ -240,11 +241,13 @@ beschliesst:
 
 #### § 31
 
-<sup>1</sup> Die Kosten des Verfahrens vor dem Einigungsamte werden vom Staate getragen.
+Die Kosten des Verfahrens vor dem Einigungsamte werden vom Staate getragen.
 
-## 4 Strafbestimmungen
+### Strafbestimmungen
 
 #### § 32
+
+<sup>8)</sup>
 
 <sup>1</sup> Wer das Verfahren des Einigungsamtes stört, insbesondere wer die Verhandlungs- und Auskunftspflicht verletzt oder einer Vorladung keine Folge leistet, wird vom Einigungsamt mit Ordnungsbusse belegt.
 
@@ -252,14 +255,34 @@ beschliesst:
 
 #### § 33
 
-**…**
+<sup>9)</sup>
 
-## 5 Schlussbestimmungen
+### Schlussbestimmungen
 
 #### § 34
 
-<sup>1</sup> Durch diese Verordnung wird diejenige vom 20. März 1918 betreffend das kantonale Einigungsamt aufgehoben. Sie tritt nach erfolgter Genehmigung durch das Schweizerische Volkswirtschaftsdepartement[^34-1] in Kraft und wird durch das Volkswirtschaftsdepartement in Vollzug gesetzt.
+Durch diese Verordnung wird diejenige vom 20. März 1918 betreffend das kantonale Einigungsamt aufgehoben. Sie tritt nach erfolgter Genehmigung durch das Schweizerische Volkswirtschaftsdepartement in Kraft und wird durch das Volkswirtschaftsdepartement <sup>2)</sup> in Vollzug gesetzt.
 
-[^34-1]: Vom Bundesrat genehmigt am 21. Januar 1927.
+Vom Bundesrat genehmigt am 21. Januar 1927.
 
-Rechtsbuch 1964, Nr. 195
+Fussnoten:
+
+- 1) SR 821.41.
+
+- 2) Fassung gemäss V vom 9. Dezember 1986, in Kraft getreten am 1. Januar 1987 (Amtsblatt 1986, S. 1043).
+
+- 3) Abs. 2 aufgehoben durch V des RR vom 13. März 1973 betr. den Vollzug des Arbeitsgesetzes (SHR 822.101).
+
+- 6) Aufgehoben durch RRB vom 2. Februar 2010, in Kraft getreten am 1. März 2010 (Amtsblatt 2010, S. 201).
+
+- 7) SR 220.
+
+- 8) Fassung gemäss RRB vom 18. Oktober 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1679).
+
+- 9) Aufgehoben durch RRB vom 18. Oktober 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1679).
+
+- 10) SHR 171.111.
+
+- 11) SR 272.
+
+- 12) SR 311.00.
