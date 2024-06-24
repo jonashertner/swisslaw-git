@@ -3,11 +3,11 @@ sr: "0.814.327.1"
 title: "Decisione 2012/2 del 4 maggio 2012 di modifica del Protocollo del 1999 alla Convenzione sull'inquinamento atmosferico transfrontaliero a grande distanza, relativo alla riduzione dell'acidificazione, dell'eutrofizzazione e dell'ozono troposferico (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/512"
 language: it
-version: 2021-07-15
+version: 2024-06-25
 adopted: 2012-05-04
 in_force: 2019-10-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20210715/it/xml/fedlex-data-admin-ch-eli-cc-2019-512-20210715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20210715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20240625/it/xml/fedlex-data-admin-ch-eli-cc-2019-512-20240625-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20240625/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Accettata con strumento depositato dalla Svizzera il 24 luglio 2019
 
 Entrata in vigore per la Svizzera il 22 ottobre 2019
 
-(Stato 15 luglio 2021)
+(Stato 25 giugno 2024)
 
 [^t-1]: [RU 2019 2707](https://fedlex.data.admin.ch/eli/oc/2019/511)
 
@@ -980,7 +980,7 @@ Valori limite per le emissioni di NO<sub>x</sub> prodotte da motori fissi nuovi
 <tr><td>In modalità liquida (per tutti i combustibili liquidi) <sup>d</sup></td><td></td></tr>
 <tr><td>1–20 MW<sub>th</sub></td><td>225</td></tr>
 <tr><td>&gt; 20 MW<sub>th</sub></td><td>225</td></tr>
-<tr><td>Motori diesel &gt; 5 MW<sub>th</sub> (accensione spontanea) *Regime basso (&lt; 300 giri/min) / medio (300–1 200 giri/min)*</td><td></td></tr>
+<tr><td>Motori diesel &gt; 5 MW<sub>th</sub> (accensione spontanea) *Regime basso (&lt; 300 giri/min) / medio* *(300–1 200 giri/min)*</td><td></td></tr>
 <tr><td>5–20 MW<sub>th</sub></td><td></td></tr>
 <tr><td>Olio combustibile pesante (HFO) e bio-oli</td><td>225</td></tr>
 <tr><td>Olio combustibile leggero (LFO) e gas naturale (GN)</td><td>190</td></tr>
@@ -2479,10 +2479,12 @@ Contenuto massimo di COV nei prodotti per carrozzeria
 - c) Architectural coatings – 40 C.F.R., parte 59, sottoparte D; e
 - d) Aerosol coatings – 40 C.F.R., parte 59, sottoparte E.»
 
-Campo d’applicazione il 10 agosto 2020**[^t-2]**
+Campo d’applicazione il 25 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria</td><td>13 giugno</td><td>2024</td><td>11 settembre</td><td>2024</td></tr>
+<tr><td>Belgio</td><td>25 giugno</td><td>2024</td><td>23 settembre</td><td>2024</td></tr>
 <tr><td>Bulgaria</td><td>7 giugno</td><td>2018</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Canada</td><td>28 novembre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Ceca, Repubblica</td><td>22 novembre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
@@ -2491,25 +2493,30 @@ Campo d’applicazione il 10 agosto 2020**[^t-2]**
 <tr><td>Danimarca <sup>a</sup></td><td>8 ottobre</td><td>2019</td><td>6 gennaio</td><td>2020</td></tr>
 <tr><td>Estonia</td><td>7 ottobre</td><td>2019</td><td>5 gennaio</td><td>2020</td></tr>
 <tr><td>Finlandia</td><td>7 dicembre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
+<tr><td>Francia</td><td>6 dicembre</td><td>2021</td><td>6 marzo</td><td>2022</td></tr>
 <tr><td>Germania</td><td>22 settembre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
+<tr><td>Grecia</td><td>9 febbraio</td><td>2023</td><td>10 maggio</td><td>2023</td></tr>
 <tr><td>Lettonia</td><td>5 marzo</td><td>2019</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Lituania</td><td>15 ottobre</td><td>2019</td><td>13 gennaio</td><td>2020</td></tr>
 <tr><td>Lussemburgo</td><td>9 luglio</td><td>2019</td><td>7 ottobre</td><td>2019</td></tr>
+<tr><td>Malta</td><td>3 maggio</td><td>2021</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Norvegia\*</td><td>26 novembre</td><td>2019</td><td>24 febbraio</td><td>2020</td></tr>
 <tr><td>Paesi Bassi</td><td>18 ottobre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Portogallo</td><td>26 luglio</td><td>2018</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Regno Unito</td><td>9 maggio</td><td>2019</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Romania</td><td>15 maggio</td><td>2018</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Slovacchia</td><td>25 maggio</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
+<tr><td>Slovenia</td><td>22 ottobre</td><td>2021</td><td>20 gennaio</td><td>2022</td></tr>
 <tr><td>Spagna</td><td>18 dicembre</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Stati Uniti\*</td><td>18 gennaio</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Svezia</td><td>16 novembre</td><td>2015</td><td>7 ottobre</td><td>2019</td></tr>
 <tr><td>Svizzera\*</td><td>24 luglio</td><td>2019</td><td>22 ottobre</td><td>2019</td></tr>
+<tr><td>Ungheria</td><td>28 luglio</td><td>2023</td><td>26 ottobre</td><td>2023</td></tr>
 <tr><td>Unione europea</td><td>30 agosto</td><td>2017</td><td>7 ottobre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La mod. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: : [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La mod. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637); [2024 328](https://fedlex.data.admin.ch/eli/oc/2024/328). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazione
 

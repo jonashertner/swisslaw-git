@@ -3,11 +3,11 @@ sr: "0.814.327.1"
 title: "Beschluss 2012/2 vom 4. Mai 2012 zur Änderung des Protokolls von 1999 zum Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/512"
 language: de
-version: 2021-07-15
+version: 2024-06-25
 adopted: 2012-05-04
 in_force: 2019-10-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20210715/de/xml/fedlex-data-admin-ch-eli-cc-2019-512-20210715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20210715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20240625/de/xml/fedlex-data-admin-ch-eli-cc-2019-512-20240625-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20240625/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Annahmeurkunde von der Schweiz hinterlegt am 24. Juli 2019
 
 In Kraft getreten für die Schweiz am 22. Oktober 2019
 
-(Stand am 15. Juli 2021)
+(Stand am 25. Juni 2024)
 
 [^t-1]: [AS 2019 2707](https://fedlex.data.admin.ch/eli/oc/2019/511)
 
@@ -2481,37 +2481,44 @@ VOC-Höchstgehalt von Produkten für die Fahrzeugreparaturlackierung
 - (c) Architectural coatings – 40 C.F.R. Part 59, Subpart D; und
 - (d) Aerosol coatings – 40 C.F.R. Part 59, Subpart E.»
 
-Geltungsbereich am 10. August 2020**[^t-2]**
+Geltungsbereich am 25. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien</td><td>25. Juni</td><td>2024</td><td>23. September</td><td>2024</td></tr>
 <tr><td>Bulgarien</td><td>7. Juni</td><td>2018</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>8. Oktober</td><td>2019</td><td>6. Januar</td><td>2020</td></tr>
 <tr><td>Deutschland</td><td>22. September</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Estland</td><td>7. Oktober</td><td>2019</td><td>5. Januar</td><td>2020</td></tr>
 <tr><td>Europäische Union</td><td>30. August</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Finnland</td><td>7. Dezember</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
+<tr><td>Frankreich</td><td>6. Dezember</td><td>2021</td><td>6. März</td><td>2022</td></tr>
+<tr><td>Griechenland</td><td>9. Februar</td><td>2023</td><td>10. Mai</td><td>2023</td></tr>
 <tr><td>Kanada</td><td>28. November</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Kroatien</td><td>28. Januar</td><td>2019</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Lettland</td><td>5. März</td><td>2019</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Litauen</td><td>15. Oktober</td><td>2019</td><td>13. Januar</td><td>2020</td></tr>
 <tr><td>Luxemburg</td><td>9. Juli</td><td>2019</td><td>7. Oktober</td><td>2019</td></tr>
+<tr><td>Malta</td><td>3. Mai</td><td>2021</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Niederlande</td><td>18. Oktober</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Norwegen\*</td><td>26. November</td><td>2019</td><td>24. Februar</td><td>2020</td></tr>
+<tr><td>Österreich</td><td>13. Juni</td><td>2024</td><td>11. September</td><td>2024</td></tr>
 <tr><td>Portugal</td><td>26. Juli</td><td>2018</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>15. Mai</td><td>2018</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Schweden</td><td>16. November</td><td>2015</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Schweiz\*</td><td>24. Juli</td><td>2019</td><td>22. Oktober</td><td>2019</td></tr>
 <tr><td>Slowakei</td><td>25. Mai</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
+<tr><td>Slowenien</td><td>22. Oktober</td><td>2021</td><td>20. Januar</td><td>2022</td></tr>
 <tr><td>Spanien</td><td>18. Dezember</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Tschechische Republik</td><td>22. November</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
+<tr><td>Ungarn</td><td>28. Juli</td><td>2023</td><td>26. Oktober</td><td>2023</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>18. Januar</td><td>2017</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>9. Mai</td><td>2019</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Zypern</td><td>13. März</td><td>2019</td><td>7. Oktober</td><td>2019</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637); [2024 328](https://fedlex.data.admin.ch/eli/oc/2024/328). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 
