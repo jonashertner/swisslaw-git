@@ -3,25 +3,26 @@ sr: "0.747.323.1"
 title: "Convenzione internazionale del 10 maggio 1952 per l'unificazione di alcune regole del sequestro conservativo delle navi di mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/723_779_787"
 language: it
-version: 2012-10-26
+version: 2024-06-25
 adopted: 1952-05-10
 in_force: 1956-02-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/723_779_787/20121026/it/xml/fedlex-data-admin-ch-eli-cc-1956-723_779_787-20121026-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/723_779_787/20121026/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/723_779_787/20240625/it/xml/fedlex-data-admin-ch-eli-cc-1956-723_779_787-20240625-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/723_779_787/20240625/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione internazionale per l’unificazione di alcune regole del sequestro conservativo delle navi di mare
 
-Traduzione*[^t-1]*
+RU **1956** 787; FF **1953** III pag. 781 ediz. franc., pag. 749 ediz. ted.
 
-Conchiusa a Bruxelles il 10 maggio 1952 Approvata dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 24 febbraio 1956
+Traduzione
 
-(Stato 26 ottobre 2012)
+Conchiusa a Bruxelles il 10 maggio 1952 Approvata dall’Assemblea federale il 17 marzo 1954[^t-1] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 24 febbraio 1956
 
-[^t-1]: RO **1956** 787 AS **1956** 723; FF **1953** III 781 BBl **1953** III 749 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: N. 8 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+(Stato 25 giugno 2024)
+
+[^t-1]: N. 8 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 Le Alte Parti contraenti,
 
@@ -35,22 +36,22 @@ Nella presente convenzione, le espressioni qui elencate sono usate con le compre
 
 «Credito marittimo» significa: allegazione di un diritto o di un credito fondati su una di queste cause:
 
-- a. danni provocati da una nave per urto o altrimenti;
-- b. perdite di vite umane o lesioni corporali provocate da una nave o provenienti dall’esercizio di una nave;
-- c. assistenza e salvataggio;
-- d. contratti relativi all’uso o alla locazione di una nave per noleggio o altrimenti;
-- e. contratti relativi al trasporto di merci per nave in virtù di un noleggio, di una polizza di carico o d’altro;
-- f. perdite o avarie delle merci e dei bagagli trasportati per nave;
-- g. avaria comune;
-- h. prestito navale;
-- i. rimorchio;
-- j. pilotaggio;
-- k. forniture di prodotti o di materiali, in qualsiasi luogo fatte a una nave per il suo esercizio o la sua manutenzione;
-- l. costruzione, riparazioni, attrezzatura di nave o spese di cantiere;
-- m. salari del capitano, degli ufficiali, dell’equipaggio;
-- n. esborsi del capitano, dei caricatori, dei noleggiatori o degli agenti per la nave o per conto del suo proprietario;
-- o. proprietà contestata di una nave;
-- p. comproprietà contestata di una nave, oppure possesso, esercizio o partecipazione agli utili d’esercizio, di una nave in comproprietà;
+- a. danni provocati da una nave per urto o altrimenti,
+- b. perdite di vite umane o lesioni corporali provocate da una nave o provenienti dall’esercizio di una nave,
+- c. assistenza e salvataggio,
+- d. contratti relativi all’uso o alla locazione di una nave per noleggio o altrimenti,
+- e. contratti relativi al trasporto di merci per nave in virtù di un noleggio, di una polizza di carico o d’altro,
+- f. perdite o avarie delle merci e dei bagagli trasportati per nave,
+- g. avaria comune,
+- h. prestito navale,
+- i. rimorchio,
+- j. pilotaggio,
+- k. forniture di prodotti o di materiali, in qualsiasi luogo fatte a una nave per il suo esercizio o la sua manutenzione,
+- l. costruzione, riparazioni, attrezzatura di nave o spese di cantiere,
+- m. salari del capitano, degli ufficiali, dell’equipaggio,
+- n. esborsi del capitano, dei caricatori, dei noleggiatori o degli agenti per la nave o per conto del suo proprietario,
+- o. proprietà contestata di una nave,
+- p. comproprietà contestata di una nave, oppure possesso, esercizio o partecipazione agli utili d’esercizio, di una nave in comproprietà,
 - q. ogni ipoteca navale e ogni pegno morto;
 
 <sup>2.</sup> «sequestro» significa: l’immobilizzazione – autorizzata dalla giurisdizione competente – di una nave per garanzia di un credito marittimo, esclusa però la detenzione di una nave per l’esecuzione di un titolo;
@@ -197,46 +198,64 @@ Fatto a Bruxelles, in un solo esemplare, il 10 maggio 1952, nelle lingue frances
 
 (Seguono le firme)
 
-Campo d’applicazione il 26 ottobre 2012**[^t-3]**
+Campo d’applicazione il 25 giugno 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Algeria</td><td>18 agosto</td><td>1964 A</td><td>18 febbraio</td><td>1965</td></tr>
+<tr><td>Antigua e Barbuda</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Bahamas</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
 <tr><td>Belgio</td><td>10 aprile</td><td>1961</td><td>10 ottobre</td><td>1961</td></tr>
+<tr><td>Belize</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
+<tr><td>Benin</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Burkina Faso</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Cambogia\*</td><td>12 novembre</td><td>1956 A</td><td>12 maggio</td><td>1957</td></tr>
 <tr><td>Camerun</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Ciad</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hong Kong\*</td><td>10 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td>Macao\*</td><td>10 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Hong Kong\* <sup>a</sup></td><td>10 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao\* <sup>b</sup></td><td>10 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Comore</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
 <tr><td>Costa Rica\*</td><td>13 luglio</td><td>1955 A</td><td>24 febbraio</td><td>1956</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17 marzo</td><td>1989 S</td><td>7 agosto</td><td>1960</td></tr>
 <tr><td>Croazia</td><td>30 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td>21 novembre</td><td>1983 A</td><td>21 maggio</td><td>1984</td></tr>
-<tr><td>Côte d’Ivoire</td><td>17 marzo</td><td>1989 S</td><td>7 agosto</td><td>1960</td></tr>
 <tr><td>Danimarca\*</td><td>2 maggio</td><td>1989</td><td>2 novembre</td><td>1989</td></tr>
+<tr><td>Dominica</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
 <tr><td>Egitto\*</td><td>24 agosto</td><td>1955</td><td>24 febbraio</td><td>1956</td></tr>
 <tr><td>Figi\*</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Finlandia</td><td>21 dicembre</td><td>1995</td><td>21 giugno</td><td>1996</td></tr>
 <tr><td>Francia</td><td>25 maggio</td><td>1957</td><td>25 novembre</td><td>1957</td></tr>
 <tr><td>Territori francesi d’oltremare</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Gabon</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Germania\*</td><td>6 ottobre</td><td>1972</td><td>6 aprile</td><td>1973</td></tr>
+<tr><td>Gibuti</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Grecia</td><td>27 febbraio</td><td>1967</td><td>27 agosto</td><td>1967</td></tr>
+<tr><td>Grenada</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
 <tr><td>Guinea</td><td>12 dicembre</td><td>1994 A</td><td>12 giugno</td><td>1995</td></tr>
+<tr><td>Guyana</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
 <tr><td>Haiti</td><td>4 novembre</td><td>1954 A</td><td>24 febbraio</td><td>1956</td></tr>
 <tr><td>Irlanda\*</td><td>17 ottobre</td><td>1989 A</td><td>17 aprile</td><td>1990</td></tr>
 <tr><td>Italia\*</td><td>9 novembre</td><td>1979</td><td>9 maggio</td><td>1980</td></tr>
+<tr><td>Kiribati</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
 <tr><td>Lettonia</td><td>17 maggio</td><td>1993 A</td><td>17 novembre</td><td>1993</td></tr>
 <tr><td>Lituania</td><td>29 aprile</td><td>2002 A</td><td>29 ottobre</td><td>2002</td></tr>
 <tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
+<tr><td>Mali</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Marocco</td><td>11 luglio</td><td>1990 A</td><td>11 gennaio</td><td>1991</td></tr>
+<tr><td>Mauritania</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
+<tr><td>Maurizio</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
 <tr><td>Namibia</td><td>14 marzo</td><td>2002 A</td><td>14 settembre</td><td>2002</td></tr>
+<tr><td>Niger</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Nigeria\*</td><td>7 novembre</td><td>1963 A</td><td>7 maggio</td><td>1964</td></tr>
 <tr><td>Norvegia\*</td><td>1° novembre</td><td>1994</td><td>1° maggio</td><td>1995</td></tr>
 <tr><td>Paesi Bassi\*</td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
 <tr><td>Aruba</td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
 <tr><td>Curaçao</td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)<sup>2</sup></td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
 <tr><td>Sint Maarten</td><td>20 gennaio</td><td>1983</td><td>20 luglio</td><td>1983</td></tr>
 <tr><td>Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 maggio</td><td>1968</td></tr>
 <tr><td>Polonia</td><td>16 luglio</td><td>1976 A</td><td>16 gennaio</td><td>1977</td></tr>
@@ -253,21 +272,29 @@ Campo d’applicazione il 26 ottobre 2012**[^t-3]**
 <tr><td>Isole Vergini britanniche\*</td><td>29 maggio</td><td>1963 A</td><td>29 novembre</td><td>1963</td></tr>
 <tr><td>Montserrat\*</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
 <tr><td>Sant’Elena\*</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Rep. Centrafricana</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Romania</td><td>28 novembre</td><td>1995 A</td><td>28 maggio</td><td>1996</td></tr>
 <tr><td>Russia\*</td><td>29 aprile</td><td>1999 A</td><td>29 ottobre</td><td>1999</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>12 maggio</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
 <tr><td>Saint Lucia</td><td>21 marzo</td><td>1990 S</td><td>22 febbraio</td><td>1979</td></tr>
 <tr><td>Saint Vincent e Grenadine\*</td><td>29 ottobre</td><td>2001 S</td><td>28 ottobre</td><td>1979</td></tr>
 <tr><td>Salomone, Isole\*</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
+<tr><td>San Marino</td><td>6 maggio</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
 <tr><td>Santa Sede</td><td>10 agosto</td><td>1956</td><td>10 febbraio</td><td>1957</td></tr>
+<tr><td>Senegal</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Serbia\*</td><td>25 luglio</td><td>1967</td><td>25 gennaio</td><td>1968</td></tr>
+<tr><td>Seychelles</td><td>29 marzo</td><td>1963 A</td><td>29 settembre</td><td>1963</td></tr>
 <tr><td>Siria</td><td>3 febbraio</td><td>1972 A</td><td>3 agosto</td><td>1972</td></tr>
 <tr><td>Slovenia</td><td>13 ottobre</td><td>1993 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Svezia</td><td>30 aprile</td><td>1993 A</td><td>30 ottobre</td><td>1993</td></tr>
 <tr><td>Svizzera</td><td>28 maggio</td><td>1954 A</td><td>24 febbraio</td><td>1956</td></tr>
 <tr><td>Togo</td><td>23 aprile</td><td>1958 A</td><td>23 ottobre</td><td>1958</td></tr>
 <tr><td>Tonga\*</td><td>13 giugno</td><td>1978 A</td><td>13 dicembre</td><td>1978</td></tr>
+<tr><td>Tuvalu</td><td>21 settembre</td><td>1965 A</td><td>21 marzo</td><td>1966</td></tr>
 <tr><td>Ucraina\*</td><td>16 novembre</td><td>2011 A</td><td>16 maggio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo belga: http://diplomatie.belgium.be/fr/traites/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in francese può essere consultato sul sito internet del Ministero degli affari esteri del Belgio: https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire, o oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Dal 29 set. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Dal 23 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 569](https://fedlex.data.admin.ch/eli/oc/1973/568_569_569), [1982 1943](https://fedlex.data.admin.ch/eli/oc/1982/1943_1943_1943), [1983 1322](https://fedlex.data.admin.ch/eli/oc/1983/1322_1322_1322), [1984 571](https://fedlex.data.admin.ch/eli/oc/1984/571_571_571), [1989 536](https://fedlex.data.admin.ch/eli/oc/1989/536_536_536), [1990 1731](https://fedlex.data.admin.ch/eli/oc/1990/1731_1731_1731), [2005 2337](https://fedlex.data.admin.ch/eli/oc/2005/399)e [2013 281](https://fedlex.data.admin.ch/eli/oc/2013/41). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1956 787](https://fedlex.data.admin.ch/eli/oc/1956/723_779_787); [1973 569](https://fedlex.data.admin.ch/eli/oc/1973/568_569_569); [1982 1943](https://fedlex.data.admin.ch/eli/oc/1982/1943_1943_1943); [1983 1322](https://fedlex.data.admin.ch/eli/oc/1983/1322_1322_1322); [1984 571](https://fedlex.data.admin.ch/eli/oc/1984/571_571_571); [1989 536](https://fedlex.data.admin.ch/eli/oc/1989/536_536_536); [1990 1731](https://fedlex.data.admin.ch/eli/oc/1990/1731_1731_1731); [2005 2337](https://fedlex.data.admin.ch/eli/oc/2005/399); [2013 281](https://fedlex.data.admin.ch/eli/oc/2013/41); [2024 318](https://fedlex.data.admin.ch/eli/oc/2024/318). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

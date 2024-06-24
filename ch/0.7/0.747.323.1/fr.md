@@ -3,22 +3,24 @@ sr: "0.747.323.1"
 title: "Convention internationale du 10 mai 1952 pour l'unification de certaines règles sur la saisie conservatoire des navires de mer"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/723_779_787"
 language: fr
-version: 2012-10-26
+version: 2024-06-25
 adopted: 1952-05-10
 in_force: 1956-02-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/723_779_787/20121026/fr/xml/fedlex-data-admin-ch-eli-cc-1956-723_779_787-20121026-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/723_779_787/20121026/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/723_779_787/20240625/fr/xml/fedlex-data-admin-ch-eli-cc-1956-723_779_787-20240625-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/723_779_787/20240625/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention internationale pour l’unification de certaines règles sur la saisie conservatoire des navires de mer
 
+RO **1956** 779; FF **1953** III 781
+
 Texte original
 
 Conclue à Bruxelles, le 10 mai 1952 Approuvée par l’Assemblée fédérale le 17 mars 1954[^t-1] L’instrument d’adhésion déposé par la Suisse le 28 mai 1954 Entrée en vigueur pour la Suisse le 24 février 1956
 
-(Etat le 26 octobre 2012)
+(État le 25 juin 2024)
 
 [^t-1]: Ch. 8 de l’AF du 17 mars 1954 ([RO 1954 767](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
 
@@ -54,13 +56,13 @@ Dans la présente Convention, les expressions suivantes sont employées, avec le
 
 <sup>2.</sup> «Saisie» signifie l’immobilisation d’un navire avec l’autorisation de l’autorité judiciaire compétente pour garantie d’une créance maritime, mais ne comprend pas la saisie d’un navire pour l’exécution d’un titre.
 
-<sup>3.</sup> «Personne» comprend toute personne physique ou morale, société de personnes or de capitaux ainsi que les Etats, les Administrations et Etablissements publics.
+<sup>3.</sup> «Personne» comprend toute personne physique ou morale, société de personnes or de capitaux ainsi que les États, les Administrations et Établissements publics.
 
 <sup>4.</sup> «Demandeur» signifie une personne, invoquant à son profit, l’existence d’une créance maritime.
 
 #### Art. 2
 
-Un navire battant pavillon d’un des Etats contractants ne pourra être saisie dans le ressort d’un Etat Contractant qu’en vertu d’une créance maritime, mais rien dans les dispositions de la présente Convention ne pourra être considéré comme une extension ou une restriction des droits et pouvoirs que les Etats, Autorités publiques ou Autorités portuaires tiennent de leur loi interne ou de leurs règlements, de saisir, détenir ou autrement empêcher un navire de prendre la mer dans leur ressort.
+Un navire battant pavillon d’un des États contractants ne pourra être saisie dans le ressort d’un État Contractant qu’en vertu d’une créance maritime, mais rien dans les dispositions de la présente Convention ne pourra être considéré comme une extension ou une restriction des droits et pouvoirs que les États, Autorités publiques ou Autorités portuaires tiennent de leur loi interne ou de leurs règlements, de saisir, détenir ou autrement empêcher un navire de prendre la mer dans leur ressort.
 
 #### Art. 3
 
@@ -68,7 +70,7 @@ Un navire battant pavillon d’un des Etats contractants ne pourra être saisie 
 
 <sup>2.</sup> Des navires seront réputés avoir le même propriétaire lorsque toutes les parts de propriété appartiendront à une même ou aux mêmes personnes.
 
-<sup>3.</sup> Un navire ne peut être saisi et caution ou garantie ne sera donnée, plus d’une fois dans la juridiction d’un ou plusieurs des Etats Contractants, pour la même créance et par le même Demandeur; et si un navire est saisi dans une des dites juridictions et une caution ou une garantie a été donnée, soit pour obtenir la mainlevée de la saisie, soit pour éviter celle-ci, toute saisie ultérieure de ce navire, ou de n’importe quel autre navire, appartenant au même propriétaire, par le Demandeur et pour la même créance maritime, sera levée et le navire sera libéré par le Tribunal ou toute autre juridiction compétente du dit Etat, à moins que le Demandeur ne prouve, à la satisfaction du Tribunal ou de toute autre Autorité Judiciaire compétente, que la garantie ou la caution a été définitivement libérée avant que la saisie subséquente n’ait été pratiquée ou qu’il n’y ait une autre raison valable pour la maintenir.
+<sup>3.</sup> Un navire ne peut être saisi et caution ou garantie ne sera donnée, plus d’une fois dans la juridiction d’un ou plusieurs des États Contractants, pour la même créance et par le même Demandeur; et si un navire est saisi dans une des dites juridictions et une caution ou une garantie a été donnée, soit pour obtenir la mainlevée de la saisie, soit pour éviter celle-ci, toute saisie ultérieure de ce navire, ou de n’importe quel autre navire, appartenant au même propriétaire, par le Demandeur et pour la même créance maritime, sera levée et le navire sera libéré par le Tribunal ou toute autre juridiction compétente du dit État, à moins que le Demandeur ne prouve, à la satisfaction du Tribunal ou de toute autre Autorité Judiciaire compétente, que la garantie ou la caution a été définitivement libérée avant que la saisie subséquente n’ait été pratiquée ou qu’il n’y ait une autre raison valable pour la maintenir.
 
 <sup>4.</sup> Dans le cas d’un affrètement d’un navire avec remise de la gestion nautique, lorsque l’affréteur répond, seul, d’une créance maritime relative à ce navire, le Demandeur peut saisir ce navire ou tel autre appartenant à l’affréteur, en observant les dispositions de la présente Convention, mais nul autre navire appartenant au propriétaire ne peut être saisi en vertu de cette créance maritime.
 
@@ -76,7 +78,7 @@ L’alinéa qui précède s’applique également à tous les cas où une person
 
 #### Art. 4
 
-Un navire ne peut être saisi qu’avec l’autorisation d’un Tribunal ou de toute autre Autorité Judiciaire compétente de l’Etat Contractant dans lequel la saisie est pratiquée.
+Un navire ne peut être saisi qu’avec l’autorisation d’un Tribunal ou de toute autre Autorité Judiciaire compétente de l’État Contractant dans lequel la saisie est pratiquée.
 
 #### Art. 5
 
@@ -88,23 +90,23 @@ La demande de mainlevée de la saisie moyennant une telle garantie, ne pourra ê
 
 #### Art. 6
 
-Toutes contestations relatives à la responsabilité du Demandeur, pour dommages causés à la suite de la saisie du navire ou pour frais de caution ou de garantie fournies en vue de le libérer ou d’en empêcher la saisie seront réglées par la loi de l’Etat Contractant dans le ressort duquel la saisie a été pratiquée ou demandée.
+Toutes contestations relatives à la responsabilité du Demandeur, pour dommages causés à la suite de la saisie du navire ou pour frais de caution ou de garantie fournies en vue de le libérer ou d’en empêcher la saisie seront réglées par la loi de l’État Contractant dans le ressort duquel la saisie a été pratiquée ou demandée.
 
-Les règles de procédure relatives à la saisie d’un navire, à l’obtention de l’autorisation visée à l’art. 4 et à tous autres incidents de procédure qu’une saisie peut soulever sont régies par la loi de l’Etat Contractant dans lequel la saisie a été pratiquée ou demandée.
+Les règles de procédure relatives à la saisie d’un navire, à l’obtention de l’autorisation visée à l’art. 4 et à tous autres incidents de procédure qu’une saisie peut soulever sont régies par la loi de l’État Contractant dans lequel la saisie a été pratiquée ou demandée.
 
 #### Art. 7
 
 <sup>1.</sup>
 
-Les Tribunaux de l’Etat dans lequel la saisie a été opérée seront compétents pour statuer sur le fond du procès:
+Les Tribunaux de l’État dans lequel la saisie a été opérée seront compétents pour statuer sur le fond du procès:
 
-- – soit si ces Tribunaux sont compétents en vertu de la loi interne de l’Etat dans lequel la saisie est pratiquée;
+- – soit si ces Tribunaux sont compétents en vertu de la loi interne de l’État dans lequel la saisie est pratiquée;
 - –
 
   soit dans les cas suivants, nommément définis:
 
-  - a. Si le Demandeur a sa résidence habituelle ou son principal établissement dans l’Etat où la saisie a été pratiquée;
-  - b. Si la créance maritime est elle-même née dans l’Etat Contractant dont dépend le lieu de la saisie;
+  - a. Si le Demandeur a sa résidence habituelle ou son principal établissement dans l’État où la saisie a été pratiquée;
+  - b. Si la créance maritime est elle-même née dans l’État Contractant dont dépend le lieu de la saisie;
   - c. Si la créance maritime est née au cours d’un voyage pendant lequel la saisie a été faite;
   - d. Si la créance provient d’un abordage ou de circonstances visées par l’art. 13 de la Convention Internationale pour l’unification de certaines règles en matière d’abordage, signée à Bruxelles, le 23 septembre 1910[^7-1];
   - e. Si la créance est née d’une assistance ou d’un sauvetage;
@@ -123,13 +125,13 @@ Les Tribunaux de l’Etat dans lequel la saisie a été opérée seront compéte
 
 #### Art. 8
 
-<sup>1.</sup> Les dispositions de la présente Convention sont applicables dans tout Etat Contractant à tout navire battant pavillon d’un Etat Contractant.
+<sup>1.</sup> Les dispositions de la présente Convention sont applicables dans tout État Contractant à tout navire battant pavillon d’un État Contractant.
 
-<sup>2.</sup> Un navire battant pavillon d’un Etat non Contractant peut être saisi dans l’un des Etats Contractants, en vertu d’une des créances énumérées à l’art. 1, ou de toute autre créance permettant la saisie d’après la loi de cet Etat.
+<sup>2.</sup> Un navire battant pavillon d’un État non Contractant peut être saisi dans l’un des États Contractants, en vertu d’une des créances énumérées à l’art. 1, ou de toute autre créance permettant la saisie d’après la loi de cet État.
 
-<sup>3.</sup> Toutefois, chaque Etat Contractant peut refuser tout ou partie des avantages de la présente Convention à tout Etat non Contractant et à toute personne qui n’a pas, au jour de la saisie, sa résidence habituelle ou son principal établissement dans un Etat Contractant.
+<sup>3.</sup> Toutefois, chaque État Contractant peut refuser tout ou partie des avantages de la présente Convention à tout État non Contractant et à toute personne qui n’a pas, au jour de la saisie, sa résidence habituelle ou son principal établissement dans un État Contractant.
 
-<sup>4.</sup> Aucune disposition de la présente Convention ne modifiera ou n’affectera la loi interne des Etats Contractants en ce qui concerne la saisie d’un navire dans le ressort de l’Etat dont il bat pavillon par une personne ayant sa résidence habituelle ou son principal établissement dans cet Etat.
+<sup>4.</sup> Aucune disposition de la présente Convention ne modifiera ou n’affectera la loi interne des États Contractants en ce qui concerne la saisie d’un navire dans le ressort de l’État dont il bat pavillon par une personne ayant sa résidence habituelle ou son principal établissement dans cet État.
 
 <sup>5.</sup> Tout tiers, autre que le Demandeur originaire qui excipe d’une créance maritime par l’effet d’une subrogation, d’une cession ou autrement, sera réputé, pour l’application de la présente Convention, avoir la même résidence habituelle ou le même établissement principal que le créancier originaire.
 
@@ -150,29 +152,29 @@ Les Hautes Parties Contractantes peuvent au moment de la signature du dépôt de
 
 #### Art. 11
 
-Les Hautes Parties Contractantes s’engagent à soumettre à arbitrage tous différends entre Etats pouvant résulter de l’interprétation ou l’application de la présente Convention, sans préjudice toutefois des obligations des Hautes Parties Contractantes qui ont convenu de soumettre leurs différends à la Cour Internationale de Justice.
+Les Hautes Parties Contractantes s’engagent à soumettre à arbitrage tous différends entre États pouvant résulter de l’interprétation ou l’application de la présente Convention, sans préjudice toutefois des obligations des Hautes Parties Contractantes qui ont convenu de soumettre leurs différends à la Cour Internationale de Justice.
 
 #### Art. 12
 
-La présente Convention est ouverte à la signature des Etats représentés à la neuvième Conférence diplomatique de Droit Maritime. Le procès-verbal de signature sera dressé par les soins du Ministère des Affaires étrangères de Belgique.
+La présente Convention est ouverte à la signature des États représentés à la neuvième Conférence diplomatique de Droit Maritime. Le procès-verbal de signature sera dressé par les soins du Ministère des Affaires étrangères de Belgique.
 
 #### Art. 13
 
-La présente Convention sera ratifiée et les instruments de ratification seront déposés auprès du Ministère des Affaires étrangères de Belgique qui en notifiera le dépôt à tous les Etats signataires et adhérents.
+La présente Convention sera ratifiée et les instruments de ratification seront déposés auprès du Ministère des Affaires étrangères de Belgique qui en notifiera le dépôt à tous les États signataires et adhérents.
 
 #### Art. 14
 
-a. La présente Convention entrera en vigueur entre les deux premiers Etats qui l’auront ratifiée, six mois après la date du dépôt du deuxième instrument de ratification.
+a. La présente Convention entrera en vigueur entre les deux premiers États qui l’auront ratifiée, six mois après la date du dépôt du deuxième instrument de ratification.
 
-b. Pour chaque Etat signataire ratifiant la Convention après le deuxième dépôt, celle-ci entrera en vigueur six mois après la date du dépôt de son instrument de ratification.
+b. Pour chaque État signataire ratifiant la Convention après le deuxième dépôt, celle-ci entrera en vigueur six mois après la date du dépôt de son instrument de ratification.
 
 #### Art. 15
 
-Tout Etat non représenté à la neuvième Conférence diplomatique de Droit Maritime pourra adhérer à la présente Convention.
+Tout État non représenté à la neuvième Conférence diplomatique de Droit Maritime pourra adhérer à la présente Convention.
 
-Les adhésions seront notifiées au Ministère des Affaires étrangères de Belgique qui en avisera par la voie diplomatique tous les Etats signataires et adhérents.
+Les adhésions seront notifiées au Ministère des Affaires étrangères de Belgique qui en avisera par la voie diplomatique tous les États signataires et adhérents.
 
-La Convention entrera en vigueur pour l’Etat adhérent six mois après la date de réception de cette notification, mais pas avant la date de son entrée en vigueur telle qu’elle est fixée à l’art. 14*a*.
+La Convention entrera en vigueur pour l’État adhérent six mois après la date de réception de cette notification, mais pas avant la date de son entrée en vigueur telle qu’elle est fixée à l’art. 14*a*.
 
 #### Art. 16
 
@@ -190,86 +192,107 @@ a. Toute Haute Partie Contractante peut, au moment de la ratification, de l’ad
 
 b. Toute Haute Partie Contractante qui a souscrit une déclaration au titre du par. a de cet article pourra à tout moment aviser le Ministère des Affaires étrangères de Belgique que la Convention cesse de s’appliquer au Territoire en question. Cette dénonciation prendra effet dans le délai d’un an prévu à l’art. 17.
 
-c. Le Ministère des Affaires étrangères de Belgique avisera par la voie diplomatique tous les Etats signataires et adhérents de toute notification reçue par lui au titre du présent article.
+c. Le Ministère des Affaires étrangères de Belgique avisera par la voie diplomatique tous les États signataires et adhérents de toute notification reçue par lui au titre du présent article.
 
 Fait à Bruxelles, le 10 mai 1952, en langues française et anglaise, les deux textes faisant également foi.
 
 (Suivent les signatures)
 
-Champ d’application le 26 octobre 2012**[^t-2]**
+Champ d’application le 25 juin 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Algérie</td><td>18 août</td><td>1964 A</td><td>18 février</td><td>1965</td></tr>
-<tr><td colspan="2">Allemagne\*</td><td>6 octobre</td><td>1972</td><td>6 avril</td><td>1973</td></tr>
-<tr><td colspan="2">Belgique</td><td>10 avril</td><td>1961</td><td>10 octobre</td><td>1961</td></tr>
-<tr><td colspan="2">Cambodge\*</td><td>12 novembre</td><td>1956 A</td><td>12 mai</td><td>1957</td></tr>
-<tr><td colspan="2">Cameroun</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
-<tr><td colspan="2">[tab] Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Hong Kong<sup>a</sup> \*</td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Macao<sup>b</sup> <sup>\*</sup></td><td>18 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
-<tr><td colspan="2">Costa Rica\*</td><td>13 juillet</td><td>1955 A</td><td>24 février</td><td>1956</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>17 mars</td><td>1989 S</td><td>7 août</td><td>1960</td></tr>
-<tr><td colspan="2">Croatie</td><td>30 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba\*</td><td>21 novembre</td><td>1983 A</td><td>21 mai</td><td>1984</td></tr>
-<tr><td colspan="2">Danemark\*</td><td>2 mai</td><td>1989</td><td>2 novembre</td><td>1989</td></tr>
-<tr><td colspan="2">Egypte\*</td><td>24 août</td><td>1955</td><td>24 février</td><td>1956</td></tr>
-<tr><td colspan="2">Fidji\*</td><td>22 août</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
-<tr><td colspan="2">Finlande</td><td>21 décembre</td><td>1995</td><td>21 juin</td><td>1996</td></tr>
-<tr><td colspan="2">France</td><td>25 mai</td><td>1957</td><td>25 novembre</td><td>1957</td></tr>
-<tr><td colspan="2">Territoires français d’Outre-mer</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
-<tr><td colspan="2">Grèce</td><td>27 février</td><td>1967</td><td>27 août</td><td>1967</td></tr>
-<tr><td colspan="2">Guinée</td><td>12 décembre</td><td>1994 A</td><td>12 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Haïti</td><td>4 novembre</td><td>1954 A</td><td>24 février</td><td>1956</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>17 octobre</td><td>1989 A</td><td>17 avril</td><td>1990</td></tr>
-<tr><td colspan="2">Italie\*</td><td>9 novembre</td><td>1979</td><td>9 mai</td><td>1980</td></tr>
-<tr><td colspan="2">Lettonie</td><td>17 mai</td><td>1993 A</td><td>17 novembre</td><td>1993</td></tr>
-<tr><td colspan="2">Lituanie</td><td>29 avril</td><td>2002 A</td><td>29 octobre</td><td>2002</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 août</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 juillet</td><td>1965 S</td><td>26 juin</td><td>1960</td></tr>
-<tr><td colspan="2">Maroc</td><td>11 juillet</td><td>1990 A</td><td>11 janvier</td><td>1991</td></tr>
-<tr><td colspan="2">Namibie</td><td>14 mars</td><td>2002 A</td><td>14 septembre</td><td>2002</td></tr>
-<tr><td colspan="2">Nigéria\*</td><td>7 novembre</td><td>1963 A</td><td>7 mai</td><td>1964</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>1<sup>er</sup> novembre</td><td>1994</td><td>1<sup>er</sup> mai</td><td>1995</td></tr>
-<tr><td colspan="2">Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 mai</td><td>1968</td></tr>
-<tr><td colspan="2">Pays-Bas\*</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
-<tr><td colspan="2">Aruba</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
-<tr><td colspan="2">Curaçao</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
-<tr><td colspan="2">Pologne</td><td>16 juillet</td><td>1976 A</td><td>16 janvier</td><td>1977</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>4 mai</td><td>1957</td><td>4 novembre</td><td>1957</td></tr>
-<tr><td colspan="2">Roumanie</td><td>28 novembre</td><td>1995 A</td><td>28 mai</td><td>1996</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>18 mars</td><td>1959</td><td>18 septembre</td><td>1959</td></tr>
-<tr><td colspan="2">Anguilla\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Bermudes\*</td><td>30 mai</td><td>1963 A</td><td>30 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Gibraltar\*</td><td>29 mars</td><td>1963 A</td><td>29 septembre</td><td>1963</td></tr>
-<tr><td colspan="2">Guernesey\*</td><td>8 décembre</td><td>1966 A</td><td>8 juin</td><td>1967</td></tr>
-<tr><td colspan="2">Iles Cayman\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Iles Falkland et dépendances Géorgie du Sud et îles Sandwich du Sud)\*</td><td>17 octobre</td><td>1969 A</td><td>17 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Iles de Man\*</td><td>14 avril</td><td>1993</td><td>14 octobre</td><td>1993</td></tr>
-<tr><td colspan="2">Iles Turques et Caïques\*</td><td>21 septembre</td><td>1965 A</td><td>21 mars</td><td>1966</td></tr>
-<tr><td colspan="2">Iles Vierges britanniques\*</td><td>29 mai</td><td>1963 A</td><td>29 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Montserrat\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Sainte-Hélène\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Russie\*</td><td>29 avril</td><td>1999 A</td><td>29 octobre</td><td>1999</td></tr>
-<tr><td colspan="2">Sainte-Lucie</td><td>21 mars</td><td>1990 S</td><td>22 février</td><td>1979</td></tr>
-<tr><td colspan="2">Saint-Siège</td><td>10 août</td><td>1956</td><td>10 février</td><td>1957</td></tr>
-<tr><td colspan="2">Saint-Vincent-et-les Grenadines\*</td><td>29 octobre</td><td>2001 S</td><td>28 octobre</td><td>1979</td></tr>
-<tr><td colspan="2">Salomon, Iles\*</td><td>17 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
-<tr><td colspan="2">Serbie\*</td><td>25 juillet</td><td>1967</td><td>25 janvier</td><td>1968</td></tr>
-<tr><td colspan="2">Slovénie</td><td>13 octobre</td><td>1993 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Suède</td><td>30 avril</td><td>1993 A</td><td>30 octobre</td><td>1993</td></tr>
-<tr><td colspan="2">Suisse</td><td>28 mai</td><td>1954 A</td><td>24 février</td><td>1956</td></tr>
-<tr><td colspan="2">Syrie</td><td>3 février</td><td>1972 A</td><td>3 août</td><td>1972</td></tr>
-<tr><td colspan="2">Togo</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
-<tr><td colspan="2">Tonga\*</td><td>13 juin</td><td>1978 A</td><td>13 décembre</td><td>1978</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>16 novembre</td><td>2011 A</td><td>16 mai</td><td>2012</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td></td><td colspan="5">Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement belge: http://diplomatie.belgium.be/fr/traites/ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Du 29 sept. 1963 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Du 23 sept. 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 15 oct. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Algérie</td><td>18 août</td><td>1964 A</td><td>18 février</td><td>1965</td></tr>
+<tr><td>Allemagne\*</td><td>6 octobre</td><td>1972</td><td>6 avril</td><td>1973</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Bahamas</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Belgique</td><td>10 avril</td><td>1961</td><td>10 octobre</td><td>1961</td></tr>
+<tr><td>Belize</td><td>21 septembre</td><td>1965 A</td><td>21 mars</td><td>1966</td></tr>
+<tr><td>Bénin</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Burkina Faso</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Cambodge\*</td><td>12 novembre</td><td>1956 A</td><td>12 mai</td><td>1957</td></tr>
+<tr><td>Cameroun</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>[tab] Chine</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong<sup>a</sup> \*</td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao<sup>b</sup> <sup>\*</sup></td><td>18 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Comores</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
+<tr><td>Costa Rica\*</td><td>13 juillet</td><td>1955 A</td><td>24 février</td><td>1956</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17 mars</td><td>1989 S</td><td>7 août</td><td>1960</td></tr>
+<tr><td>Croatie</td><td>30 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td>21 novembre</td><td>1983 A</td><td>21 mai</td><td>1984</td></tr>
+<tr><td>Danemark\*</td><td>2 mai</td><td>1989</td><td>2 novembre</td><td>1989</td></tr>
+<tr><td>Djibouti</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Dominique</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Égypte\*</td><td>24 août</td><td>1955</td><td>24 février</td><td>1956</td></tr>
+<tr><td>Fidji\*</td><td>22 août</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
+<tr><td>Finlande</td><td>21 décembre</td><td>1995</td><td>21 juin</td><td>1996</td></tr>
+<tr><td>France</td><td>25 mai</td><td>1957</td><td>25 novembre</td><td>1957</td></tr>
+<tr><td>Territoires français d’outre-mer</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Gabon</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Grèce</td><td>27 février</td><td>1967</td><td>27 août</td><td>1967</td></tr>
+<tr><td>Grenade</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Guinée</td><td>12 décembre</td><td>1994 A</td><td>12 juin</td><td>1995</td></tr>
+<tr><td>Guyana</td><td>29 mars</td><td>1963 A</td><td>29 septembre</td><td>1963</td></tr>
+<tr><td>Haïti</td><td>4 novembre</td><td>1954 A</td><td>24 février</td><td>1956</td></tr>
+<tr><td>Îles Salomon\*</td><td>17 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Irlande\*</td><td>17 octobre</td><td>1989 A</td><td>17 avril</td><td>1990</td></tr>
+<tr><td>Italie\*</td><td>9 novembre</td><td>1979</td><td>9 mai</td><td>1980</td></tr>
+<tr><td>Kiribati</td><td>21 septembre</td><td>1965 A</td><td>21 mars</td><td>1966</td></tr>
+<tr><td>Lettonie</td><td>17 mai</td><td>1993 A</td><td>17 novembre</td><td>1993</td></tr>
+<tr><td>Lituanie</td><td>29 avril</td><td>2002 A</td><td>29 octobre</td><td>2002</td></tr>
+<tr><td>Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 août</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 juillet</td><td>1965 S</td><td>26 juin</td><td>1960</td></tr>
+<tr><td>Mali</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Maroc</td><td>11 juillet</td><td>1990 A</td><td>11 janvier</td><td>1991</td></tr>
+<tr><td>Maurice</td><td>29 mars</td><td>1963 A</td><td>29 septembre</td><td>1963</td></tr>
+<tr><td>Mauritanie</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Namibie</td><td>14 mars</td><td>2002 A</td><td>14 septembre</td><td>2002</td></tr>
+<tr><td>Niger</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Nigéria\*</td><td>7 novembre</td><td>1963 A</td><td>7 mai</td><td>1964</td></tr>
+<tr><td>Norvège\*</td><td>1<sup>er</sup> novembre</td><td>1994</td><td>1<sup>er</sup> mai</td><td>1995</td></tr>
+<tr><td>Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 mai</td><td>1968</td></tr>
+<tr><td>Pays-Bas\*</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
+<tr><td>Aruba</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
+<tr><td>Curaçao</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
+<tr><td>Sint Maarten</td><td>20 janvier</td><td>1983</td><td>20 juillet</td><td>1983</td></tr>
+<tr><td>Pologne</td><td>16 juillet</td><td>1976 A</td><td>16 janvier</td><td>1977</td></tr>
+<tr><td>Portugal\*</td><td>4 mai</td><td>1957</td><td>4 novembre</td><td>1957</td></tr>
+<tr><td>République centrafricaine</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Roumanie</td><td>28 novembre</td><td>1995 A</td><td>28 mai</td><td>1996</td></tr>
+<tr><td>Royaume-Uni\*</td><td>18 mars</td><td>1959</td><td>18 septembre</td><td>1959</td></tr>
+<tr><td>Anguilla\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Bermudes\*</td><td>30 mai</td><td>1963 A</td><td>30 novembre</td><td>1963</td></tr>
+<tr><td>Gibraltar\*</td><td>29 mars</td><td>1963 A</td><td>29 septembre</td><td>1963</td></tr>
+<tr><td>Guernesey\*</td><td>8 décembre</td><td>1966 A</td><td>8 juin</td><td>1967</td></tr>
+<tr><td>Îles Cayman\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Îles Falkland et dépendances Géorgie du Sud et îles Sandwich du Sud)\*</td><td>17 octobre</td><td>1969 A</td><td>17 avril</td><td>1970</td></tr>
+<tr><td>Îles de Man\*</td><td>14 avril</td><td>1993</td><td>14 octobre</td><td>1993</td></tr>
+<tr><td>Îles Turques et Caïques\*</td><td>21 septembre</td><td>1965 A</td><td>21 mars</td><td>1966</td></tr>
+<tr><td>Îles Vierges britanniques\*</td><td>29 mai</td><td>1963 A</td><td>29 novembre</td><td>1963</td></tr>
+<tr><td>Montserrat\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Sainte-Hélène\*</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Russie\*</td><td>29 avril</td><td>1999 A</td><td>29 octobre</td><td>1999</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>12 mai</td><td>1965 A</td><td>12 novembre</td><td>1965</td></tr>
+<tr><td>Saint-Marin</td><td>6 mai</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
+<tr><td>Saint-Siège</td><td>10 août</td><td>1956</td><td>10 février</td><td>1957</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines\*</td><td>29 octobre</td><td>2001 S</td><td>28 octobre</td><td>1979</td></tr>
+<tr><td>Sainte-Lucie</td><td>21 mars</td><td>1990 S</td><td>22 février</td><td>1979</td></tr>
+<tr><td>Sénégal</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Serbie\*</td><td>25 juillet</td><td>1967</td><td>25 janvier</td><td>1968</td></tr>
+<tr><td>Seychelles</td><td>29 mars</td><td>1963 A</td><td>29 septembre</td><td>1963</td></tr>
+<tr><td>Slovénie</td><td>13 octobre</td><td>1993 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Suède</td><td>30 avril</td><td>1993 A</td><td>30 octobre</td><td>1993</td></tr>
+<tr><td>Suisse</td><td>28 mai</td><td>1954 A</td><td>24 février</td><td>1956</td></tr>
+<tr><td>Syrie</td><td>3 février</td><td>1972 A</td><td>3 août</td><td>1972</td></tr>
+<tr><td>Tchad</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Togo</td><td>23 avril</td><td>1958 A</td><td>23 octobre</td><td>1958</td></tr>
+<tr><td>Tonga\*</td><td>13 juin</td><td>1978 A</td><td>13 décembre</td><td>1978</td></tr>
+<tr><td>Tuvalu</td><td>21 septembre</td><td>1965 A</td><td>21 mars</td><td>1966</td></tr>
+<tr><td>Ukraine\*</td><td>16 novembre</td><td>2011 A</td><td>16 mai</td><td>2012</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français peuvent être consultés à l’adresse du site internet du Ministère des Affaires étrangères de Belgique: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 29 sept. 1963 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 23 sept. 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 15 oct. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 1973 569](https://fedlex.data.admin.ch/eli/oc/1973/568_569_569), [1982 1943](https://fedlex.data.admin.ch/eli/oc/1982/1943_1943_1943),[1983 1322](https://fedlex.data.admin.ch/eli/oc/1983/1322_1322_1322), [1984 571](https://fedlex.data.admin.ch/eli/oc/1984/571_571_571)**,** [1989 536](https://fedlex.data.admin.ch/eli/oc/1989/536_536_536), [1990 1731](https://fedlex.data.admin.ch/eli/oc/1990/1731_1731_1731), [2005 2337](https://fedlex.data.admin.ch/eli/oc/2005/399), [2013 281](https://fedlex.data.admin.ch/eli/oc/2013/41). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1956 779](https://fedlex.data.admin.ch/eli/oc/1956/723_779_787); [1973 569](https://fedlex.data.admin.ch/eli/oc/1973/568_569_569); [1982 1943](https://fedlex.data.admin.ch/eli/oc/1982/1943_1943_1943); [1983 1322](https://fedlex.data.admin.ch/eli/oc/1983/1322_1322_1322); [1984 571](https://fedlex.data.admin.ch/eli/oc/1984/571_571_571); [1989 536](https://fedlex.data.admin.ch/eli/oc/1989/536_536_536); [1990 1731](https://fedlex.data.admin.ch/eli/oc/1990/1731_1731_1731); [2005 2337](https://fedlex.data.admin.ch/eli/oc/2005/399); [2013 281](https://fedlex.data.admin.ch/eli/oc/2013/41); [2024 318](https://fedlex.data.admin.ch/eli/oc/2024/318). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
