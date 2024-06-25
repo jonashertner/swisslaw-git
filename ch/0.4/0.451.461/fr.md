@@ -3,16 +3,16 @@ sr: "0.451.461"
 title: "Accord du 4 décembre 1991 relatif à la conservation des populations de chauves-souris d'Europe (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/481"
 language: fr
-version: 2019-03-20
+version: 2024-06-26
 adopted: 1991-12-04
 in_force: 2013-07-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20190320/fr/xml/fedlex-data-admin-ch-eli-cc-2013-481-20190320-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20190320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20240626/fr/xml/fedlex-data-admin-ch-eli-cc-2013-481-20240626-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20240626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord relatif à la conservation des populations de chauves‑souris d’Europe****
+# Accord relatif à la conservation des populations de chauves‑souris d’Europe
 
 RO **2013** 2301[^t-1]
 
@@ -24,7 +24,7 @@ Instrument d’adhésion déposé par la Suisse le 27 juin 2013
 
 Entré en vigueur pour la Suisse le 27 juillet 2013
 
-(Etat le 20 mars 2019)
+(État le 26 juin 2024)
 
 [^t-1]: Texte tel qu’amendé par la Résolution adoptée lors de la réunion des Parties contractantes à l’Accord, déroulée à Bristol du 18 au 20 juil. 1995 et par la Résolution 3.7 adoptée lors de la troisième session de la réunion des Parties contractantes à l’Accord, déroulée à Bristol du 24 au 26 juil. 2000.
 
@@ -32,13 +32,13 @@ Les Parties contractantes,
 
 rappelant la Convention sur la conservation des espèces migratrices appartenant à la faune sauvage[^ingress-1] ouverte à la signature à Bonn le 23 juin 1979;
 
-reconnaissant l’état défavorable de la conservation des chauves-souris en Europe et dans des Etats non Européens de leur aire de répartition et en particulier la sérieuse menace que font peser sur elles la dégradation des habitats, la perturbation de leurs gîtes et certains pesticides;
+reconnaissant l’état défavorable de la conservation des chauves-souris en Europe et dans des États non Européens de leur aire de répartition et en particulier la sérieuse menace que font peser sur elles la dégradation des habitats, la perturbation de leurs gîtes et certains pesticides;
 
-conscientes que les menaces auxquelles sont exposées les chauves-souris en Europe et dans des Etats non européens de leur aire de répartition, sont communes aux espèces migratrices et non migratrices et que les gîtes sont souvent partagés par des espèces migratrices et non migratrices;
+conscientes que les menaces auxquelles sont exposées les chauves-souris en Europe et dans des États non européens de leur aire de répartition, sont communes aux espèces migratrices et non migratrices et que les gîtes sont souvent partagés par des espèces migratrices et non migratrices;
 
-rappelant que la première session de la Conférence des Parties à la Convention sur la conservation des espèces migratrices appartenant à la faune sauvage, que s’est tenue à Bonn en octobre 1985, a convenu d’ajouter des espèces européennes de *Microch**i**roptera* (*Molossidae*, *Rhinolophidae* et *Vespertilionidae*) à l’annexe II de la Convention et a chargé le Secrétariat de la Convention de prendre les mesures voulues pour élaborer un Accord portant sur ces espèces;
+rappelant que la première session de la Conférence des Parties à la Convention sur la conservation des espèces migratrices appartenant à la faune sauvage, que s’est tenue à Bonn en octobre 1985, a convenu d’ajouter des espèces européennes de *Microchiroptera* (*Molossidae*, *Rhinolophidae* et *Vespertilionidae*) à l’annexe II de la Convention et a chargé le Secrétariat de la Convention de prendre les mesures voulues pour élaborer un Accord portant sur ces espèces;
 
-convaincues que la conclusion d’un Accord pour ces espèces serait dans le plus grand intérêt de la conservation des chauves-souris en Europe et dans les Etats non européens de leur aire de répartition;
+convaincues que la conclusion d’un Accord pour ces espèces serait dans le plus grand intérêt de la conservation des chauves-souris en Europe et dans les États non européens de leur aire de répartition;
 
 sont convenues de ce qui suit:
 
@@ -51,9 +51,9 @@ sont convenues de ce qui suit:
 Aux fins du présent Accord:
 
 - a) le terme «Convention» désigne la Convention sur la conservation des espèces;
-- b) le terme «Chauves-souris» désigne les populations européennes de *Chiro**p**tera* mentionnées dans l’Annexe 1 de cet Accord se trouvant en Europe ou dans des Etats non européens de leur aire de répartition;
-- c) les termes «Etat de l’aire de répartition» désignent tout Etat (qu’il soit ou non Partie à la Convention) qui exerce sa juridiction sur une partie quelconque de l’aire de répartition d’une espèce visée par le présent Accord;
-- d) les termes «Organisation d’intégration économique régionale» désignent une organisation constituée par des Etats souverains auxquels s’applique le présent Accord et qui a compétence dans les domaines sur lesquels porte le présent Accord et a été dûment autorisée, conformément à son règlement intérieur, à le signer, le ratifier, l’accepter, l’approuver ou y adhérer;
+- b) le terme «Chauves-souris» désigne les populations européennes de *Chiroptera* mentionnées dans l’Annexe 1 de cet Accord se trouvant en Europe ou dans des États non européens de leur aire de répartition;
+- c) les termes «État de l’aire de répartition» désignent tout État (qu’il soit ou non Partie à la Convention) qui exerce sa juridiction sur une partie quelconque de l’aire de répartition d’une espèce visée par le présent Accord;
+- d) les termes «Organisation d’intégration économique régionale» désignent une organisation constituée par des États souverains auxquels s’applique le présent Accord et qui a compétence dans les domaines sur lesquels porte le présent Accord et a été dûment autorisée, conformément à son règlement intérieur, à le signer, le ratifier, l’accepter, l’approuver ou y adhérer;
 - e) le terme «Parties» désigne, sauf indication contraire du contexte, les Parties au présent Accord;
 - f) les termes «en Europe» désignent le continent européen.
 
@@ -107,11 +107,11 @@ Aux fins du présent Accord:
 
 <sup>2.</sup> Lors de leurs réunions, les Parties peuvent, si elles jugent bon de le faire, établir des groupes scientifiques et d’autres groupes de travail.
 
-<sup>3.</sup> Toute Etat de l’aire de répartition ou toute Organisation d’intégration économique régionale qui n’est pas Partie au présent Accord, le Secrétariat de la Convention, le Conseil de l’Europe en sa qualité de Secrétariat de la Convention sur la conservation de la faune sauvage et du milieu naturel en Europe, et des organisation intergouvernementales similaires peuvent être représentées par des observateurs aux réunions des Parties. Toute agence ou tout organisme techniquement compétent en matière de conservation et de gestion des chauves-souris peut être représentée par des observateurs aux réunions des parties à moins qu’un tiers au moins des Parties présentes ne s’y oppose. Seules les Parties ont le droit de vote aux réunions des Parties.
+<sup>3.</sup> Toute État de l’aire de répartition ou toute Organisation d’intégration économique régionale qui n’est pas Partie au présent Accord, le Secrétariat de la Convention, le Conseil de l’Europe en sa qualité de Secrétariat de la Convention sur la conservation de la faune sauvage et du milieu naturel en Europe, et des organisation intergouvernementales similaires peuvent être représentées par des observateurs aux réunions des Parties. Toute agence ou tout organisme techniquement compétent en matière de conservation et de gestion des chauves-souris peut être représentée par des observateurs aux réunions des parties à moins qu’un tiers au moins des Parties présentes ne s’y oppose. Seules les Parties ont le droit de vote aux réunions des Parties.
 
 <sup>4.</sup> Sous réserve des dispositions du par. 5 ci-après, chaque partie au présent Accord dispose d’une voix.
 
-<sup>5.</sup> Les Organisations d’intégration économique régionale qui sont Parties au présent Accord exercent, dans les domaines qui sont de leur compétence, leur droit de vote avec un nombre de voix égal au nombre de leurs Etats membres qui sont Parties à l’Accord et présents au moment du vote. Une Organisation d’intégration économique régionale n’exerce pas son droit de vote si ses Etats membres exercent de leur, et vice versa.
+<sup>5.</sup> Les Organisations d’intégration économique régionale qui sont Parties au présent Accord exercent, dans les domaines qui sont de leur compétence, leur droit de vote avec un nombre de voix égal au nombre de leurs États membres qui sont Parties à l’Accord et présents au moment du vote. Une Organisation d’intégration économique régionale n’exerce pas son droit de vote si ses États membres exercent de leur, et vice versa.
 
 #### Art. VI
 
@@ -137,16 +137,16 @@ Chaque Partie soumet à chaque réunion de Parties un rapport à jour sur l’ap
 
 <sup>7.</sup>
 
-Tout Etat qui devient Partie à l’Accord après l’entrée en vigueur d’un amendement est, faute d’avoir exprimé une intention différente, considéré comme étant:
+Tout État qui devient Partie à l’Accord après l’entrée en vigueur d’un amendement est, faute d’avoir exprimé une intention différente, considéré comme étant:
 
-- a) Partie à l’Accord tel qu’il est amendé; et
+- a) Partie à l’Accord tel qu’il est amendé, et
 - b) Partie à l’Accord non amendé au regard de toute Partie à l’Accord qui n’est pas liée par l’accord portant l’amendement.
 
 #### Art. VIII
 
 **Réserves**
 
-Les dispositions du présent Accord ne peuvent pas faire l’objet de réserves générales. Cependant, un Etat de l’aire de répartition ou une Organisation d’intégration économique régionale peut, au moment où il devient Partie conformément à l’art. X ou XI, émettre une réserve spécifique en ce qui concerne toute espèce particulière de chauve-souris.
+Les dispositions du présent Accord ne peuvent pas faire l’objet de réserves générales. Cependant, un État de l’aire de répartition ou une Organisation d’intégration économique régionale peut, au moment où il devient Partie conformément à l’art. X ou XI, émettre une réserve spécifique en ce qui concerne toute espèce particulière de chauve-souris.
 
 #### Art. IX
 
@@ -162,7 +162,7 @@ Les instruments de ratification, d’acceptation ou d’approbation seront dépo
 
 Le présent Accord restera ouvert à la signature jusqu’à la date de son entrée en vigueur.
 
-Le présent Accord sera ouvert à la signature par les Etats de l’aire de répartition ou les organisations d’intégration économique régionale qui pourront en devenir Parties soit:
+Le présent Accord sera ouvert à la signature par les États de l’aire de répartition ou les organisations d’intégration économique régionale qui pourront en devenir Parties soit:
 
 - a) par signature sans réserves en ce qui concernera la ratification, l’acceptation ou l’approbation; soit
 - b) par signature avec des réserves en ce qui concernera la ratification, l’acceptation ou l’approbation, suivie d’une ratification, d’une acceptation ou d’une approbation.
@@ -171,13 +171,13 @@ Le présent Accord sera ouvert à la signature par les Etats de l’aire de rép
 
 **Adhésion**
 
-Les Etats de l’aire de répartition ou les Organisations d’intégration économique régionale pourront adhérer au présent Accord après sa date d’entrée en vigueur. Les instruments d’adhésion seront déposés auprès du Dépositaire.
+Les États de l’aire de répartition ou les Organisations d’intégration économique régionale pourront adhérer au présent Accord après sa date d’entrée en vigueur. Les instruments d’adhésion seront déposés auprès du Dépositaire.
 
 #### Art. XII
 
 **Entrée en vigueur**
 
-Le présent Accord entrera en vigueur le quatre-vingt-dixième jour après la date à laquelle cinq Etats de l’aire de répartition en seront devenus Parties conformément à l’art. X. Par la suite, il entrera en vigueur pour un Etat signataire ou adhérent le trentième jour après la date de dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+Le présent Accord entrera en vigueur le quatre-vingt-dixième jour après la date à laquelle cinq États de l’aire de répartition en seront devenus Parties conformément à l’art. X. Par la suite, il entrera en vigueur pour un État signataire ou adhérent le trentième jour après la date de dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. XIII
 
@@ -189,9 +189,9 @@ Toute Partie pourra, à tout moment, dénoncer le présent Accord par notificati
 
 **Dépositaire**
 
-Le texte original de l’Accord, en langues anglaise, française et allemande, chaque texte faisant également foi, sera déposé auprès du Gouvernement du Royaume-Uni, qui en sera le Dépositaire et adressera des copies certifiées confirmes dudit Accord à tous les Etats et à toutes les Organisations d’intégration économique régionale qui auront signé l’Accord ou auront déposé des instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
+Le texte original de l’Accord, en langues anglaise, française et allemande, chaque texte faisant également foi, sera déposé auprès du Gouvernement du Royaume-Uni, qui en sera le Dépositaire et adressera des copies certifiées confirmes dudit Accord à tous les États et à toutes les Organisations d’intégration économique régionale qui auront signé l’Accord ou auront déposé des instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-Le Dépositaire informera tous les Etats de l’aire de répartition et toutes les Organisations d’intégration économique régionale des signatures, du dépôt d’instruments de ratification, d’acceptation, d’approbation ou d’adhésion, de l’entrée en vigueur du présent Accord, des amendements qui y seront apportés, des réserves et des notifications de dénonciation.
+Le Dépositaire informera tous les États de l’aire de répartition et toutes les Organisations d’intégration économique régionale des signatures, du dépôt d’instruments de ratification, d’acceptation, d’approbation ou d’adhésion, de l’entrée en vigueur du présent Accord, des amendements qui y seront apportés, des réserves et des notifications de dénonciation.
 
 *En* *foi* *de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Londres, le quatre décembre mil neuf cent quatre-vingt-onze. (Suivent les signatures)
 
@@ -285,17 +285,19 @@ Annexe 1
 
 *Tadarida teniotis* (Rafinesque, 1814)
 
-Champ d’application le 20 mars 2019**[^t-2]**
+Champ d’application le 26 juin 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>22 mars</td><td>2001 A</td><td>21 avril</td><td>2001</td></tr>
 <tr><td>Allemagne</td><td>18 octobre</td><td>1993</td><td>16 janvier</td><td>1994</td></tr>
 <tr><td>Belgique\*</td><td>14 mai</td><td>2003</td><td>13 juin</td><td>2003</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>22 juillet</td><td>2021 A</td><td>21 août</td><td>2021</td></tr>
 <tr><td>Bulgarie</td><td>9 novembre</td><td>1999 A</td><td>9 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>13 novembre</td><td>2012 A</td><td>13 décembre</td><td>2012</td></tr>
 <tr><td>Croatie</td><td>8 août</td><td>2000 A</td><td>7 septembre</td><td>2000</td></tr>
 <tr><td>Danemark</td><td>6 janvier</td><td>1994</td><td>5 février</td><td>1994</td></tr>
+<tr><td>Espagne</td><td>13 juin</td><td>2024 A</td><td>13 juillet</td><td>2024</td></tr>
 <tr><td>Estonie\*</td><td>11 novembre</td><td>2004 A</td><td>11 décembre</td><td>2004</td></tr>
 <tr><td>Finlande</td><td>20 septembre</td><td>1999 A</td><td>20 octobre</td><td>1999</td></tr>
 <tr><td>France</td><td>7 juillet</td><td>1995</td><td>6 août</td><td>1995</td></tr>
@@ -318,21 +320,21 @@ Champ d’application le 20 mars 2019**[^t-2]**
 <tr><td>Portugal</td><td>10 janvier</td><td>1996</td><td>9 février</td><td>1996</td></tr>
 <tr><td>Açores</td><td>20 septembre</td><td>2010</td><td>20 septembre</td><td>2010</td></tr>
 <tr><td>Madère</td><td>20 septembre</td><td>2010</td><td>20 septembre</td><td>2010</td></tr>
+<tr><td>République tchèque</td><td>24 février</td><td>1994 A</td><td>26 mars</td><td>1994</td></tr>
 <tr><td>Roumanie</td><td>20 juillet</td><td>2000 A</td><td>19 août</td><td>2000</td></tr>
 <tr><td>Royaume-Uni</td><td>9 septembre</td><td>1992</td><td>16 janvier</td><td>1994</td></tr>
 <tr><td>Gibraltar</td><td>9 septembre</td><td>1992</td><td>16 janvier</td><td>1994</td></tr>
 <tr><td>Guernesey</td><td>23 juin</td><td>1999</td><td>23 juin</td><td>1999</td></tr>
-<tr><td>Ile de Man</td><td>9 septembre</td><td>1992</td><td>16 janvier</td><td>1994</td></tr>
+<tr><td>Île de Man</td><td>9 septembre</td><td>1992</td><td>16 janvier</td><td>1994</td></tr>
 <tr><td>Jersey</td><td>29 octobre</td><td>2001</td><td>29 octobre</td><td>2001</td></tr>
-<tr><td>République tchèque</td><td>24 février</td><td>1994 A</td><td>26 mars</td><td>1994</td></tr>
 <tr><td>Saint-Marin</td><td>9 avril</td><td>2009 A</td><td>9 mai</td><td>2009</td></tr>
 <tr><td>Serbie</td><td>8 février</td><td>2019 A</td><td>10 mars</td><td>2019</td></tr>
 <tr><td>Slovaquie</td><td>9 juillet</td><td>1998 A</td><td>8 août</td><td>1998</td></tr>
 <tr><td>Slovénie</td><td>5 décembre</td><td>2003 A</td><td>4 janvier</td><td>2004</td></tr>
-<tr><td>Suisse</td><td>27 juin</td><td>2013 A</td><td>27 juillet</td><td>2013</td></tr>
 <tr><td>Suède</td><td>4 mars</td><td>1992 Si</td><td>16 janvier</td><td>1994</td></tr>
+<tr><td>Suisse</td><td>27 juin</td><td>2013 A</td><td>27 juillet</td><td>2013</td></tr>
 <tr><td>Ukraine</td><td>30 septembre</td><td>1999 A</td><td>30 octobre</td><td>1999</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement du Royaume-Uni: www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement du Royaume-Uni [www.gov.uk](http://www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481), [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481); [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200); [2024 326](https://fedlex.data.admin.ch/eli/oc/2024/326). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

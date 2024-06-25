@@ -3,16 +3,16 @@ sr: "0.451.461"
 title: Abkommen vom 4. Dezember 1991 zur Erhaltung der europäischen Fledermauspopulationen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/481"
 language: de
-version: 2019-03-20
+version: 2024-06-26
 adopted: 1991-12-04
 in_force: 2013-07-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20190320/de/xml/fedlex-data-admin-ch-eli-cc-2013-481-20190320-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20190320/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20240626/de/xml/fedlex-data-admin-ch-eli-cc-2013-481-20240626-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20240626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zur Erhaltung der europäischen Fledermauspopulationen****
+# Abkommen zur Erhaltung der europäischen Fledermauspopulationen
 
 AS **2013** 2301[^t-1]
 
@@ -24,7 +24,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 27. Juni 2013
 
 In Kraft getreten für die Schweiz am 27. Juli 2013
 
-(Stand am 20. März 2019)
+(Stand am 26. Juni 2024)
 
 [^t-1]: Text geändert gemäss Entschliessung angenommen an der Tagung der Vertragsparteien in Bristol vom 18.–20. Juli 1995 und Entschliessung 3.7, angenommen an der 3. Tagung der Vertragsparteien in Bristol vom 24.–26. Juli 2000.
 
@@ -36,7 +36,7 @@ in Erkenntnis der ungünstigen Erhaltungssituation der Fledermäuse in Europa un
 
 in dem Bewusstsein, dass die Gefahren für Fledermäuse in Europa und aussereuropäischen Arealstaaten sowohl für die wandernden als auch für die nichtwandernden Arten bestehen und dass die Ruheplätze oft von wandernden und nichtwandernden Arten gemeinsam benutzt werden;
 
-unter Hinweis darauf, dass die erste Tagung der Konferenz der Vertragsparteien des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten im Oktober 1985 in Bonn vereinbart hat, europäische Arten der *Microch**i**roptera* (*Molossidae*, *Rhinolophidae* und *Vespertilionidae*) in Anhang II des Übereinkommens aufzunehmen, und das Sekretariat des Übereinkommens angewiesen hat, geeignete Massnahmen zur Ausarbeitung eines Abkommens für diese Arten zu treffen;
+unter Hinweis darauf, dass die erste Tagung der Konferenz der Vertragsparteien des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten im Oktober 1985 in Bonn vereinbart hat, europäische Arten der *Microchiroptera* (*Molossidae*, *Rhinolophidae* und *Vespertilionidae*) in Anhang II des Übereinkommens aufzunehmen, und das Sekretariat des Übereinkommens angewiesen hat, geeignete Massnahmen zur Ausarbeitung eines Abkommens für diese Arten zu treffen;
 
 überzeugt, dass der Abschluss eines Abkommens für diese Arten für die Erhaltung der Fledermäuse in Europa und in ihren aussereuropäischen Arealstaaten von grossem Vorteil wäre,
 
@@ -285,12 +285,13 @@ Anhang 1
 
 [^annex1-lvlu1-1]: Unter dem Vorbehalt der Anerkennung durch die internationale Kommission für zoologische Nomenklatur.
 
-Geltungsbereich am 20. März 2019**[^t-2]**
+Geltungsbereich am 26. Juni 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>22. März</td><td>2001 B</td><td>21. April</td><td>2001</td></tr>
 <tr><td>Belgien\*</td><td>14. Mai</td><td>2003</td><td>13. Juni</td><td>2003</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>22. Juli</td><td>2021 B</td><td>21. August</td><td>2021</td></tr>
 <tr><td>Bulgarien</td><td>9. November</td><td>1999 B</td><td>9. Dezember</td><td>1999</td></tr>
 <tr><td>Deutschland</td><td>18. Oktober</td><td>1993</td><td>16. Januar</td><td>1994</td></tr>
 <tr><td>Dänemark</td><td>6. Januar</td><td>1994</td><td>5. Februar</td><td>1994</td></tr>
@@ -323,6 +324,7 @@ Geltungsbereich am 20. März 2019**[^t-2]**
 <tr><td>Serbien</td><td>8. Februar</td><td>2019 B</td><td>10. März</td><td>2019</td></tr>
 <tr><td>Slowakei</td><td>9. Juli</td><td>1998 B</td><td>8. August</td><td>1998</td></tr>
 <tr><td>Slowenien</td><td>5. Dezember</td><td>2003 B</td><td>4. Januar</td><td>2004</td></tr>
+<tr><td>Spanien</td><td>13. Juni</td><td>2024 B</td><td>13. Juli</td><td>2024</td></tr>
 <tr><td>Tschechische Republik</td><td>24. Februar</td><td>1994 B</td><td>26. März</td><td>1994</td></tr>
 <tr><td>Ukraine</td><td>30. September</td><td>1999 B</td><td>30. Oktober</td><td>1999</td></tr>
 <tr><td>Ungarn</td><td>22. Juni</td><td>1994 B</td><td>22. Juli</td><td>1994</td></tr>
@@ -332,7 +334,7 @@ Geltungsbereich am 20. März 2019**[^t-2]**
 <tr><td>Insel Man</td><td>9. September</td><td>1992</td><td>16. Januar</td><td>1994</td></tr>
 <tr><td>Jersey</td><td>29. Oktober</td><td>2001</td><td>29. Oktober</td><td>2001</td></tr>
 <tr><td>Zypern</td><td>13. November</td><td>2012 B</td><td>13. Dezember</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der britischer Regierung: www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der britischer Regierung: www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481), [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200). Eine aktualisierte Fassung des Geltungsbereichs findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481); [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200); [2024 326](https://fedlex.data.admin.ch/eli/oc/2024/326). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

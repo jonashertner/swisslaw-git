@@ -3,28 +3,24 @@ sr: "0.451.461"
 title: Accordo del 4 dicembre 1991 sulla conservazione delle popolazioni dei pipistrelli europei (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/481"
 language: it
-version: 2019-03-20
+version: 2024-06-26
 adopted: 1991-12-04
 in_force: 2013-07-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20190320/it/xml/fedlex-data-admin-ch-eli-cc-2013-481-20190320-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20190320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/481/20240626/it/xml/fedlex-data-admin-ch-eli-cc-2013-481-20240626-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/481/20240626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo sulla conservazione delle popolazioni dei pipistrelli europei****
+# Accordo sulla conservazione delle popolazioni dei pipistrelli europei
 
 RU **2013** 2301[^t-1]
 
 Traduzione
 
-Concluso a Londra il 4 dicembre 1991
+Concluso a Londra il 4 dicembre 1991 Ratificato dalla Svizzera con strumento depositato il 27 giugno 2013 Entrato in vigore per la Svizzera il 27 luglio 2013
 
-Ratificato dalla Svizzera con strumento depositato il 27 giugno 2013
-
-Entrato in vigore per la Svizzera il 27 luglio 2013
-
-(Stato 20 marzo 2019)
+(Stato 26 giugno 2024)
 
 [^t-1]: Testo emendato conformemente alla Ris. adottata alla riunione delle Parti contraenti svoltasi a Bristol dal 18 al 20 lug. 1995 e alla Ris. 3.7 adottata nella terza riunione delle Parti contraenti, svoltasi a Bristol dal 24 al 26 lug. 2000.
 
@@ -285,54 +281,56 @@ Allegato 1
 
 [^annex1-lvlu1-1]: Previa approvazione del nome da parte della Commissione Internazionale di Nomenclatura Zoologica.
 
-Campo d’applicazione il 20 marzo 2019**[^t-2]**
+Campo d’applicazione il 26 giugno 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firma senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania</td><td>22 marzo</td><td>2001 A</td><td>21 aprile</td><td>2001</td></tr>
-<tr><td>Belgio\*</td><td>14 maggio</td><td>2003</td><td>13 giugno</td><td>2003</td></tr>
-<tr><td>Bulgaria</td><td>9 novembre</td><td>1999 A</td><td>9 dicembre</td><td>1999</td></tr>
-<tr><td>Ceca, Repubblica</td><td>24 febbraio</td><td>1994 A</td><td>26 marzo</td><td>1994</td></tr>
-<tr><td>Cipro</td><td>13 novembre</td><td>2012 A</td><td>13 dicembre</td><td>2012</td></tr>
-<tr><td>Croazia</td><td>8 agosto</td><td>2000 A</td><td>7 settembre</td><td>2000</td></tr>
-<tr><td>Danimarca</td><td>6 gennaio</td><td>1994</td><td>5 febbraio</td><td>1994</td></tr>
-<tr><td>Estonia\*</td><td>11 novembre</td><td>2004 A</td><td>11 dicembre</td><td>2004</td></tr>
-<tr><td>Finlandia</td><td>20 settembre</td><td>1999 A</td><td>20 ottobre</td><td>1999</td></tr>
-<tr><td>Francia</td><td>7 luglio</td><td>1995</td><td>6 agosto</td><td>1995</td></tr>
-<tr><td>Georgia</td><td>25 luglio</td><td>2002 A</td><td>24 agosto</td><td>2002</td></tr>
-<tr><td>Germania</td><td>18 ottobre</td><td>1993</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Irlanda</td><td>21 giugno</td><td>1995</td><td>21 luglio</td><td>1995</td></tr>
-<tr><td>Israele\*</td><td>15 dicembre</td><td>2014 A</td><td>14 gennaio</td><td></td></tr>
-<tr><td>Italia</td><td>20 ottobre</td><td>2005 A</td><td>19 novembre</td><td>2005</td></tr>
-<tr><td>Lettonia</td><td>1° agosto</td><td>2003 A</td><td>31 agosto</td><td>2003</td></tr>
-<tr><td>Lituania</td><td>28 novembre</td><td>2001 A</td><td>28 dicembre</td><td>2001</td></tr>
-<tr><td>Lussemburgo</td><td>29 ottobre</td><td>1993</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Macedonia del Nord</td><td>15 settembre</td><td>1999 A</td><td>16 ottobre</td><td>1999</td></tr>
-<tr><td>Malta</td><td>2 marzo</td><td>2001 A</td><td>1° aprile</td><td>2001</td></tr>
-<tr><td>Moldova</td><td>2 febbraio</td><td>2001 A</td><td>4 marzo</td><td>2001</td></tr>
-<tr><td>Monaco</td><td>23 luglio</td><td>1999 A</td><td>22 agosto</td><td>1999</td></tr>
-<tr><td>Montenegro</td><td>28 marzo</td><td>2011 A</td><td>27 aprile</td><td>2011</td></tr>
-<tr><td>Norvegia</td><td>3 febbraio</td><td>1993 Fi</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Paesi Bassi</td><td>17 marzo</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Polonia</td><td>10 aprile</td><td>1996 A</td><td>10 maggio</td><td>1996</td></tr>
-<tr><td>Portogallo</td><td>10 gennaio</td><td>1996</td><td>9 febbraio</td><td>1996</td></tr>
-<tr><td>Azzorre</td><td>20 settembre</td><td>2010</td><td>20 settembre</td><td>2010</td></tr>
-<tr><td>Madeira</td><td>20 settembre</td><td>2010</td><td>20 settembre</td><td>2010</td></tr>
-<tr><td>Regno Unito</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Gibilterra</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Guernsey</td><td>23 giugno</td><td>1999</td><td>23 giugno</td><td>1999</td></tr>
-<tr><td>Jersey</td><td>29 ottobre</td><td>2001</td><td>29 ottobre</td><td>2001</td></tr>
-<tr><td>Man, Isola di</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Romania</td><td>20 luglio</td><td>2000 A</td><td>19 agosto</td><td>2000</td></tr>
-<tr><td>San Marino</td><td>9 aprile</td><td>2009 A</td><td>9 maggio</td><td>2009</td></tr>
-<tr><td>Serbia</td><td>8 febbraio</td><td>2019 A</td><td>10 marzo</td><td></td></tr>
-<tr><td>Slovacchia</td><td>9 luglio</td><td>1998 A</td><td>8 agosto</td><td>1998</td></tr>
-<tr><td>Slovenia</td><td>5 dicembre</td><td>2003 A</td><td>4 gennaio</td><td>2004</td></tr>
-<tr><td>Svezia</td><td>4 marzo</td><td>1992 Fi</td><td>16 gennaio</td><td>1994</td></tr>
-<tr><td>Svizzera</td><td>27 giugno</td><td>2013 A</td><td>27 luglio</td><td>2013</td></tr>
-<tr><td>Ucraina</td><td>30 settembre</td><td>1999 A</td><td>30 ottobre</td><td>1999</td></tr>
-<tr><td>Ungheria</td><td>22 giugno</td><td>1994 A</td><td>22 luglio</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet del Governo britannico: www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><th>Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Firma senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td colspan="2">Albania</td><td>22 marzo</td><td>2001 A</td><td>21 aprile</td><td>2001</td></tr>
+<tr><td colspan="2">Belgio\*</td><td>14 maggio</td><td>2003</td><td>13 giugno</td><td>2003</td></tr>
+<tr><td colspan="2">Bosnia ed Erzegovina</td><td>22 luglio</td><td>2021 A</td><td>21 agosto</td><td>2021</td></tr>
+<tr><td colspan="2">Bulgaria</td><td>9 novembre</td><td>1999 A</td><td>9 dicembre</td><td>1999</td></tr>
+<tr><td colspan="2">Ceca, Repubblica</td><td>24 febbraio</td><td>1994 A</td><td>26 marzo</td><td>1994</td></tr>
+<tr><td colspan="2">Cipro</td><td>13 novembre</td><td>2012 A</td><td>13 dicembre</td><td>2012</td></tr>
+<tr><td colspan="2">Croazia</td><td>8 agosto</td><td>2000 A</td><td>7 settembre</td><td>2000</td></tr>
+<tr><td colspan="2">Danimarca</td><td>6 gennaio</td><td>1994</td><td>5 febbraio</td><td>1994</td></tr>
+<tr><td colspan="2">Estonia\*</td><td>11 novembre</td><td>2004 A</td><td>11 dicembre</td><td>2004</td></tr>
+<tr><td colspan="2">Finlandia</td><td>20 settembre</td><td>1999 A</td><td>20 ottobre</td><td>1999</td></tr>
+<tr><td colspan="2">Francia</td><td>7 luglio</td><td>1995</td><td>6 agosto</td><td>1995</td></tr>
+<tr><td colspan="2">Georgia</td><td>25 luglio</td><td>2002 A</td><td>24 agosto</td><td>2002</td></tr>
+<tr><td colspan="2">Germania</td><td>18 ottobre</td><td>1993</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Irlanda</td><td>21 giugno</td><td>1995</td><td>21 luglio</td><td>1995</td></tr>
+<tr><td colspan="2">Israele\*</td><td>15 dicembre</td><td>2014 A</td><td>14 gennaio</td><td></td></tr>
+<tr><td colspan="2">Italia</td><td>20 ottobre</td><td>2005 A</td><td>19 novembre</td><td>2005</td></tr>
+<tr><td colspan="2">Lettonia</td><td>1° agosto</td><td>2003 A</td><td>31 agosto</td><td>2003</td></tr>
+<tr><td colspan="2">Lituania</td><td>28 novembre</td><td>2001 A</td><td>28 dicembre</td><td>2001</td></tr>
+<tr><td colspan="2">Lussemburgo</td><td>29 ottobre</td><td>1993</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Macedonia del Nord</td><td>15 settembre</td><td>1999 A</td><td>16 ottobre</td><td>1999</td></tr>
+<tr><td colspan="2">Malta</td><td>2 marzo</td><td>2001 A</td><td>1° aprile</td><td>2001</td></tr>
+<tr><td colspan="2">Moldova</td><td>2 febbraio</td><td>2001 A</td><td>4 marzo</td><td>2001</td></tr>
+<tr><td colspan="2">Monaco</td><td>23 luglio</td><td>1999 A</td><td>22 agosto</td><td>1999</td></tr>
+<tr><td colspan="2">Montenegro</td><td>28 marzo</td><td>2011 A</td><td>27 aprile</td><td>2011</td></tr>
+<tr><td colspan="2">Norvegia</td><td>3 febbraio</td><td>1993 Fi</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Paesi Bassi</td><td>17 marzo</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Polonia</td><td>10 aprile</td><td>1996 A</td><td>10 maggio</td><td>1996</td></tr>
+<tr><td colspan="2">Portogallo</td><td>10 gennaio</td><td>1996</td><td>9 febbraio</td><td>1996</td></tr>
+<tr><td colspan="2">Azzorre</td><td>20 settembre</td><td>2010</td><td>20 settembre</td><td>2010</td></tr>
+<tr><td colspan="2">Madeira</td><td>20 settembre</td><td>2010</td><td>20 settembre</td><td>2010</td></tr>
+<tr><td colspan="2">Regno Unito</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Gibilterra</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Guernsey</td><td>23 giugno</td><td>1999</td><td>23 giugno</td><td>1999</td></tr>
+<tr><td colspan="2">Jersey</td><td>29 ottobre</td><td>2001</td><td>29 ottobre</td><td>2001</td></tr>
+<tr><td colspan="2">Man, Isola di</td><td>9 settembre</td><td>1992</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Romania</td><td>20 luglio</td><td>2000 A</td><td>19 agosto</td><td>2000</td></tr>
+<tr><td colspan="2">San Marino</td><td>9 aprile</td><td>2009 A</td><td>9 maggio</td><td>2009</td></tr>
+<tr><td colspan="2">Serbia</td><td>8 febbraio</td><td>2019 A</td><td>10 marzo</td><td></td></tr>
+<tr><td colspan="2">Slovacchia</td><td>9 luglio</td><td>1998 A</td><td>8 agosto</td><td>1998</td></tr>
+<tr><td colspan="2">Slovenia</td><td>5 dicembre</td><td>2003 A</td><td>4 gennaio</td><td>2004</td></tr>
+<tr><td colspan="2">Spagna</td><td>13 giugno</td><td>2024 A</td><td>13 luglio</td><td>2024</td></tr>
+<tr><td colspan="2">Svezia</td><td>4 marzo</td><td>1992 Fi</td><td>16 gennaio</td><td>1994</td></tr>
+<tr><td colspan="2">Svizzera</td><td>27 giugno</td><td>2013 A</td><td>27 luglio</td><td>2013</td></tr>
+<tr><td colspan="2">Ucraina</td><td>30 settembre</td><td>1999 A</td><td>30 ottobre</td><td>1999</td></tr>
+<tr><td colspan="2">Ungheria</td><td>22 giugno</td><td>1994 A</td><td>22 luglio</td><td>1994</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RUIl testo, in inglese, può essere consultato sul sito Internet del Governo britannico: www.gov.uk/government/collections/treaties-for-which-the-uk-is-depositary oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481)e [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2013 2301](https://fedlex.data.admin.ch/eli/oc/2013/481); [2019 1071](https://fedlex.data.admin.ch/eli/oc/2019/200); [2024 326](https://fedlex.data.admin.ch/eli/oc/2024/326). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
