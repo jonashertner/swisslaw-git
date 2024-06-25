@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2024-06-01
+version: 2024-06-26
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240626/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240626-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (État le 1<sup>er</sup> juin 2024)
+du 11 août 1999 (État le 26 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1100,17 +1100,18 @@ Les mesures, les dépassements de coûts et les modifications font l’objet de 
 
 **Principe[^53-1]**
 
-La Confédération peut prendre à sa charge les frais d’entrée directe en Suisse, notamment pour les personnes suivantes:
+La Confédération peut prendre à sa charge les frais nécessaires pour l’entrée directe en Suisse, notamment pour les personnes suivantes:[^53-2]
 
 - a. groupes de réfugiés auxquels l’asile est octroyé par décision du Conseil fédéral ou du DFJP au sens de l’art. 56 LAsi;
 - b. personnes admises à la demande du HCR;
 - c. personnes à protéger se trouvant à l’étranger, conformément à l’art. 68 LAsi;
-- d.[^53-2] personnes auxquelles l’entrée en Suisse est accordée dans le cadre du regroupement familial avec des réfugiés reconnus selon l’art. 51, al. 4, LAsi ou art. 85*c*, al. 1, LEI;
-- e.[^53-3] personnes auxquelles l’entrée en Suisse est accordée en raison d’une menace sérieuse et concrète pour leur vie ou leur intégrité corporelle.
+- d.[^53-3] personnes auxquelles l’entrée en Suisse est accordée dans le cadre du regroupement familial avec des réfugiés reconnus selon l’art. 51, al. 4, LAsi ou art. 85*c*, al. 1, LEI;
+- e.[^53-4] personnes auxquelles l’entrée en Suisse est accordée en raison d’une menace sérieuse et concrète pour leur vie ou leur intégrité corporelle.
 
 [^53-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^53-2]: Introduite par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
-[^53-3]: Introduite par l’annexe de l’O du 4 sept. 2013 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-2]: Erratum du 26 juin 2024 ([RO 2024 315](https://fedlex.data.admin.ch/eli/oc/2024/315)).
+[^53-3]: Introduite par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-4]: Introduite par l’annexe de l’O du 4 sept. 2013 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 

@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2024-06-01
+version: 2024-06-26
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20240626/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20240626-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20240626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 1° giugno 2024)
+dell’11 agosto 1999 (Stato 26 giugno 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1101,17 +1101,18 @@ I provvedimenti, i superamenti dei costi e le modifiche sono debitamente motivat
 
 **Principio[^53-1]**
 
-La Confederazione può assumersi le spese necessarie per l’entrata diretta in Svizzera, segnatamente per:
+La Confederazione può assumersi le spese necessarie per l’entrata diretta in Svizzera, segnatamente per:[^53-2]
 
 - a. gruppi di rifugiati ai quali è accordato l’asilo su decisione del Consiglio federale o del DFGP ai sensi dell’articolo 56 della LAsi;
 - b. singole persone accolte su richiesta dell’ACNUR;
 - c. persone bisognose di protezione che si trovano all’estero, ai sensi dell’articolo 68 della LAsi;
-- d.[^53-2] persone la cui entrata in Svizzera è autorizzata nel quadro del ricongiungimento familiare di rifugiati riconosciuti giusta l’articolo 51 capoverso 4 LAsi o giusta l’articolo 85*c* capoverso 1 LStrI;
-- e.[^53-3] persone la cui entrata in Svizzera è stata autorizzata perché la loro vita o integrità fisica è seriamente e concretamente minacciata.
+- d.[^53-3] persone la cui entrata in Svizzera è autorizzata nel quadro del ricongiungimento familiare di rifugiati riconosciuti giusta l’articolo 51 capoverso 4 LAsi o giusta l’articolo 85*c* capoverso 1 LStrI;
+- e.[^53-4] persone la cui entrata in Svizzera è stata autorizzata perché la loro vita o integrità fisica è seriamente e concretamente minacciata.
 
 [^53-1]: Introdotta dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^53-2]: Introdotta dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
-[^53-3]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^53-2]: La correzione del 26 giu. 2024 concerne soltanto il testo francese ([RU 2024 315](https://fedlex.data.admin.ch/eli/oc/2024/315)).
+[^53-3]: Introdotta dal n. I dell’O del 24 ott. 2007 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 192](https://fedlex.data.admin.ch/eli/oc/2024/192)).
+[^53-4]: Introdotta dall’all. dell’O del 4 set. 2013 ([RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)). Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 53a
 
