@@ -3,11 +3,11 @@ sr: "0.747.331.51"
 title: Internationales Übereinkommen vom 10. April 1926 zur einheitlichen Feststellung einzelner Regeln über die Immunität der staatlichen Schiffe (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/778_795_691"
 language: de
-version: 2007-10-08
+version: 2024-06-27
 adopted: 1926-04-10
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/778_795_691/20071008/de/xml/fedlex-data-admin-ch-eli-cc-1954-778_795_691-20071008-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/778_795_691/20071008/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/778_795_691/20240627/de/xml/fedlex-data-admin-ch-eli-cc-1954-778_795_691-20240627-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/778_795_691/20240627/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1954/778_795_691/20071008/de"
 
 AS **1954** 778; BBl **1953** III 749
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Übereinkommen abgeschlossen in Brüssel am 10. April 1926 Zusatzprotokoll abgeschlossen in Brüssel am 24. Mai 1934 Von der Bundesversammlung genehmigt am 17. März 1954[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
+Übereinkommen abgeschlossen in Brüssel am 10. April 1926 Zusatzprotokoll abgeschlossen in Brüssel am 24. Mai 1934 Von der Bundesversammlung genehmigt am 17. März 1954[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
 
-(Stand am 8. Oktober 2007)
+(Stand am 27. Juni 2024)
 
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: Ziff. 5 des BB vom 17. März 1954 ([AS 1954 749](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+[^t-1]: Ziff. 5 des BB vom 17. März 1954 ([AS 1954 749](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 Der Deutsche Reichspräsident, Seine Majestät der König der Belgier, der Präsident der Republik Brasilien, Seine Majestät der König von Dänemark und Island, Seine Majestät der König von Spanien, der Chef des Estnischen Staates, der Präsident der Französischen Republik, Seine Majestät der König des Vereinigten Königreichs von Grossbritannien und Irland und der britischen überseeischen Besitzungen, Kaiser von Indien, Seine Durchlaucht der Reichsverweser des Königreichs Ungarn, Seine Majestät der König von Italien, Seine Majestät der Kaiser von Japan, der Präsident der Republik Lettland, der Präsident der Republik Mexiko, Seine Majestät der König von Norwegen, Ihre Majestät die Königin der Niederlande, der Präsident der Republik Polen, der Präsident der Portugiesischen Republik, Seine Majestät der König von Rumänien, Seine Majestät der König der Serben, Kroaten und Slowenen und Seine Majestät der König von Schweden.
 
@@ -157,10 +156,10 @@ Stellt sich die Frage der Beibringung von Beweisen oder der Vorlage von Urkunden
 
 *Urkundlich dessen* haben die unterzeichneten Bevollmächtigten ihrer Regierung dieses Zusatzprotokoll unterschrieben, das als integrierender Bestandteil des Übereinkommens vom 10. April 1926, auf das es sich bezieht, zu betrachten ist. Geschehen in Brüssel am 24. Mai 1934, in einer Ausfertigung, welche in den Archiven der belgischen Regierung aufbewahrt wird. (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. Oktober 2007**[^t-3]**
+Geltungsbereich am 27. Juni 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerkl. (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>17. Februar</td><td>1960 B</td><td>17. August</td><td>1960</td></tr>
 <tr><td>Argentinien</td><td>19. April</td><td>1961 B</td><td>19. Oktober</td><td>1961</td></tr>
 <tr><td>Belgien</td><td>8. Januar</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
@@ -178,7 +177,9 @@ Geltungsbereich am 8. Oktober 2007**[^t-3]**
 <tr><td>Madagaskar</td><td>13. Juli</td><td>1965 N</td><td>26. Juni</td><td>1960</td></tr>
 <tr><td>Niederlande</td><td>8. Juli</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
 <tr><td>Aruba</td><td>3. Januar</td><td>1986</td><td>1. Januar</td><td>1986</td></tr>
-<tr><td>Niederländische Antillen</td><td>8. Juli</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
+<tr><td>Curaçao</td><td>8. Juli</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>8. Juli</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
+<tr><td>Sint Maarten</td><td>8. Juli</td><td>1936</td><td>8. Januar</td><td>1937</td></tr>
 <tr><td>Norwegen</td><td>25. April</td><td>1939</td><td>25. Oktober</td><td>1939</td></tr>
 <tr><td>Polen</td><td>16. Juli</td><td>1976</td><td>16. Januar</td><td>1977</td></tr>
 <tr><td>Portugal</td><td>27. Juni</td><td>1938</td><td>27. Dezember</td><td>1938</td></tr>
@@ -195,22 +196,7 @@ Geltungsbereich am 8. Oktober 2007**[^t-3]**
 <tr><td>Insel Man\*</td><td>19. November</td><td>1987</td><td>19. Mai</td><td>1988</td></tr>
 <tr><td>Jersey\*</td><td>19. November</td><td>1987</td><td>19. Mai</td><td>1988</td></tr>
 <tr><td>Zypern</td><td>19. Juli</td><td>1988 B</td><td>19. Januar</td><td>1989</td></tr>
-<tr><td colspan="5">\* Vorbehalt siehe hiernach. <sup>a</sup> Dieses Übereink. ist am 1. Nov. 1953 zwischen der Bundesrepublik Deutschland, einerseits, und den alliierten Mächten, anderseits, mit Ausnahme von Ungarn, Polen und Rumänien, wieder in Kraft gesetzt worden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen Texte können auf der Internetseite des belgischen Aussenministeriums eingesehen werden: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieses Übereink. ist am 1. Nov. 1953 zwischen der Bundesrepublik Deutschland, einerseits, und den alliierten Mächten, anderseits, mit Ausnahme von Ungarn, Polen und Rumänien, wieder in Kraft gesetzt worden.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/eda/de/home/topics/intla/intrea/dbstv.html).
-
-Vorbehalt
-
-Vereinigtes Königreich
-
-Grossbritannien behält sich das Recht vor, Artikel 1 des Übereinkommens auf jeden Anspruch anzuwenden, der sich auf ein Schiff bezieht, das der Admiralitätsgerichtsbarkeit der britischen Gerichte oder der Gerichtsbarkeit derjenigen britischen Gerichte in jedem Territorium untersteht, auf welches das Übereinkommen Kraft des britischen Beitritts anwendbar ist.
-
-Mit Bezug auf Artikel 2 des Übereinkommens behält sich Grossbritannien das Recht vor, in Verfahren betreffend andere Hohe vertragschliessende Teile oder Schiffe anderer Hoher vertragschliessender Teile die Verfahrensvorschriften gemäss Kapitel II des Europäischen Übereinkommens über Staatenimmunität vom 16. Mai 1972[^t-4] zur Anwendung zu bringen.
-
-Um den Bestimmungen jeglichen internationalen Abkommens mit einem Nichtvertragsstaat Wirkung zu geben, behält sich Grossbritannien das Recht vor, spezielle Regelungen vorzusehen
-
-- a) betreffend das Anhalten oder Verarrestieren eines einem solchen Staat gehörenden Schiffes oder einer entsprechenden Ladung, sowie
-- b) betreffend das Verbot der Beschlagnahme von oder der Vornahme von Vollstreckungshandlungen gegenüber solchen Schiffen oder solcher Ladung.
-
-[^t-4]: [SR 0.273.1](https://fedlex.data.admin.ch/eli/cc/1982/1792_1792_1792)
+[^t-2]: [AS 1954 778](https://fedlex.data.admin.ch/eli/oc/1954/778_795_691); [1973 377](https://fedlex.data.admin.ch/eli/oc/1973/377_375_377); [1982 1944](https://fedlex.data.admin.ch/eli/oc/1982/1944_1944_1944); [1989 786](https://fedlex.data.admin.ch/eli/oc/1989/786_786_786); [2008 673](https://fedlex.data.admin.ch/eli/oc/2008/167); [2024 327](https://fedlex.data.admin.ch/eli/oc/2024/327). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

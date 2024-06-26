@@ -3,27 +3,26 @@ sr: "0.747.331.51"
 title: "Convenzione internazionale del 10 aprile 1926 per l'unificazione di alcune regole concernenti le immunità delle navi di Stato (con Protocollo add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/778_795_691"
 language: it
-version: 2007-10-08
+version: 2024-06-27
 adopted: 1926-04-10
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/778_795_691/20071008/it/xml/fedlex-data-admin-ch-eli-cc-1954-778_795_691-20071008-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/778_795_691/20071008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/778_795_691/20240627/it/xml/fedlex-data-admin-ch-eli-cc-1954-778_795_691-20240627-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/778_795_691/20240627/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione internazionale per l’unificazione di alcune regole concernenti le immunità delle navi di Stato
 
-(Stato 8 ottobre 2007)0.747.331.51
+RU **1954** 691; BBl **1953** III 749 ediz. ted., FF **1953** III 781 ediz. franc.
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Bruxelles il 10 aprile 1926 Protocollo addizionale conchiuso a Bruxelles il 24 maggio 1934 Approvati dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
+Conchiusa a Bruxelles il 10 aprile 1926 Protocollo addizionale conchiuso a Bruxelles il 24 maggio 1934 Approvati dall’Assemblea federale il 17 marzo 1954[^t-1] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
 
-(Stato 8 ottobre 2007)
+(Stato 27 giugno 2024)
 
-[^t-1]: RU **1954** 691 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: N. 5 del DF del 17 marzo 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+[^t-1]: N. 5 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 Il Presidente del Reich Germanico; Sua Maestà il Re dei Belgi; il Presidente della Repubblica del Brasile; Sua Maestà il Re di Danimarca e d’Islanda; Sua Maestà il Re di Spagna; il Presidente della Repubblica di Estonia; il Presidente della Repubblica francese; Sua Maestà il Re del Regno Unito della Gran Bretagna, d’Irlanda e dei Territori britannici al di là dei mari, Imperatore delle Indie; Sua Altezza Serenissima il Regente d’Ungheria; Sua Maestà il Re d’Italia; Sua Maestà l’Imperatore del Giappone; il Presidente della Repubblica di Lettonia; il Presidente della Repubblica del Messico; Sua Maestà il Re di Norvegia; Sua Maestà la Regina dei Paesi Bassi; il Presidente della Repubblica di Polonia; il Presidente della Repubblica Portoghese; Sua Maestà il Re di Romania; Sua Maestà il Re dei Serbi, Croati e Sloveni e Sua Maestà il Re di Svezia.
 
@@ -159,63 +158,47 @@ Fatto a Bruxelles il 24 maggio 1934, in un solo esemplare, che sarà depositato 
 
 (Seguono le firme)
 
-### Campo di applicazione l'8 ottobre 2007****
-
-[^lvlu15-lvlu16-1]
-
-[^lvlu15-lvlu16-1]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.eda.admin.ch/eda/it/home/topics/intla/intrea/dbstv.html).
+Campo d’applicazione il 27 giugno 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
-<tr><td colspan="2">Belgio</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Brasile</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Cile</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Cipro</td><td>19 luglio</td><td>1988 A</td><td>19 gennaio</td><td>1989</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
-<tr><td colspan="2">Danimarca</td><td>16 novembre</td><td>1950</td><td>16 maggio</td><td>1951</td></tr>
-<tr><td colspan="2">Egitto</td><td>17 febbraio</td><td>1960 A</td><td>17 agosto</td><td>1960</td></tr>
-<tr><td colspan="2">Estonia</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Francia</td><td>27 luglio</td><td>1955</td><td>27 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Germania<sup>a</sup></td><td>27 giugno</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Grecia</td><td>19 maggio</td><td>1951 A</td><td>19 novembre</td><td>1951</td></tr>
-<tr><td colspan="2">Italia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
-<tr><td colspan="2">Libia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
-<tr><td colspan="2">Norvegia</td><td>25 aprile</td><td>1939</td><td>25 ottobre</td><td>1939</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">[tab] Antille olandesi</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td>3 gennaio 1986 1° gennaio 1986</td><td>1986</td><td>1° gennaio</td><td>1986</td></tr>
-<tr><td colspan="2">Polonia</td><td>16 luglio</td><td>1976</td><td>16 gennaio</td><td>1977</td></tr>
-<tr><td colspan="2">Portogallo</td><td>27 giugno</td><td>1938</td><td>27 dicembre</td><td>1938</td></tr>
-<tr><td colspan="2">Regno Unito<sup>\*</sup></td><td>3 luglio</td><td>1979</td><td>3 gennaio</td><td>1980</td></tr>
-<tr><td colspan="2">[tab] Guernesey<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
-<tr><td colspan="2">[tab] Isola di Man<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
-<tr><td colspan="2">[tab] Jersey<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
-<tr><td colspan="2">Siria</td><td>8 ottobre</td><td>1962 S</td><td>17 agosto</td><td>1960</td></tr>
-<tr><td colspan="2">Somalia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
-<tr><td colspan="2">Suriname</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Svezia</td><td>1° luglio</td><td>1938</td><td>1° gennaio</td><td>1939</td></tr>
-<tr><td colspan="2">Svizzera</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
-<tr><td colspan="2">Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Ungheria</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
-<tr><td colspan="2">Uruguay</td><td>15 settembre</td><td>1970 A</td><td>15 marzo</td><td>1971</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">[tab] Riserve e dichiarazioni,vedi qui appresso.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">[tab] Detta Conv. è stata rimessa in vigore a contare dal 1° nov. 1953 tra la Repubblica federale di Germania da una parte, e le Potenze Alleate dall’altra, ad eccezione dell’Ungheria, della Polonia e della Romania.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
+<tr><td>Belgio</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Brasile</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Cile</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Cipro</td><td>19 luglio</td><td>1988 A</td><td>19 gennaio</td><td>1989</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
+<tr><td>Danimarca</td><td>16 novembre</td><td>1950</td><td>16 maggio</td><td>1951</td></tr>
+<tr><td>Egitto</td><td>17 febbraio</td><td>1960 A</td><td>17 agosto</td><td>1960</td></tr>
+<tr><td>Estonia</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Francia</td><td>27 luglio</td><td>1955</td><td>27 gennaio</td><td>1956</td></tr>
+<tr><td>Germania <sup>a</sup></td><td>27 giugno</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Grecia</td><td>19 maggio</td><td>1951 A</td><td>19 novembre</td><td>1951</td></tr>
+<tr><td>Italia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
+<tr><td>Libia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
+<tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 agosto</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
+<tr><td>Norvegia</td><td>25 aprile</td><td>1939</td><td>25 ottobre</td><td>1939</td></tr>
+<tr><td>Paesi Bassi</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Aruba</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Curaçao</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Sint Maarten</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Polonia</td><td>16 luglio</td><td>1976</td><td>16 gennaio</td><td>1977</td></tr>
+<tr><td>Portogallo</td><td>27 giugno</td><td>1938</td><td>27 dicembre</td><td>1938</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>3 luglio</td><td>1979</td><td>3 gennaio</td><td>1980</td></tr>
+<tr><td>[tab] Guernesey<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
+<tr><td>[tab] Isola di Man<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
+<tr><td>[tab] Jersey<sup>\*</sup></td><td>19 novembre</td><td>1987</td><td>19 maggio</td><td>1988</td></tr>
+<tr><td>Siria</td><td>8 ottobre</td><td>1962 S</td><td>17 agosto</td><td>1960</td></tr>
+<tr><td>Somalia</td><td>27 gennaio</td><td>1937</td><td>27 luglio</td><td>1937</td></tr>
+<tr><td>Suriname</td><td>8 luglio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Svezia</td><td>1° luglio</td><td>1938</td><td>1° gennaio</td><td>1939</td></tr>
+<tr><td>Svizzera</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
+<tr><td>Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Ungheria</td><td>8 gennaio</td><td>1936</td><td>8 gennaio</td><td>1937</td></tr>
+<tr><td>Uruguay</td><td>15 settembre</td><td>1970 A</td><td>15 marzo</td><td>1971</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in francese può essere consultato sul sito internet del Ministero degli affari esteri del Belgio: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), o oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Detta Conv. è stata rimessa in vigore a contare dal 1° nov. 1953 tra la Repubblica federale di Germania da una parte, e le Potenze Alleate dall’altra, ad eccezione dell’Ungheria, della Polonia e della Romania.</td></tr>
 </table>
 
-### Riserve
-
-Regno Unito
-
-La Gran Bretagna si riserva il diritto di applicare l’articolo 1 della convenzione a ogni azione concernente una nave e di competenza dei suoi tribunali in materia marittima, oppure dei suoi tribunali su tutto il territorio da essa rappresentato nella convenzione.
-
-La Gran Bretagna si riserva il diritto, giusta l’articolo 2 della convenzione, di applicare, nelle procedure concernenti un’altra Alta Parte contraente, o una nave di un’altra Alta Parte contraente, le regole di procedura enunciate al capitolo II della Convenzione europea sull’immunità degli Stati del 16 maggio 1972.[^lvlu15-lvlu16-lvlu1-1]
-
-Al fine di applicare le disposizioni di qualsiasi accordo internazionale concluso con uno Stato non contraente, la Gran Bretagna si riserva il diritto di prendere disposizioni speciali:
-
-- a) per quanto riguarda il fermo o il sequestro di una nave o d’un carico appartenente al suddetto Stato, e
-- b) per impedire che la suddetta nave o il suddetto carico sia sequestrato o oggetto d’esecuzione.
-
-[^lvlu15-lvlu16-lvlu1-1]: [RS 0.273.1](https://fedlex.data.admin.ch/eli/cc/1982/1792_1792_1792)
+[^t-2]: [RU 1954 691](https://fedlex.data.admin.ch/eli/oc/1954/778_795_691); [1973 377](https://fedlex.data.admin.ch/eli/oc/1973/377_375_377); [1982 1944](https://fedlex.data.admin.ch/eli/oc/1982/1944_1944_1944); [1989 786](https://fedlex.data.admin.ch/eli/oc/1989/786_786_786); [2008 673](https://fedlex.data.admin.ch/eli/oc/2008/167); [2024 327](https://fedlex.data.admin.ch/eli/oc/2024/327). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
