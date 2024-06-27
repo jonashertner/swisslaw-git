@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2024-03-15
+version: 2024-06-28
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20240628/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20240628-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20240628/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 15 mars 2024)
+du 12 août 2015 (État le 28 juin 2024)
 
 Le Conseil fédéral suisse,
 
@@ -236,5 +236,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/26](https://fedlex.data.admin.ch/eli/oc/2023/26) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), du 23 janv. 2023 ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)) et du 27 juin 2024, en vigueur depuis le 28 juin 2024 à 18 heures ([RO 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/320](https://fedlex.data.admin.ch/eli/oc/2024/320) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
