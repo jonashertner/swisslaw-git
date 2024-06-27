@@ -1,0 +1,54 @@
+---
+sr: "0.362.381.025"
+title: "Notenaustausch vom 13. Dezember 2023 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme und Umsetzung der Verordnung (EU) 2023/2667 zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009, (EU) 2017/2226, (EG) Nr. 693/2003 und (EG) Nr. 694/2003 und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens (Weiterentwicklung des Schengen-Besitzstands)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2024/341"
+language: de
+version: 2024-06-28
+adopted: 2023-12-13
+in_force: 2024-06-28
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/341/20240628/de/xml/fedlex-data-admin-ch-eli-cc-2024-341-20240628-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/341/20240628/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Notenaustausch vom 13. Dezember 2023 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme und Umsetzung der Verordnung (EU) 2023/2667 zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009, (EU) 2017/2226, (EG) Nr. 693/2003 und (EG) Nr. 694/2003 und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens
+
+AS **2024** 341
+
+(Weiterentwicklung des Schengen-Besitzstands)
+
+Provisorisch anwendbar ab dem 28. Juni 2024[^t-1]
+
+(Stand am 28. Juni 2024)
+
+[^t-1]: Art. 1 Abs. 1, 3, 34 und 36 der Verordnung (EU) 2023/2667 werden von der Schweiz ab dem 28. Juni 2024 vorläufig angewendet.
+
+Übersetzung
+
+<table>
+<tr><td>Mission der Schweiz bei der Europäischen Union</td><td>Brüssel, den 13. Dezember 2023 Generalsekretariat des Rates der Europäischen Union Generaldirektion Justiz und Inneres Brüssel</td></tr>
+</table>
+
+Die Mission der Schweiz bei der Europäischen Union entbietet dem Generalsekretariat des Rates der Europäischen Union ihre Empfehlung und beehrt sich, mit Bezug auf die Notifikation des Rates vom 13. November 2023, die erstellt worden ist gestützt auf Artikel 7 Absatz 2 Buchstabe a erster Satz des Abkommens zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands (nachfolgend: Assoziierungsabkommen)[^ingress-1], das am 26. Oktober 2004 in Luxemburg unterzeichnet worden ist, den Empfang dieser Notifikation zu bestätigen. Letztere hat folgenden Inhalt:
+
+«In Übereinstimmung mit Artikel 7 Absatz 2 Buchstabe a erster Satz in Verbindung mit Artikel 14 Absatz 1 des Abkommens, welches die Schweiz an den Schengen-Besitzstand assoziiert, wird der Schweiz hiermit die Verabschiedung des folgenden Rechtsakts notifiziert:
+
+- Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009 und (EU) 2017/2226 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 693/2003 und (EG) Nr. 694/2003 und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens
+- Dokument des Rates: PE-CONS 41/23
+- Datum der Annahme: 13.11.2023»[^ingress-2]
+
+Gemäss Artikel 7 Absatz 2 Buchstaben a und b des Assoziierungsabkommens und unter Vorbehalt der Erfüllung der verfassungsrechtlichen Voraussetzungen der Schweiz informiert die Mission der Schweiz bei der Europäischen Union das Generalsekretariat des Rates der Europäischen Union, dass die Schweiz den Inhalt des Rechtsakts, welcher der Notifikation des Rates beigelegt und Teil dieser Antwortnote ist, akzeptiert und in ihre innerstaatliche Rechtsordnung umsetzen wird.
+
+Gemäss Artikel 7 Absatz 2 Buchstabe b des Assoziierungsabkommens wird die Schweiz das Generalsekretariat des Rates der Europäischen Union unverzüglich über die Erfüllung ihrer verfassungsrechtlichen Voraussetzungen informieren.
+
+Gemäss Artikel 7 Absatz 3 des Assoziierungsabkommens begründen die Notifikation des Rates vom 13. November 2023 und diese Antwortnote Rechte und Pflichten zwischen der Schweiz und der Europäischen Union und bilden somit ein Abkommen zwischen der Schweiz und der Europäischen Union.
+
+Dieses Abkommen wird zum Zeitpunkt der Notifikation durch die Schweiz über die Erfüllung ihrer verfassungsrechtlichen Voraussetzungen in Kraft treten. Gekündigt werden kann das Abkommen unter den Bedingungen, die in den Artikeln 7 und 17 des Assoziierungsabkommens aufgeführt sind.
+
+Eine Kopie dieser Note wird der Europäischen Kommission, Generalsekretariat, SG.B.2, Brüssel, übermittelt.
+
+Die Mission der Schweiz bei der Europäischen Union benützt die Gelegenheit, um das Generalsekretariat des Rates der Europäischen Union ihrer ausgezeichneten Hochachtung zu versichern.
+
+[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-2]: Verordnung (EU) 2023/2667 des Europäischen Parlaments und des Rates zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009 und (EU) 2017/2226 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 693/2003 und (EG) Nr. 694/2003 des Rates und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens, Fassung gemäss ABl. L, 2023/2667, 7.12.2023.
