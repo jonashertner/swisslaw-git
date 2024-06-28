@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2024-01-18
-valid_until: 2024-06-28
-version_adopted: 2024-01-09
+version: 2024-06-29
+valid_until: 2024-08-11
+version_adopted: 2022-12-13
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6161/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 18. Januar 2024)
+Vom 11. September 2012 (Stand 29. Juni 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
