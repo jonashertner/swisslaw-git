@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Reprise et mise en œuvre du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen (SIS) de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union
 document: Projet mis en consultation
 language: fr

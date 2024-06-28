@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übernahme und Umsetzung der Verordnung (EU) 2022/1190 zur Änderung der Verordnung (EU) 2018/1862 in Bezug auf die Eingabe von Informationsausschreibungen zu Drittstaatsangehörigen im Interesse der Union in das Schengener Informationssystem (SIS)
 document: Vernehmlassungsvorlage-2
 language: de

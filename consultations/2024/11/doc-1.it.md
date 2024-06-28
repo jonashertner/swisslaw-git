@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Recepimento et attuazione dello Regolamento (UE) 2022/1190 che modifica il regolamento (UE) 2018/1862 per quanto riguarda l’inserimento, nell’interesse dell’Unione, di segnalazioni informative su cittadini di paesi terzi nel sistema d’informazione Schengen (SIS)"
 document: Progetto posto in consultazione
 language: it
