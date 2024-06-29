@@ -4,20 +4,21 @@ number: "110.000"
 title: Verfassung des Kantons Aargau
 short: "Kantonsverfassung, KV"
 language: de
-version: 2024-05-01
-valid_until: 2024-06-29
-version_adopted: 2022-05-15
+version: 2024-06-30
+version_adopted: 2023-11-07
 adopted: 1980-06-25
 in_force: 1982-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/110.000"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3406/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Aargau
 
-Vom 25.06.1980 (Stand 01.05.2024)
+(Kantonsverfassung, KV)
+
+Vom 25.06.1980 (Stand 30.06.2024)
 
 Das Aargauer Volk,
 
@@ -424,6 +425,12 @@ gibt sich nachstehende Verfassung:
 <sup>4</sup> Sie schaffen und unterhalten Schutzgebiete.
 
 <sup>5</sup> Der Kanton Aargau schafft innert zwanzig Jahren nach Inkrafttreten dieser Verfassungsbestimmung zum Schutze des bedrohten Lebensraumes der Flussauen und zur Erhaltung der landschaftlich und biologisch einzigartigen, national bedeutsamen Reste der ehemaligen Auengebiete einen Auen-Schutzpark. Dieser setzt sich, ausgehend vom Wassertor der Schweiz, aus Teilflächen längs der Flüsse Aare und Reuss und ihrer Zuflüsse zusammen. Er weist eine Gesamtfläche von mindestens einem Prozent der Kantonsfläche auf.
+
+#### § 42a
+
+**a<sup>bis</sup>) Klima**
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels ein und stärken ihre Fähigkeit zur Anpassung an dessen nachteilige Auswirkungen. Sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen.
 
 #### § 43
 
