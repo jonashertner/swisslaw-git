@@ -3,11 +3,11 @@ sr: "131.227"
 title: "Costituzione del Cantone di Argovia, del 25 giugno 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: it
-version: 2023-09-20
+version: 2024-06-30
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20240630-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/it"
 
 Traduzione[^t-1]
 
-del 25 giugno 1980 (Stato 20 settembre 2023)[^t-2]
+(Costituzione cantonale, CostC)[^t-2]
+
+del 25 giugno 1980 (Stato 30 giugno 2024)[^t-3]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell'ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: Accettata nella [votazione popolare del 9 giu. 2024](http://www.admin.ch/ch/i/pore/va/20240609/index.html), in vigore dal 1° lug. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^t-3]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Il Popolo argoviese,
 
@@ -434,6 +437,14 @@ Il Cantone disciplina in una legge gli elementi fondamentali dei diritti e dei d
 <sup>5</sup> Entro vent’anni dall’entrata in vigore della presente disposizione, il Cantone di Argovia crea una riserva alluvionale protetta al fine di salvaguardare lo spazio vitale minacciato delle zone alluvionali e di preservare quanto resta delle vecchie zone alluvionali d’importanza nazionale e d’interesse paesaggistico e biologico unico nel suo genere. Questa riserva comprende, a partire dalla confluenza dell’Aar, della Reuss e della Limmat («*Wassertor der Schweiz*»), aree che costeggiano l’Aar, la Reuss e i loro affluenti. Essa si estende su una superficie totale pari almeno all’uno per cento della superficie del Cantone.[^42-1]
 
 [^42-1]: Accettato nella [votazione popolare del 6 giu. 1993](http://www.admin.ch/ch/i/pore/va/19930606/index.html), in vigore dal 4 ott. 1994. Garanzia dell’AF del 9 giu. 1994 ([FF 1994 III 320](https://fedlex.data.admin.ch/eli/fga/1994/3___320)art. 1 n. 5, [1993 IV 409](https://fedlex.data.admin.ch/eli/fga/1993/4___409)).
+
+#### § 42a
+
+**a<sup>bis</sup>) Clima**[^42a-1]
+
+Il Cantone e i Comuni si adoperano per limitare i cambiamenti climatici e aumentare la capacità di adattamento ai rispettivi effetti negativi. Tengono conto degli obiettivi della Confederazione e degli accordi internazionali vincolanti per la Svizzera.
+
+[^42a-1]: Accettata nella [votazione popolare del 9 giu. 2024](http://www.admin.ch/ch/i/pore/va/20240609/index.html), in vigore dal 1° lug. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### § 43
 
@@ -1498,7 +1509,7 @@ Per quanto concerne il diritto di chiedere votazioni popolari facoltative ai sen
 
 **Disposizioni transitorie diverse**
 
-<sup>1</sup> a <sup>3</sup> ...[^132-1]
+<sup>1 a <sup>3</sup></sup> ...[^132-1]
 
 <sup>4</sup> Il periodo amministrativo dei membri delle autorità di cui al § 61 cpv. 1 lett. a, c, e ed f, dei giudici specializzati dei tribunali distrettuali e dei consiglieri scolastici, che inizia nel 2013, dura fino al 31 dicembre 2016. Il periodo amministrativo successivo inizia il 1° gennaio 2017 e dura quattro anni.[^132-2]
 

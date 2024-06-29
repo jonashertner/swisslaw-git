@@ -3,23 +3,26 @@ sr: "131.227"
 title: "Constitution du canton d'Argovie, du 25 juin 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: fr
-version: 2023-09-20
+version: 2024-06-30
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20240630-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Constitution du Canton d’Argovie
+# Constitution du canton d’Argovie
 
 Traduction[^t-1]
 
-du 25 juin 1980 (État le 20 septembre 2023)[^t-2]
+(Constitution cantonale, ConstC)[^t-2]
+
+du 25 juin 1980 (État le 30 juin 2024)[^t-3]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Accepté en [votation populaire du 9 juin 2024](http://www.admin.ch/ch/f/pore/va/20240609/index.html), en vigueur depuis le 30 juin 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^t-3]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Le peuple argovien,
 
@@ -432,6 +435,14 @@ Le canton règle par une loi ce qui caractérise les droits et les devoirs des p
 <sup>5</sup> Dans le délai de vingt ans dès l’entrée en vigueur de la présente disposition constitutionnelle, le canton d’Argovie crée une réserve alluviale protégée, aux fins de sauvegarder l’espace vital menacé des zones alluviales et de maintenir ce qui reste des anciennes zones alluviales d’importance nationale et d’un intérêt paysager et biologique unique en son genre. Cette réserve comprend, à partir du confluent des fleuves («Wassertor der Schweiz»., des aires jouxtant les rives de l’Aar, de la Reuss et de leurs affluents. Elle s’étend sur une surface d’un seul tenant représentant au maximum un pour cent de la surface du canton.[^42-1]
 
 [^42-1]: Accepté en [votation populaire du 6 juin 1993](http://www.admin.ch/ch/f/pore/va/19930606/index.html), en vigueur depuis le 4 oct. 1994. Garantie de l’Ass. féd. du 9 juin 1994 ([FF 1994 III 334](https://fedlex.data.admin.ch/eli/fga/1994/3__334_)art. 1 ch. 5; [1993 IV 473](https://fedlex.data.admin.ch/eli/fga/1993/4__473_)).
+
+#### § 42a
+
+**a<sup>bis</sup>. Climat**[^42a-1]
+
+Le canton et les communes s’efforcent, par leur législation et en assumant toutes leurs compétences, de protéger au mieux l’homme et son milieu naturel contre les nuisances.
+
+[^42a-1]: Accepté en [votation populaire du 9 juin 2024](http://www.admin.ch/ch/f/pore/va/20240609/index.html), en vigueur depuis le 30 juin 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### § 43
 
@@ -1493,7 +1504,7 @@ Jusqu’à la promulgation de dispositions légales, on appliquera, en ce qui co
 
 **Dispositions transitoires diverses**
 
-<sup>1</sup> à <sup>3</sup> …[^132-1]
+<sup>1 à <sup>3</sup></sup> …[^132-1]
 
 <sup>4</sup> La période administrative des membres des autorités cités au § 61, al. 1, let. a, c, e et f, des juges spécialisé des tribunaux de district et des conseillers scolaires, qui commence en 2013, dure jusqu’au 31 décembre 2016. La période administrative suivante dure quatre ans et commence le 1<sup>er</sup> janvier 2017.[^132-2]
 
@@ -2135,6 +2146,7 @@ Propriété
 
 Protection de l’environnement
 
+- – climat 42*a*
 - – généralités 42
 - – élimination des déchets 44
 - – sources d’eau minérales, stations thermales et espaces de repos 43

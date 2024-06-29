@@ -3,20 +3,23 @@ sr: "131.227"
 title: "Verfassung des Kantons Aargau, vom 25. Juni 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: de
-version: 2023-09-20
+version: 2024-06-30
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20240630-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20240630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Aargau
 
-vom 25. Juni 1980 (Stand am 20. September 2023)[^t-1]
+(Kantonsverfassung, KV)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+vom 25. Juni 1980 (Stand am 30. Juni 2024)[^t-2]
+
+[^t-1]: Angenommen in der [Volksabstimmung vom 9. Juni 2024](http://www.admin.ch/ch/d/pore/va/20240609/index.html), in Kraft seit 30. Juni 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Das Aargauer Volk
 
@@ -429,6 +432,14 @@ Der Kanton regelt durch Gesetz die Grundzüge der Rechte und Pflichten der Gefan
 <sup>5</sup> Der Kanton Aargau schafft innert zwanzig Jahren nach Inkrafttreten dieser Verfassungsbestimmung zum Schutze des bedrohten Lebensraumes der Flussauen und zur Erhaltung der landschaftlich und biologisch einzigartigen, national bedeutsamen Reste der ehemaligen Auengebiete einen Auen-Schutzpark. Dieser setzt sich, ausgehend vom Wassertor der Schweiz, aus Teilflächen längs der Flüsse Aare und Reuss und ihrer Zuflüsse zusammen. Er weist eine Gesamtfläche von mindestens einem Prozent der Kantonsfläche auf.[^42-1]
 
 [^42-1]: Angenommen in der [Volksabstimmung vom 6. Juni 1993](http://www.admin.ch/ch/d/pore/va/19930606/index.html), in Kraft seit 4. Okt. 1994. Gewährleistungsbeschluss vom 9. Juni 1994 ([BBl 1994 III 319](https://fedlex.data.admin.ch/eli/fga/1994/3_319__)Art. 1 Ziff. 5; [1993 IV 465](https://fedlex.data.admin.ch/eli/fga/1993/4_465__)).
+
+#### § 42a
+
+**a<sup>bis</sup>) Klima**[^42a-1]
+
+Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels ein und stärken ihre Fähigkeit zur Anpassung an dessen nachteilige Auswirkungen. Sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen.
+
+[^42a-1]: Angenommen in der [Volksabstimmung vom 9. Juni 2024](http://www.admin.ch/ch/d/pore/va/20240609/index.html), in Kraft seit 30. Juni 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 6; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### § 43
 
@@ -1923,6 +1934,8 @@ Kirchen
 - – Verhältnis zum Bistum Basel 115
 - – Zugehörigkeit zu den Landeskirchen 111
 
+**Klim****a** 42*a*
+
 **Kulturpflege und** **‑güter** 36
 
 **Kultusfreiheit** s. Kirchen
@@ -2202,6 +2215,7 @@ Umweltschutz
 - – Auen-Schutzpark 42<sup>5</sup>
 - – Abfallbeseitigung 44
 - – Heilquellen 43
+- – Klima 42*a*
 
 **Unselbständige Anstalten** s. Anstalten
 
