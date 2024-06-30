@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Januar 2024)
+vom 14. März 2008 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -35,21 +35,22 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung regelt die erste Phase der Strommarktöffnung, in welcher die festen Endverbraucher keinen Anspruch auf Netzzugang nach Artikel 13 Absatz 1 StromVG haben.
 
-<sup>2</sup> Das mit der Frequenz 16,7 Hz und auf der Spannungsebene 132 kV betriebene Übertragungsnetz der schweizerischen Eisenbahnen untersteht dem StromVG, soweit dieses bezweckt, die Voraussetzungen für eine sichere Elektrizitätsversorgung zu schaffen. Anwendbar sind insbesondere Artikel 4 Absatz 1 Buchstaben a und b, 8, 9 und 11 StromVG.
+<sup>2</sup> Die Bestimmungen des StromVG, mit denen die Voraussetzungen für eine sichere Elektrizitätsversorgung geschaffen werden, gelten auch für das mit der Frequenz 16,7 Hz und auf der Spannungsebene 132 kV betriebene Übertragungsnetz der schweizerischen Eisenbahnen. Es gelten insbesondere die Artikel 4 Absatz 1 Buchstaben a und b, 8, 9 und 11 StromVG, nicht jedoch Artikel 8*a* StromVG.[^1-1]
 
 <sup>3</sup>
 
 Das mit der Frequenz 16,7 Hz und auf der Spannungsebene 132 kV betriebene Übertragungsnetz der schweizerischen Eisenbahnen gilt als Endverbraucher im Sinne von Artikel 4 Absatz 1 Buchstabe b StromVG und dieser Verordnung. Nicht als Endverbraucher gilt ein Frequenzumrichter innerhalb eines 50-Hz-Kraftwerks für den Teil der Elektrizität, den das 50-Hz-Kraftwerk:
 
 - a. erzeugt und zeitgleich in einer örtlich-wirtschaftlichen Einheit in das 16,7‑Hz-Netz einspeist;
-- b. für den Eigenbedarf und den Antrieb der Pumpen (Art. 4 Abs. 1 Bst. b zweiter Satz StromVG) bezieht.[^1-1]
+- b. für den Eigenbedarf und den Antrieb der Pumpen (Art. 4 Abs. 1 Bst. b zweiter Satz StromVG) bezieht.[^1-2]
 
-<sup>3bis</sup> Die mit dem 50-Hz-Übertragungsnetz verbundenen Ein- beziehungsweise Ausspeisepunkte des mit der Frequenz 16,7 Hz und auf der Spannungsebene 132 kV betriebenen Übertragungsnetzes gelten als ein einziger Ein- beziehungsweise Ausspeisepunkt.[^1-2]
+<sup>3bis</sup> Die mit dem 50-Hz-Übertragungsnetz verbundenen Ein- beziehungsweise Ausspeisepunkte des mit der Frequenz 16,7 Hz und auf der Spannungsebene 132 kV betriebenen Übertragungsnetzes gelten als ein einziger Ein- beziehungsweise Ausspeisepunkt.[^1-3]
 
 <sup>4</sup> Das StromVG und diese Verordnung gelten auch für grenzüberschreitende Elektrizitätsleitungen des Übertragungsnetzes, die mit Gleichstrom betrieben werden, und die erforderlichen Nebenanlagen.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
-[^1-2]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
 
 #### Art. 2
 
@@ -116,7 +117,7 @@ Soweit der Verteilnetzbetreiber die Elektrizität für Lieferungen nach Artikel 
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^4-3]: [AS 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
+[^4-3]: [AS 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^4-4]: Fassung gemäss Ziff. III der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
 
 #### Art. 4a
@@ -218,11 +219,35 @@ Die nationale Netzgesellschaft, die Netzbetreiber, die Erzeuger und die übrigen
 
 #### Art. 5a
 
-**Szenariorahmen**[^5a-1]
+**Schutz vor Cyberbedrohungen**[^5a-1]
+
+<sup>1</sup>
+
+Zur Sicherstellung eines angemessenen Schutzes von Anlagen vor Cyberbedrohungen, insbesondere mittels Schutz der Informations- und Kommunikationstechnologien (IKT), sind die Empfehlungen des Minimalstandards zur Verbesserung der IKT-Resilienz von Mai 2023[^5a-2] (IKT-Minimalstandard) gemäss dem jeweiligen Schutzniveau nach Anhang 1*a* verbindlich für:
+
+- a. die Netzbetreiber;
+- b. die Erzeuger, mit Ausnahme der Kernkraftwerksbetreiber, und die Speicherbetreiber, sofern sie Anlagen mit einer Leistung von insgesamt mindestens 100 MW betreiben und diese über ein einziges System steuern können;
+- c.
+
+  die Dienstleister, die dauerhaft steuern können:
+
+  - 1\. Anlagen von Netzbetreibern, oder
+  - 2\. Anlagen von Erzeugern, mit Ausnahme der Kernkraftwerksbetreiber, oder von Speicherbetreibern, sofern sie dadurch über ein einziges System auf eine Leistung von mindestens 100 MW Zugriff haben.
+
+<sup>2</sup> Nicht verbindlich sind die im IKT-Minimalstandard genannten international anerkannten Standards.
+
+<sup>3</sup> Das Erreichen des jeweiligen Schutzniveaus ist der ElCom auf Verlangen nachzuweisen.
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+[^5a-2]: Der IKT-Minimalstandard kann kostenlos beim Bundesamt für wirtschaftliche Landesversorgung unter [www.bwl.admin.ch](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Bereiche &gt; IKT &gt; IKT-Minimalstandard abgerufen oder per E‑Mail an: info@bwl.admin.ch bezogen werden.
+
+#### Art. 5a<sup>bis</sup>
+
+**Szenariorahmen**[^5abis-1]
 
 Der Szenariorahmen (Art. 9*a* StromVG) ist mit einer Periodizität von vier Jahren nach seiner Genehmigung zu überprüfen und gegebenenfalls nachzuführen.
 
-[^5a-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^5abis-1]: Ursprünglich: Art. 5*a*. Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 5b
 
@@ -1144,11 +1169,11 @@ Innerhalb der Übergangsfrist von Artikel 31*e* Absatz 1 bestimmt der Netzbetrei
 
 Anhang 1[^t-1]
 
-(Art. 13 Abs. 3<sup>bis</sup>)
+(Art. 4*d* Abs. 3, 13 Abs. 3<sup>bis</sup> und 18*a* Abs. 3)
 
 ## Bestimmung des durchschnittlichen Kapitalkostensatzes
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Bereinigt gemäss Ziff. I der V vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Bereinigt gemäss Ziff. I der V vom 4. Dez. 2015 ([AS 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)) und Ziff. II Abs. 1 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
 
 ### 1 Definition
 
@@ -1262,13 +1287,177 @@ Anhang 1[^t-1]
 
 - Der durchschnittliche Kapitalkostensatz für das Tarifjahr 2016 bestimmt sich nach bisherigem Recht.
 
-Anhang 2[^t-2]
+Anhang 1a[^t-2]
+
+(Art. 5*a* Abs. 1)
+
+## Zu erreichendes Niveau beim Schutz vor Cyberbedrohungen
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+
+### 1 Zuweisung zu Kategorien
+
+Die Netzbetreiber, Erzeuger, Speicherbetreiber und Dienstleister nach Artikel 5*a* werden abhängig vom Umfang der transportierten Elektrizität beziehungsweise der Leistung in folgende Kategorien eingeteilt:
+
+<table>
+<tr><th></th><th>Kategorie A</th><th>Kategorie B</th><th>Kategorie C</th></tr>
+<tr><td>1.1 Netzbetreiber mit einer in ihrem Netzgebiet transportierten Elektrizität von: 1.2 Dienstleister, die dauerhaft Anlagen von Netzbetreibern steuern können, sofern sie dadurch über ein einziges System Zugriff haben auf eine transportierte Elektrizität von:</td><td>≥ 450 GWh/Jahr</td><td>≥ 112 GWh/Jahr und &lt; 450 GWh/Jahr</td><td>&lt; 112 GWh/Jahr</td></tr>
+<tr><td>1.3 Erzeuger, mit Ausnahme der Kernkraftwerksbetreiber, und Speicherbetreiber, sofern sie Anlagen von insgesamt folgender Leistung betreiben und diese über ein einziges System steuern können: 1.4 Dienstleister, die dauerhaft Anlagen von Erzeugern, mit Ausnahme der Kernkraftwerksbetreiber, oder von Speicherbetreibern steuern können, sofern sie dadurch über ein einziges System Zugriff haben auf eine Leistung von:</td><td>≥ 800 MW</td><td>≥ 100 MW und &lt; 800 MW</td><td>–</td></tr>
+</table>
+
+### 2 Mindestwerte
+
+Für die nachstehenden Aufgaben müssen, soweit diese anwendbar sind, mindestens die folgenden Werte gemäss Ziffer 3.1.1 des IKT-Minimalstandards[^annex1a-lvlu1-lvl2-1] der entsprechenden Kategorie erreicht und muss deren Erreichung auf Verlangen der ElCom nachgewiesen werden (vgl. Art. 5*a* Abs. 3):
+
+<table>
+<tr><th></th><th>Schutzniveau für Kategorie A</th><th>Schutzniveau für Kategorie B</th><th>Schutzniveau für Kategorie C</th></tr>
+<tr><td colspan="4">**2.1** **Identifizieren (ID = Identify)**</td></tr>
+<tr><td colspan="4">**2.1.1** **Inventar-Management (AM = Asset Management)**</td></tr>
+<tr><td>ID.AM-1</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>ID.AM-2</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>ID.AM-3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>ID.AM-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.AM-5</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.AM-6</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td colspan="4">**2.1.2** **Geschäftsumfeld (BE = Business Environment)**</td></tr>
+<tr><td>ID.BE-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.BE-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.BE-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.BE-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.BE-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.3** **Vorgaben (GV = Governance)**</td></tr>
+<tr><td>ID.GV-1</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>ID.GV-2</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>ID.GV-3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>ID.GV-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.4** **Risikoanalyse (RA = Risk Assessment)**</td></tr>
+<tr><td>ID.RA-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RA-2</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-3</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-4</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RA-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.5** **Risikomanagementstrategie (RM = Risk Management Strategy)**</td></tr>
+<tr><td>ID.RM-1</td><td>4</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RM-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RM-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.6** **Lieferketten-Risikomanagement (SC = Supply Chain Riskmanagement)**</td></tr>
+<tr><td>ID.SC-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.SC-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.SC-3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>ID.SC-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.SC-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2** **Schützen (PR = Protect)**</td></tr>
+<tr><td colspan="4">**2.2.1** **Zugriffsmanagement und -steuerung (AC = Access Control)**</td></tr>
+<tr><td>PR.AC-1</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.AC-4</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-5</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-6</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-7</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.2.2** **Sensibilisierung und Ausbildung (AT = Awareness and Training)**</td></tr>
+<tr><td>PR.AT-1</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-2</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.AT-4</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-5</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.3** **Datensicherheit (DS = Data Security)**</td></tr>
+<tr><td>PR.DS-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-2</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>PR.DS-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.DS-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-7</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.4** **Informationsschutzrichtlinien (IP = Information Protection Processes** **and Procedures)**</td></tr>
+<tr><td>PR.IP-1</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>PR.IP-2</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-4</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.IP-5</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.IP-6</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-7</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-9</td><td>4</td><td>2</td><td>2</td></tr>
+<tr><td>PR.IP-10</td><td>4</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-11</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-12</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.5** **Unterhalt (MA = Maintenance)**</td></tr>
+<tr><td>PR.MA-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.MA-2</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.2.6** **Einsatz von Schutztechnologie (PT = Protective Technology)**</td></tr>
+<tr><td>PR.PT-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.PT-2</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.PT-3</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>PR.PT-4</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.PT-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3** **Erkennen (DE = Detect)**</td></tr>
+<tr><td colspan="4">**2.3.1** **Auffälligkeiten und Vorfälle (AE = Anomalies and Events)**</td></tr>
+<tr><td>DE.AE-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3.2** **Überwachung (CM = Security Continous Monitoring)**</td></tr>
+<tr><td>DE.CM-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.CM-4</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-5</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.CM-7</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>DE.CM-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3.3** **Detektionsprozess (DP = Detection Processes)**</td></tr>
+<tr><td>DE.DP-1</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>DE.DP-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.DP-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>DE.DP-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.DP-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4** **Reagieren (RS = Respond)**</td></tr>
+<tr><td colspan="4">**2.4.1** **Reaktionsplanung (RP = Response Planning)**</td></tr>
+<tr><td>RS.RP-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.4.2** **Kommunikation (CO = Communications)**</td></tr>
+<tr><td>RS.CO-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>RS.CO-2</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>RS.CO-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RS.CO-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RS.CO-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4.3** **Analyse (AN = Analysis)**</td></tr>
+<tr><td>RS.AN-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.AN-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.AN-3</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td>RS.AN-4</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td>RS.AN-5</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4.4** **Schadensminderung (MI = Mitigation)**</td></tr>
+<tr><td>RS.MI-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>RS.MI-2</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>RS.MI-3</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td colspan="4">**2.4.5** **Verbesserungen (IM = Improvements)**</td></tr>
+<tr><td>RS.IM-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.IM-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.5** **Wiederherstellen (RC = Recover)**</td></tr>
+<tr><td colspan="4">**2.5.1** **Wiederherstellungsplanung (RP = Recovery Planning)**</td></tr>
+<tr><td>RC.RP-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.5.2** **Verbesserungen (IM = Improvements)**</td></tr>
+<tr><td>RC.IM-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RC.IM-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.5.3** **Kommunikation (CO = Communications)**</td></tr>
+<tr><td>RC.CO-1</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>RC.CO-2</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>RC.CO-3</td><td>2</td><td>1</td><td>–</td></tr>
+</table>
+
+[^annex1a-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+
+Anhang 2[^t-3]
 
 (Art. 28)
 
 ## Änderung bisherigen Rechts
 
-[^t-2]: Usprünglich: Anhang.
+[^t-3]: Usprünglich: Anhang.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 

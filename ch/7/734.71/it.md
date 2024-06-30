@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20240101/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° gennaio 2024)
+del 14 marzo 2008 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,21 +35,22 @@ ordina:
 
 <sup>1</sup> La presente ordinanza disciplina la prima fase di apertura del mercato dell’elettricità, durante la quale i consumatori fissi finali non hanno diritto d’accesso alla rete ai sensi dell’articolo 13 capoverso 1 LAEl.
 
-<sup>2</sup> La rete di trasporto delle ferrovie svizzere, gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, sottostà alla LAEl nella misura in cui questa intende creare le condizioni per garantire un approvvigionamento di energia elettrica sicuro. Si applicano in particolare gli articoli 4 capoverso 1 lettere a e b, 8, 9 e 11 LAEl.
+<sup>2</sup> Le disposizioni della LAEl, alla base di un approvvigionamento di energia elettrica sicuro, si applicano anche la rete di trasporto delle ferrovie svizzere, gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV. Si applicano in particolare gli articoli 4 capoverso 1 lettere a e b, 8, 9 e 11 LAEl, ma non l’articolo 8*a*.[^1-1]
 
 <sup>3</sup>
 
 La rete di trasporto delle ferrovie svizzere, gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, è considerata consumatore finale ai sensi dell’articolo 4 capoverso 1 lettera b LAEl e della prFFesente ordinanza. Un convertitore di frequenza all’interno di una centrale a 50 Hz non è considerato consumatore finale per la quota di energia elettrica che la centrale a 50 Hz:
 
 - a. produce e contemporaneamente immette nella rete a 16,7 Hz in un’unità economica localizzata;
-- b. preleva per il fabbisogno proprio e per azionare le pompe (art. 4 cpv. 1 lett. b secondo periodo LAEl).[^1-1]
+- b. preleva per il fabbisogno proprio e per azionare le pompe (art. 4 cpv. 1 lett. b secondo periodo LAEl).[^1-2]
 
-<sup>3bis</sup> I punti di immissione e di prelievo della rete di trasporto gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, collegati con la rete di trasporto a 50 Hz, sono considerati singolo punto di immissione o di prelievo.[^1-2]
+<sup>3bis</sup> I punti di immissione e di prelievo della rete di trasporto gestita con una frequenza di 16,7 Hz e un livello di tensione di 132 kV, collegati con la rete di trasporto a 50 Hz, sono considerati singolo punto di immissione o di prelievo.[^1-3]
 
 <sup>4</sup> La LAEl e la presente ordinanza si applicano anche alle linee elettriche transfrontaliere a corrente continua della rete di trasporto e ai necessari impianti accessori.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
-[^1-2]: Introdotto dal n. I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^1-3]: Introdotto dal n. I dell’O del 30 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
 
 #### Art. 2
 
@@ -219,11 +220,35 @@ La società nazionale di rete, i gestori di rete, i produttori e gli altri parte
 
 #### Art. 5a
 
-**Scenario di riferimento**[^5a-1]
+**Protezione dai ciberattacchi**[^5a-1]
+
+<sup>1</sup>
+
+Per garantire una protezione adeguata degli impianti dai ciberattacchi, proteggendo in particolare le tecnologie dell’informazione e della comunicazione (TIC), le raccomandazioni contenute nello Standard minimo per migliorare la resilienza delle TIC (Standard minimo TIC) del maggio 2023[^5a-2] sono vincolanti conformemente al rispettivo livello di protezione di cui all’allegato 1 per:
+
+- a. i gestori di rete;
+- b. i produttori, esclusi i gestori di centrali nucleari, e i gestori di impianti di stoccaggio, sempre che gestiscano impianti con una potenza complessiva di almeno 100 MW che e possano controllarli attraverso un unico sistema;
+- c.
+
+  i fornitori di servizi che possono controllare in modo permanente:
+
+  - 1 gli impianti dei gestori di rete, oppure
+  - 2\. gli impianti di produttori, esclusi i gestori di centrali nucleari, o di gestori di impianti di stoccaggio, sempre che in tal modo abbiano accesso attraverso un unico sistema a una potenza complessiva di almeno 100 MW.
+
+<sup>2</sup> I regolamenti riconosciuti a livello internazionale citati nello standard minimo TIC non sono vincolanti.
+
+<sup>3</sup> Qualora la ElCom lo richieda, deve esserle fornita la prova del raggiungimento del livello di protezione previsto.
+
+[^5a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+[^5a-2]: Lo Standard minimo TIC può essere scaricato gratuitamente dal sito Internet dell’Ufficio federale per l’approvvigionamento economico del Paese ([www.ufae.admin.ch](https://www.bwl.admin.ch/bwl/it/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Settori &gt; TIC &gt; Standard minimo TIC o può essere richiesta gratuitamente all’indirizzo elettronico: info@bwl.admin.ch.).
+
+#### Art. 5a<sup>bis</sup>
+
+**Scenario di riferimento**[^5abis-1]
 
 Dopo la sua approvazione, lo scenario di riferimento (art. 9*a* LAEl) è riesaminato ed eventualmente aggiornato ogni quattro anni.
 
-[^5a-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^5abis-1]: Originario art. 5*a*. Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 5b
 
@@ -1083,9 +1108,11 @@ Il diritto di fornire elettricità ai consumatori finali in regime di servizio u
 
 [^chap5-sec4c-1]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 
-**Art. 31**l
+#### Art. 31l
 
-<sup>1</sup> Il gestore di rete può utilizzare e far rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1, sino alla fine della loro funzionalità, i sistemi di misurazione che comportano sistemi di misurazione elettronici con misurazione del profilo di carico dell’energia attiva, un sistema di comunicazione con trasmissione automatizzata di dati e un sistema di trattamento dei dati ma che non soddisfano ancora i requisiti di cui agli articoli 8*a* e 8*b*, se:
+<sup>1</sup>
+
+Il gestore di rete può utilizzare e far rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1, sino alla fine della loro funzionalità, i sistemi di misurazione che comportano sistemi di misurazione elettronici con misurazione del profilo di carico dell’energia attiva, un sistema di comunicazione con trasmissione automatizzata di dati e un sistema di trattamento dei dati ma che non soddisfano ancora i requisiti di cui agli articoli 8*a* e 8*b*, se:
 
 - a. sono stati installati prima del 1° gennaio 2018; o
 - b. il loro acquisto è stato avviato prima del 1° gennaio 2019.
@@ -1145,11 +1172,11 @@ Durante il periodo transitorio di cui all’articolo 31*e* capoverso 1, il gesto
 
 Allegato 1[^t-1]
 
-(art. 13 cpv. 3<sup>bis</sup>)
+(art. 4*d* cpv. 3, 13 cpv. 3<sup>bis</sup> e 18*a* cpv. 3)
 
 ## Determinazione del costo medio ponderato del capitale
 
-[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Aggiornato dal n. I dell’O del 4 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)).
+[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Aggiornato dal n. I dell’O del 4 dic. 2015 ([RU 2015 5685](https://fedlex.data.admin.ch/eli/oc/2015/888)) e dal n. II cpv. 1 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
 
 ### 1 Definizione
 
@@ -1263,13 +1290,177 @@ Allegato 1[^t-1]
 
 - Per l’anno tariffario 2016 il calcolo del costo medio ponderato del capitale si determina sul diritto previgente.
 
-Allegato 2[^t-2]
+Allegato 1a[^t-2]
+
+(art. 5*a* cpv. 1)
+
+## Livello da raggiungere nella protezione dai ciberattacchi
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
+
+### 1 Attribuzione alle categorie
+
+I gestori di rete, produttori, gestori di impianti di stoccaggio e fornitori di servizi di cui all’articolo 5*a* sono suddivisi nelle categorie seguenti a seconda della quantità di elettricità trasportata e della potenza:
+
+<table>
+<tr><th></th><th>Categoria A</th><th>Categoria B</th><th>Categoria C</th></tr>
+<tr><td>1.1 Gestori di rete con una quantità di elettricità trasportata nel proprio comprensorio pari a: 1.2 Fornitori di servizi che possono controllare in modo permanente impianti dei gestori di rete, sempre che in tal modo abbiano accesso attraverso un unico sistema a una quantità di elettricità trasportata pari a:</td><td>≥ 450 GWh/anno</td><td>≥ 112 GWh/anno e ≥ 450 GWh/anno</td><td>≥ 112 GWh/anno</td></tr>
+<tr><td>1.3 Produttori, esclusi i gestori di centrali nucleari, e gestori di impianti di stoccaggio, sempre che gli impianti presentino la seguente potenza complessiva controllabile attraverso un unico sistema: 1.4 Fornitori di servizi che possono controllare in modo permanente impianti di produttori, esclusi i gestori di centrali nucleari, o di gestori di impianti di stoccaggio, sempre che in tal modo abbiano accesso attraverso un unico sistema a una potenza pari a:</td><td>≥ 800 MW</td><td>≥ 100 MW e &lt; 800 MW</td><td>–</td></tr>
+</table>
+
+### 2 Valori minimi
+
+Per i compiti elencati di seguito, se applicabili, devono essere raggiunti almeno i seguenti valori, indicati al capitolo 3.1.1 dello Standard minimo TIC[^annex1a-lvlu1-lvl2-1] nella categoria corrispondente, e qualora la ElCom lo richieda deve essere fornita la prova del loro raggiungimento (cfr. art. 5*a* cpv. 3):
+
+<table>
+<tr><th></th><th>Livello di protezione per la categoria A</th><th>Livello di protezione per la categoria B</th><th>Livello di protezione per la categoria C</th></tr>
+<tr><td colspan="4">**2.1** **Identificare (ID = identify)**</td></tr>
+<tr><td colspan="4">**2.1.1** **Gestione dell’inventario (AM = Asset Management)**</td></tr>
+<tr><td>ID.AM-1</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>ID.AM-2</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>ID.AM-3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>ID.AM-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.AM-5</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.AM-6</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td colspan="4">**2.1.2** **Ambiente operativo (BE = Business Environment)**</td></tr>
+<tr><td>ID.BE-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.BE-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.BE-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.BE-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.BE-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.3** **Direttive (GV = Governance)**</td></tr>
+<tr><td>ID.GV-1</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>ID.GV-2</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>ID.GV-3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>ID.GV-4</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.4** **Analisi dei rischi (RA = Risk Assessment)**</td></tr>
+<tr><td>ID.RA-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RA-2</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-3</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-4</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RA-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RA-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.5** **Strategia di gestione dei rischi (RM = Risk Management Strategy)**</td></tr>
+<tr><td>ID.RM-1</td><td>4</td><td>2</td><td>–</td></tr>
+<tr><td>ID.RM-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.RM-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.1.6** **Gestione dei rischi della catena di fornitura (SC = Supply Chain Riskmanagement)**</td></tr>
+<tr><td>ID.SC-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.SC-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>ID.SC-3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>ID.SC-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>ID.SC-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2** **Proteggere (PR = Protect)**</td></tr>
+<tr><td colspan="4">**2.2.1** **Gestione e controllo degli accessi (AC = Access Control)**</td></tr>
+<tr><td>PR.AC-1</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.AC-4</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-5</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-6</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td>PR.AC-7</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.2.2** **Sensibilizzazione e formazione (AT = Awareness and Training)**</td></tr>
+<tr><td>PR.AT-1</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-2</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.AT-4</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.AT-5</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.3** **Sicurezza dei dati (DS = Data Security)**</td></tr>
+<tr><td>PR.DS-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-2</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>PR.DS-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.DS-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-7</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.DS-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.4** **Protezione di dati (IP = Information Protection Processes and Procedures)**</td></tr>
+<tr><td>PR.IP-1</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>PR.IP-2</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-4</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.IP-5</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.IP-6</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.IP-7</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-9</td><td>4</td><td>2</td><td>2</td></tr>
+<tr><td>PR.IP-10</td><td>4</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-11</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.IP-12</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.2.5** **Manutenzione (MA = Maintenance)**</td></tr>
+<tr><td>PR.MA-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>PR.MA-2</td><td>4</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.2.6** **Impiego di tecnologie di protezione (PT = Protective Technology)**</td></tr>
+<tr><td>PR.PT-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>PR.PT-2</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>PR.PT-3</td><td>4</td><td>3</td><td>–</td></tr>
+<tr><td>PR.PT-4</td><td>4</td><td>3</td><td>3</td></tr>
+<tr><td>PR.PT-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3** **Intercettare (DE = detect)**</td></tr>
+<tr><td colspan="4">**2.3.1** **Anomalie ed eventi (AE = Anomalies and Events)**</td></tr>
+<tr><td>DE.AE-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.AE-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3.2** **Controllo (CM = Security Continous Monitoring)**</td></tr>
+<tr><td>DE.CM-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.CM-4</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-5</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>DE.CM-6</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.CM-7</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>DE.CM-8</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.3.3** **Procedure di intercettazione (DP = Detection Processes)**</td></tr>
+<tr><td>DE.DP-1</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>DE.DP-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.DP-3</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>DE.DP-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>DE.DP-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4** **Reagire (RS = Respond)**</td></tr>
+<tr><td colspan="4">**2.4.1** **Piano di reazione (RP = Response Planning)**</td></tr>
+<tr><td>RS.RP-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.4.2** **Comunicazione (CO = Communications)**</td></tr>
+<tr><td>RS.CO-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>RS.CO-2</td><td>4</td><td>4</td><td>2</td></tr>
+<tr><td>RS.CO-3</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RS.CO-4</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RS.CO-5</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4.3** **Analisi (AN = Analysis)**</td></tr>
+<tr><td>RS.AN-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.AN-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.AN-3</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td>RS.AN-4</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td>RS.AN-5</td><td>2</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.4.4** **Diminuzione del danno (MI = Mitigation)**</td></tr>
+<tr><td>RS.MI-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>RS.MI-2</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>RS.MI-3</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td colspan="4">**2.4.5** **Miglioramenti (IM = Improvements)**</td></tr>
+<tr><td>RS.IM-1</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td>RS.IM-2</td><td>3</td><td>3</td><td>–</td></tr>
+<tr><td colspan="4">**2.5** **Ripristinare (RC = Recover)**</td></tr>
+<tr><td colspan="4">**2.5.1** **Piano di ripristino (RP = Recovery Planning)**</td></tr>
+<tr><td>RC.RP-1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="4">**2.5.2** **Miglioramenti (IM = Improvements)**</td></tr>
+<tr><td>RC.IM-1</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td>RC.IM-2</td><td>3</td><td>2</td><td>–</td></tr>
+<tr><td colspan="4">**2.5.3** **Comunicazione (CO = Communications)**</td></tr>
+<tr><td>RC.CO-1</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>RC.CO-2</td><td>2</td><td>1</td><td>–</td></tr>
+<tr><td>RC.CO-3</td><td>2</td><td>1</td><td>–</td></tr>
+</table>
+
+[^annex1a-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
+
+Allegato 2[^t-3]
 
 (art. 28)
 
 ## Modifica del diritto vigente
 
-[^t-2]: Originario all.
+[^t-3]: Originario all.
 
 …[^annex2-lvlu1-1]
 
