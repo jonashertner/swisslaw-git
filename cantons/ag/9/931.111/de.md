@@ -4,13 +4,13 @@ number: "931.111"
 title: Verordnung zum Waldgesetz des Kantons Aargau
 short: AWaV
 language: de
-version: 2019-06-30
-valid_until: 2024-06-30
-version_adopted: 2019-05-29
+version: 2024-07-01
+valid_until: 2024-10-31
+version_adopted: 2024-03-13
 adopted: 1998-12-16
 in_force: 1999-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/931.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2743/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2743/pdf_file"
 
 (AWaV)
 
-Vom 16.12.1998 (Stand 30.06.2019)
+Vom 16.12.1998 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 16 der Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV) vom 2. September 2009[^ingress-1], § 17 Abs. 1 lit. a des Gesetzes über die Geoinformation im Kanton Aargau (Kantonales Geoinformationsgesetz, KGeoIG) vom 24. Mai 2011[^ingress-2], § 1 Abs. 2 des Gesetzes über die amtlichen Publikationsorgane (Publikationsgesetz, PuG) vom 3. Mai 2011[^ingress-3], die §§ 3 Abs. 3, 9, 11 Abs. 4, 12 Abs. 2, 13 Abs. 2, 15 Abs. 2, 18 Abs. 2, 20 und 29 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-4], § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-5] sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-6],
+gestützt auf Art. 16 der Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV) vom 2. September 2009[^ingress-1], § 17 Abs. 1 lit. a des Gesetzes über die Geoinformation im Kanton Aargau (Kantonales Geoinformationsgesetz, KGeoIG) vom 24. Mai 2011[^ingress-2], § 1 Abs. 2 des Gesetzes über die amtlichen Publikationsorgane (Publikationsgesetz, PuG) vom 3. Mai 2011[^ingress-3], die §§ 3 Abs. 3, 9, 11 Abs. 4, 12 Abs. 2, 13 Abs. 2, 15 Abs. 2, 18 Abs. 2, 20 und 29 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-4] sowie § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-5],
 
 beschliesst:
 
@@ -32,7 +32,6 @@ beschliesst:
 [^ingress-3]: SAR [150.600](https://gesetzessammlungen.ag.ch/data/150.600/de)
 [^ingress-4]: SAR [931.100](https://gesetzessammlungen.ag.ch/data/931.100/de)
 [^ingress-5]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
-[^ingress-6]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Waldareal und Waldgrenzenplan
 
@@ -348,23 +347,11 @@ beschliesst:
 
 #### § 31a
 
-**Gebühr für Rodungsgesuche**
-
-<sup>1</sup> Für die Behandlung von Rodungsgesuchen und die Ausübung der damit verbundenen Aufsichts- und Kontrollfunktionen wird eine Gebühr zwischen Fr. 150.– und Fr. 5'000.– erhoben. Die Gebühr wird nach Aufwand bemessen und beträgt in der Regel Fr. 1.– pro m² anbegehrter Rodungsfläche.
-
-<sup>2</sup> Für ausserordentlichen Mehraufwand, insbesondere infolge Durchführung eines Augenscheins, einer Verhandlung oder weitergehender Abklärungen, kann die Gebühr um bis zu Fr. 300.–, aber höchstens auf Fr. 5'000.– erhöht werden.
-
-<sup>3</sup> Wird das Rodungsgesuch zurückgezogen oder gegenstandslos oder erfordert das Verfahren aus einem andern Grund nur geringen Aufwand, kann die Gebühr herabgesetzt oder erlassen werden.
+**…**
 
 #### § 31b
 
-**Gebühr für andere waldrechtliche Beurteilungen**
-
-<sup>1</sup> Die Gebühr für die waldrechtliche Behandlung von Baugesuchen erhebt die Abteilung für Baubewilligungen des Departements Bau, Verkehr und Umwelt gestützt auf die Verordnung über die von der Abteilung für Baubewilligungen des Departements Bau, Verkehr und Umwelt zu erhebenden Gebühren (GebV AfB) vom 17. August 1994[^31b-1].
-
-<sup>2</sup> § 31a bleibt davon unberührt, wenn im Rahmen eines Baugesuchsverfahrens ein Rodungsgesuch gestellt wird.
-
-[^31b-1]: SAR [713.125](https://gesetzessammlungen.ag.ch/data/713.125/de)
+**…**
 
 #### § 31c
 
@@ -425,19 +412,7 @@ beschliesst:
 
 #### § 37
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Durch diese Verordnung werden aufgehoben:
-
-- a) die Verordnung über den Begriff des Waldes sowie die Verfahren betreffend Waldfeststellung und Rodungsbewilligung (Forstverordnung, FoV) vom 16. Februar 1994[^37-1];
-- b) die Verordnung über Beiträge an ausserordentliche Massnahmen bei Waldschäden vom 24. März 1986[^37-2];
-- c) die Dienstinstruktion für die Gemeinde-, Korporations- und Gerechtigkeitsförster vom 15. Juli 1950[^37-3];
-- d) die Verordnung über die Ausbildung von Waldarbeitern vom 18. März 1960[^37-4].
-
-[^37-1]: AGS Bd. 14 S. 557; 1996 S. 2
-[^37-2]: AGS Bd. 12 S. 33
-[^37-3]: AGS 1996 S. 308
-[^37-4]: AGS Bd. 5 S. 5
+**…**
 
 #### § 38
 
