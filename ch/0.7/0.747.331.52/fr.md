@@ -3,16 +3,16 @@ sr: "0.747.331.52"
 title: Convention internationale du 10 octobre 1957 sur la limitation de la responsabilité des propriétaires de navires de mer (avec protocole de signature)
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505"
 language: fr
-version: 2011-07-13
+version: 2024-07-01
 adopted: 1957-10-10
 in_force: 1968-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20110713/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20110713-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20110713/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention internationale sur la limitation de la responsabilité des propriétaires de navires de mer****
+# Convention internationale sur la limitation de la responsabilité des propriétaires de navires de mer
 
 RO **1966** 1517; FF **1965** II 1[^t-1]
 
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Bruxelles le 10 octobre 1957 Approuvée par l’Assemblée fédérale le 1<sup>er</sup> décembre 1965[^t-2] Instrument de ratification déposé par la Suisse le 21 janvier 1966 Entrée en vigueur pour la Suisse le 31 mai 1968[^t-3]
 
-(Etat le 13 juillet 2011)
+(État le 1er juillet 2024)
 
 [^t-1]: La présente convention n’est encore applicable pour la Suisse que dans les rapports avec les puissances contractantes qui ne sont pas parties à la conv. de 1976 sur la limitation de la responsabilité en matière de créances maritimes (RS **0747.331.53** art. 17 ch. 4). Voir la liste des États parties publiée ci-après.
 [^t-2]: Art. 1 al. 1 let. a de l’AF du 1<sup>er</sup> déc. 1965 ([RO 1966 1001](https://fedlex.data.admin.ch/eli/oc/1966/975_1001_993)).
@@ -89,7 +89,7 @@ Les montants auxquels le propriétaire d’un navire peut limiter sa responsabil
 
 <sup>(5)</sup> Pour déterminer la limite de la responsabilité d’un propriétaire de navire, conformément aux dispositions du présent article, tout navire de moins de 300 tonneaux de jauge sera assimilé à un navire de ce tonnage.
 
-<sup>(6)</sup> Le franc mentionné dans cet article est considéré comme se rapportant à une unité constituée par soixante-cinq milligrammes et demi d’or au titre de neuf cents millièmes de fin. Les montants mentionnés au par. (1) du présent article seront convertis dans la monnaie nationale de l’Etat dans lequel la limitation de la responsabilité est invoquée; la conversion s’effectuera suivant la valeur de cette monnaie par rapport à l’unité définie ci-dessus, à la date où le propriétaire de navire aura constitué le fonds, effectué le paiement ou fourni, conformément à la loi de cet Etat, toute garantie équivalente.
+<sup>(6)</sup> Le franc mentionné dans cet article est considéré comme se rapportant à une unité constituée par soixante-cinq milligrammes et demi d’or au titre de neuf cents millièmes de fin. Les montants mentionnés au par. (1) du présent article seront convertis dans la monnaie nationale de l’État dans lequel la limitation de la responsabilité est invoquée; la conversion s’effectuera suivant la valeur de cette monnaie par rapport à l’unité définie ci-dessus, à la date où le propriétaire de navire aura constitué le fonds, effectué le paiement ou fourni, conformément à la loi de cet État, toute garantie équivalente.
 
 <sup>(7)</sup>
 
@@ -102,11 +102,11 @@ Pour l’application de cette Convention, le tonnage sera calculé comme suit:
 
 #### Art. 4
 
-Sans préjudice des dispositions prévues à l’art. 3, par. (2) de la présente Convention, les règles relatives à la constitution et à la distribution du fonds éventuel et toutes les règles de procédure sont déterminées par la loi nationale de l’Etat où le fonds est constitué.
+Sans préjudice des dispositions prévues à l’art. 3, par. (2) de la présente Convention, les règles relatives à la constitution et à la distribution du fonds éventuel et toutes les règles de procédure sont déterminées par la loi nationale de l’État où le fonds est constitué.
 
 #### Art. 5
 
-<sup>(1)</sup> Dans tous les cas où un propriétaire est autorisé à limiter sa responsabilité, en vertu de la présente Convention, et lorsque le navire ou tout autre navire ou tout autre bien appartenant au même propriétaire, a été saisi dans le ressort d’un Etat contractant, ou qu’une caution ou une autre garantie a été fournie pour éviter la saisie, le tribunal ou toute autre autorité compétente de cet Etat peut ordonner la mainlevée de la saisie du navire ou de tout autre bien ou la libération de la garantie donnée, à condition qu’il soit prouvé que le propriétaire a déjà fourni une caution suffisante ou toute autre garantie pour une somme égale à la pleine limite de sa responsabilité, telle qu’elle résulte de la présente Convention et que la caution ou la garantie ainsi fournie est effectivement disponible au profit du demandeur, conformément à ses droits.
+<sup>(1)</sup> Dans tous les cas où un propriétaire est autorisé à limiter sa responsabilité, en vertu de la présente Convention, et lorsque le navire ou tout autre navire ou tout autre bien appartenant au même propriétaire, a été saisi dans le ressort d’un État contractant, ou qu’une caution ou une autre garantie a été fournie pour éviter la saisie, le tribunal ou toute autre autorité compétente de cet État peut ordonner la mainlevée de la saisie du navire ou de tout autre bien ou la libération de la garantie donnée, à condition qu’il soit prouvé que le propriétaire a déjà fourni une caution suffisante ou toute autre garantie pour une somme égale à la pleine limite de sa responsabilité, telle qu’elle résulte de la présente Convention et que la caution ou la garantie ainsi fournie est effectivement disponible au profit du demandeur, conformément à ses droits.
 
 <sup>(2)</sup> Le tribunal ou toute autre autorité compétente ordonnera la mainlevée de la saisie du navire ou la libération de la caution ou autre garantie lorsque les conditions indiquées au par. (1) du présent article seront réunies.
 
@@ -120,7 +120,7 @@ Lorsque, dans les circonstances mentionnées sous le par. (1) du présent articl
 
 <sup>(4)</sup> Lorsque le propriétaire a donné caution ou fourni une autre garantie pour un montant correspondant à la pleine limite de sa responsabilité conformément à la présente Convention, cette caution ou cette autre garantie pourront servir au paiement de toutes les créances dérivant d’un même événement et pour lesquelles le propriétaire peut limiter sa responsabilité.
 
-<sup>(5)</sup> La procédure relative aux actions engagées par application des dispositions de la présente Convention et les délais dans lesquels ces actions doivent être exercées, seront réglés par la loi nationale de l’Etat contractant dans lequel le procès a lieu.
+<sup>(5)</sup> La procédure relative aux actions engagées par application des dispositions de la présente Convention et les délais dans lesquels ces actions doivent être exercées, seront réglés par la loi nationale de l’État contractant dans lequel le procès a lieu.
 
 #### Art. 6
 
@@ -132,39 +132,39 @@ Lorsque, dans les circonstances mentionnées sous le par. (1) du présent articl
 
 #### Art. 7
 
-La présente Convention s’appliquera chaque fois que le propriétaire d’un navire ou toute autre personne ayant le même droit en vertu de l’art. 6, limite ou cherche à limiter sa responsabilité devant les tribunaux de l’un des Etat contractants ou tente de faire libérer un navire ou tout autre bien saisi ou une caution ou toute autre garantie, dans le territoire de l’un de ces Etats.
+La présente Convention s’appliquera chaque fois que le propriétaire d’un navire ou toute autre personne ayant le même droit en vertu de l’art. 6, limite ou cherche à limiter sa responsabilité devant les tribunaux de l’un des État contractants ou tente de faire libérer un navire ou tout autre bien saisi ou une caution ou toute autre garantie, dans le territoire de l’un de ces États.
 
-Néanmoins, tout Etat contractant aura le droit d’exclure totalement ou partiellement du bénéfice de cette Convention tout Etat non-contractant ou toute personne qui n’a pas, au moment où elle prend des mesures pour limiter sa responsabilité ou pour obtenir, conformément à l’art. 5, la libération d’un navire, ou de tout autre bien saisi ou d’une caution ou de toute autre garantie, sa résidence habituelle ou son siège principal l’exploitation dans l’un des Etats contractants ou dont le navire à raison duquel elle veut limiter sa responsabilité ou dont elle veut obtenir la libération, ne bat pas, à la date ci-dessus prévue, le pavillon de l’un des Etats contractants.
+Néanmoins, tout État contractant aura le droit d’exclure totalement ou partiellement du bénéfice de cette Convention tout État non-contractant ou toute personne qui n’a pas, au moment où elle prend des mesures pour limiter sa responsabilité ou pour obtenir, conformément à l’art. 5, la libération d’un navire, ou de tout autre bien saisi ou d’une caution ou de toute autre garantie, sa résidence habituelle ou son siège principal l’exploitation dans l’un des États contractants ou dont le navire à raison duquel elle veut limiter sa responsabilité ou dont elle veut obtenir la libération, ne bat pas, à la date ci-dessus prévue, le pavillon de l’un des États contractants.
 
 #### Art. 8
 
-Tout Etat contractant se réserve le droit de déterminer quelles sont les autres catégories de navires qui seront assimilées aux navires de mer pour les besoins de la présente Convention.
+Tout État contractant se réserve le droit de déterminer quelles sont les autres catégories de navires qui seront assimilées aux navires de mer pour les besoins de la présente Convention.
 
 #### Art. 9
 
-La présente Convention est ouverte à la signature des Etats représentés à la dixième session de la Conférence diplomatique de Droit Maritime.
+La présente Convention est ouverte à la signature des États représentés à la dixième session de la Conférence diplomatique de Droit Maritime.
 
 #### Art. 10
 
-La présente Convention sera ratifiée et les instruments de ratification seront déposés auprès du Gouvernement belge qui en notifiera le dépôt par la voie diplomatique à tous les Etats signataires et adhérents.
+La présente Convention sera ratifiée et les instruments de ratification seront déposés auprès du Gouvernement belge qui en notifiera le dépôt par la voie diplomatique à tous les États signataires et adhérents.
 
 #### Art. 11
 
-<sup>(1)</sup> La présente Convention entrera en vigueur six mois après la date du dépôt d’au moins dix instruments de ratification dont au moins cinq émanant d’Etats qui possèdent chacun un tonnage global égal ou supérieur à un million de tonneaux de jauge brute.
+<sup>(1)</sup> La présente Convention entrera en vigueur six mois après la date du dépôt d’au moins dix instruments de ratification dont au moins cinq émanant d’États qui possèdent chacun un tonnage global égal ou supérieur à un million de tonneaux de jauge brute.
 
-<sup>(2)</sup> Pour chaque Etat signataire, ratifiant la Convention après la date du dépôt de l’instrument de ratification déterminant l’entrée en vigueur telle qu’elle est fixée au par. (1) du présent article, elle entrera en vigueur six mois après le dépôt de son instrument de ratification.
+<sup>(2)</sup> Pour chaque État signataire, ratifiant la Convention après la date du dépôt de l’instrument de ratification déterminant l’entrée en vigueur telle qu’elle est fixée au par. (1) du présent article, elle entrera en vigueur six mois après le dépôt de son instrument de ratification.
 
 #### Art. 12
 
-Tout Etat non représenté à la dixième session de la Conférence diplomatique du Droit Maritime pourra adhérer à la présente Convention.
+Tout État non représenté à la dixième session de la Conférence diplomatique du Droit Maritime pourra adhérer à la présente Convention.
 
-Les instruments d’adhésion seront déposés auprès du Gouvernement belge qui en avisera par la voie diplomatique tous les Etats signataires et adhérents.
+Les instruments d’adhésion seront déposés auprès du Gouvernement belge qui en avisera par la voie diplomatique tous les États signataires et adhérents.
 
-La Convention entrera en vigueur pour l’Etat adhérent six mois après la date du dépôt de son instrument d’adhésion, mais pas avant la date d’entrée en vigueur de la Convention telle qu’elle est fixée à l’art. 11 (1).
+La Convention entrera en vigueur pour l’État adhérent six mois après la date du dépôt de son instrument d’adhésion, mais pas avant la date d’entrée en vigueur de la Convention telle qu’elle est fixée à l’art. 11 (1).
 
 #### Art. 13
 
-Chacune des Hautes Parties Contractantes aura le droit de dénoncer la présente Convention à tout moment après son entrée en vigueur à son égard. Toutefois, cette dénonciation ne prendra effet qu’un an après la date de réception de la notification de dénonciation au Gouvernement belge, qui en avisera par la voie diplomatique tous les Etats signataires et adhérents.
+Chacune des Hautes Parties Contractantes aura le droit de dénoncer la présente Convention à tout moment après son entrée en vigueur à son égard. Toutefois, cette dénonciation ne prendra effet qu’un an après la date de réception de la notification de dénonciation au Gouvernement belge, qui en avisera par la voie diplomatique tous les États signataires et adhérents.
 
 #### Art. 14
 
@@ -176,7 +176,7 @@ La Convention sera applicable aux dits territoires six mois après la date de r�
 
 Cette dénonciation prendra effet un an après la date de réception par le Gouvernement belge de la notification de dénonciation;
 
-<sup>(3)</sup> Le Gouvernement belge avisera par la voie diplomatique tous les Etats signataires et adhérents de toute notification reçue par lui au titre du présent article.
+<sup>(3)</sup> Le Gouvernement belge avisera par la voie diplomatique tous les États signataires et adhérents de toute notification reçue par lui au titre du présent article.
 
 #### Art. 15
 
@@ -186,7 +186,7 @@ Toute Haute Partie Contractante qui désirerait faire usage de cette faculté en
 
 #### Art. 16
 
-La présente Convention remplace et abroge, pour les relations entre les Etats qui la ratifient ou y adhèrent, la Convention internationale pour l’unification de certaines règles concernant la limitation de la responsabilité des propriétaires de navires de mer, signée à Bruxelles, le 25 août 1924[^16-1].
+La présente Convention remplace et abroge, pour les relations entre les États qui la ratifient ou y adhèrent, la Convention internationale pour l’unification de certaines règles concernant la limitation de la responsabilité des propriétaires de navires de mer, signée à Bruxelles, le 25 août 1924[^16-1].
 
 [^16-1]: [RS **7** 565]
 
@@ -194,7 +194,7 @@ La présente Convention remplace et abroge, pour les relations entre les Etats q
 
 Protocole de signature
 
-(1) Tout Etat pourra, lors de la signature, de la ratification ou de l’adhésion à la présente Convention, formuler les réserves prévues au par. (2). Aucune autre réserve à la présente Convention ne sera recevable.
+(1) Tout État pourra, lors de la signature, de la ratification ou de l’adhésion à la présente Convention, formuler les réserves prévues au par. (2). Aucune autre réserve à la présente Convention ne sera recevable.
 
 (2) Les réserves suivantes seront seules recevables:
 
@@ -202,98 +202,46 @@ Protocole de signature
 - b. Réserve du droit de régler par la loi nationale le système de limitation de responsabilité applicable aux navires de moins de 300 tonneaux de jauge;
 - c. Réserve du droit de donner effet à la présente Convention, soit en lui donnant force de loi, soit en incluant dans la législation nationale les dispositions de la présente Convention sous une forme appropriée à cette législation.
 
-**(Suivent les signatures)**
+(Suivent les signatures)
 
-## Champ d’application le 13 juillet 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: [RO 1973 698](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699), [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508), [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530),[1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605), [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262), [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149), [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538),[1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732), [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246), [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143)et **2011** 3555. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+Champ d’application le 1<sup>er</sup> juillet 2024[^t-4]
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th colspan="2">Entrée en vigueur</th><th colspan="2"></th></tr>
-<tr><td colspan="3">Algérie</td><td colspan="2">18 août</td><td colspan="2">1964 A</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Chine</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">[tab] Macao <sup>a</sup></td><td colspan="2">6 décembre</td><td colspan="2">1999</td><td colspan="2">20 décembre</td><td colspan="2">1999</td></tr>
-<tr><td colspan="3">Congo (Kinshasa)</td><td colspan="2">17 juillet</td><td colspan="2">1967 A</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Fidji<sup>\*</sup></td><td colspan="2">22 août</td><td colspan="2">1972 S</td><td colspan="2">10 octobre</td><td colspan="2">1970</td></tr>
-<tr><td colspan="3">Ghana<sup>\*</sup></td><td colspan="2">26 juillet</td><td colspan="2">1961 A</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Inde<sup>\*</sup></td><td colspan="2">1<sup>er</sup> juin</td><td colspan="2">1971</td><td colspan="2">1<sup>er</sup> décembre</td><td colspan="2">1971</td></tr>
-<tr><td colspan="3">Iran<sup>\*</sup></td><td colspan="2">26 avril</td><td colspan="2">1966 A</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Israël<sup>\*</sup></td><td colspan="2">30 novembre</td><td colspan="2">1967</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Liban</td><td colspan="2">23 décembre</td><td colspan="2">1994 A</td><td colspan="2">23 juin</td><td colspan="2">1995</td></tr>
-<tr><td colspan="3">Madagascar</td><td colspan="2">13 juillet</td><td colspan="2">1965 A</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Monaco<sup>\*</sup></td><td colspan="2">24 janvier</td><td colspan="2">1977 A</td><td colspan="2">24 juillet</td><td colspan="2">1977</td></tr>
-<tr><td colspan="3">Papouasie-Nouvelle-Guinée<sup>\*</sup></td><td colspan="2">14 mars</td><td colspan="2">1980 A</td><td colspan="2">14 septembre</td><td colspan="2">1980</td></tr>
-<tr><td colspan="3">Pays-Bas</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">[tab] Aruba</td><td colspan="2">16 juin</td><td colspan="2">1986</td><td colspan="2">16 décembre</td><td colspan="2">1986</td></tr>
-<tr><td colspan="3">Pologne</td><td colspan="2">1<sup>er</sup> décembre</td><td colspan="2">1972</td><td colspan="2">1<sup>er</sup> juin</td><td colspan="2">1973</td></tr>
-<tr><td colspan="3">Portugal<sup>\*</sup></td><td colspan="2">8 avril</td><td colspan="2">1968</td><td colspan="2">8 octobre</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Salomon, Iles<sup>\*</sup></td><td colspan="2">17 septembre</td><td colspan="2">1981 S</td><td colspan="2">7 juillet</td><td colspan="2">1978</td></tr>
-<tr><td colspan="3">Suisse</td><td colspan="2">21 janvier</td><td colspan="2">1966</td><td colspan="2">31 mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="3">Syrie</td><td colspan="2">10 juillet</td><td colspan="2">1972 A</td><td colspan="2">10 janvier</td><td colspan="2">1973</td></tr>
-<tr><td colspan="3">Tonga<sup>\*</sup></td><td colspan="2">13 juin</td><td colspan="2">1978 A</td><td colspan="2">13 décembre</td><td colspan="2">1978</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="9">Réserves et déclarations, voir ci-après.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="9">Du 23 sept. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><td>Algérie</td><td>18 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Bahamas</td><td>21 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Barbade</td><td>4 août</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Chine</td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab] Macao <sup>a</sup></td><td>6 décembre</td><td>1999</td><td>20 décembre</td><td colspan="2">1999</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Dominique</td><td>4 août</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Fidji<sup>\*</sup></td><td>22 août</td><td>1972 S</td><td>10 octobre</td><td colspan="2">1970</td></tr>
+<tr><td>Ghana<sup>\*</sup></td><td>26 juillet</td><td>1961 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Grenade</td><td>4 août</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Guyana</td><td>25 mars</td><td>1966 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Îles Salomon<sup>\*</sup></td><td>17 septembre</td><td>1981 S</td><td>7 juillet</td><td colspan="2">1978</td></tr>
+<tr><td>Inde<sup>\*</sup></td><td>1<sup>er</sup> juin</td><td>1971</td><td>1<sup>er</sup> décembre</td><td colspan="2">1971</td></tr>
+<tr><td>Iran\*</td><td>26 avril</td><td>1966</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Israël<sup>\*</sup></td><td>30 novembre</td><td>1967</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Kiribati</td><td>21 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Liban</td><td>23 décembre</td><td>1994 A</td><td>23 juin</td><td colspan="2">1995</td></tr>
+<tr><td>Madagascar</td><td>13 juillet</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Maurice</td><td>21 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Monaco<sup>\*</sup></td><td>24 janvier</td><td>1977 A</td><td>24 juillet</td><td colspan="2">1977</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée<sup>\*</sup></td><td>14 mars</td><td>1980 A</td><td>14 septembre</td><td colspan="2">1980</td></tr>
+<tr><td>Pays-Bas</td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab] Aruba</td><td>16 juin</td><td>1986</td><td>16 décembre</td><td colspan="2">1986</td></tr>
+<tr><td>Pologne</td><td>1<sup>er</sup> décembre</td><td>1972</td><td>1<sup>er</sup> juin</td><td colspan="2">1973</td></tr>
+<tr><td>Portugal<sup>\*</sup></td><td>8 avril</td><td>1968</td><td>8 octobre</td><td colspan="2">1968</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>4 août</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Sainte-Lucie</td><td>4 août</td><td>1965 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Seychelles</td><td>21 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Suisse</td><td>21 janvier</td><td>1966</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Syrie</td><td>10 juillet</td><td>1972 A</td><td>10 janvier</td><td colspan="2">1973</td></tr>
+<tr><td>Tonga<sup>\*</sup></td><td>13 juin</td><td>1978 A</td><td>13 décembre</td><td colspan="2">1978</td></tr>
+<tr><td>Tuvalu</td><td>21 août</td><td>1964 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td>Vanuatu</td><td>8 décembre</td><td>1966 A</td><td>31 mai</td><td colspan="2">1968</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français peuvent être consultés à l’adresse du site internet du Ministère des Affaires étrangères de Belgique: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 23 sept. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-Réserves et déclarations
-
-Fidji
-
-Le Gouvernement des Fidji a ratifié la convention sous les réserves suivantes:
-
-- 1\. conformément aux dispositions du par. 2, let. a du protocole de signature, il exclut l’application de l’art. 1, par. 1, let. c de la convention;
-- 2\. conformément aux dispositions du par. 2, let. b dudit protocole de signature, le Gouvernement des Fidji réglera par dispositions spéciales de sa loi nationale le système de limitation de responsabilité applicable aux navires de moins de 300 tonnes de jauge;
-- 3\. il se réserve également le droit d’étendre ladite convention à tout territoire dont il est chargé d’assurer les relations internationales, de subordonner pareille extension à l’une ou à toutes les réserves énoncées au par. 2 dudit protocole de signature; en outre, conformément aux dispositions du par. 2, let. c dudit protocole de signature, il déclare que ladite convention, en tant que telle, ne fait pas partie de la législation, mais que les dispositions appropriées pour lui donner effet ont été incluses dans la législation nationale.
-
-Ghana
-
-Le Gouvernement ghanéen se réserve le droit:
-
-- 1\. d’exclure du champ d’application de la convention les obligations et les responsabilités prévues par l’art. 1, par. 1, let. c;
-- 2\. de régler par des dispositions particulières de sa loi nationale le système de limitation de responsabilité applicable aux propriétaires de navires de moins de 300 tonnes de jauge;
-- 3\. de donner effet à la présente convention, soit en lui donnant force de loi, soit en incluant dans la législation nationale les dispositions de la convention sous une forme appropriée à cette législation.
-
-Inde
-
-Mêmes réserves que le Ghana.
-
-Iran
-
-En signant la convention, le Gouvernement de l’Iran s’est réservé le droit:
-
-- 1\. d’exclure l’application de l’art. 1, par. 1, let. c;
-- 2\. de régler par loi nationale le système de limitation de responsabilité applicable aux navires de moins de 300 tonneaux de jauge;
-- 3\. de donner effet à la présente convention, soit en lui donnant force de loi, soit en incluant dans la législation nationale les dispositions de la présente convention sous une forme appropriée à cette législation.
-
-Israël
-
-Mêmes réserves que le Ghana.
-
-Monaco
-
-Monaco a formulé les trois réserves prévues au par. 2 a), b) et c) du Protocole de signature.
-
-Papouasie-Nouvelle-Guinée
-
-a) Le Gouvernement de Papouasie-Nouvelle-Guinée exclut l’application de l’art. 1; par. 1 c).
-
-b) Le Gouvernement de Papouasie-Nouvelle-Guinée réglera par les dispositions spéciales de la loi nationale le système de limitation de responsabilité applicable aux navires de moins de 300 tonneaux de jauge.
-
-c) Le Gouvernement de Papouasie-Nouvelle-Guinée donnera force de loi à la présente convention en incluant les dispositions de la présente convention dans la législation nationale de la Papouasie-Nouvelle-Guinée.
-
-Portugal
-
-Mêmes réserves que le Ghana.
-
-Iles Salomon
-
-Mêmes réserves que celles de la Grande-Bretagne, à savoir les réserves énoncées au par. 2, let. a et b, du protocole de signature (RO **1973** 701).
-
-Tonga
-
-Le Gouvernement de Tonga se réserve le droit:
-
-- 1\. d’exclure l’application de l’art. 1, par. 1, let. c, de la convention;
-- 2\. de régler par des dispositions particulières de sa loi nationale le système de limitation de responsabilité applicable aux navires de moins de 300 tonneaux de jauge.
+[^t-4]: [RO 1973 698](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699); [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508); [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530); [1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605); [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262); [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149); [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538); [1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732); [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246); [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143); [2011 3555](https://fedlex.data.admin.ch/eli/oc/2011/486); [2024 339](https://fedlex.data.admin.ch/eli/oc/2024/339). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

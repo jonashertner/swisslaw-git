@@ -3,27 +3,28 @@ sr: "0.747.331.52"
 title: Convenzione internazionale del 10 ottobre 1957 concernente la limitazione della responsabilità dei proprietari delle navi di mare (con Protocollo di firma)
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505"
 language: it
-version: 2011-07-13
+version: 2024-07-01
 adopted: 1957-10-10
 in_force: 1968-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20110713/it/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20110713-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20110713/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione internazionale concernente la limitazione della responsabilità dei proprietari di navi di mare****
+# Convenzione internazionale concernente la limitazione della responsabilità dei proprietari di navi di mare
 
-Traduzione*[^t-2]*[^t-1]
+RU **1966** 1505; FF **1965** II 1[^t-1]
 
-Conclusa a Bruxelles il 10 ottobre 1957 Approvata dall’Assemblea federale il 1<sup>o</sup> dicembre 1965[^t-3] Strumento di ratifica depositato dalla Svizzera il 21 gennaio 1966 Entrata in vigore per la Svizzera il 31 maggio 1968[^t-4]
+Traduzione
 
-(Stato 13 luglio 2011)
+Conclusa a Bruxelles il 10 ottobre 1957 Approvata dall’Assemblea federale il 1<sup>o</sup> dicembre 1965[^t-2] Strumento di ratifica depositato dalla Svizzera il 21 gennaio 1966 Entrata in vigore per la Svizzera il 31 maggio 1968[^t-3]
+
+(Stato 1° luglio 2024)
 
 [^t-1]: La presente Conv. è solo ancora applicabile per la Svizzera nei rapporti con gli Stati che non fanno parte della Conv. del 1976 sulla limitazione della responsabilità in materia di rivendicazioni marittime ([RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)art. 17n.4). Vedere la lista degli Stati partecipanti pubblicata qui appresso.
-[^t-2]: RU **1966** 1505; FF **1965** II 1 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: Art 1 cpv. 1 lett. a del DF del 1<sup>o</sup> dic. 1965 ([RU 1966 993](https://fedlex.data.admin.ch/eli/oc/1966/975_1001_993)).
-[^t-4]: [RU 1968 1304](https://fedlex.data.admin.ch/eli/oc/1968/1340_1388_1304)
+[^t-2]: Art 1 cpv. 1 lett. a del DF del 1<sup>o</sup> dic. 1965 ([RU 1966 993](https://fedlex.data.admin.ch/eli/oc/1966/975_1001_993)).
+[^t-3]: [RU 1968 1304](https://fedlex.data.admin.ch/eli/oc/1968/1340_1388_1304)
 
 Le alte Parti contraenti:
 
@@ -185,108 +186,56 @@ La presente convenzione sostituisce e abroga, per gli Stati che la ratificano o 
 
 *In fede di che,* i plenipotenziari debitamente autorizzati, hanno firmato la presente convenzione. *Fatto* a Bruxelles, il 10 ottobre 1957, nelle lingue francese e inglese, i due testi facendo ugualmente fede, in un solo esemplare che resterà depositato presso gli archivi del Governo belga il quale ne rilascia copie certificate conformi.
 
-Protocollo di Firma
-
 \1. Ciascun Stato può, all’atto della firma o ratificazione della presente convenzione o dell’adesione ad essa, formulare le riserve previste nel numero 2. Non sono ammesse altre riserve.
 
 \2. Possono essere fatte le seguenti riserve:
 
 - a. di escludere l’applicazione dell’articolo 1, numero 1, lettera c;
 - b. di disciplinare mediante legge interna il sistema di limitazione della responsabilità applicabile alle navi di stazza inferiore alle 300 tonnellate;
-- e. di dare effetto alla presente convenzione sia conferendole forza di legge sia includendola, sotto forma adeguata, nella legislazione interna.
+- c. di dare effetto alla presente convenzione sia conferendole forza di legge sia includendola, sotto forma adeguata, nella legislazione interna.
 
 **(Seguono le firme)**
 
-## Campo d'applicazione il 13 luglio 2011****
+Protocollo di Firma
 
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: [RU 1973 699](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699), [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508), [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530),[1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605), [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262), [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149), [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538),[1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732), [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246), [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143)e [2011 3555](https://fedlex.data.admin.ch/eli/oc/2011/486). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+Campo d’applicazione il 1° luglio 2024[^t-4]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>18 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Macao<sup>a</sup></td><td>6 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Figi<sup>\*</sup></td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
-<tr><td colspan="2">Ghana<sup>\*</sup></td><td>26 luglio</td><td>1961 A</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">India<sup>\*</sup></td><td>1° giugno</td><td>1971</td><td>1° dicembre</td><td>1971</td></tr>
-<tr><td colspan="2">Iran<sup>\*</sup></td><td>26 aprile</td><td>1966 A</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Israele<sup>\*</sup></td><td>30 novembre</td><td>1967</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Libano</td><td>23 dicembre</td><td>1994 A</td><td>23 giugno</td><td>1995</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 luglio</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Monaco<sup>\*</sup></td><td>24 gennaio</td><td>1977 A</td><td>24 luglio</td><td>1977</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td>16 giugno</td><td>1986</td><td>16 dicembre</td><td>1986</td></tr>
-<tr><td colspan="2">Papua Nuova Guinea<sup>\*</sup></td><td>14 marzo</td><td>1980 A</td><td>14 settembre</td><td>1980</td></tr>
-<tr><td colspan="2">Polonia</td><td>1° dicembre</td><td>1972</td><td>1° giugno</td><td>1973</td></tr>
-<tr><td colspan="2">Portogallo<sup>\*</sup></td><td>8 aprile</td><td>1968</td><td>8 ottobre</td><td>1968</td></tr>
-<tr><td colspan="2">Salomone, Isole<sup>\*</sup></td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
-<tr><td colspan="2">Siria</td><td>10 luglio</td><td>1972 A</td><td>10 gennaio</td><td>1973</td></tr>
-<tr><td colspan="2">Svizzera</td><td>21 gennaio</td><td>1966</td><td>31 maggio</td><td>1968</td></tr>
-<tr><td colspan="2">Tonga<sup>\*</sup></td><td>13 giugno</td><td>1978 A</td><td>13 dicembre</td><td>1978</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">[tab] Riserve e dichiarazioni. vedi qui appresso.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">[tab] Dal 23 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>18 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Bahamas</td><td>21 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Barbados</td><td>4 agosto</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Macao <sup>a</sup></td><td>6 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Dominica</td><td>4 agosto</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Figi<sup>\*</sup></td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Ghana<sup>\*</sup></td><td>26 luglio</td><td>1961 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Grenada</td><td>4 agosto</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Guyana</td><td>25 marzo</td><td>1966 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>India<sup>\*</sup></td><td>1° giugno</td><td>1971</td><td>1° dicembre</td><td>1971</td></tr>
+<tr><td>Iran<sup>\*</sup></td><td>26 aprile</td><td>1966</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Israele<sup>\*</sup></td><td>30 novembre</td><td>1967</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Kiribati</td><td>21 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Libano</td><td>23 dicembre</td><td>1994 A</td><td>23 giugno</td><td>1995</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Maurizio</td><td>21 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Monaco<sup>\*</sup></td><td>24 gennaio</td><td>1977 A</td><td>24 luglio</td><td>1977</td></tr>
+<tr><td>Paesi Bassi</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Aruba</td><td>16 giugno</td><td>1986</td><td>16 dicembre</td><td>1986</td></tr>
+<tr><td>Papua Nuova Guinea<sup>\*</sup></td><td>14 marzo</td><td>1980 A</td><td>14 settembre</td><td>1980</td></tr>
+<tr><td>Polonia</td><td>1° dicembre</td><td>1972</td><td>1° giugno</td><td>1973</td></tr>
+<tr><td>Portogallo<sup>\*</sup></td><td>8 aprile</td><td>1968</td><td>8 ottobre</td><td>1968</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>4 agosto</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Salomone, Isole<sup>\*</sup></td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
+<tr><td>Santa Lucia</td><td>4 agosto</td><td>1965 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Seicelle</td><td>21 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Siria</td><td>10 luglio</td><td>1972 A</td><td>10 gennaio</td><td>1973</td></tr>
+<tr><td>Svizzera</td><td>21 gennaio</td><td>1966</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Tonga<sup>\*</sup></td><td>13 giugno</td><td>1978 A</td><td>13 dicembre</td><td>1978</td></tr>
+<tr><td>Tuvalu</td><td>21 agosto</td><td>1964 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Vanuatu</td><td>8 dicembre</td><td>1966 A</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo in francese può essere consultato sul sito Internet del Ministero degli affari esteri del Belgio: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 23 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. [tab]</td></tr>
 </table>
 
-Riserve e dichiarazioni
-
-Figi
-
-Il Governo delle Figi, ha ratificato la convenzione con le seguenti riserve:
-
-- 1\. Detto Governo esclude l’applicazione dell’articolo 1 paragrafo 1 lettera c della convenzione conformemente alle disposizioni di cui al paragrafo 2 lettera a del protocollo di firma;
-- 2\. conformemente alle disposizioni di cui al paragrafo 2 lettera b del detto protocollo di firma il Governo delle Figi disciplinerà in norme speciali della propria legge nazionale il sistema di limitazione di responsabilità applicabile alle navi inferiori a 300 tonnellate di stazza;
-- 3\. egli si riserva parimenti il diritto d’estendere detta convenzione a tutti i territori cui assicura le relazioni internazionali e di subordinare tale estensione all’una o a tutte le riserve di cui al paragrafo 2 del protocollo di firma: inoltre, conformemente alle disposizioni di cui al paragrafo 2 lettera c del protocollo di firma, dichiara che detta convenzione, come tale, non fa parte della legislazione delle Figi ma che, nella propria legislazione nazionale, sono state incluse disposizioni appropriate per renderla efficace.
-
-Ghana
-
-Il governo del Ghana si riserva il diritto:
-
-- 1\. d’escludere dal campo d’applicazione della convenzione gli obblighi e le responsabilità previsti nell’articolo 1 paragrafo 1 lettera c;
-- 2\. di regolare con disposizioni particolari, giusta la propria legge nazionale, il sistema di limitazione di responsabilità applicabile ai proprietari di navi inferiori a 300 tonnellate di stazza;
-- 3\. di dare effetto alla presente convenzione sia conferendole forza di legge, sia includendone appropriatamente le disposizioni nella legislazione interna.
-
-India
-
-Le stesse riserve del Ghana.
-
-Iran
-
-Firmando la convenzione il Governo dell’Iran s’è riservato il diritto di:
-
-- 1\. escludere l’applicazione dell’articolo 1 paragrafo 1 lettera c;
-- 2\. regolare nella propria legge nazionale il sistema di limitazione di responsabilità applicabile alle navi inferiori a 300 tonnellate di stazza;
-- 3\. dare effetto alla presente convenzione sia conferendole forza di legge, sia includendone appropriatamente le disposizioni nella legislazione interna.
-
-Israele
-
-Le stesse riserve del Ghana.
-
-Monaco
-
-Monaco ha formulato le tre riserve previste al paragrafo 2 a), b) e c) del Protocollo di firma.
-
-Papua Nuova Guinea
-
-a) Il Governo della Papuasia-Nuova Guinea esclude l’applicazione dell’articolo 1 paragrafo 1 c).
-
-b) Il Governo della Papuasia-Nuova Guinea regolerà con disposizioni speciali della legge nazionale il sistema di limitazione di responsabilità applicabile alle navi con meno di 300 tonnellate di stazza.
-
-c) Il Governo della Papuasia-Nuova Guinea renderà applicabile la presente convenzione includendone le disposizioni nella sua legislazione nazionale.
-
-Portogallo
-
-Le stesse riserve del Ghana.
-
-Salomone Isole
-
-Stesse riserve di quelle delle Figi, ossia le riserve enunciate al paragrafo 2 lettere a e b del protocollo di firma (RU **1973** 701).
-
-Tonga
-
-Il governo di Tonga si riserva il diritto di:
-
-- 1\. escludere l’applicazione dell’articolo 1 paragrafo 1 lettera c della convenzione;
-- 2\. regolare con disposizioni particolari nella propria legge nazionale il sistema di limitazione di responsabilità applicabile alle navi inferiori a 300 tonnellate di stazza.
+[^t-4]: [RU 1973 699](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699); [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508); [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530); [1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605); [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262); [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149); [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538); [1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732); [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246); [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143); [2011 3555](https://fedlex.data.admin.ch/eli/oc/2011/486); [2024 339](https://fedlex.data.admin.ch/eli/oc/2024/339). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

@@ -3,27 +3,28 @@ sr: "0.747.331.52"
 title: Internationales Übereinkommen vom 10. Oktober 1957 über die Beschränkung der Haftung der Eigentümer von Seeschiffen (mit Unterzeichnungsprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505"
 language: de
-version: 2011-07-13
+version: 2024-07-01
 adopted: 1957-10-10
 in_force: 1968-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20110713/de/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20110713-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20110713/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1467_1517_1505/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1966-1467_1517_1505-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1467_1517_1505/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Internationales Übereinkommen über die Beschränkung der Haftung der Eigentümer von Seeschiffen****
+# Internationales Übereinkommen über die Beschränkung der Haftung der Eigentümer von Seeschiffen
 
-Übersetzung*[^t-2]*[^t-1]
+AS **1966** 1467; BBl **19****65**II 1[^t-1]
 
-Abgeschlossen in Brüssel am 10. Oktober 1957 Von der Bundesversammlung genehmigt am 1. Dezember 1965[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 21. Januar 1966 In Kraft getreten für die Schweiz am 31. Mai 1968[^t-4]
+Übersetzung
 
-(Stand am 13. Juli 2011)
+Abgeschlossen in Brüssel am 10. Oktober 1957 Von der Bundesversammlung genehmigt am 1. Dezember 1965[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 21. Januar 1966 In Kraft getreten für die Schweiz am 31. Mai 1968[^t-3]
+
+(Stand am 1. Juli 2024)
 
 [^t-1]: Dieses Übereinkommen ist nur noch anwendbar im Verhältnis mit den Staaten, die dem Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen ([SR 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)Art. 17 Ziff. 4) nicht angehören. Siehe die Liste der Vertragsstaaten am Schluss des vorliegenden Übereink.
-[^t-2]: AS **1966** 1467; BBl **1965** II 1 Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-3]: Art. 1 Abs. 1 Bst. a des BB vom 1. Dez. 1965 ([AS 1966 975](https://fedlex.data.admin.ch/eli/oc/1966/975_1001_993)).
-[^t-4]: [AS 1968 1340](https://fedlex.data.admin.ch/eli/oc/1968/1340_1388_1304)
+[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 1. Dez. 1965 ([AS 1966 975](https://fedlex.data.admin.ch/eli/oc/1966/975_1001_993)).
+[^t-3]: [AS 1968 1340](https://fedlex.data.admin.ch/eli/oc/1968/1340_1388_1304)
 
 Die Hohen Vertragsparteien,
 
@@ -193,96 +194,45 @@ Unterzeichnungsprotokoll
 - b) der Vorbehalt des Rechtes, die Haftungsbeschränkung für Schiffe mit weniger als dreihundert Tonnen Schiffsraum durch innerstaatliche Rechtsvorschriften abweichend zu regeln;
 - c) der Vorbehalt des Rechtes, dieses Übereinkommen entweder dadurch in Kraft zu setzen, dass ihm Gesetzeskraft verliehen wird, oder dadurch, dass seine Bestimmungen in einer dem innerstaatlichen Recht angepassten Form in dieses Recht übernommen werden.
 
-## Geltungsbereich am 13. Juli 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: [AS 1973 698](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699), [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508), [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530),[1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605), [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262), [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149), [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538),[1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732), [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246), [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143)und [2011 3555](https://fedlex.data.admin.ch/eli/oc/2011/486). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+Geltungsbereich am 1. Juli 2024[^t-4]
 
 <table>
-<tr><th colspan="3">Vertragsstaaten</th><th colspan="4">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="4"></th><th colspan="3">Inkrafttreten</th><th colspan="3"></th></tr>
-<tr><td colspan="4">Algerien</td><td colspan="4">18. August</td><td colspan="4">1964 B</td><td colspan="3">31. Mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="4">[tab] China</td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td colspan="4">[tab] Macau<sup>a</sup></td><td colspan="4">6. Dezember</td><td colspan="4">1999</td><td colspan="3">20. Dezember</td><td colspan="2">1999</td></tr>
-<tr><td colspan="4">Fidschi\*</td><td colspan="4">22. August</td><td colspan="4">1972 N</td><td colspan="3">10. Oktober</td><td colspan="2">1970</td></tr>
-<tr><td colspan="4">Ghana\*</td><td colspan="4">26. Juli</td><td colspan="4">1961 B</td><td colspan="3">31. Mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="4">Indien\*</td><td colspan="4">1. Juni</td><td colspan="4">1971</td><td colspan="3">1. Dezember</td><td colspan="2">1971</td></tr>
-<tr><td colspan="4">Iran\*</td><td colspan="4">26. April</td><td colspan="4">1966 B</td><td colspan="3">31. Mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="4">Israel\*</td><td colspan="4">30. November</td><td colspan="4">1967</td><td colspan="3">31. Mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="5">Kongo (Kinshasa)</td><td colspan="4">17. Juli</td><td colspan="4">1967 B</td><td colspan="2">31. Mai</td><td colspan="2">1968</td></tr>
-<tr><td colspan="5">Libanon</td><td colspan="4">23. Dezember</td><td colspan="4">1994 B</td><td colspan="3">23. Juni</td><td>1995</td></tr>
-<tr><td colspan="5">Madagaskar</td><td colspan="4">13. Juli</td><td colspan="4">1965 B</td><td colspan="3">31. Mai</td><td>1968</td></tr>
-<tr><td colspan="5">Monaco\*</td><td colspan="4">24. Januar</td><td colspan="4">1977 B</td><td colspan="3">24. Juli</td><td>1977</td></tr>
-<tr><td colspan="5">[tab] Niederlande</td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td></td></tr>
-<tr><td colspan="5">[tab] Aruba</td><td colspan="4">16. Juni</td><td colspan="4">1986</td><td colspan="3">16. Dezember</td><td>1986</td></tr>
-<tr><td colspan="5">Papua-Neuguinea\*</td><td colspan="4">14. März</td><td colspan="4">1980 B</td><td colspan="3">14. September</td><td>1980</td></tr>
-<tr><td colspan="5">Polen</td><td colspan="4">1. Dezember</td><td colspan="4">1972</td><td colspan="3">1. Juni</td><td>1973</td></tr>
-<tr><td colspan="5">Portugal\*</td><td colspan="4">8. April</td><td colspan="4">1968</td><td colspan="3">8. Oktober</td><td>1968</td></tr>
-<tr><td colspan="5">Salomoninseln\*</td><td colspan="4">17. September</td><td colspan="4">1981 N</td><td colspan="3">7. Juli</td><td>1978</td></tr>
-<tr><td colspan="5">Schweiz</td><td colspan="4">21. Januar</td><td colspan="4">1966</td><td colspan="3">31. Mai</td><td>1968</td></tr>
-<tr><td colspan="5">Syrien</td><td colspan="4">10. Juli</td><td colspan="4">1972 B</td><td colspan="3">10. Januar</td><td>1973</td></tr>
-<tr><td colspan="5">Tonga\*</td><td colspan="4">13. Juni</td><td colspan="4">1978 B</td><td colspan="3">13. Dezember</td><td>1978</td></tr>
-<tr><td>\*</td><td colspan="16">Vorbehalte und Erklärungen siehe hiernach.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="16">Vom 23. Sept. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td colspan="2">Algerien</td><td colspan="2">18. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Bahamas</td><td colspan="2">21. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Barbados</td><td colspan="2">4. August</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">[tab] China</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">Macau <sup>a</sup></td><td colspan="2">6. Dezember</td><td colspan="2">1999</td><td>20. Dezember</td><td>1999</td></tr>
+<tr><td colspan="2">Dominica</td><td colspan="2">4. August</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Fidschi\*</td><td colspan="2">22. August</td><td colspan="2">1972 N</td><td>10. Oktober</td><td>1970</td></tr>
+<tr><td colspan="2">Ghana\*</td><td colspan="2">26. Juli</td><td colspan="2">1961 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Grenada</td><td colspan="2">4. August</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Guyana</td><td colspan="2">25. März</td><td colspan="2">1966 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Indien\*</td><td colspan="2">1. Juni</td><td colspan="2">1971</td><td>1. Dezember</td><td>1971</td></tr>
+<tr><td colspan="2">Iran\*</td><td colspan="2">26. April</td><td colspan="2">1966</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Israel\*</td><td colspan="2">30. November</td><td colspan="2">1967</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Kiribati</td><td colspan="2">21. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Kongo (Kinshasa)</td><td colspan="2">17. Juli</td><td colspan="2">1967 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Libanon</td><td colspan="2">23. Dezember</td><td colspan="2">1994 B</td><td>23. Juni</td><td>1995</td></tr>
+<tr><td colspan="2">Madagaskar</td><td colspan="2">13. Juli</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Mauritius</td><td colspan="2">21. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Monaco\*</td><td colspan="2">24. Januar</td><td colspan="2">1977 B</td><td>24. Juli</td><td>1977</td></tr>
+<tr><td colspan="2">[tab] Niederlande</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">Aruba</td><td colspan="2">16. Juni</td><td colspan="2">1986</td><td>16. Dezember</td><td>1986</td></tr>
+<tr><td colspan="2">Papua-Neuguinea\*</td><td colspan="2">14. März</td><td colspan="2">1980 B</td><td>14. September</td><td>1980</td></tr>
+<tr><td colspan="2">Polen</td><td colspan="2">1. Dezember</td><td colspan="2">1972</td><td>1. Juni</td><td>1973</td></tr>
+<tr><td colspan="2">Portugal\*</td><td colspan="2">8. April</td><td colspan="2">1968</td><td>8. Oktober</td><td>1968</td></tr>
+<tr><td colspan="2">Salomoninseln\*</td><td colspan="2">17. September</td><td colspan="2">1981 N</td><td>7. Juli</td><td>1978</td></tr>
+<tr><td colspan="2">Schweiz</td><td colspan="2">21. Januar</td><td colspan="2">1966</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Seychellen</td><td colspan="2">21. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">St. Lucia</td><td colspan="2">4. August</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">St. Vincent und die Grenadinen</td><td colspan="2">4. August</td><td colspan="2">1965 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Syrien</td><td colspan="2">10. Juli</td><td colspan="2">1972 B</td><td>10. Januar</td><td>1973</td></tr>
+<tr><td colspan="2">Tonga\*</td><td colspan="2">13. Juni</td><td colspan="2">1978 B</td><td>13. Dezember</td><td>1978</td></tr>
+<tr><td colspan="2">Tuvalu</td><td colspan="2">21. August</td><td colspan="2">1964 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="2">Vanuatu</td><td colspan="2">8. Dezember</td><td colspan="2">1966 B</td><td>31. Mai</td><td>1968</td></tr>
+<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen Texte können auf der Internetseite des belgischen Aussenministeriums eingesehen werden: [https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire](https://diplomatie.belgium.be/fr/traites/accords-dont-la-belgique-est-depositaire), oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="8"><sup>a</sup> Vom 23. Sept. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
-
-Fidschi
-
-Bei der Ratifikation hat sich die Regierung das Recht vorbehalten:
-
-- 1\. gemäss den Bestimmungen von Absatz 2 Buchstabe a des Unterzeichnungsprotokolls die Bestimmungen von Artikel 1 Buchstabe c des Übereinkommens nicht anzuwenden;
-- 2\. gemäss den Bestimmungen von Absatz 2 Buchstabe b des Unterzeichnungsprotokolls, die Haftungsbeschränkung für Schiffe mit weniger als 300 Tonnen Schiffsraum durch innerstaatliche Rechtsvorschriften zu regeln;
-- 3\. ausserdem, gemäss den Bestimmungen von Absatz 2 Buchstabe c des Unterzeichnungsprotokolls, erklärt die Regierung, dass das Übereinkommen als solches nicht Bestandteil der Rechtsordnung ist, aber dass entsprechende Bestimmungen in das Landesrecht aufgenommen worden sind, um dem Übereinkommen Rechtskraft zu verleihen.
-
-Ghana
-
-Ghana hat sich das Recht vorbehalten:
-
-- 1\. die Bestimmungen von Artikel 1 Absatz 1 Buchstabe c nicht anzuwenden:
-- 2\. die Haftungsbeschränkung für Schiffe mit weniger als dreihundert Tonnen Schiffsraum durch innerstaatliche Rechtsvorschriften zu regeln;
-- 3\. das Übereinkommen entweder dadurch in Kraft zu setzen, dass ihm Gesetzeskraft verliehen wird, oder dadurch, dass seine Bestimmungen in einer dem innerstaatlichen Recht angepassten Form in dieses Recht übernommen werden.
-
-Indien
-
-Gleiche Vorbehalte wie Ghana.
-
-Iran
-
-Bei der Unterzeichnung des Übereinkommens hat sich Iran das Recht vorbehalten:
-
-- 1\. die Bestimmungen von Artikel 1 Absatz 1 Buchstabe c nicht anzuwenden;
-- 2\. die Haftungsbeschränkung für Schiffe mit weniger als dreihundert Tonnen Schiffsraum durch innerstaatliche Rechtsvorschriften zu regeln;
-- 3\. das Übereinkommen entweder dadurch in Kraft zu setzen, dass ihm Gesetzeskraft verliehen wird, oder dadurch, dass seine Bestimmungen in einer dem innerstaatlichen Recht angepassten Form in dieses Recht übernommen werden.
-
-Israel
-
-Gleiche Vorbehalte wie Ghana.
-
-Monaco
-
-Monaco hat die drei Vorbehalte, die in Absatz 2 Buchstaben a), b) und c) des Unterzeichnungsprotokolls vorgesehen sind, angebracht.
-
-Papua-Neuguinea
-
-a) Die Regierung von Papua-Neuguinea schliesst die Anwendung von Artikel 1 Absatz 1 Buchstabe c aus.
-
-b) Die Regierung von Papua-Neuguinea wird das auf Schiffe mit weniger als 300 Raumtonnen anwendbare System der Haftungsbeschränkung mittels spezieller Bestimmungen der nationalen Gesetzgebung regeln.
-
-c) Die Regierung von Papua-Neuguinea wird dem vorliegenden Übereinkommen Gesetzeskraft verleihen, indem sie die Bestimmungen des vorliegenden Übereinkommens der nationalen Gesetzgebung von Papua-Neuguinea einverleiben wird.
-
-Portugal
-
-Gleiche Vorbehalte wie Ghana
-
-Salomoninseln
-
-Die Vorbehalte gemäss Absatz 2 Buchstaben a und b des Unterzeichnungsprotokolls.
-
-Tonga
-
-Die Regierung von Tonga behält sich das Recht vor:
-
-- 1\. die Bestimmungen von Artikel 1 Absatz 1 Buchstabe c des Übereinkommens nicht anzuwenden,
-- 2\. die Haftungsbeschränkung für Schiffe mit weniger als 300 Tonnen Schiffsraum durch innerstaatliche Rechtsvorschriften zu regeln.
+[^t-4]: [AS 1973 698](https://fedlex.data.admin.ch/eli/oc/1973/698_698_699); [1982 508](https://fedlex.data.admin.ch/eli/oc/1982/508_508_508); [1984 530](https://fedlex.data.admin.ch/eli/oc/1984/530_530_530); [1985 605](https://fedlex.data.admin.ch/eli/oc/1985/605_605_605); [1986 2262](https://fedlex.data.admin.ch/eli/oc/1986/2262_2262_2262); [1987 1149](https://fedlex.data.admin.ch/eli/oc/1987/1149_1149_1149); [1988 1538](https://fedlex.data.admin.ch/eli/oc/1988/1538_1538_1538); [1990 1732](https://fedlex.data.admin.ch/eli/oc/1990/1732_1732_1732); [2005 1599](https://fedlex.data.admin.ch/eli/oc/2005/246); [2008 625](https://fedlex.data.admin.ch/eli/oc/2008/143); [2011 3555](https://fedlex.data.admin.ch/eli/oc/2011/486); [2024 339](https://fedlex.data.admin.ch/eli/oc/2024/339). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
