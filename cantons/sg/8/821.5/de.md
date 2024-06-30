@@ -4,13 +4,13 @@ number: "821.5"
 title: Gebührentarif für die Kantons- und Gemeindeverwaltung
 short: GebT
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-21
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-21
 adopted: 2000-05-02
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/821.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3583/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3638/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gebührentarif für die Kantons- und Gemeindeverwaltung
 
-vom 2. Mai 2000 (Stand 1. Januar 2024)[^t-1]
+vom 2. Mai 2000 (Stand 1. Juli 2024)[^t-1]
 
 Die Regierung des Kantons St.Gallen
 
@@ -673,7 +673,11 @@ kräftige Steuerforderungen … 50.—
 
 [^hNrFBauundUmwe-1][^hNrFBauundUmwe-2]
 
-26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.—
+26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.— 26.09.01[^hPlanungsundBauges-10] Erlass bzw. Änderung kantonaler Sonder nutzungspläne (Art. 32) … 3000.— bis 50 000.— 26.09.02[^hPlanungsundBauges-11] Baubewilligungen (Art. 146; Art. 9a PBV) . . . 100.— bis 10 000.— 26.09.03[^hPlanungsundBauges-12] Baubewilligungen bei besonders aufwändigen Verfahren … 10000.— bis 50 000.— Nr. Strassengesetz vom 12. Juni 1988[^hPlanungsundBauges-13]
+
+**Fr.**
+
+26.06.01 Genehmigung des Gemeindestrassenplans (Art. 13) … 170.— bis 6900.— 26.06.02.01 Genehmigung des Parkierungs Reglementes (Art. 20, 21, 29) … 75.— bis 2000.— 26.06.02.02 Verfügung über Gemeingebrauch, gesteigerter Gemeingebrauch und Sondernutzung (Art.20 bis 29) … 150.— bis 10 000.— 26.06.03 Bewilligung zum Bau oder zur Änderung von Zufahrten sowie zur Ableitung von Wasser auf Strassen (Art. 63) … 200.— bis 4000.— 26.06.04 Durchführung des Kostenverlegungsverfah rens (Art. 71) … 170.— bis 6900.— 26.06.05.01 Verfügung über Strassenabstände, Sicht zonen, Zutrittsverbotslinien und Immissions verbotslinien (Art. 102) … 200.— bis 4000.— 26.06.05.02 Genehmigung von kommunalen Bauvor schriften (Art. 102) … 200.— bis 4000.— 26.06.05.03 Erlass von Baulinien an Kantonsstrassen (Art. 102bis) … 200.— bis 4000.— 26.06.06 Ausnahmen von Strassenabstandsvorschrif ten (Art. 108) … 200.— bis 6000.—
 
 [^hPlanungsundBauges-1]: Geändert durch XII. Nachtrag.
 [^hPlanungsundBauges-2]: Nr. 26.02 aufgehoben durch XII. Nachtrag.
@@ -684,13 +688,10 @@ kräftige Steuerforderungen … 50.—
 [^hPlanungsundBauges-7]: Eingefügt durch XII. Nachtrag.
 [^hPlanungsundBauges-8]: Eingefügt durch XII. Nachtrag.
 [^hPlanungsundBauges-9]: Eingefügt durch XXIII. Nachtrag.
-[^hPlanungsundBauges-10]: sGS 732.1.
-
-### Strassengesetz vom 12. Juni 1988
-
-[^hPlanungsundBauges-10]
-
-26.06.01 Genehmigung des Gemeindestrassenplans (Art. 13) … 170.— bis 6900.— 26.06.02.01 Genehmigung des Parkierungs Reglementes (Art. 20, 21, 29) … 75.— bis 2000.— 26.06.02.02 Verfügung über Gemeingebrauch, gesteigerter Gemeingebrauch und Sondernutzung (Art.20 bis 29) … 150.— bis 10 000.— 26.06.03 Bewilligung zum Bau oder zur Änderung von Zufahrten sowie zur Ableitung von Wasser auf Strassen (Art. 63) … 200.— bis 4000.— 26.06.04 Durchführung des Kostenverlegungsverfah rens (Art. 71) … 170.— bis 6900.— 26.06.05.01 Verfügung über Strassenabstände, Sicht zonen, Zutrittsverbotslinien und Immissions verbotslinien (Art. 102) … 200.— bis 4000.— 26.06.05.02 Genehmigung von kommunalen Bauvor schriften (Art. 102) … 200.— bis 4000.— 26.06.05.03 Erlass von Baulinien an Kantonsstrassen (Art. 102bis) … 200.— bis 4000.— 26.06.06 Ausnahmen von Strassenabstandsvorschrif ten (Art. 108) … 200.— bis 6000.—
+[^hPlanungsundBauges-10]: Eingefügt durch XXIV. Nachtrag.
+[^hPlanungsundBauges-11]: Eingefügt durch XXIV. Nachtrag.
+[^hPlanungsundBauges-12]: Eingefügt durch XXIV. Nachtrag.
+[^hPlanungsundBauges-13]: sGS 732.1.
 
 ### Gesetz über die Gewässernutzung
 
@@ -702,39 +703,37 @@ vom 5. Dezember 1960[^hGesetzüberdieGewä-1]
 
 zum Gesetz über die Gewässernutzung vom 17. Oktober 1961[^hVollzugsverordnung_2-1]
 
-26.10[^hVollzugsverordnung_2-2] Zustimmung zur Übertragung einer Bewilli gung (Art. 5 Abs. 2) … 250.— bis 700.— 26.11[^hVollzugsverordnung_2-3] Bewilligung zur Änderung der Nutzungsart oder zum Umbau oder zur Erweiterung der Nutzungsanlagen (Art. 6) … 250.— bis 5000.—
+26.10[^hVollzugsverordnung_2-2] Zustimmung zur Übertragung einer Bewilli gung (Art. 5 Abs. 2) … 250.— bis 700.— 26.11[^hVollzugsverordnung_2-3] Bewilligung zur Änderung der Nutzungsart oder zum Umbau oder zur Erweiterung der Nutzungsanlagen (Art. 6) … 250.— bis 5000.— Nr. Wasserbaugesetz vom 17. Mai 2009[^hVollzugsverordnung_2-4],[^hVollzugsverordnung_2-5]
+
+**Fr.**
+
+…[^hVollzugsverordnung_2-6] …[^hVollzugsverordnung_2-7] 26.17[^hVollzugsverordnung_2-8] Genehmigung für wasserbauliche Massnah men (Art. 32 WBG) … 150.– bis 4000.—
 
 [^hVollzugsverordnung_2-1]: sGS 751.11.
 [^hVollzugsverordnung_2-2]: Geändert durch XIII. Nachtrag.
 [^hVollzugsverordnung_2-3]: Geändert durch XIII. Nachtrag.
+[^hVollzugsverordnung_2-4]: sGS 734.11.
+[^hVollzugsverordnung_2-5]: Geändert durch XIII. Nachtrag.
+[^hVollzugsverordnung_2-6]: Nr. 26.15 aufgehoben durch XIII. Nachtrag.
+[^hVollzugsverordnung_2-7]: Nr. 26.16 aufgehoben durch XIII. Nachtrag.
+[^hVollzugsverordnung_2-8]: Eingefügt durch XIII. Nachtrag.
 
-### Wasserbaugesetz vom 17. Mai 2009<sup>209,210</sup>
+### Bundesgesetz über den Schutz der Gewässer
 
-…[^hWasserbaugesetzvom-1] …[^hWasserbaugesetzvom-2] 26.17[^hWasserbaugesetzvom-3] Genehmigung für wasserbauliche Massnah men (Art. 32 WBG) … 150.– bis 4000.— Nr. Bundesgesetz über den Schutz der Gewässer vom 24. Januar 1991[^hWasserbaugesetzvom-4],[^hWasserbaugesetzvom-5]
+vom 24. Januar 1991[^hBundesgesetzüberde_2-1],[^hBundesgesetzüberde_2-2]
 
-**Fr.**
+26.18[^hBundesgesetzüberde_2-3] Verfügung von Sanierungsmassnahmen bei Wasserkraftanlagen (Art. 39 a und 43 a) . . . . 500.— bis 20 000.— …[^hBundesgesetzüberde_2-4]
 
-26.18[^hWasserbaugesetzvom-6] Verfügung von Sanierungsmassnahmen bei Wasserkraftanlagen (Art. 39 a und 43 a) . . . . 500.— bis 20 000.— …[^hWasserbaugesetzvom-7]
-
-[^hWasserbaugesetzvom-1]: Nr. 26.15 aufgehoben durch XIII. Nachtrag.
-[^hWasserbaugesetzvom-2]: Nr. 26.16 aufgehoben durch XIII. Nachtrag.
-[^hWasserbaugesetzvom-3]: Eingefügt durch XIII. Nachtrag.
-[^hWasserbaugesetzvom-4]: SR 814.20.
-[^hWasserbaugesetzvom-5]: Eingefügt durch XI. Nachtrag.
-[^hWasserbaugesetzvom-6]: Eingefügt durch XI. Nachtrag.
-[^hWasserbaugesetzvom-7]: Titel und Nr. 26.20 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
+[^hBundesgesetzüberde_2-1]: SR 814.20.
+[^hBundesgesetzüberde_2-2]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_2-3]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_2-4]: Titel und Nr. 26.20 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
 
 ### Vollzugsgesetz zur eidgenössischen Gewässer-
 
 schutzgesetzgebung vom 11. April 1996[^hVollzugsgesetzzure-1],[^hVollzugsgesetzzure-2]
 
 26.20.01 Einleitungs und Versickerungsbewilligung (Art. 3, 3bis und 3ter) … 200.— bis 4000.— 26.20.02 Verfügung zur Behebung von Gewässerver unreinigungen durch Sickerwasser aus Depo nien (Art. 4 Abs. 2) … 200.— bis 20 000.— 26.20.03 Genehmigung des generellen Entwässerungs plans (Art. 5 Abs. 2) … 300.— bis 20 000.— 26.20.03.01 Zustimmung zu einer vom Klärschlamm Entsorgungsplan abweichenden Entsorgung (Art. 6 Abs. 2) … 100.— bis 3000.— 26.20.04 Genehmigung von Vereinbarungen über gemeinsame öffentliche Abwasseranlagen (Art. 8 Abs. 1) … 300.— bis 3000.— 26.20.05 Entscheid über die Kostenanteile bei ge meinsamen Anlagen (Art. 8 Abs. 3) … 500.— bis 3000.— 26.20.06 Verfügung über die Mitbenützung von Ab wasseranlagen (Art. 9 Abs. 2 und 4) … 100.— bis 3000.— 26.20.06.01[^hVollzugsgesetzzure-3] Überwachung von Abwasseranlagen (Art. 10) 100.— bis 4000.— 26.20.07 Verfügung betreffend Lagerung und Unter suchung von Klärschlamm (Art.12 Abs.1) . . . 100.— bis 3000.— 26.20.08 Verfügung bei zu hohem Schadstoffgehalt im Klärschlamm (Art. 12 Abs. 2) … 100.— bis 3000.— 26.20.09 Entscheid über die Einleitung von ver schmutztem Abwasser (Art. 13 Abs. 2) … 100.— bis 3000.— 26.20.10 Entscheid in Sonderfällen und über beson dere Verfahren (Art. 22) … 100.— bis 3000.— 26.20.11 Verfügungen betreffend Betriebe mit Nutz tierhaltungen (Art. 24 Abs. 1) … 100.— bis 3000.— 26.20.12[^hVollzugsgesetzzure-4] Kontrolle von Anlagen (Art. 25) … 150.— bis 10 000.— 26.20.13 Anhörung der zuständigen Stelle des Staates (Art. 26 Abs. 2) … 100.— bis 3000.— 26.20.14 Einteilung und Anpassung von Gewässer schutzbereichen (Art. 27) … 100.— bis 1000.— 26.20.15 Bewilligung in besonders gefährdeten Berei chen (Art. 28) … 150.— bis 5000.— 26.20.15.01[^hVollzugsgesetzzure-5] Bewilligung von Bohrungen und erheb lichen Grabungen (Art. 28bis) … 150.— bis 5000.— 26.20.15.02 Verfügung über besondere Massnahmen in Zuströmbereichen (Art. 28ter) … 150.— bis 5000.— 26.20.16 Entscheid über Einsprachen in der Zone S, wenn das Departement die Ausscheidung vorgenommen hat (Art. 31 Abs. 2 Bst. b) . . . . 400.— bis 5000.— 26.20.17 Genehmigung des Umgrenzungsplans einer Gemeinde (Art. 32) … 400.— bis 6000.— 26.20.18 Verfügung über die Kostentragungspflicht bei der Ausscheidung von Schutzzonen und Schutzarealen (Art. 33 Abs. 2) … 200.— bis 4000.— 26.20.19 Ausnahmebewilligung in der Zone S (Art. 34 Abs. 2) … 200.— bis 3000.— 26.20.20 Verfügung weitergehender Schutzmassnah men (Art. 34 Abs. 2) … 100.— bis 2000.— 26.20.21 Bewilligung, Abnahme, Sanierung (ein schliesslich Mängelbehebung) und Stilllegung von Anlagen mit wassergefährdenden Flüs sigkeiten (Art. 35 Abs. 1 Bst. a) … 100.— bis 7000.— 26.20.22 Ausnahmebewilligungen bei Überschreitung der für die Gewässerschutzbereiche Au und Ao zulässigen Höchstmengen (Art. 35 Abs. 1 Bst. b) … 300.— bis 5000.— 26.20.23[^hVollzugsgesetzzure-6] … 26.20.24[^hVollzugsgesetzzure-7] Verfügung von Massnahmen bezüglich An lagen mit wassergefährdenden Flüssigkeiten (Art. 35ter) … 100.— bis 1000.— 26.20.25 Verfügung zusätzlicher Massnahmen am Gewässer (Art. 38) … 100.— bis 3000.— 26.20.26[^hVollzugsgesetzzure-8] Bewilligung für die Wasserentnahme über den Gemeingebrauch hinaus (Art. 39) … 150.— bis 1000.— 26.20.26.01 Erlass von Schutz und Nutzungsplänen (Art. 39bis ff.) … 1000.— bis 30 000.— 26.20.26.02 Schutzverfügungen (Art. 39bis ff.) … 250.— bis 5000.— 26.20.26.03 Verfügung von anderen Massnahmen zur Umsetzung einer Schutz und Nutzungspla nung (Art. 39bis ff.) … 250.— bis 5000.— 26.20.27[^hVollzugsgesetzzure-9] Verfügung von Sanierungsmassnahmen nach Art. 80 ff. des eidgenössischen Gewässer schutzgesetzes … 150.— bis 15 000.— 26.20.28[^hVollzugsgesetzzure-10] Ausnahmebewilligungen bei Fliessgewässern (Art. 41) … 150.— bis 2000.— 26.20.29[^hVollzugsgesetzzure-11] Bewilligung für Schüttungen in Seen (Art.42) 150.— bis 5000.— 26.20.30[^hVollzugsgesetzzure-12] Bewilligung für Spülungen und Entleerungen des Stauraums (Art. 43 Abs. 1 Bst. a) … 150.— bis 10 000.— 26.20.31[^hVollzugsgesetzzure-13] Ausnahmebewilligung für die Rückgabe von Treibgut (Art. 43 Abs. 1 Bst. b) … 150.— bis 1000.— 26.20.32[^hVollzugsgesetzzure-14] Verfügung baulicher Vorkehren für das Ein sammeln von Treibgut (Art. 43 Abs. 1 Bst. c) 150.— bis 1000.— 26.20.33 Verfügung zur Erhaltung von Grundwasser vorkommen (Art. 44) … 500.— bis 5000.— 26.20.34 Bewilligung zur Ausbeutung von Kies, Sand und anderem Material (Art. 45 Abs. 1) … 500.— bis 25 000.—
-
-…[^hVollzugsgesetzzure-15] Nr. Verordnung zum Vollzugsgesetz zur eidgenössischen Gewässerschutzgesetzgebung vom 21. Januar 1997[^hVollzugsgesetzzure-16]
-
-**Fr.**
-
-26.21.18 Verfügung vorsorglicher Massnahmen (Art.6) 200.— bis 5000.— 26.21.19[^hVollzugsgesetzzure-17] Prüfung von meldepflichtigen Anlagen (Art. 17<sup>quater</sup>) … 100.— bis 500.—
 
 [^hVollzugsgesetzzure-1]: sGS 752.2.
 [^hVollzugsgesetzzure-2]: Fassung gemäss X. Nachtrag.
@@ -750,9 +749,15 @@ schutzgesetzgebung vom 11. April 1996[^hVollzugsgesetzzure-1],[^hVollzugsgesetzz
 [^hVollzugsgesetzzure-12]: Geändert durch XIII. Nachtrag.
 [^hVollzugsgesetzzure-13]: Geändert durch XIII. Nachtrag.
 [^hVollzugsgesetzzure-14]: Geändert durch XIII. Nachtrag.
-[^hVollzugsgesetzzure-15]: Titel und Nr. 26.21.13 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
-[^hVollzugsgesetzzure-16]: sGS 752.21.
-[^hVollzugsgesetzzure-17]: Eingefügt durch XXIII. Nachtrag.
+
+### Verordnung zum Vollzugsgesetz zur
+
+eidgenössischen Gewässerschutzgesetzgebung vom 21. Januar 1997[^hVerordnungzumVollz-1]
+
+26.21.18 Verfügung vorsorglicher Massnahmen (Art.6) 200.— bis 5000.— 26.21.19[^hVerordnungzumVollz-2] Prüfung von meldepflichtigen Anlagen (Art. 17<sup>quater</sup>) … 100.— bis 500.—
+
+[^hVerordnungzumVollz-1]: sGS 752.21.
+[^hVerordnungzumVollz-2]: Eingefügt durch XXIII. Nachtrag.
 
 ### Verordnung über den Materialbezug
 
@@ -770,50 +775,50 @@ vom 8. März 1960[^hBundesgesetzüberdi_4-1]
 
 ### Bundesgesetz über den Umweltschutz
 
-vom 7. Oktober 1983[^hBundesgesetzüberde_2-1],[^hBundesgesetzüberde_2-2]
+vom 7. Oktober 1983[^hBundesgesetzüberde_3-1],[^hBundesgesetzüberde_3-2]
 
-26.27[^hBundesgesetzüberde_2-3] Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.— 26.27.01[^hBundesgesetzüberde_2-4] Verfügung über die Kostenverteilung (Art. 32 d) … 300.— bis 20 000.— 26.27.02[^hBundesgesetzüberde_2-5] Verfügung über Sicherstellung der Kosten deckung (Art. 32 d<sup>bis</sup>) … 100.— bis 6000.— 26.27.03[^hBundesgesetzüberde_2-6] Bewilligung für Veräusserung oder Teilung (Art. 32 d<sup>bis</sup>) … 100.— bis 20 000.— Nr. Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung vom19. April 2011[^hBundesgesetzüberde_2-7],[^hBundesgesetzüberde_2-8]
-
-**Fr.**
-
-26.30[^hBundesgesetzüberde_2-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) 1000.— bis 50 000.— 26.31[^hBundesgesetzüberde_2-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art. 36) … 300.— bis 3000.— 26.32 <sup>247</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art. 6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_2-11] Verfügung über Luftreinhaltemassnahmen (Art. 24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_2-12] Verfügung über Lärmschutzmassnahmen (Art. 29 und 31) … 100.— bis 10 000.—
-
-…[^hBundesgesetzüberde_2-13]
-
-26.37[^hBundesgesetzüberde_2-14] Verfügung über Massnahmen zum Schutz vor Erschütterungen (Art. 34) … 100.— bis 6000.— 26.38[^hBundesgesetzüberde_2-15] Abfallrechtliche Betriebsbewilligung (Art. 48) 300.— bis 20 000.— 26.39[^hBundesgesetzüberde_2-16] Bodenschutzmassnahmen (Art. 52) … 100.— bis 6000.—
-
-…[^hBundesgesetzüberde_2-17]
-
-26.44[^hBundesgesetzüberde_2-18] Verfügung im Zusammenhang mit dem Voll zug der Vorschriften über die Sanierung von belasteten Standorten (Art. 50) … 200.— bis 10 000.—
-
-…[^hBundesgesetzüberde_2-19] Nr. Verordnung über den Verkehr mit Abfällen vom 22. Juni 2005[^hBundesgesetzüberde_2-20],[^hBundesgesetzüberde_2-21]
+26.27[^hBundesgesetzüberde_3-3] Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.— 26.27.01[^hBundesgesetzüberde_3-4] Verfügung über die Kostenverteilung (Art. 32 d) … 300.— bis 20 000.— 26.27.02[^hBundesgesetzüberde_3-5] Verfügung über Sicherstellung der Kosten deckung (Art. 32 d<sup>bis</sup>) … 100.— bis 6000.— 26.27.03[^hBundesgesetzüberde_3-6] Bewilligung für Veräusserung oder Teilung (Art. 32 d<sup>bis</sup>) … 100.— bis 20 000.— Nr. Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung vom19. April 2011[^hBundesgesetzüberde_3-7],[^hBundesgesetzüberde_3-8]
 
 **Fr.**
 
-26.60[^hBundesgesetzüberde_2-22] Bewilligung für die Entgegennahme von Abfällen (Art. 1 in Verbindung mit Art. 8 der eidgenössischen Verordnung über den Ver kehr mit Abfällen) … 170.— bis 3500.—
+26.30[^hBundesgesetzüberde_3-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) 1000.— bis 50 000.— 26.31[^hBundesgesetzüberde_3-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art. 36) … 300.— bis 3000.— 26.32 <sup>250</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art. 6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_3-11] Verfügung über Luftreinhaltemassnahmen (Art. 24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_3-12] Verfügung über Lärmschutzmassnahmen (Art. 29 und 31) … 100.— bis 10 000.—
 
-[^hBundesgesetzüberde_2-1]: SR 814.01.
-[^hBundesgesetzüberde_2-2]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-3]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-4]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-5]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-6]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-7]: sGS 672.1.
-[^hBundesgesetzüberde_2-8]: Fassung gemäss X. Nachtrag.
-[^hBundesgesetzüberde_2-9]: Geändert durch XXIII. Nachtrag.
-[^hBundesgesetzüberde_2-10]: Geändert durch XIII. Nachtrag.
-[^hBundesgesetzüberde_2-11]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-12]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-13]: Nr. 26.35 und 26.36 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
-[^hBundesgesetzüberde_2-14]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-15]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-16]: Eingefügt durch XI. Nachtrag.
-[^hBundesgesetzüberde_2-17]: Titel und Nrn. 26.41 bis 26.43 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
-[^hBundesgesetzüberde_2-18]: Eingefügt durch XIII. Nachtrag.
-[^hBundesgesetzüberde_2-19]: Titel und Nrn. 26.51 bis 26.57 aufgehoben durch V zum EG zur eidg Chemikaliengesetzgebung.
-[^hBundesgesetzüberde_2-20]: SR 814.610.
-[^hBundesgesetzüberde_2-21]: Eingefügt durch V zum EG zur eidg Chemikaliengesetzgebung.
-[^hBundesgesetzüberde_2-22]: Eingefügt durch V zum EG zur eidg Chemikaliengesetzgebung.
+…[^hBundesgesetzüberde_3-13]
+
+26.37[^hBundesgesetzüberde_3-14] Verfügung über Massnahmen zum Schutz vor Erschütterungen (Art. 34) … 100.— bis 6000.— 26.38[^hBundesgesetzüberde_3-15] Abfallrechtliche Betriebsbewilligung (Art. 48) 300.— bis 20 000.— 26.39[^hBundesgesetzüberde_3-16] Bodenschutzmassnahmen (Art. 52) … 100.— bis 6000.—
+
+…[^hBundesgesetzüberde_3-17]
+
+26.44[^hBundesgesetzüberde_3-18] Verfügung im Zusammenhang mit dem Voll zug der Vorschriften über die Sanierung von belasteten Standorten (Art. 50) … 200.— bis 10 000.—
+
+…[^hBundesgesetzüberde_3-19] Nr. Verordnung über den Verkehr mit Abfällen vom 22. Juni 2005[^hBundesgesetzüberde_3-20],[^hBundesgesetzüberde_3-21]
+
+**Fr.**
+
+26.60[^hBundesgesetzüberde_3-22] Bewilligung für die Entgegennahme von Abfällen (Art. 1 in Verbindung mit Art. 8 der eidgenössischen Verordnung über den Ver kehr mit Abfällen) … 170.— bis 3500.—
+
+[^hBundesgesetzüberde_3-1]: SR 814.01.
+[^hBundesgesetzüberde_3-2]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-3]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-4]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-5]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-6]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-7]: sGS 672.1.
+[^hBundesgesetzüberde_3-8]: Fassung gemäss X. Nachtrag.
+[^hBundesgesetzüberde_3-9]: Geändert durch XXIII. Nachtrag.
+[^hBundesgesetzüberde_3-10]: Geändert durch XIII. Nachtrag.
+[^hBundesgesetzüberde_3-11]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-12]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-13]: Nr. 26.35 und 26.36 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
+[^hBundesgesetzüberde_3-14]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-15]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-16]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_3-17]: Titel und Nrn. 26.41 bis 26.43 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
+[^hBundesgesetzüberde_3-18]: Eingefügt durch XIII. Nachtrag.
+[^hBundesgesetzüberde_3-19]: Titel und Nrn. 26.51 bis 26.57 aufgehoben durch V zum EG zur eidg Chemikaliengesetzgebung.
+[^hBundesgesetzüberde_3-20]: SR 814.610.
+[^hBundesgesetzüberde_3-21]: Eingefügt durch V zum EG zur eidg Chemikaliengesetzgebung.
+[^hBundesgesetzüberde_3-22]: Eingefügt durch V zum EG zur eidg Chemikaliengesetzgebung.
 
 ### Verordnung über die Vermeidung
 
@@ -1265,7 +1270,7 @@ und Gemeinderatsschreiber (oder an ihrer Stelle zuständige Amtsstelle)
 
 vom 3. August 2010 (BRG)[^hGesetzüberdasStG_2-1],[^hGesetzüberdasStG_2-2] 50.00.01[^hGesetzüberdasStG_2-3] Entlassung aus dem Gemeindebürgerrecht (Art. 46 Abs. 3 BRG) … 100.— bis 500.— 50.00.02– 04[^hGesetzüberdasStG_2-4] Erteilung des Gemeindebürgerrechts im Ver fahren der Einbürgerung im Allgemeinen (Art. 7 ff. BRG):
 
-50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>378</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
+50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>381</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
 
 50.00.05 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 600.— 50.00.06 – Ausländische und staatenlose Jugendliche (je Gesuch) … 100.— bis 1400.—
 
@@ -1347,7 +1352,7 @@ zur eidgenössischen Waldgesetzgebung vom 7. Dezember 1999[^hEinführungsgesetzz
 
 Abs. 1) … 20.—
 
-50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>415</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
+50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>418</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
 
 [^hEinführungsgesetzzu_9-1]: sGS 651.11.
 [^hEinführungsgesetzzu_9-2]: Eingefügt durch XXIII. Nachtrag.
@@ -1494,12 +1499,12 @@ vom 27. Juni 1972[^hVerordnungüberdas-1]
 
 ### Bundesgesetz über den Umweltschutz
 
-vom 7. Oktober 1983[^hBundesgesetzüberde_3-1],[^hBundesgesetzüberde_3-2]
+vom 7. Oktober 1983[^hBundesgesetzüberde_4-1],[^hBundesgesetzüberde_4-2]
 
-50.67 <sup>445</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
+50.67 <sup>448</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
 
-[^hBundesgesetzüberde_3-1]: SR 814.01.
-[^hBundesgesetzüberde_3-2]: Eingefügt durch XI. Nachtrag.
+[^hBundesgesetzüberde_4-1]: SR 814.01.
+[^hBundesgesetzüberde_4-2]: Eingefügt durch XI. Nachtrag.
 
 ### B. Kindes- und Erwachsenenschutz-
 
@@ -1728,16 +1733,15 @@ Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_3-6]
 
 ## Weitere Fussnoten
 
-- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071.
+- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071; XXIV. Nach trag vom 21. Mai 2024, nGS 2024 017.
 - [107] Titel und Nr. 22.24 aufgehoben durch XXIII. Nachtrag.
 - [125] Berichtigung vom April 2004.
 - [149] sGS 277.11.
 - [150] Eingefügt durch XIV. Nachtrag.
 - [163] sGS 277.12.
 - [164] Eingefügt durch XVIII. Nachtrag.
-- [209] sGS 734.11.
-- [210] Geändert durch XIII. Nachtrag.
-- [247] Eingefügt durch XI. Nachtrag.
-- [378] Geändert durch BRV.
-- [415] Geändert durch XII. Nachtrag.
-- [445] Eingefügt durch XI. Nachtrag.
+- [235] Titel und Nr. 26.21.13 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
+- [250] Eingefügt durch XI. Nachtrag.
+- [381] Geändert durch BRV.
+- [418] Geändert durch XII. Nachtrag.
+- [448] Eingefügt durch XI. Nachtrag.
