@@ -4,13 +4,12 @@ number: "661.710"
 title: Dekret über Gebühren für Amtshandlungen der Gemeinden
 short: "Gemeindegebührendekret, GGebD"
 language: de
-version: 2018-01-01
-valid_until: 2024-06-30
-version_adopted: 2017-06-27
+version: 2024-07-01
+version_adopted: 2023-09-12
 adopted: 1975-10-28
 in_force: 1975-12-30
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/661.710"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2512/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2512/pdf_file"
 
 (Gemeindegebührendekret, GGebD)
 
-Vom 28.10.1975 (Stand 01.01.2018)
+Vom 28.10.1975 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf § 82 Abs. 1 lit. f der Kantonsverfassung, § 3 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-1] sowie § 41 Abs. 1 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-2],
+gestützt auf § 82 Abs. 1 lit. f der Kantonsverfassung, die §§ 8 Abs. 2<sup>bis</sup>, 11 Abs. 3 und 121 des Gesetzes über die Einwohnergemeinden (Gemeindegesetz, GG) vom 19. Dezember 1978[^ingress-1], § 3 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2] sowie § 41 Abs. 1 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
-[^ingress-2]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
+[^ingress-1]: SAR [171.100](https://gesetzessammlungen.ag.ch/data/171.100/de)
+[^ingress-2]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
+[^ingress-3]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
 
 ## 1. Allgemeines
 
@@ -102,6 +102,14 @@ beschliesst:
 #### § 13
 
 **…**
+
+#### § 13a
+
+<sup>1</sup> Das Regionale Zivilstandsamt erhebt für die Bearbeitung eines Antrags gemäss den §§ 8 Abs. 2<sup>bis</sup>, 11 Abs. 3 oder 121 des Gemeindegesetzes folgende Gebühren:
+
+- a) von Einzelpersonen — Fr. 75.–,
+- b) von Eltern mit ihren minderjährigen Kindern — Fr. 100.–,
+- c) von Ehepaaren oder Paaren in eingetragener Partnerschaft — Fr. 100.–.
 
 ## 6. Betreibungsamt
 
