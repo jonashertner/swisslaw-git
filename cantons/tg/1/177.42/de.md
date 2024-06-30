@@ -4,13 +4,13 @@ number: "177.42"
 title: Pensionskassenreglement
 short: R PKTG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-06
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-09-18
 adopted: 2019-06-12
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.42"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2738/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ R PKTG
 
 (R PKTG)
 
-vom 12.06.2019 (Stand 01.01.2024)
+vom 12.06.2019 (Stand 01.07.2024)
 
 Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
@@ -286,7 +286,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Allfällige Sonderleistungen des Arbeitgebers werden zwingend als Rente ausgerichtet.
 
-<sup>2</sup> Angehörige des Polizeikorps erhalten ab dem vollendeten 62. Altersjahres bis zum Erreichen des AHV-Referenzalters eine Arbeitgeberrente, die durch den Arbeitgeber finanziert wird. Die Arbeitgeberrente wird entsprechend dem durchschnittlichen Beschäftigungsgrad zwischen dem 54. und 57. Altersjahr berechnet. Bei einem Eintritt nach dem 54. Altersjahr erfolgt die Berechnung aufgrund der 3 Jahre nach dem Eintritt. Die Kürzungsbedingungen gemäss § 30 Abs. 3 bis Abs. 5 gelten sinngemäss, vorbehalten bleibt § 78.
+<sup>2</sup> Angehörige des Polizeikorps erhalten ab dem vollendeten 62. Altersjahres bis zum Erreichen des AHV-Referenzalters eine Arbeitgeberrente, die durch den Arbeitgeber finanziert wird. Die Arbeitgeberrente wird entsprechend dem durchschnittlichen Beschäftigungsgrad zwischen dem 54. und 57. Altersjahr berechnet. Bei einem Eintritt nach dem 54. Altersjahr erfolgt die Berechnung aufgrund der 3 Jahre nach dem Eintritt. Die Kürzungsbedingungen gemäss § 30 Abs. 3 bis Abs. 5 gelten sinngemäss, vorbehalten bleibt § 79.
 
 ## 5. Leistungen
 
@@ -864,7 +864,9 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Sanierungs- und Beteiligungsmechanismus**
 
-<sup>1</sup> Die Pensionskassenkommission entscheidet über die Höhe der Verzinsung der Sparguthaben und der Sanierungsbeiträge. Der Sanierungs- und Beteiligungsplan wird regelmässig überprüft.
+<sup>1</sup> Die Pensionskassenkommission entscheidet über die Verzinsung der Sparguthaben und die Sanierungsbeiträge. Der Sanierungs- und Beteiligungsplan nach Anhang 8 wird regelmässig überprüft.
+
+<sup>1<sup>bis</sup></sup> Der für die Festlegung der Sanierungsbeiträge massgebende Deckungsgrad nach Anhang 8 entspricht grundsätzlich dem Deckungsgrad per Ende des Kalenderjahres gemäss der von der Pensionskassenkommission testierten Jahresrechnung. Falls der aufgrund der Vermögensveränderungen fortgeschriebene Deckungsgrad per 30. November des Folgejahrs höher ist, werden allfällige Sanierungsbeiträge auf Basis dieses Deckungsgrads berechnet. Allfällige Sanierungsbeiträge werden ab dem 1. Januar des übernächsten Kalenderjahres erhoben.
 
 <sup>2</sup> Die Pensionskassenkommission kann bei einer Überdeckung vom Beteiligungskonzept gemäss Anhang 8 abweichen, wenn regulatorische oder ökonomische Gründe dies erfordern.
 
@@ -1055,7 +1057,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Arbeitgeberrente für Angehörige des Polizeikorps**
 
-<sup>1</sup> Bei einer Pensionierung vor dem 62. Altersjahr erhalten Angehörige des Polizeikorps mit Jahrgang 1969 und älter eine Arbeitgeberrente gemäss § 17 Abs. 2 in der Höhe von Fr. 2'370 pro Monat. Die Zusatzrente gemäss § 29 wird angerechnet. Die Summe der Arbeitgeberrenten kann den maximalen Betrag von Fr. 85'320 nicht übersteigen.
+<sup>1</sup> Bei einer Pensionierung vor dem 62. Altersjahr erhalten Angehörige des Polizeikorps mit Jahrgang 1969 und älter eine Arbeitgeberrente gemäss § 17 Abs. 2. Die Zusatzrente gemäss § 29 wird angerechnet. Die Summe der Arbeitgeberrenten kann die monatliche Arbeitgeberrente gemäss § 17, hochgerechnet auf drei Jahre, nicht übersteigen.
 
 #### § 80
 
