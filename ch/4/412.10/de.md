@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. April 2022)
+vom 13. Dezember 2002 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1006,6 +1006,16 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 <sup>3</sup> Die Umstellung auf Pauschalbeiträge nach Artikel 53 Absatz 2 findet stufenweise innert vier Jahren statt.
 
 <sup>4</sup> Die Kostenbeteiligung des Bundes wird innert vier Jahren stufenweise auf den in Artikel 59 Absatz 2 festgelegten Anteil erhöht.
+
+#### Art. 73a
+
+**Übergangsbestimmungen zur Änderung vom 16. Dezember 2022 (Anerkennung altrechtlicher kantonaler und interkantonaler Abschlüsse)**[^73a-1]
+
+<sup>1</sup> Der Bund ist zuständig für die Anerkennung von altrechtlichen kantonalen und altrechtlichen interkantonalen Abschlüssen in Bereichen der Berufsbildung, die gemäss diesem Gesetz in Bundeskompetenz liegen.
+
+<sup>2</sup> Der Bundesrat kann diese Aufgabe an Dritte delegieren. Diese können für ihre Leistungen Gebühren erheben. Der Bundesrat regelt die Gebühren.
+
+[^73a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 74
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/fr"
 
 (LFPr)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> avril 2022)
+du 13 décembre 2002 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1010,6 +1010,16 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 <sup>4</sup> La participation de la Confédération aux coûts de la formation professionnelle sera adaptée progressivement en vue d’atteindre, dans un délai de quatre ans, la part définie à l’art. 59, al. 2.
 
+#### Art. 73a
+
+**Dispositions transitoires relatives à la modification du 16 décembre 2022 (Reconnaissance de diplômes cantonaux et intercantonaux délivrés selon l’ancien droit)**[^73a-1]
+
+<sup>1</sup> La Confédération a la compétence de reconnaître des diplômes cantonaux et intercantonaux délivrés selon l’ancien droit et obtenus dans un domaine de la formation professionnelle qui relève de la compétence de la Confédération conformément à la présente loi.
+
+<sup>2</sup> Le Conseil fédéral peut déléguer cette tâche à des tiers. Ces derniers peuvent percevoir des émoluments pour leurs prestations. Le Conseil fédéral règle les émoluments.
+
+[^73a-1]: Introduit par l’annexe ch. 3 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+
 #### Art. 74
 
 **Référendum et entrée en vigueur**
@@ -1021,26 +1031,3 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2004[^74-1]
 
 [^74-1]: ACF du 19 nov. 2003
-
-Annexe
-
-(art. 72)
-
-## Abrogation et modification du droit en vigueur
-
-I
-
-Sont abrogées:
-
-- 1\. la loi fédérale du 19 avril 1978 sur la formation professionnelle[^annexu1-lvlu1-1]
-- 2\. la loi fédérale du 19 juin 1992 sur les aides financières aux écoles supérieures de travail social[^annexu1-lvlu1-2]
-
-II
-
-Les actes mentionnés ci-après sont modifiés comme suit:
-
-…[^annexu1-lvlu1-3]
-
-[^annexu1-lvlu1-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 al. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)app. ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2, annexe ch. 1, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2, [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)ch. I 2, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 2]
-[^annexu1-lvlu1-2]: [[RO 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
-[^annexu1-lvlu1-3]: Les mod. peuvent être consultées au [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

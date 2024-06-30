@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-en-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 April 2022)
+of 13 December 2002 (Status as of 1 July 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1008,6 +1008,16 @@ The repeal and amendment of current legislation are regulated in the Annex.
 <sup>3</sup> The implementation of lump-sum funding mentioned in Article 53 paragraph 2 shall be phased in over a period of four years.
 
 <sup>4</sup> The Confederation shall gradually increase its subsidy over a period of four years until this subsidy reaches the level established in Article 59 paragraph 2.
+
+#### Art. 73a
+
+**Transitional provision to the Amendment of 16 December 2022 (Recognition of cantonal and intercantonal qualifications under the old law)**[^73a-1]
+
+<sup>1</sup> The Confederation is responsible for recognising cantonal and intercantonal qualifications under the old law in fields of VPET that fall under federal jurisdiction in accordance with this Act.
+
+<sup>2</sup> The Federal Council may delegate this task to third parties. These may charge fees for their services. The Federal Council shall regulate the fees.
+
+[^73a-1]: Inserted by Annex No 3 of the FA of 16 Dec. 2022 on Promoting Training in the Nursing Profession, in force since 1 July 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 74
 

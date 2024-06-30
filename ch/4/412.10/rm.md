@@ -4,11 +4,11 @@ title: Lescha federala dals 13 da december 2002 davart la furmaziun professiunal
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: rm
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-rm-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFPr)
 
-dals 13 da december 2002 (versiun dal 1. d’avrigl 2022)
+dals 13 da december 2002 (versiun dal 1. da fanadur 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1008,6 +1008,16 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 <sup>3</sup> La midada a contribuziuns pauschalas tenor l’artitgel 53 alinea 2 ha lieu progressivamain entaifer quatter onns.
 
 <sup>4</sup> La participaziun als custs tras la Confederaziun vegn augmentada entaifer quatter onns progressivamain sin quella part ch’è fixada en l’artitgel 59 alinea 2.
+
+#### Art. 73a
+
+**Disposiziuns transitoricas da la midada dals 16 da december 2022 (renconuschientscha da diploms chantunals ed interchantunals emess tenor il dretg vegl)**[^73a-1]
+
+<sup>1</sup> La Confederaziun è cumpetenta per renconuscher diploms chantunals ed interchantunals emess tenor il dretg vegl en secturs da la furmaziun professiunala ch’èn, tenor questa lescha, en la cumpetenza federala.
+
+<sup>2</sup> Il Cussegl federal po delegar questa incumbensa a terzas persunas. Quellas pon incassar taxas per lur prestaziuns. Il Cussegl federal regla las taxas.
+
+[^73a-1]: Integrà tras la cifra 3 da l’agiunta da la LF dals 16 da dec. 2022 davart la promoziun da la scolaziun en il sectur da la tgira, en vigur dapi il 1. da fan. 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 74
 

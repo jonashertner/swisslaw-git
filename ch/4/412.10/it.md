@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° aprile 2022)
+del 13 dicembre 2002 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1011,6 +1011,16 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 <sup>3</sup> Il passaggio ai contributi forfettari ai sensi dell’articolo 53 capoverso 2 avviene in modo progressivo entro quattro anni.
 
 <sup>4</sup> La partecipazione alle spese della Confederazione è adeguata progressivamente alla quota stabilita nell’articolo 59 capoverso 2 entro quattro anni.
+
+#### Art. 73a
+
+**Disposizioni transitorie della modifica del 16 dicembre 2022 (Riconoscimento di diplomi cantonali e intercantonali retti dal diritto anteriore)**[^73a-1]
+
+<sup>1</sup> La Confederazione è competente per il riconoscimento di diplomi cantonali e intercantonali retti dal diritto anteriore e conseguiti nei settori della formazione professionale che rientrano nella sfera di competenze della Confederazione conformemente alla presente legge.
+
+<sup>2</sup> Il Consiglio federale può delegare questo compito a terzi. Questi ultimi possono riscuotere emolumenti per le loro prestazioni. Il Consiglio federale disciplina gli emolumenti.
+
+[^73a-1]: Introdotto dall’all. n. 3 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 74
 
