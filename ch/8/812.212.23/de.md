@@ -4,11 +4,11 @@ title: Verordnung des Schweizerischen Heilmittelinstituts vom 22. Juni 2006 übe
 short: VAZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/de"
 
 (VAZV)
 
-vom 22. Juni 2006 (Stand am 1. Januar 2024)
+vom 22. Juni 2006 (Stand am 1. Juli 2024)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -841,8 +841,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex2-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
@@ -852,5 +852,5 @@ Anhang 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex3-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

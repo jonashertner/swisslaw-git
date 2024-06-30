@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 22 juin 
 short: OASMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/fr"
 
 (OASMéd)[^t-1]
 
-du 22 juin 2006 (État le 1<sup>er</sup> janvier 2024)
+du 22 juin 2006 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
@@ -250,7 +250,8 @@ Si plus aucun médicament de référence n’est autorisé, la demande peut se r
 - a. à un autre médicament autorisé par Swissmedic sur la base d’une documentation partielle, pour autant que Swissmedic juge cette documentation de référence suffisante;
 - b. à la documentation d’une demande d’autorisation déposée dans un pays ayant institué un contrôle des médicaments équivalent au sens de l’art. 13 LPTh, pour autant que Swissmedic juge cette documentation suffisante, auquel cas, le requérant doit soumettre tous les documents requis pour l’autorisation et démontrer en sus que la préparation est un médicament déjà autorisé dans le pays concerné, ou
 - c. à la seule littérature scientifique publiée, si le requérant démontre au travers d’une bibliographie détaillée que les composants du médicament sont, pour l’indication et le mode d’administration revendiqués, utilisés depuis au moins dix ans et qu’ils présentent une efficacité et un niveau de sécurité bien documentés dans la littérature scientifique et reconnus de manière générale.
-- [tab] <sup>4</sup> Si le dossier d’autorisation du médicament de référence ne permet pas de s’y référer, la demande peut s’appuyer sur un médicament tel que défini à l’al. 3, let. a.
+
+<sup>4</sup> Si le dossier d’autorisation du médicament de référence ne permet pas de s’y référer, la demande peut s’appuyer sur un médicament tel que défini à l’al. 3, let. a.
 
 <sup>5</sup>
 
@@ -424,7 +425,8 @@ Tout médicament peut faire l’objet d’une autorisation à durée limitée au
 - a. il est destiné au diagnostic, à la prévention ou au traitement d’une maladie qui peut entraîner une invalidité grave, de grandes souffrances potentiellement mortelles ou la mort à court terme du patient ou de l’animal;
 - b. aucun médicament de substitution équivalent n’est autorisé ou disponible en Suisse;
 - c. son utilisation apporte un bénéfice thérapeutique important;
-- d. il est probable que le requérant sera en mesure de fournir par la suite les données requises à la section 2 ou 3 OEMéd[^18-2]; e. la collecte de toutes les données ainsi que la préparation et l’évaluation des données requises en vertu de la let. d dans le cadre de la procédure ordinaire d’autorisation de mise sur le marché prévue à l’art. 11 LPTh durent si longtemps que des dommages irréversibles apparaissent ou s’aggravent, ou que ces opérations seraient associées à une grande souffrance pour le patient.
+- d. il est probable que le requérant sera en mesure de fournir par la suite les données requises à la section 2 ou 3 OEMéd[^18-2];
+- e. la collecte de toutes les données ainsi que la préparation et l’évaluation des données requises en vertu de la let. d dans le cadre de la procédure ordinaire d’autorisation de mise sur le marché prévue à l’art. 11 LPTh durent si longtemps que des dommages irréversibles apparaissent ou s’aggravent, ou que ces opérations seraient associées à une grande souffrance pour le patient.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^18-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
@@ -503,7 +505,7 @@ Le registre contient les données suivantes:
 
 <sup>1</sup> Les médicaments vétérinaires destinés aux animaux de rente doivent satisfaire aux exigences de l’art. 10 OEMéd[^23-2].[^23-3]
 
-- [tab] <sup>2</sup> Les médicaments vétérinaires ne sont pas tenus de remplir les exigences énoncées à l’art. 19, let. c, si l’autorisation à durée limitée permet d’éviter à l’animal des atteintes à la santé entraînant de graves souffrances ou son décès.
+<sup>2</sup> Les médicaments vétérinaires ne sont pas tenus de remplir les exigences énoncées à l’art. 19, let. c, si l’autorisation à durée limitée permet d’éviter à l’animal des atteintes à la santé entraînant de graves souffrances ou son décès.
 
 <sup>3</sup> Les médicaments vétérinaires autorisés pour une durée limitée en application de la présente section ne peuvent pas faire l’objet d’une reconversion telle que prévue par l’art. 6 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^23-4].[^23-5]
 
@@ -685,7 +687,7 @@ Le dépôt et l’examen de la demande (déclaration) sont régis par l’art. 3
 
 **Principe**
 
-- [tab] Swissmedic peut autoriser la mise sur le marché d’un médicament en co-marketing sur simple déclaration si ce médicament peut s’appuyer sur la documentation d’autorisation d’un médicament déjà autorisé (préparation de base) dont le titulaire d’autorisation a donné son accord écrit et qu’il ne se distingue en rien de la préparation de base, à l’exception de la dénomination et de l’emballage.
+Swissmedic peut autoriser la mise sur le marché d’un médicament en co-marketing sur simple déclaration si ce médicament peut s’appuyer sur la documentation d’autorisation d’un médicament déjà autorisé (préparation de base) dont le titulaire d’autorisation a donné son accord écrit et qu’il ne se distingue en rien de la préparation de base, à l’exception de la dénomination et de l’emballage.
 
 #### Art. 35
 
@@ -846,8 +848,8 @@ Annexe 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex2-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch).
+[^t-3]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex2-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
 
 Annexe 3[^t-4]
 
@@ -857,5 +859,5 @@ Annexe 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex3-lvlu1-1]: Le texte de la présente annexe n’est pas publié dans le RO ni dans le RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch).
+[^t-4]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex3-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi

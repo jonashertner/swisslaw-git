@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 22 giugn
 short: OOSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/it"
 
 (OOSM)
 
-del 22 giugno 2006 (Stato 1° gennaio 2024)
+del 22 giugno 2006 (Stato 1° luglio 2024)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -218,7 +218,9 @@ Il riconoscimento di monografie dei preparati è escluso per:
 
 **Diritti e obblighi del titolare di un Formularium**
 
-<sup>1</sup> Il titolare del Formularium è tenuto a provvedere affinché il Formularium e le monografie dei preparati contenute corrispondano allo stato attuale della scienza e della tecnica e che, per quanto concerne i requisiti sulla qualità, siano adattati alle conoscenze più recenti. I documenti aggiornati devono essere presentati a Swissmedic <sup>2</sup> Soltanto il rispettivo titolare del Formularium può domandare il riconoscimento di un’altra monografia dei preparati o una modifica di una monografia già riconosciuta.
+<sup>1</sup> Il titolare del Formularium è tenuto a provvedere affinché il Formularium e le monografie dei preparati contenute corrispondano allo stato attuale della scienza e della tecnica e che, per quanto concerne i requisiti sulla qualità, siano adattati alle conoscenze più recenti. I documenti aggiornati devono essere presentati a Swissmedic.
+
+<sup>2</sup> Soltanto il rispettivo titolare del Formularium può domandare il riconoscimento di un’altra monografia dei preparati o una modifica di una monografia già riconosciuta.
 
 ## Capitolo 4: Procedure di omologazione semplificate
 
@@ -838,8 +840,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex2-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
+[^t-2]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex2-lvlu1-1]: Il testo del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -849,5 +851,5 @@ Allegato 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex3-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
+[^t-3]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
+[^annex3-lvlu1-1]: Il testo del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
