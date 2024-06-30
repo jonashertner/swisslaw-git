@@ -3,20 +3,19 @@ canton: SH
 number: "817.402"
 title: Kantonale Weinverordnung
 language: de
-version: 2019-09-15
-valid_until: 2024-06-30
-version_adopted: 2019-09-10
+version: 2024-07-01
+version_adopted: 2024-06-18
 adopted: 2009-11-03
 in_force: 2009-12-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.402"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1866/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1867/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Weinverordnung
 
-Vom 03.11.2009 (Stand 15.09.2019)
+Vom 03.11.2009 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -156,7 +155,7 @@ beschliesst:
 
 <sup>1</sup> Zur Bereitung von Weinen mit kontrollierter Ursprungsbezeichnung erlaubt sind die im Anhang 9 der Verordnung des EDI über Getränke aufgelisteten önologischen Verfahren und Behandlungen.
 
-<sup>2</sup> Die Süssung von Weinen mit kontrollierter Ursprungsbezeichnung ist zugelassen, wenn die Bedingungen nach Anlage 11 zu Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
+<sup>2</sup> Die Süssung von Weinen mit kontrollierter Ursprungsbezeichnung ist zugelassen, wenn die Bedingungen nach Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
 
 #### § 16a
 
@@ -176,7 +175,7 @@ beschliesst:
 
 **Anreicherungsgrenze**
 
-<sup>1</sup> Der natürliche Alkoholgehalt von Weinen mit kontrollierter Ursprungsbezeichnung darf im Anreicherungsverfahren um maximal 2.5 Volumenprozent auf maximal 15 Volumenprozent erhöht werden.
+<sup>1</sup> Der natürliche Alkoholgehalt von Weinen mit kontrollierter Ursprungsbezeichnung darf im Anreicherungsverfahren um maximal 1.5 Volumenprozent auf maximal 15 Volumenprozent erhöht werden.
 
 #### § 17
 
