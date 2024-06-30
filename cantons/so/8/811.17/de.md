@@ -1,0 +1,262 @@
+---
+canton: SO
+number: "811.17"
+title: Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+short: EG Ausbildungsfördergesetz Pflege
+language: de
+version: 2024-07-01
+valid_until: 2026-08-31
+version_adopted: 2024-05-15
+adopted: 2024-05-15
+in_force: 2024-07-01
+url: "https://bgs.so.ch/app/de/texts_of_law/811.17"
+pdf: "https://bgs.so.ch/api/de/versions/5465/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+
+(EG Ausbildungsfördergesetz Pflege)
+
+Vom 15.05.2024 (Stand 01.07.2024)
+
+Der Kantonsrat von Solothurn
+
+gestützt auf das Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (Ausbildungsfördergesetz Pflege) vom 16. Dezember 2022[^ingress-1]
+
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 19. Dezember 2023 (RRB Nr. 2023/2125)
+
+beschliesst:
+
+[^ingress-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Gegenstand und Zweck**
+
+<sup>1</sup> Dieses Gesetz regelt den Vollzug des Ausbildungsfördergesetzes Pflege[^1-1] im Kanton Solothurn.
+
+<sup>2</sup> Es bezweckt die Förderung der Ausbildung von Personen, welche den Bildungsgang Pflege an einer höheren Fachschule (HF) oder einen Bachelorstudiengang in Pflege an einer Fachhochschule (FH) absolvieren (Pflegefachpersonen HF und FH).
+
+<sup>3</sup> Die Förderung der Aus- und Weiterbildung der übrigen nicht-universitären Gesundheitsberufe richtet sich nach dem Spitalgesetz (SpiG) vom 12. Mai 2004[^1-2] und dem Sozialgesetz (SG) vom 31. Januar 2007[^1-3].
+
+[^1-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+[^1-2]: BGS [817.11](https://bgs.so.ch/data/817.11/de).
+[^1-3]: BGS [831.1](https://bgs.so.ch/data/831.1/de).
+
+## 2. Zuständigkeiten
+
+#### § 2
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat:
+
+- a) übt die Aufsicht über den Vollzug dieses Gesetzes aus;
+- b) evaluiert die Auswirkungen dieses Gesetzes auf die Entwicklung der Ausbildung im Bereich der Pflege.
+
+<sup>2</sup> Er kann:
+
+- a) mit anderen Kantonen Vereinbarungen zur Förderung einer bedarfsgerechten Erhöhung der Anzahl Ausbildungsabschlüsse gemäss § 9 abschliessen;
+- b) Fachorganisationen und Branchenverbänden bestimmte Vollzugsaufgaben übertragen, wobei er mit diesen eine Leistungsvereinbarung abschliesst, welche Art, Menge und Qualität der zu erbringenden Leistungen, deren Abgeltung und die Qualitätssicherung regelt.
+
+## 3. Ausbildungsverpflichtung und Beiträge für Ausbildungsleistungen
+
+#### § 3
+
+**Kantonale Bedarfsplanung**
+
+<sup>1</sup> Das Departement erarbeitet die kantonale Bedarfsplanung für die praktische Ausbildung von Pflegefachpersonen HF und FH.
+
+<sup>2</sup> Es überprüft die kantonale Bedarfsplanung periodisch und nimmt die erforderlichen Anpassungen vor.
+
+<sup>3</sup> Die kantonale Bedarfsplanung und wesentliche Anpassungen derselben sind dem Regierungsrat zur Kenntnisnahme vorzulegen und anschliessend zu veröffentlichen.
+
+#### § 4
+
+**Ausbildungsverpflichtung**
+
+<sup>1</sup> Folgende Einrichtungen des Gesundheitswesens (Einrichtungen) mit Sitz im Kanton Solothurn, die Leistungen zulasten der obligatorischen Krankenpflegeversicherung (OKP) erbringen, haben sich angemessen an der Ausbildung gemäss § 1 zu beteiligen und ein Ausbildungskonzept zu erstellen:
+
+- a) Organisationen, die Pflegefachpersonen beschäftigen;
+- b) Spitäler;
+- c) Pflegeheime.
+
+<sup>2</sup> Der Regierungsrat kann das Bundesrecht ergänzende Kriterien für das Ausbildungskonzept in einer Verordnung festlegen.
+
+#### § 5
+
+**Ausbildungsleistung**
+
+<sup>1</sup> Das Departement legt die von den Einrichtungen in einem Kalenderjahr zu erbringenden Ausbildungsleistungen und die Mindestvorgaben zur Ausbildungsqualität in Leistungsaufträgen gemäss dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^5-1] fest.
+
+<sup>2</sup> Es stützt sich hierbei auf folgende Grundlagen und Kriterien:
+
+- a) die kantonale Bedarfsplanung;
+- b) die Kriterien des Bundes zur Berechnung der Ausbildungskapazitäten;
+- c) das Bundesrecht ergänzende Kriterien zur Berechnung der Ausbildungskapazitäten.
+
+<sup>3</sup> Die Einrichtungen können die Ausbildungsleistung im eigenen Betrieb oder in einem Ausbildungsverbund, dessen Ausbildungsplätze sich im Kanton Solothurn befinden, erbringen oder eine im Kanton Solothurn gelegene Einrichtung damit beauftragen.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Festlegung der von den Einrichtungen zu erbringenden Ausbildungsleistungen und die damit zusammenhängenden Erfüllungsmodalitäten in einer Verordnung. Er kann das Bundesrecht ergänzende Kriterien zur Berechnung der Ausbildungskapazitäten festlegen.
+
+[^5-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+
+#### § 6
+
+**Abgeltung**
+
+<sup>1</sup> Das Departement entrichtet jeder Einrichtung eine Abgeltung für die im Kalenderjahr erbrachte Ausbildungsleistung.
+
+<sup>2</sup> Es kann den Einrichtungen periodische Vorauszahlungen ausrichten.
+
+<sup>3</sup> Sofern die Summe der Abgeltung für die erbrachte Ausbildungsleistung unter der Summe liegt, welche die Einrichtung im betreffenden Kalenderjahr als Vorauszahlung erhalten hat, bezahlt die Einrichtung die Differenz an das Departement.
+
+<sup>4</sup> Liegt die Summe der Abgeltung für die erbrachte Ausbildungsleistung über der Summe, welche die Einrichtung im betreffenden Kalenderjahr als Vorauszahlung erhalten hat, bezahlt das Departement die Differenz an die Einrichtung.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten zur Entrichtung der Abgeltung in einer Verordnung. Er kann:
+
+- a) zusätzlich die Abgeltung von Massnahmen zur Förderung der Innovation und der Qualität in der praktischen Ausbildung, wie insbesondere die Bildung von Ausbildungsverbünden und die Ausbildung von Berufsbildnerinnen und Berufsbildnern, vorsehen;
+- b) pauschale Abgeltungen festlegen.
+
+#### § 7
+
+**Ausgleichszahlung**
+
+<sup>1</sup> Sofern die effektiv erbrachte Ausbildungsleistung unter der festgelegten Ausbildungsleistung liegt, hat die Einrichtung eine vom Departement festgesetzte Ausgleichszahlung zu leisten.
+
+<sup>2</sup> Die Höhe der Ausgleichszahlung entspricht höchstens dem Betrag, der sich aus der Multiplikation folgender Faktoren ergibt:
+
+- a) Abgeltung für die festgelegte Ausbildungsleistung;
+- b) dreifache prozentuale Differenz zwischen festgelegter und im Kalenderjahr erbrachter Ausbildungsleistung.
+
+<sup>3</sup> Die Pflicht zur Leistung einer Ausgleichszahlung entfällt, wenn die Differenz gemäss Absatz 2 einen Toleranzwert von höchstens 10 Prozent nicht überschreitet.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Ausgleichszahlung und die Höhe des Toleranzwerts in einer Verordnung.
+
+#### § 8
+
+**Mitwirkungspflichten und Datenbearbeitung**
+
+<sup>1</sup> Die Einrichtungen sind verpflichtet, dem Departement und den mit Vollzugsaufgaben nach diesem Gesetz betrauten Fachorganisationen und Branchenverbänden die für die Festlegung der Ausbildungsleistung, der Abgeltung und der Ausgleichszahlung sowie die weiteren für den Vollzug der Ausbildungsverpflichtung erforderlichen Daten unentgeltlich und elektronisch zur Verfügung zu stellen.
+
+<sup>2</sup> Bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Mitwirkungspflicht trotz Mahnung kann das Departement eine Festlegung gemäss pflichtgemässem Ermessen vornehmen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
+
+<sup>3</sup> Das Departement kann von den Berufsbildungszentren pro Einrichtung die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe, die im Bereich der Pflege tätig sind, elektronisch erheben.
+
+<sup>4</sup> Der Datenaustausch gemäss Absatz 1 und 3 kann im Rahmen eines elektronischen Abrufverfahrens erfolgen.
+
+## 4. Beiträge an die Höhere Fachschule Pflege
+
+#### § 9
+
+**Voraussetzungen**
+
+<sup>1</sup> Der Kanton gewährt der Höheren Fachschule Pflege Olten Beiträge gemäss Artikel 6 des Ausbildungsfördergesetzes Pflege[^9-1].
+
+<sup>2</sup> Die Beiträge gemäss Absatz 1 sind insbesondere für folgende Leistungen zu verwenden:
+
+- a) zur Finanzierung von Massnahmen, die den Einstieg in die Ausbildung erleichtern, eine Reduktion von Ausbildungsabbrüchen bezwecken und die Lernbereiche Schule und Praxis koordinieren;
+- b) zur Finanzierung von Marketingvorhaben für den Bildungsgang Pflege HF.
+
+[^9-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+## 5. Ausbildungsbeiträge
+
+#### § 10
+
+**Voraussetzungen, Höhe und Verfahren**
+
+<sup>1</sup> Das Departement gewährt Absolvierenden des Bildungsgangs Pflege HF oder des Studiengangs in Pflege FH Beiträge gemäss Artikel 7 des Ausbildungsfördergesetzes Pflege[^10-1], sofern diese:
+
+- a) das 24. Altersjahr vollendet haben oder
+- b) elterliche Unterhaltspflichten zu erfüllen haben.
+
+<sup>2</sup> Keinen Anspruch auf Beiträge haben Personen, die bereits den Bildungsgang Pflege HF oder eine als gleichwertig anerkannte ausländische Ausbildung abgeschlossen haben.
+
+<sup>3</sup> Der Regierungsrat kann die Gewährung von Beiträgen jährlich begrenzen, insbesondere wenn der kantonale Finanzhaushalt dies erfordert. In diesem Fall legt er einen Zeitpunkt fest, bis zu welchem Gesuche um Beiträge eingereicht werden können. Auf Gesuche, die nach diesem Zeitpunkt eingereicht werden, wird nicht eingetreten.
+
+<sup>4</sup> Der Regierungsrat regelt in einer Verordnung:
+
+- a) die Höhe der Beiträge, die von der Erfüllung bestimmter persönlicher Voraussetzungen, wie insbesondere elterliche Unterhaltspflichten, abhängig gemacht werden kann;
+- b) die Gesuchstellung und die einzureichenden Unterlagen;
+- c) den Beginn und das Ende der Beitragsberechtigung sowie die Modalitäten der Auszahlung.
+
+[^10-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+#### § 11
+
+**Mitwirkungspflichten**
+
+<sup>1</sup> Die gesuchstellenden Personen sind verpflichtet, dem Departement sämtliche für die Zusprechung und Bemessung von Beiträgen erheblichen Tatsachen vollständig und wahrheitsgetreu zu melden und die erforderlichen Unterlagen einzureichen.
+
+<sup>2</sup> Wer Beiträge erhält oder zurückerstatten muss, meldet dem Departement unverzüglich jede Änderung der für die Bemessung oder die Rückerstattung von Beiträgen erheblichen Tatsachen.
+
+#### § 12
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das Departement kann die für die Zusprechung, Bemessung und Rückerstattung der Beiträge erforderlichen Personendaten mit den für den Vollzug des Ausbildungsfördergesetzes Pflege[^12-1] zuständigen ausserkantonalen Behörden austauschen sowie entsprechende Daten bei anderen Behörden erheben.
+
+<sup>2</sup> Der Datenaustausch kann, insbesondere in Bezug auf Personendaten der kantonalen Einwohnerregisterplattform, im Rahmen eines elektronischen Abrufverfahrens oder einer systematischen Meldung erfolgen.
+
+[^12-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+#### § 13
+
+**Ausschluss von der Beitragsberechtigung**
+
+<sup>1</sup> Personen, welche die Mitwirkungspflichten gemäss § 11 in grober Weise oder wiederholt verletzen, können von der weiteren Beitragsberechtigung ausgeschlossen werden.
+
+#### § 14
+
+**Rückerstattung**
+
+<sup>1</sup> Das Departement ordnet die Rückerstattung von Beiträgen an:
+
+- a) wenn sie durch unwahre Angaben oder Verheimlichung von erheblichen Tatsachen erwirkt wurden;
+- b) bei einem Ausschluss von der Ausbildung aus disziplinarischen Gründen;
+- c) wenn die Person, die Beiträge erhalten hat, nach Abschluss der Ausbildung zur Pflegefachperson HF oder FH weniger als drei Jahre in diesem Beruf tätig war.
+
+<sup>2</sup> Die Verzinsung von Rückerstattungsforderungen gemäss Absatz 1 Buchstaben a und b erfolgt ab Auszahlung zum Zinssatz von 5 Prozent.
+
+<sup>3</sup> Auf die Rückerstattung kann in folgenden Fällen ganz oder teilweise verzichtet werden:
+
+- a) bei minimalen Beträgen;
+- b) in Härtefällen.
+
+<sup>4</sup> Der Rückerstattungsanspruch verjährt fünf Jahre nach Kenntnis des Rückerstattungsgrundes, spätestens aber zehn Jahre nach Auszahlung der Beiträge. Ergibt sich der Rückerstattungsanspruch aus einer strafbaren Handlung, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so gilt diese Frist auch für die Rückerstattung.
+
+<sup>5</sup> Der Regierungsrat regelt die Modalitäten der Rückerstattung in einer Verordnung.
+
+## 6. Kosten
+
+#### § 15
+
+**Kostenverteilung**
+
+<sup>1</sup> Die aus dem Vollzug dieses Gesetzes resultierenden Kosten werden anteilsmässig aufgeteilt. Die Anteile betragen:
+
+- a) Kanton: drei Viertel;
+- b) Einwohnergemeinden: ein Viertel.
+
+<sup>2</sup> Der Anteil der einzelnen Einwohnergemeinden an den Kosten richtet sich nach der Einwohnerzahl des Vorjahres gemäss der kantonalen Bevölkerungsstatistik.
+
+## 7. Schlussbestimmungen
+
+#### § 16
+
+**Befristung**
+
+<sup>1</sup> Dieses Gesetz gilt während der Dauer von acht Jahren.
+
+#### § 17
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen in einer Verordnung. Er bezeichnet insbesondere die für den Vollzug dieses Gesetzes zuständigen Departemente und regelt das Übergangsrecht.
+
+GS 2024, 13
