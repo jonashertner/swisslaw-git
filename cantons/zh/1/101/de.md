@@ -3,11 +3,10 @@ canton: ZH
 number: "101"
 title: Verfassung des Kantons Zürich
 language: de
-version: "2023-04-01"
-nachtrag: "121"
-valid_until: 2024-07-01
+version: "2024-07-01"
+nachtrag: "129"
 adopted: 2005-02-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-129.html"
 text: pdf
 ---
 
@@ -70,7 +69,7 @@ Der Kanton arbeitet mit den Gemeinden, den anderen Kantonen, dem Bund und, in se
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 #### Art. 5
 
@@ -202,7 +201,7 @@ ziele des Kantons und der Gemeinden.
 
 **3**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten;
 
@@ -302,7 +301,7 @@ ausgearbeiteter Entwurf eingereicht werden. Die Initiative auf Totalrevision der
 
 **5**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 #### Art. 26
 
@@ -414,7 +413,7 @@ breitet:
 
 **7**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Die Volksabstimmung muss innert 60 Tagen nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses schriftlich verlangt werden. Beim Kantonsratsreferendum beträgt die Frist 14 Tage ab Beschluss des Rates.
 
@@ -508,15 +507,21 @@ tische politische Engagement.
 
 ### A. Allgemeine Bestimmungen
 
-#### Art. 40
-
 **Wählbarkeit**
 
-<sup>1</sup> In den Kantonsrat, den Regierungsrat, die obersten
+Art. 40[^hAAllgemeineBestim-1] <sup>1</sup> In den Kantonsrat, den Regierungsrat, die obersten kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist.
 
-kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist. Wer in die übrigen Behörden gewählt werden kann, bestimmt das Gesetz.
+<sup>2</sup> Für die Wahl in die obersten kantonalen Gerichte kann das Gesetz weitere Wählbarkeitsvoraussetzungen, Ausnahmen von der Wohnsitzpflicht und Bestimmungen zur Amtsdauer festlegen.
 
-<sup>2</sup> Kanton und Gemeinden streben eine angemessene Vertretung beider Geschlechter in Behörden und Kommissionen an.
+<sup>3</sup> Wer in die übrigen Behörden gewählt werden kann, bestimmt das Gesetz.
+
+<sup>4</sup> Kanton und Gemeinden streben eine angemessene Vertretung beider Geschlechter in Behörden und Kommissionen an.
+
+**9**
+
+- 1\. 7. 25 - 129
+
+[^hAAllgemeineBestim-1]: Fassung gemäss Änderung vom 25. September 2023 (OS 79, 191). In Kraft seit 1. Juli 2024. Vom Bund gewährleistet durch Bundesbeschluss vom 4. April 2025 (BBl 2025, 996). 1. 7. 25 - 129 29
 
 #### Art. 41
 
@@ -527,10 +532,6 @@ kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen A
 Jahre.
 
 <sup>2</sup> Für die Richterinnen und Richter beträgt sie sechs Jahre.
-
-**9**
-
-- 1\. 4. 23 - 120
 
 #### Art. 42
 
@@ -688,11 +689,11 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 - c. die Genehmigung der Staatsrechnung;
 
-- d. die Veräusserung von Vermögenswerten über 4 Millionen Franken, die öffentlichen Zwecken dienen.
-
 **11**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
+
+- d. die Veräusserung von Vermögenswerten über 4 Millionen Franken, die öffentlichen Zwecken dienen.
 
 <sup>2</sup> Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
@@ -748,9 +749,9 @@ Der Kantonsrat wählt seine eigenen Organe und nimmt die weiteren ihm übertrage
 
 **Funktion**
 
-<sup>1</sup> Der Regierungsrat ist die oberste leitende und voll-
+<sup>1</sup> Der Regierungsrat ist die oberste leitende und vollzie-
 
-ziehende Behörde des Kantons.
+hende Behörde des Kantons.
 
 <sup>2</sup> Er wahrt die Verfassung und setzt die Gesetze, die Verordnungen und die Beschlüsse des Kantonsrates um.
 
@@ -840,7 +841,7 @@ die Staatsrechnung.
 
 **13**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Er beschliesst im Rahmen des Budgets über:
 
@@ -968,7 +969,7 @@ gen sind, gewährleistet das Gesetz die wirksame Überprüfung durch eine Rekurs
 
 **15**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 #### Art. 78
 
@@ -1090,7 +1091,7 @@ sieht insbesondere ein Initiativrecht, ein Referendumsrecht und ein Anfragerecht
 
 **17**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Stimmberechtigten entscheiden an der Urne über:
 
@@ -1214,7 +1215,7 @@ Kanton in Bezirke eingeteilt. Das Gesetz bezeichnet ihre Gebiete.
 
 **19**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 #### Art. 97
 
@@ -1338,7 +1339,7 @@ schaftliche und umweltgerechte Ordnung des gesamten Verkehrs und für ein leistu
 
 **21**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>3</sup> Sie sorgen für den Schutz vor Hochwasser und anderen Naturgefahren. Sie fördern die Renaturierung der Gewässer.
 
@@ -1354,7 +1355,7 @@ eine ausreichende, umweltschonende, wirtschaftliche und sichere Energieversorgun
 
 <sup>3</sup> Er sorgt für eine sichere und wirtschaftliche Elektrizitätsversorgung.
 
-[^106-1]: Eingefügt durch Änderung vom 31. Januar 2022 (OS 78, 123; ABl 2020-12-24). In Kraft seit 1. April 2023. Vom Bund gewährleistet durch Bundesbeschluss vom 20. September 2023 (BBl 2023, 2331). 1. 4. 23 - 120 29
+[^106-1]: Eingefügt durch Änderung vom 31. Januar 2022 (OS 78, 123; ABl 2020-12-24). In Kraft seit 1. April 2023. Vom Bund gewährleistet durch Bundesbeschluss vom 20. September 2023 (BBl 2023, 2331).
 
 #### Art. 106 a
 
@@ -1494,7 +1495,7 @@ Kanton und Gemeinden fördern den Sport.
 
 **23**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 ### 9. Kapitel: Finanzen
 
@@ -1618,7 +1619,7 @@ Kantons und erstattet darüber dem Regierungsrat und dem Kantonsrat Bericht.
 
 **25**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 ### 10. Kapitel: Kirchen und weitere Religionsgemeinschaften
 
@@ -1746,7 +1747,7 @@ initiative bereits eingereicht worden, so richten sich die Fristen für die Durc
 
 **27**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Läuft beim Inkrafttreten die Sammelfrist für eine Volksinitiative, so gelten für sie die Bestimmungen dieser Verfassung.
 
