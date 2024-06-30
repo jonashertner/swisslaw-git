@@ -4,13 +4,13 @@ number: "773.211"
 title: Energieverordnung
 short: EnergieV
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-12-21
+version: 2024-07-01
+valid_until: 2025-03-31
+version_adopted: 2024-03-13
 adopted: 2012-07-04
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3276/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3276/pdf_file"
 
 (EnergieV)
 
-Vom 04.07.2012 (Stand 01.01.2023)
+Vom 04.07.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 9 Abs. 3 des Energiegesetzes (EnG) vom 26. Juni 1998[^ingress-1], Art. 52 Abs. 3 des Bundesgesetzes über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe (Rohrleitungsgesetz, RLG) vom 4. Oktober 1963[^ingress-2], Art. 28 Abs. 1 der Rohrleitungsverordnung (RLV) vom 2. Februar 2000[^ingress-3], § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-4], § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-5], § 37 Abs. 2 des Einführungsgesetzes zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässer (EG Umweltrecht, EG UWR) vom 4. September 2007[^ingress-6], §§ 4 Abs. 4, 7 Abs. 5, 8 Abs. 4, 9 Abs. 3, 18, 19 Abs. 2, 22 Abs. 2, 23 Abs. 1, 25, 26 und 32 des Energiegesetzes des Kantons Aargau (EnergieG) vom 17. Januar 2012[^ingress-7],
+gestützt auf Art. 9 Abs. 3 des Energiegesetzes (EnG) vom 26. Juni 1998[^ingress-1], Art. 52 Abs. 3 des Bundesgesetzes über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe (Rohrleitungsgesetz, RLG) vom 4. Oktober 1963[^ingress-2], Art. 28 Abs. 1 der Rohrleitungsverordnung (RLV) vom 2. Februar 2000[^ingress-3], § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-4], § 37 Abs. 2 des Einführungsgesetzes zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässer (EG Umweltrecht, EG UWR) vom 4. September 2007[^ingress-5] sowie die §§ 4 Abs. 4, 7 Abs. 5, 8 Abs. 4, 9 Abs. 3, 18, 19 Abs. 2, 22 Abs. 2, 23 Abs. 1, 25, 26 und 32 des Energiegesetzes des Kantons Aargau (EnergieG) vom 17. Januar 2012[^ingress-6],
 
 beschliesst:
 
@@ -31,9 +31,8 @@ beschliesst:
 [^ingress-2]: SR [746.1](https://db.clex.ch/link/Bund/746.1/de)
 [^ingress-3]: SR [746.11](https://db.clex.ch/link/Bund/746.11/de)
 [^ingress-4]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
-[^ingress-5]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
-[^ingress-6]: SAR [781.200](https://gesetzessammlungen.ag.ch/data/781.200/de)
-[^ingress-7]: SAR [773.200](https://gesetzessammlungen.ag.ch/data/773.200/de)
+[^ingress-5]: SAR [781.200](https://gesetzessammlungen.ag.ch/data/781.200/de)
+[^ingress-6]: SAR [773.200](https://gesetzessammlungen.ag.ch/data/773.200/de)
 
 ## 1. Energieeffizienz
 
@@ -424,7 +423,7 @@ JKfossil ≤ fU x JKnichtfossil.
 
 <sup>2</sup> Grundnahrungsmittel, die in der Nahrungskette verwendbar sind, dürfen nicht für die Energieproduktion eingesetzt werden. Für Wasser gilt diese Einschränkung nicht.
 
-<sup>3</sup> Für die Bearbeitung des Gesuchs um Erteilung einer Betriebsbewilligung erhebt das BVU eine Gebühr nach Aufwand von Fr. 200.– bis Fr. 20'000.–.
+<sup>3</sup> …
 
 ## 3. Energieleitungen
 
@@ -460,23 +459,7 @@ JKfossil ≤ fU x JKnichtfossil.
 
 #### § 33
 
-**Gebühr**
-
-<sup>1</sup> Für die Bearbeitung des Gesuchs für den Bau und Betrieb einer Rohrleitungsanlage wird folgende Gebühr erhoben:
-
-- a) Grundtaxe Fr. 1'000.–,
-- b) zusätzlich für jeden angefangenen Leitungskilometer Fr. 600.–,
-- c) Maximalbetrag Fr. 20'000.–.
-
-<sup>2</sup> Bei Vorentscheiden, ungewöhnlich geringem Aufwand sowie Rückzug des Gesuchs kann die Gebühr reduziert oder erlassen werden. Bei ausserordentlichem Mehraufwand, etwa infolge mangelhafter Unterlagen, kann die Gebühr unter Beachtung des Höchstbetrags bis auf das Doppelte erhöht werden.
-
-<sup>3</sup> Auslagen für die Publikation des Gesuchs und besondere Auslagen, insbesondere für den Beizug von Sachverständigen oder die Einholung von Gutachten, werden zusätzlich in Rechnung gestellt.
-
-<sup>4</sup> Für die kantonale Beurteilung von Vorprojekten und Projekten mit oder ohne UVP, die der Bewilligungspflicht des Bundes unterliegen, wird eine Gebühr erhoben, die sich nach dem Aufwand der Verwaltung berechnet und höchstens Fr. 50'000.– beträgt. Die Stundenansätze berechnen sich nach Ziffer 6 des Anhangs zur Verordnung über die beim Vollzug des Umweltschutz- und Gewässerschutzrechtes zu erhebenden Gebühren vom 1. Mai 2002[^33-1].
-
-<sup>5</sup> Die Gebühr für die Ausführung von technischen Aufsichtsaufgaben durch Dritte berechnet sich nach den Ansätzen, die in der Privatwirtschaft für gleichwertige Arbeiten üblich sind.
-
-[^33-1]: SAR [661.139](https://gesetzessammlungen.ag.ch/data/661.139/de)
+**…**
 
 #### § 34
 
@@ -484,7 +467,7 @@ JKfossil ≤ fU x JKnichtfossil.
 
 <sup>1</sup> Netzbetreiber, die Gewähr für ordnungsgemässen Bau und Betrieb bieten, können beim BVU für Rohrleitungsanlagen mit einem Betriebsdruck unter 100'000 Pa (1 bar) eine befristete generelle Bau- und Betriebsbewilligung beantragen.
 
-<sup>2</sup> Die Gebühr für die Bearbeitung des Gesuchs wird nach Aufwand berechnet und beträgt Fr. 2'000.– bis Fr. 5'000.–.
+<sup>2</sup> …
 
 #### § 35
 
@@ -518,7 +501,7 @@ JKfossil ≤ fU x JKnichtfossil.
 
 <sup>1</sup> Das BVU besorgt die Instruktion und Information der Gemeinden und der Öffentlichkeit und erlässt die notwendigen Weisungen und Richtlinien für eine einheitliche Rechtsanwendung.
 
-<sup>2</sup> Es beurteilt Gesuche um Ausnahmen von der Verpflichtung, Gebäude mit den nötigen Geräten für die verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung auszurüsten (§ 6 EnergieG) und erhebt dafür eine Gebühr nach Aufwand von Fr. 200.– bis Fr. 5'000.–.
+<sup>2</sup> …
 
 <sup>3</sup> Es reicht Gesuche um Globalbeiträge (Art. 19 Abs. 2 EnV) beim Bundesamt ein und nimmt zu dessen Handen Stellung zu Gesuchen um objektgebundene Finanzhilfen (Art. 19 Abs. 3 EnV).
 
