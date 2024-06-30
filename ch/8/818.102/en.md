@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 1 January 2024)
+of 25 September 2020 (Status as of 1 July 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -65,50 +65,29 @@ decrees:
 
 #### Art. 3
 
-**Measures relating to healthcare provision**[^3-1]
+[^3-1]
 
-<sup>1</sup> The Federal Council may require manufacturers, distributors, laboratories, healthcare facilities and other cantonal facilities to report their stocks of therapeutic products, protective equipment and other medical goods required for healthcare provision (essential medical goods).
+<sup>1</sup> and <sup>2</sup> …
 
-<sup>2</sup>
-
-In order to guarantee a sufficient supply of essential medical goods for the public, it may:
-
-- a. provide for exceptions to the provisions on the import of essential medical goods;
-- b. provide for exceptions to the requirement of authorisation for activities in connection with essential medical goods or adapt the licensing requirements;
-- c. provide for exceptions to the requirement of authorisation for medicinal products or adapt the authorisation requirements or authorisation procedure;
-- d. provide for exceptions to the provisions on the conformity assessment of medical devices and the provisions on the conformity assessment procedure and the placing on the market of protective equipment;
-- e.[^3-2] procure essential medical goods or have them manufactured itself; in this case, it shall regulate the funding of procurement or manufacture and the repayment of the costs by the cantons and facilities to which the goods are supplied;
-- f. provide for the allocation, delivery and distribution of essential medical goods;
-- g. provide for the direct marketing of essential medical goods;
-- [tab] h. and i. ...
-
-<sup>3</sup> It shall take the measures under paragraph 2 letters e and f only if supplies cannot be guaranteed by the cantons and the private sector.[^3-3]
+<sup>3</sup> …[^3-2]
 
 <sup>4</sup> ...
 
-<sup>4bis</sup> In order to support the health care services placed under stress by the COVID-19 crisis, the cantons shall finance the capacity reserves required to cope with peaks in activity. The cantons shall define the required capacities in consultation with the Confederation.[^3-4]
+<sup>4bis</sup> …[^3-3]
 
-<sup>4ter</sup> The Federal Council may require the cantons to report their capacities in the healthcare sector, in particular total numbers and the occupancy of hospital beds that are intended for the treatment of COVID-19 patients.[^3-5]
+<sup>4ter</sup> …[^3-4]
 
 <sup>5</sup> and <sup>6</sup> ...
 
-<sup>6bis</sup> ...[^3-6]
+<sup>6bis</sup> ...[^3-5]
 
-<sup>7</sup>
-
-The Confederation shall take the following measures in close consultation with the cantons:
-
-- a.–c. ...
-- d.[^3-7] ...
-- e. ...
+<sup>7</sup> ...
 
 [^3-1]: In force until 31 Dec. 2022, with the exception of para. 7 let. d, para. 1 and 2 let. a–g extended to 30 June 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)No II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-2]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 20 March 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^3-3]: Amended by No I of the FA of 16 Dec. 2022, in force from 1. Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-4]: Inserted by No I of the FA of 17 Dec. 2021 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Amended by No I of the FA of 16 Dec. 2022, in force from 1 Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-5]: Inserted by No I of the FA of 16 Dec. 2022, in force from 1. Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-6]: Inserted by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-7]: In force until 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); BB **2021** 285).
+[^3-2]: Amended by No I of the FA of 16 Dec. 2022, in force from 1. Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-3]: Inserted by No I of the FA of 17 Dec. 2021 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Amended by No I of the FA of 16 Dec. 2022, in force from 1 Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-4]: Inserted by No I of the FA of 16 Dec. 2022, in force from 1. Jan. 2023 until 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-5]: Inserted by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3a
 
@@ -126,7 +105,7 @@ The Confederation shall take the following measures in close consultation with t
 
 [^4-1]
 
-<sup>1</sup> The Federal Council may order measures to protect employees at high risk. It may in particular impose obligations on employers related to this, in particular the obligation to allow employees at high risk to carry out their work duties from home or to do equivalent alternative work.[^4-2]
+<sup>1</sup> …[^4-2]
 
 <sup>2–4</sup> ...
 
@@ -139,54 +118,17 @@ The Confederation shall take the following measures in close consultation with t
 
 [^4a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
-#### Art. 5
+#### Art. 5 and 6
 
-**Measures relating to foreign nationals and asylum**[^5-1]
+[^56-1]
 
-The Federal Council may introduce derogations from the Foreign Nationals and Integration Act of 16 December 2005[^5-2] (FNIA) and from the Asylum Act of 26 June 1998[^5-3] (AsylA) on:
-
-- a. restricting the entry of foreign nationals and their admission to stay in Switzerland, with the exception of family reunification in accordance with Articles 42–45 FNIA and the entry into Switzerland of unmarried partners and their children;
-- b.
-
-  extending statutory deadlines for:
-
-  - 1\. family reunification (Art. 47 FNIA),
-  - 2\. the expiry of short stay, residence and permanent residence permits (Art. 61 FNIA),
-  - 3\. the updating of biometric data in identification documents (Art. 59*b* and 102*a* FNIA),
-  - 4\. departure (Art. 45 para. 2 AsylA and Art. 64*d* FNIA),
-  - 5\. the expiry of asylum (Art. 64 AsylA),
-  - 6\. the expiry of temporary admission (Art. 84 para. 4 FNIA);
-
-- c. accommodating asylum seekers in federal centres and conducting asylum and removal procedures; in doing so it shall take appropriate account of the need to protect the health of the persons concerned.
-
-[^5-1]: In force to 31 Dec. 2022 extended to 30 June 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)no II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^5-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-
-#### Art. 6
-
-**Measures relating to the closure of borders**[^6-1]
-
-In relation to the closure of borders, the Federal Council shall wherever possible take the measures required to guarantee the freedom to travel of cross-border commuters and residents who have special ties to the border region.
-
-[^6-1]: In force until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)no II para. 2; **2022** 817 No II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^56-1]: In force until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)no II para. 2; **2022** 817 No II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 6a
 
-**Vaccination, test and recovery certificates**[^6a-1]
-
-<sup>1</sup> The Federal Council shall stipulate the requirements for certifying that a person has received a COVID-19 vaccination or has recovered from COVID-19 or for certifying the result of a test for COVID-19.
-
-<sup>2</sup> The certificate shall be issued in response to an application.
-
-<sup>3</sup> The certificate must be personal, forgery-proof, verifiable while complying with data protection requirements and designed so that only decentralised or local verification of its authenticity and validity is possible and, if possible, so that it can be used when entering or leaving other countries.[^6a-2]
-
-<sup>4</sup> The Federal Council may regulate who is to pay the cost of the certificate.
-
-<sup>5</sup> The Confederation may provide the cantons and third parties with a system for issuing certificates.
+[^6a-1]
 
 [^6a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)No II; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^6a-2]: German version corrected by the FA Drafting Committee on 15 Oct. 2021, published on 19 Oct. 2021 ([AS 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 

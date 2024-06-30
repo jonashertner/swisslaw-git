@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 1° gennaio 2024)
+del 25 settembre 2020 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -63,50 +63,29 @@ decreta:
 
 #### Art. 3
 
-**Provvedimenti nel settore dell’assistenza sanitaria**[^3-1]
+[^3-1]
 
-<sup>1</sup> Il Consiglio federale può obbligare fabbricanti, distributori, laboratori nonché strutture sanitarie e altre strutture dei Cantoni a notificare le loro scorte di agenti terapeutici, dispositivi di protezione e altro materiale medico importante ai fini dell’assistenza sanitaria (materiale medico importante).
+<sup>1 e <sup>2</sup></sup> ...
 
-<sup>2</sup>
-
-Per garantire un approvvigionamento sufficiente della popolazione con materiale medico importante, il Consiglio federale può:
-
-- a. prevedere deroghe alle disposizioni sull’importazione di materiale medico importante;
-- b. prevedere deroghe all’obbligo di autorizzazione di attività legate al materiale medico importante o modificare le condizioni di autorizzazione;
-- c. prevedere deroghe all’obbligo di omologazione dei medicamenti oppure modificare i requisiti o la procedura di omologazione;
-- d. prevedere deroghe alle disposizioni sulla valutazione della conformità di dispositivi medici nonché alle disposizioni sulla procedura di valutazione della conformità e sull’immissione in commercio di dispositivi di protezione;
-- e.[^3-2] acquistare o far produrre materiale medico importante; in tal caso disciplina il finanziamento dell’acquisto o della produzione e il rimborso dei costi da parte dei Cantoni e delle strutture a cui il materiale è consegnato;
-- f. prevedere l’attribuzione, la fornitura e la distribuzione di materiale medico importante;
-- g. prevedere la commercializzazione diretta di materiale medico importante;
-- h. e i. ...
-
-<sup>3</sup> Il Consiglio federale adotta i provvedimenti di cui al capoverso 2 lettere e ed f unicamente nella misura in cui i Cantoni e i privati non siano in grado di garantire l’approvvigionamento.[^3-3]
+<sup>3</sup> ...[^3-2]
 
 <sup>4</sup> ...
 
-<sup>4bis</sup> Al fine di rafforzare i servizi del settore sanitario nella crisi da COVID‑19, i Cantoni finanziano le riserve di capacità necessarie per far fronte ai picchi di attività. Definiscono le capacità necessarie previa consultazione della Confederazione.[^3-4]
+<sup>4bis</sup> ...[^3-3]
 
-<sup>4ter</sup> Il Consiglio federale può obbligare i Cantoni a notificare le loro capacità nell’assistenza sanitaria, segnatamente il numero complessivo e l’occupazione dei posti letto ospedalieri destinati al trattamento dei malati di COVID‑19.[^3-5]
+<sup>4ter</sup> ...[^3-4]
 
 <sup>5 e <sup>6</sup></sup> ...
 
-<sup>6bis</sup> ...[^3-6]
+<sup>6bis</sup> ...[^3-5]
 
-<sup>7</sup>
-
-La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
-
-- a. a c. ...
-- d.[^3-7] ...
-- e. ...
+<sup>7</sup> ...
 
 [^3-1]: Salvo il cpv. 7 lett. d, in vigore sino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Cpv. 1 e 2 lett. a–g prorogati sino al 30 lug. 2024 giusta il n. II della LF del 16 dic. 2022 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correzione della Commissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-4]: Introdotto dal n. I della LF del 17 dic. 2021 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta il n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-5]: Introdotto dal n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-7]: In vigore sino al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-3]: Introdotto dal n. I della LF del 17 dic. 2021 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta il n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-4]: Introdotto dal n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3a
 
@@ -122,9 +101,9 @@ La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 
 #### Art. 4
 
-**Provvedimenti di protezione dei lavoratori**[^4-1]
+[^4-1]
 
-<sup>1</sup> Il Consiglio federale può ordinare provvedimenti per la protezione dei lavoratori particolarmente a rischio. Può in particolare imporre i relativi obblighi ai datori di lavoro, segnatamente quello di permettere ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi o di svolgere un lavoro alternativo equivalente.[^4-2]
+<sup>1</sup> ...[^4-2]
 
 <sup>2 a <sup>4</sup></sup> ...
 
@@ -137,54 +116,17 @@ La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 
 [^4a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021, prorogato sino al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515))
 
-#### Art. 5
+#### Art. 5 e 6
 
-**Provvedimenti nel settore degli stranieri e dell’asilo**[^5-1]
+[^56-1]
 
-Il Consiglio federale può emanare disposizioni che deroghino alla legge federale del 16 dicembre 2005[^5-2] sugli stranieri e la loro integrazione (LStrI) e alla legge del 26 giugno 1998[^5-3] sull’asilo (LAsi) con riguardo a:
-
-- a. la limitazione dell’entrata in Svizzera degli stranieri e la loro ammissione per un soggiorno, ad eccezione del ricongiungimento familiare di cui agli articoli 42–45 LStrI e dell’entrata dei concubini e dei loro figli;
-- b.
-
-  il prolungamento dei termini legali per:
-
-  - 1\. il ricongiungimento familiare (art. 47 LStrI),
-  - 2\. la decadenza dei permessi di soggiorno di breve durata, di dimora e di domicilio (art. 61 LStrI),
-  - 3\. il nuovo rilevamento dei dati biometrici dei documenti (art. 59*b* e 102*a* LStrI),
-  - 4\. la partenza (art. 45 cpv. 2 LAsi e art. 64*d* LStrI),
-  - 5\. il termine dell’asilo (art. 64 LAsi),
-  - 6\. la fine dell’ammissione provvisoria (art. 84 cpv. 4 LAsi);
-
-- c. l’alloggio dei richiedenti l’asilo nei centri della Confederazione e l’esecuzione delle procedure d’asilo e d’allontanamento; in questo contesto il Consiglio federale tiene in debita considerazione la protezione della salute.
-
-[^5-1]: In vigore sino al 31 dic. 2022, prorogato sino al 30 giu. 2024 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^5-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-
-#### Art. 6
-
-**Provvedimenti in caso di chiusura delle frontiere**[^6-1]
-
-In caso di chiusura delle frontiere, il Consiglio federale adotta i provvedimenti necessari ad assicurare al meglio la libertà di circolazione dei lavoratori frontalieri e degli abitanti che hanno legami particolari nella zona di confine.
-
-[^6-1]: In vigore sino al 31 dic. 2022, prorogato sino al 30 giu. 2024 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^56-1]: In vigore sino al 31 dic. 2022, prorogati sino al 30 giu. 2024 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 6a
 
-**Certificato COVID-19**[^6a-1]
-
-<sup>1</sup> Il Consiglio federale stabilisce i requisiti del documento che certifica l’avvenuta vaccinazione contro la COVID-19, la guarigione da un’infezione da COVID-19 o il risultato del test COVID-19.
-
-<sup>2</sup> Il documento è rilasciato su richiesta.
-
-<sup>3</sup> Il documento deve essere personale, non falsificabile e verificabile nel rispetto delle norme sulla protezione dei dati; è concepito in modo tale da consentire unicamente una verifica decentralizzata o locale della sua autenticità e validità e da poter essere utilizzato, per quanto possibile, per entrare in altri Paesi e uscirne.[^6a-2]
-
-<sup>4</sup> Il Consiglio federale può disciplinare l’assunzione dei costi del documento.
-
-<sup>5</sup> La Confederazione può mettere a disposizione dei Cantoni e di terzi un sistema per il rilascio del documento.
+[^6a-1]
 
 [^6a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022, prorogato sino al 30 giu. 2024 dal n. II della LF del 16 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)). Correzione della Commissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^6a-2]: La correzione della Commissione di redazione dell’AF del 15 ott. 2021, pubblicata il 19 ott. 2021, concerne soltanto il testo tedesco ([RU 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 

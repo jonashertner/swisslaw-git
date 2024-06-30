@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 1. Januar 2024)
+vom 25. September 2020 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -63,50 +63,29 @@ beschliesst:
 
 #### Art. 3
 
-**Massnahmen im Bereich der Gesundheitsversorgung**[^3-1]
+[^3-1]
 
-<sup>1</sup> Der Bundesrat kann Hersteller, Vertreiber, Laboratorien sowie Gesundheitseinrichtungen und weitere Einrichtungen der Kantone verpflichten, ihren Bestand an Heilmitteln, Schutzausrüstungen und weiteren für die Gesundheitsversorgung wichtigen medizinischen Gütern (wichtige medizinische Güter) zu melden.
+<sup>1 und <sup>2</sup></sup> …
 
-<sup>2</sup>
-
-Er kann zur Gewährleistung einer ausreichenden Versorgung der Bevölkerung mit wichtigen medizinischen Gütern:
-
-- a. Ausnahmen von den Bestimmungen über die Einfuhr von wichtigen medizinischen Gütern vorsehen;
-- b. Ausnahmen von der Bewilligungspflicht für Tätigkeiten im Zusammenhang mit wichtigen medizinischen Gütern vorsehen oder die Bewilligungsvoraussetzungen anpassen;
-- c. Ausnahmen von der Zulassungspflicht für Arzneimittel vorsehen oder die Zulassungsvoraussetzungen oder das Zulassungsverfahren anpassen;
-- d. Ausnahmen von den Bestimmungen über die Konformitätsbewertung von Medizinprodukten sowie von den Bestimmungen über das Konformitätsbewertungsverfahren und das Inverkehrbringen von Schutzausrüstungen vorsehen;
-- e.[^3-2] wichtige medizinische Güter selber beschaffen oder herstellen lassen; er regelt in diesem Fall die Finanzierung der Beschaffung oder der Herstellung sowie die Rückvergütung der Kosten durch die Kantone und Einrichtungen, denen die Güter abgegeben werden;
-- f. die Zuteilung, Lieferung und Verteilung von wichtigen medizinischen Gütern vorsehen;
-- g. die Direktvermarktung von wichtigen medizinischen Gütern vorsehen;
-- h. und i. …
-
-<sup>3</sup> Er trifft die Massnahmen nach Absatz 2 Buchstaben e und f nur, soweit die Versorgung nicht durch die Kantone und Private sichergestellt werden kann.[^3-3]
+<sup>3</sup> …[^3-2]
 
 <sup>4</sup> …
 
-<sup>4bis</sup> Zur Stärkung der durch die Covid-19-Krise beanspruchten Gesundheitsversorgung finanzieren die Kantone die zur Abdeckung von Auslastungsspitzen nötigen Vorhalteleistungen. Die Kantone definieren die nötigen Kapazitäten in Absprache mit dem Bund.[^3-4]
+<sup>4bis</sup> …[^3-3]
 
-<sup>4ter</sup> Der Bundesrat kann die Kantone verpflichten, ihre Kapazitäten in der Gesundheitsversorgung zu melden, namentlich die Gesamtzahl und die Auslastung der Spitalbetten, die für die Behandlung von Covid-19-Erkrankungen bestimmt sind.[^3-5]
+<sup>4ter</sup> …[^3-4]
 
 <sup>5 und <sup>6</sup></sup> …
 
-<sup>6bis</sup> …[^3-6]
+<sup>6bis</sup> …[^3-5]
 
-<sup>7</sup>
-
-Der Bund trifft die folgenden Massnahmen in enger Abstimmung mit den Kantonen:
-
-- a.–c. …
-- d.[^3-7] …
-- e. …
+<sup>7</sup> …
 
 [^3-1]: In Kraft bis 31. Dez. 2022, mit Ausnahme von Abs. 7 Bst. d, Abs. 1 und 2 Bst. a–g verlängert bis zum 30. Juni 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)Ziff. II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft seit 20. März 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^3-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-7]: In Kraft bis 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^3-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3a
 
@@ -124,7 +103,7 @@ Der Bund trifft die folgenden Massnahmen in enger Abstimmung mit den Kantonen:
 
 [^4-1]
 
-<sup>1</sup> Der Bundesrat kann Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern anordnen. Er kann insbesondere den Arbeitgebern diesbezügliche Pflichten auferlegen, namentlich die Pflicht, den besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern zu ermöglichen, ihre Arbeitsverpflichtung von zu Hause aus zu erfüllen oder eine gleichwertige Ersatzarbeit zu leisten.[^4-2]
+<sup>1</sup> …[^4-2]
 
 <sup>2–4</sup> …
 
@@ -137,54 +116,17 @@ Der Bund trifft die folgenden Massnahmen in enger Abstimmung mit den Kantonen:
 
 [^4a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021, verlängert bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
-#### Art. 5
+#### Art. 5 und 6
 
-**Massnahmen im Ausländer- und Asylbereich**[^5-1]
+[^56-1]
 
-Der Bundesrat kann vom Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^5-2] (AIG) und vom Asylgesetz vom 26. Juni 1998[^5-3] (AsylG) abweichende Bestimmungen erlassen über:
-
-- a. die Einschränkung der Einreise von Ausländerinnen und Ausländern und über deren Zulassung zu einem Aufenthalt in der Schweiz, mit Ausnahme des Familiennachzugs nach den Artikeln 42–45 AIG sowie der Einreise von Konkubinatspartnerinnen und Konkubinatspartnern und ihrer Kinder in der Schweiz;
-- b.
-
-  die Erstreckung gesetzlicher Fristen für:
-
-  - 1\. den Familiennachzug (Art. 47 AIG),
-  - 2\. das Erlöschen der Kurzaufenthalts-, Aufenthalts- und Niederlassungsbewilligung (Art. 61 AIG),
-  - 3\. die Erneuerung der biometrischen Daten bei Ausweisen (Art. 59*b* und 102*a* AIG),
-  - 4\. die Ausreise (Art. 45 Abs. 2 AsylG und Art. 64*d* AIG),
-  - 5\. das Erlöschen von Asyl (Art. 64 AsylG),
-  - 6\. das Erlöschen von vorläufigen Aufnahmen (Art. 84 Abs. 4 AIG);
-
-- c. die Unterbringung von Asylsuchenden in Zentren des Bundes und zur Durchführung von Asyl- und Wegweisungsverfahren; er trägt dabei dem Schutz der Gesundheit angemessen Rechnung.
-
-[^5-1]: In Kraft bis 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)Ziff. II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^5-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-
-#### Art. 6
-
-**Massnahmen bei Grenzschliessung**[^6-1]
-
-Bei Grenzschliessung ergreift der Bundesrat die notwendigen Massnahmen, um die Reisefreiheit der Grenzgängerinnen und Grenzgänger sowie der Einwohnerinnen und Einwohner, die eine besondere Bindung zum Grenzgebiet haben, bestmöglich zu gewährleisten.
-
-[^6-1]: In Kraft bis 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)Ziff. II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^56-1]: In Kraft bis 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)Ziff. II; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 6a
 
-**Impf-, Test- und Genesungsnachweise**[^6a-1]
-
-<sup>1</sup> Der Bundesrat legt die Anforderungen an den Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses fest.
-
-<sup>2</sup> Der Nachweis ist auf Gesuch hin zu erteilen.
-
-<sup>3</sup> Der Nachweis muss persönlich, fälschungssicher, unter Einhaltung des Datenschutzes überprüfbar und so ausgestaltet sein, dass nur eine dezentrale oder lokale Überprüfung der Authentizität und Gültigkeit von Nachweisen möglich ist und er möglichst für die Ein- und Ausreise in andere Länder verwendet werden kann.[^6a-2]
-
-<sup>4</sup> Der Bundesrat kann die Übernahme der Kosten des Nachweises regeln.
-
-<sup>5</sup> Der Bund kann den Kantonen sowie Dritten ein System für die Erteilung von Nachweisen zur Verfügung stellen.
+[^6a-1]
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)Ziff. II; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^6a-2]: Berichtigung der RedK der BVers vom 15. Okt. 2021, veröffentlicht am 19. Okt. 2021 ([AS 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 
@@ -271,7 +213,7 @@ Folgende Stellen und Personen sind verpflichtet, den zuständigen Amtsstellen de
 
 #### Art. 12b
 
-[^12b-1]
+**Massnahmen im Sportbereich: A-Fonds-perdu-Beiträge für Klubs des professionellen und semiprofessionellen Mannschaftssports**[^12b-1]
 
 <sup>1–4</sup> …
 

@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (État le 1<sup>er</sup> janvier 2024)
+du 25 septembre 2020 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -63,50 +63,29 @@ arrête:
 
 #### Art. 3
 
-**Mesures dans le domaine des capacités sanitaires**[^3-1]
+[^3-1]
 
-<sup>1</sup> Le Conseil fédéral peut obliger les fabricants, les distributeurs, les laboratoires, les établissements de santé et d’autres établissements des cantons à communiquer leurs stocks de produits thérapeutiques, d’équipements de protection et d’autres biens médicaux importants pour le maintien des capacités sanitaires (biens médicaux importants).
+<sup>1 et <sup>2</sup></sup> …
 
-<sup>2</sup>
-
-Il peut, pour garantir un approvisionnement suffisant de la population en biens médicaux importants:
-
-- a. prévoir des dérogations aux dispositions sur l’importation de biens médicaux importants;
-- b. prévoir des dérogations au régime de l’autorisation pour des activités en relation avec des biens médicaux importants ou adapter les conditions d’autorisation;
-- c. prévoir des dérogations à l’autorisation de mise sur le marché de médicaments ou adapter les conditions liées à l’autorisation de mise sur le marché ou la procédure d’autorisation de mise sur le marché;
-- d. prévoir des dérogations aux dispositions sur l’évaluation de la conformité des dispositifs médicaux et aux dispositions sur la procédure d’évaluation et la mise sur le marché d’équipements de protection;
-- e.[^3-2] acquérir lui-même ou faire produire des biens médicaux importants; dans ce cas, il règle le financement de l’acquisition ou de la production et le remboursement des coûts par les cantons et les établissements auxquels les biens sont remis;
-- f. prévoir l’attribution, la livraison et la distribution de biens médicaux importants;
-- g. prévoir la vente directe de biens médicaux importants;
-- h. et i. …
-
-<sup>3</sup> Il ne prend les mesures visées à l’al. 2, let. e et f, que dans la mesure où l’approvisionnement ne peut être garanti par les cantons et les particuliers.[^3-3]
+<sup>3</sup> …[^3-2]
 
 <sup>4</sup> …
 
-<sup>4bis</sup> Afin de renforcer les services de santé sollicités par la crise COVID-19, les cantons financent les réserves de capacités nécessaires pour affronter les pics d’activité. Ils définissent les capacités nécessaires après consultation auprès de la Confédération.[^3-4]
+<sup>4bis</sup> …[^3-3]
 
-<sup>4ter</sup> Le Conseil fédéral peut enjoindre aux cantons de communiquer leurs capacités sanitaires, notamment le nombre total et le taux d’occupation des lits d’hôpitaux réservés au traitement de maladies COVID-19.[^3-5]
+<sup>4ter</sup> …[^3-4]
 
 <sup>5 et <sup>6</sup></sup> …
 
-<sup>6bis</sup> …[^3-6]
+<sup>6bis</sup> …[^3-5]
 
-<sup>7</sup>
-
-La Confédération prend les mesures suivantes, en étroite collaboration avec les cantons:
-
-- a. à c. …
-- d.[^3-7] …
-- e. …
+<sup>7</sup> …
 
 [^3-1]: En vigueur jusqu’au 31 déc. 2022, sous réserve de l’al. 7, let. d, en vigueur jusqu’au 31 déc. 2021, et des al. 1 et 2, let. a à g, prolongés jusqu’au 30 juin 2024 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)ch. II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^3-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur depuis le 20 mars 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^3-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
-[^3-4]: Introduit par le ch. I de la LF du 17 déc. 2021 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
-[^3-5]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
-[^3-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-7]: En vigueur jusqu’au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
+[^3-3]: Introduit par le ch. I de la LF du 17 déc. 2021 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
+[^3-4]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 549](https://fedlex.data.admin.ch/eli/fga/2022/549)).
+[^3-5]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3a
 
@@ -122,9 +101,9 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 
 #### Art. 4
 
-**Mesures dans le domaine de la protection des travailleurs**[^4-1]
+[^4-1]
 
-<sup>1</sup> Le Conseil fédéral peut ordonner des mesures visant à protéger les travailleurs vulnérables. Il peut en particulier imposer des obligations à cet effet aux employeurs, notamment l’obligation de permettre aux travailleurs vulnérables de remplir leurs obligations professionnelles depuis leur domicile ou d’effectuer des tâches de substitution équivalentes.[^4-2]
+<sup>1</sup> …[^4-2]
 
 <sup>2 à <sup>4</sup></sup> …
 
@@ -137,54 +116,17 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 
 [^4a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2021, prolongé jusqu’au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
-#### Art. 5
+#### Art. 5 et 6
 
-**Mesures dans le domaine des étrangers et de l’asile**[^5-1]
+[^56-1]
 
-Le Conseil fédéral peut édicter des dispositions dérogeant à la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^5-2] et à la loi du 26 juin 1998 sur l’asile (LAsi)[^5-3]:
-
-- a. sur la restriction de l’entrée en Suisse des étrangers et sur leur admission en vue d’un séjour, à l’exception du regroupement familial au sens des art. 42 à 45 LEI ainsi que de l’entrée en Suisse de concubins et de leurs enfants;
-- b.
-
-  sur la prolongation des délais légaux pour:
-
-  - 1\. le regroupement familial (art. 47 LEI),
-  - 2\. l’extinction des autorisations de courte durée, de séjour ou d’établissement (art. 61 LEI),
-  - 3\. la nouvelle saisie des données biométriques pour titres de séjour (art. 59*b* et 102*a* LEI),
-  - 4\. le départ (art. 45, al. 2, LAsi et art. 64*d* LEI),
-  - 5\. l’extinction (art. 64 LAsi),
-  - 6\. la fin de l’admission provisoire (art. 84, al. 4, LEI);
-
-- c. sur l’hébergement des requérants d’asile dans les centres de la Confédération et sur l’exécution des procédures d’asile et de renvoi; ce faisant, il tient compte de manière appropriée de la protection de la santé.
-
-[^5-1]: En vigueur jusqu’au 31 déc. 2022, prolongé jusqu’au 30 juin 2024 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)ch. II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
-[^5-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-
-#### Art. 6
-
-**Mesures en cas de fermeture des frontières**[^6-1]
-
-En cas de fermeture des frontières, le Conseil fédéral prend les mesures nécessaires pour assurer au mieux le droit à la circulation des travailleurs frontaliers et des habitants qui ont des liens particuliers dans la zone frontalière.
-
-[^6-1]: En vigueur jusqu’au 31 déc. 2022 prolongé jusqu’au 30 juin 2024 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)ch. II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+[^56-1]: En vigueur jusqu’au 31 déc. 2022 prolongé jusqu’au 30 juin 2024 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)ch. II; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 6a
 
-**Certificat sanitaire**[^6a-1]
-
-<sup>1</sup> Le Conseil fédéral définit les exigences applicables au document prouvant que son titulaire a été vacciné contre le COVID-19, qu’il en est guéri ou qu’il dispose d’un résultat de test du dépistage du COVID-19.
-
-<sup>2</sup> Ce document doit être délivré sur demande.
-
-<sup>3</sup> Il doit être personnel, infalsifiable et, dans le respect de la protection des données, vérifiable; il doit être conçu de manière que seule une vérification décentralisée ou locale de son authenticité et de sa validité soit possible et qu’il puisse, dans la mesure du possible, être utilisé par son détenteur pour entrer dans d’autres pays et en sortir.[^6a-2]
-
-<sup>4</sup> Le Conseil fédéral peut régler la prise en charge des coûts du document.
-
-<sup>5</sup> La Confédération peut mettre un système pour la délivrance du document à la disposition des cantons et de tiers.
+[^6a-1]
 
 [^6a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022, prolongé jusqu’au 30 juin 2024 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817)ch. II; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285); [2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
-[^6a-2]: Erratum de la CdR de l’Ass. féd. du 15 oct. 2021, publié le 19 oct. 2021, ne concerne que le texte allemand ([RO 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 
@@ -196,7 +138,7 @@ En cas de fermeture des frontières, le Conseil fédéral prend les mesures néc
 
 [^8-1]
 
-[^8-1]: À effet jusqu’à la date de l’entrée en vigueur des dispositions relatives au déroulement de l’assemblée générale prévues par la modification du 19 juin 2020 du code des obligations (droit de la société anonyme) mais au plus tard jusqu’au 31 déc. 2023 ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Les art. 699ss du CO sont entrés en vigueur le 1<sup>er</sup> janv. 2023 (v. [RO 2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109))
+[^8-1]: A effet jusqu’à la date de l’entrée en vigueur des dispositions relatives au déroulement de l’assemblée générale prévues par la modification du 19 juin 2020 du code des obligations (droit de la société anonyme) mais au plus tard jusqu’au 31 déc. 2023 ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Les art. 699ss du CO sont entrés en vigueur le 1<sup>er</sup> janv. 2023 (v. [RO 2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109))
 
 #### Art. 8a
 
