@@ -4,13 +4,12 @@ number: "740.100"
 title: Gesetz über die Geoinformation im Kanton Aargau
 short: "Kantonales Geoinformationsgesetz, KGeoIG"
 language: de
-version: 2021-09-01
-valid_until: 2024-06-30
-version_adopted: 2019-09-17
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2011-05-24
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3015/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3015/pdf_file"
 
 (Kantonales Geoinformationsgesetz, KGeoIG)
 
-Vom 24.05.2011 (Stand 01.09.2021)
+Vom 24.05.2011 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -177,24 +176,18 @@ beschliesst:
 
 #### § 14
 
-**Grundsatz und Tarif**
-
-<sup>1</sup> Für den Zugang zu den Geobasisdaten des Bundes und des Kantons und zu den übrigen Geodaten, für deren Nutzung sowie für die Nutzung der Geodienste werden Gebühren erhoben.
-
-<sup>2</sup> Die Gebühr entspricht höchstens den Grenzkosten zuzüglich einem angemessenen Anteil an die Kosten der Infrastruktur.
-
-<sup>3</sup> Der Grosse Rat erlässt den Gebührentarif.
+**…**
 
 #### § 15
 
-**Gebührenfreiheit**
+**Ausnahmen von der Gebührenpflicht**
 
-<sup>1</sup> Gebührenfrei ist die Nutzung von
+<sup>1</sup> Unentgeltlich ist die Nutzung von
 
 - a) Suchdiensten,
 - b) Darstellungs- und Download-Diensten für Produkte, die für Vollzugsaufgaben der kantonalen Verwaltung erstellt wurden.
 
-<sup>2</sup> Der Grosse Rat kann die Gebührenfreiheit vorsehen
+<sup>2</sup> Der Grosse Rat kann die Unentgeltlichkeit vorsehen
 
 - a) für den Datenaustausch unter Behörden des Kantons und den Gemeinden sowie mit Dritten in deren Auftrag,
 - b) für den Datenaustausch zwischen dem Kanton und den Gemeinden einerseits und den zuständigen Behörden anderer Kantone und des Bundes andererseits,
