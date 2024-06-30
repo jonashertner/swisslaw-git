@@ -3,20 +3,20 @@ canton: AG
 number: "401.100"
 title: Schulgesetz
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-12-15
+version: 2024-07-01
+valid_until: 2025-04-30
+version_adopted: 2023-09-19
 adopted: 1981-03-17
 in_force: 1982-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/401.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3042/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3671/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Schulgesetz
 
-Vom 17.03.1981 (Stand 01.01.2022)
+Vom 17.03.1981 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -124,6 +124,16 @@ beschliesst:
 **Versicherung**
 
 <sup>1</sup> Die Schulträger versichern die Schüler gegen die Folgen von Unfällen im Zusammenhang mit dem Schulbetrieb und übernehmen die Prämien. Sie sorgen für angemessene Unfallverhütung. Der Regierungsrat erlässt die Vorschriften.
+
+#### § 8a
+
+**Leistungen des Kantons und Verfahrenskosten**
+
+<sup>1</sup> Der Kanton erbringt seine unterstützenden Leistungen gegenüber den öffentlichen Schulen, ihren Trägerschaften und den Schulbehörden grundsätzlich unentgeltlich.
+
+<sup>2</sup> Die erstinstanzlichen Verfahren der Schulen und Schulbehörden sind unentgeltlich. Davon ausgenommen sind Bussenverfahren gemäss den §§ 36a Abs. 4 sowie 37 Abs. 2 und 4.
+
+<sup>3</sup> Die Aufsicht des Kantons über die Privatschulen und die private Schulung erfolgt unentgeltlich.
 
 ## 2. Schulen
 
@@ -1232,7 +1242,7 @@ beschliesst:
 
 <sup>3</sup> Er ist endgültig zuständig für Ausgabenbeschlüsse über die Errichtung, die Erweiterung und die Aufhebung der Mittelschulen in Aarau, Baden, Stein, Wettingen, Wohlen und Zofingen.
 
-<sup>4</sup> Er beschliesst über die Errichtung von Schulen, die vom Kanton gemeinsam mit anderen Trägern geführt werden. Er kann festlegen, dass von Studierenden dieser Schulen mit Wohnsitz im Kanton ein Kostenbeitrag erhoben wird, wenn der Kanton selbst für vergleichbare Ausbildungen persönliche Studiengelder vorsieht. Der Grosse Rat setzt den Rahmen fest.
+<sup>4</sup> Er beschliesst über die Errichtung von Schulen, die vom Kanton gemeinsam mit anderen Trägern geführt werden. Er kann festlegen, dass von Studierenden dieser Schulen mit Wohnsitz im Kanton ein Kostenbeitrag erhoben wird, wenn der Kanton selbst für vergleichbare Ausbildungen persönliche Studiengelder vorsieht.
 
 ## 8. Schluss- und Übergangsbestimmungen
 
