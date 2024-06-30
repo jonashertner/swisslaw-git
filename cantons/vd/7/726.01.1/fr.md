@@ -4,7 +4,7 @@ number: "726.01.1"
 title: "RÈGLEMENT du 29.06.2022 d'application de la loi du 14 juin 2022 sur les marchés publics (RLMP-VD)"
 short: RLMP-VD
 language: fr
-version: 2023-01-01
+version: 2024-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.01.1?id=8913b442-e9db-4795-a916-4080b190c150"
 ---
 
@@ -199,7 +199,7 @@ arrête
 
 <sup>1</sup> Le département en charge des infrastructures[^16-1] (ci-après : le département) peut édicter des directives concernant la gestion des listes.
 
-<sup>2</sup> L'association professionnelle en charge de la gestion d'une liste (ci-après : le gestionnaire de la liste) doit publier les indications suivantes sur la plateforme simap.ch et dans la Feuille des avis officiels du Canton de Vaud (ci-après : la FAO) :
+<sup>2</sup> L'association professionnelle en charge de la gestion d'une liste (ci-après : le gestionnaire de la liste) doit publier les indications suivantes sur la plateforme simap.ch :
 
 - a. source de la liste ;
 - b. informations sur les critères à remplir ;
@@ -208,13 +208,13 @@ arrête
 
 <sup>3</sup> Le gestionnaire de la liste prévoit une procédure de contrôle permettant de s'assurer que les soumissionnaires inscrits sur la liste remplissent les critères d'inscription. Cette procédure définit notamment la périodicité des contrôles, laquelle ne peut être inférieure à 6 mois.
 
-<sup>4</sup> En cas de suppression d'une liste, les soumissionnaires inscrits en sont informés par une publication sur la plateforme simap.ch et dans la FAO.
+<sup>4</sup> En cas de suppression d'une liste, les soumissionnaires inscrits en sont informés par une publication sur la plateforme simap.ch.
 
 <sup>5</sup> Le gestionnaire de la liste peut percevoir un émolument auprès des soumissionnaires pour l'inscription sur la liste ainsi qu'une taxe annuelle pour la gestion, le contrôle périodique des critères d'inscription et la publication de la liste.
 
 <sup>6</sup> L'émolument d'inscription s'élève à un montant maximal de 300 francs, la taxe annuelle à un montant maximal de 200 francs.
 
-<sup>7</sup> Le département surveille la gestion des listes. Il approuve, par voie de décision, l'émolument et la taxe annuelle fixés par le gestionnaire de la liste. ​​​​
+<sup>7</sup> Le département surveille la gestion des listes.
 
 [^15-1]: Modif. 1 du 05.06.2024: Modification Al. 2,4,7; entrée en vigueur au 01.07.2024
 [^16-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
@@ -239,7 +239,7 @@ arrête
 - j. ne pas faire l'objet d'une procédure de saisie ou de faillite ;
 - k. apporter la preuve de la qualification professionnelle de ses cadres dans le domaine concerné.
 
-<sup>3</sup> Le gestionnaire de la liste règle la procédure d'inscription et fixe les éventuels critères d'inscription supplémentaires. Il les soumet au département pour approbation préalable.
+<sup>3</sup> Le gestionnaire de la liste règle la procédure d'inscription et fixe les éventuels critères d'inscription supplémentaires.
 
 <sup>4</sup> Le non-respect des critères d'inscription conduit au refus d'inscription du soumissionnaire ou, lorsque ce dernier est inscrit, à sa radiation de la liste.
 
@@ -282,11 +282,11 @@ arrête
 
 #### Art. 22
 
-**Organes de publication (art. 48, al. 7 AIMP et art. 15, al. 1, let. f LMP-VD) [^21-1]**
+**Organe de publication (art. 48, al. 7 AIMP) [^21-1]**
 
-<sup>1</sup> L'organe officiel de publication est la plateforme simap.ch, qui seule fait foi.
+<sup>1</sup> L'organe officiel de publication est la plateforme simap.ch.
 
-<sup>2</sup> La FAO est un organe de publication supplémentaire au sens de l'article 48, alinéa 7 AIMP.
+<sup>2</sup> ...
 
 [^21-1]: Modif. 1 du 05.06.2024: Modification tArt; entrée en vigueur au 01.07.2024; Modification Al. 1; entrée en vigueur au 01.07.2024; Abrogation Al. 2; entrée en vigueur au 01.07.2024
 
@@ -294,28 +294,24 @@ arrête
 
 **Publications (art. 48, al. 1 AIMP et 15, al. 1, let. e LMP-VD) [^22-1]**
 
-<sup>1</sup> Dans les procédures ouvertes ou sélectives, l'adjudicateur publie l'avis préalable, l'appel d'offres, l'interruption de la procédure et l'adjudication sur la plateforme simap.ch et dans la FAO.
+<sup>1</sup> Dans les procédures ouvertes ou sélectives, l'adjudicateur publie l'avis préalable, l'appel d'offres, l'interruption de la procédure et l'adjudication sur la plateforme simap.ch.
 
-<sup>2</sup> Seul un résumé de la publication de l'appel d'offres, qui contient les indications énoncées à l'article 35, lettres a, b, c, k, s et t AIMP[^23-1], paraît dans la FAO.
+<sup>2</sup> ...
 
-<sup>3</sup> Dans les procédures ouvertes ou sélectives, l'article 48, alinéa 6 AIMP[^23-2] s'applique par analogie aux adjudications des marchés non soumis aux accords internationaux.
+<sup>3</sup> Dans les procédures ouvertes ou sélectives, l'article 48, alinéa 6 AIMP[^23-1] s'applique par analogie aux adjudications des marchés non soumis aux accords internationaux.
 
-<sup>4</sup> Dans la procédure de gré à gré au sens de l'article 21, alinéa 2 AIMP[^23-3], l'adjudicateur publie les adjudications sur la plateforme simap.ch et dans la FAO, y compris pour les marchés non soumis aux accords internationaux. L'avis d'adjudication contient les indications énoncées à l'article 48, alinéa 6 AIMP[^23-4].
+<sup>4</sup> Dans la procédure de gré à gré au sens de l'article 21, alinéa 2 AIMP, l'adjudicateur publie les adjudications sur la plateforme simap.ch, y compris pour les marchés non soumis aux accords internationaux. L'avis d'adjudication contient les indications énoncées à l'article 48, alinéa 6 AIMP.
 
 [^22-1]: Modif. 1 du 05.06.2024: Modification Al. 1; entrée en vigueur au 01.07.2024; Abrogation Al. 2; entrée en vigueur au 01.07.2024; Modification Al. 4; entrée en vigueur au 01.07.2024
 [^23-1]: Accord du 15.11.2019 intercantonal sur les marchés publics ([BLV 726.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15))
-[^23-2]: Accord du 15.11.2019 intercantonal sur les marchés publics ([BLV 726.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15))
-[^23-3]: Accord du 15.11.2019 intercantonal sur les marchés publics ([BLV 726.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15))
-[^23-4]: Accord du 15.11.2019 intercantonal sur les marchés publics ([BLV 726.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15))
 
 #### Art. 24
 
-**Notification des décisions (art. 51 AIMP et art. 15, al. 1, let. h LMP-VD) [^23-5]**
+**Notification des décisions (art. 51 AIMP et art. 15, al. 1, let. h LMP-VD) [^23-2]**
 
-<sup>1</sup> L'adjudicateur notifie ses décisions aux soumissionnaires par notification individuelle, à l'exception des appels d'offres et des adjudications de gré à gré au sens de l'article 21, alinéa 2 AIMP[^24-1], qu'il notifie par publication.
+<sup>1</sup> L'adjudicateur notifie ses décisions aux soumissionnaires par notification individuelle, à l'exception des appels d'offres et des adjudications de gré à gré au sens de l'article 21, alinéa 2 AIMP, qu'il notifie par publication sur la plateforme simap.ch.
 
-[^23-5]: Modif. 1 du 05.06.2024: Modification Al. 1; entrée en vigueur au 01.07.2024
-[^24-1]: Accord du 15.11.2019 intercantonal sur les marchés publics ([BLV 726.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15))
+[^23-2]: Modif. 1 du 05.06.2024: Modification Al. 1; entrée en vigueur au 01.07.2024
 
 #### Art. 25
 
@@ -347,8 +343,8 @@ Annexes
 
 1
 
-[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/8913b442-e9db-4795-a916-4080b190c150/annexes/1?dmev=01.01.2023)
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/8913b442-e9db-4795-a916-4080b190c150/annexes/1?dmev=01.07.2024)
 
 2
 
-[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/8913b442-e9db-4795-a916-4080b190c150/annexes/2?dmev=01.01.2023)
+[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/8913b442-e9db-4795-a916-4080b190c150/annexes/2?dmev=01.07.2024)
