@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-fr-xml-18.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> juin 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -895,7 +895,7 @@ Il est interdit d’employer des substances appauvrissant la couche d’ozone.
 - a. comme produits intermédiaires en vue de leur transformation chimique complète;
 - b. à des fins de recherche ou d’analyse autorisées en vertu de la décision XXVI/5 des Parties au protocole de Montréal[^annex14-lvlu1-lvl6-lvl62-1].
 
-[^annex14-lvlu1-lvl6-lvl62-1]: Le texte de cette décision peut être téléchargé à l’adresse suivante: www.ozone.unep.org &gt; Les Traités &gt; Le Protocole de Montréal &gt; Décisions adoptées par les réunions des Parties au Protocole de Montréal &gt; Vingt-sixième réunion des Parties &gt; Décision XXVI/5.
+[^annex14-lvlu1-lvl6-lvl62-1]: Le texte de cette décision peut être téléchargé à l’adresse suivante: [www.ozone.unep.org](http://www.ozone.unep.org) &gt; Les Traités &gt; Le Protocole de Montréal &gt; Décisions adoptées par les réunions des Parties au Protocole de Montréal &gt; Vingt-sixième réunion des Parties &gt; Décision XXVI/5.
 
 ### 6.3 Dérogations
 
@@ -968,7 +968,7 @@ Annexe 1.5[^t-6]
 <sup>3</sup> Les substances qui résultent de la valorisation de substances stables dans l’air usagées sont considérées comme des substances stables dans l’air régénérées si les substances usagées n’ont pas été modifiées chimiquement par la valorisation.
 
 [^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex15-lvlu1-lvl1-2]: La liste des autres composés organiques contenant du fluor les plus usuels peut être consultée sous www.bafu.admin.ch &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Substances stables dans l’air.
+[^annex15-lvlu1-lvl1-2]: La liste des autres composés organiques contenant du fluor les plus usuels peut être consultée sous [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Substances stables dans l’air.
 
 ### 2 Substances stables dans l’air qui appauvrissent la couche d’ozone
 
@@ -1139,7 +1139,7 @@ Il est interdit d’employer des substances stables dans l’air.
 - b. la quantité et le potentiel d’effet de serre des substances stables dans l’air auxquelles il est fait recours ne dépassent pas ce qui est nécessaire selon l’état de la technique pour atteindre le but visé, et que
 - c. les émissions de substances stables dans l’air sont réduites autant que possible durant tout le cycle de vie de l’emploi prévu.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex15-lvlu1-lvl6-lvl62-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 6.3 Dérogations
 
@@ -1209,7 +1209,7 @@ L’obligation de communiquer au sens du ch. 7.1.1, al. 1, ne s’applique pas:
 - a. les appareils ou les installations contenant plus de 1 kg d’hexafluorure de soufre dans des systèmes sous pression scellés selon la norme SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1], si une partie à un accord sectoriel prend la communication à sa charge;
 - b. les appareils ou les installations qui servent à la défense nationale.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch) .
 
 ### 7.3 Communication des données par l’OFEV
 
@@ -1312,7 +1312,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1476,7 +1476,7 @@ Aucune autorisation d’importation n’est requise pour celui qui:
 - b. importe un composé ou un alliage du mercure, dans la mesure où la substance ou la préparation est destinée à des fins d’analyse et de recherche;
 - c. importe une substance mentionnée à la let. a ou b ou une préparation également mentionnée à la let. a ou b pour les utiliser en tant que substance, dans une préparation ou un objet, dans la mesure où la substance, la préparation ou l’objet sont destinés à des fins d’analyse et de recherche.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La liste des Parties est disponible sur le site de l’OFEV, sous www.ofev.admin.ch &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
+[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La liste des Parties est disponible sur le site de l’OFEV, sous [www.ofev.admin.ch](http://www.ofev.admin.ch) &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
 [^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
 
 ### 1.4.3 Conditions d’octroi de l’autorisation
@@ -1554,7 +1554,7 @@ Quiconque souhaite exporter du mercure (n<sup>o</sup> CAS 7439-97-6) ou des pré
 
 <sup>2</sup> Si l’exportation se fait à destination d’un État non partie[^annex17-lvlu1-lvl2-lvl22-lvl222-1] à la Convention de Minamata, l’autorisation d’exportation n’est en outre accordée que si l’OFEV a obtenu une attestation selon laquelle le pays importateur a défini des mesures visant à protéger la santé humaine et l’environnement lors de la manipulation de mercure.
 
-[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: La liste des Parties est disponible sur le site de l’OFEV, sous www.ofev.admin.ch &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
+[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: La liste des Parties est disponible sur le site de l’OFEV, sous [www.ofev.admin.ch](http://www.ofev.admin.ch) &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
 
 ### 2.2.3 Demande
 
@@ -1667,7 +1667,7 @@ La demande doit contenir au moins les éléments suivants:
 
 <sup>5</sup> Le DETEC peut prolonger le délai fixé à l’al. 1 pour la fabrication de capsules d’amalgame dentaire. À cet effet, il tient compte de la demande en mercure des Parties à la Convention de Minamata pour l’utilisation dans les amalgames dentaires, des mesures prises par lesdites Parties aux fins de la réduction des rejets de mercure lors de l’utilisation d’amalgame dentaire, ainsi que de l’état de la mise en œuvre de l’abandon définitif de l’utilisation d’amalgame dentaire dans l’Union européenne.
 
-[^annex17-lvlu1-lvl4-lvl42-1]: La liste des Parties est disponible sur le site de l’OFEV, sous www.ofev.admin.ch &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
+[^annex17-lvlu1-lvl4-lvl42-1]: La liste des Parties est disponible sur le site de l’OFEV, sous [www.ofev.admin.ch](http://www.ofev.admin.ch) &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
 
 ### 4.3 Emploi
 
@@ -1758,7 +1758,7 @@ Il est interdit au fabricant de mettre sur le marché des textiles qui contienne
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, version du JO L 212 du 22.8.2018, p. 1.
 [^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex19-lvlu1-lvl2-lvl21-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
+[^annex19-lvlu1-lvl2-lvl21-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex19-lvlu1-lvl2-lvl21-4]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le règlement (UE) 2017/1347, JO L 192 du 24.7.2017, p. 1.
 
 ### 2.2 Interdictions
@@ -1788,7 +1788,7 @@ Il est interdit au fabricant de mettre sur le marché des textiles qui contienne
 - e. la méthode utilisée pour mesurer les émissions de gaz d’ammoniac est appropriée;
 - f. le taux de charge des échantillons, exprimé en épaisseur et en densité, est consigné pour les mélanges isolants en cellulose et les objets contenant de tels mélanges qui doivent être testés.
 
-[^annex19-lvlu1-lvl3-lvl31-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex19-lvlu1-lvl3-lvl31-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 3.2 Exception
 
@@ -1935,7 +1935,7 @@ Sont considérées comme substances et préparations liquides dangereuses, les p
 
 <sup>2</sup> Les lampes à huile décoratives destinées au grand public ne peuvent être mises sur le marché que si elles sont conformes à la norme SN EN 14059:2002[^annex111-lvlu1-lvl4-1].
 
-[^annex111-lvlu1-lvl4-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex111-lvlu1-lvl4-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 Annexe 1.12[^t-13]
 
@@ -2155,7 +2155,7 @@ Il est interdit:
 - b. si la quantité de préparations contenant du goudron à laquelle il est fait recours ne dépasse pas ce qui est nécessaire pour atteindre le but visé, et
 - c. si le risque pour la santé et l’environnement est suffisamment limité.
 
-[^annex115-lvlu1-lvl3-1]: R (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 déc. 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la Directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la Directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JOCE L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 453/2010 de la Commission du 20 mai 2010, JOCE L 133 du 31 mai 2010, p.1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse www.cheminfo.ch.
+[^annex115-lvlu1-lvl3-1]: R (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 déc. 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la Directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la Directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JOCE L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 453/2010 de la Commission du 20 mai 2010, JOCE L 133 du 31 mai 2010, p.1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 
 Annexe 1.16[^t-17]
 
@@ -2594,7 +2594,7 @@ Annexe 1.18[^t-19]
 
 [^annex118-lvlu1-lvl1-1]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, version du JO L 212 du 22.8.2018, p. 1.
 [^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex118-lvlu1-lvl1-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
+[^annex118-lvlu1-lvl1-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex118-lvlu1-lvl1-4]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le règlement (UE) 2017/1347, JO L 192 du 24.7.2017, p. 1.
 
 ### 2 Interdictions
@@ -2688,7 +2688,7 @@ Annexe 2.1[^t-20]
 
 <sup>3</sup> Les méthodes d’essai et d’analyse sont conformes aux annexes II, III et VIII du Règlement (CE) n<sup>o</sup> 648/2004.
 
-[^annex21-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le R (CE) n<sup>o</sup> 907/2006 de la Commission, du 20 juin 2006 (JOCE L 168 du 21.6.2006, p. 5). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse www.cheminfo.ch.
+[^annex21-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le R (CE) n<sup>o</sup> 907/2006 de la Commission, du 20 juin 2006 (JOCE L 168 du 21.6.2006, p. 5). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 [^annex21-lvlu1-lvl2-2]: Union internationale de chimie pure et appliquée.
 
 ### 3 Étiquetage spécial
@@ -2861,7 +2861,7 @@ Annexe 2.2[^t-21]
 
 <sup>6</sup> Il est interdit de mettre sur le marché des produits cosmétiques rinçables dont la teneur en octaméthylcyclotétrasiloxane (D4, n<sup>o</sup> CAS 556-67-2) ou en décaméthylcyclopentasiloxane (D5, n<sup>o</sup> CAS 541-02-6) est égale ou supérieure à 0,1 % masse.
 
-[^annex22-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le Règlement (CE) n<sup>o</sup> 551/2009 de la Commission, du 25 juin 2009 (JOCE L 164 du 26.6.2009, p. 3). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse www.cheminfo.ch.
+[^annex22-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le Règlement (CE) n<sup>o</sup> 551/2009 de la Commission, du 25 juin 2009 (JOCE L 164 du 26.6.2009, p. 3). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 [^annex22-lvlu1-lvl2-2]: Union internationale de chimie pure et appliquée.
 
 ### 3 Étiquetage spécial
@@ -3529,7 +3529,7 @@ Quiconque souhaite exporter ou sortir d’un entrepôt douanier ouvert, d’un e
 
 <sup>3</sup> Si l’exportation se fait à destination d’un État partie à la Convention de Rotterdam, l’autorisation d’exportation n’est en outre accordée que si l’OFEV a obtenu le consentement du pays destinataire.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: La liste des Parties peut être obtenue contre paiement ou consultée gratuitement auprès de l’OFEV, 3003 Berne; elle peut également être téléchargée à l’adresse www.pic.int &gt; Les pays &gt; État des ratifications.
+[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: La liste des Parties peut être obtenue contre paiement ou consultée gratuitement auprès de l’OFEV, 3003 Berne; elle peut également être téléchargée à l’adresse [www.pic.int](http://www.pic.int) &gt; Les pays &gt; État des ratifications.
 [^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
 
 ### 4.2.3 Demande
@@ -4172,7 +4172,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4379,7 +4379,7 @@ Annexe 2.10[^t-29]
 
 <sup>9</sup> En accord avec le SECO, l’OFEV peut adapter l’al. 8, let. a, lorsque les normes qui y sont désignées sont modifiées.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 2.3 Obligation de l’exploitant et obligation d’informer en ce qui concerne l’obtention d’une dérogation
 
@@ -4854,7 +4854,7 @@ Annexe 2.15[^t-34]
 
 ## Piles
 
-[^t-34]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. II 2 de l’O du 20 oct. 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. II 2 de l’O du 20 oct. 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) et le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Définitions
 
@@ -4873,9 +4873,9 @@ Annexe 2.15[^t-34]
 
 <sup>5</sup> Sont considérées comme des piles industrielles les piles conçues à des fins exclusivement industrielles ou professionnelles ou utilisées pour la propulsion de tout type de véhicule électrique, ainsi que d’autres piles qui ne sont considérées ni comme des piles portables, ni comme des piles automobiles.
 
-<sup>6</sup> Sont considérés comme des appareils les équipements électriques et électroniques au sens de l’art. 3, let. a, de la Directive 2002/96/CE[^annex215-lvlu1-lvl1-1] que l’on fait ou que l’on peut faire fonctionner entièrement ou en partie à l’aide de piles.
+<sup>6</sup> Sont considérés comme des appareils les équipements électriques et électroniques au sens de l’art. 3, par. 1, let. a, de la directive 2012/19/UE[^annex215-lvlu1-lvl1-1] que l’on fait ou que l’on peut faire fonctionner entièrement ou en partie à l’aide de piles.
 
-[^annex215-lvlu1-lvl1-1]: Directive 2002/96/CE du Parlement européen et du Conseil du 27 janv. 2003 relative aux déchets d’équipements électriques et électroniques, JOCE L 37 du 13.2.2003, p. 24. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse www.cheminfo.ch.
+[^annex215-lvlu1-lvl1-1]: Directive 2012/19/UE du Parlement européen et du Conseil du 4 juillet 2012 relative aux déchets d’équipements électriques et électroniques, JO L 197 du 24.7.2012, p. 38. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 
 ### 2 Interdictions
 
@@ -4932,9 +4932,11 @@ Les consommateurs sont tenus de remettre les piles à éliminer à un commerçan
 
 <sup>1</sup> Les commerçants qui remettent des piles portables sont tenus de reprendre gratuitement dans tous les points de vente les piles portables rapportées par le consommateur.
 
-<sup>2</sup> Les commerçants qui remettent des piles automobiles ou des piles industrielles sont tenus de reprendre gratuitement dans tous les points de vente les piles rapportées par le consommateur et qui sont du type de celles qu’ils remettent dans le point de vente en question.
+<sup>2</sup> Les commerçants qui remettent des piles automobiles sont tenus de reprendre gratuitement dans tous les points de vente les piles rapportées par le consommateur et qui sont du type de celles qu’ils remettent dans le point de vente en question.
 
-<sup>3</sup> Les fabricants sont soumis envers les consommateurs, les commerçants et les exploitants de collectes ou de points de collecte aux obligations au sens des al. 1 et 2.
+<sup>2bis</sup> Les commerçants qui remettent des piles industrielles sont tenus de reprendre gratuitement dans tous les points de vente les piles rapportées par le consommateur et qui sont du type de celles qu’ils remettent dans le point de vente en question. Si les piles industrielles sont fortement endommagées et entraînent des coûts d’élimination supplémentaires, les commerçants peuvent facturer ces coûts au consommateur.
+
+<sup>3</sup> Les fabricants de piles portables, automobiles ou industrielles sont tenus de reprendre gratuitement les piles rapportées par le consommateur, le commerçant et l’exploitant de collecte ou de point de collecte et qui sont du type de celles qu’ils remettent.
 
 ### 6 Taxe d’élimination anticipée et obligation de communiquer
 
@@ -4951,6 +4953,7 @@ Les consommateurs sont tenus de remettre les piles à éliminer à un commerçan
 
 - a. assurent l’élimination des piles dans le respect de l’environnement et couvrent l’intégralité des coûts qui en résultent, dans le cadre d’une solution sectorielle ou en raison de la situation particulière d’un marché, et qu’ils
 - b. fournissent une contribution appropriée aux coûts couverts par l’organisation pour l’exemption de l’assujettissement à la taxe et la notification au sens du ch. 6.3, al. 2.
+- c. soumettent leur demande complète à l’organisation au plus tard le 31 juillet pour une exemption l’année suivante.
 
 ### 6.2 Montant de la taxe
 
@@ -4960,9 +4963,9 @@ Les consommateurs sont tenus de remettre les piles à éliminer à un commerçan
 
 ### 6.3 Obligation de communiquer
 
-<sup>1</sup> Les assujettis sont tenus de communiquer à l’organisation, selon ses prescriptions, la quantité de piles soumises à la taxe et qu’ils ont mises sur le marché, en indiquant en particulier les types de piles et leur teneur en polluants. La communication se fait une fois par mois, dans la mesure où les assujettis n’ont pas convenu d’une autre périodicité avec l’organisation.
+<sup>1</sup> Les assujettis sont tenus de communiquer à l’organisation, selon ses prescriptions, la quantité de piles soumises à la taxe qu’ils ont mises sur le marché. La communication se fait une fois par mois, dans la mesure où les assujettis n’ont pas convenu d’une autre périodicité avec l’organisation.
 
-<sup>2</sup> Les fabricants exemptés de la taxe en vertu du ch. 6.1, al. 3, doivent communiquer à l’organisation, au plus tard le 31 mars de chaque année, la quantité de piles mises sur le marché l’année précédente, en indiquant les types de piles et leur teneur en polluants. L’organisation met des formulaires à disposition pour cette notification, sous forme écrite ou électronique. Elle transmet à l’OFEV les notifications reçues, selon les prescriptions de ce dernier.
+<sup>2</sup> Les fabricants exemptés de la taxe en vertu du ch. 6.1, al. 3, doivent communiquer à l’organisation, selon ses prescriptions, au plus tard le 15 janvier et le 15 juillet de chaque année, la quantité de piles mises sur le marché au cours du semestre précédent. L’organisation met des formulaires à disposition pour cette notification, sous forme écrite ou électronique. Elle transmet à l’OFEV les notifications reçues, selon les prescriptions de ce dernier.
 
 <sup>3</sup> Les entreprises d’élimination habilitées à réceptionner des piles en vertu d’une autorisation au sens de l’art. 10 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets doivent communiquer à l’organisation, selon ses prescriptions, au plus tard le 30 avril de chaque année, les quantités de piles reprises en Suisse qu’elles ont valorisées ou exportées l’année précédente en vue d’une élimination.
 
@@ -4988,6 +4991,12 @@ L’organisation n’est autorisée à affecter le produit de la taxe qu’au fi
 <sup>2</sup> L’organisation ne consent des paiements à des tiers que dans la mesure où ils exécutent les activités concernées de manière adéquate et économiquement satisfaisante. Elle peut prendre les mesures nécessaires pour vérifier que ces conditions sont remplies.
 
 <sup>3</sup> L’organisation ne consent des paiements pour les activités détaillées au ch. 6.5, let. a et b, que dans la limite des moyens disponibles.
+
+### 6.6<sup>bis</sup> Remboursement de la taxe
+
+<sup>1</sup> Quiconque exporte des piles sur lesquelles une taxe a été acquittée a droit au remboursement de la taxe s’il présente à l’organisation une demande motivée; les coûts déjà occasionnés sont déduits du remboursement.
+
+<sup>2</sup> Les demandes de remboursement doivent être présentées à l’organisation au plus tard le 31 mars de l’année suivante.
 
 ### 6.7 Organisation
 
@@ -5021,7 +5030,11 @@ L’organisation n’est autorisée à affecter le produit de la taxe qu’au fi
 
 ### 6.9 Procédure
 
-<sup>1</sup> L’organisation statue par voie de décision sur les dérogations à l’assujettissement à la taxe et sur les demandes de paiement à des tiers.
+<sup>1</sup> L’organisation statue par voie de décision sur:
+
+- a. les dérogations à l’assujettissement à la taxe;
+- b. les demandes de paiement à des tiers;
+- c. les demandes de remboursement de la taxe.
 
 <sup>2</sup> En cas de litige concernant la facture au sens du ch. 6.4, al. 1, 1<sup>re</sup> phrase, elle rend une décision de taxation.
 
@@ -5232,7 +5245,7 @@ Il est interdit au fabricant de mettre sur le marché des emballages ou des comp
 
 <sup>2</sup> D’entente avec l’OFSP, l’OFEV peut, sur demande motivée, octroyer des dérogations pour d’autres emballages. Il tient compte des décisions prises par la Commission européenne en vertu de l’art. 11, par. 3, de la Directive 94/62/CE du Parlement européen et du Conseil, du 20 décembre 1994, relative aux emballages et aux déchets d’emballages[^annex216-lvlu1-lvl4-lvl43-1], ainsi que de l’état de la technique.
 
-[^annex216-lvlu1-lvl4-lvl43-1]: JOCE L 365 du 31.12.1994, p. 10. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse www.cheminfo.ch.
+[^annex216-lvlu1-lvl4-lvl43-1]: JOCE L 365 du 31.12.1994, p. 10. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être téléchargés à l’adresse [www.cheminfo.ch](http://www.cheminfo.ch).
 
 ### 5 Métaux lourds dans des véhicules
 

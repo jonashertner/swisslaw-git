@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 June 2024)
+of 18 May 2005 (Status as of 1 July 2024)
 
 The Swiss Federal Council,
 
@@ -1318,7 +1318,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -3888,9 +3888,9 @@ The quality requirements stipulated in Number 2.2.1.10 also apply to compost and
 
 ### 3.2.2 Compost and digestate
 
-<sup>1</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of soil improvers with a C<sub>org</sub> content of over 7.5 %, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
+<sup>1</sup> It is permitted to use, over a three-year period, up to 25 tonnes of compost or solid digestate (based on dry matter) or 200 m<sup>3</sup> liquid digestate per hectare as fertiliser provided the plants’ nitrogen and phosphorus requirements are not exceeded.
 
-<sup>2</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of organic and organic-mineral soil improvers, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
+<sup>2</sup> It is permitted to use, over a ten-year period, up to 100 tonnes of soil improvers with a C<sub>org</sub> content of over 7.5 %, compost or solid digestate per hectare for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
 
 ### 3.2.3 Residues from small wastewater treatment plants and from non‑agricultural sealed cesspools
 
@@ -4178,7 +4178,7 @@ Annex 2.9[^t-28]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -4864,7 +4864,7 @@ Annex 2.15[^t-34]
 
 ## Batteries
 
-[^t-34]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No II 2 of the O of 20 Oct. 2021 on the Return, Taking Back and Disposal of Electrical and Electronic Equipment, in force since 1 Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No II 2 of the O of 20 Oct. 2021 on the Return, Taking Back and Disposal of Electrical and Electronic Equipment ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) and No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Definitions
 
@@ -4883,9 +4883,9 @@ Annex 2.15[^t-34]
 
 <sup>5</sup> *Industrial batteries* are batteries designed exclusively for industrial or professional uses or for powering any type of electrical vehicle, or other batteries not classified as portable or automotive batteries.
 
-<sup>6</sup> *Appliances* are electrical and electronic equipment, as defined in Article 3 letter a of Directive 2002/96/EC[^annex215-lvlu1-lvl1-1], which is fully or partly powered by batteries or is capable of being so.
+<sup>6</sup> *Appliances* are electrical and electronic equipment, as defined in Article 3 paragraph 1 letter a of Directive 2012/19/EU[^annex215-lvlu1-lvl1-1], which is fully or partly powered by batteries or is capable of being so.
 
-[^annex215-lvlu1-lvl1-1]: Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment, OJ L 37, 13.2.2003, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
+[^annex215-lvlu1-lvl1-1]: Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment, OJ L 197, 24.7.2012, p. 38. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
 
 ### 2 Prohibitions
 
@@ -4942,9 +4942,11 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 <sup>1</sup> Traders who supply portable batteries must take back portable batteries from consumers free of charge at every sales point.
 
-<sup>2</sup> Traders who supply automotive or industrial batteries must take back from consumers free of charge, at every sales point, those types of batteries which are stocked there.
+<sup>2</sup> Traders who supply automotive batteries must, at every sales point, take back from consumers free of charge those types of batteries which are stocked there.
 
-<sup>3</sup> For the manufacturer, the obligations specified in paragraphs 1 and 2 exist vis-à-vis consumers, traders and operators of collection schemes or collection points.
+<sup>2bis</sup> Traders who supply industrial batteries must, at every sales point, take back from consumers free of charge those types of batteries which are stocked there. If they incur additional costs in disposing of badly damaged industrial batteries, the traders may charge such costs to the consumers.
+
+<sup>3</sup> Manufacturers of portable, automotive or industrial batteries must take back from consumers, traders and collection scheme or collection point operators free of charge those types of batteries which they supply.
 
 ### 6 Prepaid disposal fee and reporting obligation
 
@@ -4959,8 +4961,9 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 <sup>3</sup> On request, the organisation shall exempt manufacturers of automotive and industrial batteries and of vehicles and appliances incorporating automotive or industrial batteries from liability for the fee if they:
 
-- a. on the basis of a sectoral solution or as a result of particular market condition, ensure environmentally sound disposal of the batteries and the covering of all disposal costs; and
-- b. make a suitable contribution to the costs incurred by the organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2.
+- a. on the basis of a sectoral solution or as a result of particular market condition, ensure environmentally sound disposal of the batteries and the covering of all disposal costs;
+- b. make a suitable contribution to the costs incurred by the organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2; and
+- c. submit a complete application for an exemption for the following year to the organisation by 31 July.
 
 ### 6.2 Level of the fee
 
@@ -4970,9 +4973,9 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 ### 6.3 Reporting obligation
 
-<sup>1</sup> Those liable for the fee must report to the organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market, indicating in particular the types of batteries and the pollutant content. Reporting shall be carried out monthly, unless a different interval has been agreed with the organisation.
+<sup>1</sup> Those liable for the fee must report to the organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market. Reporting shall be carried out monthly, unless a different interval has been agreed with the organisation.
 
-<sup>2</sup> Manufacturers who are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must provide the organisation each year by 31 March with information on the quantity of batteries placed on the market, indicating the types of batteries and the pollutant content. The organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
+<sup>2</sup> Manufacturers that are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must report the quantity of batteries placed on the market in the past six months to the organisation by 15 January and 15 July of each year in accordance with the organisation’s requirements. The organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
 
 <sup>3</sup> Disposal companies that, by virtue of a licence issued under Article 10 of the Ordinance of 22 June 2005 on Movements of Waste, are entitled to accept batteries must provide the organisation each year by 30 April, in accordance with its requirements, with information on the quantities of batteries taken back in Switzerland and recycled by them or exported for disposal during the previous year.
 
@@ -4998,6 +5001,12 @@ The organisation may use the fee solely to finance the following activities:
 <sup>2</sup> The organisation shall only make payments to third parties if they carry out the activities appropriately and cost-effectively. It may take the measures necessary to assess whether these conditions are met.
 
 <sup>3</sup> The organisation shall only make payments for activities specified in Number 6.5 letters a and b within the limits of available resources.
+
+### 6.6<sup>bis</sup> Reimbursement of the fee
+
+<sup>1</sup> Any person who exports batteries on which a fee has been paid may claim reimbursement of the fee by submitting a justified request; the costs already incurred shall be deducted from the amount refunded.
+
+<sup>2</sup> Requests for reimbursement of the fee must be submitted to the organisation by 31 March of the following year.
 
 ### 6.7 Organisation
 
@@ -5031,7 +5040,11 @@ The organisation may use the fee solely to finance the following activities:
 
 ### 6.9 Procedures
 
-<sup>1</sup> The organisation shall decide on exemptions from liability for the fee and on requests for payments to third parties by means of rulings.
+<sup>1</sup> The organisation shall decide on the following by means of rulings.
+
+- a. exemptions from liability for the fee;
+- b. requests for payments to third parties;
+- c. requests for the reimbursement of the fee.
 
 <sup>2</sup> In the event of a dispute concerning the invoice specified in Number 6.4 paragraph 1 sentence 1, it shall issue a fee ruling.
 

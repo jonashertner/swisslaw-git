@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-de-xml-19.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Juni 2024)
+vom 18. Mai 2005 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -900,7 +900,7 @@ Ozonschichtabbauende Stoffe dürfen nicht verwendet werden.
 - a. als Zwischenprodukte für die vollständige weitere chemische Umwandlung;
 - b. zu den gemäss dem Beschluss XXVI/5 der Vertragsparteien des Montrealer Protokolls[^annex14-lvlu1-lvl6-lvl62-1] erlaubten Forschungs- und Analysezwecken.
 
-[^annex14-lvlu1-lvl6-lvl62-1]: Der Text dieses Beschlusses kann unter der Internetadresse www.ozone.unep.org &gt; Treaties &gt; Montreal Protocol &gt; Decisions of the Meetings of the Parties to the Montreal Protocol &gt; Twenty-Sixth Meeting of the Parties &gt; Decision XXVI/5 abgerufen werden.
+[^annex14-lvlu1-lvl6-lvl62-1]: Der Text dieses Beschlusses kann unter der Internetadresse: [www.ozone.unep.org](http://www.ozone.unep.org) &gt; Treaties &gt; Montreal Protocol &gt; Decisions of the Meetings of the Parties to the Montreal Protocol &gt; Twenty-Sixth Meeting of the Parties &gt; Decision XXVI/5 abgerufen werden.
 
 ### 6.3 Ausnahmebewilligungen
 
@@ -973,7 +973,7 @@ Anhang 1.5[^t-6]
 <sup>3</sup> Als regenerierte in der Luft stabile Stoffe gelten Stoffe, die durch Verwertung gebrauchter in der Luft stabiler Stoffe ohne deren chemische Veränderung hergestellt worden sind.
 
 [^annex15-lvlu1-lvl1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex15-lvlu1-lvl1-2]: Die Liste der gebräuchlichsten anderen fluorhaltigen organischen Verbindungen kann unter www.bafu.admin.ch &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; in der Luft stabile Stoffe abgerufen werden.
+[^annex15-lvlu1-lvl1-2]: Die Liste der gebräuchlichsten anderen fluorhaltigen organischen Verbindungen kann unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; in der Luft stabile Stoffe abgerufen werden.
 
 ### 2 In der Luft stabile Stoffe, die ozonschichtabbauende Stoffe sind
 
@@ -1144,7 +1144,7 @@ In der Luft stabile Stoffe dürfen nicht verwendet werden.
 - b. die Menge und das Treibhauspotenzial der eingesetzten in der Luft stabilen Stoffe nicht grösser sind, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
 - c. die Emissionen von in der Luft stabilen Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: Diese Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl6-lvl62-1]: Diese Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 6.3 Ausnahmebewilligungen
 
@@ -1214,7 +1214,7 @@ Die Meldepflicht nach Ziffer 7.1.1 Absatz 1 gilt nicht für:
 - a. Geräte oder Anlagen mit mehr als 1 kg Schwefelhexafluorid in hermetisch abgeschlossenen Drucksystemen nach der Norm SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1], wenn ein Mitglied einer Branchenvereinbarung die Meldepflicht übernimmt;
 - b. Geräte oder Anlagen, die der Landesverteidigung dienen.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 7.3 Berichterstattung des BAFU
 
@@ -1317,7 +1317,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1481,7 +1481,7 @@ Keine Einfuhrbewilligung benötigt, wer:
 - b. eine Quecksilberverbindung oder Quecksilberlegierung einführt, wenn der Stoff oder die Zubereitung für Analyse- und Forschungszwecke bestimmt ist;
 - c. einen in Buchstabe a oder b genannten Stoff oder eine dort genannte Zubereitung zur Verwendung als Stoff, in einer Zubereitung oder in einem Gegenstand einführt, sofern der Stoff, die Zubereitung oder der Gegenstand für Analyse- und Forschungszwecke bestimmt ist.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter www.bafu.admin.ch &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
+[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
 [^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [SR 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
 
 ### 1.4.3 Bewilligungsvoraussetzungen
@@ -1559,7 +1559,7 @@ Wer Quecksilber (CAS-Nr. 7439-97-6) oder Zubereitungen mit einem Massengehalt an
 
 <sup>2</sup> Soll die Ausfuhr in einen Staat erfolgen, der nicht Vertragspartei[^annex17-lvlu1-lvl2-lvl22-lvl222-1] des Minamata-Übereinkommens ist, so wird eine Ausfuhrbewilligung zudem nur erteilt, wenn dem BAFU eine Bescheinigung des Einfuhrstaates vorliegt, dass er Massnahmen zum Schutz der menschlichen Gesundheit und der Umwelt im Umgang mit Quecksilber festgelegt hat.
 
-[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter www.bafu.admin.ch &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
+[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
 
 ### 2.2.3 Gesuch
 
@@ -1672,7 +1672,7 @@ Ein Gesuch muss mindestens enthalten:
 
 <sup>5</sup> Das UVEK kann die in Absatz 1 genannte Frist für die Herstellung von Dentalamalgamkapseln verlängern. Es berücksichtigt dabei die Nachfrage von Quecksilber zur Verwendung in Dentalamalgam in den Vertragsparteien des Minamata-Übereinkommens, die von den Vertragsparteien getroffenen Massnahmen zur Verringerung der Freisetzung von Quecksilber bei der Verwendung von Dentalamalgam sowie den Stand der Umsetzung des Ausstiegs aus der Verwendung von Dentalamalgam in der Europäischen Union.
 
-[^annex17-lvlu1-lvl4-lvl42-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter www.bafu.admin.ch &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
+[^annex17-lvlu1-lvl4-lvl42-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
 
 ### 4.3 Verwendung
 
@@ -1763,7 +1763,7 @@ Textilien, die Stoffe nach Ziffer 1.1 enthalten und die nach ihrer Bestimmung di
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, Fassung gemäss ABl. L 212 vom 22.8.2018, S. 1.
 [^annex19-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex19-lvlu1-lvl2-lvl21-3]: Die Liste der Staaten kann im Internet bei der ICAO unter www.icao.int &gt; About ICAO &gt; List Member States abgerufen werden.
+[^annex19-lvlu1-lvl2-lvl21-3]: Die Liste der Staaten kann im Internet bei der ICAO unter: [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States abgerufen werden.
 [^annex19-lvlu1-lvl2-lvl21-4]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1347, ABl. L 192 vom 24.7.2017, S. 1.
 
 ### 2.2 Verbote
@@ -1793,7 +1793,7 @@ Textilien, die Stoffe nach Ziffer 1.1 enthalten und die nach ihrer Bestimmung di
 - e. es wird eine geeignete Methode zur Messung der Ammoniakgasemission verwendet;
 - f. die in Dicke und Dichte ausgedrückte Beladungsrate der Stichproben der zu testenden Zellstoffisoliermaterialien und Gegenstände mit solchen Zellstoffisoliermaterialien wird aufgezeichnet.
 
-[^annex19-lvlu1-lvl3-lvl31-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex19-lvlu1-lvl3-lvl31-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 3.2 Ausnahme
 
@@ -1940,7 +1940,7 @@ Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitung
 
 <sup>2</sup> Für die Abgabe an die breite Öffentlichkeit bestimmte dekorative Öllampen dürfen nur in Verkehr gebracht werden, wenn sie die Norm SN EN 14059:2002[^annex111-lvlu1-lvl4-1] erfüllen.
 
-[^annex111-lvlu1-lvl4-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex111-lvlu1-lvl4-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 Anhang 1.12[^t-13]
 
@@ -2160,7 +2160,7 @@ Verboten ist:
 - b. nicht mehr teerhaltige Zubereitungen eingesetzt werden, als dies für den angestrebten Zweck zwingend nötig ist; und
 - c. und das Risiko für die Gesundheit und Umwelt ausreichend begrenzt wird.
 
-[^annex115-lvlu1-lvl3-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 453/2010 der Kommission vom 20. Mai 2010, ABl. L 133 vom 31. Mai 2010, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter www.cheminfo.ch abrufbar.
+[^annex115-lvlu1-lvl3-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 453/2010 der Kommission vom 20. Mai 2010, ABl. L 133 vom 31. Mai 2010, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [www.cheminfo.ch](http://www.cheminfo.ch) abrufbar.
 
 Anhang 1.16[^t-17]
 
@@ -2599,7 +2599,7 @@ Anhang 1.18[^t-19]
 
 [^annex118-lvlu1-lvl1-1]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, Fassung gemäss ABl. L 212 vom 22.8.2018, S. 1.
 [^annex118-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex118-lvlu1-lvl1-3]: Die Liste der Staaten kann im Internet bei der ICAO unter www.icao.int &gt; About ICAO &gt; List Member States abgerufen werden.
+[^annex118-lvlu1-lvl1-3]: Die Liste der Staaten kann im Internet bei der ICAO unter: [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States abgerufen werden.
 [^annex118-lvlu1-lvl1-4]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1347, ABl. L 192 vom 24.7.2017, S. 1.
 
 ### 2 Verbote
@@ -2693,7 +2693,7 @@ Anhang 2.1[^t-20]
 
 <sup>3</sup> Die Prüf- und Analysemethoden richten sich nach den Anhängen II, III und VIII der Verordnung (EG) Nr. 648/2004.
 
-[^annex21-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 907/2006 der Kommission vom 20. Juni 2006 (ABl. L 168 vom 21.6.2006, S. 5). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse www.cheminfo.ch abgerufen werden.
+[^annex21-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 907/2006 der Kommission vom 20. Juni 2006 (ABl. L 168 vom 21.6.2006, S. 5). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse: [www.cheminfo.ch](http://www.cheminfo.ch) abgerufen werden.
 [^annex21-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry
 
 ### 3 Besondere Kennzeichnung
@@ -2866,7 +2866,7 @@ Anhang 2.2[^t-21]
 
 <sup>6</sup> Abwaschbare kosmetische Mittel dürfen nicht in Verkehr gebracht werden, wenn ihr Massengehalt an Octamethylcyclotetrasiloxan (D4, CAS-Nr. 556-67-2) oder Decamethylcyclopentasiloxan (D5, CAS-Nr. 541-02-6) 0,1 Prozent oder mehr beträgt.
 
-[^annex22-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 551/2009 der Kommission vom 25. Juni 2009 (ABl. L 164 vom 26.6.2009, S. 3). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Berngegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse www.cheminfo.ch abgerufen werden.
+[^annex22-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 551/2009 der Kommission vom 25. Juni 2009 (ABl. L 164 vom 26.6.2009, S. 3). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Berngegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse: [www.cheminfo.ch](http://www.cheminfo.ch) abgerufen werden.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Besondere Kennzeichnung
@@ -3534,7 +3534,7 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 
 <sup>3</sup> Soll die Ausfuhr in einen Staat erfolgen, der Vertragspartei des Rotterdamer Übereinkommens ist, so wird eine Ausfuhrbewilligung zudem nur erteilt, wenn dem BAFU die Zustimmung des Einfuhrstaates vorliegt.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: Die Liste kann beim BAFU, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter www.pic.int &gt; Countries &gt; Status of ratifications
+[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: Die Liste kann beim BAFU, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: [www.pic.int](http://www.pic.int) &gt; Countries &gt; Status of ratifications
 [^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
 
 ### 4.2.3 Gesuch
@@ -4177,7 +4177,7 @@ Anhang 2.9[^t-28]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4384,7 +4384,7 @@ Anhang 2.10[^t-29]
 
 <sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO Absatz 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 2.3 Betreiber- und Informationspflichten betreffend Ausnahmebewilligungen
 
@@ -4863,7 +4863,7 @@ Anhang 2.15[^t-34]
 
 ## Batterien
 
-[^t-34]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit. 1. Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) und Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Begriffe
 
@@ -4882,9 +4882,9 @@ Anhang 2.15[^t-34]
 
 <sup>5</sup> Als Industriebatterien gelten Batterien, die ausschliesslich für industrielle oder gewerbliche Zwecke oder für den Antrieb von Elektrofahrzeugen jeder Art bestimmt sind sowie andere Batterien, die nicht als Gerätebatterien oder als Fahrzeugbatterien gelten.
 
-<sup>6</sup> Als Geräte gelten elektrische und elektronische Geräte im Sinne des Artikels 3 Buchstabe a der Richtlinie 2002/96/EG[^annex215-lvlu1-lvl1-1], die vollständig oder teilweise mit Batterien betrieben werden oder betrieben werden können.
+<sup>6</sup> Als Geräte gelten elektrische und elektronische Geräte im Sinne des Artikels 3 Absatz 1 Buchstabe a der Richtlinie 2012/19/EU[^annex215-lvlu1-lvl1-1], die vollständig oder teilweise mit Batterien betrieben werden oder betrieben werden können.
 
-[^annex215-lvlu1-lvl1-1]: Richtlinie 2002/96/EG des europäischen Parlaments und des Rates vom 27. Jan. 2003 über Elektro- und Elektronik-Altgeräte, ABl. L 37 vom 13.2.2003, S. 24. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter www.cheminfo.ch abrufbar.
+[^annex215-lvlu1-lvl1-1]: Richtlinie 2012/19/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012 über Elektro- und Elektronik-Altgeräte, ABl. L 197 vom 24.7.2012, S. 38. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [www.cheminfo.ch](http://www.cheminfo.ch) abrufbar.
 
 ### 2 Verbote
 
@@ -4941,9 +4941,11 @@ Verbraucherinnen müssen Batterien zur Entsorgung einer rücknahmepflichtigen H�
 
 <sup>1</sup> Händlerinnen, die Gerätebatterien abgeben, müssen Gerätebatterien in jeder Verkaufsstelle von Verbraucherinnen unentgeltlich zurücknehmen.
 
-<sup>2</sup> Händlerinnen, die Fahrzeug‑ oder Industriebatterien abgeben, müssen in jeder Verkaufsstelle die Arten von Batterien, die sie dort im Sortiment führen, von Verbraucherinnen unentgeltlich zurücknehmen.
+<sup>2</sup> Händlerinnen, die Fahrzeugbatterien abgeben, müssen in jeder Verkaufsstelle die Arten von Batterien, die sie dort im Sortiment führen, von Verbraucherinnen unentgeltlich zurücknehmen.
 
-<sup>3</sup> Für die Herstellerin gelten die Pflichten nach den Absätzen 1 und 2 gegenüber Verbraucherinnen, Händlerinnen und Betreiberinnen von Sammlungen oder Sammelstellen.
+<sup>2bis</sup> Händlerinnen, die Industriebatterien abgeben, müssen in jeder Verkaufsstelle die Arten von Batterien, die sie dort im Sortiment führen, von Verbraucherinnen unentgeltlich zurücknehmen. Fallen bei der Entsorgung erheblich beschädigter Industriebatterien Mehrkosten an, so können die Händlerinnen diese den Verbraucherinnen in Rechnung stellen.
+
+<sup>3</sup> Herstellerinnen von Geräte-, Fahrzeug- oder Industriebatterien müssen die Arten von Batterien, die sie abgeben, von Verbraucherinnen, Händlerinnen und Betreiberinnen von Sammlungen oder Sammelstellen unentgeltlich zurücknehmen.
 
 ### 6 Vorgezogene Entsorgungsgebühr und Meldepflicht
 
@@ -4958,8 +4960,9 @@ Verbraucherinnen müssen Batterien zur Entsorgung einer rücknahmepflichtigen H�
 
 <sup>3</sup> Die Organisation befreit Herstellerinnen von Fahrzeug- und Industriebatterien sowie von Fahrzeugen und Geräten, welche Fahrzeug- oder Industriebatterien enthalten, auf Gesuch hin von der Gebührenpflicht, wenn diese:
 
-- a. im Rahmen einer Branchenlösung oder aufgrund besonderer Marktverhältnisse eine umweltverträgliche Entsorgung der Batterien und die Deckung der gesamten Entsorgungskosten gewährleisten; und
-- b. einen angemessenen Beitrag an die Kosten leisten, die der Organisation für die Befreiung von der Gebührenpflicht und die Meldung nach Ziffer 6.3 Absatz 2 entstehen.
+- a. im Rahmen einer Branchenlösung oder aufgrund besonderer Marktverhältnisse eine umweltverträgliche Entsorgung der Batterien und die Deckung der gesamten Entsorgungskosten gewährleisten;
+- b. einen angemessenen Beitrag an die Kosten leisten, die der Organisation für die Befreiung von der Gebührenpflicht und die Meldung nach Ziffer 6.3 Absatz 2 entstehen; und
+- c. ihr vollständiges Gesuch für eine Befreiung für das Folgejahr bis zum 31. Juli bei der Organisation einreichen.
 
 ### 6.2 Höhe der Gebühr
 
@@ -4969,9 +4972,9 @@ Verbraucherinnen müssen Batterien zur Entsorgung einer rücknahmepflichtigen H�
 
 ### 6.3 Meldepflicht
 
-<sup>1</sup> Gebührenpflichtige müssen der Organisation die Menge der in Verkehr gebrachten gebührenbelasteten Batterien nach deren Vorgaben, insbesondere mit Angabe der Typen und ihrer Schadstoffgehalte, melden. Die Meldung erfolgt monatlich, sofern die Gebührenpflichtigen mit der Organisation kein anderes zeitliches Intervall vereinbaren.
+<sup>1</sup> Gebührenpflichtige müssen der Organisation die Menge der in Verkehr gebrachten gebührenbelasteten Batterien nach deren Vorgaben melden. Die Meldung erfolgt monatlich, sofern die Gebührenpflichtigen mit der Organisation kein anderes zeitliches Intervall vereinbaren.
 
-<sup>2</sup> Herstellerinnen, die nach Ziffer 6.1 Absatz 3 von der Gebührenpflicht befreit sind, müssen der Organisation jährlich bis zum 31. März die Menge der im Vorjahr in Verkehr gebrachten Batterien mit Angabe der Typen und ihrer Schadstoffgehalte melden. Die Organisation stellt für die Meldung Formulare in schriftlicher oder elektronischer Form zur Verfügung. Sie leitet dem BAFU die eingegangenen Meldungen nach dessen Vorgaben weiter.
+<sup>2</sup> Herstellerinnen, die nach Ziffer 6.1 Absatz 3 von der Gebührenpflicht befreit sind, müssen der Organisation nach deren Vorgaben jeweils bis zum 15. Januar und 15. Juli die Menge der im vergangenen Halbjahr in Verkehr gebrachten Batterien melden. Die Organisation stellt für die Meldung Formulare in schriftlicher oder elektronischer Form zur Verfügung. Sie leitet dem BAFU die eingegangenen Meldungen nach dessen Vorgaben weiter.
 
 <sup>3</sup> Entsorgungsunternehmen, die aufgrund einer Bewilligung nach Artikel 10 der Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen zur Entgegennahme von Batterien berechtigt sind, müssen der Organisation nach deren Vorgaben jährlich bis zum 30. April die Mengen der in der Schweiz zurückgenommenen und von ihnen im Vorjahr verwerteten oder zur Entsorgung exportierten Batterien melden.
 
@@ -4997,6 +5000,12 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 <sup>2</sup> Die Organisation leistet Zahlungen an Dritte nur, soweit diese die Tätigkeiten sachgemäss und wirtschaftlich ausführen. Sie kann die zur Prüfung dieser Voraussetzungen notwendigen Massnahmen treffen.
 
 <sup>3</sup> Die Organisation leistet Zahlungen für Tätigkeiten nach Ziffer 6.5 Buchstaben a und b nur im Rahmen der verfügbaren Mittel.
+
+### 6.6<sup>bis</sup> Rückerstattung der Gebühr
+
+<sup>1</sup> Wer Batterien, auf denen eine Gebühr entrichtet worden ist, exportiert, hat auf begründetes Gesuch hin Anspruch auf Rückerstattung; von der Rückerstattung werden die bereits entstandenen Kosten abgezogen.
+
+<sup>2</sup> Gesuche um Rückerstattung der Gebühr müssen spätestens bis zum 31. März des nachfolgenden Jahres bei der Organisation eingereicht werden.
 
 ### 6.7 Organisation
 
@@ -5030,7 +5039,11 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 ### 6.9 Verfahren
 
-<sup>1</sup> Die Organisation entscheidet über Ausnahmen von der Gebührenpflicht und über Gesuche um Zahlungen an Dritte durch Verfügung.
+<sup>1</sup> Die Organisation entscheidet durch Verfügung über:
+
+- a. Ausnahmen von der Gebührenpflicht;
+- b. Gesuche um Zahlungen an Dritte;
+- c. Gesuche um Rückerstattung der Gebühr.
 
 <sup>2</sup> Sie erlässt bei Streitigkeiten über die Rechnung gemäss Ziffer 6.4 Absatz 1 Satz 1 eine Gebührenverfügung.
 
@@ -5241,7 +5254,7 @@ Verpackungen oder Verpackungsbestandteile dürfen durch eine Herstellerin nicht 
 
 <sup>2</sup> Das BAFU kann im Einvernehmen mit dem BAG auf begründeten Antrag Ausnahmen für weitere Verpackungen zulassen. Es berücksichtigt dabei die auf Artikel 11 Absatz 3 der Richtlinie 94/62/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994[^annex216-lvlu1-lvl4-lvl43-1] über Verpackungen und Verpackungsabfälle gestützten Entscheidungen der Europäischen Kommission sowie den Stand der Technik.
 
-[^annex216-lvlu1-lvl4-lvl43-1]: ABl. L 365 vom 31.12.1994, S. 10. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter www.cheminfo.ch abrufbar.
+[^annex216-lvlu1-lvl4-lvl43-1]: ABl. L 365 vom 31.12.1994, S. 10. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [www.cheminfo.ch](http://www.cheminfo.ch) abrufbar.
 
 ### 5 Schwermetalle in Fahrzeugen
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240601-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240601/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° giugno 2024)
+del 18 maggio 2005 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1141,7 +1141,7 @@ Nella domanda devono figurare:
 - b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
 - c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al livello più basso possibile.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+[^annex15-lvlu1-lvl6-lvl62-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch.](https://www.snv.ch/de/)
 
 ### 6.3 Autorizzazioni eccezionali
 
@@ -1211,7 +1211,7 @@ L’obbligo di notifica di cui al numero 7.1.1 capoverso 1 non si applica:
 - a. gli apparecchi e gli impianti contenenti oltre 1 kg di esafluoruro di zolfo in sistemi di pressione chiusi ermeticamente secondo la norma SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1], se un firmatario di un accordo settoriale si fa carico dell’obbligo di notifica;
 - b. gli apparecchi e gli impianti che servono alla difesa nazionale.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch.](https://www.snv.ch/de/)
 
 ### 7.3 Comunicazione di dati da parte dell’UFAM
 
@@ -1316,7 +1316,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1479,7 +1479,7 @@ Non necessita di un’autorizzazione chi importa:
 - b. un composto di mercurio o una lega di mercurio se la sostanza o il preparato è destinato a scopi di analisi e ricerca;
 - c. una sostanza menzionata alla lettera a o b oppure un preparato ivi menzionato per essere utilizzato quale sostanza, o in un preparato o in un oggetto, se la sostanza, il preparato o l’oggetto è destinato a scopi di analisi e di ricerca.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch) &gt; Prodotti chimici &gt; Disposizioni e procedure.
+[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch/) &gt; Prodotti chimici &gt; Disposizioni e procedure.
 [^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
 
 ### 1.4.3 Presupposti per il rilascio dell’autorizzazione
@@ -1557,7 +1557,7 @@ Chi intende esportare mercurio (n. CAS 7439-97-6) o preparati con un contenuto i
 
 <sup>2</sup> Se l’esportazione è destinata a un Paese che non è Parte[^annex17-lvlu1-lvl2-lvl22-lvl222-1] della Convenzione di Minamata, l’autorizzazione d’esportazione è rilasciata solo se è presentata all’UFAM una certificazione del Paese di importazione, secondo la quale quest’ultimo ha definito misure volte a proteggere la salute umana e l’ambiente per la manipolazione del mercurio.
 
-[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch) &gt; Prodotti chimici &gt; [Informazioni per gli specialisti](http://www.bafu.admin.ch/chemikalien/13553/index.html?lang=it) &gt; Disposizioni e procedure.
+[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch/) &gt; Prodotti chimici &gt; [Informazioni per gli specialisti](http://www.bafu.admin.ch/chemikalien/13553/index.html?lang=it) &gt; Disposizioni e procedure.
 
 ### 2.2.3 Domanda
 
@@ -1670,7 +1670,7 @@ Nella domanda devono figurare almeno:
 
 <sup>5</sup> Il DATEC può prorogare il termine per la fabbricazione di capsule di amalgama dentale indicato nel capoverso 1. Nel concedere la proroga tiene conto della domanda di mercurio per l’uso nell’amalgama dentale nelle Parti alla Convenzione di Minamata, dei provvedimenti volti a ridurre il rilascio di mercurio derivante dall’uso di amalgama dentale adottati dalle Parti nonché dello stato dell’attuazione dell’abbandono dell’uso di amalgama dentale nell’Unione europea.
 
-[^annex17-lvlu1-lvl4-lvl42-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch) &gt; Prodotti chimici &gt; [Informazioni per gli specialisti](http://www.bafu.admin.ch/chemikalien/13553/index.html?lang=it) &gt; Disposizioni e procedure.
+[^annex17-lvlu1-lvl4-lvl42-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch/) &gt; Prodotti chimici &gt; [Informazioni per gli specialisti](http://www.bafu.admin.ch/chemikalien/13553/index.html?lang=it) &gt; Disposizioni e procedure.
 
 ### 4.3 Utilizzazione
 
@@ -1793,7 +1793,7 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 - e. è utilizzato un metodo appropriato per misurare l’emissione di gas di ammoniaca;
 - f. il tasso di carico, espresso in spessore e densità, è registrato durante il campionamento dei materiali o degli oggetti isolanti in cellulosa da sottoporre a prova.
 
-[^annex19-lvlu1-lvl3-lvl31-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+[^annex19-lvlu1-lvl3-lvl31-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch.](https://www.snv.ch/de/)
 
 ### 3.2 Deroga
 
@@ -1940,7 +1940,7 @@ Sono considerati sostanze o preparati liquidi pericolosi i preparati liquidi con
 
 <sup>2</sup> Le lampade a olio decorative destinate al grande pubblico possono essere immesse sul mercato solo se conformi alle norma SN EN 14059:2002[^annex111-lvlu1-lvl4-1].
 
-[^annex111-lvlu1-lvl4-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+[^annex111-lvlu1-lvl4-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch.](https://www.snv.ch/de/)
 
 Allegato 1.12[^t-13]
 
@@ -4177,7 +4177,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4859,7 +4859,7 @@ Allegato 2.15[^t-34]
 
 ## Pile
 
-[^t-34]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) e dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Definizioni
 
@@ -4878,10 +4878,9 @@ Allegato 2.15[^t-34]
 
 <sup>5</sup> Sono considerate pile industriali, le pile destinate esclusivamente a scopi industriali o commerciali o alla propulsione di veicoli elettrici di ogni tipo, nonché le altre pile che non sono considerate pile portatili o batterie per autoveicoli.
 
-<sup>6</sup> Sono considerate apparecchiature le apparecchiature elettriche ed elettroniche[^annex215-lvlu1-lvl1-1] di cui all’articolo 3 lettera a della direttiva 2002/96/CE[^annex215-lvlu1-lvl1-2], alimentate o capaci di essere alimentate interamente o parzialmente da pile.
+<sup>6</sup> Sono considerate apparecchiature le apparecchiature elettriche ed elettroniche di cui all’articolo 3 capoverso 1 lettera a della direttiva 2012/19/UE[^annex215-lvlu1-lvl1-1], alimentate o che possono essere alimentate interamente o parzialmente da pile.
 
-[^annex215-lvlu1-lvl1-1]: Nuova espressione giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^annex215-lvlu1-lvl1-2]: Direttiva 2002/96/CE del Parlamento Europeo e del Consiglio, del 27 gennaio 2003, sui rifiuti di apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 24. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo www.cheminfo.ch.
+[^annex215-lvlu1-lvl1-1]: Direttiva 2012/19/UE del Parlamento europeo e del Consiglio, del 4 luglio 2012, sui rifiuti di apparecchiature elettriche ed elettroniche, GU L 197 del 24.7.12, pag. 38. I testi degli atti giuridici dell’UE menzionati in questo allegato possono essere consultati sul sito www.cheminfo.ch.
 
 ### 2 Divieti
 
@@ -4936,11 +4935,13 @@ I consumatori devono riconsegnare le pile per lo smaltimento a un commerciante c
 
 ### 5.2 Obbligo di ripresa
 
-<sup>1</sup> I commercianti che forniscono pile portatili, devono riprenderle gratuitamente dai consumatori in ogni punto vendita.
+<sup>1</sup> I commercianti che forniscono pile portatili devono riprenderle gratuitamente dai consumatori in ogni punto vendita.
 
-<sup>2</sup> I commercianti che forniscono pile per veicoli o pile industriali devono riprendere gratuitamente in ogni punto vendita dai consumatori i tipi di pile che hanno nell’assortimento.
+<sup>2</sup> I commercianti che forniscono pile per autoveicoli devono riprendere gratuitamente in ogni punto vendita dai consumatori i tipi di batterie che hanno nell’assortimento.
 
-<sup>3</sup> Per i fabbricanti si applicano gli obblighi di cui ai capoversi 1 e 2 nei confronti dei consumatori, dei commercianti e dei gestori di centri di raccolta.
+<sup>2bis</sup> I commercianti che forniscono pile industriali devono riprendere gratuitamente in ogni punto vendita dai consumatori i tipi di pile che hanno nell’assortimento. Se lo smaltimento di pile industriali gravemente danneggiate genera costi aggiuntivi, i commercianti possono fatturare tali costi ai consumatori.
+
+<sup>3</sup> I fabbricanti di pile per apparecchiature, pile per autoveicoli o pile industriali devono riprendere gratuitamente dai consumatori, dai commercianti e dai gestori di centri di raccolta i tipi di pile che forniscono.
 
 ### 6 Tassa di smaltimento anticipata e obbligo di notifica
 
@@ -4953,10 +4954,11 @@ I consumatori devono riconsegnare le pile per lo smaltimento a un commerciante c
 
 <sup>2</sup> Il capoverso 1 lettera b non si applica se terzi si sono assunti l’obbligo della tassa secondo il capoverso 1 e l’obbligo di notifica secondo il numero 6.3 capoverso 1.
 
-<sup>3</sup> Su domanda, l’organizzazione esenta dall’obbligo della tassa i fabbricanti di pile per autovetture e di pile industriali nonché di veicoli e di apparecchiature che contengono pile per autovetture e pile industriali, se essi:
+<sup>3</sup> Su domanda, l’organizzazione esenta dall’obbligo della tassa i fabbricanti di pile per autoveicoli e di pile industriali nonché di autoveicoli e di apparecchiature che contengono pile per autoveicoli e pile industriali, se essi:
 
-- a. nell’ambito di una soluzione per settore o grazie a particolari situazioni del mercato garantiscono uno smaltimento delle pile rispettoso dell’ambiente e la copertura di tutti i costi di smaltimento; e
-- b. forniscono un adeguato contributo ai costi sostenuti dall’organizzazione per l’esenzione dall’obbligo della tassa e la notifica di cui al numero 6.3 capoverso 2.
+- a. nell’ambito di una soluzione per settore o grazie a particolari situazioni del mercato garantiscono uno smaltimento delle pile rispettoso dell’ambiente e la copertura di tutti i costi di smaltimento;
+- b. forniscono un adeguato contributo ai costi sostenuti dall’organizzazione per l’esenzione dall’obbligo della tassa e la notifica di cui al numero 6.3 capoverso 2; e
+- c. presentano all’organizzazione la loro domanda completa entro il 31 luglio ai fini di un’esenzione per l’anno successivo.
 
 ### 6.2 Ammontare della tassa
 
@@ -4966,13 +4968,11 @@ I consumatori devono riconsegnare le pile per lo smaltimento a un commerciante c
 
 ### 6.3 Obbligo di notifica
 
-<sup>1</sup> Le parti assoggettate alla tassa devono comunicare all’organizzazione la quantità di pile soggette a tassa immessa sul mercato, secondo le prescrizioni emanate dalla stessa, indicando in particolare i tipi di pile e il loro tenore di sostanze nocive. La comunicazione avviene mensilmente, salvo che le parti assoggettate alla tassa non concordino con l’organizzazione una periodicità diversa.
+<sup>1</sup> Le parti assoggettate alla tassa devono notificare all’organizzazione la quantità di pile soggette a tassa immessa sul mercato, secondo le prescrizioni emanate dalla stessa. La notifica avviene mensilmente, salvo che le parti assoggettate alla tassa non concordino con l’organizzazione una periodicità diversa.
 
-<sup>2</sup> I fabbricanti che conformemente al numero 6.1 capoverso 3 sono esentati dall’obbligo della tassa devono notificare ogni anno, entro il 31 marzo, all’organizzazione la quantità di pile immessa sul mercato durante l’anno precedente indicando i tipi e il loro tenore di sostanze nocive. L’organizzazione mette a loro disposizione formulari per la domanda in forma cartacea o elettronica. Essa trasmette all’UFAM le notifiche inoltrate, secondo le prescrizioni emanate da quest’ultimo.
+<sup>2</sup> I fabbricanti che conformemente al numero 6.1 capoverso 3 sono esentati dall’obbligo della tassa devono notificare, entro il 15 gennaio ed entro il 15 luglio, all’organizzazione la quantità di pile immessa sul mercato durante il semestre precedente, secondo le prescrizioni emanate dalla stessa. L’organizzazione mette a loro disposizione formulari per la domanda in forma cartacea o elettronica. Essa trasmette all’UFAM le notifiche ricevute, secondo le prescrizioni emanate da quest’ultimo.
 
-<sup>3</sup> Le imprese di smaltimento, autorizzate a prendere in consegna pile in virtù di un’autorizzazione di cui all’articolo 10 dell’ordinanza del 22 giugno 2005[^annex215-lvlu1-lvl6-lvl63-1] sul traffico di rifiuti, devono notificare entro il 30 aprile di ogni anno all’organizzazione, secondo le prescrizioni emanate dalla stessa, le quantità di pile riprese in Svizzera durante l’anno precedente che hanno riciclato o esportato per lo smaltimento.
-
-[^annex215-lvlu1-lvl6-lvl63-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+<sup>3</sup> Le imprese di smaltimento autorizzate a prendere in consegna pile in virtù di un’autorizzazione di cui all’articolo 10 dell’ordinanza del 22 giugno 2005 sul traffico di rifiuti devono notificare entro il 30 aprile di ogni anno all’organizzazione, secondo le prescrizioni emanate dalla stessa, le quantità di pile riprese in Svizzera durante l’anno precedente che hanno riciclato o esportato per lo smaltimento.
 
 ### 6.4 Scadenza della tassa e termine di pagamento
 
@@ -4996,6 +4996,12 @@ L’organizzazione deve impiegare la tassa esclusivamente per il finanziamento d
 <sup>2</sup> L’organizzazione elargisce finanziamenti a terzi soltanto se essi svolgono le attività in modo economico e appropriato. Può adottare le misure necessarie per la verifica di detti presupposti.
 
 <sup>3</sup> L’organizzazione elargisce finanziamenti per le attività di cui al numero 6.5 lettere a e b nel quadro dei mezzi finanziari disponibili.
+
+### 6.6<sup>bis</sup> Rimborso della tassa
+
+1 Chi esporta pile sulle quali è stata riscossa una tassa ha diritto al rimborso della stessa su presentazione di una domanda motivata; dal rimborso sono dedotti i costi già sostenuti.
+
+2 Le domande di rimborso della tassa devono pervenire all’organizzazione entro il 31 marzo dell’anno successivo.
 
 ### 6.7 Organizzazione
 
@@ -5029,7 +5035,11 @@ L’organizzazione deve impiegare la tassa esclusivamente per il finanziamento d
 
 ### 6.9 Procedura
 
-<sup>1</sup> L’organizzazione statuisce mediante decisione sulle deroghe all’obbligo della tassa e sulle domande concernenti i finanziamenti a terzi.
+<sup>1</sup> L’organizzazione statuisce mediante decisione su:
+
+- a. deroghe all’obbligo di pagare gli emolumenti;
+- b. domande di finanziamenti a terzi;
+- c. domande di restituzione della tassa.
 
 <sup>2</sup> In caso di controversia sulla fattura, essa emana una decisione relativa all’emolumento conformemente al numero 6.4 capoverso 1 periodo 1.
 
