@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 23 mars 2016 concernant les exigences techniques 
 short: OETHand
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/234"
 language: fr
-version: 2020-11-01
+version: 2024-07-01
 adopted: 2016-03-23
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-234-20201101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-234-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/fr"
 
 (OETHand)
 
-du 23 mars 2016 (État le 1<sup>er</sup> novembre 2020)
+du 23 mars 2016 (État le 1<sup>er</sup> juillet 2024)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -55,21 +55,22 @@ La présente ordonnance réglemente les exigences techniques sur les aménagemen
 
 <sup>1</sup> La norme SN 521 500/SIA 500 «Constructions sans obstacles», édition de 2009[^2-1], est déterminante pour les exigences générales auxquelles doivent satisfaire les constructions et les installations.
 
-<sup>2</sup> Le règlement (UE) n<sup>o</sup> 1300/2014[^2-2] est déterminant pour les exigences générales auxquelles doivent satisfaire les véhicules en ce qui concerne les besoins des personnes handicapées. Une évaluation de la conformité établie par un organisme d’évaluation de la conformité n’est requise que pour les véhicules circulant sur les tronçons interopérables visés à l’art. 15*a*, al. 1, let. a, OCF[^2-3]. Pour les autres véhicules, le requérant peut en démontrer la conformité moyennant une déclaration de conformité.[^2-4]
+<sup>2</sup> Le règlement (UE) n<sup>o</sup> 1300/2014[^2-2] est déterminant pour les exigences générales auxquelles doivent satisfaire les véhicules en ce qui concerne les besoins des personnes handicapées.[^2-3] Une évaluation de la conformité établie par un organisme d’évaluation de la conformité n’est requise que pour les véhicules circulant sur les tronçons interopérables visés à l’art. 15*a*, al. 1, let. a, OCF[^2-4]. Pour les autres véhicules, le requérant peut en démontrer la conformité moyennant une déclaration de conformité.[^2-5]
 
 <sup>3</sup>
 
 Les exigences concernant le transport par voie ferrée, par tramways et par bateau qui s’écartent de cette norme ou qui vont au-delà de celle-ci sont fixées de manière exhaustive dans les actes suivants:
 
-- a. dispositions d’exécution du 15 décembre 1983 de l’ordonnance sur les chemins de fer[^2-5];
-- b. art. 6, al. 2, de l’ordonnance du 14 mars 1994 sur la construction des bateaux[^2-6].
+- a. dispositions d’exécution du 15 décembre 1983 de l’ordonnance sur les chemins de fer[^2-6];
+- b. art. 6, al. 2, de l’ordonnance du 14 mars 1994 sur la construction des bateaux[^2-7].
 
-[^2-1]: La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch ou être consultée gratuitement auprès de l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen.
-[^2-2]: Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite, JO L 356 du 12.12.2014, p. 110; modifié par le règlement d’exécution (UE) 2019/772 de la Commission du 16.5.2019, JO L 139 I du 27.5.2019, p. 1.
-[^2-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 juil. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^2-5]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-6]: [RS 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
+[^2-1]: La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch) ou être consultée gratuitement auprès de l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen.
+[^2-2]: Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite, JO L 356 du 12.12.2014, p. 110; modifié en dernier lieu par le règlement d’exécution (UE) 2023/1694 , JO L 222 du 8.9.2023, p. 88.
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 29 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^2-4]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 juil. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^2-6]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^2-7]: [RS 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
 
 #### Art. 3
 
@@ -240,17 +241,19 @@ Les véhicules de toutes les classes doivent répondre aux exigences définies �
 - d. dans les véhicules de la classe M3, un siège réservé aux personnes handicapées suffit (3.2);
 - e. la chaise roulante est assurée par une ceinture de sécurité fixée à l’aide d’un crochet à un endroit adéquat de la chaise roulante;
 - f.[^14-3] les véhicules de la classe M3 de plus de 12 m de long utilisés essentiellement dans le trafic d’agglomération ou dans le trafic grandes lignes en Suisse doivent disposer de deux emplacements prévus pour les chaises roulantes et du nombre de sièges réservés aux personnes handicapées conformément au ch. 7.7.8.5.3 de l’annexe 3 du règlement n° 107 de l’UNECE, mais dans tous les cas d’au moins deux sièges réservés aux personnes handicapées;
-- g. les boutons-poussoirs à l’intérieur des véhicules pour les personnes en chaise roulante doivent satisfaire à l’art. 9, al. 4 (3.9.1.2).
+- g. les boutons-poussoirs à l’intérieur des véhicules pour les personnes en chaise roulante doivent satisfaire à l’art. 9, al. 4 (3.9.1.2);
+- h.[^14-4] les pictogrammes relatifs aux personnes handicapées sont régis par l’art. 5, al. 2 (3.2.8, 3.6.6, 3.7.2, 3.7.4, 3.10.9); ils sont facultatifs à l’avant, côté passager (3.2.8, 3.6.6).
 
 <sup>3</sup> Les simples boutons-poussoirs de demande d’arrêt et les boutons-poussoirs à l’intérieur des véhicules sont régis par le ch. 7.7.9.1 de l’annexe 3 du règlement n<sup>o</sup> 107 de l’UNECE. De plus, les boutons-poussoirs de demande d’arrêt et les boutons-poussoirs doivent confirmer, au besoin, la demande d’arrêt par un signal acoustique dans l’espace destiné aux voyageurs.
 
-<sup>4</sup> Les toilettes dans les bus doivent être accessibles aux chaises roulantes et utilisables par les les personnes malvoyantes et les aveugles. Le respect des dimensions ainsi qu’un dispositif de demande d’aide conformément au règlement (UE) n<sup>o</sup> 1300/2014[^14-4] ne sont pas requis si l’aide à l’utilisation est garantie par le personnel de l’entreprise. Dans la mesure du possible, il faut garantir aux personnes en chaise roulante un accès frontal et latéral à la cuvette des toilettes.[^14-5]
+<sup>4</sup> Les toilettes dans les bus doivent être accessibles aux chaises roulantes et utilisables par les personnes malvoyantes et les aveugles. Le respect des dimensions ainsi qu’un dispositif de demande d’aide conformément au règlement (UE) n<sup>o</sup> 1300/2014[^14-5] ne sont pas requis si l’aide à l’utilisation est garantie par le personnel de l’entreprise. Dans la mesure du possible, il faut garantir aux personnes en chaise roulante un accès frontal et latéral à la cuvette des toilettes.[^14-6]
 
 [^14-1]: Règlement n<sup>o</sup> 107 de l’UNECE du 7 mai 1998 sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M2 et M3 en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par la série d’amendements 07, complément 1, en vigueur depuis le 22 juin 2017; version du JO L 52 du 23.2.2018, p. 1.
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 juil. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 juil. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^14-4]: Cf. note de bas de page relative à l’art. 2, al. 2
-[^14-5]: Introduit par le ch. I de l’O du DETEC du 20 juil. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^14-4]: Introduite par le ch. I de l’O du DETEC du 29 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^14-5]: Cf. note de bas de page relative à l’art. 2, al. 2.
+[^14-6]: Introduit par le ch. I de l’O du DETEC du 20 juil. 2020 ([RO 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)). Nouvelle teneur selon le ch. I de l’O du DETEC du 29 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
 
 #### Art. 15
 

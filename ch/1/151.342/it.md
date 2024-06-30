@@ -4,11 +4,11 @@ title: Ordinanza del DATEC del 23 marzo 2016 concernente i requisiti tecnici per
 short: ORTDis
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/234"
 language: it
-version: 2020-11-01
+version: 2024-07-01
 adopted: 2016-03-23
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2016-234-20201101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2016-234-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/it"
 
 (ORTDis)
 
-del 23 marzo 2016 (Stato 1° novembre 2020)
+del 23 marzo 2016 (Stato 1° luglio 2024)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -55,21 +55,22 @@ La presente ordinanza disciplina i requisiti tecnici per la concezione conforme 
 
 <sup>1</sup> Per i requisiti generali relativi alla concezione di costruzioni e impianti conforme alle esigenze dei disabili è determinante la norma SN 521 500 / SIA 500 «Edifici senza ostacoli», edizione del 2009[^2-1].
 
-<sup>2</sup> Per i requisiti generali relativi alla concezione di veicoli conforme alle esigenze dei disabili è determinante il regolamento (UE) n. 1300/2014[^2-2]. Una valutazione della conformità da parte di un apposito organismo è necessaria solo per i veicoli che circolano su tratte interoperabili di cui all’articolo 15*a* capoverso 1 lettera a Oferr[^2-3]. Per gli altri veicoli il richiedente può attestare la conformità mediante una dichiarazione di conformità.[^2-4]
+<sup>2</sup> Per i requisiti generali relativi alla concezione di veicoli conforme alle esigenze dei disabili è determinante il regolamento (UE) n. 1300/2014[^2-2].[^2-3] Una valutazione della conformità da parte di un apposito organismo è necessaria solo per i veicoli che circolano su tratte interoperabili di cui all’articolo 15*a* capoverso 1 lettera a Oferr[^2-4]. Per gli altri veicoli il richiedente può attestare la conformità mediante una dichiarazione di conformità.[^2-5]
 
 <sup>3</sup>
 
 Requisiti ulteriori e in deroga alle presenti disposizioni, relativi ai trasporti ferroviari, tranviari e su vie d’acqua sono definiti nei seguenti atti normativi:
 
-- a. disposizioni d’esecuzione del 15 dicembre 1983[^2-5] dell’ordinanza sulle ferrovie;
-- b. articolo 6 capoverso 2 dell’ordinanza del 14 marzo 1994[^2-6] sulla costruzione dei battelli.
+- a. disposizioni d’esecuzione del 15 dicembre 1983[^2-6] dell’ordinanza sulle ferrovie;
+- b. articolo 6 capoverso 2 dell’ordinanza del 14 marzo 1994[^2-7] sulla costruzione dei battelli.
 
-[^2-1]: Questa norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch, o essere consultata gratuitamente presso l'Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen.
-[^2-2]: Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta, GU L 356 del 12.12.2014, pag. 110; modificato dal regolamento di esecuzione (UE) 2019/772 del 16.5.2019, GU L 139 I del 27.5.2019, pag. 1.
-[^2-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-4]: Nuovo testo giusta il n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^2-5]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-6]: [RS 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
+[^2-1]: Questa norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch, o essere consultata gratuitamente presso l’Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen.
+[^2-2]: Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta, GU L 356 del 12.12.2014, pag. 110; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694, GU L 222 dell’8.9.2023, pag. 88.
+[^2-3]: Nuovo testo giusta il n. I dell’O del DATEC del 29 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^2-4]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-5]: Nuovo testo giusta il n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^2-6]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^2-7]: [RS 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
 
 #### Art. 3
 
@@ -241,17 +242,19 @@ I veicoli di tutte le categorie devono soddisfare i requisiti di cui all’alleg
 - d. nei veicoli della classe M3 è sufficiente un sedile riservato ai disabili (n. 3.2);
 - e. le sedie a rotelle vanno assicurate mediante una cintura di sicurezza agganciata a un punto adatto della sedia a rotelle;
 - f.[^14-3] nei veicoli della categoria M3 con lunghezza superiore a 12 m, impiegati soprattutto negli agglomerati o nel traffico interno a lunga distanza, devono essere disponibili due posti riservati alle sedie a rotelle nonché il numero di sedili riservati ai disabili secondo il numero 7.7.8.5.3 dell’allegato 3 del regolamento UNECE n. 107, in ogni caso almeno due sedili riservati ai disabili;
-- g. ai pulsanti per l’apertura delle porte all’interno del veicolo destinati alle persone in sedia a rotelle si applica l’articolo 9 capoverso 4 (n. 3.9.1.2).
+- g. ai pulsanti per l’apertura delle porte all’interno del veicolo destinati alle persone in sedia a rotelle si applica l’articolo 9 capoverso 4 (n. 3.9.1.2);
+- h.[^14-4] ai pittogrammi relativi ai disabili si applica l’articolo 5 capoverso 2 (n. 3.2.8, 3.6.6, 3.7.2, 3.7.4, 3.10.9); la loro apposizione nella parte anteriore lato marciapiede del veicolo è facoltativa (n. 3.2.8, 3.6.6).
 
 <sup>3</sup> Ai semplici pulsanti per la richiesta di fermata e ai pulsanti per l’apertura delle porte all’interno del veicolo si applica il numero 7.7.9.1 dell’allegato 3 del regolamento n. 107 UNECE. Inoltre i pulsanti per la richiesta di fermata e per l’apertura delle porte devono confermare, se necessario, la richiesta di fermata in modo acustico nell’area per i passeggeri.
 
-<sup>4</sup> Negli autobus i servizi igienici devono essere accessibili con sedia a rotelle ed essere adatti agli ipovedenti. Il rispetto delle dimensioni e la presenza di un dispositivo di richiesta di aiuto secondo il regolamento (UE) n. 1300/2014[^14-4] non sono necessari se la fruibilità è garantita dall’assistenza del personale dell’impresa. Nel limite del possibile, la tazza del water deve essere accessibile frontalmente e lateralmente alle persone in sedia a rotelle.[^14-5]
+<sup>4</sup> Negli autobus i servizi igienici devono essere accessibili con sedia a rotelle ed essere adatti agli ipovedenti. Il rispetto delle dimensioni e la presenza di un dispositivo di richiesta di aiuto secondo il regolamento (UE) n. 1300/2014[^14-5] non sono necessari se la fruibilità è garantita dall’assistenza del personale dell’impresa. Nel limite del possibile, la tazza del water deve essere accessibile frontalmente e lateralmente alle persone in sedia a rotelle.[^14-6]
 
 [^14-1]: Regolamento UNECE n. 107, del 7 maggio 1998, sulle condizioni unitarie per l’omologazione dei veicoli delle categorie M2 e M3 per quanto concerne le loro caratteristiche generali di costruzione; modificato da ultimo dalla serie d’emendamento 07, complemento 1, in vigore dal 22 giugno 2017; versione della GU L 52 del 23.2.2018, pag. 1.
 [^14-2]: Nuovo testo giusta il n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
 [^14-3]: Nuovo testo giusta il n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^14-4]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
-[^14-5]: Introdotto dal n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^14-4]: Introdotta dal n. I dell’O del DATEC del 29 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^14-5]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
+[^14-6]: Introdotto dal n. I dell’O del DATEC del 20 lug. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
 
 #### Art. 15
 

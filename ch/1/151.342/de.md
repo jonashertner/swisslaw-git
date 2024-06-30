@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 23. März 2016 über die technischen Anforderunge
 short: VAböV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/234"
 language: de
-version: 2020-11-01
+version: 2024-07-01
 adopted: 2016-03-23
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2016-234-20201101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/234/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2016-234-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/234/20201101/de"
 
 (VAböV)
 
-vom 23. März 2016 (Stand am 1. November 2020)
+vom 23. März 2016 (Stand am 1. Juli 2024)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -55,21 +55,22 @@ Diese Verordnung regelt die technischen Anforderungen an die behindertengerechte
 
 <sup>1</sup> Für die allgemeinen Anforderungen an die behindertengerechte Gestaltung von Bauten und Anlagen ist die Norm SN 521 500/SIA 500 «Hindernisfreie Bauten», Ausgabe 2009[^2-1], massgebend.
 
-<sup>2</sup> Für die allgemeinen Anforderungen an die behindertengerechte Gestaltung von Fahrzeugen ist die Verordnung (EU) Nr. 1300/2014[^2-2] massgebend. Eine Konformitätsbewertung durch eine Konformitätsbewertungsstelle ist nur für Fahrzeuge nötig, die auf interoperablen Strecken nach Artikel 15*a* Absatz 1 Buchstabe a EBV[^2-3] verkehren. Für die übrigen Fahrzeuge kann der Gesuchsteller die Konformität durch eine Konformitätserklärung nachweisen.[^2-4]
+<sup>2</sup> Für die allgemeinen Anforderungen an die behindertengerechte Gestaltung von Fahrzeugen ist die Verordnung (EU) Nr. 1300/2014[^2-2] massgebend.[^2-3] Eine Konformitätsbewertung durch eine Konformitätsbewertungsstelle ist nur für Fahrzeuge nötig, die auf interoperablen Strecken nach Artikel 15*a* Absatz 1 Buchstabe a EBV[^2-4] verkehren. Für die übrigen Fahrzeuge kann der Gesuchsteller die Konformität durch eine Konformitätserklärung nachweisen.[^2-5]
 
 <sup>3</sup>
 
 Abweichende und weiterführende Anforderungen an den Eisenbahn-, Strassenbahn- und Schiffverkehr sind in den folgenden Erlassen festgehalten:
 
-- a. Ausführungsbestimmungen vom 15. Dezember 1983[^2-5] zur Eisenbahnverordnung;
-- b. Artikel 6 Absatz 2 der Schiffbauverordnung vom 14. März 1994[^2-6].
+- a. Ausführungsbestimmungen vom 15. Dezember 1983[^2-6] zur Eisenbahnverordnung;
+- b. Artikel 6 Absatz 2 der Schiffbauverordnung vom 14. März 1994[^2-7].
 
-[^2-1]: Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder im Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen werden.
-[^2-2]: <sup>2</sup> Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) Nr. 2019/772 vom 16.5.2019 ABl. L 139 I vom 27.5.2019. S. 1.
-[^2-3]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-4]: Fassung gemäss Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^2-5]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-6]: [SR 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
+[^2-1]: Diese Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch) oder im Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen werden.
+[^2-2]: Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) Nr. 2019/772 vom 16.5.2019 ABl. L 139 I vom 27.5.2019. S. 1.
+[^2-3]: Fassung gemäss Ziff. I der V des UVEK vom 29. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^2-4]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-5]: Fassung gemäss Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^2-6]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^2-7]: [SR 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
 
 #### Art. 3
 
@@ -98,7 +99,7 @@ Stehen bei Haltepunkten Parkplätze für Personenwagen zur Verfügung, so müsse
 <sup>2</sup> Die Anforderungen an die Rutschfestigkeit und die optischen Eigenschaften richten sich nach der SN EN 16584-3:2017.
 
 [^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^4-2]: Diese Norm kann bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen oder im Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen werden.
+[^4-2]: Diese Norm kann bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch) bezogen oder im Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen kostenlos eingesehen werden.
 
 #### Art. 5
 
@@ -241,16 +242,18 @@ Die Fahrzeuge aller Klassen müssen den Anforderungen des Anhangs 8 der Regelung
 - e. Rollstühle sind durch einen Rollgurt zu sichern, der mit einem Haken an einer geeigneten Stelle des Rollstuhls eingehängt wird.
 - f.[^14-3] In Fahrzeugen der Klasse M3 von mehr als 12 m Länge, die mehrheitlich im Agglomerationsverkehr oder im inländischen Fernverkehr eingesetzt werden, müssen zwei Stellplätze für Rollstühle sowie die Anzahl Behindertensitze gemäss Ziffer 7.7.8.5.3 des Anhangs 3 der Regelung Nr. 107 der UNECE, mindestens jedoch zwei Behindertensitze, vorhanden sein.
 - g. Für die Türdrücker innen für Personen im Rollstuhl gilt Artikel 9 Absatz 4 (3.9.1.2).
+- h.[^14-4] Für die Piktogramme für behinderte Personen gilt Artikel 5 Absatz 2 (3.2.8, 3.6.6, 3.7.2, 3.7.4, 3.10.9); Piktogramme für behinderte Personen vorne an der Beifahrerseite sind fakultativ (3.2.8, 3.6.6).
 
 <sup>3</sup> Für reine Halteanforderungstaster und die Türdrücker innen gilt Ziffer 7.7.9.1 des Anhangs 3 der Regelung Nr. 107 der UNECE. Zudem müssen Halteanforderungstaster und Türdrücker den Haltewunsch im Bedarfsfall im Fahrgastraum akustisch quittieren.
 
-<sup>4</sup> In Bussen sind Toiletten rollstuhlgängig und sehbehindertengerecht auszugestalten. Die Einhaltung der Abmessungen sowie eine Hilferufvorrichtung gemäss Verordnung (EU) Nr. 1300/2014[^14-4] sind nicht erforderlich, sofern die Benutzbarkeit durch Hilfestellung des Personals des Unternehmens gewährleistet ist. Die Toilettenschüssel muss für Personen im Rollstuhl soweit möglich in frontaler und seitlicher Anfahrt erreichbar sein.[^14-5]
+<sup>4</sup> In Bussen sind Toiletten rollstuhlgängig und sehbehindertengerecht auszugestalten. Die Einhaltung der Abmessungen sowie eine Hilferufvorrichtung gemäss Verordnung (EU) Nr. 1300/2014[^14-5] sind nicht erforderlich, sofern die Benutzbarkeit durch Hilfestellung des Personals des Unternehmens gewährleistet ist. Die Toilettenschüssel muss für Personen im Rollstuhl soweit möglich in frontaler und seitlicher Anfahrt erreichbar sein.[^14-6]
 
 [^14-1]: UNECE-Reglement Nr. 107 vom 7. Mai 1998 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen M2 und M3 hinsichtlich ihrer allgemeinen Konstruktionsmerkmale; zuletzt geändert durch Änderungsserie 07, Ergänzung 1, in Kraft seit 22. Juni 2017; Fassung gemäss ABl. L 52 vom 23.2.2018, S. 1.
 [^14-2]: Fassung gemäss Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
 [^14-3]: Fassung gemäss Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
-[^14-4]: Siehe Fussnote zu Art. 2 Abs. 2.
-[^14-5]: Eingefügt durch Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
+[^14-4]: Eingefügt durch Ziff. I der V des UVEK vom 29. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 199](https://fedlex.data.admin.ch/eli/oc/2024/199)).
+[^14-5]: Siehe Fussnote zu Art. 2 Abs. 2.
+[^14-6]: Eingefügt durch Ziff. I der V des UVEK vom 20. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3509](https://fedlex.data.admin.ch/eli/oc/2020/616)).
 
 #### Art. 15
 
@@ -330,7 +333,7 @@ Das Bundesamt für Verkehr überprüft periodisch, ob die Anforderungen dem Stan
 
 Die Verordnung des UVEK vom 22. Mai 2006[^21-1] über die technischen Anforderungen an die behindertengerechte Gestaltung des öffentlichen Verkehrs wird aufgehoben.
 
-[^21-1]: [[AS 2006 2309](https://fedlex.data.admin.ch/eli/oc/2006/354), [2010 1263](https://fedlex.data.admin.ch/eli/oc/2010/182), [2012 3411](https://fedlex.data.admin.ch/eli/oc/2012/381), [2014 559](https://fedlex.data.admin.ch/eli/oc/2014/116)]
+[^21-1]: [[AS 2006 2309](https://fedlex.data.admin.ch/eli/oc/2006/354); [2010 1263](https://fedlex.data.admin.ch/eli/oc/2010/182); [2012 3411](https://fedlex.data.admin.ch/eli/oc/2012/381); [2014 559](https://fedlex.data.admin.ch/eli/oc/2014/116)]
 
 #### Art. 22
 
