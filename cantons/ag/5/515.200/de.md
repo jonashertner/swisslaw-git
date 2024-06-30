@@ -4,13 +4,12 @@ number: "515.200"
 title: Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau
 short: "Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG"
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-27
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2006-07-04
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/515.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3354/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3747/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3354/pdf_file"
 
 (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG)
 
-Vom 04.07.2006 (Stand 01.01.2024)
+Vom 04.07.2006 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -118,7 +117,7 @@ beschliesst:
 
 <sup>2</sup> Es hat den Status einer kantonalen Zivilschutzorganisation und wird organisatorisch dem zuständigen Departement zugeordnet. Dieses ist für die Wahl der Kommandantin beziehungsweise des Kommandanten zuständig.
 
-<sup>3</sup> Die Aufwendungen für den Betrieb und den Unterhalt des KKE gehen zu Lasten des Kantons. Die Kosten der auf Gesuch Dritter geleisteten Einsätze können diesen in Rechnung gestellt werden. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+<sup>3</sup> Die Aufwendungen für den Betrieb und den Unterhalt des KKE gehen zu Lasten des Kantons. Die Kosten der auf Gesuch Dritter geleisteten Einsätze werden diesen in Rechnung gestellt.
 
 #### § 6
 
@@ -522,7 +521,7 @@ beschliesst:
 
 <sup>2</sup> Die für den Kulturgüterschutz zuständige kantonale Stelle erstellt die Verzeichnisse der zu schützenden Kulturgüter von nationaler und regionaler Bedeutung.
 
-<sup>3</sup> Die Eigentümerin oder der Eigentümer beziehungsweise die Besitzerin oder der Besitzer von Kulturgütern sind für deren Schutz und für die Vorsorgemassnahmen verantwortlich. Die Gemeinde stellt im Rahmen der Möglichkeiten und auf Antrag der verantwortlichen Person technische und personelle Mittel des Zivilschutzes für die Planung und Durchführung von Schutzmassnahmen zur Verfügung. Diese Dienstleistungen sind kostenlos, soweit sie im Rahmen eines ordentlichen Aufgebots des Zivilschutzes erfolgen.
+<sup>3</sup> Die Eigentümerin oder der Eigentümer beziehungsweise die Besitzerin oder der Besitzer von Kulturgütern ist für deren Schutz und für die Vorsorgemassnahmen verantwortlich. Die Gemeinde stellt im Rahmen der Möglichkeiten und auf Antrag der verantwortlichen Person technische und personelle Mittel des Zivilschutzes für die Planung und Durchführung von Schutzmassnahmen zur Verfügung. Diese Dienstleistungen sind unentgeltlich, soweit sie im Rahmen eines ordentlichen Aufgebots des Zivilschutzes erfolgen.
 
 <sup>4</sup> Die zuständige kantonale Stelle entscheidet über die Pflicht zur Ergreifung von baulichen und nichtbaulichen Schutzmassnahmen für unbewegliche und bewegliche Kulturgüter auf kantonaler und regionaler Ebene.
 
