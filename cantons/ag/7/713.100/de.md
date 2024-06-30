@@ -4,13 +4,13 @@ number: "713.100"
 title: Gesetz über Raumentwicklung und Bauwesen
 short: "Baugesetz, BauG"
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2021-06-15
+version: 2024-07-01
+valid_until: 2025-03-31
+version_adopted: 2023-09-19
 adopted: 1993-01-19
 in_force: 1994-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3107/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3464/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3107/pdf_file"
 
 (Baugesetz, BauG)[^t-1]
 
-Vom 19.01.1993 (Stand 01.01.2022)
+Vom 19.01.1993 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -312,6 +312,8 @@ beschliesst:
 <sup>1</sup> Der Gemeinderat legt die Entwürfe dem zuständigen Departement zur Vorprüfung vor. Der Regierungsrat bestimmt, welche weiteren Departemente und Amtsstellen einzubeziehen sind. Der Grosse Rat beschliesst durch Dekret, innert welcher Frist die Vorprüfung abgeschlossen sein muss.
 
 <sup>2</sup> Das zuständige Departement berät in Zusammenarbeit mit weiteren kantonalen Amtsstellen die Gemeinden bei der Nutzungsplanung.
+
+<sup>3</sup> Die Vorprüfung von freiwillig erstellten Gestaltungsplänen ist gebührenpflichtig.
 
 #### § 24
 
