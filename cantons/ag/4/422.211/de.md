@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-09-21
+version: 2024-07-01
+valid_until: 2024-09-30
+version_adopted: 2024-03-13
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3248/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +19,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3248/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.01.2023)
+Vom 07.11.2007 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 11 Abs. 3, 16 Abs. 2 und 4, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 45 Abs. 2, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2, 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2], § 4 Abs. 3 und § 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3] sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4])
+gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 11 Abs. 3, 16 Abs. 2 und 4, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 45 Abs. 2, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2 und 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 4 Abs. 3 und 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
 [^ingress-2]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
 [^ingress-3]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
-[^ingress-4]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -483,7 +482,7 @@ beschliesst:
 
 **Überwachung**
 
-<sup>1</sup> Die Prüfungsleitungen und Berufinspektorinnen beziehungsweise Berufsinspektoren haben Zutritt zu den Prüfungen.
+<sup>1</sup> Die Prüfungsleitungen und Berufsinspektorinnen beziehungsweise Berufsinspektoren haben Zutritt zu den Prüfungen.
 
 <sup>2</sup> Aus wichtigen Gründen, namentlich bei Befangenheit, kann die Abteilung für Berufsbildung und Mittelschule Expertinnen und Experten vom Einsatz bei den Qualifikationsverfahren ausschliessen.
 
@@ -544,19 +543,7 @@ beschliesst:
 
 #### § 46
 
-**Gebühren**
-
-<sup>1</sup> Gebühren werden für folgende staatlichen Tätigkeiten erhoben:
-
-- a) Aufnahme in einen Lehrgang zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) — Fr. 300.–
-- b) …
-- c) …
-- d) Prüfungswiederholung — Fr. 200.–
-- e) Prüfungswiederholung nach unbegründetem Fernbleiben von Qualifikationsverfahren — Fr. 400.–
-- f) …
-- g) Duplikate von eidgenössischen Berufsattesten, Fähigkeits- und Berufsmaturitätszeugnissen, Notenausweisen, Fachausweisen und Diplomen — Fr. 40.–
-- h) Validierung nicht formal erworbener Bildung — Fr. 300.–
-- i) …
+**…**
 
 #### § 47
 
@@ -564,9 +551,7 @@ beschliesst:
 
 #### § 48
 
-**Auslagen**
-
-<sup>1</sup> Berufslernende und Studierende haben die Auslagen, namentlich für Unterrichtsmaterial, Drucksachen, Modellmaterial, Lager, Projektwochen, Exkursionen und Transportkosten, selber zu tragen.
+**…**
 
 ### 4.2. Grundbildung und Vorbereitung auf die berufliche Grundbildung
 
