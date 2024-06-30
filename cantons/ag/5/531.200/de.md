@@ -4,13 +4,12 @@ number: "531.200"
 title: Gesetz über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeigesetz, PolG"
 language: de
-version: 2024-06-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-12
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3412/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3412/pdf_file"
 
 (Polizeigesetz, PolG)
 
-Vom 06.12.2005 (Stand 01.06.2024)
+Vom 06.12.2005 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -928,7 +927,7 @@ beschliesst:
 - c) fallbezogenes Einbeziehen von Expertinnen und Experten vorwiegend aus den Bereichen Staatsanwaltschaft, Polizei, Justizvollzug, Psychiatrie und Medizin, wobei diese über die durch sie bearbeiteten besonders schützenswerten Personendaten Verschwiegenheit zu wahren haben,
 - d) Informieren weiterer gefährdeter Drittpersonen, wenn deren Schutz nicht anderweitig sichergestellt werden kann. Besteht die Bedrohung am Arbeitsplatz und sind auch andere Mitarbeitende derselben Organisationseinheit gefährdet, erfolgt die Information gegenüber der direkt vorgesetzten Stelle, wobei diese über die durch sie bearbeiteten besonders schützenswerten Personendaten Verschwiegenheit zu wahren hat.
 
-<sup>3</sup> Der Regierungsrat regelt durch Verordnung die Zielgruppen, die erweiterte beratende und präventive Dienstleistungen in Anspruch nehmen können, und legt die Kostenpflicht fest.
+<sup>3</sup> Der Regierungsrat regelt durch Verordnung die Zielgruppen, die erweiterte beratende und präventive Dienstleistungen in Anspruch nehmen können, und kann dabei für diese die Unentgeltlichkeit festlegen.
 
 #### § 46b
 
@@ -1092,7 +1091,7 @@ beschliesst:
 
 <sup>3</sup> Die Bekanntgabe von polizeilichen Daten an Dritte ist zulässig, soweit dies der Erfüllung der Aufgabe dient und im erklärten oder, wenn eine Erklärung innert nützlicher Frist nicht eingeholt werden kann, vermuteten Interesse der betroffenen Personen ist.
 
-<sup>4</sup> Für die Bekanntgabe von polizeilichen Daten an Dritte kann ein Entgelt verlangt werden.
+<sup>4</sup> …
 
 #### § 51a
 
@@ -1154,7 +1153,7 @@ beschliesst:
 - c) der Störerin oder dem Störer bei Vorsatz oder Fahrlässigkeit,
 - d) der Gesuchstellerin oder dem Gesuchsteller für den Schutz von überwiegend privaten Interessen.
 
-<sup>2</sup> Der Umfang des Kostenersatzes entspricht in der Regel den Vollkosten des Aufwands. Der Regierungsrat legt die Ansätze für die kantonalen Gebühren durch Verordnung fest.
+<sup>2</sup> …
 
 <sup>3</sup> Für die kommunalen Gebühren erlassen die Gemeinden ein Reglement.
 
