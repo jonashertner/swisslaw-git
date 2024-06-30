@@ -4,13 +4,13 @@ number: "428.511"
 title: Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BeV"
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-10-26
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3264/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3264/pdf_file"
 
 (Betreuungsverordnung, BeV)
 
-Vom 08.11.2006 (Stand 01.01.2023)
+Vom 08.11.2006 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 2, 3 Abs. 3, 8 Abs. 3, 10 Abs. 2, 11 Abs. 1, 13, 17 Abs. 2, 17a Abs. 3, 19 Abs. 5, 21 Abs. 2, 22a Abs. 2, 23 Abs. 2<sup>bis</sup>, 24 Abs. 1<sup>bis</sup>, 25 Abs. 1, 1<sup>bis</sup>, 2 und 4, 27 Abs. 1, 1<sup>bis</sup>, 2 und 5, 29a Abs. 5, 29b Abs. 3, 32 Abs. 4, 32a Abs. 3, 33 Abs. 2 und 34 Abs. 2 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^ingress-1], § 18 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2], die §§ 28 Abs. 5 und 91 des Schulgesetzes vom 17. März 1981[^ingress-3], § 3 des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^ingress-4] sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-5],
+gestützt auf die §§ 2 Abs. 2, 3 Abs. 3, 8 Abs. 3, 10 Abs. 2, 11 Abs. 1, 13, 17 Abs. 2, 17a Abs. 3, 19 Abs. 5, 21 Abs. 2, 22a Abs. 2, 23 Abs. 2<sup>bis</sup>, 24 Abs. 1<sup>bis</sup>, 25 Abs. 1, 1<sup>bis</sup>, 2 und 4, 27 Abs. 1, 1<sup>bis</sup>, 2 und 5, 29a Abs. 5, 29b Abs. 3, 32 Abs. 4, 32a Abs. 3, 33 Abs. 2 und 34 Abs. 2 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^ingress-1], § 18 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2], die §§ 28 Abs. 5 und 91 des Schulgesetzes vom 17. März 1981[^ingress-3] sowie § 3 des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^ingress-4],
 
 beschliesst:
 
@@ -31,7 +31,6 @@ beschliesst:
 [^ingress-2]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
 [^ingress-3]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
 [^ingress-4]: SAR [831.100](https://gesetzessammlungen.ag.ch/data/831.100/de)
-[^ingress-5]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -373,11 +372,7 @@ beschliesst:
 
 #### § 26
 
-**Gebühren**
-
-<sup>1</sup> Das BKS erhebt für die Behandlung von Gesuchen um Erteilung der Betriebsbewilligung oder der Anerkennung eine Gebühr. Diese ist höchstens kostendeckend und beträgt pro Gesuch maximal Fr. 2'000.–. Wird die Anerkennung erteilt, entfällt die Gebühr.
-
-<sup>2</sup> Für die Überprüfungen vor Ort wird bei den Einrichtungen mit einer Betriebsbewilligung eine Gebühr erhoben. Diese ist höchstens kostendeckend und beträgt pro Überprüfung maximal Fr. 1'000.–.
+**…**
 
 ## 3.
 
