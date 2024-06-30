@@ -4,13 +4,13 @@ number: "922.100"
 title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-14
+version: 2024-07-01
+valid_until: 2025-06-30
+version_adopted: 2024-06-19
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3221/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3221/pdf_file"
 
 (ReKJSG)
 
-vom 16.06.2021 (Stand 01.07.2023)
+vom 16.06.2021 (Stand 01.07.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -29,7 +29,7 @@ eingesehen den Artikel 53 Absatz 2 des Jagdgesetzes vom 30. Januar 1991 (KJSG);
 
 auf Antrag des für die Jagd zuständigen Departements,
 
-beschliesst:[^ingress-1]
+verordnet:[^ingress-1]
 
 [^ingress-1]: In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
@@ -420,13 +420,15 @@ beschliesst:[^ingress-1]
 
 <sup>5<sup>bis</sup></sup> Während der 24 Stunden des erlaubten Jagdtages ist das Mitführen und Verwenden von optischen Geräten wie Nachtsichtgeräten und Wärmebildkameras, elektronischen Tonwiedergabegeräten zum Anlocken von Tieren, Elektroschockgeräten, künstlichen Lichtquellen, Spiegeln oder anderen blendenden Gegenstände sowie Infrarotsystemen, Laservisieren oder Nachtsichtzielgeräten und Kombinationen von Geräten mit ähnlichen Funktionen sowie unbemannten zivilen Luftfahrzeugen, insbesondere Drohnen, sowohl für den Jäger als auch für Begleitpersonen verboten.
 
-<sup>6</sup> Das Erstellen und Benutzen von Hochsitzen zu Jagdzwecken ist verboten.
+<sup>6</sup> Das Erstellen und/oder Benutzen von Hochsitzen zu Jagdzwecken ist verboten.
 
 <sup>7</sup> Während der Jagdausübung ist die Verwendung von Wildtierkameras (Fotofallen) verboten.
 
-<sup>8</sup> Das Erstellen und Benutzen von festen Ansitzposten zu Jagdzwecken ist verboten. Unter Vorbehalt gegenteiliger Bestimmungen, ist die Benutzung eines Jagdpostens im Innern eines Gebäudes und/oder das Schiessen aus dem Innern eines Gebäudes verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
+<sup>8</sup> Unter Vorbehalt gegeteiliger Bestimmungen, ist das Erstellen und/oder Benutzen von festen Ansitzposten zu Jagdzwecken verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
 
 <sup>9</sup> Das Mitführen und vorübergehende Aufstellen von Biwakzelten im freien Jagdgebiet ist gestattet. Vorbehalten bleiben andere diesbezügliche gesetzliche Bestimmungen (Forst, Raumplanung, Gemeindereglemente, usw.).
+
+<sup>10</sup> Unter Vorbehalt gegenteiliger Bestimmungen ist das Posten beziehen im Innern eines Gebäudes und/oder das Schiessen aus dem Innern eines Gebäudes verboten.
 
 #### Art. 33
 
@@ -540,7 +542,7 @@ beschliesst:[^ingress-1]
 
 **Geschütztes Wild**
 
-<sup>1</sup> Unter Vorbehalt ergänzender Bestimmungen im periodischen Beschluss oder Nachtrag sind folgende Tiere geschützt: das Muffelwild, melke Gäms- und Rehgeissen, melke Bachen, Gämskitze, das Murmeltierkätzchen, mit Ohrmarken markiertes Steinwild sowie sämtliches Wild, das einen Halsbandsender oder ein funktionell gleichartiges Gerät trägt.
+<sup>1</sup> Unter Vorbehalt ergänzender Bestimmungen im periodischen Beschluss oder Nachtrag sind folgende Tiere geschützt: das Muffelwild, melke Gäms- und Rehgeissen, melke Bachen, Gämskitze, mit Ohrmarken markiertes Steinwild sowie sämtliches Wild, das einen Halsbandsender oder ein funktionell gleichartiges Gerät trägt.
 
 #### Art. 44
 
@@ -603,7 +605,7 @@ beschliesst:[^ingress-1]
 
 **Meldepflichtiges Wild**
 
-<sup>1</sup> Alle Rothirsche, Rehe, Wildschweine und Gämsen müssen gemäss den im Beschluss oder Nachtrag enthaltenen Bestimmungen vorgezeigt werden.
+<sup>1</sup> Alle Rothirsche, Rehe, Wildschweine und Gämsen müssen gemäss den im periodischen Beschluss oder Nachtrag enthaltenen Bestimmungen vorgezeigt werden.
 
 <sup>2</sup> Im Rahmen der Tierseuchenprävention muss alles kranke oder tot aufgefundene Wild dem zuständigen Wildhüter gemeldet werden.
 
@@ -650,6 +652,8 @@ beschliesst:[^ingress-1]
 <sup>3</sup> Das Kontrollbüchlein gilt als Bestandteil des Patentes. Sein Verlust verpflichtet den Jäger, unverzüglich jegliche Jagd abzubrechen und bei der DJFW gegen eine Gebühr ein Duplikat zu besorgen. Das neue Kontrollbüchlein muss nachgeführt werden.
 
 <sup>4</sup> Nach Abschluss der Jagd ist das betreffende Kontrollbüchlein vom Jäger unterschrieben innert 10 Tagen der DJFW abzugeben. Nach erfolgloser Mahnung spricht die Verwaltungsbehörde eine Busse aus.
+
+<sup>5</sup> Diese Bestimmungen gelten nicht für das elektronische Kontrollbüchlein. Falls ein Jäger ein Wildtier erlegt hat, ist er verpflichtet, sobald er sich beim Tier befindet, vor dem Aufbrechen und vor dem Abtransport alle verlangten Angaben in sein elektronisches Kontrollbüchlein einzutragen.
 
 #### Art. 50
 
@@ -727,7 +731,7 @@ beschliesst:[^ingress-1]
 
 **Sonderbewilligung**
 
-<sup>1</sup> Der Staatsrat setzt in einem Beschluss die Tarife einer Sonderbewilligung für die Regulierung von Stein- und Gämswild fest. Die Verwaltungskosten und Entscheidgebühren sind in dem vom Staatsrat festgelegten Tarif über die jeweilige Regalgebühr, die für die Wildart gilt, bereits enthalten. Für den im Wallis wohnhaften Antragsteller gilt ein vom Staatsrat festgesetzter ermässigter Tarif.
+<sup>1</sup> Der Staatsrat setzt in einem Entscheid die Tarife einer Sonderbewilligung für die Regulierung von Steinwild fest. Die Verwaltungskosten und Entscheidgebühren sind in dem vom Staatsrat festgelegten Tarif über die jeweilige Regalgebühr, die für die Wildart gilt, bereits enthalten. Für den im Wallis wohnhaften Antragsteller gilt ein vom Staatsrat festgesetzter ermässigter Tarif.
 
 <sup>2</sup> Die DJFW ist berechtigt, den Abschusspreis des erlegten Tieres zu senken, wenn dieses Missbildungen oder andere Mängel aufweist.
 
@@ -826,5 +830,15 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2023 muss der Jäger, der 2022 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
 
 <sup>2</sup> Die Übergangsfrist für das Verwenden von Schrotpatronen mit einem Durchmesser von mehr als 4,5 Millimetern wird um ein Jahr verlängert. Das Verbot dieser Munition tritt mit der Jagderöffnung 2024-2025 in Kraft.
+
+## T3 Übergangsbestimmung der Änderung vom 19. Juni 2024
+
+#### Art. T3-1
+
+**Anpassungen der Bestimmungen und Übergangsbestimmungen**
+
+<sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2024 muss der Jäger, der 2023 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
+
+<sup>2</sup> Die Übergangsfrist für die Validierung der Mindestanforderungen an die von der DJFW anerkannten Fähigkeiten von Hunden gemäß den Bestimmungen von Artikel 33 dieser Verordnung wird um zwei Jahre verlängert. Die Umsetzung dieser Bestimmung tritt mit der Jagderöffnung 2026-2027 in Kraft.
 
 CSW RO/AGS 2021-075

@@ -4,13 +4,13 @@ number: "922.100"
 title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-14
+version: 2024-07-01
+valid_until: 2025-06-30
+version_adopted: 2024-06-19
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3221/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3476/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3221/pdf_file"
 
 (RexChP)
 
-du 16.06.2021 (état 01.07.2023)
+du 16.06.2021 (état 01.07.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -29,7 +29,7 @@ vu l'article 53 alinéa 2 de la loi sur la chasse et la protection des mammifèr
 
 sur la proposition du département en charge de la chasse,
 
-arrête:[^ingress-1]
+ordonne:[^ingress-1]
 
 [^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction, vise indifféremment l'homme ou la femme.
 
@@ -420,13 +420,15 @@ arrête:[^ingress-1]
 
 <sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à vision nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
 
-<sup>6</sup> La création ou l'utilisation de miradors à des fins de chasse est interdite.
+<sup>6</sup> La construction et/ou l'utilisation de miradors à des fins de chasse sont interdites.
 
 <sup>7</sup> Durant l'exercice de la chasse, l'utilisation de pièges photographiques est interdite.
 
-<sup>8</sup> La construction d'un poste fixe d'affût et son utilisation sont interdites. Sous réserve de dispositions contraires, il est interdit de prendre position et/ou de tirer depuis l’intérieur d’un bâtiment. Le chasseur peut aménager un poste provisoire pour autant qu'il se serve exclusivement des matériaux disponibles sur place (sans recours à des clous ou des vis). Une bâche peut être utilisée uniquement pour une fonction de couverture contre les précipitations météorologiques. L'aménagement d'un tel poste ne donne aucune exclusivité sur son utilisation. Par contre la responsabilité de la remise en état des lieux après la chasse revient au chasseur qui a aménagé le poste; les dispositions applicables en matière de police des constructions sont en outre réservées.
+<sup>8</sup> Sous réserve de dispositions contraires, la construction d'un poste fixe d'affût et/ou son utilisation sont interdites. Le chasseur peut aménager un poste provisoire pour autant qu'il se serve exclusivement des matériaux disponibles sur place (sans recours à des clous ou des vis). Une bâche peut être utilisée uniquement pour une fonction de couverture contre les précipitations météorologiques. L'aménagement d'un tel poste ne donne aucune exclusivité sur son utilisation. Par contre la responsabilité de la remise en état des lieux après la chasse revient au chasseur qui a aménagé le poste; les dispositions applicables en matière de police des constructions sont en outre réservées.
 
 <sup>9</sup> La mise en place et l'utilisation provisoires d'une tente de bivouac dans le terrain ouvert à la chasse sont autorisées, sous réserve du respect des autres exigences légales en la matière (forêt, aménagement du territoire, règlements communaux, etc.).
+
+<sup>10</sup> Sous réserve de dispositions contraires, il est interdit de prendre position à l'intérieur d'un bâtiment et/ou de tirer depuis l'intérieur d'un bâtiment.
 
 #### Art. 33
 
@@ -540,7 +542,7 @@ arrête:[^ingress-1]
 
 **Gibier protégé**
 
-<sup>1</sup> Sous réserve d'une disposition expresse dans l'arrêté périodique ou un avenant, les animaux suivants sont protégés: le mouflon, la chèvre de chamois allaitante, la chevrette allaitante et la laie allaitante, le cabri de chamois, la marmotte de l'année, les bouquetins munis d'une marque auriculaire, ainsi que le gibier portant un collier émetteur ou un dispositif similaire.
+<sup>1</sup> Sous réserve d'une disposition expresse dans l'arrêté périodique ou un avenant, les animaux suivants sont protégés: le mouflon, la chèvre de chamois allaitante, la chevrette allaitante et la laie allaitante, le cabri de chamois, les bouquetins munis d'une marque auriculaire, ainsi que le gibier portant un collier émetteur ou un dispositif similaire.
 
 #### Art. 44
 
@@ -651,6 +653,8 @@ arrête:[^ingress-1]
 
 <sup>4</sup> Le carnet signé par le chasseur doit être remis au SCPF dans les 10 jours qui suivent la fermeture de la chasse concernée. Sans réception de ce document après un rappel, l'autorité administrative prononce une sanction.
 
+<sup>5</sup> Ces dispositions ne s'appliquent pas au carnet de contrôle électronique. Le chasseur qui abat un gibier doit l'inscrire dans son carnet de contrôle électronique, avec tous les détails requis, dès qu'il se trouve près de l'animal abattu, avant toute manipulation et tout déplacement.
+
 #### Art. 50
 
 **Chats errants**
@@ -727,7 +731,7 @@ arrête:[^ingress-1]
 
 **Autorisation particulière**
 
-<sup>1</sup> Le Conseil d'Etat fixe, par arrêté, la taxe perçue pour la délivrance de l'autorisation particulière de réguler le bouquetin et le chamois. Les taxes fixées incluent un émolument régalien, les frais administratifs et de décision. Le chasseur résidant en Valais bénéficie d'un tarif réduit.
+<sup>1</sup> Le Conseil d'Etat fixe, par une décision, la taxe perçue pour la délivrance de l'autorisation particulière de réguler le bouquetin. Les taxes fixées incluent un émolument régalien, les frais administratifs et de décision. Le chasseur résidant en Valais bénéficie d'un tarif réduit.
 
 <sup>2</sup> Le SCPF est compétent pour réduire le montant de la taxe pour tenir compte des malformations et autres tares du gibier abattu.
 
@@ -828,5 +832,15 @@ arrête:[^ingress-1]
 <sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2023, le chasseur qui n’a pas fourni d’attestation en 2022, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse. Dès 2025, le chasseur doit fournir annuellement une attestation correspondant à l'année civile.
 
 <sup>2</sup> Le délai transitoire pour l'utilisation de la cartouche à grenaille d'un diamètre de plus 4,5 millimètres est repoussé d'une année. L'interdiction de cette munition est effective à l'ouverture de l'exercice de la chasse 2024-2025.
+
+## T3 Disposition transitoire de la modification du 19 juin 2024
+
+#### Art. T3-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2024, le chasseur qui n’a pas fourni d’attestation en 2023, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse. Dès 2025, le chasseur doit fournir annuellement une attestation correspondant à l'année civile.
+
+<sup>2</sup> Le délai transitoire pour la validation des exigences minimales en matière de compétences des chiens reconnues par le SCPF conformément aux dispositions de l'article 33 du présent règlement est repoussé de 2 ans. La mise en oeuvre de l'article 33 est effectif pour la saison de chasse 2026-2027.
 
 RCV RO/AGS 2021-075
