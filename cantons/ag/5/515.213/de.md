@@ -4,13 +4,12 @@ number: "515.213"
 title: Verordnung über die Schutzdienstleistung und Kontrollführung des Zivilschutzes im Kanton Aargau
 short: KV-ZS AG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-15
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2006-11-22
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/515.213"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3373/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3373/pdf_file"
 
 (KV-ZS AG)
 
-Vom 22.11.2006 (Stand 01.01.2024)
+Vom 22.11.2006 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 22 Abs. 2, 23 Abs. 4 und 24 Abs. 6 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1] und § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren[^ingress-2],
+gestützt auf die §§ 22 Abs. 2, 23 Abs. 4 und 24 Abs. 6 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [515.200](https://gesetzessammlungen.ag.ch/data/515.200/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeines
 
@@ -150,7 +148,7 @@ beschliesst:
 
 <sup>3</sup> Die Inhaber eines Dienstbüchleins haben dessen Verlust oder Beschädigung spätestens 14 Tage nach der Feststellung dem Kreiskommando oder der ZSSt zu melden.
 
-<sup>4</sup> Für die Erstellung eines Duplikates wird eine Gebühr von Fr. 200.– erhoben.
+<sup>4</sup> …
 
 <sup>5</sup> Zur Erfüllung ihrer Aufgaben dürfen das Dienstbüchlein einverlangen, darin Einsicht nehmen oder sich daraus Daten bekannt geben lassen:
 
