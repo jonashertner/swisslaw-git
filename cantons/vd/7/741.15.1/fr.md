@@ -4,7 +4,7 @@ number: "741.15.1"
 title: RÈGLEMENT du 16.11.2016 sur les émoluments perçus par le Service des automobiles et de la navigation (RE-SAN)
 short: RE-SAN
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.15.1?id=a98c496b-c044-447f-9229-6303629369f0"
 ---
 
@@ -622,6 +622,6 @@ Annexes [^39-1]
 
 1
 
-[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2024)
+[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.07.2024)
 
 [^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
