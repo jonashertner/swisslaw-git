@@ -4,13 +4,13 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-01-18
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-12
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3255/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3255/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.01.2023)
+Vom 19.12.1978 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -136,6 +136,8 @@ beschliesst:
 
 <sup>2</sup> Die bisherigen Bürgerrechte werden durch dasjenige der aus dem Zusammenschluss hervorgehenden Gemeinde ersetzt. Bei Vereinigung einer Ortsbürgergemeinde mit der betreffenden Einwohnergemeinde entfällt das bisherige Ortsbürgerrecht.
 
+<sup>2<sup>bis</sup></sup> Die durch den Zusammenschluss betroffenen Gemeindebürgerinnen und -bürger können innert zwei Jahren nach Inkrafttreten des Zusammenschlusses beim zuständigen Regionalen Zivilstandsamt gegen Gebühr die Anführung ihres bisherigen Gemeindebürgerrechts als Klammerzusatz zum geltenden Gemeindebürgerrecht beantragen.
+
 <sup>3</sup> Der Grosse Rat kann über den Zusammenschluss von Einwohnergemeinden sowie von Ortsbürgergemeinden mit Einwohnergemeinden Ausführungsbestimmungen erlassen.
 
 #### § 8a
@@ -183,7 +185,9 @@ beschliesst:
 
 <sup>1</sup> Bei der Neuzuteilung von Gemeindegebieten und der Bildung neuer Gemeinden erfolgt eine Verteilung des Vermögens und der Schulden unter besonderer Berücksichtigung der Bedürfnisse und der Steuerkraft der einzelnen Gebiete. Können sich die Gemeinden über die Verteilung nicht einigen, entscheidet das Verwaltungsgericht endgültig.
 
-<sup>2</sup> Die Neueinteilung von Gemeindegebieten und die Bildung neuer Gemeinden bewirkt, dass die betroffenen Gemeindebürger das Bürgerrecht der übernehmenden, beziehungsweise der neuen Gemeinde erhalten. Ihre bisherigen Ortsbürgerrechte bleiben unberührt.
+<sup>2</sup> Die Neueinteilung von Gemeindegebieten und die Bildung neuer Gemeinden bewirkt, dass die betroffenen Gemeindebürgerinnen und -bürger das Bürgerrecht der übernehmenden beziehungsweise der neuen Gemeinde erhalten. Ihre bisherigen Ortsbürgerrechte bleiben unberührt.
+
+<sup>3</sup> Die durch Umgemeindung oder Bildung einer neuen Gemeinde betroffenen Gemeindebürgerinnen und -bürger können innert zwei Jahren nach Inkrafttreten der Umgemeindung oder der Bildung einer neuen Gemeinde beim zuständigen Regionalen Zivilstandsamt gegen Gebühr die Anführung ihres bisherigen Gemeindebürgerrechts als Klammerzusatz zum geltenden Gemeindebürgerrecht beantragen.
 
 #### § 12
 
@@ -1860,6 +1864,12 @@ beschliesst:
 <sup>1</sup> § 8a Abs. 2 findet auf Gemeindezusammenschlüsse Anwendung, die am 1. Januar 2012 oder später in Kraft treten.
 
 <sup>2</sup> § 8b findet auf Gemeindezusammenschlüsse Anwendung, die am 1. Januar 2012 oder später in Kraft treten.
+
+#### § 121
+
+**VIII. Übergangsbestimmung zur Änderung vom 12. September 2023**
+
+<sup>1</sup> Betroffene Gemeindebürgerinnen und -bürger können innert zwei Jahren nach Inkrafttreten der Änderung beim zuständigen Regionalen Zivilstandsamt gegen Gebühr die Anführung ihres bisherigen, durch Gemeindezusammenschluss, Umgemeindung oder Bildung einer neuen Gemeinde ersetzten Gemeindebürgerrechts als Klammerzusatz zum geltenden Gemeindebürgerrecht beantragen, wenn der Gemeindezusammenschluss, die Umgemeindung oder die Bildung einer neuen Gemeinde am 1. Januar 2002 oder später in Kraft getreten ist.
 
 Aarau, den 19. Dezember 1978
 
