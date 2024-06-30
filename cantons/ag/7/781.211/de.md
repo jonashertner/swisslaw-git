@@ -4,13 +4,13 @@ number: "781.211"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: V EG UWR
 language: de
-version: 2019-05-01
-valid_until: 2024-06-30
-version_adopted: 2019-03-20
+version: 2024-07-01
+valid_until: 2025-08-29
+version_adopted: 2024-03-13
 adopted: 2008-05-14
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3202/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3202/pdf_file"
 
 (V EG UWR)
 
-Vom 14.05.2008 (Stand 01.05.2019)
+Vom 14.05.2008 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -464,7 +464,7 @@ beschliesst:
 
 <sup>2</sup> Sie vollzieht diese Aufgabe in Absprache mit und nach den Weisungen der Fachstelle.
 
-<sup>3</sup> Für Kontrollen betreffend den Einsatz von Stickstoff- und Phosphorreduziertem Futter (NPR-Futter) wird von Tierhalterinnen und Tierhaltern pro Jahr je nach Aufwand eine Gebühr in Höhe von Fr. 60.– bis Fr. 100.– erhoben. Bei verspätet eingereichten Anmeldungen oder Unterlagen und bei anderen besonderen Aufwendungen wird die Gebühr je nach zusätzlichem Aufwand um Fr. 100.– bis Fr. 200.– erhöht.
+<sup>3</sup> …
 
 #### § 40
 
