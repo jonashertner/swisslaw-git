@@ -4,13 +4,13 @@ number: "253.112"
 title: Verordnung über den Vollzug von Strafen und Massnahmen
 short: "Strafvollzugsverordnung, SMV"
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-09-23
+version: 2024-07-01
+valid_until: 2026-04-30
+version_adopted: 2024-03-13
 adopted: 2020-09-23
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/253.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2917/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +19,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2917/pdf_file"
 
 (Strafvollzugsverordnung, SMV)
 
-Vom 23.09.2020 (Stand 01.01.2021)
+Vom 23.09.2020 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 9 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1], die §§ 14 Abs. 2 und 4, 22 Abs. 3, 32 Abs. 1, 46 Abs. 1, 48 Abs. 2, 49 Abs. 2, 51 Abs. 3 und 55 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-2], § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-3] sowie § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4],
+gestützt auf § 9 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1], die §§ 14 Abs. 2 und 4, 22 Abs. 3, 32 Abs. 1, 46 Abs. 1, 48 Abs. 2, 49 Abs. 2, 51 Abs. 3 und 55 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-2] sowie § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
 [^ingress-2]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
 [^ingress-3]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
-[^ingress-4]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Geltungsbereich
 
@@ -1016,13 +1015,7 @@ beschliesst:
 
 #### § 94
 
-**1. Gebühren**
-
-<sup>1</sup> Für die Behandlung eines Gesuchs um Gewährung gemeinnütziger Arbeit, der elektronischen Überwachung, des tageweisen Vollzugs oder der Halbgefangenschaft und für die Abbruchverfügungen werden nach Aufwand Gebühren von Fr. 50.– bis Fr. 250.– erhoben.
-
-<sup>2</sup> Auf begründetes Gesuch hin kann die Gebühr bis auf Fr. 20.– reduziert werden.
-
-<sup>3</sup> Wird das Gesuch zurückgezogen oder gegenstandslos, kann die Gebühr, wenn die Umstände es rechtfertigen, ganz oder teilweise erlassen werden.
+**…**
 
 #### § 95
 
@@ -1070,7 +1063,7 @@ beschliesst:
 
 <sup>5</sup> Den Kostenanteil beim Arbeitsexternat und Arbeits- und Wohnexternat legt das AJV gemäss der wirtschaftlichen Leistungsfähigkeit der verurteilten Person fest.
 
-<sup>6</sup> Die festgelegte Kostenpauschale und die Behandlungsgebühr sind vor Strafantritt zu bezahlen.
+<sup>6</sup> Die festgelegte Kostenpauschale ist vor Strafantritt zu bezahlen.
 
 #### § 98
 
