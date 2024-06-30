@@ -4,11 +4,11 @@ title: "Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ord
 short: OSites
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: fr
-version: 2017-05-01
+version: 2024-07-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20170501-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/fr"
 
 (Ordonnance sur les sites contaminés, OSites[^t-1])
 
-du 26 août 1998 (État le 1<sup>er</sup> mai 2017)
+du 26 août 1998 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: [RO 1998 2828](https://fedlex.data.admin.ch/eli/oc/1998/2828_2828_2828)
 
@@ -70,7 +70,7 @@ On entend par *sites pollués* les emplacements d’une étendue limitée pollu�
 
 Les sites pollués ne peuvent être modifiés par la création ou la transformation de constructions et d’installations que:
 
-- a. s’ils ne nécessitent pas d’assainissement et si le projet n’engendre pas de besoin d’assainissement; ou
+- a. s’ils ne nécessitent pas d’assainissement et si le projet n’engendre pas de besoin d’assainissement, ou
 - b. si le projet n’entrave pas de manière considérable l’assainissement ultérieur des sites ou si ces derniers, dans la mesure où ils sont modifiés par le projet, sont assainis en même temps.
 
 #### Art. 4
@@ -83,11 +83,11 @@ Les mesures d’investigation, de surveillance et d’assainissement prises en v
 
 #### Art. 5
 
-**Etablissement du cadastre**
+**Établissement du cadastre**
 
 <sup>1</sup> L’autorité recense les sites pollués en dépouillant les données disponibles telles que cartes, inventaires et informations. Elle peut demander des renseignements aux détenteurs des sites ou à des tiers.
 
-<sup>2</sup> Elle communique au détenteur les données qu’elle prévoit d’inscrire au cadastre et lui donne la possibilité de se prononcer et de fournir des éclaircissements. A la demande du détenteur, elle rend une décision en constatation.
+<sup>2</sup> Elle communique au détenteur les données qu’elle prévoit d’inscrire au cadastre et lui donne la possibilité de se prononcer et de fournir des éclaircissements. À la demande du détenteur, elle rend une décision en constatation.
 
 <sup>3</sup>
 
@@ -135,7 +135,7 @@ Elle supprime l’inscription d’un site pollué au cadastre:
 
 L’autorité tient compte du cadastre lors de l’établissement des plans directeurs et des plans d’affectation.
 
-[^6a-1]: Introduit par le ch. 9 de l’annexe 6 à l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^6a-1]: Introduit par l’annexe 6 ch. 9 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 ## Section 3 Besoins de surveillance et d’assainissement
 
@@ -179,7 +179,7 @@ Elle mentionne dans le cadastre que le site pollué:
 Un site pollué nécessite une surveillance du point de vue de la protection des eaux souterraines, sous réserve de l’al. 1<sup>bis</sup>:
 
 - a. si le lixiviat des matériaux présents sur le site dépasse la valeur de concentration mentionnée à l’annexe 1;
-- b. si, dans les eaux souterraines situées dans le secteur A<sub>u</sub> de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, 10 % de la valeur de concentration mentionnée à l’annexe 1; ou
+- b. si, dans les eaux souterraines situées dans le secteur A<sub>u</sub> de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, 10 % de la valeur de concentration mentionnée à l’annexe 1, ou
 - c. si, dans les eaux souterraines situées hors du secteur A<sub>u</sub> de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, 40 % de la valeur de concentration mentionnée à l’annexe 1.[^9-1]
 
 <sup>1bis</sup> Si une surveillance de plusieurs années révèle que, en raison des caractéristiques du site et de l’évolution des concentrations de polluants au cours du temps, le site ne nécessitera très probablement pas d’assainissement selon l’al. 2, la surveillance du site n’est plus nécessaire.[^9-2]
@@ -190,15 +190,15 @@ Un site pollué nécessite un assainissement du point de vue de la protection de
 
 - a.[^9-3] si, dans les captages d’eaux souterraines destinés à l’usage public, on constate la présence, dans des concentrations dépassant le seuil de quantification, de substances provenant du site susceptibles de polluer les eaux;
 - b.[^9-4] si, dans les eaux souterraines situées dans le secteur A<sub>u</sub>[^9-5] de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, la moitié de la valeur de concentration mentionnée dans l’annexe 1;
-- c.[^9-6] si, dans les eaux souterraines situées hors du secteur A<sub>u</sub> de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, le double de la valeur de concentration mentionnée dans l’annexe 1; ou
+- c.[^9-6] si, dans les eaux souterraines situées hors du secteur A<sub>u</sub> de protection des eaux, la concentration des substances s’écoulant du site dépasse, en aval à proximité du site, le double de la valeur de concentration mentionnée dans l’annexe 1, ou
 - d. si, selon l’al. 1, let. a, le site nécessite une surveillance et qu’il présente un danger concret de pollution des eaux souterraines en raison d’une rétention ou d’une dégradation insuffisante des substances provenant du site.
 
-[^9-1]: Nouvelle teneur selon le ch. I à l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
-[^9-2]: Introduit par le ch. I à l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
+[^9-2]: Introduit par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^9-4]: Nouvelle teneur selon le ch. 5 de l’annexe 5 à l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
-[^9-5]: Conformément à l’art. 29 al. 1 let. a à l’O du 28 oct. 1998 sur la protection des eaux ([RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
-[^9-6]: Nouvelle teneur selon le ch. 5 de l’annexe 5 à l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-4]: Nouvelle teneur selon le ch. 5 de l’annexe 5 de l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-5]: Conformément à l’art. 29 al. 1 let. a de l’O du 28 oct. 1998 sur la protection des eaux ([RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
+[^9-6]: Nouvelle teneur selon le l’annexe 5 ch. 5 de l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
 
@@ -208,7 +208,7 @@ Un site pollué nécessite un assainissement du point de vue de la protection de
 
 Un site pollué nécessite une surveillance du point de vue de la protection des eaux de surface, sous réserve de l’al. 1<sup>bis</sup>:[^10-1]
 
-- a. si le lixiviat des matériaux présents sur le site, susceptible de porter atteinte à des eaux de surface, dépasse la valeur de concentration mentionnée à l’annexe 1; ou
+- a. si le lixiviat des matériaux présents sur le site, susceptible de porter atteinte à des eaux de surface, dépasse la valeur de concentration mentionnée à l’annexe 1, ou
 - b. si, dans l’eau qui s’écoule dans des eaux de surface, la concentration des substances provenant du site dépasse la valeur de concentration mentionnée à l’annexe 1.
 
 <sup>1bis</sup> Si une surveillance de plusieurs années révèle que, en raison des caractéristiques du site et de l’évolution des concentrations de polluants au cours du temps, le site ne nécessitera très probablement pas d’assainissement selon l’al. 2, la surveillance du site n’est plus nécessaire.[^10-2]
@@ -217,11 +217,11 @@ Un site pollué nécessite une surveillance du point de vue de la protection des
 
 Un site pollué nécessite un assainissement du point de vue de la protection des eaux de surface:
 
-- a. si, dans l’eau qui s’écoule dans des eaux de surface, la concentration des substances provenant du site dépasse dix fois la valeur de concentration mentionnée à l’annexe 1; ou
+- a. si, dans l’eau qui s’écoule dans des eaux de surface, la concentration des substances provenant du site dépasse dix fois la valeur de concentration mentionnée à l’annexe 1, ou
 - b. si, selon l’al. 1, let. a, le site nécessite une surveillance et qu’il présente un danger concret de pollution des eaux de surface en raison d’une rétention ou d’une dégradation insuffisante des substances provenant du site.
 
-[^10-1]: Nouvelle teneur selon le ch. I à l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
-[^10-2]: Introduit par le ch. I à l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
+[^10-2]: Introduit par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 
 #### Art. 11
 
@@ -241,7 +241,7 @@ Un site pollué nécessite un assainissement du point de vue de la protection de
 
 <sup>2</sup> Les sols qui ne nécessitent pas un assainissement au sens de l’al. 1, même s’ils constituent un site pollué ou une partie de site pollué, et les atteintes portées aux sols par les sites pollués sont évalués selon l’ordonnance du 1<sup>er</sup> juillet 1998 sur les atteintes portées aux sols[^12-2].
 
-[^12-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^12-2]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
 
 #### Art. 13
@@ -257,7 +257,7 @@ Si un site pollué nécessite un assainissement (site contaminé), l’autorité
 - a. qu’une investigation de détail soit effectuée dans un délai approprié;
 - b. que le site soit surveillé jusqu’à la fin de l’assainissement.
 
-[^13-1]: Nouvelle teneur selon le ch. I à l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 
 ## Section 4 Buts et urgence de l’assainissement
 
@@ -286,7 +286,7 @@ Pour apprécier les buts et l’urgence de l’assainissement, les données suiv
 Quand l’assainissement vise à protéger les eaux souterraines, on s’écartera de ce but:
 
 - a. si, ce faisant, on réduit globalement la pollution de l’environnement;
-- b. si cela permet d’éviter des coûts disproportionnés; et
+- b. si cela permet d’éviter des coûts disproportionnés, et
 - c.[^15-1] si l’utilisation des eaux souterraines situées dans le secteur A<sub>u</sub> de protection des eaux est garantie ou si les eaux de surface en liaison hydraulique avec les eaux souterraines situées hors du secteur A<sub>u</sub> de protection des eaux satisfont aux exigences relatives à la qualité des eaux formulées dans la législation sur la protection des eaux.
 
 <sup>3</sup>
@@ -294,14 +294,14 @@ Quand l’assainissement vise à protéger les eaux souterraines, on s’écarte
 Quand l’assainissement vise à protéger les eaux de surface, on s’écartera du but:
 
 - a. si, ce faisant, on réduit globalement la pollution de l’environnement;
-- b. si cela permet d’éviter des coûts disproportionnés; et
+- b. si cela permet d’éviter des coûts disproportionnés, et
 - c. si les eaux satisfont aux exigences relatives à la qualité des eaux formulées dans la législation sur la protection des eaux.
 
 <sup>4</sup> Les assainissements sont particulièrement urgents lorsqu’une utilisation existante est entravée ou directement menacée.
 
 <sup>5</sup> Sur la base de l’investigation de détail, l’autorité évalue les buts et l’urgence de l’assainissement.
 
-[^15-1]: Nouvelle teneur selon le ch. 5 de l’annexe 5 à l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^15-1]: Nouvelle teneur selon le l’annexe 5 ch. 5 de l’O du 28 oct. 1998 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 ## Section 5 Assainissement
 
@@ -313,12 +313,12 @@ Quand l’assainissement vise à protéger les eaux de surface, on s’écartera
 
 Le but de l’assainissement doit être atteint par des mesures qui permettent:
 
-- a. d’éliminer les substances dangereuses pour l’environnement (décontamination); ou
+- a. d’éliminer les substances dangereuses pour l’environnement (décontamination), ou
 - b. d’empêcher et de surveiller durablement la dissémination des substances dangereuses dans l’environnement (confinement).
 
 <sup>2</sup> …[^16-2]
 
-[^16-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^16-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^16-2]: Abrogé par le ch. I de l’O du 22 mars 2017, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 #### Art. 17
@@ -356,13 +356,24 @@ Se basant sur l’évaluation, elle rend une décision fixant en particulier:
 - b. les mesures d’assainissement, le suivi ainsi que les délais à respecter;
 - c. les autres charges et conditions à remplir pour la protection de l’environnement.
 
+<sup>3</sup>
+
+Dans des cas exceptionnels, elle peut, avec l’accord de l’Office fédéral de l’environnement (OFEV), approuver la remise en place de matériaux d’excavation pollués qui ne remplissent pas les exigences de valorisation visées à l’art. 19 de l’ordonnance du 4 décembre 2015 sur les déchets[^18-1] sur le site d’où proviennent ces matériaux:
+
+- a. si, ce faisant, on réduit globalement la pollution de l’environnement;
+- b. s’il est prouvé que les matériaux d’excavation remis en place n’engendrent pas d’atteintes nuisibles ou incommodantes et qu’il n’existe pas de danger concret que de telles atteintes apparaissent, et
+- c. si le site est surveillé à long terme.[^18-2]
+
+[^18-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-2]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
+
 #### Art. 19
 
 **Suivi**[^19-1]
 
 Les personnes tenues d’assainir le site doivent informer l’autorité des mesures d’assainissement prises et prouver que les objectifs de l’assainissement ont été atteints. L’autorité prend position.
 
-[^19-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^19-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 
 ## Section 6 Obligation de prendre des mesures d’investigation, de surveillance et d’assainissement
 
@@ -384,24 +395,25 @@ Les personnes tenues d’assainir le site doivent informer l’autorité des mes
 
 <sup>1bis</sup> L’OFEV évalue les données et informe régulièrement le public sur l’état de la gestion des sites contaminés.[^21-4]
 
-<sup>2</sup> Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. La collaboration de l’office et des cantons est régie par l’art. 41, al. 2 et 4, LPE; les dispositions légales sur l’obligation de garder le secret sont réservées. Lorsque les autorités fédérales renoncent à rendre une décision pour fixer des mesures d’assainissement (art. 23, al. 3), elles consultent les cantons concernés au sujet des mesures prévues.[^21-5]
+<sup>2</sup> Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. La collaboration de l’OFEV[^21-5] et des cantons est régie par l’art. 41, al. 2 et 4, LPE; les dispositions légales sur l’obligation de garder le secret sont réservées. Lorsque les autorités fédérales renoncent à rendre une décision pour fixer des mesures d’assainissement (art. 23, al. 3), elles consultent les cantons concernés au sujet des mesures prévues.[^21-6]
 
-<sup>3</sup> Les autorités fédérales définissent la marche à suivre pour le classement des sites pollués (art. 5, al. 4), l’établissement d’une liste de priorités (art. 5, al. 5) et la suppression d’une inscription au cadastre (art. 6, al. 2).[^21-6]
+<sup>3</sup> Les autorités fédérales définissent la marche à suivre pour le classement des sites pollués (art. 5, al. 4), l’établissement d’une liste de priorités (art. 5, al. 5) et la suppression d’une inscription au cadastre (art. 6, al. 2).[^21-7]
 
 <sup>4</sup> Elles renseignent régulièrement les cantons concernés sur les indications figurant dans le cadastre (art. 5 et 6). Ceux-ci inscrivent dans leur cadastre une annotation renvoyant aux sites pollués correspondants.
 
-[^21-1]: Nouvelle teneur selon le ch. II 16 à l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Nouvelle teneur selon le ch. II 16 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^21-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^21-3]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-4]: Introduit par le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-5]: Nouvelle teneur selon le ch. I 2 à l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^21-6]: Nouvelle teneur selon le ch. I 2 à l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-3]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^21-4]: Introduit par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^21-5]: Nouvelle expression selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)). Il a été tenu compte de cette mod. dans tout le texte.
+[^21-6]: Nouvelle teneur selon le ch. I 2 de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-7]: Nouvelle teneur selon le ch. I 2 de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
 
 #### Art. 22
 
 [^22-1]
 
-[^22-1]: Abrogé par le ch. II 16 à l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^22-1]: Abrogé par le ch. II 16 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 23
 
@@ -409,7 +421,7 @@ Les personnes tenues d’assainir le site doivent informer l’autorité des mes
 
 <sup>1</sup> Pour l’exécution de la présente ordonnance, les autorités collaborent avec les personnes directement concernées. Elles examinent en particulier l’opportunité d’appliquer, pour l’exécution de la présente ordonnance, les mesures prévues dans les accords conclus de plein gré par les secteurs économiques.
 
-<sup>2</sup> Les autorités s’attachent à s’entendre avec les personnes directement concernées sur les évaluations à effectuer et sur les mesures à prendre pour satisfaire aux exigences de la présente ordonnance. A cet effet, elles consultent le plus tôt possible les personnes directement concernées.
+<sup>2</sup> Les autorités s’attachent à s’entendre avec les personnes directement concernées sur les évaluations à effectuer et sur les mesures à prendre pour satisfaire aux exigences de la présente ordonnance. À cet effet, elles consultent le plus tôt possible les personnes directement concernées.
 
 <sup>3</sup> Elles peuvent renoncer à rendre des décisions si l’exécution des mesures d’investigation, de surveillance et d’assainissement requises est assurée d’une autre manière.
 
@@ -428,15 +440,15 @@ Il peut être dérogé à la procédure régie par la présente ordonnance lorsq
 
 **Directives**
 
-Pour élaborer des directives concernant l’application de la présente ordonnance, l’office collabore avec les cantons et les organisations économiques concernées.
+Pour élaborer des directives concernant l’application de la présente ordonnance, l’OFEV collabore avec les cantons et les organisations économiques concernées.
 
 #### Art. 25a
 
 **Géoinformation**[^25a-1]
 
-L’office prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^25a-2].
+L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^25a-2].
 
-[^25a-1]: Introduit par le ch. 11 de l’annexe 2 à l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^25a-1]: Introduit par l’annexe 2 ch. 11 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^25a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 26
@@ -465,7 +477,7 @@ Annexe 1[^t-2]
 
 ## Valeurs de concentration pour l’évaluation des atteintes portées aux eaux par les sites pollués
 
-[^t-2]: Mise à jour selon le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), le ch. II des O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-2]: Mise à jour par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), le ch. II des O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 <sup>1</sup> Pour évaluer les atteintes portées aux eaux par les sites pollués, on se basera sur les valeurs de concentration indiquées dans le tableau ci-après. Si aucune valeur de concentration n’a été déterminée pour certaines substances pouvant polluer les eaux et se trouvant sur un site, l’autorité fixe les valeurs requises au cas par cas en accord avec l’OFEV, selon les prescriptions de la législation sur la protection des eaux.
 
@@ -481,7 +493,7 @@ Annexe 1[^t-2]
 
 <sup>5</sup> Il est possible de renoncer à une analyse du lixiviat selon l’al. 2 lorsque l’on peut constater, sur la base d’autres indications telles que la composition ou la provenance des matériaux présents sur le site, les paramètres totaux, les analyses écotoxicologiques ou les déductions mathématiques à partir des teneurs globales, que la valeur de concentration a été dépassée ou non.
 
-<sup>6</sup> L’office édicte des directives sur le prélèvement d’échantillons, la préparation des lixiviats et leur analyse ainsi que sur l’évaluation des atteintes par des substances volatiles.
+<sup>6</sup> L’OFEV édicte des directives sur le prélèvement d’échantillons, la préparation des lixiviats et leur analyse ainsi que sur l’évaluation des atteintes par des substances volatiles.
 
 <table>
 <tr><th>Substance</th><th>Valeur de concentration</th></tr>
@@ -497,7 +509,7 @@ Annexe 1[^t-2]
 <tr><td>Mercure</td><td>0,001 mg Hg/l</td></tr>
 <tr><td>Argent</td><td>0,1 mg Ag/l</td></tr>
 <tr><td>Zinc</td><td>5 mg Zn/l</td></tr>
-<tr><td>Etain</td><td>20 mg Sn/l</td></tr>
+<tr><td>Étain</td><td>20 mg Sn/l</td></tr>
 <tr><td>Ammonium\*\*</td><td>0,5 mg NH4+/l</td></tr>
 <tr><td>Cyanure (libre)</td><td>0,05 mg CN<sup>-</sup>/l</td></tr>
 <tr><td>Fluorure</td><td>1,5 mg F<sup>-</sup>/l</td></tr>
@@ -561,7 +573,7 @@ Annexe 1[^t-2]
 <tr><td>– Indéno(1,2,3-cd)pyrène</td><td>0,5 µg/l <sup>c</sup></td></tr>
 <tr><td>– Naphtalène</td><td>1 mg/l</td></tr>
 <tr><td>– Pyrène</td><td>1 mg/l <sup>c</sup></td></tr>
-<tr><td colspan="2"><sup>a.</sup> Seuil de quantification <sup>b.</sup> PCB: la somme des 6 isomères 28, 52, 101, 138, 153 et 180 multipliée par 4.3 ne doit pas dépasser la valeur de concentration. <sup>c.</sup> En principe indécelable dans le lixiviat à de telles concentrations. \* Evalué selon l’al. 4 \*\* Ne s’ applique qu’aux eaux de surface.</td></tr>
+<tr><td colspan="2"><sup>a.</sup> Seuil de quantification <sup>b.</sup> PCB: la somme des 6 isomères 28, 52, 101, 138, 153 et 180 multipliée par 4.3 ne doit pas dépasser la valeur de concentration. <sup>c.</sup> En principe indécelable dans le lixiviat à de telles concentrations. \* Évalué selon l’al. 4 \*\* Ne s’ applique qu’aux eaux de surface.</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: Signalées par un \* dans le tableau.
@@ -581,7 +593,7 @@ Annexe 2
 
 <sup>3</sup> Il est possible de renoncer au prélèvement d’air interstitiel si l’on dispose d’une autre preuve que les valeurs de concentration dans l’air interstitiel ne peuvent pas être dépassées, notamment si l’on connaît exactement la composition et la provenance des matériaux présents sur le site.
 
-<sup>4</sup> L’office édicte des directives sur le prélèvement d’échantillons et l’analyse de l’air interstitiel.
+<sup>4</sup> L’OFEV édicte des directives sur le prélèvement d’échantillons et l’analyse de l’air interstitiel.
 
 <table>
 <tr><th>Substance</th><th>Valeur de concentration</th></tr>
@@ -626,7 +638,7 @@ Annexe 3[^t-3]
 
 ## Valeurs de concentration pour l’évaluation du besoin d’assainissement de sols
 
-[^t-3]: Introduite par le ch. II 2 de l’annexe à l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Mise à jour par le ch. II à l’O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et le ch. I à l’O du 14 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-3]: Introduite par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Mise à jour par le ch. II de l’O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et le ch. I de l’O du 14 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
 
 Pour évaluer le besoin d’assainissement de sols, on se basera sur les valeurs de concentration indiquées dans les tableaux ci-après. Si aucune valeur de concentration n’a été déterminée pour certaines substances pouvant polluer les sols et se trouvant sur un site, l’autorité fixe les valeurs requises au cas par cas en accord avec l’OFEV, selon les prescriptions de la législation sur la protection de l’environnement.
 

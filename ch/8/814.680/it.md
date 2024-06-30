@@ -4,11 +4,11 @@ title: "Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinan
 short: OSiti
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: it
-version: 2017-05-01
+version: 2024-07-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20170501-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/it"
 
 (Ordinanza sui siti contaminati, OSiti)
 
-del 26 agosto 1998 (Stato 1° maggio 2017)
+del 26 agosto 1998 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -133,7 +133,7 @@ Stralcia l’iscrizione di un sito nel catasto se:
 
 Nei suoi piani direttori e di utilizzazione l’autorità tiene conto del catasto.
 
-[^6a-1]: Introdotto dal n. 9 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
+[^6a-1]: Introdotto dall’all. 6 n. 9 all’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
 
 ## Sezione 3: Necessità della sorveglianza e del risanamento
 
@@ -194,9 +194,9 @@ Ai fini della protezione delle acque sotterranee, un sito inquinato deve essere 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 9 mag. 2012, in vigore dal 1° ago. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-2]: Introdotto dal n. I dell’O del 9 mag. 2012, in vigore dal 1° ago. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Nuovo testo giusta il n I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^9-4]: Nuovo testo giusta il n. 5 dell’all. 5 all’O del 28 ott. 1998 sulla protezione delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-4]: Nuovo testo giusta l’all. 5 n. 5 dell’O del 28 ott. 1998 sulla protezione delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 [^9-5]: Ai sensi dell’art. 29 cpv. 1 lett. a dell’O del 28 ott. 1998 sulla protezione delle acque ([RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
-[^9-6]: Nuovo testo giusta il n. 5 dell’all. 5 all’O del 28 ott. 1998 sulla protezione delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-6]: Nuovo testo giusta l’all. 5 n. 5 dell’O del 28 ott. 1998 sulla protezione delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
 
@@ -239,7 +239,7 @@ Ai fini della protezione delle acque superficiali, un sito inquinato deve essere
 
 <sup>2</sup> I suoli che, secondo il capoverso 1, non devono essere risanati nonostante siano siti inquinati o costituiscano parte di essi, e gli effetti dei siti inquinati sui suoli sono valutati conformemente all’ordinanza del 1° luglio 1998[^12-2] contro il deterioramento del suolo.
 
-[^12-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^12-1]: Nuovo testo giusta l’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^12-2]: [RS 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
 
 #### Art. 13
@@ -299,7 +299,7 @@ Nel caso di un risanamento ai fini della protezione delle acque superficiali si 
 
 <sup>5</sup> Sulla base dell’indagine dettagliata l’autorità valuta gli obiettivi e l’urgenza del risanamento.
 
-[^15-1]: Nuovo testo giusta il n. 5 dell’all. 5 all’O del 28 ott. 1998 sulla protezioen delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^15-1]: Nuovo testo giusta l’all. 5 n. 5 dell’O del 28 ott. 1998 sulla protezioen delle acque, in vigore dal 1° gen. 1999 ([RU 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 ## Sezione 5: Risanamento
 
@@ -316,7 +316,7 @@ L’obiettivo del risanamento deve essere raggiunto mediante provvedimenti che c
 
 <sup>2</sup> ...[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^16-1]: Nuovo testo giusta l’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^16-2]: Abrogato dal n I dell’O del 22 mar. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 #### Art. 17
@@ -354,13 +354,24 @@ Sulla base della valutazione, l’autorità stabilisce in una decisione segnatam
 - b. i provvedimenti di risanamento, il controllo dei risultati nonché i termini da rispettare;
 - c. ulteriori oneri e condizioni per la protezione dell’ambiente.
 
+<sup>3</sup>
+
+L’autorità può, eccezionalmente e previo accordo dell’Ufficio federale dell’ambiente (UFAM), autorizzare il ricollocamento di materiale di scavo inquinato che non soddisfa i requisiti per il riciclaggio di materiale di scavo di cui all’articolo 19 dell’ordinanza del 4 dicembre 2015[^18-1] sui rifiuti nel sito da cui proviene il materiale se:
+
+- a. in tal modo si riduce nel complesso l’inquinamento ambientale;
+- b. è dimostrato che il materiale di scavo ricollocato non provoca effetti dannosi o molesti e che non vi è il pericolo concreto che tali effetti si producano; e
+- c. il sito viene sorvegliato a lungo termine.[^18-2]
+
+[^18-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-2]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 (RU **20****24** 253).
+
 #### Art. 19
 
 **Controllo dei risultati**[^19-1]
 
 Chi è tenuto al risanamento deve notificare all’autorità i provvedimenti di risanamento attuati e fornire la prova che gli obiettivi del risanamento sono stati raggiunti. L’autorità si pronuncia in merito.
 
-[^19-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^19-1]: Nuovo testo giusta l’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 
 ## Sezione 6: Obbligo di adottare provvedimenti d’indagine, di sorveglianza e di risanamento
 
@@ -382,18 +393,19 @@ Chi è tenuto al risanamento deve notificare all’autorità i provvedimenti di 
 
 <sup>1bis</sup> L’UFAM valuta le informazioni e informa regolarmente l’opinione pubblica sullo stato della gestione dei siti contaminati.[^21-4]
 
-<sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’Ufficio federale e dei Cantoni è retta dall’articolo 41 capoversi 2 e 4 LPAmb; sono salve le disposizioni legali sull’obbligo di tutela del segreto. Allorché rinunciano a emettere decisioni concernenti provvedimenti di risanamento (art. 23 cpv. 3), le autorità federali consultano previamente i Cantoni interessati.[^21-5]
+<sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’UFAM[^21-5] e dei Cantoni è retta dall’articolo 41 capoversi 2 e 4 LPAmb; sono salve le disposizioni legali sull’obbligo di tutela del segreto. Allorché rinunciano a emettere decisioni concernenti provvedimenti di risanamento (art. 23 cpv. 3), le autorità federali consultano previamente i Cantoni interessati.[^21-6]
 
-<sup>3</sup> Le autorità federali stabiliscono la procedura per quanto riguarda la suddivisione dei siti inquinati (art. 5 cpv. 4), la definizione dell’ordine di priorità (art. 5 cpv. 5) e lo stralcio di un’iscrizione nel catasto (art. 6 cpv. 2).[^21-6]
+<sup>3</sup> Le autorità federali stabiliscono la procedura per quanto riguarda la suddivisione dei siti inquinati (art. 5 cpv. 4), la definizione dell’ordine di priorità (art. 5 cpv. 5) e lo stralcio di un’iscrizione nel catasto (art. 6 cpv. 2).[^21-7]
 
 <sup>4</sup> Esse informano regolarmente i Cantoni interessati sul contenuto del catasto (art. 5 e 6). Questi includono nel loro catasto un rinvio ai siti inquinati corrispondenti.
 
 [^21-1]: Nuovo testo giusta il n. II 16 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^21-2]: Nuovo testo del per. giusta il n I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^21-3]: Nuovo testo giusta il n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-4]: Introdotto dal n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-5]: Nuovo testo giusta il n. I 2 dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^21-6]: Nuovo testo giusta il n. I 2 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-3]: Nuovo testo giusta l’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^21-4]: Introdotto dall’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati, in vigore dal 1° gen. 2009 ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^21-5]: Nuova espr. giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^21-6]: Nuovo testo giusta il n. I 2 dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-7]: Nuovo testo giusta il n. I 2 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
 
 #### Art. 22
 
@@ -426,15 +438,15 @@ Chi è tenuto al risanamento deve notificare all’autorità i provvedimenti di 
 
 **Direttive**
 
-Nell’elaborazione di direttive per l’applicazione della presente ordinanza, l’Ufficio federale collabora con i Cantoni e con le organizzazioni dell’economia interessate.
+Nell’elaborazione di direttive per l’applicazione della presente ordinanza, l’UFAM collabora con i Cantoni e con le organizzazioni dell’economia interessate.
 
 #### Art. 25a
 
 **Geoinformazione**[^25a-1]
 
-L’Ufficio federale stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^25a-2] sulla geoinformazione.
+L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^25a-2] sulla geoinformazione.
 
-[^25a-1]: Introdotto dal n. 11 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^25a-1]: Introdotto dall’all. 2 n. 11 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^25a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 26
@@ -463,7 +475,7 @@ Allegato 1[^t-1]
 
 ## Valori di concentrazione ai fini della valutazione degli effetti dei siti inquinati sulle acque
 
-[^t-1]: Aggiornato dal n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), dai n. II delle O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-1]: Aggiornato dall’all. n. II 2 dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), dai n. II delle O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 <sup>1</sup> Per valutare gli effetti dei siti inquinati sulle acque fanno testo i valori di concentrazione riportati nelle tabelle seguenti. Se per sostanze suscettibili di inquinare le acque e che hanno inquinato un sito non sono stati fissati valori di concentrazione, l’autorità li stabilisce, previa approvazione dell’UFAM, per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione delle acque.
 
@@ -479,7 +491,7 @@ Allegato 1[^t-1]
 
 <sup>5</sup> Si può rinunciare all’esecuzione di una prova dell’eluito secondo il capoverso 2 quando il superamento o meno del valore di concentrazione nell’eluito del materiale può essere accertato sulla base di altre indicazioni quali la composizione e la provenienza del materiale del sito, somma dei parametri, indagini ecotossicologiche o deduzione calcolata sulla base del tenore totale.
 
-<sup>6</sup> L’Ufficio federale emana direttive sul prelievo di campioni, sulla preparazione dell’eluito e sulla sua analisi nonché sulla valutazione degli effetti di sostanze facilmente volatili.
+<sup>6</sup> L’UFAM emana direttive sul prelievo di campioni, sulla preparazione dell’eluito e sulla sua analisi nonché sulla valutazione degli effetti di sostanze facilmente volatili.
 
 <table>
 <tr><th>Sostanza</th><th>Valore di concentrazione</th></tr>
@@ -547,7 +559,7 @@ Allegato 1[^t-1]
 <tr><td>– 4-Metilfenolo (p-Cresolo)</td><td>0.2 mg/l</td></tr>
 <tr><td>– Pentaclorofenolo (PCP)</td><td>0.001 mg/l</td></tr>
 <tr><td>– Fenolo (C<sub>6</sub>H<sub>6</sub>O)</td><td>10 mg/l</td></tr>
-<tr><td>Idrocarburi policiclici aromatici (PAK)</td><td></td></tr>
+<tr><td>Idrocarburi policiclici aromatici (PAH[^annex1-lvlu1-2])</td><td></td></tr>
 <tr><td>– Acenaftene</td><td>2 mg/l</td></tr>
 <tr><td>– Antracene</td><td>10 mg/l<sup>c</sup></td></tr>
 <tr><td>– Benzo(a)antracene</td><td>0.5 µg/l</td></tr>
@@ -565,6 +577,7 @@ Allegato 1[^t-1]
 </table>
 
 [^annex1-lvlu1-1]: Indicati nella tabella con \*<sup>)</sup>
+[^annex1-lvlu1-2]: Nuova espr. giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 Allegato 2
 
@@ -581,7 +594,7 @@ Allegato 2
 
 <sup>3</sup> Si può rinunciare al prelievo di campioni dell’aria contenuta nei pori del suolo quando esiste un’altra prova che il valore di concentrazione dell’aria dei pori non può essere superato, segnatamente sulla base dell’esatta conoscenza della composizione e della provenienza del materiale del sito.
 
-<sup>4</sup> L’Ufficio federale emana direttive sul prelievo di campioni e sull’esecuzione delle analisi dell’aria contenuta nei pori del suolo.
+<sup>4</sup> L’UFAM emana direttive sul prelievo di campioni e sull’esecuzione delle analisi dell’aria contenuta nei pori del suolo.
 
 <table>
 <tr><th>Sostanza</th><th>Valore di concentrazione</th></tr>
@@ -613,7 +626,7 @@ Allegato 2
 <tr><td>– Toluolo</td><td>50 ml/m<sup>3</sup></td></tr>
 <tr><td>– Etilbenzene</td><td>100 ml/m<sup>3</sup></td></tr>
 <tr><td>– Xilolo</td><td>100 ml/m<sup>3</sup></td></tr>
-<tr><td>Idrocarburi policiclici aromatici (PAK)</td><td></td></tr>
+<tr><td>Idrocarburi policiclici aromatici (PAH)</td><td></td></tr>
 <tr><td>– Benzo(a)pirene</td><td>0.0002 ml/m<sup>3</sup></td></tr>
 <tr><td>– Naftalina</td><td>[tab] 10 ml/m3</td></tr>
 </table>
@@ -626,7 +639,7 @@ Allegato 3[^t-2]
 
 ## Valori di concentrazione per valutare la necessità di risanamento di suoli
 
-[^t-2]: Introdotto dal n. II 2 dell’all. all’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Aggiornato dal n. II dell’O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e dal n. I dell’O del 14 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-2]: Introdotto dall’all n. II 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Aggiornato dal n. II dell’O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e dal n. I dell’O del 14 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
 
 Per valutare la necessità di risanamento di suoli fanno testo i valori di concentrazione riportati nelle tabelle seguenti. Se per sostanze suscettibili di inquinare le acque e che hanno inquinato un sito non sono fissati valori di concentrazione, l’autorità li stabilisce, previa approvazione dell’UFAM, per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente.
 

@@ -4,11 +4,11 @@ title: "Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contam
 short: CSO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: en
-version: 2017-05-01
+version: 2024-07-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20170501/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20170501-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Contaminated Sites Ordinance, CSO)
 
-of 26 August 1998 (Status as of 1 May 2017)
+of 26 August 1998 (Status as of 1 July 2024)
 
 The Swiss Federal Council,
 
@@ -176,8 +176,8 @@ They shall state in the Register whether a polluted site is:
 
 Subject to paragraph 1<sup>bis</sup>, a polluted site is deemed to be in need of monitoring to protect the groundwater, if:
 
-- a. any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site; or
-- b. for groundwater water protection areas A<sub>u</sub>, the concentration of substances originating from the site immediately downstream of the site exceeds 10 % of one of the concentration values specified in Annex 1; or
+- a. any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site;
+- b. for groundwater water protection areas A<sub>u</sub>, the concentration of substances originating from the site immediately downstream of the site exceeds 10 % of one of the concentration values specified in Annex 1;
 - c. for groundwater outside water protection areas A<sub>u</sub>, the concentration of substances originating from the site immediately downstream of the site exceeds 40 % of one of the concentration values specified in Annex 1.[^9-1]
 
 <sup>1bis</sup> If after several years of monitoring a site, it is established that, considering the evolution of pollutant concentrations and the characteristics of the site, it is highly probable that the site will not need remediation under paragraph 2, the site is deemed no longer to be in need of monitoring.[^9-2]
@@ -194,9 +194,9 @@ A polluted site is deemed to be in need of remediation to protect the groundwate
 [^9-1]: Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-2]: Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)).
 [^9-3]: Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^9-4]: Amended by Annex 5 No. 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
-[^9-5]: Amended by Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 ([SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
-[^9-6]: Amended by Annex 5 No. 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-4]: Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^9-5]: In accordance with Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 ([SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)).
+[^9-6]: Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 #### Art. 10
 
@@ -239,7 +239,7 @@ For the protection of surface waters, a polluted site is deemed to be in need of
 
 <sup>2</sup> Soil that is not in need of remediation in accordance with paragraph 1 despite being polluted sites or parts thereof, and the impacts of polluted sites on soil are assessed in accordance with the Ordinance of 1 July 1998[^12-2] on the Pollution of Soil.
 
-[^12-1]: Amended by Annex No. II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^12-1]: Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^12-2]: [SR 814.12](https://fedlex.data.admin.ch/eli/cc/1998/1854_1854_1854)
 
 #### Art. 13
@@ -299,7 +299,7 @@ As regards remediation for the purpose of surface waters protection, deviation f
 
 <sup>5</sup> The authorities shall assess the objectives and the urgency of remediation on the basis of the detailed investigation.
 
-[^15-1]: Amended by Annex 5 No. 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
+[^15-1]: Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ([AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)).
 
 ## Section 5 Remediation
 
@@ -316,7 +316,7 @@ The objective of remediation must be achieved by measures that:
 
 <sup>2</sup> …[^16-2]
 
-[^16-1]: Amended by Annex No. II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^16-1]: Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^16-2]: Repealed by No I of the O of 22 March 2017, with effect from 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 #### Art. 17
@@ -338,7 +338,7 @@ The authorities shall require that for contaminated sites a remediation project 
 
 <sup>1</sup>
 
-The authorities shall assess the remediation project. In doing so, they shall pay particular regard to the following:
+The authority shall assess the remediation project. In doing so, it shall pay particular regard to the following:
 
 - a. the environmental impact of the measures;
 - b. their long-term effectiveness;
@@ -348,11 +348,22 @@ The authorities shall assess the remediation project. In doing so, they shall pa
 
 <sup>2</sup>
 
-On the basis of this assessment, they shall issue a ruling containing in particular:
+On the basis of this assessment, it shall issue a ruling containing in particular:
 
 - a. the final objectives of the remediation;
 - b. the remediation measures, the assessment of results and the time frame to be adhered to;
 - c. further charges and conditions for the protection of the environment.
+
+<sup>3</sup>
+
+By way of exception and with the consent of the Federal Office for the Environment (FOEN), the authority may authorise the reinstatement of contaminated excavated material that does not meet the requirements for the recovery of excavated material in accordance with Article 19 of the Waste Ordinance of 4 December 2015[^18-1] at the location where the material was produced, provided:
+
+- a. by this means the total environmental impact can be lessened;
+- b. it is proven that the reinstated excavated material will not cause harmful effects or nuisances or there is no real danger that such effects may arise; and
+- c. the location is monitored over the long term.[^18-2]
+
+[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-2]: Inserted by No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
 
 #### Art. 19
 
@@ -360,7 +371,7 @@ On the basis of this assessment, they shall issue a ruling containing in particu
 
 Persons required to carry out remediation measures must notify the authorities of the remediation measures carried out and demonstrate that the remediation objectives have been achieved. The authorities shall express an expert opinion in this regard.
 
-[^19-1]: Amended by Annex No. II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^19-1]: Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 
 ## Section 6 Obligation to carry out Investigation, Monitoring and Remediation Measures
 
@@ -382,24 +393,25 @@ Persons required to carry out remediation measures must notify the authorities o
 
 <sup>1bis</sup> The FOEN shall evaluate the information and inform the public regularly on the progress with the remediation of contaminated sites.[^21-4]
 
-<sup>2</sup> If federal authorities apply other federal acts or agreements or decisions under international law that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN and of the cantons is governed by Article 41 paragraphs 2 and 4 EPA; statutory duties of secrecy are reserved. If the federal authorities dispense with issuing a ruling when specifying remediation measures (Art. 23 para. 3), they shall consult the cantons concerned about the intended measures.[^21-5]
+<sup>2</sup> If federal authorities apply other federal acts or agreements or decisions under international law that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN[^21-5] and of the cantons is governed by Article 41 paragraphs 2 and 4 EPA; statutory duties of secrecy are reserved. If the federal authorities dispense with issuing a ruling when specifying remediation measures (Art. 23 para. 3), they shall consult the cantons concerned about the intended measures.[^21-6]
 
-<sup>3</sup> The federal authorities shall determine the procedures for categorising polluted sites (Art. 5 para. 4), preparing the list of priorities (Art. 5 para. 5) and deleting entries in the Register (Art. 6 para. 2) after consultation with the FOEN.[^21-6]
+<sup>3</sup> The federal authorities shall determine the procedures for categorising polluted sites (Art. 5 para. 4), preparing the list of priorities (Art. 5 para. 5) and deleting entries in the Register (Art. 6 para. 2) after consultation with the FOEN.[^21-7]
 
 <sup>4</sup> They shall inform the cantons concerned of the content of the Register (Art. 5 and 6) at regular intervals. These shall include a reference to the relevant polluted sites in their own register.
 
-[^21-1]: Amended by No. II 16 of the O of 2 Feb. 2000 relating to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Amended by No II 16 of the O of 2 Feb. 2000 relating to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^21-2]: Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^21-3]: Second sentence amended by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
-[^21-4]: Inserted by Annex No. II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-5]: Amended by No. I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^21-6]: Amended by No. I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-4]: Inserted by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
+[^21-5]: Name in accordance with No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)). This change has been made throughout the text.
+[^21-6]: Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-7]: Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
 
 #### Art. 22
 
 [^22-1]
 
-[^22-1]: Repealed by No. II 16 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, with effect from 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^22-1]: Repealed by No II 16 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, with effect from 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 23
 
@@ -426,15 +438,15 @@ Deviation from the procedures specified in this Ordinance shall be permitted if:
 
 **Guidelines**
 
-In preparing guidelines for implementing this Ordinance, the Federal Agency shall collaborate with the cantons and the industrial organisations concerned.
+In preparing guidelines for implementing this Ordinance, the FOEN shall collaborate with the cantons and the industrial organisations concerned.
 
 #### Art. 25a
 
 **Geoinformation**[^25a-1]
 
-The Federal Office shall specify the minimum geodata models and representation models for geographical base data in accordance with this Ordinance for which the Federal Office is designated as the specialist authority at federal level in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^25a-2].
+The FOEN shall specify the minimum geodata models and representation models for geographical base data in accordance with this Ordinance for which the Federal Office is designated as the specialist authority at federal level in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^25a-2].
 
-[^25a-1]: Inserted by Annex 2 No. 11 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^25a-1]: Inserted by Annex 2 No 11 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 26
@@ -463,7 +475,7 @@ Annex 1[^t-1]
 
 ## Concentration values for assessing the impact of polluted sites on ground and surface waters
 
-[^t-1]: Revised by Annex No. II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
+[^t-1]: Revised by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)), No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and of 22 March 2017, in force since 1 May 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 
 <sup>1</sup> In assessing the impact of polluted sites on waters, the concentration values in the following table apply. Where no concentration values are given in the table for potential water pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on waters protection.
 
@@ -479,7 +491,7 @@ Annex 1[^t-1]
 
 <sup>5</sup> An eluate test in accordance with paragraph 2 may be dispensed with if the pollutant concentration in the eluate of the material is assessable (i.e. to be above or below the concentration values) on the basis of other information, for example composition and origin of the material at the site, lumped parameters or ecotoxicological investigations, or can be calculated from total content.
 
-<sup>6</sup> The Federal Office shall issue guidelines on sampling, preparation of eluates and their analysis, and on assessment of the impact of volatile substances.
+<sup>6</sup> The FOEN shall issue guidelines on sampling, preparation of eluates and their analysis, and on assessment of the impact of volatile substances.
 
 <table>
 <tr><th>Substance</th><th>Concentration value</th></tr>
@@ -584,7 +596,7 @@ Annex 2
 
 <sup>3</sup> Interstitial air samples may be dispensed with if it can be demonstrated by other means that the concentration values in the interstitial air cannot be exceeded, i.e. based on precise information concerning the composition and origin of the material at the site.
 
-<sup>4</sup> The Federal Agency shall issue guidelines on sampling and on procedures for interstitial air analyses.
+<sup>4</sup> The FOEN shall issue guidelines on sampling and on procedures for interstitial air analyses.
 
 <table>
 <tr><th>Substance</th><th>Concentration value</th></tr>
@@ -629,7 +641,7 @@ Annex 3[^t-2]
 
 ## Concentration values for the assessment of the need for remediation of soil
 
-[^t-2]: Inserted by Annex No. II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Revised by No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and No I of the O of 14 Jan. 2015, in force since 1 March 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-2]: Inserted by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Revised by No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and No I of the O of 14 Jan. 2015, in force since 1 March 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
 
 The concentration values in the table below apply in the assessment of the need for remediation of soil. Where no concentration values are given in the table for potential soil pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on the protection of the environment.
 

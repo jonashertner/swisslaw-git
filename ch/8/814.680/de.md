@@ -4,11 +4,11 @@ title: "Verordnung vom 26. August 1998 über die Sanierung von belasteten Stando
 short: AltlV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: de
-version: 2017-05-01
+version: 2024-07-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20170501/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20170501-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20170501/de"
 
 (Altlasten-Verordnung, AltlV)
 
-vom 26. August 1998 (Stand am 1. Mai 2017)
+vom 26. August 1998 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -352,6 +352,17 @@ Gestützt auf die Beurteilung legt sie in einer Verfügung insbesondere fest:
 - b. die Sanierungsmassnahmen, die Erfolgskontrolle sowie die einzuhaltenden Fristen;
 - c. weitere Auflagen und Bedingungen zum Schutz der Umwelt.
 
+<sup>3</sup>
+
+Die Behörde kann ausnahmsweise und mit Zustimmung des Bundesamts für Umwelt (BAFU) den Wiedereinbau von belastetem Aushubmaterial, das die Anforderungen an die Verwertung von Aushubmaterial nach Artikel 19 der Abfallverordnung vom 4. Dezember 2015[^18-1] nicht erfüllt, für den Standort, an dem das Material anfällt, genehmigen, wenn:
+
+- a. dadurch die Umwelt gesamthaft weniger belastet wird;
+- b. nachgewiesen ist, dass das wiedereingebaute Aushubmaterial nicht zu schädlichen oder lästigen Einwirkungen führt oder nicht die konkrete Gefahr besteht, dass solche Einwirkungen entstehen; und
+- c. der Standort langfristig überwacht wird.[^18-2]
+
+[^18-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^18-2]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)).
+
 #### Art. 19
 
 **Erfolgskontrolle**[^19-1]
@@ -380,9 +391,9 @@ Sanierungspflichtige müssen der Behörde die durchgeführten Sanierungsmassnahm
 
 <sup>1bis</sup> Das BAFU wertet die Angaben aus und informiert die Öffentlichkeit regelmässig über den Stand der Altlastenbearbeitung.[^21-4]
 
-<sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des Bundesamtes und der Kantone gilt Artikel 41 Absätze 2 und 4 USG; gesetzliche Geheimhaltungspflichten bleiben vorbehalten. Verzichten die Bundesbehörden bei der Festlegung von Sanierungsmassnahmen auf den Erlass einer Verfügung (Art. 23 Abs. 3), so holen sie die Stellungnahme der betroffenen Kantone zu den vorgesehenen Massnahmen ein.[^21-5]
+<sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des BAFU[^21-5] und der Kantone gilt Artikel 41 Absätze 2 und 4 USG; gesetzliche Geheimhaltungspflichten bleiben vorbehalten. Verzichten die Bundesbehörden bei der Festlegung von Sanierungsmassnahmen auf den Erlass einer Verfügung (Art. 23 Abs. 3), so holen sie die Stellungnahme der betroffenen Kantone zu den vorgesehenen Massnahmen ein.[^21-6]
 
-<sup>3</sup> Die Bundesbehörden legen das Vorgehen bei der Einteilung der belasteten Standorte (Art. 5 Abs. 4), der Erstellung der Prioritätenordnung (Art. 5 Abs. 5) und der Löschung von Eintragungen im Kataster (Art. 6 Abs. 2) fest.[^21-6]
+<sup>3</sup> Die Bundesbehörden legen das Vorgehen bei der Einteilung der belasteten Standorte (Art. 5 Abs. 4), der Erstellung der Prioritätenordnung (Art. 5 Abs. 5) und der Löschung von Eintragungen im Kataster (Art. 6 Abs. 2) fest.[^21-7]
 
 <sup>4</sup> Sie informieren die betroffenen Kantone regelmässig über den Inhalt des Katasters (Art. 5 und 6). Diese nehmen einen Hinweis auf die entsprechenden belasteten Standorte in ihren Kataster auf.
 
@@ -390,8 +401,9 @@ Sanierungspflichtige müssen der Behörde die durchgeführten Sanierungsmassnahm
 [^21-2]: Fassung gemäss Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten, in Kraft seit 1. Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
 [^21-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2589](https://fedlex.data.admin.ch/eli/oc/2017/246)).
 [^21-4]: Eingefügt durch Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten, in Kraft seit 1. Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)).
-[^21-5]: Fassung gemäss Ziff. I 2 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-5]: Ausdruck gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 253](https://fedlex.data.admin.ch/eli/oc/2024/253)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^21-6]: Fassung gemäss Ziff. I 2 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^21-7]: Fassung gemäss Ziff. I 2 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
 
 #### Art. 22
 
@@ -424,13 +436,13 @@ Von dem in dieser Verordnung geregelten Verfahren kann abgewichen werden, wenn:
 
 **Richtlinien**
 
-Bei der Erarbeitung von Richtlinien zur Anwendung dieser Verordnung arbeitet das Bundesamt mit den Kantonen und den betroffenen Organisationen der Wirtschaft zusammen.
+Bei der Erarbeitung von Richtlinien zur Anwendung dieser Verordnung arbeitet das BAFU mit den Kantonen und den betroffenen Organisationen der Wirtschaft zusammen.
 
 #### Art. 25a
 
 **Geoinformation**[^25a-1]
 
-Das Bundesamt gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^25a-2] als Fachstelle des Bundes bezeichnet ist.
+Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^25a-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^25a-1]: Eingefügt durch Anhang 2 Ziff. 11 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^25a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -477,7 +489,7 @@ Anhang 1[^t-1]
 
 <sup>5</sup> Auf die Durchführung eines Eluatversuches nach Absatz 2 kann verzichtet werden, wenn die Unter- oder Überschreitung der Konzentrationswerte im Eluat des Materials auf Grund anderer Angaben festgestellt werden kann, wie Zusammensetzung und Herkunft des Materials des Standortes, Summenparameter, ökotoxikologische Untersuchungen oder die rechnerische Herleitung aus Gesamtgehalten.
 
-<sup>6</sup> Das Bundesamt erlässt Richtlinien über die Probenahmen, die Herstellung der Eluate und deren Analyse sowie über die Beurteilung der Einwirkungen leichtflüchtiger Stoffe.
+<sup>6</sup> Das BAFU erlässt Richtlinien über die Probenahmen, die Herstellung der Eluate und deren Analyse sowie über die Beurteilung der Einwirkungen leichtflüchtiger Stoffe.
 
 <table>
 <tr><th>Stoff</th><th>Konzentrationswert</th></tr>
@@ -578,7 +590,7 @@ Anhang 2
 
 <sup>3</sup> Auf die Entnahme von Porenluftproben kann verzichtet werden, wenn ein anderweitiger Nachweis vorliegt, dass die Konzentrationswerte in der Porenluft nicht überschritten werden können, namentlich auf Grund der genauen Kenntnis der Zusammensetzung und Herkunft des Materials des Standortes.
 
-<sup>4</sup> Das Bundesamt erlässt Richtlinien über die Probenahmen und die Durchführung der Porenluftanalysen.
+<sup>4</sup> Das BAFU erlässt Richtlinien über die Probenahmen und die Durchführung der Porenluftanalysen.
 
 <table>
 <tr><th>Stoff</th><th>Konzentrationswert</th></tr>
