@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-09-06
+version: 2024-07-01
+valid_until: 2024-07-31
+version_adopted: 2024-05-15
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5423/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5423/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.01.2024)
+Vom 31.01.2007 (Stand 01.07.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -427,9 +427,14 @@ beschliesst:
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Wohnheime und Tagesstätten gemäss § 141, ambulante und teilstationäre Dienste gemäss § 142 und Pflegeheime gemäss § 144, die über eine Betriebsbewilligung gemäss § 21 verfügen, sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen.
+<sup>1</sup> Wohnheime und Tagesstätten gemäss § 141, ambulante und teilstationäre Dienste gemäss § 142 und Pflegeheime gemäss § 144, die ihren Sitz im Kanton Solothurn haben und Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen, sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen. Der Regierungsrat kann beschliessen, dass der Vollzug der Aus- und Weiterbildungsverpflichtung für die Jahre 2024 und 2025 ganz oder teilweise ausgesetzt wird oder in bestimmten Bereichen von den rechtlichen Vorgaben betreffend die Aus- und Weiterbildungsverpflichtung abgewichen werden darf.
 
-<sup>2</sup> Der Umfang der Aus- und Weiterbildungsverpflichtung wird unter Berücksichtigung der Grösse und des Angebots des Betriebes, der Kosten der Aus- und Weiterbildungen sowie im Verhältnis zum Bedarf festgelegt.
+<sup>2</sup> Der Umfang der Aus- und Weiterbildungsverpflichtung wird insbesondere unter Berücksichtigung der Grösse und des Angebots des Betriebes sowie im Verhältnis zum Bedarf festgelegt.
+
+<sup>2<sup>bis</sup></sup> Wer Leistungen im Bereich der Aus- und Weiterbildung von nicht-universitären Gesundheitsberufen erbringt, muss ein Ausbildungskonzept erstellen. Das Konzept:
+
+- a) führt namentlich den Rahmen, in dem die Aus- und Weiterbildung stattfindet, die Ziele und die Schwerpunkte der Aus- und Weiterbildung sowie die Anzahl der zur Verfügung stehenden Aus- und Weiterbildungsplätze auf;
+- b) weist allfällige Abweichungen vom gemäss Absatz 2 festgelegten Umfang der Aus- und Weiterbildungsverpflichtung aus.
 
 <sup>3</sup> Gesundheitlich eingeschränkten Personen sind nach Möglichkeit zweckmässige Aus- und Weiterbildungsplätze anzubieten. Wohnheime und Tagesstätten, ambulante und teilstationäre Dienste und Pflegeheime streben diesbezüglich eine enge Zusammenarbeit mit den zuständigen IV-Stellen an.
 
@@ -441,7 +446,15 @@ beschliesst:
 
 **Vollzug der Aus- und Weiterbildung**
 
-<sup>1</sup> Der Regierungsrat kann den Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung an Fachorganisationen oder Branchenverbände delegieren. Er schliesst mit diesen eine Leistungsvereinbarung ab, welche die Pflichten und die Berichterstattung regelt.
+<sup>1</sup> Der Regierungsrat kann den Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung sowie zur Festlegung von Ausgleichszahlungen an Fachorganisationen oder Branchenverbände delegieren. Er schliesst mit diesen eine Leistungsvereinbarung ab, welche die Pflichten und die Berichterstattung regelt.
+
+#### § 22quater
+
+**Pflegefachpersonen der Tertiärstufe**
+
+<sup>1</sup> Die Förderung der Ausbildung in Bezug auf den Bildungsgang Pflege an einer höheren Fachschule (HF) und den Bachelorstudiengang in Pflege an einer Fachhochschule (FH) richtet sich nach dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^22quater-1].
+
+[^22quater-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 #### § 23
 
@@ -2457,11 +2470,17 @@ beschliesst:
 
 #### § 168bis
 
-**Ersatzvornahme bei Ausbildungsverpflichtung**
+**Ausgleichszahlung bei Aus- und Weiterbildungsverpflichtung**
 
-<sup>1</sup> Erfüllt ein gemäss § 22<sup>bis</sup> zur Aus- und Weiterbildung verpflichteter Betrieb die festgelegte Ausbildungsleistung nicht, ordnet das Departement die Ersatzvornahme an. Es kauft die entsprechenden Leistungen ein.
+<sup>1</sup> Erfüllt ein gemäss § 22<sup>bis</sup> zur Aus- und Weiterbildung verpflichteter Betrieb die festgelegte Aus- und Weiterbildungsleistung nicht, hat er eine Ausgleichszahlung an den vom Departement oder von der gemäss § 22<sup>ter</sup> mit dem Vollzug der Aus- und Weiterbildungsverpflichtung betrauten Stelle geführten, zweckgebundenen Ausgleichsfonds für den Bonus-Malus-Ausgleich zu bezahlen.
 
-<sup>2</sup> Der säumige Betrieb hat die entstandenen Kosten (eingekaufte Leistungen zuzüglich Verwaltungsaufwand) zu tragen.
+<sup>1<sup>bis</sup></sup> Die Höhe der Ausgleichszahlung beträgt höchstens 300 % der durchschnittlichen Kosten der nicht geleisteten Aus- oder Weiterbildung. Der Regierungsrat kann in einer Verordnung vorsehen, dass die Pflicht zur Leistung einer Ausgleichszahlung entfällt, wenn die Differenz zwischen festgelegter und erbrachter Aus- und Weiterbildungsleistung einen Toleranzwert von höchstens 10 % nicht überschreitet.
+
+<sup>2</sup> …
+
+<sup>3</sup> Übertrifft ein Betrieb gemäss Absatz 1 die festgelegte Aus- und Weiterbildungsleistung, erhält er einen Beitrag aus dem Ausgleichsfonds.
+
+<sup>4</sup> Überschüsse im Ausgleichsfonds können für die Finanzierung von Massnahmen und Projekten zugunsten der nicht-universitären Gesundheitsberufe im Kanton Solothurn eingesetzt werden.
 
 #### § 169
 
@@ -2501,6 +2520,14 @@ beschliesst:
 **Verteilschlüssel Ergänzungsleistungen**
 
 <sup>1</sup> …
+
+#### § 172bis
+
+**Befristete Bestimmungen**
+
+<sup>1</sup> Die §§ 22<sup>bis</sup> Absatz 1 Satz 2 und 22<sup>quater</sup> gelten bis zum Ausserkrafttreten des EG Ausbildungsfördergesetz Pflege[^172bis-1].
+
+[^172bis-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 #### § 173
 
