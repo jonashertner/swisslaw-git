@@ -4,13 +4,13 @@ number: "910.215"
 title: Allgemeine Landwirtschaftsverordnung
 short: ALaV
 language: de
-version: 2019-05-01
-valid_until: 2024-06-30
-version_adopted: 2019-03-20
+version: 2024-07-01
+valid_until: 2026-02-28
+version_adopted: 2024-03-13
 adopted: 2012-05-23
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/910.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2704/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2704/pdf_file"
 
 (ALaV)
 
-Vom 23.05.2012 (Stand 01.05.2019)
+Vom 23.05.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 5 Abs. 1, 33 Abs. 6, 34 Abs. 3, 39 Abs. 2 und 3, 40 Abs. 3, 46 Abs. 3, 48 Abs. 1 und 58b Abs. 1 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-1] sowie § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 5 Abs. 1, 33 Abs. 6, 34 Abs. 3, 39 Abs. 2 und 3, 40 Abs. 3, 46 Abs. 3, 48 Abs. 1 und 58b Abs. 1 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [910.200](https://gesetzessammlungen.ag.ch/data/910.200/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Produktion, Absatz und Innovation
 
@@ -285,25 +284,15 @@ beschliesst:
 - e) den Vollzug der Bestimmungen über die Hygiene der Milchproduktion,
 - f) den Vollzug im Bereich der invasiven Organismen im Kanton in Zusammenarbeit mit dem DFR und dem Departement Bau, Verkehr und Umwelt (BVU).
 
-## 6. Gebühren
+## 6.
 
 #### § 22
 
-**Auskünfte, Beratungen und Nachforschungen**
-
-<sup>1</sup> Für Auskünfte, Beratungen und Nachforschungen erhebt das DFR ab einem Zeitaufwand von einer halben Stunde eine Gebühr in Höhe von Fr. 140.– pro Stunde. Der Zeitaufwand wird jeweils auf die nächste Viertelstunde auf- oder abgerundet.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### § 22a
 
-**Sonderbewilligungen für Pflanzenschutzmassnahmen**
-
-<sup>1</sup> Für die Behandlung von Gesuchen um die Erteilung von Sonderbewilligungen für Pflanzenschutzmassnahmen gemäss § 18 Abs. 4 der Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV) vom 23. Oktober 2013[^22a-1] sowie für die zugehörige Beratung bei entsprechenden Einzelbewilligungen gemäss Anhang 1 Ziffer 6.3.1 DZV werden keine Gebühren erhoben.
-
-[^22a-1]: SR [910.13](https://db.clex.ch/link/Bund/910.13/de)
+**…**
 
 #### § 23
 
@@ -311,35 +300,15 @@ beschliesst:
 
 #### § 24
 
-**Bewilligungen Boden- und Pachtrecht**
-
-<sup>1</sup> Für die Behandlung von Gesuchen um die Erteilung von Bewilligungen gemäss § 18 Abs. 1 lit. a–c erhebt das DFR pro Gesuch eine Gebühr in Höhe von Fr. 200.–.
-
-<sup>2</sup> …
-
-<sup>3</sup> Für die Behandlung von Gesuchen um Erteilung von Bewilligungen gemäss § 19 Abs. 1 lit. a–d erhebt das DFR pro Gesuch eine Gebühr in Höhe von Fr. 150.–.
-
-<sup>4</sup> Erfordert die Behandlung eines Gesuchs einen Augenschein oder ist dessen Behandlung aus einem anderen Grund besonders aufwendig, kann die Gebühr je nach Aufwand auf bis zu Fr. 1'000.– erhöht werden.
-
-<sup>5</sup> Für die gleichzeitige Behandlung von mehreren Gesuchen derselben Art und derselben Person kann die Gebühr für das zweite und alle folgenden Gesuche jeweils je nach Aufwand um bis zu 50 % ermässigt werden.
-
-<sup>6</sup> Wird ein Gesuch zurückgezogen oder gegenstandslos, kann die Gebühr je nach Aufwand um bis zu 50 % ermässigt werden.
+**…**
 
 #### § 24a
 
-**Bewilligung von Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot**
-
-<sup>1</sup> Für die Behandlung von Gesuchen um Bewilligung von Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot gemäss Art. 102 Abs. 3 LwG und von § 9 Abs. 1 LwG AG erhebt das DFR je nach Aufwand eine Gebühr in Höhe von Fr. 250.– bis Fr. 1'000.–.
+**…**
 
 #### § 24b
 
-**Amtliche Bescheinigungen**
-
-<sup>1</sup> Das DFR erhebt je nach Aufwand eine Gebühr in Höhe von Fr. 50.– bis Fr. 200.– für die amtliche Bescheinigung, dass
-
-- a) gestützt auf einen der Tatbestände gemäss Art. 62 BGBB keine Bewilligung zum Erwerb von landwirtschaftlichen Gewerben oder Grundstücken erforderlich ist,
-- b) es sich um ein nichtlandwirtschaftliches Grundstück ausserhalb der Bauzone handelt, das dem BGBB nicht unterstellt ist,
-- c) eine gestützt auf Art. 104 LwG oder § 9 Abs. 1 LwG AG vorgenommene Grundbuchanmerkung gelöscht werden kann.
+**…**
 
 ## 6<sup>bis</sup>. Elektronisches Informationssystem
 
