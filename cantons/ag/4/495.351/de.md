@@ -4,13 +4,12 @@ number: "495.351"
 title: Verordnung über die Verwaltung und Benutzung der Klosterkirche und das kulturtouristische Angebot auf der Klosterhalbinsel Wettingen
 short: V Klosterkirche und Klosterhalbinsel Wettingen
 language: de
-version: 2022-04-01
-valid_until: 2024-06-30
-version_adopted: 2022-01-12
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1997-03-19
 in_force: 1997-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.351"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3158/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3158/pdf_file"
 
 (V Klosterkirche und Klosterhalbinsel Wettingen)
 
-Vom 19.03.1997 (Stand 01.04.2022)
+Vom 19.03.1997 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf §§ 5 und 27 Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1] und § 2 des Dekretes über die vom Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 5 und 27 Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1] sowie § 10 Abs. 2 und 3 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^ingress-2]: SAR [662.100](https://gesetzessammlungen.ag.ch/data/662.100/de)
 
 #### § 1
 
@@ -48,13 +47,14 @@ beschliesst:
 
 <sup>1</sup> Das Museum Aargau ist zuständig für:
 
-- a) Die Bewilligung von Veranstaltungen in der Klosterkirche, das Inkasso der Gebühren sowie alle organisatorischen Anordnungen bei der Benutzung der Klosterkirche im Rahmen dieser Verordnung und derjenigen über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001[^2-1];
+- a) Die Bewilligung von Veranstaltungen in der Klosterkirche, das Inkasso der Gebühren sowie alle organisatorischen Anordnungen bei der Benutzung der Klosterkirche im Rahmen dieser Verordnung und der Verordnung über die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001[^2-1];
 - b) das operative Geschäft, die Vermittlungsarbeit und die Vermarktung des kulturtouristischen Angebots auf der Klosterhalbinsel Wettingen;
-- c) die Bewilligung von Veranstaltungen Dritter (in Absprache mit der Kantonsschule Wettingen) in der Westschöpfe, der Aula, im Brudersaal, in der Marienkapelle, auf dem Langbauplatz und dem Dreiröhrenbrunnenplatz, wobei in Bezug auf die Gebühren und die Benutzung der vorerwähnten Räume und Plätze die Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen anwendbar ist.
+- c) die Bewilligung von Veranstaltungen Dritter (in Absprache mit der Kantonsschule Wettingen) in den Westschöpfen, der Aula, im Brudersaal, in der Marienkapelle, auf dem Langbauplatz und dem Dreiröhrenbrunnenplatz, wobei in Bezug auf die Benutzung der vorerwähnten Räume und Plätze die Verordnung über die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001 und in Bezug auf die Gebühren § 41 der Gebührenverordnung (GebührV) vom 13. März 2024[^2-2] anwendbar sind.
 
 <sup>2</sup> …
 
 [^2-1]: SAR [661.153](https://gesetzessammlungen.ag.ch/data/661.153/de)
+[^2-2]: SAR [662.111](https://gesetzessammlungen.ag.ch/data/662.111/de)
 
 #### § 3
 
