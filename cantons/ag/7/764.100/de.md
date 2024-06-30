@@ -4,13 +4,12 @@ number: "764.100"
 title: Wassernutzungsgesetz
 short: WnG
 language: de
-version: 2017-01-01
-valid_until: 2024-06-30
-version_adopted: 2016-09-13
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2008-03-11
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/764.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2305/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3802/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2305/pdf_file"
 
 (WnG)
 
-Vom 11.03.2008 (Stand 01.01.2017)
+Vom 11.03.2008 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -75,7 +74,7 @@ beschliesst:
 
 **Gemeingebrauch**
 
-<sup>1</sup> Die Nutzung der öffentlichen Gewässer und die Inanspruchnahme der Oberflächengewässer stehen jedermann ohne eingeräumtes Nutzungsrecht und gebührenlos in dem Ausmass zu, wie sie die Nutzung des Gewässers durch eine andere nutzungswillige Person nicht einschränken oder ausschliessen.
+<sup>1</sup> Die Nutzung der öffentlichen Gewässer und die Inanspruchnahme der Oberflächengewässer stehen allen Personen ohne eingeräumtes Nutzungsrecht und unentgeltlich in dem Ausmass zu, wie sie die Nutzung des Gewässers durch eine andere nutzungswillige Person nicht einschränken oder ausschliessen.
 
 #### § 5
 
@@ -148,9 +147,9 @@ beschliesst:
 
 #### § 12
 
-**Kostenvorschuss und Sicherheitsleistung**
+**Sicherheitsleistung**
 
-<sup>1</sup> Das zuständige Departement kann von den Nutzungsberechtigten einen Kostenvorschuss für die Beurteilung des Gesuchs und Sicherheitsleistungen verlangen für
+<sup>1</sup> Das zuständige Departement kann von den Nutzungsberechtigten Sicherheitsleistungen verlangen für
 
 - a) die Prüfung, Einhaltung und Durchsetzung von Nebenbestimmungen,
 - b) die Wiederherstellung des vorherigen Zustands,
@@ -388,7 +387,7 @@ beschliesst:
 
 **Entnahme durch Feuerwehr und Zivilschutz**
 
-<sup>1</sup> Feuerwehr und Zivilschutz können im Not- und Übungsfall ohne Bewilligung und gebührenfrei Wasser entnehmen. Im Übungsfall muss eine angemessene Restwassermenge gewährleistet bleiben.
+<sup>1</sup> Feuerwehr und Zivilschutz können im Not- und Übungsfall ohne Bewilligung und unentgeltlich Wasser entnehmen. Im Übungsfall muss eine angemessene Restwassermenge gewährleistet bleiben.
 
 ### 3.3. Inanspruchnahme des Oberflächengewässers
 
