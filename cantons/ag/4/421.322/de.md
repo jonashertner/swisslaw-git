@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2024-06-01
-valid_until: 2024-06-30
-version_adopted: 2024-01-24
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-01
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3400/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3400/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 01.06.2024)
+Vom 20.03.2019 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -190,9 +190,9 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 <sup>2</sup> Die Menge der zu transferierenden Ressourcen ist zwischen den beteiligten Schulträgern beziehungsweise zwischen dem beteiligten Schulträger und dem beteiligten Verband zu vereinbaren. Das BKS gibt dazu entsprechende Empfehlungen ab.
 
-<sup>3</sup> Vorbehalten bleiben die in der Verordnung über das Schulgeld vom 16. Dezember 1985[^14-1] geregelten Schulgelder, mit denen im Wesentlichen die Anlage- und Betriebskosten der Schulinfrastruktur abgegolten werden.
+<sup>3</sup> Vorbehalten bleiben die in der Verordnung über das Schulgeld in der Volksschule (Schulgeldverordnung, VSGV) vom 1. Mai 2024[^14-1] geregelten Schulgelder, mit denen im Wesentlichen die Anlage- und Betriebskosten der Schulinfrastruktur abgegolten werden.
 
-[^14-1]: SAR [403.151](https://gesetzessammlungen.ag.ch/data/403.151/de)
+[^14-1]: SAR [403.155](https://gesetzessammlungen.ag.ch/data/403.155/de)
 
 #### § 15
 
