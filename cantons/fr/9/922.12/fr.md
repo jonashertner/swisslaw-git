@@ -3,13 +3,13 @@ canton: FR
 number: "922.12"
 title: "Règlement concernant l'examen d'aptitude à la chasse"
 language: fr
-version: 2021-11-01
-valid_until: 2024-06-30
-version_adopted: 2021-10-12
+version: 2024-07-01
+valid_until: 2026-02-28
+version_adopted: 2024-03-05
 adopted: 2021-10-12
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7254/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7989/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7254/pdf_file"
 
 Examen d'aptitude à la chasse – R
 
-du 12.10.2021 (version entrée en vigueur le 01.11.2021)
+du 12.10.2021 (version entrée en vigueur le 01.07.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -168,7 +168,7 @@ Arrête:
 - b) pour l'examen pratique: — Fr. 120
 - c) pour l'examen complémentaire: — Fr. 120
 
-<sup>2</sup> Les délais de versement des émoluments sont fixés par le Service.
+<sup>2</sup> Les délais de versement des émoluments sont fixés par le Service. Ces délais sont impératifs et leur non-respect entraîne l'exclusion du candidat ou de la candidate.
 
 <sup>3</sup> Les émoluments versés sont restitués si la personne n'est pas admise à l'examen, si elle renonce à s'y présenter et en informe le Service au moins dix jours à l'avance ou si elle en est empêchée pour cause de force majeure dûment établie (certificat médical ou autre équivalent).
 
@@ -200,7 +200,7 @@ Arrête:
 
 **Appréciation**
 
-<sup>1</sup> L'appréciation de l'examen théorique est faite par la Commission; celle-ci transmet sa décision au candidat ou à la candidate.
+<sup>1</sup> L'appréciation des examens est faite par la Commission; celle-ci transmet sa décision au candidat ou à la candidate.
 
 #### Art. 16
 

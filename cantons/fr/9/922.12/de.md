@@ -3,13 +3,13 @@ canton: FR
 number: "922.12"
 title: Reglement über die Fähigkeitsprüfung für die Jagd
 language: de
-version: 2021-11-01
-valid_until: 2024-06-30
-version_adopted: 2021-10-12
+version: 2024-07-01
+valid_until: 2026-02-28
+version_adopted: 2024-03-05
 adopted: 2021-10-12
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7254/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7989/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7254/pdf_file"
 
 Fähigkeitsprüfung für die Jagd – R
 
-vom 12.10.2021 (Fassung in Kraft getreten am 01.11.2021)
+vom 12.10.2021 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -166,7 +166,7 @@ beschliesst:
 - b) für die praktische Prüfung: 120 Franken;
 - c) für die Zusatzprüfung: 120 Franken.
 
-<sup>2</sup> Die Fristen für die Überweisung der Gebühren werden vom Amt festgelegt.
+<sup>2</sup> Die Fristen für die Überweisung der Gebühren werden vom Amt festgelegt. Diese Fristen sind verbindlich und ihre Nichteinhaltung führt zum Ausschluss der Kandidatin oder des Kandidaten.
 
 <sup>3</sup> Die überwiesenen Gebühren werden zurückerstattet, wenn die angemeldete Person nicht zur Prüfung zugelassen wird, auf die Teilnahme verzichtet und das Amt wenigstens zehn Tage vorher darüber informiert oder aufgrund höherer Gewalt verhindert ist (Arztzeugnis oder gleichwertiges Dokument).
 
@@ -198,7 +198,7 @@ beschliesst:
 
 **Bewertung**
 
-<sup>1</sup> Die Kommission bewertet die theoretische Prüfung und übermittelt den Kandidatinnen und Kandidaten ihren Entscheid.
+<sup>1</sup> Die Kommission bewertet die Prüfungen und übermittelt den Kandidatinnen und Kandidaten ihren Entscheid.
 
 #### Art. 16
 
