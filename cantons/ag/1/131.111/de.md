@@ -4,13 +4,12 @@ number: "131.111"
 title: Verordnung zum Gesetz über die politischen Rechte
 short: VGPR
 language: de
-version: 2020-04-01
-valid_until: 2024-06-30
-version_adopted: 2019-06-26
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1992-11-25
 in_force: 1993-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/131.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2829/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2829/pdf_file"
 
 (VGPR)
 
-Vom 25.11.1992 (Stand 01.04.2020)
+Vom 25.11.1992 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -287,9 +286,9 @@ beschliesst:
 
 #### § 21
 
-**Vorlagen**
+**Unterlagen**
 
-<sup>1</sup> Die Staatskanzlei liefert den Gemeinden rechtzeitig und kostenlos die Vorlagen für die kantonalen Abstimmungen.
+<sup>1</sup> Die Staatskanzlei liefert den Gemeinden rechtzeitig und unentgeltlich die Unterlagen für die kantonalen Wahlen und Abstimmungen.
 
 <sup>2</sup> …
 
