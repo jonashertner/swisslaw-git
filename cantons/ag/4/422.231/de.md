@@ -4,13 +4,13 @@ number: "422.231"
 title: Verordnung über die Berufsfachschule Gesundheit und Soziales Brugg und die Höhere Fachschule Gesundheit und Soziales Aarau
 short: V BFGS und HFGS
 language: de
-version: 2017-01-01
-valid_until: 2024-06-30
-version_adopted: 2016-11-09
+version: 2024-07-01
+valid_until: 2024-09-14
+version_adopted: 2024-03-13
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.231"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2344/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2344/pdf_file"
 
 (V BFGS und HFGS)
 
-Vom 07.11.2007 (Stand 01.01.2017)
+Vom 07.11.2007 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -240,13 +240,7 @@ beschliesst:
 
 #### § 29
 
-**Studiengebühren**
-
-<sup>1</sup> Studierende der Bildungsgänge HF Pflege und HF Operationstechnik entrichten eine Studiengebühr von Fr. 500.– pro Schul- respektive Praktikumssemester, Studierende des Bildungsgangs HF Sozialpädagogik eine Studiengebühr von Fr. 1'000.– pro Schul- respektive Praktikumssemester.
-
-<sup>2</sup> Studierende, die ihren Wohnsitz gemäss der Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV) vom 22. März 2012[^29-1] ausserhalb des Kantons Aargau haben und für die kein anderer Kanton beziehungsweise Staat auf Grund einer Vereinbarung zu Lastenausgleichszahlungen verpflichtet ist, entrichten eine zusätzliche Studiengebühr gemäss dem jeweils geltenden Tarif des vorerwähnten Abkommens.
-
-[^29-1]: SAR [400.510](https://gesetzessammlungen.ag.ch/data/400.510/de)
+**…**
 
 #### § 30
 
