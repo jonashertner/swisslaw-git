@@ -3,30 +3,29 @@ canton: AG
 number: "426.123"
 title: Verordnung über das gestalterische Propädeutikum
 language: de
-version: 2022-08-01
-valid_until: 2024-06-30
-version_adopted: 2021-10-27
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2024-03-13
 adopted: 2017-05-03
 in_force: 2017-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/426.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3182/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das gestalterische Propädeutikum
 
-Vom 03.05.2017 (Stand 01.08.2022)
+Vom 03.05.2017 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 33a Abs. 2 und 5 des Schulgesetzes vom 17. März 1981[^ingress-1], § 50 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2] und § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-3],
+gestützt auf § 33a Abs. 2 und 5 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie § 50 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
 [^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
-[^ingress-3]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeines
 
@@ -110,37 +109,23 @@ beschliesst:
 
 <sup>1</sup> Einen Ausweis über die erfolgreiche Absolvierung des gestalterischen Propädeutikums erhält, wer einen genügenden Durchschnitt der Fachnoten beider Zeugnisse erzielt hat.
 
-## 4. Finanzierung
+## 4.
 
 #### § 11
 
-**Gebühren**
-
-<sup>1</sup> Die Gebühr für die Teilnahme am Aufnahmeverfahren beträgt Fr. 100.–.
-
-<sup>2</sup> Die Kandidatinnen und Kandidaten, die das Aufnahmeverfahren erfolgreich durchlaufen haben, haben eine Einschreibegebühr von Fr. 300.– zu entrichten. Bei einem Rückzug der Einschreibung wird die Gebühr nicht zurückerstattet.
+**…**
 
 #### § 12
 
-**Auslagen**
-
-<sup>1</sup> Zu Beginn des Kurses haben die Schülerinnen und Schüler für das Material einen Kostenvorschuss von Fr. 800.– zu bezahlen.
-
-<sup>2</sup> Die Schülerinnen und Schüler haben die Auslagen, namentlich für Unterrichtsmaterial, Drucksachen, Exkursionen, Projekte und Ausstellungsbesuche, selber zu tragen.
+**…**
 
 #### § 13
 
-**Schulgeld für ausserkantonale Schülerinnen und Schüler; fehlender Lastenausgleich**
-
-<sup>1</sup> Schülerinnen und Schüler, die ihren Wohnsitz ausserhalb des Kantons Aargau haben und für die kein anderer Kanton oder Staat auf Basis eines Schulgeldabkommens eine Kostengutsprache geleistet hat, entrichten ein Schulgeld gemäss dem jeweils geltenden Tarif des Regionalen Schulabkommens über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) vom 23. November 2007[^13-1].
-
-[^13-1]: SAR [400.300](https://gesetzessammlungen.ag.ch/data/400.300/de)
+**…**
 
 #### § 14
 
-**Erlass von Schulgeld**
-
-<sup>1</sup> Auf Gesuch hin kann das Departement Bildung, Kultur und Sport einzelnen Schülerinnen und Schülern in Härtefällen das Schulgeld ganz oder teilweise erlassen.
+**…**
 
 #### § 15
 
