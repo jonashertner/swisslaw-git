@@ -4,13 +4,12 @@ number: "671.200"
 title: Gesetz über die Nutzung des tiefen Untergrunds und die Gewinnung von Bodenschätzen
 short: GNB
 language: de
-version: 2013-03-01
-valid_until: 2024-06-30
-version_adopted: 2012-06-19
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2012-06-19
 in_force: 2013-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/671.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1770/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1770/pdf_file"
 
 (GNB)
 
-Vom 19.06.2012 (Stand 01.03.2013)
+Vom 19.06.2012 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -206,17 +205,13 @@ beschliesst:
 
 #### § 18
 
-**Verfahrenskosten**
-
-<sup>1</sup> Für Prüfung und Erteilung einer Bewilligung für Vorabklärungen oder einer Konzession wird eine einmalige Verwaltungsgebühr erhoben.
-
-<sup>2</sup> Zusätzlich zur Verwaltungsgebühr sind dem Kanton die entstehenden Auslagen zu vergüten, wie insbesondere Untersuchungs-, Begutachtungs-, Neuberechnungs-, Publikations- und Druckkosten.
+**…**
 
 #### § 19
 
 **Konzessionsabgabe**
 
-<sup>1</sup> Wer eine Konzession erhält, leistet zusätzlich zur Verwaltungsgebühr für jedes angefangene Jahr eine angemessene Abgabe. Bei geringer Höhe kann eine einmalige Abgabe über die gesamte Dauer der Konzession festgelegt werden.
+<sup>1</sup> Wer eine Konzession erhält, leistet für jedes angefangene Jahr eine angemessene Abgabe. Bei geringer Höhe kann eine einmalige Abgabe über die gesamte Dauer der Konzession festgelegt werden.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Bemessung der Konzessionsabgabe kumulativ folgende Kriterien:
 
