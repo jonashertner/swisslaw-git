@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sul coordinamento della trasformazione di
 short: OTDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/it"
 
 (Ordinanza sulla trasformazione digitale e l’informatica, OTDI)
 
-del 25 novembre 2020 (Stato 1° gennaio 2024)
+del 25 novembre 2020 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -104,7 +104,11 @@ Per quanto la presente ordinanza non disponga altrimenti, i dipartimenti e la Ca
 
 <sup>6</sup> Può rappresentare la Confederazione in organizzazioni attive nell’ambito della TDT sia a livello nazionale che internazionale.
 
+<sup>7</sup> Promuove il raggruppamento degli acquisti di beni e prestazioni di servizi nell’ambito delle tecnologie dell’informazione e della comunicazione (TIC) conformemente all’articolo 7 capoverso 3 dell’ordinanza del 1° maggio 2024[^4-2] concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale (OOAPub).[^4-3]
+
 [^4-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^4-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^4-3]: Introdotto dall’art. 44 cpv. 2 n. 3 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 ### Sezione 2: Consiglio della trasformazione digitale e della governance delle TIC della Confederazione
 

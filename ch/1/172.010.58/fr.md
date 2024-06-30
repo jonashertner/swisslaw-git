@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur la coordination de la transformation 
 short: OTNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/fr"
 
 (Ordonnance sur la transformation numérique et l’informatique, OTNI)
 
-du 25 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
+du 25 novembre 2020 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -104,7 +104,11 @@ Sauf disposition contraire de la présente ordonnance, les départements et la C
 
 <sup>6</sup> Il peut représenter la Confédération dans des organisations dans le domaine de la TNI, tant au niveau national qu’au niveau international.
 
+<sup>7</sup> Il encourage le regroupement des acquisitions de marchandises et de services dans le domaine des technologies de l’information et de la communication conformément à l’art. 7 al. 3 de l’ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^4-2].[^4-3]
+
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^4-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^4-3]: Introduit par l’art. 44 al. 2 ch. 3 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 ### Section 2 Conseil de la transformation numérique et de la gouvernance informatique de la Confédération
 

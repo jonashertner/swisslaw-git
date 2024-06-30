@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über die Koordination der digitalen Tr
 short: VDTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20240101/de"
 
 (Verordnung über die digitale Transformation und die Informatik, VDTI)
 
-vom 25. November 2020 (Stand am 1. Januar 2024)
+vom 25. November 2020 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -104,7 +104,11 @@ Soweit diese Verordnung nicht anderes bestimmt, sind die Departemente und die Bu
 
 <sup>6</sup> Er kann den Bund in einschlägigen Organisationen auf nationaler oder internationaler Ebene vertreten.
 
+<sup>7</sup> Er fördert die Bündelung der Beschaffung von Waren und Dienstleistungen der IKT gemäss Artikel 7 Absatz 3 der Verordnung vom 1. Mai 2024[^4-2] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org‑VöB).[^4-3]
+
 [^4-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^4-2]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^4-3]: Eingefügt durch Art. 44 Abs. 2 Ziff. 3 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 ### 2. Abschnitt: Digitalisierungsrat
 
