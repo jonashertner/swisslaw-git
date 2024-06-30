@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° gennaio 2024)
+del 7 novembre 2001 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -93,7 +93,7 @@ Sono considerati impianti elettrici:
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^2-3]: Nuova espr. giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: Nuova espressione giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -314,7 +314,7 @@ L’autorizzazione per lavori a impianti propri all’impresa è rilasciata a un
 L’autorizzazione conferisce il diritto di eseguire i seguenti lavori a impianti propri all’impresa:
 
 - a. lavori di manutenzione ed eliminazione delle perturbazioni;
-- b. modifica dell’impianto a valle del ruttore di sovraintensità di un’utenza o del ruttore differenziale di protezione per circuiti terminali;
+- b.[^13-1] modifica dell’impianto a valle del dispositivo di protezione contro le sovracorrenti d’abbonato o di un dispositivo di protezione contro le sovracorrenti per circuiti terminali; o
 - c. lavori d’installazione a valle del punto di separazione dalla rete nel caso di impianti temporanei come quelli di cantieri, mercati, circhi e aziende di spettacolo.
 
 <sup>4</sup>
@@ -324,6 +324,8 @@ Il titolare dell’autorizzazione provvede affinché:
 - a. la formazione dei dipendenti dell’impresa menzionati nell’autorizzazione corrisponda allo stato della tecnica più recente;
 - b. le persone di cui alla lettera a portino a termine la necessaria formazione continua; e
 - c. sia garantita senza interruzioni l’assistenza tecnica professionale delle persone di cui alla lettera a da parte di un servizio d’ispezione accreditato.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 14
 
@@ -374,7 +376,14 @@ L’autorizzazione di raccordo è concessa a un’impresa che affida l’esecuzi
 
 #### Art. 16
 
-<sup>1</sup> Non necessitano di un’autorizzazione d’installazione le persone del mestiere secondo l’articolo 8, le persone autorizzate a eseguire il controllo secondo l’articolo 27 e gli installatori elettricisti AFC che eseguono lavori d’installazione nei locali da loro abitati o di loro proprietà e nei locali a questi annessi.[^16-1]
+<sup>1</sup>
+
+Le persone seguenti non necessitano di un’autorizzazione d’installazione per lavori d’installazione nei locali da loro abitati o di loro proprietà e nei locali a questi annessi:
+
+- a. le persone del mestiere secondo l’articolo 8;
+- b. le persone autorizzate a eseguire il controllo secondo l’articolo 27 capoverso 1;
+- c. gli installatori elettricisti AFC;
+- d. gli elettricisti di montaggio AFC autorizzati a eseguire la prima verifica.[^16-1]
 
 <sup>2</sup>
 
@@ -385,7 +394,7 @@ Non necessitano inoltre di un’autorizzazione d’installazione le persone che:
 
 <sup>3</sup> Gli impianti elettrici di cui ai capoversi 1 e 2 lettera a devono essere controllati dal titolare di un’autorizzazione di controllo. La persona che esegue il controllo deve consegnare un rapporto di sicurezza al proprietario dell’impianto.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^16-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 [^16-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ### Sezione 5: Disposizioni comuni
@@ -717,13 +726,13 @@ Il proprietario che riprende dal realizzatore un impianto elettrico con un perio
 
 <sup>2</sup> Se si tratta di un impianto di produzione di energia ai sensi dell’articolo 2 capoverso 1 lettera c non collegato a una rete di distribuzione a bassa tensione per l’alimentazione di un impianto fisso, il proprietario consegna il rapporto di sicurezza all’Ispettorato al momento della messa in servizio.
 
-<sup>3</sup> Il proprietario che riprende dal realizzatore un impianto di produzione di energia secondo l’articolo 2 capoverso 1 lettera c collegato a una rete di distribuzione a bassa tensione fa eseguire entro due mesi un collaudo dell’impianto di produzione di energia da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-2]
+<sup>3</sup> Il proprietario che riprende dal realizzatore un impianto di produzione di energia collegato a una rete di distribuzione a bassa tensione oppure un impianto elettrico con un periodo di controllo inferiore a 20 anni conformemente all’allegato fa eseguire entro sei mesi un collaudo da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-2]
 
-<sup>4</sup> Il proprietario che riprende dal realizzatore un impianto elettrico con un periodo di controllo inferiore a 20 anni conformemente all’allegato fa eseguire entro sei mesi un collaudo da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-3]
+<sup>4</sup> *...*[^35-3]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^35-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^35-3]: Introdotto dal n. I dell’O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)). Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 36
 

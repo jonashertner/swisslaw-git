@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (État le 1<sup>er</sup> janvier 2024)
+du 7 novembre 2001 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -310,7 +310,7 @@ L’autorisation est accordée à une entreprise pour les travaux effectués sur
 L’autorisation permet d’exécuter les travaux suivants sur des installations propres à l’entreprise:
 
 - a. les travaux d’entretien et la suppression de perturbations;
-- b. la modification d’installations en aval d’un coupe-surintensité d’abonné ou de dispositifs de protection contre les surtensions pour les circuits finaux;
+- b.[^13-1] la modification d’installations en aval d’un coupe-surintensité d’abonné ou de dispositifs de protection contre les surintensités pour les circuits terminaux;
 - c. les travaux d’installation effectués en aval des points de sectionnement sur des installations temporaires comme celles que l’on trouve sur les chantiers, les marchés, dans les cirques ou les foires.
 
 <sup>4</sup>
@@ -320,6 +320,8 @@ Le titulaire de l’autorisation fait en sorte que:
 - a. la formation des membres du personnel mentionnés dans l’autorisation correspond à l’état le plus récent de la technique;
 - b. les personnes visées à la let. a suivent les cours de formation continue requis, et que
 - c. le suivi technique en cours d’emploi des personnes visées à la let. a par un organisme d’inspection accrédité soit assuré sans interruption.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 14
 
@@ -370,7 +372,14 @@ L’autorisation de raccordement est accordée à une entreprise si les membres 
 
 #### Art. 16
 
-<sup>1</sup> Ne doivent pas demander d’autorisation les personnes du métier visées à l’art. 8, les personnes autorisées à contrôler visées à l’art. 27, al. 1, ainsi que les installateurs-électriciens CFC, pour les travaux d’installation dans les locaux d’habitation et les locaux annexes qu’ils habitent ou dont ils sont propriétaires.[^16-1]
+<sup>1</sup>
+
+Les personnes suivantes ne doivent pas demander d’autorisation pour les travaux d’installation dans les locaux d’habitation et les locaux annexes qu’elles habitent ou dont elles sont propriétaires:
+
+- a. les personnes du métier visées à l’art. 8;
+- b. les personnes autorisées à contrôler visées à l’art. 27, al. 1;
+- c. les installateurs-électriciens CFC;
+- d. les électriciens de montage CFC habilités à effectuer la première vérification.[^16-1]
 
 <sup>2</sup>
 
@@ -379,10 +388,11 @@ L’autorisation n’est en outre pas nécessaire pour:
 - a. l’installation de prises et d’interrupteurs effectuée sur des équipements existants dans le logement occupé en propre ou les locaux annexes à celui-ci sur des circuits terminaux monophasés précédés d’un coupe-surintensité divisionnaire, à condition que les installations soient protégées par un disjoncteur à courant différentiel-résiduel de 30 mA au maximum;
 - b. le raccordement ou le débranchement des luminaires ou le remplacement des interrupteurs dans le logement occupé en propre ou les locaux annexes à celui-ci.[^16-2]
 
-<sup>3</sup> Les installations électriques selon les al. 1 et 2, let. a, doivent être contrôlées par le titulaire d’une autorisation. Cette personne remettra une attestation de contrôle au propriétaire de l’installation.
+<sup>3</sup> Les installations électriques selon les al. 1 et 2, let. a, doivent être contrôlées par le titulaire d’une autorisation de contrôler. Cette personne remettra le rapport de sécurité au propriétaire de l’installation.[^16-3]
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 ### Section 5 Dispositions communes
 
@@ -713,13 +723,13 @@ Lorsque le propriétaire reprend du constructeur une installation dont la pério
 
 <sup>2</sup> S’il s’agit d’une installation de production d’énergie au sens de l’art. 2, al. 1, let. c, non connectée à un réseau de distribution à basse tension pour l’injection dans une installation fixe, le propriétaire remet le rapport de sécurité à l’Inspection lors de la mise en service.
 
-<sup>3</sup> Lorsque le propriétaire reprend du constructeur une installation de production d’énergie au sens de l’art. 2, al. 1, let. c, reliée à un réseau de distribution à basse tension, il fait faire, dans les 2 mois à compter de la réception de l’installation, un contrôle de réception de celle-ci par un organisme indépendant de l’installateur ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas d’installations visées à l’art. 32, al. 2, à l’Inspection.[^35-2]
+<sup>3</sup> Lorsque le propriétaire reprend du constructeur une installation de production d’énergie reliée à un réseau de distribution à basse tension ou une installation électrique dont la période de contrôle selon l’annexe est inférieure à 20 ans, il fait faire, dans les 6 mois suivant la réception de l’installation, un contrôle de réception par un organisme indépendant ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas des installations visées l’art. 32, al. 2, à l’Inspection.[^35-2]
 
-<sup>4</sup> Lorsque le propriétaire reprend du constructeur une installation électrique dont la période de contrôle selon l’annexe est inférieure à 20 ans, il fait faire, dans les 6 mois à compter de la réception de l’installation, un contrôle de réception par un organisme indépendant ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas d’installations visées l’art. 32, al. 2, à l’Inspection.[^35-3]
+<sup>4</sup> ...[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^35-3]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^35-3]: Introduit par le ch. I de l’O du 4 juin 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)). Abrogé par le ch. I de l’O du 31 mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 36
 
@@ -755,19 +765,20 @@ Le rapport de sécurité doit contenir au moins les indications suivantes:
 - c. la périodicité du contrôle;
 - d. le nom et l’adresse de l’installateur;
 - e. les résultats du contrôle final propre à l’entreprise selon l’art. 24;
-- f. le nom et l’adresse du titulaire de l’autorisation de contrôler et les résultats du contrôle après un contrôle de réception selon l’art. 35, al. 3, et du contrôle périodique selon de l’art. 36.
+- f.[^37-2] le nom et l’adresse du titulaire de l’autorisation de contrôler et les résultats du contrôle après un contrôle de réception selon l’art. 35, al. 3, et du contrôle périodique selon l’art. 36.
 
 <sup>2</sup>
 
 Le rapport de sécurité doit être signé:
 
 - a. par les personnes qui ont effectué le contrôle, et
-- b. par une des personnes autorisées à contrôler dont le nom est mentionné dans l’autorisation d’installer.[^37-2]
+- b. par une des personnes autorisées à contrôler dont le nom est mentionné dans l’autorisation d’installer.[^37-3]
 
 <sup>3</sup> Le DETEC fixe le contenu technique du rapport de sécurité. Il consulte au préalable l’Inspection et les organisations professionnelles.
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^37-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^37-3]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 38
 
@@ -832,13 +843,14 @@ Est puni selon l’art. 55, al. 3, LIE quiconque:
 
   - 1\. en ne respectant pas les prescriptions concernant l’organisation de l’entreprise (art. 10 et 10*a*),
   - 2\. en ne respectant pas les prescriptions concernant le recours à d’autres entreprises et à des particuliers (art. 10*b*),
-  - 3\. en annonçant des travaux à réaliser par des personnes qui ne sont pas intégrées dans l’entreprise conformément aux art. 10 et 10*a* ou ceux à réaliser par d’autres entreprises et en achevant de tels travaux par la délivrance consécutive d’un rapport de sécurité,
+  - 3\.[^42-2] en annonçant des travaux à réaliser par des personnes qui ne sont pas intégrées dans l’entreprise conformément aux art. 10 et 10*a* ou ceux à réaliser par d’autres entreprises ou en achevant de tels travaux par la délivrance consécutive d’un rapport de sécurité,
   - 4\. en négligeant d’élaborer le rapport de sécurité ou en négligeant de le faire dans les délais requis ou en négligeant de remettre le rapport au propriétaire de l’installation dans les délais requis (art. 24),
   - 5\. en négligeant d’effectuer les contrôles prescrits ou en les effectuant de façon gravement incorrecte (art. 24 et 25),
   - 6\. en ne respectant pas l’obligation d’indépendance des contrôles (art. 31), ou
   - 7\. en remettant au propriétaire des installations électriques qui présentent des défauts dangereux (art. 3).
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -904,8 +916,7 @@ Annexe[^t-1]
 
 ### 1 Installations électriques soumises au contrôle d’un organisme d’inspection accrédité (installations spéciales, art. 32, al. 2)
 
-1.1 Sont soumises au contrôle annuel:
-
+- 1\.1 Sont soumises au contrôle annuel:
 - 1\.1.1 les installations électriques des installations de transport par conduites soumises à la surveillance de la Confédération;
 - 1\.1.2 les installations électriques des ouvrages de munitions et des dépôts de carburants militaires classifiés;
 - 1\.1.3 les installations électriques des locaux à affectation médicale du groupe 2;

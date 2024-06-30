@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240101/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Januar 2024)
+vom 7. November 2001 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -146,7 +146,7 @@ Elektrische Installationen sind:
 
 #### Art. 6
 
-- [tab] Wer elektrische Installationen erstellt, ändert oder in Stand stellt und wer elektrische Erzeugnisse an elektrische Installationen fest anschliesst oder solche Anschlüsse unterbricht, ändert oder in Stand stellt, braucht eine Installationsbewilligung des Inspektorates.
+Wer elektrische Installationen erstellt, ändert oder in Stand stellt und wer elektrische Erzeugnisse an elektrische Installationen fest anschliesst oder solche Anschlüsse unterbricht, ändert oder in Stand stellt, braucht eine Installationsbewilligung des Inspektorates.
 
 ### 2. Abschnitt: Allgemeine Installationsbewilligung
 
@@ -373,7 +373,14 @@ Die Anschlussbewilligung wird einem Betrieb erteilt, der zur Ausführung der Arb
 
 #### Art. 16
 
-<sup>1</sup> Keine Installationsbewilligung benötigen fachkundige Personen nach Artikel 8, kontrollberechtigte Personen nach Artikel 27 sowie Elektroinstallateure EFZ für Installationsarbeiten in von ihnen bewohnten oder in ihrem Eigentum stehenden Wohnräumen und in den zugehörigen Nebenräumen.[^16-1]
+<sup>1</sup>
+
+Folgende Personen benötigen keine Installationsbewilligung für Installationsarbeiten in von ihnen bewohnten oder in ihrem Eigentum stehenden Wohnräumen und in den zugehörigen Nebenräumen:
+
+- a. fachkundige Personen nach Artikel 8;
+- b. kontrollberechtigte Personen nach Artikel 27 Absatz 1;
+- c. Elektroinstallateure EFZ;
+- d. Montage-Elektriker EFZ, die befähigt sind, die Erstprüfung durchzuführen.[^16-1]
 
 <sup>2</sup>
 
@@ -384,7 +391,7 @@ Keine Installationsbewilligung benötigen Personen, die:
 
 <sup>3</sup> Elektrische Installationen nach Absatz 1 und Absatz 2 Buchstabe a müssen vom Inhaber einer Kontrollbewilligung kontrolliert werden. Die kontrollierende Person muss dem Eigentümer den Sicherheitsnachweis übergeben.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ### 5. Abschnitt: Gemeinsame Bestimmungen
@@ -718,13 +725,13 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 <sup>2</sup> Handelt es sich um eine Energieerzeugungsanlage nach Artikel 2 Absatz 1 Buchstabe c ohne Verbindung mit einem Niederspannungsverteilnetz zur Einspeisung in eine feste Installation, so muss der Eigentümer den Sicherheitsnachweis bei der Inbetriebnahme dem Inspektorat einreichen.
 
-<sup>3</sup> Übernimmt der Eigentümer vom Ersteller eine Energieerzeugungsanlage nach Artikel 2 Absatz 1 Buchstabe c, die mit einem Niederspannungsverteilnetz verbunden ist, so veranlasst er innerhalb von zwei Monaten eine Abnahmekontrolle der Energieerzeugungsanlage durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin oder, bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-2]
+<sup>3</sup> Übernimmt der Eigentümer vom Ersteller eine Energieerzeugungsanlage mit Verbindung zu einem Niederspannungsverteilnetz oder eine elektrische Installation mit einer Kontrollperiode von weniger als 20 Jahren gemäss Anhang, so veranlasst er innerhalb von sechs Monaten eine Abnahmekontrolle durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin oder, bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-2]
 
-<sup>4</sup> Übernimmt der Eigentümer vom Ersteller eine elektrische Installation mit einer Kontrollperiode von weniger als 20 Jahren gemäss Anhang, so veranlasst er innerhalb von sechs Monaten eine Abnahmekontrolle durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin oder, bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-3]
+<sup>4</sup> …[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^35-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^35-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)). Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 36
 
