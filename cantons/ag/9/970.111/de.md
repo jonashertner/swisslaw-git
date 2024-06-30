@@ -4,13 +4,13 @@ number: "970.111"
 title: Verordnung über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken
 short: "Gastgewerbeverordnung, GGV"
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-10-21
+version: 2024-07-01
+valid_until: 2025-02-28
+version_adopted: 2024-03-13
 adopted: 1998-03-25
 in_force: 1998-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/970.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2923/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2923/pdf_file"
 
 (Gastgewerbeverordnung, GGV)
 
-Vom 25.03.1998 (Stand 01.01.2021)
+Vom 25.03.1998 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -140,11 +140,7 @@ beschliesst:
 
 #### § 10a
 
-**Einzahlung Prüfungsgebühr**
-
-<sup>1</sup> Die Prüfungsgebühr ist nach dem Zulassungsentscheid zu entrichten.
-
-<sup>2</sup> Die einbezahlte Prüfungsgebühr verfällt, wenn die Prüfung ohne fristgerechte Abmeldung oder nachgewiesenem Verhinderungsgrund gemäss Merkblatt (§ 9 Abs. 3) nicht angetreten wird.
+**…**
 
 #### § 10b
 
@@ -245,7 +241,7 @@ beschliesst:
 
 <sup>2</sup> Der Entscheid wird der ausweistragenden Person schriftlich eröffnet.
 
-<sup>3</sup> Das Anerkennungsverfahren ist kostenlos.
+<sup>3</sup> Das Anerkennungsverfahren ist unentgeltlich.
 
 #### § 19
 
@@ -289,14 +285,14 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Es gelten folgende Gebührenansätze:
+<sup>1</sup> Die Gemeinderäte erheben folgende Gebühren:
 
 - a) Für die Bearbeitung der Meldung über die dauerhafte Aufnahme der Wirtetätigkeit — Fr. 150.–
 - b) Für die Bearbeitung der Meldung von Änderungen in der Betriebsführung — Fr. 100.–
-- c) Für die Abnahme der Wirtefachprüfung pro Prüfungsfach der Haupt-, Nach- und Ergänzungsprüfung — Fr. 120.–
-- d) Für die Prüfung von Gesuchen für den Kleinhandel mit Spirituosen nach Aufwand — Fr. 20.– bis Fr. 200.–
+- c) …
+- d) …
 - e) Für die Prüfung von Gesuchen auf Verlängerung der Öffnungszeit, wenn diese nicht Bestandteil eines Baubewilligungsverfahrens sind — Fr. 30.– bis Fr. 100.–
-- f) Für die Festsetzung der Alkoholabgabe nach Ermessen infolge Nichtdeklarierung des Spirituosenumsatzes (§ 24 Abs. 2<sup>ter</sup>) — Fr. 250.–
+- f) …
 
 #### § 24
 
@@ -338,34 +334,11 @@ beschliesst:
 
 #### § 26
 
-**Aufhebung geltenden Rechts**
-
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
-
-- a) die Bestimmungen der Verordnung zum Wirtschaftsgesetz vom 16. August 1976[^26-1] mit Ausnahme von §§ 13–18 sowie § 31 Abs. 2 lit. b und lit. c;
-- b) die Verordnung über die Fremdenkontrolle in Hotels und Gasthöfen (Tavernenwirtschaften) vom 18. Februar 1965[^26-2];
-- c) die Verordnung über die Wirtefachprüfung zum Erwerb des gastgewerblichen Fähigkeitsausweises (Wirteprüfungsverordnung) vom 1. Juni 1992[^26-3];
-- d) § 6 der Vollziehungsverordnung zum Bundesgesetz über Ordnungsbussen im Strassenverkehr vom 20. November 1972[^26-4].
-
-[^26-1]: AGS Bd. 9 S. 314; aufgehoben (AGS 2000 S. 307)
-[^26-2]: AGS Bd. 6 S. 238
-[^26-3]: AGS Bd. 14 S. 83
-[^26-4]: AGS Bd. 8 S. 360; aufgehoben (AGS 2007 S. 543)
+**…**
 
 #### § 27
 
-**Änderung geltenden Rechts**
-
-<sup>1</sup> Die Verordnung zum Wirtschaftsgesetz vom 16. August 1976[^27-1] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>2</sup> Die Verordnung über die Delegation von Kompetenzen des Regierungsrates vom 8. November 1982[^27-2] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-[^27-1]: AGS Bd. 9 S. 314; aufgehoben (AGS 2000 S. 307)
-[^27-2]: AGS Bd. 10 S. 734; Bd. 11 S. 412; 1995 S. 75, 109; 1996 S. 79; 1997 S. 69 (SAR [153.111](https://gesetzessammlungen.ag.ch/data/153.111/de))
+**…**
 
 #### § 28
 
