@@ -3,20 +3,20 @@ canton: AG
 number: "423.922"
 title: Verordnung über den Instrumentalunterricht an den Mittelschulen
 language: de
-version: 2020-08-01
-valid_until: 2024-06-30
-version_adopted: 2019-09-25
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2024-03-13
 adopted: 2017-05-03
 in_force: 2017-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.922"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2855/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3735/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Instrumentalunterricht an den Mittelschulen
 
-Vom 03.05.2017 (Stand 01.08.2020)
+Vom 03.05.2017 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -102,28 +102,15 @@ beschliesst:
 
 #### § 9
 
-**Kostenbeteiligung**
-
-<sup>1</sup> Die Kostenbeteiligung einer Schülerin oder eines Schülers im Freifach Instrumentalunterricht beträgt für eine halbe Lektion pauschal Fr. 1'000.– pro Schuljahr respektive die Hälfte für ein halbes Schuljahr.
-
-<sup>2</sup> Wer die Kostenbeteiligung nicht fristgerecht bezahlt, ist ab Beginn des jeweiligen Schuljahrs vom Besuch des Freifachs Instrumentalunterricht ausgeschlossen.
-
-<sup>3</sup> Auf Gesuch hin kann das BKS einzelnen Schülerinnen und Schülern in Härtefällen die Kostenbeteiligung ganz oder teilweise erlassen.
+**…**
 
 #### § 10
 
-**Rückerstattung der Kostenbeteiligung**
-
-<sup>1</sup> Die Schulleitung kann auf Gesuch hin die Kostenbeteiligung teilweise zurückerstatten bei
-
-- a) länger dauernder, unverschuldeter Absenz der Schülerin oder des Schülers,
-- b) Austritt einer Schülerin oder eines Schülers aus der Schule während des Schuljahrs.
+**…**
 
 #### § 11
 
-**Unterrichtsausfall**
-
-<sup>1</sup> Fällt eine Unterrichtslektion wegen eines Schulanlasses oder infolge Krankheit oder Unfall der Schülerin beziehungsweise des Schülers oder der Lehrperson aus, erfolgt keine teilweise Rückerstattung der Kostenbeteiligung.
+**…**
 
 ## 4.
 
