@@ -3,20 +3,19 @@ canton: SO
 number: "811.422.4"
 title: Verordnung über den Lohn und die Entschädigung der Studierenden der höheren Berufsbildung (Diplompflege HF) bei der Solothurner Spitäler AG
 language: de
-version: 2011-09-01
-valid_until: 2024-06-30
-version_adopted: 2011-06-28
+version: 2024-07-01
+version_adopted: 2024-06-18
 adopted: 2011-06-28
 in_force: 2011-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.422.4"
-pdf: "https://bgs.so.ch/api/de/versions/3861/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Lohn und die Entschädigung der Studierenden der höheren Berufsbildung (Diplompflege HF) bei der Solothurner Spitäler AG
 
-Vom 28.06.2011 (Stand 01.09.2011)
+Vom 28.06.2011 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -31,6 +30,10 @@ beschliesst:
 **Geltungsbereich**
 
 <sup>1</sup> Diese Verordnung regelt den Lohn und die Entschädigungen der Voll- und Teilzeitstudierenden der höheren Berufsbildung (Diplompflege HF) bei der Solothurner Spitäler AG (soH).
+
+<sup>2</sup> Während der Geltungsdauer des Einführungsgesetzes zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^1-1] darf die soH mit den Studierenden keine Ausbildungszuschläge gemäss § 6 vereinbaren.
+
+[^1-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de)
 
 #### § 2
 
@@ -100,6 +103,24 @@ beschliesst:
 **Auszahlung**
 
 <sup>1</sup> Die soH zahlt den Grundlohn und einen allfälligen Ausbildungszuschlag in zwölf Monatsraten, jeweils am Ende des Monats aus.
+
+#### § 9
+
+**Befristete Bestimmung**
+
+<sup>1</sup> § 1 Absatz 2 gilt bis zum Ausserkrafttreten des EG Ausbildungsfördergesetz Pflege[^9-1].
+
+[^9-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de)
+
+#### § 10
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die soH und die Studierenden gemäss § 10 Abs. 1 EG Ausbildungsfördergesetz Pflege[^10-1] entscheiden im gegenseitigen Einvernehmen, ob die vor dem 1. Juli 2024 vertraglich vereinbarten Ausbildungszuschläge beibehalten werden sollen. Verzichten die Studierenden nicht schriftlich auf die Ausbildungszuschläge, entfallen die Ausbildungsbeiträge.
+
+<sup>2</sup> Vor dem Inkrafttreten des EG Ausbildungsfördergesetz Pflege vertraglich vereinbarte Ausbildungszuschläge von Studierenden, die ihren zivilrechtlichen Wohnsitz in einem anderen Kanton haben oder in einem anderen Kanton als Grenzgänger oder Grenzgängerin eine Erwerbstätigkeit ausüben, bleiben gültig. Die Beitragshöhe und die Rückerstattungspflicht richten sich nach dem EG Ausbildungsfördergesetz Pflege. Allfällige Ausbildungsbeiträge eines anderen Kantons werden abgezogen.
+
+[^10-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de)
 
 Diese Verordnung tritt am 1. September 2011 in Kraft. Vorbehalten bleibt das Einspruchsrecht des Kantonsrates.
 
