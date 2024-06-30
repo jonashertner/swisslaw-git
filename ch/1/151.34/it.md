@@ -4,11 +4,11 @@ title: Ordinanza del 12 novembre 2003 concernente la concezione di una rete di t
 short: OTDis
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/669"
 language: it
-version: 2020-11-01
+version: 2024-07-01
 adopted: 2003-11-12
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/669/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2003-669-20201101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/669/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-669-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20201101/it"
 
 (OTDis)
 
-del 12 novembre 2003 (Stato 1° novembre 2020)
+del 12 novembre 2003 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,12 +35,9 @@ ordina:
 
 <sup>1</sup> La presente ordinanza stabilisce come concepire i trasporti pubblici per renderli conformi alle esigenze dei disabili.
 
-<sup>2</sup>
+<sup>2</sup> A tal fine definisce i requisiti funzionali applicabili alle infrastrutture, ai veicoli e alle prestazioni dei trasporti pubblici.[^1-1]
 
-A tal fine definisce:
-
-- a. i requisiti funzionali applicabili alle infrastrutture, ai veicoli e alle prestazioni dei trasporti pubblici;
-- b. le condizioni per la concessione di aiuti finanziari conformemente all’articolo 23 LDis.
+[^1-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 2
 
@@ -90,7 +87,7 @@ Sono considerati infrastrutture, veicoli e prestazioni dei trasporti pubblici in
 
 <sup>1</sup> Un servizio incaricato dall’Ufficio federale dei trasporti (UFT) gestisce una piattaforma informativa, accessibile pubblicamente, sulla concezione delle fermate conformi alle esigenze dei disabili nella rete di trasporti pubblici in Svizzera.
 
-<sup>2</sup> Su questa piattaforma i gestori dell’infrastruttura delle tratte interoperabili di cui all’articolo 15*a* capoverso 1 lettera a dell’ordinanza del 23 novembre 1983[^3a-2] sulle ferrovie mettono a disposizione entro il 16 giugno 2022 le informazioni di cui agli articoli 7 e 7<sup>bis</sup> del regolamento (UE) n. 1300/2014[^3a-3] relative alla conformità delle proprie fermate del traffico ferroviario interoperabile alle esigenze dei disabili.
+<sup>2</sup> Su questa piattaforma i gestori dell’infrastruttura delle tratte interoperabili di cui all’articolo 15*a* capoverso 1 lettera a dell’ordinanza del 23 novembre 1983[^3a-2] sulle ferrovie mettono a disposizione entro il 16 giugno 2022 le informazioni di cui agli articoli 7 e 7*a* del regolamento (UE) n. 1300/2014[^3a-3] relative alla conformità delle proprie fermate del traffico ferroviario interoperabile alle esigenze dei disabili.[^3a-4]
 
 <sup>3</sup> Le altre imprese dei trasporti pubblici mettono a disposizione le informazioni relative alla conformità delle fermate alle esigenze dei disabili sulla piattaforma entro il 31 dicembre 2023.
 
@@ -100,7 +97,8 @@ Sono considerati infrastrutture, veicoli e prestazioni dei trasporti pubblici in
 
 [^3a-1]: Introdotto dal n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)).
 [^3a-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^3a-3]: Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta, GU L 356 del 12.12.2014, pag. 110; modificato dal regolamento di esecuzione (UE) 2019/772 del 16.5.2019, GU L 139 I del 27.5.2019, pag 1.
+[^3a-3]: Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta, GU L 356 del 12.12.2014, pag. 110; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694, GU L 222 dell’8.9.2023, pag. 88.
+[^3a-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 4
 
@@ -163,42 +161,13 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 ## Capitolo 3: Aiuti finanziari
 
-### Sezione 1: Principi relativi al finanziamento
+### Sezione 1: ...
 
-#### Art. 9
+#### Art. 9 a 11
 
-**Misure sovvenzionate**
+[^911-1]
 
-<sup>1</sup> Sono accordati aiuti finanziari per coprire i costi supplementari delle misure realizzate anticipatamente.
-
-<sup>2</sup> La Confederazione può concedere anche aiuti finanziari per lo sviluppo di norme relative alla concezione di una rete di trasporti pubblici conforme alle esigenze dei disabili.
-
-<sup>3</sup> Gli aiuti finanziari sono concessi solo in un periodo di 20 anni dopo l’entrata in vigore della presente ordinanza (art. 23 LDis).
-
-<sup>4</sup> Per misure realizzate anticipatamente si intendono le misure adottate prima del momento considerato opportuno dal punto di vista economico-aziendale. L’UFT decide se una misura è da considerarsi realizzata anticipatamente.[^9-1] A tal fine, considera i tassi d’ammortamento di cui all’articolo 11 dell’ordinanza del DATEC del 18 dicembre 1995[^9-2] sulla contabilità delle imprese concessionarie.
-
-[^9-1]: Nuovo testo del per. giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)).
-[^9-2]: [[RU 1996 458](https://fedlex.data.admin.ch/eli/oc/1996/458_458_458), [1999 1425](https://fedlex.data.admin.ch/eli/oc/1999/212). [RU 2011 351](https://fedlex.data.admin.ch/eli/oc/2011/58)art. 22]. Vedi ora l’O del 18 gennaio 2011 ([RS 742.221](https://fedlex.data.admin.ch/eli/cc/2011/58)).
-
-#### Art. 10
-
-**Chiave di finanziamento**
-
-La ripartizione dei costi tra la Confederazione e i Cantoni si conforma ai principi della legge federale del 20 dicembre 1957[^10-1] sulle ferrovie.
-
-[^10-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-
-#### Art. 11
-
-**Traffico regionale e offerte di trasporto oggetto di un’ordinazione**
-
-<sup>1</sup> In caso di trasformazione o di acquisto di veicoli del traffico regionale viaggiatori, gli aiuti finanziari della Confederazione e dei Cantoni sono concessi in base alla chiave di ripartizione per le indennità di cui all’articolo 29*b* capoverso 2 dell’ordinanza dell’11 novembre 2009[^11-1] sulle indennità per il traffico regionale viaggiatori.[^11-2]
-
-<sup>2</sup> Di regola, gli aiuti finanziari sono concessi solo per le offerte di trasporto oggetto di un’ordinazione da parte esclusiva della Confederazione o di questa insieme ai Cantoni. L’UFT[^11-3] stabilisce le eccezioni d’intesa con l’Amministrazione federale delle finanze.
-
-[^11-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^11-2]: Nuovo testo giusta il n. I dell’O del 25 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3781](https://fedlex.data.admin.ch/eli/oc/2015/635)).
-[^11-3]: Nuova espr. giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)). Di detta mod. é tenuto conto in tutto il presente testo..
+[^911-1]: Abrogati dal n. I dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 ### Sezione 2: …
 
@@ -210,106 +179,28 @@ La ripartizione dei costi tra la Confederazione e i Cantoni si conforma ai princ
 
 ### Sezione 3: Procedura
 
-#### Art. 17
+#### Art. 17 a 23
 
-**Programmi d’attuazione**[^17-1]
+[^1723-1]
 
-<sup>1</sup> Gli aiuti finanziari sono concessi unicamente se le imprese dei trasporti pubblici presentano all’UFT un programma d’attuazione nel quale indicano in che modo intendono adempiere i requisiti tecnici entro il termine d’adeguamento accordato.
-
-<sup>2</sup>
-
-Il programma d’attuazione indica quali fra le misure per adeguare l’offerta alle esigenze dei disabili:
-
-- a. sono già state realizzate;
-- b. l’impresa dovrebbe adottare nel quadro del consueto programma d’investimento;
-- c. l’impresa adotterà al di fuori del consueto programma d’investimento entro la scadenza del termine d’adeguamento di cui all’articolo 22 capoverso 1 LDis.
-
-<sup>3</sup> Il programma indica inoltre i costi derivanti da tali misure.
-
-[^17-1]: Nuovo testo giusta il n. I dell’O del 25 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3781](https://fedlex.data.admin.ch/eli/oc/2015/635)).
-
-#### Art. 18
-
-**Progetto d’attuazione**
-
-<sup>1</sup> L’UFT, d’intesa con i Cantoni interessati, allestisce un progetto d’attuazione sulla base dei programmi d’attuazione (art. 23 cpv. 3 LDis).
-
-<sup>2</sup> Le imprese dei trasporti pubblici possono chiedere aiuti finanziari per misure che costituiscono una parte essenziale del progetto d’attuazione.
-
-#### Art. 19
-
-**Domanda**
-
-<sup>1</sup> Il richiedente inoltra la domanda di contributi all’UFT in duplice esemplare.
-
-<sup>2</sup>
-
-La domanda include:
-
-- a. nel caso di adeguamento anticipato di infrastrutture dei trasporti pubblici accessibili al pubblico, un progetto corredato del relativo preventivo;
-- b. nel caso di trasformazione o di acquisto anticipato di veicoli, la consueta documentazione relativa all’offerta;
-- c. una lista delle norme applicabili ai progetti secondo le pertinenti disposizioni d’esecuzione, che indichi in che misura le norme sono rispettate.
-
-<sup>3</sup> In singoli casi, l’UFT può richiedere documenti supplementari.
-
-#### Art. 20
-
-**Ammontare degli aiuti finanziari**
-
-<sup>1</sup> L’ammontare degli aiuti finanziari per adeguare anticipatamente gli edifici, gli impianti e i veicoli esistenti delle imprese dei trasporti pubblici dipende dai costi necessari ad adempiere in modo per quanto possibile economico i requisiti funzionali definiti nel capitolo 2.
-
-<sup>2</sup> L’UFT decide caso per caso le misure da adottare per raggiungere in modo per quanto possibile economico gli obiettivi definiti per i trasporti pubblici nell’articolo 5 capoverso 1 LDis.
-
-#### Art. 21
-
-**Costi imputabili**
-
-<sup>1</sup> Sono imputabili i costi proporzionali di pianificazione e di preparazione, i costi di costruzione principali e accessori e le spese di trasformazione dei veicoli. Se i costi totali o singoli elementi di costo superano l’importo consueto per progetti simili, i costi imputabili possono essere ridotti in modo corrispondente.
-
-<sup>2</sup>
-
-Non sono imputabili:
-
-- a. i costi del capitale e le indennità versate alle autorità e alle commissioni;
-- b. i costi operativi supplementari dovuti ai periodi di immobilizzazione dei veicoli al momento della trasformazione.
-
-<sup>3</sup> L’UFT stabilisce nei singoli casi i costi imputabili.
-
-#### Art. 22
-
-**Contributi a fondo perso e mutui**
-
-<sup>1</sup> Per l’adeguamento di edifici e impianti possono essere concessi contributi a fondo perso o mutui a tasso d’interesse variabile rimborsabili condizionalmente. L’impresa non può assumere ulteriori oneri sotto forma di aumento delle spese d’ammortamento nel periodo compreso tra la data dell’investimento anticipato e la data prevista o considerata opportuna dal punto di vista economico.
-
-<sup>2</sup> Possono essere accordati contributi a fondo perso per l’adeguamento di veicoli.
-
-<sup>3</sup> L’UFT stabilisce nei singoli casi la modalità di concessione dei fondi.
-
-#### Art. 23
-
-**Assegnazione**
-
-<sup>1</sup> L’UFT esamina le domande di contributo in base a criteri uniformi. Se il risultato dell’esame è positivo, può assegnare aiuti finanziari entro i limiti dei crediti disponibili.
-
-<sup>2</sup> L’UFT tiene un riepilogo dei contributi e dei mutui assegnati. Il riepilogo indica il totale degli impegni assunti in base alle relative decisioni di finanziamento della Confederazione e dei Cantoni.
+[^1723-1]: Abrogati dal n. I dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 24
 
-**Versamento e restituzione**
+**Versamento e restituzione degli aiuti finanziari**[^24-1]
 
-<sup>1</sup> L’UFT coordina con i Cantoni il versamento degli aiuti finanziari entro i limiti dei fondi disponibili.
+Il versamento e la restituzione degli aiuti finanziari della Confederazione sono retti dalla legge del 5 ottobre 1990[^24-2] sui sussidi.
 
-<sup>2</sup> Per il resto, il versamento e la restituzione degli aiuti finanziari della Confederazione sono retti dalle disposizioni della legge del 5 ottobre 1990[^24-1] sui sussidi.
-
-[^24-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
+[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 25
 
-**Condizioni e oneri**
+**Condizioni e oneri cui sono vincolati gli aiuti finanziari**[^25-1]
 
-<sup>1</sup> L’UFT può vincolare l’assegnazione degli aiuti finanziari a oneri e condizioni.
+L’UFT controlla che siano adempiuti gli oneri e rispettate le condizioni cui sono vincolati gli aiuti finanziari.
 
-<sup>2</sup> Controlla che gli oneri siano adempiuti e le condizioni rispettate.
+[^25-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 ## Capitolo 4: Entrata in vigore
 

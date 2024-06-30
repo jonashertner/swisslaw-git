@@ -4,11 +4,11 @@ title: Verordnung vom 12. November 2003 über die behindertengerechte Gestaltung
 short: VböV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/669"
 language: de
-version: 2020-11-01
+version: 2024-07-01
 adopted: 2003-11-12
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/669/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2003-669-20201101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/669/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-669-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/669/20201101/de"
 
 (VböV)
 
-vom 12. November 2003 (Stand am 1. November 2020)
+vom 12. November 2003 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -35,12 +35,9 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung legt fest, wie der öffentliche Verkehr zu gestalten ist, damit er den Bedürfnissen der Menschen mit Behinderungen (Behinderter) entspricht.
 
-<sup>2</sup>
+<sup>2</sup> Zu diesem Zweck bestimmt sie die funktionalen Anforderungen an die Einrichtungen, die Fahrzeuge und die Dienstleistungen des öffentlichen Verkehrs.[^1-1]
 
-Zu diesem Zweck bestimmt sie:
-
-- a. die funktionalen Anforderungen an die Einrichtungen, die Fahrzeuge und die Dienstleistungen des öffentlichen Verkehrs;
-- b. die Voraussetzungen für die Gewährung von Finanzhilfen gestützt auf Artikel 23 BehiG.
+[^1-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 2
 
@@ -90,7 +87,7 @@ Zu den Einrichtungen, Fahrzeugen und Dienstleistungen des öffentlichen Verkehrs
 
 <sup>1</sup> Eine vom Bundesamt für Verkehr (BAV) beauftragte Stelle betreibt eine öffentlich zugängliche Informationsplattform über die behindertengerechte Gestaltung der Haltepunkte des öffentlichen Verkehrs in der Schweiz.
 
-<sup>2</sup> Die Infrastrukturbetreiberinnen der interoperablen Strecken nach Artikel 15*a* Absatz 1 Buchstabe a der Eisenbahnverordnung vom 23. November 1983[^3a-2] stellen auf dieser Plattform bis zum 16. Juni 2022 die Informationen nach den Artikeln 7 und 7*a* der Verordnung (EU) Nr. 1300/2014[^3a-3] zur Behindertengerechtigkeit ihrer Haltepunkte des interoperablen Eisenbahnverkehrs bereit.
+<sup>2</sup> Die Infrastrukturbetreiberinnen der interoperablen Strecken nach Artikel 15*a* Absatz 1 Buchstabe a der Eisenbahnverordnung vom 23. November 1983[^3a-2] stellen auf dieser Plattform bis zum 16. Juni 2022 die Informationen nach den Artikeln 7 und 7*a* der Verordnung (EU) Nr. 1300/2014[^3a-3] zur Behindertengerechtigkeit ihrer Haltepunkte des interoperablen Eisenbahnverkehrs bereit.[^3a-4]
 
 <sup>3</sup> Die übrigen Unternehmen des öffentlichen Verkehrs stellen auf der Plattform bis zum 31. Dezember 2023 die Informationen zur Behindertengerechtigkeit der Haltepunkte bereit.
 
@@ -100,7 +97,8 @@ Zu den Einrichtungen, Fahrzeugen und Dienstleistungen des öffentlichen Verkehrs
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)).
 [^3a-2]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^3a-3]: Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) Nr. 2019/772 vom 16.5.2019 ABl. L 139 I vom 27.5.2019. S. 1.
+[^3a-3]: Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694, ABl. L 222 vom 8.9.2023, S. 88.
+[^3a-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 4
 
@@ -163,44 +161,15 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 ## 3. Kapitel: Finanzhilfen
 
-### 1. Abschnitt: Finanzierungsgrundsätze
+### 1. Abschnitt: …
 
-#### Art. 9
+#### Art. 9–11
 
-**Unterstützte Massnahmen**
+[^911-1]
 
-<sup>1</sup> Es werden Finanzhilfen für die Deckung der Mehrkosten vorzeitig realisierter Massnahmen gewährt.
+[^911-1]: Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
-<sup>2</sup> Der Bund kann auch Finanzhilfen für die Entwicklung von Normen für die behindertengerechte Gestaltung des öffentlichen Verkehrs gewähren.
-
-<sup>3</sup> Finanzhilfen werden nur in den ersten 20 Jahren nach Inkrafttreten dieser Verordnung gewährt (Art. 23 BehiG).
-
-<sup>4</sup> Massnahmen gelten als vorzeitig realisiert, wenn sie vor dem Zeitpunkt ergriffen werden, der aus betriebswirtschaftlicher Sicht sinnvoll wäre. Das BAV entscheidet über die Vorzeitigkeit einer Massnahme.[^9-1] Dabei berücksichtigt es die Abschreibungssätze nach Artikel 11 der Verordnung des UVEK vom 18. Dezember 1995[^9-2] über das Rechnungswesen der konzessionierten Unternehmen.
-
-[^9-1]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)).
-[^9-2]: [[AS 1996 458](https://fedlex.data.admin.ch/eli/oc/1996/458_458_458), [1999 1425](https://fedlex.data.admin.ch/eli/oc/1999/212). [AS 2011 351](https://fedlex.data.admin.ch/eli/oc/2011/58)Art. 22]. Siehe heute: die V vom 18. Jan. 2011 ([SR 742.221](https://fedlex.data.admin.ch/eli/cc/2011/58)).
-
-#### Art. 10
-
-**Finanzierungsschlüssel**
-
-Die finanzielle Aufteilung zwischen Bund und Kantonen richtet sich nach den Grundsätzen des Eisenbahngesetzes vom 20. Dezember 1957[^10-1].
-
-[^10-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-
-#### Art. 11
-
-**Regionalverkehr und bestellte Angebote**
-
-<sup>1</sup> Werden Fahrzeuge des regionalen Personenverkehrs umgerüstet oder neu beschafft, so richten sich die Finanzhilfen des Bundes und der Kantone nach dem Verteilschlüssel für die Abgeltungen gemäss Artikel 29*b* Absatz 2 der Verordnung vom 11. November 2009[^11-1] über die Abgeltung des regionalen Personenverkehrs.[^11-2]
-
-<sup>2</sup> Finanzhilfen werden in der Regel nur für vom Bund allein oder gemeinsam mit Kantonen bestellte Verkehrsangebote gewährt. Über Ausnahmen entscheidet das BAV[^11-3] im Einvernehmen mit der Eidgenössischen Finanzverwaltung.
-
-[^11-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^11-2]: Fassung gemäss Ziff. I der V vom 25. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3781](https://fedlex.data.admin.ch/eli/oc/2015/635)).
-[^11-3]: Ausdruck gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2835](https://fedlex.data.admin.ch/eli/oc/2020/517)). Diese Änd. wurde im ganzen Text vorgenommen.
-
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 12–16
 
@@ -210,106 +179,28 @@ Die finanzielle Aufteilung zwischen Bund und Kantonen richtet sich nach den Grun
 
 ### 3. Abschnitt: Verfahren
 
-#### Art. 17
+#### Art. 17–23
 
-**Umsetzungsprogramme**[^17-1]
+[^1723-1]
 
-<sup>1</sup> Finanzhilfen werden nur gewährt, wenn die Unternehmen des öffentlichen Verkehrs dem BAV ein Umsetzungsprogramm einreichen, in welchem sie aufzeigen, wie die technischen Anforderungen innerhalb der gewährten Anpassungsfrist erfüllt werden.
-
-<sup>2</sup>
-
-Das Umsetzungsprogramm muss darlegen, welche Massnahmen für ein behindertengerechtes Angebot:
-
-- a. bereits realisiert sind;
-- b. im Rahmen des für die Unternehmen üblichen Investitionsrhythmus getroffen werden sollen;
-- c. ausserhalb des üblichen Investitionsrhythmus bis zum Ende der Anpassungsfrist nach Artikel 22 Absatz 1 BehiG getroffen werden.
-
-<sup>3</sup> Es muss zudem die Kostenfolgen dieser Massnahmen aufzeigen.
-
-[^17-1]: Fassung gemäss Ziff. I der V vom 25. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3781](https://fedlex.data.admin.ch/eli/oc/2015/635)).
-
-#### Art. 18
-
-**Umsetzungskonzept**
-
-<sup>1</sup> Das BAV erstellt auf der Basis der Umsetzungsprogramme in Absprache mit den betroffenen Kantonen ein Umsetzungskonzept (Art. 23 Abs. 3 BehiG).
-
-<sup>2</sup> Die Unternehmen des öffentlichen Verkehrs können Finanzhilfen für Massnahmen beantragen, die Bestandteil des Umsetzungskonzeptes bilden.
-
-#### Art. 19
-
-**Gesuch**
-
-<sup>1</sup> Der Gesuchsteller reicht das Beitragsgesuch dem BAV im Doppel ein.
-
-<sup>2</sup>
-
-Das Gesuch muss enthalten:
-
-- a. bei der vorzeitigen Anpassung von öffentlich zugänglichen Einrichtungen des öffentlichen Verkehrs ein Projekt mit Kostenvoranschlag;
-- b. bei vorzeitiger Umrüstung oder Neuanschaffung von Fahrzeugen die üblichen Offertunterlagen;
-- c. eine Auflistung der auf die Projekte anwendbaren Normen gemäss den entsprechenden Ausführungsbestimmungen mit der Angabe, inwiefern diese Normen erfüllt werden.
-
-<sup>3</sup> Das BAV kann im Einzelfall zusätzliche Unterlagen verlangen.
-
-#### Art. 20
-
-**Höhe der Finanzhilfen**
-
-<sup>1</sup> Die Höhe der Finanzhilfen für die vorzeitige Anpassung bestehender Bauten, Anlagen und Fahrzeuge des öffentlichen Verkehrs richtet sich nach dem erforderlichen Aufwand für die kostengünstigste Erfüllung der im 2. Kapitel festgelegten funktionalen Anforderungen.
-
-<sup>2</sup> Das BAV entscheidet im Einzelfall über die Massnahmen, die für die kostengünstigste Erfüllung der in Artikel 5 Absatz 1 BehiG festgehaltenen Ziele für den Bereich des öffentlichen Verkehrs erforderlich sind.
-
-#### Art. 21
-
-**Anrechenbare Kosten**
-
-<sup>1</sup> Anrechenbar sind die anteiligen Kosten für Projektierung und Vorbereitung, die Bau- und Baunebenkosten sowie die Aufwendungen für die erforderliche Umrüstung von Fahrzeugen. Übersteigen die Gesamtkosten oder einzelne Kostenelemente das für vergleichbare Vorhaben übliche Ausmass, so können die anrechenbaren Kosten entsprechend herabgesetzt werden.
-
-<sup>2</sup>
-
-Nicht anrechenbar sind:
-
-- a. die Kapitalkosten sowie die Entschädigungen an Behörden und Kommissionen;
-- b. die erhöhten Betriebskosten aus den Stillstandszeiten bei der Umrüstung von Fahrzeugen.
-
-<sup>3</sup> Das BAV bestimmt im Einzelfall die anrechenbaren Kosten.
-
-#### Art. 22
-
-**A-fonds-perdu-Beiträge und Darlehen**
-
-<sup>1</sup> Für Anpassungen an Bauten und Anlagen können A-fonds-perdu-Beiträge bzw. variabel verzinsliche, bedingt rückzahlbare Darlehen gewährt werden. Dabei ist zu berücksichtigen, dass dem Unternehmen im Zeitraum zwischen dem vorgezogenen Investitionszeitpunkt und dem geplanten oder betriebswirtschaftlich sinnvollen Zeitpunkt keine zusätzliche Belastung in Form höherer Abschreibungsaufwendungen entsteht.
-
-<sup>2</sup> Für Anpassungen an Fahrzeuge können A-fonds-perdu-Beiträge gewährt werden.
-
-<sup>3</sup> Das BAV bestimmt im Einzelfall die Art der Mittelgewährung.
-
-#### Art. 23
-
-**Zusicherungen**
-
-<sup>1</sup> Das BAV prüft die Beitragsgesuche anhand einheitlicher Kriterien. Bei einem positiven Ergebnis kann es Finanzhilfen im Rahmen der verfügbaren Kredite zusichern.
-
-<sup>2</sup> Das BAV führt eine Übersicht über die zugesicherten Beiträge und Darlehen. Diese umfasst die Gesamtsumme der Verpflichtungen, die gestützt auf die entsprechenden Finanzierungsbeschlüsse des Bundes und der Kantone eingegangen werden.
+[^1723-1]: Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 #### Art. 24
 
-**Auszahlung und Rückforderung**
+**Auszahlung und Rückforderung der Finanzhilfen**[^24-1]
 
-<sup>1</sup> Das BAV koordiniert mit den Kantonen die Auszahlung der Finanzhilfe im Rahmen der verfügbaren Mittel.
+Die Auszahlung und die Rückforderung der Finanzhilfen des Bundes richten sich nach dem Subventionsgesetz vom 5. Oktober 1990[^24-2].
 
-<sup>2</sup> Im Übrigen richten sich Auszahlung und Rückforderung der Finanzhilfen des Bundes nach den Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^24-1].
-
-[^24-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
+[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 25
 
-**Bedingungen und Auflagen**
+**Mit den Finanzhilfen verknüpfte Bedingungen und Auflagen**[^25-1]
 
-<sup>1</sup> Das BAV kann bei der Zusicherung der Finanzhilfen Auflagen und Bedingungen festlegen.
+Das BAV überwacht, ob die Auflagen eingehalten und die Bedingungen erfüllt werden, die mit den Finanzhilfen verknüpft sind.
 
-<sup>2</sup> Es überwacht, ob die Auflagen eingehalten und die Bedingungen erfüllt werden.
+[^25-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 198](https://fedlex.data.admin.ch/eli/oc/2024/198)).
 
 ## 4. Kapitel: Inkrafttreten
 
