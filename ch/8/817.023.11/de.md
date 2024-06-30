@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 15. August 2012 über die Sicherheit von Spielzeu
 short: VSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: de
-version: 2022-03-15
+version: 2024-07-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/de"
 
 (Spielzeugverordnung, VSS)
 
-vom 15. August 2012 (Stand am 15. März 2022)
+vom 15. August 2012 (Stand am 1. Juli 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -932,7 +932,7 @@ Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeig
 
 - 1\.1 Spielzeug, das für Kinder unter 36 Monaten gefährlich sein könnte, muss mit einem Warnhinweis versehen sein, beispielsweise: «Achtung. Nicht für Kinder unter 36 Monaten geeignet.» oder «Achtung. Nicht für Kinder unter drei Jahren geeignet.» oder in Form der folgenden Abbildung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/de/xml/image/image1.png)
 
 - 1\.2 Dieser Warnhinweis muss ergänzt werden durch einen kurzen Hinweis auf die besonderen Gefahren, die diese Vorsichtsmassregel erforderlich machen. Der ergänzende Hinweis kann auch aus der Gebrauchsanweisung hervorgehen.
 - 1\.3 Diese Ziffer gilt nicht für Spielzeug, das aufgrund seiner Funktion, seiner Abmessungen, seiner Merkmale und Eigenschaften oder aus anderen zwingenden Gründen offensichtlich nicht für Kinder unter 36 Monaten bestimmt sein kann.
@@ -1007,20 +1007,20 @@ Anhang 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
-[^annex4-lvlu1-1]: Die angegebenen Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des BLV vom 14. Febr. 2022 ([AS 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)). Bereinigt gemäss Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 249](https://fedlex.data.admin.ch/eli/oc/2024/249)).
+[^annex4-lvlu1-1]: Die angegebenen Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
 <tr><td>SN EN 71-1+A1:2018</td><td>Sicherheit von Spielzeug – Teil 1: Mechanische und physikalische Eigenschaften</td></tr>
 <tr><td>SN EN 71-2:2021</td><td>Sicherheit von Spielzeug – Teil 2: Entflammbarkeit</td></tr>
-<tr><td>SN EN 71-3+A1:2021</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
+<tr><td>SN EN 71-3:2019+A1:2021</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
 <tr><td>SN EN 71-4:2021</td><td>Sicherheit von Spielzeug – Teil 4: Experimentierkästen für chemische und ähnliche Versuche</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sicherheit von Spielzeug – Teil 5: Chemisches Spielzeug (Sets) ausgenommen Experimentierkästen</td></tr>
 <tr><td>SN EN 71-7+A3:2020</td><td>Sicherheit von Spielzeug – Teil 7: Fingermalfarben – Anforderungen und Prüfverfahren</td></tr>
 <tr><td>SN EN 71-8: 2018</td><td>Sicherheit von Spielzeug – Teil 8: Aktivitätsspielzeug für den häuslichen Gebrauch</td></tr>
 <tr><td>SN EN 71-12:2017</td><td>Sicherheit von Spielzeug – Teil 12: N-Nitrosamine und N-nitrosierbare Stoffe Zur Information: Die Grenzwerte in Abschnitt 4.2 Tabelle 2 Buchstabe a der Norm «SN EN 71-12, 2017, Teil 12, über die Sicherheit von Spielzeug angegebenen Grenzwerte N-Nitrosamine und N-nitrosierbare Stoffe» sind tiefer als die in Anhang 2 Kapitel 3 Ziffer 7 VSS angegebenen Grenzwerte. Insbesondere betrifft dies folgende Werte: Substanz Norm SN EN 71-12:2017 VSS N-Nitrosamine 0.01 mg/kg 0.05 mg/kg N-nitrosierbare Stoffe 0.1 mg/kg 1 mg/kg</td></tr>
-<tr><td>SN EN 71-13:2021</td><td>Sicherheit von Spielzeug – Teil 13: Brettspiele für den Geruchssinn, Kosmetikkoffer und Spiele für den Geschmackssinn</td></tr>
+<tr><td>SN EN 71-13:2021+A1:2022</td><td>Sicherheit von Spielzeug – Teil 13: Brettspiele für den Geruchssinn, Kosmetikkoffer und Spiele für den Geschmackssinn</td></tr>
 <tr><td>SN EN 71-14:2019</td><td>Sicherheit von Spielzeug – Teil 14: Trampoline für den häuslichen Gebrauch</td></tr>
 <tr><td>SN EN IEC 62115:2020 mit Änderung A11:2020</td><td>Elektrische Spielzeuge – Sicherheit</td></tr>
 </table>

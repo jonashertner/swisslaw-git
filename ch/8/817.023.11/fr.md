@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 15 août 2012 sur la sécurité des jouets (Ordonna
 short: OSJo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: fr
-version: 2022-03-15
+version: 2024-07-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/fr"
 
 (Ordonnance sur les jouets, OSJo)
 
-du 15 août 2012 (État le 15 mars 2022)
+du 15 août 2012 (État le 1<sup>er</sup> juillet 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -724,7 +724,7 @@ Annexe 2[^t-2]
 <tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
 <tr><td>(8)</td><td>d-Limonene</td><td>5989-27-5</td></tr>
 <tr><td>(9)</td><td>Linalol</td><td>78-70-6</td></tr>
-<tr><td>(10)</td><td>...</td><td></td></tr>
+<tr><td>(10)</td><td>…</td><td></td></tr>
 <tr><td>(11)</td><td>3-méthyl-4-(2,6,6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one</td><td>127-51-5</td></tr>
 <tr><td>(12)</td><td>Acétylcédrène</td><td>32388-55-9</td></tr>
 <tr><td>(13)</td><td>Salicylate d’amyle</td><td>2050-08-0</td></tr>
@@ -870,7 +870,7 @@ Annexe 2[^t-2]
 [^annex2-lvlu1-lvl3-13]: N<sup>o</sup> CAS 26761-40-0 et 68515-49-1; n<sup>o</sup> Einecs 247-977-1 et 271-091-4
 [^annex2-lvlu1-lvl3-14]: N<sup>o</sup> CAS 117-84-0; n<sup>o</sup> Einecs 204-214-7
 [^annex2-lvlu1-lvl3-15]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^annex2-lvlu1-lvl3-16]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-lvl3-16]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 ### 4. Propriétés électriques
 
@@ -929,7 +929,7 @@ Si cela est nécessaire pour assurer une utilisation sûre, les avertissements s
 
 - 1\.1 Les jouets qui sont susceptibles de présenter un danger pour les enfants de moins de 36 mois doivent s’accompagner d’un avertissement, tel que: «Attention. Ne convient pas aux enfants de moins de 36 mois» ou «Attention. Ne convient pas aux enfants de moins de trois ans», ou un avertissement sous la forme du graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/fr/xml/image/image1.png)
 
 - 1\.2 Cet avertissement s’accompagne d’une brève indication sur le danger précis justifiant cette précaution. Cette indication complémentaire peut également figurer dans la notice d’emploi.
 - 1\.3 Le présent chiffre ne s’applique pas aux jouets qui, en raison de leurs fonctions, dimensions, caractéristiques, propriétés ou autres éléments probants, ne sont manifestement pas susceptibles d’être destinés aux enfants de moins de 36 mois.
@@ -1004,20 +1004,20 @@ Annexe 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
-[^annex4-lvlu1-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OSAV du 14 fév. 2022 ([RO 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)). Mis à jour par le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 249](https://fedlex.data.admin.ch/eli/oc/2024/249)).
+[^annex4-lvlu1-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
 <tr><td>SN EN 71-1+A1:2018</td><td>Sécurité des jouets – Partie 1: Propriétés mécaniques et physiques</td></tr>
 <tr><td>SN EN 71-2:2021</td><td>Sécurité des jouets – Partie 2: Inflammabilité</td></tr>
-<tr><td>SN EN 71-3+A1:2021</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
+<tr><td>SN EN 71-3:2019+A1:2021</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
 <tr><td>SN EN 71-4:2021</td><td>Sécurité des jouets – Partie 4: Coffrets d’expériences chimiques et d’activités connexes</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sécurité des jouets – Partie 5: Jouets chimiques (coffrets) autres que les coffrets d’expériences</td></tr>
 <tr><td>SN EN 71-7+A3:2020</td><td>Sécurité des jouets – Partie 7: Peintures au doigt – Exigences et méthodes d’essai</td></tr>
 <tr><td>SN EN 71-8:2018</td><td>Sécurité des jouets – Partie 8: Jouets d’activité à usage familial</td></tr>
 <tr><td>SN EN 71-12:2017</td><td>Sécurité des jouets – Partie 12: N-nitrosamines et substances N-nitrosables Note d’information: les valeurs limites indiquées à la clause 4.2, tableau 2, point a de la norme «SN EN 71-12, 2017, Sécurité des jouets – Partie 12: N-nitrosamines et substances N-nitrosables» sont inférieures aux valeurs limites à respecter indiquées à l’annexe 2, ch. 3, ch. 7, OSJo. En particulier, les valeurs concernées sont les suivantes: Substance Norme SN EN 71-12:2017 OSJo N-nitrosamine 0,01 mg/kg 0,05 mg/kg Substances N-nitrosables 0,1 mg/kg 1 mg/kg</td></tr>
-<tr><td>SN EN 71-13:2021</td><td>Sécurité des jouets – Partie 13: Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs</td></tr>
+<tr><td>SN EN 71-13:2021+A1:2022</td><td>Sécurité des jouets – Partie 13: Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs</td></tr>
 <tr><td>SN EN 71-14:2019</td><td>Sécurité des jouets – Partie 14: Trampolines à usage familial</td></tr>
 <tr><td>SN EN IEC 62115:2020 avec amendement A11:2020</td><td>Jouets électriques – Sécurité</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 15 agosto 2012 concernente la sicurezza dei giocat
 short: OSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: it
-version: 2022-03-15
+version: 2024-07-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/it"
 
 (Ordinanza sui giocattoli, OSG)
 
-del 15 agosto 2012 (Stato 15 marzo 2022)
+del 15 agosto 2012 (Stato 1° luglio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -918,7 +918,7 @@ Se necessario per l’uso sicuro, le avvertenze devono contenere le opportune re
 
 - 1\.1 I giocattoli potenzialmente pericolosi per i bambini di età inferiore a 36 mesi devono recare un’avvertenza quale: «Avvertenza. Non adatto a bambini di età inferiore a 36 mesi.» oppure «Avvertenza. Non adatto a bambini di età inferiore a tre anni.» oppure il seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20240701/it/xml/image/image1.png)
 
 - 1\.2 Questa avvertenza deve essere accompagnata da una breve indicazione dei pericoli specifici che impongono tale precauzione. Tale indicazione complementare può anche essere contenuta nelle istruzioni per l’uso.
 - 1\.3 Il presente numero non si applica ai giocattoli che, per funzioni, dimensioni, caratteristiche, proprietà o altri ragioni cogenti, sono manifestamente inadatti a bambini di età inferiore a 36 mesi.
@@ -993,20 +993,20 @@ Allegato 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
-[^annex4-lvlu1-1]: Le norme citate possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 feb. 2022 ([RU 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)). Aggiornato dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 249](https://fedlex.data.admin.ch/eli/oc/2024/249)).
+[^annex4-lvlu1-1]: Le norme menzionate possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch)
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
 <tr><td>SN EN 71-1 + A1:2018</td><td>Sicurezza dei giocattoli – Parte 1: Proprietà meccaniche e fisiche</td></tr>
 <tr><td>SN EN 71-2:2021</td><td>Sicurezza dei giocattoli – Parte 2: Infiammabilità</td></tr>
-<tr><td>SN EN 71-3+A1:2021</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
+<tr><td>SN EN 71-3:2019+A1:2021</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
 <tr><td>SN EN 71-4:2021</td><td>Sicurezza dei giocattoli – Parte 4: Set sperimentali per chimica e attività connesse</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sicurezza dei giocattoli – Parte 5: Giochi chimici (set), esclusi i set sperimentali per chimica</td></tr>
 <tr><td>SN EN 71-7+ A3: 2020</td><td>Sicurezza dei giocattoli – Parte 7: Pitture a dito – Requisiti e metodi di prova</td></tr>
 <tr><td>SN EN 71-8:2018</td><td>Sicurezza dei giocattoli – Parte 8: giocattoli di attività ad uso domestico</td></tr>
 <tr><td>SN EN 71-12:2017</td><td>Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze N-nitrosabili Nota informativa: i valori limite della clausola 4.2, tabella 2, lettera a della norma «SN EN 71-12, 2017, Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze N-nitrosabili» sono inferiori ai valori limite da rispettare indicati nell’allegato 2 capitolo 3 numero 7 OSG. In particolare, i valori interessati sono i seguenti: Sostanza Norma SN EN 71-12:2017 OSG N-nitrosamine 0,01 mg/kg 0,05 mg/kg Sostanze N-nitrosabili 0,1 mg/kg 1 mg/kg</td></tr>
-<tr><td>SN EN 71-13:2021</td><td>Sicurezza dei giocattoli – Parte 13: Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi</td></tr>
+<tr><td>SN EN 71-13:2021+A1:2022</td><td>Sicurezza dei giocattoli – Parte 13: Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi</td></tr>
 <tr><td>SN EN 71-14:2019</td><td>Sicurezza dei giocattoli – Parte 14: Trampolini per uso domestico</td></tr>
 <tr><td>SN EN 62115:2005:2020 con emendamento A2:2011</td><td>Giocattoli elettrici – sicurezza</td></tr>
 </table>
