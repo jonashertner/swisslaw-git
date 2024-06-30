@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2024-05-01
-valid_until: 2024-06-30
-version_adopted: 2024-03-27
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3427/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3427/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.05.2024)
+Vom 28.08.2002 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -971,25 +971,11 @@ beschliesst:
 
 #### § 42
 
-**Aufhebung bisherigen Rechts (§ 61 SPG)**
-
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
-
-- a) die Verordnung zum Sozialhilfegesetz (Sozialhilfeverordnung) vom 18. April 1983[^42-1] mit Ausnahme der §§ 42 bis 59;
-- b) die Vollziehungsverordnung zum Gesetz über die unentgeltliche Geburtshilfe und die gesundheitliche Vorsorge für vorschulpflichtige Kinder (Säuglingsfürsorgegesetz) vom 26. Juni 1947[^42-2].
-
-[^42-1]: AGS Bd. 11 S. 29; Bd. 12 S. 16, 157; Bd. 13 S. 426; Bd. 14 S. 91, 219, 539, 662; 1996 S. 51, 73; 1998 S. 367; 2000 S. 30, 314, 2002 S. 7 (SAR [851.111](https://gesetzessammlungen.ag.ch/data/851.111/de))
-[^42-2]: AGS Bd. 3 S. 536, Bd. 5 S. 332; Bd. 6 S. 315. 697; Bd. 7 S. 401
+**…**
 
 #### § 43
 
-**Änderung bisherigen Rechts (§ 61 SPG)**
-
-<sup>1</sup> Die Verordnung über die Gebühren auf dem Gebiete des Gesundheits- und Zivilschutzwesens vom 10. Juni 1991[^43-1] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-[^43-1]: AGS Bd. 13 S. 514; 1995 S. 34; 1996 S. 381; 1997 S. 70; 1998 S. 147; 1999 S. 381, 2002 S. 70 (SAR [301.151](https://gesetzessammlungen.ag.ch/data/301.151/de))
+**…**
 
 #### § 44
 
