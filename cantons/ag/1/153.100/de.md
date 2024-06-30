@@ -4,13 +4,13 @@ number: "153.100"
 title: Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung
 short: Organisationsgesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-08-29
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-12
 adopted: 1985-03-26
 in_force: 1986-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3378/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3378/pdf_file"
 
 (Organisationsgesetz)
 
-Vom 26.03.1985 (Stand 01.01.2024)
+Vom 26.03.1985 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -401,7 +401,7 @@ beschliesst:
 <tr><td>Muri</td><td>Muri</td></tr>
 <tr><td>Rheinfelden</td><td>Rheinfelden</td></tr>
 <tr><td>Zofingen</td><td>Zofingen</td></tr>
-<tr><td>Zurzach</td><td>Bad Zurzach[^36-1]</td></tr>
+<tr><td>Zurzach</td><td>Zurzach[^36-1]</td></tr>
 </table>
 
 [^36-1]: Zusammenschluss der Gemeinden Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim, Rümikon und Wislikofen zur Gemeinde Zurzach per 1. Januar 2022 (GRB 2020-1646)
