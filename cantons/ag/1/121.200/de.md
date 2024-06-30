@@ -4,13 +4,12 @@ number: "121.200"
 title: Gesetz über das Kantons- und das Gemeindebürgerrecht
 short: KBüG
 language: de
-version: 2020-07-01
-valid_until: 2024-06-30
-version_adopted: 2019-05-07
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2013-03-12
 in_force: 2014-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/121.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2833/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2833/pdf_file"
 
 (KBüG)
 
-Vom 12.03.2013 (Stand 01.07.2020)
+Vom 12.03.2013 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -435,13 +434,13 @@ beschliesst:
 
 **Gebühren und Auslagen**
 
-<sup>1</sup> Die vom Kanton und den Gemeinden für die Behandlung von Gesuchen in Bürgerrechtssachen erhobenen Gebühren dürfen höchstens die Verfahrenskosten decken.
+<sup>1</sup> Die vom Kanton und den Gemeinden für die Behandlung von Gesuchen in Bürgerrechtssachen erhobenen Gebühren dürfen höchstens die Verfahrenskosten decken. Die Verleihung des Ehrenbürgerrechts erfolgt unentgeltlich.
 
-<sup>2</sup> Der Regierungsrat bestimmt die Gebührenansätze durch Verordnung.
+<sup>2</sup> Der Regierungsrat legt die Gebührenansätze durch Verordnung fest.
 
-<sup>3</sup> Das zuständige Departement setzt die kantonalen, der Gemeinderat die kommunalen Gebühren fest.
+<sup>3</sup> Das zuständige Departement erhebt die kantonalen, der Gemeinderat die kommunalen Gebühren im Einzelfall.
 
-<sup>4</sup> Gebühren und Auslagen können bei mittellosen Personen reduziert oder erlassen werden. Personen, denen das Ehrenbürgerrecht verliehen wird, sind sie zu erlassen. Der Regierungsrat kann weitere Reduktions- oder Erlassmöglichkeiten durch Verordnung vorsehen.
+<sup>4</sup> Gebühren und Auslagen können bei mittellosen Personen reduziert oder erlassen werden. Der Regierungsrat kann weitere Reduktions- oder Erlassmöglichkeiten durch Verordnung regeln.
 
 <sup>5</sup> Personen, die Gebühren und Auslagen zu entrichten haben, sind zur Leistung eines Vorschusses verpflichtet.
 
