@@ -4,13 +4,13 @@ number: "961.200"
 title: Einführungsgesetz zum Arbeitsrecht
 short: EG ArR
 language: de
-version: 2013-01-01
-valid_until: 2024-06-30
-version_adopted: 2011-12-06
+version: 2024-07-01
+valid_until: 2025-08-31
+version_adopted: 2023-09-19
 adopted: 2011-11-08
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1525/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1525/pdf_file"
 
 (EG ArR)
 
-Vom 08.11.2011 (Stand 01.01.2013)
+Vom 08.11.2011 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -82,6 +82,12 @@ beschliesst:
 **Kantonales Betriebs- und Arbeitgeberregister**
 
 <sup>1</sup> Der Kanton führt ein Betriebs- und Arbeitgeberregister, welches die für den Vollzug der eidgenössischen Arbeits- und Heimarbeitsgesetzgebung erforderlichen Daten enthält. Er kann auch Daten zu den im Kantonsgebiet beschäftigten Heimarbeiterinnen und Heimarbeitern erheben.
+
+#### § 5a
+
+**Ausnahme von der Gebührenpflicht**
+
+<sup>1</sup> Bewilligungsverfahren zur Beschäftigung von Jugendlichen sind unentgeltlich.
 
 ## 3. Sonn- und Feiertage
 
