@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 June 2024)
+of 16 December 2005 (Status as of 1 July 2024)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1268,7 +1268,7 @@ Foreign nationals shall be removed without being subjected to any formal procedu
 
 <sup>2</sup>
 
-The removal order must be enforced immediately or a departure deadline of less than seven days may be set where:
+The removal order must be enforced immediately or a departure deadline less than seven days hence may be set where:
 
 - a. the person concerned represents a threat to public security and order or represents a threat to internal or external security;
 - b. specific indications lead to the belief that the person concerned intends to evade deportation;
@@ -1573,7 +1573,7 @@ The attending medical professional shall on request disclose the medical data re
 
 #### Art. 72
 
-**COVID-19 test on deportation**[^72-1]
+[^72-1]
 
 <sup>1</sup> In order to ensure the enforcement of removal or expulsion or expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^72-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^72-3], foreign nationals are required to undergo a COVID-19 test if this is necessary in order to comply with the entry requirements of the person's native country or country of origin or of the competent Dublin State or the requirements of the airline concerned.
 
@@ -1583,7 +1583,7 @@ The attending medical professional shall on request disclose the medical data re
 
 <sup>4</sup> The COVID-19 tests shall be conducted by medical personnel who have been specifically trained for the purpose. They shall use the least invasive form of test suitable for the person concerned. If the personnel take the view that conducting the test could harm the health of the person concerned, they shall not conduct the test.
 
-[^72-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), extended from 17 Dec. 2022 to 30 June 2024 in accordance with No I of the FA of 16 Dec. 2022 (Covid-19 Test on Deportation) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
+[^72-1]: Repealed by No IV 2 of the FA of 16 Dec. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), extended from 17 Dec. 2022 to 30 June 2024 in accordance with No I of the FA of 16 Dec. 2022 (Covid-19 Test on Deportation) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -1649,16 +1649,16 @@ The competent cantonal authority may require a person not to leave the area they
 
 <sup>1</sup>
 
-To facilitate the conduct of removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit while preparing to decide on that person’s residence status for a maximum of six months if that person:[^75-3]
+To facilitate the conduct of removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit for a maximum of six months while preparing to decide on that person’s residence status if that person:[^75-3]
 
-- a.[^75-4] refuses during asylum proceedings, removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submit several applications for asylum using various identities or repeatedly fail to comply with a summons without sufficient reason or ignore other instructions issued by the authorities in the asylum procedure;
-- b. leave an area allocated to them in accordance with Article 74 or enter an area from which they are excluded;
-- c. enter Swiss territory despite a ban on entry and cannot be immediately removed;
-- d. were removed and submitted an application for asylum following a legally binding revocation (Art. 62 and 63) or a non-renewal of the permit due to violation of or representing a threat to the public security and order or due to representing a threat to internal or external security;
-- e. submit an application for asylum after expulsion (Art. 68);
-- f. stay unlawfully in Switzerland and submit an application for asylum with the obvious intention of avoiding the imminent enforcement of a removal or expulsion order; such an intention shall be suspected if it were possible and reasonable to file the asylum application earlier and if the application is submitted in close chronological relation to detention, criminal proceedings, the implementation of a penalty or the issue of a removal order;
-- g. seriously threaten other persons or considerably endanger the life and limb of other persons and are therefore being prosecuted or have been convicted;
-- h. have been convicted of a felony;
+- a.[^75-4] refuses during asylum proceedings, removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submits several applications for asylum using various identities, or repeatedly fails to comply with a summons without sufficient reason or ignores other instructions issued by the authorities in the asylum procedure;
+- b. leaves an area allocated to them in accordance with Article 74 or enters an area from which they are excluded;
+- c. enters Swiss territory despite a ban on entry and cannot be immediately removed;
+- d. has been made subject to a removal order and has submitted an application for asylum following the legally binding revocation (Art. 62 and 63) or non-renewal of the permit because they have violated or represent a threat to public security and order or because they represent a threat to internal or external security;
+- e. submits an application for asylum after expulsion (Art. 68);
+- f. stays unlawfully in Switzerland and submits an application for asylum with the obvious intention of avoiding the imminent enforcement of a removal or expulsion order; such an intention shall be suspected if it were possible and reasonable to file the asylum application earlier and if the application is submitted in close chronological relation to detention, criminal proceedings, the enforcement of a penalty or the issue of a removal order;
+- g. seriously threatens other persons or significantly endangers the life and limb of other persons and is therefore being prosecuted or has been convicted;
+- h. has been convicted of a felony;
 - i.[^75-5] is a risk to Switzerland’s internal or external security according to findings made by fedpol or the FIS.
 - [tab] <sup>1bis</sup> ...[^75-6]
 
@@ -1686,7 +1686,7 @@ If the court of first instance has issued an expulsion or removal order or an or
 
   - 1\.[^76-4] there are grounds for doing so in terms of Article 75 paragraph 1 letters a, b, c, f, g, h or i,
   - 2\.[^76-5] ...
-  - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act as well as Article 8 paragraph 1 letter a or paragraph 4 AsylA[^76-7],
+  - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act and Article 8 paragraph 1 letter a or paragraph 4 AsylA[^76-7],
   - 4\. their previous conduct leads to the conclusion that they will refuse to comply with official instructions,
   - 5\.[^76-8] the decision to remove the person concerned is issued in a federal centre and enforcement of the removal is imminent.
   - 6\.[^76-9] ...
@@ -1778,7 +1778,7 @@ The competent cantonal authority may detain a person to ensure the enforcement o
 
 **Coercive detention**
 
-<sup>1</sup> If a person does not fulfil their obligation to leave Switzerland by the appointed deadline and if the legally enforceable removal or expulsion order or legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^78-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^78-2] cannot be enforced due to their personal conduct, they may be detained to ensure the obligation to leave Switzerland is complied with, provided it is not permitted to order detention pending deportation and a more lenient measure would lead to the goal.[^78-3]
+<sup>1</sup> If a person does not fulfil their obligation to leave Switzerland by the appointed deadline and if the legally enforceable removal or expulsion order or legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^78-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^78-2] cannot be enforced due to their personal conduct, they may be detained to ensure that the obligation to leave Switzerland is complied with, provided it is not permitted to order detention pending deportation and a more lenient measure would not achieve what is required.[^78-3]
 
 <sup>2</sup> Detention may be ordered for one month. It may, however, be extended by two months with consent of the cantonal judicial authority if the person concerned remains unwilling to change their conduct and leave the country. Article 79 remains reserved.[^78-4]
 
@@ -2138,7 +2138,7 @@ The same provisions on social assistance standards apply to the following person
 - a. temporarily admitted refugees;
 - b.[^86-3] refugees subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^86-4] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^86-5], or a legally enforceable expulsion order under Article 68 of this Act;
 - c. stateless persons in accordance with Article 31 paragraphs 1 and 2; and
-- d.[^86-6] stateless persons subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC, or a legally enforceable expulsion order under Article 68 of this Act. [^86-7]
+- d.[^86-6] stateless persons subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC, or a legally enforceable expulsion order under Article 68 of this Act.[^86-7]
 
 <sup>2</sup> In relation to compulsory health insurance for temporarily admitted persons, the corresponding provisions for asylum seekers in accordance with the AsylA and the Federal Act of 18 March 1994[^86-8] on Health Insurance apply.
 

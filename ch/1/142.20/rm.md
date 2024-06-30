@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dal 1. da zercladur 2024)
+dals 16 da december 2005 (versiun dal 1. da fanadur 2024)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1575,19 +1575,9 @@ La persuna medicinala spezialisada che fa il tractament transmetta sin dumonda l
 
 #### Art. 72
 
-**Test da COVID-19 tar l’expulsiun**[^72-1]
+[^72-1]
 
-<sup>1</sup> Per garantir l’execuziun da la spedida, da l’expulsiun tenor questa lescha u da l’expulsiun tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP[^72-2] u tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM[^72-3] èn persunas estras obligadas da laschar far in test da COVID-19, sche quai vegn pretendì pervia da las premissas d’entrada dal stadi d’origin, dal stadi da derivanza u dal stadi da Dublin cumpetent u pervia da las prescripziuns da l’interpresa d’aviaziun.
-
-<sup>2</sup> Las autoritads cumpetentas infurmeschan ordavant la persuna pertutgada davart questa obligaziun e davart la pussaivladad da l’execuziun sfurzada tenor l’alinea 3.
-
-<sup>3</sup> Sch’ina persuna pertutgada na lascha betg far da sai anora in test da COVID-19, pon las autoritads ch’èn cumpetentas per l’execuziun da la spedida u da l’expulsiun suttametter questa persuna cunter sia voluntad ad in test, sche l’execuziun na po betg vegnir garantida tras auters meds pli miaivels. Durant ch’il test vegn fatg, na dastga vegnir exequì nagin sforz che pudess periclitar la sanadad da la persuna pertutgada. L’execuziun sfurzada da tests da COVID-19 è exclusa envers uffants ed envers giuvenils che n’han betg anc cumplenì 15 onns.
-
-<sup>4</sup> Ils tests da COVID-19 vegnan exequids da persunal medical ch’è scolà specificamain per quest intent. Il persunal medical applitgescha il tip da test il pli miaivel per la persuna pertutgada. Sch’el è da l’avis che l’execuziun dal test pudess periclitar la sanadad da la persuna pertutgada, na fa el betg il test.
-
-[^72-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2 d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), prolungà dals 17 da dec. 2022 fin ils 30 da zer. 2024 tenor la cifra I da la LF dals 16 da dec. 2022 (test da COVID-19 tar l’expulsiun) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^72-1]: Abolì tras la cifra IV 2 da la LF dals 16 da dec. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2 d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), prolungà dals 17 da dec. 2022 fin ils 30 da zer. 2024 tenor la cifra I da la LF dals 16 da dec. 2022 (test da COVID-19 tar l’expulsiun) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 
 ### Partiziun 5 Mesiras repressivas
 

@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° giugno 2024)
+del 16 dicembre 2005 (Stato 1° luglio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1578,19 +1578,9 @@ Lo specialista competente per l’esame medico trasmette, su richiesta, i dati m
 
 #### Art. 72
 
-**Test COVID-19 in caso di rinvio coatto**[^72-1]
+[^72-1]
 
-<sup>1</sup> Al fine di garantire l’esecuzione dell’allontanamento o dell’espulsione secondo la presente legge oppure l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^72-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^72-3], gli stranieri sono tenuti a sottoporsi a un test COVID-19 se questo rientra fra le condizioni d’entrata dello Stato d’origine o di provenienza o dello Stato Dublino competente oppure fra i requisiti previsti dalla compagnia aerea che effettua il trasporto.
-
-<sup>2</sup> Le autorità competenti informano previamente l’interessato in merito a tale obbligo e alla possibilità dell’esecuzione coattiva secondo il capoverso 3.
-
-<sup>3</sup> Se non è possibile garantire l’esecuzione del rinvio coatto con mezzi meno coercitivi, le autorità competenti per l’esecuzione dell’allontanamento o dell’espulsione possono sottoporre contro la sua volontà a un test COVID-19 lo straniero che non vi si sia sottoposto spontaneamente. Durante l’esecuzione del test non può essere esercitata alcuna coercizione che potrebbe comportare un pericolo per la salute dell’interessato. È esclusa l’esecuzione coattiva del test COVID-19 sui fanciulli e gli adolescenti che non hanno compiuto i 15 anni.
-
-<sup>4</sup> I test COVID-19 sono eseguiti da personale medico appositamente formato. Il personale medico utilizza il tipo di test meno gravoso per l’interessato. Non esegue il test se ritiene che questo potrebbe mettere in pericolo la salute dell’interessato.
-
-[^72-1]: Nuovo testo giusta il n. I del LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)). Validità prorogata dal n.I della LF del 16 dic. 2022 (Test COVID-19 in caso di rinvio coatto), in vigore dal 17 dic. 2022 al 30 giu. 2024 ([RU 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [FF 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
-[^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^72-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^72-1]: Abrogato dal n. IV 2 della L del 16 dic. 2005 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Nuovo testo giusta il n. I del LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)). Validità prorogata dal n. I della LF del 16 dic. 2022 (Test COVID-19 in caso di rinvio coatto), in vigore dal 17 dic. 2022 al 30 giu. 2024 ([RU 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [FF 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 
 ### Sezione 5: Misure coercitive
 
@@ -1958,7 +1948,7 @@ La Confederazione può, per un periodo determinato, partecipare con una somma fo
 [^82-1]: Nuovo testo giusta dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-2]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
 [^82-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^82-4]: Introdotto dal n. I della LF del 16 dic. 2022 (Aiuto finanziario ai Cantoni che gestiscono centri di partenza alla frontiera svizzera), in vigore dal 1° giu. 2024 (RU **202****4** 186; FF **20****22** 1312).
+[^82-4]: Introdotto dal n. I della LF del 16 dic. 2022 (Aiuto finanziario ai Cantoni che gestiscono centri di partenza alla frontiera svizzera), in vigore dal 1° giu. 2024 ([RU 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## Capitolo 11: Ammissione provvisoria
 

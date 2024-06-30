@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240601/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Juni 2024)
+vom 16. Dezember 2005 (Stand am 1. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1573,19 +1573,9 @@ Die behandelnde medizinische Fachperson gibt auf Anfrage die für die Beurteilun
 
 #### Art. 72
 
-**Covid-19-Test bei der Ausschaffung**[^72-1]
+[^72-1]
 
-<sup>1</sup> Ausländerinnen und Ausländer sind zur Sicherstellung des Vollzugs der Weg- oder Ausweisung oder der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^72-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^72-3] verpflichtet, sich einem Covid-19-Test zu unterziehen, wenn dies aufgrund der Einreisevoraussetzungen des Heimat- oder Herkunftsstaates oder des zuständigen Dublin-Staates oder der Vorgaben des transportierenden Luftverkehrsunternehmens verlangt wird.
-
-<sup>2</sup> Die zuständigen Behörden informieren die betroffene Person vorgängig über diese Verpflichtung und über die Möglichkeit der zwangsweisen Durchsetzung nach Absatz 3.
-
-<sup>3</sup> Unterzieht sich eine betroffene Person nicht von sich aus einem Covid-19-Test, so können die für den Vollzug der Weg- oder Ausweisung oder der Landesverweisung zuständigen Behörden sie gegen ihren Willen einem Test zuführen, wenn der Vollzug nicht durch andere, mildere Mittel sichergestellt werden kann. Während der Durchführung des Tests darf kein Zwang ausgeübt werden, durch den die Gesundheit der betroffenen Person gefährdet werden könnte. Die zwangsweise Durchsetzung von Covid-19-Tests ist ausgeschlossen bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben.
-
-<sup>4</sup> Die Covid-19-Tests werden durch dafür spezifisch geschultes medizinisches Personal durchgeführt. Dieses verwendet die für die betroffene Person mildeste Testart. Ist es der Ansicht, dass die Durchführung des Tests die Gesundheit der betroffenen Person gefährden könnte, so führt es den Test nicht durch.
-
-[^72-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), gemäss Ziff. I des BG vom 16. Dez. 2022 (Covid-19-Test bei der Ausschaffung) verlängert vom 17. Dez. 2022 bis zum 30. Juni 2024 ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^72-1]: Aufgehoben durch Ziff. IV 2 des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), gemäss Ziff. I des BG vom 16. Dez. 2022 (Covid-19-Test bei der Ausschaffung) verlängert vom 17. Dez. 2022 bis zum 30. Juni 2024 ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 
 ### 5. Abschnitt: Zwangsmassnahmen
 
