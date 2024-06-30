@@ -4,13 +4,12 @@ number: "612.300"
 title: Gesetz über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: GAF
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-03-14
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2012-06-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3342/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3342/pdf_file"
 
 (GAF)
 
-Vom 05.06.2012 (Stand 01.01.2024)
+Vom 05.06.2012 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -72,7 +71,7 @@ beschliesst:
 
 <sup>2</sup> Besondere wirtschaftliche Vorteile aus öffentlichen Einrichtungen oder Anordnungen sind abzugelten.
 
-<sup>3</sup> Voraussetzungen und Ausmass von Verursacherfinanzierungen und Vorteilsabgeltungen werden durch Gesetz oder bei Gebühren gemäss § 82 Abs. 1 lit. f der Kantonsverfassung durch Dekret bestimmt.
+<sup>3</sup> Voraussetzungen und Ausmass von Verursacherfinanzierungen und Vorteilsabgeltungen werden durch Gesetz bestimmt.
 
 #### § 5
 
