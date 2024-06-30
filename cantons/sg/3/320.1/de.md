@@ -4,13 +4,12 @@ number: "320.1"
 title: Gesetz über die Spitalplanung und -finanzierung
 short: SPFG
 language: de
-version: 2021-04-01
-valid_until: 2024-06-30
-version_adopted: 2021-02-02
+version: 2024-07-01
+version_adopted: 2024-11-24
 adopted: 2012-01-31
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3135/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3713/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3135/pdf_file"
 
 (SPFG)
 
-vom 31.01.2012 (Stand 01.04.2021)
+vom 31.01.2012 (Stand 01.07.2024)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -188,7 +187,7 @@ als Gesetz:[^ingress-3]
 - e) Einhaltung von Mindestfallzahlen für bestimmte medizinische Leistungen;
 - f) Sicherstellung einer Notfallaufnahme;
 - g) Festlegung eines Mindestanteils an Patientinnen und Patienten mit Wohnsitz im Kanton, für deren stationären Behandlungen keine Zusatzleistungen in Rechnung gestellt werden;
-- h) Bereitstellung einer unter Berücksichtigung der Betriebsgrösse und des kantonalen Bedarfs angemessenen Zahl an Aus- und Weiterbildungsplätzen für Fachleute in Berufen des Gesundheitswesens.
+- h) …
 
 #### Art. 13
 
