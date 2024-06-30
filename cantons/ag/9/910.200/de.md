@@ -4,13 +4,12 @@ number: "910.200"
 title: Landwirtschaftsgesetz des Kantons Aargau
 short: LwG AG
 language: de
-version: 2019-05-01
-valid_until: 2024-06-30
-version_adopted: 2018-06-26
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2011-12-13
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/910.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2698/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2698/pdf_file"
 
 (LwG AG)
 
-Vom 13.12.2011 (Stand 01.05.2019)
+Vom 13.12.2011 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -79,9 +78,11 @@ beschliesst:
 
 **c) Kostenbeteiligung**
 
-<sup>1</sup> Nutzniessende von Leistungen gemäss § 4 Abs. 1 lit. d–h sind an den Kosten zu beteiligen. Der Regierungsrat regelt deren Kostenanteil durch Verordnung; er berücksichtigt dabei den Anteil des öffentlichen Interesses an der Leistung.
+<sup>1</sup> Nutzniessende von Leistungen gemäss § 4 Abs. 1 lit. d–h sind an den Kosten zu beteiligen. Der Regierungsrat legt den für die Gebührenerhebung massgebenden Kostenanteil durch Verordnung fest; er berücksichtigt dabei den Anteil des öffentlichen Interesses an der Leistung.
 
 <sup>2</sup> Die Kostenbeteiligung in der beruflichen Grundbildung, der höheren Berufsbildung und der Weiterbildung gemäss § 4 Abs. 1 lit. a–c richtet sich nach den Bestimmungen des GBW.
+
+<sup>3</sup> Erfolgen die Leistungen weitestgehend im öffentlichen Interesse, namentlich im Zusammenhang mit der Förderung einer klima-, umwelt- und ressourcenschonenden Landwirtschaft oder mit dem Tierwohl, sind diese unentgeltlich.
 
 #### § 6
 
