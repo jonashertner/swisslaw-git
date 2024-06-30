@@ -4,13 +4,12 @@ number: "290.111"
 title: Anwaltsverordnung
 short: AnwV
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-12-16
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/290.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3045/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3488/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3045/pdf_file"
 
 (AnwV)
 
-Vom 18.05.2005 (Stand 01.01.2022)
+Vom 18.05.2005 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 3 Abs. 2, 5a, 15 Abs. 2, 16 Abs. 4 und 19 des Einführungsgesetzes zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (EG BGFA) vom 2. November 2004[^ingress-1] und § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 3 Abs. 2, 5a, 15 Abs. 2, 16 Abs. 4 und 19 des Einführungsgesetzes zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (EG BGFA) vom 2. November 2004[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [290.100](https://gesetzessammlungen.ag.ch/data/290.100/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Anwaltsprüfung
 
@@ -187,30 +185,11 @@ beschliesst:
 
 <sup>1</sup> Beanstandungen über Anwaltskandidatinnen und Anwaltskandidaten wegen Missachtung gesetzlicher Vorschriften oder mangelnder Eignung sind an die Anwaltskommission zu richten; diese kann der Anwältin oder dem Anwalt die Bewilligung, die Kandidatin oder den Kandidaten vor Gericht auftreten zu lassen, auf bestimmte Zeit oder gänzlich entziehen.
 
-## 3. Gebühren und Entschädigungen
+## 3. Entschädigungen
 
 #### § 16
 
-**I. Gebühren**
-
-<sup>1</sup> Die Anwaltskommission erhebt folgende Gebühren:
-
-- a) für die angetretene Anwaltsprüfung — Fr. 2'000.–
-- a<sup>bis</sup>) für die angetretene Wiederholung der mündlichen Anwaltsprüfung — Fr. 500.–
-- a<sup>ter</sup>) für die nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung beim Rückzug der Anmeldung vom Zeitpunkt der Anmeldung bis 7 Tage vor Prüfungsbeginn — Fr. 100.–
-- a<sup>quater</sup>) für die nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung beim Rückzug der Anmeldung 6 Tage bis 1 Tag vor Prüfungsbeginn — Fr. 300.–
-- a<sup>quinquies</sup>) für die am Prüfungstag nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung — Fr. 400. –
-- a<sup>sexies</sup>) für die vorgängige Überprüfung der Zulassungsvoraussetzungen zur Anwaltsprüfung — Fr. 100.– bis Fr. 1'000.–
-- b) für den Eintrag im kantonalen Anwaltsregister — Fr. 200.–
-- c) für den Eintrag in die öffentliche Liste (Art. 28 BGFA) — Fr. 200.–
-- d) für die Änderungen und Löschungen von Eintragungen im kantonalen Anwaltsregister bzw. in der öffentlichen Liste — Fr. 100.–
-- d<sup>bis</sup>) für die Überprüfung des Eintrages im kantonalen Anwaltsregister — Fr. 600.– bis Fr. 1'600.–
-- e) für die Eignungsprüfung (Art. 31 BGFA) — Fr. 1'500.–
-- f) für das Gespräch zur Prüfung der beruflichen Fähigkeiten (Art. 32 BGFA) — Fr. 1'000.–
-- g) für die Verfahren betreffend Erteilung, Verlängerung oder Entzug von Substitutionsbewilligungen — Fr. 100.–
-- h) für die Disziplinarverfahren — Fr. 300.– bis Fr. 6'000.–
-- i) für die Entbindung vom Berufsgeheimnis — Fr. 100.– bis Fr. 1'000.–
-- j) für die Ausstellung von Disziplinarzeugnissen und weiteren Bestätigungen — Fr. 100.–
+**…**
 
 #### § 17
 
@@ -242,17 +221,7 @@ beschliesst:
 
 #### § 18
 
-**I. Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Mit Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
-
-- a) Aufgrund von § 20 EG BGFA das Dekret über den Fähigkeitsausweis und die Bewilligung zur Berufsausübung für Anwälte (Anwaltsdekret) vom 27. Oktober 1987[^18-1];
-- b) Vollziehungsverordnung zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz, BGFA) vom 31. Oktober 2001[^18-2];
-- c) Regierungsbeschluss über die Prüfungsgebühren für Fürsprecher und Geschäftsagenten vom 7. Januar 1971[^18-3].
-
-[^18-1]: AGS Bd. 12 S. 457; Bd. 14 S. 71
-[^18-2]: AGS 2001 S. 246
-[^18-3]: AGS Bd. 7 S. 585
+**…**
 
 #### § 18a
 
