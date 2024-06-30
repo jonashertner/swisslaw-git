@@ -4,13 +4,13 @@ number: "411.200"
 title: Gesetz über die Anstellung von Lehrpersonen
 short: GAL
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2019-12-10
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2023-09-19
 adopted: 2002-12-17
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3036/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3036/pdf_file"
 
 (GAL)
 
-Vom 17.12.2002 (Stand 01.01.2022)
+Vom 17.12.2002 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -98,6 +98,12 @@ beschliesst:
 **Zuständigkeiten**
 
 <sup>1</sup> Der Regierungsrat regelt die Zuständigkeiten, soweit nicht Gesetz oder Dekret besondere Vorschriften enthalten.
+
+#### § 6a
+
+**Unentgeltlichkeit**
+
+<sup>1</sup> Die erstinstanzlichen Entscheide der Anstellungsbehörden und des für das Lohnwesen zuständigen Departements erfolgen unentgeltlich.
 
 ## 2. Begründung, Entstehung und Beendigung des Anstellungsverhältnisses
 
