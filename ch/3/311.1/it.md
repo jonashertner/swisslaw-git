@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul diritto penale minorile (Diritto p
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/it"
 
 (Diritto penale minorile, DPMin)
 
-del 20 giugno 2003 (Stato 1° gennaio 2024)
+del 20 giugno 2003 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -178,9 +178,7 @@ Durante l’istruzione l’autorità competente può ordinare le misure protetti
 
 #### Art. 15
 
-**Collocamento**
-
-a. Contenuto e presupposti
+**Collocamento a. Contenuto e presupposti**
 
 <sup>1</sup> Se l’educazione e il trattamento necessari non possono essere assicurati in altro modo, l’autorità giudicante ordina il collocamento del minore. Il collocamento avviene segnatamente presso privati o in istituti educativi o di cura che siano in grado di garantire la necessaria assistenza pedagogica o terapeutica.
 
@@ -498,11 +496,14 @@ L’azione penale si prescrive:
 
 <sup>1bis</sup> Se prima della scadenza del termine di prescrizione è stata pronunciata una sentenza di primo grado, la prescrizione si estingue.[^36-1]
 
-- [tab] <sup>2</sup> In caso di reati secondo gli articoli 111–113, 122, 182, 189–191 e 195 CP[^36-2], diretti contro una persona minore di 16 anni, l’azione penale non si prescrive in nessun caso prima che la vittima compia il 25° anno di età.[^36-3] Ciò vale anche se il reato è stato commesso prima dell’entrata in vigore della presente legge e a tale momento l’azione penale non si è ancora prescritta.
+<sup>2</sup> In caso di reati secondo gli articoli 111–113, 122, 124, 182, 189–191, 193, 193*a*, 195 e 197 capoverso 3 CP[^36-2], diretti contro una persona minore di 16 anni, l’azione penale non si prescrive in nessun caso prima che la vittima abbia compiuto il 25° anno di età.[^36-3]
+
+<sup>3</sup> In caso di reati secondo gli articoli 111–113, 122, 182, 189–191 e 195 CP diretti contro una persona minore di 16 anni, la prescrizione dell’azione penale è retta dal capoverso 2 se il reato è stato commesso prima dell’entrata in vigore della presente legge e il relativo termine di prescrizione non è ancora scaduto a tale data.[^36-4]
 
 [^36-1]: Introdotto dall’all. 1 n. 5 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^36-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^36-3]: Nuovo testo giusta l’all. 1 n. 5 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-3]: Nuovo testo giusta l’all. n. 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^36-4]: Introdotto dal n. I 2 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 37
 

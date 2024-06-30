@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 régissant la condition pénale des mineu
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/fr"
 
 (Droit pénal des mineurs, DPMin)
 
-du 20 juin 2003 (État le 1<sup>er</sup> janvier 2024)
+du 20 juin 2003 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -496,11 +496,14 @@ L’action pénale se prescrit:
 
 <sup>1bis</sup> La prescription ne court plus si, avant son échéance, un jugement de première instance a été rendu.[^36-1]
 
-<sup>2</sup> En cas d’infraction contre un enfant de moins de 16 ans au sens des art. 111 à 113, 122, 182, 189 à 191 ou 195 CP[^36-2], la prescription de l’action pénale court au moins jusqu’au jour où la victime a 25 ans.[^36-3] Il en va de même lorsqu’elles sont commises avant l’entrée en vigueur de la présente loi si la prescription de l’action pénale n’est pas encore échue à cette date.
+<sup>2</sup> En cas d’infractions prévues aux art. 111 à 113, 122, 124, 182, 189 à 191, 193, 193*a*, 195 et 197, al. 3, CP[^36-2] dirigées contre un enfant de moins de 16 ans, la prescription de l’action pénale court en tout cas jusqu’au jour où la victime a 25 ans.[^36-3]
+
+<sup>3</sup> La prescription de l’action pénale en cas d’infractions au sens des art. 111 à 113, 122, 182, 189 à 191 et 195 CP dirigées contre un enfant de moins de 16 ans est fixée selon l’al. 2 si l’infraction a été commise avant l’entrée en vigueur de la présente loi et que la prescription n’est pas encore échue à cette date.[^36-4]
 
 [^36-1]: Introduit par l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^36-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^36-3]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^36-4]: Introduit par le ch. I 2 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 37
 
