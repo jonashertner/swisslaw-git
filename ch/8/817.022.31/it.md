@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 25 novembre 2013 sugli additivi ammessi nelle derr
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: it
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/it"
 
 (Ordinanza sugli additivi, OAdd)
 
-del 25 novembre 2013 (Stato 1° febbraio 2024)
+del 25 novembre 2013 (Stato 1° luglio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -415,8 +415,8 @@ Allegato 1a[^t-2]
 
 [^annex1a-lvlu1-1]
 
-[^t-2]: Originario all. 1. Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dal n. II dell’O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex1a-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Originario all. 1. Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 (RU **202****4** 248).
+[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-3]
 
@@ -426,8 +426,8 @@ Allegato 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dal n. II dell’O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-4]
 
@@ -437,8 +437,8 @@ Allegato 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dal n. II dell’O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) e dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex3-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dai n. II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-5]
 

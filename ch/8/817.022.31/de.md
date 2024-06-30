@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 25. November 2013 über die zulässigen Zusatzsto
 short: ZuV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: de
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/de"
 
 (Zusatzstoffverordnung, ZuV)[^t-1]
 
-vom 25. November 2013 (Stand am 1. Februar 2024)
+vom 25. November 2013 (Stand am 1. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
@@ -417,8 +417,8 @@ Anhang 1a[^t-3]
 
 [^annex1a-lvlu1-1]
 
-[^t-3]: Ursprünglich: Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex1a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Ursprünglich: Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), vom 8. Dez. 2023 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) und Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex1a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-4]
 
@@ -428,8 +428,8 @@ Anhang 2[^t-4]
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), vom 8. Dez. 2023 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) und Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-5]
 
@@ -439,8 +439,8 @@ Anhang 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) und vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), Ziff. II der V des BLV vom 14. Febr. 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), vom 8. Dez. 2023 ([AS 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) und Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-6]
 

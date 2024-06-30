@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 25 novembre 2013 sur les additifs admis dans les de
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: fr
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-842-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20240201/fr"
 
 (Ordonnance sur les additifs, OAdd)
 
-du 25 novembre 2013 (État le 1<sup>er</sup> février 2024)
+du 25 novembre 2013 (État le 1<sup>er</sup> juillet 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -414,8 +414,8 @@ Annexe 1a[^t-2]
 
 [^annex1a-lvlu1-1]
 
-[^t-2]: Anciennement annexe 1. Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 1 des O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex1a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Anciennement annexe 1. Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 1 des O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), du 8 déc. 2023 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) et le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex1a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-3]
 
@@ -425,8 +425,8 @@ Annexe 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), du 8 déc. 2023 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) et le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-4]
 
@@ -436,8 +436,8 @@ Annexe 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)) et du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/827](https://fedlex.data.admin.ch/eli/oc/2023/827) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), le ch. II des O de l’OSAV du 14 fév. 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), du 8 déc. 2023 ([RO 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)) et le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/248](https://fedlex.data.admin.ch/eli/oc/2024/248) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-5]
 
@@ -1072,4 +1072,4 @@ Annexe 6[^t-7]
 
 Annexe 7[^t-8]
 
-[^t-8]: Abrogée par le ch. II al. 4 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^t-8]: Abrogée par le ch. II al. 4 de l’O du DFI du 16 déc. 2016, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
