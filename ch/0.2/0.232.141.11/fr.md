@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Règlement d'exécution du 19 juin 1970 du Traité de coopération en matière de brevets"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: fr
-version: 2022-07-01
+version: 2024-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Entré en vigueur pour la Suisse le 24 janvier 1978
 
 Texte en vigueur à partir du 1<sup>er</sup> juillet 2010[^t-2]
 
-(Etat le 1<sup>er</sup> juillet 2022)
+(État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Art. 1<sup>er</sup> ch. 2 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: Modifié par l’Assemblée de l’Union internationale de coopération en matière de brevets (Assemblée du PCT) le 14 avril 1978, le 3 oct. 1978, le 1<sup>er</sup> mai 1979, le 16 juin 1980, le 26 sept. 1980, le 3 juil. 1981, le 10 sept. 1982, le 4 oct. 1983, le 3 fév. 1984, le 28 sep. 1984, le 1<sup>er</sup> oct. 1985, le 12 juil. 1991, le 2 oct. 1991, le 29 sept. 1992, le 29 sept. 1993, le 3 oct. 1995, le 1<sup>er</sup> oct. 1997, le 15 sept. 1998, le 29 sept. 1999, le 17 mars 2000, le 3 oct. 2000, le 3 oct. 2001, le 1<sup>er</sup> oct. 2002, le 1<sup>er</sup> oct. 2003, le 5 oct. 2004, le 5 oct. 2005, le 3 oct. 2006, le 12 nov. 2007, le 15 mai 2008, le 29 sept. 2008 et le 1<sup>er</sup> oct. 2009 ([RO 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -192,7 +192,7 @@ Si un représentant commun est désigné, la requête doit l’indiquer.
 
 - b) Nonobstant l’al. a)i), si, le 5 octobre 2005, la législation nationale d’un État contractant prévoit que le dépôt d’une demande internationale qui contient la désignation de cet État et revendique la priorité d’une demande nationale antérieure produisant ses effets dans cet État a pour résultat que la demande nationale antérieure cesse de produire ses effets avec les mêmes conséquences que le retrait de ladite demande, toute requête dans laquelle la priorité d’une demande nationale antérieure déposée dans cet État est revendiquée peut contenir une indication selon laquelle la désignation de cet État n’est pas faite, à condition que l’office en question notifie au Bureau international le 5 janvier 2006 au plus tard que le présent alinéa s’applique aux désignations de cet État et que la notification soit toujours en vigueur à la date du dépôt international. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^4-subdivu9-1]
 
-[^4-subdivu9-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l*’*OMPI à l*’*adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^4-subdivu9-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l*’*OMPI à l*’*adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 ### 4.10 Revendication de priorité
 
@@ -240,7 +240,7 @@ Si le déposant souhaite que l’administration chargée de la recherche interna
 
 Si plusieurs administrations chargées de la recherche internationale sont compétentes pour procéder à la recherche pour la demande internationale, le déposant doit indiquer dans la requête l’administration chargée de la recherche internationale qu’il choisit.
 
-### 4.15** Signature
+### 4.15 Signature
 
 [^4-subdivu15-1]
 
@@ -263,7 +263,7 @@ La requête peut, aux fins de la législation nationale applicable dans un ou pl
 - iv) une déclaration, visée à la règle 51<sup>bis</sup>.1.a)iv), relative à la qualité d’inventeur, qui doit être signée conformément aux prescriptions des instructions administratives;
 - v) une déclaration, visée à la règle 51<sup>bis</sup>.1.a)v), relative à des divulgations non opposables ou à des exceptions au défaut de nouveauté.
 
-### 4.18** Déclaration d’incorporation par renvoi
+### 4.18 Déclaration d’incorporation par renvoi
 
 [^4-subdivu18-1]
 
@@ -296,7 +296,7 @@ Lorsque la demande internationale, à la date à laquelle un ou plusieurs des é
 - b) Il y a lieu de suivre la manière et l’ordre indiqués à l’al. a) sauf lorsqu’en raison de la nature de l’invention, une manière différente ou un ordre différent entraînerait une meilleure intelligence et une présentation plus économique.
 - c) Sous réserve de l’al. b), chaque élément énuméré à l’al. a) doit de préférence être précédé d’un titre approprié, conformément aux recommandations figurant dans les instructions administratives.
 
-### 5.2** Divulgation de séquences de nucléotides ou d’acides aminés
+### 5.2 Divulgation de séquences de nucléotides ou d’acides aminés
 
 [^5-subdivu2-1]
 
@@ -553,7 +553,7 @@ Les règles 10 et 11.1 à 11.13 s’appliquent également à tous documents – 
 
 [^12-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
 
-### 12.1<sup>bis</sup> ** Langue des éléments et parties remis en vertu de la règle 20.3, 20.5, 20.5<sup>bis</sup> ou 20.6
+### 12.1<sup>bis</sup> Langue des éléments et parties remis en vertu de la règle 20.3, 20.5, 20.5<sup>bis</sup> ou 20.6
 
 [^12-subdivu2-1]
 
@@ -718,7 +718,7 @@ Conformément aux art. 23 et 40, il ne sera pas remis, sauf avec l’autorisatio
 
 **Listage des séquences de nucléotides ou d’acides aminés**
 
-### 13<sup>ter</sup>.1** Procédure au sein de l’administration chargée de la recherche internationale
+### 13<sup>ter</sup>.1 Procédure au sein de l’administration chargée de la recherche internationale
 
 [^13ter-subdivu1-1]
 
@@ -757,7 +757,7 @@ Aucun office désigné ne peut exiger du déposant qu’il lui fournisse un list
 
 Toute demande internationale est soumise au paiement d’une taxe perçue par l’office récepteur au profit du Bureau international («taxe internationale de dépôt»).
 
-### 15.2 Montant; transfert**
+### 15.2 Montant; transfert
 
 [^15-subdivu2-1]
 
@@ -947,7 +947,7 @@ S’il y a plusieurs déposants, le droit de déposer une demande internationale
 - c) Aux fins de l’art. 11.1) ii), il suffit que la partie qui semble constituer une description (à l’exception de la partie de celle-ci réservée au listage des séquences) et la partie qui semble constituer une ou des revendications soient rédigées dans une langue acceptée par l’office récepteur en vertu de la règle 12.1.a).
 - d) Si, le 1<sup>er</sup> octobre 1997, l’al. c) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le Bureau international le 31 décembre 1997 au plus tard. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^20-subdivu1-1]
 
-[^20-subdivu1-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^20-subdivu1-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 ### 20.2 Constatation positive en vertu de l’art. 11.1)
 
@@ -1001,7 +1001,7 @@ Si l’office récepteur ne reçoit pas, dans le délai applicable en vertu de l
 [^20-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 [^20-subdivu5-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 
-### 20.5<sup>bis</sup> ** Éléments et parties indûment déposés
+### 20.5<sup>bis</sup> Éléments et parties indûment déposés
 
 [^20-subdivu6-1]
 
@@ -1056,10 +1056,10 @@ Si l’office récepteur ne reçoit pas, dans le délai applicable en vertu de l
 - b<sup>bis</sup>)[^20-subdivu9-5] Si, le 9 octobre 2019, l’une quelconque des règles 20.5<sup>bis</sup>.a)ii) et d) n’est pas compatible avec la législation nationale appliquée par l’office désigné, la règle concernée ne s’applique pas à cet office en rapport avec une demande internationale à l’égard de laquelle les actes visés à l’article 22 ont été accomplis auprès de cet office tant qu’elle reste incompatible avec cette législation, à condition que l’office en question en informe le Bureau international le 9 avril 2020 au plus tard. Le Bureau international publie à bref délai dans la gazette les informations reçues.
 - c)[^20-subdivu9-6] Lorsqu’un élément ou une partie est considéré comme ayant été incorporé par renvoi dans la demande internationale en vertu d’une constatation effectuée par l’office récepteur selon la règle 20.6.b), mais que cette incorporation par renvoi ne s’applique pas à la demande internationale aux fins de la procédure devant un office désigné en raison de l’application de l’alinéa b) ou de l’alinéa b<sup>bis</sup>) de la présente règle, l’office désigné peut considérer la demande comme si la date du dépôt international avait été accordée selon la règle 20.3.b)i), 20.5.b) ou 20.5<sup>bis</sup>.b), ou corrigée selon la règle 20.5.c) ou 20.5<sup>bis</sup>.c), selon le cas, étant entendu que la règle 82<sup>ter</sup>.1.c) et d) s’applique mutatis mutandis.
 
-[^20-subdivu9-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l*’*adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^20-subdivu9-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l*’*adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 [^20-subdivu9-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 [^20-subdivu9-3]: Introduite par la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
-[^20-subdivu9-4]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^20-subdivu9-4]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 [^20-subdivu9-5]: Introduite par la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 [^20-subdivu9-6]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 
@@ -1183,22 +1183,22 @@ Le délai prévu à la règle 26.1 est de deux mois à compter de la date de l�
 
 - a) Aux fins de l’art. 14.1)a)i), s’il y a plusieurs déposants, il suffit que la requête soit signée par l’un d’eux.
 - b) Aux fins de l’art. 14.1)a)ii), s’il y a plusieurs déposants, il suffit que les indications exigées en vertu de la règle 4.5.a)ii) et iii) soient fournies à l’égard de l’un d’entre eux qui est habilité, conformément à la règle 19.1, à déposer la demande internationale auprès de l’office récepteur.
-
-### 26.3 Contrôle des conditions matérielles au sens de l’art. 14.1)a)v)
-
+- 26\.3[^26-subdivu3-1] *Contrôle des conditions matérielles au sens de l’art. 14.1)a)v)*
 - a)
 
   Lorsque la demande internationale est déposée dans une langue de publication, l’office récepteur contrôle:
 
   - i) la conformité de la demande internationale aux conditions matérielles mentionnées à la règle 11 seulement dans la mesure où ces conditions doivent être remplies aux fins d’une publication internationale raisonnablement uniforme;
-  - ii) la conformité de toute traduction remise en vertu de la règle 12.3 aux conditions matérielles mentionnées à la règle 11 dans la mesure où ces conditions doivent être remplies aux fins d’une reproduction satisfaisante.
+  - ii) la conformité de toute traduction remise en vertu de la règle 12.3 ou 26.3<sup>ter</sup> aux conditions matérielles mentionnées à la règle 11 dans la mesure où ces conditions doivent être remplies aux fins d’une reproduction satisfaisante.
 
 - b)
 
   Lorsque la demande internationale est déposée dans une langue qui n’est pas une langue de publication, l’office récepteur contrôle:
 
   - i) la conformité de la demande internationale aux conditions matérielles mentionnées à la règle 11 seulement dans la mesure où ces conditions doivent être remplies aux fins d’une reproduction satisfaisante;
-  - ii) la conformité de toute traduction remise en vertu de la règle 12.3 ou 12.4 et des dessins aux conditions matérielles mentionnées à la règle 11 dans la mesure où ces conditions doivent être remplies aux fins d’une publication internationale raisonnablement uniforme.
+  - ii) la conformité de toute traduction remise en vertu de la règle 12.3, ou 12.4 ou 26.3<sup>ter</sup> et des dessins aux conditions matérielles mentionnées à la règle 11 dans la mesure où ces conditions doivent être remplies aux fins d’une publication internationale raisonnablement uniforme.
+
+[^26-subdivu3-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
 
 ### 26.3<sup>bis</sup> Invitation selon l’art. 14.1)b) à corriger des irrégularités selon la règle 11
 
@@ -1206,20 +1206,31 @@ L’office récepteur n’est pas tenu d’adresser l’invitation selon l’art
 
 ### 26.3<sup>ter</sup> Invitation à corriger des irrégularités en vertu de l’art. 3.4)i)
 
-- a)
+- a)[^26-subdivu5-1]
 
-  Lorsque l’abrégé ou tout texte contenu dans les dessins est déposé dans une langue qui est différente de celle de la description et des revendications, l’office récepteur, sauf:
+  Lorsque l’abrégé ou tout texte contenu dans les dessins est déposé dans une langue qui est différente de celle, sous réserve des règles 12.1<sup>bis</sup> et 26.3<sup>ter</sup>.e), de la description et des revendications, l’office récepteur, sauf:
 
   - i) si une traduction de la demande internationale est exigée en vertu de la règle 12.3.a), ou
-  - ii) si l’abrégé ou le texte contenu dans les dessins est rédigé dans la langue dans laquelle la demande internationale doit être publiée, invite le déposant à remettre une traduction de l’abrégé ou du texte contenu dans les dessins dans la langue dans laquelle la demande internationale doit être publiée.
-  - Les règles 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 et 29.1 s’appliquent mutatis mutandis.
+  - ii) si l’abrégé ou le texte contenu dans les dessins est rédigé dans la langue dans laquelle la demande internationale doit être publiée,
+  - invite le déposant à remettre une traduction de l’abrégé ou du texte contenu dans les dessins dans la langue dans laquelle la demande internationale doit être publiée. Les règles 26.1, 26.2, 26.3, 26.3*bis*, 26.5 et 29.1 s’appliquent *mutatis mutandis*.
 
-- b) Si, le 1<sup>er</sup> octobre 1997, l’al. a) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu6-1]
+- b) Si, le 1<sup>er</sup> octobre 1997, l’al. a) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu5-2]
 - c) Lorsque la requête n’est pas conforme à la règle 12.1.c), l’office récepteur invite le déposant à déposer une traduction de façon à satisfaire aux exigences énoncées à cette règle. Les règles 3, 26.1, 26.2, 26.5 et 29.1 s’appliquent mutatis mutandis.
-- d) Si, le 1<sup>er</sup> octobre 1997, l’al. c) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu6-2]
+- d) Si, le 1<sup>er</sup> octobre 1997, l’al. c) n’est pas compatible avec la législation nationale appliquée par l’office récepteur, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que ledit office en informe le 31 décembre 1997 au plus tard le Bureau international. Celui-ci publie à bref délai dans la gazette les renseignements reçus.[^26-subdivu5-3]
+- e)[^26-subdivu5-4]
 
-[^26-subdivu6-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
-[^26-subdivu6-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+  Lorsque la description d’une demande internationale est déposée dans une langue différente de celle des revendications, ou lorsque certaines parties de la description ou certaines parties des revendications sont déposées dans une langue différente de celle du reste de cet élément, et dans la mesure où ces langues sont acceptées par l’office récepteur au titre de la règle 12.1.a), l’office récepteur invite le déposant, le cas échéant, à remettre, dans un délai d’un mois à compter de la date de réception de la demande internationale par l’office récepteur, une traduction de la description, des revendications ou de toute partie de celles-ci rédigée dans une seule langue qui remplit les conditions ci-après:
+
+  - i) une des langues indiquées dans la description ou les revendications telles qu’elles ont été déposées;
+  - ii) une langue acceptée par l’administration chargée de la recherche internationale qui procédera à la recherche internationale, et
+  - iii) la langue dans laquelle la demande internationale doit être publiée.
+
+- La règle 12.3.c) à e) s’applique *mutatis mutandis*.
+
+[^26-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
+[^26-subdivu5-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
+[^26-subdivu5-3]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
+[^26-subdivu5-4]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
 
 ### 26.4 Procédure
 
@@ -1306,7 +1317,7 @@ L’office récepteur décide si le déposant a présenté la correction dans le
 [^26bis-subdivu3-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^26bis-subdivu3-3]: Introduit par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^26bis-subdivu3-4]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
-[^26bis-subdivu3-5]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^26bis-subdivu3-5]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 #### Règle 26<sup>ter</sup>
 
@@ -1357,15 +1368,17 @@ Lorsque la correction ou l’adjonction d’une indication visée à la règle 4
 
 **Demandes internationales considérées comme retirées**
 
-### 29.1 Constatations de l’office récepteur
+- 29\.1[^29-subdivu1-1] *Constatations de l’office récepteur*
 
-Si l’office récepteur déclare, conformément à l’art. 14.1)b) et à la règle 26.5 (défaut de correction de certaines irrégularités), conformément à l’art. 14.3)a) (défaut de paiement des taxes prescrites par la règle 27.1.a)), conformément à l’art. 14.4) (constatation ultérieure que les conditions énumérées aux points i) à iii) de l’art. 11.1) ne sont pas remplies), conformément à la règle 12.3.d) ou 12.4.d) (défaut de remise d’une traduction requise ou, le cas échéant, de paiement d’une taxe pour remise tardive) ou conformément à la règle 92.4.g)i) (défaut de remise de l’original d’un document), que la demande internationale est considérée comme retirée,
+Si l’office récepteur déclare, conformément à l’art. 14.1)b) et à la règle 26.5 (défaut de correction de certaines irrégularités), conformément à l’art. 14.3)a) (défaut de paiement des taxes prescrites par la règle 27.1.a)), conformément à l’art. 14.4) (constatation ultérieure que les conditions énumérées aux points i) à iii) de l’art. 11.1) ne sont pas remplies), conformément à la règle 12.3.d), 12.4.d) ou 26.3<sup>ter</sup> (défaut de remise d’une traduction requise ou, le cas échéant, de paiement d’une taxe pour remise tardive) ou conformément à la règle 92.4.g)i) (défaut de remise de l’original d’un document), que la demande internationale est considérée comme retirée:
 
 - i) il transmet au Bureau international l’exemplaire original (si cela n’a pas déjà été fait) et toute correction présentée par le déposant;
 - ii) il notifie à bref délai cette déclaration au déposant et au Bureau international, et ce dernier la notifie à son tour à chaque office désigné qui a déjà reçu notification de sa désignation;
 - iii) il ne transmet pas la copie de recherche de la manière prescrite à la règle 23 ou, si une telle copie a déjà été transmise, il notifie cette déclaration à l’administration chargée de la recherche internationale;
 - iv) le Bureau international n’a pas l’obligation de notifier au déposant la réception de l’exemplaire original;
 - v) il n’est pas procédé à la publication internationale de la demande internationale si la notification de ladite déclaration transmise par l’office récepteur parvient au Bureau international avant l’achèvement de la préparation technique de la publication internationale.
+
+[^29-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure.
 
 ### 29.2 [Supprimée]
 
@@ -1599,7 +1612,7 @@ n’est notifié à cette administration qu’après que cette dernière a comme
 
 **Prise en considération des résultats d’une recherche et d’un classement antérieurs[^41-1]**
 
-### 41.1 Prise en considération des résultats d’une recherche antérieure en cas de requête selon la règle 4.12**
+### 41.1 Prise en considération des résultats d’une recherche antérieure en cas de requête selon la règle 4.12
 
 [^41-subdivu1-1]
 
@@ -1611,7 +1624,7 @@ Lorsque le déposant a, conformément à la règle 4.12, demandé à l’adminis
 - i) la recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale, dans la mesure du possible, prend en considération ces résultats dans le cadre de la recherche internationale;
 - ii) la recherche antérieure a été effectuée par une autre administration chargée de la recherche internationale ou par un office qui n’est pas celui qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale peut prendre en considération ces résultats dans le cadre de la recherche internationale.
 
-### 41.2** Prise en considération des résultats d’une recherche et d’un classement antérieurs dans d’autres cas
+### 41.2 Prise en considération des résultats d’une recherche et d’un classement antérieurs dans d’autres cas
 
 [^41-subdivu2-1]
 
@@ -1930,8 +1943,8 @@ Si la demande internationale a été déposée dans une langue autre que celle d
 - d) Chaque office désigné reçoit, sur sa demande, les rapports de recherche internationale et les déclarations visées à l’art. 17.2)a) également dans leur traduction selon la règle 45.1.
 - e)[^47-subdivu1-2] Si un office désigné n’a pas, avant l’expiration d’un délai de 28 mois à compter de la date de priorité, demandé au Bureau international, conformément à la règle 93<sup>bis</sup>.1, d’effectuer la communication prévue à l’art. 20, l’État contractant pour lequel cet office agit en qualité d’office désigné est considéré comme ayant notifié au Bureau international, conformément à la règle 49.1.a<sup>bis</sup>), qu’il n’exige pas du déposant qu’il remette une copie de la demande internationale selon l’art. 22.
 
-[^47-subdivu1-1]: *Note de l’éditeur*: La règle 47.1.c) et e) s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> janv. 2004 ou une date postérieure, et pour ce qui concerne tout office désigné qui a envoyé une notification en vertu de l’al. 2) des décisions de l’Assemblée figurant à l’annexe IV du document PCT/A/30/7 (indiquant que, le 3 oct. 2001, la modification du délai fixé à l’art. 22.1) n’était pas compatible avec la législation nationale appliquée par cet office) et qui n’a pas retiré cette notification en vertu de l’al. 3) desdites décisions, comme si la référence faite dans la règle 47.1.c) et e) à «28 mois» était une référence à «19 mois»; il en résulte que deux notifications faites en vertu de la règle 47.1.c) devront, le cas échéant, être envoyées en ce qui concerne une telle demande. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
-[^47-subdivu1-2]: *Note de l’éditeur*: La règle 47.1.c) et e) s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> janv. 2004 ou une date postérieure, et pour ce qui concerne tout office désigné qui a envoyé une notification en vertu de l’al. 2) des décisions de l’Assemblée figurant à l’annexe IV du document PCT/A/30/7 (indiquant que, le 3 oct. 2001, la modification du délai fixé à l’art. 22.1) n’était pas compatible avec la législation nationale appliquée par cet office) et qui n’a pas retiré cette notification en vertu de l’al. 3) desdites décisions, comme si la référence faite dans la règle 47.1.c) et e) à «28 mois» était une référence à «19 mois»; il en résulte que deux notifications faites en vertu de la règle 47.1.c) devront, le cas échéant, être envoyées en ce qui concerne une telle demande. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^47-subdivu1-1]: *Note de l’éditeur*: La règle 47.1.c) et e) s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> janv. 2004 ou une date postérieure, et pour ce qui concerne tout office désigné qui a envoyé une notification en vertu de l’al. 2) des décisions de l’Assemblée figurant à l’annexe IV du document PCT/A/30/7 (indiquant que, le 3 oct. 2001, la modification du délai fixé à l’art. 22.1) n’était pas compatible avec la législation nationale appliquée par cet office) et qui n’a pas retiré cette notification en vertu de l’al. 3) desdites décisions, comme si la référence faite dans la règle 47.1.c) et e) à «28 mois» était une référence à «19 mois»; il en résulte que deux notifications faites en vertu de la règle 47.1.c) devront, le cas échéant, être envoyées en ce qui concerne une telle demande. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
+[^47-subdivu1-2]: *Note de l’éditeur*: La règle 47.1.c) et e) s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> janv. 2004 ou une date postérieure, et pour ce qui concerne tout office désigné qui a envoyé une notification en vertu de l’al. 2) des décisions de l’Assemblée figurant à l’annexe IV du document PCT/A/30/7 (indiquant que, le 3 oct. 2001, la modification du délai fixé à l’art. 22.1) n’était pas compatible avec la législation nationale appliquée par cet office) et qui n’a pas retiré cette notification en vertu de l’al. 3) desdites décisions, comme si la référence faite dans la règle 47.1.c) et e) à «28 mois» était une référence à «19 mois»; il en résulte que deux notifications faites en vertu de la règle 47.1.c) devront, le cas échéant, être envoyées en ce qui concerne une telle demande. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 ### 47.2 Copies
 
@@ -2085,13 +2098,13 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
 
 [^49-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 29 sept. 2010, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^49-subdivu5-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
-[^49-subdivu5-3]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49-subdivu5-3]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
-### 49.6 Rétablissement des droits en cas d’inaccomplissement des actes visés à l’art. 22**
+### 49.6 Rétablissement des droits en cas d’inaccomplissement des actes visés à l’art. 22
 
 [^49-subdivu6-1]
 
-[^49-subdivu6-1]: *Note de l’éditeur*: Les al. a) à e) de la règle 49.6 ne s’appliquent à aucune demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003, étant entendu que: i) ces alinéas s’appliquent, sous réserve du point iii), à toute demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003 et à l’égard de laquelle le délai applicable en vertu de l’art. 22 expire le 1<sup>er</sup> janv. 2003 ou ultérieurement; ii) dans la mesure où ces alinéas s’appliquent en vertu de la règle 76.5, cette dernière s’applique, sous réserve du point iii), à toute demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003 et à l’égard de laquelle le délai applicable en vertu de l’art. 39.1) expire le 1<sup>er</sup> janv. 2003 ou ultérieurement; iii) si un office désigné informe le Bureau international, en vertu de l’al. f) de la règle 49.6, que les al. a) à e) de cette règle ne sont pas compatibles avec la législation nationale appliquée par cet office, les points i) et ii) du présent paragraphe s’appliquent à l’égard de cet office, sous réserve que chaque référence faite sous ces points à la date du 1<sup>er</sup> janv. 2003 s’entende comme une référence à la date d’entrée en vigueur de la règle 49.6.a) à e) à l’égard de cet office. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49-subdivu6-1]: *Note de l’éditeur*: Les al. a) à e) de la règle 49.6 ne s’appliquent à aucune demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003, étant entendu que: i) ces alinéas s’appliquent, sous réserve du point iii), à toute demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003 et à l’égard de laquelle le délai applicable en vertu de l’art. 22 expire le 1<sup>er</sup> janv. 2003 ou ultérieurement; ii) dans la mesure où ces alinéas s’appliquent en vertu de la règle 76.5, cette dernière s’applique, sous réserve du point iii), à toute demande internationale dont la date de dépôt international est antérieure au 1<sup>er</sup> janv. 2003 et à l’égard de laquelle le délai applicable en vertu de l’art. 39.1) expire le 1<sup>er</sup> janv. 2003 ou ultérieurement; iii) si un office désigné informe le Bureau international, en vertu de l’al. f) de la règle 49.6, que les al. a) à e) de cette règle ne sont pas compatibles avec la législation nationale appliquée par cet office, les points i) et ii) du présent paragraphe s’appliquent à l’égard de cet office, sous réserve que chaque référence faite sous ces points à la date du 1<sup>er</sup> janv. 2003 s’entende comme une référence à la date d’entrée en vigueur de la règle 49.6.a) à e) à l’égard de cet office. Les informations reçues par le Bureau international concernant une telle incompatibilité sont publiées dans la gazette et sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 - a) Lorsque les effets de la demande internationale prévus à l’art. 11.3) cessent parce que le déposant n’a pas accompli, dans le délai applicable, les actes visés à l’art. 22, l’office désigné, sur requête du déposant, sous réserve des al. b) à e) de la présente règle, rétablit les droits du déposant en ce qui concerne cette demande internationale s’il constate que le retard dans l’observation de ce délai n’était pas intentionnel ou, au choix de l’office désigné, que l’inobservation du délai est intervenue bien que la diligence requise en l’espèce ait été exercée.
 - b)
@@ -2113,7 +2126,7 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
 - e) L’office désigné ne doit pas rejeter une requête formulée en vertu de l’al. a) sans que soit donnée au déposant la possibilité de présenter dans un délai raisonnable en l’espèce des observations sur le refus envisagé.
 - f) Si, le 1<sup>er</sup> octobre 2002, les al. a) à e) ne sont pas compatibles avec la législation nationale appliquée par l’office désigné, ils ne s’appliquent pas à celui-ci tant qu’ils restent incompatibles avec ladite législation, à condition que l’office en question en informe le Bureau international le 1<sup>er</sup> janvier 2003 au plus tard. Le Bureau international publie à bref délai cette information dans la gazette.[^49-subdivu6-2]
 
-[^49-subdivu6-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49-subdivu6-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 #### Règle 49<sup>bis</sup>
 
@@ -2146,7 +2159,7 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
 - f) Lorsque l’office récepteur a rejeté une requête en restauration du droit de priorité, tout office désigné peut considérer cette requête comme une requête en restauration qui lui a été présentée en vertu de la règle 49<sup>ter</sup>.2.a) dans le délai prescrit par cette règle.
 - g) Si, le 5 octobre 2005, les al. a) à d) ne sont pas compatibles avec la législation nationale appliquée par l’office désigné, ces alinéas ne s’appliquent pas à l’égard de cet office tant qu’ils restent incompatibles avec cette législation, à condition que ledit office en informe le Bureau international le 5 avril 2006 au plus tard. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^49ter-subdivu1-1]
 
-[^49ter-subdivu1-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49ter-subdivu1-1]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 ### 49<sup>ter</sup>.2 Restauration du droit de priorité par l’office désigné
 
@@ -2168,7 +2181,7 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
 - h) Si, le 5 octobre 2005, les al. a) à g) ne sont pas compatibles avec la législation nationale appliquée par l’office désigné, ces alinéas ne s’appliquent pas à l’égard de cet office tant qu’ils restent incompatibles avec cette législation, à condition que ledit office en informe le Bureau international le 5 avril 2006 au plus tard. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^49ter-subdivu2-2]
 
 [^49ter-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 30 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 4287](https://fedlex.data.admin.ch/eli/oc/2015/723)).
-[^49ter-subdivu2-2]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49ter-subdivu2-2]: *Note de l’éditeur:* Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 #### Règle 50
 
@@ -2240,7 +2253,7 @@ Le délai visé à l’art. 25.2)a) expire en même temps que le délai fixé à
 [^51bis-subdivu1-4]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 [^51bis-subdivu1-5]: Abrogée par la mod. adoptée par l’Assemblée du PCT le 11 oct. 2016, avec effet au 1<sup>er</sup> juil. 2017 (RO **201****7** 3527).
 
-### 51<sup>bis</sup>.2** Certaines circonstances dans lesquelles des documents ou des preuves ne peuvent pas être exigés
+### 51<sup>bis</sup>.2 Certaines circonstances dans lesquelles des documents ou des preuves ne peuvent pas être exigés
 
 [^51bis-subdivu2-1]
 
@@ -2259,7 +2272,7 @@ L’office désigné ne peut, à moins qu’il puisse raisonnablement douter de 
 - b) Si une exigence de la législation nationale applicable par l’office désigné que ce dernier peut appliquer conformément à l’art. 27.6) ou 7) n’est pas déjà satisfaite dans le délai applicable à l’observation des exigences selon l’art. 22, le déposant doit avoir la possibilité de s’y conformer après l’expiration de ce délai.
 - c) Si, le 17 mars 2000, l’al. a) n’est pas compatible avec la législation nationale appliquée par l’office désigné quant au délai visé dans ledit alinéa, il ne s’applique pas pour ce délai à l’égard de cet office aussi longtemps qu’il reste incompatible avec cette législation, à condition que l’office en informe le Bureau international au plus tard le 30 novembre 2000. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^51bis-subdivu3-1]
 
-[^51bis-subdivu3-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^51bis-subdivu3-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
 #### Règle 52
 
@@ -2314,7 +2327,7 @@ Aux fins d’identification de la demande internationale, la demande d’examen 
 
 Le dépôt d’une demande d’examen préliminaire international vaut élection de tous les États contractants désignés qui sont liés par le chap. II du traité.
 
-### 53.8** Signature
+### 53.8 Signature
 
 [^53-subdivu8-1]
 
@@ -2394,7 +2407,7 @@ La demande d’examen préliminaire international doit être présentée dans la
 
 [^55-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 9 oct. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Cette mod. s’applique à toute demande internationale pour laquelle un ou plusieurs des éléments visés à l’article 11.1)iii) ont été initialement reçus par l’office récepteur le 1<sup>er</sup> juillet 2020 ou à une date postérieure.
 
-### 55.3** Langue et traduction des modifications et des lettres
+### 55.3 Langue et traduction des modifications et des lettres
 
 [^55-subdivu3-1]
 
@@ -2421,7 +2434,7 @@ La demande d’examen préliminaire international doit être présentée dans la
 
 Toute demande d’examen préliminaire international est soumise au paiement d’une taxe perçue au profit du Bureau international («taxe de traitement») par l’administration chargée de l’examen préliminaire international à laquelle la demande d’examen est présentée.
 
-### 57.2 Montant; transfert**
+### 57.2 Montant; transfert
 
 [^57-subdivu2-1]
 
@@ -2654,9 +2667,9 @@ Aux fins de l’art. 33.3), la date pertinente pour l’appréciation de l’act
 - c) Lorsque l’opinion écrite établie par l’administration chargée de la recherche internationale en vertu de la règle 43<sup>bis</sup>.1 n’est pas, en vertu d’une notification selon l’al. b), considérée comme une opinion écrite de l’administration chargée de l’examen préliminaire international aux fins de la règle 66.2.a), l’administration chargée de l’examen préliminaire international le notifie par écrit au déposant.
 - d) Une opinion écrite établie par l’administration chargée de la recherche internationale en vertu de la règle 43<sup>bis</sup>.1 qui n’est pas, en vertu d’une notification selon l’al. b), considérée comme une opinion écrite de l’administration chargée de l’examen préliminaire international aux fins de la règle 66.2.a) doit néanmoins être prise en considération par l’administration chargée de l’examen préliminaire international dans la procédure visée à la règle 66.2.a).
 
-[^66-subdivu2-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^66-subdivu2-1]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html).
 
-### 66.1<sup>ter</sup> ** Recherches complémentaires
+### 66.1<sup>ter</sup> Recherches complémentaires
 
 [^66-subdivu3-1]
 
@@ -2714,7 +2727,7 @@ L’administration chargée de l’examen préliminaire international peut, en t
 - b) Lorsque la modification consiste à supprimer des passages ou à apporter des changements ou des adjonctions mineurs, la feuille de remplacement visée à l’al. a) peut être une copie de la feuille correspondante de la demande internationale contenant les changements ou les adjonctions apportés, à condition que la clarté et la possibilité de reproduction directe de cette feuille ne soient pas compromises. Dans la mesure où une modification entraîne la suppression d’une feuille entière, elle doit faire l’objet d’une lettre qui de préférence explique aussi les raisons de la modification.
 - c) Lors de la modification des revendications, la règle 46.5 s’applique mutatis mutandis. La série de revendications soumise selon la règle 46.5 appliquée en vertu du présent alinéa remplace toutes les revendications initialement déposées ou précédemment modifiées en vertu des art. 19 ou 34, selon le cas.
 
-### 66.9 …**
+### 66.9 …
 
 [^66-subdivu12-1]
 
@@ -2894,7 +2907,7 @@ Le rapport indique le nom du fonctionnaire de l’administration chargée de l�
 - a) Les conditions matérielles de forme du rapport sont fixées dans les instructions administratives.
 - b) Le rapport porte le titre de «rapport préliminaire international sur la brevetabilité (chap. II du Traité de coopération en matière de brevets)» ainsi qu’une mention indiquant qu’il s’agit du rapport d’examen préliminaire international établi par l’administration chargée de l’examen préliminaire international.
 
-### 70.16** Annexes du rapport
+### 70.16 Annexes du rapport
 
 [^70-subdivu16-1]
 
@@ -2926,7 +2939,7 @@ Le rapport et toute annexe sont établis dans la langue de publication de la dem
 
 **Transmission du rapport d’examen préliminaire international et de documents connexes[^71-1]**
 
-### 71.1** Destinataire
+### 71.1 Destinataire
 
 [^71-subdivu1-1]
 
@@ -3129,7 +3142,7 @@ Lorsqu’un délai court à compter de la date d’un document ou d’une lettre
   - i) même si l’entreprise d’acheminement à laquelle l’expédition a été confiée ne figure pas parmi les entreprises qui, le cas échéant, ont été indiquées dans la notification pertinente faite en vertu de l’al. d) ou ne satisfait pas aux critères qui, le cas échéant, ont été indiqués dans cette notification, ou
   - ii) même si cet office ou cette organisation n’a pas envoyé au Bureau international de notification en vertu de l’al. d).
 
-### 82.2 …**
+### 82.2 …
 
 [^82-subdivu2-1]
 
@@ -3188,7 +3201,7 @@ Les dispositions de la législation nationale visée à l’art. 48.2) qui perme
 [^82quater-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
 [^82quater-subdivu1-2]: Introduite par la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
 
-### 82<sup>quater</sup>.2** Indisponibilité des moyens de communication électronique au sein de l’office
+### 82<sup>quater</sup>.2 Indisponibilité des moyens de communication électronique au sein de l’office
 
 [^82quater-subdivu2-1]
 
@@ -3197,7 +3210,7 @@ Les dispositions de la législation nationale visée à l’art. 48.2) qui perme
 - a) Tout office national ou organisation intergouvernementale peut prévoir que, lorsqu’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant cet office ou cette organisation n’est pas observé en raison de l’indisponibilité d’un moyen de communication électronique autorisé au sein de cet office ou de cette organisation, le retard dans l’observation de ce délai est excusé, à condition que cet acte soit accompli le jour ouvrable suivant celui où ledit moyen de communication électronique est disponible. L’office ou l’organisation concerné publie des informations sur ladite indisponibilité, notamment en ce qui concerne sa durée, et en informe le Bureau international.
 - b) L’excuse du retard dans l’observation d’un délai en vertu de l’alinéa a) n’a pas à être prise en considération par un office désigné ou élu devant lequel le déposant, au moment de la publication des informations mentionnées à l’alinéa a), a déjà accompli les actes visés à l’article 22 ou à l’article 39.
 
-### 82<sup>quater</sup>.3** Prorogation des délais en raison d’une perturbation générale
+### 82<sup>quater</sup>.3 Prorogation des délais en raison d’une perturbation générale
 
 [^82quater-subdivu3-1]
 
@@ -3205,7 +3218,9 @@ Les dispositions de la législation nationale visée à l’art. 48.2) qui perme
 
 - a) Tout office récepteur, administration chargée de la recherche internationale, administration indiquée pour la recherche supplémentaire ou administration chargée de l’examen préliminaire international ou le Bureau international peut établir une période de prorogation au cours de laquelle les délais fixés dans le règlement d’exécution pour l’accomplissement d’un acte devant cet office, cette administration ou le Bureau international peuvent être prorogés lorsque l’État dans lequel cette entité est établie connaît une perturbation générale causée par l’un des évènements visés à la règle 82<sup>quater</sup>.1a) qui a une incidence sur les opérations de cet office, cette administration ou le Bureau international, empêchant ainsi les parties d’accomplir des actes devant cet office, cette administration ou le Bureau international dans les délais fixés dans le règlement d’exécution. L’office, l’administration ou le Bureau international publient la date de début et la date de fin de cette période de prorogation. La période de prorogation ne doit pas être supérieure à deux mois à compter de la date de début. L’office ou l’administration en informe le Bureau international.
 - b) Après avoir établi une période de prorogation conformément à l’al. a), l’office ou l’administration concerné ou le Bureau international peut établir des périodes supplémentaires de prorogation, si nécessaire compte tenu des circonstances. Dans ce cas, l’al. a) s’applique *mutatis mutandis.*
-- c) La prorogation d’un délai au titre de l’al. a) ou b) doit être prise en considération par tout office désigné ou élu si, au moment où l’information visée à l’al. a) ou b) est publiée, le traitement national auprès de cet office a débuté.
+- c)[^82quater-subdivu3-2] La prorogation d’un délai au titre de l’al. a) ou b) n’a pas à être prise en considération par tout office désigné ou élu si, au moment où l’information visée à l’al. a) ou b) est publiée, le traitement national auprès de cet office a commencé.
+
+[^82quater-subdivu3-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). La mod. s’applique à toute demande internationale dont la date de dépôt international intervient le 1<sup>er</sup> juillet 2024 ou une date postérieure. Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
 
 #### Règle 83
 
@@ -3469,7 +3484,7 @@ Tout office national ou organisation intergouvernementale peut prévoir que, lor
 - b) Le retrait est effectif dès réception d’une déclaration, adressée par le déposant au Bureau international.
 - c) Si la déclaration de retrait est remise par le déposant à l’administration chargée de l’examen préliminaire international, celle-ci y inscrit la date de réception et transmet la déclaration à bref délai au Bureau international. La déclaration est réputée avoir été remise au Bureau international à ladite date.
 
-### 90<sup>bis</sup>.5** Signature
+### 90<sup>bis</sup>.5 Signature
 
 [^90bis-subdivu6-1]
 
@@ -3726,7 +3741,7 @@ Tout office désigné ou élu doit notifier au Bureau international les informat
 
 Le montant des taxes visées aux règles 15, 45<sup>bis</sup>.2 et 57 est exprimé en monnaie suisse. Il est indiqué dans le barème de taxes annexé au présent règlement d’exécution et qui en fait partie intégrante.
 
-### 96.2** Notification de la perception de taxes; transfert de taxes
+### 96.2 Notification de la perception de taxes; transfert de taxes
 
 [^96-subdivu2-1]
 
@@ -3736,7 +3751,7 @@ Le montant des taxes visées aux règles 15, 45<sup>bis</sup>.2 et 57 est exprim
 - b) Lorsque, en vertu du présent règlement d’exécution ou des instructions administratives, une taxe est perçue par un office («office percepteur») au profit d’un autre office («office bénéficiaire»), l’office percepteur notifie à bref délai la réception de cette taxe conformément aux instructions administratives. À la réception de la notification, l’office bénéficiaire procède comme s’il avait reçu la taxe à la date à laquelle la taxe a été reçue par l’office percepteur.
 - c) L’office percepteur transfère à l’office bénéficiaire les taxes perçues à son profit conformément aux instructions administratives.
 
-Annexe*[^t-3]*
+Annexe[^t-3]
 
 ## Barème de taxes
 
@@ -3758,4 +3773,4 @@ Annexe*[^t-3]*
 <tr><td colspan="2">5. La taxe internationale de dépôt prévue au point 1 (compte tenu, le cas échéant, de la réduction prévue au point 4), la taxe de traitement de la recherche supplémentaire prévue au point 2 et la taxe de traitement prévue au point 3 sont réduites de 90% si la demande internationale est déposée par: a) un déposant qui est une personne physique et qui est ressortissant d’un État, et est domicilié dans un État, qui figure sur la liste des États où le produit intérieur brut par habitant est inférieur à 25 000 dollars des États-Unis (déterminé d’après les données les plus récentes publiées par l’Organisation des Nations Unies concernant le produit intérieur brut moyen par habitant sur 10 ans, exprimé en dollars des États-Unis constants par rapport à 2005), et dont les ressortissants et les résidents qui sont des personnes physiques ont déposé moins de 10 demandes internationales par an (pour un million de personnes) ou moins de 50 demandes internationales par an (en chiffres absolus) d’après les données les plus récentes publiées par le Bureau international concernant le nombre moyen de dépôts annuels sur cinq ans, ou b) un déposant, personne physique ou non, qui est ressortissant d’un État, et est domicilié dans un État, qui figure sur la liste des États classés par l’Organisation des Nations Unies dans la catégorie des pays les moins avancés, étant entendu qu’il n’y aurait pas, au moment du dépôt de la demande internationale, de bénéficiaires de la demande internationale ne satisfaisant pas aux critères énoncés au point 5.a) ou au point 5.b) et que, s’il y a plusieurs déposants, chacun d’eux doit satisfaire aux critères énoncés au point 5.a) ou au point 5.b). Les listes d’États visées aux points 5.a) et 5.b)[^annexu1-lvlu1-1] sont mises à jour par le Directeur général au moins tous les cinq ans conformément aux directives données par l’Assemblée. Les critères énoncés aux points 5.a) et 5.b) sont réexaminés par l’Assemblée au moins tous les cinq ans.</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: *Note de l’éditeur:* Les premières listes des États ont été publiées dans la Gazette le 12 février 2015, à la page 38 (voir www.wipo.int/pct/fr/official\_notices/index.html).
+[^annexu1-lvlu1-1]: *Note de l’éditeur:* Les premières listes des États ont été publiées dans la Gazette le 12 février 2015, à la page 38 (voir [www.wipo.int/pct/fr/official\_notices/index.html](http://www.wipo.int/pct/fr/official_notices/index.html) ).

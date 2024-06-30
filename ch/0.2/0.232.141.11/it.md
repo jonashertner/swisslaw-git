@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Regolamento d'esecuzione del 19 giugno 1970 del Trattato di cooperazione in materia di brevetti"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: it
-version: 2022-07-01
+version: 2024-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conchiuso a Washington il 19 giugno 1970 Approvato dall’Assemblea federale il 29 novembre 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 14 settembre 1977 Entrato in vigore per la Svizzera il 24 gennaio 1978 Testo in vigore al 1° luglio 2010[^t-2]
 
-(Stato 1° luglio 2022)
+(Stato 1° luglio 2024)
 
 [^t-1]: Art. 1 n.2 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
 [^t-2]: Modificato dall’Assemblea dell’Unione internazionale di cooperazione in materia di brevetti (Assemblea del PCT) il 14 apr. 1978, il 3 ott. 1978, il 1° mag. 1979, il 16 giu. 1980, il 26 set. 1980, il 3 lug. 1981, il 10 set. 1982, il 4 ott. 1983, il 3 feb. 1984, il 28 set. 1984, il 1° ott. 1985, il 12 lug. e il 2 ott. 1991, il 29 set. 1992, il 29 set. 1993, il 3 ott. 1995, il 1° ott. 1997, il 15 set. 1998, il 29 set. 1999, il 17 mar. 2000, il 3 ott. 2000, il 3 ott. 2001, il 1° ott. 2002, il 1° ott. 2003, il 5 ott. 2004, il 5 ott. 2005, il 3 ott. 2006, il 12 nov. 2007, il 15 mag. 2008, il 29 set. 2008 ed il 1° ott. 2009 ([RU 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -165,7 +165,7 @@ Il titolo dell’invenzione deve essere breve (preferibilmente da due a sette pa
 
 Se è stato nominato un rappresentante comune, tale fatto deve essere indicato nella richiesta.
 
-4.9 *Designazione di Stati; titoli di protezione; brevetti nazionali e regi**o**nali*
+4.9 *Designazione di Stati; titoli di protezione; brevetti nazionali e regionali*
 
 - a)
 
@@ -232,7 +232,7 @@ La richiesta deve essere firmata dal depositante o, se vi sono più depositanti,
 - a) Se un nome o un indirizzo non sono scritti in caratteri latini, essi devono essere indicati anche in caratteri latini, sia mediante traslitterazione, sia mediante traduzione in lingua inglese. Spetta al depositante decidere quali parole debbano essere semplicemente traslitterate e quali debbano essere tradotte.
 - b) Se il nome di un Paese non è scritto in caratteri latini, esso deve essere indicato anche in lingua inglese.
 
-4.17 *Dichiarazioni relative ad esigenze nazionali di cui alla reg**o**la 51**<sup>bis</sup>**.1.a)i) a v)*
+4.17 *Dichiarazioni relative ad esigenze nazionali di cui alla regola 51**<sup>bis</sup>**.1.a)i) a v)*
 
 Ai fini della legislazione nazionale applicabile in uno o più Stati designati, la richiesta può contenere una o più dichiarazioni, elencate qui appresso, formulate secondo le prescrizioni delle istruzioni amministrative:
 
@@ -252,7 +252,7 @@ Allorquando la domanda internazionale, alla data in cui uno o più elementi cita
 - b) Se la richiesta contiene indicazioni diverse da quelle elencate nelle regole 4.1 a 4.18, oppure tollerate dalle direttive amministrative in virtù del paragrafo a), l’Ufficio ricevente cancella d’ufficio queste indicazioni supplementari.
 
 [^partB-lvlu2-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT l’11 ott. 2017, in vigore dal 1° lug. 2018 ([RU 2018 3155](https://fedlex.data.admin.ch/eli/oc/2018/505)). Si applica a tutte le domande internazionali, la cui data di deposito cade il 1° lug. 2018 o posteriore a questa data.
-[^partB-lvlu2-2]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/resincomp.html
+[^partB-lvlu2-2]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partB-lvlu2-3]: Abrogata dalla mod. adottata dall’Assemblea del PCT l’11 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2017 3527](https://fedlex.data.admin.ch/eli/oc/2017/386)).
 [^partB-lvlu2-4]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2013 823](https://fedlex.data.admin.ch/eli/oc/2013/171)).
 [^partB-lvlu2-5]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
@@ -604,7 +604,7 @@ La domanda internazionale può concernere una sola invenzione oppure più invenz
 
 Allorché un certo numero di invenzioni è rivendicato nella stessa domanda internazionale, il requisito di unità di cui alla regola 13.1 è soddisfatto soltanto se tra queste invenzioni esiste un nesso tecnico che verte su uno o più elementi tecnici particolari identici o corrispondenti. L’espressione «elementi tecnici particolari» indica quegli elementi tecnici che costituiscono un contributo ad ognuna delle invenzioni rivendicate, considerato come un tutto, rispetto alle conoscenze tecniche in materia.
 
-13.3 *Modalità di redazione delle rivendicazioni senza incidere sul giud**i**zio circa l’unità dell’invenzione*
+13.3 *Modalità di redazione delle rivendicazioni senza incidere sul giudizio circa l’unità dell’invenzione*
 
 Al fine di determinare se un insieme di invenzioni sono legate tra loro in modo da costituire un solo concetto inventivo generale, è indifferente che le invenzioni siano oggetto di rivendicazioni distinte o siano presentate come varianti nell’ambito di un’unica e medesima rivendicazione.
 
@@ -626,7 +626,7 @@ Ai fini della presente regola, devono intendersi per «riferimento a materiale b
 
 Qualsiasi riferimento a materiale biologico depositato deve essere fatto in conformità alla presente regola e, se così viene fatto, si ritiene che esso soddisfi le prescrizioni della legislazione nazionale di ogni Stato designato**.**
 
-13<sup>bis</sup>.3 *Riferimenti: contenuto; omissione del rif**e**rimento o dell’indicazione*
+13<sup>bis</sup>.3 *Riferimenti: contenuto; omissione del riferimento o dell’indicazione*
 
 - a)
 
@@ -654,7 +654,7 @@ Qualsiasi riferimento a materiale biologico depositato deve essere fatto in conf
   - i) se l’indicazione è pervenuta prima del completamento della preparazione tecnica della pubblicazione internazionale, l’Ufficio internazionale pubblica tale data presentata ai sensi del paragrafo a) e un’indicazione della data di ricevimento, unitamente alla domanda internazionale;
   - ii) se l’indicazione è pervenuta dopo il completamento della preparazione tecnica della pubblicazione internazionale, l’Ufficio internazionale notifica agli Uffici designati tale data ed i dati pertinenti tratti dall’indicazione.
 
-13<sup>bis</sup>.5 *Riferimenti e indicazioni ai fini di uno o più Stati designati; depositi diversi per Stati designati diversi; depositi presso istituzioni di deposito non notif**i**cate*
+13<sup>bis</sup>.5 *Riferimenti e indicazioni ai fini di uno o più Stati designati; depositi diversi per Stati designati diversi; depositi presso istituzioni di deposito non notificate*
 
 - a) Il riferimento a materiale biologico depositato è considerato fatto ai fini di tutti gli Stati designati, a meno che esso sia esplicitamente fatto soltanto ai fini di taluni Stati designati*;* ciò vale anche per le indicazioni date nel riferimento.
 - b) Si può fare riferimento a depositi diversi di materiale biologico per Stati designati diversi.
@@ -686,7 +686,7 @@ In conformità agli articoli 23 e 40, salvo previa autorizzazione del depositant
 - e) Qualsiasi elenco di sequenze non contenuto nella domanda internazionale quale è stata depositata, che sia presentata in risposta a un invito in virtù del paragrafo a) o altrimenti, non forma parte della domanda internazionale, ma questo paragrafo non deve impedire al depositante di correggere la descrizione riguardante un elenco di sequenze in conformità con l’articolo 34.2)b).
 - f) *[Soppressa]*
 
-13<sup>ter</sup>.2 *Procedura presso l’Amministrazione incaricata dell’esame prelim**i**nare internazionale*
+13<sup>ter</sup>.2 *Procedura presso l’Amministrazione incaricata dell’esame preliminare internazionale*
 
 La regola 13<sup>ter</sup>.1 si applica *mutatis mutandis* alla procedura presso l’Amministrazione incaricata dell’esame preliminare internazionale.
 
@@ -804,7 +804,7 @@ Quando l’Amministrazione incaricata della ricerca internazionale prende in con
 
 ### **Regola 17**Documento di priorità
 
-17.1 *Obbligo di presentare copia di una domanda nazionale o intern**a**zionale precedente*
+17.1 *Obbligo di presentare copia di una domanda nazionale o internazionale precedente*
 
 - a) Se la priorità di una domanda nazionale o internazionale precedente è rivendicata in virtù dell’articolo 8, una copia di tale domanda precedente, certificata conforme dall’Amministrazione presso la quale è stata depositata («documento di priorità»), deve, a meno che tale documento di priorità non sia già stato depositato presso l’Ufficio ricevente unitamente alla domanda internazionale in cui viene rivendicata la priorità, e fatti salvi i paragrafi b) e b<sup>bis</sup>), essere presentata dal depositante all’Ufficio internazionale o all’Ufficio ricevente al più tardi entro sedici mesi a decorrere dalla data di priorità*;* tuttavia, qualsiasi copia di tale domanda precedente che pervenga all’Ufficio internazionale dopo la scadenza di detto termine è considerata come ricevuta da tale Ufficio l’ultimo giorno di detto termine, se essa gli perviene prima della data di pubblicazione internazionale della domanda internazionale.
 - b) Se il documento di priorità è rilasciato dall’Ufficio ricevente, il depositante può, invece di presentare questo documento, domandare all’Ufficio ricevente di redigerlo e di trasmetterlo all’Ufficio internazionale. La richiesta a tale fine deve essere avanzata al più tardi entro sedici mesi a decorrere dalla data di priorità e può essere assoggettata, da parte dell’Ufficio ricevente, al pagamento di una tassa.
@@ -842,7 +842,7 @@ Quando l’Amministrazione incaricata della ricerca internazionale prende in con
 
 Se vi sono più depositanti, il diritto di depositare una domanda internazionale esiste purché almeno uno di essi sia abilitato a depositare una domanda internazionale in conformità all’articolo 9.
 
-18.4 *Informazioni sulle condizioni previste dalle legislazioni nazionali nei confronti dei deposita**n**ti*
+18.4 *Informazioni sulle condizioni previste dalle legislazioni nazionali nei confronti dei depositanti*
 
 - [tab] a) e b) *[Soppresse]*
 - c) L’Ufficio internazionale pubblica, di quando in quando, informazioni relative alle diverse legislazioni nazionali, precisando chi, ai sensi di queste legislazioni, ha veste (inventore, avente causa dell’inventore, titolare dell’invenzione, ecc.) per depositare una domanda nazionale*:* esso completa queste informazioni avvertendo che gli effetti della domanda internazionale in uno Stato designato possono dipendere dal fatto di sapere se la persona indicata nella domanda internazionale quale depositante per questo Stato è abilitata, secondo la legislazione di questo Stato, a depositare una domanda nazionale.
@@ -986,11 +986,11 @@ Se l’Ufficio ricevente non riceve, entro i termini di scadenza quali risultano
 - a) Se, il 5 ottobre 2005, una qualsiasi delle regole 20.3.a)ii) e b)ii), 20.5.a)ii) e d), e 20.6 non risulta compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, le regole di cui sopra non si applicano ad una domanda internazionale depositata presso tale Ufficio ricevente per il periodo in cui continuano a non essere compatibili con tale legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 5 aprile 2006. Le informazioni ricevute devono essere sollecitamente pubblicate nella gazzetta a cura dell’Ufficio internazionale.[^partB-lvlu22-9]
 - [tab] a<sup>bis</sup>)[^partB-lvlu22-10] Se, il 9 ottobre 2019, una qualsiasi delle regole 20.5<sup>bis</sup>.a)ii) e d) non risulta compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, le regole di cui sopra non si applicano a una domanda internazionale depositata presso tale Ufficio ricevente per il periodo in cui continuano a non essere compatibili con tale legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 9 aprile 2020. L’Ufficio internazionale provvede senza indugio a pubblicare tali informazioni nella gazzetta.
 - [tab] a<sup>ter</sup>)[^partB-lvlu22-11] Quando un elemento o una parte non può essere annesso per riferimento nella domanda internazionale ai sensi delle regole 4.18 e 20.6 a causa dell’azione del paragrafo a) oppure del paragrafo a<sup>bis</sup>) della presente regola, l’Ufficio ricevente procede come previsto alla regola 20.3.b)i), 20.5.b), 20.5.c), 20.5<sup>bis</sup>.b) oppure 20.5<sup>bis</sup>.c), a seconda del caso. Quando l’Ufficio ricevente procede come previsto alla regola 20.5.c) oppure 20.5<sup>bis</sup>.c), il depositante può procedere come previsto alla regola 20.5.e) oppure 20.5<sup>bis</sup>.e), a seconda del caso.
-- b) Se, il 5 ottobre 2005, una qualsiasi delle regole 20.3.a)ii) e b)ii), 20.5.a)ii) e d), e 20.6 non risultano compatibili con la legge nazionale applicata dall’Ufficio designato, tali regole non devono essere applicate nei confronti di tale Ufficio per quanto riguarda una domanda internazionale nei cui confronti le procedure di cui all’articolo 22 sono state effettuate presso tale Ufficio per tutto il periodo in cui continuano a risultare non compatibili con tale legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 5 aprile 2006. Le informazioni ricevute devono essere sollecitamente pubblicate nella gazzetta a cura dell’Ufficio internazionale.<sup>34</sup>
+- b) Se, il 5 ottobre 2005, una qualsiasi delle regole 20.3.a)ii) e b)ii), 20.5.a)ii) e d), e 20.6 non risultano compatibili con la legge nazionale applicata dall’Ufficio designato, tali regole non devono essere applicate nei confronti di tale Ufficio per quanto riguarda una domanda internazionale nei cui confronti le procedure di cui all’articolo 22 sono state effettuate presso tale Ufficio per tutto il periodo in cui continuano a risultare non compatibili con tale legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 5 aprile 2006. Le informazioni ricevute devono essere sollecitamente pubblicate nella gazzetta a cura dell’Ufficio internazionale.<sup>35</sup>
 - [tab] b<sup>bis</sup>)[^partB-lvlu22-12] Se, il 9 ottobre 2019, una qualsiasi delle regole 20.5<sup>bis</sup>.a)ii) e d) non risulta compatibile con la legislazione nazionale applicata dall’Ufficio designato, tali regole non si applicano nei confronti di tale Ufficio per quanto riguarda una domanda internazionale nei cui confronti le procedure di cui all’articolo 22 sono state effettuate presso tale Ufficio per tutto il periodo in cui continuano a risultare non compatibili con tale legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 9 aprile 2020. L’Ufficio internazionale provvede senza indugio a pubblicare tali informazioni nella gazzetta.
 - c)[^partB-lvlu22-13] Quando si considera che un elemento o una parte sono stati annessi per riferimento nella domanda internazionale in virtù di un accertamento dell’Ufficio ricevente ai sensi della regola 20.6.b), ma quando tale annessione per riferimento non si applica alla domanda internazionale ai fini della procedura presso un Ufficio designato a causa dell’azione del paragrafo b) o del paragrafo b<sup>bis</sup>) della presente regola, l’Ufficio designato può trattare questa domanda come se la data del deposito internazionale sia stata concessa ai sensi della regola 20.3.b)i), 20.5.b) oppure 20.5<sup>bis</sup>.b), o corretta ai sensi della regola 20.5.c) oppure 20.5<sup>bis</sup>.c), a seconda del caso, a condizione che la regola 82<sup>ter</sup>.1.c) e d) venga applicata *mutatis mutandis*.
 
-[^partB-lvlu22-1]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/en/texts/reservations/res\_incomp.html
+[^partB-lvlu22-1]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partB-lvlu22-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu22-3]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu22-4]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
@@ -998,7 +998,7 @@ Se l’Ufficio ricevente non riceve, entro i termini di scadenza quali risultano
 [^partB-lvlu22-6]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu22-7]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 5 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
 [^partB-lvlu22-8]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)).
-[^partB-lvlu22-9]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu22-9]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partB-lvlu22-10]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu22-11]: Introdotta dalla la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu22-12]: Introdotta dalla la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
@@ -1082,7 +1082,7 @@ I termini di scadenza di cui all’articolo 12.3) è di tre mesi a decorrere dal
 
 24.1 *[Soppresso]*
 
-24.2 *Notifica del ricevimento dell’esemplare orig**i**nale*
+24.2 *Notifica del ricevimento dell’esemplare originale*
 
 - a)
 
@@ -1116,40 +1116,48 @@ Il termine di cui alla regola 26.1 deve essere di due mesi a partire dalla data 
 
 - a) Ai sensi dell’articolo 14.1)a)i), nel caso di più depositanti, è sufficiente che la richiesta sia firmata da uno di loro.
 - b) Ai sensi dell’articolo 14.1)a)ii), nel caso di più depositanti, è sufficiente che le indicazioni richieste in virtù della regola 4.5.a)ii) e iii) siano fornite nei confronti di uno di coloro che, conformemente alla regola 19.1, è abilitato a depositare la domanda internazionale presso l’Ufficio ricevente.
-
-26.3 *Controllo dei requisiti formali ai sensi dell’articolo 14.1)a)v)*
-
+- 26\.3[^partB-lvlu29-1] *Controllo dei requisiti formali ai sensi dell’articolo 14.1)a)v)*
 - a)
 
   Allorché la domanda internazionale è depositata in una lingua di pubblicazione, l’Ufficio ricevente controlla:
 
   - i) la conformità della domanda internazionale per ciò che riguarda i requisiti formali citati alla regola 11 soltanto nei limiti in cui tali requisiti devono essere osservati per una ragionevole uniformità della pubblicazione internazionale;
-  - ii) la conformità di qualsiasi traduzione presentata in virtù della regola 12.3 secondo i requisiti formali citati alla regola 11 nei limiti in cui tali requisiti devono essere osservati ai fini di una riproduzione soddisfacente.
+  - ii) la conformità di qualsiasi traduzione presentata in virtù della regola 12.3 o 26.3<sup>ter</sup> secondo i requisiti formali citati alla regola 11 nei limiti in cui tali requisiti devono essere osservati ai fini di una riproduzione soddisfacente.
 
 - b)
 
   Allorché la domanda internazionale è depositata in una lingua diversa dalla lingua di pubblicazione, l’Ufficio ricevente controlla:
 
   - i) la conformità della domanda internazionale per ciò che riguarda i requisiti formali citati alla regola 11 soltanto nei limiti in cui tali requisiti devono essere osservati ai fini di una riproduzione soddisfacente;
-  - ii) la conformità di qualsiasi traduzione trasmessa in virtù della regola 12.3 oppure 12.4, nonché la conformità dei disegni per ciò che riguarda i requisiti formali citati nella regola 11 nei limiti in cui tali requisiti devono essere osservati ai fini di una ragionevole uniformità della pubblicazione internazionale.
+  - ii) la conformità di qualsiasi traduzione trasmessa in virtù della regola 12.3, 12.4 o 26.3<sup>ter</sup> nonché la conformità dei disegni per ciò che riguarda i requisiti formali citati nella regola 11 nei limiti in cui tali requisiti devono essere osservati ai fini di una ragionevole uniformità della pubblicazione internazionale.
 
 26.3<sup>bis</sup> *Invito secondo l’articolo 14.1)b) a correggere delle irregolarità ai sensi della regola 11*
 
 L’Ufficio ricevente non è tenuto ad inviare l’invito secondo l’articolo 14.1)b) onde correggere un’irregolarità di cui alla regola 11 se i requisiti formali citati in detta regola sono osservati nei limiti richiesti in virtù della regola 26.3.
 
-26.3<sup>ter</sup> *Invito a correggere delle irregolarità seco**n**do l’articolo 3.4)i)*
+26.3<sup>ter</sup> *Invito a correggere delle irregolarità secondo l’articolo 3.4)i)*
 
-- a)
+- a)[^partB-lvlu29-2]
 
-  Allorché l’estratto o qualsiasi testo che figura nei disegni è depositato in una lingua diversa da quella della descrizione e delle rivendicazioni, l’Ufficio ricevente, eccetto nel caso in cui:
+  Allorché l’estratto o qualsiasi testo che figura nei disegni è depositato in una lingua diversa da quella della descrizione e delle rivendicazioni, fatto salvo quanto disposto dalle regole 12.1<sup>bis</sup> e 26.3<sup>ter</sup>.e), l’Ufficio ricevente, eccetto nel caso in cui:
 
   - i) una traduzione della domanda internazionale sia richiesta in virtù della regola 12.3.a); oppure
-  - ii) l’estratto o il testo che figura nei disegni sia redatto nella lingua in cui la domanda internazionale deve essere pubblicata, invita il depositante a consegnare una traduzione dell’estratto o del testo che figura nei disegni, nella lingua in cui la domanda internazionale deve essere pubblicata.
+  - ii) l’estratto o il testo che figura nei disegni sia redatto nella lingua in cui la domanda internazionale deve essere pubblicata,
 
-- Le regole 26.1.a), 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 e 29.1 si applicano *mutatis muta**n**dis*.
-- b) Se, il primo ottobre 1997, il paragrafo a) non è compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, questo paragrafo non si applica a codesto Ufficio ricevente fintantoché esso risulti incompatibile con la suddetta legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1997. Quest’ultimo pubblica senza indugio nella gazzetta le informazioni ricevute.[^partB-lvlu29-1]
+- invita il depositante a consegnare una traduzione dell’estratto o del testo che figura nei disegni, nella lingua in cui la domanda internazionale deve essere pubblicata.
+- Le regole 26.1, 26.2, 26.3, 26.3<sup>bis</sup>, 26.5 e 29.1 si applicano *mutatis mutandis*.
+- b) Se, il primo ottobre 1997, il paragrafo a) non è compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, questo paragrafo non si applica a codesto Ufficio ricevente fintantoché esso risulti incompatibile con la suddetta legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1997. Quest’ultimo pubblica senza indugio nella gazzetta le informazioni ricevute.[^partB-lvlu29-3]
 - c) Allorché la richiesta non è conforme alla regola 12.1.c), l’Ufficio ricevente invita il depositante a depositare una traduzione tale da soddisfare i requisiti esposti in detta regola. Le regole 3, 26.1, 26.2, 26.5 e 29.1 si applicano *mutatis mutandis*.
 - d) Se, alla data del 1° ottobre 1997, il paragrafo c) non è compatibile con la legislazione nazionale applicata dall’Ufficio ricevente, tale paragrafo non si applica all’Ufficio ricevente fintantoché esso risulta incompatibile con la suddetta legislazione, a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1997. Quest’ultimo pubblica senza indugio nella gazzetta le informazioni ricevute.
+- e)[^partB-lvlu29-4]
+
+  Allorché la descrizione della domanda internazionale è depositata in una lingua diversa da quella delle rivendicazioni, o parti della descrizione o parti delle rivendicazioni sono depositate in una lingua diversa dalla lingua del resto di questo elemento, e allorché dette lingue sono accettate dall’Ufficio ricevente ai sensi della regola 12.1.a), l’Ufficio ricevente, ove sia opportuno, invita il depositante a presentare, entro un mese dalla data di ricevimento della domanda internazionale da parte dell’Ufficio ricevente, una traduzione della descrizione o delle rivendicazioni, o di qualsiasi parte di esse, in modo tale che la descrizione e le rivendicazioni siano redatte in un’unica lingua che soddisfi i seguenti requisiti:
+
+  - i) una delle lingue della descrizione o delle rivendicazioni così come depositate;
+  - ii) una lingua accettata dall’Amministrazione incaricata della ricerca internazionale per effettuare la ricerca internazionale; e
+  - iii) la lingua in cui la domanda internazionale deve essere pubblicata.
+
+La regola 12.3.c)–e) si applica *mutatis mutandis*.
 
 26.4 *Procedura*
 
@@ -1161,7 +1169,10 @@ L’Ufficio ricevente decide se il depositante ha presentato la correzione entro
 
 26.6 *[Soppresso]*
 
-[^partB-lvlu29-1]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu29-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
+[^partB-lvlu29-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
+[^partB-lvlu29-3]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
+[^partB-lvlu29-4]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
 
 ### **Regola 26**<sup>bis</sup>Correzione o aggiunta di rivendicazioni di priorità
 
@@ -1242,7 +1253,7 @@ L’Ufficio ricevente decide se il depositante ha presentato la correzione entro
 [^partB-lvlu30-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 ott. 2015, in vigore dal 1° lug. 2016 ([RU 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^partB-lvlu30-3]: Introdotto dalla mod. adottata dall’Assemblea del PCT il 14 ott. 2015, in vigore dal 1° lug. 2016 ([RU 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
 [^partB-lvlu30-4]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 14 ott. 2015, in vigore dal 1° lug. 2016 ([RU 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)).
-[^partB-lvlu30-5]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu30-5]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 
 ### **Regola 26**<sup>ter</sup>Correzione o aggiunta di dichiarazioni secondo la regola 4.17
 
@@ -1285,15 +1296,15 @@ Se la correzione o l’aggiunta di un’indicazione menzionata nella regola 4.11
 
 ### **Regola 29**Domande internazionali considerate come ritirate
 
-29.1 *Accertamenti dell’Ufficio ricevente*
+- 29\.1[^partB-lvlu35-1] *Accertamenti dell’Ufficio ricevente*
 
-Se l’Ufficio ricevente dichiara, in conformità all’articolo 14.1)b) e alla regola 26.5 (mancata rettifica di talune irregolarità), o in conformità all’articolo 14.3)a) (mancato pagamento delle tasse prescritte alla regola 27.1.a)), o secondo l’articolo 14.4) (accertamento successivo circa il fatto che i requisiti elencati ai punti i) a iii) dell’articolo 11.1) non sono soddisfatti), oppure in conformità alla regola 12.3.d) o 12.4.d) (mancata presentazione di una traduzione richiesta o, all’occorrenza, mancato pagamento di tassa di mora) o in conformità alla regola 92.4.g)i) (mancata presentazione dell’originale di un documento), che la domanda internazionale è considerata come ritirata:
+Se l’Ufficio ricevente dichiara, in conformità all’articolo 14.1)b) e alla regola 26.5 (mancata rettifica di talune irregolarità), o in conformità all’articolo 14.3)a) (mancato pagamento delle tasse prescritte alla regola 27.1.a)), o secondo l’articolo 14.4) (accertamento successivo circa il fatto che i requisiti elencati ai punti i)–iii) dell’articolo 11.1) non sono soddisfatti), oppure in conformità alla regola 12.3.d), 12.4.d) o 26.3<sup>ter</sup> (mancata presentazione di una traduzione richiesta o, all’occorrenza, mancato pagamento di tassa di mora) o in conformità alla regola 92.4.g)i) (mancata presentazione dell’originale di un documento), che la domanda internazionale è considerata come ritirata:
 
 - i) detto Ufficio trasmette all’Ufficio internazionale l’esemplare originale (sempreché ciò non sia già avvenuto) e tutte le correzioni presentate dal depositante;
 - ii) detto Ufficio notifica senza indugio questa dichiarazione al depositante e all’Ufficio internazionale, il quale la notifica a sua volta ad ogni Ufficio designato che ha già ricevuto notifica della sua designazione;
 - iii) detto Ufficio non trasmette la copia di ricerca nel modo prescritto dalla regola 23 o, se la trasmissione è già avvenuta, notifica questa dichiarazione all’Amministrazione incaricata della ricerca internazionale;
 - iv) l’Ufficio internazionale non è tenuto a notificare al depositante il ricevimento dell’esemplare originale;
-- v) nessuna pubblicazione internazionale della domanda internazionale deve essere effettuata se la notifica di tale dichiarazione trasmessa dall’Ufficio ricevente perviene all’Ufficio internazionale prima che sia stata completata la preparazione tecnica per la pubblicazione internazionale.
+  - v) nessuna pubblicazione internazionale della domanda internazionale deve essere effettuata se la notifica di tale dichiarazione trasmessa dall’Ufficio ricevente perviene all’Ufficio internazionale prima che sia stata completata la preparazione tecnica per la pubblicazione internazionale.
 
 29.2 *[Soppresso]*
 
@@ -1306,6 +1317,8 @@ L’Ufficio internazionale o l’Amministrazione incaricata della ricerca intern
 - a) Prima di effettuare una dichiarazione secondo l’articolo 14.4), l’Ufficio ricevente notifica al depositante la sua intenzione e i relativi motivi. Il depositante può, qualora non consideri giustificato l’accertamento provvisorio dell’Ufficio ricevente, presentare le sue obiezioni entro due mesi a decorrere dalla data della notifica.
 - b) Quando l’Ufficio ricevente intende effettuare una dichiarazione ai sensi dell’articolo 14.4) riguardante un elemento di cui all’articolo 11.1)iii)d) oppure e), l’Ufficio ricevente, nella notifica ai sensi del paragrafo a) di questa regola, deve invitare il depositante a confermare, in conformità alla regola 20.6.a) che l’elemento è annesso per riferimento ai sensi della regola 4.18. Ai fini della regola 20.7.a)i), l’invito inviato al depositante secondo questo paragrafo deve essere considerato un invito ai sensi della regola 20.3.a)ii).
 - c) Il paragrafo b) non si applica allorquando l’Ufficio ricevente ha informato l’Ufficio internazionale in conformità alla regola 20.8.a) dell’incompatibilità delle regole 20.3.a)ii) e b)ii) e 20.6 con la legislazione nazionale applicata da tale Ufficio.
+
+[^partB-lvlu35-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva.
 
 ### **Regola 30**Termini di scadenza secondo l’articolo 14.4)
 
@@ -1393,7 +1406,7 @@ L’Ufficio internazionale è responsabile della preparazione delle copie di cui
 
 ### **Regola 35**Amministrazione competente incaricata della ricerca internazionale
 
-35.1 *Quando una sola Amministrazione incaricata della ricerca intern**a**zionale è competente*
+35.1 *Quando una sola Amministrazione incaricata della ricerca internazionale è competente*
 
 Ogni Ufficio ricevente indica all’Ufficio internazionale, conformemente ai termini dell’accordo applicabile citato nell’articolo 16.3)b), l’Amministrazione incaricata della ricerca internazionale competente a eseguire la ricerca per le domande internazionali depositate presso detto Ufficio*;* l’Ufficio internazionale pubblica sollecitamente questa informazione.
 
@@ -1408,7 +1421,7 @@ Ogni Ufficio ricevente indica all’Ufficio internazionale, conformemente ai ter
 
 - b) Ogni Ufficio ricevente che si avvale della facoltà indicata nel paragrafo a) ne informa sollecitamente l’Ufficio internazionale, il quale pubblica senza indugio tali informazioni.
 
-35.3 *Quando l’Ufficio internazionale è Ufficio ricevente in virtù della reg**o**la 19.1.a)iii)*
+35.3 *Quando l’Ufficio internazionale è Ufficio ricevente in virtù della regola 19.1.a)iii)*
 
 - a) Quando la domanda internazionale è stata depositata presso l’Ufficio internazionale che agisce in quanto Ufficio ricevente in virtù della regola 19.1.a)iii), un’Amministrazione incaricata della ricerca internazionale è competente per procedere alla ricerca internazionale per tale domanda internazionale se lo fosse stata nel caso in cui la domanda internazionale fosse stata depositata presso un Ufficio ricevente competente in virtù della regola 19.1.a)i) o ii), b) o c) o della regola 19.2.i).
 - b) Se più Amministrazioni incaricate della ricerca internazionale sono competenti in virtù del paragrafo a), la scelta appartiene al depositante.
@@ -1526,7 +1539,7 @@ Quando il depositante, ai sensi della regola 4.12, ha richiesto all’Amministra
 
 ### **Regola 42**Termine per la ricerca internazionale
 
-42.1 *Termini di scadenza per la ricerca internazi**o**nale*
+42.1 *Termini di scadenza per la ricerca internazionale*
 
 I termini di scadenza per la redazione del rapporto di ricerca internazionale o della dichiarazione citata nell’articolo 17.2)a) sono di tre mesi a decorrere dal ricevimento della copia di ricerca da parte dell’Amministrazione incaricata della ricerca internazionale o di nove mesi a decorrere dalla data di priorità, applicandosi i termini che scadono per ultimi.
 
@@ -1560,13 +1573,13 @@ Ogni rapporto di ricerca internazionale e ogni dichiarazione effettuati secondo 
 - d) Le citazioni che non sono pertinenti a tutte le rivendicazioni sono indicate soltanto in relazione alla o alle rivendicazioni che esse concernono.
 - e) Se soltanto taluni brani del documento citato sono pertinenti o particolarmente pertinenti, essi sono segnalati ad esempio mediante indicazione della pagina, della colonna o delle righe che contengono il brano considerato. Se l’insieme del documento è pertinente ma taluni brani lo sono in modo particolare, questi brani vengono segnalati, tranne se ciò non è fattibile.
 
-43.6 *Rami della tecnica ai quali è stata estesa la r**i**cerca*
+43.6 *Rami della tecnica ai quali è stata estesa la ricerca*
 
 - a) Il rapporto di ricerca internazionale indica mediante i simboli di classificazione i rami della tecnica ai quali è stata estesa la ricerca. Se questa indicazione è fatta sulla base di una classificazione diversa dalla Classificazione internazionale dei brevetti, l’Amministrazione incaricata della ricerca internazionale pubblica la classificazione utilizzata.
 - b) Se la ricerca internazionale si è estesa a brevetti, certificati di autore d’invenzione, certificati di utilità, modelli di utilità, brevetti o certificati completivi, certificati di autore d’invenzione completivi, certificati di utilità completivi o domande pubblicate per uno dei titoli di protezione succitati, relativi a Stati, epoche o lingue che non sono compresi nella documentazione minima definita nella regola 34, il rapporto di ricerca internazionale identifica, se ciò è possibile, i tipi di documenti, gli Stati, le epoche e le lingue ai quali la ricerca si è estesa. Ai fini del presente paragrafo, non si applica l’articolo 2.ii).
 - c) Se la ricerca internazionale è stata realizzata o completata mediante una base dati elettronica, il rapporto di ricerca internazionale può indicare il nome della base dati e, qualora venga considerato utile per i terzi e realizzabile, i termini di ricerca utilizzati.
 
-43.6<sup>bis</sup> *Considerazione di rettifiche di errori manif**e**sti*
+43.6<sup>bis</sup> *Considerazione di rettifiche di errori manifesti*
 
 - a) Una rettifica di un errore manifesto, autorizzata ai sensi della regola 91.1, deve essere presa in considerazione dall’Amministrazione incaricata della ricerca internazionale, ai sensi del paragrafo b), ai fini della ricerca internazionale ed il rapporto di ricerca internazionale deve indicare questo fatto.
 - b) Non è necessario che una rettifica di un errore manifesto sia presa in considerazione dall’Amministrazione della ricerca internazionale ai fini della ricerca internazionale se la rettifica è autorizzata da tale Amministrazione o a questa notificata, a seconda del caso, dopo che tale Amministrazione ha iniziato a redigere il rapporto di ricerca internazionale, nel qual caso il rapporto deve indicare questo fatto, se possibile*;* se ciò non si verificasse, l’Amministrazione incaricata della ricerca internazionale ne deve notificare l’Ufficio internazionale e l’Ufficio internazionale deve procedere come previsto dalle direttive amministrative.
@@ -1682,7 +1695,7 @@ I rapporti di ricerca internazionale e le dichiarazioni di cui all’articolo 17
   - i) se la richiesta perviene dopo la scadenza di cui al paragrafo a); oppure
   - ii) se l’Amministrazione incaricata della ricerca supplementare non ha certificato, nell’accordo applicabile secondo l’articolo 16.3)b), la propria preparazione ad eseguire tali ricerche oppure non ne ha la competenza ai sensi della regola 45<sup>bis</sup>.9.b).
 
-45<sup>bis</sup>.2 *Tassa di trattamento per una ricerca su**p**plementare*
+45<sup>bis</sup>.2 *Tassa di trattamento per una ricerca supplementare*
 
 - a) La tassa di trattamento per una ricerca supplementare deve essere sottoposta al pagamento di una tassa a favore dell’Ufficio internazionale («tassa di trattamento per una ricerca supplementare») come previsto nella tabella delle tasse.
 - b) La tassa di trattamento per una ricerca supplementare deve essere pagata nella valuta prevista nella tabella delle tasse oppure in qualsiasi altra valuta indicata dall’Ufficio internazionale. L’ammontare in tale valuta diversa deve equivalere, in cifra tonda, come stabilito dall’Ufficio internazionale, all’ammontare previsto nella tabella delle tasse, e deve essere pubblicata nella gazzetta.
@@ -1692,7 +1705,7 @@ I rapporti di ricerca internazionale e le dichiarazioni di cui all’articolo 17
 45<sup>bis</sup>.3 *Tassa per una ricerca supplementare*
 
 - a) Ogni Amministrazione incaricata della ricerca internazionale la quale effettua delle ricerche internazionali supplementari ha facoltà di chiedere al depositante il pagamento di una tassa («tassa per ricerca supplementare») a proprio favore per tale ricerca.
-- b) La tassa per una ricerca supplementare deve essere percepita dall’Ufficio internazionale. Le regole 16.1.b) a e) devono applicarsi *mutatis m**u**tandis*.
+- b) La tassa per una ricerca supplementare deve essere percepita dall’Ufficio internazionale. Le regole 16.1.b) a e) devono applicarsi *mutatis mutandis*.
 - c) Per quanto riguarda la scadenza del pagamento della tassa di ricerca supplementare e l’ammontare da pagarsi, devono applicarsi, *mutatis mutandis*, le disposizioni della regola 45<sup>bis</sup>.2.c).
 - d) L’Ufficio internazionale rimborsa al depositante la tassa di ricerca supplementare se, prima della trasmissione all’Amministrazione incaricata della ricerca supplementare dei documenti indicati nella regola 45<sup>bis</sup>.4.e)i) a iv), la domanda internazionale viene ritirata o viene considerata come ritirata oppure se la domanda di ricerca supplementare viene ritirata o è considerata non essere stata presentata ai sensi della regola 45<sup>bis</sup>.1.e) oppure 45<sup>bis</sup>.4.d).
 - e) Nei limiti ed alle condizioni previsti dall’accordo applicabile secondo l’articolo 16.3)b), l’Amministrazione incaricata della ricerca supplementare rimborsa la tassa di ricerca supplementare se, prima dell’inizio della ricerca internazionale supplementare in conformità alla regola 45<sup>bis</sup>.5.a), la domanda di ricerca supplementare viene considerata non essere stata presentata ai sensi della regola 45<sup>bis</sup>.5.g).
@@ -1722,7 +1735,7 @@ I rapporti di ricerca internazionale e le dichiarazioni di cui all’articolo 17
 
 - f) Dietro richiesta dell’Amministrazione specializzata nella ricerca supplementare, il parere scritto di cui al paragrafo e)v), qualora non sia redatto in inglese o in una lingua accettata da tale Amministrazione, deve essere tradotto in inglese dall’Ufficio internazionale o sotto la sua responsabilità. L’Ufficio internazionale deve trasmettere una copia di tale traduzione alla suddetta Amministrazione entro due mesi a decorrere dalla data di ricezione della richiesta di traduzione e deve, al contempo, trasmetterne una copia al depositante.
 
-45<sup>bis</sup>.5 *Inizio, base e oggetto della ricerca intern**a**zionale supplementare*
+45<sup>bis</sup>.5 *Inizio, base e oggetto della ricerca internazionale supplementare*
 
 - a) L’Amministrazione incaricata della ricerca supplementare deve iniziare la ricerca internazionale supplementare sollecitamente dopo ricezione dei documenti come specificati nella regola 45<sup>bis</sup>.4.e)i) a iv), a condizione che tale Amministrazione possa, a sua scelta, rinviare l’inizio della ricerca fintantoché non abbia anche ricevuto i documenti come indicati nella regola 45<sup>bis</sup>.4.e)v) oppure fino alla scadenza di 22 mesi a decorrere dalla data di priorità, qualunque di questi fatti si verifichi per primo.
 - b) La ricerca internazionale supplementare deve essere effettuata sulla base della domanda internazionale quale è stata depositata o sulla base di una traduzione ai sensi della regola 45<sup>bis</sup>.1.b)iii) oppure 45<sup>bis</sup>.1.c)i), prendendo nella dovuta considerazione il rapporto di ricerca internazionale ed il parere scritto previsto ai sensi della regola 43<sup>bis</sup>.1 quando sono consultabili dall’Amministrazione incaricata della ricerca supplementare prima che tale Amministrazione dia inizio alla ricerca. Quando la domanda di ricerca supplementare contiene un’indicazione secondo la regola 45<sup>bis</sup>.1.d), la ricerca internazionale supplementare può essere limitata all’invenzione indicata dal depositante ai sensi della regola 45<sup>bis</sup>.1.d) ed alle parti della domanda internazionale che si riferiscono a tale invenzione.
@@ -1753,7 +1766,7 @@ I rapporti di ricerca internazionale e le dichiarazioni di cui all’articolo 17
 - e) Dietro richiesta del depositante, il testo della richiesta di riesame come pure la decisione al riguardo devono essere comunicati agli Uffici designati unitamente al rapporto della ricerca internazionale supplementare. Il depositante deve sottoporre tutte le traduzioni riguardanti questi testi unitamente alla presentazione della traduzione della domanda internazionale richiesta ai sensi dell’articolo 22.
 - f) I paragrafi a) a e) sono applicabili *mutatis mutandis* nel caso in cui l’Amministrazione incaricata della ricerca supplementare decida di limitare la ricerca internazionale supplementare in conformità alla seconda frase della regola 45<sup>bis</sup>.5.h) oppure ai sensi della regola 45<sup>bis</sup>.5.h), a condizione che qualsiasi menzione nei suddetti paragrafi della «domanda internazionale» sia considerata come una menzione di quelle parti della domanda internazionale che si riferiscono all’invenzione indicata dal depositante ai sensi della regola 45<sup>bis</sup>.1.d) oppure alle rivendicazioni ed a quelle parti della domanda internazionale nei cui confronti l’Amministrazione effettua una ricerca internazionale supplementare, rispettivamente.
 
-45<sup>bis</sup>.7 *Rapporto della ricerca internazionale su**p**plementare*
+45<sup>bis</sup>.7 *Rapporto della ricerca internazionale supplementare*
 
 - a) L’Amministrazione incaricata della ricerca supplementare deve redigere, entro 28 mesi a decorrere dalla data di priorità, il rapporto della ricerca internazionale supplementare, oppure deve fare una dichiarazione ai sensi dell’articolo 17.2)a) quale risulta applicabile in virtù della regola 45<sup>bis</sup>.5.c) in cui si attesta che non sarà redatto alcun rapporto internazionale supplementare.
 - b) Qualsiasi rapporto di ricerca internazionale supplementare, qualsiasi dichiarazione di cui all’articolo 17.2)a) che risultino applicabili in virtù della regola 45<sup>bis</sup>.5.c) e qualunque dichiarazione ai sensi della regola 45<sup>bis</sup>.5.e) devono essere redatti in una lingua di pubblicazione.
@@ -1766,13 +1779,13 @@ I rapporti di ricerca internazionale e le dichiarazioni di cui all’articolo 17
   - i) nei confronti di citazioni di documenti considerati pertinenti;
   - ii) nei confronti dell’oggetto della ricerca internazionale supplementare.
 
-45<sup>bis</sup>.8 *Trasmissione ed effetto del rapporto di ricerca internazionale supplement**a**re*
+45<sup>bis</sup>.8 *Trasmissione ed effetto del rapporto di ricerca internazionale supplementare*
 
 - a) L’Amministrazione incaricata della ricerca supplementare deve trasmettere, nel medesimo giorno, una copia del rapporto di ricerca internazionale supplementare oppure, a seconda del caso, la dichiarazione indicante che non sarà redatto alcun rapporto di ricerca internazionale supplementare, all’Ufficio internazionale ed una copia al depositante.
 - b) Salvo il paragrafo c), l’articolo 20.1) e le regole 45.1, 47.1.d) e 70.7.a) devono applicarsi come se il rapporto di ricerca internazionale supplementare fosse parte del rapporto di ricerca internazionale.
 - c) Un rapporto di ricerca internazionale supplementare può non essere preso in considerazione dall’Amministrazione incaricata dell’esame preliminare internazionale ai fini di un parere scritto o del rapporto d’esame preliminare internazionale se questo rapporto perviene a tale Amministrazione dopo che essa ha iniziato a redigere tale parere o rapporto.
 
-45<sup>bis</sup>.9 *Amministrazioni incaricate della ricerca i**n**ternazionale competenti ad eseguire la rice**r**ca internazionale supplementare*
+45<sup>bis</sup>.9 *Amministrazioni incaricate della ricerca internazionale competenti ad eseguire la ricerca internazionale supplementare*
 
 - a) Un’Amministrazione incaricata della ricerca internazionale risulterà competente ad eseguire ricerche internazionali supplementari se la sua preparazione al riguardo è certificata nell’accordo applicabile ai sensi dell’articolo 16.3)b), fatte salve tutte le limitazioni e le condizioni esposte in tale accordo.
 - b) L’Amministrazione incaricata della ricerca internazionale che conduce la ricerca internazionale ai sensi dell’articolo 16.1) nei confronti di una domanda internazionale, non risulterà competente a condurre una ricerca internazionale supplementare nei confronti di tale domanda.
@@ -1843,12 +1856,12 @@ Le copie richieste per le comunicazioni sono preparate dall’Ufficio internazio
 - a) La domanda internazionale trasmessa secondo l’articolo 20 deve essere redatta nella sua lingua di pubblicazione.
 - b) Allorché la lingua di pubblicazione della domanda internazionale non è la lingua in cui la domanda è stata depositata, l’Ufficio internazionale fornisce a qualsiasi Ufficio designato, su richiesta di detto Ufficio, copia di questa domanda nella lingua in cui essa è stata depositata.
 
-47.4 *Richiesta esplicita secondo l’articolo 23.2) prima della pubblicazione intern**a**zionale*
+47.4 *Richiesta esplicita secondo l’articolo 23.2) prima della pubblicazione internazionale*
 
 Allorché il depositante invia ad un Ufficio designato una richiesta esplicita in virtù dell’articolo 23.2) prima della pubblicazione internazionale della domanda internazionale, l’Ufficio internazionale effettua senza indugio, su richiesta del depositante o dell’Ufficio designato, la comunicazione prevista nell’articolo 20 a tale Ufficio.
 
-[^partB-lvlu58-1]: *Nota dell’editore:* La regola 47.1.c) ed e) si deve applicare a tutte le domande internazionali la cui data di deposito internazionale cade il 1° gen. 2004 o in data successiva e in riferimento ad un Ufficio designato che ha effettuato la notifica ai sensi del paragrafo 2) delle decisioni dell’Assemblea esposte nell’allegato IV del documento PCT/A/30/7 (da cui consegue che la modifica della scadenza fissata nell’articolo 22.1) non era compatibile con la legislazione nazionale applicata da tale Ufficio il 3 ott. 2001) e che non ha ritirato tale notifica ai sensi del paragrafo 3) di quelle decisioni, come se il riferimento in ognuna di esse alla regola 47.1.c) ed e) fino a «28 mesi» fosse un riferimento a «19 mesi», con la conseguenza che, nei confronti di tale domanda, devono essere inviate, all’occorrenza, due notifiche ai sensi della regola 47.1.c). Le informazioni ricevute dall’Ufficio internazionale concernenti tale incompatibilità sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.htlm
-[^partB-lvlu58-2]: *Nota dell’editore:* La regola 47.1.c) ed e) si deve applicare a tutte le domande internazionali la cui data di deposito internazionale cade il 1° gen. 2004 o in data successiva e in riferimento ad un Ufficio designato che ha effettuato la notifica ai sensi del paragrafo 2) delle decisioni dell’Assemblea esposte nell’allegato IV del documento PCT/A/30/7 (da cui consegue che la modifica della scadenza fissata nell’articolo 22.1) non era compatibile con la legislazione nazionale applicata da tale Ufficio il 3 ott. 2001) e che non ha ritirato tale notifica ai sensi del paragrafo 3) di quelle decisioni, come se il riferimento in ognuna di esse alla regola 47.1.c) ed e) fino a «28 mesi» fosse un riferimento a «19 mesi», con la conseguenza che, nei confronti di tale domanda, devono essere inviate, all’occorrenza, due notifiche ai sensi della regola 47.1.c).Le informazioni ricevute dall’Ufficio internazionale concernenti tale incompatibilità sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.htlm
+[^partB-lvlu58-1]: *Nota dell’editore:* La regola 47.1.c) ed e) si deve applicare a tutte le domande internazionali la cui data di deposito internazionale cade il 1° gen. 2004 o in data successiva e in riferimento ad un Ufficio designato che ha effettuato la notifica ai sensi del paragrafo 2) delle decisioni dell’Assemblea esposte nell’allegato IV del documento PCT/A/30/7 (da cui consegue che la modifica della scadenza fissata nell’articolo 22.1) non era compatibile con la legislazione nazionale applicata da tale Ufficio il 3 ott. 2001) e che non ha ritirato tale notifica ai sensi del paragrafo 3) di quelle decisioni, come se il riferimento in ognuna di esse alla regola 47.1.c) ed e) fino a «28 mesi» fosse un riferimento a «19 mesi», con la conseguenza che, nei confronti di tale domanda, devono essere inviate, all’occorrenza, due notifiche ai sensi della regola 47.1.c). Le informazioni ricevute dall’Ufficio internazionale concernenti tale incompatibilità sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
+[^partB-lvlu58-2]: *Nota dell’editore:* La regola 47.1.c) ed e) si deve applicare a tutte le domande internazionali la cui data di deposito internazionale cade il 1° gen. 2004 o in data successiva e in riferimento ad un Ufficio designato che ha effettuato la notifica ai sensi del paragrafo 2) delle decisioni dell’Assemblea esposte nell’allegato IV del documento PCT/A/30/7 (da cui consegue che la modifica della scadenza fissata nell’articolo 22.1) non era compatibile con la legislazione nazionale applicata da tale Ufficio il 3 ott. 2001) e che non ha ritirato tale notifica ai sensi del paragrafo 3) di quelle decisioni, come se il riferimento in ognuna di esse alla regola 47.1.c) ed e) fino a «28 mesi» fosse un riferimento a «19 mesi», con la conseguenza che, nei confronti di tale domanda, devono essere inviate, all’occorrenza, due notifiche ai sensi della regola 47.1.c).Le informazioni ricevute dall’Ufficio internazionale concernenti tale incompatibilità sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 
 ### **Regola 48**Pubblicazione internazionale
 
@@ -1914,7 +1927,7 @@ La forma ed i mezzi tramite i quali sono pubblicate le domande internazionali so
 - b) Se la domanda internazionale non è stata depositata in una lingua di pubblicazione e se è stata fornita una traduzione in una lingua di pubblicazione in virtù della regola 12.3 o 12.4, la suddetta domanda è pubblicata nella lingua di tale traduzione.
 - c) Se la domanda internazionale è pubblicata in una lingua diversa dall’inglese, il rapporto di ricerca internazionale, nei limiti in cui è pubblicato conformemente alla regola 48.2.a)v), oppure la dichiarazione di cui all’articolo 17.2)a), il titolo dell’invenzione, nonché l’estratto e qualsiasi testo relativo alla figura o alle figure unite all’estratto, sono pubblicati in tale lingua ed in inglese. Le traduzioni, qualora non siano presentate dal depositante ai sensi della regola 12.3, devono essere preparate sotto la responsabilità dell’Ufficio internazionale.
 
-48.4 *Pubblicazione anticipata a richiesta del depos**i**tante*
+48.4 *Pubblicazione anticipata a richiesta del depositante*
 
 - a) Se il depositante richiede la pubblicazione secondo gli articoli 21.2)b) e 64.3)c)i) e se il rapporto di ricerca internazionale o la dichiarazione di cui all’articolo 17.2)a) non è ancora disponibile per la pubblicazione unitamente alla domanda internazionale, l’Ufficio internazionale percepisce una tassa speciale di pubblicazione, il cui importo è stabilito nelle direttive amministrative.
 - b) La pubblicazione secondo gli articoli 21.2)b) e 64.3)c)i) è effettuata dall’Ufficio internazionale senza indugio dopo la richiesta del depositante e, se una tassa è dovuta secondo il paragrafo a), dopo il ricevimento di questa tassa.
@@ -1991,7 +2004,7 @@ Nessun depositante è tenuto ad utilizzare un modulo nazionale quando compie gli
 - k) Qualora un titolo sia stato redatto dall’Amministrazione incaricata della ricerca internazionale in applicazione della regola 37.2, la traduzione deve contenere il titolo redatto da tale Amministrazione.
 - l) Se, alla data del 12 luglio 1991, il paragrafo c<sup>bis</sup>) o il paragrafo k) non è compatibile con la legislazione nazionale applicabile dall’Ufficio designato, esso non si applica a quest’ultimo fintantoché rimane incompatibile con la suddetta legislazione, a condizione che l’Ufficio in questione ne informi l’Ufficio internazionale entro e non oltre il 31 dicembre 1991. L’Ufficio internazionale pubblica sollecitamente nella gazzetta le informazioni ricevute.[^partB-lvlu60-4]
 
-49.6 *Ripristino dei diritti in seguito all’incapacità di attuare le proced**u**re previste dall’articolo 22*[^partB-lvlu60-5]
+49.6 *Ripristino dei diritti in seguito all’incapacità di attuare le procedure previste dall’articolo 22*[^partB-lvlu60-5]
 
 - a) Quando è venuto a cessare l’effetto della domanda internazionale in conformità dell’articolo 11.3) perché il depositante non ha ottemperato all’attuazione delle procedure previste dall’articolo 22 nei termini applicabili, l’Ufficio designato, dietro richiesta del depositante e fatti salvi i paragrafi b) a e) della presente regola, ripristina i diritti del depositante nei confronti di tale domanda internazionale se esso accerta che qualsiasi ritardo nel rispettare tale scadenza ha avuto luogo in modo non intenzionale malgrado l’osservanza dovuta, quale erarichiesta dalle circostanze.
 - b)
@@ -2016,9 +2029,9 @@ Nessun depositante è tenuto ad utilizzare un modulo nazionale quando compie gli
 [^partB-lvlu60-1]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 29 set. 2010, in vigore dal 1° lug. 2011 ([RU 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^partB-lvlu60-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 29 set. 2010, in vigore dal 1° lug. 2011 ([RU 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 [^partB-lvlu60-3]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT l’8 ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Si applica a tutte le domande internazionali depositate in quella data o in data successiva.
-[^partB-lvlu60-4]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
-[^partB-lvlu60-5]: *Nota dell’editore*: I paragrafi a) ad e) della regola 49.6 non si applicano a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, a condizione che: i) quei paragrafi, fatto salvo il punto iii), si applichino a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, e nei cui confronti i limiti di tempo applicabili ai sensi dell’articolo 22 scadono il 1° gen. 2003 o in data successiva; ii) nella misura in cui tali paragrafi sono applicabili in virtù della regola 76.5, l’ultima regola, fatto salvo il punto iii), deve applicarsi a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, e nei cui confronti i limiti di tempo ai sensi dell’articolo 39.1) scadono il 1° gen. 2003 o in data posteriore; iii) Allorquando un Ufficio designato ha informato l’Ufficio internazionale ai sensi del paragrafo f) della regola 49.6 che i paragrafi a) ad e) non sono compatibili con la legislazione nazionale applicata da tale Ufficio, i punti i) e ii) di questo paragrafo devono applicarsi nei confronti di tale Ufficio eccetto che ogni riferimento a tali punti fino alla data del 1° gen. 2003, deve leggersi come riferimento alla data di entrata in vigore della regola 49.6.a) a e) nei confronti di tale Ufficio. Le informazioni ricevute dall’Ufficio internazionale riguardanti un’incompatibilità di questo genere sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
-[^partB-lvlu60-6]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu60-4]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
+[^partB-lvlu60-5]: *Nota dell’editore*: I paragrafi a) ad e) della regola 49.6 non si applicano a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, a condizione che: i) quei paragrafi, fatto salvo il punto iii), si applichino a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, e nei cui confronti i limiti di tempo applicabili ai sensi dell’articolo 22 scadono il 1° gen. 2003 o in data successiva; ii) nella misura in cui tali paragrafi sono applicabili in virtù della regola 76.5, l’ultima regola, fatto salvo il punto iii), deve applicarsi a tutte le domande internazionali la cui data di deposito internazionale cade prima del 1° gen. 2003, e nei cui confronti i limiti di tempo ai sensi dell’articolo 39.1) scadono il 1° gen. 2003 o in data posteriore; iii) Allorquando un Ufficio designato ha informato l’Ufficio internazionale ai sensi del paragrafo f) della regola 49.6 che i paragrafi a) ad e) non sono compatibili con la legislazione nazionale applicata da tale Ufficio, i punti i) e ii) di questo paragrafo devono applicarsi nei confronti di tale Ufficio eccetto che ogni riferimento a tali punti fino alla data del 1° gen. 2003, deve leggersi come riferimento alla data di entrata in vigore della regola 49.6.a) a e) nei confronti di tale Ufficio. Le informazioni ricevute dall’Ufficio internazionale riguardanti un’incompatibilità di questo genere sono pubblicate nella gazzetta e sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
+[^partB-lvlu60-6]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 
 ### **Regola 49**<sup>bis</sup>Indicazioni riguardanti la protezione ricercata ai fini del trattamento nazionale
 
@@ -2030,14 +2043,14 @@ Nessun depositante è tenuto ad utilizzare un modulo nazionale quando compie gli
 - d) Se il depositante desidera che la domanda principale sia trattata, in uno Stato designato, come una domanda di «continuation» o di «continuation-in-part» di una domanda precedente, egli deve, allorquando compie gli atti di cui all’articolo 22, fornire tale indicazione all’Ufficio designato e deve indicare la domanda principale corrispondente.
 - e) Se il depositante non fornisce alcuna indicazione precisa conformemente al paragrafo a) allorquando compie gli atti di cui all’articolo 22, ma se la tassa nazionale cui fa riferimento l’articolo 22 e che è pagata dal depositante, corrisponde alla tassa nazionale applicabile ad un particolare titolo di protezione, il pagamento di questa tassa è considerato essere un’indicazione del desiderio da parte del depositante, che la domanda internazionale sia trattata come domanda per ottenere tale titolo di protezione e l’Ufficio designato ne informa di conseguenza il depositante.
 
-49<sup>bis</sup>.2 *Termini di scadenza per fornire le indicazi**o**ni*
+49<sup>bis</sup>.2 *Termini di scadenza per fornire le indicazioni*
 
 - a) Nessun Ufficio designato può esigere che il depositante fornisca, prima di aver compiuto gli atti di cui all’articolo 22, una qualsiasi indicazione cui fa riferimento la Regola 49<sup>bis</sup>.1 oppure, all’occorrenza, un’indicazione secondo la quale egli desidera ottenere la concessione di un brevetto nazionale o di un brevetto regionale.
 - b) Il depositante può, se consentito dalla legislazione nazionale applicabile da parte dell’Ufficio interessato, fornire tale indicazione o, all’occorrenza, trasformare la sua domanda in una domanda per un altro titolo di protezione, in qualsiasi momento ulteriore.
 
 ### **Regola 49**<sup>ter</sup>Conseguenze del ripristino del diritto di priorità da parte dell’Ufficio ricevente; ripristino del diritto di priorità da parte dell’Ufficio designato
 
-49<sup>ter</sup>.1 *Conseguenze del ripristino del diritto di priorità da parte dell’Ufficio ric**e**vente*
+49<sup>ter</sup>.1 *Conseguenze del ripristino del diritto di priorità da parte dell’Ufficio ricevente*
 
 - a) Allorquando l’Ufficio ricevente ha ripristinato un diritto di priorità ai sensi della regola 26<sup>bis</sup>.3 basata sull’accertamento che l’omissione di depositare la domanda internazionale entro il periodo di priorità ha avuto luogo malgrado fosse stata prestata la dovuta attenzione richiesta dalle circostanze, tale ripristino sarà effettivo in ogni Stato designato, fatto salvo il paragrafo c).
 - b) Allorquando l’Ufficio ricevente ha ripristinato un diritto di priorità ai sensi della regola 26<sup>bis</sup>.3 basata sull’accertamento che l’omissione di depositare la domanda internazionale entro il periodo di priorità non era intenzionale, tale ripristino sarà effettivo, fatto salvo il paragrafo c), in tutti gli Stati designati la cui legislazione nazionale applicabile provvede al ripristino del diritto di priorità basato su tale criterio o su un criterio che, dal punto di vista dei depositanti, risulta più favorevole del primo criterio.
@@ -2072,9 +2085,9 @@ Nessun depositante è tenuto ad utilizzare un modulo nazionale quando compie gli
 - g) Ogni Ufficio designato deve informare l’Ufficio internazionale dei criteri di ripristino che esso applica, delle prescrizioni, all’occorrenza, della legislazione nazionale che risultano applicabili in conformità al paragrafo f), e di ogni successivo cambiamento a questo riguardo. L’Ufficio internazionale deve sollecitamente pubblicare tali informazioni nella gazzetta.
 - h) Se, alla data del 5 ottobre 2005, i paragrafi a) a g) risultano incompatibili con la legislazione nazionale applicata dall’Ufficio designato, tali paragrafi non devono applicarsi nei confronti di tale Ufficio fintantoché essi continuano a risultare incompatibili con tale legislazione a condizione che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 5 aprile 2006. Le informazioni ricevute devono essere sollecitamente pubblicate nella gazzetta da parte dell’Ufficio internazionale.[^partB-lvlu62-3]
 
-[^partB-lvlu62-1]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu62-1]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partB-lvlu62-2]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 30 set. 2014, in vigore dal 1° lug. 2015 ([RU 2015 4287](https://fedlex.data.admin.ch/eli/oc/2015/723)).
-[^partB-lvlu62-3]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu62-3]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 
 ### **Regola 50**Facoltà secondo l’articolo 22.3)
 
@@ -2095,7 +2108,7 @@ La scadenza dei termini previsti nell’articolo 25.1)c) è di due mesi a decorr
 
 Se il depositante, dopo il ricevimento di una notifica di accertamento negativo secondo l’articolo 11.1), chiede all’Ufficio internazionale, in conformità all’articolo 25.1), di inviare copie dell’inserto della domanda internazionale a un Ufficio da lui indicato che era designato in questa domanda, egli deve allegare alla sua richiesta copia della notifica di cui alla regola 20.4.i).
 
-51.3 *Scadenza dei termini per pagare la tassa nazi**o**nale e per consegnare una traduzione*
+51.3 *Scadenza dei termini per pagare la tassa nazionale e per consegnare una traduzione*
 
 I termini di cui all’articolo 25.2)a) scadono contemporaneamente ai termini stabiliti dalla regola 51.1.
 
@@ -2158,7 +2171,7 @@ I termini di cui all’articolo 25.2)a) scadono contemporaneamente ai termini st
 
 - c) Se, alla data del 17 marzo 2000, il paragrafo a) non è compatibile, per quanto riguarda un qualsiasi punto di tale paragrafo, con la legislazione nazionale applicata dall’Ufficio designato, il paragrafo a) non si applica nei confronti di tale Ufficio per quanto riguarda tale punto per tutta la durata in cui continua a risultare incompatibile con tale legislazione, fermo restando che il suddetto Ufficio ne informi l’Ufficio internazionale entro il 30 novembre 2000. L’Ufficio internazionale pubblica sollecitamente le informazioni ricevute nella gazzetta.[^partB-lvlu65-7]
 
-51<sup>bis</sup>.3 *Possibilità di soddisfare le esigenze nazion**a**li*
+51<sup>bis</sup>.3 *Possibilità di soddisfare le esigenze nazionali*
 
 - a) Se una delle esigenze di cui alla regola 51<sup>bis</sup>.1.a)i) a iv) e c) a e), o qualsiasi altra esigenza della legislazione nazionale applicabile da parte dell’Ufficio designato che tale Ufficio può applicare in conformità all’articolo 27.1) oppure 2), non è già soddisfatta entro il termine applicabile all’osservanza delle esigenze secondo l’articolo 22, l’Ufficio designato invita il depositante a soddisfare tale esigenza entro un termine che non deve risultare inferiore a due mesi a decorrere dalla data dell’invito. Ogni Ufficio designato può richiedere al depositante il pagamento di una tassa per ottemperare alle esigenze nazionali in risposta all’invito.
 - b) Quando nessuna esigenza della legislazione nazionale applicabile dall’Ufficio designato, esigenza che tale Ufficio può applicare in conformità con l’articolo 27.6) oppure 7), non è soddisfatta durante lo stesso periodo entro il quale devono essere soddisfatte le esigenze in conformità con l’articolo 22, il depositante ha la possibilità di ottemperare a tale esigenza dopo la scadenza di tale periodo.
@@ -2170,8 +2183,8 @@ I termini di cui all’articolo 25.2)a) scadono contemporaneamente ai termini st
 [^partB-lvlu65-4]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali uno o più elementi di cui all’articolo 11.1)iii) sono stati ricevuti per primi dall’Ufficio ricevente il 1° luglio 2020 o in data successiva.
 [^partB-lvlu65-5]: Abrogata dalla mod. adottata dall’Assemblea del PCT l’11 ott. 2016, con effetto dal 1° lug. 2017 ([RU 2017 3527](https://fedlex.data.admin.ch/eli/oc/2017/386)).
 [^partB-lvlu65-6]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 9 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2013 823](https://fedlex.data.admin.ch/eli/oc/2013/171)).
-[^partB-lvlu65-7]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
-[^partB-lvlu65-8]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.html
+[^partB-lvlu65-7]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
+[^partB-lvlu65-8]: *Nota dell’editore*: Queste informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 
 ### **Regola 52**Modifica delle rivendicazioni, della descrizione e dei disegni presso gli Uffici designati
 
@@ -2249,7 +2262,7 @@ La richiesta di esame preliminare internazionale deve essere firmata dal deposit
 - a) Fatte salve le disposizioni del paragrafo b), il domicilio e la nazionalità del depositante sono determinati, ai fini dell’articolo 31.2), in conformità alla regola 18.l.a) e b).
 - b) L’Amministrazione incaricata dell’esame preliminare internazionale domanda, nei casi indicati nelle istruzioni amministrative, all’Ufficio ricevente o, se la domanda internazionale è stata depositata presso l’Ufficio internazionale che agisce in quanto Ufficio ricevente, all’Ufficio nazionale dello Stato contraente interessato o all’Ufficio che agisce per tale Stato di risolvere la questione se il depositante è domiciliato nello Stato contraente dove egli pretende avere il domicilio o se è cittadino dello Stato contraente del quale pretende avere la nazionalità. L’Amministrazione incaricata dell’esame preliminare internazionale informa il depositante di ogni richiesta fatta in tal senso. Il depositante ha la possibilità di presentare le proprie argomentazioni direttamente all’Ufficio nazionale. Quest’ultimo risolve la questione senza indugio.
 
-54.2 *Diritto a presentare una richiesta di esame preliminare internazi**o**nale*
+54.2 *Diritto a presentare una richiesta di esame preliminare internazionale*
 
 Il diritto di presentare una richiesta di esame preliminare internazionale secondo l’articolo 31.2) esiste se il depositante che la presenta o, nel caso vi siano più depositanti, se almeno uno di essi è domiciliato in uno Stato contraente vincolato dal capitolo II.
 
@@ -2263,7 +2276,7 @@ Se il depositante non ha il diritto di presentare una richiesta di esame prelimi
 
 ### **Regola 54**<sup>bis</sup>Termini di scadenza per la presentazione di una domanda di esame preliminare internazionale
 
-54<sup>bis</sup>.1 *Termini di scadenza per presentare una domanda di esame prelim**i**nare internazionale*
+54<sup>bis</sup>.1 *Termini di scadenza per presentare una domanda di esame preliminare internazionale*
 
 - a)
 
@@ -2369,7 +2382,7 @@ Le Amministrazioni incaricate dell’esame preliminare internazionale comunicano
 
 ### **Regola 58**<sup>bis</sup>Proroga dei termini di pagamento delle tasse
 
-58<sup>bis</sup>.1 *Invito da parte dell’Amministrazione competente incaricata dell’esame preliminare i**n**ternazionale*
+58<sup>bis</sup>.1 *Invito da parte dell’Amministrazione competente incaricata dell’esame preliminare internazionale*
 
 - a)
 
@@ -2398,14 +2411,14 @@ Le Amministrazioni incaricate dell’esame preliminare internazionale comunicano
 
 59.1 *Richieste di esame preliminare internazionale di cui all’articolo 31.2)a)*
 
-- a) Per quanto concerne le richieste di esame preliminare internazionale di cui all’articolo 31.2)a), ogni Ufficio ricevente di uno Stato contraente, o che agisce per conto di uno Stato contraente, vincolato dalle disposizioni del capitolo II fa conoscere all’Ufficio internazionale, in conformità alle disposizioni dell’accordo applicabile citato nell’articolo 32.2) e 3), la o le Amministrazioni incaricate dell’esame preliminare internazionale competenti per eseguire l’esame preliminare internazionale delle domande internazionali depositate presso di esso. L’Ufficio internazionale pubblica sollecitamente queste informazioni. Se più Amministrazioni incaricate dell’esame preliminare internazionale sono competenti, la regola 35.2 si applica *mutatis m**u**tan**dis*.
+- a) Per quanto concerne le richieste di esame preliminare internazionale di cui all’articolo 31.2)a), ogni Ufficio ricevente di uno Stato contraente, o che agisce per conto di uno Stato contraente, vincolato dalle disposizioni del capitolo II fa conoscere all’Ufficio internazionale, in conformità alle disposizioni dell’accordo applicabile citato nell’articolo 32.2) e 3), la o le Amministrazioni incaricate dell’esame preliminare internazionale competenti per eseguire l’esame preliminare internazionale delle domande internazionali depositate presso di esso. L’Ufficio internazionale pubblica sollecitamente queste informazioni. Se più Amministrazioni incaricate dell’esame preliminare internazionale sono competenti, la regola 35.2 si applica *mutatis mutan**dis*.
 - b) Se la domanda internazionale è stata depositata presso l’Ufficio internazionale che agisce in quanto Ufficio ricevente in virtù della regola 19.1.a)iii), la regola 35.3.a) e b) si applica *mutatis mutandis*. Il paragrafo a) della presente regola non si applica all’Ufficio internazionale che agisce in quanto Ufficio ricevente in virtù della regola 19.1.a)iii).
 
 59.2 *Richieste di esame preliminare internazionale di cui all’articolo 31.2)b)*
 
 Per quanto concerne le domande di esame preliminare internazionale di cui all’articolo 31.2)b), l’Assemblea, nella scelta dell’Amministrazione incaricata dell’esame preliminare internazionale competente per le domande internazionali depositate presso un Ufficio nazionale che funge da Amministrazione incaricata dell’esame preliminare internazionale, deve dare la preferenza a questa Amministrazione*;* se l’Ufficio nazionale non è un’Amministrazione incaricata dell’esame preliminare internazionale, l’Assemblea accorda la preferenza all’Amministrazione raccomandata da questo Ufficio.
 
-59.3 *Trasmissione della richiesta di esame preliminare internazionale all’Amministrazione co**m**petente*
+59.3 *Trasmissione della richiesta di esame preliminare internazionale all’Amministrazione competente*
 
 - a) Se la domanda di esame preliminare internazionale è presentata ad un Ufficio ricevente, ad una Amministrazione incaricata della ricerca internazionale oppure ad una Amministrazione incaricata dell’esame preliminare internazionale la quale non è competente ad effettuare l’esame preliminare internazionale della domanda internazionale, codesto Ufficio o codesta Amministrazione appone la data di ricevimento sulla domanda di esame preliminare internazionale e, a meno che decida di procedere secondo il paragrafo f), trasmette senza indugio detta domanda all’Ufficio internazionale.
 - b) Se la domanda di esame preliminare internazionale è presentata all’Ufficio internazionale, l’Ufficio internazionale vi appone la data di ricevimento.
@@ -2422,7 +2435,7 @@ Per quanto concerne le domande di esame preliminare internazionale di cui all’
 
 ### **Regola 60**Irregolarità nella richiesta di esame preliminare internazionale
 
-60.1 *Irregolarità nella richiesta di esame prelimin**a**re internazionale*
+60.1 *Irregolarità nella richiesta di esame preliminare internazionale*
 
 - a) Fatti salvi i paragrafi a<sup>bis</sup>) e a<sup>ter</sup>), se la richiesta di esame preliminare internazionale non soddisfa le condizioni specificate nelle regole 53.1, 53.2.a)i) a iv), 53.2.b), 53.3 a 53.8 e 55.1, l’Amministrazione incaricata dell’esame preliminare internazionale invita il depositante a correggere le irregolarità entro un periodo di tempo ragionevole date le circostanze. Questo termine non deve essere inferiore ad un mese a decorrere dalla data dell’invito. Esso può essere prorogato dall’Amministrazione incaricata dell’esame preliminare internazionale in qualsiasi momento prima che venga presa una decisione.
 - a<sup>bis</sup>) Ai fini della regola 53.4, se vi sono più depositanti, è sufficiente che siano fornite le indicazioni di cui alla regola 4.5.a)ii) e iii) nei confronti di uno degli aventi diritto, conformemente alla regola 54.2, a presentare una domanda di esame preliminare internazionale.
@@ -2436,7 +2449,7 @@ Per quanto concerne le domande di esame preliminare internazionale di cui all’
 
 ### **Regola 61**Notifica della domanda di esame preliminare internazionale e delle elezioni
 
-61.1 *Notifica all’Ufficio internazionale ed al depos**i**tante*
+61.1 *Notifica all’Ufficio internazionale ed al depositante*
 
 - a) L’Amministrazione incaricata dell’esame preliminare internazionale indica sulla domanda di esame preliminare internazionale la data di ricevimento oppure, se la regola 60.1.b) è applicabile, la data contemplata in tale regola. Essa invia senza indugio all’Ufficio internazionale la richiesta di esame preliminare internazionale, di cui conserva copia nei propri archivi, oppure invia copia della domanda di esame preliminare internazionale, conservando tale domanda nei propri archivi.
 - b) L’Amministrazione incaricata dell’esame preliminare internazionale notifica senza indugio al depositante la data di ricevimento della domanda di esame preliminare internazionale. Allorché questa domanda viene considerata in conformità alle regole 54.4, 55.2.d), 58<sup>bis</sup>.1.b) oppure 60.1.c), come non presentata, codesta Amministrazione ne dà notifica al depositante ed all’Ufficio internazionale.
@@ -2550,7 +2563,7 @@ Ai fini dell’articolo 33.3), la data pertinente per l’apprezzamento dell’a
 
 L’amministrazione incaricata dell’esame preliminare internazionale esegue una ricerca («ricerca supplementare») al fine di scoprire i documenti di cui alla regola 64 che sono stati pubblicati o che sono divenuti accessibili a tale amministrazione a fini di ricerca dopo la data in cui il rapporto di ricerca internazionale è stato redatto, a meno che essa ritenga la ricerca priva di interesse. Se l’amministrazione constata che sussiste una delle situazioni di cui all’articolo 34.3) o 4) o alla regola 66.1.e), la ricerca supplementare verte esclusivamente sulle parti della domanda internazionale oggetto dell’esame preliminare internazionale.[^partC-lvlu17-3]
 
-66.2 *Parere scritto dell’Amministrazione incaricata dell’esame prelim**i**nare inte**r**nazionale*
+66.2 *Parere scritto dell’Amministrazione incaricata dell’esame preliminare internazionale*
 
 - a)
 
@@ -2570,7 +2583,7 @@ L’amministrazione incaricata dell’esame preliminare internazionale esegue un
 - d) Nella notifica deve essere indicato un termine di scadenza per la risposta. Questo termine deve essere adeguato alle circostanze. Esso deve essere normalmente di due mesi a decorrere dalla data della notifica. Non deve essere in alcun caso inferiore a un mese a decorrere dalla data di notifica. Deve essere di almeno due mesi a decorrere da questa data quando il rapporto di ricerca internazionale è trasmesso contemporaneamente alla notifica. Non deve essere superiore a tre mesi a decorrere da tale data.
 - e) Il termine di scadenza per la risposta può essere prorogato se il depositante ne fa richiesta prima della scadenza.
 
-66.3 *Risposta formale all’Amministrazione incaricata dell’esame prel**i**minare internazionale*
+66.3 *Risposta formale all’Amministrazione incaricata dell’esame preliminare internazionale*
 
 - a) Il depositante può rispondere all’invito, menzionato nella regola 66.2.c), dell’Amministrazione incaricata dell’esame preliminare internazionale comunicando modifiche o, se non condivide il parere di questa Amministrazione, adducendo argomentazioni, secondo il caso, oppure valendosi di questi due mezzi.
 - b) Ogni risposta deve essere indirizzata direttamente all’Amministrazione incaricata dell’esame preliminare internazionale.
@@ -2580,7 +2593,7 @@ L’amministrazione incaricata dell’esame preliminare internazionale esegue un
 - a) L’Amministrazione incaricata dell’esame preliminare internazionale può rilasciare uno o più pareri scritti addizionali*;* sono applicabili le regole 66.2 e 66.3.
 - b) A richiesta del depositante, l’Amministrazione incaricata dell’esame preliminare internazionale può dargli una o più possibilità addizionali di presentare modifiche o argomentazioni.
 
-66.4<sup>bis</sup> *Presa in considerazione delle modifiche, argomentazioni e rettifiche di errori manif**e**sti*
+66.4<sup>bis</sup> *Presa in considerazione delle modifiche, argomentazioni e rettifiche di errori manifesti*
 
 Non è necessario che le modifiche, le argomentazioni e le rettifiche di errori manifesti siano prese in considerazione dall’Amministrazione incaricata dell’esame preliminare internazionale ai fini di un parere scritto o del rapporto di esame preliminare internazionale se esse sono ricevute da tale Amministrazione, se sono da essa autorizzate o ad essa notificate, come applicabili, dopo che questa Amministrazione ha iniziato la redazione di tale parere o di tale rapporto.
 
@@ -2604,7 +2617,7 @@ L’Amministrazione incaricata dell’esame preliminare internazionale può, in 
 - c) Nel correggere delle rivendicazioni, la regola 46.5 deve applicarsi *mutatis mutandis*. L’insieme delle rivendicazioni presentato ai sensi della regola 46.5 come applicabile in virtù di questo paragrafo deve sostituire tutte le rivendicazioni depositate originariamente o modificate precedentemente secondo gli articoli 19 oppure 34, a seconda del caso.
 - 66\.9[^partC-lvlu17-4] *...*
 
-[^partC-lvlu17-2]: *Nota dell’editore*: Le informazioni sono anche pubblicate sul sito web dell’OMPI sotto: www.wipo.int/pct/en/texts/reservations/res\_incomp.htlm
+[^partC-lvlu17-2]: *Nota dell’editore*: Le informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
 [^partC-lvlu17-3]: Introdotto dalla mod. adottata dall’Assemblea del PCT il 2 ott. 2013, in vigore dal 1° lug. 2014 ([RU 2014 2387](https://fedlex.data.admin.ch/eli/oc/2014/411)).
 [^partC-lvlu17-4]: Abrogato dalla mod. adottata dall’Assemblea del PCT il 29 set. 2010, con effetto dal 1° lug. 2011 ([RU 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
 
@@ -2755,7 +2768,7 @@ Ogni domanda pubblicata e ogni brevetto ai quali il rapporto si riferisce in bas
 
 Nel rapporto si deve indicare se sono state fatte delle modifiche presso l’Amministrazione incaricata dell’esame preliminare internazionale. Se una modifica ha condotto alla soppressione di un intero foglio, questo fatto deve essere pure precisato nel rapporto.
 
-70.12 *Menzione di talune irregolarità e di altri el**e**menti*
+70.12 *Menzione di talune irregolarità e di altri elementi*
 
 Se l’Amministrazione incaricata dell’esame preliminare internazionale stima che quando prepara il rapporto:
 
@@ -2835,7 +2848,7 @@ Il rapporto ed ogni allegato sono redatti nella lingua della pubblicazione della
 
 L’Ufficio internazionale trasmette al depositante una copia della traduzione del rapporto di esame preliminare internazionale, traduzione di cui alla regola 72.1.a), contemporaneamente alla comunicazione di tale traduzione all’Ufficio o agli Uffici eletti interessati.
 
-72.2<sup>bis</sup> *Traduzione del parere scritto dell’Amministrazione incaricata della rice**r**ca internazionale secondo la regola 43**<sup>bis</sup>**.1*
+72.2<sup>bis</sup> *Traduzione del parere scritto dell’Amministrazione incaricata della ricerca internazionale secondo la regola 43**<sup>bis</sup>**.1*
 
 Nel caso contemplato nella regola 73.2.b)ii), il parere scritto redatto dall’Amministrazione incaricata della ricerca internazionale in virtù della regola 43<sup>bis</sup>.1 è, su richiesta dell’Ufficio eletto interessato, tradotto in inglese dall’Ufficio internazionale o sotto la sua responsabilità. L’Ufficio internazionale trasmette al depositante e contemporaneamente all’Ufficio eletto interessato una copia della traduzione entro due mesi a decorrere dalla data di ricevimento della domanda di traduzione.
 
@@ -2863,7 +2876,7 @@ L’Ufficio internazionale prepara le copie dei documenti che devono essere comu
 
 ### **Regola 74**Traduzione e trasmissione degli allegati al rapporto di esame preliminare internazionale
 
-74.1 *Contenuto della traduzione e termini di scadenza per la trasmissi**o**ne*
+74.1 *Contenuto della traduzione e termini di scadenza per la trasmissione*
 
 - a) Qualora la consegna di una traduzione della domanda internazionale venga richiesta dall’Ufficio eletto in virtù dell’articolo 39.1), il depositante deve trasmettere, entro il termine applicabile secondo l’articolo 39.1), una traduzione di ogni foglio sostitutivo di cui alla regola 70.16 che è allegato al rapporto di esame preliminare internazionale, a meno che tale foglio non sia redatto nella lingua nella quale si richiede la traduzione della domanda internazionale. Lo stesso termine è applicabile qualora la consegna di una traduzione della domanda internazionale all’Ufficio eletto debba essere effettuata, a causa di una dichiarazione fatta in virtù dell’articolo 64.2)a)i), entro il termine applicabile secondo l’articolo 22.
 - b) Qualora l’Ufficio eletto non richiede la presentazione di una traduzione della domanda internazionale prevista all’articolo 39.1), tale Ufficio può richiedere che il depositante presenti entro i termini di scadenza applicabili secondo tale articolo, una traduzione nella lingua della pubblicazione della domanda internazionale di ogni foglio sostitutivo di cui alla regola 70.16, allegato al rapporto di esame preliminare internazionale e che non è formulato in tale lingua.
@@ -2874,11 +2887,11 @@ L’Ufficio internazionale prepara le copie dei documenti che devono essere comu
 
 - 76\.1, 76.2 e 76.3 *[Soppressi]*
 
-76.4 *Termini di scadenza per presentare la traduzi**o**ne del documento di priorità*
+76.4 *Termini di scadenza per presentare la traduzione del documento di priorità*
 
 Il depositante non è tenuto a presentare ad un Ufficio eletto una traduzione del documento di priorità prima della scadenza del termine applicabile secondo l’articolo 39.
 
-76.5 *Applicazione di talune regole a procedure pre**s**so gli Uffici eletti*
+76.5 *Applicazione di talune regole a procedure presso gli Uffici eletti*
 
 Le regole 13<sup>ter</sup>.3, 20.8.c), 22.1.g), 47.1,49, 49<sup>bis</sup>, 49<sup>ter</sup> e 51<sup>bis</sup> sono applicabili a condizione che:
 
@@ -3008,13 +3021,13 @@ Il riferimento a «un termine» nell’articolo 48.2) deve intendersi come rifer
 - ii) a ogni termine stabilito dall’Ufficio ricevente, dall’Amministrazione incaricata della ricerca internazionale, dall’Amministrazione incaricata dell’esame preliminare internazionale o dall’Ufficio internazionale o a ogni termine applicabile dall’Ufficio ricevente in virtù della propria legislazione nazionale;
 - iii) a ogni termine stabilito dall’Ufficio designato o eletto o nella legislazione nazionale applicabile da parte di questo Ufficio per qualsiasi atto che il depositante deve compiere presso tale Ufficio.
 
-82<sup>bis</sup>.2 *Ripristino dei diritti ed altre disposizioni a cui l’articolo 48.2) è applicab**i**le*
+82<sup>bis</sup>.2 *Ripristino dei diritti ed altre disposizioni a cui l’articolo 48.2) è applicabile*
 
 Le disposizioni della legislazione nazionale contemplata all’articolo 48.2) che permettono allo Stato designato o eletto di giustificare i ritardi nell’osservanza di termini di scadenza sono le disposizioni che prevedono il ristabilimento dei diritti, la reintegrazione, la *restitutio in integrum* o il proseguimento della procedura malgrado l’inosservanza di un termine, nonché qualsiasi altra disposizione che preveda la proroga dei termini o che permetta di giustificare ritardi nell’osservanza dei termini.
 
 ### **Regola 82**<sup>ter</sup>Rettifica di errori commessi dall’Ufficio ricevente o dall’Ufficio internazionale
 
-82<sup>ter</sup>.l *Errori concernenti la data del deposito internazionale e la rivend**i**cazione di priorità*
+82<sup>ter</sup>.l *Errori concernenti la data del deposito internazionale e la rivendicazione di priorità*
 
 - a) Se il depositante prova in modo soddisfacente a qualsiasi Ufficio designato o eletto che la data del deposito internazionale è inesatta a causa di un errore commesso dall’Ufficio ricevente o che la rivendicazione di priorità è stata erroneamente considerata nulla da parte dell’Ufficio ricevente o da parte dell’Ufficio internazionale, e se l’errore è tale che, se fosse stato commesso dallo stesso Ufficio designato o eletto, tale Ufficio lo rettificherebbe in virtù della legislazione nazionale o della prassi nazionale, detto Ufficio rettifica l’errore e istruisce la domanda internazionale come se la data rettificata del deposito internazionale fosse stata accettata o come se la rivendicazione di priorità non fosse stata considerata nulla.
 - b)[^partD-lvlu6-1]
@@ -3052,12 +3065,13 @@ Le disposizioni della legislazione nazionale contemplata all’articolo 48.2) ch
 - [tab] 82<sup>quater</sup>.3[^partD-lvlu7-6] *Proroga dei termini dovuta a disservizi generali*
 - a) Qualsiasi Ufficio ricevente, Amministrazione incaricata della ricerca internazionale, Amministrazione indicata per la ricerca internazionale supplementare o Amministrazione incaricata dell’esame preliminare internazionale o l’Ufficio internazionale può stabilire un periodo di proroga cosicché i termini previsti nel Regolamento d’esecuzione entro i quali una parte deve adempiere un atto davanti all’Ufficio ricevente, all’Amministrazione o all’Ufficio internazionale possano essere prorogati allorché lo Stato ove la parte risiede stia vivendo un disservizio generale causato da uno degli eventi elencati nella regola 82<sup>quater</sup>.1a) che abbia delle ripercussioni sulle attività di tale Ufficio, dell’Amministrazione o dell’Ufficio internazionale ed interferisca quindi con la capacità delle parti di adempiere atti presso tale Ufficio, Amministrazione o l’Ufficio internazionale conformemente ai termini indicati dal Regolamento d’esecuzione. L’Ufficio, l’Amministrazione o l’Ufficio internazionale pubblicano la data di inizio e di fine di tale periodo di proroga. Detto periodo di proroga non deve risultare superiore a due mesi a decorrere dalla data di inizio. L’Ufficio o l’Amministrazione devono darne notifica all’Ufficio internazionale.
 - b) Dopo aver stabilito un periodo di proroga in virtù del paragrafo a), l’Ufficio, l’Amministrazione o l’Ufficio internazionale interessati possono stabilire dei periodi di proroga aggiuntivi, se necessario, tenuto conto delle circostanze. In tal caso, il paragrafo a) si applica *mutatis mutandis.*
-- c) La proroga di un termine in virtù del paragrafo a) o b) deve essere presa in considerazione da un Ufficio designato o eletto se, nel momento in cui le informazioni di cui al paragrafo a) o b) sono pubblicate, la procedura nazionale davanti a quest’Ufficio è cominciata.
+- c)[^partD-lvlu7-7] La proroga di un termine in virtù del paragrafo a) o b) non deve essere presa in considerazione da un Ufficio designato o eletto se, nel momento in cui le informazioni di cui al paragrafo a) o b) sono pubblicate, la procedura nazionale davanti a quest’Ufficio è cominciata.
 
 [^partD-lvlu7-3]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT l’8 ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° luglio 2022 o in data successiva.
 [^partD-lvlu7-4]: Introdotta dalla mod. adottata dall’Assemblea del PCT l’8 ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° luglio 2022 o in data successiva.
 [^partD-lvlu7-5]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a qualsiasi termine a cui si applica la regola 82<sup>quater</sup>.2(a) che scade il 1° luglio 2020 o in data successiva.
 [^partD-lvlu7-6]: Introdotto dalla mod. adottata dall’Assemblea del PCT l’8 ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° luglio 2022 o in data successiva.
+[^partD-lvlu7-7]: Nuovo testo giusta la mod. adottata dall’Assemblea del PCT il 14 lug. 2023, in vigore dal 1° lug. 2024 ([RU 2024 262](https://fedlex.data.admin.ch/eli/oc/2024/262)). Si applica a tutti i termini fissati nel Regolamento che scadono il 1° lug. 2024 o in data successiva. Si applica a tutti i termini fissati nel Regolamento d’esecuzione che scadono a quella data o in data successiva.
 
 ### **Regola 83**Diritto di esercitare presso Amministrazioni internazionali
 
@@ -3101,7 +3115,7 @@ La gazzetta di cui all’articolo 55.4) contiene:[^partE-lvlu3-1]
 - iv)[^partE-lvlu3-2] le informazioni relative agli atti adempiti presso gli Uffici designati ed eletti che sono notificate all’Ufficio internazionale ai sensi della regola 95.1 riguardanti le domande internazionali pubblicate;
 - v) tutte le altre informazioni utili previste nelle direttive amministrative alle quali l’accesso non sia vietato secondo il Trattato o il presente Regolamento di esecuzione.
 
-86.2 *Lingue; forma e mezzi di pubblicazione; dur**a**ta dei termini*
+86.2 *Lingue; forma e mezzi di pubblicazione; durata dei termini*
 
 - a) La gazzetta deve essere pubblicata contemporaneamente in inglese ed in francese. Le traduzioni devono essere assicurate dall’Ufficio internazionale in inglese ed in francese.
 - b) L’Assemblea può ordinare la pubblicazione della gazzetta in lingue diverse da quelle menzionate nel paragrafo a).
@@ -3232,7 +3246,7 @@ Qualsiasi Ufficio nazionale od organizzazione intergovernativa può stabilire ch
 - a) Qualora vi siano più depositanti che non hanno designato un mandatario per rappresentarli tutti («mandatario comune») in virtù della regola 90.1.a), uno dei depositanti che è abilitato a depositare una domanda internazionale conformemente all’articolo 9 e nei cui confronti sono state fornite tutte le indicazioni richieste in virtù della regola 4.5.a), può essere designato dagli altri depositanti come loro rappresentante comune.
 - b) Qualora vi siano più depositanti e qualora non tutti abbiano designato un mandatario comune in virtù della regola 90.1.a) o un rappresentante comune in virtù del paragrafo a), viene considerato come rappresentante comune di tutti i depositanti colui che, tra quelli di loro che sono abilitati, conformemente alla regola 19.1, a depositare una domanda internazionale presso l’Ufficio ricevente, viene nominato per primo nella richiesta e nei cui confronti sono state fornite tutte le indicazioni richieste in virtù della regola 4.5.a).
 
-90.3 *Effetti di atti compiuti dai mandatari e dai ra**p**presentanti comuni o compiuti nei loro confro**n**ti*
+90.3 *Effetti di atti compiuti dai mandatari e dai rappresentanti comuni o compiuti nei loro confronti*
 
 - a) Ogni atto compiuto da un mandatario o compiuto nei suoi confronti ha gli effetti di un atto compiuto dal depositante o dai depositanti che hanno nominato il mandatario, o nei loro confronti.
 - b) Se più mandatari rappresentano il medesimo o i medesimi depositanti, ogni atto compiuto da uno qualsiasi di questi mandatari o nei suoi confronti ha gli effetti di un atto compiuto da detto o da detti depositanti o nei loro confronti.
@@ -3294,7 +3308,7 @@ Qualsiasi Ufficio nazionale od organizzazione intergovernativa può stabilire ch
 - d) Se il ritiro di una rivendicazione di priorità comporta una modifica della data di priorità, ogni termine calcolato a partire dalla data di priorità iniziale che non sia ancora scaduto viene calcolato, fatto salvo il paragrafo e), a partire dalla data di priorità quale risulta dalla modifica.
 - e) Trattandosi di termini menzionati all’articolo 21.2)a), l’Ufficio internazionale può tuttavia procedere alla pubblicazione internazionale sulla base della suddetta scadenza dei termini calcolata a partire dalla data di priorità iniziale se la dichiarazione di ritiro inviata dal depositante o trasmessa dall’Ufficio ricevente o dall’Amministrazione incaricata dell’esame preliminare internazionale perviene all’Ufficio internazionale dopo la fine della preparazione tecnica della pubblicazione internazionale.
 
-90<sup>bis</sup>.3<sup>bis</sup> *Ritiro di richiesta di ricerca supplement**a**re*
+90<sup>bis</sup>.3<sup>bis</sup> *Ritiro di richiesta di ricerca supplementare*
 
 - a) Il depositante può ritirare una richiesta di ricerca supplementare in qualsiasi momento prima della data di trasmissione al depositante ed all’Ufficio internazionale, ai sensi della regola 45<sup>bis</sup>*.*8.a), del rapporto sulla ricerca internazionale supplementare oppure della dichiarazione che tale rapporto non sarà redatto.
 - b) Il ritiro diventerà effettivo al ricevimento, entro i termini previsti al paragrafo a), di una nota che il depositante indirizza, a sua scelta, all’Amministrazione incaricata della ricerca supplementare oppure all’Ufficio internazionale, a condizione che, qualora tale nota non pervenga all’Amministrazione incaricata della ricerca supplementare in tempo utile per impedire la trasmissione del rapporto o della dichiarazione di cui al paragrafo a), la comunicazione di tale rapporto o di tale dichiarazione ai sensi dell’articolo 20.1), che risulta applicabile in virtù della regola 45<sup>bis</sup>.8.b), sia nondimeno effettuata.
@@ -3361,7 +3375,7 @@ Qualsiasi dichiarazione di ritiro contemplata in una delle regole 90<sup>bis</su
 
 91.2 *Richieste di rettifiche*
 
-Una richiesta di rettifica ai sensi della regola 91.1 deve essere presentata all’autorità competente entro 26 mesi a decorrere dalla data di priorità. Essa deve precisare l’errore da rettificarsi e la rettifica proposta e può contenere, a scelta del depositante, una breve spiegazione. La regola 26.4 si deve applicare *mutatis muta**n**dis* al modo in cui deve essere indicata la rettifica proposta.
+Una richiesta di rettifica ai sensi della regola 91.1 deve essere presentata all’autorità competente entro 26 mesi a decorrere dalla data di priorità. Essa deve precisare l’errore da rettificarsi e la rettifica proposta e può contenere, a scelta del depositante, una breve spiegazione. La regola 26.4 si deve applicare *mutatis mutandis* al modo in cui deve essere indicata la rettifica proposta.
 
 91.3 *Autorizzazione ed effetto delle rettifiche*
 
@@ -3394,7 +3408,7 @@ Una richiesta di rettifica ai sensi della regola 91.1 deve essere presentata all
 - d)[^partF-lvlu6-2] Ogni lettera indirizzata dal depositante all’Ufficio internazionale deve essere redatta in francese, inglese o in un’altra lingua di pubblicazione autorizzata dalle istruzioni amministrative.
 - e) Ogni lettera o notifica indirizzata dall’Ufficio internazionale al depositante o a un Ufficio nazionale deve essere redatta in francese o in inglese.
 
-92.3 *Invii postali fatti dagli Uffici nazionali e dalle organizzazioni inte**r**governative*
+92.3 *Invii postali fatti dagli Uffici nazionali e dalle organizzazioni intergovernative*
 
 Ogni documento o lettera proveniente da un Ufficio nazionale o da un’organizzazione intergovernativa o da loro trasmessa e tale da costituire un evento dal quale inizia la decorrenza di un termine in virtù del Trattato o del presente Regolamento d’esecuzione, deve essere spedito per posta aerea*;* la posta di superficie o marittima può essere utilizzata, in luogo e vece della posta aerea, sia quando la corrispondenza trasmessa dalla prima arriva normalmente a destinazione entro due giorni dalla sua consegna, sia quando non esiste un servizio di posta aerea.
 
@@ -3446,7 +3460,7 @@ Ogni Ufficio ricevente conserva gli archivi e i registri relativi ad ogni domand
 - a) L’Ufficio internazionale conserva l’archivio, contenente l’esemplare originale,compresa una copia della registrazione, di ogni domanda internazionale per almeno trent’anni a decorrere dalla data di ricevimento dell’esemplare originale.
 - b) I registri di base dell’Ufficio internazionale sono conservati a tempo indefinito.
 
-93.3 *Amministrazioni incaricate della ricerca internazionale e Ammin**i**strazioni incaricate dell’esame preliminare internazionale*
+93.3 *Amministrazioni incaricate della ricerca internazionale e Amministrazioni incaricate dell’esame preliminare internazionale*
 
 Ogni Amministrazione incaricata della ricerca internazionale e ogni Amministrazione incaricata dell’esame preliminare internazionale conserva l’inserto di ogni domanda internazionale per almeno dieci anni a decorrere dalla data del deposito internazionale.
 
@@ -3558,7 +3572,7 @@ L’importo delle tasse di cui alle regole 15, 45<sup>bis</sup>.2 e 57 è espres
 
 [^partF-lvlu12-2]: Introdotta dalla mod. adottata dall’Assemblea del PCT il 9 ott. 2019, in vigore dal 1° lug. 2020 ([RU 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Si applica a tutte le domande internazionali per le quali le tasse vengono trasferite dall’Ufficio esattore il 1° luglio 2020 o in data successiva, comprese quelle ricevute ai sensi della regola 16 in applicazione della regola 45<sup>bis</sup>.3.b)
 
-Allegato*[^t-3]*
+Allegato[^t-3]
 
 ## Tabella delle tasse
 
@@ -3577,4 +3591,4 @@ Allegato*[^t-3]*
 <tr><td colspan="2">5. La tassa internazionale di deposito di cui al punto 1 (ove sia il caso, come risulta ridotta ai sensi del punto 4), la tassa di trattamento per ricerca supplementare di cui al punto 2 e la tassa di trattamento di cui al punto 3 sono ridotte del 90 % se la domanda internazionale è depositata da: a) un depositante che sia una persona fisica e che sia cittadino di uno Stato e domiciliato in uno Stato il cui prodotto interno lordo pro capite sia inferiore a 25 000 dollari USA (calcolato sulla base della media degli ultimi dieci anni del prodotto interno lordo pro capite pubblicato dall’Organizzazione delle Nazioni Unite sulla base del valore costante del dollaro USA nel 2005) e i cui cittadini e residenti che sono persone fisiche abbiano depositato un numero di domande internazionali all’anno inferiore a dieci (per milione di abitanti) oppure un numero di domande internazionali all’anno inferiore a 50 (in termini assoluti) in relazione alla media del numero di depositi degli ultimi cinque anni pubblicati dall’Ufficio internazionale; oppure b) un depositante, che sia una persona fisica o no, e che sia cittadino di uno Stato e domiciliato in uno Stato classificato dall’Organizzazione delle Nazioni Unite tra i Paesi meno sviluppati, a condizione che all’atto del deposito di una domanda internazionale non vi siano titolari effettivi della domanda internazionale che non soddisfino i criteri esposti nel comma a) oppure b) e a condizione che, se vi sono più depositanti, ognuno soddisfi i criteri esposti nel comma a) oppure b). Gli elenchi degli Stati ai quali si fa riferimento nei comma a) e b)[^annexu1-lvlu1-1] sono aggiornati dal Direttore generale almeno ogni cinque anni in conformità con le direttive disposte dall’Assemblea. I criteri definiti nei comma a) e b) sono rivisti dall’Assemblea almeno ogni cinque anni.</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: *Nota dell’editore:* I primi elenchi degli Stati sono stati pubblicati a pagina 32 della Gazzetta del 12 febbraio 2015 (www.wipo.int/pct/en/official\_notices/index.html)
+[^annexu1-lvlu1-1]: *Nota dell’editore:* I primi elenchi degli Stati sono stati pubblicati a pagina 32 della Gazzetta del 12 febbraio 2015. Le informazioni sono anche pubblicate sul sito web dell’OMPI sotto: [www.wipo.int/pct/fr/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/fr/texts/reservations/res_incomp.html)
