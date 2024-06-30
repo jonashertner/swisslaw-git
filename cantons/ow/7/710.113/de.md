@@ -4,13 +4,12 @@ number: "710.113"
 title: Ausführungsbestimmungen über die Solaranlagen
 short: AB Solar
 language: de
-version: 2022-12-01
-valid_until: 2024-06-30
-version_adopted: 2022-11-22
+version: 2024-07-01
+version_adopted: 2024-06-11
 adopted: 2022-11-22
 in_force: 2022-12-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/710.113"
-pdf: "http://gdb.ow.ch/api/de/versions/1753/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1875/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1753/pdf_file"
 
 (AB Solar)
 
-vom 22.11.2022 (Stand 01.12.2022)
+vom 22.11.2022 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -40,15 +39,22 @@ beschliesst:
 
 <sup>1</sup> Diese Ausführungsbestimmungen
 
+- a0. bestimmen ästhetisch wenig empfindliche Typen von Bauzonen, in denen nicht auf Dächern liegende Solaranlagen ohne Baubewilligung erstellt werden können (Art. 18a Abs. 2 Bst. a RPG),
 - a. bestimmen die Schutzgebiete, in denen eine Baubewilligungspflicht für Solaranlagen gilt (Art. 18a Abs. 2 Bst. b RPG),
 - b. regeln das Meldeverfahren und die Prüfung für bewilligungsfreie Solaranlagen sowie die Zuständigkeiten nach Art. 32a Abs. 3 RPV und
-- c. legen die kantonalen Gestaltungsvorschriften für Solaranlagen fest (Art. 32a Abs. 2 RPV).
+- c. legen die kantonalen Gestaltungsvorschriften für Solaranlagen in den Anhängen 1 bis 3 fest (Art. 32a Abs. 2 RPV).
+
+#### Art. 1a
+
+**Baubewilligungsfreie Solaranlagen nach Art. 18a Abs. 2 Bst. a RPG**
+
+<sup>1</sup> In Arbeitszonen sind Solaranlagen an Gebäudefassaden bewilligungsfrei, wenn sie die Gestaltungsvorschriften erfüllen.
 
 #### Art. 2
 
-**Gebiete und Objekte mit Baubewilligungspflicht für Solaranlagen**
+**Schutzgebiete und Schutzobjekte mit Baubewilligungspflicht nach Art. 18a Abs. 2 Bst. b RPG**
 
-<sup>1</sup> Bewilligungspflichtig gemäss Art. 18a Abs. 2 Bst. b RPG sind Anlagen, die folgende Gebiete bzw. Objekte betreffen:
+<sup>1</sup> Bewilligungspflichtig sind Anlagen, die folgende Gebiete bzw. Objekte betreffen:
 
 - a. Umgebungsschutzgebiete von Kulturobjekten, Ortsbildschutzgebiete sowie Schutzobjekte gemäss der Denkmalschutzverordnung[^2-1];
 - b. kantonale Landschaftsschutzgebiete, Landschaften und Naturdenkmäler von nationaler Bedeutung sowie Moorlandschaften von besonderer Schönheit und nationaler Bedeutung gemäss dem Bundesgesetz über den Natur- und Heimatschutz[^2-2].
@@ -58,35 +64,46 @@ beschliesst:
 
 #### Art. 3
 
-**Meldepflicht für Solaranlagen a. Inhalt der Meldung**
+**Meldeverfahren a. Inhalt der Meldung**
 
-<sup>1</sup> Die Errichtung bewilligungsfreier Solaranlagen nach Art. 18a Abs. 1 RPG ist dem Bauamt der Gemeinde mit dem Meldeformular für Solaranlagen durch die Bauherrschaft vor Beginn der Bauarbeiten zu melden.
+<sup>1</sup> Die Errichtung bewilligungsfreier Solaranlagen nach Art. 18a Abs. 1 und Abs. 2 Bst. a RPG ist dem Bauamt der Gemeinde mit dem Meldeformular für Solaranlagen durch die Bauherrschaft vor Beginn der Bauarbeiten zu melden.
 
 <sup>2</sup> Zusammen mit dem Meldeformular gemäss Absatz 1 sind die folgenden Unterlagen einzureichen:
 
-- a. Grundriss und Ansichten mit Vermassung der Lage und Abmessung der Anlage auf dem Gebäude;
-- b. Querschnitt durch Anlage und Dach, aus dem die Montageart ersichtlich wird;
-- c. Fotografien bzw. Luftbild oder Satellitenbild der betroffenen Gebäudepartien vor der Montage der Anlage;
-- d. Technische Angaben/Produktbeschriebe zur vorgesehenen Anlage mit einer Darstellung zum Erscheinungsbild der flächigen Elemente und der vorgesehenen Befestigungen entsprechend den Vorschriften des Bundes und den kantonalen Gestaltungsvorschriften.
+- a. Grundriss und Ansichten mit Vermassung der Anlage auf dem Dach oder an der Fassade;
+- b. Querschnitt durch Anlage und Dach bzw. durch Anlage und Fassade, aus dem die Montageart ersichtlich wird;
+- c. Fotografie bzw. Luft- oder Satellitenbild des Dachs bzw. Fotografie der Fassade;
+- d. Technische Angaben/Produktbeschriebe zur vorgesehenen Anlage mit einer Darstellung zum Erscheinungsbild der flächigen Elemente und der vorgesehenen Befestigungen;
+- e. Bei PV-Anlagen: Übersichtsplan mit Standort von Gleichstrom-Leitungen, Wechselrichter und elektrischen Trennstellen.
 
 #### Art. 4
 
-**b. Meldeverfahren**
+**b. Prüfung**
 
 <sup>1</sup> Das Bauamt der Gemeinde beurteilt die Meldungen für bewilligungsfreie Anlagen innerhalb der Bauzonen. Meldungen betreffend Anlagen ausserhalb der Bauzonen sind innert fünf Arbeitstagen der kantonalen Baukoordination zur Beurteilung weiterzuleiten.
 
-<sup>2</sup> Sind die Voraussetzungen für eine bewilligungsfreie Anlage gemäss den Anhängen 1 bis 3 erfüllt, erhält die Bauherrschaft vom Bauamt der Gemeinde innert 30 Tagen eine schriftliche Bestätigung.
+<sup>2</sup> Sind die Gestaltungsvorschriften für eine bewilligungsfreie Anlage gemäss den Anhängen 1 bis 3 eingehalten, erhält die Bauherrschaft vom Bauamt der Gemeinde innert 30 Tagen eine schriftliche Bestätigung.
 
-<sup>3</sup> Erfüllt die geplante Solaranlage die Anforderungen an eine bewilligungsfreie Errichtung nicht, teilt die kantonale Baukoordination bzw. das Bauamt der Bauherrschaft innert 30 Tagen mit, in welcher Art die Anlage zu ändern ist oder dass die Anlage als baubewilligungspflichtig gilt.
+<sup>3</sup> Sind die Gestaltungsvorschriften für eine bewilligungsfreie Anlage gemäss den Anhängen 1 bis 3 nicht eingehalten, so meldet das Bauamt der Gemeinde oder die kantonale Baukoordination der Bauherrschaft innert 30 Tagen zurück, wie die Anlage zu ändern ist oder dass die Anlage als baubewilligungspflichtig gilt.
 
 #### Art. 5
 
-**c. Beginn der Bauarbeiten und Kontrolle**
+**c. Ausführung und Kontrolle**
 
-<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn das Bauamt der Gemeinde schriftlich bestätigt hat, dass die Solaranlage bewilligungsfrei ist.
+<sup>1</sup> Mit der Erstellung der Anlage darf begonnen werden, nachdem das Bauamt der Gemeinde schriftlich bestätigt hat, dass die Gestaltungsvorschriften erfüllt sind.
 
-<sup>2</sup> Nach Ausführung bewilligungsfreier Solaranlagen stellt die Bauherrschaft dem Bauamt der Gemeinde innert 30 Tagen eine Fotodokumentation zu, mit welcher sich die Einhaltung der massgebenden Vorgaben (Anordnung, Montageweise, Materialien, Farben und Zuleitungen) überprüfen lässt.
+<sup>2</sup> Nach erfolgter Ausführung der Anlage stellt die Bauherrschaft dem Bauamt der Gemeinde innert 30 Tagen eine Fotodokumentation zu, mit welcher sich die Einhaltung der Gestaltungsvorschriften überprüfen lässt.
 
-<sup>3</sup> Das Bauamt kontrolliert die Ausführung der bewilligungsfreien Anlage anhand der eingereichten Fotodokumentation. Werden dabei Mängel festgestellt, so ordnet das Bauamt nötige Änderungen oder Ersatzmassnahmen an.
+<sup>3</sup> Das Bauamt kontrolliert die Ausführung der Anlage anhand der eingereichten Fotodokumentation. Werden dabei Mängel festgestellt, so ordnet das Bauamt die nötigen Änderungen an.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2022, 28
+
+Ursprüngliches Inkrafttreten: 1. Dezember 2022
+
+geändert durch:
+
+-Nachtrag vom 11. Juni 2024, in Kraft seit 1. Juli 2024 (OGS 2024, 10)
 
 OGS 2022, 28
