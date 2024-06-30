@@ -4,13 +4,12 @@ number: "231.200"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EG SchKG
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2021-03-23
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2005-02-22
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/231.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3051/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3051/pdf_file"
 
 (EG SchKG)
 
-Vom 22.02.2005 (Stand 01.01.2022)
+Vom 22.02.2005 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -109,9 +108,9 @@ beschliesst:
 
 #### § 9
 
-**d) Gebühren und Entschädigungen**
+**d) Entschädigungen**
 
-<sup>1</sup> Für die von der Prüfungskommission durchgeführten Prüfungen werden Gebühren von Fr. 500.– bis Fr. 2'000.– erhoben. Der Regierungsrat bestimmt innerhalb dieses Rahmens durch Verordnung die Gebühr für die einzelnen Prüfungen.
+<sup>1</sup> …
 
 <sup>2</sup> Der Regierungsrat regelt die Entschädigung der Kommissionsmitglieder.
 
