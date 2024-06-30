@@ -3,20 +3,20 @@ canton: LU
 number: 800a
 title: Spitalgesetz
 language: de
-version: 2021-09-01
-valid_until: 2024-06-30
-version_adopted: 2021-05-10
+version: 2024-07-01
+valid_until: 2024-07-31
+version_adopted: 2024-03-18
 adopted: 2006-09-11
 in_force: 2007-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800a"
-pdf: "https://srl.lu.ch/api/de/versions/3798/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Spitalgesetz
 
-vom 11.09.2006 (Stand 01.09.2021)
+vom 11.09.2006 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -78,11 +78,14 @@ beschliesst:
 - b. Nachweis der Aus- und Weiterbildung einer im Verhältnis zum gesamtkantonalen Bedarf angemessenen Zahl von medizinischem Fachpersonal,
 - c. Bereitschaft, die Daten gemäss § 6i betreffend das für einen Leistungsauftrag in Frage kommende Leistungsspektrum zur Verfügung zu stellen.
 
+<sup>2<sup>bis</sup></sup> Während seiner Geltungsdauer richtet sich die Förderung der Ausbildung in Pflege HF und in Pflege FH nach dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^4a-2].
+
 <sup>3</sup> Ausnahmsweise können auch Spitäler und Geburtshäuser in die Spitalliste aufgenommen werden, welche die Anforderungen nach Absatz 2b und c zwar nicht erfüllen, aber zur Sicherstellung der Spitalversorgung erforderlich sind. Ergeben sich daraus für das Spital oder Geburtshaus finanzielle Vorteile, kann zum Ausgleich eine Ersatzabgabe verlangt werden.
 
 <sup>4</sup> Auf der Spitalliste wird für jedes Listenspital mindestens das Leistungsspektrum aufgeführt, das dem Leistungsauftrag nach § 5 Absatz 1 entspricht.
 
 [^4a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^4a-2]: SRL Nr. [810](https://srl.lu.ch/data/810/de)
 
 #### § 5
 
