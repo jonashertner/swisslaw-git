@@ -4,13 +4,13 @@ number: "651.111"
 title: Verordnung zum Steuergesetz
 short: StGV
 language: de
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-05-31
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2000-09-11
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3327/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3508/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3327/pdf_file"
 
 (StGV)
 
-Vom 11.09.2000 (Stand 01.07.2023)
+Vom 11.09.2000 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 188 Abs. 1, 227 Abs. 2 und 276 Abs. 2 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-1] sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 188 Abs. 1, 227 Abs. 2 und 276 Abs. 2 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-1] sowie § 10 Abs. 2 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [651.100](https://gesetzessammlungen.ag.ch/data/651.100/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^ingress-2]: SAR [662.100](https://gesetzessammlungen.ag.ch/data/662.100/de)
 
 ## 1. Einkommens- und Vermögenssteuern der natürlichen Personen
 
@@ -596,7 +596,7 @@ beschliesst:
 
 #### § 65a
 
-**Mahngebühren (§ 188 Abs. 1 StG)**
+**Mahnung und Rechtsschutz**
 
 <sup>1</sup> Für Mahnungen nicht rechtzeitig eingereichter Steuererklärungen werden Gebühren erhoben. Die Gebühr für die erste Mahnung beträgt Fr. 35.–, für die zweite Fr. 50.–.
 
@@ -857,9 +857,9 @@ beschliesst:
 
 **Verfahrenskosten (§ 246 Abs. 1 lit. f StG)**
 
-<sup>1</sup> Die Verfahrenskosten für die Erstellung eines Strafbefehls richten sich nach § 15 Abs. 1 des Dekretes über die Verfahrenskosten (Verfahrenskostendekret, VKD) vom 24. November 1987[^89-1].
+<sup>1</sup> Die Verfahrenskosten für die Erstellung eines Strafbefehls richten sich nach § 21 Abs. 4 des Gebührendekrets (GebührD) vom 19. September 2023[^89-1].
 
-[^89-1]: SAR [221.150](https://gesetzessammlungen.ag.ch/data/221.150/de)
+[^89-1]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 #### § 90
 
