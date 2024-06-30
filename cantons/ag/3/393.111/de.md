@@ -3,30 +3,28 @@ canton: AG
 number: "393.111"
 title: Verordnung über den Vollzug der eidgenössischen Tierschutzgesetzgebung
 language: de
-version: 2018-01-01
-valid_until: 2024-06-30
-version_adopted: 2017-09-27
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1982-06-07
 in_force: 1982-11-14
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/393.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2534/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug der eidgenössischen Tierschutzgesetzgebung
 
-Vom 07.06.1982 (Stand 01.01.2018)
+Vom 07.06.1982 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 36 des eidgenössischen Tierschutzgesetzes vom 9. März 1978[^ingress-1], § 79 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2] und § 2 des kantonalen Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-3],
+gestützt auf Art. 36 des eidgenössischen Tierschutzgesetzes vom 9. März 1978[^ingress-1] und § 79 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: AS 1981 562; aufgehoben (AS 2008 2965)
 [^ingress-2]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
-[^ingress-3]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -287,37 +285,11 @@ beschliesst:
 
 <sup>1</sup> Der kantonale Veterinärdienst kann die Veranstalter von sportlichen Wettkämpfen verpflichten, Dopingkontrollen bei den Tieren durchzuführen (Art. 66 Abs. 2 TSchV).
 
-## 8. Gebühren
+## 8.
 
 #### § 22
 
-**Berücksichtigung des Aufwandes; Höhe**
-
-<sup>1</sup> Die Vollzugsorgane erheben für die Prüfung von Bewilligungsgesuchen, für Augenscheine sowie für andere Verfügungen und für die Durchführung der vorgeschriebenen Kontrollen eine Gebühr. Bei ausserordentlichem Aufwand kann die Gebühr bis auf das Dreifache der ordentlichen Maximalhöhe erhöht werden.
-
-<sup>2</sup> Die Gebühren des kantonalen Veterinärdienstes betragen:
-
-- a) Tierversuche
-  - 1\. Bearbeitung von Gesuchen für die Durchführung von Tierversuchen inkl. ergänzungs- und nichtbewilligungspflichtige Gesuche, sowie Bewilligungserteilung und drei Kontrollen während der Bewilligungsdauer — Fr. 50.– bis 500.–
-- b) Tierpfleger
-  - 1\. Anerkennung als Ausbildungsbetrieb — Fr. 50.– bis 400.–
-  - 2\. Fähigkeitsausweis — Fr. 50.– bis 100.–
-- c) Bewilligung von Wildtierhaltungen; Durchführung von Kontrollen bei privaten und gewerbsmässigen Wildtierhaltungen — Fr. 50.– bis 300.–
-- d) Anerkennung eines zoologischen Gartens oder Tierparks für den Handel mit Affen und Halbaffen und Raubkatzen — Fr. 50.– bis 500.–
-- e)
-  - 1\. Bewilligung für den Betrieb einer Zoohandlung — Fr. 50.– bis 500.–
-  - 2\. Bewilligung des übrigen Handels und der Werbung mit Tieren — Fr. 30.– bis 300.–
-  - 3\. Durchführung von Kontrollen bei Tierhandlungen — Fr. 50.– bis 250.–
-- f) Beizug einer Fachperson im Sinne von § 3 Abs. 5 — Fr. 200.– bis 1'500.–
-- g) Tierschutzkontrollen, die zu einer Beanstandung führen — Fr. 50.– bis 1'500.–
-- h) Bewilligung im Sinne von Art. 76 Abs. 1ter TschV — Fr. 25.– bis 100.–
-- i) …
-
-<sup>3</sup> Die Gebühren des für die Landwirtschaft und die Jagd zuständigen Departementes betragen:
-
-- a) …
-- b) Bewilligung von Kunstbauen zum Abrichten und Prüfen von Bodenhunden — Fr. 50.– bis 200.–
-- c) …
+**…**
 
 ## 9. Verfahrensvorschriften
 
