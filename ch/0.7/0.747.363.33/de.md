@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: Internationales Übereinkommen vom 1. November 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: de
-version: 2021-09-07
+version: 2024-07-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20210907/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20210907-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20210907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 128
 
 Abgeschlossen in London am 1. November 1974 Von der Bundesversammlung genehmigt am 9. Juni 1981[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Oktober 1981 In Kraft getreten für die Schweiz am 1. Januar 1982
 
-(Stand am 7. September 2021)
+(Stand am 1. Juli 2024)
 
 [^t-1]: [AS 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -42,7 +42,7 @@ a) Die Vertragsregierungen verpflichten sich, diesem Übereinkommen und seinem A
 
 b) Die Vertragsregierungen verpflichten sich, alle Gesetze, Verordnungen, Ausführungsbestimmungen und sonstigen Vorschriften zu erlassen und alle sonstigen Massnahmen zu treffen, die erforderlich sind, um diesem Übereinkommen volle Wirksamkeit zu verleihen und dadurch zu gewährleisten, dass sich ein Schiff im Hinblick auf den Schutz des menschlichen Lebens für seinen Verwendungszweck eignet.
 
-[^I-1]: Der Text dieses Anhangs und seiner Änderungen wird in der AS nicht veröffentlicht ([AS 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); **1997** 464). Er kann beim BBL, Verkauf Bundespublikationen, 3003 Bern, bezogen werden.
+[^I-1]: Dieser Anhang und seine Änderungen sind in der AS nicht veröffentlicht ([AS 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel, eingesehen werden.
 
 #### Art. II
 
@@ -188,7 +188,7 @@ Dieses Übereinkommen ist in einer Urschrift in chinesischer, englischer, franz�
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 1. November 1974 (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. September 2021**[^t-2]**
+Geltungsbereich am 7. September 2021[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -377,7 +377,7 @@ Geltungsbereich am 7. September 2021**[^t-2]**
 <tr><td>Turks- und Caicosinseln</td><td>7. Juli</td><td>2004</td><td>7. Juli</td><td>2004</td></tr>
 <tr><td>Vietnam</td><td>18. Dezember</td><td>1990 B</td><td>18. März</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>11. Oktober</td><td>1985 B</td><td>11. Januar</td><td>1986</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Seeschifffahrts-Organisation (IMO), www.imo.org &gt; fr &gt; Qui nous sommes &gt; Conventions &gt; Liste des conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 25. Mai 1980 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 24. Aug. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>d</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Seeschifffahrts-Organisation (IMO), [www.imo.org](https://www.imo.org/en/publications/Pages/CatalogueAndBookCodeLists.aspx) &gt; fr &gt; Qui nous sommes &gt; Conventions &gt; Liste des conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 25. Mai 1980 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 24. Aug. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>d</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

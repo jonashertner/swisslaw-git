@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convenzione internazionale del 1<sup>o</sup> novembre 1974 per la salvaguardia della vita umana in mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: it
-version: 2021-09-07
+version: 2024-07-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20210907/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20210907-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20210907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1982** 128; FF **1980** II 681
 
 Traduzione
 
-Conchiusa a Londra il 1<sup>o</sup> novembre 1974
+Conchiusa a Londra il 1<sup>o</sup> novembre 1974 Approvata dall’Assemblea federale il 9 giugno 1981[^t-1] Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981 Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
 
-Approvata dall’Assemblea federale il 9 giugno 1981[^t-1]
-
-Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981
-
-Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
-
-(Stato 7 settembre 2021)
+(Stato 1° luglio 2024)
 
 [^t-1]: [RU 1982 125](https://fedlex.data.admin.ch/eli/oc/1982/125_125_125)
 
@@ -48,7 +42,7 @@ a) I Governi contraenti si impegnano a dare effetto alle disposizioni della pres
 
 b) I Governi contraenti si impegnano a promulgare tutte le leggi, tutti i decreti, ordini e regolamenti ed a prendere tutte le altre disposizioni necessarie per dare alla Convenzione la sua piena ed intera applicazione, al fine di garantire che, dal punto di vista della sicurezza della vita umana, una nave sia idonea al servizio al quale è destinata.
 
-[^I-1]: Testo non pubblicato nella RU ([RU 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); **1997** 464). Si possono ottenere degli esemplari a parte presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna.
+[^I-1]: Questo all. ed i suoi emendamenti non sono più pubblicati nella RU ([RU 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -194,7 +188,7 @@ La presente Convenzione è stata fatta in un solo esemplare in lingua cinese, fr
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno apposto le loro firme alla presente Convenzione. Fatto a Londra il primo novembre millenovecentosettantaquattro. (Si omettono le firme)
 
-Campo d’applicazione il 7 settembre 2021**[^t-2]**
+Campo d’applicazione il 7 settembre 2021[^t-2]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
@@ -390,4 +384,4 @@ Campo d’applicazione il 7 settembre 2021**[^t-2]**
 <tr><td colspan="8"><sup>d</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
