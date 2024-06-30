@@ -4,13 +4,12 @@ number: "122.200"
 title: Gesetz über die Register und das Meldewesen
 short: "Register- und Meldegesetz, RMG"
 language: de
-version: 2024-05-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-28
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2008-11-18
 in_force: 2009-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3411/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3439/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3411/pdf_file"
 
 (Register- und Meldegesetz, RMG)
 
-Vom 18.11.2008 (Stand 01.05.2024)
+Vom 18.11.2008 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -300,7 +299,7 @@ beschliesst:
 
 <sup>3</sup> Allfällige Datensperren in den kommunalen Einwohnerregistern gelten auch für das kantonale Einwohnerregister.
 
-<sup>4</sup> Der Regierungsrat regelt durch Verordnung den Bezug von Gebühren durch das zuständige Departement. Die maximale Gebühr für eine Einzelauskunft beträgt Fr. 20.–, für Listenauskünfte Fr. –.10 pro Person, mindestens jedoch Fr. 100.–.
+<sup>4</sup> …
 
 <sup>5</sup> Er kann die Gebühren in besonderen Fällen, wie etwa bei Listenauskünften an gemeinnützige Institutionen oder bei Bedürftigkeit, ermässigen oder erlassen.
 
