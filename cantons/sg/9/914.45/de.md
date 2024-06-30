@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "914.45"
-title: Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalter
+title: Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalterinnen und Grundbuchverwalter
 language: de
-version: 2020-06-01
-valid_until: 2024-06-30
-version_adopted: 2020-03-24
+version: 2024-07-01
+version_adopted: 2024-06-11
 adopted: 1976-03-30
 in_force: 1976-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/914.45"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2945/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalter
+# Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalterinnen und Grundbuchverwalter
 
-vom 30.03.1976 (Stand 01.06.2020)
+vom 30.03.1976 (Stand 01.07.2024)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -33,7 +32,7 @@ als Verordnung:[^ingress-2]
 
 **Wählbarkeit**
 
-<sup>1</sup> Als Grundbuchverwalter und sein Stellvertreter ist wählbar, wer:
+<sup>1</sup> Als Grundbuchverwalterin oder Grundbuchverwalter und als Grundbuchverwalter-Stellvertretung ist wählbar, wer:
 
 - a) weder vorbestraft noch aufgrund anderer Tatsachen charakterlich dauernd nicht geeignet ist;
 - b) einen gültigen st.gallischen Fähigkeitsausweis[^1-1] besitzt.
@@ -52,7 +51,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Vorbereitung, Durchführung und Bewertung der Prüfung obliegen einer Prüfungskommission.
 
-<sup>2</sup> Die Prüfungskommission besteht aus drei Mitgliedern, nämlich einem vom Kantonsgericht bestimmten Kantonsrichter als Präsident, dem Leiter der kantonalen Abteilung Grundbuchaufsicht als Vizepräsident und einem weiteren Mitglied. Dieses sowie mindestens zwei Ersatzmitglieder werden vom Regierungsrat gewählt.
+<sup>2</sup> Die Prüfungskommission besteht aus drei Mitgliedern, nämlich einer oder einem vom Kantonsgericht bestimmten Kantonsrichterin oder Kantonsrichter als Präsidentin oder Präsident, der Leiterin oder dem Leiter der kantonalen Abteilung Grundbuchaufsicht als Vizepräsidentin oder Vizepräsident und einem weiteren Mitglied. Dieses sowie wenigstens zwei Ersatzmitglieder werden von der Regierung gewählt.
 
 #### Art. 4
 
@@ -72,7 +71,7 @@ als Verordnung:[^ingress-2]
 
 - a) handlungsfähig und weder vorbestraft noch aufgrund anderer Tatsachen charakterlich dauernd nicht geeignet ist;
 - b) sich über den Besuch geeigneter Ausbildungskurse ausweist;
-- c) innerhalb der letzten fünf Jahre vor der Anmeldung insgesamt mindestens zwei Jahre Grundbuchtätigkeit nachweist. Die Lehrzeit wird nicht angerechnet.
+- c) innerhalb der letzten fünf Jahre vor der Anmeldung insgesamt wenigstens zwei Jahre Grundbuchtätigkeit nachweist. Die Lehrzeit wird nicht angerechnet.
 
 <sup>2</sup> Die Prüfungskommission entscheidet über die Zulassung zur Prüfung. Sie kann bei Verwendung unwahrer Angaben im Anmeldeverfahren die Zulassung verweigern oder widerrufen.
 
@@ -80,7 +79,7 @@ als Verordnung:[^ingress-2]
 
 **Prüfung**
 
-<sup>1</sup> Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. Sie wird in den Jahren mit ungerader Jahreszahl einmal durchgeführt. In den übrigen Jahren findet sie statt, wenn mindestens sechs Bewerber angemeldet sind, welche die Zulassungsbedingungen nach Art. 5 Abs. 1 dieses Erlasses erfüllen.
+<sup>1</sup> Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. Sie wird jährlich einmal durchgeführt, wenn wenigstens sechs Bewerberinnen oder Bewerber angemeldet sind, welche die Zulassungsbedingungen nach Art. 5 Abs. 1 dieses Erlasses erfüllen. Erfüllen weniger Bewerberinnen oder Bewerber die Zulassungsbedingungen, entscheidet die Prüfungskommission unter Berücksichtigung der Dringlichkeit.
 
 #### Art. 7
 
@@ -100,15 +99,15 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die schriftliche Prüfung besteht in der Bearbeitung praktischer Fälle und rechtlicher Probleme der Grundbuchführung und der Beurkundung. Sie steht unter Aufsicht eines Mitgliedes der Prüfungskommission und dauert höchstens sieben Stunden.
 
-<sup>2</sup> Über die den Kandidaten zur Verfügung stehenden Hilfsmittel entscheidet die Prüfungskommission.
+<sup>2</sup> Über die den Kandidatinnen und Kandidaten zur Verfügung stehenden Hilfsmittel entscheidet die Prüfungskommission.
 
-<sup>3</sup> Ist das Ergebnis der schriftlichen Prüfung ungenügend, so wird der Kandidat zur mündlichen Prüfung nicht zugelassen.
+<sup>3</sup> Ist das Ergebnis der schriftlichen Prüfung ungenügend, so wird die Kandidatin oder der Kandidat zur mündlichen Prüfung nicht zugelassen.
 
 #### Art. 9
 
 **Mündliche Prüfung**
 
-<sup>1</sup> Die mündliche Prüfung dauert höchstens drei Stunden. Es werden gleichzeitig nicht mehr als drei Kandidaten geprüft.
+<sup>1</sup> Die mündliche Prüfung wird von wenigstens zwei Mitgliedern der Prüfungskommission durchgeführt und dauert höchstens zwei Stunden. Es werden gleichzeitig nicht mehr als drei Kandidatinnen oder Kandidaten geprüft.
 
 #### Art. 10
 
@@ -134,11 +133,11 @@ als Verordnung:[^ingress-2]
 
 **b) Verfahren**
 
-<sup>1</sup> Das Departement des Innern entscheidet auf Antrag der Prüfungskommission über die Nichtzulassung zur mündlichen Prüfung und die Bewertung des Gesamtergebnisses. Es eröffnet den Entscheid dem Kandidaten schriftlich.
+<sup>1</sup> Das Departement des Innern entscheidet auf Antrag der Prüfungskommission über die Nichtzulassung zur mündlichen Prüfung und die Bewertung des Gesamtergebnisses. Es eröffnet den Entscheid der Kandidatin oder dem Kandidaten schriftlich.
 
-<sup>2</sup> Wird die Prüfung als knapp nicht bestanden oder nicht bestanden bewertet, kann der Kandidat innert 14 Tagen seit Eröffnung beim Departement des Innern eine schriftlich begründete Verfügung verlangen.
+<sup>2</sup> Wird die Prüfung als knapp nicht bestanden oder nicht bestanden bewertet, kann die Kandidatin oder der Kandidat innert 14 Tagen seit Eröffnung beim Departement des Innern eine schriftlich begründete Verfügung verlangen.
 
-<sup>3</sup> Die Prüfungskommission teilt dem Kandidaten den Antrag betreffend die Nichtzulassung zur mündlichen Prüfung schriftlich und denjenigen betreffend das Gesamtergebnis mündlich mit.
+<sup>3</sup> Die Prüfungskommission teilt der Kandidatin oder dem Kandidaten den Antrag betreffend die Nichtzulassung zur mündlichen Prüfung schriftlich und zwei Mitglieder der Prüfungskommission nach der mündlichen Prüfung denjenigen betreffend das Gesamtergebnis mündlich mit.
 
 #### Art. 11b
 
@@ -158,18 +157,27 @@ als Verordnung:[^ingress-2]
 
 **Erlass der Prüfung**
 
-<sup>1</sup> Das Departement des Innern kann auf Antrag der Prüfungskommission die Prüfung einem Bewerber ausnahmsweise ganz oder teilweise erlassen, wenn seine Befähigung aufgrund seiner Ausbildung und Berufstätigkeit feststeht.
+<sup>1</sup> Das Departement des Innern kann auf Antrag der Prüfungskommission die Prüfung einer Bewerberin oder einem Bewerber ausnahmsweise ganz oder teilweise erlassen, wenn ihre oder seine Befähigung aufgrund ihrer oder seiner Ausbildung und Berufstätigkeit feststeht.
 
 #### Art. 13
 
 **Erneuerungsprüfung**
 
-<sup>1</sup> Inhaber des Fähigkeitsausweises, welche die Tätigkeit als Grundbuchverwalter oder Grundbuchverwalter-Stellvertreter ausüben wollen, weisen sich über eine bestandene Erneuerungsprüfung aus, wenn sie:
+<sup>1</sup> Inhaberinnen und Inhaber des Fähigkeitsausweises, welche die Tätigkeit als Grundbuchverwalterin oder Grundbuchverwalter oder als Grundbuchverwalter-Stellvertretung ausüben wollen, weisen sich über eine bestandene Erneuerungsprüfung aus, wenn sie:
 
 - a) die Prüfung oder die letzte Erneuerungsprüfung vor mehr als sechs Jahren bestanden haben und
 - b) während der letzten sechs Jahre keine regelmässige Grundbuchtätigkeit oder nur eine gelegentliche Stellvertretung ausgeübt haben.
 
-<sup>2</sup> Bei Erneuerungsprüfungen kann die Prüfungskommission von den in Art. 5 Abs. 1 Bst. b und c dieses Erlasses genannten Zulassungsbedingungen absehen und dem Bewerber je nach dem Stand seines beruflichen Könnens die Prüfung teilweise erlassen.
+<sup>2</sup> Bei Erneuerungsprüfungen kann die Prüfungskommission von den in Art. 5 Abs. 1 Bst. b und c dieses Erlasses genannten Zulassungsbedingungen absehen und der Bewerberin oder dem Bewerber je nach dem Stand ihres oder seines beruflichen Könnens die Prüfung teilweise erlassen.
+
+<sup>3</sup> Als regelmässige Grundbuchtätigkeit nach Abs. 1 Bst. b dieser Bestimmung gilt eine Tätigkeit im Grundbuch- und Beurkundungsbereich, die erfolgt ist:
+
+- a) bei einem Grundbuchamt, bei dem im Rahmen der letzten aufsichtsrechtlichen Prüfung dem Departement des Innern keine bedeutsamen Fehler in der Grundbuchführung nach [Art. 32](https://www.gesetzessammlung.sg.ch/data/914.13/de/art32) Abs. 2 der Verordnung über das Grundbuch[^13-1] gemeldet wurden;
+- b) in den letzten sechs Jahren im Umfang von insgesamt 120 Arbeitstagen, davon 90 Arbeitstage unmittelbar vor der Übernahme der Grundbuchtätigkeit.
+
+<sup>4</sup> Die Anforderungen an die regelmässige Grundbuchtätigkeit werden für Grundbuchverwalter-Stellvertretungen auf drei Viertel der notwendigen Arbeitstage nach Abs. 3 dieser Bestimmung reduziert. Bis die Anforderungen nach Abs. 3 dieser Bestimmung erreicht sind, kann die Stellvertretung ohne Anwesenheit der leitenden Grundbuchverwalterin oder des leitenden Grundbuchverwalters höchstens einen Monat ausgeübt werden.
+
+[^13-1]: sGS [914.13](https://www.gesetzessammlung.sg.ch/data/914.13/de).
 
 #### Art. 14
 
@@ -179,7 +187,7 @@ als Verordnung:[^ingress-2]
 
 - a) Verlust der Handlungsfähigkeit;
 - b) gerichtliche oder disziplinarische Amtsenthebung;
-- c) schriftliche Verzichterklärung des Inhabers gegenüber dem Departement des Innern.
+- c) schriftliche Verzichterklärung der Inhaberin oder des Inhabers gegenüber dem Departement des Innern.
 
 #### Art. 15
 
@@ -191,13 +199,13 @@ als Verordnung:[^ingress-2]
 - b) wegen fruchtloser Pfändung oder Konkurses,
 - c) aus anderen wichtigen Gründen.
 
-<sup>2</sup> Den Grundbuchverwaltern und Grundbuchverwalter-Stellvertretern sowie dem Personal der Grundbuchämter sind der Missbrauch von Amtskenntnissen, der Handel mit und die Vermittlung von Grundstücken und Rechten an Grundstücken im eigenen und im vertretenen Grundbuchkreis untersagt. Bei Widerhandlung kann der Fähigkeitsausweis entzogen werden.
+<sup>2</sup> Den Grundbuchverwalterinnen oder den Grundbuchverwaltern und Grundbuchverwalter-Stellvertretung sowie dem Personal der Grundbuchämter sind der Missbrauch von Amtskenntnissen, der Handel mit und die Vermittlung von Grundstücken und Rechten an Grundstücken im eigenen und im vertretenen Grundbuchkreis untersagt. Bei Widerhandlung kann der Fähigkeitsausweis entzogen werden.
 
 #### Art. 16
 
 **Berufsbezeichnung**
 
-<sup>1</sup> Die Verwendung der Bezeichnung «Grundbuchverwalter» für Geschäftszwecke ist unzulässig. Nicht unter das Verbot fallen Hinweise auf den Fähigkeitsausweis oder eine frühere Tätigkeit als Grundbuchverwalter.
+<sup>1</sup> Die Verwendung der Bezeichnung «Grundbuchverwalterin» oder «Grundbuchverwalter» für Geschäftszwecke ist unzulässig. Nicht unter das Verbot fallen Hinweise auf den Fähigkeitsausweis oder eine frühere Tätigkeit als Grundbuchverwalterin oder Grundbuchverwalter.
 
 #### Art. 17
 
