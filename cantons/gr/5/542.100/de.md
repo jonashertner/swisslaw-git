@@ -4,13 +4,13 @@ number: "542.100"
 title: Gesetz über die Krankenversicherung und die Prämienverbilligung
 short: KPVG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-13
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3345/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3345/pdf_file"
 
 (KPVG)
 
-Vom 26.11.1995 (Stand 01.01.2024)
+Vom 26.11.1995 (Stand 01.07.2024)
 
 Gestützt auf Art. 97 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^ingress-1]
 
@@ -315,14 +315,15 @@ vom Volke angenommen am 26. November 1995[^ingress-2]
 
 #### Art. 19e
 
-**Beschränkung der Zulassung von Ärztinnen und Ärzten**
+**Beschränkung der Zulassung von Leistungserbringerinnen und Leistungserbringern**
 
-<sup>1</sup> Die Regierung ist für die Beschränkung der Anzahl Ärztinnen und Ärzte gemäss Artikel 55a KVG[^19e-1] und der Verordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich[^19e-2] zuständig.
+<sup>1</sup> Die Regierung ist für die Beschränkung der Anzahl Leistungserbringerinnen und Leistungserbringer gemäss Artikel 55a f. KVG[^19e-1] und der Verordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich[^19e-2] zuständig.
 
 <sup>2</sup> Sie kann:
 
 - a) in medizinischen Fachgebieten, die nicht zur Grundversorgung gehören, Höchstzahlen für die Zulassung von Ärztinnen und Ärzten festlegen;
-- b) in medizinischen Fachgebieten mit einem überdurchschnittlichen Kostenwachstum nach Artikel 55a Absatz 6 KVG die Erteilung von Zulassungen an Ärztinnen und Ärzten des betroffenen Fachgebiets sistieren.
+- b) in medizinischen Fachgebieten mit einem überdurchschnittlichen Kostenwachstum nach Artikel 55a Absatz 6 KVG die Erteilung von Zulassungen an Ärztinnen und Ärzten des betroffenen Fachgebiets sistieren;
+- c) im Fall eines überdurchschnittlichen Anstiegs der jährlichen Kosten für die Pflegeleistungen nach Artikel 55b KVG die Erteilung von Zulassungen an Leistungserbringerinnen und Leistungserbringer nach Artikel 35 Absatz 2 Litera d<sup>bis</sup> KVG sistieren.
 
 <sup>3</sup> Vor der Festlegung der Höchstzahlen hört die Regierung die Verbände der Leistungserbringer, der Versicherer und der Versicherten sowie die betroffenen Gemeinden und Gesundheitsversorgungsregionen an.
 

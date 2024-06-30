@@ -4,13 +4,13 @@ number: "542.100"
 title: "Lescha davart l'assicuranza da malsauns e la reducziun da las premias"
 short: LARP
 language: rm
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-13
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3345/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3345/pdf_file"
 
 (LARP)
 
-dals 26-11-1995 (versiun dals 01-01-2024)
+dals 26-11-1995 (versiun dals 01-07-2024)
 
 sa basond sin l'art. 97 da la lescha federala davart l'assicuranza da malsauns dals 18 da mars 1994[^ingress-1]
 
@@ -315,14 +315,15 @@ acceptada dal pievel ils 26 da november 1995[^ingress-2]
 
 #### Art. 19e
 
-**Limitaziun da l'admissiun da medias e medis**
+**Limitaziun da l'admissiun da furniturs da prestaziuns**
 
-<sup>1</sup> La Regenza è cumpetenta per limitar il dumber da medias e medis tenor l'artitgel 55a LAMal[^19e-1] e tenor l'Ordinaziun davart la determinaziun dals dumbers maximals da medis en il sectur ambulant[^19e-2].
+<sup>1</sup> La Regenza è cumpetenta per limitar il dumber da furniturs da prestaziuns tenor l'artitgel 55a s. LAMal[^19e-1] e tenor l'Ordinaziun davart la determinaziun dals dumbers maximals da medis en il sectur ambulant[^19e-2].
 
 <sup>2</sup> Ella po:
 
 - a) fixar dumbers maximals per l'admissiun da medias e medis en secturs medicinals spezials che na tutgan betg tar il provediment da basa;
-- b) sistir la concessiun d'admissiuns da medias e medis tenor l'artitgel 55a alinea 6 LAMal en secturs medicinals spezials che han in augment dals custs sur la media.
+- b) sistir la concessiun d'admissiuns da medias e medis tenor l'artitgel 55a alinea 6 LAMal en secturs medicinals spezials che han in augment dals custs sur la media;
+- c) sistir la concessiun d'admissiuns da furniturs da prestaziuns tenor l'artitgel 35 alinea 2 litera d<sup>bis</sup> LAMal, en cas ch'ils custs annuals per las prestaziuns da tgira tenor l'artitgel 55b LAMal s'augmentan sur la media.
 
 <sup>3</sup> Avant che fixar ils dumbers maximals taidla la Regenza las federaziuns dals furniturs da prestaziuns, dals assicuraders e da las persunas assicuradas sco er las vischnancas e las regiuns da provediment da la sanadad pertutgadas.
 

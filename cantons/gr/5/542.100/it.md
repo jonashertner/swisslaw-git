@@ -4,13 +4,13 @@ number: "542.100"
 title: "Legge sull'assicurazione malattie e la riduzione dei premi"
 short: LAMRP
 language: it
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-13
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-14
 adopted: 1995-11-26
 in_force: 1996-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/542.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3345/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3444/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3345/pdf_file"
 
 (LAMRP)
 
-del 26.11.1995 (stato 01.01.2024)
+del 26.11.1995 (stato 01.07.2024)
 
 accettata dal Popolo il 26 novembre 1995[^ingress-1]
 
@@ -315,14 +315,15 @@ in base all'art. 97 della legge federale sull'assicurazione malattie del 18 marz
 
 #### Art. 19e
 
-**Limitazione dell'autorizzazione di medici**
+**Limitazione dell'autorizzazione di fornitori di prestazioni**
 
-<sup>1</sup> Il Governo è competente per la limitazione del numero di medici conformemente all'articolo 55a LAMal[^19e-1] e all'ordinanza sulla determinazione di numeri massimi di medici nel settore ambulatoriale[^19e-2].
+<sup>1</sup> Il Governo è competente per la limitazione del numero di fornitori di prestazioni conformemente all'articolo 55a seg. LAMal[^19e-1] e all'ordinanza sulla determinazione di numeri massimi di medici nel settore ambulatoriale[^19e-2].
 
 <sup>2</sup> Esso può:
 
 - a) determinare numeri massimi per l'autorizzazione di medici in campi di specializzazione medica che non rientrano nell'assistenza di base;
-- b) sospendere il rilascio di autorizzazioni a medici dei campi di specializzazione medica che presentano un aumento dei costi al di sopra della media ai sensi dell'articolo 55a capoverso 6 LAMal.
+- b) sospendere il rilascio di autorizzazioni a medici dei campi di specializzazione medica che presentano un aumento dei costi al di sopra della media ai sensi dell'articolo 55a capoverso 6 LAMal;
+- c) sospendere il rilascio di autorizzazioni a fornitori di prestazioni secondo l'articolo 35 capoverso 2 lettera d<sup>bis</sup> LAMal in caso di un aumento straordinario dei costi annui per le prestazioni di cura secondo l'articolo 55b LAMal.
 
 <sup>3</sup> Prima di determinare i numeri massimi, il Governo sente le associazioni dei fornitori di prestazioni, degli assicuratori e degli assicurati nonché i comuni e le regioni di assistenza sanitaria interessati.
 
