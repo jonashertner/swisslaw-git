@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)
 short: LCdF
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/fr"
 
 (LCdF[^t-1])
 
-du 20 décembre 1957 (État le 1<sup>er</sup> septembre 2023)
+du 20 décembre 1957 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -78,9 +78,23 @@ Les entreprises ferroviaires sont des entreprises qui:
 
 #### Art. 4
 
-[^4-1]
+**Système de gestion de la sécurité**[^4-1]
 
-[^4-1]: Abrogé par l’annexe ch. 18 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+<sup>1</sup> Quiconque veut construire ou exploiter une infrastructure ferroviaire ou effectuer des transports ferroviaires doit disposer d’un système de gestion de la sécurité.
+
+<sup>2</sup> Le système de gestion de la sécurité doit être apte à garantir la sécurité de la construction et de l’exploitation de l’infrastructure ainsi que le déroulement du transport ferroviaire.
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 4a
+
+**Tronçons frontaliers et lignes en zone frontalière**[^4a-1]
+
+<sup>1</sup> L’Office fédéral des transports (OFT) peut, sur les tronçons qui vont du dernier point d’exploitation en Suisse au premier point d’exploitation dans le pays voisin (tronçons frontaliers), autoriser l’application des prescriptions techniques et d’exploitation en vigueur dans les pays limitrophes.
+
+<sup>2</sup> Sur les tronçons frontaliers et sur les lignes en zone frontalière qui y sont raccordées, il peut reconnaître des agréments et certificats de sécurité étrangers.
+
+[^4a-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ## Chapitre 2 Entreprises ferroviaires
 
@@ -113,7 +127,7 @@ Les entreprises ferroviaires sont des entreprises qui:
 [^5-2]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^5-3]: Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^5-4]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
-[^5-5]: Introduit par l’annexe 7 ch. II 5 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^5-5]: Introduit par l’annexe 7 ch. II 5 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 6
 
@@ -157,11 +171,12 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 <sup>1</sup> À la demande du concessionnaire, le DETEC peut transférer la concession à une autre entreprise.[^7-3] Les cantons intéressés sont consultés au préalable.
 
-<sup>2</sup> S’il est prévu de ne transférer que certains droits ou obligations fondés par la loi ou la concession, le concessionnaire transmet à l’Office fédéral des transports (OFT) pour information les contrats d’exploitation conclus à cet effet. Le concessionnaire continue de répondre envers la Confédération de l’exécution des obligations prévues par la loi et la concession.
+<sup>2</sup> S’il est prévu de ne transférer que certains droits ou obligations fondés sur la loi ou la concession, le concessionnaire transmet à l’OFT pour information les contrats d’exploitation conclus à cet effet.[^7-4] Le concessionnaire continue de répondre envers la Confédération de l’exécution des obligations prévues par la loi et la concession.
 
 [^7-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^7-2]: Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^7-3]: Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^7-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8
 
@@ -192,14 +207,13 @@ La concession s’éteint dans les cas suivants:
 
 **Octroi et renouvellement de l’agrément de sécurité**[^8a-1]
 
-<sup>1</sup> L’OFT est compétent pour l’octroi de l’agrément de sécurité.
+<sup>1</sup> L’OFT octroie l’agrément de sécurité si le gestionnaire d’infrastructure dispose d’un système de gestion de la sécurité.
 
-<sup>2</sup> L’agrément de sécurité comprend l’homologation du système de gestion de sécurité établi par le gestionnaire de l’infrastructure et celle des mesures que ce dernier a prises pour garantir la sécurité de l’exploitation de ses lignes.[^8a-2]
+<sup>2</sup> L’agrément de sécurité est octroyé pour cinq ans au maximum. Il peut être renouvelé.
 
-<sup>3</sup> Il est octroyé pour cinq ans au plus et peut être renouvelé.
+<sup>3</sup> L’OFT peut convenir avec les autorités compétentes des pays voisins de collaborer dans le domaine de l’octroi de l’agrément de sécurité pour les infrastructures transfrontalières.
 
-[^8a-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^8a-2]: Erratum de la CdR de l’Ass. féd. du 13 nov. 2013, publié le 14 janv. 2014 ([RO 2014 157](https://fedlex.data.admin.ch/eli/oc/2014/20)).
+[^8a-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8b
 
@@ -216,15 +230,15 @@ L’OFT retire l’agrément de sécurité en tout temps, sans indemnisation, en
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^chap2-sec2-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 8c
 
 **Autorisation d’accès au réseau et certificat de sécurité**[^8c-1]
 
-<sup>1</sup> Quiconque veut effectuer un transport ferroviaire doit être en possession d’une licence en tant qu’entreprise de transport ferroviaire (autorisation d’accès au réseau) et d’un certificat de sécurité. Le Conseil fédéral peut prévoir des dérogations pour les entreprises qui opèrent sur le plan régional.
+<sup>1</sup> Quiconque veut effectuer des transports ferroviaires doit être en possession d’une licence d’entreprise de transport ferroviaire (autorisation d’accès au réseau) et d’un certificat de sécurité. Le Conseil fédéral peut prévoir des dérogations pour les transports ferroviaires strictement locaux ainsi que pour les transports sur des tronçons à voie étroite et sur des tronçons non interopérables à voie normale.[^8c-2]
 
-<sup>2</sup> Toute entreprise de transport ferroviaire est habilitée à effectuer des transports ferroviaires sur ses propres lignes et sur les lignes de tiers pour lesquelles le certificat de sécurité est valable.
+<sup>2</sup> ...[^8c-3]
 
 <sup>3</sup>
 
@@ -233,10 +247,12 @@ L’entreprise doit respecter les prescriptions légales suisses, notamment:
 - a. les prescriptions techniques et d’exploitation;
 - b. les prescriptions sur les activités déterminantes pour la sécurité.
 
-<sup>4</sup> Le droit de transporter des voyageurs régulièrement et à titre professionnel, octroyé en vertu des art. 6 à 8 de la loi du 20 mars 2009 sur le transport de voyageurs[^8c-2], est réservé.
+<sup>4</sup> Le droit de transporter des voyageurs régulièrement et à titre professionnel, octroyé en vertu des art. 6 à 8 de la loi du 20 mars 2009 sur le transport de voyageurs[^8c-4], est réservé.
 
 [^8c-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^8c-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^8c-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-3]: Abrogé par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-4]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 #### Art. 8d
 
@@ -262,21 +278,17 @@ L’OFT octroie l’autorisation d’accès au réseau lorsque l’entreprise re
 
 **Octroi et renouvellement du certificat de sécurité**[^8e-1]
 
-<sup>1</sup> L’OFT est compétent pour l’octroi du certificat de sécurité.
+<sup>1</sup> L’OFT octroie le certificat de sécurité si l’entreprise de transport ferroviaire dispose d’un système de gestion de la sécurité.
 
-<sup>2</sup>
+<sup>2</sup> Le certificat de sécurité est octroyé pour cinq ans au maximum. Il peut être renouvelé.
 
-Le certificat de sécurité comprend l’homologation du système de gestion de sécurité établi par l’entreprise de transport ferroviaire et celui des mesures que cette dernière a prises pour garantir la sécurité de l’exploitation de ses lignes. L’entreprise doit notamment prouver que:[^8e-2]
+<sup>3</sup> Le Conseil fédéral peut conclure une convention avec l’Union européenne (UE) sur la reconnaissance par la Suisse des certificats de sécurité octroyés par l’Agence de l’Union européenne pour les chemins de fer (ERA).
 
-- a. ses employés ont les qualifications nécessaires pour assurer la sécurité de l’exploitation;
-- b. le matériel roulant répond aux exigences d’une exploitation sûre.
+<sup>4</sup> L’OFT règle avec l’ERA la collaboration dans le domaine de l’octroi de certificats de sécurité.
 
-<sup>3</sup> Le certificat de sécurité est octroyé pour cinq ans au maximum. Il peut être renouvelé.
+<sup>5</sup> Il peut conclure avec les autorités compétentes des pays voisins des conventions de reconnaissance des certificats de sécurité sur les lignes en zone frontalière.
 
-<sup>4</sup> Si la reconnaissance réciproque est convenue avec d’autres États, les certificats de sécurité octroyés par ces derniers sont également valables en Suisse.
-
-[^8e-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^8e-2]: Erratum de la CdR de l’Ass. féd. du 13 nov. 2013, publié le 14 janv. 2014 ([RO 2014 157](https://fedlex.data.admin.ch/eli/oc/2014/20)).
+[^8e-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8f
 
@@ -301,7 +313,7 @@ L’OFT retire l’autorisation d’accès au réseau et le certificat de sécur
 
 <sup>1</sup> Le gestionnaire d’infrastructure autorise les entreprises de transport ferroviaire à accéder sans discrimination à son réseau.[^9a-2]
 
-<sup>2</sup> et <sup>3</sup> ...[^9a-3]
+<sup>2 et <sup>3</sup></sup> ...[^9a-3]
 
 <sup>4</sup> Toute entreprise qui souhaite effectuer un transport peut demander l’accès au réseau pour un itinéraire défini dans le temps et l’espace (sillon). Au plus tard un mois avant la mise en service, elle présente une autorisation d’accès au réseau ou mandate une entreprise de transport ferroviaire pour effectuer le transport. L’entreprise qui effectue le transport doit présenter le certificat de sécurité au plus tard au début des courses.[^9a-4]
 
@@ -700,23 +712,32 @@ L’OFT a le droit d’annuler les décisions et les dispositions prises par les
 
 #### Art. 14a
 
-**Obligation d’annoncer et de collaborer**[^14a-1]
+**Obligation de collaborer**[^14a-1]
 
-<sup>1</sup> Les entreprises ferroviaires annoncent immédiatement à l’OFT tout accident ou incident grave survenu dans l’exploitation des chemins de fer.
+<sup>1</sup> Les entreprises ferroviaires et les organismes chargés de la maintenance des véhicules fournissent sur demande à l’OFT les renseignements et les documents dont ce dernier a besoin dans le cadre de son activité de surveillance. Ils lui donnent également libre accès aux installations ferroviaires, aux véhicules ainsi qu’aux autres installations pertinentes pour l’exploitation et la maintenance de l’infrastructure et des véhicules, et le soutiennent gratuitement dans ses activités de vérification et de contrôle.
 
-<sup>2</sup> Elles fournissent en tout temps à l’OFT tous les renseignements et tous les documents dont il a besoin. Elles lui donnent également libre accès à toutes les installations ferroviaires et à tous les véhicules et le soutiennent gratuitement dans ses activités de vérification et de contrôle.
+<sup>2</sup> Les entreprises de transport ferroviaire ont les mêmes obligations à l’égard de l’ERA dans le cadre de l’octroi du certificat de sécurité.
 
-[^14a-1]: Introduit par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^14a-1]: Introduit par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15
 
-**Enquête sur les accidents et les incidents graves**[^15-1]
+**Déclaration et enquête sur les accidents et les incidents graves**[^15-1]
 
-<sup>1</sup> Une enquête est ouverte pour élucider les circonstances, le déroulement et les causes de tout accident ou incident grave survenu dans l’exploitation des chemins de fer.
+<sup>1</sup>
 
-<sup>2</sup> L’enquête vise à prévenir les accidents analogues. Elle n’a pas pour but d’établir une faute ou une responsabilité.
+Les entreprises ferroviaires déclarent aux autorités suivantes les accidents ou incidents graves survenus dans l’exploitation des chemins de fer:
 
-[^15-1]: Nouvelle teneur selon l’annexe de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+- a. au Service suisse d’enquête de sécurité (SESE): immédiatement;
+- b. à l’OFT: dans un délai de 30 jours.
+
+<sup>2</sup> Le SESE mène une enquête sur les circonstances, le déroulement et les causes des accidents ou incidents graves survenus dans l’exploitation des chemins de fer.
+
+<sup>3</sup> L’enquête vise à prévenir les accidents analogues. Elle n’a pas pour but d’établir une faute ou une responsabilité.
+
+<sup>4</sup> Les intéressés et les personnes qui peuvent contribuer à élucider les causes d’un accident ou d’un incident grave fournissent au SESE les renseignements et les documents nécessaires. Ils lui donnent également libre accès au lieu de l’accident, aux installations ferroviaires et aux véhicules concernés ainsi qu’aux autres installations pertinentes pour l’exploitation et la maintenance de l’infrastructure et des véhicules, et le soutiennent gratuitement dans ses activités d’enquête.
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15a
 
@@ -726,23 +747,30 @@ L’OFT a le droit d’annuler les décisions et les dispositions prises par les
 
 <sup>2</sup> La commission se compose de trois à cinq experts indépendants.
 
-<sup>3</sup> Elle est indépendante des autorités administratives et possède son propre secrétariat. Elle est rattachée administrativement au DETEC.
+<sup>3</sup> Elle est indépendante des autorités administratives et possède son propre bureau d’enquête.[^15a-3] Elle est rattachée administrativement au DETEC.
 
-<sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 25 de la loi fédérale du 21 décembre 1948 sur l’aviation[^15a-3].
+<sup>3bis</sup> Elle peut conclure avec des services d’enquête étrangers des conventions relatives à des enquêtes sur des accidents ou des incidents graves.[^15a-4]
+
+<sup>3ter</sup> Le bureau d’enquête peut aussi, dans des cas particuliers et sur demande d’une autorité étrangère, collaborer à des enquêtes sur des accidents ou des incidents graves survenus à l’étranger.[^15a-5]
+
+<sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 25 de la loi fédérale du 21 décembre 1948 sur l’aviation[^15a-6].
 
 [^15a-1]: Introduit par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^15a-3]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^15a-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-4]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-5]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-6]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 15b
 
 **Procédure de la commission d’enquête**[^15b-1]
 
-<sup>1</sup> La commission établit un rapport pour chaque enquête. Ce rapport ne constitue pas une décision et ne peut faire l’objet d’un recours.
+<sup>1</sup> La commission d’enquête établit un rapport pour chaque enquête.[^15b-2] Ce rapport ne constitue pas une décision et ne peut faire l’objet d’un recours.
 
 <sup>2</sup>
 
-Afin d’élucider les faits, le secrétariat peut ordonner les mesures suivantes:
+Afin d’élucider les faits, le bureau d’enquête peut ordonner les mesures suivantes:[^15b-3]
 
 - a. citation à comparaître de toute personne susceptible de fournir des renseignements utiles;
 - b. perquisition de locaux, perquisition de documents et d’enregistrements et fouille de personnes et d’objets;
@@ -752,16 +780,20 @@ Afin d’élucider les faits, le secrétariat peut ordonner les mesures suivante
 - f. exploitation des données recueillies par des appareils d’enregistrement;
 - g. réalisation d’expertises.
 
-<sup>3</sup> S’il porte atteinte à des droits ou à des obligations, le secrétariat rend une décision. Sous réserve de dispositions contraires de la présente loi, la loi fédérale du 20 décembre 1968 sur la procédure administrative[^15b-2] est applicable.
+<sup>3</sup> S’il porte atteinte à des droits ou à des obligations, il rend une décision.[^15b-4] Sous réserve de dispositions contraires de la présente loi, la loi fédérale du 20 décembre 1968 sur la procédure administrative[^15b-5] est applicable.
 
-<sup>4</sup> Les décisions rendues par le secrétariat dans le cadre de l’enquête peuvent faire l’objet d’une opposition devant la commission dans les dix jours.
+<sup>4</sup> Les décisions rendues par le bureau d’enquête dans le cadre de l’enquête peuvent faire l’objet d’une opposition devant la commission dans les dix jours.[^15b-6]
 
 <sup>5</sup> La commission gère un système d’assurance qualité. Elle veille en particulier à ce que les dépositions de toutes les personnes impliquées soient dûment prises en compte.
 
 <sup>6</sup> Le Conseil fédéral règle la procédure, en particulier en ce qui concerne les mesures de coercition et la publication des rapports.
 
 [^15b-1]: Introduit par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^15b-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15c
 
@@ -779,6 +811,13 @@ Afin d’élucider les faits, le secrétariat peut ordonner les mesures suivante
 
 <sup>1</sup> Dans le cadre de ses activités de surveillance, l’OFT est habilité à collecter les données nécessaires auprès des entreprises ferroviaires et à les traiter. Les entreprises ferroviaires doivent fournir les indications nécessaires à la statistique officielle des transports.[^16-2]
 
+<sup>1bis</sup>
+
+L’OFT peut traiter les données sensibles suivantes, dans la mesure où cela est nécessaire à la sécurité de l’infrastructure, en particulier à sa construction et à son exploitation:
+
+- a. les données relatives à la santé;
+- b. les données relatives aux poursuites et sanctions administratives et pénales.[^16-3]
+
 <sup>2</sup> Il peut collecter auprès des personnes concernées les données servant à l’établissement d’un permis et les traiter.
 
 <sup>3</sup> À des fins de planification des transports, l’OFT peut aussi exiger des entreprises ferroviaires qu’elles collectent et présentent des données relatives aux tronçons. Il peut publier ces données dans la mesure où cette publication est nécessaire pour atteindre les objectifs fixés et répond à un intérêt public majeur.
@@ -794,16 +833,17 @@ Après avoir procédé à un examen fondé sur le principe de la proportionnalit
 
 [^16-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^16-2]: Phrase introduite par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^16-3]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 16a
 
-**Traitement de données par les concessionnaires**[^16a-1]
+**Traitement des données par les gestionnaires d’infrastructure**[^16a-1]
 
-<sup>1</sup> Pour leurs activités relevant de la concession et de l’autorisation, les entreprises sont soumises aux art. 33 à 42 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^16a-2]. Si elles agissent selon le droit privé, elles sont assujetties aux art. 30 à 32 LPD.
+<sup>1</sup> Lorsqu’ils traitent des données personnelles, les gestionnaires d’infrastructure sont soumis aux art. 33 à 42 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^16a-2]. S’ils agissent en vertu du droit privé, ils sont soumis aux art. 30 à 32 LPD.
 
-<sup>2</sup> Elles peuvent traiter des données personnelles, y compris des données sensibles, si cela est nécessaire à la sécurité de l’infrastructure, en particulier sa construction et son exploitation. Il en va de même des tiers qui assurent des tâches incombant au concessionnaire. Ce dernier répond du respect de la législation sur la protection des données.
+<sup>2</sup> Ils peuvent traiter des données personnelles, y compris les données sensibles visées à l’art. 16, al. 1<sup>bis</sup>, dans la mesure où cela est nécessaire à la sécurité de l’infrastructure, en particulier à sa construction et à son exploitation. Cette disposition est également applicable aux tiers qui accomplissent les tâches des gestionnaires d’infrastructure. Ces derniers restent responsables du respect des prescriptions relatives à la protection des données.
 
-[^16a-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nouvelle teneur selon l’annexe 1 ch. II 61 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16a-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^16a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 16b
@@ -855,38 +895,43 @@ Après avoir procédé à un examen fondé sur le principe de la proportionnalit
 
 #### Art. 17a
 
-**Répertoire des véhicules admis**[^17a-1]
+**Registre[^17a-2] des véhicules admis**[^17a-1]
 
-<sup>1</sup> L’OFT tient un répertoire de tous les véhicules admis en Suisse selon la présente loi.
+<sup>1</sup> L’OFT tient un registre de tous les véhicules admis en Suisse selon la présente loi, dans la mesure où ceux-ci ne sont pas inscrits à un registre des véhicules de l’UE.[^17a-3]
 
-<sup>2</sup> Les détenteurs d’une autorisation d’exploiter sont tenus de déclarer leurs véhicules à l’OFT afin qu’ils soient inscrits au répertoire.
+<sup>2</sup> Les détenteurs d’une autorisation d’exploiter sont tenus de déclarer leurs véhicules à l’OFT afin qu’ils soient inscrits au registre.
 
-<sup>3</sup> Le répertoire est accessible à toutes les autorités compétentes en matière de sécurité et à tous les services d’enquête en cas d’accident, suisses et étrangers, ainsi qu’à toute personne qui y a un intérêt légitime.
+<sup>3</sup> Le registre est accessible à toutes les autorités compétentes en matière de sécurité et à tous les services d’enquête en cas d’accident, suisses et étrangers, ainsi qu’à toute personne qui y a un intérêt légitime.
 
 <sup>4</sup>
 
 Le Conseil fédéral règle:
 
 - a. le marquage des véhicules;
-- b. les modalités de l’accès au répertoire;
-- c. les données du répertoire accessibles au public.
+- b. les modalités de l’accès au registre;
+- c. les données du registre accessibles au public.
 
 <sup>5</sup>
 
 Il peut:
 
-- a. transférer la tenue du répertoire à des tiers;
-- b. désigner des catégories de véhicules qui ne doivent pas être inscrites au répertoire.
+- a. transférer la tenue du registre à des tiers;
+- b. désigner des catégories de véhicules qui ne doivent pas être inscrites au registre.
+
+<sup>6</sup> Il peut convenir avec l’UE d’enregistrer les véhicules admis en Suisse dans les registres de véhicules de l’UE.[^17a-4]
 
 [^17a-1]: Introduit par le ch. I 1 de la LF du 19 déc. 2008 sur les mod. du droit des transports ([RO 2009 5973](https://fedlex.data.admin.ch/eli/oc/2009/731); [FF 2007 4147](https://fedlex.data.admin.ch/eli/fga/2007/648)). Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^17a-2]: Nouvelle expression selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)). Il a été tenu compte de cette mod. dans tout le texte.
+[^17a-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^17a-4]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 17b
 
 **Maintenance des véhicules**[^17b-1]
 
-<sup>1</sup> Est responsable de la maintenance d’un véhicule la personne inscrite à ce titre au répertoire des véhicules admis en Suisse.
+<sup>1</sup> Est responsable de la maintenance d’un véhicule la personne inscrite à ce titre au registre des véhicules admis en Suisse.
 
-<sup>2</sup> En l’absence de l’inscription du véhicule ou du responsable de la maintenance dans le répertoire, la responsabilité de la maintenance incombe au détenteur de l’autorisation d’exploiter, et à titre subsidiaire à la personne qui détient le pouvoir effectif de disposer du véhicule.
+<sup>2</sup> En l’absence de l’inscription du véhicule ou du responsable de la maintenance dans le registre, la responsabilité de la maintenance incombe au détenteur de l’autorisation d’exploiter, et à titre subsidiaire à la personne qui détient le pouvoir effectif de disposer du véhicule.
 
 <sup>3</sup> Le Conseil fédéral peut fixer des exigences auxquelles doivent satisfaire les personnes responsables ou chargées de la maintenance.
 
@@ -896,11 +941,13 @@ Il peut:
 
 **Évaluation des aspects déterminants pour la sécurité**[^17c-1]
 
-<sup>1</sup> Lors de la procédure d’autorisation, l’OFT évalue les aspects déterminants pour la sécurité en fonction des risques, sur la base d’expertises de sécurité ou de vérifications ponctuelles.
+<sup>1</sup> L’OFT évalue en fonction des risques, en procédant à des vérifications ponctuelles, les aspects déterminants pour la sécurité de la construction et de l’exploitation des installations ferroviaires et des véhicules.
 
-<sup>2</sup> L’OFT indique au requérant quelles expertises de sécurité il doit présenter.
+<sup>2</sup> Lors des procédures d’autorisation, il évalue ces aspects sur la base du dossier de sécurité. Il indique à l’entreprise requérante quelles expertises elle doit présenter dans le cadre des procédures d’autorisation afin d’établir le dossier de sécurité.
 
-[^17c-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>3</sup> Il peut échanger les données nécessaires à l’évaluation et les résultats de l’évaluation avec l’ERA, les autres autorités compétentes en matière de sécurité, les entreprises ferroviaires, les détenteurs et les personnes chargées de la maintenance.
+
+[^17c-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### Section 2 Procédure d’approbation des plans
 
@@ -1257,17 +1304,39 @@ Les mesures suivantes peuvent être prises lors de la procédure de remembrement
 
 [^chap4-sec7-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
+#### Art. 18v<sup>bis</sup>
+
+**Dossier de sécurité**[^18vbis-1]
+
+Quiconque veut exploiter une installation ferroviaire ou un véhicule doit en prouver la sécurité.
+
+[^18vbis-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 18w
 
-**Autorisation d’exploiter**[^18w-1]
+**Autorisation d’exploiter pour les installations ferroviaires**[^18w-1]
 
-<sup>1</sup> Une autorisation est nécessaire pour exploiter les installations ferroviaires et les véhicules. L’OFT peut prévoir des dérogations.
+<sup>1</sup> Une autorisation d’exploiter de l’OFT est nécessaire pour les installations ferroviaires ayant été modifiées significativement.
 
-<sup>2</sup> L’OFT octroie l’autorisation d’exploiter lorsque l’entreprise requérante a fourni le dossier de sécurité et que le projet répond aux exigences.
+<sup>2</sup> Une autorisation d’exploiter est nécessaire pour les installations ferroviaires nouvelles, réaménagées ou renouvelées, si l’OFT l’exige.
 
-<sup>3</sup> Il peut procéder à d’autres vérifications. L’entreprise ferroviaire met gratuitement à sa disposition le personnel et le matériel nécessaires, ainsi que les documents indispensables; elle fournit aussi les renseignements nécessaires.
+<sup>3</sup> L’OFT octroie l’autorisation d’exploiter lorsque l’entreprise requérante a fourni le dossier de sécurité et que l’installation ferroviaire répond aux prescriptions déterminantes.
 
-[^18w-1]: Introduit par le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+<sup>4</sup> Il peut procéder à des vérifications supplémentaires. À cet effet, l’entreprise requérante met gratuitement à sa disposition le personnel et le matériel dont il a besoin ainsi que les documents requis; elle lui fournit aussi les renseignements nécessaires.
+
+[^18w-1]: Introduit par le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 18w<sup>bis</sup>
+
+**Autorisation d’exploiter pour véhicules**[^18wbis-1]
+
+<sup>1</sup> Une autorisation d’exploiter de l’OFT est nécessaire pour les véhicules nouveaux ou ayant été modifiés de manière essentielle.
+
+<sup>2</sup> L’OFT octroie l’autorisation d’exploiter lorsque l’entreprise requérante a fourni le dossier de sécurité et que le véhicule répond aux prescriptions déterminantes.
+
+<sup>3</sup> Il peut procéder à des vérifications supplémentaires. À cet effet, l’entreprise requérante met gratuitement à sa disposition le personnel et le matériel dont il a besoin ainsi que les documents requis; elle lui fournit aussi les renseignements nécessaires.
+
+[^18wbis-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1er juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 18x
 
@@ -1360,47 +1429,103 @@ Les chemins de fer à voie normale doivent, aux termes des dispositions de la pr
 
 #### Art. 23c
 
-**Sous-systèmes**[^23c-1]
+**Autorisation d’exploiter pour installations ferroviaires**[^23c-1]
 
-<sup>1</sup> Une entreprise de transport ferroviaire ne peut mettre en service des sous-systèmes destinés à être utilisés sous le régime de l’interopérabilité que si l’OFT lui a octroyé une autorisation d’exploiter.
+<sup>1</sup> Une autorisation d’exploiter de l’OFT est nécessaire pour les installations ferroviaires nouvelles ou ayant été modifiées significativement.
 
-<sup>2</sup> L’OFT octroie l’autorisation d’exploiter lorsque l’entreprise a fourni l’attestation de sécurité et que le sous-système, y compris ses interfaces, répond aux exigences essentielles, aux dispositions d’exécution techniques et aux autres prescriptions déterminantes.
+<sup>2</sup> Une autorisation d’exploiter est nécessaire pour les installations ferroviaires réaménagées ou renouvelées, si l’OFT l’exige.
 
-<sup>3</sup> Il peut procéder à d’autres vérifications. Pour ce faire, l’entreprise met gratuitement à disposition le personnel, le matériel et les documents nécessaires et fournit les informations requises.
+<sup>3</sup> L’OFT octroie l’autorisation d’exploiter lorsque l’entreprise requérante a fourni le dossier de sécurité et que l’installation ferroviaire ainsi que ses interfaces répondent aux exigences essentielles, aux dispositions d’exécution techniques et aux autres prescriptions déterminante.
 
-<sup>4</sup> Le Conseil fédéral définit les documents nécessaires pour attester la sécurité.
+<sup>4</sup> Il peut procéder à des vérifications supplémentaires. À cet effet, l’entreprise requérante met gratuitement à sa disposition le personnel et le matériel dont il a besoin ainsi que les documents requis; elle lui fournit aussi les renseignements nécessaires.
 
-[^23c-1]: Voir aussi la disp. trans. de la mod. du 16 mars 2012 à la fin du texte.
+<sup>5</sup> Le Conseil fédéral détermine quels documents sont requis pour prouver la sécurité.
+
+[^23c-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23c<sup>bis</sup>
+
+**Mise en circulation de véhicules**[^23cbis-1]
+
+<sup>1</sup> Les véhicules nouveaux ou ayant été modifiés de manière essentielle peuvent être mis en circulation sur l’infrastructure ferroviaire uniquement si le détenteur dispose d’une autorisation correspondante de la part de l’OFT.
+
+<sup>2</sup> L’OFT octroie l’autorisation si l’entreprise requérante a fourni le dossier de sécurité et que le véhicule ainsi que ses interfaces répondent aux exigences essentielles, aux dispositions d’exécution techniques et aux autres prescriptions déterminantes.
+
+<sup>3</sup> Il peut procéder à des vérifications supplémentaires. À cet effet, l’entreprise requérante met gratuitement à sa disposition le personnel et le matériel dont il a besoin ainsi que les documents requis; elle lui fournit aussi les renseignements nécessaires.
+
+<sup>4</sup> Le Conseil fédéral détermine quels documents sont requis pour prouver la sécurité.
+
+<sup>5</sup> Il détermine quelles autorisations octroyées par des États étrangers ou par l’ERA sont reconnues. Il peut prévoir que seule l’ERA est compétente pour les autorisations qui ne doivent pas être valables uniquement en Suisse.
+
+<sup>6</sup> L’OFT règle avec l’ERA la collaboration dans le domaine de l’octroi d’autorisations pour véhicules.
+
+<sup>7</sup> Il peut convenir avec les autorités compétentes des pays voisins de la validité d’autorisations pour la mise en circulation de véhicules sur les lignes en zone frontalière.
+
+[^23cbis-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23d
 
-**Équipement et renouvellement de sous-systèmes**
+**Réaménagement et renouvellement de sous-systèmes**[^23d-1]
 
-<sup>1</sup> Par «équipement», on entend toute modification d’un sous-système qui améliore ses performances. Par «renouvellement», on entend tout échange d’éléments d’un sous-système dont les performances restent inchangées.
+<sup>1</sup> Par réaménagement, on entend toute modification d’un sous-système qui améliore ses performances globales.
 
-<sup>2</sup> L’entreprise ne peut mettre en service un sous-système qui a fait l’objet d’un équipement que si l’OFT lui a octroyé une nouvelle autorisation d’exploiter.
+<sup>2</sup> Par renouvellement, on entend tout échange important d’éléments d’un sous-système dont les performances globales restent inchangées.
 
-<sup>3</sup> L’OFT décide de cas en cas si une nouvelle autorisation d’exploiter est nécessaire pour la mise en service d’un sous-système qui a fait l’objet d’un renouvellement.
+[^23d-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23e
 
-**Constituants d’interopérabilité**
+**Modifications**[^23e-1]
 
-<sup>1</sup> Quiconque met sur le marché un élément de construction destiné à être intégré dans un sous-système (constituant d’interopérabilité) doit pouvoir prouver que les exigences essentielles sont remplies.
+<sup>1</sup> Les sous-systèmes réaménagés ou renouvelés et les autres modifications, y compris les échanges effectués dans le cadre de travaux de maintenance, doivent satisfaire aux exigences essentielles, aux dispositions d’exécution techniques et aux autres prescriptions déterminantes. Les dérogations requièrent une autorisation de l’OFT.
 
-<sup>2</sup> Le Conseil fédéral détermine les documents qui doivent être fournis.
+<sup>2</sup> Le remplacement d’éléments de construction relevant de l’ancien droit par des éléments du même type est admis s’il s’agit d’un échange effectué dans le cadre de travaux de maintenance.
+
+<sup>3</sup> Le dossier de sécurité doit être mis à jour.
+
+[^23e-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>bis</sup>
+
+**Libre circulation de sous-systèmes mobiles**[^23ebis-1]
+
+Les véhicules ainsi que le contrôle-commande et la signalisation à bord peuvent être mis sur le marché uniquement s’ils répondent aux exigences essentielles et qu’il existe une déclaration de vérification ad hoc.
+
+[^23ebis-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>ter</sup>
+
+**Mise sur le marché de constituants d’interopérabilité**[^23eter-1]
+
+Les éléments de construction destinés à être intégrés à un sous-système (constituants d’interopérabilité) peuvent être mis sur le marché uniquement s’ils répondent aux exigences essentielles et qu’il existe une déclaration ad hoc.
+
+[^23eter-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23f
 
-**Compétences**
+**Compétences**[^23f-1]
 
-<sup>1</sup> Le Conseil fédéral fixe les exigences essentielles et les dispositions d’exécution techniques applicables aux sous-systèmes et aux constituants d’interopérabilité; ce faisant, il tient compte du droit international.
+<sup>1</sup>
 
-<sup>2</sup> En accord avec le Secrétariat d’État à l’économie, l’OFT désigne les normes techniques qui permettent de concrétiser les exigences essentielles et les dispositions d’exécution techniques. Dans la mesure du possible, ces normes sont harmonisées au niveau international.
+En tenant compte du droit international, le Conseil fédéral édicte:
 
-<sup>3</sup> L’OFT décide quelles dispositions sont applicables en complément des dispositions d’exécution techniques et détermine les dérogations à leur application, en tenant compte du droit international.
+- a. les exigences essentielles pour les sous-systèmes et les constituants d’interopérabilité;
+- b. les autres prescriptions nécessaires au maintien de l’interopérabilité avec le système ferroviaire européen.
 
-<sup>4</sup> Le Conseil fédéral peut conclure avec des États étrangers ou des institutions internationales des conventions relatives à la collaboration en matière d’élaboration et d’application des normes et des prescriptions internationales.
+<sup>2</sup> Il peut conclure avec des États étrangers ou des institutions internationales des conventions relatives à la collaboration en matière d’élaboration et d’application des normes et des prescriptions internationales.
+
+<sup>3</sup>
+
+En tenant compte du droit international, l’OFT édicte:
+
+- a. les dispositions d’exécution techniques pour les sous-systèmes et les constituants d’interopérabilité;
+- b. les dispositions qui sont applicables en complément ou en dérogation aux spécifications techniques d’interopérabilité (STI); il les notifie à la Commission européenne et lui signale les parties du système ferroviaire qui nécessitent temporairement ou durablement des mesures particulières dans les STI.
+
+<sup>4</sup> Il notifie à la Commission européenne ou à l’Organisation intergouvernementale pour les transports internationaux ferroviaires les autres dispositions concernant la sécurité et l’interopérabilité applicables en complément ou en dérogation au droit européen ou international.
+
+<sup>5</sup> Il désigne, en accord avec le Secrétariat d’État à l’économie, les normes techniques qui permettent de concrétiser les exigences essentielles et les dispositions d’exécution techniques. Dans la mesure du possible, ces normes sont harmonisées au niveau international.
+
+[^23f-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23g
 
@@ -1412,9 +1537,9 @@ Les chemins de fer à voie normale doivent, aux termes des dispositions de la pr
 
 #### Art. 23h
 
-**Mise sur le marché**
+[^23h-1]
 
-Les sous-systèmes et les constituants d’interopérabilité peuvent être mis sur le marché lorsqu’ils satisfont aux exigences essentielles.
+[^23h-1]: Abrogé par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23i
 
@@ -1430,29 +1555,39 @@ Les organes de contrôle de l’OFT peuvent:
 - b. prélever des échantillons;
 - c. effectuer ou faire effectuer des contrôles;
 - d. visiter pendant les heures de travail usuelles les locaux des personnes chargées de donner des renseignements;
-- e. exiger que les documents ou les renseignements soient rédigés dans une langue officielle.
+- e. exiger que les documents ou les renseignements soient rédigés dans une langue officielle;
+- f.[^23i-1] échanger des informations avec la Commission européenne, l’ERA et les autres autorités et organismes participant à la surveillance du marché.
 
-<sup>3</sup> L’OFT peut exiger que l’Office fédéral de la douane et de la sécurité des frontières lui fournisse, pour une durée déterminée, des informations sur l’importation de constituants d’interopérabilité désignés avec précision.[^23i-1]
+<sup>3</sup> L’OFT peut exiger que l’Office fédéral de la douane et de la sécurité des frontières lui fournisse, pour une durée déterminée, des informations sur l’importation de constituants d’interopérabilité désignés avec précision.[^23i-2]
 
-<sup>4</sup> Pour le surplus, les compétences de l’OFT sont régies par l’art. 10, al. 2 à 6, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^23i-2].
+<sup>4</sup> Pour le surplus, les compétences de l’OFT sont régies par l’art. 10, al. 2 à 6, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^23i-3].
 
-[^23i-1]: Nouvelle teneur selon le ch. I 28 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23i-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23i-2]: Nouvelle teneur selon le ch. I 28 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
 **Évaluation de la conformité**
 
-<sup>1</sup> La preuve qu’un sous-système ou un constituant d’interopérabilité répond aux exigences essentielles et aux dispositions d’exécution techniques doit être fournie au moyen d’une attestation de conformité délivrée par un service d’évaluation de la conformité.
+<sup>1</sup>
+
+La preuve qu’un sous-système ou un constituant d’interopérabilité répond aux exigences essentielles doit être fournie au moyen:
+
+- a. d’une déclaration de contrôle ou d’une déclaration de conformité ou d’aptitude à l’emploi délivrée par le fabricant ou son mandataire, et
+- b. d’une attestation de conformité délivrée par un organisme d’évaluation de la conformité ou par un organisme désigné.[^23j-1]
 
 <sup>2</sup>
 
 Les services d’évaluation de la conformité doivent:
 
 - a. soit être accrédités en Suisse et disposer d’une assurance responsabilité civile;
-- b. soit être nommés par un État membre de l’Union européenne.
+- b.[^23j-2] soit être nommés par un État membre de l’UE.
 
 <sup>3</sup> Les attestations de conformité établies par des services d’évaluation de la conformité étrangers sont reconnues lorsqu’un accord de droit international le prévoit.
+
+[^23j-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23j-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23k
 
@@ -1464,7 +1599,11 @@ Le Conseil fédéral peut instituer un service d’évaluation de la conformité
 
 **Traitement des données**
 
-L’OFT est habilité à recenser auprès des entreprises ferroviaires les données pertinentes pour l’interopérabilité, à les traiter et à les publier.
+<sup>1</sup> L’OFT est habilité à recenser auprès des entreprises ferroviaires les données pertinentes pour l’interopérabilité, à les traiter et à les publier.
+
+<sup>2</sup> Il peut échanger les données nécessaires à la sécurité de l’exploitation de véhicules interopérables avec l’ERA et les autorités compétentes en matière de sécurité de pays étrangers.[^23l-1]
+
+[^23l-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### Section 8 Croisements entre des routes publiques et des chemins de fer
 
@@ -1917,6 +2056,14 @@ Il répond des dommages causés:
 [^40b-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^40b-5]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^40b-6]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+
+#### Art. 40b<sup>bis</sup>
+
+**Assurance responsabilité civile**[^40bbis-1]
+
+Le détenteur d’une entreprise de transport ferroviaire doit conclure une assurance responsabilité civile dont le montant de couverture s’élève à au moins 100 millions de francs.
+
+[^40bbis-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 40c
 
@@ -2521,13 +2668,18 @@ L’OFT statue sur les contestations relatives à la détermination du prix d’
 
 **Examen de la capacité d’exercer une fonction déterminante pour la sécurité[^80-1]**
 
+<sup>1</sup>
+
 Le Conseil fédéral peut prescrire que:
 
 - a. les personnes qui exercent une fonction déterminante pour la sécurité dans le domaine ferroviaire doivent subir un examen d’aptitude théorique et pratique; il peut prévoir la délivrance d’un permis après la réussite à l’examen;
 - b. les personnes en formation en vue de l’exercice d’une activité mentionnée à la let. a doivent être titulaires d’un permis délivré par l’OFT;
 - c. les personnes exerçant une activité mentionnée à la let. a ou en formation dans le but d’exercer une telle activité doivent répondre à des exigences personnelles et professionnelles déterminées; le Conseil fédéral peut prévoir aussi des examens psychologiques et médicaux destinés à déterminer si les exigences personnelles sont remplies.
 
+<sup>2</sup> L’OFT peut convenir avec les autorités compétentes des pays voisins de la validité d’agréments du personnel exerçant une fonction déterminante pour la sécurité sur les lignes en zone frontalière.[^80-2]
+
 [^80-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^80-2]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 80a
 
@@ -2654,18 +2806,20 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - a. exécute ou fait exécuter un projet de construction sans l’approbation des plans prescrite par l’art. 18 ou au mépris des conditions, charges ou prescriptions résultant de ladite procédure;
 - b.[^86a-3] met ou fait mettre en exploitation une installation ou un véhicule sans posséder l’autorisation d’exploiter requise par les art. 18*w*, 23*c* ou 23*d* ou sans respecter les conditions, les charges ou les prescriptions de l’autorisation d’exploiter;
 - c. contrevient à une concession octroyée sur la base de la présente loi;
-- d. et e.[^86a-4] ...
+- d.[^86a-4] exploite ou fait exploiter une installation sans la concession d’infrastructure ou l’agrément de sécurité visés à l’art. 5 ou au mépris des obligations, conditions, charges ou prescriptions qui en résultent;
+- e.[^86a-5] exploite ou fait exploiter un véhicule sans l’autorisation d’accès au réseau ou le certificat de sécurité visés à l’art. 8*c* ou au mépris des obligations, conditions, charges ou prescriptions qui en résultent;
 - f. enregistre, conserve, utilise ou publie des signaux vidéo en violation de l’art. 16*b*;
-- g.[^86a-5] ...
+- g.[^86a-6] ...
 
-<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^86a-6]
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^86a-7]
 
 [^86a-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^86a-2]: Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^86a-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-4]: Abrogées par l’annexe ch. 2 de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-5]: Introduite par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Abrogée par l’annexe ch. 2 de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-6]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^86a-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-5]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-6]: Introduite par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Abrogée par l’annexe ch. 2 de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^86a-7]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 87
 
@@ -2889,16 +3043,27 @@ Jusqu’à fin 2018, l’apport des cantons au fonds d’infrastructure ferrovia
 
 [^96a-1]: Introduit par le ch. I 6 de la LF du 17 mars 2017 sur le programme de stabilisation 2017‑2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
+#### Art. 96b
+
+**Disposition transitoire relative à la modification du 29 septembre 2023**[^96b-1]
+
+Dans la mesure où les certificats de sécurité d’autres pays sont également valables en Suisse, ils restent valables jusqu’à leur expiration, mais au plus pendant cinq ans à compter de l’entrée en vigueur de la modification du 29 septembre 2023.
+
+[^96b-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 97
 
 **Entrée en vigueur et exécution**
 
-Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi et arrête les prescriptions d’exécution. Les cantons édictent les dispositions d’exécution requises pour les tâches que la loi leur attribue.[^97-1]
+<sup>1</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi et arrête les prescriptions d’exécution. Les cantons édictent les dispositions d’exécution requises pour les tâches que la loi leur attribue.[^97-1]
 
-Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1958[^97-2]
+<sup>2</sup> L’OFT peut édicter des dispositions d’exécution techniques et d’exploitation relatives aux prescriptions d’exécution du Conseil fédéral.[^97-2]
+
+Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1958[^97-3]
 
 [^97-1]: Phrase introduite par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [FF 1994 I 485](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441)).
-[^97-2]: ACF du 24 juin 1958
+[^97-2]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^97-3]: ACF du 24 juin 1958
 
 ## Dispositions transitoires de la modification du 24 mars 1995
 

@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 1957 sulle ferrovie (Lferr)
 short: Lferr
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/it"
 
 (Lferr)[^t-1]
 
-del 20 dicembre 1957 (Stato 1° settembre 2023)
+del 20 dicembre 1957 (Stato 1° luglio 2024)
 
 [^t-1]: Introdotta dal n. I della LF del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -78,9 +78,23 @@ Le imprese ferroviarie sono imprese che:
 
 #### Art. 4
 
-[^4-1]
+**Sistema di gestione della sicurezza**[^4-1]
 
-[^4-1]: Abrogato dall’all. n. 18 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+<sup>1</sup> Chi intende costruire o esercitare un’infrastruttura ferroviaria oppure effettuare trasporti ferroviari deve disporre di un sistema di gestione della sicurezza.
+
+<sup>2</sup> Il sistema di gestione della sicurezza deve essere idoneo a garantire la sicurezza della costruzione e dell’esercizio dell’infrastruttura nonché dei trasporti ferroviari.
+
+[^4-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 4a
+
+**Tronchi di confine e tratte in prossimità della frontiera**[^4a-1]
+
+<sup>1</sup> Sulle tratte che conducono dall’ultimo punto d’esercizio in Svizzera al primo all’estero (tronchi di confine) l’Ufficio federale dei trasporti (UFT) può consentire l’applicazione delle prescrizioni tecniche e d’esercizio vigenti nei Paesi confinanti.
+
+<sup>2</sup> Sui tronchi di confine e sulle tratte in prossimità della frontiera ad essi collegate può riconoscere le autorizzazioni di sicurezza e i certificati di sicurezza esteri.
+
+[^4a-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ## Capitolo 2: Imprese ferroviarie
 
@@ -144,8 +158,8 @@ Per il rilascio della concessione il presupposto è inoltre che:
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) è competente per:
 
-- a. le modifiche della concessione, salvo le estensioni;
-- b. il rinnovo della concessione.[^6-3]
+- le modifiche della concessione, salvo le estensioni;
+- il rinnovo della concessione.[^6-3]
 
 [^6-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^6-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
@@ -157,11 +171,12 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>1</sup> Su richiesta del titolare della concessione, il DATEC può trasferire la concessione a un’altra impresa.[^7-3] I Cantoni interessati devono essere previamente consultati.
 
-<sup>2</sup> Se sono trasferiti solo taluni diritti o obblighi legali o derivanti dalla concessione, il titolare della concessione sottopone all’Ufficio federale dei trasporti (UFT), per conoscenza, i contratti d’esercizio conclusi a tale scopo. Il titolare della concessione continua a rispondere, di fronte alla Confederazione, dell’adempimento degli obblighi legali o derivanti dalla concessione.
+<sup>2</sup> Se sono trasferiti solo taluni diritti od obblighi legali o derivanti dalla concessione, il titolare della concessione sottopone all’UFT, per conoscenza, i contratti d’esercizio conclusi a tale scopo.[^7-4] Il titolare della concessione continua a rispondere, di fronte alla Confederazione, dell’adempimento degli obblighi legali o derivanti dalla concessione.
 
 [^7-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^7-2]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^7-3]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^7-4]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8
 
@@ -192,13 +207,13 @@ La concessione si estingue:
 
 **Rilascio e rinnovo dell’autorizzazione di sicurezza**[^8a-1]
 
-<sup>1</sup> L’autorizzazione di sicurezza è rilasciata dall’UFT.
+<sup>1</sup> L’UFT rilascia l’autorizzazione di sicurezza se il gestore dell’infrastruttura dispone di un sistema di gestione della sicurezza.
 
-<sup>2</sup> L’autorizzazione di sicurezza comprende l’accettazione del sistema di gestione della sicurezza del gestore dell’infrastruttura e l’accettazione dei provvedimenti che lo stesso ha preso per garantire la sicurezza dell’esercizio sulle sue tratte.
+<sup>2</sup> L’autorizzazione di sicurezza è rilasciata per cinque anni al massimo. Può essere rinnovata.
 
-<sup>3</sup> L’autorizzazione di sicurezza è rilasciata per cinque anni al massimo; può essere rinnovata.
+<sup>3</sup> L’UFT può convenire con le competenti autorità dei Paesi confinanti di cooperare nell’ambito del rilascio delle autorizzazioni di sicurezza per le infrastrutture transfrontaliere.
 
-[^8a-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^8a-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8b
 
@@ -221,9 +236,9 @@ L’UFT ritira l’autorizzazione di sicurezza del tutto o in parte, in ogni mom
 
 **Autorizzazione di accesso alla rete e certificato di sicurezza**[^8c-1]
 
-<sup>1</sup> Chi intende effettuare trasporti ferroviari deve disporre di una licenza in quanto impresa di trasporto ferroviario (autorizzazione di accesso alla rete) e di un certificato di sicurezza. Il Consiglio federale può prevedere deroghe per le imprese attive a livello regionale.
+<sup>1</sup> Chi intende effettuare trasporti ferroviari deve disporre di una licenza in quanto impresa di trasporto ferroviario (autorizzazione di accesso alla rete) e di un certificato di sicurezza. Il Consiglio federale può prevedere deroghe per trasporti ferroviari esclusivamente locali, nonché per trasporti su tratte a scartamento ridotto e su tratte a scartamento normale non interoperabili.[^8c-2]
 
-<sup>2</sup> L’impresa di trasporto ferroviario che dispone di un certificato di sicurezza è abilitata a effettuare trasporti ferroviari su tutte le sue tratte e sulle tratte di terzi per le quali è valido il certificato di sicurezza.
+<sup>2</sup> *...* [^8c-3]
 
 <sup>3</sup>
 
@@ -232,10 +247,12 @@ L’impresa di trasporto ferroviario deve rispettare le prescrizioni legali sviz
 - a. le prescrizioni tecniche e d’esercizio;
 - b. le prescrizioni sulle attività rilevanti per la sicurezza.
 
-<sup>4</sup> È fatto salvo il diritto di trasportare regolarmente viaggiatori a titolo professionale conferito secondo gli articoli 6–8 della legge del 20 marzo 2009[^8c-2] sul trasporto di viaggiatori.
+<sup>4</sup> È fatto salvo il diritto di trasportare regolarmente viaggiatori a titolo professionale conferito secondo gli articoli 6–8 della legge del 20 marzo 2009[^8c-4] sul trasporto di viaggiatori.
 
 [^8c-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^8c-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^8c-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-3]: Abrogato dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), con effetto dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-4]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 #### Art. 8d
 
@@ -261,20 +278,17 @@ L’UFT rilascia l’autorizzazione di accesso alla rete se l’impresa di trasp
 
 **Rilascio e rinnovo del certificato di sicurezza**[^8e-1]
 
-<sup>1</sup> L’UFT è competente per il rilascio del certificato di sicurezza.
+<sup>1</sup> L’UFT rilascia il certificato di sicurezza se l’impresa di trasporto ferroviario dispone di un sistema di gestione della sicurezza.
 
-<sup>2</sup>
+<sup>2</sup> Il certificato di sicurezza è rilasciato per cinque anni al massimo. Può essere rinnovato.
 
-Il certificato di sicurezza comprende l’accettazione del sistema di gestione della sicurezza dell’impresa di trasporto ferroviario e l’accettazione dei provvedimenti che la stessa ha preso per garantire la sicurezza dell’esercizio sulle tratte utilizzate. L’impresa deve in particolare provare che:
+<sup>3</sup> Il Consiglio federale può concludere con l’Unione europea (UE) un accordo sul riconoscimento da parte della Svizzera dei certificati di sicurezza rilasciati dall’Agenzia dell’Unione europea per le ferrovie (ERA).
 
-- a. il personale dispone delle qualifiche necessarie per garantire un esercizio sicuro;
-- b. il materiale rotabile soddisfa i requisiti per un esercizio sicuro.
+<sup>4</sup> L’UFT disciplina con l’ERA la cooperazione nell’ambito del rilascio dei certificati di sicurezza.
 
-<sup>3</sup> Il certificato di sicurezza è rilasciato per cinque anni al massimo. Può essere rinnovato.
+<sup>5</sup> L’UFT può concludere con le competenti autorità dei Paesi confinanti accordi sul riconoscimento di certificati di sicurezza per le tratte in prossimità della frontiera.
 
-<sup>4</sup> Se il riconoscimento reciproco è convenuto con altri Stati, i certificati rilasciati da questi Stati sono validi anche in Svizzera.
-
-[^8e-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^8e-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8f
 
@@ -299,7 +313,7 @@ L’UFT ritira l’autorizzazione di accesso alla rete e il certificato di sicur
 
 <sup>1</sup> Il gestore dell’infrastruttura accorda alle imprese di trasporto ferroviario l’accesso senza discriminazioni alla rete.[^9a-2]
 
-<sup>2</sup> e <sup>3</sup> ...[^9a-3]
+<sup>2 e <sup>3</sup></sup> ...[^9a-3]
 
 <sup>4</sup> L’accesso alla rete su un percorso definito nello spazio e nel tempo (traccia) può essere chiesto da ogni impresa interessata a svolgere il trasporto ferroviario. L’impresa deve presentare, almeno un mese prima dell’inizio dell’esercizio, un’autorizzazione di accesso alla rete oppure incaricare un’impresa di trasporto ferroviario di svolgere il trasporto. L’impresa di trasporto ferroviario che effettua il trasporto deve presentare il certificato di sicurezza al più tardi al momento dell’inizio delle corse.[^9a-4]
 
@@ -698,23 +712,32 @@ L’UFT può annullare, oppure impedire che siano eseguite, le decisioni e le di
 
 #### Art. 14a
 
-**Obbligo di notifica e di collaborazione**[^14a-1]
+**Obbligo di collaborazione**[^14a-1]
 
-<sup>1</sup> Le imprese ferroviarie devono comunicare senza indugio all’UFT gli infortuni e gli incidenti gravi nell’esercizio delle ferrovie.
+<sup>1</sup> Le imprese ferroviarie e i servizi responsabili della manutenzione dei veicoli forniscono all’UFT, su richiesta, le informazioni e i documenti di cui necessita nell’ambito della sua attività di vigilanza. Concedono inoltre all’UFT libero accesso a tutti gli impianti ferroviari, veicoli e altri impianti rilevanti per l’esercizio e la manutenzione dell’infrastruttura e dei veicoli e lo coadiuvano a titolo gratuito nelle attività di esame e di controllo.
 
-<sup>2</sup> Devono in ogni momento fornire all’UFT le informazioni e i documenti necessari. Devono inoltre concedere all’UFT libero accesso a tutte le parti degli impianti ferroviari e dei veicoli e coadiuvarlo a titolo gratuito nelle attività di esame e di controllo.
+<sup>2</sup> Nell’ambito del rilascio del certificato di sicurezza, le imprese di trasporto ferroviario hanno nei confronti dell’ERA gli stessi obblighi.
 
-[^14a-1]: Introdotto dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nuovo testo giusta l’all. n. 2 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^14a-1]: Introdotto dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15
 
-**Inchiesta sugli infortuni e gli incidenti gravi**[^15-1]
+**Notifica e inchiesta sugli incidenti e i quasi incidenti**[^15-1]
 
-<sup>1</sup> Per ogni infortunio e incidente grave nell’esercizio delle ferrovie è aperta un’inchiesta intesa a chiarirne le circostanze, lo svolgimento e le cause.
+<sup>1</sup>
 
-<sup>2</sup> L’inchiesta serve a impedire infortuni analoghi. Essa non verte sulla determinazione della colpa e della responsabilità.
+Le imprese ferroviarie notificano gli incidenti e i quasi incidenti verificatisi nell’esercizio delle ferrovie:
 
-[^15-1]: Nuovo testo giusta l’all. della LF del 1° ott. 2010, in vigore dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+- a. al Servizio d’inchiesta svizzero sulla sicurezza (SISI), immediatamente;
+- b. all’UFT, entro 30 giorni.
+
+<sup>2</sup> Per ogni incidente e quasi incidente nell’esercizio delle ferrovie il SISI apre un’inchiesta intesa a chiarirne le circostanze, la dinamica e le cause.
+
+<sup>3</sup> L’inchiesta serve a impedire incidenti analoghi. Essa non verte sulla determinazione della colpa e della responsabilità.
+
+<sup>4</sup> Gli interessati e le persone che possono contribuire al chiarimento delle cause dell’incidente o del quasi incidente forniscono al SISI le informazioni e i documenti necessari. Concedono inoltre al SISI libero accesso al luogo dell’incidente nonché agli impianti ferroviari, ai veicoli e agli altri impianti interessati rilevanti per l’esercizio e la manutenzione dell’infrastruttura e dei veicoli e lo coadiuvano a titolo gratuito nelle attività di inchiesta.
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15a
 
@@ -724,23 +747,30 @@ L’UFT può annullare, oppure impedire che siano eseguite, le decisioni e le di
 
 <sup>2</sup> La Commissione d’inchiesta si compone di almeno tre e al massimo cinque esperti indipendenti.
 
-<sup>3</sup> La Commissione d’inchiesta è indipendente dalle autorità amministrative e dispone di una propria segreteria. È amministrativamente aggregata al DATEC.
+<sup>3</sup> La Commissione d’inchiesta è indipendente dalle autorità amministrative e dispone di un proprio ufficio d’inchiesta.[^15a-3] È amministrativamente aggregata al DATEC.
 
-<sup>4</sup> Il Consiglio federale disciplina l’organizzazione della Commissione d’inchiesta. Può accorparla con la Commissione d’inchiesta di cui all’articolo 25 della legge federale del 21 dicembre 1948[^15a-3] sulla navigazione aerea.
+<sup>3bis</sup> Per indagare su incidenti e quasi incidenti può concludere accordi con servizi d’inchiesta esteri.[^15a-4]
+
+<sup>3ter</sup> In singoli casi l’ufficio d’inchiesta può inoltre cooperare, su richiesta di un’autorità estera, all’inchiesta su incidenti e quasi incidenti all’estero.[^15a-5]
+
+<sup>4</sup> Il Consiglio federale disciplina l’organizzazione della Commissione d’inchiesta. Può accorparla con la Commissione d’inchiesta di cui all’articolo 25 della legge federale del 21 dicembre 1948[^15a-6] sulla navigazione aerea.
 
 [^15a-1]: Introdotto dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^15a-3]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^15a-3]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-4]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-5]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-6]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 15b
 
 **Procedura della Commissione d’inchiesta**[^15b-1]
 
-<sup>1</sup> La Commissione d’inchiesta presenta un rapporto per ogni inchiesta. Il rapporto non costituisce una decisione formale e non può essere impugnato.
+<sup>1</sup> La Commissione d’inchiesta redige un rapporto per ogni inchiesta.[^15b-2] Il rapporto non costituisce una decisione formale e non può essere impugnato.
 
 <sup>2</sup>
 
-Per chiarire i fatti, la segreteria può ordinare:
+Per chiarire i fatti, l’ufficio d’inchiesta può ordinare:[^15b-3]
 
 - a. la citazione di persone che possono fornire informazioni utili;
 - b. perquisizioni domiciliari, perquisizioni di carte e registrazioni, nonché perquisizioni di persone e oggetti;
@@ -750,16 +780,20 @@ Per chiarire i fatti, la segreteria può ordinare:
 - f. analisi dei dati contenuti in apparecchi di registrazione;
 - g. perizie.
 
-<sup>3</sup> Se tange diritti od obblighi, la segreteria emana decisioni formali. Per quanto la presente legge non disponga altrimenti, si applica la legge federale del 20 dicembre 1968[^15b-2] sulla procedura amministrativa.
+<sup>3</sup> Se tange diritti od obblighi, l’ufficio d’inchiesta emana decisioni formali.[^15b-4] Se tange diritti od obblighi, la segreteria emana decisioni formali. Per quanto la presente legge non disponga altrimenti, si applica la legge federale del 20 dicembre 1968[^15b-5] sulla procedura amministrativa.
 
-<sup>4</sup> Le decisioni emanate dalla segreteria nell’ambito dell’inchiesta possono essere impugnate entro dieci giorni mediante opposizione dinanzi alla Commissione d’inchiesta.
+<sup>4</sup> Le decisioni emanate dall’ufficio d’inchiesta nell’ambito dell’inchiesta possono essere impugnate entro dieci giorni mediante opposizione davanti alla Commissione.[^15b-6]
 
 <sup>5</sup> La Commissione d’inchiesta gestisce un sistema di assicurazione della qualità. Provvede in particolare affinché si tenga adeguatamente conto delle istanze di tutti gli interessati.
 
 <sup>6</sup> Il Consiglio federale disciplina la procedura, in particolare le misure coercitive e la pubblicazione dei rapporti.
 
 [^15b-1]: Introdotto dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^15b-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-3]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-4]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-6]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15c
 
@@ -777,6 +811,13 @@ Per chiarire i fatti, la segreteria può ordinare:
 
 <sup>1</sup> Nell’ambito della sua attività di vigilanza l’UFT è autorizzato a rilevare i dati necessari presso le imprese ferroviarie e a elaborarli. Le imprese ferroviarie forniscono i dati necessari per la statistica ufficiale dei trasporti.[^16-2]
 
+<sup>1bis</sup>
+
+L’UFT può trattare i seguenti dati personali degni di particolare protezione, se è necessario per la sicurezza dell’infrastruttura, in particolare per la costruzione e l’esercizio della medesima:
+
+- a. i dati concernenti la salute;
+- b. i dati concernenti perseguimenti e sanzioni amministrativi e penali.[^16-3]
+
 <sup>2</sup> L’UFT può rilevare dati che servono per allestire una licenza presso le persone interessate e elaborarli.
 
 <sup>3</sup> Ai fini della pianificazione dei trasporti, l’UFT può chiedere alle imprese ferroviarie di rilevare e trasmettergli dati relativi alle tratte. Può divulgarli nella misura necessaria per conseguire gli obiettivi prefissati e se sussiste un interesse pubblico preponderante.
@@ -792,16 +833,17 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 [^16-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^16-2]: Per. introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^16-3]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 16a
 
-**Trattamento di dati da parte del titolare della concessione**[^16a-1]
+**Trattamento di dati da parte del gestore dell’infrastruttura**[^16a-1]
 
-<sup>1</sup> Per le loro attività che rientrano nella concessione o nell’autorizzazione, le imprese sottostanno agli articoli 33–42 della legge federale del 25 settembre 2020[^16a-2] sulla protezione dei dati (LPD). Se agiscono secondo il diritto privato, sottostanno invece agli articoli 30–32 LPD.
+<sup>1</sup> Per il trattamento di dati personali, il gestore dell’infrastruttura sottostà agli articoli 33–42 della legge federale del 25 settembre 2020[^16a-2] sulla protezione dei dati (LPD). Se agisce secondo il diritto privato, sottostà agli articoli 30–32 LPD.
 
-<sup>2</sup> Le imprese possono trattare dati personali, compresi dati personali degni di particolare protezione, se è necessario per la sicurezza dell’infrastruttura, in particolare per la costruzione e l’esercizio della medesima. Ciò vale anche per terzi che svolgono compiti per il titolare della concessione. Il titolare della concessione rimane responsabile del rispetto delle disposizioni sulla protezione dei dati.
+<sup>2</sup> Il gestore dell’infrastruttura può trattare dati personali, compresi quelli degni di particolare protezione secondo l’articolo 16 capoverso 1<sup>bis</sup>, se è necessario per la sicurezza dell’infrastruttura, in particolare per la costruzione e l’esercizio della medesima. Ciò vale anche per terzi che svolgono compiti del gestore dell’infrastruttura. Quest’ultimo rimane responsabile del rispetto delle disposizioni sulla protezione dei dati.
 
-[^16a-1]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta l’all. 1 n. II 61 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16a-1]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^16a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 16b
@@ -855,7 +897,7 @@ Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicar
 
 **Registro dei veicoli ammessi alla circolazione[^17a-2]**[^17a-1]
 
-<sup>1</sup> L’UFT tiene un registro di tutti i veicoli ammessi alla circolazione in Svizzera conformemente alla presente legge.[^17a-3]
+<sup>1</sup> L’UFT tiene un registro di tutti i veicoli ammessi alla circolazione in Svizzera conformemente alla presente legge, sempre che non siano iscritti in un registro dei veicoli dell’UE.[^17a-3]
 
 <sup>2</sup> I titolari di un’autorizzazione d’esercizio (detentori) sono tenuti ad annunciare i loro veicoli all’UFT per l’immatricolazione.[^17a-4]
 
@@ -876,11 +918,14 @@ Il Consiglio federale può:
 - a. delegare a terzi la tenuta del registro;
 - b.[^17a-5] designare categorie di veicoli esentate dall’obbligo di immatricolazione.
 
+<sup>6</sup> Il Consiglio federale può convenire con l’UE la registrazione dei veicoli ammessi alla circolazione in Svizzera nei registri dei veicoli dell’UE.[^17a-6]
+
 [^17a-1]: Introdotto dal n. I 1 della LF del 19 dic. 2008 (modifiche del diritto dei trasporti) ([RU 2009 5973](https://fedlex.data.admin.ch/eli/oc/2009/731); [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)). Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^17a-2]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^17a-3]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^17a-3]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^17a-4]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^17a-5]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^17a-6]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 17b
 
@@ -898,11 +943,13 @@ Il Consiglio federale può:
 
 **Valutazione degli aspetti rilevanti per la sicurezza**[^17c-1]
 
-<sup>1</sup> Nelle procedure di autorizzazione l’UFT valuta gli aspetti rilevanti per la sicurezza in funzione dei rischi, sulla scorta di perizie di sicurezza o mediante controlli per campionatura.
+<sup>1</sup> L’UFT valuta gli aspetti rilevanti per la sicurezza della costruzione e dell’esercizio degli impianti ferroviari e dei veicoli in funzione dei rischi mediante controlli a campione.
 
-<sup>2</sup> L’UFT stabilisce i punti per i quali il richiedente deve produrre perizie di sicurezza.
+<sup>2</sup> Nell’ambito delle procedure di autorizzazione l’UFT valuta questi aspetti sulla base della prova fornita in merito alla sicurezza. Stabilisce i punti per i quali il richiedente deve produrre perizie volte a fornire la prova in merito alla sicurezza nell’ambito delle procedure di autorizzazione.
 
-[^17c-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>3</sup> L’UFT può scambiare i dati necessari per la valutazione e i risultati della stessa con l’ERA, altre autorità preposte alla sicurezza, le imprese ferroviarie, i detentori e le persone responsabili della manutenzione.
+
+[^17c-1]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### Sezione 2: Procedura di approvazione dei piani
 
@@ -1257,17 +1304,39 @@ Nella procedura di ricomposizione particellare:
 
 [^chap4-sec7-1]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
+#### Art. 18v<sup>bis</sup>
+
+**Prova in merito alla sicurezza**[^18vbis-1]
+
+Chi intende esercitare un impianto ferroviario o un veicolo deve provarne la sicurezza.
+
+[^18vbis-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 18w
 
-**Autorizzazione d’esercizio**[^18w-1]
+**Autorizzazione d’esercizio per impianti ferroviari**[^18w-1]
 
-<sup>1</sup> Per gli impianti ferroviari e i veicoli è necessaria un’autorizzazione d’esercizio. L’UFT può prevedere deroghe.
+<sup>1</sup> Per gli impianti ferroviari modificati in modo rilevante è necessaria un’autorizzazione d’esercizio dell’UFT.
 
-<sup>2</sup> L’UFT rilascia l’autorizzazione d’esercizio se il richiedente ha fornito la prova in merito alla sicurezza e il progetto corrisponde alle prescrizioni determinanti.
+<sup>2</sup> Per gli impianti ferroviari nuovi, ristrutturati o rinnovati è necessaria un’autorizzazione d’esercizio se l’UFT lo stabilisce.
 
-<sup>3</sup> L’UFT può procedere ad altre verifiche. L’impresa ferroviaria mette gratuitamente a disposizione il personale e il materiale necessari a tale scopo, nonché i documenti occorrenti; fornisce inoltre tutte le informazioni necessarie.
+<sup>3</sup> L’UFT rilascia l’autorizzazione d’esercizio se il richiedente ha fornito la prova in merito alla sicurezza e l’impianto ferroviario è conforme alle prescrizioni determinanti.
 
-[^18w-1]: Introdotto dal n. I 9 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+<sup>4</sup> L’UFT può procedere ad altre verifiche. A tal fine il richiedente mette gratuitamente a disposizione il personale, il materiale e i documenti occorrenti; fornisce inoltre le informazioni necessarie.
+
+[^18w-1]: Introdotto dal n. I 9 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 18w<sup>bis</sup>
+
+**Autorizzazione d’esercizio per veicoli**[^18wbis-1]
+
+<sup>1</sup> Per i veicoli nuovi o modificati in modo sostanziale è necessaria un’autorizzazione d’esercizio dell’UFT.
+
+<sup>2</sup> L’UFT rilascia l’autorizzazione d’esercizio se il richiedente ha fornito la prova in merito alla sicurezza e il veicolo è conforme alle prescrizioni determinanti.
+
+<sup>3</sup> L’UFT può procedere ad altre verifiche. A tal fine il richiedente mette gratuitamente a disposizione il personale, il materiale e i documenti occorrenti; fornisce inoltre le informazioni necessarie.
+
+[^18wbis-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 18x
 
@@ -1315,8 +1384,8 @@ L’obbligo d’indennità, per i danni cagionati dall’impresa ferroviaria con
 <sup>2</sup> Se gli impianti e le opere dei terzi esistevano già prima dell’entrata in vigore della presente legge o prima della costruzione degli impianti ferroviari, il diritto dei terzi all’indennità, alla quale è tenuta l’impresa ferroviaria, è disciplinato dalla legislazione federale sulla espropriazione. Per gli impianti o le opere dei terzi eseguiti dopo, il loro titolare deve sopperire alle spese cagionate dalle misure previste nel capoverso 1; inoltre, non ha diritto ad alcuna indennità. I costi per provvedimenti volti alla rimozione di alberi pregiudizievoli alla sicurezza della ferrovia secondo il capoverso 1 sono a carico dell’impresa ferroviaria ove non comprovi il dolo del terzo responsabile.[^21-3]
 
 [^21-1]: Nuovo testo della frase giusta l’art. 55 n. 2 della LF del 4 ott. 1991 sulle foreste, in vigore dal 1° gen. 1993 ([RU 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521); [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)).
-[^21-2]: Introdotto dall’art. 55 n. 2 della LF 4 ott. 1991 sulle foreste, in vigore dal 1° gen. 1993 ([RU 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521); [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)).
-[^21-3]: Introdotto dall’art. 55 n. 2 della LF 4 ott. 1991 sulle foreste, in vigore dal 1° gen. 1993 ([RU 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521); [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)).
+[^21-2]: Per. introdotto dall’art. 55 n. 2 della LF 4 ott. 1991 sulle foreste, in vigore dal 1° gen. 1993 ([RU 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521); [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)).
+[^21-3]: Per. introdotto dall’art. 55 n. 2 della LF 4 ott. 1991 sulle foreste, in vigore dal 1° gen. 1993 ([RU 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521); [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)).
 
 #### Art. 22
 
@@ -1360,47 +1429,103 @@ Le ferrovie a scartamento normale devono adempiere, secondo le disposizioni dell
 
 #### Art. 23c
 
-**Sottosistemi**[^23c-1]
+**Autorizzazione d’esercizio per impianti ferroviari**[^23c-1]
 
-<sup>1</sup> L’impresa di trasporto ferroviario può mettere in esercizio sottosistemi destinati all’impiego nel traffico interoperabile soltanto se l’UFT ha rilasciato un’autorizzazione d’esercizio.
+<sup>1</sup> Per gli impianti ferroviari nuovi o modificati in modo rilevante è necessaria un’autorizzazione d’esercizio dell’UFT.
 
-<sup>2</sup> L’UFT rilascia l’autorizzazione d’esercizio se l’impresa ha fornito la prova in merito alla sicurezza e se il sottosistema, comprese le sue interfacce, soddisfa i requisiti essenziali, le disposizioni tecniche d’esecuzione e le altre prescrizioni determinanti.
+<sup>2</sup> Per gli impianti ferroviari ristrutturati o rinnovati è necessaria un’autorizzazione d’esercizio se l’UFT lo stabilisce.
 
-<sup>3</sup> L’UFT può procedere ad altre verifiche. A tal fine l’impresa mette gratuitamente a disposizione il personale, il materiale e i documenti occorrenti; fornisce inoltre le informazioni necessarie.
+<sup>3</sup> L’UFT rilascia l’autorizzazione d’esercizio se il richiedente ha fornito la prova in merito alla sicurezza e se l’impianto ferroviario, comprese le sue interfacce, soddisfa i requisiti essenziali ed è conforme alle disposizioni tecniche d’esecuzione e alle altre prescrizioni determinanti.
+
+<sup>4</sup> L’UFT può procedere ad altre verifiche. A tal fine il richiedente mette gratuitamente a disposizione il personale, il materiale e i documenti occorrenti; fornisce inoltre le informazioni necessarie.
+
+<sup>5</sup> Il Consiglio federale stabilisce i documenti necessari per fornire la prova in merito alla sicurezza.
+
+[^23c-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23c<sup>bis</sup>
+
+**Messa in circolazione di veicoli**[^23cbis-1]
+
+<sup>1</sup> I veicoli nuovi o modificati in modo sostanziale possono essere messi in circolazione su un’infrastruttura ferroviaria soltanto se il detentore dispone di un’apposita autorizzazione dell’UFT.
+
+<sup>2</sup> L’UFT rilascia l’autorizzazione se il richiedente ha fornito la prova in merito alla sicurezza e se il veicolo, comprese le sue interfacce, soddisfa i requisiti essenziali ed è conforme alle disposizioni tecniche d’esecuzione e alle altre prescrizioni determinanti.
+
+<sup>3</sup> L’UFT può procedere ad altre verifiche. A tal fine il richiedente mette gratuitamente a disposizione il personale, il materiale e i documenti occorrenti; fornisce inoltre le informazioni necessarie.
 
 <sup>4</sup> Il Consiglio federale stabilisce i documenti necessari per fornire la prova in merito alla sicurezza.
 
-[^23c-1]: Vedi anche la disp. trans. della mod. del 16 mar. 2012 alla fine del presente testo.
+<sup>5</sup> Stabilisce quali autorizzazioni di Stati esteri o dell’ERA sono riconosciute. Può prevedere che le autorizzazioni destinate a essere valide non solo in Svizzera siano di esclusiva competenza dell’ERA.
+
+<sup>6</sup> L’UFT disciplina con l’ERA la cooperazione nell’ambito del rilascio delle autorizzazioni per i veicoli.
+
+<sup>7</sup> L’UFT può convenire con le competenti autorità dei Paesi confinanti la validità delle autorizzazioni per la messa in circolazione di veicoli su tratte in prossimità della frontiera.
+
+[^23cbis-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23d
 
-**Ristrutturazione e rinnovo di sottosistemi**
+**Ristrutturazione e rinnovo di sottosistemi**[^23d-1]
 
-<sup>1</sup> Per ristrutturazione s’intendono i lavori di modifica di un sottosistema che ne migliorano le prestazioni. Per rinnovo s’intendono i lavori di sostituzione di un sottosistema che non ne modificano le prestazioni.
+<sup>1</sup> Per ristrutturazione s’intendono i lavori di modifica di un sottosistema che ne migliorano le prestazioni complessive.
 
-<sup>2</sup> I sottosistemi ristrutturati possono essere messi in esercizio soltanto se l’UFT ha rilasciato una nuova autorizzazione d’esercizio.
+<sup>2</sup> Per rinnovo s’intendono importanti lavori di sostituzione di un sottosistema che non ne modificano le prestazioni complessive.
 
-<sup>3</sup> Se un sottosistema è rinnovato, l’UFT decide nel singolo caso se per la messa in esercizio è necessaria una nuova autorizzazione d’esercizio.
+[^23d-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23e
 
-**Componenti di interoperabilità**
+**Modifiche**[^23e-1]
 
-<sup>1</sup> Chi immette in commercio un elemento di costruzione destinato a essere incorporato in un sottosistema (componente di interoperabilità) deve poter dimostrare che i requisiti essenziali sono soddisfatti.
+<sup>1</sup> I sottosistemi ristrutturati o rinnovati e altre modifiche, comprese le sostituzioni effettuate nell’ambito di lavori di manutenzione, devono soddisfare i requisiti essenziali ed essere conformi alle disposizioni tecniche d’esecuzione e alle altre prescrizioni determinanti. Per le deroghe è richiesta un’autorizzazione dell’UFT.
 
-<sup>2</sup> Il Consiglio federale stabilisce i documenti necessari per fornire tale prova.
+<sup>2</sup> La sostituzione di elementi di costruzione sottoposti al diritto previgente con elementi di costruzione dello stesso tipo è consentita se attuata nell’ambito di lavori di manutenzione.
+
+<sup>3</sup> La prova in merito alla sicurezza deve essere aggiornata.
+
+[^23e-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>bis</sup>
+
+**Libera circolazione di sottosistemi mobili**[^23ebis-1]
+
+I veicoli e il controllo-comando e segnalamento di bordo possono essere immessi in commercio soltanto se soddisfano i requisiti essenziali e se è stata ottenuta la pertinente dichiarazione di verifica.
+
+[^23ebis-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>ter</sup>
+
+**Immissione in commercio di componenti di interoperabilità**[^23eter-1]
+
+Gli elementi di costruzione destinati a essere incorporati in un sottosistema (componenti di interoperabilità) possono essere immessi in commercio soltanto se soddisfano i requisiti essenziali e se è stata ottenuta la pertinente dichiarazione.
+
+[^23eter-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23f
 
-**Competenze**
+**Competenze**[^23f-1]
 
-<sup>1</sup> Il Consiglio federale stabilisce i requisiti essenziali e le disposizioni tecniche d’esecuzione per i sottosistemi e i componenti di interoperabilità; a tal fine tiene conto del diritto internazionale.
+<sup>1</sup>
 
-<sup>2</sup> D’intesa con la Segreteria di Stato dell’economia, l’UFT definisce le norme tecniche idonee ad attuare i requisiti essenziali e le disposizioni tecniche d’esecuzione. Per quanto possibile designa norme armonizzate a livello internazionale.
+Tenuto conto del diritto internazionale, il Consiglio federale:
 
-<sup>3</sup> L’UFT decide quali disposizioni si applicano a complemento delle disposizioni tecniche d’esecuzione e stabilisce le eccezioni alla loro applicazione; a tal fine tiene conto del diritto internazionale.
+- a. stabilisce i requisiti essenziali per i sottosistemi e i componenti d’interoperabilità;
+- b. emana le altre prescrizioni necessarie per garantire l’interoperabilità con il sistema ferroviario europeo.
 
-<sup>4</sup> Il Consiglio federale può concludere con Stati esteri od organismi internazionali accordi sulla cooperazione nell’ambito dell’elaborazione e dell’applicazione di prescrizioni e norme internazionali.
+<sup>2</sup> Il Consiglio federale può concludere con Stati esteri od organismi internazionali accordi sulla cooperazione nell’ambito dell’elaborazione e dell’applicazione di prescrizioni e norme internazionali.
+
+<sup>3</sup>
+
+Tenuto conto del diritto internazionale, l’UFT emana:
+
+- a. le disposizioni tecniche d’esecuzione per i sottosistemi e i componenti d’interoperabilità;
+- b. le disposizioni applicabili a complemento o in deroga alle specifiche tecniche di interoperabilità (STI); notifica queste disposizioni alla Commissione europea e le comunica le parti del sistema ferroviario per le quali nelle STI sono necessarie disposizioni particolari, temporanee o permanenti.
+
+<sup>4</sup> L’UFT notifica alla Commissione europea o all’Organizzazione intergovernativa per i trasporti internazionali per ferrovia le altre disposizioni in materia di sicurezza e interoperabilità applicabili a complemento o in deroga al diritto europeo o internazionale.
+
+<sup>5</sup> D’intesa con la Segreteria di Stato dell’economia, l’UFT definisce le norme tecniche idonee ad attuare i requisiti essenziali e le disposizioni tecniche d’esecuzione. Per quanto possibile, definisce norme armonizzate sul piano internazionale.
+
+[^23f-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23g
 
@@ -1412,9 +1537,9 @@ Le ferrovie a scartamento normale devono adempiere, secondo le disposizioni dell
 
 #### Art. 23h
 
-**Immissione in commercio**
+[^23h-1]
 
-I sottosistemi e i componenti di interoperabilità possono essere immessi in commercio se soddisfano i requisiti essenziali.
+[^23h-1]: Abrogato dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), con effetto dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23i
 
@@ -1430,29 +1555,39 @@ A questo scopo gli organi di controllo dell’UFT possono:
 - b. prelevare campioni;
 - c. effettuare o far effettuare controlli;
 - d. accedere a scopo di ispezione, durante il normale orario di lavoro, ai locali commerciali delle persone tenute a fornire informazioni;
-- e. esigere che i documenti o le informazioni siano redatti in una delle lingue ufficiali.
+- e. esigere che i documenti o le informazioni siano redatti in una delle lingue ufficiali;
+- f.[^23i-1] scambiare informazioni con la Commissione europea, l’ERA e altre autorità e servizi coinvolti nella sorveglianza del mercato.
 
-<sup>3</sup> L’UFT può esigere che per un determinato periodo di tempo l’Ufficio federale della dogana e della sicurezza dei confini gli notifichi l’importazione di componenti di interoperabilità, designati con precisione.[^23i-1]
+<sup>3</sup> L’UFT può esigere che per un determinato periodo di tempo l’Ufficio federale della dogana e della sicurezza dei confini gli notifichi l’importazione di componenti di interoperabilità, designati con precisione.[^23i-2]
 
-<sup>4</sup> Le ulteriori competenze dell’UFT sono rette dall’articolo 10 capoversi 2–6 della legge federale del 12 giugno 2009[^23i-2] sulla sicurezza dei prodotti.
+<sup>4</sup> Le ulteriori competenze dell’UFT sono rette dall’articolo 10 capoversi 2–6 della legge federale del 12 giugno 2009[^23i-3] sulla sicurezza dei prodotti.
 
-[^23i-1]: Nuovo testo giusta il n. I 28 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23i-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Introdotta dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23i-2]: Nuovo testo giusta il n. I 28 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
 **Valutazione della conformità**
 
-<sup>1</sup> La prova che il sottosistema o il componente di interoperabilità soddisfa i requisiti essenziali e le disposizioni tecniche d’esecuzione è fornita mediante un attestato di conformità rilasciato da un organismo di valutazione della conformità.
+<sup>1</sup>
+
+La prova che il sottosistema o il componente di interoperabilità soddisfa i requisiti essenziali è fornita mediante:
+
+- a. una dichiarazione di verifica oppure una dichiarazione di conformità o di idoneità all’impiego rilasciata dal fabbricante o da un suo mandatario; e
+- b. un attestato di conformità rilasciato da un organismo di valutazione della conformità o da un organismo designato.[^23j-1]
 
 <sup>2</sup>
 
 Gli organismi di valutazione della conformità devono:
 
 - a. essere accreditati in Svizzera e disporre di un’assicurazione di responsabilità civile; o
-- b. essere nominati da uno Stato membro dell’Unione europea.
+- b.[^23j-2] essere nominati da uno Stato membro dell’UE
 
 <sup>3</sup> Gli attestati di conformità rilasciati da organismi di valutazione della conformità esteri sono riconosciuti se un accordo internazionale lo prevede.
+
+[^23j-1]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23j-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23k
 
@@ -1464,7 +1599,11 @@ Il Consiglio federale può istituire un organismo di valutazione della conformit
 
 **Trattamento dei dati**
 
-L’UFT è abilitato a raccogliere presso le imprese ferroviarie i dati necessari per l’interoperabilità, a trattarli ulteriormente e a pubblicarli.
+<sup>1</sup> L’UFT è abilitato a raccogliere presso le imprese ferroviarie i dati necessari per l’interoperabilità, a trattarli ulteriormente e a pubblicarli.
+
+<sup>2</sup> Può scambiare i dati necessari per l’esercizio sicuro di veicoli interoperabili con l’ERA e con le autorità di Stati esteri preposte alla sicurezza[^23l-1]
+
+[^23l-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### Sezione 8: Incroci tra strade pubbliche e ferrovie
 
@@ -1748,7 +1887,7 @@ L’UFT e gli incaricati disciplinano in una convenzione scritta contenuti e por
 Sentiti gli interessati, l’UFT decide sulle controversie concernenti:[^40-3]
 
 - a.[^40-4] esigenze della costruzione e dell’esercizio ferroviari (art. 18 e 18*m*);
-- [tab] b.[^40-5] i provvedimenti per garantire la sicurezza della costruzione e dell’esercizio delle ferrovie e per proteggere le persone e le cose (art. 19 cpv. 1, 21 cpv. 1, 24, 30, 31 cpv. 1 e 32*a*);
+- b.[^40-5] i provvedimenti per garantire la sicurezza della costruzione e dell’esercizio delle ferrovie e per proteggere le persone e le cose (art. 19 cpv. 1, 21 cpv. 1, 24, 30, 31 cpv. 1 e 32*a*);
 - c. il collocamento e l’esercizio di impianti elettrici e radioelettrici di segnalazione e di telecomunicazione (art. 22);
 - d.[^40-6] il rifiuto di prestarsi al raccordo o le pretese eccessive per prestarvisi e la ripartizione dei costi (art. 33–35*a*);
 - e. la necessità d’istituire servizi accessori e il loro orario d’apertura e di chiusura (art. 39).
@@ -1920,6 +2059,14 @@ Il titolare dell’impresa ferroviaria risponde dei danni causati:
 [^40b-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^40b-5]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^40b-6]: Nuovo testo giusta l’all. n. II 3 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+
+#### Art. 40b<sup>bis</sup>
+
+**Assicurazione di responsabilità civile**[^40bbis-1]
+
+Il titolare di un’impresa di trasporto ferroviario deve stipulare un’assicurazione di responsabilità civile per una somma di copertura di almeno 100 milioni di franchi.
+
+[^40bbis-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 40c
 
@@ -2382,7 +2529,7 @@ L’infrastruttura comprende tutte le costruzioni, tutti gli impianti e tutte le
 - a. la via di corsa;
 - b. gli impianti di alimentazione elettrica, segnatamente le sottostazioni e i raddrizzatori;
 - c. gli impianti di sicurezza;
-- d. le installazioni per il pubblico;
+- d.[^62-2] gli impianti per il pubblico;
 - e. le stazioni di smistamento e gli impianti per ricevere e formare i treni;
 - f. gli impianti di carico pubblici, consistenti in binari e aree di carico, in cui le merci possono essere trasbordate autonomamente e indipendentemente (impianti di carico e scarico);
 - g. i locomotori di smistamento nelle stazioni di smistamento;
@@ -2412,6 +2559,7 @@ Fanno parte delle ferrovie ai sensi della presente legge, ma non dell’infrastr
 <sup>4</sup> Non fa parte dell’infrastruttura nemmeno la fornitura di prestazioni di trasporto nel traffico merci e viaggiatori.
 
 [^62-1]: Nuovo testo giusta l’all. n. II 3 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^62-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 63
 
@@ -2525,11 +2673,17 @@ In caso di contestazione sulla determinazione del prezzo d’acquisto decide l�
 
 **Esame di capacità**
 
+<sup>1</sup>
+
 Il Consiglio federale può prescrivere che:
 
 - a. le persone che svolgono un’attività rilevante per la sicurezza nel settore ferroviario debbano sostenere un esame di capacità teorico e pratico; può prevedere la consegna di una licenza se l’esame viene superato;
 - b. le persone che intendono seguire una formazione per svolgere un’attività secondo la lettera a necessitano di una tessera d’allievo rilasciata dall’UFT;
 - c. le persone che svolgono un’attività secondo la lettera a o che intendono seguire una formazione a tal fine devono soddisfare determinati requisiti personali e tecnici; il Consiglio federale può prevedere anche esami psicologici e medici volti ad accertare i requisiti personali.
+
+<sup>2</sup> Per persone che svolgono un’attività rilevante per la sicurezza, l’UFT può convenire con le competenti autorità dei Paesi confinanti la validità delle abilitazioni su tratte in prossimità della frontiera.[^80-1]
+
+[^80-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 80a
 
@@ -2644,18 +2798,20 @@ Il Consiglio federale:
 - a. esegue o fa eseguire un progetto di costruzione senza l’approvazione dei piani necessaria secondo l’articolo 18 o senza osservare le condizioni, gli oneri o le prescrizioni risultanti dalla procedura di approvazione dei piani;
 - b.[^86a-3] mette o fa mettere in servizio un impianto o un veicolo senza disporre dell’autorizzazione d’esercizio necessaria secondo l’articolo 18*w*, 23*c* o 23*d* o senza osservare le condizioni, gli oneri o le prescrizioni dell’autorizzazione d’esercizio;
 - c. contravviene a una concessione rilasciata in virtù della presente legge;
-- [tab] d. ed e.[^86a-4] ...
+- d.[^86a-4] esercita o fa esercitare un impianto senza disporre della concessione d’infrastruttura o dell’autorizzazione di sicurezza necessarie secondo l’articolo 5 o senza osservare gli obblighi, le condizioni, gli oneri o le prescrizioni che ne derivano;
+- e.[^86a-5] esercita o fa esercitare un veicolo senza disporre dell’autorizzazione di accesso alla rete o del certificato di sicurezza necessari secondo l’articolo 8*c* o senza osservare gli obblighi, le condizioni, gli oneri o le prescrizioni che ne derivano;
 - f. registra, conserva, utilizza o comunica segnali video violando l’articolo 16.
-- g.[^86a-5] ...
+- g.[^86a-6] ...
 
-<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.[^86a-6]
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.[^86a-7]
 
 [^86a-1]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^86a-2]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^86a-3]: Nuovo testo giusta l’all. n. 2 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-4]: Abrogate dall’all. n. 2 della LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-5]: Introdotta dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Abrogata dall’all. n. 2 della LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-6]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^86a-4]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-5]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-6]: Introdotta dall’all. della LF del 1° ott. 2010 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Abrogata dall’all. n. 2 della LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^86a-7]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 87
 
@@ -2876,16 +3032,27 @@ Fino alla fine del 2018 il contributo dei Cantoni al Fondo per l’infrastruttur
 
 [^96a-1]: Introdotto dal n. I 6 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
+#### Art. 96b
+
+**Disposizione transitoria della modifica del 29 settembre 2023**[^96b-1]
+
+I certificati di sicurezza di altri Stati che si applicano anche in Svizzera restano validi fino alla loro scadenza, ma al massimo per cinque anni dopo l’entrata in vigore della modifica del 29 settembre 2023.
+
+[^96b-1]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 97
 
 **Entrata in vigore ed esecuzione**
 
-Il Consiglio federale stabilisce la data dell’entrata in vigore della presente legge ed emana le disposizioni d’esecuzione. Ove la presente legge attribuisca compiti ai Cantoni, essi emaneranno le necessarie disposizioni di esecuzione.[^97-1]
+<sup>1</sup> Il Consiglio federale stabilisce la data dell’entrata in vigore della presente legge ed emana le disposizioni d’esecuzione. Ove la presente legge attribuisca compiti ai Cantoni, essi emaneranno le necessarie disposizioni di esecuzione.[^97-1]
 
-Data dell’entrata in vigore: 1° luglio 1958[^97-2]
+<sup>2</sup> L’UFT può emanare disposizioni d’esecuzione tecniche e d’esercizio dell’ordinanza d’esecuzione del Consiglio federale.[^97-2]
+
+Data dell’entrata in vigore: 1° luglio 1958[^97-3]
 
 [^97-1]: Per. introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° gen. 1996 ([RU 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [FF 1994 I 441](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441)).
-[^97-2]: DCF del 24 giu. 1958
+[^97-2]: Introdotto dal n. I della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^97-3]: DCF del 24 giu. 1958
 
 ## Disposizioni finali della modifica del 24 marzo 1995
 

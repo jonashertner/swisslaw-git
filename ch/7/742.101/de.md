@@ -4,11 +4,11 @@ title: Eisenbahngesetz vom 20. Dezember 1957 (EBG)
 short: EBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/de"
 
 (EBG)[^t-1]
 
-vom 20. Dezember 1957 (Stand am 1. September 2023)
+vom 20. Dezember 1957 (Stand am 1. Juli 2024)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -78,9 +78,23 @@ Eisenbahnunternehmen sind Unternehmen, die:
 
 #### Art. 4
 
-[^4-1]
+**Sicherheitsmanagementsystem**[^4-1]
 
-[^4-1]: Aufgehoben durch Anhang Ziff. 18 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+<sup>1</sup> Wer eine Eisenbahninfrastruktur bauen oder betreiben oder den Eisenbahnverkehr durchführen will, benötigt ein Sicherheitsmanagementsystem.
+
+<sup>2</sup> Das Sicherheitsmanagementsystem muss geeignet sein, den sicheren Bau und Betrieb der Infrastruktur und die sichere Durchführung des Eisenbahnverkehrs zu gewährleisten.
+
+[^4-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 (AS **202****4** 152; [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 4a
+
+**Grenzbetriebsstrecken und grenznahe Strecken**[^4a-1]
+
+<sup>1</sup> Das Bundesamt für Verkehr (BAV) kann auf Strecken, die vom letzten Betriebspunkt in der Schweiz zum ersten Betriebspunkt im Ausland führen (Grenzbetriebsstrecken), die Anwendung der im angrenzenden Ausland geltenden technischen und betrieblichen Vorschriften gestatten.
+
+<sup>2</sup> Es kann auf Grenzbetriebsstrecken und daran anschliessenden grenznahen Strecken ausländische Sicherheitsgenehmigungen und -bescheinigungen anerkennen.
+
+[^4a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ## 2. Kapitel: Eisenbahnunternehmen
 
@@ -145,8 +159,8 @@ Zudem wird für die Konzessionserteilung vorausgesetzt, dass:
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) ist zuständig für:
 
-- a. die Änderung der Konzession, mit Ausnahme der Ausdehnung;
-- b. die Erneuerung der Konzession.[^6-3]
+- die Änderung der Konzession, mit Ausnahme der Ausdehnung;
+- die Erneuerung der Konzession.[^6-3]
 
 [^6-1]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^6-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
@@ -158,11 +172,12 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 <sup>1</sup> Auf Gesuch der Konzessionsinhaberin kann das UVEK die Konzession auf ein anderes Unternehmen übertragen.[^7-3] Die betroffenen Kantone sind vorher anzuhören.
 
-<sup>2</sup> Sollen nur einzelne durch Gesetz oder Konzession begründete Rechte oder Pflichten übertragen werden, so legt die Konzessionsinhaberin die darüber abgeschlossenen Betriebsverträge dem Bundesamt für Verkehr (BAV) zur Kenntnisnahme vor. Sie ist dem Bund gegenüber weiterhin für die Erfüllung der durch Gesetz und Konzession begründeten Pflichten verantwortlich.
+<sup>2</sup> Sollen nur einzelne durch Gesetz oder Konzession begründete Rechte oder Pflichten übertragen werden, so legt die Konzessionsinhaberin die darüber abgeschlossenen Betriebsverträge dem BAV zur Kenntnisnahme vor.[^7-4] Sie ist dem Bund gegenüber weiterhin für die Erfüllung der durch Gesetz und Konzession begründeten Pflichten verantwortlich.
 
 [^7-1]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^7-2]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^7-3]: Fassung gemäss Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^7-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8
 
@@ -193,13 +208,13 @@ Die Konzession erlischt:
 
 **Erteilung und Erneuerung der Sicherheitsgenehmigung**[^8a-1]
 
-<sup>1</sup> Das BAV erteilt die Sicherheitsgenehmigung.
+<sup>1</sup> Das BAV erteilt die Sicherheitsgenehmigung, wenn die Infrastrukturbetreiberin über ein Sicherheitsmanagementsystem verfügt.
 
-<sup>2</sup> Die Sicherheitsgenehmigung umfasst die Zulassung des Sicherheitsmanagementsystems der Infrastrukturbetreiberin und die Zulassung der Vorkehrungen, die diese getroffen hat, um einen sicheren Betrieb auf ihren Strecken zu gewährleisten.
+<sup>2</sup> Die Sicherheitsgenehmigung wird für höchstens fünf Jahre erteilt. Sie kann erneuert werden.
 
-<sup>3</sup> Sie wird für höchstens fünf Jahre erteilt und kann erneuert werden.
+<sup>3</sup> Das BAV kann mit den zuständigen Behörden von Nachbarländern die Zusammenarbeit bei der Erteilung von Sicherheitsgenehmigungen für grenzquerende Infrastrukturen vereinbaren.
 
-[^8a-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^8a-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8b
 
@@ -222,9 +237,9 @@ Das BAV entzieht die Sicherheitsgenehmigung jederzeit ohne Anspruch auf Entschä
 
 **Netzzugangsbewilligung und Sicherheitsbescheinigung**[^8c-1]
 
-<sup>1</sup> Wer den Eisenbahnverkehr durchführen will, benötigt eine Genehmigung als Eisenbahnverkehrsunternehmen (Netzzugangsbewilligung) und eine Sicherheitsbescheinigung. Der Bundesrat kann für regional tätige Unternehmen Ausnahmen vorsehen.
+<sup>1</sup> Wer den Eisenbahnverkehr durchführen will, benötigt eine Genehmigung als Eisenbahnverkehrsunternehmen (Netzzugangsbewilligung) und eine Sicherheitsbescheinigung. Der Bundesrat kann für den Eisenbahnverkehr, der ausschliesslich lokal begrenzt durchgeführt wird, sowie für den Verkehr auf Schmalspurstrecken und nicht interoperablen Normalspurstrecken Ausnahmen vorsehen.[^8c-2]
 
-<sup>2</sup> Das Eisenbahnverkehrsunternehmen, das über eine Sicherheitsbescheinigung verfügt, ist berechtigt, auf allen eigenen Strecken sowie auf den fremden Strecken, für welche die Sicherheitsbescheinigung gilt, den Eisenbahnverkehr durchzuführen.
+<sup>2</sup> ... [^8c-3]
 
 <sup>3</sup>
 
@@ -233,10 +248,12 @@ Das Unternehmen muss die schweizerischen Rechtsvorschriften einhalten, insbesond
 - a. die technischen und betrieblichen Vorschriften;
 - b. die Vorschriften über sicherheitsrelevante Tätigkeiten.
 
-<sup>4</sup> Vorbehalten bleibt das Recht, Reisende regelmässig und gewerbsmässig zu befördern, das nach den Artikeln 6–8 des Personenbeförderungsgesetzes vom 20. März 2009[^8c-2] verliehen wird.
+<sup>4</sup> Vorbehalten bleibt das Recht, Reisende regelmässig und gewerbsmässig zu befördern, das nach den Artikeln 6–8 des Personenbeförderungsgesetzes vom 20. März 2009[^8c-4] verliehen wird.
 
 [^8c-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^8c-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^8c-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-3]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), mit Wirkung seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^8c-4]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 #### Art. 8d
 
@@ -262,20 +279,17 @@ Das BAV erteilt die Netzzugangsbewilligung, wenn das Unternehmen:
 
 **Erteilung und Erneuerung der Sicherheitsbescheinigung**[^8e-1]
 
-<sup>1</sup> Das BAV erteilt die Sicherheitsbescheinigung.
+<sup>1</sup> Das BAV erteilt die Sicherheitsbescheinigung, wenn das Eisenbahnverkehrsunternehmen über ein Sicherheitsmanagementsystem verfügt.
 
-<sup>2</sup>
+<sup>2</sup> Die Sicherheitsbescheinigung wird für höchstens fünf Jahre erteilt. Sie kann erneuert werden.
 
-Die Sicherheitsbescheinigung umfasst die Zulassung des Sicherheitsmanagementsystems des Eisenbahnverkehrsunternehmens und die Zulassung der Vorkehrungen, die es getroffen hat, um einen sicheren Betrieb auf den zu befahrenden Strecken zu gewährleisten. Das Unternehmen muss dazu insbesondere nachweisen, dass:
+<sup>3</sup> Der Bundesrat kann mit der Europäischen Union (EU) eine Vereinbarung über die Anerkennung der Sicherheitsbescheinigungen der Eisenbahnagentur der Europäischen Union (ERA) durch die Schweiz abschliessen.
 
-- a. die Beschäftigten die für einen sicheren Betrieb erforderliche Qualifikation besitzen;
-- b. das Rollmaterial den Anforderungen eines sicheren Betriebs genügt.
+<sup>4</sup> Das BAV regelt mit der ERA die Zusammenarbeit bei der Erteilung von Sicherheitsbescheinigungen.
 
-<sup>3</sup> Die Sicherheitsbescheinigung wird für höchstens fünf Jahre erteilt. Sie kann erneuert werden.
+<sup>5</sup> Es kann mit den zuständigen Behörden von Nachbarländern Vereinbarungen über die Anerkennung von Sicherheitsbescheinigungen auf grenznahen Strecken abschliessen.
 
-<sup>4</sup> Besteht mit anderen Staaten eine Vereinbarung über die gegenseitige Anerkennung, so gelten die von diesen Staaten erteilten Sicherheitsbescheinigungen auch in der Schweiz.
-
-[^8e-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^8e-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 8f
 
@@ -300,7 +314,7 @@ Das BAV entzieht die Netzzugangsbewilligung und die Sicherheitsbescheinigung jed
 
 <sup>1</sup> Die Infrastrukturbetreiberin gewährt den Eisenbahnverkehrsunternehmen den diskriminierungsfreien Netzzugang.[^9a-2]
 
-<sup>2</sup> und <sup>3</sup> …[^9a-3]
+<sup>2 und <sup>3</sup></sup> …[^9a-3]
 
 <sup>4</sup> Der Netzzugang auf einem örtlich und zeitlich bestimmten Fahrweg (Trasse) kann von jedem Unternehmen beantragt werden, das an der Durchführung des Eisenbahnverkehrs interessiert ist. Das Unternehmen muss spätestens einen Monat vor Betriebsaufnahme eine Netzzugangsbewilligung vorlegen oder ein Eisenbahnverkehrsunternehmen mit der Durchführung des Eisenbahnverkehrs beauftragen. Das Eisenbahnverkehrsunternehmen, das den Verkehr durchführt, muss die Sicherheitsbescheinigung spätestens bei der Aufnahme des Verkehrs vorlegen.[^9a-4]
 
@@ -699,23 +713,32 @@ Das BAV ist befugt, Beschlüsse und Anordnungen von Organen oder Dienststellen d
 
 #### Art. 14a
 
-**Melde- und Mitwirkungspflicht**[^14a-1]
+**Mitwirkungspflicht**[^14a-1]
 
-<sup>1</sup> Die Eisenbahnunternehmen müssen Unfälle und schwere Vorfälle beim Betrieb von Eisenbahnen dem BAV unverzüglich melden.
+<sup>1</sup> Die Eisenbahnunternehmen und die für die Instandhaltung von Fahrzeugen zuständigen Stellen müssen dem BAV im Rahmen seiner Aufsichtstätigkeit auf Verlangen Auskunft erteilen und sämtliche Dokumente herausgeben. Zudem müssen sie dem BAV freien Zutritt zu allen Eisenbahnanlagen, Fahrzeugen und anderen für den Betrieb und die Instandhaltung der Infrastruktur und der Fahrzeuge relevanten Anlagen gewähren und es bei seiner Prüf- und Kontrolltätigkeit kostenlos unterstützen.
 
-<sup>2</sup> Sie müssen dem BAV jederzeit Auskunft erteilen und sämtliche Dokumente herausgeben. Zudem müssen sie dem BAV freien Zutritt zu allen Teilen der Eisenbahnanlagen und Fahrzeuge gewähren und es bei seiner Prüf- und Kontrolltätigkeit kostenlos unterstützen.
+<sup>2</sup> Im Rahmen der Erteilung der Sicherheitsbescheinigung durch die ERA haben die Eisenbahnverkehrsunternehmen ihr gegenüber dieselben Pflichten.
 
-[^14a-1]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); BBl**2009** 4915). Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^14a-1]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); BBl**2009** 4915). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15
 
-**Untersuchung von Unfällen und schweren Vorfällen**[^15-1]
+**Meldung und Untersuchung von Unfällen und schweren Vorfällen**[^15-1]
 
-<sup>1</sup> Über die Umstände, den Verlauf und die Ursachen von Unfällen und schweren Vorfällen beim Betrieb von Eisenbahnen wird eine Untersuchung durchgeführt.
+<sup>1</sup>
 
-<sup>2</sup> Die Untersuchung dient dazu, ähnliche Unfälle zu vermeiden. Schuld und Haftung sind nicht Gegenstand der Untersuchung.
+Die Eisenbahnunternehmen müssen Unfälle und schwere Vorfälle beim Betrieb von Eisenbahnen melden:
 
-[^15-1]: Fassung gemäss Anhang des BG vom 1. Okt. 2010, in Kraft seit 1. Nov. 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); BBl**2009** 4915).
+- a. der Schweizerischen Sicherheitsuntersuchungsstelle (SUST) unverzüglich;
+- b. dem BAV innert 30 Tagen.
+
+<sup>2</sup> Die SUST führt eine Untersuchung über die Umstände, den Verlauf und die Ursachen von Unfällen und schweren Vorfällen beim Betrieb von Eisenbahnen durch.
+
+<sup>3</sup> Die Untersuchung dient dazu, ähnliche Unfälle zu vermeiden. Schuld und Haftung sind nicht Gegenstand der Untersuchung.
+
+<sup>4</sup> Die Betroffenen und die Personen, die zur Aufklärung der Ursachen des Unfalls oder des schweren Vorfalls beitragen können, müssen der SUST Auskunft erteilen und sämtliche Dokumente herausgeben. Zudem müssen sie der SUST freien Zutritt zur Unfallstelle sowie zu den betroffenen Eisenbahnanlagen, Fahrzeugen und anderen für den Betrieb und die Instandhaltung der Infrastruktur und der Fahrzeuge relevanten Anlagen gewähren und sie bei ihrer Untersuchungstätigkeit kostenlos unterstützen.
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15a
 
@@ -725,23 +748,30 @@ Das BAV ist befugt, Beschlüsse und Anordnungen von Organen oder Dienststellen d
 
 <sup>2</sup> Die Kommission besteht aus drei bis fünf unabhängigen Sachverständigen.
 
-<sup>3</sup> Sie ist von den Verwaltungsbehörden unabhängig und verfügt über ein eigenes Sekretariat. Sie ist dem UVEK administrativ zugeordnet.
+<sup>3</sup> Sie ist von den Verwaltungsbehörden unabhängig und verfügt über einen eigenen Untersuchungsdienst.[^15a-3] Sie ist dem UVEK administrativ zugeordnet.
 
-<sup>4</sup> Der Bundesrat regelt die Organisation der Kommission. Er kann sie mit der Kommission nach Artikel 25 des Luftfahrtgesetzes vom 21. Dezember 1948[^15a-3] zusammenlegen.
+<sup>3bis</sup> Sie kann Vereinbarungen mit ausländischen Untersuchungsstellen über die Untersuchung von Unfällen und schweren Vorfällen abschliessen.[^15a-4]
+
+<sup>3ter</sup> Der Untersuchungsdienst kann darüber hinaus im Einzelfall auf Ersuchen einer ausländischen Behörde an der Untersuchung von Unfällen und schweren Vorfällen im Ausland mitwirken.[^15a-5]
+
+<sup>4</sup> Der Bundesrat regelt die Organisation der Kommission. Er kann sie mit der Kommission nach Artikel 25 des Luftfahrtgesetzes vom 21. Dezember 1948[^15a-6] zusammenlegen.
 
 [^15a-1]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); BBl**2009** 4915). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^15a-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^15a-3]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^15a-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-5]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15a-6]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 15b
 
 **Verfahren der Untersuchungskommission**[^15b-1]
 
-<sup>1</sup> Die Kommission erstellt über jede Untersuchung einen Bericht. Dieser ist keine Verfügung und kann nicht angefochten werden.
+<sup>1</sup> Die Untersuchungskommission erstellt über jede Untersuchung einen Bericht.[^15b-2] Dieser ist keine Verfügung und kann nicht angefochten werden.
 
 <sup>2</sup>
 
-Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
+Der Untersuchungsdienst kann zur Aufklärung des Sachverhalts anordnen:[^15b-3]
 
 - a. die Vorladung von Personen, die sachdienliche Auskünfte geben können;
 - b. Hausdurchsuchungen sowie die Durchsuchung von Dokumenten, Aufzeichnungen, Personen und Gegenständen;
@@ -751,16 +781,20 @@ Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
 - f. die Auswertung der Daten von Aufzeichnungsgeräten;
 - g. das Einholen von Gutachten.
 
-<sup>3</sup> Greift das Sekretariat in Rechte oder Pflichten ein, so erlässt es Verfügungen. Soweit dieses Gesetz keine abweichenden Bestimmungen enthält, ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^15b-2] anwendbar.
+<sup>3</sup> Greift er in Rechte oder Pflichten ein, so erlässt er Verfügungen.[^15b-4] Soweit dieses Gesetz keine abweichenden Bestimmungen enthält, ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^15b-5] anwendbar.
 
-<sup>4</sup> Gegen die durch das Sekretariat im Rahmen der Untersuchung erlassenen Verfügungen kann innerhalb von 10 Tagen bei der Kommission Einsprache erhoben werden.
+<sup>4</sup> Gegen die vom Untersuchungsdienst im Rahmen der Untersuchung erlassenen Verfügungen kann innerhalb von zehn Tagen bei der Kommission Einsprache erhoben werden.[^15b-6]
 
 <sup>5</sup> Die Kommission betreibt ein System zur Qualitätssicherung. Insbesondere sorgt sie dafür, dass die Eingaben aller Beteiligten angemessen gewürdigt werden.
 
 <sup>6</sup> Der Bundesrat regelt das Verfahren, insbesondere die Zwangsmassnahmen und die Veröffentlichung der Berichte.
 
 [^15b-1]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); BBl**2009** 4915). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^15b-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^15b-5]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-6]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15c
 
@@ -778,6 +812,13 @@ Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
 
 <sup>1</sup> Das BAV ist befugt, im Rahmen seiner aufsichtsrechtlichen Tätigkeit die notwendigen Daten bei den Eisenbahnunternehmen zu erheben und auf andere Weise zu bearbeiten. Die Eisenbahnunternehmen müssen die für die amtliche Verkehrsstatistik erforderlichen Angaben einreichen.[^16-2]
 
+<sup>1bis</sup>
+
+Es kann folgende besonders schützenswerte Personendaten bearbeiten, soweit dies für die Sicherheit der Infrastruktur, insbesondere für deren Bau und Betrieb, erforderlich ist:
+
+- a. Daten über die Gesundheit;
+- b. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen.[^16-3]
+
 <sup>2</sup> Es kann Daten, die zur Ausstellung eines Ausweises dienen, bei den entsprechenden Personen erheben und auf andere Weise bearbeiten.
 
 <sup>3</sup> Zum Zweck der Verkehrsplanung kann es von den Eisenbahnunternehmen verlangen, dass sie streckenbezogene Daten erheben und einreichen. Es kann diese Daten bekannt geben, soweit dies zur Zweckerreichung erforderlich ist und ein überwiegendes öffentliches Interesse besteht.
@@ -793,16 +834,17 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 [^16-1]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^16-2]: Fassung des zweiten Satzes gemäss Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^16-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 16a
 
-**Datenbearbeitung durch Konzessionsinhaberinnen**[^16a-1]
+**Datenbearbeitung durch Infrastrukturbetreiberinnen**[^16a-1]
 
-<sup>1</sup> Die Unternehmen unterstehen für ihre konzessionierten und bewilligten Tätigkeiten den Artikeln 33–42 des Datenschutzgesetzes vom 25. September 2020[^16a-2] (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie stattdessen den Artikeln 30–32 DSG.
+<sup>1</sup> Die Infrastrukturbetreiberinnen unterstehen bei der Bearbeitung von Personendaten den Artikeln 33–42 des Datenschutzgesetzes vom 25. September 2020[^16a-2] (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie den Artikeln 30–32 DSG.
 
-<sup>2</sup> Sie können Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für die Sicherheit der Infrastruktur, insbesondere für deren Bau und Betrieb, erforderlich ist. Dies gilt auch für Dritte, die Aufgaben der Konzessionsinhaberinnen wahrnehmen. Diese bleiben für die Einhaltung der Datenschutzvorschriften verantwortlich.
+<sup>2</sup> Sie können Personendaten, einschliesslich besonders schützenswerter Personendaten nach Artikel 16 Absatz 1<sup>bis</sup>, bearbeiten, soweit dies für die Sicherheit der Infrastruktur, insbesondere für deren Bau und Betrieb, erforderlich ist. Dies gilt auch für Dritte, die Aufgaben der Infrastrukturbetreiberinnen wahrnehmen. Diese bleiben für die Einhaltung der Datenschutzvorschriften verantwortlich.
 
-[^16a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)). Fassung gemäss Anhang 1 Ziff. II 61 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^16a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^16a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 16b
@@ -856,7 +898,7 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 **Register der zugelassenen Fahrzeuge**[^17a-1]
 
-<sup>1</sup> Das BAV führt ein Register aller in der Schweiz nach diesem Gesetz zugelassenen Fahrzeuge.
+<sup>1</sup> Das BAV führt ein Register aller in der Schweiz nach diesem Gesetz zugelassenen Fahrzeuge, soweit sie nicht in einem Fahrzeugregister der EU eingetragen sind.[^17a-2]
 
 <sup>2</sup> Die Inhaber einer Betriebsbewilligung (Halter) sind verpflichtet, ihre Fahrzeuge zur Eintragung beim BAV anzumelden.
 
@@ -877,7 +919,11 @@ Er kann:
 - a. das Führen des Registers Dritten übertragen;
 - b. Fahrzeugkategorien bezeichnen, die nicht in das Register eingetragen werden müssen.
 
+<sup>6</sup> Er kann mit der EU die Registrierung der in der Schweiz zugelassenen Fahrzeuge in den Fahrzeugregistern der EU vereinbaren.[^17a-3]
+
 [^17a-1]: Eingefügt durch Ziff. I 1 des BG vom 19. Dez. 2008 (Änderungen des Transportrechts) ([AS 2009 5973](https://fedlex.data.admin.ch/eli/oc/2009/731); [BBl 2007 4377](https://fedlex.data.admin.ch/eli/fga/2007/648)). Fassung gemäss Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^17a-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^17a-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 17b
 
@@ -895,11 +941,13 @@ Er kann:
 
 **Beurteilung der sicherheitsrelevanten Aspekte**[^17c-1]
 
-<sup>1</sup> Das BAV beurteilt in den Bewilligungsverfahren die sicherheitsrelevanten Aspekte risikoorientiert auf der Grundlage von Sicherheitsgutachten oder Stichproben.
+<sup>1</sup> Das BAV beurteilt die sicherheitsrelevanten Aspekte des Baus und Betriebs der Eisenbahnanlagen und Fahrzeuge risikoorientiert mit Stichproben.
 
-<sup>2</sup> Es legt fest, wofür die Gesuchstellerin Sicherheitsgutachten zu erbringen hat.
+<sup>2</sup> Im Rahmen von Bewilligungsverfahren beurteilt es diese Aspekte auf der Grundlage des Sicherheitsnachweises. Es legt fest, wofür die Gesuchstellerin in den Bewilligungsverfahren Gutachten vorzulegen hat, um den Sicherheitsnachweis zu erbringen.
 
-[^17c-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+<sup>3</sup> Es kann die für die Beurteilung erforderlichen Daten und die Beurteilungsergebnisse mit der ERA, anderen Sicherheitsbehörden, Eisenbahnunternehmen, Haltern und für die Instandhaltung verantwortlichen Personen austauschen.
+
+[^17c-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### 2. Abschnitt: Plangenehmigungsverfahren
 
@@ -1254,17 +1302,39 @@ Für das Landumlegungsverfahren gilt:
 
 [^chap4-sec7-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
+#### Art. 18v<sup>bis</sup>
+
+**Sicherheitsnachweis**[^18vbis-1]
+
+Wer eine Eisenbahnanlage oder ein Fahrzeug betreiben will, muss die Sicherheit nachweisen.
+
+[^18vbis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 18w
 
-**Betriebsbewilligung**[^18w-1]
+**Betriebsbewilligung für Eisenbahnanlagen**[^18w-1]
 
-<sup>1</sup> Für Eisenbahnanlagen und Fahrzeuge ist eine Betriebsbewilligung erforderlich. Das BAV kann Ausnahmen vorsehen.
+<sup>1</sup> Für signifikant geänderte Eisenbahnanlagen ist eine Betriebsbewilligung des BAV erforderlich.
 
-<sup>2</sup> Das BAV erteilt die Betriebsbewilligung, wenn die Gesuchstellerin den Sicherheitsnachweis erbracht hat und das Vorhaben den massgebenden Vorschriften entspricht.
+<sup>2</sup> Für neue, aufgerüstete und erneuerte Eisenbahnanlagen ist eine Betriebsbewilligung erforderlich, wenn das BAV dies verlangt.
 
-<sup>3</sup> Es kann weitere Abklärungen vornehmen. Das Eisenbahnunternehmen stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung; es erteilt die notwendigen Auskünfte.
+<sup>3</sup> Das BAV erteilt die Betriebsbewilligung, wenn die Gesuchstellerin den Sicherheitsnachweis erbracht hat und die Eisenbahnanlage den massgebenden Vorschriften entspricht.
 
-[^18w-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+<sup>4</sup> Es kann weitere Abklärungen vornehmen. Die Gesuchstellerin stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung; sie erteilt zudem die notwendigen Auskünfte.
+
+[^18w-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 18w<sup>bis</sup>
+
+**Betriebsbewilligung für Fahrzeuge**[^18wbis-1]
+
+<sup>1</sup> Für neue sowie wesentlich geänderte Fahrzeuge ist eine Betriebsbewilligung des BAV erforderlich.
+
+<sup>2</sup> Das BAV erteilt die Betriebsbewilligung, wenn die Gesuchstellerin den Sicherheitsnachweis erbracht hat und das Fahrzeug den massgebenden Vorschriften entspricht.
+
+<sup>3</sup> Es kann weitere Abklärungen vornehmen. Die Gesuchstellerin stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung; sie erteilt zudem die notwendigen Auskünfte.
+
+[^18wbis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 18x
 
@@ -1357,47 +1427,103 @@ Normalspurige Bahnen müssen nach Massgabe der Bestimmungen dieses Abschnitts di
 
 #### Art. 23c
 
-**Teilsysteme**[^23c-1]
+**Betriebsbewilligung für Eisenbahnanlagen**[^23c-1]
 
-<sup>1</sup> Ein Eisenbahnverkehrsunternehmen darf für den Einsatz im interoperablen Verkehr vorgesehene Teilsysteme nur in Betrieb nehmen, wenn das BAV eine Betriebsbewilligung erteilt hat.
+<sup>1</sup> Für neue sowie signifikant geänderte Eisenbahnanlagen ist eine Betriebsbewilligung des BAV erforderlich.
 
-<sup>2</sup> Das BAV erteilt die Betriebsbewilligung, wenn das Unternehmen den Sicherheitsnachweis erbracht hat und das Teilsystem einschliesslich seiner Schnittstellen den grundlegenden Anforderungen, den technischen Ausführungsbestimmungen und den übrigen massgebenden Vorschriften entspricht.
+<sup>2</sup> Für aufgerüstete und erneuerte Eisenbahnanlagen ist eine Betriebsbewilligung erforderlich, wenn das BAV dies verlangt.
 
-<sup>3</sup> Es kann weitere Abklärungen vornehmen. Das Unternehmen stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung und erteilt die notwendigen Auskünfte.
+<sup>3</sup> Das BAV erteilt die Betriebsbewilligung, wenn die Gesuchstellerin den Sicherheitsnachweis erbracht hat und die Eisenbahnanlage einschliesslich ihrer Schnittstellen den grundlegenden Anforderungen, den technischen Ausführungsbestimmungen und den übrigen massgebenden Vorschriften entspricht.
+
+<sup>4</sup> Es kann weitere Abklärungen vornehmen. Die Gesuchstellerin stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung; sie erteilt zudem die notwendigen Auskünfte.
+
+<sup>5</sup> Der Bundesrat legt fest, welche Unterlagen zum Nachweis der Sicherheit erforderlich sind.
+
+[^23c-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23c<sup>bis</sup>
+
+**Inverkehrbringen von Fahrzeugen**[^23cbis-1]
+
+<sup>1</sup> Neue sowie wesentlich geänderte Fahrzeuge dürfen auf einer Eisenbahninfrastruktur nur in Verkehr gebracht werden, wenn der Halter über eine entsprechende Bewilligung des BAV verfügt.
+
+<sup>2</sup> Das BAV erteilt die Bewilligung, wenn die Gesuchstellerin den Sicherheitsnachweis erbracht hat und das Fahrzeug einschliesslich seiner Schnittstellen den grundlegenden Anforderungen, den technischen Ausführungsbestimmungen und den übrigen massgebenden Vorschriften entspricht.
+
+<sup>3</sup> Es kann weitere Abklärungen vornehmen. Die Gesuchstellerin stellt dafür das nötige Personal und Material sowie die erforderlichen Unterlagen kostenlos zur Verfügung; sie erteilt zudem die notwendigen Auskünfte.
 
 <sup>4</sup> Der Bundesrat legt fest, welche Unterlagen zum Nachweis der Sicherheit erforderlich sind.
 
-[^23c-1]: Siehe auch die UeB Änd. 16.3. 2012 am Schluss dieses Textes.
+<sup>5</sup> Er legt fest, welche Bewilligungen ausländischer Staaten oder der ERA anerkannt werden. Er kann vorsehen, dass für Bewilligungen, die nicht nur in der Schweiz gelten sollen, ausschliesslich die ERA zuständig ist.
+
+<sup>6</sup> Das BAV regelt mit der ERA die Zusammenarbeit bei der Erteilung von Bewilligungen für Fahrzeuge.
+
+<sup>7</sup> Es kann mit den zuständigen Behörden von Nachbarländern die Geltung von Bewilligungen für das Inverkehrbringen von Fahrzeugen auf grenznahen Strecken vereinbaren.
+
+[^23cbis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23d
 
-**Umrüstung und Erneuerung von Teilsystemen**
+**Aufrüstung und Erneuerung von Teilsystemen**[^23d-1]
 
-<sup>1</sup> Als Umrüstung gelten Änderungsarbeiten an einem Teilsystem, die seine Leistung verbessern. Als Erneuerung gelten Austauscharbeiten an einem Teilsystem, die seine Leistung nicht verändern.
+<sup>1</sup> Als Aufrüstung gelten Änderungsarbeiten an einem Teilsystem, die seine Gesamtleistung verbessern.
 
-<sup>2</sup> Umgerüstete Teilsysteme dürfen nur in Betrieb genommen werden, wenn das BAV eine neue Betriebsbewilligung erteilt hat.
+<sup>2</sup> Als Erneuerung gelten umfangreiche Austauscharbeiten an einem Teilsystem, die seine Gesamtleistung nicht verändern.
 
-<sup>3</sup> Wird ein Teilsystem erneuert, so entscheidet das BAV im Einzelfall, ob für die Inbetriebnahme eine neue Betriebsbewilligung erforderlich ist.
+[^23d-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23e
 
-**Interoperabilitätskomponenten**
+**Änderungen**[^23e-1]
 
-<sup>1</sup> Wer ein Bauteil in Verkehr bringt, das in ein Teilsystem eingebaut werden soll (Interoperabilitätskomponente), muss nachweisen können, dass die grundlegenden Anforderungen erfüllt werden.
+<sup>1</sup> Aufgerüstete und erneuerte Teilsysteme sowie andere Änderungen, einschliesslich des Austausches im Zuge von Instandhaltungsarbeiten, müssen den grundlegenden Anforderungen, den technischen Ausführungsbestimmungen und den übrigen massgebenden Vorschriften entsprechen. Für Abweichungen ist eine Bewilligung des BAV erforderlich.
 
-<sup>2</sup> Der Bundesrat legt fest, welche Unterlagen für den Nachweis erforderlich sind.
+<sup>2</sup> Der Ersatz von altrechtlichen Bauteilen durch Bauteile desselben Typs ist zulässig, wenn es sich um einen Austausch im Rahmen von Instandhaltungsarbeiten handelt.
+
+<sup>3</sup> Der Sicherheitsnachweis ist nachzuführen.
+
+[^23e-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>bis</sup>
+
+**Freier Verkehr mobiler Teilsysteme**[^23ebis-1]
+
+Fahrzeuge sowie die fahrzeugseitige Zugsteuerung, Zugsicherung und Signalgebung dürfen nur in Verkehr gebracht werden, wenn sie die grundlegenden Anforderungen erfüllen und eine einschlägige Prüferklärung vorliegt.
+
+[^23ebis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
+#### Art. 23e<sup>ter</sup>
+
+**Inverkehrbringen von Interoperabilitätskomponenten**[^23eter-1]
+
+Bauteile, die in ein Teilsystem eingebaut werden sollen (Interoperabilitätskomponenten), dürfen nur in Verkehr gebracht werden, wenn sie die grundlegenden Anforderungen erfüllen und eine einschlägige Erklärung vorliegt.
+
+[^23eter-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23f
 
-**Zuständigkeiten**
+**Zuständigkeiten**[^23f-1]
 
-<sup>1</sup> Der Bundesrat legt die grundlegenden Anforderungen und die technischen Ausführungsbestimmungen für Teilsysteme und Interoperabilitätskomponenten fest; er berücksichtigt dabei das internationale Recht.
+<sup>1</sup>
 
-<sup>2</sup> Das BAV bezeichnet im Einvernehmen mit dem Staatssekretariat für Wirtschaft die technischen Normen, welche geeignet sind, die grundlegenden Anforderungen und die technischen Ausführungsbestimmungen zu konkretisieren. Soweit möglich, bezeichnet es international harmonisierte Normen.
+Der Bundesrat erlässt unter Berücksichtigung des internationalen Rechts:
 
-<sup>3</sup> Das BAV entscheidet, welche Bestimmungen in Ergänzung der technischen Ausführungsbestimmungen zur Anwendung kommen sowie über Ausnahmen von ihrer Anwendung; es berücksichtigt dabei das internationale Recht.
+- a. die grundlegenden Anforderungen für Teilsysteme und Interoperabilitätskomponenten;
+- b. die übrigen zur Aufrechterhaltung der Interoperabilität mit dem europäischen Eisenbahnsystem erforderlichen Vorschriften.
 
-<sup>4</sup> Der Bundesrat kann mit ausländischen Staaten oder internationalen Einrichtungen Vereinbarungen über die Zusammenarbeit bei der Erarbeitung und Anwendung internationaler Vorschriften und Normen abschliessen.
+<sup>2</sup> Er kann mit ausländischen Staaten oder internationalen Einrichtungen Vereinbarungen über die Zusammenarbeit bei der Erarbeitung und Anwendung internationaler Vorschriften und Normen abschliessen.
+
+<sup>3</sup>
+
+Das BAV erlässt unter Berücksichtigung des internationalen Rechts:
+
+- a. die technischen Ausführungsbestimmungen für Teilsysteme und Interoperabilitätskomponenten;
+- b. die Bestimmungen, die in Ergänzung oder Abweichung von den technischen Spezifikationen Interoperabilität (TSI) gelten; es notifiziert diese der Europäischen Kommission und meldet ihr Teile des Eisenbahnsystems, für die in den TSI besondere Vorkehrungen vorübergehender oder dauerhafter Art erforderlich sind.
+
+<sup>4</sup> Es notifiziert der Europäischen Kommission oder der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr die übrigen Bestimmungen betreffend Sicherheit und Interoperabilität, die in Ergänzung zu europäischem oder internationalem Recht oder in Abweichung davon gelten.
+
+<sup>5</sup> Es bezeichnet im Einvernehmen mit dem Staatssekretariat für Wirtschaft die technischen Normen, die geeignet sind, die grundlegenden Anforderungen und die technischen Ausführungsbestimmungen zu konkretisieren. Soweit möglich bezeichnet es international harmonisierte Normen.
+
+[^23f-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23g
 
@@ -1409,9 +1535,9 @@ Normalspurige Bahnen müssen nach Massgabe der Bestimmungen dieses Abschnitts di
 
 #### Art. 23h
 
-**Inverkehrbringen**
+[^23h-1]
 
-Teilsysteme und Interoperabilitätskomponenten dürfen in Verkehr gebracht werden, wenn sie die grundlegenden Anforderungen erfüllen.
+[^23h-1]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), mit Wirkung seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23i
 
@@ -1427,29 +1553,39 @@ Zu diesem Zweck können seine Kontrollorgane:
 - b. Muster erheben;
 - c. Prüfungen vornehmen oder veranlassen;
 - d. während der üblichen Arbeitszeit die Geschäftsräume auskunftspflichtiger Personen betreten und besichtigen;
-- e. verlangen, dass Unterlagen oder Auskünfte in einer der Amtssprachen abgefasst werden.
+- e. verlangen, dass Unterlagen oder Auskünfte in einer der Amtssprachen abgefasst werden;
+- f.[^23i-1] Informationen mit der Europäischen Kommission, der ERA und anderen an der Marktüberwachung beteiligten Behörden und Stellen austauschen.
 
-<sup>3</sup> Das BAV kann vom Bundesamt für Zoll und Grenzsicherheit für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Interoperabilitätskomponenten verlangen.[^23i-1]
+<sup>3</sup> Das BAV kann vom Bundesamt für Zoll und Grenzsicherheit für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Interoperabilitätskomponenten verlangen.[^23i-2]
 
-<sup>4</sup> Die übrigen Befugnisse des BAV richten sich nach Artikel 10 Absätze 2–6 des Bundesgesetzes vom 12. Juni 2009[^23i-2] über die Produktesicherheit.
+<sup>4</sup> Die übrigen Befugnisse des BAV richten sich nach Artikel 10 Absätze 2–6 des Bundesgesetzes vom 12. Juni 2009[^23i-3] über die Produktesicherheit.
 
-[^23i-1]: Fassung gemäss Ziff. I 28 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23i-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23i-2]: Fassung gemäss Ziff. I 28 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
 **Konformitätsbewertung**
 
-<sup>1</sup> Der Nachweis, dass ein Teilsystem oder eine Interoperabilitätskomponente den grundlegenden Anforderungen und den technischen Ausführungsbestimmungen entspricht, ist durch die Konformitätsbescheinigung einer Konformitätsbewertungsstelle zu leisten.
+<sup>1</sup>
+
+Der Nachweis, dass ein Teilsystem oder eine Interoperabilitätskomponente den grundlegenden Anforderungen entspricht, ist zu leisten durch:
+
+- a. eine Prüferklärung oder eine Konformitäts- oder Gebrauchstauglichkeitserklärung des Herstellers oder seines Bevollmächtigten; und
+- b. eine Konformitätsbescheinigung einer Konformitätsbewertungsstelle oder einer benannten beauftragten Stelle.[^23j-1]
 
 <sup>2</sup>
 
 Konformitätsbewertungsstellen müssen:
 
 - a. in der Schweiz akkreditiert sein und über eine Haftpflichtversicherung verfügen; oder
-- b. von einem Mitgliedstaat der Europäischen Union benannt worden sein.
+- b.[^23j-2] von einem Mitgliedstaat der EU benannt worden sein.
 
 <sup>3</sup> Konformitätsbescheinigungen von ausländischen Konformitätsbewertungsstellen werden anerkannt, wenn ein völkerrechtlicher Vertrag dies vorsieht.
+
+[^23j-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^23j-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 23k
 
@@ -1461,7 +1597,11 @@ Der Bundesrat kann eine vom BAV unabhängige Konformitätsbewertungsstelle erric
 
 **Datenbearbeitung**
 
-Das BAV ist befugt, die für die Interoperabilität erforderlichen Daten bei den Eisenbahnunternehmen zu erheben, diese Daten zu bearbeiten und sie zu veröffentlichen.
+<sup>1</sup> Das BAV ist befugt, die für die Interoperabilität erforderlichen Daten bei den Eisenbahnunternehmen zu erheben, diese Daten zu bearbeiten und sie zu veröffentlichen.
+
+<sup>2</sup> Es kann die für den sicheren Betrieb interoperabler Fahrzeuge erforderlichen Daten mit der ERA und den Sicherheitsbehörden ausländischer Staaten austauschen*.*[^23l-1]
+
+[^23l-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 ### 8. Abschnitt: Kreuzungen zwischen öffentlichen Strassen und Bahnen
 
@@ -1914,6 +2054,14 @@ Er haftet für Schäden:
 [^40b-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^40b-5]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^40b-6]: Fassung gemäss Anhang Ziff. II 3 des Gütertransportgesetzes vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+
+#### Art. 40b<sup>bis</sup>
+
+**Haftpflichtversicherung**[^40bbis-1]
+
+Der Inhaber eines Eisenbahnverkehrsunternehmens muss eine Haftpflichtversicherung mit einer Deckungssumme von mindestens 100 Millionen Franken abschliessen.
+
+[^40bbis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 40c
 
@@ -2518,11 +2666,17 @@ Ist die Festsetzung des Erwerbspreises streitig, so erlässt das BAV eine Verfü
 
 **Fähigkeitsprüfung**
 
+<sup>1</sup>
+
 Der Bundesrat kann vorschreiben, dass:
 
 - a. Personen, die im Eisenbahnbereich eine sicherheitsrelevante Tätigkeit ausüben, eine theoretische und praktische Fähigkeitsprüfung abzulegen haben; er kann die Abgabe eines Ausweises bei bestandener Prüfung vorsehen;
 - b. Personen, die sich für eine Tätigkeit nach Buchstabe a ausbilden lassen wollen, eines vom BAV ausgestellten Lernausweises bedürfen;
 - c. Personen, die eine Tätigkeit nach Buchstabe a ausüben oder sich dazu ausbilden lassen wollen, bestimmte persönliche und fachliche Anforderungen erfüllen müssen; er kann für die Ermittlung der persönlichen Anforderungen auch psychologische und medizinische Untersuchungen vorsehen.
+
+<sup>2</sup> Das BAV kann mit den zuständigen Behörden von Nachbarländern die Geltung von Zulassungen für Personen, die im Eisenbahnbereich eine sicherheitsrelevante Tätigkeit ausüben, auf grenznahen Strecken vereinbaren.[^80-1]
+
+[^80-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 80a
 
@@ -2637,18 +2791,20 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vo
 - a. ein Bauvorhaben ohne die nach Artikel 18 erforderliche Plangenehmigung oder in Missachtung von aus dem Plangenehmigungsverfahren resultierenden Bedingungen, Auflagen oder Vorschriften ausführt oder ausführen lässt;
 - b.[^86a-3] eine Anlage oder ein Fahrzeug ohne die nach Artikel 18*w*, 23*c* oder 23*d* erforderliche Betriebsbewilligung oder unter Missachtung von Bedingungen, Auflagen oder Vorschriften der Betriebsbewilligung in Betrieb nimmt oder in Betrieb nehmen lässt;
 - c. einer gestützt auf dieses Gesetz erteilten Konzession zuwiderhandelt;
-- [tab] d. und e.[^86a-4] …
+- d.[^86a-4] eine Anlage ohne die nach Artikel 5 erforderliche Infrastrukturkonzession oder Sicherheitsgenehmigung oder unter Missachtung der daraus resultierenden Pflichten, Bedingungen, Auflagen oder Vorschriften betreibt oder betreiben lässt;
+- e.[^86a-5] ein Fahrzeug ohne die nach Artikel 8*c* erforderliche Netzzugangsbewilligung oder Sicherheitsbescheinigung oder unter Missachtung der daraus resultierenden Pflichten, Bedingungen, Auflagen oder Vorschriften betreibt oder betreiben lässt;
 - f. Videosignale unter Verletzung von Artikel 16*b* aufzeichnet, aufbewahrt, nutzt oder bekannt gibt;
-- g.[^86a-5] …
+- g.[^86a-6] …
 
-<sup>2</sup> Wer fahrlässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft.[^86a-6]
+<sup>2</sup> Wer fahrlässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft.[^86a-7]
 
 [^86a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^86a-2]: Fassung gemäss Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^86a-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-4]: Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-5]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); BBl**2009** 4915). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^86a-6]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^86a-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-5]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^86a-6]: Eingefügt durch Anhang des BG vom 1. Okt. 2010 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); BBl**2009** 4915). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^86a-7]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 87
 
@@ -2869,16 +3025,27 @@ Bis Ende 2018 beträgt die Einlage der Kantone in den Bahninfrastrukturfonds 500
 
 [^96a-1]: Eingefügt durch Ziff. I 6 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
+#### Art. 96b
+
+**Übergangsbestimmung zur Änderung vom 29. September 2023**[^96b-1]
+
+Soweit Sicherheitsbescheinigungen von anderen Staaten auch in der Schweiz gelten, bleiben sie bis zum Ablauf ihrer Geltungsdauer, längstens aber fünf Jahre nach Inkrafttreten der Änderung vom 29. September 2023 gültig.
+
+[^96b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+
 #### Art. 97
 
 **Inkrafttreten und Vollzug**
 
-Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens und erlässt die Vollzugsvorschriften. Soweit dieses Gesetz Aufgaben den Kantonen zuweist, erlassen diese die notwendigen Vollzugsvorschriften.[^97-1]
+<sup>1</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens und erlässt die Vollzugsvorschriften. Soweit dieses Gesetz Aufgaben den Kantonen zuweist, erlassen diese die notwendigen Vollzugsvorschriften.[^97-1]
 
-Datum des Inkrafttretens: 1. Juli 1958[^97-2]
+<sup>2</sup> Das BAV kann technische und betriebliche Ausführungsbestimmungen zu den Vollzugsvorschriften des Bundesrates erlassen.[^97-2]
+
+Datum des Inkrafttretens: 1. Juli 1958[^97-3]
 
 [^97-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [BBl 1994 I 497](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441)).
-[^97-2]: BRB vom 24. Juni 1958
+[^97-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^97-3]: BRB vom 24. Juni 1958
 
 ## Übergangsbestimmungen der Änderung vom 24. März 1995
 
