@@ -4,13 +4,12 @@ number: "970.100"
 title: Gesetz über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken
 short: "Gastgewerbegesetz, GGG"
 language: de
-version: 2018-03-01
-valid_until: 2024-06-30
-version_adopted: 2017-09-26
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 1997-11-25
 in_force: 1998-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/970.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2571/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2571/pdf_file"
 
 (Gastgewerbegesetz, GGG)
 
-Vom 25.11.1997 (Stand 01.03.2018)
+Vom 25.11.1997 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -125,13 +124,7 @@ beschliesst:
 
 #### § 10
 
-**Gebühren**
-
-<sup>1</sup> Kanton und Gemeinden können für die Prüfung von Gesuchen, die Abnahme von Prüfungen und die Kontrolltätigkeit beim Vollzug des Gesetzes eine Gebühr bis zu Fr. 2'000.– erheben.
-
-<sup>2</sup> Der Regierungsrat bestimmt die Ansätze innerhalb dieses Rahmens.
-
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen über die Gebühren im Baubewilligungsverfahren und für die Tätigkeit der Lebensmittelpolizeibehörden.
+**…**
 
 #### § 11
 
