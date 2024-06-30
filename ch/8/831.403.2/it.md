@@ -4,11 +4,11 @@ title: "Ordinanza del 22 giugno 2011 sulle fondazioni d'investimento (OFond)"
 short: OFond
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: it
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/it"
 
 (OFond)
 
-del 10 e 22 giugno 2011 (Stato 1° marzo 2024)
+del 10 e 22 giugno 2011 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -60,11 +60,12 @@ Possono costituire la cerchia degli investitori di una fondazione d’investimen
 
 ### (art. 53*k* lett. c ed e LPP)
 
-<sup>1</sup> Gli articoli 699, 700, 702, 702*a* e 703 del Codice delle obbligazioni[^3-1] si applicano per analogia alla convocazione e allo svolgimento dell’assemblea degli investitori.
+<sup>1</sup> Gli articoli 699–703 del Codice delle obbligazioni[^3-1] si applicano per analogia alla convocazione e allo svolgimento dell’assemblea degli investitori.[^3-2]
 
 <sup>2</sup> Il diritto di voto degli investitori si determina in base alla loro quota di partecipazione al patrimonio d’investimento.
 
 [^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-2]: Nuovo testo giusta il n. I dell’O del 24 apr. 2024, in vigore dal 1° lug. 2024 (RU **20****24** 205).
 
 #### Art. 4
 

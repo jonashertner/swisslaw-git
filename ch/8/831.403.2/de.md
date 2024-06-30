@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2011 über die Anlagestiftungen (ASV)
 short: ASV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: de
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/de"
 
 (ASV)
 
-vom 10. und 22. Juni 2011 (Stand am 1. März 2024)
+vom 10. und 22. Juni 2011 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -60,11 +60,12 @@ Den Anlegerkreis einer Anlagestiftung bilden können:
 
 ### (Art. 53*k* Bst. c und e BVG)
 
-<sup>1</sup> Für die Einberufung und Durchführung der Anlegerversammlung gelten die Artikel 699, 700, 702, 702*a* und 703 des Obligationenrechts[^3-1] sinngemäss.
+<sup>1</sup> Für die Einberufung und die Durchführung der Anlegerversammlung gelten die Artikel 699–703 des Obligationenrechts[^3-1] sinngemäss.[^3-2]
 
 <sup>2</sup> Das Stimmrecht der Anleger richtet sich nach ihrem Anteil am Anlagevermögen.
 
 [^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-2]: Fassung gemäss Ziff. I der V vom 24. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 205](https://fedlex.data.admin.ch/eli/oc/2024/205)).
 
 #### Art. 4
 

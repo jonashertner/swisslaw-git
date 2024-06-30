@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 2011 sur les fondations de placement (OFP)
 short: OFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: fr
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20240301/fr"
 
 (OFP)
 
-des 10 et 22 juin 2011 (État le 1<sup>er</sup> mars 2024)
+des 10 et 22 juin 2011 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -60,11 +60,12 @@ Peuvent constituer le cercle des investisseurs d’une fondation de placement:
 
 ### (art. 53*k*, let. c et e, LPP)
 
-<sup>1</sup> Les art. 699, 700, 702, 702*a* et 703 du code des obligations[^3-1] s’appliquent par analogie à la convocation et au déroulement de l’assemblée des investisseurs.
+<sup>1</sup> Les art. 699 à 703 du code des obligations[^3-1] s’appliquent par analogie à la convocation et au déroulement de l’assemblée des investisseurs.[^3-2]
 
 <sup>2</sup> Le droit de vote des investisseurs est déterminé par leurs parts respectives à la fortune de placement.
 
 [^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 205](https://fedlex.data.admin.ch/eli/oc/2024/205)).
 
 #### Art. 4
 
@@ -349,7 +350,7 @@ La juste valeur des placements non négociés en bourse ou sur un autre marché 
 
 <sup>2ter</sup> Cette valeur doit être évaluée par au moins un expert indépendant et qualifié.[^20-3]
 
-<sup>2quarter</sup> Pour les parts de fonds non cotés ou les créances des groupes de placements, elle se base sur la valeur d’inventaire nette correspondante.[^20-4]
+<sup>2quater</sup> Pour les parts de fonds non cotés ou les créances des groupes de placements, elle se base sur la valeur d’inventaire nette correspondante.[^20-4]
 
 <sup>3</sup> L’organe de gestion établit un rapport indiquant chaque apport en nature des investisseurs, avec sa valeur de marché à la date de référence du transfert ainsi que les droits émis en retour.
 
