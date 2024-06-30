@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer
 short: EpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/de"
 
 (Epidemiengesetz, EpG)
 
-vom 28. September 2012 (Stand am 1. September 2023)
+vom 28. September 2012 (Stand am 1. Juli 2024)
 
 *Die Bundesversammlung der Schweizerischen Eidgenossenschaft,*
 
@@ -191,7 +191,7 @@ Das BAG betreibt in Zusammenarbeit mit weiteren Bundesstellen und den zuständig
 
 <sup>3</sup> Der Bundesrat kann die Pflicht vorsehen, Verhütungs- und Bekämpfungsmassnahmen sowie deren Wirkung zu melden und Proben und Untersuchungsergebnisse an die von den zuständigen Behörden bestimmten Laboratorien zu senden.
 
-- [tab] <sup>4</sup> Die zuständigen kantonalen Behörden melden dem BAG Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen.
+<sup>4</sup> Die zuständigen kantonalen Behörden melden dem BAG Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen.
 
 <sup>5</sup> Wer ein Schiff oder ein Luftfahrzeug führt, meldet dem Betreiber von Hafenanlagen beziehungsweise dem Flughafenhalter Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen.
 
@@ -562,7 +562,7 @@ Er kann Vorschriften erlassen über:
 
 <sup>3</sup> Er kann Massnahmen zur Versorgung der Auslandschweizerinnen und Auslandschweizer mit Heilmitteln vorsehen.
 
-[^44-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
 
 #### Art. 45
 
@@ -785,36 +785,7 @@ Das Informationssystem dient:
 
 #### Art. 60a
 
-**Proximity- und Presence-Tracing-System für das Coronavirus Sars‑CoV‑2**[^60a-1]
-
-<sup>1</sup>
-
-Das BAG betreibt die folgenden Systeme zur Benachrichtigung von Personen, die potenziell dem Coronavirus Sars-CoV-2 ausgesetzt waren:
-
-- a. ein System, das Annäherungen zwischen Mobiltelefonen von Personen, die am System teilnehmen, aufzeichnet (Proximity-Tracing-System);
-- b. ein System, das Besucherinnen und Besucher von Veranstaltungen und Einrichtungen dazu verwenden können, ihre Anwesenheit ohne Angabe von Personendaten zu erfassen (Presence-Tracing-System).
-
-<sup>2</sup> Die Systeme und die bearbeiteten Daten dürfen ausschliesslich zur Benachrichtigung von Personen, die potenziell dem Coronavirus Sars-CoV-2 ausgesetzt waren, und zur Erstellung diesbezüglicher Statistiken verwendet werden. Sie dürfen insbesondere nicht zur Anordnung und Durchsetzung von Massnahmen nach den Artikeln 33–38 durch kantonale Behörden oder zur polizeilichen, strafrechtlichen oder nachrichtendienstlichen Verwertung verwendet werden.
-
-<sup>3</sup> Die Teilnahme an den Systemen ist für alle Personen freiwillig. Behörden, Unternehmen und Einzelpersonen dürfen keine Person aufgrund ihrer Teilnahme oder Nichtteilnahme bevorzugen oder benachteiligen; abweichende Vereinbarungen sind unwirksam.
-
-<sup>4</sup> Eine Person, die von einem der Systeme darüber benachrichtigt wurde, dass sie potenziell dem Coronavirus Sars-CoV-2 ausgesetzt war, kann gegen Nachweis der Benachrichtigung kostenlos Tests auf Infektion mit dem Coronavirus durchführen lassen.
-
-<sup>5</sup>
-
-Die Systeme sind nach folgenden Grundsätzen ausgestaltet:
-
-- a. Bei der Datenbearbeitung werden alle angemessenen technischen und organisatorischen Massnahmen getroffen, um zu verhindern, dass die teilnehmenden Personen bestimmbar sind.
-- b. Die Daten werden so weit wie möglich auf dezentralen Komponenten, die von den teilnehmenden Personen auf ihren Mobiltelefonen installiert werden, bearbeitet. Insbesondere dürfen Daten, die auf dem Mobiltelefon einer teilnehmenden Person über andere Personen erfasst werden, ausschliesslich auf diesem Mobiltelefon bearbeitet und gespeichert werden.
-- c. Durch das Proximity-Tracing-System werden nur Daten beschafft oder bearbeitet, die zur Bestimmung der Distanz und der Zeit der Annäherungen und zur Ausgabe der Benachrichtigungen erforderlich sind; es werden insbesondere keine Standortdaten erfasst.
-- d. Die Daten werden vernichtet, sobald sie für die Benachrichtigung nicht mehr erforderlich sind.
-- e. Der Quellcode und die technischen Spezifikationen aller Komponenten der Systeme sind öffentlich; die maschinenlesbaren Programme müssen nachweislich aus diesem Quellcode erstellt worden sein.
-
-<sup>6</sup> Die Bundesgesetzgebung über den Datenschutz ist anwendbar.
-
-<sup>7</sup> Der Bundesrat regelt die Einzelheiten der Organisation und des Betriebs der Systeme sowie der Bearbeitung der Daten.
-
-<sup>8</sup> Er sieht die Einstellung der Systeme vor, namentlich die Deaktivierung oder Deinstallation aller auf den Mobiltelefonen installierten Komponenten, sobald die Systeme zur Bewältigung der durch das Coronavirus Sars-CoV-2 verursachten Epidemie nicht mehr erforderlich sind oder sich als ungenügend wirksam erweisen.
+[^60a-1]
 
 [^60a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -850,7 +821,7 @@ Insbesondere dürfen folgende Daten bekannt gegeben werden:
 
 In Abweichung von Absatz 1 können die Personendaten nur ins Ausland bekannt gegeben werden, wenn:[^62-3]
 
-- a.[^62-4] ...
+- a.[^62-4] …
 - b. die betroffene Person im Einzelfall eingewilligt hat;
 - c. die Bekanntgabe im Einzelfall für die Wahrung der öffentlichen Gesundheit unerlässlich ist; oder
 - d.[^62-5] die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen, und es nicht möglich ist, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.
@@ -863,12 +834,7 @@ In Abweichung von Absatz 1 können die Personendaten nur ins Ausland bekannt geg
 
 #### Art. 62a
 
-**Verbindung des Proximity- und des Presence-Tracing-Systems mit ausländischen Systemen**[^62a-1]
-
-Das Proximity- und das Presence-Tracing-System nach Artikel 60*a* können mit entsprechenden ausländischen Systemen verbunden werden, wenn ein angemessener Schutz der Persönlichkeit im betreffenden Staat gewährleistet wird, durch:
-
-- a. die Gesetzgebung; oder
-- b. hinreichende Garantien, insbesondere durch Vertrag.
+[^62a-1]
 
 [^62a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -1064,7 +1030,7 @@ Der Bundesrat kann völkerrechtliche Vereinbarungen abschliessen über:
 - c. die sofortige Benachrichtigung, wenn die Gefahr droht, dass übertragbare Krankheiten die Landesgrenze überschreiten;
 - d. die Harmonisierung der Massnahmen zur Erkennung, Überwachung, Verhütung und Bekämpfung übertragbarer Krankheiten;
 - e. den Leichentransport über die Landesgrenze hinweg;
-- f.[^80-1] die Verbindung des Proximity‑ und des Presence‑Tracing-Systems nach Artikel 60*a* mit entsprechenden ausländischen Systemen.
+- f.[^80-1] …
 
 <sup>2</sup> Die zuständigen Bundesstellen arbeiten mit ausländischen Behörden und Institutionen sowie mit internationalen Organisationen zusammen.
 
@@ -1119,7 +1085,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 - k. die Vorschriften über die Ein- oder Ausreise verletzt (Art. 41);
 - l. Mitwirkungspflichten verletzt (Art. 43, 47 Abs. 2 und 48 Abs. 2);
 - m. die Vorschriften über den Transport sowie die Ein-, Aus- und Durchfuhr von Waren verletzt (Art. 45);
-- n.[^83-1] eine von ihr oder ihm angebotene Leistung, die für die Allgemeinheit bestimmt ist, einer Person verweigert, weil diese nicht am Proximity‑ oder am Presence-Tracing-System teilnimmt (Art. 60*a* Abs. 3).
+- n.[^83-1] …
 
 <sup>2</sup> Wer fahrlässig handelt, wird für Übertretungen nach Absatz 1 mit Busse bis zu 5000 Franken bestraft.
 

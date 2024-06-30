@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sulla lotta contro le malattie tras
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/it"
 
 (Legge sulle epidemie, LEp)
 
-del 28 settembre 2012 (Stato 1° settembre 2023)
+del 28 settembre 2012 (Stato 1° luglio 2024)
 
 *L’Assemblea federale della Confederazione Svizzera,*
 
@@ -564,7 +564,7 @@ Il Consiglio federale può emanare disposizioni su:
 
 <sup>3</sup> Può prevedere provvedimenti per approvvigionare con agenti terapeutici gli Svizzeri all’estero.
 
-[^44-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^44-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora l’O del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)**).**
 
 #### Art. 45
 
@@ -787,36 +787,7 @@ Il sistema d’informazione serve a:
 
 #### Art. 60a
 
-**Sistemi di tracciamento di prossimità e di presenza per il coronavirus SARS‑CoV‑2**[^60a-1]
-
-<sup>1</sup>
-
-L’UFSP gestisce i seguenti sistemi volti a informare le persone che sono state potenzialmente esposte al coronavirus SARS-CoV-2:
-
-- a. un sistema che registra la prossimità tra i telefoni cellulari di persone partecipanti al sistema (sistema di tracciamento di prossimità);
-- b. un sistema che i visitatori di manifestazioni e strutture possono utilizzare per registrare la loro presenza senza fornire dati personali (sistema di tracciamento di presenza).
-
-<sup>2</sup> I sistemi e i dati trattati possono essere utilizzati esclusivamente per informare le persone che sono state potenzialmente esposte al coronavirus SARS-CoV-2 e per allestire le relative statistiche. Non possono in particolare essere utilizzati dalle autorità cantonali per ordinare ed eseguire i provvedimenti di cui agli articoli 33–38, dalla polizia, dalle autorità penali o dai servizi delle attività informative.
-
-<sup>3</sup> La partecipazione ai sistemi è volontaria per tutti. Autorità, imprese e privati non possono favorire o penalizzare nessuno per la partecipazione o non partecipazione; eventuali accordi derogatori non hanno effetto.
-
-<sup>4</sup> Chi è stato informato attraverso uno dei sistemi di essere stato potenzialmente esposto al coronavirus SARS-CoV-2 può, dietro presentazione della relativa notifica, sottoporsi gratuitamente a test per determinare se presenta un’infezione da coronavirus.
-
-<sup>5</sup>
-
-I sistemi sono concepiti in base ai seguenti principi:
-
-- a. per il trattamento dei dati sono adottati tutti i provvedimenti tecnici e organizzativi adeguati per evitare che i partecipanti siano identificabili;
-- b. i dati sono trattati, per quanto possibile, su componenti decentralizzate e installate dai partecipanti sul loro telefono cellulare; in particolare, i dati su altre persone registrati sul telefono cellulare di un partecipante possono essere trattati e memorizzati esclusivamente su questo telefono cellulare;
-- c. il sistema di tracciamento di prossimità raccoglie o tratta soltanto i dati necessari a determinare la distanza e la durata della prossimità e a trasmettere le informazioni; in particolare, non registra dati sulla posizione;
-- d. i dati sono distrutti non appena non servono più alla trasmissione delle informazioni;
-- e. il codice sorgente e le specifiche tecniche di tutte le componenti dei sistemi sono pubblici; i programmi leggibili elettronicamente devono comprovatamente essere stati elaborati per mezzo di questo codice sorgente.
-
-<sup>6</sup> È applicabile la legislazione federale sulla protezione dei dati.
-
-<sup>7</sup> Il Consiglio federale disciplina i dettagli dell’organizzazione e dell’esercizio dei sistemi, nonché del trattamento dei dati.
-
-<sup>8</sup> Il Consiglio federale prevede la sospensione dei sistemi, segnatamente la disattivazione o la disinstallazione di tutte le componenti installate sui telefoni cellulari, non appena i sistemi non sono più necessari o non si rivelano sufficientemente efficaci per lottare contro l’epidemia causata dal coronavirus SARS-CoV-2.
+[^60a-1]
 
 [^60a-1]: Introdotto dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -865,12 +836,7 @@ In deroga al capoverso 1, i dati personali possono essere comunicati all’ester
 
 #### Art. 62a
 
-**Collegamento dei sistemi di tracciamento di prossimità e di presenza a sistemi esteri**[^62a-1]
-
-I sistemi di cui all’articolo 60*a* possono essere collegati a sistemi esteri corrispondenti se i rispettivi Stati garantiscono una protezione adeguata della personalità mediante:
-
-- a. la legislazione; o
-- b. garanzie sufficienti, in particolare contrattuali.
+[^62a-1]
 
 [^62a-1]: Introdotto dal n. I della LF del 19 giu. 2020 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nuovo testo giusta l’all. n. 2 della L del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -1066,7 +1032,7 @@ Il Consiglio federale può concludere accordi internazionali concernenti:
 - c. l’informazione immediata nel caso in cui vi sia un pericolo imminente che malattie trasmissibili si propaghino oltre i confini nazionali;
 - d. l’armonizzazione dei provvedimenti atti ad individuare, sorvegliare, prevenire le malattie trasmissibili e a lottare contro di esse;
 - e. il trasporto transfrontaliero di cadaveri;
-- f.[^80-1] il collegamento del sistema di tracciamento di prossimità e del sistema di tracciamento di presenza di cui all’articolo 60*a* a sistemi esteri corrispondenti.
+- f.[^80-1] ...
 
 <sup>2</sup> I servizi federali competenti collaborano con autorità e istituzioni estere, nonché con organizzazioni internazionali.
 
@@ -1121,7 +1087,7 @@ Il Consiglio federale esamina periodicamente l’efficacia, l’adeguatezza e l�
 - k. viola le disposizioni sull’entrata o l’uscita dalla Svizzera (art. 41);
 - l. viola l’obbligo di collaborare (art. 43, 47 cpv. 2 e 48 cpv. 2);
 - m. viola le disposizioni sul trasporto, l’importazione, l’esportazione e il transito di merci (art. 45);
-- n.[^83-1] rifiuta a una persona, perché questa non partecipa al sistema di tracciamento di prossimità o al sistema di tracciamento di presenza (art. 60*a* cpv. 3), un servizio da lui offerto e destinato al pubblico.
+- n.[^83-1] ...
 
 <sup>2</sup> Se ha agito per negligenza, per i reati di cui al capoverso 1 l’autore è punito con la multa fino a 5000 franchi.
 

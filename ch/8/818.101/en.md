@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on Controlling Communicable Human Disea
 short: EpidA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: en
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Epidemics Act, EpidA)
 
-of 28 September 2012 (Status as of 1 September 2023)
+of 28 September 2012 (Status as of 1 July 2024)
 
 *The Federal Assembly of the Swiss Confederation,*
 
@@ -122,7 +122,8 @@ The Federal Council may, after consulting the cantons, order the following measu
 - b. measures in relation to the population;
 - c. a requirement for doctors and other healthcare specialists to participate in combating communicable diseases;
 - d. mandatory vaccinations for population groups at high risk, for persons who are particularly exposed to infection and for persons who carry out certain activities.
-- [tab] <sup>3</sup> The Federal Department of Home Affairs (FDHA) shall coordinate the measures taken by the Confederation.
+
+<sup>3</sup> The Federal Department of Home Affairs (FDHA) shall coordinate the measures taken by the Confederation.
 
 #### Art. 7
 
@@ -192,7 +193,7 @@ Doctors, hospitals and other public or private healthcare institutions shall rep
 
 <sup>3</sup> The Federal Council may require that measures taken to prevent and control the disease as well as their effect are reported and that samples and test results are sent to the laboratories designated by the responsible authorities.
 
-- [tab] <sup>4</sup> The competent cantonal authorities shall report observations that indicate a risk to public health to the FOPH.
+<sup>4</sup> The competent cantonal authorities shall report observations that indicate a risk to public health to the FOPH.
 
 <sup>5</sup> Any person piloting a ship or an aircraft shall report observations that indicate a risk to public health to the port or airport operator.
 
@@ -563,7 +564,7 @@ It may issue regulations on:
 
 <sup>3</sup> It may provide for measures to supply Swiss citizens living abroad with therapeutic products.
 
-[^44-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^44-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Annex 2 No I]. See now: the National Economic Supply Act of 17 June 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
 
 #### Art. 45
 
@@ -786,36 +787,7 @@ The information system shall be used to:
 
 #### Art. 60a
 
-**Proximity and presence tracing system for the Sars‑CoV‑2 coronavirus**[^60a-1]
-
-<sup>1</sup>
-
-The FOPH shall operate the following systems to notify persons who have potentially been exposed to the Sars-CoV-2 coronavirus (PT System):
-
-- a. a system that records encounters between mobile telephones of persons that participate in the system (Proximity Tracing System);
-- b. a system that visitors to events and facilities may use to record their presence without disclosing any personal data (Presence Tracing System).
-
-<sup>2</sup> The systems and the data processed may only be used to notify persons who have been exposed to the Sars-CoV-2 coronavirus and to produce related statistics. The systems must not be used for other purposes, in particular by cantonal authorities to order or enforce measures under Articles 33–38 or by the police or the prosecution or intelligence services.
-
-<sup>3</sup> Participation in the systems is voluntary for everyone. Authorities, businesses and individuals may not give preference to or discriminate against any person based on their participation or non-participation; any agreements to the contrary shall be invalid.
-
-<sup>4</sup> Any person who has been notified by either of the systems that they have potentially been exposed to the Sars-CoV-2 coronavirus shall be entitled, on providing proof of notification, to be tested free of charge for infection with the coronavirus.
-
-<sup>5</sup>
-
-The systems shall be designed according to the following principles:
-
-- a. All appropriate technical and organisational measures shall be taken in relation to data processing to make it impossible to identify the participants.
-- b. The data shall as far as possible be processed on decentralised components installed by the participants on their mobile telephones. In particular, data recorded on a participant's mobile telephone relating to other persons shall be processed and stored exclusively on that mobile telephone.
-- c. The only data collected or processed by the Proximity Tracing System shall be data required to determine the distance and time of encounters and to issue the notifications; in particular, no location data shall be recorded.
-- d. The data shall be destroyed as soon as they are no longer required for the notification.
-- e. The source code and the technical specifications of all components of the systems shall be made public. It must be evident that the machine-readable programmes were produced using this source code.
-
-<sup>6</sup> The federal legislation on data protection applies.
-
-<sup>7</sup> The Federal Council shall regulate the details on organising and operating the systems and on processing the data.
-
-<sup>8</sup> The Federal Council shall provide for the systems to be terminated, and in particular for the deactivation or deinstallation of all components installed on mobile telephones, as soon as the systems are no longer required to manage the epidemic caused by the Sars-CoV-2 coronavirus or if they prove to be insufficiently effective.
+[^60a-1]
 
 [^60a-1]: Inserted by No I of the FA of 19 June 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Amended by Annex No 2 of the FA of 16 Dec. 2022, in force from 1 Jan. 2023 to 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -864,12 +836,7 @@ In derogation from paragraph 1, personal data may only be disclosed abroad if:[^
 
 #### Art. 62a
 
-**Connecting the Proximity and Presence Tracing Systems to foreign systems**[^62a-1]
-
-The Proximity and Presence Tracing Systems under Article 60*a* may be connected to equivalent foreign systems if an appropriate level of protection for personal privacy is guaranteed in the state concerned by:
-
-- a. legislation; or
-- b. adequate guarantees, for example in a contract.
+[^62a-1]
 
 [^62a-1]: Inserted by No I of the FA of 19 June 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Amended by Annex No 2 of the FA of 16 Dec. 2022, in force from 1 Jan. 2023 to 30 June 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -1065,7 +1032,7 @@ The Federal Council may enter into international agreements on:
 - c. immediate notification where there is an imminent risk of communicable diseases crossing the national border;
 - d. the harmonisation of measures for detecting, monitoring, preventing and controlling communicable diseases;
 - e. the transport of dead bodies beyond the national border;
-- f.[^80-1] the connection of the Proximity and Presence Tracing Systems under Article 60*a* to corresponding foreign systems.
+- f.[^80-1] …
 
 <sup>2</sup> The competent federal agencies shall work with foreign authorities and institutions and with international organisations.
 
@@ -1120,7 +1087,7 @@ Any person who wilfully commits any of the following acts shall be liable to a f
 - k. failing to comply with regulations relating to entering or leaving Switzerland (Art. 41);
 - l. failing to comply with obligations to cooperate (Arts 43, 47 para. 2 and 48 para. 2);
 - m. failing to comply with regulations on transport or on the import, export and transit of goods (Art. 45);
-- n.[^83-1] refusing to provide a person with a service that is offered to the public because that person does not participate in the Proximity or the Presence Tracing System (Art. 60*a* para. 3).
+- n.[^83-1] …
 
 <sup>2</sup> A person acting through negligence shall be liable to a fine not exceeding 5,000 francs for contraventions under paragraph 1.
 

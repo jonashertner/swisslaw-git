@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20240701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230901/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (État le 1<sup>er</sup> septembre 2023)
+du 28 septembre 2012 (État le 1<sup>er</sup> juillet 2024)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -559,9 +559,10 @@ Il peut édicter des dispositions sur les mesures suivantes:
 - b. la distribution de ces produits;
 - c. la simplification de l’importation et la limitation ou l’interdiction de l’exportation de ces produits, si ces mesures sont nécessaires pour écarter un risque sanitaire;
 - d. la constitution de réserves de produits thérapeutiques dans les hôpitaux et les autres institutions sanitaires.
-- [tab] <sup>3</sup> Il peut prévoir des mesures visant à approvisionner les Suisses de l’étranger en produits thérapeutiques.
 
-[^44-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+<sup>3</sup> Il peut prévoir des mesures visant à approvisionner les Suisses de l’étranger en produits thérapeutiques.
+
+[^44-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15. [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)annexe 2 ch. I]. Voir actuellement la LF du 17 juin 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
 
 #### Art. 45
 
@@ -657,7 +658,7 @@ L’OFSP alloue des indemnités aux laboratoires désignés centres nationaux de
 
 <sup>1</sup> La Confédération et les cantons créent un organe visant à encourager la coordination. Pour certaines questions, en particulier la détection, la surveillance, la prévention ou la lutte contre les zoonoses, ils peuvent constituer des sous-organes.
 
-- [tab] <sup>2</sup> L’organe de coordination et ses sous-organes sont composés de représentants de la Confédération et des cantons. Au besoin, d’autres experts peuvent également y être nommés.
+<sup>2</sup> L’organe de coordination et ses sous-organes sont composés de représentants de la Confédération et des cantons. Au besoin, d’autres experts peuvent également y être nommés.
 
 <sup>3</sup>
 
@@ -784,36 +785,7 @@ Le système d’information sert les tâches suivantes:
 
 #### Art. 60a
 
-**Systèmes de traçage de proximité et de traçage de présence pour le coronavirus SARS-CoV-2**[^60a-1]
-
-<sup>1</sup>
-
-L’OFSP exploite les systèmes suivants servant à informer les personnes qui ont été potentiellement exposées au coronavirus SARS-CoV-2:
-
-- a. un système qui enregistre les rapprochements entre les téléphones portables de personnes qui participent au système (système de traçage de proximité);
-- b. un système que peuvent utiliser les personnes lorsqu’elles fréquentent une manifestation ou un établissement afin de saisir leur présence sans indiquer de données personnelles (système de traçage de présence).
-
-<sup>2</sup> Les systèmes et les données traitées peuvent être utilisés uniquement pour informer les personnes qui ont été potentiellement exposées au coronavirus SARS-CoV-2 et pour établir des statistiques à cet égard. Ils ne peuvent pas en particulier servir aux autorités cantonales à ordonner ou à mettre en œuvre des mesures au sens des art. 33 à 38, ni à la police, aux autorités pénales ou aux services de renseignement.
-
-<sup>3</sup> La participation aux systèmes est volontaire pour tous. Les autorités, les entreprises et les particuliers ne peuvent pas favoriser ou désavantager une personne en raison de sa participation ou de sa non-participation; les conventions contraires sont sans effet.
-
-<sup>4</sup> Toute personne qui a été informée par un des systèmes de son exposition potentielle au coronavirus SARS-CoV-2 peut, sur présentation du message d’information reçu, se soumettre gratuitement à un test d’identification du coronavirus.
-
-<sup>5</sup>
-
-Les systèmes sont conçus selon les principes suivants:
-
-- a. lors du traitement des données, toutes les mesures techniques et organisationnelles appropriées sont prises pour éviter que les participants puissent être identifiés;
-- b. dans la mesure du possible, les données sont traitées sur des composants décentralisés que les participants installent sur leur téléphone portable; en particulier, les données enregistrées sur le téléphone portable d’un participant concernant d’autres participants sont traitées et enregistrées exclusivement sur ce téléphone;
-- c. le système de traçage de proximité ne collecte ou ne traite que les données nécessaires au calcul de la distance et du temps de rapprochement ainsi qu’à l’envoi de notifications; en particulier, aucune donnée de géolocalisation n’est saisie;
-- d. les données sont supprimées dès qu’elles ne sont plus nécessaires aux messages d’information;
-- e. le code source et les spécifications techniques de tous les composants des systèmes sont publics; il doit être possible de prouver que les programmes lisibles par une machine ont été élaborés au moyen de ce code source.
-
-<sup>6</sup> La législation fédérale relative à la protection des données s’applique.
-
-<sup>7</sup> Le Conseil fédéral règle les modalités de l’organisation et de l’exploitation des systèmes ainsi que du traitement des données.
-
-<sup>8</sup> Il prévoit l’arrêt des systèmes, en particulier la désactivation ou la désinstallation de tous les composants installés sur les téléphones portables, dès que les systèmes ne sont plus requis ou qu’ils ne se révèlent pas suffisamment efficaces pour lutter contre l’épidémie causée par le coronavirus SARS-CoV-2.
+[^60a-1]
 
 [^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -862,12 +834,7 @@ En dérogation à l’al. 1, il est possible de communiquer des données personn
 
 #### Art. 62a
 
-**Liaison des systèmes de traçage de proximité et de traçage de présence avec des systèmes étrangers**[^62a-1]
-
-Les systèmes visés à l’art. 60*a* peuvent être reliés à des systèmes étrangers correspondants, pour autant qu’un niveau adéquat de protection de la personnalité soit assuré dans l’État concerné par:
-
-- a. la législation, ou
-- b. des garanties suffisantes, notamment contractuelles.
+[^62a-1]
 
 [^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -1063,7 +1030,7 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 - c. l’information immédiate en cas de risque de propagation transfrontalière d’une maladie transmissible;
 - d. l’harmonisation des mesures visant à détecter, à surveiller, à prévenir ou à combattre les maladies transmissibles;
 - e. le transport transfrontalier de cadavres;
-- f.[^80-1] la liaison des systèmes de traçage de proximité et de traçage de présence visés à l’art. 60*a* avec des systèmes étrangers correspondants.
+- f.[^80-1] …
 
 <sup>2</sup> Les services fédéraux compétents coopèrent avec les autorités et les institutions étrangères ainsi qu’avec les organisations internationales.
 
@@ -1084,7 +1051,9 @@ Le Conseil fédéral examine périodiquement l’efficacité, l’adéquation et
 
 **Délits**
 
-<sup>1</sup> À moins qu’il n’ait commis une infraction plus grave selon le code pénal[^82-1], est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement,
+<sup>1</sup>
+
+À moins qu’il n’ait commis une infraction plus grave selon le code pénal[^82-1], est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
 - a. omet de prendre les mesures de confinement nécessaires lors de l’utilisation d’agents pathogènes dangereux en milieu confiné (art. 26);
 - b. dissémine à des fins de recherche ou met sur le marché sans autorisation des agents pathogènes (art. 27);
@@ -1116,7 +1085,7 @@ Est puni d’une amende quiconque, intentionnellement:
 - k. enfreint les dispositions sur l’entrée et la sortie du pays (art. 41);
 - l. enfreint l’obligation de collaborer (art. 43, 47, al. 2, et 48, al. 2);
 - m. enfreint les dispositions sur le transport ainsi que sur l’importation, l’exportation ou le transit de marchandises (art. 45);
-- n.[^83-1] refuse une prestation destinée à l’usage public à une personne en raison de sa non-participation au système de traçage de proximité ou au système de traçage de présence (art. 60*a*, al. 3).
+- n.[^83-1] …
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une amende de 5000 francs au plus pour les contraventions visées à l’al. 1.
 
