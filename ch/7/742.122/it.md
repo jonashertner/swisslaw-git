@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 concernente l'accesso alla rete ferroviar
 short: OARF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: it
-version: 2021-01-01
+version: 2024-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20240701-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/it"
 
 (OARF)
 
-del 25 novembre 1998 (Stato 1° gennaio 2021)
+del 25 novembre 1998 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
-## Sezione 1:**** Oggetto e campo d’applicazione
+## Sezione 1: Oggetto e campo d’applicazione
 
 [^sec1-1]
 
@@ -52,7 +52,7 @@ L’accesso alla rete non è obbligatoriamente accordato a:
 
 Abrogato
 
-## Sezione 2:**** Accesso alla rete per le imprese svizzere
+## Sezione 2: Accesso alla rete per le imprese svizzere
 
 [^sec2-1]
 
@@ -159,7 +159,7 @@ Le autorizzazioni estere di accesso alla rete possono essere riconosciute per le
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
 
-## Sezione 3*a*:**** Piano di utilizzazione della rete
+## Sezione 3*a*: Piano di utilizzazione della rete
 
 [^sec3a-1]
 
@@ -196,7 +196,7 @@ Il piano di utilizzazione della rete contiene un grafico reticolare e in partico
 
 [^9b-1]: Introdotto dal n. I dell’O del 5 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
-## Sezione 4: Attribuzione delle tracce****
+## Sezione 4: Attribuzione delle tracce
 
 [^sec4-1]
 
@@ -422,13 +422,15 @@ Essa stabilisce per lo meno:
 - g. i pagamenti da effettuare in caso di mancato rispetto della convenzione;
 - h. le condizioni di recesso per l’impresa di trasporto ferroviario (clausola di denuncia);
 - i. la/e lingua/e ufficiale/i che il personale deve utilizzare;
-- j.[^15-3] i diritti e i doveri relativi al controllo dei treni mediante appositi dispositivi.
+- j.[^15-3] i diritti e i doveri relativi al controllo dei treni mediante appositi dispositivi;
+- k.[^15-4] l’attestazione da parte dell’impresa di trasporto ferroviario di un’assicurazione di responsabilità civile sufficiente.
 
 <sup>3</sup> Se esiste già una convenzione e se la sua validità dev’essere estesa di una singola traccia, per la conferma di cui al capoverso 2 lettere e ed f è sufficiente un messaggio inviato per posta elettronica da parte dell’impresa di trasporto ferroviario e memorizzato dal gestore dell’infrastruttura.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 [^15-2]: Abrogata dal n. I dell’O del 16 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^15-3]: Introdotta dal n. I dell’O del 31 ago. 2011, in vigore dal 1° ott. 2011 ([RU 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
+[^15-4]: Introdotta dal n. III dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 16
 
@@ -727,6 +729,7 @@ I gestori dell’infrastruttura fissano i prezzi delle seguenti prestazioni supp
 - d. percorsi di manovra;
 - e.[^22-4] approvvigionamento stazionario di veicoli in acqua ed energia elettrica, a condizione che quest’ultima non possa essere conteggiata in funzione del consumo;
 - e<sup>bis</sup>.[^22-5] eliminazione di rifiuti, feci e acque di rifiuto;
+- f. utilizzazione del binario e degli impianti di carico;
 - g. manovre in stazioni di smistamento;
 - h. liberazione di una tratta al di fuori delle ore d’esercizio abituali;
 - i.[^22-6] prestazioni del servizio manovra, nella misura in cui non sono fornite in stazioni di smistamento;
@@ -755,8 +758,6 @@ I gestori dell’infrastruttura fissano i prezzi delle seguenti prestazioni supp
 #### Art. 23
 
 **Prestazioni di servizio**
-
-<sup>1</sup>
 
 L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio a prezzi liberamente negoziabili anche presso imprese diverse dal gestore dell’infrastruttura. Non rientrano nell’accesso alla rete e comprendono in particolare:
 
@@ -807,7 +808,7 @@ L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio 
 
 [^26-1]: Abrogato dal n. I 4 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, con effetto dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
-## Sezione 8: Ritiro dell’autorizzazione di accesso alla rete****
+## Sezione 8: Ritiro dell’autorizzazione di accesso alla rete
 
 [^sec8-1]
 
@@ -842,7 +843,7 @@ L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio 
 
 <sup>2</sup> Per le imprese di trasporto che prima dell’entrata in vigore della presente ordinanza impiegavano i propri veicoli su tratte estere, la domanda di rilascio di un’autorizzazione per l’accesso alla rete è trattata come la domanda di rinnovo di detta autorizzazione. L’UFT accorda un termine da sei a 24 mesi per i necessari adeguamenti risultanti dal nuovo diritto. Durante questo termine non è ancora necessario un certificato di sicurezza.
 
-[^29-1]: [[RU 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443)[2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 n. 1. [RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. a]. Vedi ora l’O del 14 ott. 2015 sulle concessioni, sulla pianificazione e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^29-1]: [[RU 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747); [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 n. 1. [RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. a]. Vedi ora l’O del 14 ott. 2015 sulle concessioni, sulla pianificazione e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
 
 #### Art. 29a
 
@@ -862,7 +863,7 @@ L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio 
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5)
 
@@ -886,33 +887,6 @@ Allegato 1*[^t-1]*
 
 \4. Se gli obblighi finanziari dell’impresa richiedente superano i mezzi e i ricavi disponibili in Svizzera, l’UFT può esigere una garanzia bancaria o una fideiussione di un’impresa svizzera solvibile.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
-(art. 19*a* cpv. 6)
-
-## Tronchi di confine
-
-[^t-2]: Nuovo testo giusta il n. II dell’O del 5 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-
-- 1\. Basel Bad Bf – confine (– Weil am Rhein)
-- 2\. Basel Bad Bf – confine (– Basel Bad Rbf)
-- 3\. Basel Bad Bf – confine d’infrastruttura BEV[^annex2-lvlu1-1]/FFS – Basel SBB PB[^annex2-lvlu1-2]/RB[^annex2-lvlu1-3]
-- 4\. Basel RB-Nordkopf – Basel St. Jakob – Basel GB[^annex2-lvlu1-4] – Basel SBB
-- 5\. Basel Bad Bf – confine (– Grenzach)
-- 6\. Basel Bad Bf – confine (– Lörrach)
-- 7\. (Kreuzlingen –) confine d’infrastruttura FFS/BEV – confine (– Konstanz)
-- 8\. (Kreuzlingen Hafen –) confine d’infrastruttura FFS/BEV – confine (– Konstanz)
-- 9\. Schaffhausen – confine (– Gottmadingen)
-- 10\. Schaffhausen – confine (– Erzingen [Baden])
-- 11\. St. Margrethen – confine (Austria)
-- 12\. Buchs SG – confine (Principato del Liechtenstein)
-- 13\. Basel SBB – Basel St. Johann – confine (Francia)
-- 14\. Vallorbe – confine (Francia)
-- 15\. Genève-La Praille – La Plaine – confine (Francia)
-- 16\. Genève-Cornavin – La Plaine – confine (Francia)
-- 17\. Chiasso Smistamento – confine (Italia)
-
-[^annex2-lvlu1-1]: BEV: proprietà delle ferrovie federali tedesche
-[^annex2-lvlu1-2]: PB: stazione viaggiatori
-[^annex2-lvlu1-3]: RB: stazione di smistamento
-[^annex2-lvlu1-4]: GB: stazione merci
+[^t-2]: Abrogato dal n. III dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).

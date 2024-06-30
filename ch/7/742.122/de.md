@@ -4,11 +4,11 @@ title: Eisenbahn-Netzzugangsverordnung vom 25. November 1998 (NZV)
 short: NZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: de
-version: 2021-01-01
+version: 2024-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20240701-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/de"
 
 (NZV)
 
-vom 25. November 1998 (Stand am 1. Januar 2021)
+vom 25. November 1998 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,7 @@ verordnet:
 [^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
-## 1. Abschnitt:**** Gegenstand und Geltungsbereich
+## 1. Abschnitt: Gegenstand und Geltungsbereich
 
 [^sec1-1]
 
@@ -52,7 +52,7 @@ Kein Netzzugang muss gewährt werden auf:
 
 Aufgehoben
 
-## 2. Abschnitt:**** Netzzugang für schweizerische Unternehmen
+## 2. Abschnitt: Netzzugang für schweizerische Unternehmen
 
 [^sec2-1]
 
@@ -159,7 +159,7 @@ Ausländische Netzzugangsbewilligungen können für Fahrten auf grenznahen Strec
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
 
-## 3*a*. Abschnitt:**** Netznutzungsplan
+## 3*a*. Abschnitt: Netznutzungsplan
 
 [^sec3a-1]
 
@@ -181,7 +181,7 @@ Der Netznutzungsplan enthält eine Netzgrafik und insbesondere Angaben über:
 
 <sup>2</sup> Er enthält soweit erforderlich Angaben zu geplanten Ankunfts-, Abfahrts- und Durchfahrtszeiten.
 
-<sup>3</sup> ...[^9a-2]
+<sup>3</sup> …[^9a-2]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 [^9a-2]: Aufgehoben durch Ziff. I der V vom 5. Sept 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
@@ -196,7 +196,7 @@ Der Netznutzungsplan enthält eine Netzgrafik und insbesondere Angaben über:
 
 [^9b-1]: Eingefügt durch Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
-## 4. Abschnitt: Trassenvergabe****
+## 4. Abschnitt: Trassenvergabe
 
 [^sec4-1]
 
@@ -215,7 +215,8 @@ Die Infrastrukturbetreiberin gewährt den diskriminierungsfreien Zugang zu ihrem
 - c. keine technischen Bedingungen stellt, die keine Grundlage in Gesetzen und Verordnungen haben;
 - d.[^10-1] die grundsätzlichen Bedingungen des Netzzuganges, soweit sie in dieser Verordnung nicht ausgeführt sind, und die wesentlichen technischen Gegebenheiten der Strecke wie Profil (Neigung), Kurvenradien, Länge der Ausweichgleise, Perronlängen, Streckenklasse und Sicherheitsausrüstung publiziert;
 - e.[^10-2] Zusatzleistungen (Art. 22) anbietet, soweit dies mit der vorhandenen Infrastruktur und dem verfügbaren Personal möglich ist.
-- [tab] <sup>2</sup> Das BAV legt die Art und Weise der Publikationen fest.
+
+<sup>2</sup> Das BAV legt die Art und Weise der Publikationen fest.
 
 <sup>3</sup> Die Zuständigkeit der Trassenvergabestelle bleibt vorbehalten.[^10-3]
 
@@ -316,7 +317,7 @@ Eisenbahnverkehrsunternehmen[^11a-2] dürfen ihnen zugeteilte Trassen nicht auf 
 
 <sup>2</sup> Stehen alternative, nicht überlastete Strecken zur Verfügung, so sind diese als Ersatz anzubieten.
 
-<sup>3</sup> ...[^12a-2]
+<sup>3</sup> …[^12a-2]
 
 <sup>4</sup> Bei einer Streckenüberlastung ermittelt die Trassenvergabestelle unter Einbezug der betroffenen Infrastrukturbetreiberin die Gründe in einer Kapazitätsanalyse und legt darin kurz- und mittelfristige Massnahmen zur Beseitigung der Überlastung dar. Sie veröffentlicht die Kapazitätsanalyse innerhalb von drei Monaten, nachdem die Strecke für überlastet erklärt worden ist. Sie kann die in der Kapazitätsanalyse dargelegten Massnahmen für die Nutzerinnen als verbindlich erklären.[^12a-3]
 
@@ -415,20 +416,22 @@ Sie enthält mindestens:
 
 - a. die Vertragsparteien;
 - b. die Zulässigkeit des Beizugs von Subunternehmern oder Partnerunternehmen und die in diesem Falle auszutauschenden Informationen;
-- c.[^15-2] ...
+- c.[^15-2] …
 - d. die Vertragsdauer;
 - e. die Definition der Trassen sowie deren Qualität;
 - f. den Trassenpreis und die zu dessen Berechnung notwendigen Daten;
 - g. die bei Nichteinhaltung der Vereinbarung zu leistenden Zahlungen;
 - h. die Rücktrittsbedingungen für die Eisenbahnverkehrsunternehmen (Kündigungsklausel);
 - i. die vom Personal anzuwendende(n) Amtssprache(n);
-- j.[^15-3] die Regelung der Rechte und Pflichten bezüglich der Überwachung der Züge durch Zugkontrolleinrichtungen.
+- j.[^15-3] die Regelung der Rechte und Pflichten bezüglich der Überwachung der Züge durch Zugkontrolleinrichtungen;
+- k.[^15-4] den Nachweis des Eisenbahnverkehrsunternehmens über eine genügende Haftpflichtversicherung.
 
 <sup>3</sup> Besteht bereits eine Vereinbarung und soll ihre Gültigkeit um eine einzelne Trasse ausgedehnt werden, genügt für die Bestätigung nach Absatz 2 Buchstaben e und f eine von der Infrastrukturbetreiberin aufgezeichnete elektronische Übermittlung durch die Eisenbahnverkehrsunternehmen.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 [^15-2]: Aufgehoben durch Ziff. I der V vom 16. Juni 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^15-3]: Eingefügt durch Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
+[^15-4]: Eingefügt durch Ziff. III der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 16
 
@@ -528,7 +531,7 @@ Der qualitätsbezogene Preisfaktor pro Trasse multipliziert den Basispreis mit:
   - 2\. mit einer gesamten Fahrzeit von mindestens 15 Minuten längerer Dauer als bei der schnellstmöglichen Trasse gleicher Höchstgeschwindigkeit,
   - 3\. von Traktor- und Nahgüterzügen im Einzelwagenladungsverkehr.
 
-<sup>3</sup> ...[^19a-5]
+<sup>3</sup> …[^19a-5]
 
 <sup>4</sup> Der nachfragebezogene Haltezuschlag beträgt 2 Franken pro Halt auf Strecken mit Mischverkehr von Regionalverkehr und mindestens zwölf Zügen des Personenfernverkehrs oder des überregionalen Güterverkehrs pro Tag. Das BAV publiziert eine Liste dieser Strecken.
 
@@ -575,7 +578,7 @@ Die Eisenbahnverkehrsunternehmen haben für Fahrten von Fahrzeugen des Güterver
 
 <sup>3</sup> Das BAV stellt eine Datenbank über die Fahrzeuge bereit, für die ein Lärmbonus geltend gemacht werden kann. Es bezeichnet die Stelle, die diese Datenbank betreibt.[^19b-5]
 
-<sup>3bis</sup> ...[^19b-6]
+<sup>3bis</sup> …[^19b-6]
 
 <sup>4</sup>
 
@@ -704,7 +707,7 @@ Die Grundleistungen umfassen:
 - a. die Benutzung der Trasse in der festgelegten Qualität, einschliesslich der Fahrdienstleitung;
 - b. den Bezug von Strom ab Fahrdraht;
 - c. die sichere und zeitgerechte Betriebsabwicklung auf der Strecke, in den durchfahrenen Bahnhöfen und in den Knoten, einschliesslich der für die Betriebsabwicklung erforderlichen Telekommunikations- und Informatikleistungen;
-- d. für Reisezüge die Benutzung eines Gleises mit Perronkante in den Ausgangs-, Zwischen- und Endstationen im Rahmen der Anforderungen des Systemverkehrs und den Zugang der Reisenden zu den Publikumsanlagen dieser Stationen;
+- d. für Reisezüge die Benutzung eines Gleises mit Perronkante in den Ausgangs‑, Zwischen- und Endstationen im Rahmen der Anforderungen des Systemverkehrs und den Zugang der Reisenden zu den Publikumsanlagen dieser Stationen;
 - e. die Gleisbenutzung durch den unveränderten Zug im Güterverkehr zwischen vereinbartem Ausgangs- und Endpunkt.
 
 <sup>2</sup> Der Preis für die Grundleistungen wird als Anreiz zur Minimierung von Störungen und zur Erhöhung der Leistung des Schienennetzes durch ein Bonus-Malus-System ergänzt. Dieses kann Konventionalstrafen für Störungen des Netzbetriebs, eine Entschädigung für von Störungen betroffene Unternehmen und eine Bonusregelung für Leistungen, die das geplante Leistungsniveau übersteigen, umfassen. Das BAV regelt die Einzelheiten in einer Richtlinie.
@@ -719,7 +722,7 @@ Die Grundleistungen umfassen:
 
 Die Infrastrukturbetreiberin legt die Preise für folgende Zusatzleistungen, soweit diese mit der vorhandenen Infrastruktur und dem verfügbaren Personal angeboten werden, diskriminierungsfrei fest und publiziert sie:[^22-1]
 
-- a.[^22-2] ...
+- a.[^22-2] …
 - b.[^22-3] Gleisbelegung auf der Strecke bei einer vom Eisenbahnverkehrsunternehmen verlangten, nicht durch den Systemverkehr bedingten Wartezeit;
 - c. Abstellen von Zugskompositionen;
 - d. Rangierfahrstrassen;
@@ -757,7 +760,7 @@ Die Infrastrukturbetreiberin legt die Preise für folgende Zusatzleistungen, sow
 
 Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei aushandelbaren Preisen auch bei anderen Unternehmen als der Infrastrukturbetreiberin zugekauft werden. Sie gehören nicht zum Netzzugang und umfassen insbesondere:
 
-- a. ...[^23-1]
+- a.[^23-1] …
 - b. Distributionsleistungen;
 - c. Reisegepäck-handling;
 - d. Störungsintervention bei nicht betriebsbehindernden Mängeln, Kleinunterhalt, Grossunterhalt, Reinigung der Fahrzeuge;
@@ -798,13 +801,13 @@ Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei ausha
 
 **Einsicht in die Vereinbarungen**
 
-<sup>1</sup> ...[^26-1]
+<sup>1</sup> …[^26-1]
 
 <sup>2</sup> Wer ein schutzwürdiges Interesse nachweist, insbesondere selbst eine Strecke befährt oder zu befahren plant, kann die Bekanntgabe der Trassenpreise verlangen. Ist ein Einsichtsrecht streitig, entscheidet die Schiedskommission.
 
 [^26-1]: Aufgehoben durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
-## 8. Abschnitt: Entzug der Netzzugangsbewilligung****
+## 8. Abschnitt: Entzug der Netzzugangsbewilligung
 
 [^sec8-1]
 
@@ -827,7 +830,7 @@ Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei ausha
 
 **Änderung bisherigen Rechts**
 
-...[^28-1]
+…[^28-1]
 
 [^28-1]: Die Änderungen können unter [AS 1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)konsultiert werden.
 
@@ -859,7 +862,7 @@ Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei ausha
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 5)
 
@@ -883,33 +886,6 @@ Anhang 1*[^t-1]*
 
 \4. Übersteigen die finanziellen Verpflichtungen des Gesuchstellers seine im Inland verfügbaren Mittel und Erlöse, so kann das BAV eine Bankgarantie oder eine Bürgschaft eines solventen schweizerischen Unternehmens verlangen.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
-(Art. 19*a* Abs. 6)
-
-## Grenzbetriebsstrecken
-
-[^t-2]: Fassung gemäss Ziff. II der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-
-- 1\. Basel Bad Bf – Grenze (– Weil am Rhein)
-- 2\. Basel Bad Bf – Grenze (– Basel Bad Rbf)
-- 3\. Basel Bad Bf – Infrastrukturgrenze BEV[^annex2-lvlu1-1]/SBB – Basel SBB PB[^annex2-lvlu1-2]/RB[^annex2-lvlu1-3]
-- 4\. Basel RB-Nordkopf – Basel St. Jakob – Basel GB[^annex2-lvlu1-4] – Basel SBB
-- 5\. Basel Bad Bf – Grenze (– Grenzach)
-- 6\. Basel Bad Bf – Grenze (– Lörrach)
-- 7\. (Kreuzlingen –) Infrastrukturgrenze SBB/BEV – Grenze (– Konstanz)
-- 8\. (Kreuzlingen Hafen –) Infrastrukturgrenze SBB/BEV – Grenze (– Konstanz)
-- 9\. Schaffhausen – Grenze (– Gottmadingen)
-- 10\. Schaffhausen – Grenze (– Erzingen [Baden])
-- 11\. St. Margrethen – Grenze (Österreich)
-- 12\. Buchs SG – Grenze (Fürstentum Liechtenstein)
-- 13\. Basel SBB – Basel St. Johann – Grenze (Frankreich)
-- 14\. Vallorbe – Grenze (Frankreich)
-- 15\. Genève-La Praille – La Plaine – Grenze (Frankreich)
-- 16\. Genève-Cornavin – La Plaine – Grenze (Frankreich)
-- 17\. Chiasso Smistamento – Grenze (Italien)
-
-[^annex2-lvlu1-1]: BEV: Bundeseisenbahnvermögen (der Bundesrepublik Deutschland)
-[^annex2-lvlu1-2]: PB: Personenbahnhof
-[^annex2-lvlu1-3]: RB: Rangierbahnhof
-[^annex2-lvlu1-4]: GB: Güterbahnhof
+[^t-2]: Aufgehoben durch Ziff. III der V vom 1. Mai 2024, mit Wirkung seit 1. Juni 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).

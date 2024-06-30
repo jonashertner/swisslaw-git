@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'accès au réseau ferroviaire (OARF
 short: OARF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: fr
-version: 2021-01-01
+version: 2024-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-142-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-142-20240701-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20210101/fr"
 
 (OARF)
 
-du 25 novembre 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 1998 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
-## Section 1**** Objet et champ d’application
+## Section 1 Objet et champ d’application
 
 [^sec1-1]
 
@@ -54,7 +54,7 @@ Il n’y a pas lieu d’accorder l’accès au réseau sur:
 
 *Abrogé*
 
-## Section 2**** Accès au réseau pour les entreprises suisses****
+## Section 2 Accès au réseau pour les entreprises suisses
 
 [^sec2-1][^sec2-2]
 
@@ -152,7 +152,7 @@ L’entreprise de transport ferroviaire présente sa convention collective de tr
 
 L’entreprise de transport ferroviaire doit être inscrite au registre du commerce.
 
-## Section 3**** Accès au réseau pour les entreprises étrangères
+## Section 3 Accès au réseau pour les entreprises étrangères
 
 [^sec3-1]
 
@@ -166,7 +166,7 @@ Pour les courses sur des tronçons limitrophes, les autorisations étrangères d
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1651](https://fedlex.data.admin.ch/eli/oc/2013/385)).
 
-## Section 3*a***** Plan d’utilisation du réseau
+## Section 3*a* Plan d’utilisation du réseau
 
 [^sec3a-1]
 
@@ -188,7 +188,7 @@ Chaque plan d’utilisation du réseau comprend un graphique réticulaire et not
 
 <sup>2</sup> Si nécessaire, il contient des indications sur les heures prévues d’arrivée, de départ et de passage.
 
-<sup>3</sup> ...[^9a-2]
+<sup>3</sup> …[^9a-2]
 
 [^9a-1]: Introduit par le ch. I de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 [^9a-2]: Abrogé par le ch. I de l’O du 5 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
@@ -203,7 +203,7 @@ Chaque plan d’utilisation du réseau comprend un graphique réticulaire et not
 
 [^9b-1]: Introduit par le ch. I de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
-## Section 4 Attribution des sillons****
+## Section 4 Attribution des sillons
 
 [^sec4-1]
 
@@ -213,7 +213,9 @@ Chaque plan d’utilisation du réseau comprend un graphique réticulaire et not
 
 **Obligations du gestionnaire d’infrastructure[^10-1]**
 
-<sup>1</sup> Il est admis que le gestionnaire d’infrastructure accorde un accès non discriminatoire à son réseau
+<sup>1</sup>
+
+Il est admis que le gestionnaire d’infrastructure accorde un accès non discriminatoire à son réseau:
 
 - a. si, lors de l’attribution des sillons et de la fixation de leurs prix pour son propre usage, il s’impose les mêmes règles que celles qui sont applicables aux tiers;
 - b. si, dans des conditions équivalentes, les tiers sont traités de la même manière lors de l’attribution des sillons et de la fixation de leurs prix;
@@ -239,7 +241,9 @@ Chaque plan d’utilisation du réseau comprend un graphique réticulaire et not
 
 <sup>2</sup> Si une entreprise demande un sillon en dehors des délais prévus à l’al. 1, mais au moins 60 jours avant la première course, elle est informée dans les 30 jours si le sillon souhaité est encore disponible.
 
-<sup>3</sup> Le dernier délai pour une demande de sillon échoit
+<sup>3</sup>
+
+Le dernier délai pour une demande de sillon échoit:
 
 - a. à 17 h le jour précédant les courses non régulières effectuées par des entreprises qui ont déjà réservé d’autres sillons sur une ligne pour la même période de l’horaire, ou
 - b. 30 jours avant la première course dans tous les autres cas.
@@ -321,7 +325,7 @@ Les utilisateurs du réseau ne sont pas autorisés à remettre à des tiers les 
 
 <sup>2</sup> Si des lignes non surchargées sont disponibles, il y a lieu de les offrir à titre de solution de rechange.
 
-<sup>3</sup> ...[^12a-3]
+<sup>3</sup> …[^12a-3]
 
 <sup>4</sup> Lorsqu’une ligne est surchargée, le service d’attribution des sillons recherche les raisons de la surcharge avec la collaboration du gestionnaire d’infrastructure concerné moyennant une analyse des capacités et expose dans celle-ci les mesures à court et à moyen terme propres à y remédier. Il publie ladite analyse dans un délai de trois mois après que la ligne a été déclarée surchargée. Il peut déclarer obligatoires pour les utilisateurs les mesures exposées dans l’analyse de capacités.[^12a-4]
 
@@ -421,20 +425,22 @@ Elle indiquera au moins:
 
 - a. les parties contractantes;
 - b. l’admissibilité du recours aux sous-traitants ou entreprises partenaires et les informations à échanger dans ce cas;
-- c.[^15-2] ...
+- c.[^15-2] …
 - d. la durée de la convention;
 - e. la définition des sillons et de leur qualité;
 - f. le prix du sillon et les données nécessaires pour le calcul de celui-ci;
 - g. les paiements à effectuer en cas de non-respect de la convention;
 - h. les conditions de retrait pour l’entreprise de transport ferroviaire (clause de dénonciation);
 - i. la (les) langue(s) officielle(s) à utiliser par le personnel;
-- j.[^15-3] les droits et les obligations inhérents à la surveillance des trains par les dispositifs de contrôle des trains.
+- j.[^15-3] les droits et les obligations inhérents à la surveillance des trains par les dispositifs de contrôle des trains;
+- k.[^15-4] l’attestation que l’entreprise de transport ferroviaire a conclu une assurance responsabilité civile suffisante.
 
 <sup>3</sup> S’il existe déjà une convention et si sa validité doit être enrichie d’un sillon, l’entreprise de transport ferroviaire peut, pour confirmer les données visées à l’al. 2, let. e et f, envoyer un message électronique à enregistrer par le gestionnaire d’infrastructure.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 [^15-2]: Abrogée par le ch. I de l’O du 16 juin 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^15-3]: Introduite par le ch. I de l’O du 31 août 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
+[^15-4]: Introduite par le ch. III de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 16
 
@@ -534,7 +540,7 @@ Le coefficient lié à la qualité de chaque sillon multiplie le prix de base pa
   - 2\. de courses impliquant un temps de parcours total dépassant d’au moins 15 minutes le temps de parcours du sillon le plus rapide, à vitesses maximales égales,
   - 3\. de trains de manœuvre et de trains marchandises de la desserte fine du transport par wagons complets isolés.
 
-<sup>3</sup> ...[^19a-5]
+<sup>3</sup> …[^19a-5]
 
 <sup>4</sup> Le supplément pour arrêt lié à la demande est de 2 francs par arrêt sur les tronçons sur lesquels circule un trafic mixte formé de transport régional et d’au moins douze trains par jour du transport de voyageurs longues distances ou du trafic marchandises suprarégional. L’OFT publie une liste de ces tronçons.
 
@@ -581,7 +587,7 @@ L’entreprise de transport ferroviaire a droit, pour les courses du trafic marc
 
 <sup>3</sup> L’OFT prépare une banque de données des véhicules donnant droit à un bonus-bruit. Il désigne le service qui gère cette banque de données.[^19b-5]
 
-<sup>3bis</sup> ...[^19b-6]
+<sup>3bis</sup> …[^19b-6]
 
 <sup>4</sup>
 
@@ -689,13 +695,13 @@ L’autorité concédante fixe de la manière suivante la contribution de couver
 
 <sup>2</sup> Le prix de l’électricité est augmenté de 20 % aux heures de pointe et diminué de 40 % de 22 h à 6 h.
 
-<sup>3</sup> Les entreprises de transport ferroviaire mesurent la consommation d'électricité à l'aide de dispositifs de mesure installés dans les véhicules. Pour ces dispositifs, elles doivent disposer d'une preuve de conformité basée sur une évaluation de la conformité réalisée par un organisme notifié. Si elles ne mesurent pas la consommation d’électricité avec ces dispositifs sur les lignes interopérables visées à l’art. 15a, al. 1, de l’ordonnance du 23 novembre 1983 sur les chemins de fer[^20a-3], le gestionnaire d’infrastructure perçoit, à partir du 1er janvier 2020, un supplément de 25 % sur le taux forfaitaire de la catégorie de train concernée. L’OFT détermine les taux forfaitaires en fonction des valeurs moyennes mesurées par catégorie de train.[^20a-4]
+<sup>3</sup> Les entreprises de transport ferroviaire mesurent la consommation d’électricité à l’aide de dispositifs de mesure installés dans les véhicules. Pour ces dispositifs, elles doivent disposer d’une preuve de conformité basée sur une évaluation de la conformité réalisée par un organisme notifié. Si elles ne mesurent pas la consommation d’électricité avec ces dispositifs sur les lignes interopérables visées à l’art. 15a, al. 1, de l’ordonnance du 23 novembre 1983 sur les chemins de fer[^20a-3], le gestionnaire d’infrastructure perçoit, à partir du 1er janvier 2020, un supplément de 25 % sur le taux forfaitaire de la catégorie de train concernée. L’OFT détermine les taux forfaitaires en fonction des valeurs moyennes mesurées par catégorie de train.[^20a-4]
 
 <sup>4</sup> Aucun supplément n’est perçu pour les courses avec des véhicules moteurs historiques.[^20a-5]
 
 [^20a-1]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)). Nouvelle teneur selon le ch. I de l’O du 31 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
 [^20a-2]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-[^20a-3]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
+[^20a-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 [^20a-4]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4225](https://fedlex.data.admin.ch/eli/oc/2019/727)).
 [^20a-5]: Introduit par le ch. I de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 
@@ -723,9 +729,9 @@ Les prestations de base comprennent:
 
 <sup>1</sup>
 
-Les gestionnaires d’infrastructure définissent et publient de manière non discriminatoire les prix des prestations supplémentaires suivantes, dans la mesure où celles-ci peuvent être proposées avec l’infrastructure existante et avec le personnel disponible: [^22-1]
+Les gestionnaires d’infrastructure définissent et publient de manière non discriminatoire les prix des prestations supplémentaires suivantes, dans la mesure où celles-ci peuvent être proposées avec l’infrastructure existante et avec le personnel disponible:[^22-1]
 
-- a.[^22-2] ...
+- a.[^22-2] …
 - b.[^22-3] occupation de la pleine voie en cas d’attente exigée par l’entreprise de transport ferroviaire mais non par le trafic lié à l’horaire;
 - c. garage des rames;
 - d. voies de circulation destinées au triage;
@@ -763,7 +769,7 @@ Les gestionnaires d’infrastructure définissent et publient de manière non di
 
 Les prestations de service peuvent aussi être achetées à des prix librement négociables auprès d’autres entreprises que les gestionnaires d’infrastructure. Elles ne font pas partie de l’accès au réseau et comprennent notamment:
 
-- a.[^23-1] ...
+- a.[^23-1] …
 - b. les prestations de distribution;
 - c. la manutention des bagages;
 - d. le service de dépannage pour les défauts n’entravant pas l’exploitation, le petit et le grand entretien, le nettoyage des véhicules;
@@ -804,7 +810,7 @@ Les prestations de service peuvent aussi être achetées à des prix librement n
 
 **Consultation des conventions**
 
-<sup>1</sup> ...[^26-1]
+<sup>1</sup> …[^26-1]
 
 <sup>2</sup> Celui qui peut justifier d’un intérêt digne de protection, notamment celui qui utilise un tronçon ou envisage de l’utiliser, peut demander qu’on lui communique les prix des sillons. La commission d’arbitrage statue sur les litiges concernant le droit de consultation.
 
@@ -826,7 +832,7 @@ Les prestations de service peuvent aussi être achetées à des prix librement n
 
 **Modification du droit en vigueur**
 
-...[^28-1]
+…[^28-1]
 
 [^28-1]: Les mod. peuvent être consultées au [RO 1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142).
 
@@ -858,7 +864,7 @@ Les prestations de service peuvent aussi être achetées à des prix librement n
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1999.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 5)
 
@@ -882,33 +888,6 @@ Annexe 1*[^t-1]*
 
 \4. Si les obligations financières du requérant dépassent les liquidités et les recettes disponibles à l’intérieur du pays, l’OFT peut exiger une garantie bancaire ou la caution d’une entreprise suisse solvable.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
-(art. 19*a*, al. 6)
-
-## Lignes en zone frontalière
-
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
-
-- 1\. Basel Bad Bf–Frontière (–Weil am Rhein)
-- 2\. Basel Bad Bf–Frontière (–Basel Bad Rbf)
-- 3\. Basel Bad Bf–Frontière d’infrastructure BEV[^annex2-lvlu1-1]/CFF–Basel SBB PB[^annex2-lvlu1-2]/RB[^annex2-lvlu1-3]
-- 4\. Basel RB-Nordkopf–Basel St. Jakob–Basel GB[^annex2-lvlu1-4]–Basel SBB
-- 5\. Basel Bad Bf–Frontière (–Grenzach)
-- 6\. Basel Bad Bf–Frontière (–Lörrach)
-- 7\. (Kreuzlingen–) Frontière d’infrastructure CFF/BEV–Frontière (–Konstanz)
-- 8\. (Kreuzlingen Hafen–) Frontière d’infrastructure CFF/BEV–Frontière (–Konstanz)
-- 9\. Schaffhausen–Frontière (–Gottmadingen)
-- 10\. Schaffhausen–Frontière (–Erzingen [Baden])
-- 11\. St. Margrethen–Frontière (Autriche)
-- 12\. Buchs SG–Frontière (Principauté du Liechtenstein)
-- 13\. Basel SBB–Basel St. Johann–Frontière (France)
-- 14\. Vallorbe–Frontière (France)
-- 15\. Genève-La Praille–La Plaine–Frontière (France)
-- 16\. Genève-Cornavin–La Plaine–Frontière (France)
-- 17\. Chiasso Smistamento–Frontière (Italie)
-
-[^annex2-lvlu1-1]: BEV: Bundeseisenbahnvermögen (de la République fédérale d’Allemagne)
-[^annex2-lvlu1-2]: PB: Personenbahnhof (gare voyageurs)
-[^annex2-lvlu1-3]: RB: Rangierbahnhof (gare de triage)
-[^annex2-lvlu1-4]: GB: Güterbahnhof (gare marchandises)
+[^t-2]: Abrogée par le ch. III de l’O du 1<sup>er</sup> mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
