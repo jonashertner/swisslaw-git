@@ -4,13 +4,12 @@ number: "867"
 title: Betreuungs- und Pflegegesetz
 short: BPG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-01-31
+version: 2024-07-01
+version_adopted: 2024-03-18
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867"
-pdf: "https://srl.lu.ch/api/de/versions/4185/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4684/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4185/pdf_file"
 
 (BPG)
 
-vom 13.09.2010 (Stand 01.01.2024)
+vom 13.09.2010 (Stand 01.07.2024)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -331,7 +330,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sorgen dafür, dass in der ambulanten Krankenpflege und in der Krankenpflege im Pflegeheim genügend Pflegepersonal ausgebildet wird.
 
-<sup>2</sup> Der Regierungsrat kann Verbände von Leistungserbringern im Sinn von § 2 Absatz 2 ermächtigen, bei allen Leistungserbringern, die im Kanton Luzern Leistungen gemäss Artikel 25a KVG[^13-1] erbringen, einen Beitrag zu erheben und an diejenigen Leistungserbringer zu verteilen, die Betreuungs- und Pflegepersonal ausbilden. Der Beitrag ist zweckgebunden für die Ausbildung zu verwenden.
+<sup>2</sup> Der Kanton kann bei allen Leistungserbringern im Sinn von § 2 Absatz 2, die im Kanton Luzern ihren Sitz haben und Leistungen gemäss Artikel 25a KVG[^13-1] erbringen, einen Beitrag erheben und an diejenigen Leistungserbringer verteilen, die Betreuungs- und Pflegepersonal ausbilden.
 
 <sup>3</sup> Von Leistungserbringern, die sich bereits mittels Verbandsbeitrag an der Ausbildung beteiligen, Zahlungen in einen Berufsbildungsfonds leisten oder einer Ausbildungsverpflichtung nach den Bestimmungen des Spitalgesetzes vom 11. September 2006[^13-2] unterstehen, dürfen keine Beiträge gemäss Absatz 2 erhoben werden.
 
@@ -339,8 +338,11 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat regelt die Einzelheiten, insbesondere die Organisation, die Höhe des Beitrags der Leistungserbringer und die Kriterien für dessen Verteilung an die ausbildenden Leistungserbringer, durch Verordnung. Die Gemeinden sind bei der Erarbeitung der Verordnung in geeigneter Weise beizuziehen.
 
+<sup>6</sup> Während seiner Geltungsdauer richtet sich die Förderung der Ausbildung in Pflege HF und in Pflege FH nach dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^13-3].
+
 [^13-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 [^13-2]: SRL Nr. [800a](https://srl.lu.ch/data/800a/de)
+[^13-3]: SRL Nr. [810](https://srl.lu.ch/data/810/de)
 
 ## 4 Verfahren und ergänzendes Recht
 
