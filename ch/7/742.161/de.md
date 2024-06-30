@@ -4,11 +4,11 @@ title: Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zw
 short: VSZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,22 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/de"
 
 (VSZV)
 
-vom 17. Dezember 2014 (Stand am 1. September 2023)
+vom 17. Dezember 2014 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 15*a* Absätze 1 und 5, 15*b* Absatz 6, 15*c* und 95 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-1] (EBG), auf Artikel 12 Absatz 1 des Bundesgesetzes vom 5. Oktober 1990[^ingress-2] über die Anschlussgleise, auf Artikel 5 Absatz 2 des Seeschifffahrtsgesetzes vom 23. September 1953[^ingress-3] und auf die Artikel 25 Absätze 1 und 5, 26 Absatz 6 und 26*a* Absatz 1 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-4] (LFG), in Ausführung der Verordnung (EU) Nr. 996/2010[^ingress-5] in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^ingress-6] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr jeweils verbindlichen Fassung und der Richtlinie 2004/49/EG[^ingress-7] in der für die Schweiz gemäss Anhang 1 zum Abkommen vom 21. Juni 1999[^ingress-8] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse jeweils verbindlichen Fassung,
+gestützt auf die Artikel 15*a* Absatz 1, 15*b* Absatz 6, 15*c* Absatz 2 und 95 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-1] (EBG), auf Artikel 14 Absatz 3 des Gütertransportgesetzes vom 25. September 2015[^ingress-2], auf Artikel 5 Absätze 1 und 2 des Seeschifffahrtsgesetzes vom 23. September 1953[^ingress-3] und auf die Artikel 25 Absätze 1 und 4, 26 Absatz 6 und 26*a* Absatz 1 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-4] (LFG), in Ausführung der Verordnung (EU) Nr. 996/2010[^ingress-5], der Verordnung (EU) 2018/1139[^ingress-6] und der Richtlinie (EU) 2016/798[^ingress-7],[^ingress-8]
 
 verordnet:
 
 [^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 742.141.5](https://fedlex.data.admin.ch/eli/cc/1992/565_565_565)
+[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 [^ingress-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates vom 20. Okt. 2010 über die Untersuchung und Verhütung von Unfällen und Störungen in der Zivilluftfahrt und zur Aufhebung der Richtlinie 94/56/EG, ABl. L 295 vom 12.11.2010, S. 35–50.
-[^ingress-6]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-7]: Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (Richtlinie über die Eisenbahnsicherheit), ABl. L 164 vom 30.4.2004, S. 44; zuletzt geändert durch Richtlinie 2009/149/EG, ABl. L 313 vom 28.11.2009, S. 65.
-[^ingress-8]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-5]: Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates vom 20. Okt. 2010 über die Untersuchung und Verhütung von Unfällen und Störungen in der Zivilluftfahrt und zur Aufhebung der Richtlinie 94/56/EG, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-6]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr verbindlichen Fassung ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), in der für die Schweiz gemäss Anhang 1 zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse verbindlichen Fassung ([SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-8]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -292,7 +292,9 @@ Das Schweizerische Seeschifffahrtsamt, die Schiffsführung, die schweizerischen 
 
 **Untersuchungsgegenstand**
 
-<sup>1</sup> Die SUST untersucht die Zwischenfälle, für die eine Pflicht zur Meldung an die Meldestelle besteht.
+<sup>1</sup> Die SUST untersucht die Zwischenfälle, für die eine Pflicht zur Meldung an die Meldestelle besteht, sofern die Untersuchung der Verhütung von weiteren Zwischenfällen dienen kann oder nach internationalen Abkommen eine diesbezügliche Pflicht besteht.[^20-1]
+
+<sup>1bis</sup> Sie entscheidet unverzüglich, spätestens aber zwei Monate nach Eingang der Meldung eines Zwischenfalls, über die Eröffnung einer Untersuchung, sofern die dafür notwendigen Informationen vorliegen.[^20-2]
 
 <sup>2</sup>
 
@@ -305,6 +307,9 @@ Sie untersucht Zwischenfälle im Ausland nur, wenn:
 <sup>3</sup> Sie untersucht Zwischenfälle mit Luftfahrzeugen, die einer zoll- oder polizeidienstlichen Verwendung dienten, nur, wenn zu vermuten ist, dass eine Untersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann.
 
 <sup>4</sup> Sie kann andere Zwischenfälle untersuchen, wenn zu vermuten ist, dass eine Untersuchung wichtige Erkenntnisse zur Verhütung von weiteren Zwischenfällen bringen kann.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 21
 
@@ -592,11 +597,15 @@ Der Schlussbericht gibt Auskunft über:
 
 <sup>4</sup> Der Untersuchungsdienst stellt den Entwurf des Schlussberichts den von der Untersuchung direkt Betroffenen und an ihr direkt Beteiligten, dem zuständigen Departement und dem zuständigen Bundesamt zur Stellungnahme zu.
 
+<sup>4bis</sup> Er stellt den Entwurf des Schlussberichts den zuständigen ausländischen Behörden und weiteren Personen und Organisationen zur Stellungnahme zu, wenn dies nach internationalen Abkommen vorgesehen ist.[^47-1]
+
 <sup>5</sup> Stellungnahmen können innert 60 Tagen ab Zustellung des Entwurfs des Schlussberichts eingereicht werden
 
 <sup>6</sup> Er erstellt unter Berücksichtigung der Stellungnahmen den Schlussbericht und unterbreitet ihn der SUST zur Genehmigung.
 
 <sup>7</sup> Er stellt den Schlussbericht den Personen und Stellen zu, die bereits den Entwurf des Schlussberichts erhalten haben.
+
+[^47-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 48
 
@@ -604,9 +613,13 @@ Der Schlussbericht gibt Auskunft über:
 
 <sup>1</sup> Die SUST richtet die Sicherheitsempfehlungen an das zuständige Bundesamt und setzt das zuständige Departement über die Empfehlungen in Kenntnis. Bei dringlichen Sicherheitsproblemen informiert sie umgehend das zuständige Departement. Sie kann zu den Umsetzungsberichten des Bundesamts zuhanden des zuständigen Departements Stellung nehmen.
 
+<sup>1bis</sup> Sie richtet Sicherheitsempfehlungen an ausländische Behörden, wenn dies nach internationalen Abkommen vorgesehen ist.[^48-1]
+
 <sup>2</sup> Die Bundesämter unterrichten die SUST und das zuständige Departement periodisch über die Umsetzung der Empfehlungen oder über die Gründe, weshalb sie auf Massnahmen verzichten.
 
 <sup>3</sup> Das zuständige Departement kann Aufträge zur Umsetzung von Empfehlungen an das zuständige Bundesamt richten.
+
+[^48-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 49
 
@@ -653,6 +666,10 @@ Akteneinsicht verlangen können:
 <sup>2</sup> Für Zwischenfälle mit Grossluftfahrzeugen oder Seeschiffen gilt eine Frist von 18 Monaten. Als Grossluftfahrzeug gilt ein Luftfahrzeug, das eine höchstzulässige Abflugmasse von mindestens 5700 kg aufweist, in der Lufttüchtigkeitskategorie Standard, Unterkategorie Transport eingeteilt ist oder über mehr als zehn Sitzplätze für Fluggäste und Besatzung verfügt.
 
 <sup>3</sup> Kann die Frist nicht eingehalten werden, so meldet die Untersuchungsleitung dies der Leitung des Untersuchungsdienstes und begründet die Verzögerung. Die Leitung des Untersuchungsdienstes setzt eine angemessene Nachfrist.
+
+<sup>4</sup> Wird eine Nachfrist gewährt, so entscheidet der Untersuchungsdienst, ob am Jahrestag des Zwischenfalls ein Bericht über den Stand und den Fortgang der Untersuchung und etwaige Sicherheitsprobleme veröffentlicht wird. Er berücksichtigt dabei die Vorschriften des internationalen Rechts sowie die Tragweite des Zwischenfalls.[^52-1]
+
+[^52-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## 5. Abschnitt: Veröffentlichungen
 

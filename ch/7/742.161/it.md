@@ -4,11 +4,11 @@ title: Ordinanza del 17 dicembre 2014 concernente le inchieste sulla sicurezza i
 short: OIET
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,22 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/it"
 
 (OIET)
 
-del 17 dicembre 2014 (Stato 1° settembre 2023)
+del 17 dicembre 2014 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 15*a* capoversi 1 e 5, 15*b* capoverso 6, 15*c* e 95 della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie (Lferr); visto l’articolo 12 capoverso 1 della legge federale del 5 ottobre 1990[^ingress-2] sui binari di raccordo ferroviario; visto l’articolo 5 capoverso 2 della legge federale del 23 settembre 1953[^ingress-3] sulla navigazione marittima sotto bandiera svizzera; visti gli articoli 25 capoversi 1 e 5, 26 capoverso 6 e 26*a* capoverso 1 della legge federale del 21 dicembre 1948[^ingress-4] sulla navigazione aerea (LNA); in esecuzione del regolamento (UE) n. 996/2010[^ingress-5] nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999[^ingress-6] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo; e in esecuzione della direttiva 2004/49/CE[^ingress-7] nella versione vincolante per la Svizzera in virtù dell’allegato 1 all’Accordo del 21 giugno 1999[^ingress-8] tra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia,
+visti gli articoli 15*a* capoverso 1, 15*b* capoverso 6, 15*c* capoverso 2 e 95 della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie (Lferr); visto l’articolo 14 capoverso 3 della legge del 25 settembre 2015[^ingress-2] sul trasporto di merci; visto l’articolo 5 capoversi 1 e 2 della legge federale del 23 settembre 1953[^ingress-3] sulla navigazione marittima sotto bandiera svizzera; visti gli articoli 25 capoversi 1 e 4, 26 capoverso 6 e 26*a* capoverso 1 della legge federale del 21 dicembre 1948[^ingress-4] sulla navigazione aerea (LNA); in esecuzione del regolamento (UE) n. 996/2010[^ingress-5], del regolamento (UE) 2018/1139[^ingress-6] e della direttiva (UE) 2016/798[^ingress-7],[^ingress-8]
 
 ordina:
 
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 742.141.5](https://fedlex.data.admin.ch/eli/cc/1992/565_565_565)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 [^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: Regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE, GU L 295 del 12.11.2010, pag. 35–50.
-[^ingress-6]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-7]: Direttiva 2004/49/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa alla sicurezza delle ferrovie comunitarie e recante modifica della direttiva 95/18/CE del Consiglio relativa alle licenze delle imprese ferroviarie e della direttiva 2001/14/CE relativa alla ripartizione della capacità di infrastruttura ferroviaria, all’imposizione dei diritti per l’utilizzo dell’infrastruttura ferroviaria e alla certificazione di sicurezza (direttiva sulla sicurezza delle ferrovie), GU L 164 del 30.4.2004, pag. 44; modificata da ultimo dalla direttiva 2009/149/CE, GU L 313 del 28.11.2009, pag. 65.
-[^ingress-8]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-5]: Regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-6]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, nella versione vincolante per la Svizzera in virtù del numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione), nella versione vincolante per la Svizzera in virtù dell’allegato 1 all’Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia ([RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-8]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -290,7 +290,9 @@ L’Ufficio svizzero della navigazione marittima, il comandante della nave, le s
 
 **Oggetto dell’inchiesta**
 
-<sup>1</sup> Il SISI esamina gli eventi imprevisti per i quali vi è l’obbligo di notifica al servizio notifiche.
+<sup>1</sup> Il SISI esamina gli eventi imprevisti per i quali vi è l’obbligo di notifica al servizio notifiche, purché l’inchiesta abbia quale scopo la prevenzione di ulteriori eventi imprevisti o vi sia un obbligo in tal senso secondo accordi internazionali.[^20-1]
+
+<sup>1bis</sup> Decide, immediatamente e in ogni caso entro due mesi dalla ricezione della notifica concernente l’evento imprevisto, se aprire un’inchiesta, purché le informazioni necessarie a questo scopo siano disponibili.[^20-2]
 
 <sup>2</sup>
 
@@ -303,6 +305,9 @@ Esamina gli eventi imprevisti all’estero soltanto se:
 <sup>3</sup> Esamina eventi imprevisti concernenti aeromobili utilizzati a scopi doganali o di polizia soltanto se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti.
 
 <sup>4</sup> Può esaminare altri eventi imprevisti se vi è motivo di presumere che l’inchiesta può fornire informazioni importanti per la prevenzione di ulteriori eventi imprevisti.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-2]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 21
 
@@ -590,11 +595,15 @@ Il rapporto finale informa:
 
 <sup>4</sup> L’ufficio d’inchiesta trasmette la bozza di rapporto finale per parere alle persone direttamente interessate dall’inchiesta e a quelle in essa direttamente coinvolte nonché al dipartimento e all’ufficio federale competenti.
 
+<sup>4</sup> <sup>bis</sup> Trasmette la bozza di rapporto finale per parere alle autorità estere competenti e ad altre persone e organizzazioni, se previsto da accordi internazionali.[^47-1]
+
 <sup>5</sup> I pareri possono essere inoltrati entro 60 giorni dalla trasmissione della bozza di rapporto finale.
 
 <sup>6</sup> L’ufficio d’inchiesta stila il rapporto finale tenendo conto dei pareri e lo sottopone al SISI per approvazione.
 
 <sup>7</sup> Invia il rapporto finale alle persone e ai servizi che ne hanno già ricevuto la bozza.
+
+[^47-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 48
 
@@ -602,9 +611,13 @@ Il rapporto finale informa:
 
 <sup>1</sup> Il SISI rivolge le sue raccomandazioni di sicurezza all’ufficio federale competente e ne informa il dipartimento competente. In caso di problemi di sicurezza urgenti informa immediatamente il dipartimento competente. Può prendere posizione sui rapporti di attuazione dell’ufficio federale all’attenzione del dipartimento competente.
 
+<sup>1bis</sup> Rivolge raccomandazioni di sicurezza ad autorità estere, se previsto da accordi internazionali.[^48-1]
+
 <sup>2</sup> Gli uffici federali informano periodicamente il SISI e il dipartimento competente sull’attuazione delle raccomandazioni di sicurezza o sulle ragioni per cui hanno rinunciato a prendere misure.
 
 <sup>3</sup> Il dipartimento competente può conferire all’ufficio federale competente mandati di attuazione di raccomandazioni di sicurezza.
+
+[^48-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 49
 
@@ -651,6 +664,10 @@ Possono chiedere la consultazione degli atti:
 <sup>2</sup> Per gli eventi imprevisti relativi a grandi aeromobili o navi si applica un termine di 18 mesi. Per grande aeromobile si intende un aeromobile avente una massa massima ammissibile al decollo di almeno 5700 kg, classificato nella categoria di navigabilità standard, sottocategoria «Trasporto», o che dispone di più di dieci posti a sedere per passeggeri ed equipaggio.
 
 <sup>3</sup> Se il termine non può essere rispettato, la persona responsabile della conduzione dell’inchiesta informa la direzione dell’ufficio d’inchiesta e motiva il ritardo. La direzione dell’ufficio d’inchiesta fissa un secondo termine adeguato.
+
+<sup>4</sup> Se è concesso un secondo termine, l’ufficio d’inchiesta decide se pubblicare, all’anniversario dell’evento imprevisto, un rapporto sullo stato dei lavori che espone i progressi dell’inchiesta e gli eventuali problemi di sicurezza. A tal fine tiene conto delle prescrizioni internazionali e della portata dell’evento imprevisto.[^52-1]
+
+[^52-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Sezione 5: Pubblicazioni
 
@@ -741,8 +758,8 @@ Sono abrogate:
 - 2\. l’ordinanza del 28 giugno 2000[^59-2] concernente le inchieste sugli infortuni;
 - 3\. l’ordinanza del 23 novembre 1994[^59-3] concernente le inchieste sugli infortuni aeronautici e incidenti gravi.
 
-[^59-1]: [[RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. a]
-[^59-2]: [[RU 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)[2845](https://fedlex.data.admin.ch/eli/oc/2000/485), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
+[^59-1]: [[RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652), [4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. a]
+[^59-2]: [[RU 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2845](https://fedlex.data.admin.ch/eli/oc/2000/485);[2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
 [^59-3]: [[RU 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037), [1995 1452](https://fedlex.data.admin.ch/eli/oc/1995/1452_1452_1452), [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385), [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 lett. c [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
 
 #### Art. 60

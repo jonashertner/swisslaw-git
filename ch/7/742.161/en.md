@@ -4,11 +4,11 @@ title: Ordinance of 17 December 2014 on the Safety Investigation of Transport In
 short: OSITI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: en
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,22 +19,22 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OSITI)
 
-of 17 December 2014 (Status as of 1 September 2023)
+of 17 December 2014 (Status as of 1 July 2024)
 
 The Swiss Federal Council,
 
-on the basis of Articles 15*a* paragraphs 1 and 5, 15*b* paragraph 6, 15*c* and 95 of the Railways Act from 20 December 1957[^ingress-1] (RailA), on Article 12 paragraph 1 of the Federal Act of 5 October 1990[^ingress-2] on Private Sidings, on Article 5 paragraph 2 of the Navigation Act of 23 September 1953[^ingress-3] and on Articles 25 paragraphs 1 and 5, 26 paragraph 6 and 26*a* paragraph 1 of the Civil Aviation Act of 21 December 1948[^ingress-4] (CAA), in implementation of Regulation (EU) No 996/2010[^ingress-5] in the version binding on Switzerland in accordance with number 3 of the Annex to the Agreement of 21 June 1999[^ingress-6] between the Swiss Confederation and the European Union on Air Transport and Directive 2004/49/EC[^ingress-7] in the version currently binding on Switzerland in accordance with Annex 1 to the Agreement of 21 June 1999[^ingress-8] between the Swiss Confederation and the European Union on the carriage of goods and passengers by rail and road,
+on the basis of Articles 15*a* paragraph 1, 15*b* paragraph 6, 15*c* paragraph 2 and 95 of the Railways Act of 20 December 1957[^ingress-1] (RailA), on Article 14 paragraph 3 of the Goods Carriage Act of 25 September 2015[^ingress-2], on Article 5 paragraphs 1 and 2 of the Navigation Act of 23 September 1953[^ingress-3] and on Articles 25 paragraphs 1 and 4, 26 paragraph 6 and 26*a* paragraph 1 of the Civil Aviation Act of 21 December 1948[^ingress-4] (CAA), in implementation of Regulation (EU) No 996/2010[^ingress-5] Regulation (EU) 2018/1139[^ingress-6] and Directive (EU) 2016/798[^ingress-7],[^ingress-8]
 
 ordains:
 
 [^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 742.141.5](https://fedlex.data.admin.ch/eli/cc/1992/565_565_565)
+[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 [^ingress-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-5]: Regulation (EU) Nr. 996/2010 of the European Parliament and of the Council of 20 October 2010 on the investigation and prevention of accidents and incidents in civil aviation and repealing Directive 94/56/EC, OJ L 295 of 12.11.2010, p. 35–50.
-[^ingress-6]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-7]: Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety on the Community’s railways and amending Council Directive 95/18/EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of railway infrastructure capacity, and the levying of charges for the use of railway infrastructure and safety certification (Railway Safety Directive), OJ L 164 of 30.4.2004, p. 44; last amended by Directive 2009/149/EC, OJ L 313 of 28.11.2009, p. 65.
-[^ingress-8]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-6]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 , in the version binding on Switzerland in accordance with Clause 3 of the Annex to the Agreement of 21 June 1999 between the Swiss Confederation and the European Community on Air Transport ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (Recast), in the version binding on Switzerland in accordance with the Annex 1 to the Agreement of 21 June 1999 between the Swiss Confederation and the European Community on the Carriage of Goods and Passengers by Rail and Road ([SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-8]: Amended by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 1 General Provisions
 
@@ -296,7 +296,9 @@ The Swiss Maritime Navigation Office, the ship’s command, the Swiss Shipowners
 
 **Subject of the investigation**
 
-<sup>1</sup> The STSB shall investigate the incidents that must be reported to the reporting office.
+<sup>1</sup> The STSB shall investigate the incidents that must be reported to the reporting office, provided the investigation may serve to prevent further incidents or there is an obligation to do so under international agreements.[^20-1]
+
+<sup>1bis</sup> It shall decide immediately, but at the latest within two months of receiving the report of an incident, on whether to open an investigation, provided the required information is available.[^20-2]
 
 <sup>2</sup>
 
@@ -309,6 +311,9 @@ It investigates incidents that occur abroad only if:
 <sup>3</sup> It investigates incidents involving aircraft used by the customs or police authorities only if it is expected that the investigation may bring results that will be important in preventing further incidents.
 
 <sup>4</sup> It may investigate other incidents if it is expected that the investigation may bring results that will be important in preventing further incidents.
+
+[^20-1]: Amended by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-2]: Inserted by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 21
 
@@ -596,11 +601,15 @@ The final report provides information on:
 
 <sup>4</sup> The Investigation Bureau shall send a draft of the final report for comment to the parties directly concerned by and involved in the investigation and to the competent department and the federal office.
 
+<sup>4bis</sup> It shall submit the draft of the final report to the competent foreign authorities and other persons and organisations for comment if this is required by international agreements.[^47-1]
+
 <sup>5</sup> Responses may be submitted within 60 days of receipt of the draft of the final report.
 
 <sup>6</sup> The Investigation Bureau shall revise the final report to take account of the comments and submit the revised report to the STSB for approval.
 
 <sup>7</sup> It shall send the final report to the persons and bodies that have already received a draft of the final report.
+
+[^47-1]: Inserted by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 48
 
@@ -608,9 +617,13 @@ The final report provides information on:
 
 <sup>1</sup> The STSB shall submit the safety recommendations to the competent federal office and notify the competent department of the recommendations. In the case of urgent safety issues, it shall notify the competent department immediately. It may send comments to the competent department on the implementation reports issued by the federal office.
 
+<sup>1bis</sup> It shall submit safety recommendations to foreign authorities if this is required by international agreements.[^48-1]
+
 <sup>2</sup> The federal offices shall report to the STSB and the competent department periodically on the implementation of the recommendations or on the reasons why they have decided not to take measures.
 
 <sup>3</sup> The competent department may instruct the competent federal office to implement recommendations.
+
+[^48-1]: Inserted by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 49
 
@@ -657,6 +670,10 @@ The following persons may file a request to inspect the case files:
 <sup>2</sup> In the case of incidents involving large aircraft or maritime vessels, a deadline of 18 months applies. A large aircraft is an aircraft with a maximum permissible take-off weight of at least 5700 kg that is classified in the airworthiness category Standard, subcategory Transport or has more than ten seats for passengers and crew.
 
 <sup>3</sup> If the deadline cannot be met, the person leading the investigation shall notify the Director of the Investigation Bureau and explain the delay. The Director of the Investigation Bureau shall allow an appropriate additional period.
+
+<sup>4</sup> If an additional period is granted, the Investigation Bureau shall decide whether to publish a report on the status and progress of the investigation and on any safety issues on the anniversary of the incident. In doing so, it shall take account of the provisions of international law and the seriousness of the incident.[^52-1]
+
+[^52-1]: Inserted by No I of the O of 10 April 2024, in force since 1 July 2024 ([AS 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 5 Publications
 

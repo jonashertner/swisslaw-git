@@ -4,11 +4,11 @@ title: "Ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d
 short: OEIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,22 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/fr"
 
 (OEIT)
 
-du 17 décembre 2014 (État le 1<sup>er</sup> septembre 2023)
+du 17 décembre 2014 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 15*a*, al. 1 et 5, 15*b*, al. 6, 15*c* et 95 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-1], vu l’art. 12, al. 1, de la loi fédérale du 5 octobre 1990 sur les voies de raccordement ferroviaires[^ingress-2], vu l’art. 5, al. 2, de la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse[^ingress-3], vu les art. 25, al. 1 et 5, 26, al. 6, et 26*a*, al. 1, de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-4], en exécution du règlement (UE) n<sup>o</sup> 996/2010[^ingress-5] dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^ingress-6], en exécution de la directive 2004/49/CE[^ingress-7] dans sa version qui lie la Suisse en vertu de l’annexe 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route[^ingress-8],
+vu les art. 15*a*, al. 1, 15*b*, al. 6, 15*c,* al. 2, et 95 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-1], vu l’art. 14, al. 3, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-2], vu l’art. 5, al. 1 et 2, de la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse[^ingress-3], vu les art. 25, al. 1 et 4, 26, al. 6, et 26*a*, al. 1, de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-4], en exécution du règlement (UE) 996/2010[^ingress-5], du règlement (UE) 2018/1139[^ingress-6] et de la directive (UE) n<sup>o</sup> 2016/798[^ingress-7],[^ingress-8]
 
 arrête:
 
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 742.141.5](https://fedlex.data.admin.ch/eli/cc/1992/565_565_565)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 [^ingress-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-5]: R (UE) n<sup>o</sup> 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE, JO L 295 du 12.11.2010, p. 35 à 50.
-[^ingress-6]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-7]: Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44), modifiée en dernier lieu par la directive 2009/149/CE (JO L 313 du 28.11.2009, p. 65).
-[^ingress-8]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-5]: Règlement (UE) n<sup>o</sup> 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-6]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), dans la version qui lie la Suisse en vertu de l’annexe 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route ([RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)).
+[^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 1 Dispositions générales
 
@@ -80,7 +80,7 @@ Dans le domaine des transports publics, on entend par:
 - b. *incident grave*: un événement qui a failli entraîner un accident et dont la survenance n’a pas été empêchée par les mesures de sécurité automatiques;
 - c. *blessure mortelle:* une lésion corporelle occasionnée par un accident et entraînant la mort du blessé dans les 30 jours suivant cet accident;
 - d. *blessure grave:* une lésion corporelle dont souffre une personne et dont le traitement nécessite un séjour hospitalier de plus de 24 heures;
-- c. *blessure légère:* une lésion corporelle dont souffre une personne, nécessitant des soins médicaux ambulatoires;
+- e. *blessure légère:* une lésion corporelle dont souffre une personne, nécessitant des soins médicaux ambulatoires;
 - f. *dégâts matériels considérables:* des dommages matériels résultant directement d’un événement et dont le montant excède 50 000 francs pour les installations de transport à câbles et 180 000 francs pour tous les autres moyens de transport;
 - g. *perturbation importante:* une perturbation qui interrompt l’exploitation d’un tronçon pendant au moins six heures;
 - h. *événement extraordinaire:* un événement imputable à la défaillance technique d’installations déterminantes pour la sécurité, à des mesures de sécurité lacunaires ou inadaptées, ou encore à des erreurs humaines compromettant la sécurité;
@@ -290,7 +290,9 @@ L’Office suisse de la navigation maritime, le capitaine du navire, les compagn
 
 **Objet de l’enquête**
 
-<sup>1</sup> Le SESE enquête sur les incidents qui doivent être déclarés à l’organe d’alerte.
+<sup>1</sup> Le SESE enquête sur les incidents qui doivent être déclarés à l’organe d’alerte, si l’enquête peut servir à la prévention d’autres incidents ou s’il existe une obligation à cet égard en vertu d’accords internationaux.[^20-1]
+
+<sup>1bis</sup> Il décide immédiatement, mais au plus tard deux mois après réception de la déclaration d’un incident, de l’ouverture d’une enquête, si les informations nécessaires sont disponibles.[^20-2]
 
 <sup>2</sup>
 
@@ -303,6 +305,9 @@ Il enquête sur les incidents survenus à l’étranger, uniquement lorsque:
 <sup>3</sup> Il enquête sur des incidents impliquant des aéronefs utilisés à des fins de douane ou de police, uniquement s’il y a lieu de supposer qu’une enquête est susceptible de fournir des résultats importants pour la prévention de futurs incidents.
 
 <sup>4</sup> Il peut enquêter sur d’autres incidents s’il y a lieu de supposer qu’une enquête est susceptible de fournir des résultats importants pour la prévention de futurs incidents.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
+[^20-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 21
 
@@ -590,11 +595,15 @@ Le rapport final informe sur:
 
 <sup>4</sup> Le bureau d’enquête transmet le projet de rapport final pour avis à quiconque est directement concerné par l’enquête ou y participe directement, au département compétent et à l’office fédéral compétent.
 
+<sup>4bis</sup> Il adresse le projet de rapport final pour avis aux autorités, personnes ou organisations étrangères compétentes si un accord international le prévoit.[^47-1]
+
 <sup>5</sup> Les avis doivent être retournés dans un délai de 60 jours à compter de la remise du rapport final.
 
 <sup>6</sup> Le bureau d’enquête établit le rapport final compte tenu des avis avant de le soumettre à l’approbation du SESE.
 
 <sup>7</sup> Il remet le rapport final aux services et aux personnes qui en avaient reçu le projet.
+
+[^47-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 48
 
@@ -602,9 +611,13 @@ Le rapport final informe sur:
 
 <sup>1</sup> Le SESE adresse les recommandations en matière de sécurité à l’office fédéral compétent et en informe le département compétent. En cas de problèmes de sécurité urgents, il informe immédiatement le département compétent. Il peut donner son avis sur les rapports de mise en œuvre de l’office fédéral à l’attention du département compétent.
 
+<sup>1bis</sup> Il adresse les recommandations en matière de sécurité à des autorités étrangères si un accord international le prévoit.[^48-1]
+
 <sup>2</sup> Les offices fédéraux informent périodiquement le SESE et le département compétent de la mise en œuvre des recommandations ou des raisons pour lesquelles ils ont renoncé aux mesures.
 
 <sup>3</sup> Le département compétent peut adresser des mandats de mise en œuvre à l’office fédéral compétent.
+
+[^48-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 #### Art. 49
 
@@ -651,6 +664,10 @@ Peuvent demander à consulter le dossier:
 <sup>2</sup> Un délai de 18 mois s’applique aux enquêtes sur les incidents impliquant de grands avions ou des navires de mer. Est considéré comme grand avion tout avion ayant une masse maximale admissible au décollage égale ou supérieure à 5700 kg, rangé dans la catégorie de navigabilité standard (sous-catégorie «Transport») ou comprenant plus de dix sièges pour les passagers et l’équipage.
 
 <sup>3</sup> Si le délai ne peut pas être observé, la personne chargée de l’enquête en avise la direction du bureau d’enquête en précisant les causes du retard. Celle-ci accorde une prolongation convenable du délai.
+
+<sup>4</sup> Si une prolongation de délai est accordée, le bureau d’enquête décide s’il y a lieu, un an après l’incident, de publier un rapport sur l’état d’avancement et la poursuite de l’enquête et sur d’éventuels problèmes de sécurité. Il tient compte du droit international et de la portée de l’incident.[^52-1]
+
+[^52-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 182](https://fedlex.data.admin.ch/eli/oc/2024/182)).
 
 ## Section 5 Publications
 
