@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -214,7 +214,7 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1280,13 +1280,16 @@ La contribution d’investissement s’élève à:
 
 #### Art. 71
 
-**Contribution maximale**
+**Contributions maximales**[^71-1]
 
 La contribution d’investissement ne peut pas dépasser les montants suivants:
 
-- a. 12 millions de francs pour les centrales électriques à bois;
-- b. 6 millions de francs pour les UIOM et les installations d’incinération des boues;
-- c. 1 million de francs pour les installations au gaz d’épuration et au gaz de décharge.
+- a. pour les centrales électriques à bois: 5000 francs par kW de puissance électrique installée, au total 8 millions de francs;
+- b. pour les UIOM et les installations d’incinération des boues: 2700 francs par kW de puissance électrique installée, au total 6 millions de francs;
+- c. pour les installations au gaz d’épuration et au gaz de décharge: 2500 francs par kW de puissance électrique équivalente telle que visée à l’annexe 1.5, ch. 3.1.2, au total 1 million de francs;
+- d. pour les installations de biogaz: 18 500 francs par kW de puissance électrique équivalente telle que visée à l’annexe 1.5, ch. 3.1.2, au total 8 millions de francs.
+
+[^71-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 279](https://fedlex.data.admin.ch/eli/oc/2024/279)).
 
 ### Section 3 Ordre de prise en compte et liste d’attente
 
@@ -2242,7 +2245,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -2257,7 +2260,7 @@ Annexe 1.1[^t-1]
 </table>
 
 - 2\.5 Taux de rétribution maximum
-- [tab] Le taux de rétribution maximum, bonus compris, est de 32,4 ct./kWh.
+- Le taux de rétribution maximum, bonus compris, est de 32,4 ct./kWh.
 - 2\.6 Paiements partiels et décompte
 - 2\.6.1 La rétribution est décomptée à la fin de l’année civile sur la base du taux de rétribution pour l’année concernée et de l’électricité enregistrée.
 - 2\.6.2 Les éventuels paiements partiels préalables sont effectués sur la base du taux de rétribution de l’année précédente ou, pour les installations qui ne sont pas en service depuis une année civile complète, sur la base des valeurs de planification du ch. 5.1.
@@ -2275,9 +2278,8 @@ Le taux de rétribution applicable aux installations qui ont fait l’objet d’
   - N0: moyenne de la production nette:
   - – des cinq années civiles précédant le premier agrandissement ou la première rénovation effectués à partir de 2018, ou
   - – des années civiles qui, jusqu’au moment du premier agrandissement ou de la première rénovation effectués à partir de 2018, se sont écoulées depuis la mise en service, ou depuis l’agrandissement ou la rénovation précédents, pour autant qu’il se soit écoulé moins de cinq années civiles;
-
-- N1: production nette après l’agrandissement;
-- V1: taux de rétribution calculé selon le ch. 2 sur la base de la production nette totale réalisée après l’agrandissement ou la rénovation.
+  - N1: production nette après l’agrandissement;
+  - V1: taux de rétribution calculé selon le ch. 2 sur la base de la production nette totale réalisée après l’agrandissement ou la rénovation.
 
 ### 4 Durée de rétribution
 
@@ -2600,7 +2602,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -2717,14 +2719,14 @@ Annexe 1.5[^t-5]
   - f. gaz de décharge;
   - g. gaz d’épuration, boues brutes de STEP;
   - h. carburants et combustibles biogènes dont la plus-value écologique a déjà été rétribuée par la délivrance d’attestations au sens de la législation sur le CO<sub>2</sub>, à l’exception du carburant biogène pour l’allumage utilisé dans des centrales à énergie totale équipée.
-  - 2\.1.3 La période d’évaluation pour les exigences générales est de trois mois.
 
+- 2\.1.3 La période d’évaluation pour les exigences générales est de trois mois.
 - 2\.2 Exigences énergétiques minimales
 - 2\.2.1 Les exigences énergétiques minimales doivent être respectées au plus tard à compter du début de la troisième année civile complète suivant la mise en service.
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -2737,7 +2739,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/fr/xml/image/image5.png)
 
 - b.
 
@@ -2763,7 +2765,7 @@ Annexe 1.5[^t-5]
 - 3\.1.3 Les taux de la rétribution de base et des bonus sont déterminés selon une pondération établie sur la base des classes de puissance visées aux ch. 3.2 à 3.4.
 - 3\.1.4 Si une centrale électrique à bois utilise également des déchets de bois problématiques désignés comme déchets spéciaux au sens de l’art. 2, al. 2, let. a, de l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^annex15-lvlu1-lvl3-1], la part de l’électricité issue de l’utilisation de ces déchets de bois problématiques est rétribuée avec un taux équivalant à la moitié du taux de rétribution. La part est calculée sur la base des teneurs énergétiques utilisées.
 - 3\.2 Rétribution de base
-  - Taux de la rétribution de base par classes de puissance en cas de mise en service à partir du 1<sup>er</sup> janvier 2013:
+- Taux de la rétribution de base par classes de puissance en cas de mise en service à partir du 1<sup>er</sup> janvier 2013:
 
 <table>
 <tr><td>Classe de puissance</td><td>Rétribution de base (ct./kWh)</td></tr>
@@ -2775,7 +2777,7 @@ Annexe 1.5[^t-5]
 </table>
 
 - 3\.3 Bonus pour les centrales électriques à bois
-  - [tab] Taux du bonus pour les centrales électriques à bois par classes de puissance en cas de mise en service à partir du 1<sup>er</sup> janvier 2013:
+- Taux du bonus pour les centrales électriques à bois par classes de puissance en cas de mise en service à partir du 1<sup>er</sup> janvier 2013:
 
 <table>
 <tr><td>Classe de puissance</td><td>Bonus pour les centrales électriques à bois (ct./kWh)</td></tr>
@@ -3582,7 +3584,8 @@ Annexe 3[^t-12]
   - f. de 0,65 à moins de 0,75 0,7
   - g. de 0,75 à moins de 0,85 0,8
   - h. 0,85 ou plus 0,9
-  - 3\.4 Les valeurs limites à prendre en compte pour ce paramètre sont les suivantes: 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 et 0,85.
+
+- 3\.4 Les valeurs limites à prendre en compte pour ce paramètre sont les suivantes: 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 et 0,85.
 
 ### 4 Dérogation au ch. 7 de l’annexe 1 OApEl
 

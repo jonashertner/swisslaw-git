@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2024)
+del 1° novembre 2017 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -214,7 +214,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Introdotto il n. I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -400,7 +400,7 @@ L’importo di base ammonta a:
 
 <sup>3</sup> Negli impianti fotovoltaici il tasso di rimunerazione originario viene ridotto dalla messa in esercizio dell’ampliamento o del rinnovamento. Il nuovo tasso di rimunerazione si calcola sulla base del valore medio ponderato secondo la potenza tra il tasso di rimunerazione determinante al momento della prima messa in esercizio e il tasso di rimunerazione di 0 ct./kWh per l’ampliamento o il rinnovamento.
 
-<sup>4</sup> ...[^28-1]
+<sup>4</sup> …[^28-1]
 
 <sup>5</sup> Nel caso delle piccole centrali idroelettriche e degli impianti a biomassa il tasso di rimunerazione originario viene ridotto proporzionalmente dalla messa in esercizio dell’ampliamento o del rinnovamento. Il calcolo del nuovo tasso di rimunerazione è retto dagli allegati 1.1 e 1.5.
 
@@ -649,7 +649,10 @@ Se sussistono presumibilmente i requisiti per il diritto e vi sono sufficienti r
 
 **Termine e notifica di messa in esercizio**
 
-- [tab] <sup>1</sup> L’impianto deve essere messo in esercizio al più tardi:
+<sup>1</sup>
+
+L’impianto deve essere messo in esercizio al più tardi:
+
 - a. 12 mesi dopo la garanzia di principio di cui all’articolo 44;
 - b. 6 anni dopo la garanzia di principio di cui all’articolo 44, se per la costruzione dell’impianto è necessario modificare le basi pianificatorie.[^45-1]
 
@@ -883,7 +886,7 @@ Su richiesta del richiedente, l’UFE può prorogare il termine per la presentaz
 
 <sup>2</sup> I dati relativi alla produzione netta indicano separatamente il consumo proprio e la produzione eccedente.
 
-<sup>2</sup> Se entro il 31 dicembre 2030 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, i dati da notificare si devono riferire solo a tale parte dell’impianto.
+<sup>3</sup> Se entro il 31 dicembre 2030 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, i dati da notificare si devono riferire solo a tale parte dell’impianto.
 
 #### Art. 46p
 
@@ -950,7 +953,7 @@ Non sono computabili in particolare i costi:
 
 <sup>2</sup> L’UFE mette a disposizione le basi e i formulari necessari per il calcolo dei costi scoperti.
 
-### Capitolo 5**:** **Contributo d’investimento per gli impianti idroelettrici**
+## Capitolo 5**:** **Contributo d’investimento per gli impianti idroelettrici**
 
 ### Sezione 1**:** **Disposizioni generali**
 
@@ -1262,9 +1265,9 @@ Il rinnovamento di un impianto è considerato considerevole quando i costi d’i
 
 ### Sezione 2: Contributo d’investimento
 
-[^chap5-sec2-1]
+[^chap6-sec2-1]
 
-[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^chap6-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 70
 
@@ -1278,13 +1281,16 @@ Il contributo d’investimento ammonta:
 
 #### Art. 71
 
-**Contributo massimo**
+**Contributi massimi**[^71-1]
 
 Il contributo d’investimento non deve eccedere i seguenti importi:
 
-- a. 12 milioni di franchi per le centrali elettriche a legna;
-- b. 6 milioni di franchi per gli IIR e i forni per l’incenerimento di fanghi;
-- c. 1 milione di franchi per gli impianti a gas di depurazione e gli impianti a gas di discarica..
+- a. per le centrali elettriche a legna: 5000 franchi per ogni kW di potenza elettrica installata, complessivamente 8 milioni di franchi;
+- b. per gli IIR e i forni per l’incenerimento di fanghi: 2700 franchi per ogni kW di potenza elettrica installata, complessivamente 6 milioni di franchi;
+- c. per gli impianti a gas di depurazione e gli impianti a gas di discarica: 2500 franchi per ogni kW di potenza elettrica equivalente conformemente all’allegato 1.5 numero 3.1.2, complessivamente 1 milione di franchi;
+- d. per gli impianti a biogas: 18 500 franchi per ogni kW di potenza elettrica equivalente conformemente all’allegato 1.5 numero 3.1.2, complessivamente 8 milioni di franchi.
+
+[^71-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 279](https://fedlex.data.admin.ch/eli/oc/2024/279)).
 
 ### Sezione 3: Ordine di presa in considerazione e lista d’attesa
 
@@ -1336,7 +1342,7 @@ Se dall’esame della domanda risulta che sussistono i requisiti per il diritto 
 
 **Notifica di messa in esercizio**
 
-- [tab] L’obbligo di presentare una notifica di messa in esercizio è retto per analogia dall’articolo 55.
+L’obbligo di presentare una notifica di messa in esercizio è retto per analogia dall’articolo 55.
 
 #### Art. 77
 
@@ -1356,7 +1362,7 @@ La notifica deve contenere le indicazioni e i documenti seguenti:
 
 **Proroga dei termini**
 
-- [tab] La proroga dei termini per la messa in esercizio e la presentazione della notifica di conclusione dei lavori è retta per analogia dall’articolo 57.
+La proroga dei termini per la messa in esercizio e la presentazione della notifica di conclusione dei lavori è retta per analogia dall’articolo 57.
 
 #### Art. 79
 
@@ -1394,7 +1400,7 @@ Sono computabili i costi d’investimento di cui all’articolo 61.
 
 Non sono computabili in particolare i costi:
 
-- a.[^82-1] ...
+- a.[^82-1] …
 - b. per gli elementi d’impianto destinati al trattamento termico dei rifiuti;
 - c. per gli elementi d’impianto destinati al trattamento delle acque reflue;
 - d. per gli elementi d’impianto destinati alla preparazione di combustibile o all’esercizio di una rete di teleriscaldamento.
@@ -1422,9 +1428,9 @@ Non sono computabili in particolare i costi:
 
 ## Capitolo 6*a*: Contributo d’investimento per gli impianti eolici
 
-[^chap6-1]
+[^chap6a-1]
 
-[^chap6-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^chap6a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 1: Aliquota
 
@@ -1553,9 +1559,9 @@ Non sono computabili in particolare i costi per:
 
 ## Capitolo 6*b*: Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici e per nuovi impianti geotermici
 
-[^chap6a-1]
+[^chap6b-1]
 
-[^chap6a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^chap6b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 1: Requisiti per il diritto e aliquote
 
@@ -1749,7 +1755,7 @@ Gli impianti idroelettrici di grandi dimensioni con una potenza superiore ai 10 
 
 <sup>3</sup> Per prezzo di mercato s’intende, anche per l’elettricità negoziata fuori borsa, il prezzo spot orario per la regione di prezzo svizzera convertito a un tasso mensile medio.
 
-<sup>4</sup> ...[^89-1]
+<sup>4</sup> …[^89-1]
 
 <sup>5</sup> Se a un’unione di impianti che dà diritto al premio di mercato appartiene un impianto singolo inserito nel sistema di rimunerazione per l’immissione di elettricità, come suo ricavo è determinante la sua rimunerazione per l’immissione di elettricità (art. 21 cpv. 3 LEne).
 
@@ -1868,9 +1874,9 @@ Se da una verifica o da un controllo risulta che qualcuno, in particolare a caus
 
 ## Capitolo 7*a*: Contributi alle spese d’esercizio per gli impianti a biomassa
 
-[^chap7-1]
+[^chap7a-1]
 
-[^chap7-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^chap7a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 1: Motivo di esclusione e importi del contributo
 
@@ -1983,9 +1989,9 @@ L’organo d’esecuzione dispone l’esclusione di un impianto dalla concession
 
 ## Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC), controllo e provvedimenti
 
-[^chap7a-1]
+[^chap8-1]
 
-[^chap7a-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 97
 
@@ -2058,7 +2064,6 @@ Riguardo alle rimunerazioni uniche per impianti di cui all’articolo 71*a* LEne
 - c. la data di messa in esercizio;
 - d. la produzione di elettricità annua e del semestre invernale prevista al momento della presentazione della domanda;
 - e. la produzione media di elettricità annua e del semestre invernale effettivamente misurata al momento della determinazione definitiva della rimunerazione unica;
-
 - f. l’ammontare definitivo della rimunerazione unica;
 - g. la quota di promozione rispetto ai costi d’investimento computabili.[^98-4]
 
@@ -2241,7 +2246,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -2271,16 +2276,12 @@ Il tasso di rimunerazione per gli impianti che sono stati ampliati o rinnovati s
 Il tasso di rimunerazione per gli impianti che sono stati ampliati o rinnovati successivamente si calcola secondo la formula seguente:
 
 - (P0/P1) \* V1 + (1-P0/P1) \* (N0/N1) \* V1
-- dove: P0: potenza dell’impianto prima del primo ampliamento o rinnovamento realizzato dal 2018 oppure, nel caso di impianti il cui ampliamento o rinnovamento è iniziato prima del 1° gennaio 2018 e messo in esercizio entro il 30 giugno 2018 e la cui messa in esercizio è stata notificata all’organo di esecuzione entro il 31 luglio 2018, la potenza dell’impianto dopo tale ampliamento o rinnovamento;
-- P1: potenza dell’impianto dopo l’ampliamento o rinnovamento più recente;
-- N0:
-
-  produzione netta media degli:
-
+  - dove: P0: potenza dell’impianto prima del primo ampliamento o rinnovamento realizzato dal 2018 oppure, nel caso di impianti il cui ampliamento o rinnovamento è iniziato prima del 1° gennaio 2018 e messo in esercizio entro il 30 giugno 2018 e la cui messa in esercizio è stata notificata all’organo di esecuzione entro il 31 luglio 2018, la potenza dell’impianto dopo tale ampliamento o rinnovamento;
+  - P1: potenza dell’impianto dopo l’ampliamento o rinnovamento più recente;
+  - N0: produzione netta media degli:
   - – ultimi 5 anni civili prima del primo ampliamento o rinnovamento realizzato dal 2018, o
   - – anni civili compresi tra il primo ampliamento o rinnovamento realizzato dal 2018 e la messa in esercizio o l’ultimo ampliamento o rinnovamento precedente, a condizione che tale periodo sia inferiore a 5 anni civili;
-
-- N1: produzione netta a seguito dell’ampliamento;
+  - N1: produzione netta a seguito dell’ampliamento;
   - V1: tasso di rimunerazione calcolato sulla scorta dell’intera produzione netta raggiunta a seguito dell’ampliamento o del rinnovamento di cui al numero 2.
 
 ### 4 Durata della rimunerazione
@@ -2536,7 +2537,7 @@ Allegato 1.3[^t-3]
 
   Il gestore di un impianto a energia eolica che non dispone più di una base nella pianificazione cantonale a causa di una modifica della pianificazione può cedere una garanzia di principio o una decisione positiva secondo il diritto anteriore a un altro impianto a energia eolica, se quest’ultimo:
 
-  - a. ...
+  - a. …
   - b. soddisfa presumibilmente i requisiti per il diritto;
   - c. è stato notificato per il sistema di rimunerazione per l’immissione di elettricità; e
   - d. per la cessione il gestore fattura al gestore che assume la garanzia al massimo la metà dei costi effettivi per le misurazioni dei profili del vento, gli studi dell’ambiente e gli accertamenti sul piano tecnico.
@@ -2604,7 +2605,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -2728,7 +2729,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -2740,7 +2741,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/it/xml/image/image5.png)
 
 - b.
 
@@ -2777,7 +2778,6 @@ Allegato 1.5[^t-5]
 <tr><td>&gt; 5 MW</td><td>17,5</td></tr>
 </table>
 
-- [tab]
 - 3\.3 Bonus per le centrali elettriche a legna
 - In caso di messa in esercizio dopo il 1° gennaio 2013, il tasso per il bonus per le centrali elettriche a legna secondo le classi di potenza ammonta a:
 
@@ -2813,8 +2813,8 @@ Allegato 1.5[^t-5]
 
 ### 4. Tasso di rimunerazione e requisiti minimi nella trasformazione di gas biogeno proveniente dalla rete di distribuzione del gas naturale
 
-- 4\.1.1 Tasso di rimunerazione
-- Il tasso di rimunerazione per gas biogeno che viene immesso nella rete di distribuzione del gas naturale e utilizzato in altro luogo per la produzione di elettricità, ammonta a 52 x<sup>-0.17</sup> ct./kWh, dove x corrisponde alla potenza equivalente di cui al numero 3.1.2.
+- 4\.1 Tasso di rimunerazione
+- 4\.1.1 Il tasso di rimunerazione per gas biogeno che viene immesso nella rete di distribuzione del gas naturale e utilizzato in altro luogo per la produzione di elettricità, ammonta a 52 x<sup>-0.17</sup> ct./kWh, dove x corrisponde alla potenza equivalente di cui al numero 3.1.2.
 - 4\.1.2 Il tasso di rimunerazione ammonta al massimo a 26,5 ct./kWh.
 - 4\.2 Requisiti minimi
 -
@@ -2832,17 +2832,13 @@ Allegato 1.5[^t-5]
 
 - Il tasso di rimunerazione per gli impianti che sono stati ampliati o rinnovati successivamente si calcola secondo la formula seguente:
 - (P0/P1) \* V1 + (1-P0/P1) \* (N0/N1) \* V1
-- dove: P0: potenza dell’impianto prima del primo ampliamento o rinnovamento realizzato dal 2018 oppure, nel caso di impianti il cui ampliamento o rinnovamento è iniziato prima del 1° gennaio 2018 e messo in esercizio entro il 30 giugno 2018 e la cui messa in esercizio è stata notificata all’organo di esecuzione entro il 31 luglio 2018, la potenza dell’impianto dopo tale ampliamento o rinnovamento;
-- P1: potenza dell’impianto dopo l’ampliamento o rinnovamento più recente;
-- N0:
-
-  produzione netta media degli:
-
+  - dove: P0: potenza dell’impianto prima del primo ampliamento o rinnovamento realizzato dal 2018 oppure, nel caso di impianti il cui ampliamento o rinnovamento è iniziato prima del 1° gennaio 2018 e messo in esercizio entro il 30 giugno 2018 e la cui messa in esercizio è stata notificata all’organo di esecuzione entro il 31 luglio 2018, la potenza dell’impianto dopo tale ampliamento o rinnovamento;
+  - P1: potenza dell’impianto dopo l’ampliamento o rinnovamento più recente;
+  - N0: produzione netta media degli:
   - – ultimi 2 anni civili prima del primo ampliamento o rinnovamento realizzato dal 2018,
   - – periodo compreso tra il primo ampliamento o rinnovamento realizzato dal 2018 e la messa in esercizio o l’ultimo ampliamento o rinnovamento precedente, a condizione che tale periodo sia inferiore a 2 anni civili;
-
-- N1: produzione netta a seguito dell’ampliamento;
-- V1: tasso di rimunerazione calcolato secondo il numero 3 o 4 sulla scorta dell’intera produzione netta raggiunta dopo l’ampliamento o il rinnovamento.
+  - N1: produzione netta a seguito dell’ampliamento;
+  - V1: tasso di rimunerazione calcolato secondo il numero 3 o 4 sulla scorta dell’intera produzione netta raggiunta dopo l’ampliamento o il rinnovamento.
 
 ### 6 Pagamenti parziali e calcolo
 
@@ -2850,7 +2846,7 @@ Allegato 1.5[^t-5]
 
 ### 7 Durata della rimunerazione
 
-- [tab] La durata della rimunerazione è di 20 anni.
+- La durata della rimunerazione è di 20 anni.
 
 ### 8 Procedura di presentazione delle domande
 
@@ -3596,20 +3592,20 @@ Allegato 3[^t-12]
 
 ### 4 Deroga al numero 7 allegato 1 OAEl
 
-- 4\.1 Alla somma del supplemento di solvibilità e dei costi di emissione e di acquisizione si applicano i seguenti valori forfettari:
+- 4\.1
 
-<table>
-<tr><td>a. minore dello 0,625 per cento</td><td>0,50 per cento</td></tr>
-<tr><td>b. uguale o maggiore dello 0,625 e minore dello 0,875 per cento</td><td>0,75 per cento</td></tr>
-<tr><td>c. uguale o maggiore dello 0,875 e minore dell’1,125 per cento</td><td>1,00 per cento</td></tr>
-<tr><td>d. uguale o maggiore dell’1,125 e minore dell’1,375 per cento</td><td>1,25 per cento</td></tr>
-<tr><td>e. uguale o maggiore dell’1,375 e minore dell’1,625 per cento</td><td>1,50 per cento</td></tr>
-<tr><td>f. uguale o maggiore dell’1,625 e minore dell’1,875 per cento</td><td>1,75 per cento</td></tr>
-<tr><td>g. uguale o maggiore dell’1,875 e minore del 2,125 per cento</td><td>2,00 per cento</td></tr>
-<tr><td>h. uguale o maggiore del 2,125 e minore del 2,375 per cento</td><td>2,25 per cento</td></tr>
-<tr><td>i. uguale o maggiore del 2,375 e minore del 2,625 per cento</td><td>2,50 per cento</td></tr>
-<tr><td>j. uguale o maggiore del 2,625 per cento</td><td>2,75 per cento</td></tr>
-</table>
+  Alla somma del supplemento di solvibilità e dei costi di emissione e di acquisizione si applicano i seguenti valori forfettari:
+
+  - a. minore dello 0,625 per cento 0,50 per cento
+  - b. uguale o maggiore dello 0,625 e minore dello 0,875 per cento 0,75 per cento
+  - c. uguale o maggiore dello 0,875 e minore dell’1,125 per cento 1,00 per cento
+  - d. uguale o maggiore dell’1,125 e minore dell’1,375 per cento 1,25 per cento
+  - e. uguale o maggiore dell’1,375 e minore dell’1,625 per cento 1,50 per cento
+  - f. uguale o maggiore dell’1,625 e minore dell’1,875 per cento 1,75 per cento
+  - g. uguale o maggiore dell’1,875 e minore del 2,125 per cento 2,00 per cento
+  - h. uguale o maggiore del 2,125 e minore del 2,375 per cento 2,25 per cento
+  - i. uguale o maggiore del 2,375 e minore del 2,625 per cento 2,50 per cento
+  - j. uguale o maggiore del 2,625 per cento 2,75 per cento
 
 - 4\.2 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione sono 0,625, 0,875, 1,125, 1,375, 1,625, 1,875, 2,125, 2,375 e 2,625 per cento.
 

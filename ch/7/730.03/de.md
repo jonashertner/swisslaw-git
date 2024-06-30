@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2024)
+vom 1. November 2017 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -214,7 +214,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1280,13 +1280,16 @@ Der Investitionsbeitrag beträgt:
 
 #### Art. 71
 
-**Höchstbeitrag**
+**Höchstbeiträge**[^71-1]
 
-Der Investitionsbeitrag darf die folgenden Beträge nicht überschreiten:
+Der Investitionsbeitrag darf die folgenden Beträge nicht übersteigen:
 
-- a. 12 Millionen Franken für Holzkraftwerke;
-- b. 6 Millionen Franken für KVA und Schlammverbrennungsanlagen;
-- c. 1 Million Franken für Klärgas- und Deponiegasanlagen.
+- a. für Holzkraftwerke: 5000 Franken pro kW installierte elektrische Leistung, insgesamt 8 Millionen Franken;
+- b. für KVA und Schlammverbrennungsanlagen: 2700 Franken pro kW installierte elektrische Leistung, insgesamt 6 Millionen Franken;
+- c. für Klärgas- und Deponiegasanlagen: 2500 Franken pro kW äquivalente elektrische Leistung gemäss Anhang 1.5 Ziffer 3.1.2, insgesamt 1 Million Franken;
+- d. für Biogasanlagen: 18 500 Franken pro kW äquivalente elektrische Leistung gemäss Anhang 1.5 Ziffer 3.1.2, insgesamt 8 Millionen Franken.
+
+[^71-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 279](https://fedlex.data.admin.ch/eli/oc/2024/279)).
 
 ### 3. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -1806,7 +1809,8 @@ Die Marktprämienquote ermittelt sich als Quotient aus den folgenden beiden Grö
 
 - a. Differenz aus der im Portfolio enthaltenen Elektrizität, die aus Grosswasserkraftanlagen stammt und deren Gestehungskosten nicht gedeckt sind, und dem angewandten Grundversorgungsabzug; und
 - b. im Portfolio enthaltene Elektrizität, die aus Grosswasserkraftanlagen stammt und deren Gestehungskosten nicht gedeckt sind.
-- [tab] <sup>3</sup> Würde der Marktprämienberechtigte mit der Marktprämie und den Verkäufen in der Grundversorgung über das gesamte Portfolio mehr einnehmen, als zur Deckung der Gestehungskosten nötig ist, so reduziert sich die Marktprämie entsprechend.
+
+<sup>3</sup> Würde der Marktprämienberechtigte mit der Marktprämie und den Verkäufen in der Grundversorgung über das gesamte Portfolio mehr einnehmen, als zur Deckung der Gestehungskosten nötig ist, so reduziert sich die Marktprämie entsprechend.
 
 #### Art. 93
 
@@ -2243,7 +2247,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -2258,7 +2262,7 @@ Anhang 1.1[^t-1]
 </table>
 
 - 2\.5 Maximaler Vergütungssatz
-- [tab] Der maximale Vergütungssatz inklusive Boni beträgt 32,4 Rp./kWh.
+- Der maximale Vergütungssatz inklusive Boni beträgt 32,4 Rp./kWh.
 - 2\.6 Teilzahlungen und Abrechnung
 - 2\.6.1 Die Vergütung wird per Ende des Kalenderjahres aufgrund des Vergütungssatzes für das betreffende Jahr und der erfassten Elektrizität abgerechnet.
 - 2\.6.2 Vorherige Teilzahlungen werden aufgrund des Vergütungssatzes des Vorjahres geleistet, bei Anlagen, die noch nicht ein volles Kalenderjahr in Betrieb sind, aufgrund der Planungswerte nach Ziffer 5.1.
@@ -2268,7 +2272,8 @@ Anhang 1.1[^t-1]
 
 ### 3 Vergütungssatzberechnung bei nachträglicher Erweiterung oder Erneuerung
 
-- Der Vergütungssatz für Anlagen, die nachträglich erweitert oder erneuert werden, berechnet sich nach der folgenden Formel:
+Der Vergütungssatz für Anlagen, die nachträglich erweitert oder erneuert werden, berechnet sich nach der folgenden Formel:
+
 - (P0/P1) \* V1 + (1-P0/P1) \* (N0/N1) \* V1
   - wobei: P0: Anlagenleistung vor der ersten ab 2018 vorgenommenen Erweiterung oder Erneuerung oder, bei Anlagen, bei denen eine Erweiterung oder Erneuerung vor dem 1. Januar 2018 begonnen und bis zum 30. Juni 2018 in Betrieb genommen wurde und deren Inbetriebnahme der Vollzugsstelle bis zum 31. Juli 2018 gemeldet wurde, die Anlagenleistung nach dieser Erweiterung oder Erneuerung;
   - P1: Anlagenleistung nach der jüngsten Erweiterung oder Erneuerung;
@@ -2337,7 +2342,6 @@ Anhang 1.1[^t-1]
 - 6\.4 Eine Produktionseinschränkung aufgrund einer allfälligen behördlichen Auflage führt bei einer Anlage, die aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998[^annex11-lvlu1-lvl6-2] eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten hat, nicht zum Ausschluss aus dem Einspeisevergütungssystem.
 - 6\.5 Bei Anlagen, die aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998 eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten haben und die die Mindestanforderungen aus Gründen, für die sie nicht einzustehen haben, nicht einhalten können, wird die Vergütung für eine Dauer von höchstens einem Drittel der Vergütungsdauer weiterhin ausbezahlt, wenn keine Massnahmen zur Behebung möglich sind. Halten sie die Mindestanforderungen danach erneut nicht ein, so werden sie aus dem Einspeisevergütungssystem ausgeschlossen. Diese Regelung gilt auch für das Jahr 2018.
 - 6\.6 Die Jahre, in denen der Grund gemäss Ziffer 6.5 in der überdurchschnittlichen Trockenheit liegt, werden bei der Berechnung des Drittels der Vergütungsdauer nicht berücksichtigt.
-- [tab]
 
 [^annex11-lvlu1-lvl6-1]: [AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^annex11-lvlu1-lvl6-2]: [AS 2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575); [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784)
@@ -2419,8 +2423,7 @@ Anhang 1.2[^t-2]
 ### 5 Übergangsbestimmungen für Anlagen, die vor dem 1. Januar 2013 in Betrieb genommen wurden
 
 - 5\.1 Bei Anlagen, die bis zum 31 Dezember 2012 in Betrieb genommen wurden und für die bis zum 31. Juli 2013 ein Wartelistenbescheid ausgestellt wurde (Art. 72 Abs. 4 EnG), gelten für die Anlagendefinition, die Anlagenkategorien und für die Berechnung der Vergütung Anhang 1.2 Ziffern 1, 2, 3.1.1, 3.2 und 3.4*a* der Energieverordnung vom 7. Dezember 1998, in der am 1. Januar 2017 geltenden Fassung[^annex12-lvlu1-lvl5-1]. Die Übergangsbestimmungen, die bis zum 31. Dezember 2017 galten, sind nicht anwendbar.
-
-5.2 Für integrierte Anlagen müssen mit der Inbetriebnahmemeldung Fotos eingereicht werden, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage vorliegt.
+- 5\.2 Für integrierte Anlagen müssen mit der Inbetriebnahmemeldung Fotos eingereicht werden, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage vorliegt.
 
 [^annex12-lvlu1-lvl5-1]: [[AS 2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II;[2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575)Ziff. I und II; **2012** 607, 4555; **2013** 3631 Ziff. I und II; **2014** 611 Ziff. I und II, 3683 Ziff. I und II; **2015** 4781 Ziff. I und II; **2016** 4617 Ziff. I und II]
 
@@ -2601,7 +2604,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -2679,7 +2682,6 @@ Anhang 1.4[^t-4]
 
 - 7\.1 Für Betreiber, die für ihre Anlage vor dem 1. Januar 2018 sowohl einen positiven Bescheid erhalten als auch die vollständige Projektfortschrittsmeldung nach bisherigem Recht eingereicht haben, gilt eine Vergütungsdauer von 20 Jahren.
 - 7\.2 Für Anlagen, die nach Artikel 3*g*<sup>bis</sup> Absatz 4 Buchstabe b Ziffer 1 der Energieverordnung vom 7. Dezember 1998 in der Fassung vom 2. Dezember 2016[^annex14-lvlu1-lvl7-1] aufgrund der vollständigen Projektfortschrittsmeldung auf der Warteliste vorgerückt sind, ist die Inbetriebnahmemeldung spätestens bis zum 31. Dezember 2029 einzureichen.
-- [tab]
 
 [^annex14-lvlu1-lvl7-1]: [AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)Ziff. I und II
 
@@ -2719,14 +2721,14 @@ Anhang 1.5[^t-5]
   - f. Deponiegas;
   - g. Klärgas, Rohschlamm aus ARA;
   - h. biogene Treib- und Brennstoffe, für die bereits der ökologische Mehrwert mit Bescheinigungen nach der CO<sub>2</sub>-Gesetzgebung abgegolten wurde, mit Ausnahme von in Blockheizkraftwerken verwendetem biogenem Zündöl.
-  - 2\.1.3 Die Beurteilungsperiode für die allgemeinen Anforderungen beträgt drei Monate.
 
+- 2\.1.3 Die Beurteilungsperiode für die allgemeinen Anforderungen beträgt drei Monate.
 - 2\.2 Energetische Mindestanforderungen
 - 2\.2.1 Die energetischen Mindestanforderungen sind spätestens ab Beginn des dritten vollen Kalenderjahrs nach der Inbetriebnahme einzuhalten.
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -2739,7 +2741,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240701/de/xml/image/image5.png)
 
 - b.
 
@@ -2830,17 +2832,13 @@ Anhang 1.5[^t-5]
 
 - Der Vergütungssatz für Anlagen, die nachträglich erweitert oder erneuert werden, berechnet sich nach der folgenden Formel:
 - (P0/P1) \* V1 + (1-P0/P1) \* (N0/N1) \* V1
-- wobei: P0: Anlagenleistung vor der ersten ab 2018 vorgenommenen Erweiterung oder Erneuerung oder, bei Anlagen, bei denen eine Erweiterung oder Erneuerung vor dem 1. Januar 2018 begonnen und bis zum 30. Juni 2018 in Betrieb genommen wurde und deren Inbetriebnahme der Vollzugsstelle bis zum 31. Juli 2018 gemeldet wurde, die Anlagenleistung nach dieser Erweiterung oder Erneuerung;
-- P1: Anlagenleistung nach der jüngsten Erweiterung oder Erneuerung;
-- N0:
-
-  durchschnittliche Nettoproduktion der:
-
+  - wobei: P0: Anlagenleistung vor der ersten ab 2018 vorgenommenen Erweiterung oder Erneuerung oder, bei Anlagen, bei denen eine Erweiterung oder Erneuerung vor dem 1. Januar 2018 begonnen und bis zum 30. Juni 2018 in Betrieb genommen wurde und deren Inbetriebnahme der Vollzugsstelle bis zum 31. Juli 2018 gemeldet wurde, die Anlagenleistung nach dieser Erweiterung oder Erneuerung;
+  - P1: Anlagenleistung nach der jüngsten Erweiterung oder Erneuerung;
+  - N0: durchschnittliche Nettoproduktion der:
   - – letzten 2 Kalenderjahre vor der ersten ab 2018 vorgenommenen Erweiterung oder Erneuerung,
   - – Zeit zwischen der ersten ab 2018 vorgenommenen Erweiterung oder Erneuerung und der Inbetriebnahme oder der letzten vorgängigen Erweiterung oder Erneuerung, sofern dieser Zeitraum weniger als 2 Kalenderjahre umfasst;
-
-- N1: Nettoproduktion nach der Erweiterung;
-- V1: aufgrund der gesamten erzielten Nettoproduktion nach der Erweiterung oder Erneuerung nach den Ziffern 3 beziehungsweise 4 errechneter Vergütungssatz.
+  - N1: Nettoproduktion nach der Erweiterung;
+  - V1: aufgrund der gesamten erzielten Nettoproduktion nach der Erweiterung oder Erneuerung nach den Ziffern 3 beziehungsweise 4 errechneter Vergütungssatz.
 
 ### 6 Teilzahlungen und Abrechnung
 
@@ -3083,8 +3081,6 @@ Für die Berechnung der ungedeckten Kosten bei Anlagen nach Artikel 71*a* EnG wi
 <tr><td>Bauten für Transportwege und Erschliessung (Strassen, Brücken, Stützmauern, etc.)</td><td>60</td></tr>
 <tr><td>Betriebsgebäude</td><td>40</td></tr>
 </table>
-
-- [tab]
 
 Anhang 2.2[^t-7]
 
@@ -3589,7 +3585,8 @@ Anhang 3[^t-12]
   - f. von 0,65 bis unter 0,75 0,7
   - g. von 0,75 bis unter 0,85 0,8
   - h. 0,85 oder mehr 0,9
-  - 3\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist, liegen bei 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 und 0,85.
+
+- 3\.4 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist, liegen bei 0,25, 0,35, 0,45, 0,55, 0,65, 0,75 und 0,85.
 
 ### 4 Abweichungen von Ziffer 7 Anhang 1 StromVV
 
@@ -3667,7 +3664,6 @@ Anhang 4[^t-13]
 - 3\.2 Als anzurechnende Geldzuflüsse gelten sämtliche Geldzuflüsse, die aufgrund der Investition erzielt werden können, sowie die Einsparungen aufgrund von Eigenverbrauch. Für die Berechnung der Geldzuflüsse wird die Degradation der Photovoltaikmodule mit einem Faktor von 0,5 Prozent pro Jahr berücksichtigt.
 - 3\.3 Die anrechenbaren Geldabflüsse und die anzurechnenden Geldzuflüsse sind bis zum Ende der Nutzungsdauer der zuletzt in Betrieb genommenen Photovoltaikmodule zu berücksichtigen.
 - 3\.4 Investitionen werden über ihre Nutzungsdauer linear abgeschrieben, und allfällige Restwerte werden am Ende der Nutzungsdauer der zuletzt in Betrieb genommenen Photovoltaikmodule als Geldzuflüsse berücksichtigt.
-- [tab]
 
 Anhang 5[^t-14]
 
