@@ -4,13 +4,12 @@ number: "210.500"
 title: Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 short: EG BewG
 language: de
-version: 1988-01-01
-valid_until: 2024-06-30
-version_adopted: 1987-06-23
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 1987-06-23
 in_force: 1988-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.500"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/554/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/554/pdf_file"
 
 (EG BewG)
 
-Vom 23.06.1987 (Stand 01.01.1988)
+Vom 23.06.1987 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -45,7 +44,7 @@ beschliesst:
 
 **Kantonale Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat legt die übrige Behördenorganisation und den Gebührenrahmen in einer Verordnung fest.
+<sup>1</sup> Der Regierungsrat legt die übrige Behördenorganisation durch Verordnung fest.
 
 #### § 4
 
