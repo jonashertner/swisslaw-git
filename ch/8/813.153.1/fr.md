@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur les émoluments perçus en application de 
 short: OEChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/fr"
 
 (Ordonnance sur les émoluments relatifs aux produits chimiques, OEChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -113,7 +113,7 @@ Annexe[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), le ch. II de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) et l’annexe ch. 2 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), le ch. II de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), l’annexe ch. 2 de l’O du 15 nov. 2023 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)) et l’annexe de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -211,6 +211,9 @@ Annexe[^t-1]
 <tr><td colspan="2">2.2 Émolument supplémentaire pour une substance supplémentaire d’un groupe de substances selon l’annexe XI, section 1.5, du règlement (CE) n<sup>o</sup> 1907/2006[^annexu1-lvlIII-2]</td><td>1 000–10 000</td></tr>
 <tr><td colspan="2">2.3 Émolument supplémentaire pour un emploi supplémentaire</td><td>1 000–10 000</td></tr>
 <tr><td colspan="2">*3* *Traitement d’une communication sur le procédé de fabrication en système fermé au sens de l’annexe 1.17, ch. 4*</td><td>500–3 000</td></tr>
+<tr><td colspan="2">*4* *Traitement d**’**une demande de remboursement de la taxe* *visée* *à l**’**annexe 2.15, ch. 6.6**<sup>bis</sup>*</td><td></td></tr>
+<tr><td colspan="2">4.1 pour les piles portables</td><td>100</td></tr>
+<tr><td colspan="2">4.2 pour les piles automobiles et les piles industrielles</td><td>400</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: R (CE) n<sup>o</sup>1907/2006 du Parlement européen et du Conseil du 18 déc. 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 412/2012, JO L 128 du 16.5.2012, p. 1.

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über Gebühren für den Bundesvollzug der C
 short: ChemGebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/de"
 
 (Chemikaliengebührenverordnung, ChemGebV)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2024)
+vom 18. Mai 2005 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -113,7 +113,7 @@ Anhang[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), Ziff. II der V vom 5. April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) und Anhang Ziff. 2 vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), Ziff. II der V vom 5. April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), Anhang Ziff. 2 der V vom 15. Nov. 2023 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)) und Anhang der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 [^annexu1-lvlI-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -211,6 +211,9 @@ Anhang[^t-1]
 <tr><td>2.2 Zusatzgebühr für einen weiteren Stoff einer Stoffgruppe gemäss Anhang XI Abschnitt 1.5 der Verordnung (EG) Nr. 1907/2006[^annexu1-lvlIII-2]</td><td>1 000 – 10 000</td></tr>
 <tr><td>2.3 Zusatzgebühr für eine zusätzliche Verwendung</td><td>1 000 – 10 000</td></tr>
 <tr><td>3 Bearbeitung einer Meldung über den Herstellungsprozess in einem geschlossenen System gemäss Anhang 1.17 Ziffer 4</td><td>500–3 000</td></tr>
+<tr><td>4 Bearbeitung eines Gesuchs für die Rückerstattung der Gebühr nach Anhang 2.15 Ziffer 6.6<sup>bis</sup></td><td></td></tr>
+<tr><td>4.1 bei Gerätebatterien</td><td>100</td></tr>
+<tr><td>4.2 bei Fahrzeug- und Industriebatterien</td><td>400</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 412/2012. ABl. L 128 vom 16.5.2012, S. 1.
