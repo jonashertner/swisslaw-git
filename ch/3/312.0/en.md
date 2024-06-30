@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240701-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 January 2024)
+of 5 October 2007 (Status as of 1 July 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -2237,7 +2237,7 @@ The right to refuse to testify ceases to apply if:
 
 <sup>1</sup>
 
-A person may the refuse to testify if he or she would incriminate him or herself by testifying such that he or she:
+A person may refuse to testify if he or she would incriminate him or herself by testifying such that he or she:
 
 - a. could be found guilty of an offence;
 - b. could be held liable under the civil law and the interest in protection outweighs the interest in prosecution.
@@ -2269,7 +2269,7 @@ A person may the refuse to testify if he or she would incriminate him or herself
 
 **Right to refuse to testify due to professional confidentiality**
 
-<sup>1</sup> Members of the clergy, lawyers, defence lawyers, notaries, patent attorneys, doctors, dentists, pharmacists, psychologists and assistants to such persons may refuse to testify in relation to confidential matters that have been confided to them or come to their knowledge in the course of their professional work.[^171-1]
+<sup>1</sup> Members of the clergy, lawyers, defence lawyers, notaries, patent attorneys, doctors, dentists, pharmacists, psychologists, nurses, physiotherapists, occupational therapists, midwives, dieticians, optometrists, osteopaths and assistants to such persons may refuse to testify in relation to confidential matters that have been confided to them or come to their knowledge in the course of their professional work.[^171-1]
 
 <sup>2</sup>
 
@@ -2282,7 +2282,7 @@ They must testify if they:
 
 <sup>4</sup> The provisions of the Lawyers Act of 23 June 2000[^171-3] are reserved.
 
-[^171-1]: Amended by Annex No 2 of the Healthcare Occupations Act of 30 Sept. 2016, in force since 1 Feb. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^171-1]: Amended by Annex No 1 of the FA of 16 Dec. 2022 on Promoting Training in the Nursing Profession, in force since 1 July 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^171-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^171-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
@@ -2324,7 +2324,7 @@ Any person who is required to preserve professional confidentiality in accordanc
 - c. Article 2 of the Federal Act of 9 October 1981[^173-3] on Pregnancy Advisory Centres;
 - d.[^173-4] Article 11 of the Victim Support Act of 23 March 2007[^173-5];
 - e.[^173-6] Article 3*c* paragraph 4 NarcA[^173-7];
-- f.[^173-8] Article 16 letter f of the Healthcare Occupations Act of 30 September 2016[^173-9].
+- f.[^173-8] …
 
 <sup>2</sup> Persons entrusted with other confidential information protected by law are required to testify. The director of proceedings may relieve them of the duty to testify if they are able to establish that the interest in preserving confidentiality outweighs the interest in establishing the truth.
 
@@ -2335,8 +2335,7 @@ Any person who is required to preserve professional confidentiality in accordanc
 [^173-5]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 [^173-6]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^173-8]: Inserted by Annex No 2 of the Healthcare Occupations Act of 30 Sept. 2016, in force since 1 Feb. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^173-9]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^173-8]: Inserted by Annex No 2 of the Healthcare Occupations Act of 30 Sept. 2016 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Repealed by Annex No 1 of the FA of 16 Dec. 2022 on Promoting Training in the Nursing Profession, with effect from 1 July 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 174
 
@@ -3704,7 +3703,7 @@ The public prosecutor may arrange for post and telecommunications to be monitore
 
 Surveillance may be ordered in the investigation of the offences under the following Articles:
 
-- a.[^269-1] SCC[^269-2]: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226–226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
+- a.[^269-1] SCC[^269-2]: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188, 189–191, 193, 193*a*, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226–226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
 - b.[^269-3] Foreign Nationals and Integration Act[^269-4] of 16 December 2005[^269-5]: Articles 116 paragraph 3 and 118 paragraph 3;
 - c. Federal Act of 22 June 2001[^269-6] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
 - d.[^269-7] War Material Act of 13 December 1996[^269-8]: Articles 33 paragraph 2 and 34–35*b*;
@@ -3721,7 +3720,7 @@ Surveillance may be ordered in the investigation of the offences under the follo
 
 <sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-26].
 
-[^269-1]: Amended by Annex 2 No 2 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-1]: Amended by Annex No 2 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^269-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-4]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
@@ -4079,7 +4078,7 @@ The public prosecutor may order an undercover investigation if:
 
 An undercover investigation is permitted in respect of offences under the following Articles:
 
-- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater,</sup> 322<sup>septies</sup>;
+- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188, 189, 191, 193, 193*a*, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
 - b.[^286-3] Foreign Nationals and Integration Act of 16. December 2005[^286-4]: Articles 116 paragraph 3 and 118 paragraph 3;
 - c. Federal Act of 22. June 2001[^286-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
 - d.[^286-6] War Material Act of 13 December 1996[^286-7]: Articles 33 paragraph 2 and 34–35*b*;
@@ -4094,7 +4093,7 @@ An undercover investigation is permitted in respect of offences under the follow
 
 <sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-22].
 
-[^286-1]: Amended by Annex 2 No 2 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-1]: Amended by Annex No 2 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -5720,7 +5719,7 @@ An objection is admissible against:
 
 - a. the rulings and the procedural acts of the police, public prosecutor and authorities responsible for prosecuting contraventions;
 - b. the rulings, decrees and procedural acts of courts of first instance, with the exception of decisions directing proceedings;
-- c. the decisions of the compulsory measures court in the cases provided for by this Code.
+- c.[^393-1] decisions of the compulsory measures court, unless this Code provides that they are final.
 
 <sup>2</sup>
 
@@ -5729,6 +5728,8 @@ An objection may contest:
 - a. an infringement of the law, including exceeding and abusing discretionary powers, the denial of justice and unjustified delay;
 - b. an incomplete or incorrect assessment of the circumstances of the case;
 - c. a decision that is inequitable.
+
+[^393-1]: Amended by No I 3 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 394
 

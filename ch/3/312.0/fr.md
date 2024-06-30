@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240701-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2024)
+du 5 octobre 2007 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2273,7 +2273,7 @@ Ils doivent témoigner:
 
 **Droit de refuser de témoigner fondé sur le secret professionnel**
 
-<sup>1</sup> Les ecclésiastiques, avocats, défenseurs, notaires, conseils en brevet, médecins, dentistes, chiropraticiens, pharmaciens, psychologues, ainsi que leurs auxiliaires, peuvent refuser de témoigner sur les secrets qui leur ont été confiés en vertu de leur profession ou dont ils ont eu connaissance dans l’exercice de celle-ci.[^171-1]
+<sup>1</sup> Les ecclésiastiques, avocats, défenseurs, notaires, conseils en brevet, médecins, dentistes, chiropraticiens, pharmaciens, psychologues, infirmiers, physiothérapeutes, ergothérapeutes, sages-femmes, diététiciens, optométristes, ostéopathes, ainsi que leurs auxiliaires, peuvent refuser de témoigner sur les secrets qui leur ont été confiés en vertu de leur profession ou dont ils ont eu connaissance dans l’exercice de celle‑ci.[^171-1]
 
 <sup>2</sup>
 
@@ -2286,7 +2286,7 @@ Ils doivent témoigner:
 
 <sup>4</sup> La loi du 23 juin 2000 sur les avocats[^171-3] est réservée.
 
-[^171-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^171-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^171-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^171-3]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
@@ -2328,7 +2328,7 @@ Les personnes qui sont tenues d’observer le secret professionnel en vertu d’
 - c. art. 2 de la loi fédérale du 9 octobre 1981 sur les centres de consultation en matière de grossesse[^173-3];
 - d.[^173-4] art. 11 de la loi du 23 mars 2007 sur l’aide aux victimes[^173-5];
 - e.[^173-6] art. 3*c*, al. 4, de la LStup[^173-7];
-- f.[^173-8] art. 16, let. f, de la loi fédérale du 30 septembre 2016 sur les professions de la santé[^173-9].
+- f.[^173-8] …
 
 <sup>2</sup> Les détenteurs d’autres secrets protégés par la loi sont tenus de déposer. La direction de la procédure peut les libérer de l’obligation de témoigner lorsqu’ils rendent vraisemblable que l’intérêt au maintien du secret l’emporte sur l’intérêt à la manifestation de la vérité.
 
@@ -2339,8 +2339,7 @@ Les personnes qui sont tenues d’observer le secret professionnel en vertu d’
 [^173-5]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 [^173-6]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^173-8]: Introduite par l’annexe ch. 2 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16), [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^173-9]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^173-8]: Introduite par l’annexe ch. 2 de la LF du 30 sept. 2016 sur les professions de la santé ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16), [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Abrogée par l’annexe ch. 1 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 174
 
@@ -2950,9 +2949,9 @@ La détention provisoire et la détention pour des motifs de sûreté ne peuvent
 - b. qu’il compromette la recherche de la vérité en exerçant une influence sur des personnes ou en altérant des moyens de preuves;
 - c.[^221-1] qu’il compromette sérieusement et de manière imminente la sécurité d’autrui en commettant des crimes ou des délits graves après avoir déjà commis des infractions du même genre.
 
-<sup>1</sup>
+<sup>1bis</sup>
 
-<sup>bis</sup> La détention provisoire et la détention pour des motifs de sûreté peuvent exceptionnellement être ordonnées, aux conditions suivantes:
+La détention provisoire et la détention pour des motifs de sûreté peuvent exceptionnellement être ordonnées, aux conditions suivantes:
 
 - a. le prévenu est fortement soupçonné d’avoir porté gravement atteinte à l’intégrité physique, psychique ou sexuelle d’autrui en commettant un crime ou un délit grave;
 - b. il y a un danger sérieux et imminent qu’il commette un crime grave du même genre.[^221-2]
@@ -3708,7 +3707,7 @@ Le ministère public peut ordonner la surveillance de la correspondance par post
 
 Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^269-1] CP[^269-2]: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226 à 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- a.[^269-1] CP[^269-2]: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, 189 à 191, 193, 193*a*, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226 à 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
 - b.[^269-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-4]: art. 116, al. 3, et 118, al. 3;
 - c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-5]: art. 24;
 - d.[^269-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-7]: art. 33, al. 2, et 34 à 35*b*;
@@ -3725,7 +3724,7 @@ Une surveillance peut être ordonnée aux fins de poursuivre les infractions vis
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-25].
 
-[^269-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^269-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -4082,7 +4081,7 @@ Le ministère public peut ordonner une investigation secrète aux conditions sui
 
 L’investigation secrète peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^286-1] CP[^286-2]: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- a.[^286-1] CP[^286-2]: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, 189 à 191, 193, 193*a*, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
 - b.[^286-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-4]: art. 116, al. 3, et 118, al. 3;
 - c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-5]: art. 24;
 - d.[^286-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-7]: art. 33, al. 2, et 34 à 35*b*;
@@ -4097,7 +4096,7 @@ L’investigation secrète peut être ordonnée aux fins de poursuivre les infra
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-22].
 
-[^286-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -5145,7 +5144,7 @@ Peuvent former opposition contre l’ordonnance pénale devant le ministère pub
 - b. les autres personnes concernées;
 - c. si cela est prévu, le premier procureur ou le procureur général de la Confédération ou du canton, dans le cadre de la procédure pénale pertinente.
 
-<sup>1</sup> <sup>bis</sup> La partie plaignante ne peut pas former opposition contre la sanction prononcée dans l’ordonnance pénale.[^354-2]
+<sup>1bis</sup> La partie plaignante ne peut pas former opposition contre la sanction prononcée dans l’ordonnance pénale.[^354-2]
 
 <sup>2</sup> L’opposition doit être motivée, à l’exception de celle du prévenu.
 
@@ -5723,7 +5722,7 @@ Le recours est recevable:
 
 - a. contre les décisions et les actes de procédure de la police, du ministère public et des autorités pénales compétentes en matière de contraventions;
 - b. contre les ordonnances, les décisions et les actes de procédure des tribunaux de première instance, sauf contre ceux de la direction de la procédure;
-- c. contre les décisions du tribunal des mesures de contrainte, dans les cas prévus par le présent code.
+- c.[^393-1] contre les décisions du tribunal des mesures de contrainte, pour autant que le présent code ne les qualifie pas de définitives.
 
 <sup>2</sup>
 
@@ -5732,6 +5731,8 @@ Le recours peut être formé pour les motifs suivants:
 - a. violation du droit, y compris l’excès et l’abus du pouvoir d’appréciation, le déni de justice et le retard injustifié;
 - b. constatation incomplète ou erronée des faits;
 - c. inopportunité.
+
+[^393-1]: Nouvelle teneur selon le ch. I 3 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 394
 

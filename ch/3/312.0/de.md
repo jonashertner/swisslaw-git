@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240701-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Januar 2024)
+vom 5. Oktober 2007 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2268,7 +2268,7 @@ Sie haben auszusagen, wenn sie:
 
 **Zeugnisverweigerungsrecht aufgrund eines Berufsgeheimnisses**
 
-<sup>1</sup> Geistliche, Rechtsanwältinnen und Rechtsanwälte, Verteidigerinnen und Verteidiger, Notarinnen und Notare, Patentanwältinnen und Patentanwälte, Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte, Chiropraktorinnen und Chiropraktoren, Apothekerinnen und Apotheker, Psychologinnen und Psychologen sowie ihre Hilfspersonen können das Zeugnis über Geheimnisse verweigern, die ihnen aufgrund ihres Berufes anvertraut worden sind oder die sie in dessen Ausübung wahrgenommen haben.[^171-1]
+<sup>1</sup> Geistliche, Rechtsanwältinnen und Rechtsanwälte, Verteidigerinnen und Verteidiger, Notarinnen und Notare, Patentanwältinnen und Patentanwälte, Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte, Chiropraktorinnen und Chiropraktoren, Apothekerinnen und Apotheker, Psychologinnen und Psychologen, Pflegefachfrauen und Pflegefachmänner, Physiotherapeutinnen und Physiotherapeuten, Ergotherapeutinnen und Ergotherapeuten, Hebammen, Ernährungsberaterinnen und Ernährungsberater, Optometristinnen und Optometristen, Osteopathinnen und Osteopathen sowie ihre Hilfspersonen können das Zeugnis über Geheimnisse verweigern, die ihnen aufgrund ihres Berufes anvertraut worden sind oder die sie in dessen Ausübung wahrgenommen haben.[^171-1]
 
 <sup>2</sup>
 
@@ -2281,7 +2281,7 @@ Sie haben auszusagen, wenn sie:
 
 <sup>4</sup> Das Anwaltsgesetz vom 23. Juni 2000[^171-3] bleibt vorbehalten.
 
-[^171-1]: Fassung gemäss Anhang Ziff. 2 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^171-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^171-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^171-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 
@@ -2323,7 +2323,7 @@ Wer nach einer der folgenden Bestimmungen Berufsgeheimnisse wahren muss, hat nur
 - c. Artikel 2 des Bundesgesetzes vom 9. Oktober 1981[^173-3] über die Schwangerschaftsberatungsstellen;
 - d.[^173-4] Artikel 11 des Opferhilfegesetzes vom 23. März 2007[^173-5];
 - e.[^173-6] Artikel 3*c* Absatz 4 BetmG[^173-7];
-- f.[^173-8] Artikel 16 Buchstabe f des Gesundheitsberufegesetzes vom 30. September 2016[^173-9].
+- f.[^173-8] …
 
 <sup>2</sup> Trägerinnen und Träger anderer gesetzlich geschützter Geheimnisse sind zur Aussage verpflichtet. Die Verfahrensleitung kann sie von der Zeugnispflicht befreien, wenn sie glaubhaft machen können, dass das Geheimhaltungsinteresse das Interesse an der Wahrheitsfindung überwiegt.
 
@@ -2334,8 +2334,7 @@ Wer nach einer der folgenden Bestimmungen Berufsgeheimnisse wahren muss, hat nur
 [^173-5]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 [^173-6]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^173-8]: Eingefügt durch Anhang Ziff. 2 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^173-9]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^173-8]: Eingefügt durch Anhang Ziff. 2 des Gesundheitsberufegesetzes vom 30. Sept. 2016 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Aufgehoben durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, mit Wirkung seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 174
 
@@ -3703,7 +3702,7 @@ Die Staatsanwaltschaft kann den Post- und den Fernmeldeverkehr überwachen lasse
 
 Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten angeordnet werden:
 
-- a.[^269-1] StGB[^269-2]: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226–226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
+- a.[^269-1] StGB[^269-2]: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188, 189–191, 193, 193*a*, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226–226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
 - b.[^269-3] Ausländer- und Integrationsgesetz[^269-4] vom 16. Dezember 2005[^269-5]: Artikel 116 Absatz 3 und 118 Absatz 3;
 - c. Bundesgesetz vom 22. Juni 2001[^269-6] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
 - d.[^269-7] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-8]: Artikel 33 Absatz 2 und 34–35*b*;
@@ -3720,7 +3719,7 @@ Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführte
 
 <sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-26] aufgeführten Straftaten.
 
-[^269-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^269-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-4]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -4078,7 +4077,7 @@ Die Staatsanwaltschaft kann eine verdeckte Ermittlung anordnen, wenn:
 
 Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten eingesetzt werden:
 
-- a.[^286-1] StGB[^286-2]: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- a.[^286-1] StGB[^286-2]: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188, 189–191, 193, 193*a*, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
 - b.[^286-3] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
 - c. Bundesgesetz vom 22. Juni 2001[^286-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
 - d.[^286-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-7]: Artikel 33 Absatz 2 und 34–35*b*;
@@ -4093,7 +4092,7 @@ Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufge
 
 <sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-22] aufgeführten Straftaten angeordnet werden.
 
-[^286-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -5717,7 +5716,7 @@ Die Beschwerde ist zulässig gegen:
 
 - a. die Verfügungen und die Verfahrenshandlungen von Polizei, Staatsanwaltschaft und Übertretungsstrafbehörden;
 - b. die Verfügungen und Beschlüsse sowie die Verfahrenshandlungen der erstinstanzlichen Gerichte; ausgenommen sind verfahrensleitende Entscheide;
-- c. die Entscheide des Zwangsmassnahmengerichts in den in diesem Gesetz vorgesehenen Fällen.
+- c.[^393-1] die Entscheide des Zwangsmassnahmengerichts, sofern dieses Gesetz sie nicht als endgültig bezeichnet.
 
 <sup>2</sup>
 
@@ -5726,6 +5725,8 @@ Mit der Beschwerde können gerügt werden:
 - a. Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens, Rechtsverweigerung und Rechtsverzögerung;
 - b. die unvollständige oder unrichtige Feststellung des Sachverhalts;
 - c. Unangemessenheit.
+
+[^393-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 394
 
