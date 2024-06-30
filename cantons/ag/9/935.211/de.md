@@ -4,13 +4,13 @@ number: "935.211"
 title: Verordnung zum Fischereigesetz des Kantons Aargau
 short: "Aargauische Fischereiverordnung, AFV"
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2021-10-27
+version: 2024-07-01
+valid_until: 2026-04-30
+version_adopted: 2024-03-13
 adopted: 2012-12-12
 in_force: 2013-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3121/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3121/pdf_file"
 
 (Aargauische Fischereiverordnung, AFV)
 
-Vom 12.12.2012 (Stand 01.01.2022)
+Vom 12.12.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 6 Abs. 5, 11 Abs. 2 lit. a, 12 , 14 Abs. 4, 15 Abs. 2, 16 Abs. 1, 17 Abs. 2, 19 Abs. 1 und 22 Abs. 1 des Einführungsgesetzes zum Bundesgesetz über die Fischerei (Fischereigesetz des Kantons Aargau, AFG) vom 20. November 2012[^ingress-1] und § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 6 Abs. 5, 11 Abs. 2 lit. a, 12, 14 Abs. 4, 15 Abs. 2, 16 Abs. 1, 17 Abs. 2, 19 Abs. 1 und 22 Abs. 1 des Einführungsgesetzes zum Bundesgesetz über die Fischerei (Fischereigesetz des Kantons Aargau, AFG) vom 20. November 2012[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [935.200](https://gesetzessammlungen.ag.ch/data/935.200/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Fischerei
 
@@ -95,23 +94,17 @@ beschliesst:
 
 **Staatliche Fischereireviere (§ 14 AFG)**
 
-<sup>1</sup> Pächterinnen und Pächter staatlicher Fischereireviere können bei der Fachstelle Jahreskarten für die Angelfischerei gegen eine Gebühr von Fr. 10.–, Wochen- und Tageskarten für die Angelfischerei gegen 50 % der Gebühr gemäss Absatz 3 beziehen.
+<sup>1</sup> Pächterinnen und Pächter staatlicher Fischereireviere können bei der Fachstelle Jahres- Wochen, und Tageskarten für die Angelfischerei beziehen.
 
 <sup>2</sup> Sie dürfen Fischereikarten für die Angelfischerei gegen Entgelt an fischereiberechtigte Personen abgeben. Auf den Jahreskarten ist das tatsächlich bezogene Entgelt einzutragen.
 
-<sup>3</sup> Die Gebühr beträgt für eine
-
-- a) Wochenkarte Fr. 60.–,
-- b) Tageskarte Fr. 20.–,
-- c) Hallwilersee-Jahreskarte Fr. 150.–.
+<sup>3</sup> …
 
 <sup>4</sup> Aus der Bewirtschaftung des staatlichen Fischereireviers darf kein Gewinn resultieren.
 
 #### § 7
 
-**Gewässer mit Freianglerrecht (§ 15 AFG)**
-
-<sup>1</sup> Die Gebühr für eine Fischereikarte für Freianglerinnen und Freiangler beträgt Fr. 50.– pro Jahr. Davon gehen Fr. 10.– an den kantonalen Fischereiverband.
+**…**
 
 #### § 8
 
@@ -318,12 +311,9 @@ beschliesst:
 
 <sup>2</sup> Die Kosten für fischereiliche Massnahmen tragen die Bewilligungsnehmenden.
 
-<sup>3</sup> Für die Behandlung von Gesuchen um Erteilung einer fischereirechtlichen Bewilligung gemäss den Art. 8 und 9 des Bundesgesetzes über die Fischerei (BGF) vom 21. Juni 1991[^21-1] und die Ausübung der damit verbundenen Aufsichts- und Kontrollfunktionen wird eine Gebühr von Fr. 100.– bis Fr. 6'000.– erhoben. Die Gebühr bemisst sich nach Aufwand.
+<sup>3</sup> …
 
-<sup>4</sup> Die Gebühr für die fischereirechtliche Behandlung von Baugesuchen wird von der Abteilung für Baubewilligungen des Departements Bau, Verkehr und Umwelt gestützt auf die Verordnung über die von der Abteilung für Baubewilligungen des Departements Bau, Verkehr und Umwelt zu erhebenden Gebühren (GebV AfB) vom 17. August 1994[^21-2] erhoben.
-
-[^21-1]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
-[^21-2]: SAR [713.125](https://gesetzessammlungen.ag.ch/data/713.125/de)
+<sup>4</sup> …
 
 ## 3. Schlussbestimmung
 
