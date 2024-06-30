@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2022-12-01
-valid_until: 2024-06-30
-version_adopted: 2022-11-08
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-18
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7637/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.12.2022)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -89,9 +89,9 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> Wessen Handlung oder Verhalten das unmittelbare oder mittelbare Einfangen oder Erlegen eines wildlebenden Tiers zum Zweck hat, jagt oder beteiligt sich aktiv an der Jagd.
+<sup>1</sup> Aktiv an der Jagd beteiligt sich eine Person, deren Handlung oder Verhalten den unmittelbaren oder mittelbaren Zweck hat, ein wildlebendes Tier zu verfolgen, einzufangen oder zu erlegen.
 
-<sup>2</sup> Als aktive Beteiligung an der Jagd gilt insbesondere die Tatsache, dass eine Person wildlebende Tiere drückt oder treibt oder Hunde laufen lässt oder sie anstiftet, um sie zum Jagen zu bringen, selbst wenn sie weder eine Waffe noch Hilfsmittel mit sich führt.
+<sup>2</sup> Als aktive Beteiligung an der Jagd gilt insbesondere die Tatsache, dass eine Person wild lebende Tiere drückt oder treibt, Hunde laufen lässt oder sie anstiftet, um sie zum Jagen zu bringen, oder Jägerinnen oder Jäger leitet, selbst wenn sie weder eine Waffe noch Hilfsmittel mit sich führt.
 
 ### 3.2 Fähigkeitsprüfung
 
@@ -164,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt kann Personen, die nicht im Kanton wohnhaft sind (Jagdgäste) und die Bedingungen nach Artikel 19 Abs. 1 JaG erfüllen, eine auf einige Tage beschränkte Jagdberechtigung erteilen.
 
-<sup>2</sup> Das Gesuch muss unter Beilage der erforderlichen Unterlagen schriftlich mindestens 15 Tage im Voraus beim Amt eingereicht werden.
+<sup>2</sup> Das Gesuchsformular, das beim Sekretariat des Amts erhältlich ist oder auf der Website des Staats Freiburg heruntergeladen werden kann, muss mindestens 15 Tage im Voraus, zusammen mit den notwendigen Dokumenten, beim Amt eingereicht werden.
 
 <sup>3</sup> Diese Jagdberechtigungen sind an einem, zwei oder drei Tagen gültig, mit Ausnahme der drei ersten Tage der Jagdsaison für Gämse, Reh und Hirsch.
 
@@ -172,7 +172,7 @@ beschliesst:
 
 <sup>5</sup> Ein Jagdgast kann während der Jagdsaison für Gämse, Reh und Hirsch nur eine Bewilligung erhalten. Er kann für eine Jagdsaison höchstens drei Bewilligungen erlangen.
 
-<sup>6</sup> Der Jagdgast muss von einer Jägerin oder einem Jäger begleitet werden, die oder der Inhaber eines Patents für die Jagd ist, die er ausüben möchte. Der Gast und die Jägerin oder der Jäger müssen sich gleichzeitig im Jagdgebiet befinden.
+<sup>6</sup> Der Jagdgast muss von einer Jägerin oder einem Jäger begleitet werden, die Inhaberin oder der Inhaber eines Patentes für die Jagd ist, die er ausüben möchte. Der Jagdgast und die Jägerin oder der Jäger müssen sich zur gleichen Zeit im Jagdgebiet befinden.
 
 <sup>7</sup> Der Jagdgast darf ein Tier, dessen Abschuss beschränkt ist, nur erlegen, wenn es der begleitenden Jägerin oder dem begleitenden Jäger angerechnet werden kann und diese oder dieser die erforderliche Kontrollmarke und das notwendige Kontrollheft zur Verfügung stellt.
 
@@ -271,7 +271,10 @@ beschliesst:
   - 2\. Reh von 13 kg oder mehr: — Fr. 160 pro Tier
   - 3\. …
   - 4\. …
-- d) Patent C (Hirsch): — Fr. 200 pro Tier
+- d) Patent C (Hirsch):
+  - 1\. eine Kontrollmarke: — Fr. 200
+  - 2\. zwei Kontrollmarken: — Fr. 300
+  - 3\. jede zusätzliche Kontrollmarke: — Fr. 200
 - e) Patent D (Wildschwein): — Fr. 100
 - f) Patent E (Federwild): — Fr. 100
 - g) Patent F (Neuenburgersee): — Fr. 150
@@ -441,6 +444,8 @@ beschliesst:
 
 <sup>2</sup> Die Verwendung von künstlichen Lichtquellen, Nachtsichtgeräten, Tonwiedergabegeräten oder anderen elektronischen Hilfsmitteln ist verboten.
 
+<sup>2a</sup> In den für die Jagd offenen Gebieten und in den Perimetern der kantonalen und eidgenössischen Reservate ist es den Jägerinnen und Jägern während der Jagdsaison verboten, Nachtsichtgeräte (insbesondere Lichtverstärker) und Wärmebildgeräte mitzuführen.
+
 <sup>3</sup> Die Bestimmungen über die verbotenen Hilfsmittel und die für die Jagd verbotenen Hilfsmittel in der Jagdverordnung des Bundes bleiben vorbehalten.
 
 #### Art. 32
@@ -566,6 +571,20 @@ beschliesst:
 
 <sup>2</sup> Während der Jagdsaison müssen sie Inhaber eines Jagdpatents sein, das zum gegebenen Zeitpunkt und an dem Ort, wo sie sich befinden, gültig ist.
 
+<sup>3</sup> Hunde, die nach dem 1. Januar 2024 geboren sind und bei der Jagd eingesetzt werden, müssen einen obligatorischen Hundeerziehungskurs absolvieren, der vom Verband organisiert wird.
+
+<sup>4</sup> Jeder neue Hund (Abs. 3) muss, bevor er zur Jagd eingesetzt werden darf, einer Grundbeurteilung «Jagd» durch eine Hundeausbilderin oder einen Hundeausbilder Jagd, die oder der vom Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW) anerkannt ist, unterzogen werden. Die Grundbeurteilung «Jagd» ist gleichzusetzen mit der generellen Abrichtung und der praktischen Beurteilung der Führbarkeit nach Artikel 28a des Gesetzes vom 2. November 2006 über die Hundehaltung (HHG).
+
+<sup>5</sup> Weiterbildungen oder spezialisierte Fortbildungen für zusätzliche Abrichtungen (Vorstehhund, Stöberhund, Apportierhund, Schweisshund, Baujagdhund, Hund für Wildschweinjagd) können vom Verband organisiert werden. Diese Ausbildungen müssen von den Organisationen, die vom Amt und vom LSVW validiert wurden, anerkannt werden.
+
+<sup>6</sup> Die Jägerin oder der Jäger muss die notwendigen Bescheinigungen auf sich tragen und sie auf Anordnung den Organen, die mit der Beaufsichtigung der Jagd beauftragt sind, vorweisen.
+
+<sup>7</sup> Stellt eine Wildhüterin-Fischereiaufseherin oder ein Wildhüter-Fischereiaufseher ein nichtkonformes Verhalten eines Hundes im Sinne von Absatz 4 fest, kann das Amt die Halterin oder den Halter beim LSVW anzeigen, das dann eine neue Beurteilung dieses Hundes anordnen kann.
+
+<sup>8</sup> Das LSVW entscheidet über die Gleichwertigkeit von Grundbeurteilungen, die ausserhalb des Kantons bestanden wurden.
+
+<sup>9</sup> Die Gesetzgebung über die Hundehaltung bleibt vorbehalten.
+
 #### Art. 43
 
 **Jagdhunde – Verwendung und Verbote**
@@ -616,7 +635,7 @@ beschliesst:
 
 **Schweisshunde – Allgemeines**
 
-<sup>1</sup> Für die Nachsuche von angeschossenem oder verendetem Wild muss das Schweisshundeteam (Führerin oder Führer mit Schweisshund) einen Ausweis bei sich tragen, der belegt, dass es die entsprechenden von den anerkannten kynologischen und Jägervereinigungen organisierten Prüfungen bestanden hat, und es muss auf der Liste des Verbands für die laufende Saison aufgeführt sein.
+<sup>1</sup> Für die Nachsuche von angeschossenem oder verendetem Wild muss das Schweisshundeteam (Führerin oder Führer mit Schweisshund) einen Ausweis bei sich tragen, der belegt, dass es die entsprechenden von den anerkannten kynologischen und Jägervereinigungen organisierten Prüfungen bestanden und die jährlichen Übungen durchgeführt hat. Das Schweisshundeteam muss auf der Liste des Verbands für die laufende Saison aufgeführt sein.
 
 <sup>2</sup> Die Verbote nach Artikel 43 Abs. 4 gelten nicht für den Einsatz eines Schweisshundes. Der Hund muss an der kurzen Leine geführt werden, mit Ausnahme für die Nachsuche eines Tiers.
 
@@ -626,9 +645,9 @@ beschliesst:
 
 <sup>1</sup> Die Schweisshundeführerinnen oder -führer dürfen die für Jägerinnen und Jäger gesperrten Strassen und Wege befahren:
 
-- a) um am Tag vor der Eröffnung der Jagd zur Alphütte zu fahren, in der sie vorübergehend wohnen;
+- a) um am Tag vor der Eröffnung der Jagd zur Hütte zu fahren, in der sie vorübergehend wohnen;
 - b) wenn sie mit ihrem Hund im Einsatz sind;
-- c) wenn sie die Alphütte endgültig verlassen und zu ihrem Wohnort zurückkehren.
+- c) wenn sie die Hütte endgültig verlassen und zu ihrem Wohnort zurückkehren.
 
 <sup>2</sup> In diesen Fällen müssen sie ihren Hund und ihren Schweisshundeführerinnen- oder Schweisshundeführer-Ausweis mitführen.
 
@@ -640,7 +659,7 @@ beschliesst:
 
 <sup>2</sup> Wenn ein angeschossenes Tier in ein Wildschutzgebiet flüchtet, darf die Schweisshundeführerin oder der -führer es dort mit einer Waffe nachsuchen und ihm den Fangschuss geben.
 
-<sup>3</sup> Jegliche Nachsuche ausserhalb der üblichen Jagdzeiten muss vorgängig von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher der Region bewilligt werden. Aus diesem Anlass kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher das Tragen einer Waffe erlauben.
+<sup>3</sup> Jegliche Nachsuche ausserhalb der Jagdzeiten muss vorgängig von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher der Region bewilligt werden. Aus diesem Anlass kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher das Tragen einer Waffe erlauben.
 
 <sup>4</sup> Die Direktion kann weitere Möglichkeiten, die für die Nachsuche geeignet sind, direkt in der jährlichen Verordnung über die Planung der Jagd vorschlagen.
 
@@ -686,6 +705,8 @@ beschliesst:
 
 <sup>5</sup> Die Beizjagd darf nur auf wildlebende Tiere ausgeübt werden, die gejagt werden dürfen oder Schaden verursachen. Die Bewilligung bezeichnet die Arten und legt alle weiteren Bedingungen fest.
 
+<sup>6</sup> Es ist verboten, andere Greifvogelarten für die Falknerei zu verwenden als die folgenden: Steinadler, Habicht, Uhu, Sperber und Wanderfalke.
+
 #### Art. 55
 
 **Gebirge**
@@ -720,6 +741,8 @@ beschliesst:
 <sup>5</sup> Die Jagd wird unterbrochen, falls das Geschlechts- oder Alterskontingent vor Ablauf der in dieser Verordnung vorgesehenen Saison ausgeschöpft ist.
 
 <sup>6</sup> Der Verband nimmt vorgängig zur Jagdplanung Stellung.
+
+<sup>7</sup> Die jährliche Verordnung über die Planung der Jagd enthält die Vorschriften über die Regulierungsabschüsse, die vom Amt nach Artikel 3 der Verordnung vom 5. März 2024 über die Regulierungsabschüsse in den Schutzgebieten erlassen werden.
 
 #### Art. 57
 
@@ -822,8 +845,8 @@ beschliesst:
 - b) 200 Franken für den Abschuss eines männlichen Hirschs mit vier Sprossen;
 - c) 300 Franken für den Abschuss eines männlichen Hirschs mit sechs Sprossen;
 - d) 400 Franken für den Abschuss eines männlichen Hirschs mit acht Sprossen;
-- e) 600 Franken für den Abschuss eines männlichen Hirschs mit zehn Sprossen;
-- f) 800 Franken für den Abschuss eines männlichen Hirschs mit mehr als zehn Sprossen.
+- e) 500 Franken für den Abschuss eines männlichen Hirschs mit zehn Sprossen;
+- f) 600 Franken für den Abschuss eines männlichen Hirschs mit mehr als zehn Sprossen.
 
 <sup>4</sup> Die Jägerin oder der Jäger muss sich täglich über die Erfüllung der Jagdplanung informieren. Ein Telefonbeantworter gibt Auskunft über den Verlauf der Hirschjagd.
 
@@ -912,9 +935,9 @@ beschliesst:
 
 <sup>1</sup> Das Patent E berechtigt die Inhaberin oder den Inhaber im Flachland zu jagen:
 
-- a) Waldschnepfen, vom 20. Oktober bis 14. Dezember;
-  - 1\. vom 20. bis 31. Oktober ist es verboten mehr als eine Schnepfe pro Tag zu erlegen (maximal drei in dieser Zeitspanne);
-  - 2\. vom 1. November bis 14. Dezember ist es verboten mehr als zwei Schnepfen pro Tag zu erlegen (maximal zehn während der gesamten Jagdsaison).
+- a) Waldschnepfen, vom 1. November bis 14. Dezember; es ist verboten, mehr als zwei Schnepfen pro Tag zu erlegen (maximal zehn während der gesamten Jagdsaison);
+  - 1\. …
+  - 2\. …
 - b) Stockenten, Krickenten und Kormorane, vom Montag des eidgenössischen Buss- und Bettages bis zum 31. Januar.
 
 <sup>2</sup> Wasserwild darf erlegt werden:
@@ -956,7 +979,11 @@ beschliesst:
 
 <sup>2</sup> Jägerinnen und Jäger, die ein verletztes Tier suchen, das in ein Gebiet geflüchtet ist, wo nicht gejagt werden darf, müssen ihm nachfolgen, nachdem sie Zustimmung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers eingeholt haben.
 
-<sup>3</sup> Liegt das beschossene Tier nicht im Feuer, so muss die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher gleichentags während den Jagdzeiten innerhalb von 4 Stunden nach dem Schuss benachrichtigt werden. Die Jägerin oder der Jäger muss sofort nach dem Schuss ihren oder seinen Standort, den Standort des Tiers und dessen Fluchtrichtung deutlich kennzeichnen. Die Jägerin oder der Jäger muss eine Schweisshundeführerin oder einen Schweisshundeführer beiziehen.
+<sup>3</sup> Liegt das beschossene Tier nicht im Feuer, so muss die Jägerin oder der Jäger:
+
+- a) sofort nach dem Schuss ihren oder seinen Standort, den Standort des Tiers und dessen Fluchtrichtung deutlich kennzeichnen;
+- b) eine Schweisshundeführerin oder einen Schweisshundeführer beiziehen;
+- c) wenn die Nachsuche ergebnislos bleibt, gleichentags, sobald sie oder er den Standort verlässt, die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher der Region, während der Jagdzeiten, aber spätestens innerhalb von vier Stunden nach dem Schuss, informieren.
 
 <sup>3<sup>bis</sup></sup> …
 
@@ -986,7 +1013,7 @@ beschliesst:
 
 **Kontrollformulare**
 
-<sup>1</sup> Die Jägerin oder der Jäger muss noch im Jagdgebiet und bevor sie oder er den Hirsch, die Gämse, das Reh oder das Wildschwein verschiebt, obligatorisch alle Rubriken, mit Ausnahme des Gewichts und der Länge der Gämskrickel, auf dem Kontrollformular ausfüllen und zwar so, dass die Angaben nicht mehr gelöscht werden können. Das Gewicht muss spätestens vor dem Versand oder der Abgabe des Formulars an die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher eingesetzt werden.
+<sup>1</sup> Die Jägerin oder der Jäger muss noch im Jagdgebiet und bevor sie oder er den Hirsch, die Gämse, das Reh oder das Wildschwein verschiebt, obligatorisch alle Rubriken, mit Ausnahme des Gewichts und der Indizien des körperlichen Zustands (Alter, Stangenlänge, Spiesslänge und Länge des Mittelfusses), auf dem Kontrollformular ausfüllen, und zwar so, dass die Angaben nicht mehr gelöscht werden können. Das Gewicht muss spätestens vor dem Versand oder der Abgabe des Formulars an die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher eingesetzt werden.
 
 <sup>2</sup> Das Kontrollformular für die Gämse und das Reh muss der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher des Wildsektors, in dem das Tier erlegt wurde, übergeben oder per Post oder gemäss den Anweisungen des Amts elektronisch zugestellt werden. Das Formular muss innerhalb von 72 Stunden nach dem Abschuss im Gebirge und innerhalb von 48 Stunden nach dem Abschuss im Flachland übergeben oder auf der Post abgegeben werden, wobei das Datum des Poststempels massgebend ist. Die Bestimmungen dieses Absatzes sind nicht auf irrtümlich erlegte Tiere anwendbar, die gemäss den Bestimmungen von Artikel 76 dieses Reglements vorgewiesen werden müssen.
 
@@ -1006,7 +1033,7 @@ beschliesst:
 
 - a) Kontrollmarken und -formulare dürfen nur unter Jägerinnen und Jägern übertragen werden, die zur Jagd auf diese Tiere befugt sind und sich zusammen im Jagdgebiet aufhalten.
 - b) Die Übertragung der Kontrollmarken und -formulare muss unmittelbar nach der Schussabgabe, im Jagdgebiet und in Anwesenheit der Inhaberin oder des Inhabers erfolgen.
-- c) Nachdem sie ihre persönliche Kontrollmarke gebraucht haben, können Jägerinnen und Jäger höchstens zwei Hirsche und zwei Gämsen für eine andere Jägerin oder einen anderen Jäger erlegen.
+- c) Nachdem sie ihre persönliche Kontrollmarke gebraucht haben, können Jägerinnen und Jäger höchstens zwei Gämsen für eine andere Jägerin oder einen anderen Jäger erlegen (Herbst- und Spezialjagd);
 - d) Die Jägerin oder der Jäger, die Eigentümerin oder der Eigentümer der Kontrollmarke ist, trägt das erlegte Tier in ihr oder sein Kontroll- und Statistikheft ein.
 
 #### Art. 76
@@ -1017,7 +1044,7 @@ beschliesst:
 
 <sup>2</sup> Es ist verboten, die Kontrollmarken oder das Kontroll- und Statistikheft in irgendeiner Weise zu ändern oder Kopien davon zu verwenden.
 
-<sup>3</sup> Im Falle eines Verlusts werden die Kontrollmarken und die Kontroll- und Statistikhefte gegen Bezahlung einer Verwaltungsgebühr von 12 Franken für jede Marke, jedes Formular und jedes Heft vom Amt ersetzt.
+<sup>3</sup> Im Falle eines Verlusts werden die Kontrollmarken und die Hefte gegen Bezahlung einer Verwaltungsgebühr von 10 Franken für jede Marke und 50 Franken für jedes Heft vom Amt ersetzt.
 
 <sup>4</sup> Das Kontroll- und Statistikheft muss spätestens am folgenden 1. März dem Oberamt zurückgegeben werden, von dem es ausgestellt wurde. Wird das Kontroll- und Statistikheft nicht fristgerecht zurückgegeben oder enthält es offensichtlich unvollständige oder falsche Angaben, so wird das bei der Ausstellung entrichtete Depotgeld der Inhaberin oder dem Inhaber nicht zurückerstattet, sondern dem Fonds für das Wild überwiesen.
 
@@ -1060,17 +1087,17 @@ beschliesst:
 
 <sup>1</sup> Im Falle eines irrtümlichen Abschusses und soweit die Bedingungen nach Artikel 83 Abs. 2 erfüllt sind, muss die Jägerin oder der Jäger folgende Entschädigungen bezahlen:
 
-- a) Gämse, zusätzlich zur Beschlagnahmung der Trophäe:
+- a) Gämse, zusätzlich zur Beschlagnahmung der Trophäe (alle Tiere):
   - 1\. 200 Franken für eine führende Gämsgeiss;
   - 2\. 200 Franken für einen Jährling anstelle eines erwachsenen Tiers;
   - 3\. 200 Franken für ein erwachsenes Tier des anderen Geschlechts als desjenigen, das zugeteilt wurde;
   - 4\. 300 Franken für ein erwachsenes Tier anstelle eines Jährlings oder Kitzes.
-- b) Reh, zusätzlich zur Beschlagnahmung der Trophäe:
+- b) Reh, zusätzlich zur Beschlagnahmung der Trophäe des männlichen Rehs:
   - 1\. 200 Franken für eine führende Rehgeiss;
   - 2\. 150 Franken für ein Reh von 13 kg oder mehr anstatt eines Rehs von weniger als 13 kg oder für einen Rehbock anstatt einer Rehgeiss oder umgekehrt.
 - c) Hirsch:
   - 1\. 300 Franken für eine führende Hirschkuh;
-  - 2\. 200 Franken für ein Stierkalb, einen erwachsenen Hirschstier, einen Spiesser, eine Hirschkuh oder ein Schmaltier, das unter Missachtung des Abschussplans erlegt wurde; die in Artikel 62 vorgesehenen Zusatztaxen werden zu diesem Betrag hinzugezählt und das Tier wird beschlagnahmt.
+  - 2\. 200 Franken für ein Stierkalb, einen erwachsenen Hirschstier, einen Spiesser, eine Hirschkuh oder ein Schmaltier, die unter Missachtung des Abschussplans erlegt wurden; die in Artikel 62 vorgesehenen Zusatztaxen werden zu diesem Betrag hinzugezählt und das Tier wird beschlagnahmt. Das Tier wird nicht beschlagnahmt, wenn ein Schmaltier anstelle eines Stierkalbs entnommen wurde und umgekehrt.
 - d) …
 
 <sup>1a</sup> Im Falle eines irrtümlichen Abschusses, für den mehrere Entschädigungen zu bezahlen sind, werden diese zu einer Gesamtentschädigung kumuliert.
@@ -1139,7 +1166,7 @@ beschliesst:
 
 **Übertretungen**
 
-<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 32–34, 36, 37, 41, 42, 45–47, 64 Abs. 5, 65 Abs. 3, 70 und 75–79 (mit Ausnahme von Art. 76 Abs. 5).
+<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 31 Abs. 2 und 2a, 32–34, 36, 37, 41, 42 Abs. 1–4, 43 Abs. 4, 45–47, 64 Abs. 4, 65 Abs. 3 und 4, 66, 70 Abs. 1 und 2, 75, 76 Abs. 1–4, 77 Abs. 2, 78 und 79.
 
 <sup>2</sup> Widerhandlungen gegen diese Verordnung, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
 

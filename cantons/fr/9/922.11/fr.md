@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2022-12-01
-valid_until: 2024-06-30
-version_adopted: 2022-11-08
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-18
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7637/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8030/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.12.2022)
+du 06.06.2016 (version entrée en vigueur le 01.07.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -89,9 +89,9 @@ Arrête:
 
 #### Art. 6
 
-<sup>1</sup> Quiconque commet un acte ou a un comportement dont le but immédiat ou indirect est de capturer ou de tuer un animal sauvage chasse ou prend une part active à la chasse.
+<sup>1</sup> Prend part active à la chasse quiconque commet un acte ou a un comportement dont le but immédiat ou indirect est de poursuivre, de capturer ou de tuer un animal sauvage.
 
-<sup>2</sup> Est notamment considérée comme prenant une part active à la chasse la personne qui, même si elle ne porte pas d'arme ni d'engin de chasse, traque et rabat des animaux sauvages, lâche ou appuie des chiens pour les faire chasser.
+<sup>2</sup> Est notamment considérée comme prenant une part active à la chasse la personne qui, même si elle ne porte pas d'arme ni d'engin de chasse, traque et rabat des animaux sauvages, lâche ou appuie des chiens pour les faire chasser, guide les chasseurs ou les chasseuses.
 
 ### 3.2 Examen d'aptitude
 
@@ -164,15 +164,15 @@ Arrête:
 
 <sup>1</sup> Le Service peut délivrer à une personne non domiciliée dans le canton (ci-après: l'hôte) et qui remplit les conditions fixées par l'article 19 al. 1 LCha des autorisations de chasse limitées à quelques jours.
 
-<sup>2</sup> La demande doit être déposée auprès du Service au moins quinze jours à l'avance, par écrit, avec production des documents nécessaires.
+<sup>2</sup> Le formulaire de la demande, disponible au secrétariat du Service et également téléchargeable sur le site internet de l'Etat de Fribourg, doit être adressé au Service au moins quinze jours à l'avance, accompagné des documents nécessaires.
 
 <sup>3</sup> Ces autorisations sont valables un, deux ou trois jours, à l'exception des trois premiers jours des périodes de chasse du chamois, du chevreuil et du cerf.
 
 <sup>4</sup> Elles ne peuvent pas être délivrées pour les chasses spéciales aux ongulés.
 
-<sup>5</sup> Un hôte peut obtenir une seule autorisation durant la période de chasse du chamois, du chevreuil et du cerf. Il peut obtenir au maximum trois autorisations durant une même saison de chasse.
+<sup>5</sup> Un ou une hôte peut obtenir une seule autorisation durant la période de chasse du chamois, du chevreuil et du cerf. Il ou elle peut obtenir au maximum trois autorisations durant une même saison de chasse.
 
-<sup>6</sup> L'hôte doit être accompagné d'un chasseur ou d'une chasseuse titulaire d'un permis pour la chasse qu'il souhaite exercer. L'hôte et le chasseur ou la chasseuse doivent être présents sur le terrain de chasse en même temps.
+<sup>6</sup> L'hôte doit être accompagné‑e d'un chasseur ou d'une chasseuse titulaire d'un permis pour la chasse qu'il souhaite exercer. L'hôte et le chasseur ou la chasseuse doivent être présents sur le terrain de chasse en même temps.
 
 <sup>7</sup> L'hôte ne peut abattre un animal dont le tir est contingenté que si cet animal peut être porté au compte du chasseur ou de la chasseuse qui l'accompagne et si ce dernier ou cette dernière met à sa disposition la marque et la formule de contrôle nécessaires.
 
@@ -271,7 +271,10 @@ Arrête:
   - 2\. chevreuil de 13 kilogrammes ou plus: — Fr. 160 par individu
   - 3\. …
   - 4\. …
-- d) Permis C (cerf): Fr. — 200 par individu
+- d) Permis C (cerf):
+  - 1\. un bracelet: — Fr. 200
+  - 2\. deux bracelets: — Fr. 300
+  - 3\. chaque bracelet supplémentaire: — Fr. 200
 - e) Permis D (sanglier): — Fr. 100
 - f) Permis E (gibier à plumes): — Fr. 100
 - g) Permis F (lac de Neuchâtel): — Fr. 150
@@ -441,6 +444,8 @@ Arrête:
 
 <sup>2</sup> L'usage de sources lumineuses artificielles, d'appareils de vision nocturne, d'appareils reproducteurs de son ou d'autres moyens électroniques pour chasser est interdit.
 
+<sup>2a</sup> Dans les territoires ouverts à la chasse ainsi que dans les périmètres des réserves cantonales et fédérales, il est interdit aux chasseurs et aux chasseuses d'être en possession d'appareils de vision nocturne (notamment amplificateur de lumière) et d'appareils de vision thermique, durant la période de chasse.
+
 <sup>3</sup> Les dispositions de l'ordonnance fédérale sur la chasse relatives aux engins de chasse prohibés ainsi qu'aux moyens et engins interdits dans l'exercice de la chasse sont réservées.
 
 #### Art. 32
@@ -566,6 +571,20 @@ Arrête:
 
 <sup>2</sup> Pendant la période de chasse, ils doivent être titulaires d'un permis pour une chasse autorisée au moment donné et à l'endroit où ils se trouvent.
 
+<sup>3</sup> Les chiens nés après le 1<sup>er</sup> janvier 2024 utilisés à la chasse doivent suivre un cours d'éducation canine obligatoire organisé par la Fédération.
+
+<sup>4</sup> Tout nouveau chien (al. 3) doit, avant de pouvoir être utilisé, être soumis à une évaluation de base «chasse» effectuée par les moniteurs canins spécialisés «chasse» reconnus par le Service de la sécurité alimentaire et des affaires vétérinaires (ci-après: le SAAV). L'évaluation de base «chasse» vaut créance générale ainsi qu'évaluation pratique de conductibilité au sens de l'article 28a de la loi du 2 novembre 2006 sur la détention des chiens (LDCh).
+
+<sup>5</sup> Des formations continues et spécialisées pour des créances supplémentaires (chien d'arrêt, chien leveur ou broussailleur, chien de rapport, chien de rouge, chien de terrier et chien à sangliers) peuvent être organisées par la Fédération. Ces formations doivent être reconnues par les organisations validées par le Service ainsi que par le SAAV.
+
+<sup>6</sup> Le chasseur ou la chasseuse doit porter sur lui ou sur elle les attestations nécessaires et les présenter sur réquisition des organes chargés de la surveillance de la chasse.
+
+<sup>7</sup> Si un ou une garde-faune constate un comportement non conforme d'un chien au sens de l'alinéa 4, le Service peut dénoncer son détenteur ou sa détentrice auprès du SAAV, lequel peut ordonner une nouvelle évaluation dudit chien.
+
+<sup>8</sup> Le SAAV décide de l'équivalence d'une évaluation de base réussie hors canton.
+
+<sup>9</sup> La législation sur la détention des chiens demeure réservée.
+
 #### Art. 43
 
 **Chiens de chasse – Utilisation et interdictions**
@@ -616,7 +635,7 @@ Arrête:
 
 **Chiens de rouge – Généralités**
 
-<sup>1</sup> Pour la recherche du gibier blessé ou mort, l'équipe cynophile (conducteur ou conductrice et chien de rouge) doit être porteuse d'un certificat attestant la réussite des épreuves y relatives organisées par les associations cynologiques et cynégétiques reconnues et elle doit figurer sur la liste fournie par la Fédération pour la saison en cours.
+<sup>1</sup> Pour la recherche du gibier blessé ou mort, l'équipe cynophile (conducteur ou conductrice et chien de rouge) doit être porteuse d'un certificat attestant la réussite des épreuves y relatives organisées par les associations cynologiques et cynégétiques reconnues ainsi qu'avoir effectué les exercices annuels. L'équipe cynophile doit figurer sur la liste fournie par la Fédération pour la saison en cours.
 
 <sup>2</sup> Les interdictions prévues à l'article 43 al. 4 ne s'appliquent pas à l'utilisation d'un chien de rouge. Le chien doit être tenu en laisse courte, sauf pour la recherche d'un animal.
 
@@ -640,7 +659,7 @@ Arrête:
 
 <sup>2</sup> Lorsqu'un animal tiré s'enfuit dans une zone protégée pour les animaux sauvages, le conducteur ou la conductrice de chien de rouge peut l'y rechercher en portant une arme et l'achever.
 
-<sup>3</sup> Toute recherche en dehors des heures habituelles de chasse doit faire l'objet d'un accord préalable du ou de la garde-faune de la région. A cette occasion, le ou la garde-faune peut autoriser le port d'une arme.
+<sup>3</sup> Toute recherche en dehors des heures de chasse doit faire l'objet d'un accord préalable du ou de la garde-faune de la région. A cette occasion, le ou la garde-faune peut autoriser le port d'une arme.
 
 <sup>4</sup> La Direction peut, directement dans l'ordonnance annuelle concernant la planification de la chasse, proposer d'autres moyens utiles à la recherche.
 
@@ -686,6 +705,8 @@ Arrête:
 
 <sup>5</sup> La chasse au vol ne peut être exercée que sur des animaux sauvages pouvant être chassés ou qui causent des dommages. L'autorisation désigne ces espèces et fixe toutes les autres conditions nécessaires.
 
+<sup>6</sup> Il est interdit d'utiliser pour la fauconnerie les espèces de rapaces autres que: aigle royal, autour des palombes, hibou grand-duc, épervier d'Europe et faucon pèlerin.
+
 #### Art. 55
 
 **Territoires de montagne**
@@ -720,6 +741,8 @@ Arrête:
 <sup>5</sup> Si le contingent selon le sexe ou l'âge est épuisé avant la fin des périodes fixées dans la présente ordonnance, la chasse est interrompue.
 
 <sup>6</sup> La Fédération donne préalablement son avis sur la planification.
+
+<sup>7</sup> L'ordonnance annuelle concernant la planification de la chasse contient les prescriptions relatives aux tirs de régulation, arrêtées par le Service, conformément à l'article 3 de l'ordonnance du 5 mars 2024 concernant les tirs de régulation dans les zones protégées.
 
 #### Art. 57
 
@@ -822,8 +845,8 @@ Arrête:
 - b) 200 francs en cas de tir d'un mâle avec quatre cors;
 - c) 300 francs en cas de tir d'un mâle avec six cors;
 - d) 400 francs en cas de tir d'un mâle avec huit cors;
-- e) 600 francs en cas de tir d'un mâle avec dix cors;
-- f) 800 francs en cas de tir d'un mâle avec plus de dix cors.
+- e) 500 francs en cas de tir d'un mâle avec dix cors;
+- f) 600 francs en cas de tir d'un mâle avec plus de dix cors.
 
 <sup>4</sup> Le chasseur ou la chasseuse doit s'informer chaque jour sur la réalisation de la planification de la chasse. Un répondeur téléphonique renseignant sur le déroulement de la chasse du cerf est mis à la disposition des chasseurs et chasseuses par le Service.
 
@@ -912,9 +935,9 @@ Arrête:
 
 <sup>1</sup> Le permis E confère à son ou sa titulaire le droit de tirer en plaine:
 
-- a) les bécasses des bois, du 20 octobre au 14 décembre;
-  - 1\. du 20 au 31 octobre: il est interdit de tirer plus d'une bécasse par jour (trois au maximum durant cette période);
-  - 2\. du 1<sup>er</sup> novembre au 14 décembre: il est interdit de tirer plus de deux bécasses par jour (dix au maximum durant toute la période de chasse);
+- a) les bécasses des bois, du 1<sup>er</sup> novembre au 14 décembre; il est interdit de tirer plus de deux bécasses par jour (dix au maximum durant toute la période de chasse);
+  - 1\. …
+  - 2\. …
 - b) les canards colverts, les sarcelles d'hiver et les cormorans, du lundi du Jeûne fédéral au 31 janvier.
 
 <sup>2</sup> Le gibier d'eau peut être tiré:
@@ -956,7 +979,11 @@ Arrête:
 
 <sup>2</sup> Les chasseurs et chasseuses qui recherchent un animal blessé qui s'est enfui dans un lieu où la chasse est interdite doivent l'y poursuivre, après avoir demandé l'accord du ou de la garde-faune.
 
-<sup>3</sup> Si l'animal ne tombe pas sur place, le ou la garde-faune doit être averti‑e le jour même, dans les quatre heures qui suivent le tir, durant les heures de chasse. Le chasseur ou la chasseuse doit marquer, immédiatement après le tir et de façon claire, le lieu où il ou elle se trouvait personnellement, l'emplacement de l'animal tiré et la direction de fuite de ce dernier. Il ou elle doit faire appel à un conducteur ou une conductrice de chien de rouge.
+<sup>3</sup> Si l'animal ne tombe pas sur place, le chasseur ou la chasseuse doit:
+
+- a) marquer immédiatement après le tir et de façon claire, le lieu où il ou elle se trouvait personnellement, l'emplacement de l'animal tiré et la direction de fuite de ce dernier;
+- b) faire appel à un conducteur ou une conductrice de chien de rouge;
+- c) en cas de recherche négative, en informer le jour même dès qu'il ou elle quitte l'emplacement le ou la garde-faune de la région, durant les heures de chasse mais au plus tard dans les quatre heures qui suivent le tir.
 
 <sup>3<sup>bis</sup></sup> …
 
@@ -986,7 +1013,7 @@ Arrête:
 
 **Formules de contrôle**
 
-<sup>1</sup> Sur le terrain de chasse et avant tout déplacement d'un cerf, d'un chamois, d'un chevreuil ou d'un sanglier, le chasseur ou la chasseuse doit remplir obligatoirement et de façon indélébile toutes les rubriques de la formule de contrôle, à l'exception du poids et de la longueur des cornes des chamois. Le poids doit obligatoirement être ajouté avant l'envoi ou la remise de la formule au ou à la garde-faune.
+<sup>1</sup> Sur le terrain de chasse et avant tout déplacement d'un cerf, d'un chamois, d'un chevreuil ou d'un sanglier, le chasseur ou la chasseuse doit remplir obligatoirement et de façon indélébile toutes les rubriques de la formule de contrôle, à l'exception du poids et des indices de condition physique (âge, longueur des cornes, longueur des dagues et longueur du métatarse). Le poids doit obligatoirement être ajouté avant l'envoi ou la remise de la formule au ou à la garde-faune.
 
 <sup>2</sup> La formule de contrôle pour le chamois et le chevreuil doit être remise ou renvoyée par courrier au ou à la garde-faune du secteur de faune dans lequel l'animal a été abattu ou, conformément aux instructions du Service, envoyée par voie électronique. La remise ou le dépôt à la poste de la formule doit se faire dans les septante-deux heures après le tir de ces animaux dans les territoires de montagne et dans les quarante-huit heures après le tir dans les territoires de plaine, le cachet de la poste faisant foi. Les dispositions du présent alinéa ne sont pas applicables aux animaux abattus par erreur; ces animaux doivent être présentés conformément aux dispositions de l'article 76.
 
@@ -1006,7 +1033,7 @@ Arrête:
 
 - a) la transmission des marques et formules de contrôle ne peut avoir lieu qu'entre des chasseurs et chasseuses qui ont le droit de tirer ces animaux et qui se trouvent conjointement sur le terrain de chasse;
 - b) la transmission des marques et formules de contrôle doit avoir lieu immédiatement après le tir, sur le terrain de chasse, en présence de leur détenteur ou détentrice;
-- c) après avoir utilisé leur marque de contrôle personnelle, les chasseurs et chasseuses peuvent tirer au maximum deux cerfs et deux chamois pour le compte d'autres chasseurs et chasseuses;
+- c) après avoir utilisé leur marque de contrôle personnelle, les chasseurs et chasseuses peuvent tirer au maximum deux chamois pour le compte d'autres chasseurs et chasseuses (chasse normale et chasse spéciale);
 - d) les chasseurs et chasseuses qui sont propriétaires de la marque inscrivent l'animal abattu dans leur carnet de contrôle et de statistique.
 
 #### Art. 76
@@ -1017,7 +1044,7 @@ Arrête:
 
 <sup>2</sup> Il est interdit de modifier ou de transformer de quelque façon que ce soit les marques de contrôle et le carnet de contrôle et de statistique ainsi que d'en utiliser des copies.
 
-<sup>3</sup> En cas de perte, les marques et formules de contrôle et les carnets sont remplacés par le Service, contre paiement d'un émolument administratif de 12 francs pour chaque marque, formule et carnet.
+<sup>3</sup> En cas de perte, les marques et les carnets sont remplacés par le Service, contre paiement d'un émolument administratif de 10 francs pour chaque marque et 50 francs pour le carnet.
 
 <sup>4</sup> Le carnet de contrôle et de statistique doit être restitué à la préfecture qui l'a délivré, le 1<sup>er</sup> mars suivant au plus tard. Si ce carnet n'est pas restitué en temps voulu ou s'il contient des indications manifestement incomplètes ou fausses, le montant déposé lors de sa délivrance n'est pas restitué à son ou sa titulaire mais versé au fonds de la faune.
 
@@ -1060,17 +1087,17 @@ Arrête:
 
 <sup>1</sup> En cas de tir par erreur et dans la mesure où les conditions fixées par l'article 83 al. 2 sont remplies, le chasseur ou la chasseuse doit payer les indemnités suivantes:
 
-- a) chamois, en plus du séquestre du trophée:
+- a) chamois, en plus du séquestre du trophée (tous les individus):
   - 1\. 200 francs pour une chèvre de chamois suitée;
   - 2\. 200 francs pour un éterle à la place d'un adulte;
   - 3\. 200 francs pour un adulte de sexe différent de celui qui a été attribué;
   - 4\. 300 francs pour un adulte à la place d'un éterle ou d'un cabri;
-- b) chevreuil, en plus du séquestre du trophée:
+- b) chevreuil, en plus du séquestre du trophée des mâles:
   - 1\. 200 francs pour une chevrette suitée;
   - 2\. 150 francs pour un chevreuil de 13 kilogrammes ou plus tiré à la place d'un chevreuil de moins de 13 kilogrammes ou pour un brocard tiré à la place d'une chevrette ou l'inverse;
 - c) cerf:
   - 1\. 300 francs pour une biche suitée;
-  - 2\. 200 francs pour un faon, un mâle adulte, un daguet, une biche ou une bichette tirés au mépris du plan de tir; les taxes supplémentaires prévues à l'article 62 s'additionnant à ce montant et l'animal étant séquestré.
+  - 2\. 200 francs pour un faon, un mâle adulte, un daguet, une biche ou une bichette tirés au mépris du plan de tir; les taxes supplémentaires prévues à l'article 62 s'additionnant à ce montant et l'animal étant séquestré. L'animal n'est pas séquestré en cas de prélèvement d'une bichette à la place d'un faon et vice-versa.
 - d) …
 
 <sup>1a</sup> En cas de tir par erreur donnant lieu à plusieurs indemnités, celles-ci sont cumulées pour constituer une indemnité globale.
@@ -1139,7 +1166,7 @@ Arrête:
 
 **Contraventions**
 
-<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 32 à 34, 36, 37, 41, 42, 45 à 47, 64 al. 5, 65 al. 3, 70 et 75 à 79 (à l'exception de l'art. 76 al. 5).
+<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 31 al. 2 et 2a, 32 à 34, 36, 37, 41, 42 al. 1 à 4, 43 al. 4, 45 à 47, 64 al. 4, 65 al. 3 et 4, 66, 70 al. 1 et 2, 75, 76 al. 1 à 4, 77 al. 2, 78 et 79.
 
 <sup>2</sup> Les infractions à la présente ordonnance que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
 
