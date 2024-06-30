@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "640.1"
-title: Gesetz über die Staats- und Gemeindesteuern
-short: Steuergesetz; StG
+title: Steuergesetz
+short: StG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-14
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-02-14
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2770/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2799/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Staats- und Gemeindesteuern
+# Steuergesetz
 
 StG
 
-(Steuergesetz; StG)
+(StG)
 
-vom 14.09.1992 (Stand 01.01.2024)
+vom 14.09.1992 (Stand 01.07.2024)
 
 ## 1. Teil: Staatssteuern
 
@@ -1830,6 +1830,18 @@ vom 14.09.1992 (Stand 01.01.2024)
 
 <sup>2</sup> Er regelt die Überprüfung des Steuerbezugs und die Abrechnung der Gemeinden.
 
+#### § 146a
+
+**Steuersoftware [^146a-1]**
+
+<sup>1</sup> Die Gemeinden verwenden für den Steuerbezug eine einheitliche Software.
+
+<sup>2</sup> Der Kanton ist für die Anschaffung und den Betrieb dieser Software zuständig.
+
+<sup>3</sup> Die Kosten für den Betrieb dieser Software werden vom Kanton und den Gemeinden hälftig getragen. Die Anschaffungskosten trägt der Kanton.
+
+[^146a-1]: Mit Übergangsbestimmung in § 247.
+
 ### 1.7. Veranlagungsverfahren
 
 ### 1.7.1. Allgemeine Verfahrensgrundsätze
@@ -3018,5 +3030,14 @@ vom 14.09.1992 (Stand 01.01.2024)
 <sup>2</sup> Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts wird von der Veranlagungsbehörde mittels Verfügung festgesetzt. Deren Anfechtung richtet sich nach den Bestimmungen des Veranlagungsverfahrens.
 
 <sup>3</sup> Abschreibungen auf stillen Reserven einschliesslich des selbstgeschaffenen Mehrwerts, die bei Ende der Besteuerung nach den § 87 und § 88 aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach § 86b einbezogen.
+
+#### § 247
+
+**Kostenübernahme für die vorzeitige Auflösung bestehender Verträge**
+
+<sup>1</sup> Der Kanton übernimmt einmalig allfällige Kosten, die einer Gemeinde für die vorzeitige Auflösung von Verträgen zwischen der Gemeinde und bisherigen Lieferanten ihrer Software für den Steuerbezug entstehen. Voraussetzungen für die Kostenübernahme sind kumulativ:
+
+- 1\. Der Vertrag wurde vor dem 31. Dezember 2022 abgeschlossen.
+- 2\. Die Kosten sind nach der Inbetriebnahme der Software von § 146a geschuldet.
 
 ABl. 37/1992
