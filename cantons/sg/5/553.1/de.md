@@ -4,13 +4,12 @@ number: "553.1"
 title: Gastwirtschaftsgesetz
 short: GWG
 language: de
-version: 2020-11-01
-valid_until: 2024-06-30
-version_adopted: 2020-04-21
+version: 2024-07-01
+version_adopted: 2024-06-25
 adopted: 1995-11-26
 in_force: 1996-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/553.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3002/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3002/pdf_file"
 
 (GWG)
 
-vom 26.11.1995 (Stand 01.11.2020)
+vom 26.11.1995 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -62,7 +61,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Dieses Gesetz wird nicht angewendet auf:
 
-- a) Spitäler, Alters-, Pflege-, Erziehungs- und andere Heime mit sozialem Zweck, Jugendherbergen sowie Schul- und Betriebskantinen, soweit Speisen und Getränke nicht an Dritte abgegeben werden. Besucher und Personal gelten nicht als Dritte;
+- a) Spitäler, Alters-, Pflege-, Erziehungs- und andere Heime mit sozialem Zweck, Jugendherbergen sowie Schul- und Betriebskantinen, soweit Speisen und Getränke nicht an Dritte abgegeben werden. Besucherinnen und Besucher sowie Personal gelten nicht als Dritte;
 - b) Lokale von Vereinen, wenn:
   - 1\. sie ausschliesslich im Rahmen von Vereinsanlässen betrieben werden;
   - 2\. sie nur Mitgliedern und einzelnen Gästen in deren Begleitung zugänglich sind;
@@ -99,9 +98,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 5
 
-**Inhaber**
+**Inhaberin oder Inhaber**
 
-<sup>1</sup> Das Patent lautet auf den verantwortlichen Betriebsleiter und ist nicht übertragbar.
+<sup>1</sup> Das Patent lautet auf die verantwortliche Betriebsleiterin oder den verantwortlichen Betriebsleiter und ist nicht übertragbar.
 
 ### 3. Zuständigkeit
 
@@ -117,9 +116,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 7
 
-**Voraussetzungen a) Gesuchsteller 1. allgemein**
+**Voraussetzungen a) Gesuchstellerin oder Gesuchsteller 1. allgemein**
 
-<sup>1</sup> Das Patent für einen Betrieb wird erteilt, wenn der Gesuchsteller:
+<sup>1</sup> Das Patent für einen Betrieb wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller:
 
 - a) handlungsfähig ist;[^7-1]
 - b) charakterlich geeignet ist;
@@ -137,7 +136,7 @@ als Gesetz:[^ingress-3]
 - a) Kenntnisse in der Lebensmittelhygiene und in der Suchtprävention hat;
 - b) in den letzten zwei Jahren nicht wiederholt oder in schwerwiegender Weise Vorschriften der Gesundheits-, der Lebensmittel-, der Fremden-, der Wirtschaftspolizei, des Arbeitsrechts oder der Betäubungsmittelgesetzgebung verletzt hat.
 
-<sup>2</sup> Kenntnisse in der Lebensmittelhygiene und in der Suchtprävention kann der Gesuchsteller nachweisen durch:
+<sup>2</sup> Kenntnisse in der Lebensmittelhygiene und in der Suchtprävention kann die Gesuchstellerin oder der Gesuchsteller nachweisen durch:
 
 - 1\. einen eidgenössischen Fähigkeitsausweis über eine vom Bundesamt für Industrie, Gewerbe und Arbeit anerkannte Berufslehre in den Bereichen Gastwirtschaft/Hauswirtschaft oder Nahrung/Getränke;
 - 2\. wenigstens drei Jahre Berufserfahrung auf dem Gebiet der Lebensmittelhygiene im Gastgewerbe;
@@ -169,7 +168,7 @@ als Gesetz:[^ingress-3]
 
 <sup>3</sup> Patente mit Berechtigung zum Alkoholausschank werden nicht erteilt:
 
-- a) für Betriebe in Schwimm- oder Strandbädern;
+- a) …
 - b) wenn wichtige polizeiliche Interessen, insbesondere jene des Jugendschutzes, erheblich gefährdet sind.
 
 #### Art. 12
@@ -206,7 +205,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Das Patent für einen Anlass wird erteilt, wenn:
 
-- a) der Gesuchsteller handlungsfähig[^14-1] und charakterlich geeignet ist und für eine einwandfreie Betriebsführung Gewähr bietet;
+- a) die Gesuchstellerin oder der Gesuchsteller handlungsfähig[^14-1] und charakterlich geeignet ist und für eine einwandfreie Betriebsführung Gewähr bietet;
 - b) der nachgesuchten gastgewerblichen Nutzung keine bau-, feuer- und lebensmittelpolizeilichen Vorschriften entgegenstehen.
 
 [^14-1]: Siehe Art. 13 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
@@ -230,7 +229,7 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> In Beherbergungsbetrieben dürfen Speisen und Getränke ohne zeitliche Einschränkung abgegeben werden:
 
 - a) übernachtenden Gästen;
-- b) Teilnehmern von mehrtägigen Tagungen, die im Beherbergungsbetrieb stattfinden, wenn ein wesentlicher Teil der Teilnehmer im Beherberungsbetrieb übernachtet.
+- b) Teilnehmenden von mehrtägigen Tagungen, die im Beherbergungsbetrieb stattfinden, wenn ein wesentlicher Teil der Teilnehmerinnen und Teilnehmer im Beherberungsbetrieb übernachtet.
 
 #### Art. 17
 
@@ -257,53 +256,53 @@ als Gesetz:[^ingress-3]
 
 **2. für bestimmte Anlässe**
 
-<sup>1</sup> Für einen bestimmten Anlass kann die Schliessungszeit auf Gesuch des Patentinhabers verkürzt oder aufgehoben werden.
+<sup>1</sup> Für einen bestimmten Anlass kann die Schliessungszeit auf Gesuch der Patentinhaberin oder des Patentinhabers verkürzt oder aufgehoben werden.
 
-### 4. Pflichten des Patentinhabers
+### 4. Pflichten der Patentinhaberin oder des Patentinhabers
 
 #### Art. 20
 
 **Betriebsführung**
 
-<sup>1</sup> Der Patentinhaber führt den Betrieb selbst.
+<sup>1</sup> Die Patentinhaberin oder der Patentinhaber führt den Betrieb selbst.
 
-<sup>2</sup> Er ist während der überwiegenden Dauer der Öffnungszeit, insbesondere während der Hauptbetriebszeiten, im Betrieb anwesend. Ist er verhindert, setzt er einen geeigneten Stellvertreter ein.
+<sup>2</sup> Diese Person ist während der überwiegenden Dauer der Öffnungszeit, insbesondere während der Hauptbetriebszeiten, im Betrieb anwesend. Ist sie verhindert, setzt sie eine geeignete Stellvertretung ein.
 
-<sup>3</sup> Er ist für die Einhaltung der Vorschriften dieses Gesetzes durch Personen, die im Betrieb mitwirken oder bewilligungsfrei Veranstaltungen durchführen, verantwortlich.
+<sup>3</sup> Sie ist für die Einhaltung der Vorschriften dieses Gesetzes durch Personen, die im Betrieb mitwirken oder bewilligungsfrei Veranstaltungen durchführen, verantwortlich.
 
 #### Art. 21
 
 **Sorge für Ordnung a) allgemein**
 
-<sup>1</sup> Der Patentinhaber sorgt für Ordnung.
+<sup>1</sup> Die Patentinhaberin oder der Patentinhaber sorgt für Ordnung.
 
-<sup>2</sup> Er hat insbesondere:
+<sup>2</sup> Diese Person hat insbesondere:
 
 - a) dafür zu sorgen, dass die Nachbarschaft nicht durch übermässige Einwirkungen belästigt wird;
 - b) den Beginn der Schliessungszeit eine Viertelstunde vorher anzukünden und die Gäste zum rechtzeitigen Verlassen des Betriebes aufzufordern;
 - c) …
 - d) Art und Preise der gastgewerblichen Leistungen gut sichtbar bekanntzugeben;
-- e) Gäste, die der Aufforderung zur Einhaltung der Ordnung keine Folge leisten, wegzuweisen. Kann er die Wegweisung nicht durchsetzen, nimmt er die Hilfe der Polizei in Anspruch.
+- e) Gäste, die der Aufforderung zur Einhaltung der Ordnung keine Folge leisten, wegzuweisen. Kann sie die Wegweisung nicht durchsetzen, nimmt sie die Hilfe der Polizei in Anspruch.
 
 #### Art. 22
 
 **b) bei Berechtigung zum Alkoholausschank**
 
-<sup>1</sup> Der Inhaber eines Patentes mit Berechtigung zum Alkoholausschank:
+<sup>1</sup> Die Inhaberin oder der Inhaber eines Patentes mit Berechtigung zum Alkoholausschank:
 
 - a) darf die Gäste nicht zu übermässigem Alkoholkonsum veranlassen;
 - b) hat wenigstens drei alkoholfreie Getränke billiger anzubieten als das günstigste alkoholische Getränk gleicher Menge.
 
-<sup>2</sup> Er darf keine alkoholischen Getränke abgeben:
+<sup>2</sup> Diese Person darf keine alkoholischen Getränke abgeben:
 
 - 1\. Betrunkenen;
 - 2\. …
 - 3\. Jugendlichen unter 16 Jahren.[^22-1]
 
-<sup>3</sup> Er darf Jugendlichen unter 18 Jahren keine gebrannten Wasser[^22-2] abgeben.
+<sup>3</sup> Sie darf Jugendlichen unter 18 Jahren keine gebrannten Wasser[^22-2] abgeben.
 
 [^22-1]: Siehe Art. 136 des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
-[^22-2]: Siehe Art. 41 Abs. 1 lit. i des BG über die gebrannten Wasser (Alkoholgesetz) vom 21. Juni 1932, SR [680](https://db.clex.ch/link/Bund/680/de).
+[^22-2]: Siehe Art. 41 Abs. 1 Bst. i des BG über die gebrannten Wasser (Alkoholgesetz) vom 21. Juni 1932, SR [680](https://db.clex.ch/link/Bund/680/de).
 
 ## III. Kleinhandel mit gebrannten Wassern
 
@@ -315,7 +314,7 @@ als Gesetz:[^ingress-3]
 
 **Patent für einen Betrieb a) Voraussetzungen**
 
-<sup>1</sup> Das Patent für einen Betrieb wird erteilt, wenn der Gesuchsteller:
+<sup>1</sup> Das Patent für einen Betrieb wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller:
 
 - a) handlungsfähig ist;[^23-1]
 - b) charakterlich geeignet ist und Gewähr für eine einwandfreie Betriebsführung bietet;
@@ -373,9 +372,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 28
 
-**b) Patentinhaber**
+**b) Patentinhaberin oder Patentinhaber**
 
-<sup>1</sup> Mit Busse wird der Patentinhaber bestraft, der:
+<sup>1</sup> Mit Busse wird die Patentinhaberin oder der Patentinhaber bestraft, die oder der:
 
 - a) Pflichten verletzt, soweit dies nicht nach besonderen Vorschriften geahndet wird;
 - b) während der Schliessungszeit Gäste bewirtet, deren Anwesenheit duldet oder den Kontrollorganen verheimlicht.
@@ -384,7 +383,7 @@ als Gesetz:[^ingress-3]
 
 **c) Gäste**
 
-<sup>1</sup> Mit Busse werden Gäste bestraft, die den Anordnungen des Patentinhabers oder seines Stellvertreters zur Einhaltung der Ordnung keine Folge leisten.
+<sup>1</sup> Mit Busse werden Gäste bestraft, die den Anordnungen der Patentinhaberin oder des Patentinhabers oder ihrer oder seiner Stellvertretung zur Einhaltung der Ordnung keine Folge leisten.
 
 #### Art. 29bis
 
@@ -438,7 +437,7 @@ als Gesetz:[^ingress-3]
 
 **d) Dienstbarkeitsverträge**
 
-<sup>1</sup> Bestehende Dienstbarkeitsverträge, die zugunsten des Staates Ausschank und Verkauf alkoholischer Getränke auf einem Grundstück verbieten, werden auf Begehren des Eigentümers aufgelöst.
+<sup>1</sup> Bestehende Dienstbarkeitsverträge, die zugunsten des Staates Ausschank und Verkauf alkoholischer Getränke auf einem Grundstück verbieten, werden auf Begehren der Eigentümerin oder des Eigentümers aufgelöst.
 
 <sup>2</sup> Die Regierung regelt durch Verordnung die Rückerstattung der Entschädigung und deren Verwendung.
 
