@@ -3,29 +3,28 @@ canton: AG
 number: "621.111"
 title: Verordnung zum Bundesgesetz über die direkte Bundessteuer
 language: de
-version: 2013-01-01
-valid_until: 2024-06-30
-version_adopted: 2012-06-27
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 1994-12-07
 in_force: 1995-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/621.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1558/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die direkte Bundessteuer
 
-Vom 07.12.1994 (Stand 01.01.2013)
+Vom 07.12.1994 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-in Ausführung des Bundesgesetzes über die direkte Bundessteuer (DBG) vom 14. Dezember 1990[^ingress-1] sowie gestützt auf § 2 des Dekretes über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+in Ausführung des Bundesgesetzes über die direkte Bundessteuer (DBG) vom 14. Dezember 1990[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Behörden
 
@@ -103,9 +102,9 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die Kosten des Verfahrens vor dem Spezialverwaltungsgericht und dem Verwaltungsgericht bestimmen sich nach dem Dekret über die Verfahrenskosten (Verfahrenskostendekret, VKD) vom 24. November 1987[^9-1].
+<sup>1</sup> Die Kosten des Verfahrens vor dem Spezialverwaltungsgericht und dem Verwaltungsgericht bestimmen sich nach dem Gebührendekret (GebührD) vom 19. September 2023[^9-1].
 
-[^9-1]: SAR [221.150](https://gesetzessammlungen.ag.ch/data/221.150/de)
+[^9-1]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 ## 4. Quellensteuer
 
@@ -193,13 +192,7 @@ beschliesst:
 
 #### § 20a
 
-**Gebühren**
-
-<sup>1</sup> Für die Behandlung von Gesuchen um Zustimmung zum Eintrag im Grundbuch nach Art. 172 DBG erhebt das Kantonale Steueramt, je nach Aufwand, Gebühren zwischen Fr. 50.– und Fr. 200.–.
-
-<sup>2</sup> Rechtskräftige Verfügungen über Gebühren sind vollstreckbaren gerichtlichen Urteilen im Sinne von Art. 80 Abs. 2 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889[^20a-1] gleichgestellt.
-
-[^20a-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+**…**
 
 #### § 21
 
@@ -243,13 +236,7 @@ beschliesst:
 
 #### § 26
 
-**Bisheriges Recht**
-
-<sup>1</sup> Die Verordnung zum Bundesratsbeschluss über die Erhebung einer direkten Bundessteuer (BdBSt) vom 14. November 1983[^26-1] wird aufgehoben.
-
-<sup>2</sup> Die Verordnung zum Bundesratsbeschluss über die Erhebung einer direkten Bundessteuer (BdBSt) vom 14. November 1983 bleibt anwendbar, soweit die Bestimmungen des Bundesratsbeschlusses über die Erhebung der direkten Bundessteuer vom 9. Dezember 1940 mit seitherigen Änderungen anwendbar bleiben.
-
-[^26-1]: AGS Bd. 11 S. 89
+**…**
 
 #### § 27
 
