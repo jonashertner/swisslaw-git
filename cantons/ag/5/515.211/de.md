@@ -4,13 +4,12 @@ number: "515.211"
 title: Verordnung über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau
 short: BZV-AG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-15
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2006-11-22
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/515.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3386/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +18,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3386/pdf_file"
 
 (BZV-AG)
 
-Vom 22.11.2006 (Stand 01.01.2024)
+Vom 22.11.2006 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 3, 4, 5, 8, 11a, 14, 18a, 20, 22, 24, 24a, 33, 35, 38, 40, 43, 44a, 44b, 45 und 52 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungs- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1], die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrats und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2], § 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000 [^ingress-3], § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4] und § 1 Abs. 6 der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001[^ingress-5].
+gestützt auf die §§ 3, 4, 5, 8, 14, 20, 22, 33, 35, 38, 40, 43 und 52 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungs- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1], die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrats und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie § 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SAR [515.200](https://gesetzessammlungen.ag.ch/data/515.200/de)
 [^ingress-2]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
 [^ingress-3]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
-[^ingress-4]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
-[^ingress-5]: SAR [661.153](https://gesetzessammlungen.ag.ch/data/661.153/de)
 
 ## 1. Allgemeines
 
@@ -593,9 +590,7 @@ beschliesst:
 
 #### § 27
 
-**Infrastrukturen**
-
-<sup>1</sup> Die Gebühren für die Benützung des Ausbildungszentrums richten sich nach der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001 sowie Anhang 3.
+**…**
 
 #### § 27a
 
