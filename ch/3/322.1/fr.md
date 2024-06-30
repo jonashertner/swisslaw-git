@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/fr"
 
 (PPM)
 
-du 23 mars 1979 (État le 1<sup>er</sup> janvier 2024)
+du 23 mars 1979 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -287,7 +287,7 @@ Le président, les juges et les juges suppléants prêtent serment ou font la pr
 <sup>3</sup> Il attribue les greffiers aux différents tribunaux.[^16-2]
 
 [^16-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le texte.
-[^16-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-2]: Introduit par l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -471,10 +471,10 @@ Un juge, auditeur, juge d’instruction ou greffier doit se récuser:
 
 - a. s’il a un intérêt personnel dans l’affaire;
 - b.[^33-1] s’il est le conjoint ou le partenaire enregistré d’une partie ou mène de fait une vie de couple avec elle;
-- [tab] b<sup>bis</sup>.[^33-2] s’il est parent ou allié d’une partie, en ligne directe ou collatérale jusqu’au troisième degré;
+- b<sup>bis</sup>.[^33-2] s’il est parent ou allié d’une partie, en ligne directe ou collatérale jusqu’au troisième degré;
 - c. s’il est déjà intervenu dans l’affaire comme membre d’une autorité administrative ou judiciaire, comme fonctionnaire judiciaire, conseil, mandataire ou avocat d’une partie, comme expert ou témoin;
 - d.[^33-3] s’il est le conjoint ou le partenaire enregistré de l’avocat d’une partie ou mène de fait une vie de couple avec lui;
-- [tab] d<sup>bis</sup>.[^33-4] s’il est parent ou allié de l’avocat d’une partie en ligne directe ou en ligne collatérale jusqu’au deuxième degré.
+- d<sup>bis</sup>.[^33-4] s’il est parent ou allié de l’avocat d’une partie en ligne directe ou en ligne collatérale jusqu’au deuxième degré.
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^33-2]: Introduite par l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -930,12 +930,12 @@ Le juge d’instruction peut ordonner la surveillance de la correspondance par p
 - b. cette mesure se justifie au regard de la gravité de l’infraction;
 - c. les mesures prises jusqu’alors dans le cadre de l’instruction sont restées sans succès ou les recherches n’auraient aucune chance d’aboutir ou seraient excessivement difficiles en l’absence de surveillance.
 
-<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci-après: art. 62, al. 1 et 3, 63, ch. 1, par. 1 et 3, et ch. 2, 64, ch. 1, par. 1, et ch. 2, 74, 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 104, al. 2, 105, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, ch. 1 et 2, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, ch. 1, par. 1, et ch. 2, 139, 141, 142, 144, al. 2, 149, al. 1, 150, al. 1, 151*a* à 151*d*, 153 à 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 164, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1, par. 1, et ch. 2, 171*a*, al. 1, 171*b*, 171*c*, al. 1, 172, ch. 1, 176, al. 1 et 1<sup>bis</sup>, 177 et 178, ch. 1.[^70-2]
+<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci‑après: art. 62, al. 1 et 3, 63, ch. 1, par. 1 et 3, et ch. 2, 64, ch. 1, par. 1, et ch. 2, 74, 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 104, al. 2, 105, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, ch. 1 et 2, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, ch. 1, par. 1, et ch. 2, 139, 141, 142, 144, al. 2, 149, al. 1, 150, al. 1, 151*a* à 151*d*, 153 à 155, 156 à 158, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 164, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1, par. 1, et ch. 2, 171*a*, al. 1, 171*b*, 171*c*, al. 1, 172, ch. 1, 176, al. 1 et 1<sup>bis</sup>, 177 et 178, ch. 1.[^70-2]
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 269, al. 2, du code de procédure pénale du 5 octobre 2007 (CPP)[^70-3].
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 3/1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^70-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1234,13 +1234,13 @@ Il y a investigation secrète lorsque des membres d’un corps de police ou des 
 
 Le juge d’instruction peut ordonner une investigation secrète aux conditions suivantes:
 
-- a.[^73a-1] des soupçons laissent présumer qu’une des infractions visées aux articles du CPM[^73a-2] énumérés ci-après a été commise: art. 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 153 à 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1 et 2, 171*b*, 172, ch. 1, et 177;
+- a.[^73a-1] des soupçons laissent présumer qu’une des infractions visées aux articles du CPM[^73a-2] énumérés ci‑après a été commise: art. 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 153 à 155, 156 à 158, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1 et 2, 171*b*, 172, ch. 1, et 177;
 - b. cette mesure se justifie au regard de la gravité de l’infraction;
 - c. les autres actes d’instruction accomplis jusqu’alors n’ont pas abouti ou les recherches, à défaut de l’investigation secrète, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.
 
 <sup>2</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, une investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 286, al. 2, CPP[^73a-3].
 
-[^73a-1]: Nouvelle teneur selon l’annexe 2 ch. 3/2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-1]: Nouvelle teneur selon le ch. III de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^73a-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^73a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -1551,13 +1551,13 @@ Quiconque est assigné comme témoin est tenu de comparaître devant le juge et,
 Ont le droit de refuser de témoigner:
 
 - a.[^75-1] le conjoint de l’inculpé ou du suspect, même divorcé, son partenaire enregistré, même si le partenariat est dissous, ou la personne menant de fait une vie de couple avec l’inculpé ou le suspect;
-- [tab] a<sup>bis</sup>.[^75-2] les parents et alliés de l’inculpé ou du suspect en ligne directe, ses frères et sœurs, ses beaux-frères et belles-sœurs, les enfants placés chez lui, les enfants d’un autre lit, ses parents nourriciers, ses parâtre et marâtre, ainsi que ses demi-frères et demi-sœurs;
-- b.[^75-3] les ecclésiastiques, avocats, défenseurs, notaires, conseils en brevet, médecins, dentistes, chiropraticiens, pharmaciens, psychologues, ainsi que leurs auxiliaires, sur des secrets à eux confiés en raison de leur profession ou dont ils ont eu connaissance dans l’exercice de leur activité; s’ils ont été déliés du secret par l’intéressé, ils doivent témoigner, sauf si l’intérêt au secret l’emporte;
+- a<sup>bis</sup>.[^75-2] les parents et alliés de l’inculpé ou du suspect en ligne directe, ses frères et sœurs, ses beaux-frères et belles-sœurs, les enfants placés chez lui, les enfants d’un autre lit, ses parents nourriciers, ses parâtre et marâtre, ainsi que ses demi-frères et demi-sœurs;
+- [tab] b.[^75-3] les ecclésiastiques, avocats, défenseurs, notaires, conseils en brevets, médecins, dentistes, chiropraticiens, pharmaciens, psychologues, infirmiers, physiothérapeutes, ergothérapeutes, sages-femmes, diététiciens, optométristes, ostéopathes, ainsi que leurs auxiliaires, sur des secrets à eux confiés en raison de leur profession ou dont ils ont eu connaissance dans l’exercice de leur activité; s’ils ont été déliés du secret par l’intéressé, ils doivent témoigner, sauf si l’intérêt au secret l’emporte;
 - c.[^75-4] les personnes qui allèguent d’une manière digne de foi que leurs réponses les exposeraient ou exposeraient l’un de leurs proches au sens des let. a ou a<sup>bis</sup> à des poursuites pénales ou à un grave préjudice, en particulier dans leur honneur et leur patrimoine; les personnes auxquelles l’anonymat a été garanti selon les art. 98*b* à 98*d* ne peuvent toutefois invoquer le risque d’être identifiées pour refuser de témoigner.
 
 [^75-1]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^75-2]: Introduite par l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^75-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16), [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^75-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^75-4]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 76
@@ -1748,7 +1748,7 @@ La victime d’une infraction contre l’intégrité sexuelle peut exiger:
 
 <sup>3</sup> La victime peut refuser de répondre aux questions qui ont trait à sa sphère intime.
 
-[^84e-1]: Introduit par l’annexe ch. 2 de la loi du 23 mars 2007 sur l’aide aux victimes ([RO 2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232); [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)). Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^84e-1]: Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 84f
 
@@ -1802,7 +1802,7 @@ L’autorité compétente peut, à titre exceptionnel, classer la procédure aux
 
 <sup>2</sup> Lorsqu’elle classe la procédure, l’autorité compétente veille à ce qu’au besoin, des mesures de protection de l’enfant soient ordonnées.
 
-[^84i-1]: Introduit par l’annexe ch. 2 de la loi du 23 mars 2007 sur l’aide aux victimes ([RO 2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232); [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)). Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^84i-1]: Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### Section 11*c* Partie plaignante
 
@@ -3333,7 +3333,7 @@ En ce qui concerne l’action civile, la révision peut être demandée:
 Peuvent demander la révision:
 
 - a. l’auditeur;
-- [tab] b.[^202-1] le condamné ou, s’il est décédé, ses parents et alliés en ligne ascendante ou descendante, ses frères et sœurs, ainsi que son conjoint ou son partenaire enregistré;
+- b.[^202-1] le condamné ou, s’il est décédé, ses parents et alliés en ligne ascendante ou descendante, ses frères et sœurs, ainsi que son conjoint ou son partenaire enregistré;
 - c. le représentant légal du condamné;
 - d.[^202-2] la partie plaignante si elle était déjà partie à la procédure auparavant et dans la mesure où le jugement touche ses prétentions civiles ou peut avoir des effets sur le jugement de ces dernières;
 - e.[^202-3] le tiers touché par une confiscation.

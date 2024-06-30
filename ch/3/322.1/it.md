@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° gennaio 2024)
+del 23 marzo 1979 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -100,7 +100,7 @@ L’incorporazione nella giustizia militare in qualità di ufficiale della giust
 
 [^tit1-chap3-sec1-1]
 
-[^tit1-chap3-sec1-1]: Nuovo testo giusta l’all. n. 4 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit1-chap3-sec1-1]: Introdotta dall’all. n. 4 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 4a
 
@@ -470,10 +470,10 @@ I giudici, gli uditori, i giudici istruttori e i segretari devono astenersi se:
 
 - a. hanno un interesse personale nella causa;
 - b.[^33-1] sono il coniuge o il partner registrato di una parte o convivono di fatto con lei;
-- [tab] b<sup>bis</sup>.[^33-2]sono parenti o affini in linea retta o in linea collaterale fino al terzo grado con una parte;
+- b<sup>bis</sup>.[^33-2] sono parenti o affini in linea retta o in linea collaterale fino al terzo grado con una parte;
 - c. hanno già avuto parte nella causa come membri di un’autorità amministrativa o giudiziaria, come funzionari giudiziari, come consulenti, rappresentanti o avvocati di una parte, come periti o testimoni;
 - d.[^33-3] sono il coniuge o il partner registrato dell’avvocato di una parte o convivono di fatto con lui;
-- [tab] d<sup>bis</sup>.[^33-4] sono parenti o affini in linea retta o in linea collaterale fino al secondo grado con l’avvocato di una parte.
+- d<sup>bis</sup>.[^33-4] sono parenti o affini in linea retta o in linea collaterale fino al secondo grado con l’avvocato di una parte.
 
 [^33-1]: Nuovo testo giusta l’all. n. 23 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^33-2]: Introdotta dall’all. n. 23 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -931,12 +931,12 @@ Il giudice istruttore può disporre la sorveglianza della corrispondenza postale
 - b. la gravità del reato giustifica la sorveglianza; e
 - c. le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
-<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle seguenti disposizioni del CPM[^70-1]: articoli 62 capoversi 1 e 3, 63 numero 1 primo e terzo comma e numero 2, 64 numero 1 primo comma e numero 2, 74, 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 104 capoverso 2, 105, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130 numeri 1 e 2, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b* numero 1 primo comma e numero 2, 139, 141, 142, 144 capoverso 2, 149 capoverso 1, 150 capoverso 1, 151*a*–151*d*, 153–155, 156, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 164, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numero 1 primo comma e numero 2, 171*a* capoverso 1, 171*b*, 171*c* capoverso 1, 172 numero 1, 176 capoversi 1 e 1<sup>bis</sup>, 177 e 178 numero 1.[^70-2]
+<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle seguenti disposizioni del CPM[^70-1]: articoli 62 capoversi 1 e 3, 63 numero 1 primo e terzo comma e numero 2, 64 numero 1 primo comma e numero 2, 74, 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 104 capoverso 2, 105, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130 numeri 1 e 2, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b* numero 1 primo comma e numero 2, 139, 141, 142, 144 capoverso 2, 149 capoverso 1, 150 capoverso 1, 151*a*–151*d*, 153–155, 156–158, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 164, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numero 1 primo comma e numero 2, 171*a* capoverso 1, 171*b*, 171*c* capoverso 1, 172 numero 1, 176 capoversi 1 e 1<sup>bis</sup>, 177 e 178 numero 1.[^70-2]
 
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 269 capoverso 2 del Codice di procedura penale del 5 ottobre 2007[^70-3] (CPP).
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^70-2]: Nuovo testo giusta l’all. n. 3 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1235,13 +1235,13 @@ Per inchiesta mascherata s’intende un’operazione nella quale gli agenti di p
 
 Il giudice istruttore può disporre un’inchiesta mascherata se:
 
-- a.[^73a-1] sussiste il sospetto che sia stato commesso un reato di cui ai seguenti articoli del CPM[^73a-2]: articoli 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numeri 1 e 2, 171*b*, 172 numero 1 e 177;
+- a.[^73a-1] sussiste il sospetto che sia stato commesso un reato di cui ai seguenti articoli del CPM[^73a-2]: articoli 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156–158, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numeri 1 e 2, 171*b*, 172 numero 1 e 177;
 - b. la gravità del reato giustifica l’inchiesta mascherata; e
 - c. le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
 <sup>2</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 286 capoverso 2 CPP[^73a-3].
 
-[^73a-1]: Nuovo testo giusta l’all. 2 n. 3/2 della LF del 17 giu. 2022, in vigore dal 1° lug. 2023 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-1]: Nuovo testo giusta il n. III della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^73a-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^73a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -1551,13 +1551,13 @@ Ognuno è tenuto a comparire come testimone dinanzi al giudice e, riservate le d
 Possono rifiutare di testimoniare:
 
 - a.[^75-1] il coniuge dell’imputato o indiziato, anche se divorziato, il suo partner registrato, anche se l’unione domestica registrata è stata sciolta, o la persona che convive di fatto con lui;
-- [tab] a<sup>bis</sup>.[^75-2] i parenti e gli affini in linea retta, i fratelli e le sorelle, i cognati e le cognate, gli affiliati, i figliastri, i genitori affilianti, il patrigno e la matrigna, i fratellastri e le sorellastre dell’imputato o indiziato;
-- b.[^75-3] gli ecclesiastici, gli avvocati, i difensori, i notai, i consulenti in brevetti, i medici, i dentisti, i chiropratici, i farmacisti, gli psicologi e i loro ausiliari professionali, su segreti loro confidati in ragione della loro professione o da loro appresi nell’esercizio della loro attività; se l’interessato li svincola dal segreto, essi devono testimoniare, salvo che non sia preponderante l’interesse al mantenimento del segreto;
+- a<sup>bis</sup>.[^75-2] i parenti e gli affini in linea retta, i fratelli e le sorelle, i cognati e le cognate, gli affiliati, i figliastri, i genitori affilianti, il patrigno e la matrigna, i fratellastri e le sorellastre dell’imputato o indiziato;
+- b.[^75-3] gli ecclesiastici, gli avvocati, i difensori, i notai, i consulenti in brevetti, i medici, i dentisti, i chiropratici, i farmacisti, gli psicologi, gli infermieri, i fisioterapisti, gli ergoterapisti, le levatrici, i dietisti, gli optometristi, gli osteopati e i loro ausiliari professionali, su segreti loro confidati in ragione della loro professione o da loro appresi nell’esercizio della loro attività; se l’interessato li svincola dal segreto, essi devono testimoniare salvo che non sia preponderante l’interesse al mantenimento del segreto;
 - c.[^75-4] le persone che, per asserzione fededegna, esporrebbero se stesse o un congiunto menzionato nelle lettere a o a<sup>bis</sup> al pericolo di un procedimento penale o di un grave detrimento, in particolare per l’onore e il patrimonio; le persone alle quali è stata garantita la tutela dell’anonimato conformemente agli articoli 98*b–*98*d* non possono rifiutare di deporre adducendo il pericolo di essere identificate.
 
 [^75-1]: Nuovo testo giusta l’all. n. 23 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^75-2]: Introdotta dall’all. n. 23 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^75-3]: Nuovo testo giusta l’all. n. 3 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^75-3]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^75-4]: Nuovo testo giusta l’all. n. 23 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 76
@@ -2079,10 +2079,13 @@ Per adempiere la garanzia della tutela dell’anonimato, il giudice istruttore o
 In caso di reati commessi durante il servizio militare sono competenti ad ordinare l’assunzione preliminare delle prove o l’istruzione preparatoria:
 
 - a. nelle scuole, nei corsi di formazione e nei corsi: il comandante;
-- b. nei servizi di truppa:
-- 1\. nelle formazioni aggregate a un battaglione: il comandante di battaglione;
-- 2\. nelle formazioni di piccole dimensioni in servizio autonomo: il rispettivo comandante;
-- 3\. in tutti gli altri casi: il comandante della truppa o dello stato maggiore.[^101-1]
+- b.
+
+  nei servizi di truppa:
+
+  - 1\. nelle formazioni aggregate a un battaglione: il comandante di battaglione;
+  - 2\. nelle formazioni di piccole dimensioni in servizio autonomo: il rispettivo comandante;
+  - 3\. in tutti gli altri casi: il comandante della truppa o dello stato maggiore.[^101-1]
 
 <sup>2</sup> Dopo l’assunzione preliminare delle prove, il giudice istruttore, se ritiene che ci si trovi in presenza di un reato perseguibile in giustizia ed il comandante non ordina l’istruzione preparatoria, sottopone il caso all’uditore in capo. Questi decide definitivamente.
 
@@ -2343,7 +2346,7 @@ Il decreto d’accusa dev’essere scritto e brevemente motivato. Esso contiene:
 - f. il dispositivo;
 - f<sup>bis</sup>.[^120-1] la decisione sulla revoca della sospensione condizionale (art. 119 cpv. 1<sup>bis</sup>) e una breve motivazione;
 - g. la decisione sulle spese e indennità (art. 151), nonché sulle pretese di diritto civile riconosciute alla parte lesa;
-- [tab] g<sup>bis</sup>.[^120-2] la decisione sulla revoca dei provvedimenti coercitivi adottati e sulla confisca di oggetti e di beni;
+- g<sup>bis</sup>.[^120-2] la decisione sulla revoca dei provvedimenti coercitivi adottati e sulla confisca di oggetti e di beni;
 - h. la menzione ch’esso diviene esecutivo se, entro dieci giorni, non è interposta opposizione scritta presso l’uditore;
 - i. la data, nonché la firma dell’uditore.
 
@@ -2705,8 +2708,11 @@ Il tribunale può far incarcerare il condannato o l’accusato assolto per irres
 
 La sentenza dev’essere redatta per scritto. Essa indica il luogo e la data dei dibattimenti, i nomi dei giudici, del segretario, dell’uditore, dell’accusato e del suo difensore, i reati designati nell’accusa, le conclusioni delle parti, nonché:
 
-- a. in caso di condanna:
-- 1\. la fattispecie,
+- a.
+
+  in caso di condanna:
+
+  - 1\. la fattispecie,
   - 2\. i fatti in cui sono stati ravvisati gli elementi del reato,
   - 3\. i motivi della misura della pena e delle misure,
   - 4\. le disposizioni legali,
@@ -3324,7 +3330,7 @@ Per quanto concerne le pretese di diritto civile, la revisione può essere chies
 Possono chiedere la revisione:
 
 - a. l’uditore;
-- [tab] b.[^202-1] il condannato o, dopo la sua morte, i suoi parenti od affini in linea ascendente e discendente, i suoi fratelli e sorelle ed il coniuge o il partner registrato;
+- b.[^202-1] il condannato o, dopo la sua morte, i suoi parenti od affini in linea ascendente e discendente, i suoi fratelli e sorelle ed il coniuge o il partner registrato;
 - c. il rappresentante legale del condannato;
 - d.[^202-2] l’accusatore privato, se era già parte nella procedura e nella misura in cui la sentenza riguardi le sue pretese civili oppure possa influenzare il giudizio in merito a quest’ultime;
 - e.[^202-3] il terzo colpito da una confisca.

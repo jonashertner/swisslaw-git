@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20240101/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. Januar 2024)
+vom 23. März 1979 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -94,7 +94,7 @@ Die Einteilung als Justizoffizier bei der Militärjustiz ist Voraussetzung zur B
 
 [^tit1-chap3-1]
 
-[^tit1-chap3-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit1-chap3-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Erster Abschnitt: Strafverfolgungsbehörden
 
@@ -467,14 +467,14 @@ Ist der Gerichtsstand zwischen militärischen Strafbehörden streitig, so entsch
 
 **Ausschliessung**
 
-Ein Richter, Auditor, Untersuchungsrichter oder Gerichtsschreiber darf sein Amt nicht ausüben, wenn er
+Ein Richter, Auditor, Untersuchungsrichter oder Gerichtsschreiber darf sein Amt nicht ausüben, wenn er:
 
 - a. in der Sache ein persönliches Interesse hat;
 - b.[^33-1] mit einer Partei durch Ehe oder eingetragene Partnerschaft verbunden ist oder mit ihr eine faktische Lebensgemeinschaft führt;
-- [tab] b<sup>bis</sup>.[^33-2] mit einer Partei in gerader Linie oder bis zum dritten Grade in der Seitenlinie verwandt oder verschwägert ist;
+- b<sup>bis</sup>.[^33-2] mit einer Partei in gerader Linie oder bis zum dritten Grade in der Seitenlinie verwandt oder verschwägert ist;
 - c. in der Sache schon als Mitglied einer administrativen oder richterlichen Behörde, als Justizbeamter, als Rechtsberater, Bevollmächtigter oder Anwalt einer Partei, als Sachverständiger oder Zeuge gehandelt hat;
 - d.[^33-3] mit dem Anwalt einer Partei durch Ehe oder eingetragene Partnerschaft verbunden ist oder eine faktische Lebensgemeinschaft führt;
-- [tab] d<sup>bis</sup>.[^33-4] mit dem Anwalt einer Partei in gerader Linie oder bis zum zweiten Grade in der Seitenlinie verwandt oder verschwägert ist.
+- d<sup>bis</sup>.[^33-4] mit dem Anwalt einer Partei in gerader Linie oder bis zum zweiten Grade in der Seitenlinie verwandt oder verschwägert ist.
 
 [^33-1]: Fassung gemäss Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^33-2]: Eingefügt durch Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -485,7 +485,7 @@ Ein Richter, Auditor, Untersuchungsrichter oder Gerichtsschreiber darf sein Amt 
 
 **Ablehnung**
 
-Ein Richter, Auditor, Untersuchungsrichter oder Gerichtsschreiber kann von den Parteien abgelehnt werden oder selbst seinen Ausstand verlangen,
+Ein Richter, Auditor, Untersuchungsrichter oder Gerichtsschreiber kann von den Parteien abgelehnt werden oder selbst seinen Ausstand verlangen:
 
 - a. wenn zwischen ihm und einer Partei besondere Freundschaft oder persönliche Feindschaft oder ein besonderes Pflicht- oder Abhängigkeitsverhältnis besteht;
 - b. wenn er aus andern Gründen in der Sache befangen sein könnte.
@@ -764,6 +764,8 @@ Jede Person ist berechtigt, eine andere Person anzuhalten:
 
 **Untersuchungs- und Sicherheitshaft**
 
+<sup>1</sup>
+
 Gegen den Beschuldigten, gegen den die Voruntersuchung angeordnet wurde, darf ein Haftbefehl nur erlassen werden, wenn er eines Verbrechens oder Vergehens dringend verdächtig ist und Grund zur Annahme besteht:[^56-1]
 
 - a.[^56-2] dass er sich der Strafverfolgung oder der zu erwartenden Sanktion durch Flucht entziehen würde;
@@ -931,12 +933,12 @@ Der Untersuchungsrichter kann den Post- und den Fernmeldeverkehr überwachen las
 - b. die Schwere der Straftat die Überwachung rechtfertigt; und
 - c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 62 Absätze 1 und 3, 63 Ziffer 1 Absätze 1 und 3 und Ziffer 2, 64 Ziffer 1 Absatz 1 und Ziffer 2, 74, 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 104 Absatz 2, 105, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130 Ziffern 1 und 2, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b* Ziffer 1 Absatz 1 und Ziffer 2, 139, 141, 142, 144 Absatz 2, 149 Absatz 1, 150 Absatz 1, 151*a*–151*d*, 153–155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 164, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 Absatz 1 und Ziffer 2, 171*a* Absatz 1, 171*b*, 171*c* Absatz 1, 172 Ziffer 1, 176 Absätze 1 und 1<sup>bis</sup>, 177 und 178 Ziffer 1.[^70-2]
+<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 62 Absätze 1 und 3, 63 Ziffer 1 Absätze 1 und 3 und Ziffer 2, 64 Ziffer 1 Absatz 1 und Ziffer 2, 74, 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 104 Absatz 2, 105, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130 Ziffern 1 und 2, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b* Ziffer 1 Absatz 1 und Ziffer 2, 139, 141, 142, 144 Absatz 2, 149 Absatz 1, 150 Absatz 1, 151*a*–151*d*, 153–155, 156–158, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 164, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 Absatz 1 und Ziffer 2, 171*a* Absatz 1, 171*b*, 171*c* Absatz 1, 172 Ziffer 1, 176 Absätze 1 und 1<sup>bis</sup>, 177 und 178 Ziffer 1.[^70-2]
 
 <sup>3</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden Straftat der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch zur Verfolgung der in Artikel 269 Absatz 2 der Strafprozessordnung vom 5. Oktober 2007[^70-3] (StPO) aufgeführten Straftaten angeordnet werden.
 
 [^70-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Fassung gemäss Anhang 2 Ziff. 3/1 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^70-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^70-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1235,13 +1237,13 @@ Verdeckte Ermittlung liegt vor, wenn Angehörige der Polizei oder Personen, die 
 
 Der Untersuchungsrichter kann eine verdeckte Ermittlung anordnen, wenn:
 
-- a.[^73a-1] der Verdacht besteht, eine der in den folgenden Artikeln des MStG[^73a-2] aufgeführte Straftat sei begangen worden: Artikel 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 und 2, 171*b*, 172 Ziffer 1 und 177;
+- a.[^73a-1] der Verdacht besteht, eine der in den folgenden Artikeln des MStG[^73a-2] aufgeführte Straftat sei begangen worden: Artikel 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156–158, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 und 2, 171*b*, 172 Ziffer 1 und 177;
 - b. die Schwere der Straftat die verdeckte Ermittlung rechtfertigt; und
 - c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
 <sup>2</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden strafbaren Handlung der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung mit technischen Überwachungsgeräten auch zur Verfolgung der in Artikel 286 Absatz 2 StPO[^73a-3] aufgeführten Straftaten angeordnet werden.
 
-[^73a-1]: Fassung gemäss Anhang 2 Ziff. 3/2 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2023 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-1]: Fassung gemäss Ziff. III des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^73a-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^73a-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -1552,13 +1554,13 @@ Jedermann ist verpflichtet, als Zeuge vor dem Richter zu erscheinen und unter Vo
 Das Zeugnis können verweigern:
 
 - a.[^75-1] Ehegatten, auch wenn die Ehe geschieden ist, eingetragene Partnerinnen oder Partner, auch wenn die eingetragene Partnerschaft aufgelöst ist, sowie Personen, mit denen der Beschuldigte oder Verdächtige eine faktische Lebensgemeinschaft führt;
-- [tab] a<sup>bis</sup>.[^75-2] Verwandte und Verschwägerte in gerader Linie von Beschuldigten oder Verdächtigen, deren Geschwister, Schwäger und Schwägerinnen, Pflege- und Stiefkinder, Pflege- und Stiefeltern sowie Stiefgeschwister;
-- b.[^75-3] Geistliche, Anwälte, Verteidiger, Notare, Patentanwälte, Ärzte, Zahnärzte, Chiropraktoren, Apotheker, Psychologen sowie deren berufliche Hilfspersonen über Geheimnisse, die ihnen aufgrund ihres Berufs anvertraut worden sind oder die sie bei ihrer Berufstätigkeit wahrgenommen haben; soweit sie vom Berechtigten von der Geheimhaltung entbunden werden, haben sie auszusagen, wenn nicht das Interesse an der Geheimhaltung überwiegt;
+- a<sup>bis</sup>.[^75-2] Verwandte und Verschwägerte in gerader Linie von Beschuldigten oder Verdächtigen, deren Geschwister, Schwäger und Schwägerinnen, Pflege- und Stiefkinder, Pflege- und Stiefeltern sowie Stiefgeschwister;
+- b.[^75-3] Geistliche, Anwälte, Verteidiger, Notare, Patentanwälte, Ärzte, Zahnärzte, Chiropraktoren, Apotheker, Psychologen, Pflegefachpersonen, Physiotherapeuten, Ergotherapeuten, Hebammen, Ernährungsberater, Optometristen, Osteopathen sowie deren berufliche Hilfspersonen über Geheimnisse, die ihnen aufgrund ihres Berufs anvertraut worden sind oder die sie bei ihrer Berufstätigkeit wahrgenommen haben; soweit sie vom Berechtigten von der Geheimhaltung entbunden werden, haben sie auszusagen, wenn nicht das Interesse an der Geheimhaltung überwiegt;
 - c.[^75-4] Personen, die nach glaubwürdiger Angabe sich selbst oder einen unter Buchstabe a oder a<sup>bis</sup> genannten Angehörigen der Gefahr einer strafrechtlichen Verfolgung oder eines schweren Nachteils, insbesondere für Ehre und Vermögen, aussetzen würden; Personen, denen nach den Artikeln 98*b*–98*d* die Wahrung ihrer Anonymität zugesichert worden ist, können ihre Aussage nicht unter Hinweis auf die Gefahr, identifiziert zu werden, verweigern.
 
 [^75-1]: Fassung gemäss Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^75-2]: Eingefügt durch Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^75-3]: Fassung gemäss Anhang Ziff. 3 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^75-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^75-4]: Fassung gemäss Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 76
@@ -2108,7 +2110,9 @@ Bei einer strafbaren Handlung, die während des Militärdienstes begangen wurde,
 
 **Voraussetzungen und Zweck der vorläufigen Beweisaufnahme**
 
-<sup>1</sup> Sind einzelne Voraussetzungen einer Voruntersuchung nicht erfüllt, so wird eine vorläufige Beweisaufnahme angeordnet. Dies gilt vor allem, wenn
+<sup>1</sup>
+
+Sind einzelne Voraussetzungen einer Voruntersuchung nicht erfüllt, so wird eine vorläufige Beweisaufnahme angeordnet. Dies gilt vor allem, wenn:
 
 - a. Beweismittel beschafft oder ergänzt werden müssen, insbesondere bei unbekannter Täterschaft und ungeklärtem oder verwickeltem Sachverhalt;
 - b. Ungewissheit darüber besteht, ob eine strafbare Handlung disziplinarisch oder militärgerichtlich zu erledigen sei.
@@ -2317,7 +2321,8 @@ Der Auditor erlässt ein Strafmandat, wenn:
   - 5. eine Verbindung der Strafen nach den Ziffern 1–4; und
 
 - b. der Beschuldigte den Sachverhalt eingestanden hat oder dieser anderweitig ausreichend geklärt ist.[^119-2]
-- [tab] <sup>1bis</sup> Er kann im Strafmandatverfahren auch einen Entscheid über einen Widerruf im Sinne von Artikel 40 MStG[^119-3] treffen, wenn die bedingte oder teilbedingte Strafe, zusammen mit der neuen Strafe, nicht höher als die in Absatz 1 Buchstabe a festgehaltenen Strafmassgrenzen ist.[^119-4]
+
+<sup>1bis</sup> Er kann im Strafmandatverfahren auch einen Entscheid über einen Widerruf im Sinne von Artikel 40 MStG[^119-3] treffen, wenn die bedingte oder teilbedingte Strafe, zusammen mit der neuen Strafe, nicht höher als die in Absatz 1 Buchstabe a festgehaltenen Strafmassgrenzen ist.[^119-4]
 
 <sup>2</sup>
 
@@ -2574,7 +2579,9 @@ Die Sachverständigen werden in der Regel nach den Zeugen einvernommen.
 
 <sup>1</sup> Wesentliche Beweisurkunden sind zu verlesen.
 
-<sup>2</sup> Die Befragung von Zeugen, Sachverständigen und Mitangeklagten kann durch das Verlesen der Protokolle ihrer frühern Aussagen ersetzt werden, wenn
+<sup>2</sup>
+
+Die Befragung von Zeugen, Sachverständigen und Mitangeklagten kann durch das Verlesen der Protokolle ihrer frühern Aussagen ersetzt werden, wenn:
 
 - a. die Person inzwischen verstorben ist:
 - b. eine Vorladung wegen unbekannten Aufenthalts nicht möglich war;
@@ -2707,7 +2714,9 @@ Das Gericht kann einen Verurteilten oder einen wegen Unzurechnungsfähigkeit fre
 
 **Form und Inhalt des Urteils**
 
-<sup>1</sup> Das Urteil wird schriftlich ausgefertigt. Es enthält Ort und Zeit der Verhandlung, die Namen der Richter, des Gerichtsschreibers, des Auditors, des Angeklagten und seines Verteidigers, die in der Anklage bezeichneten strafbaren Handlungen, die Anträge der Parteien sowie
+<sup>1</sup>
+
+Das Urteil wird schriftlich ausgefertigt. Es enthält Ort und Zeit der Verhandlung, die Namen der Richter, des Gerichtsschreibers, des Auditors, des Angeklagten und seines Verteidigers, die in der Anklage bezeichneten strafbaren Handlungen, die Anträge der Parteien sowie:
 
 - a.
 
@@ -2794,7 +2803,9 @@ Das Gericht kann einen Verurteilten oder einen wegen Unzurechnungsfähigkeit fre
 
 <sup>1</sup> Verzichtet der in Abwesenheit Verurteilte nach Kenntnisnahme des Urteils auf dessen Aufhebung, so hat er dies schriftlich oder mündlich zu Protokoll zu erklären. Der Verzicht ist endgültig.
 
-<sup>2</sup> Der Verzicht auf Aufhebung des Abwesenheitsurteils wird angenommen, wenn der in Abwesenheit Verurteilte
+<sup>2</sup>
+
+Der Verzicht auf Aufhebung des Abwesenheitsurteils wird angenommen, wenn der in Abwesenheit Verurteilte:
 
 - a. innert zehn Tagen seit Aushändigung des Abwesenheitsurteils kein Begehren um Neubeurteilung im ordentlichen Verfahren stellt;
 - b. einer Vorladung des Gerichts zur Hauptverhandlung im Wiederaufnahmeverfahren unentschuldigt keine Folge leistet.
@@ -2803,9 +2814,7 @@ Das Gericht kann einen Verurteilten oder einen wegen Unzurechnungsfähigkeit fre
 
 **Dispensation im Abwesenheitsverfahren**
 
-<sup>1</sup> Ein im Ausland ansässiger und in Abwesenheit verurteilter Schweizer, dem es aus wichtigen Gründen, insbesondere familiärer, gesundheitlicher, beruflicher oder
-
-finanzieller Art nicht möglich ist, in die Schweiz zu kommen, kann die Aufhebung des Abwesenheitsurteils und die Neubeurteilung im ordentlichen Verfahren sowie die Dispensation von der Teilnahme an der Hauptverhandlung verlangen, solange die Strafe nicht verjährt ist. Beide Begehren sind zu begründen.
+<sup>1</sup> Ein im Ausland ansässiger und in Abwesenheit verurteilter Schweizer, dem es aus wichtigen Gründen, insbesondere familiärer, gesundheitlicher, beruflicher oder finanzieller Art nicht möglich ist, in die Schweiz zu kommen, kann die Aufhebung des Abwesenheitsurteils und die Neubeurteilung im ordentlichen Verfahren sowie die Dispensation von der Teilnahme an der Hauptverhandlung verlangen, solange die Strafe nicht verjährt ist. Beide Begehren sind zu begründen.
 
 <sup>2</sup> Über das Dispensationsgesuch entscheidet der Präsident des Militärgerichts endgültig.
 
@@ -3062,7 +3071,7 @@ Der Präsident des Militärappellationsgerichts bereitet die Hauptverhandlung vo
 
 **Ausbleiben des Angeklagten oder der Privatklägerschaft[^179-1]**
 
-<sup>1</sup> Kann dem Angeklagten oder der Privatklägerschaft die Vorladung zur Hauptverhandlung nicht zugestellt werden oder bleibt er oder sie, ohne vom Erscheinen dispensiert zu sein, trotz ordnungsgemässer Vorladung aus, so ist seine Appellation eine Stunde nach dem Verhandlungstermin verwirkt.[^179-2]
+<sup>1</sup> Kann dem Angeklagten oder der Privatklägerschaft die Vorladung zur Hauptverhandlung nicht zugestellt werden oder bleibt er oder sie, ohne vom Erscheinen dispensiert zu sein, trotz ordnungsgemässer Vorladung aus, so ist seine oder ihre Appellation eine Stunde nach dem Verhandlungstermin verwirkt.[^179-2]
 
 <sup>2</sup> Die Verwirkung wird widerrufen, wenn der Säumige glaubhaft macht, dass er unverschuldet der Vorladung keine Folge leisten konnte.
 
@@ -3123,7 +3132,9 @@ Hat der Auditor die Appellation erklärt, und bleibt der Angeklagte trotz ordnun
 
 **Zulässigkeit**
 
-<sup>1</sup> Die Kassationsbeschwerde kann erhoben werden
+<sup>1</sup>
+
+Die Kassationsbeschwerde kann erhoben werden:
 
 - a. gegen Urteile und Unzuständigkeitsentscheide der Militärappellationsgerichte;
 - b.[^184-1] gegen Entscheide der Militärappellationsgerichte über einen Widerruf (Art. 40 MStG[^184-2]) sowie über eine Rückversetzung (Art. 89 StGB[^184-3]);
@@ -3139,7 +3150,9 @@ Hat der Auditor die Appellation erklärt, und bleibt der Angeklagte trotz ordnun
 
 **Kassationsgründe**
 
-<sup>1</sup> Die Kassation ist auszusprechen, wenn
+<sup>1</sup>
+
+Die Kassation ist auszusprechen, wenn:
 
 - a. das Gericht nicht vorschriftsgemäss besetzt war;
 - b. das Gericht seine Zuständigkeit zu Unrecht bejaht oder verneint hat;
@@ -3329,9 +3342,9 @@ Wegen zivilrechtlicher Ansprüche kann um Revision nachgesucht werden:
 Die Revision können beantragen:
 
 - a. der Auditor;
-- [tab] b.[^202-1] der Verurteilte, nach seinem Tod seine Verwandten und Verschwägerten in auf- oder absteigender Linie, seine Geschwister sowie der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner;
+- b.[^202-1] der Verurteilte, nach seinem Tod seine Verwandten und Verschwägerten in auf- oder absteigender Linie, seine Geschwister sowie der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner;
 - c. der gesetzliche Vertreter des Verurteilten;
-- [tab] d.[^202-2] die Privatklägerschaft, wenn sie sich bereits vorher am Verfahren beteiligt hat und soweit der Entscheid ihre Zivilforderungen betrifft oder sich auf deren Beurteilung auswirken kann;
+- d.[^202-2] die Privatklägerschaft, wenn sie sich bereits vorher am Verfahren beteiligt hat und soweit der Entscheid ihre Zivilforderungen betrifft oder sich auf deren Beurteilung auswirken kann;
 - e.[^202-3] der von einer Einziehung betroffene Dritte.
 
 [^202-1]: Fassung gemäss Anhang Ziff. 23 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
