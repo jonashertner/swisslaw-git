@@ -4,11 +4,11 @@ number: "351"
 title: Gewaltschutzgesetz (GSG)
 short: GSG
 language: de
-version: "2020-07-01"
-nachtrag: "109"
-valid_until: 2024-07-01
+version: "2024-07-01"
+nachtrag: "125"
+valid_until: 2025-01-01
 adopted: 2006-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-351-2006_06_19-2007_04_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-351-2006_06_19-2007_04_01-125.html"
 text: pdf
 ---
 
@@ -49,7 +49,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 24 - 125
 
 [^hAAllgemeines-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
 
@@ -139,7 +139,7 @@ Innert fünf Tagen nach Geltungsbeginn der Schutzmassnahme kann die gefährdende
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Es teilt den Entscheid den Parteien sowie der Polizei mit einer kurzen Begründung schriftlich mit, auch wenn der Entscheid mündlich eröffnet wurde.
 
@@ -194,45 +194,46 @@ Innert fünf Tagen nach Geltungsbeginn der Schutzmassnahme kann die gefährdende
 
 ### E. Flankierende Massnahmen
 
-[^hEFlankierendeMass-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
+[^hEFlankierendeMass-1]: Fassung gemäss G vom 3. Juli 2023 (OS 79, 47; ABl 2022-11-25). In Kraft seit 1. Juli 2024.
 
 #### § 15
 
 **Informations- und Mitteilungspflichten**
 
-<sup>1</sup> Leben Minderjährige im Haushalt der gefährdeten oder gefährdenden Person, so teilt die Polizei bei häuslicher Gewalt die angeordneten Schutzmassnahmen der zuständigen Kindes- und Erwachsenenschutzbehörde (KESB) mit. Bei Stalking erfolgt nur eine Mitteilung, wenn das Kindeswohl gefährdet erscheint.[^hEFlankierendeMass-1]
+<sup>1</sup> Leben Minderjährige im Haushalt der gefährdeten oder gefährdenden Person, übermittelt die Polizei bei häuslicher Gewalt die Verfügung, mit der Schutzmassnahmen angeordnet worden sind, sowie allenfalls weitere notwendige Unterlagen der zuständigen Kindes- und Erwachsenenschutzbehörde (KESB) und einer spezialisierten Beratungsstelle für mitbetroffene Minderjährige. Bei Stalking wird die Verfügung an die KESB übermittelt, wenn das Kindeswohl gefährdet erscheint.[^hEFlankierendeMass-1]
 
 <sup>2</sup> Die Polizei informiert die gefährdete und die gefährdende Person über das weitere Verfahren und die spezialisierten Beratungsstellen. Sie übermittelt die Verfügung, mit der die Schutzmassnahmen angeordnet worden sind, sowie allenfalls weitere notwendige Unterlagen je einer Beratungsstelle für gefährdete und gefährdende Personen.
 
 <sup>3</sup> Die polizeilichen und haftrichterlichen Akten werden der KESB und den Organen der Zivilrechtspflege auf Anfrage zugestellt.
 
-#### § 16
-
 **Beratungsstellen**
 
-<sup>1</sup> Der Kanton bezeichnet spezialisierte Beratungsstellen für gefährdende und gefährdete Personen und unterstützt die Tätigkeit dieser Organisationen.
+§ 16.[^15-1] <sup>1</sup> Der Kanton bezeichnet spezialisierte Beratungsstellen für gefährdete und gefährdende Personen sowie für mitbetroffene Minderjährige und unterstützt die Tätigkeit dieser Organisationen.
 
-<sup>2</sup> Nach Erhalt einer Verfügung gemäss § 15 Abs. 2 nehmen die Beratungsstellen mit den gefährdeten und den gefährdenden Personen umgehend Kontakt auf. Wünscht eine Person keine Beratung, werden die von der Polizei übermittelten Unterlagen von den Beratungsstellen vernichtet.[^16-1]
+<sup>2</sup> Nach Erhalt einer Verfügung gemäss § 15 Abs. 1 und 2 nehmen die Beratungsstellen mit den gefährdeten und den gefährdenden Personen sowie den mitbetroffenen Minderjährigen umgehend Kontakt auf. Wünscht eine Person keine Beratung, werden die von der Polizei übermittelten Unterlagen von den Beratungsstellen vernichtet.
+
+[^15-1]: Fassung gemäss G vom 3. Juli 2023 (OS 79, 47; ABl 2022-11-25). In Kraft seit 1. Juli 2024.
+[^15-2]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
+
+#### § 17
 
 **Interventionsstelle**
 
-§ 17. <sup>1</sup> Die kantonale Interventionsstelle gegen häusliche Gewalt gewährleistet, steuert, koordiniert und überprüft die Zusammenarbeit der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.[^16-1]
+<sup>1</sup> Die kantonale Interventionsstelle gegen häusliche Gewalt gewährleistet, steuert, koordiniert und überprüft die Zusammenarbeit der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.[^15-2]
 
 <sup>2</sup> Die zuständige Direktion des Regierungsrates setzt eine fachübergreifende Arbeitsgruppe ein, welche die Arbeit der Interventionsstelle unterstützt und begleitet.
 
-**Aus- und Weiterbildung**
-
-§ 18.[^16-1] <sup>1</sup> Der Kanton sorgt für die fachliche Aus- und Weiterbildung der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.
-
 **5**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 24 - 125 § 18.[^17-1] <sup>1</sup> Der Kanton sorgt für die fachliche Aus- und Weiterbildung der mit häuslicher Gewalt und Stalking befassten Behörden und Beratungsstellen.
+
+**Aus- und Weiterbildung**
 
 <sup>2</sup> Er fördert die regelmässige Information der Bevölkerung zu Fragen von häuslicher Gewalt und Stalking.
 
 <sup>3</sup> Er unterstützt die Tätigkeit entsprechender Organisationen, insbesondere für vorbeugende Massnahmen zur Verminderung der Gewalt.
 
-[^16-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
+[^17-1]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 301; ABl 2019-03-22). In Kraft seit 1. Juli 2020.
 
 ### F. Schlussbestimmung
 
