@@ -4,13 +4,12 @@ number: "772.100"
 title: Energiegesetz
 short: EnG
 language: de
-version: 2021-12-13
-valid_until: 2024-06-30
-version_adopted: 2021-10-20
+version: 2024-07-01
+version_adopted: 2024-01-17
 adopted: 2016-11-16
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5380/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Energiegesetz | Energie- und Wasserversorgung[^t-1]
 
 (EnG)
 
-Vom 16. November 2016 (Stand 13. Dezember 2021)
+Vom 16. November 2016 (Stand 1. Juli 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -362,6 +361,8 @@ Die Verordnung kann Abweichungen zulassen, wenn überwiegende öffentliche Inter
 <sup>2</sup> Für die Bezugskategorie Grossbezüger kann die Lenkungsabgabe durch Branchenvereinbarungen ebenfalls eingeführt werden.
 
 <sup>3</sup> Auf unterbrechbaren Stromlieferungen aus erneuerbaren Energien für Wärmepumpen wird keine Lenkungsabgabe erhoben. Die Abrechnung erfolgt gesondert vom übrigen Verbrauch.
+
+<sup>4</sup> Strombezüge für das Laden von Elektroautos sind von der Lenkungsabgabe befreit, soweit ein Zuschlag für die Elektrifizierung der motorisierten Mobilität erhoben wird.
 
 #### § 29
 
