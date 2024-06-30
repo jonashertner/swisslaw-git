@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2024-03-01
+version: 2024-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. März 2024)
+vom 18. März 1994 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -477,46 +477,68 @@ Diese Leistungen umfassen:
 
 - a.[^25-1]
 
-  die Untersuchungen und Behandlungen, die ambulant, stationär oder in einem Pflegeheim, sowie die Pflegeleistungen, die in einem Spital durchgeführt werden von:
+  die Untersuchungen und Behandlungen, die ambulant, stationär oder in einem Pflegeheim sowie die Pflegeleistungen, die im Rahmen einer stationären Behandlung erbracht werden von:[^25-2]
 
   - 1\. Ärzten oder Ärztinnen,
   - 2\. Chiropraktoren oder Chiropraktorinnen,
+  - 2<sup>bis</sup>.[^25-3] Pflegefachpersonen,
   - 3\. Personen, die auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin beziehungsweise eines Chiropraktors oder einer Chiropraktorin Leistungen erbringen;
 
 - b. die ärztlich oder unter den vom Bundesrat bestimmten Voraussetzungen von Chiropraktoren oder Chiropraktorinnen verordneten Analysen, Arzneimittel und der Untersuchung oder Behandlung dienenden Mittel und Gegenstände;
 - c. einen Beitrag an die Kosten von ärztlich angeordneten Badekuren;
 - d. die ärztlich durchgeführten oder angeordneten Massnahmen der medizinischen Rehabilitation;
-- e.[^25-2] den Aufenthalt im Spital entsprechend dem Standard der allgemeinen Abteilung;
-- f.[^25-3] …
-- [tab] f<sup>bis</sup>.[^25-4] den Aufenthalt bei Entbindung in einem Geburtshaus (Art. 29);
+- e.[^25-4] den Aufenthalt im Spital entsprechend dem Standard der allgemeinen Abteilung;
+- f.[^25-5] …
+- [tab] f<sup>bis</sup>.[^25-6] den Aufenthalt bei Entbindung in einem Geburtshaus (Art. 29);
 - g. einen Beitrag an die medizinisch notwendigen Transportkosten sowie an die Rettungskosten;
-- h.[^25-5] die Leistung der Apotheker und Apothekerinnen bei der Abgabe von nach Buchstabe b verordneten Arzneimitteln.
+- h.[^25-7] die Leistung der Apotheker und Apothekerinnen bei der Abgabe von nach Buchstabe b verordneten Arzneimitteln.
 
 [^25-1]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-3]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), mit Wirkung seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-5]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
+[^25-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-5]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), mit Wirkung seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-7]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 
 #### Art. 25a
 
 **Pflegeleistungen bei Krankheit**[^25a-1]
 
-<sup>1</sup> Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim erbracht werden.[^25a-2] Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für Pflegeleistungen verwendet werden, gilt Artikel 52.[^25a-3]
+<sup>1</sup>
 
-<sup>2</sup> Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital ärztlich angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton des Versicherten während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49*a* Abgeltung der stationären Leistungen) vergütet. Versicherer und Leistungserbringer vereinbaren Pauschalen. Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für die Akut- und Übergangspflege verwendet werden, gilt Artikel 52.[^25a-4]
+Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, die aufgrund eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim:
 
-<sup>3</sup> Der Bundesrat bezeichnet die Pflegeleistungen und regelt das Verfahren der Bedarfsermittlung.
+- a. von einer Pflegefachperson erbracht werden;
+- b. in Organisationen, die Pflegefachpersonen beschäftigen, erbracht werden; oder
+- c. auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin erbracht werden.[^25a-2]
+
+<sup>1bis</sup> Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für Pflegeleistungen verwendet werden, gilt Artikel 52.[^25a-3]
+
+<sup>2</sup> Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital gemeinsam von einem Arzt oder einer Ärztin und einer Pflegefachperson angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton der versicherten Person während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49*a*) vergütet.[^25a-4] Versicherer und Leistungserbringer vereinbaren Pauschalen. Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für die Akut- und Übergangspflege verwendet werden, gilt Artikel 52.[^25a-5]
+
+<sup>3</sup> Der Bundesrat bezeichnet die Pflegeleistungen, die auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin erbracht werden können. Er bestimmt, welche Pflegeleistungen ohne Anordnung oder Auftrag eines Arztes oder einer Ärztin erbracht werden können.[^25a-6]
+
+<sup>3bis</sup> Die Verbände der Leistungserbringer und der Versicherer schliessen gesamt-schweizerisch geltende Verträge zur Überwachung der mengenmässigen Entwicklung der Pflegeleistungen ab, die ohne ärztliche Anordnung oder ärztlichen Auftrag erbracht werden. Sie vereinbaren Massnahmen zur Korrektur bei ungerechtfertigtem Mengenwachstum. Können sich die Verbände der Leistungserbringer und der Versicherer nicht einigen, so regelt der Bundesrat die Einzelheiten.[^25a-7]
+
+<sup>3ter</sup> Bei der Bezeichnung der Leistungen nach Absatz 3 berücksichtigt der Bundesrat den Pflegebedarf von Personen mit komplexen Erkrankungen und von Personen, die palliative Pflege benötigen.[^25a-8]
+
+<sup>3quater</sup> Der Bundesrat regelt das Verfahren der Ermittlung des Pflegebedarfs und die Koordination zwischen den behandelnden Ärzten und Ärztinnen und den Pflegefachpersonen.[^25a-9]
 
 <sup>4</sup> Der Bundesrat setzt die Beiträge differenziert nach dem Pflegebedarf in Franken fest. Massgebend ist der Aufwand nach Pflegebedarf für Pflegeleistungen, die in der notwendigen Qualität, effizient und kostengünstig erbracht werden. Die Pflegeleistungen werden einer Qualitätskontrolle unterzogen. Der Bundesrat legt die Modalitäten fest.
 
-<sup>5</sup> Der versicherten Person dürfen von den nicht von Sozialversicherungen gedeckten Pflegekosten höchstens 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages überwälzt werden. Die Kantone regeln die Restfinanzierung. Für die Festsetzung und Auszahlung der Restfinanzierung zuständig ist der Kanton, in dem die versicherte Person ihren Wohnsitz hat. Im Bereich der ambulanten Pflege gelten die Regeln der Restfinanzierung des Standortkantons des Leistungserbringers. Der Aufenthalt in einem Pflegeheim begründet keine neue Zuständigkeit. Kann der versicherten Person zum Zeitpunkt des Heimeintritts kein Pflegeheimplatz in geografischer Nähe in ihrem Wohnkanton zur Verfügung gestellt werden, so übernimmt der Wohnkanton die Restfinanzierung nach den Regeln des Standortkantons des Leistungserbringers. Diese Restfinanzierung und das Recht der versicherten Person zum Aufenthalt im betreffenden Pflegeheim sind für eine unbeschränkte Dauer gewährleistet.[^25a-5]
+<sup>5</sup> Der versicherten Person dürfen von den nicht von Sozialversicherungen gedeckten Pflegekosten höchstens 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages überwälzt werden. Die Kantone regeln die Restfinanzierung. Für die Festsetzung und Auszahlung der Restfinanzierung zuständig ist der Kanton, in dem die versicherte Person ihren Wohnsitz hat. Im Bereich der ambulanten Pflege gelten die Regeln der Restfinanzierung des Standortkantons des Leistungserbringers. Der Aufenthalt in einem Pflegeheim begründet keine neue Zuständigkeit. Kann der versicherten Person zum Zeitpunkt des Heimeintritts kein Pflegeheimplatz in geografischer Nähe in ihrem Wohnkanton zur Verfügung gestellt werden, so übernimmt der Wohnkanton die Restfinanzierung nach den Regeln des Standortkantons des Leistungserbringers. Diese Restfinanzierung und das Recht der versicherten Person zum Aufenthalt im betreffenden Pflegeheim sind für eine unbeschränkte Dauer gewährleistet.[^25a-10]
 
 [^25a-1]: Eingefügt durch Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Siehe auch die UeB Änd. 13.06.2008 am Schluss dieses Textes ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)6487 Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
-[^25a-4]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
-[^25a-5]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787)[4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-5]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
+[^25a-6]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-8]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-9]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-10]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787)[4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -644,21 +666,23 @@ Leistungserbringer sind:
 - b. Apotheker und Apothekerinnen;
 - c. Chiropraktoren und Chiropraktorinnen;
 - d. Hebammen;
+- d<sup>bis</sup>.[^35-3] Pflegefachpersonen und Organisationen, die Pflegefachpersonen beschäftigen;
 - e. Personen, die auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin Leistungen erbringen, und Organisationen, die solche Personen beschäftigen;
 - f. Laboratorien;
 - g. Abgabestellen für Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen;
 - h. Spitäler;
-- i.[^35-3] Geburtshäuser;
+- i.[^35-4] Geburtshäuser;
 - k. Pflegeheime;
 - l. Heilbäder;
-- m.[^35-4] Transport- und Rettungsunternehmen;
-- n.[^35-5] Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen.
+- m.[^35-5] Transport- und Rettungsunternehmen;
+- n.[^35-6] Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen.
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^35-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), mit Wirkung seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^35-3]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^35-4]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
+[^35-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^35-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^35-5]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
+[^35-6]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 
 #### Art. 36
 
@@ -676,7 +700,11 @@ Leistungserbringer nach Artikel 35 Absatz 2 Buchstaben a–g, m und n dürfen nu
 
 <sup>2</sup> Die Zulassungsvoraussetzungen umfassen je nach Art der Leistungserbringer die Ausbildung, die Weiterbildung und die für die Qualität der Leistungserbringung notwendigen Anforderungen.
 
+<sup>3</sup> Die Zulassung der Organisationen nach Artikel 35 Absatz 2 Buchstabe d<sup>bis</sup> setzt einen kantonalen Leistungsauftrag voraus. Der Kanton legt im Leistungsauftrag insbesondere die zu erbringenden Ausbildungsleistungen fest; er berücksichtigt dabei die Kriterien nach Artikel 3 des Bundesgesetzes vom 16. Dezember 2022[^36a-2] über die Förderung der Ausbildung im Bereich der Pflege und des Ausbildungskonzepts nach Artikel 4 des genannten Gesetzes.[^36a-3]
+
 [^36a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^36a-2]: [SR 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^36a-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 37
 
@@ -744,20 +772,24 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 - e. auf der nach Leistungsaufträgen in Kategorien gegliederten Spitalliste des Kantons aufgeführt sind;
 - f.[^39-1] sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^39-2] über das elektronische Patientendossier anschliessen.
 
-<sup>2</sup> Die Kantone koordinieren ihre Planung.[^39-3]
+<sup>1bis</sup> Der Kanton legt im Leistungsauftrag nach Absatz 1 Buchstabe e insbesondere die zu erbringenden Ausbildungsleistungen im Bereich der praktischen Ausbildung von Pflegefachpersonen fest. Er berücksichtigt dabei die Kriterien nach Artikel 3 des Bundesgesetzes vom 16. Dezember 2022[^39-3] über die Förderung der Ausbildung im Bereich der Pflege und das Ausbildungskonzept nach Artikel 4 des genannten Gesetzes.[^39-4]
 
-<sup>2bis</sup> Im Bereich der hochspezialisierten Medizin beschliessen die Kantone gemeinsam eine gesamtschweizerische Planung. Kommen sie dieser Aufgabe nicht zeitgerecht nach, so legt der Bundesrat fest, welche Spitäler für welche Leistungen auf den kantonalen Spitallisten aufzuführen sind.[^39-4]
+<sup>2</sup> Die Kantone koordinieren ihre Planung.[^39-5]
 
-<sup>2ter</sup> Der Bundesrat erlässt einheitliche Planungskriterien auf der Grundlage von Qualität und Wirtschaftlichkeit. Er hört zuvor die Kantone, die Leistungserbringer und die Versicherer an.[^39-5]
+<sup>2bis</sup> Im Bereich der hochspezialisierten Medizin beschliessen die Kantone gemeinsam eine gesamtschweizerische Planung. Kommen sie dieser Aufgabe nicht zeitgerecht nach, so legt der Bundesrat fest, welche Spitäler für welche Leistungen auf den kantonalen Spitallisten aufzuführen sind.[^39-6]
 
-<sup>3</sup> Die Voraussetzungen nach Absatz 1 gelten sinngemäss für Geburtshäuser sowie für Anstalten, Einrichtungen oder ihre Abteilungen, die der Pflege und medizinischen Betreuung sowie der Rehabilitation von Langzeitpatienten und -patientinnen dienen (Pflegeheim).[^39-6]
+<sup>2ter</sup> Der Bundesrat erlässt einheitliche Planungskriterien auf der Grundlage von Qualität und Wirtschaftlichkeit. Er hört zuvor die Kantone, die Leistungserbringer und die Versicherer an.[^39-7]
+
+<sup>3</sup> Die Voraussetzungen nach Absatz 1 gelten sinngemäss für Geburtshäuser sowie für Anstalten, Einrichtungen oder ihre Abteilungen, die der Pflege und medizinischen Betreuung sowie der Rehabilitation von Langzeitpatienten und -patientinnen dienen (Pflegeheim).[^39-8]
 
 [^39-1]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier, in Kraft seit 15. April 2017 ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^39-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^39-3]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-5]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-6]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-3]: [SR 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^39-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^39-5]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-7]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-8]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 40
 
@@ -1150,7 +1182,7 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
   - 1\. eine Liste der Analysen mit Tarif,
   - 2\. eine Liste der in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe mit Tarif; dieser umfasst auch die Leistungen des Apothekers oder der Apothekerin,
-  - 3\.[^52-1] Bestimmungen über die Leistungspflicht und den Umfang der Vergütung von der Untersuchung oder Behandlung dienenden Mitteln und Gegenständen, die nach den Artikeln 25 Absatz 2 Buchstabe b und 25*a* Absätze 1 und 2 verwendet werden;
+  - 3\.[^52-1] Bestimmungen über die Leistungspflicht und den Umfang der Vergütung von der Untersuchung oder Behandlung dienenden Mitteln und Gegenständen, die nach den Artikeln 25 Absatz 2 Buchstabe b und 25*a* Absätze 1<sup>bis</sup> und 2 verwendet werden;
 
 - b.[^52-2] erstellt das BAG eine Liste der pharmazeutischen Spezialitäten und konfektionierten Arzneimittel mit Preisen (Spezialitätenliste).
 
@@ -1158,7 +1190,7 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
 <sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen der obligatorischen Krankenpflegeversicherung höchstens nach den Tarifen, Preisen und Vergütungsansätzen nach Absatz 1 in Rechnung gestellt werden.[^52-6] Das EDI bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.[^52-7] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-8]
 
-[^52-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
+[^52-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^52-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^52-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -1259,6 +1291,14 @@ Werden in einem Kanton die Zulassungen beschränkt, so können folgende Ärzte u
 <sup>6</sup> Steigen die jährlichen Kosten je versicherte Person in einem Fachgebiet in einem Kanton mehr als die jährlichen Kosten der anderen Fachgebiete im selben Kanton oder mehr als die jährlichen Kosten des gesamtschweizerischen Durchschnitts im betroffenen Fachgebiet an, so kann der Kanton vorsehen, dass kein Arzt und keine Ärztin im betroffenen Fachgebiet eine Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung neu aufnehmen kann.
 
 [^55a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Juli 2021 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+
+#### Art. 55b
+
+**Kostenentwicklung bei Pflegeleistungen**[^55b-1]
+
+Steigen die jährlichen Kosten für die Pflegeleistungen nach Artikel 25*a* je versicherte Person in einem Kanton mehr als die jährlichen Kosten des gesamtschweizerischen Durchschnitts an, so kann der Kanton vorsehen, dass kein Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe d<sup>bis</sup> eine Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung neu aufnehmen kann.
+
+[^55b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 ### 6. Abschnitt: Kontrolle der Wirtschaftlichkeit und der Qualität der Leistungen
 
@@ -2643,6 +2683,14 @@ Die Organisation nach Artikel 47*a* ist innerhalb von zwei Jahren nach dem Inkra
 [^u21-1]: [AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 Die Verträge über das Kostenmonitoring und die Korrekturmassnahmen nach Artikel 47*c* Absatz 2 sind der zuständigen Behörde innerhalb von zwei Jahren ab Inkrafttreten der Änderung vom 30. September 2022 zur Genehmigung vorzulegen.
+
+## Übergangsbestimmung zur Änderung vom 16. Dezember 2022
+
+[^u22-1]
+
+[^u22-1]: [AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
+
+Der Bundesrat evaluiert die Auswirkungen der Änderung vom 16. Dezember 2022 auf die Entwicklung der Pflege und erstattet dem Parlament spätestens fünf Jahre nach Inkrafttreten dieser Änderung Bericht.
 
 Anhang
 

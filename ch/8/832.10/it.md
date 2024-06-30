@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2024-03-01
+version: 2024-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° marzo 2024)
+del 18 marzo 1994 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -475,46 +475,68 @@ Queste prestazioni comprendono:
 
 - a.[^25-1]
 
-  gli esami e le terapie ambulatoriali, in ospedale o in una casa di cura, nonché le cure in ospedale dispensate:
+  gli esami e le terapie ambulatoriali, in ospedale o in una casa di cura, nonché le cure dispensate nell’ambito di una cura ospedaliera:[^25-2]
 
   - 1\. dal medico,
   - 2\. dal chiropratico,
+  - [tab] 2<sup>bis</sup>.[^25-3] da infermieri,
   - 3\. da persone che effettuano prestazioni previa prescrizione o indicazione di un medico o di un chiropratico;
 
 - b. le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici prescritti dal medico o, nei limiti stabiliti dal Consiglio federale, dal chiropratico;
 - c. un contributo alle spese di cure balneari prescritte dal medico;
 - d. i provvedimenti di riabilitazione medica, eseguiti o prescritti dal medico;
-- e.[^25-2] la degenza in ospedale secondo lo standard del reparto comune;
-- f.[^25-3] ...
-- f<sup>bis</sup>.[^25-4] la degenza in caso di parto in una casa per partorienti (art. 29);
+- e.[^25-4] la degenza in ospedale secondo lo standard del reparto comune;
+- f.[^25-5] ...
+- f<sup>bis</sup>.[^25-6] la degenza in caso di parto in una casa per partorienti (art. 29);
 - g. un contributo alle spese di trasporto necessarie dal profilo medico e alle spese di salvataggio;
-- h.[^25-5] la prestazione effettuata dal farmacista al momento di fornire i medicamenti prescritti dal medico secondo la lettera b.
+- h.[^25-7] la prestazione effettuata dal farmacista al momento di fornire i medicamenti prescritti dal medico secondo la lettera b.
 
 [^25-1]: Nuovo testo giusta il n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25-2]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-3]: Abrogata dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), con effetto dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-4]: Introdotta dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-5]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
+[^25-2]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-3]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-4]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-5]: Abrogata dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), con effetto dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-6]: Introdotta dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-7]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
 
 #### Art. 25a
 
 **Cure in caso di malattia**[^25a-1]
 
-<sup>1</sup> L’assicurazione obbligatoria delle cure medico sanitarie presta un contributo alle cure dispensate ambulatoriamente in base a una prescrizione medica e a un comprovato bisogno terapeutico, anche in istituzioni con strutture diurne o notturne o in una casa di cura.[^25a-2] La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure è retta dall’articolo 52.[^25a-3]
+<sup>1</sup>
 
-<sup>2</sup> I costi delle cure acute e transitorie che si rivelano necessarie in seguito a un soggiorno ospedaliero e sono dispensate in base a una prescrizione medica sono rimunerati dall’assicurazione obbligatoria delle cure medico sanitarie e dal Cantone di domicilio dell’assicurato per due settimane al massimo secondo le disposizioni sul finanziamento ospedaliero (art. 49*a* Remunerazione delle prestazioni ospedaliere). Assicuratori e fornitori di prestazioni convengono importi forfettari. La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure acute e transitorie è retta dall’articolo 52.[^25a-4]
+L’assicurazione obbligatoria delle cure medico-sanitarie presta un contributo alle cure dispensate ambulatorialmente in base a un comprovato bisogno terapeutico, anche in istituzioni con strutture diurne o notturne o in una casa di cura:
 
-<sup>3</sup> Il Consiglio federale designa le cure e disciplina la procedura di accertamento del bisogno.
+- a. da un infermiere;
+- b. nelle organizzazioni che impiegano infermieri; o
+- c. previa prescrizione o indicazione di un medico.[^25a-2]
+
+<sup>1bis</sup> La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure è retta dall’articolo 52.[^25a-3]
+
+<sup>2</sup> I costi delle cure acute e transitorie che si rivelano necessarie in seguito a un soggiorno ospedaliero e sono prescritte in ospedale congiuntamente da un medico e da un infermiere sono rimunerati dall’assicurazione obbligatoria delle cure medico-sanitarie e dal Cantone di domicilio dell’assicurato per due settimane al massimo secondo le disposizioni sul finanziamento ospedaliero (art. 49*a*).[^25a-4] Assicuratori e fornitori di prestazioni convengono importi forfettari. La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure acute e transitorie è retta dall’articolo 52.[^25a-5]
+
+<sup>3</sup> Il Consiglio federale designa le cure che possono essere prestate previa prescrizione o indicazione di un medico. Designa inoltre le cure che possono essere prestate in assenza di una prescrizione o indicazione di un medico.[^25a-6]
+
+<sup>3bis</sup> Le federazioni dei fornitori di prestazioni e quelle degli assicuratori concludono convenzioni, applicabili all’insieme del territorio nazionale, concernenti il controllo dell’evoluzione quantitativa delle cure prestate senza prescrizione o indicazione di un medico. Concordano misure atte a contrastare un aumento ingiustificato del volume di tali cure. Se le federazioni summenzionate non riescono a raggiungere un’intesa, il Consiglio federale disciplina i dettagli.[^25a-7]
+
+<sup>3ter</sup> Nel designare le cure di cui al capoverso 3 il Consiglio federale considera il bisogno terapeutico delle persone con patologie complesse e delle persone che necessitano di cure palliative.[^25a-8]
+
+<sup>3quater</sup> Il Consiglio federale disciplina la procedura di accertamento del bisogno terapeutico e il coordinamento fra i medici e gli infermieri addetti alle cure.[^25a-9]
 
 <sup>4</sup> Il Consiglio federale fissa i contributi in franchi differenziandoli a seconda del bisogno terapeutico. È determinante il costo calcolato secondo il bisogno in cure della qualità necessaria, dispensate in modo efficiente ed economico. Le cure sono sottoposte a un controllo della qualità. Il Consiglio federale determina le modalità.
 
-<sup>5</sup> I costi delle cure non coperti dalle assicurazioni sociali possono essere addossati all’assicurato solo per un importo massimo corrispondente al 20 per cento del contributo alle cure massimo fissato dal Consiglio federale. I Cantoni disciplinano il finanziamento residuo. La determinazione e il versamento del finanziamento residuo competono al Cantone nel quale l’assicurato è domiciliato. Nel caso delle cure ambulatoriali, il finanziamento residuo è retto dalle disposizioni del Cantone di ubicazione del fornitore di prestazioni. La degenza in una casa di cura non fonda una nuova competenza. Se, al momento del ricovero, nel Cantone di domicilio non vi è disponibilità di posti letto in una casa di cura situata nei pressi del domicilio dell’assicurato, il finanziamento residuo è assunto dal Cantone di domicilio conformemente alle disposizioni del Cantone di ubicazione del fornitore di prestazioni. Questo finanziamento residuo e il diritto dell’assicurato alla degenza nella casa di cura in questione sono garantiti senza limiti di tempo.[^25a-5]
+<sup>5</sup> I costi delle cure non coperti dalle assicurazioni sociali possono essere addossati all’assicurato solo per un importo massimo corrispondente al 20 per cento del contributo alle cure massimo fissato dal Consiglio federale. I Cantoni disciplinano il finanziamento residuo. La determinazione e il versamento del finanziamento residuo competono al Cantone nel quale l’assicurato è domiciliato. Nel caso delle cure ambulatoriali, il finanziamento residuo è retto dalle disposizioni del Cantone di ubicazione del fornitore di prestazioni. La degenza in una casa di cura non fonda una nuova competenza. Se, al momento del ricovero, nel Cantone di domicilio non vi è disponibilità di posti letto in una casa di cura situata nei pressi del domicilio dell’assicurato, il finanziamento residuo è assunto dal Cantone di domicilio conformemente alle disposizioni del Cantone di ubicazione del fornitore di prestazioni. Questo finanziamento residuo e il diritto dell’assicurato alla degenza nella casa di cura in questione sono garantiti senza limiti di tempo.[^25a-10]
 
 [^25a-1]: Introdotto dal n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Vedi anche le disp. trans. della mod. del 13 giu. 2008 e del 18 dic. 2020 alla fine del presente testo ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-3]: Per. introdotto dal n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
-[^25a-4]: Per. introdotto dal n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
-[^25a-5]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3491](https://fedlex.data.admin.ch/eli/fga/2016/787)[4021](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-3]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-4]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-5]: Per. introdotto dal n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
+[^25a-6]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-7]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-8]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-9]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-10]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3491](https://fedlex.data.admin.ch/eli/fga/2016/787)[4021](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -642,21 +664,23 @@ Sono fornitori di prestazioni:
 - b. i farmacisti;
 - c. i chiropratici;
 - d. le levatrici;
+- d<sup>bis</sup>.[^35-3] gli infermieri e le organizzazioni che impiegano infermieri;
 - e. le persone dispensanti cure previa prescrizione o indicazione medica e le organizzazioni che le occupano;
 - f. i laboratori;
 - g. i centri di consegna di mezzi ed apparecchi diagnostici e terapeutici;
 - h. gli ospedali;
-- i.[^35-3] le case per partorienti;
+- i.[^35-4] le case per partorienti;
 - k. le case di cura;
 - l. gli stabilimenti di cura balneare;
-- m.[^35-4] le imprese di trasporto e di salvataggio;
-- n. [^35-5] gli istituti che dispensano cure ambulatoriali effettuate da medici.
+- m.[^35-5] le imprese di trasporto e di salvataggio;
+- n. [^35-6] gli istituti che dispensano cure ambulatoriali effettuate da medici.
 
 [^35-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^35-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), con effetto dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^35-3]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^35-4]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
+[^35-3]: Introdotta dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^35-4]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^35-5]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
+[^35-6]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
 
 #### Art. 36
 
@@ -674,7 +698,11 @@ I fornitori di prestazioni di cui all’articolo 35 capoverso 2 lettere a–g, m
 
 <sup>2</sup> Le condizioni d’autorizzazione riguardano, a seconda del fornitore di prestazioni, la formazione, il perfezionamento e le esigenze necessarie a garantire la qualità delle prestazioni.
 
+<sup>3</sup> L’autorizzazione per le organizzazioni di cui all’articolo 35 capoverso 2 lettera d<sup>bis</sup> presuppone un mandato di prestazioni cantonale. Nel mandato il Cantone stabilisce in particolare le prestazioni di formazione da fornire, tenendo conto dei criteri di cui all’articolo 3 della legge federale del 16 dicembre 2022[^36a-2] sulla promozione della formazione in cure infermieristiche e del piano di formazione di cui all’articolo 4 di tale legge.[^36a-3]
+
 [^36a-1]: Introdotto dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^36a-2]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^36a-3]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 al 30 giu. 2032 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 37
 
@@ -742,21 +770,25 @@ Gli stabilimenti e i rispettivi reparti adibiti alla cura ospedaliera di malatti
 - e. figurano nell’elenco, compilato dal Cantone e classificante le diverse categorie di stabilimenti secondo i rispettivi mandati;
 - f.[^39-2] si affiliano a una comunità o comunità di riferimento certificata ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^39-3] sulla cartella informatizzata del paziente.
 
-<sup>2</sup> I Cantoni coordinano le loro pianificazioni.[^39-4]
+<sup>1bis</sup> Nel mandato di prestazioni di cui al capoverso 1 lettera e il Cantone stabilisce in particolare le prestazioni da fornire con riguardo alla formazione pratica degli infermieri. A tale scopo tiene conto dei criteri di cui all’articolo 3 della legge federale del 16 dicembre 2022[^39-4] sulla promozione della formazione in cure infermieristiche e del piano di formazione di cui all’articolo 4 di tale legge.[^39-5]
 
-<sup>2bis</sup> Nel settore della medicina altamente specializzata i Cantoni approntano insieme una pianificazione per tutta la Svizzera. Se non assolvono questo compito in tempo utile, il Consiglio federale stabilisce quali ospedali per quali prestazioni devono figurare negli elenchi dei Cantoni.[^39-5]
+<sup>2</sup> I Cantoni coordinano le loro pianificazioni.[^39-6]
 
-<sup>2ter</sup> Il Consiglio federale emana criteri di pianificazione uniformi in base alla qualità e all’economicità. Sente dapprima i Cantoni, i fornitori di prestazioni e gli assicuratori.[^39-6]
+<sup>2bis</sup> Nel settore della medicina altamente specializzata i Cantoni approntano insieme una pianificazione per tutta la Svizzera. Se non assolvono questo compito in tempo utile, il Consiglio federale stabilisce quali ospedali per quali prestazioni devono figurare negli elenchi dei Cantoni.[^39-7]
 
-<sup>3</sup> Le condizioni di cui al capoverso 1 si applicano per analogia alle case per partorienti, nonché agli stabilimenti, agli istituti o ai rispettivi reparti che dispensano cure, assistenza medica e misure di riabilitazione per pazienti lungodegenti (case di cura).[^39-7]
+<sup>2ter</sup> Il Consiglio federale emana criteri di pianificazione uniformi in base alla qualità e all’economicità. Sente dapprima i Cantoni, i fornitori di prestazioni e gli assicuratori.[^39-8]
+
+<sup>3</sup> Le condizioni di cui al capoverso 1 si applicano per analogia alle case per partorienti, nonché agli stabilimenti, agli istituti o ai rispettivi reparti che dispensano cure, assistenza medica e misure di riabilitazione per pazienti lungodegenti (case di cura).[^39-9]
 
 [^39-1]: Vedi anche le disp. trans. della mod. del 21 giu. 2013 alla fine del presente testo.
 [^39-2]: Introdotta dall’art. 25 della LF del 19 giu. 2015 sulla cartella informatizzata del paziente, in vigore dal 15 apr. 2017 ([RU 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^39-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^39-4]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^39-5]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^39-6]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^39-7]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^39-4]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^39-5]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 al 30 giu. 2032 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^39-6]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^39-7]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^39-8]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^39-9]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 40
 
@@ -1140,7 +1172,7 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 
   - 1\. un elenco delle analisi con tariffa;
   - 2\. un elenco, con tariffa, dei preparati e delle sostanze attive e ausiliarie impiegati per la prescrizione magistrale; la tariffa comprende anche le prestazioni del farmacista;
-  - 3\.[^52-1] disposizioni sull’obbligo d’assunzione delle prestazioni e sull’entità della rimunerazione di mezzi e d’apparecchi diagnostici e terapeutici utilizzati secondo gli articoli 25 capoverso 2 lettera b e 25*a* capoversi 1 e 2;
+  - 3\.[^52-1] disposizioni sull’obbligo d’assunzione delle prestazioni e sull’entità della rimunerazione di mezzi e d’apparecchi diagnostici e terapeutici utilizzati secondo gli articoli 25 capoverso 2 lettera b e 25*a* capoversi 1<sup>bis</sup> e 2;
 
 - b.[^52-2] l’UFSP appronta un elenco delle specialità farmaceutiche e dei medicamenti confezionati, con l’indicazione dei prezzi (elenco delle specialità).
 
@@ -1148,7 +1180,7 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 
 <sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati all’assicurazione obbligatoria delle cure medico-sanitarie al massimo secondo le tariffe, i prezzi e i tassi di remunerazione ai sensi del capoverso 1.[^52-6] Il DFI designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48. Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-7]
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
+[^52-1]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Nuovo testo giusta il n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^52-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^52-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -1248,6 +1280,14 @@ In caso di limitazione delle autorizzazioni in un Cantone, possono continuare a 
 <sup>6</sup> Se in un Cantone i costi annui per assicurato in un campo di specializzazione aumentano più dei costi annui degli altri campi di specializzazione di tale Cantone o più della media nazionale dei costi annui nel campo di specializzazione interessato, il Cantone può prevedere che non siano più rilasciate nuove autorizzazioni a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie in questo campo di specializzazione.
 
 [^55a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° lug. 2021 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+
+#### Art. 55b
+
+**Evoluzione dei costi delle cure**[^55b-1]
+
+Qualora in un Cantone i costi annui per assicurato delle cure di cui all’articolo 25*a* aumentino in misura maggiore rispetto ai costi annui della media svizzera, il Cantone può prevedere che a nessun nuovo fornitore di prestazioni di cui all’articolo 35 capoverso 2 lettera d<sup>bis</sup> sia rilasciata l’autorizzazione a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie.
+
+[^55b-1]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 ### Sezione 6: Controllo dell’economicità e della qualità delle prestazioni
 
@@ -2634,6 +2674,14 @@ L’organizzazione di cui all’articolo 47*a* è istituita entro due anni dall�
 [^u21-1]: [RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 Le convenzioni concernenti il monitoraggio dei costi e le misure correttive di cui all’articolo 47*c* capoverso 2 vanno sottoposte per approvazione all’autorità competente entro due anni dall’entrata in vigore della modifica del 30 settembre 2022.
+
+## Disposizione transitoria della modifica del 16 dicembre 2022
+
+[^u22-1]
+
+[^u22-1]: [RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
+
+Il Consiglio federale valuta le ripercussioni della modifica del 16 dicembre 2022 sull’evoluzione delle cure e riferisce in merito al Parlamento entro cinque anni dall’entrata in vigore di tale modifica.
 
 Allegato
 

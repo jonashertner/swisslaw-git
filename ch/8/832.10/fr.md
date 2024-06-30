@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2024-03-01
+version: 2024-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240301/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> mars 2024)
+du 18 mars 1994 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -476,47 +476,69 @@ Ces prestations comprennent:
 
 - a.[^25-1]
 
-  les examens et traitements dispensés sous forme ambulatoire, en milieu hospitalier ou dans un établissement médico-social ainsi que les soins dispensés dans un hôpital par:
+  les examens et traitements dispensés sous forme ambulatoire, en milieu hospitalier ou dans un établissement médico-social ainsi que les soins dispensés dans le cadre d’un traitement hospitalier par:[^25-2]
 
   - 1\. des médecins,
   - 2\. des chiropraticiens,
+  - 2<sup>bis</sup>.[^25-3] des infirmiers,
   - 3\. des personnes fournissant des prestations sur prescription ou sur mandat d’un médecin ou d’un chiropraticien;
 
 - b. les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques prescrits par un médecin ou, dans les limites fixées par le Conseil fédéral, par un chiropraticien;
 - c. une participation aux frais des cures balnéaires prescrites par un médecin;
 - d. les mesures de réadaptation effectuées ou prescrites par un médecin;
-- e.[^25-2] le séjour à l’hôpital correspondant au standard de la division commune;
-- f.[^25-3] …
-- f<sup>bis</sup>.[^25-4] le séjour en cas d’accouchement dans une maison de naissance (art. 29);
+- e.[^25-4] le séjour à l’hôpital correspondant au standard de la division commune;
+- f.[^25-5] …
+- f<sup>bis</sup>.[^25-6] le séjour en cas d’accouchement dans une maison de naissance (art. 29);
 - g. une contribution aux frais de transport médicalement nécessaires ainsi qu’aux frais de sauvetage;
-- h.[^25-5] les prestations des pharmaciens lors de la remise des médicaments prescrits conformément à la let. b.
+- h.[^25-7] les prestations des pharmaciens lors de la remise des médicaments prescrits conformément à la let. b.
 
 [^25-1]: Nouvelle teneur selon le ch. I 3 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25-2]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-3]: Abrogée par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-4]: Introduite par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^25-5]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-3]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-5]: Abrogée par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-6]: Introduite par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^25-7]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 
 #### Art. 25a
 
 **Soins en cas de maladie**[^25a-1]
 
-<sup>1</sup> L’assurance obligatoire des soins fournit une contribution aux soins qui sont dispensés sur la base d’une prescription médicale et d’un besoin en soins avéré, sous forme ambulatoire, notamment dans des structures de soins de jour ou de nuit, ou dans des établissements médico-sociaux.[^25a-2] La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins est régie par l’art. 52.[^25a-3]
+<sup>1</sup>
 
-<sup>2</sup> Les soins aigus et de transition qui se révèlent nécessaires à la suite d’un séjour hospitalier et sont prescrits par un médecin de l’hôpital sont rémunérés par l’assurance obligatoire des soins et par le canton de résidence de l’assuré durant deux semaines au plus conformément à la réglementation du financement hospitalier (art. 49*a* Rémunération des prestations hospitalières). Les assureurs et les fournisseurs de prestations conviennent de forfaits. La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins aigus et de transition est régie par l’art. 52.[^25a-4]
+L’assurance obligatoire des soins fournit une contribution aux soins qui sont dispensés sur la base d’un besoin en soins avéré, sous forme ambulatoire, notamment dans des structures de soins de jour ou de nuit ou dans des établissements médicosociaux:
 
-<sup>3</sup> Le Conseil fédéral désigne les soins et fixe la procédure d’évaluation des soins requis.
+- a. par un infirmier;
+- b. au sein d’organisations qui emploient des infirmiers, ou
+- c. sur prescription ou sur mandat médical.[^25a-2]
+
+<sup>1bis</sup> La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins est régie par l’art. 52.[^25a-3]
+
+<sup>2</sup> Les soins aigus et de transition qui se révèlent nécessaires à la suite d’un séjour hospitalier et sont prescrits conjointement par un médecin et un infirmier de l’hôpital sont rémunérés par l’assurance obligatoire des soins et par le canton de résidence de l’assuré durant deux semaines au plus conformément à la réglementation du financement hospitalier (art. 49*a*).[^25a-4] Les assureurs et les fournisseurs de prestations conviennent de forfaits. La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins aigus et de transition est régie par l’art. 52.[^25a-5]
+
+<sup>3</sup> Le Conseil fédéral désigne les soins qui peuvent être fournis sur prescription ou sur mandat médical. Il définit quels soins peuvent être fournis sans prescription ni mandat médical.[^25a-6]
+
+<sup>3bis</sup> Les fédérations des fournisseurs de prestations et celles des assureurs concluent des conventions valables dans toute la Suisse, sur la surveillance de l’évolution quantitative des soins fournis sans prescription ni mandat médical. Elles conviennent de mesures correctives en cas de croissance injustifiée du volume de ces soins. Si les fédérations ne parviennent pas à un accord, le Conseil fédéral règle les modalités.[^25a-7]
+
+<sup>3ter</sup> Lorsqu’il désigne les prestations conformément à l’al. 3, le Conseil fédéral tient compte des besoins en soins des personnes qui souffrent de maladies complexes et de celles qui ont besoin de soins palliatifs.[^25a-8]
+
+<sup>3quater</sup> Il fixe la procédure d’évaluation des besoins en soins et règle la coordination entre les médecins traitants et les infirmiers.[^25a-9]
 
 <sup>4</sup> Le Conseil fédéral fixe le montant des contributions en francs en fonction du besoin en soins. Le coût des soins fournis avec la qualité requise et de manière efficace et avantageuse en fonction du besoin est déterminant. Les soins sont soumis à un contrôle de qualité. Le Conseil fédéral fixe les modalités.
 
-<sup>5</sup> Les coûts des soins qui ne sont pas pris en charge par les assurances sociales ne peuvent être répercutés sur l’assuré[^25a-5] qu’à hauteur de 20 % au plus de la contribution maximale fixée par le Conseil fédéral. Les cantons règlent le financement résiduel. Le canton de domicile de l’assuré est compétent pour fixer et verser le financement résiduel. Dans le domaine des soins ambulatoires, le financement résiduel est régi par les règles du canton où se situe le fournisseur de prestations. Le séjour dans un établissement médico-social ne fonde aucune nouvelle compétence. Si, au moment de l’admission, aucune place ne peut être mise à disposition de l’assuré dans un établissement médico-social de son canton de domicile qui soit situé à proximité, le canton de domicile prend en charge le financement résiduel selon les règles du canton où se situe le fournisseur de prestations. Ce financement résiduel et le droit de l’assuré à séjourner dans l’établissement médico-social en question sont garantis pour une durée indéterminée.[^25a-6]
+<sup>5</sup> Les coûts des soins qui ne sont pas pris en charge par les assurances sociales ne peuvent être répercutés sur l’assuré[^25a-10] qu’à hauteur de 20 % au plus de la contribution maximale fixée par le Conseil fédéral. Les cantons règlent le financement résiduel. Le canton de domicile de l’assuré est compétent pour fixer et verser le financement résiduel. Dans le domaine des soins ambulatoires, le financement résiduel est régi par les règles du canton où se situe le fournisseur de prestations. Le séjour dans un établissement médico-social ne fonde aucune nouvelle compétence. Si, au moment de l’admission, aucune place ne peut être mise à disposition de l’assuré dans un établissement médico-social de son canton de domicile qui soit situé à proximité, le canton de domicile prend en charge le financement résiduel selon les règles du canton où se situe le fournisseur de prestations. Ce financement résiduel et le droit de l’assuré à séjourner dans l’établissement médico-social en question sont garantis pour une durée indéterminée.[^25a-11]
 
 [^25a-1]: Introduit par le ch. I 3 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Voir aussi les disp. trans. de la mod. du 13 juin 2008 à la fin du texte ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-3]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
-[^25a-4]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
-[^25a-5]: Nouvelle expression selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
-[^25a-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3779](https://fedlex.data.admin.ch/eli/fga/2016/787)[4383](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-3]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-5]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
+[^25a-6]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-7]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-8]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-9]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^25a-10]: Nouvelle expression selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^25a-11]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3779](https://fedlex.data.admin.ch/eli/fga/2016/787)[4383](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -644,22 +666,24 @@ Les fournisseurs de prestations sont:[^35-3]
 - b. les pharmaciens;
 - c. les chiropraticiens;
 - d. les sages-femmes;
+- d<sup>bis</sup>.[^35-4] les infirmiers ainsi que les organisations qui les emploient;
 - e. les personnes prodiguant des soins sur prescription ou sur mandat médical ainsi que les organisations qui les emploient;
 - f. les laboratoires;
 - g. les centres de remise de moyens et d’appareils diagnostiques ou thérapeutiques;
 - h. les hôpitaux;
-- i.[^35-4] les maisons de naissance;
+- i.[^35-5] les maisons de naissance;
 - k. les établissements médico-sociaux;
 - l. les établissements de cure balnéaire;
-- m.[^35-5] les entreprises de transport et de sauvetage;
-- n.[^35-6] les institutions de soins ambulatoires dispensés par des médecins.
+- m.[^35-6] les entreprises de transport et de sauvetage;
+- n.[^35-7] les institutions de soins ambulatoires dispensés par des médecins.
 
 [^35-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^35-2]: Abrogé par le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^35-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
-[^35-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^35-5]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^35-4]: Introduite par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^35-5]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^35-6]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^35-7]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 
 #### Art. 36
 
@@ -677,7 +701,11 @@ Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a à g, m et 
 
 <sup>2</sup> Les conditions d’admission portent, selon le type de fournisseurs de prestations, sur la formation de base, sur la formation postgrade et sur les exigences nécessaires pour assurer la qualité des prestations.
 
+<sup>3</sup> L’admission des organisations visées à l’art. 35, al. 2, let. d<sup>bis</sup>, nécessite un mandat de prestations cantonal. Le canton y fixe notamment les prestations de formation requises; il tient compte des critères définis à l’art. 3 de la loi fédérale du 16 décembre 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers[^36a-2] et du plan de formation visé à l’art. 4 de ladite loi.[^36a-3]
+
 [^36a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^36a-2]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^36a-3]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 37
 
@@ -745,20 +773,24 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 - e. figurent sur la liste cantonale fixant les catégories d’hôpitaux en fonction de leurs mandats;
 - f.[^39-1] s’affilient à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^39-2].
 
-<sup>2</sup> Les cantons coordonnent leurs planifications.[^39-3]
+<sup>1bis</sup> Le canton fixe dans le mandat de prestations visé à l’al. 1, let. e, notamment les prestations de formation requises dans le domaine de la formation pratique des infirmiers. Il tient compte à cet égard des critères définis à l’art. 3 de la loi fédérale du 16 décembre 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers[^39-3] et du plan de formation visé à l’art. 4 de ladite loi.[^39-4]
 
-<sup>2bis</sup> Dans le domaine de la médecine hautement spécialisée, les cantons sont tenus d’établir conjointement une planification pour l’ensemble de la Suisse. Si les cantons n’effectuent pas cette tâche à temps, le Conseil fédéral détermine quels hôpitaux figurent pour quelles prestations sur les listes cantonales.[^39-4]
+<sup>2</sup> Les cantons coordonnent leurs planifications.[^39-5]
 
-<sup>2ter</sup> Le Conseil fédéral édicte des critères de planification uniformes en prenant en considération la qualité et le caractère économique. Il consulte au préalable les cantons, les fournisseurs de prestations et les assureurs.[^39-5]
+<sup>2bis</sup> Dans le domaine de la médecine hautement spécialisée, les cantons sont tenus d’établir conjointement une planification pour l’ensemble de la Suisse. Si les cantons n’effectuent pas cette tâche à temps, le Conseil fédéral détermine quels hôpitaux figurent pour quelles prestations sur les listes cantonales.[^39-6]
 
-<sup>3</sup> Les conditions fixées à l’al. 1 s’appliquent par analogie aux maisons de naissance, aux établissements, aux institutions et aux divisions d’établissements ou d’institutions qui prodiguent des soins, une assistance médicale et des mesures de réadaptation à des patients pour une longue durée (établissements médico-sociaux).[^39-6]
+<sup>2ter</sup> Le Conseil fédéral édicte des critères de planification uniformes en prenant en considération la qualité et le caractère économique. Il consulte au préalable les cantons, les fournisseurs de prestations et les assureurs.[^39-7]
+
+<sup>3</sup> Les conditions fixées à l’al. 1 s’appliquent par analogie aux maisons de naissance, aux établissements, aux institutions et aux divisions d’établissements ou d’institutions qui prodiguent des soins, une assistance médicale et des mesures de réadaptation à des patients pour une longue durée (établissements médico-sociaux).[^39-8]
 
 [^39-1]: Introduite par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient, en vigueur depuis le 15 avr. 2017 ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Voir aussi des disp. trans. de cette mod. à la fin du texte.
 [^39-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^39-3]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-4]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-5]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^39-6]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-3]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
+[^39-4]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+[^39-5]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-6]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-7]: Introduit par le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^39-8]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
 #### Art. 40
 
@@ -855,8 +887,8 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^42-3]: Phrase introduite par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^42-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^42-5]: Nouvelle teneur de la 3<sup>ème</sup> à la 5<sup>ème</sup> phrases selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^42-6]: 6<sup>ème</sup> et 7<sup>ème</sup> phrases introduites par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^42-5]: Nouvelle teneur de la 3<sup>e</sup> à la 5<sup>e</sup> phrases selon le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^42-6]: 6<sup>e</sup> et 7<sup>e</sup> phrases introduites par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-7]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-8]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
 [^42-9]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
@@ -1150,9 +1182,9 @@ Après avoir consulté les commissions compétentes et conformément aux princip
 
   le DFI édicte:
 
-  - 1\. une liste des analyses avec tarif;
-  - 2\. une liste avec tarif des produits et des substances actives et auxiliaires employés pour la prescription magistrale; le tarif comprend aussi les prestations du pharmacien;
-  - 3\.[^52-1] des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés conformément aux art. 25, al. 2, let. b, et 25*a*, al. 1 et 2;
+  - 1\. une liste des analyses avec tarif,
+  - 2\. une liste avec tarif des produits et des substances actives et auxiliaires employés pour la prescription magistrale; le tarif comprend aussi les prestations du pharmacien,
+  - 3\.[^52-1] des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés conformément aux art. 25, al. 2, let. b, et 25*a*, al. 1<sup>bis</sup> et 2;
 
 - b.[^52-2] l’OFSP établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités).
 
@@ -1160,7 +1192,7 @@ Après avoir consulté les commissions compétentes et conformément aux princip
 
 <sup>3</sup> Les analyses, les médicaments et les moyens et appareils diagnostiques ou thérapeutiques ne peuvent être facturés à l’assurance obligatoire des soins qu’au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1.[^52-6] Le DFI désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-7] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-8]
 
-[^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
+[^52-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^52-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^52-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -1261,6 +1293,14 @@ En cas de limitation des admissions à pratiquer dans un canton, les médecins s
 <sup>6</sup> Lorsque, dans un canton, les coûts annuels par assuré dans un domaine de spécialité augmentent davantage que les coûts annuels des autres domaines de spécialité dans ce canton ou que la moyenne suisse des coûts annuels dans le domaine de spécialité en question, le canton peut prévoir qu’aucune nouvelle admission à pratiquer à la charge de l’assurance obligatoire des soins n’est délivrée dans ce domaine de spécialité.
 
 [^55a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365)2311; FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+
+#### Art. 55b
+
+**Évolution des coûts des soins**[^55b-1]
+
+Lorsque, dans un canton, les coûts annuels par assuré des prestations définies à l’art. 25*a* augmentent davantage que la moyenne suisse des coûts annuels, le canton peut prévoir qu’aucune nouvelle admission à pratiquer à la charge de l’assurance obligatoire des soins n’est délivrée aux fournisseurs de prestations visés à l’art. 35, al. 2, let. d<sup>bis</sup>.
+
+[^55b-1]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 ### Section 6 Contrôle du caractère économique et de la qualité des prestations
 
@@ -1600,7 +1640,7 @@ Les projets pilotes qui concernent l’un des domaines suivants peuvent déroger
 [^61-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6989](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7729](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 [^61-4]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
 [^61-5]: Introduit par le ch. I 9 de la LF du 8 oct. 1999 sur l’Ac. entre la Suisse et la CE et ses États membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^61-6]: Introduit par le ch. I de la LF du 18 déc. 1998 ([RO 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); FF **1998** 1072 1078). Abrogé par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^61-6]: Introduit par le ch. I de la LF du 18 déc. 1998 ([RO 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); FF **1998** 1072 1078). Anciennement al. 4. Abrogé par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 61a
 
@@ -2039,7 +2079,7 @@ En dérogation à l’art. 33 LPGA[^82-2], les assureurs fournissent gratuitemen
 
 **Vérification de la répercussion des avantages**[^82a-1]
 
-L’OFSP vérifie si les fournisseurs de prestations répercutent les avantages sur le débiteur de la rémunération et sur les assureurs, conformément à l’art. 56, al. 3, let. b, ou s’ils les utilisent pour améliorer la qualité du traitement, compte tenu de l’art. 56, al. 3bis. Il est autorisé à collecter toutes les données nécessaires à cette vérification auprès des assureurs et des prestataires ainsi que de leurs fournis-seurs et à décider la répercussion des avantages.
+L’OFSP vérifie si les fournisseurs de prestations répercutent les avantages sur le débiteur de la rémunération et sur les assureurs, conformément à l’art. 56, al. 3, let. b, ou s’ils les utilisent pour améliorer la qualité du traitement, compte tenu de l’art. 56, al. 3bis. Il est autorisé à collecter toutes les données nécessaires à cette vérification auprès des assureurs et des prestataires ainsi que de leurs fournisseurs et à décider la répercussion des avantages.
 
 [^82a-1]: Introduit par l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2067,7 +2107,7 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2] ou d’e
 - e. faire valoir une prétention récursoire contre le tiers responsable;
 - f. surveiller l’exécution de la présente loi;
 - g. établir des statistiques;
-- [tab] h.[^84-5] attribuer ou vérifier le numéro AVS;
+- h.[^84-5] attribuer ou vérifier le numéro AVS;
 - i.[^84-6] calculer la compensation des risques.
 
 <sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^84-7]
@@ -2090,13 +2130,13 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 
 - a.[^84a-5] à d’autres organes chargés d’appliquer la présente loi ou la LSAMal ou d’en contrôler ou surveiller l’exécution, lorsque ces données sont nécessaires à l’accomplissement des tâches que la présente loi ou la LSAMal leur assignent;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^84a-6] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
+- b<sup>bis</sup>.[^84a-6] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^84a-7] et aux dispositions cantonales correspondantes;
 - d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^84a-8];
 - e. aux organismes chargés d’établir des statistiques servant à l’exécution de la présente loi, lorsque les données sont nécessaires à l’accomplissement de cette tâche et que l’anonymat des assurés est garanti;
 - f.[^84a-9] aux autorités cantonales compétentes, s’agissant des données visées à l’art. 22*a* qui sont nécessaires à la planification des hôpitaux et des établissements médico-sociaux ainsi qu’à l’examen des tarifs;
 - g. aux autorités d’instruction pénale, lorsqu’il s’agit de dénoncer ou de prévenir un crime;
-- [tab] gbis.[^84a-10] au Service de renseignement de la Confédération (SRC) ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^84a-11];
+- g<sup>bis</sup>.[^84a-10] au Service de renseignement de la Confédération (SRC) ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^84a-11];
 - h.
 
   dans des cas d’espèce et sur demande écrite et motivée:
@@ -2631,25 +2671,21 @@ Pendant une année après l’entrée en vigueur de la modification du 18 décem
 
 L’organisation visée à l’art. 47*a* doit être instituée dans les deux ans qui suivent l’entrée en vigueur de la modification du 18 juin 2021.
 
-## Dispositions transitoires de la modification du 18 mars 2022
+## Disposition transitoire relative à la modification du 30 septembre 2022
 
 [^u20-1]
 
-[^u20-1]: [RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
+[^u20-1]: [RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
-<sup>1</sup> ...[^u20-2]
+Les conventions qui visent à définir le monitorage et les mesures de correction conformément à l’art. 47*c*, al. 2, doivent être soumises pour approbation à l’autorité compétente dans les deux ans qui suivent l’entrée en vigueur de la modification du 30 septembre 2022.
 
-<sup>2</sup> Les art. 61*a* et 64, al. 1<sup>bis</sup>, s’appliquent aux assurés encore mineurs au moment de l’entrée en vigueur de la modification du 18 mars 2022. Ils s’appliquent également pour les primes, participations aux coûts, intérêts moratoires et frais de poursuite non payés de ces assurés au moment de l’entrée en vigueur.
-
-[^u20-2]: En vigueur le 1<sup>er</sup> juil. 2025.
-
-## Disposition transitoire relative à la modification du 30 septembre 2022
+## Disposition transitoire relative à la modification du 16 décembre 2022
 
 [^u21-1]
 
-[^u21-1]: [RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+[^u21-1]: [RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
 
-Les conventions qui visent à définir le monitorage et les mesures de correction conformément à l’art. 47*c*, al. 2, doivent être soumises pour approbation à l’autorité compétente dans les deux ans qui suivent l’entrée en vigueur de la modification du 30 septembre 2022.
+Le Conseil fédéral évalue les effets de la modification du 16 décembre 2022 sur le développement des soins infirmiers et remet au Parlement un rapport au plus tard cinq ans après l’entrée en vigueur de ladite modification.
 
 Annexe
 
