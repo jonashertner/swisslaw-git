@@ -4,13 +4,13 @@ number: "531.211"
 title: Verordnung über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2023-11-01
-valid_until: 2024-06-30
-version_adopted: 2023-08-30
+version: 2024-07-01
+valid_until: 2026-04-30
+version_adopted: 2024-03-13
 adopted: 2021-05-26
 in_force: 2021-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3348/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3752/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,26 +19,23 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3348/pdf_file"
 
 (Polizeiverordnung, PolV)
 
-Vom 26.05.2021 (Stand 01.11.2023)
+Vom 26.05.2021 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, Art. 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG) vom 20. Juni 1997[^ingress-1], Art. 42 Abs. 2 und 44 des Bundesgesetzes über explosionsgefährliche Stoffe (Sprengstoffgesetz, SprstG) vom 25. März 1977[^ingress-2], Art. 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^ingress-3], § 12 Abs. 2 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^ingress-4], § 4 Abs. 2 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-5], § 30 Abs. 2 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-6], § 7a des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^ingress-7], § 13 Abs. 1 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^ingress-8], § 8 Abs. 1 des Gesetzes über den Vollzug des Strassenverkehrsrechtes vom 6. März 1984[^ingress-9], § 9 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-10], die §§ 25 Abs. 3 und 26 Abs. 2 des Dekrets über die Verfahrenskosten (Verfahrenskostendekret, VKD) vom 24. November 1987[^ingress-11] und § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-12],
+gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, Art. 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG) vom 20. Juni 1997[^ingress-1], Art. 42 Abs. 2 und 44 des Bundesgesetzes über explosionsgefährliche Stoffe (Sprengstoffgesetz, SprstG) vom 25. März 1977[^ingress-2], § 12 Abs. 2 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^ingress-3], § 4 Abs. 2 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-4], § 30 Abs. 2 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-5], § 7a des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^ingress-6], § 13 Abs. 1 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^ingress-7], § 8 Abs. 1 des Gesetzes über den Vollzug des Strassenverkehrsrechtes vom 6. März 1984[^ingress-8] sowie § 9 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-9],
 
 beschliesst:
 
 [^ingress-1]: SR [514.54](https://db.clex.ch/link/Bund/514.54/de)
 [^ingress-2]: SR [941.41](https://db.clex.ch/link/Bund/941.41/de)
-[^ingress-3]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
-[^ingress-4]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
-[^ingress-5]: SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de)
-[^ingress-6]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
-[^ingress-7]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
-[^ingress-8]: SAR [533.100](https://gesetzessammlungen.ag.ch/data/533.100/de)
-[^ingress-9]: SAR [991.100](https://gesetzessammlungen.ag.ch/data/991.100/de)
-[^ingress-10]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
-[^ingress-11]: SAR [221.150](https://gesetzessammlungen.ag.ch/data/221.150/de)
-[^ingress-12]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^ingress-3]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
+[^ingress-4]: SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de)
+[^ingress-5]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
+[^ingress-6]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
+[^ingress-7]: SAR [533.100](https://gesetzessammlungen.ag.ch/data/533.100/de)
+[^ingress-8]: SAR [991.100](https://gesetzessammlungen.ag.ch/data/991.100/de)
+[^ingress-9]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
 
 ## 1. Allgemeines
 
@@ -354,7 +351,7 @@ beschliesst:
 
 <sup>4</sup> Die Zielgruppen gemäss Absatz 2 haben die mit den beratenden und präventiven Dienstleistungen verbundenen Kosten zu übernehmen.
 
-<sup>5</sup> Die Gebühr für die Dienstleistungen der Angehörigen der Kantonspolizei gemäss den Absätzen 3 und 4 richtet sich nach § 75.
+<sup>5</sup> …
 
 [^25-1]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
 [^25-2]: SAR [255.113](https://gesetzessammlungen.ag.ch/data/255.113/de)
@@ -854,7 +851,7 @@ beschliesst:
 
 <sup>1</sup> Die Zugriffsberechtigung der Angehörigen der Kantonspolizei richtet sich nach § 45.
 
-## 8. Abgeltungen und Gebühren
+## 8. Abgeltungen
 
 ### 8.1. Abgeltung der lokalen Sicherheit
 
@@ -896,145 +893,69 @@ beschliesst:
 
 <sup>2</sup> Die Kantonspolizei und die Gemeinden regeln die Einzelheiten der Unterstützungsleistungen durch Vereinbarung.
 
-### 8.3. Gebühren der Kantonspolizei
+### 8.3.
 
 #### § 72
 
-**Alarmanlagen**
-
-<sup>1</sup> Die Gebühren im Bereich des Alarmanlagewesens betragen:
-
-- a) Anschluss an das Alarmnetz — Fr. 700.–,
-- b) Jährliche Abonnementsgebühr — Fr. 280.–,
-- c) Anpassung von polizeilichen Alarmplänen — Fr. 350.–,
-- d) Einsatzkosten bei einem Fehlalarm — Fr. 350.–.
-
-<sup>2</sup> Die Mehrwertsteuer ist in diesen Ansätzen inbegriffen.
-
-<sup>3</sup> Wird eine Gebühr gemäss Absatz 1 lit. d entrichtet, leistet die Kantonspolizei den Polizeikräften der Gemeinden folgende Vergütung:
-
-- a) beim gemeinsamen Ausrücken der Polizeikräfte der Gemeinden und der Kantonspolizei — Fr. 150.–,
-- b) beim alleinigen Ausrücken der Polizeikräfte der Gemeinden — Fr. 300.–.
-
-<sup>4</sup> Rechnungsstellerin der Gebühr gemäss Absatz 1 ist in allen Fällen die Kantonspolizei.
+**…**
 
 #### § 73
 
-**Personen- und Passkontrollen**
-
-<sup>1</sup> Die Gebühren für die Durchführung der Personen- und Passkontrollen auf Flugplätzen werden der Betreiberin oder dem Betreiber des Flugplatzes auferlegt und betragen:
-
-- a) pro Einsatz während des Tages (Einsatzbeginn ab 6.00 Uhr) — Fr. 100.–,
-- b) pro Einsatz während der Nacht (Einsatzbeginn ab 20.00 Uhr) sowie an Sonn- und Feiertagen — Fr. 125.–.
+**…**
 
 #### § 74
 
-**Arbeitsbücher**
-
-<sup>1</sup> Die Gebühr für die Befreiung von der Pflicht zur Führung eines Arbeitsbuchs im Bereich der Kontrolle der Arbeits-, Lenk- und Ruhezeit der berufsmässigen Motorfahrzeugführerinnen und Motorfahrzeugführer beträgt Fr. 30.–.
-
-<sup>2</sup> Die Arbeitsbücher können bei der Kantonspolizei für Fr. 10.– bezogen werden.
-
-<sup>3</sup> Die Mehrwertsteuer ist in diesen Ansätzen inbegriffen.
+**…**
 
 #### § 75
 
-**Verbrechensprävention und Bedrohungsmanagement**
-
-<sup>1</sup> Die Gebühr im Bereich der Kriminalprävention und des Bedrohungsmanagements beträgt Fr. 150.– pro Einsatzstunde und Beratungsperson. Teile einer Stunde werden anteilsmässig berechnet.
+**…**
 
 #### § 76
 
-**Sportliche, kulturelle und weitere Anlässe**
-
-<sup>1</sup> Die Gebühr für Einsatzkräfte der Kantonspolizei bei sportlichen, kulturellen oder anderen Anlässen beträgt Fr. 120.– pro Stunde und Einsatzkraft. Sie wird zu Lasten der Veranstalterin oder des Veranstalters erhoben. Teile einer Stunde werden anteilsmässig berechnet.
-
-<sup>2</sup> Bei gemeinnützigen Veranstaltungen oder bei Anlässen der Jugend- und Nachwuchsförderung kann das DVI auf die Kosten des Polizeieinsatzes Ermässigungen bis maximal 50 % gewähren. Bei jährlich mehrmals stattfindenden Sportveranstaltungen kann im Rahmen einer Vereinbarung eine Jahrespauschale festgelegt werden, die mindestens ein Viertel der effektiven Kosten ausmachen muss.
-
-<sup>3</sup> Die Gebühr für eine Bewilligung gemäss Art. 3a Abs. 1 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen beträgt je nach Aufwand Fr. 50.– bis Fr. 2'000.–.
+**…**
 
 #### § 77
 
-**Verkehrsgutachten**
-
-<sup>1</sup> Die Kosten der Polizei für Verkehrsgutachten werden nach Aufwand berechnet. Die Berechnung erfolgt nach dem Stundenansatz gemäss § 76 Abs. 1.
+**…**
 
 #### § 78
 
-**Ausnahme- und Schwertransporte**
-
-<sup>1</sup> Für die verkehrspolizeiliche Planung und Begleitung von Ausnahme- und Schwertransporten wird eine Gebühr von Fr. 150.– pro Stunde und Einsatzkraft erhoben. Teile einer Stunde werden anteilsmässig berechnet. Für den Hin- und Rückfahrtsweg wird eine Pauschale von Fr. 150.– verrechnet.
+**…**
 
 #### § 79
 
-**Nukleartransporte**
-
-<sup>1</sup> Die Gebühr für die sicherheitspolizeiliche Planung und Begleitung von Nukleartransporten (Castor) beträgt Fr. 120.– pro Stunde und Einsatzkraft. Teile einer Stunde werden anteilsmässig berechnet.
+**…**
 
 #### § 80
 
-**Amts- und Rechtshilfe**
-
-<sup>1</sup> Für ausserordentliche Dienstleistungen im Rahmen der Amts- und Rechtshilfe, wie gesonderte Gefangenentransporte, Mietausweisungen, wird eine Gebühr von Fr. 120.– pro Stunde und Einsatzkraft erhoben. Teile einer Stunde werden anteilsmässig berechnet.
+**…**
 
 #### § 81
 
-**Ein- und Abstellen von Motorfahrzeugen**
-
-<sup>1</sup> Für das Ein- und Abstellen von sichergestellten oder beschlagnahmten Motorfahrzeugen wird den fehlbaren Lenkerinnen und Lenkern eine Gebühr auferlegt. Diese beträgt pro Tag:
-
-- a) in Einstellgaragen: Fr. 8.– während den ersten drei Monaten, danach Fr. 3.–,
-- b) auf Abstellplätzen: Fr. 6.50 während den ersten drei Monaten, danach Fr. 3.–.
+**…**
 
 #### § 82
 
-**Private Sicherheitsdienste**
-
-<sup>1</sup> Die Gebühr für Leistungen im Bereich der privaten Sicherheitsdienste, wie die Bearbeitung von Bewilligungsgesuchen, Änderungen, Entzug von Bewilligungen, Bearbeitung von Meldungen zu Anstellungen von Personen mit Sicherheitsaufgaben, beträgt Fr. 120.– pro Stunde und Einsatzkraft. Teile einer Stunde werden anteilsmässig berechnet.
+**…**
 
 #### § 83
 
-**Waffen**
-
-<sup>1</sup> Für die Abnahme von Prüfungen, die Erteilung von Bewilligungen und die Beschlagnahme sowie das Aufbewahren von Waffen werden die Gebühren gemäss Art. 55 der Verordnung über Waffen, Waffenzubehör und Munition (Waffenverordnung, WV) vom 2. Juli 2008[^83-1] erhoben.
-
-<sup>2</sup> Bei abgelehnten Gesuchen wird jene Gebühr erhoben, die für die nachgesuchte Bewilligung berechnet wird.
-
-<sup>3</sup> Besondere Aufwendungen und Auslagen werden zusätzlich in Rechnung gestellt.
-
-[^83-1]: SR [514.541](https://db.clex.ch/link/Bund/514.541/de)
+**…**
 
 #### § 84
 
-**Explosionsgefährliche Stoffe**
-
-<sup>1</sup> Die Kantonspolizei erhebt für ihre Amtshandlungen Gebühren gemäss Art. 113–116 der Verordnung über explosionsgefährliche Stoffe (Sprengstoffverordnung, SprstV) vom 27. November 2000[^84-1].
-
-<sup>2</sup> Die Gebühr wird innerhalb des bundesrechtlichen Rahmens nach Aufwand festgelegt. Pro Stunde Aufwand werden durchschnittlich Fr. 120.– berechnet.
-
-<sup>3</sup> Für die Ausstellung einer Zuverlässigkeitsbescheinigung gemäss Art. 55 Abs. 1 lit. b SprstV wird eine Gebühr von Fr. 30.– erhoben.
-
-[^84-1]: SR [941.411](https://db.clex.ch/link/Bund/941.411/de)
+**…**
 
 #### § 85
 
-**Kanzleigebühren**
+**…**
 
-<sup>1</sup> Die Kanzleigebühren für die Erstellung von Kopien von Unfallrapporten und anderen Anzeigesachen und deren Abgabe an Versicherungsgesellschaften und weitere Berechtigte betragen:
-
-- a) für 1–5 Seiten Fr. 40.–,
-- b) für jede weitere Seite Fr. 5.–,
-- c) höchstens Fr. 330.–.
-
-<sup>2</sup> Die Mehrwertsteuer ist in diesen Ansätzen inbegriffen.
-
-### 8.4. Mehrwertsteuer
+### 8.4.
 
 #### § 86
 
-**Grundsatz**
-
-<sup>1</sup> Die gemäss bundesrechtlichen Bestimmungen zu entrichtende Mehrwertsteuer ist, wo nicht ausdrücklich vermerkt, in den Ansätzen gemäss den §§ 71–85 nicht enthalten.
+**…**
 
 ## 9. Übergangs- und Schlussbestimmungen
 
