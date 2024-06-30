@@ -4,11 +4,11 @@ title: Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG
 short: SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: de
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/de"
 
 (SchKG)[^t-1]
 
-vom 11. April 1889 (Stand am 1. Januar 2023)
+vom 11. April 1889 (Stand am 1. Juli 2024)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -1589,7 +1589,10 @@ Unpfändbar sind:
 
 <sup>3</sup> Erhält das Amt während der Dauer einer solchen Pfändung Kenntnis davon, dass sich die für die Bestimmung des pfändbaren Betrages massgebenden Verhältnisse geändert haben, so passt es die Pfändung den neuen Verhältnissen an.
 
+<sup>4</sup> Auf Antrag des Schuldners weist das Amt den Arbeitgeber des Schuldners an, während der Dauer der Einkommenspfändung zusätzlich den für die Bezahlung der laufenden Prämien- und Kostenbeteiligungsforderungen der obligatorischen Krankenpflegeversicherung erforderlichen Betrag an das Amt zu überweisen, soweit diese Prämien und Kostenbeteiligungen zum Existenzminimum des Schuldners gehören. Das Amt begleicht damit die laufenden Prämien- und Kostenbeteiligungsforderungen direkt beim Versicherer.[^93-2]
+
 [^93-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^93-2]: Eingefügt durch Ziff. III des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Juli 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 ### 6. Pfändung von Früchten vor der Ernte
 

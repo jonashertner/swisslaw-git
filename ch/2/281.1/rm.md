@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 d'avrigl 1889 dadavart la scussiun ed il concurs
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: rm
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LSC)[^t-1]
 
-dals 11 d’avrigl 1889 (versiun dal 1. da schaner 2023)
+dals 11 d’avrigl 1889 (versiun dal 1. da fanadur 2024)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -1591,7 +1591,10 @@ Nunimpegnabels èn:
 
 <sup>3</sup> Sch’in uffizi vegn a savair durant ina tala impegnaziun che las relaziuns decisivas per fixar l’import impegnabel èn sa midadas, adattescha el il volumen da l’impegnaziun a las novas relaziuns.
 
+<sup>4</sup> Sin dumonda dal debitur incumbensescha l’uffizi il patrun dal debitur d’assegnar a l’uffizi – per la durada da l’impegnaziun da las entradas – er l’import ch’è necessari per pajar las pretensiuns currentas da premias e da participaziuns als custs da l’assicuranza obligatorica da malsauns, uschenavant che questas premias e participaziuns als custs fan part dal minimum d’existenza dal debitur. Cun quest import paja l’uffizi las pretensiuns currentas da premias e da participaziuns als custs directamain a l’assicurader.[^93-2]
+
 [^93-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^93-2]: Integrà tras la cifra III da la LF dals 18 da mars 2022 (execuziun da l’obligaziun da pajar las premias), en vigur dapi il 1. da fan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 ### 6. Impegnaziun da fritgs avant la racolta
 

@@ -4,11 +4,11 @@ title: "Legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento (LE
 short: LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: it
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/it"
 
 (LEF)[^t-1]
 
-dell’11 aprile 1889 (Stato 1° gennaio 2023)
+dell’11 aprile 1889 (Stato 1° luglio 2024)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -1608,7 +1608,10 @@ Sono impignorabili:
 
 <sup>3</sup> Se durante il decorso di tale termine l’ufficio ha conoscenza di una modificazione determinante per l’importo da pignorare, esso commisura il pignoramento alle mutate circostanze.
 
+<sup>4</sup> Su istanza del debitore, l’ufficio ingiunge al datore di lavoro di quest’ultimo di versare all’ufficio, per la durata del pignoramento del salario, anche la somma necessaria per il pagamento dei crediti correnti di premi e partecipazioni ai costi dell’assicurazione obbligatoria delle cure medico-sanitarie, per quanto tali premi e partecipazioni ai costi facciano parte del minimo vitale del debitore. L’ufficio utilizza tale somma per pagare direttamente all’assicuratore i crediti correnti di premi e partecipazioni ai costi.[^93-2]
+
 [^93-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^93-2]: Introdotto dal n. III della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° lug. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 ### 6. Pignoramento di frutti prima del raccolto
 

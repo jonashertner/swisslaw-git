@@ -4,11 +4,11 @@ title: Loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la failli
 short: LP
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: fr
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/fr"
 
 (LP)[^t-1]
 
-du 11 avril 1889 (État le 1<sup>er</sup> janvier 2023)
+du 11 avril 1889 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -709,7 +709,7 @@ La poursuite se continue par voie de faillite, soit comme «poursuite ordinaire 
 Dans tous les cas, la poursuite par voie de faillite est exclue pour:
 
 - 1\. le recouvrement d’impôts, contributions, émoluments, droits, amendes ou autres prestations de droit public dues à une caisse publique ou à un fonctionnaire;
-- [tab] 1<sup>bis</sup>.[^43-2] le recouvrement de primes de l’assurance-accidents obligatoire;
+- 1<sup>bis</sup>.[^43-2] le recouvrement de primes de l’assurance-accidents obligatoire;
 - 2\.[^43-3] le recouvrement de contributions périodiques d’entretien et d’aliments découlant du droit de la famille ou de contributions d’entretien découlant de la loi du 18 juin 2004 sur le partenariat[^43-4];
 - 3\. la constitution de sûretés.
 
@@ -1602,7 +1602,10 @@ Sont insaisissables:
 
 <sup>3</sup> Si, durant ce délai, l’office a connaissance d’une modification déterminante pour le montant de la saisie, il adapte l’ampleur de la saisie aux nouvelles circonstances.
 
+<sup>4</sup> Sur demande du débiteur, l’office ordonne à l’employeur de ce dernier de verser en plus à l’office, pour la durée de la procédure de saisie des revenus, le montant nécessaire au paiement des créances en cours au titre des primes et des participations aux coûts de l’assurance obligatoire des soins, pour autant que ces primes et ces participations aux coûts fassent partie du minimum vital du débiteur. L’office utilise ce montant pour régler directement à l’assureur les créances de primes et de participations aux coûts en cours.[^93-2]
+
 [^93-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^93-2]: Introduit par le ch. III de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 ### 6. Saisie de récoltes pendantes
 
@@ -4353,7 +4356,7 @@ Les effets du séquestre cessent lorsque le créancier:
 <sup>3</sup> L’office dresse inventaire des objets soumis au droit de rétention et assigne au bailleur un délai pour requérir la poursuite en réalisation des gages.
 
 [^283-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^283-2]: Nouvelle teneur selon le ch. II art. 3 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme), en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. des tit. VIII et VIII<sup>bis</sup> ; [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
+[^283-2]: Nouvelle teneur selon le ch. II art. 3 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme), en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. des tit. VIII et VIII<sup>bis;</sup> [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)).
 
 ### Réintégration des biens
 
@@ -5061,7 +5064,7 @@ Est nulle de plein droit toute promesse faite par le débiteur à l’un de ses 
 
 <sup>2</sup> L’art. 307 s’applique par analogie.
 
-[^316-1]: Dans les textes allemand «Wird einem Gläubiger gegenüber der Nachlassvertrag nicht erfüllt, so kann er beim Nachlassrichter für seine Forderung die Aufhebung des Nachlassvertrages verlangen, ohne seine Rechte daraus zu verlieren.» et italien «Ogni creditore riguardo al quale non sia stato adempito il concordato può, senza pregiudizio dei diritti che questo gli assicura, domandare al giudice del concordato la revoca per il suo credito.». Il faut lire en français « Tout créancier à l’égard duquel le concordat n’est pas exécuté peut en faire prononcer la révocation par le juge du concordat pour ce qui le concerne, tout en conservant les droits nouveaux acquis en vertu du concordat.».
+[^316-1]: Dans les textes allemand «Wird einem Gläubiger gegenüber der Nachlassvertrag nicht erfüllt, so kann er beim Nachlassrichter für seine Forderung die Aufhebung des Nachlassvertrages verlangen, ohne seine Rechte daraus zu verlieren.» et italien «Ogni creditore riguardo al quale non sia stato adempito il concordato può, senza pregiudizio dei diritti che questo gli assicura, domandare al giudice del concordato la revoca per il suo credito.». Il faut lire en français «Tout créancier à l’égard duquel le concordat n’est pas exécuté peut en faire prononcer la révocation par le juge du concordat pour ce qui le concerne, tout en conservant les droits nouveaux acquis en vertu du concordat.».
 
 ### IV. Concordat par abandon d’actif
 
