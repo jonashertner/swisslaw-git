@@ -4,13 +4,13 @@ number: "453.153"
 title: Verordnung über die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen
 short: Passerellenverordnung
 language: de
-version: 2022-08-01
-valid_until: 2024-06-30
-version_adopted: 2022-05-04
+version: 2024-07-01
+valid_until: 2024-07-31
+version_adopted: 2024-03-13
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.153"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3216/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3499/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3216/pdf_file"
 
 (Passerellenverordnung)
 
-Vom 02.05.2007 (Stand 01.08.2022)
+Vom 02.05.2007 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -127,27 +127,15 @@ beschliesst:
 
 **…**
 
-## 4. Gebühren
+## 4.
 
 #### § 13
 
-**Anmeldegebühr**
-
-<sup>1</sup> Die Studierenden haben bei der Anmeldung eine Gebühr von Fr. 200.– zu bezahlen. Dieser Betrag wird an das Studiengeld des ersten Semesters angerechnet.
-
-<sup>2</sup> Die Anmeldegebühr wird zurückerstattet, wenn eine Anmeldung mehr als zwei Monate vor Kursbeginn zurückgezogen wird oder wenn nach der Kursanmeldung die Berufsmaturitätsprüfung nicht bestanden wird.
+**…**
 
 #### § 14
 
-**Kostentragung**
-
-<sup>1</sup> Die Studierenden haben pro Semester ein Studiengeld von Fr. 1'000.– zu bezahlen.
-
-<sup>1<sup>bis</sup></sup> Bei einem Austritt während des Semesters werden Studiengeld und Schulgeld nicht zurückerstattet.
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Kosten für die Unterrichtsmaterialien tragen die Studierenden.
+**…**
 
 ## 5.
 
