@@ -4,11 +4,11 @@ title: "Legge federale del 24 giugno 1902 concernente gli impianti elettrici a c
 short: LIE
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20240701/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/it"
 
 (Legge sugli impianti elettrici, LIE)[^t-1]
 
-del 24 giugno 1902 (Stato 1° settembre 2023)
+del 24 giugno 1902 (Stato 1° luglio 2024)
 
 [^t-1]: Introdotto dall’all. n. 11 della LF del 30 apr. 1997 sull’azienda delle telecomunicazioni, in vigore dal 1° gen. 1998 ([RU 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -214,7 +214,7 @@ Il Consiglio federale può prevedere che:
 
 [^lvlIIIa-1]
 
-[^lvlIIIa-1]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^lvlIIIa-1]: Introdotta dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15e
 
@@ -434,7 +434,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni della procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
 
-[^17-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^17-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 17a
 
@@ -542,11 +542,17 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 Il controllo sull’esecuzione delle prescrizioni menzionate all’articolo 3 è affidato:
 
-- 1\. per le ferrovie elettriche, compreso gl’incrociamenti delle vie ferrate con linee elettriche a corrente forte e l’impianto di queste ultime lungo le ferrovie, come pure per l’incrociamento di ferrovie elettriche con linee a corrente debole, all’Ufficio federale dei trasporti;
-- 2\. per gli altri impianti a corrente debole e a corrente forte compreso l’impianto delle macchine elettriche, a un Ispettorato[^21-2] da designarsi dal Consiglio federale.
+- a.
 
-[^21-1]: Nuovo testo giusta l’all. n. 11 della LF del 30 apr. 1997 sull’azienda delle telecomunicazioni, in vigore dal 1° gen. 1998 ([RU 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^21-2]: Nuova denominazione giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Di detta mod. è tenuto conto in tutto il presente testo.
+  all’Ufficio federale dei trasporti per:
+
+  - 1\. gli impianti elettrici propri della ferrovia,
+  - 2\. gli impianti elettrici necessari alla sicurezza e all’affidabilità dell’esercizio ferroviario,
+  - 3\. le parti e i sistemi elettrici di veicoli ferroviari;
+
+- b. a un Ispettorato da designarsi dal Consiglio federale per gli altri impianti elettrici e per i prodotti elettrici.
+
+[^21-1]: Nuovo testo giusta il n. II della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 22
 

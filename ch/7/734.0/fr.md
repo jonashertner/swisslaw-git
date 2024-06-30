@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 juin 1902 concernant les installations électriques
 short: LIE
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/fr"
 
 (Loi sur les installations électriques, LIE)[^t-1]
 
-du 24 juin 1902 (État le 1<sup>er</sup> septembre 2023)
+du 24 juin 1902 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Parenthèse introduite par l’app. ch. 11 de la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -530,11 +530,17 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 Le contrôle de l’exécution des prescriptions mentionnées à l’art. 3 est confié:
 
-- 1\. pour les chemins de fer électriques et le croisement des voies ferrées par des lignes électriques à fort courant ou l’établissement de ces dernières le long des chemins de fer, ainsi que pour le croisement des chemins de fer électriques par des lignes à courant faible, à l’Office fédéral des transports;
-- 2\. pour les autres installations à faible et à fort courant, y compris les machines électriques, à une inspection[^21-2] spéciale désignée par le Conseil fédéral.
+- a.
 
-[^21-1]: Nouvelle teneur selon l’app. ch. 11 de la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^21-2]: Nouvelle expression selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Il a été tenu compte de cette mod. dans tout le texte.
+  à l’Office fédéral des transports pour:
+
+  - 1\. les installations électriques spécifiques aux chemins de fer,
+  - 2\. les installations électriques nécessaires à la sécurité et à la fiabilité de l’exploitation ferroviaire,
+  - 3\. les parties et systèmes électriques des véhicules ferroviaires;
+
+- b. à une inspection désignée par le Conseil fédéral pour les autres installations électriques et pour les matériels électriques.
+
+[^21-1]: Nouvelle teneur selon le ch. II de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 22
 

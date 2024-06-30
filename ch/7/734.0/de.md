@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. Juni 1902 betreffend die elektrischen Schwach- und 
 short: EleG
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20230901/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20240701/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20230901/de"
 
 (Elektrizitätsgesetz, EleG)[^t-1]
 
-vom 24. Juni 1902 (Stand am 1. September 2023)
+vom 24. Juni 1902 (Stand am 1. Juli 2024)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 11 des Telekommunikationsunternehmungsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -530,11 +530,17 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 Die Kontrolle über die Ausführung der in Artikel 3 erwähnten Vorschriften wird übertragen:
 
-- 1\. für die elektrischen Eisenbahnen mit Inbegriff der Bahnkreuzungen durch elektrische Starkstromleitungen und der Längsführung solcher neben Eisenbahnen sowie Kreuzung elektrischer Bahnen durch Schwachstromleitungen, dem Bundesamt für Verkehr;
-- 2\. für die übrigen Schwachstrom- und Starkstromanlagen mit Inbegriff der elektrischen Maschinen einem vom Bundesrat zu bezeichnenden Inspektorat[^21-2].
+- a.
 
-[^21-1]: Fassung gemäss Anhang Ziff. 11 des Telekommunikationsunternehmungsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^21-2]: Ausdruck gemäss Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+  dem Bundesamt für Verkehr für:
+
+  - 1\. die bahnspezifischen elektrischen Installationen und Anlagen,
+  - 2\. die elektrischen Installationen und Anlagen, die für den sicheren und zuverlässigen Eisenbahnbetrieb erforderlich sind,
+  - 3\. die elektrischen Teile und Systeme von Eisenbahnfahrzeugen;
+
+- b. einem vom Bundesrat zu bezeichnenden Inspektorat für die übrigen elektrischen Installationen und Anlagen sowie für die elektrischen Erzeugnisse.
+
+[^21-1]: Fassung gemäss Ziff. II des BG vom 29. Sept. 2023 (Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets), in Kraft seit 1. Juli 2024 ([AS 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [BBl 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 22
 
@@ -780,7 +786,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, sofern nicht nach dem Strafgeset
 
 <sup>2</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 20 000 Franken*.*[^55-6]
 
-<sup>2</sup> <sup>bis</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^55-7] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.[^55-8]
+<sup>2bis</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^55-7] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.[^55-8]
 
 <sup>3</sup> Der Bundesrat kann Widerhandlungen gegen Ausführungsvorschriften, durch welche bestimmte Tätigkeiten bewilligungspflichtig erklärt werden, mit den gleichen Strafen bedrohen.
 
