@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2016 concernente il trasporto di merci da parte 
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: it
-version: 2020-07-01
+version: 2024-07-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20200701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/it"
 
 (Ordinanza sul trasporto di merci, OTM)
 
-del 25 maggio 2016 (Stato 1° luglio 2020)
+del 25 maggio 2016 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -476,7 +476,9 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>1</sup> L’esercizio e la manutenzione dei binari di raccordo sottostanno alle disposizioni in materia di sicurezza previste dalla legislazione ferroviaria.
 
-<sup>2</sup> Per l’esercizio dei binari di raccordo non sono necessari né un’autorizzazione di sicurezza e né un certificato di sicurezza.
+<sup>2</sup> Per l’esercizio dei binari di raccordo non sono necessari né un’autorizzazione di sicurezza né un certificato di sicurezza né un sistema di gestione della sicurezza.[^31-1]
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 183](https://fedlex.data.admin.ch/eli/oc/2024/183)).
 
 #### Art. 32
 

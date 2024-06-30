@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2016 sur le transport de marchandises par des entre
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: fr
-version: 2020-07-01
+version: 2024-07-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20200701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/fr"
 
 (Ordonnance sur le transport de marchandises, OTM)
 
-du 25 mai 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 25 mai 2016 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -476,7 +476,9 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>1</sup> L’exploitation et la maintenance des voies de raccordement sont régies par les dispositions de sécurité prévues par la législation ferroviaire.
 
-<sup>2</sup> L’exploitation des voies de raccordement ne requiert ni agrément de sécurité ni certificat de sécurité.
+<sup>2</sup> L’exploitation des voies de raccordement ne requiert ni agrément de sécurité, ni certificat de sécurité, ni système de gestion de la sécurité.[^31-1]
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 183](https://fedlex.data.admin.ch/eli/oc/2024/183)).
 
 #### Art. 32
 
@@ -634,7 +636,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-4]
+…[^annexu1-lvlu1-4]
 
 [^annexu1-lvlu1-1]: [[RO 2009 5953](https://fedlex.data.admin.ch/eli/oc/2009/728)]
 [^annexu1-lvlu1-2]: [[RO 1992 573](https://fedlex.data.admin.ch/eli/oc/1992/573_573_573), [1994 10](https://fedlex.data.admin.ch/eli/oc/1994/10_10_10)ch. I 4, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 3, [2009 6013](https://fedlex.data.admin.ch/eli/oc/2009/735)]

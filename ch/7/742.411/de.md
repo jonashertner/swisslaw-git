@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2016 über den Gütertransport durch Bahn- und Sc
 short: GüTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: de
-version: 2020-07-01
+version: 2024-07-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20200701/de"
 
 (Gütertransportverordnung, GüTV)
 
-vom 25. Mai 2016 (Stand am 1. Juli 2020)
+vom 25. Mai 2016 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -476,7 +476,9 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>1</sup> Für den Betrieb und die Instandhaltung von Anschlussgleisen gelten die Sicherheitsbestimmungen der Eisenbahngesetzgebung.
 
-<sup>2</sup> Für den Betrieb von Anschlussgleisen sind weder eine Sicherheitsgenehmigung noch eine Sicherheitsbescheinigung erforderlich.
+<sup>2</sup> Für den Betrieb von Anschlussgleisen sind weder eine Sicherheitsgenehmigung noch eine Sicherheitsbescheinigung noch ein Sicherheitsmanagementsystem erforderlich.[^31-1]
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 183](https://fedlex.data.admin.ch/eli/oc/2024/183)).
 
 #### Art. 32
 
@@ -634,7 +636,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-4]
+…[^annexu1-lvlu1-4]
 
 [^annexu1-lvlu1-1]: [[AS 2009 5953](https://fedlex.data.admin.ch/eli/oc/2009/728)]
 [^annexu1-lvlu1-2]: [[AS 1992 573](https://fedlex.data.admin.ch/eli/oc/1992/573_573_573), [1994 10](https://fedlex.data.admin.ch/eli/oc/1994/10_10_10)Ziff. I 4, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 3, [2009 6013](https://fedlex.data.admin.ch/eli/oc/2009/735)]
