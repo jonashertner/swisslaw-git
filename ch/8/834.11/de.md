@@ -4,11 +4,11 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/de"
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2024)
+vom 24. November 2004 (Stand am 1. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -394,11 +394,14 @@ Der Nachweis, dass das Neugeborene unmittelbar nach der Geburt ununterbrochen w�
 
 **Ende des Anspruchs der Mutter**[^25-1]
 
-### (Art. 16*d* EOG)
+### (Art. 16*d* Abs. 3 erster Teilsatz EOG)
+
+[^25-2]
 
 Der Anspruch der Mutter auf Entschädigung endet am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 ### 2. Abschnitt: Mindestversicherungsdauer
 
@@ -590,7 +593,7 @@ Die Entschädigung der Mutter und des andern Elternteils, die gleichzeitig Arbei
 
 #### Art. 34
 
-**Z[uständige Ausgleichskasse](https://www.fedlex.admin.ch/eli/cc/2005/187/de)**[^34-1]
+**Zuständige Ausgleichskasse**[^34-1]
 
 ### (Art. 17–19 EOG)
 
@@ -618,7 +621,10 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 
 <sup>3</sup> Der Arbeitgeber, bei dem der andere Elternteil während seines Urlaubs angestellt ist, oder die Arbeitslosenkasse des andern Elternteils bescheinigt den Bezug der Urlaubstage.
 
+<sup>4</sup> Die zuständige Stelle stellt der Mutter, die als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter reicht diese Bescheinigung der Ausgleichkasse ein.[^34a-2]
+
 [^34a-1]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^34a-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 #### Art. 35
 

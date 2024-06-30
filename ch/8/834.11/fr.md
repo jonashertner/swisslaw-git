@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/fr"
 
 (OAPG)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2024)
+du 24 novembre 2004 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
@@ -387,17 +387,15 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+**Art. 25**[^24-2] Extinction du droit de la mère
 
-#### Art. 25
-
-**Extinction du droit de la mère**[^25-1]
-
-### (art. 16*d* LAPG)
+(art. 16*d*, al. 3, première partie de la phrase, LAPG)[^24-3]
 
 Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend une activité lucrative, quel que soit son taux d’occupation.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 ### Section 2 Durée minimale de l’affiliation
 
@@ -617,7 +615,10 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 <sup>3</sup> L’employeur auprès duquel l’autre parent est engagé durant son congé ou la caisse de chômage de l’autre parent atteste que les jours de congé ont été pris.
 
+<sup>4</sup> L’organe compétent délivre à la mère qui participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal, une attestation confirmant qu’aucune suppléance n’est prévue pour ces séances. La mère remet cette attestation à la caisse de compensation.[^34a-2]
+
 [^34a-1]: Introduit par le ch. I de l’O du 21 oct. 2020 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^34a-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 #### Art. 35
 

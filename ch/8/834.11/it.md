@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° gennaio 2024)
+del 24 novembre 2004 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -391,11 +391,14 @@ La prova che il neonato deve restare in ospedale per almeno due settimane consec
 
 **Estinzione del diritto all’indennità di maternità**[^25-1]
 
-### (art. 16*d* LIPG)
+### (art. 16*d* cpv. 3 prima parte del periodo LIPG)
+
+[^25-2]
 
 Il diritto all’indennità di maternità si estingue il giorno in cui la madre riprende l’attività lucrativa, indipendentemente dal grado di occupazione.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 ### Sezione 2: Durata minima del periodo d’assicurazione
 
@@ -615,7 +618,10 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>3</sup> Il datore di lavoro presso il quale l’altro genitore è impiegato durante il suo congedo o la cassa di disoccupazione dell’altro genitore attesta la fruizione dei giorni di congedo.
 
+<sup>4</sup> L’organo competente rilascia alla madre che partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, un attestato secondo cui per le sedute in questione non è prevista una supplenza. La madre inoltra questo attestato alla cassa di compensazione.[^34a-2]
+
 [^34a-1]: Introdotto dal n. I dell’O del 21 ott. 2020 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^34a-2]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
 
 #### Art. 35
 
