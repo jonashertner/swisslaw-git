@@ -3,20 +3,19 @@ canton: AG
 number: "997.100"
 title: Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt
 language: de
-version: 2016-02-15
-valid_until: 2024-06-30
-version_adopted: 2015-08-18
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 1980-05-07
 in_force: 1981-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2167/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt
 
-Vom 07.05.1980 (Stand 15.02.2016)
+Vom 07.05.1980 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -199,9 +198,7 @@ beschliesst:
 
 #### § 18
 
-**Hafengebühren**
-
-<sup>1</sup> Die Gebühren für den Betrieb von Hafen- und Umschlagsanlagen setzt der Regierungsrat fest. Bemessungsgrundlage ist das Gewicht der Umschlagsgüter. Der Ansatz pro Tonne darf Fr. 10.– nicht übersteigen.
+**…**
 
 #### § 19
 
@@ -231,13 +228,7 @@ beschliesst:
 
 #### § 21
 
-**Übergangsrecht**
-
-<sup>1</sup> Für die im Zeitpunkt des Inkrafttretens dieses Gesetzes immatrikulierten Schiffe werden die Steuern erstmals nach Ablauf der nach altem Recht erteilten Betriebsbewilligungen erhoben. Nach altem Recht bezahlte Gebühren werden nicht zurückerstattet.
-
-<sup>2</sup> Allen im Zeitpunkt des Inkrafttretens dieses Gesetzes auf dem Hallwilersee immatrikulierten Schiffen wird die Zulassungsbewilligung gemäss § 5 erteilt.
-
-<sup>3</sup> Die zur Immatrikulation auf dem Hallwilersee angemeldeten Schiffe werden am Tage nach dem Inkrafttreten dieses Gesetzes gemäss § 5 zugelassen. Reicht das Kontingent für die Berücksichtigungen aller Anmeldungen nicht aus, so entscheidet das Los. Das Los bestimmt auch die Reihenfolge der Eintragung der nicht berücksichtigten Halter in die Warteliste.
+**…**
 
 Aarau, den 7. Mai 1980
 
