@@ -4,13 +4,13 @@ number: "123.121"
 title: Vollziehungsverordnung zum Bundesgesetz über die Ausweise für Schweizer Staatsangehörige
 short: VV Ausweisgesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-09-27
+version: 2024-07-01
+valid_until: 2026-10-31
+version_adopted: 2024-03-13
 adopted: 2002-12-18
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/123.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3363/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3363/pdf_file"
 
 (VV Ausweisgesetz)
 
-Vom 18.12.2002 (Stand 01.01.2024)
+Vom 18.12.2002 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die Art. 4 Abs. 1, 4a Abs. 1, 5 Abs. 1 und 12 Abs. 2 lit. d und e des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG) vom 22. Juni 2001[^ingress-1], Art. 9 Abs. 2 der Verordnung über die Ausweise für Schweizer Staatsangehörige (Ausweisverordnung, VAwG) vom 20. September 2002[^ingress-2] und auf die §§ 1 Abs. 1 lit. b und d sowie 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-3],
+gestützt auf die Art. 4 Abs. 1, 4a Abs. 1, 5 Abs. 1 und 12 Abs. 2 lit. d und e des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG) vom 22. Juni 2001[^ingress-1] sowie Art. 9 Abs. 2 der Verordnung über die Ausweise für Schweizer Staatsangehörige (Ausweisverordnung, VAwG) vom 20. September 2002[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SR [143.1](https://db.clex.ch/link/Bund/143.1/de)
 [^ingress-2]: SR [143.11](https://db.clex.ch/link/Bund/143.11/de)
-[^ingress-3]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 #### § 1
 
