@@ -4,13 +4,13 @@ number: "405.112"
 title: Verordnung über die Schuldienste
 short: V Schuldienste
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-09-07
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2017-05-03
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/405.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3245/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3673/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3245/pdf_file"
 
 (V Schuldienste)
 
-Vom 03.05.2017 (Stand 01.01.2023)
+Vom 03.05.2017 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,13 +57,7 @@ beschliesst:
 
 #### § 4
 
-**Kostenpflichtige Leistungen**
-
-<sup>1</sup> Folgende Leistungen des Schulpsychologischen Dienstes werden zu kostendeckenden Tarifen erbracht:
-
-- a) Mediation im schulischen Kontext,
-- b) Mitwirkung an Weiterbildungsveranstaltungen von privatrechtlichen Organisationen,
-- c) Supervision für Lehrpersonen und Schulleitungen.
+**…**
 
 #### § 5
 
@@ -156,17 +150,7 @@ beschliesst:
 
 #### § 11
 
-**Kostenpflichtige Leistungen und Preise**
-
-<sup>1</sup> Folgende Angebote und Leistungen sind für die Leistungsbezügerinnen und -bezüger kostenpflichtig:
-
-- a) Berufs-, Studien- und Laufbahnberatung für Personen mit abgeschlossener Ausbildung auf Sekundarstufe II, die das 25. Altersjahr vollendet haben,
-- b) Leistungen, die über das Grundangebot gemäss § 10 Abs. 5 hinaus bezogen werden,
-- c) zusätzliche Angebote und Leistungen, die nicht zum unentgeltlichen Grundangebot zählen.
-
-<sup>2</sup> Angebote und Leistungen gemäss Absatz 1 sind zu Vollkosten deckenden Preisen anzubieten.
-
-<sup>3</sup> In Härtefällen kann die Kostenpflicht auf Gesuch hin ganz oder teilweise aufgehoben werden.
+**…**
 
 #### § 12
 
@@ -218,9 +202,9 @@ beschliesst:
 
 **e) Besondere Befugnisse**
 
-<sup>1</sup> Die Leistungserbringenden legen die Preise gemäss § 11 Abs. 2 fest.
+<sup>1</sup> …
 
-<sup>2</sup> Sie haben im Rahmen der übertragenen Aufgaben Verfügungskompetenz.
+<sup>2</sup> Die Leistungserbringenden haben im Rahmen der übertragenen Aufgaben Verfügungskompetenz.
 
 ## 5. Schulsozialarbeit
 
