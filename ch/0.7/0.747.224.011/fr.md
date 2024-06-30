@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2023-12-19
+version: 2024-07-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20231219-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20231219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 19 décembre 2023)
+(État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -59,6 +59,7 @@ Aux fins de l’application de la présente Convention les termes suivants dési
 - h) «bateau à passagers»: un bateau construit et aménagé pour le transport de passagers;
 - i) «navire de mer»: bateau admis à la navigation maritime ou côtière et affecté à titre principal à cette navigation;
 - j)[^1-3] «station de réception»: installation fixe ou mobile agréée par les autorités compétentes pour recueillir les déchets survenant à bord ou les vapeurs;
+- k) «conducteur»: personne qui assure la conduite du bâtiment;
 - l) «bâtiment motorisé»: bâtiment dont les moteurs principaux ou auxiliaires, à l’exclusion des moteurs des guindeaux d’ancres, sont des moteurs à combustion interne;
 - m) «gazole»: carburant exempté de droits de douane et d’autres droits et destiné aux bateaux de navigation intérieure;
 - n) «station d’avitaillement»: station où les bâtiments s’approvisionnent en gazole;
@@ -353,7 +354,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) et les Am. du 19 déc. 2023, en vigueur depuis le 19 déc. 2023 ([RO 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) et les Am. du 19 déc. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -556,7 +557,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/fr/xml/image/image1.png)</sub>
 
 où:
 
@@ -705,14 +706,26 @@ Lors du déchargement des restes ainsi que du dépôt et de la réception de dé
 
 <sup>(4)</sup> Le bâtiment ne peut poursuivre son voyage après le déchargement que lorsque le conducteur aura confirmé dans l’attestation de déchargement que la cargaison restante ainsi que les résidus de manutention ont été pris en charge.
 
-<sup>(5)</sup> Les dispositions du par. 4 ci-dessus ne s’appliquent pas aux bâtiments effectuant des transports exclusifs.
+(4*a*) Le bâtiment ne peut poursuivre son voyage après le déchargement qu’aux conditions suivantes:
+
+- – Une attestation de déchargement a été présentée par le destinataire de la cargaison ou, si le destinataire de la cargaison ou l’affréteur fait appel aux services d’une installation de manutention, par l’exploitant de l’installation de manutention (art. 7.08).
+- – Le conducteur a confirmé, par la signature de la partie 2 a) de l’attestation de déchargement, que toutes les mesures relatives au déchargement du bâtiment, telles qu’indiquées par le destinataire de la cargaison ou l’installation de manutention dans les cases 1 à 10, ont été exécutées. Cela comprend la désignation d’une station de réception pour la prise en charge des déchets ou des vapeurs du bâtiment (art. 7.01, par. 1).
+
+(4*b*) Pendant le voyage, le conducteur a l’obligation de déclarer par sa signature dans la partie 2 b) de l’attestation de déchargement:
+
+- – si de l’eau de lavage a été produite (lors du lavage pendant le voyage);
+- – la quantité d’eau de lavage produite à bord et son emplacement de stockage;
+- – s’il existait une cargaison suivante compatible après le départ de l’installation de manutention (art. 7.04, par. 3, let. c).
+
+<sup>(5)</sup> Pour les bâtiments qui effectuent des transports exclusifs ne s’appliquent que l’élimination et la prise en charge des résidus de manutention.
 
 <sup>(6)</sup>
 
-Lorsque les cales ou citernes:
+Si les cales ou les citernes à cargaison sont lavées et si l’eau de lavage produite ne peut être déversée dans la voie d’eau conformément aux standards de déchargement et aux exigences de l’appendice III relatives au dépôt et à la réception, le bateau ne peut poursuivre son voyage qu’après confirmation dans l’attestation de déchargement:
 
-- a) doivent être lavées et que les eaux de lavage ne peuvent pas être déversées dans la voie d’eau en vertu des standards de déchargement et des prescriptions de l’appendice III relatives au dépôt et à la réception, le bâtiment ne peut poursuivre son voyage que lorsque le conducteur aura confirmé dans l’attestation de déchargement que les eaux de lavage ont été prises en dépôt ou qu’une station de réception lui a été désignée;
-- b) doivent être dégazées en vertu des standards de dégazage visés à l’appendice IIIa, le bâtiment ne peut poursuivre son voyage que lorsque le conducteur aura confirmé dans l’attestation de déchargement que les citernes à cargaison ont été dégazées ou qu’une station de réception lui a été désignée pour le dégazage.
+- – que l’installation de manutention a pris en charge l’eau de lavage, ou
+- – qu’une station de réception a été désignée au conducteur, et
+- – que le conducteur a indiqué si les cales ou les citernes à cargaison seront lavées pendant le voyage.
 
 <sup>(7)</sup> La présente disposition ne s’applique pas au transport de cargaisons mixtes à bord de tels bateaux.
 
@@ -793,15 +806,25 @@ Dans le cas:
   - aa) un état lavé, si le bâtiment a transporté des marchandises dont les résidus de cargaison mélangés aux eaux de lavage ne peuvent être déversés dans la voie d’eau en vertu des standards de déchargement et des prescriptions relatives au dépôt et à la réception visés à l’appendice III,
   - bb) un état dégazé, si le bâtiment a transporté des marchandises dont les vapeurs ne peuvent être ventilées dans l’atmosphère en vertu des standards de dégazage et des prescriptions relatives au dépôt et à la réception visés à l’appendice IIIa.
 
-<sup>(3)</sup>
+- (3) a) Les par. 1 et 2 ci-dessus ne s’appliquent pas aux cales et citernes à cargaison de bâtiments effectuant des transports exclusifs pour autant que lors d’un chargement suivant, les vapeurs au sens de l’appendice III*a* soient recueillies par l’installation de manutention et ne soient pas libérées dans l’atmosphère. Le transporteur doit être en mesure de fournir un justificatif écrit. Dans ce cas doit être cochée la case 6a) de l’attestation de déchargement. Le justificatif doit être conservé à bord.
+- b) Le paragraphe 2 ne s’applique pas aux cales et citernes à cargaison de bâtiments effectuant des transports compatibles pour autant que lors d’un chargement suivant, les vapeurs au sens de l’Appendice IIIa soient recueillies par l’installation de manutention et ne soient pas libérées dans l’atmosphère. Le transporteur doit être en mesure de fournir un justificatif écrit. Dans ce cas doit être cochée la case 6b) de l’attestation de déchargement. Le justificatif doit être conservé à bord jusqu’au déchargement de la cargaison suivante compatible.
+-
 
-Les par. 1 et 2 ci-dessus s’appliquent avec les exceptions suivantes:
+  Les dispositions de l’appendice IIIa ne s’appliquent plus si le conducteur peut, une fois le chargement terminé et avant de quitter l’installation de manutention, démontrer:
 
-- a) Les par. 1 et 2 ci-dessus ne s’appliquent pas aux cales et citernes à cargaison de bâtiments effectuant des transports exclusifs pour autant que lors d’un chargement suivant, les vapeurs au sens de l’appendice IIIa soient recueillies par l’installation de manutention et ne soient pas libérées dans l’atmosphère. Le transporteur doit être en mesure de fournir un justificatif écrit.
-- b) Le par. 2 ne s’applique pas aux cales et citernes à cargaison de bâtiments effectuant des transports compatibles pour autant que lors d’un chargement suivant, les vapeurs au sens de l’appendice IIIa soient recueillies par l’installation de manutention et ne soient pas libérées dans l’atmosphère. Le transporteur doit être en mesure de fournir un justificatif écrit. Dans ce cas doit être cochée la case 6b) de l’attestation de déchargement. Le justificatif doit être conservé à bord jusqu’au déchargement de la cargaison suivante compatible.
-- c) Si la cargaison suivante n’est pas encore connue au moment du déchargement, mais qu’il s’agira selon toute vraisemblance d’une cargaison compatible, l’application du par. 2 peut être reportée. L’affréteur (en cas de cargaison liquide) ou le destinataire de la cargaison (en cas de cargaison sèche) doit désigner à titre provisoire une station de réception pour l’eau de lavage ou pour un dégazage, qui doit être inscrite dans l’attestation de déchargement. En outre doit être cochée la case 6c) de l’attestation de déchargement. L’indication de la quantité au numéro 9 n’est pas nécessaire.
-- Si la compatibilité de la cargaison suivante est établie et peut être démontrée avant que le transporteur ne gagne la station de réception indiquée dans l’attestation de déchargement, cela doit être indiqué au numéro 13 de l’attestation de déchargement. Dans ce cas, un lavage ou un dégazage n’est pas nécessaire. Si tel n’est pas le cas, les dispositions relatives au lavage ou au dégazage sont pleinement applicables.
+  - – que, pour chaque citerne à cargaison séparée, les trois cargaisons suivantes étaient constituées d’un produit qui ne tombe pas sous l’interdiction énoncée à l’appendice IIIa, si ces citernes étaient remplies au moins à 50 %, ou
+  - – que chaque citerne à cargaison séparée était remplie au moins à 95 % d’un produit qui ne tombe pas sous une interdiction énoncée à l’appendice IIIa, ou
+  - – que les vapeurs ont été recueillies dans les conditions prévues à l’appendice IIIa.
+
+- c) Si la cargaison suivante n’est pas encore connue au moment du déchargement, mais qu’il s’agira selon toute vraisemblance d’une cargaison compatible, l’application du paragraphe 2 peut être reportée. L’affréteur (en cas de cargaison liquide) ou le destinataire de la cargaison (en cas de cargaison sèche) doit désigner à titre provisoire une station de réception pour l’eau de lavage ou pour un dégazage, qui doit être inscrite dans l’attestation de déchargement. En outre doit être cochée la case 6c) de l’attestation de déchargement. Si la compatibilité de la cargaison suivante est établie et peut être démontrée avant que le transporteur ou le conducteur ne gagne la station de réception indiquée dans l’attestation de déchargement, cela doit être indiqué au numéro 13 de l’attestation de déchargement. Et si, lors d’un chargement suivant, il est possible de recueillir les vapeurs dont la libération dans l’atmosphère est interdite conformément à l’appendice IIIa (tableaux I à III), le conducteur l’indique au numéro 13 de la partie 2 b) de l’attestation de déchargement. Dans ce cas, un lavage ou un dégazage n’est pas nécessaire. Si tel n’est pas le cas, les dispositions relatives au lavage ou au dégazage sont pleinement applicables.
 - Le justificatif concernant la cargaison suivante compatible doit être conservé à bord jusqu’au déchargement de la cargaison suivante compatible.
+-
+
+  Les dispositions de l’appendice IIIa ne s’appliquent plus si le conducteur peut, une fois le chargement terminé et avant de quitter l’installation de manutention, démontrer:
+
+  - – que, pour chaque citerne à cargaison séparée, les trois cargaisons suivantes étaient constituées d’un produit qui ne tombe pas sous l’interdiction énoncée à l’appendice IIIa, si ces citernes étaient remplies au moins à 50 %, ou
+  - – que chaque citerne à cargaison séparée était remplie au moins à 95 % d’un produit qui ne tombe pas sous une interdiction énoncée à l’appendice IIIa, ou
+  - – que les vapeurs ont été recueillies dans les conditions prévues à l’appendice IIIa.
 
 <sup>(4)</sup> Si, à l’issue de la durée de déchargement ou des jours de staries convenus, le destinataire de la cargaison ou l’affréteur ne restitue pas le bâtiment conformément aux dispositions du présent article et de l’art. 7.03 ci‑dessus, le transporteur peut mettre ou faire mettre le bâtiment dans l’état prescrit. Tous les frais occasionnés, y compris notamment les frais de surestaries, pour autant qu’ils ne sont pas imputables au transporteur, sont à la charge du destinataire de la cargaison ou de l’affréteur.
 
@@ -858,7 +881,11 @@ Lorsque l’affréteur ou le destinataire de la cargaison fait appel aux service
 
 **Documents de transport**
 
-L’affréteur mentionne dans le contrat de transport et dans les documents de transport le nom et le numéro à quatre chiffres selon l’appendice III de chaque catégorie de matières qu’il a remise au transport.
+L’affréteur fournit les informations suivantes dans le contrat de transport et dans les documents de transport:
+
+- – le nom et le numéro à quatre chiffres selon l’appendice III de chaque catégorie de matières qu’il a remise au transport, et
+- – le numéro ONU selon l’appendice III*a*, et
+- – la valeur AVFL variable (en raison de la composition du mélange), si elle ne figure pas dans la colonne 3 des tableaux I à III de l’appendice III*a*.
 
 ### Partie C Collecte, dépôt et réception d’autres déchets survenant lors de l’exploitation du bâtiment
 
@@ -980,6 +1007,12 @@ Pour l’application des dispositions de la présente annexe qui résultent de l
 **Dérogations**
 
 Les Parties contractantes peuvent convenir de dérogations aux dispositions de la présente annexe dans des cas individuels, pour autant que celles‑ci soient réputées équivalentes. Les dérogations doivent être approuvées par la Conférence des Parties Contractantes et peuvent être autorisées par les autorités compétentes avec effet immédiat pour le champ d’application défini et aux conditions définies.
+
+### Appendices
+
+[^annexu1-chapIV-lvlu15-1]
+
+[^annexu1-chapIV-lvlu15-1]: Les appendices I à V ne sont pas publiés dans le RO et le RS. Ils peuvent être consultés sur le site [www.cdni-iwt.org](https://www.cdni-iwt.org/) &gt; Documents &gt; La Convention CDNI &gt; Résolutions ou commandés auprès du dépositaire: Commission centrale pour la navigation du Rhin (CCNR), Palais du Rhin, 2 place de la République, F-67082 Strasbourg CEDEX.
 
 Champ d’application le 13 octobre 2009
 

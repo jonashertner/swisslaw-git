@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2023-12-19
+version: 2024-07-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20231219-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20231219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 19. Dezember 2023)
+(Stand am 1. Juli 2024)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -353,7 +353,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und der am 19. Dez. 2023 von der Konferenz der Vertragsparteien angenommen Änd., in Kraft seit 19. Dez. 2023 ([AS 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und den am 19. Dez. 2023 von der Konferenz der Vertragsparteien angenommen Änd., in Kraft seit 1. Juli 2024 ([AS 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -556,7 +556,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
@@ -706,14 +706,26 @@ Bei der Restentladung sowie bei der Abgabe und Annahme von Abfällen aus dem Lad
 
 <sup>(4)</sup> Das Fahrzeug darf nach dem Entladen die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass die Restladung sowie Umschlagsrückstände übernommen worden sind.
 
-<sup>(5)</sup> Absatz 4 findet keine Anwendung auf Fahrzeuge, die Einheitstransporte durchführen.
+(4a) Das Fahrzeug darf nach dem Entladen die Fahrt nur unter folgenden Bedingungen fortsetzen:
+
+- – Der Ladungsempfänger oder, wenn sich der Ladungsempfänger oder der Befrachter einer Umschlagsanlage bedient, der Betreiber der Umschlagsanlage hat eine Entladebescheinigung vorgelegt (Artikel 7.08).
+- – Der Schiffsführer hat durch die Unterzeichnung von Teil 2 a) der Entladebescheinigung bestätigt, dass alle Maßnahmen im Zusammenhang mit dem Entladen des Fahrzeugs wie vom Ladungsempfänger oder der Umschlagsanlage in den Feldern 1 bis 10 angegeben durchgeführt wurden. Dies schließt die Zuweisung einer Annahmestelle für die Übernahme der Abfälle oder Dämpfe des Fahrzeugs ein (Artikel 7.01 Absatz 1).
+
+(4b) Während der Fahrt ist der Schiffsführer verpflichtet, folgende Angaben in Teil 2 b) der Entladebescheinigung durch Unterzeichnung zu erklären:
+
+- – ob Waschwasser entstanden ist (beim Waschen während der Fahrt);
+- – welche Menge Waschwasser an Bord entstanden ist und dessen Unterbringungsort;
+- – ob eine kompatible Folgeladung nach dem Verlassen der Umschlagsanlage vorlag (Artikel 7.04 Absatz 3 Buchstabe c).
+
+<sup>(5)</sup> Auf Fahrzeuge, die Einheitstransporte durchführen, finden nur die Beseitigung und die Übernahme von Umschlagsrückständen Anwendung.
 
 <sup>(6)</sup>
 
-Werden Laderäume oder Ladetanks:
+Werden Laderäume oder Ladetanks gewaschen und darf das dabei entstandene Waschwasser gemäß den Entladungsstandards und den Abgabe- und Annahmevorschriften gemäß Anhang III nicht in das Gewässer eingeleitet werden, darf das Fahrzeug die Fahrt erst fortsetzen, nachdem in der Entladebescheinigung bestätigt wurde:
 
-- a) gewaschen und darf das Waschwasser nach den Entladungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III nicht in das Gewässer eingeleitet werden, darf das Fahrzeug die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass dieses Waschwasser übernommen oder ihm eine Annahmestelle zugewiesen worden ist;
-- b) nach den Entgasungsstandards des Anhangs III*a* entgast, darf das Fahrzeug die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass die Ladetanks entgast worden sind oder dem Schiffsführer eine Annahmestelle zur Entgasung zugewiesen worden ist.
+- – dass die Umschlagsanlage das Waschwasser übernommen hat; oder
+- – dem Schiffsführer eine Annahmestelle zugewiesen wurde; und
+- – der Schiffsführer mitgeteilt hat, ob die Laderäume oder Ladetanks während der Fahrt gewaschen werden.
 
 <sup>(7)</sup> Diese Bestimmung findet keine Anwendung auf den Transport gemischter Ladungen mit solchen Fahrzeugen.
 
@@ -794,15 +806,25 @@ Im Falle:
   - aa) waschreinen Ladetank zu sorgen, wenn das Fahrzeug Güter befördert hat, deren Ladungsrückstände nach den Entladungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III nicht mit dem Waschwasser in das Gewässer eingeleitet werden dürfen,
   - bb) entgasten Ladetank zu sorgen, wenn das Fahrzeug Güter befördert hat, deren Dämpfe nach den Entgasungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III*a* nicht in die Atmosphäre ventiliert werden dürfen.
 
-<sup>(3)</sup>
+- (3) a) Die Absätze 1 und 2 finden keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die Einheitstransporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang IIIa von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6a) angekreuzt werden. Der Nachweis ist an Bord mitzuführen.
+- b) Absatz 2 findet keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die kompatible Transporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang IIIa von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6b) angekreuzt werden. Der Nachweis ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
+-
 
-Für die Anwendung der Absätze 1 und 2 gelten folgende Ausnahmen:
+  Die Bestimmungen von Anhang IIIa finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
 
-- a) Die Absätze 1 und 2 finden keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die Einheitstransporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang III*a* von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können.
-- b) Absatz 2 findet keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die kompatible Transporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang III*a* von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6b) angekreuzt werden. Der Nachweis ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
-- c) Falls zum Zeitpunkt der Entladung die Folgeladung noch nicht bekannt ist, aber es sich voraussichtlich um eine kompatible Ladung handeln wird, kann die Anwendung von Absatz 2 hinausgeschoben werden. Der Befrachter (bei flüssiger Ladung) oder der Ladungsempfänger (bei trockener Ladung) muss vorläufig eine Annahmestelle für das Waschwasser oder für eine Entgasung bezeichnen, die in die Entladebescheinigung einzutragen ist. Zusätzlich muss in der Entladebescheinigung das Feld 6c) angekreuzt werden. Die Mengenangabe unter Nummer 9 entfällt.
-- Sofern vor Anlauf der in der Entladebescheinigung angegebenen Annahmestelle durch den Frachtführer nachweisbar feststeht, dass die Folgeladung kompatibel ist, muss dies in der Entladebescheinigung in Feld 13 angegeben werden In diesem Fall braucht nicht gewaschen oder entgast zu werden. Andernfalls gelten die Bestimmungen zum Waschen uneingeschränkt.
+  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang IIIa fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
+  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang IIIa fällt; oder
+  - – die Dämpfe gemäss den in Anhang IIIa vorgesehenen Bedingungen erfasst wurden.
+
+- (c) Falls zum Zeitpunkt der Entladung die Folgeladung noch nicht bekannt ist, aber es sich voraussichtlich um eine kompatible Ladung handeln wird, kann die Anwendung von Absatz 2 hinausgeschoben werden. Der Befrachter (bei flüssiger Ladung) oder der Ladungsempfänger (bei trockener Ladung) muss vorläufig eine Annahmestelle für das Waschwasser oder für eine Entgasung bezeichnen, die in die Entladebescheinigung einzutragen ist. Zusätzlich muss in der Entladebescheinigung das Feld 6c) angekreuzt werden. Sofern vor Anlauf der in der Entladebescheinigung angegebenen Annahmestelle durch den Frachtführer/Schiffsführer nachweisbar feststeht, dass die Folgeladung kompatibel ist und es bei einer folgenden Ladung möglich ist, die Dämpfe, die nach Anhang IIIa (Tabellen I bis III) nicht in die Atmosphäre freigesetzt werden dürfen, zu erfassen, gibt der Schiffsführer dies in Feld 13 von Teil 2 b) der Entladebescheinigung an. In diesem Fall braucht nicht gewaschen oder entgast zu werden. Andernfalls gelten die Bestimmungen zum Waschen oder zum Entgasen uneingeschränkt.
 - Der Nachweis bezüglich der kompatiblen Folgeladung ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
+-
+
+  Die Bestimmungen von Anhang IIIa finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
+
+  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang IIIa fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
+  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang IIIa fällt; oder
+  - – die Dämpfe gemäss den in Anhang IIIa vorgesehenen Bedingungen erfasst wurden.
 
 <sup>(4)</sup> Wenn der Ladungsempfänger oder der Befrachter das Fahrzeug nach der vereinbarten Entladezeit oder den vereinbarten Liegetagen nicht entsprechend den Bestimmungen dieses Artikels sowie des Artikels 7.03 abliefert, kann der Frachtführer das Fahrzeug in den vorgeschriebenen Zustand bringen oder bringen lassen. Sämtliche Kosten einschliesslich der dadurch entstehenden Liegegelder, soweit diese nicht auf ein Verschulden des Frachtführers zurückzuführen sind, gehen zu Lasten des Ladungsempfängers oder des Befrachters.
 
@@ -859,7 +881,11 @@ Bedient sich der Befrachter oder der Ladungsempfänger beim Beladen oder beim En
 
 **Beförderungspapiere**
 
-Der Befrachter gibt in dem Transportauftrag und in den Beförderungspapieren die Bezeichnung und die vierstellige Nummer nach Anhang III für jede Güterart an, die er zum Transport in Auftrag gegeben hat.
+Der Befrachter gibt in dem Transportauftrag und in den Beförderungspapieren folgende Informationen an:
+
+- – die Bezeichnung und die vierstellige Nummer nach Anhang III für jede Güterart, die er zum Transport in Auftrag gegeben hat; und
+- – die UN-Nummer nach Anhang III*a*; und
+- – den variablen AVFL-Wert (aufgrund der Zusammensetzung der Mischung), wenn er nicht in Spalte 3 der Tabellen I bis III in Anhang III*a* angegeben ist.
 
 ### Teil C Sammlung, Abgabe und Annahme von sonstigen Schiffsbetriebsabfällen
 
