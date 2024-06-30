@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novemb
 short: OEMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: fr
-version: 2022-07-01
+version: 2024-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/fr"
 
 (Ordonnance sur les exigences relatives aux médicaments, OEMéd)
 
-du 9 novembre 2001 (Etat le 1<sup>er</sup> juillet 2022)
+du 9 novembre 2001 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -419,7 +419,7 @@ Swissmedic libère les lots dans la mesure où ils satisfont aux spécifications
 
 [^22-1]: Abrogé par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-## Section 5*a***** Modifications de l’autorisation de mise sur le marché des médicaments au sens des art. 21 à 24, 25*a* et 25*b* OMéd****
+## Section 5*a* Modifications de l’autorisation de mise sur le marché des médicaments au sens des art. 21 à 24, 25*a* et 25*b* OMéd
 
 [^sec5a-1][^sec5a-2]
 
@@ -460,7 +460,7 @@ Les modifications entrant dans les différentes catégories au sens des art. 21 
 
 <sup>3</sup> Si différents délais sont prévus pour l’examen des modifications, le délai le plus long s’applique à l’examen de la demande multiple.
 
-## Section 6 Disposition transitoire et dispositions finales****
+## Section 6 Disposition transitoire et dispositions finales
 
 [^sec6-1]
 
@@ -506,7 +506,7 @@ Les modifications entrant dans les différentes catégories au sens des art. 21 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 12, al. 1)
 
@@ -588,7 +588,7 @@ Annexe 1*[^t-1]*
 
 <sup>2</sup> La catégorie de remise doit figurer sur chaque emballage individuel.
 
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 (art. 12, al. 2)
 
@@ -663,7 +663,7 @@ Annexe 1a*[^t-2]*
 
 <sup>2</sup> La catégorie de remise doit figurer sur chaque emballage individuel.
 
-Annexe 1b*[^t-3]*
+Annexe 1b[^t-3]
 
 (art. 12, al. 2)
 
@@ -717,14 +717,13 @@ Annexe 1b*[^t-3]*
 ### 3 Étiquetage de la catégorie de remise
 
 - 3\.1 La catégorie de remise attribuée par Swissmedic doit figurer sur l’emballage extérieur ou, à défaut, sur le récipient.
+- 3\.2 La catégorie de remise doit figurer sur chaque emballage individuel.
 
-3.2 La catégorie de remise doit figurer sur chaque emballage individuel.
-
-Annexe 2*[^t-4]*
+Annexe 2[^t-4]
 
 [^t-4]: Abrogée par le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-Annexe 3*[^t-5]*
+Annexe 3[^t-5]
 
 (art. 14*b*)
 
@@ -760,20 +759,20 @@ Annexe 3*[^t-5]*
 
 ### 2 Excipients revêtant un intérêt particulier
 
-- [tab] Les excipients au sens de l’annexe 3*a* revêtent un intérêt particulier. Les mises en garde à employer découlent également de l’annexe 3*a*.
+Les excipients au sens de l’annexe 3*a* revêtent un intérêt particulier. Les mises en garde à employer découlent également de l’annexe 3*a*.
 
-Annexe 3a*[^t-6]*
+Annexe 3a[^t-6]
 
 (art. 14*b*)
 
-## Liste des excipients pharmaceutiques revêtant un intérêt particulier****
+## Liste des excipients pharmaceutiques revêtant un intérêt particulier
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Introduite par le ch. II al. 4 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)).
-[^annex3a-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-6]: Introduite par le ch. II al. 4 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 8 mai 2020 ([RO 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^annex3a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
 
-Annexe 4*[^t-7]*
+Annexe 4[^t-7]
 
 (art. 13)
 
@@ -831,7 +830,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td>20.</td><td>Mise à jour de l’information</td></tr>
 </table>
 
-Annexe 5.1*[^t-8]*
+Annexe 5.1[^t-8]
 
 (art. 14)
 
@@ -872,7 +871,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <table>
 <tr><th colspan="2">Ordre d’énumération</th><th colspan="2">Titre/texte obligatoire</th></tr>
 <tr><td colspan="2">1.</td><td colspan="2">«Information destinée aux patients» Médicaments soumis à ordonnance: «Lisez attentivement cette notice d’emballage avant de prendre ou d’utiliser ce médicament. Ce médicament vous a été remis personnellement sur ordonnance médicale. Ne le remettez donc pas à d’autres personnes, même si elles semblent présenter les mêmes symptômes que vous. En effet, ce médicament pourrait nuire à leur santé. Conservez cette notice d’emballage pour pouvoir la relire plus tard si nécessaire.» Médicaments non soumis à ordonnance: «Lisez attentivement cette notice d’emballage. Vous y trouverez tous les renseignements importants concernant ce médicament. Ce médicament vous a été prescrit par votre médecin ou vous a été remis sans ordonnance par votre pharmacien ou votre droguiste. Pour en tirer le meilleur bénéfice, veuillez l’utiliser conformément à la notice d’emballage ou, le cas échéant, aux indications de votre médecin ou de votre pharmacien (ou de votre droguiste\*). Conservez cette notice d’emballage pour pouvoir la relire plus tard si nécessaire.» \* uniquement pour les préparations de la catégorie de remise D</td></tr>
-<tr><td colspan="2">2.</td><td colspan="2">… (Nom de la préparation)</td></tr>
+<tr><td colspan="2">2.</td><td colspan="2">*… (Nom de la préparation)*</td></tr>
 <tr><td colspan="2">3.</td><td colspan="2">«Qu’est-ce que le … et quand doit-il être utilisé?» Médicaments soumis à ordonnance: «Selon prescription du médecin.»</td></tr>
 <tr><td colspan="2">4.</td><td colspan="2">«De quoi faut-il tenir compte en dehors du traitement?»</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Mise en garde pour les diabétiques: «Ce médicament contient … g d’hydrates de carbone digestibles par dose simple.»</td></tr>
@@ -888,11 +887,11 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td colspan="2">12.</td><td colspan="2">«Numéro d’autorisation» Numéro d’autorisation (délivré par Swissmedic)</td></tr>
 <tr><td colspan="2">13.</td><td colspan="2">«Où obtenez-vous …? Quels sont les emballages à disposition sur le marché?» – «En pharmacie, seulement sur ordonnance médicale non renouvelable.» – «En pharmacie, sur ordonnance médicale.» – «En pharmacie, sans ordonnance médicale.» – «En pharmacie et en droguerie, sans ordonnance médicale.»</td></tr>
 <tr><td colspan="2">14.</td><td colspan="2">«Titulaire de l’autorisation» (raison sociale et siège selon extrait du registre du commerce) Cette mention peut également figurer à la suite de l’information destinée aux patients dans les trois langues</td></tr>
-<tr><td colspan="2">15.</td><td colspan="2">**«Fabricant»** *(mention facultative)*</td></tr>
+<tr><td colspan="2">15.</td><td colspan="2">«Fabricant» *(mention facultative)*</td></tr>
 <tr><td colspan="2">16.</td><td colspan="2">«Cette notice d’emballage a été vérifiée pour la dernière fois en … (mois/année) par l’autorité de contrôle des médicaments (Swissmedic).»</td></tr>
 </table>
 
-Annexe 5.2*[^t-9]*
+Annexe 5.2[^t-9]
 
 (art. 14)
 
@@ -939,7 +938,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td></td><td>Le cas échéant: «Sur la base des expériences faites à ce jour, aucun risque pour l’enfant n’est connu si ce médicament est utilisé conformément à l’usage auquel il est destiné. Toutefois, aucune étude scientifique systématique n’a été effectuée. Par mesure de précaution, vous devriez renoncer si possible à prendre des médicaments durant la grossesse et l’allaitement, ou demander l’avis de votre médecin ou de votre pharmacien (ou de votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D Sous réserve d’indications plus strictes dans certains cas, p. ex. pour les médicaments contenant de l’alcool</td></tr>
 <tr><td>8.</td><td>«Comment utiliser …?» Médicaments soumis à ordonnance: «Ne changez pas de votre propre chef le dosage prescrit. Adressez-vous à votre médecin ou à votre pharmacien si vous estimez que l’efficacité du médicament est trop faible ou au contraire trop forte.» Préparations injectables soumises à ordonnance et administrées directement par le médecin: «Posologie / mode d’emploi: …» Médicaments soumis à ordonnance pour lesquels on ne dispose d’aucune donnée chez l’enfant et l’adolescent: «Posologie pour l’adulte / mode d’emploi chez l’adulte: …» «Pour l’enfant et l’adolescent, l’utilisation et la sécurité d’emploi de … n’ont pas été étudiées à ce jour.» Médicaments non soumis à ordonnance: «Veuillez vous conformer au dosage figurant sur la notice d’emballage ou prescrit par votre médecin. En l’absence de l’amélioration escomptée lors d’un traitement chez le petit enfant / l’enfant, veuillez consulter un médecin. Si vous estimez que l’efficacité du médicament est trop faible ou au contraire trop forte, veuillez vous adresser à votre médecin ou à votre pharmacien (ou à votre droguiste\*).» Médicaments non soumis à ordonnance, lorsque des informations sont données pour l’enfant et l’adolescent ou que l’emploi est exclu pour ce groupe d’âge sur la base d’un champ d’application spécifique ou d’une substance particulière: «Veuillez vous conformer au dosage figurant sur la notice d’emballage ou prescrit par votre médecin. Si vous estimez que l’efficacité du médicament est trop faible ou au contraire trop forte, veuillez vous adresser à votre médecin, à votre pharmacien ou à votre droguiste.» \* seulement pour les préparations de la catégorie de remise D</td></tr>
 <tr><td>9.</td><td>«Quels effets secondaires … peut-il provoquer?» «Si vous remarquez des effets secondaires, veuillez en informer votre médecin, votre pharmacien (ou votre droguiste\*). Ceci vaut en particulier pour les effets secondaires non mentionnés dans cette notice d’emballage.» *Médicaments homéopathiques:* «La prise de médicaments homéopathiques peut aggraver passagèrement les troubles (aggravation initiale). Si cette aggravation persiste, cessez le traitement avec … et informez-en votre médecin ou votre pharmacien (ou votre droguiste\*).» Si aucun effet secondaire n’est connu, introduire la formule suivante: «Aucun effet secondaire de … n’a été constaté à ce jour en cas d’usage conforme à celui auquel le médicament est destiné.» «Si vous remarquez toutefois des effets secondaires, veuillez en informer votre médecin ou votre pharmacien (ou votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D</td></tr>
-<tr><td></td><td>Médicaments contenant un colorant azoïque<sup>1</sup>: «Peut déclencher des réactions d’hypersensibilité au niveau des organes cutanés et des organes respiratoires, en particulier chez les patients souffrant d’asthme, d’urticaire (chronique) ou d’hypersensibilité à l’acide acétylsalicylique ou à d’autres antirhumatismaux et analgésiques.» <sup>1</sup> *Cette mention peut généralement être supprimée pour les produits dermatolo**g**i**ques*</td></tr>
+<tr><td></td><td>Médicaments contenant un colorant azoïque<sup>1</sup>: «Peut déclencher des réactions d’hypersensibilité au niveau des organes cutanés et des organes respiratoires, en particulier chez les patients souffrant d’asthme, d’urticaire (chronique) ou d’hypersensibilité à l’acide acétylsalicylique ou à d’autres antirhumatismaux et analgésiques.» <sup>1</sup> *Cette mention peut généralement être supprimée pour les produits* *dermatolo**giques*</td></tr>
 <tr><td></td><td>Si aucun effet secondaire n’est connu, introduire la formule suivante: «Aucun effet secondaire de … n’a été constaté à ce jour en cas d’usage conforme à celui auquel le médicament est destiné.» «Si vous remarquez toutefois des effets secondaires, veuillez en informer votre médecin ou votre pharmacien (ou votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D</td></tr>
 <tr><td>10.</td><td>«À quoi faut-il encore faire attention?» «Ce médicament ne doit pas être utilisé au-delà de la date figurant après la mention ‹EXP› sur le récipient.»<sup>1</sup> Instructions de stockage. Mise en garde à propos des enfants. «Pour de plus amples renseignements, consultez votre médecin ou votre pharmacien (ou votre droguiste\*), qui disposent d’une information détaillée destinée aux professionnels<sup>2</sup>.» \* seulement pour les préparations de la catégorie de remise D <sup>1</sup> *Cette mention est supprimée lorsque l’indication «à utiliser jusqu’à …» figure sur le récipient.* <sup>2</sup> *sauf pour les préparations n’ayant que l’information destinée aux patients*</td></tr>
 <tr><td>11.</td><td>«Que contient …?» *Principes actifs:* désignation des composants actifs dans les trois langues officielles. Déclaration en latin moderne possible dans les cas dûment justifiés. Forme pharmaceutique et quantité de principe actif par unité. Le cas échéant: Excipients *(désignation abrégée dans les trois langues officielles avec mention des numéros E)*</td></tr>
@@ -950,7 +949,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td>16.</td><td>«Cette notice d’emballage a été vérifiée pour la dernière fois en … (mois/année) par l’autorité de contrôle des médicaments (Swissmedic).»</td></tr>
 </table>
 
-Annexe 5.3*[^t-10]*
+Annexe 5.3[^t-10]
 
 (art. 14)
 
@@ -1018,7 +1017,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td>16.</td><td>«Cette notice d’emballage a été vérifiée pour la dernière fois en … (mois/année) par l’autorité de contrôle des médicaments (Swissmedic).»</td></tr>
 </table>
 
-Annexe 5.4*[^t-11]*
+Annexe 5.4[^t-11]
 
 (art. 14)
 
@@ -1041,11 +1040,11 @@ Contenu du texte obligatoire:
 
 Information destinée aux patients
 
-Médicament issu de la médecine traditionnelle chinoise (*ou tibétaine ou ayurvéd**i**que*), à utiliser selon les principes thérapeutiques de la médecine chinoise (*ou tib**é**taine ou ayurvédique*); son emploi et sa sécurité reposent exclusivement sur l’expérience traditionnelle et n’ont fait l’objet d’aucun contrôle étatique. Le médicament doit donc être utilisé uniquement sur prescription ou recommandation d’un professionnel spécialement formé à la médecine chinoise [*ou tibétaine ou ayurvéd**i**que*].
+Médicament issu de la médecine traditionnelle chinoise (*ou tibétaine ou ayurvédique*), à utiliser selon les principes thérapeutiques de la médecine chinoise (*ou tibétaine ou ayurvédique*); son emploi et sa sécurité reposent exclusivement sur l’expérience traditionnelle et n’ont fait l’objet d’aucun contrôle étatique. Le médicament doit donc être utilisé uniquement sur prescription ou recommandation d’un professionnel spécialement formé à la médecine chinoise [*ou tibétaine ou ayurvédique*].
 
 Quand ce médicament doit-il être utilisé?
 
-Ce médicament vous a été remis sur prescription ou recommandation de votre médecin ou de votre thérapeute spécialement formé à la médecine chinoise *[ou tib**é**taine ou ayurvédique]*. Veillez à l’utiliser en respectant scrupuleusement les indications fournies par le spécialiste (médecin, thérapeute, pharmacien ou droguiste) qui vous l’a prescrit ou remis.
+Ce médicament vous a été remis sur prescription ou recommandation de votre médecin ou de votre thérapeute spécialement formé à la médecine chinoise *[ou tibétaine ou ayurvédique]*. Veillez à l’utiliser en respectant scrupuleusement les indications fournies par le spécialiste (médecin, thérapeute, pharmacien ou droguiste) qui vous l’a prescrit ou remis.
 
 De quoi faut-il tenir compte lors de son utilisation?
 
@@ -1079,7 +1078,7 @@ L’utilisation de médicaments, même issus de la médecine chinoise *[ou tibé
 
 Pour autant que votre médecin ou votre thérapeute n’en ait pas décidé autrement, ce médicament est destiné à une utilisation immédiate et ne doit donc pas être conservé en vue d’un traitement ultérieur. Tous les médicaments, y compris les granulés et les plantes, doivent être entreposés dans un endroit sec et à l’abri de la lumière, à température ambiante (15 à 25 °C) et hors de portée des enfants.
 
-Ce médicament ne doit pas être utilisé au-delà de la date figurant après la mention «EXP» sur le récipient. *[Cette mention est supprimée lorsque l’indication «à util**i**ser jusqu’à» figure sur tous les récipients].*
+Ce médicament ne doit pas être utilisé au-delà de la date figurant après la mention «EXP» sur le récipient. *[Cette mention est supprimée lorsque l’indication «à utiliser jusqu’à» figure sur tous les récipients].*
 
 Pour de plus amples renseignements, consultez le spécialiste qui vous suit ou qui vous a remis le médicament.
 
@@ -1087,7 +1086,7 @@ Titulaire de l’autorisation
 
 [raison sociale et siège du titulaire de l’autorisation]
 
-Annexe 6*[^t-12]*
+Annexe 6[^t-12]
 
 (art. 12, 13, 14 et 14*b*)
 
@@ -1196,28 +1195,28 @@ Annexe 6*[^t-12]*
 <tr><td>15.</td><td>Autres informations (taille d’emballages)</td></tr>
 </table>
 
-Annexe 7*[^t-13]*
+Annexe 7[^t-13]
 
 (art. 22*a*)
 
-## Liste des modifications pour les médicaments à usage humain au sens des art. 21 à 24 OMéd****
+## Liste des modifications pour les médicaments à usage humain au sens des art. 21 à 24 OMéd
 
 [^annex7-lvlu1-1]
 
 [^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 22 avr. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
 [^annex7-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 7a*[^t-14]*
+Annexe 7a[^t-14]
 
 (art. 22*a*)
 
-## Liste des modifications pour les médicaments vétérinaires au sens des art. 25*a* et 25*b* OMéd****
+## Liste des modifications pour les médicaments vétérinaires au sens des art. 25*a* et 25*b* OMéd
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^annex7a-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-14]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^annex7a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
 
-Annexes 8 et 9*[^t-15]*
+Annexes 8 et 9[^t-15]
 
 [^t-15]: Introduites par le ch. II de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogées par le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).

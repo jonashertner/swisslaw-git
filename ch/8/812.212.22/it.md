@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novemb
 short: OOMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: it
-version: 2022-07-01
+version: 2024-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/it"
 
 (Ordinanza per l’omologazione di medicamenti, OOMed)
 
-del 9 novembre 2001 (Stato 1° luglio 2022)
+del 9 novembre 2001 (Stato 1° luglio 2024)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -40,7 +40,7 @@ ordina:
 <sup>2</sup> Sono fatte salve le disposizioni speciali per i medicamenti complementari e fitoterapeutici secondo l’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 7 settembre 2018[^1-1] concernente l’omologazione semplificata e la procedura di notifica dei medicamenti complementari e fitoterapeutici (OMCF).[^1-2]
 
 [^1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
-[^1-2]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 2
 
@@ -220,7 +220,11 @@ Se sono state compiute analisi su animali da reddito, devono essere valutati a t
 - a. i potenziali effetti nocivi sull’uomo di residui del principio attivo presente in derrate alimentari ottenute con animali trattati e le difficoltà che possono comportare tali residui nella fabbricazione industriale di derrate alimentari;
 - b. i rischi per l’ambiente che l’impiego del medicamento per uso veterinario può comportare;
 - c. i termini d’attesa necessari per il medicamento per uso veterinario.
-- [tab] <sup>2</sup> La documentazione sulla non nocività deve contenere inoltre dati e documenti su:
+
+<sup>2</sup>
+
+La documentazione sulla non nocività deve contenere inoltre dati e documenti su:
+
 - a. le proprietà microbiologiche dei residui;
 - b. la ecotossicità.
 
@@ -416,16 +420,21 @@ Swissmedic libera una partita se essa soddisfa le specifiche di qualità omologa
 
 [^22-1]: Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-## Sezione 5*a*:**** Modifiche dell’omologazione di medicamenti secondo gli articoli 21–24, 25*a* e 25*b* OM****
+## Sezione 5*a*: Modifiche dell’omologazione di medicamenti secondo gli articoli 21–24, 25*a* e 25*b* OM
 
 [^sec5a-1][^sec5a-2]
 
 [^sec5a-1]: Introdotta dal n. I dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 [^sec5a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
-**Art. 22**a*[^sec5a-3]* Classificazione delle modifiche
+#### Art. 22a
 
-Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a* e 25*b* OM[^sec5a-4], le condizioni da soddisfare all’occorrenza e i documenti da presentare in ciascun caso sono riportati agli allegati 7 e 7*a*.
+**Classificazione delle modifiche**[^22a-1]
+
+Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a* e 25*b* OM[^22a-2], le condizioni da soddisfare all’occorrenza e i documenti da presentare in ciascun caso sono riportati agli allegati 7 e 7*a*.
+
+[^22a-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
 #### Art. 22b
 
@@ -439,8 +448,6 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 <sup>4</sup> È considerato testo collettivo il testo di un’informazione professionale o, se questa non è disponibile, di un foglietto illustrativo comune per diverse forme farmaceutiche dello stesso principio attivo.
 
-[^sec5a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^sec5a-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 [^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 [^22b-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
@@ -454,7 +461,7 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 <sup>3</sup> Se per valutare le diverse modifiche sono previste scadenze diverse, per la valutazione della domanda multipla si applica quella più lunga.
 
-## Sezione 6: Disposizioni transitorie e finali****
+## Sezione 6: Disposizioni transitorie e finali
 
 [^sec6-1]
 
@@ -500,7 +507,7 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 La presente ordinanza entra in vigore il 1° gennaio 2002.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 12 cpv. 1)
 
@@ -582,7 +589,7 @@ Allegato 1*[^t-1]*
 
 <sup>2</sup> La caratterizzazione della categoria di dispensazione deve figurare su ogni confezione separata.
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-2]
 
 (art. 12 cpv. 2)
 
@@ -657,7 +664,7 @@ Allegato 1a*[^t-2]*
 
 <sup>2</sup> La caratterizzazione della categoria di dispensazione deve figurare su ogni confezione separata.
 
-Allegato 1b*[^t-3]*
+Allegato 1b[^t-3]
 
 (art. 12 cpv. 2)
 
@@ -713,11 +720,11 @@ Allegato 1b*[^t-3]*
 - 3\.1 La categoria di dispensazione attribuita da Swissmedic deve figurare sulla confezione esterna o, in sua assenza, sul contenitore.
 - 3\.2 La caratterizzazione della categoria di dispensazione deve figurare su ogni confezione separata.
 
-Allegato 2*[^t-4]*
+Allegato 2[^t-4]
 
 [^t-4]: Abrogato dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-Allegato 3*[^t-5]*
+Allegato 3[^t-5]
 
 (art. 14*b*)
 
@@ -755,18 +762,18 @@ Allegato 3*[^t-5]*
 
 Le sostanze ausiliarie ai sensi dell’allegato 3*a* sono di particolare interesse. Le avvertenze da utilizzare si basano anch’esse sull’allegato 3*a*.
 
-Allegato 3a*[^t-6]*
+Allegato 3a[^t-6]
 
 (art. 14*b*)
 
-## Lista delle sostanze ausiliarie farmaceutiche di particolare interesse****
+## Lista delle sostanze ausiliarie farmaceutiche di particolare interesse
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Introdotto dal n. II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)).
-[^annex3a-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-6]: Introdotto dal n. II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^annex3a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 4*[^t-7]*
+Allegato 4[^t-7]
 
 (art. 13)
 
@@ -812,7 +819,7 @@ I testi devono essere pubblicati nella forma prescritta da Swissmedic.
 <tr><td>8.</td><td>Interazioni</td></tr>
 <tr><td>9.</td><td>Gravidanza, allattamento</td></tr>
 <tr><td>10.</td><td>Effetti sulla capacità di condurre veicoli e sull’impiego di macchine</td></tr>
-<tr><td>11.</td><td>Effetti indesiderati «La notifica di effetti collaterali sospetti dopo l’omologazione del medicamento è molto importante. Consente una sorveglianza continua del rapporto rischio-beneficio del medicamento. Chi esercita una professione sanitaria è invitato a segnalare qualsiasi nuovo o grave effetto collaterale sospetto attraverso il portale online ElViS (Electronic Vigilance System). Maggiori informazioni sul sito www.swissmedic.ch.»</td></tr>
+<tr><td>11.</td><td>Effetti indesiderati «La notifica di effetti collaterali sospetti dopo l’omologazione del medicamento è molto importante. Consente una sorveglianza continua del rapporto rischio-beneficio del medicamento. Chi esercita una professione sanitaria è invitato a segnalare qualsiasi nuovo o grave effetto collaterale sospetto attraverso il portale online ElViS (Electronic Vigilance System). Maggiori informazioni sul sito www.swissmedic.ch»</td></tr>
 <tr><td>12.</td><td>Posologia eccessiva</td></tr>
 <tr><td>13</td><td>Proprietà / effetti – codice ATC – meccanismo d’azione – farmacodinamica – efficacia clinica – eventualmente l’approvazione da parte di Swissmedic secondo cui il richiedente ottiene una deroga all’obbligo di presentare i risultati degli studi in una o più fasce d’età della popolazione pediatrica o per una o più indicazioni, oppure debba avviare o concludere una o più misure del piano d’indagine pediatrica in un secondo momento – eventualmente l’informazione che il medicamento è stato omologato per un periodo limitato e a condizioni particolari.</td></tr>
 <tr><td>14.</td><td>Farmacocinetica – assorbimento, distribuzione, metabolismo, eliminazione – cinetica di gruppi di pazienti speciali</td></tr>
@@ -824,7 +831,7 @@ I testi devono essere pubblicati nella forma prescritta da Swissmedic.
 <tr><td>20.</td><td>Stato dell’informazione</td></tr>
 </table>
 
-Allegato 5.1*[^t-8]*
+Allegato 5.1[^t-8]
 
 (art. 14)
 
@@ -882,7 +889,7 @@ I testi devono essere pubblicati nella forma prescritta da Swissmedic.
 <tr><td colspan="2">16.</td><td colspan="2">«Questo foglietto illustrativo è stato controllato l’ultima volta nel … (mese/anno) dall’autorità competente in materia di medicamenti (Swissmedic).»</td></tr>
 </table>
 
-Allegato 5.2*[^t-9]*
+Allegato 5.2[^t-9]
 
 (art. 14)
 
@@ -934,7 +941,7 @@ I testi devono essere pubblicati nella forma prescritta da Swissmedic.
 <tr><td>16.</td><td>«Questo foglietto illustrativo è stato controllato l’ultima volta nel … (mese/anno) dall’autorità competente in materia di medicamenti (Swissmedic).»</td></tr>
 </table>
 
-Allegato 5.3*[^t-10]*
+Allegato 5.3[^t-10]
 
 (art. 14)
 
@@ -990,7 +997,7 @@ I testi devono essere pubblicati nella forma prescritta da Swissmedic.
 <tr><td>16.</td><td>«Questo foglietto illustrativo è stato controllato l’ultima volta nel … (mese/anno) dall’autorità competente in materia di medicamenti (Swissmedic).»</td></tr>
 </table>
 
-Allegato 5.4*[^t-11]*
+Allegato 5.4[^t-11]
 
 (art. 14)
 
@@ -1013,19 +1020,19 @@ Contenuto del testo fisso:
 
 ### Informazione destinata ai pazienti
 
-Medicamento tradizionale cinese *[o tibetano oppure ayurvedico]* da usare secondo i principi terapeutici della medicina cinese *[o tibetana oppure ayurved**i**ca]*. L’uso e la sicurezza si basano esclusivamente sull’esperienza tradizionale e non sono esaminati da un’autorità. Il medicamento deve quindi essere utilizzato solo su prescrizione o raccomandazione di uno specialista qualificato appositamente nella medicina cinese *[o tibetana oppure ayurvedica]*.
+Medicamento tradizionale cinese *[o tibetano oppure ayurvedico]* da usare secondo i principi terapeutici della medicina cinese *[o tibetana oppure ayurvedica]*. L’uso e la sicurezza si basano esclusivamente sull’esperienza tradizionale e non sono esaminati da un’autorità. Il medicamento deve quindi essere utilizzato solo su prescrizione o raccomandazione di uno specialista qualificato appositamente nella medicina cinese *[o tibetana oppure ayurvedica]*.
 
-### Quando si usa questo medicamento?
+Quando si usa questo medicamento?
 
-Lei ha ricevuto questo medicamento su prescrizione o raccomandazione dal suo medico o terapeuta qualificato nella medicina cinese *[o tibetana oppure ayurved**i**ca]*. Segua attentamente le istruzioni dello specialista responsabile per la prescrizione o la dispensazione (medico, terapeuta, farmacista o droghiere).
+Lei ha ricevuto questo medicamento su prescrizione o raccomandazione dal suo medico o terapeuta qualificato nella medicina cinese *[o tibetana oppure ayurvedica]*. Segua attentamente le istruzioni dello specialista responsabile per la prescrizione o la dispensazione (medico, terapeuta, farmacista o droghiere).
 
-### Di che cosa occorre tener conto durante l’uso?
+Di che cosa occorre tener conto durante l’uso?
 
 Possono manifestarsi interazioni con altri medicamenti. Informi lo specialista curante o che le ha dispensato il medicamento se, oltre a questo medicamento, assume o usa altri medicamenti soggetti a prescrizione oppure acquistati di sua iniziativa o se soffre di altre malattie o allergie.
 
-### Quando non si può usare questo medicamento o quando il suo uso richiede prudenza?
+Quando non si può usare questo medicamento o quando il suo uso richiede prudenza?
 
-Per l’uso nei bambini la posologia deve essere fissata individualmente da un medico o da un terapeuta qualificato sia nella medicina cinese *[o tibetana oppure ayuverd**i**ca]* che nel trattamento di bambini. A tal proposito sono prese in considerazione la potenza del medicamento nonché l’età e il peso del bambino. Siccome l’organismo di un bambino reagisce con sensibilità alla somministrazione di medicamenti e potrebbero manifestarsi rapidamente cambiamenti, soprattutto un peggioramento dello stato morboso, la terapia deve essere controllata per tutta la sua durata dal medico o dal terapeuta responsabile, affinché si possa intervenire tempestivamente.
+Per l’uso nei bambini la posologia deve essere fissata individualmente da un medico o da un terapeuta qualificato sia nella medicina cinese *[o tibetana oppure ayuverdica]* che nel trattamento di bambini. A tal proposito sono prese in considerazione la potenza del medicamento nonché l’età e il peso del bambino. Siccome l’organismo di un bambino reagisce con sensibilità alla somministrazione di medicamenti e potrebbero manifestarsi rapidamente cambiamenti, soprattutto un peggioramento dello stato morboso, la terapia deve essere controllata per tutta la sua durata dal medico o dal terapeuta responsabile, affinché si possa intervenire tempestivamente.
 
 Gli effetti indesiderati meno severi negli adulti, come ad esempio nausea o diarrea, possono avere gravi conseguenze nei bambini e, pertanto, devono essere immediatamente segnalati al medico o al terapeuta curante.
 
@@ -1033,33 +1040,33 @@ Se si manifestano nuovi sintomi o i sintomi attuali peggiorano improvvisamente, 
 
 Se soffre di allergie conosciute dovrebbe usare questo medicamento solo dopo aver consultato il suo medico o il suo terapeuta. In caso di problemi epatici o renali, la somministrazione di questo medicamento deve essere raccomandata solo su controllo medico. Prima di un’operazione, informi il suo medico sul fatto che assume medicamenti cinesi *[o tibetani oppure ayuverdici]*.
 
-### Si può usare questo medicamento durante la gravidanza o l’allattamento?
+Si può usare questo medicamento durante la gravidanza o l’allattamento?
 
 Per prudenza dovrebbe rinunciare nella misura del possibile ad assumere medicamenti durante la gravidanza e il periodo di allattamento. Tuttavia, non sono ancora state eseguite indagini scientifiche sistematiche per provare la non nocività dei medicamenti tradizionali asiatici (cinesi, tibetani o ayurvedici) durante la gravidanza e l’allattamento. Informi il suo medico o il suo terapeuta se è in stato interessante di modo che non le siano prescritte o raccomandate erbe da non usare in questo periodo.
 
-### Come usare questo medicamento?
+Come usare questo medicamento?
 
 La posologia definita per lei dal suo medico o dal suo terapeuta figura separatamente sul testo della confezione del medicamento. Si attenga alla posologia prescritta o raccomandata e informi il medico o il terapeuta se ritiene che l’azione del medicamento sia troppo debole o troppo forte.
 
 Segua le istruzioni indicate dal suo medico o del suo terapeuta per l’uso delle singole preparazioni.
 
-### Quali effetti collaterali può avere questo medicamento?
+Quali effetti collaterali può avere questo medicamento?
 
 Possono manifestarsi effetti collaterali anche durante l’uso di medicamenti cinesi *[o tibetani oppure ayurvedici]*. Durante l’uso conforme alle disposizioni per certi preparati sono stati osservati finora segnatamente nausea, perdita dell’appetito, senso di pesantezza allo stomaco, riflussi gastrici, costipazione o diarrea, allergie, eruzioni cutanee e mal di testa. Gli effetti collaterali severi possono essere evitati perlopiù con l’uso corretto ed osservando le precauzioni descritte. È importante che lei segnali gli effetti collaterali manifestatisi allo specialista curante o che le ha dispensato il medicamento.
 
-### Di che altro occorre tener conto?
+Di che altro occorre tener conto?
 
 A condizione che il suo medico o il suo terapeuta non abbia disposto altrimenti, questo medicamento è destinato all’uso immediato e non dovrebbe essere conservato per malattie che si manifesteranno successivamente. Tutti i medicamenti, anche granulati ed erbe, devono essere conservati in luogo asciutto protetti dalla luce a temperatura ambiente (15–25 °C) e fuori dalla portata dei bambini.
 
-Il medicamento non deve essere utilizzato oltre la data indicata con «EXP» sul contenitore. *[Questa raccomandazione può essere tralasciata se sul contenit**o**re è stampata l’indicazione «*utilizzabile fino al …*»].*
+Il medicamento non deve essere utilizzato oltre la data indicata con «EXP» sul contenitore. *[Questa raccomandazione può essere tralasciata se sul contenitore è stampata l’indicazione «*utilizzabile fino al …*»].*
 
 Lo specialista curante o che le ha dispensato il medicamento può darle ulteriori informazioni.
 
-### Titolare dell’omologazione
+Titolare dell’omologazione
 
 [Ragione sociale e sede del titolare dell’omologazione]
 
-Allegato 6*[^t-12]*
+Allegato 6[^t-12]
 
 (art. 12, 13, 14 e 14*b*)
 
@@ -1168,28 +1175,28 @@ Allegato 6*[^t-12]*
 <tr><td>15.</td><td>Altre informazioni (indicazioni delle confezioni)</td></tr>
 </table>
 
-Allegato 7*[^t-13]*
+Allegato 7[^t-13]
 
 (art. 22*a*)
 
-## Lista delle modifiche per i medicamenti per uso umano secondo gli articoli 21−24 OM****
+## Lista delle modifiche per i medicamenti per uso umano secondo gli articoli 21−24 OM
 
 [^annex7-lvlu1-1]
 
 [^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 22 apr. 2022, in vigore dal 1° lug. 2022 ([RU 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
 [^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
 
-Allegato 7a*[^t-14]*
+Allegato 7a[^t-14]
 
 (art. 22*a*)
 
-## Lista delle modifiche per i medicamenti veterinari secondo gli articoli 25*a* e 25*b* OM****
+## Lista delle modifiche per i medicamenti veterinari secondo gli articoli 25*a* e 25*b* OM
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Introdotto dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^annex7a-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb, [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È consultabile online all’indirizzo: www.swissmedic.ch.
+[^t-14]: Introdotto dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^annex7a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegati 8 e 9*[^t-15]*
+Allegati 8 e 9[^t-15]
 
 [^t-15]: Introdotti dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogati dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
