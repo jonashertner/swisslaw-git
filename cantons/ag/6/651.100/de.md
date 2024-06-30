@@ -4,13 +4,13 @@ number: "651.100"
 title: Steuergesetz
 short: StG
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-12-06
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-19
 adopted: 1998-12-15
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3350/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3350/pdf_file"
 
 (StG)
 
-Vom 15.12.1998 (Stand 01.01.2024)
+Vom 15.12.1998 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -2629,7 +2629,7 @@ beschliesst:
 
 **III. Kosten 1. Veranlagungs- und Einspracheverfahren**
 
-<sup>1</sup> Im Veranlagungs- und Einspracheverfahren werden keine Kosten erhoben und keine Parteientschädigungen ausgerichtet. Vorbehalten bleibt die Erhebung von Gebühren für Mahnungen. Der Regierungsrat legt deren Höhe durch Verordnung fest.
+<sup>1</sup> Veranlagungs- und Einspracheverfahren sind unentgeltlich. Vorbehalten bleiben gebührenpflichtige Mahnungen. Es werden keine Parteientschädigungen ausgerichtet.
 
 <sup>2</sup> Der steuerpflichtigen Person oder jeder andern zur Auskunft verpflichteten Person können ausserdem die Kosten einer Bücheruntersuchung oder anderer Beweiserhebungen ganz oder teilweise auferlegt werden, wenn sie diese durch schuldhaftes Verhalten veranlasst hat.
 
@@ -3080,7 +3080,7 @@ beschliesst:
 
 #### § 224b
 
-**5ter. Juristische Personen; provisorische Rechnung**
+**5<sup>ter</sup>. Juristische Personen; provisorische Rechnung**
 
 <sup>1</sup> Für geschuldete Steuern wird für jede Steuerperiode eine provisorische Rechnung zugestellt.
 
@@ -3092,7 +3092,7 @@ beschliesst:
 
 #### § 224c
 
-**5quater. Juristische Personen; definitive Rechnung**
+**5<sup>quater</sup>. Juristische Personen; definitive Rechnung**
 
 <sup>1</sup> Über die Zinsen wird in der definitiven Rechnung oder gesondert abgerechnet.
 
@@ -3202,7 +3202,7 @@ beschliesst:
 
 <sup>5</sup> …
 
-<sup>6</sup> Das Verfahren bei Gesuchen um Zahlungserleichterungen oder Erlass und bei Anständen im Bezugsverfahren ist kostenfrei. Der gesuchstellenden Person können jedoch die Kosten ganz oder teilweise auferlegt werden, wenn sie ein offensichtlich unbegründetes Gesuch eingereicht hat. Ein Anspruch auf Parteientschädigung besteht nicht.
+<sup>6</sup> Das Verfahren bei Gesuchen um Zahlungserleichterungen oder Erlass und bei Anständen im Bezugsverfahren ist unentgeltlich. Der gesuchstellenden Person können jedoch die Kosten ganz oder teilweise auferlegt werden, wenn sie ein offensichtlich unbegründetes Gesuch eingereicht hat. Ein Anspruch auf Parteientschädigung besteht nicht.
 
 [^231-1]: SR [173.110](https://db.clex.ch/link/Bund/173.110/de)
 
