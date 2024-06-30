@@ -4,13 +4,12 @@ number: "495.200"
 title: Kulturgesetz
 short: KG
 language: de
-version: 2013-08-01
-valid_until: 2024-06-30
-version_adopted: 2012-06-05
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1751/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1751/pdf_file"
 
 (KG)
 
-Vom 31.03.2009 (Stand 01.08.2013)
+Vom 31.03.2009 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -529,6 +528,12 @@ beschliesst:
 - b) archäologischen Prospektionen im Rahmen von Umweltverträglichkeitsprüfungen.
 
 <sup>4</sup> Die Höhe der Kostenbeteiligung bestimmt sich nach deren Zumutbarkeit (Absatz 1–3) und nach der Vermeidbarkeit des Bauvorhabens (Absatz 1 und 3 lit. a). Können sich der durch das zuständige Departement vertretene Kanton und die Bauherrschaft über die Kostenbeteiligung nicht einigen, entscheidet der Regierungsrat.
+
+#### § 50a
+
+**Verfahrenskosten**
+
+<sup>1</sup> Erstinstanzliche Verfahren über die Anordnung, Bewilligung und Aufhebung von Schutzmassnahmen sowie über die Kostenbeteiligung gemäss § 50 sind unentgeltlich.
 
 #### § 51
 
