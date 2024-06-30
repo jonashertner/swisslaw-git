@@ -3,20 +3,19 @@ canton: AG
 number: "165.170"
 title: "Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen"
 language: de
-version: 2015-01-01
-valid_until: 2024-06-30
-version_adopted: 2014-11-25
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2000-03-14
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.170"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2056/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen
 
-Vom 14.03.2000 (Stand 01.01.2015)
+Vom 14.03.2000 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -83,6 +82,24 @@ beschliesst:
 <sup>2</sup> Sämtliche Entschädigungen, Sitzungsgelder und Spesen aus der Ausübung amtlicher Mandate in verwaltungsexternen Gremien sind der Staatskasse abzuliefern, wenn das Mandat in Erfüllung dienstlicher Pflichten wahrgenommen wird.
 
 ## 3. Übrige Entschädigungen
+
+#### § 5a
+
+**Entschädigungen von Zeuginnen und Zeugen sowie Auskunftspersonen**
+
+<sup>1</sup> Zeuginnen und Zeugen erhalten für das Erscheinen vor einer Behörde folgende Entschädigungen:
+
+- a) für die Zeitversäumnis einschliesslich der Reisezeit Fr. 20.– pro Stunde,
+- b) für nachgewiesenen Lohn- oder Verdienstausfall kann an Stelle der Entschädigung gemäss Litera a eine solche von bis zu Fr. 65.– pro Stunde ausgerichtet werden,
+- c) eine Spesenentschädigung gemäss § 1.
+
+<sup>2</sup> Auskunftspersonen erhalten Entschädigungen gemäss denselben Ansätzen; in besonderen Fällen kann davon abgesehen werden.
+
+#### § 5b
+
+**Entschädigungen von Sachverständigen sowie Übersetzerinnen und Übersetzern**
+
+<sup>1</sup> Die entscheidende Behörde legt die Entschädigungen von Sachverständigen sowie Übersetzerinnen und Übersetzern fest.
 
 #### § 6
 
