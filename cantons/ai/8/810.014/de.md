@@ -3,20 +3,19 @@ canton: AI
 number: "810.014"
 title: Arbeitszeitreglement
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2021-01-07
+version: 2024-07-01
+version_adopted: 2024-05-06
 adopted: 2021-01-07
 in_force: 2021-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/810.014"
-pdf: "https://ai.clex.ch/api/de/versions/1893/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Arbeitszeitreglement
 
-vom 07.01.2021 (Stand 01.01.2021)
+vom 07.01.2021 (Stand 01.07.2024)
 
 Der Verwaltungsrat des Gesundheitszentrums Appenzell
 
@@ -46,7 +45,8 @@ erlässt gestützt auf Art. 7 Abs. 2 des Gesetzes über das Gesundheitszentrum A
 
 <sup>2</sup> Die Jahressollarbeitszeit basiert auf folgenden durchschnittlichen wöchentlichen Sollarbeitszeiten:
 
-- a) Ärztinnen und Ärzte — 48 Stunden
+- a) Fachärztinnen und Fachärzte — 50 Stunden
+- a <sup>bis</sup>) Assistenzärztinnen und Assistenzärzte — 46 Stunden, einschliesslich 4 Stunden strukturierte Weiterbildung
 - b) Übrige Mitarbeitende — 42.5 Stunden
 
 <sup>3</sup> Die durchschnittliche tägliche Sollarbeitszeit beträgt ein Fünftel der durchschnittlichen wöchentlichen Sollarbeitszeit.
@@ -93,7 +93,7 @@ Bei Arbeitspensen von
 
 **Umkleidezeit**
 
-<sup>1</sup> Die Zeit, die die Mitarbeitenden benötigen, um in den Räumlichkeiten des Arbeitgebers die Dienstkleider zu wechseln, wird pauschal mit insgesamt 10 Minuten (2 x 5 Minuten) pro Tag an die Arbeitszeit angerechnet.
+<sup>1</sup> Schreibt der Arbeitgeber vor, dass Dienstkleider zu tragen sind, wird die Zeit, die die Mitarbeitenden benötigen, um in den Räumlichkeiten des Arbeitgebers die Dienstkleider zu wechseln, pauschal mit insgesamt 10 Minuten (2 x 5 Minuten) pro Tag an die Arbeitszeit angerechnet.
 
 #### Art. 7
 
@@ -140,10 +140,10 @@ Bei Arbeitspensen von
 <sup>1</sup> Es werden folgende Lohnzulagen pro Arbeitsstunde, bzw. Zeitzuschläge für Arbeit während den nachfolgend definierten besonderen Arbeitszeiten ausgerichtet:
 
 <table>
-<tr><th>Besondere Arbeitszeiten (Arbeitszeitkategorien)</th><th>Lohnzulage pro Arbeitsstunde (CHF brutto)</th><th>Zeitzuschlag</th></tr>
-<tr><td>Nacht (19:00 bis 7:00 Uhr)</td><td>6.20</td><td>-</td></tr>
+<tr><th>Besondere Arbeitszeiten (Arbeitszeitkategorien)</th><th>Lohnzulage pro Arbeitsstunde (Fr. brutto)</th><th>Zeitzuschlag</th></tr>
+<tr><td>Nacht (19:00 bis 7:00 Uhr)</td><td>6.80</td><td>-</td></tr>
 <tr><td>Nacht (22:30 bis 7:00 Uhr)</td><td>-</td><td>10%</td></tr>
-<tr><td>Samstag, Sonntag, Feiertag (7:00 bis 19:00 Uhr)</td><td>6.20</td><td>-</td></tr>
+<tr><td>Samstag, Sonntag, Feiertag (7:00 bis 19:00 Uhr)</td><td>6.80</td><td>-</td></tr>
 </table>
 
 <sup>2</sup> Eine Kumulation einer Lohnzulage einer Arbeitszeitkategorie mit einer Lohnzulage einer anderen Arbeitszeitkategorie ist ausgeschlossen.
@@ -160,7 +160,7 @@ Bei Arbeitspensen von
 
 **Pikettbereitschaft und -einsatz**
 
-<sup>1</sup> Die Pikettbereitschaft, das heisst die Bereitschaft, in der Freizeit und ausserhalb der Räumlichkeiten des Arbeitgebers während eines bestimmten Zeitraums für den Arbeitgeber erreichbar zu sein, um Piketteinsätze zu leisten, wird mit einer Lohnzulage von brutto CHF 3.20 pro Stunde, in der Pikettbereitschaft geleistet wird, vergütet.
+<sup>1</sup> Die Pikettbereitschaft, das heisst die Bereitschaft, in der Freizeit und ausserhalb der Räumlichkeiten des Arbeitgebers während eines bestimmten Zeitraums für den Arbeitgeber erreichbar zu sein, um Piketteinsätze zu leisten, wird mit einer Lohnzulage von brutto Fr. 3.20 pro Stunde, in der Pikettbereitschaft geleistet wird, vergütet.
 
 <sup>2</sup> Die im Rahmen des Pikettdienstes ausserhalb der Räumlichkeiten des Arbeitgebers zur Verfügung gestellte Zeit wird soweit an die Arbeitszeit angerechnet, als die Mitarbeitenden tatsächlich zur Arbeit herangezogen werden und einen Piketteinsatz zu leisten haben. Eine allfällige Wegzeit zu und von der Arbeit ist in diesem Fall an die Arbeitszeit anzurechnen. Die Interventionszeit (Zeitspanne zwischen dem Einsatzaufruf an die Mitarbeitenden und ihrem Eintreffen am Arbeitsort) wird vom Arbeitgeber angeordnet.
 
@@ -218,11 +218,11 @@ Bei Arbeitspensen von
 
 <sup>1</sup> Die Mitarbeitenden erfassen die Arbeitszeit nach den Weisungen des Arbeitgebers.
 
-<sup>2</sup> Die Mitglieder der Geschäftsleitung und der ärztlichen Leitung sind nicht verpflichtet, die Arbeitszeit zu erfassen.
+<sup>2</sup> Die Mitglieder der Geschäftsleitung und die Fachärztinnen und Fachärzte sind nicht verpflichtet, die Arbeitszeit zu erfassen.
 
 ## IV. Zeitsaldi
 
-### A. Geschäftsleitung und ärztliche Leitung
+### A. Geschäftsleitung
 
 #### Art. 19
 
@@ -240,13 +240,13 @@ Bei Arbeitspensen von
 
 <sup>2</sup> Per Beendigung des Arbeitsverhältnisses ausgewiesene Minusstunden werden vom Lohn abgezogen, sofern die Minusstunden von den Mitarbeitenden zu verantworten sind. Sind die Minusstunden nicht von den Mitarbeitenden zu verantworten, verfallen sie zulasten des Arbeitgebers.
 
-### B. Mitarbeitende (ohne Geschäftsleitung und ärztliche Leitung)
+### B. Mitarbeitende (ohne Geschäftsleitung)
 
 #### Art. 21
 
 **Zeitsaldo per 31. Dezember**
 
-<sup>1</sup> Per 31. Dezember bestehende Mehrstunden werden im Umfang von maximal 50 Mehrstunden auf das Folgejahr übertragen und sind so rasch wie möglich durch Freizeit von gleicher Dauer zu auszugleichen. Die 50 Mehrstunden übersteigenden Mehrstunden werden auf der Basis des Monatsgrundlohnes (brutto), ohne Anteil 13. Monatslohn, ohne Lohnzulagen und ohne Zuschlag im Januar des Folgejahrs ausbezahlt. Die Auszahlung muss vorgängig durch die Geschäftsleitung genehmigt werden.
+<sup>1</sup> Per 31. Dezember bestehende Mehrstunden werden im Umfang von maximal 50 Mehrstunden auf das Folgejahr übertragen und sind bis Ende März durch Freizeit von gleicher Dauer auszugleichen. Die 50 Mehrstunden übersteigenden Mehrstunden werden auf der Basis des Monatsgrundlohnes (brutto), ohne Anteil 13. Monatslohn, ohne Lohnzulagen und ohne Zuschlag im Januar des Folgejahrs ausbezahlt. Die Auszahlung muss vorgängig durch die Geschäftsleitung genehmigt werden.
 
 <sup>2</sup> Per 31. Dezember bestehende Minusstunden werden im Umfang von maximal 50 Minusstunden auf das Folgejahr übertragen und sind so rasch wie möglich nachzuarbeiten. Die 50 Minusstunden übersteigenden Minusstunden werden vom Lohn abgezogen, sofern sie von den Mitarbeitenden zu verantworten sind. Sind die 50 Minusstunden übersteigenden Minusstunden nicht von den Mitarbeitenden zu verantworten, verfallen sie zulasten des Arbeitgebers.
 
