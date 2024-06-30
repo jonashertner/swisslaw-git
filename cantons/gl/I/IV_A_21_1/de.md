@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/1
 title: Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-16
+version: 2024-07-01
+valid_until: 2025-03-31
+version_adopted: 2024-06-06
 adopted: 1991-01-24
 in_force: 1991-01-24
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2470/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 
-Vom 24.01.1991 (Stand 01.01.2024)
+Vom 24.01.1991 (Stand 01.07.2024)
 
 (Beschlossen an der ausserordentlichen Synode vom 24. Januar 1991)
 
@@ -2022,6 +2022,14 @@ Vom 24.01.1991 (Stand 01.01.2024)
 **Schutz der persönlichen Integrität**
 
 <sup>1</sup> Der kantonale Kirchenrat erlässt «Verhaltensgrundsätze zum Schutz der persönlichen Integrität im Bereich der kirchlichen Tätigkeit».
+
+<sup>2</sup> Sämtliche Pfarrpersonen und Angestellte der Kirchgemeinden und der Landeskirche reichen der Anstellungsinstanz jeweils auf Beginn der Amtsperiode einen Privatauszug und, sofern sie regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, einen Sonderprivatauszug aus dem Strafregister ein.
+
+<sup>3</sup> Bei Neueinstellungen ist die Einholung eines Privatauszuges und, sofern regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen gearbeitet wird, eines Sonderprivatauszuges obligatorisch.
+
+<sup>4</sup> Die Anstellungsinstanz kann Pfarrpersonen und Angestellte in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
+
+<sup>5</sup> Die Kosten der Privat- und Sonderprivatauszüge sind von der jeweiligen Anstellungsinstanz zu tragen.
 
 #### Art. 218c
 
