@@ -4,13 +4,13 @@ number: "422.200"
 title: Gesetz über die Berufs- und Weiterbildung
 short: GBW
 language: de
-version: 2018-01-01
-valid_until: 2024-06-30
-version_adopted: 2016-11-22
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2023-09-19
 adopted: 2007-03-06
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2454/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3719/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2454/pdf_file"
 
 (GBW)
 
-Vom 06.03.2007 (Stand 01.01.2018)
+Vom 06.03.2007 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -103,6 +103,14 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann durch Verordnung Vorgaben zu den fachlichen Voraussetzungen und zur Unabhängigkeit der Revisionsstelle erlassen.
 
+#### § 5c
+
+**Leistungen des Kantons und Verfahrenskosten**
+
+<sup>1</sup> Der Kanton erbringt seine Leistungen gegenüber den Berufslernenden und Studierenden, den Anbietern der beruflichen Grundbildung, den Anbietern der Bildung in beruflicher Praxis, den Organisationen der Arbeitswelt sowie den Höheren Fachschulen grundsätzlich unentgeltlich.
+
+<sup>2</sup> Die erstinstanzlichen Verfahren im Geltungsbereich dieses Gesetzes sind grundsätzlich unentgeltlich.
+
 #### § 6
 
 **Interkantonale Vereinbarungen**
@@ -139,12 +147,12 @@ beschliesst:
 
 - a) Umwandlung des Lehrverhältnisses,
 - b) Verlängerung beziehungsweise Verkürzung der Ausbildungszeit,
-- c) Bereitstellung fachkundiger individueller Begleitung im Sinne von Art. 10 Abs. 5 der bundesrätlichen Verordnung über die Berufsbildung (Berufsbildungsverordnung, BBV) vom 19. November 2003[^9-1],
+- c) Bereitstellung fachkundiger individueller Begleitung (FIB),
 - d) Ausstellung eines Kompetenznachweises bei nicht bestandenem Qualifikationsverfahren.
 
-<sup>3</sup> Der Regierungsrat regelt Ausgestaltung der Angebote, Teilnahmevoraussetzungen und Aufnahmeverfahren.
+<sup>2<sup>bis</sup></sup> Die Angebote gemäss Absatz 2 sind für die Lernenden unentgeltlich. Ausgenommen ist die FIB für Lernende der drei- oder vierjährigen beruflichen Grundbildung, für die eine Gebühr erhoben werden kann.
 
-[^9-1]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
+<sup>3</sup> Der Regierungsrat regelt Ausgestaltung der Angebote, Teilnahmevoraussetzungen und Aufnahmeverfahren.
 
 #### § 10
 
@@ -466,7 +474,7 @@ beschliesst:
 
 <sup>1</sup> Die Berufs-, Studien- und Laufbahnberatung ist in § 61 des Schulgesetzes vom 17. März 1981[^42-1] geregelt.
 
-<sup>2</sup> Zusätzlich zu den dort festgehaltenen Aufgaben kann sie Interessierte bei der Erstellung von individuellen Qualifikationsnachweisen unterstützen. Diese Dienstleistung ist kostenpflichtig.
+<sup>2</sup> Zusätzlich zu den dort festgehaltenen Aufgaben kann sie Interessierte bei der Erstellung von individuellen Qualifikationsnachweisen unterstützen. Diese Dienstleistung ist gebührenpflichtig.
 
 [^42-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
 
@@ -492,11 +500,17 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Der Kanton erhebt Gebühren für Zulassungs-, Anerkennungs-, Bewilligungs- und Qualifikationsverfahren, für Verfahren zur Feststellung der Gleichwertigkeit nicht formaler Bildung, das Ausstellen von Ausweisen und Diplomen sowie für das leihweise Überlassen von Lernmaterialien.
+<sup>1</sup> Der Kanton erhebt Gebühren für
 
-<sup>2</sup> Der Regierungsrat regelt die Höhe der Gebühren nach Massgabe des Zeitaufwands und der entstandenen Kosten. Die Gebühren für das leihweise Überlassen von Lernmaterialien betragen Fr. 100.– bis Fr. 600.– pro Semester.
+- a) das Aufnahmeverfahren in einen Lehrgang zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) und in das gestalterische Propädeutikum,
+- b) das unbegründete Fernbleiben oder Zurücktreten von der Prüfung und für die Wiederholung der Prüfung,
+- c) das Ausstellen von Ausweis-Duplikaten,
+- d) das leihweise Überlassen von Lernmaterialien,
+- e) die Beratungs- und weitere Dienstleistungen des Landwirtschaftlichen Zentrums Liebegg sowie für die Benutzung des Tagungszentrums.
 
-<sup>3</sup> Das Departement Bildung, Kultur und Sport kann in Härtefällen die Gebühren ganz oder teilweise erlassen.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### § 46
 
@@ -504,11 +518,19 @@ beschliesst:
 
 <sup>1</sup> Der Kanton erhebt für Bildungsangebote an kantonalen Schulen Schul- und Kursgelder, sofern das Berufsbildungsgesetz nicht Unentgeltlichkeit vorschreibt.
 
-<sup>2</sup> Der Regierungsrat regelt die Höhe der Schul- und Kursgelder.
+<sup>2</sup> Der Regierungsrat regelt die Höhe der Schul- und Kursgelder durch Verordnung.
 
 <sup>3</sup> Schul- und Kursgelder in der höheren Berufsbildung, der Weiterbildung und für den Besuch einer Bildung für Berufsbildungsverantwortliche müssen grundsätzlich die Vollkosten decken. Werden solche Angebote mit Beiträgen des Kantons gefördert, haben die Schul- und Kursgelder die verbleibenden Kosten zu decken.
 
+<sup>3<sup>bis</sup></sup> Liegt ein Weiterbildungsangebot weitestgehend im öffentlichen Interesse, kann der Regierungsrat die Unentgeltlichkeit durch Verordnung festlegen.
+
 <sup>4</sup> Das Departement Bildung, Kultur und Sport kann in Härtefällen die Schul- und Kursgelder ganz oder teilweise erlassen.
+
+#### § 46a
+
+**Auslagen**
+
+<sup>1</sup> Berufslernende und Studierende haben die Ausbildungsauslagen, namentlich für Unterrichts- und Modellmaterial, Drucksachen, Lager, Projektwochen, Exkursionen und Transportkosten, zu tragen.
 
 ### 8.2. Grundbildung und Vorbereitung auf die berufliche Grundbildung
 
