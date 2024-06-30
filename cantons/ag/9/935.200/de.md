@@ -4,13 +4,12 @@ number: "935.200"
 title: Einführungsgesetz zum Bundesgesetz über die Fischerei
 short: "Fischereigesetz des Kantons Aargau, AFG"
 language: de
-version: 2013-07-01
-valid_until: 2024-06-30
-version_adopted: 2012-11-20
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2012-11-20
 in_force: 2013-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1816/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1816/pdf_file"
 
 (Fischereigesetz des Kantons Aargau, AFG)
 
-Vom 20.11.2012 (Stand 01.07.2013)
+Vom 20.11.2012 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -200,7 +199,7 @@ beschliesst:
 
 <sup>3</sup> Das zuständige Departement gibt für den Hallwilersee Fischereikarten in Form von Jahres-, Wochen- und Tageskarten ab. Es kann Dritte mit der Ausgabe der Fischereikarten beauftragen.
 
-<sup>4</sup> Der Regierungsrat legt die Gebühren für Fischereikarten durch Verordnung fest.
+<sup>4</sup> …
 
 #### § 15
 
@@ -208,7 +207,7 @@ beschliesst:
 
 <sup>1</sup> Fischereiberechtigte Personen können für Rhein, Aare, Reuss und Limmat sowie für den Hallwilersee beim zuständigen Departement Fischereikarten für Freianglerinnen und Freiangler beziehen. Dieses kann Dritte mit der Ausgabe der Fischereikarten beauftragen.
 
-<sup>2</sup> Der Regierungsrat legt die Gebühren für Fischereikarten durch Verordnung fest. Der kantonale Fischereiverband erhält einen Anteil am jährlichen Gebührenertrag, der vom Regierungsrat durch Verordnung festgelegt wird. Dieser ist im Rahmen einer Leistungsvereinbarung für die Förderung der Artenvielfalt oder für die Aufwertung der Wasserlebensräume zu verwenden.
+<sup>2</sup> Der kantonale Fischereiverband erhält einen Anteil am jährlichen Gebührenertrag, der vom Regierungsrat durch Verordnung festgelegt wird. Dieser ist im Rahmen einer Leistungsvereinbarung für die Förderung der Artenvielfalt oder für die Aufwertung der Wasserlebensräume zu verwenden.
 
 #### § 16
 
