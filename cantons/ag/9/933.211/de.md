@@ -4,13 +4,13 @@ number: "933.211"
 title: Verordnung zum Jagdgesetz des Kantons Aargau
 short: "Jagdverordnung des Kantons Aargau, AJSV"
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-09-21
+version: 2024-07-01
+valid_until: 2025-08-29
+version_adopted: 2024-03-13
 adopted: 2009-09-23
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/933.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3246/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3246/pdf_file"
 
 (Jagdverordnung des Kantons Aargau, AJSV)
 
-Vom 23.09.2009 (Stand 01.01.2023)
+Vom 23.09.2009 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -126,13 +126,13 @@ beschliesst:
 
 #### § 8
 
-**Jagdprüfung; Rechtsmittel und Gebühren (§ 10 AJSG)**
+**Jagdprüfung und Rechtsmittel (§ 10 AJSG)**
 
 <sup>1</sup> Wer die Jagdprüfung nicht bestanden hat, kann innert 10 Tagen nach Eröffnung des Ergebnisses einen schriftlichen Prüfungsentscheid verlangen.
 
 <sup>2</sup> Gegen den Prüfungsentscheid der Jagdprüfungskommission kann innert 30 Tagen nach Zustellung beim Regierungsrat Beschwerde geführt werden.
 
-<sup>3</sup> Die Gebühren für die praktische und theoretische Prüfung betragen je Fr. 200.–.
+<sup>3</sup> …
 
 #### § 9
 
@@ -154,11 +154,7 @@ beschliesst:
 
 <sup>4</sup> Jagdgäste mit gültigen Jagdpässen angrenzender Kantone haben keinen zusätzlichen aargauischen Jagdpass zu beziehen, wenn der Nachweis der Schiessfertigkeit gemäss § 12 erbracht ist.
 
-<sup>5</sup> Die Gebühren betragen:
-
-- a) Jahresjagdpass: Fr. 400.–, für Jagdberechtigte mit Wohnsitz im Kanton Aargau Fr. 200.–,
-- b) Mehrtagesjagdpass für sechs Tage: Fr. 200.–, für Jagdberechtigte mit Wohnsitz im Kanton Aargau Fr. 100.– ,
-- c) Tagespass: Fr. 50.–, für Jagdberechtigte mit Wohnsitz im Kanton Aargau Fr. 30.–.
+<sup>5</sup> …
 
 #### § 11
 
