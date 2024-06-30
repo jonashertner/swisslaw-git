@@ -4,13 +4,13 @@ number: "811.12"
 title: Vollzugsverordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2023-10-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-06
+version: 2024-07-01
+valid_until: 2026-03-31
+version_adopted: 2024-06-18
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.12"
-pdf: "https://bgs.so.ch/api/de/versions/5394/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5394/pdf_file"
 
 (GesV)
 
-Vom 30.04.2019 (Stand 01.10.2023)
+Vom 30.04.2019 (Stand 01.07.2024)
 
 der Regierungsrat des Kantons Solothurn
 
@@ -425,6 +425,17 @@ beschliesst:
 
 [^24-1]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
 
+#### § 24bis
+
+**Besondere Betriebspflichten für Spitex-Organisationen und Pflegeheime**
+
+<sup>1</sup> Das Gesundheitsamt kann für Spitex-Organisationen und Pflegeheime Richtlinien zum minimalen Umfang des Stellenplans und zu den beruflichen Kompetenzen erlassen.
+
+<sup>2</sup> Pflegende Angehörige können durch Spitex-Organisationen im Umfang des Ergebnisses der Bedarfsabklärung und im Rahmen ihrer Kompetenzen angestellt werden, wenn:
+
+- a) sie mindestens über eine Ausbildung als Pflegehelfende des Schweizerischen Roten Kreuzes (SRK) oder eine andere gleichwertige Ausbildung verfügen oder sich verpflichten, innerhalb eines Jahres ab Anstellung eine solche Ausbildung zu absolvieren;
+- b) der Einsatz einer Langzeitpflegesituation entspricht und die Anstellung auf mindestens drei Monate angelegt ist.
+
 #### § 25
 
 **Richtlinien**
@@ -461,6 +472,12 @@ beschliesst:
 **Übergangsbestimmungen**
 
 <sup>1</sup> Die vor Inkrafttreten dieser Verordnung erteilten Bewilligungen bleiben gültig. Ihr Inhalt richtet sich nach geltendem Recht. Fallen die Bewilligungsvoraussetzungen im Vergleich zum alten Recht strenger aus, so müssen diese nach Ablauf einer Frist von zwei Jahren seit Inkrafttreten dieser Verordnung erfüllt sein, ansonsten die betreffenden Bewilligungen erlöschen.
+
+#### § 29
+
+**Übergangsbestimmung zur Änderung vom 18. Juni 2024**
+
+<sup>1</sup> Spitex-Organisationen und Pflegeheime, welchen bereits vor Inkrafttreten von § 24<sup>bis</sup> eine Betriebsbewilligung erteilt worden ist, müssen die Vorgaben zum Stellenplan und zu den beruflichen Kompetenzen innert einem Jahr ab Publikation der betreffenden Richtlinien erfüllen.
 
 RRB Nr. 2019/720 vom 30. April 2019.
 
