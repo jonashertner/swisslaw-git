@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,19 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. Januar 2024)
+vom 18. November 2015 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 6 Absatz 3, 7 Absatz 1, 9, 14 Absatz 1, 15*a* Absatz 2 und 32 Absatz 1 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-1], auf Artikel 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2] (LMG) und auf die Artikel 24 Absatz 1, 25 Absatz 1, 53*a* Absatz 2 und 56 Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-3] (TSG) sowie in Ausführung von Anhang 11 des Abkommens vom 21. Juni 1999[^ingress-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (Agrarabkommen),[^ingress-5]
+gestützt auf die Artikel 6 Absatz 3, 7 Absatz 1, 9, 14 Absatz 1, 15*a* Absatz 2 und 32 Absatz 1 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-1], auf Artikel 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2] (LMG), auf Artikel 18 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-3] und auf die Artikel 24 Absatz 1, 25 Absatz 1, 53*a* Absatz 2 und 56 Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-4] (TSG) sowie in Ausführung von Anhang 11 des Abkommens vom 21. Juni 1999[^ingress-5] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (Agrarabkommen),[^ingress-6]
 
 verordnet:
 
 [^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-5]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-5]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-6]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -74,7 +75,7 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 
 [^3-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^3-5]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^3-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
@@ -85,52 +86,54 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 
 In dieser Verordnung bedeuten:
 
-- a. *Einfuhrgebiet:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) sowie die Zollanschlussgebiete (Fürstentum Liechtenstein, Büsingen und Campione);
-- b. *Drittstaaten:* alle Staaten ausser den EU-Mitgliedstaaten, Island und Norwegen;
+- a.[^4-1] *Einfuhrgebiet**:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) sowie die Zollanschlussgebiete (Fürstentum Liechtenstein und Büsingen);
+- b.[^4-2] *Drittstaaten**:* alle Staaten ausser den EU-Mitgliedstaaten, Island und Norwegen sowie ohne das Gebiet von Nordirland;
 - c.
 
   *Tierprodukte:*
 
   - 1\. Lebensmittel tierischer Herkunft oder mit einem Anteil von Lebensmitteln tierischer Herkunft,
   - 2\. tierische Nebenprodukte,
-  - 3\.[^4-1] tierische Samen, Eizellen und Embryonen zu Zuchtzwecken;
+  - 3\.[^4-3] tierische Samen, Eizellen und Embryonen zu Zuchtzwecken;
 
-- d.[^4-2]
+- d.[^4-4]
 
   *tierische Nebenprodukte:*
 
   - 1\. Tierkörper und Schlachttierkörper sowie Teile von beiden, die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
-  - 2\. Erzeugnisse tierischen Ursprungs und Speisereste nach Artikel 3 Buchstabe p der Verordnung vom 25. Mai 2011[^4-3] über tierische Nebenprodukte (VTNP), die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
+  - 2\. Erzeugnisse tierischen Ursprungs und Speisereste nach Artikel 3 Buchstabe p der Verordnung vom 25. Mai 2011[^4-5] über tierische Nebenprodukte (VTNP), die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
   - 3\. tierische Samen, Eizellen und Embryonen zu anderen als Zuchtzwecken;
 
 - e. *Gesundheitsbescheinigung:* Dokument, das die Herkunft einer Sendung und die Einhaltung der tierseuchenpolizeilichen, tierschutzrechtlichen und lebensmittelhygienischen Anforderungen belegt;
-- f.[^4-4] *Gemeinsames Gesundheitseingangsdokument (GGED):* Dokument nach den Artikeln 56–58 der Verordnung (EU) 2017/625[^4-5], das dazu verwendet wird, Sendungen an der Grenzkontrollstelle anzumelden und das Ergebnis der Kontrollen sowie die Massnahmen des grenztierärztlichen Dienstes betreffend die Sendungen zu vermerken;
-- g.[^4-6] *«Trade Control and Expert System» (**TRACES):* ein in das Informationsmanagementsystem für amtliche Kontrollen der EU integriertes System nach den Artikeln 131–136 der Verordnung (EU) 2017/625;
-- g<sup>bis</sup>.[^4-7] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-8] gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-9] (ZG) für die Zollanmeldung zur Verfügung gestellt wird;
-- h.[^4-10] *Sendung:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder das gleiche andere Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden, vom gleichen Herkunftsort stammen und für den gleichen Bestimmungsbetrieb bestimmt sind;
-- i. *Brief- oder Paketsendung:* Sendung nach Artikel 2 Buchstabe c oder d des Postgesetzes vom 17. Dezember 2010[^4-11];
-- j. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-12] (ZG);
-- k. *Importeur:* natürliche oder juristische Person, die für eine Einfuhr verantwortlich ist und die, wenn ein GGED[^4-13] vorliegt, darin als solcher bezeichnet ist;
+- f.[^4-6] *Gemeinsames Gesundheitseingangsdokument (GGED)**:* Dokument nach den Artikeln 56–58 der Verordnung (EU) 2017/625[^4-7], das dazu verwendet wird, Sendungen an der Grenzkontrollstelle anzumelden und das Ergebnis der Kontrollen sowie die Massnahmen des grenztierärztlichen Dienstes betreffend die Sendungen zu vermerken;
+- g.[^4-8] *«Trade Control and Expert System» (**TRACES):* ein in das Informationsmanagementsystem für amtliche Kontrollen der EU integriertes System nach den Artikeln 131–136 der Verordnung (EU) 2017/625;
+- g<sup>bis</sup>.[^4-9] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-10] gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-11] (ZG) für die Zollanmeldung zur Verfügung gestellt wird;
+- h.[^4-12] *Sendung**:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder ein gleiches anderes Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden und die vom gleichen Herkunftsort stammen;
+- i.[^4-13] *Brief- oder Paketsendung**:* Sendung in Brief- oder Paketform bis maximal 30 kg;
+- j. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-14] (ZG);
+- k. *Importeur:* natürliche oder juristische Person, die für eine Einfuhr verantwortlich ist und die, wenn ein GGED[^4-15] vorliegt, darin als solcher bezeichnet ist;
 - l. *anmeldepflichtige Person:* Person nach Artikel 26 ZG;
 - m. *Abfertigungsunternehmen:* vom Flughafenhalter beauftragter Dienstleistungsbetrieb, der den Verkehr zwischen den Fluggesellschaften und den Speditionsunternehmen sicherstellt (Handling Agent);
 - n. *Bestimmungsbetrieb:* Betrieb am Standort, an den die Tiere oder Tierprodukte verbracht werden sollen, und der, wenn ein GGED vorliegt, darin als solcher bezeichnet ist;
-- o.[^4-14] *Grenzkontrollstelle:* Ort mit den dazu gehörenden Einrichtungen, an dem die grenztierärztlichen Kontrollen durchgeführt werden;
+- o.[^4-16] *Grenzkontrollstelle:* Ort mit den dazu gehörenden Einrichtungen, an dem die grenztierärztlichen Kontrollen durchgeführt werden;
 - p. *Exporteur:* natürliche oder juristische Person, die für die Ausfuhr verantwortlich ist.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-5]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2019/478, ABl. L 82 vom 25.3.2019, S. 4.
-[^4-6]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-7]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-8]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^4-9]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-10]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-11]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^4-12]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-13]: Ausdruck gemäss gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^4-14]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-6]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-7]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1756, ABl. L 357 vom 8.10.2021, S. 27.
+[^4-8]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-9]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^4-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-11]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-12]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-13]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-14]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-15]: Ausdruck gemäss gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^4-16]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## 2. Kapitel: Einfuhr
 
@@ -152,19 +155,17 @@ Für die Einfuhr von Tieren und Tierprodukten gelten die harmonisierten Einfuhrb
 
 <sup>2</sup> Das Eidgenössische Departement des Innern (EDI) bezeichnet die massgebenden Erlasse der EU.
 
-<sup>3</sup>
-
-Es legt zudem fest, welche Gesundheitsgarantien für die folgenden Tiere und Tierprodukte zusätzlich zu den in den harmonisierten Einfuhrbedingungen der EU vorgesehenen Gesundheitsbescheinigungen zu erbringen sind und unter welchen Voraussetzungen diese Gesundheitsgarantien anerkannt werden:
-
-- a. Tiere der Rindergattung;
-- b. Tiere der Schweinegattung;
-- c. Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) und Laufvögel (*Struthioniformes*) sowie Bruteier solcher Vögel.
+<sup>3</sup> Es legt zudem fest, für welche Tiere und Tierprodukte zusätzliche Gesundheitsgarantien zu erbringen sind. Es kann solche Gesundheitsgarantien einfordern, wenn die Schweiz für eine Tierseuche den Status «seuchenfrei» nach der Verordnung (EU) 2016/429[^5-1] und der Delegierten Verordnung (EU) 2020/689[^5-2] erreicht hat. Die Gesundheitsgarantien sind in den Gesundheitsbescheinigungen nach den harmonisierten Einfuhrbedingungen der EU aufzuführen.[^5-3]
 
 <sup>4</sup> Für Tiere und Tierprodukte, für die es keine harmonisierten Einfuhrbedingungen der EU gibt, kann das BLV tierseuchenpolizeiliche, tierschutzrechtliche und lebensmittelhygienische Einfuhrbedingungen festlegen oder im Einzelfall verfügen. Es kann dafür eine Risikoanalyse im Herkunftsstaat durchführen.
 
 <sup>5</sup> Bei erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienischem Risiko kann das BLV zusätzliche Bedingungen festlegen oder die Einfuhr verbieten.
 
 <sup>6</sup> Massnahmen, die das BLV gestützt auf Artikel 24 Absatz 3 Buchstabe a TSG zur Verhinderung einer Seuchenverschleppung erlässt, bleiben vorbehalten.
+
+[^5-1]: Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht»), ABl. L 84 vom 31.3.2016, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2018/1629, ABl. L 272 vom 31.10.2018 S. 11.
+[^5-2]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen, ABl. L 174 vom 3.6.2020, S. 211; zuletzt geändert durch Delegierte Verordnung (EU) 2023/1798, ABl. L 233 vom 21.9.2023, S. 24.
+[^5-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 6
 
@@ -176,7 +177,8 @@ Tiere, für die eine Quarantäne nach der Einfuhr vorgeschrieben ist, dürfen nu
 
 **Tiere mit besonderen Auflagen**
 
-- [tab] Die folgenden Tiere dürfen zu den nachstehenden Zwecken nur eingeführt werden, wenn sie in einen Bestimmungsbetrieb verbracht werden, der von der zuständigen kantonalen Behörde für den entsprechenden Zweck bewilligt wurde:
+Die folgenden Tiere dürfen zu den nachstehenden Zwecken nur eingeführt werden, wenn sie in einen Bestimmungsbetrieb verbracht werden, der von der zuständigen kantonalen Behörde für den entsprechenden Zweck bewilligt wurde:
+
 - a. Primaten, Raubtiere (*Carnivora*), Raubbeutelartige (*Dasyuromorphia*), Hasenartige (*Lagomorpha*) und Bienen (*Apiformes*): zu Ausbildungs-, Ausstellungs- und Forschungszwecken sowie zur Arterhaltung;
 - b. Fische: zu Forschungszwecken.
 
@@ -324,9 +326,12 @@ Mit der Bewilligung wird festgelegt:
 
 **Brief- und Paketsendungen an Privatpersonen**[^14-1]
 
-Für Brief- und Paketsendungen mit Tierprodukten, die aus Drittstaaten zum Eigengebrauch an Privatpersonen im Einfuhrgebiet gesendet werden, gilt Artikel 13 Absatz 1 sinngemäss.
+<sup>1</sup> Für Brief- und Paketsendungen mit Tierprodukten, die aus Drittstaaten zum Eigengebrauch an Privatpersonen im Einfuhrgebiet gesendet werden, gilt Artikel 13 Absatz 1 sinngemäss.
+
+<sup>2</sup> Produkte nicht tierischen Ursprungs in Brief- und Paketsendungen müssen für den grenztierärztlichen Dienst als solche im Rahmen der Kontrolle erkennbar sein.[^14-2]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 2. Abschnitt: Pflicht zur grenztierärztlichen Kontrolle
 
@@ -340,10 +345,11 @@ Für Brief- und Paketsendungen mit Tierprodukten, die aus Drittstaaten zum Eigen
 
 Nicht grenztierärztlich kontrolliert werden:
 
-- a. Tiere und Tierprodukte nach Absatz 1, die bereits in einem EU-Mitgliedstaat, Island oder Norwegen einer vollständigen grenztierärztlichen Kontrolle unterzogen worden sind;
+- a.[^15-2] Tiere und Tierprodukte nach Absatz 1, die bereits in einem EU-Mitgliedstaat, Island oder Norwegen oder in Nordirland einer vollständigen grenztierärztlichen Kontrolle unterzogen worden sind;
 - b. Tierprodukte nach Absatz 1, die nach den Artikeln 13 und 14 eingeführt werden.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 16
 
@@ -357,37 +363,27 @@ Anhang 11 des Agrarabkommens legt fest:
 
 - a. welches die zugelassenen Grenzkontrollstellen sind;
 - b. welche Kategorien von Tieren und Tierprodukten über welche Grenzkontrollstellen eingeführt werden dürfen.
-- [tab] <sup>3</sup> Das BLV veröffentlicht die Informationen nach Absatz 2 im Internet.
+
+<sup>3</sup> Das BLV veröffentlicht die Informationen nach Absatz 2 im Internet.
 
 ### 3. Abschnitt: Registrierung und Voranmeldung
 
 #### Art. 17
 
-**Registrierung in TRACES**
+**Registrierung in TRACES**[^17-1]
 
-<sup>1</sup> Wer bei der Einfuhr von grenztierärztlich kontrollpflichtigen Sendungen als Bestimmungsbetrieb, Importeur oder anmeldepflichtige Person auftreten will, muss sich vorgängig in TRACES registrieren lassen.
+<sup>1</sup> Für die Einfuhr einer grenztierärztlich kontrollpflichtigen Sendung müssen der Bestimmungsbetrieb, der Importeur, die anmeldepflichtige Person und gegebenenfalls das Transportunternehmen mit denjenigen Eigenschaften in TRACES registriert sein, die ihrer Rolle im Zusammenhang mit der Einfuhr entsprechen.
 
-<sup>2</sup> Natürliche oder juristische Personen, die sich als Bestimmungsbetriebe registrieren lassen wollen, müssen die Registrierung bei der zuständigen kantonalen Behörde beantragen. Sie erhalten in TRACES sowohl die Eigenschaft «Bestimmungsbetrieb» als auch die Eigenschaft «Importeur» zugewiesen.
+<sup>2</sup>
 
-<sup>3</sup> Natürliche oder juristische Personen, die sich als Importeure oder als anmeldepflichtige Personen registrieren lassen wollen, müssen die Registrierung beim BLV beantragen. Sie erhalten in TRACES die Eigenschaft «Importeur» beziehungsweise «anmeldepflichtige Person» zugewiesen.
+Die Registrierung ist vorgängig zu beantragen:
 
-<sup>4</sup> Adressänderungen sind unverzüglich der zuständigen Behörde mitzuteilen.
+- a. von Bestimmungsbetrieben, Importeuren und Transportunternehmen: bei der zuständigen kantonalen Behörde;
+- b. von anmeldepflichtigen Personen: beim BLV.
 
-<sup>5</sup>
+<sup>3</sup> Adressänderungen sind der zuständigen Behörde innerhalb einer Woche mitzuteilen.
 
-Voraussetzung für den Zugang zu TRACES ist:
-
-- a. der Besuch einer vom BLV angebotenen Schulung; oder
-- b. die Bestätigung einer in TRACES registrierten Person aus dem gleichen Betrieb wie die Gesuchstellerin oder der Gesuchsteller, dass diese oder dieser über das erforderliche Wissen verfügt.[^17-1]
-
-<sup>6</sup> Bei der Einfuhr einer grenztierärztlich kontrollpflichtigen Sendung müssen der Importeur, die anmeldepflichtige Person und der Bestimmungsbetrieb mit der entsprechenden Eigenschaft in TRACES registriert sein.
-
-<sup>7</sup> Der Importeur und die anmeldepflichtige Person haben Zugang zu den Daten der von ihnen oder in ihrem Auftrag versandten Sendungen und können die von ihnen eingegebenen Daten zur Sendung bis zu deren Kontrolle bearbeiten.
-
-<sup>8</sup> Das BLV bietet die Schulung nach Absatz 5 Buchstabe a unentgeltlich an.[^17-2]
-
-[^17-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^17-2]: Eingefügt durch Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^17-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 18
 
@@ -406,12 +402,14 @@ Voraussetzung für den Zugang zu TRACES ist:
 Die Voranmeldung muss spätestens zum folgenden Zeitpunkt erfolgen:
 
 - a. bei Tieren: einen Arbeitstag vor der Landung des Flugzeugs;
-- b. bei Tierprodukten: bei der Landung des Flugzeugs.
+- b.[^18-3] bei Tierprodukten: vier Stunden vor der Landung des Flugzeugs.
 
-<sup>5</sup> Nicht vorangemeldet werden müssen grenztierärztlich kontrollpflichtige Brief- und Paketsendungen, die von der Schweizer oder der Liechtensteiner Post transportiert werden.
+<sup>5</sup> Nicht vorangemeldet werden müssen grenztierärztlich kontrollpflichtige Brief- und Paketsendungen.[^18-4]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-4]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 19
 
@@ -441,10 +439,11 @@ Sendungen folgender Tiere und Tierprodukte müssen vom Importeur spätestens zeh
 
 <sup>2</sup> Gesundheitsbescheinigungen müssen von der zuständigen Behörde auf Papier oder elektronisch unterzeichnet sein. Sie können auch von einem ausstellungsberechtigten Unternehmen unterzeichnet sein, sofern dies vorgesehen ist.[^21-2]
 
-<sup>3</sup> Das EDI legt die formalen Anforderungen an die Gesundheitsbescheinigungen fest.
+<sup>3</sup> Das EDI legt die formalen Anforderungen an die Gesundheitsbescheinigungen fest. Es regelt die Ersatzbescheinigungen.[^21-3]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 5. Abschnitt: Transport
 
@@ -495,9 +494,10 @@ Sie muss unmittelbar nach der Landung des Flugzeugs:
 
 <sup>3</sup> Die grenztierärztlichen Kontrollen erfolgen ausschliesslich zu den Öffnungszeiten der Grenzkontrollstelle. Kann die Kontrolle nicht am Tag der Landung des Flugzeugs durchgeführt werden, so verbleibt die Sendung am Flughafen.
 
-<sup>4</sup> Für grenztierärztlich kontrollpflichtige Brief- und Paketsendungen, die von der Schweizer oder der Liechtensteiner Post transportiert werden, kann das BLV in begründeten Fällen von Absatz 2 abweichende Verfahren bewilligen, wenn sichergestellt ist, dass damit keine erhöhte Gefahr der Einschleppung von Seuchen einhergeht.
+<sup>4</sup> Für grenztierärztlich kontrollpflichtige Brief- und Paketsendungen kann das BLV in begründeten Fällen von Absatz 2 abweichende Verfahren bewilligen, wenn sichergestellt ist, dass damit keine erhöhte Gefahr der Einschleppung von Seuchen einhergeht.[^24-2]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24a
 
@@ -520,15 +520,16 @@ Sie muss unmittelbar nach der Landung des Flugzeugs:
 
 Bleibt eine vom grenztierärztlichen Dienst freigegebene Sendung von Tierprodukten im Gewahrsam der Zollstelle, so muss die anmeldepflichtige Person:
 
-- a. eine Kopie des GGED aufbewahren;
+- a.[^25-1] eine Kopie des GGED aufbewahren, wenn dieses in Papierform ausgestellt wurde;
 - b. das Datum des Eingangs der Sendung bei der Zollstelle aufzeichnen; und
 - c. das Datum der Zollveranlagung aufzeichnen.
 
-<sup>2</sup> Erfolgt die Zollveranlagung einer Sendung gestaffelt, so muss die anmeldepflichtige Person jeder Teilsendung eine beglaubigte Kopie des GGED in Papierform beilegen und für jede Teilsendung das Datum der Zollveranlagung und die überprüfte Menge oder das überprüfte Gewicht aufzeichnen.[^25-1]
+<sup>2</sup> Erfolgt die Zollveranlagung einer Sendung gestaffelt, so muss die anmeldepflichtige Person jeder Teilsendung eine beglaubigte Kopie des GGED in Papierform beilegen oder für jede Teilsendung das GGED in elektronischer Form mit einer gültigen elektronischen Signatur vorweisen. Zudem muss sie für jede Teilsendung das Datum der Zollveranlagung und die überprüfte Menge oder das überprüfte Gewicht aufzeichnen.[^25-2]
 
 <sup>3</sup> Die beglaubigten Kopien des GGED sind beim grenztierärztlichen Dienst anzufordern.
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 26
 
@@ -562,21 +563,21 @@ Bleibt eine vom grenztierärztlichen Dienst freigegebene Sendung von Tierprodukt
 
 Die folgenden Begleitdokumente müssen bis zum Bestimmungsbetrieb mit der Sendung mitgeführt werden:
 
-- a. das GGED in Papierform;
-- b. bei Sendungen, die nur vorübergehend in das Einfuhrgebiet verbracht oder nach EU-Mitgliedstaaten, Island oder Norwegen durchgeführt werden: beglaubigte Kopien der Gesundheitsbescheinigungen in Papierform oder elektronischer Form.[^28-1]
+- a. das GGED in Papierform oder in elektronischer Form mit einer gültigen elektronischen Signatur;
+- b. bei Sendungen, die nur vorübergehend in das Einfuhrgebiet verbracht oder nach EU-Mitgliedstaaten, Island oder Norwegen oder nach Nordirland durchgeführt werden: beglaubigte Kopien der Gesundheitsbescheinigungen in Papierform oder das Original in elektronischer Form.[^28-1]
 
 <sup>2</sup> Bei Zuchttieren der Rinder-, Schweine-, Schaf-, Ziegen- und Pferdegattung muss zusätzlich ein Abstammungsausweis nach den Artikeln 27 und 28 der Tierzuchtverordnung vom 31. Oktober 2012[^28-2] mitgeführt werden.
 
 <sup>3</sup> Die Begleitdokumente nach Absatz 1 sind vom Bestimmungsbetrieb nach Eintreffen der Sendung drei Jahre lang aufzubewahren.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^28-2]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
 
 #### Art. 29
 
 **Meldepflichten des Bestimmungsbetriebs**
 
-<sup>1</sup> Der Bestimmungsbetrieb muss das Eintreffen von Tierprodukten mit besonderen Auflagen nach Artikel 8 der zuständigen kantonalen Behörde innerhalb von drei Arbeitstagen nach der Freigabe der Sendung durch den grenztierärztlichen Dienst melden. Verletzt der Betrieb die Meldepflicht, so kann ihm die kantonale Behörde die Bewilligung entziehen.[^29-1]
+<sup>1</sup> Der Bestimmungsbetrieb muss das Eintreffen von Tierprodukten mit besonderen Auflagen nach Artikel 8 der zuständigen kantonalen Behörde innerhalb von einem Arbeitstag melden. Verletzt der Betrieb die Meldepflicht, so kann ihm die kantonale Behörde die Bewilligung entziehen.[^29-1]
 
 <sup>2</sup>
 
@@ -586,7 +587,23 @@ Der Bestimmungsbetrieb muss das Eintreffen der folgenden Tiere und Tierprodukte 
 - b. Klauentiere sowie Hühnervögel, Gänsevögel und Laufvögel;
 - c. Europäische Honigbienen und Hummeln.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^29-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 29a
+
+**Aufzeichnungspflicht des Bestimmungsbetriebs bei der Weitergabe importierter Hummeln**[^29a-1]
+
+<sup>1</sup>
+
+Bestimmungsbetriebe, die Hummeln importiert haben, müssen über die Weitergabe der importierten Hummeln Buch führen. Es sind mindestens folgende Angaben schriftlich festzuhalten:
+
+- a. das Datum der Abgabe eines Hummelvolkes;
+- b. der Name und die Adresse des Empfängers;
+- c. die Anzahl der abgegebenen Hummelvölker.
+
+<sup>2</sup> Die Aufzeichnungen sind drei Jahre lang aufzubewahren und den seuchenpolizeilichen Organen auf Verlangen vorzuweisen.
+
+[^29a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 30
 
@@ -633,13 +650,15 @@ Nicht enthäutetes Haarwild und Wildgeflügel im Gefieder darf nur in einen Schl
 
 <sup>1</sup> Der Importeur ist für die Einhaltung der tierseuchenpolizeilichen und lebensmittelhygienischen Anforderungen, für die vorschriftsgemässe Beschaffenheit der Sendungen und für die Vollständigkeit der Begleitdokumente verantwortlich.
 
-<sup>2</sup> Bei grenztierärztlich kontrollpflichtigen Sendungen, insbesondere bei Sendungen, die via einen EU-Mitgliedstaat, Island oder Norwegen ohne vollständige grenztierärztliche Kontrolle eingeführt werden, muss der Importeur die anmeldepflichtige Person darüber informieren, dass die Sendung dem grenztierärztlichen Dienst zur Kontrolle vorzuführen ist.
+<sup>2</sup> Bei grenztierärztlich kontrollpflichtigen Sendungen, insbesondere bei Sendungen, die via einen EU-Mitgliedstaat, Island oder Norwegen oder via Nordirland ohne vollständige grenztierärztliche Kontrolle eingeführt werden, muss der Importeur die anmeldepflichtige Person darüber informieren, dass die Sendung dem grenztierärztlichen Dienst zur Kontrolle vorzuführen ist.[^33-1]
 
 <sup>3</sup> Bei Tierprodukten muss der Importeur die anmeldepflichtige Person darüber informieren, unter welchen Temperaturbedingungen die Tierprodukte zu lagern sind (Art. 23).
 
 <sup>4</sup> Er muss dem Abfertigungsunternehmen die erforderlichen Informationen und Dokumente fristgerecht zur Verfügung stellen. Er kann auch ein Speditionsunternehmen damit beauftragen, dem Abfertigungsunternehmen die erforderlichen Informationen und Dokumente fristgerecht zur Verfügung zu stellen.
 
 <sup>5</sup> Bei grenztierärztlich kontrollpflichtigen Brief- und Paketsendungen ist der Importeur dafür verantwortlich, dass die Sendung so gekennzeichnet wird, dass sie durch das Speditionsunternehmen als grenztierärztlich kontrollpflichtige Sendung erkannt wird, ausser wenn das Speditionsunternehmen die Dienste eines Abfertigungsunternehmens in Anspruch nimmt.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 34
 
@@ -673,11 +692,11 @@ Die anmeldepflichtige Person muss zusätzlich zu den anderen in dieser Verordnun
 
 #### Art. 36
 
-**Flughafenhalter**
+**Flughafenhalter**[^36-1]
 
-<sup>1</sup> Die Flughafenhalter müssen dem BLV die von ihnen beauftragten Abfertigungsunternehmen melden. Änderungen sind dem BLV unverzüglich mitzuteilen.
+Die Flughafenhalter müssen die Abfertigungsunternehmen auf deren Pflichten nach Artikel 35 hinweisen.
 
-<sup>2</sup> Sie müssen die Abfertigungsunternehmen auf die Pflichten nach Artikel 35 hinweisen.
+[^36-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 37
 
@@ -691,13 +710,16 @@ Es liegt in der Verantwortung der Fluggesellschaften, die Öffnungszeiten der Gr
 
 **Grundsätze**
 
-<sup>1</sup> Für die Durchfuhr von Tieren und Tierprodukten nach EU-Mitgliedstaaten, Island und Norwegen gelten die harmonisierten Einfuhrbedingungen der EU. Für Tiere und Tierprodukte, für die es keine harmonisierten Einfuhrbedingungen der EU gibt, gelten die nationalen Bedingungen des Bestimmungsstaates, sofern diese der Schweiz mitgeteilt worden sind.
+<sup>1</sup> Für die Durchfuhr von Tieren und Tierprodukten nach EU-Mitgliedstaaten, Island und Norwegen sowie nach Nordirland gelten die harmonisierten Einfuhrbedingungen der EU. Für Tiere und Tierprodukte, für die es keine harmonisierten Einfuhrbedingungen der EU gibt, gelten die nationalen Bedingungen des Bestimmungsstaates, sofern diese der Schweiz mitgeteilt worden sind.[^38-1]
 
-<sup>2</sup> Für die Durchfuhr nach Drittstaaten via EU-Mitgliedstaaten, Island und Norwegen gelten die harmonisierten Durchfuhrbedingungen der EU. Das EDI bezeichnet die massgebenden Erlasse der EU.
+<sup>2</sup> Für die Durchfuhr nach Drittstaaten via EU-Mitgliedstaaten, Island und Norwegen sowie via Nordirland gelten die harmonisierten Durchfuhrbedingungen der EU. Das EDI bezeichnet die massgebenden Erlasse der EU.[^38-2]
 
 <sup>3</sup> Für die Durchfuhr auf dem Luftweg direkt aus einem Drittstaat und direkt in einen Drittstaat gelten die Bedingungen des Bestimmungsstaates.
 
 <sup>4</sup> Tiere und Tierprodukte aus Drittstaaten, deren Einfuhr aus tierseuchenpolizeilichen Gründen verboten ist, dürfen nicht durchgeführt werden.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 39
 
@@ -730,23 +752,23 @@ Die folgenden Bestimmungen zur Einfuhr gelten sinngemäss auch für die Durchfuh
 
 **Umlad auf dem Flughafen**
 
-<sup>1</sup> Tiere und Tierprodukte, die das Flugzeug nicht verlassen, und Tierprodukte, die innerhalb von zwölf Stunden von einem Flugzeug in ein anderes umgeladen werden, ohne den Amtsplatz zu verlassen, müssen dem grenztierärztlichen Dienst nicht zur Kontrolle vorgeführt werden.
+<sup>1</sup> Tiere und Tierprodukte, die das Flugzeug nicht verlassen, und Tierprodukte, die innerhalb von 72 Stunden von einem Flugzeug in ein anderes umgeladen werden, ohne den Amtsplatz zu verlassen, müssen dem grenztierärztlichen Dienst nicht zur Kontrolle vorgeführt werden.[^41-1]
 
-<sup>2</sup> Überschreitet die Umladezeit von Tierprodukten zwölf Stunden, so muss die anmeldepflichtige Person dies dem grenztierärztlichen Dienst nach dessen Vorgaben unverzüglich mitteilen.
+<sup>2</sup> Überschreitet die Umladezeit von Tierprodukten 72 Stunden, so muss die anmeldepflichtige Person dies dem grenztierärztlichen Dienst nach dessen Vorgaben unverzüglich mitteilen.[^41-2]
 
-<sup>3</sup> Verbleiben bei der Durchfuhr nach EU-Mitgliedstaaten, Island und Norwegen die Tierprodukte länger als 48 Stunden auf dem Flughafen, so muss eine zweite Mitteilung erfolgen.
+<sup>3</sup> …[^41-3]
 
 <sup>4</sup> Tiere und Tierprodukte dürfen auf dem Flughafen nicht über die vom BAZG bezeichneten Grenzen verbracht werden, sofern sie nicht zum Transport auf dem Landweg freigegeben worden sind.
 
+[^41-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-3]: Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
 #### Art. 42
 
-**Zolllager, Zollfreilager sowie Betreiber, die im Seeverkehr eingesetzte Transportmittel direkt mit Bordverpflegung versorgen**
+[^42-1]
 
-<sup>1</sup> Für Sendungen von Tierprodukten, die zur Einlagerung in eine Freizone, ein Freilager oder ein Zolllager in einem EU-Mitgliedstaat bestimmt sind, gilt Artikel 12 der Richtlinie 97/78/EG[^42-1].
-
-<sup>2</sup> Für Sendungen von Tierprodukten, die für einen nach Artikel 13 Absatz 1 Buchstabe a der Richtlinie 97/78/EG zugelassenen Betreiber mit Domizil in der EU bestimmt sind, gelten die Artikel 12 und 13 dieser Richtlinie.
-
-[^42-1]: Richtlinie 97/78/EG des Rates vom 18. Dezember 1997 zur Festlegung von Grundregeln für die Veterinärkontrollen von aus Drittländern in die Gemeinschaft eingeführten Erzeugnissen, ABl. L 24 vom 30.1.1998, S. 9; zuletzt geändert durch Richtlinie 2013/20/EU, ABl. L 158 vom 10.6.2013, S. 234.
+[^42-1]: Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 43
 
@@ -766,19 +788,26 @@ Für Sendungen nach Drittstaaten gelten zusätzlich die folgenden Auflagen:
 
 **Begleitdokumente**
 
-<sup>1</sup> Bei der Durchfuhr in einen Drittstaat müssen das GGED und die Originale der Gesundheitsbescheinigungen in Papierform oder elektronischer Form bis zur Aussengrenze der EU mit der Sendung mitgeführt werden.[^44-1]
+<sup>1</sup>
+
+Bei der Durchfuhr in einen Drittstaat müssen bis zur Aussengrenze der EU mit der Sendung mitgeführt werden:
+
+- a. das GGED in Papierform oder in elektronischer Form mit einer gültigen elektronischen Signatur;
+- b. die Gesundheitsbescheinigungen im Original in Papierform oder in elektronischer Form.[^44-1]
 
 <sup>2</sup> Bei der Durchfuhr auf dem Luftweg direkt aus einem Drittstaat und direkt in einen Drittstaat muss kein GGED mitgeführt werden.
 
-[^44-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 45
 
 **Verlassen des Einfuhrgebiets**
 
-<sup>1</sup> Sendungen, die aus Drittstaaten via einen EU-Mitgliedstaat, Island oder Norwegen durch das Einfuhrgebiet durchgeführt und direkt in einen weiteren Drittstaat weitertransportiert werden, müssen das Einfuhrgebiet spätestens 30 Tage nach der Ankunft in den EU-Mitgliedstaaten, Island und Norwegen verlassen.
+<sup>1</sup> Sendungen aus Drittstaaten, die durch das Einfuhrgebiet direkt in einen weiteren Drittstaat durchgeführt werden, müssen das Einfuhrgebiet spätestens 15 Tage nach der Ankunft im Einfuhrgebiet, in der EU, Island oder Norwegen oder in Nordirland über eine zugelassene Grenzkontrollstelle verlassen.[^45-1]
 
 <sup>2</sup> Die anmeldepflichtige Person muss dem grenztierärztlichen Dienst unter Vorweisung des GGED innerhalb eines Arbeitstages melden, dass die Sendung das Einfuhrgebiet verlassen hat.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 46
 
@@ -806,25 +835,37 @@ Der Exporteur ist verantwortlich für:
 - b. die Einhaltung der Einfuhrbedingungen des Bestimmungsstaates; und
 - c. die Einhaltung der Durchfuhrbedingungen allfälliger Durchfuhrstaaten.
 
-<sup>2</sup> Der Exporteur muss sich bei der zuständigen kantonalen Behörde informieren, ob eine vom BLV freigegebene Vorlage einer Gesundheitsbescheinigung für den Bestimmungsstaat vorliegt.
+<sup>2</sup> Der Exporteur muss sich informieren, ob für den Bestimmungsstaat eine vom BLV freigegebene Vorlage einer Gesundheitsbescheinigung vorliegt.[^48-1]
 
-<sup>3</sup> Liegt eine vom BLV freigegebene Vorlage vor, so muss der Exporteur diese bei der zuständigen kantonalen Behörde einholen, sie ausfüllen und an die Behörde zurücksenden.
+<sup>3</sup> Liegt für den Bestimmungsstaat eine Vorlage vor, so muss der Exporteur diese verwenden. Er muss im Informationssystem E‑Cert (Art. 102*j*–102*l*) die entsprechende Gesundheitsbescheinigung erstellen und sie über das E‑Cert an die kantonale Behörde weiterleiten.[^48-2]
 
-<sup>4</sup> Liegt keine vom BLV freigegebene Vorlage vor, so muss sich der Exporteur über die im Bestimmungsstaat geltenden Einfuhrbedingungen, insbesondere über die erforderlichen Gesundheitsbescheinigungen, informieren. Er muss der zuständigen kantonalen Behörde die Einfuhrbedingungen und die zu unterzeichnende Gesundheitsbescheinigung unterbreiten.
+<sup>4</sup> Liegt für den Bestimmungsstaat keine Vorlage vor, so muss sich der Exporteur über die im Bestimmungsstaat geltenden Einfuhrbedingungen informieren, insbesondere ob eine Gesundheitsbescheinigung erforderlich ist und über die Anforderungen an diese. Ist eine Gesundheitsbescheinigung erforderlich, so muss der Exporteur der zuständigen kantonalen Behörde die Einfuhrbedingungen und die Anforderungen an die Gesundheitsbescheinigung unterbreiten.[^48-3]
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 49
 
-**Ausstellung von Gesundheitsbescheinigungen durch die kantonalen Behörden**
+**Aufgaben der kantonalen Behörden**[^49-1]
 
-<sup>1</sup> Entspricht die zu unterzeichnende Gesundheitsbescheinigung einer vom BLV freigegebenen Vorlage, so unterzeichnet die zuständige kantonale Behörde sie, wenn sichergestellt ist, dass alle in der Gesundheitsbescheinigung genannten Bedingungen erfüllt sind.
+<sup>1</sup>
 
-<sup>2</sup> Entspricht die zu unterzeichnende Gesundheitsbescheinigung nicht einer freigegebenen Vorlage, so übermittelt die zuständige kantonale Behörde sie dem BLV. Gibt das BLV sie als Vorlage frei, so unterzeichnet die kantonale Behörde sie nach Absatz 1.
+Liegt für eine Gesundheitsbescheinigung eine Vorlage vor und entspricht die zu unterzeichnende Gesundheitsbescheinigung dieser Vorlage, so nimmt die zuständige kantonale Behörde im E‑Cert folgende Arbeiten vor:
+
+- a. Sie füllt den für sie vorgesehenen Teil der Gesundheitsbescheinigung aus, wenn sichergestellt ist, dass alle in der Gesundheitsbescheinigung genannten Bedingungen erfüllt sind.
+- b. Sie unterzeichnet die Gesundheitsbescheinigung.
+- c. Sie übermittelt die unterzeichnete Gesundheitsbescheinigung an den Exporteur.
+
+<sup>2</sup> Liegt für eine Gesundheitsbescheinigung keine Vorlage vor, so meldet die zuständige kantonale Behörde dem BLV die Einfuhrbedingungen für das betreffende Bestimmungsland sowie die Anforderungen an die Gesundheitsbescheinigung.
+
+[^49-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 50
 
 **Freigabe von Vorlagen für Gesundheitsbescheinigungen durch das BLV**
 
-<sup>1</sup> Das BLV prüft die zu unterzeichnenden Gesundheitsbescheinigungen, die ihm von den zuständigen kantonalen Behörden übermittelt werden. Es gibt sie als Vorlage frei, wenn sie keine Bedingungen enthalten, die mit der schweizerischen Lebensmittel-, Tierschutz- und Tierseuchengesetzgebung unvereinbar sind.
+<sup>1</sup> Erhält das BLV eine Meldung nach Artikel 49 Absatz 2, so prüft es, ob die Einfuhrbedingungen und die Anforderungen an die Gesundheitsbescheinigung, die ihm die kantonale Behörde gemeldet hat, mit der schweizerischen Lebensmittel-, Tierschutz- und Tierseuchengesetzgebung vereinbar sind. Ist dies der Fall, so erstellt das BLV eine Vorlage für die Gesundheitsbescheinigung und lässt sie durch den Bestimmungsstaat validieren. Nach der Validierung der Vorlage gibt das BLV die Vorlage im E‑Cert frei.[^50-1]
 
 <sup>2</sup>
 
@@ -845,6 +886,8 @@ Vorlagen nach Absatz 2 dürfen nur freigegeben werden, wenn:
 <sup>4</sup> Das BLV kann zusätzlich formale Anforderungen an die Gesundheitsbescheinigungen festlegen. Es kann Massnahmen zur Sicherstellung der Rückverfolgbarkeit vorschreiben, insbesondere die Verwendung von Sicherheitspapier sowie Melde- und Buchführungspflichten. Es veröffentlicht die formalen Anforderungen und die Massnahmen zur Sicherstellung der Rückverfolgbarkeit in Form von Weisungen technischer Art zuhanden der kantonalen Behörden.
 
 <sup>5</sup> Es kann mit dem Bestimmungsstaat einen Vertrag über die Gesundheitsbescheinigungen und Bedingungen nach diesem Artikel abschliessen.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 51
 
@@ -885,9 +928,9 @@ Das BLV erteilt die Bewilligung, wenn:
 
 <sup>3</sup> Vor der Erteilung der Bewilligung legt das BLV das Ausfuhrgesuch der Kantonstierärztin oder dem Kantonstierarzt vor, die oder der für den Entsorgungsbetrieb zuständig ist, der die Entsorgung nach Absatz 2 Buchstabe c übernehmen würde.
 
-[^52-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^52-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^52-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^52-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1177, ABl. L 185 vom 11.7.2019, S. 26.
+[^52-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2613, ABl. L, 2023/2613, 24.11.2023.
 
 #### Art. 52a
 
@@ -895,8 +938,8 @@ Das BLV erteilt die Bewilligung, wenn:
 
 Verarbeitetes tierisches Protein darf ohne Bewilligung nach den in Anhang IV Kapitel V Abschnitt E Ziffer 1 der Verordnung (EG) Nr. 999/2001[^52a-2] aufgeführten Bedingungen ausgeführt werden.
 
-[^52a-1]: Eingefügt durch Ziff. III der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^52a-2]: Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien, ABl. L 147 vom 31.5.2001, S. 1; zuletzt geändert durch Verordnung (EU) 2017/894 vom 24. Mai 2017, ABl. L 138 vom 25.5.2017, S. 117.
+[^52a-1]: Eingefügt durch Ziff. III der V vom 25. April 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^52a-2]: Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien, ABl. L 147 vom 31.5.2001, S. 1; zuletzt geändert durch Verordnung (EU) 2024/916, ABl. L, 2024/916, 26.3.2024.
 
 #### Art. 53
 
@@ -948,9 +991,11 @@ Bei einer Dokumentenkontrolle prüft der grenztierärztliche Dienst, ob die erfo
 
 #### Art. 57
 
-**Identitätskontrolle**
+**Identitätskontrolle**[^57-1]
 
-Bei einer Identitätskontrolle prüft der grenztierärztliche Dienst, ob die Angaben in den Begleitdokumenten mit der Sendung übereinstimmen.
+Bei einer Identitätskontrolle prüft der grenztierärztliche Dienst visuell, ob die Angaben in den Begleitdokumenten mit dem Inhalt und der Kennzeichnung der Sendung übereinstimmen.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 58
 
@@ -972,20 +1017,23 @@ Bei einer Identitätskontrolle prüft der grenztierärztliche Dienst, ob die Ang
 
 **Dokumentation der Kontrollen**
 
-- [tab] <sup>1</sup> Der grenztierärztliche Dienst trägt unmittelbar nach den Kontrollen via TRACES das Ergebnis der Kontrollen und die angeordneten Massnahmen ins GGED ein.
-- [tab] <sup>2</sup> Die Befunde von Proben werden im GGED eingetragen, sobald sie vorliegen.
+<sup>1</sup> Der grenztierärztliche Dienst trägt unmittelbar nach den Kontrollen via TRACES das Ergebnis der Kontrollen und die angeordneten Massnahmen ins GGED ein.
 
-<sup>3</sup> Wird die Sendung freigegeben, so übergibt der grenztierärztliche Dienst der anmeldepflichtigen Person das vollständig ausgefüllte GGED.
+<sup>2</sup> Die Befunde von Proben werden im GGED eingetragen, sobald sie vorliegen.
+
+<sup>3</sup> Wird die Sendung freigegeben, so informiert der grenztierärztliche Dienst die anmeldepflichtige Person darüber.[^59-1]
 
 <sup>4</sup>
 
-Die Gesundheitsbescheinigungen werden in Papierform oder in elektronischer Form beim grenztierärztlichen Dienst aufbewahrt. Die anmeldepflichtige Person erhält eine beglaubigte Kopie in Papierform oder in elektronischer Form:[^59-1]
+Die Gesundheitsbescheinigungen werden in Papierform oder in elektronischer Form beim grenztierärztlichen Dienst aufbewahrt. Die anmeldepflichtige Person erhält eine beglaubigte Kopie in Papierform oder das Original in elektronischer Form:[^59-2]
 
-- a. bei Sendungen, die nur vorübergehend in das Einfuhrgebiet verbracht oder nach EU-Mitgliedstaaten, Island oder Norwegen durchgeführt werden;
-- b. bei Sendungen, die dauerhaft in das Einfuhrgebiet verbracht werden: auf Verlangen.[^59-2]
+- a.[^59-3] bei Sendungen, die nur vorübergehend in das Einfuhrgebiet verbracht oder nach EU-Mitgliedstaaten, Island oder Norwegen oder nach Nordirland durchgeführt werden;
+- b. bei Sendungen, die dauerhaft in das Einfuhrgebiet verbracht werden: auf Verlangen.[^59-4]
 
-[^59-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^59-2]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^59-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 59a
 
@@ -1015,29 +1063,35 @@ Bei der Einfuhr sind für jede grenztierärztlich kontrollpflichtige Sendung ein
 
 #### Art. 61
 
-**Durchfuhren nach EU-Mitgliedstaaten, Island oder Norwegen**
+**Durchfuhren nach EU-Mitgliedstaaten, Island oder Norwegen oder nach Nordirland**[^61-1]
 
 <sup>1</sup>
 
-Bei der Durchfuhr grenztierärztlich kontrollpflichtiger Sendungen nach EU-Mitgliedstaaten, Island oder Norwegen sind eine Dokumentenkontrolle, eine Identitätskontrolle und eine physische Kontrolle durchzuführen für:
+Bei der Durchfuhr grenztierärztlich kontrollpflichtiger Sendungen nach EU-Mitgliedstaaten, Island oder Norwegen oder nach Nordirland sind eine Dokumentenkontrolle, eine Identitätskontrolle und eine physische Kontrolle durchzuführen für:
 
-- a. Tierprodukte, die länger als 48 Stunden auf dem Flughafen bleiben;
-- b. Tiere, die aus dem Flugzeug ausgeladen werden;
-- c. Schlachttiere;
-- d. Tiere und Tierprodukte, die vom Flughafen auf dem Landweg weitertransportiert werden.
+- a. Schlachttiere;
+- b.
 
-<sup>2</sup> Das BLV kann mit der zuständigen Behörde des Bestimmungsstaates vereinbaren, dass die Identitätskontrolle und die physische Kontrolle von Tieren und Tierprodukten, die mit dem Flugzeug weitertransportiert werden, an einer zugelassenen Grenzkontrollstelle des Bestimmungsstaates nach Artikel 8 Ziffer 1 Buchstabe b der Richtlinie 91/496/EWG[^61-1] durchgeführt wird.
+  andere Tiere als Schlachttiere, wenn sie:
 
-- [tab] <sup>3</sup> Nur eine Dokumentenkontrolle ist erforderlich für:
-- a. Tierprodukte, die länger als zwölf, aber höchstens 48 Stunden auf dem Flughafen bleiben;
-- b. Tiere, die im Flugzeug bleiben.
-- [tab] <sup>4</sup> Keine Kontrolle ist erforderlich für:
-- a. Tierprodukte, die höchstens zwölf Stunden auf dem Flughafen bleiben;
-- b. Tierprodukte, die im Flugzeug bleiben.
+  - 1\. aus dem Flugzeug ausgeladen werden, oder
+  - 2\. im Flugzeug bleiben und ein Verdacht auf einen Verstoss gegen die Einfuhrvorschriften besteht;
 
-<sup>5</sup> Der grenztierärztliche Dienst nimmt bei grenztierärztlich kontrollpflichtigen Sendungen zusätzliche Kontrollen vor, wenn dies aus Gründen der Tiergesundheit, des Tierschutzes oder der Lebensmittelsicherheit angezeigt ist.
+- c. Tierprodukte, die vom Flughafen auf dem Landweg weitertransportiert werden;
+- d. Tierprodukte, die aus dem Flugzeug ausgeladen werden und bei denen ein Verdacht auf einen Verstoss gegen die Einfuhrvorschriften besteht.
 
-[^61-1]: Richtlinie 91/496/EWG des Rates vom 15. Juli 1991 zur Festlegung von Grundregeln für die Veterinärkontrollen von aus Drittländern in die Gemeinschaft eingeführten Tieren und zur Änderung der Richtlinien 89/662/EWG, 90/425/EWG und 90/675/EWG, ABl. L 268 vom 24.9.1991, S. 56; zuletzt geändert durch Richtlinie 2009/156/EG, ABl. L 192 vom 23.7.2010, S. 1.
+<sup>2</sup>
+
+Nur eine Dokumentenkontrolle ist erforderlich für:
+
+- a. Tierprodukte, die länger als 72 Stunden auf dem Flughafen bleiben;
+- b. Tiere, die im Flugzeug bleiben und bei denen kein Verdacht auf einen Verstoss gegen die Einfuhrvorschriften besteht.
+
+<sup>3</sup> Keine Kontrolle ist erforderlich für Sendungen, bei denen die erforderlichen Kontrollen an einer anderen Grenzkontrollstelle durchgeführt wurden.
+
+<sup>4</sup> Der grenztierärztliche Dienst nimmt bei grenztierärztlich kontrollpflichtigen Sendungen zusätzliche Kontrollen vor, wenn dies aus Gründen der Tiergesundheit, des Tierschutzes oder der Lebensmittelsicherheit angezeigt ist.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 62
 
@@ -1049,12 +1103,13 @@ Bei der Durchfuhr grenztierärztlich kontrollpflichtiger Sendungen nach EU-Mitgl
 
 Die Kontrolle beschränkt sich auf eine Überprüfung des Ladungsmanifests bei:
 
-- a. Tierprodukten, die innerhalb von zwölf Stunden von einem Flugzeug in ein anderes umgeladen werden, ohne den Amtsplatz zu verlassen;
+- a.[^62-2] Tierprodukten, die innerhalb von 72 Stunden von einem Flugzeug in ein anderes umgeladen werden, ohne den Amtsplatz zu verlassen;
 - b. Tieren oder Tierprodukten, die im Flugzeug bleiben.
 
 <sup>3</sup> Bei Sendungen, die vom Flughafen auf dem Landweg weitertransportiert werden, führt der grenztierärztliche Dienst eine Dokumentenkontrolle, eine Identitätskontrolle und eine physische Kontrolle durch.
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^62-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 63
 
@@ -1068,15 +1123,15 @@ Die Kontrolle beschränkt sich auf eine Überprüfung des Ladungsmanifests bei:
 
 #### Art. 64
 
-**Verstärkung der Kontrollen**
+**Verstärkung der Kontrollen**[^64-1]
 
-<sup>1</sup> Der grenztierärztliche Dienst verstärkt die Kontrollen, wenn Fälle von Widerhandlungen gegen die Tierseuchen- oder Lebensmittelgesetzgebung vorliegen oder ein Verdacht auf solche Widerhandlungen besteht. In solchen Fällen können Sendungen beschlagnahmt, einer Laboruntersuchung unterzogen und nur bei günstigem Laborbefund freigegeben werden.
+<sup>1</sup> Der grenztierärztliche Dienst verstärkt die Kontrollen, wenn Fälle von Widerhandlungen gegen die Tierseuchen-, Tierschutz- oder Lebensmittelgesetzgebung vorliegen oder ein Verdacht auf solche Widerhandlungen besteht. In solchen Fällen können Sendungen beschlagnahmt, einer weitergehenden Untersuchung unterzogen und nur bei günstigem Untersuchungsbefund freigegeben werden.
 
-<sup>2</sup> Bei schweren Widerhandlungen im Zusammenhang mit der Einfuhr oder der Durchfuhr von Tierprodukten veranlasst das BLV eine Verstärkung der Kontrollen bei allen Sendungen der gleichen Herkunft. Es veranlasst, dass die nächsten zehn Sendungen beschlagnahmt, einer Laboruntersuchung unterzogen und nur bei günstigem Laborbefund freigegeben werden. Das BLV arbeitet mit den Leitstellen der Grenzkontrollstellen der EU-Mitgliedstaaten, Islands und Norwegens zusammen und koordiniert die Erfassung der zehn zu beschlagnahmenden Sendungen.
+<sup>2</sup> Bei schweren Widerhandlungen im Zusammenhang mit der Einfuhr oder der Durchfuhr von Tierprodukten veranlasst das BLV eine Verstärkung der Kontrollen bei allen Sendungen der gleichen Herkunft. Es veranlasst, dass die nächsten zehn Sendungen beschlagnahmt, einer weitergehenden Untersuchung unterzogen und nur bei günstigem Untersuchungsbefund freigegeben werden. Das BLV arbeitet mit den Leitstellen der Grenzkontrollstellen der EU-Mitgliedstaaten, Islands und Norwegens sowie Nordirlands zusammen und koordiniert die Erfassung der zehn zu beschlagnahmenden Sendungen.
 
-<sup>3</sup> Bei einem generell erhöhten Risiko in Bezug auf die Einhaltung der tierseuchenrechtlichen oder lebensmittelhygienischen Vorschriften in einem Herkunftsstaat, einer Herkunftsregion oder einem Herkunftsbetrieb kann das BLV anordnen, dass grenztierärztlich kontrollpflichtige Sendungen mit Tierprodukten bei jeder Einfuhr und bei jeder Durchfuhr in einen EU-Mitgliedstaat, nach Island oder Norwegen einer Laboruntersuchung unterzogen und nur bei günstigem Laborbefund freigegeben werden.[^64-1]
+<sup>3</sup> Bei einem generell erhöhten Risiko in Bezug auf die Einhaltung der tierseuchenrechtlichen, tierschutzrechtlichen oder lebensmittelhygienischen Vorschriften in einem Herkunftsstaat, einer Herkunftsregion oder einem Herkunftsbetrieb kann das BLV anordnen, dass grenztierärztlich kontrollpflichtige Sendungen bei jeder Einfuhr und bei jeder Durchfuhr in einen EU-Mitgliedstaat, nach Island oder Norwegen oder nach Nordirland einer weitergehenden Untersuchung unterzogen und nur bei günstigem Untersuchungsbefund freigegeben werden.
 
-[^64-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^64-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 65
 
@@ -1107,6 +1162,8 @@ Er verfügt wenn nötig:
 
 **Sendungen mit Mängeln**
 
+<sup>1</sup>
+
 Eine Sendung ist mangelhaft, wenn die Kontrollen durch den grenztierärztlichen Dienst ergeben, dass sie den Ein-, Durch- oder Ausfuhrbedingungen nicht entspricht. Sie ist insbesondere mangelhaft, wenn:
 
 - a. sie ein Risiko für die Gesundheit von Mensch oder Tier darstellt;
@@ -1120,8 +1177,11 @@ Eine Sendung ist mangelhaft, wenn die Kontrollen durch den grenztierärztlichen 
 - i. die Grenzkontrollstelle für die Kategorie der Tiere oder Tierprodukte nicht zugelassen ist; oder
 - j.[^67-2] die Verpackung nicht den Anforderungen nach Artikel 22 Absatz 1<sup>bis</sup> entspricht.
 
+<sup>2</sup> Sendungen, die für die Durchfuhr nach Drittstaaten bestimmt sind und länger als 72 Stunden auf dem Flughafen bleiben, gelten zudem nach Ablauf dieser 72 Stunden als mangelhaft, wenn sie den Einfuhrbedingungen nicht entsprechen.[^67-3]
+
 [^67-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^67-2]: Eingefügt durch Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^67-3]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 68
 
@@ -1228,43 +1288,48 @@ Der grenztierärztliche Dienst zieht ein:
 - b. herrenlose Tiere und Tierprodukte;
 - c.[^72-1] offensichtlich verdorbene Tierprodukte sowie Tierprodukte, bei denen eine Überschreitung der nach Artikel 10 Absatz 4 Buchstabe e LGV[^72-2] festgelegten Höchstwerte für Rückstände und Kontaminanten festgestellt worden ist;
 - d. verendete Tiere;
-- e.[^72-3] Tiere und Tierprodukte, die aus tierseuchenrechtlichen oder lebensmittelhygienischen Gründen nicht zurückgesendet oder weitertransportiert werden können.
+- e.[^72-3] Tiere und Tierprodukte, die aus tierseuchenrechtlichen oder lebensmittelhygienischen Gründen nicht zurückgesendet oder weitertransportiert werden können;
+- f.[^72-4] Lebensmittel tierischer Herkunft, bei denen die vom EDI gestützt auf Artikel 10 Absatz 4 LGV[^72-5] erlassenen mikrobiologischen Kriterien für die Lebensmittelsicherheit nicht eingehalten sind.
 
 <sup>2</sup> Tiere, die aus tierschutzrechtlichen Gründen beschlagnahmt worden sind, werden eingezogen, wenn der Importeur oder die anmeldepflichtige Person nicht für die Herstellung des tierschutzkonformen Zustands aufkommt. Die Tiere müssen in eine vom BLV bestimmte Einrichtung oder an einen anderen geeigneten Ort gebracht oder getötet werden.
 
 <sup>3</sup> Aus tierseuchenrechtlichen Gründen eingezogene Tiere werden getötet.
 
-<sup>4</sup> Eingezogene Tierprodukte und verendete Tiere werden vom BLV nach der VTNP[^72-4] entsorgt.
+<sup>4</sup> Eingezogene Tierprodukte und verendete Tiere werden vom BLV nach der VTNP[^72-6] entsorgt.
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^72-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^72-4]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^72-5]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^72-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 73
 
 **Sofortmassnahmen**
 
-<sup>1</sup> Der grenztierärztliche Dienst ordnet die erforderlichen Sofortmassnahmen an, um eine Gefährdung der Tiergesundheit oder des Tierwohls oder eine Beeinträchtigung anderer Sendungen zu vermeiden.
+<sup>1</sup> Der grenztierärztliche Dienst ordnet die erforderlichen Sofortmassnahmen an, um eine Gefährdung des Tierwohls, der Tiergesundheit oder der öffentlichen Gesundheit oder eine Beeinträchtigung anderer Sendungen zu vermeiden.[^73-1]
 
 <sup>2</sup>
 
 Bei einer möglichen Gefährdung der Tiergesundheit ordnet er insbesondere an:
 
 - a. die vorsorgliche Absonderung;
-- b. die in der TSV[^73-1] vorgesehenen Massnahmen; und
+- b. die in der TSV[^73-2] vorgesehenen Massnahmen; und
 - c. die Unterbringung, das Tränken, das Füttern und die Pflege.
 
 <sup>3</sup> Bei einer möglichen Gefährdung des Tierwohls ordnet er nach Absprache mit der zuständigen kantonalen Behörde die Beschlagnahme der Tiere und deren Weiterleitung an diese Behörde an.
 
-[^73-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^73-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^73-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 74
 
 **Weitere Massnahmen**
 
-- [tab] <sup>1</sup> Der grenztierärztliche Dienst kann die Reinigung und Desinfektion von Transportmitteln, Anlagen, Einrichtungen und Geräten anordnen.
-- [tab] <sup>2</sup> Er kann das Beladen von Transportmitteln, die nicht der Tierschutzgesetzgebung entsprechen, verbieten.
+<sup>1</sup> Der grenztierärztliche Dienst kann die Reinigung und Desinfektion von Transportmitteln, Anlagen, Einrichtungen und Geräten anordnen.
+
+<sup>2</sup> Er kann das Beladen von Transportmitteln, die nicht der Tierschutzgesetzgebung entsprechen, verbieten.
 
 ### 2. Abschnitt: Behördliche Meldepflichten
 
@@ -1287,9 +1352,11 @@ Die zuständige kantonale Behörde informiert:
 
 #### Art. 76
 
-**Meldungen bei der Durchfuhr von Tierprodukten mit besonderen Auflagen**
+**Meldungen bei der Durchfuhr von Tierprodukten mit besonderen Auflagen**[^76-1]
 
-Bei der Durchfuhr von Tierprodukten mit besonderen Auflagen, die im Einfuhrgebiet vollständig grenztierärztlich kontrolliert worden sind, nach den EU-Mitgliedstaaten, Island und Norwegen informiert der grenztierärztliche Dienst via TRACES die zuständige Kontrollbehörde des Bestimmungsstaates.
+Bei der Durchfuhr von Tierprodukten mit besonderen Auflagen, die im Einfuhrgebiet vollständig grenztierärztlich kontrolliert worden sind, nach den EU-Mitgliedstaaten, Island und Norwegen sowie nach Nordirland informiert der grenztierärztliche Dienst via TRACES die zuständige Kontrollbehörde des Bestimmungsstaates.
+
+[^76-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 77
 
@@ -1301,21 +1368,21 @@ Bei der Durchfuhr von Tierprodukten mit besonderen Auflagen, die im Einfuhrgebie
 
 #### Art. 78
 
-**Meldungen bei Durchfuhren via EU-Mitgliedstaaten, Island oder Norwegen nach Drittstaaten**
+**Meldungen bei Durchfuhren via EU-Mitgliedstaaten, Island oder Norwegen oder via Nordirland nach Drittstaaten**[^78-1]
 
-<sup>1</sup> Bei der Durchfuhr von grenztierärztlich kontrollpflichtigen Sendungen via EU-Mitgliedstaaten, Island oder Norwegen nach Drittstaaten informiert der grenztierärztliche Dienst via TRACES die Behörde, die für diejenige Grenzkontrollstelle zuständig ist, an der eine Sendung das Einfuhrgebiet oder einen EU-Mitgliedstaat, Island oder Norwegen in einen Drittstaat verlassen wird.[^78-1]
+<sup>1</sup> Bei der Durchfuhr von grenztierärztlich kontrollpflichtigen Sendungen via EU-Mitgliedstaaten, Island oder Norwegen oder via Nordirland nach Drittstaaten informiert der grenztierärztliche Dienst via TRACES die Behörde, die für diejenige Grenzkontrollstelle zuständig ist, an der eine Sendung das Einfuhrgebiet, einen EU-Mitgliedstaat, Island oder Norwegen oder Nordirland in einen Drittstaat verlassen wird.
 
-<sup>2</sup> Hat der grenztierärztliche Dienst Anhaltspunkte dafür, dass eine Sendung das Ein-fuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen nicht innerhalb der vorgeschriebenen Frist verlassen hat, so informiert er das BAZG. Dieses führt weitere Abklärungen durch. Kann es nicht feststellen, dass die Sendung das Einfuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen verlassen hat, so informiert das BLV die zuständigen Stellen der Kantone und die Staaten, durch die der Transport führen sollte.
+<sup>2</sup> Hat der grenztierärztliche Dienst Anhaltspunkte dafür, dass eine Sendung das Einfuhrgebiet, die EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland nicht innerhalb der vorgeschriebenen Frist verlassen hat, so informiert er das BAZG. Dieses führt weitere Abklärungen durch. Kann es nicht feststellen, dass die Sendung das Einfuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland verlassen hat, so informiert das BLV die zuständigen Stellen der Kantone und die Staaten, durch die der Transport führen sollte.
 
-[^78-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^78-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 79
 
 **Meldungen bei Durchfuhren direkt nach Drittstaaten**[^79-1]
 
-Meldet die für eine Grenzkontrollstelle zuständige Behörde der EU, Islands oder Norwegens dem grenztierärztlichen Dienst in der Schweiz, dass eine Durchfuhrsendung nach Drittstaaten das Einfuhrgebiet direkt in diesen Drittstaat verlassen wird, so bestätigt der grenztierärztliche Dienst die erfolgte Durchfuhr.
+Meldet die für eine Grenzkontrollstelle zuständige Behörde der EU, Islands oder Norwegens oder Nordirlands dem grenztierärztlichen Dienst in der Schweiz, dass eine Durchfuhrsendung nach Drittstaaten das Einfuhrgebiet direkt in diesen Drittstaat verlassen wird, so bestätigt der grenztierärztliche Dienst die erfolgte Durchfuhr.
 
-[^79-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^79-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 3. Abschnitt: Massnahmen ausserhalb der Kontrollen des grenztierärztlichen Dienstes
 
@@ -1386,14 +1453,17 @@ Ergibt der Datenabgleich, dass keine Freigabe durch den grenztierärztlichen Die
 
 <sup>1</sup>
 
-Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet es dies:
+Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so informiert es:
 
-- a. bei der Ein- und der Durchfuhr: dem grenztierärztlichen Dienst;
-- b. bei der Ausfuhr: der zuständigen Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.
+- a. bei der Ein- und der Durchfuhr: den grenztierärztlichen Dienst;
+- b. bei der Ausfuhr: die zuständige Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.[^83-1]
 
-<sup>2</sup> Stellt das BAZG ausserhalb von zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet es dies der zuständigen Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.
+<sup>2</sup> Stellt das BAZG ausserhalb von zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so informiert es die zuständige Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.[^83-2]
 
 <sup>3</sup> Das BAZG erteilt der zuständigen kantonalen Behörde auf Verlangen Auskunft über alle wesentlichen Tatsachen und gewährt ihr Einsicht in die Akten.
+
+[^83-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 84
 
@@ -1480,20 +1550,41 @@ Der grenztierärztliche Dienst besteht aus:
 
 #### Art. 91
 
-**Grenztierärztinnen und Grenztierärzte**
+**Grenztierärztinnen und Grenztierärzte**[^91-1]
 
-<sup>1</sup> Bei der Durchführung der Kontrollen muss eine Grenztierärztin oder ein Grenztierarzt anwesend sein.
+<sup>1</sup> Bei der Durchführung der Kontrollen muss eine Grenztierärztin oder ein Grenztierarzt an der Grenzkontrollstelle anwesend sein.
 
-<sup>2</sup> Sie oder er ist verantwortlich für den Schlussentscheid.
+<sup>2</sup>
+
+Die Grenztierärztinnen und Grenztierärzte müssen die physische Kontrolle selbst durchführen:
+
+- a. bei Tieren mit Ausnahme von Wassertieren;
+- b. bei Fleisch; und
+- c. bei Schlachtnebenerzeugnissen, die als Lebensmittel bestimmt sind.
+
+<sup>3</sup> Sie können die Assistentinnen und Assistenten GTD mit der Durchführung aller anderen Kontrollen beauftragen. Sie sind verantwortlich für den Schlussentscheid, ausser bei Sendungen nach Artikel 92 Absatz 2.
+
+[^91-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 92
 
-**Assistentinnen und Assistenten GTD**
+**Assistentinnen und Assistenten GTD**[^92-1]
 
-Die Assistentinnen und Assistenten GTD können unter der Aufsicht von Grenztierärztinnen und Grenztierärzten beigezogen werden für:
+<sup>1</sup>
 
-- a. die Durchführung der Kontrollen;
-- b. das Ausführen von administrativen Aufträgen und Verfahren.
+Die Assistentinnen und Assistenten GTD können:
+
+- a. die Kontrollen durchführen, mit denen sie beauftragt wurden;
+- b. administrative Aufträge und Verfahren ausführen.
+
+<sup>2</sup>
+
+Kontrollieren sie die folgenden Sendungen, so sind sie verantwortlich für den Schlussentscheid:
+
+- a. Sendungen mit Fischereierzeugnissen;
+- b. Sendungen mit lebenden Muscheln, lebenden Stachelhäutern, lebenden Manteltieren und lebenden Meeresschnecken, die als Lebensmittel bestimmt sind.
+
+[^92-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 93
 
@@ -1503,13 +1594,17 @@ Die Assistentinnen und Assistenten GTD können unter der Aufsicht von Grenztier�
 
 <sup>2</sup> Die Grenztierärztinnen und Grenztierärzte müssen über eine Ausbildung als amtliche Tierärztin oder amtlicher Tierarzt nach der Verordnung über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen verfügen.
 
-<sup>3</sup> Die Assistentinnen und Assistenten GTD werden durch die Grenztierärztinnen und Grenztierärzte ausgebildet.
+<sup>3</sup> Die Assistentinnen und Assistenten GTD werden entsprechend ihren Aufgaben durch die Grenztierärztinnen und Grenztierärzte nach Artikel 3 der Delegierten Verordnung (EU) 2019/1081[^93-2] ausgebildet.[^93-3]
 
-<sup>4</sup> Die Leiterinnen und Leiter der Grenzkontrollstellen führen Buch über die Aus- und Weiterbildung der ihnen unterstellten Personen.
+<sup>4</sup> Das BLV führt Buch über die Aus- und Weiterbildung der an den Grenzkontrollstellen tätigen Personen.[^93-4]
 
-<sup>5</sup> Das BLV organisiert in Zusammenarbeit mit dem BAZG Aus- und Weiterbildungskurse für den grenztierärztlichen Dienst über den Vollzug der Tierseuchen-, Tierschutz-, Lebensmittel- und Zollgesetzgebung.
+<sup>5</sup> Es organisiert für den grenztierärztlichen Dienst Aus- und Weiterbildungskurse über den Vollzug der Tierseuchen-, Tierschutz-, Lebensmittel- und Zollgesetzgebung.[^93-5]
 
 [^93-1]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^93-2]: Delegierte Verordnung (EU) 2019/1081 der Kommission vom 8. März 2019 mit Vorschriften zu spezifischen Anforderungen an die Schulung des Personals, das bestimmte Warenuntersuchungen an Grenzkontrollstellen durchführt, Fassung gemäss ABl L. 171 vom 26.6.2019, S. 1.
+[^93-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-4]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-5]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 94
 
@@ -1547,9 +1642,11 @@ Das BAZG erteilt dem BLV auf Verlangen Auskunft über alle Tatsachen, die für d
 
 **Erweiterung von Grenzkontrollstellen**
 
-<sup>1</sup> Das BLV verlangt von den Flughafenhaltern eine Erweiterung der Bodenflächen oder eine Bereitstellung weiterer Räumlichkeiten innerhalb angemessener Frist, wenn ein erhöhtes Verkehrsaufkommen dazu führt, dass die bereits bestehenden Räumlichkeiten ihre Funktion nicht mehr erfüllen können.
+<sup>1</sup> Das BLV verlangt von den Flughafenhaltern eine Erweiterung der Bodenflächen oder eine Bereitstellung weiterer Räumlichkeiten innerhalb angemessener Frist, wenn ein erhöhtes Verkehrsaufkommen, neue gesetzliche Vorgaben oder betriebliche Veränderungen an der Grenzkontrollstelle dazu führen, dass die bereits bestehenden Räumlichkeiten ihre Funktion nicht mehr erfüllen können.[^97-1]
 
 <sup>2</sup> Erfolgen die Erweiterung der Bodenflächen oder die Bereitstellung der Räumlichkeiten nicht fristgerecht, so gilt die Grenzkontrollstelle für die betroffenen Kategorien von Tieren und Tierprodukten bis zur Erweiterung oder Bereitstellung nicht mehr als zugelassen. Der Flughafenhalter hat die Fluggesellschaften darüber umgehend zu informieren.
+
+[^97-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 3. Abschnitt: Informationssystem TRACES
 
@@ -1579,23 +1676,40 @@ Die folgenden Behörden, Institutionen und Personen müssen in TRACES registrier
 
 #### Art. 99
 
-**Zugang**
+**Zugang**[^99-1]
 
-Die registrierten Behörden und Personen haben Zugang zu TRACES, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist.
+<sup>1</sup>
+
+Zugang zu TRACES erhalten Personen, welche die folgenden Voraussetzungen erfüllen:
+
+- a. Die Behörde oder der Betrieb, für die oder den die Personen tätig sind, ist in TRACES registriert.
+- b. Sie haben die von der zuständigen Behörde angebotene Schulung besucht oder die Behörde oder der Betrieb bestätigt, dass bei diesen Personen das für die Nutzung von TRACES erforderliche Wissen vorliegt.
+
+<sup>2</sup> Die Personen haben Zugang zu TRACES, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist.
+
+[^99-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 99a
+
+**Datenbearbeitung**[^99a-1]
+
+<sup>1</sup> Wer Zugang zu TRACES hat, darf die Daten zu ihren oder seinen Sendungen einsehen.
+
+<sup>2</sup> Die anmeldepflichtigen Personen dürfen die Daten zu ihren Sendungen erfassen und diese Daten bis zur Kontrolle der Sendung bearbeiten.
+
+<sup>3</sup> Die Behörden dürfen die Daten der Sendungen bearbeiten, die in ihren Zuständigkeitsbereich fallen.
+
+[^99a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 100
 
-**Schulungen**
+**Durchführung der Schulungen**[^100-1]
 
-<sup>1</sup> Für den Zugang zu TRACES ist der Nachweis einer TRACES-Grundschulung zu erbringen.
+<sup>1</sup> Das BLV führt die Schulungen für das BAZG, die TRACES-Verantwortlichen der kantonalen Amtsstellen und die anmeldepflichtigen Personen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
 
-<sup>2</sup> Die registrierten Personen müssen regelmässig an Wiederholungsschulungen teilnehmen.
+<sup>2</sup> Die TRACES-Verantwortlichen der kantonalen Amtsstellen führen die Schulungen für die amtlichen Tierärztinnen und Tierärzte und die kantonalen Lebensmittelinspektorinnen und Lebensmittelinspektoren durch, die im Rahmen ihrer Tätigkeit TRACES verwenden.
 
-<sup>3</sup> Das BLV führt die Grundschulung und die Wiederholungsschulungen für das BAZG und für die TRACES-Verantwortlichen der kantonalen Amtsstellen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
-
-<sup>4</sup> Es führt zudem die Schulungen der Personen nach Artikel 17 durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
-
-<sup>5</sup> Die TRACES-Verantwortlichen der kantonalen Amtsstellen führen für die amtlichen Tierärztinnen und Tierärzte und kantonalen Lebensmittelinspektorinnen und Lebensmittelinspektoren, die im Rahmen ihrer Tätigkeit TRACES verwenden, die Grundschulung und die Wiederholungsschulungen durch.
+[^100-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 101
 
@@ -1662,56 +1776,104 @@ Das Informationssystem EDAV enthält folgende Daten im Zusammenhang mit der Einf
 
 <sup>2</sup> Die mit dem Vollzug der Bestimmungen im Bereich der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten betrauten Mitarbeiterinnen und Mitarbeiter des BLV haben Zugriff auf die Daten. Sie dürfen diese Daten erfassen, einsehen und bearbeiten.
 
-#### Art. 102d
+#### Art. 102d–102h
 
-**Datenschutz**
+[^102d102h-1]
 
-Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. Für die dafür notwendigen organisatorischen und technischen Massnahmen erlässt es ein Bearbeitungsreglement.[^102d-1]
-
-[^102d-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 130 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-
-#### Art. 102e
-
-**Rechte der betroffenen Personen**[^102e-1]
-
-<sup>1</sup> Die Rechte der Personen, über die im Informationssystem EDAV Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^102e-2].
-
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^102e-3] ein Gesuch beim BLV einreichen.
-
-[^102e-1]: Fassung gemäss Anhang 2 Ziff. II 130 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^102e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^102e-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-
-#### Art. 102f
-
-**Berichtigung von Daten**
-
-Das BLV sorgt für die Berichtigung unrichtiger Daten.
-
-#### Art. 102g
-
-**Informationssicherheit**[^102g-1]
-
-Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^102g-2].
-
-[^102g-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^102g-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-
-#### Art. 102h
-
-**Archivierung und Löschung der Daten**
-
-<sup>1</sup> Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^102h-1].
-
-<sup>2</sup> Die Daten zu erteilten Bewilligungen werden 20 Jahre nach der letzten Bearbeitung, die Daten zu abgelehnten Gesuchen fünf Jahre nach der letzten Bearbeitung gelöscht.
-
-[^102h-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^102d102h-1]: Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 102i
 
 **Verknüpfung mit dem System «e-dec»**
 
 Das Informationssystem EDAV kann zum elektronischen Abgleich von Daten zu Einfuhrsendungen mit dem System «e-dec» verbunden werden.
+
+### 5. Abschnitt: Informationssystem E-Cert
+
+[^chap7-sec5-1]
+
+[^chap7-sec5-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 102j
+
+**Betrieb und Zweck**
+
+<sup>1</sup> Das BLV sorgt für den Betrieb des Informationssystems E-Cert.
+
+<sup>2</sup> Das E-Cert dient der Ausstellung von Gesundheitsbescheinigungen zur Ausfuhr von Tieren und Tierprodukten nach Drittstaaten nach den Artikeln 48–50 und zur Bearbeitung der Daten, die dafür benötigt werden.
+
+#### Art. 102k
+
+**Inhalt**
+
+Das E-Cert enthält die folgenden Daten zu Ausfuhrsendungen:
+
+- a. Angaben zum Exporteur sowie zum Importeur im Bestimmungsstaat;
+- b. Angaben zu Herkunfts- und Bestimmungsbetrieb;
+- c. Angaben zu Transportmittel und Route;
+- d. Angaben zur Sendung;
+- e. Angaben zum Verwendungszweck.
+
+#### Art. 102l
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Exporteure dürfen die sie betreffenden Daten nach Artikel 102*k* erfassen und bearbeiten.
+
+<sup>2</sup> Die kantonalen Vollzugsbehörden dürfen in ihrem Zuständigkeitsbereich die Daten nach Artikel 102*k* bearbeiten.
+
+<sup>3</sup> Das BLV darf alle Daten einsehen.
+
+### 6. Abschnitt: Gemeinsame Bestimmungen für das Informationssystem EDAV und das E‑Cert
+
+[^chap7-sec6-1]
+
+[^chap7-sec6-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 102m
+
+**Datenschutz**
+
+<sup>1</sup> Das BLV, die kantonalen Vollzugsbehörden, die Importeure und die Exporteure sorgen beim Informationssystem EDAV und beim E‑Cert jeweils in ihrem Bereich für die Einhaltung der Bestimmungen zum Datenschutz.
+
+<sup>2</sup> Das BLV erlässt für die notwendigen technischen und organisatorischen Massnahmen ein Bearbeitungsreglement.
+
+#### Art. 102n
+
+**Rechte der betroffenen Personen**
+
+Die Rechte der Personen, über die in den Informationssystemen Daten bearbeitet werden, insbesondere das Recht auf Auskunft über ihre Daten oder auf Berichtigung oder Vernichtung von Daten sowie über die Beschaffung von Daten, richten sich nach:
+
+- a. dem Datenschutzgesetz vom 25. September 2020[^102n-1], wenn sie ihre Rechte gegenüber dem BLV geltend machen;
+- b. dem jeweiligen kantonalen Datenschutzrecht, wenn sie ihre Rechte gegenüber einer kantonalen Vollzugsbehörde geltend machen.
+
+[^102n-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 102o
+
+**Berichtigung von Daten**
+
+Das BLV, die kantonalen Vollzugsbehörden, die Importeure und die Exporteure sorgen für die Berichtigung der von ihnen erfassten unrichtigen Daten.
+
+#### Art. 102p
+
+**Informationssicherheit**
+
+Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^102p-1].
+
+[^102p-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+#### Art. 102q
+
+**Aufbewahrung und Archivierung der Daten**
+
+<sup>1</sup> Die Daten des Informationssystems EDAV und des E-Cert dürfen längstens 10 Jahre in den Informationssystemen aufbewahrt werden.
+
+<sup>2</sup> Die Archivierung der Daten richtet sich nach dem Archivierungsgesetz vom 26. Juni 1998[^102q-1]. Das BLV informiert die Kantone über bevorstehende Archivierungen und unterstützt sie bei Bedarf beim Export der von ihnen erfassten Daten aus den Informationssystemen.
+
+<sup>3</sup> Anonymisierte Daten dürfen über die Frist nach Absatz 1 hinaus in den Informationssystemen aufbewahrt werden.
+
+[^102q-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## 8. Kapitel: Gebühren und Kosten
 
@@ -1725,7 +1887,7 @@ Dem Importeur werden im Zusammenhang mit der Einfuhr folgende Gebühren und Kost
 
 - a. die Gebühren für Dienstleistungen und Verfügungen des BLV nach der Gebührenverordnung BLV vom 30. Oktober 1985[^103-1];
 - b. die Gebühren und Kosten, die durch Massnahmen und Kontrollen entstehen, die vom Bund oder den Kantonen angeordnet werden;
-- c.[^103-2] die Kosten für Laboruntersuchungen nach Artikel 64 Absatz 3;
+- c.[^103-2] die Kosten für Untersuchungen nach Artikel 64 einschliesslich Versandkosten;
 - d. die Kosten für Laboruntersuchungen, die im Rahmen von Stichprobenuntersuchungen angeordnet werden, sofern ihr Befund ungünstig ist;
 - e. die Kosten der Quarantäne nach Artikel 85;
 - e<sup>bis</sup>.[^103-3] die Kosten, die durch vorübergehend zu treffende Schutzmassnahmen nach Artikel 5 Absatz 1 Buchstabe e verursacht werden;
@@ -1738,7 +1900,7 @@ Dem Importeur werden im Zusammenhang mit der Einfuhr folgende Gebühren und Kost
 <sup>4</sup> Der anmeldepflichtigen Person werden die Unterbringungskosten nach Artikel 24 Absatz 3 in Rechnung gestellt.
 
 [^103-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
-[^103-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^103-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^103-3]: Eingefügt durch Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 104
@@ -1852,6 +2014,14 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2016 in Kraft.
 
 <sup>2</sup> Artikel 35 Absatz 6 tritt am 1. Juli 2016 in Kraft.
+
+#### Art. 114
+
+**Übergangsbestimmung zur Änderung vom 31. Mai 2024**[^114-1]
+
+Gesundheitsbescheinigungen nach den Artikeln 48–50, für die im E-Cert eine Vorlage vorliegt, zur Ausfuhr von Tieren und Tierprodukten nach Drittstaaten dürfen noch bis zum 31. Dezember 2024 in Papierform erstellt und bearbeitet werden.
+
+[^114-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 Anhang
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,19 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° gennaio 2024)
+del 18 novembre 2015 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 6 capoverso 3, 7 capoverso 1, 9, 14 capoverso 1, 15*a* capoverso 2 e 32 capoverso 1 della legge del 16 dicembre 2005[^ingress-1] sulla protezione degli animali; visto l’articolo 44 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari (LDerr); visti gli articoli 24 capoverso 1, 25 capoverso 1, 53*a* capoverso 2 e 56 capoverso 1 della legge del 1° luglio 1966[^ingress-3] sulle epizoozie (LFE); in applicazione dell’allegato 11 dell’Accordo del 21 giugno 1999[^ingress-4] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli (Accordo agricolo),[^ingress-5]
+visti gli articoli 6 capoverso 3, 7 capoverso 1, 9, 14 capoverso 1, 15*a* capoverso 2 e 32 capoverso 1 della legge federale del 16 dicembre 2005[^ingress-1] sulla protezione degli animali; visto l’articolo 44 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari (LDerr); visto l’articolo 18 capoverso 1 della legge del 29 aprile 1998[^ingress-3] sull’agricoltura; visti gli articoli 24 capoverso 1, 25 capoverso 1, 53*a* capoverso 2 e 56 capoverso 1 della legge del 1° luglio 1966[^ingress-4] sulle epizoozie (LFE); in applicazione dell’allegato 11 dell’Accordo del 21 giugno 1999[^ingress-5] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli (Accordo agricolo),[^ingress-6]
 
 ordina:
 
 [^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-6]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -74,7 +75,7 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 
 [^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-3]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^3-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^3-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
@@ -85,52 +86,55 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 
 Nella presente ordinanza si intende per:
 
-- a. *territorio d’importazione*: il territorio svizzero, incluse le enclavi doganali svizzere (Samnaun e Sampuoir) e le enclavi doganali estere (Principato del Liechtenstein, Büsingen e Campione);
-- b. *Paesi terzi*: tutti i Paesi eccetto gli Stati membri dell’UE, l’Islanda e la Norvegia;
+- a.[^4-1] *territorio d’importazione:* il territorio svizzero, incluse le enclavi doganali svizzere (Samnaun e Sampuoir) e le enclavi doganali estere (Principato del Liechtenstein e Büsingen);
+- b.[^4-2] *Paesi terzi:* tutti i Paesi eccetto gli Stati membri dell’UE, l’Islanda e la Norvegia, ed escluso il territorio dell’Irlanda del Nord;
 - c.
 
   *prodotti animali:*
 
   - 1\. derrate alimentari di origine animale o contenenti una parte di derrate alimentari di origine animale,
   - 2\. sottoprodotti di origine animale,
-  - 3\.[^4-1] sperma, ovuli ed embrioni animali destinati alla riproduzione;
+  - 3\.[^4-3] sperma, ovuli ed embrioni animali destinati alla riproduzione;
 
-- d.[^4-2]
+- d.[^4-4]
 
   *sottoprodotti di origine animale:*
 
   - 1\. corpi di animali e carcasse nonché le loro parti, di cui non è consentito il consumo o che sono stati esclusi dalla catena alimentare,
-  - 2\. prodotti di origine animale e resti alimentari ai sensi dell’articolo 3 lettera p dell’ordinanza del 25 maggio 2011[^4-3] concernente i sottoprodotti di origine animale (OSOAn), di cui non sia consentito il consumo o che siano stati esclusi dalla catena alimentare,
+  - 2\. prodotti di origine animale e resti alimentari ai sensi dell’articolo 3 lettera p dell’ordinanza del 25 maggio 2011[^4-5] concernente i sottoprodotti di origine animale (OSOAn), di cui non sia consentito il consumo o che siano stati esclusi dalla catena alimentare,
   - 3\. sperma, ovuli ed embrioni animali a destinazione diversa della riproduzione;
 
 - e. *certificato sanitario*: documento che attesta la provenienza di una partita nonché l’ottemperanza ai requisiti di polizia sanitaria, di protezione degli animali e di igiene delle derrate alimentari;
-- f.[^4-4] *documento sanitario comune di entrata (DSCE):* documento di cui agli articoli 56–58 del regolamento (UE) 2017/625[^4-5], che viene impiegato per notificare le partite al posto di ispezione frontaliero e per registrare il risultato dei controlli e le misure del servizio veterinario di confine riguardanti le partite;
-- g.[^4-6] *«Trade Control and Expert System»* (*TRACES):* un sistema integrato nel sistema di trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625;
-- g<sup>bis</sup>.[^4-7] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-8] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-9] sulle dogane (LD);
-- h.[^4-10] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
-- i. *lettera o pacco*: partita secondo l’articolo 2 lettera c o d della legge del 17 dicembre 2010[^4-11] sulle poste;
-- j. *importazione*: introduzione permanente o temporanea di animali e prodotti animali nel territorio d’importazione, ad eccezione dei trasporti a scopo di transito secondo l’articolo 6 lettera i della legge del 18 marzo 2005[^4-12] sulle dogane (LD);
-- k. *importatore*: persona fisica o giuridica responsabile di un’importazione, definita come importatore in un eventuale DSCE[^4-13];
+- f.[^4-6] *documento sanitario comune di entrata (DSCE):* documento di cui agli articoli 56–58 del regolamento (UE) 2017/625[^4-7], che viene impiegato per notificare le partite al posto di controllo frontaliero e per registrare il risultato dei controlli e le misure del servizio veterinario di confine riguardanti le partite;
+- g.[^4-8] *«Trade Control and Expert System»* (*TRACES):* un sistema integrato nel sistema di trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625;
+- g<sup>bis</sup>.[^4-9] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-10] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-11] sulle dogane (LD);
+- h.[^4-12] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o uno stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto e provenienti dallo stesso luogo di provenienza;
+- i.[^4-13] *lettera o pacco:* partita inviata per lettera o pacco fino a un massimo di 30 kg;
+- j. *importazione*: introduzione permanente o temporanea di animali e prodotti animali nel territorio d’importazione, ad eccezione dei trasporti a scopo di transito secondo l’articolo 6 lettera i della legge del 18 marzo 2005[^4-14] sulle dogane (LD);
+- k. *importatore*: persona fisica o giuridica responsabile di un’importazione, definita come importatore in un eventuale DSCE[^4-15];
 - l. *persona soggetta all’obbligo di dichiarazione*: persona secondo l’articolo 26 LD;
 - m. *impresa che presta servizi di sdoganamento:* impresa che, su incarico degli esercenti di aeroporti, garantisce il collegamento tra le compagnie aeree e le imprese di spedizione (handling agent);
 - n. *azienda di destinazione:* azienda nel luogo in cui devono essere trasportati gli animali o i prodotti animali, definita come azienda di destinazione in un eventuale DSCE;
-- o.[^4-14] posto *d’ispezione frontaliero:* luogo, con le relative strutture, in cui vengono effettuati i controlli veterinari di confine;
+- o.[^4-16] posto *di controllo frontaliero*[^4-17]*:* luogo, con le relative strutture, in cui vengono effettuati i controlli veterinari di confine;
 - p. *esportatore*: persona fisica o giuridica responsabile dell’esportazione.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-5]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, p. 1; modificato da ultimo dal regolamento delegato (UE) 2019/478, GU L 82 del 25.3.2019, p. 4.
-[^4-6]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-7]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-8]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-10]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^4-12]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-13]: Nuovo termine giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^4-14]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-6]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-7]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2021/1756, GU L 357 dell’8.10.2021, pag. 27.
+[^4-8]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-9]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^4-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-12]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-13]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^4-14]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-15]: Nuovo termine giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-16]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-17]: Nuova espressione giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Capitolo 2: Importazione
 
@@ -152,19 +156,17 @@ Per l’importazione di animali e prodotti animali si applicano le condizioni d�
 
 <sup>2</sup> Il Dipartimento federale dell’interno (DFI) designa gli atti normativi determinanti dell’UE.
 
-<sup>3</sup>
-
-Per gli animali e i prodotti animali elencati in seguito, il DFI stabilisce inoltre le ulteriori garanzie sanitarie da fornire in aggiunta ai certificati sanitari previsti dalle condizioni d’importazione armonizzate dell’UE, nonché le condizioni alle quali tali garanzie vengono riconosciute:
-
-- a. animali della specie bovina;
-- b. animali della specie suina;
-- c. gallinacei (*Galliformes*), palmipedi (*Anseriformes*) e struzioniformi (*Struthioniformes*), nonché le uova da cova di questi uccelli.
+<sup>3</sup> Il DFI stabilisce inoltre per quali animali e prodotti animali devono essere fornite garanzie sanitarie supplementari. Può richiedere tali garanzie sanitarie se la Svizzera ha ottenuto lo status di indenne da malattia per un’epizoozia secondo il regolamento (UE) 2016/429[^5-1] e il regolamento delegato (UE) 2020/689[^5-2]. Le garanzie sanitarie devono essere elencate nei certificati sanitari previsti dalle condizioni d’importazione armonizzate dell’UE.[^5-3]
 
 <sup>4</sup> Per gli animali e i prodotti animali per cui non esistono condizioni d’importazione armonizzate dell’UE, l’USAV può stabilire o decidere nel singolo caso condizioni d’importazione concernenti le epizoozie, le norme di protezione degli animali e l’igiene delle derrate alimentari. A tal fine può effettuare un’analisi dei rischi nel Paese di provenienza.
 
 <sup>5</sup> In caso di elevati rischi di epizoozie e per l’igiene delle derrate alimentari, l’USAV può stabilire condizioni supplementari o vietare l’importazione.
 
 <sup>6</sup> Sono fatte salve le misure emanate dall’USAV in virtù dell’articolo 24 capoverso 3 lettera a LFE volte a impedire la propagazione di un’epizoozia.
+
+[^5-1]: Regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale («normativa in materia di sanità animale»), GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.
+[^5-2]: Regolamento delegato (UE) 2020/689 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla sorveglianza, ai programmi di eradicazione e allo status di indenne da malattia per determinate malattie elencate ed emergenti, GU L 174 del 3.6.2020, pag. 211; modificato da ultimo dal regolamento delegato (UE) 2023/1798, GU L 233 del 21.9.2023, pag. 24.
+[^5-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 6
 
@@ -176,7 +178,8 @@ Gli animali per i quali è stata prescritta una quarantena dopo l’importazione
 
 **Animali soggetti a oneri particolari**
 
-- [tab] I seguenti animali possono essere importati agli scopi sotto indicati soltanto qualora siano trasportati in un’azienda di destinazione autorizzata dalle autorità cantonali competenti per lo scopo corrispondente:
+I seguenti animali possono essere importati agli scopi sotto indicati soltanto qualora siano trasportati in un’azienda di destinazione autorizzata dalle autorità cantonali competenti per lo scopo corrispondente:
+
 - a. primati, predatori (*Carnivora*), marsupiali australasiani carnivori (*Dasyuromorphia*), leporidi (*Lagomorpha*) e api (*Apiformes*), per scopi formativi, espositivi e di ricerca nonché per la conservazione della specie;
 - b. pesci, per scopi di ricerca.
 
@@ -324,9 +327,12 @@ Con l’autorizzazione si stabilisce:
 
 **Lettere e pacchi destinati a privati**[^14-1]
 
-Alle lettere e ai pacchi contenenti prodotti animali, spediti da Paesi terzi a privati nel territorio d’importazione e destinati al consumo privato, si applica per analogia l’articolo 13 capoverso 1.
+<sup>1</sup> Alle lettere e ai pacchi contenenti prodotti animali, spediti da Paesi terzi a privati nel territorio d’importazione e destinati al consumo privato, si applica per analogia l’articolo 13 capoverso 1.
+
+<sup>2</sup> I prodotti di origine non animale nelle lettere e nei pacchi devono essere riconoscibili come tali dal servizio veterinario di confine durante il controllo.[^14-2]
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^14-2]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 2: Obbligo del controllo veterinario di confine
 
@@ -340,10 +346,11 @@ Alle lettere e ai pacchi contenenti prodotti animali, spediti da Paesi terzi a p
 
 Non sono soggetti al controllo veterinario di confine:
 
-- a. animali e prodotti animali di cui al capoverso 1 che sono già stati sottoposti a un controllo veterinario di confine completo in uno Stato membro dell’UE, in Islanda o in Norvegia;
+- a.[^15-2] animali e prodotti animali di cui al capoverso 1 che sono già stati sottoposti a un controllo veterinario di confine completo in uno Stato membro dell’UE, in Islanda o in Norvegia o in Irlanda del Nord;
 - b. prodotti animali di cui al capoverso 1 importati conformemente agli articoli 13 e 14.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 16
 
@@ -357,37 +364,27 @@ L’allegato 11 dell’Accordo agricolo stabilisce:
 
 - a. i posti d’ispezione frontalieri autorizzati;
 - b. le categorie di animali e prodotti animali che possono essere importate e i posti d’ispezione frontalieri abilitati a effettuare tali importazioni.
-- [tab] <sup>3</sup> L’USAV pubblica in Internet le informazioni di cui al capoverso 2.
+
+<sup>3</sup> L’USAV pubblica in Internet le informazioni di cui al capoverso 2.
 
 ### Sezione 3: Registrazione e notifica preventiva
 
 #### Art. 17
 
-**Registrazione in TRACES**
+**Registrazione in TRACES**[^17-1]
 
-<sup>1</sup> Chiunque in caso di importazione di partite soggette al controllo veterinario di confine intenda figurare come azienda di destinazione, importatore o persona soggetta all’obbligo di dichiarazione, deve in precedenza registrarsi in TRACES.
+<sup>1</sup> Per l’importazione di una partita soggetta al controllo veterinario di confine l’azienda di destinazione, l’importatore, la persona soggetta all’obbligo di dichiarazione e, se del caso, l’impresa di trasporto devono essere registrati in TRACES con le proprietà corrispondenti al loro ruolo riferito all’importazione.
 
-<sup>2</sup> Le persone fisiche o giuridiche che intendono registrarsi come azienda di destinazione devono richiedere tale registrazione all’autorità cantonale competente. In TRACES esse vengono classificate sia come «azienda di destinazione» sia come «importatore».
+<sup>2</sup>
 
-<sup>3</sup> Le persone fisiche o giuridiche che intendono registrarsi come importatori o persone soggette all’obbligo di dichiarazione devono richiedere tale registrazione all’USAV. In TRACES esse vengono classificate rispettivamente come «importatore» e «persona soggetta all’obbligo di dichiarazione».
+La registrazione deve essere richiesta in precedenza:
 
-<sup>4</sup> I cambiamenti d’indirizzo devono essere immediatamente comunicati all’autorità competente.
+- a. dalle aziende di destinazione, dagli importatori e dalle imprese di trasporto, all’autorità cantonale competente;
+- b. dalle persone soggette all’obbligo di dichiarazione, all’USAV.
 
-<sup>5</sup>
+<sup>3</sup> I cambiamenti d’indirizzo devono essere comunicati entro una settimana all’autorità competente.
 
-La condizione per accedere a TRACES è:
-
-- a la frequenza di un corso di formazione proposto dall’USAV; oppure
-- b. la conferma da parte di una persona appartenente alla stessa azienda del richiedente e registrata in TRACES del fatto che il richiedente dispone delle necessarie conoscenze.[^17-1]
-
-<sup>6</sup> In caso di importazione di una partita soggetta al controllo veterinario di confine, l’importatore, la persona soggetta all’obbligo di dichiarazione e l’azienda di destinazione devono essere registrati e classificati come tali in TRACES.
-
-<sup>7</sup> L’importatore e la persona soggetta all’obbligo di dichiarazione hanno accesso ai dati relativi alle partite inviate da loro stessi o su loro incarico e possono modificare i dati da loro inseriti fino al controllo delle partite.
-
-<sup>8</sup> L’USAV propone a titolo gratuito la formazione di cui al capoverso 5 lettera a.[^17-2]
-
-[^17-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^17-2]: Introdotto dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 18
 
@@ -395,7 +392,7 @@ La condizione per accedere a TRACES è:
 
 <sup>1</sup> Le partite soggette al controllo veterinario di confine devono essere notificate prima del loro arrivo al servizio veterinario di confine.
 
-<sup>2</sup> A tale scopo, in caso di partite che devono essere importate con un DSCE, la parte 1 del DSCE va compilata in TRACES e trasmessa, firmata, al rispettivo posto d’ispezione frontaliero.[^18-1]
+<sup>2</sup> A tale scopo, in caso di partite che devono essere importate con un DSCE, la parte 1 del DSCE va compilata in TRACES e trasmessa, firmata, al rispettivo posto di controllo frontaliero.[^18-1]
 
 <sup>2bis</sup> Qualora dati relativi alla partita fossero già stati registrati in TRACES o trasmessi elettronicamente a TRACES da parte dell’autorità competente per l’esportazione nel Paese di provenienza, per la notifica preventiva vanno ripresi direttamente tali dati.[^18-2]
 
@@ -406,12 +403,14 @@ La condizione per accedere a TRACES è:
 La notifica preventiva deve essere effettuata al più tardi:
 
 - a. per gli animali, un giorno lavorativo prima dell’atterraggio dell’aeromobile;
-- b. per i prodotti animali, al momento dell’atterraggio dell’aeromobile.
+- b.[^18-3] per i prodotti animali, quattro ore prima dell’atterraggio dell’aeromobile.
 
-<sup>5</sup> Sono esentati dall’obbligo di notifica preventiva le lettere e i pacchi soggetti al controllo veterinario di confine trasportati dalla Posta svizzera o del Liechtenstein.
+<sup>5</sup> Sono esentati dall’obbligo di notifica preventiva le lettere e i pacchi soggetti al controllo veterinario di confine.[^18-4]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^18-2]: Introdotto dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-4]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 19
 
@@ -441,10 +440,11 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 <sup>2</sup> L’autorità competente deve firmare i certificati sanitari in formato cartaceo o elettronico. Là dove previsto, i certificati possono essere firmati anche da un’impresa autorizzata a emetterli.[^21-2]
 
-<sup>3</sup> Il DFI stabilisce gli ulteriori requisiti formali dei certificati sanitari.
+<sup>3</sup> Il DFI stabilisce i requisiti formali dei certificati sanitari. Disciplina i certificati sostitutivi.[^21-3]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 5: Trasporto
 
@@ -490,14 +490,15 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 Essa deve, immediatamente dopo l’atterraggio dell’aeromobile:
 
-- a. trasferire per via diretta gli animali e i prodotti animali negli appositi locali del posto d’ispezione frontaliero;
+- a. trasferire per via diretta gli animali e i prodotti animali negli appositi locali del posto di controllo frontaliero;
 - b. consegnare o mettere a disposizione in formato elettronico al servizio veterinario di confine i necessari documenti di accompagnamento.[^24-1]
 
-<sup>3</sup> I controlli veterinari di confine si svolgono esclusivamente durante gli orari di apertura del posto d’ispezione frontaliero. Se il controllo non può essere effettuato il giorno dell’atterraggio dell’aeromobile, la partita resta in aeroporto.
+<sup>3</sup> I controlli veterinari di confine si svolgono esclusivamente durante gli orari di apertura del posto di controllo frontaliero. Se il controllo non può essere effettuato il giorno dell’atterraggio dell’aeromobile, la partita resta in aeroporto.
 
-<sup>4</sup> Per le lettere e i pacchi soggetti al controllo veterinario di confine trasportati dalla Posta svizzera o del Liechtenstein, l’USAV può, in casi motivati, autorizzare procedure in deroga al capoverso 2, purché sia accertato che ciò non comporterà un rischio accresciuto di introduzione di epizoozie.
+<sup>4</sup> Per le lettere e i pacchi soggetti al controllo veterinario di confine, l’USAV può, in casi motivati, autorizzare procedure in deroga al capoverso 2, purché sia accertato che ciò non comporterà un rischio accresciuto di introduzione di epizoozie.[^24-2]
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 24a
 
@@ -520,15 +521,16 @@ Essa deve, immediatamente dopo l’atterraggio dell’aeromobile:
 
 Se una partita di prodotti animali rilasciata dal servizio veterinario di confine resta sotto custodia dell’ufficio doganale, la persona soggetta all’obbligo di dichiarazione deve:
 
-- a. conservare una copia del DSCE;
+- a.[^25-1] conservare una copia del DSCE se questo è stato emesso in forma cartacea;
 - b. registrare la data di arrivo della partita all’ufficio doganale; e
 - c. registrare la data dell’imposizione doganale.
 
-<sup>2</sup> Se l’imposizione doganale è scaglionata, la persona soggetta all’obbligo di dichiarazione deve accludere a ogni frazione della partita una copia autenticata del DSCE in formato cartaceo e, per ogni frazione di partita, registrare la data dell’imposizione doganale e la quantità o il peso verificati.[^25-1]
+<sup>2</sup> Se l’imposizione doganale è scaglionata, la persona soggetta all’obbligo di dichiarazione deve accludere a ogni frazione della partita una copia autenticata del DSCE in formato cartaceo o presentare, per ogni frazione della partita, il DSCE in formato elettronico munito di firma elettronica valida. Deve inoltre, per ogni frazione di partita, registrare la data dell’imposizione doganale e la quantità o il peso verificati.[^25-2]
 
 <sup>3</sup> Le copie autenticate del DSCE vanno richieste al servizio veterinario di confine.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^25-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 26
 
@@ -562,21 +564,21 @@ Se una partita di prodotti animali rilasciata dal servizio veterinario di confin
 
 I seguenti documenti di accompagnamento devono essere acclusi alla partita fino all’azienda di destinazione:
 
-- a. il DSCE in formato cartaceo;
-- b. in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia: copie autenticate dei certificati sanitari in formato cartaceo o elettronico.[^28-1]
+- a. il DSCE in formato cartaceo o in formato elettronico munito di firma elettronica valida;
+- b. in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord: copie autenticate dei certificati sanitari in formato cartaceo o l’originale in formato elettronico.[^28-1]
 
 <sup>2</sup> Gli animali da allevamento della specie bovina, suina, ovina, caprina ed equina devono inoltre essere accompagnati da un certificato di ascendenza secondo gli articoli 27 e 28 dell’ordinanza del 31 ottobre 2012[^28-2] sull’allevamento di animali.
 
 <sup>3</sup> I documenti di accompagnamento di cui al capoverso 1 devono essere conservati dall’azienda di destinazione per tre anni dall’arrivo della partita.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^28-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
 
 #### Art. 29
 
 **Obblighi di notifica dell’azienda di destinazione**
 
-<sup>1</sup> L’azienda di destinazione deve notificare all’autorità cantonale competente l’arrivo di prodotti animali soggetti a oneri particolari ai sensi dell’articolo 8 entro tre giorni lavorativi dal rilascio della partita da parte del servizio veterinario di confine. Se l’azienda contravviene a tale obbligo, l’autorità cantonale può revocarle l’autorizzazione.[^29-1]
+<sup>1</sup> L’azienda di destinazione deve notificare all’autorità cantonale competente l’arrivo di prodotti animali soggetti a oneri particolari ai sensi dell’articolo 8 entro un giorno lavorativo. Se l’azienda contravviene a tale obbligo, l’autorità cantonale può revocarle l’autorizzazione.[^29-1]
 
 <sup>2</sup>
 
@@ -586,7 +588,23 @@ L’azienda di destinazione deve notificare al veterinario cantonale entro 24 or
 - b. animali ad unghia fessa nonché gallinacei, palmipedi e struzioniformi;
 - c. api mellifere europee e bombi.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 29a
+
+**Obbligo di registrazione dell’azienda di destinazione in caso di cessione di bombi importati**[^29a-1]
+
+<sup>1</sup>
+
+Le aziende di destinazione che hanno importato bombi devono tenere un registro della cessione dei bombi importati. Devono essere registrate per scritto almeno le seguenti indicazioni:
+
+- a. la data di cessione della colonia di bombi;
+- b. il nome e l’indirizzo del destinatario;
+- c. il numero di colonie di bombi cedute.
+
+<sup>2</sup> Le registrazioni devono essere conservate per tre anni e presentate su richiesta agli organi di polizia delle epizoozie.
+
+[^29a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 30
 
@@ -633,13 +651,15 @@ La selvaggina di pelo con la pelle e la selvaggina di piuma non spennata possono
 
 <sup>1</sup> L’importatore è responsabile del rispetto dei requisiti in materia di polizia sanitaria e di igiene delle derrate alimentari, della conformità delle partite alle norme vigenti e della completezza dei documenti di accompagnamento.
 
-<sup>2</sup> In caso di partite soggette al controllo veterinario di confine, e in particolare di partite importate in transito attraverso uno Stato membro dell’UE, l’Islanda o la Norvegia senza un controllo veterinario di confine completo, l’importatore deve informare la persona soggetta all’obbligo di dichiarazione che la partita deve essere presentata al servizio veterinario di confine per un controllo.
+<sup>2</sup> In caso di partite soggette al controllo veterinario di confine, e in particolare di partite importate in transito attraverso uno Stato membro dell’UE, l’Islanda o la Norvegia o attraverso l’Irlanda del Nord senza un controllo veterinario di confine completo, l’importatore deve informare la persona soggetta all’obbligo di dichiarazione che la partita deve essere presentata al servizio veterinario di confine per un controllo.[^33-1]
 
 <sup>3</sup> In caso di prodotti animali, l’importatore deve notificare alla persona soggetta all’obbligo di dichiarazione la temperatura alla quale tali prodotti devono essere immagazzinati (art. 23).
 
 <sup>4</sup> L’importatore deve fornire in tempo utile all’impresa che presta servizi di sdoganamento le informazioni e i documenti necessari. Egli può anche incaricare un’impresa di spedizione di fornirglieli in tempo utile.
 
 <sup>5</sup> In caso di lettere e pacchi soggetti al controllo veterinario di confine, all’importatore spetta la responsabilità di contrassegnare la partita in modo tale che sia riconoscibile dall’impresa di spedizione come soggetta al controllo veterinario di confine, tranne nel caso in cui l’impresa di spedizione si avvalga delle prestazioni di un’impresa che presta servizi di sdoganamento.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 34
 
@@ -662,7 +682,7 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 
 <sup>3</sup> Su richiesta, esse devono fornire al servizio veterinario di confine i manifesti di carico degli aeromobili, le lettere di vettura aerea e altri documenti.
 
-<sup>4</sup> Devono trasferire gli animali e i prodotti animali che giungono in aeroporto al di fuori degli orari di apertura del posto d’ispezione frontaliero nei locali del servizio veterinario di confine adibiti per simili casi.
+<sup>4</sup> Devono trasferire gli animali e i prodotti animali che giungono in aeroporto al di fuori degli orari di apertura del posto di controllo frontaliero nei locali del servizio veterinario di confine adibiti per simili casi.
 
 <sup>5</sup> Devono garantire che gli animali siano curati durante la loro permanenza in aeroporto.
 
@@ -673,17 +693,17 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 
 #### Art. 36
 
-**Esercenti degli aeroporti**
+**Esercenti di aeroporti**[^36-1]
 
-<sup>1</sup> Gli esercenti degli aeroporti devono notificare all’USAV le imprese che prestano servizi di sdoganamento da loro incaricate. Eventuali modifiche devono essere comunicate senza indugio all’USAV.
+Gli esercenti di aeroporti devono richiamare l’attenzione delle imprese che prestano servizi di sdoganamento sui loro obblighi di cui all’articolo 35.
 
-<sup>2</sup> Essi devono richiamare l’attenzione delle imprese che prestano servizi di sdoganamento sugli obblighi di cui all’articolo 35.
+[^36-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 37
 
 **Compagnie aeree**
 
-Spetta alle compagnie aeree sincerarsi degli orari di apertura del posto d’ispezione frontaliero per il controllo veterinario di confine.
+Spetta alle compagnie aeree sincerarsi degli orari di apertura del posto di controllo frontaliero per il controllo veterinario di confine.
 
 ## Capitolo 3: Transito
 
@@ -691,13 +711,16 @@ Spetta alle compagnie aeree sincerarsi degli orari di apertura del posto d’isp
 
 **Principi**
 
-<sup>1</sup> Per il transito di animali e prodotti animali verso gli Stati membri dell’UE, l’Islanda e la Norvegia si applicano le condizioni d’importazione armonizzate dell’UE. Per gli animali e i prodotti animali per i quali non esistono condizioni d’importazione armonizzate dell’UE valgono le condizioni del Paese di destinazione, purché queste ultime siano state comunicate alla Svizzera.
+<sup>1</sup> Per il transito di animali e prodotti animali verso gli Stati membri dell’UE, l’Islanda e la Norvegia nonché verso l’Irlanda del Nord si applicano le condizioni d’importazione armonizzate dell’UE. Per gli animali e i prodotti animali per i quali non esistono condizioni d’importazione armonizzate dell’UE si applicano le condizioni del Paese di destinazione, purché queste ultime siano state comunicate alla Svizzera. [^38-1]
 
-<sup>2</sup> Per il transito verso Paesi terzi tramite gli Stati membri dell’UE, l’Islanda e la Norvegia si applicano le condizioni di transito armonizzate dell’UE. Il DFI designa gli atti normativi determinanti dellʼUE.
+<sup>2</sup> Per il transito verso Paesi terzi attraverso gli Stati membri dell’UE, l’Islanda e la Norvegia nonché attraverso l’Irlanda del Nord si applicano le condizioni di transito armonizzate dell’UE. Il DFI designa gli atti normativi determinanti dell’UE.[^38-2]
 
 <sup>3</sup> Per il transito per via aerea direttamente da un Paese terzo a un Paese terzo si applicano le condizioni del Paese di destinazione.
 
 <sup>4</sup> Animali e prodotti animali provenienti da Paesi terzi dai quali l’importazione è vietata per ragioni di polizia sanitaria non possono essere fatte transitare.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^38-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 39
 
@@ -730,23 +753,23 @@ Le seguenti disposizioni valide per l’importazione si applicano per analogia a
 
 **Trasbordo in aeroporto**
 
-<sup>1</sup> Gli animali e i prodotti animali che non lasciano l’aeromobile e i prodotti animali trasbordati da un aeromobile a un altro entro 12 ore senza lasciare l’area ufficiale non devono essere condotti presso il servizio veterinario di confine per il controllo.
+<sup>1</sup> Gli animali e i prodotti animali che non lasciano l’aeromobile e i prodotti animali trasbordati da un aeromobile a un altro entro 72 ore senza lasciare l’area ufficiale non devono essere condotti presso il servizio veterinario di confine per il controllo.[^41-1]
 
-<sup>2</sup> Se il tempo di trasbordo per i prodotti animali eccede le 12 ore, la persona soggetta all’obbligo di dichiarazione deve comunicarlo senza indugio al servizio veterinario di confine secondo le istruzioni dello stesso.
+<sup>2</sup> Se il tempo di trasbordo per i prodotti animali eccede le 72 ore, la persona soggetta all’obbligo di dichiarazione deve comunicarlo senza indugio al servizio veterinario di confine secondo le istruzioni dello stesso.[^41-2]
 
-<sup>3</sup> Se durante il transito verso gli Stati membri dell’UE, l’Islanda e la Norvegia i prodotti animali restano in aeroporto più di 48 ore, deve essere effettuata una seconda comunicazione.
+<sup>3</sup> *...*[^41-3]
 
 <sup>4</sup> All’interno dell’aeroporto gli animali e i prodotti animali non possono lasciare il perimetro delimitato dall’UDSC, salvo che ne sia stato autorizzato il trasporto per via terrestre.
 
+[^41-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^41-3]: Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
 #### Art. 42
 
-**Depositi doganali, depositi franchi doganali e operatori che forniscono direttamente i prodotti di approvvigionamento ai mezzi di trasporto marittimo**
+[^42-1]
 
-<sup>1</sup> Alle partite di prodotti animali destinate a essere immagazzinate in una zona franca, in un deposito franco doganale o in un deposito doganale in uno Stato membro dell’UE si applica l’articolo 12 della direttiva 97/78/CE[^42-1].
-
-<sup>2</sup> Alle partite di prodotti animali destinate a un operatore autorizzato secondo l’articolo 13 paragrafo 1 lettera a della direttiva 97/78/CE e domiciliato nell’UE si applicano gli articoli 12 e 13 di tale direttiva.
-
-[^42-1]: Direttiva 97/78/CE del Consiglio, del 18 dicembre 1997, che fissa i principi relativi all’organizzazione dei controlli veterinari per i prodotti che provengono dai Paesi terzi e che sono introdotti nella Comunità, GU L 24 del 30.1.1998, pag. 9; modificata da ultimo dalla direttiva 2013/20/UE, GU L 158 del 10.6.2013, pag. 234.
+[^42-1]: Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 43
 
@@ -766,19 +789,26 @@ Alle partite trasportate verso Paesi terzi si applicano inoltre i seguenti oneri
 
 **Documenti di accompagnamento**
 
-<sup>1</sup> In caso di transito verso un Paese terzo, il DSCE e gli originali dei certificati sanitari in formato cartaceo o elettronico devono accompagnare la partita fino al confine esterno dell’UE.[^44-1]
+<sup>1</sup>
+
+In caso di transito verso un Paese terzo, devono accompagnare la partita fino al confine esterno dell’UE:
+
+- a. il DSCE in formato cartaceo o in formato elettronico munito di firma elettronica valida;
+- b. gli originali dei certificati sanitari in formato cartaceo o elettronico.[^44-1]
 
 <sup>2</sup> In caso di transito per via aerea direttamente da un Paese terzo e direttamente a un Paese terzo, non è necessario che il DSCE accompagni la partita.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 45
 
 **Uscita dal territorio d’importazione**
 
-<sup>1</sup> Le partite provenienti da Paesi terzi che giungono nel territorio d’importazione attraverso uno Stato membro dell’UE, l’Islanda o la Norvegia e poi transitano direttamente verso un altro Paese terzo devono lasciare il territorio d’importazione entro 30 giorni dal loro arrivo in uno Stato membro dell’UE, in Islanda o in Norvegia.
+<sup>1</sup> Le partite provenienti da Paesi terzi che giungono nel territorio d’importazione e transitano direttamente verso un altro Paese terzo devono lasciare il territorio d’importazione entro 15 giorni dal loro arrivo nel territorio d’importazione, nell’UE, in Islanda o Norvegia o in Irlanda del Nord attraverso un posto di controllo frontaliero autorizzato.[^45-1]
 
 <sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve notificare entro un giorno lavorativo l’uscita delle partite dal territorio d’importazione al servizio veterinario di confine, presentandogli il DSCE.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 46
 
@@ -806,25 +836,37 @@ L’esportatore è responsabile per:
 - b. il rispetto delle condizioni d’importazione del Paese di destinazione; e
 - c. il rispetto delle condizioni di transito di eventuali Paesi di transito.
 
-<sup>2</sup> L’esportatore è tenuto a informarsi presso l’autorità cantonale competente se per il Paese di destinazione esiste un modello del certificato sanitario messo a disposizione dall’USAV.
+<sup>2</sup> L’esportatore è tenuto a informarsi se per il Paese di destinazione esiste un modello del certificato sanitario messo a disposizione dall’USAV.[^48-1]
 
-<sup>3</sup> Se esiste un modello del certificato sanitario messo a disposizione dall’USAV, l’esportatore è tenuto a procurarselo presso l’autorità cantonale competente, a compilarlo e a rispedirlo all’autorità summenzionata.
+<sup>3</sup> Se per il Paese di destinazione esiste un modello, l’esportatore è tenuto a utilizzarlo. Deve generarlo nel sistema d’informazione E‑Cert (art. 102*j*–102*l*) e inoltrarlo all’autorità cantonale mediante E‑Cert.[^48-2]
 
-<sup>4</sup> Se non esiste un modello del certificato sanitario messo a disposizione dall’USAV, l’esportatore deve informarsi sulle condizioni d’importazione vigenti nel Paese di destinazione, in particolare sui certificati sanitari necessari. Egli deve sottoporre all’autorità cantonale competente le condizioni d’importazione e il certificato sanitario da firmare.
+<sup>4</sup> Se per il Paese di destinazione non esiste un modello, l’esportatore deve informarsi sulle condizioni d’importazione vigenti nel Paese di destinazione, in particolare se è necessario un certificato sanitario e quali requisiti deve soddisfare. Se è necessario un certificato sanitario, l’importatore deve sottoporre all’autorità cantonale competente le condizioni d’importazione e i requisiti richiesti per il certificato sanitario.[^48-3]
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^48-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 49
 
-**Rilascio di certificati sanitari da parte delle autorità cantonali**
+**Compiti delle autorità cantonali**[^49-1]
 
-<sup>1</sup> Se il certificato sanitario da firmare corrisponde a un modello messo a disposizione dall’USAV, l’autorità cantonale competente vi appone la propria firma, purché sia garantito che tutte le condizioni menzionate nel certificato sanitario sono soddisfatte.
+<sup>1</sup>
 
-<sup>2</sup> Se il certificato sanitario da firmare non corrisponde a un modello messo a disposizione dall’USAV, l’autorità cantonale competente lo trasmette all’USAV. Se quest’ultimo mette a disposizione il suddetto certificato come modello, l’autorità cantonale vi appone la propria firma conformemente al capoverso 1.
+Se per un certificato sanitario esiste un modello e il certificato sanitario da firmare corrisponde a questo modello, l’autorità cantonale competente procede ai seguenti lavori in E‑Cert:
+
+- a. compila la sua parte del certificato sanitario se è garantito che tutte le condizioni menzionate nel certificato sanitario sono soddisfatte;
+- b. firma il certificato sanitario;
+- c. trasmette il certificato sanitario firmato all’esportatore.
+
+<sup>2</sup> Se per il certificato sanitario non esiste un modello, l’autorità cantonale competente notifica all’USAV le condizioni d’importazione del Paese di destinazione in questione e i requisiti richiesti per il certificato sanitario.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 50
 
 **Messa a disposizione di modelli per certificati sanitari da parte dell’USAV**
 
-<sup>1</sup> L’USAV esamina i certificati sanitari da firmare che gli sono stati trasmessi dalle autorità cantonali competenti. Qualora essi non contengano norme incompatibili con la legislazione svizzera sulle derrate alimentari, sulla protezione degli animali e sulle epizoozie, li mette a disposizione come modello.
+<sup>1</sup> Se riceve una notifica secondo l’articolo 49 capoverso 2, l’USAV esamina se le condizioni d’importazione e i requisiti richiesti per il certificato sanitario notificatigli dall’autorità cantonale sono compatibili con la legislazione svizzera sulle derrate alimentari, sulla protezione degli animali e sulle epizoozie. Se lo sono, l’USAV elabora un modello di certificato sanitario e lo fa validare dal Paese di destinazione. Una volta che il modello è stato validato, l’USAV lo mette a disposizione in E‑Cert.[^50-1]
 
 <sup>2</sup>
 
@@ -845,6 +887,8 @@ I modelli di cui al capoverso 2 possono essere messi a disposizione soltanto se:
 <sup>4</sup> L’USAV può inoltre stabilire requisiti formali per i certificati sanitari. Esso può prescrivere misure per garantirne la rintracciabilità, in particolare l’utilizzo di carta di sicurezza e obblighi di notifica e contabili. Esso pubblica i requisiti formali e le misure per garantire la rintracciabilità sotto forma di direttive tecniche destinate alle autorità cantonali.
 
 <sup>5</sup> L’USAV può concludere con il Paese di destinazione un trattato sui certificati sanitari e sulle condizioni di cui al presente articolo.
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 51
 
@@ -885,9 +929,9 @@ L’USAV rilascia l’autorizzazione se:
 
 <sup>3</sup> Prima di rilasciare l’autorizzazione, l’USAV sottopone la domanda di esportazione al veterinario cantonale competente per lo stabilimento di eliminazione che provvederebbe all’eliminazione secondo il capoverso 2 lettera c.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^52-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^52-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, p. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1177, GU L 185 dell’11.7.2019, p. 26.
+[^52-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2613, GU L, 2023/2613, del 24.11.2023.
 
 #### Art. 52a
 
@@ -895,8 +939,8 @@ L’USAV rilascia l’autorizzazione se:
 
 Le proteine animali trasformate possono essere esportate, senza autorizzazione, alle condizioni di cui all’allegato IV capo V sezione E punto 1 del regolamento (CE) n. 999/2001[^52a-2].
 
-[^52a-1]: Introdotto dal n. III dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^52a-2]: Regolamento (CE) n. 999/2001 del Parlamento europeo e del Consiglio, del 22 maggio 2001, recante disposizioni per la prevenzione, il controllo e l’eradicazione di alcune encefalopatie spongiformi trasmissibili, GU L 147 del 31.5.2001, pag. 1; modificato da ultimo dal regolamento (UE) n. 2017/894, del 24 maggio 2017, GU L 138 del 25.05.2017, pag. 117.
+[^52a-1]: Introdotto dal n. III dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^52a-2]: Regolamento (CE) n. 999/2001 del Parlamento europeo e del Consiglio, del 22 maggio 2001, recante disposizioni per la prevenzione, il controllo e l’eradicazione di alcune encefalopatie spongiformi trasmissibili, GU L 147 del 31.5.2001, pag. 1; modificato da ultimo dal regolamento (UE) n. 2024/916, GU L, 2024/916, 26.3.2024.
 
 #### Art. 53
 
@@ -920,7 +964,7 @@ Se il Paese di destinazione richiede un controllo veterinario ufficiale per l’
 
 **Controlli veterinari di confine**
 
-<sup>1</sup> Le partite soggette al controllo veterinario di confine vengono controllate presso il posto d’ispezione frontaliero dal servizio veterinario di confine.
+<sup>1</sup> Le partite soggette al controllo veterinario di confine vengono controllate presso il posto di controllo frontaliero dal servizio veterinario di confine.
 
 <sup>2</sup>
 
@@ -948,9 +992,11 @@ In un controllo documentale, il servizio veterinario di confine verifica la comp
 
 #### Art. 57
 
-**Controllo d’identità**
+**Controllo d’identità**[^57-1]
 
-In un controllo d’identità, il servizio veterinario di confine verifica che i dati contenuti nei documenti di accompagnamento corrispondano alla partita.
+In un controllo d’identità, il servizio veterinario di confine verifica visivamente che i dati riportati nei documenti di accompagnamento corrispondano al contenuto e all’identificazione della partita.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 58
 
@@ -976,17 +1022,19 @@ In un controllo d’identità, il servizio veterinario di confine verifica che i
 
 <sup>2</sup> I risultati dei campioni sono inseriti nel DSCE non appena disponibili.
 
-<sup>3</sup> In caso di rilascio di una partita, il servizio veterinario di confine consegna il DSCE debitamente compilato alla persona soggetta all’obbligo di dichiarazione.
+<sup>3</sup> In caso di rilascio di una partita, il servizio veterinario di confine ne informa la persona soggetta all’obbligo di dichiarazione.[^59-1]
 
 <sup>4</sup>
 
-I certificati sanitari sono conservati in formato cartaceo o elettronico presso il servizio veterinario di confine. La persona soggetta all’obbligo di dichiarazione ne riceve una copia autenticata in formato cartaceo o elettronico:[^59-1]
+I certificati sanitari sono conservati in formato cartaceo o elettronico presso il servizio veterinario di confine. La persona soggetta all’obbligo di dichiarazione ne riceve una copia autenticata in formato cartaceo o l’originale in formato elettronico:[^59-2]
 
-- a. in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia;
-- b. in caso di partite introdotte permanentemente nel territorio d’importazione: su richiesta.[^59-2]
+- a [^59-3] in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord;
+- b. in caso di partite introdotte permanentemente nel territorio d’importazione: su richiesta.[^59-4]
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^59-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^59-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^59-4]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 59a
 
@@ -1016,28 +1064,35 @@ In caso di importazione, ogni partita soggetta al controllo veterinario di confi
 
 #### Art. 61
 
-**Transito verso gli Stati membri dell’UE, l’Islanda o la Norvegia**
+**Transito verso gli Stati membri dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord**[^61-1]
 
 <sup>1</sup>
 
-In caso di transito di partite soggette al controllo veterinario di confine verso gli Stati membri dell’UE, l’Islanda o la Norvegia, occorre effettuare un controllo documentale, un controllo d’identità e un controllo fisico per:
+In caso di transito di partite soggette al controllo veterinario di confine verso gli Stati membri dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord, occorre effettuare un controllo documentale, un controllo d’identità e un controllo fisico per:
 
-- a. i prodotti animali che restano in aeroporto per più di 48 ore;
-- b. gli animali che vengono scaricati dall’aeromobile;
-- c. gli animali da macello;
-- d. gli animali e i prodotti animali il cui trasporto dall’aeroporto prosegue per via terrestre.
+- a. gli animali da macello;
+- b.
 
-<sup>2</sup> L’USAV può stabilire, d’intesa con l’autorità competente del Paese di destinazione, che il controllo d’identità e il controllo fisico degli animali e dei prodotti animali il cui trasporto prosegue per via aerea vengano eseguiti presso un posto d’ispezione frontaliero riconosciuto del Paese di destinazione secondo l’articolo 8 numero 1 lettera b della direttiva 91/496/CEE[^61-1].
+  altri animali non da macello se:
 
-- [tab] <sup>3</sup> E’ necessario soltanto un controllo documentale per:
-- a. i prodotti animali che restano in aeroporto per più di 12 ore ma non oltre 48 ore;
-- b. gli animali che restano sull’aeromobile.
-- [tab] <sup>4</sup> Non è necessario alcun controllo per:
-- a. i prodotti animali che restano in aeroporto per un massimo di 12 ore;
-- b. i prodotti animali che restano sull’aeromobile.
-- [tab] <sup>5</sup> In caso di partite soggette al controllo veterinario di confine, il servizio veterinario di confine può effettuare controlli supplementari se ciò si rivela opportuno per ragioni di salute degli animali, di protezione degli animali e di sicurezza alimentare.
+  - 1\. vengono scaricati dall’aeromobile, oppure
+  - 2\. restano a bordo dell’aeromobile e si sospetta un’infrazione alle prescrizioni d’importazione;
 
-[^61-1]: Direttiva del Consiglio 91/496/CEE, del 15 luglio 1991, che fissa i principi relativi all’organizzazione dei controlli veterinari per gli animali che provengono dai Paesi terzi e che sono introdotti nella Comunità e che modifica le direttive 89/662/CEE, 90/425/CEE e 90/675/CEE, GU L 268 del 24.9.1991, pag. 56; modificata da ultimo dalla direttiva 2009/156/CE, GU L 192 del 23.7.2010, pag. 1
+- c. i prodotti animali il cui trasporto dall’aeroporto prosegue per via terrestre;
+- d. i prodotti animali che vengono scaricati dall’aeromobile e per i quali si sospetta un’infrazione alle prescrizioni d’importazione.
+
+<sup>2</sup>
+
+È necessario soltanto un controllo documentale per:
+
+- a. i prodotti animali che restano in aeroporto per più di 72 ore;
+- b. gli animali che restano a bordo dell’aeromobile e per i quali non vi è alcun sospetto d’infrazione alle prescrizioni d’importazione.
+
+<sup>3</sup> Non è necessario alcun controllo per le partite per le quali i necessari controlli sono stati effettuati in un altro posto di controllo frontaliero.
+
+<sup>4</sup> In caso di partite soggette al controllo veterinario di confine, il servizio veterinario di confine effettua controlli supplementari se ciò si rivela opportuno per ragioni di salute degli animali, di protezione degli animali e di sicurezza alimentare.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 62
 
@@ -1049,12 +1104,13 @@ In caso di transito di partite soggette al controllo veterinario di confine vers
 
 Il controllo si limita a una verifica del manifesto di carico per:
 
-- a. gli animali trasbordati entro 12 ore da un aeromobile a un altro senza lasciare l’area ufficiale;
+- a.[^62-2] i prodotti animali trasbordati nel giro di 72 ore da un aeromobile a un altro senza lasciare l’area ufficiale;
 - b. gli animali e i prodotti animali che restano sull’aeromobile.
 
 <sup>3</sup> In caso di partite il cui trasporto dall’aeroporto prosegue per via terrestre, il servizio veterinario di confine effettua un controllo documentale, un controllo d’identità e un controllo fisico.
 
 [^62-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
+[^62-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 63
 
@@ -1068,15 +1124,15 @@ Il controllo si limita a una verifica del manifesto di carico per:
 
 #### Art. 64
 
-**Rafforzamento dei controlli**
+**Rafforzamento dei controlli**[^64-1]
 
-<sup>1</sup> Il servizio veterinario di confine rafforza i controlli in caso di infrazione alla legislazione sulle epizoozie o sulle derrate alimentari o qualora sussista il sospetto di tali infrazioni. In simili casi le partite possono essere sequestrate, sottoposte a esami di laboratorio e rilasciate soltanto in caso di esito favorevole degli esami di laboratorio.
+<sup>1</sup> Il servizio veterinario di confine rafforza i controlli in caso di infrazione alla legislazione sulle epizoozie, sulla protezione degli animali o sulle derrate alimentari o qualora sussista il sospetto di tali infrazioni. In simili casi le partite possono essere sequestrate, sottoposte a esami approfonditi e rilasciate soltanto in caso di esito favorevole degli esami.
 
-<sup>2</sup> In caso di infrazione grave nel contesto dell’importazione o del transito di prodotti animali, l’USAV dispone un rafforzamento dei controlli per tutte le partite aventi la stessa origine. Esso ordina il sequestro delle dieci partite successive, lo svolgimento di esami di laboratorio e il rilascio delle partite in questione soltanto in caso di esito favorevole degli esami di laboratorio. Collabora con i dirigenti dei posti d’ispezione frontalieri degli Stati membri dell’UE, dell’Islanda e della Norvegia e coordina la registrazione delle dieci partite da sequestrare.
+<sup>2</sup> In caso di infrazione grave nel contesto dell’importazione o del transito di prodotti animali, l’USAV dispone un rafforzamento dei controlli per tutte le partite aventi la stessa origine. Esso ordina il sequestro delle dieci partite successive, lo svolgimento di esami approfonditi e il rilascio delle partite in questione soltanto in caso di esito favorevole degli esami. Collabora con i dirigenti dei posti di controllo frontalieri degli Stati membri dell’UE, dell’Islanda e della Norvegia nonché dell’Irlanda del Nord e coordina la registrazione delle dieci partite da sequestrare.
 
-<sup>3</sup> In caso di rischio generale elevato di non ottemperanza alle disposizioni di polizia sanitaria e di igiene delle derrate alimentari nel Paese, nella regione o nell’azienda d’origine, l’USAV può ordinare che le partite soggette al controllo veterinario di confine contenenti prodotti animali siano sottoposte a esami di laboratorio ad ogni importazione e per ciascun transito in uno Stato membro dell’UE, in Islanda o in Norvegia e siano rilasciate soltanto in caso di esito favorevole di tali esami.[^64-1]
+<sup>3</sup> In caso di rischio generale elevato di non ottemperanza alle disposizioni in materia di epizoozie, di protezione degli animali e di igiene delle derrate alimentari nel Paese, nella regione o nell’azienda d’origine, l’USAV può ordinare che le partite soggette al controllo veterinario di confine siano sottoposte a esami approfonditi ad ogni importazione e per ciascun transito in uno Stato membro dell’UE, in Islanda o in Norvegia o in Irlanda del Nord e siano rilasciate soltanto in caso di esito favorevole di tali esami.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^64-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 65
 
@@ -1107,6 +1163,8 @@ Esso dispone se necessario:
 
 **Partite non conformi**
 
+<sup>1</sup>
+
 Una partita non è conforme se dai controlli effettuati dal servizio veterinario di confine emerge che essa non soddisfa le condizioni di importazione, transito o esportazione. Essa non è conforme in particolare se:
 
 - a. rappresenta un rischio per la salute umana o animale;
@@ -1117,11 +1175,14 @@ Una partita non è conforme se dai controlli effettuati dal servizio veterinario
 - f. gli animali sono infetti oppure si sospetta che siano infetti o portatori di un agente epizootico;
 - g. gli animali non sono idonei al trasporto;
 - h. il certificato sanitario o il DSCE non sono conformi alle norme vigenti; oppure
-- i. il posto d’ispezione frontaliero non è autorizzato a controllare la categoria di animali o di prodotti animali in questione;
+- i. il posto di controllo frontaliero non è autorizzato a controllare la categoria di animali o di prodotti animali in questione;
 - j.[^67-2] l’imballaggio non soddisfa i requisiti secondo l’articolo 22 capoverso 1<sup>bis</sup>.
+
+<sup>2</sup> Le partite destinate al transito verso Paesi terzi che restano in aeroporto per più di 72 ore sono inoltre considerate non conformi se non soddisfanno le condizioni d’importazione.[^67-3]
 
 [^67-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^67-2]: Introdotta dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^67-3]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 68
 
@@ -1228,36 +1289,40 @@ Il servizio veterinario di confine confisca:
 - b. gli animali e i prodotti animali senza proprietario;
 - c.[^72-1] i prodotti animali palesemente avariati e i prodotti animali per i quali è stato accertato il superamento dei valori massimi per i residui e i contaminanti stabiliti dall’articolo 10 capoverso 4 lettera e ODerr[^72-2];
 - d. gli animali morti;
-- e.[^72-3] gli animali e i prodotti animali per i quali, a causa di motivi contemplati dalla legislazione sulle epizoozie o sull’igiene delle derrate alimentari, non è possibile la rispedizione o il proseguimento del trasporto.
+- e.[^72-3] gli animali e i prodotti animali per i quali, a causa di motivi contemplati dalla legislazione sulle epizoozie o sull’igiene delle derrate alimentari, non è possibile la rispedizione o il proseguimento del trasporto;
+- f.[^72-4] gli alimenti di origine animale per i quali non sono rispettati i criteri microbiologici di sicurezza alimentare emanati dal DFI in virtù dell’articolo 10 capoverso 4 ODerr[^72-5].
 
 <sup>2</sup> Gli animali sequestrati per motivi previsti dalla legislazione sulla protezione degli animali vengono confiscati se l’importatore o la persona soggetta all’obbligo di dichiarazione non è in grado di assicurare condizioni conformi alle prescrizioni in materia di protezione degli animali. Gli animali devono essere portati in una struttura stabilita dall’USAV o in un altro luogo adeguato oppure essere soppressi.
 
 <sup>3</sup> Gli animali confiscati per motivi contemplati dalla legislazione sulle epizoozie vengono soppressi.
 
-<sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OSOAn[^72-4].
+<sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OSOAn[^72-6].
 
 [^72-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^72-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^72-4]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^72-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 73
 
 **Misure immediate**
 
-<sup>1</sup> Il servizio veterinario di confine ordina le misure immediate necessarie per evitare minacce alla salute o al benessere degli animali ed eventuali danni ad altre partite.
+<sup>1</sup> Il servizio veterinario di confine ordina le misure immediate necessarie per evitare minacce al benessere o alla salute degli animali o alla salute pubblica oppure eventuali danni ad altre partite.[^73-1]
 
 <sup>2</sup>
 
 In caso di possibile minaccia per la salute degli animali, esso dispone in particolare:
 
 - a. l’isolamento preventivo;
-- b. le misure previste dall’OFE[^73-1]; e
+- b. le misure previste dall’OFE[^73-2]; e
 - c. il ricovero, l’abbeveramento, l’alimentazione e la cura degli animali.
 
 <sup>3</sup> In caso di possibile minaccia per il benessere degli animali, esso ordina, d’intesa con l’autorità cantonale competente, il sequestro degli animali e il loro trasferimento a tale autorità.
 
-[^73-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^73-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^73-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 74
 
@@ -1288,9 +1353,11 @@ L’autorità cantonale competente informa:
 
 #### Art. 76
 
-**Notifiche in caso di transito di prodotti animali soggetti a oneri particolari**
+**Notifiche in caso di transito di prodotti animali soggetti a oneri particolari**[^76-1]
 
-In caso di prodotti animali soggetti a oneri particolari in transito verso gli Stati membri dell’UE, l’Islanda o la Norvegia, sottoposti nel territorio d’importazione a un controllo veterinario di confine completo, il servizio veterinario di confine informa, mediante TRACES, l’autorità di controllo competente del Paese di destinazione.
+In caso di prodotti animali soggetti a oneri particolari in transito verso gli Stati membri dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord, sottoposti nel territorio d’importazione a un controllo veterinario di confine completo, il servizio veterinario di confine informa, mediante TRACES, l’autorità di controllo competente del Paese di destinazione.
+
+[^76-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 77
 
@@ -1302,21 +1369,21 @@ In caso di prodotti animali soggetti a oneri particolari in transito verso gli S
 
 #### Art. 78
 
-**Notifiche in caso di transito attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia a destinazione di Paesi terzi**
+**Notifiche in caso di transito attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia o attraverso l’Irlanda del Nord a destinazione di Paesi terzi**[^78-1]
 
-<sup>1</sup> In caso di transito di partite soggette al controllo veterinario di confine attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia a destinazione di un Paese terzo, il servizio veterinario di confine informa mediante TRACES l’autorità competente del posto d’ispezione frontaliero dal quale la partita lascerà il territorio d’importazione o uno Stato membro dell’UE, l’Islanda o la Norvegia a destinazione di un Paese terzo.[^78-1]
+<sup>1</sup> In caso di transito di partite soggette al controllo veterinario di confine attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia o attraverso l’Irlanda del Nord a destinazione di un Paese terzo, il servizio veterinario di confine informa mediante TRACES l’autorità competente del posto di controllo frontaliero dal quale la partita lascerà il territorio d’importazione, uno Stato membro dell’UE, l’Islanda o la Norvegia o l’Irlanda del Nord a destinazione di un Paese terzo.
 
-<sup>2</sup> Se ha motivo di ritenere che una partita non abbia lasciato il territorio d’importazione o gli Stati membri dell’UE, l’Islanda o la Norvegia entro il termine previsto, il servizio veterinario di confine informa l’UDSC. Quest’ultimo compie ulteriori accertamenti. Se l’UDSC non può appurare l’uscita dal territorio d’importazione, da uno Stato membro dell’UE, dall’Islanda o dalla Norvegia, l’USAV informa le autorità competenti dei Cantoni e i Paesi attraverso i quali doveva transitare la partita.
+<sup>2</sup> Se ha motivo di ritenere che una partita non abbia lasciato il territorio d’importazione, gli Stati membri dell’UE, l’Islanda o la Norvegia, nonché l’Irlanda del Nord entro il termine previsto, il servizio veterinario di confine informa l’UDSC. Quest’ultimo compie ulteriori accertamenti. Se l’UDSC non può appurare l’uscita dal territorio d’importazione, da uno Stato membro dell’UE, dall’Islanda o dalla Norvegia, nonché dall’Irlanda del Nord, l’USAV informa le autorità competenti dei Cantoni e i Paesi attraverso i quali doveva transitare la partita.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^78-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 79
 
 **Notifiche in caso di transito diretto verso Paesi terzi**[^79-1]
 
-Se l’autorità competente del posto d’ispezione frontaliero dell’UE, dell’Islanda o della Norvegia notifica al servizio veterinario di confine svizzero che una partita in transito verso un Paese terzo lascerà il territorio d’importazione proseguendo direttamente verso il Paese terzo in questione, il servizio veterinario di confine conferma l’avvenuto transito.
+Se l’autorità competente del posto di controllo frontaliero dell’UE, dell’Islanda o della Norvegia o dell’Irlanda del Nord notifica al servizio veterinario di confine svizzero che una partita in transito verso un Paese terzo lascerà il territorio d’importazione proseguendo direttamente verso il Paese terzo in questione, il servizio veterinario di confine conferma l’avvenuto transito.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^79-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 3: Misure al di fuori dei controlli del servizio veterinario di confine
 
@@ -1362,7 +1429,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 **Misure applicabili al traffico turistico e alle lettere e ai pacchi destinati a privati**
 
-<sup>1</sup> Se constatano partite non conformi alle condizioni sull’importazione e il transito di prodotti animali nel traffico turistico di cui all’articolo 13, gli uffici doganali incaricano la persona soggetta all’obbligo di dichiarazione di provvedere all’eliminazione delle partite in questione. Se la persona soggetta all’obbligo di dichiarazione è contraria all’eliminazione, l’ufficio doganale informa l’autorità cantonale competente oppure il servizio veterinario di confine presso un posto d’ispezione frontaliero autorizzato. Questi ultimi confiscano le partite e ne dispongono l’eliminazione conformemente all’OSOAn[^81-1].
+<sup>1</sup> Se constatano partite non conformi alle condizioni sull’importazione e il transito di prodotti animali nel traffico turistico di cui all’articolo 13, gli uffici doganali incaricano la persona soggetta all’obbligo di dichiarazione di provvedere all’eliminazione delle partite in questione. Se la persona soggetta all’obbligo di dichiarazione è contraria all’eliminazione, l’ufficio doganale informa l’autorità cantonale competente oppure il servizio veterinario di confine presso un posto di controllo frontaliero autorizzato. Questi ultimi confiscano le partite e ne dispongono l’eliminazione conformemente all’OSOAn[^81-1].
 
 <sup>2</sup> Se le lettere e i pacchi contenenti prodotti animali destinati a privati non sono conformi alle condizioni d’importazione di cui all’articolo 14, l’impresa di spedizione li trasmette al servizio veterinario di confine. Quest’ultimo confisca la partita e la elimina conformemente all’OSOAn.[^81-2]
 
@@ -1371,13 +1438,13 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 #### Art. 82
 
-**Misure applicabili al traffico per via navale sul Reno e agli aeroporti privi di un posto d’ispezione frontaliero autorizzato**[^82-1]
+**Misure applicabili al traffico per via navale sul Reno e agli aeroporti privi di un posto di controllo frontaliero autorizzato**[^82-1]
 
-<sup>1</sup> Se per via navale sul Reno o in aeroporti privi di un posto d’ispezione frontaliero autorizzato l’ufficio doganale riscontra partite soggette al controllo veterinario di confine le trattiene e informa l’autorità competente del Cantone in cui si trova l’ufficio doganale. L’autorità cantonale competente prende i provvedimenti necessari per salvaguardare la salute umana e degli animali.
+<sup>1</sup> Se per via navale sul Reno o in aeroporti privi di un posto di controllo frontaliero autorizzato l’ufficio doganale riscontra partite soggette al controllo veterinario di confine le trattiene e informa l’autorità competente del Cantone in cui si trova l’ufficio doganale. L’autorità cantonale competente prende i provvedimenti necessari per salvaguardare la salute umana e degli animali.
 
 <sup>2</sup> Nel caso dei prodotti animali, l’autorità cantonale competente ordina una misura di cui all’articolo 84 capoverso 4.
 
-<sup>3</sup> Per gli animali vivi, l’autorità cantonale competente dispone il trasporto immediato, nel rispetto di determinate condizioni di sicurezza, verso un posto d’ispezione frontaliero autorizzato.
+<sup>3</sup> Per gli animali vivi, l’autorità cantonale competente dispone il trasporto immediato, nel rispetto di determinate condizioni di sicurezza, verso un posto di controllo frontaliero autorizzato.
 
 [^82-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -1387,14 +1454,17 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 <sup>1</sup>
 
-Se ai posti d’ispezione frontalieri autorizzati l’UDSC constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica:
+Se ai posti di controllo frontalieri autorizzati constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, l’UDSC informa:
 
-- a. in caso di importazione o transito, al servizio veterinario di confine;
-- b. in caso di esportazione, all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
+- a. in caso di importazione o transito, il servizio veterinario di confine;
+- b. in caso di esportazione, l’autorità competente del Cantone sul cui territorio è avvenuto il controllo.[^83-1]
 
-<sup>2</sup> Se al di fuori dei posti d’ispezione frontalieri autorizzati l’UDSC constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
+<sup>2</sup> Se constata al di fuori dei posti di controllo frontalieri autorizzati che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, l’UDSC ne informa l’autorità competente del Cantone sul cui territorio è avvenuto il controllo.[^83-2]
 
 <sup>3</sup> Su richiesta, l’UDSC fornisce all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
+
+[^83-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^83-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 84
 
@@ -1481,20 +1551,41 @@ Il servizio veterinario di confine è composto:
 
 #### Art. 91
 
-**Veterinari di confine**
+**Veterinari di confine**[^91-1]
 
-<sup>1</sup> Durante lo svolgimento dei controlli deve essere presente un veterinario di confine.
+<sup>1</sup> Durante lo svolgimento dei controlli deve essere presente al posto di controllo frontaliero un veterinario di confine.
 
-<sup>2</sup> Il veterinario di confine è responsabile della decisione finale.
+<sup>2</sup>
+
+I veterinari di confine devono effettuare personalmente il controllo fisico:
+
+- a. degli animali, ad eccezione degli animali acquatici;
+- b. della carne; e
+- c. delle frattaglie destinate al consumo umano.
+
+<sup>3</sup> Possono incaricare gli assistenti SVC dello svolgimento di tutti gli altri controlli. Sono responsabili della decisione finale, fatte salve quelle concernenti le partite di cui all’articolo 92 capoverso 2.
+
+[^91-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 92
 
-**Assistenti SVC**
+**Assistenti SVC**[^92-1]
 
-Sotto la sorveglianza dei veterinari di confine, gli assistenti SVC possono essere chiamati a:
+<sup>1</sup>
 
-- a. eseguire controlli;
+Gli assistenti SVC possono:
+
+- a. eseguire i controlli di cui sono stati incaricati;
 - b. espletare mansioni e procedure amministrative.
+
+<sup>2</sup>
+
+Se controllano le seguenti partite, sono responsabili della decisione finale:
+
+- a. partite di prodotti della pesca;
+- b. partite di molluschi bivalvi vivi, echinodermi vivi, tunicati vivi e gasteropodi marini vivi destinati al consumo umano.
+
+[^92-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 93
 
@@ -1504,13 +1595,17 @@ Sotto la sorveglianza dei veterinari di confine, gli assistenti SVC possono esse
 
 <sup>2</sup> I veterinari di confine devono vantare una formazione quale veterinario ufficiale conformemente all’ordinanza concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.
 
-<sup>3</sup> Gli assistenti SVC sono formati dai veterinari di confine.
+<sup>3</sup> Gli assistenti SVC sono formati in base ai loro compiti dai veterinari di confine ai sensi dell’articolo 3 del regolamento delegato (UE) 2019/1081[^93-2].[^93-3]
 
-<sup>4</sup> I dirigenti dei posti d’ispezione tengono un registro sulla formazione e sul perfezionamento dei loro sottoposti.
+<sup>4</sup> L’USAV tiene un registro sulla formazione e sul perfezionamento delle persone che lavorano ai posti di controllo frontalieri.[^93-4]
 
-<sup>5</sup> LʼUSAV organizza, in collaborazione con lʼUDSC, corsi di formazione e perfezionamento per il servizio veterinario di confine sullʼesecuzione della legislazione in materia di epizoozie, protezione degli animali, derrate alimentari e dogane.
+<sup>5</sup> Organizza per il servizio veterinario di confine corsi di formazione e perfezionamento sull’esecuzione della legislazione in materia di epizoozie, protezione degli animali, derrate alimentari e dogane.[^93-5]
 
 [^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^93-2]: Regolamento delegato (UE) 2019/1081 della Commissione, dell’8 marzo 2019, che stabilisce norme relative a prescrizioni specifiche in materia di formazione del personale ai fini dell’esecuzione di determinati controlli fisici presso i posti di controllo frontalieri, GU L 171 del 26.6.2019, pag. 1.
+[^93-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-4]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^93-5]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 94
 
@@ -1548,9 +1643,11 @@ Su richiesta, l’UDSC fornisce all’USAV informazioni riguardo a tutti i fatti
 
 **Ampliamento dei posti d’ispezione frontalieri**
 
-<sup>1</sup> Se il traffico aumenta e i locali esistenti non sono più sufficienti per lo svolgimento delle attività, l’USAV esige dagli esercenti degli aeroporti un ampliamento delle superfici al suolo oppure una messa a disposizione di altri locali entro un termine ragionevole.
+<sup>1</sup> Se a causa dell’aumento del traffico, di nuove prescrizioni legali o di modifiche operative ai posti di controllo frontalieri i locali disponibili non sono più sufficienti per lo svolgimento delle attività, l’USAV esige dagli esercenti degli aeroporti un ampliamento delle superfici al suolo oppure una messa a disposizione di altri locali entro un termine ragionevole.[^97-1]
 
-<sup>2</sup> Se l’ampliamento delle superfici al suolo o la messa a disposizione dei locali non avvengono in tempo utile, fino all’ampliamento o alla messa a disposizione il posto d’ispezione frontaliero non è più riconosciuto per le categorie di animali e prodotti animali in questione. L’esercente dell’aeroporto deve informare immediatamente le compagnie aeree al riguardo.
+<sup>2</sup> Se l’ampliamento delle superfici al suolo o la messa a disposizione dei locali non avvengono in tempo utile, fino all’ampliamento o alla messa a disposizione il posto di controllo frontaliero non è più riconosciuto per le categorie di animali e prodotti animali in questione. L’esercente dell’aeroporto deve informare immediatamente le compagnie aeree al riguardo.
+
+[^97-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Sezione 3: Sistema informatico TRACES
 
@@ -1580,23 +1677,40 @@ Devono essere registrate in TRACES le seguenti autorità, istituzioni e persone:
 
 #### Art. 99
 
-**Accesso**
+**Accesso**[^99-1]
 
-Le autorità e le persone registrate hanno accesso a TRACES per quanto necessario all’adempimento dei loro compiti.
+<sup>1</sup>
+
+Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
+
+- a. l’autorità o l’azienda per la quale lavorano sono registrate in TRACES;
+- b. hanno frequentato un corso di formazione proposto dall’autorità competente oppure l’autorità o l’azienda confermano che tali persone possiedono le conoscenze necessarie per utilizzare TRACES.
+
+<sup>2</sup> Le persone hanno accesso a TRACES per quanto necessario all’adempimento dei loro compiti.
+
+[^99-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 99a
+
+**Trattamento dei dati**[^99a-1]
+
+<sup>1</sup> Chi ha accesso a TRACES può consultare i dati sulle proprie partite.
+
+<sup>2</sup> Le persone soggette all’obbligo di dichiarazione possono inserire dati sulle loro partite e modificarli fino al controllo della partita.
+
+<sup>3</sup> Le autorità possono trattare i dati delle partite nella misura in cui rientrano nel loro ambito di competenza.
+
+[^99a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 100
 
-**Corsi di formazione**
+**Organizzazione dei corsi di formazione**[^100-1]
 
-<sup>1</sup> Per accedere a TRACES occorre dimostrare di aver seguito un corso di base TRACES.
+<sup>1</sup> L’USAV organizza i corsi di formazione per l’UDSC, i responsabili TRACES dei servizi cantonali e le persone soggette all’obbligo di dichiarazione. Per la frequentazione di questi corsi non è riscosso alcun emolumento.
 
-<sup>2</sup> Le autorità e le persone registrate sono tenute a frequentare periodicamente dei corsi di aggiornamento.
+<sup>2</sup> I responsabili TRACES dei servizi cantonali organizzano i corsi di formazione per i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
 
-<sup>3</sup> L’USAV organizza il corso di base e i corsi di aggiornamento per l’UDSC e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
-
-<sup>4</sup> L’USAV organizza inoltre corsi per le persone di cui all’articolo 17. La frequentazione di questi corsi è gratuita.
-
-<sup>5</sup> I responsabili TRACES degli uffici cantonali organizzano il corso di base e i corsi di aggiornamento per i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
+[^100-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 101
 
@@ -1663,56 +1777,104 @@ Il sistema informatico OITE contiene i seguenti dati in relazione all’importaz
 
 <sup>2</sup> I collaboratori dell’USAV incaricati dell’esecuzione delle disposizioni nell’ambito dell’importazione, del transito e dell’esportazione di animali e prodotti animali hanno accesso ai dati. Essi possono registrare, consultare e trattare tali dati.
 
-#### Art. 102d
+#### Art. 102d–102h
 
-**Protezione dei dati**
+[^102d102h-1]
 
-L’USAV provvede affinché le disposizioni in materia di protezione dei dati vengano rispettate. L’USAV emana un regolamento sul trattamento per le necessarie misure organizzative e tecniche.[^102d-1]
-
-[^102d-1]: Nuovo testo del per. giusta l’all. 2 n. II 130 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-
-#### Art. 102e
-
-**Diritti delle persone interessate**[^102e-1]
-
-<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema d’informazione EDAV, in particolare i diritti d’accesso, di rettifica e di distruzione dei dati, sono retti dalla legge federale del 25 settembre 2020[^102e-2] sulla protezione dei dati.
-
-<sup>2</sup> Se una persona interessata intende far valere i suoi diritti, deve presentare una domanda all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^102e-3] sulla protezione dei dati.
-
-[^102e-1]: Nuovo testo giusta l’all. 2 n. II 130 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^102e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^102e-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-
-#### Art. 102f
-
-**Rettifica di dati**
-
-L’USAV provvede alla rettifica di dati inesatti.
-
-#### Art. 102g
-
-**Sicurezza delle informazioni**[^102g-1]
-
-Le misure volte a garantire la sicurezza delle informazioni sono disciplinate dall’ordinanza dell’8 novembre 2023[^102g-2] sulla sicurezza delle informazioni.
-
-[^102g-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^102g-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-
-#### Art. 102h
-
-**Archiviazione e cancellazione dei dati**
-
-<sup>1</sup> L’archiviazione dei dati è disciplinata dalle prescrizioni della legge del 26 giugno 1998[^102h-1] sull’archiviazione.
-
-<sup>2</sup> I dati relativi alle autorizzazioni rilasciate vengono sono cancellati dopo 20 anni dall’ultimo trattamento, i dati relativi alle domande respinte dopo cinque anni dall’ultimo trattamento.
-
-[^102h-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^102d102h-1]: Abrogati dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 #### Art. 102i
 
 **Collegamento con il sistema «e-dec»**
 
 Per il confronto elettronico dei dati relativi alle partite importate il sistema informatico OITE può essere collegato con il sistema «e-dec».
+
+### Sezione 5: Sistema d’informazione E‑Cert
+
+[^chap7-sec5-1]
+
+[^chap7-sec5-1]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 102j
+
+**Gestione e scopo**
+
+<sup>1</sup> L’USAV provvede alla gestione del sistema d’informazione E-Cert.
+
+<sup>2</sup> E-Cert serve al rilascio di certificati sanitari per l’esportazione di animali e prodotti animali in Paesi terzi secondo gli articoli 48–50 e al trattamento dei dati necessari a tale scopo.
+
+#### Art. 102k
+
+**Contenuto**
+
+E-Cert contiene i seguenti dati sulle partite destinate all’esportazione:
+
+- a. indicazioni sull’esportatore e l’importatore nel Paese di destinazione;
+- b. indicazioni sull’azienda di provenienza e di destinazione;
+- c. indicazioni sul mezzo di trasporto e sul percorso;
+- d. informazioni sulla partita;
+- e. indicazioni sullo scopo di utilizzo.
+
+#### Art. 102l
+
+**Trattamento dei dati**
+
+<sup>1</sup> Gli esportatori possono registrare e trattare i dati che li riguardano di cui all’articolo 102*k*.
+
+<sup>2</sup> Le autorità cantonali di esecuzione possono trattare nel loro ambito di competenza i dati di cui all’articolo 102*k*.
+
+<sup>3</sup> L’USAV può consultare tutti i dati.
+
+### Sezione 6: Disposizioni comuni al sistema d’informazione OITE e a E‑Cert
+
+[^chap7-sec6-1]
+
+[^chap7-sec6-1]: Introdotta dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+
+#### Art. 102m
+
+**Protezione dei dati**
+
+<sup>1</sup> Per quanto riguarda il sistema d’informazione OITE e in E‑Cert, l’USAV, le autorità di esecuzione cantonali, gli importatori e gli esportatori provvedono al rispetto delle disposizioni sulla protezione dei dati nei loro rispettivi ambiti di competenza.
+
+<sup>2</sup> L’USAV emana un regolamento sul trattamento per le necessarie misure organizzative e tecniche.
+
+#### Art. 102n
+
+**Diritti delle persone interessate**
+
+I diritti delle persone i cui dati sono trattati nei sistemi d’informazione, in particolare il diritto d’accesso ai propri dati o il diritto di rettifica o distruzione dei dati, nonché la raccolta degli stessi, sono retti:
+
+- a. dalla legge federale del 25 settembre 2020[^102n-1] sulla protezione dei dati, se fanno valere i loro diritti nei confronti dell’USAV;
+- b. dalla legislazione cantonale in materia di protezione dei dati del Cantone interessato, se fanno valere i loro diritti nei confronti di un’autorità di esecuzione cantonale.
+
+[^102n-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 102o
+
+**Rettifica di dati**
+
+L’USAV, le autorità di esecuzione cantonali, gli importatori e gli esportatori provvedono alla rettifica dei dati inesatti da loro registrati.
+
+#### Art. 102p
+
+**Sicurezza delle informazioni**
+
+Le misure volte a garantire la sicurezza delle informazioni sono rette dall’ordinanza dell’8 novembre 2023[^102p-1] sulla sicurezza delle informazioni.
+
+[^102p-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+#### Art. 102q
+
+**Conservazione e archiviazione dei dati**
+
+<sup>1</sup> I dati del sistema d’informazione OITE e di E-Cert possono essere conservati per al massimo 10 anni nei sistemi d’informazione.
+
+<sup>2</sup> L’archiviazione dei dati è retta dalla legge del 26 giugno 1998[^102q-1] sull’archiviazione. L’USAV informa i Cantoni di previste archiviazioni e, se necessario, li assiste nell’esportazione dai sistemi d’informazione dei dati da loro registrati.
+
+<sup>3</sup> I dati anonimizzati possono essere conservati nei sistemi d’informazione oltre il termine di cui al capoverso 1.
+
+[^102q-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Capitolo 8: Tasse e costi
 
@@ -1726,7 +1888,7 @@ Sono a carico dell’importatore le seguenti tasse e costi relativi alle importa
 
 - a. le tasse per le prestazioni e le decisioni dell’USAV secondo l’ordinanza del 30 ottobre 1985[^103-1] sulle tasse dell’USAV;
 - b. le tasse e i costi dovuti ai provvedimenti e ai controlli disposti dalla Confederazione o dai Cantoni;
-- c.[^103-2] i costi sostenuti per gli esami di laboratorio secondo l’articolo 64 capoversi 2 e 3;
+- c.[^103-2] i costi sostenuti per gli esami secondo l’articolo 64, inclusi i costi d’invio;
 - d. i costi degli esami di laboratorio disposti nell’ambito di controlli a campione, se l’esito di tali esami è sfavorevole;
 - e. i costi relativi alla quarantena di cui all’articolo 85;
 - e<sup>bis</sup>.[^103-3] i costi dovuti a misure cautelative da adottare temporaneamente secondo l’articolo 5 capoverso 1 lettera e;
@@ -1739,7 +1901,7 @@ Sono a carico dell’importatore le seguenti tasse e costi relativi alle importa
 <sup>4</sup> I costi di custodia di cui all’articolo 24 capoverso 3 vengono fatturati alla persona soggetta all’obbligo di dichiarazione.
 
 [^103-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
-[^103-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^103-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^103-3]: Introdotta dal n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 104
@@ -1853,6 +2015,14 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 <sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° gennaio 2016.
 
 <sup>2</sup> L’articolo 35 capoverso 6 entra in vigore il 1° luglio 2016.
+
+#### Art. 114
+
+**Disposizione transitoria della modifica del 31 maggio 2024**[^114-1]
+
+I certificati sanitari secondo gli articoli 48–50 per l’esportazione di animali, prodotti animali e derrate alimentari verso Paesi terzi, per cui in E‑Cert esiste un modello, possono essere generati ed elaborati in forma cartacea soltanto fino al 31 dicembre 2024.
+
+[^114-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 Allegato
 
