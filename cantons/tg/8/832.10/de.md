@@ -4,13 +4,13 @@ number: "832.10"
 title: Krankenversicherungsverordnung
 short: TG KVV
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-05
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-11
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2730/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.01.2024)
+vom 20.12.2011 (Stand 01.07.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -363,17 +363,9 @@ vom 20.12.2011 (Stand 01.01.2024)
 
 <sup>1</sup> Personen, die Leistungen der Restkostenfinanzierung beanspruchen, haben alle Personen und Stellen, namentlich Pflegeheime, Ärzte und Ärztinnen, Versicherungen sowie Organe der Sozialversicherungen zu ermächtigen, die für die Abklärung von Leistungsansprüchen erforderlichen Auskünfte zu erteilen.
 
-#### § 35
+#### § 35–36
 
-**Verfahren**
-
-<sup>1</sup> Gegen Entscheide über Leistungen der Restfinanzierung kann bei der kantonalen Ausgleichskasse innert 30 Tagen schriftlich Einsprache erhoben werden. Die Einsprache muss einen Antrag und eine Begründung enthalten sowie die Beweise anführen.
-
-#### § 36
-
-**Rechtsmittel**
-
-<sup>1</sup> Zur Beurteilung von Rekursen gegen Einspracheentscheide der kantonalen Ausgleichskasse ist das Departement für Finanzen und Soziales zuständig.
+**…**
 
 #### § 37
 
@@ -741,11 +733,7 @@ vom 20.12.2011 (Stand 01.01.2024)
 
 #### § 65
 
-**Nicht universitäre Aus- und Weiterbildung**
-
-<sup>1</sup> Die zugelassenen Leistungserbringer haben gesamthaft mindestens ihren Bedarf an Pflegefachpersonen der Tertiärstufe und der Sekundarstufe II auszubilden. Sie können zu diesem Zweck Ausbildungskooperationen bilden.
-
-<sup>2</sup> Das Departement legt nach Anhörung der Leistungserbringer den Bedarf fest. Wird die jährliche Ausbildungsleistung ein Jahr nach Festlegung des Bedarfs nicht erreicht, ordnet der Regierungsrat Massnahmen zulasten jener Leistungserbringer an, welche diese Leistung nicht erreichen.
+**…**
 
 #### § 66
 
@@ -804,6 +792,64 @@ vom 20.12.2011 (Stand 01.01.2024)
 
 <sup>4</sup> Diese Regelung ist dem Departement zur Genehmigung zu unterbreiten.
 
+## 6a. Nicht universitäre Aus- und Weiterbildung
+
+#### § 70a
+
+**Festlegung des Bedarfs für die nicht universitäre Aus- und Weiterbildung**
+
+<sup>1</sup> Der Regierungsrat legt den Aus- und Weiterbildungsbedarf fest für diejenigen Leistungserbringer der kantonalen Spitalliste, der Pflegeheimliste und der Organisationen der Krankenpflege und Hilfe zu Hause, die zulasten der Obligatorischen Krankenpflegeversicherung (OKP) tätig sein dürfen.
+
+<sup>2</sup> Der Bedarf wird differenziert nach Gesundheitsberuf und Versorgungsbereich.
+
+<sup>3</sup> Berechnungsgrundlagen für den Bedarf sind die Statistiken des Bundesamtes für Statistik der Vorjahre, die Bedarfsplanung des Schweizerischen Gesundheitsobservatoriums (Obsan) und die Planungen für den Kanton Thurgau.
+
+#### § 70b
+
+**Festlegung der Ausbildungskapazitäten für die nicht universitären Aus- und Weiterbildungen**
+
+<sup>1</sup> Der Regierungsrat legt die Ausbildungskapazitäten für jeden Leistungserbringer fest.
+
+<sup>2</sup> Die Ausbildungskapazitäten werden differenziert nach Gesundheitsberufen und Versorgungsbereichen.
+
+<sup>3</sup> Die Leistungserbringer bilden die Fachpersonen gemäss der ihnen zugewiesenen Ausbildungskapazität aus. Sie können zu diesem Zweck Ausbildungskooperationen bilden.
+
+#### § 70c
+
+**Kriterien für die Ausbildungskapazitäten für die nicht universitären Aus- und Weiterbildungen**
+
+<sup>1</sup> Der Regierungsrat legt die Ausbildungskapazitäten für die Versorgungsbereiche Akutsomatik, Psychiatrie, Rehabilitation, stationäre Langzeitpflege und ambulante Langzeitpflege des entsprechenden Gesundheitsberufes fest.
+
+<sup>2</sup> Die Ausbildungskapazitäten werden für jeden Gesundheitsberuf aufgrund des Bedarfs festgelegt.
+
+<sup>3</sup> Zusätzlich zum Bedarf können insbesondere folgende Kriterien berücksichtigt werden:
+
+- 1\. Anteil der bestehenden Vollzeitäquivalente
+- 2\. Anteil der vollständig ausserkantonal aus- und weitergebildeten Fachpersonen
+- 3\. Anteil der aus dem Ausland rekrutierten aus- und weitergebildeten Fachpersonen
+- 4\. Aufbau von Strukturen zur Ausbildung
+
+<sup>4</sup> Innerhalb der Versorgungsbereiche werden die Ausbildungskapazitäten je Gesundheitsberuf auf die Leistungserbringer aufgeteilt. Dies erfolgt je nach Leistungsbereich insbesondere unter Berücksichtigung der Vollzeitäquivalente, der Betten gemäss Betriebsbewilligung oder der zulasten der Sozialversicherungen verrechneten Leistungen.
+
+#### § 70f
+
+**Beitrag an die praktische Ausbildung**
+
+<sup>1</sup> Der Kanton leistet an die praktische Ausbildung für den Beruf Pflegefachmann und Pflegefachfrau folgende Beiträge:
+
+- 1\. Fr. 400 pro Praktikumswoche
+- 2\. Fr. 550 pro Praktikumswoche für die Ausbildung in einer nachgewiesenen Kooperation
+
+<sup>2</sup> Die Leistungserbringer reichen dem Amt für Gesundheit die Daten der erbrachten Ausbildungsleistungen gemäss den Vorgaben bis zum 15. März des Folgejahres ein.
+
+<sup>3</sup> Wer die Daten nicht rechtzeitig einreicht, verwirkt seinen Anspruch auf Beiträge an die praktische Ausbildung.
+
+#### § 70g
+
+**Datenlieferung nicht universitäre Aus- und Weiterbildung**
+
+<sup>1</sup> Die Leistungserbringer sind verpflichtet, die notwendigen Daten gemäss den Anforderungen des Amtes für Gesundheit kostenlos und fristgerecht bekannt zu geben.
+
 ## 7. Übergangs- und Schlussbestimmungen
 
 #### § 71
@@ -820,13 +866,7 @@ vom 20.12.2011 (Stand 01.01.2024)
 
 #### § 73
 
-**Festlegung der Tarife durch die Gemeinden**
-
-<sup>1</sup> Die Gemeinden legen die Pflegetarife gemäss § 25 des Gesetzes innert drei Jahren nach Inkrafttreten der Neuordnung der Pflegefinanzierung fest.
-
-<sup>2</sup> Bis zur Festlegung der Pflegetarife durch die Gemeinden gelten für die zugelassenen Leistungserbringer mit kommunalem Leistungsauftrag die bisherigen Finanzierungen der Gemeinden.
-
-<sup>3</sup> Für zugelassene Leistungserbringer ohne kommunalen Leistungsauftrag kann der Verband Thurgauer Gemeinden (VTG) mit den Branchenverbänden die Pflegetarife vereinbaren. Soweit die Gemeinden diesen Vereinbarungen beitreten, gelten die vereinbarten Tarife als Pflegetarife gemäss § 25 Abs. 2 des Gesetzes.
+**…**
 
 #### § 74
 
