@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> janvier 2024)
+du 23 mars 2007 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -170,6 +170,16 @@ Les gestionnaires de réseau coordonnent leurs activités. Ils doivent en partic
 
 [^8-1]: Abrogé par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, avec effet au 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^8-2]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 8a
+
+**Protection contre les cybermenaces**[^8a-1]
+
+<sup>1</sup> Les gestionnaires de réseau, les producteurs et les agents de stockage prennent des mesures pour protéger adéquatement leurs installations contre les cybermenaces.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir des exceptions et, si cela est nécessaire pour garantir l’approvisionnement, étendre l’obligation visée à l’al. 1 à d’autres prestataires de l’approvisionnement en électricité.
+
+[^8a-1]: Introduit par le ch. II 4 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 9
 

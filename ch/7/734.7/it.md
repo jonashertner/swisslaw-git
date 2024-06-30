@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° gennaio 2024)
+del 23 marzo 2007 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -38,7 +38,7 @@ decreta:
 
 <sup>2</sup>
 
-La pre202sente legge fissa inoltre le condizioni quadro per:
+La presente legge fissa inoltre le condizioni quadro per:
 
 - a. garantire un approvvigionamento di energia elettrica affidabile e sostenibile in tutte le regioni del Paese;
 - b. mantenere e potenziare la competitività internazionale dell’economia svizzera nel settore dell’energia elettrica.
@@ -171,6 +171,16 @@ I gestori di rete coordinano le loro attività. Essi sono tenuti in particolare 
 
 [^8-1]: Abrogato dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, con effetto dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^8-2]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 8a
+
+**Protezione contro le ciberminacce**[^8a-1]
+
+<sup>1</sup> I gestori di rete, i produttori e i gestori di impianti di stoccaggio adottano misure per proteggere adeguatamente i loro impianti contro le ciberminacce.
+
+<sup>2</sup> Il Consiglio federale può prevedere eccezioni e, se necessario per garantire l’approvvigionamento, estendere l’obbligo di cui al capoverso 1 ad altri fornitori attivi nel settore dell’approvvigionamento elettrico.
+
+[^8a-1]: Introdotto dal n. II 4 della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° lug. 2024 ([RU 2024 57](https://fedlex.data.admin.ch/eli/oc/2024/57); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 9
 
@@ -541,7 +551,7 @@ A tal fine, il Consiglio federale verifica in particolare se gli statuti o la lo
 
 **Compiti della società nazionale di rete**
 
-- [tab] <sup>1</sup> La società di rete provvede costantemente all’esercizio non discriminatorio, affidabile e performante della rete di trasporto quale base essenziale per l’approvvigionamento sicuro della Svizzera. Essa determina le capacità di trasporto transfrontaliere assicurando il coordinamento con i gestori di rete dei Paesi limitrofi.
+<sup>1</sup> La società di rete provvede costantemente all’esercizio non discriminatorio, affidabile e performante della rete di trasporto quale base essenziale per l’approvvigionamento sicuro della Svizzera. Essa determina le capacità di trasporto transfrontaliere assicurando il coordinamento con i gestori di rete dei Paesi limitrofi.
 
 <sup>2</sup>
 

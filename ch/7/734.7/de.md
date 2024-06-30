@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Januar 2024)
+vom 23. März 2007 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -170,6 +170,16 @@ Die Netzbetreiber koordinieren ihre Tätigkeiten. Ihnen obliegt insbesondere:
 
 [^8-1]: Aufgehoben durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, mit Wirkung seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^8-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 8a
+
+**Schutz vor Cyberbedrohungen**[^8a-1]
+
+<sup>1</sup> Die Netzbetreiber, die Erzeuger und die Speicherbetreiber müssen Massnahmen für einen angemessenen Schutz ihrer Anlagen vor Cyberbedrohungen treffen.
+
+<sup>2</sup> Der Bundesrat kann Ausnahmen vorsehen und, sofern zur Sicherstellung der Versorgung notwendig, die Pflicht nach Absatz 1 auf andere Dienstleister im Bereich der Elektrizitätsversorgung ausdehnen.
+
+[^8a-1]: Eingefügt durch Ziff. II 4 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. Juli 2024 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 9
 
