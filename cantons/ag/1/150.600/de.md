@@ -4,13 +4,12 @@ number: "150.600"
 title: Gesetz über die amtlichen Publikationsorgane
 short: "Publikationsgesetz, PuG"
 language: de
-version: 2012-01-01
-valid_until: 2024-06-30
-version_adopted: 2011-05-03
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2011-05-03
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.600"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1237/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1237/pdf_file"
 
 (Publikationsgesetz, PuG)
 
-Vom 03.05.2011 (Stand 01.01.2012)
+Vom 03.05.2011 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -51,7 +50,7 @@ beschliesst:
 
 <sup>2</sup> Das Amtsblatt erscheint in der Regel wöchentlich.
 
-<sup>3</sup> Publikationen sind kostenpflichtig.
+<sup>3</sup> …
 
 ## 3. Aargauische Gesetzessammlung
 
@@ -174,13 +173,9 @@ beschliesst:
 
 <sup>2</sup> Ein Exemplar der gemäss § 4 durch Verweisung publizierten Erlasse und Verträge kann bei der Staatskanzlei unentgeltlich bezogen werden.
 
-<sup>3</sup> Gegen Kostenersatz können bei der Staatskanzlei bezogen werden
+<sup>3</sup> …
 
-- a) einzelne Erlasse und Verträge aus der SAR als Separatdruck,
-- b) ein elektronischer Datenträger mit der Gesamtausgabe der SAR,
-- c) Ausdrucke der Amtsblattausgaben des laufenden sowie des vergangenen Jahrs.
-
-<sup>4</sup> Ausgenommen ist der Bezug von Regelwerken privater Organisationen, auf die in Erlassen verwiesen wird.
+<sup>4</sup> Der Bezug von Regelwerken privater Organisationen, auf die in Erlassen verwiesen wird, ist unentgeltlich.
 
 #### § 16
 
